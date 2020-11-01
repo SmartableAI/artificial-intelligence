@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "White Castle is adding Flippy the $30,000 robot fast-food cook to 10 more locations in 2021"
-    excerpt: "Miso Robotics' Flippy works as a kitchen assistant, moving along a rail, and can cook 19 different items, requiring fewer human cooks in the kitchen."
-    publishedDateTime: 2020-10-27T17:42:00Z
-    webUrl: "https://www.businessinsider.com/white-castle-adds-more-flippy-robot-cooks-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/white-castle-adds-more-flippy-robot-cooks-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/white-castle-adds-more-flippy-robot-cooks-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 79
-    images:
-      - url: "https://i.insider.com/5f982f64f21803001222c2fb?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 562
-        isCached: true
   - title: "Miso Robotics Says White Castle is Expanding Flippy into More Locations"
     excerpt: "“Artificial intelligence and automation have been an area White Castle ... us on that path – and we couldn’t be more pleased to continue our work with Miso Robotics and pave the way for greater adoption of cutting-edge technology in the fast ..."
     publishedDateTime: 2020-10-28T17:30:00Z

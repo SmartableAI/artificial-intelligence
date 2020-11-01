@@ -37,20 +37,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "How AI Can Help Improve Product Management"
-    excerpt: "FREMONT, CA: It has become more difficult for common people to understand powerful technologies like artificial intelligence (AI) and machine learning (ML) due to its hype. Here are a few tips that can help product managers to understand how AI can help in ..."
-    publishedDateTime: 2020-10-27T16:35:00Z
-    webUrl: "https://www.cioreview.com/news/how-ai-can-help-improve-product-management-nid-32215-cid-214.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 37
-    images:
-      - url: "https://www.cioreview.com/newsimages/705x485_90ieN4t5.jpg"
-        width: 705
-        height: 485
-        isCached: true
 
 secured: "y/D7PI0z57VxqVuyePWXmFbZuJBI+6cx2Fog35vWiUHgguhjybOkB/vp4DOk63zv070uYv0ncykuVXvAJpAfdqv7wojN7FKmlfzRFUQtYGBQtr6MjUWDm9merPgHL3Gwq//+c6Ykkg+B1TvGxBV+Sl3SYeW2koSw4DnsPYBVrKjKo7NYhTWEQt96bFXEm1fpBPD4xNVCmmTmPOtOn1+poesTd8QasT5MrIWCvbT+ri/GZ5a35forUPycZuX3o2kng/h6M+mxsxISKEd0dF9DHssrcYRnRE8bNgmJwJuoM4xtcP/hZhQSZ/tMAY2y4l7lp8757ruD042+sao186WVxyHyGMsr9vVhQ6Dn3pwMhok=;DFzYmCcVW5QQIi33XqpRxQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2020/10/29/the-next-generation
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/10/29/the-next-generation-of-artificial-intelligence-part-2/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -30,24 +30,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Mark Cuban Is Seeking the Next Generation of AI ‘Superstars’"
-    excerpt: "The billionaire investor is funding AI bootcamps aimed at young people in low-income communities. “We don’t recognize how much talent is there.”"
-    publishedDateTime: 2020-10-27T16:40:00Z
-    webUrl: "https://www.wsj.com/articles/mark-cuban-is-seeking-the-next-generation-of-ai-superstars-11603816551"
-    ampWebUrl: "https://www.wsj.com/amp/articles/mark-cuban-is-seeking-the-next-generation-of-ai-superstars-11603816551"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/mark-cuban-is-seeking-the-next-generation-of-ai-superstars-11603816551"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 89
-    images:
-      - url: "https://images.wsj.net/im-250220/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "dQ7BN9GNI13vPylu6y6LbF7V7AsfA1n2GtGYqvSZIVsGTv+8xmH+oySDJybGAkruUEdxUsZC41J+tQhHaWYmxvdrY1UlG67q7MGTYYVUrleaQt6jH+YawpIjYRmwQT3sVQ1iaXCmZVDel8aG5dIyaECGWl7vr0IeLGK676DfJQ7/29iAOwUzWgvNwAdG9NTaDbfWWW+VdDQ5JMeb85CZreFrzLVQAqmFQCgjLoNpkzRkFK5YVh/xfFPlQ+tiD1Fpy8eBtW0MCzfFf9ieedbEZs7k49H77itCSSgbNTihJrn1v+ODHCrPowUq/zxP3dvbh80QIxaKa5G4Si3PEXcUF0+FVvgzu3lRHq0qrPlBHzHYFcyV32DnoVHtpjwT3ZhXIJz/gEd1/o/bmVcNGCv566fPESPvUpCsWR+NhrXOn7vCALfniLDbT8/JFmj59CX+3vXC2LLLLeiVpNa7rvWnIVuN5u+krxdzyDhvZF/m6cwd5elD8/lSecJrf8YJJhylPnQ1XFWoVft4oim7GXXuGg==;a4L/7L0i892dYIaVSgmYHA=="
 ---

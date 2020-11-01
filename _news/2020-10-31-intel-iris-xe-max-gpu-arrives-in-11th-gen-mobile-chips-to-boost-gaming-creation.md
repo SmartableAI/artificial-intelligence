@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/intel-iris-xe-max-gpu-arrives-i
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intel-iris-xe-max-gpu-arrives-in-11th-gen-mobile-chips-to-boost-gaming-creation/"
 type: article
 quality: 99
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://images.idgesg.net/images/article/2020/10/intel-tiger-lake-core-iris-xe-max-logo-100864467-large.jpg"
         width: 1199
         height: 854
+        isCached: true
+  - title: "Intel Launches Its First Discrete GPU for Laptops, the Iris Xe Max"
+    excerpt: "Intel’s first discrete GPU for laptops, the Iris Xe Max, will start shipping next month in three models from Acer, Asus, and Dell. According to Intel, the GPU will arrive in Dell’s Inspiron 15 7000 2-in-1 convertible,"
+    publishedDateTime: 2020-10-31T21:21:00Z
+    webUrl: "https://uk.pcmag.com/graphics-cards/129720/intel-launches-its-first-discrete-gpu-for-laptops-the-iris-xe-max?amp=1"
+    ampWebUrl: "https://uk.pcmag.com/graphics-cards/129720/intel-launches-its-first-discrete-gpu-for-laptops-the-iris-xe-max?amp=1"
+    cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/graphics-cards/129720/intel-launches-its-first-discrete-gpu-for-laptops-the-iris-xe-max?amp=1"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 89
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/i/intel-laun/intel-launches-its-first-discrete-gpu-for-laptops-the-iris-x_zwcq.620.jpg"
+        width: 620
+        height: 349
         isCached: true
   - title: "Intel introduces Iris Xe MAX Graphics with discrete GPU and Intel Deep link"
     excerpt: "This framework helps maximize CPU performance and boost artificial intelligence (AI) creation performance ... can also deliver 1080p gaming at par with Nvidia GeForce MX350 GPU. Intel has added Game Sharpening and Instant Game Tuning as well which will ..."

@@ -31,332 +31,156 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla raises price of ‘Full Self-Driving’ option to $10,000"
-    excerpt: "Tesla’s “Full Self-Driving” option, which currently enables Autopilot features like changing lanes on highways and automatic car parking, now costs $10,000, or $2,000 more than before. The price rise only covers the US for now, where the company’s ..."
-    publishedDateTime: 2020-10-30T10:26:00Z
-    webUrl: "https://www.theverge.com/2020/10/30/21541571/tesla-full-self-driving-price-increase-10000-dollars-autopilot-beta"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/30/21541571/tesla-full-self-driving-price-increase-10000-dollars-autopilot-beta"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/30/21541571/tesla-full-self-driving-price-increase-10000-dollars-autopilot-beta"
+  - title: "Waymo, Daimler to partner in developing self-driving semi trucks"
+    excerpt: "Daimler AG's <DAIGn.DE> commercial truck unit and Alphabet Inc's <GOOGL.O> Waymo on Tuesday said they will collaborate on development of self-driving Class 8 semi trucks, applying Waymo's automated system to Daimler's Freightliner Cascadia."
+    publishedDateTime: 2020-10-27T19:19:00Z
+    webUrl: "https://www.reuters.com/article/autos-selfdriving-waymo-daimler-int/waymo-daimler-to-partner-in-developing-self-driving-semi-trucks-idUSKBN27C1V0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C1UM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C1UM"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
+      name: Reuters
+      domain: reuters.com
     quality: 104
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/Q2hKU1xHrSqpHBvLshBWf7i9NuI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67712901/acastro_180430_1777_tesla_0001.0.jpg"
-        width: 1400
-        height: 933
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538989863&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q17N"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Want 'Full Self Driving' Mode on Your Tesla? Get Ready to Fork Over $10,000"
-    excerpt: "The price hike was expected now that the Full Self Driving (FSD) capability is in beta. It's likely to increase more as the feature improves, so Tesla is hoping buyers will take advantage of it now."
-    publishedDateTime: 2020-10-30T21:22:00Z
-    webUrl: "https://www.pcmag.com/news/want-full-self-driving-mode-on-your-tesla-get-ready-to-fork-over-10000"
-    ampWebUrl: "https://www.pcmag.com/news/want-full-self-driving-mode-on-your-tesla-get-ready-to-fork-over-10000?amp=true"
-    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/want-full-self-driving-mode-on-your-tesla-get-ready-to-fork-over-10000?amp=true"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 102
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/02kdtIiBEkRPNAkOLHK6m0v-1.1604092224.fit_lim.size_1200x630.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Tesla raises price of Full Self-Driving mode to $10,000 now that it's in beta"
-    excerpt: "Elon Musk warned that Tesla would hike the price of Full Self-Driving now that it’s in beta, and he’s being true to his word. The Verge reports Tesla has raised the cost of the package to $10,000 in the US for both new car buyers and upgrades,"
-    publishedDateTime: 2020-10-30T13:30:00Z
-    webUrl: "https://www.engadget.com/tesla-raises-full-self-driving-price-132658526.html"
-    ampWebUrl: "https://www.engadget.com/amp/tesla-raises-full-self-driving-price-132658526.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-raises-full-self-driving-price-132658526.html"
+  - title: "Waymo shares in-depth details of self-driving car activity in Phoenix"
+    excerpt: "Waymo’s vehicles have driven a total of 6.1 million miles in Phoenix, Arizona, where it first started testing its self-driving technology."
+    publishedDateTime: 2020-10-31T16:36:00Z
+    webUrl: "https://www.engadget.com/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html"
+    ampWebUrl: "https://www.engadget.com/amp/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html"
     type: article
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 101
+    quality: 104
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fc23c1040-1aae-11eb-9acb-4b8d39a25eae&client=amp-blogside-v2&signature=b0f48ec61612f35b33d4c0713a1a5f023581c1a1"
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Feda031a0-1b7e-11eb-aeff-c6d8e3737344&client=amp-blogside-v2&signature=64755fdb1c313a1eb2bd21d17cef2c2065e20715"
         width: 600
         height: 350
         isCached: true
-  - title: "Watch Tesla's 'Full Self-Driving' mode fail on San Francisco's twistiest street"
-    excerpt: "Tesla's new \"Full Self-Driving\" mode (that isn't actually fully autonomous, and still requires drivers to hold the wheel and pay attention) just got owned by a famous San Francisco street."
-    publishedDateTime: 2020-10-30T18:51:00Z
-    webUrl: "https://mashable.com/video/tesla-full-self-driving-fail/"
-    ampWebUrl: "https://mashable.com/video/tesla-full-self-driving-fail.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/tesla-full-self-driving-fail.amp"
+  - title: "Waymo pulls back the curtain on 6.1 million miles of self-driving car data in Phoenix"
+    excerpt: "Over 21 months in Arizona, Waymo’s vehicles were involved in 47 collisions and near-misses, none of which resulted in injuries In its first report on its autonomous vehicle operations in Phoenix, Arizona,"
+    publishedDateTime: 2020-10-30T14:06:00Z
+    webUrl: "https://www.theverge.com/2020/10/30/21538999/waymo-self-driving-car-data-miles-crashes-phoenix-google"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/30/21538999/waymo-self-driving-car-data-miles-crashes-phoenix-google"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/30/21538999/waymo-self-driving-car-data-miles-crashes-phoenix-google"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 100
+      name: The Verge
+      domain: theverge.com
+    quality: 97
     images:
-      - url: "https://mondrian.mashable.com/2020%252F10%252F30%252Fb4%252F88af5ff4d0ac41279273c9231a242c21.6b105.jpg%252F1200x630.jpg?signature=qaP-B1dV49N-9EOQPgPCcRl2Hng="
-        width: 1200
-        height: 630
+      - url: "https://cdn.vox-cdn.com/thumbor/0rCtvcMvE9CVhAYv64lC5YBQ4yw=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67713914/vpavic_181128_3122_0115.0.jpg"
+        width: 1400
+        height: 933
         isCached: true
-  - title: "Tesla officially increases price of its Full Self-Driving Kickstarter campaign to $10,000"
-    excerpt: "Tesla has now officially increased the price of its Full Self-Driving package to $10,000 in the US. That’s quite a price for a model that most closely resembles a Kickstarter campaign. In a Kickstarter campaign,"
-    publishedDateTime: 2020-10-29T16:21:00Z
-    webUrl: "https://electrek.co/2020/10/29/tesla-officially-increases-price-of-its-full-self-driving-kickstarter-campaign-to-10000/"
-    ampWebUrl: "https://electrek.co/2020/10/29/tesla-officially-increases-price-of-its-full-self-driving-kickstarter-campaign-to-10000/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/29/tesla-officially-increases-price-of-its-full-self-driving-kickstarter-campaign-to-10000/amp/"
+  - title: "Daimler Invests in Lidar Startup to Bolster Self-Driving Truck Effort"
+    excerpt: "Daimler AG’s truck unit is investing in a laser-sensor startup to bolster its development of self-driving trucks in the U.S. less than a week after striking a deal to use driverless technology from a unit of Google parent Alphabet Inc. Daimler Truck AG ..."
+    publishedDateTime: 2020-10-30T11:58:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-10-30/daimler-isn-t-relying-solely-on-waymo-for-self-driving-trucks"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-10-30/daimler-isn-t-relying-solely-on-waymo-for-self-driving-trucks"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-30/daimler-isn-t-relying-solely-on-waymo-for-self-driving-trucks"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 95
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?quality=82&strip=all"
-        width: 1851
-        height: 853
-        isCached: true
-  - title: "Tesla bumps up the price of its Full Self-Driving tech to $10,000"
-    excerpt: "Even for the wealthier individuals that most Tesla vehicles are targeting, an extra $2,000 might be a tough pill to swallow, especially when the technology is"
-    publishedDateTime: 2020-10-30T16:13:00Z
-    webUrl: "https://www.techspot.com/news/87376-tesla-bumps-up-price-full-self-driving-tech.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/87376-tesla-bumps-up-price-full-self-driving-tech.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87376-tesla-bumps-up-price-full-self-driving-tech.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
+      name: Bloomberg
+      domain: bloomberg.com
     quality: 89
     images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-30-image-11.jpg"
-        width: 1680
-        height: 868
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivAEZ0L1V7mU/v0/360x-1.jpg"
+        width: 360
+        height: 270
         isCached: true
-  - title: "Tesla Hikes Up the Price of 'Full Self-Driving' Option to $10,000"
-    excerpt: "Tesla bumped up the price of its \"full self-driving\" from $8,000 to $10,000 on Friday, and odds are this won’t be the last price hike Tesla owners see."
-    publishedDateTime: 2020-10-31T01:17:00Z
-    webUrl: "https://gizmodo.com/tesla-hikes-up-the-price-of-full-self-driving-option-to-1845535197"
-    ampWebUrl: "https://gizmodo.com/tesla-hikes-up-the-price-of-full-self-driving-option-to-1845535197/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tesla-hikes-up-the-price-of-full-self-driving-option-to-1845535197/amp"
+  - title: "Daimler Trucks’ self-driving haulage finds a key part of its autonomous vision"
+    excerpt: "Daimler Trucks just gone done inking a collaboration with Waymo, and now it’s picking out cutting edge sensors for its self-driving haulage as the pieces slot into place for autonomy. The German automaker announced earlier this week that it would be ..."
+    publishedDateTime: 2020-10-30T19:31:00Z
+    webUrl: "https://www.slashgear.com/daimler-trucks-luminar-autonomous-haulage-investment-volvo-waymo-30645189/"
+    ampWebUrl: "https://www.slashgear.com/daimler-trucks-luminar-autonomous-haulage-investment-volvo-waymo-30645189/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/daimler-trucks-luminar-autonomous-haulage-investment-volvo-waymo-30645189/amp/"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 89
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/nhmzpjpkgvvsqawmqowb.jpg"
-        width: 800
-        height: 451
-        isCached: true
-  - title: "Tesla's Full Self-Driving beta is a reminder autonomous cars don't yet exist"
-    excerpt: "Driving beta running with drivers behind the wheel bring a moment of pause. The videos seen here show off what I'm sure are just a tiny sliver of incidents Tesla owners experienced since the technology starting rolling out to cars in beta form last week."
-    publishedDateTime: 2020-10-27T15:41:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/teslas-full-self-driving-beta-is-a-reminder-autonomous-cars-dont-yet-exist/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/teslas-full-self-driving-beta-is-a-reminder-autonomous-cars-dont-yet-exist/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/teslas-full-self-driving-beta-is-a-reminder-autonomous-cars-dont-yet-exist/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 86
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/AVtNDbflfjRE8PTezweZ2ehMrBE=/2019/12/20/5d1f0f70-a427-4959-bc2c-7714bcc0c954/ogi-autopilot.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Tesla Autopilot safety shows improvement as Full Self Driving fail videos rise"
-    excerpt: "It's also important to note that this information is for Autopilot miles from the previous quarter, so this is not a reflection of Tesla's recently launched Full Self Driving beta rollout. There's an interesting potential parallel that we think will ..."
-    publishedDateTime: 2020-10-27T15:54:00Z
-    webUrl: "https://www.autoblog.com/2020/10/27/tesla-autopilot-full-self-driving-safety/"
-    ampWebUrl: "https://www.autoblog.com/amp/2020/10/27/tesla-autopilot-full-self-driving-safety/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/10/27/tesla-autopilot-full-self-driving-safety/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
+      name: SlashGear
+      domain: slashgear.com
     quality: 85
     images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2020/10/27105405/Screen-Shot-2020-10-27-at-10.53.36-AM.png"
-        width: 800
-        height: 450
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/10/Daimler_Truck_Luminar.jpg"
+        width: 1680
+        height: 1049
         isCached: true
-  - title: "Watch this self-driving race car hilariously smash into a wall"
-    excerpt: "Autonomous cars are the future, apparently. Watch this self-driving car race series and decide for yourself how far along the tech is."
-    publishedDateTime: 2020-10-30T09:10:00Z
-    webUrl: "https://thenextweb.com/shift/2020/10/30/watch-this-self-driving-race-car-hilariously-smash-into-a-wall/"
-    ampWebUrl: "https://thenextweb.com/shift/2020/10/30/watch-this-self-driving-race-car-hilariously-smash-into-a-wall/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/10/30/watch-this-self-driving-race-car-hilariously-smash-into-a-wall/amp/"
+  - title: "Daimler Teams Up With Waymo On Self-Driving Tractor-Trailer Trucks"
+    excerpt: "Waymo has a new partner. The Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) self-driving subsidiary has inked a deal with Daimler's (OTC: DMLRY) heavy-truck unit, in which the two will work to create self-driving tractor-trailers based on Daimler's Freightliner ..."
+    publishedDateTime: 2020-10-27T23:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/daimler-teams-up-with-waymo-on-self-driving-tractor-trailer-trucks-2020-10-27?time=1603811701"
+    ampWebUrl: "https://www.nasdaq.com/articles/daimler-teams-up-with-waymo-on-self-driving-tractor-trailer-trucks-2020-10-27?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/daimler-teams-up-with-waymo-on-self-driving-tractor-trailer-trucks-2020-10-27?amp"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
+  - title: "Waymo And Other Self-Driving Car Companies Readying Real-World Driverless Transportation"
+    excerpt: "Until spring this year, Waymo’s self-driving vehicles were in their testing phase and were used in up to 10% of the firm’s rides. The pandemic forced the company to shutter its doors and temporarily suspend on-road testing, but it is now back online ..."
+    publishedDateTime: 2020-10-30T23:59:00Z
+    webUrl: "https://www.forbes.com/sites/peterlyon/2020/10/31/waymo-and-other-self-driving-car-companies-readying-real-world-driverless-transportation/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 75
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9e1ae8b307dfb172a46190%2F0x0.jpg"
+        width: 1199
+        height: 798
+        isCached: true
+  - title: "Daimler Trucks and Waymo to partner on self-driving trucks"
+    excerpt: "Oct. 27 (UPI) --Daimler Trucks and Waymo announced a partnership Tuesday to bring self-driving trucks to market. The partnership will combine Waymo's automated driver technology, dubbed \"The World's Most Experience Driver,\" with Daimler Trucks engineering ..."
+    publishedDateTime: 2020-10-27T18:47:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/10/27/Daimler-Trucks-and-Waymo-to-partner-on-self-driving-trucks/1751603820336/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/10/27/Daimler-Trucks-and-Waymo-to-partner-on-self-driving-trucks/1751603820336/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/10/27/Daimler-Trucks-and-Waymo-to-partner-on-self-driving-trucks/1751603820336/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
     quality: 74
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/crash-acronis-autonomous-car-ev-future-track-grassi-roborace-devbot-796x447.png"
-        width: 796
-        height: 447
+      - url: "https://cdnph.upi.com/sv/ph/og/i/1751603820336/2020/1/16038230842717/v1.5/Daimler-Trucks-and-Waymo-to-partner-on-self-driving-trucks.jpg"
+        width: 797
+        height: 534
         isCached: true
-  - title: "Tesla is now beta-testing self-driving software on public roads"
-    excerpt: "Tesla considers it to be beta software and says it's not intended for fully autonomous operation. Drivers are expected to keep their eyes on the road and hands on the wheel at all times. To understand the new software,"
-    publishedDateTime: 2020-10-30T11:45:00Z
-    webUrl: "https://arstechnica.com/cars/2020/10/tesla-is-now-beta-testing-self-driving-software-on-public-roads/"
+  - title: "Waymo and Daimler to build self-driving Freightliner semi truck"
+    excerpt: "Autonomous car technology company Waymo is teaming up with Daimler to build self-driving semitrucks. Continue Reading Below The Alphabet-owned brand will install its Waymo Driver package into Daimler-owned Freightliner Cascadia semis for evaluation ..."
+    publishedDateTime: 2020-10-28T13:42:00Z
+    webUrl: "https://www.foxbusiness.com/lifestyle/waymo-and-daimler-to-build-self-driving-freightliner-semi-truck"
+    ampWebUrl: "https://www.foxbusiness.com/lifestyle/waymo-and-daimler-to-build-self-driving-freightliner-semi-truck.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/lifestyle/waymo-and-daimler-to-build-self-driving-freightliner-semi-truck.amp"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 74
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/10/tesla_jeeesus-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
-  - title: "Videos of Tesla's new 'full self-driving' software look futuristic — but show just how far it is from full autonomy"
-    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since DOW S&P 500 NASDAQ 100 There's still no such thing as a self-driving car, but you wouldn't know that from hearing Elon Musk or Tesla talk about their ..."
-    publishedDateTime: 2020-10-27T19:31:00Z
-    webUrl: "https://www.businessinsider.com/tesla-self-driving-beta-software-videos-not-fully-autonomous-autopilot-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/tesla-self-driving-beta-software-videos-not-fully-autonomous-autopilot-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-self-driving-beta-software-videos-not-fully-autonomous-autopilot-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://i.insider.com/5f9878b30c60aa00190d4a68?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Tesla to begin rollout of self-driving beta"
-    excerpt: "Experience the best self-driving car tech with Tesla. Although, the beta version update is only for customers in Early Access Program, everyone will be benefited with high-tech by the end of 2020."
-    publishedDateTime: 2020-10-29T14:12:00Z
-    webUrl: "https://www.technowize.com/tesla-to-begin-rollout-of-self-driving-beta/"
-    ampWebUrl: "https://www.technowize.com/tesla-to-begin-rollout-of-self-driving-beta/amp/"
-    cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/tesla-to-begin-rollout-of-self-driving-beta/amp/"
-    type: article
-    provider:
-      name: Technowize
-      domain: technowize.com
-    quality: 59
-    images:
-      - url: "https://www.technowize.com/wp-content/uploads/2020/10/Tesla-beta-image.png"
-        width: 600
-        height: 600
-        isCached: true
-  - title: "Tesla’s Full Self-Driving $2k price increase takes effect"
-    excerpt: "Driving suite has increased in price by $2,000 from $8,000 to $10,000, as CEO Elon Musk announced last week. Musk announced the price increase last week on the heels of the FSD Beta release on October 20th,"
-    publishedDateTime: 2020-10-29T15:17:00Z
-    webUrl: "https://www.teslarati.com/tesla-full-self-driving-price-2020-10k/"
-    ampWebUrl: "https://www.teslarati.com/tesla-full-self-driving-price-2020-10k/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-full-self-driving-price-2020-10k/amp/"
-    type: article
-    provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 59
-    images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2020/10/tesla-full-self-driving-neural-network-1024x501.jpg"
-        width: 1024
-        height: 501
-        isCached: true
-  - title: "Tesla 'full self-driving' vehicles can't drive themselves"
-    excerpt: "DETROIT — Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and ..."
-    publishedDateTime: 2020-10-30T14:15:00Z
-    webUrl: "https://www.9news.com/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
-    ampWebUrl: "https://www.9news.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
-    cdnAmpWebUrl: "https://www-9news-com.cdn.ampproject.org/c/s/www.9news.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
-    type: article
-    provider:
-      name: KUSA
-      domain: 9news.com
-    quality: 59
-    images:
-      - url: "https://media.9news.com/assets/CCT/images/5b2d9a1c-ebf7-467c-93bb-62af47399b18/5b2d9a1c-ebf7-467c-93bb-62af47399b18_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Tesla's Full Self-Driving Beta 'Learns' Roundabouts And Speed Bumps"
-    excerpt: "Tesla's FSD system is \"learning.\" As you can see, it appears to make corrections once test drivers \"teach\" it."
-    publishedDateTime: 2020-10-30T13:43:00Z
-    webUrl: "https://insideevs.com/news/451720/teslas-full-self-driving-beta-learns-roundabouts-and-speed-bumps/"
-    ampWebUrl: "https://insideevs.com/news/451720/teslas-full-self-driving-beta-learns-roundabouts-and-speed-bumps/amp/"
-    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/451720/teslas-full-self-driving-beta-learns-roundabouts-and-speed-bumps/amp/"
-    type: article
-    provider:
-      name: Inside EVs
-      domain: insideevs.com
-    quality: 59
-    images:
-      - url: "https://cdn.motor1.com/images/mgl/0106m/s1/tesla-fsd-speed-bumps.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Tesla 'full self-driving' vehicles can't drive themselves"
-    excerpt: "DETROIT — Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and ..."
-    publishedDateTime: 2020-10-30T18:21:00Z
-    webUrl: "https://www.king5.com/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
-    ampWebUrl: "https://www.king5.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
-    cdnAmpWebUrl: "https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
-    type: article
-    provider:
-      name: KING5
-      domain: king5.com
-    quality: 59
-    images:
-      - url: "https://media.king5.com/assets/CCT/images/5b2d9a1c-ebf7-467c-93bb-62af47399b18/5b2d9a1c-ebf7-467c-93bb-62af47399b18_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Consumer Reports Finds GM’s Self-Driving Tech Superior to Tesla’s Autopilot"
-    excerpt: "Tesla’s Autopilot may be stealing more headlines as of late, but according to new findings from Consumer Reports, GM’s version is leagues ahead. Consumer advocate publication Consumer Reports recently conducted a test featuring a lineup of 17 vehicles with active driving assistance systems,"
-    publishedDateTime: 2020-10-28T21:16:00Z
-    webUrl: "https://robbreport.com/motors/cars/gms-self-driving-tech-beats-tesla-in-consumer-reports-test-1234577947/"
-    ampWebUrl: "https://robbreport.com/motors/cars/gms-self-driving-tech-beats-tesla-in-consumer-reports-test-1234577947/amp/"
-    cdnAmpWebUrl: "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/gms-self-driving-tech-beats-tesla-in-consumer-reports-test-1234577947/amp/"
-    type: article
-    provider:
-      name: Robb Report
-      domain: robbreport.com
-    quality: 57
-    images:
-      - url: "https://robbreport.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-28-at-12.jpg?w=1000"
-        width: 1000
-        height: 563
-        isCached: true
-  - title: "As Tesla full self-driving goes beta, Autopilot is rated a 'distant second' to GM's Super Cruise"
-    excerpt: "Tesla's Autopilot loses out in the Consumer Reports ratings over its handling of unresponsive drivers. A decade after Google launched its self-driving car project now known as Waymo, the idea of a fully autonomous car remains elusive – even for Tesla owners,"
-    publishedDateTime: 2020-10-29T13:33:00Z
-    webUrl: "https://www.zdnet.com/article/as-tesla-full-self-driving-goes-beta-autopilot-is-rated-a-distant-second-to-gms-super-cruise/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/as-tesla-full-self-driving-goes-beta-autopilot-is-rated-a-distant-second-to-gms-super-cruise/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/as-tesla-full-self-driving-goes-beta-autopilot-is-rated-a-distant-second-to-gms-super-cruise/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 56
-  - title: "Tesla Hikes Up the Price of ‘Full Self-Driving’ Option to $US10,000 ($14,241)"
-    excerpt: "While the tech powering it is no doubt impressive, to call it “full self-driving” isn’t entirely accurate. Tesla warns users of its beta program that the software still requires vigilant monitoring and that “it may do the wrong thing at the worse ..."
-    publishedDateTime: 2020-10-31T01:18:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/10/tesla-hikes-up-the-price-of-full-self-driving-option-to-us10000-14241/"
-    ampWebUrl: "https://www.gizmodo.com.au/2020/10/tesla-hikes-up-the-price-of-full-self-driving-option-to-us10000-14241/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/10/tesla-hikes-up-the-price-of-full-self-driving-option-to-us10000-14241/amp/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 56
-    images:
-      - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2020/10/31/nhmzpjpkgvvsqawmqowb-scaled.jpg?ar=16%3A9&fit=crop&q=65&w=1280"
+      - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2020/10/1808cc53-waymo.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Tesla’s ‘Full Self Driving’ Beta Tech Nearly Wrecked This Model 3 Into a Parked Car"
-    excerpt: "Tesla's \"Full Self Driving\" update was sent out to an unknown number of beta testers a few days ago, and videos showing the system's performance are being shared around the internet. One such clip, posted by YouTuber Brandon M,"
-    publishedDateTime: 2020-10-27T19:17:00Z
-    webUrl: "https://www.thedrive.com/tech/37297/teslas-full-self-driving-beta-tech-nearly-wrecked-this-model-3-into-a-parked-car"
+  - title: "Daimler and Waymo partner on self-driving trucks"
+    excerpt: "Benz and one of the biggest truck manufacturers in the world, on Tuesday announced a partnership with Alphabet Inc.-owned self-driving technology startup Waymo. The partnership will see Daimler integrate Waymo's self-driving system,"
+    publishedDateTime: 2020-10-28T13:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1120792_daimler-and-waymo-partner-on-self-driving-trucks"
     type: article
     provider:
-      name: The Drive
-      domain: thedrive.com
-    quality: 48
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 54
     images:
-      - url: "https://api.thedrive.com/wp-content/uploads/2020/10/tesla-fsd-moronic-lead.jpg?quality=85"
+      - url: "https://images.hgmsites.net/hug/freightliner-cascadia-semi-truck_100685398_h.jpg"
         width: 1920
-        height: 1080
+        height: 1298
         isCached: true
   - title: "Race car drivers had a lot of fun making fun of self-driving race car driving straight into wall"
     excerpt: "Race car drivers took to social media to point out their job security after video showed a self-driving race car drive itself into a wall."
@@ -374,15 +198,96 @@ related:
         width: 1024
         height: 567
         isCached: true
-  - title: "Tesla hikes price of 'Full Self-Driving' option to $10,000"
-    excerpt: "Soon after the launch of the 'Full Self Driving (FSD) set of features to a limited number of expert and careful drivers, the electric car maker Tesla has increased the price of the new option to $10,000 from $8,000. The price of the 'Full Self-Driving ..."
-    publishedDateTime: 2020-10-31T05:40:00Z
-    webUrl: "https://www.dailypioneer.com/2020/trending-news/tesla-hikes-price-of--full-self-driving--option-to--10-000.html"
+  - title: "Waymo And Other Self-Driving Car Companies Readying Real-World Driverless Transportation"
+    excerpt: "Just after Alphabet-owned Waymo started its driverless taxi service to the public in Phoenix, other autonomous vehicle developers are following suit with"
+    publishedDateTime: 2020-11-01T02:25:00Z
+    webUrl: "https://www.newsoneplace.com/35575211911/waymo-car-companies"
     type: article
     provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 19
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 45
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https://specials-images.forbesimg.com/imageserve/5f9e1ae8b307dfb172a46190/0x0.jpg"
+        width: 4256
+        height: 2832
+        isCached: true
+  - title: "Waymo Issues Self-Driving Car Incident Score Card for Phoenix Area"
+    excerpt: "Self-driving tech company Waymo, which this month opened its driverless taxi service in the Phoenix suburbs to the public, on Friday said its autonomous"
+    publishedDateTime: 2020-10-30T15:40:00Z
+    webUrl: "https://www.insurancejournal.com/news/west/2020/10/30/588935.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 39
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2018/02/some-nebraska-lawmakers-580x349.jpg"
+        width: 580
+        height: 349
+        isCached: true
+  - title: "Daimler teams up with lidar maker Luminar for self-driving trucks"
+    excerpt: "Daimler AG’s truck business, the world’s biggest manufacturer of commercial vehicles, today said that it’s teaming up with lidar maker Luminar Technologies Inc. to develop self-driving trucks."
+    publishedDateTime: 2020-10-30T19:44:00Z
+    webUrl: "https://siliconangle.com/2020/10/30/daimler-teams-lidar-maker-luminar-self-driving-trucks/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/daimler.jpg"
+        width: 1000
+        height: 558
+        isCached: true
+  - title: "Daimler invests in lidar company Luminar ahead of self-driving truck launch"
+    excerpt: "In its announcement, Daimler said it will work with Luminar to help realize a goal of having a semi-trailer truck capable of handling highway situations on sale within the coming"
+    publishedDateTime: 2020-10-30T17:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1130140_daimler-invests-in-lidar-company-luminar-ahead-of-self-driving-truck-launch"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 37
+    images:
+      - url: "https://images.hgmsites.net/hug/daimler-self-driving-semi-trailer-truck-prototype_100767932_h.jpg"
+        width: 1920
+        height: 1038
+        isCached: true
+  - title: "Daimler invests in lidar startup Luminar to bolster self-driving truck effort"
+    excerpt: "Daimler’s truck unit is investing in a laser-sensor startup to bolster its development of self-driving trucks in the U.S. less than a week after striking a deal to use driverless technology from Alphabet Inc."
+    publishedDateTime: 2020-10-30T14:23:00Z
+    webUrl: "https://europe.autonews.com/automakers/daimler-invests-lidar-startup-luminar-bolster-self-driving-truck-effort"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 36
+    images:
+      - url: "https://s3-prod-europe.autonews.com/styles/800x600/s3/ANE_170619841_AR_-1_UAAHVBCOZQPU.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Luminar gets financial backing from Daimler to help with self-driving truck tech"
+    excerpt: "Daimler Truck AG is taking a minority stake in Palo Alto-based Luminar Technologies Inc. to help develop technology that will allow it to develop self-driving trucks, the companies announced Friday. In a news release with a dual dateline of Palo Alto and ..."
+    publishedDateTime: 2020-10-30T14:56:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2020/10/30/luminar-daimler-self-driving-truck-tech.html"
+    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/10/30/luminar-daimler-self-driving-truck-tech.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/10/30/luminar-daimler-self-driving-truck-tech.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
+  - title: "Waymo and Daimler to build self-driving trucks"
+    excerpt: "Daimler Trucks and autonomous driving technology vendor Waymo are partnering to deploy self-driving SAE Level 4 trucks for future transportation logistics operations. The initial collaboration will combine Waymo’s automated driving technology with a new version of Daimler’s Freightliner Cascadia to enable autonomous driving."
+    publishedDateTime: 2020-10-30T12:46:00Z
+    webUrl: "https://insights.globalspec.com/article/15320/waymo-and-daimler-to-build-self-driving-trucks"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 34
 
 secured: "dsxKPg+DzhJ2BiIGEzyvrpkV2bax2jeQfP02vVCoKgBDBeAq0pvZOZciKcSLPzHAddiadL7wCRMBP5z/1S5NiYznGyDNj3Aee5WdHC5S5H7wx2YWP0Uov8Xwhj+AMPsmQJ24HgNn1Cup9TT85QcWYZi7+9ZaOLV1yvLmNmQ8dvHTHvqMp2vzNYGRfSqwZQq4UrrUwd6p6TUHDOFigD49vWq9w+1vWVKpiTL0ZWCPj3j6jgbc62c5QQJ3U9eAW05h5X4kb+lv4eWI91IFr0khvv/80Q5ZeyU65njKWFGQ4ZBR1AUXI6DShpKb/gwWsyxIWvQzkeJDnRrKBBpEymrtUFyBfMSr2hTCcWXJqaJU3i39fklcZtTavUXIv4O0yZaqHENs5XnTfI+PHPqhN+J+2ZepDGbyonDblzlNyDOHCsvG0NbDUl3ukGg6Ka5p8AhA18EnIKMdaNL+xyc/4OnZGDqi0clz4hJYQuGAC4cjRUGQePhKulBd2H++ofDxZ4ThhyGA9Wb9D7EpLwAoLEz+Ig==;rT5zHltRA339QSXWOVEMBg=="
 ---

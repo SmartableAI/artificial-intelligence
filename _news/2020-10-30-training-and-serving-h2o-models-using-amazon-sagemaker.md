@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "zomato digitizes menus using Amazon Textract and Amazon SageMaker"
-    excerpt: "This post is co-written by Chiranjeev Ghai, ML Engineer at zomato. zomato is a global food-tech company based in India. Are you the kind of person who has very specific cravings? Maybe when the mood hits, you don’t want just any kind of Indian food—you want Chicken Chettinad with a side of paratha, and"
-    publishedDateTime: 2020-10-27T17:08:58Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/zomato-digitizes-menus-using-amazon-textract-and-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 121
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/19/menu_w_yellow_background.jpg"
-        width: 900
-        height: 628
-        isCached: true
   - title: "Optimizing costs for machine learning with Amazon SageMaker"
     excerpt: "Applications based on machine learning (ML) can provide tremendous business value. Using ML, we can solve some of the most complex engineering problems that previously were infeasible. One of the advantages of running ML on the AWS Cloud is that you can continually optimize your workloads and reduce"
     publishedDateTime: 2020-10-27T18:31:07Z

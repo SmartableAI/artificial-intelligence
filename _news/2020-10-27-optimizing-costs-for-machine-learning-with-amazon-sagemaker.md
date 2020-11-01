@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/optimizing-costs-for
 webUrl: "https://aws.amazon.com/blogs/machine-learning/optimizing-costs-for-machine-learning-with-amazon-sagemaker/"
 type: article
 quality: 106
-heat: -1
-published: false
+heat: 126
+published: true
 
 provider:
   name: AWS
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "zomato digitizes menus using Amazon Textract and Amazon SageMaker"
-    excerpt: "This post is co-written by Chiranjeev Ghai, ML Engineer at zomato. zomato is a global food-tech company based in India. Are you the kind of person who has very specific cravings? Maybe when the mood hits, you don’t want just any kind of Indian food—you want Chicken Chettinad with a side of paratha, and"
-    publishedDateTime: 2020-10-27T17:08:58Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/zomato-digitizes-menus-using-amazon-textract-and-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 121
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/19/menu_w_yellow_background.jpg"
-        width: 900
-        height: 628
-        isCached: true
   - title: "Training and serving H2O models using Amazon SageMaker"
     excerpt: "Model training and serving steps are two essential pieces of a successful end-to-end machine learning (ML) pipeline. These two steps often require different software and hardware setups to provide the best mix for a production environment. Model training is optimized for a low-cost, feasible total run"
     publishedDateTime: 2020-10-30T23:43:01Z

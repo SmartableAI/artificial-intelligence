@@ -63,6 +63,22 @@ related:
         width: 1199
         height: 854
         isCached: true
+  - title: "Intel Launches Its First Discrete GPU for Laptops, the Iris Xe Max"
+    excerpt: "Intel’s first discrete GPU for laptops, the Iris Xe Max, will start shipping next month in three models from Acer, Asus, and Dell. According to Intel, the GPU will arrive in Dell’s Inspiron 15 7000 2-in-1 convertible,"
+    publishedDateTime: 2020-10-31T21:21:00Z
+    webUrl: "https://uk.pcmag.com/graphics-cards/129720/intel-launches-its-first-discrete-gpu-for-laptops-the-iris-xe-max?amp=1"
+    ampWebUrl: "https://uk.pcmag.com/graphics-cards/129720/intel-launches-its-first-discrete-gpu-for-laptops-the-iris-xe-max?amp=1"
+    cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/graphics-cards/129720/intel-launches-its-first-discrete-gpu-for-laptops-the-iris-xe-max?amp=1"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 89
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/i/intel-laun/intel-launches-its-first-discrete-gpu-for-laptops-the-iris-x_zwcq.620.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "Intel Iris Xe Max GPU is launched, helping thin laptops deliver impressive gaming"
     excerpt: "offering up to a 20% performance boost for the processor versus a laptop with an Nvidia MX350 GPU, Intel claims. Deep Link promises a major boost in content creation workloads, and also with video encoding. We’re talking 7x faster AI-based creation ..."
     publishedDateTime: 2020-10-31T16:03:00Z

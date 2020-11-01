@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/30/21541571/tesla-full
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/30/21541571/tesla-full-self-driving-price-increase-10000-dollars-autopilot-beta"
 type: article
 quality: 104
-heat: 334
+heat: 294
 published: true
 
 provider:
@@ -126,54 +126,6 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/nhmzpjpkgvvsqawmqowb.jpg"
         width: 800
         height: 451
-        isCached: true
-  - title: "Waymo releases Phoenix area self-driving car incident score card"
-    excerpt: "Self-driving tech company Waymo, which this month opened its driverless taxi service in the Phoenix suburbs to the public, on Friday said its autonomous vehicles there had been involved in 18 minor incidents since 2019 during tests and actual rides."
-    publishedDateTime: 2020-10-30T19:11:00Z
-    webUrl: "https://www.reuters.com/article/autonomous-waymo-safety-int/waymo-releases-phoenix-area-self-driving-car-incident-score-card-idUSKBN27F23R"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27F23R"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27F23R"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201030&t=2&i=1539430698&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9T1AD"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "Tesla's Full Self-Driving beta is a reminder autonomous cars don't yet exist"
-    excerpt: "Driving beta running with drivers behind the wheel bring a moment of pause. The videos seen here show off what I'm sure are just a tiny sliver of incidents Tesla owners experienced since the technology starting rolling out to cars in beta form last week."
-    publishedDateTime: 2020-10-27T15:41:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/teslas-full-self-driving-beta-is-a-reminder-autonomous-cars-dont-yet-exist/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/teslas-full-self-driving-beta-is-a-reminder-autonomous-cars-dont-yet-exist/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/teslas-full-self-driving-beta-is-a-reminder-autonomous-cars-dont-yet-exist/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 86
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/AVtNDbflfjRE8PTezweZ2ehMrBE=/2019/12/20/5d1f0f70-a427-4959-bc2c-7714bcc0c954/ogi-autopilot.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Tesla Autopilot safety shows improvement as Full Self Driving fail videos rise"
-    excerpt: "It's also important to note that this information is for Autopilot miles from the previous quarter, so this is not a reflection of Tesla's recently launched Full Self Driving beta rollout. There's an interesting potential parallel that we think will ..."
-    publishedDateTime: 2020-10-27T15:54:00Z
-    webUrl: "https://www.autoblog.com/2020/10/27/tesla-autopilot-full-self-driving-safety/"
-    ampWebUrl: "https://www.autoblog.com/amp/2020/10/27/tesla-autopilot-full-self-driving-safety/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/10/27/tesla-autopilot-full-self-driving-safety/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 85
-    images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2020/10/27105405/Screen-Shot-2020-10-27-at-10.53.36-AM.png"
-        width: 800
-        height: 450
         isCached: true
   - title: "Watch this self-driving race car hilariously smash into a wall"
     excerpt: "Autonomous cars are the future, apparently. Watch this self-driving car race series and decide for yourself how far along the tech is."
@@ -357,22 +309,6 @@ related:
       - url: "https://api.thedrive.com/wp-content/uploads/2020/10/tesla-fsd-moronic-lead.jpg?quality=85"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Race car drivers had a lot of fun making fun of self-driving race car driving straight into wall"
-    excerpt: "Race car drivers took to social media to point out their job security after video showed a self-driving race car drive itself into a wall."
-    publishedDateTime: 2020-10-30T06:06:00Z
-    webUrl: "https://thecomeback.com/racing/race-car-drivers-had-a-lot-of-fun-making-fun-of-self-driving-race-car-driving-straight-into-wall.html"
-    ampWebUrl: "http://amp.thecomeback.com/racing/race-car-drivers-had-a-lot-of-fun-making-fun-of-self-driving-race-car-driving-straight-into-wall.html"
-    cdnAmpWebUrl: "https://amp-thecomeback-com.cdn.ampproject.org/c/amp.thecomeback.com/racing/race-car-drivers-had-a-lot-of-fun-making-fun-of-self-driving-race-car-driving-straight-into-wall.html"
-    type: article
-    provider:
-      name: The Comeback
-      domain: thecomeback.com
-    quality: 46
-    images:
-      - url: "https://cdn1.thecomeback.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-29-at-11.58.31-PM-1024x567.png"
-        width: 1024
-        height: 567
         isCached: true
   - title: "Tesla hikes price of 'Full Self-Driving' option to $10,000"
     excerpt: "Soon after the launch of the 'Full Self Driving (FSD) set of features to a limited number of expert and careful drivers, the electric car maker Tesla has increased the price of the new option to $10,000 from $8,000. The price of the 'Full Self-Driving ..."

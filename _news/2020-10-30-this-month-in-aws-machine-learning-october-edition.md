@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-ma
 webUrl: "https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-october-edition/"
 type: article
 quality: 106
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 900
     height: 450
     isCached: true
-
-related:
-  - title: "Video streaming and deep learning: Using Amazon Kinesis Video Streams with Deep Java Library"
-    excerpt: "Amazon Kinesis Video Streams allows you to easily ingest video data from connected devices for processing. One of the most effective ways to process this video data is using the power of deep learning. You can create an efficient service infrastructure to run these computations with a Java server, but"
-    publishedDateTime: 2020-10-27T16:35:01Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/video-streaming-and-deep-learning-using-amazon-kinesis-video-streams-with-deep-java-library/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 80
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
-        width: 1260
-        height: 630
-        isCached: true
 
 secured: "0yUuKoNfZKpFW+qnTIOv2m9nxKfPM/ohdEokozPQm4XKtO3zGrYmi5KvwElNLX0UaCd91SUxdEZqNh7win6/CmZao1aF9iR/KKwVK+H/IK0TwxnKSdS9mBMvbBwD7KKqIAO/JbJyu/9Dz02ectYwS1S5dSgONRegBr6JKdsMaxEM7k7OOC2Yen8HYHP0esITOCPJa2AZxnGlf7Vh1WSpy/AaM/A6U94YZwCTWFDjRqPf7KfOtdDDT4w1V8nATIYZRX8OlNfKEMvHdKu375YWCoXeZcAX7K8Jdqu4wMOi1kbEIaV810WOoCx4Q9v4+xTuutcrj2e430Q8pTJlUE6O+v0Mvj9UgPOModDloYB1MLg=;Du7oMknzxTQ4Ie+v2lEjKw=="
 ---

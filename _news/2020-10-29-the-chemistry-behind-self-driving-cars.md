@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "A self-driving race car drove straight into a wall off the starting line in the world's first autonomous racing series"
+    excerpt: "And a recent mishap at an autonomous racing event showcased just how challenging self-driving technology can be. Roborace — a new autonomous racing series that's still in its testing phase ..."
+    publishedDateTime: 2020-10-29T22:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/self-driving-roborace-race-car-drove-straight-into-wall-2020-10-1029744243"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
+    images:
+      - url: "https://i.insider.com/5f9b302e6f5b310011724515?format=jpeg"
+        width: 2264
+        height: 1390
+        isCached: true
   - title: "The Big Gamble on Self Driving Cars"
     excerpt: "In this episode, Jim discusses the self-driving car, a staple of sci-fi books and movies and predicted by automakers as far back as the 1930's, as was shown in a 1935 Chevy promotional film. With Cruise Automation’s application with the California DMV ..."
     publishedDateTime: 2020-10-28T16:00:00Z

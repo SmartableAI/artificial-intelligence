@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Intel Iris Xe Max GPU is launched, helping thin laptops deliver impressive gaming"
-excerpt: "offering up to a 20% performance boost for the processor versus a laptop with an Nvidia MX350 GPU, Intel claims. Deep Link promises a major boost in content creation workloads, and also with video encoding. We’re talking 7x faster AI-based creation ..."
-publishedDateTime: 2020-10-31T16:03:00Z
-originalUrl: "https://www.techradar.com/news/intel-iris-xe-max-gpu-is-launched-helping-thin-laptops-deliver-impressive-gaming"
-webUrl: "https://www.techradar.com/news/intel-iris-xe-max-gpu-is-launched-helping-thin-laptops-deliver-impressive-gaming"
-ampWebUrl: "https://www.techradar.com/amp/news/intel-iris-xe-max-gpu-is-launched-helping-thin-laptops-deliver-impressive-gaming"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/intel-iris-xe-max-gpu-is-launched-helping-thin-laptops-deliver-impressive-gaming"
+title: "Intel Launches Its First Discrete GPU for Laptops, the Iris Xe Max"
+excerpt: "Intel’s first discrete GPU for laptops, the Iris Xe Max, will start shipping next month in three models from Acer, Asus, and Dell. According to Intel, the GPU will arrive in Dell’s Inspiron 15 7000 2-in-1 convertible,"
+publishedDateTime: 2020-10-31T21:21:00Z
+originalUrl: "https://uk.pcmag.com/graphics-cards/129720/intel-launches-its-first-discrete-gpu-for-laptops-the-iris-xe-max?amp=1"
+webUrl: "https://uk.pcmag.com/graphics-cards/129720/intel-launches-its-first-discrete-gpu-for-laptops-the-iris-xe-max?amp=1"
+ampWebUrl: "https://uk.pcmag.com/graphics-cards/129720/intel-launches-its-first-discrete-gpu-for-laptops-the-iris-xe-max?amp=1"
+cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/graphics-cards/129720/intel-launches-its-first-discrete-gpu-for-laptops-the-iris-xe-max?amp=1"
 type: article
-quality: 84
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: TechRadar
-  domain: techradar.com
+  name: PC Magazine
+  domain: pcmag.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - AI
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/8zcrXFmwqGhotbwYirbJee-1200-80.jpg"
-    width: 970
-    height: 545
+  - url: "https://sm.pcmag.com/t/pcmag_uk/news/i/intel-laun/intel-launches-its-first-discrete-gpu-for-laptops-the-iris-x_zwcq.620.jpg"
+    width: 620
+    height: 349
     isCached: true
 
 related:
@@ -63,22 +63,6 @@ related:
         width: 1199
         height: 854
         isCached: true
-  - title: "Intel Launches Its First Discrete GPU for Laptops, the Iris Xe Max"
-    excerpt: "Intel’s first discrete GPU for laptops, the Iris Xe Max, will start shipping next month in three models from Acer, Asus, and Dell. According to Intel, the GPU will arrive in Dell’s Inspiron 15 7000 2-in-1 convertible,"
-    publishedDateTime: 2020-10-31T21:21:00Z
-    webUrl: "https://uk.pcmag.com/graphics-cards/129720/intel-launches-its-first-discrete-gpu-for-laptops-the-iris-xe-max?amp=1"
-    ampWebUrl: "https://uk.pcmag.com/graphics-cards/129720/intel-launches-its-first-discrete-gpu-for-laptops-the-iris-xe-max?amp=1"
-    cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/graphics-cards/129720/intel-launches-its-first-discrete-gpu-for-laptops-the-iris-xe-max?amp=1"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 89
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/i/intel-laun/intel-launches-its-first-discrete-gpu-for-laptops-the-iris-x_zwcq.620.jpg"
-        width: 620
-        height: 349
-        isCached: true
   - title: "Intel introduces Iris Xe MAX Graphics with discrete GPU and Intel Deep link"
     excerpt: "This framework helps maximize CPU performance and boost artificial intelligence (AI) creation performance ... can also deliver 1080p gaming at par with Nvidia GeForce MX350 GPU. Intel has added Game Sharpening and Instant Game Tuning as well which will ..."
     publishedDateTime: 2020-10-31T16:54:00Z
@@ -94,6 +78,22 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/6i3iRYCSdheSouvvHuTt6R-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Intel Iris Xe Max GPU is launched, helping thin laptops deliver impressive gaming"
+    excerpt: "offering up to a 20% performance boost for the processor versus a laptop with an Nvidia MX350 GPU, Intel claims. Deep Link promises a major boost in content creation workloads, and also with video encoding. We’re talking 7x faster AI-based creation ..."
+    publishedDateTime: 2020-10-31T16:03:00Z
+    webUrl: "https://www.techradar.com/news/intel-iris-xe-max-gpu-is-launched-helping-thin-laptops-deliver-impressive-gaming"
+    ampWebUrl: "https://www.techradar.com/amp/news/intel-iris-xe-max-gpu-is-launched-helping-thin-laptops-deliver-impressive-gaming"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/intel-iris-xe-max-gpu-is-launched-helping-thin-laptops-deliver-impressive-gaming"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 84
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/8zcrXFmwqGhotbwYirbJee-1200-80.jpg"
+        width: 970
+        height: 545
         isCached: true
   - title: "Intel Accelerates Content Creation And Gaming With Iris Xe MAX Mobile GPU And Deep Link Tech"
     excerpt: "The true differentiation that Intel is bringing to laptops with Iris Xe MAX is a technology it calls Deep Link."
@@ -196,6 +196,6 @@ related:
         height: 415
         isCached: true
 
-secured: "q1mZXR6U2ghEUUueUGOvlFsvzTIgfQVaonKElXfyg5QZ0TbyHgTtkvOtycHlSSeg67+SlVUkm3l2HghEvfnfWhCSXvIVqvCxD1Azf7onvl37LOmJCtSdSLx6Sd2XSoxNCJFBPRBk8/gQDhvz7AT6j3AGKu9QMOfSNSR6+YM1myl8QMPFnTphdfmoK1rGou26/G537LbfcMt7bpwBZx5mn/bqjqZNMU6RsnVFlmE3LfEIqV8xyIg1/pEyJdGrXgJObF3fbbBHS+PQM/6qPNjM7ScqytnsD3xkMsxPn28aAd0To7wOlktA4KOtUitEuQclAGBH8+FNc9JhniV9RTZ4T8RYVFz3SSPpGTewqSEH3QmQKQfje+mscTDOSsfaLJFSJcCI0FTGb4eVNDkwvkDnR/plKx9tZm7r8WA8XsCEBkBeD/qz6KqUl8FOVveXWBPpWq/YteqEfpAKaowpGIrMJ2j4Pquzf1jbwoN1/ejwOHmfC++L4jX/nMgymIkhQleYwt4HwxK2Hz7JYw6RfyEipg==;Vk9OYFE62qz2ZELvjfcyGw=="
+secured: "lybXVrzYnFGdqEp9f6mAoUPlkLPJZkSn33C2lJrwDkehGPAs2fwWKgnZAikiQCAkjubjIY21IgVypyDfi2Iv9xI9Lk/w6OQ2I3bKfl6G5UebWGqf2RCtLK2G6q9S5ys+FY+/LyqGBfTDwpsgpbyF+ozmGXWjkvpxuYvaPW6f9mvQl3JrLxEXV7tSf18CY7QllJllyNUoaDVWvNxKJ+2+2g5WsZU1SVeeDh5O3zxa0upcoqze06lGUpzct81PigRr+o5Fc6mlTw3CJJYsU8I3digkSfb9kHvX2W+qD64AffxNCIqZI9h73MTgA8F342twymUZSpaGVnX5/ywIGSLey43dWJcLaRyb+PJp5lngNz0=;mnw/5KLm5Fqrlm6zUtslKQ=="
 ---
 
