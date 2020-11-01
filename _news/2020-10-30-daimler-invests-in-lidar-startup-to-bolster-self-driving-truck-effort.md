@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-10-30/daimler-isn-t
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-30/daimler-isn-t-relying-solely-on-waymo-for-self-driving-trucks"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -47,17 +47,6 @@ related:
         width: 1680
         height: 1049
         isCached: true
-  - title: "Daimler Teams Up With Waymo On Self-Driving Tractor-Trailer Trucks"
-    excerpt: "Waymo has a new partner. The Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) self-driving subsidiary has inked a deal with Daimler's (OTC: DMLRY) heavy-truck unit, in which the two will work to create self-driving tractor-trailers based on Daimler's Freightliner ..."
-    publishedDateTime: 2020-10-27T23:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/daimler-teams-up-with-waymo-on-self-driving-tractor-trailer-trucks-2020-10-27?time=1603811701"
-    ampWebUrl: "https://www.nasdaq.com/articles/daimler-teams-up-with-waymo-on-self-driving-tractor-trailer-trucks-2020-10-27?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/daimler-teams-up-with-waymo-on-self-driving-tractor-trailer-trucks-2020-10-27?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 84
   - title: "Waymo and Daimler to build self-driving Freightliner semi truck"
     excerpt: "Autonomous car technology company Waymo is teaming up with Daimler to build self-driving semitrucks. Continue Reading Below The Alphabet-owned brand will install its Waymo Driver package into Daimler-owned Freightliner Cascadia semis for evaluation ..."
     publishedDateTime: 2020-10-28T13:42:00Z

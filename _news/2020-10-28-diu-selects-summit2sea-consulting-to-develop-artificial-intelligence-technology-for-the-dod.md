@@ -1,31 +1,27 @@
 ---
 category: news
 title: "DIU Selects Summit2Sea Consulting to Develop Artificial Intelligence Technology for the DoD"
-excerpt: "Summit2Sea Consulting, has been selected by the Department of Defense (DoD) to prototype the Humanless Unmatched Transaction (HUnT) solution for the DoD. \"The solution builds data pipelines to financial transactions to train a Machine Learning model that directs corrective actions to robot workers,"
-publishedDateTime: 2020-10-28T14:24:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-1029735172"
-webUrl: "https://markets.businessinsider.com/news/stocks/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-1029735172"
+excerpt: "Summit2Sea will leverage AWS Sagemaker, a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning (ML) models quickly ..."
+publishedDateTime: 2020-10-28T14:07:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-301161877.html"
+webUrl: "https://www.prnewswire.com/news-releases/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-301161877.html"
 type: article
-quality: 59
-heat: 69
+quality: 29
+heat: 29
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1321396/Summit2Sea___Brian_Eckle.jpg"
-    width: 340
-    height: 400
+  - url: "https://mma.prnewswire.com/media/1321396/Summit2Sea___Brian_Eckle.jpg?p=facebook"
+    width: 3721
+    height: 1948
     isCached: true
 
 related:
@@ -44,6 +40,6 @@ related:
         height: 400
         isCached: true
 
-secured: "xhuX7T1ReBPdRIfyN6ByrR9gsx1CZV+ao4TxVIBX4sOmk2Kp06NTJb/4IWPxpTo71DaEAOJr+KHExpIz4xbk346gZ5Tse4hoIEzeV+Jw5p/BRduB9BfwpwjVY5/jTtqVl/X2NFMmjriGnEMK5CmOFtMXS2A7yUzYxJLCW30D3Ooz60PG+4P69PRoAX5z/Y0h+fJdkRIGzJzo5QngrJcdwOOv7d9WwbzY560LGD2to7htuu0T2JEWNXigtklgWf6u8kZkH7nrrE1VLx4bnZ4sFk4EgeUXS+jtaLTgbt6LJhY6poZh9kHZ95rF3WHha2bfQAeNYgNIl1bXKMX6Qg6jipgKjB1qmhX99pURCBgDHXM=;BYDBvUf8qWmxgV0iAZIELg=="
+secured: "mEjrvSLyVTm7Un4QMPU4de0jdCkeh+uaLZEafDU9gs07pfLj1aq6zpzB8K67fxgMb90istnoAL8oeRfHM4Y1hOAoU3D6nCfubR6VsA0OByMPHIhUmFnJj/wXz9vbevt3YhZDhHYmNP5+qB0aPIX66brozjyZ+FpZzfhqs9hKQkYJ6TMdYYjtAKY9ozUiCqSWrLeGmhkd89WIscIP+5EWuB5OiYM8vDPjoi297A9j7dQj/qefp88k/R7zFLyUrCmXsMWcRVsgcYcT1b4w96huR5i0Dsp00XF7g8V7kEQ1zbfGEfGLXa3nyg9uYCfAXOSPwlMxyFrwoBgV3Zs6YU0dRPpxHzi/tmZTKfkDwH9NIvk=;GV7csEF5iOj9iACjPvnxHA=="
 ---
 

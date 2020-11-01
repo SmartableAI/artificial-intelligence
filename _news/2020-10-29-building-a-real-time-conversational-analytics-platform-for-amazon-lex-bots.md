@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/building-a-real-time
 webUrl: "https://aws.amazon.com/blogs/machine-learning/building-a-real-time-conversational-analytics-platform-for-amazon-lex-bots/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: AWS
@@ -27,24 +27,6 @@ images:
     width: 900
     height: 491
     isCached: true
-
-related:
-  - title: "Intel Geospatial is a cloud platform for AI-powered imagery analytics"
-    excerpt: "Moreover, satellite imagery and the AI algorithms trained to analyze it ... visualize geospatial data in BigQuery. Microsoft offers Azure Maps, a set of geospatial APIs to add spatial analytics ..."
-    publishedDateTime: 2020-10-27T23:00:00Z
-    webUrl: "https://venturebeat.com/2020/10/27/intel-geospatial-is-a-cloud-platform-for-ai-powered-imagery-analytics/"
-    ampWebUrl: "https://venturebeat.com/2020/10/27/intel-geospatial-is-a-cloud-platform-for-ai-powered-imagery-analytics/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/intel-geospatial-is-a-cloud-platform-for-ai-powered-imagery-analytics/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/08/intel-logo-e1578358513137.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "qh6k+Uh2gp5NvPJ8tu/XdobJUCdwjE6W3NyKFbijX64t0GxqGO2ZTHtATAtcGUDEKjeU1JSXFjAnPHksdzIJcaGjGx9uyvHb2QraTYAdBz+5we5RN7L0cMpEA+a4EUUTjArYR11yDS1aRpz/VjtVs/OfoslUV4S/WWgxOU6P7Y6lxkRtelYcSZxVZu1qQJmAcQixForjGKZJ/czxB6MYUdi9APQvd35CZyOB4fpM/Hdd2agxvDVSm4X+FnBxPQI2e7CSMpkATaJCcqxtrpphWaNwYo1IlTHcQtQNW2/x+hpEkzhlHhQznqawhjw6j35gERdfL/zpgziayOYHaiI6y9AltJovT7A2gPR7bPuX5nY=;Zda01b8bQkCnEzgiGXaAyw=="
 ---

@@ -111,6 +111,22 @@ related:
         width: 970
         height: 545
         isCached: true
+  - title: "Intel introduces the Iris Xe Max: a discrete GPU that merges with integrated GPUs"
+    excerpt: "At this point, the Iris Xe Max is a familiar product. It is physically identical to the integrated graphics inside Intel's newest mobile processors. However, on"
+    publishedDateTime: 2020-11-01T15:17:00Z
+    webUrl: "https://www.techspot.com/news/87391-intel-introduces-iris-xe-max-discrete-gpu-merges.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/87391-intel-introduces-iris-xe-max-discrete-gpu-merges.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87391-intel-introduces-iris-xe-max-discrete-gpu-merges.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 84
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/11/2020-11-01-image-4.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Intel Launches Its First Discrete GPU for Laptops, the Iris Xe Max"
     excerpt: "The chip giant also tipped news of an early-2021 card version of the GPU for PC makers to employ in lower-cost desktops."
     publishedDateTime: 2020-10-31T15:01:00Z

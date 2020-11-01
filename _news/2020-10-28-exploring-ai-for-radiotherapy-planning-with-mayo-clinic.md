@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/health/exploring-ai-radiotherapy-plan
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/exploring-ai-radiotherapy-planning-mayo-clinic/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://static.timesofisrael.com/www/uploads/2020/10/Kira-on-stage-4-640x400.jpg"
         width: 640
         height: 400
-        isCached: true
-  - title: "Google and the Mayo Clinic to use AI to better target radiation therapy"
-    excerpt: "Google and the Mayo Clinic will build an artificial intelligence tool to guide the targeting of radiation therapy in cancer patients."
-    publishedDateTime: 2020-10-28T00:00:00Z
-    webUrl: "https://www.statnews.com/2020/10/28/google-mayo-clinic-ai-to-better-target-radiation-therapy/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 54
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2015/12/AP_141085435168-1024x576.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Mayo Clinic, Google announce AI initiative for radiation therapy"
     excerpt: "More than a year after announcing it’s 10-year strategic partnership with Google, Mayo Clinic and Google announced Wednesday that the duo would focus on using artificial intelligence to better plan radiation therapy. Radiation therapy experts from Mayo ..."

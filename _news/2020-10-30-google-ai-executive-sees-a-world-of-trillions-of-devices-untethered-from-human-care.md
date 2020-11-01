@@ -3,13 +3,13 @@ category: news
 title: "Google AI executive sees a world of trillions of devices untethered from human care"
 excerpt: "Google says hardware in embedded devices needs to improve to make possible a world of peel-and-stick sensors free of wall power and human maintenance."
 publishedDateTime: 2020-10-29T17:04:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
+originalUrl: "https://www.zdnet.com/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
+webUrl: "https://www.zdnet.com/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/"
 type: article
-quality: 81
-heat: 91
+quality: 83
+heat: 93
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - AI Hardware
   - AI
 
 images:
@@ -47,6 +48,6 @@ related:
         height: 500
         isCached: true
 
-secured: "5SCmguZRbL+kUc+OY8PNvcSPNbrQ43xuDn2hagDhiOO5M4rq1s0DO/kZw0+KB9aU40sXJ4rXB6STyFhf98dioCAYmf+v14J8oS8lykaR8er5Pw48k3QD4kOrapg0eSUFmlQChIt8GG/RLBFXSrrvsry7n0Gbbsao8yjyfnqNJOmPlQ/P7hHeUgdqPw15ELP99kLOGQf/UhpdUUQJCJX4BF1eovN6wT4UCpRZCsf2Sr8zmT8fTmL/9HaaLZUXItJv2QG1G35QdXMGwPHcRgid1ARDu09x34sqse5GBxBg8fAwAdh92TybGU+3ZDp5Ri4vVf7McY9koXMyFVj4dczrL1ap4i7jHnyICSkWvoxQFP0=;zcMJPBHQb3jbFDfMGT6YOQ=="
+secured: "8zF4GvdMpQHsx+cVjLAV2LKXavHIgpNa9x1Yu4+gcRcuu5wTCPaopSKMrAqosDNxxdwP/s99WTGh8CftHk+OBEIheuhVoxxkJdXMqB37W1FZWs88VttNL/ljZGuaVfgEMBDOcVWzHkvOhSdKxOrBdcCrEQqDF1WqQFMLiSVc05FfayUSzoG/70xdW+JfYOMdlZi1mmeC6+0jZMgq8LXTUHCokYmDuC0orNfFk96Dx4/VLjFSrUocxZ4jbS3Iuvm3G12LUQm8F04PBM0efCZNQ5dJOHWfKOme20eBFU4KS2BUwq6Gij3EKIHyrruKByVb5896Ulg92CxbGxsRhISecnMyFqR7eLXNnYbmxcTzBo0=;Z9+lWGigUD9iPELv9OzyMg=="
 ---
 

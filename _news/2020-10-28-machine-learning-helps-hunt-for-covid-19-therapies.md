@@ -27,21 +27,49 @@ images:
     isCached: true
 
 related:
-  - title: "COVID-19 Fails To Move Needle On Consumers’ Disdain For Self-Driving Vehicles"
-    excerpt: "Carmakers continue to develop self-driving systems and some safety experts continue to tout their potential for saving lives, but the public as a whole expresses very limited interest in buying cars with the technology. At the same time, experts in the ..."
-    publishedDateTime: 2020-10-27T22:50:00Z
-    webUrl: "https://www.forbes.com/sites/jacknerad2/2020/10/27/covid-19-fails-to-move-needle-on-consumers-disdain-for-self-driving-vehicles/"
-    ampWebUrl: "https://www.forbes.com/sites/jacknerad2/2020/10/27/covid-19-fails-to-move-needle-on-consumers-disdain-for-self-driving-vehicles/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jacknerad2/2020/10/27/covid-19-fails-to-move-needle-on-consumers-disdain-for-self-driving-vehicles/amp/"
+  - title: "Introducing the COVID-19 Simulator and Machine Learning Toolkit for Predicting COVID-19 Spread"
+    excerpt: "There have been breakthroughs in understanding COVID-19, such as how soon an exposed person will develop symptoms and how many people on average will contract the disease after contact with an exposed individual. The wider research community is actively working on accurately predicting the percent population"
+    publishedDateTime: 2020-10-30T17:47:31Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-the-covid-19-simulator-and-machine-learning-toolkit-for-predicting-covid-19-spread/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
+      name: AWS
+      domain: aws.amazon.com
+    quality: 79
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f989fad0c7ff5233c25a749%2F0x0.jpg"
-        width: 1200
-        height: 900
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/29/1-Diagram-2.jpg"
+        width: 900
+        height: 485
+        isCached: true
+  - title: "Deploying and using the Document Understanding Solution"
+    excerpt: "Based on our day to day experience, the information we consume is entirely digital. We read the news on our mobile devices far more than we do from printed copy newspapers. Tickets for sporting events, music concerts, and airline travel are stored in apps on our phones. One could go weeks or longer without"
+    publishedDateTime: 2020-10-31T01:12:54Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploying-and-using-the-document-understanding-solution/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 74
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/30/Deploying-and-using-the-Document-Understanding-Solution-1-JPG.jpg"
+        width: 800
+        height: 393
+        isCached: true
+  - title: "Artificial intelligence and covid-19: Can the machines save us?"
+    excerpt: "The Stanford-trained data scientist did not have a particular hypothesis, but he was hoping the artificial intelligence would pinpoint ... existing racial gaps and other disparities in health care. One of the biggest challenges has been that much data ..."
+    publishedDateTime: 2020-11-01T14:02:00Z
+    webUrl: "https://www.washingtonpost.com/health/covid-19-artificial-intelligence/2020/10/30/7486db84-1485-11eb-bc10-40b25382f1be_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/covid-19-artificial-intelligence/2020/10/30/7486db84-1485-11eb-bc10-40b25382f1be_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/covid-19-artificial-intelligence/2020/10/30/7486db84-1485-11eb-bc10-40b25382f1be_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 59
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
 
 secured: "GE/Virn3ZjicFZP/i5nQrgXACMwO+sYgIoktdb2l+YGXYyjafjSLOalYtI7NwaOQXRaXRQ7TH6nE1V93MDXF3u15PG783jF7x1OfbQZgCNfGkWyhD6knIO3QDEj2PKkY9M1Tp/UyCrhh2gbrQhW8LKkTohQaYEXVsxagVP82JXN9eY/rLEr2lYrFWIfiaKrxkvLQkk49X98WIb1ktksK5rsXuUbiIKLcQNRzpNKKH9AVHr6HB3A6AT7XBUS0dExKZMKIReob8DVa600XU9lMQ1l+Fcmbjb3LQIxfv3WInAlv+8N01MqtA7JhgFmy2KC7Evhd27Slmpm+yZ+sc+J/yVA2kINB+RDTCuj/DV+eidicjaImR1ktocqkRpGC2sxtMKYqbN49uzA3Vikxb3/24louPwqwSDAwYj2Xj6RGgTC5bIhsT7FNHUJgsegj9SNc0gmgDVlvtKfqbG9lMSd72O5Dbd/xMdb/697T3luk25FT8chJZyhRDxIca00VieYjrWQLwO+dDZzl+qJcJA3B+Q==;pN+o6JEHiLejz2rkHWaT0Q=="

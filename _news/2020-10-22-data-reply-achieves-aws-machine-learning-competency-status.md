@@ -1,27 +1,23 @@
 ---
 category: news
 title: "Data Reply Achieves AWS Machine Learning Competency Status"
-excerpt: "Data Reply, specialized in the design and implementation of advanced analytics and AI-powered data services, announced today that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status."
-publishedDateTime: 2020-10-22T07:30:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-science-corporate-news-products-and-services-786f2a29fba3449bac8fd3b2bb23ebf3"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-corporate-news-products-and-services-786f2a29fba3449bac8fd3b2bb23ebf3"
+excerpt: "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR."
+publishedDateTime: 2020-10-22T08:05:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/10/b18008856/data-reply-achieves-aws-machine-learning-competency-status"
+webUrl: "https://www.benzinga.com/pressreleases/20/10/b18008856/data-reply-achieves-aws-machine-learning-competency-status"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18008856"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18008856"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
   - Machine Learning
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "s9OXyuUDHRQv9lKJitDf9xzXmaUJeLrmuxIVfZzI+3q7GnAD2YxVIcSLhHWBAatkib8LPUInNRME5YHA6UL736/QtvhI3gDkAMgdCC6OstiTUcwtl/br3X3EeHGveBCcB93j/0UdmG9tddZfpqCEKr7Yjv/CJCBwA2alwEGU+hW9nh4lYmxraxRZE1QHIGp9NvA5Bkv6OueLGXUTjAph9NeLsayQo3o0uzFCEfdwzlK5vWqZk+rKpwzCA+Zx2djLdIj/lLUH/SDKXGYT1QKoDlgLQNypOJUx17taFLPlMzzVa5DQTeRVWR70VCcyW1MbxGQddlUibvbNWr4iSKEPOPumYmmq0atPMX6E6k/MG+s=;AL+C/etFh+vu6vQ9cdLqwg=="
+secured: "6z0XjKX00pIQyMX17sMyPsh6xCgRFtkf+cTTLIT6XBC1+Ob30qHafpiQ1ASsB+UR2ShJrJWaBGYzsAyxai/HqK5AjN63qe4b0YVgTOh1FjaH3wkeCMHcs0/W52bZJp07KEfdebmJNjKGTBGT/aOzsjfXjbNTyScs99mU1N6iMrGOVMOAV6c1dkhL8hBFom6YwOzRR1FfUQnvXAUtg9cYT7ZL2izW8KygNzXyDSmQTDXlUgM32+l7wXj8Tu/+yJEld6t9YDndhMKn1gmP6XRY2S4i5FpedBq2fxk8fKKoDkz6jg80ZYU3rfExZ9/a9ahwanUUPd+Xk5wNF4qBMyEKHhJeuk8k/eHWkCTCZBMOOKM=;HIf4eatOStwpHzHH4KNVwA=="
 ---
 

@@ -41,20 +41,6 @@ related:
         width: 420
         height: 315
         isCached: true
-  - title: "Artificial Intelligence (AI) in Healthcare Market to Reach US$ 26.5 Billion by 2025, Globally |CAGR: 41%| UnivDatos Market"
-    excerpt: "Before it's here, it's on the Bloomberg Terminal."
-    publishedDateTime: 2020-10-27T23:50:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2020-10-27/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 73
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Edge AI Hardware Market"
     excerpt: "Microsoft’s Azure IoT platform is able to process data messaging from millions of building sensors and devices and then use machine learning and AI to help building managers and operators determine what issues should be addressed in what order ..."
     publishedDateTime: 2020-10-28T03:59:00Z

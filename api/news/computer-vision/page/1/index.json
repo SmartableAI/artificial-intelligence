@@ -907,17 +907,17 @@
       "title": "Global Computer Vision Market (2020 to 2026) - by Product Type, Component, Application, Vertical and Region - ResearchAndMarkets.com",
       "excerpt": "The \"Global Computer Vision Market by Product Type, Component, Application, Vertical and Region: Industry Analysis and Forecast 2020-2026\" report has been added to ResearchAndMarkets.com's offering. The Global Computer Vision Market size is expected to reach $17.",
       "sourceUrl": null,
-      "webUrl": "https://kdhnews.com/news/ap/global-computer-vision-market-2020-to-2026---by-product-type-component-application-vertical/article_c24cb5a5-d19d-5292-8995-8654616be798.html",
-      "originalUrl": "https://kdhnews.com/news/ap/global-computer-vision-market-2020-to-2026---by-product-type-component-application-vertical/article_c24cb5a5-d19d-5292-8995-8654616be798.html",
+      "webUrl": "https://www.businesswire.com/news/home/20201021005593/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20201021005593/en/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/custom/image/d24d118c-8888-11e9-94c1-a36b64682479.jpg",
+          "url": "https://mms.businesswire.com/media/20201021005593/en/371054/23/ResearchAndMarkets_800px.jpg",
           "width": 1200,
-          "height": 630,
+          "height": 627,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -930,8 +930,8 @@
       "publishedDateTime": "2020-10-21T06:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Killeen Daily Herald",
-        "domain": "kdhnews.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1372,21 +1372,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-16-automatically-detecting-personal-protective-equipment-on-persons-in-images-using-amazon-rekognition.md",
-      "title": "Automatically detecting personal protective equipment on persons in images using Amazon Rekognition",
-      "excerpt": "Workplace safety hazards can exist in many different forms: sharp edges, falling objects, flying sparks, chemicals, noise, and a myriad of other potentially dangerous situations. Safety regulators such as Occupational Safety and Health Administration (OSHA) and European Commission often require that",
+      "path": "_news/2020-10-18-working-from-home-you-may-be-at-risk-of-developing-computer-vision-syndrome.md",
+      "title": "Working from home? You may be at risk of developing computer vision syndrome",
+      "excerpt": "Also Read - Excessive use of mobile phones during lockdown may cause digital amnesia Watch out for the symptoms of Computer Vision Syndrome Computer vision syndrome (CVS) isn’t one specific problem.",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automatically-detecting-personal-protective-equipment-on-persons-in-images-using-amazon-rekognition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automatically-detecting-personal-protective-equipment-on-persons-in-images-using-amazon-rekognition/",
+      "webUrl": "https://www.thehealthsite.com/diseases-conditions/eye-health-diseases-conditions/working-from-home-you-may-be-at-risk-of-developing-computer-vision-syndrome-773803/",
+      "originalUrl": "https://www.thehealthsite.com/diseases-conditions/eye-health-diseases-conditions/working-from-home-you-may-be-at-risk-of-developing-computer-vision-syndrome-773803/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/14/1-Person.jpg",
-          "width": 900,
-          "height": 629,
+          "url": "https://st1.thehealthsite.com/wp-content/uploads/2020/10/computer-vision-syndrome.jpg",
+          "width": 675,
+          "height": 365,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1394,23 +1394,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-16T14:12:35-07:00",
+      "ampWebUrl": "https://www.thehealthsite.com/diseases-conditions/eye-health-diseases-conditions/working-from-home-you-may-be-at-risk-of-developing-computer-vision-syndrome-773803/amp/",
+      "cdnAmpWebUrl": "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/diseases-conditions/eye-health-diseases-conditions/working-from-home-you-may-be-at-risk-of-developing-computer-vision-syndrome-773803/amp/",
+      "publishedDateTime": "2020-10-18T09:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "TheHealthSite",
+        "domain": "thehealthsite.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1419,9 +1410,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

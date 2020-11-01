@@ -3,24 +3,24 @@ category: news
 title: "Global Computer Vision Market (2020 to 2026) - by Product Type, Component, Application, Vertical and Region - ResearchAndMarkets.com"
 excerpt: "The \"Global Computer Vision Market by Product Type, Component, Application, Vertical and Region: Industry Analysis and Forecast 2020-2026\" report has been added to ResearchAndMarkets.com's offering. The Global Computer Vision Market size is expected to reach $17."
 publishedDateTime: 2020-10-21T13:36:00Z
-originalUrl: "https://kdhnews.com/news/ap/global-computer-vision-market-2020-to-2026---by-product-type-component-application-vertical/article_c24cb5a5-d19d-5292-8995-8654616be798.html"
-webUrl: "https://kdhnews.com/news/ap/global-computer-vision-market-2020-to-2026---by-product-type-component-application-vertical/article_c24cb5a5-d19d-5292-8995-8654616be798.html"
+originalUrl: "https://www.businesswire.com/news/home/20201021005593/en/"
+webUrl: "https://www.businesswire.com/news/home/20201021005593/en/"
 type: article
 
 provider:
-  name: Killeen Daily Herald
-  domain: kdhnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/custom/image/d24d118c-8888-11e9-94c1-a36b64682479.jpg"
+  - url: "https://mms.businesswire.com/media/20201021005593/en/371054/23/ResearchAndMarkets_800px.jpg"
     width: 1200
-    height: 630
+    height: 627
     isCached: true
 
-secured: "Z3E90DsTQhJLPkmRAuonwRBXnFEkV3ZANkDNXpOGoEWSfamRl8MfeLie53QR52tm012hRkkO/NYP/3IfGb23jyyVzCcKkUC8ZQOJH4bOcza6HbCI2fD8jm8eujKOD6UwBTNMaWWyKI2mMscXM9nclXnxnmI0HjJywiCmhC4BX5Zoc2XqDYSFiOGKHaP4Y/GMKT6qA+sAdhcBqPnWUqCyvwFarCRICaKvyc8LDPXaoigEmGPkYznp3/8Vo2E+E3teqE7OEq92onBft5fX65AGtI+c1vuiP9ykaLEGxhAW7+eG6iDehtmVwbQzw40AyUrdif3Tv/vLwMiDtxrbpEV05ZWgBCf+Svk+XiEwqcw4vBc=;opex0julZC6npK9oXfhNOw=="
+secured: "hBC9I4KQzu2/Mm9mHkqs+7tXmB0omdPHiLoCmasqVVB5zRx2JmXEcy4xlYXAil5kEVExUsV202D3HB39HBeNxdaufsn+ukJmYkFV4h2p9tqxu6FaaWA1s72fnYZ99JXPLqLSPtzdLB8xb/GubSC+RGNBxAAIGCRhIMWbjisI20+P9w2Ray+BhKZmXaSqjVw07Th/+su5DZ9tupn/7COxW/qBI5tOACDCSayDdr8GHrz5oTzlTT0e3A5oZepqbojPp4Gqurqtju1dXCiTX4WwpGNqnEUeae4MgkHFP7lYgvFyREFljDGl6+su//inoeDkylsT4p7w4d5z48IQVCtRoZuWSOYTUkebobrf4aTpk0c=;gBNXLhg9fR53U2LL8vXisA=="
 ---
 
