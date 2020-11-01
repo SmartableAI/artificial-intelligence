@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanabandoim/2020/10/28/white-castle-pla
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanabandoim/2020/10/28/white-castle-plans-to-use-flippy-the-robot-in-more-locations/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 129
+published: true
 
 provider:
   name: Forbes
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Flippy robots will cook sliders in 10 more White Castle locations"
-    excerpt: "Rail — showed promising results in its pilot with White Castle, enough for the burger chain to sign on to deploying the robot in 10 more locations. Back in September, they formally started a pilot program to test Flippy at one White Castle location,"
-    publishedDateTime: 2020-10-27T09:41:00Z
-    webUrl: "https://www.engadget.com/flippy-robot-white-castle-expansion-090002507.html?ref=hvper.com"
-    ampWebUrl: "https://www.engadget.com/amp/flippy-robot-white-castle-expansion-090002507.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/flippy-robot-white-castle-expansion-090002507.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F4c4ba8b0-1517-11eb-bbef-af00bd4d0adb&client=amp-blogside-v2&signature=05b6c4fd5bd26f566516f92d0f50c667127f4b24"
-        width: 600
-        height: 350
-        isCached: true
   - title: "White Castle will begin testing its automated 'Flippy' cooking robot at 10 more locations"
     excerpt: "\"Artificial intelligence and automation have been an area White Castle ... Replacing human workers with robots might sound like a good idea on paper, and it might have worked well at one White Castle location, but we wouldn't be surprised if some hurdles ..."
     publishedDateTime: 2020-10-27T19:11:00Z
@@ -103,20 +87,6 @@ related:
       - url: "https://www.nrn.com/sites/nrn.com/files/03%20Flippy%20wearing%20White%20Castle%20sleeve_1.jpeg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "White Castle to Expand Implementations with Miso Robotics and Target Up to 10 New Locations Following Pilot"
-    excerpt: "PRNewswire/ -- White Castle®, the world's first fast-food hamburger chain, announced today plans to expand work with Miso Robotics - creators of the first autonomous"
-    publishedDateTime: 2020-10-27T10:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/white-castle-to-expand-implementations-with-miso-robotics-and-target-up-to-10-new-locations/article_4245635f-f9de-522d-bce9-8b27a2cebf61.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 36
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/4e/74ea0957-439c-5642-abc2-335019e8e710/5f97e91836105.image.jpg?resize=400%2C267"
-        width: 400
-        height: 267
         isCached: true
 
 secured: "eAnW4xjnIJaywhRkDJClXyMtefvcIOdo2Z69p4chsQeQSOIuF3W/Yq0sqFpvomjJrMs3aA8BeweJbTupF2U+aZqbBRIAeYhHirGvqWhAvaMiPSB3OZ2yrea76uj9iAr479BDj7uXr0VhuO4qwr87XiQnp96tZYZW/FJy87A17yOFD7VuCfzuEJSAm/61/BGd56ugO12jtZMe1iLvlOPPh+tNMiHoH+hL7xGtG3fByT+7hJin2eX3qxitCKUF4y5ncD63jrf/5L22LekrSDXOtSP2etnrnosMo7RBFbgL+JtJAblwNvJwDk5qi5NNjJOx3pDxXub59mYK/ZyzZqmbZgCQADja+nnJe1E5foSUr0rwU1TJde7BK9sLlbnXeQZaeTN8cispbNJp4BrhfGRaq1eCKa2sR060MOOx2DLuQTzPP1vfA6QnQi3igTkOz3657ztOCIKmQryjQEh+/vmVVusx/fnO/6jo/iZXQjzO7lrtnHBonFZdN2VqXzO6CeKDMAaqTQvGHmuJVhTsOpaxCw==;CGAD5LfCwDTdcmqid3wa7g=="

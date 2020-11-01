@@ -48,15 +48,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 4
-  - title: "Humax unveils Voice Assistant STB & Wi-Fi 6E gateway"
-    excerpt: "which includes integrated stereo sound and supports Alexa’s Far-Field Voice Recognition with a built-in mic. At the RDK Euro Summit, Humax will also showcase its market-ready IP Box integrated with the latest Broadcom solution with 24K DMIPS CPU ..."
-    publishedDateTime: 2020-10-27T09:42:00Z
-    webUrl: "https://advanced-television.com/2020/10/27/humax-unveils-voice-assistant-stb-wi-fi-6e-gateway/"
-    type: article
-    provider:
-      name: Advanced Television
-      domain: advanced-television.com
-    quality: 4
 
 secured: "kQD9tBEuKf8p9j2Id2TZVFwWcSQGRo/mvsFUTdfaBndnyvJP3A2hp5BBRndlOzDkyh6ODX6+ET2zaOHe4MsnwGPivt4kVnuDMtpE2yVyx24oNOrq5FpyvM6iSU0WZTL6N6WO8ITWXdpZ2o9nH63WXPdZ9uRqtGnyExAQyI5WT/9XnPqtqeGOyqeTwlyotXVixnl1QBzTgwsm3EqmVMzK8ClBIwYUiuoEkCY1hc8iGrlhnT75fDwEPwT1wkrG2Mg0jwxZsgSQDwdSlYD0NxtHqdsPmiuc1ZXbQ/nMLbfYqtIqApvvnz/NUz2VLm7D1c4nrB/mUMmLg/Ay0xIg0uR4qzPlpxedg3iGMFBdDF7CBoUdTHYfKgyelQeZrvb/5gqxFZGugEBdg95tUDzPzepjW9XJDIbL0iQaQWyBceSMqvuY9MLCLlmke6JhSqd9PyhG9EzbGNEqBITCatq2Q8e5u5YcYuox3b7peksIndtVLWpPZJohmPhnYIzJT58bR34PUdWUrtK/Dceu3GxTVBffRg==;eSY8Ny9+93qvdnC4eN1Ydw=="
 ---

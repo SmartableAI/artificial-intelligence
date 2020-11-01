@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Self-Driving Cars Can Also Self-Design A Whole New Traffic Code"
-    excerpt: "There has been much debate about how to regulate safety and the initial operation of self-driving cars, and how to even tell how safe they are. Our current “rules of the road” govern by safety and traffic flow. They have been built by observing all the ..."
-    publishedDateTime: 2020-10-27T11:01:00Z
-    webUrl: "https://www.forbes.com/sites/bradtempleton/2020/10/27/self-driving-cars-can-also-self-design-a-whole-new-traffic-code/"
-    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/10/27/self-driving-cars-can-also-self-design-a-whole-new-traffic-code/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/10/27/self-driving-cars-can-also-self-design-a-whole-new-traffic-code/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f97ad8cec4cb02b07e88acc%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Deep learning models help hunt for COVID-19 drugs"
     excerpt: "Michigan State University Foundation Professor Guowei Wei wasn't preparing machine learning techniques for a global health crisis. Still, when one broke out, he and his team were ready to help."
     publishedDateTime: 2020-10-28T23:45:00Z

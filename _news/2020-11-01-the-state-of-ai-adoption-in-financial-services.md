@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/10/31/the-state-of-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/10/31/the-state-of-ai-adoption-in-financial-services/amp/"
 type: article
 quality: 89
-heat: 119
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,42 +31,36 @@ images:
     isCached: true
 
 related:
-  - title: "7 AI Stocks to Buy as Automation Advances"
-    excerpt: "Oxford academics Carl Benedikt Frey and Michael Osborne estimated that 47% of American jobs are at high risk of automation by the mid-2030s, so it’s closer than we think. Many investors aren’t sure what the technology is or what AI stocks to buy in anticipation of its rise."
-    publishedDateTime: 2020-10-28T19:52:00Z
-    webUrl: "https://www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28"
-    ampWebUrl: "https://www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28?amp"
+  - title: "Insights Into AI Adoption In The Federal Government"
+    excerpt: "Over the course of the past few years, governments around the world have taken strong positions on advancing their strategies around AI adoption. Certainly heading into the new year it seems that the pace of adoption won’t be slowing any time soon."
+    publishedDateTime: 2020-10-31T20:24:00Z
+    webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/10/31/insights-into-ai-adoption-in-the-federal-government/"
+    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/10/31/insights-into-ai-adoption-in-the-federal-government/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/10/31/insights-into-ai-adoption-in-the-federal-government/amp/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 71
-  - title: "Artificial Intelligence as a Service"
-    excerpt: "The Artificial Intelligence as a Service market is expected to grow from USD 1.6 Billion in 2019 to USD 13 Billion by 2027, at a Compound Annual Growth Rate (CAGR) of 51% during the forecast period. A comprehensive analysis titled; Artificial Intelligence ..."
-    publishedDateTime: 2020-10-27T12:03:00Z
-    webUrl: "https://www.openpr.com/news/2173196/top-experts-analysis-on-artificial-intelligence-as-a-service"
-    ampWebUrl: "https://www.openpr.com/amp/2173196/top-experts-analysis-on-artificial-intelligence-as-a-service"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2173196/top-experts-analysis-on-artificial-intelligence-as-a-service"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://cdn.openpr.com/T/a/Ta27780023_g.jpg"
-        width: 550
-        height: 312
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9dc70191dd4d1b88ff7961%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D500%26cropY1%3D39%26cropY2%3D320"
+        width: 500
+        height: 281
         isCached: true
-  - title: "Video: Automation to drive evolution of financial services"
-    excerpt: "In this bobsguide video, sponsored by FactSet, Drake Bushnell, VP director of content and technology solutions strategy at FactSet and Byron Bianco, managing director of BMO Capital Markets discussed how the use of data will change the financial services industry."
-    publishedDateTime: 2020-10-27T10:02:00Z
-    webUrl: "https://www.bobsguide.com/guide/news/2020/Oct/27/video-automation-to-drive-evolution-of-financial-services/"
+  - title: "National Grid Partners Invests in two Artificial Intelligence Startups to Protect Critical Infrastructure"
+    excerpt: "National Grid Partners (NGP), the investment and innovation arm of National Grid plc (LSE: NG; NYSE: NGG), announces two new investments in data analytics startups that use artificial intelligence (AI) to protect critical infrastructure and ultimately help reduce costs for customers."
+    publishedDateTime: 2020-10-29T19:16:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-renewable-power-generation-electric-utilities-energy-and-fuel-technology-e2114904d92349e7868c9e9472eef028"
     type: article
     provider:
-      name: Bobs Guide
-      domain: bobsguide.com
-    quality: 4
+      name: Associated Press
+      domain: apnews.com
+    quality: 20
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "FEpcRzH/BgaNJdFkLvpK48Vqnge4WJvL8VN6ot8oyS0C9aUF2S1/RgECW4ZL4JFa7GeQZC6fDoNkgjnvO3awvd2sqx/Hx9OuDokacAzvT5Q3KcQXNagFgwLId34DAOWWFDm90GEQV6JxzLLZmbbkfDzTlNSRUrB+TPACKrBv5ATeRdvbW4mGwUhn6wiu4WypKN+0meQazfjaZJGdpq2yp+f8Y3CTilQLHrlq/+34gkTk5Y42rtdms0wPhomznnbTGXHAwmy3UNRyQTaUYiMUC4cMflllElmoPnSXx1h9KJ9OqSGa3sKHUudjNk3+hUQpNNW175wrvkhMmfQuCEhHonVkCuBdQHriBdR6RJdD+E6Ixu4hN6z83KC7oxeSKmWuvJM1SRC/xxUsKtTyqepv/UvugZPvqsay/zZlinZjhWRkYSj8apnSL0oDwVtdEJxnMmFdtkGHxxCxV12jUQ6Xu58Jz5Qj9+iPsQgCDKymleQzUzZpmJZvTO1Dylux2Gfuvm+m2m/bI5qbIICUOCqLqQ==;L2CxDeKS3VQKkhTM6OpwOA=="
 ---

@@ -55,20 +55,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Gong Raises $200 Million to Surface Sales Insights with Artificial Intelligence"
-    excerpt: "Founded by Eilon Reshef and Amit Bendov, Gong is also a cloud-based business and uses AI (artificial intelligence) to transcribe and analyze conversations from web-conferencing platforms, like: In August this year, as we already covered, Gong raised $200 ..."
-    publishedDateTime: 2020-10-27T09:20:00Z
-    webUrl: "https://www.finsmes.com/2020/10/gong-raises-200-million-to-surface-sales-insights-with-artificial-intelligence.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 67
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2019/12/gong.png"
-        width: 960
-        height: 960
-        isCached: true
   - title: "Artificial intelligence firm Capacity raises $11 million, says revenue tripled this year"
     excerpt: "Capacity, a University City startup that bills itself as a help desk powered by artificial intelligence, has raised $11 million in venture capital. Capacity didn't identify a lead investor when it announced the Series C funding round Wednesday,"
     publishedDateTime: 2020-10-28T19:32:00Z
@@ -112,6 +98,22 @@ related:
       - url: "https://www.nyoooz.com/df-images/bengaluru/df-bengaluru-4.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AI Startup Skan Secures $14 Million Through Series A Funding Round Led By Cathay Innovation"
+    excerpt: "Skan, the AI-enabled process discovery and operational intelligence, recently announced it secured $14 million through its Series A funding round, which was led by Cathay Innovation with participation from Citi Ventures, Zetta Ventures, Bloomberg Beta ..."
+    publishedDateTime: 2020-10-31T02:27:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/10/168613-ai-startup-skan-secures-14-million-through-series-a-funding-round-led-by-cathay-innovation/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/10/168613-ai-startup-skan-secures-14-million-through-series-a-funding-round-led-by-cathay-innovation/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/168613-ai-startup-skan-secures-14-million-through-series-a-funding-round-led-by-cathay-innovation/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 47
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/01/Money-Dollars-Benjamin-5-600x450.jpeg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Fast-growing St. Louis AI software startup Capacity raises $11M in Series C funding"
     excerpt: "The startup said its new financing came primarily from existing ... Founded in 2017 by Karandish and fellow entrepreneur Chris Sims, Capacity has developed an AI-enabled “help desk” technology that’s designed to capture and collect a company or ..."

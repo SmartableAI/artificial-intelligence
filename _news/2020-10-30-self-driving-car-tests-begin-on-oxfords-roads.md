@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ford is doubling down on testing self-driving cars in Miami-Dade"
-    excerpt: "After landing in Miami-Dade in 2018 with a fleet of self-driving cars, Ford announced Monday that it plans to broaden its presence here as it explores the frontiers of autonomous vehicles. The Michigan-based automaker said it now plans to establish a ..."
-    publishedDateTime: 2020-10-27T11:01:00Z
-    webUrl: "https://www.miamiherald.com/news/business/article246728241.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/business/article246728241.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/business/article246728241.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 44
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/d8c13d6b-7856-494e-9971-e37ddc10c652/c3add766-c8dc-42cf-9b32-f380f6083365/1280x720/match/image.jpg"
-        width: 1080
-        height: 720
-        isCached: true
   - title: "Ford Reals Self-Driving Escape Hybrid Test Vehicles"
     excerpt: "Ford reveals the new Escape Hybrid self-driving test vehiclePhoto: FordFord Motor Company launches its autonomous vehicle commercial service in 2022, and it now has its vehicle of choice in place"
     publishedDateTime: 2020-10-28T10:14:00Z

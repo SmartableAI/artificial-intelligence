@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Flippy robots will cook sliders in 10 more White Castle locations"
-    excerpt: "Rail — showed promising results in its pilot with White Castle, enough for the burger chain to sign on to deploying the robot in 10 more locations. Back in September, they formally started a pilot program to test Flippy at one White Castle location,"
-    publishedDateTime: 2020-10-27T09:41:00Z
-    webUrl: "https://www.engadget.com/flippy-robot-white-castle-expansion-090002507.html?ref=hvper.com"
-    ampWebUrl: "https://www.engadget.com/amp/flippy-robot-white-castle-expansion-090002507.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/flippy-robot-white-castle-expansion-090002507.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F4c4ba8b0-1517-11eb-bbef-af00bd4d0adb&client=amp-blogside-v2&signature=05b6c4fd5bd26f566516f92d0f50c667127f4b24"
-        width: 600
-        height: 350
-        isCached: true
   - title: "White Castle Plans To Use Flippy The Robot In More Locations"
     excerpt: "When you order French fries or onion rings at one of 10 White Castle locations, a robot may help prepare the food. White Castle announced it is expanding the use of Flippy Robot-on-a-Rail (ROAR) to more locations in the United States."
     publishedDateTime: 2020-10-29T03:09:00Z
@@ -100,20 +84,6 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 54
-  - title: "White Castle to Expand Implementations with Miso Robotics and Target Up to 10 New Locations Following Pilot"
-    excerpt: "PRNewswire/ -- White Castle®, the world's first fast-food hamburger chain, announced today plans to expand work with Miso Robotics - creators of the first autonomous"
-    publishedDateTime: 2020-10-27T10:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/white-castle-to-expand-implementations-with-miso-robotics-and-target-up-to-10-new-locations/article_4245635f-f9de-522d-bce9-8b27a2cebf61.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 36
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/4e/74ea0957-439c-5642-abc2-335019e8e710/5f97e91836105.image.jpg?resize=400%2C267"
-        width: 400
-        height: 267
-        isCached: true
 
 secured: "YiNdS82lXCSNg18/WpfBYJcndb27KIKSfu6Q8KNmtRSMtxtJmlZ0r4ArXr0jd0vIULV3Wc357ndYa9v1kA8oQP2IfU4nunddTg/bpIvCCqJzQj+AW1R06s/6laxvsZsY3YqXDThemfJkNm8nYtg4hvQx7OZ8Yx8DXOsOKDExVdWbCeJTiTWXu0KIAzWLvPDyfxB+va9HOCZ7Z6mx8WWa/AbeYH0LhYq3DmiKAvPPfAuW3c5ROXMRQfDgeAUDgEoeYhIUqpVrEKDnpi10fG+AhjnoYVt1u8137OEoPk6yOqEL15d09f40ekpWc/9U1YA73XRSGFVJ77/nu77/Hooe+tMZEkVPYr+ZANm2+lAep1WV782UnRVofcEvKOPwP5Z18UIbp5vBY8cZOy4KB2ErVL68Qk/Bm548EM8huJ766lItbNu7daTPzwVnurryhMvfU52KfXXwrCUhOcec8U1TD4ZZhtEjkh/abu+I+0tWad4wZEcH9G5af/P9eM5xj8GDW9dCOXncqR1NvdQ5+dHa/Q==;1kp8DhLRwledsIiDUZQm/A=="
 ---

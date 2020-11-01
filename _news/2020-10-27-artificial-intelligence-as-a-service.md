@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "The State Of AI Adoption In Financial Services"
-    excerpt: "IDC predicts worldwide revenues for artificial i (AI) software, hardware and services will reach $156.5B in 2020, increasing 12.3% over 2019. The global AI finte"
-    publishedDateTime: 2020-10-31T23:26:00Z
-    webUrl: "https://www.forbes.com/sites/louiscolumbus/2020/10/31/the-state-of-ai-adoption-in-financial-services/"
-    ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/10/31/the-state-of-ai-adoption-in-financial-services/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/10/31/the-state-of-ai-adoption-in-financial-services/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9da9913b4215b47e037243%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5798%26cropY1%3D0%26cropY2%3D4300"
-        width: 1200
-        height: 890
-        isCached: true
   - title: "7 AI Stocks to Buy as Automation Advances"
     excerpt: "Oxford academics Carl Benedikt Frey and Michael Osborne estimated that 47% of American jobs are at high risk of automation by the mid-2030s, so it’s closer than we think. Many investors aren’t sure what the technology is or what AI stocks to buy in anticipation of its rise."
     publishedDateTime: 2020-10-28T19:52:00Z
@@ -53,15 +37,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 71
-  - title: "Video: Automation to drive evolution of financial services"
-    excerpt: "In this bobsguide video, sponsored by FactSet, Drake Bushnell, VP director of content and technology solutions strategy at FactSet and Byron Bianco, managing director of BMO Capital Markets discussed how the use of data will change the financial services industry."
-    publishedDateTime: 2020-10-27T10:02:00Z
-    webUrl: "https://www.bobsguide.com/guide/news/2020/Oct/27/video-automation-to-drive-evolution-of-financial-services/"
-    type: article
-    provider:
-      name: Bobs Guide
-      domain: bobsguide.com
-    quality: 4
 
 secured: "xZbalFkwGQcfX3sj91OE+HmnZ+hhusD+E6WTzpKoMM/VqYSYEWuKc3mT0o8b9x0J2QA5jGYUzIoXHzBssEMeeSzWMP5oUCZHJyAPdzQ1vBh1bFdNGIaXsLypc7AW/mEQJM1Bqy+yweK4eGQ3zJbFs6JSvSH3H8mZd7JJk4Db0rYlOoZxrh/PZgd8viqSyI9FnrxAZ5YZfD/5aspndWcgG8ZkU7kMILFH5/xQg2XbQftCTNDc0ExwYA3VMKeYRHxtazkrxkZMEBVKirUT5wnrqrCpmzutiNgTba2CQYyalocZZ3zIybfM/8/BHr6QitK4YlVJsFfb+/bCbCP3qVtlWvU4JLCtDcpPy7/e/IWhad8lGhxizf1Hn9FKbMF0oyAA4LSZxzQ0kd5uH66zKLrhv6eynQ2OZjKMqf038FPD/oUHwdxekIZ2rnVrK/BBMdQyyDApVFSxzE2TccHZTVKaofneL7sV8RuKz4PtTNtkrNKjIN2UutESJq+MljG8zpShhpqnF3mW7UbdxuuwKehg3g==;qNQy5GsqbyM0ZbCm2sB72w=="
 ---
