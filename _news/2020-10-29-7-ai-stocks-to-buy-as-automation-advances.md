@@ -1,26 +1,31 @@
 ---
 category: news
 title: "7 AI Stocks to Buy as Automation Advances"
-excerpt: "Oxford academics Carl Benedikt Frey and Michael Osborne estimated that 47% of American jobs are at high risk of automation by the mid-2030s, so it’s closer than we think. Many investors aren’t sure what the technology is or what AI stocks to buy in anticipation of its rise."
-publishedDateTime: 2020-10-28T19:52:00Z
-originalUrl: "https://www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28"
-webUrl: "https://www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28"
-ampWebUrl: "https://www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28?amp"
+excerpt: "However, Waymo is actually rolling out the self ... In any regard, Trimble has multiple end markets that can be disrupted via artificial intelligence and machine learning. Trimble says, We have ..."
+publishedDateTime: 2020-10-28T19:21:00Z
+originalUrl: "https://investorplace.com/2020/10/7-ai-stocks-to-buy-as-automation-advances/"
+webUrl: "https://investorplace.com/2020/10/7-ai-stocks-to-buy-as-automation-advances/"
+ampWebUrl: "https://investorplace.com/2020/10/7-ai-stocks-to-buy-as-automation-advances/amp/"
+cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/10/7-ai-stocks-to-buy-as-automation-advances/amp/"
 type: article
-quality: 71
-heat: 71
-published: true
+quality: 59
+heat: 59
+published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: InvestorPlace
+  domain: investorplace.com
 
 topics:
-  - AI in Robotics
-  - AI
   - AI in Autos
+  - AI
 
-secured: "vuEYwCTxwrlEvJ97Bd+X/8bRpBjBVdw7mQxOAuemQhY0qiSHhqw3M542jgTWbuCcgDQOINSC9WKPskaBAsy3FLGLuZ45hj08N1yoLT14AWx9aCDpuc27MhRqlTD9onjrCPK+5cuevtWNmT8XyyQnaBcCI/DtNgjEs0KkmXmcG6Gzl/IinXH3PIcSleIOj3iA30a/M9iMaHip9dKRl+D05SAEMJZPt31UmWaHW/jzRfdu5L7HrcLzSCgUHLN4A9C5tsURmcwx7mqWPav17iJxnlmnlHb47bD2PntTLGeRJyhCBa40WG/71KMrTafgJsEgA+yUAOHMnfpNn9XfBU7TYvu4/BvF8e/oRrtfsmBiU6A=;MXArahrylcSecVLsoZ8MAQ=="
+images:
+  - url: "https://investorplace.com/wp-content/uploads/2019/07/ai1600d.jpg"
+    width: 1600
+    height: 900
+    isCached: true
+
+secured: "GRE1ldNQZhr+zrBy2rZR8p02rwHwZECy5D99M/9zrOPG63KNXMJnbIAzGc7+Z9Vack8vQIufpAw2tCOifG24y14+ibBV4QL2K38PTcVzH6nOfiWU+9X7CQ/Fsxo75Y0jjhjdXWMkV/fmwKPpCcR+f8ZUjql/jy7m1V1r4mbBgwAqGz5NeFbD9QS5E+QgAzBZrEA43ZXwa3DbZcQMpicJcWxannp2PBfaB2TIDNsRCi7OOSnRMamrPnOUSEnczN4t5EwQl1b739Bi9F15Civ6oHiX6Dt2hMrAK7S8wvKKobUsxrnyPp72Bepo5+Qo0EvUG+cFtQpOGXf0E8vgMvkOa/a5zTb9ZkBoPKARhUYeg1c=;mo8yJj8ZiARIsTeSh7st0A=="
 ---
 

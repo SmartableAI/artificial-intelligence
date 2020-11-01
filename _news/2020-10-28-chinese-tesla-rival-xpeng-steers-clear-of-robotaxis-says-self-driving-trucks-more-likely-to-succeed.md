@@ -352,6 +352,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Tesla 'full self-driving' vehicles can't drive themselves"
+    excerpt: "DETROIT — Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and ..."
+    publishedDateTime: 2020-11-01T22:10:00Z
+    webUrl: "https://www.ksdk.com/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    ampWebUrl: "https://www.ksdk.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    cdnAmpWebUrl: "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+    type: article
+    provider:
+      name: KSDK
+      domain: ksdk.com
+    quality: 59
+    images:
+      - url: "https://media.ksdk.com/assets/CCT/images/5b2d9a1c-ebf7-467c-93bb-62af47399b18/5b2d9a1c-ebf7-467c-93bb-62af47399b18_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Consumer Reports Finds GM’s Self-Driving Tech Superior to Tesla’s Autopilot"
     excerpt: "Tesla’s Autopilot may be stealing more headlines as of late, but according to new findings from Consumer Reports, GM’s version is leagues ahead. Consumer advocate publication Consumer Reports recently conducted a test featuring a lineup of 17 vehicles with active driving assistance systems,"
     publishedDateTime: 2020-10-28T21:16:00Z
@@ -435,6 +451,6 @@ related:
       domain: dailypioneer.com
     quality: 19
 
-secured: "BR0AM7G57OEHhTdaVeAP+iPW8F7qWtV6kpI4asmRnpx+p8hWQd4PObYWp3jTBKyOR87lIiXIYnKd6QkzKdrgWMTfIZEeGl/TB3t7orEHbSJFXMDhyO6oCTnKcqTCwrL6WLiooEjYXc5IYIz7qvcLz2e3L5EZWp/OCLgLI+BhTLASIrGXSCDWL2J3GgZRP/rKzSnsZgN4R3+7OedkJdm3QGEEfZQe3pHqbHQStVcAKi6zFMZUOJBk2fpXKRZ0kzB/ctE12ZuAEJdu6j/Qam3dr45l6RAEefdMHZWSiwJHZuATNz0SoutwI0G4if+s2KlCURYQkiKiOuYSGV8ludGv4Ca9NLTv+7fk+bIVYEMulfY=;gAX0ykVtOK0e2qDn36TXHQ=="
+secured: "TIB2/rXKaIQdt43ovDvWQNrZWLiHC2o8AdGGxc7LjUzXrJAVgZN1BWqgk62t6D9bqRSQ/OWmdgzoS/4ZpeHc2zAI2n7DQklIC37YuU63oEvrwP9rOuRKKnYfXSZ4a0bTxa7yiefRs8uRiCPu95b20wF4sCQa3Mzz6L7EUn+dB6k2/pFf5yrvo5Gtn0uSwIBd3CVeYb2xUe2c1oTfEizuvblhLwVxHcuBf+39ASSzbvE3jsLYZclu9J5hA8Aj1PehCxGhzR0HB+xkxmXfzhiUgerObPtwvO4ylKADIuqE00LJb0syLMHbbUFCvPUpqoleVyqunQooSCUGxzDDtJmcoe6+Ha/pg3oTzVlo9TYWLB8=;fTO37c06vL5zGdZyNogOfA=="
 ---
 

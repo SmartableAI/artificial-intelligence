@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Tesla's Full Self-Driving Beta 'Learns' Roundabouts And Speed Bumps"
-excerpt: "Tesla's FSD system is \"learning.\" As you can see, it appears to make corrections once test drivers \"teach\" it."
-publishedDateTime: 2020-10-30T13:43:00Z
-originalUrl: "https://insideevs.com/news/451720/teslas-full-self-driving-beta-learns-roundabouts-and-speed-bumps/"
-webUrl: "https://insideevs.com/news/451720/teslas-full-self-driving-beta-learns-roundabouts-and-speed-bumps/"
-ampWebUrl: "https://insideevs.com/news/451720/teslas-full-self-driving-beta-learns-roundabouts-and-speed-bumps/amp/"
-cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/451720/teslas-full-self-driving-beta-learns-roundabouts-and-speed-bumps/amp/"
+title: "Tesla 'full self-driving' vehicles can't drive themselves"
+excerpt: "DETROIT — Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and ..."
+publishedDateTime: 2020-11-01T22:10:00Z
+originalUrl: "https://www.ksdk.com/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+webUrl: "https://www.ksdk.com/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+ampWebUrl: "https://www.ksdk.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
+cdnAmpWebUrl: "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Inside EVs
-  domain: insideevs.com
+  name: KSDK
+  domain: ksdk.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn.motor1.com/images/mgl/0106m/s1/tesla-fsd-speed-bumps.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://media.ksdk.com/assets/CCT/images/5b2d9a1c-ebf7-467c-93bb-62af47399b18/5b2d9a1c-ebf7-467c-93bb-62af47399b18_1140x641.jpg"
+    width: 1140
+    height: 641
     isCached: true
 
 related:
@@ -322,6 +322,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Tesla's Full Self-Driving Beta 'Learns' Roundabouts And Speed Bumps"
+    excerpt: "Tesla's FSD system is \"learning.\" As you can see, it appears to make corrections once test drivers \"teach\" it."
+    publishedDateTime: 2020-10-30T13:43:00Z
+    webUrl: "https://insideevs.com/news/451720/teslas-full-self-driving-beta-learns-roundabouts-and-speed-bumps/"
+    ampWebUrl: "https://insideevs.com/news/451720/teslas-full-self-driving-beta-learns-roundabouts-and-speed-bumps/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/451720/teslas-full-self-driving-beta-learns-roundabouts-and-speed-bumps/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 59
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/0106m/s1/tesla-fsd-speed-bumps.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Tesla 'full self-driving' vehicles can't drive themselves"
     excerpt: "DETROIT — Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and ..."
     publishedDateTime: 2020-10-30T18:21:00Z
@@ -335,22 +351,6 @@ related:
     quality: 59
     images:
       - url: "https://media.king5.com/assets/CCT/images/5b2d9a1c-ebf7-467c-93bb-62af47399b18/5b2d9a1c-ebf7-467c-93bb-62af47399b18_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Tesla 'full self-driving' vehicles can't drive themselves"
-    excerpt: "DETROIT — Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and ..."
-    publishedDateTime: 2020-11-01T22:10:00Z
-    webUrl: "https://www.ksdk.com/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
-    ampWebUrl: "https://www.ksdk.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
-    cdnAmpWebUrl: "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
-    type: article
-    provider:
-      name: KSDK
-      domain: ksdk.com
-    quality: 59
-    images:
-      - url: "https://media.ksdk.com/assets/CCT/images/5b2d9a1c-ebf7-467c-93bb-62af47399b18/5b2d9a1c-ebf7-467c-93bb-62af47399b18_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true
@@ -451,6 +451,6 @@ related:
       domain: dailypioneer.com
     quality: 19
 
-secured: "rACtVvhmdk8svmd/To+PmOxfKQmCfaqQTfGSpbebgnwIEbVUletw9Enq6507jrANA7bJM6ZFJm+6TiBnqXKDSusN1IKwXcfPfb7J0u6HFCUvEPr6s/YhEiMnsX1oCnYIm11SKaWBASIkU6SMAo32W6MVMY5jve8VY1czSQ8CdnhBQ+uX85EmhM+x4mHZ+ZrBZ8LzF2Yh6Eo9qRsqKIopkkbGle2cvT2ji8WNbzOYNm8hsrdwmFF7ixk6awXgAOxxn/K9SbrL5Sg0Th3kLc0f/OabibwNasskV1PHgNbzf5x0HLhiYwGvbl/RHLc0JODk/Vcs8aaeQyO+DyLcQKocnCHd7XKyKzJ3RXXkCeJW520=;fHBUjoe+RlvbczQ7AwvD5Q=="
+secured: "cET6Venevae7QP1ffziyYvfOYzvXJEXLYxP0oXu5W4gXls0bbmTyYAVnhRJ4kGz15baGYGvvN81L8Tqump9NnMI5Ee1vun6puPAGbgDJzdy7yIAr3tl8CS11srEB8CCNRWmlDvy+iJSs98OiVp3bdxYyEqNOnj5DnjhD8fZ1HTSML26OM1fEkvmVetTyF+5HoMVtHy1kEMudKmNhKs2JP2IlrC4ty6L/dQzdGzBqTd0+xOAPFRAe1JP53GF7qFyPb8rxMilzyd8bySUaWEbAI6ZgtjrlH9aJfWI1x7lSDRJ+oLVOIYAJdhK5CAtGH67n0BxOBomVjj0/rTn/9bwzjCC7G4fetWFEjNC3KMwfEvs=;P7TkIfkqjZki4Dki91w8uQ=="
 ---
 
