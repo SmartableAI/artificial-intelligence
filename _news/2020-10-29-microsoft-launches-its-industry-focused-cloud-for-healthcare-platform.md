@@ -145,20 +145,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Microsoft partners with Adobe and c3.ai to launch Salesforce rival"
-    excerpt: "powered by Azure. Microsoft hopes that when combined with Adobe’s speciality in the digital customer experience, and the AI capabilities of c3.ai, the combined system will offer customers a powerful alternative to the biggest players."
-    publishedDateTime: 2020-10-27T11:21:00Z
-    webUrl: "https://www.channelpro.co.uk/news/11941/microsoft-partners-with-adobe-and-c3ai-to-launch-salesforce-rival"
-    type: article
-    provider:
-      name: Channel Pro
-      domain: channelpro.co.uk
-    quality: 54
-    images:
-      - url: "https://cdn1.channelpro.co.uk/sites/channelpro/files/2020/10/crm_shutterstock.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Microsoft’s Intriguing Partnership With Tom Siebel’s C3 AI"
     excerpt: "I’m publishing this series to discuss a topic that I follow closely - cloud stocks, trends, strategy, acquisitions, and more. Please subscribe to my Cloud Stock Analysis series and never miss an article."
     publishedDateTime: 2020-10-29T15:27:00Z

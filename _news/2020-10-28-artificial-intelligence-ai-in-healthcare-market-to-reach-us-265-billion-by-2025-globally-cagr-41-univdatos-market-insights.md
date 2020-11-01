@@ -87,15 +87,6 @@ related:
         width: 639
         height: 542
         isCached: true
-  - title: "Artificial Intelligence (AI) in Healthcare Market to Reach US$ 26.5 Billion by 2025, Globally |CAGR: 41%| UnivDatos Market Insights"
-    excerpt: "Artificial Neural Network), Applications (Robotic Surgery, Diagnosis, Virtual Nursing Assistance, Administrative Workflow Assistance); Offerings (Hardware, Software and Services) and Region ..."
-    publishedDateTime: 2020-10-27T15:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-1029728132"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
   - title: "Healthcare Artificial Intelligence Market Size"
     excerpt: "Artificial intelligence refers to the simulation of human intelligence in machines that are programmed to think like humans and simulator their actions. Using these technologies, computers can be trained to accomplish specific tasks by processing large ..."
     publishedDateTime: 2020-10-27T17:42:00Z

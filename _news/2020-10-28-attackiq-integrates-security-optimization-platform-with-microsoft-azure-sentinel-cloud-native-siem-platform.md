@@ -66,19 +66,16 @@ related:
         height: 720
         isCached: true
   - title: "Lindsay to Develop Sustainable and Profitable Solutions for Growers using Microsoft Azure"
-    excerpt: "Lindsay will utilize Microsoft Azure IoT Edge and Azure Machine Learning for edge-of-field computing, artificial intelligence and machine learning solutions. Collaboration will result in complete end-to-end monitoring and control capabilities, and ..."
-    publishedDateTime: 2020-10-30T10:47:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-301163711.html"
+    excerpt: "PRNewswire/ -- Lindsay Corporation (NYSE:LNN), a leading global manufacturer and distributor of irrigation and infrastructure equipment and"
+    publishedDateTime: 2020-10-30T10:45:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/10/n18138551/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18138551"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18138551"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 60
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Analysis: In an epic pivot to the cloud, Microsoft makes Azure the linchpin of its future"
     excerpt: "Microsoft Corp.’s Azure cloud computing service is the linchpin of the tech giant’s innovation strategy. As we reported last week, we believe that in the next decade, changes in public policy will restrict the way in which big internet companies are able to appropriate user data."
     publishedDateTime: 2020-10-31T18:43:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2020/10/201028134036.htm"
 webUrl: "https://www.sciencedaily.com/releases/2020/10/201028134036.htm"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -24,21 +24,19 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Learning A Second Language: Business Benefits And How To Start A Program"
-    excerpt: "Language remains a key organizational building block, whether we are distributed all the way across the world or just next door."
-    publishedDateTime: 2020-10-27T11:36:00Z
-    webUrl: "https://www.forbes.com/sites/theyec/2020/10/27/learning-a-second-language-business-benefits-and-how-to-start-a-program/"
-    ampWebUrl: "https://www.forbes.com/sites/theyec/2020/10/27/learning-a-second-language-business-benefits-and-how-to-start-a-program/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/10/27/learning-a-second-language-business-benefits-and-how-to-start-a-program/amp/"
+  - title: "Remote Learning Will Continue Growing over the Next Three Years"
+    excerpt: "Over the next three years, a majority of K-12 educators expect online learning and digital curriculum to get ever more-important, while two STEM standbys will go by the wayside."
+    publishedDateTime: 2020-10-29T22:37:00Z
+    webUrl: "https://thejournal.com/Articles/2020/10/29/Remote-Learning-Will-Continue-Growing-over-the-Next-Three-Years.aspx?p=1"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 73
+      name: The Journal
+      domain: thejournal.com
+    quality: 24
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9738fe97804ca61558e810%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://thejournal.com/-/media/EDU/THEJournal/2020Editorial/20201029Promethean_figure_1.jpg"
+        width: 644
+        height: 424
         isCached: true
   - title: "Learning the language of sugars"
     excerpt: "To trace this history of glycan sequence development and identify meaningful trends and patterns, the research team turned to machine learning algorithms -- specifically, natural language processing (NLP), which has previously demonstrated success in ..."

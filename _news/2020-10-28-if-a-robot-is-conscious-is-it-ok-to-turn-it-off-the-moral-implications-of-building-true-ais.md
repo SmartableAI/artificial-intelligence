@@ -9,8 +9,8 @@ ampWebUrl: "https://singularityhub.com/2020/10/28/if-a-robot-is-conscious-is-it-
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/10/28/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais/amp/"
 type: article
 quality: 63
-heat: -1
-published: false
+heat: 93
+published: true
 
 provider:
   name: Singularity Hub
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "If a robot is conscious, is it OK to turn it off? The moral implications of building true AIs"
-    excerpt: "Without endorsing Singer’s line of reasoning, we might wonder if it can be extended further to an android robot like ... consciousness and intelligence. As real artificial intelligence ..."
-    publishedDateTime: 2020-10-27T12:17:00Z
-    webUrl: "https://theconversation.com/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais-130453"
-    ampWebUrl: "https://theconversation.com/amp/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais-130453"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais-130453"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 63
-    images:
-      - url: "https://images.theconversation.com/files/365306/original/file-20201023-13-z1yhk3.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=241&fit=crop"
-        width: 320
-        height: 241
-        isCached: true
   - title: "If a Robot is Conscious, is it Okay to Turn it Off?"
     excerpt: "This summer, a startup called OPENAI released a new version of its Generative Pre-Training language model. GPT-3 is a natural-language-processing system, trained to read and write so that it can be easily understood by people. Named after pioneering AI ..."
     publishedDateTime: 2020-10-28T02:01:00Z

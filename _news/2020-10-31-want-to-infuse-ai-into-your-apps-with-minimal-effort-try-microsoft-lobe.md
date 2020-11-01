@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/amp/"
 type: article
 quality: 109
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -150,20 +150,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/RE4vhVe.jpg"
         width: 1259
         height: 708
-        isCached: true
-  - title: "Microsoft partners with Adobe and c3.ai to launch Salesforce rival"
-    excerpt: "powered by Azure. Microsoft hopes that when combined with Adobe’s speciality in the digital customer experience, and the AI capabilities of c3.ai, the combined system will offer customers a powerful alternative to the biggest players."
-    publishedDateTime: 2020-10-27T11:21:00Z
-    webUrl: "https://www.channelpro.co.uk/news/11941/microsoft-partners-with-adobe-and-c3ai-to-launch-salesforce-rival"
-    type: article
-    provider:
-      name: Channel Pro
-      domain: channelpro.co.uk
-    quality: 54
-    images:
-      - url: "https://cdn1.channelpro.co.uk/sites/channelpro/files/2020/10/crm_shutterstock.jpg"
-        width: 1000
-        height: 667
         isCached: true
   - title: "Microsoft’s Intriguing Partnership With Tom Siebel’s C3 AI"
     excerpt: "I’m publishing this series to discuss a topic that I follow closely - cloud stocks, trends, strategy, acquisitions, and more. Please subscribe to my Cloud Stock Analysis series and never miss an article."

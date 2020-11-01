@@ -3,13 +3,13 @@ category: news
 title: "Emerging technologies that will advance the retail industry"
 excerpt: "In response to this changing landscape, retailers have brought forward technology investments to accelerate their digital business transformation, particularly in artificial intelligence (AI) technologies with retailers often utilizing AI-enabled third-party vendor applications to solve immediate challenges before moving to more strategic deployments once they gain evidence of the benefits."
 publishedDateTime: 2020-10-28T15:34:00Z
-originalUrl: "https://www.techradar.com/in/news/emerging-technologies-that-will-advance-the-retail-industry"
-webUrl: "https://www.techradar.com/in/news/emerging-technologies-that-will-advance-the-retail-industry"
-ampWebUrl: "https://www.techradar.com/in/amp/news/emerging-technologies-that-will-advance-the-retail-industry"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/emerging-technologies-that-will-advance-the-retail-industry"
+originalUrl: "https://www.techradar.com/news/emerging-technologies-that-will-advance-the-retail-industry"
+webUrl: "https://www.techradar.com/news/emerging-technologies-that-will-advance-the-retail-industry"
+ampWebUrl: "https://www.techradar.com/amp/news/emerging-technologies-that-will-advance-the-retail-industry"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/emerging-technologies-that-will-advance-the-retail-industry"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Emerging technologies that will advance the retail industry"
+    excerpt: "Services include natural language processing (NLP), sentiment analysis, image recognition and autoML model creation. Companies that began their digital transformations early in the pandemic are ..."
+    publishedDateTime: 2020-10-29T03:42:00Z
+    webUrl: "https://www.techradar.com/in/news/emerging-technologies-that-will-advance-the-retail-industry"
+    ampWebUrl: "https://www.techradar.com/in/amp/news/emerging-technologies-that-will-advance-the-retail-industry"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/emerging-technologies-that-will-advance-the-retail-industry"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 89
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-1200-80.jpg"
+        width: 970
+        height: 646
+        isCached: true
   - title: "Emerging AI Will Drive The Next Wave Of Big Tech Monopolies"
     excerpt: "Amazon and Apple built their monopolies by having detailed access to their users’ data, which in turn allowed them to build the best AI recommendation systems for their respective ecosystems. In addition, Facebook and Google built their monopolies on the ..."
     publishedDateTime: 2020-10-28T18:16:00Z
@@ -43,6 +59,6 @@ related:
       domain: forbes.com
     quality: 69
 
-secured: "UNp+cZf8KRfTiZPiOG34k9AN5MWXwIpjhv+Psckl6vJJhu28OZK6zSuwkoxtSSVO5LHtfllBqhEngZcrs/oUVxux3aTr+MOl0V/u9JQzkV/9zbJB7+h1ZTUjEDSDtFiYclGiEAf55/GDk/8kzezg0uXrhedmqXyEtg/AzenlqpuWKRCFBr5G4vhcJEmGIYzB3L5j3pV2knbkc6hfEwsdasc8EHf5rNo0UoRBqcLFSpkphwFBdOXanGqQ9z9rQp+YUSwmXEtPfuEyFCr0S9XAGqtB4ym4TJcWG5ZmAH9DA1qP2Y1TcEnPzNcSVg9B2c5ql9X+dQM9JbDs0uAbn3TK3DeYOx5TAViLh6uKFr5PIGCXN7WL4M8oXGX6dcRxQF/O5BdIWTiX6Jl8Y6kTrO/LV77lnUNyyhvg32GAtJE63OLyc003uzRdV5q1Si3gpZEweM+41pSUt51mZHeWAUeHlulPFG2/DiJmB9P99eZ6llLzk4wFEeSQ4kMcIDeWpN4WHYRFV1d8opE10bZT6glEZQ==;6Dz8QWQlZf8hf300LbjZuw=="
+secured: "botgOblsez7byClS5xl1vbYncLvKNEccbhXqryNAMxmAT9OR0N7C5jHCmY9LLEnsjJdmGJ2Fc5dt45JSyCdHLCG0Bg4gMhxodEi2qVMKo7B6rzZ5lRd0yxzUT38pRa1SG1WOmVOJMYaCXEYnmlDQ+SeSX+2uZECp4PWaee126Jzxp5j4toM4zyGQGMcCI1OpRNRTPztNDTtan5dKdpTFAYnb7F7BD/gkoxYhO9LshXBXTniUm6383FgEO5abHF0ZdOsZjyK9YFP2TxUFYRgElBNg5E6GkvcTl3kreZ0Eh8uojJevh4s+IutHtzAWnQx+JOiExxfNz9rn1F5IiAKC/eb5d1YwspcNPzWkytQfn5g=;B3a0359Ghkae5cO74oLNXg=="
 ---
 

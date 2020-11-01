@@ -36,20 +36,6 @@ related:
       domain: businessinsider.com
     quality: 63
   - title: "AI-Powered Trading Platform Tickeron Releases New Swing Trading AI Robots"
-    excerpt: "SUNNYVALE, Calif., Oct. 27, 2020 /PRNewswire/ -- Tickeron, an artificial and human intelligence platform delivering unparalleled trading insights and analysis, has released several new swing trading robots as part of their groundbreaking AI Robots feature."
-    publishedDateTime: 2020-10-27T12:03:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ai-powered-trading-platform-tickeron-releases-new-swing-trading-ai-robots-301160206.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 53
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "AI-Powered Trading Platform Tickeron Releases New Swing Trading AI Robots"
     excerpt: "Tickeron, an artificial and human intelligence platform delivering unparalleled trading insights and analysis, has released several new swing trading robots as part of their groundbreaking AI Robots feature."
     publishedDateTime: 2020-10-30T07:55:00Z
     webUrl: "https://www.finyear.com/AI-Powered-Trading-Platform-Tickeron-Releases-New-Swing-Trading-AI-Robots_a43087.html"

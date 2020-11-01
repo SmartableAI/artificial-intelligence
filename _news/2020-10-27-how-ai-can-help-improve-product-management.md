@@ -24,22 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "How AI can help protect users from abusive and negative behavior"
-    excerpt: "With the increase in online chat, I set out to learn how AI can help ensure user-generated content is moderated so that all users are safe from abusive and negative behavior. To answer that ..."
-    publishedDateTime: 2020-10-27T11:10:00Z
-    webUrl: "https://venturebeat.com/2020/10/27/how-ai-can-help-protect-users-from-abusive-and-negative-behavior/"
-    ampWebUrl: "https://venturebeat.com/2020/10/27/how-ai-can-help-protect-users-from-abusive-and-negative-behavior/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/how-ai-can-help-protect-users-from-abusive-and-negative-behavior/amp/"
+  - title: "Artificial Intelligence Helps Improve Treatment for Brain Tumor"
+    excerpt: "In patients with glioblastoma (brain tumor) artificial intelligence measures the amount of muscle to help improve prognosis and treatment, said researchers."
+    publishedDateTime: 2020-10-29T00:39:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-helps-improve-treatment-for-brain-tumor-198219-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-helps-improve-treatment-for-brain-tumor-198219-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-improve-treatment-for-brain-tumor-198219-1.htm"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Medindia
+      domain: medindia.net
+    quality: 74
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/10/GettyImages-1158225795.jpg?w=1200&strip=all"
-        width: 1200
-        height: 671
+      - url: "https://www.medindia.net/healthcare-directory/images/find-a-doctor-300x250.jpg"
+        width: 300
+        height: 250
         isCached: true
+  - title: "Artificial intelligence can help to improve prognosis and treatment for glioblastoma"
+    excerpt: "In the first study of its kind in cancer, researchers have applied artificial intelligence to measure the amount of muscle in patients with brain tumours to help improve prognosis and treatment."
+    publishedDateTime: 2020-10-29T08:23:00Z
+    webUrl: "https://medicalxpress.com/news/2020-10-artificial-intelligence-prognosis-treatment-glioblastoma.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-10-artificial-intelligence-prognosis-treatment-glioblastoma.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-artificial-intelligence-prognosis-treatment-glioblastoma.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 32
 
 secured: "uqsq7KgzrLCDDwd+TJK65na+hdxkrgeGM44SIXPu4yiI3SsBEj7oJu+3TaszV/AkHjFFL6VM0qADRbspmVR/Yjfylowcq+UEUvYC0CjaHpO9sAkDjLm+mT/DAMgernCLhsBQmJbkdEg45Gf+AmqXh+RQkhZvvL9VObBY62fnPqh7jo6xXGdGAVzVs9lns1dCJeCYoAAppW311/wtbbf4YOxZek4cDIvy2KVZUQz1EAEm82O7v3OkryjWDto9BQMev7R2r6u2ILYLdqk7xFjh6+fd9PO3b+nqwuMN5o7aYaOsNXfSzSguySK/U5aIHM17smuYGQsPKTTYnu1ylVKaKvKw5QQv1TdhktGfLyrnY7c=;pY4Oo3WHHLtansuB87XcMg=="
 ---

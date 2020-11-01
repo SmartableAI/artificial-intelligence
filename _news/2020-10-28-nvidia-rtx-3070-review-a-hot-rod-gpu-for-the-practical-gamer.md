@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/nvidia-rtx-3070-review-ray-tracing-130052
 webUrl: "https://www.engadget.com/nvidia-rtx-3070-review-ray-tracing-130052152.html"
 type: article
 quality: 69
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 1142
     height: 630
     isCached: true
-
-related:
-  - title: "RTX 3070 review: A $500 GPU that matches the $1,200 RTX 2080 Ti"
-    excerpt: "The sweet spot for GPUs over the last half-decade is the $500 ... And even if it looks as nice, will it run well without something like AI-power machine learning image algorithms?"
-    publishedDateTime: 2020-10-27T13:04:00Z
-    webUrl: "https://venturebeat.com/2020/10/27/rtx-3070-review-the-500-gaming-sweet-spot/"
-    ampWebUrl: "https://venturebeat.com/2020/10/27/rtx-3070-review-the-500-gaming-sweet-spot/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/rtx-3070-review-the-500-gaming-sweet-spot/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/10/RTX-3070.png?w=1200&strip=all"
-        width: 1200
-        height: 651
-        isCached: true
 
 secured: "81Ss2636fjYVDfSlLj+hDrgwx8QJErxEflSEos9k6ioI2Jx7xQSh64udMPqjliLgpLWo/lh+zQZtbJA4cnHVPeKARKJnVthnW1LtzWSNfmUNSpflR2QB1CcZwA48AksxmQwu3a4JkFNA8RaMKHm9fJkV5tHtIlSKoJhaRTrCP5LLflzdZKQyOSXD/kp6AKxfpwQ11yXy/k9clmTuqBGrlV0rtjhCaXypFLSqU8xfsBp53TjQVYDvVXaTIxGLb7Cr67JXeXebLILRPcxPQdPZf16ehJ1RO4gQi3loakJgSehS6hAsaHFBSLy9gcmvGHhZQhe9KnJyYAsviNB7C4Cyio/m7ms6NsOEpogb5+a0O1c=;ARJCOgdQ5i/cX/pMThooTA=="
 ---

@@ -20,22 +20,6 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Learning A Second Language: Business Benefits And How To Start A Program"
-    excerpt: "Language remains a key organizational building block, whether we are distributed all the way across the world or just next door."
-    publishedDateTime: 2020-10-27T11:36:00Z
-    webUrl: "https://www.forbes.com/sites/theyec/2020/10/27/learning-a-second-language-business-benefits-and-how-to-start-a-program/"
-    ampWebUrl: "https://www.forbes.com/sites/theyec/2020/10/27/learning-a-second-language-business-benefits-and-how-to-start-a-program/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/10/27/learning-a-second-language-business-benefits-and-how-to-start-a-program/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 73
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9738fe97804ca61558e810%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Learning the language of sugars"
     excerpt: "A team has now created a new suite of deep learning and bioinformatics tools that enable the comprehensive study of glycan sequences, providing insights into their functions and improving our understanding of infectious diseases. We're told from a young ..."
     publishedDateTime: 2020-10-29T18:44:00Z
@@ -45,6 +29,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 36
+  - title: "Remote Learning Will Continue Growing over the Next Three Years"
+    excerpt: "Over the next three years, a majority of K-12 educators expect online learning and digital curriculum to get ever more-important, while two STEM standbys will go by the wayside."
+    publishedDateTime: 2020-10-29T22:37:00Z
+    webUrl: "https://thejournal.com/Articles/2020/10/29/Remote-Learning-Will-Continue-Growing-over-the-Next-Three-Years.aspx?p=1"
+    type: article
+    provider:
+      name: The Journal
+      domain: thejournal.com
+    quality: 24
+    images:
+      - url: "https://thejournal.com/-/media/EDU/THEJournal/2020Editorial/20201029Promethean_figure_1.jpg"
+        width: 644
+        height: 424
+        isCached: true
 
 secured: "8XwVNtboCADhCRAWpxzjaObSq9eVtf0h6y+HEhOTooyh0gToZaCWFkfaRiwC0dnDQZ4jBzR7oOIQx6ez/KUsu/O+jI72IFxCNK7maScQT603Mu4M+U7KR7tQETJK1+LxjCJFAFotT9/p4oYeNwzBrNaIF7IBeky0JFKK0ecZUFaDRsi4MQ9kKToas4t067ZU1g1ykTSVPCcMWlEbYoALxftDDtmDlrP24Kp7KySdJMIbp3G3qKV5qh+aM5NoG+Yu50OilmS0KLyt9e0aX4MzhzrCWC6td6iSRcvjnoVPVs4+va1WcxnkWsZEBNSufDL0fm2v843C3w835Ddg1CWSpGWulgZXYWVxOaHwY1uoNB0=;voixXZLj6w4GizGIyOEJ+w=="
 ---

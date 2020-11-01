@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/?sh=3f285d437a72",
       "featuredContent": null,
       "highlight": null,
-      "heat": 209,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -983,6 +983,50 @@
       ]
     },
     {
+      "path": "_news/2020-10-18-webinar-bert-based-open-domain-question-answering-using-deeppavlov-library-on-azure-machine-learning.md",
+      "title": "WEBINAR - BERT-based Open Domain Question Answering using DeepPavlov Library on Azure Machine Learning",
+      "excerpt": "We will also demonstrate how this model can be trained in a cost-effective manner on Azure Machine Learning, using different compute options for data preparation and training. Since the beginning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sfstation.com/webinar-bert-based-open-domain-question-answering-using-deeppavlov-library-on-azure-machine-learning-e2414204",
+      "originalUrl": "https://www.sfstation.com/webinar-bert-based-open-domain-question-answering-using-deeppavlov-library-on-azure-machine-learning-e2414204",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.sfstation.com/assets/images/events/04/24142041702899750_orig.gif",
+          "width": 290,
+          "height": 290,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-17T21:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SF Station",
+        "domain": "sfstation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-udacity-microsoft-launch-nanodegree-programme-to-skill-students.md",
       "title": "Udacity, Microsoft launch 'Nanodegree' programme to skill students",
       "excerpt": "NEW DELHI: The US-based learning platform Udacity on Thursday announced a partnership with Microsoft to launch Microsoft Azure 'Nanodegree' programme, which will strengthen the machine learning ...",
@@ -1395,49 +1439,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-alteia-accelerates-the-deployment-of-its-enterprise-ai-solutions-and-announces-global-alliances-with-ge-digital-and-microsoft.md",
-      "title": "Alteia Accelerates the Deployment of its Enterprise AI Solutions and Announces Global Alliances with GE Digital and Microsoft",
-      "excerpt": "Alteia, an Enterprise AI platform focused on Visual Intelligence, today stroke global alliances with GE Digital and Microsoft.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201013005502/en/Alteia-Accelerates-the-Deployment-of-its-Enterprise-AI-Solutions-and-Announces-Global-Alliances-with-GE-Digital-and-Microsoft",
-      "originalUrl": "https://www.businesswire.com/news/home/20201013005502/en/Alteia-Accelerates-the-Deployment-of-its-Enterprise-AI-Solutions-and-Announces-Global-Alliances-with-GE-Digital-and-Microsoft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201013005502/en/829788/23/Logo_Alteia_Black-blue.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-13T22:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

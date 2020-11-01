@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/30/21541571/tesla-full
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/30/21541571/tesla-full-self-driving-price-increase-10000-dollars-autopilot-beta"
 type: article
 quality: 104
-heat: 354
+heat: 344
 published: true
 
 provider:
@@ -389,20 +389,6 @@ related:
       - url: "https://cdn1.thecomeback.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-29-at-11.58.31-PM-1024x567.png"
         width: 1024
         height: 567
-        isCached: true
-  - title: "Telsa Releases Full Self-Driving Mode Beta Update"
-    excerpt: "Tesla has enabled new full-self driving features for certain customers. The new features include the ability to automatically steer the vehicle while on city streets, and Tesla plans to increase the price of the package by $2,000 in the near future."
-    publishedDateTime: 2020-10-27T13:01:00Z
-    webUrl: "https://www.infoq.com/news/2020/10/tesla-full-self-driving-beta/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 24
-    images:
-      - url: "https://res.infoq.com/news/2020/10/tesla-full-self-driving-beta/en/headerimage/tesla-full-self-driving-beta-header-1603629903593.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Tesla hikes price of 'Full Self-Driving' option to $10,000"
     excerpt: "Soon after the launch of the 'Full Self Driving (FSD) set of features to a limited number of expert and careful drivers, the electric car maker Tesla has increased the price of the new option to $10,000 from $8,000. The price of the 'Full Self-Driving ..."

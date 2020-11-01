@@ -73,22 +73,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "Waymo partners with Daimler to develop self-driving delivery trucks"
-    excerpt: "Waymo said it will partner with Daimler to develop self-driving trucks that will be sold to U.S. customers within the next few years."
-    publishedDateTime: 2020-10-27T13:00:00Z
-    webUrl: "https://venturebeat.com/2020/10/27/waymo-partners-with-daimler-to-develop-self-driving-delivery-trucks/"
-    ampWebUrl: "https://venturebeat.com/2020/10/27/waymo-partners-with-daimler-to-develop-self-driving-delivery-trucks/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/waymo-partners-with-daimler-to-develop-self-driving-delivery-trucks/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/via2-1-e1603722987514.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Waymo's self-driving tech will power Daimler trucks"
     excerpt: "Daimler Trucks, which makes semis and commercial trucks for Mercedes-Benz and other truck brands around the world, will soon start offering Waymo's self-driving platform on some of its Class 8 ..."
     publishedDateTime: 2020-10-27T13:08:00Z
@@ -120,22 +104,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538989863&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q17N"
         width: 817
         height: 545
-        isCached: true
-  - title: "Waymo and Daimler team up for production self-driving semi in 'coming years'"
-    excerpt: "One of the world's largest self-driving car companies and commercial truck builders forged a partnership on Tuesday. Alphabet's Waymo division dedicated to autonomous car technologies will work with Germany's Daimler to bring a self-driving semi truck to market in the future."
-    publishedDateTime: 2020-10-27T13:03:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/waymo-daimler-self-driving-freightliner-semi/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/waymo-daimler-self-driving-freightliner-semi/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-daimler-self-driving-freightliner-semi/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 101
-    images:
-      - url: "https://cnet1.cbsistatic.com/img/JPKyygg3mYJjuzkLmuaC39AQQT8=/2020/10/26/bccd1433-8938-402b-88d5-c212c160aa07/ogi-cascadia.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Daimler Invests in Lidar Startup to Bolster Self-Driving Truck Effort"
     excerpt: "Daimler AG’s truck unit is investing in a laser-sensor startup to bolster its development of self-driving trucks in the U.S. less than a week after striking a deal to use driverless technology from a unit of Google parent Alphabet Inc. Daimler Truck AG ..."
@@ -215,22 +183,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9e1ae8b307dfb172a46190%2F0x0.jpg"
         width: 1199
         height: 798
-        isCached: true
-  - title: "Waymo and Daimler Forge Self-Driving Truck Alliance"
-    excerpt: "Daimler Trucks and Waymo reached a deal to collaborate on the development of self-driving trucks. Waymo, which launched in 2009 as the Google Self-Driving Car Project, will provide its automated technology for a new version of Daimler’s Freightliner Cascadia Class 8 truck."
-    publishedDateTime: 2020-10-27T13:03:00Z
-    webUrl: "https://www.trucks.com/2020/10/27/waymo-daimler-self-driving-truck-partnership/"
-    ampWebUrl: "https://www.trucks.com/2020/10/27/waymo-daimler-self-driving-truck-partnership/amp/"
-    cdnAmpWebUrl: "https://www-trucks-com.cdn.ampproject.org/c/s/www.trucks.com/2020/10/27/waymo-daimler-self-driving-truck-partnership/amp/"
-    type: article
-    provider:
-      name: trucks.com
-      domain: trucks.com
-    quality: 74
-    images:
-      - url: "https://www.trucks.com/wp-content/uploads/2020/10/Cascadia-674x337.jpg"
-        width: 674
-        height: 337
         isCached: true
   - title: "Waymo, Daimler to partner in developing self-driving semi trucks"
     excerpt: "In today technology news, we covered about the Waymo, Daimler to partner in developing self-driving semi trucks"
@@ -357,6 +309,20 @@ related:
       - url: "https://i.insider.com/5f9844ea861cb70019936aa8?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Waymo And Other Self-Driving Car Companies Readying Real-World Driverless Transportation"
+    excerpt: "Just after Alphabet-owned Waymo started its driverless taxi service to the public in Phoenix, other autonomous vehicle developers are following suit with"
+    publishedDateTime: 2020-11-01T02:25:00Z
+    webUrl: "https://www.newsoneplace.com/35575211911/waymo-car-companies"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 45
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https://specials-images.forbesimg.com/imageserve/5f9e1ae8b307dfb172a46190/0x0.jpg"
+        width: 4256
+        height: 2832
         isCached: true
   - title: "Daimler teams up with lidar maker Luminar for self-driving trucks"
     excerpt: "Daimler AG’s truck business, the world’s biggest manufacturer of commercial vehicles, today said that it’s teaming up with lidar maker Luminar Technologies Inc. to develop self-driving trucks."

@@ -394,20 +394,6 @@ related:
         width: 1024
         height: 567
         isCached: true
-  - title: "Telsa Releases Full Self-Driving Mode Beta Update"
-    excerpt: "Tesla has enabled new full-self driving features for certain customers. The new features include the ability to automatically steer the vehicle while on city streets, and Tesla plans to increase the price of the package by $2,000 in the near future."
-    publishedDateTime: 2020-10-27T13:01:00Z
-    webUrl: "https://www.infoq.com/news/2020/10/tesla-full-self-driving-beta/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 24
-    images:
-      - url: "https://res.infoq.com/news/2020/10/tesla-full-self-driving-beta/en/headerimage/tesla-full-self-driving-beta-header-1603629903593.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "JVgS1h1y9Wa1c2ShqSZnr2qbL4usEW2PAUxFK0NkS/lpldlH19gr7A4GcxzRDu+6ftD1Bkcgk/s3lNATwh8qeewexKsADz9z3P09EkPjWxO3V+oqIaLGGg6bPMLKkmlNnOCyuDup/d+vITsDcwaVhI1Rhy/LQp8gfEzEwkIbTTg2kwMGYfEANA1RGWRJf48QzNapuG2W+cZsdIthylToEsaqQ33AFE1RUt7l/S5/+9Qzg7kE8c5zDORMhZr3FekyqpDye3qBQtIHOQBIj2EGeYDx/mpPFQGVKb+/Ca5qaaNa+2lD1WkSyDuHxqQJxspeXkRbuU3J0w+89Jdpe+0Q4u52oW8UI9XPw+/qla5FWVsJ6iM4a0xlatzybglllD7OLsPTm0AViN3EKEqM4TABrbQKch5/kTv8uHOVc0A8mrIyps0RJRpdocBmN2I2hcelKJMHCdjg7rONQtEWzkiMVk126TNJADO4zAvAC6vPLugXQmQ1RxgnT/gp2nruuq9tnJ0axyw2zT2ZnR0vIVaQEg==;ubMausXGyhGkMu6X/J3Gmw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2177064/global-artificial-intelligence-ai
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2177064/global-artificial-intelligence-ai-in-supply-chain-market-size"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -21,33 +21,15 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Trending Report on Artificial Intelligence in Insurance Market by Growth, Demand & Opportunities & Forecast to 2027"
-    excerpt: "The artificial intelligence in insurance is disrupting every step across the insurance value chain AI technologies such as deep learning and machine learning machine vision natural language processing NLP and robotic automation have the capability to reimagine the entire insurance"
-    publishedDateTime: 2020-10-27T11:22:00Z
-    webUrl: "https://www.openpr.com/news/2173041/trending-report-on-artificial-intelligence-in-insurance-market"
-    ampWebUrl: "https://www.openpr.com/amp/2173041/trending-report-on-artificial-intelligence-in-insurance-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2173041/trending-report-on-artificial-intelligence-in-insurance-market"
+  - title: "Europe Contact Center Intelligence Markets, 2020-2026 - Rising Inclination for AI-Based Answers for Improved Customer Support Services"
+    excerpt: "The \"Europe Contact Center Intelligence Market by Component, Technology, Deployment Type, End-user and Country: Industry Analysis and Forecast 2020-2026\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2020-10-28T11:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/europe-contact-center-intelligence-markets-2020-2026-rising-inclination-for-ai-based-answers-for-improved-customer-support-services-1029733137"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 37
-    images:
-      - url: "https://cdn.openpr.com/T/a/Ta27510758_g.jpg"
-        width: 626
-        height: 469
-        isCached: true
-  - title: "Autonomous Cars Global Market Report – Covid-19 Growth And Change, Opportunities And Strategies, 2020 - 2030"
-    excerpt: "An autonomous car, which is also known as a driverless car, is a vehicle capable of guiding itself with minimum or no human involvement. An autonomous car uses a wide range of technology including cameras, sensors, GPS, radars, artificial intelligence and ..."
-    publishedDateTime: 2020-10-29T14:46:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/10/g18120684/autonomous-cars-global-market-report-covid-19-growth-and-change-opportunities-and-strategies-2020-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18120684"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18120684"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 5
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 17
 
 secured: "rD4CHilvfOjQFFXrggIEOTFyxFgtl95eZfgBiBrrGtsNj22BlH+VtuSxV+BSQTNSDhWxk6l49KK9+dlRpcTDxoV9riXEolK11OvcGUIgeCTqBGPQ0y1nSC5D6upMM2Kkip1gLTL3V45j3YOmTMeBhHQ8DZ+m7qdi6Ps0qaIsor+sB+FatBLDvI4xCiR1xCU1+YTrmaGdgZZjEGAPknTYWmovrfOCCU34/qm92Jul9X8ZLk+so3aGugZw5K5GvTh7xZ4ZhYtpyONX7XbN3Vvl1qxoBW9zU9L7r48Jv5KLEBOR4VWGDLtZCqRNgvQW5xM0xN/eO91QgrfUt2qqgkNnJ5ys2VBNfKr1lbzpyxcbiI4=;iIS9IyR65ZIqHpYyB+KLDQ=="
 ---

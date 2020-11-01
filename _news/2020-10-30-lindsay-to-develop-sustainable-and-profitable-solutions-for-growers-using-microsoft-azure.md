@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Lindsay to Develop Sustainable and Profitable Solutions for Growers using Microsoft Azure"
-excerpt: "Lindsay will utilize Microsoft Azure IoT Edge and Azure Machine Learning for edge-of-field computing, artificial intelligence and machine learning solutions. Collaboration will result in complete end-to-end monitoring and control capabilities, and ..."
-publishedDateTime: 2020-10-30T10:47:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-301163711.html"
-webUrl: "https://www.prnewswire.com/news-releases/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-301163711.html"
+excerpt: "PRNewswire/ -- Lindsay Corporation (NYSE:LNN), a leading global manufacturer and distributor of irrigation and infrastructure equipment and"
+publishedDateTime: 2020-10-30T10:45:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/10/n18138551/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure"
+webUrl: "https://www.benzinga.com/pressreleases/20/10/n18138551/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18138551"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18138551"
 type: article
 quality: 60
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Microsoft announces its first Azure data center region in Taiwan"
@@ -116,6 +112,6 @@ related:
       domain: newswiretoday.com
     quality: 17
 
-secured: "UUvgm7QmtHsYXlfqYwIWPEYLAc+lUJBU6yirn2cGkL1+k3QT3guY6z7dz/NcNwih7kHVYMUs2aqH2mPT5Q0gX/tGARMlXzHyVJQFANzsrViJ4Un/PAg5VO/miwYaV/AP0xMasVhnZzzUhlbUykaSkNt9f4JZUk0IJ4abwzDNjZBdTvjOJZ5jS+dHEX4/qR7Z2GnfSUrpkc/e7REa7qfqmXQVC1Z3Vy1xQTPujb21RGj6SLMAdrs593k46lyANgegf6BMjJ8K2YkxR4SjpRglQqprxxIJFFpWyaW6d5s1G3zq1Siwhp12JTrS60KE8b6pzS8eJkQm2/iJQJP20l6AMp2wtTRIudcW1RZel/XMCuo=;4gbbQmaGPYPH9p1+GgFQ2Q=="
+secured: "pnMRzoR5X4jsoJ60lwA5scTNRwmyMYXNq1ngbEHdvMb3XzVX/Bg2xI6LyvfxyKxGhfHKqGBYzl6p4bey8IcmhTqUTgf5q4P324p2epJvozp9P2JLeJZpKcHK9tlhtFY3DsHrb/mWmwGb/JDaMy60hgKJ7yNH0VbNh/gDQJPtubQNsDohqNqdPxtdq44MRkyZjeedwG2TeSECJ8lfgFF3lOaDp5QlXmt7GIbQgyxpn4Q8gZgsjctnFykLT53rGnjPcSFT5cAL7R/YWbmWb/cLu8Nsqyt67zScLiLp19XfN5agareIK7cZrvV5jTLuqwFaeVySJgz8LdxRVHNAJc3uWN9JoA7eoBrz0DOqHvcdvqA=;KxOmG5VJnMRXyYEHcgfUJg=="
 ---
 
