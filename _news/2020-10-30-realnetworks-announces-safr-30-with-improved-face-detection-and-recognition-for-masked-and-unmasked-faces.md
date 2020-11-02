@@ -26,17 +26,6 @@ images:
     height: 355
     isCached: true
 
-related:
-  - title: "RealNetwork launches SAFR 3.0 to enhance face detection as response to COVID-19"
-    excerpt: "With the release of SAFR 3.0. from (NASDAQ:RNWK) face detection and recognition accuracy for both masked and unmasked faces will be improved.Customers running the high sensitivity face detector will see a 95."
-    publishedDateTime: 2020-10-28T12:57:00Z
-    webUrl: "https://seekingalpha.com/news/3627217-realnetwork-launches-safr-3_0-to-enhance-face-detection-response-to-covidminus-19"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 0
-
 secured: "APlUmg4IIsqihaq4MCbI0fGgJqA97ICqcJ1sOHz+JPuNpXOZOOF5aW2dOEtkzAH02aV6TZlqk1qf2kOmyLlYflqVMSdyDmFAhKAPpugj/suEB7B6uQ6WBVYTl3NLRoRSs8xKOl8LLRribC2VxaD5YB8XN1pr+55qM8SkP77qN0EluShQGDQ9vkwLuyjeKltB/Qsb2a/vgooyD9QlK+QqdwWEGIGFDRSP4ksmEVEWYauNFXUlkmD6CZYEyfzXnrpE8AZsenSS4T+KhtvXcb72LlZRvcNVDz7KbfmLmTAxAEVbK513ER4VOakx9lDVWbTi/ypiNIGclZp7ppbog8Pb8MqotvQ7nMYJQuPOdmAjH5w=;Lj7fWFvtSc5gMox++F08Rg=="
 ---
 

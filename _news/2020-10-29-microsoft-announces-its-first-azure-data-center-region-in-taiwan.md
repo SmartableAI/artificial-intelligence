@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/10/28/microsoft-announces-its-first-azur
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/28/microsoft-announces-its-first-azure-data-center-region-in-taiwan/amp/"
 type: article
 quality: 99
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/AdobeStock_321471082_Editorial_Use_Only-1024x576.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Microsoft sees strong growth in latest financials – as analyst puts Azure bigger than Windows for first time"
-    excerpt: "Microsoft has reported revenues of $37.2 billion (£28.8bn) for its most recent quarter with Azure revenue growth at 48% – as one analyst argued Azure has overtaken Windows numbers for the first time."
-    publishedDateTime: 2020-10-28T13:18:00Z
-    webUrl: "https://cloudcomputing-news.net/news/2020/oct/28/microsoft-sees-strong-growth-in-latest-financials-as-analyst-puts-azure-bigger-than-windows-for-first-time/"
-    type: article
-    provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 35
-    images:
-      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2020/03/iStock-471179856_k05DHIS.jpg"
-        width: 1254
-        height: 836
         isCached: true
   - title: "Flood Prediction Project Powered by SAS IoT Analytics and Microsoft Azure Earns National Innovation Award"
     excerpt: "by combining Microsoft Azure IoT platform with SAS’ edge-to-cloud IoT analytics and AI capabilities. Transforming flood response for an entire region During excessive rainfall events, Town of Cary personnel often found themselves running around to ..."

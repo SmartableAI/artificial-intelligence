@@ -53,20 +53,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Microsoft sees strong growth in latest financials – as analyst puts Azure bigger than Windows for first time"
-    excerpt: "Microsoft has reported revenues of $37.2 billion (£28.8bn) for its most recent quarter with Azure revenue growth at 48% – as one analyst argued Azure has overtaken Windows numbers for the first time."
-    publishedDateTime: 2020-10-28T13:18:00Z
-    webUrl: "https://cloudcomputing-news.net/news/2020/oct/28/microsoft-sees-strong-growth-in-latest-financials-as-analyst-puts-azure-bigger-than-windows-for-first-time/"
-    type: article
-    provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 35
-    images:
-      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2020/03/iStock-471179856_k05DHIS.jpg"
-        width: 1254
-        height: 836
-        isCached: true
 
 secured: "V2FlIeVh0DBYoXFJDrInLRobpuVc3oRqU4heCmfzxRM+2a9phWsoTPxUDZIu/8V2dLLHPF9+gRiXLJCcaY3ojh/XDlKGp7TTXL6QdZ0nqZfqeHyfggXWg4A/ekWh6BSHZy9WQu4cRoNsfI5d4fwuU0eVpgz006S1iyY2hmykshM/DmPufgw4ygwrLyDdIhYHTU8kAMgEb0AcpfJZ1nwLP9y/UFUIzCe326NyzteemtJcmm4CE/jHJjSb4qw6YwBuQPUof1UsfNT/qtrAFAPrCiyAJ5MKW5ZZN4d8IkbdgG5gTWp4gtKyASskj024mQajtucfOBXACpX/NmIJ50AlUmWgdyh8bx0o8jShQGoNbmpYaUjvGGz9sWbvIQ3Btb4zkPuyo6f/GMPtvtQ8+sjY8y9y0DXE5pyskHE9ctN/zEvGxnuxBSjUORhcVTDyksKtplumvsjdLtW3/nZPZmswFVyA7OU+iwLMQJCOC16RuWvhsY9cSpxuA8JZL68L/00lGBFlJv2PSANGZR29hNW/eA==;Ljrdn+/MVbaao+6GXZns4g=="
 ---

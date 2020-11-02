@@ -36,22 +36,6 @@ related:
       name: Google
       domain: blog.google
     quality: 89
-  - title: "Israeli artificial intelligence provides real care for Mayo Clinic"
-    excerpt: "Diagnostic Robotics, an Israeli medical data analytics startup, uses artificial intelligence to assess patients’ needs and help them through the diagnostic journey, saving time, stress and potentially millions of dollars."
-    publishedDateTime: 2020-10-28T13:58:00Z
-    webUrl: "https://www.timesofisrael.com/spotlight/israeli-artificial-intelligence-provides-real-care-for-mayo-clinic/"
-    ampWebUrl: "https://www.timesofisrael.com/spotlight/israeli-artificial-intelligence-provides-real-care-for-mayo-clinic/amp/"
-    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/spotlight/israeli-artificial-intelligence-provides-real-care-for-mayo-clinic/amp/"
-    type: article
-    provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 61
-    images:
-      - url: "https://static.timesofisrael.com/www/uploads/2020/10/Kira-on-stage-4-640x400.jpg"
-        width: 640
-        height: 400
-        isCached: true
   - title: "Mayo Clinic, Google to Create Artificial Intelligence for Cancer Care"
     excerpt: "The research partnership will aim to develop artificial intelligence tools to improve the efficiency of radiotherapy and cancer care."
     publishedDateTime: 2020-10-29T14:43:00Z

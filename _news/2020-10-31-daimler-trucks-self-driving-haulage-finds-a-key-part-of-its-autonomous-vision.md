@@ -47,22 +47,6 @@ related:
         width: 360
         height: 270
         isCached: true
-  - title: "Waymo and Daimler to build self-driving Freightliner semi truck"
-    excerpt: "Autonomous car technology company Waymo is teaming up with Daimler to build self-driving semitrucks. Continue Reading Below The Alphabet-owned brand will install its Waymo Driver package into Daimler-owned Freightliner Cascadia semis for evaluation ..."
-    publishedDateTime: 2020-10-28T13:42:00Z
-    webUrl: "https://www.foxbusiness.com/lifestyle/waymo-and-daimler-to-build-self-driving-freightliner-semi-truck"
-    ampWebUrl: "https://www.foxbusiness.com/lifestyle/waymo-and-daimler-to-build-self-driving-freightliner-semi-truck.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/lifestyle/waymo-and-daimler-to-build-self-driving-freightliner-semi-truck.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 74
-    images:
-      - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2020/10/1808cc53-waymo.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Daimler teams up with lidar maker Luminar for self-driving trucks"
     excerpt: "Daimler AG’s truck business, the world’s biggest manufacturer of commercial vehicles, today said that it’s teaming up with lidar maker Luminar Technologies Inc. to develop self-driving trucks."
     publishedDateTime: 2020-10-30T19:44:00Z

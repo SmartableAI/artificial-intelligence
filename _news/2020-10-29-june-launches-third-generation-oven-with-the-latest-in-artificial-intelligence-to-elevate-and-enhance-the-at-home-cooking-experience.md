@@ -21,22 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "June Launches Third Generation Oven with the Latest in Artificial Intelligence To Elevate and Enhance the At-Home Cooking Experience"
-    excerpt: "PRNewswire/ -- June, the cook-tech company, launches its third generation oven with updated hardware and software for the smartest cooking experience in"
-    publishedDateTime: 2020-10-28T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/june-launches-third-generation-oven-with-the-latest-in-artificial-intelligence-to-elevate-and-enhance-the-at-home-cooking-experience-301161642.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 6
-    images:
-      - url: "https://mma.prnewswire.com/media/1321179/June_Logo.jpg?p=facebook"
-        width: 1999
-        height: 1048
-        isCached: true
-
 secured: "2sVAd4PEec7QiLenuA8N76PvQUqgalXuddqGAGmi7MJAWGeqzrAjiAYSI3tRAuRp8xrNYhp4S4Iv3/+vHqmDre6uexvnhwkXTnW0vZkd6Aa4P5uz45/QuvxnUoblfL9QfwB4SxiNZ9cCNj9O3Td1ZVXvQqjToy7plOpfVLFJ8G1bIgjYjR6Ug2T+kMQETcb5H4CZO8sVVOX5XYuqu8udKEncXrN2mP7QNn/qcnMWaoq4MALNmVFd2KLMLmu6U5ov/MRV+2hanJscV97WSqA11de2fsvqdGfHX2eQLweL+sdZapHq7u+tEuq6016SMcYnWpJR1eq19Ic9QHdPQ7BWLm30+n9rrJoBV3K5tmTZx20=;oPs9TU77kc0xL7WGn/dVYw=="
 ---
 

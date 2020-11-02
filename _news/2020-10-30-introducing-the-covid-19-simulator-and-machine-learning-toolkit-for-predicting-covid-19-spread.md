@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-the-covi
 webUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-the-covid-19-simulator-and-machine-learning-toolkit-for-predicting-covid-19-spread/"
 type: article
 quality: 79
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/30/Deploying-and-using-the-Document-Understanding-Solution-1-JPG.jpg"
         width: 800
         height: 393
-        isCached: true
-  - title: "Machine learning helps hunt for COVID-19 therapies"
-    excerpt: "Michigan State University Foundation Professor Guowei Wei wasn't preparing machine learning techniques for a global health crisis. Still, when one broke out, he and his team were ready to help."
-    publishedDateTime: 2020-10-28T12:22:00Z
-    webUrl: "https://medicalxpress.com/news/2020-10-machine-covid-therapies.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-10-machine-covid-therapies.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-machine-covid-therapies.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2020/57-machinelearn.jpg"
-        width: 952
-        height: 1231
         isCached: true
   - title: "Artificial intelligence and covid-19: Can the machines save us?"
     excerpt: "The Stanford-trained data scientist did not have a particular hypothesis, but he was hoping the artificial intelligence would pinpoint ... existing racial gaps and other disparities in health care. One of the biggest challenges has been that much data ..."

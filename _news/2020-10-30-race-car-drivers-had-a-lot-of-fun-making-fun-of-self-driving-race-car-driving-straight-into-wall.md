@@ -258,22 +258,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 65
-  - title: "Watch The Most Telling Tesla Full Self-Driving Beta Videos To Date"
-    excerpt: "As you can see from these fascinating videos, Tesla's new Full Self-Driving capability rewrite can do some pretty cool tricks, but it's nowhere near ready."
-    publishedDateTime: 2020-10-28T13:13:00Z
-    webUrl: "https://insideevs.com/news/451285/video-tesla-full-self-driving-beta-revealing-action/"
-    ampWebUrl: "https://insideevs.com/news/451285/video-tesla-full-self-driving-beta-revealing-action/amp/"
-    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/451285/video-tesla-full-self-driving-beta-revealing-action/amp/"
-    type: article
-    provider:
-      name: Inside EVs
-      domain: insideevs.com
-    quality: 59
-    images:
-      - url: "https://cdn.motor1.com/images/mgl/KjQGG/s1/tesla-fsd.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Tesla to begin rollout of self-driving beta"
     excerpt: "Experience the best self-driving car tech with Tesla. Although, the beta version update is only for customers in Early Access Program, everyone will be benefited with high-tech by the end of 2020."
     publishedDateTime: 2020-10-29T14:12:00Z

@@ -258,22 +258,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 65
-  - title: "Watch The Most Telling Tesla Full Self-Driving Beta Videos To Date"
-    excerpt: "As you can see from these fascinating videos, Tesla's new Full Self-Driving capability rewrite can do some pretty cool tricks, but it's nowhere near ready."
-    publishedDateTime: 2020-10-28T13:13:00Z
-    webUrl: "https://insideevs.com/news/451285/video-tesla-full-self-driving-beta-revealing-action/"
-    ampWebUrl: "https://insideevs.com/news/451285/video-tesla-full-self-driving-beta-revealing-action/amp/"
-    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/451285/video-tesla-full-self-driving-beta-revealing-action/amp/"
-    type: article
-    provider:
-      name: Inside EVs
-      domain: insideevs.com
-    quality: 59
-    images:
-      - url: "https://cdn.motor1.com/images/mgl/KjQGG/s1/tesla-fsd.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Tesla’s Full Self-Driving $2k price increase takes effect"
     excerpt: "Driving suite has increased in price by $2,000 from $8,000 to $10,000, as CEO Elon Musk announced last week. Musk announced the price increase last week on the heels of the FSD Beta release on October 20th,"
     publishedDateTime: 2020-10-29T15:17:00Z

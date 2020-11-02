@@ -26,22 +26,6 @@ images:
 
 related:
   - title: "Machine learning helps pinpoint sources of the most common cardiac arrhythmia"
-    excerpt: "Researchers from Skoltech and their US colleagues have designed a new machine learning-based approach for detecting atrial fibrillation drivers, small patches of the heart muscle that are"
-    publishedDateTime: 2020-10-28T12:52:00Z
-    webUrl: "https://indiaeducationdiary.in/machine-learning-helps-pinpoint-sources-of-the-most-common-cardiac-arrhythmia/"
-    ampWebUrl: "https://indiaeducationdiary.in/machine-learning-helps-pinpoint-sources-of-the-most-common-cardiac-arrhythmia/?amp"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/machine-learning-helps-pinpoint-sources-of-the-most-common-cardiac-arrhythmia/?amp"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 56
-    images:
-      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/10/photo-2.jpg?fit=734%2C549&ssl=1"
-        width: 734
-        height: 549
-        isCached: true
-  - title: "Machine learning helps pinpoint sources of the most common cardiac arrhythmia"
     excerpt: "Researchers from Skoltech and their US colleagues have designed a new machine learning-based approach for detecting atrial fibrillation drivers, small patches of the heart muscle that are hypothesized to cause this most common type of cardiac arrhythmia."
     publishedDateTime: 2020-10-29T17:19:00Z
     webUrl: "https://medicalxpress.com/news/2020-10-machine-sources-common-cardiac-arrhythmia.html"

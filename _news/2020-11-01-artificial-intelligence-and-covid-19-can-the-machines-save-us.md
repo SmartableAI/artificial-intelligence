@@ -55,22 +55,6 @@ related:
         width: 800
         height: 393
         isCached: true
-  - title: "Machine learning helps hunt for COVID-19 therapies"
-    excerpt: "Michigan State University Foundation Professor Guowei Wei wasn't preparing machine learning techniques for a global health crisis. Still, when one broke out, he and his team were ready to help."
-    publishedDateTime: 2020-10-28T12:22:00Z
-    webUrl: "https://medicalxpress.com/news/2020-10-machine-covid-therapies.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-10-machine-covid-therapies.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-machine-covid-therapies.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2020/57-machinelearn.jpg"
-        width: 952
-        height: 1231
-        isCached: true
 
 secured: "KVht2rs5L+X7A/aQ9YJZtBYYw2+oU0YHUlO+sADJQJ3scn5j5xmNP9/7tgcyaRXQlvZ50NGtb2gF9P9LaHrAHE6SHd7jVHcyP6ASMvL/95xOS9ebBt9L449LRiW3Fbv8zmcPJ93DC+o3tiUG3JxcgT+PNWRP0/Q69NTvT/bt4EiV38hWbcTUSTOoOc1ZxgTyGXPUjsRACeJQ6XcSTfgbU/f2eFRrciCZaMaVIUACrOUsTN4qgyFuFaItoFk53LGhSfsPK+9wtM0dVgKFUi/qHc3bA5tU08r/Qow50STg1Glj24IPZKdObJosVtE/L9R0hR6EHQ8Vig889Ytb4ZNkRbCNBFYTbmIWPWdnIdDeBtQ=;IJjeMG2cQhchN3LvAZCCUA=="
 ---
