@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanabandoim/2020/10/28/white-castle-pla
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanabandoim/2020/10/28/white-castle-plans-to-use-flippy-the-robot-in-more-locations/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Miso Robotics Says White Castle is Expanding Flippy into More Locations"
-    excerpt: "“Artificial intelligence and automation have been an area White Castle ... us on that path – and we couldn’t be more pleased to continue our work with Miso Robotics and pave the way for greater adoption of cutting-edge technology in the fast ..."
-    publishedDateTime: 2020-10-28T17:30:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/10/168480-miso-robotics-says-white-castle-is-expanding-flippy-into-more-locations/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/10/168480-miso-robotics-says-white-castle-is-expanding-flippy-into-more-locations/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/168480-miso-robotics-says-white-castle-is-expanding-flippy-into-more-locations/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 54
 
 secured: "eAnW4xjnIJaywhRkDJClXyMtefvcIOdo2Z69p4chsQeQSOIuF3W/Yq0sqFpvomjJrMs3aA8BeweJbTupF2U+aZqbBRIAeYhHirGvqWhAvaMiPSB3OZ2yrea76uj9iAr479BDj7uXr0VhuO4qwr87XiQnp96tZYZW/FJy87A17yOFD7VuCfzuEJSAm/61/BGd56ugO12jtZMe1iLvlOPPh+tNMiHoH+hL7xGtG3fByT+7hJin2eX3qxitCKUF4y5ncD63jrf/5L22LekrSDXOtSP2etnrnosMo7RBFbgL+JtJAblwNvJwDk5qi5NNjJOx3pDxXub59mYK/ZyzZqmbZgCQADja+nnJe1E5foSUr0rwU1TJde7BK9sLlbnXeQZaeTN8cispbNJp4BrhfGRaq1eCKa2sR060MOOx2DLuQTzPP1vfA6QnQi3igTkOz3657ztOCIKmQryjQEh+/vmVVusx/fnO/6jo/iZXQjzO7lrtnHBonFZdN2VqXzO6CeKDMAaqTQvGHmuJVhTsOpaxCw==;CGAD5LfCwDTdcmqid3wa7g=="
 ---

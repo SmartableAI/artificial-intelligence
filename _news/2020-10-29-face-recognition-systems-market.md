@@ -27,15 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "Hangzhou may ban mandatory collection of facial recognition scans in residential communities, marking China’s first"
-    excerpt: "A visitor tries facial recognition payment in a smart store in Wuzhen Town of Tongxiang, east China's Zhejiang Province, Nov. 6, 2018. (Xinhua/Huang Zongzhi) The East China city of Hangzhou may ban property management companies from requiring residents to ..."
-    publishedDateTime: 2020-10-28T16:26:00Z
-    webUrl: "https://www.globaltimes.cn/content/1204981.shtml"
+  - title: "Facial Recognition System Unveiled At LAX's Tom Bradley International Terminal"
+    excerpt: "A facial-recognition system to simplify the arrival of international travelers was unveiled Thursday at LAX. Mission Viejo Yogurt Shop Receives Overwhelming Support After Couple Threatens To Sue Over Face Mask RequirementA couple walked into a Mission Viejo yogurt shop this weekend and threatened to sue after being told they needed to wear a face covering in accordance with local health orders."
+    publishedDateTime: 2020-10-30T06:20:00Z
+    webUrl: "https://lasvegas.cbslocal.com/video/4832453-facial-recognition-system-unveiled-at-laxs-tom-bradley-international-terminal/"
+    ampWebUrl: "https://lasvegas.cbslocal.com/video/4832453-facial-recognition-system-unveiled-at-laxs-tom-bradley-international-terminal/amp/"
+    cdnAmpWebUrl: "https://lasvegas-cbslocal-com.cdn.ampproject.org/c/s/lasvegas.cbslocal.com/video/4832453-facial-recognition-system-unveiled-at-laxs-tom-bradley-international-terminal/amp/"
     type: article
     provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 0
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 35
   - title: "Global Speech and Voice Recognition Technologies Market Size, Share, Demand And Remarkable Growth Rate Till 2026 | Zion Market Research"
     excerpt: "The Zion Market Research added a new report “Speech and Voice Recognition Technologies Market by Technology (Speaker Identification, Speaker Verification, Speech Recognition, Automatic Speech Recognition, Text to Speech, and Others), by Application ..."
     publishedDateTime: 2020-10-30T10:00:00Z

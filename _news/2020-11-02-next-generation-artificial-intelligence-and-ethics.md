@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-02T08:12:00Z
 originalUrl: "https://elearningworld.eu/next-generation-artificial-intelligence-and-ethics/"
 webUrl: "https://elearningworld.eu/next-generation-artificial-intelligence-and-ethics/"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI in Robotics
   - AI
   - AI Ethics
+  - AI in Autos
 
 images:
   - url: "https://elearningworld.eu/wp-content/uploads/hand-3308188_640.jpg"
@@ -43,6 +44,6 @@ related:
         height: 675
         isCached: true
 
-secured: "XNPD9HTT0Y8ABSffmnJvA9aP6OObnWbRQIZcLPMYKUbHm9bhxUMtJauEZ49GDQTYvhat3P9U6KTX0e8BZEtZno8xRN2mZmqU3YFMGoB3lP+CaAgfE/ZqQlzqxygKF1cFT75zU27EQzkARyIHT1Hyc5vT5UeVNFB9gWbRLyif1sAqdKlZ2Fb30yyezZERP2Tk0c06yKjKHz2DQZXOziz4FfAkWv8cqZj5ZrbLTqRsBUWbhGEr0Nr/oXkHPo1xcSY3UCMfcHQCzeUQBvHvIUxGvFpHogX9rwWWF+hMS8TT5ssAcsHfAOnhwwrI9xE48eMbyOOkglfEocG5vSsoWXt46guxR41vj/2bFlfdCGRMy7A=;QhNmAToBAjU7/8zvvs+upw=="
+secured: "FgeFl/A/aunZJsTb2dJ1GZ1IRhCAHqQhh8ItDSaXktUUQdSie1hE//yP1u9KjuV6LYMXzrLATER5UW4uk0zji8AAcJOAO4kPoYw1m5rfrZ7D8ya0ppjk/hpgUR1MUmLZRj1stRzrHPrh+ntUYR4LiKpSSnxbfoNeOOVYDhNJaul0GE5kn8ooRDVG4GZ/buBlIWjJTs1ypkuxLypKGVE7i/FvOsZZ1VMBcSluHVguffpvlASriH/Q9ANW2FGfOR2NR9CRMgj5rH9Z9KsGYHjn3P1E0F8tfRtssT3Og5+N4KGx2TOhSvEKrpYy3AbLfkFn71isNX9qdq4ciNT/uZ622WSSXlcNok2jLE367i0CPZFGPg10hiHfyWfXu2p8BamZ2VIqRn7Rxb6ucdJKp20ZH/nnP97SMSjkaBij5KKL1d9ORWWl7W8r1UR430hUR7XnY8ZfwpWOljRt20ocGG/mLzhouuHIACvP8zB3PbmyOK37a8yQMY3+4UGmokLQ51O1FhsGahk5BYJw3aWNIpL07A==;61NV8tqNj1zQ8c9hHaev9A=="
 ---
 

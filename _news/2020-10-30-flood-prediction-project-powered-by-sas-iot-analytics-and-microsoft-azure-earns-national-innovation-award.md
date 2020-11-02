@@ -19,39 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft announces its first Azure data center region in Taiwan"
-    excerpt: "After announcing its latest data center region in Austria earlier this month and an expansion of its footprint in Brazil, Microsoft today unveiled its plans to open a new region in Taiwan. This new region will augment its existing presence in East Asia,"
-    publishedDateTime: 2020-10-28T17:03:00Z
-    webUrl: "https://techcrunch.com/2020/10/28/microsoft-announces-its-first-azure-data-center-region-in-taiwan/"
-    ampWebUrl: "https://techcrunch.com/2020/10/28/microsoft-announces-its-first-azure-data-center-region-in-taiwan/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/28/microsoft-announces-its-first-azure-data-center-region-in-taiwan/amp/"
+  - title: "Building a real-time conversational analytics platform for Amazon Lex bots"
+    excerpt: "Conversational interfaces like chatbots have become an important channel for brands to communicate with their customers, partners, and employees. They offer faster service, 24/7 availability, and lower service costs. By analyzing your bot’s customer conversations, you can discover challenges in user"
+    publishedDateTime: 2020-10-29T15:36:36Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/building-a-real-time-conversational-analytics-platform-for-amazon-lex-bots/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 99
-  - title: "Lindsay to Develop Sustainable and Profitable Solutions for Growers using Microsoft Azure"
-    excerpt: "PRNewswire/ -- Lindsay Corporation (NYSE: LNN), a leading global manufacturer and distributor of irrigation and infrastructure equipment and technology, today announced the development of intelligent digital solutions using Microsoft Azure to enhance irrigation management,"
-    publishedDateTime: 2020-10-30T10:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-1029745663"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 70
-  - title: "Analysis: In an epic pivot to the cloud, Microsoft makes Azure the linchpin of its future"
-    excerpt: "Microsoft Corp.’s Azure cloud computing service is the linchpin of the tech giant’s innovation strategy. As we reported last week, we believe that in the next decade, changes in public policy will restrict the way in which big internet companies are able to appropriate user data."
-    publishedDateTime: 2020-10-31T18:43:00Z
-    webUrl: "https://siliconangle.com/2020/10/31/analysis-epic-pivot-cloud-microsoft-makes-azure-linchpin-future/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 45
+      name: AWS
+      domain: aws.amazon.com
+    quality: 87
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/AdobeStock_321471082_Editorial_Use_Only-1024x576.jpg"
-        width: 1024
-        height: 576
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/22/4-DashBoard.jpg"
+        width: 900
+        height: 491
         isCached: true
 
 secured: "V2FlIeVh0DBYoXFJDrInLRobpuVc3oRqU4heCmfzxRM+2a9phWsoTPxUDZIu/8V2dLLHPF9+gRiXLJCcaY3ojh/XDlKGp7TTXL6QdZ0nqZfqeHyfggXWg4A/ekWh6BSHZy9WQu4cRoNsfI5d4fwuU0eVpgz006S1iyY2hmykshM/DmPufgw4ygwrLyDdIhYHTU8kAMgEb0AcpfJZ1nwLP9y/UFUIzCe326NyzteemtJcmm4CE/jHJjSb4qw6YwBuQPUof1UsfNT/qtrAFAPrCiyAJ5MKW5ZZN4d8IkbdgG5gTWp4gtKyASskj024mQajtucfOBXACpX/NmIJ50AlUmWgdyh8bx0o8jShQGoNbmpYaUjvGGz9sWbvIQ3Btb4zkPuyo6f/GMPtvtQ8+sjY8y9y0DXE5pyskHE9ctN/zEvGxnuxBSjUORhcVTDyksKtplumvsjdLtW3/nZPZmswFVyA7OU+iwLMQJCOC16RuWvhsY9cSpxuA8JZL68L/00lGBFlJv2PSANGZR29hNW/eA==;Ljrdn+/MVbaao+6GXZns4g=="

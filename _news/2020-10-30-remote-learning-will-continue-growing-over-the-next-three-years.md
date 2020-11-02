@@ -34,15 +34,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 36
-  - title: "Learning the language of sugars"
-    excerpt: "To trace this history of glycan sequence development and identify meaningful trends and patterns, the research team turned to machine learning algorithms -- specifically, natural language processing (NLP), which has previously demonstrated success in ..."
-    publishedDateTime: 2020-10-28T17:07:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-10/wifb-ltl102620.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 6
 
 secured: "5W5+Zngw7oOmNghDAdptigzOMV5yzWxuvplshqBMkDiVdos1No0lOIwkrklYB3fBcEZ33NpLqDEcRHiMCpnqpz9cHOx3Y3nVva/ef635uPYTcdN+aC+82upcbyLpPxqvEUaZRXZ61X0xyo2PedJzTsoKbgq7fD/EjjIkqE9Dvp26HaEyWqcvAyqtPr7flowDj/0UUQPUm64HjSLC+qJLlGmrR5lrPNTz9gD57waTlSZFjJjdDznaO98if45Ai/FiT+hb6TiSEkbX2dtaN6jIfga5KPMkbaI2vSllP2oi+C0hO8H+fbzf/8J0ojgr0n+rzJDq+a51Zm+WS8tknbCmNZqOvqIOD5mWjGZY5B+e3oI=;5zE3STEgtS3Pcm/Sna/Vrw=="
 ---

@@ -47,6 +47,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Otter.ai adds live captions to its Zoom integration"
+    excerpt: "Video conferencing platform Zoom has unveiled an Otter.ai integration, providing users with access to live transcriptions and meeting notes."
+    publishedDateTime: 2020-11-02T10:05:00Z
+    webUrl: "https://www.computerworld.com/article/3539910/otterai-adds-live-captions-to-its-zoom-integration.html"
+    ampWebUrl: "https://www.computerworld.com/article/3539910/otterai-adds-live-captions-to-its-zoom-integration.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3539910/otterai-adds-live-captions-to-its-zoom-integration.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/04/meeting6-100837792-large.jpg"
+        width: 1200
+        height: 808
+        isCached: true
   - title: "National Grid Partners Invests in two Artificial Intelligence Startups to Protect Critical Infrastructure"
     excerpt: "National Grid Partners (NGP), the investment and innovation arm of National Grid plc (LSE: NG; NYSE: NGG), announces two new investments in data analytics startups that use artificial intelligence (AI) to protect critical infrastructure and ultimately help reduce costs for customers."
     publishedDateTime: 2020-10-29T19:16:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/building-a-real-time
 webUrl: "https://aws.amazon.com/blogs/machine-learning/building-a-real-time-conversational-analytics-platform-for-amazon-lex-bots/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 900
     height: 491
     isCached: true
+
+related:
+  - title: "Flood Prediction Project Powered by SAS IoT Analytics and Microsoft Azure Earns National Innovation Award"
+    excerpt: "by combining Microsoft Azure IoT platform with SAS’ edge-to-cloud IoT analytics and AI capabilities. Transforming flood response for an entire region During excessive rainfall events, Town of Cary personnel often found themselves running around to ..."
+    publishedDateTime: 2020-10-30T06:52:00Z
+    webUrl: "https://www.newswiretoday.com/news/174030/Flood-Prediction-Project-Powered-by-SAS-IoT-Analytics-and-Microsoft-Azure-Earns-National-Innovation-Award/"
+    type: article
+    provider:
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 17
 
 secured: "qh6k+Uh2gp5NvPJ8tu/XdobJUCdwjE6W3NyKFbijX64t0GxqGO2ZTHtATAtcGUDEKjeU1JSXFjAnPHksdzIJcaGjGx9uyvHb2QraTYAdBz+5we5RN7L0cMpEA+a4EUUTjArYR11yDS1aRpz/VjtVs/OfoslUV4S/WWgxOU6P7Y6lxkRtelYcSZxVZu1qQJmAcQixForjGKZJ/czxB6MYUdi9APQvd35CZyOB4fpM/Hdd2agxvDVSm4X+FnBxPQI2e7CSMpkATaJCcqxtrpphWaNwYo1IlTHcQtQNW2/x+hpEkzhlHhQznqawhjw6j35gERdfL/zpgziayOYHaiI6y9AltJovT7A2gPR7bPuX5nY=;Zda01b8bQkCnEzgiGXaAyw=="
 ---

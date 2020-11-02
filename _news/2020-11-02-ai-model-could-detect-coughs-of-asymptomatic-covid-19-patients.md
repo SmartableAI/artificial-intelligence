@@ -56,6 +56,38 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "MIT builds AI which can detect Covid-19 by listening to your cough"
+    excerpt: "AI tool uses neural networks that can figure out changes in a person’s cough which point out whether they are infected"
+    publishedDateTime: 2020-11-02T10:12:00Z
+    webUrl: "https://tribune.com.pk/story/2270745/mit-builds-ai-which-can-detect-covid-19-by-listening-to-your-cough"
+    ampWebUrl: "https://tribune.com.pk/story/2270745/mit-builds-ai-which-can-detect-covid-19-by-listening-to-your-cough"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2270745/mit-builds-ai-which-can-detect-covid-19-by-listening-to-your-cough"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 57
+    images:
+      - url: " https://i.tribune.com.pk/media/images/02101604302793-0/02101604302793-0.jpg  "
+        width: 1240
+        height: 826
+        isCached: true
+  - title: "Now Artificial Intelligence Can Detect COVID-19 by Listening to Your Coughs | Check Here How"
+    excerpt: "Also Read - WHO Chief Goes Into Quarantine After Contact Tests Positive For Coronavirus Researchers have confirmed that an artificial intelligence (AI) tool that can detect if there are any indications in a human’s cough that could point to a COVID ..."
+    publishedDateTime: 2020-11-02T10:09:00Z
+    webUrl: "https://www.india.com/technology/now-artificial-intelligence-can-detect-covid-19-by-listening-to-your-coughs-check-here-how-4194973/"
+    ampWebUrl: "https://www.india.com/technology/now-artificial-intelligence-can-detect-covid-19-by-listening-to-your-coughs-check-here-how-4194973/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/now-artificial-intelligence-can-detect-covid-19-by-listening-to-your-coughs-check-here-how-4194973/amp/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 46
+    images:
+      - url: "https://s3.india.com/wp-content/uploads/2020/10/pjimage-2020-10-11T094732.061.jpg"
+        width: 700
+        height: 415
+        isCached: true
 
 secured: "gj3H308L17Lt+a+ts8CnT/6HkDnuE4Pv+xO0iKhZYlVtE03wDRS0aQyvTM7TdNp6S/i3REA3X1NIf7R7ozxfZdfvxSJMgYiDgQgOwKidgZzXy6rAZ82akMGhg3uX1GaJtQc1g6p3yArRzQJ3AbWo2UVAzSLkH3vEoDt3pjCO4D+b4Sv4/iViZWMm0UDuKCjchGcjI4nVZji1KFbnEQpKL1bHemc+V5vqzUrghBTc71yR1fpaa/V1nrX4Pt6MK+dmvKP+qWkBumHIg56FR08cN4f3e+3u6M/uxUPYIsrigWVGBRQP9EX33Wrz/4TUALbuU1S5gUEDMR7NEqqPbF0DSRCkBWegwqVWmUXRo3coh9M=;erW/hURPFhTFjFRnAdLq5g=="
 ---

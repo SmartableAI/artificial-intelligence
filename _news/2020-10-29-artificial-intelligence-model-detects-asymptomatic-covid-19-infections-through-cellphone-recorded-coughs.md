@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2020/covid-19-cough-cellphone-detection-1029"
 webUrl: "https://news.mit.edu/2020/covid-19-cough-cellphone-detection-1029"
 type: article
 quality: 152
-heat: 172
+heat: 192
 published: true
 
 provider:
@@ -60,6 +60,38 @@ related:
       - url: "https://d.ibtimes.co.uk/en/full/1685859/covid-cough-ai-model.jpg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "MIT builds AI which can detect Covid-19 by listening to your cough"
+    excerpt: "AI tool uses neural networks that can figure out changes in a person’s cough which point out whether they are infected"
+    publishedDateTime: 2020-11-02T10:12:00Z
+    webUrl: "https://tribune.com.pk/story/2270745/mit-builds-ai-which-can-detect-covid-19-by-listening-to-your-cough"
+    ampWebUrl: "https://tribune.com.pk/story/2270745/mit-builds-ai-which-can-detect-covid-19-by-listening-to-your-cough"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2270745/mit-builds-ai-which-can-detect-covid-19-by-listening-to-your-cough"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 57
+    images:
+      - url: " https://i.tribune.com.pk/media/images/02101604302793-0/02101604302793-0.jpg  "
+        width: 1240
+        height: 826
+        isCached: true
+  - title: "Now Artificial Intelligence Can Detect COVID-19 by Listening to Your Coughs | Check Here How"
+    excerpt: "Also Read - WHO Chief Goes Into Quarantine After Contact Tests Positive For Coronavirus Researchers have confirmed that an artificial intelligence (AI) tool that can detect if there are any indications in a human’s cough that could point to a COVID ..."
+    publishedDateTime: 2020-11-02T10:09:00Z
+    webUrl: "https://www.india.com/technology/now-artificial-intelligence-can-detect-covid-19-by-listening-to-your-coughs-check-here-how-4194973/"
+    ampWebUrl: "https://www.india.com/technology/now-artificial-intelligence-can-detect-covid-19-by-listening-to-your-coughs-check-here-how-4194973/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/now-artificial-intelligence-can-detect-covid-19-by-listening-to-your-coughs-check-here-how-4194973/amp/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 46
+    images:
+      - url: "https://s3.india.com/wp-content/uploads/2020/10/pjimage-2020-10-11T094732.061.jpg"
+        width: 700
+        height: 415
         isCached: true
 
 secured: "01i8LmsVs+bOX/hdwGyad8Xeg4hz4cDmZfwbWRgvRXydCeFRDbtPm0U65XtSc16zjr6ANn2gU2O8OTYsWsOW1Dz4mjvV0Wqpo3rtDi7g1Kqc3Km7F44kWFEqGswWLXXcjAW21zY9vUHCMMKtg6GD4tieFRjpRxag95usWy+iVY1fqt3HRDdtg3Xj/2nfv1KJiMg8dVbN2zBBOGemuSIbazBlC0XFogDVvasSl071d8Q7HH15sv5Lv5X8+Vq/ogoyOcETjiUMX0bIwiosT3n3CwYM8e6TzH7MVzTCd8466G5rt4mpCKuVmds++y2h/457mwOyRjb91GUicO3Kh2jgycX5HeHtYeam7jmEf9OBHAiOBEjFzQaaVFMy+7BVj5ICoeIbjT/uKBDfcG3242Hj3Lk2NBVKDke56UX305aLv2ucdvT3ikHXVKE8qb439p/KFF7JsIjpip8YbLW4koJ6KD4toMvf1Qr5k/5RPw1BzFP+wphXcF+d4gzH+nDwEXZ5iymss4Fcn2tLxpUBfZ2V6tpwlbNCOAqkTzpKBMo2yS0=;AHTtn++NIS6+HtWePTNlXw=="

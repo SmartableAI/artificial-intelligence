@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/30/21541571/tesla-full
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/30/21541571/tesla-full-self-driving-price-increase-10000-dollars-autopilot-beta"
 type: article
 quality: 104
-heat: 364
+heat: 374
 published: true
 
 provider:
@@ -424,6 +424,15 @@ related:
       name: The Pioneer
       domain: dailypioneer.com
     quality: 19
+  - title: "Video Shows Skydio 2 Drone Following a Tesla 3 Full Self-Driving and Winning Race"
+    excerpt: "A video posted in YouTube shows the Tesla Model 3 in its Full Self-Driving (Beta) mode while a Skydio 2 drone camera follows it whenever it goes. See how the"
+    publishedDateTime: 2020-11-02T09:12:00Z
+    webUrl: "https://infosurhoy.com/technology/video-shows-skydio-2-drone-following-a-tesla-3-full-self-driving-and-winning-race/"
+    type: article
+    provider:
+      name: InfoSur Hoy
+      domain: infosurhoy.com
+    quality: 14
 
 secured: "7rk7O6/oJK4UwsDHjK/Mqm5GoClKg2PIYF6XALK58YLFllb4qTszVNWtGGf+PhxcewFJsgXoZ8WpMHs+jOATLyZansmrPh3ne0R8wn6JbtTbfNs6XoMWUb8ZLvbjMmD1VAs60xRmOc/WqCY6GfDEFaxVQ2IMx60K4wk1hYSkOgQ0SQzPU2QHjA1iAkdc97qIlBiPOEMhuC3ZvmVItVh+lwE74CzH8VeTNnj8izYXqN7ylfjFjQeNVC3skor8xZpQFn+3QYU5yqK9wJFHQOhOgO70fXNvICx3M7NkAN67oo/uvdKdnUG/ZsjZjtMgLk2NgouQPI4M8c/sy9xjalU8UdhjJ86OjPkLJv6IDepP3bALZeTWCGHXGGcqK2CoaxvAy+B3stab0GV9jrY9XQKLeasdSHwE+cHUCgEh3PXcYhAIHL9i+/8OcGc0eERhYRDMXI+V8L+VR/TCDFFmz2OD6nF36eN7wx9zK8IaPPwvCmt0mBW1P3JocKR5HPACAf9NE7Ix1N/7NTgOizqLg0AOmg==;c1m5sYF8b1awS8Pnynye5Q=="
 ---

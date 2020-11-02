@@ -38,15 +38,6 @@ related:
         width: 644
         height: 424
         isCached: true
-  - title: "Learning the language of sugars"
-    excerpt: "To trace this history of glycan sequence development and identify meaningful trends and patterns, the research team turned to machine learning algorithms -- specifically, natural language processing (NLP), which has previously demonstrated success in ..."
-    publishedDateTime: 2020-10-28T17:07:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-10/wifb-ltl102620.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 6
 
 secured: "qnPyYro7fzESfmNR1pfVviAJq1kYyuR6wcPYMeZ3yGrLpTW21w9toIDTbN+CElINjDCWhBEkJH1zTsikCN4gUllB3WsxmFLWYzfeNHjpb9bfzCpJhOWKAZYScizpvtB2c9G+GPI1NBg6Dc9oiTK+W9sCm5Xt11/b/daf5NWpz+DV/T9R573FejQMw+zU/6xEkU9T3LspgEIdgDa6E9vDIcjesIZk03LQVRM8n/V0sFyl7vVKYsQ9Lk+eFALH6H+921qGZInqVt8w339ulK3zxJkQttfy3pnrAyO7l6Eov5Ygl7EWFgXDRqbbLWfOVDprhYWASoIEnqpv6U3N9L2Zse3xbx1UH2DrWS2XNMsUS/E=;5TdzphB3UcCwgG1cTfq/yQ=="
 ---

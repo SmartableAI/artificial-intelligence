@@ -9,8 +9,8 @@ ampWebUrl: "https://www.stltoday.com/business/columns/david-nicklaus/artificial-
 cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/business/columns/david-nicklaus/artificial-intelligence-firm-capacity-raises-11-million-says-revenue-tripled-this-year/article_0f2b1ac2-f7be-54ec-aeb7-34a38d5a928a.amp.html"
 type: article
 quality: 63
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: St. Louis Post-Dispatch
@@ -24,6 +24,24 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "AI-led recruitment platform TurboHire raises $1million in seed funding"
+    excerpt: "Hyderabad-based AI-driven recruitment platform TurboHire has raised $1 million in seed funding for its disruptive solution that enables recruiters to hire better quality candidates at reduced costs, m"
+    publishedDateTime: 2020-11-02T09:14:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/ai-led-recruitment-platform-turbohire-raises-1million-in-seed-funding/article33002585.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/ai-led-recruitment-platform-turbohire-raises-1million-in-seed-funding/article33002585.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ai-led-recruitment-platform-turbohire-raises-1million-in-seed-funding/article33002585.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 57
+    images:
+      - url: "https://www.thehindubusinessline.com/info-tech/i1qae4/article33002584.ece/ALTERNATES/LANDSCAPE_615/BL02STARTUPFUND"
+        width: 615
+        height: 384
+        isCached: true
 
 secured: "xAlIuN4KaKmmCJH48HZQ/ISbNCAuw0drubnunF/JZLRtjCXEN/xlYuANxcQALxTbhhoExQzxSDqImbmhU7LGC7F3LKjplqY+mIWIzGJIz5aXWUB5JjAarlRT1SF+PrVQRG9Gm7vmSWsf9gV3JoB05SSWY5nTtEgDehbSzxz8EQN0Klij+g/ez+/8Qdz7vfvxdY688Wkjvjt83nvsWEjDvxe/4fIDjSc5AW8SUKRFAfACFzVmVZA7jPo2CyT4Sa1+OaJltP5Buo6CFDefp0ddHE7+ul2G1jqEGtrFBWsKxI9Mc7uDoNCgGWJqkkLXuFbDbBVZynuZqLpyVb9DkTKTUzh+BCe83jCgLgG11iXg9Qt5OtMtBEbGqfRjXDghWthu3P4ciZz9hgKbVb5AhmoJwaMMAfyogE3+MJQ4cZqIdvPnEbVtcY418eJNsKfxoRgSj00wuzNeEF9j4Sr9xI2AxQbE5b5smb74gPfnMgcnnEUEEYx08dvqvPaN9Q4DBX9I4DUHl84O5xgnA14yxarGwQ==;Wp6KURbN3y8Lg+0vk1l2nw=="
 ---

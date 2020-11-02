@@ -40,7 +40,7 @@ related:
     provider:
       name: elearningworld.eu
       domain: elearningworld.eu
-    quality: 56
+    quality: 58
     images:
       - url: "https://elearningworld.eu/wp-content/uploads/hand-3308188_640.jpg"
         width: 640

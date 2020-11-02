@@ -424,6 +424,15 @@ related:
       name: The Pioneer
       domain: dailypioneer.com
     quality: 19
+  - title: "Video Shows Skydio 2 Drone Following a Tesla 3 Full Self-Driving and Winning Race"
+    excerpt: "A video posted in YouTube shows the Tesla Model 3 in its Full Self-Driving (Beta) mode while a Skydio 2 drone camera follows it whenever it goes. See how the"
+    publishedDateTime: 2020-11-02T09:12:00Z
+    webUrl: "https://infosurhoy.com/technology/video-shows-skydio-2-drone-following-a-tesla-3-full-self-driving-and-winning-race/"
+    type: article
+    provider:
+      name: InfoSur Hoy
+      domain: infosurhoy.com
+    quality: 14
 
 secured: "VwTMhbYEJL5lCDLetIGHDkCVEGNq1OxdJKsRAfIe0eolDTlbYoOZGlNGKNFsK6jB6cIaCAXetqSspD/15zNAs5MckyyvyQHa6srrWb/0NT5xverdOBxbJaGu8zBXwTCsPIoFWx9/dRoZQy7IkzlVUuJSFG45QqBnBMoF5znqNZrENEWbv9ag4z9x4p49n8y+DaTB2DObu5BsYXUrYXrTbCwTWbE917rN6iKUNxyjYUJWB7XqZmj8sBeiyC2kaSATjV56PH146OSxdj75gHXl64FR/YdpFOB1svNOb3b9bpyGGtqrXRF27hOpgi5MksUIpkBq6uwi0pDWe/Q+e2OQPijiREMk7hcXOSRSgzz0vJU3Tcfh6SBctw42Fm/LAMcBLuHBx6L5RT0P6WaTtWMxOl0AgX7K4SXvBp1ylFgFuJ+o1VsudFgKKpnlRjnAsojEUDnf+vqShmCGMNlJEnVXqu7mkJtkSmnfjNGkuCyNAarnqbA0HUJPytqZDzek3ZD+2qYd4OIEnRVfM/CQiw8wqg==;8rHYDYt9iHgWG19zRh8q2w=="
 ---

@@ -37,15 +37,17 @@ related:
         width: 750
         height: 350
         isCached: true
-  - title: "Hangzhou may ban mandatory collection of facial recognition scans in residential communities, marking China’s first"
-    excerpt: "A visitor tries facial recognition payment in a smart store in Wuzhen Town of Tongxiang, east China's Zhejiang Province, Nov. 6, 2018. (Xinhua/Huang Zongzhi) The East China city of Hangzhou may ban property management companies from requiring residents to ..."
-    publishedDateTime: 2020-10-28T16:26:00Z
-    webUrl: "https://www.globaltimes.cn/content/1204981.shtml"
+  - title: "Facial Recognition System Unveiled At LAX's Tom Bradley International Terminal"
+    excerpt: "A facial-recognition system to simplify the arrival of international travelers was unveiled Thursday at LAX. Mission Viejo Yogurt Shop Receives Overwhelming Support After Couple Threatens To Sue Over Face Mask RequirementA couple walked into a Mission Viejo yogurt shop this weekend and threatened to sue after being told they needed to wear a face covering in accordance with local health orders."
+    publishedDateTime: 2020-10-30T06:20:00Z
+    webUrl: "https://lasvegas.cbslocal.com/video/4832453-facial-recognition-system-unveiled-at-laxs-tom-bradley-international-terminal/"
+    ampWebUrl: "https://lasvegas.cbslocal.com/video/4832453-facial-recognition-system-unveiled-at-laxs-tom-bradley-international-terminal/amp/"
+    cdnAmpWebUrl: "https://lasvegas-cbslocal-com.cdn.ampproject.org/c/s/lasvegas.cbslocal.com/video/4832453-facial-recognition-system-unveiled-at-laxs-tom-bradley-international-terminal/amp/"
     type: article
     provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 0
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 35
 
 secured: "xkjuk/QwLt4+UG1X58KHC3H+lfnPYWJybL+Lcmh8FIwxWXw5qeyBbvhfx7WEL/6rWFoVr4C6DcpgU6jI+HV9MDcEQ3SXQWCjVAqbmq78DXxe1gOACUI9as/exWKuVx4dJ8YRiZVQQcn5v9h/4Wm1vGIrRX3UsbTxplq8vW28w8raruePP/dExEXRimiLSucxOycFrSRlCSxEiUk5SEdqVwGXm94fohNgGBINIGL6Cl6W4InU/1o7HLius8r5CnRKwBMtqR9jXpDEimrJsQES0AqrCvRhe+UceexA1yEdMxnJ58p9Z5QWonb05OjuAzbrQ4QgcGrMmzjOdZfdy8cSovPzcXDYUjzXWk7KCooVDfc=;tzADnA8nbnCdApz/JlYp2A=="
 ---

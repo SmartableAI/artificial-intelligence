@@ -37,28 +37,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "With trust in AI, manufacturers can build better"
-    excerpt: "AI can improve production speed, take away tedious tasks from creative engineers, and make products customers want, explains Siemens’ Stefan Jockusch."
-    publishedDateTime: 2020-10-28T16:51:00Z
-    webUrl: "https://www.technologyreview.com/2020/10/28/1011266/with-trust-in-ai-manufacturers-can-build-better/"
-    ampWebUrl: "https://www.technologyreview.com/2020/10/28/1011266/with-trust-in-ai-manufacturers-can-build-better/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/10/28/1011266/with-trust-in-ai-manufacturers-can-build-better/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 39
-  - title: "Australians have low trust in artificial intelligence and want it to be better regulated"
-    excerpt: "A new report shows Australians on the whole don't know a lot about how AI is used today, have little trust in the technology, and believe it should be carefully regulated."
-    publishedDateTime: 2020-10-28T17:28:00Z
-    webUrl: "https://theconversation.com/australians-have-low-trust-in-artificial-intelligence-and-want-it-to-be-better-regulated-148262"
-    ampWebUrl: "https://theconversation.com/amp/australians-have-low-trust-in-artificial-intelligence-and-want-it-to-be-better-regulated-148262"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/australians-have-low-trust-in-artificial-intelligence-and-want-it-to-be-better-regulated-148262"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 30
 
 secured: "dFOd8mZgMLW0Ti10d4AXY7tXYWrZGw5OMpmfWO3yc3RKqMHA0e9efeG4UosZaBBQIwkZmTP5JTeH+J0ORiQ3i2K+ILOmq3HvHCgjV8/TnqFy7C4gv75zxIrEFnO6rOPYZN0syV47JQdtJc8SlO18j83AfURZ27csKLO2hFh7HqWGbbyET6r8+7V0Fbd2kczf51KXZ53ovpxFAMcFUdDSlMNWmsib23tZriR2oFiFLye1xPahX0sRd+mNLibDV1b+UFRTgNsx/vVqxVwrIPl3NHsEYMCydplcAWmXAzDglkdi7D2fKHSDatwL0SZciDjMj3txSotqCZXsB+B3jeUWx5L2DCkbT/v1z+OLZIqkPqMdm/tG1InZIwyTNHDt12Y0JvNTrSxfTDN2svDkdQw+WLV6Fz40FUyuF7Rb5X/Kev7vEHp21HKTGBDFXfHaCOV/6PAW0Zx95aUvLUJdQL9R4uJYblQdOCw01FrTwsWJWid6EWDPA14PQTshlsWDkUMi5TTb1RgSNt5g98s3eU2MVA==;4ZlMXDyOK0xclSXI0uVcoQ=="
 ---

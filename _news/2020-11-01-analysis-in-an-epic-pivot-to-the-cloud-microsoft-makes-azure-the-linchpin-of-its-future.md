@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2020/10/31/analysis-epic-pivot-cloud-micr
 webUrl: "https://siliconangle.com/2020/10/31/analysis-epic-pivot-cloud-microsoft-makes-azure-linchpin-future/"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -23,37 +23,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "Microsoft announces its first Azure data center region in Taiwan"
-    excerpt: "After announcing its latest data center region in Austria earlier this month and an expansion of its footprint in Brazil, Microsoft today unveiled its plans to open a new region in Taiwan. This new region will augment its existing presence in East Asia,"
-    publishedDateTime: 2020-10-28T17:03:00Z
-    webUrl: "https://techcrunch.com/2020/10/28/microsoft-announces-its-first-azure-data-center-region-in-taiwan/"
-    ampWebUrl: "https://techcrunch.com/2020/10/28/microsoft-announces-its-first-azure-data-center-region-in-taiwan/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/28/microsoft-announces-its-first-azure-data-center-region-in-taiwan/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 99
-  - title: "Lindsay to Develop Sustainable and Profitable Solutions for Growers using Microsoft Azure"
-    excerpt: "PRNewswire/ -- Lindsay Corporation (NYSE: LNN), a leading global manufacturer and distributor of irrigation and infrastructure equipment and technology, today announced the development of intelligent digital solutions using Microsoft Azure to enhance irrigation management,"
-    publishedDateTime: 2020-10-30T10:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-1029745663"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 70
-  - title: "Flood Prediction Project Powered by SAS IoT Analytics and Microsoft Azure Earns National Innovation Award"
-    excerpt: "by combining Microsoft Azure IoT platform with SAS’ edge-to-cloud IoT analytics and AI capabilities. Transforming flood response for an entire region During excessive rainfall events, Town of Cary personnel often found themselves running around to ..."
-    publishedDateTime: 2020-10-30T06:52:00Z
-    webUrl: "https://www.newswiretoday.com/news/174030/Flood-Prediction-Project-Powered-by-SAS-IoT-Analytics-and-Microsoft-Azure-Earns-National-Innovation-Award/"
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 17
 
 secured: "iRvFGd8up6pnoTK9MaxRoJc8EHQhfvX/oxCSAVKkBsLSXdDuhZnpK4gTp3BKna5dU7+5LUVQE9mz5EQRJNipNCLC3QlfOJG2XdVk+9fuUpNZBkDfQE9+3TfCFakvIwzmmUQlLDk16GoAptpyxo6JR1sL7ieUPQmMDqATi4ZdnL73gFSsQK58dYdf982XBXhYDFNSXqLM2bxo+UDS36L3gPXT5k3XwOix+vPH9M0upRAxLlI/6wKNIIXNdW6z69hr6dyjWQW8VHrbDe11ADYwlaKF7qbaD4i6JGxjadUT5n9++JwF3eMGcSegjXRc4Cw/fWPy6o/0p9YF6AnkwZuhPkK++Ivg8eTicYEBbZChA7wnOP22La1SvZiG98+f54exBgC1M3hd011rTaF24kKlb02WfOiVpNHYJfDHIpkHMpI6rLsiV97yYxdptLL5lRjrBXNeKhdngO4Urzp8dCqdkUXxVAPQSlphLEL+VGXlZlKVUJCG+SZDjukLIji4UvE/yhD2RsfiyUTV/MF0MRbdeg==;R+/jTrD4j09aLDV2+nIfAA=="
 ---

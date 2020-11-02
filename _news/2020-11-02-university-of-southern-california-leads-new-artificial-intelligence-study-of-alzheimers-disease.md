@@ -54,15 +54,6 @@ related:
         width: 1400
         height: 788
         isCached: true
-  - title: "Artificial intelligence-based algorithm for the early diagnosis of Alzheimer's"
-    excerpt: "They developed a type of deep-learning algorithm known as a convolutional neural network (CNN) that can differentiate among the fMRI signals of healthy people, people with mild cognitive impairment, and people with AD. CNNs can autonomously extract ..."
-    publishedDateTime: 2020-10-28T16:26:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-10/ssfo-aia102820.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 15
 
 secured: "igEokwE9i3VcEStW8LUw53WMO+VWEoT3vFVW9eK2md4LMoiiBRoAECFoB/V+uNcgJlU2bEKhzemm6R18R+9ruHsgr5BYaeP1TXp22Kon+ZOCOhzkH9Bpl/MxyexT/KzojB+ss64veWArBcZHL6fYMgDnFUzp+e22plEZKDXaq882SmVkJvIkOXRxtwn0VcTslFxbk3G6F+VkRlw01jy6RF3LvOvK5S0p3GFSeapFGAGktBlUzfQ695mMX8YC3k37eMhzR1LdmugtLb9XCu+PvLy5W1l410gOviq45BgFwl1S9yteapgs0dPTGSHxrrXM5zsFGn1OY1GkCVG2ZPPPPxc9qn50ZU03qDzXd9dsjgY=;OirtUgPq9k6hu9bPlhyebQ=="
 ---

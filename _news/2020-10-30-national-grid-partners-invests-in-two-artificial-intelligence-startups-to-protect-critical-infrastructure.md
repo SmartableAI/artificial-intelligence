@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 890
         isCached: true
+  - title: "Otter.ai adds live captions to its Zoom integration"
+    excerpt: "Video conferencing platform Zoom has unveiled an Otter.ai integration, providing users with access to live transcriptions and meeting notes."
+    publishedDateTime: 2020-11-02T10:05:00Z
+    webUrl: "https://www.computerworld.com/article/3539910/otterai-adds-live-captions-to-its-zoom-integration.html"
+    ampWebUrl: "https://www.computerworld.com/article/3539910/otterai-adds-live-captions-to-its-zoom-integration.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3539910/otterai-adds-live-captions-to-its-zoom-integration.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/04/meeting6-100837792-large.jpg"
+        width: 1200
+        height: 808
+        isCached: true
 
 secured: "Unw9XB37Q3WAiFojN7KWTVmHAJ02XOonWtfDWS92I+lqDRaMa6XjIkq8DVb4qTAU55CUQvncbBfJ8yxvUOXPYPCyd2JYLfx6HJ5F2KPIVClmonHcyXN38wjsg29uuGQuZoVqg9XVPd3B89skPX7YtvoCVw/mgbiZEmYAmdkbEazUuSBSCZbChE96TuvuUI+bxi+kaXQjHmIOATVkIygqrOU+v1gbm4jLLltL+tKsZpZ6Di+b/V3z3gpnY719cLnD4xYJhL9OsV/3Rn0zJp79DVfWzqK8fIR5zOrU9fEkk5Bq+m3H1RPyVJoyFeSr0mpeog6J55R8umZg9RBKt8rhluxqo+ByuzNJJUcfyA/+vhA=;NPfYmV4guH585eY9u63qFQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/10/29/daylight-savings-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/29/daylight-savings-time-could-miraculously-be-saved-by-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "The chemistry behind self-driving cars"
-    excerpt: "Self-driving, electric cars have been touted as the next big thing in transportation. While this technology has progressed in recent years, experts caution that automakers will need the chemical industry to help make it a reality."
-    publishedDateTime: 2020-10-28T18:02:00Z
-    webUrl: "https://phys.org/news/2020-10-chemistry-self-driving-cars.html"
-    ampWebUrl: "https://phys.org/news/2020-10-chemistry-self-driving-cars.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-chemistry-self-driving-cars.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 24
 
 secured: "F9bUWcp3wx6uWS+TSq/GAdJ5dm952zSzWtTdkJ+1MIxq6ONRjlT5VbO+98fQax+ovZ2gJgaR0+RUnwAGgAAaIfh8FxdWh7fXSC55uA01tEO9mz7NXFDQULXq2eaVkoqAzwYQBvMVvl0oOlvfiUgzG/vR89FJJMWE2v68UPcuZFb3HJnNxQk0snnsH5ANTVGLld5cF7Q1uRLJ7qtuijMkCnx8OBKFi2t/qdJ3TRCdyqUYhhCC++PL4lVwtsRQS/gR0cHsdYFZJ6RTbfnWxB30ixFDDn8ksnV3WW1M+cHqlGIxKpt5s3H1uWxdOZXdQqRXWXoWJu+yyl47jdnh0GhxGDA9QsOAsyeACLwp0QFst9zxt3KNh5HUCn1Y6aKLj0QNs4DKQ68RITVB4g6Oi2qD7CPG+qZjf6yL1Dm5visTwv8wq7qgZOERUlnEyOeyzzsYyYmdCM6QM/a9Qi5YE54EMBmg5+QzDUHnVLyP0PLdh2qokufJF0s82BtvePigAHzOkRxNpuLVAZzxIaq2vPsqgw==;xCSSA8fP6rdAl+Ea2HO18Q=="
 ---

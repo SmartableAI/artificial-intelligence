@@ -1,25 +1,26 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) in Healthcare Market to Reach US$ 26.5 Billion by 2025, Globally |CAGR: 41%| UnivDatos Market Insights"
-excerpt: "Artificial Neural Network), Applications (Robotic Surgery, Diagnosis, Virtual Nursing Assistance, Administrative Workflow Assistance); Offerings (Hardware, Software and Services) and Region ..."
-publishedDateTime: 2020-10-27T15:16:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-1029728132"
-webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-1029728132"
+excerpt: "Artificial Intelligence (AI) is expected to contribute up to US$ 15.7 trillion to global GDP by 2030. AI applications, powered by an influx of big data and advancements in computing power, are positioned to transform major sectors, including healthcare."
+publishedDateTime: 2020-10-27T00:00:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-842269344.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-842269344.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - Machine Learning
-  - AI
   - AI in Healthcare
+  - AI
 
-secured: "RV/DOqLmJeSxZAlVbqQ6vDgnElzYoE733nMliHE04sIPsStcvRModozWZ+QRZ04pF/biwZdBE/fcwofeqQu6H0Lo43bqhDKJcnzL1Y+aITjnB9OBPf5zCW4OvKrjVyhH1gGyP2dBGnTymrBcW0d2pEUqsD1D5NOI/cjpeGWrQ3svYd4uJmXgMnR7AOTckDuWCTYXdP2q2/Z1uaEbcpMephF1XPMDLO4V1TWv8gGyJ9TMeOFS1Lm5sH4GdFWM3Sk1NSib7F/bUuVrCoWlJ1TylYSH+LiEKClWdFhVLZC7Swq99CDTyoNkVIJC/gKkxnkxGB9GnMDdARmNsKuAUoT5xR+RXbEatNergXb1Otznw1Y=;qBCUl6xZ/EI9HVEw6hYi0Q=="
+images:
+  - url: "https://mma.prnewswire.com/media/1225049/UnivDatos_Logo.jpg?p=facebook"
+    width: 1279
+    height: 670
+    isCached: true
+
+secured: "TTnlrT/LE8q5ipnBkx1DnkTkAd8UCHr/uUpViUBAtAMlQ/MhkPzfEArlmuBSfZcwv4nm1O44P8h6jrDLDHUAsjSQ/TmpL3qV1YeDtuA2YVQNutIjDTRwmFuy+xsA8L/d2V6sqQ4ALgAZoAwxuzbMcnBIOWGoK9K4ZrxWO6WOtA0b/qkn0lp078FWvcDAfMVGAy1c+PmdzyoAEq2x9i1AMc8VHSXJbr/BAtqYNR+1nClewy6p4IZuVSIQNNsS28MGv3WK+/X79HLJxxPJnLTNYIR5+gmBurvuYDKhPo4UxUm7kR0r7BcP9ffHTFWn+7BjtMZA/vH+eAcOXtbvMM4DQSdA6AHdP6KPZXuwHqdYMrI=;r1HWBh9xvtgsfCVG6OBMeg=="
 ---
 
