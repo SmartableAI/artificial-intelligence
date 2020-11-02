@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/insights/facial-recognition-biome
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/facial-recognition-biometrics-co-1603983074-ga.1603983477.html"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
         width: 1050
         height: 591
+        isCached: true
+  - title: "Method for facial recognition bias reduction with adversarial network shows promise"
+    excerpt: "A prominent trio of biometrics researchers have proposed a way to remove the difference, or bias, from facial recognition performance between different demographics. A paper jointly written by"
+    publishedDateTime: 2020-11-02T22:46:00Z
+    webUrl: "https://www.biometricupdate.com/202011/method-for-facial-recognition-bias-reduction-with-adversarial-network-shows-promise"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 33
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/10124235/facial-recognition-crowds.jpg"
+        width: 1920
+        height: 1005
         isCached: true
 
 secured: "qD5vrfQ8ho4mc9hz2KLXkI3HTA5cevfDzUmBhIqLMrqiLKxFHf27BW8zKKiyoQz8imYehnrvpO330dg1NX5Wisaj4v71qY772WZNjBE5CtIPXam4wli8vRCunnL+a2ckPHaf+3+aCVDGuEox7OheCCeqleniHhiEil6nUS0tsIRZPF6ZNR1a2nC0ZohGUIoA+/kkZ3wss0Rrb7A5T1jpo/nMoOuZUbM6UhrZ2z1BOmlYJZVP63vHYjvSKU64rh9swMjgPSDeilM+hlHKs4J5unSMss+Sy7eEfiQCFNG3DRblwveVNpEEzNUU5M9Fw1qYlecTc27I8RPIJXpSxdK18vfgivfMTIegHlxe0yrjfI4=;g8fgpfkwD6SbJWJA/5GA7g=="

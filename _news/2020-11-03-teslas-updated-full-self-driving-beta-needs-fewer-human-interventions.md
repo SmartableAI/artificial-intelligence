@@ -401,6 +401,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Tesla has released 'full self-driving' in beta — here's how experts rank it, Waymo and 16 other power players in the world of self-driving cars"
+    excerpt: "and Baidu, who make up the upper tier of companies that are working on self-driving technology for consumer vehicles and either operate or have plans to launch a mobility service. (The list ..."
+    publishedDateTime: 2020-10-29T16:57:00Z
+    webUrl: "https://www.businessinsider.com/experts-rank-tesla-waymo-other-self-driving-car-power-players-2020-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
+    images:
+      - url: "https://i.insider.com/5ede3fd74dca686dbd47b084?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Race car drivers had a lot of fun making fun of self-driving race car driving straight into wall"
     excerpt: "Race car drivers took to social media to point out their job security after video showed a self-driving race car drive itself into a wall."
     publishedDateTime: 2020-10-30T06:06:00Z
@@ -473,6 +487,6 @@ related:
       domain: channele2e.com
     quality: 2
 
-secured: "4zxg5Mty5HoXaECq2OS1eMifSLVEQ96j92CSHVwoRDecY9jDz71+gofjpDiv+5xOXUsAtN48rHmvrOT+Z7rRlu5nZRobN2qbZvJfJl9/AL7qKy1zXJ004s6Q7yVcujzeoXjuO+8bi4N+m2BUt6WAyc+kTqQ0RN+AM6PmvmbSHkqvstUT9qEGKxYPqundTPT4sefngkv6c11mMVdyhi61/UhClez6MZq/bNPga1bI6A6c6k1FkKyztCXzeqpZ0l8mwQvgpxOfebUvvBOYiY39oWlXTmZyfb9K5u3b5gEfaHb6IxlOyGX0bYfzOBgH0LTO49GG3zsXNN8MRx0AuMzr4+GJMMxYXNH9RxgAWN6m930=;MESSotAtKdKZ5nT4+4zb0w=="
+secured: "zL58QtsvOR32doVoqvcSnv+DBRiPWEXkoBZca2x3+wE0hWezL+KwpTQNSWp/H1QXjN+3wLmRNBiQx6S9uguQrt+DGabCYMozx+3GNKLT5l5/zZQJ11wzmDbgMOSukkPAqGcB1USy8Y6nBe8YiTexb4xv3njTqUo2Tt4OhuI9FymlO9jUHVLK1m8qOB60anO2qmO3gVeynSRwUApQTbp2fQJ2G8FVpyZtDCmBC7iqjN13Y2XYnqPoPjLTUfHw3Bi5PUmgN1qtFJ7SwkOIPMQALdsThCoVr3RxrA9ISOxilqOkKPwBpTEsGHlxnJzZ8kIPbs7oZh4CK7uHnel9sSY9YXESv78GF0VXmhcv09JXFq5+5ShjQWdUelSCL8V3glNg7NHo9pNPWpHpNuwTnxAa2p5hMTe2c584kKF42dW6Nv0bct5hDOOS0zUp0/kAr9Aw6z8Zmy+q/iqpLatEP/IlBLOOVIm9Mt0KPk9/eJMf67D0jEdW3Sywl0d2TtAHFGjbEUCs5puhSvQyP8iNbalB8w==;AIyJA4rEENWeNgA/+v/0Xg=="
 ---
 

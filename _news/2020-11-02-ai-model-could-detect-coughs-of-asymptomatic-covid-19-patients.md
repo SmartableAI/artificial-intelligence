@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence model detects asymptomatic Covid-19 infections through cellphone-recorded coughs"
-    excerpt: "An artificial intelligence model can detect people who are asymptomatic with Covid-19, through cellphone-recorded coughs. The work was led by Brian Subirana and colleagues at the MIT Auto-ID Lab."
-    publishedDateTime: 2020-10-29T04:06:00Z
-    webUrl: "https://news.mit.edu/2020/covid-19-cough-cellphone-detection-1029"
-    type: article
-    provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 152
-    images:
-      - url: "https://news.mit.edu/sites/default/files/images/202010/MIT-Cough-Recordings-01-PRESS.jpg"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "AI can detect COVID-19 by listening to your coughs"
     excerpt: "Researchers have built an app that can detect COVID-19 through cough recordings, even for people who say they're asymptomatic."
     publishedDateTime: 2020-10-31T21:58:00Z
@@ -88,6 +74,36 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Introducing the COVID-19 Simulator and Machine Learning Toolkit for Predicting COVID-19 Spread"
+    excerpt: "There have been breakthroughs in understanding COVID-19, such as how soon an exposed person will develop symptoms and how many people on average will contract the disease after contact with an exposed individual. The wider research community is actively working on accurately predicting the percent population"
+    publishedDateTime: 2020-10-30T17:47:31Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-the-covid-19-simulator-and-machine-learning-toolkit-for-predicting-covid-19-spread/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 79
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/29/1-Diagram-2.jpg"
+        width: 900
+        height: 485
+        isCached: true
+  - title: "Artificial intelligence and covid-19: Can the machines save us?"
+    excerpt: "The Stanford-trained data scientist did not have a particular hypothesis, but he was hoping the artificial intelligence would pinpoint ... existing racial gaps and other disparities in health care. One of the biggest challenges has been that much data ..."
+    publishedDateTime: 2020-11-01T14:02:00Z
+    webUrl: "https://www.washingtonpost.com/health/covid-19-artificial-intelligence/2020/10/30/7486db84-1485-11eb-bc10-40b25382f1be_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/covid-19-artificial-intelligence/2020/10/30/7486db84-1485-11eb-bc10-40b25382f1be_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/covid-19-artificial-intelligence/2020/10/30/7486db84-1485-11eb-bc10-40b25382f1be_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 59
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "MIT builds AI which can detect Covid-19 by listening to your cough"
     excerpt: "AI tool uses neural networks that can figure out changes in a person’s cough which point out whether they are infected"
     publishedDateTime: 2020-11-02T10:12:00Z
@@ -104,6 +120,22 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "AI can detect if you have coronavirus by listening to the sound of your cough"
+    excerpt: "Researchers have developed a new artificial intelligence (AI) system which they claim can detect coronavirus by analysing the sound of people coughing. Scientists at Massachusetts Institute of Technology (MIT) said the AI works because  the virus causes temporary neuromuscular impairment which can cause small differences to people’s speech or the sound of their cough - even if they have no other symptoms."
+    publishedDateTime: 2020-11-02T08:51:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2020/11/02/ai-can-detect-have-coronavirus-listening-sound-cough/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/11/02/ai-can-detect-have-coronavirus-listening-sound-cough/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/11/02/ai-can-detect-have-coronavirus-listening-sound-cough/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 54
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/news/2020/10/28/TELEMMGLPICT000243084755_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg"
+        width: 2501
+        height: 1563
+        isCached: true
   - title: "Now Artificial Intelligence Can Detect COVID-19 by Listening to Your Coughs | Check Here How"
     excerpt: "Also Read - WHO Chief Goes Into Quarantine After Contact Tests Positive For Coronavirus Researchers have confirmed that an artificial intelligence (AI) tool that can detect if there are any indications in a human’s cough that could point to a COVID ..."
     publishedDateTime: 2020-11-02T10:09:00Z
@@ -119,6 +151,20 @@ related:
       - url: "https://s3.india.com/wp-content/uploads/2020/10/pjimage-2020-10-11T094732.061.jpg"
         width: 700
         height: 415
+        isCached: true
+  - title: "Amazon Web Services Introduces Open-Source Machine Learning Toolkit To Predict The Spread Of COVID-19"
+    excerpt: "Amazon Web Services open-sources a new simulator and a series of machine learning tools that allow researchers and data scientists to study and predict the spread of the COVID-19 pandemic infections."
+    publishedDateTime: 2020-11-02T15:27:00Z
+    webUrl: "https://techlog360.com/aws-open-source-machine-learning-toolkit-to-predict-the-spread-of-covid-19/"
+    type: article
+    provider:
+      name: techlog360.com
+      domain: techlog360.com
+    quality: 41
+    images:
+      - url: "https://tl360.b-cdn.net/wp-content/uploads/2020/11/AWS-news-and-stories.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "researchers at MIT create AI model that detects asymptomatic COVID-19 infections"
     excerpt: "MIT have created an artificial intelligence model that detects asymptomatic COVID-19 infections through cellphone-recorded coughs. the study has found out that asymptomatic patients may differ from healthy individuals in the way they cough and that these differences are not decipherable to the human ear but it turns out they can be picked up by AI."

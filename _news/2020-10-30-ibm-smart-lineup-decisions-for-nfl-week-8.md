@@ -1,10 +1,10 @@
 ---
 category: news
 title: "IBM Smart Lineup Decisions for NFL Week 8"
-excerpt: "That's where IBM Insights comes in, as they use Watson AI to break down all of the content you're consuming and then some. And by \"some\", I mean every inch of the interwebs. Below are the highlights for NFL Week 8 -- good and bad."
+excerpt: "That's where IBM Insights comes in, as they use Watson AI to break down all of the content you're consuming and then some. And by \"some\", I mean every inch of the interwebs. Below are the ..."
 publishedDateTime: 2020-10-30T13:00:00Z
-originalUrl: "https://www.espn.com/fantasy/football/story/_/page/smartlineup201030/ibm-smart-lineup-decisions-nfl-week-8?device=featurephone"
-webUrl: "https://www.espn.com/fantasy/football/story/_/page/smartlineup201030/ibm-smart-lineup-decisions-nfl-week-8?device=featurephone"
+originalUrl: "https://www.espn.com/fantasy/football/story/_/page/smartlineup201030/ibm-smart-lineup-decisions-nfl-week-8"
+webUrl: "https://www.espn.com/fantasy/football/story/_/page/smartlineup201030/ibm-smart-lineup-decisions-nfl-week-8"
 ampWebUrl: "https://www.espn.com/fantasy/football/story/_/page/smartlineup201030/ibm-smart-lineup-decisions-nfl-week-8?platform=amp"
 cdnAmpWebUrl: "https://www-espn-com.cdn.ampproject.org/c/s/www.espn.com/fantasy/football/story/_/page/smartlineup201030/ibm-smart-lineup-decisions-nfl-week-8?platform=amp"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 729
     isCached: true
 
-secured: "TS1kP4UGryM0drZwXMfpNiYfzRDs9+f4dXgCqOnLfZraTjBM6lDHD+B7zmZGyva0xuDt4wbc/I2vQwucas8gMs/KnoseFr/Rtq9J8bDhpSLMgoJeFmQoS7Pc1Ixk8Llihb+gCOjl8zyvlEtvm3UbmDoPC0F2547h2KYTxRULuF+D+9BhMxqmNVT0VXWc5J6u7/MyA4JOvbhyChveNznBzpP78rBzOHcmCO2Fa0DQJvBUqRe77exLXN/SOSc+aT2qrt252WFYli9d4z6BHXDcWiZBsBh6IAS+drfeEt2xfLd0QqM4+lMcXS30Oyjp3WIScBNTv0AC/UzxuSFQZ4FAKlYpD3fgk/T1neEpwNNDVnBIxP/mWvcDcz8lSmAI4wDwW+9Za11RRRnHqrBbIQMKzC9wD/D+z8N62lerSwM8YWXfTQXhnK7Xyo0H0TvgRdI2vSZfa/ps7/s5AkTBDwjdUIoVM2mFmqmoNoJzqQOjPA0efMtrrIbzJGvz/PGCHQI9ep2ltb4iUalRDwQcKQVuww==;2RAgjNV478kQEBF4HjmQRA=="
+secured: "Io+Tvv+1KlnpE6UkiAr5QtABAd15wPcX/hA/2lDH0XjfvvAN0GUv+gqqjm6wWNv82ZcIBRE0rg3ydQ3fFawYmmMp7Q3SxWm7PGZ+IMVAl21C3DJfcLEFOkK/HAkzwvBjUVKXrkowv8lSHwmNmvooajfmusRVgBXQG5KWStTIoEtm3CXNkMHpnOiCeywScL35H8gidX/5eNfMDIuls1wtqGdw6RbrnaJr/cJLXZhM8tkhDiAxdj56NUjBwxJp90q7MXCMww9E+jHGVdiyH3ztI0Cy4j+Ph/j2BAXUchhNuDjsuAZKCcrRn6kBAbP7WzSogMEXySmzGB/XOPP8KjAlrMUGNX9Ydab/7UkTYrykN70=;mB1D7XNwa1lbUxHICVOZfw=="
 ---
 

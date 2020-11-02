@@ -413,6 +413,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Tesla has released 'full self-driving' in beta — here's how experts rank it, Waymo and 16 other power players in the world of self-driving cars"
+    excerpt: "and Baidu, who make up the upper tier of companies that are working on self-driving technology for consumer vehicles and either operate or have plans to launch a mobility service. (The list ..."
+    publishedDateTime: 2020-10-29T16:57:00Z
+    webUrl: "https://www.businessinsider.com/experts-rank-tesla-waymo-other-self-driving-car-power-players-2020-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
+    images:
+      - url: "https://i.insider.com/5ede3fd74dca686dbd47b084?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Tesla increases price of Full Self-Driving to $10,000"
     excerpt: "Tesla continues to raise the price of its Full Self-Driving (FSD) electronic driver-assist feature. The company raised the price to $10,000 this week, up from $8,000 previously. The feature cost $ ..."
     publishedDateTime: 2020-10-30T12:40:00Z

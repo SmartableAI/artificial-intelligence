@@ -3,8 +3,8 @@ category: news
 title: "AI in Fintech Market May Set New Growth Story | Microsoft, Google, Salesforce.com"
 excerpt: "Oct 19, 2020<p>Latest Research Study on  Market published by AMA, offers a detailed overview of the factors influencing the global business scope. Global AI in Fintech Market research report shows the latest market insights with upcoming trends and breakdown of the products and services."
 publishedDateTime: 2020-10-20T11:30:00Z
-originalUrl: "https://menafn.com/1100983759/AI-in-Fintech-Market-May-Set-New-Growth-Story-Microsoft-Google-Salesforcecom?src=Rss"
-webUrl: "https://menafn.com/1100983759/AI-in-Fintech-Market-May-Set-New-Growth-Story-Microsoft-Google-Salesforcecom?src=Rss"
+originalUrl: "https://menafn.com/1100983759/AI-in-Fintech-Market-May-Set-New-Growth-Story-Microsoft-Google-Salesforcecom"
+webUrl: "https://menafn.com/1100983759/AI-in-Fintech-Market-May-Set-New-Growth-Story-Microsoft-Google-Salesforcecom"
 type: article
 
 provider:
@@ -17,11 +17,11 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?393891"
-    width: 444
+  - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+    width: 300
     height: 250
     isCached: true
 
-secured: "tqBVBE7k92zJEUzTIWUIOGFfoYZmVkTOAXthxOC0k72UNi0xBOAXUCDtLuR+G4lvMCMRX5lVotx6ShwWqf0V2YayCBQFQWxRcZFiS+jTnR39/Aafj/owLcGHxfcnC19aS3A1Xu2UmI1CyrCC1b9Sed+xiqbquBdNfTquPCy+imYQDcsF3ylvTL1m9yU/hnzZa9H270Sd9bOsVrLX2nPNvRDMfUODItKGgFo8E+BmMxG4M7cvwqBgUXjl6AeogXccnWtvUB3BTbApDIuYhCVbqR4vQxoDJb8qbHIZdsoZVOS+LQfiefB3kEasfkfYJj+svt2cepBtswstid6wA6atEO8yAwVtA+G1df6LnwghuCI=;N4kYFb2bU+qxfRDYD2/T3g=="
+secured: "cQfH9I4t1lf1qTFXHxaC2wyl4wVjJmnp6c4rJKNIw9AbXCM73x2nPH6okhS/f5LlsEhsowluzyHLdEcWcF8Dp9KTGKX0fyXupwzq1HEvYhVErDhb57EPunNYNM2xcG15to4JpPFCySYuox1g1OnSTU1aa4dLTD81/Fq2koxg3IhBdqtFXaBccz4JMNvf60Ns5uhpoLVpgAZOEqIAIxAFqwEd3wjXR+SqAYFoJNnqDJvhZQQA21dhB/PrnD4Tkjxm8olVpmNMT4zLd7ZeAtcjc0v411BBkP2fQpl4iHI+xS/CwMQYrJwrPI2EsbKnYdLMvs3J98UE1Vyq4W43RhoiJDb1q+s2W7CbhAKi+gi5dvE=;mmlEEgHy+3gJcPv5tZJqdw=="
 ---
 

@@ -2,6 +2,109 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-10-23-ai-and-machine-learning-powering-the-next-gen-enterprise.md",
+      "title": "AI and machine learning: Powering the next-gen enterprise",
+      "excerpt": "Now’s the time to get your AI/ML strategy in shape, as a recent CIO Tech Poll shows that AI/ML was considered the most disruptive technology by 62% of respondents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/",
+      "originalUrl": "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bbhub.io/professional/sites/10/347789615.jpg",
+          "width": 1600,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-23T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-ibm-ai-model-predicts-onset-of-alzheimers-disease-by-analyzing-descriptions-of-a-cookie-theft.md",
+      "title": "IBM AI model predicts onset of Alzheimer’s disease by analyzing descriptions of a cookie theft",
+      "excerpt": "The model predicted the onset of Alzheimer's more accurately than standard clinical methods by searching for symptoms in written descriptions of the image.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/10/23/ibm-ai-model-predicts-onset-of-alzheimers-disease-by-analyzing-descriptions-of-a-cookie-theft/",
+      "originalUrl": "https://thenextweb.com/neural/2020/10/23/ibm-ai-model-predicts-onset-of-alzheimers-disease-by-analyzing-descriptions-of-a-cookie-theft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-23T134432.743-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/10/23/ibm-ai-model-predicts-onset-of-alzheimers-disease-by-analyzing-descriptions-of-a-cookie-theft/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/23/ibm-ai-model-predicts-onset-of-alzheimers-disease-by-analyzing-descriptions-of-a-cookie-theft/amp/",
+      "publishedDateTime": "2020-10-23T06:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-iflytek-largely-unaffected-by-us-blacklisting-chairman.md",
       "title": "iFlyTek largely unaffected by US blacklisting: chairman",
       "excerpt": "The US-instigated technology war with China has forced homegrown artificial intelligence (AI) firms to focus more on core technological innovation, the founder and chairman of iFlyTek said on Friday,",
@@ -1118,101 +1221,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-researchers-find-high-error-rates-in-commercial-speech-recognition-systems.md",
-      "title": "Researchers find high error rates in commercial speech recognition systems",
-      "excerpt": "Some automatic speech recognition (ASR) systems might be less accurate than previously assumed. That’s the top-level finding of a recent study by researchers at Johns Hopkins University ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/22/researchers-find-high-error-rates-in-commercial-speech-recognition-systems/",
-      "originalUrl": "https://venturebeat.com/2020/10/22/researchers-find-high-error-rates-in-commercial-speech-recognition-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/11/echo-dot-e1572284967494.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/22/researchers-find-high-error-rates-in-commercial-speech-recognition-systems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/researchers-find-high-error-rates-in-commercial-speech-recognition-systems/amp/",
-      "publishedDateTime": "2020-10-22T11:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-global-automotive-voice-recognition-system-market-report-2020-trends-forecast-and-competitive-analysis-2013-2024-market-is-expected-to-grow.md",
-      "title": "Global Automotive Voice Recognition System Market Report 2020: Trends, Forecast and Competitive Analysis 2013-2024 - Market is Expected to Grow with a CAGR of 19% ...",
-      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Automotive Voice Recognition System Market: Trends, Forecast and Competitive Analysis\" report has been added to ResearchAndMarkets.com's offering. The automotive voice recognition system market is expected to grow with a CAGR ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201022005941/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20201022005941/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201022005941/en/371054/23/ResearchAndMarkets_800px.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

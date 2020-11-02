@@ -341,41 +341,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-29-7-ai-stocks-to-buy-as-automation-advances.md",
-      "title": "7 AI Stocks to Buy as Automation Advances",
-      "excerpt": "Oxford academics Carl Benedikt Frey and Michael Osborne estimated that 47% of American jobs are at high risk of automation by the mid-2030s, so it’s closer than we think. Many investors aren’t sure what the technology is or what AI stocks to buy in anticipation of its rise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28",
-      "originalUrl": "https://www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28?amp",
-      "publishedDateTime": "2020-10-28T12:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2020-10-28-the-future-of-robotics-is-bright-with-arkq.md",
       "title": "The Future of Robotics is Bright with ARKQ",
       "excerpt": "Robotics and artificial intelligence are making machines smarter and more capable than ever before, allowing robots to take on increasingly sophisticated tasks for faster and more accurate production. Declining computer chip costs and improving ...",
@@ -612,10 +577,10 @@
     {
       "path": "_news/2020-10-28-5-best-robotics-and-artificial-intelligence-stocks-to-buy.md",
       "title": "5 Best Robotics and Artificial Intelligence Stocks To Buy",
-      "excerpt": "Google AI is the company’s division that focuses exclusively on artificial intelligence and Waymo is probably the most advanced autonomous driving technology company in the world (though Chinese competitors are catching up fast). Alphabet is the #1 stock ...",
+      "excerpt": "Below we listed the 5 best robotics and artificial intelligence stocks to buy according to hedge funds. For a detailed analysis and a more comprehensive list please see Top 10 Robotics and Artificial Intelligence Stocks To Buy. Unfortunately it is too late ...",
       "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/",
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -634,7 +599,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T22:40:00-07:00",
+      "publishedDateTime": "2020-10-27T19:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Insider Monkey",
@@ -648,9 +613,8 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1397,6 +1361,49 @@
       "provider": {
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-do-robots-need-a-sense-of-touch.md",
+      "title": "Do Robots Need a Sense of Touch?",
+      "excerpt": "Sensors mimicking human skin may be the key to making robotic hands sense like human hands. According to LUX Research Analyst Lisheng Gao, “A research team developed piezoelectric effect-based sensors that mimic the human somatosensory system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.industryweek.com/technology-and-iiot/article/21144713/do-robots-need-a-sense-of-touch",
+      "originalUrl": "https://www.industryweek.com/technology-and-iiot/article/21144713/do-robots-need-a-sense-of-touch",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/industryweek/image/2020/10/ricardo_gomez_angel_D9kOnC_1AHw_unsplash.5f8729167ca48.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 624,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-21T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IndustryWeek",
+        "domain": "industryweek.com",
         "images": null,
         "publishers": null,
         "authors": null

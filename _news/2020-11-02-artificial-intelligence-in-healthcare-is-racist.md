@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-am
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/artificial-intelligence-in-healthcare-is-racist/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 82
+  - title: "What the public hopes and fears about the use of AI in health care"
+    excerpt: "The use of artificial intelligence in health care is on the rise, and the concerns of the public need to be considered in developing policy that regulates its application."
+    publishedDateTime: 2020-11-02T22:00:00Z
+    webUrl: "https://theconversation.com/what-the-public-hopes-and-fears-about-the-use-of-ai-in-health-care-148226"
+    ampWebUrl: "https://theconversation.com/amp/what-the-public-hopes-and-fears-about-the-use-of-ai-in-health-care-148226"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/what-the-public-hopes-and-fears-about-the-use-of-ai-in-health-care-148226"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 59
+    images:
+      - url: "https://images.theconversation.com/files/367025/original/file-20201102-21-d19x1.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=240&fit=crop"
+        width: 320
+        height: 240
+        isCached: true
 
 secured: "3xFjEILJg5GMcxHusX3U3nqYtuCNmHg+SgKXNzDnIDo/h4hytjDc3+HqFS7illoasfdGQ93BNiSXHiHWLS9EqJkQlrQUNkajJgFM7+Qp0In5lQrgApe7/TOwv4nhkDnJhdrKDSHs7A593ya/knUmhj0CWEEFproY062dF3NpgC6vrieTnzG+F9VHaC5L8n1O+sTaHus7KCIAZu6NfSHCk9cnOEPQnaNi0IbAnxujspNpKTRI1oOk9veiO4enPUhv4omlZil8aL1jm8mcwU1yjpIQxLIoefonBKcZlYg1mwcrCD1tlchz0wmqeIeb0rnky3R926ydB/amEcsOmYBdcyfSmTcLI3UFbwHKw8wjPkMc1oa2k/gtwKG+PU0HfjI41Db+CjnveYj3/FTAPSANhB4oOq4VXutlxHH3CyzJoN41Man/OVOiTqK9zluM73CcG6wpGiEdLmSr5JU/6JJ1gWC3i44lGhS1qhdIRrLRkfJE+Ny4C0jyxRIW4Zj6VGfwv4iFrBWTKBK6LyxHY975IA==;21mZObhpFyHD/Vhdtelgkw=="
 ---

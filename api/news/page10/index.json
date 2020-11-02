@@ -2,6 +2,101 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-10-23-researchers-find-high-error-rates-in-commercial-speech-recognition-systems.md",
+      "title": "Researchers find high error rates in commercial speech recognition systems",
+      "excerpt": "Some automatic speech recognition (ASR) systems might be less accurate than previously assumed. That’s the top-level finding of a recent study by researchers at Johns Hopkins University ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/22/researchers-find-high-error-rates-in-commercial-speech-recognition-systems/",
+      "originalUrl": "https://venturebeat.com/2020/10/22/researchers-find-high-error-rates-in-commercial-speech-recognition-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/11/echo-dot-e1572284967494.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/22/researchers-find-high-error-rates-in-commercial-speech-recognition-systems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/researchers-find-high-error-rates-in-commercial-speech-recognition-systems/amp/",
+      "publishedDateTime": "2020-10-22T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-global-automotive-voice-recognition-system-market-report-2020-trends-forecast-and-competitive-analysis-2013-2024-market-is-expected-to-grow.md",
+      "title": "Global Automotive Voice Recognition System Market Report 2020: Trends, Forecast and Competitive Analysis 2013-2024 - Market is Expected to Grow with a CAGR of 19% ...",
+      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Automotive Voice Recognition System Market: Trends, Forecast and Competitive Analysis\" report has been added to ResearchAndMarkets.com's offering. The automotive voice recognition system market is expected to grow with a CAGR ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201022005941/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20201022005941/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201022005941/en/371054/23/ResearchAndMarkets_800px.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-22T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-ibm-and-pfizer-claim-ai-can-predict-alzheimers-onset-with-71-accuracy.md",
       "title": "IBM and Pfizer claim AI can predict Alzheimer’s onset with 71% accuracy",
       "excerpt": "IBM and Pfizer claim to have developed a model that can predict the onset of Alzheimer's disease years before clear symptoms develop.",
@@ -296,19 +391,19 @@
     {
       "path": "_news/2020-10-22-clark-county-utilizes-ai-enabled-solution-to-help-residents-secure-critical-housing-assistance.md",
       "title": "Clark County Utilizes AI-enabled Solution to Help Residents Secure Critical Housing Assistance",
-      "excerpt": "PRNewswire/ -- Clark County and IBM Watson Health (NYSE: IBM) today announced the deployment of the AI-enabled IBM Watson Health Citizen Engagement platform designed to help make vital social services,",
+      "excerpt": "PRNewswire/ -- Clark County and IBM Watson Health (NYSE: IBM) today announced the deployment of the AI-enabled IBM Watson Health Citizen Engagement",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-virus-outbreak-human-welfare-nevada-government-and-politics-7948e4fc4b75f779d4fe35a5cab3b4cc",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-virus-outbreak-human-welfare-nevada-government-and-politics-7948e4fc4b75f779d4fe35a5cab3b4cc",
+      "webUrl": "https://www.prnewswire.com/news-releases/clark-county-utilizes-ai-enabled-solution-to-help-residents-secure-critical-housing-assistance-301157432.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/clark-county-utilizes-ai-enabled-solution-to-help-residents-secure-critical-housing-assistance-301157432.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
+          "width": 2698,
+          "height": 1414,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -321,8 +416,8 @@
       "publishedDateTime": "2020-10-22T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -967,34 +1062,34 @@
     {
       "path": "_news/2020-10-22-data-reply-achieves-aws-machine-learning-competency-status.md",
       "title": "Data Reply Achieves AWS Machine Learning Competency Status",
-      "excerpt": "Data Reply, specialized in the design and implementation of advanced analytics and AI-powered data services, announced today that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status.",
+      "excerpt": "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR. DATA REPLY Data Reply is the Reply ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-science-corporate-news-products-and-services-786f2a29fba3449bac8fd3b2bb23ebf3",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-science-corporate-news-products-and-services-786f2a29fba3449bac8fd3b2bb23ebf3",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/data-reply-achieves-aws-machine-learning-competency-status-1029708669",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/data-reply-achieves-aws-machine-learning-competency-status-1029708669",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T00:30:00-07:00",
+      "publishedDateTime": "2020-10-22T00:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1108,110 +1203,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-facebook-is-developing-a-way-to-type-using-vr-on-tabletops.md",
-      "title": "Facebook is developing a way to type using VR on tabletops",
-      "excerpt": "Facebook Reality Labs' latest research project, being presented at the Symposium on User Interface and Software Technology, demonstrates hand-typing on a desk at up to 73 words per minute. The project isn't ready for Oculus Quest VR headsets yet,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/facebook-is-developing-a-way-to-type-in-vr-on-tabletops/",
-      "originalUrl": "https://www.cnet.com/news/facebook-is-developing-a-way-to-type-in-vr-on-tabletops/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/CR8VckH_PQuQB_a1B_LRE-ROb9Q=/1200x630/2020/10/21/b81c65ac-f9f5-4d53-a672-74afeb77c6f0/frl-vr-typing-screenshot.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-is-developing-a-way-to-type-in-vr-on-tabletops/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-is-developing-a-way-to-type-in-vr-on-tabletops/",
-      "publishedDateTime": "2020-10-21T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-best-facial-recognition-security-cameras-of-2020.md",
-      "title": "Best facial recognition security cameras of 2020",
-      "excerpt": "Select home security cameras have facial recognition, an advanced feature that lets you make a database of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-2020/",
-      "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2020/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2020/",
-      "publishedDateTime": "2020-10-21T19:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

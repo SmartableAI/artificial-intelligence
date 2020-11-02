@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/30/21541571/tesla-full
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/30/21541571/tesla-full-self-driving-price-increase-10000-dollars-autopilot-beta"
 type: article
 quality: 104
-heat: 404
+heat: 414
 published: true
 
 provider:
@@ -400,6 +400,20 @@ related:
       - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2020/10/31/nhmzpjpkgvvsqawmqowb-scaled.jpg?ar=16%3A9&fit=crop&q=65&w=1280"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Tesla has released 'full self-driving' in beta — here's how experts rank it, Waymo and 16 other power players in the world of self-driving cars"
+    excerpt: "and Baidu, who make up the upper tier of companies that are working on self-driving technology for consumer vehicles and either operate or have plans to launch a mobility service. (The list ..."
+    publishedDateTime: 2020-10-29T16:57:00Z
+    webUrl: "https://www.businessinsider.com/experts-rank-tesla-waymo-other-self-driving-car-power-players-2020-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
+    images:
+      - url: "https://i.insider.com/5ede3fd74dca686dbd47b084?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Race car drivers had a lot of fun making fun of self-driving race car driving straight into wall"
     excerpt: "Race car drivers took to social media to point out their job security after video showed a self-driving race car drive itself into a wall."
