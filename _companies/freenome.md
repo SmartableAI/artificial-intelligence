@@ -2,7 +2,7 @@
 name: "Freenome"
 overview: "Freenome is a biotechnology company on a mission to empower everyone with the tools they need to detect, treat, and ultimately prevent their diseases."
 type: "profile"
-heat: 77
+heat: 50
 
 website: https://www.freenome.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "freenome"
   url: "https://www.twitter.com/freenome"
-  followers: 2187
+  followers: 2186
 
 size: 51-200 employees
 yearFounded: 2014
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=TrEnNA_kZBI"
 
-secured: "TQRU6/jjXSYZFenyN19kAtLKWYCoX7e2fmVowveP+NAGx/5Bel3ntcFse06/zsy0XtXXdyz+qM5qKku33Bvd5z7JWAFrE7voLXanfknv0GFDX65FV75BqbTHsAQy3uccubMEo5f/aKHT6HtAjyhl/VFv8BIZ56iMRUferfGpZNbm+rERpsnhz9fdualZnrvjHLGF6d44QM7fmW7vRfAxY9FOUnLXeExG6x/JWIXS2p9BCpdsuut6Dk3YWU7FRS6AErzLLmTXfpqu5pHt6bw5ZjYyLigXWFsio/fKYlpun4lwWn+uPBjTIxS5RHTBjF0ugE6jg4sXGUA4E42annO9Sim68smYvBdIgV4PndOQ1bd9Vg5DlxOxJnD8Rnu+5ADgZvrQCdx4EpfJ3o06CYynvwJ7n/rcUuk5JQYj4ogUm5E=;Ig2m4vFIrv+r7JcWVrmlPQ=="
+secured: "2odM+f6EllZCeb67L6qNe+ppQQ0GPVnEiisPq2ofAjLbO34mXHqNQu4CQIBajzFMRS/3jL5ke4ghr75FeAx+ceyGlOuvFHwhlaZ3a1tvDJCLoH8jBDHngQ17FmONEyTN4m0X1g/9zbBghEC/Uymn6//ektalO8zT3keme5JJG2zMu4qrsPFd/BpwFNaJ9HwqMRN1WysOSlvyxqG8dRbgJerQhRQwrrSTrTxLdlHIQXweSa3TbymRnykQabiuPEyn/IX1W+8WEwIIhSegj+Jzr1iM8e+d/Oo+bqBhMPhuGouVnWsf0CT5V3lve9G2bgJbXssgb0R84TL1HLnGwLZyB0+guYnjj6ufVnPGN9zPjT1/7aiWlUsPeUTuqzs9MF5FvaMWbwVZ3u/mjVCVurKP8Z4ipVJdzHrAWHyxKsIJFY0=;D8X0eNcw2119hCh7TYYQTg=="
 ---
 
