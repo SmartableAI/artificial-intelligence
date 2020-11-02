@@ -2,12 +2,108 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-03-upgrad-sees-demand-in-digital-marketing-artificial-intelligence-machine-learning-courses.md",
+      "title": "upGrad sees demand in digital marketing, artificial intelligence, machine learning courses",
+      "excerpt": "Online career education company upGrad has seen rising demand for courses in the areas of Digital Marketing, Data Science, Machine Learning and Artifi",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsr.in/n/India/1zlumksckk/upGrad-sees-demand-in-digital-marketing-artificial-intelligence.htm",
+      "originalUrl": "https://www.newsr.in/n/India/1zlumksckk/upGrad-sees-demand-in-digital-marketing-artificial-intelligence.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newsserve.net/newsR256.png",
+          "width": 256,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsr.in/n/India/1zlumksckk/upGrad-sees-demand-in-digital-marketing-artificial-intelligence.htm",
+      "cdnAmpWebUrl": "https://www-newsr-in.cdn.ampproject.org/c/s/www.newsr.in/n/India/1zlumksckk/upGrad-sees-demand-in-digital-marketing-artificial-intelligence.htm",
+      "publishedDateTime": "2020-11-02T10:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "newsr.in",
+        "domain": "newsr.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-the-near-miss-quandary-is-unavoidably-messy-for-self-driving-cars.md",
+      "title": "The Near-Miss Quandary Is Unavoidably Messy For Self-Driving Cars",
+      "excerpt": "Near-miss while driving is insidious, including for self-driving cars. getty. Reckless and fleckless drivers. I’m sure you experience their antics and angst-producing driving ac",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/02/the-near-miss-quandary-is-unavoidably-messy-for-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/02/the-near-miss-quandary-is-unavoidably-messy-for-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9cef7aa486df619b0da987%2F0x0.jpg%3FcropX1%3D631%26cropX2%3D4938%26cropY1%3D194%26cropY2%3D2711",
+          "width": 1200,
+          "height": 701,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/02/the-near-miss-quandary-is-unavoidably-messy-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/02/the-near-miss-quandary-is-unavoidably-messy-for-self-driving-cars/amp/",
+      "publishedDateTime": "2020-11-02T09:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-ai-may-help-identify-patients-with-early-stage-dementia.md",
       "title": "AI May Help Identify Patients With Early-Stage Dementia",
       "excerpt": "Research suggests that how we type, sleep and speak may offer clues of cognitive decline.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-may-help-identify-patients-with-early-stage-dementia-11604329922?mod=tech_lead_pos11",
-      "originalUrl": "https://www.wsj.com/articles/ai-may-help-identify-patients-with-early-stage-dementia-11604329922?mod=tech_lead_pos11",
+      "webUrl": "https://www.wsj.com/articles/ai-may-help-identify-patients-with-early-stage-dementia-11604329922",
+      "originalUrl": "https://www.wsj.com/articles/ai-may-help-identify-patients-with-early-stage-dementia-11604329922",
       "featuredContent": null,
       "highlight": null,
       "heat": 97,
@@ -61,7 +157,7 @@
       "originalUrl": "https://www.wsj.com/articles/retailers-use-ai-to-improve-online-recommendations-for-shoppers-11604330308",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -101,50 +197,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-upgrad-sees-demand-in-digital-marketing-artificial-intelligence-machine-learning-courses.md",
-      "title": "upGrad sees demand in digital marketing, artificial intelligence, machine learning courses",
-      "excerpt": "Online career education company upGrad has seen rising demand for courses in the areas of Digital Marketing, Data Science, Machine Learning and Artificial Intelligence to name a few for mid-career pro",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/business/upgrad-sees-demand-in-digital-marketing-artificial-intelligence-machine-learning-courses/article33005649.ece",
-      "originalUrl": "https://www.thehindu.com/business/upgrad-sees-demand-in-digital-marketing-artificial-intelligence-machine-learning-courses/article33005649.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th.thgim.com/static/theme/default/base/img/og-image.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/business/upgrad-sees-demand-in-digital-marketing-artificial-intelligence-machine-learning-courses/article33005649.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/upgrad-sees-demand-in-digital-marketing-artificial-intelligence-machine-learning-courses/article33005649.ece/amp/",
-      "publishedDateTime": "2020-11-02T08:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Marketing"
       ]
     },
     {
@@ -293,11 +345,11 @@
       "title": "Artificial Intelligence in healthcare is racist",
       "excerpt": "Can broader datasets help developers avoid accidentally perpetuating deep-rooted biases in vital institutions like healthcare and education?",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/artificial-intelligence-in-healthcare-is-racist/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/artificial-intelligence-in-healthcare-is-racist/",
+      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/artificial-intelligence-in-healthcare-is-racist/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/artificial-intelligence-in-healthcare-is-racist/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -311,8 +363,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/artificial-intelligence-in-healthcare-is-racist/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/artificial-intelligence-in-healthcare-is-racist/",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/artificial-intelligence-in-healthcare-is-racist/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/artificial-intelligence-in-healthcare-is-racist/",
       "publishedDateTime": "2020-11-02T04:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -422,6 +474,49 @@
       "provider": {
         "name": "Daily Mail",
         "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-02-romanian-speech-therapy-startup-aims-to-raise-eur-290000.md",
+      "title": "Romanian speech therapy startup aims to raise EUR 290,000",
+      "excerpt": "VoxiKids, a platform dedicated to parents and speech therapists that aims to accelerate the recovery of children with speech and pronunciation deficiencies, aims to raise EUR 290,000 in exchange for 10.",
+      "sourceUrl": null,
+      "webUrl": "https://www.romania-insider.com/voxikids-speech-therapy-startup-financing-romania",
+      "originalUrl": "https://www.romania-insider.com/voxikids-speech-therapy-startup-financing-romania",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.romania-insider.com/sites/default/files/2020-11/ana_maria_onica_si_cristian_baita-_voxikids.png",
+          "width": 640,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.romania-insider.com/voxikids-speech-therapy-startup-financing-romania?amp",
+      "cdnAmpWebUrl": "https://www-romania--insider-com.cdn.ampproject.org/c/s/www.romania-insider.com/voxikids-speech-therapy-startup-financing-romania?amp",
+      "publishedDateTime": "2020-11-02T02:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Romania Insider",
+        "domain": "romania-insider.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -591,7 +686,7 @@
       "originalUrl": "https://thenextweb.com/neural/2020/11/02/ai-mistakes-referees-bald-head-for-football-hilarity-ensued/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1140,110 +1235,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-31-the-robot-ships-are-coming-eventually.md",
-      "title": "The Robot Ships Are Coming … Eventually",
-      "excerpt": "is testing an AI-based navigation and operations system designed by Tel Aviv startup Orca-AI. He doesn’t foresee operating his own fleet of robot ships, but instead wants to use an AI captain to reduce the number of officers on the bridge. “It will be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/mayflower-autonomous-ships/",
-      "originalUrl": "https://www.wired.com/story/mayflower-autonomous-ships/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f9b59334300a8c7fc0750b3/master/pass/business_ships_mayflower.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/mayflower-autonomous-ships/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/mayflower-autonomous-ships/amp",
-      "publishedDateTime": "2020-10-30T18:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-training-and-serving-h2o-models-using-amazon-sagemaker.md",
-      "title": "Training and serving H2O models using Amazon SageMaker",
-      "excerpt": "Model training and serving steps are two essential pieces of a successful end-to-end machine learning (ML) pipeline. These two steps often require different software and hardware setups to provide the best mix for a production environment. Model training is optimized for a low-cost, feasible total run",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/training-and-serving-h2o-models-using-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/training-and-serving-h2o-models-using-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/26/1-SolutionArchitecture-1-811x630.jpg",
-          "width": 811,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-30T16:43:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

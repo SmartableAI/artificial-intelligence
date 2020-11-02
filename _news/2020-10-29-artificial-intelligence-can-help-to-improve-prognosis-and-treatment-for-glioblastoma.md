@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2020-10-artificial-intelligence-progn
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-artificial-intelligence-prognosis-treatment-glioblastoma.amp"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -19,24 +19,6 @@ provider:
 topics:
   - AI in Healthcare
   - AI
-
-related:
-  - title: "Artificial Intelligence Helps Improve Treatment for Brain Tumor"
-    excerpt: "In patients with glioblastoma (brain tumor) artificial intelligence measures the amount of muscle to help improve prognosis and treatment, said researchers."
-    publishedDateTime: 2020-10-29T00:39:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-helps-improve-treatment-for-brain-tumor-198219-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-helps-improve-treatment-for-brain-tumor-198219-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-improve-treatment-for-brain-tumor-198219-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 74
-    images:
-      - url: "https://www.medindia.net/healthcare-directory/images/find-a-doctor-300x250.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "y/D7PI0z57VxqVuyePWXmFbZuJBI+6cx2Fog35vWiUHgguhjybOkB/vp4DOk63zv070uYv0ncykuVXvAJpAfdqv7wojN7FKmlfzRFUQtYGBQtr6MjUWDm9merPgHL3Gwq//+c6Ykkg+B1TvGxBV+Sl3SYeW2koSw4DnsPYBVrKjKo7NYhTWEQt96bFXEm1fpBPD4xNVCmmTmPOtOn1+poesTd8QasT5MrIWCvbT+ri/GZ5a35forUPycZuX3o2kng/h6M+mxsxISKEd0dF9DHssrcYRnRE8bNgmJwJuoM4xtcP/hZhQSZ/tMAY2y4l7lp8757ruD042+sao186WVxyHyGMsr9vVhQ6Dn3pwMhok=;DFzYmCcVW5QQIi33XqpRxQ=="
 ---

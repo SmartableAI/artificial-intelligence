@@ -140,6 +140,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-15-the-2020-ai-hw-summit-beware-the-benchmarks.md",
+      "title": "The 2020 AI HW Summit: Beware The Benchmarks",
+      "excerpt": "The founder and CEO, Jonathan Ross, claims his chip is the only 1000 TOPS AI processor—an impressive assertion to be sure. At the summit, he said the company is shipping samples to large ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/10/14/recap-the-2020-ai-hw-summit/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2020/10/14/recap-the-2020-ai-hw-summit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8735e73053aa8ee6859662%2F0x0.jpg",
+          "width": 877,
+          "height": 441,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/10/14/recap-the-2020-ai-hw-summit/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/10/14/recap-the-2020-ai-hw-summit/amp/",
+      "publishedDateTime": "2020-10-14T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-recap-the-2020-ai-hw-summit.md",
       "title": "Recap: The 2020 AI HW Summit",
       "excerpt": "One of the companies that did make some big disclosures at the event was stealthy startup SambaNova. Much like the UK’s GraphCore, SambaNova and its inference processing platform focus on solving some of the largest AI models, including natural language ...",
@@ -1366,49 +1418,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-artificial-intelligence-ai-chips-market-will-showcase-positive-impact-during-2020-2024-increasing-adoption-of-ai-chips-in-data-centers-to.md",
-      "title": "Artificial Intelligence (AI) Chips Market Will Showcase Positive Impact During 2020-2024 | Increasing Adoption of AI Chips in Data Centers to Boost the Market Growth | Technavio",
-      "excerpt": "Technavio has been monitoring the artificial intelligence (AI) chips market and it is poised to grow by USD 54.03 bn during 2020-2024, progressing at a CAGR of over 42% during the forecast period. The report offers an up-to-date analysis regarding the current market scenario,",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201005005351/en/Artificial-Intelligence-AI-Chips-Market-Will-Showcase-Positive-Impact-During-2020-2024-Increasing-Adoption-of-AI-Chips-in-Data-Centers-to-Boost-the-Market-Growth-Technavio",
-      "originalUrl": "https://www.businesswire.com/news/home/20201005005351/en/Artificial-Intelligence-AI-Chips-Market-Will-Showcase-Positive-Impact-During-2020-2024-Increasing-Adoption-of-AI-Chips-in-Data-Centers-to-Boost-the-Market-Growth-Technavio",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201005005351/en/827284/23/IRTNTR41328.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-05T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null

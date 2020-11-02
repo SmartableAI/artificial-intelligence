@@ -36,6 +36,15 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 13
+  - title: "Crowdsourcing startup wins FinTech Frontier pitch competition"
+    excerpt: "A Pittsburgh-based startup won FinTech Frontier’s inaugural pitch competition, and here's what the company had to say about Cincinnati."
+    publishedDateTime: 2020-11-02T17:37:00Z
+    webUrl: "https://www.bizjournals.com/cincinnati/inno/stories/news/2020/11/02/fintech-frontier-names-pitch-competition-winner.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "zYmQs7lPJRNp93oMFf15WunfeQzeh2GinSvf1z1jQ8xmtE1eUaurhME453m/Y5pk1tRr+or26G3oj6EWa0pakF50smDCFagMo4bQtkRPFE9bzLaJIf7EU7zQkhRGCcJQ0h9/Bma+FW3GQ2vvTa1yt0Upq/w/6hJA30vpl4KYyuZqz0ggCRnEs8RP3R+4Vxk1jw6IcgsurBbW02QUfZkP6295Mg7s4ypLLJrpufyyRFmwbizT6rIVUnWQAh4lJ4/d2jKPEgJGOCs833WcQq8NaAlqiWdloVwrHMXj4/QF7WU0FRlIGYgMKICsjEAxm3lZWZOUEysA0wWg0QwXF3yr4vf7h7a4qFLuL/zbRNyZIZs=;+6XZP3ySKnpt1EYObTtXmA=="
 ---

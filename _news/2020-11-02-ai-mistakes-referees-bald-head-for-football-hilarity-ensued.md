@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/11/02/ai-mistakes-referees-bald-h
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/02/ai-mistakes-referees-bald-head-for-football-hilarity-ensued/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
       - url: "https://cdn.iflscience.com/images/011d50c8-2fdd-5e0c-b11f-9072f1a95689/default-1603975163-cover-image.jpg"
         width: 720
         height: 405
+        isCached: true
+  - title: "AI Tracking Camera Mistakes Referee’s Bald Head for a Soccer Ball"
+    excerpt: "AI cameras have come a long way when it comes to object recognition and tracking, but sometimes the \"intelligence\" can fail in humorous ways. At a recent"
+    publishedDateTime: 2020-11-02T17:38:00Z
+    webUrl: "https://petapixel.com/2020/11/02/ai-tracking-camera-mistakes-referees-bald-head-for-a-soccer-ball/"
+    type: article
+    provider:
+      name: PetaPixel
+      domain: petapixel.com
+    quality: 37
+    images:
+      - url: "https://petapixel.com/assets/uploads/2020/11/baldheadfeat.jpg"
+        width: 1600
+        height: 840
         isCached: true
 
 secured: "I88BA9s2ZrgZQnd2vVjZOGXUaPv/zKX12pCZq4qPIyi3bl/yCeRtSSFgPNWVISPZEMZD9Klruyf/vDDXH/gTzKjD4Ux8pn3dW2fgPX1H/YlbqDCSCGI+0hlDhG+sHybec4s7uiQrxbTyi1qLutTWxvnlSFF1XJQhRcEGPG3Zs78voiP3EDVs+/M6Dvrxxe5yVxqpNr8uTephGU7CHzbTz7+rGOoJ62oQA1NnhVeSaC29LizsoQmXRBR1Vp0Lo/hAqsvnPaqhZjXV12GsPqum++osMtfCbldrQVnRYp0ub7/IK+0I3BS3tl5Syf1J39m2YwOEdNLs2OtXkZP14BgW0BZPDIdux00qMBPFlcr1WhEaDc7hzneYA5OuH7QSzAVijC/33xDgzXeyUcrksgS4BC3qO1WndfEefbiVWxzRWVXhIRintlja545HZ2blWzyi/hD0/PA6jEHd4B2CA5j3ym17uNedXaTGxRWAtqIHEgIzbt8yv9UM76sDM+hdIswfb9FN83eEa1MhWmIeqoM56A==;fkaFcWcQfNtoySTvGfF+Vw=="

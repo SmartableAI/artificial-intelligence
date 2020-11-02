@@ -750,50 +750,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-20-facebooks-new-polyglot-ai-can-translate-between-100-languages.md",
-      "title": "Facebook’s new polyglot AI can translate between 100 languages",
-      "excerpt": "The model, a culmination of various automated and machine learning techniques, is being open-sourced to the research community.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/?itm_source=parsely-api",
-      "originalUrl": "https://www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/?itm_source=parsely-api",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/10/edurne-chopeitia-5Z8mR4vqJD4-unsplash-e1603118496183.jpg?w=2142",
-          "width": 2142,
-          "height": 1206,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/amp/",
-      "publishedDateTime": "2020-10-20T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2020-10-20-all-the-new-ai-powered-features-adobe-announced-for-its-creative-suite.md",
       "title": "All the new AI-powered features Adobe announced for its creative suite",
       "excerpt": "Adobe is holding its virtual conference, Max, today, and it has announced a ton of updates to its products, from Photoshop to Illustrator and Premier Pro to Fresco. A lot of these features such as Sky Replacement in Photoshopped are powered by Adobe’s Sensei AI technology.",
@@ -896,6 +852,95 @@
         "Natural Language Processing",
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-outlook-2020-2026-cost-units-sales-revenues-applications.md",
+      "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Outlook 2020-2026: Cost, Units Sales, Revenues & Applications",
+      "excerpt": "This detailed and meticulously composed market research report on the Natural Language Processing (NLP) in Healthcare and Life Sciences Market discussed the various market growth tactics and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2164496/natural-language-processing-nlp-in-healthcare-and-life",
+      "originalUrl": "https://www.openpr.com/news/2164496/natural-language-processing-nlp-in-healthcare-and-life",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/a/Ta19983272_g.jpg",
+          "width": 800,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2164496/natural-language-processing-nlp-in-healthcare-and-life",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2164496/natural-language-processing-nlp-in-healthcare-and-life",
+      "publishedDateTime": "2020-10-19T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-facebooks-new-polyglot-ai-can-translate-between-100-languages.md",
+      "title": "Facebook’s new polyglot AI can translate between 100 languages",
+      "excerpt": "The model, a culmination of various automated and machine learning techniques, is being open-sourced to the research community. The news: Facebook is open-sourcing a new AI language model called ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/",
+      "originalUrl": "https://www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/10/edurne-chopeitia-5Z8mR4vqJD4-unsplash-e1603118496183.jpg?w=2142",
+          "width": 2142,
+          "height": 1206,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/amp/",
+      "publishedDateTime": "2020-10-19T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -1380,59 +1425,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-amazon-translate-ranked-as-1-machine-translation-provider-by-intento.md",
-      "title": "Amazon Translate ranked as #1 machine translation provider by Intento",
-      "excerpt": "Customer obsession, one of the key Amazon Leadership principles that guides everything we do at Amazon, has helped Amazon Translate be recognized as an industry leading neural machine translation provider.&nbsp;This year, Intento ranked Amazon Translate #1 on the list of top-performing machine translation",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-translate-ranked-as-1-machine-translation-provider-by-intento/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-translate-ranked-as-1-machine-translation-provider-by-intento/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/15/Intento.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-14T18:19:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

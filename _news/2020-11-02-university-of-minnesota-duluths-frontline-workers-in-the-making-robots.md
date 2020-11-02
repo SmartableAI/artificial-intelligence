@@ -6,8 +6,8 @@ publishedDateTime: 2020-11-02T13:56:00Z
 originalUrl: "https://www.duluthnewstribune.com/news/education/6731443-University-of-Minnesota-Duluths-frontline-workers-in-the-making-robots"
 webUrl: "https://www.duluthnewstribune.com/news/education/6731443-University-of-Minnesota-Duluths-frontline-workers-in-the-making-robots"
 type: article
-quality: 38
-heat: 38
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.duluthnewstribune.com/incoming/6739338-rx905s-110220.N.DNT.CovidBot-c01.JPG/alternates/BASE_LANDSCAPE/110220.N.DNT.CovidBot%20c01.JPG"

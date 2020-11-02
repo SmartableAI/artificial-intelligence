@@ -75,6 +75,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "AI Tracking Camera Mistakes Referee’s Bald Head for a Soccer Ball"
+    excerpt: "AI cameras have come a long way when it comes to object recognition and tracking, but sometimes the \"intelligence\" can fail in humorous ways. At a recent"
+    publishedDateTime: 2020-11-02T17:38:00Z
+    webUrl: "https://petapixel.com/2020/11/02/ai-tracking-camera-mistakes-referees-bald-head-for-a-soccer-ball/"
+    type: article
+    provider:
+      name: PetaPixel
+      domain: petapixel.com
+    quality: 37
+    images:
+      - url: "https://petapixel.com/assets/uploads/2020/11/baldheadfeat.jpg"
+        width: 1600
+        height: 840
+        isCached: true
 
 secured: "tUAPjZ0k7sALkCKMA715N3CacIHGaXQ2CT7aZ4ZKDznG4fLc/U9Tu7O8oPs+Y/H7D9dUiqqPCzAb+mwO+1fjSIMTX/fwOREKERkeXsGRiD2lpRX5TjbFj6nJ8RtSSgj4uLJRmtqiExfkpQweR7TPOsZAttUrEYQ560396227E0sxVcBavuGBM7KT23QmmvTgxL3L8YxFS3TVCm9HyMqQrUvbbr9uUXQkfQZ7NWWNORS7VDaZcWQYtL5yOY/yKREhru9271Qq9Nxhcqqai5TcR7+hUZHZq13/d5k34293EuYESTRWxOo3NtJri4V+xgwCRL2jUk2Ny5yJ19O27JyQBbpi0PQxNz56sPb3rl1aRY7QMbdgpabK32bWUkq4nUVo4w3Nodf/RNvZiRtk9mN9VAuf66141lFTBOboIh4liol8JuWH8XEAOXjdd4Ny4+sIwLNADIJxTvfXhOVlmHs3FmfSYEtZFH4xMWy1wn3WlYwnlMeCOTB1YBZD6zCjTzH4jjaMCdJf1PXsMgx+/qO5ww==;ft3sukn6vFlhQ3ARDyF9QA=="
 ---

@@ -264,7 +264,7 @@
       "originalUrl": "https://www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -469,19 +469,19 @@
     {
       "path": "_news/2020-10-28-diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod.md",
       "title": "DIU Selects Summit2Sea Consulting to Develop Artificial Intelligence Technology for the DoD",
-      "excerpt": "Summit2Sea will leverage AWS Sagemaker, a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning (ML) models quickly ...",
+      "excerpt": "Summit2Sea Consulting, has been selected by the Department of Defense (DoD) to prototype the Humanless Unmatched Transaction (HUnT) solution for the DoD. \"The solution builds data pipelines to financial transactions to train a Machine Learning model that directs corrective actions to robot workers,",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-301161877.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-301161877.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-1029735172",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-1029735172",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1321396/Summit2Sea___Brian_Eckle.jpg?p=facebook",
-          "width": 3721,
-          "height": 1948,
+          "url": "https://mma.prnewswire.com/media/1321396/Summit2Sea___Brian_Eckle.jpg",
+          "width": 340,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -491,12 +491,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T07:07:00-07:00",
+      "publishedDateTime": "2020-10-28T07:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -506,7 +515,8 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -618,7 +628,7 @@
     {
       "path": "_news/2020-10-27-dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration.md",
       "title": "dotData Announces Enhancement of MLOps Capability with dotData Stream and Amazon SageMaker Integration",
-      "excerpt": "SAN MATEO, Calif., Oct. 27, 2020 /PRNewswire/ -- dotData, a leader in AutoML 2.0 software to help accelerate AI/ML development and operationalization for the enterprise, today announced that ...",
+      "excerpt": "Amazon SageMaker is a fully managed service that provides developers and data scientists with the ability to deploy machine learning (ML) models quickly. Now, with simple point-and-click ...",
       "sourceUrl": null,
       "webUrl": "https://www.prnewswire.com/news-releases/dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration-301160215.html",
       "originalUrl": "https://www.prnewswire.com/news-releases/dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration-301160215.html",
@@ -654,9 +664,8 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -859,31 +868,22 @@
       "title": "Ironside Achieves AWS Advanced Consulting Partner Status",
       "excerpt": "The journey to AWS Advanced Consulting Partner status pushed us to gain valuable understanding of AWS and services like Amazon QuickSight, Amazon SageMaker, Amazon Redshift, and more, which ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201022005343/en/Ironside-Achieves-AWS-Advanced-Consulting-Partner-Status",
-      "originalUrl": "https://www.businesswire.com/news/home/20201022005343/en/Ironside-Achieves-AWS-Advanced-Consulting-Partner-Status",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/10/b18014673/ironside-achieves-aws-advanced-consulting-partner-status",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/b18014673/ironside-achieves-aws-advanced-consulting-partner-status",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201022005343/en/832585/23/IG_AWSpartner_Logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T06:18:00-07:00",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18014673",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18014673",
+      "publishedDateTime": "2020-10-22T06:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -900,33 +900,24 @@
     {
       "path": "_news/2020-10-22-data-reply-achieves-aws-machine-learning-competency-status.md",
       "title": "Data Reply Achieves AWS Machine Learning Competency Status",
-      "excerpt": "Data Reply, specialized in the design and implementation of advanced analytics and AI-powered data services, announced today that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status.",
+      "excerpt": "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-science-corporate-news-products-and-services-786f2a29fba3449bac8fd3b2bb23ebf3",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-science-corporate-news-products-and-services-786f2a29fba3449bac8fd3b2bb23ebf3",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/10/b18008856/data-reply-achieves-aws-machine-learning-competency-status",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/b18008856/data-reply-achieves-aws-machine-learning-competency-status",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T00:30:00-07:00",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18008856",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18008856",
+      "publishedDateTime": "2020-10-22T01:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

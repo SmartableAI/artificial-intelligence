@@ -48,6 +48,17 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 35
+  - title: "Global Cognitive Informatics Markets, 2020-2025 - Cognitive Informatics will become an Integral Component of Human-Machine Systems and Solutions"
+    excerpt: "The \"Cognitive Informatics Market by Technology, Solution, Sector, Industry Vertical, and Region 2020 - 2025\" report has been added to ResearchAndMarkets.com's offering. This report assesses the cognitive informatics market including technologies,"
+    publishedDateTime: 2020-11-02T17:22:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-cognitive-informatics-markets-2020-2025-cognitive-informatics-will-become-an-integral-component-of-human-machine-systems-and-solutions-1029753075"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/global-cognitive-informatics-markets-2020-2025-cognitive-informatics-will-become-an-integral-component-of-human-machine-systems-and-solutions-1029753075"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-cognitive-informatics-markets-2020-2025-cognitive-informatics-will-become-an-integral-component-of-human-machine-systems-and-solutions-1029753075"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 17
 
 secured: "xkjuk/QwLt4+UG1X58KHC3H+lfnPYWJybL+Lcmh8FIwxWXw5qeyBbvhfx7WEL/6rWFoVr4C6DcpgU6jI+HV9MDcEQ3SXQWCjVAqbmq78DXxe1gOACUI9as/exWKuVx4dJ8YRiZVQQcn5v9h/4Wm1vGIrRX3UsbTxplq8vW28w8raruePP/dExEXRimiLSucxOycFrSRlCSxEiUk5SEdqVwGXm94fohNgGBINIGL6Cl6W4InU/1o7HLius8r5CnRKwBMtqR9jXpDEimrJsQES0AqrCvRhe+UceexA1yEdMxnJ58p9Z5QWonb05OjuAzbrQ4QgcGrMmzjOdZfdy8cSovPzcXDYUjzXWk7KCooVDfc=;tzADnA8nbnCdApz/JlYp2A=="
 ---

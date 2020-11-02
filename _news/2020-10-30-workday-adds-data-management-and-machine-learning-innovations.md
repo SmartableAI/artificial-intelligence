@@ -48,6 +48,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Workday extends platform for financial organisations"
+    excerpt: "Workday Accounting Centre is now generaly available and Workday has also powered up Workday Adaptive planning with ML based forecasting."
+    publishedDateTime: 2020-11-02T15:43:00Z
+    webUrl: "https://www.enterprisetimes.co.uk/2020/11/02/workday-extends-platform-for-financial-organisations/"
+    type: article
+    provider:
+      name: enterprisetimes.co.uk
+      domain: enterprisetimes.co.uk
+    quality: 24
+    images:
+      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2020/11/binary-data-world.jpg"
+        width: 728
+        height: 410
+        isCached: true
   - title: "Workday, Inc.: Workday Delivers Data Management and Machine Learning Innovations for the Changing World of Finance"
     excerpt: "Advances in Managing Data Create New Levels of Insight and Performance Accountability for Today's Agile OrganizationsPLEASANTON, Calif., Oct. 29, 2020 (GLOBE NEWSWIRE) -- Workday Inc ("
     publishedDateTime: 2020-10-29T12:05:00Z

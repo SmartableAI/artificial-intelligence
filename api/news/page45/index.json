@@ -2,6 +2,265 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-09-25-nec-face-recognition-engine-provides-highly-accurate-results-even-when-face-masks-are-worn.md",
+      "title": "NEC Face Recognition Engine Provides Highly Accurate Results Even When Face Masks are Worn",
+      "excerpt": "As part of this, governments around the world are encouraging the use of face masks as a basic measure to combat infections under the \"New Normal.\" In conjunction with this, there is a need for face recognition technologies to adapt,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/09/a17651638/nec-face-recognition-engine-provides-highly-accurate-results-even-when-face-masks-are-worn",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/09/a17651638/nec-face-recognition-engine-provides-highly-accurate-results-even-when-face-masks-are-worn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17651638",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17651638",
+      "publishedDateTime": "2020-09-24T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-transforming-advertisement-and-graphic-design-through-ai.md",
+      "title": "Transforming advertisement and graphic design through AI",
+      "excerpt": "From Gmail’s smart compose, which recommends what to type next, to Facebook recommending who to tag by ... It is in fact, one of the most recent trends in AI. Recent global research found that nearly 73% of the customers expect a personalized experience ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.searchenginewatch.com/2020/09/08/transforming-advertisement-and-graphic-design-through-ai/",
+      "originalUrl": "https://www.searchenginewatch.com/2020/09/08/transforming-advertisement-and-graphic-design-through-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.searchenginewatch.com/wp-content/uploads/2020/09/Transforming-advertisement-and-graphic-design-through-AI.png",
+          "width": 728,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.searchenginewatch.com/2020/09/08/transforming-advertisement-and-graphic-design-through-ai/amp/",
+      "cdnAmpWebUrl": "https://www-searchenginewatch-com.cdn.ampproject.org/c/s/www.searchenginewatch.com/2020/09/08/transforming-advertisement-and-graphic-design-through-ai/amp/",
+      "publishedDateTime": "2020-09-24T22:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Search Engine Watch",
+        "domain": "searchenginewatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-ai-machine-learning-breakthrough-is-a-twist-on-brain-replay.md",
+      "title": "AI Machine Learning Breakthrough Is a Twist on Brain Replay",
+      "excerpt": "From a neuroscience perspective, the concept of brain replay is analogous to a streaming service that activates repeat showings from its vast archives of stored pre-recorded content. The brain can replay memories by reactivating the neural activity patterns that represent prior experiences whether asleep or awake.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.psychologytoday.com/sites/default/files/styles/magazine_240x308/public/field_magazine_cover/2020-09.png?itok=8uWeigq4",
+          "width": 384,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202009/ai-machine-learning-breakthrough-is-twist-brain-replay?amp",
+      "publishedDateTime": "2020-09-24T21:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-10-mlops-platforms-to-manage-the-machine-learning-lifecycle.md",
+      "title": "10 MLops platforms to manage the machine learning lifecycle",
+      "excerpt": "We’ve identified several cloud platforms and frameworks for managing the machine learning lifecycle. These currently include Algorithmia, Amazon SageMaker, Azure Machine Learning, Domino Data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/683217/10-mlops-platforms-manage-machine-learning-lifecycle/",
+      "originalUrl": "https://www.arnnet.com.au/article/683217/10-mlops-platforms-manage-machine-learning-lifecycle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/m.jpg",
+          "width": 700,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-24T21:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-ai-system-detects-loneliness-in-natural-speech-patterns.md",
+      "title": "AI system detects loneliness in natural speech patterns",
+      "excerpt": "A new proof of concept study, led by researchers at University of California San Diego School of Medicine, has demonstrated how speech-analyzing artificial intelligence tools can effectively predict the level of loneliness in older adults.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/",
+      "originalUrl": "https://newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/78f4ee9/2147483647/strip/true/crop/2000x1333+0+4/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fc1%2F6c%2F6dec48c041d6aa9d714bfb5dfa8a%2Fdepositphotos-59728757-l-2015.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/health-wellbeing/ai-loneliness-natural-speech-language/?amp=true",
+      "publishedDateTime": "2020-09-24T19:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.md",
+      "title": "Microsoft Ignite showcases first Project Cortex AI tool for SharePoint",
+      "excerpt": "Civil engineering firm Mott McDonald has been testing SharePoint Syntex, the first product to come out of Microsoft’s Project Cortex proving ground for AI-based content management tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.html",
+      "originalUrl": "https://www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/09/multiple-exposure_profile_with_gears_overlaying_and_representing_the_brain_thought_intelligence_brainstorming_strategy_by_metamorworks_gettyimages-994767724_2400x1600-100858219-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.amp.html",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.amp.html",
+      "publishedDateTime": "2020-09-24T18:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-monash-university-researchers-speed-up-epilepsy-diagnosis-with-machine-learning.md",
       "title": "Monash University researchers speed up epilepsy diagnosis with machine learning",
       "excerpt": "A new study by Monash University, together with Alfred Health and The Royal Melbourne Hospital, has uncovered how machine learning technology could be used to automate epilepsy diagnosis. As part of the study,",
@@ -929,290 +1188,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-microsoft-announces-azure-communication-services.md",
-      "title": "Microsoft announces Azure Communication Services",
-      "excerpt": "It also enables developers to easily tap into other Azure services, such as Azure Cognitive Services for ... and GDPR (in the EU),\" Microsoft said in a statement on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sify.com/finance/microsoft-announces-azure-communication-services-news-topnews-ujyeO9fgegihh.html",
-      "originalUrl": "https://www.sify.com/finance/microsoft-announces-azure-communication-services-news-topnews-ujyeO9fgegihh.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sify.com/uploads/microsoft_ap_uitr0fihdhehb.jpeg",
-          "width": 950,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-24T03:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-waymo-expands-its-partnerships-in-phoenix-teams-up-with-walmart-and-avis.md",
-      "title": "Waymo expands its partnerships in Phoenix, teams up with Walmart and Avis",
-      "excerpt": "Waymo, the former Google self-driving car project, is stepping up its efforts to get autonomous-driving tech ready for prime time. After an initial trial run in Arizona, Waymo expanded its fully ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cars/waymo-arizona-early-rider-program/",
-      "originalUrl": "https://www.digitaltrends.com/cars/waymo-arizona-early-rider-program/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/waymo-arizona-early-rider-program/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymo-arizona-early-rider-program/?amp",
-      "publishedDateTime": "2020-09-24T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-robust-autonomous-navigation-based-on-artificial-intelligence-approaches-phd.md",
-      "title": "Robust Autonomous Navigation Based on Artificial Intelligence Approaches PhD",
-      "excerpt": "This is an excellent fully-funded PhD opportunity in the area of autonomy, navigation, and artificial intelligence, aiming to pave a way to wider implementation of autonomous systems, such as drones or self-driving cars into our everyday life. Although ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.suasnews.com/2020/09/robust-autonomous-navigation-based-on-artificial-intelligence-approaches-phd/",
-      "originalUrl": "https://www.suasnews.com/2020/09/robust-autonomous-navigation-based-on-artificial-intelligence-approaches-phd/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/www.suasnews.com/wp-content/uploads/2019/07/201907CASCADE-June-testingplanes800x450.jpg?fit=800%2C450&ssl=1",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.suasnews.com/2020/09/robust-autonomous-navigation-based-on-artificial-intelligence-approaches-phd/amp/",
-      "cdnAmpWebUrl": "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2020/09/robust-autonomous-navigation-based-on-artificial-intelligence-approaches-phd/amp/",
-      "publishedDateTime": "2020-09-24T03:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SUAS News",
-        "domain": "suasnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-where-are-all-the-self-driving-cars-we-were-promised.md",
-      "title": "Where are all the self-driving cars we were promised?",
-      "excerpt": "Join us at TNW2020 where we will discuss the future of autonoous driving and how we can make it safe with industry experts.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/shift/2020/09/24/whats-needed-to-get-safe-self-driving-cars-on-our-roads-autopilot/",
-      "originalUrl": "https://thenextweb.com/shift/2020/09/24/whats-needed-to-get-safe-self-driving-cars-on-our-roads-autopilot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/third-autopilot-tesla-propilot-cruise-self-driving-autonomy-cars-EV-future-mobility-driving-796x448.png",
-          "width": 796,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/shift/2020/09/24/whats-needed-to-get-safe-self-driving-cars-on-our-roads-autopilot/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/09/24/whats-needed-to-get-safe-self-driving-cars-on-our-roads-autopilot/amp/",
-      "publishedDateTime": "2020-09-24T02:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-ripjar-founded-by-gchq-alums-raises-368m-for-ai-that-detects-financial-crime.md",
-      "title": "Ripjar, founded by GCHQ alums, raises $36.8M for AI that detects financial crime",
-      "excerpt": "Financial crime as a wider category of cybercrime continues to be one of the most potent of online threats, covering nefarious actives as diverse as fraud, money laundering and funding terrorism. Today,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/24/ripjar-founded-by-gchq-alums-raises-36-8m-for-ai-that-detects-financial-crime/",
-      "originalUrl": "https://techcrunch.com/2020/09/24/ripjar-founded-by-gchq-alums-raises-36-8m-for-ai-that-detects-financial-crime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1142858578.jpg?w=1024",
-          "width": 1024,
-          "height": 770,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/24/ripjar-founded-by-gchq-alums-raises-36-8m-for-ai-that-detects-financial-crime/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/24/ripjar-founded-by-gchq-alums-raises-36-8m-for-ai-that-detects-financial-crime/amp/",
-      "publishedDateTime": "2020-09-24T01:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-tomorrow-socratesai-to-host-webinar-giving-your-company-a-single-voice.md",
-      "title": "Tomorrow: Socrates.ai to Host Webinar \"Giving Your Company a Single Voice\"",
-      "excerpt": "During this webinar, Socrates.ai will get to the heart of this problem, explaining how and why companies can speak with a single voice. Attendees will learn how artificial intelligence helps close the information gap to ensure employees get accurate answers to their questions and take away the insights needed to create a frictionless workforce experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/tomorrow-socratesai-to-host-webinar-giving-your-company-a-single-voice-2020-09-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/tomorrow-socratesai-to-host-webinar-giving-your-company-a-single-voice-2020-09-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-24T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

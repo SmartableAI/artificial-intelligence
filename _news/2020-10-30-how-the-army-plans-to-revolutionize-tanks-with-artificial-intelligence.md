@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Real AI Revolution: Machines That Learn Like Scientists"
+    excerpt: "In this compelling white paper, our friends over at causaLens highlight how ML has wrongly become synonymous with AI. We must shake off this misconception to start  the real AI revolution. Data science must forgo its reliance on curve-fitting ML and return to its roots;"
+    publishedDateTime: 2020-11-02T17:24:00Z
+    webUrl: "https://insidebigdata.com/2020/11/02/the-real-ai-revolution-machines-that-learn-like-scientists/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 37
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2020/10/CausaLens_whitepaper.png"
+        width: 300
+        height: 434
+        isCached: true
 
 secured: "he1EbZGhwZbE3r5v4elXgobv2ebp2WCjwtJq0XQwVhcZPXl1+p8sL234JRuJ4ZSjMTySu78MeWV4+Mp3dQYeKtmttw2Af9tGd9in3QnhXahS9uKbGnbYwfVx13LZrEBvWT6zmhtgc1t7A98TSEWl09/b8oCYaXXGV947XR4pHynLbA3CbOJBP6JvJCCNQdIRFqQygOnu9EkAlYBpnFLnfLh4YaNm4sciqJhQomgwOx4ImE0RExbSd6/itgzVfcjJQH1nW2xAMDvX3MZ6/fIZbuYFNYRE2qBppRiaVTbPDHCMj6YZYJvDzwdroHJ83Y65wndia40u6dknzu+PQZZIdT7JlIEDAo2X5hIUycFg2a0=;fWXy7M2dy3UJzJCtQ3bJAQ=="
 ---

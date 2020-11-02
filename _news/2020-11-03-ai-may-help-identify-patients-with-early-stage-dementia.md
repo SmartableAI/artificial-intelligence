@@ -3,8 +3,8 @@ category: news
 title: "AI May Help Identify Patients With Early-Stage Dementia"
 excerpt: "Research suggests that how we type, sleep and speak may offer clues of cognitive decline."
 publishedDateTime: 2020-11-02T16:23:00Z
-originalUrl: "https://www.wsj.com/articles/ai-may-help-identify-patients-with-early-stage-dementia-11604329922?mod=tech_lead_pos11"
-webUrl: "https://www.wsj.com/articles/ai-may-help-identify-patients-with-early-stage-dementia-11604329922?mod=tech_lead_pos11"
+originalUrl: "https://www.wsj.com/articles/ai-may-help-identify-patients-with-early-stage-dementia-11604329922"
+webUrl: "https://www.wsj.com/articles/ai-may-help-identify-patients-with-early-stage-dementia-11604329922"
 ampWebUrl: "https://www.wsj.com/amp/articles/ai-may-help-identify-patients-with-early-stage-dementia-11604329922"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-may-help-identify-patients-with-early-stage-dementia-11604329922"
 type: article
@@ -40,6 +40,6 @@ related:
       domain: nanowerk.com
     quality: 17
 
-secured: "AKIk2Vm/7aENgvvqArOC+3fwr1AG405ZRxnZEoKMnEjuo/8/DDGbjBUy+NoV6uICDoEx+DTZPfeHEjOnMHUhCC4BQmNCqELS2slO48/gF4SemP1q+RVi5XHJvC2qbnzaSQ5kQqLdWtlnq6Csa+f1mzHGokbmMpfJM4vAlCkMRoQyVt8NQmM9NWwitFIcVTZFgbS73woqYK380CQsmfuzrHwww+Uq8kE7N0mIi+HBDGTpZACHEI1t3upBiWS7PtEKQMsY2UzARGEQ/IvkSiRCDPUzoQy+B0tDNrv/R9dNTDbONDQjKX1fZlPsXEzVJ+kNaogzf+8aiPl1E8AsU9ee6SLC1SDdFz8ZbFRsQiLbrSM=;vWsQixFUpFXar6wssbFCiA=="
+secured: "TVaqHXteNf6kjP1txAbF2AtwjPNXGqUKCGMZylycjPi9nGnn025oez75T/h6Nm6xoHtw5/PExlk554jwkKP8zAB2X3WlKRBztbW6lM0An8W9CPtjAHKMv+flqXyQUVt5W7RVC252phOjGzaZocKJ4BCwHeqOovZqXrDWRe8FGFoNrvJq9ewMbqPbtBaI18MwclZ+h6aCDxlr63zhMrDrDItAL8MLlek5NY7IhPy9EamAApJSPbASSsQ8kMqx/3kQqeM1RRmxWlLMxXJ63j4xR36HkooN65ArPCQcwfctvRtTQh/DsAmovm0PoodBHeUUn7uvphWFk9JRC3NNq6FAmFDDjsTGLL9YzhveC6K3lyA=;raTOUurNSIteN3UBdxBRIw=="
 ---
 

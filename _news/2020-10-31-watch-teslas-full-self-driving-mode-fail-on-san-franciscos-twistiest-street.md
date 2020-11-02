@@ -155,6 +155,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Tesla Full Self-Driving feature now costs $10,000"
+    excerpt: "Tesla's long-promised Full Self-Driving mode reached its first customers in beta form a week and a half ago and we've already received a look at how the system operates on local roads, thanks to people on social media. Some report flawless activity ..."
+    publishedDateTime: 2020-11-02T16:58:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-elon-musk-price/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-elon-musk-price/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-elon-musk-price/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/nMvuev24_7LHftSxIEiOh_ZvANo=/2020/10/22/5c6fc05c-509c-4f29-a9bd-4cad1b4aded2/ogi-autopilot.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Watch Tesla Full Self-Driving Beta’s performance from the sky with scary near-miss"
     excerpt: "Today, we take a look at an interesting new video showing Tesla Full Self-Driving Beta’s performance from the sky in a new drone video with a scary near-miss. As we reported last week, Tesla has started pushing the first version of its “Full Self-Driving” feature that autonomously navigates on both city streets and highways."
     publishedDateTime: 2020-10-30T16:18:00Z
@@ -394,6 +410,20 @@ related:
       - url: "https://images.hgmsites.net/hug/2020-tesla-model-x_100736314_h.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Tesla Full Self-Driving feature now costs $10,000 - Roadshow"
+    excerpt: "The beta launched about a week and a half ago, and just like Elon Musk said, it now costs even more. The Room Where It Happened : A White House Memoir Hardcover – 23 Jun. 2020 by John Bolton (Author)."
+    publishedDateTime: 2020-11-02T16:55:00Z
+    webUrl: "https://www.newsoneplace.com/35769121911/tesla-full-roadshow"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 39
+    images:
+      - url: "https://images.weserv.nl/?url=https://cnet2.cbsistatic.com/img/gUlN4T2SkhI7wAyYiUD5m-OfCDc=/300x0/2020/10/22/613c9fca-4810-4f51-8a0f-4e212fb6da48/tesla-autopilot.jpg&h=250"
+        width: 375
+        height: 250
         isCached: true
   - title: "Tesla hikes price of 'Full Self-Driving' option to $10,000"
     excerpt: "Soon after the launch of the 'Full Self Driving (FSD) set of features to a limited number of expert and careful drivers, the electric car maker Tesla has increased the price of the new option to $10,000 from $8,000. The price of the 'Full Self-Driving ..."

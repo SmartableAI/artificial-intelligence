@@ -35,6 +35,15 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Crowdsourcing startup wins FinTech Frontier pitch competition"
+    excerpt: "A Pittsburgh-based startup won FinTech Frontier’s inaugural pitch competition, and here's what the company had to say about Cincinnati."
+    publishedDateTime: 2020-11-02T17:37:00Z
+    webUrl: "https://www.bizjournals.com/cincinnati/inno/stories/news/2020/11/02/fintech-frontier-names-pitch-competition-winner.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "gKl8Y/NhNrbUcSsIzaQoGfvG0Gec9+6PUXmTMHRLP/b14hHZyhhSN28zMdvo1uxam/EV0kHjKfAFoP4xEFZ9EzqZNIhbTVIwS2G2UT0X1iJJjaFxaSIDACdnBL9mwbEqeFAyt7fRmwNf+wb6rtfPZfyNoqAikvBcOc2DSoFfoM9iE/9z/wRgSwWTQRqzUeOF2rweXj9GiKYk8bwF3qJ8BpmpSDtZ0sEn9BIFhB8SoScQ/R0X2+em3k8C57WzUSWCL6PFU/MPjgstrQbR+QeUCUo3eHuVKVdjeNerjoRiPg7hnH6g640k52APyOwns1TzkjDX9eSLyJkUtHADnqHjJTv9KQ40KfhMVfsesfRhbdqDuZ7aRiE8Lk/s8QV9KyI9RRkduaafFupG926BvOvceRgN8tI0bGR5liRH+boh4oeP261802e9pICbxouG49xCr2vG0s4cgQtdndLLbBt8uhOXRsZbKNszBhr5MeNChb/2qAkhUWvGgxBsXK1RA2TVwF0TEJVcz12LAV2cxpyh0A==;ZQq/LyaZTgT+SFvuZdT51A=="
 ---

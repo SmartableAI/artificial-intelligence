@@ -2,6 +2,231 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-10-14-artificial-intelligence-in-healthcare-market-set-to-take-giant-positive-leap.md",
+      "title": "Artificial Intelligence in Healthcare Market Set to Take Giant Positive Leap",
+      "excerpt": "The Artificial Intelligence in Healthcare Market research report includes Market Size, Upstream Situation, Market Segmentation, Artificial Intelligence in Healthcare Market Segmentation, Price & Cost And Industry Environment. In addition, the report ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2158176/artificial-intelligence-in-healthcare-market-set-to-take-giant",
+      "originalUrl": "https://www.openpr.com/news/2158176/artificial-intelligence-in-healthcare-market-set-to-take-giant",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/a/Ta13437067_g.jpg",
+          "width": 800,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2158176/artificial-intelligence-in-healthcare-market-set-to-take-giant",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2158176/artificial-intelligence-in-healthcare-market-set-to-take-giant",
+      "publishedDateTime": "2020-10-13T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone.md",
+      "title": "Saturn Cloud Enables Easy and Powerful NVIDIA GPU Computing For Everyone",
+      "excerpt": "Today, Saturn Cloud, the GPU data science company, announces the launch of Saturn Cloud Hosted, an open platform for multi-node multi-GPU computing in the cloud. The platform is available to anyone and everyone: corporations,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone-1029675847",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone-1029675847",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone-1029675847",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/saturn-cloud-enables-easy-and-powerful-nvidia-gpu-computing-for-everyone-1029675847",
+      "publishedDateTime": "2020-10-13T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-apple-unveils-99-homepod-mini-with-u1-proximity-chip.md",
+      "title": "Apple unveils $99 HomePod mini with U1 proximity chip",
+      "excerpt": "The HomePod mini is Apple's second smart speaker, and uses the U1 chip for communicating with nearby Apple devices.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/13/apple-unveils-99-homepod-mini-with-u1-proximity-chip/",
+      "originalUrl": "https://venturebeat.com/2020/10/13/apple-unveils-99-homepod-mini-with-u1-proximity-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/homepod-mini.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/13/apple-unveils-99-homepod-mini-with-u1-proximity-chip/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/13/apple-unveils-99-homepod-mini-with-u1-proximity-chip/amp/",
+      "publishedDateTime": "2020-10-13T11:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-innovaccers-data-activation-platform-now-on-microsoft-cloud-for-healthcare.md",
+      "title": "Innovaccer's Data Activation Platform Now on Microsoft Cloud for Healthcare",
+      "excerpt": "Innovaccer, Inc., a leading healthcare technology company, recently announced that it is supporting Microsoft Cloud for Healthcare with its FHIR-enabled Data Activation Platform. Microsoft Cloud is committed to improving connectedness to drive superior performance across providers,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/innovaccer-s-data-activation-platform-now-on-microsoft-cloud-for-healthcare-1029675741",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/innovaccer-s-data-activation-platform-now-on-microsoft-cloud-for-healthcare-1029675741",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/innovaccer-s-data-activation-platform-now-on-microsoft-cloud-for-healthcare-1029675741",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/innovaccer-s-data-activation-platform-now-on-microsoft-cloud-for-healthcare-1029675741",
+      "publishedDateTime": "2020-10-13T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature.md",
+      "title": "Tisane Labs' Solutions on Microsoft Azure Add Wikidata Extraction Feature",
+      "excerpt": "Tisane Labs, a supplier of text analytics AI solutions, today announced a new feature in Tisane API, already available on Microsoft",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-301151377.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-301151377.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-13T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-makinarocks-research-published-by-deep-learning-sectors-premier-conference-iclr-2020.md",
       "title": "MakinaRocks research published by Deep Learning sector’s premier conference, ICLR 2020",
       "excerpt": "MakinaRocks (  a startup specializing in industrial AI solutions, announced on October 13th, the success of their RaPP-based anomaly detection research paper, selected and published by the International Conference on Learning Representations (ICLR),",
@@ -913,222 +1138,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-announcing-advanced-azure-machine-learning-nanodegree-program-with-udacity.md",
-      "title": "Announcing advanced Azure Machine Learning nanodegree program with Udacity",
-      "excerpt": "Earlier this year we announced a free ‘introduction to Machine Learning’ course with Udacity, empowering 10,000 scholars from all over the world to learn the basics of machine learning. Today, we announce the new Machine Learning Engineer for Microsoft Azure Nanodegree Program on Udacity—students can",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/announcing-advanced-azure-machine-learning-nanodegree-program-with-udacity/",
-      "originalUrl": "https://azure.microsoft.com/blog/announcing-advanced-azure-machine-learning-nanodegree-program-with-udacity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-13T02:00:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-imagination-technologies-launches-powervr-multi-core-gpus-for-iot-to-autonomous-cars.md",
-      "title": "Imagination Technologies launches PowerVR multi-core GPUs for IoT to autonomous cars",
-      "excerpt": "And the four families of the GPUs can be used with internet of things devices, low-end to high-end smartphones, cloud computing systems, digital TVs, desktops, and autonomous cars. The new designs are Imagination ‘s latest intellectual property,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/13/imagination-technologies-launches-powervr-multi-core-gpus-for-iot-to-autonomous-cars/",
-      "originalUrl": "https://venturebeat.com/2020/10/13/imagination-technologies-launches-powervr-multi-core-gpus-for-iot-to-autonomous-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/img-PowerVR-GPU-B-Series-BXE.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/13/imagination-technologies-launches-powervr-multi-core-gpus-for-iot-to-autonomous-cars/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/13/imagination-technologies-launches-powervr-multi-core-gpus-for-iot-to-autonomous-cars/amp/",
-      "publishedDateTime": "2020-10-13T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-cloudcommerce-adds-artificial-intelligence-ai-layer-to-swarm.md",
-      "title": "CloudCommerce Adds Artificial Intelligence (AI) Layer to SWARM",
-      "excerpt": "( CLWD ), a leading provider of digital advertising solutions, today announced that it has entered into a license agreement with Pattern89 to add its artificial intelligence (AI) technology to SWARM,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-marketing-and-advertising-corporate-news-products-and-services-9810f74b52d1cedcdaee6c67344d828a",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-marketing-and-advertising-corporate-news-products-and-services-9810f74b52d1cedcdaee6c67344d828a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-13T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-3-stocks-to-profit-on-autonomous-cars.md",
-      "title": "3 Stocks to Profit on Autonomous Cars",
-      "excerpt": "The race to get the world’s first fully functional autonomous vehicle is heating up nicely, with several companies targeting the 2021 launch window. The industry’s progress has been halted ...",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2020/10/3-stocks-to-buy-for-self-driving-cars/",
-      "originalUrl": "https://investorplace.com/2020/10/3-stocks-to-buy-for-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/07/autonomouscar1600c.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2020/10/3-stocks-to-buy-for-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/10/3-stocks-to-buy-for-self-driving-cars/amp/",
-      "publishedDateTime": "2020-10-12T23:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-robots-will-watch-learn-and-reason-in-ais-augmented-reality.md",
-      "title": "Robots will watch, learn and reason in AI’s augmented reality",
-      "excerpt": "Australia has no choice but to step up investment in artificial intelligence, says Anton van den Hengel, whose Adelaide research group was awarded 20m in the federal budget last week to boost Australias position in this highly competitive research field.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theaustralian.com.au/higher-education/robots-will-watch-learn-and-reason-in-ais-augmented-reality/news-story/30375dcae3064446ee0de5857d00f04d",
-      "originalUrl": "https://www.theaustralian.com.au/higher-education/robots-will-watch-learn-and-reason-in-ais-augmented-reality/news-story/30375dcae3064446ee0de5857d00f04d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theaustralian.com.au/higher-education/robots-will-watch-learn-and-reason-in-ais-augmented-reality/news-story/30375dcae3064446ee0de5857d00f04d",
-      "cdnAmpWebUrl": "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/higher-education/robots-will-watch-learn-and-reason-in-ais-augmented-reality/news-story/30375dcae3064446ee0de5857d00f04d",
-      "publishedDateTime": "2020-10-12T23:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Australian",
-        "domain": "theaustralian.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

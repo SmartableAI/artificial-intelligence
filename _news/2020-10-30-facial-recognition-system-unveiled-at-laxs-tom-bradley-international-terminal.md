@@ -37,6 +37,17 @@ related:
         width: 750
         height: 350
         isCached: true
+  - title: "Global Cognitive Informatics Markets, 2020-2025 - Cognitive Informatics will become an Integral Component of Human-Machine Systems and Solutions"
+    excerpt: "The \"Cognitive Informatics Market by Technology, Solution, Sector, Industry Vertical, and Region 2020 - 2025\" report has been added to ResearchAndMarkets.com's offering. This report assesses the cognitive informatics market including technologies,"
+    publishedDateTime: 2020-11-02T17:22:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-cognitive-informatics-markets-2020-2025-cognitive-informatics-will-become-an-integral-component-of-human-machine-systems-and-solutions-1029753075"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/global-cognitive-informatics-markets-2020-2025-cognitive-informatics-will-become-an-integral-component-of-human-machine-systems-and-solutions-1029753075"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-cognitive-informatics-markets-2020-2025-cognitive-informatics-will-become-an-integral-component-of-human-machine-systems-and-solutions-1029753075"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 17
   - title: "Global Speech and Voice Recognition Technologies Market Size, Share, Demand And Remarkable Growth Rate Till 2026 | Zion Market Research"
     excerpt: "The Zion Market Research added a new report “Speech and Voice Recognition Technologies Market by Technology (Speaker Identification, Speaker Verification, Speech Recognition, Automatic Speech Recognition, Text to Speech, and Others), by Application ..."
     publishedDateTime: 2020-10-30T10:00:00Z

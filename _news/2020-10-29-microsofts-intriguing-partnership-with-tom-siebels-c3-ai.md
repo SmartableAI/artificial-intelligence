@@ -77,52 +77,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Inspired by Netflix original movie, Microsoft wants to teach you AI and Machine Learning"
-    excerpt: "Microsoft has come to terms with Netflix to teach learners concepts in data science, machine learning, and artificial intelligence (AI)."
-    publishedDateTime: 2020-10-29T01:09:00Z
-    webUrl: "https://news.thewindowsclub.com/inspired-by-netflix-original-movie-microsoft-wants-to-teach-you-ai-103867/"
-    ampWebUrl: "https://news.thewindowsclub.com/inspired-by-netflix-original-movie-microsoft-wants-to-teach-you-ai-103867/amp/"
-    cdnAmpWebUrl: "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/inspired-by-netflix-original-movie-microsoft-wants-to-teach-you-ai-103867/amp/"
-    type: article
-    provider:
-      name: TWCN Tech News
-      domain: thewindowsclub.com
-    quality: 82
-    images:
-      - url: "https://news.thewindowsclub.com/wp-content/uploads/2020/10/Over-the-Moon-Netflix-Microsoft.jpg"
-        width: 700
-        height: 394
-        isCached: true
-  - title: "No Coding Experience Necessary: Microsoft Offers DIY Tool To Build AI Models"
-    excerpt: "Microsoft wants to make it easier for anyone to build machine learning systems through the release of a newly revamped app that caters to people with little or no coding experience. Microsoft Lobe, which is available in public preview this week, allows ..."
-    publishedDateTime: 2020-10-29T01:22:00Z
-    webUrl: "https://www.adweek.com/performance-marketing/no-coding-experience-necessary-microsoft-offers-diy-tool-to-build-ai-models/"
-    ampWebUrl: "https://www.adweek.com/performance-marketing/no-coding-experience-necessary-microsoft-offers-diy-tool-to-build-ai-models/amp/"
-    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/performance-marketing/no-coding-experience-necessary-microsoft-offers-diy-tool-to-build-ai-models/amp/"
-    type: article
-    provider:
-      name: Adweek
-      domain: adweek.com
-    quality: 73
-    images:
-      - url: "https://www.adweek.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-28-at-4.23.00-PM-1024x548.jpg"
-        width: 1024
-        height: 548
-        isCached: true
-  - title: "Microsoft launches its industry-focused Cloud for Healthcare platform"
-    excerpt: "It later sold its interest in Caradigm before establishing a healthcare-focused artificial intelligence research unit, called Healthcare NexT, in 2017. Show your support for our mission with our ..."
-    publishedDateTime: 2020-10-29T01:18:00Z
-    webUrl: "https://siliconangle.com/2020/10/28/microsoft-launches-industry-focused-cloud-healthcare-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 56
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/RE4vhVe.jpg"
-        width: 1259
-        height: 708
-        isCached: true
 
 secured: "abmuxpsbdopL3qdC1DowwFb/nMzFHZntOrsAn7VISshcZ3x22vPqQZ/Dm7yK422YhR08B+fqR5vez2sz/e6EXZjssjOu05oBFprF4lGMGtlGFpZ6Ms7FdKgNIjiM2wraSeqWNbFsksLgIig/UJ7q0wkUW5sq0+UeUI63t2oPTWdAY/Abyw268VQ+j+UN/THQDlHFresOtgIH46XiJN8X+N0HSkL3OeW4aYzMjX/yqWTE3yWFWDXRUzJkY83KkyZNRhNVu6qWFyGDywts26DBrRg19mojgaqF8CsS51OLlim6Q/u+g6LxCtbXjVy91WLvuc+r+Cf7cozlA/WYXIny0tm6zvQRQZTBt1d2XGK5OxAAAcLJHj60Dsju4c56Hao5yGm8DKcaxaeWXK58i/96qnCI1xVmzgHp5mx9jivag23DU6WTfhLPl1qnNQL4wePImc6DBoym/PekUaFpu/YTLwNeqyEzhDF4bitMXOmTIwkqm3bQZKA/yhuJlMT+dO3NkqZm+ysjdQniYFd6Bkd78w==;ydc67733EfKpvgChrrs2vw=="
 ---

@@ -1,20 +1,20 @@
 ---
 category: news
 title: "upGrad sees demand in digital marketing, artificial intelligence, machine learning courses"
-excerpt: "Online career education company upGrad has seen rising demand for courses in the areas of Digital Marketing, Data Science, Machine Learning and Artificial Intelligence to name a few for mid-career pro"
-publishedDateTime: 2020-11-02T16:13:00Z
-originalUrl: "https://www.thehindu.com/business/upgrad-sees-demand-in-digital-marketing-artificial-intelligence-machine-learning-courses/article33005649.ece"
-webUrl: "https://www.thehindu.com/business/upgrad-sees-demand-in-digital-marketing-artificial-intelligence-machine-learning-courses/article33005649.ece"
-ampWebUrl: "https://www.thehindu.com/business/upgrad-sees-demand-in-digital-marketing-artificial-intelligence-machine-learning-courses/article33005649.ece/amp/"
-cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/upgrad-sees-demand-in-digital-marketing-artificial-intelligence-machine-learning-courses/article33005649.ece/amp/"
+excerpt: "Online career education company upGrad has seen rising demand for courses in the areas of Digital Marketing, Data Science, Machine Learning and Artifi"
+publishedDateTime: 2020-11-02T18:07:00Z
+originalUrl: "https://www.newsr.in/n/India/1zlumksckk/upGrad-sees-demand-in-digital-marketing-artificial-intelligence.htm"
+webUrl: "https://www.newsr.in/n/India/1zlumksckk/upGrad-sees-demand-in-digital-marketing-artificial-intelligence.htm"
+ampWebUrl: "https://www.newsr.in/n/India/1zlumksckk/upGrad-sees-demand-in-digital-marketing-artificial-intelligence.htm"
+cdnAmpWebUrl: "https://www-newsr-in.cdn.ampproject.org/c/s/www.newsr.in/n/India/1zlumksckk/upGrad-sees-demand-in-digital-marketing-artificial-intelligence.htm"
 type: article
 quality: 81
 heat: 81
 published: true
 
 provider:
-  name: The Hindu
-  domain: thehindu.com
+  name: newsr.in
+  domain: newsr.in
 
 topics:
   - Machine Learning
@@ -22,11 +22,11 @@ topics:
   - AI in Marketing
 
 images:
-  - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
-    width: 300
-    height: 300
+  - url: "https://cdn.newsserve.net/newsR256.png"
+    width: 256
+    height: 256
     isCached: true
 
-secured: "ajslBPnt5uINe/LYOU+qtATeb5FbFY200nBgcrod8zk3qPuv8H0IuWb2wL0lWbGNO0W++/ITbCdtdo0xRXD3s0vjGV/XErlwvnVyy83Ts3cQFk/Bd80NAaQ9hHVVqioiT+AhR4tvw1DI7DCO+cc8IwXSkUr6gesF0gBXiXu8rlOhh3gxEajUBVft63cE9JweQ0A0rZaO4hNFz6eODRHWODhzR0Mq3xRuYZUQidphCsCFg0rpp8mifH5S0CsLA91EKgAAXOoqOHLtzLOGb87j9q4R+9NLxVTAn7AXdpslSchjyqrOrJ6xmyYpdD4teTWAT30SGZ2hXlU37T+LguCJxBQPdbw9443R4JNjevVnYwg=;1Axim1Dnyu19XbMMt1BmIg=="
+secured: "T//QMzXrP91/Xaz8JavLa1tjW0P2h+dIr70wI99YHav4uzbUUYMsmHe3XVbQZM5UjfOraa1lwBhmkqDUrbHs3kSm9YxcTMX61B9AaTrd8QlcacCjIYUtJU6/pUKE8+gGz+1vpRX0ZyvcO/PXzT4cLtIi2e+NEtG5qzXNNN45hKMIea2cZ+OKsMvekQfPP8z05yMOrB1gtPJ9dHM9L009YZ7CD9uOiFqZjvYlujPx/lTOv92syBSF+C1qxG8Qff85wub2phBMZGFrkksAg+TLOA+iuCS1WSUoskcs4p8y4CY9hr1Zc0/XSyHydA3+6pPnzDTZ1UDUtJJmaTsSZDf9NQo5bS4qv+UyBQdsJjYWvyM=;w7uqQsqjnN1zEqwkyvFNUg=="
 ---
 

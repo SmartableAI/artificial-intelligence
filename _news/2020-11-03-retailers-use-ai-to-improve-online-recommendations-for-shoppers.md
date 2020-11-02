@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/retailers-use-ai-to-improve-online-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/retailers-use-ai-to-improve-online-recommendations-for-shoppers-11604330308"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     height: 640
     isCached: true
 
-secured: "qAld/vxUsVfou35SB0OH2ywxClW7Xh7i6fDdwMMJLN2vhcUj8uRkodBnkY2mbqg+TwTlGKpe/TQ2T4r1xnn2U+t5dZAd8Ap8YPzTfLsxj3ZyzY/HUZNJfMuyNfkfPcEreIyyMk/6u4gqnsIbR/TPbjSiqXbfZy4wxMsAubZrt2yt2SMuDFrZzX8BUi4seAWDdSEIhxzoE3PVtDhHgDXAmREF0b6u/OPOBxCN1HIxICsjywHfnyQP/cWXOJ087H5r4ebe9FSM1H0ZVcGJUhJpaBBzAAL3l32IZQQ9zhYJvy5tKtsWpUg6I0ZswyotNMhpg7cVGSscG1dkVHZVQLYEyvfWhLqvlAkFSlRIoo5zLo4=;1D1Aq3RoRDq3IQkJRNSWug=="
+related:
+  - title: "NAPA Outlines Recommendations for Federal AI Progress"
+    excerpt: "A paper released last week by NAPA’s Election 2020 Working Group says that AI has numerous benefits, but that concerns with the technology need to be addressed by the next presidential administration as AI continues to move forward."
+    publishedDateTime: 2020-11-02T17:17:00Z
+    webUrl: "https://www.meritalk.com/articles/napa-outlines-recommendations-for-federal-ai-progress/"
+    type: article
+    provider:
+      name: MeriTalk
+      domain: meritalk.com
+    quality: 17
+
+secured: "J1JhDQ4s1ycEBS3AZNV7tUm67rZFyw7/NW0D8iUTg1KKBa/bA67yttNbaOb8nQXlnwJb9cFglzq1A5Ec7u1hvIrwfg8Q7CLst5tJtezKlWO8PZ7MZXk6WjZZJx12249DjKhQ8UXDw66KvbAVQ/VBUQ4KhtGbG4wiwlwnakmESSDfGz/Q823UfnZbeu4w41uNEZzbQU7EtCaq6h6Abhw0hyjLoWGJawbdzJN7RZFKqGUj5wMzZVNw3+RE5eZ1JhkwIkVQqcCzmYVuvw57yo08NGbFyD0PWJ40aG0NPBh1adQjbgjKeoVgfSdp6cIH/EMVJsdErWoY/mkS8n6QD8Kjuzwbu/56PAyRrYvtTxnNHcu5KNQNq42lRJPQPJGjL2qIWlB+UG4quRjk4rPg/LYqE/288naEiATGU4UwduXKEa3lPOnq8HUhcrOi16AaWqTUd1bmswr0z5LjEv1jEWCpH6BrEP14xTXplFUqYSgtNShUPeArxsHEVz8p4YZttgNbrY92mDXmkv3Xsa6sCZ54Ew==;SHfgmkZoJrbU+0P+ZyhXoA=="
 ---
 
