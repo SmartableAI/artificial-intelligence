@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/intel-iris-xe-max-gpu-arrives-i
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intel-iris-xe-max-gpu-arrives-in-11th-gen-mobile-chips-to-boost-gaming-creation/"
 type: article
 quality: 99
-heat: 219
+heat: 229
 published: true
 
 provider:
@@ -182,6 +182,20 @@ related:
       - url: "https://www.crn.com/resources/0262-10bc85f7adee-f78d58c8abac-1000/irisxemax-_002_.jpg"
         width: 610
         height: 457
+        isCached: true
+  - title: "Intel launches Iris Xe Max discrete GPU with new ‘deep link’ feature"
+    excerpt: "After three years of teasing its return to the discrete graphics market, Intel has revealed its first product in the category, the Intel Iris Xe Max graphics, which will pair with the chipmaker’s new Tiger Lake processors for ultra-thin laptops to focus on content creation."
+    publishedDateTime: 2020-11-01T20:22:00Z
+    webUrl: "https://www.crn.com.au/news/intel-launches-iris-xe-max-discrete-gpu-with-new-deep-link-feature-555403"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fvnunetcom-analysis-intel-montecito-takes-on-ibm-sun-and-amd-medium.jpg&w=480&c=0&s=1"
+        width: 480
+        height: 285
         isCached: true
   - title: "Intel’s Discrete GPU Era Begins: Intel Launches Iris Xe MAX For Entry-Level Laptops"
     excerpt: "which implements DVFS feedback loops on top of supposedly AI-trained algorithms to help the system deliver power to the parts of the processor that need it most, such as CPU, GPU, interconnect, or accelerators. With Adaptix enabled, the idea is that the ..."

@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Intel Xe DG1 Is The New ‘Iris Xe Max’ Discrete GPU Inside Laptops And These Are The Specifications And Features"
-excerpt: "Intel recently confirmed it was shipping out the Intel Xe DG1 GPU that the company had been building in-house. It is now confirmed that Intel has"
-publishedDateTime: 2020-11-01T01:00:00Z
-originalUrl: "https://appuals.com/intel-xe-dg1-is-the-new-iris-xe-max-discrete-gpu-inside-laptops-and-these-are-the-specifications-and-features/"
-webUrl: "https://appuals.com/intel-xe-dg1-is-the-new-iris-xe-max-discrete-gpu-inside-laptops-and-these-are-the-specifications-and-features/"
+title: "Intel launches Iris Xe Max discrete GPU with new ‘deep link’ feature"
+excerpt: "After three years of teasing its return to the discrete graphics market, Intel has revealed its first product in the category, the Intel Iris Xe Max graphics, which will pair with the chipmaker’s new Tiger Lake processors for ultra-thin laptops to focus on content creation."
+publishedDateTime: 2020-11-01T20:22:00Z
+originalUrl: "https://www.crn.com.au/news/intel-launches-iris-xe-max-discrete-gpu-with-new-deep-link-feature-555403"
+webUrl: "https://www.crn.com.au/news/intel-launches-iris-xe-max-discrete-gpu-with-new-deep-link-feature-555403"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: appuals.com
-  domain: appuals.com
+  name: CRN Australia
+  domain: crn.com.au
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://cdn.appuals.com/wp-content/uploads/2020/10/images-1.jpeg"
-    width: 739
-    height: 415
+  - url: "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fvnunetcom-analysis-intel-montecito-takes-on-ibm-sun-and-amd-medium.jpg&w=480&c=0&s=1"
+    width: 480
+    height: 285
     isCached: true
 
 related:
@@ -193,20 +193,6 @@ related:
         width: 610
         height: 457
         isCached: true
-  - title: "Intel launches Iris Xe Max discrete GPU with new ‘deep link’ feature"
-    excerpt: "After three years of teasing its return to the discrete graphics market, Intel has revealed its first product in the category, the Intel Iris Xe Max graphics, which will pair with the chipmaker’s new Tiger Lake processors for ultra-thin laptops to focus on content creation."
-    publishedDateTime: 2020-11-01T20:22:00Z
-    webUrl: "https://www.crn.com.au/news/intel-launches-iris-xe-max-discrete-gpu-with-new-deep-link-feature-555403"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fvnunetcom-analysis-intel-montecito-takes-on-ibm-sun-and-amd-medium.jpg&w=480&c=0&s=1"
-        width: 480
-        height: 285
-        isCached: true
   - title: "Intel’s Discrete GPU Era Begins: Intel Launches Iris Xe MAX For Entry-Level Laptops"
     excerpt: "which implements DVFS feedback loops on top of supposedly AI-trained algorithms to help the system deliver power to the parts of the processor that need it most, such as CPU, GPU, interconnect, or accelerators. With Adaptix enabled, the idea is that the ..."
     publishedDateTime: 2020-10-31T16:09:00Z
@@ -221,7 +207,21 @@ related:
         width: 678
         height: 451
         isCached: true
+  - title: "Intel Xe DG1 Is The New ‘Iris Xe Max’ Discrete GPU Inside Laptops And These Are The Specifications And Features"
+    excerpt: "Intel recently confirmed it was shipping out the Intel Xe DG1 GPU that the company had been building in-house. It is now confirmed that Intel has"
+    publishedDateTime: 2020-11-01T01:00:00Z
+    webUrl: "https://appuals.com/intel-xe-dg1-is-the-new-iris-xe-max-discrete-gpu-inside-laptops-and-these-are-the-specifications-and-features/"
+    type: article
+    provider:
+      name: appuals.com
+      domain: appuals.com
+    quality: 19
+    images:
+      - url: "https://cdn.appuals.com/wp-content/uploads/2020/10/images-1.jpeg"
+        width: 739
+        height: 415
+        isCached: true
 
-secured: "wdkK0AiJi4yKfQUVwYH72Bb4bR95cka4xeYPlcATvXqEavVqhJ0JZ03txKRU+KJmMZgy9L28vqsZ23uCz0fXgEq4zFz77bpoYYWsQbHcyEpKVSDxKvCvx+8mRHq/UAMIq98xxYtqhv4HgrDiIdhRYQi0GFZAyFOQ0KpsRyAnc07SAj6478yNNwfqHUePojMuxhg35H8EJ1qF20uIVlHrbyWjHF15ODK0Eb56facK9eSyNYdtn6vn/IyoNBi7GrB45p2JIpMZ6Vm/aQKRF5aOqr+fBUTJDRW3sZIAGJfcSf5b72SQKGvw4FDEMlXjx98UCL5xGCCMr219WrkHMw+vuUH6jTwelSPfAPaSdRsiU50=;VYBWj0xU2z9kQ2cyx7FT9w=="
+secured: "bxpqd6bHZN7CnKQYaKvAurPI3K1cROdX9vECmFSdHf7FqhaS/jbDoPS2p2gTyP43NqPBc4+eIGCj+GQSRTgeNagyVXDfKHO6J43ES5cz5mFLxrcc7hwx2cJIzxGdWINBqlu2Pk6XucTm1SuUo4dgZTYZVGQaIyP0GKdkZa5gAhp4R3VYOibYxbtBgDrxQWkIEIPjDxBTPYKe/giNtYVttiRWvjL+O+lcux7QDz3FP6Koo6lXQpndAGAsIB5qDOtzpEF4jRjoPSR3VUtwRQ5B6bW2zb6u/BUKXHzj+vevgDUu7W+L2F8SoZ41pFJ1leE8gPI0CcTiE9Q6XXUaK84Fw9608StZu0gbbjBKLCQIrsE=;8K1Z59vBCkpgFw4/7/B3Ow=="
 ---
 

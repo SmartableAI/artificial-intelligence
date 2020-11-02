@@ -58,20 +58,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Apple buys self-learning AI video startup to improve apps"
-    excerpt: "Apple Inc acquired a startup specialising in advanced artificial intelligence and computer vision technology that may help the iPhone maker improve its own AI across a number of apps and services. The Cupertino, California-based technology giant acquired ..."
-    publishedDateTime: 2020-10-28T07:32:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/10/28/apple-buys-self-learning-ai-video-startup-to-improve-apps"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2020/10/28/915569.jpg"
-        width: 1240
-        height: 826
-        isCached: true
   - title: "Apple Inc. acquires a video AI start-up for USD 50 million to improve Siri & other applications"
     excerpt: "Apple has acquired a Video-based Artificial Intelligence Start-up that goes by the name of Vilynx. The deal was worth $50 million. Learn more"
     publishedDateTime: 2020-10-29T13:34:00Z

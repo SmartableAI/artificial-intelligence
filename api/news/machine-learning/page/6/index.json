@@ -2,6 +2,92 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-09-28-webinar-leveraging-deep-learning-and-ai-applications-in-manufacturing.md",
+      "title": "Webinar: Leveraging Deep Learning and AI Applications in Manufacturing",
+      "excerpt": "Do AI and Deep Learning belong on the factory floor or are they just for those with their heads in the clouds? Is being \"on the edge\" actually a good thing when you want to improve quality and reduce costs? As a manufacturer seeking to improve your ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.industryweek.com/webinars/webinar/21141473/leveraging-deep-learning-and-ai-applications-in-manufacturing",
+      "originalUrl": "https://www.industryweek.com/webinars/webinar/21141473/leveraging-deep-learning-and-ai-applications-in-manufacturing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/industryweek/image/2020/09/Feature.5f5ac8cbb92b0.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 514,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-28T01:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IndustryWeek",
+        "domain": "industryweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-should-you-be-excited-about-deep-learning-market-674-cagr.md",
+      "title": "Should You Be Excited About Deep Learning Market 67.4% CAGR?",
+      "excerpt": "The Deep Learning - Global Market has witnessed continuous growth in the past few years and is projected to see some stability post Q2,2020 and may grow further during the forecast period (2021-2025).",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2144014/should-you-be-excited-about-deep-learning-market-67-4-cagr",
+      "originalUrl": "https://www.openpr.com/news/2144014/should-you-be-excited-about-deep-learning-market-67-4-cagr",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/9/T928701466_g.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2144014/should-you-be-excited-about-deep-learning-market-67-4-cagr",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2144014/should-you-be-excited-about-deep-learning-market-67-4-cagr",
+      "publishedDateTime": "2020-09-27T22:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-28-how-to-improve-bot-detection-with-machine-learning.md",
       "title": "How To Improve Bot Detection With Machine Learning",
       "excerpt": "The bot landscape is changing fast as fraudsters look to capitalize on the confusion, fear and uncertainty surrounding Covid-19 and its immediately accelerating e-commerce.",

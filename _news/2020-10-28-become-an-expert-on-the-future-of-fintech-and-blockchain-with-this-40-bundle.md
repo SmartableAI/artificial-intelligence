@@ -36,20 +36,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
-  - title: "The Ethics of Killing an AI"
-    excerpt: "Named after pioneering AI researcher Alan Turing, the Turing test helps determine when an AI is intelligent. Can a person conversing with a hidden AI tell whether it’s an AI or a human being? If he can’t,"
-    publishedDateTime: 2020-10-28T08:00:00Z
-    webUrl: "https://nationalinterest.org/blog/reboot/ethics-killing-ai-171473"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 56
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/2020-07-09T000000Z_1114634064_RC2EPH9URISA_RTRMADP_3_CHINA-TECH.JPG"
-        width: 1800
-        height: 1199
-        isCached: true
   - title: "Learn the ins and outs of FinTech and Blockchain with this expert-led training"
     excerpt: "The education starts with the basics, so you can build a strong foundational level of understanding before diving into more advanced topics, like AI in Fintech, Robo Advisors, and InsurTech."
     publishedDateTime: 2020-10-28T15:34:00Z
