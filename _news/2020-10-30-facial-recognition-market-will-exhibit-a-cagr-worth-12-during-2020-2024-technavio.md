@@ -7,7 +7,7 @@ originalUrl: "https://www.oaoa.com/news/business/facial-recognition-market-will-
 webUrl: "https://www.oaoa.com/news/business/facial-recognition-market-will-exhibit-a-cagr-worth-12-during-2020-2024-technavio/article_6c58d87d-7061-50fb-a01c-6c306c2eab19.html"
 type: article
 quality: 32
-heat: 32
+heat: 52
 published: false
 
 provider:

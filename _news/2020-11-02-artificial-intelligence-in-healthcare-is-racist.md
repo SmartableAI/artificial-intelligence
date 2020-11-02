@@ -1,16 +1,15 @@
 ---
 category: news
 title: "Artificial Intelligence in healthcare is racist"
-excerpt: "Therein lies the danger of using narrow datasets in Artificial Intelligence: If the data is biased, the AI will be biased. That doesn't mean we should (or, now that the genie is out of the bottle, can) abandon AI. Which leads to an obvious question ..."
-publishedDateTime: 2020-11-02T12:01:00Z
-originalUrl: "https://www.zdnet.com/article/artificial-intelligence-in-healthcare-is-racist/"
-webUrl: "https://www.zdnet.com/article/artificial-intelligence-in-healthcare-is-racist/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/artificial-intelligence-in-healthcare-is-racist/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-in-healthcare-is-racist/"
+excerpt: "Can broader datasets help developers avoid accidentally perpetuating deep-rooted biases in vital institutions like healthcare and education?"
+publishedDateTime: 2020-11-02T12:00:00Z
+originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/artificial-intelligence-in-healthcare-is-racist/"
+webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/artificial-intelligence-in-healthcare-is-racist/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/artificial-intelligence-in-healthcare-is-racist/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/artificial-intelligence-in-healthcare-is-racist/"
 type: article
 quality: 104
 heat: 104
-published: true
 
 provider:
   name: ZDNet
@@ -30,6 +29,6 @@ images:
     height: 455
     isCached: true
 
-secured: "Pd6VLF4psbO16iN5xYTWLhernLi2yLcFqxuDxeWYbe+0yq88OwZkIx5xsFuv/nlRqnBHs+5bJocxGYwXQk7t3tbkgfy+/Lg1+en+qUCXRogyoEBiTcq1bBXu9Pj5vIDe0ZVCqyFE8ewEdF+MrjKxMP46BWXcPoU6ise9Aq0YqUhcVTgyhOGnRsVev2WxH4VaoGr49sih3o9RqHc0DzdyV9emgwySUTIZbGbCcZR5F4hnFbKZwJ/TJXMg91VA7mk3/IFCyw07DpbjGLvb6OQICi7wU2Mc2eWb34BgnRJFkl6F5ktc78i5MbLqRpwh1V7q061YsoQWa7sJUYDR4hDJRZTuHzO9AZV5RVSLLGTL/nM=;I7yUkDsjgHd6LQDaeY5mWA=="
+secured: "pIvX06bGWtY/MknQPmvirqNGgiu3uky/wzL/xGxwtbEhrbvsxo0M5y53LYOIoPNznRWqU4uojwikoZsQ8fCZCUieUGl6ZkEjMG5zbZ6/fGDu4kfh+y8Ek/K7hSLAe/rH6bel2EcYrGL0QM3p3asCXs5ZOX0iMIUY8PjTR6LSAWL8CFRTQ1PUAyiUvQz/Qk76Wd2H2oImWVEGZ1nNdI0MrUu+xp8YUHpwHOvNdDG9mxMEx35N29vLGo3uDolWxbo2HyTds32EShe+UOe+SEdNHklNJYJ6wcWC5KaFGPxrKd/QeNBhYUFZq+EQp8AbQPP+Rafw+IVch0Ps1aV8ZoCluO340IzH3+hBb0NcdX1/f5Q=;lt08KqKFp/ZfZHJdVDrsbQ=="
 ---
 

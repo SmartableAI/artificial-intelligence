@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thedailystar.net/country/news/stamps-commemorating-banga
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/country/news/stamps-commemorating-bangabandhus-march-7-speech-released-1986793?amp"
 type: article
 quality: 44
-heat: 44
+heat: 54
 published: false
 
 provider:

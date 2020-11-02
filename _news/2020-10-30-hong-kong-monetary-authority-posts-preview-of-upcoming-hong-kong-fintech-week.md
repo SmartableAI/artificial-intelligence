@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/10/168568-hong-kong-monetary-a
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/168568-hong-kong-monetary-authority-posts-preview-of-upcoming-hong-kong-fintech-week/amp/"
 type: article
 quality: 41
-heat: 41
+heat: 51
 published: false
 
 provider:

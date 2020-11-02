@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmodo.com.au/2020/10/australians-have-low-trust-in-art
 cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/10/australians-have-low-trust-in-artificial-intelligence-and-want-it-to-be-better-regulated/amp/"
 type: article
 quality: 48
-heat: 48
+heat: 58
 published: false
 
 provider:
