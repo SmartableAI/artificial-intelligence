@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-20-computer-vision-software-market-next-big-thing-major-giants-algolux-visenze-sighthound.md",
+      "title": "Computer Vision Software Market Next Big Thing | Major Giants Algolux, ViSenze, Sighthound",
+      "excerpt": "Oct 19, 2020<p>Latest Market intelligence report released by HTF MI with title COVID-19 Outbreak-Global Computer Vision Software Industry Market Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020 is designed covering micro level of analysis by manufacturers and key business segments.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1100984314/Computer-Vision-Software-Market-Next-Big-Thing-Major-Giants-Algolux-ViSenze-Sighthound?src=Rss",
+      "originalUrl": "https://menafn.com/1100984314/Computer-Vision-Software-Market-Next-Big-Thing-Major-Giants-Algolux-ViSenze-Sighthound?src=Rss",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?68482",
+          "width": 374,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-19T18:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-culture-and-people-will-drive-tech-innovation-and-growth.md",
       "title": "Culture And People Will Drive Tech Innovation And Growth",
       "excerpt": "Now, we’re seeing many companies shift from the automation-focused initiatives of the early 2000s to recognise the role of human intelligence in building smarter, more innovative automations and AI.",
@@ -1394,49 +1437,6 @@
         "name": "Patch",
         "domain": "patch.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-computer-vision-market-research-report-by-component-by-application-global-forecast-to-2025-cumulative-impact-of-covid-19.md",
-      "title": "Computer Vision Market Research Report by Component, by Application - Global Forecast to 2025 - Cumulative Impact of COVID-19",
-      "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net New York, Oct. 08, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Computer Vision Market ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/computer-vision-market-research-report-by-component-by-application-global-forecast-to-2025-cumulative-impact-of-covid-19-1029664022",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/computer-vision-market-research-report-by-component-by-application-global-forecast-to-2025-cumulative-impact-of-covid-19-1029664022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T15:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

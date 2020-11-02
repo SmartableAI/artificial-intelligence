@@ -2,6 +2,111 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-05-deliver-ai-powered-application-search-with-azure-cognitive-search-and-ba-insight.md",
+      "title": "Deliver AI-powered application search with Azure Cognitive Search and BA Insight",
+      "excerpt": "Data is growing exponentially, and over 80 percent of data is unstructured, creating a challenge for organizations to find and surface the right information to their customers. What organizations need is a solution that enables them to uncover latent insights from all their content by quickly identifying",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/deliver-ai-powered-application-search-with-azure-cognitive-search-and-ba-insight/",
+      "originalUrl": "https://azure.microsoft.com/blog/deliver-ai-powered-application-search-with-azure-cognitive-search-and-ba-insight/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/3825d129-7b61-4af7-9e9e-6ea06c242b9c.png",
+          "width": 1024,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-05T01:30:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-azure-machine-learning-helps-customers-stay-ahead-of-challenges.md",
+      "title": "Azure Machine Learning helps customers stay ahead of challenges",
+      "excerpt": "Organizations today are striving to build agility and resilience to the fast-changing environment we live in. AI and machine learning innovation can help tackle these emerging challenges and enable cost efficiencies.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/azure-machine-learning-helps-customers-stay-ahead-of-challenges/",
+      "originalUrl": "https://azure.microsoft.com/blog/azure-machine-learning-helps-customers-stay-ahead-of-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/54a5211d-b1cd-4904-bdc7-275db6482b0f.png",
+          "width": 727,
+          "height": 341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-05T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-10-04-microsoft-ignites-2020-with-new-services-and-tools-for-business-resiliency.md",
       "title": "Microsoft Ignites 2020 With New Services And Tools For Business Resiliency",
       "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as the annual Microsoft Ignite Conference showcases its latest and upcoming solutions. Patrick wanted to share some takeaways, which he'll break into",
@@ -1305,50 +1410,7 @@
         "Microsoft AI",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2020-09-24-microsoft-announces-azure-communication-services.md",
-      "title": "Microsoft announces Azure Communication Services",
-      "excerpt": "It also enables developers to easily tap into other Azure services, such as Azure Cognitive Services for ... and GDPR (in the EU),\" Microsoft said in a statement on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sify.com/finance/microsoft-announces-azure-communication-services-news-topnews-ujyeO9fgegihh.html",
-      "originalUrl": "https://www.sify.com/finance/microsoft-announces-azure-communication-services-news-topnews-ujyeO9fgegihh.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sify.com/uploads/microsoft_ap_uitr0fihdhehb.jpeg",
-          "width": 950,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-24T03:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 4
 }

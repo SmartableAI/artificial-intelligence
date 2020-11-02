@@ -59,6 +59,20 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Amazon Web Services Introduces Open-Source Machine Learning Toolkit To Predict The Spread Of COVID-19"
+    excerpt: "Amazon Web Services open-sources a new simulator and a series of machine learning tools that allow researchers and data scientists to study and predict the spread of the COVID-19 pandemic infections."
+    publishedDateTime: 2020-11-02T15:27:00Z
+    webUrl: "https://techlog360.com/aws-open-source-machine-learning-toolkit-to-predict-the-spread-of-covid-19/"
+    type: article
+    provider:
+      name: techlog360.com
+      domain: techlog360.com
+    quality: 41
+    images:
+      - url: "https://tl360.b-cdn.net/wp-content/uploads/2020/11/AWS-news-and-stories.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "RBFB+J+pzzL04VVsUEbi+DLBo7b2UaVmZEgYHS2VcaS0zvhzQKAV8BECIpqD4HjVkcJm+5H7czI8gz5eNPfKJWkgrDfwhgDz+fJhxTHfWjA3jqUJXtNIO3ruonl31088/bTSfZKxmpAWnzrQMip/dPB9Od7mbtO699LNKQxZUIIZplG0PAoFszopR4BZeFI4C/vB3P+H6z8BHrbnUdUZjKu1S7uGS+jAfMdL1HZlXXgh2HMUrGhAPv/KxWbfj1UHyKuwoN3UEFNEgKa+tLBLRSkdhiSPATZqGT9Em1sAb7Idh9KxRaAsCa09iBeH8e+xO5k1kdqHGsoemnNmuINZJ8ZoQvPp6snubswQ0lM71X8=;WZUEOTHBG7q0GCbNGl/NAQ=="
 ---

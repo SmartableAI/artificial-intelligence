@@ -2,6 +2,144 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-16-how-id-study-machine-learning-if-id-be-starting-out-today.md",
+      "title": "How I’d study machine learning — if I’d be starting out today",
+      "excerpt": "I’m underground, back where it all started. Sitting at the hidden cafe where I first met Mike. I’d been studying in my bedroom for the past 9-months and decided to step out of the cave. Half of me was concerned about having to pay $19 for breakfast (unless it’s Christmas,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/10/16/how-id-study-machine-learning-if-id-be-starting-out-today-syndication/",
+      "originalUrl": "https://thenextweb.com/neural/2020/10/16/how-id-study-machine-learning-if-id-be-starting-out-today-syndication/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/image-1-8-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/10/16/how-id-study-machine-learning-if-id-be-starting-out-today-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/16/how-id-study-machine-learning-if-id-be-starting-out-today-syndication/amp/",
+      "publishedDateTime": "2020-10-16T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-machine-learning-depends-on-data-scientists-to-handle-the-ml-configurations-and-data-inputs.md",
+      "title": "Machine learning depends on data scientists to handle the ML configurations and data inputs",
+      "excerpt": "AutoML addresses the challenges of machine learning analysis by eliminating labor intensive tasks and undertakes the automation of machine learning applications to create better ML models",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/automl-alleviates-process-machine-learning-analysis/",
+      "originalUrl": "https://www.analyticsinsight.net/automl-alleviates-process-machine-learning-analysis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Machine-Learning-4.jpg",
+          "width": 1680,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-16T04:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-deep-learning-artificial-intelligence-keeps-an-eye-on-volcano-movements.md",
+      "title": "Deep learning artificial intelligence keeps an eye on volcano movements",
+      "excerpt": "Radar satellites can collect massive amounts of remote sensing data that can detect ground movements -- surface deformations -- at volcanoes in near real time. These ground movements could signal impending volcanic activity and unrest;",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2020/10/201015134215.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2020/10/201015134215.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T15:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-new-oxford-machine-learning-based-covid-19-test-can-provide-results-in-under-5-minutes.md",
       "title": "New Oxford machine learning-based COVID-19 test can provide results in under 5 minutes",
       "excerpt": "Oxford scientists working out of the school’s Department of Physics have developed a new type of COVID-19 test that can detect SARS-CoV-2 with a high degree of accuracy, directly in samples taken from patients,",
@@ -576,17 +714,17 @@
     {
       "path": "_news/2020-10-14-knime-and-h2oai-accelerate-and-simplify-end-to-end-data-science-automation.md",
       "title": "KNIME and H2O.ai Accelerate and Simplify End-to-end Data Science Automation",
-      "excerpt": "The joint offering combines Driverless AI for AutoML and KNIME Server for workflow management across the entire data science life cycle - from data access to optimization and deployment.",
+      "excerpt": "KNIME and H2O.ai, the two data science pioneers known for their open source platforms, today announced a strategic partnership that integrates offerings from both companies. The joint offering combines Driverless AI for AutoML and KNIME Server for workflow management across the entire data science life cycle - from data access to optimization and deployment.",
       "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation/article_13c91b26-2708-53df-b588-f6f434a3fecf.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation/article_13c91b26-2708-53df-b588-f6f434a3fecf.html",
+      "webUrl": "https://www.fltimes.com/business/national/knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation/article_d61ee3d4-0a7a-59d5-b27c-eae8f4196f82.html",
+      "originalUrl": "https://www.fltimes.com/business/national/knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation/article_d61ee3d4-0a7a-59d5-b27c-eae8f4196f82.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png",
+          "url": "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/custom/image/b0352330-9d33-11e5-a934-9bac0af3ff38.jpg",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -598,11 +736,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-14T09:38:00-07:00",
+      "publishedDateTime": "2020-10-14T08:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
+        "name": "Finger Lakes Times",
+        "domain": "fltimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1051,19 +1189,19 @@
     {
       "path": "_news/2020-10-13-researchers-develop-new-model-of-the-brains-real-life-neural-networks.md",
       "title": "Researchers develop new model of the brain's real-life neural networks",
-      "excerpt": "We can then begin to design better artificial neural networks that, like the brain, would have the ability to self-optimize.\" \"Having this level of accuracy can give us a clearer picture of the ...",
+      "excerpt": "We can then begin to design better artificial neural networks that, like the brain, would have the ability to self-optimize.\" Use For Artificial Intelligence \"Having this level of accuracy can ...",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-10/uosc-rdn101220.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-10/uosc-rdn101220.php",
+      "webUrl": "https://medicalxpress.com/news/2020-10-brain-real-life-neural-networks.html",
+      "originalUrl": "https://medicalxpress.com/news/2020-10-brain-real-life-neural-networks.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/8-brain.jpg",
+          "width": 1741,
+          "height": 1920,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1071,13 +1209,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-13T07:56:00-07:00",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-10-brain-real-life-neural-networks.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-brain-real-life-neural-networks.amp",
+      "publishedDateTime": "2020-10-13T08:22:31-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1178,157 +1316,6 @@
         "AI",
         "Microsoft AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-new-bbc-microbit-supports-ai-and-machine-learning-adds-speaker-and-microphone.md",
-      "title": "New BBC micro:bit supports AI and machine learning, adds speaker and microphone",
-      "excerpt": "(Pocket-lint) - The BBC micro:bit is a clever little piece of technology designed to help people learn to code on the small scale. The original was launched in 2016 - with 5 million in use across 60 countries - and there's a new version 2 that's going to be available from mid-November.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pocket-lint.com/gadgets/news/bbc/154182-new-bbc-micro-bit-support-ai-and-machine-learning-adds-speaker-and-microphone",
-      "originalUrl": "https://www.pocket-lint.com/gadgets/news/bbc/154182-new-bbc-micro-bit-support-ai-and-machine-learning-adds-speaker-and-microphone",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/154182-gadgets-news-microbit-image1-v8ibatqlyh.jpg",
-          "width": 945,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pocket-lint.com/gadgets/news/bbc/154182-new-bbc-micro-bit-support-ai-and-machine-learning-adds-speaker-and-microphone.amphtml",
-      "cdnAmpWebUrl": "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/gadgets/news/bbc/154182-new-bbc-micro-bit-support-ai-and-machine-learning-adds-speaker-and-microphone.amphtml",
-      "publishedDateTime": "2020-10-12T22:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pocket-lint",
-        "domain": "pocket-lint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-nym-health-raises-165-million-for-its-auditable-machine-learning-tools-for-automating-hospital-billing.md",
-      "title": "Nym Health raises $16.5 million for its auditable machine learning tools for automating hospital billing",
-      "excerpt": "A little less than two years after raising its seed round, the Israeli-based Nym Health has added another $16.5 million to its cash haul so it can roll out its technology developing auditable machine learning tools for automating hospital billing.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/13/nym-health-raises-14-million-for-its-auditable-machine-learning-tools-for-automating-hospital-billing/",
-      "originalUrl": "https://techcrunch.com/2020/10/13/nym-health-raises-14-million-for-its-auditable-machine-learning-tools-for-automating-hospital-billing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1211152561.jpg?w=713",
-          "width": 713,
-          "height": 489,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/13/nym-health-raises-14-million-for-its-auditable-machine-learning-tools-for-automating-hospital-billing/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/13/nym-health-raises-14-million-for-its-auditable-machine-learning-tools-for-automating-hospital-billing/amp/",
-      "publishedDateTime": "2020-10-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks.md",
-      "title": "The state of AI in 2020: Biology and healthcare's AI moment, ethics, predictions, and graph neural networks",
-      "excerpt": "Research and industry breakthroughs, ethics, and predictions. This is what AI looks like today, and what it's likely to look like tomorrow.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/",
-      "originalUrl": "https://www.zdnet.com/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/10/12/fff374f0-59d9-4c75-8931-70212d1b7506/fda-ml.png",
-          "width": 860,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-state-of-ai-in-2020-biology-and-healthcares-ai-moment-ethics-predictions-and-graph-neural-networks/",
-      "publishedDateTime": "2020-10-12T07:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Healthcare",
-        "AI Hardware",
-        "Machine Learning",
-        "Facebook AI"
       ]
     }
   ],

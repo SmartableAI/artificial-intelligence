@@ -2,26 +2,182 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-26-how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms.md",
+      "title": "How artificial intelligence and machine learning power content-first newsrooms",
+      "excerpt": "By Chris Nguyen, executive vice president, marketing at Naviga Digital is no longer just a nice addition to a newspaper’s success, but an imperative. While print remains a key source of revenue — capturing both subscriptions and advertising — spending too much time on designing and managing printed editions has become an obstacle to digital transformation.",
+      "sourceUrl": null,
+      "webUrl": "https://digiday.com/sponsored/how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms/",
+      "originalUrl": "https://digiday.com/sponsored/how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/digiday.com/wp-content/uploads/2020/10/Digiday_Naviga_Banner_1440X600-1.jpg?fit=682%2C284&ssl=1",
+          "width": 681,
+          "height": 284,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://digiday.com/sponsored/how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms/amp/",
+      "cdnAmpWebUrl": "https://digiday-com.cdn.ampproject.org/c/s/digiday.com/sponsored/how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms/amp/",
+      "publishedDateTime": "2020-10-25T17:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digiday",
+        "domain": "digiday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-10-24-deep-science-alzheimers-screening-forest-mapping-drones-machine-learning-in-space-more.md",
+      "title": "Deep Science: Alzheimer’s screening, forest-mapping drones, machine learning in space, more",
+      "excerpt": "Making sure your deep learning network generalizes to data outside its training environment is a key part of any serious ML research. But few attempt to set a model loose on data that’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/23/deep-science-alzheimers-screening-forest-mapping-drones-machine-learning-in-space-more/",
+      "originalUrl": "https://techcrunch.com/2020/10/23/deep-science-alzheimers-screening-forest-mapping-drones-machine-learning-in-space-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/mahmoudian-autonomousLO.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/23/deep-science-alzheimers-screening-forest-mapping-drones-machine-learning-in-space-more/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/23/deep-science-alzheimers-screening-forest-mapping-drones-machine-learning-in-space-more/amp/",
+      "publishedDateTime": "2020-10-23T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-ai-and-machine-learning-powering-the-next-gen-enterprise.md",
+      "title": "AI and machine learning: Powering the next-gen enterprise",
+      "excerpt": "Now’s the time to get your AI/ML strategy in shape, as a recent CIO Tech Poll shows that AI/ML was considered the most disruptive technology by 62% of respondents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/",
+      "originalUrl": "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bbhub.io/professional/sites/10/347789615.jpg",
+          "width": 1600,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-23T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-data-reply-achieves-aws-machine-learning-competency-status.md",
       "title": "Data Reply Achieves AWS Machine Learning Competency Status",
-      "excerpt": "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR.",
+      "excerpt": "Data Reply, specialized in the design and implementation of advanced analytics and AI-powered data services, announced today that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/10/b18008856/data-reply-achieves-aws-machine-learning-competency-status",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/b18008856/data-reply-achieves-aws-machine-learning-competency-status",
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-science-corporate-news-products-and-services-786f2a29fba3449bac8fd3b2bb23ebf3",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-science-corporate-news-products-and-services-786f2a29fba3449bac8fd3b2bb23ebf3",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18008856",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18008856",
-      "publishedDateTime": "2020-10-22T01:05:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-22T00:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1244,144 +1400,6 @@
         "name": "Search Engine Journal",
         "domain": "searchenginejournal.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-how-id-study-machine-learning-if-id-be-starting-out-today.md",
-      "title": "How I’d study machine learning — if I’d be starting out today",
-      "excerpt": "I’m underground, back where it all started. Sitting at the hidden cafe where I first met Mike. I’d been studying in my bedroom for the past 9-months and decided to step out of the cave. Half of me was concerned about having to pay $19 for breakfast (unless it’s Christmas,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/10/16/how-id-study-machine-learning-if-id-be-starting-out-today-syndication/",
-      "originalUrl": "https://thenextweb.com/neural/2020/10/16/how-id-study-machine-learning-if-id-be-starting-out-today-syndication/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/image-1-8-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/10/16/how-id-study-machine-learning-if-id-be-starting-out-today-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/16/how-id-study-machine-learning-if-id-be-starting-out-today-syndication/amp/",
-      "publishedDateTime": "2020-10-16T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-machine-learning-depends-on-data-scientists-to-handle-the-ml-configurations-and-data-inputs.md",
-      "title": "Machine learning depends on data scientists to handle the ML configurations and data inputs",
-      "excerpt": "AutoML addresses the challenges of machine learning analysis by eliminating labor intensive tasks and undertakes the automation of machine learning applications to create better ML models",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/automl-alleviates-process-machine-learning-analysis/",
-      "originalUrl": "https://www.analyticsinsight.net/automl-alleviates-process-machine-learning-analysis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Machine-Learning-4.jpg",
-          "width": 1680,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-16T04:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-deep-learning-artificial-intelligence-keeps-an-eye-on-volcano-movements.md",
-      "title": "Deep learning artificial intelligence keeps an eye on volcano movements",
-      "excerpt": "Radar satellites can collect massive amounts of remote sensing data that can detect ground movements -- surface deformations -- at volcanoes in near real time. These ground movements could signal impending volcanic activity and unrest;",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2020/10/201015134215.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2020/10/201015134215.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T15:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

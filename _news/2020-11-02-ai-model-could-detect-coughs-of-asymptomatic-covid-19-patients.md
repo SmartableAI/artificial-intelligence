@@ -40,6 +40,22 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "AI can detect COVID-19 by listening to your coughs"
+    excerpt: "Researchers have built an app that can detect COVID-19 through cough recordings, even for people who say they're asymptomatic."
+    publishedDateTime: 2020-10-31T21:58:00Z
+    webUrl: "https://www.engadget.com/ai-covid-19-cough-detection-from-recordings-213858299.html"
+    ampWebUrl: "https://www.engadget.com/amp/ai-covid-19-cough-detection-from-recordings-213858299.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-covid-19-cough-detection-from-recordings-213858299.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 87
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F8ca8be50-1bbd-11eb-8fff-1478e6a47e60&client=amp-blogside-v2&signature=90ddffc7377b87637e464f94b7376f8ff00e6692"
+        width: 600
+        height: 350
+        isCached: true
   - title: "AI can detect asymptomatic COVID-19 infections by listening to a cough"
     excerpt: "MIT has invented a tool that uses artificial intelligence to identify those with asymptomatic COVID-19 infections. Asymptomatic people are the most difficult to detect and can spread the infection"
     publishedDateTime: 2020-11-02T10:57:00Z
@@ -56,21 +72,21 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Deep learning models help hunt for COVID-19 drugs"
-    excerpt: "Michigan State University Foundation Professor Guowei Wei wasn't preparing machine learning techniques for a global health crisis. Still, when one broke out, he and his team were ready to help."
-    publishedDateTime: 2020-10-28T23:45:00Z
-    webUrl: "https://www.news-medical.net/news/20201028/Deep-learning-models-help-hunt-for-COVID-19-drugs.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20201028/Deep-learning-models-help-hunt-for-COVID-19-drugs.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201028/Deep-learning-models-help-hunt-for-COVID-19-drugs.aspx"
+  - title: "This AI Identifies Asymptomatic COVID Carriers by Their Cough"
+    excerpt: "A neural network created by MIT to look for signs of Alzheimer's has been applied to COVID-19 and accurately identified 98.5 percent of coughs from people who were confirmed to have novel coronavirus."
+    publishedDateTime: 2020-11-02T13:58:00Z
+    webUrl: "https://www.pcmag.com/news/this-ai-identifies-asymptomatic-covid-carriers-by-their-cough"
+    ampWebUrl: "https://www.pcmag.com/news/this-ai-identifies-asymptomatic-covid-carriers-by-their-cough?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/this-ai-identifies-asymptomatic-covid-carriers-by-their-cough?amp=true"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 59
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 87
     images:
-      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fPandemic-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://i.pcmag.com/imagery/articles/06j3rj27tROHxy3EaMtbhow-1.1604323934.fit_lim.size_1200x630.jpg"
+        width: 1120
+        height: 630
         isCached: true
   - title: "MIT builds AI which can detect Covid-19 by listening to your cough"
     excerpt: "AI tool uses neural networks that can figure out changes in a person’s cough which point out whether they are infected"
@@ -118,6 +134,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "UK plans to use AI to process adverse reactions to Covid vaccines"
+    excerpt: "The UK drugs regulator is planning to use artificial intelligence to sift through the “high volume” of reports of adverse reactions to Covid-19 vaccines in the coming months, as it prepares for an inoculation programme of groundbreaking scale."
+    publishedDateTime: 2020-11-01T15:00:00Z
+    webUrl: "https://www.ft.com/content/17a306cd-be75-48b4-996e-0c2916b34797?sharetype=blocked"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "gj3H308L17Lt+a+ts8CnT/6HkDnuE4Pv+xO0iKhZYlVtE03wDRS0aQyvTM7TdNp6S/i3REA3X1NIf7R7ozxfZdfvxSJMgYiDgQgOwKidgZzXy6rAZ82akMGhg3uX1GaJtQc1g6p3yArRzQJ3AbWo2UVAzSLkH3vEoDt3pjCO4D+b4Sv4/iViZWMm0UDuKCjchGcjI4nVZji1KFbnEQpKL1bHemc+V5vqzUrghBTc71yR1fpaa/V1nrX4Pt6MK+dmvKP+qWkBumHIg56FR08cN4f3e+3u6M/uxUPYIsrigWVGBRQP9EX33Wrz/4TUALbuU1S5gUEDMR7NEqqPbF0DSRCkBWegwqVWmUXRo3coh9M=;erW/hURPFhTFjFRnAdLq5g=="
 ---

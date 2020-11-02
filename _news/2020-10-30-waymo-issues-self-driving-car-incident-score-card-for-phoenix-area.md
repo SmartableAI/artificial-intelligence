@@ -55,6 +55,20 @@ related:
         width: 4256
         height: 2832
         isCached: true
+  - title: "Vodafone and HORIBA MIRA bring 5G to driverless cars"
+    excerpt: "At its Nuneaton headquarters. driverless vehicle tech provider HORIBA MIRA is partnering with Vodafone to implement 5G into self-driving cars"
+    publishedDateTime: 2020-11-02T14:13:00Z
+    webUrl: "https://www.information-age.com/vodafone-horiba-mira-bring-5g-driverless-cars-123492503/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 39
+    images:
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2020/11/vodafone-horiba-mira-bring-5g-driverless-cars.jpeg"
+        width: 1020
+        height: 675
+        isCached: true
   - title: "Who’s responsible when a driverless car has an accident?"
     excerpt: "Who’s responsible for an accident needs to be considered now rather than when we’re scrambling to implement laws We haven’t reached the point where driverless vehicles ply our roadways. However, as a recent incident on an Alberta highway demonstrates,"
     publishedDateTime: 2020-11-02T12:58:00Z

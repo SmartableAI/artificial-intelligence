@@ -8,6 +8,7 @@ webUrl: "https://www.prnewswire.com/news-releases/independent-research-firms-pos
 type: article
 quality: 36
 heat: 36
+published: false
 
 provider:
   name: PR Newswire

@@ -8,6 +8,7 @@ webUrl: "https://www.duluthnewstribune.com/news/education/6731443-University-of-
 type: article
 quality: 38
 heat: 38
+published: false
 
 provider:
   name: Duluth News Tribune

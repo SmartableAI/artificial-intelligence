@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/global-image-recognition-
 webUrl: "https://www.prnewswire.com/news-releases/global-image-recognition-in-cpg-market-2020-and-the-covid-19-impact-on-the-industry-301162721.html"
 type: article
 quality: 18
-heat: 28
+heat: 18
 published: false
 
 provider:

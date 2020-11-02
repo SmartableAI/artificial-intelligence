@@ -3,12 +3,12 @@ category: news
 title: "C3.ai CEO Tom Siebel on AI and CRM, remote learning's next breakthrough and regulating social media"
 excerpt: "Tom Siebel caught up with ZDNet to talk about next-gen CRM systems, C3.ai's Digital Transformation Institute, COVID-19 data lakes, education's next innovation and why social media firms need to be regulated."
 publishedDateTime: 2020-11-02T11:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
+originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
+webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
 type: article
-quality: 72
+quality: 92
 heat: -1
 published: false
 
@@ -24,6 +24,12 @@ topics:
   - Microsoft AI
   - AI
   - AI in Sales
+
+images:
+  - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/10/30/c4d5bd53-7b0e-40fd-a9a3-c7e79b7c49e3/thumbnail/1200x675/68b5f4044e23c638808bfdf57ffda312/20201029-siebel-larry.jpg"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "C3.ai on tackling CRM, education, social media regulation, and enterprise AI"
@@ -69,6 +75,6 @@ related:
         height: 357
         isCached: true
 
-secured: "Siid+A1yjoktgTFeQV7cAdJazOu+UF+g2tKUlQhxaznEC3CMWuxfmbDuBHsd7+ZIrATFyWM60CBYpCa81sI3DRV2583Y0s3KNVlI7DLb4qbrLg3ztZSPE2JheNalA2nGn+k1fgv/q04+lkhh+7sVZEgE8g8Vv6SbvSNB1jmsQXEyWCZZG0m2Zv+kSZ5MUyEIWeb9FFLOceCs17a9YQjYhV0RZw+pCNV2JRwmDnLWLQUdjaR5kjPgkvvySG6tQScEpe2gmOkOjuNfz2lsY8oKzbS930v83Ay9QyqH/dooxtSfLK/98l+44LLGV1okpCCGEYuVX0bbMvvamc7IqAo9GPL2JNaQ6P7MwkQqsjTG948pm1VQ1QXoky4yXZpm7GVSE3DzoBnyNlE5CmuGGtoWPGZqBOavs/H+heE6fj+zOrPa8MSuQ1SssYE4Z1EIkJXEQcbch69CdPiJ2hairydACz2rHtfh4Vlp0vLe6bZuF+htIcY7+hAUsSili14xMqFt9ZY7U/AjurQ/XtoPVH2XvA==;yaAO90ozpqJxaDeIgNLa8A=="
+secured: "tP6yq00FqCdBiqC5Vd2IcAZSgp3vqkn2178wBQYWSYTUax8XXpezfDAWxVJoGOab52ocawS0eRFsjAQCRHnhK3/VxjyPkljYU91PwChXTTO2F9ERXXRd9gD13GUG/5xXq/oVm/25PESImWV0f06k36g0rxAgA/9wjMxkonO5v5HyR4aH2SzRe67sX24eeBw5Gejm00+hmf63jICk8Fz6G0sJeHac2QprqcMlBG3QTZUMUufsMcZ2cU++YDlQklFCX2TWrMi5zLQHKcrOiqTUndgQ40tznfedLlbKjxU21P06DFq5Ieof8b1c35IRC3SYA8U6Nmn+qUedt0KL2ep+GU1cf0KWWZk94m0Tolzxhd4=;8NboqVHAg78LHz7nWBhLlA=="
 ---
 

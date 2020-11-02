@@ -352,22 +352,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Consumer Reports Finds GM’s Self-Driving Tech Superior to Tesla’s Autopilot"
-    excerpt: "Tesla’s Autopilot may be stealing more headlines as of late, but according to new findings from Consumer Reports, GM’s version is leagues ahead. Consumer advocate publication Consumer Reports recently conducted a test featuring a lineup of 17 vehicles with active driving assistance systems,"
-    publishedDateTime: 2020-10-28T21:16:00Z
-    webUrl: "https://robbreport.com/motors/cars/gms-self-driving-tech-beats-tesla-in-consumer-reports-test-1234577947/"
-    ampWebUrl: "https://robbreport.com/motors/cars/gms-self-driving-tech-beats-tesla-in-consumer-reports-test-1234577947/amp/"
-    cdnAmpWebUrl: "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/gms-self-driving-tech-beats-tesla-in-consumer-reports-test-1234577947/amp/"
-    type: article
-    provider:
-      name: Robb Report
-      domain: robbreport.com
-    quality: 57
-    images:
-      - url: "https://robbreport.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-28-at-12.jpg?w=1000"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Tesla Hikes Up the Price of ‘Full Self-Driving’ Option to $US10,000 ($14,241)"
     excerpt: "While the tech powering it is no doubt impressive, to call it “full self-driving” isn’t entirely accurate. Tesla warns users of its beta program that the software still requires vigilant monitoring and that “it may do the wrong thing at the worse ..."
     publishedDateTime: 2020-10-31T01:18:00Z
@@ -432,6 +416,15 @@ related:
       name: InfoSur Hoy
       domain: infosurhoy.com
     quality: 14
+  - title: "Polaris Launches ‘Self-Driving’ PSA Cloud Software for IT Service Providers"
+    excerpt: "Polaris, backed by Replicon, launches Polaris PSA -- a cloud-based professional services automation software platform for IT service providers."
+    publishedDateTime: 2020-11-02T15:28:00Z
+    webUrl: "https://www.channele2e.com/channel-partners/msps/polaris-psa-for-it-service-providers/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 2
 
 secured: "MEw4FfiKwgA/r+jpr+oahfuuuRrXPGiBhL/VsPCEp+3mtcxIkWMllxBHsXyuMEq/LBKsLMcF31l3LgN5TzdkZe8bkhqifIugSPUVIkl0YdAdKnsthtd6eoimfbOAf0zqhqK5SUYgamp5R0g3YjgqfkBMHHZWeoEDZe8EcFb1oat3W4ZLJV5q1SfmGlnN6AmImxiGSRHQpW6NQsK6L/3xlI6ms9P++7qtImDLOQT6SMvNoHp8W6JfAtXeiN1u8OUTenC3ikR9Cr63fxq3r53AyTX48kK1XCx8fThuGsrJEiFdxtnbh7QxErDvDxYDkPT268MRkwo0Rxrw6+nF03XKQ8r9LmPejpSISWJJysm2qaFR0I/VW2PuxObW/5Xw5TQa7xoXe2TDcVguYRinFPcbg7zajWJl4sQ4Wo9Tuq7rapY+JvELLO4y4PWsSX1mFD6N8OCvLIgz98UhUt63hwv8mqrYpbhlPQTFHaOlUj/QytFaIZPA0rQ/daWHJ0FbrdFKnss5/goyRSY2zG3D+w7mHw==;Oca0tjXNmotSvy/OmYjjgA=="
 ---

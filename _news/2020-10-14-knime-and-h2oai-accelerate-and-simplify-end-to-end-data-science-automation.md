@@ -1,26 +1,26 @@
 ---
 category: news
 title: "KNIME and H2O.ai Accelerate and Simplify End-to-end Data Science Automation"
-excerpt: "The joint offering combines Driverless AI for AutoML and KNIME Server for workflow management across the entire data science life cycle - from data access to optimization and deployment."
-publishedDateTime: 2020-10-14T16:38:00Z
-originalUrl: "https://www.bakersfield.com/ap/news/knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation/article_13c91b26-2708-53df-b588-f6f434a3fecf.html"
-webUrl: "https://www.bakersfield.com/ap/news/knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation/article_13c91b26-2708-53df-b588-f6f434a3fecf.html"
+excerpt: "KNIME and H2O.ai, the two data science pioneers known for their open source platforms, today announced a strategic partnership that integrates offerings from both companies. The joint offering combines Driverless AI for AutoML and KNIME Server for workflow management across the entire data science life cycle - from data access to optimization and deployment."
+publishedDateTime: 2020-10-14T15:16:00Z
+originalUrl: "https://www.fltimes.com/business/national/knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation/article_d61ee3d4-0a7a-59d5-b27c-eae8f4196f82.html"
+webUrl: "https://www.fltimes.com/business/national/knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation/article_d61ee3d4-0a7a-59d5-b27c-eae8f4196f82.html"
 type: article
 
 provider:
-  name: The Bakersfield Californian
-  domain: bakersfield.com
+  name: Finger Lakes Times
+  domain: fltimes.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
+  - url: "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/custom/image/b0352330-9d33-11e5-a934-9bac0af3ff38.jpg"
     width: 1200
     height: 630
     isCached: true
 
-secured: "K7gFdGa4Kq7hGy2+CVRpWNQJTiC9yuFAtAE8A33CuX6n1wL7dnT6zE+DI/I5ULi7VnVWc/V/ltjpUTEEyGdoQNrsTPsyNIfclX/A/ejOOawTP322QxPVVHbL9+EvvYrqxk8CtiXmbQFB3Egmmh3/ebqlfnD1oDTSuL+VEaMpWxaySSqYukJ+8JFZRfbCOZHP/+F8aLI324ESKtd/zfASbdApOGplfdITAz9c16KRF3KI/gK0CvVF4ZTPlGhtUm0LyXCuzUBOoGubtMcBBUsuYlX+r0but7rPPAyz6RT6HZ/0NobUNaOblx7x29G8AtwhiqF19nnlDeX0graPpUUZ6z0ExS2qksBiclZ42a4/QhI=;qYhfmpwgqjJT4PR5IcHJsw=="
+secured: "sZy2235PlxVXgjCuWOEqs8i3Qwf5fCieZewL+4B2QaLaOxRjyPN+oUhV5MjnS98FhjBif6zAx3sjk2lWdo88X+AsCUDSDnLLEfRtfbkhAV33lAuXLnLbtlabYAohDWgzsWt5oYvKjzI19v3upwg0EUTmGHmeL5HUr1oAXC/HxFD9hqYeZcikjLFYdOTk52lMbKhzJPXjWZN1SND4yYP2/Qz0WvjQJ4QlKhVtiV68X6n2ua4uxQ3lqq1ZYGa+DgYsVDO5QHCnOA8s46uRXWzB1TvGJh9PTOfFcfzgdOILZEDNlaCnV0znuUKTlB5IOel96aM1Dl7jcxMK0UQufX7LGAe8TvO0Mc7jkYFsvjdmFkQ=;kvns5RDAWIFJ4nPDoXk2bA=="
 ---
 

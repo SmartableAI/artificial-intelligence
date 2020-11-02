@@ -8,6 +8,7 @@ webUrl: "https://www.automotiveworld.com/news-releases/horiba-mira-self-driving-
 type: article
 quality: 0
 heat: 0
+published: false
 
 provider:
   name: Automotive World

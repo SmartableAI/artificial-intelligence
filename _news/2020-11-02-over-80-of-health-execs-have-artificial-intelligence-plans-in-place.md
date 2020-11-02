@@ -8,6 +8,7 @@ webUrl: "https://healthitanalytics.com/news/over-80-of-health-execs-have-artific
 type: article
 quality: 37
 heat: 37
+published: false
 
 provider:
   name: Analytics
@@ -22,6 +23,6 @@ images:
     height: 400
     isCached: true
 
-secured: "Ru4c/Fiw4jDEemG9n5FYqoAuQCRRtlWanH4Dqya1XBjLQ/GREB3telio2vIPhUIeMTJvfgD6tLsq50U2XreXDjMGUCCZGe5LhII+76pCdPb4LcdIWVf+2Ac0WcjiTKFL/DnpRoD0J3ARbBOj2oPlIHemb9hOXKELIVhdTpWYjoum/S52z7FqwnJTJlIBAdLo6GocrffRzCw5FLaM4nb87kqbvYuttPWK6/Ak/F3QYxREb+0SuYO8n111kL5ClCQQ3RjvfFfg/B0Ee9fBfZO/xzCoTPJfVKCtQ/v5vvUCfs4Rh5KcalnO79UEYdhTqHjtvFD4sARovzAtyOeyrshNCTufufZ0EMco7DybsCf3Jtk=;olCGlH5LVHsJWJW7sKOxHA=="
+secured: "mPbgp5aNM18q9+broet3E7SiKT1/PfNZPVTr7gfJiqissE9nlRJgIYxgkeqYrnF2gOYfmf0mcpGzQ9X1WFsi+D7LGfVfmfFnkOdNPMvyu/0Hl4nWUvwO9395ANbELo6Xh5A/3iPb8xvA/iSc5vlV9XH/ISyPREOrCoPy/CtWEavRI2fQD+eRWM4SQOvgNXZOH0NrlQBibFEnR2jXnBUKCmF9F2bVl5X0xk4YJCFKwqFh++J3U2IiLdjK7zhP5qz9TYt+24KltFvoaAKIfDNzyILqEzC78cWRoxGQCiDPrGweOJDQ7RJSszp3+dJpV1/bkV8VsWX/TlNr044dqoCgddJS1+1zBVPo/JWMcge6n3EXWcMpKLZ+8GuPcAfT2ZORHFTpbvMglxQnW0DjiwvSpSGCgg5mfuyX5aHLzF1Ak2EvSrw5pRKEEHL1J/iciZMo+sdbuu7suiHyO3/f9JDUP9fFM8BPyDQiswabBNSk37XHQjWq2c9xzdXimSvaBNgMG/0d7whm0/QkMQjIdldXsg==;3qZNdvK3gA8CHhLZejysFA=="
 ---
 

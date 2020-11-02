@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 890
         isCached: true
+  - title: "Animal Cognition Induces Common Sense in Artificial Intelligence Agents"
+    excerpt: "Reinforcement learning models which are trained using the same approach of animal cognitive abilities with rewards, urges common sense into artificial intelligence."
+    publishedDateTime: 2020-11-02T13:30:00Z
+    webUrl: "https://www.analyticsinsight.net/animal-cognition-induces-common-sense-in-artificial-intelligence-agents/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Artificial-Intelligence-1.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "National Grid Partners Invests in two Artificial Intelligence Startups to Protect Critical Infrastructure"
     excerpt: "National Grid Partners (NGP), the investment and innovation arm of National Grid plc (LSE: NG; NYSE: NGG), announces two new investments in data analytics startups that use artificial intelligence (AI) to protect critical infrastructure and ultimately help reduce costs for customers."
     publishedDateTime: 2020-10-29T19:16:00Z

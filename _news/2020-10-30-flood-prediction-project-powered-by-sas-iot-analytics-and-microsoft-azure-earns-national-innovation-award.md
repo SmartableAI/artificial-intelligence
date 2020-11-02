@@ -33,6 +33,22 @@ related:
         width: 900
         height: 491
         isCached: true
+  - title: "CMOs, Predict Your Wins With AI And Predictive Analytics"
+    excerpt: "Business intelligence and predictive analytics are the closest measures we have to a crystal ball that shows us how well new strategies and campaigns will perform"
+    publishedDateTime: 2020-11-02T13:24:00Z
+    webUrl: "https://www.entrepreneur.com/article/358890"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/358890"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/358890"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 87
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1604323446-online-3539412.png?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "V2FlIeVh0DBYoXFJDrInLRobpuVc3oRqU4heCmfzxRM+2a9phWsoTPxUDZIu/8V2dLLHPF9+gRiXLJCcaY3ojh/XDlKGp7TTXL6QdZ0nqZfqeHyfggXWg4A/ekWh6BSHZy9WQu4cRoNsfI5d4fwuU0eVpgz006S1iyY2hmykshM/DmPufgw4ygwrLyDdIhYHTU8kAMgEb0AcpfJZ1nwLP9y/UFUIzCe326NyzteemtJcmm4CE/jHJjSb4qw6YwBuQPUof1UsfNT/qtrAFAPrCiyAJ5MKW5ZZN4d8IkbdgG5gTWp4gtKyASskj024mQajtucfOBXACpX/NmIJ50AlUmWgdyh8bx0o8jShQGoNbmpYaUjvGGz9sWbvIQ3Btb4zkPuyo6f/GMPtvtQ8+sjY8y9y0DXE5pyskHE9ctN/zEvGxnuxBSjUORhcVTDyksKtplumvsjdLtW3/nZPZmswFVyA7OU+iwLMQJCOC16RuWvhsY9cSpxuA8JZL68L/00lGBFlJv2PSANGZR29hNW/eA==;Ljrdn+/MVbaao+6GXZns4g=="
 ---

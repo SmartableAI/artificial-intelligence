@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bizjournals.com/triangle/news/2020/11/01/using-artificia
 cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/triangle/news/2020/11/01/using-artificial-intelligence-to-better-manage.amp.html"
 type: article
 quality: 39
-heat: 49
+heat: 39
 published: false
 
 provider:

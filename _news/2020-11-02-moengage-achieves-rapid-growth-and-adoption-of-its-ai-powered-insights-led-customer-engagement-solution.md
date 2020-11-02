@@ -10,6 +10,7 @@ cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/storie
 type: article
 quality: 20
 heat: 20
+published: false
 
 provider:
   name: Scoop

@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Lindsay to Develop Sustainable and Profitable Solutions for Growers using Microsoft Azure"
-    excerpt: "PRNewswire/ -- Lindsay Corporation (NYSE: LNN), a leading global manufacturer and distributor of irrigation and infrastructure equipment and technology, today announced the development of intelligent digital solutions using Microsoft Azure to enhance irrigation management,"
-    publishedDateTime: 2020-10-30T10:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-1029745663"
+  - title: "Microsoft to Expand Azure Kinect’s Computer Vision Tech to Commercial Market"
+    excerpt: "The technology behind Microsoft’s enterprise-focused computer vision camera, the Azure Kinect developer kit, will soon find its way into commercial products. Microsoft is collaborating with two companies,"
+    publishedDateTime: 2020-11-02T13:26:00Z
+    webUrl: "https://www.roadtovr.com/microsoft-azure-kinect-commercial/"
+    ampWebUrl: "https://www.roadtovr.com/microsoft-azure-kinect-commercial/amp/"
+    cdnAmpWebUrl: "https://www-roadtovr-com.cdn.ampproject.org/c/s/www.roadtovr.com/microsoft-azure-kinect-commercial/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 70
+      name: Road to VR
+      domain: roadtovr.com
+    quality: 88
+    images:
+      - url: "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2020/11/azure-kinect.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "iRvFGd8up6pnoTK9MaxRoJc8EHQhfvX/oxCSAVKkBsLSXdDuhZnpK4gTp3BKna5dU7+5LUVQE9mz5EQRJNipNCLC3QlfOJG2XdVk+9fuUpNZBkDfQE9+3TfCFakvIwzmmUQlLDk16GoAptpyxo6JR1sL7ieUPQmMDqATi4ZdnL73gFSsQK58dYdf982XBXhYDFNSXqLM2bxo+UDS36L3gPXT5k3XwOix+vPH9M0upRAxLlI/6wKNIIXNdW6z69hr6dyjWQW8VHrbDe11ADYwlaKF7qbaD4i6JGxjadUT5n9++JwF3eMGcSegjXRc4Cw/fWPy6o/0p9YF6AnkwZuhPkK++Ivg8eTicYEBbZChA7wnOP22La1SvZiG98+f54exBgC1M3hd011rTaF24kKlb02WfOiVpNHYJfDHIpkHMpI6rLsiV97yYxdptLL5lRjrBXNeKhdngO4Urzp8dCqdkUXxVAPQSlphLEL+VGXlZlKVUJCG+SZDjukLIji4UvE/yhD2RsfiyUTV/MF0MRbdeg==;R+/jTrD4j09aLDV2+nIfAA=="
 ---

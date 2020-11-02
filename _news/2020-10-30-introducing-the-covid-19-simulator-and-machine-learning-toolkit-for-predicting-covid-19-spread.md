@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-the-covi
 webUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-the-covid-19-simulator-and-machine-learning-toolkit-for-predicting-covid-19-spread/"
 type: article
 quality: 79
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Amazon Web Services Introduces Open-Source Machine Learning Toolkit To Predict The Spread Of COVID-19"
+    excerpt: "Amazon Web Services open-sources a new simulator and a series of machine learning tools that allow researchers and data scientists to study and predict the spread of the COVID-19 pandemic infections."
+    publishedDateTime: 2020-11-02T15:27:00Z
+    webUrl: "https://techlog360.com/aws-open-source-machine-learning-toolkit-to-predict-the-spread-of-covid-19/"
+    type: article
+    provider:
+      name: techlog360.com
+      domain: techlog360.com
+    quality: 41
+    images:
+      - url: "https://tl360.b-cdn.net/wp-content/uploads/2020/11/AWS-news-and-stories.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "1B5y3YPnvqFVrJshihHZqCjFImZk2GH1VZaj+q+LHBJOzy0csEGVoIesAXgZ98zhXE8TVJYdkEo2Uqx8wgSpE9SK1wkWZP8TjjaMqydCwp+Awd2m3XxtdjhHkBHhtgvlvrsQW6r0Jq+WLyIwQkVO+vlFwQ+9ePDd4LyJsGZHjVucuOgkQ0EZqQcO2LchZES+VS+A6rDdEOwi5SQHOh/mkxEDZ0TFUDIZszlmpXk/YkSn35J47vnIV/QxRJX2ccL6bMgvK7Y4gJPl36nEbzf4KKszkrHehJRx103Z174Ubkt58IcUY73/J5jaU1pg06pbdMYgF4EkRpzmlWEoz/O3X956WC8bCZTLuSu3cQv8v7c=;OmTDUxmEYxhg45cUQAgsbw=="

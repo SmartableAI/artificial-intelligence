@@ -8,6 +8,7 @@ webUrl: "https://www.investorideas.com/CO/GOPH/news/2020/11021Productivity-Softw
 type: article
 quality: 27
 heat: 27
+published: false
 
 provider:
   name: Investor ideas

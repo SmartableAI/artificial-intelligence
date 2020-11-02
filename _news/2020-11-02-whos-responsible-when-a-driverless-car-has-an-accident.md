@@ -63,6 +63,20 @@ related:
         width: 580
         height: 349
         isCached: true
+  - title: "Vodafone and HORIBA MIRA bring 5G to driverless cars"
+    excerpt: "At its Nuneaton headquarters. driverless vehicle tech provider HORIBA MIRA is partnering with Vodafone to implement 5G into self-driving cars"
+    publishedDateTime: 2020-11-02T14:13:00Z
+    webUrl: "https://www.information-age.com/vodafone-horiba-mira-bring-5g-driverless-cars-123492503/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 39
+    images:
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2020/11/vodafone-horiba-mira-bring-5g-driverless-cars.jpeg"
+        width: 1020
+        height: 675
+        isCached: true
 
 secured: "FrJNiGkSl//WZ6NaoMRruOb1ESqCC2BaJ0OSYGjdHkiIv0hSz2LElvbeFbLc4pmVBrrjhMwJdbQavTe7R/OF4WWF6Fu0bN37Iw3/RDC64dTDpl6VQDBHI+yCh/M+7hDY3Du6da/neH+lEX0gyCifWhvKMz51xaQeSglkxegrMWbXYz7i41evQ4eOs4lF45T2oXEa1y/0xrlBwDwsJXvCtLu3kqv2cZrxtvkjIUzBcv+C34wNfyoy+Qev/BRJcSGNiuepgTK6iMlVmrU5iH6TizvVGtSlbH9rKwg3ztK3V/yb7u8T01cbXfRMXS4dAvQMQDVoIxSD5eNfmEDF9Rmj2SMMZMj90g6NtIeHEZa9VinKb12ZsbCtyAbJDe5KDGTMRoBMyi28ER3tz7isoNmWoiSPHolHDy6Rfwya1H5CUycfaOfM3wLJ5PyYtHioOP9FJXCtvGCZB2nhAf/rE4IJGJu6+VCz0eFXOUDyInvk45/aiVAJkAuAnY0fuu4dMj/psZoqW5tISKyjPF/qxIZ/ew==;jR7SemoywiRV9QMVgvVKqg=="
 ---

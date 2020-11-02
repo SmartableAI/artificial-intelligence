@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 808
         isCached: true
+  - title: "Animal Cognition Induces Common Sense in Artificial Intelligence Agents"
+    excerpt: "Reinforcement learning models which are trained using the same approach of animal cognitive abilities with rewards, urges common sense into artificial intelligence."
+    publishedDateTime: 2020-11-02T13:30:00Z
+    webUrl: "https://www.analyticsinsight.net/animal-cognition-induces-common-sense-in-artificial-intelligence-agents/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Artificial-Intelligence-1.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "Unw9XB37Q3WAiFojN7KWTVmHAJ02XOonWtfDWS92I+lqDRaMa6XjIkq8DVb4qTAU55CUQvncbBfJ8yxvUOXPYPCyd2JYLfx6HJ5F2KPIVClmonHcyXN38wjsg29uuGQuZoVqg9XVPd3B89skPX7YtvoCVw/mgbiZEmYAmdkbEazUuSBSCZbChE96TuvuUI+bxi+kaXQjHmIOATVkIygqrOU+v1gbm4jLLltL+tKsZpZ6Di+b/V3z3gpnY719cLnD4xYJhL9OsV/3Rn0zJp79DVfWzqK8fIR5zOrU9fEkk5Bq+m3H1RPyVJoyFeSr0mpeog6J55R8umZg9RBKt8rhluxqo+ByuzNJJUcfyA/+vhA=;NPfYmV4guH585eY9u63qFQ=="
 ---

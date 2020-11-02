@@ -44,21 +44,37 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Deep learning models help hunt for COVID-19 drugs"
-    excerpt: "Michigan State University Foundation Professor Guowei Wei wasn't preparing machine learning techniques for a global health crisis. Still, when one broke out, he and his team were ready to help."
-    publishedDateTime: 2020-10-28T23:45:00Z
-    webUrl: "https://www.news-medical.net/news/20201028/Deep-learning-models-help-hunt-for-COVID-19-drugs.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20201028/Deep-learning-models-help-hunt-for-COVID-19-drugs.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201028/Deep-learning-models-help-hunt-for-COVID-19-drugs.aspx"
+  - title: "AI can detect COVID-19 by listening to your coughs"
+    excerpt: "Researchers have built an app that can detect COVID-19 through cough recordings, even for people who say they're asymptomatic."
+    publishedDateTime: 2020-10-31T21:58:00Z
+    webUrl: "https://www.engadget.com/ai-covid-19-cough-detection-from-recordings-213858299.html"
+    ampWebUrl: "https://www.engadget.com/amp/ai-covid-19-cough-detection-from-recordings-213858299.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-covid-19-cough-detection-from-recordings-213858299.html"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 59
+      name: Engadget
+      domain: engadget.com
+    quality: 87
     images:
-      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fPandemic-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F8ca8be50-1bbd-11eb-8fff-1478e6a47e60&client=amp-blogside-v2&signature=90ddffc7377b87637e464f94b7376f8ff00e6692"
+        width: 600
+        height: 350
+        isCached: true
+  - title: "This AI Identifies Asymptomatic COVID Carriers by Their Cough"
+    excerpt: "A neural network created by MIT to look for signs of Alzheimer's has been applied to COVID-19 and accurately identified 98.5 percent of coughs from people who were confirmed to have novel coronavirus."
+    publishedDateTime: 2020-11-02T13:58:00Z
+    webUrl: "https://www.pcmag.com/news/this-ai-identifies-asymptomatic-covid-carriers-by-their-cough"
+    ampWebUrl: "https://www.pcmag.com/news/this-ai-identifies-asymptomatic-covid-carriers-by-their-cough?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/this-ai-identifies-asymptomatic-covid-carriers-by-their-cough?amp=true"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 87
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/06j3rj27tROHxy3EaMtbhow-1.1604323934.fit_lim.size_1200x630.jpg"
+        width: 1120
+        height: 630
         isCached: true
   - title: "AI model could detect coughs of asymptomatic Covid-19 patients"
     excerpt: "If the model is approved by the FDA, it could be used on a wide-scale and could be a viable tool for non-invasive pre-screening of asymptomatic patients."
@@ -122,6 +138,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "UK plans to use AI to process adverse reactions to Covid vaccines"
+    excerpt: "The UK drugs regulator is planning to use artificial intelligence to sift through the “high volume” of reports of adverse reactions to Covid-19 vaccines in the coming months, as it prepares for an inoculation programme of groundbreaking scale."
+    publishedDateTime: 2020-11-01T15:00:00Z
+    webUrl: "https://www.ft.com/content/17a306cd-be75-48b4-996e-0c2916b34797?sharetype=blocked"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "NEcUQdEohYw7/onBg0KD7Z4nQORK1bBGOkwz9UGQDyKbdLn1RzbsDcWWD0B9XLI7RkvbbMrp1ZA1Gy44nnUsY0tlT/peA2mm+OvVhqp02a1uPuwT95G+KCcorIA44gr+6LXn4+OIXT4tr8NTl+PNo2NcXTTND/L5oUaJoIcltGqF5yN8oIKX7VuBLr20JIcpl7wGjq1jCIO7c/x1DCn+KUGsqbUINQEkTJCmccvjJhHEL0nAKqJmw413GtmMP57IjyVjv4lvPfI1QJZfvjyVka4DVk3vb7RhVoMp7Z+ZMzwXB8e4aZHp1pepcrqbtGGJCxvCXKcQZXeeNgRRLwQny3DeZtzuQifbZJUcjb1Y8namPPlejTrJpNC14L4FLusAA58Mdf4AOrHfgvfnGsPg43HEJXiBGy9g7yYCvepRxRmPXAR7CSgAcrkowqzTmH0BNLWPDqavZxXq2ztJxDAjg/+ukKkuI5jNMKJcIfHXtDDfLRv+RAdsPWy/Tn/AZGla9Rf8xjteq/SwKEE8GRgANw==;8TD777Eg6N0sGZYqQtAZzA=="
 ---

@@ -35,20 +35,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
-  - title: "Learn More About FinTech and Blockchain for Less Than $40"
-    excerpt: "You’ll learn the ins and outs of Fintech and Blockchain thanks to this training bundle ... Courses will also teach you about Robo-Advisors, InsurTech, Stablecoins and the ins and outs of AI in the financial services industry. And the best part is ..."
-    publishedDateTime: 2020-10-28T20:46:00Z
-    webUrl: "https://www.extremetech.com/deals/316736-learn-more-about-fintech-and-blockchain-for-less-than-40"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 39
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2020/10/sale_48031_primary_image_wide.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "15OdabzbqQIpLtRHlBtNyrYuG9YsIrMW43BGzABUfYg4MVcLjL266B2E7FnTEZDzuevdz+6s/Y65wzwoFiQuf5XBb/FGnDaVhJWR1/9IrSWqGb780N2oK2QG7QjuJ74PTR91z+McnVkw7uNPHna0QHwJPEf8BxiOP5MFcd1Gw/i5Vhocasi1xUywH3EAMeGLCw3QPzpLLywM+x2fR1l9AZLgeH+1dRgeiLpDsf9inYCEJUQ/ZvtT5RHG3jOL+zTJ7il6dfD4akbebFXjnqmkYuLzM8VC6UYGUxkh0iGvjqTXH5o4mn/PxzhQEJaul7Se3VN/rg+/M4bIz+Cl0bFsKYXRMonR2Ht2BdO0P+UWf9U=;QQj9tANflN9gGypZW6hdIQ=="
 ---

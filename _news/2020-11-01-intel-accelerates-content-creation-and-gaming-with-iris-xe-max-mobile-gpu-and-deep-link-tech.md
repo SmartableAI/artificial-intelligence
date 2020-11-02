@@ -185,6 +185,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Intel Iris Xe Max discrete GPU for slim laptops announced with AI and encoding performance boost"
+    excerpt: "Intel Iris Xe Max discrete GPU for slim laptops announced.Intel has claimed top provide enhanced AI and encoding boost in performance as well."
+    publishedDateTime: 2020-11-02T13:55:00Z
+    webUrl: "https://www.theindianwire.com/tech/intel-iris-xe-max-discrete-gpu-for-slim-laptops-announced-with-ai-and-encoding-performance-boost-297244/"
+    ampWebUrl: "https://www.theindianwire.com/tech/intel-iris-xe-max-discrete-gpu-for-slim-laptops-announced-with-ai-and-encoding-performance-boost-297244/?amp"
+    cdnAmpWebUrl: "https://www-theindianwire-com.cdn.ampproject.org/c/s/www.theindianwire.com/tech/intel-iris-xe-max-discrete-gpu-for-slim-laptops-announced-with-ai-and-encoding-performance-boost-297244/?amp"
+    type: article
+    provider:
+      name: The Indian Wire
+      domain: theindianwire.com
+    quality: 61
+    images:
+      - url: "https://www.theindianwire.com/wp-content/uploads/2020/11/intel-iris-xe-max-chip.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Intel’s Iris Xe MAX GPUs bring the fight to Nvidia and AMD in notebooks"
     excerpt: "Back to the Intel Iris Xe MAX graphics. Intel claims that 11th Gen Intel Core mobile processors paired with the GPUs can improve AI-based creation with Additive AI by as much as seven times compared to “other laptops”. Video encoding is rather ..."
     publishedDateTime: 2020-11-02T07:01:00Z
@@ -228,6 +244,20 @@ related:
       - url: "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fvnunetcom-analysis-intel-montecito-takes-on-ibm-sun-and-amd-medium.jpg&w=480&c=0&s=1"
         width: 480
         height: 285
+        isCached: true
+  - title: "Intel launches Iris Xe Max discrete GPU"
+    excerpt: "Intel has launched its Iris Xe Max discrete graphics processor, aimed at thin-and-light notebooks powered by 11th Gen Core Tiger Lake processors. The Iris Xe Max is based on the Xe LP graphics architecture and it's targeted at the 'thinner the better' market,"
+    publishedDateTime: 2020-11-02T14:00:00Z
+    webUrl: "https://www.bit-tech.net/news/intel-launches-iris-xe-max-discrete-gpu/1/"
+    type: article
+    provider:
+      name: Bit-Tech
+      domain: bit-tech.net
+    quality: 39
+    images:
+      - url: "https://bit-tech.net/media/image/2020/11/69062e34-3a03-4aab-9072-6f5501d09444.jpeg"
+        width: 450
+        height: 230
         isCached: true
   - title: "Intel’s Discrete GPU Era Begins: Intel Launches Iris Xe MAX For Entry-Level Laptops"
     excerpt: "which implements DVFS feedback loops on top of supposedly AI-trained algorithms to help the system deliver power to the parts of the processor that need it most, such as CPU, GPU, interconnect, or accelerators. With Adaptix enabled, the idea is that the ..."

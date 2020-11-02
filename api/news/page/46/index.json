@@ -2,21 +2,21 @@
   "page": 46,
   "value": [
     {
-      "path": "_news/2020-09-14-ibm-watson-powers-aipex-the-first-fully-ai-driven-index.md",
-      "title": "IBM Watson powers AiPEX, the first fully AI-driven index",
-      "excerpt": "With financial markets making historic gains and losses week after week, stability and risk mitigation are critical factors for success in equity investing. Historically, quantitative criteria for indexes offered through financial products and index annuities have relied exclusively on structured historical",
+      "path": "_news/2020-09-24-singapore-hopes-artificial-intelligence-will-help-boost-its-tourism-industry.md",
+      "title": "Singapore hopes artificial intelligence will help boost its tourism industry",
+      "excerpt": "Local start-ups like Vouch and Travelstop are betting on their AI-powered systems to help the country navigate new security standards, as Singapore prepares to reopen its borders again after months of coronavirus travel restriction.",
       "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/09/ibm-watson-powers-aipex-the-first-fully-ai-driven-index/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/09/ibm-watson-powers-aipex-the-first-fully-ai-driven-index/",
+      "webUrl": "https://www.cnbc.com/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html",
+      "originalUrl": "https://www.cnbc.com/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/09/1156_Watson_Blog_EquBot-HSBC_Leadspace_Final-990x498.jpg",
-          "width": 990,
-          "height": 498,
+          "url": "https://image.cnbcfm.com/api/v1/image/106706240-1600338869741-gettyimages-1136947347-nik_1761-----gi--19mar19.jpeg?v=1600339088",
+          "width": 5568,
+          "height": 3712,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-14T09:02:17-07:00",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html",
+      "publishedDateTime": "2020-09-23T17:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
+        "name": "CNBC",
+        "domain": "cnbc.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,25 +49,25 @@
         "news"
       ],
       "topics": [
-        "IBM AI"
+        "AI"
       ]
     },
     {
-      "path": "_news/2020-09-14-big-data-reveals-new-insights-into-what-our-dreams-say-about-us.md",
-      "title": "Big Data Reveals New Insights Into What Our Dreams Say About Us",
-      "excerpt": "Some scientists enthuse about possible uses in therapy; Covid-fueled dreams of massive bug attacks.",
+      "path": "_news/2020-09-24-research-snapshot-biometrics-in-cars.md",
+      "title": "RESEARCH SNAPSHOT – Biometrics in cars",
+      "excerpt": "Last year, Hyundai Mobis set about investing some US$5 million in China's Deep Glint, which has technologies regarding object recognition and behaviour pattern analysis using AI. The technology ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/big-data-reveals-new-insights-into-what-our-dreams-say-about-us-11600098682?mod=hp_featst_pos4",
-      "originalUrl": "https://www.wsj.com/articles/big-data-reveals-new-insights-into-what-our-dreams-say-about-us-11600098682?mod=hp_featst_pos4",
+      "webUrl": "https://www.just-auto.com/analysis/research-snapshot-biometrics-in-cars_id197863.aspx",
+      "originalUrl": "https://www.just-auto.com/analysis/research-snapshot-biometrics-in-cars_id197863.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.wsj.net/im-231790/social",
-          "width": 1280,
-          "height": 640,
+          "url": "http://i4.progressivedigitalmedia.com/3/2020-09-24-08-59-large34989hyundaimotorrevealsworldsfirstsmartfingerprinttechnologytovehicles1_.jpg",
+          "width": 424,
+          "height": 283,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -75,23 +75,91 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/big-data-reveals-new-insights-into-what-our-dreams-say-about-us-11600098682",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/big-data-reveals-new-insights-into-what-our-dreams-say-about-us-11600098682",
-      "publishedDateTime": "2020-09-14T08:56:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-23T16:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Just Auto",
+        "domain": "just-auto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-mit-professor-wins-top-ai-award-for-cancer-drug-research.md",
+      "title": "MIT professor wins top AI award for cancer, drug research",
+      "excerpt": "It’s meant to elevate AI advancements to the level of a Nobel Prize or computer science’s Turing Award, while also highlighting AI research ... the encounter on Facebook, and it's gotten ...",
+      "sourceUrl": null,
+      "webUrl": "https://fox59.com/news/mit-professor-wins-top-ai-award-for-cancer-drug-research/",
+      "originalUrl": "https://fox59.com/news/mit-professor-wins-top-ai-award-for-cancer-drug-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-23T14:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX59 News",
+        "domain": "fox59.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-mouser-electronics-new-intelligent-revolution-series-explores-cutting-edge-applications-in-artificial-intelligence.md",
+      "title": "Mouser Electronics’ New Intelligent Revolution Series Explores Cutting-Edge Applications in Artificial Intelligence",
+      "excerpt": "Mouser Electronics announces The Intelligent Revolution, a captivating new series in Mouser’s award-winning Empowering Innovation Together program.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200923005723/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20200923005723/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200923005723/en/824095/23/PRINT_EIT_IntelligentRevolution_eBook1.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-23T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -105,868 +173,21 @@
       ]
     },
     {
-      "path": "_news/2020-09-14-new-insights-into-dreams-and-what-they-say-about-us.md",
-      "title": "New Insights Into Dreams and What They Say About Us",
-      "excerpt": "They’re advancing artificial intelligence and digital databases into the realm of the unconscious, experimenting with new ways to identify those in mental distress and at the same time provoking ...",
+      "path": "_news/2020-09-24-robot-beats-humans-at-curling-thanks-to-deep-learning-program.md",
+      "title": "Robot beats humans at curling thanks to deep learning program",
+      "excerpt": "Thanks to a new deep learning program, a curling robot, appropriately named Curly, was able to win three out of four matches against curlers from South Korea's national teams.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/big-data-reveals-new-insights-into-what-our-dreams-say-about-us-11600098682",
-      "originalUrl": "https://www.wsj.com/articles/big-data-reveals-new-insights-into-what-our-dreams-say-about-us-11600098682",
+      "webUrl": "https://www.upi.com/Science_News/2020/09/23/Robot-beats-humans-at-curling-thanks-to-deep-learning-program/5991600873549/",
+      "originalUrl": "https://www.upi.com/Science_News/2020/09/23/Robot-beats-humans-at-curling-thanks-to-deep-learning-program/5991600873549/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 106,
       "tags": null,
       "images": [
         {
-          "url": "https://images.wsj.net/im-231790/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/big-data-reveals-new-insights-into-what-our-dreams-say-about-us-11600098682",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/big-data-reveals-new-insights-into-what-our-dreams-say-about-us-11600098682",
-      "publishedDateTime": "2020-09-14T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-ibm-to-leverage-watson-enhance-fantasy-football-experience.md",
-      "title": "IBM to Leverage Watson, Enhance Fantasy Football Experience",
-      "excerpt": "International Business Machines Corporation IBM will be leveraging the AI capabilities of Watson to enrich ESPN Fantasy Football experience for gamers. IBM unveiled a new feature called Trade Assistant (only for mobile iOS and Android) to help gamers make judicious decisions regarding adding and offloading players from the teams.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ibm-to-leverage-watson-enhance-fantasy-football-experience-2020-09-14",
-      "originalUrl": "https://www.nasdaq.com/articles/ibm-to-leverage-watson-enhance-fantasy-football-experience-2020-09-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ibm-to-leverage-watson-enhance-fantasy-football-experience-2020-09-14?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-to-leverage-watson-enhance-fantasy-football-experience-2020-09-14?amp",
-      "publishedDateTime": "2020-09-14T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-idriverplus-raises-over-146-million-for-autonomous-street-cleaners-and-cars.md",
-      "title": "Idriverplus raises over $14.6 million for autonomous street cleaners and cars",
-      "excerpt": "Beijing-based self-driving startup Idriverplus raised $14.6 million in funding to further develop its autonomous robot and vehicle platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/14/idriverplus-raises-over-14-6-million-for-autonomous-street-cleaners-and-cars/",
-      "originalUrl": "https://venturebeat.com/2020/09/14/idriverplus-raises-over-14-6-million-for-autonomous-street-cleaners-and-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/1280-e1600097257631.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/14/idriverplus-raises-over-14-6-million-for-autonomous-street-cleaners-and-cars/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/14/idriverplus-raises-over-14-6-million-for-autonomous-street-cleaners-and-cars/amp/",
-      "publishedDateTime": "2020-09-14T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-artificial-neural-network-market-covid19-impact-size-share-trends-ann-technology-software-services-application-and-demand-by-2023.md",
-      "title": "Artificial Neural Network Market- Covid19 Impact, Size, Share, Trends, ANN Technology, Software & Services, Application and Demand by 2023",
-      "excerpt": "According to Market Research Future Reports (MRFR), the global artificial neural network market is expected to acquire a significant market value, thriving at a substantial CAGR during the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-network-market--covid19-impact-size-share-trends-ann-technology-software-services-application-and-demand-by-2023-2020-09-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-network-market--covid19-impact-size-share-trends-ann-technology-software-services-application-and-demand-by-2023-2020-09-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-14T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-when-wildfire-smoke-and-ash-fill-the-sky-heres-how-self-driving-cars-can-go-awry.md",
-      "title": "When Wildfire Smoke And Ash Fill The Sky, Here’s How Self-Driving Cars Can Go Awry",
-      "excerpt": "An especially eerie sight made the national and international news last week when the Bay Area and other surrounding locales became thick with smoke and ash, causing the skies to showcase a menacing red-orange glow and blotted out any semblance of a normal sky.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/14/when-wildfire-smoke-and-ash-fill-the-sky-heres-how-self-driving-cars-can-go-awry/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/14/when-wildfire-smoke-and-ash-fill-the-sky-heres-how-self-driving-cars-can-go-awry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5d987fd704a8411dbcd758%2F0x0.jpg%3FcropX1%3D979%26cropX2%3D5000%26cropY1%3D312%26cropY2%3D3097",
-          "width": 1200,
-          "height": 831,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/09/14/when-wildfire-smoke-and-ash-fill-the-sky-heres-how-self-driving-cars-can-go-awry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/09/14/when-wildfire-smoke-and-ash-fill-the-sky-heres-how-self-driving-cars-can-go-awry/amp/",
-      "publishedDateTime": "2020-09-14T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-boston-dynamics-ceo-talks-profitability-and-the-companys-next-robots.md",
-      "title": "Boston Dynamics CEO talks profitability and the company’s next robots",
-      "excerpt": "Boston Dynamics CEO Robert Playter discusses profitability; Spot, Pick, Handle, and Atlas; the company's broader roadmap, including which robots are next.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/14/boston-dynamics-ceo-profitability-roadmap-next-robots/",
-      "originalUrl": "https://venturebeat.com/2020/09/14/boston-dynamics-ceo-profitability-roadmap-next-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/robert-playter-headshot.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/14/boston-dynamics-ceo-profitability-roadmap-next-robots/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/14/boston-dynamics-ceo-profitability-roadmap-next-robots/amp/",
-      "publishedDateTime": "2020-09-14T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-nvidia-wants-its-gpus-in-your-arm-powered-smartphone.md",
-      "title": "Nvidia wants its GPUs in your Arm-powered smartphone",
-      "excerpt": "Nvidia chief executive Jensen Huang says he wants to use ARM's licensing model to license GPUs. That probably means that your ARM-powered smartphone will feature an Nvidia GPU, someday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/3575077/nvidia-wants-its-gpus-in-your-arm-powered-smartphone.html",
-      "originalUrl": "https://www.pcworld.com/article/3575077/nvidia-wants-its-gpus-in-your-arm-powered-smartphone.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/06/dsc06888-100759987-large.jpg",
-          "width": 1200,
-          "height": 797,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/3575077/nvidia-wants-its-gpus-in-your-arm-powered-smartphone.amp.html",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3575077/nvidia-wants-its-gpus-in-your-arm-powered-smartphone.amp.html",
-      "publishedDateTime": "2020-09-14T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars.md",
-      "title": "Researchers claim to develop concept to ensure ‘legal safety’ of driverless cars",
-      "excerpt": "The algorithm attempts to verify that a driverless car will maintain ... emeritus professor of artificial intelligence and robotics at the University of Sheffield, said: “This research ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.expressandstar.com/news/uk-news/2020/09/14/researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars/",
-      "originalUrl": "https://www.expressandstar.com/news/uk-news/2020/09/14/researchers-claim-to-develop-concept-to-ensure-legal-safety-of-driverless-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.expressandstar.com/resizer/_bX3t-YImyG1Htkb6CyqKVgG00A=/1200x0/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/expressandstar.mna/25DCHDYHUFEVTD2C7IXGOFVAFI.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-14T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Express & Star",
-        "domain": "expressandstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-ibm-joins-forces-with-nielsen-global-consumer-business-to-expand-data-targeting-offerings-for-marketers.md",
-      "title": "IBM Joins Forces With Nielsen Global Consumer Business To Expand Data Targeting Offerings For Marketers",
-      "excerpt": "IBM today announced the launch of Watson Advertising Weather Targeting, a new suite of triggers designed for marketers to help them make the connection between weather and product sales actionable at scale without the use of third-party cookies or identifiers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/ibm-joins-forces-with-nielsen-global-consumer-business-to-expand-data-targeting",
-      "originalUrl": "https://www.nasdaq.com/press-release/ibm-joins-forces-with-nielsen-global-consumer-business-to-expand-data-targeting",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-14T07:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-nvidia-researchers-detail-ai-powered-clinical-speech-transcription-system.md",
-      "title": "Nvidia researchers detail AI-powered clinical speech transcription system",
-      "excerpt": "In a new paper, Nvidia researchers describe a system that automatically transcribes speech from clinical patients and maps it to a medical ontology.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/14/nvidia-researchers-detail-ai-powered-clinical-speech-transcription-system/",
-      "originalUrl": "https://venturebeat.com/2020/09/14/nvidia-researchers-detail-ai-powered-clinical-speech-transcription-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/14/nvidia-researchers-detail-ai-powered-clinical-speech-transcription-system/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/14/nvidia-researchers-detail-ai-powered-clinical-speech-transcription-system/amp/",
-      "publishedDateTime": "2020-09-14T07:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-deepminds-ai-is-helping-to-re-write-the-rules-of-chess.md",
-      "title": "DeepMind's AI is helping to re-write the rules of chess",
-      "excerpt": "In the game between chess and artificial intelligence, Google DeepMind's researchers have made yet another move, this time teaming up with ex-chess world champion Vladimir Kramnik to design and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/",
-      "originalUrl": "https://www.zdnet.com/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2019/04/22/bb4eab38-d3e2-4df2-97b1-00c89187ee5d/thumbnail/1200x675/a215d738dcece5fd36b570b0e7ef01a3/thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/",
-      "publishedDateTime": "2020-09-14T07:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess.md",
-      "title": "DeepMind's AI is helping to re-write the rules of the chess",
-      "excerpt": "In the game between chess and artificial intelligence, Google DeepMind's researchers have made yet another move, this time teaming up with ex-chess world champion Vladimir Kramnik to design and trial new AI-infused variants of the game.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/deepminds-ai-is-helping-to-re-write-the-rules-of-the-chess/",
-      "publishedDateTime": "2020-09-14T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-rise-of-the-robots-the-nasdaq-cta-artificial-intelligence-robotics-index.md",
-      "title": "Rise of the Robots: The Nasdaq CTA Artificial Intelligence & Robotics Index",
-      "excerpt": "Mark Marex, CFA, discusses the Nasdaq CTA Artificial Intelligence & Robotics index (NQROBO) and its performance: The Nasdaq CTA Artificial Intelligence & Robotics index (NQROBO) is a modified equal-weight index created by Nasdaq in partnership with CTA.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/rise-of-the-robots%3A-the-nasdaq-cta-artificial-intelligence-robotics-index-2020-09-14",
-      "originalUrl": "https://www.nasdaq.com/articles/rise-of-the-robots%3A-the-nasdaq-cta-artificial-intelligence-robotics-index-2020-09-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/rise-of-the-robots%3A-the-nasdaq-cta-artificial-intelligence-robotics-index-2020-09-14?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/rise-of-the-robots%3A-the-nasdaq-cta-artificial-intelligence-robotics-index-2020-09-14?amp",
-      "publishedDateTime": "2020-09-14T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-how-amazon-is-using-machine-learning-to-eliminate-915000-tons-of-packaging.md",
-      "title": "How Amazon is using machine learning to eliminate 915,000 tons of packaging",
-      "excerpt": "ML has reduced Amazon's use of boxes from 69% to 42%, eliminating 915,000 tons of packaging material, and reducing carbon emissions significantly.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/09/14/how-amazon-is-using-machine-learning-to-eliminate-915000-tons-of-packaging/",
-      "originalUrl": "https://venturebeat.com/2020/09/14/how-amazon-is-using-machine-learning-to-eliminate-915000-tons-of-packaging/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/Amazon-RPM-Counter.jpg?w=300&resize=323%2C215&strip=all",
-          "width": 323,
-          "height": 215,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/09/14/how-amazon-is-using-machine-learning-to-eliminate-915000-tons-of-packaging/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/14/how-amazon-is-using-machine-learning-to-eliminate-915000-tons-of-packaging/amp/",
-      "publishedDateTime": "2020-09-14T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-ai-chip-market-outlook-to-2030-emerging-trends-and-will-generate-new-growth-opportunities-status.md",
-      "title": "AI Chip Market Outlook to 2030: Emerging Trends and Will Generate New Growth Opportunities Status",
-      "excerpt": "AI Chip Market research report provides an in-depth analysis of the market size, share, growth rate, drivers, restraints, challenges, threats, and growth opportunities in existing and potential markets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/mediareleases/135437/ai-chip-market-outlook-to-2030-emerging-trends/",
-      "originalUrl": "https://www.arnnet.com.au/mediareleases/135437/ai-chip-market-outlook-to-2030-emerging-trends/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-14T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-brit-chip-maker-arm-gets-snapped-up-by-us-graphics-giant-nvidia.md",
-      "title": "Brit chip maker Arm gets snapped up by US graphics giant Nvidia",
-      "excerpt": "Nvidia has confirmed that it's acquiring UK chip maker Arm from Japanese owner SoftBank in a US$40 billion deal made up of a combination of shares and cash, though the move is yet to undergo regulatory scrutiny.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/mobile-technology/arm-softbank-nvidia-sale/",
-      "originalUrl": "https://newatlas.com/mobile-technology/arm-softbank-nvidia-sale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/6fa6852/2147483647/strip/true/crop/5724x3816+0+92/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F98%2Fd1%2Fb28a26944295b7329537136cce85%2Fdepositphotos-354903224-xl-2015.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/mobile-technology/arm-softbank-nvidia-sale/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/mobile-technology/arm-softbank-nvidia-sale/?amp=true",
-      "publishedDateTime": "2020-09-14T06:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-nvidias-40-billion-arm-bet-all-about-data-centers-edge-computing-ai.md",
-      "title": "Nvidia's $40 billion Arm bet all about data centers, edge computing, AI",
-      "excerpt": "Arm combination is compelling on multiple fronts and could be \"a first class data center platform\" but now the parties just need regulators to buy into the deal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nvidias-40-billion-arm-bet-all-about-data-centers-edge-computing-ai/",
-      "originalUrl": "https://www.zdnet.com/article/nvidias-40-billion-arm-bet-all-about-data-centers-edge-computing-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/09/14/dc945c69-549b-484b-9ca6-ea09cbeaec97/nvidia-arm-circle.png",
-          "width": 881,
-          "height": 537,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidias-40-billion-arm-bet-all-about-data-centers-edge-computing-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidias-40-billion-arm-bet-all-about-data-centers-edge-computing-ai/",
-      "publishedDateTime": "2020-09-14T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-how-taoist-teachings-can-expose-the-hype-and-pretensions-of-artificial-intelligence.md",
-      "title": "How Taoist teachings can expose the hype and pretensions of artificial intelligence",
-      "excerpt": "Artificial intelligence is everywhere ... preferences and interests. READ FULL ARTICLE Self-driving cars are just around the corner, quite literally. Computers now routinely beat the greatest human players of chess and Go. Your recreational drones know ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/comment/opinion/article/3101508/how-taoist-teachings-can-expose-hype-and-pretensions-artificial",
-      "originalUrl": "https://www.scmp.com/comment/opinion/article/3101508/how-taoist-teachings-can-expose-hype-and-pretensions-artificial",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/methode/2020/09/15/56f52380-f682-11ea-a41c-8cbd1416100a_image_hires_023122.jpg?itok=6WoDizn9&v=1600108292",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/comment/opinion/article/3101508/how-taoist-teachings-can-expose-hype-and-pretensions-artificial",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3101508/how-taoist-teachings-can-expose-hype-and-pretensions-artificial",
-      "publishedDateTime": "2020-09-14T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-do-you-really-need-an-ai-powered-smart-range.md",
-      "title": "Do You Really Need an AI-Powered Smart Range?",
-      "excerpt": "As the pandemic has forced us to spend more time at home than we did previously, many of us have invested in making these spaces—which are now our offices, daycares, cafeterias, and entertainment hubs—a little more conducive to an always-home lifestyle.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/do-you-really-need-an-ai-powered-smart-range-1845047132",
-      "originalUrl": "https://gizmodo.com/do-you-really-need-an-ai-powered-smart-range-1845047132",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/d5qxsxiclz8wc7nzytru.jpg",
+          "url": "https://cdnph.upi.com/sv/ph/og/i/5991600873549/2020/1/16008835508632/v1.5/Robot-beats-humans-at-curling-thanks-to-deep-learning-program.jpg",
           "width": 800,
-          "height": 450,
+          "height": 532,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -974,64 +195,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://gizmodo.com/do-you-really-need-an-ai-powered-smart-range-1845047132/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/do-you-really-need-an-ai-powered-smart-range-1845047132/amp",
-      "publishedDateTime": "2020-09-14T06:02:00-07:00",
+      "ampWebUrl": "https://www.upi.com/amp/Science_News/2020/09/23/Robot-beats-humans-at-curling-thanks-to-deep-learning-program/5991600873549/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2020/09/23/Robot-beats-humans-at-curling-thanks-to-deep-learning-program/5991600873549/",
+      "publishedDateTime": "2020-09-23T11:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-microsoft-adds-more-ai-security-protection-for-azure-clients.md",
-      "title": "Microsoft adds more AI security protection for Azure clients",
-      "excerpt": "Microsoft signed a partnership with Abnormal Security to offer an AI security solution for the Azure Cloud clients. Find out what the partnership offers.",
-      "sourceUrl": null,
-      "webUrl": "https://windowsreport.com/microsoft-azure-abnormal-security-partnership/",
-      "originalUrl": "https://windowsreport.com/microsoft-azure-abnormal-security-partnership/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.windowsreport.com/wp-content/uploads/2020/09/Microsoft-adds-more-AI-security-protection-for-Azure-clients.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://windowsreport.com/microsoft-azure-abnormal-security-partnership/?amp",
-      "cdnAmpWebUrl": "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-azure-abnormal-security-partnership/?amp",
-      "publishedDateTime": "2020-09-14T05:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "windowsreport.com",
+        "name": "UPI.com",
+        "domain": "upi.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1041,26 +211,27 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI"
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
-      "path": "_news/2020-09-14-three-reasons-ai-powered-platforms-fail.md",
-      "title": "Three Reasons AI-Powered Platforms Fail",
-      "excerpt": "If you’ve found yourself thinking, \"There's an AI-powered solution for everything these days,\" you’re not far off. Today, more than 37% of organizations have implemented artificial intelligence (AI) in some form,",
+      "path": "_news/2020-09-24-south-korea-tech-giants-expanding-robotics-amid-covid-19.md",
+      "title": "South Korea tech giants expanding robotics amid COVID-19",
+      "excerpt": "South Korea's biggest tech companies are investing in robotics as a solution to the risks of human contact amid the coronavirus pandemic.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2020/09/14/three-reasons-ai-powered-platforms-fail/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2020/09/14/three-reasons-ai-powered-platforms-fail/",
+      "webUrl": "https://www.upi.com/Top_News/World-News/2020/09/23/South-Korea-tech-giants-expanding-robotics-amid-COVID-19/3121600883704/",
+      "originalUrl": "https://www.upi.com/Top_News/World-News/2020/09/23/South-Korea-tech-giants-expanding-robotics-amid-COVID-19/3121600883704/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5be269a542d56dbef63e91%2F0x0.jpg",
-          "width": 1200,
-          "height": 888,
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/3121600883704/2020/1/f4b46952582fb33f29de4effbf354249/v1.5/South-Korea-tech-giants-expanding-robotics-amid-COVID-19.jpg",
+          "width": 800,
+          "height": 534,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1068,64 +239,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2020/09/14/three-reasons-ai-powered-platforms-fail/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/09/14/three-reasons-ai-powered-platforms-fail/amp/",
-      "publishedDateTime": "2020-09-14T05:19:00-07:00",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2020/09/23/South-Korea-tech-giants-expanding-robotics-amid-COVID-19/3121600883704/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/09/23/South-Korea-tech-giants-expanding-robotics-amid-COVID-19/3121600883704/",
+      "publishedDateTime": "2020-09-23T11:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-tech-mega-deal-nvidia-will-buy-chip-designer-for-40-billion.md",
-      "title": "Tech mega-deal: Nvidia will buy chip designer for $40 billion",
-      "excerpt": "Santa Clara-based Nvidia has agreed to pay $40 billion to buy Arm, an England-based unit of tech titan Softbank, marking one of the largest semiconductor industry deals ever. “In the years ahead, trillions of computers running AI will create a new internet-of-things that is thousands of times larger than today’s internet-of-people,",
-      "sourceUrl": null,
-      "webUrl": "https://www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/",
-      "originalUrl": "https://www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mercurynews.com/wp-content/uploads/2020/02/2020-02-silicon-valley-SVINDEX-Nvidia-03.jpg?w=1024&h=549",
-          "width": 1024,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/amp/",
-      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/09/13/tech-mega-deal-nvidia-buy-chip-designer-40-billion/amp/",
-      "publishedDateTime": "2020-09-14T04:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mercury News",
-        "domain": "mercurynews.com",
+        "name": "UPI.com",
+        "domain": "upi.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1135,61 +255,10 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-the-surprisingly-critical-yet-often-undervalued-ingredient-for-ai-success.md",
-      "title": "The Surprisingly Critical (Yet Often Undervalued) Ingredient For AI Success",
-      "excerpt": "It’s easy to become enamored with ML and AI technologies and all that they can offer, but true success relies on the humans behind the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/14/the-surprisingly-critical-yet-often-undervalued-ingredient-for-ai-success/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/14/the-surprisingly-critical-yet-often-undervalued-ingredient-for-ai-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5b7915a5d68b0459dfcbb7%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/14/the-surprisingly-critical-yet-often-undervalued-ingredient-for-ai-success/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/14/the-surprisingly-critical-yet-often-undervalued-ingredient-for-ai-success/amp/",
-      "publishedDateTime": "2020-09-14T04:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }
   ],
-  "nextPage": 47
+  "nextPage": null
 }

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-02-microsoft-to-expand-azure-kinects-computer-vision-tech-to-commercial-market.md",
+      "title": "Microsoft to Expand Azure Kinect’s Computer Vision Tech to Commercial Market",
+      "excerpt": "The technology behind Microsoft’s enterprise-focused computer vision camera, the Azure Kinect developer kit, will soon find its way into commercial products. Microsoft is collaborating with two companies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.roadtovr.com/microsoft-azure-kinect-commercial/",
+      "originalUrl": "https://www.roadtovr.com/microsoft-azure-kinect-commercial/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2020/11/azure-kinect.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.roadtovr.com/microsoft-azure-kinect-commercial/amp/",
+      "cdnAmpWebUrl": "https://www-roadtovr-com.cdn.ampproject.org/c/s/www.roadtovr.com/microsoft-azure-kinect-commercial/amp/",
+      "publishedDateTime": "2020-11-02T05:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Road to VR",
+        "domain": "roadtovr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure.md",
       "title": "Lindsay to Develop Sustainable and Profitable Solutions for Growers using Microsoft Azure",
       "excerpt": "PRNewswire/ -- Lindsay Corporation (NYSE: LNN), a leading global manufacturer and distributor of irrigation and infrastructure equipment and technology, today announced the development of intelligent digital solutions using Microsoft Azure to enhance irrigation management,",
@@ -10,7 +54,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-1029745663",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 70,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -185,6 +229,49 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-evergreen-unveils-ai-solution-that-enables-municipalities-to-better-evaluate-infrastructure-projects-mitigate-climate-risks-and-invest-effectively.md",
+      "title": "Evergreen unveils AI solution that enables municipalities to better evaluate infrastructure projects, mitigate climate risks and invest effectively",
+      "excerpt": "(GLOBE NEWSWIRE) -- Evergreen, a national not-for profit, has developed AI for the Resilient City, a scalable planning and prediction data visualization tool to help municipalities better evaluate infrastructure projects,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/evergreen-unveils-ai-solution-that-enables-municipalities-to-better-evaluate-infrastructure-projects-mitigate-climate-risks-and-invest-effectively-1029736464",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/evergreen-unveils-ai-solution-that-enables-municipalities-to-better-evaluate-infrastructure-projects-mitigate-climate-risks-and-invest-effectively-1029736464",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T12:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1325,93 +1412,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-scheller-college-of-business-advisory-board-welcomes-seven-new-members.md",
-      "title": "Scheller College Of Business Advisory Board Welcomes Seven New Members",
-      "excerpt": "He was a senior product manager for big data and predictive analytics in the cloud and enterprise marketing at Microsoft, where he managed Azure Machine Learning, HDInsight, Parallel Data ...",
-      "sourceUrl": null,
-      "webUrl": "https://patch.com/georgia/midtown/scheller-college-business-advisory-board-welcomes-seven-new-members",
-      "originalUrl": "https://patch.com/georgia/midtown/scheller-college-business-advisory-board-welcomes-seven-new-members",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn/assets/layout/logo-patch-800x600.png",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T05:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-udacity-and-microsoft-partner-up-to-launch-new-machine-learning-program-to-skill-students.md",
-      "title": "Udacity and Microsoft partner up to launch new machine learning program to skill students",
-      "excerpt": "The US-based learning platform Udacity on Thursday announced a partnership with Microsoft to launch Microsoft Azure 'Nanodegree' programme, which will strengthen the machine learn",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/india/news/udacity-partners-with-microsoft-to-launch-nanodegree-programme-to-skill-students/articleshow/78680180.cms",
-      "originalUrl": "https://www.businessinsider.in/india/news/udacity-partners-with-microsoft-to-launch-nanodegree-programme-to-skill-students/articleshow/78680180.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/78680236.cms?height=275&width=412",
-          "width": 412,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.in/india/news/udacity-partners-with-microsoft-to-launch-nanodegree-programme-to-skill-students/amp_articleshow/78680180.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/india/news/udacity-partners-with-microsoft-to-launch-nanodegree-programme-to-skill-students/amp_articleshow/78680180.cms",
-      "publishedDateTime": "2020-10-15T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

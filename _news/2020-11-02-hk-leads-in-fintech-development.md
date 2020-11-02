@@ -7,7 +7,7 @@ originalUrl: "https://www.news.gov.hk/eng/2020/11/20201102/20201102_105902_909.h
 webUrl: "https://www.news.gov.hk/eng/2020/11/20201102/20201102_105902_909.html"
 type: article
 quality: 24
-heat: 34
+heat: 24
 published: false
 
 provider:

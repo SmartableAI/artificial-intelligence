@@ -9,7 +9,8 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/358890"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/358890"
 type: article
 quality: 87
-heat: 87
+heat: -1
+published: false
 
 provider:
   name: Entrepreneur
@@ -28,6 +29,31 @@ images:
     height: 338
     isCached: true
 
-secured: "AkoLysxJN3/b8CWFh+uK1VgtdhPAL5sok3vSIbHlM3vg8ViQbE5mhtk1ZXkNDv9QeCQnQhEQKZ9VKt7KzWjI4X/O2OHKx2+v+2G5fprnbbMpTi95ow+HZQsHaiJ5zp5dUJLXzIgrDhV4QwO1yidM1GY8OhlhfwfUeJtLk6tUyIT98a71ldXPpHROn2KmnGK7jH8WV6ocRQaqvvJ9jtgmSPpT3tI6m9YRUy1kcAjAqbO71Umxj0EoRrbOfGMV1gx1HRhgMh0q2aLEGt3IApbgBZmTmMX1Y1fBYaV3Jwpu0hDQ6AYksygkYRvSmz9rtkVn9XEUexXJQsoZLjXUeZMiOWmJLkkKfU93sQmYUQ4zDec=;78pRtpOwrUi5a4EhII1RPQ=="
+related:
+  - title: "Building a real-time conversational analytics platform for Amazon Lex bots"
+    excerpt: "Conversational interfaces like chatbots have become an important channel for brands to communicate with their customers, partners, and employees. They offer faster service, 24/7 availability, and lower service costs. By analyzing your bot’s customer conversations, you can discover challenges in user"
+    publishedDateTime: 2020-10-29T15:36:36Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/building-a-real-time-conversational-analytics-platform-for-amazon-lex-bots/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 87
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/22/4-DashBoard.jpg"
+        width: 900
+        height: 491
+        isCached: true
+  - title: "Flood Prediction Project Powered by SAS IoT Analytics and Microsoft Azure Earns National Innovation Award"
+    excerpt: "by combining Microsoft Azure IoT platform with SAS’ edge-to-cloud IoT analytics and AI capabilities. Transforming flood response for an entire region During excessive rainfall events, Town of Cary personnel often found themselves running around to ..."
+    publishedDateTime: 2020-10-30T06:52:00Z
+    webUrl: "https://www.newswiretoday.com/news/174030/Flood-Prediction-Project-Powered-by-SAS-IoT-Analytics-and-Microsoft-Azure-Earns-National-Innovation-Award/"
+    type: article
+    provider:
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 17
+
+secured: "pkpk+upPeAkMhN/5bGkaNNxK2dnywsO/RyYKpvxJHQrjR5jmy+gBQC45nht9tMqYlefboEjDB4cKpi8zD+jmmki6loEaZcuEaoBFEHjdAAiV5v/qd/W2k6e8barHyOS85vPeP7wabKha5rMeXueF+QJhltEzzWprGQqTNmjVVV+yAOp2/5sMMYh8+iXJwBaIyxqP6A47/jPLP6lfwFUXcchbCZ/bydV5S0jbDrphzIKjhhZOtqkt0cij1Cq3pDy+fmfm6QhRgKBoX9QAgGYogdDa0aXdus5gr1d1tgXXUIYU119u9kEniENdtRnAx3Y+QwK5K0Vjb8gbmVXgy22fVzI8fD+DFK+DDC3jeIPbKpg/kHbm6KK+iR49buKu6gy9mvUIdPA9xvzWxYsulVeaf712ipURVqTseapP5ByHTiLlPTnQOXPIMmk4fmprNMxgs7Ph/sMpuq2Ifdm0mb+Bpwu/tzG/qQ7JyUDm09wGgxR85xFYTukCcx4vGK3t9Tjkdm33elrNl2Yrp6t4B8pTKQ==;WE+EIL2bClS9ZG2diTfniA=="
 ---
 

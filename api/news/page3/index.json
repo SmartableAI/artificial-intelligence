@@ -2,6 +2,300 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-29-the-alignment-problem-linking-machine-learning-and-human-values.md",
+      "title": "“The Alignment Problem”, Linking Machine Learning And Human Values",
+      "excerpt": "As the subtitle states, it’s an attempt to discuss fuzzier aspects of human value with the growing relevance of machine learning (ML). By ML, the author almost exclusively means neural networks. Overall, it was a good book. As with most, though ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2020/10/29/the-alignment-problem-linking-machine-learning-and-human-values/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2020/10/29/the-alignment-problem-linking-machine-learning-and-human-values/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/10/29/the-alignment-problem-linking-machine-learning-and-human-values/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/10/29/the-alignment-problem-linking-machine-learning-and-human-values/amp/",
+      "publishedDateTime": "2020-10-29T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-has-facial-recognition-won-the-race-for-biometric-authentication.md",
+      "title": "Has facial recognition won the race for biometric authentication?",
+      "excerpt": "Fingerprint identification had once been the most widespread biometric technology around the world. However, many argue that this technology has quite a lot of shortcomings. For instance,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/insights/facial-recognition-biometrics-co-1603983074-ga.1603983477.html",
+      "originalUrl": "https://www.sourcesecurity.com/insights/facial-recognition-biometrics-co-1603983074-ga.1603983477.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://security-img.scdn6.secure.raxcdn.com/news/612/biometric-access-control-920-2.jpg",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/insights/facial-recognition-biometrics-co-1603983074-ga.1603983477.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/facial-recognition-biometrics-co-1603983074-ga.1603983477.html",
+      "publishedDateTime": "2020-10-29T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-activists-turn-facial-recognition-tools-against-the-police.md",
+      "title": "Activists turn facial recognition tools against the police",
+      "excerpt": "In early September, the City Council in Portland, Oregon, met virtually to consider sweeping legislation outlawing the use of facial recognition technology. The bills would not only bar the police from using it to unmask protesters and individuals captured in surveillance imagery;",
+      "sourceUrl": null,
+      "webUrl": "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html",
+      "originalUrl": "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.orlandosentinel.com/resizer/jlVG6BaC3imlBR23jhCY0p4V30U=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NAX6PDQO4JFFFFIXWI6JRI6B3A.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html?outputType=amp",
+      "publishedDateTime": "2020-10-29T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Orlando Sentinel",
+        "domain": "orlandosentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-daylight-savings-time-could-miraculously-be-saved-by-self-driving-cars.md",
+      "title": "Daylight Savings Time Could Miraculously Be Saved By Self-Driving Cars",
+      "excerpt": "Here’s today’s intriguing question: Will the advent of AI-based true self-driving cars potentially “solve” the car crash-related concerns entailing Daylight Savings Time and obviate the need to necessarily cancel DST due to car crashes? Let’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/29/daylight-savings-time-could-miraculously-be-saved-by-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/29/daylight-savings-time-could-miraculously-be-saved-by-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f99f9cf900674c6d06d4c35%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6240%26cropY1%3D316%26cropY2%3D3826",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/29/daylight-savings-time-could-miraculously-be-saved-by-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/29/daylight-savings-time-could-miraculously-be-saved-by-self-driving-cars/amp/",
+      "publishedDateTime": "2020-10-29T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-building-a-real-time-conversational-analytics-platform-for-amazon-lex-bots.md",
+      "title": "Building a real-time conversational analytics platform for Amazon Lex bots",
+      "excerpt": "Conversational interfaces like chatbots have become an important channel for brands to communicate with their customers, partners, and employees. They offer faster service, 24/7 availability, and lower service costs. By analyzing your bot’s customer conversations, you can discover challenges in user",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-real-time-conversational-analytics-platform-for-amazon-lex-bots/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-real-time-conversational-analytics-platform-for-amazon-lex-bots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/22/4-DashBoard.jpg",
+          "width": 900,
+          "height": 491,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-29T08:36:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-watch-a-roborace-self-driving-race-car-crash-right-into-a-wall.md",
+      "title": "Watch a Roborace self-driving race car crash right into a wall",
+      "excerpt": "One of the first broadcast Roborace events didn't go quite as planned for one of the teams participating. Just as Acronis SIT's self-driving race car was set to take off from the starting line, it decided to bin itself straight into the wall.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/roborace-self-driving-race-car-crash/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/roborace-self-driving-race-car-crash/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/mp-902epm2AsldIeTz4XzeQMn9Q=/2020/10/29/50481e40-eba3-4ad0-82ca-4d4eab6dcd61/ogi-robo.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/roborace-self-driving-race-car-crash/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/roborace-self-driving-race-car-crash/",
+      "publishedDateTime": "2020-10-29T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-intel-acquires-ai-software-optimization-platform-sigopt.md",
       "title": "Intel acquires AI software optimization platform SigOpt",
       "excerpt": "Intel today announced it will acquire SigOpt, a San Francisco-based startup developing a platform to optimize AI software models ... at BlackBerry developer Research in Motion, FourSquare ...",
@@ -384,6 +678,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-29-chinese-tesla-rival-xpeng-steers-clear-of-robotaxis-says-self-driving-trucks-more-likely-to-succeed.md",
+      "title": "Chinese Tesla rival Xpeng steers clear of robotaxis, says self-driving trucks more likely to succeed",
+      "excerpt": "Major Chinese self-driving companies such as Baidu, Didi Chuxing, WeRide and AutoX have all recently launched robotaxi services in various cities, but the head of autonomous driving at Xpeng Motors is less bullish on the prospect. “They have to make a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-leaders-and-founders/article/3107348/chinese-tesla-rival-xpeng-steers-clear-robotaxis",
+      "originalUrl": "https://www.scmp.com/tech/tech-leaders-and-founders/article/3107348/chinese-tesla-rival-xpeng-steers-clear-robotaxis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/10/28/15c96424-18cf-11eb-8f67-a484f6db61a1_image_hires_142109.jpg?itok=umrS2udr&v=1603866075",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/tech-leaders-and-founders/article/3107348/chinese-tesla-rival-xpeng-steers-clear-robotaxis",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-leaders-and-founders/article/3107348/chinese-tesla-rival-xpeng-steers-clear-robotaxis",
+      "publishedDateTime": "2020-10-28T23:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-apple-reportedly-bought-a-video-ai-startup-for-50-million-as-it-tries-to-improve-siri-and-other-apps.md",
       "title": "Apple reportedly bought a video AI startup for $50 million as it tries to improve Siri and other apps",
       "excerpt": "Apple's purchase of Barcelona-based Vilynx follows its spree of AI acquisitions earlier this year as the company looks to expand its footprint.",
@@ -443,7 +789,7 @@
       "originalUrl": "https://news.mit.edu/2020/covid-19-cough-cellphone-detection-1029",
       "featuredContent": null,
       "highlight": null,
-      "heat": 212,
+      "heat": 232,
       "tags": null,
       "images": [
         {
@@ -856,324 +1202,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-salesforces-paula-goldman-on-navigating-the-ethical-issues-in-ai.md",
-      "title": "Salesforce's Paula Goldman on Navigating the Ethical Issues in AI",
-      "excerpt": "The ethics of AI have become an important business and reputation issue in light of the Covid-19 pandemic and public protests. Paula Goldman shares how companies can address the ethical perils of biased algorithms,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/video/events/salesforce-paula-goldman-on-navigating-the-ethical-issues-in-ai/E649BA6A-18FB-4367-8C37-EB268A01B278.html",
-      "originalUrl": "https://www.wsj.com/video/events/salesforce-paula-goldman-on-navigating-the-ethical-issues-in-ai/E649BA6A-18FB-4367-8C37-EB268A01B278.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://m.wsj.net/video/20201028/102820ai4ethical/102820ai4ethical_1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-global-artificial-intelligence-in-healthcare-market.md",
-      "title": "Global Artificial Intelligence in Healthcare Market",
-      "excerpt": "DBMR has added a new report titled Global Artificial Intelligence in Healthcare Market with data Tables for historical and forecast years represented with Chats & Graphs spread through Pages with easy to understand detailed analysis. Global Artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2175181/global-artificial-intelligence-in-healthcare-market-2020",
-      "originalUrl": "https://www.openpr.com/news/2175181/global-artificial-intelligence-in-healthcare-market-2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/a/Ta28369455_g.jpg",
-          "width": 420,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2175181/global-artificial-intelligence-in-healthcare-market-2020",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2175181/global-artificial-intelligence-in-healthcare-market-2020",
-      "publishedDateTime": "2020-10-28T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-hebbia-wants-to-make-ctrl-f-or-command-f-actually-useful-through-better-ai.md",
-      "title": "Hebbia wants to make Ctrl-F (or Command-F) actually useful through better AI",
-      "excerpt": "Deep learning has made tremendous strides in recent years, with new systems and models like GPT-3 offering higher quality interpretations of human language, empowering developers to use these concepts in more diverse applications.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/28/hebbia-wants-to-make-ctrl-f-or-command-f-actually-useful-through-better-ai/",
-      "originalUrl": "https://techcrunch.com/2020/10/28/hebbia-wants-to-make-ctrl-f-or-command-f-actually-useful-through-better-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/Hebbia-Techcrunch.gif?w=680",
-          "width": 680,
-          "height": 468,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/28/hebbia-wants-to-make-ctrl-f-or-command-f-actually-useful-through-better-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/28/hebbia-wants-to-make-ctrl-f-or-command-f-actually-useful-through-better-ai/amp/",
-      "publishedDateTime": "2020-10-28T11:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-grimes-and-endel-made-an-ai-powered-lullaby.md",
-      "title": "Grimes and Endel made an AI-powered lullaby",
-      "excerpt": "Synth-pop artist and Cyberpunk 2077 cast member Grimes has teamed up with mood music startup Endel to create an AI-powered soundscape designed to help you drift off. \"AI Lullaby\" blends vocals and original music from Grimes with personalized sounds that an algorithm in real-time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/grimes-endel-ai-powered-lullaby-174840113.html",
-      "originalUrl": "https://www.engadget.com/grimes-endel-ai-powered-lullaby-174840113.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Ff9846a00-1943-11eb-9d32-9025de2f2370&client=amp-blogside-v2&signature=f9cf7ac75b95c6a09a0c8be6bbb882d306848937",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-microsoft-announces-its-first-azure-data-center-region-in-taiwan.md",
-      "title": "Microsoft announces its first Azure data center region in Taiwan",
-      "excerpt": "After announcing its latest data center region in Austria earlier this month and an expansion of its footprint in Brazil, Microsoft today unveiled its plans to open a new region in Taiwan. This new region will augment its existing presence in East Asia,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/28/microsoft-announces-its-first-azure-data-center-region-in-taiwan/",
-      "originalUrl": "https://techcrunch.com/2020/10/28/microsoft-announces-its-first-azure-data-center-region-in-taiwan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/28/microsoft-announces-its-first-azure-data-center-region-in-taiwan/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/28/microsoft-announces-its-first-azure-data-center-region-in-taiwan/amp/",
-      "publishedDateTime": "2020-10-28T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-exploring-ai-for-radiotherapy-planning-with-mayo-clinic.md",
-      "title": "Exploring AI for radiotherapy planning with Mayo Clinic",
-      "excerpt": "More than 18 million new cancer cases are diagnosed globally each year, and radiotherapy is one of the most common cancer treatments—used to treat over halfof cancers in the United States. But planning for a course of radiotherapy treatment is often a time-consuming and manual process for clinicians.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/health/exploring-ai-radiotherapy-planning-mayo-clinic/",
-      "originalUrl": "https://blog.google/technology/health/exploring-ai-radiotherapy-planning-mayo-clinic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/health/exploring-ai-radiotherapy-planning-mayo-clinic/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/exploring-ai-radiotherapy-planning-mayo-clinic/amp/",
-      "publishedDateTime": "2020-10-28T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-the-future-of-robotics-is-bright-with-arkq.md",
-      "title": "The Future of Robotics is Bright with ARKQ",
-      "excerpt": "Robotics and artificial intelligence are making machines smarter and more capable than ever before, allowing robots to take on increasingly sophisticated tasks for faster and more accurate production. Declining computer chip costs and improving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/the-future-of-robotics-is-bright-with-arkq-2020-10-28",
-      "originalUrl": "https://www.nasdaq.com/articles/the-future-of-robotics-is-bright-with-arkq-2020-10-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/the-future-of-robotics-is-bright-with-arkq-2020-10-28?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-future-of-robotics-is-bright-with-arkq-2020-10-28?amp",
-      "publishedDateTime": "2020-10-28T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

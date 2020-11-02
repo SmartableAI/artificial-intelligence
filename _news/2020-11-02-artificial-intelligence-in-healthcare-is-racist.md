@@ -10,6 +10,7 @@ cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.
 type: article
 quality: 104
 heat: 104
+published: true
 
 provider:
   name: ZDNet
@@ -29,6 +30,6 @@ images:
     height: 455
     isCached: true
 
-secured: "pIvX06bGWtY/MknQPmvirqNGgiu3uky/wzL/xGxwtbEhrbvsxo0M5y53LYOIoPNznRWqU4uojwikoZsQ8fCZCUieUGl6ZkEjMG5zbZ6/fGDu4kfh+y8Ek/K7hSLAe/rH6bel2EcYrGL0QM3p3asCXs5ZOX0iMIUY8PjTR6LSAWL8CFRTQ1PUAyiUvQz/Qk76Wd2H2oImWVEGZ1nNdI0MrUu+xp8YUHpwHOvNdDG9mxMEx35N29vLGo3uDolWxbo2HyTds32EShe+UOe+SEdNHklNJYJ6wcWC5KaFGPxrKd/QeNBhYUFZq+EQp8AbQPP+Rafw+IVch0Ps1aV8ZoCluO340IzH3+hBb0NcdX1/f5Q=;lt08KqKFp/ZfZHJdVDrsbQ=="
+secured: "ovumcfDTrL4JFLTgCnJg7fjcSkyvwGl0mEf7Y55dzo0BSevzLBI7KbTau2dUhDgOcIpW6E52Y4XW7zvOxLPS0NoZUhhx1e15uVE+RF1u5eGWlPGQtO7ex6Dg5mJ/q1jAaAmw8NRbl5Xs5Acv7veKh8Z9NwomJYmcRE9As0BmMQ/qsAxF14TZ50WvCHTZbHYyMPLqYAPBLVFINkJfEAhBf1AXA0Ne8EEb7CPYEaZB8z5qruO8WtoEwGAzKza8d62hbSapHb+HsP+1Cuk1GuGJmN9ZzWKB5/WPCeuY+wJ/fW+pcUvGwQT9f/9/bU2RTsWIdtJJSUC8u96saFFLoeEKaqI+pcGLuZwbiEJB6XoCmP0ZrRPaCyFcjpUPP6TazqAcUMWvaTsaeX7B9M/YnwmqxSffi4Wu22YEDGPxfWjSXIzpSVx1awvkszxHzJYZEAn+XGSdalzf4pKLdlg13ahLT7UUFIcRyc4oF9OZbfLJdPqmHB1AxXEbN+6rc+kRRevj+iWQx/rmhARg1ErZB2Uwtw==;4vkjqh83d6ZG1111hFpIzA=="
 ---
 

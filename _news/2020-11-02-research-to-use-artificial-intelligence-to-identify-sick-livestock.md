@@ -8,6 +8,7 @@ webUrl: "https://www.bristol.ac.uk/news/2020/november/ai-livestock.html"
 type: article
 quality: 39
 heat: 39
+published: false
 
 provider:
   name: University of Bristol

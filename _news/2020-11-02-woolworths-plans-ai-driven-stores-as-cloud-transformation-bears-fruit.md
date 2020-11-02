@@ -8,6 +8,7 @@ webUrl: "https://www.afr.com/technology/woolworths-plans-ai-driven-stores-as-clo
 type: article
 quality: 39
 heat: 39
+published: false
 
 provider:
   name: The Australian Financial Review
@@ -23,6 +24,6 @@ images:
     height: 628
     isCached: true
 
-secured: "QPY0DOdoXThM/3oHisAM4/531BJSZPvQL2T9+6l3rHGZKcNl2mOqDN2tveWKtU2xcyXXFoOs9sMPITAc7PpTYqfWE5vn74vmkhocqGBINlxs7uW+ADT+wrq72spr00jwQbdzRI7lp9l8kcxzLqmk8LJkEFGPODS4on4oYgnr0/jje52fb4kuvbBo0qM1JK7sWdSr5/JEJbCX7rLi6wVbVwsMrCHhWYIiflZsRmzmUTcQw+2KRBlNFsgksIeO0wL1cEHHMxAYaXOBsaXbzidprjZAziUmXGUb/QDND7UMwIEJRu+Hbb+NRIoRbywPpevobqe8MwIr7J6j4w+NnE/fCGVlcWCI+sVz6W7DK3SlQOY=;yS9vHKFjfb4LDtQRcdIn3A=="
+secured: "CqKyxsa3HxVG0wXLmqGfh/0i34PQfOVPXVtmt+EBWEuJclyxWABv/fTevGdjjgPY1RBB1CjcuL0tsLnsnFPEoUBGvYUUVi8cQuv0DlaE/59Eu4BvUEc7mkIleWkMk6rN1JhJcYKgAmOv3uO+xMaR5mMnuJ1xi+zptObuYEmIzQfQxVUiNzwjsjZUUBGhjTfKMiSLtQyQDMAdexlIt4yrNuDSV8qrONJ7F5HIuwq5rC0EeEo5L2Mb+tUBd7ezj491inZRULZPL+rOhg9/O2/eWPBcy7c9N3Vj0JpUIl3AmUm04tkieOJfmobAz0j1aSdpVaV2xl+Wj72qIZdGqI8aCHr4wpYE7f3c8lm6ekt4qvKCbok4rwrF3XxLZ9Gae1ZxBrjlTe6qHVGqcDNTL3J51w6Kie9wPqbWxwnUDaaDtu51C5fmpMi8mqtAJXJ8Qf/ZQxZrYoDWgDgbRGY2769w4g76cET1gp9372ZLH4LyAAKtvgGIcLpaVaV4C4QmMxVVjwaAiYAZu+ggOnH/Ldk+4g==;bjfufDplKxFmVRBArM/L8g=="
 ---
 

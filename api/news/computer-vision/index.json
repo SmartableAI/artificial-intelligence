@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-02-microsoft-to-expand-azure-kinects-computer-vision-tech-to-commercial-market.md",
+      "title": "Microsoft to Expand Azure Kinect’s Computer Vision Tech to Commercial Market",
+      "excerpt": "The technology behind Microsoft’s enterprise-focused computer vision camera, the Azure Kinect developer kit, will soon find its way into commercial products. Microsoft is collaborating with two companies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.roadtovr.com/microsoft-azure-kinect-commercial/",
+      "originalUrl": "https://www.roadtovr.com/microsoft-azure-kinect-commercial/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2020/11/azure-kinect.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.roadtovr.com/microsoft-azure-kinect-commercial/amp/",
+      "cdnAmpWebUrl": "https://www-roadtovr-com.cdn.ampproject.org/c/s/www.roadtovr.com/microsoft-azure-kinect-commercial/amp/",
+      "publishedDateTime": "2020-11-02T05:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Road to VR",
+        "domain": "roadtovr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-02-ambarella-launches-computer-vision-chips-for-edge-ai.md",
       "title": "Ambarella launches computer vision chips for edge AI",
       "excerpt": "Chip designer Ambarella has announced a new computer vision chip for artificial intelligence at the edge of a computer network.",
@@ -154,15 +198,15 @@
       "title": "Activists turn facial recognition tools against the police",
       "excerpt": "In early September, the City Council in Portland, Oregon, met virtually to consider sweeping legislation outlawing the use of facial recognition technology. The bills would not only bar the police from using it to unmask protesters and individuals captured in surveillance imagery;",
       "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html",
-      "originalUrl": "https://www.chicagotribune.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html",
+      "webUrl": "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html",
+      "originalUrl": "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html",
       "featuredContent": null,
       "highlight": null,
       "heat": 114,
       "tags": null,
       "images": [
         {
-          "url": "https://www.chicagotribune.com/resizer/jlVG6BaC3imlBR23jhCY0p4V30U=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NAX6PDQO4JFFFFIXWI6JRI6B3A.jpg",
+          "url": "https://www.orlandosentinel.com/resizer/jlVG6BaC3imlBR23jhCY0p4V30U=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NAX6PDQO4JFFFFIXWI6JRI6B3A.jpg",
           "width": 1200,
           "height": 801,
           "title": null,
@@ -172,13 +216,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html?outputType=amp",
-      "publishedDateTime": "2020-10-29T08:55:00-07:00",
+      "ampWebUrl": "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html?outputType=amp",
+      "publishedDateTime": "2020-10-29T09:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
+        "name": "Orlando Sentinel",
+        "domain": "orlandosentinel.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1358,49 +1402,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-computer-vision-software-market-next-big-thing-major-giants-algolux-visenze-sighthound.md",
-      "title": "Computer Vision Software Market Next Big Thing | Major Giants Algolux, ViSenze, Sighthound",
-      "excerpt": "Oct 19, 2020<p>Latest Market intelligence report released by HTF MI with title COVID-19 Outbreak-Global Computer Vision Software Industry Market Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020 is designed covering micro level of analysis by manufacturers and key business segments.",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1100984314/Computer-Vision-Software-Market-Next-Big-Thing-Major-Giants-Algolux-ViSenze-Sighthound?src=Rss",
-      "originalUrl": "https://menafn.com/1100984314/Computer-Vision-Software-Market-Next-Big-Thing-Major-Giants-Algolux-ViSenze-Sighthound?src=Rss",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?68482",
-          "width": 374,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-19T18:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

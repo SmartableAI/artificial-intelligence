@@ -7,7 +7,8 @@ originalUrl: "https://ladailypost.com/noaa-agreement-with-google-explores-artifi
 webUrl: "https://ladailypost.com/noaa-agreement-with-google-explores-artificial-intelligence-use-to-enhance-environmental-monitoring-and-weather-prediction/"
 type: article
 quality: 11
-heat: 11
+heat: -1
+published: false
 
 provider:
   name: Los Alamos Daily Post
@@ -22,6 +23,22 @@ images:
     height: 289
     isCached: true
 
-secured: "c4agE5mZ9jGBb27qmG+ZOgWKdQ5Eur5llQXcNu2ttBzT68aJPrbWQCg0VUYBcxZC+wFbNAbVtng/VSMLrU3Uow3I/E3hMC1JlU/Z1/Ppp9pdZbuXUKC5eekPzHTUTuxKLOKsfgoHQZnGvwrQhTQE7jnd+PX+Rh0L+IKH9Eb7nblL02d0NxaJy04RkX3impP1HaAxZ9iAn5S9F+LIQyGZlLH1Rm2jy4LeVdmWyqxaom+QkUHAkfkBk4r3d5taZnYyqbuPuLdwskIuKCDuVqZokUnH0r0eJWHKHLW1UZFgevKNuh49vfUhKo5WlzfCiYY6ghCpgMfUO9C1Uuws2BvRDp5Ei6rMEhKdBZ+DDGcmaTU=;blnWIeiVj4inkN4/Luk80w=="
+related:
+  - title: "CloudVector Enterprise Edition: Enhanced API discovery capability with AI-enabled monitoring"
+    excerpt: "CloudVector Enterprise Edition enhances its pioneering API discovery capability with AI-enabled monitoring and security functionality."
+    publishedDateTime: 2020-10-30T02:05:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/10/30/cloudvector-enterprise-edition/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 26
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/10/14145709/helpnetsecurity.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+
+secured: "qhSPsOVoDFpcY+gHnCXA2G69Eg/xm08zd2Hj+AJvKMpiLd5/7clbBx6WoOZe6F6bMXm1Vm35Bd1Onh2WvmdxojXGwv20HzNi+htZWuS8XX9d6tqkkU38RT3kt1Gz84LbaSO/ZEIK9v/KrqvwzQd0KduaRHC48fPqvNAWemNtOpPCTZ0iiGSzl8VTscma60Xdabn+tbw2wHplUScVczFJ6HwnqEKbTOUYI9HIeSlM5ZQgjKyLY+DFXDct6NrijRDglybrsDo2jGc3XjSSSKEQPHtpmrllKSRafOpEMopCoX+KH5L3KsA7nBaevXbWLyppmB45ffF+xs52NK/nyRkuuZQa99DtyRjiNzIvSj+ruyxYshHtIVMs5gDgbOlN3Lu+5FRvLDDUysaI5kOE9ts3FEBkQWSgnhlC3TMdIbdE3EEnMsxQWJlX5d6YYSiFUYw0nrxYJ5NAG1Hr8yidPy971tFGjoZSc34owoma5ZFhRIc6zaosDlhv3VUnqT/itCI9J4LfcFXXBCMN8G9GlQmd8w==;dDGpl2U0TN6eb2Em2iwz6A=="
 ---
 

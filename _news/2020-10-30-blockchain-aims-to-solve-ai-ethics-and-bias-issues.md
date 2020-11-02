@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/blockchain-aims-to-solve-ai
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/blockchain-aims-to-solve-ai-ethics-and-bias-issues/"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -25,20 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "Learn More About FinTech and Blockchain for Less Than $40"
-    excerpt: "You’ll learn the ins and outs of Fintech and Blockchain thanks to this training bundle ... Courses will also teach you about Robo-Advisors, InsurTech, Stablecoins and the ins and outs of AI in the financial services industry. And the best part is ..."
-    publishedDateTime: 2020-10-28T20:46:00Z
-    webUrl: "https://www.extremetech.com/deals/316736-learn-more-about-fintech-and-blockchain-for-less-than-40"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 39
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2020/10/sale_48031_primary_image_wide.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Grades, And Artificial Intelligence"
     excerpt: "If you ask about your grade, I’ll gladly tell you that you’re doing well in the course, or that you really need to do better, as the case may be. More specifically than that I will not say. The main reason for this is that if I were a hiring manager at ..."
     publishedDateTime: 2020-10-29T19:24:00Z
