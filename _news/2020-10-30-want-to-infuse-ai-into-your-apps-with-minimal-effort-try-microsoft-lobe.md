@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/amp/"
 type: article
 quality: 109
-heat: 181
+heat: 171
 published: true
 
 provider:
@@ -97,20 +97,6 @@ related:
       - url: "https://www.adweek.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-28-at-4.23.00-PM-1024x548.jpg"
         width: 1024
         height: 548
-        isCached: true
-  - title: "C3.ai, Microsoft, and Adobe Combine Forces to Re-invent CRM with AI"
-    excerpt: "C3.ai, Microsoft Corp., and Adobe Inc. today announced the launch of C3 AI® CRM powered by Microsoft Dynamics 365. The first enterprise-class, AI-first customer relationship management solution is purpose-built for industries,"
-    publishedDateTime: 2020-10-28T10:07:00Z
-    webUrl: "https://whattheythink.com/news/103085-c3ai-microsoft-adobe-combine-forces-re-invent-crm-ai/"
-    type: article
-    provider:
-      name: WhatTheyThink
-      domain: whattheythink.com
-    quality: 71
-    images:
-      - url: "https://d3impqwjfkw0cn.cloudfront.net/img/opengraph-default-whattheythink.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Microsoft launches its industry-focused Cloud for Healthcare platform"
     excerpt: "It later sold its interest in Caradigm before establishing a healthcare-focused artificial intelligence research unit, called Healthcare NexT, in 2017. Show your support for our mission with our ..."

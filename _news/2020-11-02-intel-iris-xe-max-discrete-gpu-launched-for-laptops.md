@@ -1,28 +1,33 @@
 ---
 category: news
-title: "Intel Launches Iris Xe Max Discrete GPU With New ‘Deep Link’ Feature"
-excerpt: "Intel announced the launch of Iris Xe Max, its first Xe discrete GPU, which will use the company's new Intel Deep Link framework that aggregates CPU and GPUs to accelerate performance."
-publishedDateTime: 2020-10-31T16:27:00Z
-originalUrl: "https://www.crn.com/news/components-peripherals/intel-launches-iris-xe-max-discrete-gpu-with-new-deep-link-feature"
-webUrl: "https://www.crn.com/news/components-peripherals/intel-launches-iris-xe-max-discrete-gpu-with-new-deep-link-feature"
+title: "Intel Iris Xe MAX discrete GPU launched for laptops"
+excerpt: "Intel may have the lion’s share of the PC desktop and laptop CPU market, at least for now, but it has struggled to gain any foothold in the graphics sector of the industry. It has always"
+publishedDateTime: 2020-11-02T00:02:00Z
+originalUrl: "https://www.slashgear.com/intel-iris-xe-max-discrete-gpu-launched-for-laptops-01645312/"
+webUrl: "https://www.slashgear.com/intel-iris-xe-max-discrete-gpu-launched-for-laptops-01645312/"
+ampWebUrl: "https://www.slashgear.com/intel-iris-xe-max-discrete-gpu-launched-for-laptops-01645312/amp/"
+cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/intel-iris-xe-max-discrete-gpu-launched-for-laptops-01645312/amp/"
 type: article
-quality: 41
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: CRN
-  domain: crn.com
+  name: SlashGear
+  domain: slashgear.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
-  - AI
   - AI Hardware
+  - AI
 
 images:
-  - url: "https://www.crn.com/resources/0262-10bc85f7adee-f78d58c8abac-1000/irisxemax-_002_.jpg"
-    width: 610
-    height: 457
+  - url: "https://cdn.slashgear.com/wp-content/uploads/2020/11/Intel-DG1-chip-1.jpg"
+    width: 1280
+    height: 800
     isCached: true
 
 related:
@@ -73,22 +78,6 @@ related:
       - url: "https://sm.pcmag.com/t/pcmag_uk/news/i/intel-laun/intel-launches-its-first-discrete-gpu-for-laptops-the-iris-x_zwcq.620.jpg"
         width: 620
         height: 349
-        isCached: true
-  - title: "Intel Iris Xe MAX discrete GPU launched for laptops"
-    excerpt: "Intel may have the lion’s share of the PC desktop and laptop CPU market, at least for now, but it has struggled to gain any foothold in the graphics sector of the industry. It has always"
-    publishedDateTime: 2020-11-02T00:02:00Z
-    webUrl: "https://www.slashgear.com/intel-iris-xe-max-discrete-gpu-launched-for-laptops-01645312/"
-    ampWebUrl: "https://www.slashgear.com/intel-iris-xe-max-discrete-gpu-launched-for-laptops-01645312/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/intel-iris-xe-max-discrete-gpu-launched-for-laptops-01645312/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 89
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/11/Intel-DG1-chip-1.jpg"
-        width: 1280
-        height: 800
         isCached: true
   - title: "Intel introduces Iris Xe MAX Graphics with discrete GPU and Intel Deep link"
     excerpt: "This framework helps maximize CPU performance and boost artificial intelligence (AI) creation performance ... can also deliver 1080p gaming at par with Nvidia GeForce MX350 GPU. Intel has added Game Sharpening and Instant Game Tuning as well which will ..."
@@ -196,6 +185,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Intel Launches Iris Xe Max Discrete GPU With New ‘Deep Link’ Feature"
+    excerpt: "Intel announced the launch of Iris Xe Max, its first Xe discrete GPU, which will use the company's new Intel Deep Link framework that aggregates CPU and GPUs to accelerate performance."
+    publishedDateTime: 2020-10-31T16:27:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/intel-launches-iris-xe-max-discrete-gpu-with-new-deep-link-feature"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 41
+    images:
+      - url: "https://www.crn.com/resources/0262-10bc85f7adee-f78d58c8abac-1000/irisxemax-_002_.jpg"
+        width: 610
+        height: 457
+        isCached: true
   - title: "Intel launches Iris Xe Max discrete GPU with new ‘deep link’ feature"
     excerpt: "After three years of teasing its return to the discrete graphics market, Intel has revealed its first product in the category, the Intel Iris Xe Max graphics, which will pair with the chipmaker’s new Tiger Lake processors for ultra-thin laptops to focus on content creation."
     publishedDateTime: 2020-11-01T20:22:00Z
@@ -239,6 +242,6 @@ related:
         height: 415
         isCached: true
 
-secured: "qiHgCuVsQlOXFD8lutQQorsDnBMkR7XrTCG1dpUrv5taCyPj1CZ9vLiVsHBuoBX0vSgjAIPxHpm7NdvEN5VE3sGTFGO5yNzMTZ50AMN0XXODSJXBv66syBJgrTsSB/V7L1SQ8yyoy6WxTNjWketOK/uA+RFqKe7fxMeN89CdJ3Ac3HnGSvnvQHG38jfb3jJHoDs2YKMi2msJfTAZERVOf4zfopii7GgG9NS6j4+uDDWcggdCBUQHDnyBAlpzWKAyW/tOVZ6SKfI0eWVx/9ISnNjIhC2R+trOd9csP7Cj7PUOvRiPfIiZoSjfbOt+xBZPwDTqRqvT+EGY5+yTjnYZALNexIy8wbLrfMhlnP4vzKLXW2XL0wavBjwa2KLvUkIbzXF6t/Xu1JfboyZWDrhiJGva2lqki0uVD5NCg4OUIRK8xV6evvz67bIfEkxf+pR9dhyovc8N32PqTfsCddDzLtYD4k8VxHaL5wbzQoreX3NoR7l93nuEcc5jCY3hkfe/GF88SD7bD4nW9DPJcU4f2A==;Uh/omGO+zRyhV0EFAlIzjQ=="
+secured: "NJclYoA692D3WrcIEcaYQrUpVY0RGofQwxY/z7H5e7ocnkPdHUYcF8lYFVd/AHDDj8GbXqOvnlIXax4yOr8aiXgd61BfsXxie8sl2qvvkqFwm94nrTs8FPAqgO7EIvHDXdbMpHAeYTX4JoiBSprxDqZHr69AiJg3AJi78XMNnqXhJ2LSRgiO4eXJoC07/gkNlHR85pGmp49HOLpJd9R3x+GYvWy0GYOyKdbvCfqYqnCbZXd0tQjGwLEatG46vVFXU9d500xANuN849K3KhNMOWvIDkSzuWrp52u2bGLY0cqk4TQFY9u0olXqxCwtqz6j1e7/2SCU5oym+Tc0fisa5kKz4eD/T97YCYteaY2PRK4=;IVTH5YZbEXWcNMFLZD5MUg=="
 ---
 

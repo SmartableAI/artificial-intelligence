@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Roborace Crash Proves Self-Driving Cars Still Not Yet Ready For Prime Time"
-excerpt: "In case you haven’t read it elsewhere, what happened was thus: The UK-based Roborace holds events every year where six teams compete with electric cars in a three-lap time-trial through what’s referred to as a “metaverse.” The cars in this race are ..."
-publishedDateTime: 2020-10-31T18:06:00Z
-originalUrl: "https://www.forbes.com/sites/joshmax/2020/10/31/roborace-crash-proves-self-driving-cars-still-not-yet-ready-for-prime-time/"
-webUrl: "https://www.forbes.com/sites/joshmax/2020/10/31/roborace-crash-proves-self-driving-cars-still-not-yet-ready-for-prime-time/"
+excerpt: "This crash has received its share of well-deserved internet guffaws since it happened, but there's really nothing funny about autonnomous cars that"
+publishedDateTime: 2020-10-31T18:05:00Z
+originalUrl: "https://www.newsoneplace.com/35539161911/roborace-crash-proves"
+webUrl: "https://www.newsoneplace.com/35539161911/roborace-crash-proves"
 type: article
-quality: 52
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: newsoneplace.com
+  domain: newsoneplace.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9da62aa9255117dfd1798f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D0%26cropY2%3D1080"
-    width: 1200
-    height: 675
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https://specials-images.forbesimg.com/imageserve/5f9da62aa9255117dfd1798f/0x0.jpg?cropX1=0&cropX2=1920&cropY1=0&cropY2=1080"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -92,6 +88,6 @@ related:
         height: 683
         isCached: true
 
-secured: "/dHlnxuyhvzhap5i19cFeGs9nkjXW92ChLV7vnmXhSUYU7hPxAjDTHywbcNi7TMC2wYMcbDprXoWzPvNCip13GFQOZwXHiquv4EFhvcc25A0MORz2hptG6jSF7ATQRlmjYxVViRhUSAlsdXj3T40UXOCXurmKeE/B8Z5urFxuPC9dr/CoGFZl+qNo3m08CJoUY3f6fyVyCYcHnyE3ro79E8Q/SCw/cKzCSQvTE23UOw+KBr8GWi0qf9KuzStabJCeCbl8lle06Z/3fHZykMKqH1ZEFtmMlQq6Qfz7xv/ZNJ679MqW3nKrPo7giyRwd9j/s37zN9+9N5orrpTH6MqYgcyE1VXnV31FLU90heytuxDjGhO8LBQOjYb9+UuNkaPHeyPV1ZXtRP4Wf5qDJvaF3YgdwQ/TuRkxnss/XhMNlzd9JxjHzsEjPCv3P5Q11P64ClRg1UJgZSXVoXlhlfXKfzlHBP2EjFLPUrRi5iC7Q2YvH/TuLu300A/AoqvM6Fhhq3ySpaBRy1DpiuhcTXuWQ==;gSzLGEv1JLUgVwPKQfNOIQ=="
+secured: "2dqjAirPUQV+pd1D3Hdc8UlPuyzuU+1KRWZUcEtqUH3mnrQKzzZUvehUo0DlCEKCZm3YAFtXBo4tUS1ei3GUDl+683w6ZsBtSJ3+Ba/G7QsDeJeXyPdsRa0WOtqazOJJfjhLCOjtajd5coNPRk0kDqexGw5M+3Zumg8M7WGKXSTrJ28nneUQDWBSy+jCY6ZpqbBAWYSyOwjR8RYQGHiGyOteceCWA+5850W/9d3tYWsHuLvV7jCVAZdxRSDvMPCc1wQY83qzVlsg8pGIqw9OKiP/xfS15qoBs0PruQjoopQ0GGOxWsKPNmZ/CyceiQwGwkutZz/WB3QmNAdlS2/dtNcCx4FxmWehcFUzln3GebI=;MnG7VykiSIKmp0SAhBEJ6Q=="
 ---
 

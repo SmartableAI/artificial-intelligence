@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-england-oxfordshire-54744656"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-england-oxfordshire-54744656"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "Ford Reals Self-Driving Escape Hybrid Test Vehicles"
-    excerpt: "Ford reveals the new Escape Hybrid self-driving test vehiclePhoto: FordFord Motor Company launches its autonomous vehicle commercial service in 2022, and it now has its vehicle of choice in place"
-    publishedDateTime: 2020-10-28T10:14:00Z
-    webUrl: "https://thenewswheel.com/ford-reveals-self-driving-ford-escape/"
-    ampWebUrl: "https://thenewswheel.com/ford-reveals-self-driving-ford-escape/amp/"
-    cdnAmpWebUrl: "https://thenewswheel-com.cdn.ampproject.org/c/s/thenewswheel.com/ford-reveals-self-driving-ford-escape/amp/"
-    type: article
-    provider:
-      name: thenewswheel.com
-      domain: thenewswheel.com
-    quality: 44
-    images:
-      - url: "https://thenewswheel.com/wp-content/uploads/2020/10/Ford-self-driving-Hybrid-Escape-Argo-AI-1.jpg"
-        width: 1280
-        height: 741
-        isCached: true
 
 secured: "NCozRbaLPfO7iYTAilt23kuB4IgniZHRQPLNp571qJ09hpDsWxRYGGlxiEKd8XKqjZgUEw8t8VECBP/pDFKk+x7HYtJBVU8WUK3oLVDOG6QBScyZoiYKa5dvDuPaRQPMmWSnqWZwLtCv6VYTvvHzQEJxBn1NBLtJv9G/yBUHx31nON3YUVGrDmKhR0vX4Y0WIvPFcqPSUg+CV/pVPbhU43L1/FnkIQdo6DjH+82B2pS57at5IzwQNdanaRr30cu1i8DH95caYAn9O+QZ8yBX7lZWTe1joct8b7Sxo+NstXfONpgqWImvJn3EO6/yg96AuUv7HJ017jiDPjomRlHzQovRqQcQk5wq6usurgelcndvQf2M9rFJZKKXyHF9d/4HmluO5SsRsWkvWkRnCApvamrCyf50ZDIKeVX5AzVkWeN1Qr4zyb/OYeGxJ/5Gmq4ejg10LsNUrDms28j061iPnQZgI9YOqQUWjt4MgMNX4JbKbDA1krJJqHu0H7zdbuZNGOlHfKhddiqc7SFqqS+Z0Q==;kh4obCcmwnl5h7pP0IZChA=="
 ---

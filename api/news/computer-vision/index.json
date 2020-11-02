@@ -1372,35 +1372,26 @@
       ]
     },
     {
-      "path": "_news/2020-10-18-wfh-online-classes-led-to-increase-in-computer-vision-syndrome-amid-pandemic.md",
-      "title": "WFH, online classes led to increase in Computer Vision Syndrome amid pandemic",
-      "excerpt": "This dependence on gadgets has worsened during the COVID-19 pandemic and led to increased incidents of Computer Vision Syndrome (CVS) or digital eye strain, experts warned during a webinar conducted on 'Eye health care and online practices during COVID-19'.",
+      "path": "_news/2020-10-19-ai-speeds-object-recognition-for-recycling.md",
+      "title": "AI speeds object recognition for recycling",
+      "excerpt": "The system developed by the team uses a Raspberry Pi running an AI object detection algorithm and a high-resolution camera to identify paper, cardboard, plastic, metal, and glass in household rubbish. The algorithm uses transfer learning, a machine ...",
       "sourceUrl": null,
-      "webUrl": "https://www.indiatvnews.com/lifestyle/news-wfh-online-classes-led-to-increase-in-computer-vision-syndrome-amid-pandemic-657992",
-      "originalUrl": "https://www.indiatvnews.com/lifestyle/news-wfh-online-classes-led-to-increase-in-computer-vision-syndrome-amid-pandemic-657992",
+      "webUrl": "https://www.embedded.com/ai-speeds-object-recognition-for-recycling/",
+      "originalUrl": "https://www.embedded.com/ai-speeds-object-recognition-for-recycling/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/10/pjimage-20-1603038304.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/lifestyle/news-wfh-online-classes-led-to-increase-in-computer-vision-syndrome-amid-pandemic-657992",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/lifestyle/news-wfh-online-classes-led-to-increase-in-computer-vision-syndrome-amid-pandemic-657992",
-      "publishedDateTime": "2020-10-18T09:25:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-18T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
+        "name": "Embedded",
+        "domain": "embedded.com",
         "images": null,
         "publishers": null,
         "authors": null

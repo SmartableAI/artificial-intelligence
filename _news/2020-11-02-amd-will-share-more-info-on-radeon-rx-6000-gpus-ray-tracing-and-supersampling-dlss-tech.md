@@ -1,6 +1,6 @@
 ---
 category: news
-title: "AMD will share more info on Radeon RX 6000 GPU’s Ray Tracing and AI Supersampling tech"
+title: "AMD will share more info on Radeon RX 6000 GPU’s Ray Tracing and Supersampling “DLSS” tech"
 excerpt: "AMD’s Frank Azor just confirmed that AMD will provide more information about ray tracing and AI super sampling tech before the RX 6000 launch date."
 publishedDateTime: 2020-11-01T16:40:00Z
 originalUrl: "https://www.dsogaming.com/news/amd-will-share-more-info-on-radeon-rx-6000-gpus-ray-tracing-and-ai-supersampling-tech/"
@@ -8,9 +8,9 @@ webUrl: "https://www.dsogaming.com/news/amd-will-share-more-info-on-radeon-rx-60
 ampWebUrl: "https://www.dsogaming.com/news/amd-will-share-more-info-on-radeon-rx-6000-gpus-ray-tracing-and-ai-supersampling-tech/amp/"
 cdnAmpWebUrl: "https://www-dsogaming-com.cdn.ampproject.org/c/s/www.dsogaming.com/news/amd-will-share-more-info-on-radeon-rx-6000-gpus-ray-tracing-and-ai-supersampling-tech/amp/"
 type: article
-quality: 66
-heat: 76
-published: true
+quality: 49
+heat: -1
+published: false
 
 provider:
   name: Dark Side Of Gaming
@@ -27,7 +27,7 @@ images:
     isCached: true
 
 related:
-  - title: "AMD will share more info on Radeon RX 6000 GPU’s Ray Tracing and Supersampling “DLSS” tech"
+  - title: "AMD will share more info on Radeon RX 6000 GPU’s Ray Tracing and AI Supersampling tech"
     excerpt: "AMD’s Frank Azor just confirmed that AMD will provide more information about ray tracing and AI super sampling tech before the RX 6000 launch date."
     publishedDateTime: 2020-11-01T16:40:00Z
     webUrl: "https://www.dsogaming.com/news/amd-will-share-more-info-on-radeon-rx-6000-gpus-ray-tracing-and-ai-supersampling-tech/"
@@ -37,13 +37,13 @@ related:
     provider:
       name: Dark Side Of Gaming
       domain: dsogaming.com
-    quality: 49
+    quality: 66
     images:
       - url: "https://www.dsogaming.com/wp-content/uploads/2020/09/AMD-RDNA-2-temp.jpg"
         width: 1260
         height: 709
         isCached: true
 
-secured: "af89yQyGtVnkzRtnlf3u3EF4jWQlTBLCj93fq1biKtJ5Akxt4eBBMx8B9V1ZqeeX2kiKsCjh0jjw79sTI4ucYwRSDGN/TNII3l+Bw/G6gM60BBhdVuq6ap6J7K2eL2Na9SNQ1aHn/VVkgZNkUKt7QvuNG8T0F7yWhPMkbEzHNHupMXIesNDm+IRpBlumwPl6ZEHvZjs9Slt8Kc+wpnXq2fE+Zea7kdusejrYzuxMSGXLU7CCAL6pQf64kudj/hQRDJO1v2MtUVGKHOEHT5yYDtOjbQiSrP/myJLSBgd6Pyj3qu+9hvjLSujP+EIPUf3e9CFRP6KYsZ2R7rYr9XOTAUdwAYzEmFYpCIkXiAPfvg7UFAiYJG0PuHhYFqpmql+RoUqWDEv7HQZJ+XVdX3Dn8vDwsUIU23vFPhbjTj6f5FSPEbpdhpkA9r/0kFtRDVbO7Bt5C5oZubWryFVhSRnpfgpf2ztFDHTvvHJMuMQM1PUGOdEGpvj0Tuwd4u6pP+GYx2hknak6/cBA3GlPip20Fg==;5SCW2Gk7VfGhJ7qqWGuhCQ=="
+secured: "b/Z00xRqlDCkbSWFLAln41q9kNTOl4SuXU/42JPRdQ78CepLxMOmJu0Duz+UqP2MySKAH/zOmI1RElpzqADvicxd1qdHT6z3llUBaEdhJJoUYq9bbx1DmO+XJFHNhAs88RnnbleZDYfk7g/DNkk/YFC3EmiptEFATCrd9Hi58JNF66XBHypKsfR28Z0SHb1ojUbPjJ+nhcOXBmPfDNlwnwrhNDAwjVrl4Wdaupx3FrcRzXhZudK1OmnspZ2AZSdkAxRgYyg8IZC6nv7gVlhHVAwFfoBsacFfKsuIvVtnVEhpV5vh30O3p1zU7dabAPhUYVkdVaDn9I0TFx1383lzxK/n20fXB/HYMvPeGKZwWNI=;gsh8BkCf3IEcDANNNfHBWA=="
 ---
 

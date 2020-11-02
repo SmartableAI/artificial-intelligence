@@ -106,20 +106,6 @@ related:
         width: 1024
         height: 548
         isCached: true
-  - title: "C3.ai, Microsoft, and Adobe Combine Forces to Re-invent CRM with AI"
-    excerpt: "C3.ai, Microsoft Corp., and Adobe Inc. today announced the launch of C3 AI® CRM powered by Microsoft Dynamics 365. The first enterprise-class, AI-first customer relationship management solution is purpose-built for industries,"
-    publishedDateTime: 2020-10-28T10:07:00Z
-    webUrl: "https://whattheythink.com/news/103085-c3ai-microsoft-adobe-combine-forces-re-invent-crm-ai/"
-    type: article
-    provider:
-      name: WhatTheyThink
-      domain: whattheythink.com
-    quality: 71
-    images:
-      - url: "https://d3impqwjfkw0cn.cloudfront.net/img/opengraph-default-whattheythink.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft’s Intriguing Partnership With Tom Siebel’s C3 AI"
     excerpt: "I’m publishing this series to discuss a topic that I follow closely - cloud stocks, trends, strategy, acquisitions, and more. Please subscribe to my Cloud Stock Analysis series and never miss an article."
     publishedDateTime: 2020-10-29T15:27:00Z

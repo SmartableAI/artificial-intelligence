@@ -73,6 +73,22 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Intel Iris Xe MAX discrete GPU launched for laptops"
+    excerpt: "Intel may have the lion’s share of the PC desktop and laptop CPU market, at least for now, but it has struggled to gain any foothold in the graphics sector of the industry. It has always"
+    publishedDateTime: 2020-11-02T00:02:00Z
+    webUrl: "https://www.slashgear.com/intel-iris-xe-max-discrete-gpu-launched-for-laptops-01645312/"
+    ampWebUrl: "https://www.slashgear.com/intel-iris-xe-max-discrete-gpu-launched-for-laptops-01645312/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/intel-iris-xe-max-discrete-gpu-launched-for-laptops-01645312/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 89
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/11/Intel-DG1-chip-1.jpg"
+        width: 1280
+        height: 800
+        isCached: true
   - title: "Intel introduces Iris Xe MAX Graphics with discrete GPU and Intel Deep link"
     excerpt: "This framework helps maximize CPU performance and boost artificial intelligence (AI) creation performance ... can also deliver 1080p gaming at par with Nvidia GeForce MX350 GPU. Intel has added Game Sharpening and Instant Game Tuning as well which will ..."
     publishedDateTime: 2020-10-31T16:54:00Z
@@ -222,6 +238,6 @@ related:
         height: 415
         isCached: true
 
-secured: "bxpqd6bHZN7CnKQYaKvAurPI3K1cROdX9vECmFSdHf7FqhaS/jbDoPS2p2gTyP43NqPBc4+eIGCj+GQSRTgeNagyVXDfKHO6J43ES5cz5mFLxrcc7hwx2cJIzxGdWINBqlu2Pk6XucTm1SuUo4dgZTYZVGQaIyP0GKdkZa5gAhp4R3VYOibYxbtBgDrxQWkIEIPjDxBTPYKe/giNtYVttiRWvjL+O+lcux7QDz3FP6Koo6lXQpndAGAsIB5qDOtzpEF4jRjoPSR3VUtwRQ5B6bW2zb6u/BUKXHzj+vevgDUu7W+L2F8SoZ41pFJ1leE8gPI0CcTiE9Q6XXUaK84Fw9608StZu0gbbjBKLCQIrsE=;8K1Z59vBCkpgFw4/7/B3Ow=="
+secured: "Kr76ONgyflo/FL+F1+aInErzyVZRz40mYDpnWKKiNphxONxyV8aLC9mjiaJarUa5EIgtGBsqSjZgFmN+CbIgUsgyupyzzlT+WLrD00rBTFtYUbigHsMp6qOGBHpyRuah1f7XAz/G7G+5eKTDSaXWwFoELw3xcO9CPMQEEJGqKx9LjQ89GRe4YcZUgdaV7N4c9GZugxk6N+qUSB5mdcGGtmJE0QGatO/E4UKt/Kvg9waGJZBTLgtwtytb/DUUCNbQoeMbjtcaITWAHujd356McCwWGvVLRptxGMbgz2qPKdDY7tNjFNZqZfnfEhttDRLgfuYwa98kRW0XXZBrscklll1nP4FzSm953JzeE74WhwD4YmXTDgZwHNxrQJ2mHj3mzn9KeJK3kShM+IgAHOnJ0FEXA+K7nX5K0R2w5u2Gbc04/Y+2EeebvLVOzXyGg2d9lOOxJcpu/y0wL5VUQcNvwS24W8+yDbcSAcrK2KdueqoyuoSGSzIaUvpfRSzG4KZOM9kOMizK1pNkb1w85Y1OGA==;v6GMnFl/StU1bTGtm5H/2w=="
 ---
 

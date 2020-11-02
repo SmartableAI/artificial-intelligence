@@ -50,22 +50,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Apple Snaps Up AI Video Startup For $50M To Enhance Apps – Report"
-    excerpt: "Apple has bought Barcelona-based startup Vilynx Inc, which specializes in advanced artificial intelligence technology, for $50 million in a move to help"
-    publishedDateTime: 2020-10-28T09:10:00Z
-    webUrl: "https://www.smarteranalyst.com/stock-news/apple-snaps-up-ai-video-startup-for-50m-to-enhance-apps-report/"
-    ampWebUrl: "https://www.smarteranalyst.com/stock-news/apple-snaps-up-ai-video-startup-for-50m-to-enhance-apps-report/amp/"
-    cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/stock-news/apple-snaps-up-ai-video-startup-for-50m-to-enhance-apps-report/amp/"
-    type: article
-    provider:
-      name: Smarter Analyst
-      domain: smarteranalyst.com
-    quality: 57
-    images:
-      - url: "https://www.smarteranalyst.com/wp-content/uploads/2020/10/shutterstock_1709503240.jpg"
-        width: 1000
-        height: 682
-        isCached: true
   - title: "Apple Inc. acquires a video AI start-up for USD 50 million to improve Siri & other applications"
     excerpt: "Apple has acquired a Video-based Artificial Intelligence Start-up that goes by the name of Vilynx. The deal was worth $50 million. Learn more"
     publishedDateTime: 2020-10-29T13:34:00Z

@@ -79,6 +79,22 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Intel Iris Xe MAX discrete GPU launched for laptops"
+    excerpt: "Intel may have the lion’s share of the PC desktop and laptop CPU market, at least for now, but it has struggled to gain any foothold in the graphics sector of the industry. It has always"
+    publishedDateTime: 2020-11-02T00:02:00Z
+    webUrl: "https://www.slashgear.com/intel-iris-xe-max-discrete-gpu-launched-for-laptops-01645312/"
+    ampWebUrl: "https://www.slashgear.com/intel-iris-xe-max-discrete-gpu-launched-for-laptops-01645312/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/intel-iris-xe-max-discrete-gpu-launched-for-laptops-01645312/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 89
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/11/Intel-DG1-chip-1.jpg"
+        width: 1280
+        height: 800
+        isCached: true
   - title: "Intel Iris Xe Max GPU is launched, helping thin laptops deliver impressive gaming"
     excerpt: "offering up to a 20% performance boost for the processor versus a laptop with an Nvidia MX350 GPU, Intel claims. Deep Link promises a major boost in content creation workloads, and also with video encoding. We’re talking 7x faster AI-based creation ..."
     publishedDateTime: 2020-10-31T16:03:00Z

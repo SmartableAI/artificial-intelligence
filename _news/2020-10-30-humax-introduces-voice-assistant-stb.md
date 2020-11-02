@@ -7,7 +7,7 @@ originalUrl: "https://www.broadbandtvnews.com/2020/10/29/humax-introduces-voice-
 webUrl: "https://www.broadbandtvnews.com/2020/10/29/humax-introduces-voice-assistant-stb/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 642
     isCached: true
-
-related:
-  - title: "Humax introduces RDK-based voice assistant set-top box"
-    excerpt: "Humax has announced the introduction of a voice assistant set-top box and Wi-Fi 6E gateway at the RDK Euro Summit 2020. The set-top box integrates stereo sound and supports Alexa's Far-Field Voice Recognition with a built-in mic."
-    publishedDateTime: 2020-10-28T08:57:00Z
-    webUrl: "https://www.digitaltvnews.net/?p=35344"
-    type: article
-    provider:
-      name: Digital TV News
-      domain: digitaltvnews.net
-    quality: 24
-    images:
-      - url: "https://www.digitaltvnews.net/wp-content/uploads/2020/10/Humax-Virtual-RDK-Summit-2020.png"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "kQD9tBEuKf8p9j2Id2TZVFwWcSQGRo/mvsFUTdfaBndnyvJP3A2hp5BBRndlOzDkyh6ODX6+ET2zaOHe4MsnwGPivt4kVnuDMtpE2yVyx24oNOrq5FpyvM6iSU0WZTL6N6WO8ITWXdpZ2o9nH63WXPdZ9uRqtGnyExAQyI5WT/9XnPqtqeGOyqeTwlyotXVixnl1QBzTgwsm3EqmVMzK8ClBIwYUiuoEkCY1hc8iGrlhnT75fDwEPwT1wkrG2Mg0jwxZsgSQDwdSlYD0NxtHqdsPmiuc1ZXbQ/nMLbfYqtIqApvvnz/NUz2VLm7D1c4nrB/mUMmLg/Ay0xIg0uR4qzPlpxedg3iGMFBdDF7CBoUdTHYfKgyelQeZrvb/5gqxFZGugEBdg95tUDzPzepjW9XJDIbL0iQaQWyBceSMqvuY9MLCLlmke6JhSqd9PyhG9EzbGNEqBITCatq2Q8e5u5YcYuox3b7peksIndtVLWpPZJohmPhnYIzJT58bR34PUdWUrtK/Dceu3GxTVBffRg==;eSY8Ny9+93qvdnC4eN1Ydw=="
 ---
