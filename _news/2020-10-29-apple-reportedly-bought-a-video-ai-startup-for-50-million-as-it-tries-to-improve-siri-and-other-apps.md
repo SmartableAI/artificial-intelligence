@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/apple-buys-vilynx-video-artificial-i
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10?amp"
 type: article
 quality: 72
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 750
         height: 450
         isCached: true
-  - title: "Apple roundup: Privacy change hit with French antitrust complaint; acquires video analyzing AI startup"
-    excerpt: "In other Apple news, Bloomberg sources say the company acquired advanced AI and computer vision startup Vilynx for about $50M earlier this year. Vilynx's tech uses AI to understand a video's ..."
-    publishedDateTime: 2020-10-28T14:32:00Z
-    webUrl: "https://seekingalpha.com/news/3627293-apple-roundup-privacy-change-hit-french-antitrust-complaint-acquires-video-analyzing-ai"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 1
 
 secured: "vsDdEWwbrASHBJtr7Pe8PXuQFZb9eMqY42nd8bcMJr19ReBjiV+7FE19dz3a1u5UEGiFIv6EIR0v1SC29F5xE+JES9qusDPkClAQYRWhVvphl9LF0bqgllqbCZeRz7CrDFMqGjGYs0d/iRFytAJ2FCdwT1Oosu5a16DBM7hpp2s0VuXfyvt9yJHzj6Sh6xbl2zcMfsh83/CRN03k4gQ2bxXRQPihnXMxBy2J8E11IKVBCcPfubrBBPnJVt5S0qsUNJ1v2kzHMw3vqTX7PaXjAGF3NwwQCR7BNJF4FnFjcqzftzJFhZlaGshqGsBDu+jD6HqBFhtdsU/Nmi/p0sYDLH/eaFJlqi5otowAQisuNmOaHTUiId8Oa9ihONH5/yyNSud5k0eNaNgCTFwCqvUG0f1M1OgLE/CW62Q9kxMPCsv/PKlA5EQsd37/zMIitmYGNfm497t9lzhA8N1In2J3xmo8S9Ok2XtLmtLBvDSgla/AKNI7oN/03k9R3qx+x0xSYRUq2rLMHedC5FNiIGeXjQ==;shM2Iiqm/U1RaRt71YJ94Q=="
 ---

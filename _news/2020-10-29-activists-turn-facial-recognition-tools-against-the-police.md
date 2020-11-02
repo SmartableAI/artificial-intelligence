@@ -2,26 +2,26 @@
 category: news
 title: "Activists turn facial recognition tools against the police"
 excerpt: "In early September, the City Council in Portland, Oregon, met virtually to consider sweeping legislation outlawing the use of facial recognition technology. The bills would not only bar the police from using it to unmask protesters and individuals captured in surveillance imagery;"
-publishedDateTime: 2020-10-29T15:55:00Z
-originalUrl: "https://www.chicagotribune.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html"
-webUrl: "https://www.chicagotribune.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html"
-ampWebUrl: "https://www.chicagotribune.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html?outputType=amp"
+publishedDateTime: 2020-10-29T16:16:00Z
+originalUrl: "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html"
+webUrl: "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html"
+ampWebUrl: "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html?outputType=amp"
 type: article
 quality: 74
 heat: 114
 published: true
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
+  name: Orlando Sentinel
+  domain: orlandosentinel.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/jlVG6BaC3imlBR23jhCY0p4V30U=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NAX6PDQO4JFFFFIXWI6JRI6B3A.jpg"
+  - url: "https://www.orlandosentinel.com/resizer/jlVG6BaC3imlBR23jhCY0p4V30U=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NAX6PDQO4JFFFFIXWI6JRI6B3A.jpg"
     width: 1200
     height: 801
     isCached: true
@@ -90,6 +90,6 @@ related:
         height: 300
         isCached: true
 
-secured: "aMThSJGXvPAg8ATl6+TkmXUcG7Oivpy/wjx2MrguRIMGkCBd6oHASIy+k3W8XJMpb8duLe+Lm9j31QfhOe8WfhXa7WP6m4fVIUhq7yieZxVTDx5S5RKjlamCXT2ldPyMHnywOHkWvdoQLKWQM3l7F2wNxk4C8Haqm1Vy1aDN2ldTUVUhARkv7AdEqJs9/9fEsLs7C/3pGHiM/tPglaM77MYkoEbnQgdaxTCCF5dRmO7Nss+9Et21MOyCt+6t8WTDd0UBpTTvaXril3fcF+k0MkpQxhF77jfI95gtnl4V0yfgxV2ZUdgdYY7oWjzE0Fq0+K473feQ3or+pCLX/NzzM08hlolyE9EcPYJsUx5JRm5r13TSHnvx1v2casNPhrpV73M7zuIodJkO0CjuUdT8H1juKl9nXtLBQQOS+f+RSDW8o02jO4HZiBHu3HAZXgiauNoVPn4dwNtgyrY3BgwZ1v/aH2nzm/M0y2XTPw1ZcJR2rV/YiZ9QD8ZTpSSaCuSSQ5MNaROFPSJ4LMWmw7I2iA==;nHUgBj+1fUUOAKIafkGi9Q=="
+secured: "Y/Ae2yFHwyfzUU8TK7Q6T9r7H4XbvGU/t4/b1Dwojz7hCXhbH+WW3fA4SKWExjNpcODi6nQpOTuBEKZN1Vil4MPxf2q41rxBq7vJBfE3rkEQUjx3QeCyp00NtpkK1C42X7EqfHdGMNyZcWICv1uNN4ibef9M1FOkf2MzcaoSuwSOFTcs0XO9OhEaFU1pOyr1arSMN12YXVTyk1iDHv/tjJz1uTkcttwnOy+Bu1EoD6vC6vpLMWUFMx1nG9to09ZLDShQAkSHN4yVGxf5tJouOX4wp/QHeIPVQ6wPfQPpIUw1PClV8wmTLZqn79tAdWJlgChM4WnzurVV6E/giD/JHbV8CiY1ez++yLqqW+c2P+s=;OVVVjGzH7FrGZqIGL+E7QQ=="
 ---
 

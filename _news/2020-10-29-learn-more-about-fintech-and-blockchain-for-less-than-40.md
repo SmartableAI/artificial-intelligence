@@ -36,22 +36,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
-  - title: "Learn the ins and outs of FinTech and Blockchain with this expert-led training"
-    excerpt: "The education starts with the basics, so you can build a strong foundational level of understanding before diving into more advanced topics, like AI in Fintech, Robo Advisors, and InsurTech."
-    publishedDateTime: 2020-10-28T15:34:00Z
-    webUrl: "https://nypost.com/2020/10/28/learn-the-ins-and-outs-of-fintech-and-blockchain-with-this-training/"
-    ampWebUrl: "https://nypost.com/2020/10/28/learn-the-ins-and-outs-of-fintech-and-blockchain-with-this-training/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/28/learn-the-ins-and-outs-of-fintech-and-blockchain-with-this-training/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 55
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/Fin.png?w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Grades, And Artificial Intelligence"
     excerpt: "If you ask about your grade, I’ll gladly tell you that you’re doing well in the course, or that you really need to do better, as the case may be. More specifically than that I will not say. The main reason for this is that if I were a hiring manager at ..."
     publishedDateTime: 2020-10-29T19:24:00Z
@@ -65,20 +49,6 @@ related:
       - url: "https://www.science20.com/files/images/science_corporate_conspiracy_300.jpg"
         width: 300
         height: 261
-        isCached: true
-  - title: "Become an Expert on the Future of FinTech and Blockchain with This $40 Bundle"
-    excerpt: "The finance world is changing rapidly by the day. Unless you have a financial education, you're likely not up to speed on the fintech developments that are shaping the global economy's financial future."
-    publishedDateTime: 2020-10-28T14:48:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/Become-an-Expert-on-the-Future-of-FinTech-and-15680724.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 36
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/75/37/20174799/19/rawImage.jpg"
-        width: 2000
-        height: 1333
         isCached: true
 
 secured: "8aV4s7Pb+89NiGDHYZmzhlSRXqbtt5lswXusCGRyyN8lIcVEjtVaEmsHrv8Z/gZTgCf6Nq7iADQS4PBtKoY8dXfwYjQbkTzseS5C6+2cn2yaETMxG9sSVgIX+QgaKx9fOz97sIfYRIzNegctFl+3DWK2gylfFWt+coFxo6e91PmkE8d8ss+Oc47wS7pUNnL+7loAjKzjBts0W6+4HBQYJkg9pOTtkN/rTCvgePhnxvWyAqwfys0N0uDu8IO4/KDo4LzD1m/H1uvx7F10cxqV/UKSYZovAFwNqvtaK7uM5z+kdsmGtSjgT+tUxyimOFZOMqfAsMJUQK50Z1zNDcWjlIvUbONyLvixygsCBBBAUhiQjVunvl+8PWm9vBKzfh6BO+UEoFYdLO4JQH/EtCZ868c6NB11211eugkSca0LKgzmDVe+E+uyhbuvTm7Fot1zCmyl30dAPrEv0lTFdbexSVM+5rhIjDSLTNpntVRfNElpZDybKJCloZFsr5tsxRQTo0fNXSJ+2bkcnSgjIERQAQ==;UjhbdNMfJNUz3cSuPfw4MQ=="

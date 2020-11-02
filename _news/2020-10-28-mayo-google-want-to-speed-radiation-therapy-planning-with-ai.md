@@ -58,20 +58,6 @@ related:
         width: 700
         height: 431
         isCached: true
-  - title: "NOAA exploring artificial intelligence pilots with Google Cloud"
-    excerpt: "The National Oceanic and Atmospheric Administration plans to improve weather forecasting by more effectively using satellite and environmental data in a series of pilots with Google Cloud. Google entered into a three-year other transaction authority (OTA) agreement with the National Environmental Satellite,"
-    publishedDateTime: 2020-10-28T14:17:00Z
-    webUrl: "https://www.fedscoop.com/noaa-ai-pilots-google-cloud/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 37
-    images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/2020/10/25415885187_da1c79ca54_k.jpg"
-        width: 2048
-        height: 1536
-        isCached: true
   - title: "Mayo Clinic, Google announce AI effort to boost radiation therapy for cancer"
     excerpt: "Mayo Clinic and Google Health have announced they will use artificial intelligence to improve radiation therapy planning for cancer care. The project is the first initiative in a 10-year strategic partnership between the Rochester,"
     publishedDateTime: 2020-10-28T16:30:00Z

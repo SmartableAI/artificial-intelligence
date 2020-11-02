@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/blockchain-aims-to-solve-ai
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/blockchain-aims-to-solve-ai-ethics-and-bias-issues/"
 type: article
 quality: 84
-heat: 124
+heat: 104
 published: true
 
 provider:
@@ -25,22 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "Learn the ins and outs of FinTech and Blockchain with this expert-led training"
-    excerpt: "The education starts with the basics, so you can build a strong foundational level of understanding before diving into more advanced topics, like AI in Fintech, Robo Advisors, and InsurTech."
-    publishedDateTime: 2020-10-28T15:34:00Z
-    webUrl: "https://nypost.com/2020/10/28/learn-the-ins-and-outs-of-fintech-and-blockchain-with-this-training/"
-    ampWebUrl: "https://nypost.com/2020/10/28/learn-the-ins-and-outs-of-fintech-and-blockchain-with-this-training/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/28/learn-the-ins-and-outs-of-fintech-and-blockchain-with-this-training/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 55
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/Fin.png?w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Learn More About FinTech and Blockchain for Less Than $40"
     excerpt: "You’ll learn the ins and outs of Fintech and Blockchain thanks to this training bundle ... Courses will also teach you about Robo-Advisors, InsurTech, Stablecoins and the ins and outs of AI in the financial services industry. And the best part is ..."
     publishedDateTime: 2020-10-28T20:46:00Z
@@ -68,20 +52,6 @@ related:
       - url: "https://www.science20.com/files/images/science_corporate_conspiracy_300.jpg"
         width: 300
         height: 261
-        isCached: true
-  - title: "Become an Expert on the Future of FinTech and Blockchain with This $40 Bundle"
-    excerpt: "The finance world is changing rapidly by the day. Unless you have a financial education, you're likely not up to speed on the fintech developments that are shaping the global economy's financial future."
-    publishedDateTime: 2020-10-28T14:48:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/Become-an-Expert-on-the-Future-of-FinTech-and-15680724.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 36
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/75/37/20174799/19/rawImage.jpg"
-        width: 2000
-        height: 1333
         isCached: true
 
 secured: "iWBrrVoZ0WXGpzmlQccn7GldPn69C2uofDYOIafrWXlzDZSyuMzAc2PM50wYf7t05lClnXpLZQKGe2owbVZ6p/6qeEwj246qr82JqEqhURncALY32QGaNLhRrxl1h8W3yuXL6ySKMrbm7WNMOuBbAxSSdhNgFlWtHmQIq9sLJYyFSZdyKD+n3I8U2d6E+gyYGjsq/VsTN7JlDlyD2Y/dAptzguBcTm0s/NRxFwIY2wlvDXjUYlIWiJBhaOZmaT7kwnR15VSmVD50XYIpuyOpCoqVkL0BTUxDnG7YpimwlhD2w34/bxnIXfsvHJsGsbN+GH937O/A/I8gzcyz+IUFpoxbSkYtO2OcbF2KlfGpU1jQjFEqluH9VS2BKV2OvJRzEM7h6UW/WeLUJiksUNLd58jJPiO0KRQvqxMNyKoE/ocg+d+KQJKeUzqg5LL3BghG7sUg4nhNclnBklR68LeTfcyVKomUhDO16sU24EbndxrGjgpYwn5i4dEKCOVggMYjlQct2arHIub7QpRC6Q7kVA==;rvE6SLLseROlpNiHI2Rarg=="

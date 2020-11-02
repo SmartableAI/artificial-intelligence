@@ -41,6 +41,20 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "University of Southern California leads new artificial intelligence study of Alzheimer’s disease"
+    excerpt: "A massive problem like Alzheimer's disease (AD) -- which affects nearly 50 million people worldwide -- requires bold solutions. New funding expected"
+    publishedDateTime: 2020-11-02T08:18:00Z
+    webUrl: "https://www.miragenews.com/university-of-southern-california-leads-new-artificial-intelligence-study-of-alzheimer-s-disease/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 24
+    images:
+      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg"
+        width: 1416
+        height: 829
+        isCached: true
   - title: "Artificial intelligence-based algorithm for the early diagnosis of Alzheimer's"
     excerpt: "They developed a type of deep-learning algorithm known as a convolutional neural network (CNN) that can differentiate among the fMRI signals of healthy people, people with mild cognitive impairment, and people with AD. CNNs can autonomously extract ..."
     publishedDateTime: 2020-10-28T16:26:00Z

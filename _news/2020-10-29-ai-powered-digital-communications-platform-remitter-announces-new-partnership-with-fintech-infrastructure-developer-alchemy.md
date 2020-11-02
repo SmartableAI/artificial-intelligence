@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/10/168544-ai-powered-digital-c
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/168544-ai-powered-digital-communications-platform-remitter-announces-new-partnership-with-fintech-infrastructure-developer-alchemy/amp/"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "HK leads in fintech development"
+    excerpt: "The progress of fintech in Hong Kong is very reassuring. In recent years, a number of major fintech initiatives have been launched, and widely adopted, by businesses and consumers alike."
+    publishedDateTime: 2020-11-02T07:28:00Z
+    webUrl: "https://www.news.gov.hk/eng/2020/11/20201102/20201102_105902_909.html"
+    type: article
+    provider:
+      name: 香港政府新闻网
+      domain: news.gov.hk
+    quality: 24
+    images:
+      - url: "http://www.news.gov.hk/eng/2020/10/20201019/20201019_172233_798/images/20201019174812254.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "gKl8Y/NhNrbUcSsIzaQoGfvG0Gec9+6PUXmTMHRLP/b14hHZyhhSN28zMdvo1uxam/EV0kHjKfAFoP4xEFZ9EzqZNIhbTVIwS2G2UT0X1iJJjaFxaSIDACdnBL9mwbEqeFAyt7fRmwNf+wb6rtfPZfyNoqAikvBcOc2DSoFfoM9iE/9z/wRgSwWTQRqzUeOF2rweXj9GiKYk8bwF3qJ8BpmpSDtZ0sEn9BIFhB8SoScQ/R0X2+em3k8C57WzUSWCL6PFU/MPjgstrQbR+QeUCUo3eHuVKVdjeNerjoRiPg7hnH6g640k52APyOwns1TzkjDX9eSLyJkUtHADnqHjJTv9KQ40KfhMVfsesfRhbdqDuZ7aRiE8Lk/s8QV9KyI9RRkduaafFupG926BvOvceRgN8tI0bGR5liRH+boh4oeP261802e9pICbxouG49xCr2vG0s4cgQtdndLLbBt8uhOXRsZbKNszBhr5MeNChb/2qAkhUWvGgxBsXK1RA2TVwF0TEJVcz12LAV2cxpyh0A==;ZQq/LyaZTgT+SFvuZdT51A=="
 ---

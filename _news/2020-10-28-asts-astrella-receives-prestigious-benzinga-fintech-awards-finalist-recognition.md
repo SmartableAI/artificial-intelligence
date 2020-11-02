@@ -24,17 +24,6 @@ images:
     height: 377
     isCached: true
 
-related:
-  - title: "Constant among the 2020 Benzinga Fintech Listmakers"
-    excerpt: "It’s been an award-winning autumn so far for Constant. A week after it received a 2020 AI TechAward, the fintech and automated loss mitigation provider announced on Wednesday that it has been named to the 2020 Benzinga Global Fintech Listmakers."
-    publishedDateTime: 2020-10-28T15:33:00Z
-    webUrl: "https://www.autoremarketing.com/autofinjournal/constant-among-2020-benzinga-fintech-listmakers"
-    type: article
-    provider:
-      name: Auto Remarketing
-      domain: autoremarketing.com
-    quality: 4
-
 secured: "nXRXUb313EWAYvTC5E0fI2RGArZlqAqnvgzD8Kq6hFLDC8cvkgp8wZAPbjzEvj7a5nwUNr94aPDkIrkxxQUyErhSJDPDqNg5DSDaTtDnwsRpQEezqs7l/U3lnZbLa4dXWCdQtKla58fSWBIBdcTcrYC+NlhgmGBWYve8a1Yp8RbpVxn6M13uRSZqQKDboEsrkqVKuMKTwamKUQUYRNKDuSn7krERtUBskzFw8i8YHQp/D4MLcxdf8tLfQuGIE8HQ7LtZm2Jma9LomSgoFmKPzhjs09IolEZXNxUBFlYwalS0wsqCe47Y0HFl1Xu9v1vwz3ZD3hpQhisvjUg4FQkFlcDbk0lXbBucBn5BeO+Z/4E=;+/ny/hfF5fbufWm8TqkEyQ=="
 ---
 

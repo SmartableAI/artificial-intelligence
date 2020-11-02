@@ -41,19 +41,21 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "IBM Study: AI-driven Virtual Agents Can Drive Customer Satisfaction and Cost Savings Amid COVID-19"
-    excerpt: "The research showed organizations that are early adopters of AI and cloud technology are reaping ... USD 5.50 per contained conversation using IBM Watson Assistant. The IBM Institute for Business ..."
-    publishedDateTime: 2020-10-28T14:42:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-study-ai-driven-virtual-agents-can-drive-customer-satisfaction-and-cost-savings-amid-covid-19-1029735274"
+  - title: "AI model could detect coughs of asymptomatic Covid-19 patients"
+    excerpt: "If the model is approved by the FDA, it could be used on a wide-scale and could be a viable tool for non-invasive pre-screening of asymptomatic patients."
+    publishedDateTime: 2020-11-02T08:09:00Z
+    webUrl: "https://www.ibtimes.co.uk/ai-model-could-detect-coughs-asymptomatic-covid-19-patients-1685381"
+    ampWebUrl: "https://amp.ibtimes.co.uk/ai-model-could-detect-coughs-asymptomatic-covid-19-patients-1685381"
+    cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/ai-model-could-detect-coughs-asymptomatic-covid-19-patients-1685381"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 57
     images:
-      - url: "https://mma.prnewswire.com/media/1322193/IBM_AI_Study.jpg"
-        width: 400
-        height: 225
+      - url: "https://d.ibtimes.co.uk/en/full/1685859/covid-cough-ai-model.jpg"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "HFawqXiG+nbl8OWmJfZzW9D2iAgkorUR3Dw7TfRls9mpzT/IAhgVNwYkdIcWM0tpK05DFNDEFiQnYHSpUmIuo+kAPjfNtQzCP/bH1JNttptlz5Q2zR6F6+HKQI72PUy/XApT854dAT1ah+q+5BNiTF6xW5C5/TNI/qTewZ894mh+Cse4zvGK5WCih8dEU6A8BdjIm8zKGr8Ln/91Hg5VPGfRvcdgT9I5aLItHBxp5d7a8M0HBxlFgMrV0RkG8KFA+weBUVXhb4S6xQcec587vW9vqhIcrLfcal9B6lsQ0ocBwOgRWUwP8iLb440QhHQDACHbGGMTPrTfvm8se+EGUgyvdyOM/Ir9td7JYnS0EmM=;tdJ2JUpuwAp3QMpsMKKt3A=="

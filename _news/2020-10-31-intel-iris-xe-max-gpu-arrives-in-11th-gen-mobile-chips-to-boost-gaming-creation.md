@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/intel-iris-xe-max-gpu-arrives-i
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intel-iris-xe-max-gpu-arrives-in-11th-gen-mobile-chips-to-boost-gaming-creation/"
 type: article
 quality: 99
-heat: 239
+heat: 249
 published: true
 
 provider:
@@ -184,6 +184,22 @@ related:
       - url: "https://sm.pcmag.com/t/pcmag_uk/opinions/i/iris-xe-ma/iris-xe-max-5-things-you-need-to-know-about-intels-first-dis_zxg2.1200.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Intel’s Iris Xe MAX GPUs bring the fight to Nvidia and AMD in notebooks"
+    excerpt: "Back to the Intel Iris Xe MAX graphics. Intel claims that 11th Gen Intel Core mobile processors paired with the GPUs can improve AI-based creation with Additive AI by as much as seven times compared to “other laptops”. Video encoding is rather ..."
+    publishedDateTime: 2020-11-02T07:01:00Z
+    webUrl: "https://www.htxt.co.za/2020/11/02/intels-iris-xe-max-gpus-bring-the-fight-to-nvidia-and-amd-in-notebooks/"
+    ampWebUrl: "https://www.htxt.co.za/2020/11/02/intels-iris-xe-max-gpus-bring-the-fight-to-nvidia-and-amd-in-notebooks/amp/"
+    cdnAmpWebUrl: "https://www-htxt-co-za.cdn.ampproject.org/c/s/www.htxt.co.za/2020/11/02/intels-iris-xe-max-gpus-bring-the-fight-to-nvidia-and-amd-in-notebooks/amp/"
+    type: article
+    provider:
+      name: Htxt.Africa
+      domain: htxt.co.za
+    quality: 59
+    images:
+      - url: "https://www.htxt.co.za/wp-content/uploads/2020/11/Intel-DG1-chip-4.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Intel Launches Iris Xe Max Discrete GPU With New ‘Deep Link’ Feature"
     excerpt: "Intel announced the launch of Iris Xe Max, its first Xe discrete GPU, which will use the company's new Intel Deep Link framework that aggregates CPU and GPUs to accelerate performance."

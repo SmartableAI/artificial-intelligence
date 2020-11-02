@@ -37,17 +37,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Big Gamble on Self Driving Cars"
-    excerpt: "In this episode, Jim discusses the self-driving car, a staple of sci-fi books and movies and predicted by automakers as far back as the 1930's, as was shown in a 1935 Chevy promotional film. With Cruise Automation’s application with the California DMV ..."
-    publishedDateTime: 2020-10-28T16:00:00Z
-    webUrl: "https://www.engineering.com/AdvancedManufacturing/ArticleID/20881/The-Big-Gamble-on-Self-Driving-Cars.aspx"
-    ampWebUrl: "https://mobile.engineering.com/amp/20881.html"
-    cdnAmpWebUrl: "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20881.html"
-    type: article
-    provider:
-      name: Engineering
-      domain: engineering.com
-    quality: 39
 
 secured: "q+JWYJUHMWRDVgznspZsFci9JvmT7ATFZD8BO+pGKullZxLqI15LcvnH57tGxsBXy4u6IC9bBnR45dRtGWwnLvn+NQ2uv+F7d+qNt0mf0y6I1EFStfGEjZx/iHrrOZniHDIp2EOm8xbUfbq+sh5ePmqrwZFND9DysHIFo8x+hXOIYwwfsgg2CoQDQ54UUFnoFxhh2XIRd3c2wVZ1RlHfOXYbw1cMbweB4yK4LydMvzqDTf3yu3SdV2T7bujAgVvckg4rEx/38rj1s2NBFUK97NbC1JUplbxr53hRYA9MJgxhmHKMz+Yl2HZGgcdsx/i94sRkmNjVFW7/q6WZcD98GCuLaq0KxsOj72peYu3NO5g=;+Ma6AtPyXyOEDsh3eftrmQ=="
 ---

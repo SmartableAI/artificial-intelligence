@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Apple roundup: Privacy change hit with French antitrust complaint; acquires video analyzing AI startup"
-    excerpt: "In other Apple news, Bloomberg sources say the company acquired advanced AI and computer vision startup Vilynx for about $50M earlier this year. Vilynx's tech uses AI to understand a video's ..."
-    publishedDateTime: 2020-10-28T14:32:00Z
-    webUrl: "https://seekingalpha.com/news/3627293-apple-roundup-privacy-change-hit-french-antitrust-complaint-acquires-video-analyzing-ai"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 1
 
 secured: "TGw3QR+wgsX+k673wRb/JREDn0/W+bgnRUsoBFEOSpZcGNhbnu5CehVI4yxefA5L5oG++LjUDiSX2ezIgdA3NFis1mBrAJUcvmWW4NS3nawkrzVG13KZW11WR7c9YeTULQ5kqZyS6RUKBVOBksuxahEQqbOUArz9t6DLCPtrghu+76KcoKcgQZeoQo1VUic6hqOIZcLmrCaf+Au3v/GOj9bZsaKonlRJvdxovhQ8vv+MyCy112bZvHEPtASudCSxfWvLDQNK3O7IU+lOeZBopncb9cr5cLSMXxuH01sh1MWfwC6BXHCSTK714iqNGgl5l87qZ2QmvDi+cX9ndMdctsnf/HiWzRTZFl7IOwz/A/E=;JYs1of7e8ny27bkBp1nVfg=="
 ---

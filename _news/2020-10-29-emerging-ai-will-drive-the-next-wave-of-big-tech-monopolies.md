@@ -27,22 +27,6 @@ topics:
 related:
   - title: "Emerging technologies that will advance the retail industry"
     excerpt: "Services include natural language processing (NLP), sentiment analysis, image recognition and autoML model creation. Companies that began their digital transformations early in the pandemic are ..."
-    publishedDateTime: 2020-10-28T15:45:00Z
-    webUrl: "https://www.techradar.com/nz/news/emerging-technologies-that-will-advance-the-retail-industry"
-    ampWebUrl: "https://www.techradar.com/nz/amp/news/emerging-technologies-that-will-advance-the-retail-industry"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/emerging-technologies-that-will-advance-the-retail-industry"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 89
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-1200-80.jpg"
-        width: 970
-        height: 646
-        isCached: true
-  - title: "Emerging technologies that will advance the retail industry"
-    excerpt: "Services include natural language processing (NLP), sentiment analysis, image recognition and autoML model creation. Companies that began their digital transformations early in the pandemic are ..."
     publishedDateTime: 2020-10-29T03:42:00Z
     webUrl: "https://www.techradar.com/in/news/emerging-technologies-that-will-advance-the-retail-industry"
     ampWebUrl: "https://www.techradar.com/in/amp/news/emerging-technologies-that-will-advance-the-retail-industry"
