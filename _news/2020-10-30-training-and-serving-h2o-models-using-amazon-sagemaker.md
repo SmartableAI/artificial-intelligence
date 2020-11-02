@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/training-and-serving
 webUrl: "https://aws.amazon.com/blogs/machine-learning/training-and-serving-h2o-models-using-amazon-sagemaker/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 811
     height: 630
     isCached: true
+
+related:
+  - title: "Real-time data labeling pipeline for ML workflows using Amazon SageMaker Ground Truth"
+    excerpt: "High-quality machine learning (ML) models depend on accurately labeled, high-quality training, validation, and test data. As ML and deep learning models are increasingly integrated into production environments, it’s becoming more important than ever to have customizable, real-time data labeling pipelines"
+    publishedDateTime: 2020-11-02T19:14:13Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/real-time-data-labeling-pipeline-for-ml-workflows-using-amazon-sagemaker-ground-truth/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 99
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/31/add-policy-loop.gif"
+        width: 1510
+        height: 748
+        isCached: true
 
 secured: "9zIg1kWhQmROmxiIrQzzjgDZ08t7R2S4Mp3UYnQMUAH0JgJhYqK1a93BVK/gXfhleD7XDzq0xYFdBYVsR14cWrobmv+VJJ0tMkITMGEgLdimo3FkKSh8K2KQ6XvDGxQuuodx2aPl7Dj1Cy4bN4L01djuUuzUlqcMo+XefLG/0uneh4mE0SypqNtYeGVLH58fGivNmxP8H/1jyPcmNYbjSCh7V5vG0UjoH76jlLDTRFdT7qxjWHupg6GOBaL/1HtW0ZJBCnEnkjXnvtOux90mYwJYjmj3RGFH9He5eN/v2b67XBlTOT45cDpoogu0Wie4wIT3aBTuMhR+8vo+HHAJnHrIiVUhbYugIVBANqTeaLs=;TSzCh1k5l1F/KPLLJAwqpQ=="
 ---

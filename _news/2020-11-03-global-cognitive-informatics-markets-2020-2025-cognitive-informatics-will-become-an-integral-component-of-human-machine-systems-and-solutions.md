@@ -52,6 +52,20 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 35
+  - title: "Facial recognition market to grow at 12 percent CAGR to 2024, Technavio forecasts"
+    excerpt: "A new report by market research company Technavio has estimated a 12 percent compound annual growth in the facial recognition market between 2020 and 2024. The $3.35 billion increase will be"
+    publishedDateTime: 2020-11-02T20:28:00Z
+    webUrl: "https://www.biometricupdate.com/202011/facial-recognition-market-to-grow-at-12-percent-cagr-to-2024-technavio-forecasts"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
+        width: 1050
+        height: 591
+        isCached: true
   - title: "Global Speech and Voice Recognition Technologies Market Size, Share, Demand And Remarkable Growth Rate Till 2026 | Zion Market Research"
     excerpt: "The Zion Market Research added a new report “Speech and Voice Recognition Technologies Market by Technology (Speaker Identification, Speaker Verification, Speech Recognition, Automatic Speech Recognition, Text to Speech, and Others), by Application ..."
     publishedDateTime: 2020-10-30T10:00:00Z

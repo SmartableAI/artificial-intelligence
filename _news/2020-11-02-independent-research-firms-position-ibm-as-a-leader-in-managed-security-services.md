@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/independent-research-firm
 webUrl: "https://www.prnewswire.com/news-releases/independent-research-firms-position-ibm-as-a-leader-in-managed-security-services-301164156.html"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,19 @@ images:
     width: 2698
     height: 1414
     isCached: true
+
+related:
+  - title: "Independent Research Firms Position IBM as a Leader in Managed Security Services"
+    excerpt: "PRNewswire/ -- IBM (NYSE: IBM) announced today that the company has been recognized as a Leader in three market"
+    publishedDateTime: 2020-11-02T20:24:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/independent-research-firms-position-ibm-as-a-leader-in-managed-security-services-1029753751"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/independent-research-firms-position-ibm-as-a-leader-in-managed-security-services-1029753751"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/independent-research-firms-position-ibm-as-a-leader-in-managed-security-services-1029753751"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
 
 secured: "C/cCaM59/oPhTuhZGRTvKo7+aB9HzQHHgZ9kk0jlFsxtxaQu4cLPxNow/LGTv3vChHHe9UFqZ7WLF5LukdqjExvxAItpIvm2KGckr5goNApcy/vHAyT4ZoI7I81A3yZRKGuNtTZnnxE0FLjgThJF+TLKnlXr6O5ONnLgEMe6UmL8aXuFRapCGQa5E1jRDDjioed+88Fw/YvNiUeuJ5QFnp30GSHLRQKnv9oCezBEQL6k2mz4xQZIM7iyAut08zjMegcxw02YvyDypJx46AZ6amqtGTt+cqfIWeD8gcbcRaDVAWGnZ1zILxXmDX/HPzJR2sOXSunRpYgW1pnMxUf5ocvJYASzcqLTWIVr6NRjKlo=;JpN+/QVflgsr8qH5Tglv4w=="
 ---

@@ -191,6 +191,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla's updated Full Self-Driving beta needs fewer human interventions"
+    excerpt: "Driving beta is already making some significant (and arguably needed) strides forward. Electrek says the automaker has rolled out an update that, according to Elon Musk, should reduce the need for human intervention by about a third."
+    publishedDateTime: 2020-11-02T20:11:00Z
+    webUrl: "https://www.engadget.com/tesla-full-self-driving-beta-update-fewer-interventions-205524844.html"
+    ampWebUrl: "https://www.engadget.com/amp/tesla-full-self-driving-beta-update-fewer-interventions-205524844.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-full-self-driving-beta-update-fewer-interventions-205524844.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fba1d7570-1bb7-11eb-b13c-b010545fb6c4&client=amp-blogside-v2&signature=39967e073c4a44e9b4fc1a30e030658a5e296a09"
+        width: 600
+        height: 350
+        isCached: true
   - title: "Tesla pushes new Full Self-Driving Beta update, Elon Musk says could slash interventions by a third"
     excerpt: "Tesla has started pushing a new software update under its Full Self-Driving Beta program and CEO Elon Musk says it could already cut driver interventions by a third. It has been less than two ..."
     publishedDateTime: 2020-10-31T16:56:00Z

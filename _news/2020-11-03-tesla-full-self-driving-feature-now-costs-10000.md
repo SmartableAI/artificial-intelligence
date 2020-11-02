@@ -175,6 +175,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Tesla's updated Full Self-Driving beta needs fewer human interventions"
+    excerpt: "Driving beta is already making some significant (and arguably needed) strides forward. Electrek says the automaker has rolled out an update that, according to Elon Musk, should reduce the need for human intervention by about a third."
+    publishedDateTime: 2020-11-02T20:11:00Z
+    webUrl: "https://www.engadget.com/tesla-full-self-driving-beta-update-fewer-interventions-205524844.html"
+    ampWebUrl: "https://www.engadget.com/amp/tesla-full-self-driving-beta-update-fewer-interventions-205524844.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-full-self-driving-beta-update-fewer-interventions-205524844.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fba1d7570-1bb7-11eb-b13c-b010545fb6c4&client=amp-blogside-v2&signature=39967e073c4a44e9b4fc1a30e030658a5e296a09"
+        width: 600
+        height: 350
+        isCached: true
   - title: "Watch Tesla Full Self-Driving Beta’s performance from the sky with scary near-miss"
     excerpt: "Today, we take a look at an interesting new video showing Tesla Full Self-Driving Beta’s performance from the sky in a new drone video with a scary near-miss. As we reported last week, Tesla has started pushing the first version of its “Full Self-Driving” feature that autonomously navigates on both city streets and highways."
     publishedDateTime: 2020-10-30T16:18:00Z
@@ -457,6 +473,6 @@ related:
       domain: channele2e.com
     quality: 2
 
-secured: "fEScYGMRXxo0PE5jePkb2OwBQwxmwsHaNi9OoxC+H5cfjBgEGzrYpXnKoIvtKe01YElxH8kDzqs0YqM6cDx+I83C8syj8ubRbj3uOKwA77J3lL7HI2dV5Kdpv4fxh5t6kEYsAei5mOZUWWfZb8muHE+E+DUuS0WeZf5ZI4zRcIGOWmizdZc0ZxZJ1vbohC1X7/B4uo4v7aQPf+zRFlf2I371X9REEIcGW0ExO8E0lGby2e8ZLKqydczD1QMxbpxOfWIIdIAdDIQjkzzGvK+c3IGLK6i31fjiw+Fn3imxr5Tl+OYQzxtyIWGsDsGkCAn1L0nJD6t6d+WaudFwwS+Ldt1vJ3qxWCRzI+U0hchTfKs=;62gafk1nm5NyWj6uIRi4Tg=="
+secured: "UsMruXM1G5bnuXz7W501Q3maGNCniKXXU7imHllA3lGGzOlfdr9LGH8Db8CtFNm8iwu6BX3PxnqDsF1oINtL9TfkkB7LkEaV1cMmhvRnRNmlg/Q/BE2qO3AnRDnGkOpUrwTX3VkjL4MnUpNKXzpL/3a5z6SVjqJrxao87/EIVcyKvcEdd96a5bjiJOZm2wvE6VbZ8zH1NUc8OuLUlxayjcTM/D68jOTW4gXymn5aY1fkff1jTTJTNqaD/a6yOpJXfvs5T1+c8WP3MxouJsU9LxNTyInHX8t2UfsKLoxl881njsNi7PZ6pW2LR5/Ufcms2TNaertd6CQWIkyUh7qNzagR+eay/lj5PL89ibR1ieunUDKvNm3R9sRJBWE70aPvgumbNnz3ZU5wrpOZJiG/pymcD+VW9ucP0Fs+YqdsQYxEAM7xLOwGRQjOpnQhwnUJO0yOiCHaXUc7c/3BG4oBc852MCxy2o4gYz5DVOxvTQRiYbndz2UfxQ7e8gzl1LBaNMW7d7cmp7SixqmsB8/3Xg==;AwQuHgyLazMxDElamG2IdA=="
 ---
 
