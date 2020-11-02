@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Constant Named to the 2020 Benzinga Fintech Listmakers"
-    excerpt: "The official Benzinga Fintech Listmakers comprises 250 carefully ... please contact Mary Beltrante at mbeltrante@constant.ai or (207) 807-0212 Constant leverages extensive experience in debt ..."
-    publishedDateTime: 2020-10-28T11:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/constant-named-to-the-2020-benzinga-fintech-listmakers-1029733210"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "AST's Astrella® Receives Prestigious Benzinga Fintech Awards Finalist Recognition"
     excerpt: "AST, through its Private Company Solutions affiliate, is honored to announce that their Astrella platform has been named a Benzinga finalist"
     publishedDateTime: 2020-10-28T16:27:00Z

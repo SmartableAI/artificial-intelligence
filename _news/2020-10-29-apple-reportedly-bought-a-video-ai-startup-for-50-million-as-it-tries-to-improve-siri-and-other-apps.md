@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/apple-buys-vilynx-video-artificial-i
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10?amp"
 type: article
 quality: 72
-heat: -1
-published: false
+heat: 92
+published: true
 
 provider:
   name: Business Insider
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Here's Why Apple Paid $50 Million for an AI Video Startup"
-    excerpt: "Apple (NASDAQ:AAPL) has acquired Vilynx, a company focused on using computer vision and artificial intelligence to analyze a video's audio, visual, and related text elements to un"
-    publishedDateTime: 2020-10-28T10:25:00Z
-    webUrl: "https://www.fool.com/investing/2020/10/28/heres-why-apple-paid-50-million-for-an-ai-video-st/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/10/28/heres-why-apple-paid-50-million-for-an-ai-video-st/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/28/heres-why-apple-paid-50-million-for-an-ai-video-st/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 87
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F596947%2Fa-circuit-board-with-a-chip-labeled-ai-at-the-center.jpg&w=1200&op=resize"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Apple Inc. acquires a video AI start-up for USD 50 million to improve Siri & other applications"
     excerpt: "Apple has acquired a Video-based Artificial Intelligence Start-up that goes by the name of Vilynx. The deal was worth $50 million. Learn more"
     publishedDateTime: 2020-10-29T13:34:00Z

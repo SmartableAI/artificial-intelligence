@@ -1,47 +1,51 @@
 ---
 category: news
-title: "Google and Facebook look for life beyond advertising"
-excerpt: "Movements made by Google into other markets like hardware and artificial intelligence should be taken with a pinch of cynicism too, as many of its acquisitions act as conduits for its first and most valuable product. A thinly veiled confirmation that ..."
-publishedDateTime: 2020-10-30T06:02:00Z
-originalUrl: "https://www.telegraph.co.uk/technology/2020/10/30/google-facebook-look-life-beyond-advertising/"
-webUrl: "https://www.telegraph.co.uk/technology/2020/10/30/google-facebook-look-life-beyond-advertising/"
-ampWebUrl: "https://www.telegraph.co.uk/technology/2020/10/30/google-facebook-look-life-beyond-advertising/amp/"
-cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/10/30/google-facebook-look-life-beyond-advertising/amp/"
+title: "Facebook research is developing AR glasses that help deaf people hear better"
+excerpt: "The research lead for Facebook’s Hearing Science lab tells Digital Trends about the exciting possibilities of AR glasses."
+publishedDateTime: 2020-11-01T16:09:00Z
+originalUrl: "https://www.digitaltrends.com/features/facebook-ar-glasses-deaf/"
+webUrl: "https://www.digitaltrends.com/features/facebook-ar-glasses-deaf/"
+ampWebUrl: "https://www.digitaltrends.com/features/facebook-ar-glasses-deaf/?amp"
+cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facebook-ar-glasses-deaf/?amp"
 type: article
-quality: 44
-heat: -1
-published: false
+quality: 71
+heat: 121
+published: true
 
 provider:
-  name: The Daily Telegraph
-  domain: telegraph.co.uk
+  name: Digital Trends
+  domain: digitaltrends.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Autos
+  - Computer Vision
   - AI
 
 images:
-  - url: "https://www.telegraph.co.uk/content/dam/technology/2020/10/07/Businessman-with-money-and-a-Google-logo-for-a-head_trans_NvBQzQNjv4BqIdUlPYoxLQG5nHXVd2JxiNcCUzMnBOjo0aMZ-3kW9eg.jpg"
-    width: 675
-    height: 422
+  - url: "https://icdn4.digitaltrends.com/image/digitaltrends/facebook_hearing_ar3-1200x630-c-ar1.91.png"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
-  - title: "Facebook research is developing AR glasses that help deaf people hear better"
-    excerpt: "The research lead for Facebook’s Hearing Science lab tells Digital Trends about the exciting possibilities of AR glasses."
-    publishedDateTime: 2020-11-01T16:09:00Z
-    webUrl: "https://www.digitaltrends.com/features/facebook-ar-glasses-deaf/"
-    ampWebUrl: "https://www.digitaltrends.com/features/facebook-ar-glasses-deaf/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facebook-ar-glasses-deaf/?amp"
+  - title: "Google and Facebook look for life beyond advertising"
+    excerpt: "Movements made by Google into other markets like hardware and artificial intelligence should be taken with a pinch of cynicism too, as many of its acquisitions act as conduits for its first and most valuable product. A thinly veiled confirmation that ..."
+    publishedDateTime: 2020-10-30T06:02:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2020/10/30/google-facebook-look-life-beyond-advertising/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/10/30/google-facebook-look-life-beyond-advertising/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/10/30/google-facebook-look-life-beyond-advertising/amp/"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 71
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 44
     images:
-      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/facebook_hearing_ar3-1200x630-c-ar1.91.png"
-        width: 1200
-        height: 628
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2020/10/07/Businessman-with-money-and-a-Google-logo-for-a-head_trans_NvBQzQNjv4BqIdUlPYoxLQG5nHXVd2JxiNcCUzMnBOjo0aMZ-3kW9eg.jpg"
+        width: 675
+        height: 422
         isCached: true
   - title: "Facebook, Apple, Tesla, and WIMI, Key Players in the Hologram AR Market"
     excerpt: "Mobius Trend releases a research report “Facebook, Apple, Tesla, and WIMI, Key Players in the Hologram AR Market”. Recently, Facebook announced"
@@ -97,6 +101,6 @@ related:
         height: 419
         isCached: true
 
-secured: "IPoTj2DnIFc48mwrjTgN2Ts6r+byJP5OlZ+bAZtxaH0mAWouCrl6sXXvn0Dc8WpIPnG6OKZmbbNOVMpiPlkHray9tudFms2GmZ+GAfxXA7+FA90IJlOoWUIlrmGADpt6U12gbCQnTe5hJHB5uTDptOf6YV1+Dyw3uH86e2VqW3uolu9XJuEnfSXh4YCCZociLaheKj+RgNC4Q3w/lWxU8ADXMG05wPTYeuB30mWn/hVPAHE0i8TAe7dXeCcB/4DD+v4bVhfJwqQKEL3AMVX5vdSl6mZ/sORc/v26GAdAOGLBW+71GFX3n7cFBMfnnVUTKhAlr38yn4GA/0rlGWniFERmjI6fZJVjmthP4MDVVmLTfozM+ANE9g/mkv1wfeb5EdJQq2Rm4f3Kdx0roPKVQOr7OGFo8eblcZ3zLWpCl60SpXQgix2PnYmPOjLKFdLKP39KOBbRUjcUjPH73dw84Sy3tZiQOwu28UxYjGG8ato/5R9V4Pg2rkB/Gzw7X/gcCMu55YXwpOCTcja3CI6utQ==;Pm61CthAJrdL7HZnU8A0ig=="
+secured: "NvM2eCHRXxRosrTSgAg8hLD9/EcrvINhc/kWJ4+FCxnznV0xOvEAHMcLhDh7L9MXmSUXzuxVqPCPdMyYPaKVAyeL3ZJIyDiKplWpZe0vvbGK1Rcr+Gng6pCX4j/NsIZZJ8M/DHr88alrdvja7AwIcg1k0TacrzQbv4UjEldicrc5zHW07B4i2ab/wLDfQvkDc9/vAJvX1yzJpUXclZMom1qUW2LEsyEmd3i2K2Ps8sxr8ky9+leFXSmUJI/pZHMVUA6ip0ExnxTwJ5eaJRw4nPbgrvvfOPBeEXFuoa/2qX70q0l7alpLCIbbSGHdDN5rRCntmBfhfGTDYpEdD2ipng+xNkWgzKVKQ4Z/zyNm4W4=;PO26ywWZyJbN1V/YczMGpA=="
 ---
 

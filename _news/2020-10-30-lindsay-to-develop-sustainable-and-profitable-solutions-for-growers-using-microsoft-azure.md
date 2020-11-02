@@ -1,20 +1,22 @@
 ---
 category: news
 title: "Lindsay to Develop Sustainable and Profitable Solutions for Growers using Microsoft Azure"
-excerpt: "PRNewswire/ -- Lindsay Corporation (NYSE:LNN), a leading global manufacturer and distributor of irrigation and infrastructure equipment and"
-publishedDateTime: 2020-10-30T10:45:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/10/n18138551/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure"
-webUrl: "https://www.benzinga.com/pressreleases/20/10/n18138551/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18138551"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18138551"
+excerpt: "PRNewswire/ -- Lindsay Corporation (NYSE: LNN), a leading global manufacturer and distributor of irrigation and infrastructure equipment and technology, today announced the development of intelligent digital solutions using Microsoft Azure to enhance irrigation management,"
+publishedDateTime: 2020-10-30T10:51:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-1029745663"
+webUrl: "https://markets.businessinsider.com/news/stocks/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-1029745663"
 type: article
-quality: 60
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
@@ -70,6 +72,6 @@ related:
       domain: newswiretoday.com
     quality: 17
 
-secured: "pnMRzoR5X4jsoJ60lwA5scTNRwmyMYXNq1ngbEHdvMb3XzVX/Bg2xI6LyvfxyKxGhfHKqGBYzl6p4bey8IcmhTqUTgf5q4P324p2epJvozp9P2JLeJZpKcHK9tlhtFY3DsHrb/mWmwGb/JDaMy60hgKJ7yNH0VbNh/gDQJPtubQNsDohqNqdPxtdq44MRkyZjeedwG2TeSECJ8lfgFF3lOaDp5QlXmt7GIbQgyxpn4Q8gZgsjctnFykLT53rGnjPcSFT5cAL7R/YWbmWb/cLu8Nsqyt67zScLiLp19XfN5agareIK7cZrvV5jTLuqwFaeVySJgz8LdxRVHNAJc3uWN9JoA7eoBrz0DOqHvcdvqA=;KxOmG5VJnMRXyYEHcgfUJg=="
+secured: "7+5LNRYNs/MYp5x7g8TKQIJ6kwnXSvAnMDoTVm0aRF+7FkCNzTphCnLKgEC4LSBI8LoMiBbPmpdTn8BiZz+ID9tJH3Rua225or+vrzKpuF2FKnAwOmQqqd5rGBdVgmASYHLthQmwIsFffg4Q0+DkfdTplIFdWCOvYcoceQzEHKhgfyY1IUMSQI9K8dTgUqpHMFSeQDuu76JEOyy9UUQpKcx9bjwaGpf6fktbLARVh1gkyyf6y7U+S0Ic1qWjRGgCFonVTwbPX4G+v6E6tcBBdcQ3niyUzGUAK0fgM1Iqxu1IxstrYBB0T3YtmPdu4KnPealDQ+hqkd2mK8bjcoe7IrYcjwBxWAnI06Oyaccchig=;d5gaKWEHb5sWaugIunn3cg=="
 ---
 

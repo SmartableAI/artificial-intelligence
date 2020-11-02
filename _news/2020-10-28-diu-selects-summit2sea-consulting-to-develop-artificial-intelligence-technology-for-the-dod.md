@@ -1,27 +1,32 @@
 ---
 category: news
 title: "DIU Selects Summit2Sea Consulting to Develop Artificial Intelligence Technology for the DoD"
-excerpt: "Summit2Sea will leverage AWS Sagemaker, a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning (ML) models quickly ..."
-publishedDateTime: 2020-10-28T14:07:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-301161877.html"
-webUrl: "https://www.prnewswire.com/news-releases/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-301161877.html"
+excerpt: "Summit2Sea Consulting, has been selected by the Department of Defense (DoD) to prototype the Humanless Unmatched Transaction (HUnT) solution for the DoD. \"The solution builds data pipelines to financial transactions to train a Machine Learning model that directs corrective actions to robot workers,"
+publishedDateTime: 2020-10-28T14:24:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-1029735172"
+webUrl: "https://markets.businessinsider.com/news/stocks/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-1029735172"
 type: article
-quality: 29
-heat: 29
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AWS AI
+  - AI in Robotics
   - AI
+  - AWS AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1321396/Summit2Sea___Brian_Eckle.jpg?p=facebook"
-    width: 3721
-    height: 1948
+  - url: "https://mma.prnewswire.com/media/1321396/Summit2Sea___Brian_Eckle.jpg"
+    width: 340
+    height: 400
     isCached: true
 
 related:
@@ -40,6 +45,6 @@ related:
         height: 400
         isCached: true
 
-secured: "hNoqfuaWSg7EPy1MzLI8WNXQTSueNuFx4osz33BFyYArg8pOySQ4wz3XNyGrri/LMVYMPlRSvvZ9d972c5fR833U7gUlLPFLjgdbpETJ3tmpqofgKS1lydirLEYpArwMkh4sUKucwAeXMu3LGa2o+v9MrgiAyand5ZXLmlEIXqPycj9wyk7ANNsMk70UCIaYb6Dz0EkCPEWlo7NpFtB7JQp1wudQHLbE4V/4fhd5smrY5FWfzn4XVHXR9WFkLth0m0CnQkxS+H9utfqfLMvK5KLZ96fl9E7UmlfP9b62sNqmdYw87v1ZwilzBRzsrhbwEjxbDlBpy7ls3DAppmSwy7O5H5vEeUJQPBuc7X25zE4=;Q/lVmiifeLj6oFOa8CPBCw=="
+secured: "P1JgWupDvfdHmuuM3XwiXyJEgPRGPmxrOuwGAoGeZcl3rqkybAzr92rGhbzLDHlUVPco3NGZVxd1Zt1VCATcRLOnjKBZGv/JClE26HwhBrJqI/UkD1Fm4nJ0yazRF+kNnPwHtUzxsCvdyK7I/QdHryXjHHd3bvm+mx9MegrbzT78cQHOy8C1VU4eqoAJA2cDJkQQq3DA8kObba0E+4sdeMhU+NfB2RaxQZB39AR/b+oa9o9Sd8u8cEBUMAko3U0PVXRWOJi0/JHYJwctNug1cW6O6h/YvR0CgBPnlgeMe0xym7UtRp4UNkriWB4H9NsxspZSwi+1s6sr58Qm0y8g70+kS5m7N3BVk9j2MCN0+1Y=;1dUNHvxBUDFqyFlIJrj5nw=="
 ---
 

@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook research is developing AR glasses that help deaf people hear better"
+    excerpt: "The research lead for Facebook’s Hearing Science lab tells Digital Trends about the exciting possibilities of AR glasses."
+    publishedDateTime: 2020-11-01T16:09:00Z
+    webUrl: "https://www.digitaltrends.com/features/facebook-ar-glasses-deaf/"
+    ampWebUrl: "https://www.digitaltrends.com/features/facebook-ar-glasses-deaf/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facebook-ar-glasses-deaf/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 71
+    images:
+      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/facebook_hearing_ar3-1200x630-c-ar1.91.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Google and Facebook look for life beyond advertising"
     excerpt: "Movements made by Google into other markets like hardware and artificial intelligence should be taken with a pinch of cynicism too, as many of its acquisitions act as conduits for its first and most valuable product. A thinly veiled confirmation that ..."
     publishedDateTime: 2020-10-30T06:02:00Z

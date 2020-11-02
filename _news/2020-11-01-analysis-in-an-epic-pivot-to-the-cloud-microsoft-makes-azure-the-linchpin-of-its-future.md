@@ -37,16 +37,14 @@ related:
       domain: techcrunch.com
     quality: 99
   - title: "Lindsay to Develop Sustainable and Profitable Solutions for Growers using Microsoft Azure"
-    excerpt: "PRNewswire/ -- Lindsay Corporation (NYSE:LNN), a leading global manufacturer and distributor of irrigation and infrastructure equipment and"
-    publishedDateTime: 2020-10-30T10:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/10/n18138551/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18138551"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18138551"
+    excerpt: "PRNewswire/ -- Lindsay Corporation (NYSE: LNN), a leading global manufacturer and distributor of irrigation and infrastructure equipment and technology, today announced the development of intelligent digital solutions using Microsoft Azure to enhance irrigation management,"
+    publishedDateTime: 2020-10-30T10:51:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-1029745663"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 60
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 70
   - title: "Microsoft sees strong growth in latest financials – as analyst puts Azure bigger than Windows for first time"
     excerpt: "Microsoft has reported revenues of $37.2 billion (£28.8bn) for its most recent quarter with Azure revenue growth at 48% – as one analyst argued Azure has overtaken Windows numbers for the first time."
     publishedDateTime: 2020-10-28T13:18:00Z
