@@ -3,8 +3,8 @@ category: news
 title: "Health: Artificial intelligence being trained to predict risk of developing oral cancer"
 excerpt: "The diagnosis of oral cancer could be 'revolutionised' by using artificial intelligence to predict whether ... carries significant potential for saving lives and improving patient healthcare provision.' Mouth cancer, also known as oral cancer, is where ..."
 publishedDateTime: 2020-11-02T10:55:00Z
-originalUrl: "https://www.dailymail.co.uk/sciencetech/article-8904931/Health-Artificial-intelligence-trained-predict-risk-developing-oral-cancer.html"
-webUrl: "https://www.dailymail.co.uk/sciencetech/article-8904931/Health-Artificial-intelligence-trained-predict-risk-developing-oral-cancer.html"
+originalUrl: "https://www.dailymail.co.uk/sciencetech/article-8904931/amp/Health-Artificial-intelligence-trained-predict-risk-developing-oral-cancer.html"
+webUrl: "https://www.dailymail.co.uk/sciencetech/article-8904931/amp/Health-Artificial-intelligence-trained-predict-risk-developing-oral-cancer.html"
 ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8904931/amp/Health-Artificial-intelligence-trained-predict-risk-developing-oral-cancer.html"
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8904931/amp/Health-Artificial-intelligence-trained-predict-risk-developing-oral-cancer.html"
 type: article
@@ -42,6 +42,6 @@ related:
         height: 471
         isCached: true
 
-secured: "8eyHBqV/K+1+iBqwok09/Psv1/Zn3STJN5+GpLShKdgCKEWfWISqHH92HJm1oEJU1E/SqTpiBPz8p/4VzAY5s8yiWxhZyzhDqQP6K9bG0m19MY/RaIiOnMjTyguzzI65LSFO1JFKQMrH3pk09uu04JWR3X0jt+hnjKMd/wc6PRU1xKydIXpVbZxFWtf1n4LeI4AvHGkJgFzEOD3/1MArS3J9swWpdYTy250d7NxTSmE2AAcVix9RXgpAGgy5BRipuVsn6XihZgZtma7DYUUMpuUrdRFQjYQNkAvE4lf/eAU4E6B9TK8mw0qrSisVVEDNnz4z/eoK6+XLGZH3GI3odqpoC9l9uKb7SdEqWADdc2g=;vDuVi4zC3GQs56BDn1enZA=="
+secured: "tmwM1REVgaUj0rwq8JrnRiOw9f+yMYkSfwJ9LyaYLrz8qbHuKPi1PC1MBJWBc0WzprS/1B9m8eWFkPfR92TnRb5JOcJgzFaNv413g2JEyHRch90E8sLbX8BBzQgJkdjGCjeT8ow0tf6/hNQvlW7cQqddFxkHzsXfk1KuLrucYaEcDFy6ONAyNxzTYoxX8Z0w4ydsUjmEFbY/JwBkUEyqT3v1OKj9dW6Z6DbTWnbgRwRdYKxGlPP8xqfCiQTpHNSsUmkMULr5BQKGqsHBXiYy4xKoXPPKHyzOeekXJf8bQoMBiKj4BMyV1fiZvUxL9JwXWYFfDyJaJnkl/JukTnk/mNuhzS4EWnPzL8nZkrEKjag=;L4ZSPRCfa4aBT6htSIM/iw=="
 ---
 

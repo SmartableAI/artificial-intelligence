@@ -3,8 +3,8 @@ category: news
 title: "Waymo releases Phoenix area self-driving car incident score card"
 excerpt: "Self-driving tech company Waymo, which this month opened its driverless taxi service in the Phoenix suburbs to the public, on Friday said its autonomous vehicles there had been involved in 18 minor incidents since 2019 during tests and actual rides."
 publishedDateTime: 2020-10-30T19:11:00Z
-originalUrl: "https://www.reuters.com/article/autonomous-waymo-safety-int/waymo-releases-phoenix-area-self-driving-car-incident-score-card-idUSKBN27F23R"
-webUrl: "https://www.reuters.com/article/autonomous-waymo-safety-int/waymo-releases-phoenix-area-self-driving-car-incident-score-card-idUSKBN27F23R"
+originalUrl: "https://www.reuters.com/article/autonomous-waymo-safety-int-idUSKBN27F23R"
+webUrl: "https://www.reuters.com/article/autonomous-waymo-safety-int-idUSKBN27F23R"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27F23R"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27F23R"
 type: article
@@ -434,6 +434,6 @@ related:
       domain: infosurhoy.com
     quality: 14
 
-secured: "dsxKPg+DzhJ2BiIGEzyvrpkV2bax2jeQfP02vVCoKgBDBeAq0pvZOZciKcSLPzHAddiadL7wCRMBP5z/1S5NiYznGyDNj3Aee5WdHC5S5H7wx2YWP0Uov8Xwhj+AMPsmQJ24HgNn1Cup9TT85QcWYZi7+9ZaOLV1yvLmNmQ8dvHTHvqMp2vzNYGRfSqwZQq4UrrUwd6p6TUHDOFigD49vWq9w+1vWVKpiTL0ZWCPj3j6jgbc62c5QQJ3U9eAW05h5X4kb+lv4eWI91IFr0khvv/80Q5ZeyU65njKWFGQ4ZBR1AUXI6DShpKb/gwWsyxIWvQzkeJDnRrKBBpEymrtUFyBfMSr2hTCcWXJqaJU3i39fklcZtTavUXIv4O0yZaqHENs5XnTfI+PHPqhN+J+2ZepDGbyonDblzlNyDOHCsvG0NbDUl3ukGg6Ka5p8AhA18EnIKMdaNL+xyc/4OnZGDqi0clz4hJYQuGAC4cjRUGQePhKulBd2H++ofDxZ4ThhyGA9Wb9D7EpLwAoLEz+Ig==;rT5zHltRA339QSXWOVEMBg=="
+secured: "OADjP9MKoKzmZboWNi2akM/wUF12R1Z1xaQTRMrfS7roSVHH+3paybMB5D/I7X/e24EJYkgf+u9colaNCRh3VAAWsZp5RtxyurR831bnttUD3iBNN61e2lMJ0ijgNqYE5lqX2ir79ZHcAge4X9ayk7NtNBXjphXblUl6uFZ+aI5V7TItGGrn2MAJuFX6C5hlmzopkIb3DU16QJxbUZUJIh4BfG+BLO4UIUWTNa6pWQ+dZHYj9TzoW4d5w1hs4fgJVNrGtnw7dWkT9cuTFAkmImZcRiWid4qYgWpR7Ix2T+d9GNMEgzWlDRSZg+eJqu5fF+wsv0dxB6uE5vH1PheBEX7gVzCS6Rgv1tnNxB7F7nY=;lz+dUuP78zc+QgyeUSmtqA=="
 ---
 

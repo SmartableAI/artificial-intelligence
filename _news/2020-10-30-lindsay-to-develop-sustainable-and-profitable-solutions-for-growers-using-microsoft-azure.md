@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/lindsay-to-develop
 webUrl: "https://markets.businessinsider.com/news/stocks/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-1029745663"
 type: article
 quality: 70
-heat: -1
-published: false
+heat: 80
+published: true
 
 provider:
   name: Business Insider
@@ -23,21 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft Improves Password Spray Attack Detection Using Machine Learning"
-    excerpt: "Microsoft on Monday announced that it has developed a new algorithm based on machine learning that improves password spray detection in Azure Active Directory (Azure AD)."
-    publishedDateTime: 2020-10-28T19:17:00Z
-    webUrl: "https://www.techworm.net/2020/10/microsoft-password-spray-attack-detection.html"
-    ampWebUrl: "https://www.techworm.net/2020/10/microsoft-password-spray-attack-detection.html/amp"
-    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2020/10/microsoft-password-spray-attack-detection.html/amp"
+  - title: "Analysis: In an epic pivot to the cloud, Microsoft makes Azure the linchpin of its future"
+    excerpt: "Microsoft Corp.’s Azure cloud computing service is the linchpin of the tech giant’s innovation strategy. As we reported last week, we believe that in the next decade, changes in public policy will restrict the way in which big internet companies are able to appropriate user data."
+    publishedDateTime: 2020-10-31T18:43:00Z
+    webUrl: "https://siliconangle.com/2020/10/31/analysis-epic-pivot-cloud-microsoft-makes-azure-linchpin-future/"
     type: article
     provider:
-      name: techworm.net
-      domain: techworm.net
-    quality: 75
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 45
     images:
-      - url: "https://www.techworm.net/wp-content/uploads/2020/10/passwords.jpeg"
-        width: 1200
-        height: 675
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/AdobeStock_321471082_Editorial_Use_Only-1024x576.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "7+5LNRYNs/MYp5x7g8TKQIJ6kwnXSvAnMDoTVm0aRF+7FkCNzTphCnLKgEC4LSBI8LoMiBbPmpdTn8BiZz+ID9tJH3Rua225or+vrzKpuF2FKnAwOmQqqd5rGBdVgmASYHLthQmwIsFffg4Q0+DkfdTplIFdWCOvYcoceQzEHKhgfyY1IUMSQI9K8dTgUqpHMFSeQDuu76JEOyy9UUQpKcx9bjwaGpf6fktbLARVh1gkyyf6y7U+S0Ic1qWjRGgCFonVTwbPX4G+v6E6tcBBdcQ3niyUzGUAK0fgM1Iqxu1IxstrYBB0T3YtmPdu4KnPealDQ+hqkd2mK8bjcoe7IrYcjwBxWAnI06Oyaccchig=;d5gaKWEHb5sWaugIunn3cg=="

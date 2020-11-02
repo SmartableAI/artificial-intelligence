@@ -27,21 +27,44 @@ images:
     isCached: true
 
 related:
-  - title: "The Next Generation Of Artificial Intelligence (Part 2)"
-    excerpt: "Like artificial intelligence more broadly ... albeit with further innovations to today’s neural networks. “Some people think we need to invent something completely new to face these challenges, and maybe go back to classical AI to deal with things ..."
-    publishedDateTime: 2020-10-29T13:06:00Z
-    webUrl: "https://www.forbes.com/sites/robtoews/2020/10/29/the-next-generation-of-artificial-intelligence-part-2/"
-    ampWebUrl: "https://www.forbes.com/sites/robtoews/2020/10/29/the-next-generation-of-artificial-intelligence-part-2/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/10/29/the-next-generation-of-artificial-intelligence-part-2/amp/"
+  - title: "C3.ai on tackling CRM, education, social media regulation, and enterprise AI"
+    excerpt: "Tom Siebel, CEO of C3.ai, talks to ZDNet's Larry Dignan about his company's partnership with Microsoft and Adobe, AI's role in solving for COVID-19 and remote education, the filter bubble, and where enterprise AI is headed."
+    publishedDateTime: 2020-11-02T12:32:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/video/c3-ai-on-tackling-crm-education-social-media-regulation-and-enterprise-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
+      name: ZDNet
+      domain: zdnet.com
+    quality: 98
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9a2608695ad7ade6fce902%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1240%26cropY1%3D0%26cropY2%3D697"
-        width: 1200
-        height: 675
+      - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/10/30/c52e78df-1243-45d7-8ab9-1016efba8e83/thumbnail/370x278/9f9f596466c41bbe814fcb75fe340a53/thumb.jpg"
+        width: 370
+        height: 278
+        isCached: true
+  - title: "C3.ai CEO Tom Siebel on AI and CRM, remote learning's next breakthrough and regulating social media"
+    excerpt: "Tom Siebel caught up with ZDNet to talk about next-gen CRM systems, C3.ai's Digital Transformation Institute, COVID-19 data lakes, education's next innovation and why social media firms need to be regulated."
+    publishedDateTime: 2020-11-02T11:00:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 72
+  - title: "Part of the revolution: Black representation in AI and quantum information"
+    excerpt: "Black scientists need to be in the room when AI algorithms are developed, and as a physics community, we need to be discussing the ethics of our role in that work. Like AI, quantum information science and engineering (QISE) is a rapidly evolving field with ..."
+    publishedDateTime: 2020-10-30T16:12:00Z
+    webUrl: "https://physicsworld.com/a/part-of-the-revolution-black-representation-in-ai-and-quantum-information/"
+    type: article
+    provider:
+      name: Physics World
+      domain: physicsworld.com
+    quality: 37
+    images:
+      - url: "https://physicsworld.com/wp-content/uploads/2020/10/fig1-635x357.png"
+        width: 635
+        height: 357
         isCached: true
 
 secured: "FgeFl/A/aunZJsTb2dJ1GZ1IRhCAHqQhh8ItDSaXktUUQdSie1hE//yP1u9KjuV6LYMXzrLATER5UW4uk0zji8AAcJOAO4kPoYw1m5rfrZ7D8ya0ppjk/hpgUR1MUmLZRj1stRzrHPrh+ntUYR4LiKpSSnxbfoNeOOVYDhNJaul0GE5kn8ooRDVG4GZ/buBlIWjJTs1ypkuxLypKGVE7i/FvOsZZ1VMBcSluHVguffpvlASriH/Q9ANW2FGfOR2NR9CRMgj5rH9Z9KsGYHjn3P1E0F8tfRtssT3Og5+N4KGx2TOhSvEKrpYy3AbLfkFn71isNX9qdq4ciNT/uZ622WSSXlcNok2jLE367i0CPZFGPg10hiHfyWfXu2p8BamZ2VIqRn7Rxb6ucdJKp20ZH/nnP97SMSjkaBij5KKL1d9ORWWl7W8r1UR430hUR7XnY8ZfwpWOljRt20ocGG/mLzhouuHIACvP8zB3PbmyOK37a8yQMY3+4UGmokLQ51O1FhsGahk5BYJw3aWNIpL07A==;61NV8tqNj1zQ8c9hHaev9A=="

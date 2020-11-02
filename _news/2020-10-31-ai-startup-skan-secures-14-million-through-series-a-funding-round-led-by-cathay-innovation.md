@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI-led recruitment platform TurboHire raises $1million in seed funding"
+    excerpt: "Hyderabad-based AI-driven recruitment platform TurboHire has raised $1 million in seed funding for its disruptive solution that enables recruiters to hire better quality candidates at reduced costs, m"
+    publishedDateTime: 2020-11-02T09:14:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/ai-led-recruitment-platform-turbohire-raises-1million-in-seed-funding/article33002585.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/ai-led-recruitment-platform-turbohire-raises-1million-in-seed-funding/article33002585.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ai-led-recruitment-platform-turbohire-raises-1million-in-seed-funding/article33002585.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 57
+    images:
+      - url: "https://www.thehindubusinessline.com/info-tech/i1qae4/article33002584.ece/ALTERNATES/LANDSCAPE_615/BL02STARTUPFUND"
+        width: 615
+        height: 384
+        isCached: true
   - title: "US Based AI Marketing Cloud Startup Pyxis Raises $7 Million in Series A Funding"
     excerpt: "Pyxis is a unique AI-led marketing cloud start-up headquartered in the US with an office in Bengaluru, India. The start-up has several innovative tools that provide a robust platform for creative automation and actionable marketing research analytics."
     publishedDateTime: 2020-10-30T06:26:00Z

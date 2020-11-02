@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/02/ambarella-launches-computer-visio
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/02/ambarella-launches-computer-vision-chips-for-edge-ai/amp/"
 type: article
 quality: 121
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     height: 621
     isCached: true
 
-secured: "Xkg4vTndASsI8clVp9lJI5A5D4Xqpx5U9kPZAcExPx9DpH8LUb9tUu2o5AadxbEYXhOqfMPVjKo2BjVOFtrQ9emfs+7Z3U9G2FSNOrrDGtY8U6hUntMDyDlHgbkLudZSZuOeZlUrT3K6PqOeBSz2YTJ0sx0LAKS+Xub+KWrqb6Fr0KYijiBfSGSuCbu4wElw7H0VnLMAty+yiw5hA3bOAjm86A9E0Zjw/a063M4DGtRq1iK7KgaWXV8ouV+l1DwQTjPWYTp+LLi2Gb9H2PUlMlJX21hvC7RjyRng6Mbirheuy+6pfjTNKf1Ic6BOcTJ4cjahRotRMKUTiXasX6KQWjUpNXwek0wnccMSyWrxREo=;BepzP/VLOUu5BqJcOQVzgQ=="
+related:
+  - title: "Ambarella launches CV28M SoC with CVflow processor for artificial intelligence"
+    excerpt: "Ambarella (NASDAQ:AMBA) unveils the CV28M CVflow® processor for artificial intelligence (AI ... retail monitoring, consumer robotics, and occupancy monitoring. CV28M provides the AI performance ..."
+    publishedDateTime: 2020-11-02T11:15:00Z
+    webUrl: "https://seekingalpha.com/news/3629469-ambarella-launches-cv28m-soc-cvflow-processor-for-artificial-intelligence"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 15
+
+secured: "kDLT4Hwnj4Fk5B7++tf8Xw5ujeQT5p+zCHhabVLVDI3JxWXzakLw+UT3VkW4brjxGMnIrPjdi62PreWFYq3lz12IflBEiAUXjX3DcDAofHUphEidavIR+8ppw0fUfMk2rVIoitPrcNlmMTdD45VwBMtWMHBoprQLg9Zrlk63I3CdvXh0Gb3b9A6m9WmCSVsaPSCTvVHS7VJPF3EDxv386yaKgk+Y1bb/IQjH0x21j/76qUIO9Y9YSwH9oEqQ4g9VG655pqsxuV1w1YuZ9tRkpjScEyzhLsb8rDwRCBi4+fV8IUCoNzQAtsCxdi6nLYqn3re4sSaWQOZy9Zg0I6s8lXfBlOLAt9J5J0VfArIoGUNGHdFlaYPZYi0SPcGYkAy3oynl+vbPs5ehwfcDh3lD+H3nuQFuC/t6gv1R3ncH17uZyuSi0CX4dgOJq23LVg53OYuKcJv8kDuJ+YAGo+HZA3/VlPzCSulfPM/Ze21plmSqXm5eE5tRFo3G1nVEjSqeRRAQIZOrKSAKyKmHQN7jGQ==;SyN617DqYmxomhlZbOEJNg=="
 ---
 

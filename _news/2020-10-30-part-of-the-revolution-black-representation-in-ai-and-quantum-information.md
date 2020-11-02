@@ -25,58 +25,44 @@ images:
     isCached: true
 
 related:
-  - title: "AI Evolutions And Revolutions In 2021"
-    excerpt: "As I watch 2021 approach, I have both trepidation and hope. I have concern over the multitude of ways in which the world will change around me, but I also have hope for the promising opportunities in our future."
-    publishedDateTime: 2020-10-30T11:44:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/30/ai-evolutions-and-revolutions-in-2021/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/30/ai-evolutions-and-revolutions-in-2021/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/10/30/ai-evolutions-and-revolutions-in-2021/amp/"
+  - title: "C3.ai on tackling CRM, education, social media regulation, and enterprise AI"
+    excerpt: "Tom Siebel, CEO of C3.ai, talks to ZDNet's Larry Dignan about his company's partnership with Microsoft and Adobe, AI's role in solving for COVID-19 and remote education, the filter bubble, and where enterprise AI is headed."
+    publishedDateTime: 2020-11-02T12:32:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/video/c3-ai-on-tackling-crm-education-social-media-regulation-and-enterprise-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: ZDNet
+      domain: zdnet.com
+    quality: 98
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9ac26e14d92913a5ba9182%2F0x0.jpg"
-        width: 1200
-        height: 696
+      - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/10/30/c52e78df-1243-45d7-8ab9-1016efba8e83/thumbnail/370x278/9f9f596466c41bbe814fcb75fe340a53/thumb.jpg"
+        width: 370
+        height: 278
         isCached: true
-  - title: "Artificial Intelligence Technology Solutions Renews Largest Dealer Agreement"
-    excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Artificial Intelligence Technology Solutions, Inc. (OTCPK:AITX) is pleased to announce that its wholly-owned subsidiary ..."
-    publishedDateTime: 2020-10-29T14:41:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-renews-largest-dealer-agreement-1029741041"
+  - title: "C3.ai CEO Tom Siebel on AI and CRM, remote learning's next breakthrough and regulating social media"
+    excerpt: "Tom Siebel caught up with ZDNet to talk about next-gen CRM systems, C3.ai's Digital Transformation Institute, COVID-19 data lakes, education's next innovation and why social media firms need to be regulated."
+    publishedDateTime: 2020-11-02T11:00:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
-  - title: "How the Army plans to revolutionize tanks with artificial intelligence"
-    excerpt: "With the Advanced Targeting and Lethality Aided System, or ATLAS, the U.S. Army hopes to transform the way tank crews operate using artificial intelligence. (U.S. Army)"
-    publishedDateTime: 2020-10-30T17:42:00Z
-    webUrl: "https://www.airforcetimes.com/artificial-intelligence/2020/10/29/how-the-army-plans-to-revolutionize-tanks-with-artificial-intelligence/"
+      name: ZDNet
+      domain: zdnet.com
+    quality: 72
+  - title: "Next generation Artificial Intelligence and ethics"
+    excerpt: "What is the next generation artificial intelligence? What about its learning abilities? And ethics that surround it? Josh Tenenbaum"
+    publishedDateTime: 2020-11-02T08:12:00Z
+    webUrl: "https://elearningworld.eu/next-generation-artificial-intelligence-and-ethics/"
     type: article
     provider:
-      name: Air Force Times
-      domain: airforcetimes.com
-    quality: 39
+      name: elearningworld.eu
+      domain: elearningworld.eu
+    quality: 58
     images:
-      - url: "https://www.armytimes.com/resizer/T7WHMJtVbwG5P2RQM5wHLIm9GoY=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/MW6AKBSUTVCKDP66O7JV4YUYTY.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "How the Army plans to revolutionize tanks with artificial intelligence"
-    excerpt: "Advanced Targeting and Lethality Aided System, or ATLAS, the U.S. Army hopes to transform the way tank crews operate using artificial intelligence. (U.S. Army)"
-    publishedDateTime: 2020-10-29T20:35:00Z
-    webUrl: "https://www.c4isrnet.com/artificial-intelligence/2020/10/29/how-the-army-plans-to-revolutionize-tanks-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: C4ISRNET
-      domain: c4isrnet.com
-    quality: 37
-    images:
-      - url: "https://www.armytimes.com/resizer/T7WHMJtVbwG5P2RQM5wHLIm9GoY=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/MW6AKBSUTVCKDP66O7JV4YUYTY.jpg"
-        width: 1200
-        height: 630
+      - url: "https://elearningworld.eu/wp-content/uploads/hand-3308188_640.jpg"
+        width: 640
+        height: 389
         isCached: true
 
 secured: "AGkIJNfoUyUrpAQVXqhIBg3+2Wgz56pRR3RT6AStMoW4k81HwWCJvPpW/RGoZkpghDrnK8gGyGLjKwBElKpS7Ff3SObzvMLen3Sw7DcN4Zi/dqBw68Dt2tzv2vTW8Fp1XIluOX13Oe3sqBAyf4epBx3AiLBxqCDk88xLmr8FWy/jhkBwDcZnIUwzqTa8Txhb9k/HfiQaBsVkkzv41vPH6nHX7l3Vv4QcV37sbt3l4zIQOh65Js2u9vJivoe3p07LO2KOtM9K5guvTsb7yRkC9FMMnXqclIr+iIjj01Ze2YfS15I7kzdnU3V7j2Sz3Lq4aAsq9OMNLVhrR2555o688g714qq6E7w5KEiXTciMnE3YZWu5Iwi0fUELOhxuBhQcGYvyNmsxc+jiOwhUqcABa8mkB6QDZSn53SXVght5DXgWRdEgNyVDLOENIdUMJHRzb+pTepBmRzh6sCEbjX4CmbW6AynMuKvp2luckEygiKOWT5S/ng/M/hC3Lvfz33cQzR6+2uLKr25oT0YbbsgInQ==;nMxsJVR0+wa5YlpZvClsCg=="

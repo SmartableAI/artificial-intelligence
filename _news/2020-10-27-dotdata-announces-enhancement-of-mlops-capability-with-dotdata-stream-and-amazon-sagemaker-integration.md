@@ -14,7 +14,6 @@ provider:
 topics:
   - AWS AI
   - AI
-  - Machine Learning
 
 images:
   - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
@@ -22,6 +21,6 @@ images:
     height: 315
     isCached: true
 
-secured: "Bl6Ogq/UremPYWBdW9lHLjTwwXEE9gbgInQWrQZrrG+lyMx9VrE/momzfotFrUu5S3rbdphgeMd6PWQnhgZPfTjL0tlsP25QVcZ/w75Yw75O3NTUX2K5IBVu1BkpUo6j1sTgNQoZFpshdknarMqAHO0FVfcfkp9wBJBbxZp8G/R7JCEkXy+F0fcldCpHiyTAtK67pvYuQxnESholrjj+1W6Mc4XO+hR2scxr6+0wBizYL4jiC4k/tX/fV3KfO2/C1MOV4yoyDZKDxauimDU7BvnLLRULhinkxS0UQBND6o95Ntv4a+6tJxnpfIGXhNpOKH1jADIF4ujMXQI291T7UthDzRAODRnlyME8iQO8tVE=;sJaY0ndxmMC+XoJvTZ4kgw=="
+secured: "X4d4aKt/UWOtO4An6UVcRxbZwNBeLsB6wWhhiGkq4LYE6ayK/4D0t+rgKocya7JJnIxKG8yHGe4j/FaeBLjSLIRWP5cFS1cH3zvf0mei1mCP7A8etQnIGg00jHqHAHzbBn0uMx9iIkdiz6cbuJZ+LZQL2g3cpX4bmN8A13apmzAXfI7XWI4zBdGNuLt2AqjEx5dIBMDVcvUPW+h9pCwl9E/qDrJZdYIfRhHa1Bu6ku+w/SONSRU+dv37k1gTfIGnyG/pMOqlPSYNE8oCkdSCXpI8qYlTGKSBhF5diICUMILSPD8Kt+5JC3be4u9NxJEeRa9J5yLLFvrrUjHUeWTSeT8PzmpTUo6dLTZoNtanDUc=;wjX+HStnVbTE4zSHREEWWg=="
 ---
 

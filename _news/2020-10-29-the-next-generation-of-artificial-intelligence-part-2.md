@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2020/10/29/the-next-generation
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/10/29/the-next-generation-of-artificial-intelligence-part-2/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Next generation Artificial Intelligence and ethics"
-    excerpt: "What is the next generation artificial intelligence? What about its learning abilities? And ethics that surround it? Josh Tenenbaum"
-    publishedDateTime: 2020-11-02T08:12:00Z
-    webUrl: "https://elearningworld.eu/next-generation-artificial-intelligence-and-ethics/"
-    type: article
-    provider:
-      name: elearningworld.eu
-      domain: elearningworld.eu
-    quality: 58
-    images:
-      - url: "https://elearningworld.eu/wp-content/uploads/hand-3308188_640.jpg"
-        width: 640
-        height: 389
-        isCached: true
 
 secured: "dQ7BN9GNI13vPylu6y6LbF7V7AsfA1n2GtGYqvSZIVsGTv+8xmH+oySDJybGAkruUEdxUsZC41J+tQhHaWYmxvdrY1UlG67q7MGTYYVUrleaQt6jH+YawpIjYRmwQT3sVQ1iaXCmZVDel8aG5dIyaECGWl7vr0IeLGK676DfJQ7/29iAOwUzWgvNwAdG9NTaDbfWWW+VdDQ5JMeb85CZreFrzLVQAqmFQCgjLoNpkzRkFK5YVh/xfFPlQ+tiD1Fpy8eBtW0MCzfFf9ieedbEZs7k49H77itCSSgbNTihJrn1v+ODHCrPowUq/zxP3dvbh80QIxaKa5G4Si3PEXcUF0+FVvgzu3lRHq0qrPlBHzHYFcyV32DnoVHtpjwT3ZhXIJz/gEd1/o/bmVcNGCv566fPESPvUpCsWR+NhrXOn7vCALfniLDbT8/JFmj59CX+3vXC2LLLLeiVpNa7rvWnIVuN5u+krxdzyDhvZF/m6cwd5elD8/lSecJrf8YJJhylPnQ1XFWoVft4oim7GXXuGg==;a4L/7L0i892dYIaVSgmYHA=="
 ---

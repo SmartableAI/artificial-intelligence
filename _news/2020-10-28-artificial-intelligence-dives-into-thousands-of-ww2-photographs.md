@@ -1,22 +1,19 @@
 ---
 category: news
 title: "Artificial intelligence dives into thousands of WW2 photographs"
-excerpt: "In a new international cross disciplinary study, researchers have used artificial intelligence to analyse large amounts of historical photos from WW2. Among other things, the study shows that artificial intelligence can recognise the identity of ..."
-publishedDateTime: 2020-10-28T14:54:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-10/au-aid102820.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-10/au-aid102820.php"
+excerpt: "In a new international cross disciplinary study, researchers from Aarhus University, Denmark and Tampere University, Finland have used artificial intelligence to analyse large amounts of historical photos from WW2."
+publishedDateTime: 2020-10-28T14:59:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-10/au-aid102820.php?fbclid=IwAR3MCWLzjCs9JHAEmDaF9DnqsTkKAtWogCIb8HDnnagM3yh-s6EM1Ddh4Y8"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-10/au-aid102820.php?fbclid=IwAR3MCWLzjCs9JHAEmDaF9DnqsTkKAtWogCIb8HDnnagM3yh-s6EM1Ddh4Y8"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: EurekAlert!
   domain: eurekalert.org
 
 topics:
-  - AI
   - Machine Learning
+  - AI
 
 images:
   - url: "https://www.eurekalert.org/multimedia/pub/web/247171_web.jpg"
@@ -24,6 +21,6 @@ images:
     height: 976
     isCached: true
 
-secured: "5+QCzcn6kT2v7/wIeQCoBGp1robrI3MFAhH0Bm+0xyoHe31rhEF5p3wEUFF+avvDio56jmtQBNuVnX+s2nJTGhDr90+Shc77T+IRhqyQtlJ9RFeXjDeA6Kt0LzgSlxG4Vk2ujqJd3GrobV5xC+N++6SLEVQM/of2ZZoG4o2HnnrqXM0A4tgXVSloZ4BBDIhQlvg9uCRRBGomnddJv2ZGhA2myuesIZTnrQiEL9utnSVm+Ygrd7A2GcUEJDVtKq3hEYNBqpx2iO1r8EIwMm+7xRWqPhZj0twR+gFJ7VuaA6WKKSAakMcmUYB/qLKFGkV1zVH22WvjXAccPAmg86fWGo31nhy0ZrmnT2hs4U4psMOnAXTbtb08W1GH35Sag8E7U2gLzttLb0fOC03UWHY9Ou6/rOgt7KEhA43cmXRtayDmj3zuppP6xLdqIyWquITs1c/Nke3B48Xsvm4pbYh1qWm9sgPtHRyn6YeZNqJetkdcMyE35Anf7/4Ch92B21L95DXyVeHogQGI5GRjXRIVPg==;ecgk2SwO5h4i8lnAmYuPrg=="
+secured: "fVSARxRSVo/XVcqUkR6/yQXaiyrhh4UlfAcejAlCTl7hNNOVRssUvRKIkW0F6zjGz9D0TkUlc6U4PhJVwewqh9sbOR0sfsHDYDpKxiKkcxwf0skjxhNH8mIAoxY+DENEcNHbtHI3bG966KJ4fmgD07dlCSldIh+C+recbZkc/wOwovc8mm+ZaKaK3YHavGQB/FPLE8jhXBrBTLBR60Kv+RDEC9NXaJs8na5fyVsWKN7dV4xlAolmHkN3Cbnrhbi+W/7o86BTC2mTp4FbR6KKVkKEc2jaJGyKh6ku5opazVQXW8eivvpzerhlls32SXmv2ItSRXs3DPrpCGICm4zf1wLW2EUUN7bfn5XuKFRu6qs=;quD9ixex4HtP8nlcAMdu2Q=="
 ---
 

@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://images.newscientist.com/wp-content/uploads/2020/10/19151049/19-oct_facebook-ai.jpg"

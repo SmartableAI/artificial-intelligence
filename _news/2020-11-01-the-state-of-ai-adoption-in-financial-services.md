@@ -57,7 +57,7 @@ related:
     provider:
       name: Computerworld
       domain: computerworld.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://images.idgesg.net/images/article/2020/04/meeting6-100837792-large.jpg"
         width: 1200

@@ -28,7 +28,7 @@ related:
   - title: "Health: Artificial intelligence being trained to predict risk of developing oral cancer"
     excerpt: "The diagnosis of oral cancer could be 'revolutionised' by using artificial intelligence to predict whether ... carries significant potential for saving lives and improving patient healthcare provision.' Mouth cancer, also known as oral cancer, is where ..."
     publishedDateTime: 2020-11-02T10:55:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8904931/Health-Artificial-intelligence-trained-predict-risk-developing-oral-cancer.html"
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8904931/amp/Health-Artificial-intelligence-trained-predict-risk-developing-oral-cancer.html"
     ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8904931/amp/Health-Artificial-intelligence-trained-predict-risk-developing-oral-cancer.html"
     cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8904931/amp/Health-Artificial-intelligence-trained-predict-risk-developing-oral-cancer.html"
     type: article
@@ -42,6 +42,6 @@ related:
         height: 382
         isCached: true
 
-secured: "Dq0HdIA2OXHV5X3hvYowH9cxnbEWydvU6OJbVwpdZjIPPZiPbNoGqDDFsOgyi1MED8xDiRJyNSDpF23YEycwNLXgxK3QV8KsH2p1+muPACOS83WAgQE+Zo+4zvmOFJZebAu/m8TScs6bF+b12MZrSBnbjeY497NkxY3kJxMstnS/fxnmzWMyUJNq4u0qmH8OYa22Q7cu45JVm7/GNaIFETXu982SjsGvsNXIUh+P+PviBmoXNMhQvNgUea1QyX7TwE+ovGAISwXhfJc3Cu02GVQmFtkVlmHsDfhNm8QedgdDdSsECw8VPvrihiF0RpW/LXCp+9wTSjGP8R41rNOnfKYjOmwU/6zm00o83EKdB8M=;Am27Fq6bM+45tV7CTyialA=="
+secured: "senti7TG+/xjwTUJWFraLOatlHVxu+tR1GA0tHDk6cp4g9GIFl9LClBQ1mxBfNwrUDrxnJKGcZRjQ8f9fIme3QJMXrg9IfKbWurR+zHVdgQqrWNkPBfgOsWsXTMcjAc6FWrL+OwukUg3oyQneW4zVNhcGSpznvyEutJi9g7HcKOugkbPeThbXsXNEPgx+SpVZtV1oDblP7fnIgLPjTc74OIg1Aigp+VMXHaFX8sP+Nu2uq3EG//hLhbuE2vr/ASUSzyeVLRXgK36gy3fAE0EUSUjpg72boONLX00E2Hb8Jlh2vgFYkzRnxeaodxHWTE5+It1VE5ymOKI5iNSUI3fRXByEP4KyQ5meX8AxYZqQs3O2HxQuVm/YPrKTWe+SmutY7Dnz+fcv+DmTpfe/dqpnLu7kov03zIswrcdtIlKhfSz/ZmxOG8KKALSYvyXSvaDdUiID/Ki/Dy6KLwd7qUOG30wdprVNa026BvSfsWU6wpxo1aAgsaHJkBAzOVj48etb6mQo+S4X6Sj3NaZa+pKQA==;Vazoc3ZZV/P7zK3d9CcqqQ=="
 ---
 

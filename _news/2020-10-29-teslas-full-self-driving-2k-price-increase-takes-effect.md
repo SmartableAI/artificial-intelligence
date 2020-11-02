@@ -158,7 +158,7 @@ related:
   - title: "Waymo releases Phoenix area self-driving car incident score card"
     excerpt: "Self-driving tech company Waymo, which this month opened its driverless taxi service in the Phoenix suburbs to the public, on Friday said its autonomous vehicles there had been involved in 18 minor incidents since 2019 during tests and actual rides."
     publishedDateTime: 2020-10-30T19:11:00Z
-    webUrl: "https://www.reuters.com/article/autonomous-waymo-safety-int/waymo-releases-phoenix-area-self-driving-car-incident-score-card-idUSKBN27F23R"
+    webUrl: "https://www.reuters.com/article/autonomous-waymo-safety-int-idUSKBN27F23R"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27F23R"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27F23R"
     type: article

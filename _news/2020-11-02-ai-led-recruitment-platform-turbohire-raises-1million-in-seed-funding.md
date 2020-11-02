@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindubusinessline.com/info-tech/ai-led-recruitment-pl
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ai-led-recruitment-platform-turbohire-raises-1million-in-seed-funding/article33002585.ece/amp/"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Business Line
@@ -26,21 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence firm Capacity raises $11 million, says revenue tripled this year"
-    excerpt: "Capacity, a University City startup that bills itself as a help desk powered by artificial intelligence, has raised $11 million in venture capital. Capacity didn't identify a lead investor when it announced the Series C funding round Wednesday,"
-    publishedDateTime: 2020-10-28T19:32:00Z
-    webUrl: "https://www.stltoday.com/business/columns/david-nicklaus/article_0f2b1ac2-f7be-54ec-aeb7-34a38d5a928a.html"
-    ampWebUrl: "https://www.stltoday.com/business/columns/david-nicklaus/artificial-intelligence-firm-capacity-raises-11-million-says-revenue-tripled-this-year/article_0f2b1ac2-f7be-54ec-aeb7-34a38d5a928a.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/business/columns/david-nicklaus/artificial-intelligence-firm-capacity-raises-11-million-says-revenue-tripled-this-year/article_0f2b1ac2-f7be-54ec-aeb7-34a38d5a928a.amp.html"
+  - title: "US Based AI Marketing Cloud Startup Pyxis Raises $7 Million in Series A Funding"
+    excerpt: "Pyxis is a unique AI-led marketing cloud start-up headquartered in the US with an office in Bengaluru, India. The start-up has several innovative tools that provide a robust platform for creative automation and actionable marketing research analytics."
+    publishedDateTime: 2020-10-30T06:26:00Z
+    webUrl: "https://www.nyoooz.com/news/bengaluru/1519693/us-based-ai-marketing-cloud-startup-pyxis-raises-7-million-in-series-a-funding/"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 63
+      name: nyoooz.com
+      domain: nyoooz.com
+    quality: 50
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/b/99/b99e8a5f-2800-5d1c-a427-9029fbb1b1f2/5f99a5370a81d.image.jpg?crop=1265%2C712%2C18%2C188&resize=1024%2C576&order=crop%2Cresize"
-        width: 1024
-        height: 576
+      - url: "https://www.nyoooz.com/df-images/bengaluru/df-bengaluru-4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Startup Skan Secures $14 Million Through Series A Funding Round Led By Cathay Innovation"
+    excerpt: "Skan, the AI-enabled process discovery and operational intelligence, recently announced it secured $14 million through its Series A funding round, which was led by Cathay Innovation with participation from Citi Ventures, Zetta Ventures, Bloomberg Beta ..."
+    publishedDateTime: 2020-10-31T02:27:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/10/168613-ai-startup-skan-secures-14-million-through-series-a-funding-round-led-by-cathay-innovation/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/10/168613-ai-startup-skan-secures-14-million-through-series-a-funding-round-led-by-cathay-innovation/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/168613-ai-startup-skan-secures-14-million-through-series-a-funding-round-led-by-cathay-innovation/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 47
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/01/Money-Dollars-Benjamin-5-600x450.jpeg"
+        width: 600
+        height: 450
         isCached: true
 
 secured: "knJXXHdujIMvUJOo4xCvAPE4ZGNr5w9usg5dYcp85XoVxInU7jNCjDjyAmIR8QzyOsdYq7we4oE7TsPl0ZHBMiu38R1fvWGLvW30kG6BUryZQwrvc1tkxIAbNKRx2cb2Q/StDU55jfhQJL1IwAC2GNQd6YuLfHBjBBeHanF/9CIt+lTtyTGtsYCh4G8XjEGvh9jOi67WRtaMUkl+eSu6lprI8MsOaaunVGLrj61tqeqEgOOwdBAPv8rAkiOjh/xnwzTF2+lHpilSF04CXgldvFF4ichTNZlwGOKwLaE3Tc0oxTiFxupzKs/PIvMKOzE2UY6dINjBS0wIPHQ7xhSCk/o0ZKCWYAvapTihcnERDeE=;6eX34Rg2U+cUaLVmpqSctA=="

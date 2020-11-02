@@ -9,7 +9,7 @@ ampWebUrl: "https://futurism.com/robot-camera-mistakes-soccer-refs-bald-head-bal
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/robot-camera-mistakes-soccer-refs-bald-head-ball/amp"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "AI mistakes referee’s bald head for football — hilarity ensued"
+    excerpt: "Top football leagues and teams around the world have TV crews and streaming services at their disposal to broadcast matches to fans across the globe. However, because of the coronavirus pandemic, smaller football teams are relying on AI-powered cameras to cast live matches through YouTube."
+    publishedDateTime: 2020-11-02T07:17:00Z
+    webUrl: "https://thenextweb.com/neural/2020/11/02/ai-mistakes-referees-bald-head-for-football-hilarity-ensued/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/11/02/ai-mistakes-referees-bald-head-for-football-hilarity-ensued/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/02/ai-mistakes-referees-bald-head-for-football-hilarity-ensued/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/AI-camera-referee-e1604295644927-796x419.jpg"
+        width: 796
+        height: 419
+        isCached: true
+  - title: "AI Camera Confuses Bald Linesman’s Head With the Football"
+    excerpt: "Hilarity ensued at a recent football match as an AI camera kept mistaking a bald linesman's head for the football!"
+    publishedDateTime: 2020-11-02T11:47:00Z
+    webUrl: "https://www.eteknix.com/ai-camera-confuses-bald-linesman-with-football/amp/"
+    ampWebUrl: "https://www.eteknix.com/ai-camera-confuses-bald-linesman-with-football/amp/"
+    cdnAmpWebUrl: "https://www-eteknix-com.cdn.ampproject.org/c/s/www.eteknix.com/ai-camera-confuses-bald-linesman-with-football/amp/"
+    type: article
+    provider:
+      name: eTeknix
+      domain: eteknix.com
+    quality: 57
+    images:
+      - url: "https://eteknix-eteknixltd.netdna-ssl.com/wp-content/uploads/2020/11/2-6.jpg"
+        width: 880
+        height: 489
+        isCached: true
   - title: "AI Camera Ruins Soccar Game For Fans After Mistaking Referee's Bald Head For Ball"
     excerpt: "Technology and sports have a fairly mixed relationship already. Log on to Twitter during a soccer match (or football as it's properly known*) and as well a"
     publishedDateTime: 2020-10-29T14:27:00Z

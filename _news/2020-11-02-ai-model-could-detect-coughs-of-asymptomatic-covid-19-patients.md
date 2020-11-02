@@ -40,6 +40,22 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "AI can detect asymptomatic COVID-19 infections by listening to a cough"
+    excerpt: "MIT has invented a tool that uses artificial intelligence to identify those with asymptomatic COVID-19 infections. Asymptomatic people are the most difficult to detect and can spread the infection"
+    publishedDateTime: 2020-11-02T10:57:00Z
+    webUrl: "https://www.slashgear.com/ai-can-detect-asymptomatic-covid-19-infections-by-listening-to-a-cough-02645368/"
+    ampWebUrl: "https://www.slashgear.com/ai-can-detect-asymptomatic-covid-19-infections-by-listening-to-a-cough-02645368/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ai-can-detect-asymptomatic-covid-19-infections-by-listening-to-a-cough-02645368/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 87
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/11/cough.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Deep learning models help hunt for COVID-19 drugs"
     excerpt: "Michigan State University Foundation Professor Guowei Wei wasn't preparing machine learning techniques for a global health crisis. Still, when one broke out, he and his team were ready to help."
     publishedDateTime: 2020-10-28T23:45:00Z
@@ -87,6 +103,20 @@ related:
       - url: "https://s3.india.com/wp-content/uploads/2020/10/pjimage-2020-10-11T094732.061.jpg"
         width: 700
         height: 415
+        isCached: true
+  - title: "researchers at MIT create AI model that detects asymptomatic COVID-19 infections"
+    excerpt: "MIT have created an artificial intelligence model that detects asymptomatic COVID-19 infections through cellphone-recorded coughs. the study has found out that asymptomatic patients may differ from healthy individuals in the way they cough and that these differences are not decipherable to the human ear but it turns out they can be picked up by AI."
+    publishedDateTime: 2020-11-02T12:26:00Z
+    webUrl: "https://www.designboom.com/technology/mit-ai-model-detects-asymptomatic-covid-19-11-02-2020/"
+    type: article
+    provider:
+      name: Designboom
+      domain: designboom.com
+    quality: 32
+    images:
+      - url: "https://www.designboom.com/wp-content/uploads/2020/11/MIT-AI-identifies-covid-19-cough-recordings-designboom-fb.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "gj3H308L17Lt+a+ts8CnT/6HkDnuE4Pv+xO0iKhZYlVtE03wDRS0aQyvTM7TdNp6S/i3REA3X1NIf7R7ozxfZdfvxSJMgYiDgQgOwKidgZzXy6rAZ82akMGhg3uX1GaJtQc1g6p3yArRzQJ3AbWo2UVAzSLkH3vEoDt3pjCO4D+b4Sv4/iViZWMm0UDuKCjchGcjI4nVZji1KFbnEQpKL1bHemc+V5vqzUrghBTc71yR1fpaa/V1nrX4Pt6MK+dmvKP+qWkBumHIg56FR08cN4f3e+3u6M/uxUPYIsrigWVGBRQP9EX33Wrz/4TUALbuU1S5gUEDMR7NEqqPbF0DSRCkBWegwqVWmUXRo3coh9M=;erW/hURPFhTFjFRnAdLq5g=="

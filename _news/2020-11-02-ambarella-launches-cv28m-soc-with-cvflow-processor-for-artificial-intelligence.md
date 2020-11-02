@@ -1,0 +1,41 @@
+---
+category: news
+title: "Ambarella launches CV28M SoC with CVflow processor for artificial intelligence"
+excerpt: "Ambarella (NASDAQ:AMBA) unveils the CV28M CVflow® processor for artificial intelligence (AI ... retail monitoring, consumer robotics, and occupancy monitoring. CV28M provides the AI performance ..."
+publishedDateTime: 2020-11-02T11:15:00Z
+originalUrl: "https://seekingalpha.com/news/3629469-ambarella-launches-cv28m-soc-cvflow-processor-for-artificial-intelligence"
+webUrl: "https://seekingalpha.com/news/3629469-ambarella-launches-cv28m-soc-cvflow-processor-for-artificial-intelligence"
+type: article
+quality: 15
+heat: -1
+published: false
+
+provider:
+  name: Seeking Alpha
+  domain: seekingalpha.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+related:
+  - title: "Ambarella launches computer vision chips for edge AI"
+    excerpt: "Chip designer Ambarella has announced a new computer vision chip for artificial intelligence at the edge of a computer network."
+    publishedDateTime: 2020-11-02T10:00:00Z
+    webUrl: "https://venturebeat.com/2020/11/02/ambarella-launches-computer-vision-chips-for-edge-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/11/02/ambarella-launches-computer-vision-chips-for-edge-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/02/ambarella-launches-computer-vision-chips-for-edge-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 121
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/ambarella-2.jpg?w=1200&strip=all"
+        width: 1200
+        height: 621
+        isCached: true
+
+secured: "hExMGQKq6dNQhTwiBZTWNlsk3LmLwqbHwUgdr3f+B2/rsJbpM+pPxztSjukfqoAnzEVI/ucuRU7VuVFck2Hb4lldBTNBbtZBg2r60GkSgSR1VvYUEa8/auypcOZRZX/0LZJzzqtXARGrvxREYFpx9P1yU5neubzjUSMCwFjU5xMLbAFh9gMuc//9bOK+b+eqo3NwcCNwutM9jANG+HlvIik5kD/oAgnESZ3NDgKSUzSczg/cq0huUt30pR16OXya53w4U7XPkXu00JKTh90CF2udTpivAnNNCplc6V4mOSWY8CX5XxvrWKxWGZtLGtZA7Z2PP/GQVkWmgHstehAMbnizDD7v/lcT+gJNlTrE124=;o/B6s1422N7PuB+oDD+BVg=="
+---
+
