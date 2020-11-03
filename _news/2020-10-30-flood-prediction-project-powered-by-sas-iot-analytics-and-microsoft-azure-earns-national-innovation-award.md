@@ -49,6 +49,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Google partners with Knowlarity to expand its speech analytics platform in India"
+    excerpt: "Google has partnered with Singapore-headquartered cloud telephony firm Knowlarity to expand its speech recognition and analytics services in India."
+    publishedDateTime: 2020-11-03T06:33:00Z
+    webUrl: "https://www.ciol.com/google-partners-knowlarity-expand-speech-analytics-platform-india/"
+    ampWebUrl: "https://www.ciol.com/google-partners-knowlarity-expand-speech-analytics-platform-india/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/google-partners-knowlarity-expand-speech-analytics-platform-india/amp/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 39
+    images:
+      - url: "https://www.ciol.com/wp-content/uploads/2020/10/Google-Cloud.jpg"
+        width: 850
+        height: 400
+        isCached: true
 
 secured: "V2FlIeVh0DBYoXFJDrInLRobpuVc3oRqU4heCmfzxRM+2a9phWsoTPxUDZIu/8V2dLLHPF9+gRiXLJCcaY3ojh/XDlKGp7TTXL6QdZ0nqZfqeHyfggXWg4A/ekWh6BSHZy9WQu4cRoNsfI5d4fwuU0eVpgz006S1iyY2hmykshM/DmPufgw4ygwrLyDdIhYHTU8kAMgEb0AcpfJZ1nwLP9y/UFUIzCe326NyzteemtJcmm4CE/jHJjSb4qw6YwBuQPUof1UsfNT/qtrAFAPrCiyAJ5MKW5ZZN4d8IkbdgG5gTWp4gtKyASskj024mQajtucfOBXACpX/NmIJ50AlUmWgdyh8bx0o8jShQGoNbmpYaUjvGGz9sWbvIQ3Btb4zkPuyo6f/GMPtvtQ8+sjY8y9y0DXE5pyskHE9ctN/zEvGxnuxBSjUORhcVTDyksKtplumvsjdLtW3/nZPZmswFVyA7OU+iwLMQJCOC16RuWvhsY9cSpxuA8JZL68L/00lGBFlJv2PSANGZR29hNW/eA==;Ljrdn+/MVbaao+6GXZns4g=="
 ---

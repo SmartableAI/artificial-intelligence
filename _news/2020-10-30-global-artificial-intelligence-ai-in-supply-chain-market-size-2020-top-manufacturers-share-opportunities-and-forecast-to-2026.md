@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2177064/global-artificial-intelligence-ai
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2177064/global-artificial-intelligence-ai-in-supply-chain-market-size"
 type: article
 quality: 25
-heat: 25
+heat: -1
 published: false
 
 provider:
@@ -21,17 +21,34 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Global Cognitive Informatics Markets, 2020-2025 - Cognitive Informatics will become an Integral Component of Human-Machine Systems and Solutions"
-    excerpt: "The \"Cognitive Informatics Market by Technology, Solution, Sector, Industry Vertical, and Region 2020 - 2025\" report has been added to ResearchAndMarkets.com's offering. This report assesses the cognitive informatics market including technologies,"
-    publishedDateTime: 2020-11-02T17:22:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-cognitive-informatics-markets-2020-2025-cognitive-informatics-will-become-an-integral-component-of-human-machine-systems-and-solutions-1029753075"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/global-cognitive-informatics-markets-2020-2025-cognitive-informatics-will-become-an-integral-component-of-human-machine-systems-and-solutions-1029753075"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-cognitive-informatics-markets-2020-2025-cognitive-informatics-will-become-an-integral-component-of-human-machine-systems-and-solutions-1029753075"
+  - title: "Deep Learning Market Analysis Reports Revenue Growth Globally During The Forecast Period 2020-2023"
+    excerpt: "Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End User (Security, Manufacturing, BFSI, Healthcare,"
+    publishedDateTime: 2020-10-30T08:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2020-2023-2020-10-30"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 17
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market will exhibit a CAGR worth 12% during 2020-2024 | Technavio"
+    excerpt: "Technavio has been monitoring the facial recognition market, operating under the information technology industry. The latest report on the facial recognition market, 2020-2024 estimates it to register an incremental growth of USD 3.35 bn, at a CAGR of ..."
+    publishedDateTime: 2020-10-30T08:11:00Z
+    webUrl: "https://www.oaoa.com/news/business/facial-recognition-market-will-exhibit-a-cagr-worth-12-during-2020-2024-technavio/article_6c58d87d-7061-50fb-a01c-6c306c2eab19.html"
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 32
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/1/be/1bec6827-3d6e-5642-8a5d-0fc634918000/5f9b93ad6b510.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Global Speech and Voice Recognition Technologies Market Size, Share, Demand And Remarkable Growth Rate Till 2026 | Zion Market Research"
     excerpt: "The Zion Market Research added a new report “Speech and Voice Recognition Technologies Market by Technology (Speaker Identification, Speaker Verification, Speech Recognition, Automatic Speech Recognition, Text to Speech, and Others), by Application ..."
     publishedDateTime: 2020-10-30T10:00:00Z

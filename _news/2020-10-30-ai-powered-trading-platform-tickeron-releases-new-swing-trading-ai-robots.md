@@ -9,8 +9,8 @@ ampWebUrl: "https://www.finyear.com/AI-Powered-Trading-Platform-Tickeron-Release
 cdnAmpWebUrl: "https://www-finyear-com.cdn.ampproject.org/c/s/www.finyear.com/AI-Powered-Trading-Platform-Tickeron-Releases-New-Swing-Trading-AI-Robots_a43087.amp.html"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: FinYear
@@ -32,20 +32,6 @@ related:
       name: Geektime
       domain: geektime.com
     quality: 39
-  - title: "Record Number of Health Systems Choose Viz.ai's AI-Powered Synchronized Stroke Care Solution to Improve Patient Outcomes"
-    excerpt: "Today, on World Stroke Day, many prominent health systems such as Banner Health, Ohio State University Medical Center, Atrium"
-    publishedDateTime: 2020-10-29T12:06:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/record-number-of-health-systems-choose-viz-ais-ai-powered-synchronized-stroke-care-solution-to/article_0d4585ee-bfe2-571c-978a-67c68e30d7e8.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 14
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/6/66/666fbd84-9824-5347-becf-d8f08dd0924c/5f9abd7ebcb6a.image.jpg?resize=400%2C208"
-        width: 400
-        height: 208
-        isCached: true
 
 secured: "NzKUAmO7ZVW3I49htOCSFYIzFFDPCeE9wvPcXINGkn259cG/d8sv3WHcvcOVbcRomhfOvMB4G2D9UuT9vxFRukDqCxpmpoNbi1LloJN5B5pUH//1mHSoJS3qzsy5q9KyUI6qLtFTHArvvjltsXUp4B8kcKX7rgBCxlIxSRD48eDO2KudPFUm2lmI6Q4wJCjnrKXrPP1cVQGvkDgnqzFkC9khH6RsBDDgpc5X3BNu73bo98NG/cX6Y/vBp0+USbihVC5eYI0j90rOKh5XDRfys1g5CY8cV4I4wzDe26NkiobAn63qc16nAanJcmfC0bsWr37IwyB+qjqYfuTcbBIFg8tlAh/1K4+RcumgmEzFyZ4=;RcGHVclB1Q/H6YpXVhP6qA=="
 ---

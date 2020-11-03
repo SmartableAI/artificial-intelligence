@@ -9,7 +9,7 @@ ampWebUrl: "https://abc7chicago.com/amp/gun-safety-artificial-intelligence-omnil
 cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/gun-safety-artificial-intelligence-omnilert-security-cameras/7431778/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -24,19 +24,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "New artificial intelligence feature to detect guns through surveillance video"
-    excerpt: "The company Omnilert is rolling out new technology that allows security cameras to identify a gun, and alert guards in the area of the potential threat. The hope is to use this tool in schools, airports,"
-    publishedDateTime: 2020-10-29T13:39:00Z
-    webUrl: "https://abc13.com/gun-safety-artificial-intelligence-omnilert-security-cameras/7431778/"
-    ampWebUrl: "https://abc13.com/amp/gun-safety-artificial-intelligence-omnilert-security-cameras/7431778/"
-    cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/gun-safety-artificial-intelligence-omnilert-security-cameras/7431778/"
-    type: article
-    provider:
-      name: abc13.com
-      domain: abc13.com
-    quality: 34
 
 secured: "hRkiTb7xiiM5AdPdx3VMgkd5thkcLb+cRIcsCGs29i/zdLQtRFxRm+I7dO+iegHRqlvtLI9SiWy5X5defLJwIAkNzuF+GsG/RjXFtQzHyoEL8Byhu//O6tjfJIUGITVN/fycoQgNqe98fRTbOpePxcshiklkV8aWkzxBH/NpFu3nOqABGsZUU5ds6EnvQbQuYEpUgTMVOqgHBwkHJoGQwxILlVXa+freVvL3RneAtnbOJmZZQoxrwutiphvoON3dUIeGUmp4yvK+zvGyaxW7ANjJGczJ65du8YwNFcjOX15gopKpkSr68pI6/RQcqD/LhfKbyEd2pyrTBDo90SDGrmLjBDiv5He06XC/QhOT+aBNN2DWZkJlCxdxyIPfXN7/w6J+lEurs7j/Dir+FWGb1gS3FtX7SjF2lox+sBBfRBGypyVMv+s7/oeVmYlbje2zKw6WxZ0yCN7bx27kUIcxR5AjuTcypyTQvxVQVgJLVhngR28WkDXgoagwiR6RwjgjVS5YxpAiIPU3ltEGso6KLw==;c+ZXTczCIIekIrs70fwyLA=="
 ---

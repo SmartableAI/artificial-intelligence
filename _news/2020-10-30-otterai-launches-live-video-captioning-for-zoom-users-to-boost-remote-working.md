@@ -7,7 +7,7 @@ originalUrl: "https://www.morningstar.com/news/business-wire/20201029006139/otte
 webUrl: "https://www.morningstar.com/news/business-wire/20201029006139/otterai-launches-live-video-captioning-for-zoom-users-to-boost-remote-working"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -22,19 +22,6 @@ images:
     width: 480
     height: 240
     isCached: true
-
-related:
-  - title: "Otter.ai announces Zoom live video captioning to enhance virtual collaboration"
-    excerpt: "The company notes that this feature could reduce the risk of workplace miscommunication and increase telecommuter productivity and inclusiveness in the remote work era."
-    publishedDateTime: 2020-10-29T13:00:00Z
-    webUrl: "https://www.techrepublic.com/article/otter-ai-announces-zoom-live-video-captioning-to-enhance-virtual-collaboration/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/otter-ai-announces-zoom-live-video-captioning-to-enhance-virtual-collaboration/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/otter-ai-announces-zoom-live-video-captioning-to-enhance-virtual-collaboration/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 63
 
 secured: "l1g83IFyvuJ1LNl0n65OzyYEdnmYtTWyDEKTVpapkfFHl75/37WXit8EAQJOu2zYcGZ4grs0Lgb9cFV+ToUcJaD99vkdjtbmbDUJ5JHdJTr0OQGsJtLs8slygdrxmX1vWkEeQgk4Yn4SIEjEY7UnDu6tsd8RS2agXmhrjrHO15PFS7oGKAqYpZAolUarZ18bX5klr/nlNT2ol05Rdh/uj9UTqTDPhADepA6zPobtG6ib0TCMYZKlCcTo22QBAt8+zWxaUHwm24YjqEZWBmwmcFT6VYcAc4wtlG3+QCDBHLXT/2FUdJLg4a4PEBNgj5qjt6TBcN6q/Lol+h2AtXh3e5UzsVzXj4ONvyv/7dKhmjI=;PuQe6OGJZdcSoy/SwFr0dQ=="
 ---

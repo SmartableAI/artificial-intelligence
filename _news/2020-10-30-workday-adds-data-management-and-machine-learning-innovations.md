@@ -7,7 +7,7 @@ originalUrl: "https://www.cpapracticeadvisor.com/accounting-audit/news/21160701/
 webUrl: "https://www.cpapracticeadvisor.com/accounting-audit/news/21160701/workday-adds-data-management-and-machine-learning-innovations"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,40 +23,6 @@ images:
     width: 1000
     height: 1000
     isCached: true
-
-related:
-  - title: "Workday Delivers Data Management and Machine Learning Innovations for the Changing World of Finance"
-    excerpt: "Workday Inc., a leader in enterprise cloud applications for finance and human resources, today announced availability of Workday Accounting Center and machine learning- driven predictive forecasts for Workday Adaptive Planning,"
-    publishedDateTime: 2020-10-29T14:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 52
-  - title: "Workday extends platform for financial organisations"
-    excerpt: "Workday Accounting Centre is now generaly available and Workday has also powered up Workday Adaptive planning with ML based forecasting."
-    publishedDateTime: 2020-11-02T15:43:00Z
-    webUrl: "https://www.enterprisetimes.co.uk/2020/11/02/workday-extends-platform-for-financial-organisations/"
-    type: article
-    provider:
-      name: enterprisetimes.co.uk
-      domain: enterprisetimes.co.uk
-    quality: 24
-    images:
-      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2020/11/binary-data-world.jpg"
-        width: 728
-        height: 410
-        isCached: true
-  - title: "Workday, Inc.: Workday Delivers Data Management and Machine Learning Innovations for the Changing World of Finance"
-    excerpt: "Advances in Managing Data Create New Levels of Insight and Performance Accountability for Today's Agile OrganizationsPLEASANTON, Calif., Oct. 29, 2020 (GLOBE NEWSWIRE) -- Workday Inc ("
-    publishedDateTime: 2020-10-29T12:05:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-10/51093865-workday-inc-workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-world-of-finance-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 14
 
 secured: "gKpMVc8gVdpLYQUagEA9CJWHFI2kq9RzSFVpjpLFIaheie1iCFUD6VNgzn6iAE4kzFhUo69exr3ANk+Yn2jc6QpCEAHdgmHzYWefMSJczXAP9vmzgttgao0P6pgIdsunQWoD7Kh6jD47PKN915Q9i03ry6dXHgJHVXRahSzieH9PC42XhLYsG0Yk8OCzMuy7aP04rv+/GasQXFzPyfmf+FTHGLnvcoDjlUqUrURfIrYIvfdKGl/cSqumyhIxLiqWF8YHIpdZM5ARzHy5CxXi5v2xpX99XHuRBiIb0uMvJGIwvDhtE3EZAVO2b/VtLUzkKTGh2oI6BEvpD31k4swFPABIX6QLGtlinjfGpvO/4xD480bFNrBR4JoPGsupXkYFtnoc2FZV53rfyPhM93SedpdsKbpCHbHSiwiLDhyv9c6My+NSB6Wzpglh0y88Nyro7ZN0HQXnInjF9Bp3nOeMWL3WhBRqXp31tKSor3rEcBavKhRCrMtGvgLdeW2o8e1b20eyYQIRHQOD+yAFS6GLdA==;TScS9BNSKmBUgC8Xxfy8SA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202011/facial-recognition-market-t
 webUrl: "https://www.biometricupdate.com/202011/facial-recognition-market-to-grow-at-12-percent-cagr-to-2024-technavio-forecasts"
 type: article
 quality: 34
-heat: 34
+heat: 64
 published: false
 
 provider:

@@ -84,20 +84,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 41
-  - title: "Facebook’s threat to the NYU Ad Observatory is an attack on ethical research"
-    excerpt: "Facebook may defend its actions on the grounds of user privacy, but its real concern is losing control of how the company is scrutinized."
-    publishedDateTime: 2020-10-29T13:03:00Z
-    webUrl: "https://www.niemanlab.org/2020/10/facebooks-threat-to-the-nyu-ad-observatory-is-an-attack-on-ethical-research/"
-    type: article
-    provider:
-      name: Nieman Journalism Lab
-      domain: niemanlab.org
-    quality: 38
-    images:
-      - url: "https://www.niemanlab.org/images/facebook-thumbs-down-700x474.jpg"
-        width: 700
-        height: 474
-        isCached: true
   - title: "Five Days of Facebook Fact-Checking"
     excerpt: "Mark Zuckerberg, Facebook’s CEO, has been back in Congress this week to talk about the need to reform how social-media platforms moderate content—a realm within which Facebook is trying to establish a “best in class” reputation."
     publishedDateTime: 2020-10-30T19:29:00Z

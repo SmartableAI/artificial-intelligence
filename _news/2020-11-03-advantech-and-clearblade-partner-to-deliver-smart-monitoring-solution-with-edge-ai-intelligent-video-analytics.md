@@ -7,7 +7,7 @@ originalUrl: "https://www.automationworld.com/supplier-news/news/21201090/advant
 webUrl: "https://www.automationworld.com/supplier-news/news/21201090/advantech-advantech-and-clearblade-partner-to-deliver-smart-monitoring-solution-with-edge-ai-intelligent-video-analytics"
 type: article
 quality: 19
-heat: 19
+heat: 29
 published: false
 
 provider:
@@ -37,6 +37,6 @@ related:
       domain: benzinga.com
     quality: 12
 
-secured: "k7H19yTy5Rpo0lVGgDifDA2P12uwQLDnE2+qHlZK0eXx0cLoF27hHrVuBm8aVYPEj55qDk5yRtLqKK25BmoOfKEb/ffMs3vXMBm0HkQUMduLAz5dLMtsPP9q7v59qVFR7WGjDfj2JnBmIfo9+O90r3gED0g04IUDhvTQmor4JyWmlh28VpEOrEphPaON+oooUrznYsydGDdOay5DOTFzYZGf/0x9UJLUuryObNwpuwJMSzkqNjg6ZEEaAb9XfDIVmq4tPSyC0oHNetdAIe94NPpm3ZdsFSeK/8lOo5Dw2XLM6/jTc2kwTmFo/je8cnUyyj843f5qLZxttasTd2z4nH7sNgZSXIXdjJ9+Gq+UDOU=;YO06qFzzK4YPi5uqq0WokA=="
+secured: "ybVB8K/WncOvyhVXiJgJELD1wlve6zrtirefFejLy5E9Uv1Mnl1vtZAFgh5cmX1JNCFjUesUZZ28s7WQIVT8VqKxKYgG3R7XK7iZIIENvOIoVOZd5zwtyANV6+XaE7G0Ld0DGJPK+aCdsIs4Ju5z5teDvSGe6oK1boQELE6wCTnXLhucYlpa5pkRemZgitfURsErMmHFy+xrDTio3ojf1burJQ24H4rmRFCqy4Ya1GkbdJmMsnhJkJuEsXWn3X9b7OLcKI8NeVmhFLZ4qCOXA2p9y40EkP5H0uTvz1YLtScf+hSEsHmKilaMXmh1w+W/XXxs8x1WAASSErcTYLJxLXMETyE4FKnUeE4QoTgNvwvbKx1bChLBFPF++AlGtMzms9W9c6ZWKiHE5B4iWxo+8i6FW5rlew+l3cPNh60lH9kpEfiAx/8Bnrc+Ca71twItHgK1BotSsVHbcz7LgNDM/SbBIgZ+yaOMelnf8dW/dAltFOmg6LvnOR6T59R7cIxphCpoId33k0Se2yLc4xZBzA==;L77KfnCHGX5ReFIASHFAKg=="
 ---
 

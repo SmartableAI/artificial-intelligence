@@ -44,6 +44,22 @@ related:
         width: 900
         height: 491
         isCached: true
+  - title: "Google partners with Knowlarity to expand its speech analytics platform in India"
+    excerpt: "Google has partnered with Singapore-headquartered cloud telephony firm Knowlarity to expand its speech recognition and analytics services in India."
+    publishedDateTime: 2020-11-03T06:33:00Z
+    webUrl: "https://www.ciol.com/google-partners-knowlarity-expand-speech-analytics-platform-india/"
+    ampWebUrl: "https://www.ciol.com/google-partners-knowlarity-expand-speech-analytics-platform-india/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/google-partners-knowlarity-expand-speech-analytics-platform-india/amp/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 39
+    images:
+      - url: "https://www.ciol.com/wp-content/uploads/2020/10/Google-Cloud.jpg"
+        width: 850
+        height: 400
+        isCached: true
   - title: "Flood Prediction Project Powered by SAS IoT Analytics and Microsoft Azure Earns National Innovation Award"
     excerpt: "by combining Microsoft Azure IoT platform with SAS’ edge-to-cloud IoT analytics and AI capabilities. Transforming flood response for an entire region During excessive rainfall events, Town of Cary personnel often found themselves running around to ..."
     publishedDateTime: 2020-10-30T06:52:00Z

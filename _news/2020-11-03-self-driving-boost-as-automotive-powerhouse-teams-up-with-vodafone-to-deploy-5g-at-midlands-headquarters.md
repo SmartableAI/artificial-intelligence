@@ -7,7 +7,7 @@ originalUrl: "https://www.totaltele.com/507744/Self-Driving-Boost-as-Automotive-
 webUrl: "https://www.totaltele.com/507744/Self-Driving-Boost-as-Automotive-Powerhouse-teams-up-with-Vodafone-to-deploy-5G-at-Midlands-headquarters"
 type: article
 quality: 7
-heat: 7
+heat: 17
 published: false
 
 provider:
