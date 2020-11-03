@@ -21,19 +21,35 @@ topics:
   - AI
 
 related:
-  - title: "AWS Announces General Availability of Nitro Enclaves"
-    excerpt: "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR ..."
-    publishedDateTime: 2020-10-29T15:51:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/aws-announces-general-availability-of-nitro-enclaves/"
+  - title: "Wipro and AWS announce the launch of Wipro AWS Business Group"
+    excerpt: "Wipro has announced the launch of Wipro AWS Business Group (WABG), a unit designed to help customers fast-track their cloud transformation journey on AWS."
+    publishedDateTime: 2020-11-03T07:15:00Z
+    webUrl: "https://www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/"
+    ampWebUrl: "https://www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/amp/"
+    cdnAmpWebUrl: "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/amp/"
     type: article
     provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 54
+      name: Voicendata.com
+      domain: voicendata.com
+    quality: 59
     images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/Honeywell-optical-signal-conditioning-405x228.png"
-        width: 405
-        height: 228
+      - url: "https://www.voicendata.com/wp-content/uploads/2020/10/handshak-image.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Wipro AWS Business Group: Fast-tracking customers’ cloud transformation journey on AWS"
+    excerpt: "Wipro launched the Wipro AWS Business Group (WABG), a unit designed to help customers fast-track their cloud transformation journey on AWS."
+    publishedDateTime: 2020-11-03T01:32:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/11/03/wipro-aws-business-group/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 31
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "7trlnnDKeOPvMtkZGrQIGTDjaNHBmz3SeLUPPARRlfXJgUhPlyWVcNyGHNRuDCtgU5psc1OoNjloLMpsq+nkmaCW9AyuPuFksU1T9A0sjZz/Q0RgzBIjSHYkctwYDRIxTwRhlylZPvy5hZcGZgpqe5KaD7IqNFm+XQxwqIFU5xAljppr60RDhmnrkb38HFLwvQHKsZUtrxjdEE/PDVKeBI0j3iufxwRN+YrCifGPNaSYr9fXz2szMUNc2qBQAIcsmMTTieqmMwGoB1LSNjJPKUPfUVgqAdYhqIGBvVECYqUc2Fs7Lv9gEOez3gGvsIxYpvZhSD062+z359dCUBlaPzs3pQAU6Ta6IOXfk1sA2Wc=;wCvPx3yYzZ2zp4bUcNSMPQ=="

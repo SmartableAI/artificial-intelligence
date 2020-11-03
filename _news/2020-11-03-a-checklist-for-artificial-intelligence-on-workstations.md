@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/white-paper/a-checklist-for-artificial-intel
 webUrl: "https://insidehpc.com/white-paper/a-checklist-for-artificial-intelligence-on-workstations/"
 type: article
 quality: 39
-heat: 49
+heat: 39
 published: false
 
 provider:

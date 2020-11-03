@@ -70,20 +70,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 41
-  - title: "Facebook’s threat to the NYU Ad Observatory is an attack on ethical research"
-    excerpt: "Facebook may defend its actions on the grounds of user privacy, but its real concern is losing control of how the company is scrutinized."
-    publishedDateTime: 2020-10-29T13:03:00Z
-    webUrl: "https://www.niemanlab.org/2020/10/facebooks-threat-to-the-nyu-ad-observatory-is-an-attack-on-ethical-research/"
-    type: article
-    provider:
-      name: Nieman Journalism Lab
-      domain: niemanlab.org
-    quality: 38
-    images:
-      - url: "https://www.niemanlab.org/images/facebook-thumbs-down-700x474.jpg"
-        width: 700
-        height: 474
-        isCached: true
   - title: "Cloud and ad spending lift earnings at Amazon, Alphabet and Facebook"
     excerpt: "The big three internet giants today revealed improved earnings despite and in some cases because of the COVID-19 pandemic, as advertising and cloud computing growth buoyed third-quarter results. As online ads saw a rebound,"
     publishedDateTime: 2020-10-29T21:10:00Z

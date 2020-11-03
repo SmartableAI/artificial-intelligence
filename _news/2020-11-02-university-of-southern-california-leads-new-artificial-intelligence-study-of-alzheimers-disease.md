@@ -40,20 +40,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Detecting Alzheimer’s Earlier with the Help of Machine-Learning Algorithm"
-    excerpt: "Scientists from Texas Tech University now report they developed a type of deep-learning algorithm known as a convolutional neural network (CNN) that can differentiate among the fMRI signals of healthy people, people with mild cognitive impairment ..."
-    publishedDateTime: 2020-10-29T12:09:00Z
-    webUrl: "https://www.genengnews.com/news/detecting-alzheimers-earlier-with-the-help-of-machine-learning-algorithm/"
-    type: article
-    provider:
-      name: GEN
-      domain: genengnews.com
-    quality: 23
-    images:
-      - url: "https://www.genengnews.com/wp-content/uploads/2020/01/VirtualBrain_Dassault.jpg"
-        width: 1400
-        height: 788
-        isCached: true
 
 secured: "igEokwE9i3VcEStW8LUw53WMO+VWEoT3vFVW9eK2md4LMoiiBRoAECFoB/V+uNcgJlU2bEKhzemm6R18R+9ruHsgr5BYaeP1TXp22Kon+ZOCOhzkH9Bpl/MxyexT/KzojB+ss64veWArBcZHL6fYMgDnFUzp+e22plEZKDXaq882SmVkJvIkOXRxtwn0VcTslFxbk3G6F+VkRlw01jy6RF3LvOvK5S0p3GFSeapFGAGktBlUzfQ695mMX8YC3k37eMhzR1LdmugtLb9XCu+PvLy5W1l410gOviq45BgFwl1S9yteapgs0dPTGSHxrrXM5zsFGn1OY1GkCVG2ZPPPPxc9qn50ZU03qDzXd9dsjgY=;OirtUgPq9k6hu9bPlhyebQ=="
 ---

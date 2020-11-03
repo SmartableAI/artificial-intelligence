@@ -2,6 +2,403 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-29-otterai-announces-zoom-live-video-captioning-to-enhance-virtual-collaboration.md",
+      "title": "Otter.ai announces Zoom live video captioning to enhance virtual collaboration",
+      "excerpt": "The company notes that this feature could reduce the risk of workplace miscommunication and increase telecommuter productivity and inclusiveness in the remote work era.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/otter-ai-announces-zoom-live-video-captioning-to-enhance-virtual-collaboration/",
+      "originalUrl": "https://www.techrepublic.com/article/otter-ai-announces-zoom-live-video-captioning-to-enhance-virtual-collaboration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/otter-ai-announces-zoom-live-video-captioning-to-enhance-virtual-collaboration/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/otter-ai-announces-zoom-live-video-captioning-to-enhance-virtual-collaboration/",
+      "publishedDateTime": "2020-10-29T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-where-is-artificial-intelligence-now-and-where-should-your-company-be.md",
+      "title": "Where Is Artificial Intelligence Now, And Where Should Your Company Be?",
+      "excerpt": "We are near the end of the hype cycle for artificial intelligence (AI ... AI is about to revolutionize our broken health-care system. Is your company ready for AI? Anyone with deep data claims to be using AI. Credible pilots and use cases have succeeded ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/29/where-is-artificial-intelligence-now-and-where-should-your-companybe/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/29/where-is-artificial-intelligence-now-and-where-should-your-companybe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f32cd286b894b218218c8dd%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/29/where-is-artificial-intelligence-now-and-where-should-your-companybe/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/10/29/where-is-artificial-intelligence-now-and-where-should-your-companybe/amp/",
+      "publishedDateTime": "2020-10-29T05:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-face-recognition-systems-market.md",
+      "title": "Face Recognition Systems Market",
+      "excerpt": "According to Market Growth Insight, the Face Recognition Systems Market is anticipated to reach USD XX billion by the end of 2025 with projected CAGR of XX% over the near future. The report delivers thorough analysis of the key drivers, opportunities ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth",
+      "originalUrl": "https://www.openpr.com/news/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/a/Ta29239767_g.jpg",
+          "width": 750,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth",
+      "publishedDateTime": "2020-10-29T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-sibros-to-accelerate-adoption-of-advanced-vehicle-connectivity-solutions-on-aws.md",
+      "title": "Sibros To Accelerate Adoption Of Advanced Vehicle Connectivity Solutions On AWS",
+      "excerpt": "Deep-connected vehicle platform Sibros announced on Wednesday its collaboration with Amazon Web Services (AWS) to accelerate the adoption ... diagnostics and artificial intelligence (AI)-powered analytics. The company also securely manages all in-vehicle ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/358723",
+      "originalUrl": "https://www.entrepreneur.com/article/358723",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1603970436-pexels-matheus-bertelli-799443.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/358723",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/358723",
+      "publishedDateTime": "2020-10-29T04:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-mastercard-and-capital-one-talk-conversational-ai-and-why-fintech-of-every-size-must-invest-vb-live.md",
+      "title": "Mastercard and Capital One talk conversational AI, and why fintech of every size must invest (VB Live)",
+      "excerpt": "In fintech, customer experience is key to customer retention. Access this free VB Live event to learn how companies like MasterCard and Capital One implement AI strategies that transform how ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/29/mastercard-and-capital-one-talk-conversational-ai-and-why-fintech-of-every-size-must-invest-vb-live/",
+      "originalUrl": "https://venturebeat.com/2020/10/29/mastercard-and-capital-one-talk-conversational-ai-and-why-fintech-of-every-size-must-invest-vb-live/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/conversational-AI-GettyImages-1273827203.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/29/mastercard-and-capital-one-talk-conversational-ai-and-why-fintech-of-every-size-must-invest-vb-live/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/29/mastercard-and-capital-one-talk-conversational-ai-and-why-fintech-of-every-size-must-invest-vb-live/amp/",
+      "publishedDateTime": "2020-10-29T04:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-computer-vision-market-global-market-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts-to-2023.md",
+      "title": "Computer Vision Market: Global Market Opportunities, Size, Share, Emerging Trends, Technological Innovation And Forecasts To 2023",
+      "excerpt": "Computer vision is a field of technology dealing with smart devices, particularly laptops, smartphones, personal",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-global-market-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts-to-2023-2020-10-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-global-market-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts-to-2023-2020-10-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T23:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-chinese-tesla-rival-xpeng-steers-clear-of-robotaxis-says-self-driving-trucks-more-likely-to-succeed.md",
+      "title": "Chinese Tesla rival Xpeng steers clear of robotaxis, says self-driving trucks more likely to succeed",
+      "excerpt": "Major Chinese self-driving companies such as Baidu, Didi Chuxing, WeRide and AutoX have all recently launched robotaxi services in various cities, but the head of autonomous driving at Xpeng Motors is less bullish on the prospect. “They have to make a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-leaders-and-founders/article/3107348/chinese-tesla-rival-xpeng-steers-clear-robotaxis",
+      "originalUrl": "https://www.scmp.com/tech/tech-leaders-and-founders/article/3107348/chinese-tesla-rival-xpeng-steers-clear-robotaxis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/10/28/15c96424-18cf-11eb-8f67-a484f6db61a1_image_hires_142109.jpg?itok=umrS2udr&v=1603866075",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/tech-leaders-and-founders/article/3107348/chinese-tesla-rival-xpeng-steers-clear-robotaxis",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-leaders-and-founders/article/3107348/chinese-tesla-rival-xpeng-steers-clear-robotaxis",
+      "publishedDateTime": "2020-10-28T23:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-apple-reportedly-bought-a-video-ai-startup-for-50-million-as-it-tries-to-improve-siri-and-other-apps.md",
+      "title": "Apple reportedly bought a video AI startup for $50 million as it tries to improve Siri and other apps",
+      "excerpt": "Apple's purchase of Barcelona-based Vilynx follows its spree of AI acquisitions earlier this year as the company looks to expand its footprint.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10",
+      "originalUrl": "https://www.businessinsider.com/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f988b936f5b310011723bd1?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10?amp",
+      "publishedDateTime": "2020-10-28T22:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-artificial-intelligence-model-detects-asymptomatic-covid-19-infections-through-cellphone-recorded-coughs.md",
       "title": "Artificial intelligence model detects asymptomatic Covid-19 infections through cellphone-recorded coughs",
       "excerpt": "An artificial intelligence model can detect people who are asymptomatic with Covid-19, through cellphone-recorded coughs. The work was led by Brian Subirana and colleagues at the MIT Auto-ID Lab.",
@@ -34,6 +431,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-deep-learning-market-2020-global-report-explores-covid-19-impact-trend-segmentation-and-opportunities-forecast-to-2026.md",
+      "title": "Deep Learning Market 2020 Global report explores COVID-19 impact, trend, segmentation and opportunities, forecast to 2026",
+      "excerpt": "Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2020-global-report-explores-covid-19-impact-trend-segmentation-and-opportunities-forecast-to-2026-2020-10-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2020-global-report-explores-covid-19-impact-trend-segmentation-and-opportunities-forecast-to-2026-2020-10-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T20:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -767,421 +1216,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-exploring-ai-for-radiotherapy-planning-with-mayo-clinic.md",
-      "title": "Exploring AI for radiotherapy planning with Mayo Clinic",
-      "excerpt": "More than 18 million new cancer cases are diagnosed globally each year, and radiotherapy is one of the most common cancer treatments—used to treat over halfof cancers in the United States. But planning for a course of radiotherapy treatment is often a time-consuming and manual process for clinicians.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/health/exploring-ai-radiotherapy-planning-mayo-clinic/",
-      "originalUrl": "https://blog.google/technology/health/exploring-ai-radiotherapy-planning-mayo-clinic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/health/exploring-ai-radiotherapy-planning-mayo-clinic/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/exploring-ai-radiotherapy-planning-mayo-clinic/amp/",
-      "publishedDateTime": "2020-10-28T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-the-future-of-robotics-is-bright-with-arkq.md",
-      "title": "The Future of Robotics is Bright with ARKQ",
-      "excerpt": "Robotics and artificial intelligence are making machines smarter and more capable than ever before, allowing robots to take on increasingly sophisticated tasks for faster and more accurate production. Declining computer chip costs and improving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/the-future-of-robotics-is-bright-with-arkq-2020-10-28",
-      "originalUrl": "https://www.nasdaq.com/articles/the-future-of-robotics-is-bright-with-arkq-2020-10-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/the-future-of-robotics-is-bright-with-arkq-2020-10-28?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-future-of-robotics-is-bright-with-arkq-2020-10-28?amp",
-      "publishedDateTime": "2020-10-28T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-emerging-technologies-that-will-advance-the-retail-industry.md",
-      "title": "Emerging technologies that will advance the retail industry",
-      "excerpt": "In response to this changing landscape, retailers have brought forward technology investments to accelerate their digital business transformation, particularly in artificial intelligence (AI) technologies with retailers often utilizing AI-enabled third-party vendor applications to solve immediate challenges before moving to more strategic deployments once they gain evidence of the benefits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/emerging-technologies-that-will-advance-the-retail-industry",
-      "originalUrl": "https://www.techradar.com/news/emerging-technologies-that-will-advance-the-retail-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-1200-80.jpg",
-          "width": 970,
-          "height": 646,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/emerging-technologies-that-will-advance-the-retail-industry",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/emerging-technologies-that-will-advance-the-retail-industry",
-      "publishedDateTime": "2020-10-28T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-startup-robust-ai-raises-15-million-in-new-funding.md",
-      "title": "Startup Robust AI Raises $15 Million in New Funding",
-      "excerpt": "Robust AI Inc., a startup developing an artificial intelligence system intended to allow robots to work autonomously in open-ended environments, on Wednesday raised $15 million in venture-capital funding,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/startup-robust-ai-raises-15-million-in-new-funding-11603897500",
-      "originalUrl": "https://www.wsj.com/articles/startup-robust-ai-raises-15-million-in-new-funding-11603897500",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-250518/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-artificial-intelligence-dives-into-thousands-of-ww2-photographs.md",
-      "title": "Artificial intelligence dives into thousands of WW2 photographs",
-      "excerpt": "In a new international cross disciplinary study, researchers from Aarhus University, Denmark and Tampere University, Finland have used artificial intelligence to analyse large amounts of historical photos from WW2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-10/au-aid102820.php?fbclid=IwAR3MCWLzjCs9JHAEmDaF9DnqsTkKAtWogCIb8HDnnagM3yh-s6EM1Ddh4Y8",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-10/au-aid102820.php?fbclid=IwAR3MCWLzjCs9JHAEmDaF9DnqsTkKAtWogCIb8HDnnagM3yh-s6EM1Ddh4Y8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/247171_web.jpg",
-          "width": 1440,
-          "height": 976,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-ibm-study-ai-driven-virtual-agents-can-drive-customer-satisfaction-and-cost-savings-amid-covid-19.md",
-      "title": "IBM Study: AI-driven Virtual Agents Can Drive Customer Satisfaction and Cost Savings Amid COVID-19",
-      "excerpt": "The research showed organizations that are early adopters of AI and cloud technology are reaping ... USD 5.50 per contained conversation using IBM Watson Assistant. The IBM Institute for Business ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-study-ai-driven-virtual-agents-can-drive-customer-satisfaction-and-cost-savings-amid-covid-19-1029735274",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-study-ai-driven-virtual-agents-can-drive-customer-satisfaction-and-cost-savings-amid-covid-19-1029735274",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1322193/IBM_AI_Study.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod.md",
-      "title": "DIU Selects Summit2Sea Consulting to Develop Artificial Intelligence Technology for the DoD",
-      "excerpt": "Summit2Sea Consulting, has been selected by the Department of Defense (DoD) to prototype the Humanless Unmatched Transaction (HUnT) solution for the DoD. \"The solution builds data pipelines to financial transactions to train a Machine Learning model that directs corrective actions to robot workers,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-1029735172",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-1029735172",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1321396/Summit2Sea___Brian_Eckle.jpg",
-          "width": 340,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-bristol-myers-turns-to-machine-learning-startup-to-solve-als.md",
-      "title": "Bristol Myers Turns to Machine Learning Startup to Solve ALS",
-      "excerpt": "Bristol Myers Squibb Co. is teaming up with machine-learning startup Insitro in a novel $70 million deal to find new drugs for amyotrophic lateral sclerosis, the deadly illness also known as Lou Gehrig’s disease. The five-year deal, which includes a $50 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-28/bristol-myers-turns-to-machine-learning-startup-to-solve-als",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-28/bristol-myers-turns-to-machine-learning-startup-to-solve-als",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-28/bristol-myers-turns-to-machine-learning-startup-to-solve-als",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-28/bristol-myers-turns-to-machine-learning-startup-to-solve-als",
-      "publishedDateTime": "2020-10-28T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-machine-learning-helps-pinpoint-sources-of-the-most-common-cardiac-arrhythmia.md",
-      "title": "Machine learning helps pinpoint sources of the most common cardiac arrhythmia",
-      "excerpt": "Researchers from Skoltech and their US colleagues have designed a new machine learning-based approach for detecting atrial fibrillation drivers, small patches of the heart muscle that are",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/machine-learning-helps-pinpoint-sources-of-the-most-common-cardiac-arrhythmia/",
-      "originalUrl": "https://indiaeducationdiary.in/machine-learning-helps-pinpoint-sources-of-the-most-common-cardiac-arrhythmia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/10/photo-2.jpg?fit=734%2C549&ssl=1",
-          "width": 734,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/machine-learning-helps-pinpoint-sources-of-the-most-common-cardiac-arrhythmia/?amp",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/machine-learning-helps-pinpoint-sources-of-the-most-common-cardiac-arrhythmia/?amp",
-      "publishedDateTime": "2020-10-28T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -2,6 +2,411 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-28-exploring-ai-for-radiotherapy-planning-with-mayo-clinic.md",
+      "title": "Exploring AI for radiotherapy planning with Mayo Clinic",
+      "excerpt": "More than 18 million new cancer cases are diagnosed globally each year, and radiotherapy is one of the most common cancer treatments—used to treat over halfof cancers in the United States. But planning for a course of radiotherapy treatment is often a time-consuming and manual process for clinicians.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/health/exploring-ai-radiotherapy-planning-mayo-clinic/",
+      "originalUrl": "https://blog.google/technology/health/exploring-ai-radiotherapy-planning-mayo-clinic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/health/exploring-ai-radiotherapy-planning-mayo-clinic/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/exploring-ai-radiotherapy-planning-mayo-clinic/amp/",
+      "publishedDateTime": "2020-10-28T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-the-future-of-robotics-is-bright-with-arkq.md",
+      "title": "The Future of Robotics is Bright with ARKQ",
+      "excerpt": "Robotics and artificial intelligence are making machines smarter and more capable than ever before, allowing robots to take on increasingly sophisticated tasks for faster and more accurate production. Declining computer chip costs and improving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/the-future-of-robotics-is-bright-with-arkq-2020-10-28",
+      "originalUrl": "https://www.nasdaq.com/articles/the-future-of-robotics-is-bright-with-arkq-2020-10-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/the-future-of-robotics-is-bright-with-arkq-2020-10-28?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-future-of-robotics-is-bright-with-arkq-2020-10-28?amp",
+      "publishedDateTime": "2020-10-28T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-emerging-technologies-that-will-advance-the-retail-industry.md",
+      "title": "Emerging technologies that will advance the retail industry",
+      "excerpt": "In response to this changing landscape, retailers have brought forward technology investments to accelerate their digital business transformation, particularly in artificial intelligence (AI) technologies with retailers often utilizing AI-enabled third-party vendor applications to solve immediate challenges before moving to more strategic deployments once they gain evidence of the benefits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/emerging-technologies-that-will-advance-the-retail-industry",
+      "originalUrl": "https://www.techradar.com/news/emerging-technologies-that-will-advance-the-retail-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-1200-80.jpg",
+          "width": 970,
+          "height": 646,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/emerging-technologies-that-will-advance-the-retail-industry",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/emerging-technologies-that-will-advance-the-retail-industry",
+      "publishedDateTime": "2020-10-28T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-startup-robust-ai-raises-15-million-in-new-funding.md",
+      "title": "Startup Robust AI Raises $15 Million in New Funding",
+      "excerpt": "Robust AI Inc., a startup developing an artificial intelligence system intended to allow robots to work autonomously in open-ended environments, on Wednesday raised $15 million in venture-capital funding,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/startup-robust-ai-raises-15-million-in-new-funding-11603897500",
+      "originalUrl": "https://www.wsj.com/articles/startup-robust-ai-raises-15-million-in-new-funding-11603897500",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-250518/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-artificial-intelligence-dives-into-thousands-of-ww2-photographs.md",
+      "title": "Artificial intelligence dives into thousands of WW2 photographs",
+      "excerpt": "In a new international cross disciplinary study, researchers from Aarhus University, Denmark and Tampere University, Finland have used artificial intelligence to analyse large amounts of historical photos from WW2.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-10/au-aid102820.php?fbclid=IwAR3MCWLzjCs9JHAEmDaF9DnqsTkKAtWogCIb8HDnnagM3yh-s6EM1Ddh4Y8",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-10/au-aid102820.php?fbclid=IwAR3MCWLzjCs9JHAEmDaF9DnqsTkKAtWogCIb8HDnnagM3yh-s6EM1Ddh4Y8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/247171_web.jpg",
+          "width": 1440,
+          "height": 976,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-ibm-study-ai-driven-virtual-agents-can-drive-customer-satisfaction-and-cost-savings-amid-covid-19.md",
+      "title": "IBM Study: AI-driven Virtual Agents Can Drive Customer Satisfaction and Cost Savings Amid COVID-19",
+      "excerpt": "The research showed organizations that are early adopters of AI and cloud technology are reaping ... USD 5.50 per contained conversation using IBM Watson Assistant. The IBM Institute for Business ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-study-ai-driven-virtual-agents-can-drive-customer-satisfaction-and-cost-savings-amid-covid-19-1029735274",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-study-ai-driven-virtual-agents-can-drive-customer-satisfaction-and-cost-savings-amid-covid-19-1029735274",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1322193/IBM_AI_Study.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod.md",
+      "title": "DIU Selects Summit2Sea Consulting to Develop Artificial Intelligence Technology for the DoD",
+      "excerpt": "Summit2Sea will leverage AWS Sagemaker, a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning (ML) models quickly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-301161877.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-301161877.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1321396/Summit2Sea___Brian_Eckle.jpg?p=facebook",
+          "width": 3721,
+          "height": 1948,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-bristol-myers-turns-to-machine-learning-startup-to-solve-als.md",
+      "title": "Bristol Myers Turns to Machine Learning Startup to Solve ALS",
+      "excerpt": "Bristol Myers Squibb Co. is teaming up with machine-learning startup Insitro in a novel $70 million deal to find new drugs for amyotrophic lateral sclerosis, the deadly illness also known as Lou Gehrig’s disease. The five-year deal, which includes a $50 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-28/bristol-myers-turns-to-machine-learning-startup-to-solve-als",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-28/bristol-myers-turns-to-machine-learning-startup-to-solve-als",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-28/bristol-myers-turns-to-machine-learning-startup-to-solve-als",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-28/bristol-myers-turns-to-machine-learning-startup-to-solve-als",
+      "publishedDateTime": "2020-10-28T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-machine-learning-helps-pinpoint-sources-of-the-most-common-cardiac-arrhythmia.md",
+      "title": "Machine learning helps pinpoint sources of the most common cardiac arrhythmia",
+      "excerpt": "Researchers from Skoltech and their US colleagues have designed a new machine learning-based approach for detecting atrial fibrillation drivers, small patches of the heart muscle that are",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/machine-learning-helps-pinpoint-sources-of-the-most-common-cardiac-arrhythmia/",
+      "originalUrl": "https://indiaeducationdiary.in/machine-learning-helps-pinpoint-sources-of-the-most-common-cardiac-arrhythmia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/10/photo-2.jpg?fit=734%2C549&ssl=1",
+          "width": 734,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/machine-learning-helps-pinpoint-sources-of-the-most-common-cardiac-arrhythmia/?amp",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/machine-learning-helps-pinpoint-sources-of-the-most-common-cardiac-arrhythmia/?amp",
+      "publishedDateTime": "2020-10-28T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-the-best-robo-advisors-of-november-2020.md",
       "title": "The best robo-advisors of November 2020",
       "excerpt": "Robo-advisors are online financial investment platforms that create and manage an investment portfolio based on your individual needs and financial goals, no human advisor required. You don't need to have a lot of investing know-how.",
@@ -253,7 +658,7 @@
     {
       "path": "_news/2020-10-28-5-best-robotics-and-artificial-intelligence-stocks-to-buy.md",
       "title": "5 Best Robotics and Artificial Intelligence Stocks To Buy",
-      "excerpt": "Google AI is the company’s division that focuses exclusively on artificial intelligence and Waymo is probably the most advanced autonomous driving technology company in the world (though Chinese ...",
+      "excerpt": "Google AI is the company’s division that focuses exclusively on artificial intelligence and Waymo is probably the most advanced autonomous driving technology company in the world (though Chinese competitors are catching up fast). Alphabet is the #1 stock ...",
       "sourceUrl": null,
       "webUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/",
       "originalUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/",
@@ -792,438 +1197,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-how-the-ibm-data-science-and-ai-elite-team-trains-organizations-to-tackle-data-science-faster.md",
-      "title": "How the IBM Data Science and AI Elite team trains organizations to tackle data science faster",
-      "excerpt": "Today, the world looks different — from last year, last month, and even yesterday. The ever-changing status of our surroundings brings new problems, and having the right skills becomes critical to adapting and innovating in the face of these challenges. However, according to The Quant Crunch report,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/10/how-the-ibm-data-science-and-ai-elite-team-trains-organizations-to-tackle-data-science-faster/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/10/how-the-ibm-data-science-and-ai-elite-team-trains-organizations-to-tackle-data-science-faster/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/10/1320_Watson-blog-assets_Data-Scientist_Leadspace_Final-990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T14:11:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais.md",
-      "title": "If a robot is conscious, is it OK to turn it off? The moral implications of building true AIs",
-      "excerpt": "Philosophers say now is the time to mull over what qualities should grant an artificially intelligent machine moral standing.",
-      "sourceUrl": null,
-      "webUrl": "https://omaha.com/news/science/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications/article_b32028c8-914e-5795-8c24-6ea2d8784cc1.html",
-      "originalUrl": "https://omaha.com/news/science/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications/article_b32028c8-914e-5795-8c24-6ea2d8784cc1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/b/32/b32028c8-914e-5795-8c24-6ea2d8784cc1/5f986b4ce8335.preview.jpg?crop=1000%2C563%2C0%2C89&resize=1000%2C563&order=crop%2Cresize",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T13:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Omaha.com",
-        "domain": "omaha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-apple-buys-self-learning-ai-video-company-to-improve-apps.md",
-      "title": "Apple Buys Self-Learning AI Video Company to Improve Apps",
-      "excerpt": "Apple Inc. acquired a startup specializing in advanced artificial intelligence and computer vision technology that may help the iPhone maker improve its own AI across a number of apps and services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-27/apple-buys-self-learning-ai-video-startup-to-improve-apps",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-27/apple-buys-self-learning-ai-video-startup-to-improve-apps",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3ljJ6nNqEA8/v1/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-27/apple-buys-self-learning-ai-video-startup-to-improve-apps",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-27/apple-buys-self-learning-ai-video-startup-to-improve-apps",
-      "publishedDateTime": "2020-10-27T12:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-waymo-daimler-to-partner-in-developing-self-driving-semi-trucks.md",
-      "title": "Waymo, Daimler to partner in developing self-driving semi trucks",
-      "excerpt": "Daimler AG's <DAIGn.DE> commercial truck unit and Alphabet Inc's <GOOGL.O> Waymo on Tuesday said they will collaborate on development of self-driving Class 8 semi trucks, applying Waymo's automated system to Daimler's Freightliner Cascadia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/autos-selfdriving-waymo-daimler-int/waymo-daimler-to-partner-in-developing-self-driving-semi-trucks-idUSKBN27C1V0",
-      "originalUrl": "https://www.reuters.com/article/autos-selfdriving-waymo-daimler-int/waymo-daimler-to-partner-in-developing-self-driving-semi-trucks-idUSKBN27C1V0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 284,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538989863&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q17N",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27C1UM",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C1UM",
-      "publishedDateTime": "2020-10-27T12:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-optimizing-costs-for-machine-learning-with-amazon-sagemaker.md",
-      "title": "Optimizing costs for machine learning with Amazon SageMaker",
-      "excerpt": "Applications based on machine learning (ML) can provide tremendous business value. Using ML, we can solve some of the most complex engineering problems that previously were infeasible. One of the advantages of running ML on the AWS Cloud is that you can continually optimize your workloads and reduce",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimizing-costs-for-machine-learning-with-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimizing-costs-for-machine-learning-with-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/13/1-Charts-840x630.jpg",
-          "width": 840,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T11:31:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-ai-powered-trading-platform-tickeron-releases-new-swing-trading-ai-robots.md",
-      "title": "AI-Powered Trading Platform Tickeron Releases New Swing Trading AI Robots",
-      "excerpt": "Tickeron, an artificial and human intelligence platform delivering unparalleled trading insights and analysis, has released several new swing trading robots as part of their groundbreaking AI Robots feature.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-powered-trading-platform-tickeron-releases-new-swing-trading-ai-robots-1029726330",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-powered-trading-platform-tickeron-releases-new-swing-trading-ai-robots-1029726330",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T11:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-canadians-confidence-in-electric-vehicles-dropping-says-report.md",
-      "title": "Canadians' confidence in electric vehicles dropping, says report",
-      "excerpt": "Most new-car shoppers still lack confidence in electric cars, and a whopping 67 per cent of Canadians haven’t ever driven one, according to a new study by J.D. Power. The J.D. Power 2020 Q1 Mobility Confidence Index Study,",
-      "sourceUrl": null,
-      "webUrl": "https://driving.ca/auto-news/news/canadians-confidence-in-electric-vehicles-dropping-says-report",
-      "originalUrl": "https://driving.ca/auto-news/news/canadians-confidence-in-electric-vehicles-dropping-says-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smartcdn.prod.postmedia.digital/driving/wp-content/uploads/2020/02/nissan_ev.jpg?w=800&crop=1&strip=all#038;h=260",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://driving.ca/auto-news/news/canadians-confidence-in-electric-vehicles-dropping-says-report/amp",
-      "cdnAmpWebUrl": "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/news/canadians-confidence-in-electric-vehicles-dropping-says-report/amp",
-      "publishedDateTime": "2020-10-27T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "driving.ca",
-        "domain": "driving.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-zomato-digitizes-menus-using-amazon-textract-and-amazon-sagemaker.md",
-      "title": "zomato digitizes menus using Amazon Textract and Amazon SageMaker",
-      "excerpt": "This post is co-written by Chiranjeev Ghai, ML Engineer at zomato. zomato is a global food-tech company based in India. Are you the kind of person who has very specific cravings? Maybe when the mood hits, you don’t want just any kind of Indian food—you want Chicken Chettinad with a side of paratha, and",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/zomato-digitizes-menus-using-amazon-textract-and-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/zomato-digitizes-menus-using-amazon-textract-and-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/19/menu_w_yellow_background.jpg",
-          "width": 900,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T10:08:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-3-best-programming-language-to-learn-and-secure-a-job.md",
-      "title": "3 Best Programming Language To Learn And Secure A Job",
-      "excerpt": "Through this course, you will learn complex text processing, file creation, management and manipulation, Object-oriented Programming concepts, simple machine learning and natural language processing. Java is among the most popular programming languages ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/3-best-programming-language-learn-secure-job-3067716",
-      "originalUrl": "https://www.ibtimes.com/3-best-programming-language-learn-secure-job-3067716",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/06/coding-programming-software-engineering.jpg",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/3-best-programming-language-learn-secure-job-3067716?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/3-best-programming-language-learn-secure-job-3067716?amp=1",
-      "publishedDateTime": "2020-10-27T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

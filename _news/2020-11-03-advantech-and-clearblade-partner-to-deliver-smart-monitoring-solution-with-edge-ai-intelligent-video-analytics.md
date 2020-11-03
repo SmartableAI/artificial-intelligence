@@ -7,7 +7,7 @@ originalUrl: "https://www.automationworld.com/supplier-news/news/21201090/advant
 webUrl: "https://www.automationworld.com/supplier-news/news/21201090/advantech-advantech-and-clearblade-partner-to-deliver-smart-monitoring-solution-with-edge-ai-intelligent-video-analytics"
 type: article
 quality: 19
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -25,17 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "ClearBlade Integrates IBM Edge Application Manager to Deliver IoT Asset Monitoring at the Edge"
-    excerpt: "... IBM Maximo to collect near-real time data into enterprise asset management and analyzed with artificial intelligence at the edge, powered by IBM Watson. This can allow for a single system of record in the enterprise that is enriched with quality data ..."
-    publishedDateTime: 2020-10-30T17:17:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/10/n18145921/clearblade-integrates-ibm-edge-application-manager-to-deliver-iot-asset-monitoring-at-the-edge"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18145921"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18145921"
+  - title: "CMOs, Predict Your Wins With AI And Predictive Analytics"
+    excerpt: "Business intelligence and predictive analytics are the closest measures we have to a crystal ball that shows us how well new strategies and campaigns will perform"
+    publishedDateTime: 2020-11-02T13:24:00Z
+    webUrl: "https://www.entrepreneur.com/article/358890"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/358890"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/358890"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 12
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 87
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1604323446-online-3539412.png?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Google partners with Knowlarity to expand its speech analytics platform in India"
+    excerpt: "Google has partnered with Singapore-headquartered cloud telephony firm Knowlarity to expand its speech recognition and analytics services in India."
+    publishedDateTime: 2020-11-03T06:33:00Z
+    webUrl: "https://www.ciol.com/google-partners-knowlarity-expand-speech-analytics-platform-india/"
+    ampWebUrl: "https://www.ciol.com/google-partners-knowlarity-expand-speech-analytics-platform-india/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/google-partners-knowlarity-expand-speech-analytics-platform-india/amp/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 39
+    images:
+      - url: "https://www.ciol.com/wp-content/uploads/2020/10/Google-Cloud.jpg"
+        width: 850
+        height: 400
+        isCached: true
+  - title: "Flood Prediction Project Powered by SAS IoT Analytics and Microsoft Azure Earns National Innovation Award"
+    excerpt: "by combining Microsoft Azure IoT platform with SAS’ edge-to-cloud IoT analytics and AI capabilities. Transforming flood response for an entire region During excessive rainfall events, Town of Cary personnel often found themselves running around to ..."
+    publishedDateTime: 2020-10-30T06:52:00Z
+    webUrl: "https://www.newswiretoday.com/news/174030/Flood-Prediction-Project-Powered-by-SAS-IoT-Analytics-and-Microsoft-Azure-Earns-National-Innovation-Award/"
+    type: article
+    provider:
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 17
 
 secured: "ybVB8K/WncOvyhVXiJgJELD1wlve6zrtirefFejLy5E9Uv1Mnl1vtZAFgh5cmX1JNCFjUesUZZ28s7WQIVT8VqKxKYgG3R7XK7iZIIENvOIoVOZd5zwtyANV6+XaE7G0Ld0DGJPK+aCdsIs4Ju5z5teDvSGe6oK1boQELE6wCTnXLhucYlpa5pkRemZgitfURsErMmHFy+xrDTio3ojf1burJQ24H4rmRFCqy4Ya1GkbdJmMsnhJkJuEsXWn3X9b7OLcKI8NeVmhFLZ4qCOXA2p9y40EkP5H0uTvz1YLtScf+hSEsHmKilaMXmh1w+W/XXxs8x1WAASSErcTYLJxLXMETyE4FKnUeE4QoTgNvwvbKx1bChLBFPF++AlGtMzms9W9c6ZWKiHE5B4iWxo+8i6FW5rlew+l3cPNh60lH9kpEfiAx/8Bnrc+Ca71twItHgK1BotSsVHbcz7LgNDM/SbBIgZ+yaOMelnf8dW/dAltFOmg6LvnOR6T59R7cIxphCpoId33k0Se2yLc4xZBzA==;L77KfnCHGX5ReFIASHFAKg=="
 ---

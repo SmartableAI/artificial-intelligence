@@ -1,28 +1,25 @@
 ---
 category: news
 title: "Merkley, Perkins face off in Oregon Senate race"
-excerpt: "Democratic U.S. Sen. Jeff Merkley is running for reelection against Republican Jo Rae Perkins, who made national headlines this year for her support of the wide ranging"
-publishedDateTime: 2020-11-03T05:23:00Z
-originalUrl: "https://apnews.com/b3ea2718425b6d4bb7fa5de0702612ed"
-webUrl: "https://apnews.com/b3ea2718425b6d4bb7fa5de0702612ed"
+excerpt: "Democratic U.S. Sen. Jeff Merkley is running for reelection against Republican Jo Rae Perkins, who made national headlines this year for her support of the wide ranging and baseless QAnon internet conspiracy theory."
+publishedDateTime: 2020-11-03T07:40:00Z
+originalUrl: "https://www.houstonchronicle.com/news/article/Merkley-Perkins-face-off-in-Oregon-Senate-race-15696460.php"
+webUrl: "https://www.houstonchronicle.com/news/article/Merkley-Perkins-face-off-in-Oregon-Senate-race-15696460.php"
+ampWebUrl: "https://www.houstonchronicle.com/news/amp/Merkley-Perkins-face-off-in-Oregon-Senate-race-15696460.php"
+cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Merkley-Perkins-face-off-in-Oregon-Senate-race-15696460.php"
 type: article
 quality: 24
 heat: 24
+published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Houston Chronicle
+  domain: houstonchronicle.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://apnews.com/images/ShareLogo2.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "igLViEmR5GdmgiZlHbySBfTisxUxKyVVHJnOL+uPczTvHIM7loPDYnblKm1D8Pp0XMh1lDG+rO2cTq47wkufeAtYDocPBkyh8zS0TZm8153ckMm4EkNWMUSWtxu0rZw26vmmc3gZTw7OE42OfZr088C2BvHwovijtHoy/laQC5eE/sY+ESEOkNPJRc478AAVu4sD1j5QpIISbMHlg9+ouDh/4fqszAKaJzmv/kOkwbP4Wa9HPg85S0DoOLjxZPhwTPu4abijWDlhiZfODrjR36HxFWnhhhO4wbDJI7exaf28UvVNDP4ra5vzqNV/wn7CP/BAlnaoKW2v67UmXJIgnv6C2UGdNxvdECVsIyQt5k0=;q0ix+kH4jGHMvxkvKUzAHQ=="
+secured: "PXPkyUWCG6wxQWyLJIG2Q5kPIbNTXjbVbcRww04riMyJXxQAiB5CB8EdLH6WoYxMWb8hhDudpCE1z21T/njDpsmr2uXShOVVyJZKzO0TzAAOBuQjr38rLJU9FGaxiPbJm8ywU7q2fNwgrg7BnK/xIROs9LiZ7wyc80VJ0n0oSEHMK/GDCdLJrgE+loxz3EQVkYk/Qymrq7rAwMNN8/vcCYRqH71zeH8qWndu0cDT4AjQTgQd1c1t6cUybAsUINkb/XQiXH1sYuHJ80nZdq5lM/sZRhQSIGU8k3lbHpvK4jP4Z/4hn7mhaMglgbsbQbophr1z1/psn3ucR7GaSv+6O2VCPM6T5Vw+ckMqyFeDxF4=;zNzy48Rk9xzkP5olzPyuMg=="
 ---
 

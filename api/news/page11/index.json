@@ -2,6 +2,539 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-10-22-clark-county-utilizes-ai-enabled-solution-to-help-residents-secure-critical-housing-assistance.md",
+      "title": "Clark County Utilizes AI-enabled Solution to Help Residents Secure Critical Housing Assistance",
+      "excerpt": "PRNewswire/ -- Clark County and IBM Watson Health (NYSE: IBM) today announced the deployment of the AI-enabled IBM Watson Health Citizen Engagement",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/clark-county-utilizes-ai-enabled-solution-to-help-residents-secure-critical-housing-assistance-301157432.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/clark-county-utilizes-ai-enabled-solution-to-help-residents-secure-critical-housing-assistance-301157432.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
+          "width": 2698,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-22T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-congruity360-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Congruity360 Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "Congruity360, data governance and storage leader, today announced the availability of Classify360 in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-web-services-internet-technology-217bea6f181fa4a1a075f5aa3e59252f",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-web-services-internet-technology-217bea6f181fa4a1a075f5aa3e59252f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-22T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet.md",
+      "title": "We've been promised driverless cars for years. So why aren't they on the roads yet?",
+      "excerpt": "Despite a lot of hype and many promises, putting driverless cars on the roads, as it turns out, is a difficult undertaking. Self-driving hub organization Zenzic, which is a joint effort between government and industry,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/",
+      "originalUrl": "https://www.zdnet.com/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/03/13/3dd027e3-df63-48aa-9f7b-a52085ce2608/thumbnail/1200x675/28f68dbe4aac725bdde398611a98bbd9/20200313-daphne-karen-winter.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/weve-been-promised-driverless-cars-for-years-so-why-arent-they-on-the-roads-yet/",
+      "publishedDateTime": "2020-10-22T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-the-real-business-risks-of-ignoring-diversity-equity-and-inclusion-in-your-ai-strategy.md",
+      "title": "The real business risks of ignoring diversity, equity, and inclusion in your AI strategy",
+      "excerpt": "What happens when decision-makers in tech companies simply don’t reflect the diversity of the general population?",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/22/the-real-business-risks-of-ignoring-diversity-equity-and-inclusion-in-your-ai-strategy/",
+      "originalUrl": "https://venturebeat.com/2020/10/22/the-real-business-risks-of-ignoring-diversity-equity-and-inclusion-in-your-ai-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/GettyImages-1249641728.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/22/the-real-business-risks-of-ignoring-diversity-equity-and-inclusion-in-your-ai-strategy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/the-real-business-risks-of-ignoring-diversity-equity-and-inclusion-in-your-ai-strategy/amp/",
+      "publishedDateTime": "2020-10-22T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-facebooks-ai-team-expands-post-grad-courses-for-black-and-latinx-students.md",
+      "title": "Facebook's AI team expands post-grad courses for Black and Latinx students",
+      "excerpt": "Facebook says that it will expand an online course in deep learning to more students to help improve the diversity of its AI division. After a successful pilot program at Georgia Tech, the company will roll out this graduate-level course in deep learning to more colleges across 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/facebook-ai-diversity-online-learning-course-120044903.html",
+      "originalUrl": "https://www.engadget.com/facebook-ai-diversity-online-learning-course-120044903.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F39769420-144a-11eb-bfe1-45e43ea856dd&client=amp-blogside-v2&signature=8fd4a9f5ed17636cd9fdd3c52513267131ac292d",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/facebook-ai-diversity-online-learning-course-120044903.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-ai-diversity-online-learning-course-120044903.html",
+      "publishedDateTime": "2020-10-22T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-st-lukes-university-health-network-selects-ge-healthcare-for-11-million-ultrasound-purchase-to-create-system-wide-efficiencies.md",
+      "title": "St. Luke’s University Health Network Selects GE Healthcare for $11 Million Ultrasound Purchase to Create System-wide Efficiencies",
+      "excerpt": "Two of IBM Watson Health’s 100 Top Hospitals are St. Luke’s hospitals. St. Luke’s University Hospital has earned the 100 Top Major Teaching Hospital designation from IBM Watson Health eight ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201022005112/en/St.-Luke’s-University-Health-Network-Selects-GE-Healthcare-for-11-Million-Ultrasound-Purchase-to-Create-System-wide-Efficiencies",
+      "originalUrl": "https://www.businesswire.com/news/home/20201022005112/en/St.-Luke’s-University-Health-Network-Selects-GE-Healthcare-for-11-Million-Ultrasound-Purchase-to-Create-System-wide-Efficiencies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201022005112/en/51143/23/GE_Imagination_at_Work_Logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-22T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-the-left-and-the-right-speak-different-languagesliterally.md",
+      "title": "The Left and the Right Speak Different Languages—Literally",
+      "excerpt": "Researchers at Carnegie Mellon University collected more than 86.6 million comments from more than 6.5 million users on 200,000 YouTube videos, then analyzed them using an AI technique normally employed to translate between two languages. The researchers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/left-right-speak-different-languages-literally/",
+      "originalUrl": "https://www.wired.com/story/left-right-speak-different-languages-literally/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f8f6e8cb9910f1848191347/master/pass/business_discourse_1281134658.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/left-right-speak-different-languages-literally/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/left-right-speak-different-languages-literally/amp",
+      "publishedDateTime": "2020-10-22T04:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-text-to-speech-automation-and-ai-how-google-is-backing-middle-east-news-providers.md",
+      "title": "Text to speech, automation and AI: How Google is backing Middle East news providers",
+      "excerpt": "Google says it's backing Middle Eastern news projects that develop new business models. By Damian Radcliffe for Heat Sink | October 22, 2020 -- 11:32 GMT (04:32 PDT) | Topic: Digital Transformation Google has awarded just under $2m to 21 projects in the Middle East,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/text-to-speech-automation-and-ai-how-google-is-backing-middle-east-news-providers/",
+      "originalUrl": "https://www.zdnet.com/article/text-to-speech-automation-and-ai-how-google-is-backing-middle-east-news-providers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2018/05/29/22929faf-4666-4ee0-bbea-a289c787429d/thumbnail/1200x675/2e0e2e09eb915bb530dd3a1860c282e5/5b08209d60b2521e61a0aff9-1280x7201may292018140008poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/text-to-speech-automation-and-ai-how-google-is-backing-middle-east-news-providers/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/text-to-speech-automation-and-ai-how-google-is-backing-middle-east-news-providers/",
+      "publishedDateTime": "2020-10-22T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-three-changes-impacting-healthcare-marketing.md",
+      "title": "Three Changes Impacting Healthcare Marketing",
+      "excerpt": "Healthcare marketers often face extremely challenging federal regulations as well as Health Insurance Portability and Accountability Act (HIPAA) rules. On top of that, patients are demanding better services from healthcare providers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/10/22/three-changes-impacting-healthcare-marketing/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/10/22/three-changes-impacting-healthcare-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f48f8fdd0ef32a9717eac46%2F0x0.jpg",
+          "width": 1199,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/10/22/three-changes-impacting-healthcare-marketing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/10/22/three-changes-impacting-healthcare-marketing/amp/",
+      "publishedDateTime": "2020-10-22T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-saudi-deal-with-huawei-for-arabic-specific-ai-risks-us-ire.md",
+      "title": "Saudi Deal With Huawei for Arabic-Specific AI Risks U.S. Ire",
+      "excerpt": "Saudi Arabia said it would partner with Huawei Technologies Co. to develop Arabic-language recognition in artificial intelligence and train Saudi experts in the field, potentially putting the kingdom at odds with the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-22/saudi-arabia-huawei-sign-deal-to-develop-arabic-specific-ai",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-22/saudi-arabia-huawei-sign-deal-to-develop-arabic-specific-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTGRJAgjNHN4/v1/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-22/saudi-arabia-huawei-sign-deal-to-develop-arabic-specific-ai",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-22/saudi-arabia-huawei-sign-deal-to-develop-arabic-specific-ai",
+      "publishedDateTime": "2020-10-22T04:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-telesense-raises-102-million-to-monitor-crops-with-ai-and-sensors.md",
+      "title": "TeleSense raises $10.2 million to monitor crops with AI and sensors",
+      "excerpt": "TeleSense, a startup developing AI-powered software and sensors for predicting the quality of crops in storage and transit, has raised $10.2 million. The company says the proceeds will be put ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/22/telesense-raises-10-2-million-to-monitor-crops-with-ai-and-sensors/",
+      "originalUrl": "https://venturebeat.com/2020/10/22/telesense-raises-10-2-million-to-monitor-crops-with-ai-and-sensors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/3fad1eb9-0c58-4da9-81a4-11a6bc8f67ac-e1602617584749.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/22/telesense-raises-10-2-million-to-monitor-crops-with-ai-and-sensors/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/telesense-raises-10-2-million-to-monitor-crops-with-ai-and-sensors/amp/",
+      "publishedDateTime": "2020-10-22T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-acer-unveils-intel-gpu-toting-laptops-revamped-chromebooks-and-an-alexa-killing-smartspeaker.md",
       "title": "Acer unveils Intel GPU-toting laptops, revamped Chromebooks and an Alexa-killing smartspeaker",
       "excerpt": "Acer has unveiled its latest range of laptops, monitors, and more at their October 2020 Next@Acer event, with new devices in the Swift, Aspire, Predator, Travelmate and ConceptD range. Whilst the conference itself certainly won’t be winning any awards for presentation,",
@@ -689,557 +1222,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-mit-seeks-to-resurrect-dead-languages-with-machine-learning.md",
-      "title": "MIT seeks to resurrect 'dead' languages with machine learning",
-      "excerpt": "By implementing a new translation system and a bit of detective work, researchers hope to give old indecipherable languages a new voice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/mit-seeks-to-resurrect-dead-languages-with-machine-learning/",
-      "originalUrl": "https://www.cnet.com/news/mit-seeks-to-resurrect-dead-languages-with-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/oIgSdZTaU-UxA48WUT70KtAh2ZM=/1200x630/2020/10/21/bbfec165-3dcb-4d55-b8aa-493c200f8cb2/gettyimages-1131558568.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/mit-seeks-to-resurrect-dead-languages-with-machine-learning/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/mit-seeks-to-resurrect-dead-languages-with-machine-learning/",
-      "publishedDateTime": "2020-10-21T15:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads.md",
-      "title": "New MLPerf Data Shows Competition Increases In AI, But NVIDIA Still Leads",
-      "excerpt": "Like the latest training results, which were announced in July, the new inference numbers show an increase in the number of companies submitting and an increased number of platforms and workloads supported.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f90a348132e6eddbd3811cb%2F0x0.jpg",
-          "width": 1200,
-          "height": 974,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads/amp/",
-      "publishedDateTime": "2020-10-21T15:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-new-ai-powered-sensor-measures-starlight-distortion-to-help-discover-new-planets.md",
-      "title": "New AI-powered sensor measures starlight distortion to help discover new planets",
-      "excerpt": "The \"photonic wavefront sensor\" helps correct the distortion of starlight caused by observing planets through optical telescopes.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/10/21/new-ai-powered-sensor-measures-starlight-distortion-to-help-discover-new-planets/",
-      "originalUrl": "https://thenextweb.com/neural/2020/10/21/new-ai-powered-sensor-measures-starlight-distortion-to-help-discover-new-planets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-21T181131.696-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/10/21/new-ai-powered-sensor-measures-starlight-distortion-to-help-discover-new-planets/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/21/new-ai-powered-sensor-measures-starlight-distortion-to-help-discover-new-planets/amp/",
-      "publishedDateTime": "2020-10-21T15:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-white-house-nears-new-rules-on-artificial-intelligence.md",
-      "title": "White House Nears New Rules on Artificial Intelligence",
-      "excerpt": "The Trump administration prefers what U.S. Chief Technology Officer Michael Kratsios has called a ‘light-touch’ approach toward regulating AI, to avoid holding back U.S. leadership in the field.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366",
-      "originalUrl": "https://www.wsj.com/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-247890/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366",
-      "publishedDateTime": "2020-10-21T15:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-on-nebraska-innovation-campus-the-combine-incubator-hatches-new-agtech-startups.md",
-      "title": "On Nebraska Innovation Campus, The Combine incubator hatches new agtech startups",
-      "excerpt": "Before Seattle-based Costco broke ground on its $280 million poultry operation in Fremont in 2017, Scott Niewohner remembers a conversation with his cousin about the pros and cons of building barns to raise chickens to supply the plant.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconprairienews.com/2020/10/on-nebraska-innovation-campus-the-combine-incubator-hatches-new-agtech-startups/",
-      "originalUrl": "https://siliconprairienews.com/2020/10/on-nebraska-innovation-campus-the-combine-incubator-hatches-new-agtech-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://siliconprairienews.com/wp-content/uploads/2020/10/combine-shot-1-scaled-e1603316002886.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-21T14:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Silicon Prairie News",
-        "domain": "siliconprairienews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-google-is-reportedly-supplying-ai-technology-to-the-trump-administrations-virtual-border-wall.md",
-      "title": "Google is reportedly supplying AI technology to the Trump administration's virtual border wall",
-      "excerpt": "Documents reportedly show that Google Cloud's technology will be used in tandem with Anduril to erect Trump's virtual border wall.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-trump-virtual-border-wall-anduril-2020-10",
-      "originalUrl": "https://www.businessinsider.com/google-trump-virtual-border-wall-anduril-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f908d59abcd0c0018d68e63?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/google-trump-virtual-border-wall-anduril-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-trump-virtual-border-wall-anduril-2020-10?amp",
-      "publishedDateTime": "2020-10-21T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai.md",
-      "title": "Chip industry is going to need a lot more software to catch Nvidia’s lead in AI",
-      "excerpt": "Topic: Artificial Intelligence  The semiconductor industry is in the midst of a renaissance in chip design and performance improvement, but it will take a lot more software to catch up with graphics chip titan Nvidia,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/",
-      "originalUrl": "https://www.zdnet.com/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/10/21/8c897dbe-8d2e-46d3-bfc3-def8f3ed8e56/nvidia-a100-press-graphic.jpg",
-          "width": 2000,
-          "height": 1296,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/",
-      "publishedDateTime": "2020-10-21T13:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-performing-batch-fraud-predictions-using-amazon-fraud-detector-amazon-s3-and-aws-lambda.md",
-      "title": "Performing batch fraud predictions using Amazon Fraud Detector, Amazon S3, and AWS Lambda",
-      "excerpt": "Amazon Fraud Detector is a fully managed service that makes it easy to identify potentially fraudulent online activities, such as the creation of fake accounts or online payment fraud. Unlike general-purpose machine learning (ML) packages, Amazon Fraud Detector is designed specifically to detect fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/performing-batch-fraud-predictions-using-amazon-fraud-detector-amazon-s3-and-aws-lambda/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/performing-batch-fraud-predictions-using-amazon-fraud-detector-amazon-s3-and-aws-lambda/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/20/1-Architecture-1.jpg",
-          "width": 900,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-21T13:08:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-artificial-intelligence-and-the-antitrust-case-against-google.md",
-      "title": "Artificial intelligence and the antitrust case against Google",
-      "excerpt": "Also key to Google’s power and plans for the future is access to personal data and artificial intelligence. In this story, we take a look at the myriad of ways in which artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/21/artificial-intelligence-and-the-antitrust-case-against-google/",
-      "originalUrl": "https://venturebeat.com/2020/10/21/artificial-intelligence-and-the-antitrust-case-against-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/03/googlereuters.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 784,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/21/artificial-intelligence-and-the-antitrust-case-against-google/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/21/artificial-intelligence-and-the-antitrust-case-against-google/amp/",
-      "publishedDateTime": "2020-10-21T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-activists-build-facial-recognition-to-id-cops-who-hide-their-badges.md",
-      "title": "Activists Build Facial Recognition to ID Cops Who Hide Their Badges",
-      "excerpt": "In order to hold police accountable when they try to hide their identities, a growing number of activists are developing facial recognition tools that identify cops, The New York Times reports — a striking inversion of the way cops tend to use facial recognition on protestors and suspects.",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/activists-build-facial-recognition-id-cops-hide-badges/amp",
-      "originalUrl": "https://futurism.com/activists-build-facial-recognition-id-cops-hide-badges/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2020/10/activists-build-facial-recognition-id-cops-hide-badges-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/activists-build-facial-recognition-id-cops-hide-badges/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/activists-build-facial-recognition-id-cops-hide-badges/amp",
-      "publishedDateTime": "2020-10-21T12:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-saudis-launch-national-artificial-intelligence-strategy.md",
-      "title": "Saudis launch national artificial intelligence strategy",
-      "excerpt": "Saudi Arabia on Wednesday launched a national artificial intelligence strategy aimed at making it a global leader in the field as it seeks to diversify its oil-based economy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/saudi-economy-ai/update-1-saudis-launch-national-artificial-intelligence-strategy-idUSL8N2HC4WS",
-      "originalUrl": "https://www.reuters.com/article/saudi-economy-ai/update-1-saudis-launch-national-artificial-intelligence-strategy-idUSL8N2HC4WS",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538316610&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K17M",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2761LZ",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2761LZ",
-      "publishedDateTime": "2020-10-21T11:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

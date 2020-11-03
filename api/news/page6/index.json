@@ -2,6 +2,438 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-27-how-the-ibm-data-science-and-ai-elite-team-trains-organizations-to-tackle-data-science-faster.md",
+      "title": "How the IBM Data Science and AI Elite team trains organizations to tackle data science faster",
+      "excerpt": "Today, the world looks different — from last year, last month, and even yesterday. The ever-changing status of our surroundings brings new problems, and having the right skills becomes critical to adapting and innovating in the face of these challenges. However, according to The Quant Crunch report,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/10/how-the-ibm-data-science-and-ai-elite-team-trains-organizations-to-tackle-data-science-faster/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/10/how-the-ibm-data-science-and-ai-elite-team-trains-organizations-to-tackle-data-science-faster/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/10/1320_Watson-blog-assets_Data-Scientist_Leadspace_Final-990x498.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-27T14:11:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais.md",
+      "title": "If a robot is conscious, is it OK to turn it off? The moral implications of building true AIs",
+      "excerpt": "Philosophers say now is the time to mull over what qualities should grant an artificially intelligent machine moral standing.",
+      "sourceUrl": null,
+      "webUrl": "https://omaha.com/news/science/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications/article_b32028c8-914e-5795-8c24-6ea2d8784cc1.html",
+      "originalUrl": "https://omaha.com/news/science/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications/article_b32028c8-914e-5795-8c24-6ea2d8784cc1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/b/32/b32028c8-914e-5795-8c24-6ea2d8784cc1/5f986b4ce8335.preview.jpg?crop=1000%2C563%2C0%2C89&resize=1000%2C563&order=crop%2Cresize",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-27T13:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Omaha.com",
+        "domain": "omaha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-apple-buys-self-learning-ai-video-company-to-improve-apps.md",
+      "title": "Apple Buys Self-Learning AI Video Company to Improve Apps",
+      "excerpt": "Apple Inc. acquired a startup specializing in advanced artificial intelligence and computer vision technology that may help the iPhone maker improve its own AI across a number of apps and services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-27/apple-buys-self-learning-ai-video-startup-to-improve-apps",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-27/apple-buys-self-learning-ai-video-startup-to-improve-apps",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3ljJ6nNqEA8/v1/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-27/apple-buys-self-learning-ai-video-startup-to-improve-apps",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-27/apple-buys-self-learning-ai-video-startup-to-improve-apps",
+      "publishedDateTime": "2020-10-27T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-waymo-daimler-to-partner-in-developing-self-driving-semi-trucks.md",
+      "title": "Waymo, Daimler to partner in developing self-driving semi trucks",
+      "excerpt": "Daimler AG's <DAIGn.DE> commercial truck unit and Alphabet Inc's <GOOGL.O> Waymo on Tuesday said they will collaborate on development of self-driving Class 8 semi trucks, applying Waymo's automated system to Daimler's Freightliner Cascadia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/autos-selfdriving-waymo-daimler-int/waymo-daimler-to-partner-in-developing-self-driving-semi-trucks-idUSKBN27C1V0",
+      "originalUrl": "https://www.reuters.com/article/autos-selfdriving-waymo-daimler-int/waymo-daimler-to-partner-in-developing-self-driving-semi-trucks-idUSKBN27C1V0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 284,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538989863&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q17N",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27C1UM",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C1UM",
+      "publishedDateTime": "2020-10-27T12:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-optimizing-costs-for-machine-learning-with-amazon-sagemaker.md",
+      "title": "Optimizing costs for machine learning with Amazon SageMaker",
+      "excerpt": "Applications based on machine learning (ML) can provide tremendous business value. Using ML, we can solve some of the most complex engineering problems that previously were infeasible. One of the advantages of running ML on the AWS Cloud is that you can continually optimize your workloads and reduce",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimizing-costs-for-machine-learning-with-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimizing-costs-for-machine-learning-with-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/13/1-Charts-840x630.jpg",
+          "width": 840,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-27T11:31:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-ai-powered-trading-platform-tickeron-releases-new-swing-trading-ai-robots.md",
+      "title": "AI-Powered Trading Platform Tickeron Releases New Swing Trading AI Robots",
+      "excerpt": "Tickeron, an artificial and human intelligence platform delivering unparalleled trading insights and analysis, has released several new swing trading robots as part of their groundbreaking AI Robots feature.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-powered-trading-platform-tickeron-releases-new-swing-trading-ai-robots-1029726330",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-powered-trading-platform-tickeron-releases-new-swing-trading-ai-robots-1029726330",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-27T11:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-canadians-confidence-in-electric-vehicles-dropping-says-report.md",
+      "title": "Canadians' confidence in electric vehicles dropping, says report",
+      "excerpt": "Most new-car shoppers still lack confidence in electric cars, and a whopping 67 per cent of Canadians haven’t ever driven one, according to a new study by J.D. Power. The J.D. Power 2020 Q1 Mobility Confidence Index Study,",
+      "sourceUrl": null,
+      "webUrl": "https://driving.ca/auto-news/news/canadians-confidence-in-electric-vehicles-dropping-says-report",
+      "originalUrl": "https://driving.ca/auto-news/news/canadians-confidence-in-electric-vehicles-dropping-says-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.prod.postmedia.digital/driving/wp-content/uploads/2020/02/nissan_ev.jpg?w=800&crop=1&strip=all#038;h=260",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://driving.ca/auto-news/news/canadians-confidence-in-electric-vehicles-dropping-says-report/amp",
+      "cdnAmpWebUrl": "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/news/canadians-confidence-in-electric-vehicles-dropping-says-report/amp",
+      "publishedDateTime": "2020-10-27T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "driving.ca",
+        "domain": "driving.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-zomato-digitizes-menus-using-amazon-textract-and-amazon-sagemaker.md",
+      "title": "zomato digitizes menus using Amazon Textract and Amazon SageMaker",
+      "excerpt": "This post is co-written by Chiranjeev Ghai, ML Engineer at zomato. zomato is a global food-tech company based in India. Are you the kind of person who has very specific cravings? Maybe when the mood hits, you don’t want just any kind of Indian food—you want Chicken Chettinad with a side of paratha, and",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/zomato-digitizes-menus-using-amazon-textract-and-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/zomato-digitizes-menus-using-amazon-textract-and-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/19/menu_w_yellow_background.jpg",
+          "width": 900,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-27T10:08:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-3-best-programming-language-to-learn-and-secure-a-job.md",
+      "title": "3 Best Programming Language To Learn And Secure A Job",
+      "excerpt": "Through this course, you will learn complex text processing, file creation, management and manipulation, Object-oriented Programming concepts, simple machine learning and natural language processing. Java is among the most popular programming languages ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/3-best-programming-language-learn-secure-job-3067716",
+      "originalUrl": "https://www.ibtimes.com/3-best-programming-language-learn-secure-job-3067716",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/06/coding-programming-software-engineering.jpg",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/3-best-programming-language-learn-secure-job-3067716?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/3-best-programming-language-learn-secure-job-3067716?amp=1",
+      "publishedDateTime": "2020-10-27T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-ai-cures-data-driven-clinical-solutions-for-covid-19.md",
       "title": "AI Cures: data-driven clinical solutions for Covid-19",
       "excerpt": "The AI Cures Conference: Data-driven Clinical Solutions for Covid-19 described technologies developed in response to the Covid-19 pandemic and new opportunities for AI solutions for clinical management.",
@@ -101,6 +533,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-the-evolving-world-of-fintech-robo-ai-ml-data-analytics-digital-solutions.md",
+      "title": "The Evolving World of FinTech, Robo, AI, ML, Data, Analytics & Digital Solutions",
+      "excerpt": "Hubbis Digital Dialogue delved deeply and intently into the growth of the influence of FinTech in Asia and at the universe of digital solutions being promoted and rolled out across the region’s offshore and onshore wealth management markets,",
+      "sourceUrl": null,
+      "webUrl": "https://hubbis.com/article/the-evolving-world-of-fintech-robo-ai-ml-data-analytics-digital-solutions",
+      "originalUrl": "https://hubbis.com/article/the-evolving-world-of-fintech-robo-ai-ml-data-analytics-digital-solutions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-ap-southeast-1.amazonaws.com/img.hubbis.com/home_middle_optimiser/img/article/cropped/5dadb5afdf30baed67f92c3ff22886d3f565c54c.jpg",
+          "width": 480,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-27T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hubbis",
+        "domain": "hubbis.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -588,49 +1064,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-27-if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais.md",
-      "title": "If a robot is conscious, is it OK to turn it off? The moral implications of building true AIs",
-      "excerpt": "What gives an entity moral standing? The philosopher Peter Singer argues that creatures that can feel pain or suffer have a claim to moral standing. He argues that nonhuman animals have moral standing,",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/news/article/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php",
-      "originalUrl": "https://www.chron.com/news/article/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chron.com/news/amp/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php",
-      "publishedDateTime": "2020-10-27T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-27-alethea-ai-makes-it-easy-to-create-ai-avatars-from-a-single-photo.md",
       "title": "Alethea AI makes it easy to create AI avatars from a single photo",
       "excerpt": "Synthetic humans are a thing of the future, and the latest project to come along in pursuit of that is Alethea AI, a startup that can create photorealistic AI-generated avatars from a single photo.",
@@ -734,21 +1167,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-27-dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration.md",
-      "title": "dotData Announces Enhancement of MLOps Capability with dotData Stream and Amazon SageMaker Integration",
-      "excerpt": "SAN MATEO, Calif., Oct. 27, 2020 /PRNewswire/ -- dotData, a leader in AutoML 2.0 software to help accelerate AI/ML development and operationalization for the enterprise, today announced that ...",
+      "path": "_news/2020-10-27-if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais.md",
+      "title": "If a robot is conscious, is it OK to turn it off? The moral implications of building true AIs",
+      "excerpt": "What is the basis upon which something has rights? What gives an entity moral standing? The philosopher Peter Singer argues that creatures that can feel pain or suffer have a claim to moral standing.",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration-301160215.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration-301160215.html",
+      "webUrl": "https://www.seattlepi.com/news/article/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php",
+      "originalUrl": "https://www.seattlepi.com/news/article/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
           "width": 600,
-          "height": 315,
+          "height": 336,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -756,13 +1189,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T05:38:00-07:00",
+      "ampWebUrl": "https://www.seattlepi.com/news/amp/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php",
+      "cdnAmpWebUrl": "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php",
+      "publishedDateTime": "2020-10-27T06:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "seattlepi.com",
+        "domain": "seattlepi.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -772,457 +1205,7 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-learning-a-second-language-business-benefits-and-how-to-start-a-program.md",
-      "title": "Learning A Second Language: Business Benefits And How To Start A Program",
-      "excerpt": "Language remains a key organizational building block, whether we are distributed all the way across the world or just next door.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2020/10/27/learning-a-second-language-business-benefits-and-how-to-start-a-program/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2020/10/27/learning-a-second-language-business-benefits-and-how-to-start-a-program/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9738fe97804ca61558e810%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2020/10/27/learning-a-second-language-business-benefits-and-how-to-start-a-program/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/10/27/learning-a-second-language-business-benefits-and-how-to-start-a-program/amp/",
-      "publishedDateTime": "2020-10-27T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-first-responder-technologies-completes-alpha-version-of-sentineltm-vision-camera-and-weapon-detection-computer-vision-model.md",
-      "title": "First Responder Technologies Completes Alpha Version of Sentineltm Vision Camera and Weapon Detection Computer Vision Model",
-      "excerpt": "First Responder Technologies Inc. (“First Responder” or the “Company”) (CSE: WPN | OTCQB: WPNNF | FWB: 3WK), a developer of WiFi-based",
-      "sourceUrl": null,
-      "webUrl": "https://www.sharewise.com/us/news_articles/First_Responder_Technologies_Completes_Alpha_Version_of_Sentineltm_Vision_Camera_and_Weapon_Detection_First_Responder_Techs_Inc_irwpresseen_20201027_1123.html",
-      "originalUrl": "https://www.sharewise.com/us/news_articles/First_Responder_Technologies_Completes_Alpha_Version_of_Sentineltm_Vision_Camera_and_Weapon_Detection_First_Responder_Techs_Inc_irwpresseen_20201027_1123.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1rf73nqj6wzfm.cloudfront.net/assets/0125-c6c561f58331c85fbd72996709e8402db48dba8d4cd7beff3c5c75c82fdb64a0.JPG",
-          "width": 3216,
-          "height": 2136,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sharewise.com/us/news_articles/First_Responder_Technologies_Completes_Alpha_Version_of_Sentineltm_Vision_Camera_and_Weapon_Detection_First_Responder_Techs_Inc_irwpresseen_20201027_1123/amp",
-      "cdnAmpWebUrl": "https://www-sharewise-com.cdn.ampproject.org/c/s/www.sharewise.com/us/news_articles/First_Responder_Technologies_Completes_Alpha_Version_of_Sentineltm_Vision_Camera_and_Weapon_Detection_First_Responder_Techs_Inc_irwpresseen_20201027_1123/amp",
-      "publishedDateTime": "2020-10-27T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "sharewise.com",
-        "domain": "sharewise.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-how-ai-can-help-protect-users-from-abusive-and-negative-behavior.md",
-      "title": "How AI can help protect users from abusive and negative behavior",
-      "excerpt": "With the increase in online chat, I set out to learn how AI can help ensure user-generated content is moderated so that all users are safe from abusive and negative behavior. To answer that ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/27/how-ai-can-help-protect-users-from-abusive-and-negative-behavior/",
-      "originalUrl": "https://venturebeat.com/2020/10/27/how-ai-can-help-protect-users-from-abusive-and-negative-behavior/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/GettyImages-1158225795.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/27/how-ai-can-help-protect-users-from-abusive-and-negative-behavior/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/how-ai-can-help-protect-users-from-abusive-and-negative-behavior/amp/",
-      "publishedDateTime": "2020-10-27T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-deci-raises-91-million-to-autonomously-optimize-ai-algorithms.md",
-      "title": "Deci raises $9.1 million to autonomously optimize AI algorithms",
-      "excerpt": "which redesigns AI algorithms to run more efficiently on off-the-shelf processors by leveraging the chips’ available memory. Yet another rival, DarwinAI, uses what it calls generative synthesis ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/27/deci-raises-9-1-million-to-autonomously-optimize-ai-algorithms/",
-      "originalUrl": "https://venturebeat.com/2020/10/27/deci-raises-9-1-million-to-autonomously-optimize-ai-algorithms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/GettyImages-1180684429-e1587555325642.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/27/deci-raises-9-1-million-to-autonomously-optimize-ai-algorithms/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/deci-raises-9-1-million-to-autonomously-optimize-ai-algorithms/amp/",
-      "publishedDateTime": "2020-10-27T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-skan-raises-14-million-to-automate-repetitive-business-processes-with-computer-vision.md",
-      "title": "Skan raises $14 million to automate repetitive business processes with computer vision",
-      "excerpt": "Skan.ai, an AI-enabled process discovery and operational intelligence platform, today closed $14 million in funding. The company says the proceeds will be put toward accelerating Skan’s go-to ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/27/skan-raises-14-million-to-automate-repetitive-business-processes-with-computer-vision/",
-      "originalUrl": "https://venturebeat.com/2020/10/27/skan-raises-14-million-to-automate-repetitive-business-processes-with-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/27/skan-raises-14-million-to-automate-repetitive-business-processes-with-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/skan-raises-14-million-to-automate-repetitive-business-processes-with-computer-vision/amp/",
-      "publishedDateTime": "2020-10-27T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-eightfold-recruiting-software-startup-reaches-1-billion-value.md",
-      "title": "Eightfold Recruiting Software Startup Reaches $1 Billion Value",
-      "excerpt": "Recruiting software startup Eightfold AI said it was valued at $1 billion in a $125 million financing round led by General Catalyst.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-27/eightfold-recruiting-software-startup-reaches-1-billion-value",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-27/eightfold-recruiting-software-startup-reaches-1-billion-value",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwPF2wRC.Ws0/v0/360x-1.jpg",
-          "width": 360,
-          "height": 239,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-27/eightfold-recruiting-software-startup-reaches-1-billion-value",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-27/eightfold-recruiting-software-startup-reaches-1-billion-value",
-      "publishedDateTime": "2020-10-27T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-softserve-achieves-aws-saas-competency-status.md",
-      "title": "SoftServe Achieves AWS SaaS Competency Status",
-      "excerpt": "SoftServe, a leading digital authority and consulting company and Premier Consulting Partner in the Amazon Web Services (AWS) Partner Network (APN), announces it has achieved AWS SaaS Competency status.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-6624e051066646899a781527d9d9b3d7",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-6624e051066646899a781527d9d9b3d7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-what-the-hell-is-reinforcement-learning-and-how-does-it-work.md",
-      "title": "What the hell is reinforcement learning and how does it work?",
-      "excerpt": "Reinforcement learning is a subset of machine learning. It enables an agent to learn through the consequences of actions in a specific environment. It can be used to teach a robot new tricks ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/10/27/what-the-hell-is-reinforcement-learning-and-how-does-it-work-syndication/",
-      "originalUrl": "https://thenextweb.com/neural/2020/10/27/what-the-hell-is-reinforcement-learning-and-how-does-it-work-syndication/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/1-19-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/10/27/what-the-hell-is-reinforcement-learning-and-how-does-it-work-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/27/what-the-hell-is-reinforcement-learning-and-how-does-it-work-syndication/amp/",
-      "publishedDateTime": "2020-10-27T03:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-institutional-bias-and-lower-acceptance-rates-for-women-inside-the-ai-conference-review-process.md",
-      "title": "Institutional bias and lower acceptance rates for women: Inside the AI conference review process",
-      "excerpt": "Interestingly, their research did not find a significant bias toward large tech companies such as Google, Facebook, and Microsoft, which house reputable AI researchers. At first glance ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/10/27/institutional-bias-and-lower-acceptance-rates-for-women-inside-the-ai-conference-review-process-syndication/",
-      "originalUrl": "https://thenextweb.com/neural/2020/10/27/institutional-bias-and-lower-acceptance-rates-for-women-inside-the-ai-conference-review-process-syndication/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/image-24-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/10/27/institutional-bias-and-lower-acceptance-rates-for-women-inside-the-ai-conference-review-process-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/27/institutional-bias-and-lower-acceptance-rates-for-women-inside-the-ai-conference-review-process-syndication/amp/",
-      "publishedDateTime": "2020-10-27T03:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
+        "AI in Robotics",
         "AI"
       ]
     }

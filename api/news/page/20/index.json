@@ -2,6 +2,603 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-10-15-biped-robot-maker-agility-raises-20-million.md",
+      "title": "Biped robot maker Agility raises $20 million",
+      "excerpt": "Agility Robotics said on Thursday it raised $20 million in funding, in a round led by Silicon Valley venture capital firms DCVC and Playground, as two-legged robots start walking out of the lab and into the workplace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-robots-agility-funding-idUSKBN2701GG",
+      "originalUrl": "https://www.reuters.com/article/us-robots-agility-funding-idUSKBN2701GG",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2701GG",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2701GG",
+      "publishedDateTime": "2020-10-15T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-project-euphonias-new-step-1000-hours-of-speech-recordings.md",
+      "title": "Project Euphonia’s new step: 1,000 hours of speech recordings",
+      "excerpt": "Muratcan Cicek, a PhD candidate at UC Santa Cruz, worked as a summer intern on Google’s Project Euphonia, which aims to improve computers’ abilities to understand impaired speech. This work was especially relevant and important for Muratcan, who was born with cerebral palsy and has a severe speech impairment.Before",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/accessibility/project-euphonia-1000-hours-speech-recordings/",
+      "originalUrl": "https://blog.google/outreach-initiatives/accessibility/project-euphonia-1000-hours-speech-recordings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IMG_20191125_155140.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/accessibility/project-euphonia-1000-hours-speech-recordings/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/accessibility/project-euphonia-1000-hours-speech-recordings/amp/",
+      "publishedDateTime": "2020-10-15T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-deep-learning-artificial-intelligence-keeps-an-eye-on-volcano-movements.md",
+      "title": "Deep learning artificial intelligence keeps an eye on volcano movements",
+      "excerpt": "RADAR satellites can collect massive amounts of remote sensing data that can detect ground movements -- surface deformations -- at volcanoes in near real time. These ground movements could signal impending volcanic activity and unrest;",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-10/ps-dla101520.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-10/ps-dla101520.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-fighting-fires-and-floods-with-robotics-ai-and-iot.md",
+      "title": "Fighting Fires and Floods with Robotics, AI, and IoT",
+      "excerpt": "In collaboration with Karen Panetta, an IEEE fellow and dean of Graduate Education at Tufts University’s School of Engineering, the department is using AI for object recognition. The goal is to be able to use a drone or robot that can locate objects in a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation/fighting-fires-and-floods-robotics-ai-and-iot",
+      "originalUrl": "https://www.designnews.com/automation/fighting-fires-and-floods-robotics-ai-and-iot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Feature_0.png",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-udacity-microsoft-launch-nanodegree-programme-to-skill-students.md",
+      "title": "Udacity, Microsoft launch 'Nanodegree' programme to skill students",
+      "excerpt": "The US-based learning platform Udacity on Thursday announced a partnership with Microsoft to launch Microsoft Azure 'Nanodegree' programme, which will strengthen the machine learning (ML ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatvnews.com/technology/news-udacity-microsoft-launch-nanodegree-programme-to-skill-students-657232",
+      "originalUrl": "https://www.indiatvnews.com/technology/news-udacity-microsoft-launch-nanodegree-programme-to-skill-students-657232",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/10/microsoft-1602776417.jpg",
+          "width": 1199,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-udacity-microsoft-launch-nanodegree-programme-to-skill-students-657232",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-udacity-microsoft-launch-nanodegree-programme-to-skill-students-657232",
+      "publishedDateTime": "2020-10-15T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India TV",
+        "domain": "indiatvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-microsoft-says-its-ai-can-describe-images-as-well-as-people-do.md",
+      "title": "Microsoft says its AI can describe images 'as well as people do'",
+      "excerpt": "In 2016, Google said its artificial intelligence could caption images almost as well as humans, with 94 percent accuracy. Now Microsoft says it’s gone even further: Its researchers have built an AI system that’s even more accurate than humans — so much so that it now sits at the top of the leaderboard for the nocaps image captioning benchmark .",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/microsoft-azure-ai-image-captions-humans-150040200.html",
+      "originalUrl": "https://www.engadget.com/microsoft-azure-ai-image-captions-humans-150040200.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F433d7370-0e2d-11eb-bbcd-ab2a0273c3f2&client=amp-blogside-v2&signature=dbd9fffaae827c8ebdd2c9403d7d67468fc636d2",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/microsoft-azure-ai-image-captions-humans-150040200.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-azure-ai-image-captions-humans-150040200.html",
+      "publishedDateTime": "2020-10-15T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-a-practical-guide-to-building-ethical-ai.md",
+      "title": "A Practical Guide to Building Ethical AI",
+      "excerpt": "In this environment, data and AI ethics are business necessities, not academic curiosities. Companies need a clear plan to deal with the ethical quandaries this new tech is introducing.",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2020/10/a-practical-guide-to-building-ethical-ai",
+      "originalUrl": "https://hbr.org/2020/10/a-practical-guide-to-building-ethical-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2020/10/Oct20_15_1164825388.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2020/10/a-practical-guide-to-building-ethical-ai",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/10/a-practical-guide-to-building-ethical-ai",
+      "publishedDateTime": "2020-10-15T08:30:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-machine-learning-uncovers-potential-new-tb-drugs.md",
+      "title": "Machine learning uncovers potential new TB drugs",
+      "excerpt": "Using a machine-learning approach that incorporates uncertainty, MIT researchers identified several promising compounds that target a protein required for the survival of the bacteria that cause tuberculosis.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2020/gaussian-machine-learning-tb-drug-1015",
+      "originalUrl": "https://news.mit.edu/2020/gaussian-machine-learning-tb-drug-1015",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202010/MIT-MachineLearning-01-Press.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-challenges-of-human-pose-estimation-in-ai-powered-fitness-apps.md",
+      "title": "Challenges of Human Pose Estimation in AI-Powered Fitness Apps",
+      "excerpt": "It is a lightweight model developed by Google, using the deep learning framework Tensorflow. Pros: can be run from a browser (JS support) or a native Android or iOS app (using Tensorflow Lite ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/articles/human-pose-estimation-ai-powered-fitness-apps/",
+      "originalUrl": "https://www.infoq.com/articles/human-pose-estimation-ai-powered-fitness-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/articles/human-pose-estimation-ai-powered-fitness-apps/en/headerimage/human-pose-estimation-ai-powered-fitness-apps-h-1602698422037.jpeg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T08:12:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-commentary-savitude-and-stylesage-leverage-ai-machine-learning-in-fashion-retail.md",
+      "title": "Commentary: Savitude and StyleSage leverage AI, machine learning in fashion retail",
+      "excerpt": "Fashion industry incumbents that have failed to adopt technology to strengthen their business models are at significant risk, particularly as the pandemic accelerates a number of trends.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freightwaves.com/news/commentary-savitude-and-stylesage-leverage-ai-machine-learning-in-fashion-retail",
+      "originalUrl": "https://www.freightwaves.com/news/commentary-savitude-and-stylesage-leverage-ai-machine-learning-in-fashion-retail",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2020/10/Savitude.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freightwaves.com/news/commentary-savitude-and-stylesage-leverage-ai-machine-learning-in-fashion-retail/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/commentary-savitude-and-stylesage-leverage-ai-machine-learning-in-fashion-retail/amp",
+      "publishedDateTime": "2020-10-15T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-facial-recognition-in-video-games-comes-with-security-risks-chinese-industry-group-warns.md",
+      "title": "Facial recognition in video games comes with security risks, Chinese industry group warns",
+      "excerpt": "Facial recognition is ubiquitous in China these days, and it is used for everything from making payments to logging into video games. While consumers have become increasingly concerned about the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/abacus/tech/article/3105702/facial-recognition-video-games-comes-security-risks-chinese-industry",
+      "originalUrl": "https://www.scmp.com/abacus/tech/article/3105702/facial-recognition-video-games-comes-security-risks-chinese-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/10/15/339a098a-0ec6-11eb-94e0-02af7fd927c6_image_hires_204950.jpeg?itok=zGoQRDie&v=1602766198",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-knime-and-h2oai-accelerate-and-simplify-end-to-end-data-science-automation.md",
+      "title": "KNIME and H2O.ai Accelerate and Simplify End-to-end Data Science Automation",
+      "excerpt": "KNIME and H2O.ai, the two data science pioneers known for their open source platforms, today announced a strategic partnership that integrates offerin",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201014005706/en/KNIME-and-H2O.ai-Accelerate-and-Simplify-End-to-end-Data-Science-Automation",
+      "originalUrl": "https://www.businesswire.com/news/home/20201014005706/en/KNIME-and-H2O.ai-Accelerate-and-Simplify-End-to-end-Data-Science-Automation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-five-real-ways-artificial-intelligence-is-upleveling-customer-service.md",
+      "title": "Five Real Ways Artificial Intelligence Is Upleveling Customer Service",
+      "excerpt": "There’s no time like the present to start putting some of the amazing AI tools to work for your customer service program.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/15/five-real-ways-artificial-intelligence-is-upleveling-customer-service/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/15/five-real-ways-artificial-intelligence-is-upleveling-customer-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f451f658461ecb30a7fa9b8%2F0x0.jpg",
+          "width": 1200,
+          "height": 771,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/15/five-real-ways-artificial-intelligence-is-upleveling-customer-service/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/15/five-real-ways-artificial-intelligence-is-upleveling-customer-service/amp/",
+      "publishedDateTime": "2020-10-15T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-bisd-schools-win-national-recognition.md",
       "title": "BISD schools win national recognition",
       "excerpt": "The National Center for Urban School Transformation at San Diego State University has named five Brownsville schools as winners of 2020 Best Urban Schools awards including a gold, three silver and a bronze designation.",
@@ -529,592 +1126,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-98point6-nabs-112-million-for-its-ai-powered-telemedicine-platform.md",
-      "title": "98point6 nabs $112 million for its AI-powered telemedicine platform",
-      "excerpt": "98point6, a telemedicine startup whose platform pairs clinicians with AI to provide text-based care, today closed a $119 million venture funding round. The company says it will use the proceeds to ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/15/98point6-nabs-112-million-for-its-ai-powered-telemedicine-platform/",
-      "originalUrl": "https://venturebeat.com/2020/10/15/98point6-nabs-112-million-for-its-ai-powered-telemedicine-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/10/254d1bd4-41d8-4081-8bc9-2f7cb51956b3-e1585848851613.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/15/98point6-nabs-112-million-for-its-ai-powered-telemedicine-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/15/98point6-nabs-112-million-for-its-ai-powered-telemedicine-platform/amp/",
-      "publishedDateTime": "2020-10-15T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-udacity-and-microsoft-partner-up-to-launch-new-machine-learning-program-to-skill-students.md",
-      "title": "Udacity and Microsoft partner up to launch new machine learning program to skill students",
-      "excerpt": "The US-based learning platform Udacity on Thursday announced a partnership with Microsoft to launch Microsoft Azure 'Nanodegree' programme, which will strengthen the machine learn",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/india/news/udacity-partners-with-microsoft-to-launch-nanodegree-programme-to-skill-students/articleshow/78680180.cms",
-      "originalUrl": "https://www.businessinsider.in/india/news/udacity-partners-with-microsoft-to-launch-nanodegree-programme-to-skill-students/articleshow/78680180.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/78680236.cms?height=275&width=412",
-          "width": 412,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.in/india/news/udacity-partners-with-microsoft-to-launch-nanodegree-programme-to-skill-students/amp_articleshow/78680180.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/india/news/udacity-partners-with-microsoft-to-launch-nanodegree-programme-to-skill-students/amp_articleshow/78680180.cms",
-      "publishedDateTime": "2020-10-15T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-lantronix-brings-advanced-ai-and-machine-learning-to-smart-cameras-with-new-open-q-610-som.md",
-      "title": "Lantronix Brings Advanced AI and Machine Learning to Smart Cameras With New Open-Q 610 µSOM ...",
-      "excerpt": "The new Lantronix ultra-compact (50mm x 25mm), production-ready Open-Q 610 μSOM is based on the powerful Qualcomm QCS610 SOC, the latest in the Qualcomm® Vision Intelligence Platform lineup targeting smart cameras with edge computing.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-transportation-equipment-manufacturing-industrial-products-and-services-products-and-services-e68728e1c5882a075073f3030ca7359e",
-      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-transportation-equipment-manufacturing-industrial-products-and-services-products-and-services-e68728e1c5882a075073f3030ca7359e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-sicks-deep-learning-brings-simplicity-to-complex-ai-inspection.md",
-      "title": "SICK’s Deep Learning Brings Simplicity to Complex AI Inspection",
-      "excerpt": "SICK has launched a suite of Deep Learning apps and services to simplify machine vision quality inspection for challenging components, assemblies, surfaces or food produce, especially those that have previously defied automation and remained ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theengineer.co.uk/supplier-network/product/sicks-deep-learning-brings-simplicity-to-complex-ai-inspection/",
-      "originalUrl": "https://www.theengineer.co.uk/supplier-network/product/sicks-deep-learning-brings-simplicity-to-complex-ai-inspection/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://theengineer.markallengroup.com/production/2020/10/im0090846.jpg",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T02:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Engineer",
-        "domain": "theengineer.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-vxg-announces-platform-to-receive-automated-analysis-at-scale-effectively-making-any-camera-a-smart-camera.md",
-      "title": "VXG announces platform to receive automated analysis at scale, effectively making any camera a smart camera",
-      "excerpt": "For an example, one really has to look no further than Amazon Rekognition, which leverages Machine Learning (ML) to make it easy to identify things like objects, people, or text within videos and images. Outside of the technology industry, however ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/tags/video-analytics/news/vxg-announces-platform-receive-automated-analysis-co-14053-ga-co-1537871022-ga-co-1602744794-ga-npr.1602747032.html",
-      "originalUrl": "https://www.sourcesecurity.com/tags/video-analytics/news/vxg-announces-platform-receive-automated-analysis-co-14053-ga-co-1537871022-ga-co-1602744794-ga-npr.1602747032.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://security-img.scdn6.secure.raxcdn.com/news/612/retail-security_1599042170.jpg",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/vxg-announces-platform-receive-automated-analysis-co-14053-ga-co-1537871022-ga-co-1602744794-ga-npr.1602747032.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/vxg-announces-platform-receive-automated-analysis-co-14053-ga-co-1537871022-ga-co-1602744794-ga-npr.1602747032.html",
-      "publishedDateTime": "2020-10-15T02:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards.md",
-      "title": "Self-driving cars can be forced to brake by hijacked billboards",
-      "excerpt": "Security researchers have demonstrated how hijacked billboards could be used to confuse self-driving cars -- forcing them to slam on the brakes, or worse. Autonomous driving systems have come on leaps and bounds in recent years,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/",
-      "originalUrl": "https://www.zdnet.com/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/",
-      "publishedDateTime": "2020-10-15T02:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-using-ai-canadian-city-predicts-who-might-become-homeless.md",
-      "title": "Using AI, Canadian city predicts who might become homeless",
-      "excerpt": "As makeshift tent cities spring up across Canada to house rough sleepers who fear using shelters due to COVID-19, one city is leveraging artificial intelligence (AI) to predict which residents risk becoming homeless.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-canada-homelessness-tech-idUSKBN27013Y",
-      "originalUrl": "https://www.reuters.com/article/us-canada-homelessness-tech-idUSKBN27013Y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27013Y",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27013Y",
-      "publishedDateTime": "2020-10-15T02:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-quick-ai-adoption-essential-for-future-of-work-in-india-says-intel.md",
-      "title": "Quick AI adoption essential for future of work in India, says Intel",
-      "excerpt": "Intel said that Artificial Intelligence is essential to the future of work in a post-pandemic world, with over 90% respondents in a survey considering AI to be essential to their businesses in India",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/technology/quick-ai-adoption-essential-for-future-of-work-in-india-says-intel-120101500680_1.html",
-      "originalUrl": "https://www.business-standard.com/article/technology/quick-ai-adoption-essential-for-future-of-work-in-india-says-intel-120101500680_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2019-06/19/full/1560959403-0446.jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/quick-ai-adoption-essential-for-future-of-work-in-india-says-intel-120101500680_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/quick-ai-adoption-essential-for-future-of-work-in-india-says-intel-120101500680_1.html",
-      "publishedDateTime": "2020-10-15T02:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-south-korean-startup-cochlearai-raises-2-million-series-a-to-detect-the-sounds-missed-by-speech-recognition.md",
-      "title": "South Korean startup Cochlear.ai raises $2 million Series A to detect the sounds missed by speech recognition",
-      "excerpt": "These are all noises Cochlear.ai, a Seoul-based sound recognition startup, is training its SaaS platform to identify. The company’s goal is to develop software that can identify almost any kind ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/15/south-korean-startup-cochlear-ai-raises-2-million-series-a-to-detect-the-sounds-missed-by-speech-recognition/",
-      "originalUrl": "https://techcrunch.com/2020/10/15/south-korean-startup-cochlear-ai-raises-2-million-series-a-to-detect-the-sounds-missed-by-speech-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/cochl_team8.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/15/south-korean-startup-cochlear-ai-raises-2-million-series-a-to-detect-the-sounds-missed-by-speech-recognition/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/15/south-korean-startup-cochlear-ai-raises-2-million-series-a-to-detect-the-sounds-missed-by-speech-recognition/amp/",
-      "publishedDateTime": "2020-10-15T01:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-best-facial-recognition-security-cameras-to-buy-in-2020.md",
-      "title": "Best facial recognition security cameras to buy in 2020",
-      "excerpt": "Select home security cameras have facial recognition, an advanced option that lets you make a database of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-to-buy-in-2020/",
-      "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-to-buy-in-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-to-buy-in-2020/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-to-buy-in-2020/",
-      "publishedDateTime": "2020-10-15T01:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-global-ai-based-edge-computing-chip-industry-research-analysis-by-2020-2025.md",
-      "title": "Global AI based Edge Computing Chip Industry Research Analysis by 2020- 2025",
-      "excerpt": "Global Info Research has recently published a report titled Global AI based Edge Computing Chip Market 2020 by Manufacturers Regions Type and Application Forecast to 2025 The research report provides an in depth explanation of the various factors that are",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2160181/global-ai-based-edge-computing-chip-industry-research-analysis",
-      "originalUrl": "https://www.openpr.com/news/2160181/global-ai-based-edge-computing-chip-industry-research-analysis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/a/Ta15512674_g.jpg",
-          "width": 566,
-          "height": 348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2160181/global-ai-based-edge-computing-chip-industry-research-analysis",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2160181/global-ai-based-edge-computing-chip-industry-research-analysis",
-      "publishedDateTime": "2020-10-15T00:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-deep-learning-system-software-market-current-impact-to-make-big-changes-intel-ibm-google.md",
-      "title": "Deep Learning System Software Market - Current Impact to Make Big Changes | Intel, IBM, Google",
-      "excerpt": "Deep learning system software is primarily used for data extraction and transformation purpose. Deep learning is a part of Artificial Intelligence (AI) technology and uses deep learning algorithms ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1100965377/Deep-Learning-System-Software-Market-Current-Impact-to-Make-Big-Changes-Intel-IBM-Google",
-      "originalUrl": "https://menafn.com/1100965377/Deep-Learning-System-Software-Market-Current-Impact-to-Make-Big-Changes-Intel-IBM-Google",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2020-10/15/i_84b0535e-dimage_story.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T00:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-kb-home-launches-company-wide-ai-powered-chatbot-platform-designed-to-deliver-a-modern-real-time-online-customer-experience.md",
-      "title": "KB Home Launches Company-wide AI-powered Chatbot Platform Designed to Deliver a Modern, Real-time, Online Customer Experience",
-      "excerpt": "KB Home launches company-wide AI-powered chatbot platform designed to deliver a modern, real-time, online customer experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201014005255/en/KB-Home-Launches-Company-wide-AI-powered-Chatbot-Platform-Designed-to-Deliver-a-Modern-Real-time-Online-Customer-Experience/?feedref=JjAwJuNHiystnCoBq_hl-a2-DX8EjssEmMYWAmn7L6JnP4KQ0-VuR_Ed1_p6a8aSQvj2g8ZtgMSWm4nAO4sO4nr0TKd7CILvKt8KtThduJU_d6mxM68GteRxmy6jDm8WOZiG4SwpSv6tLEhMuQ8iTnO1u3OvtUKtPLlU5Ry9otk%3D",
-      "originalUrl": "https://www.businesswire.com/news/home/20201014005255/en/KB-Home-Launches-Company-wide-AI-powered-Chatbot-Platform-Designed-to-Deliver-a-Modern-Real-time-Online-Customer-Experience/?feedref=JjAwJuNHiystnCoBq_hl-a2-DX8EjssEmMYWAmn7L6JnP4KQ0-VuR_Ed1_p6a8aSQvj2g8ZtgMSWm4nAO4sO4nr0TKd7CILvKt8KtThduJU_d6mxM68GteRxmy6jDm8WOZiG4SwpSv6tLEhMuQ8iTnO1u3OvtUKtPLlU5Ry9otk%3D",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201014005255/en/668370/23/New_Logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-14T23:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

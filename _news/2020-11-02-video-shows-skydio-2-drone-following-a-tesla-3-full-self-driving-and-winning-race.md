@@ -273,6 +273,22 @@ related:
         width: 796
         height: 447
         isCached: true
+  - title: "Elon Musk Raises Price of Tesla's Full Self-Driving Package to $10,000 USD"
+    excerpt: "Following through with what Elon Musk has said before, the CEO of Tesla has now announced a price hike for the EV automaker’s Full Self-Driving (FSD) package, bringing it up by $2,000 USD to $10,000 USD."
+    publishedDateTime: 2020-11-03T06:49:00Z
+    webUrl: "https://hypebeast.com/2020/11/tesla-elon-musk-full-self-driving-10000-usd-price-increase-news"
+    ampWebUrl: "https://hypebeast.com/2020/11/tesla-elon-musk-full-self-driving-10000-usd-price-increase-news?amp=1"
+    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/11/tesla-elon-musk-full-self-driving-10000-usd-price-increase-news?amp=1"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 72
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F11%2Ftesla-elon-musk-full-self-driving-10000-usd-price-increase-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
+        width: 1170
+        height: 780
+        isCached: true
   - title: "Tesla is now beta-testing self-driving software on public roads"
     excerpt: "Tesla considers it to be beta software and says it's not intended for fully autonomous operation. Drivers are expected to keep their eyes on the road and hands on the wheel at all times. To understand the new software,"
     publishedDateTime: 2020-10-30T11:45:00Z
@@ -298,38 +314,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 65
-  - title: "Tesla to begin rollout of self-driving beta"
-    excerpt: "Experience the best self-driving car tech with Tesla. Although, the beta version update is only for customers in Early Access Program, everyone will be benefited with high-tech by the end of 2020."
-    publishedDateTime: 2020-10-29T14:12:00Z
-    webUrl: "https://www.technowize.com/tesla-to-begin-rollout-of-self-driving-beta/"
-    ampWebUrl: "https://www.technowize.com/tesla-to-begin-rollout-of-self-driving-beta/amp/"
-    cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/tesla-to-begin-rollout-of-self-driving-beta/amp/"
-    type: article
-    provider:
-      name: Technowize
-      domain: technowize.com
-    quality: 59
-    images:
-      - url: "https://www.technowize.com/wp-content/uploads/2020/10/Tesla-beta-image.png"
-        width: 600
-        height: 600
-        isCached: true
-  - title: "Tesla’s Full Self-Driving $2k price increase takes effect"
-    excerpt: "Driving suite has increased in price by $2,000 from $8,000 to $10,000, as CEO Elon Musk announced last week. Musk announced the price increase last week on the heels of the FSD Beta release on October 20th,"
-    publishedDateTime: 2020-10-29T15:17:00Z
-    webUrl: "https://www.teslarati.com/tesla-full-self-driving-price-2020-10k/"
-    ampWebUrl: "https://www.teslarati.com/tesla-full-self-driving-price-2020-10k/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-full-self-driving-price-2020-10k/amp/"
-    type: article
-    provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 59
-    images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2020/10/tesla-full-self-driving-neural-network-1024x501.jpg"
-        width: 1024
-        height: 501
-        isCached: true
   - title: "Tesla 'full self-driving' vehicles can't drive themselves"
     excerpt: "DETROIT — Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and ..."
     publishedDateTime: 2020-10-30T14:15:00Z
@@ -394,17 +378,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "As Tesla full self-driving goes beta, Autopilot is rated a 'distant second' to GM's Super Cruise"
-    excerpt: "Tesla's Autopilot loses out in the Consumer Reports ratings over its handling of unresponsive drivers. A decade after Google launched its self-driving car project now known as Waymo, the idea of a fully autonomous car remains elusive – even for Tesla owners,"
-    publishedDateTime: 2020-10-29T13:33:00Z
-    webUrl: "https://www.zdnet.com/article/as-tesla-full-self-driving-goes-beta-autopilot-is-rated-a-distant-second-to-gms-super-cruise/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/as-tesla-full-self-driving-goes-beta-autopilot-is-rated-a-distant-second-to-gms-super-cruise/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/as-tesla-full-self-driving-goes-beta-autopilot-is-rated-a-distant-second-to-gms-super-cruise/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 56
   - title: "Tesla Hikes Up the Price of ‘Full Self-Driving’ Option to $US10,000 ($14,241)"
     excerpt: "While the tech powering it is no doubt impressive, to call it “full self-driving” isn’t entirely accurate. Tesla warns users of its beta program that the software still requires vigilant monitoring and that “it may do the wrong thing at the worse ..."
     publishedDateTime: 2020-10-31T01:18:00Z

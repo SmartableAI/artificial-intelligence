@@ -2,6 +2,474 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-26-2021-is-the-time-for-ai-to-shine.md",
+      "title": "2021 is the time for AI to shine",
+      "excerpt": "Companies and C-level leaders will tackle kinks in AI head on in 2021, not because they want to but because they have to.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/2021-is-the-time-for-ai-to-shine/",
+      "originalUrl": "https://www.zdnet.com/article/2021-is-the-time-for-ai-to-shine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/2021-is-the-time-for-ai-to-shine/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2021-is-the-time-for-ai-to-shine/",
+      "publishedDateTime": "2020-10-26T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-commentary-how-japans-abeja-helps-large-companies-operationalize-ai-machine-learning.md",
+      "title": "Commentary: How Japan’s ABEJA helps large companies operationalize AI, machine learning",
+      "excerpt": "ABEJA has developed proprietary tools to ensure that its AI Consulting engagements do not metastasize into endless ordeals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freightwaves.com/news/commentary-how-japans-abeja-helps-large-companies-operationalize-ai-machine-learning",
+      "originalUrl": "https://www.freightwaves.com/news/commentary-how-japans-abeja-helps-large-companies-operationalize-ai-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2020/10/Aoaeh_commentary_102120_1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freightwaves.com/news/commentary-how-japans-abeja-helps-large-companies-operationalize-ai-machine-learning/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/commentary-how-japans-abeja-helps-large-companies-operationalize-ai-machine-learning/amp",
+      "publishedDateTime": "2020-10-26T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-bdo-expands-its-managed-detection-and-response-capabilities-to-support-microsoft-azure-sentinel-clients-and.md",
+      "title": "BDO Expands its Managed Detection and Response Capabilities to Support Microsoft Azure Sentinel Clients and ...",
+      "excerpt": "BDO USA, LLP, one of the nation’s leading accounting and advisory firms, is launching its managed detection and response (MDR) capabilities on Microsoft Azure Sentinel. This expansion of its current MDR portfolio will support Azure Sentinel clients through BDO’s detection and response services,",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailyrecordnews.com/ap_news/business/bdo-expands-its-managed-detection-and-response-capabilities-to-support-microsoft-azure-sentinel-clients-and/article_64b345bf-344a-53b7-816e-43b32ba52bdb.html",
+      "originalUrl": "https://www.dailyrecordnews.com/ap_news/business/bdo-expands-its-managed-detection-and-response-capabilities-to-support-microsoft-azure-sentinel-clients-and/article_64b345bf-344a-53b7-816e-43b32ba52bdb.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/dailyrecordnews.com/content/tncms/custom/image/0ef5f48e-94dc-11e7-8ed4-3365baf52acf.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-26T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ellensburg Daily Record",
+        "domain": "dailyrecordnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-c3ai-microsoft-and-adobe-combine-forces-to-re-invent-crm-with-ai.md",
+      "title": "C3.ai, Microsoft, and Adobe combine forces to re-invent CRM with AI",
+      "excerpt": "Integrate Microsoft Dynamics 365, Adobe ... reinventing a market that Siebel Systems invented more than 25 years ago,” said Thomas M. Siebel, CEO of C3.ai. “The dynamics of the market and the mandates of digital transformation have dramatically changed ...",
+      "sourceUrl": null,
+      "webUrl": "https://cloudblogs.microsoft.com/dynamics365/bdm/2020/10/26/partnering-with-c3-ai-and-adobe-to-re-invent-crm-with-ai/",
+      "originalUrl": "https://news.microsoft.com/2020/10/26/c3-ai-microsoft-and-adobe-combine-forces-to-re-invent-crm-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudblogs.microsoft.com/uploads/prod/sites/4/2020/10/M365CO19_SMB_HPElite_093-scaled.jpg",
+          "width": 2560,
+          "height": 1708,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-26T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-from-beekeepers-to-ocean-mappers-lobe-aims-to-make-it-easy-for-anyone-to-train-machine-learning-models.md",
+      "title": "From beekeepers to ocean mappers, Lobe aims to make it easy for anyone to train machine learning models",
+      "excerpt": "The post From beekeepers to ocean mappers, Lobe aims to make it easy for anyone to train machine learning models appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://blogs.microsoft.com/ai/lobe-machine-learning/",
+      "originalUrl": "https://blogs.microsoft.com/ai/lobe-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/10/lobe-machine-learning-toyon_1200x630-5f96ba640f2e5-1024x538.jpg",
+          "width": 1024,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-26T05:59:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-dont-fear-ai-it-will-lead-to-long-term-job-growth.md",
+      "title": "Don't Fear AI. It Will Lead To Long-Term Job Growth.",
+      "excerpt": "COVID-19 has sped up the automation of many tasks, leading some to fear algorithms will take their jobs. But AI is creating more jobs than it destroys.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/10/26/dont-fear-ai-it-will-lead-to-long-term-job-growth/",
+      "originalUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/10/26/dont-fear-ai-it-will-lead-to-long-term-job-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8fea71775ffb7b81005705%2F0x0.jpg",
+          "width": 1200,
+          "height": 935,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/10/26/dont-fear-ai-it-will-lead-to-long-term-job-growth/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/worldeconomicforum/2020/10/26/dont-fear-ai-it-will-lead-to-long-term-job-growth/amp/",
+      "publishedDateTime": "2020-10-26T01:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-huawei-mate-40s-hisilicon-kirin-9000-chip-is-on-rank-1-in-ai-benchmark.md",
+      "title": "Huawei Mate 40’s HiSilicon Kirin 9000 Chip Is On Rank 1 In AI Benchmark",
+      "excerpt": "Huawei has officially introduced the Mate 40 series. The lineup is the latest flagship of the brand and is featuring top-notch specifications",
+      "sourceUrl": null,
+      "webUrl": "https://www.theindianwire.com/ai/huawei-mate-40s-hisilicon-kirin-9000-chip-is-on-rank-1-in-ai-benchmark-296184/",
+      "originalUrl": "https://www.theindianwire.com/ai/huawei-mate-40s-hisilicon-kirin-9000-chip-is-on-rank-1-in-ai-benchmark-296184/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theindianwire.com/wp-content/uploads/2020/10/SAVE_20201026_015401.jpg",
+          "width": 920,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theindianwire.com/ai/huawei-mate-40s-hisilicon-kirin-9000-chip-is-on-rank-1-in-ai-benchmark-296184/?amp",
+      "cdnAmpWebUrl": "https://www-theindianwire-com.cdn.ampproject.org/c/s/www.theindianwire.com/ai/huawei-mate-40s-hisilicon-kirin-9000-chip-is-on-rank-1-in-ai-benchmark-296184/?amp",
+      "publishedDateTime": "2020-10-26T00:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Wire",
+        "domain": "theindianwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-how-the-rainbow-ai-chatbot-is-tackling-domestic-abuse.md",
+      "title": "How the rAInbow AI chatbot is tackling domestic abuse",
+      "excerpt": "But now a chatbot called rAInbow aimed at South African users is trying to turn this tide. It invites users to take part in quizzes and stories in order to help them better understand what is and is not abuse.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/av/technology-54569878",
+      "originalUrl": "https://www.bbc.com/news/av/technology-54569878",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/images/ic/400xn/p08wf5c1.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-25T23:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-dubai-to-introduce-facial-recognition-system-on-public-transport.md",
+      "title": "Dubai to introduce facial recognition system on public transport",
+      "excerpt": "DUBAI: Dubai is introducing a facial recognition system on public transport to beef up security, officials said on Sunday, as the emirate prepares to host the global Expo exhibition. “This technology has proven its effectiveness to identify suspicious ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dawn.com/news/1587067",
+      "originalUrl": "https://www.dawn.com/news/1587067",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.dawn.com/_img/social-default.jpg",
+          "width": 375,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dawn.com/news/amp/1587067",
+      "cdnAmpWebUrl": "https://www-dawn-com.cdn.ampproject.org/c/s/www.dawn.com/news/amp/1587067",
+      "publishedDateTime": "2020-10-25T20:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dawn",
+        "domain": "dawn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms.md",
+      "title": "How artificial intelligence and machine learning power content-first newsrooms",
+      "excerpt": "By Chris Nguyen, executive vice president, marketing at Naviga Digital is no longer just a nice addition to a newspaper’s success, but an imperative. While print remains a key source of revenue — capturing both subscriptions and advertising — spending too much time on designing and managing printed editions has become an obstacle to digital transformation.",
+      "sourceUrl": null,
+      "webUrl": "https://digiday.com/sponsored/how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms/",
+      "originalUrl": "https://digiday.com/sponsored/how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/digiday.com/wp-content/uploads/2020/10/Digiday_Naviga_Banner_1440X600-1.jpg?fit=682%2C284&ssl=1",
+          "width": 681,
+          "height": 284,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://digiday.com/sponsored/how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms/amp/",
+      "cdnAmpWebUrl": "https://digiday-com.cdn.ampproject.org/c/s/digiday.com/sponsored/how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms/amp/",
+      "publishedDateTime": "2020-10-25T17:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digiday",
+        "domain": "digiday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-dubai-introduces-facial-recognition-on-public-transport.md",
       "title": "Dubai introduces facial recognition on public transport",
       "excerpt": "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. \"This technology has proven its effectiveness to identify suspicious and wanted people,",
@@ -722,471 +1190,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-facial-recognition-market-increasing-instances-of-identity-theft-to-boost-the-market-growth-technavio.md",
-      "title": "Facial Recognition Market | Increasing Instances of Identity Theft to Boost the Market Growth | Technavio",
-      "excerpt": "Technavio has announced its latest market research report titled Global Facial Recognition Market 2020-2024 (Graphic: Business Wire) The facial recognition market research analysis identifies the increasing instances of identity threats as one of the primary growth factors for this market.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-virus-outbreak-biometrics-lung-disease-crime-9929454d476f4533b12c36217c36675e",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-virus-outbreak-biometrics-lung-disease-crime-9929454d476f4533b12c36217c36675e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-23T19:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-can-ai-fix-the-broken-us-presidential-debates.md",
-      "title": "Can AI Fix The Broken U.S. Presidential Debates?",
-      "excerpt": "By contrast, IBM’s Watson analysed 3,500 questions submitted online using a new capability called Key Point Analysis. It’s an AI-based summary developed by the IBM Research Project Debater team.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/2020/10/can-ai-fix-our-broken-debates/",
-      "originalUrl": "https://www.gizmodo.com.au/2020/10/can-ai-fix-our-broken-debates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pedestrian.tv/content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmodo.com.au/2020/10/can-ai-fix-our-broken-debates/amp/",
-      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/10/can-ai-fix-our-broken-debates/amp/",
-      "publishedDateTime": "2020-10-23T18:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo Australia",
-        "domain": "gizmodo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-stethoscopes-electronics-and-artificial-intelligence.md",
-      "title": "Stethoscopes, Electronics, And Artificial Intelligence",
-      "excerpt": "What’s more, since the Hopkins smart stethoscope is a digital instrument, it can serve as input for an artificial intelligence application that automatically analyzes the data for signs of ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2019/02/25/stethoscopes-electronics-and-artificial-intelligence/",
-      "originalUrl": "https://hackaday.com/2019/02/25/stethoscopes-electronics-and-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/02/smart-stethoscopes-featured.jpg",
-          "width": 4350,
-          "height": 2900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-one-key-to-pandemic-retailing-artificial-intelligence.md",
-      "title": "One Key to Pandemic Retailing: Artificial Intelligence",
-      "excerpt": "AI driven by online data and powerful computing has given retailers new abilities to personalize selling and turn on a dime. It will also play an important role after the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/one-key-to-pandemic-retailing-artificial-intelligence-51603500768?link=TD_mansionglobal_new_mansion_global.11147f181987fd93",
-      "originalUrl": "https://www.barrons.com/articles/one-key-to-pandemic-retailing-artificial-intelligence-51603500768?link=TD_mansionglobal_new_mansion_global.11147f181987fd93",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-248999/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/one-key-to-pandemic-retailing-artificial-intelligence-51603500768",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/one-key-to-pandemic-retailing-artificial-intelligence-51603500768",
-      "publishedDateTime": "2020-10-23T16:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-oil-rigs-run-on-ai-twins-point-to-a-future-hastened-by-covid.md",
-      "title": "Oil Rigs Run on AI ‘Twins’ Point to a Future Hastened by Covid",
-      "excerpt": "The coronavirus crisis had a devastating effect on oil-company revenues, but it’s posed a tough human-resources problem too: how to keep workers safe on cramped rigs at sea where social-distancing is impossible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-23/oil-rigs-run-on-ai-twins-point-to-a-future-hastened-by-covid",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-23/oil-rigs-run-on-ai-twins-point-to-a-future-hastened-by-covid",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJQhjkdbxF9g/v0/360x-1.jpg",
-          "width": 360,
-          "height": 236,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-23/oil-rigs-run-on-ai-twins-point-to-a-future-hastened-by-covid",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-23/oil-rigs-run-on-ai-twins-point-to-a-future-hastened-by-covid",
-      "publishedDateTime": "2020-10-23T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-teslas-full-self-driving-is-999-there-just-1000-times-further-to-go.md",
-      "title": "Tesla’s ‘Full Self-Driving’ Is 99.9% There, Just 1,000 Times Further To Go",
-      "excerpt": "This week, Tesla TSLA released a very limited beta of what Elon Musk has referred to as “feature complete full self-driving” to a chosen subset of their early access customers. It also announced a $2,000 increase in the price of the “FSD in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2020/10/23/teslas-full-self-driving-is-999-there-just-1000-times-further-to-go/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2020/10/23/teslas-full-self-driving-is-999-there-just-1000-times-further-to-go/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f934f9b7095aa39d758ff1f%2F0x0.jpg",
-          "width": 1200,
-          "height": 817,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2020/10/23/teslas-full-self-driving-is-999-there-just-1000-times-further-to-go/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/10/23/teslas-full-self-driving-is-999-there-just-1000-times-further-to-go/amp/",
-      "publishedDateTime": "2020-10-23T14:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-deep-science-alzheimers-screening-forest-mapping-drones-machine-learning-in-space-more.md",
-      "title": "Deep Science: Alzheimer’s screening, forest-mapping drones, machine learning in space, more",
-      "excerpt": "Making sure your deep learning network generalizes to data outside its training environment is a key part of any serious ML research. But few attempt to set a model loose on data that’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/23/deep-science-alzheimers-screening-forest-mapping-drones-machine-learning-in-space-more/",
-      "originalUrl": "https://techcrunch.com/2020/10/23/deep-science-alzheimers-screening-forest-mapping-drones-machine-learning-in-space-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/mahmoudian-autonomousLO.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/23/deep-science-alzheimers-screening-forest-mapping-drones-machine-learning-in-space-more/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/23/deep-science-alzheimers-screening-forest-mapping-drones-machine-learning-in-space-more/amp/",
-      "publishedDateTime": "2020-10-23T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-ai-weekly-constructive-ways-to-take-power-back-from-big-tech.md",
-      "title": "AI Weekly: Constructive ways to take power back from Big Tech",
-      "excerpt": "Dr. Noble began by acknowledging that AI systems in social media can pick up, amplify, and deepen existing systems of inequality like racism or sexism. “Those things don’t necessarily start in ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/23/ai-weekly-constructive-ways-to-take-power-back-from-big-tech/",
-      "originalUrl": "https://venturebeat.com/2020/10/23/ai-weekly-constructive-ways-to-take-power-back-from-big-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/time-100-markle-harris-noble-harry.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/23/ai-weekly-constructive-ways-to-take-power-back-from-big-tech/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/23/ai-weekly-constructive-ways-to-take-power-back-from-big-tech/amp/",
-      "publishedDateTime": "2020-10-23T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-watch-early-testers-try-teslas-full-self-driving-mode-for-the-first-time.md",
-      "title": "Watch early testers try Tesla's Full Self-Driving mode for the first time",
-      "excerpt": "On Friday, we finally got a glimpse at a long-awaited feature that Elon Musk rolled out this week for a select group of Tesla owners: Full Self-Driving mode. Only a small group of Tesla-chosen ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/tesla-full-self-driving-early-test-drives/",
-      "originalUrl": "https://mashable.com/video/tesla-full-self-driving-early-test-drives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 228,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F10%252F23%252Fd2%252F48c38dd430d84e6bb64dc47643ea67e7.6a961.jpg%252F1200x630.jpg?signature=Wzt3HAjZm8sE5SgscR16FQXo_fQ=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/video/tesla-full-self-driving-early-test-drives.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/tesla-full-self-driving-early-test-drives.amp",
-      "publishedDateTime": "2020-10-23T11:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-advanced-technologies-of-ai-in-fintech-market-key-drivers-on-going-trends-2020.md",
-      "title": "Advanced Technologies Of AI in Fintech Market Key Drivers & On-Going Trends 2020",
-      "excerpt": "AI in Fintech Market has been riding a progressive growth trail over the recent past The first two quarters of the year 2020 have however witnessed heavy disruptions throughout all the industry facets which are ultimately posing an unprecedented impact",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2170443/advanced-technologies-of-ai-in-fintech-market-key-drivers",
-      "originalUrl": "https://www.openpr.com/news/2170443/advanced-technologies-of-ai-in-fintech-market-key-drivers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/a/Ta23653869_g.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2170443/advanced-technologies-of-ai-in-fintech-market-key-drivers",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2170443/advanced-technologies-of-ai-in-fintech-market-key-drivers",
-      "publishedDateTime": "2020-10-23T11:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

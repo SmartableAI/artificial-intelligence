@@ -57,15 +57,6 @@ related:
         width: 798
         height: 399
         isCached: true
-  - title: "Artificial Intelligence Technology Solutions Renews Largest Dealer Agreement"
-    excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Artificial Intelligence Technology Solutions, Inc. (OTCPK:AITX) is pleased to announce that its wholly-owned subsidiary ..."
-    publishedDateTime: 2020-10-29T14:41:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-renews-largest-dealer-agreement-1029741041"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
   - title: "How the Army plans to revolutionize tanks with artificial intelligence"
     excerpt: "Advanced Targeting and Lethality Aided System, or ATLAS, the U.S. Army hopes to transform the way tank crews operate using artificial intelligence. (U.S. Army)"
     publishedDateTime: 2020-10-29T20:35:00Z

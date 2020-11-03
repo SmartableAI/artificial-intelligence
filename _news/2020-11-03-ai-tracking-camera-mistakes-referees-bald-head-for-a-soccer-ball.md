@@ -72,22 +72,6 @@ related:
         width: 880
         height: 489
         isCached: true
-  - title: "AI Camera Ruins Soccar Game For Fans After Mistaking Referee's Bald Head For Ball"
-    excerpt: "Technology and sports have a fairly mixed relationship already. Log on to Twitter during a soccer match (or football as it's properly known*) and as well a"
-    publishedDateTime: 2020-10-29T14:27:00Z
-    webUrl: "https://www.iflscience.com/technology/ai-camera-ruins-soccar-game-for-fans-after-mistaking-referees-bald-head-for-ball/"
-    ampWebUrl: "https://amp.iflscience.com/technology/ai-camera-ruins-soccar-game-for-fans-after-mistaking-referees-bald-head-for-ball/"
-    cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/ai-camera-ruins-soccar-game-for-fans-after-mistaking-referees-bald-head-for-ball/"
-    type: article
-    provider:
-      name: IFLScience
-      domain: iflscience.com
-    quality: 54
-    images:
-      - url: "https://cdn.iflscience.com/images/011d50c8-2fdd-5e0c-b11f-9072f1a95689/default-1603975163-cover-image.jpg"
-        width: 720
-        height: 405
-        isCached: true
 
 secured: "A0EtJw00JTzkxUv1M3XMVqmVx8J+WbnVgOXpEyEGLMdNKsjBCCRyHNXdmsKjQt92/+EJAA1Jtsq48rhfR5zWiK3HsxE3N5SmeAcPVfQxkxFvfxeE+9HOpxljoObRLe3fg0TkcZ+wd+SW3+rjJfrZI05uNxDdX9bzqway5RLqG3PEHj0H7gKe38klxdzLHzxV1K3ykcPl1E4ZQpgeZnO68d/9pYJar2qCQa3HiaaZ0n2XA50ZQcSjOOJPA7AaFPq1FDbHHXO3NsKdWYHOjuQgynmk/ejQYxcW+MeLRTZXuu9W/25WV40wFcdwO2fU1XJ6vy4DV+32y8doBDshN3a4rou2xUn2aeD7G+ghIfDrk5zRxzfdtxfBfCSBrMcmxjGgDtgWr9qv3k66dGWZFV3Q/r045g1zma11u4/C3B45QfX4iyzmtFvFIs3TXV08A9CHgLZtsNX8p+c3oEy4Xrknk1pmT3qZ41AfVpV9OM5d5/Z7uMCRyW/eEmVe5+QZY68v0ZfZtZah5p8vXUo2kI78Iw==;ZoLSRV4mnRWtp2PV2ptm+Q=="
 ---

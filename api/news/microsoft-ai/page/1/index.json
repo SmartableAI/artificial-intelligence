@@ -97,7 +97,7 @@
       "originalUrl": "https://www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -625,6 +625,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-23-panasonic-expands-cloud-capabilities-for-public-safety-professionals-with-microsoft-azure-government-cloud.md",
+      "title": "Panasonic Expands Cloud Capabilities for Public Safety Professionals with Microsoft Azure Government Cloud",
+      "excerpt": "With IDguard, public safety professionals are able to automate and reduce manual efforts associated with editing sensitive files by up to 90 percent. Panasonic IDguard’s AI and machine learning capabilities build on the Azure Government cloud solution functions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201023005356/en/Panasonic-Expands-Cloud-Capabilities-for-Public-Safety-Professionals-with-Microsoft-Azure-Government-Cloud",
+      "originalUrl": "https://www.businesswire.com/news/home/20201023005356/en/Panasonic-Expands-Cloud-Capabilities-for-Public-Safety-Professionals-with-Microsoft-Azure-Government-Cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201023005356/en/678937/23/Panasonic_Logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-23T07:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365.md",
       "title": "Microsoft and Honeywell collaborate on Azure and Dynamics 365",
       "excerpt": "The manufacturing multinational will be bringing domain-specific applications built on Microsoft's cloud platform to market. More ways to innovate the industrial workplace will also be explored.",
@@ -1097,16 +1140,16 @@
       "title": "AI in Fintech Market May Set New Growth Story | Microsoft, Google, Salesforce.com",
       "excerpt": "Oct 19, 2020<p>Latest Research Study on  Market published by AMA, offers a detailed overview of the factors influencing the global business scope. Global AI in Fintech Market research report shows the latest market insights with upcoming trends and breakdown of the products and services.",
       "sourceUrl": null,
-      "webUrl": "https://menafn.com/1100983759/AI-in-Fintech-Market-May-Set-New-Growth-Story-Microsoft-Google-Salesforcecom?src=Rss",
-      "originalUrl": "https://menafn.com/1100983759/AI-in-Fintech-Market-May-Set-New-Growth-Story-Microsoft-Google-Salesforcecom?src=Rss",
+      "webUrl": "https://menafn.com/1100983759/AI-in-Fintech-Market-May-Set-New-Growth-Story-Microsoft-Google-Salesforcecom",
+      "originalUrl": "https://menafn.com/1100983759/AI-in-Fintech-Market-May-Set-New-Growth-Story-Microsoft-Google-Salesforcecom",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?482561",
-          "width": 380,
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?417299",
+          "width": 299,
           "height": 250,
           "title": null,
           "attribution": null,
@@ -1187,6 +1230,101 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud.md",
+      "title": "IBM's Q3 solid with strength in Red Hat, hybrid cloud",
+      "excerpt": "Cognitive applications were up 1% and cloud sales were up more than 60%. Global business services, which includes consulting, application management and global process services, had revenue of $4 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud/",
+      "originalUrl": "https://www.zdnet.com/article/ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/10/16/64b67a52-7c39-42aa-9676-9c3987ea7e57/thumbnail/1200x675/7538a9bb7ca841a758272e29aa0937f0/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud/",
+      "publishedDateTime": "2020-10-19T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-jake-tapper-pushes-back-when-lara-trump-insists-biden-has-cognitive-decline.md",
+      "title": "Jake Tapper Pushes Back When Lara Trump Insists Biden Has 'Cognitive Decline'",
+      "excerpt": "CNN's Jake Tapper cut short an interview with President Donald Trump's daughter-in-law and campaign adviser, Lara Trump, after she claimed that Democratic nominee Joe Biden suffers from cognitive ...",
+      "sourceUrl": null,
+      "webUrl": "https://people.com/politics/jake-tapper-lara-trump-interview-joe-biden-decline/",
+      "originalUrl": "https://people.com/politics/jake-tapper-lara-trump-interview-joe-biden-decline/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F10%2F19%2Ftapper-trump.jpg",
+          "width": 1500,
+          "height": 781,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://people.com/politics/jake-tapper-lara-trump-interview-joe-biden-decline/?amp=true",
+      "cdnAmpWebUrl": "https://people-com.cdn.ampproject.org/c/s/people.com/politics/jake-tapper-lara-trump-interview-joe-biden-decline/?amp=true",
+      "publishedDateTime": "2020-10-19T12:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "People",
+        "domain": "people.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1274,144 +1412,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-udacity-microsoft-launch-nanodegree-programme-to-skill-students.md",
-      "title": "Udacity, Microsoft launch 'Nanodegree' programme to skill students",
-      "excerpt": "NEW DELHI: The US-based learning platform Udacity on Thursday announced a partnership with Microsoft to launch Microsoft Azure 'Nanodegree' programme, which will strengthen the machine learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/home/education/news/udacity-microsoft-launch-nanodegree-programme-to-skill-students/articleshow/78678554.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/home/education/news/udacity-microsoft-launch-nanodegree-programme-to-skill-students/articleshow/78678554.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-78681044/78681044.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/home/education/news/udacity-microsoft-launch-nanodegree-programme-to-skill-students/amp_articleshow/78678554.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/udacity-microsoft-launch-nanodegree-programme-to-skill-students/amp_articleshow/78678554.cms",
-      "publishedDateTime": "2020-10-15T10:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-udacity-microsoft-launch-nanodegree-programme-to-skill-students.md",
-      "title": "Udacity, Microsoft launch 'Nanodegree' programme to skill students",
-      "excerpt": "The US-based learning platform Udacity on Thursday announced a partnership with Microsoft to launch Microsoft Azure 'Nanodegree' programme, which will strengthen the machine learning (ML ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatvnews.com/technology/news-udacity-microsoft-launch-nanodegree-programme-to-skill-students-657232",
-      "originalUrl": "https://www.indiatvnews.com/technology/news-udacity-microsoft-launch-nanodegree-programme-to-skill-students-657232",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/10/microsoft-1602776417.jpg",
-          "width": 1199,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-udacity-microsoft-launch-nanodegree-programme-to-skill-students-657232",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-udacity-microsoft-launch-nanodegree-programme-to-skill-students-657232",
-      "publishedDateTime": "2020-10-15T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-microsoft-says-its-ai-can-describe-images-as-well-as-people-do.md",
-      "title": "Microsoft says its AI can describe images 'as well as people do'",
-      "excerpt": "In 2016, Google said its artificial intelligence could caption images almost as well as humans, with 94 percent accuracy. Now Microsoft says it’s gone even further: Its researchers have built an AI system that’s even more accurate than humans — so much so that it now sits at the top of the leaderboard for the nocaps image captioning benchmark .",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/microsoft-azure-ai-image-captions-humans-150040200.html",
-      "originalUrl": "https://www.engadget.com/microsoft-azure-ai-image-captions-humans-150040200.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F433d7370-0e2d-11eb-bbcd-ab2a0273c3f2&client=amp-blogside-v2&signature=dbd9fffaae827c8ebdd2c9403d7d67468fc636d2",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/microsoft-azure-ai-image-captions-humans-150040200.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-azure-ai-image-captions-humans-150040200.html",
-      "publishedDateTime": "2020-10-15T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

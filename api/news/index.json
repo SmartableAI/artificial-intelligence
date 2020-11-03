@@ -2,6 +2,144 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-03-security-tradeoffs-in-chips-and-ai-systems.md",
+      "title": "Security Tradeoffs In Chips And AI Systems",
+      "excerpt": "How security affects power and performance, why AI systems are so difficult to secure, and why privacy is a growing consideration.",
+      "sourceUrl": null,
+      "webUrl": "https://semiengineering.com/security-tradeoffs-in-chips-and-ai-systems/",
+      "originalUrl": "https://semiengineering.com/security-tradeoffs-in-chips-and-ai-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/semiengineering.com/wp-content/uploads/Green-lock-AdobeStock_262812904-10-12-20-scaled.jpeg?fit=2560%2C1434&#038;ssl=1",
+          "width": 2560,
+          "height": 1434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-03T00:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-wipro-and-aws-announce-the-launch-of-wipro-aws-business-group.md",
+      "title": "Wipro and AWS announce the launch of Wipro AWS Business Group",
+      "excerpt": "Wipro has announced the launch of Wipro AWS Business Group (WABG), a unit designed to help customers fast-track their cloud transformation journey on AWS.",
+      "sourceUrl": null,
+      "webUrl": "https://www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/",
+      "originalUrl": "https://www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.voicendata.com/wp-content/uploads/2020/10/handshak-image.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/amp/",
+      "cdnAmpWebUrl": "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/amp/",
+      "publishedDateTime": "2020-11-02T23:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Voicendata.com",
+        "domain": "voicendata.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-how-tinyml-makes-artificial-intelligence-ubiquitous.md",
+      "title": "How TinyML Makes Artificial Intelligence Ubiquitous",
+      "excerpt": "TinyML makes AI ubiquitous and accessible to consumers. It will bring intelligence to millions of devices that we use on a daily basis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/11/03/how-tinyml-makes-artificial-intelligence-ubiquitous/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2020/11/03/how-tinyml-makes-artificial-intelligence-ubiquitous/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa0f496620890efe6ac1182%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D999%26cropY1%3D50%26cropY2%3D612",
+          "width": 999,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/11/03/how-tinyml-makes-artificial-intelligence-ubiquitous/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/11/03/how-tinyml-makes-artificial-intelligence-ubiquitous/amp/",
+      "publishedDateTime": "2020-11-02T22:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-facial-recognition-used-to-arrest-protestor-at-trump-bible-photo-op.md",
       "title": "Facial recognition used to arrest protestor at Trump bible photo op",
       "excerpt": "Of course a little known facial recognition tool was used on Black Lives Matter protestors. This past June, as protestors were tear-gassed in Washington D.C.'s Lafayette Square so that Donald ...",
@@ -84,6 +222,57 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-the-work-problems-i-wish-ai-could-solve.md",
+      "title": "The Work Problems I Wish AI Could Solve",
+      "excerpt": "What about a system that automatically rewrites incoming emails to eliminate your co-workers’ unhelpful quirks?",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/the-work-problems-i-wish-ai-could-solve-11604341974",
+      "originalUrl": "https://www.wsj.com/articles/the-work-problems-i-wish-ai-could-solve-11604341974",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-253446/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/the-work-problems-i-wish-ai-could-solve-11604341974",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-work-problems-i-wish-ai-could-solve-11604341974",
+      "publishedDateTime": "2020-11-02T15:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -173,6 +362,48 @@
         "Machine Learning",
         "AI",
         "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-brazil-creates-national-ai-innovation-network.md",
+      "title": "Brazil creates national AI innovation network",
+      "excerpt": "A network of research centers will support startups and established businesses in the development of new products and services based on the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/brazil-creates-national-ai-innovation-network/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/brazil-creates-national-ai-innovation-network/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/brazil-creates-national-ai-innovation-network/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/brazil-creates-national-ai-innovation-network/",
+      "publishedDateTime": "2020-11-02T09:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -509,6 +740,57 @@
         "Computer Vision",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-02-cmos-predict-your-wins-with-ai-and-predictive-analytics.md",
+      "title": "CMOs, Predict Your Wins With AI And Predictive Analytics",
+      "excerpt": "Business intelligence and predictive analytics are the closest measures we have to a crystal ball that shows us how well new strategies and campaigns will perform",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/358890",
+      "originalUrl": "https://www.entrepreneur.com/article/358890",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1604323446-online-3539412.png?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/358890",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/358890",
+      "publishedDateTime": "2020-11-02T05:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -899,307 +1181,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-ai-mistakes-referees-bald-head-for-football-hilarity-ensued.md",
-      "title": "AI mistakes referee’s bald head for football — hilarity ensued",
-      "excerpt": "Top football leagues and teams around the world have TV crews and streaming services at their disposal to broadcast matches to fans across the globe. However, because of the coronavirus pandemic, smaller football teams are relying on AI-powered cameras to cast live matches through YouTube.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/11/02/ai-mistakes-referees-bald-head-for-football-hilarity-ensued/",
-      "originalUrl": "https://thenextweb.com/neural/2020/11/02/ai-mistakes-referees-bald-head-for-football-hilarity-ensued/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/AI-camera-referee-e1604295644927-796x419.jpg",
-          "width": 796,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/11/02/ai-mistakes-referees-bald-head-for-football-hilarity-ensued/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/02/ai-mistakes-referees-bald-head-for-football-hilarity-ensued/amp/",
-      "publishedDateTime": "2020-11-01T23:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-sk-telecom-offers-ai-voice-analysis-for-dementia-diagnosis.md",
-      "title": "SK Telecom offers AI voice analysis for dementia diagnosis",
-      "excerpt": "SK Telecom and Seoul National University College of Medicine have developed an artificial intelligence (AI) tool to help identify dementia earlier.  The AI tool analyses the voices of patients by having a 10-minute conversation with them to determine if they may have dementia,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/sk-telecom-offers-ai-voice-analysis-for-dementia-diagnosis/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/sk-telecom-offers-ai-voice-analysis-for-dementia-diagnosis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/11/02/f80ec592-7c98-46ce-b128-0641996858f7/skt-ai-3.jpg",
-          "width": 1600,
-          "height": 1067,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/sk-telecom-offers-ai-voice-analysis-for-dementia-diagnosis/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/sk-telecom-offers-ai-voice-analysis-for-dementia-diagnosis/",
-      "publishedDateTime": "2020-11-01T21:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-ai-artificial-intelligence-lessons-from-the-world-series.md",
-      "title": "AI (Artificial Intelligence) Lessons From The World Series",
-      "excerpt": "So in light of all this, what are the lessons here? To answer this question, I asked some top people in the AI field and here’s what they had to say: Hindsight is always 20/20, but Cash’s decision to pull Snell illustrates the myopia that can occur when analytics are elevated above commonsense.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/01/ai-artificial-intelligence-lessons-from-the-world-series/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/01/ai-artificial-intelligence-lessons-from-the-world-series/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9ef353188dd3a517f19ceb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2715%26cropY1%3D122%26cropY2%3D1651",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/01/ai-artificial-intelligence-lessons-from-the-world-series/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/11/01/ai-artificial-intelligence-lessons-from-the-world-series/amp/",
-      "publishedDateTime": "2020-11-01T10:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-amd-will-share-more-info-on-radeon-rx-6000-gpus-ray-tracing-and-ai-supersampling-tech.md",
-      "title": "AMD will share more info on Radeon RX 6000 GPU’s Ray Tracing and AI Supersampling tech",
-      "excerpt": "AMD’s Frank Azor just confirmed that AMD will provide more information about ray tracing and AI super sampling tech before the RX 6000 launch date.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dsogaming.com/news/amd-will-share-more-info-on-radeon-rx-6000-gpus-ray-tracing-and-ai-supersampling-tech/",
-      "originalUrl": "https://www.dsogaming.com/news/amd-will-share-more-info-on-radeon-rx-6000-gpus-ray-tracing-and-ai-supersampling-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dsogaming.com/wp-content/uploads/2020/09/AMD-RDNA-2-temp.jpg",
-          "width": 1260,
-          "height": 709,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dsogaming.com/news/amd-will-share-more-info-on-radeon-rx-6000-gpus-ray-tracing-and-ai-supersampling-tech/amp/",
-      "cdnAmpWebUrl": "https://www-dsogaming-com.cdn.ampproject.org/c/s/www.dsogaming.com/news/amd-will-share-more-info-on-radeon-rx-6000-gpus-ray-tracing-and-ai-supersampling-tech/amp/",
-      "publishedDateTime": "2020-11-01T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dark Side Of Gaming",
-        "domain": "dsogaming.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-facebook-research-is-developing-ar-glasses-that-help-deaf-people-hear-better.md",
-      "title": "Facebook research is developing AR glasses that help deaf people hear better",
-      "excerpt": "The research lead for Facebook’s Hearing Science lab tells Digital Trends about the exciting possibilities of AR glasses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/features/facebook-ar-glasses-deaf/",
-      "originalUrl": "https://www.digitaltrends.com/features/facebook-ar-glasses-deaf/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/facebook_hearing_ar3-1200x630-c-ar1.91.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/features/facebook-ar-glasses-deaf/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facebook-ar-glasses-deaf/?amp",
-      "publishedDateTime": "2020-11-01T08:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-01-deep-neural-networks-are-helping-decipher-how-brains-work.md",
-      "title": "Deep Neural Networks Are Helping Decipher How Brains Work",
-      "excerpt": "“I was really pumped,” he said. It would have counted as a noteworthy accomplishment in artificial intelligence alone, one of many that would make neural networks the darlings of AI technology over the next few years. But that wasn’t the main goal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/deep-neural-networks-are-helping-decipher-how-brains-work/",
-      "originalUrl": "https://www.wired.com/story/deep-neural-networks-are-helping-decipher-how-brains-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f9c17ea06e9afd2b38e204b/master/pass/Science_BrainDeepNets-2880x1620-Lede.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/deep-neural-networks-are-helping-decipher-how-brains-work/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/deep-neural-networks-are-helping-decipher-how-brains-work/amp",
-      "publishedDateTime": "2020-11-01T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

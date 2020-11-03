@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/11/02/ai-mistakes-referees-bald-h
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/02/ai-mistakes-referees-bald-head-for-football-hilarity-ensued/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -61,22 +61,6 @@ related:
       - url: "https://eteknix-eteknixltd.netdna-ssl.com/wp-content/uploads/2020/11/2-6.jpg"
         width: 880
         height: 489
-        isCached: true
-  - title: "AI Camera Ruins Soccar Game For Fans After Mistaking Referee's Bald Head For Ball"
-    excerpt: "Technology and sports have a fairly mixed relationship already. Log on to Twitter during a soccer match (or football as it's properly known*) and as well a"
-    publishedDateTime: 2020-10-29T14:27:00Z
-    webUrl: "https://www.iflscience.com/technology/ai-camera-ruins-soccar-game-for-fans-after-mistaking-referees-bald-head-for-ball/"
-    ampWebUrl: "https://amp.iflscience.com/technology/ai-camera-ruins-soccar-game-for-fans-after-mistaking-referees-bald-head-for-ball/"
-    cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/ai-camera-ruins-soccar-game-for-fans-after-mistaking-referees-bald-head-for-ball/"
-    type: article
-    provider:
-      name: IFLScience
-      domain: iflscience.com
-    quality: 54
-    images:
-      - url: "https://cdn.iflscience.com/images/011d50c8-2fdd-5e0c-b11f-9072f1a95689/default-1603975163-cover-image.jpg"
-        width: 720
-        height: 405
         isCached: true
   - title: "AI Tracking Camera Mistakes Referee’s Bald Head for a Soccer Ball"
     excerpt: "AI cameras have come a long way when it comes to object recognition and tracking, but sometimes the \"intelligence\" can fail in humorous ways. At a recent"

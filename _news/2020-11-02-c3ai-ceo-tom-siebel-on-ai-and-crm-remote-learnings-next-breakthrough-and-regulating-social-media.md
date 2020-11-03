@@ -8,7 +8,7 @@ webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/c3-ai-c
 ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
 type: article
-quality: 90
+quality: 92
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI in Sales
+  - Microsoft AI
 
 images:
   - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/10/30/c4d5bd53-7b0e-40fd-a9a3-c7e79b7c49e3/thumbnail/1200x675/68b5f4044e23c638808bfdf57ffda312/20201029-siebel-larry.jpg"
@@ -74,6 +75,6 @@ related:
         height: 357
         isCached: true
 
-secured: "jcBiH3eD0YVH4c68mjjpBFY9osYdxK1GJvyEVzzbtnbvRIeEbRphg00r4YBUIRAjD/qpYhfc4RuSwBjb+LR+uihUzhGtx+Dc500ow4FLq+LFNOkutf0hBJ9rLIabcqFpyFj4fQwzlTywGnH6PTsCEx1icd7zCu4USbEk00g/NIhbuophb9cTDZcWxun4TUQUWlH05k/OcbQ122fT1Oc5eB3LGsyqtN0d1/SSbOL4E3mgbnUKY6acBG+lB+ZScJGXahk6mqfHxiYf+N02uEKKBlgTzTHiYIa87ER8lWSW7+n9J/wT4RF5SjhgEr1RQTD6VmF5fy/Oia2lrJCRqdts9NiGtUKta4aEP/qtB/atnlY=;TwC6qzBhwLw9vDtoz7KoQA=="
+secured: "edLMBnJbEEV1VP0cZug53RgaQRF8rvLC21dDJFEyFBNWT/PY+WgVccEixJK3+zm0VoCvvzuQe9B5Bn3kFWfpMVEl85gMSjlFiffESrY0SuHzsXi8VvLmlvdiTv2SSQy8ewmkP4slbP03lPbB3LV2xu0vieEDO/WRWyrJR+yy0C825uXYSM26w9ifSR7gxNGE4i8b50Ed30EQ1iJHVyI0U5Mlzi8S0DYWGUjHjI/Z8Pd/ux7qPUhkH3azRWpZ4SOEZ+OPEh4tGn7B+xB2Uo3m+BNE2lzq/fPUpBMEYpMUXb2TehWbYHFzNTAxc+7hLEQ5WFi8QgWEB8jTz+MDOU7oKHAPvw1vUeGox9lnpFEiAJvrmvYp6cYmEzvr/sVBt2NZlWEwJHAhaNEhAKGeTSkbKOapMLpQ0BPIHOGysQliPV1GcVmMHZ/WyriVJCt1iU9vEVBB2H5j7iMv6LLvPiqA2FPbkYTBaUablFrsBn9EZrNqAGYkoMlEMV8e/OrVmSKFvQI+uBZ0zzaGf6NOaxTSqA==;fYVRzz6b3Co7U46nb99vpA=="
 ---
 

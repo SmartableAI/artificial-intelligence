@@ -2,6 +2,504 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-10-21-a-harvard-professor-and-his-students-have-raised-14-million-to-quash-adversarial-ai-attacks.md",
+      "title": "A Harvard Professor And His Students Have Raised $14 Million To Quash Adversarial AI Attacks",
+      "excerpt": "Robust Intelligence is leaving stealth with a $14 million funding round led by Sequoia and a plan to become the firewall for the AI age.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kenrickcai/2020/10/21/robust-intelligence-adversarial-machine-learning-series-a-sequoia/",
+      "originalUrl": "https://www.forbes.com/sites/kenrickcai/2020/10/21/robust-intelligence-adversarial-machine-learning-series-a-sequoia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8feb7cc1fbeea0e3cb0c99%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1277%26cropY1%3D75%26cropY2%3D793",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kenrickcai/2020/10/21/robust-intelligence-adversarial-machine-learning-series-a-sequoia/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrickcai/2020/10/21/robust-intelligence-adversarial-machine-learning-series-a-sequoia/amp/",
+      "publishedDateTime": "2020-10-21T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-machine-learning-helps-translate-lost-languages.md",
+      "title": "Machine learning helps translate lost languages",
+      "excerpt": "Researchers at MIT have created a new system that uses machine learning to help linguists decipher languages that have been lost to time. Research suggests that most languages that have ever",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/machine-learning-helps-translate-lost-languages-21643696/",
+      "originalUrl": "https://www.slashgear.com/machine-learning-helps-translate-lost-languages-21643696/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/10/dead-languages.jpg",
+          "width": 1280,
+          "height": 961,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/machine-learning-helps-translate-lost-languages-21643696/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/machine-learning-helps-translate-lost-languages-21643696/amp/",
+      "publishedDateTime": "2020-10-21T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-ibm-is-making-it-easier-to-run-ai-workloads-in-hybrid-clouds.md",
+      "title": "IBM is making it easier to run AI workloads in hybrid clouds",
+      "excerpt": "However, IBM Research, the company's R&D arm, claims to have identified new ways of tackling this problem. During the IEEE CAS/EDS AI Compute Symposium, held earlier today, IBM Research introduced new technology and partnerships that will allow businesses to dynamically run large-scale AI workloads in hybrid clouds.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itproportal.com/news/ibm-is-making-it-easier-to-run-ai-workloads-in-hybrid-clouds/",
+      "originalUrl": "https://www.itproportal.com/news/ibm-is-making-it-easier-to-run-ai-workloads-in-hybrid-clouds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/qfATwf5qVcGjMLuAaDkwx6-1200-80.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itproportal.com/amp/news/ibm-is-making-it-easier-to-run-ai-workloads-in-hybrid-clouds/",
+      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/ibm-is-making-it-easier-to-run-ai-workloads-in-hybrid-clouds/",
+      "publishedDateTime": "2020-10-21T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro Portal",
+        "domain": "itproportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-acuant-prioritized-for-fedramp-jab-authorization-for-assureidtm-connect-ozone-faceid-facial-recognition-system.md",
+      "title": "Acuant Prioritized for FedRAMP JAB Authorization for AssureID(TM) Connect, Ozone® & FaceID Facial Recognition System",
+      "excerpt": "Acuant, a leading global provider of identity verification solutions, today announced that the Federal Risk and Authorization Management Program (FedRAMP) has prioritized their",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/acuant-prioritized-for-fedramp-jab-authorization-for-assureid-tm-connect-ozone-faceid-facial-recognition-system/article_3e74a3d5-b483-5f73-a4dd-b104b7530870.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/acuant-prioritized-for-fedramp-jab-authorization-for-assureid-tm-connect-ozone-faceid-facial-recognition-system/article_3e74a3d5-b483-5f73-a4dd-b104b7530870.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-21T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-saudi-launches-national-artificial-intelligence-strategy.md",
+      "title": "Saudi launches national artificial intelligence strategy",
+      "excerpt": "Saudi Arabia on Wednesday launched a National Strategy for Data and Artificial Intelligence (AI) and will announce several AI partnerships, the head of the Saudi Data and Artificial Intelligence Authority (SDAIA) said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/saudi-economy-ai-int-idUSKBN2761N6",
+      "originalUrl": "https://www.reuters.com/article/saudi-economy-ai-int-idUSKBN2761N6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538316610&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K17M",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2761N6",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2761N6",
+      "publishedDateTime": "2020-10-21T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-former-fortune-100-cto-joins-ai-startup-censia-as-advisor.md",
+      "title": "Former Fortune 100 CTO joins AI Startup Censia as Advisor",
+      "excerpt": "Deborah Leff, former Global Leader and Industry CTO for Data Science and AI at IBM, has joined AI startup Censia as a board member,",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/former-fortune-100-cto-joins-ai-startup-censia-as-advisor-301156613.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/former-fortune-100-cto-joins-ai-startup-censia-as-advisor-301156613.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/997139/Censia_Logo.jpg?p=facebook",
+          "width": 1423,
+          "height": 748,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-21T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space.md",
+      "title": "Hashtag Trending – Google VS the US; Hacking for charity; Microsoft Azure, but in space!",
+      "excerpt": "Google is accused of abusing monopoly powers by the U.S. government, hackers are using cyber crime for good, and Microsoft debuts Azure - in spaaace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/437314",
+      "originalUrl": "https://www.itworldcanada.com/article/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/437314",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2017/07/ht_3000X1668-e1501855285944-620x250.jpg",
+          "width": 620,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/437314?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/437314?amp=1",
+      "publishedDateTime": "2020-10-21T02:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-do-robots-need-a-sense-of-touch.md",
+      "title": "Do Robots Need a Sense of Touch?",
+      "excerpt": "Sensors mimicking human skin may be the key to making robotic hands sense like human hands. According to LUX Research Analyst Lisheng Gao, “A research team developed piezoelectric effect-based sensors that mimic the human somatosensory system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.industryweek.com/technology-and-iiot/article/21144713/do-robots-need-a-sense-of-touch",
+      "originalUrl": "https://www.industryweek.com/technology-and-iiot/article/21144713/do-robots-need-a-sense-of-touch",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/industryweek/image/2020/10/ricardo_gomez_angel_D9kOnC_1AHw_unsplash.5f8729167ca48.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 624,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-21T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IndustryWeek",
+        "domain": "industryweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-microsoft-launches-azure-space-initiative-partners-with-spacex.md",
+      "title": "Microsoft launches Azure Space initiative; partners with SpaceX",
+      "excerpt": "Azure Orbital Emulator is an emulation environment that conducts massive satellite constellation simulations with software and hardware. It's for satellite developers who need to evaluate and train AI algorithms involving satellite networking before ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/microsoft-launches-azure-space-initiative-partners-with-spacex/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/microsoft-launches-azure-space-initiative-partners-with-spacex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 224,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/10/19/d2944b64-469c-4021-bdfa-50348dd6931f/azurespace.jpg",
+          "width": 798,
+          "height": 482,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-launches-azure-space-initiative-partners-with-spacex/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-launches-azure-space-initiative-partners-with-spacex/",
+      "publishedDateTime": "2020-10-21T00:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-women-increasingly-entering-into-artificial-intelligence-and-analytics-domain-heres-why.md",
+      "title": "Women Increasingly Entering into Artificial Intelligence and Analytics Domain, Here’s Why",
+      "excerpt": "A survey by Great Learning explains the reasons behind the growing footsteps of women in the analytics and artificial intelligence industry Great Learning announced the results of a survey conducted by them on the participation and involvement of women in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/women-increasingly-entering-data-science-artificial-intelligence-analytics-domain-heres/",
+      "originalUrl": "https://www.dqindia.com/women-increasingly-entering-data-science-artificial-intelligence-analytics-domain-heres/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2019/04/Artificial-Intelligence-Technology-Futuristic-3262753.jpg",
+          "width": 736,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/women-increasingly-entering-data-science-artificial-intelligence-analytics-domain-heres/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/women-increasingly-entering-data-science-artificial-intelligence-analytics-domain-heres/amp/",
+      "publishedDateTime": "2020-10-21T00:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-shares-up-04.md",
+      "title": "iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO) Shares Up 0.4%",
+      "excerpt": "Shares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO) shot up 0.4% during mid-day trading on Tuesday . The stock traded as high as $34.39 and last traded at $34.17. 90,635 shares traded hands during trading,",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernreaders.com/news/2020/10/21/ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-shares-up-0-4.html",
+      "originalUrl": "https://www.modernreaders.com/news/2020/10/21/ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-shares-up-0-4.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.modernreaders.com/news/2020/10/21/ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-shares-up-0-4.html/amp",
+      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/10/21/ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-shares-up-0-4.html/amp",
+      "publishedDateTime": "2020-10-20T23:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "modernreaders.com",
+        "domain": "modernreaders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-flex-logix-announces-working-silicon-of-fastest-and-most-efficient-ai-edge-inference-chip.md",
       "title": "Flex Logix Announces Working Silicon Of Fastest And Most Efficient AI Edge Inference Chip",
       "excerpt": "Oct. 20, 2020 /PRNewswire/ -- Flex Logix® Technologies, Inc. today announced availability of its InferX™ X1, the industry's fastest AI inference chip for edge systems. InferX X1 accelerates ...",
@@ -680,521 +1178,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-microsoft-azure-announces-its-first-region-in-austria.md",
-      "title": "Microsoft Azure announces its first region in Austria",
-      "excerpt": "Microsoft today announced its plans to launch a new data center region in Austria, its first in the country. With nearby Azure regions in Switzerland, Germany, France and a planned new region in northern Italy,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/20/microsoft-azure-announces-its-first-region-in-austria/",
-      "originalUrl": "https://techcrunch.com/2020/10/20/microsoft-azure-announces-its-first-region-in-austria/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1069481166.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/20/microsoft-azure-announces-its-first-region-in-austria/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/20/microsoft-azure-announces-its-first-region-in-austria/amp/",
-      "publishedDateTime": "2020-10-20T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-google-revives-its-ai-fueled-photo-printing-service.md",
-      "title": "Google revives its AI-fueled photo printing service",
-      "excerpt": "Google Photos has brought back its AI-based printing service, giving you automatically selected pictures every month.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/google-photos-ai-premium-printing-service-160034151.html",
-      "originalUrl": "https://www.engadget.com/google-photos-ai-premium-printing-service-160034151.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F4c599950-12d0-11eb-9f9b-8077da8b7d89&client=amp-blogside-v2&signature=5dc345d4a77976a8475ae83397463c92c5841af3",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/google-photos-ai-premium-printing-service-160034151.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-photos-ai-premium-printing-service-160034151.html",
-      "publishedDateTime": "2020-10-20T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-microsoft-details-t-urlv2-model-that-can-translate-between-94-languages.md",
-      "title": "Microsoft details T-URLv2 model that can translate between 94 languages",
-      "excerpt": "The same week Facebook open-sourced M2M-100, an AI model that can translate between over 100 languages, Microsoft detailed an algorithm of its own — Turing Universal Language Representation (T ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/20/microsoft-details-t-urlv2-model-that-can-translate-between-94-languages/",
-      "originalUrl": "https://venturebeat.com/2020/10/20/microsoft-details-t-urlv2-model-that-can-translate-between-94-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/12/microsoft-azure-new-logo-2017-e1572843284943.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/20/microsoft-details-t-urlv2-model-that-can-translate-between-94-languages/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/20/microsoft-details-t-urlv2-model-that-can-translate-between-94-languages/amp/",
-      "publishedDateTime": "2020-10-20T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-microsoft-announces-azure-space-along-with-new-partnership-with-spacex.md",
-      "title": "Microsoft announces Azure Space along with new partnership with SpaceX",
-      "excerpt": "Microsoft today announced that it’s making its Azure cloud-computing services to the space industry. As a part of this announcement, the company also revealed a new partnership with SpaceX to",
-      "sourceUrl": null,
-      "webUrl": "https://www.onmsft.com/news/microsoft-announces-azure-space-along-with-new-partnership-with-spacex",
-      "originalUrl": "https://www.onmsft.com/news/microsoft-announces-azure-space-along-with-new-partnership-with-spacex",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.onmsft.com/wp-content/uploads/2020/10/Microsoft-Azure-Space.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-20T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "On MSFT",
-        "domain": "onmsft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-ai-fairness-isnt-just-an-ethical-issue.md",
-      "title": "AI Fairness Isn’t Just an Ethical Issue",
-      "excerpt": "We need to start looking at eliminating AI bias less as merely a “nice thing to do,” and more as an economic and competitive imperative. Business leaders take note: By making our AI systems ...",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2020/10/ai-fairness-isnt-just-an-ethical-issue",
-      "originalUrl": "https://hbr.org/2020/10/ai-fairness-isnt-just-an-ethical-issue",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2020/10/Oct20_20_1219846824.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hbr.org/amp/2020/10/ai-fairness-isnt-just-an-ethical-issue",
-      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/10/ai-fairness-isnt-just-an-ethical-issue",
-      "publishedDateTime": "2020-10-20T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-stampli-an-invoice-management-software-startup-launches-a-payments-product.md",
-      "title": "Stampli, an invoice management software startup, launches a payments product",
-      "excerpt": "Stampli, a collaborative invoice management software company, introduced a payments product today called Stampli Direct Pay. The startup launched back in 2015 with a mission to simplify invoice management through collaboration (and a dash of AI).",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/20/stampli-an-invoice-management-software-startup-launches-a-payments-product/",
-      "originalUrl": "https://techcrunch.com/2020/10/20/stampli-an-invoice-management-software-startup-launches-a-payments-product/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/Stampli-co-Founders-Ofer-Feldman-L-and-Eyal-FeldmanR.png?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/20/stampli-an-invoice-management-software-startup-launches-a-payments-product/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/20/stampli-an-invoice-management-software-startup-launches-a-payments-product/amp/",
-      "publishedDateTime": "2020-10-20T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-ntt-data-study-finds-organizations-underestimate-the-ethical-challenges-of-ai.md",
-      "title": "NTT DATA Study Finds Organizations Underestimate the Ethical Challenges of AI",
-      "excerpt": "NTT DATA Services, a digital business and IT services leader, today announced the results of a new study with Oxford Economics that assesses progress, concerns and use cases for Artificial Intelligence (AI) and automation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201020005741/en/NTT-DATA-Study-Finds-Organizations-Underestimate-the-Ethical-Challenges-of-AI",
-      "originalUrl": "https://www.businesswire.com/news/home/20201020005741/en/NTT-DATA-Study-Finds-Organizations-Underestimate-the-Ethical-Challenges-of-AI",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201020005741/en/831578/23/NTT-DATA-Logo-HumanBlue.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-20T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-4iq-raises-30-million-for-ai-that-attacks-the-trade-in-stolen-digital-identities.md",
-      "title": "4iQ raises $30 million for AI that attacks the trade in stolen digital identities",
-      "excerpt": "Digital identity protection startup 4iQ today announced a $30 million round it will use to ramp up investments in its go-to-market activities.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/20/4iq-raises-30-million-for-ai-that-identifies-compromised-digital-identities/",
-      "originalUrl": "https://venturebeat.com/2020/10/20/4iq-raises-30-million-for-ai-that-identifies-compromised-digital-identities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1065824694-1-e1579193201293.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/20/4iq-raises-30-million-for-ai-that-identifies-compromised-digital-identities/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/20/4iq-raises-30-million-for-ai-that-identifies-compromised-digital-identities/amp/",
-      "publishedDateTime": "2020-10-20T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-all-the-new-ai-powered-features-adobe-announced-for-its-creative-suite.md",
-      "title": "All the new AI-powered features Adobe announced for its creative suite",
-      "excerpt": "Adobe is holding its virtual conference, Max, today, and it has announced a ton of updates to its products, from Photoshop to Illustrator and Premier Pro to Fresco. A lot of these features such as Sky Replacement in Photoshopped are powered by Adobe’s Sensei AI technology.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/10/20/all-the-new-ai-powered-features-adobe-announced-for-its-creative-suite/",
-      "originalUrl": "https://thenextweb.com/neural/2020/10/20/all-the-new-ai-powered-features-adobe-announced-for-its-creative-suite/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Photoshop-AI-796x418.jpg",
-          "width": 796,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/10/20/all-the-new-ai-powered-features-adobe-announced-for-its-creative-suite/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/20/all-the-new-ai-powered-features-adobe-announced-for-its-creative-suite/amp/",
-      "publishedDateTime": "2020-10-20T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-juniper-to-spur-ai-based-solutions-with-128-technology-buyout.md",
-      "title": "Juniper to Spur AI-Based Solutions With 128 Technology Buyout",
-      "excerpt": "Juniper Networks, Inc. JNPR has inked an agreement to acquire smart wide area networking startup — 128 Technology, Inc. — for $450 million. Through the deal, the network products and services provider aims to expand its footprint in the AI-driven enterprise solutions market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/juniper-to-spur-ai-based-solutions-with-128-technology-buyout-2020-10-20",
-      "originalUrl": "https://www.nasdaq.com/articles/juniper-to-spur-ai-based-solutions-with-128-technology-buyout-2020-10-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/juniper-to-spur-ai-based-solutions-with-128-technology-buyout-2020-10-20?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/juniper-to-spur-ai-based-solutions-with-128-technology-buyout-2020-10-20?amp",
-      "publishedDateTime": "2020-10-20T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-biped-robot-maker-agility-raises-20-million.md",
-      "title": "Biped robot maker Agility raises $20 million",
-      "excerpt": "(Reuters) - Agility Robotics said on Thursday it raised $20 million in funding, in a round led by Silicon Valley venture capital firms DCVC and Playground, as two-legged robots start walking out ...",
-      "sourceUrl": null,
-      "webUrl": "https://fr.reuters.com/article/us-robots-agility-funding-idUSKBN2701GG",
-      "originalUrl": "https://fr.reuters.com/article/us-robots-agility-funding-idUSKBN2701GG",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2701GG",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2701GG",
-      "publishedDateTime": "2020-10-20T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

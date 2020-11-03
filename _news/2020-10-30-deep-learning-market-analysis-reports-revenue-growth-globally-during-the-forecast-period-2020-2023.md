@@ -6,8 +6,8 @@ publishedDateTime: 2020-10-30T08:01:00Z
 originalUrl: "https://www.marketwatch.com/press-release/deep-learning-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2020-2023-2020-10-30"
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2020-2023-2020-10-30"
 type: article
-quality: 55
-heat: 85
+quality: 57
+heat: 87
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

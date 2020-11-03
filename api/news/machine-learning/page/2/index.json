@@ -2,6 +2,103 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-27-microsoft-develops-new-machine-learning-model-to-detect-password-spray-attacks.md",
+      "title": "Microsoft develops new machine learning model to detect password spray attacks",
+      "excerpt": "Microsoft has developed a new machine learning model in order to autonomously detect password spray attacks. The model has vastly improved performance compared to its previous heuristic mechanism.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-develops-new-machine-learning-model-to-detect-password-spray-attacks",
+      "originalUrl": "https://www.neowin.net/news/microsoft-develops-new-machine-learning-model-to-detect-password-spray-attacks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2015/04/shutterstock_222320305a_story.jpg",
+          "width": 760,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-develops-new-machine-learning-model-to-detect-password-spray-attacks/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-develops-new-machine-learning-model-to-detect-password-spray-attacks/",
+      "publishedDateTime": "2020-10-26T21:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-2021-is-the-time-for-ai-to-shine.md",
+      "title": "2021 is the time for AI to shine",
+      "excerpt": "Companies and C-level leaders will tackle kinks in AI head on in 2021, not because they want to but because they have to.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/2021-is-the-time-for-ai-to-shine/",
+      "originalUrl": "https://www.zdnet.com/article/2021-is-the-time-for-ai-to-shine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/2021-is-the-time-for-ai-to-shine/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2021-is-the-time-for-ai-to-shine/",
+      "publishedDateTime": "2020-10-26T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-commentary-how-japans-abeja-helps-large-companies-operationalize-ai-machine-learning.md",
       "title": "Commentary: How Japan’s ABEJA helps large companies operationalize AI, machine learning",
       "excerpt": "ABEJA has developed proprietary tools to ensure that its AI Consulting engagements do not metastasize into endless ordeals.",
@@ -1334,83 +1431,6 @@
         "AI",
         "Machine Learning",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-new-ai-machine-learning-gains-a-toehold-on-synthetic-biology.md",
-      "title": "New AI Machine Learning Gains a Toehold on Synthetic Biology",
-      "excerpt": "The scientific study of life and living organisms, biology, is a complicated endeavor, as is the engineering field of synthetic biology. Synthetic biology is the science of creating or redesigning new biological systems found in nature.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/gb/blog/the-future-brain/202010/new-ai-machine-learning-gains-toehold-synthetic-biology",
-      "originalUrl": "https://www.psychologytoday.com/gb/blog/the-future-brain/202010/new-ai-machine-learning-gains-toehold-synthetic-biology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2020-10/pic0092.jpg?itok=rqI8-ytS",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/gb/blog/the-future-brain/202010/new-ai-machine-learning-gains-toehold-synthetic-biology?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/gb/blog/the-future-brain/202010/new-ai-machine-learning-gains-toehold-synthetic-biology?amp",
-      "publishedDateTime": "2020-10-18T20:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-are-we-overly-infatuated-with-deep-learning.md",
-      "title": "Are We Overly Infatuated with Deep Learning?",
-      "excerpt": "The love affair with deep learning runs deep. After all, deep learning is responsible for much of the advancements in machine learning we’ve realized in the past decade. But are we overly infatuated with deep learning? Read Ronald Schmelzer’s article ...",
-      "sourceUrl": null,
-      "webUrl": "https://ctovision.com/are-we-overly-infatuated-with-deep-learning-2/",
-      "originalUrl": "https://ctovision.com/are-we-overly-infatuated-with-deep-learning-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ctovision.com",
-        "domain": "ctovision.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

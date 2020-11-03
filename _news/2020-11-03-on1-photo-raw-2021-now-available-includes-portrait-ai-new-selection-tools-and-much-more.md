@@ -9,7 +9,7 @@ ampWebUrl: "https://m.dpreview.com/news/0914848360/on1-photo-raw-2021-now-availa
 cdnAmpWebUrl: "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/0914848360/on1-photo-raw-2021-now-available-includes-portrait-ai-new-selection-tools-and-much-more.amp"
 type: article
 quality: 48
-heat: 58
+heat: 48
 published: false
 
 provider:

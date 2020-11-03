@@ -40,7 +40,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 90
+    quality: 92
     images:
       - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/10/30/c4d5bd53-7b0e-40fd-a9a3-c7e79b7c49e3/thumbnail/1200x675/68b5f4044e23c638808bfdf57ffda312/20201029-siebel-larry.jpg"
         width: 1200

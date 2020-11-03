@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/amp/"
 type: article
 quality: 109
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -79,20 +79,6 @@ related:
       - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
         width: 600
         height: 600
-        isCached: true
-  - title: "Microsoft’s Intriguing Partnership With Tom Siebel’s C3 AI"
-    excerpt: "I’m publishing this series to discuss a topic that I follow closely - cloud stocks, trends, strategy, acquisitions, and more. Please subscribe to my Cloud Stock Analysis series and never miss an article."
-    publishedDateTime: 2020-10-29T15:27:00Z
-    webUrl: "https://www.linkedin.com/pulse/microsofts-intriguing-partnership-tom-siebels-c3-ai-sramana-mitra"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEk3c2TKNcTpA/article-cover_image-shrink_600_2000/0?e=1609372800&v=beta&t=7VyRNuBZBXsYjrH0kpMP0xfLa6Uy3l71gBnfVVW_xiA"
-        width: 640
-        height: 480
         isCached: true
 
 secured: "ZgTEPJbGZgrjcBr0/3fvajKwBsIt0XJwP3myOGJb2vW9SQhy1gfHfU6Y1vCiwvc5u8wV5EZ0rryW4cLZt1c+zHBAwXkEiEsyeiwhmx0padAzGqFDYOFdx8D1Vv7YcFmkV6zD7+I3jFMKI/ft/ZLU6toHYsIuFPI+JhdARsZZLp6kSu0UdwfkGgnbFL42GSlB0PlRGSlIKX9eqnMmQl2KtgsnOt2bWV8xo96QKwIh2miBqbKUdaNkUz0S0lgbzW3uLm24Smmbf1WXtzyCUeK/lfKrv0rzrYWmwLJ+2LkeZYyAtrQo2e3iAL+4uNtET+s560q1v1dOCAQAFEVfs5vyt49JWoo+NeJjMvT8AY5XRCH8dHv8FYfJCsb7MO6YyzR1BRI3E1jqXho1v749hnWA5c3jVPq2BdIYwCy9n7ef8rVQ55lnbZDzqh5fABO63QUepYw/xyT0Gi7nNXfOdUMj56MhgvYS9IIfxj8OAHdvslLwSBxptmRHFQsQ0bcKVTIJQZnGLvzaJyUsdNAVvUSeUg==;n6Do6wDLjmQCZ4WzwyH3Dw=="

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-03-security-tradeoffs-in-chips-and-ai-systems.md",
+      "title": "Security Tradeoffs In Chips And AI Systems",
+      "excerpt": "How security affects power and performance, why AI systems are so difficult to secure, and why privacy is a growing consideration.",
+      "sourceUrl": null,
+      "webUrl": "https://semiengineering.com/security-tradeoffs-in-chips-and-ai-systems/",
+      "originalUrl": "https://semiengineering.com/security-tradeoffs-in-chips-and-ai-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/semiengineering.com/wp-content/uploads/Green-lock-AdobeStock_262812904-10-12-20-scaled.jpeg?fit=2560%2C1434&#038;ssl=1",
+          "width": 2560,
+          "height": 1434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-03T00:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2020-11-02-ambarella-launches-computer-vision-chips-for-edge-ai.md",
       "title": "Ambarella launches computer vision chips for edge AI",
       "excerpt": "Chip designer Ambarella has announced a new computer vision chip for artificial intelligence at the edge of a computer network.",
@@ -1432,49 +1476,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-europe-unveils-4-new-ai-supercomputers-based-on-nvidia-architecture.md",
-      "title": "Europe unveils 4 new AI supercomputers based on Nvidia architecture",
-      "excerpt": "Computer graphics chipmaker Nvidia Corp. said today the European High-Performance Computing Joint Undertaking is using its accelerated computing platforms and architecture to build four new supercomputers that will propel Europe to the forefront of supercomputing research.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2020/10/15/europe-unveils-4-new-ai-supercomputers-based-nvidia-architecture/",
-      "originalUrl": "https://siliconangle.com/2020/10/15/europe-unveils-4-new-ai-supercomputers-based-nvidia-architecture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/CinecaHQ.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

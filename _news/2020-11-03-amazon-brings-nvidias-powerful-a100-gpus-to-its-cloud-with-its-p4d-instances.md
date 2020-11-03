@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2020/11/02/amazon-brings-nvidias-powerful
 webUrl: "https://siliconangle.com/2020/11/02/amazon-brings-nvidias-powerful-a100-gpus-cloud-p4d-instances/"
 type: article
 quality: 23
-heat: 33
+heat: 23
 published: false
 
 provider:

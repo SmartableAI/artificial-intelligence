@@ -1,17 +1,17 @@
 ---
 category: news
 title: "If a robot is conscious, is it OK to turn it off? The moral implications of building true AIs"
-excerpt: "What gives an entity moral standing? The philosopher Peter Singer argues that creatures that can feel pain or suffer have a claim to moral standing. He argues that nonhuman animals have moral standing,"
-publishedDateTime: 2020-10-27T13:08:00Z
-originalUrl: "https://www.chron.com/news/article/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php"
-webUrl: "https://www.chron.com/news/article/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php"
-ampWebUrl: "https://www.chron.com/news/amp/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php"
+excerpt: "What is the basis upon which something has rights? What gives an entity moral standing? The philosopher Peter Singer argues that creatures that can feel pain or suffer have a claim to moral standing."
+publishedDateTime: 2020-10-27T13:02:00Z
+originalUrl: "https://www.seattlepi.com/news/article/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php"
+webUrl: "https://www.seattlepi.com/news/article/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php"
+ampWebUrl: "https://www.seattlepi.com/news/amp/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php"
+cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php"
 type: article
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: seattlepi.com
+  domain: seattlepi.com
 
 topics:
   - AI in Robotics
@@ -23,6 +23,6 @@ images:
     height: 336
     isCached: true
 
-secured: "SrXD2tvrwZBauEvhJwdunxxm2nm7DPJwQKrKxObZqh4hS5MrkfIA6poUV3q73DjAg5R+XVvp4r9zSDUDX5azRDpMVj+yk4owl3b99z1bsOi35gxROPNDijvzSc5haw6hv+iUslE8ID8pmP8OaQHSudzmG4CIyvZ58dRd96fNQOxSVPB5AVRqlFbP3kV5hiEs1aJCiJ2p8ep/v4hLphTlXlo3dFgcyv/PnAnb9lRhBXlh5AfQhr1Xk1cXPqYE3NlfNZsnsweUgtCEY6hkRrux3o/WNsLQU1csIx10HLFv7Hu2daYNwW4S19L3hB0/0W4UOLMNuwbWYttGOut/Qs8WIbbBXBgI4gm96uWT0NMk1kQ=;Lb8kz4+TFG1QE099VH5hVQ=="
+secured: "/tnv5x7Cwc5n3OngG37NecCftrOzGPpoafaDImnN1Jz1KfqhwzbaOXHkeGuUhuPsH8W6D5WYEK6OQ3JGNhrFTd1lvMMsDPe/rgUp/0M81dsWPdJjBbTkLSmIbtm10b8Ugur3ulmDBZxOwk8IzX7AmvONjpVIqlz75u9aqPqBP2MEAIeWwAjdDOTu8MdeJjkYunqDdgdkF91IbtMoCVW/OTNPFVhoozSglCdd8t7Xl4zELoiSe2XDLLdSFz6V8fYhet1f8FTVZatEIo8x+MzDJzn9V7fUyXScYZn+PgvL9Qf7keRGtDlI76kusA6W4tLJZrzMZwRRn8s+kmHCb8Ep0ZnpEXrXfMi6S3RPzwcAWpM=;kxiButCfg5y777R6EuEvTQ=="
 ---
 

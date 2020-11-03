@@ -74,20 +74,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Microsoft’s Intriguing Partnership With Tom Siebel’s C3 AI"
-    excerpt: "I’m publishing this series to discuss a topic that I follow closely - cloud stocks, trends, strategy, acquisitions, and more. Please subscribe to my Cloud Stock Analysis series and never miss an article."
-    publishedDateTime: 2020-10-29T15:27:00Z
-    webUrl: "https://www.linkedin.com/pulse/microsofts-intriguing-partnership-tom-siebels-c3-ai-sramana-mitra"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEk3c2TKNcTpA/article-cover_image-shrink_600_2000/0?e=1609372800&v=beta&t=7VyRNuBZBXsYjrH0kpMP0xfLa6Uy3l71gBnfVVW_xiA"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "CBZB9/Xmr3IWJTv0QRvNuchmFCjGeVNrNysK59lgYNyVN5mFUnSntv9awPbSHz31LVz8SpZNVlMraQJkmzD5vgM3ZLX8hEt3xmsinla408ivr9t9Zk+5LcL6B45//CjjIMZplDlFnEd9399sLPWlJ4ufKzuhUO2dooqgX3AA7Uk+HxzwcobFUOB6kQfM7PmzEk5Ec8GwZSUvTCN8SoqXIDhBqbRcNW6P9i/XkY0+ZmxCSf2RVLVUZmpHqKRmhUW70mip/dhscwBnkZXDEtOyARWBm5CbxJqval4fIU0pKJN+3vQb/rLY5Dbv3CU1ATyJhTUVak0hqUVP4jmSrk9g5jsi4diYcW8k33n+zbB9sww=;yLAmVUoioCo/RTIbMA6Omg=="
 ---

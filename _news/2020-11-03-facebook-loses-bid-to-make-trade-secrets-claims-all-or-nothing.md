@@ -24,6 +24,22 @@ images:
     height: 372
     isCached: true
 
+related:
+  - title: "HSRC and Facebook name awardees for their request for proposals"
+    excerpt: "The Human Sciences Research Council (HSRC) and Facebook have announced that, following their collaborative request for proposals to support interdisciplinary independent academic research, the duo has identified eight awardees."
+    publishedDateTime: 2020-11-03T07:00:00Z
+    webUrl: "https://www.mediaupdate.co.za/marketing/149670/hsrc-and-facebook-name-awardees-for-their-request-for-proposals"
+    type: article
+    provider:
+      name: Media Update
+      domain: mediaupdate.co.za
+    quality: 24
+    images:
+      - url: "https://dash.mediaupdate.co.za/story/image/149670/149670.jpg?v=637399983026883874"
+        width: 1311
+        height: 737
+        isCached: true
+
 secured: "Iu7ltdNGx+O/akFilwrycVaN15n0ItHEhG3NvY7C4lAYRZXakiYWN79cO2OZ3ZLVz1zk4UTp0/0ML+ckqwbn7J4nABmdENOu89O+yUXKbi1Zug7LWxle5lyyo+tKG56Tstp+1d5/XMqSThouu5AP4cx78pFd/XYNq4RGKRB4lbRla2OhAhYXyUYBWZ/iwWtK/NxssmSRsEI3yzTKrJ/CKVVGcwJSL0fD9qEhiO2h++zWLa99cJgYkm7zu/INl75TPN7wfo4G5Ngh8iYxMEDWebKZGWbnHhOfown89po8bHdVvcpbsjhU8OlNVLjxRtjCxhDgwaPRZJXZCGlFRWUjUBVv2Uwk4UBlxSFhVaEwmC7K0KXmRYt9WQRGnLDWEKx4/jW0RD4b9zDpQJwQvi/Ta/iNXTfFY8MWGb/UTYQCBDQapP8Fd4Cw0Z8hXfLaJnOg1ihQZ1eTUWR49GcrVeT38+DHop2dGXzvwuDQMmqs7dG563gec/I/iYRyW63WrfCXwu9x2135F4EEYrtBRiFSfQ==;Oz5fGcsvHb9pNZK6WOuX3g=="
 ---
 

@@ -27,36 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Watch a Roborace self-driving race car crash right into a wall"
-    excerpt: "One of the first broadcast Roborace events didn't go quite as planned for one of the teams participating. Just as Acronis SIT's self-driving race car was set to take off from the starting line, it decided to bin itself straight into the wall."
-    publishedDateTime: 2020-10-29T15:29:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/roborace-self-driving-race-car-crash/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/roborace-self-driving-race-car-crash/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/roborace-self-driving-race-car-crash/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://cnet1.cbsistatic.com/img/mp-902epm2AsldIeTz4XzeQMn9Q=/2020/10/29/50481e40-eba3-4ad0-82ca-4d4eab6dcd61/ogi-robo.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Watch a self-driving Roborace car drive directly into a wall"
-    excerpt: "Roborace team SIT Acronis Autonomous suffered an embarrassment in round one of the Season Beta 1.1 race after its self-driving car abruptly drove directly into a wall. It’s not certain what led to the mishap, but track conditions clearly weren’t at ..."
-    publishedDateTime: 2020-10-29T15:36:00Z
-    webUrl: "https://www.engadget.com/roborace-self-driving-race-car-drives-into-wall-142758048.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 54
-    images:
-      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fb825ca40-19ed-11eb-bb3b-04bd00ecab5d&client=amp-blogside-v2&signature=254fb6ed3de8a2aa597ee4257fa5042443c273a1"
-        width: 945
-        height: 630
-        isCached: true
   - title: "Self-Driving Racecar Hits Accelerator, Immediately Crashes Into Wall"
     excerpt: "A self-driving racecar had a terrible start during the first-ever live broadcast of Roborace, a competition in which autonomous electric racecars go head to head As soon as it started its lap ..."
     publishedDateTime: 2020-10-30T16:40:00Z
@@ -72,20 +42,6 @@ related:
       - url: "https://wp-assets.futurism.com/2020/10/self-driving-race-car-takes-off-immediately-crashes-into-wall-600x315.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Roborace Crash Proves Self-Driving Cars Still Not Yet Ready For Prime Time"
-    excerpt: "This crash has received its share of well-deserved internet guffaws since it happened, but there's really nothing funny about autonnomous cars that"
-    publishedDateTime: 2020-10-31T18:05:00Z
-    webUrl: "https://www.newsoneplace.com/35539161911/roborace-crash-proves"
-    type: article
-    provider:
-      name: newsoneplace.com
-      domain: newsoneplace.com
-    quality: 22
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https://specials-images.forbesimg.com/imageserve/5f9da62aa9255117dfd1798f/0x0.jpg?cropX1=0&cropX2=1920&cropY1=0&cropY2=1080"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "6ofKBA0laeLF8FJ5S9B+VbW+bJUS7mL5b0nnc5+aYfyX7p7A8LbKPft1hbuYNkvHy6sh+7n4+SDfCW9rCBv/Caj8BRs5NfvOLV+Xd7Q5bQpYkKrp04Lk9HfkhIAYl+rGp/yJf3Auec1kNlvxbQg77OaE3C3SKQTi/Pvg81lFhyBIgtyKewrym/YhantX6gBlEw39nq9G/jB8OtsiR4Z+OcamKjVc0S4GfjBrv9sJtMHNWxvDZEqp5iLfZS8SgWS6c/D5KkCasx1Kr52cObrIKbaAcMzg8nq8V2ZNm+caKEDhRmmmi7ZPoBk8ltulitApMIES+jBARqSCmNOZVaoC0uANjpYuVbPeQaz18G4xEgJ1dfR3QwI+YTTsjqtWkWJu7nWhJ0Fms3E62FMIa5uMe7Th6gGFz8p/vb//YmEiDZixJBNXBnLVpRsoFPnhvYv7yck0yt/cu13lh+V/jDlWXufuvPQc34xNKtuHv6ZGnn5KLq64D5gJmpI+grwYCwu4fubEQMo9D+kNIRfmt8oZ9Q==;oNIh7LHTg/UcRZ9haUJ/yA=="

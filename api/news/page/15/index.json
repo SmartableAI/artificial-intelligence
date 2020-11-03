@@ -2,19 +2,322 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-10-20-fintechs-wildfire-fighter-this-reinsurer-is-using-ai-to-make-california-insurance-affordable.md",
+      "title": "Fintech's Wildfire Fighter: This Reinsurer Is Using A.I. To Make California Insurance Affordable",
+      "excerpt": "San Francisco startup Kettle thinks its statistical models can predict wildfires better than any other reinsurer. It officially launched today and recently closed $4.7 million in seed funding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jeffkauflin/2020/10/20/fintechs-wildfire-fighter-this-reinsurer-is-using-ai-to-make-california-insurance-affordable/",
+      "originalUrl": "https://www.forbes.com/sites/jeffkauflin/2020/10/20/fintechs-wildfire-fighter-this-reinsurer-is-using-ai-to-make-california-insurance-affordable/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8e409faad21a294c41ea03%2F0x0.jpg%3FcropX1%3D614%26cropX2%3D3072%26cropY1%3D65%26cropY2%3D1447",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jeffkauflin/2020/10/20/fintechs-wildfire-fighter-this-reinsurer-is-using-ai-to-make-california-insurance-affordable/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkauflin/2020/10/20/fintechs-wildfire-fighter-this-reinsurer-is-using-ai-to-make-california-insurance-affordable/amp/",
+      "publishedDateTime": "2020-10-20T03:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-offices-resort-to-sensors-in-futile-attempts-to-keep-workers-apart.md",
+      "title": "Offices Resort to Sensors in Futile Attempts to Keep Workers Apart",
+      "excerpt": "Millions of workers in recent months have returned to offices outfitted with new pandemic protocols meant to keep them healthy and safe. But temperature checks and plexiglass barriers between desks can't prevent one of the most dangerous workplace behaviors for the spread of Covid-19 — the irresistible desire to mingle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-20/are-offices-safe-during-covid-sensors-say-we-fail-to-socially-distance",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-20/are-offices-safe-during-covid-sensors-say-we-fail-to-socially-distance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJ1uZTg27_C8/v1/360x-1.jpg",
+          "width": 360,
+          "height": 212,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-20/are-offices-safe-during-covid-sensors-say-we-fail-to-socially-distance",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-20/are-offices-safe-during-covid-sensors-say-we-fail-to-socially-distance",
+      "publishedDateTime": "2020-10-20T03:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-build-custom-models-with-azure-machine-learning-designer.md",
+      "title": "Build custom models with Azure Machine Learning Designer",
+      "excerpt": "Similarly, tools such as PyTorch and TensorFlow can help construct more complex models, taking advantage of neural nets and deep learning while still integrating with familiar languages and platforms. That’s all good if you’ve got a team of data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3586551/build-custom-models-with-azure-machine-learning-designer.html",
+      "originalUrl": "https://www.infoworld.com/article/3586551/build-custom-models-with-azure-machine-learning-designer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/10/2020-10-19_20-35-52-100862754-medium.jpg",
+          "width": 299,
+          "height": 214,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3586551/build-custom-models-with-azure-machine-learning-designer.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3586551/build-custom-models-with-azure-machine-learning-designer.amp.html",
+      "publishedDateTime": "2020-10-20T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-companies-will-spend-50-billion-on-artificial-intelligence-this-year-with-little-to-show-for-it.md",
+      "title": "Companies Will Spend $50 Billion On Artificial Intelligence This Year With Little To Show For It",
+      "excerpt": "Despite an AI investing boom, only 10% of companies report significant financial returns from the technology, new research shows.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidjeans/2020/10/20/bcg-mit-report-shows-companies-will-spend-50-billion-on-artificial-intelligence-with-few-results/",
+      "originalUrl": "https://www.forbes.com/sites/davidjeans/2020/10/20/bcg-mit-report-shows-companies-will-spend-50-billion-on-artificial-intelligence-with-few-results/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8dd3a6f8378d611348a0ce%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidjeans/2020/10/20/bcg-mit-report-shows-companies-will-spend-50-billion-on-artificial-intelligence-with-few-results/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidjeans/2020/10/20/bcg-mit-report-shows-companies-will-spend-50-billion-on-artificial-intelligence-with-few-results/amp/",
+      "publishedDateTime": "2020-10-20T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-oneconnect-shares-fintech-insights-with-chinese-banks-and-fintech-companies.md",
+      "title": "OneConnect Shares Fintech Insights with Chinese Banks and Fintech Companies",
+      "excerpt": "PRNewswire/ -- OneConnect Financial Technology Co., Ltd. (OneConnect, NYSE: OCFT), a leading technology-as-a-service platform for financial institutions,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/oneconnect-shares-fintech-insights-with-chinese-banks-and-fintech-companies-1029697336",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/oneconnect-shares-fintech-insights-with-chinese-banks-and-fintech-companies-1029697336",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-20T02:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-chinese-delivery-platform-meituan-dianping-trials-first-ever-smart-ai-retail-store.md",
+      "title": "Chinese Delivery Platform Meituan-Dianping Trials First-Ever Smart AI Retail Store",
+      "excerpt": "Last week, Meituan debuted its first-ever smart AI retail store – MAI Shop - within Beijing’s Shougang Park. A combination of AI and robotics has been applied within the store, the same technology that is regularly seen in ‘New Retail’ formats ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiffanylung/2020/10/20/chinese-delivery-platform-meituan-dianping-trials-first-ever-smart-ai-retail-store/",
+      "originalUrl": "https://www.forbes.com/sites/tiffanylung/2020/10/20/chinese-delivery-platform-meituan-dianping-trials-first-ever-smart-ai-retail-store/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8e9797b00abd0176b0a6a3%2F0x0.png%3FcropX1%3D0%26cropX2%3D830%26cropY1%3D274%26cropY2%3D741",
+          "width": 830,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiffanylung/2020/10/20/chinese-delivery-platform-meituan-dianping-trials-first-ever-smart-ai-retail-store/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiffanylung/2020/10/20/chinese-delivery-platform-meituan-dianping-trials-first-ever-smart-ai-retail-store/amp/",
+      "publishedDateTime": "2020-10-20T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-computer-vision-software-market-next-big-thing-major-giants-algolux-visenze-sighthound.md",
       "title": "Computer Vision Software Market Next Big Thing | Major Giants Algolux, ViSenze, Sighthound",
-      "excerpt": "Oct 19, 2020<p>Latest Market intelligence report released by HTF MI with title COVID-19 Outbreak-Global Computer Vision Software Industry Market Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020 is designed covering micro level of analysis by manufacturers and key business segments.",
+      "excerpt": "Latest Market intelligence report released by HTF MI with title \"COVID-19 Outbreak-Global Computer Vision Software Industry Market Report-Development Trends, Threats, Opportunities and Competitive ...",
       "sourceUrl": null,
-      "webUrl": "https://menafn.com/1100984314/Computer-Vision-Software-Market-Next-Big-Thing-Major-Giants-Algolux-ViSenze-Sighthound?src=Rss",
-      "originalUrl": "https://menafn.com/1100984314/Computer-Vision-Software-Market-Next-Big-Thing-Major-Giants-Algolux-ViSenze-Sighthound?src=Rss",
+      "webUrl": "https://menafn.com/1100984314/Computer-Vision-Software-Market-Next-Big-Thing-Major-Giants-Algolux-ViSenze-Sighthound",
+      "originalUrl": "https://menafn.com/1100984314/Computer-Vision-Software-Market-Next-Big-Thing-Major-Giants-Algolux-ViSenze-Sighthound",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?68482",
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?504504",
           "width": 374,
           "height": 250,
           "title": null,
@@ -26,7 +329,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-19T18:16:00-07:00",
+      "publishedDateTime": "2020-10-20T00:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Middle East North Africa Financial Network",
@@ -41,6 +344,282 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-retail-tech-startup-tiliter-raises-75m-for-cashierless-ai-shopping-technology.md",
+      "title": "Retail Tech Startup Tiliter Raises $7.5M for Cashierless AI Shopping Technology",
+      "excerpt": "Investor demand for innovative emerging companies remains strong with Australian AI tech startup Tiliter completing a $7.5 million capital raise, led by Investec Emerging Companies (IEC). Eleanor Venture,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/newswire/technology-business-corporate-news-north-america-products-and-services-3f8093b9dc6da93e55d2015ee8613525",
+      "originalUrl": "https://apnews.com/press-release/newswire/technology-business-corporate-news-north-america-products-and-services-3f8093b9dc6da93e55d2015ee8613525",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-20T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-velodyne-lidar-inks-3-year-sales-agreement-with-baidu.md",
+      "title": "Velodyne Lidar Inks 3 Year Sales Agreement with Baidu",
+      "excerpt": "Velodyne Lidar Inc announced a three-year sales agreement with Baidu for its Alpha Prime lidar sensors. The Alpha Prime sensors will be utilized for autonomous applications. Velodyne’s low cost ...",
+      "sourceUrl": null,
+      "webUrl": "https://steelguru.com/auto/velodyne-lidar-inks-3-year-sales-agreement-with-baidu/564417",
+      "originalUrl": "https://steelguru.com/auto/velodyne-lidar-inks-3-year-sales-agreement-with-baidu/564417",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://steelguru.com/uploads/news/velodyne-lidar-baidu_89021.png",
+          "width": 635,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-19T23:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Steel News",
+        "domain": "steelguru.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-torc-robotics-scaling-self-driving-fleet-with-daimler-trucks.md",
+      "title": "Torc Robotics Scaling Self Driving Fleet with Daimler Trucks",
+      "excerpt": "Torc Robotics will scale its self-driving truck testing in the Southwest in early 2021 using an enhanced prototype truck developed with Daimler Trucks North America. This new generation of ...",
+      "sourceUrl": null,
+      "webUrl": "https://steelguru.com/auto/torc-robotics-scaling-self-driving-fleet-with-daimler-trucks/564415",
+      "originalUrl": "https://steelguru.com/auto/torc-robotics-scaling-self-driving-fleet-with-daimler-trucks/564415",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://steelguru.com/images/ad_image/Go-for-Gold_500x250.gif",
+          "width": 500,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-19T23:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Steel News",
+        "domain": "steelguru.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud.md",
+      "title": "IBM's Q3 solid with strength in Red Hat, hybrid cloud",
+      "excerpt": "Cognitive applications were up 1% and cloud sales were up more than 60%. Global business services, which includes consulting, application management and global process services, had revenue of $4 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud/",
+      "originalUrl": "https://www.zdnet.com/article/ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/10/16/64b67a52-7c39-42aa-9676-9c3987ea7e57/thumbnail/1200x675/7538a9bb7ca841a758272e29aa0937f0/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud/",
+      "publishedDateTime": "2020-10-19T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-companies-are-rushing-to-use-aibut-few-see-a-payoff.md",
+      "title": "Companies Are Rushing to Use AI—but Few See a Payoff",
+      "excerpt": "A study finds that only 11 percent of firms that have deployed artificial intelligence are reaping a “sizable” return on their investments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/companies-rushing-use-ai-few-see-payoff/",
+      "originalUrl": "https://www.wired.com/story/companies-rushing-use-ai-few-see-payoff/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/companies-rushing-use-ai-few-see-payoff/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/companies-rushing-use-ai-few-see-payoff/amp",
+      "publishedDateTime": "2020-10-19T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-google-deepmind-co-founder-out-over-controversy-over-his-ai-projects.md",
+      "title": "Google DeepMind co-founder OUT over 'controversy' over his AI projects",
+      "excerpt": "Google DeepMind co-founder Mustafa Suleyman has been placed on leave abruptly from the secretative AI-focused division of Google, with the reason being controversy \"over some of the projects he led\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/67247/google-deepmind-co-founder-over-controversy-ai-projects/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/67247/google-deepmind-co-founder-over-controversy-ai-projects/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tweaktown.com/images/news/6/7/67247_03_google-deepmind-co-founder-over-controversy-ai-projects_full.png",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/67247/google-deepmind-co-founder-over-controversy-ai-projects/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/67247/google-deepmind-co-founder-over-controversy-ai-projects/amp.html",
+      "publishedDateTime": "2020-10-19T18:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     },
@@ -265,6 +844,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-jake-tapper-pushes-back-when-lara-trump-insists-biden-has-cognitive-decline.md",
+      "title": "Jake Tapper Pushes Back When Lara Trump Insists Biden Has 'Cognitive Decline'",
+      "excerpt": "CNN's Jake Tapper cut short an interview with President Donald Trump's daughter-in-law and campaign adviser, Lara Trump, after she claimed that Democratic nominee Joe Biden suffers from cognitive ...",
+      "sourceUrl": null,
+      "webUrl": "https://people.com/politics/jake-tapper-lara-trump-interview-joe-biden-decline/",
+      "originalUrl": "https://people.com/politics/jake-tapper-lara-trump-interview-joe-biden-decline/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F10%2F19%2Ftapper-trump.jpg",
+          "width": 1500,
+          "height": 781,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://people.com/politics/jake-tapper-lara-trump-interview-joe-biden-decline/?amp=true",
+      "cdnAmpWebUrl": "https://people-com.cdn.ampproject.org/c/s/people.com/politics/jake-tapper-lara-trump-interview-joe-biden-decline/?amp=true",
+      "publishedDateTime": "2020-10-19T12:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "People",
+        "domain": "people.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -544,653 +1166,6 @@
         "Facebook AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-wimi-hologram-cloud-stock-rallies-on-news-of-new-artificial-intelligence-subsidiary.md",
-      "title": "WiMi Hologram Cloud Stock Rallies on News of New Artificial Intelligence Subsidiary",
-      "excerpt": "The company says it's accelerating the development of its intellectual property -- positive news overshadowing a surprise shakeup in the management team.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/10/19/wimi-hologram-cloud-stock-rallies-on-news-of-new-a/",
-      "originalUrl": "https://www.fool.com/investing/2020/10/19/wimi-hologram-cloud-stock-rallies-on-news-of-new-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F595591%2Fstock-chart-hologram-up.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/19/wimi-hologram-cloud-stock-rallies-on-news-of-new-a/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/19/wimi-hologram-cloud-stock-rallies-on-news-of-new-a/",
-      "publishedDateTime": "2020-10-19T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-juniper-acquires-128-technology-for-450-million-as-it-builds-out-its-ai.md",
-      "title": "Juniper acquires 128 Technology for $450 million as it builds out its AI",
-      "excerpt": "Juniper Networks said it will acquire 128 Technology for $450 million in a move that will give it more artificial intelligence-based features through its networking portfolio. The company said it will it will acquire 128 Technology with cash and assumption of equity awards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/juniper-acquires-128-technology-for-450-million-as-it-builds-out-its-ai/",
-      "originalUrl": "https://www.zdnet.com/article/juniper-acquires-128-technology-for-450-million-as-it-builds-out-its-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/10/19/96c31916-3643-4d3f-8e78-bbbad13eceb6/juniper-128.png",
-          "width": 600,
-          "height": 386,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/juniper-acquires-128-technology-for-450-million-as-it-builds-out-its-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/juniper-acquires-128-technology-for-450-million-as-it-builds-out-its-ai/",
-      "publishedDateTime": "2020-10-19T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-facebooks-new-ai-can-translate-languages-directly-into-one-another.md",
-      "title": "Facebook's new AI can translate languages directly into one another",
-      "excerpt": "That’s why Facebook AI has developed a new MT ... two-thirds are in a language other than English, she noted. Dubbed M2M-100, Facebook claims that it is the first multilingual machine translation model (MMT) that can directly translate back and forth ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/facebooks-ai-can-translate-languages-directly-into-one-another-150029679.html",
-      "originalUrl": "https://www.engadget.com/facebooks-ai-can-translate-languages-directly-into-one-another-150029679.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 356,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C400&quality=95&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1800%252C1200%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-04%252Fb0b78f20-80e4-11ea-ad7b-99d4bc7d0814%26client%3Da1acac3e1b3290917d92%26signature%3D7710ab157ce1c73492be616e6e982875fd9c4ced&client=amp-blogside-v2&signature=69a553b53d39c0b9162403452839efda71a2de93",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/facebooks-ai-can-translate-languages-directly-into-one-another-150029679.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebooks-ai-can-translate-languages-directly-into-one-another-150029679.html",
-      "publishedDateTime": "2020-10-19T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-culture-and-people-will-drive-tech-innovation-and-growth.md",
-      "title": "Culture And People Will Drive Tech Innovation And Growth",
-      "excerpt": "Now, we’re seeing many companies shift from the automation-focused initiatives of the early 2000s to recognise the role of human intelligence in building smarter, more innovative automations and AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/businessreporter/2020/10/19/culture-and-people-will-drive-tech-innovation-and-growth/",
-      "originalUrl": "https://www.forbes.com/sites/businessreporter/2020/10/19/culture-and-people-will-drive-tech-innovation-and-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f89ca51b0766e0399ea4566%2F0x0.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/businessreporter/2020/10/19/culture-and-people-will-drive-tech-innovation-and-growth/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/businessreporter/2020/10/19/culture-and-people-will-drive-tech-innovation-and-growth/amp/",
-      "publishedDateTime": "2020-10-19T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence.md",
-      "title": "Google’s Lending DocAI streamlines mortgage applications with artificial intelligence",
-      "excerpt": "Google Maps and DeepMind enhance AI capabilities to improve route calculations Google has announced the launch of Lending DocAI, a dedicated artificial intelligence (AI) service for the mortgage industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/",
-      "originalUrl": "https://www.zdnet.com/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/09/07/c9b63b58-80c7-48ea-88de-873031c6c261/thumbnail/1200x675/ccc5d8b42e1073502add1b385dd7afcb/google-maps-and-deepmind-enhance-ai-capa-5f558c2a836f805692009c76-1-sep-07-2020-7-39-17-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/",
-      "publishedDateTime": "2020-10-19T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-this-ai-powered-sky-replacement-tool-is-smart-enough-to-change-reflections-too.md",
-      "title": "This AI-Powered Sky Replacement Tool Is Smart Enough to Change Reflections Too",
-      "excerpt": "AI-fueled image editing software is getting smarter every week, and Skylum's newest tool will let you replace the entire sky in an image, including in reflections.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/this-ai-powered-sky-replacement-tool-is-smart-enough-to-1845411467",
-      "originalUrl": "https://gizmodo.com/this-ai-powered-sky-replacement-tool-is-smart-enough-to-1845411467",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/t6bae2y0jcayz2tynoyz.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/this-ai-powered-sky-replacement-tool-is-smart-enough-to-1845411467/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-ai-powered-sky-replacement-tool-is-smart-enough-to-1845411467/amp",
-      "publishedDateTime": "2020-10-19T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-list-of-machine-learning-concepts.md",
-      "title": "List of machine learning concepts",
-      "excerpt": "Teaching yourself Python machine learning can be a daunting task if you don’t know where to start. Fortunately, there ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/vocabulary/list-of-machine-learning-concepts/",
-      "originalUrl": "https://thenextweb.com/vocabulary/list-of-machine-learning-concepts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/themes/cyberdelia/assets/img/placeholder/bg-0.png",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/vocabulary/list-of-machine-learning-concepts/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/vocabulary/list-of-machine-learning-concepts/amp/",
-      "publishedDateTime": "2020-10-19T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-pimloc-gets-18m-for-its-ai-based-visual-search-and-redaction-tool.md",
-      "title": "Pimloc gets $1.8M for its AI-based visual search and redaction tool",
-      "excerpt": "UK-based Pimloc has closed a £1.4 million (~$1.8M) seed funding round led by Amadeus Capital Partners. Existing investor Speedinvest and other unnamed shareholders also participated in the round. The 2016-founded computer vision startup launched a AI -powered photo classifier service called",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/19/pimloc-gets-1-8m-for-its-ai-based-visual-search-and-redaction-tool/",
-      "originalUrl": "https://techcrunch.com/2020/10/19/pimloc-gets-1-8m-for-its-ai-based-visual-search-and-redaction-tool/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/Screenshot-2020-10-19-at-16.00.45.png?w=1024",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/19/pimloc-gets-1-8m-for-its-ai-based-visual-search-and-redaction-tool/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/19/pimloc-gets-1-8m-for-its-ai-based-visual-search-and-redaction-tool/amp/",
-      "publishedDateTime": "2020-10-19T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-unit21-raises-13-million-to-turn-ai-into-a-fraud-fighting-machine.md",
-      "title": "Unit21 raises $13 million to turn AI into a fraud-fighting machine",
-      "excerpt": "Unit21, a startup providing a no-code service that monitors ... Gradient Ventures, Google’s AI venture fund, contributed to Unit21’s tranche with participation from Core VC, South Park Commons ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/19/unit21-raises-13-million-to-turn-ai-into-a-fraud-fighting-machine/",
-      "originalUrl": "https://venturebeat.com/2020/10/19/unit21-raises-13-million-to-turn-ai-into-a-fraud-fighting-machine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/AI_security-e1602003587272.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/19/unit21-raises-13-million-to-turn-ai-into-a-fraud-fighting-machine/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/19/unit21-raises-13-million-to-turn-ai-into-a-fraud-fighting-machine/amp/",
-      "publishedDateTime": "2020-10-19T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast.md",
-      "title": "Google's $100 Linux Coral Dev Board mini quietly launches – but sells out fast",
-      "excerpt": "Google's Coral Dev Board mini briefly goes on sale before selling out but Google still says the board is coming soon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast/",
-      "originalUrl": "https://www.zdnet.com/article/googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/10/19/33ed63ff-17eb-4bee-b177-c9bf59502a0e/coraldevboardminia.jpg",
-          "width": 1029,
-          "height": 772,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast/",
-      "publishedDateTime": "2020-10-19T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-nxp-announces-expansion-of-its-scalable-machine-learning-portfolio-and-capabilities.md",
-      "title": "NXP Announces Expansion of its Scalable Machine Learning Portfolio and Capabilities",
-      "excerpt": "Zone Technologies to expand eIQ™ Machine Learning development environment ; NXP is the lead technology partner for Arm Ethos-U65 microNP",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-environment-and-nature-products-and-services-6f4e200e99d899de383bcce5d6463cf6",
-      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-environment-and-nature-products-and-services-6f4e200e99d899de383bcce5d6463cf6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-19T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-is-artificial-intelligence-closer-to-common-sense.md",
-      "title": "Is Artificial Intelligence Closer to Common Sense?",
-      "excerpt": "Intelligent agents lack the common-sense knowledge they need to reason about the world. Traditionally, there have been two unsuccessful approaches to getting computers to reason about the world—symbolic logic and deep learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/articles/AI-Closer-Common-Sense/",
-      "originalUrl": "https://www.infoq.com/articles/AI-Closer-Common-Sense/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/articles/AI-Closer-Common-Sense/en/headerimage/AI-Closer-Common-Sense-h-1602793884272.jpeg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoq.com/articles/AI-Closer-Common-Sense/",
-      "cdnAmpWebUrl": "https://www-infoq-com.cdn.ampproject.org/c/s/www.infoq.com/articles/AI-Closer-Common-Sense/",
-      "publishedDateTime": "2020-10-19T05:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-how-to-create-a-more-inclusive-customer-experience-through-ai-and-ml.md",
-      "title": "How to Create a More Inclusive Customer Experience Through AI and ML",
-      "excerpt": "Eighty-four percent of consumers say being treated like a person, not a number, is very important to winning their business. However, there is a clear frustration amongst businesses in driving ROI, as 80% of marketers are on track to abandon personalization efforts by 2025.",
-      "sourceUrl": null,
-      "webUrl": "https://retailtouchpoints.com/features/executive-viewpoints/how-to-create-a-more-inclusive-customer-experience-through-ai-and-ml",
-      "originalUrl": "https://retailtouchpoints.com/features/executive-viewpoints/how-to-create-a-more-inclusive-customer-experience-through-ai-and-ml",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://retailtouchpoints.com/wp-content/uploads/2020/10/machine-learning-experience.jpg",
-          "width": 2440,
-          "height": 1627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://retailtouchpoints.com/features/executive-viewpoints/how-to-create-a-more-inclusive-customer-experience-through-ai-and-ml/amp",
-      "cdnAmpWebUrl": "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/features/executive-viewpoints/how-to-create-a-more-inclusive-customer-experience-through-ai-and-ml/amp",
-      "publishedDateTime": "2020-10-19T05:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Retail TouchPoints",
-        "domain": "retailtouchpoints.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],
