@@ -33,15 +33,15 @@ images:
 related:
   - title: "How customers can maximise Google Cloud free tier"
     excerpt: "The cloud computing industry loves to give away free samples and Google Cloud is no different from AWS or Microsoft in this respect."
-    publishedDateTime: 2020-11-03T00:43:00Z
-    webUrl: "https://www.reseller.co.nz/article/684203/how-customers-can-maximise-google-cloud-free-tier/"
+    publishedDateTime: 2020-11-03T02:06:00Z
+    webUrl: "https://www.arnnet.com.au/article/684203/how-customers-can-maximise-google-cloud-free-tier/"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
+      name: ARN
+      domain: arnnet.com.au
     quality: 24
     images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/dreamstime_s_154242123_8.jpg"
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/dreamstime_s_154242123_8.jpg"
         width: 800
         height: 534
         isCached: true

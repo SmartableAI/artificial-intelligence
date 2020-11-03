@@ -2,6 +2,144 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-10-14-knime-and-h2oai-accelerate-and-simplify-end-to-end-data-science-automation.md",
+      "title": "KNIME and H2O.ai Accelerate and Simplify End-to-end Data Science Automation",
+      "excerpt": "KNIME and H2O.ai, the two data science pioneers known for their open source platforms, today announced a strategic partnership that integrates offerings from both companies. The joint offering combines Driverless AI for AutoML and KNIME Server for workflow management across the entire data science life cycle - from data access to optimization and deployment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fltimes.com/business/national/knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation/article_d61ee3d4-0a7a-59d5-b27c-eae8f4196f82.html",
+      "originalUrl": "https://www.fltimes.com/business/national/knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation/article_d61ee3d4-0a7a-59d5-b27c-eae8f4196f82.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/custom/image/b0352330-9d33-11e5-a934-9bac0af3ff38.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finger Lakes Times",
+        "domain": "fltimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-new-deep-learning-models-fewer-neurons-more-intelligence.md",
+      "title": "New deep learning models: Fewer neurons, more intelligence",
+      "excerpt": "The team says that the system has decisive advantages over previous deep learning models: It copes much better with noisy input, and, because of its simplicity, its mode of operation can be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-10/vuot-ndl101420.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-10/vuot-ndl101420.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services.md",
+      "title": "Microsoft explains how it improved automatic image captioning in Azure Cognitive Services",
+      "excerpt": "In early 2017, Microsoft updated Office 365 apps like Word and PowerPoint with automatic image captioning, drawing on Cognitive Services Computer Vision. (Cognitive Services is a cloud-based suite ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/",
+      "originalUrl": "https://venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/amp/",
+      "publishedDateTime": "2020-10-14T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-ibm-spinoff-should-rejuvenate-cloud-effort.md",
       "title": "IBM Spinoff Should Rejuvenate Cloud Effort",
       "excerpt": "The split up of IBM should put it in a better position to compete with other cloud titans such as Amazon AWS, Google, and Microsoft Azure.",
@@ -1030,151 +1168,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-alteia-accelerates-the-deployment-of-its-enterprise-ai-solutions-and-announces-global-alliances-with-ge-digital-and-microsoft.md",
-      "title": "Alteia Accelerates the Deployment of its Enterprise AI Solutions and Announces Global Alliances with GE Digital and Microsoft",
-      "excerpt": "Alteia, an Enterprise AI platform focused on Visual Intelligence, today stroke global alliances with GE Digital and Microsoft.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201013005502/en/Alteia-Accelerates-the-Deployment-of-its-Enterprise-AI-Solutions-and-Announces-Global-Alliances-with-GE-Digital-and-Microsoft",
-      "originalUrl": "https://www.businesswire.com/news/home/20201013005502/en/Alteia-Accelerates-the-Deployment-of-its-Enterprise-AI-Solutions-and-Announces-Global-Alliances-with-GE-Digital-and-Microsoft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201013005502/en/829788/23/Logo_Alteia_Black-blue.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-13T22:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-what-does-it-take-to-scale-an-ai-company-founders-and-investors-share-their-insights.md",
-      "title": "What Does It Take To Scale An AI Company? Founders And Investors Share Their Insights",
-      "excerpt": "As they embark on their scaling journey, AI-first startups face many challenges. Increasing awareness around best practices is the first step in addressing them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mirunagirtu/2020/10/14/what-does-it-take-to-scale-an-ai-company-founders-and-investors-share-their-insights/",
-      "originalUrl": "https://www.forbes.com/sites/mirunagirtu/2020/10/14/what-does-it-take-to-scale-an-ai-company-founders-and-investors-share-their-insights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f83591df4d198acccea301b%2F0x0.jpg",
-          "width": 1200,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mirunagirtu/2020/10/14/what-does-it-take-to-scale-an-ai-company-founders-and-investors-share-their-insights/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mirunagirtu/2020/10/14/what-does-it-take-to-scale-an-ai-company-founders-and-investors-share-their-insights/amp/",
-      "publishedDateTime": "2020-10-13T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-googles-search-on-event-will-reveal-new-ai-powered-features-on-thursday.md",
-      "title": "Google's 'Search On' event will reveal new AI-powered features on Thursday",
-      "excerpt": "Google has scheduled a 'Search On' event for October 15th at 3 PM ET, where it will unveil new AI-powered upgrades.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/google-search-on-stream-020155879.html",
-      "originalUrl": "https://www.engadget.com/google-search-on-stream-020155879.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F6f09b080-0dc0-11eb-bcdb-e8df047fd37b&client=amp-blogside-v2&signature=8d654481b7bda6a703df4c607999901c8041a846",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/google-search-on-stream-020155879.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-search-on-stream-020155879.html",
-      "publishedDateTime": "2020-10-13T19:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

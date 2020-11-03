@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2020-11-machine-anti-cancer-drug-effi
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-machine-anti-cancer-drug-efficacy.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Medical Xpress
@@ -43,6 +43,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Machine learning predicts anti-cancer drug efficacy"
+    excerpt: "Research on anti-cancer drug response in patient-derived artificial organoids and transcriptome learning of genes associated with anti-cancer target proteins. With the advent of pharmacogenomics, machine learning research is well underway to predict the ..."
+    publishedDateTime: 2020-11-02T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/11/201102120108.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "IrCINptWv1ZRR6E0f9KjdjFZHPHJMCN/lX2ImfZgkuB9InytjV+aMyB4Ps+JCKfjyxVbjAvJ/YK1gngcHbZlNzPKGSIUs6adjiqi+gTLsES2w1Xqn+VhB1YmZrpX6vdaKu945qRC+ENoYLdphPOvoZsH8V/ODmoh7Oghr4gUg/sk6kR1itROdFGKaqm8BX6KAnWidY9HJHNZBwy7q86khXxZgfxnbroeQNqUwgWR6jxPY01yLs44odtpg8glMhKiuY4uBFHbXk57iiThCT2xgHibYLIXfX8CK1ZWdZjoppbCvmWhL7JvSHnC+fQL7TXGazCSqYxxVv0xVxcuifjTnn75CyuNOTmBDyNvo2362L03YBhbglAul16QxBJNzsSKkDS/vvrsSZYRVXygLEi8QZ9xqCJQz/67JYJtcWmDJGE1y10uj+otpf8alU9rbo6kbVOdhyjHUYG2NStAwx5Rd7+tyQe4lXUJs2aDsSqz65nA+362A3ME44q6NbMMLFvjD/kLa59ZQhyvCuJpldqJBg==;JPDJFfAx4lyg78IpsqAqiw=="
 ---

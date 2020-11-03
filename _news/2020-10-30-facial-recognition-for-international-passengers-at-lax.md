@@ -73,6 +73,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Face recognition, pollution alert in tech upgrade"
+    excerpt: "The city’s ambitious smart traffic management system system — that proposes to use advanced technologies and a surveillance web of cameras to m."
+    publishedDateTime: 2020-11-03T01:49:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/articleshow/79008997.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/amp_articleshow/79008997.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/amp_articleshow/79008997.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/photo/msid-79008996/79008996.jpg"
+        width: 800
+        height: 751
+        isCached: true
   - title: "CBP Debuts Facial Recognition Technology for International Passengers at LAX"
     excerpt: "U.S. Customs and Border Protection officials Thursday announced the implementation of a facial-recognition process at Los Angeles International Airport that will screen passengers entering the country."
     publishedDateTime: 2020-10-29T21:06:00Z

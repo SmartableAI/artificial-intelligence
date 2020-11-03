@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-27-human-api-raises-20-million-to-standardize-health-records-with-ai.md",
+      "title": "Human API raises $20 million to standardize health records with AI",
+      "excerpt": "California-based company developing an AI pipeline that structures health data into a standardized format, this week raised over $20 million. A spokesperson for the startup says the capital will ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/27/human-api-raises-20-million-to-standardize-health-records-with-ai/",
+      "originalUrl": "https://venturebeat.com/2020/10/27/human-api-raises-20-million-to-standardize-health-records-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/27/human-api-raises-20-million-to-standardize-health-records-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/human-api-raises-20-million-to-standardize-health-records-with-ai/amp/",
+      "publishedDateTime": "2020-10-27T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-google-partners-with-noaa-on-using-ai-ml-to-improve-extreme-weather-predictions.md",
       "title": "Google partners with NOAA on using AI, ML to improve extreme weather predictions",
       "excerpt": "Google already has a number of weather efforts, and this month launched an AI partnership with the National Oceanic and Atmospheric Administration (NOAA) Satellite and Information Service (NESDIS ...",
@@ -1174,58 +1225,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-flippy-robots-will-cook-sliders-in-10-more-white-castle-locations.md",
-      "title": "Flippy robots will cook sliders in 10 more White Castle locations",
-      "excerpt": "Rail — showed promising results in its pilot with White Castle, enough for the burger chain to sign on to deploying the robot in 10 more locations. Back in September, they formally started a pilot program to test Flippy at one White Castle location,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/flippy-robot-white-castle-expansion-090002507.html?ref=hvper.com",
-      "originalUrl": "https://www.engadget.com/flippy-robot-white-castle-expansion-090002507.html?ref=hvper.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F4c4ba8b0-1517-11eb-bbef-af00bd4d0adb&client=amp-blogside-v2&signature=05b6c4fd5bd26f566516f92d0f50c667127f4b24",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/flippy-robot-white-castle-expansion-090002507.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/flippy-robot-white-castle-expansion-090002507.html",
-      "publishedDateTime": "2020-10-27T02:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

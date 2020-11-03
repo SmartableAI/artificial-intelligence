@@ -7,8 +7,8 @@ originalUrl: "https://insidehpc.com/2020/11/aws-launches-nvidia-gpu-driven-ec2-p
 webUrl: "https://insidehpc.com/2020/11/aws-launches-nvidia-gpu-driven-ec2-p4d-instances-for-ai-hpc/"
 type: article
 quality: 71
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: insideHPC
@@ -26,23 +26,32 @@ images:
     isCached: true
 
 related:
-  - title: "Tired of Zoom? NVIDIA announces AI-powered contender"
-    excerpt: "(TECH NEWS) NVIDIA’s AI-based video technology offers helpful features like face alignment, gaze correction, and noise cancellation to optimize video calls."
-    publishedDateTime: 2020-10-29T18:43:00Z
-    webUrl: "https://theamericangenius.com/tech-news/tired-of-zoom-nvidia-announces-ai-powered-contender/"
-    ampWebUrl: "https://theamericangenius.com/tech-news/tired-of-zoom-nvidia-announces-ai-powered-contender/amp/"
-    cdnAmpWebUrl: "https://theamericangenius-com.cdn.ampproject.org/c/s/theamericangenius.com/tech-news/tired-of-zoom-nvidia-announces-ai-powered-contender/amp/"
+  - title: "Amazon EC2 P4d instances for pushing machine learning boundaries now available"
+    excerpt: "Amazon Web Services (AWS) has announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) P4d instances with EC2 UltraClusters capability. The cloud giant has touted the offering as the next generation of GPU-powered instances for providing the best performance in machine learning training and high-performance computing (HPC) in the cloud."
+    publishedDateTime: 2020-11-03T00:34:00Z
+    webUrl: "https://www.zdnet.com/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/"
     type: article
     provider:
-      name: The American Genius
-      domain: theamericangenius.com
-    quality: 59
+      name: ZDNet
+      domain: zdnet.com
+    quality: 80
+  - title: "AWS Announces General Availability of Amazon EC2 P4d Instances with EC2 UltraClusters Capability"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Elastic Compute Cloud (Amazon"
+    publishedDateTime: 2020-11-03T01:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-amazon-ec2-p4d-instances-with-ec2-ultraclusters-capability-2020-11-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
     images:
-      - url: "https://theamericangenius.com/wp-content/uploads/2020/10/WomanCoffeeVideoCall.jpg"
-        width: 1000
-        height: 500
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
-secured: "djqhyWYBC9htGuSbZsLgGJftSSoZVzE99nS48U84D7ogtHGgOscJvSu69Mufeyqfi5zz7gyVLC0PKJ2HmYXNHQv5n3mi+dO0r5dqaXyo3vKUIGA11K31MOMATPEzizP8/U2zQ3outUxNv80lj/VsV26swOWLWtKxpNsfCr3RbFZsEw48mU60qSp+XchHM/m0ab0gxiNjGZAlbtwNDLxh+UXoM6BrQGorsCLM1D4E4ezNgQZsX4E3MN1VGPUu1Gg+5h9i4i5yvr4sBy2jE0DYaYxR6jY/U6/HcAFHvjhBGPlPnilChWoPg7DAnqUPJmyjJLAaQvggjkdSJLraz0x5eexXAf1zDhiHtpPYGitIPCA=;2IsRSooV9lJf4JUAbkvvxg=="
+secured: "EJhU/TxKPjeN/asBaY18CerxzscA5WXTIphYLngB5D55sFOHIHpKleJrXQk+oapK8bDE92Wt72lgPqmTlZt4oXOBTPdHkKppjQqHjpfGQcFY1FtbhyICpQlIdygScbEsvhEL7ZYxHPmbK9AnPqr7pKHKqCdWMTHNF0IIdcF/fVb+JL3MPD3uOYmg0HM39mptftW3tpvkn/S5k6JvT3+H5dP0lYsgBKpYF0dGS4atF4D00qh1SRW4cUXqZu6JYPM0hjsD3sWVy4NthPNXiEoujJoaxG/w3YA88eYN/rIDQwQfALf378WqBqO/2562upJA3rA6cXM+dMv8UDUJYxwCqP9SyCIb/qG93nFSVxIoVz3ux3bSnjLzmdxLZhF+QbIL6mREfAgyhxGnbwYzJxPBv6WPjyln2YHZiODgbsld3d6IWnH6VU/TF4h/uqtGQrYTOIDThv1ZGDMLR1EWnNtgY9LotnNAMQx0iB0xnCU9OEIaQJ/1qjsz5EXLQ/Pahavo9QSb3rHfvfO79nfCkmb15Q==;j3WGB90oIQWfqkljzniMhg=="
 ---
 

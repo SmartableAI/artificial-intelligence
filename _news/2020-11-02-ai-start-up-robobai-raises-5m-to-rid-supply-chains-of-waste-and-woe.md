@@ -24,6 +24,22 @@ images:
     height: 628
     isCached: true
 
+related:
+  - title: "Supply chain automation startup Apkudo raises $14M to accelerate global expansion"
+    excerpt: "Supply chain automation startup Apkudo Inc. has raised $14 million in new funding to accelerate the global expansion of its Hive Device Platform across emerging channels and verticals. The Series B round was led by Harbert Growth Partners and MissionOG and included Grotech Ventures and Lavrock Ventures."
+    publishedDateTime: 2020-11-03T01:58:00Z
+    webUrl: "https://siliconangle.com/2020/11/02/supply-chain-automation-startup-apkudo-raises-14m-accelerate-global-expansion/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/apkudo.png"
+        width: 894
+        height: 590
+        isCached: true
+
 secured: "8Z7NeE0SR3vXf9eVPGdBGKJho0SyiOTb4/f50EgwI2ZXNlmgLOqPgTLFS4OqKZzPbV8G49NUn/E+52wvWDJtLHXE3w1VJVbrmebRWkAFr3+J7VT3VSSK65ac/OX9Tz77L/sIhCfZYw4V6nRcRt8+B8SNiZxSVMqUBH0BVriCGMiAqb5yULFgHGScWDBz7RXHxKXh38R6RPc1vqDSbMxxCH8gQDXc5Yk+hlBWr/cILXMSRzz93Nkpgmc8uP5QOKR1TjYpwtehQ+5xlQsja8df4BVzoUKkulgtvNrRmrk/TKZeQxRnvjMXKgbrjNkVGTENrZQgOrdUHNGeXkYn3tt7wNKOLaBEj9QwcoWnGhY7zGUGsGOMZJswDZQPHWM8hDDlXd+/tTX6vAtB/MU29izn2cL8BNIdpZzZ8hPJpqDsl+JVraZZ36pqpiMfpXXoVpdXN9IpRx6yYhiSx2UMt7NLGxRtxzPzdG+uT4UjUQ3fm+cbSTm8PmKNXaTbQdsfUsdJ1lfJtGbZslimak06kt5ntg==;sbXj15YJzVilnaAHiVuFqQ=="
 ---
 

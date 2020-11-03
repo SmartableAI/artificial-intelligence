@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/consumer-reviews/sns-nyt-facial-recog
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html?outputType=amp"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -59,6 +59,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Face recognition, pollution alert in tech upgrade"
+    excerpt: "The city’s ambitious smart traffic management system system — that proposes to use advanced technologies and a surveillance web of cameras to m."
+    publishedDateTime: 2020-11-03T01:49:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/articleshow/79008997.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/amp_articleshow/79008997.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/amp_articleshow/79008997.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/photo/msid-79008996/79008996.jpg"
+        width: 800
+        height: 751
+        isCached: true
   - title: "CBP Debuts Facial Recognition Technology for International Passengers at LAX"
     excerpt: "U.S. Customs and Border Protection officials Thursday announced the implementation of a facial-recognition process at Los Angeles International Airport that will screen passengers entering the country."
     publishedDateTime: 2020-10-29T21:06:00Z
@@ -90,6 +106,6 @@ related:
         height: 300
         isCached: true
 
-secured: "GVJZMbOXPUNipvKnZw3J6U4vPG3Vc1+5PcbN0me0LL/31eqE2gSYjGShP7vbeCE80nEa53XsrdJLwJwOzFj4FXqiVOUQtGhTMPnZWtHOIvI6+sT5hmT3u5A4OKDEUPLC+7ELuBLcYlG2HJ8sWGYef/Of/xBug/NzR6VB9BYaovtejxcei9WgcHBSzqazSjDFytzQicDQtlTqUIibRDrARL6PX34S8LDDesY0mnPIZZCTnE8e62cF4n6EMUxkWliqnp5y3Jf3Kc26DGO6rKizuPXO7d9/8jBDxqSy7lnqfN27Vj+wfdboYEHi87BaYNBAmhsO66NFOqTeBWiVrm7/BQ9YKElAOSaD3ggoFkYCOh8=;4Scco8v/4az8kRIl4xMlRw=="
+secured: "Y/PbkCLXOGZkj2uKiBPGLNOc5rRk70osx9tZAonJ+txLavOWM5ZQXpV50cdMcTwWiwV7NIAImT79bSj6emr2ZuIkIYsVuCTfJmmX4OGWEic78A0M07aXhTI30SM7+IAgmgWm417uk54L2ADypR/rvOf1jx3RHb7OQk2XyJ1/eB7Z9FfE94ols9xASYMWb3zpqIuBjvbBrIRgkWKLHOF9kJcQgLZwrOXiT0+b3pw1n4FGpocKTheY1cpv3Wj/yOX1U+lMJV3v4owTQ9JhmiavCIYkY5K5GjOaenZ1ZOTRb/IqcyytjVv4JNqE8VGu5qRSJ8NL3NWf3/HTfjac57XG2EAVbAvcb4riUtM3aXMvO48aRF2VWb80th/rpN36/OkxPJvYTl0KmA1D8VUkBsi9bSfy6ifypZBRukyOvQgI+7Vy6+zy2L4FuKcdJh0b5lEVauA9S/jWXAkYIIhD7Zcwax3/Qsto31+Dosp+A7bn5tnSZ+4SHPbBt6EFImFoyDD5ZH1U6S8pVmEfUcSh9kEwGw==;YoCRAagOdZJ6ZfXvA+J0sg=="
 ---
 
