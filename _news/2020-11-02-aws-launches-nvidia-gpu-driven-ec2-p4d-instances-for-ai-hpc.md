@@ -26,30 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon EC2 P4d instances for pushing machine learning boundaries now available"
-    excerpt: "Amazon Web Services (AWS) has announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) P4d instances with EC2 UltraClusters capability. The cloud giant has touted the offering as the next generation of GPU-powered instances for providing the best performance in machine learning training and high-performance computing (HPC) in the cloud."
-    publishedDateTime: 2020-11-03T00:34:00Z
-    webUrl: "https://www.zdnet.com/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/"
+  - title: "AWS launches new GPU instances for machine learning and HPC"
+    excerpt: "Called P4, the new instances will run on Intel Cascade Lake processors and eight Nvidia A100 Tensor Core GPUs. Amazon Web Services (AWS), the retail giant’s cloud arm, just launched its latest GPU-equipped cloud instances."
+    publishedDateTime: 2020-11-03T13:00:00Z
+    webUrl: "https://www.itproportal.com/news/aws-launches-new-gpu-instances-for-machine-learning-and-hpc/"
+    ampWebUrl: "https://www.itproportal.com/amp/news/aws-launches-new-gpu-instances-for-machine-learning-and-hpc/"
+    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/aws-launches-new-gpu-instances-for-machine-learning-and-hpc/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 80
-  - title: "AWS Announces General Availability of Amazon EC2 P4d Instances with EC2 UltraClusters Capability"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) P4d instances, the next generation of GPU-powered instances delivering 3x faster performance,"
-    publishedDateTime: 2020-11-02T22:00:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-science-amazoncom-inc-government-business-and-finance-bb2a7d8e344a468fb811088f430a4147"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 41
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 93
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://cdn.mos.cms.futurecdn.net/88UejibhsWKbhFSpfr62oA-1200-80.jpg"
+        width: 1000
+        height: 668
         isCached: true
 
 secured: "EJhU/TxKPjeN/asBaY18CerxzscA5WXTIphYLngB5D55sFOHIHpKleJrXQk+oapK8bDE92Wt72lgPqmTlZt4oXOBTPdHkKppjQqHjpfGQcFY1FtbhyICpQlIdygScbEsvhEL7ZYxHPmbK9AnPqr7pKHKqCdWMTHNF0IIdcF/fVb+JL3MPD3uOYmg0HM39mptftW3tpvkn/S5k6JvT3+H5dP0lYsgBKpYF0dGS4atF4D00qh1SRW4cUXqZu6JYPM0hjsD3sWVy4NthPNXiEoujJoaxG/w3YA88eYN/rIDQwQfALf378WqBqO/2562upJA3rA6cXM+dMv8UDUJYxwCqP9SyCIb/qG93nFSVxIoVz3ux3bSnjLzmdxLZhF+QbIL6mREfAgyhxGnbwYzJxPBv6WPjyln2YHZiODgbsld3d6IWnH6VU/TF4h/uqtGQrYTOIDThv1ZGDMLR1EWnNtgY9LotnNAMQx0iB0xnCU9OEIaQJ/1qjsz5EXLQ/Pahavo9QSb3rHfvfO79nfCkmb15Q==;j3WGB90oIQWfqkljzniMhg=="

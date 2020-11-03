@@ -59,6 +59,22 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Police used facial recognition tech on a Twitter video to find and charge a Lafayette Square protester with assault"
+    excerpt: "Court documents offer a rare insight into how the police use facial recognition tech in tandem with social media platforms such as Twitter."
+    publishedDateTime: 2020-11-03T13:38:00Z
+    webUrl: "https://www.businessinsider.com/police-facial-recognition-twitter-video-protester-lafayette-square-assault-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/police-facial-recognition-twitter-video-protester-lafayette-square-assault-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/police-facial-recognition-twitter-video-protester-lafayette-square-assault-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://i.insider.com/5ed65106988ee306e77335d3?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 563
+        isCached: true
 
 secured: "OT+4SlPkuHoh4XD6Q2M/XtEinpwbSNKhV01J6FyY5J1yoGPTJHxUre9ui6vtydYr0EMhNgbGZFC39Zk/IGqcxn5W3GUE0nqC9avA+ne0zFVjWX2tMFrgoVE53QNi+JzfBH6BaHzU46nqU1GNQLje6F1Efxh+1vzTH0fkVNY0zMWoshlLtEXIv2MRrGcGhjsSzu0NzwfG8erJ39wKN9tTXT6mS0CpG4hMkr5TdLReCcncq5BAVSEb7OsgBE3wABQ53DcENsqV+aqRSRxBBkV/p4Cukw/TWfw8C182gIuUal3INhH4ABzCZyW9uPhOtF759FCAoJNX6oGgImRvSTLliiTfAAbnQ/O9VePsIk8AM/0=;uTUfUw4zTZang5q5864QMw=="
 ---

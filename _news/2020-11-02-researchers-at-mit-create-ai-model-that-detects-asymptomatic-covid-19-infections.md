@@ -166,6 +166,15 @@ related:
         width: 2501
         height: 1563
         isCached: true
+  - title: "Machine learning helps hunt for COVID-19 therapies"
+    excerpt: "Scientists have deployed a machine learning model to help drug developers on their most promising leads for attacking one of the SARS-CoV-2 virus' most compelling targets."
+    publishedDateTime: 2020-11-03T14:22:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/10/201028124526.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Now Artificial Intelligence Can Detect COVID-19 by Listening to Your Coughs | Check Here How"
     excerpt: "Also Read - WHO Chief Goes Into Quarantine After Contact Tests Positive For Coronavirus Researchers have confirmed that an artificial intelligence (AI) tool that can detect if there are any indications in a human’s cough that could point to a COVID ..."
     publishedDateTime: 2020-11-02T10:09:00Z
@@ -196,6 +205,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Identifies Asymptomatic COVID-19 Infections"
+    excerpt: "An artificial intelligence tool was able to accurately distinguish between the coughs of COVID-19 patients and healthy individuals."
+    publishedDateTime: 2020-11-03T14:32:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-identifies-asymptomatic-covid-19-infections"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-516323432.jpg"
+        width: 683
+        height: 415
+        isCached: true
+  - title: "AI For COVID 19: MIT Model Effectively Detect Corona By Hearing Cough"
+    excerpt: "Asymptomatic patients remain a major concern for the COVID-19 spread. But, this AI model by MIT researchers may help in early detection by hearing coughs."
+    publishedDateTime: 2020-11-03T10:00:00Z
+    webUrl: "https://www.techthirsty.com/ai-for-covid-19-mit-model-effectively-detect-corona-by-hearing-cough/"
+    type: article
+    provider:
+      name: Tech Thirsty
+      domain: techthirsty.com
+    quality: 19
   - title: "UK plans to use AI to process adverse reactions to Covid vaccines"
     excerpt: "The UK drugs regulator is planning to use artificial intelligence to sift through the “high volume” of reports of adverse reactions to Covid-19 vaccines in the coming months, as it prepares for an inoculation programme of groundbreaking scale."
     publishedDateTime: 2020-11-01T15:00:00Z

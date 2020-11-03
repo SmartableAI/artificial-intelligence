@@ -2,6 +2,282 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-23-the-monarch-mind-control-mystique.md",
+      "title": "The Monarch Mind Control Mystique",
+      "excerpt": "But in some cases, the young performer can’t stand the confusing transition from tween star to men’s magazine cover girl and starts to malfunction like the robot she has essentially become.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/el/article/9bne7e/the-monarch-mind-control-mystique",
+      "originalUrl": "https://www.vice.com/el/article/9bne7e/the-monarch-mind-control-mystique",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.vice.com/vice/images/articles/meta/2013/10/14/the-monarch-mind-control-mystique-1413295713451.jpeg?crop=1xw:1xh;center,center",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/el/article/9bne7e/the-monarch-mind-control-mystique",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/el/article/9bne7e/the-monarch-mind-control-mystique",
+      "publishedDateTime": "2020-10-22T15:31:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-the-robot-artist-thats-challenging-humanitys-concept-of-creativity.md",
+      "title": "The robot ‘artist’ that’s challenging humanity’s concept of creativity",
+      "excerpt": "I picked up his robot, and I thought ... But it does highlight one of the problematic aspects of creativity as a benchmark of artificial intelligence (not that this is necessarily what the endeavor is designed to prove.) Simply put, art is too subjective ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/features/aida-robot-artist/",
+      "originalUrl": "https://www.digitaltrends.com/features/aida-robot-artist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/ai-da-in-a-seat-photographer-victor-frankowski-1200x630-c-ar1.91-n.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/features/aida-robot-artist/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/aida-robot-artist/?amp",
+      "publishedDateTime": "2020-10-22T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-on-nebraska-innovation-campus-the-combine-incubator-hatches-new-agtech-startups.md",
+      "title": "On Nebraska Innovation Campus, The Combine incubator hatches new agtech startups",
+      "excerpt": "Before Seattle-based Costco broke ground on its $280 million poultry operation in Fremont in 2017, Scott Niewohner remembers a conversation with his cousin about the pros and cons of building barns to raise chickens to supply the plant.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconprairienews.com/2020/10/on-nebraska-innovation-campus-the-combine-incubator-hatches-new-agtech-startups/",
+      "originalUrl": "https://siliconprairienews.com/2020/10/on-nebraska-innovation-campus-the-combine-incubator-hatches-new-agtech-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://siliconprairienews.com/wp-content/uploads/2020/10/combine-shot-1-scaled-e1603316002886.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-21T14:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Silicon Prairie News",
+        "domain": "siliconprairienews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-per-aspera-has-you-tame-mars-with-cute-little-robots.md",
+      "title": "Per Aspera has you tame Mars with cute little robots",
+      "excerpt": "Per Aspera is a charming little city builder wrapped in a gargantuan strategy game. Its vast scope encompasses such intricate details as small cargo holds and worker stations, yet your playground is the entirety of the surface of Mars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcgamesn.com/per-aspera/gameplay-preview-demo",
+      "originalUrl": "https://www.pcgamesn.com/per-aspera/gameplay-preview-demo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/uploads/2020/10/per-aspera-landing-site-900x506.jpg",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamesn.com/per-aspera/gameplay-preview-demo?amp",
+      "cdnAmpWebUrl": "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/per-aspera/gameplay-preview-demo?amp",
+      "publishedDateTime": "2020-10-21T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-do-robots-need-a-sense-of-touch.md",
+      "title": "Do Robots Need a Sense of Touch?",
+      "excerpt": "Sensors mimicking human skin may be the key to making robotic hands sense like human hands. According to LUX Research Analyst Lisheng Gao, “A research team developed piezoelectric effect-based sensors that mimic the human somatosensory system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.industryweek.com/technology-and-iiot/article/21144713/do-robots-need-a-sense-of-touch",
+      "originalUrl": "https://www.industryweek.com/technology-and-iiot/article/21144713/do-robots-need-a-sense-of-touch",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/industryweek/image/2020/10/ricardo_gomez_angel_D9kOnC_1AHw_unsplash.5f8729167ca48.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 624,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-21T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IndustryWeek",
+        "domain": "industryweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-shares-up-04.md",
+      "title": "iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO) Shares Up 0.4%",
+      "excerpt": "Shares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO) shot up 0.4% during mid-day trading on Tuesday . The stock traded as high as $34.39 and last traded at $34.17. 90,635 shares traded hands during trading,",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernreaders.com/news/2020/10/21/ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-shares-up-0-4.html",
+      "originalUrl": "https://www.modernreaders.com/news/2020/10/21/ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-shares-up-0-4.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.modernreaders.com/news/2020/10/21/ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-shares-up-0-4.html/amp",
+      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/10/21/ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-shares-up-0-4.html/amp",
+      "publishedDateTime": "2020-10-20T23:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "modernreaders.com",
+        "domain": "modernreaders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-bionic-man-plugs-prosthesis-into-synthesizer-controls-music-with-his-mind-future-blink.md",
       "title": "Bionic man plugs prosthesis into synthesizer, controls music with his mind — Future Blink",
       "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
@@ -1056,282 +1332,6 @@
         "name": "Mint",
         "domain": "livemint.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-built-for-the-fourth-industrial-revolution-cascadia-capital-launches-leading-edge-investment-banking-practice-dedicated-to-the-robotics-automation.md",
-      "title": "Built for the Fourth Industrial Revolution: Cascadia Capital Launches Leading-Edge Investment Banking Practice Dedicated to the Robotics, Automation, and Artificial ...",
-      "excerpt": "Cascadia Capital (“Cascadia”) is tackling the Fourth Industrial Revolution head-on­—leveraging existing internal expertise to launch one of the nation",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201015005266/en/Built-for-the-Fourth-Industrial-Revolution-Cascadia-Capital-Launches-Leading-Edge-Investment-Banking-Practice-Dedicated-to-the-Robotics-Automation-and-Artificial-Intelligence-Sectors",
-      "originalUrl": "https://www.businesswire.com/news/home/20201015005266/en/Built-for-the-Fourth-Industrial-Revolution-Cascadia-Capital-Launches-Leading-Edge-Investment-Banking-Practice-Dedicated-to-the-Robotics-Automation-and-Artificial-Intelligence-Sectors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201015005266/en/830406/23/CAscadiaLLClogo_Blue.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-the-7-best-startups-you-can-buy-on-seedinvest-right-now.md",
-      "title": "The 7 Best Startups You Can Buy On SeedInvest Right Now",
-      "excerpt": "Miso Robotics is the developer of Flippy, an AI-powered robot that cooks in restaurant ... But he has experience as a startup and turnaround executive, having negotiated various financing and ...",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2020/10/the-7-best-startups-you-can-buy-on-seedinvest-right-now/",
-      "originalUrl": "https://investorplace.com/2020/10/the-7-best-startups-you-can-buy-on-seedinvest-right-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2020/08/startups.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2020/10/the-7-best-startups-you-can-buy-on-seedinvest-right-now/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/10/the-7-best-startups-you-can-buy-on-seedinvest-right-now/amp/",
-      "publishedDateTime": "2020-10-14T21:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-armys-team-ignite-sets-futuristic-rd-targets-ai-robotics-autonomy.md",
-      "title": "Army’s ‘Team Ignite’ Sets Futuristic R&D Targets: AI, Robotics, Autonomy",
-      "excerpt": "\"We ultimately want this Team Ignite to become the way we do business -- it's increased collaboration with the right partners in the right events,\" says Maj. Gen. John George, head of Army Combat Capabilities and Development Command (CCDC).",
-      "sourceUrl": null,
-      "webUrl": "https://breakingdefense.com/2020/10/armys-team-ignite-sets-futuristic-rd-targets-ai-robotics-autonomy/",
-      "originalUrl": "https://breakingdefense.com/2020/10/armys-team-ignite-sets-futuristic-rd-targets-ai-robotics-autonomy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sites.breakingmedia.com/uploads/sites/3/2020/10/Maj.-Gen.-John-George.jpg",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://breakingdefense.com/2020/10/armys-team-ignite-sets-futuristic-rd-targets-ai-robotics-autonomy/amp/",
-      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2020/10/armys-team-ignite-sets-futuristic-rd-targets-ai-robotics-autonomy/amp/",
-      "publishedDateTime": "2020-10-14T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Breaking Defense",
-        "domain": "breakingdefense.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-brazil-launches-artificial-intelligence-center.md",
-      "title": "Brazil launches artificial intelligence center",
-      "excerpt": "The largest research facility in the country with focus on the technologies is run jointly by IBM and public sector bodies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/brazil-launches-artificial-intelligence-center/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/brazil-launches-artificial-intelligence-center/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/brazil-launches-artificial-intelligence-center/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/brazil-launches-artificial-intelligence-center/",
-      "publishedDateTime": "2020-10-14T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-food-and-beverage-industry-develops-a-taste-for-tech.md",
-      "title": "Food And Beverage Industry Develops A Taste For Tech",
-      "excerpt": "Artificial flavors are nothing new, but Geneva-based Firmenich recently created what’s being described as the world’s first flavor made entirely with artificial intelligence (AI). If they’re ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louisbiscotti/2020/10/14/food-and-beverage-industry-develops-a-taste-for-tech/",
-      "originalUrl": "https://www.forbes.com/sites/louisbiscotti/2020/10/14/food-and-beverage-industry-develops-a-taste-for-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f872e201afbad8337859664%2F0x0.jpg",
-          "width": 1200,
-          "height": 857,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louisbiscotti/2020/10/14/food-and-beverage-industry-develops-a-taste-for-tech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louisbiscotti/2020/10/14/food-and-beverage-industry-develops-a-taste-for-tech/amp/",
-      "publishedDateTime": "2020-10-14T10:06:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-dataloop-raises-11m-series-a-round-for-its-ai-data-management-platform.md",
-      "title": "Dataloop raises $11M Series A round for its AI data management platform",
-      "excerpt": "Dataloop, a Tel Aviv-based startup that specializes in helping businesses manage the entire data lifecycle for their AI projects, including helping them annotate their datasets, today announced that it has now raised a total of $16 million.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/14/dataloop-raises-16m-for-its-ai-data-management-and-annotation-platform/",
-      "originalUrl": "https://techcrunch.com/2020/10/14/dataloop-raises-16m-for-its-ai-data-management-and-annotation-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/ea90c01-f5ef5b8-ezgif.com-video-to-gif_3.gif",
-          "width": 800,
-          "height": 388,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/14/dataloop-raises-16m-for-its-ai-data-management-and-annotation-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/14/dataloop-raises-16m-for-its-ai-data-management-and-annotation-platform/amp/",
-      "publishedDateTime": "2020-10-14T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

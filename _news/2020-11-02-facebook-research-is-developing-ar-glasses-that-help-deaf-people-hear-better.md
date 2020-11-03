@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/features/facebook-ar-glasses-deaf/?amp
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facebook-ar-glasses-deaf/?amp"
 type: article
 quality: 71
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 41
-  - title: "Cloud and ad spending lift earnings at Amazon, Alphabet and Facebook"
-    excerpt: "The big three internet giants today revealed improved earnings despite and in some cases because of the COVID-19 pandemic, as advertising and cloud computing growth buoyed third-quarter results. As online ads saw a rebound,"
-    publishedDateTime: 2020-10-29T21:10:00Z
-    webUrl: "https://siliconangle.com/2020/10/29/cloud-ad-spending-lift-earnings-amazon-alphabet-facebook/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 24
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/sky-3096055_1920-artjoao-pixabay.jpg"
-        width: 1912
-        height: 1149
-        isCached: true
   - title: "Five Days of Facebook Fact-Checking"
     excerpt: "Mark Zuckerberg, Facebook’s CEO, has been back in Congress this week to talk about the need to reform how social-media platforms moderate content—a realm within which Facebook is trying to establish a “best in class” reputation."
     publishedDateTime: 2020-10-30T19:29:00Z

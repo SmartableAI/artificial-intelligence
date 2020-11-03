@@ -43,6 +43,22 @@ related:
         width: 796
         height: 419
         isCached: true
+  - title: "AI camera operator repeatedly confuses bald head for soccer ball during live stream"
+    excerpt: "For a more practical illustration of what “brittleness” means, though, simply consider the case of the AI camera operator deployed by Scottish soccer team Inverness Caledonian Thistle FC. When the pandemic stopped fans attending matches,"
+    publishedDateTime: 2020-11-03T13:07:00Z
+    webUrl: "https://www.theverge.com/tldr/2020/11/3/21547392/ai-camera-operator-football-bald-head-soccer-mistakes"
+    ampWebUrl: "https://www.theverge.com/platform/amp/tldr/2020/11/3/21547392/ai-camera-operator-football-bald-head-soccer-mistakes"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/tldr/2020/11/3/21547392/ai-camera-operator-football-bald-head-soccer-mistakes"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 81
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/4CQCS9QhTiTdHAQ0dwTXg2X6IH0=/0x0:600x329/1400x933/filters:focal(252x117:348x213):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67730477/ai_camer_soccer_ball.0.gif"
+        width: 600
+        height: 329
+        isCached: true
   - title: "AI Camera Confuses Bald Linesman’s Head With the Football"
     excerpt: "Hilarity ensued at a recent football match as an AI camera kept mistaking a bald linesman's head for the football!"
     publishedDateTime: 2020-11-02T11:47:00Z

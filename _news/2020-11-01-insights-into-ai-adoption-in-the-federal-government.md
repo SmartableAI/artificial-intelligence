@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/10/31/insights-into
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/10/31/insights-into-ai-adoption-in-the-federal-government/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Artificial-Intelligence-1.jpg"
         width: 900
         height: 500
-        isCached: true
-  - title: "National Grid Partners Invests in two Artificial Intelligence Startups to Protect Critical Infrastructure"
-    excerpt: "National Grid Partners (NGP), the investment and innovation arm of National Grid plc (LSE: NG; NYSE: NGG), announces two new investments in data analytics startups that use artificial intelligence (AI) to protect critical infrastructure and ultimately help reduce costs for customers."
-    publishedDateTime: 2020-10-29T19:16:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-renewable-power-generation-electric-utilities-energy-and-fuel-technology-e2114904d92349e7868c9e9472eef028"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 20
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "bFJGlz0SVBRTbvARmHr3c2FMrqWTf9/1lCgNAYO0CveRyv1h9T5+ctIShAejn37JSViD3iNvjDxBvcd9ryQjOh65mnuoZiobmK7jGZ0uB/QC/npEOcD06Sh2mH/uMi9mFBLOhfXY8zBMdl0+iQfA/xjk5yYP/kZqFAblMZx1MQTNleB1D+XRxtjjQ7Xj73o+f5fo/d9c5fzzdP09Mgo4f06pvdldRDwYsohQUXNLi6QB7ktpfTzgvG3O3+UayBv4lhzykeh+U3yOYogHduZdNLUKF0E3GpePZf7+67LAfTudrLVvoOGUYi4mVVbfUaG6VM84Rn7oLLYgt6xRHZUDpp058mLc3KgNgSm737x+RugwAmPjhodKa742S8CTJ1WID8uj739mqWiQuYOxi/HdkdfnNJ2A/T2Tmb8yxkBH3ZPJIJbmlSv7ZS/1vVv9cvVGf2xVNUWvDgROXCErNvLUNww6P8fpncmU1LZK7B47y0wpCH2rydC/0dSzUotOqhu/DQ0XtzzgF0gSfJXMGzJFjQ==;IAmMspiWzVROuy49/ANHNQ=="

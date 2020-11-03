@@ -6,6 +6,9 @@ publishedDateTime: 2020-11-03T12:28:00Z
 originalUrl: "https://www.computerweekly.com/news/252491484/Robot-lawyer-gets-Sberbank-role"
 webUrl: "https://www.computerweekly.com/news/252491484/Robot-lawyer-gets-Sberbank-role"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Computer Weekly

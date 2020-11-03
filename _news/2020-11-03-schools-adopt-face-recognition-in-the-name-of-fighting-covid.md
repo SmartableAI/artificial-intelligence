@@ -6,6 +6,9 @@ publishedDateTime: 2020-11-03T11:00:00Z
 originalUrl: "https://www.wired.com/story/schools-adopt-face-recognition-name-fighting-covid/"
 webUrl: "https://www.wired.com/story/schools-adopt-face-recognition-name-fighting-covid/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Wired

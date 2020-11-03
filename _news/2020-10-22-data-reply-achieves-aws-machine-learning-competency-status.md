@@ -1,21 +1,25 @@
 ---
 category: news
 title: "Data Reply Achieves AWS Machine Learning Competency Status"
-excerpt: "Data Reply, specialized in the design and implementation of advanced analytics and AI-powered data services, announced today that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status."
-publishedDateTime: 2020-10-22T07:30:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-science-corporate-news-products-and-services-786f2a29fba3449bac8fd3b2bb23ebf3"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-corporate-news-products-and-services-786f2a29fba3449bac8fd3b2bb23ebf3"
+excerpt: "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR. DATA REPLY Data Reply is the Reply ..."
+publishedDateTime: 2020-10-22T07:35:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/data-reply-achieves-aws-machine-learning-competency-status-1029708669"
+webUrl: "https://markets.businessinsider.com/news/stocks/data-reply-achieves-aws-machine-learning-competency-status-1029708669"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
   - Machine Learning
 
-secured: "aIT6ugXVvPOM+/R0QE6O8Pl6idYuT1hYl5Tg+0SXyRbDT3WNphAhDKAf/4hA2w3HbThqRkdTsw5oyBJWY7k1qXk8y6ikcOPD+oJyVPb4fd0yDFwqWS8n3PZORS5Tc6iAcxbinSk5BenJ7Ox4mVlkVxOsqGv9tfPdr5DyOVMySkEJLZPjgklt1djsIz+G+KsPyfoV4TdPxf7XdCxUN2ZcVfuo24fp1jLl1dCy+kV8x0BJdAxNevGPd+sGmiBuX5PyblCIiFACH5DpGvQ+B0MqEbgs48H3tEXHQBFN4CvKMqd1buwj4AQvF/+/Ft26LnPW0l1y9v+T0u0cPgI5ZV2xFsFOZkRrFH3glzyNsiWXpJg=;RWrhRI66fDKNvWAJkZLDrA=="
+secured: "C5PvK6gxLKpmRcXfVYztiTaGB90VOu933E/1rZx1Gid28L5EAZ82hN3GXr4/rJhn2dzBnfxD5n6jzDRcFmcimsKtS/UgXqVURQQutlpv7zS7W+5J4ntV2h0DTSEc/RAQORk2RBlCwNW5FoP3x5QOMLA+Enz2P8EDM94uXCo9eDzr9GnG45/SRNK9e/QjxkprTXCLBHev1AIP3/vPxw3fczO86tktiw5ZjbpLN3YMBXVVgJkc/y+yCpfneTfKLOgNN9JTwWGZfHv5Tmo6Mbx7KuCT17Ez/ibpM8ldiua3n78CcD/LQeuAtcOvUwHX/qmVaqiw52nyOKLKaa5w9Cl0hbbzFyHskzLZZbRcbgB47F0=;7pZ4X/lXcWwOC8f8WVbGug=="
 ---
 

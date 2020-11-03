@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Activists turn facial recognition tools against the police"
-    excerpt: "In early September, the City Council in Portland, Oregon, met virtually to consider sweeping legislation outlawing the use of facial recognition technology. The bills would not only bar the police from using it to unmask protesters and individuals captured in surveillance imagery;"
-    publishedDateTime: 2020-10-29T19:51:00Z
-    webUrl: "https://www.baltimoresun.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 74
-    images:
-      - url: "https://www.baltimoresun.com/resizer/jlVG6BaC3imlBR23jhCY0p4V30U=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NAX6PDQO4JFFFFIXWI6JRI6B3A.jpg"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "LAX debuts facial recognition technology for international travelers"
     excerpt: "U.S. Customs and Border Protection officials announced the implementation of a facial-recognition process at LAX."
     publishedDateTime: 2020-10-30T06:10:00Z
@@ -59,22 +43,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "CBP Debuts Facial Recognition Technology for International Passengers at LAX"
-    excerpt: "U.S. Customs and Border Protection officials Thursday announced the implementation of a facial-recognition process at Los Angeles International Airport that will screen passengers entering the country."
-    publishedDateTime: 2020-10-29T21:06:00Z
-    webUrl: "https://www.nbclosangeles.com/news/local/cbp-debuts-facial-recognition-technology-for-international-passengers-at-lax/2451682/"
-    ampWebUrl: "https://www.nbclosangeles.com/news/local/cbp-debuts-facial-recognition-technology-for-international-passengers-at-lax/2451682/?amp"
-    cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/local/cbp-debuts-facial-recognition-technology-for-international-passengers-at-lax/2451682/?amp"
-    type: article
-    provider:
-      name: NBC Los Angeles
-      domain: nbclosangeles.com
-    quality: 56
-    images:
-      - url: "https://media.nbclosangeles.com/2020/10/GettyImages-1281763052.jpg?resize=1024%2C675"
-        width: 1024
-        height: 675
-        isCached: true
   - title: "Facial Recognition For International Passengers at LAX"
     excerpt: "U.S. Customs and Border Protection officials Thursday announced the implementation of a facial-recognition process at Los Angeles International Airport that will screen passengers entering the country."
     publishedDateTime: 2020-10-29T22:46:00Z
@@ -89,6 +57,65 @@ related:
         width: 583
         height: 300
         isCached: true
+  - title: "Facial Recognition System Unveiled At LAX's Tom Bradley International Terminal"
+    excerpt: "A facial-recognition system to simplify the arrival of international travelers was unveiled Thursday at LAX. Mission Viejo Yogurt Shop Receives Overwhelming Support After Couple Threatens To Sue Over Face Mask RequirementA couple walked into a Mission Viejo yogurt shop this weekend and threatened to sue after being told they needed to wear a face covering in accordance with local health orders."
+    publishedDateTime: 2020-10-30T06:20:00Z
+    webUrl: "https://lasvegas.cbslocal.com/video/4832453-facial-recognition-system-unveiled-at-laxs-tom-bradley-international-terminal/"
+    ampWebUrl: "https://lasvegas.cbslocal.com/video/4832453-facial-recognition-system-unveiled-at-laxs-tom-bradley-international-terminal/amp/"
+    cdnAmpWebUrl: "https://lasvegas-cbslocal-com.cdn.ampproject.org/c/s/lasvegas.cbslocal.com/video/4832453-facial-recognition-system-unveiled-at-laxs-tom-bradley-international-terminal/amp/"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 35
+  - title: "Method for facial recognition bias reduction with adversarial network shows promise"
+    excerpt: "A prominent trio of biometrics researchers have proposed a way to remove the difference, or bias, from facial recognition performance between different demographics. A paper jointly written by"
+    publishedDateTime: 2020-11-02T22:46:00Z
+    webUrl: "https://www.biometricupdate.com/202011/method-for-facial-recognition-bias-reduction-with-adversarial-network-shows-promise"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 33
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/10124235/facial-recognition-crowds.jpg"
+        width: 1920
+        height: 1005
+        isCached: true
+  - title: "Addressing Legitimate Concerns About Government Use of Facial Recognition Technologies"
+    excerpt: "Facial recognition systems have generated a significant amount of controversy over their potential to create an unblinking, discriminatory surveillance system across the United States. A closer examination reveals that the best-crafted facial recognition ..."
+    publishedDateTime: 2020-10-30T21:28:00Z
+    webUrl: "https://www.heritage.org/civil-rights/report/addressing-legitimate-concerns-about-government-use-facial-recognition"
+    type: article
+    provider:
+      name: The Heritage Foundation
+      domain: heritage.org
+    quality: 31
+    images:
+      - url: "https://www.heritage.org/themes/heritage/src/images/bell.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Canada mall operator cited for consumer privacy violations, pulls facial recognition cameras"
+    excerpt: "Cadillac Fairview in Toronto — one of North America's largest commercial real estate companies — has removed the embedded cameras inside its digital information kiosks after a government investigation found the company used facial recognition without customer knowledge,"
+    publishedDateTime: 2020-11-03T11:05:00Z
+    webUrl: "https://www.retailcustomerexperience.com/news/canada-mall-operator-cited-for-consumer-privacy-violations-removes-facial-recognition-cameras-2/"
+    type: article
+    provider:
+      name: Retailcustomerexperience.com
+      domain: retailcustomerexperience.com
+    quality: 8
+  - title: "Global Speech and Voice Recognition Technologies Market Size, Share, Demand And Remarkable Growth Rate Till 2026 | Zion Market Research"
+    excerpt: "The Zion Market Research added a new report “Speech and Voice Recognition Technologies Market by Technology (Speaker Identification, Speaker Verification, Speech Recognition, Automatic Speech Recognition, Text to Speech, and Others), by Application ..."
+    publishedDateTime: 2020-10-30T10:00:00Z
+    webUrl: "https://www.openpr.com/news/2177025/global-speech-and-voice-recognition-technologies-market-size"
+    ampWebUrl: "https://www.openpr.com/amp/2177025/global-speech-and-voice-recognition-technologies-market-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2177025/global-speech-and-voice-recognition-technologies-market-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "tqzGaG0eEin9sVRin4KiQkckgzhRPBU1Wz9XE317lRRZjuJGWtJSkanUn792fmsi/zMePF3Vkew7yo9bi98ZCQ0shxrKAIXNtiCHt6hRv/dL2d7KHYQQkpJ1ApJk3kRelAvnq7rqlYEOJCDSPf0FJ3TFNcycF0DtSYWseAxRiylfO+oxabRnmFIBcUYt3SZxLjELhg5qEe9+RyKcM/NJR74k5+gG6qSvVcLNS/K8XBpFN9+cpqO8/GKrLfoL5eoKNs4V2xasRrYQdX7pXGuZ+XGEty0bWnrWmqfUhSpaJ3BrIoKT9l2tf0jQPTYzustuRVirHFLxnz3JnZibk1QGDHURgsGFkagutfK/HJ978G+LRbdpGegAlwiF1WDNzUZWipOl5tUOWjHwhDWxKLpB2BmEsZyRd+DLT69PueUlBlnRtrpWtyKuwnnQonsxrBR+mdU1usgRU8noTiwy9tQOlyNnErSVSFo3uyILvoQHyQz45bzYfa9cCEpCZm7yWiH/qKnRwbcIVCQtwcK8IoRIww==;A2Hsu4CknPXMcui+sF/2RA=="
 ---

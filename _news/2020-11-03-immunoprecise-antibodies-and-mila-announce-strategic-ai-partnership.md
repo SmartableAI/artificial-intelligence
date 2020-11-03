@@ -6,6 +6,9 @@ publishedDateTime: 2020-11-03T12:52:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758397"
 webUrl: "https://markets.businessinsider.com/news/stocks/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758397"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Business Insider

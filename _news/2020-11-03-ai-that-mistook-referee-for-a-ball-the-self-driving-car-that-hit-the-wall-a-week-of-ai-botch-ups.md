@@ -6,6 +6,9 @@ publishedDateTime: 2020-11-03T12:03:00Z
 originalUrl: "https://analyticsindiamag.com/ai-flaws-roborace-crash-self-driving-car/"
 webUrl: "https://analyticsindiamag.com/ai-flaws-roborace-crash-self-driving-car/"
 type: article
+quality: 20
+heat: 20
+published: false
 
 provider:
   name: Analytics India Magazine

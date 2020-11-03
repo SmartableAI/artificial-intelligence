@@ -1,30 +1,28 @@
 ---
 category: news
 title: "Unicorn India Ventures invests in AI driven Insuretech startup Fedo"
-excerpt: "Unicorn India Ventures has announced its 5th investment from Rs 400 crore Fund II in Fedo, which has built an AI/ML platform that leverages the power."
-publishedDateTime: 2020-11-03T07:16:00Z
-originalUrl: "https://www.voicendata.com/unicorn-india-ventures-invests-ai-driven-insuretech-startup-fedo/"
-webUrl: "https://www.voicendata.com/unicorn-india-ventures-invests-ai-driven-insuretech-startup-fedo/"
-ampWebUrl: "https://www.voicendata.com/unicorn-india-ventures-invests-ai-driven-insuretech-startup-fedo/amp/"
-cdnAmpWebUrl: "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/unicorn-india-ventures-invests-ai-driven-insuretech-startup-fedo/amp/"
+excerpt: "Unicorn India Ventures invests in AI driven Insuretech startup Fedo - Mumbai-based early stage VC Fund house Unicorn India Ventures has announced its 5 th investment from Rs"
+publishedDateTime: 2020-11-03T13:30:00Z
+originalUrl: "https://www.siliconindia.com/news/startups/unicorn-india-ventures-invests-in-ai-driven-insuretech-startup-fedo-nid-214493-cid-19.html"
+webUrl: "https://www.siliconindia.com/news/startups/unicorn-india-ventures-invests-in-ai-driven-insuretech-startup-fedo-nid-214493-cid-19.html"
 type: article
-quality: 57
-heat: 57
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Voicendata.com
-  domain: voicendata.com
+  name: SiliconIndia
+  domain: siliconindia.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.voicendata.com/wp-content/uploads/2020/11/Prasanth-Madavana-and-Arun-Mallavarapu.jpg"
-    width: 800
-    height: 450
+  - url: "https://www.siliconindia.com/news/newsimages/Ol375LH6.jpg"
+    width: 570
+    height: 367
     isCached: true
 
-secured: "RkuupO9J5Xzfu2HHFOYTN0QwZVO1kcFFOi+ITtdDrzORs2Pztelof1opdcnxUtolJeqXbvA0c3ft9JPTJ9Ybn7y4/Ta1CD9qpEa+C3KO1MGoPQEEn/0H9a8Jp3m7GbxtEphjdZWBEwSg+rHFZT8wtC7OoVf1i8/5wdEkIwFk7y3beHm9TeDdp8G+GS/TX/E7Dt0WUDLpolU9f3amgbE1UXx1UC4vX3acnYu37nFTXS0jm57Ifq0HwKq/GCmVmyPVEBqchj3FoaRXDpZ9neOh/8sH/ffMUzVmjh1dpP3c1/cz9JZtZ4d5OnkwfU1bg9WGPEDZk3lXM5V32ORz7nUohSiFpI4eOqjTAwQtGJ6cMGI=;do9kFMk3jsHTfzEhwu8eHQ=="
+secured: "wixquMGyMp2PWHbhvJ7BcM2oz0qRGeUz08y+HWP2Fq84NU1mHJLp5vqC2paiS1YRnELQVIdUryjTj+nNgyKCMYgS5exICLBcBh4Pf1CKynfsmVnK+MF4/zJms/qSnzyk5ZG3NyDdRMGm9+TQvjfz68WsiiV64mcmEoUlxZzmnpUS3mGg5rzxGWnGQsay+P6C6lVxWK8GnvjoDbhuVNuxpBV14YKPmKs/503KCbHDfpv1vLCjsO7jkdJKFLkcEZc+00grGuDWsSqbxNzTjXJu5A/L/Ylmk11s9z+kg5yW0hPWzIOF/vUK0VyiwRTjvxAOFBhLF7dfpJDBnPQqPo9xzB5uuf8nSDPaltYP0XMN8MA=;Z9zjGWylRCixYGGvsMmkzQ=="
 ---
 

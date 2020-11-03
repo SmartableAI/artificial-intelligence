@@ -6,6 +6,9 @@ publishedDateTime: 2020-11-03T07:56:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/sogou-ranks-first-in-facial-landmark-localization-challenge-at-icpr-2020-1029757381"
 webUrl: "https://markets.businessinsider.com/news/stocks/sogou-ranks-first-in-facial-landmark-localization-challenge-at-icpr-2020-1029757381"
 type: article
+quality: 33
+heat: 33
+published: false
 
 provider:
   name: Business Insider

@@ -7,7 +7,7 @@ originalUrl: "https://www.cioreview.com/news/automation-and-artificial-intellige
 webUrl: "https://www.cioreview.com/news/automation-and-artificial-intelligence-the-future-today-for-hotels-and-property-managers-nid-32260-cid-112.html"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,40 @@ images:
     width: 300
     height: 300
     isCached: true
+
+related:
+  - title: "AI-Led Operations: The Smart Way To Automate"
+    excerpt: "With AIOps, we don’t have to think of the complexities of organizations as a barrier, but rather an opportunity."
+    publishedDateTime: 2020-11-03T13:35:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/11/03/ai-led-operations-the-smart-way-to-automate/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/11/03/ai-led-operations-the-smart-way-to-automate/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/03/ai-led-operations-the-smart-way-to-automate/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9c44ab1078324bc668466a%2F0x0.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "AI-Based Product Recommendations: How to Reach Today’s Customer"
+    excerpt: "We’ve all seen AI-based product recommendations in action. Amazon, an eCommerce giant that started out selling cheap books now"
+    publishedDateTime: 2020-11-02T21:25:00Z
+    webUrl: "https://www.business2community.com/ecommerce/ai-based-product-recommendations-how-to-reach-todays-customer-02358602"
+    ampWebUrl: "https://www.business2community.com/ecommerce/ai-based-product-recommendations-how-to-reach-todays-customer-02358602/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/ecommerce/ai-based-product-recommendations-how-to-reach-todays-customer-02358602/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 57
+    images:
+      - url: "https://cdn.business2community.com/wp-content/uploads/2020/10/ai_1603957882-900x600.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "NAb2Q41bxxLVV532sk00txJE2VhEmCcD5aSZ/+gubow1labjosQybMhx/prEPs6k/vkefF842Y3zzezbeB17csKbm2hjp0SR6kyKH+4eU7bkf2PIeyUGbHjZeHFr3qWEP1nOHnnhgIN5XzguCY911zJiGuGvvU7oZEzyE7JfRbEHRWbL00X2mAqwEhQ3VE63mDO27qFkEM1LCWAiu+PT7QkWdrjh7Q0U9rL6QwTU1vgEFVLrhoh9FECHtPkxQ8/ND+zL53Lh9lIJ3M4VSpYkQbdugT06lteWBdHgcVmVzydcozHeudeGF0hehG87uyZ0PqFMwbL+AC4mTsdnRF/hvXIgiaQMCagKzz8dqKWJgHz4sRMJvEUwsr1DyqCJx8aygD5/Z+8VWOLexhZJGxB2yr1gWDFbcH0UuZGv4uGPOgGLmdWEN721GTFm62z668W30JfS6jTcantLeaaZ52a3ERBflScaB5sDNqydmjrqewAjQ97E9bedM5NVQ0RLhwFQHwyERZuJTFGWwy0OyX+aEw==;3kXos8lb5PANi6yascp+Mw=="
 ---

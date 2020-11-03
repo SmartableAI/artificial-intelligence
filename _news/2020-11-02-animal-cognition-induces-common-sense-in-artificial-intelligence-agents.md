@@ -73,20 +73,6 @@ related:
         width: 1200
         height: 808
         isCached: true
-  - title: "National Grid Partners Invests in two Artificial Intelligence Startups to Protect Critical Infrastructure"
-    excerpt: "National Grid Partners (NGP), the investment and innovation arm of National Grid plc (LSE: NG; NYSE: NGG), announces two new investments in data analytics startups that use artificial intelligence (AI) to protect critical infrastructure and ultimately help reduce costs for customers."
-    publishedDateTime: 2020-10-29T19:16:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-renewable-power-generation-electric-utilities-energy-and-fuel-technology-e2114904d92349e7868c9e9472eef028"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 20
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "yg0+XbAHE00ceP+sPMVhLPOmHiDYsOINJiCK2bSR6DQsnW4iVt53CVf3avSmk1FcSdqa43tzwWqHsBA+x/UE2uU/rV+/yoNthdORFPeAv8bY7YwMWnbxCuLAWxPWyQ1OzOARpJOGN2XFToWJe1Sw7N4gi/fGu1qGh3n91SqajBwQzytOvSrHcRXp1tdHIzOcoK+bOQHPT/rS0oFvI7Ros4nOxoUcwPfRtqeQEDUxyGJLtA+5+gAa90ctZxMFO+ZEjXKtN2ZkVa9eoXQoUbFzX6C+ME6b/tJV+eqE5YS5MtAg33QmW4HKmbVycIquP5IiUa4JnybVrB03u+0w8NjFhvS2+56wPjCM10OS3nHXPVtvvXDJ3ReNmX2yiigdTWJvHm2XU3gVMLQ/qT8+ILR6rFQ5nA4SQm90qijJBSIRQ0mmeHOX/tVzSVnxb2mCtKPPrHaK8j5ZWJiynabu2oFohvKzDqVN1+G/epYT43i8vOBRi2YAZiD7NMDX06SMH3lbrsA9buNFlohuaoeNWyVqgg==;mO90xyPLa5vCymjOSTWdsA=="
 ---

@@ -42,20 +42,20 @@ related:
         height: 455
         isCached: true
   - title: "What the public hopes and fears about the use of AI in health care"
-    excerpt: "The use of artificial intelligence in health care is on the rise, and the concerns of the public need to be considered in developing policy that regulates its application."
-    publishedDateTime: 2020-11-02T22:00:00Z
-    webUrl: "https://theconversation.com/what-the-public-hopes-and-fears-about-the-use-of-ai-in-health-care-148226"
-    ampWebUrl: "https://theconversation.com/amp/what-the-public-hopes-and-fears-about-the-use-of-ai-in-health-care-148226"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/what-the-public-hopes-and-fears-about-the-use-of-ai-in-health-care-148226"
+    excerpt: "There has been increasing interest in using health \"big data\" for artificial intelligence (AI) research. As such, it is important to understand which uses of health data are supported by the public and which are not."
+    publishedDateTime: 2020-11-03T14:52:00Z
+    webUrl: "https://medicalxpress.com/news/2020-11-ai-health.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-11-ai-health.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-ai-health.amp"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
+      name: Medical Xpress
+      domain: medicalxpress.com
     quality: 59
     images:
-      - url: "https://images.theconversation.com/files/367025/original/file-20201102-21-d19x1.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=240&fit=crop"
-        width: 320
-        height: 240
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/whatthepubli.jpg"
+        width: 1356
+        height: 668
         isCached: true
 
 secured: "nv+JmKoNUp3NMF5a4PkYTRJZCohkh2B2xjuf0/mZLpQmLfHEv6x0EwTXMuvzI9TqiPjc9FTq5K5jbxpYK2SgKFYihfGOJREDE871WXgJzH9/S4f8Nh/TwmUL3QEUGIkVEN7EBCo6b2ENcQPku7Ufz9HWMdoBNfLv5IpXSNvxlo5OGPWIXxOjM9dhQHaOpos3t1nNQwl8shvgwrYDfKFPVg2EjcVkqm6BdPfD8HV5qU3v5gL7CRebEn39IEK7ZVzUZqQwy0ILVc09Oj7XIsPlflFIlNBkPaF5bE99YDnpeFYobUrPMdoZLu1m0h3HM2rtcOJQ8hhz5Swr4Oof5FOYXL8XaJOJMjfjfjICTHKCMuw=;VgThicqNe2ePMGCb85BH0Q=="

@@ -168,6 +168,15 @@ related:
         width: 2501
         height: 1563
         isCached: true
+  - title: "Machine learning helps hunt for COVID-19 therapies"
+    excerpt: "Scientists have deployed a machine learning model to help drug developers on their most promising leads for attacking one of the SARS-CoV-2 virus' most compelling targets."
+    publishedDateTime: 2020-11-03T14:22:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/10/201028124526.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Amazon Web Services Introduces Open-Source Machine Learning Toolkit To Predict The Spread Of COVID-19"
     excerpt: "Amazon Web Services open-sources a new simulator and a series of machine learning tools that allow researchers and data scientists to study and predict the spread of the COVID-19 pandemic infections."
     publishedDateTime: 2020-11-02T15:27:00Z
@@ -181,6 +190,20 @@ related:
       - url: "https://tl360.b-cdn.net/wp-content/uploads/2020/11/AWS-news-and-stories.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Intelligence Identifies Asymptomatic COVID-19 Infections"
+    excerpt: "An artificial intelligence tool was able to accurately distinguish between the coughs of COVID-19 patients and healthy individuals."
+    publishedDateTime: 2020-11-03T14:32:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-identifies-asymptomatic-covid-19-infections"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-516323432.jpg"
+        width: 683
+        height: 415
         isCached: true
   - title: "researchers at MIT create AI model that detects asymptomatic COVID-19 infections"
     excerpt: "MIT have created an artificial intelligence model that detects asymptomatic COVID-19 infections through cellphone-recorded coughs. the study has found out that asymptomatic patients may differ from healthy individuals in the way they cough and that these differences are not decipherable to the human ear but it turns out they can be picked up by AI."
@@ -196,6 +219,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "AI For COVID 19: MIT Model Effectively Detect Corona By Hearing Cough"
+    excerpt: "Asymptomatic patients remain a major concern for the COVID-19 spread. But, this AI model by MIT researchers may help in early detection by hearing coughs."
+    publishedDateTime: 2020-11-03T10:00:00Z
+    webUrl: "https://www.techthirsty.com/ai-for-covid-19-mit-model-effectively-detect-corona-by-hearing-cough/"
+    type: article
+    provider:
+      name: Tech Thirsty
+      domain: techthirsty.com
+    quality: 19
   - title: "UK plans to use AI to process adverse reactions to Covid vaccines"
     excerpt: "The UK drugs regulator is planning to use artificial intelligence to sift through the “high volume” of reports of adverse reactions to Covid-19 vaccines in the coming months, as it prepares for an inoculation programme of groundbreaking scale."
     publishedDateTime: 2020-11-01T15:00:00Z

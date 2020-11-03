@@ -6,6 +6,9 @@ publishedDateTime: 2020-11-03T12:33:00Z
 originalUrl: "https://www.genengnews.com/insights/trends-for-2020/leveraging-machine-learning-to-advance-precision-medicine/"
 webUrl: "https://www.genengnews.com/insights/trends-for-2020/leveraging-machine-learning-to-advance-precision-medicine/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: GEN

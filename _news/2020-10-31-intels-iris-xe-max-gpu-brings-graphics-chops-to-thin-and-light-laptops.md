@@ -274,6 +274,20 @@ related:
         width: 678
         height: 451
         isCached: true
+  - title: "Intel Iris XE Max Discrete GPU Rolls Out to Acer, Asus, Dell Thin and Light Laptops"
+    excerpt: "Intel recently launched its Iris XE Max dedicated GPU for specific models of Acer, Asus, and Dell portable and light laptops."
+    publishedDateTime: 2020-11-03T14:00:00Z
+    webUrl: "https://infosurhoy.com/technology/intel-iris-xe-max-discrete-gpu-rolls-out-to-acer-asus-dell-thin-and-light-laptops/"
+    type: article
+    provider:
+      name: InfoSur Hoy
+      domain: infosurhoy.com
+    quality: 33
+    images:
+      - url: "https://infosurhoy.com/wp-content/uploads/2020/11/intel-iris-xe-max-discrete-gpu-rolls-out-to-acer-asus-dell-thin-and-light-laptops.jpeg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Intel Xe DG1 Is The New ‘Iris Xe Max’ Discrete GPU Inside Laptops And These Are The Specifications And Features"
     excerpt: "Intel recently confirmed it was shipping out the Intel Xe DG1 GPU that the company had been building in-house. It is now confirmed that Intel has"
     publishedDateTime: 2020-11-01T01:00:00Z

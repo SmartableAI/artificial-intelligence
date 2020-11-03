@@ -6,6 +6,9 @@ publishedDateTime: 2020-11-03T12:17:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/11/03/how-and-why-you-should-use-ai-and-machine-learning-to-enhance-business-intelligence/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/11/03/how-and-why-you-should-use-ai-and-machine-learning-to-enhance-business-intelligence/"
 type: article
+quality: 58
+heat: 58
+published: false
 
 provider:
   name: Forbes

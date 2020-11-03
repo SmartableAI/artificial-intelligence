@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expa
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/amp/"
 type: article
 quality: 85
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1024
     height: 512
     isCached: true
+
+related:
+  - title: "Leena AI raises $8M in series A funding to revolutionize employee experience"
+    excerpt: "Leena AI, an artificial intelligence (AI)-powered employee experience platform, today announced an USD 8 million Series A financing led by Greycroft to expand its go-to-market programs and accelerate"
+    publishedDateTime: 2020-11-03T11:30:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/leena-ai-raises-8m-in-series-a-funding-to-revolutionize-employee-experience-120110301240_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 16
 
 secured: "FdCer0yYo8n2henbFN4uqRma7SaLGI/qoWVUn0h3MTk56j1VO1ObSP/bD3Quu1rtb7MwJb2hSzUdeinYurUZJBAzQ6+fKq0UeDMr6ZmLmgm4LnU3j/Qfx7Ig5NTa0pMlZ/3yN+b59syzihnSncFdZExBJWyUzV4s16mAH+z9azo9pUAGw/QIL+CMs5OoTV4/GsBOAUrB33atIT/jbWo6FvnRlKatl+FukTz5siu6trPv6RXLP4kpyRIMMqmiRT9jMuhRf8UfiiAotx+m7aHUKVUPqbW6B9g2gFA1KTNo9Qpw1+OYLXxwfIrGnP6YOhrP0ClxstkbnxlXhiLm4Fo3zSxjunm6nkBCKVKFTEUbmpLQ/wTMt7Q3D4z8+oM+WrY6TIJw6jhaBpSIduoUXYgI9NQcmixs38MmLe6oHvjkuELPEsDFJ+LCWuks/2cDysLlfbi0SSi4KwiKHFXaE99+fFhssWJvkEEeFf4nlco9+QgpOOWy0gz52AM65S1t2QzjyaAxP9udabWFZKiiwqRmFQ==;2cJMEKfG69Edanu7RAUYQw=="
 ---

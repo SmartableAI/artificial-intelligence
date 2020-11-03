@@ -6,6 +6,9 @@ publishedDateTime: 2020-10-30T00:00:00Z
 originalUrl: "https://www.thehindubusinessline.com/companies/projects-that-googles-india-team-are-working-on-are-super-exciting/article32972191.ece"
 webUrl: "https://www.thehindubusinessline.com/companies/projects-that-googles-india-team-are-working-on-are-super-exciting/article32972191.ece"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Business Line

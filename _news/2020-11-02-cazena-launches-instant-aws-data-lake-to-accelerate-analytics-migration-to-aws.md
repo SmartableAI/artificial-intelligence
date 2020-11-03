@@ -6,6 +6,9 @@ publishedDateTime: 2020-11-02T11:07:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/cazena-launches-instant-aws-data-lake-to-accelerate-analytics-migration-to-aws-1029752392"
 webUrl: "https://markets.businessinsider.com/news/stocks/cazena-launches-instant-aws-data-lake-to-accelerate-analytics-migration-to-aws-1029752392"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: Business Insider
@@ -19,6 +22,6 @@ topics:
   - AWS AI
   - AI
 
-secured: "zmDFnKWh2CxurSHRJxVNirvTGs60NmY0MMV7glXrhxGQBzyfJSuShdhiksJWeK1huxkfU+GcaCoMFMUY9PYzgYGHYZ560snlqmu0m2GV6uvFMczbm/F5oriwx56HLOZCXt67KnXT01p8YeR8qGbVUZHNmB0mtX1zhWCGapNLnpXkQS4GPSJZb2BJ+XW4GSokEI0NKJiyqKFKgf5cWBMsFAlfpnWVfgWayz58gFuQQkEuPpOUBi6mqnMGyQ7Dxo4sDjVTa4usEJm3W2e2h9sId4JxshTbBJJTqrrC7xh2M5Up74mgK6XS+ZZWsaFR1Qr4kJ1kzizHBoirbzZLkm5d4IfN0xe7hp7xZ9e0vqfniz8=;csevgF2ntrTW05g7CFACAg=="
+secured: "/DaRyhfD9kXT4yvd6asLZog5dGOlnyFj7a/GEPP5xjtNjA3OEgK0X8Y3sadkLFEw98g///5npDiEpUeHL6HyLCGeEn3KV1YdKfd2cb9GdT74J8RpXiZJT0NqZj3aD5pyD7s/sMvq3clOTRfF58Ht5lN/AaQBMUoB1SesiucE6QWonAN9PfG/yxWm65i4LQEETMUaSRKKoExoiBCTXvr7tcoPuiHOGv70d21Ckj9xeRvZ88qmQhTGTQo077lUjzZqEHHjD30cC1uAEy++NAYtVj57nRD/JVfy7kQAyjIg23AzfHWS3d4V1zvaDuaOhhxsYReMlYqA9RjIfzoP6cN+IMuMsJP6lgJ/zOa+e9WgAP0=;2y4MXkcnDKWYX4ImpH/MIA=="
 ---
 

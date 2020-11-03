@@ -7,7 +7,7 @@ originalUrl: "https://campustechnology.com/articles/2020/10/30/nvidia-jetson-nan
 webUrl: "https://campustechnology.com/articles/2020/10/30/nvidia-jetson-nano-2gb-developer-kit-teaches-ai-and-robotics.aspx"
 type: article
 quality: 71
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 644
     height: 362
     isCached: true
+
+related:
+  - title: "Exploring AI With NVIDIA’s $59 Jetson Nano 2GB Dev Kit"
+    excerpt: "NVIDIA's Jetson Nano 2 GB dev kit grants easy access to machine learning tools to accelerate AI at a very affordable price."
+    publishedDateTime: 2020-11-03T13:44:00Z
+    webUrl: "https://hothardware.com/reviews/nvidia-jetson-nano-2gb"
+    ampWebUrl: "https://amp.hothardware.com/reviews/nvidia-jetson-nano-2gb"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/reviews/nvidia-jetson-nano-2gb"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 61
+    images:
+      - url: "https://images.hothardware.com/contentimages/article/3032/content/small_assembled-nvidia-jetson-nano-2gb.jpg"
+        width: 708
+        height: 398
+        isCached: true
 
 secured: "FObrXPXu3NNueFqKoa8Fa9h2wS5aj2ZYB0gImfNt7TuQE2Cq7gXYcyyrXXkwHcLo6fEb1qxBkEl/NJ5gOo4gkkro2iFprQfd8D9J7yYJ33ZvZFsyo4Ry9uvoIPh7WEZnAmivCuBZgKR4n+aF6h/nW1MGHn+qu1Zf4GMsYKZdLUKgHXJzTK3E7adxpwi3gkqXbk/3bGbBMMJPQUn9VayEuuW9Oz1gPHwr3AugVJaCMjYBnpJpKTnEz0JvA106kLjsHctwJiiDo6JkaR7AofJxShq997jHheTaWLuuMbfjYmveP8iEXDzrIKUtPhz2OoBR2ppk9MIuepr85q8kIuK6sIUO8+tPPRij4P1YGJs8KAgUDtb+Zk0jSt/lTt+LvSMyZwByXYDB23CnIojIVqdvbdwbxCFeR8b1wzvatm82dsPm/cpQQ8c6Y0QUuxpnq7lhU0yr3AjlC3YUdRkdk8IkLY+T0O3N/J64u9eGJJOvkigsdrC5vI0WFpwQWDOG2QzVN+foTxQl5sZNsdVbO3qgDA==;XKB38ZlmkzB9rSWKex6jZg=="
 ---

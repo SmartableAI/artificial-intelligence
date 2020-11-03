@@ -2,6 +2,128 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-19-to-build-more-inclusive-technology-change-your-design-process.md",
+      "title": "To Build More-Inclusive Technology, Change Your Design Process",
+      "excerpt": "Companies from Microsoft to Airbnb to Oracle are striving ... more accessible for people with different physical and cognitive abilities; the tech industry has taken meager steps to diversify ...",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2020/10/to-build-more-inclusive-technology-change-your-design-process",
+      "originalUrl": "https://hbr.org/2020/10/to-build-more-inclusive-technology-change-your-design-process",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2020/10/Oct20_19_72983853.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2020/10/to-build-more-inclusive-technology-change-your-design-process",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/10/to-build-more-inclusive-technology-change-your-design-process",
+      "publishedDateTime": "2020-10-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-18-webinar-bert-based-open-domain-question-answering-using-deeppavlov-library-on-azure-machine-learning.md",
+      "title": "WEBINAR - BERT-based Open Domain Question Answering using DeepPavlov Library on Azure Machine Learning",
+      "excerpt": "We will also demonstrate how this model can be trained in a cost-effective manner on Azure Machine Learning, using different compute options for data preparation and training. Since the beginning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sfstation.com/webinar-bert-based-open-domain-question-answering-using-deeppavlov-library-on-azure-machine-learning-e2414204",
+      "originalUrl": "https://www.sfstation.com/webinar-bert-based-open-domain-question-answering-using-deeppavlov-library-on-azure-machine-learning-e2414204",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.sfstation.com/assets/images/events/04/24142041702899750_orig.gif",
+          "width": 290,
+          "height": 290,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-17T21:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SF Station",
+        "domain": "sfstation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-udacity-and-microsoft-launch-ml-engineer-on-azure-course.md",
+      "title": "Udacity and Microsoft Launch ML Engineer on Azure Course",
+      "excerpt": "Events offer a Goldilocks-style approach in which real-time APIs can be used as the foundation for applications which is flexible yet performant; loosely-coupled yet efficient. Apache Kafka offers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2020/10/azure-udacity-ml-engineer/?itm_source=infoq&itm_campaign=footer_links&itm_medium=footer_links_category_page",
+      "originalUrl": "https://www.infoq.com/news/2020/10/azure-udacity-ml-engineer/?itm_source=infoq&itm_campaign=footer_links&itm_medium=footer_links_category_page",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-17T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-udacity-microsoft-launch-nanodegree-programme-to-skill-students.md",
       "title": "Udacity, Microsoft launch 'Nanodegree' programme to skill students",
       "excerpt": "NEW DELHI: The US-based learning platform Udacity on Thursday announced a partnership with Microsoft to launch Microsoft Azure 'Nanodegree' programme, which will strengthen the machine learning ...",
@@ -1259,146 +1381,6 @@
         "name": "Odessa American",
         "domain": "oaoa.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure.md",
-      "title": "Tamr Announces the Only Cloud-Native Data Mastering Solutions for Google Cloud Platform, AWS, and Microsoft Azure",
-      "excerpt": "PRNewswire/ -- Tamr, Inc., a cloud-native data mastering platform used by some of the world's largest enterprises to solve their toughest data",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-301147624.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-301147624.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1157929/Tamr_Logo.jpg?p=facebook",
-          "width": 1500,
-          "height": 785,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-cloud-first-approach-to-manufacturing.md",
-      "title": "Cloud First Approach to Manufacturing",
-      "excerpt": "Leveraging Azure high-performance compute, AI, and IoT services, ZEISS will work with Microsoft to provide OEMs with new quality management solutions, enable microchip manufacturers to build more powerful, energy-efficient microchips, and deliver new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.industryweek.com/technology-and-iiot/article/21143997/cloud-first-approach-to-manufacturing",
-      "originalUrl": "https://www.industryweek.com/technology-and-iiot/article/21143997/cloud-first-approach-to-manufacturing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://base.imgix.net/files/base/ebm/industryweek/image/2020/10/dreamstime_m_122671771.5f7db04debae3.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 624,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T05:14:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IndustryWeek",
-        "domain": "industryweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-zeiss-partners-with-microsoft-for-better-patient-care-through-data-driven-healthcare-and-to-enhance-quality-and-efficiency-in-manufacturing.md",
-      "title": "ZEISS partners with Microsoft for better patient care through data-driven healthcare and to enhance quality and efficiency in manufacturing",
-      "excerpt": "Leveraging Azure high-performance compute, AI, and IoT services, ZEISS will work with Microsoft to provide original equipment manufacturers (OEMs) with new quality management solutions, enable microchip manufacturers to build more powerful, energy ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/2020/10/07/zeiss-partners-with-microsoft-for-better-patient-care-through-data-driven-healthcare-and-to-enhance-quality-and-efficiency-in-manufacturing/",
-      "originalUrl": "https://news.microsoft.com/2020/10/07/zeiss-partners-with-microsoft-for-better-patient-care-through-data-driven-healthcare-and-to-enhance-quality-and-efficiency-in-manufacturing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/prod/prod/prod/prod/prod/2020/10/ZEISS-image-option-1_mfg-1024x615.jpg",
-          "width": 1024,
-          "height": 615,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

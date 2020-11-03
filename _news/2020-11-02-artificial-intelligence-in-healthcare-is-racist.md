@@ -43,20 +43,20 @@ related:
       domain: businessinsider.com
     quality: 82
   - title: "What the public hopes and fears about the use of AI in health care"
-    excerpt: "The use of artificial intelligence in health care is on the rise, and the concerns of the public need to be considered in developing policy that regulates its application."
-    publishedDateTime: 2020-11-02T22:00:00Z
-    webUrl: "https://theconversation.com/what-the-public-hopes-and-fears-about-the-use-of-ai-in-health-care-148226"
-    ampWebUrl: "https://theconversation.com/amp/what-the-public-hopes-and-fears-about-the-use-of-ai-in-health-care-148226"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/what-the-public-hopes-and-fears-about-the-use-of-ai-in-health-care-148226"
+    excerpt: "There has been increasing interest in using health \"big data\" for artificial intelligence (AI) research. As such, it is important to understand which uses of health data are supported by the public and which are not."
+    publishedDateTime: 2020-11-03T14:52:00Z
+    webUrl: "https://medicalxpress.com/news/2020-11-ai-health.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-11-ai-health.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-ai-health.amp"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
+      name: Medical Xpress
+      domain: medicalxpress.com
     quality: 59
     images:
-      - url: "https://images.theconversation.com/files/367025/original/file-20201102-21-d19x1.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=240&fit=crop"
-        width: 320
-        height: 240
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/whatthepubli.jpg"
+        width: 1356
+        height: 668
         isCached: true
 
 secured: "e3a0fGuJuzQMZRbOH+XW85Y4W4GuVbCajfe6nZi29bcmWpUEP/yy3hs+d8IbwQdCkp46mQqwRXThi3MRmFrsioP7p5BW31kPa+X/Eqk95DNqWmbZaXGrFua/fzccDVQNc759X2yCiUlZl8J6+VGTDjSbpwHBaD+SW7VxdkklwfYMmrnzKqYFXXzl5Rh5oMjWXmQ2C/BMq62J1Vn8sIqWJ6YPNeFA6QnVuzv0LEp74QVX8u4Gu2uQoEg7ytLJkGoa6tX1gkfpn2s0xEZ+TqIpWw4Jb11DmEQS5v3fl6k+BoaPpMjOaJxKcREop2zmDt/6HjWyGBl7pbIPzkmKMRjYRXL0MVHKqIc9VozzhUbGPcCH3kttLv3W9xftH92dsgWVZQL+KTVBKSmKIkgumBB16BxpR472Iev/xfAG1vWpHxNbFdoBnzoBK0KELCp4CjRH4p5GIrsL0sT1LT03LymSoRmLeqt0DUhbGBUJuNkYTBDnT5w/2XKYbc1SkzRtfiGvv8bjt/hU3K9OrSc1xQ0Fqg==;/2ihZF4xm5b13Wx7DAoPpg=="

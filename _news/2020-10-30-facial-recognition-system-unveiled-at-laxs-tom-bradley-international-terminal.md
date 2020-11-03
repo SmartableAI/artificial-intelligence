@@ -9,7 +9,7 @@ ampWebUrl: "https://lasvegas.cbslocal.com/video/4832453-facial-recognition-syste
 cdnAmpWebUrl: "https://lasvegas-cbslocal-com.cdn.ampproject.org/c/s/lasvegas.cbslocal.com/video/4832453-facial-recognition-system-unveiled-at-laxs-tom-bradley-international-terminal/amp/"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,66 @@ topics:
   - AI
 
 related:
+  - title: "LAX debuts facial recognition technology for international travelers"
+    excerpt: "U.S. Customs and Border Protection officials announced the implementation of a facial-recognition process at LAX."
+    publishedDateTime: 2020-10-30T06:10:00Z
+    webUrl: "https://abc7.com/lax-cbp-international-travelers-facial-recognition/7459789/"
+    ampWebUrl: "https://abc7.com/amp/lax-cbp-international-travelers-facial-recognition/7459789/"
+    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/lax-cbp-international-travelers-facial-recognition/7459789/"
+    type: article
+    provider:
+      name: ABC7
+      domain: abc7.com
+    quality: 59
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/7462194_102920-kabc-4pm-lax-travel-vid.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Face recognition, pollution alert in tech upgrade"
+    excerpt: "The city’s ambitious smart traffic management system system — that proposes to use advanced technologies and a surveillance web of cameras to m."
+    publishedDateTime: 2020-11-03T01:49:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/articleshow/79008997.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/amp_articleshow/79008997.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/amp_articleshow/79008997.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/photo/msid-79008996/79008996.jpg"
+        width: 800
+        height: 751
+        isCached: true
+  - title: "Facial Recognition For International Passengers at LAX"
+    excerpt: "U.S. Customs and Border Protection officials Thursday announced the implementation of a facial-recognition process at Los Angeles International Airport that will screen passengers entering the country."
+    publishedDateTime: 2020-10-29T22:46:00Z
+    webUrl: "https://mynewsla.com/life/2020/10/29/facial-recognition-for-international-passengers-at-lax/"
+    type: article
+    provider:
+      name: MyNewsLA
+      domain: mynewsla.com
+    quality: 39
+    images:
+      - url: "https://mynewsla.com/wp-content/uploads/2016/04/MyNewsLA-AMP-Logo.png"
+        width: 583
+        height: 300
+        isCached: true
+  - title: "Method for facial recognition bias reduction with adversarial network shows promise"
+    excerpt: "A prominent trio of biometrics researchers have proposed a way to remove the difference, or bias, from facial recognition performance between different demographics. A paper jointly written by"
+    publishedDateTime: 2020-11-02T22:46:00Z
+    webUrl: "https://www.biometricupdate.com/202011/method-for-facial-recognition-bias-reduction-with-adversarial-network-shows-promise"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 33
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/10124235/facial-recognition-crowds.jpg"
+        width: 1920
+        height: 1005
+        isCached: true
   - title: "Addressing Legitimate Concerns About Government Use of Facial Recognition Technologies"
     excerpt: "Facial recognition systems have generated a significant amount of controversy over their potential to create an unblinking, discriminatory surveillance system across the United States. A closer examination reveals that the best-crafted facial recognition ..."
     publishedDateTime: 2020-10-30T21:28:00Z
@@ -35,20 +95,26 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Sophisticated Systems Supporting Deep Learning Projects at Preferred Networks Earn International Recognition"
-    excerpt: "Supermicro and Preferred Networks (PFN) collaborated to develop the most efficient supercomputer anywhere on earth, earning the #1 position on the Green500 list. This supercomputer, the MN-3, is comprised of Intel® Xeon® Scalable processors and MNCore™ boards developed by Preferred Networks."
-    publishedDateTime: 2020-11-02T15:03:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/whitepapers/sophisticated-systems-supporting-deep-learning-projects-preferred-networks-earn-international-recognition/"
+  - title: "Canada mall operator cited for consumer privacy violations, pulls facial recognition cameras"
+    excerpt: "Cadillac Fairview in Toronto — one of North America's largest commercial real estate companies — has removed the embedded cameras inside its digital information kiosks after a government investigation found the company used facial recognition without customer knowledge,"
+    publishedDateTime: 2020-11-03T11:05:00Z
+    webUrl: "https://www.retailcustomerexperience.com/news/canada-mall-operator-cited-for-consumer-privacy-violations-removes-facial-recognition-cameras-2/"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 20
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Supermicro_Green500_list.2e16d0ba.fill-1200x630.jpg"
-        width: 652
-        height: 344
-        isCached: true
+      name: Retailcustomerexperience.com
+      domain: retailcustomerexperience.com
+    quality: 8
+  - title: "Global Speech and Voice Recognition Technologies Market Size, Share, Demand And Remarkable Growth Rate Till 2026 | Zion Market Research"
+    excerpt: "The Zion Market Research added a new report “Speech and Voice Recognition Technologies Market by Technology (Speaker Identification, Speaker Verification, Speech Recognition, Automatic Speech Recognition, Text to Speech, and Others), by Application ..."
+    publishedDateTime: 2020-10-30T10:00:00Z
+    webUrl: "https://www.openpr.com/news/2177025/global-speech-and-voice-recognition-technologies-market-size"
+    ampWebUrl: "https://www.openpr.com/amp/2177025/global-speech-and-voice-recognition-technologies-market-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2177025/global-speech-and-voice-recognition-technologies-market-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "F7d7N5yB8ayyVhE+uxFxUGbplWh14bwPF754uEQWxkE0ykStsVrRx0xYXDo2hXqTpiDi5VKjqxGs1kmOAuERxmEpk5eOBakR2gmsvTrdiBB5b/6+5MIY4myt6jK4s7fFZmS1Yk7mpqP+82rlqA8oTuOqrHUFGIu84GacXQUIirefXuV1IeTHLenKGaEoHSiRUezHoB5/hxnPvoK25wkcuMe7zNHUlmSSz+IBiQ6bob/VZ0c+IcJiC82L0DkWVDIqwptUVUHAkhwj2aLptznW4Qumsidhd9tunkB50EKM/OrYdePdk4M/gFILd0KD5xa8GbakCYuDsMOxq5YrUVFdCqxAF9N3iMvn0H3t5hyEHmY=;Y+92ZaRldBx2Mu58Z9SFDw=="
 ---

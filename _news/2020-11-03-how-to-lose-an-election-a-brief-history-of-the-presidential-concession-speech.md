@@ -6,6 +6,9 @@ publishedDateTime: 2020-11-03T05:44:00Z
 originalUrl: "https://www.wshu.org/post/how-lose-election-brief-history-presidential-concession-speech"
 webUrl: "https://www.wshu.org/post/how-lose-election-brief-history-presidential-concession-speech"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: WSHU news

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/retailers-use-ai-to-improve-online-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/retailers-use-ai-to-improve-online-recommendations-for-shoppers-11604330308"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Based Product Recommendations: How to Reach Today’s Customer"
-    excerpt: "We’ve all seen AI-based product recommendations in action. Amazon, an eCommerce giant that started out selling cheap books now"
-    publishedDateTime: 2020-11-02T21:25:00Z
-    webUrl: "https://www.business2community.com/ecommerce/ai-based-product-recommendations-how-to-reach-todays-customer-02358602"
-    ampWebUrl: "https://www.business2community.com/ecommerce/ai-based-product-recommendations-how-to-reach-todays-customer-02358602/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/ecommerce/ai-based-product-recommendations-how-to-reach-todays-customer-02358602/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 57
-    images:
-      - url: "https://cdn.business2community.com/wp-content/uploads/2020/10/ai_1603957882-900x600.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "NAPA Outlines Recommendations for Federal AI Progress"
     excerpt: "A paper released last week by NAPA’s Election 2020 Working Group says that AI has numerous benefits, but that concerns with the technology need to be addressed by the next presidential administration as AI continues to move forward."
     publishedDateTime: 2020-11-02T17:17:00Z

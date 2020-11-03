@@ -5,7 +5,12 @@ excerpt: "That's where IBM Insights comes in, as they use Watson AI to break dow
 publishedDateTime: 2020-10-30T13:10:00Z
 originalUrl: "https://www.espn.com/fantasy/football/story/_/page/smartlineup201030/ibm-smart-lineup-decisions-nfl-week-8"
 webUrl: "https://www.espn.com/fantasy/football/story/_/page/smartlineup201030/ibm-smart-lineup-decisions-nfl-week-8"
+ampWebUrl: "https://www.espn.com/fantasy/football/story/_/page/smartlineup201030/ibm-smart-lineup-decisions-nfl-week-8?platform=amp"
+cdnAmpWebUrl: "https://www-espn-com.cdn.ampproject.org/c/s/www.espn.com/fantasy/football/story/_/page/smartlineup201030/ibm-smart-lineup-decisions-nfl-week-8?platform=amp"
 type: article
+quality: 44
+heat: 44
+published: false
 
 provider:
   name: ESPN
@@ -15,6 +20,12 @@ topics:
   - IBM AI
   - AI
 
-secured: "RaiNBzu20Tm/C+CosqU8wnZKuVQRscI2Eq/w4Mr9SqY69NWG32xMFvzlt+UvUn+G6IuojDd5x8/wRIA0NEz3fUwEG3FxoBdsDHTWk2uLPdTda9h+fK+Qq0e4ZeqW1wrqF1vYlzG85qY6TgjfQ6qeVx/qF8W47Q22ZIH3m6ObgCXk/YmzNbW/NBGiB2ZKvUfIhKdDm967OISyTmz64Rb3HgGKF575bUrpnn2n4qsi7iG21WVVs09gQPG1NRnHVWotGl6GcfYW+DunlJ0ygpzGfXSmjyVzXB9aZTPG3AIyapIHRqHk82cJvdkUs4JESPzD7Wo0M72pbHJsLnas93qBKFn5B+4XDj9Ik9/tOY5OE4o=;RHHBvxOD3O0Ty6OVUnTqXA=="
+images:
+  - url: "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F1030%2Fr768310_1296x729_16%2D9.jpg"
+    width: 1296
+    height: 729
+    isCached: true
+
+secured: "lFsQIU+wJJcFbdcvq4gkUtXzRopri5L86uoq2mwkBAZL+iHKxnAH4rfHeryyBLkA8NNYeAUSiCLoxJnHSc4UeDbY26EboSjLII1RrdwFvEsLE8VE9CKT4eFuaUZLQAxLhDtOIv1mDkaFTWerFpMzFkY6GCNkd1yrMr+Q1djcKInPvyDN06Q5o89adi5MtABNUUkKbsHUgSBSJOMuoa5edVmvRGfeUGT9Kuy8G+FlNbpnmFr+SgYYQKv02MsGkOH/+QVZDKAzvfo5h7uCCgRgChQebD2mxBxJ7yYpiKw/of1tQfTiQ+XBDOiyYam/1REjBmEQE2s6NOGaFuJltFDXo8tsqhu87o+lpYSWmIbYW+o=;KLc9MgOJvcXoXPkPV3cuIw=="
 ---
 

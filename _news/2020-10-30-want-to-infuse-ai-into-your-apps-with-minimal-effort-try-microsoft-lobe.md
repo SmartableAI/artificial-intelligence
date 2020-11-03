@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/amp/"
 type: article
 quality: 109
-heat: 139
+heat: 159
 published: true
 
 provider:
@@ -66,6 +66,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Large-Scale Multilingual AI Models from Google, Facebook, and Microsoft"
+    excerpt: "Researchers from Google, Facebook, and Microsoft have published their recent work on multilingual AI models. Google and Microsoft have released models that achieve new state-of-the-art performance on NLP tasks measured by the XTREME benchmark,"
+    publishedDateTime: 2020-11-03T14:10:00Z
+    webUrl: "https://www.infoq.com/news/2020/11/multilingual-ai-models/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 56
+    images:
+      - url: "https://res.infoq.com/news/2020/11/multilingual-ai-models/en/headerimage/multilingual-ai-models-header-1604247885452.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft & Others Catalog Threats to Machine Learning Systems"
     excerpt: "Thirteen organizations worked together to create a dictionary of techniques used to attack ML models and warn that such malicious efforts will become more common."
     publishedDateTime: 2020-11-03T00:32:00Z
@@ -80,6 +94,15 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "QuEST Global launches Center of Excellence for Microsoft Azure to develop innovative solutions for customers"
+    excerpt: "EAST HARTFORD, Conn. and PUNE, India, Nov. 3, 2020 /PRNewswire/ -- QuEST Global, a global product engineering and lifecycle services company,"
+    publishedDateTime: 2020-11-03T12:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-1029758251"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
 
 secured: "ZgTEPJbGZgrjcBr0/3fvajKwBsIt0XJwP3myOGJb2vW9SQhy1gfHfU6Y1vCiwvc5u8wV5EZ0rryW4cLZt1c+zHBAwXkEiEsyeiwhmx0padAzGqFDYOFdx8D1Vv7YcFmkV6zD7+I3jFMKI/ft/ZLU6toHYsIuFPI+JhdARsZZLp6kSu0UdwfkGgnbFL42GSlB0PlRGSlIKX9eqnMmQl2KtgsnOt2bWV8xo96QKwIh2miBqbKUdaNkUz0S0lgbzW3uLm24Smmbf1WXtzyCUeK/lfKrv0rzrYWmwLJ+2LkeZYyAtrQo2e3iAL+4uNtET+s560q1v1dOCAQAFEVfs5vyt49JWoo+NeJjMvT8AY5XRCH8dHv8FYfJCsb7MO6YyzR1BRI3E1jqXho1v749hnWA5c3jVPq2BdIYwCy9n7ef8rVQ55lnbZDzqh5fABO63QUepYw/xyT0Gi7nNXfOdUMj56MhgvYS9IIfxj8OAHdvslLwSBxptmRHFQsQ0bcKVTIJQZnGLvzaJyUsdNAVvUSeUg==;n6Do6wDLjmQCZ4WzwyH3Dw=="
 ---

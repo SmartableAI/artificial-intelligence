@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/article/facial-recognition-arrest-black-lives-m
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-recognition-arrest-black-lives-matter-protestor-trump-bible-photo-op.amp"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F3ea7c4a0-1d55-11eb-afff-e1ebf126e004&client=amp-blogside-v2&signature=be769346814482f72d74793c259b19466605344c"
         width: 600
         height: 350
+        isCached: true
+  - title: "Police used facial recognition tech on a Twitter video to find and charge a Lafayette Square protester with assault"
+    excerpt: "Court documents offer a rare insight into how the police use facial recognition tech in tandem with social media platforms such as Twitter."
+    publishedDateTime: 2020-11-03T13:38:00Z
+    webUrl: "https://www.businessinsider.com/police-facial-recognition-twitter-video-protester-lafayette-square-assault-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/police-facial-recognition-twitter-video-protester-lafayette-square-assault-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/police-facial-recognition-twitter-video-protester-lafayette-square-assault-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://i.insider.com/5ed65106988ee306e77335d3?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 563
         isCached: true
   - title: "Facial recognition used to identify Lafayette Square protester accused of assault"
     excerpt: "The case is among a growing number nationwide in which authorities have fed images from racial justice rallies into facial recognition systems to track down protesters suspected of violence."

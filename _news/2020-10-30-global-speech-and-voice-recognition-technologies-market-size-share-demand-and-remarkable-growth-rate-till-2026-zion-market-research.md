@@ -21,45 +21,100 @@ topics:
   - AI
 
 related:
-  - title: "Deep Learning Market Analysis Reports Revenue Growth Globally During The Forecast Period 2020-2023"
-    excerpt: "Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End User (Security, Manufacturing, BFSI, Healthcare,"
-    publishedDateTime: 2020-10-30T08:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2020-2023-2020-10-30"
+  - title: "LAX debuts facial recognition technology for international travelers"
+    excerpt: "U.S. Customs and Border Protection officials announced the implementation of a facial-recognition process at LAX."
+    publishedDateTime: 2020-10-30T06:10:00Z
+    webUrl: "https://abc7.com/lax-cbp-international-travelers-facial-recognition/7459789/"
+    ampWebUrl: "https://abc7.com/amp/lax-cbp-international-travelers-facial-recognition/7459789/"
+    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/lax-cbp-international-travelers-facial-recognition/7459789/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
+      name: ABC7
+      domain: abc7.com
+    quality: 59
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://cdn.abcotvs.com/dip/images/7462194_102920-kabc-4pm-lax-travel-vid.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Face recognition, pollution alert in tech upgrade"
+    excerpt: "The city’s ambitious smart traffic management system system — that proposes to use advanced technologies and a surveillance web of cameras to m."
+    publishedDateTime: 2020-11-03T01:49:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/articleshow/79008997.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/amp_articleshow/79008997.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/amp_articleshow/79008997.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/photo/msid-79008996/79008996.jpg"
+        width: 800
+        height: 751
+        isCached: true
+  - title: "Facial Recognition For International Passengers at LAX"
+    excerpt: "U.S. Customs and Border Protection officials Thursday announced the implementation of a facial-recognition process at Los Angeles International Airport that will screen passengers entering the country."
+    publishedDateTime: 2020-10-29T22:46:00Z
+    webUrl: "https://mynewsla.com/life/2020/10/29/facial-recognition-for-international-passengers-at-lax/"
+    type: article
+    provider:
+      name: MyNewsLA
+      domain: mynewsla.com
+    quality: 39
+    images:
+      - url: "https://mynewsla.com/wp-content/uploads/2016/04/MyNewsLA-AMP-Logo.png"
+        width: 583
+        height: 300
+        isCached: true
+  - title: "Facial Recognition System Unveiled At LAX's Tom Bradley International Terminal"
+    excerpt: "A facial-recognition system to simplify the arrival of international travelers was unveiled Thursday at LAX. Mission Viejo Yogurt Shop Receives Overwhelming Support After Couple Threatens To Sue Over Face Mask RequirementA couple walked into a Mission Viejo yogurt shop this weekend and threatened to sue after being told they needed to wear a face covering in accordance with local health orders."
+    publishedDateTime: 2020-10-30T06:20:00Z
+    webUrl: "https://lasvegas.cbslocal.com/video/4832453-facial-recognition-system-unveiled-at-laxs-tom-bradley-international-terminal/"
+    ampWebUrl: "https://lasvegas.cbslocal.com/video/4832453-facial-recognition-system-unveiled-at-laxs-tom-bradley-international-terminal/amp/"
+    cdnAmpWebUrl: "https://lasvegas-cbslocal-com.cdn.ampproject.org/c/s/lasvegas.cbslocal.com/video/4832453-facial-recognition-system-unveiled-at-laxs-tom-bradley-international-terminal/amp/"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 35
+  - title: "Method for facial recognition bias reduction with adversarial network shows promise"
+    excerpt: "A prominent trio of biometrics researchers have proposed a way to remove the difference, or bias, from facial recognition performance between different demographics. A paper jointly written by"
+    publishedDateTime: 2020-11-02T22:46:00Z
+    webUrl: "https://www.biometricupdate.com/202011/method-for-facial-recognition-bias-reduction-with-adversarial-network-shows-promise"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 33
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/10124235/facial-recognition-crowds.jpg"
+        width: 1920
+        height: 1005
+        isCached: true
+  - title: "Addressing Legitimate Concerns About Government Use of Facial Recognition Technologies"
+    excerpt: "Facial recognition systems have generated a significant amount of controversy over their potential to create an unblinking, discriminatory surveillance system across the United States. A closer examination reveals that the best-crafted facial recognition ..."
+    publishedDateTime: 2020-10-30T21:28:00Z
+    webUrl: "https://www.heritage.org/civil-rights/report/addressing-legitimate-concerns-about-government-use-facial-recognition"
+    type: article
+    provider:
+      name: The Heritage Foundation
+      domain: heritage.org
+    quality: 31
+    images:
+      - url: "https://www.heritage.org/themes/heritage/src/images/bell.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market will exhibit a CAGR worth 12% during 2020-2024 | Technavio"
-    excerpt: "Technavio has been monitoring the facial recognition market, operating under the information technology industry. The latest report on the facial recognition market, 2020-2024 estimates it to register an incremental growth of USD 3.35 bn, at a CAGR of ..."
-    publishedDateTime: 2020-10-30T08:11:00Z
-    webUrl: "https://www.oaoa.com/news/business/facial-recognition-market-will-exhibit-a-cagr-worth-12-during-2020-2024-technavio/article_6c58d87d-7061-50fb-a01c-6c306c2eab19.html"
+  - title: "Canada mall operator cited for consumer privacy violations, pulls facial recognition cameras"
+    excerpt: "Cadillac Fairview in Toronto — one of North America's largest commercial real estate companies — has removed the embedded cameras inside its digital information kiosks after a government investigation found the company used facial recognition without customer knowledge,"
+    publishedDateTime: 2020-11-03T11:05:00Z
+    webUrl: "https://www.retailcustomerexperience.com/news/canada-mall-operator-cited-for-consumer-privacy-violations-removes-facial-recognition-cameras-2/"
     type: article
     provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 32
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/1/be/1bec6827-3d6e-5642-8a5d-0fc634918000/5f9b93ad6b510.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) In Supply Chain Market Size 2020 Top Manufacturers, Share, Opportunities and Forecast to 2026"
-    excerpt: "The Zion Market Research added a new report “Artificial Intelligence (AI) In Supply Chain Market: By Technology (Machine Learning, Computer Vision, Natural Language Processing, and Others), By Application (Supply Chain Planning, Warehouse Management ..."
-    publishedDateTime: 2020-10-30T10:18:00Z
-    webUrl: "https://www.openpr.com/news/2177064/global-artificial-intelligence-ai-in-supply-chain-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2177064/global-artificial-intelligence-ai-in-supply-chain-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2177064/global-artificial-intelligence-ai-in-supply-chain-market-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 25
+      name: Retailcustomerexperience.com
+      domain: retailcustomerexperience.com
+    quality: 8
 
 secured: "xkjuk/QwLt4+UG1X58KHC3H+lfnPYWJybL+Lcmh8FIwxWXw5qeyBbvhfx7WEL/6rWFoVr4C6DcpgU6jI+HV9MDcEQ3SXQWCjVAqbmq78DXxe1gOACUI9as/exWKuVx4dJ8YRiZVQQcn5v9h/4Wm1vGIrRX3UsbTxplq8vW28w8raruePP/dExEXRimiLSucxOycFrSRlCSxEiUk5SEdqVwGXm94fohNgGBINIGL6Cl6W4InU/1o7HLius8r5CnRKwBMtqR9jXpDEimrJsQES0AqrCvRhe+UceexA1yEdMxnJ58p9Z5QWonb05OjuAzbrQ4QgcGrMmzjOdZfdy8cSovPzcXDYUjzXWk7KCooVDfc=;tzADnA8nbnCdApz/JlYp2A=="
 ---

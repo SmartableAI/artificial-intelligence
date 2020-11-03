@@ -18,6 +18,13 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AWS AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1321396/Summit2Sea___Brian_Eckle.jpg"
+    width: 340
+    height: 400
+    isCached: true
 
 secured: "rSOzIYvmKBLQHKAvB92Bn0QCUwRwXP9eGw7FsQQndw/bDRrqFS+qlBYYY4O6PdAE8GmplYtfNHDeabqBPCDIVYXTM2G58aZIzBTSV0ggU+wV561Cbt1C1A6WuD33zBy9DndS1LbH5VCDevnEjzY3zsoK7nRKxhW0dH2tLZgDR/LFdXhNtmKqqKljzu5tn5kHvnaNmVXRySt5QCIZ1E8Cc09AqPY06Ftk0lVZjVfCzpo9Ag15e33qZ1eHcfrApzjRZKz2eYjOa+Cx8yt1U2/ubLqXQflTX5C0XfhBihhlw3mr0yq+RWkKEfbmzfooFu1ssHwhfscESmnCIIgByUKtBFIj7hcgLqRvj48jDOd2Q7I=;yB4yMzHMG4jMhRcMGtf8fg=="
 ---

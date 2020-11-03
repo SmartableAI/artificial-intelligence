@@ -431,6 +431,15 @@ related:
       name: The Pioneer
       domain: dailypioneer.com
     quality: 19
+  - title: "Tesla's 'Full Self-Driving\" Gets Mixed, But Improving Reviews"
+    excerpt: "Tesla has released an early version of its"
+    publishedDateTime: 2020-11-03T11:23:00Z
+    webUrl: "https://www.realclearmarkets.com/2020/11/03/teslas_full_self-driving_gets_mixed_but_improving_reviews_582644.html#!"
+    type: article
+    provider:
+      name: RealClearMarkets
+      domain: realclearmarkets.com
+    quality: 19
   - title: "Polaris Launches ‘Self-Driving’ PSA Cloud Software for IT Service Providers"
     excerpt: "Polaris, backed by Replicon, launches Polaris PSA -- a cloud-based professional services automation software platform for IT service providers."
     publishedDateTime: 2020-11-02T15:28:00Z

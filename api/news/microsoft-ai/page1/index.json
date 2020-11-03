@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-03-ai-led-operations-the-smart-way-to-automate.md",
+      "title": "AI-Led Operations: The Smart Way To Automate",
+      "excerpt": "With AIOps, we don’t have to think of the complexities of organizations as a barrier, but rather an opportunity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/03/ai-led-operations-the-smart-way-to-automate/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/03/ai-led-operations-the-smart-way-to-automate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9c44ab1078324bc668466a%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/03/ai-led-operations-the-smart-way-to-automate/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/03/ai-led-operations-the-smart-way-to-automate/amp/",
+      "publishedDateTime": "2020-11-03T05:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-02-microsoft-to-expand-azure-kinects-computer-vision-tech-to-commercial-market.md",
       "title": "Microsoft to Expand Azure Kinect’s Computer Vision Tech to Commercial Market",
       "excerpt": "The technology behind Microsoft’s enterprise-focused computer vision camera, the Azure Kinect developer kit, will soon find its way into commercial products. Microsoft is collaborating with two companies,",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.roadtovr.com/microsoft-azure-kinect-commercial/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -97,7 +149,7 @@
       "originalUrl": "https://www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -1083,6 +1135,40 @@
       ]
     },
     {
+      "path": "_news/2020-10-20-global-cognitive-computing-market-trends-share-growth-rate-opportunities-and-market-forecast-2019-2026.md",
+      "title": "Global Cognitive Computing Market | Trends, Share, Growth Rate, Opportunities And Market Forecast 2019-2026",
+      "excerpt": "The report deeply explores the recent significant developments by the leading vendors and innovation profiles in the Global Cognitive Computing Market including Google; IBM Corporation; Microsoft ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2165606/global-cognitive-computing-market-trends-share-growth-rate",
+      "originalUrl": "https://www.openpr.com/news/2165606/global-cognitive-computing-market-trends-share-growth-rate",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-20T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-lux-backed-flex-logix-announces-availability-of-its-fast-and-cheap-x1-ai-chip-for-the-edge.md",
       "title": "Lux-backed Flex Logix announces availability of its fast and cheap X1 AI chip for the edge",
       "excerpt": "In the computing world, there are probably more types of chips available than your local supermarket snack aisle. Diverse computing environments (data centers and the cloud, edge, mobile devices, IoT,",
@@ -1325,93 +1411,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-to-build-more-inclusive-technology-change-your-design-process.md",
-      "title": "To Build More-Inclusive Technology, Change Your Design Process",
-      "excerpt": "Companies from Microsoft to Airbnb to Oracle are striving ... more accessible for people with different physical and cognitive abilities; the tech industry has taken meager steps to diversify ...",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2020/10/to-build-more-inclusive-technology-change-your-design-process",
-      "originalUrl": "https://hbr.org/2020/10/to-build-more-inclusive-technology-change-your-design-process",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2020/10/Oct20_19_72983853.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hbr.org/amp/2020/10/to-build-more-inclusive-technology-change-your-design-process",
-      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/10/to-build-more-inclusive-technology-change-your-design-process",
-      "publishedDateTime": "2020-10-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-18-webinar-bert-based-open-domain-question-answering-using-deeppavlov-library-on-azure-machine-learning.md",
-      "title": "WEBINAR - BERT-based Open Domain Question Answering using DeepPavlov Library on Azure Machine Learning",
-      "excerpt": "We will also demonstrate how this model can be trained in a cost-effective manner on Azure Machine Learning, using different compute options for data preparation and training. Since the beginning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sfstation.com/webinar-bert-based-open-domain-question-answering-using-deeppavlov-library-on-azure-machine-learning-e2414204",
-      "originalUrl": "https://www.sfstation.com/webinar-bert-based-open-domain-question-answering-using-deeppavlov-library-on-azure-machine-learning-e2414204",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.sfstation.com/assets/images/events/04/24142041702899750_orig.gif",
-          "width": 290,
-          "height": 290,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-17T21:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SF Station",
-        "domain": "sfstation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

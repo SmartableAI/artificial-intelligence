@@ -66,6 +66,15 @@ related:
       name: Newswire Today
       domain: newswiretoday.com
     quality: 17
+  - title: "Discover Announces New Data & Analytics Organization"
+    excerpt: "Discover Financial Services (NYSE: DFS) announced on Tuesday the launch of its new Data and Analytics (DNA) organization. Discover revealed that the new organization represents its commitment to technological advancement in financial services with a focus on customer engagement and marketing technologies."
+    publishedDateTime: 2020-11-03T11:40:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/11/168720-discover-announces-new-data-analytics-organization/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 4
 
 secured: "33eb9NUteeIAs/s+ibJ1nlN9WsG652VA+8zGi+8beO23EBSaTg6Ac8tImfcTLckfr6Hm5NO4phApZQhw9f2bNtqVBP+30Axk78t6+roWSpz9yipgRLrYKmTzSE2HHVvZ9EgfbBRnQ0prbtRfQZ4ASKKD2W1/pl+0wXSblHaoeIHgPBF4ODoxsK6WwBTHKwPf7VA47d8xGjY6BTD7X65yR0FpHRakuxxmLgC51JTec71FV4knUFW60fYTCq+CJxoIBN9nJ/4zLx7QNffpBIt+PhKbYuB7HfY3AX2llsi67TAw1HvtWU8XQwKXbdVCtdcd3iEc1lBdcDrEuSnOpjgXKiR8LcSgBPew3ArUC1Woy98=;/q8Wfp4X7QywuxC8weXZTg=="
 ---

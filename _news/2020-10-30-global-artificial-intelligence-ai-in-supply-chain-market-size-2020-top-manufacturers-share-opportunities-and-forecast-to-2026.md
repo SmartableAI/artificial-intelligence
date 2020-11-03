@@ -49,17 +49,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Global Speech and Voice Recognition Technologies Market Size, Share, Demand And Remarkable Growth Rate Till 2026 | Zion Market Research"
-    excerpt: "The Zion Market Research added a new report “Speech and Voice Recognition Technologies Market by Technology (Speaker Identification, Speaker Verification, Speech Recognition, Automatic Speech Recognition, Text to Speech, and Others), by Application ..."
-    publishedDateTime: 2020-10-30T10:00:00Z
-    webUrl: "https://www.openpr.com/news/2177025/global-speech-and-voice-recognition-technologies-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2177025/global-speech-and-voice-recognition-technologies-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2177025/global-speech-and-voice-recognition-technologies-market-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "rD4CHilvfOjQFFXrggIEOTFyxFgtl95eZfgBiBrrGtsNj22BlH+VtuSxV+BSQTNSDhWxk6l49KK9+dlRpcTDxoV9riXEolK11OvcGUIgeCTqBGPQ0y1nSC5D6upMM2Kkip1gLTL3V45j3YOmTMeBhHQ8DZ+m7qdi6Ps0qaIsor+sB+FatBLDvI4xCiR1xCU1+YTrmaGdgZZjEGAPknTYWmovrfOCCU34/qm92Jul9X8ZLk+so3aGugZw5K5GvTh7xZ4ZhYtpyONX7XbN3Vvl1qxoBW9zU9L7r48Jv5KLEBOR4VWGDLtZCqRNgvQW5xM0xN/eO91QgrfUt2qqgkNnJ5ys2VBNfKr1lbzpyxcbiI4=;iIS9IyR65ZIqHpYyB+KLDQ=="
 ---

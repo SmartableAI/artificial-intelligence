@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "A Checklist For Artificial Intelligence On Workstations"
-    excerpt: "Firms of all sizes are leveraging workstations as part of their artificial intelligence (AI) workflows. In the past, many firms relied on highly-scaled servers in data centers or private/public cloud infrastructure to run their AI  applications."
-    publishedDateTime: 2020-11-02T18:46:00Z
-    webUrl: "https://insidehpc.com/white-paper/a-checklist-for-artificial-intelligence-on-workstations/"
+  - title: "4 Things to Consider Before You Start Using AI in Personnel Decisions"
+    excerpt: "In the hope of making better and fairer decisions about personnel matters such as these, companies have increasingly adopted AI tools only to discover that they may have biases as well."
+    publishedDateTime: 2020-11-03T14:31:00Z
+    webUrl: "https://hbr.org/2020/11/4-things-to-consider-before-you-start-using-ai-in-personnel-decisions?ab=hero-subleft-2"
+    ampWebUrl: "https://hbr.org/amp/2020/11/4-things-to-consider-before-you-start-using-ai-in-personnel-decisions"
+    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/4-things-to-consider-before-you-start-using-ai-in-personnel-decisions"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 39
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 57
     images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/09/NVLogo_2D-1_09042020.jpg"
-        width: 306
-        height: 383
+      - url: "https://hbr.org/resources/images/article_assets/2020/11/Nov20_03_2513286.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "gIXu2/9AApPCYGrOlFjR/99EnrD8uWtsCsPKRrhLUwXxoLPGfjgUFZmWkx3ig3zbfIak99IJ98YoImNMgUr2Unbngsc9sDmBAOPOOKCfRUA7fIHKyAr0zo52XNYv69sITcO07Xiwz69LfRsmpBhJQU1EYDZYNE1PxtaOUgSbpALZORo7XRpCj7330c7nED/lBSDF8HpyRrp7CCBdCYl/CtVlUYVJa8ekjsv+nw12dQ9h5e2w+0QyEAy1FyoMu86BKdGh+jfuyAbM5h9DNy/Jr0LjU0y09B2Dg6iAhiplZXItbYpziJTuOHRbzzW8Bx0zt1fSqgW0LHAL8dA+yk4DxDILggcgBc4rcw8vH9HPZx/uggDmVm9PLL95j+lrFPJ4sOaGjsEnK42i0b1vL2f4mdvjYalnfdncl0UXyaE/Pf6TkILkbetRYXsXLTXjgPN2MmkI3kI0p15hKimS2Qqk4f5T8SNASBvjap9mAtxsrZJtiDf5TKRUaAZrKD+cswKhaROwuWPWt3obSGQ9bDCbjA==;XPw4mQo+oxWDqvhSAaSA7g=="

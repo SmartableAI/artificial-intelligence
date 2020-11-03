@@ -7,7 +7,7 @@ originalUrl: "https://thejournal.com/Articles/2020/10/29/Remote-Learning-Will-Co
 webUrl: "https://thejournal.com/Articles/2020/10/29/Remote-Learning-Will-Continue-Growing-over-the-Next-Three-Years.aspx?p=1"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 644
     height: 424
     isCached: true
-
-related:
-  - title: "Learning the language of sugars"
-    excerpt: "A team has now created a new suite of deep learning and bioinformatics tools that enable the comprehensive study of glycan sequences, providing insights into their functions and improving our understanding of infectious diseases. We're told from a young ..."
-    publishedDateTime: 2020-10-29T18:44:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/10/201028134036.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 36
 
 secured: "5W5+Zngw7oOmNghDAdptigzOMV5yzWxuvplshqBMkDiVdos1No0lOIwkrklYB3fBcEZ33NpLqDEcRHiMCpnqpz9cHOx3Y3nVva/ef635uPYTcdN+aC+82upcbyLpPxqvEUaZRXZ61X0xyo2PedJzTsoKbgq7fD/EjjIkqE9Dvp26HaEyWqcvAyqtPr7flowDj/0UUQPUm64HjSLC+qJLlGmrR5lrPNTz9gD57waTlSZFjJjdDznaO98if45Ai/FiT+hb6TiSEkbX2dtaN6jIfga5KPMkbaI2vSllP2oi+C0hO8H+fbzf/8J0ojgr0n+rzJDq+a51Zm+WS8tknbCmNZqOvqIOD5mWjGZY5B+e3oI=;5zE3STEgtS3Pcm/Sna/Vrw=="
 ---

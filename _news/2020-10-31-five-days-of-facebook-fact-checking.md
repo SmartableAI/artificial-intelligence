@@ -84,20 +84,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 41
-  - title: "Cloud and ad spending lift earnings at Amazon, Alphabet and Facebook"
-    excerpt: "The big three internet giants today revealed improved earnings despite and in some cases because of the COVID-19 pandemic, as advertising and cloud computing growth buoyed third-quarter results. As online ads saw a rebound,"
-    publishedDateTime: 2020-10-29T21:10:00Z
-    webUrl: "https://siliconangle.com/2020/10/29/cloud-ad-spending-lift-earnings-amazon-alphabet-facebook/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 24
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/sky-3096055_1920-artjoao-pixabay.jpg"
-        width: 1912
-        height: 1149
-        isCached: true
 
 secured: "i7Xr2NrKW6KEBLMZypy79UQDV+pTh/Yw7L9dyXT7wJN3TjEMTpLPNsJl1j+0gdXNcGfW4wbNCCRC7HvQ8n0MrbD7Y+a/4EJJw2NIdt0aY8EXs8J8o2PsYR0Assd69rar0E5jsWUg5rSuHThWEWU3ssfz+d1bQgrx29WVYE0CUPvm9MDNU2NL2PJfRvGGE9Yqc5mv4fheO9yeMt6iLyEVsMi7jFH1XNvSIj3VSte036S0xKjHOtGbnO7bE/u8tVmfmlDQ0eJT0iT26/orP11L4E8w/GtmDjpyOTuK5WjXZR9KJn+y7sxWmMW2XKwOQ9yyuSlUxVCc3aI4Q5sZ5UZLkEF7c//Dk8rNwdOu7likMi5WP1uJZR1RwH5LhJ5qzT+ddCCiTmLP2Yr4sSVRRTs49oLSM6OTxu7+A7R7kWbzQc7ibQI7v3JyV3I0KrjvKVgs3fO9OHiaYCN8IrirOvYoeL9xIQ8r5bk8o7DCd6l+Umw52AQKgr6R/fXw10QP8NO7pZ/fagJZzsZn74C8sUJTKA==;cdr7xBo+JSUCLyptXV5QWg=="
 ---

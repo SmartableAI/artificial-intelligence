@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/358890"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/358890"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -69,6 +69,15 @@ related:
       name: Newswire Today
       domain: newswiretoday.com
     quality: 17
+  - title: "Discover Announces New Data & Analytics Organization"
+    excerpt: "Discover Financial Services (NYSE: DFS) announced on Tuesday the launch of its new Data and Analytics (DNA) organization. Discover revealed that the new organization represents its commitment to technological advancement in financial services with a focus on customer engagement and marketing technologies."
+    publishedDateTime: 2020-11-03T11:40:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/11/168720-discover-announces-new-data-analytics-organization/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 4
 
 secured: "pkpk+upPeAkMhN/5bGkaNNxK2dnywsO/RyYKpvxJHQrjR5jmy+gBQC45nht9tMqYlefboEjDB4cKpi8zD+jmmki6loEaZcuEaoBFEHjdAAiV5v/qd/W2k6e8barHyOS85vPeP7wabKha5rMeXueF+QJhltEzzWprGQqTNmjVVV+yAOp2/5sMMYh8+iXJwBaIyxqP6A47/jPLP6lfwFUXcchbCZ/bydV5S0jbDrphzIKjhhZOtqkt0cij1Cq3pDy+fmfm6QhRgKBoX9QAgGYogdDa0aXdus5gr1d1tgXXUIYU119u9kEniENdtRnAx3Y+QwK5K0Vjb8gbmVXgy22fVzI8fD+DFK+DDC3jeIPbKpg/kHbm6KK+iR49buKu6gy9mvUIdPA9xvzWxYsulVeaf712ipURVqTseapP5ByHTiLlPTnQOXPIMmk4fmprNMxgs7Ph/sMpuq2Ifdm0mb+Bpwu/tzG/qQ7JyUDm09wGgxR85xFYTukCcx4vGK3t9Tjkdm33elrNl2Yrp6t4B8pTKQ==;WE+EIL2bClS9ZG2diTfniA=="
 ---

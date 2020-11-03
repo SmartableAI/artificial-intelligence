@@ -6,6 +6,9 @@ publishedDateTime: 2020-11-02T11:31:00Z
 originalUrl: "https://www.morningstar.com/news/pr-newswire/20201102ny77498/alpitour-world-selects-ibm-hybrid-cloud-and-ai-capabilities-for-a-more-personalized-customer-experience"
 webUrl: "https://www.morningstar.com/news/pr-newswire/20201102ny77498/alpitour-world-selects-ibm-hybrid-cloud-and-ai-capabilities-for-a-more-personalized-customer-experience"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: Morningstar%2c Inc.
@@ -15,6 +18,12 @@ topics:
   - IBM AI
   - AI
 
-secured: "tQh1q5RxXq9GVNfZMMPn9kjIarK5CUpFbmTNMmR839iDiZ3kB7Z+JJCtHcIB9IHVFYmAuVyACfBAxOw5wo9zffi+nlz7rh//y1I8WFcKaPPDFv+EXGfPvb/p7qxuL+ymWfVQ6TavCgkf6s6L5xyZd/iuY+igJqx3QqSeW0tDnGQiCpLeJgpg380NKwy9asrgPj5vW8KiP+n27vxFz8qUB6dBiwC6Vw0QLHG2yJISLNkdfH28qEzQl4TPLcqhMhfLLFxGd+Dnnq2ofMPMedJZz062qk9ELSqCzlzUe8uK+599ro3o5epeYPjo1Ky2dg2CyPEiEzsME9OrB1ja1DCcsImq/tCNc3kjI1bCOTg9Cyo=;CjjtTbd35JNr8U4Ng73tzQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1324474/Alpitour_2.jpg"
+    width: 400
+    height: 309
+    isCached: true
+
+secured: "UuTg+g1EJNWiw3R/0r0ImALATRKYzp40hs54QZjdJhXz3VWbGoWWoYmM228RFmz99ebPKHYEnTBRfyPn0ojkggTIrvwBRi/QDTNfUehiHRI+BhGrmMQMTTH+8D1gP5GlQlT5eXCsrmyrnI32KhcpHxnA4SCSTcDMC4xrCm7xN/EU++jC2i3i6UOLP+am6K5oeaEnwnOUId2K6rfSeALBZ42gDpqdJAZvrbRBT6XMvJRRUy4fOxUaSz32Ga1YpaMT9RPfsmgNNEFmq/K88RjM3PtQKSQhMKtW6DshOghsS2UadkkMNpLsRkFMtTMPf2vjeTuIt0OQEOFM8iX60olHPXkc71Iyio8o2b/RmaLFKjY=;WPMFrKYLgU632PGR5CAfKA=="
 ---
 

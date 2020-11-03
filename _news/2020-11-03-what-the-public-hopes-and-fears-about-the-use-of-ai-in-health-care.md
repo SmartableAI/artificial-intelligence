@@ -1,29 +1,29 @@
 ---
 category: news
 title: "What the public hopes and fears about the use of AI in health care"
-excerpt: "The use of artificial intelligence in health care is on the rise, and the concerns of the public need to be considered in developing policy that regulates its application."
-publishedDateTime: 2020-11-02T22:00:00Z
-originalUrl: "https://theconversation.com/what-the-public-hopes-and-fears-about-the-use-of-ai-in-health-care-148226"
-webUrl: "https://theconversation.com/what-the-public-hopes-and-fears-about-the-use-of-ai-in-health-care-148226"
-ampWebUrl: "https://theconversation.com/amp/what-the-public-hopes-and-fears-about-the-use-of-ai-in-health-care-148226"
-cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/what-the-public-hopes-and-fears-about-the-use-of-ai-in-health-care-148226"
+excerpt: "There has been increasing interest in using health \"big data\" for artificial intelligence (AI) research. As such, it is important to understand which uses of health data are supported by the public and which are not."
+publishedDateTime: 2020-11-03T14:52:00Z
+originalUrl: "https://medicalxpress.com/news/2020-11-ai-health.html"
+webUrl: "https://medicalxpress.com/news/2020-11-ai-health.html"
+ampWebUrl: "https://medicalxpress.com/news/2020-11-ai-health.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-ai-health.amp"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://images.theconversation.com/files/367025/original/file-20201102-21-d19x1.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=240&fit=crop"
-    width: 320
-    height: 240
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/whatthepubli.jpg"
+    width: 1356
+    height: 668
     isCached: true
 
 related:
@@ -55,6 +55,6 @@ related:
       domain: businessinsider.com
     quality: 82
 
-secured: "3rmjFF5U66NPpr8jEef1sCglCzGz/dVRjRoSctId5K6MyWzm4zgdkjp4VNGCt/DiPP/G9yvlw5+47Oo2fDGEkeDfqqTmOs///NeCF1FHkhbR6Jqs6KD5HtNjErRpCgnkIwa4q7EE54NvBSFsnaKlDV9x5gA3auMjSYrnnFL/EbZsxG7t39/3SSf+oTLU4FP2iVVbTG5mV/cwFdo6IfTmswqY9vr5h+OFIPqklpgaQbs9OjDSpdGWNGguAbuzTrksFuvugb4QfKRLyDqBO3rqnY8VnfTeHEwoQIkTaLzIDwRNG/NTLZOg0v0+n86PMlaX9RGSdj9UHy/A5CHS5ztZb1UMqlqfqH1QGusUpshIgTZRzMWKUYwvs1m2SHVBAsQq/eFM2ueWIkye91elp9wHj6KrROjP4ssSF68lxM+bErszVnHipFUc/1mXHr+giu6X43tpRypCzv2Qu/25NRX8RaZW7Vxg7xG2+CSoHd+HnuJPcANutgSfvRPV1NUQnO4nRnYH3ld8MLjiHJgIzn5xEg==;ErBigwr51IhAlt+NpshRhg=="
+secured: "HwhRURt/jWL5AybOOKWL4IFWsNRgbLy41CAV8AEr7VS0hVTjBxn7yOopkKgEN7+MGC13grOqhAXQOKMGM5ReLW7tfNal8R08CM9dqSE7BfYd9vJkhd2OmayXcHxcEbL3OhlgC7Xu3O2vmz3ZhzUT8QJXuqgXoPTactRt36+tPR6ooqi56YtQshouPfLkd05Qj0JqlMZZqgjxiQ84DtgY04PUQF8rOap2OO1EteKskH7lA3GL8frZgrTG2ylaFuA5s2c3667v/hSZTB/Do3zOpz6lB0zg2SLl0h1j4ifdu/TH0Bs6dG5+DGv6WJ+ROkH/ie0sDj/p+j5oc59hGgrTH9fmf8C9CJOrtMAU1fTpqb0=;xgrAoYB1Mo3kSXyGRD0kAg=="
 ---
 

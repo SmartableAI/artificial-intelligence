@@ -7,7 +7,7 @@ originalUrl: "https://www.miragenews.com/university-of-southern-california-leads
 webUrl: "https://www.miragenews.com/university-of-southern-california-leads-new-artificial-intelligence-study-of-alzheimer-s-disease/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 1416
     height: 829
     isCached: true
-
-related:
-  - title: "Artificial Intelligence Helps in Early Diagnosis of Alzheimer's"
-    excerpt: "Machine-learning algorithm detects early stages of Alzheimer's through functional magnetic resonance imaging, said researchers."
-    publishedDateTime: 2020-10-29T20:37:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-helps-in-early-diagnosis-of-alzheimers-198232-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-helps-in-early-diagnosis-of-alzheimers-198232-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-in-early-diagnosis-of-alzheimers-198232-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 59
-    images:
-      - url: "https://www.medindia.net/healthcare-directory/images/find-a-doctor-300x250.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "igEokwE9i3VcEStW8LUw53WMO+VWEoT3vFVW9eK2md4LMoiiBRoAECFoB/V+uNcgJlU2bEKhzemm6R18R+9ruHsgr5BYaeP1TXp22Kon+ZOCOhzkH9Bpl/MxyexT/KzojB+ss64veWArBcZHL6fYMgDnFUzp+e22plEZKDXaq882SmVkJvIkOXRxtwn0VcTslFxbk3G6F+VkRlw01jy6RF3LvOvK5S0p3GFSeapFGAGktBlUzfQ695mMX8YC3k37eMhzR1LdmugtLb9XCu+PvLy5W1l410gOviq45BgFwl1S9yteapgs0dPTGSHxrrXM5zsFGn1OY1GkCVG2ZPPPPxc9qn50ZU03qDzXd9dsjgY=;OirtUgPq9k6hu9bPlhyebQ=="
 ---
