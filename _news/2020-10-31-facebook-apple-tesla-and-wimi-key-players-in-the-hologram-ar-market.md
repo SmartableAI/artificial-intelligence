@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Google and Facebook look for life beyond advertising"
-    excerpt: "Movements made by Google into other markets like hardware and artificial intelligence should be taken with a pinch of cynicism too, as many of its acquisitions act as conduits for its first and most valuable product. A thinly veiled confirmation that ..."
-    publishedDateTime: 2020-10-30T06:02:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2020/10/30/google-facebook-look-life-beyond-advertising/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/10/30/google-facebook-look-life-beyond-advertising/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/10/30/google-facebook-look-life-beyond-advertising/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 44
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/2020/10/07/Businessman-with-money-and-a-Google-logo-for-a-head_trans_NvBQzQNjv4BqIdUlPYoxLQG5nHXVd2JxiNcCUzMnBOjo0aMZ-3kW9eg.jpg"
-        width: 675
-        height: 422
-        isCached: true
   - title: "Facebook Wants to Give You Superhuman Hearing Using AR Glasses"
     excerpt: "These researchers want to solve the \"cocktail party\" problem when it's too damn loud to hear the person you're talking to."
     publishedDateTime: 2020-11-03T00:37:00Z

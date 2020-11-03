@@ -7,7 +7,7 @@ originalUrl: "https://ladailypost.com/noaa-agreement-with-google-explores-artifi
 webUrl: "https://ladailypost.com/noaa-agreement-with-google-explores-artificial-intelligence-use-to-enhance-environmental-monitoring-and-weather-prediction/"
 type: article
 quality: 11
-heat: 11
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 591
     height: 289
     isCached: true
+
+related:
+  - title: "Artificial Intelligence agreement will Enhance Environmental Monitoring and Weather Prediction"
+    excerpt: "Other Transaction Authority (OTA) agreement, NESDIS and Google will pilot specific AI- and ML-related projects to amplify NOAA’s environmental monitoring, weather forecasting, climate research, and technical innovation."
+    publishedDateTime: 2020-11-03T21:59:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/airport-aviation-security/artificial-intelligence-agreement-will-enhance-environmental-monitoring-and-weather-prediction/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 25
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2020/11/blobid0_1603716746180.jpg"
+        width: 600
+        height: 296
+        isCached: true
 
 secured: "qhSPsOVoDFpcY+gHnCXA2G69Eg/xm08zd2Hj+AJvKMpiLd5/7clbBx6WoOZe6F6bMXm1Vm35Bd1Onh2WvmdxojXGwv20HzNi+htZWuS8XX9d6tqkkU38RT3kt1Gz84LbaSO/ZEIK9v/KrqvwzQd0KduaRHC48fPqvNAWemNtOpPCTZ0iiGSzl8VTscma60Xdabn+tbw2wHplUScVczFJ6HwnqEKbTOUYI9HIeSlM5ZQgjKyLY+DFXDct6NrijRDglybrsDo2jGc3XjSSSKEQPHtpmrllKSRafOpEMopCoX+KH5L3KsA7nBaevXbWLyppmB45ffF+xs52NK/nyRkuuZQa99DtyRjiNzIvSj+ruyxYshHtIVMs5gDgbOlN3Lu+5FRvLDDUysaI5kOE9ts3FEBkQWSgnhlC3TMdIbdE3EEnMsxQWJlX5d6YYSiFUYw0nrxYJ5NAG1Hr8yidPy971tFGjoZSc34owoma5ZFhRIc6zaosDlhv3VUnqT/itCI9J4LfcFXXBCMN8G9GlQmd8w==;dDGpl2U0TN6eb2Em2iwz6A=="
 ---

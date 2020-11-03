@@ -28,12 +28,12 @@ images:
 related:
   - title: "University of Minnesota Duluth's frontline workers in the making: robots"
     excerpt: "A UMD professor and her students are in the process of programming \"COVID gossip bots\" to socialize with and monitor isolated residents of assisted living facilities."
-    publishedDateTime: 2020-11-03T18:22:00Z
-    webUrl: "https://www.grandforksherald.com/news/education/6731443-University-of-Minnesota-Duluths-frontline-workers-in-the-making-robots"
+    publishedDateTime: 2020-11-03T21:34:00Z
+    webUrl: "https://www.postbulletin.com/business/technology/6744024-University-of-Minnesota-Duluths-frontline-workers-in-the-making-robots"
     type: article
     provider:
-      name: Grand Forks Herald
-      domain: grandforksherald.com
+      name: Post-Bulletin
+      domain: postbulletin.com
     quality: 38
     images:
       - url: "https://www.duluthnewstribune.com/incoming/6739338-rx905s-110220.N.DNT.CovidBot-c01.JPG/alternates/BASE_LANDSCAPE/110220.N.DNT.CovidBot%20c01.JPG"

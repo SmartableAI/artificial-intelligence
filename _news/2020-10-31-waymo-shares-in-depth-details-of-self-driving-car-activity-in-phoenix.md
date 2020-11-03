@@ -47,22 +47,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "This self-driving racing car could have done with a driver"
-    excerpt: "Roborace is described as “the world’s first autonomous competition for human and A.I. teams, using self-driving technology in immersive environments.” Competitors use the same electric drivetrains and chassis, with each team tasked with designing and ..."
-    publishedDateTime: 2020-10-30T05:40:00Z
-    webUrl: "https://www.digitaltrends.com/cars/watch-this-self-driving-racing-car-slam-straight-into-a-wall/"
-    ampWebUrl: "https://www.digitaltrends.com/cars/watch-this-self-driving-racing-car-slam-straight-into-a-wall/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/watch-this-self-driving-racing-car-slam-straight-into-a-wall/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 74
-    images:
-      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/roborace-accident-1200x630-c-ar1.91.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Google's Waymo is pulling its self-driving cars out of San Francisco in case violence erupts around the election"
     excerpt: "The company will also stop testing on San Francisco's streets for the next two days as the 2020 presidential election unfolds."
     publishedDateTime: 2020-11-03T17:09:00Z
@@ -119,6 +103,20 @@ related:
       - url: "https://www.businessinsider.in/thumb/79027021.cms?height=275&width=412"
         width: 412
         height: 275
+        isCached: true
+  - title: "Waymo pulls self-driving cars in San Francisco as cities nationwide brace for unrest"
+    excerpt: "Waymo, the self-driving company of Google's parent company Alphabet, has suspended its self-driving operations in San Francisco as businesses and cities brace for potential unrest following the presidential election."
+    publishedDateTime: 2020-11-03T20:53:00Z
+    webUrl: "https://www.kctv5.com/waymo-pulls-self-driving-cars-in-san-francisco-as-cities-nationwide-brace-for-unrest/article_b03cae60-5289-57e5-84d9-f4a6c5a8c497.html"
+    type: article
+    provider:
+      name: KCTV News
+      domain: kctv5.com
+    quality: 32
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/custom/image/fd7ea874-0ed9-11eb-b9d4-0ff2ed620326.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "2vkeuPnpoLg5o+CzOFayNAdAmFjCk6LXKyqEmggyUgA7B/SCbdBesLoYf8Tc9qKOIpk2lYmMuUVgqzMZe9T/9L4xsmdTWx2sIUBmr6WSrugA4YX49pgAq1CfHPmHvwVlSkD69XS6sY/DvZ/wdl/wsM2hVU/CO8WtivhRKHGiRE8HyDSjWaOzonlTUXKF8APEPW6XrX5yTC9FlqbP9VvcVBdo/dtbgLdfAd8sDeZLsaFaCB4PsgeEdgq1RTHh+eOkEUeg1iak6v1xfflnzLqin1LPikKB0SuiSrE2NshJBfRzsv/OZWDD/Ekje46q82OY5TjiIskIc/w/Ihf2YAtGV4ukxjsIfNB0SjXBUdLP5NUmKFU1O+SRU3ySOkKfIsGgghi/c7cel2+sUKqylTCo4kjdU11+VjgzS1xlzwbbELZH/v1XvCaDPMkH1QYZWELDCAWV/X24oGgYIvgNBqILMfgIFqJNPYyUvSXZjopa5bMjHcGvh2WgXf5hNfpGkftnVlLe5VCXvVmFXJBlGBdOtg==;/OcqwdODUmgMUeYaLQoe2A=="

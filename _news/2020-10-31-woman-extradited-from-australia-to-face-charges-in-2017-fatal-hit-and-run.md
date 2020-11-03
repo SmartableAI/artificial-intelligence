@@ -9,7 +9,7 @@ ampWebUrl: "https://lasvegas.cbslocal.com/video/4834175-woman-extradited-from-au
 cdnAmpWebUrl: "https://lasvegas-cbslocal-com.cdn.ampproject.org/c/s/lasvegas.cbslocal.com/video/4834175-woman-extradited-from-australia-to-face-charges-in-2017-fatal-hit-and-run/amp/"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -19,24 +19,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "Australians Have Low Trust in Artificial Intelligence and Want it to Be Better Regulated"
-    excerpt: "Every day we are likely to interact with some form of artificial intelligence (AI). It works behind the scenes in everything from social media and traffic navigation apps to product recommendations and virtual assistants. AI systems can perform tasks or ..."
-    publishedDateTime: 2020-10-30T04:12:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/10/australians-have-low-trust-in-artificial-intelligence-and-want-it-to-be-better-regulated/"
-    ampWebUrl: "https://www.gizmodo.com.au/2020/10/australians-have-low-trust-in-artificial-intelligence-and-want-it-to-be-better-regulated/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/10/australians-have-low-trust-in-artificial-intelligence-and-want-it-to-be-better-regulated/amp/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 48
-    images:
-      - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2020/08/19/robotwoman.jpg?ar=16%3A9&fit=crop&q=80&w=1280&nr=20"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "dFOd8mZgMLW0Ti10d4AXY7tXYWrZGw5OMpmfWO3yc3RKqMHA0e9efeG4UosZaBBQIwkZmTP5JTeH+J0ORiQ3i2K+ILOmq3HvHCgjV8/TnqFy7C4gv75zxIrEFnO6rOPYZN0syV47JQdtJc8SlO18j83AfURZ27csKLO2hFh7HqWGbbyET6r8+7V0Fbd2kczf51KXZ53ovpxFAMcFUdDSlMNWmsib23tZriR2oFiFLye1xPahX0sRd+mNLibDV1b+UFRTgNsx/vVqxVwrIPl3NHsEYMCydplcAWmXAzDglkdi7D2fKHSDatwL0SZciDjMj3txSotqCZXsB+B3jeUWx5L2DCkbT/v1z+OLZIqkPqMdm/tG1InZIwyTNHDt12Y0JvNTrSxfTDN2svDkdQw+WLV6Fz40FUyuF7Rb5X/Kev7vEHp21HKTGBDFXfHaCOV/6PAW0Zx95aUvLUJdQL9R4uJYblQdOCw01FrTwsWJWid6EWDPA14PQTshlsWDkUMi5TTb1RgSNt5g98s3eU2MVA==;4ZlMXDyOK0xclSXI0uVcoQ=="
 ---

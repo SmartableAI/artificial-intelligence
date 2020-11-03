@@ -386,22 +386,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Race car drivers had a lot of fun making fun of self-driving race car driving straight into wall"
-    excerpt: "Race car drivers took to social media to point out their job security after video showed a self-driving race car drive itself into a wall."
-    publishedDateTime: 2020-10-30T06:06:00Z
-    webUrl: "https://thecomeback.com/racing/race-car-drivers-had-a-lot-of-fun-making-fun-of-self-driving-race-car-driving-straight-into-wall.html"
-    ampWebUrl: "http://amp.thecomeback.com/racing/race-car-drivers-had-a-lot-of-fun-making-fun-of-self-driving-race-car-driving-straight-into-wall.html"
-    cdnAmpWebUrl: "https://amp-thecomeback-com.cdn.ampproject.org/c/amp.thecomeback.com/racing/race-car-drivers-had-a-lot-of-fun-making-fun-of-self-driving-race-car-driving-straight-into-wall.html"
-    type: article
-    provider:
-      name: The Comeback
-      domain: thecomeback.com
-    quality: 46
-    images:
-      - url: "https://cdn1.thecomeback.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-29-at-11.58.31-PM-1024x567.png"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "Tesla increases price of Full Self-Driving to $10,000"
     excerpt: "Tesla continues to raise the price of its Full Self-Driving (FSD) electronic driver-assist feature. The company raised the price to $10,000 this week, up from $8,000 previously. The feature cost $ ..."
     publishedDateTime: 2020-10-30T12:40:00Z
@@ -467,6 +451,6 @@ related:
       domain: channele2e.com
     quality: 2
 
-secured: "kBVoQwZdGLzAkfXxA3CAF9v0hs3XFgnZ+U6saGDaZ2574LkXMtYkXdjx1kajczuEX8zhsiowwRr7qH8/MbH0cXtn9IT+H5wOHQRydnm7d84MDnpj/5YrrTdtgb6heKIaBQlegNeDM1WteOiRYKX9QP/MIcQu+8OO346Fs1NIX7enw+w4uhWAOwhzn7nOpn3exLEpca/OiG1Pqca0r7/xZDxajsQ7o9vEsOG3nFAtk5n6q2PQubhVA8pI1iSyjpV88NzboBfjS2xHZWrsGlttfGPV/Pl+OQAqRtwIi/ARGTRo1O16xRXeTzTlsLfak2mHIO64jxY1OtWjUCPM/b4JeqXp/IXaNQOeMR4A1UB8AiQ=;PLN7LZHYDiYIzkATlwPGyg=="
+secured: "by+Uof3VazlNCCbpWfh5Muz88TiiGmD2eeQpMWp2ni9XYkNoLT5X+sF+ri7pMizOE0k6xaXoVA1KhlgBU3aC9hyxO9cFHV10TIyqt8b96Ix0EnQYrGUzRxyzUa1vL6uGy6Ud7fB+S9ov/Gm3zsqzam8twRiZb/frhNrwj+K11/wJr1bGYqzaNAJx5m5iikpZoRvlV9/xo+qkkDTTtTtiYhSV3GjwB1bCYRcmdnAtxe9ogI6KJKF9SkmNJMjw6h9IfMwrbiGJ80rGJRWngUAGrhvn9D3x3cpXjnMv1wFRCiDNedjsEIWO3hAwhrNbixPw3O4VVbLgUuFxjk/OochXwXneCd7bIL7KbkHooliitKR0tv3R6CImUKOygJBm8t4VFSZCDPkOLC9hIXUagKlF7DPO62kAOoad2fpumuW8AxCtaWlguygQD90/o3LMzNPKgNTaQ/kZdXYsgix2ylZHcVsKOJsNj80SRebbJrnAE9d9K424CBBQVJSHhG80I50X0Djneovci89Fik/28Hf8EQ==;0LbgTs/XSA2tZilKvF6lYA=="
 ---
 

@@ -389,22 +389,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Race car drivers had a lot of fun making fun of self-driving race car driving straight into wall"
-    excerpt: "Race car drivers took to social media to point out their job security after video showed a self-driving race car drive itself into a wall."
-    publishedDateTime: 2020-10-30T06:06:00Z
-    webUrl: "https://thecomeback.com/racing/race-car-drivers-had-a-lot-of-fun-making-fun-of-self-driving-race-car-driving-straight-into-wall.html"
-    ampWebUrl: "http://amp.thecomeback.com/racing/race-car-drivers-had-a-lot-of-fun-making-fun-of-self-driving-race-car-driving-straight-into-wall.html"
-    cdnAmpWebUrl: "https://amp-thecomeback-com.cdn.ampproject.org/c/amp.thecomeback.com/racing/race-car-drivers-had-a-lot-of-fun-making-fun-of-self-driving-race-car-driving-straight-into-wall.html"
-    type: article
-    provider:
-      name: The Comeback
-      domain: thecomeback.com
-    quality: 46
-    images:
-      - url: "https://cdn1.thecomeback.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-29-at-11.58.31-PM-1024x567.png"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "Tesla increases price of Full Self-Driving to $10,000"
     excerpt: "Tesla continues to raise the price of its Full Self-Driving (FSD) electronic driver-assist feature. The company raised the price to $10,000 this week, up from $8,000 previously. The feature cost $ ..."
     publishedDateTime: 2020-10-30T12:40:00Z

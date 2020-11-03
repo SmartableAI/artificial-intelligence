@@ -41,22 +41,6 @@ related:
         width: 800
         height: 360
         isCached: true
-  - title: "The ‘Fintechization’ of Everything: The 7 Hottest Fintech Trends in 2021"
-    excerpt: "We all know that 2020 has been a total paradigm shift year for the fintech world (not to mention the rest of the world.) Our financial infrastructure of the globe has been pushed to its limits–as a result,"
-    publishedDateTime: 2020-10-30T05:30:00Z
-    webUrl: "https://www.financemagnates.com/cryptocurrency/news/the-fintechization-of-everything-the-7-hottest-fintech-trends-in-2021/"
-    ampWebUrl: "https://www.financemagnates.com/cryptocurrency/news/the-fintechization-of-everything-the-7-hottest-fintech-trends-in-2021/amp/"
-    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/cryptocurrency/news/the-fintechization-of-everything-the-7-hottest-fintech-trends-in-2021/amp/"
-    type: article
-    provider:
-      name: Finance Magnates
-      domain: financemagnates.com
-    quality: 43
-    images:
-      - url: "https://www.financemagnates.com/wp-content/uploads/2020/02/fintech-industry.jpg"
-        width: 880
-        height: 400
-        isCached: true
   - title: "HK leads in fintech development"
     excerpt: "The progress of fintech in Hong Kong is very reassuring. In recent years, a number of major fintech initiatives have been launched, and widely adopted, by businesses and consumers alike."
     publishedDateTime: 2020-11-02T07:28:00Z

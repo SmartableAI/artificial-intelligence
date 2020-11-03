@@ -1,23 +1,20 @@
 ---
 category: news
 title: "Alliance Health Invests in ZeOmega's Powerful Artificial-Intelligence Solution: CareIntel"
-excerpt: "\"Artificial Intelligence (AI) helps organizations like Alliance overcome challenges by leveraging an astounding volume of health data to analyze and predict member needs,\" says ZeOmega co-founder, President, Sadananda 'Sada' Babu Rai. \"It allows payers to ..."
-publishedDateTime: 2020-10-28T12:04:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/alliance-health-invests-in-zeomegas-powerful-artificial-intelligence-solution-careintel-301160987.html"
-webUrl: "https://www.prnewswire.com/news-releases/alliance-health-invests-in-zeomegas-powerful-artificial-intelligence-solution-careintel-301160987.html"
+excerpt: "Alliance Health is expanding its partnership with ZeOmega, the industry's leader in population health management (PHM) solutions, to include ZeOmega's CareIntel Solution Suite:"
+publishedDateTime: 2020-10-28T12:15:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/alliance-health-invests-in-zeomegas-powerful-artificial-intelligence-solution-careintel/article_6ccf830e-4012-55ec-8e3d-c17d4c9a17cb.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/alliance-health-invests-in-zeomegas-powerful-artificial-intelligence-solution-careintel/article_6ccf830e-4012-55ec-8e3d-c17d4c9a17cb.html"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "yR224SEHBKMpqBXKgQ2Z624Cr8Dyyupl2INDu5wotP1lhUmzP24uH75T8Ei3sAgX9P/WzwJBq2pv2OotKENFTDSose+QtomVSHqxDJQswFADa/oGHYdUwAmgpqlbihmWzbjizEKys0MYXxH3bTKmY7OhzKscV0M4TCtK0rOvi/qTxwrTv3AX4WzbqTtNcka3hgSSMPk6bKOWgRgNm0pCzl1uFVBHeaDgSM1PIEcXBW8HqBvOie41wJXLD23Lxv8vJeEBkqRJxICLt8OAPdONec2x//e/bo6v1wy3asORz5q5al5OUfphh3VP776LNueloKIISY9UvTQc23/2tgSCzRPtsqUlwAy1hjnK0NJUmdE=;B6+vnrfTmaTmUC4HrOG08A=="
+secured: "zUDgBHWIe9D/aNqbPeqXwQcBvTJNzKsmKYJ4WbRYgFkmAorg3C6Owv8kJmMqeRlU5JAw1VR6B1HBXTVIsUiTx9pmrEymST6h0JfR+KxE4PTdfoax7jppRm4+CQQW9vTUnlnN4kzefLkSnF/mFu0IFa4+le0w9OfrYuYMlDSV6F4b9o5ehXT5orrPi46FOE8E7KLKM+wwjNGhbr8B/fXHNFPmwBQAVTT8n3NhNlF3r6vWUUwo69cwhuWmyYvr4XWCXSW064azLJxzGkOnskMz0JugX7L1kLdhEj71vX8LstW9rx6Nw/M65un9hp49Kh+tLJOJFdGAy1eLBKrb0TB2bAya6niY0otk153rwdcmL8g=;RODSstrMtvzMw4IHol5xdg=="
 ---
 

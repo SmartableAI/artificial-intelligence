@@ -39,20 +39,6 @@ related:
         width: 1050
         height: 591
         isCached: true
-  - title: "Technavio Research: Facial Recognition Market will exhibit a CAGR worth 12% during 2020-2024 | Technavio"
-    excerpt: "Technavio has been monitoring the facial recognition market, operating under the information technology industry. The latest report on the facial recognition market, 2020-2024 estimates it to register"
-    publishedDateTime: 2020-10-30T06:02:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-10/51101299-technavio-research-facial-recognition-market-will-exhibit-a-cagr-worth-12-during-2020-2024-technavio-004.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 22
-    images:
-      - url: "https://mms.businesswire.com/media/20201029006337/en/834930/4/IRTNTR44231.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Global Artificial Intelligence of Things (Technology & Solutions) Markets 2020-2025: Market will Reach $65.9 Billion by 2025, Growing at 39.1% CAGR"
     excerpt: "AIoT Market by Technology and Solutions 2020 - 2025\" report has been added to ResearchAndMarkets.com's offering. This AIoT market report provides an analysis of technologies, leading companies and solutions."
     publishedDateTime: 2020-10-30T23:15:00Z

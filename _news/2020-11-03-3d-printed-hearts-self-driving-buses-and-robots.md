@@ -3,13 +3,13 @@ category: news
 title: "3D-printed hearts, self-driving buses, and robots"
 excerpt: "Technologies that were still largely in development or limited rollout a year ago are now becoming commonplace, including self-driving cleaning robots and automation in areas like fast food and delivery."
 publishedDateTime: 2020-11-03T12:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/3d-printed-hearts-self-driving-buses-and-robots/"
-webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/3d-printed-hearts-self-driving-buses-and-robots/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/3d-printed-hearts-self-driving-buses-and-robots/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/3d-printed-hearts-self-driving-buses-and-robots/"
+originalUrl: "https://www.zdnet.com/article/3d-printed-hearts-self-driving-buses-and-robots/"
+webUrl: "https://www.zdnet.com/article/3d-printed-hearts-self-driving-buses-and-robots/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/3d-printed-hearts-self-driving-buses-and-robots/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/3d-printed-hearts-self-driving-buses-and-robots/"
 type: article
-quality: 74
-heat: 94
+quality: 91
+heat: 121
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://zdnet1.cbsistatic.com/hub/i/2020/11/02/ed6fcd42-5f15-45ca-ac85-27699560d6a1/robot-touch.jpg"
@@ -59,7 +60,16 @@ related:
         width: 768
         height: 391
         isCached: true
+  - title: "Self-driving startup Pony.ai gets funding from FAW"
+    excerpt: "Self-driving technology startup Pony.ai struck a funding agreement with automaker FAW Group, calling it the first strategic investment by a Chinese state-owned vehicle manufacturer into an autonomous-technology company."
+    publishedDateTime: 2020-11-03T10:35:00Z
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-startup-ponyai-gets-funding-faw"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 19
 
-secured: "cG/3scqboXlUX60d/IhXqk4KlyNVruRyCa/YNDuYguB6j+EF2J/YdGFyE0nwkCyVlfJhD0vG2bILJR1Xkh86uhkSXNL1H4JNRAw4r7/j9sWfNQGXZDkxVNll5Dg1h59rYtIambaIkrcvXn1pZMtockgPB3v0WPLdhRBinuq45DcMJQT4PDEsgTI3wP0FxnZHxsXa8UzJN7cfJPEER1KPsbGSnFsUAy/d28u6X+nhIRApxnPM2XCzwnoiMtLMB0rPe7fA8msG8QV6tmsZDmIzubHLpg1mFhlzDTLFP6LB6L523nQxDrxAqRCLbXnPVUr0hWByV57gwTdtrVeKgbQ+8qN80zfQ2zmUrlUKFCdPhac=;44vwinzYhUAp2fo8A1JwXg=="
+secured: "CcN85i8r0Sb/qnqvzGIb/BrMy1oCaGbJUyatmWN3OcaN5YIBZ59lRWePxKtbL7m0HBCjlLQbWoWdm4fQMTeHeB2rEaiGdDvfVJfOwUMpbZntj1VAOKBoQ+eRJL/m6z1ndaGIIPdOI9o42aW71ybEqtMbbJEY4My6X6o4WOWH2+eDUGFrnXIxowr/T8OdqvXyXeCaZJwk9ilAwltbtNUNzkKqmcHKvCBXVxtk7f4+bN9lktQjGpo+MZLmjsGz2aAXyl3o2jpBapOmDRn8/ZpAZi1c7yjW5wd6ksWp0Ku7Mtb4y5qIeTxzsr/FrFJc3AqZ+85p4kMWSZRu/p+mTGLjDYo5pCab0vaiONHDwHSMCIs=;/lqhWNqLqHORP/eRheYxLg=="
 ---
 

@@ -84,20 +84,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Market Size, Share, Demand, Opportunity, Outlook, Trends, Revenue, Future Growth Opportunities By 2020-2023"
-    excerpt: "Global Computer Vision Market Research Report Information by By Component, By Application, By End-User and By Region Forecast Till 2023 The computer vision technology landscape continues to undergo relentless transformation,"
-    publishedDateTime: 2020-10-30T05:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-size-share-demand-opportunity-outlook-trends-revenue-future-growth-opportunities-by-2020-2023-2020-10-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence (AI) In Supply Chain Market Size 2020 Top Manufacturers, Share, Opportunities and Forecast to 2026"
     excerpt: "The Zion Market Research added a new report “Artificial Intelligence (AI) In Supply Chain Market: By Technology (Machine Learning, Computer Vision, Natural Language Processing, and Others), By Application (Supply Chain Planning, Warehouse Management ..."
     publishedDateTime: 2020-10-30T10:18:00Z

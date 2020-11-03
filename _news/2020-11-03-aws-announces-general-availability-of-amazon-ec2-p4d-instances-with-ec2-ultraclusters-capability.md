@@ -29,15 +29,15 @@ related:
   - title: "Amazon EC2 P4d instances for pushing machine learning boundaries now available"
     excerpt: "Amazon Web Services (AWS) has announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) P4d instances with EC2 UltraClusters capability. The cloud giant has touted the offering as the next generation of GPU-powered instances for providing the best performance in machine learning training and high-performance computing (HPC) in the cloud."
     publishedDateTime: 2020-11-03T00:34:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/"
+    webUrl: "https://www.zdnet.com/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 82
+    quality: 80
 
-secured: "XLNaBv1K4NFiDBXCts0oZN5+/MbIfL95ZmM9CK0579O+PhReXPRRqi0+BJUNssdlq6jHbe/J1SAT5KFljevIafbRXVROo+PWgOpbqzjNHaKYfyTdqB17ggnROrLjp3MKjOBVlxYnWmcfCyJeZK72JaQ6ORaTpysRSuiddBqMz2fnimQzSdoaq/wqOOLdONPJiw2y+gX4vM2Qp86fkP3AO3teQ2uHDgpbs+js63jlUKdYIcL1u5cZwM/fw/cTC+Vx9nVltrUmc4jvc+paj6ShfMKnbVTXHfKQPdGM40SqELTH/hxItDqjidn7Hr515LLbLcFNrT+UFEZr2M+YhPnqUmP41zIap7pe5GqgVZKamBQ=;oU6uNxtSSECZ3MGqhZsS6g=="
+secured: "2hELpPEXqZVON1+FtGctIGuXDiL/U2jecKAN8tdwIDIOeVi4k2GsA4AYMk7lhnLYNoslrKXEpEye1vJrvn0xfHChsC2OugTPzm06kZUW7N687ERLoU+AkimInzyFggoZMsBexZbWygpoMH2apOyW0QPSAOND5g6MCET0VCAtALqhMWEZiTYLYhhxf9S2RBEsTLC5k/vS9UbjCSqsbCvvqbVazcoSmHHbWicgvriSwhUKmG2otxzGnTI9f53wzM4hyGtQyx7f7jtbWTFVWCxdKe2Fu5DmlWyrjCGhQ3g7MoK7D3RDExKNB+VpUdNTPBxNdEKWarPSQjhNQSN/zB6y5H4xj2lIpQ3yJdlZuIEBtD0=;mdH4sKI+IIJ0lnyBa3f2+A=="
 ---
 

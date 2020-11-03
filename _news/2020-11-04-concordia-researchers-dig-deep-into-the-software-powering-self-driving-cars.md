@@ -28,14 +28,14 @@ related:
   - title: "3D-printed hearts, self-driving buses, and robots"
     excerpt: "Technologies that were still largely in development or limited rollout a year ago are now becoming commonplace, including self-driving cleaning robots and automation in areas like fast food and delivery."
     publishedDateTime: 2020-11-03T12:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/3d-printed-hearts-self-driving-buses-and-robots/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/3d-printed-hearts-self-driving-buses-and-robots/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/3d-printed-hearts-self-driving-buses-and-robots/"
+    webUrl: "https://www.zdnet.com/article/3d-printed-hearts-self-driving-buses-and-robots/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/3d-printed-hearts-self-driving-buses-and-robots/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/3d-printed-hearts-self-driving-buses-and-robots/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 74
+    quality: 91
     images:
       - url: "https://zdnet1.cbsistatic.com/hub/i/2020/11/02/ed6fcd42-5f15-45ca-ac85-27699560d6a1/robot-touch.jpg"
         width: 910
@@ -55,6 +55,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Self-driving startup Pony.ai gets funding from FAW"
+    excerpt: "Self-driving technology startup Pony.ai struck a funding agreement with automaker FAW Group, calling it the first strategic investment by a Chinese state-owned vehicle manufacturer into an autonomous-technology company."
+    publishedDateTime: 2020-11-03T10:35:00Z
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-startup-ponyai-gets-funding-faw"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 19
 
 secured: "22+CDsKzhXdLWDT5HfZupErA6ZvwFczUEJ8mi1wRzaHNpeWFxlMzgp1i2asshKfA93zbVjmZqGLND5A5aGMJGW30HXWYMUOq8/tssd/zzhD7nRFhA8pz8w4SuY6wuHC81NY6IF1Tcs2avn7BRbP3NjOxGoTpESS+Us4WVDrrbTEWwNWwzm7RDyhGzhD8+d7SP6maRVbzR+1HV0cYabMgqFV6FHMtQpodgxiyNfDJSPQtCRBAIK01+eWB/+uiKczbzCxo/Zeeo27NLQwMJdX1a94PYUAdHgqK38+OdL/GFEQSgpG6oUdhawEZ3BwNmzt6txSOJK6hbNHoU/8qk2pJsUMDYpUywxzLCeg5ZbPmz+MKb7XRe6YXqBfkz9wwyJWXqtk1yrsX3VoPXi2OpUV2Xb/dKBpC0xH88xTY0SoFkrtiU96m1yBjfLCgzMFEui4xHXMC9JlFFvZTiKt+vke3K45TfzgHooXgKyyerDkyic7co3XD70H2mIPOaLxdG/KjSsOS176cP9GIzgoQUhA4vA==;4E89uqHk0nPTau0OiRamLw=="
 ---

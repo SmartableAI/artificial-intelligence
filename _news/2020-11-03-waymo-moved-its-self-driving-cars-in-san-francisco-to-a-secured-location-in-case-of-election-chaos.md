@@ -31,20 +31,17 @@ images:
     isCached: true
 
 related:
-  - title: "Caspar.AI Ranked Among The Fastest Growing Private Companies In The Bay Area By The San Francisco Business Times"
-    excerpt: "Caspar.AI announced today that it has been ranked no. 24 by the San Francisco Business Times on the 29th annual Fastest Growing Private Companies in the Bay Area list, an exclusive ranking of the region’s fastest growing private companies;"
-    publishedDateTime: 2020-10-30T05:00:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/virus-outbreak-seniors-north-america-san-francisco-health-050667e1cf7140fd5c20a208fbf2e0ea"
+  - title: "Waymo Pulls Self-Driving Cars From San Francisco Over Concerns About Post-Election Unrest"
+    excerpt: "Waymo, the self-driving company of Google's parent company Alphabet, has suspended its self-driving operations in San Francisco as businesses and cities in the Bay Area and across the country brace for potential unrest."
+    publishedDateTime: 2020-11-03T22:28:00Z
+    webUrl: "https://sanfrancisco.cbslocal.com/2020/11/03/waymo-google-self-driving-cars-pulled-post-election-unrest/"
+    ampWebUrl: "https://sanfrancisco.cbslocal.com/2020/11/03/waymo-google-self-driving-cars-pulled-post-election-unrest/amp/"
+    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2020/11/03/waymo-google-self-driving-cars-pulled-post-election-unrest/amp/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 16
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 30
 
 secured: "J7GLIda9mwtHbxklDAMT32q2vuh+3P5lHdqKcOU/YzWGfAVVVrAUvnvtZtmXxKAiDipCPEC6XiGJfOXgYJq/EGZJXRhRgxC72EPKjNxX/Csq8Gdi5jvRhfkPfT84gDWVJV7rjefgNO76CXnjvN/40nfuZ7xVx5OvnqGtrrs6bgQrrFmngsM71vf0e9pxvQXHfdKsnekSEAe5YkQmr7RCtG716j6ZOiM9GD7PteFlAFaIGL29E6YCYW2nexYHHRX9BPbobq2w+e5ruX5g5b6+6KEG5W65ibDW5KNTVp/mt9Vt0g1EqUzNRxHhOqGn+2gSKVpOiipUq/DJ+FPFIdQsxq9//psDifeabX+Vx7CWaNGk3cRbumiAZbL9vfe5H8paZS/jRMi9uzsKzaRjqASlvQN2kP22i8fzEdok4tovaTnAJnV5Es0I3z3Fl59r6d5PnJqUPT/w8dRSTHYqWZ7mEV+8zQgO7dznxRT02HWn+HFXRCHJ2y+q6uqyH/15KdYQ020Din8mCVPlCIzJwiohEg==;GP3QvOvjAnFCbtZfBHvW7g=="
 ---

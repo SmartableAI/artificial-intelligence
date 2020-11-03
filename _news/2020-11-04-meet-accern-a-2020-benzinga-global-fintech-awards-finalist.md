@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The ‘Fintechization’ of Everything: The 7 Hottest Fintech Trends in 2021"
-    excerpt: "We all know that 2020 has been a total paradigm shift year for the fintech world (not to mention the rest of the world.) Our financial infrastructure of the globe has been pushed to its limits–as a result,"
-    publishedDateTime: 2020-10-30T05:30:00Z
-    webUrl: "https://www.financemagnates.com/cryptocurrency/news/the-fintechization-of-everything-the-7-hottest-fintech-trends-in-2021/"
-    ampWebUrl: "https://www.financemagnates.com/cryptocurrency/news/the-fintechization-of-everything-the-7-hottest-fintech-trends-in-2021/amp/"
-    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/cryptocurrency/news/the-fintechization-of-everything-the-7-hottest-fintech-trends-in-2021/amp/"
-    type: article
-    provider:
-      name: Finance Magnates
-      domain: financemagnates.com
-    quality: 43
-    images:
-      - url: "https://www.financemagnates.com/wp-content/uploads/2020/02/fintech-industry.jpg"
-        width: 880
-        height: 400
-        isCached: true
   - title: "F|T: The FinTech Times – Toeing the line"
     excerpt: "a weekly newsletter covering the biggest FinTech news from around the globe. If you want to read F|T before anyone else, make sure to subscribe using the form at the bottom of this page. Wealthsimple has tapped Paul Teshima, the co-founder of Nudge.ai, to ..."
     publishedDateTime: 2020-11-02T10:59:00Z

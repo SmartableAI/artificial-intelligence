@@ -95,6 +95,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "U.S. Cops Used Previously Undisclosed Facial Recognition System To Identify Protestor Accused Of Assault"
+    excerpt: "At an otherwise peaceful protest in Washington, D.C. this past June, one attendee is alleged to have punched an officer in the face before fleeing. According to court documents reviewed by The Washington Post,"
+    publishedDateTime: 2020-11-03T20:00:00Z
+    webUrl: "https://www.gizmodo.com.au/2020/11/cops-used-previously-undisclosed-facial-recognition-system-to-identify-protestor-accused-of-assault/"
+    ampWebUrl: "https://www.gizmodo.com.au/2020/11/cops-used-previously-undisclosed-facial-recognition-system-to-identify-protestor-accused-of-assault/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/11/cops-used-previously-undisclosed-facial-recognition-system-to-identify-protestor-accused-of-assault/amp/"
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 42
+    images:
+      - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2020/11/04/yjypjxtf9ngcamplpfpi-scaled.jpg?ar=16%3A9&fit=crop&q=65&w=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Facial Recognition Used to ID Washington, D.C., Protester"
     excerpt: "The case was the first time many public defenders they had seen the technology's use disclosed to a defendant after thousands of searches in bank robberies, human trafficking and gang cases."
     publishedDateTime: 2020-11-03T15:06:00Z
@@ -109,6 +125,17 @@ related:
         width: 350
         height: 240
         isCached: true
+  - title: "Facial recognition used to identify Washington protester accused of assault"
+    excerpt: "A line of U.S. Park Police officers pushed protesters back from a square near the White House on June 1, firing pepper balls and rolling canisters spewing irritant gas into the retreating crowd, video shows."
+    publishedDateTime: 2020-11-02T18:48:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/facial-recognition-used-to-identify-lafayette-square-protester-accused-of-assault/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/facial-recognition-used-to-identify-lafayette-square-protester-accused-of-assault/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/facial-recognition-used-to-identify-lafayette-square-protester-accused-of-assault/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
 
 secured: "c2iFSJd4f5sK4Ats2VhA9L1maFo6sT3f3d4EOXwtBtiCT0tmqnOqH5T3kjc7ygs09rlUYsG35W69d64irf9S9PQFrr/YC7dd3Pm1Lc8hsHCk0LpGXXElaQbkRQUOAoOubLwGlKC+RsG/fne5FEhP9UJz6eQv5ynCbXE9YAYYib9b/XEkkqaAkt/eg5fYQ6nmJU87Z7foP3Af+4xT3SUS91QN2KAi+y3AumwGb0UOskpbZ/kDhMnc/KExBkONeEP9XTIk/8diCFC99EI4yT9wvX5paWHS7Qwk3VNNPoxNuf7OhqLs9jqTl4naRxL+wD7Lh449vqKR5WhyYzGqscTeXJqcgNyvf77z/2ET8t0rFUXA0URkLc2eovP81plKi8mPpoIZvopzxHhoK9RNvbfTiGfHXWuOfE5j1FnkbgPOoV83NcDreOLonvA01sUo+UUXDg2f1YrN9/Y+Z/ySByHiroCcAn4DlcP4s0YDDDsAkJprYuZLjD1UuY0xrxW7Hih6+T8tRsEZRARhhxpEa/WsSg==;rKxzDORzHkdnBf3ODQm2GA=="
 ---

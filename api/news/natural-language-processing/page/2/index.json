@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-16-speech-processing-solutions-next-generation-workflow-solution-with-ai-powered-speech-recognition.md",
+      "title": "Speech Processing Solutions: Next-generation workflow solution with AI-powered speech recognition",
+      "excerpt": "The new version of the Philips dictation workflow solution for enterprise businesses, SpeechExec Enterprise 7.0 (SEE 7.0), is now available in Europe and many international markets. The close collaboration between Nuance Communications and Speech Processing Solutions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.afp.com/en/news/1315/speech-processing-solutions-next-generation-workflow-solution-ai-powered-speech-recognition-202010150055971",
+      "originalUrl": "https://www.afp.com/en/news/1315/speech-processing-solutions-next-generation-workflow-solution-ai-powered-speech-recognition-202010150055971",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AFP",
+        "domain": "afp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-five-real-ways-artificial-intelligence-is-upleveling-customer-service.md",
       "title": "Five Real Ways Artificial Intelligence Is Upleveling Customer Service",
       "excerpt": "There’s no time like the present to start putting some of the amazing AI tools to work for your customer service program.",
@@ -1294,49 +1328,6 @@
         "AI",
         "IBM AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-systran-partners-with-ted-to-create-specialized-translation-models-expanding-professional-applications-of-machine-translation.md",
-      "title": "SYSTRAN Partners with TED to Create Specialized Translation Models Expanding Professional Applications of Machine Translation",
-      "excerpt": "PRNewswire/ -- SYSTRAN, the leader in AI-based translation technology, announces its new partnership with TED, a nonprofit organization devoted to Ideas",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/systran-partners-with-ted-to-create-specialized-translation-models-expanding-professional-applications-of-machine-translation-301141876.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/systran-partners-with-ted-to-create-specialized-translation-models-expanding-professional-applications-of-machine-translation-301141876.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1227311/LOGO_SYSTRAN_VERTICAL_RVB_4K.jpg?p=facebook",
-          "width": 2700,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],
