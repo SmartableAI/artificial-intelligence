@@ -2,6 +2,59 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-10-16-automatically-detecting-personal-protective-equipment-on-persons-in-images-using-amazon-rekognition.md",
+      "title": "Automatically detecting personal protective equipment on persons in images using Amazon Rekognition",
+      "excerpt": "Workplace safety hazards can exist in many different forms: sharp edges, falling objects, flying sparks, chemicals, noise, and a myriad of other potentially dangerous situations. Safety regulators such as Occupational Safety and Health Administration (OSHA) and European Commission often require that",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automatically-detecting-personal-protective-equipment-on-persons-in-images-using-amazon-rekognition/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automatically-detecting-personal-protective-equipment-on-persons-in-images-using-amazon-rekognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/14/1-Person.jpg",
+          "width": 900,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-16T14:12:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-ai-weekly-us-lawmakers-decry-the-chilling-effect-of-federal-surveillance-at-protests.md",
       "title": "AI Weekly: U.S. lawmakers decry the chilling effect of federal surveillance at protests",
       "excerpt": "There’s a thread that runs through police violence against Black people and connects to overpolicing, onerous and problematic tactics like facial recognition, AI-powered predictive policing ...",
@@ -1123,40 +1176,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-cascadia-capital-bets-big-on-ai-robotics-and-automation.md",
-      "title": "Cascadia Capital bets big on AI, robotics and automation",
-      "excerpt": "Cascadia Capital is betting big on AI, robotics and automation. “We think it’s where the world is going,” the CEO says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/seattle/news/2020/10/15/cascadia-capital-bets-on-ai-robotics.html",
-      "originalUrl": "https://www.bizjournals.com/seattle/news/2020/10/15/cascadia-capital-bets-on-ai-robotics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bizjournals.com/seattle/news/2020/10/15/cascadia-capital-bets-on-ai-robotics.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/seattle/news/2020/10/15/cascadia-capital-bets-on-ai-robotics.amp.html",
-      "publishedDateTime": "2020-10-15T16:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -107,59 +107,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-03-3d-printed-hearts-self-driving-buses-and-robots.md",
-      "title": "3D-printed hearts, self-driving buses, and robots",
-      "excerpt": "Technologies that were still largely in development or limited rollout a year ago are now becoming commonplace, including self-driving cleaning robots and automation in areas like fast food and delivery.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/3d-printed-hearts-self-driving-buses-and-robots/",
-      "originalUrl": "https://www.zdnet.com/article/3d-printed-hearts-self-driving-buses-and-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/11/02/ed6fcd42-5f15-45ca-ac85-27699560d6a1/robot-touch.jpg",
-          "width": 910,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/3d-printed-hearts-self-driving-buses-and-robots/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/3d-printed-hearts-self-driving-buses-and-robots/",
-      "publishedDateTime": "2020-11-03T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2020-11-02-artificial-intelligence-robots-market-outlook-by-size-share-future-growth-and-forecast-from-2020-2023.md",
       "title": "Artificial Intelligence Robots Market Outlook By Size, Share, Future Growth And Forecast From 2020-2023",
       "excerpt": "Global AI Robots Market Research Report - by Offering (Software, Hardware), by Type (Service Robots, Industrial Robots),",
@@ -408,6 +355,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais.md",
+      "title": "If a Robot Is Conscious, Is It OK to Turn It Off? The Moral Implications of Building True AIs",
+      "excerpt": "Philosophers say now is the time to mull over what qualities should grant an artificially intelligent machine moral standing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.discovermagazine.com/technology/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of",
+      "originalUrl": "https://www.discovermagazine.com/technology/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.ctfassets.net/cnu0m8re1exe/6ohFLYheDXySc0pdYKJcrL/43ee6a352bbfc134a12bb1a8cd95cf07/times-arrow-part-i-hd-0301.jpg?w=650&h=433&fit=fill",
+          "width": 650,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-29T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Discover Magazine",
+        "domain": "discovermagazine.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

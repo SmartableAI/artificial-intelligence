@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-10-21-ibm-is-making-it-easier-to-run-ai-workloads-in-hybrid-clouds.md",
+      "title": "IBM is making it easier to run AI workloads in hybrid clouds",
+      "excerpt": "However, IBM Research, the company's R&D arm, claims to have identified new ways of tackling this problem. During the IEEE CAS/EDS AI Compute Symposium, held earlier today, IBM Research introduced new technology and partnerships that will allow businesses to dynamically run large-scale AI workloads in hybrid clouds.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itproportal.com/news/ibm-is-making-it-easier-to-run-ai-workloads-in-hybrid-clouds/",
+      "originalUrl": "https://www.itproportal.com/news/ibm-is-making-it-easier-to-run-ai-workloads-in-hybrid-clouds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/qfATwf5qVcGjMLuAaDkwx6-1200-80.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itproportal.com/amp/news/ibm-is-making-it-easier-to-run-ai-workloads-in-hybrid-clouds/",
+      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/ibm-is-making-it-easier-to-run-ai-workloads-in-hybrid-clouds/",
+      "publishedDateTime": "2020-10-21T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro Portal",
+        "domain": "itproportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-acuant-prioritized-for-fedramp-jab-authorization-for-assureidtm-connect-ozone-faceid-facial-recognition-system.md",
       "title": "Acuant Prioritized for FedRAMP JAB Authorization for AssureID(TM) Connect, Ozone® & FaceID Facial Recognition System",
       "excerpt": "Acuant, a leading global provider of identity verification solutions, today announced that the Federal Risk and Authorization Management Program (FedRAMP) has prioritized their",
@@ -874,7 +917,7 @@
     {
       "path": "_news/2020-10-21-neural-pathway-crucial-to-successful-rapid-object-recognition-in-primates.md",
       "title": "Neural pathway crucial to successful rapid object recognition in primates",
-      "excerpt": "Rapid recurrent processing in the ventrolateral prefrontal cortex (vlPFC) helps primates quickly identify objects, according to research from MIT's McGovern Institute and Center for Brains, Minds, and Machines.",
+      "excerpt": "The findings enrich existing models of the neural circuitry involved in visual perception and help to further unravel the computational code for solving object recognition in the primate brain. Led by Kohitij Kar, a postdoc at the McGovern Institute for ...",
       "sourceUrl": null,
       "webUrl": "https://news.mit.edu/2020/neural-pathway-crucial-successful-rapid-object-recognition-primates-1020",
       "originalUrl": "https://news.mit.edu/2020/neural-pathway-crucial-successful-rapid-object-recognition-primates-1020",
@@ -896,7 +939,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-20T13:09:00-07:00",
+      "publishedDateTime": "2020-10-20T13:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "news",
@@ -919,9 +962,8 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1127,59 +1169,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-microsoft-details-t-urlv2-model-that-can-translate-between-94-languages.md",
-      "title": "Microsoft details T-URLv2 model that can translate between 94 languages",
-      "excerpt": "The same week Facebook open-sourced M2M-100, an AI model that can translate between over 100 languages, Microsoft detailed an algorithm of its own — Turing Universal Language Representation (T ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/20/microsoft-details-t-urlv2-model-that-can-translate-between-94-languages/",
-      "originalUrl": "https://venturebeat.com/2020/10/20/microsoft-details-t-urlv2-model-that-can-translate-between-94-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/12/microsoft-azure-new-logo-2017-e1572843284943.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/20/microsoft-details-t-urlv2-model-that-can-translate-between-94-languages/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/20/microsoft-details-t-urlv2-model-that-can-translate-between-94-languages/amp/",
-      "publishedDateTime": "2020-10-20T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

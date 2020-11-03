@@ -133,7 +133,7 @@
     {
       "path": "_news/2020-10-21-neural-pathway-crucial-to-successful-rapid-object-recognition-in-primates.md",
       "title": "Neural pathway crucial to successful rapid object recognition in primates",
-      "excerpt": "Rapid recurrent processing in the ventrolateral prefrontal cortex (vlPFC) helps primates quickly identify objects, according to research from MIT's McGovern Institute and Center for Brains, Minds, and Machines.",
+      "excerpt": "The findings enrich existing models of the neural circuitry involved in visual perception and help to further unravel the computational code for solving object recognition in the primate brain. Led by Kohitij Kar, a postdoc at the McGovern Institute for ...",
       "sourceUrl": null,
       "webUrl": "https://news.mit.edu/2020/neural-pathway-crucial-successful-rapid-object-recognition-primates-1020",
       "originalUrl": "https://news.mit.edu/2020/neural-pathway-crucial-successful-rapid-object-recognition-primates-1020",
@@ -155,7 +155,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-20T13:09:00-07:00",
+      "publishedDateTime": "2020-10-20T13:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "news",
@@ -178,9 +178,8 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
+        "Computer Vision",
+        "AI"
       ]
     },
     {

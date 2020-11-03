@@ -3,13 +3,13 @@ category: news
 title: "Artificial Intelligence in healthcare is racist"
 excerpt: "Can broader datasets help developers avoid accidentally perpetuating deep-rooted biases in vital institutions like healthcare and education?"
 publishedDateTime: 2020-11-02T12:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/artificial-intelligence-in-healthcare-is-racist/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/artificial-intelligence-in-healthcare-is-racist/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/artificial-intelligence-in-healthcare-is-racist/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/artificial-intelligence-in-healthcare-is-racist/"
+originalUrl: "https://www.zdnet.com/article/artificial-intelligence-in-healthcare-is-racist/"
+webUrl: "https://www.zdnet.com/article/artificial-intelligence-in-healthcare-is-racist/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/artificial-intelligence-in-healthcare-is-racist/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-in-healthcare-is-racist/"
 type: article
-quality: 104
-heat: 124
+quality: 84
+heat: 104
 published: true
 
 provider:
@@ -23,12 +23,6 @@ provider:
 topics:
   - AI
   - AI in Healthcare
-
-images:
-  - url: "https://zdnet4.cbsistatic.com/hub/i/2020/11/02/4871d189-8c05-4827-b110-9e7d68439bb8/ai-dna.jpg"
-    width: 910
-    height: 455
-    isCached: true
 
 related:
   - title: "KenSci attains highest score among Healthcare AI vendors in new KLAS report"
@@ -59,6 +53,6 @@ related:
         height: 668
         isCached: true
 
-secured: "e3a0fGuJuzQMZRbOH+XW85Y4W4GuVbCajfe6nZi29bcmWpUEP/yy3hs+d8IbwQdCkp46mQqwRXThi3MRmFrsioP7p5BW31kPa+X/Eqk95DNqWmbZaXGrFua/fzccDVQNc759X2yCiUlZl8J6+VGTDjSbpwHBaD+SW7VxdkklwfYMmrnzKqYFXXzl5Rh5oMjWXmQ2C/BMq62J1Vn8sIqWJ6YPNeFA6QnVuzv0LEp74QVX8u4Gu2uQoEg7ytLJkGoa6tX1gkfpn2s0xEZ+TqIpWw4Jb11DmEQS5v3fl6k+BoaPpMjOaJxKcREop2zmDt/6HjWyGBl7pbIPzkmKMRjYRXL0MVHKqIc9VozzhUbGPcCH3kttLv3W9xftH92dsgWVZQL+KTVBKSmKIkgumBB16BxpR472Iev/xfAG1vWpHxNbFdoBnzoBK0KELCp4CjRH4p5GIrsL0sT1LT03LymSoRmLeqt0DUhbGBUJuNkYTBDnT5w/2XKYbc1SkzRtfiGvv8bjt/hU3K9OrSc1xQ0Fqg==;/2ihZF4xm5b13Wx7DAoPpg=="
+secured: "JjNHT5r25yZgHPOwfrHfZCwITNcr2CSOFfmz5zMUrRYcLAF/ykbnljOU3/7+ILRxSDr/gQYDBIwVkmQEBU6rR1il/jSuJsYycL0OzKHcAONeS8NyamuVYwmsNwPGV9c2rRkWBWu5J0APIQ5FaYxUXhlkHQOiExcpu1tb0QBPtTQeUTTRDnesrLegNoleN6Jn2Eh/+olkts+JGclTWsTM6p7qqqTVl+RDszQFfkRL0RANkIAqNkh5zq97zfWRjQoMQ+BcPhD2Uxa3SWvTEo++I+i16rwX42FVtBOYDwgUd209N+L3sxQwaWMYJYdrzL+9xzMxsB3x8IcQeTnW+dMiZZt5oxzd9SxMAMsjZIyUhA5a/I7jq6V13v4Jwm+0PQS2Uz20PPJSp5fKYQjBCCpu0SdEwV1HoASesyxW1wkSR8uDEezQ3jcuXq4EIjdh2CwD3pdNEUIwRJnJ6dUAz6wsKr8QlkieMWfLVjU3xfGs0524vC1w/YEk6kBjgbXOUd7iMAPeodrQUQGCUBAP+OYqzA==;nDQBaqSxRkRFXEf8npLmUQ=="
 ---
 

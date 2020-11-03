@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-10-30/daimler-isn-t
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-30/daimler-isn-t-relying-solely-on-waymo-for-self-driving-trucks"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -100,6 +100,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 34
+  - title: "Self-driving startup Pony.ai gets funding from FAW"
+    excerpt: "Self-driving technology startup Pony.ai struck a funding agreement with automaker FAW Group, calling it the first strategic investment by a Chinese state-owned vehicle manufacturer into an autonomous-technology company."
+    publishedDateTime: 2020-11-03T10:35:00Z
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-startup-ponyai-gets-funding-faw"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 19
 
 secured: "QQh42+ck0SOEPls33OL6q08EuMLw1Vlw+6usfQO3Bn8WisfRff2OeeQGEsIbRKJyvpeAJG/DCV0zoV6gILOBNjrTxDiJJTzxqsSKsOXv8mZ48NwucFjtKtk+DC/GlDr/ow/GTUs0gd75nzAUy3b9klm8eOUPd/fTboLlxw146VHtVmUgV3t5GrnoDU0/3tb9Kfkckr1oViBa3mt+olDxPqFqwItfIA+cP54gcXJJ+MfEYBYcJbb/mVChcL8jsSkemGHBu1HtDa5LRATJ6wwM8svKaTzNLYX6/aAeNb6BekglrnSjvPjBvq1Yba70sLEPV9BkDbcs0TBDTiMqN6iIpB0GNmFO7sC5vVRMrsMCNeI=;KxmP4BjVvUsiztUgC/5ZKw=="
 ---

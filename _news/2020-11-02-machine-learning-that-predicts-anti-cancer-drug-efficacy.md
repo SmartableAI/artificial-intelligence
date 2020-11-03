@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2020-11-machine-anti-cancer-drug-effi
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-machine-anti-cancer-drug-efficacy.amp"
 type: article
 quality: 59
-heat: 90
+heat: 91
 published: true
 
 provider:

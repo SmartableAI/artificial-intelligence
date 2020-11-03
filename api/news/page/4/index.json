@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-10-30-ibm-watson-services-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027.md",
-      "title": "IBM Watson Services Market Size- Detailed Analysis of Current Industry Figures with Forecasts Growth By 2027",
-      "excerpt": "Selbyville, Delaware As per the research report titled 'IBM Watson Services Market Share, Size, Trends, Industry Analysis Report, By Service Type; By End Use ; By Regions; Segment Forecast, 2020 -2027' available with Market Study Report LLC,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ibm-watson-services-market-size--detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027-2020-10-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/ibm-watson-services-market-size--detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027-2020-10-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-29T18:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-30-facial-recognition-system-unveiled-at-laxs-tom-bradley-international-terminal.md",
       "title": "Facial Recognition System Unveiled At LAX’s Tom Bradley International Terminal",
       "excerpt": "The system, called Simplified Arrival, is now in place at Tom Bradley International Terminal at LAX and was touted as a way to use facial biometrics to automate the document checks that are required for admission into the U.",
@@ -770,6 +718,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-29-if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais.md",
+      "title": "If a Robot Is Conscious, Is It OK to Turn It Off? The Moral Implications of Building True AIs",
+      "excerpt": "Philosophers say now is the time to mull over what qualities should grant an artificially intelligent machine moral standing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.discovermagazine.com/technology/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of",
+      "originalUrl": "https://www.discovermagazine.com/technology/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.ctfassets.net/cnu0m8re1exe/6ohFLYheDXySc0pdYKJcrL/43ee6a352bbfc134a12bb1a8cd95cf07/times-arrow-part-i-hd-0301.jpg?w=650&h=433&fit=fill",
+          "width": 650,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-29T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Discover Magazine",
+        "domain": "discovermagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-world-of-finance.md",
       "title": "Workday Delivers Data Management and Machine Learning Innovations for the Changing World of Finance",
       "excerpt": "Workday Inc., a leader in enterprise cloud applications for finance and human resources, today announced availability of Workday Accounting Center and machine learning- driven predictive forecasts for Workday Adaptive Planning,",
@@ -1100,6 +1091,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-29-artificial-intelligence-in-retail-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2023.md",
+      "title": "Artificial Intelligence in Retail Market: Global Industry Analysis, Size, Share, Growth, Trends, and Forecast 2020 - 2023",
+      "excerpt": "Artificial Intelligence is anticipated to disrupt every business and enterprises across the world. One of the major factors that drive the growth of artificial intelligence market in retail is the advancement in big data,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020---2023-2020-10-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020---2023-2020-10-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-29T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-computer-vision-market-global-market-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts-to-2023.md",
       "title": "Computer Vision Market: Global Market Opportunities, Size, Share, Emerging Trends, Technological Innovation And Forecasts To 2023",
       "excerpt": "Computer vision is a field of technology dealing with smart devices, particularly laptops, smartphones, personal",
@@ -1148,58 +1191,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-chinese-tesla-rival-xpeng-steers-clear-of-robotaxis-says-self-driving-trucks-more-likely-to-succeed.md",
-      "title": "Chinese Tesla rival Xpeng steers clear of robotaxis, says self-driving trucks more likely to succeed",
-      "excerpt": "Major Chinese self-driving companies such as Baidu, Didi Chuxing, WeRide and AutoX have all recently launched robotaxi services in various cities, but the head of autonomous driving at Xpeng Motors is less bullish on the prospect. “They have to make a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-leaders-and-founders/article/3107348/chinese-tesla-rival-xpeng-steers-clear-robotaxis",
-      "originalUrl": "https://www.scmp.com/tech/tech-leaders-and-founders/article/3107348/chinese-tesla-rival-xpeng-steers-clear-robotaxis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/10/28/15c96424-18cf-11eb-8f67-a484f6db61a1_image_hires_142109.jpg?itok=umrS2udr&v=1603866075",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/tech-leaders-and-founders/article/3107348/chinese-tesla-rival-xpeng-steers-clear-robotaxis",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-leaders-and-founders/article/3107348/chinese-tesla-rival-xpeng-steers-clear-robotaxis",
-      "publishedDateTime": "2020-10-28T23:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

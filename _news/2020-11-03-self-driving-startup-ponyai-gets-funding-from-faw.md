@@ -19,50 +19,91 @@ topics:
   - AI in Autos
 
 related:
-  - title: "3D-printed hearts, self-driving buses, and robots"
-    excerpt: "Technologies that were still largely in development or limited rollout a year ago are now becoming commonplace, including self-driving cleaning robots and automation in areas like fast food and delivery."
-    publishedDateTime: 2020-11-03T12:00:00Z
-    webUrl: "https://www.zdnet.com/article/3d-printed-hearts-self-driving-buses-and-robots/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/3d-printed-hearts-self-driving-buses-and-robots/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/3d-printed-hearts-self-driving-buses-and-robots/"
+  - title: "Daimler Invests in Lidar Startup to Bolster Self-Driving Truck Effort"
+    excerpt: "Daimler AG’s truck unit is investing in a laser-sensor startup to bolster its development of self-driving trucks in the U.S. less than a week after striking a deal to use driverless technology from a unit of Google parent Alphabet Inc. Daimler Truck AG ..."
+    publishedDateTime: 2020-10-30T11:58:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-10-30/daimler-isn-t-relying-solely-on-waymo-for-self-driving-trucks"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-10-30/daimler-isn-t-relying-solely-on-waymo-for-self-driving-trucks"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-30/daimler-isn-t-relying-solely-on-waymo-for-self-driving-trucks"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 91
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 89
     images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/11/02/ed6fcd42-5f15-45ca-ac85-27699560d6a1/robot-touch.jpg"
-        width: 910
-        height: 555
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivAEZ0L1V7mU/v0/360x-1.jpg"
+        width: 360
+        height: 270
         isCached: true
-  - title: "Self-Driving RC Truck Is A Master’s Thesis In Cybernetics And Robotics"
-    excerpt: "RC cars are a fun pastime, but for many hackers, taking things to the next level involves making the cars drive themselves. For his Masters thesis, [Jon] did just that, building a self-driving"
-    publishedDateTime: 2020-10-31T23:40:00Z
-    webUrl: "https://hackaday.com/2020/10/31/self-driving-rc-truck-is-a-masters-thesis-in-cybernetics-and-robotics/"
+  - title: "Daimler Trucks’ self-driving haulage finds a key part of its autonomous vision"
+    excerpt: "Daimler Trucks just gone done inking a collaboration with Waymo, and now it’s picking out cutting edge sensors for its self-driving haulage as the pieces slot into place for autonomy. The German automaker announced earlier this week that it would be ..."
+    publishedDateTime: 2020-10-30T19:31:00Z
+    webUrl: "https://www.slashgear.com/daimler-trucks-luminar-autonomous-haulage-investment-volvo-waymo-30645189/"
+    ampWebUrl: "https://www.slashgear.com/daimler-trucks-luminar-autonomous-haulage-investment-volvo-waymo-30645189/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/daimler-trucks-luminar-autonomous-haulage-investment-volvo-waymo-30645189/amp/"
     type: article
     provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 56
+      name: SlashGear
+      domain: slashgear.com
+    quality: 85
     images:
-      - url: "https://hackaday.com/wp-content/uploads/2020/10/autotruck800.jpg"
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/10/Daimler_Truck_Luminar.jpg"
+        width: 1680
+        height: 1049
+        isCached: true
+  - title: "Daimler teams up with lidar maker Luminar for self-driving trucks"
+    excerpt: "Daimler AG’s truck business, the world’s biggest manufacturer of commercial vehicles, today said that it’s teaming up with lidar maker Luminar Technologies Inc. to develop self-driving trucks."
+    publishedDateTime: 2020-10-30T19:44:00Z
+    webUrl: "https://siliconangle.com/2020/10/30/daimler-teams-lidar-maker-luminar-self-driving-trucks/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/daimler.jpg"
+        width: 1000
+        height: 558
+        isCached: true
+  - title: "Daimler invests in lidar company Luminar ahead of self-driving truck launch"
+    excerpt: "In its announcement, Daimler said it will work with Luminar to help realize a goal of having a semi-trailer truck capable of handling highway situations on sale within the coming"
+    publishedDateTime: 2020-10-30T17:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1130140_daimler-invests-in-lidar-company-luminar-ahead-of-self-driving-truck-launch"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 37
+    images:
+      - url: "https://images.hgmsites.net/hug/daimler-self-driving-semi-trailer-truck-prototype_100767932_h.jpg"
+        width: 1920
+        height: 1038
+        isCached: true
+  - title: "Daimler invests in lidar startup Luminar to bolster self-driving truck effort"
+    excerpt: "Daimler’s truck unit is investing in a laser-sensor startup to bolster its development of self-driving trucks in the U.S. less than a week after striking a deal to use driverless technology from Alphabet Inc."
+    publishedDateTime: 2020-10-30T14:23:00Z
+    webUrl: "https://europe.autonews.com/automakers/daimler-invests-lidar-startup-luminar-bolster-self-driving-truck-effort"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 36
+    images:
+      - url: "https://s3-prod-europe.autonews.com/styles/800x600/s3/ANE_170619841_AR_-1_UAAHVBCOZQPU.jpg"
         width: 800
-        height: 450
+        height: 600
         isCached: true
-  - title: "Concordia researchers dig deep into the software powering self-driving cars"
-    excerpt: "Peeking under the hood of a self-driving car will only tell you so much. To really understand what makes them run, you have to dive deep into the software that makes up the autonomous driving systems (ADS) controlling driverless vehicles."
-    publishedDateTime: 2020-11-03T16:11:00Z
-    webUrl: "https://www.concordia.ca/news/stories/2020/11/03/concordia-researchers-dig-deep-into-the-software-powering-self-driving-cars.html"
+  - title: "Luminar gets financial backing from Daimler to help with self-driving truck tech"
+    excerpt: "Daimler Truck AG is taking a minority stake in Palo Alto-based Luminar Technologies Inc. to help develop technology that will allow it to develop self-driving trucks, the companies announced Friday. In a news release with a dual dateline of Palo Alto and ..."
+    publishedDateTime: 2020-10-30T14:56:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2020/10/30/luminar-daimler-self-driving-truck-tech.html"
+    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/10/30/luminar-daimler-self-driving-truck-tech.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/10/30/luminar-daimler-self-driving-truck-tech.amp.html"
     type: article
     provider:
-      name: Concordia University
-      domain: concordia.ca
-    quality: 22
-    images:
-      - url: "https://www.concordia.ca/news/stories/2020/11/03/concordia-researchers-dig-deep-into-the-software-powering-self-driving-cars/_jcr_content/top-image.img.768.medium.jpg/1604417479462.jpg"
-        width: 768
-        height: 391
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
 
 secured: "wVQjLYoghXDDTTDGC/UeGCONV0fBLoqiLcYK+SxhLFJU3BRzONFagSPwlMdXVmzUAhr4Q/0vUvF5YuOEYd8nUV74EKy78jbWjOPdj5kbbXmjy3kaZFKINOyAYZSTmQe/3Q8YatC5+kAcwy8dL4XyHDSNiklUqu7nGmw+W3qbkOKGoL5FQ0YXyICC98ZYKD3dB+eVAQYlu7U5FVf1w3Zth+RIEpnydfRCwod8GyK5n2Ni9xqfo+swEIH5H5/W7c6eQ759Rt8R+huEESsOsldreqa4SjfRoJU3Cj2OzQMwZn2lQ0XQvRA3+TYxZiz/Faj+BgJJoqLHxJ1TZj5MLbyJszTWhsoaO6p6+jc/oG8XNmDVM0dIHYzOOg1QUGOwVOUK77vSwGl1aBfPc4E68ucv7x6cNpDFCcX4KjGVCDk0bJYBOvJwnVBVslqEP5eDH1ZcTmcgYk78b2XkKcXiRLYh0QDpnVsp2TkuZ3VJJh09DwdDAS8nZj+//wrpUCFv+jAubKdlwZLCSirTE3O+k8psbg==;kilS2hgkzf+iNxyr3FpcEA=="
 ---

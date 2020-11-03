@@ -32,7 +32,7 @@ related:
   - title: "How the energy industry can save billions with AI"
     excerpt: "Chad Steelberg, co-founder, chairman, and CEO of Veritone, talks with Tonya Hall about how AI can save the energy industry billions and ways that the power grid can be protected against cyberattacks."
     publishedDateTime: 2020-11-03T14:30:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/video/how-the-energy-industry-can-save-billions-with-ai/"
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/video/how-the-energy-industry-can-save-billions-with-ai/"
     type: article
     provider:
       name: ZDNet

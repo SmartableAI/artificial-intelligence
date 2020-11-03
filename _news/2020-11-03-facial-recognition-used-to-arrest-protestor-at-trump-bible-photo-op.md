@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/article/facial-recognition-arrest-black-lives-m
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-recognition-arrest-black-lives-matter-protestor-trump-bible-photo-op.amp"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F3ea7c4a0-1d55-11eb-afff-e1ebf126e004&client=amp-blogside-v2&signature=be769346814482f72d74793c259b19466605344c"
         width: 600
         height: 350
+        isCached: true
+  - title: "Cops Used Previously Undisclosed Facial Recognition System To Identify Protestor Accused Of Assault"
+    excerpt: "At an otherwise peaceful protest in Washington, D.C. this past June, one attendee is alleged to have punched an officer in the face before fleeing. According to court documents reviewed by The Washington Post,"
+    publishedDateTime: 2020-11-03T19:03:00Z
+    webUrl: "https://gizmodo.com/cops-used-previously-undisclosed-facial-recognition-sys-1845560806"
+    ampWebUrl: "https://gizmodo.com/cops-used-previously-undisclosed-facial-recognition-sys-1845560806/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/cops-used-previously-undisclosed-facial-recognition-sys-1845560806/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 75
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/yjypjxtf9ngcamplpfpi.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Police used facial recognition tech on a Twitter video to find and charge a Lafayette Square protester with assault"
     excerpt: "Court documents offer a rare insight into how the police use facial recognition tech in tandem with social media platforms such as Twitter."

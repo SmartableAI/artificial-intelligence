@@ -57,6 +57,22 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Cops Used Previously Undisclosed Facial Recognition System To Identify Protestor Accused Of Assault"
+    excerpt: "At an otherwise peaceful protest in Washington, D.C. this past June, one attendee is alleged to have punched an officer in the face before fleeing. According to court documents reviewed by The Washington Post,"
+    publishedDateTime: 2020-11-03T19:03:00Z
+    webUrl: "https://gizmodo.com/cops-used-previously-undisclosed-facial-recognition-sys-1845560806"
+    ampWebUrl: "https://gizmodo.com/cops-used-previously-undisclosed-facial-recognition-sys-1845560806/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/cops-used-previously-undisclosed-facial-recognition-sys-1845560806/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 75
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/yjypjxtf9ngcamplpfpi.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Police used facial recognition tech on a Twitter video to find and charge a Lafayette Square protester with assault"
     excerpt: "Court documents offer a rare insight into how the police use facial recognition tech in tandem with social media platforms such as Twitter."
     publishedDateTime: 2020-11-03T13:38:00Z

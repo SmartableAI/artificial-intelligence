@@ -2,29 +2,38 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-11-03-immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership.md",
-      "title": "ImmunoPrecise Antibodies and Mila Announce Strategic AI Partnership",
-      "excerpt": "\"This partnership opens up an exciting opportunity for AI to tap into unexplored ... Mila has distinguished itself in the areas of language modelling, machine translation, object recognition ...",
+      "path": "_news/2020-11-03-creating-an-intelligent-ticket-routing-solution-using-slack-amazon-appflow-and-amazon-comprehend.md",
+      "title": "Creating an intelligent ticket routing solution using Slack, Amazon AppFlow, and Amazon Comprehend",
+      "excerpt": "Support tickets, customer feedback forms, user surveys, product feedback, and forum posts are some of the documents that businesses collect from their customers and employees. The applications used to collect these case documents typically include incident management systems, social media channels, customer",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758396",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758396",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/creating-an-intelligent-ticket-routing-solution-using-slack-amazon-appflow-and-amazon-comprehend/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/creating-an-intelligent-ticket-routing-solution-using-slack-amazon-appflow-and-amazon-comprehend/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 102,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/30/1-DiagramArchitecture-786x630.jpg",
+          "width": 786,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758396",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758396",
-      "publishedDateTime": "2020-11-03T04:52:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-03T12:49:15-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "AWS",
+        "domain": "aws.amazon.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -40,8 +49,9 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI"
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
       ]
     },
     {

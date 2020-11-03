@@ -30,19 +30,14 @@ related:
   - title: "Artificial Intelligence in healthcare is racist"
     excerpt: "Can broader datasets help developers avoid accidentally perpetuating deep-rooted biases in vital institutions like healthcare and education?"
     publishedDateTime: 2020-11-02T12:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/artificial-intelligence-in-healthcare-is-racist/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/artificial-intelligence-in-healthcare-is-racist/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/artificial-intelligence-in-healthcare-is-racist/"
+    webUrl: "https://www.zdnet.com/article/artificial-intelligence-in-healthcare-is-racist/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/artificial-intelligence-in-healthcare-is-racist/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-in-healthcare-is-racist/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/11/02/4871d189-8c05-4827-b110-9e7d68439bb8/ai-dna.jpg"
-        width: 910
-        height: 455
-        isCached: true
+    quality: 84
   - title: "KenSci attains highest score among Healthcare AI vendors in new KLAS report"
     excerpt: "The Decision Insights Report' published in October by KLAS Research reveals KenSci received an overall score of 90.7*, the highest among all healthcare AI providers evaluated in the report, as measured by the clients themselves."
     publishedDateTime: 2020-11-02T18:58:00Z

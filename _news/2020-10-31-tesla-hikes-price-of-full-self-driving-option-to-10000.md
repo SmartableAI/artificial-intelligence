@@ -362,6 +362,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Musk Says Canada And Norway Are Next To Get Tesla Full Self-Driving Beta"
+    excerpt: "FSD will be rolled out in the two countries after the necessary approvals are given, possibly in February or March."
+    publishedDateTime: 2020-11-03T19:58:00Z
+    webUrl: "https://insideevs.com/news/452324/canada-norway-next-to-get-tesla-fsd/"
+    ampWebUrl: "https://insideevs.com/news/452324/canada-norway-next-to-get-tesla-fsd/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/452324/canada-norway-next-to-get-tesla-fsd/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 58
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/nYB8R/s1/fsd.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Tesla Hikes Up the Price of ‘Full Self-Driving’ Option to $US10,000 ($14,241)"
     excerpt: "While the tech powering it is no doubt impressive, to call it “full self-driving” isn’t entirely accurate. Tesla warns users of its beta program that the software still requires vigilant monitoring and that “it may do the wrong thing at the worse ..."
     publishedDateTime: 2020-10-31T01:18:00Z
@@ -425,7 +441,7 @@ related:
   - title: "Tesla's 'Full Self-Driving\" Gets Mixed, But Improving Reviews"
     excerpt: "Tesla has released an early version of its"
     publishedDateTime: 2020-11-03T11:23:00Z
-    webUrl: "https://www.realclearmarkets.com/2020/11/03/teslas_full_self-driving_gets_mixed_but_improving_reviews_582644.html#!"
+    webUrl: "https://www.realclearmarkets.com/2020/11/03/teslas_full_self-driving_gets_mixed_but_improving_reviews_582644.html"
     type: article
     provider:
       name: RealClearMarkets

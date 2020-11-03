@@ -796,59 +796,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-21-neural-pathway-crucial-to-successful-rapid-object-recognition-in-primates.md",
-      "title": "Neural pathway crucial to successful rapid object recognition in primates",
-      "excerpt": "Rapid recurrent processing in the ventrolateral prefrontal cortex (vlPFC) helps primates quickly identify objects, according to research from MIT's McGovern Institute and Center for Brains, Minds, and Machines.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2020/neural-pathway-crucial-successful-rapid-object-recognition-primates-1020",
-      "originalUrl": "https://news.mit.edu/2020/neural-pathway-crucial-successful-rapid-object-recognition-primates-1020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202010/Ko-DiCarlo-Neuron-edited_0.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-20T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2020-10-20-photoshops-ai-neural-filters-can-tweak-age-and-expression-with-a-few-clicks.md",
       "title": "Photoshop’s AI neural filters can tweak age and expression with a few clicks",
       "excerpt": "These filters include a number of simple overlays and effects but also tools that allow for deeper edits, particularly to portraits. With neural filters, Photoshop can adjust a subject’s age and facial expression,",
@@ -1465,6 +1412,50 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-odias-globally-deliberate-on-leveraging-aiml-for-odishas-growth.md",
+      "title": "Odias globally deliberate on leveraging AI/ML for Odisha’s growth",
+      "excerpt": "In a virtual conference, Odias working in the area, discussed how Odisha, Odia language and Odia people can benefit from the emerging opportunities created by artificial intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://orissadiary.com/odias-globally-deliberate-on-leveraging-ai-ml-for-odishas-growth/",
+      "originalUrl": "https://orissadiary.com/odias-globally-deliberate-on-leveraging-ai-ml-for-odishas-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/orissadiary.com/wp-content/uploads/2020/10/odiaamil.jpg?fit=747%2C334&ssl=1",
+          "width": 747,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://orissadiary.com/odias-globally-deliberate-on-leveraging-ai-ml-for-odishas-growth/amp/",
+      "cdnAmpWebUrl": "https://orissadiary-com.cdn.ampproject.org/c/s/orissadiary.com/odias-globally-deliberate-on-leveraging-ai-ml-for-odishas-growth/amp/",
+      "publishedDateTime": "2020-10-19T01:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odisha Diary",
+        "domain": "orissadiary.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

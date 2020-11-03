@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Researchers develop new model of the brain's real-life neural networks"
-excerpt: "We can then begin to design better artificial neural networks that, like the brain, would have the ability to self-optimize.\" Use For Artificial Intelligence \"Having this level of accuracy can ..."
-publishedDateTime: 2020-10-13T15:22:31Z
-originalUrl: "https://medicalxpress.com/news/2020-10-brain-real-life-neural-networks.html"
-webUrl: "https://medicalxpress.com/news/2020-10-brain-real-life-neural-networks.html"
-ampWebUrl: "https://medicalxpress.com/news/2020-10-brain-real-life-neural-networks.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-brain-real-life-neural-networks.amp"
+excerpt: "We can then begin to design better artificial neural networks that, like the brain, would have the ability to self-optimize.\" \"Having this level of accuracy can give us a clearer picture of the ..."
+publishedDateTime: 2020-10-13T14:56:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-10/uosc-rdn101220.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-10/uosc-rdn101220.php"
 type: article
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/8-brain.jpg"
-    width: 1741
-    height: 1920
+  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
-secured: "6yKfGYRAR9k+mEV1cUOaw6ckFsxtp4/wMMxPSVnhNvHVrrythGjSHD6R2Lybs/rTocbblFtTk5r5ouY5RMK30YWwQuIk1XbyFjPeSvEXx1u6LB4CixEGMc4WobXwmD+iKjagnCugoKM4//R1ITKDASXq13FKV8Q/F4Ki9w/QSCtk/7aOgFgLZcUsRWCx+aIieEnQawrMiJAHSUPq3jDVE92Z2lq7nUTXf3WhsEkRnqb5R9Ch63pNpno3wh5TOEnR/dZGO7BIMMkz7wKv6yVmoIeTCKQI+aHgf0Ost/qdVyf6cUuhthZy0GZIj+xqmttGtfAfoJ1MiYhvVW4iovxd5utLyN4PP1mCuyzVtqukGJ4=;yuySMZOABWFyt1j7r6pHkg=="
+secured: "ejgHVmb+5kEXSps95o6Tlk0UqXCphouE3JT890nadelxRsKuVPny4sY4xGGI8P9ky5/foCRxgVLxDA6k9faA+P/E+N5WyyF+xQNvYw3+FJUg97Ii+1fHpdgwzPVZds0zXiygRFR2HZW/6eJJY27zPH280sVvpdaLwszAUiI/rF1aOoE046tCunuFXtQh3bccBNpQ7B8WIQEc2rT58DoIBD57eZGwLRobkd1zw7s99L2xjWgPQvykor7YqoozfYBaa4l7OFfX4JxIvhRI1co6cwWI7pUt5uWyv+sMNbdoha4/Zwr0SMEG4bfqxQJB7RSLXv9vVf84NSRdBa3Nb65lDSuCdBkRQm9WmUti3TOa+NY=;t7sVec6+zA4EPM5lUsboMQ=="
 ---
 

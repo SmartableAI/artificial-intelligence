@@ -28,19 +28,14 @@ related:
   - title: "Artificial Intelligence in healthcare is racist"
     excerpt: "Can broader datasets help developers avoid accidentally perpetuating deep-rooted biases in vital institutions like healthcare and education?"
     publishedDateTime: 2020-11-02T12:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/artificial-intelligence-in-healthcare-is-racist/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/artificial-intelligence-in-healthcare-is-racist/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/artificial-intelligence-in-healthcare-is-racist/"
+    webUrl: "https://www.zdnet.com/article/artificial-intelligence-in-healthcare-is-racist/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/artificial-intelligence-in-healthcare-is-racist/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-in-healthcare-is-racist/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/11/02/4871d189-8c05-4827-b110-9e7d68439bb8/ai-dna.jpg"
-        width: 910
-        height: 455
-        isCached: true
+    quality: 84
   - title: "What the public hopes and fears about the use of AI in health care"
     excerpt: "There has been increasing interest in using health \"big data\" for artificial intelligence (AI) research. As such, it is important to understand which uses of health data are supported by the public and which are not."
     publishedDateTime: 2020-11-03T14:52:00Z

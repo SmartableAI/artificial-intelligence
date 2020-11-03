@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-03-creating-an-intelligent-ticket-routing-solution-using-slack-amazon-appflow-and-amazon-comprehend.md",
+      "title": "Creating an intelligent ticket routing solution using Slack, Amazon AppFlow, and Amazon Comprehend",
+      "excerpt": "Support tickets, customer feedback forms, user surveys, product feedback, and forum posts are some of the documents that businesses collect from their customers and employees. The applications used to collect these case documents typically include incident management systems, social media channels, customer",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/creating-an-intelligent-ticket-routing-solution-using-slack-amazon-appflow-and-amazon-comprehend/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/creating-an-intelligent-ticket-routing-solution-using-slack-amazon-appflow-and-amazon-comprehend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/30/1-DiagramArchitecture-786x630.jpg",
+          "width": 786,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-03T12:49:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-nvidia-jetson-nano-2gb-brings-machine-learning-power-to-a-raspberry-pi-price-point.md",
       "title": "NVIDIA Jetson Nano 2GB Brings Machine Learning Power To A Raspberry Pi Price Point",
       "excerpt": "At just $59 at retailers like Amazon, Jetson Nano brings NVIDIA’s custom hybrid Arm core CPU and Maxwell GPU technologies down to a Raspberry Pi 4 price point that will be that much more accessible to academia,",
@@ -315,8 +368,8 @@
       "title": "How the energy industry can save billions with AI",
       "excerpt": "Chad Steelberg, co-founder, chairman, and CEO of Veritone, talks with Tonya Hall about how AI can save the energy industry billions and ways that the power grid can be protected against cyberattacks.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/video/how-the-energy-industry-can-save-billions-with-ai/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/video/how-the-energy-industry-can-save-billions-with-ai/",
+      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/video/how-the-energy-industry-can-save-billions-with-ai/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/video/how-the-energy-industry-can-save-billions-with-ai/",
       "featuredContent": null,
       "highlight": null,
       "heat": 87,
@@ -568,7 +621,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/03/ai-led-operations-the-smart-way-to-automate/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -657,58 +710,15 @@
       ]
     },
     {
-      "path": "_news/2020-11-03-immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership.md",
-      "title": "ImmunoPrecise Antibodies and Mila Announce Strategic AI Partnership",
-      "excerpt": "\"This partnership opens up an exciting opportunity for AI to tap into unexplored ... Mila has distinguished itself in the areas of language modelling, machine translation, object recognition ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758396",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758396",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758396",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758396",
-      "publishedDateTime": "2020-11-03T04:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-03-3d-printed-hearts-self-driving-buses-and-robots.md",
       "title": "3D-printed hearts, self-driving buses, and robots",
       "excerpt": "Technologies that were still largely in development or limited rollout a year ago are now becoming commonplace, including self-driving cleaning robots and automation in areas like fast food and delivery.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/3d-printed-hearts-self-driving-buses-and-robots/",
-      "originalUrl": "https://www.zdnet.com/article/3d-printed-hearts-self-driving-buses-and-robots/",
+      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/3d-printed-hearts-self-driving-buses-and-robots/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/3d-printed-hearts-self-driving-buses-and-robots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -722,8 +732,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/3d-printed-hearts-self-driving-buses-and-robots/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/3d-printed-hearts-self-driving-buses-and-robots/",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/3d-printed-hearts-self-driving-buses-and-robots/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/3d-printed-hearts-self-driving-buses-and-robots/",
       "publishedDateTime": "2020-11-03T04:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -747,9 +757,8 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -761,7 +770,7 @@
       "originalUrl": "https://www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -890,7 +899,7 @@
       "originalUrl": "https://www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -984,7 +993,7 @@
       "originalUrl": "https://mashable.com/article/facial-recognition-arrest-black-lives-matter-protestor-trump-bible-photo-op/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1023,8 +1032,8 @@
       "title": "Amazon EC2 P4d instances for pushing machine learning boundaries now available",
       "excerpt": "Amazon Web Services (AWS) has announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) P4d instances with EC2 UltraClusters capability. The cloud giant has touted the offering as the next generation of GPU-powered instances for providing the best performance in machine learning training and high-performance computing (HPC) in the cloud.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
-      "originalUrl": "https://www.zdnet.com/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
+      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
       "featuredContent": null,
       "highlight": null,
       "heat": 92,
@@ -1032,8 +1041,8 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
       "publishedDateTime": "2020-11-02T16:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
