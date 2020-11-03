@@ -6,8 +6,8 @@ publishedDateTime: 2020-11-03T01:33:00Z
 originalUrl: "https://siliconangle.com/2020/11/02/amazon-brings-nvidias-powerful-a100-gpus-cloud-p4d-instances/"
 webUrl: "https://siliconangle.com/2020/11/02/amazon-brings-nvidias-powerful-a100-gpus-cloud-p4d-instances/"
 type: article
-quality: 23
-heat: 23
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AWS AI
   - AI
   - Natural Language Processing
+  - AI Hardware
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/image_2020-11-03_080315.png"

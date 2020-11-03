@@ -51,6 +51,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "WiPro Launches Amazon AWS Cloud Consulting Group"
+    excerpt: "Wipro launches dedicated Amazon Web Services (AWS) cloud consulting group spanning 10,000 AWS-certified consultants, the IT solutions provider says."
+    publishedDateTime: 2020-11-02T15:42:00Z
+    webUrl: "https://www.channele2e.com/channel-partners/csps/wipro-launches-amazon-aws-cloud-consulting-group/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 19
 
 secured: "7trlnnDKeOPvMtkZGrQIGTDjaNHBmz3SeLUPPARRlfXJgUhPlyWVcNyGHNRuDCtgU5psc1OoNjloLMpsq+nkmaCW9AyuPuFksU1T9A0sjZz/Q0RgzBIjSHYkctwYDRIxTwRhlylZPvy5hZcGZgpqe5KaD7IqNFm+XQxwqIFU5xAljppr60RDhmnrkb38HFLwvQHKsZUtrxjdEE/PDVKeBI0j3iufxwRN+YrCifGPNaSYr9fXz2szMUNc2qBQAIcsmMTTieqmMwGoB1LSNjJPKUPfUVgqAdYhqIGBvVECYqUc2Fs7Lv9gEOez3gGvsIxYpvZhSD062+z359dCUBlaPzs3pQAU6Ta6IOXfk1sA2Wc=;wCvPx3yYzZ2zp4bUcNSMPQ=="
 ---

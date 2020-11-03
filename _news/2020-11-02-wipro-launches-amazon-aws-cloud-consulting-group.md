@@ -19,15 +19,47 @@ topics:
   - AI
 
 related:
-  - title: "AllCloud Achieves AWS Machine Learning Competency Status"
-    excerpt: "AllCloud, a leading cloud professional services company and an Amazon Web Services (AWS) Premier Consulting Partner, announced today that it has achieved AWS Machine Learning (ML) Competency status. This designation recognizes AllCloud for: Data Services: providing solutions or services that help data scientists and ML practitioners prepare and/or annotate their enterprise data for training of a predictive model."
-    publishedDateTime: 2020-11-02T14:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/allcloud-achieves-aws-machine-learning-competency-status-1029753718"
+  - title: "Wipro and AWS announce the launch of Wipro AWS Business Group"
+    excerpt: "Wipro has announced the launch of Wipro AWS Business Group (WABG), a unit designed to help customers fast-track their cloud transformation journey on AWS."
+    publishedDateTime: 2020-11-03T07:15:00Z
+    webUrl: "https://www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/"
+    ampWebUrl: "https://www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/amp/"
+    cdnAmpWebUrl: "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
+      name: Voicendata.com
+      domain: voicendata.com
+    quality: 59
+    images:
+      - url: "https://www.voicendata.com/wp-content/uploads/2020/10/handshak-image.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Wipro, AWS announce the launch of Wipro AWS Business Group"
+    excerpt: "Wipro announced the launch of its dedicated Wipro AWS Business Group (WABG), a unit designed to help customers fast-track their cloud transformation journey on AWS."
+    publishedDateTime: 2020-11-03T03:20:00Z
+    webUrl: "https://www.business-standard.com/article/news-cm/wipro-aws-announce-the-launch-of-wipro-aws-business-group-120110300202_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/wipro-aws-announce-the-launch-of-wipro-aws-business-group-120110300202_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/wipro-aws-announce-the-launch-of-wipro-aws-business-group-120110300202_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 39
+  - title: "Wipro AWS Business Group: Fast-tracking customers’ cloud transformation journey on AWS"
+    excerpt: "Wipro launched the Wipro AWS Business Group (WABG), a unit designed to help customers fast-track their cloud transformation journey on AWS."
+    publishedDateTime: 2020-11-03T01:32:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/11/03/wipro-aws-business-group/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 31
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "WNqfeN5PIzGsSN/TM5OMxPRrAFvr2ob951jiR1RE37IbV2y5b5MKBzp7JbpZmKPruNlMllHjRcNS2v9abriCBVRw2ZihvJ9shjcvTOjjaJFCrTzwycrqrvO0HAXHPQwYl7hBHRQ698ylAU0rdLgiP33R74vIsuKOPVaxm7KJW3tSZOEJvM8XGDlPDeLIaRigNb7S2R7dOUk42m/fP2FLtYlD0BfgSRI81w7bajEPxb7UMgQU4cYhbhcUZA0jtIY3sj34EokFikP5Llt35vCqiE0nqodlDGNOTsxfzwJiSQGBQr8H+WnSFxGZ6Z+TcnRsjh3zgiw4y3EnLFtEUvIPgStCegCQ2wtnExmeavCTHhM=;dJy4g196Yvda6YeEbt2rCA=="
 ---

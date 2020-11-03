@@ -9,7 +9,7 @@ ampWebUrl: "https://www.voicendata.com/wipro-aws-announce-launch-wipro-aws-busin
 cdnAmpWebUrl: "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -52,7 +52,16 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "WiPro Launches Amazon AWS Cloud Consulting Group"
+    excerpt: "Wipro launches dedicated Amazon Web Services (AWS) cloud consulting group spanning 10,000 AWS-certified consultants, the IT solutions provider says."
+    publishedDateTime: 2020-11-02T15:42:00Z
+    webUrl: "https://www.channele2e.com/channel-partners/csps/wipro-launches-amazon-aws-cloud-consulting-group/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 19
 
-secured: "BhxURSm0uj6dFu20fv2TA//4gV2CG5XrvPGgDDZ/0U0HcZHIaKGJeWIzZJNzZA/zzplFlaQOmi3Lb5dvhdmIXZKQ5Up+641bdQpMl6/5+/mj9aNDLF2V91dcbHmXssTdsD0unEpwZF4P6UCIQcUIEShwz+fZlF0aVmEB+R6Xe0qYBJheTd3imYTLO4SZ2z5ZH9YeQXTQ6FTHcEGHVgmbc/05bJCBLdujZnFSjx7+PBW3RG6RhX6mjoD9+IjKKAEjr9iM5SKqmwub+JknWrUUX0ys9edm9GNQDfNsnHyEAcnKj3GXZM+VCb3g5AeYuEL1NyIzabYP6bBdsaabFlz1v3/3HU/RBtWsS0WNEBGMwLU=;fob8+4aLHfOAHKsU4DnQ6A=="
+secured: "THzvPrJhSN96wp0ikO+lP8a8IxfoeIn/jYWQaceMwbH+RLN71rUKNMcVjXCcOw6G6KSDTRv+wlq3wkW62ZCwp6voOxVreEdM2ssvyh1fRwquGC5sZ9SWAv2/1ciuBy+wUG9fRPQ56W8iWMpXn13nsxSPIkKczJotbCwX+lzUq1zlz4QqFUJkZ9pUHGDd/ljgE1Y8yl35K46BnMgxCpqO6XMvQegXp+22p64Ypi6ICmaux84stGoShakW3kXS9VdGAziLUb+hx8KvDC74k206g8/147vBTi0Tjb9ilkOHodfjubahaUqeyu+2XYe1hm1Jo9qA+oilE/KLfL4HDwgFfy2v/nz1CX5Ycq91nhpzk/KS9rjPoYopxeLK1sThBlF8e7c35FoS8qXErlg707rq2LWR9EQmAxWihg4xDP5hP85KYxrxalhoULttZ3cTT1uZwuq6ZDC/oP2ux7w/IqYk5U77W2EbMVvkdR0zQnTu/EHkWTHKpzh8TSQH8ozGOPxoLmlnQpS0d/Hd/jnuinKtBg==;kNxofrESEqxyf0V2fwvyKw=="
 ---
 

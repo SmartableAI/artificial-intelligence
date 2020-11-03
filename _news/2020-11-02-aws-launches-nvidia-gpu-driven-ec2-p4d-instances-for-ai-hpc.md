@@ -38,18 +38,18 @@ related:
       domain: zdnet.com
     quality: 80
   - title: "AWS Announces General Availability of Amazon EC2 P4d Instances with EC2 UltraClusters Capability"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Elastic Compute Cloud (Amazon"
-    publishedDateTime: 2020-11-03T01:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-amazon-ec2-p4d-instances-with-ec2-ultraclusters-capability-2020-11-02"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) P4d instances, the next generation of GPU-powered instances delivering 3x faster performance,"
+    publishedDateTime: 2020-11-02T22:00:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-science-amazoncom-inc-government-business-and-finance-bb2a7d8e344a468fb811088f430a4147"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
+      name: Associated Press
+      domain: apnews.com
+    quality: 41
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "EJhU/TxKPjeN/asBaY18CerxzscA5WXTIphYLngB5D55sFOHIHpKleJrXQk+oapK8bDE92Wt72lgPqmTlZt4oXOBTPdHkKppjQqHjpfGQcFY1FtbhyICpQlIdygScbEsvhEL7ZYxHPmbK9AnPqr7pKHKqCdWMTHNF0IIdcF/fVb+JL3MPD3uOYmg0HM39mptftW3tpvkn/S5k6JvT3+H5dP0lYsgBKpYF0dGS4atF4D00qh1SRW4cUXqZu6JYPM0hjsD3sWVy4NthPNXiEoujJoaxG/w3YA88eYN/rIDQwQfALf378WqBqO/2562upJA3rA6cXM+dMv8UDUJYxwCqP9SyCIb/qG93nFSVxIoVz3ux3bSnjLzmdxLZhF+QbIL6mREfAgyhxGnbwYzJxPBv6WPjyln2YHZiODgbsld3d6IWnH6VU/TF4h/uqtGQrYTOIDThv1ZGDMLR1EWnNtgY9LotnNAMQx0iB0xnCU9OEIaQJ/1qjsz5EXLQ/Pahavo9QSb3rHfvfO79nfCkmb15Q==;j3WGB90oIQWfqkljzniMhg=="

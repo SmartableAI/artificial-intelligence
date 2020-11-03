@@ -27,9 +27,9 @@ related:
   - title: "Brazil creates national AI innovation network"
     excerpt: "A network of research centers will support startups and established businesses in the development of new products and services based on the technology."
     publishedDateTime: 2020-11-02T17:47:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/brazil-creates-national-ai-innovation-network/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/brazil-creates-national-ai-innovation-network/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/brazil-creates-national-ai-innovation-network/"
+    webUrl: "https://www.zdnet.com/article/brazil-creates-national-ai-innovation-network/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/brazil-creates-national-ai-innovation-network/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazil-creates-national-ai-innovation-network/"
     type: article
     provider:
       name: ZDNet

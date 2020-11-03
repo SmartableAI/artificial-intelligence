@@ -75,22 +75,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "Tesla officially increases price of its Full Self-Driving Kickstarter campaign to $10,000"
-    excerpt: "Tesla has now officially increased the price of its Full Self-Driving package to $10,000 in the US. That’s quite a price for a model that most closely resembles a Kickstarter campaign. In a Kickstarter campaign,"
-    publishedDateTime: 2020-10-29T16:21:00Z
-    webUrl: "https://electrek.co/2020/10/29/tesla-officially-increases-price-of-its-full-self-driving-kickstarter-campaign-to-10000/"
-    ampWebUrl: "https://electrek.co/2020/10/29/tesla-officially-increases-price-of-its-full-self-driving-kickstarter-campaign-to-10000/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/29/tesla-officially-increases-price-of-its-full-self-driving-kickstarter-campaign-to-10000/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 95
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?quality=82&strip=all"
-        width: 1851
-        height: 853
-        isCached: true
   - title: "Tesla bumps up the price of its Full Self-Driving tech to $10,000"
     excerpt: "Even for the wealthier individuals that most Tesla vehicles are targeting, an extra $2,000 might be a tough pill to swallow, especially when the technology is"
     publishedDateTime: 2020-10-30T16:13:00Z
@@ -385,20 +369,6 @@ related:
       - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2020/10/31/nhmzpjpkgvvsqawmqowb-scaled.jpg?ar=16%3A9&fit=crop&q=65&w=1280"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Tesla has released 'full self-driving' in beta — here's how experts rank it, Waymo and 16 other power players in the world of self-driving cars"
-    excerpt: "and Baidu, who make up the upper tier of companies that are working on self-driving technology for consumer vehicles and either operate or have plans to launch a mobility service. (The list ..."
-    publishedDateTime: 2020-10-29T16:57:00Z
-    webUrl: "https://www.businessinsider.com/experts-rank-tesla-waymo-other-self-driving-car-power-players-2020-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
-    images:
-      - url: "https://i.insider.com/5ede3fd74dca686dbd47b084?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Race car drivers had a lot of fun making fun of self-driving race car driving straight into wall"
     excerpt: "Race car drivers took to social media to point out their job security after video showed a self-driving race car drive itself into a wall."

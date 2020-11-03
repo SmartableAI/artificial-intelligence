@@ -2,38 +2,29 @@
 category: news
 title: "AllCloud Achieves AWS Machine Learning Competency Status"
 excerpt: "AllCloud, a leading cloud professional services company and an Amazon Web Services (AWS) Premier Consulting Partner, announced today that it has achieved AWS Machine Learning (ML) Competency status. This designation recognizes AllCloud for: Data Services: providing solutions or services that help data scientists and ML practitioners prepare and/or annotate their enterprise data for training of a predictive model."
-publishedDateTime: 2020-11-02T14:29:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/allcloud-achieves-aws-machine-learning-competency-status-1029753718"
-webUrl: "https://markets.businessinsider.com/news/stocks/allcloud-achieves-aws-machine-learning-competency-status-1029753718"
+publishedDateTime: 2020-11-02T14:00:00Z
+originalUrl: "https://apnews.com/article/technology-business-science-corporate-news-israel-8e9a5a2047e95f20304bb116f92d3bce"
+webUrl: "https://apnews.com/article/technology-business-science-corporate-news-israel-8e9a5a2047e95f20304bb116f92d3bce"
 type: article
-quality: 66
-heat: 76
-published: true
+quality: 56
+heat: 56
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
   - AWS AI
 
-related:
-  - title: "WiPro Launches Amazon AWS Cloud Consulting Group"
-    excerpt: "Wipro launches dedicated Amazon Web Services (AWS) cloud consulting group spanning 10,000 AWS-certified consultants, the IT solutions provider says."
-    publishedDateTime: 2020-11-02T15:42:00Z
-    webUrl: "https://www.channele2e.com/channel-partners/csps/wipro-launches-amazon-aws-cloud-consulting-group/"
-    type: article
-    provider:
-      name: ChannelE2E
-      domain: channele2e.com
-    quality: 19
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
-secured: "G4a9EHuNWAr4BLaf2i2dKA1m0we6xVg3kslVz3qpv9saR/6SG4gA62YBN4a+WZW4QnivSjzRg+MtcSPeLp3sjH2zqoGAcpO+3p/fLBj8wsCesF822sZS1OAV5SShlwIg0hxd9jXOYtsV0Ial0YLo/FuKfcTaNde+zFz+uIkTUag9AcFBcbfSqE1qMZ6fLat5x6RwHsm/E2TT6o92Y0NpNrtyV89zvrSE5ISfd6m24xgv3GCZf1F2v+aX5SegBvFIxxQzOvtLLJBgBgoANE9n2CP3biuQMyviHTPrLZz+TSV5XR9mJrc34ze8zx1ZWEXgcmg/J8nv5t6dAR8FSHsjT89tLloH/DOTb3FdrqCKunI=;BBvmcV3V69cM3LRPqGHvTg=="
+secured: "g+0OTaof85rHlh7uDEKDcuJRTaeW0yxH2l5qUxfAnVq/D5Gu6J2hY4PDAYxeBPWeAsyqbU1jbkIsf47ax4cEI82VFVHR8wk29924vkHVPs6+RgfJW9VL1ttB9S1+gL0iyK1EtE96Fz3cUDz303j7mPhn1R9/Yb3CV6PI8LJz2UgnhMQCRVPPMlMupObIQUW/SXSVyYi7kCGS2vHTANHtoAHm34oaEFeYaVIE/l67/2HDJ4x+0oDVG1xxINlYltvQmIOo4SZ2hfODiL2GKLq79gZWcT1H7EuhwHUrs36Ar1cBX9YGqtlSdXCmPqbqio5yD0ry43GR6f/f3ES6ZyIBib0hYBanq11DqLRojGQlc5k=;RV/vYI8zNqY2JzFw2i9/hg=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://www.wsj.com/articles/the-work-problems-i-wish-ai-could-solve-11
 ampWebUrl: "https://www.wsj.com/amp/articles/the-work-problems-i-wish-ai-could-solve-11604341974"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-work-problems-i-wish-ai-could-solve-11604341974"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://images.wsj.net/im-253446/social"
@@ -29,6 +30,6 @@ images:
     height: 640
     isCached: true
 
-secured: "OIHx2SWOvsBcvgtBl38aeFBfsqVUQrWb7H18ItNlbMYHQZvR1p/SISFzlphMfYTXb9IEUM0EnZL33ovO6K4oLdpQJxZJgBRskf6UK/ZlsyL/MQdEGr+6A6VE/yrS9TF20WLzRXT40VF8+0ml4oLo7PlF/xNk+p0neqeLMSvzdcvvbU8OLWc50KB8IdylQOC2VjyJ/xti2HqemhOQTctigWt5HMm+nIikAnPnrgexu28R3IQaQ08LwD1IneDH10uLdy/71/kdqNDyPcduZgV1Zxg3Ilcsnqhrt7ci2wS1BQLRKh4+VAUxpxgC/rjnzq08Q9+cGObpHzhCevzpVwUsortchwgiwnVIvOUbyvOogMY=;awzV2bqlWl0noP5+2sztCw=="
+secured: "O6nQPnjNvPohhpa7noPmB3wkvoSB0LrPmQpUC60cKZav3wDYeqhputcZY1vHTpfGy8NyWQooUT1bR7NRMEaK7D1T+qDh8WTJwQmS7SA4ktBIIXEPlKfhy+8Ib2m3iC8nCGP6FEx+Vld6YdeVNhD1aphOnatDN8Qpj0p5lGnFgJsxEajb4ZFcz8/6CtCF6tIQkL/xltX2cysMNlmXI9Eu5mE2oJemtiwA6KWOolfibu3TsLUTZqo8RAd30WRvO37iW/9xOdVB8/SkgDEaSu6TI2CVW29/mNbetnlC9ezrgFcRmnVqrMITlmenJ1dzEUSrFM2raQ2KDVnuNKPuGc7RRcf//RkuEF8DGbAXcpsBkcdmuNqGzhqsp0tdE6MTQE9fi35p/XX44xyYSHqBkgcuoKHM7+8Yt7K18ciatOPsOs1q6R05iUk4HVRwYiEHmxjCiyp7NjKOYsitgdhTvljNswXMj4GY2Lv5EBmWUwh5M1U/SckEoQQFHnKu1UKDP3MI72p9/CoJ9cXp94VkTn+R3Q==;fPfwvXYFCfKnj9vTFM1Xtw=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-23-top-10-logistics-companies-worldwide-imarc-group.md",
+      "title": "Top 10 Logistics Companies Worldwide | IMARC Group",
+      "excerpt": "Some of the other emerging technological trends in the logistics industry include artificial intelligence, driverless vehicles and drone delivery. According to IMARC Group, the global logistics ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2168998/top-10-logistics-companies-worldwide-imarc-group",
+      "originalUrl": "https://www.openpr.com/news/2168998/top-10-logistics-companies-worldwide-imarc-group",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/a/Ta22170735_g.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2168998/top-10-logistics-companies-worldwide-imarc-group",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2168998/top-10-logistics-companies-worldwide-imarc-group",
+      "publishedDateTime": "2020-10-22T11:04:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-tesla-full-self-driving-beta-lands-but-its-about-to-get-more-expensive.md",
       "title": "Tesla Full-Self Driving beta lands, but it's about to get more expensive",
       "excerpt": "The FSD beta will roll out to more Tesla owners as early as this weekend, according to CEO Elon Musk, and a price bump's coming.",
@@ -1381,40 +1424,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-tesla-to-deploy-limited-full-self-driving-beta-next-week.md",
-      "title": "Tesla to Deploy Limited Full Self-Driving Beta Next Week",
-      "excerpt": "Tesla TSLA recently announced that it will launch limited models of full self-driving (FSD) vehicles on Oct 20. The fleet of fully-autonomous vehicles to be rolled out next week will be first available for a small number of careful and expert drivers for testing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/tesla-to-deploy-limited-full-self-driving-beta-next-week-2020-10-13",
-      "originalUrl": "https://www.nasdaq.com/articles/tesla-to-deploy-limited-full-self-driving-beta-next-week-2020-10-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/tesla-to-deploy-limited-full-self-driving-beta-next-week-2020-10-13?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-to-deploy-limited-full-self-driving-beta-next-week-2020-10-13?amp",
-      "publishedDateTime": "2020-10-13T05:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -1,26 +1,25 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) in Healthcare Market to Reach US$ 26.5 Billion by 2025, Globally |CAGR: 41%| UnivDatos Market Insights"
-excerpt: "UnivDatos Market Insights released a report titled \"Artificial Intelligence (AI) in Healthcare Market - by Technology (Machine Learning,"
-publishedDateTime: 2020-10-27T15:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025--globally-cagr-41-univdatos-market-insights-301160783.html"
-webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025--globally-cagr-41-univdatos-market-insights-301160783.html"
+excerpt: "Artificial Neural Network), Applications (Robotic Surgery, Diagnosis, Virtual Nursing Assistance, Administrative Workflow Assistance); Offerings (Hardware, Software and Services) and Region ..."
+publishedDateTime: 2020-10-27T15:16:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-1029728132"
+webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-1029728132"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
+  - Machine Learning
   - AI
+  - AI in Healthcare
 
-images:
-  - url: "https://mma.prnewswire.com/media/1225049/UnivDatos_Logo.jpg?p=facebook"
-    width: 1279
-    height: 670
-    isCached: true
-
-secured: "//ugTZe4moFwIsopR6N5LSHFUA+EIiOTiQK5DuO6ivGbMIOnlf5mlMHg68U6ybOQ6qgR2PHFSg8IIgJ6E2a/sfB0dnGCJo6n4Xsi4oU7ZlALpRiBFSZLsV1F33H/0/gO4Y5Ge8BeTl7H6USbOkL8klQGWdBsH7Ebg8I6AilG2KW3EhdNxhO3C44hnkkYOWtaD+UE/Er+QO0btRW6RtN1Xxg9ZzauddcBaQfIdGk18VmE+p2sp01xTQq+vjTY9cNkWE4DXDONFCe1nyTL1Z1gtFttxtQEr+HSTKawbcIQP8nrb2ikkx2IhDGrQoB+XE2YhTtZNzZ/8KQtl7jSjRCNke7y6U0ENtFWxpD49CU7hh4=;73/OeWH4GTz9LZjfY90gFQ=="
+secured: "wv2Ge9LL7SuboGl0oLPOFC23xstTGgwehZUHdnOO2/6Gd++izYEPMFbncSpspFac1uhpuzjj12lYIq2LILeB9wuVbuNHpwPSQEktAh8KxElFcq1hPUceVoIXXISGfI7fbufOBl+TvLg5dAZUnHQPB1w7APYs+sNxqTf2pqTcoy5+L4iL2fx4vOitGNNBPodP4xZJPXNAGY5z6z2HOcVK1eDth35gq8TJgK+5WLbtxom/up5UL5eEJv3wTw91QLnEROJcUbvtfnqKh/chktxqxbCTLlui6FJ4EMs6PBWgWy1G2qRyDceasF8BDQzTeZjV+Gx7B/bejikOxS09t0CEBUei+RIfruQXIbAwR0ZGN9U=;3E9ylToH+Xmi+hLCO1Et9Q=="
 ---
 

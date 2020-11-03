@@ -1,32 +1,27 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon EC2 P4d Instances with EC2 UltraClusters Capability"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Elastic Compute Cloud (Amazon"
-publishedDateTime: 2020-11-03T01:36:00Z
-originalUrl: "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-amazon-ec2-p4d-instances-with-ec2-ultraclusters-capability-2020-11-02"
-webUrl: "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-amazon-ec2-p4d-instances-with-ec2-ultraclusters-capability-2020-11-02"
+excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) P4d instances, the next generation of GPU-powered instances delivering 3x faster performance,"
+publishedDateTime: 2020-11-02T22:00:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/business-technology-science-amazoncom-inc-government-business-and-finance-bb2a7d8e344a468fb811088f430a4147"
+webUrl: "https://apnews.com/press-release/business-wire/business-technology-science-amazoncom-inc-government-business-and-finance-bb2a7d8e344a468fb811088f430a4147"
 type: article
-quality: 73
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Google AI
-  - AI
   - AWS AI
+  - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -56,6 +51,6 @@ related:
         height: 300
         isCached: true
 
-secured: "bp1lNCfwWRul3J3rWXU7sBKFuRmnTIxKOop/grMJiJlQ/f8clnItEz7TOfL+N+I0orPlDsOfdAmoNjy+j5iQSTy+5KZY1ljHpzop7p+UcJ1h5eqB2+Hdd36MzhKHOThdgNVfY+ENjGIR2tv+pyNUhk1AK9LDa2Xe4whLNwdErEGB4cgKpCHLWTQF2Ojx4cLjM6nRi2eTmAvoVTrY6+sTEMq2WezYKaCxZQ9FNhiV1+2H32Sm1fW3V7uoiMC60G6aiETyAgWXtU+dRBortjBx5ghd4dhXg/qdOiU9bBrGTz/dHqfxTWdp8jinfHi1gK8cr77I4ipo75oBVz74DxYHXNDm4XS2nv/6MwbJmqwXj/w=;+SOS/tgUem0jTV7Ibzxg9Q=="
+secured: "1gwWqZTakaymG8mdv29YulzYlDrBEPd2tnrLyPpqLFNJZl4l2zOcTkNsCwTK+xveRS55Bs0xWo5LP9hWWclhjo7poX9KozqRb3nnucYToYXfXH30jw7wsCsexeiNzDOF8u9e9fnKS9hHOINUrgjGDaDTy6Yr8sbCZF+3wdtpwG6Koz5MPbCfJ2NK3nwiVVcb8Cp+9+h+WwcUeGfUuvo0lnCmaTE/jM66GYNEacqt/mSIYrX20Fb1fb6uc8qlJxGeo5MwAZnchENXm93goN5ZAT+LyoaFMhnWmNu4VStS5ojTHuEjFOJBF8DwKfm3BBtNOFGXP2msgHtgSywzevXedhKrRi3CFLRTPxdxl4b55Q4=;824h5Ebsbhc0PEed0/7HEg=="
 ---
 

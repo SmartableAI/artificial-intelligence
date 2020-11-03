@@ -1,10 +1,10 @@
 ---
 category: news
 title: "IBM Smart Lineup Decisions for NFL Week 8"
-excerpt: "That's where IBM Insights comes in, as they use Watson AI to break down all of the content you're consuming and then some. And by \"some\", I mean every inch of the interwebs. Below are the ..."
-publishedDateTime: 2020-10-30T13:10:00Z
-originalUrl: "https://www.espn.com/fantasy/football/story/_/page/smartlineup201030/ibm-smart-lineup-decisions-nfl-week-8"
-webUrl: "https://www.espn.com/fantasy/football/story/_/page/smartlineup201030/ibm-smart-lineup-decisions-nfl-week-8"
+excerpt: "That's where IBM Insights comes in, as they use Watson AI to break down all of the content you're consuming and then some. And by \"some\", I mean every inch of the interwebs. Below are the highlights for NFL Week 8 -- good and bad."
+publishedDateTime: 2020-10-30T13:00:00Z
+originalUrl: "https://www.espn.com/fantasy/football/story/_/page/smartlineup201030/ibm-smart-lineup-decisions-nfl-week-8?device=featurephone"
+webUrl: "https://www.espn.com/fantasy/football/story/_/page/smartlineup201030/ibm-smart-lineup-decisions-nfl-week-8?device=featurephone"
 ampWebUrl: "https://www.espn.com/fantasy/football/story/_/page/smartlineup201030/ibm-smart-lineup-decisions-nfl-week-8?platform=amp"
 cdnAmpWebUrl: "https://www-espn-com.cdn.ampproject.org/c/s/www.espn.com/fantasy/football/story/_/page/smartlineup201030/ibm-smart-lineup-decisions-nfl-week-8?platform=amp"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 729
     isCached: true
 
-secured: "+iLoj2rri7ZbFW+K9a9aYw3/Tys2SGKhfsGw2Sj+AK49IsFVKAca5pMENs6BMMCWQed5qGVi9fPC6yGuXlhdEGi+1w5qUr6AR2zC7wluGHk9MtfvbUcir34FhLQ55J94q+eVEpMXNwjEwgGtALCpqT5v9Ryab6SxYvARUl7MdVj6SuT/Rkm7B4adq6uaCgNVo+y7KukMdqLRZ0xTwTT/s7r3O2Cd3pOVhr6lIUYIIyQOsBvM3PDUuNoodaO8rDzciRsSIEUXIE6gH2dDMCF9PBg5sD29wPOEIMQ2a5A8EhV74DwwaaQ3tKdxkpN9bmXnRVmxIDiUikLHDncaAA1Ip1t4JgPyvhq2qSoQcXYL2hc=;NJc8aMtHQBOdYyliWyJjfg=="
+secured: "f36uSG3Vq3ksAx0ELN6SifiuOKgsFNhexX4p70znyWS7c6WIT9Wh4MSVpRFWgx870qbAT796Nv2bpaLOX8jfibxiMv4zMmQvL5uglqmXG/7NHy1PDuUzme+zQYP0h06gqZ4kSYxopYjftQl2NY0DlKyDxSMuf8gAJ8Wrq27CUiTrW+lyApRFzpDqVGTsz8as+SI9WpFSWmD7RdV+rb6KSQolkZKGLSyxpffsOvpTBMaIHyTErX2Ktj4S8NB1K8M4GG0kt/38kn7jBysp47sJ/4MIPhZnNJZJGlKI1LkHaxy8OenTOkyRNzYbKU0cllkPsb0YxSbpJGI1IebOSsWP4cJsV5UTyhkciLk48HkC7ds=;GZ22ZlM6zBUbhawN0NpQ2Q=="
 ---
 
