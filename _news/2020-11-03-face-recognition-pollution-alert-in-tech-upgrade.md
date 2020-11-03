@@ -43,20 +43,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Facial Recognition For International Passengers at LAX"
-    excerpt: "U.S. Customs and Border Protection officials Thursday announced the implementation of a facial-recognition process at Los Angeles International Airport that will screen passengers entering the country."
-    publishedDateTime: 2020-10-29T22:46:00Z
-    webUrl: "https://mynewsla.com/life/2020/10/29/facial-recognition-for-international-passengers-at-lax/"
-    type: article
-    provider:
-      name: MyNewsLA
-      domain: mynewsla.com
-    quality: 39
-    images:
-      - url: "https://mynewsla.com/wp-content/uploads/2016/04/MyNewsLA-AMP-Logo.png"
-        width: 583
-        height: 300
-        isCached: true
   - title: "Facial Recognition System Unveiled At LAX's Tom Bradley International Terminal"
     excerpt: "A facial-recognition system to simplify the arrival of international travelers was unveiled Thursday at LAX. Mission Viejo Yogurt Shop Receives Overwhelming Support After Couple Threatens To Sue Over Face Mask RequirementA couple walked into a Mission Viejo yogurt shop this weekend and threatened to sue after being told they needed to wear a face covering in accordance with local health orders."
     publishedDateTime: 2020-10-30T06:20:00Z

@@ -42,6 +42,20 @@ related:
         width: 910
         height: 555
         isCached: true
+  - title: "Concordia researchers dig deep into the software powering self-driving cars"
+    excerpt: "Peeking under the hood of a self-driving car will only tell you so much. To really understand what makes them run, you have to dive deep into the software that makes up the autonomous driving systems (ADS) controlling driverless vehicles."
+    publishedDateTime: 2020-11-03T16:11:00Z
+    webUrl: "https://www.concordia.ca/news/stories/2020/11/03/concordia-researchers-dig-deep-into-the-software-powering-self-driving-cars.html"
+    type: article
+    provider:
+      name: Concordia University
+      domain: concordia.ca
+    quality: 22
+    images:
+      - url: "https://www.concordia.ca/news/stories/2020/11/03/concordia-researchers-dig-deep-into-the-software-powering-self-driving-cars/_jcr_content/top-image.img.768.medium.jpg/1604417479462.jpg"
+        width: 768
+        height: 391
+        isCached: true
   - title: "Self-driving startup Pony.ai gets funding from FAW"
     excerpt: "Self-driving technology startup Pony.ai struck a funding agreement with automaker FAW Group, calling it the first strategic investment by a Chinese state-owned vehicle manufacturer into an autonomous-technology company."
     publishedDateTime: 2020-11-03T10:35:00Z

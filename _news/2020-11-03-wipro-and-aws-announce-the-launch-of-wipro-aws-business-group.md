@@ -9,7 +9,7 @@ ampWebUrl: "https://www.voicendata.com/wipro-aws-announce-launch-wipro-aws-busin
 cdnAmpWebUrl: "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
     provider:
       name: ChannelE2E
       domain: channele2e.com
+    quality: 19
+  - title: "Wipro starts dedicated AWS business unit"
+    excerpt: "Wipro announced the launch of its dedicated Wipro AWS Business Group (WABG), a unit designed to help customers fast-track their cloud transformation journey on AWS. WABG merges Wipro's industry experience and portfolio of services with AWS's cloud platforms."
+    publishedDateTime: 2020-11-03T15:20:00Z
+    webUrl: "https://www.telecompaper.com/news/wipro-starts-dedicated-aws-business-unit--1360351"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
     quality: 19
 
 secured: "THzvPrJhSN96wp0ikO+lP8a8IxfoeIn/jYWQaceMwbH+RLN71rUKNMcVjXCcOw6G6KSDTRv+wlq3wkW62ZCwp6voOxVreEdM2ssvyh1fRwquGC5sZ9SWAv2/1ciuBy+wUG9fRPQ56W8iWMpXn13nsxSPIkKczJotbCwX+lzUq1zlz4QqFUJkZ9pUHGDd/ljgE1Y8yl35K46BnMgxCpqO6XMvQegXp+22p64Ypi6ICmaux84stGoShakW3kXS9VdGAziLUb+hx8KvDC74k206g8/147vBTi0Tjb9ilkOHodfjubahaUqeyu+2XYe1hm1Jo9qA+oilE/KLfL4HDwgFfy2v/nz1CX5Ycq91nhpzk/KS9rjPoYopxeLK1sThBlF8e7c35FoS8qXErlg707rq2LWR9EQmAxWihg4xDP5hP85KYxrxalhoULttZ3cTT1uZwuq6ZDC/oP2ux7w/IqYk5U77W2EbMVvkdR0zQnTu/EHkWTHKpzh8TSQH8ozGOPxoLmlnQpS0d/Hd/jnuinKtBg==;kNxofrESEqxyf0V2fwvyKw=="

@@ -83,20 +83,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "A self-driving race car drove straight into a wall off the starting line in the world's first autonomous racing series"
-    excerpt: "And a recent mishap at an autonomous racing event showcased just how challenging self-driving technology can be. Roborace — a new autonomous racing series that's still in its testing phase ..."
-    publishedDateTime: 2020-10-29T22:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/self-driving-roborace-race-car-drove-straight-into-wall-2020-10-1029744243"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
-    images:
-      - url: "https://i.insider.com/5f9b302e6f5b310011724515?format=jpeg"
-        width: 2264
-        height: 1390
-        isCached: true
 
 secured: "/AUx9IA+xI6Xw0y2qGlP89BhiUq8OTx8a4G/TrpFNxcUHlCwCxrtpH7N5S2a+J70TpznGHF48pBDIQZ6e+ZyFYaaJEc9zoKQr6gMrd1kcijf2zqGfQ8o7zHyYv4FbMJKU5SvRF82DuNtxL6D6eRLT+KsfycuBca7avABvv0cRz8bZfr27Ec9iBYtE6On1gsGmsYTJUtUa1jZaRGbL6Qoqexy+A1VnEDV3Ijg8XnuW9iy9PGZxUsRx39w+iLyNc0rO8MslYOi3Xw5uyvKmE09U99aZQ8M5kKZHdRxcQr7rMsc5+bj71J0pkTh/0Z42vL+/JC7llPj9mbbOif/cukRjz9txtFqZY6yrVN5OaQJh01GPugchBp0mtvtBGUgJ5lVB2HakBYDx8pe5W3z2rPtOuw2ESZLKrXqh79MqFvOwa8uijazqVBNXJYZCYXBhv9FnvFNmX+HmtG1A9P4NjGwXDOKR3VSyVCUmNckPbTztKfwQCjFeyYjzidzPPFvGZMaiKzZM8Z7dfgYED1+WEgTQQ==;tIpWWWtMG1PdBKaJdZdDHg=="
 ---

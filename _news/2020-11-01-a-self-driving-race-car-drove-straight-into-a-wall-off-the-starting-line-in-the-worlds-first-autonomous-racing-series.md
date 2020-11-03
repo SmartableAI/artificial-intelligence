@@ -79,20 +79,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "A self-driving race car drove straight into a wall off the starting line in the world's first autonomous racing series"
-    excerpt: "And a recent mishap at an autonomous racing event showcased just how challenging self-driving technology can be. Roborace — a new autonomous racing series that's still in its testing phase ..."
-    publishedDateTime: 2020-10-29T22:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/self-driving-roborace-race-car-drove-straight-into-wall-2020-10-1029744243"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
-    images:
-      - url: "https://i.insider.com/5f9b302e6f5b310011724515?format=jpeg"
-        width: 2264
-        height: 1390
-        isCached: true
   - title: "Waymo and Daimler to build self-driving trucks"
     excerpt: "Daimler Trucks and autonomous driving technology vendor Waymo are partnering to deploy self-driving SAE Level 4 trucks for future transportation logistics operations. The initial collaboration will combine Waymo’s automated driving technology with a new version of Daimler’s Freightliner Cascadia to enable autonomous driving."
     publishedDateTime: 2020-10-30T12:46:00Z

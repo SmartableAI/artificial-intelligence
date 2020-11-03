@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/article/facial-recognition-arrest-black-lives-m
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-recognition-arrest-black-lives-matter-protestor-trump-bible-photo-op.amp"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZOFQJ3VELQI6VCMOWINZVA7XSI.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Facial Recognition Used to ID Washington, D.C., Protester"
+    excerpt: "The case was the first time many public defenders they had seen the technology's use disclosed to a defendant after thousands of searches in bank robberies, human trafficking and gang cases."
+    publishedDateTime: 2020-11-03T15:06:00Z
+    webUrl: "https://thecrimereport.org/2020/11/03/facial-recognition-used-to-id-washington-d-c-protester/"
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 39
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2020/09/2021JJ-HFG_3.jpg"
+        width: 350
+        height: 240
         isCached: true
 
 secured: "B755LIUf0SR3uRhy6jM+Uve8iPDQE7ds5pIv3+69h5DaKlMuyqwgNfyaAjSQLZgrLiz9vWspKK4RMKjiq4NuILmkjwJunV0tCa7YV4plxdW4T7DcSnZYE/w2cfcarlboJyjNukT/rYnhkAhr7M4xNpuR3W+tzY4h0Nsd9NUZCryC4DsNGFWWUeeTfZU5nPBhnwPkiG11Q2sPpOvOwX4Af3a+xlEAEVH39XVbGRPg0YAOjpbp0kGBcUXVGZ26UxHiiWUJN3DY2OTvdXFCQx0nYQt+urjoxIxOgoDeSQfFmR0EJIB+QL469yY/IaKT/Qmm42UNu+lMJSuaDVRz+p4uifu6DqRAO3IawEpZp6Bm34Y=;H/JReGw4VxuZ7hS4K5eDgw=="

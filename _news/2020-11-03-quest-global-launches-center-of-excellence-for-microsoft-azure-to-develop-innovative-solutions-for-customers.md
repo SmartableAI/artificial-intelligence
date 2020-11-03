@@ -1,12 +1,14 @@
 ---
 category: news
 title: "QuEST Global launches Center of Excellence for Microsoft Azure to develop innovative solutions for customers"
-excerpt: "EAST HARTFORD, Conn. and PUNE, India, Nov. 3, 2020 /PRNewswire/ -- QuEST Global, a global product engineering and lifecycle services company,"
+excerpt: "QuEST Global, a global product engineering and lifecycle services company, today announced it has signed an agreement with Microsoft to launch a dedicated Center for Excellence (CoE) for Microsoft Azure."
 publishedDateTime: 2020-11-03T12:23:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-1029758251"
-webUrl: "https://markets.businessinsider.com/news/stocks/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-1029758251"
+originalUrl: "https://markets.businessinsider.com/news/stocks/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-1029758272"
+webUrl: "https://markets.businessinsider.com/news/stocks/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-1029758272"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-1029758272"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-1029758272"
 type: article
-quality: 45
+quality: 65
 heat: -1
 published: false
 
@@ -100,6 +102,6 @@ related:
         height: 600
         isCached: true
 
-secured: "wk47yLmlt4H4ekOwNszk6kvos9gxTH1rdoE981nso+L3ubYMohOX+KTMFDg3VimvluLVBkVL7YfPbyflw1Cn1jUXJLcq8TpE5f9cVZK9Q7ZfigIS1ffgMc0tO4blfcAml8CfaCFyD0FmscjYf0+54c/Ipub+QIfSuG9Drtb4FfVmTF+VZ5cMhPXkveIKGxSpapviR347TTYLr+kZu28bwOVwmcUjc+OfGf1PziZPb/cn1GK9xEqjaQBJhrhOq1Xzm77cVEDQF0ux4n2QlzAF54sqQvStt5V7SQJ/YLFLdy10NaZ7yb6bZvPIpfkTPOrnsrvtcxYoFCJi7xE2a+yTwbsWncNc1ze62Rf/nt8B3dw=;2seqOSF4gQ6HMe58Db9oEg=="
+secured: "QhtdPV6lDvHI7OczOG6FE5wgI9zjx2jj6eX1gL1wADn+CKSPGfahrhaMTUR5L3nk22WuU++JOqLwiUgEvGTMd1bowuyWNyTpjOZ8ZVMfMQuyZ7TZPFEgyGwE+EccEW9TrvxvaTUaSPmhbZhPDMER0vpy0py/3jGicRKc0tnY+5lWJivGON3PUsicU730wPbyJ8WNY5eMk/7hqdRssRsrMzZfBBmFUvVeR0bxBE+o/CMRwu3DXx7/Mcgd+UyQlNmK7rZfSHwpl62Tr7i+TTU0fVjTM0AEL4m9+i+6jiZHHk7i6wGhW+U65vJqWDKyl9U5Y44uvLJZK2ZCQSv6Bb3yxA6bt3sW4IZU4SVUNfueLps=;dUuXnUxcaCBlQ/rg4gWw+Q=="
 ---
 

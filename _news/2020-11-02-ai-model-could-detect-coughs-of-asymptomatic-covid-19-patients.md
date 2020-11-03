@@ -104,6 +104,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "AI Model Can Detect Covid-19 Through Recorded Coughs"
+    excerpt: "A new AI model has shown to be able to detect Covid-19 through cell-phone recorded coughs. As reported by MIT News this could prove a valuable defence"
+    publishedDateTime: 2020-11-03T16:17:00Z
+    webUrl: "https://www.androidheadlines.com/2020/11/ai-model-can-detect-covid-19-through-recorded-coughs.html"
+    ampWebUrl: "https://www.androidheadlines.com/2020/11/ai-model-can-detect-covid-19-through-recorded-coughs.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/11/ai-model-can-detect-covid-19-through-recorded-coughs.html/amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 59
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2020/03/AH-Coronavirus-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "MIT builds AI which can detect Covid-19 by listening to your cough"
     excerpt: "AI tool uses neural networks that can figure out changes in a person’s cough which point out whether they are infected"
     publishedDateTime: 2020-11-02T10:12:00Z
@@ -205,6 +221,17 @@ related:
         width: 683
         height: 415
         isCached: true
+  - title: "MIT artificial intelligence model detects COVID-19 by sound of cough"
+    excerpt: "The AI model for COVID-19 uses the same four biomarkers— vocal cord strength, sentiment, lung and respiratory performance and muscular degradation — as a similar model used to detect Alzheimer's. One of the biggest challenges with slowing the spread of COVID-19 is detecting it in people who never show any symptoms."
+    publishedDateTime: 2020-11-03T15:56:00Z
+    webUrl: "https://www.phillyvoice.com/covid-19-analysis-sound-of-cough-artificial-intelligence-mit/"
+    ampWebUrl: "https://www.phillyvoice.com/covid-19-analysis-sound-of-cough-artificial-intelligence-mit/amp/"
+    cdnAmpWebUrl: "https://www-phillyvoice-com.cdn.ampproject.org/c/s/www.phillyvoice.com/covid-19-analysis-sound-of-cough-artificial-intelligence-mit/amp/"
+    type: article
+    provider:
+      name: PhillyVoice
+      domain: phillyvoice.com
+    quality: 37
   - title: "researchers at MIT create AI model that detects asymptomatic COVID-19 infections"
     excerpt: "MIT have created an artificial intelligence model that detects asymptomatic COVID-19 infections through cellphone-recorded coughs. the study has found out that asymptomatic patients may differ from healthy individuals in the way they cough and that these differences are not decipherable to the human ear but it turns out they can be picked up by AI."
     publishedDateTime: 2020-11-02T12:26:00Z
@@ -219,6 +246,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "How an Automated Data Labeling Platform Accelerates AI industry's Development During COVID-19"
+    excerpt: "NEW YORK, NY / ACCESSWIRE / November 3, 2020 / The impact of AI on COVID-19 has been widely reported across the globe, yet the impact of COVID-19 on AI has not received"
+    publishedDateTime: 2020-11-03T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/ac18189253/how-an-automated-data-labeling-platform-accelerates-ai-industrys-development-during-covid-19"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18189253"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18189253"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 26
   - title: "AI For COVID 19: MIT Model Effectively Detect Corona By Hearing Cough"
     excerpt: "Asymptomatic patients remain a major concern for the COVID-19 spread. But, this AI model by MIT researchers may help in early detection by hearing coughs."
     publishedDateTime: 2020-11-03T10:00:00Z

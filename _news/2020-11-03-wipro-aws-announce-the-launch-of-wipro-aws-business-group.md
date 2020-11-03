@@ -60,6 +60,15 @@ related:
       name: ChannelE2E
       domain: channele2e.com
     quality: 19
+  - title: "Wipro starts dedicated AWS business unit"
+    excerpt: "Wipro announced the launch of its dedicated Wipro AWS Business Group (WABG), a unit designed to help customers fast-track their cloud transformation journey on AWS. WABG merges Wipro's industry experience and portfolio of services with AWS's cloud platforms."
+    publishedDateTime: 2020-11-03T15:20:00Z
+    webUrl: "https://www.telecompaper.com/news/wipro-starts-dedicated-aws-business-unit--1360351"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "7trlnnDKeOPvMtkZGrQIGTDjaNHBmz3SeLUPPARRlfXJgUhPlyWVcNyGHNRuDCtgU5psc1OoNjloLMpsq+nkmaCW9AyuPuFksU1T9A0sjZz/Q0RgzBIjSHYkctwYDRIxTwRhlylZPvy5hZcGZgpqe5KaD7IqNFm+XQxwqIFU5xAljppr60RDhmnrkb38HFLwvQHKsZUtrxjdEE/PDVKeBI0j3iufxwRN+YrCifGPNaSYr9fXz2szMUNc2qBQAIcsmMTTieqmMwGoB1LSNjJPKUPfUVgqAdYhqIGBvVECYqUc2Fs7Lv9gEOez3gGvsIxYpvZhSD062+z359dCUBlaPzs3pQAU6Ta6IOXfk1sA2Wc=;wCvPx3yYzZ2zp4bUcNSMPQ=="
 ---

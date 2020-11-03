@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/global-cognitive-inform
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-cognitive-informatics-markets-2020-2025-cognitive-informatics-will-become-an-integral-component-of-human-machine-systems-and-solutions-1029753075"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,33 @@ topics:
   - AI
 
 related:
-  - title: "United States Data Center Construction Markets, 2020-2025 - Growing Cloud Applications, AI, and Big Data & Rising Adoption of Hyperscale Data Centers"
-    excerpt: "The \"United States Data Center Construction Market - Growth, Trends, and Forecasts (2020 - 2025)\" report has been added"
-    publishedDateTime: 2020-11-02T11:45:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/united-states-data-center-construction-markets-2020-2025---growing-cloud-applications-ai-and-big-data--rising-adoption-of-hyperscale-data-centers-301164782.html"
+  - title: "Global Artificial Intelligence For Drug Development and Discovery Market 2020 Industry Status and Outlook, Competitive Landscape and Growth by 2025"
+    excerpt: "MarketsandResearch.biz has published the latest and most trending report entitled Global Artificial Intelligence For Drug Development and Discovery Market 2020 by Company, Regions, Type and Application,"
+    publishedDateTime: 2020-11-01T12:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-for-drug-development-and-discovery-market-2020-industry-status-and-outlook-competitive-landscape-and-growth-by-2025-2020-11-01"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence in Information and Communications Technology Markets, 2020-2025: Focus on Communications, Applications, Content, and Commerce ..."
+    excerpt: "The \"Artificial Intelligence in Information and Communications Technology: AI and Cognitive Computing in Communications, Applications, Content, and Commerce 2020 - 2025\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2020-11-03T09:19:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201103005275/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
     quality: 0
     images:
-      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
+      - url: "https://mms.businesswire.com/media/20201103005275/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "+323ovHnqNkt3L06ElUCJCdkjSE/qvOXPwFWN9xsngYicmRDWU8z9oA1tQle1+BnYZPiW7q+VeVRFtkeZZ/sFFtYI6aBPU9Qo/lgALPv66hW7UbYmrP/eYbadnznPrfayu1UXXTZmjbp9edYs3JjzqpZpPfo7MBYZRdYMfmilEbK8Iy5Poa0uKHCx68XojPFlkaxBorb432k+X78k142M+RTkLMZcA57q5aqxYKEFYIaty7zH3cg+JNduZnqO5pUj2munHM00ktDkpXIBTtKF/ir6+rTdeiMlrKDIF92d1OSci7mzZ+nWyGnFUYnh4eupv5CzSnOQObcxrQCYk6ZftFuNPaTeKUq0dNdgcxNfNo=;pvbowx5CeNm+EJM8P/2rgg=="

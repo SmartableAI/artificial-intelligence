@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2020-11-machine-anti-cancer-drug-effi
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-machine-anti-cancer-drug-efficacy.amp"
 type: article
 quality: 59
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "Machine Learning Increased Accuracy of Anti-Cancer Drug Response Predictions"
+    excerpt: "Scientists from the Pohang University of Science and Technology (POSTECH) in South Korea report that have successfully increased the accuracy of anti-cancer drug response predictions by developing a machine learning that learned the transcriptome information derived from actual patients instead of animal models."
+    publishedDateTime: 2020-11-02T20:00:00Z
+    webUrl: "https://genengnews.com/news/machine-learning-increased-accuracy-of-anti-cancer-drug-response-predictions/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 36
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2020/11/NOv2_2020_Getty_1192983611_MachineLearningBrain-scaled-e1604338592576.jpg"
+        width: 1400
+        height: 934
+        isCached: true
 
 secured: "IEdq3saTgsN2Aly/AkqcazEpY5nyy0Itqu3CNlSgauixRvEvTsT/OQpfPdWIzEXwn6GHlbaTEHoBt5ye21MiC0PLC7P69RpDEH4FHM5B75Nlti31eAfF2HzKXbfCk4mKwMQgqmh3gFKq5YBJ2d2+BmuN/sJtGbysAgbHW5IXaGjrUIj0cWQ8TJGb2cMCSp4nksEcNKKH6Qf4+yAM6o2/X7kZ0mZn8Ndbk5COxgYJlTPY/4KR3pWa6+xMFwr5QVKDIYGKao/qv5yN3PCv/HaGuZL0J6acG5nOa9UDw21OGHiODZg2BCzBNwhVGD7l3G8t4DK3JOpLHp70nwOoNnLqICGGfREcsP5+p8s5lSr4TAwCoiXoeUU88ggaJ8wZkQ0hkMTibndyebnuelzgOMVfsVgC/JLjCBwAIQsYHsaXE/ruBOfyt/WY3qNHSVq0eieZXN3DCUyWaXy0wuCTsxaCyKceH54GhQLkgMhobE2GaY9karaO7IiTTQNJEPkwrbOZBCvtzH9wgs447KODa+3kSw==;aQortUp6yK7CM/ryPnNzzQ=="
 ---

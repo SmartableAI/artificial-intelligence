@@ -2,40 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-10-19-global-deep-learning-market-2020-business-strategies-ibm-corporation-intel-corporation-nvidia-corporation-alphabet-inc.md",
-      "title": "Global Deep Learning Market 2020 Business Strategies – IBM Corporation, Intel Corporation, NVIDIA Corporation, Alphabet Inc.",
-      "excerpt": "The Zion Market Research added a new report “Deep Learning Market: by Application (Speech Recognition, Image Recognition, Data Mining, Drug Discovery, Driver Assistance, and Others), by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2163245/global-deep-learning-market-2020-business-strategies-ibm",
-      "originalUrl": "https://www.openpr.com/news/2163245/global-deep-learning-market-2020-business-strategies-ibm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2163245/global-deep-learning-market-2020-business-strategies-ibm",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2163245/global-deep-learning-market-2020-business-strategies-ibm",
-      "publishedDateTime": "2020-10-19T00:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-19-ai-ml-latest-google-disbands-another-ai-ethics-committee.md",
       "title": "AI & ML latest: Google disbands another AI ethics committee",
       "excerpt": "28/01/2019 Amazon open-sources its SageMaker Neo machine learning optimisation software Amazon has open-sourced SageMaker Neo, its software for training machine learning models and optimising the ...",
@@ -1277,6 +1243,49 @@
       "provider": {
         "name": "Phys.org",
         "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-deep-learning-market-growing-application-of-deep-learning-to-boost-the-market-growth-technavio.md",
+      "title": "Deep Learning Market | Growing Application of Deep Learning to Boost the Market Growth | Technavio",
+      "excerpt": "The deep learning market size is poised to grow by USD 7.2 billion during 2020-2024, progressing at a CAGR of almost 45% throughout the forecast period, according to the latest report by Technavio.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/10/b17896663/deep-learning-market-growing-application-of-deep-learning-to-boost-the-market-growth-technavio",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/b17896663/deep-learning-market-growing-application-of-deep-learning-to-boost-the-market-growth-technavio",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201013006083/en/830001/4/IRTNTR41147.jpg",
+          "width": 480,
+          "height": 271,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17896663",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17896663",
+      "publishedDateTime": "2020-10-14T00:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

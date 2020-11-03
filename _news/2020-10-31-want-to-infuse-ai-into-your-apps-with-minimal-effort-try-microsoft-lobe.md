@@ -66,6 +66,17 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "QuEST Global launches Center of Excellence for Microsoft Azure to develop innovative solutions for customers"
+    excerpt: "QuEST Global, a global product engineering and lifecycle services company, today announced it has signed an agreement with Microsoft to launch a dedicated Center for Excellence (CoE) for Microsoft Azure."
+    publishedDateTime: 2020-11-03T12:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-1029758272"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-1029758272"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-1029758272"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
   - title: "Large-Scale Multilingual AI Models from Google, Facebook, and Microsoft"
     excerpt: "Researchers from Google, Facebook, and Microsoft have published their recent work on multilingual AI models. Google and Microsoft have released models that achieve new state-of-the-art performance on NLP tasks measured by the XTREME benchmark,"
     publishedDateTime: 2020-11-03T14:10:00Z
@@ -94,15 +105,6 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "QuEST Global launches Center of Excellence for Microsoft Azure to develop innovative solutions for customers"
-    excerpt: "EAST HARTFORD, Conn. and PUNE, India, Nov. 3, 2020 /PRNewswire/ -- QuEST Global, a global product engineering and lifecycle services company,"
-    publishedDateTime: 2020-11-03T12:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-1029758251"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
 
 secured: "LwkVYB2Lt5vKii0ge7OKEk17v1nN8Qj6IEiNqC13kTLl1/+XQHmoZJbrz8gBp8NuXayKWqDSOBPI7iPY5VdJUeK1tKwYcDvSYSgmU23IhznRrdGmPUpaiOaXaUiW58XTqiE6BD75pGczUiJ9OyT2dFNLJ6GXlWiuM5Tl1YBREQDozWL0zeb6Mv5oox8ImTo1sfdQq18jqgIjYO8sHDWExRn7Fdw2/Hol8NZc267MY0YIRnNKfG8GQyABPKf4zcQZMCPa2Siv9mGh5/mVKEDdv618cGaa0+NxkxhgCXH0UQicJKglqPo5ZkW9ApYU6FLryYFBoReoByur3HLfQLTobZovIZ9XInzd4Gc5xSGq2A7q8Eeaa698RDS1L3Le0eqV1nAzCTOpK/SQKIBTviln6GPkORJ6YUxpvB7TfuPwxg19Umq5oHxU36sq7BLa6zRzILUJt5ILbpUyB/EkCevg2LTwWamFigCbjow5siRi8vy0lx3N0kueKgRmQWfXmaP4YFEM5A672tefgPEo0jZ22w==;YREoGdrO6/FyTp0N2Lm8gQ=="
 ---

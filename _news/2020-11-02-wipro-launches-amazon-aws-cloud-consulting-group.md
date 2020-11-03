@@ -60,6 +60,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Wipro starts dedicated AWS business unit"
+    excerpt: "Wipro announced the launch of its dedicated Wipro AWS Business Group (WABG), a unit designed to help customers fast-track their cloud transformation journey on AWS. WABG merges Wipro's industry experience and portfolio of services with AWS's cloud platforms."
+    publishedDateTime: 2020-11-03T15:20:00Z
+    webUrl: "https://www.telecompaper.com/news/wipro-starts-dedicated-aws-business-unit--1360351"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "WNqfeN5PIzGsSN/TM5OMxPRrAFvr2ob951jiR1RE37IbV2y5b5MKBzp7JbpZmKPruNlMllHjRcNS2v9abriCBVRw2ZihvJ9shjcvTOjjaJFCrTzwycrqrvO0HAXHPQwYl7hBHRQ698ylAU0rdLgiP33R74vIsuKOPVaxm7KJW3tSZOEJvM8XGDlPDeLIaRigNb7S2R7dOUk42m/fP2FLtYlD0BfgSRI81w7bajEPxb7UMgQU4cYhbhcUZA0jtIY3sj34EokFikP5Llt35vCqiE0nqodlDGNOTsxfzwJiSQGBQr8H+WnSFxGZ6Z+TcnRsjh3zgiw4y3EnLFtEUvIPgStCegCQ2wtnExmeavCTHhM=;dJy4g196Yvda6YeEbt2rCA=="
 ---

@@ -52,6 +52,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "Machine Learning Increased Accuracy of Anti-Cancer Drug Response Predictions"
+    excerpt: "Scientists from the Pohang University of Science and Technology (POSTECH) in South Korea report that have successfully increased the accuracy of anti-cancer drug response predictions by developing a machine learning that learned the transcriptome information derived from actual patients instead of animal models."
+    publishedDateTime: 2020-11-02T20:00:00Z
+    webUrl: "https://genengnews.com/news/machine-learning-increased-accuracy-of-anti-cancer-drug-response-predictions/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 36
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2020/11/NOv2_2020_Getty_1192983611_MachineLearningBrain-scaled-e1604338592576.jpg"
+        width: 1400
+        height: 934
+        isCached: true
 
 secured: "wvPrD5w/R45vPOf6k+bkY1kNPXDi4dmz5S/ANhruemV9TOU/HVXVjno/VddZSZhgk+vRwUWLmjc4PfUHn6ziuRLGlkAgaN6s048QyS87PP3chIGIkeCL9BJwOhW3ghwnkLhpthOcLWG9GpPzHbz4l9ZlE2dMoSinhRCDAskPmV1YE0BtWxsPdDK5c0iBgYMSh17jAbjgvr86CgIRIRqn06CgebfvZn0qTVS5ptnbdkhJhG3CmQXOp7o+5SlepdABWwQy8DswdcbHElKoHHNeKozf4D+PwxLHFzWj5jtXtnF6as2Y1lwPsD1Th9xekNiKTvymm2lrEa9FNXzAsLvJCvyTj98FEie6FM3V01wcXyM=;iSEG5zzBZ2qAO0hLsYWKjg=="
 ---

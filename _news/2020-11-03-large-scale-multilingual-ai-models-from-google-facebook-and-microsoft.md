@@ -74,6 +74,17 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "QuEST Global launches Center of Excellence for Microsoft Azure to develop innovative solutions for customers"
+    excerpt: "QuEST Global, a global product engineering and lifecycle services company, today announced it has signed an agreement with Microsoft to launch a dedicated Center for Excellence (CoE) for Microsoft Azure."
+    publishedDateTime: 2020-11-03T12:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-1029758272"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-1029758272"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-1029758272"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
   - title: "Microsoft & Others Catalog Threats to Machine Learning Systems"
     excerpt: "Thirteen organizations worked together to create a dictionary of techniques used to attack ML models and warn that such malicious efforts will become more common."
     publishedDateTime: 2020-11-03T00:32:00Z
@@ -88,16 +99,7 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "QuEST Global launches Center of Excellence for Microsoft Azure to develop innovative solutions for customers"
-    excerpt: "EAST HARTFORD, Conn. and PUNE, India, Nov. 3, 2020 /PRNewswire/ -- QuEST Global, a global product engineering and lifecycle services company,"
-    publishedDateTime: 2020-11-03T12:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-1029758251"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
 
-secured: "0BmFojJU8KiWby5+QrZxLonY6+6cHLgIFa/umUjhj0ICrOPdIKBTR/lCafUUh1zg4lVACXeChhfvB5nE89zuS9vkCl4fzwg/SI16DU+qQgB/gFEiyBSUMpS/AuwHbOnggFGo1P5/dfiy0CoYEvnMlKqiuPu1BS0QVG4+udqi7VNw0fBA2AgAj2iiVXyOhHY/GqyHPA10IKsfVZbg8smz8xVpnU6MRqu73t0cmIpVIwj9zAk5ZsZyiqtiOirgHRajH482UqdZOeleYjol28J5bmyZ/GzCtA9xesefGdrw0I3xnEi7sA0JwwqfiHbyBiRUB8G/e6RmKcmWQdQn0YI5X+8lvpmRN9Vs9+CUpApCY7A=;mueIau/tjM/BZm8nUpk5tg=="
+secured: "14Li1OwgPKV+p0rmHmoKpL5tmyU2FT32AkeLTTyRRpvTVqcVNCbmQocT9QqHoNoAp0j4JV6D7n5zlUxdJ+/NGoAWtsB1SHnP221GM0kHElsGWR/yzc2AUy/469+t8yvvhp3ASqKrDoJI8AjiQ79WsBxbN2huzXFqq+qyoiIjMwHur3V+bfNELriqaPLue2DFWCUJDx5KNQHnoyN9zT+OHgT8pLeZgCCW5/VbJKVx3MYMKLY+Qx8NuaIJrEUGaoQNXjVTVuO2cpqBC1HWIvaAszyf1ZnkS2F9UW0oZaMJJHPuq0/YmojiMQ7w3AOG8rCAqvRdZmOngJMMW3EIg64EJ948hhUSXC4pDd9pGgZQpwVnLrFpFj9Pkut2NKRhtuNfkm3JyE3wJZkF1yEknYM7wNFFwHkvLDLbWRCHgxvDFgZvYq9l3Ka1sqxNfYe60PvNclUjL1bXa+fX/cixT6Vcsv7fiaJzgQX4mD1iiwBBxmRuDddMvU5tqKBnPPH8Dc1bzibB9guqtbHM//jLY6R7gQ==;OhNS8biIt/JxiB3f6AQtkg=="
 ---
 

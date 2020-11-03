@@ -53,20 +53,6 @@ related:
         width: 800
         height: 751
         isCached: true
-  - title: "Facial Recognition For International Passengers at LAX"
-    excerpt: "U.S. Customs and Border Protection officials Thursday announced the implementation of a facial-recognition process at Los Angeles International Airport that will screen passengers entering the country."
-    publishedDateTime: 2020-10-29T22:46:00Z
-    webUrl: "https://mynewsla.com/life/2020/10/29/facial-recognition-for-international-passengers-at-lax/"
-    type: article
-    provider:
-      name: MyNewsLA
-      domain: mynewsla.com
-    quality: 39
-    images:
-      - url: "https://mynewsla.com/wp-content/uploads/2016/04/MyNewsLA-AMP-Logo.png"
-        width: 583
-        height: 300
-        isCached: true
   - title: "Method for facial recognition bias reduction with adversarial network shows promise"
     excerpt: "A prominent trio of biometrics researchers have proposed a way to remove the difference, or bias, from facial recognition performance between different demographics. A paper jointly written by"
     publishedDateTime: 2020-11-02T22:46:00Z

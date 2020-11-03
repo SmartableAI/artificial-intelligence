@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Friday: How Artificial Intelligence Plays A Role In Flu Prevention"
-    excerpt: "This interview will be on “St. Louis on the Air” at noon hour on Friday. This story will be updated after the show. You can listen live. Every year health"
-    publishedDateTime: 2020-10-29T23:04:00Z
-    webUrl: "https://www.kbia.org/post/friday-how-artificial-intelligence-plays-role-flu-prevention"
-    type: article
-    provider:
-      name: KBIA
-      domain: kbia.org
-    quality: 19
-
 secured: "VE63M0Cj5+etmyBEYX+4DUsYD48qxUH+3o/PMLqYmEBm2PmDN2UJGgZ5peGQBrlmlmaaY7F4RKlmnlgZytevTr8tx8gispXzcUF5uuBoWXfWQ3wEQR8OVkZhfxiFf4iCyJQs9M9Eu0rxS2Wwj3TGkJK79OI94a5TbM3iPk2pGVfRlYV55dXX0VFftWOnq3fSnyixzDWqO96RoXGJWLre5gwuyxHEB//wp04E0GYZoaF3xlSE3EJlqhEY3Vf/5xbk7Tv7Eq/2qXpUHfbP9NNdmIjXGSqiivCrNdsZXTePmN2sXHpKl26W6YGGu+4SEyT1EWJFzjLj3xtySPVEgylXOjkBq2JhSyDdOESrOeAIHvNiPazdnuHtr7YogRiiSChaCjn0glyCSff4Jbpy8IKubswv5NFZGLOItkVlOp80OczV/b+8ZTDv2v7u6g7Kg/1HIHfXHLCSOxHdlzaiE3TkBi5R82lbaxlE4FzL0eBZtHwH5jd/yKyboXOVY78e/E/Sz9Kk10Uy58RrA7H16mAx0w==;vMDs4EOhMr7eQsbyF7OIgg=="
 ---
 

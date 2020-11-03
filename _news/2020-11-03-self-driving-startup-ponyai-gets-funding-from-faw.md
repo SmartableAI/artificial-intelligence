@@ -49,6 +49,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Concordia researchers dig deep into the software powering self-driving cars"
+    excerpt: "Peeking under the hood of a self-driving car will only tell you so much. To really understand what makes them run, you have to dive deep into the software that makes up the autonomous driving systems (ADS) controlling driverless vehicles."
+    publishedDateTime: 2020-11-03T16:11:00Z
+    webUrl: "https://www.concordia.ca/news/stories/2020/11/03/concordia-researchers-dig-deep-into-the-software-powering-self-driving-cars.html"
+    type: article
+    provider:
+      name: Concordia University
+      domain: concordia.ca
+    quality: 22
+    images:
+      - url: "https://www.concordia.ca/news/stories/2020/11/03/concordia-researchers-dig-deep-into-the-software-powering-self-driving-cars/_jcr_content/top-image.img.768.medium.jpg/1604417479462.jpg"
+        width: 768
+        height: 391
+        isCached: true
 
 secured: "wVQjLYoghXDDTTDGC/UeGCONV0fBLoqiLcYK+SxhLFJU3BRzONFagSPwlMdXVmzUAhr4Q/0vUvF5YuOEYd8nUV74EKy78jbWjOPdj5kbbXmjy3kaZFKINOyAYZSTmQe/3Q8YatC5+kAcwy8dL4XyHDSNiklUqu7nGmw+W3qbkOKGoL5FQ0YXyICC98ZYKD3dB+eVAQYlu7U5FVf1w3Zth+RIEpnydfRCwod8GyK5n2Ni9xqfo+swEIH5H5/W7c6eQ759Rt8R+huEESsOsldreqa4SjfRoJU3Cj2OzQMwZn2lQ0XQvRA3+TYxZiz/Faj+BgJJoqLHxJ1TZj5MLbyJszTWhsoaO6p6+jc/oG8XNmDVM0dIHYzOOg1QUGOwVOUK77vSwGl1aBfPc4E68ucv7x6cNpDFCcX4KjGVCDk0bJYBOvJwnVBVslqEP5eDH1ZcTmcgYk78b2XkKcXiRLYh0QDpnVsp2TkuZ3VJJh09DwdDAS8nZj+//wrpUCFv+jAubKdlwZLCSirTE3O+k8psbg==;kilS2hgkzf+iNxyr3FpcEA=="
 ---

@@ -1,31 +1,28 @@
 ---
 category: news
 title: "Neural pathway crucial to successful rapid object recognition in primates"
-excerpt: "Rapid recurrent processing in the ventrolateral prefrontal cortex (vlPFC) helps primates quickly identify objects, according to research from MIT's McGovern Institute and Center for Brains, Minds, and Machines."
-publishedDateTime: 2020-10-20T20:09:00Z
-originalUrl: "https://news.mit.edu/2020/neural-pathway-crucial-successful-rapid-object-recognition-primates-1020"
-webUrl: "https://news.mit.edu/2020/neural-pathway-crucial-successful-rapid-object-recognition-primates-1020"
+excerpt: "MIT researchers have identified a brain pathway critical in enabling primates to effortlessly identify objects in their field of vision. The findings enrich existing models of the neural circuitry involved in visual perception and help to further unravel the computational code for solving object recognition in the primate brain."
+publishedDateTime: 2020-10-21T13:43:00Z
+originalUrl: "https://medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.html"
+webUrl: "https://medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.html"
+ampWebUrl: "https://medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.amp"
 type: article
 
 provider:
-  name: news
-  domain: mit.edu
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
-  - Machine Learning
-  - AI
   - Computer Vision
+  - AI
 
 images:
-  - url: "https://news.mit.edu/sites/default/files/images/202010/Ko-DiCarlo-Neuron-edited_0.jpg"
-    width: 1000
-    height: 667
+  - url: "https://scx2.b-cdn.net/gfx/news/2020/neuralpathwa.jpg"
+    width: 900
+    height: 600
     isCached: true
 
-secured: "1IhG0PEhVH+JwRSNbezrQ6rk4EbohyoDJDDBwUC/0JKZoqwUR1MYMagcBqNsNmEBndIVuYb0Bia0Axpew43jS6Z8XbgbSdgmOVPpWWxWwrBsF9LfuJPQOQaO6yTbIPcIejGTPLyeTSR6BlBtYuoLB0ZJnuwyR7Tzu2R9qFeQhZBbr3faaMMIflPGW0JP/0bKryiqOVFzyTC+4+tX1/iG3XPmYCW2OyyeNpq12oXzq7oU0YOE+FoRrT8p1R+LyG/2+i062q7wm1eOy8kgCHnVEk8XPIHXBN69wMitfpv/dKJ0g4S1ZQYJC/GMBGNju3JRSrQFIEcNsKcYge/8KYwFrpr2Mi6vHY9kj89DH93RMfI=;rYK27qa8Bhuxa89/mYD9xw=="
+secured: "vKNQyTmMd6FCYZ3krLO1fdp3dGc1oJ4PO65R3r+Tn6xYTMYWl7CRG2+Czky1NHwpDPIk+blJdtirQJYeFA52W+zmqgLcKDHMNQvNEVP50qRzG1QDj7IOH28JF5xHB5oHxXvhDztI1CF4U52GLHVQqD2OarYNTGntjGyIAC1J+6UDW5t8Zm/9QMg328fvw3pEX87nstp3T06Xw/d0lmMMJBSW9pY1Y5k+/QAHpKBrbjla+xdfOAeoO/jJFNluaConAKXe5RYeAzkfvT+7XFAzVwgFu+Gtu13D5yNcU7wdndKBUgTcjbnHJ27g1D7veTCOT22mO3aVG/yJ/vT4+e53XU4DfokJxXeVMLtNN99V0eY=;JrYcFLqCd+BuQess5QEkKg=="
 ---
 

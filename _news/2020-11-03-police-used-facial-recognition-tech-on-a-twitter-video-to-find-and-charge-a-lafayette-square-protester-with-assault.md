@@ -79,7 +79,21 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Facial Recognition Used to ID Washington, D.C., Protester"
+    excerpt: "The case was the first time many public defenders they had seen the technology's use disclosed to a defendant after thousands of searches in bank robberies, human trafficking and gang cases."
+    publishedDateTime: 2020-11-03T15:06:00Z
+    webUrl: "https://thecrimereport.org/2020/11/03/facial-recognition-used-to-id-washington-d-c-protester/"
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 39
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2020/09/2021JJ-HFG_3.jpg"
+        width: 350
+        height: 240
+        isCached: true
 
-secured: "pxUym30b5rJZQgFySSSQ839A9jlWa4JMcBY5DZqaeDBeJS34CmtW/+v/vkK8+SLW/8mOps4Nx7yXcV5v/1Bc0X2kettVY2d86JfX2c1UMQu1sf6lBBtvdYxzh81tU7JI0TS+PFTwcC+8WNPGiCPCqzz/9DsZ7f6s09oAIkkTG2+19AXIoUt/ICg7rgdM6VCq/NwVxteZ181aShhdMPqJ0SuCMlH4felzUK9o0IND6wnc9TpjqwthaWJF4iqsDRqAUFrhytwyj1LcB4A1BpjPd42WyPVI9Z0gJOgXb7K7l/o/1pYysQRPrw5MHxudWIoZjnwoelpsjK8RSByzp3iI3GoHBMUMIswgADCRsxOdON4=;glT3OkCRyFAmoJkmhmF2hg=="
+secured: "i1AocN2Mzpxp7uwVk0/tRIbWC6g4BWtAB+mh4dFJkPQQ0smEpMqsQb3TADJmrMP60IGLRvIQM2fZZ9j/F/IgYzXIB0TNTLF1rwaxaWvmiIOci/GMyMHMdWVIs3FGiI1qGwfgRceXkyAJ9KVCBloTyqmvTLWCNCaC/j+WB1DV7z1DTAPieregMpc2MIrG9q6LEDM0BxpxvfbeLJefQ+7QrEro8vGY6SEMMPin629vfIy3kGuqABxMrL1hZof5PDHENEkAn+5DP4lynEEB/u0GGUjeqRd36mTEUkS5orsLnz9cqquT452YuBBE3/xG7pMyxI155hTDS7d8FF2QLESPpb54XYFjfH+eAAzaF97y9WiEuOLqNy2z9tjVv7D47HLOCpI4ke7cdBGJxHw3I6ozIUhByZI1BtCxRQFQDIyR/FCw4wlF+pN+woIennE7Ur2qgvInX8rbPJcmSjmKPGMHjSTjzAL+lLXyvVMvFtwaH6+M1YNBoclv+dXEeeVgHhyCf/PRcjK1/RBBdXRq+mg7QA==;/M7Kwepql0KJI8IiIxspjg=="
 ---
 

@@ -42,6 +42,22 @@ related:
         width: 1000
         height: 668
         isCached: true
+  - title: "Amazon Web Services launches Nvidia Ampere-powered instances"
+    excerpt: "New AWS instances are several times faster and more powerful than existing instances thanks to Nvidia processors."
+    publishedDateTime: 2020-11-03T15:41:00Z
+    webUrl: "https://www.networkworld.com/article/3588276/amazon-web-services-launches-nvidia-ampere-powered-instances.html"
+    ampWebUrl: "https://www.networkworld.com/article/3588276/amazon-web-services-launches-nvidia-ampere-powered-instances.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3588276/amazon-web-services-launches-nvidia-ampere-powered-instances.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/05/nvidia-ampere-a100-100842032-large.jpg"
+        width: 1200
+        height: 878
+        isCached: true
 
 secured: "EJhU/TxKPjeN/asBaY18CerxzscA5WXTIphYLngB5D55sFOHIHpKleJrXQk+oapK8bDE92Wt72lgPqmTlZt4oXOBTPdHkKppjQqHjpfGQcFY1FtbhyICpQlIdygScbEsvhEL7ZYxHPmbK9AnPqr7pKHKqCdWMTHNF0IIdcF/fVb+JL3MPD3uOYmg0HM39mptftW3tpvkn/S5k6JvT3+H5dP0lYsgBKpYF0dGS4atF4D00qh1SRW4cUXqZu6JYPM0hjsD3sWVy4NthPNXiEoujJoaxG/w3YA88eYN/rIDQwQfALf378WqBqO/2562upJA3rA6cXM+dMv8UDUJYxwCqP9SyCIb/qG93nFSVxIoVz3ux3bSnjLzmdxLZhF+QbIL6mREfAgyhxGnbwYzJxPBv6WPjyln2YHZiODgbsld3d6IWnH6VU/TF4h/uqtGQrYTOIDThv1ZGDMLR1EWnNtgY9LotnNAMQx0iB0xnCU9OEIaQJ/1qjsz5EXLQ/Pahavo9QSb3rHfvfO79nfCkmb15Q==;j3WGB90oIQWfqkljzniMhg=="
 ---

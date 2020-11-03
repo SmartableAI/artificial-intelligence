@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itproportal.com/amp/news/aws-launches-new-gpu-instances-
 cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/aws-launches-new-gpu-instances-for-machine-learning-and-hpc/"
 type: article
 quality: 93
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -43,7 +43,23 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Amazon Web Services launches Nvidia Ampere-powered instances"
+    excerpt: "New AWS instances are several times faster and more powerful than existing instances thanks to Nvidia processors."
+    publishedDateTime: 2020-11-03T15:41:00Z
+    webUrl: "https://www.networkworld.com/article/3588276/amazon-web-services-launches-nvidia-ampere-powered-instances.html"
+    ampWebUrl: "https://www.networkworld.com/article/3588276/amazon-web-services-launches-nvidia-ampere-powered-instances.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3588276/amazon-web-services-launches-nvidia-ampere-powered-instances.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/05/nvidia-ampere-a100-100842032-large.jpg"
+        width: 1200
+        height: 878
+        isCached: true
 
-secured: "nXDc+Dd0C2Q8OHHQ6qsMoKVMFPQrPi77uELH33Oc/D7cmFq4H/6Bls8kT3U5JYdpHaWMBr77xWdCZQ8ukLPHkF+sElec4GyIjEpMec6y6fc1NVg/1nhl/tq72zsey6l4Q8AfPXlw0FzcJVlWPBUpNoN/mboq4EUQR7QXdmCWH5NKT8dcyioldKtgXcNyh9xV09UJ1O5OXrx0fCGbzm0CO+y+ITGQph5l+LqIVGF9svVrGAXBuJQfMMLpI6SpYhmzAlpYamP7mthrmTE0pqKondM4s8CGHGzuvF58N3wNNbDtX796KQKZtt9GDCoeBiYJWGRT32qjoBxGurlRe2607WcQpJMyEmd9ej+iCKQ5zBE=;JrtbNQ7D3oiwzHTdTvrEQQ=="
+secured: "hBjYeFyITl1JkSruKHG2H4ryDx0SHHDv7uHhbCZclYRohwju9bNTT5S6RjmLuH9TI0JMBR+UTNmB6tK0n2ApokQYcyPZy1WRkc+ANc3B1SaTA4rP9k+eUnriiOMMPNbHtDm5KzSEUnUrI1R7nCo3/V84df+A0HWgN3jOGtaVU8tVTcgkrdC/xESLgtHj4bHPSnzjrHUcp0DJpL5k6GuuWS6AVJVXzNVSJqTwb0cCjGoXZ9pRPY8bcU7AgjpFE4r3mOliQuPb4btjgT07JSK7qV2JqLZesSnhfkC+zL8dRjPVfMGEDv9IQr+Ny60Th/3qgYGzflq+ECTrPauZ47UNp1ZxdFHN0MDIoqcRTXiRhq9HB9PBQ+Xog43Gen2DwrQCQRDsKfh7cmUPjSYbNxjU33WxKQDn39LeIdmUimzoKzlHMjXMsSc5ZE3UIikcbZRdKheFqIHTGkEoawLLzzwbEYhiC1MSKFnMA4ktZFg+On6Zvn0Tm8x5u3A7g6Ia1z8cykUtaqbxFHyuYYk+hEs/PQ==;dSJeJzf70w8pgVVu46tlEg=="
 ---
 
