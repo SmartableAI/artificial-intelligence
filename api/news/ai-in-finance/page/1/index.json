@@ -55,59 +55,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-30-deep-learning-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2020-2023.md",
-      "title": "Deep Learning Market Analysis Reports Revenue Growth Globally During The Forecast Period 2020-2023",
-      "excerpt": "Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End User (Security, Manufacturing, BFSI, Healthcare,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2020-2023-2020-10-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2020-2023-2020-10-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-30T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2020-10-29-workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-world-of-finance.md",
       "title": "Workday Delivers Data Management and Machine Learning Innovations for the Changing World of Finance",
       "excerpt": "Workday Inc., a leader in enterprise cloud applications for finance and human resources, today announced availability of Workday Accounting Center and machine learning- driven predictive forecasts for Workday Adaptive Planning,",
@@ -423,10 +370,10 @@
     {
       "path": "_news/2020-10-21-google-fintech-group-unifiedpost-team-up-on-ai-data-capture.md",
       "title": "Google, FinTech group Unifiedpost team up on AI data capture",
-      "excerpt": "Google’s AI solution may be utilized to handle document processing linked to over 400,000 European businesses.",
+      "excerpt": "a FinTech organization with a presence in 15 countries. The company handles procurement documents for over 400,000 small and medium-sized businesses and more than 250 enterprise players, a time-consuming and complicated task -- but it is thought that AI ...",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/",
+      "webUrl": "https://www.zdnet.com/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/",
+      "originalUrl": "https://www.zdnet.com/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -443,9 +390,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/",
-      "publishedDateTime": "2020-10-20T22:00:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/",
+      "publishedDateTime": "2020-10-21T09:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -1336,6 +1283,49 @@
       "ampWebUrl": "https://www.openpr.com/amp/2149960/artificial-intelligence-ai-in-fintech-market-to-see-promising",
       "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2149960/artificial-intelligence-ai-in-fintech-market-to-see-promising",
       "publishedDateTime": "2020-10-05T23:50:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-ai-in-fintech-market.md",
+      "title": "AI in Fintech Market",
+      "excerpt": "According to the latest report by Data Bridge Market research, titled “AI in Fintech Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2027,” the AI in Fintech Market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2148996/ai-in-fintech-market-to-witness-rapid-economic-growth-ibm-intel",
+      "originalUrl": "https://www.openpr.com/news/2148996/ai-in-fintech-market-to-witness-rapid-economic-growth-ibm-intel",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/a/Ta05705514_g.jpg",
+          "width": 800,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2148996/ai-in-fintech-market-to-witness-rapid-economic-growth-ibm-intel",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2148996/ai-in-fintech-market-to-witness-rapid-economic-growth-ibm-intel",
+      "publishedDateTime": "2020-10-04T21:13:38-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "openpr.com",

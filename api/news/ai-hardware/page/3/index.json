@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-10-05-linley-fall-processor-conference-showcases-advanced-innovations-in-ai-chips-and-ip.md",
-      "title": "Linley Fall Processor Conference Showcases Advanced Innovations in AI Chips and IP",
-      "excerpt": "Processor Conference will be live-streamed on Oct 20-22 and 27-29. Featuring 33 technical talks on the latest AI chips and IP.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201005005171/en/Linley-Fall-Processor-Conference-Showcases-Advanced-Innovations-in-AI-Chips-and-IP",
-      "originalUrl": "https://www.businesswire.com/news/home/20201005005171/en/Linley-Fall-Processor-Conference-Showcases-Advanced-Innovations-in-AI-Chips-and-IP",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201005005171/en/708301/23/Linley_logo_lrg.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-05T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-05-nvidia-announces-cloud-ai-video-streaming-platform-to-better-connect-millions-working-and.md",
       "title": "NVIDIA Announces Cloud-AI Video-Streaming Platform to Better Connect Millions Working and ...",
       "excerpt": "NVIDIA today announced the NVIDIA Maxine platform, which provides developers with a cloud-based suite of GPU-accelerated AI video conferencing software to enhance streaming video — the internet’s No.",

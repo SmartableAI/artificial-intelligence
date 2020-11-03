@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meet Accern, A 2020 Benzinga Global Fintech Awards Finalist"
+    excerpt: "Benzinga will be holding its annual Benzinga Global Fintech Awards, a day of dealmaking, networking, and recognition in the financial technology space, on Nov. 10,"
+    publishedDateTime: 2020-11-03T17:10:00Z
+    webUrl: "https://www.benzinga.com/fintech/20/11/18157493/meet-accern-a-2020-benzinga-global-fintech-awards-finalist"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18157493"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18157493"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/copy_of_courtesy_photo_4_0.png"
+        width: 800
+        height: 360
+        isCached: true
   - title: "The ‘Fintechization’ of Everything: The 7 Hottest Fintech Trends in 2021"
     excerpt: "We all know that 2020 has been a total paradigm shift year for the fintech world (not to mention the rest of the world.) Our financial infrastructure of the globe has been pushed to its limits–as a result,"
     publishedDateTime: 2020-10-30T05:30:00Z
@@ -55,15 +71,6 @@ related:
         width: 1024
         height: 575
         isCached: true
-  - title: "Crowdsourcing startup wins FinTech Frontier pitch competition"
-    excerpt: "A Pittsburgh-based startup won FinTech Frontier’s inaugural pitch competition, and here's what the company had to say about Cincinnati."
-    publishedDateTime: 2020-11-02T17:37:00Z
-    webUrl: "https://www.bizjournals.com/cincinnati/inno/stories/news/2020/11/02/fintech-frontier-names-pitch-competition-winner.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
 
 secured: "zYmQs7lPJRNp93oMFf15WunfeQzeh2GinSvf1z1jQ8xmtE1eUaurhME453m/Y5pk1tRr+or26G3oj6EWa0pakF50smDCFagMo4bQtkRPFE9bzLaJIf7EU7zQkhRGCcJQ0h9/Bma+FW3GQ2vvTa1yt0Upq/w/6hJA30vpl4KYyuZqz0ggCRnEs8RP3R+4Vxk1jw6IcgsurBbW02QUfZkP6295Mg7s4ypLLJrpufyyRFmwbizT6rIVUnWQAh4lJ4/d2jKPEgJGOCs833WcQq8NaAlqiWdloVwrHMXj4/QF7WU0FRlIGYgMKICsjEAxm3lZWZOUEysA0wWg0QwXF3yr4vf7h7a4qFLuL/zbRNyZIZs=;+6XZP3ySKnpt1EYObTtXmA=="
 ---

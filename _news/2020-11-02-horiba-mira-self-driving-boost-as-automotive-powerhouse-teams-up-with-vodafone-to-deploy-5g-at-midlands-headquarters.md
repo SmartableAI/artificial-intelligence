@@ -19,6 +19,17 @@ topics:
   - AI
 
 related:
+  - title: "Horiba Mira accelerates autonomous vehicles with Vodafone 4G and 5G"
+    excerpt: "Expert in engineering driverless technologies Horiba Mira partners with mobile network operator Vodafone to bring 5G to its Nuneaton headquarters with a private mobile network designed to allow vehicles to communicate with each other and surrounding infrastructure,"
+    publishedDateTime: 2020-11-03T17:44:00Z
+    webUrl: "https://www.computerweekly.com/news/252491539/Horiba-Mira-accelerates-autonomous-vehicles-with-Vodafone-4G-5G"
+    ampWebUrl: "https://www.computerweekly.com/news/252491539/Horiba-Mira-accelerates-autonomous-vehicles-with-Vodafone-4G-5G?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252491539/Horiba-Mira-accelerates-autonomous-vehicles-with-Vodafone-4G-5G?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 24
   - title: "Self-Driving Boost as Automotive Powerhouse teams up with Vodafone to deploy 5G at Midlands headquarters"
     excerpt: "In a welcome boost for Britain’s self-driving revolution, automotive powerhouse HORIBA MIRA is teaming up with Vodafone to bring 5G to its Midlands headquarters. Home to one of the world’s most advanced set of facilities for engineering self-driving vehicles,"
     publishedDateTime: 2020-11-02T17:42:00Z

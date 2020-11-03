@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financemagnates.com/cryptocurrency/news/the-fintechizati
 cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/cryptocurrency/news/the-fintechization-of-everything-the-7-hottest-fintech-trends-in-2021/amp/"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meet Accern, A 2020 Benzinga Global Fintech Awards Finalist"
+    excerpt: "Benzinga will be holding its annual Benzinga Global Fintech Awards, a day of dealmaking, networking, and recognition in the financial technology space, on Nov. 10,"
+    publishedDateTime: 2020-11-03T17:10:00Z
+    webUrl: "https://www.benzinga.com/fintech/20/11/18157493/meet-accern-a-2020-benzinga-global-fintech-awards-finalist"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18157493"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18157493"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/copy_of_courtesy_photo_4_0.png"
+        width: 800
+        height: 360
+        isCached: true
   - title: "F|T: The FinTech Times – Toeing the line"
     excerpt: "a weekly newsletter covering the biggest FinTech news from around the globe. If you want to read F|T before anyone else, make sure to subscribe using the form at the bottom of this page. Wealthsimple has tapped Paul Teshima, the co-founder of Nudge.ai, to ..."
     publishedDateTime: 2020-11-02T10:59:00Z
@@ -55,15 +71,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Crowdsourcing startup wins FinTech Frontier pitch competition"
-    excerpt: "A Pittsburgh-based startup won FinTech Frontier’s inaugural pitch competition, and here's what the company had to say about Cincinnati."
-    publishedDateTime: 2020-11-02T17:37:00Z
-    webUrl: "https://www.bizjournals.com/cincinnati/inno/stories/news/2020/11/02/fintech-frontier-names-pitch-competition-winner.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
 
 secured: "fZsiCyG6o+kViH3g79LyQ1GbNsEcHSg4vjJh/C8tV5w7byO9DcMgmlKQ0M+MgKlqu4DroMrKwT2y1/zCVg65E3woHGD9hI1aMZR7DbVtZ2GRE2lcbyYpL3SnCmiv9L6i5LpRh2paLYn0URaPnCSv8TVksvzxnjE9XN1+Fm87AATiS+5AC5wiy4lJPixkfNXL2V0xZFN6PdM9GhdHAHhDqUEEFqba9ZdgGObZJ6OFd77xyZvDBefTVEGT6kf74J2+VrTT+Ub2rlriZ2G+5JA7T1jH6pCXHhSi4huwqUvZv08wSGMlVH9QH306yI5kuvXxs3Rw8vAXlX1QoEfnAFSz564oRNkVIHY2mR5D0Bj6fRp2vV8ESP2XZ1dNSmaESxLug/aMQ3eajFk/pytaCQhXq7oC3A6uVUwwv+3rSgvi7MNSbvy29/+PKr0WNVGrBZl8Ftxw0sLDPHm0Tb9yPagOtCKWZGgVM5cMrgPKJIhjUzjbSgExhTThBShFagXZVu6DmimSrpOCUR4SVb1/hxNAiA==;NLSmLVf+/RF5ZHi0hfxD6g=="
 ---

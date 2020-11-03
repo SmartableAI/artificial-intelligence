@@ -259,6 +259,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 26
+  - title: "How an Automated Data Labeling Platform Accelerates AI industry’s Development During COVID-19"
+    excerpt: "NEW YORK, NY / ACCESSWIRE / November 3, 2020 / The impact of AI on COVID-19 has been widely reported across the globe, yet the impact of COVID-19 on AI has not received much attention. As a direct result of Covid-19,"
+    publishedDateTime: 2020-11-03T16:00:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/business-corporate-news-new-products-and-services-products-and-services-4fc070dc544fa4382afad15169683259"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "AI For COVID 19: MIT Model Effectively Detect Corona By Hearing Cough"
     excerpt: "Asymptomatic patients remain a major concern for the COVID-19 spread. But, this AI model by MIT researchers may help in early detection by hearing coughs."
     publishedDateTime: 2020-11-03T10:00:00Z

@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "NVIDIA Jetson Nano 2GB Brings Machine Learning Power To A Raspberry Pi Price Point"
+    excerpt: "At just $59 at retailers like Amazon, Jetson Nano brings NVIDIA’s custom hybrid Arm core CPU and Maxwell GPU technologies down to a Raspberry Pi 4 price point that will be that much more accessible to academia,"
+    publishedDateTime: 2020-11-03T18:47:00Z
+    webUrl: "https://www.forbes.com/sites/davealtavilla/2020/11/03/nvidia-jetson-nano-2gb-brings-machine-learning-power-to-a-raspberry-pi-price-point/"
+    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2020/11/03/nvidia-jetson-nano-2gb-brings-machine-learning-power-to-a-raspberry-pi-price-point/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2020/11/03/nvidia-jetson-nano-2gb-brings-machine-learning-power-to-a-raspberry-pi-price-point/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 83
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa19f6ab1b1b304006898b3%2F0x0.jpg"
+        width: 1000
+        height: 668
+        isCached: true
   - title: "NVIDIA Intros Jetson Nano 2GB Developer Kit for AI and Robotics Ed"
     excerpt: "NVIDIA has introduced its new Jetson Nano 2GB Developer Kit, a new system designed for “learning, building and teaching AI and robotics.” The Linux-based system is built around a 128-core NVIDIA Maxwell GPU and a 1.43 GHz quad-core ARM A57 CPU."
     publishedDateTime: 2020-10-30T18:37:00Z

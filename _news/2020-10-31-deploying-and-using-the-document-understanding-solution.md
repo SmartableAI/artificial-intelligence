@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/deploying-and-using-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/deploying-and-using-the-document-understanding-solution/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 800
     height: 393
     isCached: true
+
+related:
+  - title: "In-Memory Computing May Solve the AI Memory Balancing Act of Volume, Speed, and Processing"
+    excerpt: "Designing memory architectures for AI/ML devices may feel like an impassable compromise with storage volume, speed, and processing. A new in-memory computing accelerator may be a useful solution."
+    publishedDateTime: 2020-11-03T18:42:00Z
+    webUrl: "https://www.allaboutcircuits.com/news/in-memory-computing-solve-ai-memory-balancing-act-volume-speed-processing/"
+    type: article
+    provider:
+      name: All About Circuits
+      domain: allaboutcircuits.com
+    quality: 29
+    images:
+      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/The_new%C2%A0tsunAImi_accelerator.jpg"
+        width: 700
+        height: 350
+        isCached: true
 
 secured: "RBFB+J+pzzL04VVsUEbi+DLBo7b2UaVmZEgYHS2VcaS0zvhzQKAV8BECIpqD4HjVkcJm+5H7czI8gz5eNPfKJWkgrDfwhgDz+fJhxTHfWjA3jqUJXtNIO3ruonl31088/bTSfZKxmpAWnzrQMip/dPB9Od7mbtO699LNKQxZUIIZplG0PAoFszopR4BZeFI4C/vB3P+H6z8BHrbnUdUZjKu1S7uGS+jAfMdL1HZlXXgh2HMUrGhAPv/KxWbfj1UHyKuwoN3UEFNEgKa+tLBLRSkdhiSPATZqGT9Em1sAb7Idh9KxRaAsCa09iBeH8e+xO5k1kdqHGsoemnNmuINZJ8ZoQvPp6snubswQ0lM71X8=;WZUEOTHBG7q0GCbNGl/NAQ=="
 ---

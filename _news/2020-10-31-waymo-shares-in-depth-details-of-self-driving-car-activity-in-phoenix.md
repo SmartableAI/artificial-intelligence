@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/waymo-indepth-details-selfdriving-activ
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html"
 type: article
 quality: 104
-heat: 144
+heat: 164
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Google's Waymo is pulling its self-driving cars out of San Francisco in case violence erupts around the election"
+    excerpt: "The company will also stop testing on San Francisco's streets for the next two days as the 2020 presidential election unfolds."
+    publishedDateTime: 2020-11-03T17:09:00Z
+    webUrl: "https://www.businessinsider.com/google-waymo-securing-autonomous-cars-san-francisco-election-chaos-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/google-waymo-securing-autonomous-cars-san-francisco-election-chaos-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-waymo-securing-autonomous-cars-san-francisco-election-chaos-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
+    images:
+      - url: "https://i.insider.com/5fa17cdb69331a0011bc6f36?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "A self-driving race car drove straight into a wall off the starting line in the world's first autonomous racing series"
     excerpt: "The mishap occurred during Roborace's \"Season Beta,\" and it shows just how difficult autonomous-driving technology is to produce."
     publishedDateTime: 2020-11-01T03:56:00Z
@@ -88,6 +104,22 @@ related:
       name: Engineering360 News
       domain: globalspec.com
     quality: 34
+  - title: "Google's sister firm Waymo is pulling its self-driving cars out of San Francisco in case violence erupts around the election"
+    excerpt: "Waymo is pulling its self-driving cars from the streets of San Francisco in case election unrest ensues this week. \"Out of an abundance of caution and with the safety of our team in mind, we are temporarily suspending driving operations in San Francisco on 11/3 and 11/4,"
+    publishedDateTime: 2020-11-03T18:23:00Z
+    webUrl: "https://www.businessinsider.in/tech/news/googles-sister-firm-waymo-is-pulling-its-self-driving-cars-out-of-san-francisco-in-case-violence-erupts-around-the-election/articleshow/79027264.cms"
+    ampWebUrl: "https://www.businessinsider.in/tech/news/googles-sister-firm-waymo-is-pulling-its-self-driving-cars-out-of-san-francisco-in-case-violence-erupts-around-the-election/amp_articleshow/79027264.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/googles-sister-firm-waymo-is-pulling-its-self-driving-cars-out-of-san-francisco-in-case-violence-erupts-around-the-election/amp_articleshow/79027264.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 32
+    images:
+      - url: "https://www.businessinsider.in/thumb/79027021.cms?height=275&width=412"
+        width: 412
+        height: 275
+        isCached: true
 
 secured: "2vkeuPnpoLg5o+CzOFayNAdAmFjCk6LXKyqEmggyUgA7B/SCbdBesLoYf8Tc9qKOIpk2lYmMuUVgqzMZe9T/9L4xsmdTWx2sIUBmr6WSrugA4YX49pgAq1CfHPmHvwVlSkD69XS6sY/DvZ/wdl/wsM2hVU/CO8WtivhRKHGiRE8HyDSjWaOzonlTUXKF8APEPW6XrX5yTC9FlqbP9VvcVBdo/dtbgLdfAd8sDeZLsaFaCB4PsgeEdgq1RTHh+eOkEUeg1iak6v1xfflnzLqin1LPikKB0SuiSrE2NshJBfRzsv/OZWDD/Ekje46q82OY5TjiIskIc/w/Ihf2YAtGV4ukxjsIfNB0SjXBUdLP5NUmKFU1O+SRU3ySOkKfIsGgghi/c7cel2+sUKqylTCo4kjdU11+VjgzS1xlzwbbELZH/v1XvCaDPMkH1QYZWELDCAWV/X24oGgYIvgNBqILMfgIFqJNPYyUvSXZjopa5bMjHcGvh2WgXf5hNfpGkftnVlLe5VCXvVmFXJBlGBdOtg==;/OcqwdODUmgMUeYaLQoe2A=="
 ---

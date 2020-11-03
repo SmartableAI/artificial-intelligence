@@ -1,12 +1,10 @@
 ---
 category: news
 title: "How Retailers Use Artificial Intelligence to Know What You Want to Buy Before You Do"
-excerpt: "Companies have more information than ever before thanks to Covid-19—and more computing power than ever before to parse it for patterns that keep customers loyal."
-publishedDateTime: 2020-10-20T11:00:00Z
-originalUrl: "https://www.barrons.com/articles/how-retailers-use-artificial-intelligence-to-know-what-you-want-to-buy-before-you-do-51603195200?refsec=markets"
-webUrl: "https://www.barrons.com/articles/how-retailers-use-artificial-intelligence-to-know-what-you-want-to-buy-before-you-do-51603195200?refsec=markets"
-ampWebUrl: "https://www.barrons.com/amp/articles/how-retailers-use-artificial-intelligence-to-know-what-you-want-to-buy-before-you-do-51603195200"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/how-retailers-use-artificial-intelligence-to-know-what-you-want-to-buy-before-you-do-51603195200"
+excerpt: "The Terminator, a symbol of artificial intelligence run amok ... I expect they will seek psychological solace in retail therapy.” Shopping may provide comfort, but our psychology remains ..."
+publishedDateTime: 2020-10-20T13:00:00Z
+originalUrl: "https://www.barrons.com/articles/how-retailers-use-artificial-intelligence-to-know-what-you-want-to-buy-before-you-do-51603195200"
+webUrl: "https://www.barrons.com/articles/how-retailers-use-artificial-intelligence-to-know-what-you-want-to-buy-before-you-do-51603195200"
 type: article
 
 provider:
@@ -23,6 +21,6 @@ images:
     height: 640
     isCached: true
 
-secured: "zu9JbJyReLUjfVqEXC1gX8kvGNZ/gE3XGd0bROUXbRSZLT8lhyI8wyJ55j68liTW0bfaMmS4FTWxHM5yzhEg1avZs//Srbty/QQgXttJarNwWNusR5fh+cdQL8uH8U5hddkAikmDlEKVf+C2oMYSvPqlHJtJkl4TPQXvTGb5kRbQ5ItDXAL19tE6BnhtQweb6CLrZKzw5RfGLAq8zsBcfdLYF0JT9OoQv76yfjv5RHU8tL1Pvhml81EUNY2ayGcj2gFd7bGb/AXds14UEcgejtLaBEbtR9QAng1Vnh9815vckBeacy27lR97C9dx+ftEk9TFhy3GKsCadgPGt1gXhzSfW3eL/VU0Re1ZHeXjQvI=;Sf4+2ZF5yBeVD7s19X1LAw=="
+secured: "8Bx8acXEe3k30Cbb2EdP9rC4J2Mq7dE9/RdOZxcw5/M0SyDxn+h1hqG3IgnH/gFyCmYeLwm8Arqe5ZrIRwaXQI3SzPRj9opr5qqmobQ3MVbjWjHEYmc2M1IQ0uc4KiVHM+IQXQmqvicKBjkgMLaJ6YSzbcH9QNZYHX6qkHu7OShdxFkmVT4ii/uFpEBNDQKnIAeXn38LqQ+zFvzi8t1o6U9bElrFJQcHQJG402l9LgwbLS4+8JKWghqrDrPWRJOsCaNKDY1PEHIKW+XVEVlz+f51PyStmszRcgqRsoK/fxaZz+OnBxfgHnsQRkjD87+2Aqlaja+7XZmGFlHLdCCDHgjwAL0IqyU/iMwfpAj77Qk=;g/qqnRiyYFPHeou+W9dPEA=="
 ---
 

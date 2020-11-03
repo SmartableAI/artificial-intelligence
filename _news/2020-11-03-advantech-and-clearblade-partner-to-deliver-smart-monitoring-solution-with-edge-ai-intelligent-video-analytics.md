@@ -57,6 +57,20 @@ related:
         width: 850
         height: 400
         isCached: true
+  - title: "Global Predictive Analytics Market (2020 to 2025) - Advent of Machine Learning and Artificial Intelligence is Driving Growth"
+    excerpt: "The \"Predictive Analytics Market by Solution (Financial Analytics, Risk Analytics, Marketing Analytics, Web & Social Media Analytics,"
+    publishedDateTime: 2020-11-03T17:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-predictive-analytics-market-2020-to-2025---advent-of-machine-learning-and-artificial-intelligence-is-driving-growth-301165726.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 27
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
   - title: "Flood Prediction Project Powered by SAS IoT Analytics and Microsoft Azure Earns National Innovation Award"
     excerpt: "by combining Microsoft Azure IoT platform with SAS’ edge-to-cloud IoT analytics and AI capabilities. Transforming flood response for an entire region During excessive rainfall events, Town of Cary personnel often found themselves running around to ..."
     publishedDateTime: 2020-10-30T06:52:00Z

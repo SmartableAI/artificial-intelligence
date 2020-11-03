@@ -57,17 +57,6 @@ related:
         width: 800
         height: 751
         isCached: true
-  - title: "Facial Recognition System Unveiled At LAX's Tom Bradley International Terminal"
-    excerpt: "A facial-recognition system to simplify the arrival of international travelers was unveiled Thursday at LAX. Mission Viejo Yogurt Shop Receives Overwhelming Support After Couple Threatens To Sue Over Face Mask RequirementA couple walked into a Mission Viejo yogurt shop this weekend and threatened to sue after being told they needed to wear a face covering in accordance with local health orders."
-    publishedDateTime: 2020-10-30T06:20:00Z
-    webUrl: "https://lasvegas.cbslocal.com/video/4832453-facial-recognition-system-unveiled-at-laxs-tom-bradley-international-terminal/"
-    ampWebUrl: "https://lasvegas.cbslocal.com/video/4832453-facial-recognition-system-unveiled-at-laxs-tom-bradley-international-terminal/amp/"
-    cdnAmpWebUrl: "https://lasvegas-cbslocal-com.cdn.ampproject.org/c/s/lasvegas.cbslocal.com/video/4832453-facial-recognition-system-unveiled-at-laxs-tom-bradley-international-terminal/amp/"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 35
   - title: "Addressing Legitimate Concerns About Government Use of Facial Recognition Technologies"
     excerpt: "Facial recognition systems have generated a significant amount of controversy over their potential to create an unblinking, discriminatory surveillance system across the United States. A closer examination reveals that the best-crafted facial recognition ..."
     publishedDateTime: 2020-10-30T21:28:00Z

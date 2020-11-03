@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meet Accern, A 2020 Benzinga Global Fintech Awards Finalist"
+    excerpt: "Benzinga will be holding its annual Benzinga Global Fintech Awards, a day of dealmaking, networking, and recognition in the financial technology space, on Nov. 10,"
+    publishedDateTime: 2020-11-03T17:10:00Z
+    webUrl: "https://www.benzinga.com/fintech/20/11/18157493/meet-accern-a-2020-benzinga-global-fintech-awards-finalist"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18157493"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18157493"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/copy_of_courtesy_photo_4_0.png"
+        width: 800
+        height: 360
+        isCached: true
   - title: "The ‘Fintechization’ of Everything: The 7 Hottest Fintech Trends in 2021"
     excerpt: "We all know that 2020 has been a total paradigm shift year for the fintech world (not to mention the rest of the world.) Our financial infrastructure of the globe has been pushed to its limits–as a result,"
     publishedDateTime: 2020-10-30T05:30:00Z
@@ -55,15 +71,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Crowdsourcing startup wins FinTech Frontier pitch competition"
-    excerpt: "A Pittsburgh-based startup won FinTech Frontier’s inaugural pitch competition, and here's what the company had to say about Cincinnati."
-    publishedDateTime: 2020-11-02T17:37:00Z
-    webUrl: "https://www.bizjournals.com/cincinnati/inno/stories/news/2020/11/02/fintech-frontier-names-pitch-competition-winner.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
 
 secured: "JturCmUIGRBV5CnFvSR9uW9Nmy/XqPax2I/X4JoaibS0wL6ew/fiBLOpNrldEUmAMj3QR9yvxxLAZ1zTLWckW6VrCJk0h5dJGGzqVdr+xdq0hWib/tfu2Ap0o0ijT5rEJQAjJAfWyqjDLfak+5RU75l80K4nRitZ8LK77LM2Uww2UeEG3dlUMThpkIkqVWUh+tQo2Fh08fe+zC/sTRQps5Mj2j5zj8CyVD6IGGJSowW5aJlIASXrcAlCniVrPTG39j4Zn1uTf1Dy+BkCvqyCpGdHSDtgfe/rhXQ+ABT3Xq3Xf567lAwq/cUi7drUl2Sk6coky18m5BimUchK4sP6RyYuMC9BMLjDQYSFua7dDa9Xkprmv6e+aGgtHpEFZfqv8DN44aPTNff2qMERK8eKGvO3TCyEq8xanG8c/OXOBP0RKbIvWmyirfmHTE7C4r2ORBTpF94tumTEfILuPpnqoLBPoo98f1VGHvTQi7+WaFDGrs28p9pIfara286+xG6PjBqv7M4sXq06ffQLB0gwwg==;/G5rKgu+Y8gOIRebepoqnQ=="
 ---

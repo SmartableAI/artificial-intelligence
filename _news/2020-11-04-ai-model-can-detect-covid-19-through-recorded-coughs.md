@@ -258,6 +258,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 26
+  - title: "How an Automated Data Labeling Platform Accelerates AI industry’s Development During COVID-19"
+    excerpt: "NEW YORK, NY / ACCESSWIRE / November 3, 2020 / The impact of AI on COVID-19 has been widely reported across the globe, yet the impact of COVID-19 on AI has not received much attention. As a direct result of Covid-19,"
+    publishedDateTime: 2020-11-03T16:00:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/business-corporate-news-new-products-and-services-products-and-services-4fc070dc544fa4382afad15169683259"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "AI For COVID 19: MIT Model Effectively Detect Corona By Hearing Cough"
     excerpt: "Asymptomatic patients remain a major concern for the COVID-19 spread. But, this AI model by MIT researchers may help in early detection by hearing coughs."
     publishedDateTime: 2020-11-03T10:00:00Z
@@ -277,6 +291,6 @@ related:
       domain: ft.com
     quality: 17
 
-secured: "cmsjW75aWVezwxcXlGQYouH5N12LkaK73NtmBAsH0HQpCMRED3JRkDMcP9okRaLJXwj+46weIm4jz52158CchzFCdlwkB1eomIZzGQvF3JVpnUmQOaZCp8J1acK8xnKuy8S/G5e+NECur9wQPRTkRL2EcYh8A4aFlPNz1h+YEl8PpUCnzmxUdj4XVKGZQ98QSER1SAxQffI2pGxpfu63w08zz72GbjqBtgEOs9yLJ8xIuusTGV6Nb03OOI7U7F5Q8VIUneUie5K50U4PMAZhlpOTVuGvM+lzzBdjqYXTLRtSnj7Y3aPTluW+IIRp6R9j807pEJJ1od+GZdLl3I+mH3ACpvWkn46Zkv7obidoSUA=;Cba8KRsDm3nr4WKNzUMfxg=="
+secured: "Sw7C5VpA7hCVJ8pbi2234HLzdcezRmNmZjRVaCb/K1f3QCmxA0j0vkjCPxlYbPM9SdhtWNH+OJJb8+9+8hv8uBsPwJ/tPxm/nTBlWv5m/cHKmRNlWnXDIusfLrL2antNo9F/1sir+yzEc3kOBPoQMI0X+dTu7RoeBE41BlGCxON3kK+gbK4W957+UARSzHrvOjBZtK3t6r5+EZ0fTzpczZiqalVPQXBdwFp5oOe7yMGfnHzq88JSOZOtUNdkJMYWRgaaqI1WBvmxu2G3TuWGi9RXBK/kQoddPEjK3o/mLV19xnZaAGGtIX33oMcp9M8jLjqybOF9o2CNvfEaP9qNbA1CO78M64Pv9TY3061zeeFKB9XJl3M9vPPiLQZZbo35JG5vM39BDD/7od573ojWW3iom/n0EPQg85io9j0B7gWpiQhn6pwKVWOPy6F+CLc7+CZDTherHhtuimMvmuCBlN4mwRj9TebjmY/zmsRBO34C74TozflrLJAUBVlSvj20+j2jlyGNQdA+QiCtTt75HA==;BjppnMnZv63/PsQRCxz9gw=="
 ---
 

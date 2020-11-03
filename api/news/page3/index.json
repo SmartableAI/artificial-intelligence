@@ -2,6 +2,265 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-01-insights-into-ai-adoption-in-the-federal-government.md",
+      "title": "Insights Into AI Adoption In The Federal Government",
+      "excerpt": "Over the course of the past few years, governments around the world have taken strong positions on advancing their strategies around AI adoption. Certainly heading into the new year it seems that the pace of adoption won’t be slowing any time soon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/10/31/insights-into-ai-adoption-in-the-federal-government/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2020/10/31/insights-into-ai-adoption-in-the-federal-government/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9dc70191dd4d1b88ff7961%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D500%26cropY1%3D39%26cropY2%3D320",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/10/31/insights-into-ai-adoption-in-the-federal-government/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/10/31/insights-into-ai-adoption-in-the-federal-government/amp/",
+      "publishedDateTime": "2020-10-31T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-01-how-to-make-sure-your-ai-for-good-project-actually-does-good.md",
+      "title": "How to make sure your ‘AI for good’ project actually does good",
+      "excerpt": "from the very start of your research. When you are promoting a project, be clear about its scope and limitations; don’t just focus on the potential benefits it can deliver. As with any AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/31/how-to-make-sure-your-ai-for-good-project-actually-does-good/",
+      "originalUrl": "https://venturebeat.com/2020/10/31/how-to-make-sure-your-ai-for-good-project-actually-does-good/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/AI.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/31/how-to-make-sure-your-ai-for-good-project-actually-does-good/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/31/how-to-make-sure-your-ai-for-good-project-actually-does-good/amp/",
+      "publishedDateTime": "2020-10-31T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-10-31-waymo-shares-in-depth-details-of-self-driving-car-activity-in-phoenix.md",
+      "title": "Waymo shares in-depth details of self-driving car activity in Phoenix",
+      "excerpt": "Waymo’s vehicles have driven a total of 6.1 million miles in Phoenix, Arizona, where it first started testing its self-driving technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html",
+      "originalUrl": "https://www.engadget.com/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Feda031a0-1b7e-11eb-aeff-c6d8e3737344&client=amp-blogside-v2&signature=64755fdb1c313a1eb2bd21d17cef2c2065e20715",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html",
+      "publishedDateTime": "2020-10-31T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-31-how-is-artificial-intelligence-used-in-real-estate.md",
+      "title": "How Is Artificial Intelligence Used in Real Estate?",
+      "excerpt": "Let us help you navigate this asset class by signing up for our comprehensive real estate investing guide. Artificial intelligence is a complex topic. While some love it and others hate it, there's no denying that it's currently transforming the real ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/millionacres/real-estate-market/real-estate-innovation/how-is-artificial-intelligence-used-in-real-estate/",
+      "originalUrl": "https://www.fool.com/millionacres/real-estate-market/real-estate-innovation/how-is-artificial-intelligence-used-in-real-estate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.foolcdn.com/media/millionacres/images/houses_and_computer.max-1200x600.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/millionacres/amp/real-estate-market/real-estate-innovation/how-is-artificial-intelligence-used-in-real-estate/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/millionacres/amp/real-estate-market/real-estate-innovation/how-is-artificial-intelligence-used-in-real-estate/",
+      "publishedDateTime": "2020-10-31T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-31-intel-iris-xe-max-gpu-arrives-in-11th-gen-mobile-chips-to-boost-gaming-creation.md",
+      "title": "Intel Iris Xe Max GPU arrives in 11th-gen mobile chips to boost gaming, creation",
+      "excerpt": "Intel offers a little something extra as incentive: Deep Link, which allows a system to combine the integrated and discrete Xe GPU's processing power for creative tasks like AI inferencing and ... over models with Nvidia MX chips. Iris Xe Max also adds ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/intel-iris-xe-max-gpu-arrives-in-11th-gen-mobile-chips-to-boost-gaming-creation/",
+      "originalUrl": "https://www.cnet.com/news/intel-iris-xe-max-gpu-arrives-in-11th-gen-mobile-chips-to-boost-gaming-creation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 279,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/qNcMO68S_2r4fGl59xhilygsFIw=/1200x630/2020/10/21/992143a0-3303-449c-9a49-a650e2bf34f8/acer-swift-3x-05.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/intel-iris-xe-max-gpu-arrives-in-11th-gen-mobile-chips-to-boost-gaming-creation/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intel-iris-xe-max-gpu-arrives-in-11th-gen-mobile-chips-to-boost-gaming-creation/",
+      "publishedDateTime": "2020-10-31T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-31-the-robot-ships-are-coming-eventually.md",
       "title": "The Robot Ships Are Coming … Eventually",
       "excerpt": "is testing an AI-based navigation and operations system designed by Tel Aviv startup Orca-AI. He doesn’t foresee operating his own fleet of robot ships, but instead wants to use an AI captain to reduce the number of officers on the bridge. “It will be ...",
@@ -62,7 +321,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deploying-and-using-the-document-understanding-solution/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -311,50 +570,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-10-31-nvidia-intros-jetson-nano-2gb-developer-kit-for-ai-and-robotics-ed.md",
-      "title": "NVIDIA Intros Jetson Nano 2GB Developer Kit for AI and Robotics Ed",
-      "excerpt": "NVIDIA has introduced its new Jetson Nano 2GB Developer Kit, a new system designed for “learning, building and teaching AI and robotics.” The Linux-based system is built around a 128-core NVIDIA Maxwell GPU and a 1.43 GHz quad-core ARM A57 CPU.",
-      "sourceUrl": null,
-      "webUrl": "https://campustechnology.com/articles/2020/10/30/nvidia-jetson-nano-2gb-developer-kit-teaches-ai-and-robotics.aspx",
-      "originalUrl": "https://campustechnology.com/articles/2020/10/30/nvidia-jetson-nano-2gb-developer-kit-teaches-ai-and-robotics.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://campustechnology.com/-/media/EDU/THEJournal/2020Editorial/20201029jetson.jpg",
-          "width": 644,
-          "height": 362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-30T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Campus Technology",
-        "domain": "campustechnology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     },
     {
@@ -910,59 +1125,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-30-deep-learning-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2020-2023.md",
-      "title": "Deep Learning Market Analysis Reports Revenue Growth Globally During The Forecast Period 2020-2023",
-      "excerpt": "Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End User (Security, Manufacturing, BFSI, Healthcare,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2020-2023-2020-10-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2020-2023-2020-10-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-30T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2020-10-30-lax-debuts-facial-recognition-technology-for-international-travelers.md",
       "title": "LAX debuts facial recognition technology for international travelers",
       "excerpt": "U.S. Customs and Border Protection officials announced the implementation of a facial-recognition process at LAX.",
@@ -971,7 +1133,7 @@
       "originalUrl": "https://abc7.com/lax-cbp-international-travelers-facial-recognition/7459789/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1109,161 +1271,6 @@
         "IBM AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-ibm-watson-services-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027.md",
-      "title": "IBM Watson Services Market Size- Detailed Analysis of Current Industry Figures with Forecasts Growth By 2027",
-      "excerpt": "Selbyville, Delaware As per the research report titled 'IBM Watson Services Market Share, Size, Trends, Industry Analysis Report, By Service Type; By End Use ; By Regions; Segment Forecast, 2020 -2027' available with Market Study Report LLC,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ibm-watson-services-market-size--detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027-2020-10-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/ibm-watson-services-market-size--detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027-2020-10-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-29T18:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-trump-faces-executive-order-lawsuit-as-critical-race-theory-fuels-ai-research.md",
-      "title": "Trump faces executive order lawsuit as critical race theory fuels AI research",
-      "excerpt": "Google AI ethics co-lead Meg Mitchell told VentureBeat in a meeting with journalists last week. “This was a bit of an intervention with our first social scientists. So our team has been able to ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/29/trump-faces-executive-order-lawsuit-as-critical-race-theory-fuels-ai-research/",
-      "originalUrl": "https://venturebeat.com/2020/10/29/trump-faces-executive-order-lawsuit-as-critical-race-theory-fuels-ai-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-1228809983.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/29/trump-faces-executive-order-lawsuit-as-critical-race-theory-fuels-ai-research/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/29/trump-faces-executive-order-lawsuit-as-critical-race-theory-fuels-ai-research/amp/",
-      "publishedDateTime": "2020-10-29T15:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-googles-ai-converts-webpages-into-videos.md",
-      "title": "Google’s AI converts webpages into videos",
-      "excerpt": "Google researchers developed an AI and machine learning system that converts webpages into videos automatically.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/29/googles-ai-converts-webpages-into-videos/",
-      "originalUrl": "https://venturebeat.com/2020/10/29/googles-ai-converts-webpages-into-videos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/29/googles-ai-converts-webpages-into-videos/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/29/googles-ai-converts-webpages-into-videos/amp/",
-      "publishedDateTime": "2020-10-29T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

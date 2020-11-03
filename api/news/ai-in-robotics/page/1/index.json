@@ -160,6 +160,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-02-artificial-intelligence-robots-market-outlook-by-size-share-future-growth-and-forecast-from-2020-2023.md",
+      "title": "Artificial Intelligence Robots Market Outlook By Size, Share, Future Growth And Forecast From 2020-2023",
+      "excerpt": "Global AI Robots Market Research Report - by Offering (Software, Hardware), by Type (Service Robots, Industrial Robots),",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-outlook-by-size-share-future-growth-and-forecast-from-2020-2023-2020-11-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-outlook-by-size-share-future-growth-and-forecast-from-2020-2023-2020-11-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-01T18:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-01-how-to-make-sure-your-ai-for-good-project-actually-does-good.md",
       "title": "How to make sure your ‘AI for good’ project actually does good",
       "excerpt": "from the very start of your research. When you are promoting a project, be clear about its scope and limitations; don’t just focus on the potential benefits it can deliver. As with any AI ...",
@@ -261,50 +313,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-31-nvidia-intros-jetson-nano-2gb-developer-kit-for-ai-and-robotics-ed.md",
-      "title": "NVIDIA Intros Jetson Nano 2GB Developer Kit for AI and Robotics Ed",
-      "excerpt": "NVIDIA has introduced its new Jetson Nano 2GB Developer Kit, a new system designed for “learning, building and teaching AI and robotics.” The Linux-based system is built around a 128-core NVIDIA Maxwell GPU and a 1.43 GHz quad-core ARM A57 CPU.",
-      "sourceUrl": null,
-      "webUrl": "https://campustechnology.com/articles/2020/10/30/nvidia-jetson-nano-2gb-developer-kit-teaches-ai-and-robotics.aspx",
-      "originalUrl": "https://campustechnology.com/articles/2020/10/30/nvidia-jetson-nano-2gb-developer-kit-teaches-ai-and-robotics.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://campustechnology.com/-/media/EDU/THEJournal/2020Editorial/20201029jetson.jpg",
-          "width": 644,
-          "height": 362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-30T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Campus Technology",
-        "domain": "campustechnology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     },
     {

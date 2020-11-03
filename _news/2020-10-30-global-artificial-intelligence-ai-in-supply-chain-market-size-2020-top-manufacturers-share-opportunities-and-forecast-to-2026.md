@@ -21,6 +21,20 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "Artificial Intelligence Robots Market Outlook By Size, Share, Future Growth And Forecast From 2020-2023"
+    excerpt: "Global AI Robots Market Research Report - by Offering (Software, Hardware), by Type (Service Robots, Industrial Robots),"
+    publishedDateTime: 2020-11-02T02:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-outlook-by-size-share-future-growth-and-forecast-from-2020-2023-2020-11-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning Market Analysis Reports Revenue Growth Globally During The Forecast Period 2020-2023"
     excerpt: "Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End User (Security, Manufacturing, BFSI, Healthcare,"
     publishedDateTime: 2020-10-30T08:01:00Z
@@ -35,18 +49,60 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market will exhibit a CAGR worth 12% during 2020-2024 | Technavio"
-    excerpt: "Technavio has been monitoring the facial recognition market, operating under the information technology industry. The latest report on the facial recognition market, 2020-2024 estimates it to register an incremental growth of USD 3.35 bn, at a CAGR of ..."
-    publishedDateTime: 2020-10-30T08:11:00Z
-    webUrl: "https://www.oaoa.com/news/business/facial-recognition-market-will-exhibit-a-cagr-worth-12-during-2020-2024-technavio/article_6c58d87d-7061-50fb-a01c-6c306c2eab19.html"
+  - title: "Artificial Intelligence in Supply Chain Market Analysis By Development, Size, Share And Demand Forecast From 2020 To 2023"
+    excerpt: "Artificial Intelligence in Supply Chain Market, By Component (Software, Network, Hardware, FPGA, GPU, ASIC), by"
+    publishedDateTime: 2020-11-02T04:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-analysis-by-development-size-share-and-demand-forecast-from-2020-to-2023-2020-11-02"
     type: article
     provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 32
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/1/be/1bec6827-3d6e-5642-8a5d-0fc634918000/5f9b93ad6b510.image.jpg?resize=1120%2C630"
-        width: 1120
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Workspace Market Outlook 2023 - Rising Demand, Share, Trends, Growth, Opportunities and Top Key players"
+    excerpt: "Artificial Intelligence in Workspace Market Research, By Components (Hardware, Software, Services), Technology"
+    publishedDateTime: 2020-11-02T04:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-workspace-market-outlook-2023---rising-demand-share-trends-growth-opportunities-and-top-key-players-2020-11-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Computer Vision Market Size, Share, Demand, Opportunity, Outlook, Trends, Revenue, Future Growth Opportunities By 2020-2023"
+    excerpt: "Global Computer Vision Market Research Report Information by By Component, By Application, By End-User and By Region Forecast Till 2023 The computer vision technology landscape continues to undergo relentless transformation,"
+    publishedDateTime: 2020-10-30T05:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-size-share-demand-opportunity-outlook-trends-revenue-future-growth-opportunities-by-2020-2023-2020-10-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence For Drug Development and Discovery Market 2020 Industry Status and Outlook, Competitive Landscape and Growth by 2025"
+    excerpt: "MarketsandResearch.biz has published the latest and most trending report entitled Global Artificial Intelligence For Drug Development and Discovery Market 2020 by Company, Regions, Type and Application,"
+    publishedDateTime: 2020-11-01T12:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-for-drug-development-and-discovery-market-2020-industry-status-and-outlook-competitive-landscape-and-growth-by-2025-2020-11-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
         height: 630
         isCached: true
 

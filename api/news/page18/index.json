@@ -2,6 +2,221 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-10-19-are-we-overly-infatuated-with-deep-learning.md",
+      "title": "Are We Overly Infatuated with Deep Learning?",
+      "excerpt": "The love affair with deep learning runs deep. After all, deep learning is responsible for much of the advancements in machine learning we’ve realized in the past decade. But are we overly infatuated with deep learning? Read Ronald Schmelzer’s article ...",
+      "sourceUrl": null,
+      "webUrl": "https://ctovision.com/are-we-overly-infatuated-with-deep-learning-2/",
+      "originalUrl": "https://ctovision.com/are-we-overly-infatuated-with-deep-learning-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ctovision.com",
+        "domain": "ctovision.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-ferminet-quantum-physics-and-chemistry-from-first-principles.md",
+      "title": "FermiNet: Quantum Physics and Chemistry from First Principles",
+      "excerpt": "Weve developed a new neural network architecture, the Fermionic Neural Network or FermiNet, which is well-suited to modeling the quantum state of large collections of electrons, the fundamental building blocks of chemical bonds.",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.com/blog/article/FermiNet",
+      "originalUrl": "https://deepmind.com/blog/article/FermiNet",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/okVedh5EOrcP4VXLBcS9ZpeFUG9UcDEHNyMCe7kUrEt7CMnYROv4caYVNPB-eaGzSTAVXPfJp1CaOcQSsh9NFWwbkEzHyRXL9kiCLYY",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-incorporating-artificial-intelligence-in-indian-healthcare-sector.md",
+      "title": "Incorporating Artificial Intelligence In Indian Healthcare Sector",
+      "excerpt": "Today is the time when we can see significant disruption in the Indian healthcare industry. Much of this is credited to the level of involvement of artificial intelligence, big data, cloud ...",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/resources/incorporating-artificial-intelligence-in-indian-healthcare-sector/",
+      "originalUrl": "https://inc42.com/resources/incorporating-artificial-intelligence-in-indian-healthcare-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2019/10/healthcare-social.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/resources/incorporating-artificial-intelligence-in-indian-healthcare-sector/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/incorporating-artificial-intelligence-in-indian-healthcare-sector/amp/",
+      "publishedDateTime": "2020-10-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-to-build-more-inclusive-technology-change-your-design-process.md",
+      "title": "To Build More-Inclusive Technology, Change Your Design Process",
+      "excerpt": "Companies from Microsoft to Airbnb to Oracle are striving ... more accessible for people with different physical and cognitive abilities; the tech industry has taken meager steps to diversify ...",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2020/10/to-build-more-inclusive-technology-change-your-design-process",
+      "originalUrl": "https://hbr.org/2020/10/to-build-more-inclusive-technology-change-your-design-process",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2020/10/Oct20_19_72983853.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2020/10/to-build-more-inclusive-technology-change-your-design-process",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/10/to-build-more-inclusive-technology-change-your-design-process",
+      "publishedDateTime": "2020-10-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-18-wfh-online-classes-led-to-increase-in-computer-vision-syndrome-amid-pandemic.md",
+      "title": "WFH, online classes led to increase in Computer Vision Syndrome amid pandemic",
+      "excerpt": "This dependence on gadgets has worsened during the COVID-19 pandemic and led to increased incidents of Computer Vision Syndrome (CVS) or digital eye strain, experts warned during a webinar conducted on 'Eye health care and online practices during COVID-19'.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatvnews.com/lifestyle/news-wfh-online-classes-led-to-increase-in-computer-vision-syndrome-amid-pandemic-657992",
+      "originalUrl": "https://www.indiatvnews.com/lifestyle/news-wfh-online-classes-led-to-increase-in-computer-vision-syndrome-amid-pandemic-657992",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/10/pjimage-20-1603038304.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/lifestyle/news-wfh-online-classes-led-to-increase-in-computer-vision-syndrome-amid-pandemic-657992",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/lifestyle/news-wfh-online-classes-led-to-increase-in-computer-vision-syndrome-amid-pandemic-657992",
+      "publishedDateTime": "2020-10-18T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India TV",
+        "domain": "indiatvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-18-working-from-home-you-may-be-at-risk-of-developing-computer-vision-syndrome.md",
       "title": "Working from home? You may be at risk of developing computer vision syndrome",
       "excerpt": "Also Read - Excessive use of mobile phones during lockdown may cause digital amnesia Watch out for the symptoms of Computer Vision Syndrome Computer vision syndrome (CVS) isn’t one specific problem.",
@@ -913,247 +1128,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-ai-weekly-us-lawmakers-decry-the-chilling-effect-of-federal-surveillance-at-protests.md",
-      "title": "AI Weekly: U.S. lawmakers decry the chilling effect of federal surveillance at protests",
-      "excerpt": "There’s a thread that runs through police violence against Black people and connects to overpolicing, onerous and problematic tactics like facial recognition, AI-powered predictive policing ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/16/ai-weekly-u-s-lawmakers-decry-the-chilling-effect-of-federal-surveillance-at-protests/",
-      "originalUrl": "https://venturebeat.com/2020/10/16/ai-weekly-u-s-lawmakers-decry-the-chilling-effect-of-federal-surveillance-at-protests/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/protest-surveillance-GettyImages-1279056199.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/16/ai-weekly-u-s-lawmakers-decry-the-chilling-effect-of-federal-surveillance-at-protests/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/16/ai-weekly-u-s-lawmakers-decry-the-chilling-effect-of-federal-surveillance-at-protests/amp/",
-      "publishedDateTime": "2020-10-16T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-thought-powered-wheelchair-could-return-mobility-to-people-with-paralysis.md",
-      "title": "Thought-Powered Wheelchair Could Return Mobility To People With Paralysis",
-      "excerpt": "as demonstrated by a new study in which monkeys were able to navigate a robotic wheelchair using a brain chip. Now, this isn’t actually the first time that a mind-controlled wheelchair has been ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.iflscience.com/brain/wireless-thought-powered-wheelchair-system-invented/",
-      "originalUrl": "https://www.iflscience.com/brain/wireless-thought-powered-wheelchair-system-invented/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.iflscience.com/images/996b801a-a195-589b-9a62-61ed0ac2a71c/default-1464385738-205-thought-powered-wheelchair-could-return-mobility-to-people-with-paralysis.jpg",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.iflscience.com/brain/wireless-thought-powered-wheelchair-system-invented/",
-      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/brain/wireless-thought-powered-wheelchair-system-invented/",
-      "publishedDateTime": "2020-10-16T13:02:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IFLScience",
-        "domain": "iflscience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-machine-learning-ai-in-search.md",
-      "title": "Machine Learning & AI in Search",
-      "excerpt": "Regular readers will likely wonder what more I could have to say about machine learning (ML) in search, after having written How Machine Learning In Search Works just a few months ago. Let me ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.searchenginejournal.com/machine-learning-ai-in-search/382454/",
-      "originalUrl": "https://www.searchenginejournal.com/machine-learning-ai-in-search/382454/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.searchenginejournal.com/wp-content/uploads/2020/09/sej-ml-dan-featured-5f735c4c450d3.jpg",
-          "width": 1600,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.searchenginejournal.com/machine-learning-ai-in-search/382454/",
-      "cdnAmpWebUrl": "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/machine-learning-ai-in-search/382454/",
-      "publishedDateTime": "2020-10-16T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Search Engine Journal",
-        "domain": "searchenginejournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-ai-localization-tool-claims-to-translate-your-words-in-your-voice.md",
-      "title": "AI localization tool claims to translate your words in your voice",
-      "excerpt": "Localization is a tricky issue for all content creators. It can take significant time and resources to make their work fully accessible to folks who speak different languages. One company thinks it has cracked part of that code with an artificial intelligence system that automatically translates speech into other languages in the same speaker’s voice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/resemble-ai-localize-voice-translation-artificial-intelligence-193517036.html",
-      "originalUrl": "https://www.engadget.com/resemble-ai-localize-voice-translation-artificial-intelligence-193517036.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fe8457890-0fe0-11eb-9ad6-9785dab366ce&client=amp-blogside-v2&signature=42e2cbb5af0ac7376c4143e4322a5319d3229a26",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/resemble-ai-localize-voice-translation-artificial-intelligence-193517036.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/resemble-ai-localize-voice-translation-artificial-intelligence-193517036.html",
-      "publishedDateTime": "2020-10-16T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-ibm-and-servicenow-are-helping-businesses-reduce-costs-using-ai.md",
-      "title": "IBM and ServiceNow are helping businesses reduce costs using AI",
-      "excerpt": "IBM and ServiceNow have expanded their strategic partnership to help companies use artificial intelligence (AI) to automate their IT operations. The joint solution will employ IBM's hybrid cloud ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/357462/ibm-and-servicenow-helping-businesses-reduce-costs",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/357462/ibm-and-servicenow-helping-businesses-reduce-costs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1602872906/itpro/ibm_logo.jpg",
-          "width": 2700,
-          "height": 1411,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-16T11:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

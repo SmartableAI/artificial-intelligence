@@ -53,7 +53,7 @@ related:
     provider:
       name: Network World
       domain: networkworld.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://images.idgesg.net/images/article/2020/05/nvidia-ampere-a100-100842032-large.jpg"
         width: 1200

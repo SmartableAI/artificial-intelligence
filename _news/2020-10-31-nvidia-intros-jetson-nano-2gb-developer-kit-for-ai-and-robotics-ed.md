@@ -7,8 +7,8 @@ originalUrl: "https://campustechnology.com/articles/2020/10/30/nvidia-jetson-nan
 webUrl: "https://campustechnology.com/articles/2020/10/30/nvidia-jetson-nano-2gb-developer-kit-teaches-ai-and-robotics.aspx"
 type: article
 quality: 71
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: Campus Technology
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "NVIDIA Jetson Nano 2GB Brings Machine Learning Power To A Raspberry Pi Price Point"
+    excerpt: "At just $59 at retailers like Amazon, Jetson Nano brings NVIDIA’s custom hybrid Arm core CPU and Maxwell GPU technologies down to a Raspberry Pi 4 price point that will be that much more accessible to academia,"
+    publishedDateTime: 2020-11-03T18:47:00Z
+    webUrl: "https://www.forbes.com/sites/davealtavilla/2020/11/03/nvidia-jetson-nano-2gb-brings-machine-learning-power-to-a-raspberry-pi-price-point/"
+    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2020/11/03/nvidia-jetson-nano-2gb-brings-machine-learning-power-to-a-raspberry-pi-price-point/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2020/11/03/nvidia-jetson-nano-2gb-brings-machine-learning-power-to-a-raspberry-pi-price-point/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 83
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa19f6ab1b1b304006898b3%2F0x0.jpg"
+        width: 1000
+        height: 668
+        isCached: true
   - title: "Exploring AI With NVIDIA’s $59 Jetson Nano 2GB Dev Kit"
     excerpt: "NVIDIA's Jetson Nano 2 GB dev kit grants easy access to machine learning tools to accelerate AI at a very affordable price."
     publishedDateTime: 2020-11-03T13:44:00Z

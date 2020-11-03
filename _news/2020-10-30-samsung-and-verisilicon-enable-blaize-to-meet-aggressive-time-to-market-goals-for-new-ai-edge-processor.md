@@ -33,7 +33,7 @@ related:
     provider:
       name: Embedded Computing Design
       domain: embedded-computing.com
-    quality: 26
+    quality: 28
     images:
       - url: "http://share.opsy.st/5fa178fcbd647-fiber-optic-2749588_1280.jpg"
         width: 1280

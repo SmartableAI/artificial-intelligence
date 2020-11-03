@@ -3,10 +3,10 @@ category: news
 title: "C3.ai CEO Tom Siebel on AI and CRM, remote learning's next breakthrough and regulating social media"
 excerpt: "Tom Siebel caught up with ZDNet to talk about next-gen CRM systems, C3.ai's Digital Transformation Institute, COVID-19 data lakes, education's next innovation and why social media firms need to be regulated."
 publishedDateTime: 2020-11-02T11:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
+originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
+webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
 type: article
 quality: 92
 heat: -1
@@ -21,9 +21,9 @@ provider:
       height: 50
 
 topics:
+  - Microsoft AI
   - AI
   - AI in Sales
-  - Microsoft AI
 
 images:
   - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/10/30/c4d5bd53-7b0e-40fd-a9a3-c7e79b7c49e3/thumbnail/1200x675/68b5f4044e23c638808bfdf57ffda312/20201029-siebel-larry.jpg"
@@ -75,6 +75,6 @@ related:
         height: 357
         isCached: true
 
-secured: "xZAFjGOI0v6m+Fnsy4IJFNQUTD99crRp0ueGtGFslu8kLJF1BjEIbtkNdCp63yI40GqjHS1LhpwgGeRPRWtN0yvNaBg5QNK8TICDuNRmMuEMQtJiKLHOZ8vLOur48JcAYBYM5y+E2E6ZGoZ6BG96OS8cgI8BmLVYgaBmeNJQjIgba2TXq5vH/MOID0/WCkmBQMYVkBTClAabe0ylNgE2ozQX6sPGbjNVKhGiw8dzQbdW/+idSS+mhjjcT64GL8EbDDmnuyPvkAhEm4EVnOTpfyUTIMFu9AQ8+fuwDu8dloq490HDeUG8fHLuE6JoyJ/1jJt18K7OoLWznWzuQWcVmN6c9jLCww055snQ6nK6VBTb6fbP9H3Eb0IhtklC1p44vSyzq2MLaAOov4NPVhWR9tnvY2gL61MTn5ezS0cYspzwGhuZpv/qZrUujGchkgB5nsfP+khz9lmvuuK7C4EOdrRnjsVERWqtJ2ZUtsOUYSHFTk0zAR1EaDgf1r+PCOlFiH87CFo5ne0Eoah1B/ARjg==;jl7vr4qJH3LXlJHeOvEmzA=="
+secured: "WGiwa8ud8gf/HG6sedjwvWl++gTF+br5dTD+toGT6B0/X6XF9EKpPEaoydniIck/QaQ/mDywkJbZPtiya6MZISyTtodODBcPonfmM77tywtqZpP+OneBLxcsZuSqYbGCVlqhollAUmBgGFOrliBtRz1da58Hg7ImsxutxrNVfCuBt3A91Ze3NKKEEapbpIDQpLYqYh9GukVeh4GHlMSNs0DC+ERcUMp+xL6kLWjPvdxLJ8mUCYJEIGeOAgCAWslWTbMYkUYdG3LLMteXDrsC/PnsZa56j+gh9lNG67i5LS8vhLk/lf9CbYsKTSNxn5P5/JXTwDNUYNWa14SH7Khgw2zVFRe5RwKV2qbvhRVrEMY=;/H294WsRXKDAHIsmdnjjbw=="
 ---
 

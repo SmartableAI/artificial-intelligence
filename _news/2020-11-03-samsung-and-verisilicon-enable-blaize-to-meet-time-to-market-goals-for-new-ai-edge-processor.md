@@ -6,8 +6,8 @@ publishedDateTime: 2020-11-03T15:58:00Z
 originalUrl: "https://www.embedded-computing.com/news/samsung-and-verisilicon-enable-blaize-to-meet-time-to-market-goals-for-new-ai-edge-processor"
 webUrl: "https://www.embedded-computing.com/news/samsung-and-verisilicon-enable-blaize-to-meet-time-to-market-goals-for-new-ai-edge-processor"
 type: article
-quality: 26
-heat: 26
+quality: 28
+heat: 28
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "http://share.opsy.st/5fa178fcbd647-fiber-optic-2749588_1280.jpg"

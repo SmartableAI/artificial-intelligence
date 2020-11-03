@@ -239,50 +239,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-31-nvidia-intros-jetson-nano-2gb-developer-kit-for-ai-and-robotics-ed.md",
-      "title": "NVIDIA Intros Jetson Nano 2GB Developer Kit for AI and Robotics Ed",
-      "excerpt": "NVIDIA has introduced its new Jetson Nano 2GB Developer Kit, a new system designed for “learning, building and teaching AI and robotics.” The Linux-based system is built around a 128-core NVIDIA Maxwell GPU and a 1.43 GHz quad-core ARM A57 CPU.",
-      "sourceUrl": null,
-      "webUrl": "https://campustechnology.com/articles/2020/10/30/nvidia-jetson-nano-2gb-developer-kit-teaches-ai-and-robotics.aspx",
-      "originalUrl": "https://campustechnology.com/articles/2020/10/30/nvidia-jetson-nano-2gb-developer-kit-teaches-ai-and-robotics.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://campustechnology.com/-/media/EDU/THEJournal/2020Editorial/20201029jetson.jpg",
-          "width": 644,
-          "height": 362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-30T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Campus Technology",
-        "domain": "campustechnology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2020-10-30-google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care.md",
       "title": "Google AI executive sees a world of trillions of devices untethered from human care",
       "excerpt": "Google says hardware in embedded devices needs to improve to make possible a world of peel-and-stick sensors free of wall power and human maintenance.",
@@ -1462,6 +1418,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-nvidia-will-power-the-worlds-most-powerful-ai-supercomputer-leonardo.md",
+      "title": "NVIDIA Will Power the World's Most Powerful AI Supercomputer, Leonardo",
+      "excerpt": "The supercomputer arms race is on, and NVIDIA (NASDAQ:NVDA) is leaving the competition in the dust. Of the world's 500 most powerful supercomputers, NVIDIA graphics processing units (GPUs) or networking equipment (by way of its Mellanox acquisition) can be found in 333 of them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/10/15/nvidia-will-power-the-worlds-most-powerful-ai-supe/",
+      "originalUrl": "https://www.fool.com/investing/2020/10/15/nvidia-will-power-the-worlds-most-powerful-ai-supe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F595333%2Fartificial-intelligence-getty-62817.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/15/nvidia-will-power-the-worlds-most-powerful-ai-supe/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/15/nvidia-will-power-the-worlds-most-powerful-ai-supe/",
+      "publishedDateTime": "2020-10-15T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Google's Waymo is pulling its self-driving cars out of San Francisco in case violence erupts around the election"
+    excerpt: "The company will also stop testing on San Francisco's streets for the next two days as the 2020 presidential election unfolds."
+    publishedDateTime: 2020-11-03T17:09:00Z
+    webUrl: "https://www.businessinsider.com/google-waymo-securing-autonomous-cars-san-francisco-election-chaos-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/google-waymo-securing-autonomous-cars-san-francisco-election-chaos-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-waymo-securing-autonomous-cars-san-francisco-election-chaos-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
+    images:
+      - url: "https://i.insider.com/5fa17cdb69331a0011bc6f36?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Waymo and Daimler to build self-driving trucks"
     excerpt: "Daimler Trucks and autonomous driving technology vendor Waymo are partnering to deploy self-driving SAE Level 4 trucks for future transportation logistics operations. The initial collaboration will combine Waymo’s automated driving technology with a new version of Daimler’s Freightliner Cascadia to enable autonomous driving."
     publishedDateTime: 2020-10-30T12:46:00Z
@@ -88,6 +104,22 @@ related:
       name: Engineering360 News
       domain: globalspec.com
     quality: 34
+  - title: "Google's sister firm Waymo is pulling its self-driving cars out of San Francisco in case violence erupts around the election"
+    excerpt: "Waymo is pulling its self-driving cars from the streets of San Francisco in case election unrest ensues this week. \"Out of an abundance of caution and with the safety of our team in mind, we are temporarily suspending driving operations in San Francisco on 11/3 and 11/4,"
+    publishedDateTime: 2020-11-03T18:23:00Z
+    webUrl: "https://www.businessinsider.in/tech/news/googles-sister-firm-waymo-is-pulling-its-self-driving-cars-out-of-san-francisco-in-case-violence-erupts-around-the-election/articleshow/79027264.cms"
+    ampWebUrl: "https://www.businessinsider.in/tech/news/googles-sister-firm-waymo-is-pulling-its-self-driving-cars-out-of-san-francisco-in-case-violence-erupts-around-the-election/amp_articleshow/79027264.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/googles-sister-firm-waymo-is-pulling-its-self-driving-cars-out-of-san-francisco-in-case-violence-erupts-around-the-election/amp_articleshow/79027264.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 32
+    images:
+      - url: "https://www.businessinsider.in/thumb/79027021.cms?height=275&width=412"
+        width: 412
+        height: 275
+        isCached: true
 
 secured: "9wtsxqUMEs+iBmM7SBp3o0er/nNzlAYhdIyevdxbnCZHqihef+otr215IYyQM9xm0k3yezm9aOmE7F0Gu+O2q77tZCWE7VLXNHODNqtgbOjDh/+b1nXGOBtk0n9QFUu5DbHKTngScyWwymNN9W6Qc6mxUt6wl0QC4VrG/h8Fd8BXyIqGxnBEV5QLjXamDzxNQ2TOFXGrO4qvUnLeCCaM1/vUY9b0e4SgVuog5rOVt5KqSyGqI72pMX/Kt1CE2yd9xap8s7ycMAzcWCxc9I44eHcv4CN8ucOMCHJ4D3vyvr/5HDDVpty1q+hGLFwYa5QuXs2FtUYP3SiIp5ivNh9/Z3WLGNQvd64YOo9gVXjDlGoGPhLWwR6OWdY51dKHh2WhUsinA33HQDgRZXbT9qvrW2UogA2Rqc++Kxmn7liigV0FM0eK0jbKBYQiNmQWmTxI9zn4pm8nQhKbp5SFX54ujjBzHEyivO6YC3YVXta55qIaF6//FY9mpIntDZ71FwGC/KD2dLYkmctEKcmqjbw2Jw==;igCpVpRFZdRNSzbnnOnrpw=="
 ---

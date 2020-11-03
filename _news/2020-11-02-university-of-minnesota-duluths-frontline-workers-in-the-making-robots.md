@@ -28,12 +28,12 @@ images:
 related:
   - title: "University of Minnesota Duluth's frontline workers in the making: robots"
     excerpt: "A UMD professor and her students are in the process of programming \"COVID gossip bots\" to socialize with and monitor isolated residents of assisted living facilities."
-    publishedDateTime: 2020-11-03T16:57:00Z
-    webUrl: "https://www.dl-online.com/news/education/6731443-University-of-Minnesota-Duluths-frontline-workers-in-the-making-robots"
+    publishedDateTime: 2020-11-03T17:53:00Z
+    webUrl: "https://www.bemidjipioneer.com/news/education/6731443-University-of-Minnesota-Duluths-frontline-workers-in-the-making-robots"
     type: article
     provider:
-      name: Detroit Lakes Online
-      domain: dl-online.com
+      name: Bemidji Pioneer
+      domain: bemidjipioneer.com
     quality: 38
     images:
       - url: "https://www.duluthnewstribune.com/incoming/6739338-rx905s-110220.N.DNT.CovidBot-c01.JPG/alternates/BASE_LANDSCAPE/110220.N.DNT.CovidBot%20c01.JPG"

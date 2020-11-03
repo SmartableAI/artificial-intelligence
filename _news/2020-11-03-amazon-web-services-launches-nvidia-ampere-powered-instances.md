@@ -8,7 +8,7 @@ webUrl: "https://www.networkworld.com/article/3588276/amazon-web-services-launch
 ampWebUrl: "https://www.networkworld.com/article/3588276/amazon-web-services-launches-nvidia-ampere-powered-instances.amp.html"
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3588276/amazon-web-services-launches-nvidia-ampere-powered-instances.amp.html"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Google AI
 
 images:
   - url: "https://images.idgesg.net/images/article/2020/05/nvidia-ampere-a100-100842032-large.jpg"

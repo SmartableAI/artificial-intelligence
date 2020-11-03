@@ -544,34 +544,34 @@
     {
       "path": "_news/2020-10-27-artificial-intelligence-ai-in-healthcare-market-to-reach-us-265-billion-by-2025-globally-cagr-41-univdatos-market-insights.md",
       "title": "Artificial Intelligence (AI) in Healthcare Market to Reach US$ 26.5 Billion by 2025, Globally |CAGR: 41%| UnivDatos Market Insights",
-      "excerpt": "UnivDatos Market Insights released a report titled \"Artificial Intelligence (AI) in Healthcare Market - by Technology (Machine Learning,",
+      "excerpt": "Artificial Neural Network), Applications (Robotic Surgery, Diagnosis, Virtual Nursing Assistance, Administrative Workflow Assistance); Offerings (Hardware, Software and Services) and Region ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025--globally-cagr-41-univdatos-market-insights-301160783.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025--globally-cagr-41-univdatos-market-insights-301160783.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-1029728132",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-1029728132",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1225049/UnivDatos_Logo.jpg?p=facebook",
-          "width": 1279,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T08:00:00-07:00",
+      "publishedDateTime": "2020-10-27T08:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -580,8 +580,9 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI"
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -954,10 +955,10 @@
     {
       "path": "_news/2020-10-20-how-retailers-use-artificial-intelligence-to-know-what-you-want-to-buy-before-you-do.md",
       "title": "How Retailers Use Artificial Intelligence to Know What You Want to Buy Before You Do",
-      "excerpt": "Companies have more information than ever before thanks to Covid-19—and more computing power than ever before to parse it for patterns that keep customers loyal.",
+      "excerpt": "The Terminator, a symbol of artificial intelligence run amok ... I expect they will seek psychological solace in retail therapy.” Shopping may provide comfort, but our psychology remains ...",
       "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/how-retailers-use-artificial-intelligence-to-know-what-you-want-to-buy-before-you-do-51603195200?refsec=markets",
-      "originalUrl": "https://www.barrons.com/articles/how-retailers-use-artificial-intelligence-to-know-what-you-want-to-buy-before-you-do-51603195200?refsec=markets",
+      "webUrl": "https://www.barrons.com/articles/how-retailers-use-artificial-intelligence-to-know-what-you-want-to-buy-before-you-do-51603195200",
+      "originalUrl": "https://www.barrons.com/articles/how-retailers-use-artificial-intelligence-to-know-what-you-want-to-buy-before-you-do-51603195200",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -974,9 +975,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/how-retailers-use-artificial-intelligence-to-know-what-you-want-to-buy-before-you-do-51603195200",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/how-retailers-use-artificial-intelligence-to-know-what-you-want-to-buy-before-you-do-51603195200",
-      "publishedDateTime": "2020-10-20T04:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-20T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Barron's",

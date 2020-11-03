@@ -24,6 +24,22 @@ images:
     height: 533
     isCached: true
 
+related:
+  - title: "Vix Vizion face biometrics approved for enforcing gambling bans in South Australia"
+    excerpt: "The government of South Australia has selected Vix Vizion to deploy facial recognition to casinos, clubs and other hospitality venues with gambling machines as its official solutions provider,"
+    publishedDateTime: 2020-11-03T17:54:00Z
+    webUrl: "https://www.biometricupdate.com/202011/vix-vizion-face-biometrics-approved-for-enforcing-gambling-bans-in-south-australia"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 18
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
+        isCached: true
+
 secured: "/AjVpPaEOBE22BaL1fNUUT3gTr4ASimTkPK/eRa1YcWV4fv07EySZL2UgwgrEraNNao8M9OOzP/amO9F0i06bqZadQsy/zPFAa6+R5b+CdbO3hsuHmqS2HBBYIW6/0BguYW6uxJ/5/XucQMcS+TS+GF/zT2up6DSLvOb9aLsyIjlMn7KZ4rK+iXp8Cy6tQlriVl3aPXyGmN4Cw9tUOL7yOP65rTdFLOzTNrTSH4pabyniM1bWcXk0sPfdi5ioaUlKLBaTEyjf4eexyEfmgPWKDgtluWg/8BLCuyByHWwfM2Urtt17Y8FjOdYS/WaxipfJudug+lMNpEEbYj/5m+1yG2AeZBOIWijdesd1q9YrIc9PKwyWGyufPctAq+ECuh6BtYmZcJst5lmKN1L6lRardTxNjrsUsV/QSU+DXHzr5CzCT2SW1+IVsPDr1tA/TZpSGQy9O4PFLWiHr3LpuwajQ9h3zErvpQ4PU8o+rPfwERKiggBk6aERw8gQMCSJ4xCuwj5hx9sdnRQoK95UqmVOA==;/jewdkn7HVKVyF8vOMwpOw=="
 ---
 

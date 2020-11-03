@@ -2,17 +2,17 @@
 category: news
 title: "University of Minnesota Duluth's frontline workers in the making: robots"
 excerpt: "A UMD professor and her students are in the process of programming \"COVID gossip bots\" to socialize with and monitor isolated residents of assisted living facilities."
-publishedDateTime: 2020-11-03T16:57:00Z
-originalUrl: "https://www.dl-online.com/news/education/6731443-University-of-Minnesota-Duluths-frontline-workers-in-the-making-robots"
-webUrl: "https://www.dl-online.com/news/education/6731443-University-of-Minnesota-Duluths-frontline-workers-in-the-making-robots"
+publishedDateTime: 2020-11-03T17:53:00Z
+originalUrl: "https://www.bemidjipioneer.com/news/education/6731443-University-of-Minnesota-Duluths-frontline-workers-in-the-making-robots"
+webUrl: "https://www.bemidjipioneer.com/news/education/6731443-University-of-Minnesota-Duluths-frontline-workers-in-the-making-robots"
 type: article
 quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Detroit Lakes Online
-  domain: dl-online.com
+  name: Bemidji Pioneer
+  domain: bemidjipioneer.com
 
 topics:
   - AI in Robotics
@@ -40,6 +40,6 @@ related:
         height: 712
         isCached: true
 
-secured: "EIDB0avCUjv0n3Suh/gYLLyj3yCyNPiOF9prpGIT54/vfnD6aAhKXkR2N0NNrk6tntp41Z8z4PzICytA61yrctO6ZRnzq211tnU7x9X1QbdzVvzDsexTLUxaWxSWBRSWUy/+nZoFjvBBUkqMqkn8fHEq1kT3ZpAMrp7iXvN/biO7tZ+XyGcM7AZahL9Gn373PMTzgi438oPgnccwmwchRtWBtuovsz3a/tuzNcZuBH4BgqM8FF8jgmyLgjb8nV2zZuaZ0pSYyOKY8MoxVBXxl4d5IyDZZCNfdl4RLyTT0TDlyMUOhc+RgrhPz4bHzWqKhXcZRmWsbWE/rankK4NNKs4RsFg8dT6TjALNp/Ic4L8=;sX3nNnjvWa2xF01wVl2C+g=="
+secured: "qptnjxMgET6Ru4ncP1/8rAwPc7/xvTdL02glxDbBR5MjxOyMsIiveDaNqpngo5w5BGVtlwij2ids0FSfeBZH3WGE6U4mbGo5Eg5lAO5Z+eP3znewMIMfwq6yXPRQe2A82/2FdxOoJzpc69gjOADJ/i7ZStxzM0OwxoVyCPy6IP7wenxgJfnhlmFhP2e+MX5FzZq6A7bpR0Zelb6FzyYHFWgxc6XmiN7ZuXEdLUQZVbwM6t/c9EzxRGaR0MKIuUHhC3u+ey84YYMJ+MHQFIB2MrE4QIVL9/YfMbm9b6FY/5E0j0j0BLjyR/NN3mQ/LzUZvULURsvjMww4H6qYHrwv0nPazExGzmTU42TAlZdGH2E=;oWZBGQqmrsXhcQfKkUV6dw=="
 ---
 
