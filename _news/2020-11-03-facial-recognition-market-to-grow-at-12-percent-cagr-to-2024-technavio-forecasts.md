@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202011/facial-recognition-market-t
 webUrl: "https://www.biometricupdate.com/202011/facial-recognition-market-to-grow-at-12-percent-cagr-to-2024-technavio-forecasts"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -25,55 +25,48 @@ images:
     isCached: true
 
 related:
-  - title: "Face Recognition Systems Market"
-    excerpt: "According to Market Growth Insight, the Face Recognition Systems Market is anticipated to reach USD XX billion by the end of 2025 with projected CAGR of XX% over the near future. The report delivers thorough analysis of the key drivers, opportunities ..."
-    publishedDateTime: 2020-10-29T11:34:00Z
-    webUrl: "https://www.openpr.com/news/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth"
+  - title: "Facial Recognition Market will exhibit a CAGR worth 12% during 2020-2024 | Technavio"
+    excerpt: "Technavio has been monitoring the facial recognition market, operating under the information technology industry. The latest report on the facial recognition market, 2020-2024 estimates it to register an incremental growth of USD 3.35 bn, at a CAGR of ..."
+    publishedDateTime: 2020-10-30T08:11:00Z
+    webUrl: "https://www.oaoa.com/news/business/facial-recognition-market-will-exhibit-a-cagr-worth-12-during-2020-2024-technavio/article_6c58d87d-7061-50fb-a01c-6c306c2eab19.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
+      name: Odessa American
+      domain: oaoa.com
+    quality: 32
     images:
-      - url: "https://cdn.openpr.com/T/a/Ta29239767_g.jpg"
-        width: 750
-        height: 350
+      - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/1/be/1bec6827-3d6e-5642-8a5d-0fc634918000/5f9b93ad6b510.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
         isCached: true
-  - title: "Facial Recognition System Unveiled At LAX's Tom Bradley International Terminal"
-    excerpt: "A facial-recognition system to simplify the arrival of international travelers was unveiled Thursday at LAX. Mission Viejo Yogurt Shop Receives Overwhelming Support After Couple Threatens To Sue Over Face Mask RequirementA couple walked into a Mission Viejo yogurt shop this weekend and threatened to sue after being told they needed to wear a face covering in accordance with local health orders."
-    publishedDateTime: 2020-10-30T06:20:00Z
-    webUrl: "https://lasvegas.cbslocal.com/video/4832453-facial-recognition-system-unveiled-at-laxs-tom-bradley-international-terminal/"
-    ampWebUrl: "https://lasvegas.cbslocal.com/video/4832453-facial-recognition-system-unveiled-at-laxs-tom-bradley-international-terminal/amp/"
-    cdnAmpWebUrl: "https://lasvegas-cbslocal-com.cdn.ampproject.org/c/s/lasvegas.cbslocal.com/video/4832453-facial-recognition-system-unveiled-at-laxs-tom-bradley-international-terminal/amp/"
+  - title: "Technavio Research: Facial Recognition Market will exhibit a CAGR worth 12% during 2020-2024 | Technavio"
+    excerpt: "Technavio has been monitoring the facial recognition market, operating under the information technology industry. The latest report on the facial recognition market, 2020-2024 estimates it to register"
+    publishedDateTime: 2020-10-30T06:02:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-10/51101299-technavio-research-facial-recognition-market-will-exhibit-a-cagr-worth-12-during-2020-2024-technavio-004.htm"
     type: article
     provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 35
-  - title: "Global Cognitive Informatics Markets, 2020-2025 - Cognitive Informatics will become an Integral Component of Human-Machine Systems and Solutions"
-    excerpt: "The \"Cognitive Informatics Market by Technology, Solution, Sector, Industry Vertical, and Region 2020 - 2025\" report has been added to ResearchAndMarkets.com's offering. This report assesses the cognitive informatics market including technologies,"
-    publishedDateTime: 2020-11-02T17:22:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-cognitive-informatics-markets-2020-2025-cognitive-informatics-will-become-an-integral-component-of-human-machine-systems-and-solutions-1029753075"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/global-cognitive-informatics-markets-2020-2025-cognitive-informatics-will-become-an-integral-component-of-human-machine-systems-and-solutions-1029753075"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-cognitive-informatics-markets-2020-2025-cognitive-informatics-will-become-an-integral-component-of-human-machine-systems-and-solutions-1029753075"
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 22
+    images:
+      - url: "https://mms.businesswire.com/media/20201029006337/en/834930/4/IRTNTR44231.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "Global Artificial Intelligence of Things (Technology & Solutions) Markets 2020-2025: Market will Reach $65.9 Billion by 2025, Growing at 39.1% CAGR"
+    excerpt: "AIoT Market by Technology and Solutions 2020 - 2025\" report has been added to ResearchAndMarkets.com's offering. This AIoT market report provides an analysis of technologies, leading companies and solutions."
+    publishedDateTime: 2020-10-30T23:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-of-things-technology--solutions-markets-2020-2025-market-will-reach-65-9-billion-by-2025--growing-at-39-1-cagr-301164067.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 17
-  - title: "Global Speech and Voice Recognition Technologies Market Size, Share, Demand And Remarkable Growth Rate Till 2026 | Zion Market Research"
-    excerpt: "The Zion Market Research added a new report “Speech and Voice Recognition Technologies Market by Technology (Speaker Identification, Speaker Verification, Speech Recognition, Automatic Speech Recognition, Text to Speech, and Others), by Application ..."
-    publishedDateTime: 2020-10-30T10:00:00Z
-    webUrl: "https://www.openpr.com/news/2177025/global-speech-and-voice-recognition-technologies-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2177025/global-speech-and-voice-recognition-technologies-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2177025/global-speech-and-voice-recognition-technologies-market-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 0
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
 
 secured: "TCbQeNR8Jzj5P5cmDvKpkgwGvvuQz+FfwBxs0FWq0N3PQ2Nj9eGmps2/Hi5+VXxAaSktsncp5HsRViLm+iLVB/kAY5Vu2kCvM1+7RxAdPF+k2PnPrbEpdgyDSKCHGsj55FiAAR+7gpwZuYNzhNHIUsN1HBYAk11digw9hRDLJEM3cBVjai80QLhv8QS3SUajfH8Bihz2wIGO037gegPiqsAdtuWImzzmyAQrhx/lMZLxcZ6cXQI3asCwZQFboWhw3BHfbydfzaXr/j0dIHgzf1uqeI2LkqiMCjLFNdtn0DJmodX+KA+ZnUWaDMLbPgS6YNk+S5+lnjsb0XK0syfk78PYDSEM06DSQFqIY9pEYbl101ukQqMLEh94hNfBmDrSDcIzMcmhWbOY6Yllnff/RJFzQ633wleSgagClNBeYreXmRECdQ8vF9QX7bvl8qicWvl2/NpeifTPrmxSnY/M+IVTnRqKGMjxlxfMXu3nDIixh17QbUzNYM1oBitYmf0E19AuhKozKYp8xZkLbHlqVQ==;EKt7OhhKdVlR4aSJEtHNHA=="
 ---

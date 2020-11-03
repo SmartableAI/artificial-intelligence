@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Independent Research Firms Position IBM as a Leader in Managed Security Services"
-excerpt: "PRNewswire/ -- IBM (NYSE: IBM) announced today that the company has been recognized as a Leader in three market reports evaluating Managed Security"
+excerpt: "PRNewswire/ -- IBM (NYSE: IBM) announced today that the company has been recognized as a Leader in three market reports evaluating Managed Security Services Providers."
 publishedDateTime: 2020-11-02T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/independent-research-firms-position-ibm-as-a-leader-in-managed-security-services-301164156.html"
-webUrl: "https://www.prnewswire.com/news-releases/independent-research-firms-position-ibm-as-a-leader-in-managed-security-services-301164156.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/independent-research-firms-position-ibm-as-a-leader-in-managed-security-services/article_27c4d24c-ed5e-5313-b47a-f674bad667a3.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/independent-research-firms-position-ibm-as-a-leader-in-managed-security-services/article_27c4d24c-ed5e-5313-b47a-f674bad667a3.html"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - IBM AI
@@ -20,9 +20,9 @@ topics:
   - AI in Security
 
 images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-    width: 2698
-    height: 1414
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/da/dda7e99f-e470-54a0-afec-a29238bbefca/5fa014f749068.image.jpg?resize=400%2C209"
+    width: 400
+    height: 209
     isCached: true
 
 related:
@@ -38,6 +38,6 @@ related:
       domain: businessinsider.com
     quality: 66
 
-secured: "C/cCaM59/oPhTuhZGRTvKo7+aB9HzQHHgZ9kk0jlFsxtxaQu4cLPxNow/LGTv3vChHHe9UFqZ7WLF5LukdqjExvxAItpIvm2KGckr5goNApcy/vHAyT4ZoI7I81A3yZRKGuNtTZnnxE0FLjgThJF+TLKnlXr6O5ONnLgEMe6UmL8aXuFRapCGQa5E1jRDDjioed+88Fw/YvNiUeuJ5QFnp30GSHLRQKnv9oCezBEQL6k2mz4xQZIM7iyAut08zjMegcxw02YvyDypJx46AZ6amqtGTt+cqfIWeD8gcbcRaDVAWGnZ1zILxXmDX/HPzJR2sOXSunRpYgW1pnMxUf5ocvJYASzcqLTWIVr6NRjKlo=;JpN+/QVflgsr8qH5Tglv4w=="
+secured: "auycRpEYCX2kG7gi3kEr8EZHuWnR69z89+3LxEfm22HdwhdNKX+0Exo/OQXOUG1jJIb+xDv1fAem+7nR3GTSjuIakqSBCIpkyq1cp+0P4+W9q6RsusSUlyBHRIB4+kpmfPYgmMUyhMHZUAV0O0hrtstqm6dKiOIlc5UyFDGUU3BztNGx6lZ5LrRYmCJo5K2J7uxul0c+gkndB8oNiYDg5AEG7dw4ZdViHIScXhbe2wpdIp7WJRutRSKDULDQxklXKkSLClU8UyqOx2+SdiN4sDTX3RrIW1lSp+bZ6Or7GisnvOMvab76pRfKvnsXFd++eJBUAQ+/0pyHTFgyGlqeqsF2MYGV+4WHBiURDLMhm6s=;KOVBPi0keXYdMAH/BxULLg=="
 ---
 

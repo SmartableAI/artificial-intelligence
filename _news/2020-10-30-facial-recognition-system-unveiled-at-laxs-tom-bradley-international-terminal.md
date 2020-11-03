@@ -9,7 +9,7 @@ ampWebUrl: "https://lasvegas.cbslocal.com/video/4832453-facial-recognition-syste
 cdnAmpWebUrl: "https://lasvegas-cbslocal-com.cdn.ampproject.org/c/s/lasvegas.cbslocal.com/video/4832453-facial-recognition-system-unveiled-at-laxs-tom-bradley-international-terminal/amp/"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -21,58 +21,34 @@ topics:
   - AI
 
 related:
-  - title: "Face Recognition Systems Market"
-    excerpt: "According to Market Growth Insight, the Face Recognition Systems Market is anticipated to reach USD XX billion by the end of 2025 with projected CAGR of XX% over the near future. The report delivers thorough analysis of the key drivers, opportunities ..."
-    publishedDateTime: 2020-10-29T11:34:00Z
-    webUrl: "https://www.openpr.com/news/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth"
+  - title: "Addressing Legitimate Concerns About Government Use of Facial Recognition Technologies"
+    excerpt: "Facial recognition systems have generated a significant amount of controversy over their potential to create an unblinking, discriminatory surveillance system across the United States. A closer examination reveals that the best-crafted facial recognition ..."
+    publishedDateTime: 2020-10-30T21:28:00Z
+    webUrl: "https://www.heritage.org/civil-rights/report/addressing-legitimate-concerns-about-government-use-facial-recognition"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
+      name: The Heritage Foundation
+      domain: heritage.org
+    quality: 31
     images:
-      - url: "https://cdn.openpr.com/T/a/Ta29239767_g.jpg"
-        width: 750
-        height: 350
+      - url: "https://www.heritage.org/themes/heritage/src/images/bell.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Facial recognition market to grow at 12 percent CAGR to 2024, Technavio forecasts"
-    excerpt: "A new report by market research company Technavio has estimated a 12 percent compound annual growth in the facial recognition market between 2020 and 2024. The $3.35 billion increase will be"
-    publishedDateTime: 2020-11-02T20:28:00Z
-    webUrl: "https://www.biometricupdate.com/202011/facial-recognition-market-to-grow-at-12-percent-cagr-to-2024-technavio-forecasts"
+  - title: "Sophisticated Systems Supporting Deep Learning Projects at Preferred Networks Earn International Recognition"
+    excerpt: "Supermicro and Preferred Networks (PFN) collaborated to develop the most efficient supercomputer anywhere on earth, earning the #1 position on the Green500 list. This supercomputer, the MN-3, is comprised of Intel® Xeon® Scalable processors and MNCore™ boards developed by Preferred Networks."
+    publishedDateTime: 2020-11-02T15:03:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/whitepapers/sophisticated-systems-supporting-deep-learning-projects-preferred-networks-earn-international-recognition/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 34
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 20
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
-        width: 1050
-        height: 591
+      - url: "https://media.datacenterdynamics.com/media/images/Supermicro_Green500_list.2e16d0ba.fill-1200x630.jpg"
+        width: 652
+        height: 344
         isCached: true
-  - title: "Global Cognitive Informatics Markets, 2020-2025 - Cognitive Informatics will become an Integral Component of Human-Machine Systems and Solutions"
-    excerpt: "The \"Cognitive Informatics Market by Technology, Solution, Sector, Industry Vertical, and Region 2020 - 2025\" report has been added to ResearchAndMarkets.com's offering. This report assesses the cognitive informatics market including technologies,"
-    publishedDateTime: 2020-11-02T17:22:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-cognitive-informatics-markets-2020-2025-cognitive-informatics-will-become-an-integral-component-of-human-machine-systems-and-solutions-1029753075"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/global-cognitive-informatics-markets-2020-2025-cognitive-informatics-will-become-an-integral-component-of-human-machine-systems-and-solutions-1029753075"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-cognitive-informatics-markets-2020-2025-cognitive-informatics-will-become-an-integral-component-of-human-machine-systems-and-solutions-1029753075"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 17
-  - title: "Global Speech and Voice Recognition Technologies Market Size, Share, Demand And Remarkable Growth Rate Till 2026 | Zion Market Research"
-    excerpt: "The Zion Market Research added a new report “Speech and Voice Recognition Technologies Market by Technology (Speaker Identification, Speaker Verification, Speech Recognition, Automatic Speech Recognition, Text to Speech, and Others), by Application ..."
-    publishedDateTime: 2020-10-30T10:00:00Z
-    webUrl: "https://www.openpr.com/news/2177025/global-speech-and-voice-recognition-technologies-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2177025/global-speech-and-voice-recognition-technologies-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2177025/global-speech-and-voice-recognition-technologies-market-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "F7d7N5yB8ayyVhE+uxFxUGbplWh14bwPF754uEQWxkE0ykStsVrRx0xYXDo2hXqTpiDi5VKjqxGs1kmOAuERxmEpk5eOBakR2gmsvTrdiBB5b/6+5MIY4myt6jK4s7fFZmS1Yk7mpqP+82rlqA8oTuOqrHUFGIu84GacXQUIirefXuV1IeTHLenKGaEoHSiRUezHoB5/hxnPvoK25wkcuMe7zNHUlmSSz+IBiQ6bob/VZ0c+IcJiC82L0DkWVDIqwptUVUHAkhwj2aLptznW4Qumsidhd9tunkB50EKM/OrYdePdk4M/gFILd0KD5xa8GbakCYuDsMOxq5YrUVFdCqxAF9N3iMvn0H3t5hyEHmY=;Y+92ZaRldBx2Mu58Z9SFDw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/18120684"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18120684"
 type: article
 quality: 5
-heat: -1
+heat: 5
 published: false
 
 provider:
@@ -19,22 +19,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Global Image Recognition in CPG Market 2020 and the COVID-19 Impact on the Industry"
-    excerpt: "face recognition, product classification, and license plate recognition. The image recognition in CPG market in Asia-Pacific (APAC) is expected to grow at the highest CAGR during the forecast period. North America accounts for the highest share in the ..."
-    publishedDateTime: 2020-10-29T11:04:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-image-recognition-in-cpg-market-2020-and-the-covid-19-impact-on-the-industry-301162721.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 18
-    images:
-      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
 
 secured: "DSaL8kY8YMPn01gbCQrPdDcuHx8Of9ZoqhU/Pcz/bJFiGVs0Zsw5+V9/SIpdWIWUFHYQWMA7KslZf3m3Sdh2qF/jf+A3ZCBhZgoEjlvQHT3Jdkk7QKu7EZDWld+vQ3AegmYAI8GIZSTbhAX2iHQnqZ1Ugtg5ej/mYsoCTDGb3HKisEjKLGD4t34cW52bL8ka8I37z0t5EeEMvVqkMPN80vpQ/SqIZMNhjCIYAMGW2oAHl2YnfdHDftoS7SqgC3Jz0UFioQReiczS3fkgGeW6mcIgUq2NNMLObEU94PPTQC5r6gMWOxD/456gUivdgXIcobTfpUtO8U2LI0ltCA9HPToDTqOngLNJU2/fEI2RtKg=;4A1NKSEKg0KuQRB6u1NvKw=="
 ---

@@ -3,10 +3,10 @@ category: news
 title: "C3.ai CEO Tom Siebel on AI and CRM, remote learning's next breakthrough and regulating social media"
 excerpt: "Tom Siebel caught up with ZDNet to talk about next-gen CRM systems, C3.ai's Digital Transformation Institute, COVID-19 data lakes, education's next innovation and why social media firms need to be regulated."
 publishedDateTime: 2020-11-02T11:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
-webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
+originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
+webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
 type: article
 quality: 92
 heat: -1
@@ -75,6 +75,6 @@ related:
         height: 357
         isCached: true
 
-secured: "fXCOyH7z83TmYLgvjMNu7HqTnXWK9U1O60NcIxhhYpxLcr59nnu4X4WDPDae+yeyKdEwg+/VH5ha1yBBSioKnm0J4kOi2EFePaZIYVN7+uz2Yd9EOIVWONJok8OLf2nJ3Zplf2iO9S+hoz+B5liN6syzH9xd5jtXgIGqSmmJaitw5uG8mWVFQdR1EggOo17UeAVCvCQSFvob8ESR9+Plv4u8UlYXlT6IuUAjWKc73TjxQzzPh4UoJOgrj1/7dwan1tKwDVtC0kmflJmYeMkhXaxXtTNzrsN7VNtC3BkqcBCRIxomKgZAYvTl17HTPsiA4GwlWykp+IOMs06ZCdT80dNTLrZ91VjXf3KkPdiLuEc=;ycdSz3iIIzhW6sHGrUEzTg=="
+secured: "r7HCwKIDX2Q6+TB6UDqAtNOJBgc5avCuvNGY8vsqIu/KNC93sdd4i+9INwJLsMDherM/tuLb8tGdDDseaD0CfI1hLVZ2SwkP+k4yDm7tdvpRXMLP9/EnUoen/sUnxHYBHVeBYZK4nUT0G1V+vIgJfcfRy85bpfyehz8xIS9w8i/eRq0Cf0BjvkksnRlJnMvQgdyFd/qgr/kIu13DeYAeYH9z7LGBWt8LM/kTbABb3e1ahdia/8LYgDn+dXS8OaZqvZaB2DU94kDHj4y79Fi+b46/pgvJwBcpjSFLU+JBmHTQkN6VC86QZ7GserxjlwmdaGfBbexzFwdiYnihUERVw1jJiMLac7AKQu2Y2OZxSJ0=;Ci1VfSVe6FkvzJWsEzbDvQ=="
 ---
 

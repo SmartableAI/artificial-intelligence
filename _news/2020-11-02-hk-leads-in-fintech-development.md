@@ -7,7 +7,7 @@ originalUrl: "https://www.news.gov.hk/eng/2020/11/20201102/20201102_105902_909.h
 webUrl: "https://www.news.gov.hk/eng/2020/11/20201102/20201102_105902_909.html"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,17 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Powered Digital Communications Platform Remitter Announces New Partnership With Fintech Infrastructure Developer Alchemy"
-    excerpt: "Remitter USA Inc., a U.S.-based AI-powered digital communications platform, announced on Thursday it has formed a new partnership with Alchemy Technologies (Alchemy), a fintech infrastructure development company."
-    publishedDateTime: 2020-10-29T12:35:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/10/168544-ai-powered-digital-communications-platform-remitter-announces-new-partnership-with-fintech-infrastructure-developer-alchemy/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/10/168544-ai-powered-digital-communications-platform-remitter-announces-new-partnership-with-fintech-infrastructure-developer-alchemy/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/168544-ai-powered-digital-communications-platform-remitter-announces-new-partnership-with-fintech-infrastructure-developer-alchemy/amp/"
+  - title: "The ‘Fintechization’ of Everything: The 7 Hottest Fintech Trends in 2021"
+    excerpt: "We all know that 2020 has been a total paradigm shift year for the fintech world (not to mention the rest of the world.) Our financial infrastructure of the globe has been pushed to its limits–as a result,"
+    publishedDateTime: 2020-10-30T05:30:00Z
+    webUrl: "https://www.financemagnates.com/cryptocurrency/news/the-fintechization-of-everything-the-7-hottest-fintech-trends-in-2021/"
+    ampWebUrl: "https://www.financemagnates.com/cryptocurrency/news/the-fintechization-of-everything-the-7-hottest-fintech-trends-in-2021/amp/"
+    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/cryptocurrency/news/the-fintechization-of-everything-the-7-hottest-fintech-trends-in-2021/amp/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 13
+      name: Finance Magnates
+      domain: financemagnates.com
+    quality: 43
+    images:
+      - url: "https://www.financemagnates.com/wp-content/uploads/2020/02/fintech-industry.jpg"
+        width: 880
+        height: 400
+        isCached: true
+  - title: "F|T: The FinTech Times – Toeing the line"
+    excerpt: "a weekly newsletter covering the biggest FinTech news from around the globe. If you want to read F|T before anyone else, make sure to subscribe using the form at the bottom of this page. Wealthsimple has tapped Paul Teshima, the co-founder of Nudge.ai, to ..."
+    publishedDateTime: 2020-11-02T10:59:00Z
+    webUrl: "https://betakit.com/ft-the-fintech-times-toeing-the-line/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 24
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2019/05/fintechtimes-1-1-1-1-1024x575.png"
+        width: 1024
+        height: 575
+        isCached: true
   - title: "Crowdsourcing startup wins FinTech Frontier pitch competition"
     excerpt: "A Pittsburgh-based startup won FinTech Frontier’s inaugural pitch competition, and here's what the company had to say about Cincinnati."
     publishedDateTime: 2020-11-02T17:37:00Z

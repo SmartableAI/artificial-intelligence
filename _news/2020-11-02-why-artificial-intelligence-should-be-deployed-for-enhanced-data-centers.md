@@ -6,8 +6,8 @@ publishedDateTime: 2020-11-02T09:30:00Z
 originalUrl: "https://jaxenter.com/artificial-intelligence-data-172898.html"
 webUrl: "https://jaxenter.com/artificial-intelligence-data-172898.html"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://jaxenter.com/wp-content/uploads/2020/08/shutterstock_10521283075.jpg"

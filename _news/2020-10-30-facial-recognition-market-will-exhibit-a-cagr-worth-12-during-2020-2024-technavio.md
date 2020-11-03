@@ -7,7 +7,7 @@ originalUrl: "https://www.oaoa.com/news/business/facial-recognition-market-will-
 webUrl: "https://www.oaoa.com/news/business/facial-recognition-market-will-exhibit-a-cagr-worth-12-during-2020-2024-technavio/article_6c58d87d-7061-50fb-a01c-6c306c2eab19.html"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition market to grow at 12 percent CAGR to 2024, Technavio forecasts"
+    excerpt: "A new report by market research company Technavio has estimated a 12 percent compound annual growth in the facial recognition market between 2020 and 2024. The $3.35 billion increase will be"
+    publishedDateTime: 2020-11-02T20:28:00Z
+    webUrl: "https://www.biometricupdate.com/202011/facial-recognition-market-to-grow-at-12-percent-cagr-to-2024-technavio-forecasts"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
+        width: 1050
+        height: 591
+        isCached: true
   - title: "Technavio Research: Facial Recognition Market will exhibit a CAGR worth 12% during 2020-2024 | Technavio"
     excerpt: "Technavio has been monitoring the facial recognition market, operating under the information technology industry. The latest report on the facial recognition market, 2020-2024 estimates it to register"
     publishedDateTime: 2020-10-30T06:02:00Z

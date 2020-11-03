@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/press-release/workday-delivers-data-managem
 webUrl: "https://www.nasdaq.com/press-release/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing"
 type: article
 quality: 52
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -33,20 +33,6 @@ related:
       - url: "https://img.cpapracticeadvisor.com/files/base/cygnus/cpa/image/2020/10/Workdaylogo.png.imgw.720.720_1_.5f9c308d5ac0a.png?auto=format&fit=max&w=1200"
         width: 1000
         height: 1000
-        isCached: true
-  - title: "Amesite Launches New Plug-and-Play Course Creation for Remote Learning and Business Training"
-    excerpt: "PRNewswire/ -- Amesite Inc. (Nasdaq: AMST), an artificial intelligence software company providing online learning ecosystems for business, higher education, and K-12, announced today the release of its new Course Manager capability,"
-    publishedDateTime: 2020-10-29T10:55:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-professional-services-educational-technology-distance-learning-b34d01cc63aa616bd1f8afa546adc91b"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 28
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Workday extends platform for financial organisations"
     excerpt: "Workday Accounting Centre is now generaly available and Workday has also powered up Workday Adaptive planning with ML based forecasting."

@@ -3,8 +3,8 @@ category: news
 title: "Microsoft & Others Catalog Threats to Machine Learning Systems"
 excerpt: "Thirteen organizations worked together to create a dictionary of techniques used to attack ML models and warn that such malicious efforts will become more common."
 publishedDateTime: 2020-11-03T00:32:00Z
-originalUrl: "https://www.darkreading.com/vulnerabilities---threats/advanced-threats/microsoft-and-others-catalog-threats-to-machine-learning-systems/d/d-id/1339354?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple"
-webUrl: "https://www.darkreading.com/vulnerabilities---threats/advanced-threats/microsoft-and-others-catalog-threats-to-machine-learning-systems/d/d-id/1339354?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple"
+originalUrl: "https://www.darkreading.com/vulnerabilities---threats/advanced-threats/microsoft-and-others-catalog-threats-to-machine-learning-systems/d/d-id/1339354"
+webUrl: "https://www.darkreading.com/vulnerabilities---threats/advanced-threats/microsoft-and-others-catalog-threats-to-machine-learning-systems/d/d-id/1339354"
 type: article
 quality: 56
 heat: -1
@@ -89,6 +89,6 @@ related:
         height: 480
         isCached: true
 
-secured: "5CSoyDeV1aYaK9DQeLLpi7Skmn//XNAJ3cyDeLrr4I/KZ2ejHg7FahhvTEVQoAb9BI0hjeMcRS55+mKb31sJiwsm1HyNqrw2kObnsnNn3C637KqNP4icJshKMxBU7HHMPfolzI5gU5TbdEtWx+3Mon3Voh51oPJoAB7Wz2o8R+fKS1jgakWrHrreuBQUu0h+qxUcSJ1mxH43M5EYJE4MDAuD/giYhqXi5Iol6Oo6iX493tC3qh3IQyNkCoClx9WQreUh79fiPlWEqMWKEi1DL/XOBz/MZvbp/xo9Xc8cQORWvstLpE1UCdo8R8D284RdonLJz5UcxPpzvtie47u4VojpAi4DUX4I6C71NTCoON0=;ZGnGty+Xpykoe6hHiY6tkA=="
+secured: "CBZB9/Xmr3IWJTv0QRvNuchmFCjGeVNrNysK59lgYNyVN5mFUnSntv9awPbSHz31LVz8SpZNVlMraQJkmzD5vgM3ZLX8hEt3xmsinla408ivr9t9Zk+5LcL6B45//CjjIMZplDlFnEd9399sLPWlJ4ufKzuhUO2dooqgX3AA7Uk+HxzwcobFUOB6kQfM7PmzEk5Ec8GwZSUvTCN8SoqXIDhBqbRcNW6P9i/XkY0+ZmxCSf2RVLVUZmpHqKRmhUW70mip/dhscwBnkZXDEtOyARWBm5CbxJqval4fIU0pKJN+3vQb/rLY5Dbv3CU1ATyJhTUVak0hqUVP4jmSrk9g5jsi4diYcW8k33n+zbB9sww=;yLAmVUoioCo/RTIbMA6Omg=="
 ---
 
