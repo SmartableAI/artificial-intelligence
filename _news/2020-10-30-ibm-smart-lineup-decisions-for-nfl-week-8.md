@@ -2,7 +2,7 @@
 category: news
 title: "IBM Smart Lineup Decisions for NFL Week 8"
 excerpt: "That's where IBM Insights comes in, as they use Watson AI to break down all of the content you're consuming and then some. And by \"some\", I mean every inch of the interwebs. Below are the ..."
-publishedDateTime: 2020-10-30T13:00:00Z
+publishedDateTime: 2020-10-30T13:10:00Z
 originalUrl: "https://www.espn.com/fantasy/football/story/_/page/smartlineup201030/ibm-smart-lineup-decisions-nfl-week-8"
 webUrl: "https://www.espn.com/fantasy/football/story/_/page/smartlineup201030/ibm-smart-lineup-decisions-nfl-week-8"
 ampWebUrl: "https://www.espn.com/fantasy/football/story/_/page/smartlineup201030/ibm-smart-lineup-decisions-nfl-week-8?platform=amp"
@@ -26,6 +26,6 @@ images:
     height: 729
     isCached: true
 
-secured: "Io+Tvv+1KlnpE6UkiAr5QtABAd15wPcX/hA/2lDH0XjfvvAN0GUv+gqqjm6wWNv82ZcIBRE0rg3ydQ3fFawYmmMp7Q3SxWm7PGZ+IMVAl21C3DJfcLEFOkK/HAkzwvBjUVKXrkowv8lSHwmNmvooajfmusRVgBXQG5KWStTIoEtm3CXNkMHpnOiCeywScL35H8gidX/5eNfMDIuls1wtqGdw6RbrnaJr/cJLXZhM8tkhDiAxdj56NUjBwxJp90q7MXCMww9E+jHGVdiyH3ztI0Cy4j+Ph/j2BAXUchhNuDjsuAZKCcrRn6kBAbP7WzSogMEXySmzGB/XOPP8KjAlrMUGNX9Ydab/7UkTYrykN70=;mB1D7XNwa1lbUxHICVOZfw=="
+secured: "pa7ExeKhuVTpTG1uenHnhZaluI8h27huY7NXEPu0IX9NyEXXFn6CNe+5xnQHZRJuwemIJpeifa6iQOejj0KQQBaMAA/9yQDiqetz35gG3MM2jZRNnqn3D5YD4ZTeG5UE98oNSt98y9GGdamdslrEZIz7fCxv/ihDzauUQc4myA0OmGe+dw/JtLP1AVuDKr+QcoEIQttMoWvV+mmR0QO/edGKPWRq9++HjSRaeJcMhcN11ms9Nm9tyV1bsoSyFj4XzRTKtzqTrgYhG3wozRMocvyhqgBje3XSjUjUpwKdayVvI5jYB59pfWxuIQySlLz1d0/NgjoeyqCGv4R4NOkPQ0c1Iuyq2c9+TwEHnZCfk9E=;24hG7tuzyTDc4xekd8L2Xg=="
 ---
 

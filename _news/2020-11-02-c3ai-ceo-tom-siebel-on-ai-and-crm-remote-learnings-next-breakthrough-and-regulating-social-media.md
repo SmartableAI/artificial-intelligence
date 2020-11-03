@@ -3,12 +3,12 @@ category: news
 title: "C3.ai CEO Tom Siebel on AI and CRM, remote learning's next breakthrough and regulating social media"
 excerpt: "Tom Siebel caught up with ZDNet to talk about next-gen CRM systems, C3.ai's Digital Transformation Institute, COVID-19 data lakes, education's next innovation and why social media firms need to be regulated."
 publishedDateTime: 2020-11-02T11:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
-webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
+originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
+webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
 type: article
-quality: 90
+quality: 92
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - Microsoft AI
   - AI
   - AI in Sales
 
@@ -74,6 +75,6 @@ related:
         height: 357
         isCached: true
 
-secured: "5XfNWOGA17Z1xTyRFo7hQpHdC54NssoJdZfImTPTxFtpABup4qitMQx1nKnfaVIlLav0j+KlG9aM/yyBNMX8HsSFa4W9OPBsl4DrYvSrc3dgptJLkPQXnr2Z7g68nnuuo28cD732sltVFt5+g01Ndf07e+ZafNjI5myPj09bu8VN2kRVXoa3p4NnDR9rRRD0EMporA/Vj+X8hHj1RkN3TCDJiEU77mPGBwdB8Y9RYLneqQ9VhplibbjX4csgq8niKGkuheJY+v1jyQYwZmsJPjm0Gc/HI7OCWK911RL+3/FJazBzdshMJkzKty6yq6Xc9iFscDnvziOHNTdjTpuLR5+FztJQEDHnDEk6R/PkMZA=;fPvwfcxeTsvu4YzUu36w8g=="
+secured: "Zv2FBi+V5AQUXk4zA+5FycGy/pFa896irloniW4VuM1QZtIQQ3fK2JJ0GpHZM16l6avfJhhmtVLCLfYNxgt6SNlyJ/KQWBUUFbR/fuHwbtvXjvarMUS1LWy8Hxt0x0DfaK/OIVJh8Ulbjq+FrLJy6llEquitkP58wKUmNGQQ8ICdhB3j5u849YE9DJqNmBxh+u7oI/8Chxr3S28YvVKqKsdFXl/0kh96xR82vfdbE8WJcWyRncSCFnv2SFtPEIQOCNoSjxmmuLp/A2moBtGhlrWx2HCPGrqJTW97zeggClk1MbmZmVsYUdlymJKNWXY7gwH1lVol3JS0ahfxkS3WBs+vkJWWNDqBXTSKHCYcBp0=;M6tI7PridjydugJF1+oXNw=="
 ---
 

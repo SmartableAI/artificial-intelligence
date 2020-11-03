@@ -1,10 +1,10 @@
 ---
 category: news
 title: "NotMilk Is the First Alt-Milk Made Using Artificial Intelligence—Here’s What’s in It"
-excerpt: "Unlike other alternative milks that primarily focus on one ingredient (like almonds, soy, or oats), NotMilk was created by using artificial intelligence to understand what cow’s milk truly is at the molecular level—then recreating it with completely plant-based ingredients."
+excerpt: "Matias Muchnick is the founder and CEO of NotCo, a food-tech company committed to using artificial intelligence to create plant-based foods that taste and behave just like animal products."
 publishedDateTime: 2020-11-02T22:51:00Z
-originalUrl: "https://www.wellandgood.com/what-is-notmilk/"
-webUrl: "https://www.wellandgood.com/what-is-notmilk/"
+originalUrl: "https://www.wellandgood.com/experts/matias-muchnick/"
+webUrl: "https://www.wellandgood.com/experts/matias-muchnick/"
 ampWebUrl: "https://www.wellandgood.com/what-is-notmilk/amp/"
 cdnAmpWebUrl: "https://www-wellandgood-com.cdn.ampproject.org/c/s/www.wellandgood.com/what-is-notmilk/amp/"
 type: article
@@ -25,6 +25,6 @@ images:
     height: 676
     isCached: true
 
-secured: "3UZcQFTR4xgVJ/Wobpeaw4KgPdCJFavLKN/BR5WjtQx27ahgCyeOAae2nJJpGds6Ay6vvZ9Erm2L0/bvrWZ8U6qqtnHKj4G4Zc2ZopminGDQ3q3KyFTgapRutEMERK0MczSij4ylPDApmYUeESFwusmgIxYiXHyLDrqUFD7e/9pB6/oHsMh/mdzJCYf8pKkzluDNDKnDLdVSlIo8Ge9+aUG1SXkZnAHqKrUJ8fPXoE35dgZ2IdG5H1d0wd93eN8H4OIDk+JhV8JJ7ZJM8ZOGs2CpUxWjeCWUWI30B6+RthhB1b3m1XHD6HPVlyjn7xILF4Z5ZcBhFuK2+OfJZcqximvdVf48R1F7D9k7Zs5j5qQ=;iOfi2kGnSAtTktxrYyf+mQ=="
+secured: "aQQAv/dUH+GXKlvmVIEBU30Gtl8ECLE6aZEiQTcULROa8HRRMmH+rpKVNWDaL2SFZTeC3NONJyECt6UqyKrgNP7AXJxuOHZu4ch1ZhB6FFvuskMyoGbXPtlJqpUHMfzCk5/D19/n9QHl4pUjYnkfzzZnG0PXXHdmQUzfkPiDkN2wusuneLPnIsGOPIL/0R9EBURbtc8gouSyI4LkEvZ/LiBfnTjy5rRQyCNe8mA/S7/uXWlieKjJEvp5Mskvsv+hwS0OQu/wDU8ISALCV1Jdyaa3Bwq9+eU0dNiwirA7Jpln1sJZEeQrXWBfsPNICwt/zfVDORns/zHKofKcc75830hQan9E+LiRm7+QuXqCsuk=;Rr02W9Eqr8wlWOMlMnB8xg=="
 ---
 

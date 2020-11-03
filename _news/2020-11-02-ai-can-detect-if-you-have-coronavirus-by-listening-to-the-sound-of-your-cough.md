@@ -136,6 +136,22 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "MIT working to launch app that uses AI to detect COVID-19 in coughing sound"
+    excerpt: "This groundbreaking study could provide a convenient screening tool for people to test for COVID-19 at home, or those who may not know they have the virus."
+    publishedDateTime: 2020-11-02T21:41:00Z
+    webUrl: "https://abc7news.com/technology/mit-working-on-app-that-can-detect-covid-19-in-coughs/7583846/"
+    ampWebUrl: "https://abc7news.com/amp/mit-covid-test-app-cough-19-research-study/7583846/"
+    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/mit-covid-test-app-cough-19-research-study/7583846/"
+    type: article
+    provider:
+      name: ABC7 San Francisco
+      domain: abc7news.com
+    quality: 55
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/7587100_110220-kgo-covid-test-generic-img_Image_00-00-02,00.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Now Artificial Intelligence Can Detect COVID-19 by Listening to Your Coughs | Check Here How"
     excerpt: "Also Read - WHO Chief Goes Into Quarantine After Contact Tests Positive For Coronavirus Researchers have confirmed that an artificial intelligence (AI) tool that can detect if there are any indications in a human’s cough that could point to a COVID ..."
     publishedDateTime: 2020-11-02T10:09:00Z

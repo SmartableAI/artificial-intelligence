@@ -191,6 +191,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla is going to expand Full Self-Driving to Canada and Norway next"
+    excerpt: "Elon Musk confirmed that Tesla is going to expand its Full Self-Driving beta software to Canada and Norway. As we have been reporting extensively over the last few weeks, Tesla has started pushing an early beta (alpha really) of its “Full Self-Driving” software."
+    publishedDateTime: 2020-11-02T23:33:00Z
+    webUrl: "https://electrek.co/2020/11/02/tesla-expand-full-self-driving-canada-norway-next/"
+    ampWebUrl: "https://electrek.co/2020/11/02/tesla-expand-full-self-driving-canada-norway-next/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/02/tesla-expand-full-self-driving-canada-norway-next/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 89
+    images:
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-FSD-update.jpg?quality=82&strip=all"
+        width: 2774
+        height: 1122
+        isCached: true
   - title: "Watch Tesla Full Self-Driving Beta’s performance from the sky with scary near-miss"
     excerpt: "Today, we take a look at an interesting new video showing Tesla Full Self-Driving Beta’s performance from the sky in a new drone video with a scary near-miss. As we reported last week, Tesla has started pushing the first version of its “Full Self-Driving” feature that autonomously navigates on both city streets and highways."
     publishedDateTime: 2020-10-30T16:18:00Z

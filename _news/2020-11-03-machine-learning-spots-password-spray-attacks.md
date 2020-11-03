@@ -6,8 +6,8 @@ publishedDateTime: 2020-11-02T20:36:00Z
 originalUrl: "https://gcn.com/articles/2020/11/02/password-spray-detection.aspx"
 webUrl: "https://gcn.com/articles/2020/11/02/password-spray-detection.aspx"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2017/October/loginscreen.png"

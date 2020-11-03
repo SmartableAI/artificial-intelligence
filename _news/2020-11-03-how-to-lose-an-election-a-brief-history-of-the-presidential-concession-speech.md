@@ -7,7 +7,7 @@ originalUrl: "https://www.npr.org/2020/11/02/929085584/how-to-lose-an-election-a
 webUrl: "https://www.npr.org/2020/11/02/929085584/how-to-lose-an-election-a-brief-history-of-the-presidential-concession-speech"
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     height: 787
     isCached: true
 
-related:
-  - title: "Applying computer vision to natural history collections for ecological, taxonomic and conservation research"
-    excerpt: "Research focus. Recent mass digitization efforts of Natural History Collections (NHCs), pioneered by institutions like the Natural History Museum, have given scientists across the"
-    publishedDateTime: 2020-10-29T06:38:00Z
-    webUrl: "https://www.nhm.ac.uk/our-science/courses-and-students/computer-vision.html"
-    type: article
-    provider:
-      name: Natural History Museum, London
-      domain: nhm.ac.uk
-    quality: 21
-    images:
-      - url: "https://www.nhm.ac.uk/content/dam/nhmwww/our-science/courses-students/phd-2021/computer_vision_full_width.jpg"
-        width: 1160
-        height: 435
-        isCached: true
-
-secured: "O9oPzTcHKSWnFrsgxZtFpTRXpp2GgG5vxlsoMnQTF92k/7Om5XUrBTTo2b9jv/pBJaFsP4+j2v/HvmS27gGMbk/APW5b+15aDo2cpmeZmHM2Gc6Mmts6bNl7dmXlysaCfRrTe1YY7UDvaHHh+mfgCijLXRKKufl9/hlnsPs5FKOqyKjEYC7a08BwdYTUWQp/tgzWw+HJDnM+7Y5GWPFQZdzQ306o2+xt00Cubl87gYP92QfIkltXCzm7RFVIgUnjk7hCE9BJmgebYY9MROUUrgdAF5e/6DQTrDyh6fuih5y0DMYFsmpbohl73AeMeJme+TY5CoYb1Yl5BsoSIR0YOxVrSCgXshKlBXDc3QQlAD4=;0OWDN2aDwMn5rK6G94pe2A=="
+secured: "4UNUKl6kHJSK6lU24zdx0+BHIY/7gHDLrZ/JxRsT5HIe/MifX+OUJlHnME84aqfAYsud8riEL5n4y0tve5YvYMaFhwgmICWceIcBKLxQR76OqIXKEBTSn89cUYJ73TZI+lEQUsJbgShcJOgndq7YgO9JkRPULXEtWARY/selgdo7ETNdptR0gI0ikrigi46ArONRNmqjI4xoYacu5kXyXXb6D/2hdtXmU6CqHJE5n5JXkoxmbYrQNeTXDAyiRKyQHlap3WI0jB3xgjZ61bdEY2k74zSxglROspjkb+wQUtFbsxoKDH5ohA49SwSWln4f+MuA7uC7y8w33ah3rnRWzcZsB7zvUiIJponyAPNLRRCWriHLzFd1Cul4kEjSj0tGqfs3kYc9sTWbPdLPwP+gko8XwPqqPkg14lsqDANFvyOU5rFi1g/Jk1KkSCRA5a9QrQluVR/nLS5JbR25dC7GS7LYwPkYprglRein9q5YuHywb1bxY/fvE1rI7N6s9CSNuWZNF6wOivaiHpHUFEJpJQ==;u9KhjXJ6kbSQjvNflqJUKQ=="
 ---
 

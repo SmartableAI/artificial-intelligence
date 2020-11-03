@@ -54,6 +54,22 @@ related:
         width: 675
         height: 422
         isCached: true
+  - title: "Facebook Wants to Give You Superhuman Hearing Using AR Glasses"
+    excerpt: "These researchers want to solve the \"cocktail party\" problem when it's too damn loud to hear the person you're talking to."
+    publishedDateTime: 2020-11-03T00:37:00Z
+    webUrl: "https://futurism.com/neoscope/facebook-augmented-reality-glasses-hearing-aids"
+    ampWebUrl: "https://futurism.com/facebook-augmented-reality-glasses-hearing-aids/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/facebook-augmented-reality-glasses-hearing-aids/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 44
+    images:
+      - url: "https://wp-assets.futurism.com/2020/11/facebook-augmented-reality-glasses-hearing-aids-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Facebook’s threat to the NYU Ad Observatory is an attack on ethical research"
     excerpt: "Facebook may defend its actions on the grounds of user privacy, but its real concern is losing control of how the company is scrutinized."
     publishedDateTime: 2020-10-29T13:03:00Z

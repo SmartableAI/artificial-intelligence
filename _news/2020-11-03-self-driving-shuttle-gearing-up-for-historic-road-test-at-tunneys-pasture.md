@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Self-driving shuttle gearing up for historic road test at Tunney's Pasture"
-excerpt: "Ten-day pilot project pilot project will see a six-person electric vehicle travel a 1.5-kilometre loop at speeds of up to 15 kilometers per hour."
-publishedDateTime: 2020-11-02T22:46:00Z
-originalUrl: "https://www.obj.ca/article/techopia/self-driving-shuttle-gearing-historic-road-test-tunneys-pasture"
-webUrl: "https://www.obj.ca/article/techopia/self-driving-shuttle-gearing-historic-road-test-tunneys-pasture"
+excerpt: "A self-driving shuttle van is set to hit the road at Tunney’s Pasture in a first-of-its-kind trial for Ontario. Photo courtesy Invest Ottawa"
+publishedDateTime: 2020-11-03T00:17:00Z
+originalUrl: "https://www.obj.ca/index.php/article/techopia/self-driving-shuttle-gearing-historic-road-test-tunneys-pasture"
+webUrl: "https://www.obj.ca/index.php/article/techopia/self-driving-shuttle-gearing-historic-road-test-tunneys-pasture"
 type: article
 quality: 22
 heat: 22
@@ -24,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "CijXgVQAMNu4jTnDgbYs3jtDoZ+2c3wUm6lZKJFA9fejbz+VnbHCqrRQAtW8d2eldp8c70g9MGaK+oQzyqBfYfVqpX2ZHCLJHCrQF/xueVcenmWxyIe2VyfZtDLZV5Mqv2gMt+KdmW+sHVnt9EONw3ttWCmIR53xLGLmmd01KjOGgrTa+opxqNEsSIeyDJilNpezMTV2LyLlJS62/AY5rKWkNMO8qVhjL18lZJRkcHA4rGlqQQGtsk6G8VrbnSrISotThXgcdRfMBLy8JBaIZx+t325sMHcAd/U+L1fy8K7I1LWweWgsWPvplJmSoF71lku6nWrXMZCwjfS8VRnsDcdZbmCRWzhYbMy3VOVtRdg=;w2zQEw3bu+zbLi8Aw0tEzw=="
+secured: "En3OidVc58Dxh8HEhLaADOfzA/skLf7vAF91/OI1+Gtou0cgsQPp084dKbAFbnoXpV7zNCnVuXd1hLyMaSEQc1n+jmf4FEMmrMGSjqfPk7i+eM/tr5kDuQ/LXqvz/airQYzve1l8qOkJFc89ZitIiQJeNG+ZSNgUfT2EVgwXb/h3m2nF9+KXtJYWaUMmUfp0+Ur8EeEKYU0ASsY5jB280S6u+Lrm7deRKcept35Ym0DtCWkxXk9EZ2D7RW4L5rmx+Ey06mcw2Km+aY43bdEUYmrp3uEbJ3TNEhKEeF0gL/SnZwXYXLkJVGDuBqqKMqJkifJzWUB7y8cKv9nOEja7zZAzQo/463fNEuKHmmsVHBo=;szWtvF8nUf2La0K0HJVBHA=="
 ---
 

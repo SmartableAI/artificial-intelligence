@@ -77,6 +77,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Microsoft & Others Catalog Threats to Machine Learning Systems"
+    excerpt: "Thirteen organizations worked together to create a dictionary of techniques used to attack ML models and warn that such malicious efforts will become more common."
+    publishedDateTime: 2020-11-03T00:32:00Z
+    webUrl: "https://www.darkreading.com/vulnerabilities---threats/advanced-threats/microsoft-and-others-catalog-threats-to-machine-learning-systems/d/d-id/1339354?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 56
+    images:
+      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
+        width: 600
+        height: 600
+        isCached: true
 
 secured: "abmuxpsbdopL3qdC1DowwFb/nMzFHZntOrsAn7VISshcZ3x22vPqQZ/Dm7yK422YhR08B+fqR5vez2sz/e6EXZjssjOu05oBFprF4lGMGtlGFpZ6Ms7FdKgNIjiM2wraSeqWNbFsksLgIig/UJ7q0wkUW5sq0+UeUI63t2oPTWdAY/Abyw268VQ+j+UN/THQDlHFresOtgIH46XiJN8X+N0HSkL3OeW4aYzMjX/yqWTE3yWFWDXRUzJkY83KkyZNRhNVu6qWFyGDywts26DBrRg19mojgaqF8CsS51OLlim6Q/u+g6LxCtbXjVy91WLvuc+r+Cf7cozlA/WYXIny0tm6zvQRQZTBt1d2XGK5OxAAAcLJHj60Dsju4c56Hao5yGm8DKcaxaeWXK58i/96qnCI1xVmzgHp5mx9jivag23DU6WTfhLPl1qnNQL4wePImc6DBoym/PekUaFpu/YTLwNeqyEzhDF4bitMXOmTIwkqm3bQZKA/yhuJlMT+dO3NkqZm+ysjdQniYFd6Bkd78w==;ydc67733EfKpvgChrrs2vw=="
 ---

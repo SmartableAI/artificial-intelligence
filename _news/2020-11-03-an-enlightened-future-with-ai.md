@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-02T21:50:00Z
 originalUrl: "https://www.linkedin.com/pulse/enlightened-future-ai-imtiaz-adam/"
 webUrl: "https://www.linkedin.com/pulse/enlightened-future-ai-imtiaz-adam/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFh5BNx5U2Vlg/article-cover_image-shrink_720_1280/0?e=1609977600&v=beta&t=0X7_yjbOj4s0sXVSK49Raku6erVHawRL_q-3W6o79ow"
@@ -45,6 +46,6 @@ related:
         height: 431
         isCached: true
 
-secured: "MqPTdaMj1wfleHfRQbpViSWXqfy1s6s9rpj0G5e5Hm9Id9V1LfYe6lbrzngUKB7rN+XM1CzphNaW3LiKvaexs/Dr14U4q43PsEz5FFjn7OQI3zFEt8O+y+9NHuHCmgfy2C3kQh6C+PHQZHSqBTk/hDRRrOig7gxq1NCpd5dalY2NYVgFSaazPJlSMTSuuGFJJkCaX4OmqzN9YfuRQFIdsrefYYeDAuDyZf+HIRyCLEPOgs3BzDMNXm4AqtE434XfNJVsCIpAxBpWfy5WKgkKSMqvVP/7tCc+9k5kw5r7voNcyCyNHtGzjPBM0btJ2OI4jsllfH2smV8EBoP8GIvG3U8NqPuvrO3YwWYcTpDyEp8=;IMg19oybg9BxOpOzsLr5Pg=="
+secured: "qO2Z//YXLiAEzSM4v0uKTPuvWBv4X+csLpMUXxM39M6Nj11BaFw4tdtAX2XghAycopLwxWePtlXTgW7Hy5RXIYCwOGD7Ki7sP2w49fABAWzsVIHAVoCkNzyuaQzhHoofzyzXWogBt+Bh6189sOvqanayHG3hO15amYQm8C56yiMp9dsvr8qJ9a9h3YmahZ0WYZd7dnrmlHKMcMETYF4pXvqmMCn1FRDi7+cmsrCAHuv55dYv+QK+S/tcNLYyveotQG8GQUWV2339Eo8Fruo+5Mo9DFdYYLcdT0EaKIGmf3JfRXa95PNtbQe+jeQB04aYd9AbCFSZSrlh0RrWL2zcDPHwu6+CJZ83X1jGSOpx3oAQ/VDyRZ3+Qb/qI5qUZYPOH7cdwfGyt8sZNA4Heg1po7R24s0E1oYTdZ+usjobrOIvMHzZT5nRIhe8UTjnVx81RrxLgeOz3/CCQfLKGsmwcnO6DQShT52iZ9i7HmNFpKnU3bAlo9FLqmUn9lRi49bVHYsThrsbFjwpBoZ2RjkAJQ==;yHdJqRJtgXETMoWtNA5Tfw=="
 ---
 

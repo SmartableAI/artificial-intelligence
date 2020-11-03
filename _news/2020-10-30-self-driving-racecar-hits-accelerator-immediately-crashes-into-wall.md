@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Watch a self-driving Roborace car drive directly into a wall"
+    excerpt: "Roborace team SIT Acronis Autonomous suffered an embarrassment in round one of the Season Beta 1.1 race after its self-driving car abruptly drove directly into a wall. It’s not certain what led to the mishap, but track conditions clearly weren’t at ..."
+    publishedDateTime: 2020-10-29T15:36:00Z
+    webUrl: "https://www.engadget.com/roborace-self-driving-race-car-drives-into-wall-142758048.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 54
+    images:
+      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fb825ca40-19ed-11eb-bb3b-04bd00ecab5d&client=amp-blogside-v2&signature=254fb6ed3de8a2aa597ee4257fa5042443c273a1"
+        width: 945
+        height: 630
+        isCached: true
   - title: "Self-Driving Race Car’s Run Ends With Immediate Crash"
     excerpt: "What happens when the high-tech world of self-driving cars meets the high-stakes world of auto racing? The answer, it turns out, is not particularly optimistic for either one. In a year that’s seen auto racing of all kinds,"
     publishedDateTime: 2020-10-30T21:41:00Z

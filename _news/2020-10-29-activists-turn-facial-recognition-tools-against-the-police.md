@@ -2,26 +2,26 @@
 category: news
 title: "Activists turn facial recognition tools against the police"
 excerpt: "In early September, the City Council in Portland, Oregon, met virtually to consider sweeping legislation outlawing the use of facial recognition technology. The bills would not only bar the police from using it to unmask protesters and individuals captured in surveillance imagery;"
-publishedDateTime: 2020-10-29T16:16:00Z
-originalUrl: "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html"
-webUrl: "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html"
-ampWebUrl: "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html?outputType=amp"
+publishedDateTime: 2020-10-29T15:55:00Z
+originalUrl: "https://www.chicagotribune.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html"
+webUrl: "https://www.chicagotribune.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html"
+ampWebUrl: "https://www.chicagotribune.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html?outputType=amp"
 type: article
 quality: 74
 heat: 114
 published: true
 
 provider:
-  name: Orlando Sentinel
-  domain: orlandosentinel.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.orlandosentinel.com/resizer/jlVG6BaC3imlBR23jhCY0p4V30U=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NAX6PDQO4JFFFFIXWI6JRI6B3A.jpg"
+  - url: "https://www.chicagotribune.com/resizer/jlVG6BaC3imlBR23jhCY0p4V30U=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NAX6PDQO4JFFFFIXWI6JRI6B3A.jpg"
     width: 1200
     height: 801
     isCached: true
@@ -90,6 +90,6 @@ related:
         height: 300
         isCached: true
 
-secured: "IFTBFkBQqs50gJnIlPeTeAaLCgIGWqclNXVtADfanauaxRjnL/Kw0VobHkJ7WsXgYYZQgTBuoekjGRImS6+0tyHOEndq9nvw1RBH80+QWRKkU+mMGHhRzS5sx6xzD7wm7rIZAnyuoPyyzmCggq/hCby2gSxr8DdFQAlyb8H3+vDkl6OOrJnHf2VxY/Ppj2npLOng66DPAQo9HJw1J9nmsKJjj3L8f6Z4M9UIf2WKMBFS4XdUZiGcSf6RklAbzJh74GErFU/wMdhMItVJWXclWl268N0O33f0xT9uCA4iJmFZ3fKUY7A/kN9Qfy88pTcscIfg9BipPAKNZ/diYKJxS+9FwUrx93VTJA/oIEh7A/4cfNUj2NqeHar5Dk3pbUf0pVSZ2IMbEgpOkPGS0Kox6bBB00hx236X+JY/wJUDhAiTwSg5V1Ij6IO3mAvvx2Z77AHsZgH57M/n1/8t108fnnTlLZkdb91JOWU5Bxzz9qyAxPhZ0ljWnwoqQ6HaMiKwGXmsaSctJrHxpM/baXG68A==;7zbNCyPYTszvvBerKv6dqA=="
+secured: "GVJZMbOXPUNipvKnZw3J6U4vPG3Vc1+5PcbN0me0LL/31eqE2gSYjGShP7vbeCE80nEa53XsrdJLwJwOzFj4FXqiVOUQtGhTMPnZWtHOIvI6+sT5hmT3u5A4OKDEUPLC+7ELuBLcYlG2HJ8sWGYef/Of/xBug/NzR6VB9BYaovtejxcei9WgcHBSzqazSjDFytzQicDQtlTqUIibRDrARL6PX34S8LDDesY0mnPIZZCTnE8e62cF4n6EMUxkWliqnp5y3Jf3Kc26DGO6rKizuPXO7d9/8jBDxqSy7lnqfN27Vj+wfdboYEHi87BaYNBAmhsO66NFOqTeBWiVrm7/BQ9YKElAOSaD3ggoFkYCOh8=;4Scco8v/4az8kRIl4xMlRw=="
 ---
 

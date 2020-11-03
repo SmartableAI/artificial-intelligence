@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Facial Recognition Market | Increasing Instances of Identity Theft to Boost the Market Growth | Technavio"
-excerpt: "Increasing Instances of Identity Theft to Boost the Market Growth \\| Technavio. The global facial recognition market size is poised to grow by USD 3.35"
+excerpt: "Technavio has announced its latest market research report titled Global Facial Recognition Market 2020-2024 (Graphic: Business Wire) The facial recognition market research analysis identifies the increasing instances of identity threats as one of the primary growth factors for this market."
 publishedDateTime: 2020-10-24T02:15:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20201023005397/facial-recognition-market-increasing-instances-of-identity-theft-to-boost-the-market-growth-technavio"
-webUrl: "https://www.morningstar.com/news/business-wire/20201023005397/facial-recognition-market-increasing-instances-of-identity-theft-to-boost-the-market-growth-technavio"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-virus-outbreak-biometrics-lung-disease-crime-9929454d476f4533b12c36217c36675e"
+webUrl: "https://apnews.com/press-release/business-wire/technology-virus-outbreak-biometrics-lung-disease-crime-9929454d476f4533b12c36217c36675e"
 type: article
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20201023005397/en/833010/4/IRTNTR44231.jpg"
-    width: 480
-    height: 271
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "Lnyi1ibRyFl09dughqnmI08XotqgaX9mLjpkaRB5urRqoAOkdSXtsUSA5RbfLLRDWZ+lwfTnpJAgrjP9ih/thPPC2le3bvL3qGXa3lR/OL/ot0ok8PSEf9pw2u1qjr1WeE2KBouMjaDt3qhedVstXW4Nas5LIahD4x6eIibUfqOLTQrzI4bdOef6E7uiiqSEZSexNEVnS32/CTyG6cg9SpITSLLA6OHyQTeNh9OXMuyrscCykrnqVg1LCIdnLIRhCoC/4iwXjl9PcA7a7nyNUsp6dM4yq87yfZcPg+l4izK+ITgPz5prSBtB3IlFufJgZ/k20XKvr2PXZmtxWUOcQbQ9EHU4QB/TVc3Xof1VSRI=;BxXE3kdr8xLPa5pBlszmnA=="
+secured: "XvwzB9wIESf6+Qt3jkyZniG1ridsNeT8GGOsKGVDx6KbNQ07DdqnSCsJpqYYMy4yECEShSEW9byoVF8qN48vKqjqpOGz5kZY6kMeZX1Wf6DM97q6+mKxoekV2fS2Sv7oNScnTBnNwPnqYMsiVvPTSSo6vKqu69GOnnukpFQSHWphdqgsT/UJRUwbWcJ6OakSp9Y5NtA+t+VoLpl+6b9Bgu9TnuqMGfoAd3WhvHMlrCerpKPJR74+c+XuQAjnXRDG937ro2cPHHIgtoi2MdR+Wdc21wh8sHkcIHA95rlmR+ms/LUGY9KEhc2caEJmYjm7hW3H+QaWLaJj05wfNH3MeT8kSdc4pwgVAVR0afwd2YM=;5CXN7FLynogTwidFPt0ClQ=="
 ---
 
