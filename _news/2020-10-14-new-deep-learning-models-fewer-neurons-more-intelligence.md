@@ -1,26 +1,25 @@
 ---
 category: news
 title: "New deep learning models: Fewer neurons, more intelligence"
-excerpt: "The team says that the system has decisive advantages over previous deep learning models: It copes much better with noisy input, and, because of its simplicity, its mode of operation can be ..."
-publishedDateTime: 2020-10-14T15:03:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-10/vuot-ndl101420.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-10/vuot-ndl101420.php"
+excerpt: "its mode of operation can be explained in detail Artificial intelligence has arrived in our everyday lives -- from search engines to self-driving cars. This has to do with the enormous computing ..."
+publishedDateTime: 2020-10-14T04:37:08Z
+originalUrl: "https://www.sciencedaily.com/releases/2020/10/201013124054.htm"
+webUrl: "https://www.sciencedaily.com/releases/2020/10/201013124054.htm"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
+  - AI in Autos
   - AI
+  - Machine Learning
 
-images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
-    isCached: true
-
-secured: "VXVg5H+uhucel/OQ0OpE5Hs1rivvt41CcyFvJvzQt2WKWYrCXMvvjeaqrshuMX/K2qbtJ7VqUJUPXj+IPQVw6pa06PZsu3iw69RRIo4GQ0/HvosF0PpvuEqdmmF+0w/25qZj2yimO0LpyAltJmzfWHGzPqDwV3qgdhDK4EZZOGQoKEXQ4h9w0SPoNjPZx8xzex+kSbNW4dDM1/qLqeNwWmFd7X3SWSAOg7QwmijCX5hEubF3h+ZInMrGg7OssWldFs2BrK9xFKvWMsNqgll/f+g7pjidSRu8XP0VXmeO0bKQhC9LoEeQW0l9g4x9MSW/CQ9+p4FmUxAkbtuWygoVOv/Zlpd8DcsFuCt3tPdSrIM=;bUcKuGNaAirdM7lBMVFX3g=="
+secured: "N/IW82JHj9VHKx91n06i62CmsacZ9BJjFNVrNa9RctxhX4J8sWgEuhl/Hnit2/l3A+Pp3czXmz/AIdDVNdNtnTfmiaIDI+OzGDe1lhb0zMBv0j6IG2iLhQ3AqljK34qG0TIAZzFFF7exnPBPmKk44NWOOnCC+zl3EpX33TJyXDZ3PdGZOcdvCGxolVxcwxGRc11qFNTA5o8Y7jhSBrDioi2aWzzN3xSnkgosn0X9ldlFqbBB1RUFHiiPC9SFk2sedKUQDnX1UhCPZy53j7xhoAnWoXHktUgCe3KJV7Atm3osaHpPKnWN/J/KKgbQ/8x2bf/R5GJ5UaacKB2ke0OQ4HU0w/QtZndKA6MWeJsxoM4=;mpgpuK08yIZuCRo0Yr6O4g=="
 ---
 

@@ -2,25 +2,19 @@
 category: news
 title: "SoftServe Achieves AWS SaaS Competency Status"
 excerpt: "SoftServe, a leading digital authority and consulting company and Premier Consulting Partner in the Amazon Web Services (AWS) Partner Network (APN), announces it has achieved AWS SaaS Competency status."
-publishedDateTime: 2020-10-27T11:00:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-6624e051066646899a781527d9d9b3d7"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-6624e051066646899a781527d9d9b3d7"
+publishedDateTime: 2020-10-27T11:25:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201027005054/en/SoftServe-Achieves-AWS-SaaS-Competency-Status"
+webUrl: "https://www.businesswire.com/news/home/20201027005054/en/SoftServe-Achieves-AWS-SaaS-Competency-Status"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "YSaFG48/4tUBj2GPfTUmZsnZDmMZ46vvWbKrKGnrywUZ/lL5BRL6RPgm9OS/hW8wk/hCfiO99uVV7D5tmB19Y0QuyxAny7XKha+4xvQAyLm2Oj/kCdcxQu/LNJynCpQRBggEjklC9/Jc1AU8SkTDZja4RRY6/pI6zuK3arZRAfvNxfKG8MMMWZtsWgHcIUlnUTC+3R5TiLfTmHH/zeNbTAwVYaigGCOE9/iUisUCIctdjbIMQbR2UOQFqSIKDQ2iBo98kAKwdbsx+1VhSx43u1G80Vg2MxnHQXGn7HU6UX1IUvRFnKVlujGpebS5Brqs2vge95S2087tcwwmykoTOfnszGIQ7ipXc/GeC4mhk5E=;aJFdgN4iYgBRHzgHFB9CAw=="
+secured: "OuRojFKvzQej3epsGgDY7khZPKsNEp2OyrEq+3tGM1qhK5vVuObSfa3TIDY7N5+GeGLPI8eHuGbbZZODfCTziz8eeV3zmGgtqyLvoB7VZ3nf0iT322vlsiMqmFE1cQDv41rEBp5ibvJGXOK/rvCunmViajjL4oAqszzA0CUTWDXIJrRiQaoI/Nxn6riGW33pHvuu8eZII9+HzPEN0I+vuuGP+lZvSf3Gwpiuzq0Otvi+2BpcHfOIuFIY5St7eSJy/2/Q4NzIvPsvper/JqKh3HlHGMTi847POE3Bsyaodohlal2DbDyTidDykBoEYaUxpxjMhVkL+f+S3B1motrMGsrKzpKphkhnCreCiWxGviJVWLgOjCLj4IZx2WmSTkLDN77Jn1m3cq+H1gjDdN1RQKvaHb9+Rkw+e/k8D1iaDz+Jyz9UYA/IqAlwkUwVMgJNnq8siTMpwr687XIZSfC56ictAAl+KsOiITcX9Xa+FKfsdjJs+7PdOo22PooB174VkeQUGpuqgLZQsJxM6ekU/w==;3FmB8mmO/9qaBAv3/QVePg=="
 ---
 

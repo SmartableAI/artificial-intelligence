@@ -1,29 +1,24 @@
 ---
 category: news
 title: "Cazena Launches Instant AWS Data Lake to Accelerate Analytics Migration to AWS"
-excerpt: "Cazena today announced the launch of the Instant AWS Data Lake. Production-ready in just minutes, the Instant AWS Data Lake is the fastest and most cost-efficient solution for enterprises new to AWS or struggling through months-long DIY data lake journeys."
-publishedDateTime: 2020-11-02T11:33:00Z
-originalUrl: "https://www.morningstar.com/news/globe-newswire/8076708/cazena-launches-instant-aws-data-lake-to-accelerate-analytics-migration-to-aws"
-webUrl: "https://www.morningstar.com/news/globe-newswire/8076708/cazena-launches-instant-aws-data-lake-to-accelerate-analytics-migration-to-aws"
+excerpt: "This experience includes seamless connections with AWS solutions including EMR, Athena, Glue, MSK, S3, SageMaker, and more. “Getting cloud data lakes off the ground continues to be a major ..."
+publishedDateTime: 2020-11-02T11:07:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/cazena-launches-instant-aws-data-lake-to-accelerate-analytics-migration-to-aws-1029752392"
+webUrl: "https://markets.businessinsider.com/news/stocks/cazena-launches-instant-aws-data-lake-to-accelerate-analytics-migration-to-aws-1029752392"
 type: article
-quality: 35
-heat: 35
-published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://ml.globenewswire.com/media/01d142b7-f49c-4259-a776-52da66a0c71b/medium/instant-aws-data-lake.png"
-    width: 300
-    height: 215
-    isCached: true
-
-secured: "1N36Dy8chnFqF1fcssEXSE6TUZX7bChzHvAJAbNBQc7crss33kj2H2mCLJ8S3vSvM0XyIgWr/wCAbuoop3ah4S0+4NAv6K3mXc17vB8d9XKggIhbgayh99leZI3pT7hzYFq30uIKEo0sDN46/DuOxF+oKR6CjiXH/rI2+PGZaZjEYKMU2BVHtISxsEph6i+xVaczFga/6bZNTxvAV0iIWoBYR3/eIAnuBXA5gSu91ze+sqWPlizzb3UAeMN6lfElwX55zqwOYEAvHsVDiCw/BGagdiegyxlCA/wn3ypObKhpBl2khxwmIijsyCXIz4N3EAFBv6p2061EWsY8ycwSV55B2ZwPvKFNCECW4ahSb1s=;+fkN7rV/AMHsq1SQRfvApA=="
+secured: "zmDFnKWh2CxurSHRJxVNirvTGs60NmY0MMV7glXrhxGQBzyfJSuShdhiksJWeK1huxkfU+GcaCoMFMUY9PYzgYGHYZ560snlqmu0m2GV6uvFMczbm/F5oriwx56HLOZCXt67KnXT01p8YeR8qGbVUZHNmB0mtX1zhWCGapNLnpXkQS4GPSJZb2BJ+XW4GSokEI0NKJiyqKFKgf5cWBMsFAlfpnWVfgWayz58gFuQQkEuPpOUBi6mqnMGyQ7Dxo4sDjVTa4usEJm3W2e2h9sId4JxshTbBJJTqrrC7xh2M5Up74mgK6XS+ZZWsaFR1Qr4kJ1kzizHBoirbzZLkm5d4IfN0xe7hp7xZ9e0vqfniz8=;csevgF2ntrTW05g7CFACAg=="
 ---
 

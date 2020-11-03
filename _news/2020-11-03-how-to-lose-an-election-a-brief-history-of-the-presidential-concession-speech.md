@@ -1,29 +1,20 @@
 ---
 category: news
 title: "How To Lose An Election: A Brief History Of The Presidential Concession Speech"
-excerpt: "There's no legal or constitutional requirement that the loser of a U.S. presidential election must concede. But the public concession speech is an important tradition, perhaps now more than ever."
-publishedDateTime: 2020-11-02T20:01:00Z
-originalUrl: "https://www.npr.org/2020/11/02/929085584/how-to-lose-an-election-a-brief-history-of-the-presidential-concession-speech"
-webUrl: "https://www.npr.org/2020/11/02/929085584/how-to-lose-an-election-a-brief-history-of-the-presidential-concession-speech"
+excerpt: "Presidential campaigns are essentially dramas, and for the past century, the moment of closure has come in the form of one simple act: the public"
+publishedDateTime: 2020-11-03T05:44:00Z
+originalUrl: "https://www.wshu.org/post/how-lose-election-brief-history-presidential-concession-speech"
+webUrl: "https://www.wshu.org/post/how-lose-election-brief-history-presidential-concession-speech"
 type: article
-quality: 20
-heat: 20
-published: false
 
 provider:
-  name: NPR
-  domain: npr.org
+  name: WSHU news
+  domain: wshu.org
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://media.npr.org/assets/img/2020/11/02/gettyimages-514881786_wide-58b9b63b3a375451769027cc9cf178e943d80c96.jpg?s=1400"
-    width: 1400
-    height: 787
-    isCached: true
-
-secured: "4UNUKl6kHJSK6lU24zdx0+BHIY/7gHDLrZ/JxRsT5HIe/MifX+OUJlHnME84aqfAYsud8riEL5n4y0tve5YvYMaFhwgmICWceIcBKLxQR76OqIXKEBTSn89cUYJ73TZI+lEQUsJbgShcJOgndq7YgO9JkRPULXEtWARY/selgdo7ETNdptR0gI0ikrigi46ArONRNmqjI4xoYacu5kXyXXb6D/2hdtXmU6CqHJE5n5JXkoxmbYrQNeTXDAyiRKyQHlap3WI0jB3xgjZ61bdEY2k74zSxglROspjkb+wQUtFbsxoKDH5ohA49SwSWln4f+MuA7uC7y8w33ah3rnRWzcZsB7zvUiIJponyAPNLRRCWriHLzFd1Cul4kEjSj0tGqfs3kYc9sTWbPdLPwP+gko8XwPqqPkg14lsqDANFvyOU5rFi1g/Jk1KkSCRA5a9QrQluVR/nLS5JbR25dC7GS7LYwPkYprglRein9q5YuHywb1bxY/fvE1rI7N6s9CSNuWZNF6wOivaiHpHUFEJpJQ==;u9KhjXJ6kbSQjvNflqJUKQ=="
+secured: "fT3ibiRQSjKmUlZ8djDhtXzZxT48IaHyOTJERNvxGZ8Hqf1N6rPKXgs1AfLLDOs9/ltLmLqrUubD7HNEP8mIl+L0LNb/5aO9rbEpRgji+9lvKLEa4/w78u5RzFd9bSuMYaIJurHAsE0kEckbB7py3TRdYMc+1102L+x+pAvCH0dKS1od2OtU9JhQ5HXag1W3oEBfsJvlZFkXMPaToOc1ZHgtO5ry/NiFnWLvksdtrDawN4fNQhI6QbGSpNFYy9ef06W/DGVdxJqg+XXgbFydhFFxDT+qqP7HueZODgjiOjX6sODwamZfy97U5jyKlzYPL9RGB1GemIPRh8+lqbmyGGJG6Ut8OGj4grue9lVaOnYfce7i2FAeRuSdfQNNEI4LwjGf+8Q8GIEa+hEsg4m9xunKoJ7Z8sz75QmNc+SfvsV05lJqy56f46ghXBBW43MkdST0FpFrAgZhkFLhsksfYJBebEGcYEgFBEBlwIAq2+swSlGxn1rMPbx2J1jFvwyctBzPSNEyehdgtpWsjRNnxw==;uZeIJEqJZOPKRVMgZtbP/A=="
 ---
 

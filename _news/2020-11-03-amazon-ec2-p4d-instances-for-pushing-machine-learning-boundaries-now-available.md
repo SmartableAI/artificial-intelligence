@@ -5,12 +5,7 @@ excerpt: "Amazon Web Services (AWS) has announced the general availability of Am
 publishedDateTime: 2020-11-03T00:34:00Z
 originalUrl: "https://www.zdnet.com/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/"
 webUrl: "https://www.zdnet.com/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/"
 type: article
-quality: 80
-heat: 100
-published: true
 
 provider:
   name: ZDNet
@@ -24,36 +19,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "AWS Launches Nvidia GPU-Driven EC2 P4d Instances for AI, HPC"
-    excerpt: "Amazon Web Services today announced the general availability of Amazon EC2 P4d Instances powered by Nvidia GPUs with EC2 UltraClusters capability delivering 3x faster performance, up to 60 percent lower cost,"
-    publishedDateTime: 2020-11-02T00:00:00Z
-    webUrl: "https://insidehpc.com/2020/11/aws-launches-nvidia-gpu-driven-ec2-p4d-instances-for-ai-hpc/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 71
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2018/05/aws.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "AWS Announces General Availability of Amazon EC2 P4d Instances with EC2 UltraClusters Capability"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) P4d instances, the next generation of GPU-powered instances delivering 3x faster performance,"
-    publishedDateTime: 2020-11-02T22:00:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-science-amazoncom-inc-government-business-and-finance-bb2a7d8e344a468fb811088f430a4147"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 41
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
-secured: "meHJQejeB64ZZquwkkqgTB8+IIE739uhFMA40ga1KnAktsuwM9KsLDrewFUJV0jutOR8qiQ67DC42fcfH39ByQdy/kzLMCjDJdZbo/GNBUAjfyqhBIGzDZ+CJhd72ePxsDTXSwFb8m9PgXdpmRbLWV4EH8qUvCdnnsXlIQTlFf2WH5BaUMAJNc4rooj9U86ELlrjrxmY90xnWSWA6TjFce6LrIBKTZX7Dqt7WHEmiz+7SA3Jxe/5Bf4cAaWmtg4vxJO2bzN7kOCxXcjQ9HW+fzaJ55UhxKLUCEXCsht3URa72fAHt2lK7t7k16oKX+pBP8f3RVNdUOqbWbKGbafe2kVEtTBM9VaNMuiw36wGhPnP+x1ALV5IcBQGfazTsXU1O3xMJhrQOSa5jFtoJZPBBzz9FL13I7yniePEJ2m5eLuzdgpiKx+sEmxYOcPakdB7waofyiu9QcqtRM06rdCAYBEIc7BxmP7Bl4VkgPdiF0hJ4yqByg2U0btRi2pX1YMcAsZk+4+3PHvRU7IXxZFcJA==;J83JpEm6o99Y7qhaUDAIOA=="
+secured: "7X7BunpzS7OVJOgmGOAeOOeYu98QMalO57/z8DH34eSnxzIYjHxepeMek06RqeIv03VY8zF39qIgLdgDkBjha9bSgHbYwR7D8hjEIlGLJp4frl1Ue9az0MICGjhaX7YRo7D9MJt3E8K9xiAsGjrTuxOx9D3Qh26WBUCVUIMDpGxXd7oYZslZzm7+GmE4WOjqDH6aX5e1XrXA9sYfSRsuotXuIjwSwhwHoQWG401HLJFpfGGkI1y7Na4MbEu6AScFvvvDU+AHG7cOP4Q3BdVvrsSpITee0HHFw9YtmssFuc2yCLPz0Bin/9MuO+pI5wfwPCigK6/2Pn5zX3xb0iHCMR436eu8zhrGhldyKeO737tR+OTiWoNmzBgKR6bSTrn0ksF2C0JVeurvCMW9hNdxIrRvmZ4k0X+uZfZeVNmiYOhJkSeW+sjy/LSYlTD+zI02SroL5F1hByOun8UCL0qFJ2nA4iUhfr3Gy+0J97qxkMeiHdK8bvVa39ar64vnDV8adB098lTV22hlgcEly6XtRg==;49wLY3dKE4LCtT77oOur4g=="
 ---
 
