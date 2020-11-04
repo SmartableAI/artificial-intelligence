@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/info-tech/ai-led-recruitment-pl
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ai-led-recruitment-platform-turbohire-raises-1million-in-seed-funding/article33002585.ece/amp/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 615
     height: 384
     isCached: true
-
-related:
-  - title: "AI Startup Skan Secures $14 Million Through Series A Funding Round Led By Cathay Innovation"
-    excerpt: "Skan, the AI-enabled process discovery and operational intelligence, recently announced it secured $14 million through its Series A funding round, which was led by Cathay Innovation with participation from Citi Ventures, Zetta Ventures, Bloomberg Beta ..."
-    publishedDateTime: 2020-10-31T02:27:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/10/168613-ai-startup-skan-secures-14-million-through-series-a-funding-round-led-by-cathay-innovation/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/10/168613-ai-startup-skan-secures-14-million-through-series-a-funding-round-led-by-cathay-innovation/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/168613-ai-startup-skan-secures-14-million-through-series-a-funding-round-led-by-cathay-innovation/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 47
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/01/Money-Dollars-Benjamin-5-600x450.jpeg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "knJXXHdujIMvUJOo4xCvAPE4ZGNr5w9usg5dYcp85XoVxInU7jNCjDjyAmIR8QzyOsdYq7we4oE7TsPl0ZHBMiu38R1fvWGLvW30kG6BUryZQwrvc1tkxIAbNKRx2cb2Q/StDU55jfhQJL1IwAC2GNQd6YuLfHBjBBeHanF/9CIt+lTtyTGtsYCh4G8XjEGvh9jOi67WRtaMUkl+eSu6lprI8MsOaaunVGLrj61tqeqEgOOwdBAPv8rAkiOjh/xnwzTF2+lHpilSF04CXgldvFF4ichTNZlwGOKwLaE3Tc0oxTiFxupzKs/PIvMKOzE2UY6dINjBS0wIPHQ7xhSCk/o0ZKCWYAvapTihcnERDeE=;6eX34Rg2U+cUaLVmpqSctA=="
 ---

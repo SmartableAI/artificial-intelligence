@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Portland, Maine bans police from using facial recognition software"
+    excerpt: "On Tuesday, citizens of Portland, Maine passed a ballot measure banning use of facial recognition and surveillance technology by law enforcement, the Bangor Daily News reported. The Portland City Council had banned use of this software by police and city ..."
+    publishedDateTime: 2020-11-04T20:01:00Z
+    webUrl: "https://www.cnet.com/news/portland-maine-bans-police-from-using-facial-recognition-software/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/portland-maine-bans-police-from-using-facial-recognition-software/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/portland-maine-bans-police-from-using-facial-recognition-software/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 104
+    images:
+      - url: "https://cnet1.cbsistatic.com/img/gwmoAi0S4eDXJo6Rbg_tTnsJSgc=/1200x630/2020/05/01/bff6e427-0240-4ffd-bfbb-40db6bab6b46/security-facial-recognition-contact-tracing.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Portland, Maine citizens vote in favor of blanket ban on facial recognition tech"
     excerpt: "Privacy: Facial recognition technology has always been a source of controversy in the tech community; no matter how it's used. Police departments across the US have expressed interest in using it to identify and catch criminals, and companies use it to ..."
     publishedDateTime: 2020-11-04T15:36:00Z
@@ -43,6 +59,22 @@ related:
         width: 1680
         height: 1120
         isCached: true
+  - title: "Portland, Maine Voters Say No to Facial-Recognition Tech"
+    excerpt: "Portland’s city council placed a preliminary ban on facial recognition in August, but this ballot initiative is stronger, banning its use for at least five years."
+    publishedDateTime: 2020-11-04T19:56:00Z
+    webUrl: "https://www.pcmag.com/news/portland-maine-voters-say-no-to-facial-recognition-tech"
+    ampWebUrl: "https://www.pcmag.com/news/portland-maine-voters-say-no-to-facial-recognition-tech?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/portland-maine-voters-say-no-to-facial-recognition-tech?amp=true"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 89
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/02jkcfGv7F5wOe0wYXAs1Hi-1.1604518622.fit_lim.size_1200x630.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Portland, Maine Voters Ban Facial Recognition by Police and Public Officials"
     excerpt: "However, when voters in Portland, Maine went to the polls on Tuesday, their overwhelming support for a facial recognition ban was more surprising, possibly signaling support for wider bans to take hold across the country."
     publishedDateTime: 2020-11-04T17:08:00Z
@@ -58,6 +90,20 @@ related:
       - url: "https://www.insidehook.com/wp-content/uploads/2020/11/surveillance-cameras.jpg?resize=1200,800"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Facial recognition ban for local police with private right of action passes in Portland, Maine"
+    excerpt: "A ballot initiative to ban face biometrics use by local police and agencies in Portland, Maine, and provide a right of private right of action to individuals if it is violated, has passed"
+    publishedDateTime: 2020-11-04T20:14:00Z
+    webUrl: "https://www.biometricupdate.com/202011/facial-recognition-ban-for-local-police-with-private-right-of-action-passes-in-portland-maine"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 42
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/05162022/social-media-databases-facial-recognition-police.jpg"
+        width: 960
+        height: 540
         isCached: true
   - title: "Portland bans facial recognition tech use by cops, officials"
     excerpt: "The US city of Portland, Maine on Wednesday voted to ban the use of facial recognition by police and city officials. The Bangor Daily News reported that voters passed a ballot initiative \"bolstering a ban on facial recognition by city agencies\"."

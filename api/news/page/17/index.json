@@ -2,6 +2,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-10-20-biped-robot-maker-agility-raises-20-million.md",
+      "title": "Biped robot maker Agility raises $20 million",
+      "excerpt": "(Reuters) - Agility Robotics said on Thursday it raised $20 million in funding, in a round led by Silicon Valley venture capital firms DCVC and Playground, as two-legged robots start walking out ...",
+      "sourceUrl": null,
+      "webUrl": "https://fr.reuters.com/article/us-robots-agility-funding-idUSKBN2701GG",
+      "originalUrl": "https://fr.reuters.com/article/us-robots-agility-funding-idUSKBN2701GG",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2701GG",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2701GG",
+      "publishedDateTime": "2020-10-20T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-a-playful-take-on-the-serious-harm-of-facial-recognition-teens-young-adults-from-yr-media-and-stanford-dschool-design-a-tool-to-erase-your.md",
       "title": "A Playful Take on the Serious Harm of Facial Recognition: Teens, Young Adults from YR Media and Stanford d.school Design a Tool to “Erase Your Face”",
       "excerpt": "BIPOC youth, girls, and first-generation college-goers are among the most under-represented in tech and A.I. specifically, yet they have the most to lose when design fails to lead with racial, gender and economic equity.",
@@ -1142,50 +1185,6 @@
         "AI in Autos",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-torc-robotics-scaling-self-driving-fleet-with-daimler-trucks.md",
-      "title": "Torc Robotics Scaling Self Driving Fleet with Daimler Trucks",
-      "excerpt": "Torc Robotics will scale its self-driving truck testing in the Southwest in early 2021 using an enhanced prototype truck developed with Daimler Trucks North America. This new generation of ...",
-      "sourceUrl": null,
-      "webUrl": "https://steelguru.com/auto/torc-robotics-scaling-self-driving-fleet-with-daimler-trucks/564415",
-      "originalUrl": "https://steelguru.com/auto/torc-robotics-scaling-self-driving-fleet-with-daimler-trucks/564415",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://steelguru.com/images/ad_image/Go-for-Gold_500x250.gif",
-          "width": 500,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-19T23:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Steel News",
-        "domain": "steelguru.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

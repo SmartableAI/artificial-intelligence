@@ -2,6 +2,49 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-10-14-kb-home-launches-company-wide-ai-powered-chatbot-platform-designed-to-deliver-a-modern-real-time-online-customer-experience.md",
+      "title": "KB Home Launches Company-wide AI-powered Chatbot Platform Designed to Deliver a Modern, Real-time, Online Customer Experience",
+      "excerpt": "KB Home launches company-wide AI-powered chatbot platform designed to deliver a modern, real-time, online customer experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201014005255/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20201014005255/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201014005255/en/668370/23/New_Logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-rbc-rolls-out-ai-based-trading-platform-to-global-clients.md",
       "title": "RBC Rolls Out AI-Based Trading Platform to Global Clients",
       "excerpt": "Royal Bank of Canada is launching an artificial intelligence-based electronic-trading platform to clients around the world, starting with an algorithm designed to help reduce trading slippage.",
@@ -1147,49 +1190,6 @@
         "AI in Healthcare",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature.md",
-      "title": "Tisane Labs' Solutions on Microsoft Azure Add Wikidata Extraction Feature",
-      "excerpt": "Tisane Labs, a supplier of text analytics AI solutions, today announced a new feature in Tisane API, already available on Microsoft",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-301151377.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-301151377.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-13T10:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

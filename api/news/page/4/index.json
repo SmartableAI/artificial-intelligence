@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-31-intel-iris-xe-max-gpu-arrives-in-11th-gen-mobile-chips-to-boost-gaming-creation.md",
+      "title": "Intel Iris Xe Max GPU arrives in 11th-gen mobile chips to boost gaming, creation",
+      "excerpt": "Intel offers a little something extra as incentive: Deep Link, which allows a system to combine the integrated and discrete Xe GPU's processing power for creative tasks like AI inferencing and ... over models with Nvidia MX chips. Iris Xe Max also adds ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/intel-iris-xe-max-gpu-arrives-in-11th-gen-mobile-chips-to-boost-gaming-creation/",
+      "originalUrl": "https://www.cnet.com/news/intel-iris-xe-max-gpu-arrives-in-11th-gen-mobile-chips-to-boost-gaming-creation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 299,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/qNcMO68S_2r4fGl59xhilygsFIw=/1200x630/2020/10/21/992143a0-3303-449c-9a49-a650e2bf34f8/acer-swift-3x-05.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/intel-iris-xe-max-gpu-arrives-in-11th-gen-mobile-chips-to-boost-gaming-creation/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intel-iris-xe-max-gpu-arrives-in-11th-gen-mobile-chips-to-boost-gaming-creation/",
+      "publishedDateTime": "2020-10-31T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-31-microsoft-lobe-to-train-ai-machine-learning-models-without-writing-code.md",
       "title": "Microsoft Lobe to train AI, machine learning models without writing code",
       "excerpt": "Microsoft has announced the availability of Lobe, a desktop app to train artificial intelligence (AI) and machine learning (ML) models.",
@@ -622,10 +674,10 @@
     {
       "path": "_news/2020-10-30-ibm-smart-lineup-decisions-for-nfl-week-8.md",
       "title": "IBM Smart Lineup Decisions for NFL Week 8",
-      "excerpt": "That's where IBM Insights comes in, as they use Watson AI to break down all of the content you're consuming and then some. And by \"some\", I mean every inch of the interwebs. Below are the ...",
+      "excerpt": "That's where IBM Insights comes in, as they use Watson AI to break down all of the content you're consuming and then some. And by \"some\", I mean every inch of the interwebs. Below are the highlights for NFL Week 8 -- good and bad.",
       "sourceUrl": null,
-      "webUrl": "https://www.espn.com/fantasy/football/story/_/page/smartlineup201030/ibm-smart-lineup-decisions-nfl-week-8",
-      "originalUrl": "https://www.espn.com/fantasy/football/story/_/page/smartlineup201030/ibm-smart-lineup-decisions-nfl-week-8",
+      "webUrl": "https://www.espn.com/fantasy/football/story/_/page/smartlineup201030/ibm-smart-lineup-decisions-nfl-week-8?device=featurephone",
+      "originalUrl": "https://www.espn.com/fantasy/football/story/_/page/smartlineup201030/ibm-smart-lineup-decisions-nfl-week-8?device=featurephone",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -644,7 +696,7 @@
       "type": "article",
       "ampWebUrl": "https://www.espn.com/fantasy/football/story/_/page/smartlineup201030/ibm-smart-lineup-decisions-nfl-week-8?platform=amp",
       "cdnAmpWebUrl": "https://www-espn-com.cdn.ampproject.org/c/s/www.espn.com/fantasy/football/story/_/page/smartlineup201030/ibm-smart-lineup-decisions-nfl-week-8?platform=amp",
-      "publishedDateTime": "2020-10-30T06:10:00-07:00",
+      "publishedDateTime": "2020-10-30T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ESPN",
@@ -1203,61 +1255,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe.md",
-      "title": "Want To Infuse AI Into Your Apps With Minimal Effort? Try Microsoft Lobe",
-      "excerpt": "From acquiring the data to labeling it and training the model to optimizing it, deep learning and AI demand niche skills that combine mathematics with data science.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9bf8a2dbc46c0b82a29403%2F0x0.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/amp/",
-      "publishedDateTime": "2020-10-29T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "IBM AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

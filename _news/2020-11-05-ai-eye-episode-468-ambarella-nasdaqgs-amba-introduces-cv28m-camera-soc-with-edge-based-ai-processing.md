@@ -1,0 +1,70 @@
+---
+category: news
+title: "AI Eye Episode 468: Ambarella (NasdaqGS: $AMBA) Introduces CV28M Camera SoC with Edge-Based AI Processing"
+excerpt: "Watching stock news, deal tracker and advancements in artificial intelligence Ambarella, Inc. ( NasdaqGS:AMBA) has introduced the CV28M camera system on chip (SoC), the latest in the company's CVflow family,"
+publishedDateTime: 2020-11-04T19:46:00Z
+originalUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/11041AIEye-AMBA-JG.asp"
+webUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/11041AIEye-AMBA-JG.asp"
+type: article
+quality: 22
+heat: -1
+published: false
+
+provider:
+  name: Investor ideas
+  domain: investorideas.com
+
+topics:
+  - AI Hardware
+  - AI
+
+images:
+  - url: "https://www.investorideas.com/images/AI-Eye.jpg"
+    width: 1280
+    height: 1206
+    isCached: true
+
+related:
+  - title: "Ambarella launches computer vision chips for edge AI"
+    excerpt: "Chip designer Ambarella has announced a new computer vision chip for artificial intelligence at the edge of a computer network."
+    publishedDateTime: 2020-11-02T10:00:00Z
+    webUrl: "https://venturebeat.com/2020/11/02/ambarella-launches-computer-vision-chips-for-edge-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/11/02/ambarella-launches-computer-vision-chips-for-edge-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/02/ambarella-launches-computer-vision-chips-for-edge-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 121
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/ambarella-2.jpg?w=1200&strip=all"
+        width: 1200
+        height: 621
+        isCached: true
+  - title: "Ambarella targets intelligent edge sensing with new camera SoC"
+    excerpt: "Computer vision chip company Ambarella has announced a new processor in its camera system on chip (SoC) family, targeting what it said is a wider variety"
+    publishedDateTime: 2020-11-04T18:27:00Z
+    webUrl: "https://www.embedded.com/ambarella-targets-intelligent-edge-sensing-with-new-camera-soc/"
+    type: article
+    provider:
+      name: Embedded
+      domain: embedded.com
+    quality: 24
+    images:
+      - url: "https://www.embedded.com/wp-content/uploads/2020/11/Ambarella-photo-of-AI-sensing-at-the-edge-with-CV28M.jpg"
+        width: 1024
+        height: 920
+        isCached: true
+  - title: "Ambarella launches CV28M SoC with CVflow processor for artificial intelligence"
+    excerpt: "Ambarella (NASDAQ:AMBA) unveils the CV28M CVflow® processor for artificial intelligence (AI ... retail monitoring, consumer robotics, and occupancy monitoring. CV28M provides the AI performance ..."
+    publishedDateTime: 2020-11-02T11:15:00Z
+    webUrl: "https://seekingalpha.com/news/3629469-ambarella-launches-cv28m-soc-cvflow-processor-for-artificial-intelligence"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 15
+
+secured: "T4tGTiv5q6DM7nPP9+qa3ic7/qmPFDNTucVPNUkaZeEEgUgNsr8Ii2/pteY7D4X+u3SfVAELxPi1rs0b5FGfr80BFaQsb2lm5mXLMuHz/RQXICHXeAPINJDBgZh/zixpJ0MMcBSFyTAn4VpeAixoz+mhRbfU8WGP0Pkl22OdT6gmUHeh2vKUaFSrquE1L+NOAqo+F1O9V9kgMRLU6IEoJ2iapT3gHTFwY/XWTDqUs1LAA3pg+0NJ8EBM3hyqaB8QbIzTdtN72dl5X2mMfIaQOkHc8D0T0QiA0TW/24khF/f0pSsOD8R9JGrYhXyo7qqvU1DalqEIfLLCX0/BIYQUseRgGtUGFiiGpJcZjBYT7Rg=;ZTUmhnE/hAwF49DGX+QF8w=="
+---
+

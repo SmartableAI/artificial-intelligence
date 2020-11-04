@@ -87,6 +87,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "The Robots Are Coming To Miami: Ford Rolls Out Self-Driving Car Outpost"
+    excerpt: "Ford Autonomous Vehicles, a subsidiary of Ford Motor Cos., announced last week that it will be opening a command center west of Miami International Airport, a key step in the company's goal to offer ride-hailing and commercial delivery services by 2022."
+    publishedDateTime: 2020-11-04T19:29:00Z
+    webUrl: "https://www.bisnow.com/south-florida/news/commercial-real-estate/miami-ford-self-driving-cars-106573"
+    type: article
+    provider:
+      name: Bisnow
+      domain: bisnow.com
+    quality: 41
+    images:
+      - url: "https://cdn.bisnow.net/fit?height=1200&type=png&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2020%2F11%2F5fa071d7987c2-screen-shot-2020-11-02-at-3-53-21-pm.png&width=1200&sign=HMMbCuy2ZKCL2vT3os-SqNT-u-PSp2Zd6zWDcvPEm_4"
+        width: 1200
+        height: 694
+        isCached: true
   - title: "Self-driving startup Pony.ai gets funding from FAW"
     excerpt: "Self-driving technology startup Pony.ai struck a funding agreement with automaker FAW Group, calling it the first strategic investment by a Chinese state-owned vehicle manufacturer into an autonomous-technology company."
     publishedDateTime: 2020-11-03T10:35:00Z
@@ -97,6 +111,6 @@ related:
       domain: autonews.com
     quality: 19
 
-secured: "7LGFMzEDsPmV0eVo6qM43DYn3MSVgTr7Oe8vtrEQZEZ67xbtoMsDS99bMcuXzuGdguI4KNX3Lgc2ofktjUKOk/NoOxi2oKnrxxCsGivF2+znk4EyocyJswM3ZUZ4FB6kL1Mojt7xHL75HALominiQmI5oOFKIYHB5wSkP0ek5ZkddMGcpyiHtEDii8RG4fGEvVljqdJSLIJOJeEa46zTSGTwTXVyNFg/daLw+AXPEZRo0ZuI/fHC26DFw9vI72+a1xdzCnGi2319cV7qdr03za3i+QRK39rOEjO3lvddpd+/nh1Q6vPqXM7G8LkbPmndkjCnTm3h4PABxOlPF5kj4nOLwWQCzxh6E7VfPoh2Tag=;AfmgMV5rRroAoghnoD72kw=="
+secured: "elTV5dOZ1ZjPyaM7vfoeBO84CVJoocezavgoteDgm2WnwDjd1ib1/pQGt5okhAeoUAxCVU/27FBy1Cutg1h6E7Xu8a5HmtoP4qQR05J0q/+IwQiHCctrnnQntokkt5Y/cN0/HTa1Yfdtg2n39xbZ302e3GgadMivix3g1W2WX50Mm/xa0+55bJ4TXxEZMboc70scmrQeIjvM9FgzjE5t1gFatzHa0wWeBKTuNEuv5mWGObVduXx2qtGsZqzKpVwi6zHLmp4Jk6GSYsEyzK8ndmxFjXDExqjW/7x3KxyoIa41mBQVEreUgAP9np3C5/KXoIX+1qdZf5cPtGuZODy3uB8whbcDgNXPDBPjJgkGBvvvKC4uR5F5Ln30DGPzAfNISsrouSo5BlXv5be2KFAZuMP3JthjYJ2z+e6pTFDTdyypRCk2A7MnBx1A3Q50PY9yN5Ko6+7IlZINIpZ9sC/6bYX7CJmXOwbAxy2avuismjgl+vmDMysEfV174uHVENeyu7Y76mng0sV4K+iCcF1N8Q==;JwRGUgnf6buT0G5kFnJwFg=="
 ---
 

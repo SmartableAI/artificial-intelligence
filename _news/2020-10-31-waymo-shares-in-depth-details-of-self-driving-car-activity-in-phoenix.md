@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/waymo-indepth-details-selfdriving-activ
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://i.insider.com/5f9b305569331a0011bc630a?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Waymo, anticipating election protests, docks its self-driving cars in San Francisco"
+    excerpt: "Presidential Election drags on, Waymo, fearing civic unrest, has joined bike and scooter services in pulling access."
+    publishedDateTime: 2020-11-04T17:42:00Z
+    webUrl: "https://www.archpaper.com/2020/11/waymo-election-protests-docks-its-san-francisco-self-driving-cars/"
+    ampWebUrl: "https://www.archpaper.com/2020/11/waymo-election-protests-docks-its-san-francisco-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-archpaper-com.cdn.ampproject.org/c/s/www.archpaper.com/2020/11/waymo-election-protests-docks-its-san-francisco-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: The Architect's Newspaper
+      domain: archpaper.com
+    quality: 53
+    images:
+      - url: "https://assets.archpaper.com/wp-content/uploads/2020/11/waymo_minivan_5.jpg"
+        width: 1600
+        height: 993
         isCached: true
   - title: "Waymo pulls self-driving cars in San Francisco as cities nationwide brace for unrest"
     excerpt: "Waymo moved its San Francisco vehicles to neighboring Mountain View Monday night out of an abundance of caution and with the safety of its team in mind, according to a spokeswoman."

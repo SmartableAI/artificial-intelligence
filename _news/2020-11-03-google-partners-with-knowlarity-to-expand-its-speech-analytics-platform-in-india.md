@@ -8,7 +8,7 @@ webUrl: "https://www.ciol.com/google-partners-knowlarity-expand-speech-analytics
 ampWebUrl: "https://www.ciol.com/google-partners-knowlarity-expand-speech-analytics-platform-india/amp/"
 cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/google-partners-knowlarity-expand-speech-analytics-platform-india/amp/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.ciol.com/wp-content/uploads/2020/10/Google-Cloud.jpg"

@@ -2,6 +2,40 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-10-13-robots-will-watch-learn-and-reason-in-ais-augmented-reality.md",
+      "title": "Robots will watch, learn and reason in AI’s augmented reality",
+      "excerpt": "Australia has no choice but to step up investment in artificial intelligence, says Anton van den Hengel, whose Adelaide research group was awarded 20m in the federal budget last week to boost Australias position in this highly competitive research field.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theaustralian.com.au/higher-education/robots-will-watch-learn-and-reason-in-ais-augmented-reality/news-story/30375dcae3064446ee0de5857d00f04d",
+      "originalUrl": "https://www.theaustralian.com.au/higher-education/robots-will-watch-learn-and-reason-in-ais-augmented-reality/news-story/30375dcae3064446ee0de5857d00f04d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theaustralian.com.au/higher-education/robots-will-watch-learn-and-reason-in-ais-augmented-reality/news-story/30375dcae3064446ee0de5857d00f04d",
+      "cdnAmpWebUrl": "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/higher-education/robots-will-watch-learn-and-reason-in-ais-augmented-reality/news-story/30375dcae3064446ee0de5857d00f04d",
+      "publishedDateTime": "2020-10-12T23:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Australian",
+        "domain": "theaustralian.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-bernard-marr-what-is-gpt-3-and-why-is-it-revolutionizing-artificial-intelligence.md",
       "title": "Bernard Marr: What Is GPT-3 And Why Is It Revolutionizing Artificial Intelligence?",
       "excerpt": "LinkedIn has ranked Bernard as one of the world’s top 5 business influencers. He is a frequent contributor to the World Economic Forum and writes a regular column for Forbes. Every day Bernard actively engages his 1.5 million social media followers and ...",
@@ -1178,58 +1212,6 @@
         "AI Hardware",
         "Machine Learning",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-shrinking-the-data-desert-inside-efforts-to-make-ai-systems-more-inclusive-of-people-with-disabilities.md",
-      "title": "Shrinking the ‘data desert’: Inside efforts to make AI systems more inclusive of people with disabilities",
-      "excerpt": "The post Shrinking the ‘data desert’: Inside efforts to make AI systems more inclusive of people with disabilities appeared first on The AI Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://blogs.microsoft.com/ai/shrinking-the-data-desert/",
-      "originalUrl": "https://blogs.microsoft.com/ai/shrinking-the-data-desert/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/10/VizWiz_val_00002306-2-1920x1080-1-1024x576.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T07:45:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

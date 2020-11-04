@@ -74,6 +74,20 @@ related:
         width: 3584
         height: 1832
         isCached: true
+  - title: "The Robots Are Coming To Miami: Ford Rolls Out Self-Driving Car Outpost"
+    excerpt: "Ford Autonomous Vehicles, a subsidiary of Ford Motor Cos., announced last week that it will be opening a command center west of Miami International Airport, a key step in the company's goal to offer ride-hailing and commercial delivery services by 2022."
+    publishedDateTime: 2020-11-04T19:29:00Z
+    webUrl: "https://www.bisnow.com/south-florida/news/commercial-real-estate/miami-ford-self-driving-cars-106573"
+    type: article
+    provider:
+      name: Bisnow
+      domain: bisnow.com
+    quality: 41
+    images:
+      - url: "https://cdn.bisnow.net/fit?height=1200&type=png&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2020%2F11%2F5fa071d7987c2-screen-shot-2020-11-02-at-3-53-21-pm.png&width=1200&sign=HMMbCuy2ZKCL2vT3os-SqNT-u-PSp2Zd6zWDcvPEm_4"
+        width: 1200
+        height: 694
+        isCached: true
   - title: "Concordia researchers dig deep into the software powering self-driving cars"
     excerpt: "Peeking under the hood of a self-driving car will only tell you so much. To really understand what makes them run, you have to dive deep into the software that makes up the autonomous driving systems (ADS) controlling driverless vehicles."
     publishedDateTime: 2020-11-03T16:11:00Z

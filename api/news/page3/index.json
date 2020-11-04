@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-02-leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform.md",
+      "title": "Leena AI nabs $8M Series as it expands from chatbots to HR service platform",
+      "excerpt": "When we covered Leena AI as a member of the Y Combinator Summer 2018 cohort, the young startup was firmly focused on building HR chatbots, but in the intervening years it has expanded the vision to a broader HR policy platform.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/",
+      "originalUrl": "https://techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1215953761.jpg?w=1024",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/amp/",
+      "publishedDateTime": "2020-11-02T07:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-02-driverless-cars-go-humble-to-get-real.md",
       "title": "Driverless Cars Go Humble to Get Real",
       "excerpt": "Recent developments point to promise for driverless car technology, if we stay realistic. This article is part of the On Tech newsletter. You can sign up here to receive it weekdays. The dream of computer-driven cars taking over the roads remains a fantasy.",
@@ -400,7 +451,7 @@
       "originalUrl": "https://venturebeat.com/2020/11/02/ambarella-launches-computer-vision-chips-for-edge-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -1115,7 +1166,7 @@
       "originalUrl": "https://www.engadget.com/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -1206,58 +1257,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-31-intel-iris-xe-max-gpu-arrives-in-11th-gen-mobile-chips-to-boost-gaming-creation.md",
-      "title": "Intel Iris Xe Max GPU arrives in 11th-gen mobile chips to boost gaming, creation",
-      "excerpt": "Intel offers a little something extra as incentive: Deep Link, which allows a system to combine the integrated and discrete Xe GPU's processing power for creative tasks like AI inferencing and ... over models with Nvidia MX chips. Iris Xe Max also adds ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/intel-iris-xe-max-gpu-arrives-in-11th-gen-mobile-chips-to-boost-gaming-creation/",
-      "originalUrl": "https://www.cnet.com/news/intel-iris-xe-max-gpu-arrives-in-11th-gen-mobile-chips-to-boost-gaming-creation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 299,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/qNcMO68S_2r4fGl59xhilygsFIw=/1200x630/2020/10/21/992143a0-3303-449c-9a49-a650e2bf34f8/acer-swift-3x-05.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/intel-iris-xe-max-gpu-arrives-in-11th-gen-mobile-chips-to-boost-gaming-creation/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intel-iris-xe-max-gpu-arrives-in-11th-gen-mobile-chips-to-boost-gaming-creation/",
-      "publishedDateTime": "2020-10-31T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

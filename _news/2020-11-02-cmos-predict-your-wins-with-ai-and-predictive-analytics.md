@@ -65,7 +65,7 @@ related:
     provider:
       name: CIOL
       domain: ciol.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.ciol.com/wp-content/uploads/2020/10/Google-Cloud.jpg"
         width: 850

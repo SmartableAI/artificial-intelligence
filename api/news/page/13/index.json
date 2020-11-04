@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-10-23-self-driving-cars-everything-you-need-to-know-about-the-futures-most-hyped-tech.md",
+      "title": "Self-Driving Cars: Everything You Need To Know About the Future’s Most-Hyped Tech",
+      "excerpt": "But the promise of self-driving cars has yet to be realized, though that’s not for the lack of promise or trying. Self-driving, also known as autonomous, cars have been in the zeitgeist since the late 1950s.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedrive.com/cars-101/36937/self-driving-electric-cars",
+      "originalUrl": "https://www.thedrive.com/cars-101/36937/self-driving-electric-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.thedrive.com/wp-content/uploads/2017/01/gettyimages-609845728.jpg?quality=85",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-22T13:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Drive",
+        "domain": "thedrive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-ai-researchers-urge-tech-go-beyond-scale-to-address-systemic-social-issues.md",
       "title": "AI researchers urge tech go beyond scale to address systemic social issues",
       "excerpt": "To scale is to be capable of speedy growth of users and revenue, but AI researchers say companies ... published in recent days by Google senior research scientist Alex Hanna and independent ...",
@@ -1169,49 +1212,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-debate-over-banning-facial-recognition-technology-continues.md",
-      "title": "Debate over banning facial recognition technology continues",
-      "excerpt": "Federal authorities were able to make an arrest with the help of facial recognition technology. Yet some at Baltimore City Hall are pushing to ban it. Shortly after city leaders debated whether to ban facial recognition technology,",
-      "sourceUrl": null,
-      "webUrl": "https://foxbaltimore.com/news/local/debate-over-banning-facial-recognition-technology-continues",
-      "originalUrl": "https://foxbaltimore.com/news/local/debate-over-banning-facial-recognition-technology-continues",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static-28.sinclairstoryline.com/resources/media/e695342f-3f53-48c7-b5fa-2e9701a5f780-large16x9_DFGVGHBJHKL.PNG?1603357023547",
-          "width": 986,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T01:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Baltimore",
-        "domain": "foxbaltimore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

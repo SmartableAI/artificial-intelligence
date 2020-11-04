@@ -2,17 +2,17 @@
 category: news
 title: "University of Minnesota Duluth's frontline workers in the making: robots"
 excerpt: "A UMD professor and her students are in the process of programming \"COVID gossip bots\" to socialize with and monitor isolated residents of assisted living facilities."
-publishedDateTime: 2020-11-04T01:09:00Z
-originalUrl: "https://www.inforum.com/business/technology/6744024-University-of-Minnesota-Duluths-frontline-workers-in-the-making-robots"
-webUrl: "https://www.inforum.com/business/technology/6744024-University-of-Minnesota-Duluths-frontline-workers-in-the-making-robots"
+publishedDateTime: 2020-11-04T02:31:00Z
+originalUrl: "https://www.dglobe.com/news/education/6731443-University-of-Minnesota-Duluths-frontline-workers-in-the-making-robots"
+webUrl: "https://www.dglobe.com/news/education/6731443-University-of-Minnesota-Duluths-frontline-workers-in-the-making-robots"
 type: article
 quality: 38
 heat: -1
 published: false
 
 provider:
-  name: INFORUM
-  domain: inforum.com
+  name: Daily Globe
+  domain: dglobe.com
 
 topics:
   - AI in Robotics
@@ -40,6 +40,6 @@ related:
         height: 712
         isCached: true
 
-secured: "aM69ZqR5b7eDk4m+Pf6ZsMuVJw0DFBXSbwHX3RSqUQAE6BAWcNu1Ny21BxiMtnW4SWMD8YsJ1BF+ms53FiDhZPqFwrHPhLuyd0YphXd9jN3yOKhgip76gkTAWA3wDDl2hPdU1MgUjwoLDWYp0kuFXl4AT3JhsWN9KYrBwPSsgPgKsTUHWEyrG9N7G93sJwSoxtwYz7ZQCp4PDQgSYvKLDQY5AEcMc0wP/+qRsh6HT15CZRsrgE/z2O1U1uJ/EkTB3DLyEU3X5KmUFA3nTxu72HLCVF6ZE9cE8fl6+KOZmIvorw8T0jzULRUIreP1lrzIcFYW5kyJ0LseLqCvGfAKTBKgF4Ccsoyi5c82M70vxWkApihSwr16xLjcPQTmkj5T45rSWaHP3MaYObhcAmya4L+xCk+xMutm3I7Wou/3O70dY/OLJeuyRQhyf58WQ/c3Y9KXScn07QSfswAFuE2vdx7ayc5VxJXjtG25JDG//Yx6OduefwoH/5973Qjoh9c++WSodUMRz86CmNUzafZ4IA==;KJpJfQpxI+Ltic1oF0ZQ8Q=="
+secured: "kgLaJwJyNFzONGghTZJWcZMmqcGJQcix0z0F+47nR4CcGu7Az3mNKhsKbbavJTQ2tZIEpUZVFE7iyBNMxZmfNI+Ks69A8/wClrnkJV4hDl6q83YYX0vJkhmk9OC9LCQawdMNdTs7zf5nXSrBHjEKgunomX5dwZlo6pVNooehO238fZocNI1aJwMvCZJ0qkwlYJGZkhzzhSTCvpQJsI3iFpJrqS879J7bdHnSqACCLppSPv/LiXS/pM7b9ptVTIo4Eo2Ul5FeZDxE4wuQhTd1zPhhGx/pHBftsUjtPiSYwotGZm0Rak9B/8huGZO5GOz+i2S2kpVfZRfFHKASSn3E3/fbVy5a5BtqYJyZkKiZyDw=;Y2PrIyBNXTrKwmJAj5iftA=="
 ---
 

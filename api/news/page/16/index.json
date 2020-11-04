@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-10-21-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-shares-up-04.md",
+      "title": "iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO) Shares Up 0.4%",
+      "excerpt": "Shares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO) shot up 0.4% during mid-day trading on Tuesday . The stock traded as high as $34.39 and last traded at $34.17. 90,635 shares traded hands during trading,",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernreaders.com/news/2020/10/21/ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-shares-up-0-4.html",
+      "originalUrl": "https://www.modernreaders.com/news/2020/10/21/ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-shares-up-0-4.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.modernreaders.com/news/2020/10/21/ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-shares-up-0-4.html/amp",
+      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/10/21/ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-shares-up-0-4.html/amp",
+      "publishedDateTime": "2020-10-20T23:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "modernreaders.com",
+        "domain": "modernreaders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-flex-logix-announces-working-silicon-of-fastest-and-most-efficient-ai-edge-inference-chip.md",
       "title": "Flex Logix Announces Working Silicon Of Fastest And Most Efficient AI Edge Inference Chip",
       "excerpt": "Oct. 20, 2020 /PRNewswire/ -- Flex Logix® Technologies, Inc. today announced availability of its InferX™ X1, the industry's fastest AI inference chip for edge systems. InferX X1 accelerates ...",
@@ -1152,49 +1195,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-biped-robot-maker-agility-raises-20-million.md",
-      "title": "Biped robot maker Agility raises $20 million",
-      "excerpt": "(Reuters) - Agility Robotics said on Thursday it raised $20 million in funding, in a round led by Silicon Valley venture capital firms DCVC and Playground, as two-legged robots start walking out ...",
-      "sourceUrl": null,
-      "webUrl": "https://fr.reuters.com/article/us-robots-agility-funding-idUSKBN2701GG",
-      "originalUrl": "https://fr.reuters.com/article/us-robots-agility-funding-idUSKBN2701GG",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2701GG",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2701GG",
-      "publishedDateTime": "2020-10-20T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
