@@ -54,7 +54,7 @@
       "originalUrl": "https://www.forbes.com/sites/davealtavilla/2020/11/03/nvidia-jetson-nano-2gb-brings-machine-learning-power-to-a-raspberry-pi-price-point/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -190,8 +190,8 @@
       "title": "Amazon EC2 P4d instances for pushing machine learning boundaries now available",
       "excerpt": "Amazon Web Services (AWS) has announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) P4d instances with EC2 UltraClusters capability. The cloud giant has touted the offering as the next generation of GPU-powered instances for providing the best performance in machine learning training and high-performance computing (HPC) in the cloud.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
-      "originalUrl": "https://www.zdnet.com/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
+      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
       "featuredContent": null,
       "highlight": null,
       "heat": 92,
@@ -199,8 +199,8 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
       "publishedDateTime": "2020-11-02T16:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -224,9 +224,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AWS AI",
         "AI",
-        "AWS AI"
+        "Machine Learning"
       ]
     },
     {

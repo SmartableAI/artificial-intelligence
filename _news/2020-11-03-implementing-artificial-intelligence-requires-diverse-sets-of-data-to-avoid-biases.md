@@ -7,7 +7,7 @@ originalUrl: "https://www.law.com/corpcounsel/2020/11/02/implementing-artificial
 webUrl: "https://www.law.com/corpcounsel/2020/11/02/implementing-artificial-intelligence-requires-diverse-sets-of-data-to-avoid-biases/"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 620
     height: 372
     isCached: true
-
-related:
-  - title: "Data Diversity Challenges Impact Facial Recognition AI Algorithm Biases"
-    excerpt: "While facial recognition technologies offer huge opportunities to Federal agencies, overcoming algorithmic biases with the help of diverse data sets is essential for full deployment, industry experts said Oct."
-    publishedDateTime: 2020-10-30T19:31:00Z
-    webUrl: "https://www.meritalk.com/articles/data-diversity-challenges-impact-facial-recognition-ai-algorithm-biases/"
-    type: article
-    provider:
-      name: MeriTalk
-      domain: meritalk.com
-    quality: 54
-    images:
-      - url: "https://cdn.meritalk.com/wp-content/uploads/2016/02/kate-headshot.png"
-        width: 619
-        height: 618
-        isCached: true
 
 secured: "iY429DaisXdaUjCJvNT371ZsvM2NCw2kTFa7Lu5Njc9guTfRs8X2moFSjeqGHcIWeDe6jTu6gHUzPW1Gv5Y5mcjcHTQJ2wAw9UQ9439U/m6/jY72eF+AAPHrjmmoq2sVjhwUtELI/h2nszfNS7H5QqJkutFAJ/WQ8A8pARGYeqq6P4ICJN+kW0/BEFUamjDxm8hNt8/zDLUHRypnBBpE1wyJbVy/ekniG9md7TogrvGalTOkoEamRyKiW/8HRk2PT1qullSMlhSWsQPlBs9JP9u9RDIxm7t+1LjSonumaB2ekNzJfN6EJy/Ea1K7xycu1ITP+ADbfC7P+NhQBv5I4ycZFhfLxlL1YU91xHklsAS+pkYPznepMojbaq4cDuE8nXM7pWX3DB224mvP+69nsdp7d1t3oWs1yWTToryeqAVSfMrq75oX5UoKLYoxztd8uZMN7gn42/HKvx5Bniber+p9O2qbbAhUw/ggbgMFRVV9xXTmuQix9x2iUddQ5vYfsMvlpqVasc37YxPiyNieOg==;txDZlWEKSunZmRIvKj/o3Q=="
 ---

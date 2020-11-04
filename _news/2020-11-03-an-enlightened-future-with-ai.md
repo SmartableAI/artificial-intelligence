@@ -3,8 +3,8 @@ category: news
 title: "An Enlightened Future with AI"
 excerpt: "The year of 2020 has proved to be a challenging year defined mostly across the world by a global pandemic and as a result an increasing shift towards digital. The decisions that we make now and in the"
 publishedDateTime: 2020-11-02T21:50:00Z
-originalUrl: "https://www.linkedin.com/pulse/enlightened-future-ai-imtiaz-adam/"
-webUrl: "https://www.linkedin.com/pulse/enlightened-future-ai-imtiaz-adam/"
+originalUrl: "https://www.linkedin.com/pulse/enlightened-future-ai-imtiaz-adam/?trackingId=ZQBYyYDvYNZqylnz2Lu7HQ%3D%3D"
+webUrl: "https://www.linkedin.com/pulse/enlightened-future-ai-imtiaz-adam/?trackingId=ZQBYyYDvYNZqylnz2Lu7HQ%3D%3D"
 type: article
 quality: 39
 heat: -1
@@ -19,8 +19,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - AI Ethics
+  - AI
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFh5BNx5U2Vlg/article-cover_image-shrink_720_1280/0?e=1609977600&v=beta&t=0X7_yjbOj4s0sXVSK49Raku6erVHawRL_q-3W6o79ow"
@@ -58,6 +58,6 @@ related:
         height: 630
         isCached: true
 
-secured: "qO2Z//YXLiAEzSM4v0uKTPuvWBv4X+csLpMUXxM39M6Nj11BaFw4tdtAX2XghAycopLwxWePtlXTgW7Hy5RXIYCwOGD7Ki7sP2w49fABAWzsVIHAVoCkNzyuaQzhHoofzyzXWogBt+Bh6189sOvqanayHG3hO15amYQm8C56yiMp9dsvr8qJ9a9h3YmahZ0WYZd7dnrmlHKMcMETYF4pXvqmMCn1FRDi7+cmsrCAHuv55dYv+QK+S/tcNLYyveotQG8GQUWV2339Eo8Fruo+5Mo9DFdYYLcdT0EaKIGmf3JfRXa95PNtbQe+jeQB04aYd9AbCFSZSrlh0RrWL2zcDPHwu6+CJZ83X1jGSOpx3oAQ/VDyRZ3+Qb/qI5qUZYPOH7cdwfGyt8sZNA4Heg1po7R24s0E1oYTdZ+usjobrOIvMHzZT5nRIhe8UTjnVx81RrxLgeOz3/CCQfLKGsmwcnO6DQShT52iZ9i7HmNFpKnU3bAlo9FLqmUn9lRi49bVHYsThrsbFjwpBoZ2RjkAJQ==;yHdJqRJtgXETMoWtNA5Tfw=="
+secured: "VO0zOjJJyQo8RF/8nBJOWMOS20kS4egfJSuDMuDTayvKCHp73DVO3X2v2/+HUKpqsNOZ7MrUoFxb/DammjdTv2xExTPpdZjE1UO3OwqbqznRpz2mES0ZKQgpXGCPZw6euDP67tDhUa2JFXBqn6ZUMvpc08wXwoFBZgPSlxEJwcWCUJ0Ik34GYKTJJG/++5mQ8rLCvsYiIvNwbwWHJCJhdmtZD/JbZ6+hgKRR/wKZetHjiLukFDvBTVSNcMid7XqUTIGncxIX5NnAqrLULNWyU3U33ngESxCClbp9byVcaznz7fjT8txM9y1KUt4fWrlxfM5vjgzDG1NZthj4OeGtMydvo64FJHgAYMiMeKXgjPU=;lphYIBTUbtUc9hfqVb35EA=="
 ---
 

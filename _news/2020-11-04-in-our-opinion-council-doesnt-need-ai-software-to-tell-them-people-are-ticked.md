@@ -3,27 +3,27 @@ category: news
 title: "In Our Opinion: Council doesn’t need AI software to tell them people are ticked"
 excerpt: "People are mad at the Oak Harbor City Council for wasting money on the sewage treatment plant, which was millions over its original price tag."
 publishedDateTime: 2020-11-04T00:30:00Z
-originalUrl: "https://www.whidbeynewstimes.com/opinion/in-our-opinion-council-doesnt-need-ai-software-to-tell-them-people-are-ticked/"
-webUrl: "https://www.whidbeynewstimes.com/opinion/in-our-opinion-council-doesnt-need-ai-software-to-tell-them-people-are-ticked/"
+originalUrl: "https://www.southwhidbeyrecord.com/opinion/in-our-opinion-council-doesnt-need-ai-software-to-tell-them-people-are-ticked/"
+webUrl: "https://www.southwhidbeyrecord.com/opinion/in-our-opinion-council-doesnt-need-ai-software-to-tell-them-people-are-ticked/"
 type: article
 quality: 35
 heat: 35
 published: false
 
 provider:
-  name: Whidbey News Times
-  domain: whidbeynewstimes.com
+  name: South Whidbey Record
+  domain: southwhidbeyrecord.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "http://spiwnt.wpengine.com/wp-content/themes/spiwnt/assets/images/logo-1200x630.png"
+  - url: "http://spiswr.wpengine.com/wp-content/themes/spiswr/assets/images/logo-1200x630.png"
     width: 1200
     height: 630
     isCached: true
 
-secured: "LB2/FWTF7OqzGk4UNrqZ8uH7UFLmHpJ0aDIeeV/Sr3GYBy/dhbZrOTqeQlA9yCNkn3Cansp/+IAtcZoQdnYXvgXpawU7cK7BF3WxMXZwnZe1MiRvEAF35euRBeqzp0cjdx3wx6QZFi+wBtc75uCXTEP3+4AsWal2nEg5VMQVj1TaZ+GpGdLi2nwUuuXXgCsnZuqm5QyJLdXx/uJj1NKaAfzgMstBCrvbj7oXiJV/DgVIiCfs0vDNZHTUrAyk5PSV0Enu6gaQBlVn2XHg4hiueTZe9c+xT2jX7MtHrw8D/U/K8nOkfRxtGzQIhPWHLP0YsPrm2x2WbY9sqHeIBSJJmXdOZUZMYiWZydvGsZcMqjg=;G4MV+dOq2rSlkihjE7KNQg=="
+secured: "HJcxOidrkBj80/PUQij6yNpw42xbvlPv4M7gVHA6vmMyTshK9Y+fH/C6W8MPdRtGvU3AriUIGHpkyq9/PXgGxbPNSmG/nnT7MP0LVRZ3TBAI476k8Qhy/6KRTCz2o6lB5x7l++ELKhT89O6BZZ9BzflWQr156yS9kUE/OolYYABTezX2S4SpFIdF12QnLr4+POFj6qjr1UrCzntoIBxW5X9YQEC1WVha8gYg2+tkAlMWb0H9V5CmVhZty1y1MP6RauwB0q+c7OPS5E3+CEIO1j/dV6cSBLVextOH10Rei0CeDFemDR8flbJ8bhWPZiBTee89UUzmjh+vBqVgd9qwvVm8rZ1iJhk9aHhYjXR0JCg=;C9snP1pYTXV5Sni1XOAZEw=="
 ---
 

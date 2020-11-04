@@ -47,22 +47,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Watch Tesla's 'Full Self-Driving' mode fail on San Francisco's twistiest street"
-    excerpt: "Tesla's new \"Full Self-Driving\" mode (that isn't actually fully autonomous, and still requires drivers to hold the wheel and pay attention) just got owned by a famous San Francisco street."
-    publishedDateTime: 2020-10-30T18:51:00Z
-    webUrl: "https://mashable.com/video/tesla-full-self-driving-fail/"
-    ampWebUrl: "https://mashable.com/video/tesla-full-self-driving-fail.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/tesla-full-self-driving-fail.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 100
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F10%252F30%252Fb4%252F88af5ff4d0ac41279273c9231a242c21.6b105.jpg%252F1200x630.jpg?signature=qaP-B1dV49N-9EOQPgPCcRl2Hng="
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tesla Hikes Up the Price of 'Full Self-Driving' Option to $10,000"
     excerpt: "Tesla bumped up the price of its \"full self-driving\" from $8,000 to $10,000 on Friday, and odds are this won’t be the last price hike Tesla owners see."
     publishedDateTime: 2020-10-31T01:17:00Z
@@ -111,6 +95,22 @@ related:
         width: 2774
         height: 1122
         isCached: true
+  - title: "Tesla Full Self-Driving Beta appears to detect and avoid road debris in video"
+    excerpt: "Driving Beta has impressed with its capacity to navigate city streets and it now looks like it can also detect and avoid road debris, according to a new video. Like Tesla Autopilot, the automaker’s new Full Self-Driving Beta requires driver attention at all times since it can encounter things that it doesn’t know"
+    publishedDateTime: 2020-11-04T11:24:00Z
+    webUrl: "https://electrek.co/2020/11/04/tesla-full-self-driving-beta-detect-avoid-road-debris-video/"
+    ampWebUrl: "https://electrek.co/2020/11/04/tesla-full-self-driving-beta-detect-avoid-road-debris-video/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/04/tesla-full-self-driving-beta-detect-avoid-road-debris-video/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 86
+    images:
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/11/Tesla-full-self-driving-road-debris.jpg?quality=82&strip=all"
+        width: 3584
+        height: 1832
+        isCached: true
   - title: "Elon Musk Raises Price of Tesla's Full Self-Driving Package to $10,000 USD"
     excerpt: "Following through with what Elon Musk has said before, the CEO of Tesla has now announced a price hike for the EV automaker’s Full Self-Driving (FSD) package, bringing it up by $2,000 USD to $10,000 USD."
     publishedDateTime: 2020-11-03T06:49:00Z
@@ -138,22 +138,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 65
-  - title: "Tesla 'full self-driving' vehicles can't drive themselves"
-    excerpt: "DETROIT — Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and ..."
-    publishedDateTime: 2020-10-30T18:21:00Z
-    webUrl: "https://www.king5.com/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
-    ampWebUrl: "https://www.king5.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
-    cdnAmpWebUrl: "https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
-    type: article
-    provider:
-      name: KING5
-      domain: king5.com
-    quality: 59
-    images:
-      - url: "https://media.king5.com/assets/CCT/images/5b2d9a1c-ebf7-467c-93bb-62af47399b18/5b2d9a1c-ebf7-467c-93bb-62af47399b18_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Tesla 'full self-driving' vehicles can't drive themselves"
     excerpt: "DETROIT — Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and ..."
     publishedDateTime: 2020-11-01T22:10:00Z

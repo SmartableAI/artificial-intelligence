@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/18157493"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18157493"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Advisors Seek Venture-Investing Gold in Fintech"
+    excerpt: "For many of the most successful advisory firm leaders, investing in fintech and wealthtech startups is an opportunity to make some serious scratch, while also helping to advance their industry."
+    publishedDateTime: 2020-11-02T18:24:00Z
+    webUrl: "https://www.barrons.com/articles/advisors-seek-venture-capital-investing-riches-in-fintech-and-wealthtech-51604348664"
+    ampWebUrl: "https://www.barrons.com/amp/articles/advisors-seek-venture-capital-investing-riches-in-fintech-and-wealthtech-51604348664"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/advisors-seek-venture-capital-investing-riches-in-fintech-and-wealthtech-51604348664"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 44
+    images:
+      - url: "https://images.barrons.com/im-253545/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "F|T: The FinTech Times – Toeing the line"
     excerpt: "a weekly newsletter covering the biggest FinTech news from around the globe. If you want to read F|T before anyone else, make sure to subscribe using the form at the bottom of this page. Wealthsimple has tapped Paul Teshima, the co-founder of Nudge.ai, to ..."
     publishedDateTime: 2020-11-02T10:59:00Z
@@ -55,6 +71,38 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Top 10 Asian FinTech Startups You Need to Follow"
+    excerpt: "Bowen Khong takes a look at 10 Asian Fintech Startups that you should be aware of they include Ant Group, Ping An Technology, Dr Wealth, Grab Pay, Razer Pay, Folio, Viva Republic, Policy Bazaar, HelloGold,"
+    publishedDateTime: 2020-11-04T07:00:00Z
+    webUrl: "https://www.enterprisetimes.co.uk/2020/11/04/top-10-asian-fintech-startups-you-need-to-follow/"
+    type: article
+    provider:
+      name: enterprisetimes.co.uk
+      domain: enterprisetimes.co.uk
+    quality: 24
+    images:
+      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2020/10/Photo-by-Christina-@-wocintechchat.jpg"
+        width: 728
+        height: 410
+        isCached: true
+  - title: "Crowdsourcing startup wins FinTech Frontier pitch competition"
+    excerpt: "A Pittsburgh-based startup won FinTech Frontier’s inaugural pitch competition, and here's what the company had to say about Cincinnati."
+    publishedDateTime: 2020-11-02T17:37:00Z
+    webUrl: "https://www.bizjournals.com/cincinnati/inno/stories/news/2020/11/02/fintech-frontier-names-pitch-competition-winner.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
+  - title: "Hong Kong Cyberport: Cyberport sees RegTech's potential to become a rising industry star during Hong Kong FinTech Week"
+    excerpt: "As a FinTech partner at this year's Hong Kong FinTech Week, Cyberport invited scholars, outstanding financial industry leaders and its community start-ups"
+    publishedDateTime: 2020-11-04T08:29:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-11/51145177-hong-kong-cyberport-cyberport-sees-regtech-s-potential-to-become-a-rising-industry-star-during-hong-kong-fintech-week-399.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "EKk8Rq1AQTI8QJRdu2GY3MmQev8kZbHcdJ9nvudok0EDpcYMaUwofdMeDwsPGkIoNlwGT53zoEKB+2WKJac4cEwSWb+zukIjtUUJUm2ut/nePd1JjUG01/P1SjkNFQvusfmDnumX+ebQhYjhXrnQ5fjsPureZFIxHcfeAe8rB7mnc5JPgXUmAaZ15vyN96qp9TMeXvmwqfHN1wcTvk0aUUFkrgOKWJ3a1of651F3I2UJV1LEgyDl+hQ8c6gIm79bN12A1xQQO2Y8RN7bQbSyUwqeBdk3d8Cde4CMB/T5y2BLG3X0rEkLOBF4DA5yLwiLu94hGRhr2BotZo2Bxof0VMhL7epqDeVN1Iak9TU/nl32sGr4BlmC+iS+SfgE2OMWgqpYEgTmQ7sNRF/ffpclOc5t+i2w005+k7f1VfQVxVaDivXwC8gMUdvuZAIJc7zNGyyLJpO1eTNV0fJtYJ1pVt5Im0xGxWfNFyuE4kUk6fPZD8yUjFrTLbw8Nf+ni4LCNr+N8n3FRRNbS+XQVOh4Kw==;sA0IwBmxLgH9yec+6snk7w=="
 ---

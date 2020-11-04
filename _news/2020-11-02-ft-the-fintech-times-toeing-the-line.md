@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Advisors Seek Venture-Investing Gold in Fintech"
+    excerpt: "For many of the most successful advisory firm leaders, investing in fintech and wealthtech startups is an opportunity to make some serious scratch, while also helping to advance their industry."
+    publishedDateTime: 2020-11-02T18:24:00Z
+    webUrl: "https://www.barrons.com/articles/advisors-seek-venture-capital-investing-riches-in-fintech-and-wealthtech-51604348664"
+    ampWebUrl: "https://www.barrons.com/amp/articles/advisors-seek-venture-capital-investing-riches-in-fintech-and-wealthtech-51604348664"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/advisors-seek-venture-capital-investing-riches-in-fintech-and-wealthtech-51604348664"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 44
+    images:
+      - url: "https://images.barrons.com/im-253545/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Meet Accern, A 2020 Benzinga Global Fintech Awards Finalist"
     excerpt: "Benzinga will be holding its annual Benzinga Global Fintech Awards, a day of dealmaking, networking, and recognition in the financial technology space, on Nov. 10,"
     publishedDateTime: 2020-11-03T17:10:00Z
@@ -55,6 +71,38 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Top 10 Asian FinTech Startups You Need to Follow"
+    excerpt: "Bowen Khong takes a look at 10 Asian Fintech Startups that you should be aware of they include Ant Group, Ping An Technology, Dr Wealth, Grab Pay, Razer Pay, Folio, Viva Republic, Policy Bazaar, HelloGold,"
+    publishedDateTime: 2020-11-04T07:00:00Z
+    webUrl: "https://www.enterprisetimes.co.uk/2020/11/04/top-10-asian-fintech-startups-you-need-to-follow/"
+    type: article
+    provider:
+      name: enterprisetimes.co.uk
+      domain: enterprisetimes.co.uk
+    quality: 24
+    images:
+      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2020/10/Photo-by-Christina-@-wocintechchat.jpg"
+        width: 728
+        height: 410
+        isCached: true
+  - title: "Crowdsourcing startup wins FinTech Frontier pitch competition"
+    excerpt: "A Pittsburgh-based startup won FinTech Frontier’s inaugural pitch competition, and here's what the company had to say about Cincinnati."
+    publishedDateTime: 2020-11-02T17:37:00Z
+    webUrl: "https://www.bizjournals.com/cincinnati/inno/stories/news/2020/11/02/fintech-frontier-names-pitch-competition-winner.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
+  - title: "Hong Kong Cyberport: Cyberport sees RegTech's potential to become a rising industry star during Hong Kong FinTech Week"
+    excerpt: "As a FinTech partner at this year's Hong Kong FinTech Week, Cyberport invited scholars, outstanding financial industry leaders and its community start-ups"
+    publishedDateTime: 2020-11-04T08:29:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-11/51145177-hong-kong-cyberport-cyberport-sees-regtech-s-potential-to-become-a-rising-industry-star-during-hong-kong-fintech-week-399.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "JturCmUIGRBV5CnFvSR9uW9Nmy/XqPax2I/X4JoaibS0wL6ew/fiBLOpNrldEUmAMj3QR9yvxxLAZ1zTLWckW6VrCJk0h5dJGGzqVdr+xdq0hWib/tfu2Ap0o0ijT5rEJQAjJAfWyqjDLfak+5RU75l80K4nRitZ8LK77LM2Uww2UeEG3dlUMThpkIkqVWUh+tQo2Fh08fe+zC/sTRQps5Mj2j5zj8CyVD6IGGJSowW5aJlIASXrcAlCniVrPTG39j4Zn1uTf1Dy+BkCvqyCpGdHSDtgfe/rhXQ+ABT3Xq3Xf567lAwq/cUi7drUl2Sk6coky18m5BimUchK4sP6RyYuMC9BMLjDQYSFua7dDa9Xkprmv6e+aGgtHpEFZfqv8DN44aPTNff2qMERK8eKGvO3TCyEq8xanG8c/OXOBP0RKbIvWmyirfmHTE7C4r2ORBTpF94tumTEfILuPpnqoLBPoo98f1VGHvTQi7+WaFDGrs28p9pIfara286+xG6PjBqv7M4sXq06ffQLB0gwwg==;/G5rKgu+Y8gOIRebepoqnQ=="
 ---

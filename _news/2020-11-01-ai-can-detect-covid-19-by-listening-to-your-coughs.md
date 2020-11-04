@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/ai-covid-19-cough-detection-from-record
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-covid-19-cough-detection-from-recordings-213858299.html"
 type: article
 quality: 87
-heat: 277
+heat: 287
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/06j3rj27tROHxy3EaMtbhow-1.1604323934.fit_lim.size_1200x630.jpg"
         width: 1120
         height: 630
+        isCached: true
+  - title: "Covid-19 Has Accelerated Digital Transformation — With AI Playing A Key Role"
+    excerpt: "We're witnessing out-of-the-box thinking and once-in-a-lifetime risk-taking that's giving birth to fantastic innovations and great changes."
+    publishedDateTime: 2020-11-04T12:53:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/11/04/covid-19-has-accelerated-digital-transformation---with-ai-playing-a-key-role/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/11/04/covid-19-has-accelerated-digital-transformation---with-ai-playing-a-key-role/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/04/covid-19-has-accelerated-digital-transformation---with-ai-playing-a-key-role/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3bdea7cf036822a957572d%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Artificial intelligence and covid-19: Can the machines save us?"
     excerpt: "The Stanford-trained data scientist did not have a particular hypothesis, but he was hoping the artificial intelligence would pinpoint ... existing racial gaps and other disparities in health care. One of the biggest challenges has been that much data ..."

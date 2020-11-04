@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-03-security-tradeoffs-in-chips-and-ai-systems.md",
+      "title": "Security Tradeoffs In Chips And AI Systems",
+      "excerpt": "How security affects power and performance, why AI systems are so difficult to secure, and why privacy is a growing consideration.",
+      "sourceUrl": null,
+      "webUrl": "https://semiengineering.com/security-tradeoffs-in-chips-and-ai-systems/",
+      "originalUrl": "https://semiengineering.com/security-tradeoffs-in-chips-and-ai-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/semiengineering.com/wp-content/uploads/Green-lock-AdobeStock_262812904-10-12-20-scaled.jpeg?fit=2560%2C1434&#038;ssl=1",
+          "width": 2560,
+          "height": 1434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-03T00:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-wipro-and-aws-announce-the-launch-of-wipro-aws-business-group.md",
       "title": "Wipro and AWS announce the launch of Wipro AWS Business Group",
       "excerpt": "Wipro has announced the launch of Wipro AWS Business Group (WABG), a unit designed to help customers fast-track their cloud transformation journey on AWS.",
@@ -143,8 +187,8 @@
       "title": "Amazon EC2 P4d instances for pushing machine learning boundaries now available",
       "excerpt": "Amazon Web Services (AWS) has announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) P4d instances with EC2 UltraClusters capability. The cloud giant has touted the offering as the next generation of GPU-powered instances for providing the best performance in machine learning training and high-performance computing (HPC) in the cloud.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
-      "originalUrl": "https://www.zdnet.com/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
+      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
       "featuredContent": null,
       "highlight": null,
       "heat": 92,
@@ -152,8 +196,8 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
       "publishedDateTime": "2020-11-02T16:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -177,9 +221,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AWS AI",
         "AI",
-        "AWS AI"
+        "Machine Learning"
       ]
     },
     {
@@ -232,49 +276,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-walmart-abandons-shelf-scanning-robots-lets-humans-do-work.md",
-      "title": "Walmart abandons shelf-scanning robots, lets humans do work",
-      "excerpt": "Walmart is laying off the robots it had deployed in about 500 stores to keep tabs on what’s on and not on the shelves.",
-      "sourceUrl": null,
-      "webUrl": "https://fox40.com/news/business/walmart-abandons-shelf-scanning-robots-lets-humans-do-work/",
-      "originalUrl": "https://fox40.com/news/business/walmart-abandons-shelf-scanning-robots-lets-humans-do-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fox40.com/wp-content/uploads/sites/13/2020/11/AP_19023777999919.jpg?w=1280",
-          "width": 1280,
-          "height": 786,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fox40.com/news/business/walmart-abandons-shelf-scanning-robots-lets-humans-do-work/amp/",
-      "cdnAmpWebUrl": "https://fox40-com.cdn.ampproject.org/c/s/fox40.com/news/business/walmart-abandons-shelf-scanning-robots-lets-humans-do-work/amp/",
-      "publishedDateTime": "2020-11-02T13:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX40",
-        "domain": "fox40.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {

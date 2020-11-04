@@ -6,8 +6,8 @@ publishedDateTime: 2020-11-04T10:26:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-key-vendors-trends-analysis-segmentation-forecast-to-2020-2026-2020-11-04"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-key-vendors-trends-analysis-segmentation-forecast-to-2020-2026-2020-11-04"
 type: article
-quality: 57
-heat: 77
+quality: 59
+heat: 79
 published: true
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

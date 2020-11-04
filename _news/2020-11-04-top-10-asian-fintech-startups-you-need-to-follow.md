@@ -25,20 +25,84 @@ images:
     isCached: true
 
 related:
-  - title: "5 top Asian RegTechs that are disrupting financial services"
-    excerpt: "The applications of RegTechs in the banking and financial services institutions can be mainly classified into regulatory"
-    publishedDateTime: 2020-11-02T14:45:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/5-top-asian-regtechs-that-are-disrupting-financial-services/"
+  - title: "Advisors Seek Venture-Investing Gold in Fintech"
+    excerpt: "For many of the most successful advisory firm leaders, investing in fintech and wealthtech startups is an opportunity to make some serious scratch, while also helping to advance their industry."
+    publishedDateTime: 2020-11-02T18:24:00Z
+    webUrl: "https://www.barrons.com/articles/advisors-seek-venture-capital-investing-riches-in-fintech-and-wealthtech-51604348664"
+    ampWebUrl: "https://www.barrons.com/amp/articles/advisors-seek-venture-capital-investing-riches-in-fintech-and-wealthtech-51604348664"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/advisors-seek-venture-capital-investing-riches-in-fintech-and-wealthtech-51604348664"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
+      name: Barron's
+      domain: barrons.com
+    quality: 44
+    images:
+      - url: "https://images.barrons.com/im-253545/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Meet Accern, A 2020 Benzinga Global Fintech Awards Finalist"
+    excerpt: "Benzinga will be holding its annual Benzinga Global Fintech Awards, a day of dealmaking, networking, and recognition in the financial technology space, on Nov. 10,"
+    publishedDateTime: 2020-11-03T17:10:00Z
+    webUrl: "https://www.benzinga.com/fintech/20/11/18157493/meet-accern-a-2020-benzinga-global-fintech-awards-finalist"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18157493"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18157493"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/copy_of_courtesy_photo_4_0.png"
+        width: 800
+        height: 360
+        isCached: true
+  - title: "F|T: The FinTech Times – Toeing the line"
+    excerpt: "a weekly newsletter covering the biggest FinTech news from around the globe. If you want to read F|T before anyone else, make sure to subscribe using the form at the bottom of this page. Wealthsimple has tapped Paul Teshima, the co-founder of Nudge.ai, to ..."
+    publishedDateTime: 2020-11-02T10:59:00Z
+    webUrl: "https://betakit.com/ft-the-fintech-times-toeing-the-line/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
     quality: 24
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2020/11/regtech.jpg"
-        width: 300
-        height: 300
+      - url: "https://cdn.betakit.com/wp-content/uploads/2019/05/fintechtimes-1-1-1-1-1024x575.png"
+        width: 1024
+        height: 575
         isCached: true
+  - title: "HK leads in fintech development"
+    excerpt: "The progress of fintech in Hong Kong is very reassuring. In recent years, a number of major fintech initiatives have been launched, and widely adopted, by businesses and consumers alike."
+    publishedDateTime: 2020-11-02T07:28:00Z
+    webUrl: "https://www.news.gov.hk/eng/2020/11/20201102/20201102_105902_909.html"
+    type: article
+    provider:
+      name: 香港政府新闻网
+      domain: news.gov.hk
+    quality: 24
+    images:
+      - url: "http://www.news.gov.hk/eng/2020/10/20201019/20201019_172233_798/images/20201019174812254.jpg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Crowdsourcing startup wins FinTech Frontier pitch competition"
+    excerpt: "A Pittsburgh-based startup won FinTech Frontier’s inaugural pitch competition, and here's what the company had to say about Cincinnati."
+    publishedDateTime: 2020-11-02T17:37:00Z
+    webUrl: "https://www.bizjournals.com/cincinnati/inno/stories/news/2020/11/02/fintech-frontier-names-pitch-competition-winner.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
+  - title: "Hong Kong Cyberport: Cyberport sees RegTech's potential to become a rising industry star during Hong Kong FinTech Week"
+    excerpt: "As a FinTech partner at this year's Hong Kong FinTech Week, Cyberport invited scholars, outstanding financial industry leaders and its community start-ups"
+    publishedDateTime: 2020-11-04T08:29:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-11/51145177-hong-kong-cyberport-cyberport-sees-regtech-s-potential-to-become-a-rising-industry-star-during-hong-kong-fintech-week-399.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "g0fUwPuYDCWbX3E5ejJ9GxAEtaceqmcyQv0Cn6kUlW+nAfUAX9UU4vGrLzEhB6stzSpdv3zSWIutp3LdwxS+AUSgC9SUX2JzROnLkhkjYB+yvfY0LCI43lUJ5JMGxOf10CBD0YuK4zpKISmY6OSVaT32YLJFtKIZcmPNLvGUTpKZGeVaL+FRZbwjAP+xawVFB0jpepq0NcwTKH5NtYe31p3mbqRtsqwG0y6Q0J+smg43GmIbYoV4Uud2IOMNGHQ1ExDxRMU7Y3FmPlPk5ckGK9m6xEJIjyOTBa/OcJ80DlMty63t7Y9BnM4WCF6lxx+CYk+PCmjpzcdsm+xt73L9cbgp1e8/CQIwHML6KvnHbZ1ZjYv6dx46/GHUuHtq67q8EiwD+QR57RQdCDCVfAgqW8S+yZFai5L/OsVBM2L8fQA3Omu8NKrVrz+JGbqXEfle71F15kDpaBF/3vo2zUZzahhAqoybqcsjP1zDHHqJBQOTYP/QNRbi5fKu031TmGTgCXdDD5fUpx2CR+91BEyB/g==;t7xPRxma219lfX6qys4neA=="
 ---

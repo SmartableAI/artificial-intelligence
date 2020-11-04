@@ -10,7 +10,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-key-vendors-trends-analysis-segmentation-forecast-to-2020-2026-2020-11-04",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -51,7 +51,8 @@
       "topics": [
         "AI in Healthcare",
         "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI in Autos"
       ]
     },
     {
@@ -150,7 +151,7 @@
       "originalUrl": "https://www.techradar.com/nz/news/this-supermarket-has-purchased-two-robotics-firms-to-take-on-amazon",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -300,49 +301,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-03-walmart-abandons-shelf-scanning-robots-lets-humans-do-work.md",
-      "title": "Walmart abandons shelf-scanning robots, lets humans do work",
-      "excerpt": "Walmart is laying off the robots it had deployed in about 500 stores to keep tabs on what’s on and not on the shelves.",
-      "sourceUrl": null,
-      "webUrl": "https://fox40.com/news/business/walmart-abandons-shelf-scanning-robots-lets-humans-do-work/",
-      "originalUrl": "https://fox40.com/news/business/walmart-abandons-shelf-scanning-robots-lets-humans-do-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fox40.com/wp-content/uploads/sites/13/2020/11/AP_19023777999919.jpg?w=1280",
-          "width": 1280,
-          "height": 786,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fox40.com/news/business/walmart-abandons-shelf-scanning-robots-lets-humans-do-work/amp/",
-      "cdnAmpWebUrl": "https://fox40-com.cdn.ampproject.org/c/s/fox40.com/news/business/walmart-abandons-shelf-scanning-robots-lets-humans-do-work/amp/",
-      "publishedDateTime": "2020-11-02T13:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX40",
-        "domain": "fox40.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-03-grocery-fulfillment-tech-provider-ocado-goes-all-in-on-robotics.md",
       "title": "Grocery Fulfillment Tech Provider Ocado Goes All in on Robotics",
       "excerpt": "Ocado Group, a UK-based technology company providing end-to-end online grocery fulfilment solutions, has acquired two North America-based robotics companies — Kindred Systems and Haddington Dynamics — to accelerate its investment in robotics for picking and packing groceries.",
@@ -394,7 +352,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-outlook-by-size-share-future-growth-and-forecast-from-2020-2023-2020-11-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -1057,10 +1015,10 @@
     {
       "path": "_news/2020-10-28-5-best-robotics-and-artificial-intelligence-stocks-to-buy.md",
       "title": "5 Best Robotics and Artificial Intelligence Stocks To Buy",
-      "excerpt": "Below we listed the 5 best robotics and artificial intelligence stocks to buy according to hedge funds. For a detailed analysis and a more comprehensive list please see Top 10 Robotics and Artificial Intelligence Stocks To Buy. Unfortunately it is too late ...",
+      "excerpt": "Google AI is the company’s division that focuses exclusively on artificial intelligence and Waymo is probably the most advanced autonomous driving technology company in the world (though Chinese ...",
       "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/",
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1079,7 +1037,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T19:39:00-07:00",
+      "publishedDateTime": "2020-10-27T22:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Insider Monkey",
@@ -1093,8 +1051,9 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1406,6 +1365,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-white-castle-rolls-out-more-robots-from-miso-robotics-to-cook-in-its-kitchens.md",
+      "title": "White Castle rolls out more robots from Miso Robotics to cook in its kitchens",
+      "excerpt": "More robots are coming to White Castle ... turned to Miso Robotics’ fry cook in a box to find a solution. “Artificial intelligence and automation have been an area White Castle has wanted ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/27/white-castle-rolls-out-more-robots-from-miso-robotics-to-cook-in-its-kitchens/",
+      "originalUrl": "https://techcrunch.com/2020/10/27/white-castle-rolls-out-more-robots-from-miso-robotics-to-cook-in-its-kitchens/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/white-castle-robot-arms.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/27/white-castle-rolls-out-more-robots-from-miso-robotics-to-cook-in-its-kitchens/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/27/white-castle-rolls-out-more-robots-from-miso-robotics-to-cook-in-its-kitchens/amp/",
+      "publishedDateTime": "2020-10-27T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

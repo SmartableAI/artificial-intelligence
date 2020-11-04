@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-04-former-walmart-execs-company-uses-ai-to-battle-billions-in-spoiled-produce.md",
+      "title": "Former Walmart Exec’s Company Uses AI To Battle Billions In Spoiled Produce",
+      "excerpt": "More than $15 billion in produce shipments to food stores is wasted or rejected each year. But a former Walmart shipping executive has started a company to help reduce those losses by using technology to streamline the process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/edgarsten/2020/11/04/former-walmart-execs-company-uses-ai-to-battle-billions-in-spoiled-produce/",
+      "originalUrl": "https://www.forbes.com/sites/edgarsten/2020/11/04/former-walmart-execs-company-uses-ai-to-battle-billions-in-spoiled-produce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa1c0201d9ca8ef5c8c890e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D107%26cropY2%3D2359",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/edgarsten/2020/11/04/former-walmart-execs-company-uses-ai-to-battle-billions-in-spoiled-produce/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2020/11/04/former-walmart-execs-company-uses-ai-to-battle-billions-in-spoiled-produce/amp/",
+      "publishedDateTime": "2020-11-04T03:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-artificial-intelligence-market-key-vendors-trends-analysis-segmentation-forecast-to-2020-2026.md",
       "title": "Artificial Intelligence Market: key Vendors, Trends, Analysis, Segmentation, Forecast to 2020-2026",
       "excerpt": "According to a new study published by Polaris Market Research the Global Artificial Intelligence Market is anticipated",
@@ -10,7 +61,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-key-vendors-trends-analysis-segmentation-forecast-to-2020-2026-2020-11-04",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -51,7 +102,8 @@
       "topics": [
         "AI in Healthcare",
         "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI in Autos"
       ]
     },
     {
@@ -403,7 +455,7 @@
       "originalUrl": "https://www.forbes.com/sites/davealtavilla/2020/11/03/nvidia-jetson-nano-2gb-brings-machine-learning-power-to-a-raspberry-pi-price-point/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -765,7 +817,7 @@
       "originalUrl": "https://www.techradar.com/nz/news/this-supermarket-has-purchased-two-robotics-firms-to-take-on-amazon",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1187,50 +1239,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-security-tradeoffs-in-chips-and-ai-systems.md",
-      "title": "Security Tradeoffs In Chips And AI Systems",
-      "excerpt": "How security affects power and performance, why AI systems are so difficult to secure, and why privacy is a growing consideration.",
-      "sourceUrl": null,
-      "webUrl": "https://semiengineering.com/security-tradeoffs-in-chips-and-ai-systems/",
-      "originalUrl": "https://semiengineering.com/security-tradeoffs-in-chips-and-ai-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/semiengineering.com/wp-content/uploads/Green-lock-AdobeStock_262812904-10-12-20-scaled.jpeg?fit=2560%2C1434&#038;ssl=1",
-          "width": 2560,
-          "height": 1434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-03T00:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Semiconductor Engineering",
-        "domain": "semiengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

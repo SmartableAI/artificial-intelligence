@@ -44,20 +44,6 @@ related:
         width: 1000
         height: 668
         isCached: true
-  - title: "NVIDIA Intros Jetson Nano 2GB Developer Kit for AI and Robotics Ed"
-    excerpt: "NVIDIA has introduced its new Jetson Nano 2GB Developer Kit, a new system designed for “learning, building and teaching AI and robotics.” The Linux-based system is built around a 128-core NVIDIA Maxwell GPU and a 1.43 GHz quad-core ARM A57 CPU."
-    publishedDateTime: 2020-10-30T18:37:00Z
-    webUrl: "https://campustechnology.com/articles/2020/10/30/nvidia-jetson-nano-2gb-developer-kit-teaches-ai-and-robotics.aspx"
-    type: article
-    provider:
-      name: Campus Technology
-      domain: campustechnology.com
-    quality: 71
-    images:
-      - url: "https://campustechnology.com/-/media/EDU/THEJournal/2020Editorial/20201029jetson.jpg"
-        width: 644
-        height: 362
-        isCached: true
 
 secured: "yGddCwRukGi2LmLuzNiK83NPpO4FTpcy4XoU+ouSxD2+M/tTY78ETKdxYMU0Pv053NNClBUBjIUQkYHeX9GnMT/CivsREjGxPWCt9ESOB2TQeZXEFzhvwEP1m6PCjisDTuhBTgYcxkT/bluy0CgCbOu9ELfR/M3wP8i/aF4IYwD9+nD78naDTTzxz3W9mzlZd9F809pvNIVi8CdgX/ktdLjF6occ31E45DeaMwEwl4CdX8j/7UbWWZYCzh3sHqhdu9UVdjWpKXpXjRQ6UKc5uAhoIHbtkxdUw5mK2xiwWgnxY4M5dKn5Wnf3BnoDFAFTdb/CWUzATWRMALX4EEbw9wWMDLDyHuvUhYR0InwdmZgJy5TjDoVm5adIuBz9k0IpQgm5LyIhqigSVof24sdPCS6zzaeJH2ix/FNik1F3JkmKDGgHjBoynmlLv0JwrCyKBqoBRDDzxKi8NI0rAm1FJ0sA4yEj1s9ne/i2NXudARwtj7ZM3zvCObvp+1yWBJbRQnTcUEYCP+9xiC55g6A4UA==;ekXXzVmz6gFYjAQ510suSw=="
 ---

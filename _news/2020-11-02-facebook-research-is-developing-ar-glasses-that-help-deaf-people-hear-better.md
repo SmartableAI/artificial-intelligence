@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/features/facebook-ar-glasses-deaf/?amp
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facebook-ar-glasses-deaf/?amp"
 type: article
 quality: 71
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 41
-  - title: "Five Days of Facebook Fact-Checking"
-    excerpt: "Mark Zuckerberg, Facebook’s CEO, has been back in Congress this week to talk about the need to reform how social-media platforms moderate content—a realm within which Facebook is trying to establish a “best in class” reputation."
-    publishedDateTime: 2020-10-30T19:29:00Z
-    webUrl: "https://www.cjr.org/analysis/five-days-of-facebook-fact-checking.php"
-    type: article
-    provider:
-      name: Columbia Journalism Review
-      domain: cjr.org
-    quality: 24
-    images:
-      - url: "https://cdn.cjr.org/wp-content/uploads/2020/10/PastedGraphic-6-1-800x419.jpg?122376"
-        width: 800
-        height: 419
-        isCached: true
 
 secured: "PGNkyoNHrE0cMmVGTW8r5hdUVSMcWarerH2sxht4S74/C1DwYDJ/bNAy1GcFG2N2aMieUlyYBDZ2gjMwUq2SJdZ2qKYof0hBOYOt1/OLVrxRvULxORhJwhXWHyXAyePgjiMsG62tGOCZYgN4n0dzDJsocS6zx29+j+IDMn5L/+Ax20yZliNnrQfwaeXgEoN7GNV+sW279oQDMgTHy1iSfjsf+o6A+bzaqImrRuV7K4mFZnRs3wBuo0/I+Sa9Dat/7NHa7r3R0uw6TBRsMe5wkEEfRtMvAhyfU8IZ0EDzvL2cwa28cUxAmiVsHMqR0XGIO5lWs9PjlCYb0/L0m1puY/K+CP3BwF8DSfr0c0t8QJepnpu34o7CW77XByiQzybP/JwcRkUbeVX3CqRPtQKZ5wHFhjk3NAx1cjWC0WAsWAvw6Cqpx9Su4hR3BVjk81UkwRs3ShLfXWbwCdXqNtnAHetn+LMwJ1TSgQntn3qYk+wLuTCt5en520g1tvPJ16bMwEBFkUui0cpHiRKuAdAGIw==;cZrrt0/n5hbW+XJ8d10JAQ=="
 ---

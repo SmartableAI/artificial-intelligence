@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/11/02/ai-mistakes-referees-bald-h
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/02/ai-mistakes-referees-bald-head-for-football-hilarity-ensued/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/4CQCS9QhTiTdHAQ0dwTXg2X6IH0=/0x0:600x329/1400x933/filters:focal(252x117:348x213):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67730477/ai_camer_soccer_ball.0.gif"
         width: 600
         height: 329
-        isCached: true
-  - title: "Robot Camera Mistakes Soccer Ref’s Bald Head For Ball"
-    excerpt: "Soccer Bald. Fans of the soccer team Caledonian Thistle FC from Inverness, Scotland, experienced something hilarious this week when the robot camera operator — automatically tra"
-    publishedDateTime: 2020-10-30T19:28:00Z
-    webUrl: "https://futurism.com/robot-camera-mistakes-soccer-refs-bald-head-ball"
-    ampWebUrl: "https://futurism.com/robot-camera-mistakes-soccer-refs-bald-head-ball/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/robot-camera-mistakes-soccer-refs-bald-head-ball/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 59
-    images:
-      - url: "https://wp-assets.futurism.com/2020/10/robot-camera-mistakes-soccer-refs-bald-head-ball-600x315.jpg"
-        width: 600
-        height: 315
         isCached: true
   - title: "AI Camera Confuses Bald Linesman’s Head With the Football"
     excerpt: "Hilarity ensued at a recent football match as an AI camera kept mistaking a bald linesman's head for the football!"

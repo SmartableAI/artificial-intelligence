@@ -24,19 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "This month in AWS Machine Learning: October edition"
-    excerpt: "Every day there is something new going on in the world of AWS Machine Learning—from launches to new to use cases to interactive trainings. We’re packaging some of the not-to-miss information from the ML Blog and beyond for easy perusing each month. Check back at the end of each month for the latest roundup."
-    publishedDateTime: 2020-10-30T19:08:41Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-october-edition/"
+  - title: "The 7 Largest NYC Tech Startup Funding Rounds of October 2020"
+    excerpt: "Everything you need to need to know about the largest NYC startup funding rounds of October 2020; broken down by industry, stage, investors, and"
+    publishedDateTime: 2020-11-02T15:32:00Z
+    webUrl: "https://www.alleywatch.com/2020/11/nyc-startup-funding-top-largest-october-2020-vc/9/"
+    ampWebUrl: "https://www.alleywatch.com/2020/11/nyc-startup-funding-top-largest-october-2020-vc/amp/"
+    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2020/11/nyc-startup-funding-top-largest-october-2020-vc/amp/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 106
+      name: alleywatch.com
+      domain: alleywatch.com
+    quality: 42
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/30/OctBanner.jpg"
-        width: 900
-        height: 450
+      - url: "https://cdn.alleywatch.com/wp-content/uploads/2020/11/October-2020-NYC_top.jpg"
+        width: 1000
+        height: 525
+        isCached: true
+  - title: "Top 5 FinTech deals of October 2020 (UK & Europe version)"
+    excerpt: "The FinTech industry’s appetite for digital technology has been on the rise. This is continuously being illustrated by some deals undertaken by companies."
+    publishedDateTime: 2020-11-04T12:05:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/top-5-fintech-deals-of-october-2020-uk-europe-version/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2020/10/FinTech-Singapore-financial-technology.jpg"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "DyYnKCH25rxMs5F5XhdOTQrwfy2J4PfPA9YvkCsBPCREdigiw3XCaIHf3zDz3LekesdT5y1eTjBhw4aGMpPeTZeXcuB3GNswsgD0K3xCbkmEAI1MgxAoaEl2SA7tj/F0vcNj1qBjEgQiLwkWk0ZF+ngmIi0wXZCl525rT1COWTUSSktndGqR65GpttjijGlbPGMmuVhjvq6oCQJVLCnGjwNWFWLod7BN9AiNe6n4NKxzlthUzdLlD0UpTX/gYhc/kro3T0Wq5HY/Yyej08x56fVjTSMk1EGT6M35Z0UX+4NakiRIeTRhr9AUWyrEJNMUlO+D4t7MTcPo3A+SnbJ02qCrbWGOMjok2yh50e0amt4=;/k/gnJHIze4SDYFihIvrlQ=="

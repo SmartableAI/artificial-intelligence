@@ -9,8 +9,8 @@ ampWebUrl: "https://fox40.com/news/business/walmart-abandons-shelf-scanning-robo
 cdnAmpWebUrl: "https://fox40-com.cdn.ampproject.org/c/s/fox40.com/news/business/walmart-abandons-shelf-scanning-robots-lets-humans-do-work/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 59
+published: false
 
 provider:
   name: FOX40
@@ -25,38 +25,6 @@ images:
     width: 1280
     height: 786
     isCached: true
-
-related:
-  - title: "Walmart To End Experiment With Robots In US Stores – Jaweb"
-    excerpt: "Walmart has pulled the plug on a program to use robots to scan items in stores and help maintain inventory, a company spokeswoman said Tuesday. The retail giant had worked with Bossa Nova Robotics for five years employing elongated robots that take readings on inventory and utilize artificial intelligence to predict product movement and inventory"
-    publishedDateTime: 2020-11-03T17:10:00Z
-    webUrl: "https://elmoudjaweb.com/walmart-to-end-experiment-with-robots-in-us-stores-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/walmart-to-end-experiment-with-robots-in-us-stores-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/walmart-to-end-experiment-with-robots-in-us-stores-jaweb/?amp"
-    type: article
-    provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 59
-    images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/11/Walmart-To-End-Experiment-With-Robots-In-US-Stores-–.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Walmart To End Experiment With Robots In US Stores"
-    excerpt: "Walmart has pulled the plug on a program to use robots to scan items in stores and help maintain inventory, a company spokeswoman said Tuesday. The retail giant had worked with Bossa Nova Robotics for five years employing elongated robots that take readings on inventory and utilize artificial intelligence to predict product movement and inventory needs."
-    publishedDateTime: 2020-11-03T16:18:00Z
-    webUrl: "https://www.ibtimes.com/walmart-end-experiment-robots-us-stores-3075734"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 39
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/03/walmart-ended-an-experiment-to-have-robots-scan.jpg"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "ioaX4Wr3gT4ZD/g3e77InJVVmSFFc5wwcht8hYpaLwhTTEdVelqbEs2FHCz3wvIJz0VjX/9gd2CNofPYlGYfx5uQSpimLcGklDx21+O1KxEsGXpAnVMLccsAlsA77HwwaiPEs5SnJ7VtF25bPVqvQ7QsivL1MZUMGLo7TfIiTERJSUafd+63QwRtBhXhLL7SeJQ5PHpmGrFA35VxrTzRxOTmo1sSdlYMTIr9yezz9i+7F4U+SvexEq4BiH6FgqJODoTPJsap6hiYgVk0T/sgUBFpVNzvSK1XAjcH9fJf+tBoyzoPemVB0K5PxvjOlmQkRvaRbZS6Mr2EUYftAZ5xdtQ46O8Y0ezvJyn72jN2Zqky32sD3sObCNejIC6pJkHmjpBmuAl4faGEiQOEf+NLpGSgZ/t6WhQvskHiOLJbS8tQNIRzcWgdY4PVKY+/FTRnnK0YfvCCECY3d40fzjpbPYjX8JmbbiwEzgVlzKZTCwTWHU43RbV2GYA8K24jhsL8+mroDsoQLWXv2E7M3onw8w==;cDZoQpIBpxQykb9PVIYZqw=="
 ---

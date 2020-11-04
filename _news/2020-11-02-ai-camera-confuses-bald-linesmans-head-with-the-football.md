@@ -58,22 +58,6 @@ related:
         width: 600
         height: 329
         isCached: true
-  - title: "Robot Camera Mistakes Soccer Ref’s Bald Head For Ball"
-    excerpt: "Soccer Bald. Fans of the soccer team Caledonian Thistle FC from Inverness, Scotland, experienced something hilarious this week when the robot camera operator — automatically tra"
-    publishedDateTime: 2020-10-30T19:28:00Z
-    webUrl: "https://futurism.com/robot-camera-mistakes-soccer-refs-bald-head-ball"
-    ampWebUrl: "https://futurism.com/robot-camera-mistakes-soccer-refs-bald-head-ball/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/robot-camera-mistakes-soccer-refs-bald-head-ball/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 59
-    images:
-      - url: "https://wp-assets.futurism.com/2020/10/robot-camera-mistakes-soccer-refs-bald-head-ball-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "AI Tracking Camera Mistakes Referee’s Bald Head for a Soccer Ball"
     excerpt: "AI cameras have come a long way when it comes to object recognition and tracking, but sometimes the \"intelligence\" can fail in humorous ways. At a recent"
     publishedDateTime: 2020-11-02T17:38:00Z

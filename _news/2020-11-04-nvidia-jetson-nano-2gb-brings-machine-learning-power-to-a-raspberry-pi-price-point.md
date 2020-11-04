@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2020/11/03/nvidia-jetson-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2020/11/03/nvidia-jetson-nano-2gb-brings-machine-learning-power-to-a-raspberry-pi-price-point/amp/"
 type: article
 quality: 83
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA Intros Jetson Nano 2GB Developer Kit for AI and Robotics Ed"
-    excerpt: "NVIDIA has introduced its new Jetson Nano 2GB Developer Kit, a new system designed for “learning, building and teaching AI and robotics.” The Linux-based system is built around a 128-core NVIDIA Maxwell GPU and a 1.43 GHz quad-core ARM A57 CPU."
-    publishedDateTime: 2020-10-30T18:37:00Z
-    webUrl: "https://campustechnology.com/articles/2020/10/30/nvidia-jetson-nano-2gb-developer-kit-teaches-ai-and-robotics.aspx"
-    type: article
-    provider:
-      name: Campus Technology
-      domain: campustechnology.com
-    quality: 71
-    images:
-      - url: "https://campustechnology.com/-/media/EDU/THEJournal/2020Editorial/20201029jetson.jpg"
-        width: 644
-        height: 362
-        isCached: true
   - title: "Exploring AI With NVIDIA’s $59 Jetson Nano 2GB Dev Kit"
     excerpt: "NVIDIA's Jetson Nano 2 GB dev kit grants easy access to machine learning tools to accelerate AI at a very affordable price."
     publishedDateTime: 2020-11-03T13:44:00Z

@@ -45,7 +45,7 @@ related:
   - title: "An Enlightened Future with AI"
     excerpt: "The year of 2020 has proved to be a challenging year defined mostly across the world by a global pandemic and as a result an increasing shift towards digital. The decisions that we make now and in the"
     publishedDateTime: 2020-11-02T21:50:00Z
-    webUrl: "https://www.linkedin.com/pulse/enlightened-future-ai-imtiaz-adam/"
+    webUrl: "https://www.linkedin.com/pulse/enlightened-future-ai-imtiaz-adam/?trackingId=ZQBYyYDvYNZqylnz2Lu7HQ%3D%3D"
     type: article
     provider:
       name: LinkedIn

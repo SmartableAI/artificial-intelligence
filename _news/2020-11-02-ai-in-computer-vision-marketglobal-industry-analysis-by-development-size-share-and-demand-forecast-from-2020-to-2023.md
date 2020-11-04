@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Machine Learning as a Service (MLaaS) Market 2020 Size, Share, Analysis, Demand, Growth Driver and Industry Segments by 2025"
+    excerpt: "Nov 03, 2020 (CDN Newswire via Comtex) -- The latest market research report titled Global Machine Learning as a Service (MLaaS) Market 2020 by Company, Regions, Type and Application, Forecast to 2025 reveals the overview of the global industry ..."
+    publishedDateTime: 2020-11-04T11:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-mlaas-market-2020-size-share-analysis-demand-growth-driver-and-industry-segments-by-2025-2020-11-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Workspace Market Outlook 2023 - Rising Demand, Share, Trends, Growth, Opportunities and Top Key players"
     excerpt: "Artificial Intelligence in Workspace Market Research, By Components (Hardware, Software, Services), Technology"
     publishedDateTime: 2020-11-02T04:41:00Z
