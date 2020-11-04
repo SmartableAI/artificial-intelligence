@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-08-from-the-data-and-ai-expert-labs-start-with-outcomes.md",
+      "title": "From the Data and AI Expert Labs: Start with outcomes",
+      "excerpt": "IBM’s Data and AI Expert Labs help guide organizations on their AI journeys. Expert Labs consultants represent years of data and AI expertise and offer best practices and business strategies to meet each organization’s unique needs. In From the Data and AI Expert Labs, I’ll take the expert learnings",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/10/from-the-data-and-ai-expert-labs/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/10/from-the-data-and-ai-expert-labs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/10/2020_08_28_Blog_DataAndAIExpertLabs_Leadspace_V1.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-08T09:09:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-elucid-bios-vascucap-enters-ibm-imaging-ai-marketplace.md",
       "title": "Elucid Bio’s vascuCAP enters IBM Imaging AI Marketplace",
       "excerpt": "Elucid Bioimaging Inc. (“Elucid Bio”) today announced that vascuCAP, Elucid Bio’s AI-enabled software for evaluating atherosclerotic plaque stability from CTA, has been added to the IBM Imaging AI Marketplace,",

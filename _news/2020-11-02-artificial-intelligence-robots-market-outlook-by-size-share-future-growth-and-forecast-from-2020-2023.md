@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-outlook-by-size-share-future-growth-and-forecast-from-2020-2023-2020-11-02"
 type: article
 quality: 68
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -85,17 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) In Supply Chain Market Size 2020 Top Manufacturers, Share, Opportunities and Forecast to 2026"
-    excerpt: "The Zion Market Research added a new report “Artificial Intelligence (AI) In Supply Chain Market: By Technology (Machine Learning, Computer Vision, Natural Language Processing, and Others), By Application (Supply Chain Planning, Warehouse Management ..."
-    publishedDateTime: 2020-10-30T10:18:00Z
-    webUrl: "https://www.openpr.com/news/2177064/global-artificial-intelligence-ai-in-supply-chain-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2177064/global-artificial-intelligence-ai-in-supply-chain-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2177064/global-artificial-intelligence-ai-in-supply-chain-market-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 25
 
 secured: "wkEB86Ft1wTSGE62rTgit/ZOxRLhjAaaalnuWf/1a79It5ud0pDllkZh2hr/8dtsEx9MEt4G6nZA8DXd75nGeNDWTj2lbjUTGkvk+gu8mzF91Q4MYsDrxOmAC2Z9ROIKClkbokZW8cPoeN0RdmxzckHlKm+ajyn9dACL3kqnlWf9rmlvVhKHFtieWHKLszHwTjQm14YDQLB4NxwVRtlmbSM9HC194ElGqurNIUNP6IeplO6mzvOn1rxVAvucm8i+S/fchYnIl2oPLPZhCy/92IN1yC2nBEQ4PRAYEs1PvNe/y+IER280QRyIg62S5cxluymu+3Qyv4wHvblCmVbpIAQ3bxxJGNJOjk9GmDt3gPQ=;FuoD4kTVzzb7fvawDXykPw=="
 ---

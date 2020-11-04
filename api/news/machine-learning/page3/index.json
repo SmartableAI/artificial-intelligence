@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-10-19-how-to-create-a-more-inclusive-customer-experience-through-ai-and-ml.md",
-      "title": "How to Create a More Inclusive Customer Experience Through AI and ML",
-      "excerpt": "Eighty-four percent of consumers say being treated like a person, not a number, is very important to winning their business. However, there is a clear frustration amongst businesses in driving ROI, as 80% of marketers are on track to abandon personalization efforts by 2025.",
-      "sourceUrl": null,
-      "webUrl": "https://retailtouchpoints.com/features/executive-viewpoints/how-to-create-a-more-inclusive-customer-experience-through-ai-and-ml",
-      "originalUrl": "https://retailtouchpoints.com/features/executive-viewpoints/how-to-create-a-more-inclusive-customer-experience-through-ai-and-ml",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://retailtouchpoints.com/wp-content/uploads/2020/10/machine-learning-experience.jpg",
-          "width": 2440,
-          "height": 1627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://retailtouchpoints.com/features/executive-viewpoints/how-to-create-a-more-inclusive-customer-experience-through-ai-and-ml/amp",
-      "cdnAmpWebUrl": "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/features/executive-viewpoints/how-to-create-a-more-inclusive-customer-experience-through-ai-and-ml/amp",
-      "publishedDateTime": "2020-10-19T05:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Retail TouchPoints",
-        "domain": "retailtouchpoints.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2020-10-19-deep-learning-model-developed-to-identify-appropriate-lung-cancer-therapy.md",
       "title": "Deep Learning Model Developed to Identify Appropriate Lung Cancer Therapy",
       "excerpt": "Researchers are developing a noninvasive, method to analyze a non-small cell lung cancer mutations and biomarkers to determine the best course of treatment.",
@@ -1275,6 +1232,49 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-10-14T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-sensiml-to-present-at-st-developers-conference.md",
+      "title": "SensiML to Present at ST Developers Conference",
+      "excerpt": "Corporation, a leading developer of AI tools for building intelligent IoT endpoints, today announced that Chris Rogers, CEO and Chris Knorowski, CTO",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/sensiml-to-present-at-st-developers-conference/article_0486123c-fe13-5b86-8d2d-0b60a6035c2f.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/sensiml-to-present-at-st-developers-conference/article_0486123c-fe13-5b86-8d2d-0b60a6035c2f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/22/c2216860-0a3c-5af2-ba20-9a5b036c0854/5f86fae1532d1.image.jpg?resize=400%2C208",
+          "width": 400,
+          "height": 208,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "WFMZ-TV",

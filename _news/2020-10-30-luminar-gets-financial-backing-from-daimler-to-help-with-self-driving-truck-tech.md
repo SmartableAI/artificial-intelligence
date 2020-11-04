@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Daimler Invests in Lidar Startup to Bolster Self-Driving Truck Effort"
-    excerpt: "Daimler AG’s truck unit is investing in a laser-sensor startup to bolster its development of self-driving trucks in the U.S. less than a week after striking a deal to use driverless technology from a unit of Google parent Alphabet Inc. Daimler Truck AG ..."
-    publishedDateTime: 2020-10-30T11:58:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-10-30/daimler-isn-t-relying-solely-on-waymo-for-self-driving-trucks"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-10-30/daimler-isn-t-relying-solely-on-waymo-for-self-driving-trucks"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-30/daimler-isn-t-relying-solely-on-waymo-for-self-driving-trucks"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 89
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivAEZ0L1V7mU/v0/360x-1.jpg"
-        width: 360
-        height: 270
-        isCached: true
   - title: "Daimler Trucks’ self-driving haulage finds a key part of its autonomous vision"
     excerpt: "Daimler Trucks just gone done inking a collaboration with Waymo, and now it’s picking out cutting edge sensors for its self-driving haulage as the pieces slot into place for autonomy. The German automaker announced earlier this week that it would be ..."
     publishedDateTime: 2020-10-30T19:31:00Z

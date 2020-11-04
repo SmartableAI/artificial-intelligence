@@ -6,8 +6,8 @@ publishedDateTime: 2020-11-02T14:32:00Z
 originalUrl: "https://healthitanalytics.com/news/over-80-of-health-execs-have-artificial-intelligence-plans-in-place"
 webUrl: "https://healthitanalytics.com/news/over-80-of-health-execs-have-artificial-intelligence-plans-in-place"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-912319336.jpg"

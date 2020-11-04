@@ -115,20 +115,20 @@ related:
         height: 275
         isCached: true
   - title: "Waymo pulls self-driving cars in San Francisco as cities nationwide brace for unrest"
-    excerpt: "Waymo, the self-driving company of Google's parent company Alphabet, has suspended its self-driving operations in San Francisco as businesses and cities brace for potential unrest following the presidential election."
-    publishedDateTime: 2020-11-03T20:53:00Z
-    webUrl: "https://www.kctv5.com/waymo-pulls-self-driving-cars-in-san-francisco-as-cities-nationwide-brace-for-unrest/article_b03cae60-5289-57e5-84d9-f4a6c5a8c497.html"
+    excerpt: "Photo by: Frank Duenzl/picture-alliance/dpa/AP ImagesWaymo, the self-driving company of Google’s parent company Alphabet, has suspended its self-driving operations in San Francisco as businesses and cities brace for potential unrest following the presidential election."
+    publishedDateTime: 2020-11-04T03:10:00Z
+    webUrl: "https://www.channel3000.com/waymo-pulls-self-driving-cars-in-san-francisco-as-cities-nationwide-brace-for-unrest/"
     type: article
     provider:
-      name: KCTV News
-      domain: kctv5.com
+      name: Channel 3000
+      domain: channel3000.com
     quality: 32
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/custom/image/fd7ea874-0ed9-11eb-b9d4-0ff2ed620326.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.channel3000.com/content/uploads/2020/11/hypatia-h_bfe6eec850c45698ccc926b6623cac82-h_3f3331561d6fc6c4dc68055128326422-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
-secured: "Lt9CoilK+5dy1dp1ITICjOLjfxmRnHKT1G+SX9ZiBjhE/ivPlkeRqIbRyCI+/av6mmul1raX+LS9+NDUI6S98LPxiUjj95POq1Yz3u7NQ6wQNKO+6zt7Vlk0aRzHUnUgNewbGWlGtKYbu3bMRziDykwy+WwY68Dn8qQ8T13hreVaPzbi5e73bRPn/xwMqlrkj/hytNicfUpSXV+hLc0U+mx5quGhM4+qsEdwmRFpu90r9TFVHB/S9ENCh3ispzMmfn/YQZ7+KFDT/aamZHrVPIbBzKWoeTMRP7sNv7/kI+lVNgByeLRhXG/q3ng5Y6XjvqPfj/QOqOL0ufZ3r0APZ+923SoXs3Gj1liQzNz+WXk=;RZ4FK/D14HRebu1ZIPRMIQ=="
+secured: "asbAun1K8HB6rNgrCMaqjxH/JyYHiTlk5eEI4LdrjRrr4Hr6LgOTygL8fU41tWEHbiWP0+BoX7G5BroNPJMEIFtXtJ4d8pMhyHTQsrChMVzj4KJA/Y3mA633B5H3bxJ1SJNO9gQhBiAFEzeVtTFPoANHH2N3G2Ex1d8YUZc/+MV/6a2rYHyYFlaxXAI5Aovjc7OV3/mOwlXKhrddTr2mNWR3VCgVfoKKmiKeER+XYVDLmZtisHu8P33rsbke66mo1YgFdGSN4KU8IwD8uQixXi6L63+2l+eFNnex3TwUgM49ZD0VhMgG+8cc7UiDffYJgWbLcRqGs8jkhCVec9wphhsWDXhREffim2Yd/b3aYtGJvEXDFGtyjQWnVgODHQUgx2SO4gBzcca9VUcKidaQAoDSYVIRBqn1JQtbYhon1HEzRAjZusU1M00mXDQhqsrwR2jIXLgxt1fnXaeUx/gBBsTq6FkiBjqPW1gjWuGo0yc/i4Wh4M5TfMOLpoJsfxA7RAZ5BmcM1fFYhFfVlz+/BA==;jGdz0HQx9XEoNIZRFfN1hA=="
 ---
 

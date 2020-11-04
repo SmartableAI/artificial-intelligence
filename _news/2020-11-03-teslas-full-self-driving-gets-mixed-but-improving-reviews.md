@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Tesla raises price of ‘Full Self-Driving’ option to $10,000"
-    excerpt: "Tesla’s “Full Self-Driving” option, which currently enables Autopilot features like changing lanes on highways and automatic car parking, now costs $10,000, or $2,000 more than before. The price rise only covers the US for now, where the company’s ..."
-    publishedDateTime: 2020-10-30T10:26:00Z
-    webUrl: "https://www.theverge.com/2020/10/30/21541571/tesla-full-self-driving-price-increase-10000-dollars-autopilot-beta"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/30/21541571/tesla-full-self-driving-price-increase-10000-dollars-autopilot-beta"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/30/21541571/tesla-full-self-driving-price-increase-10000-dollars-autopilot-beta"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 104
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/Q2hKU1xHrSqpHBvLshBWf7i9NuI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67712901/acastro_180430_1777_tesla_0001.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "Want 'Full Self Driving' Mode on Your Tesla? Get Ready to Fork Over $10,000"
     excerpt: "The price hike was expected now that the Full Self Driving (FSD) capability is in beta. It's likely to increase more as the feature improves, so Tesla is hoping buyers will take advantage of it now."
     publishedDateTime: 2020-10-30T21:22:00Z
@@ -131,22 +115,6 @@ related:
         width: 800
         height: 451
         isCached: true
-  - title: "Waymo releases Phoenix area self-driving car incident score card"
-    excerpt: "Self-driving tech company Waymo, which this month opened its driverless taxi service in the Phoenix suburbs to the public, on Friday said its autonomous vehicles there had been involved in 18 minor incidents since 2019 during tests and actual rides."
-    publishedDateTime: 2020-10-30T19:11:00Z
-    webUrl: "https://www.reuters.com/article/autonomous-waymo-safety-int-idUSKBN27F23R"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27F23R"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27F23R"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201030&t=2&i=1539430698&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9T1AD"
-        width: 818
-        height: 545
-        isCached: true
   - title: "Tesla Full Self-Driving feature now costs $10,000"
     excerpt: "Tesla's long-promised Full Self-Driving mode reached its first customers in beta form a week and a half ago and we've already received a look at how the system operates on local roads, thanks to people on social media. Some report flawless activity ..."
     publishedDateTime: 2020-11-02T16:58:00Z
@@ -211,36 +179,6 @@ related:
         width: 3480
         height: 1494
         isCached: true
-  - title: "Tesla pushes new Full Self-Driving Beta update, Elon Musk says could slash interventions by a third"
-    excerpt: "Tesla has started pushing a new software update under its Full Self-Driving Beta program and CEO Elon Musk says it could already cut driver interventions by a third. It has been less than two ..."
-    publishedDateTime: 2020-10-31T16:56:00Z
-    webUrl: "https://electrek.co/2020/10/31/tesla-new-full-self-driving-beta-update-elon-musk-slashes-interventions/"
-    ampWebUrl: "https://electrek.co/2020/10/31/tesla-new-full-self-driving-beta-update-elon-musk-slashes-interventions/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/31/tesla-new-full-self-driving-beta-update-elon-musk-slashes-interventions/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 75
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-FSD-update.jpg?quality=82&strip=all"
-        width: 2774
-        height: 1122
-        isCached: true
-  - title: "Waymo And Other Self-Driving Car Companies Readying Real-World Driverless Transportation"
-    excerpt: "Until spring this year, Waymo’s self-driving vehicles were in their testing phase and were used in up to 10% of the firm’s rides. The pandemic forced the company to shutter its doors and temporarily suspend on-road testing, but it is now back online ..."
-    publishedDateTime: 2020-10-30T23:59:00Z
-    webUrl: "https://www.forbes.com/sites/peterlyon/2020/10/31/waymo-and-other-self-driving-car-companies-readying-real-world-driverless-transportation/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 75
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9e1ae8b307dfb172a46190%2F0x0.jpg"
-        width: 1199
-        height: 798
-        isCached: true
   - title: "Elon Musk Raises Price of Tesla's Full Self-Driving Package to $10,000 USD"
     excerpt: "Following through with what Elon Musk has said before, the CEO of Tesla has now announced a price hike for the EV automaker’s Full Self-Driving (FSD) package, bringing it up by $2,000 USD to $10,000 USD."
     publishedDateTime: 2020-11-03T06:49:00Z
@@ -256,20 +194,6 @@ related:
       - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F11%2Ftesla-elon-musk-full-self-driving-10000-usd-price-increase-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
         width: 1170
         height: 780
-        isCached: true
-  - title: "Tesla is now beta-testing self-driving software on public roads"
-    excerpt: "Tesla considers it to be beta software and says it's not intended for fully autonomous operation. Drivers are expected to keep their eyes on the road and hands on the wheel at all times. To understand the new software,"
-    publishedDateTime: 2020-10-30T11:45:00Z
-    webUrl: "https://arstechnica.com/cars/2020/10/tesla-is-now-beta-testing-self-driving-software-on-public-roads/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/10/tesla_jeeesus-760x380.jpg"
-        width: 760
-        height: 380
         isCached: true
   - title: "New Tesla self-driving software could reduce driver interventions by one third"
     excerpt: "Tesla only released the first version of its Full Self-Driving software beta just over a week ago, but it is already being updated with new improvements. The company has been collecting data from the early users and has made improvements that CEO Elon Musk ..."
@@ -297,22 +221,6 @@ related:
       - url: "https://media.9news.com/assets/CCT/images/5b2d9a1c-ebf7-467c-93bb-62af47399b18/5b2d9a1c-ebf7-467c-93bb-62af47399b18_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "Tesla's Full Self-Driving Beta 'Learns' Roundabouts And Speed Bumps"
-    excerpt: "Tesla's FSD system is \"learning.\" As you can see, it appears to make corrections once test drivers \"teach\" it."
-    publishedDateTime: 2020-10-30T13:43:00Z
-    webUrl: "https://insideevs.com/news/451720/teslas-full-self-driving-beta-learns-roundabouts-and-speed-bumps/"
-    ampWebUrl: "https://insideevs.com/news/451720/teslas-full-self-driving-beta-learns-roundabouts-and-speed-bumps/amp/"
-    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/451720/teslas-full-self-driving-beta-learns-roundabouts-and-speed-bumps/amp/"
-    type: article
-    provider:
-      name: Inside EVs
-      domain: insideevs.com
-    quality: 59
-    images:
-      - url: "https://cdn.motor1.com/images/mgl/0106m/s1/tesla-fsd-speed-bumps.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Tesla 'full self-driving' vehicles can't drive themselves"
     excerpt: "DETROIT — Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and ..."
@@ -345,22 +253,6 @@ related:
       - url: "https://media.ksdk.com/assets/CCT/images/5b2d9a1c-ebf7-467c-93bb-62af47399b18/5b2d9a1c-ebf7-467c-93bb-62af47399b18_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "Musk Says Canada And Norway Are Next To Get Tesla Full Self-Driving Beta"
-    excerpt: "FSD will be rolled out in the two countries after the necessary approvals are given, possibly in February or March."
-    publishedDateTime: 2020-11-03T19:58:00Z
-    webUrl: "https://insideevs.com/news/452324/canada-norway-next-to-get-tesla-fsd/"
-    ampWebUrl: "https://insideevs.com/news/452324/canada-norway-next-to-get-tesla-fsd/amp/"
-    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/452324/canada-norway-next-to-get-tesla-fsd/amp/"
-    type: article
-    provider:
-      name: Inside EVs
-      domain: insideevs.com
-    quality: 58
-    images:
-      - url: "https://cdn.motor1.com/images/mgl/nYB8R/s1/fsd.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Tesla Hikes Up the Price of ‘Full Self-Driving’ Option to $US10,000 ($14,241)"
     excerpt: "While the tech powering it is no doubt impressive, to call it “full self-driving” isn’t entirely accurate. Tesla warns users of its beta program that the software still requires vigilant monitoring and that “it may do the wrong thing at the worse ..."
@@ -424,15 +316,6 @@ related:
       name: InfoSur Hoy
       domain: infosurhoy.com
     quality: 14
-  - title: "Polaris Launches ‘Self-Driving’ PSA Cloud Software for IT Service Providers"
-    excerpt: "Polaris, backed by Replicon, launches Polaris PSA -- a cloud-based professional services automation software platform for IT service providers."
-    publishedDateTime: 2020-11-02T15:28:00Z
-    webUrl: "https://www.channele2e.com/channel-partners/msps/polaris-psa-for-it-service-providers/"
-    type: article
-    provider:
-      name: ChannelE2E
-      domain: channele2e.com
-    quality: 2
 
 secured: "+HXoY+5EuA7XDOKNziq9ZMAw4Ppj4ppBpUc4enc58FtcmS8zgGDh/UpzwbawUb4A/lrCJBPkpM3qnoVkFPLsC9to2KU6fGejONlSn9T+YTxA6qmES9CRaAJzuHRi/Lo+MVttZ3dfD3oh1BerYfAsXRYGUm9XcZNraQdOAMJqV6cxdPFCb8FS9aagHmfhvNvPTQElWQ/+I6PsbiOO27HiHGE5x2G02KnSzy87PygaewMpvYpVzgvIxyHP28MZuiLgJi1o9gwltRkSgumOZQxe/c3Cf8OsAlt2hV0HbviMlPPSn7rZNJAcsVQ3VdA93HK4jQJhBMylKNEYjt0d7UwLDW7RAlrSH8nkz/m+4mVEI50=;E+t17xmducmPg+UWtlJiRQ=="
 ---

@@ -159,6 +159,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-31-tesla-pushes-new-full-self-driving-beta-update-elon-musk-says-could-slash-interventions-by-a-third.md",
+      "title": "Tesla pushes new Full Self-Driving Beta update, Elon Musk says could slash interventions by a third",
+      "excerpt": "Tesla has started pushing a new software update under its Full Self-Driving Beta program and CEO Elon Musk says it could already cut driver interventions by a third. It has been less than two ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2020/10/31/tesla-new-full-self-driving-beta-update-elon-musk-slashes-interventions/",
+      "originalUrl": "https://electrek.co/2020/10/31/tesla-new-full-self-driving-beta-update-elon-musk-slashes-interventions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-FSD-update.jpg?quality=82&strip=all",
+          "width": 2774,
+          "height": 1122,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2020/10/31/tesla-new-full-self-driving-beta-update-elon-musk-slashes-interventions/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/31/tesla-new-full-self-driving-beta-update-elon-musk-slashes-interventions/amp/",
+      "publishedDateTime": "2020-10-31T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-31-waymo-shares-in-depth-details-of-self-driving-car-activity-in-phoenix.md",
       "title": "Waymo shares in-depth details of self-driving car activity in Phoenix",
       "excerpt": "Waymo’s vehicles have driven a total of 6.1 million miles in Phoenix, Arizona, where it first started testing its self-driving technology.",
@@ -211,6 +263,110 @@
       ]
     },
     {
+      "path": "_news/2020-10-31-want-full-self-driving-mode-on-your-tesla-get-ready-to-fork-over-10000.md",
+      "title": "Want 'Full Self Driving' Mode on Your Tesla? Get Ready to Fork Over $10,000",
+      "excerpt": "The price hike was expected now that the Full Self Driving (FSD) capability is in beta. It's likely to increase more as the feature improves, so Tesla is hoping buyers will take advantage of it now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/want-full-self-driving-mode-on-your-tesla-get-ready-to-fork-over-10000",
+      "originalUrl": "https://www.pcmag.com/news/want-full-self-driving-mode-on-your-tesla-get-ready-to-fork-over-10000",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 302,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/02kdtIiBEkRPNAkOLHK6m0v-1.1604092224.fit_lim.size_1200x630.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/want-full-self-driving-mode-on-your-tesla-get-ready-to-fork-over-10000?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/want-full-self-driving-mode-on-your-tesla-get-ready-to-fork-over-10000?amp=true",
+      "publishedDateTime": "2020-10-30T14:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-31-daimler-trucks-self-driving-haulage-finds-a-key-part-of-its-autonomous-vision.md",
+      "title": "Daimler Trucks’ self-driving haulage finds a key part of its autonomous vision",
+      "excerpt": "Daimler Trucks just gone done inking a collaboration with Waymo, and now it’s picking out cutting edge sensors for its self-driving haulage as the pieces slot into place for autonomy. The German automaker announced earlier this week that it would be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/daimler-trucks-luminar-autonomous-haulage-investment-volvo-waymo-30645189/",
+      "originalUrl": "https://www.slashgear.com/daimler-trucks-luminar-autonomous-haulage-investment-volvo-waymo-30645189/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/10/Daimler_Truck_Luminar.jpg",
+          "width": 1680,
+          "height": 1049,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/daimler-trucks-luminar-autonomous-haulage-investment-volvo-waymo-30645189/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/daimler-trucks-luminar-autonomous-haulage-investment-volvo-waymo-30645189/amp/",
+      "publishedDateTime": "2020-10-30T12:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-waymos-driverless-cars-were-involved-in-18-accidents-over-20-months.md",
       "title": "Waymo’s driverless cars were involved in 18 accidents over 20 months",
       "excerpt": "Major stakeholders like Pony.ai, Baidu, Tesla, Argo.AI ... to test what results from the use of software that embodies self-driving cars’ automation with a broad, agreed-upon framework in ...",
@@ -219,7 +375,7 @@
       "originalUrl": "https://venturebeat.com/2020/10/30/waymos-driverless-cars-were-involved-in-18-accidents-over-20-month/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -640,6 +796,102 @@
         "name": "The Star",
         "domain": "thestar.com.my",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-5-best-robotics-and-artificial-intelligence-stocks-to-buy.md",
+      "title": "5 Best Robotics and Artificial Intelligence Stocks To Buy",
+      "excerpt": "Google AI is the company’s division that focuses exclusively on artificial intelligence and Waymo is probably the most advanced autonomous driving technology company in the world (though Chinese ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17135035/50882921_ml.jpg",
+          "width": 1678,
+          "height": 1119,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-27T22:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-why-the-future-needs-optical-data-centres.md",
+      "title": "Why the future needs optical data centres",
+      "excerpt": "Driverless cars, AI ... on the pressure from new types of workloads [such as machine learning and artificial intelligence] and the cloud providers’ strategy on innovation.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/server-storage/data-centres/357557/why-the-future-needs-optical-data-centres",
+      "originalUrl": "https://www.itpro.co.uk/server-storage/data-centres/357557/why-the-future-needs-optical-data-centres",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1603799164/itpro/2020/10/shutterstock_fibre_optic_cable.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-27T15:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1241,239 +1493,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-watch-early-testers-try-teslas-full-self-driving-mode-for-the-first-time.md",
-      "title": "Watch early testers try Tesla's Full Self-Driving mode for the first time",
-      "excerpt": "On Friday, we finally got a glimpse at a long-awaited feature that Elon Musk rolled out this week for a select group of Tesla owners: Full Self-Driving mode. Only a small group of Tesla-chosen ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/tesla-full-self-driving-early-test-drives/",
-      "originalUrl": "https://mashable.com/video/tesla-full-self-driving-early-test-drives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 228,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F10%252F23%252Fd2%252F48c38dd430d84e6bb64dc47643ea67e7.6a961.jpg%252F1200x630.jpg?signature=Wzt3HAjZm8sE5SgscR16FQXo_fQ=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/video/tesla-full-self-driving-early-test-drives.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/tesla-full-self-driving-early-test-drives.amp",
-      "publishedDateTime": "2020-10-23T11:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-predictions-rosy-for-roadschooling-whence-self-driving-cars-arrive.md",
-      "title": "Predictions Rosy For ‘Roadschooling’ Whence Self-Driving Cars Arrive",
-      "excerpt": "The moment that you arrive at a landmark location provides ample time to stretch your legs and see new sights. For those stuck at home, it is the same four walls, day after day, week after week. Some twists and turns are to be expected while doing the road adventure approach.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/23/predictions-rosy-for-roadschooling-whence-self-driving-cars-arrive/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/23/predictions-rosy-for-roadschooling-whence-self-driving-cars-arrive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8cc61ec0a769024976968d%2F0x0.jpg%3FcropX1%3D1787%26cropX2%3D5571%26cropY1%3D197%26cropY2%3D2508",
-          "width": 1200,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/23/predictions-rosy-for-roadschooling-whence-self-driving-cars-arrive/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/23/predictions-rosy-for-roadschooling-whence-self-driving-cars-arrive/amp/",
-      "publishedDateTime": "2020-10-23T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-teslas-full-self-driving-beta-is-here.md",
-      "title": "Tesla's Full Self-Driving Beta Is Here",
-      "excerpt": "While Tesla's (NASDAQ:TSLA) third-quarter earnings report may be the primary focus when it comes to the electric-car maker's stock this week, the company also quietly rolled out a beta release of its full self-driving mode to a small group of drivers -- a technology that could eventually morph into an incredibly valuable asset for Tesla.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/10/23/teslas-full-self-driving-beta-is-here/",
-      "originalUrl": "https://www.fool.com/investing/2020/10/23/teslas-full-self-driving-beta-is-here/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 459,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F596184%2Ftesla-full-self-driving-mode.png&w=1200&op=resize",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/23/teslas-full-self-driving-beta-is-here/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/23/teslas-full-self-driving-beta-is-here/",
-      "publishedDateTime": "2020-10-23T03:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-how-smart-are-ai-chips-really.md",
-      "title": "How Smart Are AI Chips, Really?",
-      "excerpt": "The best part about the term “Artificial Intelligence” is that nobody can really tell you what it exactly means. The main reason for this stems from the term “intelligence”, with ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2019/11/04/how-smart-are-ai-chips-really/",
-      "originalUrl": "https://hackaday.com/2019/11/04/how-smart-are-ai-chips-really/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/02/rifroheader.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-uk-plans-for-self-driving-cars-threaten-safety-insurance-group.md",
-      "title": "UK Plans for Self-Driving Cars Threaten Safety: Insurance Group",
-      "excerpt": "UK Plans for Self-Driving Cars Threaten Safety: Insurance Group LONDON (Reuters) - British government plans that could allow self-driving cars on motorways as soon as 2021 would put lives at risk ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2020-10-22/uk-plans-for-self-driving-cars-threaten-safety-insurance-group",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2020-10-22/uk-plans-for-self-driving-cars-threaten-safety-insurance-group",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T16:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

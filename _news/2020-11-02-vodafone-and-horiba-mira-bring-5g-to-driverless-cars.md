@@ -41,6 +41,36 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Waymo releases Phoenix area self-driving car incident score card"
+    excerpt: "Self-driving tech company Waymo, which this month opened its driverless taxi service in the Phoenix suburbs to the public, on Friday said its autonomous vehicles there had been involved in 18 minor incidents since 2019 during tests and actual rides."
+    publishedDateTime: 2020-10-30T19:11:00Z
+    webUrl: "https://www.reuters.com/article/autonomous-waymo-safety-int-idUSKBN27F23R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27F23R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27F23R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201030&t=2&i=1539430698&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9T1AD"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "Waymo And Other Self-Driving Car Companies Readying Real-World Driverless Transportation"
+    excerpt: "Until spring this year, Waymo’s self-driving vehicles were in their testing phase and were used in up to 10% of the firm’s rides. The pandemic forced the company to shutter its doors and temporarily suspend on-road testing, but it is now back online ..."
+    publishedDateTime: 2020-10-30T23:59:00Z
+    webUrl: "https://www.forbes.com/sites/peterlyon/2020/10/31/waymo-and-other-self-driving-car-companies-readying-real-world-driverless-transportation/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 75
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9e1ae8b307dfb172a46190%2F0x0.jpg"
+        width: 1199
+        height: 798
+        isCached: true
   - title: "Waymo And Other Self-Driving Car Companies Readying Real-World Driverless Transportation"
     excerpt: "Just after Alphabet-owned Waymo started its driverless taxi service to the public in Phoenix, other autonomous vehicle developers are following suit with"
     publishedDateTime: 2020-11-01T02:25:00Z

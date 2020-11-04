@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-02-artificial-intelligence-robots-market-outlook-by-size-share-future-growth-and-forecast-from-2020-2023.md",
+      "title": "Artificial Intelligence Robots Market Outlook By Size, Share, Future Growth And Forecast From 2020-2023",
+      "excerpt": "Global AI Robots Market Research Report - by Offering (Software, Hardware), by Type (Service Robots, Industrial Robots),",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-outlook-by-size-share-future-growth-and-forecast-from-2020-2023-2020-11-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-outlook-by-size-share-future-growth-and-forecast-from-2020-2023-2020-11-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-01T18:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-02-ai-artificial-intelligence-lessons-from-the-world-series.md",
       "title": "AI (Artificial Intelligence) Lessons From The World Series",
       "excerpt": "So in light of all this, what are the lessons here? To answer this question, I asked some top people in the AI field and here’s what they had to say: Hindsight is always 20/20, but Cash’s decision to pull Snell illustrates the myopia that can occur when analytics are elevated above commonsense.",
@@ -407,6 +459,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-31-tesla-pushes-new-full-self-driving-beta-update-elon-musk-says-could-slash-interventions-by-a-third.md",
+      "title": "Tesla pushes new Full Self-Driving Beta update, Elon Musk says could slash interventions by a third",
+      "excerpt": "Tesla has started pushing a new software update under its Full Self-Driving Beta program and CEO Elon Musk says it could already cut driver interventions by a third. It has been less than two ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2020/10/31/tesla-new-full-self-driving-beta-update-elon-musk-slashes-interventions/",
+      "originalUrl": "https://electrek.co/2020/10/31/tesla-new-full-self-driving-beta-update-elon-musk-slashes-interventions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-FSD-update.jpg?quality=82&strip=all",
+          "width": 2774,
+          "height": 1122,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2020/10/31/tesla-new-full-self-driving-beta-update-elon-musk-slashes-interventions/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/31/tesla-new-full-self-driving-beta-update-elon-musk-slashes-interventions/amp/",
+      "publishedDateTime": "2020-10-31T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-31-waymo-shares-in-depth-details-of-self-driving-car-activity-in-phoenix.md",
       "title": "Waymo shares in-depth details of self-driving car activity in Phoenix",
       "excerpt": "Waymo’s vehicles have driven a total of 6.1 million miles in Phoenix, Arizona, where it first started testing its self-driving technology.",
@@ -666,6 +770,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-31-want-full-self-driving-mode-on-your-tesla-get-ready-to-fork-over-10000.md",
+      "title": "Want 'Full Self Driving' Mode on Your Tesla? Get Ready to Fork Over $10,000",
+      "excerpt": "The price hike was expected now that the Full Self Driving (FSD) capability is in beta. It's likely to increase more as the feature improves, so Tesla is hoping buyers will take advantage of it now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/want-full-self-driving-mode-on-your-tesla-get-ready-to-fork-over-10000",
+      "originalUrl": "https://www.pcmag.com/news/want-full-self-driving-mode-on-your-tesla-get-ready-to-fork-over-10000",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 302,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/02kdtIiBEkRPNAkOLHK6m0v-1.1604092224.fit_lim.size_1200x630.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/want-full-self-driving-mode-on-your-tesla-get-ready-to-fork-over-10000?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/want-full-self-driving-mode-on-your-tesla-get-ready-to-fork-over-10000?amp=true",
+      "publishedDateTime": "2020-10-30T14:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-31-ai-weekly-in-a-chaotic-year-ai-is-quietly-accelerating-the-pace-of-space-exploration.md",
       "title": "AI Weekly: In a chaotic year, AI is quietly accelerating the pace of space exploration",
       "excerpt": "And last week, Intel, the European Space Agency (ESA), and startup Ubotica detailed what they claim is the first AI-powered satellite to orbit Earth: the desktop-sized PhiSat-1. It aims to solve ...",
@@ -713,6 +869,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-31-daimler-trucks-self-driving-haulage-finds-a-key-part-of-its-autonomous-vision.md",
+      "title": "Daimler Trucks’ self-driving haulage finds a key part of its autonomous vision",
+      "excerpt": "Daimler Trucks just gone done inking a collaboration with Waymo, and now it’s picking out cutting edge sensors for its self-driving haulage as the pieces slot into place for autonomy. The German automaker announced earlier this week that it would be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/daimler-trucks-luminar-autonomous-haulage-investment-volvo-waymo-30645189/",
+      "originalUrl": "https://www.slashgear.com/daimler-trucks-luminar-autonomous-haulage-investment-volvo-waymo-30645189/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/10/Daimler_Truck_Luminar.jpg",
+          "width": 1680,
+          "height": 1049,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/daimler-trucks-luminar-autonomous-haulage-investment-volvo-waymo-30645189/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/daimler-trucks-luminar-autonomous-haulage-investment-volvo-waymo-30645189/amp/",
+      "publishedDateTime": "2020-10-30T12:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -936,7 +1144,7 @@
       "originalUrl": "https://venturebeat.com/2020/10/30/waymos-driverless-cars-were-involved-in-18-accidents-over-20-month/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -1079,204 +1287,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-ai-evolutions-and-revolutions-in-2021.md",
-      "title": "AI Evolutions And Revolutions In 2021",
-      "excerpt": "As I watch 2021 approach, I have both trepidation and hope. I have concern over the multitude of ways in which the world will change around me, but I also have hope for the promising opportunities in our future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/30/ai-evolutions-and-revolutions-in-2021/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/30/ai-evolutions-and-revolutions-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9ac26e14d92913a5ba9182%2F0x0.jpg",
-          "width": 1200,
-          "height": 696,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/30/ai-evolutions-and-revolutions-in-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/10/30/ai-evolutions-and-revolutions-in-2021/amp/",
-      "publishedDateTime": "2020-10-30T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-artificial-intelligence-platform-reduces-hospital-admissions-by-over-50-in-trial.md",
-      "title": "Artificial Intelligence Platform Reduces Hospital Admissions By Over 50% In Trial",
-      "excerpt": "An artificial intelligence-based diagnostic tool has reduced hospital admissions by 51% among elderly patients identified by the tool as being high-risk, according to results of a trial released by health care provider Clare Medical.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/simonchandler/2020/10/30/artificial-intelligence-platform-reduces-hospital-admissions-by-over-50-in-trial/",
-      "originalUrl": "https://www.forbes.com/sites/simonchandler/2020/10/30/artificial-intelligence-platform-reduces-hospital-admissions-by-over-50-in-trial/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9ab250fe11cd3ec3ad8215%2F0x0.jpg",
-          "width": 1200,
-          "height": 775,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/simonchandler/2020/10/30/artificial-intelligence-platform-reduces-hospital-admissions-by-over-50-in-trial/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/10/30/artificial-intelligence-platform-reduces-hospital-admissions-by-over-50-in-trial/amp/",
-      "publishedDateTime": "2020-10-30T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure.md",
-      "title": "Lindsay to Develop Sustainable and Profitable Solutions for Growers using Microsoft Azure",
-      "excerpt": "PRNewswire/ -- Lindsay Corporation (NYSE: LNN), a leading global manufacturer and distributor of irrigation and infrastructure equipment and technology, today announced the development of intelligent digital solutions using Microsoft Azure to enhance irrigation management,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-1029745663",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-1029745663",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-30T03:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-how-ai-is-helping-indian-cotton-farmers-reduce-pesticide-use.md",
-      "title": "How AI is helping Indian cotton farmers reduce pesticide use",
-      "excerpt": "There are more than 5.8 million cotton farmers in India according to the country’s Textile Ministry. Every year, they face heavy losses due to pests attacking their crops. In 2017, farmers in the state of Maharashtra faced a loss of ₹15,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/10/30/how-ai-is-helping-indian-cotton-farmers-reduce-pesticide-use/",
-      "originalUrl": "https://thenextweb.com/neural/2020/10/30/how-ai-is-helping-indian-cotton-farmers-reduce-pesticide-use/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/800px-CSIRO_ScienceImage_408_Cotton_Bearing_Cotton_Plant-e1604052065746-796x420.jpg",
-          "width": 796,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/10/30/how-ai-is-helping-indian-cotton-farmers-reduce-pesticide-use/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/30/how-ai-is-helping-indian-cotton-farmers-reduce-pesticide-use/amp/",
-      "publishedDateTime": "2020-10-30T03:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

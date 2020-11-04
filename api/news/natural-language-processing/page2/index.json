@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-16-fdp-on-artificial-intelligence-in-natural-language-processing-inaugurated-in-kiit.md",
+      "title": "FDP on ‘Artificial Intelligence in Natural Language Processing’ inaugurated in KIIT",
+      "excerpt": "Faculty Development Programme (FDP) on ‘Artificial Intelligence in Natural Language Processing’ organized virtually by The School of Computer Applications, KIIT Deemed to be",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/fdp-on-artificial-intelligence-in-natural-language-processing-inaugurated-in-kiit/",
+      "originalUrl": "https://indiaeducationdiary.in/fdp-on-artificial-intelligence-in-natural-language-processing-inaugurated-in-kiit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/10/2.png?fit=606%2C342&ssl=1",
+          "width": 606,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/fdp-on-artificial-intelligence-in-natural-language-processing-inaugurated-in-kiit/?amp",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/fdp-on-artificial-intelligence-in-natural-language-processing-inaugurated-in-kiit/?amp",
+      "publishedDateTime": "2020-10-16T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-speech-processing-solutions-next-generation-workflow-solution-with-ai-powered-speech-recognition.md",
       "title": "Speech Processing Solutions: Next-generation workflow solution with AI-powered speech recognition",
       "excerpt": "The new version of the Philips dictation workflow solution for enterprise businesses, SpeechExec Enterprise 7.0 (SEE 7.0), is now available in Europe and many international markets. The close collaboration between Nuance Communications and Speech Processing Solutions,",
@@ -1274,59 +1317,6 @@
       "topics": [
         "AI",
         "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-artificial-intelligence-used-to-predict-loneliness-in-senior-citizens.md",
-      "title": "Artificial Intelligence Used To Predict Loneliness In Senior Citizens",
-      "excerpt": "Publishing in the American Journal of Psychiatry, the researchers were able to harness natural language processing (NLP) and machine learning to classify the sentiment and emotions of speech.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/simonchandler/2020/09/30/artificial-intelligence-used-to-predict-loneliness-in-senior-citizens/",
-      "originalUrl": "https://www.forbes.com/sites/simonchandler/2020/09/30/artificial-intelligence-used-to-predict-loneliness-in-senior-citizens/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f747c5e462d02aecbe7e4f4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5568%26cropY1%3D181%26cropY2%3D3313",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/simonchandler/2020/09/30/artificial-intelligence-used-to-predict-loneliness-in-senior-citizens/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/09/30/artificial-intelligence-used-to-predict-loneliness-in-senior-citizens/amp/",
-      "publishedDateTime": "2020-09-30T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI",
         "Natural Language Processing"
       ]
     }

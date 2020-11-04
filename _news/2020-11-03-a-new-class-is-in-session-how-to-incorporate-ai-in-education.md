@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2020/11/03/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/11/03/a-new-class-is-in-session-how-to-incorporate-ai-in-education/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "MSc Artificial Intelligence Drop -in Session for Offer Holders"
-    excerpt: "Join our webinar to find out everything you need to know about your offer to study MSc Artificial Intelligence. Join us for an information session on your offer to study at Ulster University. This session will last approximately 1 hour with the opportunity ..."
-    publishedDateTime: 2020-10-30T11:54:00Z
-    webUrl: "https://www.ulster.ac.uk/global/events/2020/msc-artificial-intelligence-drop-in-session-for-offer-holders"
-    type: article
-    provider:
-      name: Ulster University
-      domain: ulster.ac.uk
-    quality: 37
-    images:
-      - url: "https://www.ulster.ac.uk/__data/assets/image/0003/265917/510.jpg"
-        width: 2000
-        height: 1331
-        isCached: true
 
 secured: "X1Gh+pbYJVS00jncifaPPCPgeZJMuJ2LRxqeNNxZA49Mu9kzoZF023isF+0u+BIAZJMkFDywHraGCFgeNCRlKXcq4U3cf+Jq8L1hVNIJ+y2OhNpgpUoUCdvwGT4unLSSMiOG+cO4/mhyXZ8mnlcNS4JonlXEBp3UBYew2b+eaDLbCZBSZumcjq/6vW10SfckCpBjpYAVl+QoWLcifINTKhmvtVuDkNYE8I0aOfAADHVq1nO1afkKlxJWhP+QJECIJuBo85PMSb/8t+HvK9ZF7rxpEIobLoTMbeitqy8ma0cBUpomXWpwpuiChIMDML9dTJzRBBtA3uBmrY9QwSjXt807AHMUwXQCGRvGHm2od4BjGLtlIwha6b7pgI7bR9iVac2/2DkKcLrJ4xemrwlj7QGjJv1VTX+Wav5jSKtPznUErk1/OU52yN/6l6gfP6dgW1rc5NV3fKSJal4jDtOyBmkEfAVnYWB1/3VJ3X+PF8+sEi16BqgNTpUnPN+OOledMtzBl6EFsEOkA5o1LJOxwA==;DGv2YZaaBJ3hgWRgHGHhVA=="
 ---

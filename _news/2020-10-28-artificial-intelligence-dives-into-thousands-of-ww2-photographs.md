@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Artificial intelligence dives into thousands of WW2 photographs"
-excerpt: "Artificial Intelligence (AI ... and the researchers wanted to demonstrate the advantages of using modern neural networks to analyse images to such an extent that the machine could automatically detect people and objects in a variety of scenes and even ..."
-publishedDateTime: 2020-10-28T14:54:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-10/au-aid102820.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-10/au-aid102820.php"
+excerpt: "In a new international cross disciplinary study, researchers from Aarhus University, Denmark and Tampere University, Finland have used artificial intelligence to analyse large amounts of historical photos from WW2."
+publishedDateTime: 2020-10-28T14:59:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-10/au-aid102820.php?fbclid=IwAR3MCWLzjCs9JHAEmDaF9DnqsTkKAtWogCIb8HDnnagM3yh-s6EM1Ddh4Y8"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-10/au-aid102820.php?fbclid=IwAR3MCWLzjCs9JHAEmDaF9DnqsTkKAtWogCIb8HDnnagM3yh-s6EM1Ddh4Y8"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 976
     isCached: true
 
-secured: "6nt/zlZAkNTG8CfS6+n1Nau4GdYKtGi3sqjCXMf9d0ffcVzhhy1XSQjiqmH5F1Ki6S3a8cEte4Y+LxyhQMIDYlnyj8o3TCx1l4egk1UFFL1Uc+WRYNXT9mfay9txAUld3/KF0YBVM1SFMfYTt+CC2rfSZyzAdXpctWmzo3+d8Wxk0K9Od4p0/uV/Z5x6p5wNmGD0oWX6oGcZrYfVEfJWVQ70FS4K+oFUVNBM5QYSaF/abv/Q94MGBSo9P6saxWfk7j0M/aH9hkbsB4/JLmGlYz6SFFnreAEZPxtPjUR27sV1bMpy7QcWXBcKk0swCrVuyYJYIedydbbQOnPeGh9wGIhpa85aNTchZsAF75Keq1c=;JJO+ubXE7bfYR837XlUiuQ=="
+secured: "Q1pVFbYWtKjc3YLr+jESW8qrxd+1PfOx6YaYuijC2gsHYmQt2fw3H1JiU3b/7wdvG5gUAm82+7bcfjPILJjNtEGEp4X5TpekU8rQSBMsO047lvbEQEkPBRLYLMen3ZG16IEfY/R/sUXR+amv1KrazH+NfoQPN41e058ekoH21WO/96UWIv5ZtGUKO480gbvlpWkYzpzvON9JJ3G4B0lk4iqAmO6WjJcycm+iGtf08IY72ldLfLcIxn/mlr8fw++DUY35ovY4tWcKRh02e9R3RnWiMCxuyW2rzDd+s7qoJA3B50LW5zx793vFYz9WDUQODE1UBp5mG2Ovx+Fh7xb45KPTOMKCKqC5GQMGn/yoKhU=;gDNypQGHu28vxMO+OeRM7g=="
 ---
 

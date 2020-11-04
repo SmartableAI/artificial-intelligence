@@ -159,6 +159,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-29-cloud-natural-language-processing-nlp-market-2020-segmentation-consumption-demand-growth-trend-opportunity-and-forecast-to-2027.md",
+      "title": "Cloud Natural Language Processing (NLP) Market 2020 Segmentation, Consumption, Demand, Growth, Trend, Opportunity and Forecast to 2027",
+      "excerpt": "Comserve Inc. / -- The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2020-segmentation-consumption-demand-growth-trend-opportunity-and-forecast-to-2027-2020-10-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2020-segmentation-consumption-demand-growth-trend-opportunity-and-forecast-to-2027-2020-10-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T21:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-natural-language-processing-nlp-market-trends-top-key-players-regions-and-industry-size-and-forecast-to-2027.md",
       "title": "Natural Language Processing (NLP) Market Trends, Top Key Players, Regions and Industry Size and Forecast to 2027",
       "excerpt": "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 The key players included in this market are [[24]7.",
@@ -1410,49 +1462,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-fdp-on-artificial-intelligence-in-natural-language-processing-inaugurated-in-kiit.md",
-      "title": "FDP on ‘Artificial Intelligence in Natural Language Processing’ inaugurated in KIIT",
-      "excerpt": "Faculty Development Programme (FDP) on ‘Artificial Intelligence in Natural Language Processing’ organized virtually by The School of Computer Applications, KIIT Deemed to be",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/fdp-on-artificial-intelligence-in-natural-language-processing-inaugurated-in-kiit/",
-      "originalUrl": "https://indiaeducationdiary.in/fdp-on-artificial-intelligence-in-natural-language-processing-inaugurated-in-kiit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/10/2.png?fit=606%2C342&ssl=1",
-          "width": 606,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/fdp-on-artificial-intelligence-in-natural-language-processing-inaugurated-in-kiit/?amp",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/fdp-on-artificial-intelligence-in-natural-language-processing-inaugurated-in-kiit/?amp",
-      "publishedDateTime": "2020-10-16T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
         "publishers": null,
         "authors": null
       },
