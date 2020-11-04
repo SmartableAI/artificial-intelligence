@@ -70,20 +70,6 @@ related:
         width: 1152
         height: 720
         isCached: true
-  - title: "How Artificial Intelligence Will Help with Productivity"
-    excerpt: "The manufacturing companies can use artificial intelligence to increase their productivity and make informed business decisions. FREMONT, CA: In the last few years, artificial intelligence is taking progressive steps to improve manufacturing efficiency and ..."
-    publishedDateTime: 2020-10-30T13:45:00Z
-    webUrl: "https://www.cioreview.com/news/how-artificial-intelligence-will-help-with-productivity-nid-32231-cid-175.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 37
-    images:
-      - url: "https://www.cioreview.com/newsimages/705x485_FxiPq81f.jpg"
-        width: 705
-        height: 485
-        isCached: true
 
 secured: "XUXj/+v+4AVKHczAHTLtA6LB7O140VC2xW6vG5IJT5N1PKmBKcI4mENnHSmV/Pi6UcXTZfrXhCuvZEJh+eUmuBNzVb/Tt19gOry6U5XaOdAgVzvdYcqw72hBbzmRid8FEn70hM6i1F+ImlqAl/eN/QIkbJFPlT/8yF68MbX+DwA1PlZARWDpbiSbc9UUeC5/jDKY2dW0erGIVRfopNP5E192O8lNntj2T3dE7+1YsE9Hsus/5wJEYiZVSZICRAzvuT3GAguHk4HTko/E8NogEcZwBesQ8xCtd0/Vxvrk8rSbX0wAz5hBrExv/D23vjaFqs2fQwcvsE4xURiuPY77FJg0QOvM21DCFh82quo0aRs=;m0Dzy6umP2fyRiCHjpkGgw=="
 ---

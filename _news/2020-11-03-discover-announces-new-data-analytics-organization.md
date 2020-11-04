@@ -35,6 +35,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Researchers claim AI tool can predict heart disease by analysing retinas"
+    excerpt: "The examination of retinal blood vessels to predict a patient's risk of CVD is not new, but the software used to carry out the procedure can now be semi-automated."
+    publishedDateTime: 2020-11-04T05:50:00Z
+    webUrl: "https://www.zdnet.com/video/researchers-claim-ai-tool-can-predict-heart-disease-by-analysing-retinas/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 66
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/11/02/1dd1c9b4-23ec-4a00-b2aa-dd770665c6d2/thumbnail/370x278/ce957be3d3279294a72a3850df8e4d05/20201102-depot-larry.jpg"
+        width: 370
+        height: 278
+        isCached: true
   - title: "Google partners with Knowlarity to expand its speech analytics platform in India"
     excerpt: "Google has partnered with Singapore-headquartered cloud telephony firm Knowlarity to expand its speech recognition and analytics services in India."
     publishedDateTime: 2020-11-03T06:33:00Z

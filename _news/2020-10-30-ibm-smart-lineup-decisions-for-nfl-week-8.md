@@ -8,9 +8,6 @@ webUrl: "https://www.espn.com/fantasy/football/story/_/page/smartlineup201030/ib
 ampWebUrl: "https://www.espn.com/fantasy/football/story/_/page/smartlineup201030/ibm-smart-lineup-decisions-nfl-week-8?platform=amp"
 cdnAmpWebUrl: "https://www-espn-com.cdn.ampproject.org/c/s/www.espn.com/fantasy/football/story/_/page/smartlineup201030/ibm-smart-lineup-decisions-nfl-week-8?platform=amp"
 type: article
-quality: 44
-heat: 44
-published: false
 
 provider:
   name: ESPN
@@ -26,6 +23,6 @@ images:
     height: 729
     isCached: true
 
-secured: "kJtFEgmFcACA9Tp2GDuUR1eqB8B23/5jFoqK+6SItYwPv8TKlHYfOkjCai4kp7CiowQlzSntXYcZx8zQwzVXz47IV2H6WOEZY0GHgssj1/vAqo36Re79AUGAvDFQqWpUOOVtMvciAo1JvfilMo/IjLGgJhk0dJ7k6Gm8Uhb7YuqcBLBRDoyDzA0zCy9HPf5o+kbWhcsIJygXbcBPBC3VUrrFh6Q5AGlRhr3sga4HnVtVH0Cu3c3GqvTs7o7REAamP7bB6+L8AIVNgadS909Tcbt3Fh0g4g+8JbAuzbPYZ+VizwSVvqx+pK7Njnv+XKLd1v2cFGPNYSznajIiDaucZbTWEiF3gaTG3ZbCxUxFbBw=;CS/huVRfNB8Z7ZbFenSPYQ=="
+secured: "mN2+Q8GbKUkymwrTqjUl0qXE2u1oC4WHTeVUu2N5N6Lg5BvWt23G/O3gWK3ljnPSyYnQDYiJI0w8RaFLY7iV4FKwlQ3XdU4XNdruJznqpHQK5BkrSssZ4j2uBvrZYPiS7jkAzfdCUKzuUlcxWMWyDLg9/d2HgbLNbRt5/6idZJp3nDzxIc5FykwVcChk+Hp7dGZpxsp3i7ODFM+vern/Koz72gDNggf81BQ6vt38H+FC7O9kmzwbE1CWQuQb9WQ7bn14SZ0hKQHn25DarcsD1yp/D/oBhGEqmSHkFQflPl1dDtp9dk9Tkr5GXw5giGG2NZocxwIWfnz6dX4cVpOynfZFWA5Qd2lgCdabQqICXRs=;BDrUdvr3qjlV9qksnT7YTg=="
 ---
 

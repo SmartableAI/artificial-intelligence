@@ -43,6 +43,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Researchers claim AI tool can predict heart disease by analysing retinas"
+    excerpt: "The examination of retinal blood vessels to predict a patient's risk of CVD is not new, but the software used to carry out the procedure can now be semi-automated."
+    publishedDateTime: 2020-11-04T05:50:00Z
+    webUrl: "https://www.zdnet.com/video/researchers-claim-ai-tool-can-predict-heart-disease-by-analysing-retinas/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 66
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/11/02/1dd1c9b4-23ec-4a00-b2aa-dd770665c6d2/thumbnail/370x278/ce957be3d3279294a72a3850df8e4d05/20201102-depot-larry.jpg"
+        width: 370
+        height: 278
+        isCached: true
   - title: "Global Predictive Analytics Market (2020 to 2025) - Advent of Machine Learning and Artificial Intelligence is Driving Growth"
     excerpt: "The \"Predictive Analytics Market by Solution (Financial Analytics, Risk Analytics, Marketing Analytics, Web & Social Media Analytics,"
     publishedDateTime: 2020-11-03T17:15:00Z

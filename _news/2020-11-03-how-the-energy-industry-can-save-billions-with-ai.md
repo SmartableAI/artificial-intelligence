@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/video/how-the-energy-industry-can-save-billi
 webUrl: "https://www.zdnet.com/video/how-the-energy-industry-can-save-billions-with-ai/"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -69,20 +69,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFh5BNx5U2Vlg/article-cover_image-shrink_720_1280/0?e=1609977600&v=beta&t=0X7_yjbOj4s0sXVSK49Raku6erVHawRL_q-3W6o79ow"
         width: 1152
         height: 720
-        isCached: true
-  - title: "How Artificial Intelligence Will Help with Productivity"
-    excerpt: "The manufacturing companies can use artificial intelligence to increase their productivity and make informed business decisions. FREMONT, CA: In the last few years, artificial intelligence is taking progressive steps to improve manufacturing efficiency and ..."
-    publishedDateTime: 2020-10-30T13:45:00Z
-    webUrl: "https://www.cioreview.com/news/how-artificial-intelligence-will-help-with-productivity-nid-32231-cid-175.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 37
-    images:
-      - url: "https://www.cioreview.com/newsimages/705x485_FxiPq81f.jpg"
-        width: 705
-        height: 485
         isCached: true
 
 secured: "3ZMcFcjBz92+sEA5t2AXSia0hrJx7XYRydGiXnpOTe3Fpppe0hKLfKgWwxasKN0R1nLSVP+vCOqlAI9eSQhbEr1SiEbYTzi4B9LpBOHo9tXUuYLiz2mgDRTzKoriK0ETx/ykg/m+Mj1CdsBRGEljDQ0Wo1vtjKidKiJxfLVxdpoDLIWmWvXBsm6hmohnGcqMaV+obFGC2f/TC+1CaNP9EjG8Dkfvl7a3ZXFE/7Qj78ZFIfS/TAxAtmz1xDpkvHX0jFDRmQpmu6n/zZMXOMFfD4oKyPO2svCZtGAzoKVH+mwnZ3AtzcI3NyLFNgZFKHe+H1m7vkf2GYC5hf150/9L/kayzXeR+10cqRJMLJm+9nE=;EXRWZRqKzxuIULTB8ZVTug=="

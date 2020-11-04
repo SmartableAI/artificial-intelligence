@@ -1,20 +1,30 @@
 ---
 category: news
 title: "IBM Study: AI-driven Virtual Agents Can Drive Customer Satisfaction and Cost Savings Amid COVID-19"
-excerpt: "As many organizations across the world look to digital tools to help address surges in customer inquiries due to the COVID-19 pandemic, a new IBM study revealed 99% of respondents report an increase in customer satisfaction as a result of using AI-driven virtual agent technology."
-publishedDateTime: 2020-10-28T14:30:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-virus-outbreak-lung-disease-health-diseases-and-conditions-8d2b93a339b25c986b3c3dd0262b9e5d/gallery/140d2107145ac6b5139433ecb79ed8c0"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-virus-outbreak-lung-disease-health-diseases-and-conditions-8d2b93a339b25c986b3c3dd0262b9e5d/gallery/140d2107145ac6b5139433ecb79ed8c0"
+excerpt: "The research showed organizations that are early adopters of AI and cloud technology are reaping ... USD 5.50 per contained conversation using IBM Watson Assistant. The IBM Institute for Business ..."
+publishedDateTime: 2020-10-28T14:42:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-study-ai-driven-virtual-agents-can-drive-customer-satisfaction-and-cost-savings-amid-covid-19-1029735274"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-study-ai-driven-virtual-agents-can-drive-customer-satisfaction-and-cost-savings-amid-covid-19-1029735274"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
-secured: "UJRbOm0C8wIH3wS20VZLNMs1tRG36psOhxgLunx0uHPKRkFvvQk+eUKdWRRkEO0+0uHCy1aTupPz89amfUX8XA20rwftbLLpF429dw/O8O+c3F9GX0Ju1hOjz8hFIhfUwwRrf9/A0efd2AYZLhIpEnjGNHe63iuQMm5DGn7/ypsj5W/E9HfQYnTQSATbswbm05tvAsDiSs8QtqKhvDFg3AvEmo8yJng+EQ1mTi84obpFHo+nXGzP2JcI0dwiWjGPqV6f6a/o+I7xXBUvDWBrRYDCdGp6zxDrr3y/YC9DL/l2aj7Z/f/ZvU/Wm49KrRkxuyxldT8LZgMOSTLutHnah+AjRmt4j6cy3O/quksxHbU=;aP2tI6uR3O6vgrKPLK2elg=="
+images:
+  - url: "https://mma.prnewswire.com/media/1322193/IBM_AI_Study.jpg"
+    width: 400
+    height: 225
+    isCached: true
+
+secured: "DapT41RlEU1xmsgzjazotVYn5ndHOGWT/A5mtMX/K6gxKycBWPwjvzrQWfU5b6bkMLLotnU84aWYvl9ET6vqWZB34pavXZXQ5+LRXY/bGLACCN+aoxQoUbQQIcVqraYL86gMIuV0SrFDkB0SL4mQInyM1KJ8vuQBoLo9MMJ2Y8jEeRB3BRlbu2mPGTxrGFTh0XaSGAzu52OLjcHZ7FpRvbc9e4GLeMbc9aFCkyX5ynkD2NkyqNwSCPXw1a94WARjRuDSlF7NOl7R7MYGYVnIKnSfNjdKbVKtG7x2pai8M81J+f1x6SDW7kGUWkN7vK7TK4LdxiVcW54cj/pelSaZ6WTPjcZudNRy8dlGusCIPKA=;W+evwpSHvypXXvcWLyAhAA=="
 ---
 

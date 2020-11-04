@@ -3,10 +3,10 @@ category: news
 title: "Brazil creates national AI innovation network"
 excerpt: "A network of research centers will support startups and established businesses in the development of new products and services based on the technology."
 publishedDateTime: 2020-11-02T17:47:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/brazil-creates-national-ai-innovation-network/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/brazil-creates-national-ai-innovation-network/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/brazil-creates-national-ai-innovation-network/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/brazil-creates-national-ai-innovation-network/"
+originalUrl: "https://www.zdnet.com/article/brazil-creates-national-ai-innovation-network/"
+webUrl: "https://www.zdnet.com/article/brazil-creates-national-ai-innovation-network/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/brazil-creates-national-ai-innovation-network/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazil-creates-national-ai-innovation-network/"
 type: article
 quality: 67
 heat: 87
@@ -53,6 +53,6 @@ related:
         height: 315
         isCached: true
 
-secured: "ZeCjxS33Vnlh1/QMYsFzINd3ByyA9j0Cba+tL4LNGfoaTo1d4q5okSKNhJbC7nTM4/D1zj6MKGLACSvjNHxCd9X9dCPW6KfsKMuErAMYYRevU3lQvyHuisJyZl3IXGJt+93p9er/IZZ+dC0zotM+m6nosAGmFatKJ/kdoCbcB+6AgIlevMQeW9otWj4XqW4S/80WZJCKmOjp+5nKJo5EfSjyRwKp0rludUCbdvWotvJmeP+RxpWtMXkbi6UyQECPUMZnHd52ImKBxIeOMDKlAIkvrJ97vKBcbCfDtpCYRr2eh85CscsbHNt6pf5mHHNen9UvsNbI9o6vmmr2Q18jpD2H4CY2JFjYvYawcCa2NFIILetRjY0Y76EuZs0Osddd3S2Qa95yG3c3erFWHBe3lQ5sEDzUGBK0cPAuSHL5NLgr9q6majiAV+z6bbx9ZkMUKH6H/fO1TyxlIJ6XXQ8bhb6jEkv1mUvDkb++D5UfVyAM3lGrsuMKr6AUHYfmZxTcWYu4SFV5f96HfHpqYpKHNw==;3F+B21AhAhKo/BHPEBgsrg=="
+secured: "X0XpOqDSh2d2NwVbgLprU49uJcCPt20x1F1Ak/i1ybVAcKILa3MwojWfuNqTRoWKPmYkZ10KIC7eXm3xKHdbMOP+iPnUFEdn/DPNSHvF5LxvjCMg0rKCvF+lwNtG5H1a1JDv68UYZY1c1NPdrzF3OXt1i4cBtAWXrMPqvssAmLe/XrCdPsHFrklaOEICbx16ROO4RIJ3bePHd4tKvdYI2x+51yF4kWlHhAIs4kfdH3JRKpNR3qJkyrC3GLkpGYiPAPt//8ZFQoGW6MQcu2arSH1NUIniHDwY77sjgYWxCCHIHLfyM3aDTRbQLGFyHOsLitPkDHZN89eYXHujrHFKLW9UW4kyPOJMBoGBmqjEu6iwDK4q+1IUrMPDZoWlNYa5anFChdMTtz3Vrly0MODQ5GbMUt6jITcLewOrQinuKd6qSEvgq+6zlXiaTx6nV+txSS6e8iDV56d67+Em/px+zpldJPVwR2ixZ0JhZFF1ylt7WEApO8+HOOeYX8g3sg+nszH4e/4RWgrScDNpQyBjyA==;dmP1kOTpsoDc/a/hTgwh6g=="
 ---
 

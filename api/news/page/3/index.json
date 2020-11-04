@@ -2,6 +2,108 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-02-sk-telecom-offers-ai-voice-analysis-for-dementia-diagnosis.md",
+      "title": "SK Telecom offers AI voice analysis for dementia diagnosis",
+      "excerpt": "SK Telecom and Seoul National University College of Medicine have developed an artificial intelligence (AI) tool to help identify dementia earlier.  The AI tool analyses the voices of patients by having a 10-minute conversation with them to determine if they may have dementia,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/sk-telecom-offers-ai-voice-analysis-for-dementia-diagnosis/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/sk-telecom-offers-ai-voice-analysis-for-dementia-diagnosis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/11/02/f80ec592-7c98-46ce-b128-0641996858f7/skt-ai-3.jpg",
+          "width": 1600,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/sk-telecom-offers-ai-voice-analysis-for-dementia-diagnosis/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/sk-telecom-offers-ai-voice-analysis-for-dementia-diagnosis/",
+      "publishedDateTime": "2020-11-01T21:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-02-ai-projects-building-vs-buying-and-what-to-consider-with-diy.md",
+      "title": "AI Projects: Building Vs. Buying And What To Consider With DIY",
+      "excerpt": "AI is vital not only to short-term survival, but to prevailing in the marketplace and growing into the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/02/ai-projects-building-vs-buying-and-what-to-consider-with-diy/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/02/ai-projects-building-vs-buying-and-what-to-consider-with-diy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9c2ffccbda05987ab38586%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/02/ai-projects-building-vs-buying-and-what-to-consider-with-diy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/02/ai-projects-building-vs-buying-and-what-to-consider-with-diy/amp/",
+      "publishedDateTime": "2020-11-01T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-02-artificial-intelligence-robots-market-outlook-by-size-share-future-growth-and-forecast-from-2020-2023.md",
       "title": "Artificial Intelligence Robots Market Outlook By Size, Share, Future Growth And Forecast From 2020-2023",
       "excerpt": "Global AI Robots Market Research Report - by Offering (Software, Hardware), by Type (Service Robots, Industrial Robots),",
@@ -62,7 +164,7 @@
       "originalUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/01/ai-artificial-intelligence-lessons-from-the-world-series/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -467,7 +569,7 @@
       "originalUrl": "https://electrek.co/2020/10/31/tesla-new-full-self-driving-beta-update-elon-musk-slashes-interventions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -519,7 +621,7 @@
       "originalUrl": "https://www.engadget.com/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -778,7 +880,7 @@
       "originalUrl": "https://www.pcmag.com/news/want-full-self-driving-mode-on-your-tesla-get-ready-to-fork-over-10000",
       "featuredContent": null,
       "highlight": null,
-      "heat": 302,
+      "heat": 282,
       "tags": null,
       "images": [
         {
@@ -1168,109 +1270,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-ai-technology-can-enhance-human-centered-work-instead-of-threaten-it.md",
-      "title": "AI Technology Can Enhance Human-Centered Work Instead Of Threaten It",
-      "excerpt": "Samasource, a training data and validation company, believes AI can enhance how we work. The company operates with care for its employees and communities, showing that advanced technology solutions do not have to be the enemy of a human-centered workforce.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/christophermarquis/2020/10/30/ai-technology-can-enhance-human-centered-work-instead-of-threaten-it/",
-      "originalUrl": "https://www.forbes.com/sites/christophermarquis/2020/10/30/ai-technology-can-enhance-human-centered-work-instead-of-threaten-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9bf2c78d0cace826a29403%2F0x0.jpg",
-          "width": 1200,
-          "height": 713,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/christophermarquis/2020/10/30/ai-technology-can-enhance-human-centered-work-instead-of-threaten-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christophermarquis/2020/10/30/ai-technology-can-enhance-human-centered-work-instead-of-threaten-it/amp/",
-      "publishedDateTime": "2020-10-30T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-daimler-invests-in-lidar-startup-to-bolster-self-driving-truck-effort.md",
-      "title": "Daimler Invests in Lidar Startup to Bolster Self-Driving Truck Effort",
-      "excerpt": "Daimler AG’s truck unit is investing in a laser-sensor startup to bolster its development of self-driving trucks in the U.S. less than a week after striking a deal to use driverless technology from a unit of Google parent Alphabet Inc. Daimler Truck AG ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-30/daimler-isn-t-relying-solely-on-waymo-for-self-driving-trucks",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-30/daimler-isn-t-relying-solely-on-waymo-for-self-driving-trucks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivAEZ0L1V7mU/v0/360x-1.jpg",
-          "width": 360,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-30/daimler-isn-t-relying-solely-on-waymo-for-self-driving-trucks",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-30/daimler-isn-t-relying-solely-on-waymo-for-self-driving-trucks",
-      "publishedDateTime": "2020-10-30T04:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

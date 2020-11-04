@@ -1,20 +1,20 @@
 ---
 category: news
-title: "'We're burning cash': Leddartech eyes acquisitions as capital-draining autonomous vehicle space gets crowded"
-excerpt: "We won’t accept that robots make mistakes,\" says Leddartech CEO “We’re burning cash,” Charles Boulanger replies without hesitation when asked if the company he helms is profitable. While LeddarTech Inc."
-publishedDateTime: 2020-11-03T19:45:00Z
-originalUrl: "https://thestarphoenix.com/technology/were-burning-cash-leddartech-eyes-acquisitions-as-capital-draining-autonomous-vehicle-space-gets-crowded"
-webUrl: "https://thestarphoenix.com/technology/were-burning-cash-leddartech-eyes-acquisitions-as-capital-draining-autonomous-vehicle-space-gets-crowded"
-ampWebUrl: "https://thestarphoenix.com/technology/were-burning-cash-leddartech-eyes-acquisitions-as-capital-draining-autonomous-vehicle-space-gets-crowded/wcm/54235ce2-41f0-4071-89a9-c045fddf2e25/amp/"
-cdnAmpWebUrl: "https://thestarphoenix-com.cdn.ampproject.org/c/s/thestarphoenix.com/technology/were-burning-cash-leddartech-eyes-acquisitions-as-capital-draining-autonomous-vehicle-space-gets-crowded/wcm/54235ce2-41f0-4071-89a9-c045fddf2e25/amp/"
+title: "'We're burning cash': LeddarTech eyes acquisitions as capital-draining autonomous vehicle space gets crowded"
+excerpt: "We won’t accept that robots make mistakes,\" says LeddarTech CEO “We’re burning cash,” Charles Boulanger replies without hesitation when asked if the company he helms is profitable. While LeddarTech Inc."
+publishedDateTime: 2020-11-03T18:43:00Z
+originalUrl: "https://www.thesudburystar.com/technology/were-burning-cash-leddartech-eyes-acquisitions-as-capital-draining-autonomous-vehicle-space-gets-crowded/wcm/54235ce2-41f0-4071-89a9-c045fddf2e25"
+webUrl: "https://www.thesudburystar.com/technology/were-burning-cash-leddartech-eyes-acquisitions-as-capital-draining-autonomous-vehicle-space-gets-crowded/wcm/54235ce2-41f0-4071-89a9-c045fddf2e25"
+ampWebUrl: "https://www.thesudburystar.com/technology/were-burning-cash-leddartech-eyes-acquisitions-as-capital-draining-autonomous-vehicle-space-gets-crowded/wcm/54235ce2-41f0-4071-89a9-c045fddf2e25/amp"
+cdnAmpWebUrl: "https://www-thesudburystar-com.cdn.ampproject.org/c/s/www.thesudburystar.com/technology/were-burning-cash-leddartech-eyes-acquisitions-as-capital-draining-autonomous-vehicle-space-gets-crowded/wcm/54235ce2-41f0-4071-89a9-c045fddf2e25/amp"
 type: article
 quality: 40
 heat: -1
 published: false
 
 provider:
-  name: The StarPhoenix
-  domain: thestarphoenix.com
+  name: Sudbury Star
+  domain: thesudburystar.com
 
 topics:
   - AI in Autos
@@ -44,6 +44,6 @@ related:
         height: 750
         isCached: true
 
-secured: "Vm8LxRaGkIHSWqPsYtQr4e9Vps99vr+0kiypLf0imRO31T9+Eh22mjYFfLI4MDWpieqL5092lc+IZMSKsBEY/2uCvuU2MjGyS/B0N2arRaWTb0Zyj+DcVd++y4H5UG0F59+TOLiNQuC3wsH3nBs8xp9sLOffInv/fWlrpRP0OqluKQnOtWgKMKiHHJGcqTjv8L4fxzFCFXxF3iVhZ7B6d5ijNoJQaHKF81lpNY+TzvvXmOWXFLxAzsYQ/5+6mIgn9mz8jO2Xu/L/TrBlHauTS3/YgEs57OQ4KfcJC0pwnGi5FN+8ZBR2teyWSi893Q2K35RFjU425OdcK8aDLu7UYPOonayqEaq4eGF0EofAI4X/VjBTUGUgTV5H0CzLJZ8JLEWXW4NU2QMr9glsyNFjGEmTHJZdxVA28QrAJermJ+6PpOQgGA8TEMRYNuOa4TMqUqB15PWP9+SfsixPxjD1EqTyiN4hShj7C9E6B+6nCFM0aC5FlKpRlnq26uWjkgn7NMoJU+H/rG8QqjszBvrBZg==;Es5Sjj2N7yf9DvIAEtyRXQ=="
+secured: "Ex3h3gO28j9LDUX4ZzAkck2i5VBEnCoZ+Rwsj2mhJrgxzoEH1fbnOvXSFj0YawYmaqiQy5eMbFRm/Pu6JYfmTR9Z8H9ANf3biiiNFViNPsTKq1+eBkXvnqlXcIK1ipDkOOgEM4MsL/jY7YhcVbOrkHJ7HRLt27rzlxmei7ewc87GXmFM48uu4e/YKeKMopaENKqVm/p+Z722zYY3DcEImd6eAo4p75hZ8RsJMajFtF69nYZXVE97iL5DDaRPYxaFSBAx73uSmfXwgfd4z+dERalF5+JCPIeiNgYU/pbPksenpOl535ltTbBM0yj3riYTeDoj2GB/hmFKZQDVMfOvIsYrXGwQ0nD2TGCTYHCTjb0=;dqjR3fmW6yN4/LgUcnD2mQ=="
 ---
 

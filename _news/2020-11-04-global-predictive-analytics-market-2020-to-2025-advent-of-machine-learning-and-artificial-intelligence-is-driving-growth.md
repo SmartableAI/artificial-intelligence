@@ -41,6 +41,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Researchers claim AI tool can predict heart disease by analysing retinas"
+    excerpt: "The examination of retinal blood vessels to predict a patient's risk of CVD is not new, but the software used to carry out the procedure can now be semi-automated."
+    publishedDateTime: 2020-11-04T05:50:00Z
+    webUrl: "https://www.zdnet.com/video/researchers-claim-ai-tool-can-predict-heart-disease-by-analysing-retinas/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 66
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/11/02/1dd1c9b4-23ec-4a00-b2aa-dd770665c6d2/thumbnail/370x278/ce957be3d3279294a72a3850df8e4d05/20201102-depot-larry.jpg"
+        width: 370
+        height: 278
+        isCached: true
   - title: "Google partners with Knowlarity to expand its speech analytics platform in India"
     excerpt: "Google has partnered with Singapore-headquartered cloud telephony firm Knowlarity to expand its speech recognition and analytics services in India."
     publishedDateTime: 2020-11-03T06:33:00Z
@@ -81,6 +95,6 @@ related:
       domain: crowdfundinsider.com
     quality: 4
 
-secured: "gUKjVDY0nTsFC6tr7g4mEjPNub3t3v6p/2dw7FxVdB53bo3bLSgux0dC0rwOuHxfFDjWRMUjvkzy03789e6fmgInw7wcJJt5Ofdt9Qr/1z/ba1khDkmWW8vMMUIYPjec8elgFTnp7dIbowI2+uF8e2xcTldD/7U05wyo2RaU5yNw8WwwCUpsuHJOleUHXDDIZ9S/e8TxkmdUrNkKzHAAKKPwLPLtLBiBk6wVWcDOeuut1gtoMBFM2DP4k8sAHxIu5Ptf36VjVa6y1KN1cuBpdYE4Um8W+ccYO0nVbqdOFEHVbhhi1eHScpjFO96fKXISORjhK/te4hlyL7n8N+vVDEBZg3xVQlWdyPdWXMtMeps=;BFybny4X/sIlnOKXFnyXiQ=="
+secured: "toyi1BhbiVF/QfIETxlyewz8j8z8L3/59wMYOJjc90psFrebxFfuyHKYXfLllDvfgiFvSYtopze9etWbDWdQpShcUOrL0dGOeUa6VLj3zLBqHulmD1SdfJe6BBDDCEuwqivGCYrm86vG944cllxVL1Y5XHamoYZurBi4YbSOQ+UPinl+Da3RM3s4BNM9xIhmGOhHzGWdLoZH9ru3EDxFnmae+Keyn8wZdxwJAZKKDa5N3rd0r3hakBT2AgJEkNTgJ//1R+Zf6API4Ypqgt98da7FOig0i/LnWRadIzGItvQx3AW/g+KFBlq3vlPlncZkO/oPBMeyMrme2x+9NNFmZIZuJoQzeNn9PZHjfIJzUSo=;q4K+LvG+rOaJm24nphwEUw=="
 ---
 

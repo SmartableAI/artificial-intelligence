@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-04-intel-acquires-cnvrgio-to-boost-ai-ml-operations.md",
+      "title": "Intel acquires Cnvrg.io to boost AI, ML operations",
+      "excerpt": "Chip maker Intel has acquired Israel-based full-stack data science platform Cnvrg.io to double down on its machine learning and AI operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sify.com/finance/intel-acquires-cnvrgio-to-boost-ai-ml-operations-news-topnews-uleg7ucbgjfig.html",
+      "originalUrl": "https://www.sify.com/finance/intel-acquires-cnvrgio-to-boost-ai-ml-operations-news-topnews-uleg7ucbgjfig.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sify.com/uploads/intel_ians_ukvnBpfhdebii.jpeg",
+          "width": 650,
+          "height": 415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sify.com/finance/intel-acquires-cnvrgio-to-boost-ai-ml-operations-news-topnews-uleg7ucbgjfig.html",
+      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/intel-acquires-cnvrgio-to-boost-ai-ml-operations-news-topnews-uleg7ucbgjfig.html",
+      "publishedDateTime": "2020-11-03T22:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-vc-daily-elections-impact-on-the-venture-capital-self-driving-startup-aeva-to-go-public-via-spac.md",
+      "title": "VC Daily: Election’s Impact on the Venture Capital; Self-Driving Startup Aeva to Go Public via SPAC",
+      "excerpt": "Good day. The months leading up to the election and cultural changes around it are also significant, beyond the outcome itself, says Natalie Dillon, principal at consumer-focused venture firm Maveron. The year “has surfaced many challenging topics ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/vc-daily-elections-impact-on-the-venture-capital-self-driving-startup-aeva-to-go-public-via-spac-11604416103",
+      "originalUrl": "https://www.wsj.com/articles/vc-daily-elections-impact-on-the-venture-capital-self-driving-startup-aeva-to-go-public-via-spac-11604416103",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.wsj.net/img/meta/wsj-social-share.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-03T21:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-ai-fail-as-robot-tv-camera-follows-bald-head-instead-of-soccer-ball.md",
       "title": "A.I. fail as robot TV camera follows bald head instead of soccer ball",
       "excerpt": "While artificial intelligence (A.I.) has clearly made astonishing strides ... With stadiums closed to fans due to the coronavirus pandemic, Inverness recently decided to start livestreaming its games. Instead of employing a human camera operator, it ...",
@@ -564,7 +660,7 @@
       "originalUrl": "https://www.zdnet.com/video/how-the-energy-industry-can-save-billions-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1123,100 +1219,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-how-tinyml-makes-artificial-intelligence-ubiquitous.md",
-      "title": "How TinyML Makes Artificial Intelligence Ubiquitous",
-      "excerpt": "TinyML makes AI ubiquitous and accessible to consumers. It will bring intelligence to millions of devices that we use on a daily basis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/11/03/how-tinyml-makes-artificial-intelligence-ubiquitous/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2020/11/03/how-tinyml-makes-artificial-intelligence-ubiquitous/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa0f496620890efe6ac1182%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D999%26cropY1%3D50%26cropY2%3D612",
-          "width": 999,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/11/03/how-tinyml-makes-artificial-intelligence-ubiquitous/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/11/03/how-tinyml-makes-artificial-intelligence-ubiquitous/amp/",
-      "publishedDateTime": "2020-11-02T22:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-facial-recognition-used-to-arrest-protestor-at-trump-bible-photo-op.md",
-      "title": "Facial recognition used to arrest protestor at Trump bible photo op",
-      "excerpt": "Of course a little known facial recognition tool was used on Black Lives Matter protestors. This past June, as protestors were tear-gassed in Washington D.C.'s Lafayette Square so that Donald ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/facial-recognition-arrest-black-lives-matter-protestor-trump-bible-photo-op/",
-      "originalUrl": "https://mashable.com/article/facial-recognition-arrest-black-lives-matter-protestor-trump-bible-photo-op/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F11%252F03%252F6d%252F6a312ae876144e70902ef7e36d22a5d8.cc9a5.png%252F1200x630.png?signature=j_Jk2ogosSfTENbLK-N3BaeM0vE=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/facial-recognition-arrest-black-lives-matter-protestor-trump-bible-photo-op.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-recognition-arrest-black-lives-matter-protestor-trump-bible-photo-op.amp",
-      "publishedDateTime": "2020-11-02T16:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

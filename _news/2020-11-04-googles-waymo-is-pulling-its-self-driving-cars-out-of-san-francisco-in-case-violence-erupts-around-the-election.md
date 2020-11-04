@@ -47,21 +47,35 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "Waymo pulls back the curtain on 6.1 million miles of self-driving car data in Phoenix"
-    excerpt: "Over 21 months in Arizona, Waymo’s vehicles were involved in 47 collisions and near-misses, none of which resulted in injuries In its first report on its autonomous vehicle operations in Phoenix, Arizona,"
-    publishedDateTime: 2020-10-30T14:06:00Z
-    webUrl: "https://www.theverge.com/2020/10/30/21538999/waymo-self-driving-car-data-miles-crashes-phoenix-google"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/30/21538999/waymo-self-driving-car-data-miles-crashes-phoenix-google"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/30/21538999/waymo-self-driving-car-data-miles-crashes-phoenix-google"
+  - title: "Waymo releases Phoenix area self-driving car incident score card"
+    excerpt: "Self-driving tech company Waymo, which this month opened its driverless taxi service in the Phoenix suburbs to the public, on Friday said its autonomous vehicles there had been involved in 18 minor incidents since 2019 during tests and actual rides."
+    publishedDateTime: 2020-10-30T19:11:00Z
+    webUrl: "https://www.reuters.com/article/autonomous-waymo-safety-int-idUSKBN27F23R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27F23R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27F23R"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 97
+      name: Reuters
+      domain: reuters.com
+    quality: 89
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/0rCtvcMvE9CVhAYv64lC5YBQ4yw=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67713914/vpavic_181128_3122_0115.0.jpg"
-        width: 1400
-        height: 933
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201030&t=2&i=1539430698&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9T1AD"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "Waymo And Other Self-Driving Car Companies Readying Real-World Driverless Transportation"
+    excerpt: "Until spring this year, Waymo’s self-driving vehicles were in their testing phase and were used in up to 10% of the firm’s rides. The pandemic forced the company to shutter its doors and temporarily suspend on-road testing, but it is now back online ..."
+    publishedDateTime: 2020-10-30T23:59:00Z
+    webUrl: "https://www.forbes.com/sites/peterlyon/2020/10/31/waymo-and-other-self-driving-car-companies-readying-real-world-driverless-transportation/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 75
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9e1ae8b307dfb172a46190%2F0x0.jpg"
+        width: 1199
+        height: 798
         isCached: true
   - title: "A self-driving race car drove straight into a wall off the starting line in the world's first autonomous racing series"
     excerpt: "The mishap occurred during Roborace's \"Season Beta,\" and it shows just how difficult autonomous-driving technology is to produce."
@@ -79,15 +93,34 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Waymo and Daimler to build self-driving trucks"
-    excerpt: "Daimler Trucks and autonomous driving technology vendor Waymo are partnering to deploy self-driving SAE Level 4 trucks for future transportation logistics operations. The initial collaboration will combine Waymo’s automated driving technology with a new version of Daimler’s Freightliner Cascadia to enable autonomous driving."
-    publishedDateTime: 2020-10-30T12:46:00Z
-    webUrl: "https://insights.globalspec.com/article/15320/waymo-and-daimler-to-build-self-driving-trucks"
+  - title: "Waymo And Other Self-Driving Car Companies Readying Real-World Driverless Transportation"
+    excerpt: "Just after Alphabet-owned Waymo started its driverless taxi service to the public in Phoenix, other autonomous vehicle developers are following suit with"
+    publishedDateTime: 2020-11-01T02:25:00Z
+    webUrl: "https://www.newsoneplace.com/35575211911/waymo-car-companies"
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 34
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 45
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https://specials-images.forbesimg.com/imageserve/5f9e1ae8b307dfb172a46190/0x0.jpg"
+        width: 4256
+        height: 2832
+        isCached: true
+  - title: "Waymo Issues Self-Driving Car Incident Score Card for Phoenix Area"
+    excerpt: "Self-driving tech company Waymo, which this month opened its driverless taxi service in the Phoenix suburbs to the public, on Friday said its autonomous"
+    publishedDateTime: 2020-10-30T15:40:00Z
+    webUrl: "https://www.insurancejournal.com/news/west/2020/10/30/588935.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 39
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2018/02/some-nebraska-lawmakers-580x349.jpg"
+        width: 580
+        height: 349
+        isCached: true
   - title: "Google's sister firm Waymo is pulling its self-driving cars out of San Francisco in case violence erupts around the election"
     excerpt: "Waymo is pulling its self-driving cars from the streets of San Francisco in case election unrest ensues this week. \"Out of an abundance of caution and with the safety of our team in mind, we are temporarily suspending driving operations in San Francisco on 11/3 and 11/4,"
     publishedDateTime: 2020-11-03T18:23:00Z

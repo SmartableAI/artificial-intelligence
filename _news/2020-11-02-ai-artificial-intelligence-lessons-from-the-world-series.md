@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2020/11/01/ai-artificial-inte
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/11/01/ai-artificial-intelligence-lessons-from-the-world-series/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 676
     isCached: true
+
+related:
+  - title: "AI Con brings world leaders from Artificial Intelligence companies"
+    excerpt: "Northern Ireland’s leading conference on artificial intelligence, AI Con, is set to take place on Thursday, December 3 and Friday 4."
+    publishedDateTime: 2020-11-04T06:16:00Z
+    webUrl: "https://www.newsletter.co.uk/business/consumer/ai-con-brings-world-leaders-artificial-intelligence-companies-3022378"
+    type: article
+    provider:
+      name: The News Letter
+      domain: newsletter.co.uk
+    quality: 54
+    images:
+      - url: "https://www.newsletter.co.uk/webimg/TUFZMTI2ODU2MTM4.jpg"
+        width: 4032
+        height: 3024
+        isCached: true
 
 secured: "DVvkZyaCBS1JG9VqZ5G7oRjut3GHQGIFxgSpSETP3rm3MizByw4s8PkPjVN78hjjrLwDtka4YeDxCgeVV+wnf69kBbb3ncSjXoM15bCZ13h/SIhlnwFv5pNdz+XH4weJW/imZnCGXtFOnr89a1PlOT8KHQZZ55cDgem0ZSnNeIGUTMqVNkpxjT9I+X+PIEaE7Q1+XbnH9Jp6ENoWbqpKO74jNaIkHSqJPLp1GTgRq8reeoC0JZCPotKQlyVcq5VTkA4dKE0UP/YLA5+moN6W2sjuriW3kRpPDYecn+ckzi7pGJhVf2OZT4Ahj0Om4+i+lFZpgKsS6p1Xe1flS16ZyUY2/VOlLzijme4hJSoF5sNZsgOUHOo/vSOcLqLfua7RyrZVNDV2+r3l7kRdeE5H9AeP6D54WtCuoli3a23Jon/hlPJBn5cUw671P7eka9i4JCPsJX8hOmM1O40hmmNIseD7/ZaAFo/9xM7Ew5t6qNSgfVBMSR0bzPTXBe7O50yjUXz4O4sxGT6iPuMR1+jiOw==;ZXeaVwY6hDyF7HBFlOHpBA=="
 ---

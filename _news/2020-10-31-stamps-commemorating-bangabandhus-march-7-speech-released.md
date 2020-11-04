@@ -26,22 +26,6 @@ images:
     height: 292
     isCached: true
 
-related:
-  - title: "Stamps commemorating March 7 speech released"
-    excerpt: "The Directorate of Posts on Friday released a commemorative postage stamp commemorating the recognition of the historic 7th March Speech of Bangabandhu Sheikh Mujibur Rahman as part of the world’s documentary heritage by United Nations Educational,"
-    publishedDateTime: 2020-10-30T13:18:00Z
-    webUrl: "https://www.dhakatribune.com/bangladesh/2020/10/30/stamps-commemorating-march-7-speech-released"
-    type: article
-    provider:
-      name: Dhaka Tribune
-      domain: dhakatribune.com
-    quality: 24
-    images:
-      - url: "https://media-eng.dhakatribune.com/uploads/2020/03/watermarked/348403/1604063819647whatsapp-image-2020-03-26-at-10-31-05-am-1585198210449.jpeg"
-        width: 600
-        height: 315
-        isCached: true
-
 secured: "sTLjxpmzBE/Z0lF4UrpQrXk7Uo86j1bdkxfvmbHLDTQmgDk3GEpDqUHthNpz2fr1OWDBGr+3hBEj+JezUCYQ4C6uxy+frxUPMwuKfIre7oUr+pypSc0UC/qeF3bwxhDlIqFq6+F7oWb2lhkIREoAWBtBHdj9R+zce6Rxxx2m62AMk4txW0Qipe/fLAXZsO97ta0M8TP/AJyfjnaKw19qG+xKKC778yO0tZweZdsRk7Sbea+b7/MNTcC9tJg4HsTOOAly5oxE91jJey7qRC6CZsHZkIv4Yy3Z/acWwVEQ9xUVsJQ8lpxVb+/4wbvEMBr6yl5yp6cQR4hix48S16wKQzEXGS8PC72i72NVR+mjoLh38mAHv9qq24sx3zltXaLMP+oWy7NLNFEpMrjgcf91dehu7Nw5RaBk4sqeTCmSNgAODh5kWsV+YDshp8/mHLmxHgYasNYNSiPkUwwIWJCWwBeSf2EZFmPdBDsCgBV4b+THLntO5DLptSYDMp0ogQ7lIidHPNS2NrbzaM2DZU7liQ==;tQ0fM1frxDPl4cAM/QFHSw=="
 ---
 

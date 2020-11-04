@@ -43,22 +43,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Tesla raises price of Full Self-Driving mode to $10,000 now that it's in beta"
-    excerpt: "Elon Musk warned that Tesla would hike the price of Full Self-Driving now that it’s in beta, and he’s being true to his word. The Verge reports Tesla has raised the cost of the package to $10,000 in the US for both new car buyers and upgrades,"
-    publishedDateTime: 2020-10-30T13:30:00Z
-    webUrl: "https://www.engadget.com/tesla-raises-full-self-driving-price-132658526.html"
-    ampWebUrl: "https://www.engadget.com/amp/tesla-raises-full-self-driving-price-132658526.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-raises-full-self-driving-price-132658526.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 101
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fc23c1040-1aae-11eb-9acb-4b8d39a25eae&client=amp-blogside-v2&signature=b0f48ec61612f35b33d4c0713a1a5f023581c1a1"
-        width: 600
-        height: 350
-        isCached: true
   - title: "Watch Tesla's 'Full Self-Driving' mode fail on San Francisco's twistiest street"
     excerpt: "Tesla's new \"Full Self-Driving\" mode (that isn't actually fully autonomous, and still requires drivers to hold the wheel and pay attention) just got owned by a famous San Francisco street."
     publishedDateTime: 2020-10-30T18:51:00Z
@@ -261,20 +245,6 @@ related:
       - url: "https://media.ksdk.com/assets/CCT/images/5b2d9a1c-ebf7-467c-93bb-62af47399b18/5b2d9a1c-ebf7-467c-93bb-62af47399b18_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "Tesla increases price of Full Self-Driving to $10,000"
-    excerpt: "Tesla continues to raise the price of its Full Self-Driving (FSD) electronic driver-assist feature. The company raised the price to $10,000 this week, up from $8,000 previously. The feature cost $ ..."
-    publishedDateTime: 2020-10-30T12:40:00Z
-    webUrl: "https://motorauthority.com/news/1130135_tesla-increases-price-of-full-self-driving-to-10-000"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 39
-    images:
-      - url: "https://images.hgmsites.net/hug/2020-tesla-model-x_100736314_h.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Tesla Full Self-Driving feature now costs $10,000 - Roadshow"
     excerpt: "The beta launched about a week and a half ago, and just like Elon Musk said, it now costs even more. The Room Where It Happened : A White House Memoir Hardcover – 23 Jun. 2020 by John Bolton (Author)."

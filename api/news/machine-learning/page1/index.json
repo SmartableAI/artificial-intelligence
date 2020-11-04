@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-04-intel-acquires-cnvrgio-to-boost-ai-ml-operations.md",
+      "title": "Intel acquires Cnvrg.io to boost AI, ML operations",
+      "excerpt": "Chip maker Intel has acquired Israel-based full-stack data science platform Cnvrg.io to double down on its machine learning and AI operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sify.com/finance/intel-acquires-cnvrgio-to-boost-ai-ml-operations-news-topnews-uleg7ucbgjfig.html",
+      "originalUrl": "https://www.sify.com/finance/intel-acquires-cnvrgio-to-boost-ai-ml-operations-news-topnews-uleg7ucbgjfig.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sify.com/uploads/intel_ians_ukvnBpfhdebii.jpeg",
+          "width": 650,
+          "height": 415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sify.com/finance/intel-acquires-cnvrgio-to-boost-ai-ml-operations-news-topnews-uleg7ucbgjfig.html",
+      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/intel-acquires-cnvrgio-to-boost-ai-ml-operations-news-topnews-uleg7ucbgjfig.html",
+      "publishedDateTime": "2020-11-03T22:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-nvidia-jetson-nano-2gb-brings-machine-learning-power-to-a-raspberry-pi-price-point.md",
       "title": "NVIDIA Jetson Nano 2GB Brings Machine Learning Power To A Raspberry Pi Price Point",
       "excerpt": "At just $59 at retailers like Amazon, Jetson Nano brings NVIDIA’s custom hybrid Arm core CPU and Maxwell GPU technologies down to a Raspberry Pi 4 price point that will be that much more accessible to academia,",
@@ -1400,49 +1444,6 @@
         "AI",
         "Machine Learning",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-7-ways-machine-learning-can-solve-supply-chain-challenges.md",
-      "title": "7 Ways Machine Learning Can Solve Supply Chain Challenges",
-      "excerpt": "This is where Machine Learning in Supply Chain can help breathe a sigh of relief! Integrating machine learning in supply chain management can help automate a number of mundane tasks and allow the enterprises to focus on more strategic and impactful ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.business2community.com/strategy/7-ways-machine-learning-can-solve-supply-chain-challenges-02357063",
-      "originalUrl": "https://www.business2community.com/strategy/7-ways-machine-learning-can-solve-supply-chain-challenges-02357063",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.business2community.com/wp-content/uploads/2020/10/eca083cd-ml-in-supply-chain-cover-e1591361678184-900x479.jpg",
-          "width": 900,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.business2community.com/strategy/7-ways-machine-learning-can-solve-supply-chain-challenges-02357063/amp",
-      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/strategy/7-ways-machine-learning-can-solve-supply-chain-challenges-02357063/amp",
-      "publishedDateTime": "2020-10-27T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business 2 Community",
-        "domain": "business2community.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

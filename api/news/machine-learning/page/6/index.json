@@ -2,6 +2,113 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-09-30-tigergraph-highlights-next-generation-graph-and-machine-learning-partnerships-at-graph-ai-world-2020.md",
+      "title": "TigerGraph Highlights Next-Generation Graph and Machine Learning Partnerships at Graph + AI World 2020",
+      "excerpt": "REDWOOD CITY, Calif., Sept. 30, 2020 (GLOBE NEWSWIRE) -- TigerGraph, the only scalable graph database for the enterprise, today announced that it will showcase multiple key partnerships that are democratizing the use of graph with AI and machine learning at Graph + AI World 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/tigergraph-highlights-next-generation-graph-and-machine-learning-partnerships-at-graph-ai-world-2020-2020-09-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/tigergraph-highlights-next-generation-graph-and-machine-learning-partnerships-at-graph-ai-world-2020-2020-09-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-30T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-astrazeneca-uses-pytorch-and-azure-ml-to-speed-up-drug-discovery.md",
+      "title": "AstraZeneca uses PyTorch and Azure ML to speed up drug discovery",
+      "excerpt": "The firm has introduced a new production use case for early drug discovery, utilizing the PyTorch framework alongside Microsoft's Azure Machine Learning to support the latest research.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/astrazeneca-uses-pytorch-and-azure-ml-to-speed-up-drug-discovery",
+      "originalUrl": "https://www.neowin.net/news/astrazeneca-uses-pytorch-and-azure-ml-to-speed-up-drug-discovery",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/09/1601479971_astrazeneca_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/astrazeneca-uses-pytorch-and-azure-ml-to-speed-up-drug-discovery/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/astrazeneca-uses-pytorch-and-azure-ml-to-speed-up-drug-discovery/",
+      "publishedDateTime": "2020-09-30T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-researchers-streamline-ptsd-diagnosis-with-machine-learning.md",
       "title": "Researchers streamline PTSD diagnosis with machine learning",
       "excerpt": "Post-traumatic stress disorder (PTSD) affects eight million adults in the US, including hundreds of thousands of veterans of the conflicts in Iraq and Afghanistan. And as the COVID crisis continues to take its toll on everyone's mental health,",
@@ -1303,101 +1410,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-researchers-demonstrate-how-deep-learning-can-advance-study-of-neural-degeneration.md",
-      "title": "Researchers demonstrate how deep learning can advance study of neural degeneration",
-      "excerpt": "elegans. The tool uses deep learning, a form of AI, and should facilitate and expedite research into neural degeneration. \"Having tools that allow us to identify these patterns of neural ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2020-09-deep-advance-neural-degeneration.html",
-      "originalUrl": "https://phys.org/news/2020-09-deep-advance-neural-degeneration.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/232-researchersd.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2020-09-deep-advance-neural-degeneration.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-09-deep-advance-neural-degeneration.amp",
-      "publishedDateTime": "2020-09-24T13:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-amazon-redesigns-the-echo-with-a-new-spherical-design-and-a-custom-machine-learning-processor.md",
-      "title": "Amazon redesigns the Echo with a new spherical design and a custom machine learning processor",
-      "excerpt": "Amazon has announced the fourth-generation version of its main Echo smart speaker, bringing a new spherical design and better sound performance. But the biggest change is a new, on-device speech recognition module that will locally process your audio on the Echo,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/9/24/21452347/amazon-echo-4th-generation-features-price-release-date-alexa",
-      "originalUrl": "https://www.theverge.com/2020/9/24/21452347/amazon-echo-4th-generation-features-price-release-date-alexa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/tEU5cAXnuXGjzhmDHRI_SkJtjws=/0x0:1920x1080/1400x933/filters:focal(807x387:1113x693):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67463013/msedge_X9RFhS71eu.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/9/24/21452347/amazon-echo-4th-generation-features-price-release-date-alexa",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/9/24/21452347/amazon-echo-4th-generation-features-price-release-date-alexa",
-      "publishedDateTime": "2020-09-24T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

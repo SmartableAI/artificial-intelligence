@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo’s driverless cars were involved in 18 accidents over 20 months"
-    excerpt: "Major stakeholders like Pony.ai, Baidu, Tesla, Argo.AI ... to test what results from the use of software that embodies self-driving cars’ automation with a broad, agreed-upon framework in ..."
-    publishedDateTime: 2020-10-30T14:01:00Z
-    webUrl: "https://venturebeat.com/2020/10/30/waymos-driverless-cars-were-involved-in-18-accidents-over-20-month/"
-    ampWebUrl: "https://venturebeat.com/2020/10/30/waymos-driverless-cars-were-involved-in-18-accidents-over-20-month/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/30/waymos-driverless-cars-were-involved-in-18-accidents-over-20-month/amp/"
+  - title: "Waymo shares in-depth details of self-driving car activity in Phoenix"
+    excerpt: "Waymo’s vehicles have driven a total of 6.1 million miles in Phoenix, Arizona, where it first started testing its self-driving technology."
+    publishedDateTime: 2020-10-31T16:36:00Z
+    webUrl: "https://www.engadget.com/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html"
+    ampWebUrl: "https://www.engadget.com/amp/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: Engadget
+      domain: engadget.com
     quality: 104
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/09/waymo-ipace-e1572290208222.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Feda031a0-1b7e-11eb-aeff-c6d8e3737344&client=amp-blogside-v2&signature=64755fdb1c313a1eb2bd21d17cef2c2065e20715"
+        width: 600
+        height: 350
         isCached: true
   - title: "Waymo releases Phoenix area self-driving car incident score card"
     excerpt: "Self-driving tech company Waymo, which this month opened its driverless taxi service in the Phoenix suburbs to the public, on Friday said its autonomous vehicles there had been involved in 18 minor incidents since 2019 during tests and actual rides."
@@ -60,6 +60,38 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201030&t=2&i=1539430698&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9T1AD"
         width: 818
         height: 545
+        isCached: true
+  - title: "Google's Waymo is pulling its self-driving cars out of San Francisco in case violence erupts around the election"
+    excerpt: "The company will also stop testing on San Francisco's streets for the next two days as the 2020 presidential election unfolds."
+    publishedDateTime: 2020-11-03T17:09:00Z
+    webUrl: "https://www.businessinsider.com/google-waymo-securing-autonomous-cars-san-francisco-election-chaos-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/google-waymo-securing-autonomous-cars-san-francisco-election-chaos-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-waymo-securing-autonomous-cars-san-francisco-election-chaos-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
+    images:
+      - url: "https://i.insider.com/5fa17cdb69331a0011bc6f36?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "A self-driving race car drove straight into a wall off the starting line in the world's first autonomous racing series"
+    excerpt: "The mishap occurred during Roborace's \"Season Beta,\" and it shows just how difficult autonomous-driving technology is to produce."
+    publishedDateTime: 2020-11-01T03:56:00Z
+    webUrl: "https://www.businessinsider.com/self-driving-roborace-race-car-drove-straight-into-wall-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/self-driving-roborace-race-car-drove-straight-into-wall-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/self-driving-roborace-race-car-drove-straight-into-wall-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
+    images:
+      - url: "https://i.insider.com/5f9b305569331a0011bc630a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Waymo And Other Self-Driving Car Companies Readying Real-World Driverless Transportation"
     excerpt: "Just after Alphabet-owned Waymo started its driverless taxi service to the public in Phoenix, other autonomous vehicle developers are following suit with"
@@ -89,29 +121,50 @@ related:
         width: 580
         height: 349
         isCached: true
-  - title: "Vodafone and HORIBA MIRA bring 5G to driverless cars"
-    excerpt: "At its Nuneaton headquarters. driverless vehicle tech provider HORIBA MIRA is partnering with Vodafone to implement 5G into self-driving cars"
-    publishedDateTime: 2020-11-02T14:13:00Z
-    webUrl: "https://www.information-age.com/vodafone-horiba-mira-bring-5g-driverless-cars-123492503/"
+  - title: "Google's sister firm Waymo is pulling its self-driving cars out of San Francisco in case violence erupts around the election"
+    excerpt: "Waymo is pulling its self-driving cars from the streets of San Francisco in case election unrest ensues this week. \"Out of an abundance of caution and with the safety of our team in mind, we are temporarily suspending driving operations in San Francisco on 11/3 and 11/4,"
+    publishedDateTime: 2020-11-03T18:23:00Z
+    webUrl: "https://www.businessinsider.in/tech/news/googles-sister-firm-waymo-is-pulling-its-self-driving-cars-out-of-san-francisco-in-case-violence-erupts-around-the-election/articleshow/79027264.cms"
+    ampWebUrl: "https://www.businessinsider.in/tech/news/googles-sister-firm-waymo-is-pulling-its-self-driving-cars-out-of-san-francisco-in-case-violence-erupts-around-the-election/amp_articleshow/79027264.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/googles-sister-firm-waymo-is-pulling-its-self-driving-cars-out-of-san-francisco-in-case-violence-erupts-around-the-election/amp_articleshow/79027264.cms"
     type: article
     provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 39
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 32
     images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2020/11/vodafone-horiba-mira-bring-5g-driverless-cars.jpeg"
-        width: 1020
-        height: 675
+      - url: "https://www.businessinsider.in/thumb/79027021.cms?height=275&width=412"
+        width: 412
+        height: 275
         isCached: true
-  - title: "Who’s responsible when a driverless car has an accident?"
-    excerpt: "Who’s responsible for an accident needs to be considered now rather than when we’re scrambling to implement laws We haven’t reached the point where driverless vehicles ply our roadways. However, as a recent incident on an Alberta highway demonstrates,"
-    publishedDateTime: 2020-11-02T12:58:00Z
-    webUrl: "https://troymedia.com/drive/whos-responsible-when-a-driverless-car-has-an-accident/"
+  - title: "Waymo pulls self-driving cars in San Francisco as cities nationwide brace for unrest"
+    excerpt: "Photo by: Frank Duenzl/picture-alliance/dpa/AP ImagesWaymo, the self-driving company of Google’s parent company Alphabet, has suspended its self-driving operations in San Francisco as businesses and cities brace for potential unrest following the presidential election."
+    publishedDateTime: 2020-11-04T03:10:00Z
+    webUrl: "https://www.channel3000.com/waymo-pulls-self-driving-cars-in-san-francisco-as-cities-nationwide-brace-for-unrest/"
     type: article
     provider:
-      name: Troy Media
-      domain: troymedia.com
-    quality: 19
+      name: Channel 3000
+      domain: channel3000.com
+    quality: 32
+    images:
+      - url: "https://www.channel3000.com/content/uploads/2020/11/hypatia-h_bfe6eec850c45698ccc926b6623cac82-h_3f3331561d6fc6c4dc68055128326422-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Waymo pauses self-driving car operations in San Francisco in case of election unrest - CNET"
+    excerpt: "Bike and scooter rental companies are also prepping for uncertainty after a contentious contest."
+    publishedDateTime: 2020-11-04T02:06:00Z
+    webUrl: "https://www.newsoneplace.com/35932251911/cnet-waymo-san"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 29
+    images:
+      - url: "https://images.weserv.nl/?url=https://cnet4.cbsistatic.com/img/35ULADrDXvnHuoetIbD6B3q8-aU=/300x0/2020/05/08/21d20d2d-d573-4d40-99de-b4d1597a9a4f/waymo.jpg&h=250"
+        width: 375
+        height: 250
+        isCached: true
 
 secured: "VwTMhbYEJL5lCDLetIGHDkCVEGNq1OxdJKsRAfIe0eolDTlbYoOZGlNGKNFsK6jB6cIaCAXetqSspD/15zNAs5MckyyvyQHa6srrWb/0NT5xverdOBxbJaGu8zBXwTCsPIoFWx9/dRoZQy7IkzlVUuJSFG45QqBnBMoF5znqNZrENEWbv9ag4z9x4p49n8y+DaTB2DObu5BsYXUrYXrTbCwTWbE917rN6iKUNxyjYUJWB7XqZmj8sBeiyC2kaSATjV56PH146OSxdj75gHXl64FR/YdpFOB1svNOb3b9bpyGGtqrXRF27hOpgi5MksUIpkBq6uwi0pDWe/Q+e2OQPijiREMk7hcXOSRSgzz0vJU3Tcfh6SBctw42Fm/LAMcBLuHBx6L5RT0P6WaTtWMxOl0AgX7K4SXvBp1ylFgFuJ+o1VsudFgKKpnlRjnAsojEUDnf+vqShmCGMNlJEnVXqu7mkJtkSmnfjNGkuCyNAarnqbA0HUJPytqZDzek3ZD+2qYd4OIEnRVfM/CQiw8wqg==;8rHYDYt9iHgWG19zRh8q2w=="
 ---
