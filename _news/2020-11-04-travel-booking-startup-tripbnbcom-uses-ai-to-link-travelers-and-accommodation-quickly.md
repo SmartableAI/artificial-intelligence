@@ -1,28 +1,30 @@
 ---
 category: news
 title: "Travel booking startup Tripbnb.com uses AI to link travelers and accommodation quickly"
-excerpt: "Key points COVID-19 has caused threats to the global economy, particularly the travel industry, resulting in the massive revenue loss of many travel"
+excerpt: "Key points COVID-19 has caused threats to the global economy, particularly the travel industry, resulting in the massive revenue loss of many travel agents, hotels,"
 publishedDateTime: 2020-11-04T04:37:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/travel-booking-startup-tripbnbcom-uses-ai-to-link-travelers-and-accommodation-quickly-301166192.html"
-webUrl: "https://www.prnewswire.com/news-releases/travel-booking-startup-tripbnbcom-uses-ai-to-link-travelers-and-accommodation-quickly-301166192.html"
+originalUrl: "https://www.benzinga.com/pressreleases/20/11/n18201106/travel-booking-startup-tripbnb-com-uses-ai-to-link-travelers-and-accommodation-quickly"
+webUrl: "https://www.benzinga.com/pressreleases/20/11/n18201106/travel-booking-startup-tripbnb-com-uses-ai-to-link-travelers-and-accommodation-quickly"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18201106"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18201106"
 type: article
-quality: 29
-heat: 29
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1325726/TRIPBNB.jpg?p=facebook"
-    width: 2700
-    height: 1414
+  - url: "https://mma.prnewswire.com/media/1325726/TRIPBNB.jpg"
+    width: 400
+    height: 227
     isCached: true
 
-secured: "sH0UfNrbfMHOB9BnNMtFvvjqwAV1F0tEGn/NrkqC08pMu2mQEjf5e8+k8aJmdzMkfKsb1OEqmifo2FYQErIer42vbVL2fF6BN9D24vNtWBY22UgFd+gH0Dm/cQf8l1L2nU/1hoxk5L3rmBtqt4Sd/DzBVLm7jde0W8Oy3NeuO5I/8X9i8pticLY96Y7q6Lw7Uy0TbjB/fd53ubtHiPAxdf6CuSvoMBxKRhbWNHIOl39wI4/D0rTKq4GaS6dKvylu824QMC2JAB8ba2v0p28lPZXYhiEvlvGmPyMImSQwABnnuSBoq+gTfpusuTBa5AY3ofH/w0w3YXSC1yMWHYXQk03NRAb+rvUOVv5qBUZSye0=;tdMZcIaTJFaQYdxqZStXDw=="
+secured: "Xz5X64iaRYUIV+Xkgc1FTSHspKlG2SHQnic9OkMS/0lvZq7RDDaiQkiHK/PpsOOPDh9IHh0f2/9xBR0dLNuJ5r7vaOqqocR30V6xI0OulMHgo0DDmmSMCRQCas82mrOIilyxofBVoWs+yZD2G8jzEXfAn9ztz4qgw20oSMWWKpofiV+1iZQXmOH4Z65iGH/KlVjPbw5AI5b4CY0r40oKidJD41MACsXo+eQd44eyLV7eSdmLLr6+f3BTohyMzyq5ldDoLF+9c3NfFjhSXftgxQhI0YmuSPNPCYDsuKQIAdZ2xrIcillTM4YQ7bInXxqw+HDdgC3UtAed9CT0E22Z89QbG5CYKeUvwH1xvYhUovw=;RGDkpfBInn5CPTi2iWrEtw=="
 ---
 

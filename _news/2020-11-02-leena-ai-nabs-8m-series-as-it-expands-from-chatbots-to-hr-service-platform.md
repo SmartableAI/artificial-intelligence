@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expa
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "HR-Tech Startup Leena AI Raises $8M In Series A Funding To Accelerate Hiring & Product Development"
+    excerpt: "Leena AI, an AI-based employee experience platform, has announced an $8 million funding in Series A round led by Greycroft."
+    publishedDateTime: 2020-11-04T08:03:00Z
+    webUrl: "https://analyticsindiamag.com/hr-tech-startup-leena-ai-raises-8m-in-series-a-funding-to-accelerate-hiring-product-development/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 23
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/11/HR-Tech-Startup-Leena-AI-Raises-8M-In-Series-A-Funding-To-Accelerate-Hiring-Product-Development-.jpeg"
+        width: 1050
+        height: 700
+        isCached: true
   - title: "Leena AI raises $8M in series A funding to revolutionize employee experience"
     excerpt: "Leena AI, an artificial intelligence (AI)-powered employee experience platform, today announced an USD 8 million Series A financing led by Greycroft to expand its go-to-market programs and accelerate"
     publishedDateTime: 2020-11-03T11:30:00Z

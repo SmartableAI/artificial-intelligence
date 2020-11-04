@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/waymo-indepth-details-selfdriving-activ
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html"
 type: article
 quality: 104
-heat: 194
+heat: 184
 published: true
 
 provider:
@@ -106,20 +106,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https://specials-images.forbesimg.com/imageserve/5f9e1ae8b307dfb172a46190/0x0.jpg"
         width: 4256
         height: 2832
-        isCached: true
-  - title: "Waymo Issues Self-Driving Car Incident Score Card for Phoenix Area"
-    excerpt: "Self-driving tech company Waymo, which this month opened its driverless taxi service in the Phoenix suburbs to the public, on Friday said its autonomous"
-    publishedDateTime: 2020-10-30T15:40:00Z
-    webUrl: "https://www.insurancejournal.com/news/west/2020/10/30/588935.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 39
-    images:
-      - url: "https://www.insurancejournal.com/app/uploads/2018/02/some-nebraska-lawmakers-580x349.jpg"
-        width: 580
-        height: 349
         isCached: true
   - title: "Google's sister firm Waymo is pulling its self-driving cars out of San Francisco in case violence erupts around the election"
     excerpt: "Waymo is pulling its self-driving cars from the streets of San Francisco in case election unrest ensues this week. \"Out of an abundance of caution and with the safety of our team in mind, we are temporarily suspending driving operations in San Francisco on 11/3 and 11/4,"

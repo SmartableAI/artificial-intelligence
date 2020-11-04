@@ -119,20 +119,6 @@ related:
         width: 4256
         height: 2832
         isCached: true
-  - title: "Waymo Issues Self-Driving Car Incident Score Card for Phoenix Area"
-    excerpt: "Self-driving tech company Waymo, which this month opened its driverless taxi service in the Phoenix suburbs to the public, on Friday said its autonomous"
-    publishedDateTime: 2020-10-30T15:40:00Z
-    webUrl: "https://www.insurancejournal.com/news/west/2020/10/30/588935.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 39
-    images:
-      - url: "https://www.insurancejournal.com/app/uploads/2018/02/some-nebraska-lawmakers-580x349.jpg"
-        width: 580
-        height: 349
-        isCached: true
   - title: "Waymo pulls self-driving cars in San Francisco as cities nationwide brace for unrest"
     excerpt: "Photo by: Frank Duenzl/picture-alliance/dpa/AP ImagesWaymo, the self-driving company of Google’s parent company Alphabet, has suspended its self-driving operations in San Francisco as businesses and cities brace for potential unrest following the presidential election."
     publishedDateTime: 2020-11-04T03:10:00Z

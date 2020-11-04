@@ -23,6 +23,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Coronavirus: SA considering facial recognition tech in place of compliance checks"
+    excerpt: "South Australia is considering the use of facial recognition technology to keep track of Victorians in self-isolation."
+    publishedDateTime: 2020-11-04T08:09:00Z
+    webUrl: "https://www.9news.com.au/videos/health/coronavirus-sa-considering-facial-recognition-tech-in-place-of-compliance-checks/ckh341jqq000s0hmr95mmd38i"
+    type: article
+    provider:
+      name: Nine News Australia
+      domain: 9news.com.au
+    quality: 34
+    images:
+      - url: "https://vms-network-images-prod.s3-ap-southeast-2.amazonaws.com/2020/11/324509/pickerImage.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
 secured: "KNnQQk+Bsw+5XPzt1pmC1UH0Q+VKM2PyWIJ60KWqCQ+oKf8l9tiK6WOZCRaGoJXjwcKnB2X+uPUEs5gz0DujswvsZUDaHpPJP4PRpqWkaBKVz/QvNMHNPuur66w0/QQidRInwPnP4IlUH0ufGbgn6Oh/yqRqUKDj9bj+lVCajuh4/cydDd/nSmu/2TJaZY0e5TUmHEmTSBx6/84lmnNOOUd33kLvkIBUncqHribFj38Yh9Qc1COL7c2h8fxaq+l86n8wuvqUI2htL8dsE7O7WzryfNDGmxk5A+0jCDDSjy8lyUe3M2xWtbh9wSxZxjovIK+ALvEwza5Q8ZDdCT90xDM8QBWEtXqixE/4uoThYJ0=;+i3lpLWM7AU2JVZowS1mxA=="
 ---
 

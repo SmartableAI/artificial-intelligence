@@ -55,31 +55,6 @@ related:
         width: 1000
         height: 558
         isCached: true
-  - title: "Daimler invests in lidar startup Luminar to bolster self-driving truck effort"
-    excerpt: "Daimler’s truck unit is investing in a laser-sensor startup to bolster its development of self-driving trucks in the U.S. less than a week after striking a deal to use driverless technology from Alphabet Inc."
-    publishedDateTime: 2020-10-30T14:23:00Z
-    webUrl: "https://europe.autonews.com/automakers/daimler-invests-lidar-startup-luminar-bolster-self-driving-truck-effort"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 36
-    images:
-      - url: "https://s3-prod-europe.autonews.com/styles/800x600/s3/ANE_170619841_AR_-1_UAAHVBCOZQPU.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Luminar gets financial backing from Daimler to help with self-driving truck tech"
-    excerpt: "Daimler Truck AG is taking a minority stake in Palo Alto-based Luminar Technologies Inc. to help develop technology that will allow it to develop self-driving trucks, the companies announced Friday. In a news release with a dual dateline of Palo Alto and ..."
-    publishedDateTime: 2020-10-30T14:56:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2020/10/30/luminar-daimler-self-driving-truck-tech.html"
-    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/10/30/luminar-daimler-self-driving-truck-tech.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/10/30/luminar-daimler-self-driving-truck-tech.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
 
 secured: "xRdhR4834qkiEnQVjCpxN5pn1aM0aBLqIt6HqqA2CkFsq8XpsIFr9Itze7pt87fPEaqyEOLXHE1DxVHEIfyrtlcEWRieiS776jb949P7yLZXHdAN0ZUZlCRh5E8pSa58mnO2So18NbPl7+zQcLts6/oAZUqAfNqXdateycnDECEm+G00U/eHVXeC+hhVHAdytZbAZ3H1CEgtbtb1PylftJnHyVtuJSHqZJ4OTYX8mu+pXe0+g/fOS+FjzTBNdy9q2RO/ppKS3YQ3KiNCiHVGQSBel2z0kpj0c6br83FYPdMJEVIWh2/kA0wxMQXrT21d9HUpubz7OgIiX3aKFPYOKoLk/zx2Ljh7Lf7dYRoiHQbtXsSe10o7ebFBKP4L9ox0VjVtc8M9TBT2gdPJrUmS4/SHfNdsLfGq2l62xTeK9Sh+hi80IIW8gOhX7gX0wBFDPoXRmAudZj+DHtRGsJNcj+35A0HW4o5oPlszUPkW4yWsVlCFj86zWAhQV9cxfda3skhjVRE9ZedDjBVT40vrvg==;w+uuzPtt5WGj+XwbCm5TwQ=="
 ---

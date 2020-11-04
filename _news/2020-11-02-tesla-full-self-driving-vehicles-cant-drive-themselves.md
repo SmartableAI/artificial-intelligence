@@ -75,22 +75,6 @@ related:
         width: 1680
         height: 868
         isCached: true
-  - title: "Tesla's 'Full Self-Driving' is now a lot pricier"
-    excerpt: "Elon Musk wasn't kidding. Tesla's Full Self-Driving (FSD) set of features has become more expensive, increasing from $8,000 to $10,000. Musk has long held the view that FSD will become far more ..."
-    publishedDateTime: 2020-10-30T15:34:00Z
-    webUrl: "https://mashable.com/article/tesla-fsd-10000/"
-    ampWebUrl: "https://mashable.com/article/tesla-fsd-10000.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-fsd-10000.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 89
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F10%252F30%252Fbe%252F50e6cde1da7646e095c807f054da230e.9c26b.jpg%252F1200x630.jpg?signature=B1josSNIuhq320I9HGHojg22qJc="
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tesla Hikes Up the Price of 'Full Self-Driving' Option to $10,000"
     excerpt: "Tesla bumped up the price of its \"full self-driving\" from $8,000 to $10,000 on Friday, and odds are this won’t be the last price hike Tesla owners see."
     publishedDateTime: 2020-10-31T01:17:00Z
@@ -198,22 +182,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 65
-  - title: "Tesla 'full self-driving' vehicles can't drive themselves"
-    excerpt: "DETROIT — Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and ..."
-    publishedDateTime: 2020-10-30T14:15:00Z
-    webUrl: "https://www.9news.com/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
-    ampWebUrl: "https://www.9news.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
-    cdnAmpWebUrl: "https://www-9news-com.cdn.ampproject.org/c/s/www.9news.com/amp/article/news/nation-world/tesla-full-self-driving-vehicles-cant-drive-themselves/507-2caf3a57-b990-4bb1-9cc3-7cdc7dc29a43"
-    type: article
-    provider:
-      name: KUSA
-      domain: 9news.com
-    quality: 59
-    images:
-      - url: "https://media.9news.com/assets/CCT/images/5b2d9a1c-ebf7-467c-93bb-62af47399b18/5b2d9a1c-ebf7-467c-93bb-62af47399b18_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Tesla 'full self-driving' vehicles can't drive themselves"
     excerpt: "DETROIT — Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and ..."
     publishedDateTime: 2020-10-30T18:21:00Z

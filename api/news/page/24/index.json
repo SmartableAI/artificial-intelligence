@@ -2,6 +2,58 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-10-15-this-high-growth-chip-stock-just-beat-guidance-and-raised-its-dividend.md",
+      "title": "This High-Growth Chip Stock Just Beat Guidance and Raised Its Dividend",
+      "excerpt": "High-growth semi-cap equipment maker ASML Holdings (NASDAQ:ASML) just had its third-quarter earnings report today, October 14. The company is the sole provider of extreme ultravio",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/10/14/this-high-growth-chip-stock-just-beat-guidance-and/",
+      "originalUrl": "https://www.fool.com/investing/2020/10/14/this-high-growth-chip-stock-just-beat-guidance-and/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F595184%2Fgettyimages-1211223669.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 634,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/14/this-high-growth-chip-stock-just-beat-guidance-and/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/14/this-high-growth-chip-stock-just-beat-guidance-and/",
+      "publishedDateTime": "2020-10-14T14:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-armys-team-ignite-sets-futuristic-rd-targets-ai-robotics-autonomy.md",
       "title": "Army’s ‘Team Ignite’ Sets Futuristic R&D Targets: AI, Robotics, Autonomy",
       "excerpt": "\"We ultimately want this Team Ignite to become the way we do business -- it's increased collaboration with the right partners in the right events,\" says Maj. Gen. John George, head of Army Combat Capabilities and Development Command (CCDC).",
@@ -1154,49 +1206,6 @@
       "provider": {
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-ai-and-deep-learning-can-analyze-rash-selfies-for-better-lyme-disease-detection.md",
-      "title": "AI and deep learning can analyze 'rash selfies' for better Lyme disease detection",
-      "excerpt": "Johns Hopkins Medicine and Johns Hopkins Applied Research Laboratory (APL) researchers have shown that cell phone images of rashes taken by patients can be evaluated using artificial intelligence (AI) and deep learning (DL) technologies to more accurately detect and identify the erythema migrans (EM) skin redness associated with acute Lyme disease.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-10-ai-deep-rash-selfies-lyme.html",
-      "originalUrl": "https://medicalxpress.com/news/2020-10-ai-deep-rash-selfies-lyme.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2020/aianddeeplea.jpg",
-          "width": 801,
-          "height": 451,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-10-ai-deep-rash-selfies-lyme.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-ai-deep-rash-selfies-lyme.amp",
-      "publishedDateTime": "2020-10-14T05:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null

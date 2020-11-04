@@ -2,6 +2,58 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-10-19-ferminet-quantum-physics-and-chemistry-from-first-principles.md",
+      "title": "FermiNet: Quantum Physics and Chemistry from First Principles",
+      "excerpt": "Weve developed a new neural network architecture, the Fermionic Neural Network or FermiNet, which is well-suited to modeling the quantum state of large collections of electrons, the fundamental building blocks of chemical bonds.",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.com/blog/article/FermiNet",
+      "originalUrl": "https://deepmind.com/blog/article/FermiNet",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/okVedh5EOrcP4VXLBcS9ZpeFUG9UcDEHNyMCe7kUrEt7CMnYROv4caYVNPB-eaGzSTAVXPfJp1CaOcQSsh9NFWwbkEzHyRXL9kiCLYY",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-incorporating-artificial-intelligence-in-indian-healthcare-sector.md",
       "title": "Incorporating Artificial Intelligence In Indian Healthcare Sector",
       "excerpt": "Today is the time when we can see significant disruption in the Indian healthcare industry. Much of this is credited to the level of involvement of artificial intelligence, big data, cloud ...",
@@ -1092,49 +1144,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-thought-powered-wheelchair-could-return-mobility-to-people-with-paralysis.md",
-      "title": "Thought-Powered Wheelchair Could Return Mobility To People With Paralysis",
-      "excerpt": "as demonstrated by a new study in which monkeys were able to navigate a robotic wheelchair using a brain chip. Now, this isn’t actually the first time that a mind-controlled wheelchair has been ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.iflscience.com/brain/wireless-thought-powered-wheelchair-system-invented/",
-      "originalUrl": "https://www.iflscience.com/brain/wireless-thought-powered-wheelchair-system-invented/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.iflscience.com/images/996b801a-a195-589b-9a62-61ed0ac2a71c/default-1464385738-205-thought-powered-wheelchair-could-return-mobility-to-people-with-paralysis.jpg",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.iflscience.com/brain/wireless-thought-powered-wheelchair-system-invented/",
-      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/brain/wireless-thought-powered-wheelchair-system-invented/",
-      "publishedDateTime": "2020-10-16T13:02:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IFLScience",
-        "domain": "iflscience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

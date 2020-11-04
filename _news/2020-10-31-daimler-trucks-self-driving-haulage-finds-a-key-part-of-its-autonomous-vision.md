@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/daimler-trucks-luminar-autonomous-haulage-
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/daimler-trucks-luminar-autonomous-haulage-investment-volvo-waymo-30645189/amp/"
 type: article
 quality: 85
-heat: 125
+heat: 105
 published: true
 
 provider:
@@ -59,31 +59,6 @@ related:
         width: 1920
         height: 1038
         isCached: true
-  - title: "Daimler invests in lidar startup Luminar to bolster self-driving truck effort"
-    excerpt: "Daimler’s truck unit is investing in a laser-sensor startup to bolster its development of self-driving trucks in the U.S. less than a week after striking a deal to use driverless technology from Alphabet Inc."
-    publishedDateTime: 2020-10-30T14:23:00Z
-    webUrl: "https://europe.autonews.com/automakers/daimler-invests-lidar-startup-luminar-bolster-self-driving-truck-effort"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 36
-    images:
-      - url: "https://s3-prod-europe.autonews.com/styles/800x600/s3/ANE_170619841_AR_-1_UAAHVBCOZQPU.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Luminar gets financial backing from Daimler to help with self-driving truck tech"
-    excerpt: "Daimler Truck AG is taking a minority stake in Palo Alto-based Luminar Technologies Inc. to help develop technology that will allow it to develop self-driving trucks, the companies announced Friday. In a news release with a dual dateline of Palo Alto and ..."
-    publishedDateTime: 2020-10-30T14:56:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2020/10/30/luminar-daimler-self-driving-truck-tech.html"
-    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/10/30/luminar-daimler-self-driving-truck-tech.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/10/30/luminar-daimler-self-driving-truck-tech.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
 
 secured: "mEKn+7PI30+gJ0xIbwaBaQ32nUeVr3rsuI3WKF0w54Vs2xQHI8iZ+/trkQNipISXXqzzdPqBHp+o2qd9BkedgaF5efvo4wMpohHGpaTPaKZEVRHIX7BXOTsThZp5FYhGgvXKcStrZOANMsfrkPjazdnKBPg7XLbFfbGmbkZ+q1RTYSBOC4tDgB1Z+95rczJDvW9FqeJ2bELHvLdVhsLEtvAyKQulehZeMqF0Bm2XAQ647BKtbBYTLyqI/4594vGBXa96gJrg8E/m+xTw0lOvzKp3lj+EA8zSeDc3eKyVsrlkxRJIDiRvEvIVYCQWPQyD0qhB7FpGJROUHLEAp4pOV78zn9cBWnqUTwKx//xN404URoi4UoyPLtvbsf5/TFsdz8Bh7hsFrMl8ipXYbvQ6pfk8b/FqX2nhKj24U5rd5qterpAFV/fPYcb15vGVxWs9x31EySpIGI34vYXkgfnMI1isT+AQE1lT3EhJIw0L5qFjh+Eq3UIlJ3qdgu6xxBaBM5TZzEaLwS2GkwbrxGiuLQ==;xG3+LKYUezuJ2TSjhk8HIA=="
 ---

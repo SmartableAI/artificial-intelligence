@@ -44,6 +44,17 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Global Predictive Analytics Market (2020 to 2025) - Advent of Machine Learning and Artificial Intelligence is Driving Growth"
+    excerpt: "The \"Predictive Analytics Market by Solution (Financial Analytics, Risk Analytics, Marketing Analytics, Web & Social Media Analytics, Network Analytics), Service, Deployment Mode, Organization Size, Vertical,"
+    publishedDateTime: 2020-11-03T18:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-predictive-analytics-market-2020-to-2025-advent-of-machine-learning-and-artificial-intelligence-is-driving-growth-1029760006"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/global-predictive-analytics-market-2020-to-2025-advent-of-machine-learning-and-artificial-intelligence-is-driving-growth-1029760006"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-predictive-analytics-market-2020-to-2025-advent-of-machine-learning-and-artificial-intelligence-is-driving-growth-1029760006"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
   - title: "Google partners with Knowlarity to expand its speech analytics platform in India"
     excerpt: "Google has partnered with Singapore-headquartered cloud telephony firm Knowlarity to expand its speech recognition and analytics services in India."
     publishedDateTime: 2020-11-03T06:33:00Z
@@ -59,20 +70,6 @@ related:
       - url: "https://www.ciol.com/wp-content/uploads/2020/10/Google-Cloud.jpg"
         width: 850
         height: 400
-        isCached: true
-  - title: "Global Predictive Analytics Market (2020 to 2025) - Advent of Machine Learning and Artificial Intelligence is Driving Growth"
-    excerpt: "The \"Predictive Analytics Market by Solution (Financial Analytics, Risk Analytics, Marketing Analytics, Web & Social Media Analytics,"
-    publishedDateTime: 2020-11-03T17:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-predictive-analytics-market-2020-to-2025---advent-of-machine-learning-and-artificial-intelligence-is-driving-growth-301165726.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 27
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
         isCached: true
   - title: "Advantech and ClearBlade Partner to Deliver Smart Monitoring Solution with Edge AI Intelligent Video Analytics"
     excerpt: "ClearBlade, an industry-leading Industrial Internet of Things (IoT) Platform and Edge Computing software company, and Advantech, a global leader in Industrial IoT hardware solutions, today announced a partnership to provide a monitoring solution software and hardware bundle that utilizes intelligent video analytics."
@@ -98,6 +95,6 @@ related:
       domain: crowdfundinsider.com
     quality: 4
 
-secured: "E2oKnObm/3lMsRSYVg6hnzJN6NghT/9n37Kcal+p+caiibJD7dortlyhWf0Xp/NJti8N//itf5RrzbEJNq5vq13CdJLgiiU0e8V+FFnV5/dI5c7hbceFfnkDIwVEX1WKJJ9nz29kk74sThiT5+jLztOq7gRTGxYYxNQ+ZdspkJ0kW1SY+aT6UgW+EnszVWYJUnoAlqRzPqmvJmjcTkwwESG8SfHf1g1Xr+V0HPIAnIXAgebKg7kcpht1gQ1CLbmdWLjWZjB2vNYhz+Pgbvon0dki5XDyO2a0hbrtjQkDBavqhaxFNR92Rssm7+lo29iGetwV8cN6yZcLnK7osgfJrcHNcwr+BLQL5EhoxLiAaJ4=;92BEsKkEyKeMk1qC2ed4Zw=="
+secured: "TKPgiwu4XQfnfu+gEKEUkApR4LjkePLkgTE89rybqdjuvRe76WqZLVu0Gn9Lyc2JRg0/jPLUUnBoz3uDxSgEl5tKXcjcHVTD7pod88as3ce5+8M5gg4lmHOyQiMELK/66lbo81NuG2puI86T+6N/jPRvXibPxr48P9kUrB69BLc450RDrgU+ifq+HYcvhYrhfwLktzkUIKxZahsavSppMW7gsWLAmhwZeDXnL5z2z80/e72XmmzS9cW2lwuA4n+F5SsCRB3wVsGWe8JBA5tdCmb6LAkeabAUWaHQMjazhQeH8X1gtwcMhJSx8Q6wYrg3+a/9ga2N1g1vh8Ic09W1q2rQVsqv/LLKggEYp628uXBYWHYlzZWM7WrLn4o/LTmzEme1xg5CjYcS6X4Kjn2cx8PLuJ3ehW4YJBVY43UkxA/8tZG7rBtoBr8KB4D1ZXmLXwl8cRztf/1FlbfW0s2/YIvS3svgaJIatJ8Uh8P2+QUK4UqfxOHf4ITUut2pEyG3rPby897Y6LhWNiYr1b21pg==;fCd1TJ9cpQGgbzA3u8fS/A=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://www.wsj.com/articles/how-to-make-artificial-intelligence-less-b
 ampWebUrl: "https://www.wsj.com/amp/articles/how-to-make-artificial-intelligence-less-biased-11604415654"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-to-make-artificial-intelligence-less-biased-11604415654"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - IBM AI
 
 images:
   - url: "https://images.wsj.net/im-253890/social"

@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-06-this-startup-has-a-plan-to-build-the-missing-link-for-self-driving-cars.md",
+      "title": "This Startup Has A Plan To Build The Missing Link For Self-Driving Cars",
+      "excerpt": "These robust, solid-state sensors are one of many essential components auto manufacturers need before they unleash self-driving vehicles on the market. While they’re not the only variable of the autonomous vehicle equation that needs to be solved,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lianeyvkoff/2020/10/06/this-startup-has-a-plan-to-build-the-missing-link-for-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lianeyvkoff/2020/10/06/this-startup-has-a-plan-to-build-the-missing-link-for-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f56f7ca3aeac44f89cd6817%2F0x0.jpg",
+          "width": 1200,
+          "height": 482,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lianeyvkoff/2020/10/06/this-startup-has-a-plan-to-build-the-missing-link-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lianeyvkoff/2020/10/06/this-startup-has-a-plan-to-build-the-missing-link-for-self-driving-cars/amp/",
+      "publishedDateTime": "2020-10-06T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-3-top-artificial-intelligence-stocks-to-buy-in-october.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy in October",
       "excerpt": "Artificial intelligence (AI) is a fast-growing segment ... from quantum computing to start-ups like self-driving car outfit Waymo. This research racks up substantial losses right now, with the ...",

@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-10-23-australian-and-korean-researchers-warn-of-loopholes-in-ai-security-systems.md",
+      "title": "Australian and Korean researchers warn of loopholes in AI security systems",
+      "excerpt": "Topic: Security Research from Commonwealth Scientific and Industrial Research Organisation's (CSIRO) Data61, the Australian Cyber Security Cooperative Research Centre (CSCRC), and South Korea's Sungkyunkwan University have highlighted how certain triggers could be loopholes in smart security cameras.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/australian-and-korean-researchers-warn-of-loopholes-in-ai-security-systems/",
+      "originalUrl": "https://www.zdnet.com/article/australian-and-korean-researchers-warn-of-loopholes-in-ai-security-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2019/11/01/eb254cf0-d63d-44bd-ac1e-6a56df4123b8/istock-1160977168.jpg",
+          "width": 1254,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/australian-and-korean-researchers-warn-of-loopholes-in-ai-security-systems/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australian-and-korean-researchers-warn-of-loopholes-in-ai-security-systems/",
+      "publishedDateTime": "2020-10-22T18:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-how-smart-are-ai-chips-really.md",
       "title": "How Smart Are AI Chips, Really?",
       "excerpt": "The best part about the term “Artificial Intelligence” is that nobody can really tell you what it exactly means. The main reason for this stems from the term “intelligence”, with ...",
@@ -1119,57 +1171,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-facebooks-ai-team-expands-post-grad-courses-for-black-and-latinx-students.md",
-      "title": "Facebook's AI team expands post-grad courses for Black and Latinx students",
-      "excerpt": "Facebook says that it will expand an online course in deep learning to more students to help improve the diversity of its AI division. After a successful pilot program at Georgia Tech, the company will roll out this graduate-level course in deep learning to more colleges across 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/facebook-ai-diversity-online-learning-course-120044903.html",
-      "originalUrl": "https://www.engadget.com/facebook-ai-diversity-online-learning-course-120044903.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F39769420-144a-11eb-bfe1-45e43ea856dd&client=amp-blogside-v2&signature=8fd4a9f5ed17636cd9fdd3c52513267131ac292d",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/facebook-ai-diversity-online-learning-course-120044903.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-ai-diversity-online-learning-course-120044903.html",
-      "publishedDateTime": "2020-10-22T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
