@@ -1,29 +1,26 @@
 ---
 category: news
 title: "SYSTRAN Partners with TAUS to Offer Corona Crisis Translation Models"
-excerpt: "PRNewswire/ -- SYSTRAN, the leader in AI-based translation technology, announces its partnership with TAUS, a pioneer in the language data space, to provide global access to secure and accurate translations specific to the coronavirus pandemic through the new Corona Crisis Translation Models."
-publishedDateTime: 2020-10-27T13:00:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-virus-outbreak-lung-disease-health-diseases-and-conditions-cfb866b5d43406c04ac2576d460c8c5d"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-virus-outbreak-lung-disease-health-diseases-and-conditions-cfb866b5d43406c04ac2576d460c8c5d"
+excerpt: "SAN DIEGO, Oct. 27, 2020 /PRNewswire/ -- SYSTRAN, the leader in AI-based translation technology, announces its partnership with TAUS, a pioneer in the language data space, to provide global access to secure and accurate translations specific to the ..."
+publishedDateTime: 2020-10-27T13:08:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/systran-partners-with-taus-to-offer-corona-crisis-translation-models-301160454.html"
+webUrl: "https://www.prnewswire.com/news-releases/systran-partners-with-taus-to-offer-corona-crisis-translation-models-301160454.html"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1227311/LOGO_SYSTRAN_VERTICAL_RVB_4K.jpg?p=facebook"
+    width: 2700
+    height: 1414
     isCached: true
 
-secured: "JFBcF+MsxB9BlJg+bs/pT1mCsSSu22EWD9BLMosDLIfnJ70ktALcfyjD05ie6Dz7H/wZ9P3/AVDtynP+Bx1CP49oMURcXlz7qedSJ9CXt4qMiKCKaxdVHw4CaqvmEtCYWEtGfmBlwDqM70yzTA+hu3XgsL41NNN9Z0ctcUxaGcTgmLyODSNNjfAddA5gBWAEqWDvEdnWetrNSpMN73ITxwPL9nMN1tQwJ37tHodeCDjvEHp01DysbWnaVnNG2xBw3PW0Cw3djBjUsHdvo8UQAPrSrCSFm4teaZUq34YgqAwSXdt2tM0NGZDczuFQh+8RbpHzoL44/iqSOlQ682uQY9NtF49L+XeXRsF0CQwq7NU=;7i0/e0UepjA+aI6m6b80qw=="
+secured: "BmD2417nBrhLS9y8qt4RU/RtL/HtoMoV7JSwIepHfxtbQBsb1qwSOwoAHCaYslQCjSUXaNvMWWrDrng8rursdhqgeotWLpDirV4QBvtQFj2XDf+xZ6oA+UF2Ib0tWIETqrWg1PpHnsh0IlCWNuDZQQemkgYopB8PKBxJ2X1MDSOZik8yNzWh/MCSSagW/AWkpJ864aaUJ/5WcPC/ianz2PVzqHlDll0mH3Ade10ozfXSCUDUVZ2cWFGKFJggvwYrwNYZP+1ZN9Gx1HuJTQYR2+rqF+MLAM6K1gNKnioTfAoZGkV/HWKBNK0krOYXIgv0zX7l+clTL6R0PDIGh9C0pxjd9gps6Clt3XRNFS6QThY=;pNtvYba94ttsiFZ6y1DWAQ=="
 ---
 

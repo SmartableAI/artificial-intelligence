@@ -1,10 +1,10 @@
 ---
 category: news
 title: "A Checklist For Artificial Intelligence On Workstations"
-excerpt: "Firms of all sizes are leveraging workstations as part of their artificial intelligence (AI) workflows. In the past, many firms relied on highly-scaled servers in data centers or private/public cloud infrastructure to run their AI  applications."
+excerpt: "The results of a recent survey commissioned by Dell and executed by Forrester summarized in this white paper, \"A Checklist For Artificial Intelligence On Workstations,\" have indicated a quarter of firms are actually using workstations today to run core AI business applications and are experiencing the benefits that workstations can offer."
 publishedDateTime: 2020-11-02T18:46:00Z
-originalUrl: "https://insidehpc.com/white-paper/a-checklist-for-artificial-intelligence-on-workstations/"
-webUrl: "https://insidehpc.com/white-paper/a-checklist-for-artificial-intelligence-on-workstations/"
+originalUrl: "https://insidehpc.com/2020/11/a-checklist-for-artificial-intelligence-on-workstations/"
+webUrl: "https://insidehpc.com/2020/11/a-checklist-for-artificial-intelligence-on-workstations/"
 type: article
 quality: 39
 heat: 39
@@ -19,11 +19,11 @@ topics:
   - AI
 
 images:
-  - url: "https://insidehpc.com/wp-content/uploads/2020/09/NVLogo_2D-1_09042020.jpg"
-    width: 306
-    height: 383
+  - url: "https://insidehpc.com/wp-content/uploads/2020/11/Figure-3.png"
+    width: 576
+    height: 428
     isCached: true
 
-secured: "yK6tRmkmQdrx9zAAfp09lk+iqvP8kF/DYXn1Lwe1cImZfxdN/anPbeH7jkgYvztaWwVGnFjNolr/4MpIUdAi/+bKKI7H8kSHgJO1Gl/3xIuAbI7mFDrWAuMg3goRX7yhRZUMF8tFbCzeTOYr2+1gChn6Bjz1T/OPgsgaUxQUPpehie5lIR/+IaO2eCCLyZmcwOpCMFLkhpcc22ZTPUaSvAhKvq7xB9LC57pkkE9CGOXJMilF2fGMrBew4+Rh7mR0UPvcKL5Ko3MnCtJKTMAP9sDt2ztQvwmwVwIwJgkd8UtJYe+tmjFQQFlWi3he0HxTA+oHpJBLgcdHawwiW2zOsK/+XR9W4cXpkgaRx62CyMW36QmQsE/gPOjpnndA4bIyE8PGclkxmfgrkFwSoH/qrvweVVkqhMqlXPxlc31EF9+ucXQhnyditLEl0tN4aLYb5JoAKkYeMMEvg94UDzv7Q+FlhlbYMptpXjs+1M2/7NAEPfr6CgXpHfRcYvRmWrJtcin4jm1WbbrLbIf0kYHS2A==;UDW45R03KNJcq6/QaTZOag=="
+secured: "B1Fxp/PZSerL+6ER/4UJyPwuLoaH0Su3F3aXhyDygpaWEo8AIm+wBzG1NM7HsmhdxLhzcJhWphioCD+U26CHpum1nuoVHaNR9CCQn5ndAhkcr6bs6GKxqiWe9LYu1iKgB8EFB9fQwDOZwIcdpe8qVRNHMpSM1YCaA2x/2xpcHiCS4FrGaEvQf1WxPb1R4I+KdHyOP8uzE2ZbwZavwMO8g2tkNk5dZS9ni21+5oj3W6jlNVNbgXBPsklebGQ0vyVYMFPKLTTr4j25IQKz9dW0OrtAM6V0u33HmVCaR/tWUzeopHGYe+UmG2tYUTY3GeTC3K/wuxEJtlZOAvAtTtJGxvqD79cgFqyDA9FLC7Nv9Gk=;7VDlAPDPZWpH+JkCV73p3g=="
 ---
 

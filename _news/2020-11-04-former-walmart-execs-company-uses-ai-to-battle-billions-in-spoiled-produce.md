@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/edgarsten/2020/11/04/former-walmart-exe
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2020/11/04/former-walmart-execs-company-uses-ai-to-battle-billions-in-spoiled-produce/amp/"
 type: article
 quality: 85
-heat: 105
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,6 +30,38 @@ images:
     isCached: true
 
 related:
+  - title: "Walmart Scraps Plan to Have Robots Scan Shelves"
+    excerpt: "The retail giant is ending its push to have machines developed by Bossa Nova Robotics rove stores to keep track of inventory, after discovering during the coronavirus pandemic that humans can help get similar results."
+    publishedDateTime: 2020-11-03T00:29:00Z
+    webUrl: "https://www.wsj.com/articles/walmart-shelves-plan-to-have-robots-scan-shelves-11604345341"
+    ampWebUrl: "https://www.wsj.com/amp/articles/walmart-shelves-plan-to-have-robots-scan-shelves-11604345341"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/walmart-shelves-plan-to-have-robots-scan-shelves-11604345341"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 172
+    images:
+      - url: "https://images.wsj.net/im-253418/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Walmart abandons shelf-scanning robots, lets humans do work"
+    excerpt: "Walmart is laying off the robots it had deployed in about 500 stores to keep tabs on what’s on and not on the shelves."
+    publishedDateTime: 2020-11-02T21:58:00Z
+    webUrl: "https://fox40.com/news/business/walmart-abandons-shelf-scanning-robots-lets-humans-do-work/"
+    ampWebUrl: "https://fox40.com/news/business/walmart-abandons-shelf-scanning-robots-lets-humans-do-work/amp/"
+    cdnAmpWebUrl: "https://fox40-com.cdn.ampproject.org/c/s/fox40.com/news/business/walmart-abandons-shelf-scanning-robots-lets-humans-do-work/amp/"
+    type: article
+    provider:
+      name: FOX40
+      domain: fox40.com
+    quality: 59
+    images:
+      - url: "https://fox40.com/wp-content/uploads/sites/13/2020/11/AP_19023777999919.jpg?w=1280"
+        width: 1280
+        height: 786
+        isCached: true
   - title: "Walmart To End Experiment With Robots In US Stores – Jaweb"
     excerpt: "Walmart has pulled the plug on a program to use robots to scan items in stores and help maintain inventory, a company spokeswoman said Tuesday. The retail giant had worked with Bossa Nova Robotics for five years employing elongated robots that take readings on inventory and utilize artificial intelligence to predict product movement and inventory"
     publishedDateTime: 2020-11-03T17:10:00Z
@@ -46,6 +78,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Walmart gets rid of inventory robots, says human as good"
+    excerpt: "There have always been fears that robots are going to take away a lot of routine tasks and some white-collar jobs too in the future. Artificial Intelligence has already insidiously taken over many supervisory tasks without many being aware of it."
+    publishedDateTime: 2020-11-04T12:39:00Z
+    webUrl: "https://www.industryleadersmagazine.com/walmart-gets-rid-of-inventory-robots-says-human-as-good/"
+    type: article
+    provider:
+      name: Leadership
+      domain: industryleadersmagazine.com
+    quality: 39
+    images:
+      - url: "https://www.industryleadersmagazine.com/wp-content/uploads/2020/11/Walmart-Inventory-Robots-Fires-All.png"
+        width: 840
+        height: 559
+        isCached: true
   - title: "Walmart To End Experiment With Robots In US Stores"
     excerpt: "Walmart has pulled the plug on a program to use robots to scan items in stores and help maintain inventory, a company spokeswoman said Tuesday. The retail giant had worked with Bossa Nova Robotics for five years employing elongated robots that take readings on inventory and utilize artificial intelligence to predict product movement and inventory needs."
     publishedDateTime: 2020-11-03T16:18:00Z
@@ -61,6 +107,6 @@ related:
         height: 682
         isCached: true
 
-secured: "b5Qwp8gRYoIhC/Fj7Zm86WRb81Q3xCZLgPvkWyzP01v91SFZaJz61S+nPP04tuhC7V7WyVSLb/SFL8NdRbllrV7GrlggbDlxc7LtN6sez0aTfU2kG+HJkpV+xyAui1cF52Ry8f7QKpjwTO6wito2sna/AplBJvaBzWdK8I2ZHbnYVdjJ53qD1/YQ6+702XKWImAs7lwStbIM6pNtlO4fW0uz/GIcDmyXUyd2+vDyerGuAja+4EOEJ8Ou9FgJaAXBiY37FQEE9IHZicTHn0JlxfJl9A67CYwrVzqby+Un14N8v4INf1V3eYhFn09x7qZ/iZNPXeGwExwhIpIRh+GcUuMd+Ot4T4IswpiYK/wLefI=;MZ9jSKS1dhSZc2FNkyRO9Q=="
+secured: "Sa3bZYGUaBPTVf+1XTVMsvO3JDC/BZvGH/g1583Ho0QqH6DlH2U/DeYGI8dYDiZyURMiS3HR+p+oF1syKysESMqGNghow6+NRL1t/TN56U/wIWVgXrVtsIdfTgyF2M3iwfLTkNwh+LHPyZM58beHO93ytGAkHjLaV8u0HNdrBK9505u4DmrsPrO0M0x5anzgzj2W3HlrvTgwEe05ENyM1MuM9sjtwTuL5Q94uuX1QfTgEjSc78KFxuv1T2gNgpcIRFEAgUfT81zzFkCguxoJ17Nft/7aWmq4yHO/Eepd37y1G+WAZPpJ3/QJUTatUaMPhCtzKmKSIhFc9KtT+8cPWk6ybaf3Vhi9qTAka7rtDmCdh1GHIY+0is+SIS0tV4P0JGgIqTne8F+b/nq0c7MOQWRPskNENiAoL4Vvtpi63CVx+MN2hK2Z4URG86ErkWbrcdA2/xEO/6qJeth4gEsrgtIie1ZW6J8AAymJ/Y2BXL7uJv3aPhub+4MgMGo0HtaOB1TZCHRnGcms7AKfdo3mCw==;1SOV8KgEapKYoWItR5gkDg=="
 ---
 

@@ -42,6 +42,20 @@ related:
         width: 1000
         height: 668
         isCached: true
+  - title: "AWS launches next-gen GPU instances for machine learning"
+    excerpt: "AWS has launched its latest GPU-equipped instances aimed at machine learning and high-performance computing (HPC) workloads. Called P4d, the new instances come ten years the first set of GPU instances were launched."
+    publishedDateTime: 2020-11-04T14:52:00Z
+    webUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/8820/aws-launches-next-gen-gpu-instances-for-machine-learning"
+    type: article
+    provider:
+      name: Cloud Pro
+      domain: cloudpro.co.uk
+    quality: 73
+    images:
+      - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2020/06/awslogo.jpg"
+        width: 3648
+        height: 2736
+        isCached: true
   - title: "AWS launches Amazon EC2 P4d instances, boosting performance for ML training and HPC"
     excerpt: "Amazon Web Services announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) P4d instances."
     publishedDateTime: 2020-11-04T02:02:00Z

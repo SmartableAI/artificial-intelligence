@@ -2,6 +2,111 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-02-ambarella-launches-computer-vision-chips-for-edge-ai.md",
+      "title": "Ambarella launches computer vision chips for edge AI",
+      "excerpt": "Chip designer Ambarella has announced a new computer vision chip for artificial intelligence at the edge of a computer network.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/02/ambarella-launches-computer-vision-chips-for-edge-ai/",
+      "originalUrl": "https://venturebeat.com/2020/11/02/ambarella-launches-computer-vision-chips-for-edge-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/ambarella-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 621,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/02/ambarella-launches-computer-vision-chips-for-edge-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/02/ambarella-launches-computer-vision-chips-for-edge-ai/amp/",
+      "publishedDateTime": "2020-11-02T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-11-02-halodoc-uses-ai-to-improve-how-doctors-receive-feedback.md",
+      "title": "Halodoc uses AI to improve how doctors receive feedback",
+      "excerpt": "Due to Indonesia’s vast size and population, timely and reliable access to healthcare can sometimes be a challenge. Halodoc aims to change that with a mobile first-telemedicine platform that connects Indonesians to doctors and helps them arrange appointments, medicine deliveries and tests. What’s distinctive",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/around-the-globe/google-asia/halodoc-uses-ai-improve-how-doctors-receive-feedback/",
+      "originalUrl": "https://blog.google/around-the-globe/google-asia/halodoc-uses-ai-improve-how-doctors-receive-feedback/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
+          "width": 1000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/around-the-globe/google-asia/halodoc-uses-ai-improve-how-doctors-receive-feedback/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-asia/halodoc-uses-ai-improve-how-doctors-receive-feedback/amp/",
+      "publishedDateTime": "2020-11-02T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-02-ai-mistakes-referees-bald-head-for-football-hilarity-ensued.md",
       "title": "AI mistakes referee’s bald head for football — hilarity ensued",
       "excerpt": "Top football leagues and teams around the world have TV crews and streaming services at their disposal to broadcast matches to fans across the globe. However, because of the coronavirus pandemic, smaller football teams are relying on AI-powered cameras to cast live matches through YouTube.",
@@ -612,58 +717,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-31-tesla-pushes-new-full-self-driving-beta-update-elon-musk-says-could-slash-interventions-by-a-third.md",
-      "title": "Tesla pushes new Full Self-Driving Beta update, Elon Musk says could slash interventions by a third",
-      "excerpt": "Tesla has started pushing a new software update under its Full Self-Driving Beta program and CEO Elon Musk says it could already cut driver interventions by a third. It has been less than two ...",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2020/10/31/tesla-new-full-self-driving-beta-update-elon-musk-slashes-interventions/",
-      "originalUrl": "https://electrek.co/2020/10/31/tesla-new-full-self-driving-beta-update-elon-musk-slashes-interventions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-FSD-update.jpg?quality=82&strip=all",
-          "width": 2774,
-          "height": 1122,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2020/10/31/tesla-new-full-self-driving-beta-update-elon-musk-slashes-interventions/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/31/tesla-new-full-self-driving-beta-update-elon-musk-slashes-interventions/amp/",
-      "publishedDateTime": "2020-10-31T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-31-waymo-shares-in-depth-details-of-self-driving-car-activity-in-phoenix.md",
       "title": "Waymo shares in-depth details of self-driving car activity in Phoenix",
       "excerpt": "Waymo’s vehicles have driven a total of 6.1 million miles in Phoenix, Arizona, where it first started testing its self-driving technology.",
@@ -775,7 +828,7 @@
       "originalUrl": "https://www.cnet.com/news/intel-iris-xe-max-gpu-arrives-in-11th-gen-mobile-chips-to-boost-gaming-creation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 279,
+      "heat": 289,
       "tags": null,
       "images": [
         {
@@ -911,6 +964,58 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-31-tesla-hikes-up-the-price-of-full-self-driving-option-to-10000.md",
+      "title": "Tesla Hikes Up the Price of 'Full Self-Driving' Option to $10,000",
+      "excerpt": "Tesla bumped up the price of its \"full self-driving\" from $8,000 to $10,000 on Friday, and odds are this won’t be the last price hike Tesla owners see.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/tesla-hikes-up-the-price-of-full-self-driving-option-to-1845535197",
+      "originalUrl": "https://gizmodo.com/tesla-hikes-up-the-price-of-full-self-driving-option-to-1845535197",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/nhmzpjpkgvvsqawmqowb.jpg",
+          "width": 800,
+          "height": 451,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/tesla-hikes-up-the-price-of-full-self-driving-option-to-1845535197/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tesla-hikes-up-the-price-of-full-self-driving-option-to-1845535197/amp",
+      "publishedDateTime": "2020-10-30T18:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1171,113 +1276,6 @@
       "topics": [
         "AI",
         "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-31-is-self-help-ai-the-new-trend.md",
-      "title": "Is Self-Help AI The New Trend?",
-      "excerpt": "With the use of artificial intelligence in healthcare taking off this year, companies creating AI-enabled tools to understand the mental health of individuals and their behaviors in group settings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/junwu1/2020/10/30/is-self-help-ai-the-new-trend/",
-      "originalUrl": "https://www.forbes.com/sites/junwu1/2020/10/30/is-self-help-ai-the-new-trend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9c629e5300785f0acdf1f0%2F0x0.jpg%3FcropX1%3D442%26cropX2%3D7553%26cropY1%3D0%26cropY2%3D4000",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/junwu1/2020/10/30/is-self-help-ai-the-new-trend/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/10/30/is-self-help-ai-the-new-trend/amp/",
-      "publishedDateTime": "2020-10-30T12:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-10-31-want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe.md",
-      "title": "Want To Infuse AI Into Your Apps With Minimal Effort? Try Microsoft Lobe",
-      "excerpt": "But AutoML is an extension of the cloud-based ML PaaS offerings demanding the skills of using tools such as Amazon SageMaker, Azure ML, Google AI Platform, and IBM Watson Studio. The AutoML tools expect developers to be familiar with the ML PaaS.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/?sh=3f285d437a72",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/?sh=3f285d437a72",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9bf8a2dbc46c0b82a29403%2F0x0.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/amp/",
-      "publishedDateTime": "2020-10-30T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI",
-        "IBM AI",
         "Machine Learning"
       ]
     }

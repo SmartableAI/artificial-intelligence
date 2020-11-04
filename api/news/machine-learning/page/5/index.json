@@ -2,6 +2,102 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-07-sailthru-announces-new-machine-learning-testing-infrastructure.md",
+      "title": "Sailthru Announces New Machine Learning Testing Infrastructure",
+      "excerpt": "Stock quotes by finanzen.net NEW YORK, Oct. 07, 2020 (GLOBE NEWSWIRE) -- Sailthru, the leading personalized marketing automation technology provider for retailers and publishers, today announced a new investment in wide-scale testing infrastructure to make it easier for marketers to test copy and design assets that drive engagement and conversion.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sailthru-announces-new-machine-learning-testing-infrastructure-1029657213",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/sailthru-announces-new-machine-learning-testing-infrastructure-1029657213",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-07T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-bespoken-spirits-raises-26m-in-seed-funding-to-combine-machine-learning-and-accelerated-whiskey-aging.md",
+      "title": "Bespoken Spirits raises $2.6M in seed funding to combine machine learning and accelerated whiskey aging",
+      "excerpt": "Bespoken Spirits, a Silicon Valley spirits company that has developed a new data-driven process to accelerate the aging of whiskey and create specific flavors, today announced that it has raised a $2.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/07/bespoken-spirits-raises-2-6m-in-seed-funding-to-combine-machine-learning-and-accelerated-whiskey-aging/",
+      "originalUrl": "https://techcrunch.com/2020/10/07/bespoken-spirits-raises-2-6m-in-seed-funding-to-combine-machine-learning-and-accelerated-whiskey-aging/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/Bespoken-Product-Shot-3.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/07/bespoken-spirits-raises-2-6m-in-seed-funding-to-combine-machine-learning-and-accelerated-whiskey-aging/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/07/bespoken-spirits-raises-2-6m-in-seed-funding-to-combine-machine-learning-and-accelerated-whiskey-aging/amp/",
+      "publishedDateTime": "2020-10-07T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-a-new-idc-marketscape-assesses-eleven-providers-of-advanced-machine-learning-platforms.md",
       "title": "A New IDC MarketScape Assesses Eleven Providers of Advanced Machine Learning Platforms",
       "excerpt": "International Data Corporation (IDC) today published a new assessment of eleven companies offering the tools and frameworks for developing advanced machine learning (ML)",
@@ -1321,112 +1417,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-this-month-in-aws-machine-learning-september-2020-edition.md",
-      "title": "This month in AWS Machine Learning: September 2020 edition",
-      "excerpt": "Every day there is something new going on in the world of AWS Machine Learning—from launches to new use cases to interactive trainings. We’re packaging some of the not-to-miss information from the ML Blog and beyond for easy perusing each month. Check back at the end of each month for the latest roundup.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-september-2020-edition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-september-2020-edition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/30/202431_AWS_ML_Monthly_blog_post_visual_sept-01-1260x630.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T16:14:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning.md",
-      "title": "Will AI cross the proverbial chasm? Algorithmia resolves the practical pitfalls of machine learning",
-      "excerpt": "For example, Amazon has made a lot of progress with text translation technology as a service, he noted. But industry-specific, or vertical market machine learning, is something of a different story. One customer of Algorithmia, a large financial firm ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/09/29/8d457003-6fff-4124-8566-6fa533c43731/kenny-daniel-algorithmia-2020.png",
-          "width": 2053,
-          "height": 1118,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning/",
-      "publishedDateTime": "2020-09-30T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

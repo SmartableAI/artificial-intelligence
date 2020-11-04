@@ -89,6 +89,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Waymo pulls self-driving cars in San Francisco as cities nationwide brace for unrest"
+    excerpt: "Waymo moved its San Francisco vehicles to neighboring Mountain View Monday night out of an abundance of caution and with the safety of its team in mind, according to a spokeswoman."
+    publishedDateTime: 2020-11-04T13:00:00Z
+    webUrl: "https://www.eastbaytimes.com/2020/11/04/waymo-pulls-self-driving-cars-in-san-francisco-as-cities-nationwide-brace-for-unrest/"
+    ampWebUrl: "https://www.eastbaytimes.com/2020/11/04/waymo-pulls-self-driving-cars-in-san-francisco-as-cities-nationwide-brace-for-unrest/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2020/11/04/waymo-pulls-self-driving-cars-in-san-francisco-as-cities-nationwide-brace-for-unrest/amp/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 52
+    images:
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2020/11/hypatia-h_bfe6eec850c45698ccc926b6623cac82-h_3f3331561d6fc6c4dc68055128326422-1.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Waymo And Other Self-Driving Car Companies Readying Real-World Driverless Transportation"
     excerpt: "Just after Alphabet-owned Waymo started its driverless taxi service to the public in Phoenix, other autonomous vehicle developers are following suit with"
     publishedDateTime: 2020-11-01T02:25:00Z
@@ -102,20 +118,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https://specials-images.forbesimg.com/imageserve/5f9e1ae8b307dfb172a46190/0x0.jpg"
         width: 4256
         height: 2832
-        isCached: true
-  - title: "Waymo pulls self-driving cars in San Francisco as cities nationwide brace for unrest"
-    excerpt: "Photo by: Frank Duenzl/picture-alliance/dpa/AP ImagesWaymo, the self-driving company of Google’s parent company Alphabet, has suspended its self-driving operations in San Francisco as businesses and cities brace for potential unrest following the presidential election."
-    publishedDateTime: 2020-11-04T03:10:00Z
-    webUrl: "https://www.channel3000.com/waymo-pulls-self-driving-cars-in-san-francisco-as-cities-nationwide-brace-for-unrest/"
-    type: article
-    provider:
-      name: Channel 3000
-      domain: channel3000.com
-    quality: 32
-    images:
-      - url: "https://www.channel3000.com/content/uploads/2020/11/hypatia-h_bfe6eec850c45698ccc926b6623cac82-h_3f3331561d6fc6c4dc68055128326422-1024x683.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Waymo pauses self-driving car operations in San Francisco in case of election unrest - CNET"
     excerpt: "Bike and scooter rental companies are also prepping for uncertainty after a contentious contest."

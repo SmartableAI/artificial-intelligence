@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2020/11/02/alphabets-project-amber-leverages-ai
 ampWebUrl: "https://venturebeat.com/2020/11/02/alphabets-project-amber-leverages-ai-to-identify-brain-wave-data-relevant-to-anxiety-and-depression/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/02/alphabets-project-amber-leverages-ai-to-identify-brain-wave-data-relevant-to-anxiety-and-depression/amp/"
 type: article
-quality: 72
-heat: 72
+quality: 74
+heat: 74
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/11/ai-brain.jpg?w=1200&strip=all"
@@ -29,6 +30,6 @@ images:
     height: 595
     isCached: true
 
-secured: "zExzUCsMfoQ/EAlQ9f4rp6IAAf3xiF8+96hWXtYz2NFMZ7Tob2TGFFyEoyEhoHRe+Ga59hD4ckXCi4p0+0r3spQCCQPc9e6/D899XOyidwVjbRZ1s131iNyPIJxHVsGHU21YMlcIS+Pw/hb/gNtt1fxdGH1P+MIeSjegiUPD0kM4JGrhMgH1q1ltNtsDlpMcnrAjteFgVcLsENW/PFvcvzB+GBTP9PzSvsEt2vBWmRdKogYMY1nuiXhtnwNLNuFYJ5HiAp5f6cO6S6TVJoLGgeSLmmOgLS2met/vn5N3R18itVwKlWYOTskTkQyy50f0W34+v5LKNJGrc225CV8m2xP/SjJ1E5FpkYThUpmR68Q=;Mbs6EzBhvy/to3EL4uyEHQ=="
+secured: "ohElX1Vi3itEVB2sue0JcXvUubpTjYrTF8pheAu4KB5jJam3clvEVUyvaonwTtT9MqKFPUTJQ9DwIsOgxkijqWBlkGnUWOhUPpdTy3oWQX/i6bbENC9bhXcRiyzbxig3sWf2Ui0hfvA62ENWCl1sD4eOYRg8KIomkHkTNyhgDyjOZtjMTPs97K7xSM7Nng22ufmlxlkcTuSdlnDncU9ZR3/XMDuxB/ixhAxupgkXBssoij7Zz21n01SMBaiRK5n3mr45HYJxWMkZa27Co+Btf27ed+FgHmg0p/fRjaDPFsghBqEBsQXSzm/Cq0sBIbz9/8FWO1BnRVronwcfSA2g45aQlauHCefirx58HzaJIRgZiv/1Q9Ev88TNrk51TQZV4f6GOs7YIFDCkVXNKgQ1FPiLGeybVOIVKqRweV3LFMI5dKWQqa+aMpK2ALdoBUWWMjvGsMCBHOl5i7DoUybQpTV25882DVsSNOiZZRh9J2NJwnCtkVwOgK70+PHzXhm6wW5cxhEgfnPl3fY3H5qN7w==;5z9/xw/j3c4LyfwMs1SyiQ=="
 ---
 

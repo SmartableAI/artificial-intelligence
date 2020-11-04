@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-04-brainome-launches-product-to-optimize-machine-learning-development-process.md",
+      "title": "Brainome launches product to optimize machine learning development process",
+      "excerpt": "Brainome's new product, Daimensions, seeks to eliminate brute-force aspects of machine learning model development, integrate with existing CI/CD infrastructure and generate small ML models that can run efficiently on commodity hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/brainome-launches-product-to-optimize-machine-learning-development-process/",
+      "originalUrl": "https://www.zdnet.com/article/brainome-launches-product-to-optimize-machine-learning-development-process/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/brainome-launches-product-to-optimize-machine-learning-development-process/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brainome-launches-product-to-optimize-machine-learning-development-process/",
+      "publishedDateTime": "2020-11-04T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-intel-acquires-cnvrgio-to-boost-ai-ml-operations.md",
       "title": "Intel acquires Cnvrg.io to boost AI, ML operations",
       "excerpt": "Chip maker Intel has acquired Israel-based full-stack data science platform Cnvrg.io to double down on its machine learning and AI operations.",
@@ -106,7 +149,7 @@
       "originalUrl": "https://www.itproportal.com/news/aws-launches-new-gpu-instances-for-machine-learning-and-hpc/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -190,8 +233,8 @@
       "title": "Amazon EC2 P4d instances for pushing machine learning boundaries now available",
       "excerpt": "Amazon Web Services (AWS) has announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) P4d instances with EC2 UltraClusters capability. The cloud giant has touted the offering as the next generation of GPU-powered instances for providing the best performance in machine learning training and high-performance computing (HPC) in the cloud.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
+      "webUrl": "https://www.zdnet.com/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
+      "originalUrl": "https://www.zdnet.com/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
       "featuredContent": null,
       "highlight": null,
       "heat": 92,
@@ -199,8 +242,8 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
       "publishedDateTime": "2020-11-02T16:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -224,9 +267,9 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "Machine Learning",
         "AI",
-        "Machine Learning"
+        "AWS AI"
       ]
     },
     {
@@ -1223,10 +1266,10 @@
     {
       "path": "_news/2020-10-28-artificial-intelligence-dives-into-thousands-of-ww2-photographs.md",
       "title": "Artificial intelligence dives into thousands of WW2 photographs",
-      "excerpt": "Artificial Intelligence (AI ... and the researchers wanted to demonstrate the advantages of using modern neural networks to analyse images to such an extent that the machine could automatically detect people and objects in a variety of scenes and even ...",
+      "excerpt": "In a new international cross disciplinary study, researchers from Aarhus University, Denmark and Tampere University, Finland have used artificial intelligence to analyse large amounts of historical photos from WW2.",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-10/au-aid102820.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-10/au-aid102820.php",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-10/au-aid102820.php?fbclid=IwAR3MCWLzjCs9JHAEmDaF9DnqsTkKAtWogCIb8HDnnagM3yh-s6EM1Ddh4Y8",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-10/au-aid102820.php?fbclid=IwAR3MCWLzjCs9JHAEmDaF9DnqsTkKAtWogCIb8HDnnagM3yh-s6EM1Ddh4Y8",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1245,7 +1288,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T07:54:00-07:00",
+      "publishedDateTime": "2020-10-28T07:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "EurekAlert!",
@@ -1399,50 +1442,6 @@
       "topics": [
         "AI",
         "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-the-evolving-world-of-fintech-robo-ai-ml-data-analytics-digital-solutions.md",
-      "title": "The Evolving World of FinTech, Robo, AI, ML, Data, Analytics & Digital Solutions",
-      "excerpt": "Hubbis Digital Dialogue delved deeply and intently into the growth of the influence of FinTech in Asia and at the universe of digital solutions being promoted and rolled out across the region’s offshore and onshore wealth management markets,",
-      "sourceUrl": null,
-      "webUrl": "https://hubbis.com/article/the-evolving-world-of-fintech-robo-ai-ml-data-analytics-digital-solutions",
-      "originalUrl": "https://hubbis.com/article/the-evolving-world-of-fintech-robo-ai-ml-data-analytics-digital-solutions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-ap-southeast-1.amazonaws.com/img.hubbis.com/home_middle_optimiser/img/article/cropped/5dadb5afdf30baed67f92c3ff22886d3f565c54c.jpg",
-          "width": 480,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hubbis",
-        "domain": "hubbis.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
         "Machine Learning"
       ]
     }

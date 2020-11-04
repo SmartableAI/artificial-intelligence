@@ -40,6 +40,22 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Leena AI nabs $8M Series A as it expands from chatbots to HR service platform"
+    excerpt: "When we covered Leena AI as a member of the Y Combinator Summer 2018 cohort, the young startup was firmly focused on building HR chatbots, but in the intervening years it has expanded the vision to a broader HR policy platform."
+    publishedDateTime: 2020-11-04T14:53:00Z
+    webUrl: "https://techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/"
+    ampWebUrl: "https://techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1215953761.jpg?w=1024"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Leena AI raises $8M in series A funding to revolutionize employee experience"
     excerpt: "Leena AI, an artificial intelligence (AI)-powered employee experience platform, today announced an USD 8 million Series A financing led by Greycroft to expand its go-to-market programs and accelerate"
     publishedDateTime: 2020-11-03T11:30:00Z

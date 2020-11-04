@@ -1,25 +1,27 @@
 ---
 category: news
 title: "Waymo pulls self-driving cars in San Francisco as cities nationwide brace for unrest"
-excerpt: "Photo by: Frank Duenzl/picture-alliance/dpa/AP ImagesWaymo, the self-driving company of Google’s parent company Alphabet, has suspended its self-driving operations in San Francisco as businesses and cities brace for potential unrest following the presidential election."
-publishedDateTime: 2020-11-04T03:10:00Z
-originalUrl: "https://www.channel3000.com/waymo-pulls-self-driving-cars-in-san-francisco-as-cities-nationwide-brace-for-unrest/"
-webUrl: "https://www.channel3000.com/waymo-pulls-self-driving-cars-in-san-francisco-as-cities-nationwide-brace-for-unrest/"
+excerpt: "Waymo moved its San Francisco vehicles to neighboring Mountain View Monday night out of an abundance of caution and with the safety of its team in mind, according to a spokeswoman."
+publishedDateTime: 2020-11-04T13:00:00Z
+originalUrl: "https://www.eastbaytimes.com/2020/11/04/waymo-pulls-self-driving-cars-in-san-francisco-as-cities-nationwide-brace-for-unrest/"
+webUrl: "https://www.eastbaytimes.com/2020/11/04/waymo-pulls-self-driving-cars-in-san-francisco-as-cities-nationwide-brace-for-unrest/"
+ampWebUrl: "https://www.eastbaytimes.com/2020/11/04/waymo-pulls-self-driving-cars-in-san-francisco-as-cities-nationwide-brace-for-unrest/amp/"
+cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2020/11/04/waymo-pulls-self-driving-cars-in-san-francisco-as-cities-nationwide-brace-for-unrest/amp/"
 type: article
-quality: 32
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Channel 3000
-  domain: channel3000.com
+  name: East Bay Times
+  domain: eastbaytimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.channel3000.com/content/uploads/2020/11/hypatia-h_bfe6eec850c45698ccc926b6623cac82-h_3f3331561d6fc6c4dc68055128326422-1024x683.jpg"
+  - url: "https://www.eastbaytimes.com/wp-content/uploads/2020/11/hypatia-h_bfe6eec850c45698ccc926b6623cac82-h_3f3331561d6fc6c4dc68055128326422-1.jpg?w=1024&h=683"
     width: 1024
     height: 683
     isCached: true
@@ -132,6 +134,6 @@ related:
         height: 250
         isCached: true
 
-secured: "N9t5lwzGRz5vedOww44TjpcPriDdE/QS55FNCmLxiPbgAn+F/duHGIeaPkva065Bf6PZIIIaf6TVYms9Ue8iAzoQl2upWbU+qsJPnThmg8f11JxGuh/aU7lAGgzE7h0A8TUpaRS1uFXf2nxIgXTPBFHuT/YfKj/TtlaS5cfvS8RrIlLsB06r034V9Dxd575FB3HGagq6zEY4UFh8kNOSS4E3v3g+o/n5ITYjF0/GmPaWpMStudOljKY3E0lfr+ne3TjOOR78kc6r4dEx2fmAygzXtLLL2xGGB44g+S3VqglGu3q8FgBv6mO5HmposAjiSFXfIkl9ALz1oib7OBTWkcYpzNGVOYUh0Y+muIKfZst1M/xlk6TpXsK8oDtzIJjtCxCfNqP3ZH7cCUJrotNgp8qOnDnDdpkipYo67t/tx1DjMxrHOXQwCepyxCQrfIeeb+7ltImzjKbCbVA7prVk1SoZXzy4vdTl0vMGSor0BzcQG9eTHvT/HRIzceYGQjiHG8FBjYpGjwoKSo+oXn+zSg==;1g5m2J/GNKg5QVl4tN60dg=="
+secured: "dUeGzhUbut+6UY56vEBpGCOONewORBlULoic7O9FwezlwMq6ncxDLmviayMtZUuRFujuXBLjwOw+Jyt+P4zZf3B1XMUS/NpbDGB/5Qe1Pw9YXKVed8LRSXW+/gCBOKBIfnOlmMXW3XWTIMTLSaU2cq8NiKSNj8HDa8goVEoLBPOCVBlEPnlOtjU+UZbTSHBQ8+SMp6OGVH2ZDh0ZaQb3vd4uffRj/Ri1LOyjrcqX4IDhNEbU2mDYKzlhTYyWVLzlOma5dnk5zIfI8AMNzjUyNwyh7DqmjmgX8OKo8tHU+BG+owHH54Xpe+W3E/6Ye2v5cdTsj2s+FoEEZlCPRKVVOi4UqDhzbk+bGEYspdaE/ys=;UVJivdvWyIuP69pW535LSg=="
 ---
 

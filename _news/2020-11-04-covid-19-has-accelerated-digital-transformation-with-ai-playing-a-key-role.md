@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/11/04/covid-19-has-
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/11/04/covid-19-has-accelerated-digital-transformation---with-ai-playing-a-key-role/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/04/covid-19-has-accelerated-digital-transformation---with-ai-playing-a-key-role/amp/"
 type: article
-quality: 84
+quality: 86
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3bdea7cf036822a957572d%2F0x0.jpg"
@@ -312,6 +313,6 @@ related:
       domain: ft.com
     quality: 17
 
-secured: "JxJYmlUTsoYas3Uim0+6z8XeIhiKZcuzkbsDGjmeFkru9u5RB7CJAkwzSR9EAG9d8QTqxhYsqXnZBbMcKJvHVsgKVhJjITwWk2VMTcTD03e7MJHisMUdhyvCqaSnp46mqp0ju+h3XdHdzwpiOIIUj/QfBv/hBT1AeNwmrEcNqH1EkolquAvHp4aETzQmK+yWAXWtyQxdbSVnctJNf1abt3PtnmEOJ7HeofkxN1MW+cxi2PUehUJ+5LsjQW8E32YqzBzWOlWFtm/Eab9jzq18dNtiBq6QPV1H9eYow/Ze9/+k6y9G9GdJraVp5uu2/WPpjB4ByxfdzN1iy/LB4cMiYjKf652ume/6xKRgg1/a4j4=;oJ3FH6IGlMsnQb1B1/kDQw=="
+secured: "0YkBx2RwXw5ape0QihVPIWS6ELb9+VDdmjqW2/RSMVToZw8VlgvQUnzvTy3jWX/iY7DSIFlOKKN31e6PixQrAqF6lV4WV2ZPg3XsqbD3+k0mWLCp8I+7IRqTZ2Kg9kQ2XrNJM72s3ciEDqd2gebbDtwg1BKXLxNS3GiwpsmWZ51r/t4Pj9jIT9cQ00B+PnyrSC5CxX4Re2Kx1ka7k1uuFecuwrgUnHszl2TI186kojKDGHEBdXyMvQCxuFtQDhDMYxM9LGOxE3/mVFH3S8TfzHoYcQafOOElRAozu0SAe9B1uYUWw2CdC28ohaouq6M27QPnJx+By+suTvqnSHsmqb2LupcEnM3SyIrR8VLwpROUYDPC6p0LHv8/3aKt5vam51lJIxI8eFhPSUvLFF0x6LiW0V5OiJQ+N9Fujbd5RvZbUgvYua6PehoGrYMD/oNbZE+uYFp3lnBNWjbtsjpZvFOAwEE5sVDc3oRjCEfqPKIFS61/03xwUoBs3G5yZStX0Vol8tPT3vd/tVh9r/AeqA==;P/u5siMMEVc1QCiFAjswTQ=="
 ---
 

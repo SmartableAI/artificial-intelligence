@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Artificial intelligence dives into thousands of WW2 photographs"
-excerpt: "Artificial Intelligence (AI ... and the researchers wanted to demonstrate the advantages of using modern neural networks to analyse images to such an extent that the machine could automatically detect people and objects in a variety of scenes and even ..."
-publishedDateTime: 2020-10-28T14:54:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-10/au-aid102820.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-10/au-aid102820.php"
+excerpt: "In a new international cross disciplinary study, researchers from Aarhus University, Denmark and Tampere University, Finland have used artificial intelligence to analyse large amounts of historical photos from WW2."
+publishedDateTime: 2020-10-28T14:59:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-10/au-aid102820.php?fbclid=IwAR3MCWLzjCs9JHAEmDaF9DnqsTkKAtWogCIb8HDnnagM3yh-s6EM1Ddh4Y8"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-10/au-aid102820.php?fbclid=IwAR3MCWLzjCs9JHAEmDaF9DnqsTkKAtWogCIb8HDnnagM3yh-s6EM1Ddh4Y8"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 976
     isCached: true
 
-secured: "roanWO6t6YpIaYXK8JaF8uvbvd9gae4FxXBj1+xgkOge4rRKcSzApgOwEQemgzKCkIGiR1ed55Zibu8qLlun1KmTdJRz2k2Axv7u5L2Tc9/DRbJFikN82tnw34GnoDFCQrzECCJuQ0Xbd8xyzaSJjGYci1hKAsm7TUEJGVtoxl3l5YIeg+dvXCVLcqtrx4Jxr0WoPVtwRFkoP7so3B/+zRL6CwFAmtI4Sr4PZ6x1eF+jvAy6eBbFJSLVWHVYGYogdiT4XhVnc9bmMm1xTwQmeMXg52lVRgi8f+gWX0u0Un1pbhzzNv9E6iPzc1f+tWFXYXiy109Um0mkzbYiSYWvImFe68gYWJagW+s2auYIUosun7bEB75OzCgeqPAao3VmQHF0gYhdFgOKVHF5nUL6nPXlHSyLDTgZP66qe2R7ZCTvhqPtBgpkIu9tQC+tGCOQnFkwdJb9kpLfdgMsvR34/YMkWKjJREbDRWgXNLQqoNRo7ato396oxRaOhVt0VEkSKHCSW3reKaz4CSSTVcbBxw==;TLj6gWFbMuZYi7icFtKh9A=="
+secured: "9ZirLlScGuuKO6x0pTTDoI7HeXD3nihekaAb0udy3HvqGekjf2XuHh0pblr65RkyxoUTVNNyAqePg759ai+U9xz5uPVXgXA45wIs127eyPt2Wf2Ql6g7NSatxr12XwH21HsvjnY0JnB4Y9+uZfXdFGyWEHhy+CrGXXt7w7FwRVUOal5OibGqa6/R5QLJ+pq2GxM27x0KzglCVLTVy7O1j9Jupc15zvj3qf/WNccqKJrYzWg33OkJU9Md8v4oCBHTWjewyFwcCTvsqhebUPEONy+gNFn4Ma1tx/M17bzkdBCzRK4klCrxw2k+g03b8R380j6oiNNdRAdCS5PQP61k1vZ1TD0399+3WRN0vLLrJn8=;nmvkZxKOKXWsiNYw895XhA=="
 ---
 

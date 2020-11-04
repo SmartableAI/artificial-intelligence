@@ -9,8 +9,8 @@ ampWebUrl: "https://gizmodo.com/tesla-hikes-up-the-price-of-full-self-driving-op
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tesla-hikes-up-the-price-of-full-self-driving-option-to-1845535197/amp"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 219
+published: true
 
 provider:
   name: Gizmodo
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Want 'Full Self Driving' Mode on Your Tesla? Get Ready to Fork Over $10,000"
-    excerpt: "The price hike was expected now that the Full Self Driving (FSD) capability is in beta. It's likely to increase more as the feature improves, so Tesla is hoping buyers will take advantage of it now."
-    publishedDateTime: 2020-10-30T21:22:00Z
-    webUrl: "https://www.pcmag.com/news/want-full-self-driving-mode-on-your-tesla-get-ready-to-fork-over-10000"
-    ampWebUrl: "https://www.pcmag.com/news/want-full-self-driving-mode-on-your-tesla-get-ready-to-fork-over-10000?amp=true"
-    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/want-full-self-driving-mode-on-your-tesla-get-ready-to-fork-over-10000?amp=true"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 102
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/02kdtIiBEkRPNAkOLHK6m0v-1.1604092224.fit_lim.size_1200x630.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Tesla Full Self-Driving feature now costs $10,000"
     excerpt: "Tesla's long-promised Full Self-Driving mode reached its first customers in beta form a week and a half ago and we've already received a look at how the system operates on local roads, thanks to people on social media. Some report flawless activity ..."
     publishedDateTime: 2020-11-02T16:58:00Z
@@ -62,22 +46,6 @@ related:
       - url: "https://cnet2.cbsistatic.com/img/nMvuev24_7LHftSxIEiOh_ZvANo=/2020/10/22/5c6fc05c-509c-4f29-a9bd-4cad1b4aded2/ogi-autopilot.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Tesla is going to expand Full Self-Driving to Canada and Norway next"
-    excerpt: "Elon Musk confirmed that Tesla is going to expand its Full Self-Driving beta software to Canada and Norway. As we have been reporting extensively over the last few weeks, Tesla has started pushing an early beta (alpha really) of its “Full Self-Driving” software."
-    publishedDateTime: 2020-11-02T23:33:00Z
-    webUrl: "https://electrek.co/2020/11/02/tesla-expand-full-self-driving-canada-norway-next/"
-    ampWebUrl: "https://electrek.co/2020/11/02/tesla-expand-full-self-driving-canada-norway-next/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/02/tesla-expand-full-self-driving-canada-norway-next/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 89
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-FSD-update.jpg?quality=82&strip=all"
-        width: 2774
-        height: 1122
         isCached: true
   - title: "Tesla's updated Full Self-Driving beta needs fewer human interventions"
     excerpt: "Driving beta is already making some significant (and arguably needed) strides forward. Electrek says the automaker has rolled out an update that, according to Elon Musk, should reduce the need for human intervention by about a third."
@@ -95,21 +63,21 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "Tesla Full Self-Driving Beta appears to detect and avoid road debris in video"
-    excerpt: "Driving Beta has impressed with its capacity to navigate city streets and it now looks like it can also detect and avoid road debris, according to a new video. Like Tesla Autopilot, the automaker’s new Full Self-Driving Beta requires driver attention at all times since it can encounter things that it doesn’t know"
-    publishedDateTime: 2020-11-04T11:24:00Z
-    webUrl: "https://electrek.co/2020/11/04/tesla-full-self-driving-beta-detect-avoid-road-debris-video/"
-    ampWebUrl: "https://electrek.co/2020/11/04/tesla-full-self-driving-beta-detect-avoid-road-debris-video/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/04/tesla-full-self-driving-beta-detect-avoid-road-debris-video/amp/"
+  - title: "Tesla pushes new Full Self-Driving Beta update, Elon Musk says could slash interventions by a third"
+    excerpt: "Tesla has started pushing a new software update under its Full Self-Driving Beta program and CEO Elon Musk says it could already cut driver interventions by a third. It has been less than two ..."
+    publishedDateTime: 2020-10-31T16:56:00Z
+    webUrl: "https://electrek.co/2020/10/31/tesla-new-full-self-driving-beta-update-elon-musk-slashes-interventions/"
+    ampWebUrl: "https://electrek.co/2020/10/31/tesla-new-full-self-driving-beta-update-elon-musk-slashes-interventions/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/31/tesla-new-full-self-driving-beta-update-elon-musk-slashes-interventions/amp/"
     type: article
     provider:
       name: Electrek
       domain: electrek.co
-    quality: 86
+    quality: 75
     images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/11/Tesla-full-self-driving-road-debris.jpg?quality=82&strip=all"
-        width: 3584
-        height: 1832
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-FSD-update.jpg?quality=82&strip=all"
+        width: 2774
+        height: 1122
         isCached: true
   - title: "Elon Musk Raises Price of Tesla's Full Self-Driving Package to $10,000 USD"
     excerpt: "Following through with what Elon Musk has said before, the CEO of Tesla has now announced a price hike for the EV automaker’s Full Self-Driving (FSD) package, bringing it up by $2,000 USD to $10,000 USD."
@@ -154,6 +122,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Musk Says Canada And Norway Are Next To Get Tesla Full Self-Driving Beta"
+    excerpt: "FSD will be rolled out in the two countries after the necessary approvals are given, possibly in February or March."
+    publishedDateTime: 2020-11-03T19:58:00Z
+    webUrl: "https://insideevs.com/news/452324/canada-norway-next-to-get-tesla-fsd/"
+    ampWebUrl: "https://insideevs.com/news/452324/canada-norway-next-to-get-tesla-fsd/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/452324/canada-norway-next-to-get-tesla-fsd/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 58
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/nYB8R/s1/fsd.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Tesla Hikes Up the Price of ‘Full Self-Driving’ Option to $US10,000 ($14,241)"
     excerpt: "While the tech powering it is no doubt impressive, to call it “full self-driving” isn’t entirely accurate. Tesla warns users of its beta program that the software still requires vigilant monitoring and that “it may do the wrong thing at the worse ..."
     publishedDateTime: 2020-10-31T01:18:00Z
@@ -183,6 +167,20 @@ related:
       - url: "https://images.weserv.nl/?url=https://cnet2.cbsistatic.com/img/gUlN4T2SkhI7wAyYiUD5m-OfCDc=/300x0/2020/10/22/613c9fca-4810-4f51-8a0f-4e212fb6da48/tesla-autopilot.jpg&h=250"
         width: 375
         height: 250
+        isCached: true
+  - title: "This electric, self-driving, smart ferry is the Tesla of public transport boats!"
+    excerpt: "Zeabuz, a Norwegian company, has stepped up to the need of the hour and will be launching a self-driving ferry next year! The ferry will carry 12 passengers and will operate like an elevator where all you have to do is press a button to summon it."
+    publishedDateTime: 2020-10-31T23:30:00Z
+    webUrl: "https://www.yankodesign.com/2020/10/31/this-electric-self-driving-smart-ferry-is-the-tesla-of-public-transport-boats/"
+    type: article
+    provider:
+      name: Yanko Design
+      domain: yankodesign.com
+    quality: 34
+    images:
+      - url: "https://www.yankodesign.com/images/design_news/2020/10/RGKitPlay_a_motion_control_kit-510x314.jpg"
+        width: 510
+        height: 314
         isCached: true
   - title: "Tesla hikes price of 'Full Self-Driving' option to $10,000"
     excerpt: "Soon after the launch of the 'Full Self Driving (FSD) set of features to a limited number of expert and careful drivers, the electric car maker Tesla has increased the price of the new option to $10,000 from $8,000. The price of the 'Full Self-Driving ..."

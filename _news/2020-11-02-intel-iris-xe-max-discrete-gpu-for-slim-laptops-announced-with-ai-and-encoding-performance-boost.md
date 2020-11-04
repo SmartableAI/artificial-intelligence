@@ -197,6 +197,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Intel enters the laptop discrete GPU market with Xe Max"
+    excerpt: "Intel released preliminary information on its newest laptop part—the Xe Max discrete GPU, which functions alongside and in tandem with"
+    publishedDateTime: 2020-11-04T13:00:00Z
+    webUrl: "https://arstechnica.com/gadgets/2020/11/intel-enters-the-laptop-discrete-gpu-market-with-xe-max/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/11/DG1-chip-4-760x380.png"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Intel’s Iris Xe MAX GPUs bring the fight to Nvidia and AMD in notebooks"
     excerpt: "Back to the Intel Iris Xe MAX graphics. Intel claims that 11th Gen Intel Core mobile processors paired with the GPUs can improve AI-based creation with Additive AI by as much as seven times compared to “other laptops”. Video encoding is rather ..."
     publishedDateTime: 2020-11-02T07:01:00Z

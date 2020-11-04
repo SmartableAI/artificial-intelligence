@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-10-24-stethoscopes-electronics-and-artificial-intelligence.md",
-      "title": "Stethoscopes, Electronics, And Artificial Intelligence",
-      "excerpt": "What’s more, since the Hopkins smart stethoscope is a digital instrument, it can serve as input for an artificial intelligence application that automatically analyzes the data for signs of ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2019/02/25/stethoscopes-electronics-and-artificial-intelligence/",
-      "originalUrl": "https://hackaday.com/2019/02/25/stethoscopes-electronics-and-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/02/smart-stethoscopes-featured.jpg",
-          "width": 4350,
-          "height": 2900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-24-teslas-full-self-driving-is-999-there-just-1000-times-further-to-go.md",
       "title": "Tesla’s ‘Full Self-Driving’ Is 99.9% There, Just 1,000 Times Further To Go",
       "excerpt": "This week, Tesla TSLA released a very limited beta of what Elon Musk has referred to as “feature complete full self-driving” to a chosen subset of their early access customers. It also announced a $2,000 increase in the price of the “FSD in the ...",
@@ -676,40 +633,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-21-intuit-appoints-tekedra-mawakana-waymos-chief-operating-officer-to-board-of-directors.md",
-      "title": "Intuit Appoints Tekedra Mawakana, Waymo's Chief Operating Officer, to Board of Directors",
-      "excerpt": "Mawakana is the COO of Waymo LLC, a subsidiary of Alphabet ... policy related to commerce and advanced applications of artificial intelligence and machine learning. “Tekedra has a deep ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/intuit-appoints-tekedra-mawakana-waymos-chief-operating-officer-to-board-of-directors",
-      "originalUrl": "https://www.nasdaq.com/press-release/intuit-appoints-tekedra-mawakana-waymos-chief-operating-officer-to-board-of-directors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-20T14:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-21-ford-escape-hybrid-becomes-companys-latest-self-driving-car-prototype.md",
       "title": "Ford Escape Hybrid becomes company's latest self-driving car prototype",
       "excerpt": "The Escape Hybrid will also serve Ford's future autonomous ride-hailing service. Feast your eyes on Ford's latest self-driving car prototype. If it looks a lot like a Ford Escape Hybrid, well, that's because it is.",
@@ -749,6 +672,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-intuit-appoints-tekedra-mawakana-waymos-chief-operating-officer-to-board-of-directors.md",
+      "title": "Intuit Appoints Tekedra Mawakana, Waymo's Chief Operating Officer, to Board of Directors",
+      "excerpt": "Intuit Inc. (NASDAQ:INTU) today announced it has appointed Tekedra Mawakana to its board of directors. Mawakana is the COO of Waymo LLC, a subsidiary",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201020005884/en/Intuit-Appoints-Tekedra-Mawakana-Waymos-Chief-Operating-Officer-to-Board-of-Directors",
+      "originalUrl": "https://www.businesswire.com/news/home/20201020005884/en/Intuit-Appoints-Tekedra-Mawakana-Waymos-Chief-Operating-Officer-to-Board-of-Directors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201020005884/en/775388/23/Ecosystem-Lockup-2Line-FullColor-2019-PMS_%282%29.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-20T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1396,6 +1362,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-gm-will-test-fully-driverless-cars-in-sf-later-this-year.md",
+      "title": "GM will test fully driverless cars in SF later this year",
+      "excerpt": "The company’s Cruise unit received the necessary permit from California’s DMV. General Motors and its self-driving car unit Cruise say they’ll start testing unmanned autonomous vehicles in San Francisco by the end of 2020 (via NBC News). On Thursday ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/cruise-testing-san-francisco-214222312.html",
+      "originalUrl": "https://www.engadget.com/cruise-testing-san-francisco-214222312.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fbebd6400-0f2d-11eb-9bfe-e67a76f4a357&client=amp-blogside-v2&signature=4908a2fba8142ca66578860cd136007606108c87",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/cruise-testing-san-francisco-214222312.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/cruise-testing-san-francisco-214222312.html",
+      "publishedDateTime": "2020-10-15T14:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

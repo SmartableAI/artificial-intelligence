@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-10-07-halloween-trick-or-treating-in-an-era-of-self-driving-cars.md",
-      "title": "Halloween Trick-Or-Treating In An Era Of Self-Driving Cars",
-      "excerpt": "Halloween in an era of self-driving cars. getty. Halloween is almost here! Even if this year’s celebrations might be somewhat less extravagant and require added care and precaut",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/07/halloween-trick-or-treating-in-an-era-of-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/07/halloween-trick-or-treating-in-an-era-of-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7d052055c26817fc4463ad%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4164%26cropY1%3D14%26cropY2%3D2789",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/07/halloween-trick-or-treating-in-an-era-of-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/07/halloween-trick-or-treating-in-an-era-of-self-driving-cars/amp/",
-      "publishedDateTime": "2020-10-07T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-07-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
       "excerpt": "Artificial intelligence (AI) involves using computers ... deploying AI brains into the Waymo self-driving car business, and applying these technologies to medical research and weather forecasting.",
@@ -1412,6 +1360,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-robust-autonomous-navigation-based-on-artificial-intelligence-approaches-phd.md",
+      "title": "Robust Autonomous Navigation Based on Artificial Intelligence Approaches PhD",
+      "excerpt": "This is an excellent fully-funded PhD opportunity in the area of autonomy, navigation, and artificial intelligence, aiming to pave a way to wider implementation of autonomous systems, such as drones or self-driving cars into our everyday life. Although ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.suasnews.com/2020/09/robust-autonomous-navigation-based-on-artificial-intelligence-approaches-phd/",
+      "originalUrl": "https://www.suasnews.com/2020/09/robust-autonomous-navigation-based-on-artificial-intelligence-approaches-phd/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/www.suasnews.com/wp-content/uploads/2019/07/201907CASCADE-June-testingplanes800x450.jpg?fit=800%2C450&ssl=1",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.suasnews.com/2020/09/robust-autonomous-navigation-based-on-artificial-intelligence-approaches-phd/amp/",
+      "cdnAmpWebUrl": "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2020/09/robust-autonomous-navigation-based-on-artificial-intelligence-approaches-phd/amp/",
+      "publishedDateTime": "2020-09-24T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SUAS News",
+        "domain": "suasnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

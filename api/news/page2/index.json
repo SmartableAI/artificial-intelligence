@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-03-hrtech-startup-leena-ai-bags-8-mn-from-greycroft-others.md",
+      "title": "HRTech Startup Leena AI Bags $8 Mn From Greycroft, Others",
+      "excerpt": "Gurugram-based HRtech startup Leena AI, on Tuesday (November 3), announced that it has raised $8 Mn in Series A funding round led by Greycroft",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/hrtech-startup-leena-ai-bags-8-mn-from-greycroft-others/",
+      "originalUrl": "https://inc42.com/buzz/hrtech-startup-leena-ai-bags-8-mn-from-greycroft-others/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2020/11/Social-2020-11-03T141344.695.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/hrtech-startup-leena-ai-bags-8-mn-from-greycroft-others/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/hrtech-startup-leena-ai-bags-8-mn-from-greycroft-others/amp/",
+      "publishedDateTime": "2020-11-03T00:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-security-tradeoffs-in-chips-and-ai-systems.md",
       "title": "Security Tradeoffs In Chips And AI Systems",
       "excerpt": "How security affects power and performance, why AI systems are so difficult to secure, and why privacy is a growing consideration.",
@@ -54,7 +96,7 @@
       "originalUrl": "https://www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -187,8 +229,8 @@
       "title": "Amazon EC2 P4d instances for pushing machine learning boundaries now available",
       "excerpt": "Amazon Web Services (AWS) has announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) P4d instances with EC2 UltraClusters capability. The cloud giant has touted the offering as the next generation of GPU-powered instances for providing the best performance in machine learning training and high-performance computing (HPC) in the cloud.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
+      "webUrl": "https://www.zdnet.com/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
+      "originalUrl": "https://www.zdnet.com/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
       "featuredContent": null,
       "highlight": null,
       "heat": 92,
@@ -196,8 +238,8 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
       "publishedDateTime": "2020-11-02T16:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -221,9 +263,60 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "Machine Learning",
         "AI",
-        "Machine Learning"
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-walmart-scraps-plan-to-have-robots-scan-shelves.md",
+      "title": "Walmart Scraps Plan to Have Robots Scan Shelves",
+      "excerpt": "The retail giant is ending its push to have machines developed by Bossa Nova Robotics rove stores to keep track of inventory, after discovering during the coronavirus pandemic that humans can help get similar results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/walmart-shelves-plan-to-have-robots-scan-shelves-11604345341",
+      "originalUrl": "https://www.wsj.com/articles/walmart-shelves-plan-to-have-robots-scan-shelves-11604345341",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 222,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-253418/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/walmart-shelves-plan-to-have-robots-scan-shelves-11604345341",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/walmart-shelves-plan-to-have-robots-scan-shelves-11604345341",
+      "publishedDateTime": "2020-11-02T16:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -287,7 +380,7 @@
       "originalUrl": "https://venturebeat.com/2020/11/02/alphabets-project-amber-leverages-ai-to-identify-brain-wave-data-relevant-to-anxiety-and-depression/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -326,7 +419,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Google AI"
       ]
     },
     {
@@ -708,7 +802,7 @@
       "originalUrl": "https://techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -1086,111 +1180,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-ambarella-launches-computer-vision-chips-for-edge-ai.md",
-      "title": "Ambarella launches computer vision chips for edge AI",
-      "excerpt": "Chip designer Ambarella has announced a new computer vision chip for artificial intelligence at the edge of a computer network.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/02/ambarella-launches-computer-vision-chips-for-edge-ai/",
-      "originalUrl": "https://venturebeat.com/2020/11/02/ambarella-launches-computer-vision-chips-for-edge-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/ambarella-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 621,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/02/ambarella-launches-computer-vision-chips-for-edge-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/02/ambarella-launches-computer-vision-chips-for-edge-ai/amp/",
-      "publishedDateTime": "2020-11-02T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-halodoc-uses-ai-to-improve-how-doctors-receive-feedback.md",
-      "title": "Halodoc uses AI to improve how doctors receive feedback",
-      "excerpt": "Due to Indonesia’s vast size and population, timely and reliable access to healthcare can sometimes be a challenge. Halodoc aims to change that with a mobile first-telemedicine platform that connects Indonesians to doctors and helps them arrange appointments, medicine deliveries and tests. What’s distinctive",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/around-the-globe/google-asia/halodoc-uses-ai-improve-how-doctors-receive-feedback/",
-      "originalUrl": "https://blog.google/around-the-globe/google-asia/halodoc-uses-ai-improve-how-doctors-receive-feedback/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
-          "width": 1000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/around-the-globe/google-asia/halodoc-uses-ai-improve-how-doctors-receive-feedback/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-asia/halodoc-uses-ai-improve-how-doctors-receive-feedback/amp/",
-      "publishedDateTime": "2020-11-02T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

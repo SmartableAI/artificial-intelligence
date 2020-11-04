@@ -2,6 +2,110 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-29-deep-learning-market-2020-global-report-explores-covid-19-impact-trend-segmentation-and-opportunities-forecast-to-2026.md",
+      "title": "Deep Learning Market 2020 Global report explores COVID-19 impact, trend, segmentation and opportunities, forecast to 2026",
+      "excerpt": "Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2020-global-report-explores-covid-19-impact-trend-segmentation-and-opportunities-forecast-to-2026-2020-10-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2020-global-report-explores-covid-19-impact-trend-segmentation-and-opportunities-forecast-to-2026-2020-10-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T20:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-emerging-technologies-that-will-advance-the-retail-industry.md",
+      "title": "Emerging technologies that will advance the retail industry",
+      "excerpt": "Services include natural language processing (NLP), sentiment analysis, image recognition and autoML model creation. Companies that began their digital transformations early in the pandemic are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/in/news/emerging-technologies-that-will-advance-the-retail-industry",
+      "originalUrl": "https://www.techradar.com/in/news/emerging-technologies-that-will-advance-the-retail-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-1200-80.jpg",
+          "width": 970,
+          "height": 646,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/emerging-technologies-that-will-advance-the-retail-industry",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/emerging-technologies-that-will-advance-the-retail-industry",
+      "publishedDateTime": "2020-10-28T20:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-artificial-intelligence-market-will-reflect-significant-growth-prospects-during-2019-2025.md",
       "title": "Artificial Intelligence Market Will Reflect Significant Growth Prospects during 2019-2025",
       "excerpt": "The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations in the growth of the industry in certain regions. The developments of a lot of human-like robots and increase within their preparation rate in the developing regions have had a considerable impact on the overall computing (AI) market.",
@@ -893,10 +997,10 @@
     {
       "path": "_news/2020-10-28-artificial-intelligence-dives-into-thousands-of-ww2-photographs.md",
       "title": "Artificial intelligence dives into thousands of WW2 photographs",
-      "excerpt": "Artificial Intelligence (AI ... and the researchers wanted to demonstrate the advantages of using modern neural networks to analyse images to such an extent that the machine could automatically detect people and objects in a variety of scenes and even ...",
+      "excerpt": "In a new international cross disciplinary study, researchers from Aarhus University, Denmark and Tampere University, Finland have used artificial intelligence to analyse large amounts of historical photos from WW2.",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-10/au-aid102820.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-10/au-aid102820.php",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-10/au-aid102820.php?fbclid=IwAR3MCWLzjCs9JHAEmDaF9DnqsTkKAtWogCIb8HDnnagM3yh-s6EM1Ddh4Y8",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-10/au-aid102820.php?fbclid=IwAR3MCWLzjCs9JHAEmDaF9DnqsTkKAtWogCIb8HDnnagM3yh-s6EM1Ddh4Y8",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -915,7 +1019,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T07:54:00-07:00",
+      "publishedDateTime": "2020-10-28T07:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "EurekAlert!",
@@ -971,19 +1075,19 @@
     {
       "path": "_news/2020-10-28-ibm-study-ai-driven-virtual-agents-can-drive-customer-satisfaction-and-cost-savings-amid-covid-19.md",
       "title": "IBM Study: AI-driven Virtual Agents Can Drive Customer Satisfaction and Cost Savings Amid COVID-19",
-      "excerpt": "The research showed organizations that are early adopters of AI and cloud technology are reaping ... USD 5.50 per contained conversation using IBM Watson Assistant. The IBM Institute for Business ...",
+      "excerpt": "As many organizations across the world look to digital tools to help address surges in customer inquiries due to the COVID-19 pandemic, a new IBM study revealed 99% of respondents report an increase in customer satisfaction as a result of using AI-driven virtual agent technology.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-study-ai-driven-virtual-agents-can-drive-customer-satisfaction-and-cost-savings-amid-covid-19-1029735274",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-study-ai-driven-virtual-agents-can-drive-customer-satisfaction-and-cost-savings-amid-covid-19-1029735274",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-virus-outbreak-lung-disease-health-diseases-and-conditions-8d2b93a339b25c986b3c3dd0262b9e5d/gallery/140d2107145ac6b5139433ecb79ed8c0",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-virus-outbreak-lung-disease-health-diseases-and-conditions-8d2b93a339b25c986b3c3dd0262b9e5d/gallery/140d2107145ac6b5139433ecb79ed8c0",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1322193/IBM_AI_Study.jpg",
-          "width": 400,
-          "height": 225,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -993,21 +1097,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T07:42:00-07:00",
+      "publishedDateTime": "2020-10-28T07:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1071,92 +1166,6 @@
         "AI in Robotics",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-bristol-myers-turns-to-machine-learning-startup-to-solve-als.md",
-      "title": "Bristol Myers Turns to Machine Learning Startup to Solve ALS",
-      "excerpt": "Bristol Myers Squibb Co. is teaming up with machine-learning startup Insitro in a novel $70 million deal to find new drugs for amyotrophic lateral sclerosis, the deadly illness also known as Lou Gehrig’s disease. The five-year deal, which includes a $50 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-28/bristol-myers-turns-to-machine-learning-startup-to-solve-als",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-28/bristol-myers-turns-to-machine-learning-startup-to-solve-als",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-28/bristol-myers-turns-to-machine-learning-startup-to-solve-als",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-28/bristol-myers-turns-to-machine-learning-startup-to-solve-als",
-      "publishedDateTime": "2020-10-28T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-machine-learning-helps-pinpoint-sources-of-the-most-common-cardiac-arrhythmia.md",
-      "title": "Machine learning helps pinpoint sources of the most common cardiac arrhythmia",
-      "excerpt": "Researchers from Skoltech and their US colleagues have designed a new machine learning-based approach for detecting atrial fibrillation drivers, small patches of the heart muscle that are",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/machine-learning-helps-pinpoint-sources-of-the-most-common-cardiac-arrhythmia/",
-      "originalUrl": "https://indiaeducationdiary.in/machine-learning-helps-pinpoint-sources-of-the-most-common-cardiac-arrhythmia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/10/photo-2.jpg?fit=734%2C549&ssl=1",
-          "width": 734,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/machine-learning-helps-pinpoint-sources-of-the-most-common-cardiac-arrhythmia/?amp",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/machine-learning-helps-pinpoint-sources-of-the-most-common-cardiac-arrhythmia/?amp",
-      "publishedDateTime": "2020-10-28T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],
