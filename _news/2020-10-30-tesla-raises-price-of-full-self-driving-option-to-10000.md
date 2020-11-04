@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/10/30/21541571/tesla-full
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/30/21541571/tesla-full-self-driving-price-increase-10000-dollars-autopilot-beta"
 type: article
 quality: 104
-heat: 394
+heat: 384
 published: true
 
 provider:
@@ -236,22 +236,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9e1ae8b307dfb172a46190%2F0x0.jpg"
         width: 1199
         height: 798
-        isCached: true
-  - title: "Watch this self-driving race car hilariously smash into a wall"
-    excerpt: "Autonomous cars are the future, apparently. Watch this self-driving car race series and decide for yourself how far along the tech is."
-    publishedDateTime: 2020-10-30T09:10:00Z
-    webUrl: "https://thenextweb.com/shift/2020/10/30/watch-this-self-driving-race-car-hilariously-smash-into-a-wall/"
-    ampWebUrl: "https://thenextweb.com/shift/2020/10/30/watch-this-self-driving-race-car-hilariously-smash-into-a-wall/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/10/30/watch-this-self-driving-race-car-hilariously-smash-into-a-wall/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 74
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/crash-acronis-autonomous-car-ev-future-track-grassi-roborace-devbot-796x447.png"
-        width: 796
-        height: 447
         isCached: true
   - title: "Elon Musk Raises Price of Tesla's Full Self-Driving Package to $10,000 USD"
     excerpt: "Following through with what Elon Musk has said before, the CEO of Tesla has now announced a price hike for the EV automaker’s Full Self-Driving (FSD) package, bringing it up by $2,000 USD to $10,000 USD."

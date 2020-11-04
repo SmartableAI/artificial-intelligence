@@ -9,8 +9,8 @@ ampWebUrl: "https://m.timesofindia.com/city/noida/face-recognition-pollution-ale
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/amp_articleshow/79008997.cms"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: India Times
@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Speech and Voice Recognition Technologies Market Size, Share, Demand And Remarkable Growth Rate Till 2026 | Zion Market Research"
-    excerpt: "The Zion Market Research added a new report “Speech and Voice Recognition Technologies Market by Technology (Speaker Identification, Speaker Verification, Speech Recognition, Automatic Speech Recognition, Text to Speech, and Others), by Application ..."
-    publishedDateTime: 2020-10-30T10:00:00Z
-    webUrl: "https://www.openpr.com/news/2177025/global-speech-and-voice-recognition-technologies-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2177025/global-speech-and-voice-recognition-technologies-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2177025/global-speech-and-voice-recognition-technologies-market-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "tqzGaG0eEin9sVRin4KiQkckgzhRPBU1Wz9XE317lRRZjuJGWtJSkanUn792fmsi/zMePF3Vkew7yo9bi98ZCQ0shxrKAIXNtiCHt6hRv/dL2d7KHYQQkpJ1ApJk3kRelAvnq7rqlYEOJCDSPf0FJ3TFNcycF0DtSYWseAxRiylfO+oxabRnmFIBcUYt3SZxLjELhg5qEe9+RyKcM/NJR74k5+gG6qSvVcLNS/K8XBpFN9+cpqO8/GKrLfoL5eoKNs4V2xasRrYQdX7pXGuZ+XGEty0bWnrWmqfUhSpaJ3BrIoKT9l2tf0jQPTYzustuRVirHFLxnz3JnZibk1QGDHURgsGFkagutfK/HJ978G+LRbdpGegAlwiF1WDNzUZWipOl5tUOWjHwhDWxKLpB2BmEsZyRd+DLT69PueUlBlnRtrpWtyKuwnnQonsxrBR+mdU1usgRU8noTiwy9tQOlyNnErSVSFo3uyILvoQHyQz45bzYfa9cCEpCZm7yWiH/qKnRwbcIVCQtwcK8IoRIww==;A2Hsu4CknPXMcui+sF/2RA=="
 ---

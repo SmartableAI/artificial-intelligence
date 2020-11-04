@@ -105,18 +105,32 @@ related:
         height: 275
         isCached: true
   - title: "Waymo pulls self-driving cars in San Francisco as cities nationwide brace for unrest"
-    excerpt: "Waymo, the self-driving company of Google’s parent company Alphabet, has suspended its self-driving operations in San Francisco as businesses and cities brace for potential unrest following the presidential election."
-    publishedDateTime: 2020-11-04T00:52:00Z
-    webUrl: "https://keyt.com/news/money-and-business/2020/11/03/waymo-pulls-self-driving-cars-in-san-francisco-as-cities-nationwide-brace-for-unrest/"
+    excerpt: "Waymo, the self-driving company of Google's parent company Alphabet, has suspended its self-driving operations in San Francisco as businesses and cities brace for potential unrest following the presidential election."
+    publishedDateTime: 2020-11-03T20:53:00Z
+    webUrl: "https://www.kctv5.com/waymo-pulls-self-driving-cars-in-san-francisco-as-cities-nationwide-brace-for-unrest/article_b03cae60-5289-57e5-84d9-f4a6c5a8c497.html"
     type: article
     provider:
-      name: KEYT
-      domain: keyt.com
+      name: KCTV News
+      domain: kctv5.com
     quality: 32
     images:
-      - url: "https://keyt.b-cdn.net/2020/03/keyt-biz-and-tech.png"
-        width: 1024
-        height: 576
+      - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/custom/image/fd7ea874-0ed9-11eb-b9d4-0ff2ed620326.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Waymo pauses self-driving car operations in San Francisco in case of election unrest - CNET"
+    excerpt: "Bike and scooter rental companies are also prepping for uncertainty after a contentious contest."
+    publishedDateTime: 2020-11-04T02:06:00Z
+    webUrl: "https://www.newsoneplace.com/35932251911/cnet-waymo-san"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 29
+    images:
+      - url: "https://images.weserv.nl/?url=https://cnet4.cbsistatic.com/img/35ULADrDXvnHuoetIbD6B3q8-aU=/300x0/2020/05/08/21d20d2d-d573-4d40-99de-b4d1597a9a4f/waymo.jpg&h=250"
+        width: 375
+        height: 250
         isCached: true
 
 secured: "9wtsxqUMEs+iBmM7SBp3o0er/nNzlAYhdIyevdxbnCZHqihef+otr215IYyQM9xm0k3yezm9aOmE7F0Gu+O2q77tZCWE7VLXNHODNqtgbOjDh/+b1nXGOBtk0n9QFUu5DbHKTngScyWwymNN9W6Qc6mxUt6wl0QC4VrG/h8Fd8BXyIqGxnBEV5QLjXamDzxNQ2TOFXGrO4qvUnLeCCaM1/vUY9b0e4SgVuog5rOVt5KqSyGqI72pMX/Kt1CE2yd9xap8s7ycMAzcWCxc9I44eHcv4CN8ucOMCHJ4D3vyvr/5HDDVpty1q+hGLFwYa5QuXs2FtUYP3SiIp5ivNh9/Z3WLGNQvd64YOo9gVXjDlGoGPhLWwR6OWdY51dKHh2WhUsinA33HQDgRZXbT9qvrW2UogA2Rqc++Kxmn7liigV0FM0eK0jbKBYQiNmQWmTxI9zn4pm8nQhKbp5SFX54ujjBzHEyivO6YC3YVXta55qIaF6//FY9mpIntDZ71FwGC/KD2dLYkmctEKcmqjbw2Jw==;igCpVpRFZdRNSzbnnOnrpw=="

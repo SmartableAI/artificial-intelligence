@@ -29,7 +29,7 @@ related:
   - title: "University of Minnesota Duluth's frontline workers in the making: robots"
     excerpt: "A UMD professor and her students are in the process of programming \"COVID gossip bots\" to socialize with and monitor isolated residents of assisted living facilities."
     publishedDateTime: 2020-11-03T21:34:00Z
-    webUrl: "https://www.postbulletin.com/news/education/6731443-University-of-Minnesota-Duluths-frontline-workers-in-the-making-robots"
+    webUrl: "https://www.postbulletin.com/business/technology/6744024-University-of-Minnesota-Duluths-frontline-workers-in-the-making-robots"
     type: article
     provider:
       name: Post-Bulletin

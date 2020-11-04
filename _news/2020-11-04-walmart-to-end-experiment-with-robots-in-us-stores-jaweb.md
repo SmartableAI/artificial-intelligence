@@ -43,6 +43,20 @@ related:
         width: 1280
         height: 786
         isCached: true
+  - title: "Walmart To End Experiment With Robots In US Stores"
+    excerpt: "Walmart has pulled the plug on a program to use robots to scan items in stores and help maintain inventory, a company spokeswoman said Tuesday. The retail giant had worked with Bossa Nova Robotics for five years employing elongated robots that take readings on inventory and utilize artificial intelligence to predict product movement and inventory needs."
+    publishedDateTime: 2020-11-03T16:18:00Z
+    webUrl: "https://www.ibtimes.com/walmart-end-experiment-robots-us-stores-3075734"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 39
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/03/walmart-ended-an-experiment-to-have-robots-scan.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "nPxC/YDDIr3JQs+HeCzpOHdsnMGjSHixbKE9nyTPxMU8lC7EOOa5TXmzm5ZaFCSdoBIZ3djC3rKFlmoPs+GYwPbsKUUuBicjLMBKWgku7gf2axpa5RDWYSfochTckeddyxHeeXGYaKU+78NCK6bqoJ9nvKZw+ZER3ib6PaDkYc0r9pwgq8hD8EQtsAySFH1Tf6Tfmr2rWAGX+Lfbltba9oLsUL3Jtd5zrSTMUKfySbIrqDHIPY/crFZ5Tx7QQvpXWkxPr/OIBZ5Rjv/oEDuFFU4Q5ov3vOPMUHZ9YNv40azO08LpAftjrCBzqfN9MZ6OhtM2b6EJIk/fACWkbk1/JlCympvxLEFkRg2cOvnA5n846u5V6IKCUArWRi4d7jvbELb4j/VKS3k8er5+EseHpzX9rmJBMo5ilo+lLji9M+Iyo2Gv5IGAm4GZxHnnEIIjW8gsXi9L+AHIstupLUQIYG/NgqDEOuhythezREv2MtfbOeBgqSB+FnM08X+g/WLXUEaMYqDMdI/jU52+ZIt1FA==;33UnU/0c8YKiEs6WhqUo5Q=="
 ---

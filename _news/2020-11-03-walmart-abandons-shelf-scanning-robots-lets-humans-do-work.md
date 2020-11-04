@@ -9,8 +9,8 @@ ampWebUrl: "https://fox40.com/news/business/walmart-abandons-shelf-scanning-robo
 cdnAmpWebUrl: "https://fox40-com.cdn.ampproject.org/c/s/fox40.com/news/business/walmart-abandons-shelf-scanning-robots-lets-humans-do-work/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: FOX40
@@ -40,6 +40,20 @@ related:
     quality: 59
     images:
       - url: "https://elmoudjaweb.com/wp-content/uploads/2020/11/Walmart-To-End-Experiment-With-Robots-In-US-Stores-–.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Walmart To End Experiment With Robots In US Stores"
+    excerpt: "Walmart has pulled the plug on a program to use robots to scan items in stores and help maintain inventory, a company spokeswoman said Tuesday. The retail giant had worked with Bossa Nova Robotics for five years employing elongated robots that take readings on inventory and utilize artificial intelligence to predict product movement and inventory needs."
+    publishedDateTime: 2020-11-03T16:18:00Z
+    webUrl: "https://www.ibtimes.com/walmart-end-experiment-robots-us-stores-3075734"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 39
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/03/walmart-ended-an-experiment-to-have-robots-scan.jpg"
         width: 1024
         height: 682
         isCached: true

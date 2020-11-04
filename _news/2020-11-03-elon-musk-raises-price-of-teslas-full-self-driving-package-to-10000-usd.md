@@ -249,22 +249,6 @@ related:
         width: 1199
         height: 798
         isCached: true
-  - title: "Watch this self-driving race car hilariously smash into a wall"
-    excerpt: "Autonomous cars are the future, apparently. Watch this self-driving car race series and decide for yourself how far along the tech is."
-    publishedDateTime: 2020-10-30T09:10:00Z
-    webUrl: "https://thenextweb.com/shift/2020/10/30/watch-this-self-driving-race-car-hilariously-smash-into-a-wall/"
-    ampWebUrl: "https://thenextweb.com/shift/2020/10/30/watch-this-self-driving-race-car-hilariously-smash-into-a-wall/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/10/30/watch-this-self-driving-race-car-hilariously-smash-into-a-wall/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 74
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/crash-acronis-autonomous-car-ev-future-track-grassi-roborace-devbot-796x447.png"
-        width: 796
-        height: 447
-        isCached: true
   - title: "Tesla is now beta-testing self-driving software on public roads"
     excerpt: "Tesla considers it to be beta software and says it's not intended for fully autonomous operation. Drivers are expected to keep their eyes on the road and hands on the wheel at all times. To understand the new software,"
     publishedDateTime: 2020-10-30T11:45:00Z

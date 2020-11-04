@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Waymo pulls self-driving cars in San Francisco as cities nationwide brace for unrest"
-excerpt: "Waymo, the self-driving company of Google’s parent company Alphabet, has suspended its self-driving operations in San Francisco as businesses and cities brace for potential unrest following the presidential election."
-publishedDateTime: 2020-11-04T00:52:00Z
-originalUrl: "https://keyt.com/news/money-and-business/2020/11/03/waymo-pulls-self-driving-cars-in-san-francisco-as-cities-nationwide-brace-for-unrest/"
-webUrl: "https://keyt.com/news/money-and-business/2020/11/03/waymo-pulls-self-driving-cars-in-san-francisco-as-cities-nationwide-brace-for-unrest/"
+excerpt: "Waymo, the self-driving company of Google's parent company Alphabet, has suspended its self-driving operations in San Francisco as businesses and cities brace for potential unrest following the presidential election."
+publishedDateTime: 2020-11-03T20:53:00Z
+originalUrl: "https://www.kctv5.com/waymo-pulls-self-driving-cars-in-san-francisco-as-cities-nationwide-brace-for-unrest/article_b03cae60-5289-57e5-84d9-f4a6c5a8c497.html"
+webUrl: "https://www.kctv5.com/waymo-pulls-self-driving-cars-in-san-francisco-as-cities-nationwide-brace-for-unrest/article_b03cae60-5289-57e5-84d9-f4a6c5a8c497.html"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: KEYT
-  domain: keyt.com
+  name: KCTV News
+  domain: kctv5.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://keyt.b-cdn.net/2020/03/keyt-biz-and-tech.png"
-    width: 1024
-    height: 576
+  - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/custom/image/fd7ea874-0ed9-11eb-b9d4-0ff2ed620326.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -114,7 +114,21 @@ related:
         width: 412
         height: 275
         isCached: true
+  - title: "Waymo pauses self-driving car operations in San Francisco in case of election unrest - CNET"
+    excerpt: "Bike and scooter rental companies are also prepping for uncertainty after a contentious contest."
+    publishedDateTime: 2020-11-04T02:06:00Z
+    webUrl: "https://www.newsoneplace.com/35932251911/cnet-waymo-san"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 29
+    images:
+      - url: "https://images.weserv.nl/?url=https://cnet4.cbsistatic.com/img/35ULADrDXvnHuoetIbD6B3q8-aU=/300x0/2020/05/08/21d20d2d-d573-4d40-99de-b4d1597a9a4f/waymo.jpg&h=250"
+        width: 375
+        height: 250
+        isCached: true
 
-secured: "Pt6MHN8VhUDVWY4UkKHmGuAwKKZymIa1pEN74zHTlk1Vp0AHL+q0iWYykZ61HRB3Z2KREYAkTk7kJW84YjEIiVn2sc9OCX/pjVouRMmAAiGBG+P8vrvFO1+w2GGWrhsh8SM4dP5fnrAM+3CNxOG35iatDc6v1sXX0rVrSLLyuecS+qIrxpwieo7r4sATOvya7u7Q9KCetrdnPIJuu3hZdAxGyPOF22WyWVcEPn0WCiArqaHTbATesnuqaxV7aH7u7lDO2CP8PSfENTWJv4VGRMEvMHvLDWkBHoFBEKMpwA4xhCk6MVXH5b/SQx/hLQNHpEZ0ZchL6b/X0F8bKvqzXGiq0fh1mh/m+Fyu7wYM1lQ=;qp3rYPourEpps2vj+ht/UA=="
+secured: "cq3fWaspBnS0Tdit9CUgGILheItiKo93OYDOn2pGNKqcVqHFAZVPd8Ca7o4OspGv2uMzgra01pqTB3vSpH6EaVb9LqgO6NqPjnV9qbPpuJzYDCoxV+jzU94ioon4Zhw3fKjnF6WBtJqwrhqQ42ggAYgZNoAsGjEJeOamHR83fEebYvxUcTOXyHKNS8Tn3a0ZL4WG21QtqLZfRqVw7TVCj+AiMdQIHKb9UyUxj9QGOioSglwP8wy5Hd8JeSDAWyhCsmas9QznznvDsMfFP0gIJIYCe387J9jEmQjtvDiivEUeNqmSVHBkYPNzphbkc/upMZRFgcyVcZGNMhB/mDqws1J2bp0vj0k0j1Kyi/5VapE=;sQUaKiInbuA28RprTiVTsg=="
 ---
 

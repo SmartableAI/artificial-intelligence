@@ -55,6 +55,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "AWS launches Amazon EC2 P4d instances, boosting performance for ML training and HPC"
+    excerpt: "Amazon Web Services announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) P4d instances."
+    publishedDateTime: 2020-11-04T02:02:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/11/04/amazon-elastic-compute-cloud-p4d/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 67
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Amazon Web Services launches Nvidia Ampere-powered instances"
     excerpt: "New AWS instances are several times faster and more powerful than existing instances thanks to Nvidia processors."
     publishedDateTime: 2020-11-03T15:41:00Z
