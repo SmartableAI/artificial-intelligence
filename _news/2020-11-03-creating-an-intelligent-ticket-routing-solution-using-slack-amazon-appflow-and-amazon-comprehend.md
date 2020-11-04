@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/creating-an-intellig
 webUrl: "https://aws.amazon.com/blogs/machine-learning/creating-an-intelligent-ticket-routing-solution-using-slack-amazon-appflow-and-amazon-comprehend/"
 type: article
 quality: 92
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 786
     height: 630
     isCached: true
-
-related:
-  - title: "Deploying and using the Document Understanding Solution"
-    excerpt: "Based on our day to day experience, the information we consume is entirely digital. We read the news on our mobile devices far more than we do from printed copy newspapers. Tickets for sporting events, music concerts, and airline travel are stored in apps on our phones. One could go weeks or longer without"
-    publishedDateTime: 2020-10-31T01:12:54Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploying-and-using-the-document-understanding-solution/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 74
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/30/Deploying-and-using-the-Document-Understanding-Solution-1-JPG.jpg"
-        width: 800
-        height: 393
-        isCached: true
 
 secured: "dbtJ5ysLce2dLgwqcpCZCWAON01LSEMxfPqBW//ZWfuLJgTxaU0MT7noEUr6JY18/s1zEQRCyKbE2dsW/r68IaKeJgVgGGyBMD2FgivyU39JgLdBGRIo8nMThbnh59PWmYIQ7rMPYzCQoClcPsi7MFVitwrx4B0Z53NWpVWonFXda1sycr0Rrk0tJfu71hpXeW09efRa9XulT95SJ+67sCQuZ5nfohLq66+ESlEJ9H5gWGXEIESvYRVXaHwJ/ZqZOFntiA6xK5B79uEtCndoYg78jn0NJHKyOrk4DcDs4VmbABdoDgvNpIC9xEraMRYiH3x6qIES/m4yLdOw4lhBeUJ1EEjlMZqL0YLqZbj+I/E=;frfXM/e9Y6Fzdzm2NvREaw=="
 ---

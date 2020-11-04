@@ -122,6 +122,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Scientists created a new AI system that can detect COVID-19 in your cough"
+    excerpt: "Researchers at the Massachusetts Institute of Technology have created a new artificial intelligence system that could identify the novel coronavirus in someone’s cough. The researchers released their findings in a new paper published in the IEEE Journal of Engineering in Medicine and Biology."
+    publishedDateTime: 2020-11-04T18:47:00Z
+    webUrl: "https://www.deseret.com/u-s-world/2020/11/4/21547607/coronavirus-mit-ai-covid-19-cough-detect"
+    ampWebUrl: "https://www.deseret.com/platform/amp/u-s-world/2020/11/4/21547607/coronavirus-mit-ai-covid-19-cough-detect"
+    cdnAmpWebUrl: "https://www-deseret-com.cdn.ampproject.org/c/s/www.deseret.com/platform/amp/u-s-world/2020/11/4/21547607/coronavirus-mit-ai-covid-19-cough-detect"
+    type: article
+    provider:
+      name: deseret
+      domain: deseret.com
+    quality: 58
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/dDCp4NHDYvB0BmToGJy_f8F43ok=/0x0:1350x900/1400x1050/filters:focal(567x342:783x558):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67737901/MIT_Cough_Recordings_01_PRESS.0.jpg"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "AI model could detect coughs of asymptomatic Covid-19 patients"
     excerpt: "If the model is approved by the FDA, it could be used on a wide-scale and could be a viable tool for non-invasive pre-screening of asymptomatic patients."
     publishedDateTime: 2020-11-02T08:09:00Z
@@ -170,6 +186,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "MIT researchers develop AI to detect COVID-19 using cough recordings. An app could be on deck"
+    excerpt: "Initially, the researchers were using AI models to analyze recordings of forced coughs to ... SEE: Artificial intelligence is predicting coronavirus outbreaks before they start (TechRepublic) The researchers are attempting to incorporate the algorithm ..."
+    publishedDateTime: 2020-11-04T18:15:00Z
+    webUrl: "https://www.techrepublic.com/article/mit-researchers-develop-ai-to-detect-covid-19-using-cough-recordings-an-app-could-be-on-deck/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/mit-researchers-develop-ai-to-detect-covid-19-using-cough-recordings-an-app-could-be-on-deck/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/mit-researchers-develop-ai-to-detect-covid-19-using-cough-recordings-an-app-could-be-on-deck/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 56
   - title: "AI can detect if you have coronavirus by listening to the sound of your cough"
     excerpt: "Researchers have developed a new artificial intelligence (AI) system which they claim can detect coronavirus by analysing the sound of people coughing. Scientists at Massachusetts Institute of Technology (MIT) said the AI works because  the virus causes temporary neuromuscular impairment which can cause small differences to people’s speech or the sound of their cough - even if they have no other symptoms."
     publishedDateTime: 2020-11-02T08:51:00Z

@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 621
         isCached: true
+  - title: "Ambarella targets intelligent edge sensing with new camera SoC"
+    excerpt: "Computer vision chip company Ambarella has announced a new processor in its camera system on chip (SoC) family, targeting what it said is a wider variety"
+    publishedDateTime: 2020-11-04T18:27:00Z
+    webUrl: "https://www.embedded.com/ambarella-targets-intelligent-edge-sensing-with-new-camera-soc/"
+    type: article
+    provider:
+      name: Embedded
+      domain: embedded.com
+    quality: 24
+    images:
+      - url: "https://www.embedded.com/wp-content/uploads/2020/11/Ambarella-photo-of-AI-sensing-at-the-edge-with-CV28M.jpg"
+        width: 1024
+        height: 920
+        isCached: true
 
 secured: "hExMGQKq6dNQhTwiBZTWNlsk3LmLwqbHwUgdr3f+B2/rsJbpM+pPxztSjukfqoAnzEVI/ucuRU7VuVFck2Hb4lldBTNBbtZBg2r60GkSgSR1VvYUEa8/auypcOZRZX/0LZJzzqtXARGrvxREYFpx9P1yU5neubzjUSMCwFjU5xMLbAFh9gMuc//9bOK+b+eqo3NwcCNwutM9jANG+HlvIik5kD/oAgnESZ3NDgKSUzSczg/cq0huUt30pR16OXya53w4U7XPkXu00JKTh90CF2udTpivAnNNCplc6V4mOSWY8CX5XxvrWKxWGZtLGtZA7Z2PP/GQVkWmgHstehAMbnizDD7v/lcT+gJNlTrE124=;o/B6s1422N7PuB+oDD+BVg=="
 ---

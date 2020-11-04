@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/features/facebook-ar-glasses-deaf/?amp
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facebook-ar-glasses-deaf/?amp"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -47,17 +47,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Facebook, Apple, Tesla, and WIMI, Key Players in the Hologram AR Market"
-    excerpt: "Mobius Trend releases a research report “Facebook, Apple, Tesla, and WIMI, Key Players in the Hologram AR Market”. Recently, Facebook announced"
-    publishedDateTime: 2020-10-31T02:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/10/ab18154652/facebook-apple-tesla-and-wimi-key-players-in-the-hologram-ar-market"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18154652"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18154652"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
 
 secured: "PGNkyoNHrE0cMmVGTW8r5hdUVSMcWarerH2sxht4S74/C1DwYDJ/bNAy1GcFG2N2aMieUlyYBDZ2gjMwUq2SJdZ2qKYof0hBOYOt1/OLVrxRvULxORhJwhXWHyXAyePgjiMsG62tGOCZYgN4n0dzDJsocS6zx29+j+IDMn5L/+Ax20yZliNnrQfwaeXgEoN7GNV+sW279oQDMgTHy1iSfjsf+o6A+bzaqImrRuV7K4mFZnRs3wBuo0/I+Sa9Dat/7NHa7r3R0uw6TBRsMe5wkEEfRtMvAhyfU8IZ0EDzvL2cwa28cUxAmiVsHMqR0XGIO5lWs9PjlCYb0/L0m1puY/K+CP3BwF8DSfr0c0t8QJepnpu34o7CW77XByiQzybP/JwcRkUbeVX3CqRPtQKZ5wHFhjk3NAx1cjWC0WAsWAvw6Cqpx9Su4hR3BVjk81UkwRs3ShLfXWbwCdXqNtnAHetn+LMwJ1TSgQntn3qYk+wLuTCt5en520g1tvPJ16bMwEBFkUui0cpHiRKuAdAGIw==;cZrrt0/n5hbW+XJ8d10JAQ=="
 ---

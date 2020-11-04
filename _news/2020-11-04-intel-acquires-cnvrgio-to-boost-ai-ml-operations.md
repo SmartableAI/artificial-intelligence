@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sify.com/finance/intel-acquires-cnvrgio-to-boost-ai-ml-o
 cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/intel-acquires-cnvrgio-to-boost-ai-ml-operations-news-topnews-uleg7ucbgjfig.html"
 type: article
 quality: 76
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://www.ciol.com/wp-content/uploads/2019/08/Intel-AI.jpg"
         width: 850
         height: 400
+        isCached: true
+  - title: "Intel Buys Another AI Startup"
+    excerpt: "Intel Corp. has quietly acquired another AI platform developer, Israeli-based Cnvrg.io. The acquisition, confirmed by Intel late Tuesday (Nov. 3) to the"
+    publishedDateTime: 2020-11-04T17:27:00Z
+    webUrl: "https://www.datanami.com/2020/11/04/intel-buys-another-ai-startup/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/MLOps.png"
+        width: 1046
+        height: 806
         isCached: true
   - title: "Intel acquires machine learning platform Cnvrg.io to continue AI push - TechCrunch"
     excerpt: "TechCrunch reports that Intel (NASDAQ:INTC) has acquired Cnvrg.io, which provides an operating system for AI and machine learning.Cnvrg.io's platform helps data scientists build and run AI models, which can then be used to train,"

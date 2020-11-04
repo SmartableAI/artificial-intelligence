@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/walmart-shelves-plan-to-have-robots
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/walmart-shelves-plan-to-have-robots-scan-shelves-11604345341"
 type: article
 quality: 172
-heat: 222
+heat: 232
 published: true
 
 provider:
@@ -105,6 +105,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/03/walmart-ended-an-experiment-to-have-robots-scan.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Walmart to end experiment with robots in US stores"
+    excerpt: "Walmart Inc has pulled the plug on a program to use robots to scan items in stores and help maintain inventory, a company spokeswoman said on Tuesday. The retail giant had worked with Bossa Nova Robotics Inc for five years employing elongated robots that take readings on inventory and utilize artificial intelligence to predict product movement and inventory needs."
+    publishedDateTime: 2020-11-04T17:08:00Z
+    webUrl: "https://www.taipeitimes.com/News/biz/archives/2020/11/05/2003746378"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 39
+    images:
+      - url: "https://www.taipeitimes.com/images/2020/11/05/P10-201105-328.jpg"
+        width: 1181
+        height: 787
         isCached: true
 
 secured: "ummQCsyIOkEQkyobVQiO0kKxVOq/KGeLQ85lfNj4hE6tkLysuXdvBuNiNwXMsa3xWdtta//JKtpGyWzjMPCGhL8A3WdEGh8oZPmW+6FMq5J1EKRtrikbibWqKi/zITONcn0DVD7/ImGA/RlWE6XzVAYlhAiEnCsQ/zDN6FvhZghMI9a9ivD3U7Xo2nZMr8WBgK/PbHjI5qt8OcjH47A8Vm9FT0Q4zikSuwVxZe8B85QvBeCw9vbE9x3wLCV4bust7to2Z3HcNKyBuNAmk5sA6VZPFn5wNosPSuWKe7K4RnaoWYw/Tn7/tIHiAm0U2C3gAdui1FgUp3tBS+0wmgOAUurfWpIJxkXFgMPSznOlhLQ=;YhMqI8LsDpGq6OIlr25I7g=="

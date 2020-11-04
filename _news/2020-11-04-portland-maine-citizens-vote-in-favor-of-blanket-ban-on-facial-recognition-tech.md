@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/87446-portland-maine-citizens-vote
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87446-portland-maine-citizens-vote-favor-blanket-ban-facial.html"
 type: article
 quality: 99
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Portland, Maine Voters Ban Facial Recognition by Police and Public Officials"
+    excerpt: "However, when voters in Portland, Maine went to the polls on Tuesday, their overwhelming support for a facial recognition ban was more surprising, possibly signaling support for wider bans to take hold across the country."
+    publishedDateTime: 2020-11-04T17:08:00Z
+    webUrl: "https://www.insidehook.com/daily_brief/tech/portland-maine-voters-ban-facial-recognition"
+    ampWebUrl: "https://www.insidehook.com/daily_brief/tech/portland-maine-voters-ban-facial-recognition/amp"
+    cdnAmpWebUrl: "https://www-insidehook-com.cdn.ampproject.org/c/s/www.insidehook.com/daily_brief/tech/portland-maine-voters-ban-facial-recognition/amp"
+    type: article
+    provider:
+      name: InsideHook
+      domain: insidehook.com
+    quality: 71
+    images:
+      - url: "https://www.insidehook.com/wp-content/uploads/2020/11/surveillance-cameras.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Portland votes to ban facial recognition scanning by police"
     excerpt: "These include Uber and Lyft drivers in California losing their fight to be classified as employees, as well as the banning of facial recognition software being used by police in Portland, Maine, in the US. It is the latter that is the focus of this story ..."
     publishedDateTime: 2020-11-04T15:15:00Z
@@ -57,6 +73,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "5EyZhrN2MzBWSv22XzEqBVAwf6NSTw3WwDm6E/+8DyjfBgXZ7OiT3Tm4Yw2gWBOxco9cYP974I0k1h6QNtgLZ83q04OQH94w/TG+ffC33mLxIDoo/IIByZFAyYfmRavrybF2/hD8HK5L6L3Bjgz/EKHjUEx1DLlCJzr61pWxMG+17+YFLSL1MJSAoNZTZALHmxZSEMli3trTpy2ha/lf0whzsEeOq2eLVkHfpQSWLjEjy6+flTe1TTriUxb4G4lGp5u+dwRMS9qtTs3R6lgPlYbXvZTO7leVkhbvLm7cDXla2+CTD0cgbm9yOjQ1YyrztrdzQUdaN03pLR2aETCJQUVH8GCLwWvtgzeJse0Flew=;05RjVAe4foS3Jd5kTr9ePg=="
+secured: "bwDh65hjENS9ff2J/THSBrAGEBrPr6haOSjSc56abUVNqV/R8hVGMa2NkKPYs9Q8pd/xnJwGaFDK5vZzeRzZ99nhPtwzc1+tB1vpzXpCvb9jkmH3wG6pKVAnPX9cS1ieVqzXI3Inbq8lG/QEoETzoOu5JlxbnAv5c5hRp/H/kn9SddTa4t4rDK4FcEuqSCc7KVfIfTkR2aDFz/SDnp4zfowgtxqUgNBR3E2S48cve9HmZB4C0MGtNAVqyTLkGsBA+eQfsJ/sCRPx0wzm2cxtbnMp+xDdRy0bUE/hQotwTLx5Og1dZpTsFKX2/iSc77T4xmop4MyPADMhFJ271KutwPSqstHYc8F2BSI95/77X7LY5td+6Jh/CgpDRHtmv3D/bc2Sg46vAemWnVrcvmdQxNghME6ZAeaGzUv8ihcFf5cTXVcEsolBg0CzVTuY22d7fBa/mribXdUtT5R4QkgDburx+kwAa9T0PDOF9VZkTfVAG8SvRm+RpEHJANj5pIvkqRNzT1g2Qx/Ndvv/FL3bbA==;mLVMHmVhjesOabKVqBj1oQ=="
 ---
 

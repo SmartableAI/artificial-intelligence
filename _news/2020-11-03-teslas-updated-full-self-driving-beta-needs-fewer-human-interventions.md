@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Hikes Up the Price of 'Full Self-Driving' Option to $10,000"
-    excerpt: "Tesla bumped up the price of its \"full self-driving\" from $8,000 to $10,000 on Friday, and odds are this won’t be the last price hike Tesla owners see."
-    publishedDateTime: 2020-10-31T01:17:00Z
-    webUrl: "https://gizmodo.com/tesla-hikes-up-the-price-of-full-self-driving-option-to-1845535197"
-    ampWebUrl: "https://gizmodo.com/tesla-hikes-up-the-price-of-full-self-driving-option-to-1845535197/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tesla-hikes-up-the-price-of-full-self-driving-option-to-1845535197/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 89
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/nhmzpjpkgvvsqawmqowb.jpg"
-        width: 800
-        height: 451
-        isCached: true
   - title: "Tesla Full Self-Driving feature now costs $10,000"
     excerpt: "Tesla's long-promised Full Self-Driving mode reached its first customers in beta form a week and a half ago and we've already received a look at how the system operates on local roads, thanks to people on social media. Some report flawless activity ..."
     publishedDateTime: 2020-11-02T16:58:00Z
@@ -138,22 +122,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Tesla Hikes Up the Price of ‘Full Self-Driving’ Option to $US10,000 ($14,241)"
-    excerpt: "While the tech powering it is no doubt impressive, to call it “full self-driving” isn’t entirely accurate. Tesla warns users of its beta program that the software still requires vigilant monitoring and that “it may do the wrong thing at the worse ..."
-    publishedDateTime: 2020-10-31T01:18:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/10/tesla-hikes-up-the-price-of-full-self-driving-option-to-us10000-14241/"
-    ampWebUrl: "https://www.gizmodo.com.au/2020/10/tesla-hikes-up-the-price-of-full-self-driving-option-to-us10000-14241/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/10/tesla-hikes-up-the-price-of-full-self-driving-option-to-us10000-14241/amp/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 56
-    images:
-      - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2020/10/31/nhmzpjpkgvvsqawmqowb-scaled.jpg?ar=16%3A9&fit=crop&q=65&w=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Tesla Full Self-Driving feature now costs $10,000 - Roadshow"
     excerpt: "The beta launched about a week and a half ago, and just like Elon Musk said, it now costs even more. The Room Where It Happened : A White House Memoir Hardcover – 23 Jun. 2020 by John Bolton (Author)."
     publishedDateTime: 2020-11-02T16:55:00Z
@@ -167,20 +135,6 @@ related:
       - url: "https://images.weserv.nl/?url=https://cnet2.cbsistatic.com/img/gUlN4T2SkhI7wAyYiUD5m-OfCDc=/300x0/2020/10/22/613c9fca-4810-4f51-8a0f-4e212fb6da48/tesla-autopilot.jpg&h=250"
         width: 375
         height: 250
-        isCached: true
-  - title: "This electric, self-driving, smart ferry is the Tesla of public transport boats!"
-    excerpt: "Zeabuz, a Norwegian company, has stepped up to the need of the hour and will be launching a self-driving ferry next year! The ferry will carry 12 passengers and will operate like an elevator where all you have to do is press a button to summon it."
-    publishedDateTime: 2020-10-31T23:30:00Z
-    webUrl: "https://www.yankodesign.com/2020/10/31/this-electric-self-driving-smart-ferry-is-the-tesla-of-public-transport-boats/"
-    type: article
-    provider:
-      name: Yanko Design
-      domain: yankodesign.com
-    quality: 34
-    images:
-      - url: "https://www.yankodesign.com/images/design_news/2020/10/RGKitPlay_a_motion_control_kit-510x314.jpg"
-        width: 510
-        height: 314
         isCached: true
   - title: "Tesla hikes price of 'Full Self-Driving' option to $10,000"
     excerpt: "Soon after the launch of the 'Full Self Driving (FSD) set of features to a limited number of expert and careful drivers, the electric car maker Tesla has increased the price of the new option to $10,000 from $8,000. The price of the 'Full Self-Driving ..."

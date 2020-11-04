@@ -35,6 +35,22 @@ related:
         width: 1680
         height: 1120
         isCached: true
+  - title: "Portland, Maine Voters Ban Facial Recognition by Police and Public Officials"
+    excerpt: "However, when voters in Portland, Maine went to the polls on Tuesday, their overwhelming support for a facial recognition ban was more surprising, possibly signaling support for wider bans to take hold across the country."
+    publishedDateTime: 2020-11-04T17:08:00Z
+    webUrl: "https://www.insidehook.com/daily_brief/tech/portland-maine-voters-ban-facial-recognition"
+    ampWebUrl: "https://www.insidehook.com/daily_brief/tech/portland-maine-voters-ban-facial-recognition/amp"
+    cdnAmpWebUrl: "https://www-insidehook-com.cdn.ampproject.org/c/s/www.insidehook.com/daily_brief/tech/portland-maine-voters-ban-facial-recognition/amp"
+    type: article
+    provider:
+      name: InsideHook
+      domain: insidehook.com
+    quality: 71
+    images:
+      - url: "https://www.insidehook.com/wp-content/uploads/2020/11/surveillance-cameras.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Portland votes to ban facial recognition scanning by police"
     excerpt: "These include Uber and Lyft drivers in California losing their fight to be classified as employees, as well as the banning of facial recognition software being used by police in Portland, Maine, in the US. It is the latter that is the focus of this story ..."
     publishedDateTime: 2020-11-04T15:15:00Z

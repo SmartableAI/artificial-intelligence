@@ -44,6 +44,20 @@ related:
         width: 900
         height: 509
         isCached: true
+  - title: "Deploying reinforcement learning in production using Ray and Amazon SageMaker"
+    excerpt: "Reinforcement learning (RL) is used to automate decision-making in a variety of domains, including games, autoscaling, finance, robotics, recommendations, and supply chain. Launched at AWS re:Invent 2018, Amazon SageMaker RL helps you quickly build, train, and deploy policies learned by RL. Ray is an"
+    publishedDateTime: 2020-11-04T17:25:22Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploying-reinforcement-learning-in-production-using-ray-and-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 86
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/20/4-Graph2-799x630.jpg"
+        width: 799
+        height: 630
+        isCached: true
 
 secured: "ry7FXbuyDckQRPlPdx72uDQKP4oSLJVqsORLxrYAlG4XDeUequShAHUPuy8ikW9ysMsZYT+4iSDixRAjW8nrbekuhevfyXnCc6/9/K3GMlnik57V+4QC7x+oX1fdJe3Wh+2Wtjzx38TdzHUDWCx5HHqkaNEfhQB5Fu61q31d5nmi4pqJZ65eWKmFrvPnFU/JgGFNNGVRHdoNuEh1I+DUvL8GGh7gOT9n2CoJcPE1hjYiceaunG1BjJ6KF6wX8UsxQPvLbG+UHNnlh8bcFmh/a5uK/1KhBNiOJHfBYFK8plUB1RGm8Mj4KIIREdtNdI3zABVDTYLXE0h8ra5HdfBl2lVivEqeYIAM9X58FOthGnU=;qUHl+jYGxy0Kh0znt3lTPQ=="
 ---

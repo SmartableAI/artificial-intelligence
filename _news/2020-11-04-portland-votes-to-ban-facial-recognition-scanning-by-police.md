@@ -43,6 +43,22 @@ related:
         width: 1680
         height: 1120
         isCached: true
+  - title: "Portland, Maine Voters Ban Facial Recognition by Police and Public Officials"
+    excerpt: "However, when voters in Portland, Maine went to the polls on Tuesday, their overwhelming support for a facial recognition ban was more surprising, possibly signaling support for wider bans to take hold across the country."
+    publishedDateTime: 2020-11-04T17:08:00Z
+    webUrl: "https://www.insidehook.com/daily_brief/tech/portland-maine-voters-ban-facial-recognition"
+    ampWebUrl: "https://www.insidehook.com/daily_brief/tech/portland-maine-voters-ban-facial-recognition/amp"
+    cdnAmpWebUrl: "https://www-insidehook-com.cdn.ampproject.org/c/s/www.insidehook.com/daily_brief/tech/portland-maine-voters-ban-facial-recognition/amp"
+    type: article
+    provider:
+      name: InsideHook
+      domain: insidehook.com
+    quality: 71
+    images:
+      - url: "https://www.insidehook.com/wp-content/uploads/2020/11/surveillance-cameras.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Portland bans facial recognition tech use by cops, officials"
     excerpt: "The US city of Portland, Maine on Wednesday voted to ban the use of facial recognition by police and city officials. The Bangor Daily News reported that voters passed a ballot initiative \"bolstering a ban on facial recognition by city agencies\"."
     publishedDateTime: 2020-11-04T14:42:00Z
@@ -53,6 +69,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "UnCyquVbAsxsXxLWHMnizcHBl4ZEGvs71cyQcbXBZ5uf2m/R+6Y7m+0gFQDkIk1s/wyEsJPFQPD82Urbn9aqO2lXCQeV7VBdnzMhPqyxKYqHDT4Y/hBXX3Bm7UuA9D1ohW9FIFTGMufklMXkFXvkpvf82k5Ty0ZcTwhZPJ4FEKreIR7lCANrwP7X0hza70NHpD0Cv8dOl19tvk/6JKKWQuARtSPjumE6/2v68+3TiIzYM3r19zosTxwfpIG6PZ0KJuXEb1Dv+e+iJO0tlVliOqvPxnj6DT2V3VzGzPOIX2C4kuy/PLkE8IEXyknJ4kFN3rZHt2FXSvdvvdajbKziMVE8c4wKQhVA66bpeJriT50=;U3ZGmUxmVBBDxAiSGUU32g=="
+secured: "7nQWGCEkN+rJcZ1Kivh+O3FIl8rMl2hV0tWXixEnENwLlhs68MgCLmDv7csDphpyxer+VW3tgXbsEEWzwiodF3armjl8+BWJQHz88XPFhEtG/5pAxR70BM7vE//KKMDzVSeJYOl0ISmVy340ikVvFoyxsTSrz2qRsjs2ftpGPHsYgmIBZVqu0PT6rz+6QvE3XWTb0zaHJGVU7KXts9hbkOn4VpHYN8FHi5cEhqSPJZTqdc7aG3vG7SUMRn5U3uYbX6Fvg2SUuz+LY0wPstx1xYe07CRPt0YpaUu4B+4sw4ZK8k/ZLQ5Z6JwkNVL47SnNUSTUUWhF5oItQ+9uYy3V7w5KgZMuvr62kdWgB8Tx7U/hg0ypB9w12k1ZaPbQLJqAykeqlQqbONQD8T/wGz7aXUcZjTeq3HNgvUwMZSwQVOj3+HeL8mWk7kwDtfHbPN9jdrrGkBZvzTY1nTAClIt/yJAlEzKZIZSN+Zbf3b0q/maw5KCCw9ZI/c83yZm7IC2cK5UTRlMBx1fowhcKGruTAg==;dhzoOdDNwuAZcCmpqcF/LA=="
 ---
 

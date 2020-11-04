@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/artificial-intelligence-in-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-in-healthcare-is-racist/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -51,6 +51,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/whatthepubli.jpg"
         width: 1356
         height: 668
+        isCached: true
+  - title: "Healthcare is ramping up AI investments during COVID. But the industry is still on the fence about Google, Amazon. Here's why"
+    excerpt: "Healthcare organizations are ramping up their investments in artificial intelligence in response to the COVID-19 pandemic, according to survey data. But they are not turning to tech giants like Google and Amazon to deploy these technologies."
+    publishedDateTime: 2020-11-04T16:56:00Z
+    webUrl: "https://www.fiercehealthcare.com/tech/healthcare-ramping-up-investments-ai-during-covid-but-industry-still-fence-about-google-amazon"
+    type: article
+    provider:
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 27
+    images:
+      - url: "https://qtxasset.com/fiercehealthcare/1604510697/shutterstock_1154735041.jpg/shutterstock_1154735041.jpg?cXz2WNUfgjJFXG3hRHC3DkItPUu2z0dm"
+        width: 1000
+        height: 486
         isCached: true
 
 secured: "JjNHT5r25yZgHPOwfrHfZCwITNcr2CSOFfmz5zMUrRYcLAF/ykbnljOU3/7+ILRxSDr/gQYDBIwVkmQEBU6rR1il/jSuJsYycL0OzKHcAONeS8NyamuVYwmsNwPGV9c2rRkWBWu5J0APIQ5FaYxUXhlkHQOiExcpu1tb0QBPtTQeUTTRDnesrLegNoleN6Jn2Eh/+olkts+JGclTWsTM6p7qqqTVl+RDszQFfkRL0RANkIAqNkh5zq97zfWRjQoMQ+BcPhD2Uxa3SWvTEo++I+i16rwX42FVtBOYDwgUd209N+L3sxQwaWMYJYdrzL+9xzMxsB3x8IcQeTnW+dMiZZt5oxzd9SxMAMsjZIyUhA5a/I7jq6V13v4Jwm+0PQS2Uz20PPJSp5fKYQjBCCpu0SdEwV1HoASesyxW1wkSR8uDEezQ3jcuXq4EIjdh2CwD3pdNEUIwRJnJ6dUAz6wsKr8QlkieMWfLVjU3xfGs0524vC1w/YEk6kBjgbXOUd7iMAPeodrQUQGCUBAP+OYqzA==;nDQBaqSxRkRFXEf8npLmUQ=="

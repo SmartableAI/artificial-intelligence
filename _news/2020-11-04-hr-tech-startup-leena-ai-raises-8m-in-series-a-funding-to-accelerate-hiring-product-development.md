@@ -56,6 +56,22 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Robots and chatbots can help alleviate the mental health epidemic"
+    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Dan Schawbel, Managing Partner, Workplace Intelligence"
+    publishedDateTime: 2020-11-04T17:04:00Z
+    webUrl: "https://europeansting.com/2020/11/04/robots-and-chatbots-can-help-alleviate-the-mental-health-epidemic/"
+    ampWebUrl: "https://europeansting.com/2020/11/04/robots-and-chatbots-can-help-alleviate-the-mental-health-epidemic/amp/"
+    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2020/11/04/robots-and-chatbots-can-help-alleviate-the-mental-health-epidemic/amp/"
+    type: article
+    provider:
+      name: europeansting.com
+      domain: europeansting.com
+    quality: 59
+    images:
+      - url: "https://europeansting.files.wordpress.com/2020/11/robotics.jpeg"
+        width: 716
+        height: 1002
+        isCached: true
   - title: "Leena AI raises $8M in series A funding to revolutionize employee experience"
     excerpt: "Leena AI, an artificial intelligence (AI)-powered employee experience platform, today announced an USD 8 million Series A financing led by Greycroft to expand its go-to-market programs and accelerate"
     publishedDateTime: 2020-11-03T11:30:00Z

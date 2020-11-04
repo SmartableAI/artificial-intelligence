@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Cazena Launches Instant AWS Data Lake to Accelerate Analytics Migration to AWS"
-excerpt: "This experience includes seamless connections with AWS solutions including EMR, Athena, Glue, MSK, S3, SageMaker, and more. “Getting cloud data lakes off the ground continues to be a major ..."
-publishedDateTime: 2020-11-02T11:07:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cazena-launches-instant-aws-data-lake-to-accelerate-analytics-migration-to-aws-1029752392"
-webUrl: "https://markets.businessinsider.com/news/stocks/cazena-launches-instant-aws-data-lake-to-accelerate-analytics-migration-to-aws-1029752392"
+excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
+publishedDateTime: 2020-11-02T11:31:00Z
+originalUrl: "https://www.morningstar.com/news/globe-newswire/8076708/cazena-launches-instant-aws-data-lake-to-accelerate-analytics-migration-to-aws"
+webUrl: "https://www.morningstar.com/news/globe-newswire/8076708/cazena-launches-instant-aws-data-lake-to-accelerate-analytics-migration-to-aws"
 type: article
-quality: 45
-heat: 45
+quality: 35
+heat: 35
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "TokI8XjWp3dpDUMI2rR+vQ9EsOgGJ2rA/apewfpsK1NhB9uA0znOIBjOZLq6HyYmZB7ymaqcZ/4R85JlUd/tehzynOHs2XftTCSirTzmaN7kdPM6bU1aFDxxPACUwWWgG4HsvYQloneLFHBjXIZIrfEguk5e42METXYXeIMVkFi0+kLkV1rvhJLymrHEtq35f5fIFS6ts2xxa9Ou/NsvfZ45b6bDaz4fzt16mo/OJiziobQPFd6uplDDuUFwr+e9GWoylAuqLSdSkPqom5Np1PazsDditHQ1sTbqkAwjWXxBozWf3qpmbaV0/zO1kU4FMQzuw/oxojwu+tuHdwQz+pa8cbgBQsN8n73OcrWhT4Q=;j/Y8uyhYduGOseuMeD1IMw=="
+images:
+  - url: "https://ml.globenewswire.com/media/01d142b7-f49c-4259-a776-52da66a0c71b/medium/instant-aws-data-lake.png"
+    width: 300
+    height: 215
+    isCached: true
+
+secured: "GK6vZMqNgRK75fWf4nnIY3rkqmFTZz5Dk+L7B0gIDIR8L4x6R8TSM9BHHzziTk8rAPyxYaoTB4lZ7Y1JX3ExQfyVNGikohCoJC7qbc5+bfjAvBd/H/TyToLhZqYjliPZa1GDipK9ciRADCWEG2mw6gZlqoxJTv9Ti8UWmaotb+XPbv5kWdl7sqMwpGjVzor+ljeIL75GKRgskyXq8687pgpUI6PoqfOQ4A16OSEtjMXIxTVYTOXjjNHfOnTFL1L/WPL6aw45g01qHOdXflAgsUL0wfRptdIpsnBMxQ/SnwmWfkZQ+qmAqL+QHlUdeVF1327OtSAy3cPRReh8H1ojmXuaea5E8Za82rDNImGcoqc=;fFF73FGo+JbbPcRj12qqeg=="
 ---
 

@@ -51,6 +51,20 @@ related:
         width: 850
         height: 400
         isCached: true
+  - title: "Intel Buys Another AI Startup"
+    excerpt: "Intel Corp. has quietly acquired another AI platform developer, Israeli-based Cnvrg.io. The acquisition, confirmed by Intel late Tuesday (Nov. 3) to the"
+    publishedDateTime: 2020-11-04T17:27:00Z
+    webUrl: "https://www.datanami.com/2020/11/04/intel-buys-another-ai-startup/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/MLOps.png"
+        width: 1046
+        height: 806
+        isCached: true
   - title: "Intel acquires data science startup Cnvrg.io"
     excerpt: "Intel Corp. reportedly has acquired Cnvrg.io, an Israeli data science startup that helps teams create and run machine learning models. TechCrunch made the claim, though neither Intel nor Cnvrg.io has publicly confirmed the news as of the time of writing."
     publishedDateTime: 2020-11-04T05:18:00Z

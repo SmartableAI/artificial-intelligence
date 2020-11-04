@@ -43,17 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Facebook, Apple, Tesla, and WIMI, Key Players in the Hologram AR Market"
-    excerpt: "Mobius Trend releases a research report “Facebook, Apple, Tesla, and WIMI, Key Players in the Hologram AR Market”. Recently, Facebook announced"
-    publishedDateTime: 2020-10-31T02:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/10/ab18154652/facebook-apple-tesla-and-wimi-key-players-in-the-hologram-ar-market"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18154652"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18154652"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
 
 secured: "5NeCyIC/y/nIcdadL3bP+ug5wTzv6Zqd1LnSN4nFJ4oaNc+RwnRpw/E6OEOFrJOGMAjmgj9rUyk25xZklMW9u+RtkT5QU5DHiFRLKY+LjwkKqvXcBEsE2rF1+SYkSj1Am5pfwYcnhhSuWlDuqxPnzijpTF8uukeMFc/Wj1z/UvQhMPWX/fjKhQH3SnXr1RJvMytueOUSiFw7iqMOB+Uq7SDgH7B4H390+7zBaqyIGkfCU2sVVbWmYQ81q/ARVRxYI29vGpvabMKrA8bcrTsFpIArirhjaSQRgDr1kD9XBG1wK5st38IuAwq5thzKXdYk/xHd5weBTNfbCWuPSp4Ybhn6q2p3s0OJfE0QGyrFulgCmcB6QHfHglomDdvDnFh7bqwqhKDL55KcvbmDdahKHZFzQGwZGzQmQJWTmsE6ejqEM5IXUOBDI2nLwKYIwtYgG4m056uLWAhVwE/kq4TubJhMuslmSFkrItM0g7QnX60n97TcxC9EdY7MQjW12ji1g1brp8jzjqZbKHY1nW+A8w==;PHN/Om9dmHLng7+VQT7QcA=="
 ---

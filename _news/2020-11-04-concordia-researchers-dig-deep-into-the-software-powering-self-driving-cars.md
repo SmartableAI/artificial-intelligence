@@ -3,8 +3,8 @@ category: news
 title: "Concordia researchers dig deep into the software powering self-driving cars"
 excerpt: "Peeking under the hood of a self-driving car will only tell you so much. To really understand what makes them run, you have to dive deep into the software that makes up the autonomous driving systems (ADS) controlling driverless vehicles."
 publishedDateTime: 2020-11-03T16:11:00Z
-originalUrl: "https://www.concordia.ca/news/stories/2020/11/03/concordia-researchers-dig-deep-into-the-software-powering-self-driving-cars.html"
-webUrl: "https://www.concordia.ca/news/stories/2020/11/03/concordia-researchers-dig-deep-into-the-software-powering-self-driving-cars.html"
+originalUrl: "https://www.concordia.ca/news/stories/2020/11/03/concordia-researchers-dig-deep-into-the-software-powering-self-driving-cars.html?c=/research"
+webUrl: "https://www.concordia.ca/news/stories/2020/11/03/concordia-researchers-dig-deep-into-the-software-powering-self-driving-cars.html?c=/research"
 type: article
 quality: 22
 heat: -1
@@ -97,6 +97,6 @@ related:
       domain: autonews.com
     quality: 19
 
-secured: "22+CDsKzhXdLWDT5HfZupErA6ZvwFczUEJ8mi1wRzaHNpeWFxlMzgp1i2asshKfA93zbVjmZqGLND5A5aGMJGW30HXWYMUOq8/tssd/zzhD7nRFhA8pz8w4SuY6wuHC81NY6IF1Tcs2avn7BRbP3NjOxGoTpESS+Us4WVDrrbTEWwNWwzm7RDyhGzhD8+d7SP6maRVbzR+1HV0cYabMgqFV6FHMtQpodgxiyNfDJSPQtCRBAIK01+eWB/+uiKczbzCxo/Zeeo27NLQwMJdX1a94PYUAdHgqK38+OdL/GFEQSgpG6oUdhawEZ3BwNmzt6txSOJK6hbNHoU/8qk2pJsUMDYpUywxzLCeg5ZbPmz+MKb7XRe6YXqBfkz9wwyJWXqtk1yrsX3VoPXi2OpUV2Xb/dKBpC0xH88xTY0SoFkrtiU96m1yBjfLCgzMFEui4xHXMC9JlFFvZTiKt+vke3K45TfzgHooXgKyyerDkyic7co3XD70H2mIPOaLxdG/KjSsOS176cP9GIzgoQUhA4vA==;4E89uqHk0nPTau0OiRamLw=="
+secured: "7LGFMzEDsPmV0eVo6qM43DYn3MSVgTr7Oe8vtrEQZEZ67xbtoMsDS99bMcuXzuGdguI4KNX3Lgc2ofktjUKOk/NoOxi2oKnrxxCsGivF2+znk4EyocyJswM3ZUZ4FB6kL1Mojt7xHL75HALominiQmI5oOFKIYHB5wSkP0ek5ZkddMGcpyiHtEDii8RG4fGEvVljqdJSLIJOJeEa46zTSGTwTXVyNFg/daLw+AXPEZRo0ZuI/fHC26DFw9vI72+a1xdzCnGi2319cV7qdr03za3i+QRK39rOEjO3lvddpd+/nh1Q6vPqXM7G8LkbPmndkjCnTm3h4PABxOlPF5kj4nOLwWQCzxh6E7VfPoh2Tag=;AfmgMV5rRroAoghnoD72kw=="
 ---
 

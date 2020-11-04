@@ -103,6 +103,20 @@ related:
         width: 840
         height: 559
         isCached: true
+  - title: "Walmart to end experiment with robots in US stores"
+    excerpt: "Walmart Inc has pulled the plug on a program to use robots to scan items in stores and help maintain inventory, a company spokeswoman said on Tuesday. The retail giant had worked with Bossa Nova Robotics Inc for five years employing elongated robots that take readings on inventory and utilize artificial intelligence to predict product movement and inventory needs."
+    publishedDateTime: 2020-11-04T17:08:00Z
+    webUrl: "https://www.taipeitimes.com/News/biz/archives/2020/11/05/2003746378"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 39
+    images:
+      - url: "https://www.taipeitimes.com/images/2020/11/05/P10-201105-328.jpg"
+        width: 1181
+        height: 787
+        isCached: true
 
 secured: "ucWmoiJy6XIgJfQPJsB7mjCJtf/77dY/KdfZbMqj1Rew1XuhqyNqVqgmfH8/30spSNLueLvPowrFJR6+BXgtoTRJ4Bc0fdolu0/3ZYUDJuc1M3rnWwesOWoXPZNIyORMmSDhUXA4Bw8tbHAZSsSRAt4Y5+QrPfpnplQg/gTGoNz4VzwXzUlwfGrvHhPsAGUno2qe0l9P0HtV3ZcrqNEAHch2yXH7qptfF3ZM0DEoRxyPU0sBL5NOXph8xjnnRN5wzVAPvfS66NRrj74bEzgxShFc9VyGU9l2iDOAn47grNPsN3V53SNhBqSEZjHHaXHsP2WsBIJ/XdZX9g3bbXWzvgcy0Xwpx6oEvUz8jmPQgBeL+NXrqgWDtWj9QN081tUOYSeypUATyh8zOaxVjmvyTN++VHf5v+cUVkhY3aKJBA7dpUEB1uK4GEPLaZ9GAzIutERJhb38bBhVgWQxsbkauXnONjYKhIl1HpBoaDE43N+Hgf7r+4xYWCexftfQUS7JYSwUFAfXnVEPBhAYyr7TbA==;jLqWftYJK4cHLo1GRGybgw=="
 ---
