@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "LAX debuts facial recognition technology for international travelers"
-    excerpt: "U.S. Customs and Border Protection officials announced the implementation of a facial-recognition process at LAX."
-    publishedDateTime: 2020-10-30T06:10:00Z
-    webUrl: "https://abc7.com/lax-cbp-international-travelers-facial-recognition/7459789/"
-    ampWebUrl: "https://abc7.com/amp/lax-cbp-international-travelers-facial-recognition/7459789/"
-    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/lax-cbp-international-travelers-facial-recognition/7459789/"
-    type: article
-    provider:
-      name: ABC7
-      domain: abc7.com
-    quality: 59
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/7462194_102920-kabc-4pm-lax-travel-vid.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Face recognition, pollution alert in tech upgrade"
     excerpt: "The city’s ambitious smart traffic management system system — that proposes to use advanced technologies and a surveillance web of cameras to m."
     publishedDateTime: 2020-11-03T01:49:00Z
@@ -57,29 +41,6 @@ related:
         width: 800
         height: 751
         isCached: true
-  - title: "Method for facial recognition bias reduction with adversarial network shows promise"
-    excerpt: "A prominent trio of biometrics researchers have proposed a way to remove the difference, or bias, from facial recognition performance between different demographics. A paper jointly written by"
-    publishedDateTime: 2020-11-02T22:46:00Z
-    webUrl: "https://www.biometricupdate.com/202011/method-for-facial-recognition-bias-reduction-with-adversarial-network-shows-promise"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 33
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/10124235/facial-recognition-crowds.jpg"
-        width: 1920
-        height: 1005
-        isCached: true
-  - title: "Canada mall operator cited for consumer privacy violations, pulls facial recognition cameras"
-    excerpt: "Cadillac Fairview in Toronto — one of North America's largest commercial real estate companies — has removed the embedded cameras inside its digital information kiosks after a government investigation found the company used facial recognition without customer knowledge,"
-    publishedDateTime: 2020-11-03T11:05:00Z
-    webUrl: "https://www.retailcustomerexperience.com/news/canada-mall-operator-cited-for-consumer-privacy-violations-removes-facial-recognition-cameras-2/"
-    type: article
-    provider:
-      name: Retailcustomerexperience.com
-      domain: retailcustomerexperience.com
-    quality: 8
   - title: "Global Speech and Voice Recognition Technologies Market Size, Share, Demand And Remarkable Growth Rate Till 2026 | Zion Market Research"
     excerpt: "The Zion Market Research added a new report “Speech and Voice Recognition Technologies Market by Technology (Speaker Identification, Speaker Verification, Speech Recognition, Automatic Speech Recognition, Text to Speech, and Others), by Application ..."
     publishedDateTime: 2020-10-30T10:00:00Z

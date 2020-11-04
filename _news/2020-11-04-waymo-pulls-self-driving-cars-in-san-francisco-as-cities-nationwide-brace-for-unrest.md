@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Waymo pulls self-driving cars in San Francisco as cities nationwide brace for unrest"
-excerpt: "Waymo, the self-driving company of Google's parent company Alphabet, has suspended its self-driving operations in San Francisco as businesses and cities brace for potential unrest following the presidential election."
-publishedDateTime: 2020-11-03T20:53:00Z
-originalUrl: "https://www.kctv5.com/waymo-pulls-self-driving-cars-in-san-francisco-as-cities-nationwide-brace-for-unrest/article_b03cae60-5289-57e5-84d9-f4a6c5a8c497.html"
-webUrl: "https://www.kctv5.com/waymo-pulls-self-driving-cars-in-san-francisco-as-cities-nationwide-brace-for-unrest/article_b03cae60-5289-57e5-84d9-f4a6c5a8c497.html"
+excerpt: "Waymo, the self-driving company of Google’s parent company Alphabet, has suspended its self-driving operations in San Francisco as businesses and cities brace for potential unrest following the presidential election."
+publishedDateTime: 2020-11-04T00:52:00Z
+originalUrl: "https://keyt.com/news/money-and-business/2020/11/03/waymo-pulls-self-driving-cars-in-san-francisco-as-cities-nationwide-brace-for-unrest/"
+webUrl: "https://keyt.com/news/money-and-business/2020/11/03/waymo-pulls-self-driving-cars-in-san-francisco-as-cities-nationwide-brace-for-unrest/"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: KCTV News
-  domain: kctv5.com
+  name: KEYT
+  domain: keyt.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/custom/image/fd7ea874-0ed9-11eb-b9d4-0ff2ed620326.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://keyt.b-cdn.net/2020/03/keyt-biz-and-tech.png"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -115,6 +115,6 @@ related:
         height: 275
         isCached: true
 
-secured: "9X/6sXy1QOYHxuVriZYpdS4tAXG0yIpYFZ2ImbECqtvenxaTwBEyEwFaW9K68fySAdEjXpli8iwmKqXE//sMjZRqCncEfT1erAKC8OUDm6MuMa1DlNEolazS6asdOnDnrIKHsjdV5QPPZ0U4eeHpKwU2ETQ6/pWQyQd0fzqAnH8l1+EtHh/xbQmA9v48uGC+FldOhEiqYHdggLeO01GfBNEZl6rBKTDI9sjUblE4AtfiGa4z7GS9kazTPq3XgsCFqBva1j+8jkXC53/yT0xUtIM3CY7ipn2o130NLBY3fAvmmzNrhnF9/lna8sg3Aj2B7PghfHlYYroznkx7eFHzNU0nw0T+yKkvxLYjM8ugKxk=;OsC+8OVGu2wpLjhFHKXa6g=="
+secured: "Pt6MHN8VhUDVWY4UkKHmGuAwKKZymIa1pEN74zHTlk1Vp0AHL+q0iWYykZ61HRB3Z2KREYAkTk7kJW84YjEIiVn2sc9OCX/pjVouRMmAAiGBG+P8vrvFO1+w2GGWrhsh8SM4dP5fnrAM+3CNxOG35iatDc6v1sXX0rVrSLLyuecS+qIrxpwieo7r4sATOvya7u7Q9KCetrdnPIJuu3hZdAxGyPOF22WyWVcEPn0WCiArqaHTbATesnuqaxV7aH7u7lDO2CP8PSfENTWJv4VGRMEvMHvLDWkBHoFBEKMpwA4xhCk6MVXH5b/SQx/hLQNHpEZ0ZchL6b/X0F8bKvqzXGiq0fh1mh/m+Fyu7wYM1lQ=;qp3rYPourEpps2vj+ht/UA=="
 ---
 

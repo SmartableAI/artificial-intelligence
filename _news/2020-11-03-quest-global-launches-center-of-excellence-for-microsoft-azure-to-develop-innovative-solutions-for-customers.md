@@ -1,28 +1,28 @@
 ---
 category: news
 title: "QuEST Global launches Center of Excellence for Microsoft Azure to develop innovative solutions for customers"
-excerpt: "QuEST Global, a global product engineering and lifecycle services company, today announced it has signed an agreement with Microsoft to launch a dedicated Center for Excellence (CoE) for Microsoft Azure."
-publishedDateTime: 2020-11-03T12:23:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-1029758272"
-webUrl: "https://markets.businessinsider.com/news/stocks/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-1029758272"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-1029758272"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-1029758272"
+excerpt: "QuEST Global, a global product engineering and lifecycle services company, today announced it has signed an agreement with Microsoft to"
+publishedDateTime: 2020-11-03T11:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-301164875.html"
+webUrl: "https://www.prnewswire.com/news-releases/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-301164875.html"
 type: article
-quality: 65
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Want To Infuse AI Into Your Apps With Minimal Effort? Try Microsoft Lobe"
@@ -86,6 +86,6 @@ related:
         height: 600
         isCached: true
 
-secured: "QhtdPV6lDvHI7OczOG6FE5wgI9zjx2jj6eX1gL1wADn+CKSPGfahrhaMTUR5L3nk22WuU++JOqLwiUgEvGTMd1bowuyWNyTpjOZ8ZVMfMQuyZ7TZPFEgyGwE+EccEW9TrvxvaTUaSPmhbZhPDMER0vpy0py/3jGicRKc0tnY+5lWJivGON3PUsicU730wPbyJ8WNY5eMk/7hqdRssRsrMzZfBBmFUvVeR0bxBE+o/CMRwu3DXx7/Mcgd+UyQlNmK7rZfSHwpl62Tr7i+TTU0fVjTM0AEL4m9+i+6jiZHHk7i6wGhW+U65vJqWDKyl9U5Y44uvLJZK2ZCQSv6Bb3yxA6bt3sW4IZU4SVUNfueLps=;dUuXnUxcaCBlQ/rg4gWw+Q=="
+secured: "ZmzV3qskl6ACjX2Rv2JTbiQuUqxi5xcDh9glbSujHKMC85bwQXY6lkHRhdiOwFc6mXZ9STTx3E0nV10oVi3ebTd5B41NKS8DkGLNJgwMQ2ONm+jezsaZh4rbsJP7GbmmExSnJWz7no0q2lbDyXIefSSKvUeMp/0HrtlsQMWR71y741E0zNX6LJlI4UidqdboNgswl+2hg47v9rELqo5zo7/wQXGa8T+sfwCFYgHMGfBbffrgDz7XgCZwxp+rrmJxxpdu6NLwKJRrElWgHODwwrdQnLZOEstG9jqBqwbVAHJMTVwU3cV+UtGRDyA3pWTG2mO9OBPj/Z8h55NMJ6JQ+G0iN4OE1Tl8AF31pkg7ELA=;2CNFhQ1+p0d1Gj/2vKFeNA=="
 ---
 

@@ -58,17 +58,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "QuEST Global launches Center of Excellence for Microsoft Azure to develop innovative solutions for customers"
-    excerpt: "QuEST Global, a global product engineering and lifecycle services company, today announced it has signed an agreement with Microsoft to launch a dedicated Center for Excellence (CoE) for Microsoft Azure."
-    publishedDateTime: 2020-11-03T12:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-1029758272"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-1029758272"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-1029758272"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
   - title: "Microsoft & Others Catalog Threats to Machine Learning Systems"
     excerpt: "Thirteen organizations worked together to create a dictionary of techniques used to attack ML models and warn that such malicious efforts will become more common."
     publishedDateTime: 2020-11-03T00:32:00Z
@@ -82,6 +71,20 @@ related:
       - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
         width: 600
         height: 600
+        isCached: true
+  - title: "QuEST Global launches Center of Excellence for Microsoft Azure to develop innovative solutions for customers"
+    excerpt: "QuEST Global, a global product engineering and lifecycle services company, today announced it has signed an agreement with Microsoft to"
+    publishedDateTime: 2020-11-03T11:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-301164875.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 35
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "14Li1OwgPKV+p0rmHmoKpL5tmyU2FT32AkeLTTyRRpvTVqcVNCbmQocT9QqHoNoAp0j4JV6D7n5zlUxdJ+/NGoAWtsB1SHnP221GM0kHElsGWR/yzc2AUy/469+t8yvvhp3ASqKrDoJI8AjiQ79WsBxbN2huzXFqq+qyoiIjMwHur3V+bfNELriqaPLue2DFWCUJDx5KNQHnoyN9zT+OHgT8pLeZgCCW5/VbJKVx3MYMKLY+Qx8NuaIJrEUGaoQNXjVTVuO2cpqBC1HWIvaAszyf1ZnkS2F9UW0oZaMJJHPuq0/YmojiMQ7w3AOG8rCAqvRdZmOngJMMW3EIg64EJ948hhUSXC4pDd9pGgZQpwVnLrFpFj9Pkut2NKRhtuNfkm3JyE3wJZkF1yEknYM7wNFFwHkvLDLbWRCHgxvDFgZvYq9l3Ka1sqxNfYe60PvNclUjL1bXa+fX/cixT6Vcsv7fiaJzgQX4mD1iiwBBxmRuDddMvU5tqKBnPPH8Dc1bzibB9guqtbHM//jLY6R7gQ==;OhNS8biIt/JxiB3f6AQtkg=="

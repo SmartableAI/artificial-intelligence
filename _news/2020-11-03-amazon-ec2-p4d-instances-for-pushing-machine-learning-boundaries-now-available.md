@@ -3,13 +3,13 @@ category: news
 title: "Amazon EC2 P4d instances for pushing machine learning boundaries now available"
 excerpt: "Amazon Web Services (AWS) has announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) P4d instances with EC2 UltraClusters capability. The cloud giant has touted the offering as the next generation of GPU-powered instances for providing the best performance in machine learning training and high-performance computing (HPC) in the cloud."
 publishedDateTime: 2020-11-03T00:34:00Z
-originalUrl: "https://www.zdnet.com/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/"
-webUrl: "https://www.zdnet.com/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/"
+originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/"
+webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/"
 type: article
-quality: 80
-heat: 90
+quality: 82
+heat: 92
 published: true
 
 provider:
@@ -21,8 +21,9 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
+  - AWS AI
   - AI
+  - Machine Learning
 
 related:
   - title: "AWS Announces General Availability of Amazon EC2 P4d Instances with EC2 UltraClusters Capability"
@@ -40,6 +41,6 @@ related:
         height: 627
         isCached: true
 
-secured: "LGSEGPXENoBmJ0D4xkfPfqpluX5oKWPCCea+boUEDn0DZh4k5nZuIrzIMvoS8+JZv5he98yq2VNtpIVUKHMSObI44v2ti+RyFvJemNseOi51SCA/xaUyERyH3yQEtpcpKUtFt4z4l8ZGspO7WKcbpTuoQ031G9sPm0XKRjurcQeZd+GqzVOL4VpYPm1a+QZhEeFmKhNz2flgfjJs8l/vB4oY3q0hVg231pxfDLgkaNukabYuQkySVJcRZwLoYO2X6oImzV8Toeq/cFYmjLwHdVqS0Zo0okzOc3MomWYwxGhSlb1OIqCVZVVklcLrKbIsfOSv/IDrXEr7w+j2hwN8GLoPQ1pVtxX+c9I9OD21nOAHiqg/W3zCbvBkbglAz/PaJz9POchqSviRAZIZw7HatsHfx+6ZdgxAXmVWWqY4q1tLW9KTzIx3H9r71xKwPYf3L8jAhjTd0EFeuKUaMoL01fmvsxKwG8y57D5yzGdTBbB4HRCO9jPhWtVCEFd7IoxudrTzmehgiM1xAt1DUTVZDg==;+yvRcRWLo9r/eEfN8vuhwg=="
+secured: "Tfr669E3KXa+nQdjnj24hgmzPmCDycCM6cDbXgCx+U0DN85leqqiVCRwLUesaXgPHX2hBENxpJk4aCi2Nq9kezacnbq1GPQcXVYmm00gl4JiB0R7isadupSPtJouEIy75lwaRxxRB7NwfevOzvSO0RvLN2hJjrVWaMaYGapf4sWXFrP2ZKHs13Oj/THTQsDZFDUVJWm1v38WkYPmvPtUpLKwUWdm+QVT84Nq2VOb9vKE0gh6+hc0hA9AcL45BONt3G8W+rL3E9b6P/lnkibHFnbBj4kkuELU/JCXVzeenu15Pt1r/Qzy9r1OGEWItukOExscXfiGGFW+q5d3xQPwsOWngam2rl6cV8+FaQwVFNV6AJBVrI2p3SzaKnaHYdXr6Y7iIhwJBHWDtA0f9O59kJYGhy7xXg2mo6oMpbd9/PDZnv6RRYXkgwsrZ8877S93zwyJMpDZjY0IZnFuU379PMX+7KD7ntD5SEVVeDFNXaupdY6stIPULGVBd4qOFRAeA8OkCbr5HP+K18R+XCa0HQ==;YyVzvRPI3x5HGVApC65tww=="
 ---
 

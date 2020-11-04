@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 878
         isCached: true
+  - title: "AMD Instinct MI100 CDNA Next-Gen GPU Based Accelerator For HPC Launching This Month, Indicate Leaked Documents"
+    excerpt: "AMD’s powerful Instinct MI100 accelerator is rumored to launch this month. Documents confirming the official arrival of the next-gen CDNA-based GPU"
+    publishedDateTime: 2020-11-04T00:56:00Z
+    webUrl: "https://appuals.com/amd-instinct-mi100-cdna-next-gen-gpu-based-accelerator-for-hpc-launching-this-month-indicate-leaked-documents/"
+    type: article
+    provider:
+      name: appuals.com
+      domain: appuals.com
+    quality: 19
+    images:
+      - url: "https://cdn.appuals.com/wp-content/uploads/2018/09/bx6egdy0.jpg"
+        width: 1012
+        height: 383
+        isCached: true
 
 secured: "EJhU/TxKPjeN/asBaY18CerxzscA5WXTIphYLngB5D55sFOHIHpKleJrXQk+oapK8bDE92Wt72lgPqmTlZt4oXOBTPdHkKppjQqHjpfGQcFY1FtbhyICpQlIdygScbEsvhEL7ZYxHPmbK9AnPqr7pKHKqCdWMTHNF0IIdcF/fVb+JL3MPD3uOYmg0HM39mptftW3tpvkn/S5k6JvT3+H5dP0lYsgBKpYF0dGS4atF4D00qh1SRW4cUXqZu6JYPM0hjsD3sWVy4NthPNXiEoujJoaxG/w3YA88eYN/rIDQwQfALf378WqBqO/2562upJA3rA6cXM+dMv8UDUJYxwCqP9SyCIb/qG93nFSVxIoVz3ux3bSnjLzmdxLZhF+QbIL6mREfAgyhxGnbwYzJxPBv6WPjyln2YHZiODgbsld3d6IWnH6VU/TF4h/uqtGQrYTOIDThv1ZGDMLR1EWnNtgY9LotnNAMQx0iB0xnCU9OEIaQJ/1qjsz5EXLQ/Pahavo9QSb3rHfvfO79nfCkmb15Q==;j3WGB90oIQWfqkljzniMhg=="
 ---

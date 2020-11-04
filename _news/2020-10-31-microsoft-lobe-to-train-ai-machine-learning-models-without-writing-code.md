@@ -44,17 +44,6 @@ related:
         width: 1000
         height: 666
         isCached: true
-  - title: "QuEST Global launches Center of Excellence for Microsoft Azure to develop innovative solutions for customers"
-    excerpt: "QuEST Global, a global product engineering and lifecycle services company, today announced it has signed an agreement with Microsoft to launch a dedicated Center for Excellence (CoE) for Microsoft Azure."
-    publishedDateTime: 2020-11-03T12:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-1029758272"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-1029758272"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-1029758272"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
   - title: "Large-Scale Multilingual AI Models from Google, Facebook, and Microsoft"
     excerpt: "Researchers from Google, Facebook, and Microsoft have published their recent work on multilingual AI models. Google and Microsoft have released models that achieve new state-of-the-art performance on NLP tasks measured by the XTREME benchmark,"
     publishedDateTime: 2020-11-03T14:10:00Z
@@ -82,6 +71,20 @@ related:
       - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
         width: 600
         height: 600
+        isCached: true
+  - title: "QuEST Global launches Center of Excellence for Microsoft Azure to develop innovative solutions for customers"
+    excerpt: "QuEST Global, a global product engineering and lifecycle services company, today announced it has signed an agreement with Microsoft to"
+    publishedDateTime: 2020-11-03T11:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-301164875.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 35
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "v3iVh6/YaN785lT3KCkX4XXrDTVAELu/DULxDXldnCfCvFTrxYPtV+ATpiTv0zHJD8/MCBORZYc5osqhX8+mKDUY7OjaB3ofI5bFvol2C4EXki0pchdAHERbsjgRfZUBPFXxx44QUdn7NMLZEMo2xTgiGFeVObA1XvrLz2NNeA7SjGiMnTRKCPHXBo2O0rRw9mTE2zX4E9RAj9q7GsfU8lRkm8iZBxmXHxS93ujxyBHMUAzfCvVJChDxKXlwxbyoPH3APkW7oD0yfVMbqiU+1MxBR1lcxvI7qWELDCUMPucxx4FmJfcUAGXWy2hd2obzaHBtbOFvDqPokQjpEZkORhH2nYmipDHvGp/Xna/DKbSdMtbA/LmBlzf7hlSOM13qWB1upAyGIgXt7tOVGZXnA3P9zGtbKS1pIGvOfBA2lyjMmGU8YrhLk/zNqb97W9oRN1syAekmXdEDO7HdDrGgEKsfQ6HLCRbnnQ/C9UoXFlGewwXjO8DjKHF43ShusNQkCLGUeuLMkEdrzYUbrbwU1w==;NFuROnRbcAUEKNcQNh5q+w=="

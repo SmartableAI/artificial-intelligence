@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindubusinessline.com/info-tech/ai-led-recruitment-pl
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ai-led-recruitment-platform-turbohire-raises-1million-in-seed-funding/article33002585.ece/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Business Line
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "US Based AI Marketing Cloud Startup Pyxis Raises $7 Million in Series A Funding"
-    excerpt: "Pyxis is a unique AI-led marketing cloud start-up headquartered in the US with an office in Bengaluru, India. The start-up has several innovative tools that provide a robust platform for creative automation and actionable marketing research analytics."
-    publishedDateTime: 2020-10-30T06:26:00Z
-    webUrl: "https://www.nyoooz.com/news/bengaluru/1519693/us-based-ai-marketing-cloud-startup-pyxis-raises-7-million-in-series-a-funding/"
-    type: article
-    provider:
-      name: nyoooz.com
-      domain: nyoooz.com
-    quality: 50
-    images:
-      - url: "https://www.nyoooz.com/df-images/bengaluru/df-bengaluru-4.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Startup Skan Secures $14 Million Through Series A Funding Round Led By Cathay Innovation"
     excerpt: "Skan, the AI-enabled process discovery and operational intelligence, recently announced it secured $14 million through its Series A funding round, which was led by Cathay Innovation with participation from Citi Ventures, Zetta Ventures, Bloomberg Beta ..."
     publishedDateTime: 2020-10-31T02:27:00Z

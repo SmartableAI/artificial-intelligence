@@ -8,8 +8,8 @@ webUrl: "https://www.catholicnewsagency.com/news/pope-francis-pray-that-robots-a
 ampWebUrl: "https://www.catholicnewsagency.com/amp/news/pope-francis-pray-that-robots-and-ai-always-serve-humankind-79125"
 cdnAmpWebUrl: "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/pope-francis-pray-that-robots-and-ai-always-serve-humankind-79125"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.catholicnewsagency.com/images/Crucifix_Lars_Hallstrom_via_shutterstock_CNA.jpg?w=375&h=250"
@@ -26,6 +27,6 @@ images:
     height: 250
     isCached: true
 
-secured: "BwR6QuCJydfVge/mT25ey3hWMHvb/sBxxz+9OE3I1jM/GDj5QoJN7o8Mw0yOj1s5C3PHszdOcBZRP0vLtef04mHQAvlnz5O559rKc6dF1/ufDVYd/PgKWDxCYjpy0x60tN8qwc3CojiMxOIH0OWzY5j3PkOcCk87ZJ2STnMiAQxdkMd5vyf1MP/5HnEXAGi+YOWv7GlRfV/8BBUe+/JLzL722XYd6ypRfVpXsHORr8bRJETJcXY5oMCpU/uNO6p/5LDVpORguzJLa60zuv3P0bwD30o9/1tIGozWFiDVaKQ9lRo7BYmV6Uge+7pGDwA79BwjFp0zzftvcHXdxMz+e5uRm+Obu+K07O6+FGlXvxw=;fgjFfZG7ERusa2R0ZJqFgA=="
+secured: "RLlHF00ZFJ4o4mcXRswmFXRHvaqXnHl9W7eBuHOaiOviyyCu9IMY3wx8Oi/0+C/ZbUaHAs7Uf42f1/4uQm65ua5NeBaX6bk+lYV6vROMX1Y05fNx4DrPuCbnQtPXZkgdcQHdoZZz6odzB34Li3IES/3G9gAVYyb27HjFVCjZ2cKLRFwbJh9WpBrRXXhkFjiChc6b3HPHOB/ngkW6RmQD+KBbytnzHLYqFmCik7UznJul1h6kX3kqX7Pf1QexAcg36D3E8GCpLJzIJO/F/qo7DXJ2GMbcaZsA6HZE2XMvZhf86fXeJhku0WqaG6YuZExR14iDmU2BDT1qgDtCCQIOFTsCNF44Zw5BJS+rR2h444WiZY57iK9eShhQM2yjLB26zqntn/XqdAuEl5NA7uDAtKEjnlgWlwZ7lOmyjQpmfBGCDzqZMgWgfqeQ4E86FiqyXRShG3kHMgrEADRgtUxCZY/sE8fwZbcVQxd3xC1hHYYu9w4qCXDXFVakCc32EEifBK80PaNCjcGjxOJH2FSAyQ==;ePvIz6qR/HY2lbDIT0zotQ=="
 ---
 

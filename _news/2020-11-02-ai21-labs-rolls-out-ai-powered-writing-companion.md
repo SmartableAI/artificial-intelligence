@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geektime.com/ai21-labs-launches-writing-add-on/amp/"
 cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/ai21-labs-launches-writing-add-on/amp/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -19,19 +19,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "AI-Powered Trading Platform Tickeron Releases New Swing Trading AI Robots"
-    excerpt: "Tickeron, an artificial and human intelligence platform delivering unparalleled trading insights and analysis, has released several new swing trading robots as part of their groundbreaking AI Robots feature."
-    publishedDateTime: 2020-10-30T07:55:00Z
-    webUrl: "https://www.finyear.com/AI-Powered-Trading-Platform-Tickeron-Releases-New-Swing-Trading-AI-Robots_a43087.html"
-    ampWebUrl: "https://www.finyear.com/AI-Powered-Trading-Platform-Tickeron-Releases-New-Swing-Trading-AI-Robots_a43087.amp.html"
-    cdnAmpWebUrl: "https://www-finyear-com.cdn.ampproject.org/c/s/www.finyear.com/AI-Powered-Trading-Platform-Tickeron-Releases-New-Swing-Trading-AI-Robots_a43087.amp.html"
-    type: article
-    provider:
-      name: FinYear
-      domain: finyear.com
-    quality: 53
 
 secured: "qPvII0KV19wfkdTsrMCUBLTdzWI+RH3kMzAEoLmgyAgohYBg6KrCPewwzmUA0Wl5YYHX/YPWM/jotJb+xtju57l6EZyCwWkzYb92PDkBcDfOkND28K5hSEnmo7HE1rT/ToJL198CvRdk8cVZgohHbjl3703g4uQ7het+PcIetBTo3q0ODZ1qw/6zZ1vvmm/OHaolsp6Gx3ndH9MEfeEeaUxSIha9D9O0MAx3JfpxbsC0Vx+nD6jFJC9qMj5jIKWfCxSXw8V7rnLwxpebWg2wNqoExfI5ph5kRa7P308z0PbJSFPEAsEUHEFCMAJ1NlcDFqxOSNeQdI66232od2KWl5zexRYnq36HvH5/QBCXwS0plr2TOy3fFfGdI3nHrGO8k1UAXHSs2Q7fegGzIFSbtXR+pxl0Qja1aWY/8SAmkGMVusPXfvnOuQrFy75wlSdczWEzhzUfUQUdxAfnzLzQxFU9ZazbrkwO/SHyj+Zxi3NP6pBFQ+vZW2p6zRlyK0VbWcFQbB8HfV/9+VZTA3gwMQ==;44w7hBYw0rTnora+mdgkGg=="
 ---

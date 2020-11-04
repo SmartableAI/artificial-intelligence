@@ -100,18 +100,18 @@ related:
         height: 275
         isCached: true
   - title: "Waymo pulls self-driving cars in San Francisco as cities nationwide brace for unrest"
-    excerpt: "Waymo, the self-driving company of Google's parent company Alphabet, has suspended its self-driving operations in San Francisco as businesses and cities brace for potential unrest following the presidential election."
-    publishedDateTime: 2020-11-03T20:53:00Z
-    webUrl: "https://www.kctv5.com/waymo-pulls-self-driving-cars-in-san-francisco-as-cities-nationwide-brace-for-unrest/article_b03cae60-5289-57e5-84d9-f4a6c5a8c497.html"
+    excerpt: "Waymo, the self-driving company of Google’s parent company Alphabet, has suspended its self-driving operations in San Francisco as businesses and cities brace for potential unrest following the presidential election."
+    publishedDateTime: 2020-11-04T00:52:00Z
+    webUrl: "https://keyt.com/news/money-and-business/2020/11/03/waymo-pulls-self-driving-cars-in-san-francisco-as-cities-nationwide-brace-for-unrest/"
     type: article
     provider:
-      name: KCTV News
-      domain: kctv5.com
+      name: KEYT
+      domain: keyt.com
     quality: 32
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/custom/image/fd7ea874-0ed9-11eb-b9d4-0ff2ed620326.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://keyt.b-cdn.net/2020/03/keyt-biz-and-tech.png"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "/AUx9IA+xI6Xw0y2qGlP89BhiUq8OTx8a4G/TrpFNxcUHlCwCxrtpH7N5S2a+J70TpznGHF48pBDIQZ6e+ZyFYaaJEc9zoKQr6gMrd1kcijf2zqGfQ8o7zHyYv4FbMJKU5SvRF82DuNtxL6D6eRLT+KsfycuBca7avABvv0cRz8bZfr27Ec9iBYtE6On1gsGmsYTJUtUa1jZaRGbL6Qoqexy+A1VnEDV3Ijg8XnuW9iy9PGZxUsRx39w+iLyNc0rO8MslYOi3Xw5uyvKmE09U99aZQ8M5kKZHdRxcQr7rMsc5+bj71J0pkTh/0Z42vL+/JC7llPj9mbbOif/cukRjz9txtFqZY6yrVN5OaQJh01GPugchBp0mtvtBGUgJ5lVB2HakBYDx8pe5W3z2rPtOuw2ESZLKrXqh79MqFvOwa8uijazqVBNXJYZCYXBhv9FnvFNmX+HmtG1A9P4NjGwXDOKR3VSyVCUmNckPbTztKfwQCjFeyYjzidzPPFvGZMaiKzZM8Z7dfgYED1+WEgTQQ==;tIpWWWtMG1PdBKaJdZdDHg=="

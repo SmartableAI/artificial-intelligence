@@ -2,6 +2,144 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-29-otterai-announces-zoom-live-video-captioning-to-enhance-virtual-collaboration.md",
+      "title": "Otter.ai announces Zoom live video captioning to enhance virtual collaboration",
+      "excerpt": "The company notes that this feature could reduce the risk of workplace miscommunication and increase telecommuter productivity and inclusiveness in the remote work era.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/otter-ai-announces-zoom-live-video-captioning-to-enhance-virtual-collaboration/",
+      "originalUrl": "https://www.techrepublic.com/article/otter-ai-announces-zoom-live-video-captioning-to-enhance-virtual-collaboration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/otter-ai-announces-zoom-live-video-captioning-to-enhance-virtual-collaboration/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/otter-ai-announces-zoom-live-video-captioning-to-enhance-virtual-collaboration/",
+      "publishedDateTime": "2020-10-29T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-where-is-artificial-intelligence-now-and-where-should-your-company-be.md",
+      "title": "Where Is Artificial Intelligence Now, And Where Should Your Company Be?",
+      "excerpt": "We are near the end of the hype cycle for artificial intelligence (AI ... AI is about to revolutionize our broken health-care system. Is your company ready for AI? Anyone with deep data claims to be using AI. Credible pilots and use cases have succeeded ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/29/where-is-artificial-intelligence-now-and-where-should-your-companybe/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/29/where-is-artificial-intelligence-now-and-where-should-your-companybe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f32cd286b894b218218c8dd%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/29/where-is-artificial-intelligence-now-and-where-should-your-companybe/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/10/29/where-is-artificial-intelligence-now-and-where-should-your-companybe/amp/",
+      "publishedDateTime": "2020-10-29T05:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-face-recognition-systems-market.md",
+      "title": "Face Recognition Systems Market",
+      "excerpt": "According to Market Growth Insight, the Face Recognition Systems Market is anticipated to reach USD XX billion by the end of 2025 with projected CAGR of XX% over the near future. The report delivers thorough analysis of the key drivers, opportunities ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth",
+      "originalUrl": "https://www.openpr.com/news/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/a/Ta29239767_g.jpg",
+          "width": 750,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth",
+      "publishedDateTime": "2020-10-29T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-sibros-to-accelerate-adoption-of-advanced-vehicle-connectivity-solutions-on-aws.md",
       "title": "Sibros To Accelerate Adoption Of Advanced Vehicle Connectivity Solutions On AWS",
       "excerpt": "Deep-connected vehicle platform Sibros announced on Wednesday its collaboration with Amazon Web Services (AWS) to accelerate the adoption ... diagnostics and artificial intelligence (AI)-powered analytics. The company also securely manages all in-vehicle ...",
@@ -1079,152 +1217,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-hebbia-wants-to-make-ctrl-f-or-command-f-actually-useful-through-better-ai.md",
-      "title": "Hebbia wants to make Ctrl-F (or Command-F) actually useful through better AI",
-      "excerpt": "Deep learning has made tremendous strides in recent years, with new systems and models like GPT-3 offering higher quality interpretations of human language, empowering developers to use these concepts in more diverse applications.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/28/hebbia-wants-to-make-ctrl-f-or-command-f-actually-useful-through-better-ai/",
-      "originalUrl": "https://techcrunch.com/2020/10/28/hebbia-wants-to-make-ctrl-f-or-command-f-actually-useful-through-better-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/Hebbia-Techcrunch.gif?w=680",
-          "width": 680,
-          "height": 468,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/28/hebbia-wants-to-make-ctrl-f-or-command-f-actually-useful-through-better-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/28/hebbia-wants-to-make-ctrl-f-or-command-f-actually-useful-through-better-ai/amp/",
-      "publishedDateTime": "2020-10-28T11:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-grimes-and-endel-made-an-ai-powered-lullaby.md",
-      "title": "Grimes and Endel made an AI-powered lullaby",
-      "excerpt": "Synth-pop artist and Cyberpunk 2077 cast member Grimes has teamed up with mood music startup Endel to create an AI-powered soundscape designed to help you drift off. \"AI Lullaby\" blends vocals and original music from Grimes with personalized sounds that an algorithm in real-time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/grimes-endel-ai-powered-lullaby-174840113.html",
-      "originalUrl": "https://www.engadget.com/grimes-endel-ai-powered-lullaby-174840113.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Ff9846a00-1943-11eb-9d32-9025de2f2370&client=amp-blogside-v2&signature=f9cf7ac75b95c6a09a0c8be6bbb882d306848937",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-microsoft-announces-its-first-azure-data-center-region-in-taiwan.md",
-      "title": "Microsoft announces its first Azure data center region in Taiwan",
-      "excerpt": "After announcing its latest data center region in Austria earlier this month and an expansion of its footprint in Brazil, Microsoft today unveiled its plans to open a new region in Taiwan. This new region will augment its existing presence in East Asia,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/28/microsoft-announces-its-first-azure-data-center-region-in-taiwan/",
-      "originalUrl": "https://techcrunch.com/2020/10/28/microsoft-announces-its-first-azure-data-center-region-in-taiwan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/28/microsoft-announces-its-first-azure-data-center-region-in-taiwan/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/28/microsoft-announces-its-first-azure-data-center-region-in-taiwan/amp/",
-      "publishedDateTime": "2020-10-28T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

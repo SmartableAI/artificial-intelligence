@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itproportal.com/amp/news/aws-launches-new-gpu-instances-
 cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/aws-launches-new-gpu-instances-for-machine-learning-and-hpc/"
 type: article
 quality: 93
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://images.idgesg.net/images/article/2020/05/nvidia-ampere-a100-100842032-large.jpg"
         width: 1200
         height: 878
+        isCached: true
+  - title: "AMD Instinct MI100 CDNA Next-Gen GPU Based Accelerator For HPC Launching This Month, Indicate Leaked Documents"
+    excerpt: "AMD’s powerful Instinct MI100 accelerator is rumored to launch this month. Documents confirming the official arrival of the next-gen CDNA-based GPU"
+    publishedDateTime: 2020-11-04T00:56:00Z
+    webUrl: "https://appuals.com/amd-instinct-mi100-cdna-next-gen-gpu-based-accelerator-for-hpc-launching-this-month-indicate-leaked-documents/"
+    type: article
+    provider:
+      name: appuals.com
+      domain: appuals.com
+    quality: 19
+    images:
+      - url: "https://cdn.appuals.com/wp-content/uploads/2018/09/bx6egdy0.jpg"
+        width: 1012
+        height: 383
         isCached: true
 
 secured: "hBjYeFyITl1JkSruKHG2H4ryDx0SHHDv7uHhbCZclYRohwju9bNTT5S6RjmLuH9TI0JMBR+UTNmB6tK0n2ApokQYcyPZy1WRkc+ANc3B1SaTA4rP9k+eUnriiOMMPNbHtDm5KzSEUnUrI1R7nCo3/V84df+A0HWgN3jOGtaVU8tVTcgkrdC/xESLgtHj4bHPSnzjrHUcp0DJpL5k6GuuWS6AVJVXzNVSJqTwb0cCjGoXZ9pRPY8bcU7AgjpFE4r3mOliQuPb4btjgT07JSK7qV2JqLZesSnhfkC+zL8dRjPVfMGEDv9IQr+Ny60Th/3qgYGzflq+ECTrPauZ47UNp1ZxdFHN0MDIoqcRTXiRhq9HB9PBQ+Xog43Gen2DwrQCQRDsKfh7cmUPjSYbNxjU33WxKQDn39LeIdmUimzoKzlHMjXMsSc5ZE3UIikcbZRdKheFqIHTGkEoawLLzzwbEYhiC1MSKFnMA4ktZFg+On6Zvn0Tm8x5u3A7g6Ia1z8cykUtaqbxFHyuYYk+hEs/PQ==;dSJeJzf70w8pgVVu46tlEg=="

@@ -2,9 +2,9 @@
 category: news
 title: "SoftServe Achieves AWS SaaS Competency Status"
 excerpt: "SoftServe, a leading digital authority and consulting company and Premier Consulting Partner in the Amazon Web Services (AWS) Partner Network (APN), announces it has achieved AWS SaaS Competency status."
-publishedDateTime: 2020-10-27T11:25:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201027005054/en/SoftServe-Achieves-AWS-SaaS-Competency-Status"
-webUrl: "https://www.businesswire.com/news/home/20201027005054/en/SoftServe-Achieves-AWS-SaaS-Competency-Status"
+publishedDateTime: 2020-10-27T12:52:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201027005054/en/"
+webUrl: "https://www.businesswire.com/news/home/20201027005054/en/"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 480
     isCached: true
 
-secured: "mp/sri229k+F+ENkDDM9hkWATYbZmNcK4YKljN+PQTyW+jDVggi4/nTPhnSmFl62kj9CYwJMcIzWQKM6hER5L4sh8ajwaAWj5ug40M7ngKj+l60l+cU8/GfBffRAkzqxgqaiiTRSGMpSzMY78oWoqx+72sZsqj4oUUwfcxVrKFOmO7WiFCtIqH/81IkvWChKkLofUHak+aAk5H4QjEgYyq4QUC5PS6g2xnTNTExQa3B4M90vEIpz795TZUgjxRiy3Lm+zt+G4q0eyr416PIosOKfSOwtsMtNSHM/4n1Boob++EcbMNZjK4c0tqFhDaI7EOZguUluqnlrAMIsb7y67Z3gQPLwZndA3TUP8D+WLng=;YSVwluzeR29RaILDF+EtFg=="
+secured: "u7bRVzcpKsJIFVCqus7JkJ8Pucu7UnVaZ6+bj62ULCYt7ZA8GnufMuYHeMSfoJzjs3OM1GKXyMGreQ6uDv4bVzGlZG0wGq7mHnSsej7bTtpdh1KqXfpxYn7dDzw1Tqje+WOomLmsoi/QIHR0HuPUBSOaGcnGCdR+5ruZHdqLp71MSGT8seiP5o/XjNZpngKU6OUwoDxjXLXF6jYsGCjfWIpe6txplyo8j93aHTYlMSoytDLMsxq5tEFclIeZRhDM/SZYypkwqbFpCBmlIAspoOE0tGPGOKBENG3zUyKp71hZik3To2tD1M7M+IqkkIe6MnP/kULbx1RzVcqUJUK+A6Qih1ow75mh2WKKFtqqfKY=;cCeL2p/TbZHjaBsPx876gg=="
 ---
 

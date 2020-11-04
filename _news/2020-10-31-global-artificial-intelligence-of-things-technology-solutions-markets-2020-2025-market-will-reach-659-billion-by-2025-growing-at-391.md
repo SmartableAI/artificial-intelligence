@@ -24,33 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition market to grow at 12 percent CAGR to 2024, Technavio forecasts"
-    excerpt: "A new report by market research company Technavio has estimated a 12 percent compound annual growth in the facial recognition market between 2020 and 2024. The $3.35 billion increase will be"
-    publishedDateTime: 2020-11-02T20:28:00Z
-    webUrl: "https://www.biometricupdate.com/202011/facial-recognition-market-to-grow-at-12-percent-cagr-to-2024-technavio-forecasts"
+  - title: "Microprocessor and GPU Market expected to reach $138.2 billion by 2025, at a CAGR of 6.1%"
+    excerpt: "Microprocessor and GPU Market” [308 Pages] Microprocessor and GPU Market categrizes the Global market by Application (Consumer Electronics, Server and Data"
+    publishedDateTime: 2020-11-03T22:20:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/ab18198343/microprocessor-and-gpu-market-expected-to-reach-138-2-billion-by-2025-at-a-cagr-of-6-1"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18198343"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18198343"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 34
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 50
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
-        width: 1050
-        height: 591
-        isCached: true
-  - title: "Facial Recognition Market will exhibit a CAGR worth 12% during 2020-2024 | Technavio"
-    excerpt: "Technavio has been monitoring the facial recognition market, operating under the information technology industry. The latest report on the facial recognition market, 2020-2024 estimates it to register an incremental growth of USD 3.35 bn, at a CAGR of ..."
-    publishedDateTime: 2020-10-30T08:11:00Z
-    webUrl: "https://www.oaoa.com/news/business/facial-recognition-market-will-exhibit-a-cagr-worth-12-during-2020-2024-technavio/article_6c58d87d-7061-50fb-a01c-6c306c2eab19.html"
-    type: article
-    provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 32
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/1/be/1bec6827-3d6e-5642-8a5d-0fc634918000/5f9b93ad6b510.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
+      - url: "https://www.marketsandmarkets.com/Images/micro-processors-market7.jpg"
+        width: 650
+        height: 412
         isCached: true
 
 secured: "bFkayG5dhNwBX4BTje17xTdsakTPlki6AC+6r2TS7+VR2x82L4PUpXAoEZp2vFLPwDzngQsv/KozS6041XsBIMIxf5fBfpPj3X67TxVPNcMpbCs24tTdcmXnRddG2UJk4cy27iUsO/50E0ye5svFUEMOQcsz7nwh/tFL1KX2em/omv5SfeuVAZdkbSKC4prUVT1QdxhGDYdxMKZEBHFEa2SWEjuWsVoCYT/9kpUSaxYSngrpU87RbuX8mUShxZtvpZCBVCjJfylbLFWZcyaPDeXWqESiLO2quNBfjj+eTBGU8sROS1uMpnRNtfjJ15ybhagF9F3bxwSpHQUMB1DgF4EgNrX0o0/Zkc227oNrU4Y=;iDcX0640hBsEzdpmydR8hA=="

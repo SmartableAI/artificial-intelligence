@@ -152,6 +152,22 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "AI can detect COVID-19 from the sound of your cough"
+    excerpt: "The AI model correctly identified 98.5% of people with COVID-19 ... Similar projects are underway in Cambridge University, Carnegie Mellon University and the U.K. start-up Novoic, according to BBC. \"Pandemics could be a thing of the past if pre-screening ..."
+    publishedDateTime: 2020-11-03T22:02:00Z
+    webUrl: "https://www.livescience.com/asymptomatic-coronavirus-detection-ai.html"
+    ampWebUrl: "https://www.livescience.com/amp/asymptomatic-coronavirus-detection-ai.html"
+    cdnAmpWebUrl: "https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/asymptomatic-coronavirus-detection-ai.html"
+    type: article
+    provider:
+      name: Live Science
+      domain: livescience.com
+    quality: 57
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/XhqqcavxbCtM3FgYZJSfdd-1200-80.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI can detect if you have coronavirus by listening to the sound of your cough"
     excerpt: "Researchers have developed a new artificial intelligence (AI) system which they claim can detect coronavirus by analysing the sound of people coughing. Scientists at Massachusetts Institute of Technology (MIT) said the AI works because  the virus causes temporary neuromuscular impairment which can cause small differences to people’s speech or the sound of their cough - even if they have no other symptoms."
     publishedDateTime: 2020-11-02T08:51:00Z
@@ -215,7 +231,7 @@ related:
     provider:
       name: Analytics
       domain: healthitanalytics.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-516323432.jpg"
         width: 683

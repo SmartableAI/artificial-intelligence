@@ -42,15 +42,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Market Analysis Reports Revenue Growth Globally During The Forecast Period 2020-2023"
-    excerpt: "Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End User (Security, Manufacturing, BFSI, Healthcare,"
-    publishedDateTime: 2020-10-30T08:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2020-2023-2020-10-30"
+  - title: "AI In Computer Vision Market:Global Industry Analysis By Development, Size, Share And Demand Forecast From 2020 To 2023"
+    excerpt: "AI In Computer Vision Market Research Report by Component (Hardware, Software), Vertical (healthcare, security,"
+    publishedDateTime: 2020-11-02T01:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-marketglobal-industry-analysis-by-development-size-share-and-demand-forecast-from-2020-to-2023-2020-11-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

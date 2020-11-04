@@ -2,6 +2,153 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-03-amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available.md",
+      "title": "Amazon EC2 P4d instances for pushing machine learning boundaries now available",
+      "excerpt": "Amazon Web Services (AWS) has announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) P4d instances with EC2 UltraClusters capability. The cloud giant has touted the offering as the next generation of GPU-powered instances for providing the best performance in machine learning training and high-performance computing (HPC) in the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
+      "publishedDateTime": "2020-11-02T16:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-the-work-problems-i-wish-ai-could-solve.md",
+      "title": "The Work Problems I Wish AI Could Solve",
+      "excerpt": "What about a system that automatically rewrites incoming emails to eliminate your co-workers’ unhelpful quirks?",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/the-work-problems-i-wish-ai-could-solve-11604341974",
+      "originalUrl": "https://www.wsj.com/articles/the-work-problems-i-wish-ai-could-solve-11604341974",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-253446/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/the-work-problems-i-wish-ai-could-solve-11604341974",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-work-problems-i-wish-ai-could-solve-11604341974",
+      "publishedDateTime": "2020-11-02T15:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-alphabets-project-amber-leverages-ai-to-identify-brain-wave-data-relevant-to-anxiety-and-depression.md",
+      "title": "Alphabet’s Project Amber leverages AI to identify brain wave data relevant to anxiety and depression",
+      "excerpt": "Alphabet's X lab developed hardware and software that attempted to diagnose depression and anxiety from brain wave readings.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/02/alphabets-project-amber-leverages-ai-to-identify-brain-wave-data-relevant-to-anxiety-and-depression/",
+      "originalUrl": "https://venturebeat.com/2020/11/02/alphabets-project-amber-leverages-ai-to-identify-brain-wave-data-relevant-to-anxiety-and-depression/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ai-brain.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 595,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/02/alphabets-project-amber-leverages-ai-to-identify-brain-wave-data-relevant-to-anxiety-and-depression/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/02/alphabets-project-amber-leverages-ai-to-identify-brain-wave-data-relevant-to-anxiety-and-depression/amp/",
+      "publishedDateTime": "2020-11-02T12:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-independent-research-firms-position-ibm-as-a-leader-in-managed-security-services.md",
       "title": "Independent Research Firms Position IBM as a Leader in Managed Security Services",
       "excerpt": "PRNewswire/ -- IBM (NYSE: IBM) announced today that the company has been recognized as a Leader in three market",
@@ -475,7 +622,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/358890",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -805,48 +952,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-02-ai-led-recruitment-platform-turbohire-raises-1million-in-seed-funding.md",
-      "title": "AI-led recruitment platform TurboHire raises $1million in seed funding",
-      "excerpt": "Hyderabad-based AI-driven recruitment platform TurboHire has raised $1 million in seed funding for its disruptive solution that enables recruiters to hire better quality candidates at reduced costs, m",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/info-tech/ai-led-recruitment-platform-turbohire-raises-1million-in-seed-funding/article33002585.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/info-tech/ai-led-recruitment-platform-turbohire-raises-1million-in-seed-funding/article33002585.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/info-tech/i1qae4/article33002584.ece/ALTERNATES/LANDSCAPE_615/BL02STARTUPFUND",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/ai-led-recruitment-platform-turbohire-raises-1million-in-seed-funding/article33002585.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ai-led-recruitment-platform-turbohire-raises-1million-in-seed-funding/article33002585.ece/amp/",
-      "publishedDateTime": "2020-11-02T01:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-02-halodoc-uses-ai-to-improve-how-doctors-receive-feedback.md",
       "title": "Halodoc uses AI to improve how doctors receive feedback",
       "excerpt": "Due to Indonesia’s vast size and population, timely and reliable access to healthcare can sometimes be a challenge. Halodoc aims to change that with a mobile first-telemedicine platform that connects Indonesians to doctors and helps them arrange appointments, medicine deliveries and tests. What’s distinctive",
@@ -1102,101 +1207,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-amd-will-share-more-info-on-radeon-rx-6000-gpus-ray-tracing-and-ai-supersampling-tech.md",
-      "title": "AMD will share more info on Radeon RX 6000 GPU’s Ray Tracing and AI Supersampling tech",
-      "excerpt": "AMD’s Frank Azor just confirmed that AMD will provide more information about ray tracing and AI super sampling tech before the RX 6000 launch date.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dsogaming.com/news/amd-will-share-more-info-on-radeon-rx-6000-gpus-ray-tracing-and-ai-supersampling-tech/",
-      "originalUrl": "https://www.dsogaming.com/news/amd-will-share-more-info-on-radeon-rx-6000-gpus-ray-tracing-and-ai-supersampling-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dsogaming.com/wp-content/uploads/2020/09/AMD-RDNA-2-temp.jpg",
-          "width": 1260,
-          "height": 709,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dsogaming.com/news/amd-will-share-more-info-on-radeon-rx-6000-gpus-ray-tracing-and-ai-supersampling-tech/amp/",
-      "cdnAmpWebUrl": "https://www-dsogaming-com.cdn.ampproject.org/c/s/www.dsogaming.com/news/amd-will-share-more-info-on-radeon-rx-6000-gpus-ray-tracing-and-ai-supersampling-tech/amp/",
-      "publishedDateTime": "2020-11-01T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dark Side Of Gaming",
-        "domain": "dsogaming.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-facebook-research-is-developing-ar-glasses-that-help-deaf-people-hear-better.md",
-      "title": "Facebook research is developing AR glasses that help deaf people hear better",
-      "excerpt": "The research lead for Facebook’s Hearing Science lab tells Digital Trends about the exciting possibilities of AR glasses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/features/facebook-ar-glasses-deaf/",
-      "originalUrl": "https://www.digitaltrends.com/features/facebook-ar-glasses-deaf/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/facebook_hearing_ar3-1200x630-c-ar1.91.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/features/facebook-ar-glasses-deaf/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facebook-ar-glasses-deaf/?amp",
-      "publishedDateTime": "2020-11-01T08:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-21-activists-turn-facial-recognition-tools-against-the-police.md",
+      "title": "Activists Turn Facial Recognition Tools Against the Police",
+      "excerpt": "met virtually to consider sweeping legislation outlawing the use of facial recognition technology. The bills would not only bar the police from using it to unmask protesters and individuals captured in surveillance imagery; they would also prevent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/10/21/technology/facial-recognition-police.html",
+      "originalUrl": "https://www.nytimes.com/2020/10/21/technology/facial-recognition-police.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/21/business/21coprecognition-01/21coprecognition-01-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/10/21/technology/facial-recognition-police.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/21/technology/facial-recognition-police.amp.html",
+      "publishedDateTime": "2020-10-21T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-global-computer-vision-market-2020-to-2026-by-product-type-component-application-vertical-and-region-researchandmarketscom.md",
       "title": "Global Computer Vision Market (2020 to 2026) - by Product Type, Component, Application, Vertical and Region - ResearchAndMarkets.com",
       "excerpt": "The \"Global Computer Vision Market by Product Type, Component, Application, Vertical and Region: Industry Analysis and Forecast 2020-2026\" report has been added to ResearchAndMarkets.com's offering. The Global Computer Vision Market size is expected to reach $17.",
@@ -1393,49 +1445,6 @@
         "Computer Vision",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-roborocks-s6-maxv-robotic-vacuum-cleaner-has-two-cameras-and-a-really-smart-ai.md",
-      "title": "Roborock’s S6 MaxV robotic vacuum cleaner has two cameras and a really smart AI",
-      "excerpt": "It features the advanced ReactiveAI obstacle avoidance technology that has been trained using thousands of images that helps it recognize objects as small as 5cm in width and 3cm tall, even animal ...",
-      "sourceUrl": null,
-      "webUrl": "https://pocketnow.com/roborocks-s6-maxv-robotic-vacuum-cleaner-has-two-cameras-and-a-really-smart-ai",
-      "originalUrl": "https://pocketnow.com/roborocks-s6-maxv-robotic-vacuum-cleaner-has-two-cameras-and-a-really-smart-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pocketnow.com/wp/../files/2020/06/roborock.jpg",
-          "width": 1500,
-          "height": 929,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pocketnow.com",
-        "domain": "pocketnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

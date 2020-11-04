@@ -7,7 +7,7 @@ originalUrl: "https://www.retailcustomerexperience.com/news/canada-mall-operator
 webUrl: "https://www.retailcustomerexperience.com/news/canada-mall-operator-cited-for-consumer-privacy-violations-removes-facial-recognition-cameras-2/"
 type: article
 quality: 8
-heat: -1
+heat: 8
 published: false
 
 provider:
@@ -17,79 +17,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "LAX debuts facial recognition technology for international travelers"
-    excerpt: "U.S. Customs and Border Protection officials announced the implementation of a facial-recognition process at LAX."
-    publishedDateTime: 2020-10-30T06:10:00Z
-    webUrl: "https://abc7.com/lax-cbp-international-travelers-facial-recognition/7459789/"
-    ampWebUrl: "https://abc7.com/amp/lax-cbp-international-travelers-facial-recognition/7459789/"
-    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/lax-cbp-international-travelers-facial-recognition/7459789/"
-    type: article
-    provider:
-      name: ABC7
-      domain: abc7.com
-    quality: 59
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/7462194_102920-kabc-4pm-lax-travel-vid.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Face recognition, pollution alert in tech upgrade"
-    excerpt: "The city’s ambitious smart traffic management system system — that proposes to use advanced technologies and a surveillance web of cameras to m."
-    publishedDateTime: 2020-11-03T01:49:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/articleshow/79008997.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/amp_articleshow/79008997.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/amp_articleshow/79008997.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/photo/msid-79008996/79008996.jpg"
-        width: 800
-        height: 751
-        isCached: true
-  - title: "Method for facial recognition bias reduction with adversarial network shows promise"
-    excerpt: "A prominent trio of biometrics researchers have proposed a way to remove the difference, or bias, from facial recognition performance between different demographics. A paper jointly written by"
-    publishedDateTime: 2020-11-02T22:46:00Z
-    webUrl: "https://www.biometricupdate.com/202011/method-for-facial-recognition-bias-reduction-with-adversarial-network-shows-promise"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 33
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/10124235/facial-recognition-crowds.jpg"
-        width: 1920
-        height: 1005
-        isCached: true
-  - title: "Addressing Legitimate Concerns About Government Use of Facial Recognition Technologies"
-    excerpt: "Facial recognition systems have generated a significant amount of controversy over their potential to create an unblinking, discriminatory surveillance system across the United States. A closer examination reveals that the best-crafted facial recognition ..."
-    publishedDateTime: 2020-10-30T21:28:00Z
-    webUrl: "https://www.heritage.org/civil-rights/report/addressing-legitimate-concerns-about-government-use-facial-recognition"
-    type: article
-    provider:
-      name: The Heritage Foundation
-      domain: heritage.org
-    quality: 31
-    images:
-      - url: "https://www.heritage.org/themes/heritage/src/images/bell.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Speech and Voice Recognition Technologies Market Size, Share, Demand And Remarkable Growth Rate Till 2026 | Zion Market Research"
-    excerpt: "The Zion Market Research added a new report “Speech and Voice Recognition Technologies Market by Technology (Speaker Identification, Speaker Verification, Speech Recognition, Automatic Speech Recognition, Text to Speech, and Others), by Application ..."
-    publishedDateTime: 2020-10-30T10:00:00Z
-    webUrl: "https://www.openpr.com/news/2177025/global-speech-and-voice-recognition-technologies-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2177025/global-speech-and-voice-recognition-technologies-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2177025/global-speech-and-voice-recognition-technologies-market-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "dlxmglkqXmPJ9eaSTIUNIJ842tldpllisk5emtZ2L+rBoHuytUG2pBeLoC+OXoDrDprffBeC9TKEqHATIPS9VbxHvP1bFMVZxDplXMWSSAEVLb2Qs0+6KvPUpy1UagVZT4mqksfY7+W/qFSLv5ADsweIriUkZKwmWgoFqu4bIJL+28RDjp3Tu3FwoQqDL2iGYWZfFbm2BgeeVxPo2z8DduX038tc5y/nGaLng4GeiH/wFnHQjce3KIeWc/dEGb4fyELEjq6ukCYQFmvY2iAnpww9ntu+kH6ZXUzOAKdgitedy8yMWBgW3mF8k5VQfYXUzgPPfcohZDKXoRsMIuxBimJYCbJBn/Z8ENoGIWjlRVFOiWpls4pz+eyhi8oGVPrlKcNEFgyzCudBqtc+QtVUPf1CcLjLy+7gorx1bFAzUllEFM4/bteBQupfigZxmfbTLKHTOPhpTOra2OpoU+BjYSJIJ1uJujmAkzbnxnU36UbH1G2CaalBM6f22ep9B4tC6iXtjGIeJjv7Pmq7E5wuuQ==;YsV+Qi/V4RvTypYqU68Zxg=="
 ---

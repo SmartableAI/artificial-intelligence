@@ -44,19 +44,16 @@ related:
         height: 338
         isCached: true
   - title: "Global Predictive Analytics Market (2020 to 2025) - Advent of Machine Learning and Artificial Intelligence is Driving Growth"
-    excerpt: "The \"Predictive Analytics Market by Solution (Financial Analytics, Risk Analytics, Marketing Analytics, Web & Social Media Analytics,"
-    publishedDateTime: 2020-11-03T17:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-predictive-analytics-market-2020-to-2025---advent-of-machine-learning-and-artificial-intelligence-is-driving-growth-301165726.html"
+    excerpt: "The \"Predictive Analytics Market by Solution (Financial Analytics, Risk Analytics, Marketing Analytics, Web & Social Media Analytics, Network Analytics), Service, Deployment Mode, Organization Size, Vertical,"
+    publishedDateTime: 2020-11-03T18:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-predictive-analytics-market-2020-to-2025-advent-of-machine-learning-and-artificial-intelligence-is-driving-growth-1029760006"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/global-predictive-analytics-market-2020-to-2025-advent-of-machine-learning-and-artificial-intelligence-is-driving-growth-1029760006"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-predictive-analytics-market-2020-to-2025-advent-of-machine-learning-and-artificial-intelligence-is-driving-growth-1029760006"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 27
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
   - title: "Advantech and ClearBlade Partner to Deliver Smart Monitoring Solution with Edge AI Intelligent Video Analytics"
     excerpt: "ClearBlade, an industry-leading Industrial Internet of Things (IoT) Platform and Edge Computing software company, and Advantech, a global leader in Industrial IoT hardware solutions, today announced a partnership to provide a monitoring solution software and hardware bundle that utilizes intelligent video analytics."
     publishedDateTime: 2020-11-03T04:05:00Z
@@ -71,15 +68,6 @@ related:
         width: 880
         height: 440
         isCached: true
-  - title: "Flood Prediction Project Powered by SAS IoT Analytics and Microsoft Azure Earns National Innovation Award"
-    excerpt: "by combining Microsoft Azure IoT platform with SAS’ edge-to-cloud IoT analytics and AI capabilities. Transforming flood response for an entire region During excessive rainfall events, Town of Cary personnel often found themselves running around to ..."
-    publishedDateTime: 2020-10-30T06:52:00Z
-    webUrl: "https://www.newswiretoday.com/news/174030/Flood-Prediction-Project-Powered-by-SAS-IoT-Analytics-and-Microsoft-Azure-Earns-National-Innovation-Award/"
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 17
   - title: "Discover Announces New Data & Analytics Organization"
     excerpt: "Discover Financial Services (NYSE: DFS) announced on Tuesday the launch of its new Data and Analytics (DNA) organization. Discover revealed that the new organization represents its commitment to technological advancement in financial services with a focus on customer engagement and marketing technologies."
     publishedDateTime: 2020-11-03T11:40:00Z

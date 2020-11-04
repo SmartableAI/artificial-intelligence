@@ -39,20 +39,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence of Things (Technology & Solutions) Markets 2020-2025: Market will Reach $65.9 Billion by 2025, Growing at 39.1% CAGR"
-    excerpt: "AIoT Market by Technology and Solutions 2020 - 2025\" report has been added to ResearchAndMarkets.com's offering. This AIoT market report provides an analysis of technologies, leading companies and solutions."
-    publishedDateTime: 2020-10-30T23:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-of-things-technology--solutions-markets-2020-2025-market-will-reach-65-9-billion-by-2025--growing-at-39-1-cagr-301164067.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
 
 secured: "TCbQeNR8Jzj5P5cmDvKpkgwGvvuQz+FfwBxs0FWq0N3PQ2Nj9eGmps2/Hi5+VXxAaSktsncp5HsRViLm+iLVB/kAY5Vu2kCvM1+7RxAdPF+k2PnPrbEpdgyDSKCHGsj55FiAAR+7gpwZuYNzhNHIUsN1HBYAk11digw9hRDLJEM3cBVjai80QLhv8QS3SUajfH8Bihz2wIGO037gegPiqsAdtuWImzzmyAQrhx/lMZLxcZ6cXQI3asCwZQFboWhw3BHfbydfzaXr/j0dIHgzf1uqeI2LkqiMCjLFNdtn0DJmodX+KA+ZnUWaDMLbPgS6YNk+S5+lnjsb0XK0syfk78PYDSEM06DSQFqIY9pEYbl101ukQqMLEh94hNfBmDrSDcIzMcmhWbOY6Yllnff/RJFzQ633wleSgagClNBeYreXmRECdQ8vF9QX7bvl8qicWvl2/NpeifTPrmxSnY/M+IVTnRqKGMjxlxfMXu3nDIixh17QbUzNYM1oBitYmf0E19AuhKozKYp8xZkLbHlqVQ==;EKt7OhhKdVlR4aSJEtHNHA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://elmoudjaweb.com/an-automated-trading-firm-turns-its-machine-
 cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/an-automated-trading-firm-turns-its-machine-learning-expertise-to-venture-capital-investing-jaweb/?amp"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "An automated trading firm turns its machine learning expertise to venture capital investing"
-    excerpt: "XTX executives say their trading edge is in machine learning—algorithms that automatically learn and improve from data without being re-programmed. XTX is heavy on computing, but light on ..."
-    publishedDateTime: 2020-10-30T08:02:00Z
-    webUrl: "https://qz.com/1923323/xtx-makes-venture-capital-investments-in-machine-learning-firms/"
-    type: article
-    provider:
-      name: Quartz
-      domain: qz.com
-    quality: 61
-    images:
-      - url: "https://cms.qz.com/wp-content/uploads/2018/02/xtx_0001.jpg?quality=75&strip=all&w=410&h=273"
-        width: 410
-        height: 273
-        isCached: true
 
 secured: "u/Cod4k0ImfSk7X2XXSReneRUdCGhP3WANirsBA+flSNhwyDuS102eKa37BSvx1zNugXXbl6s2W/zU4pO3z5jLHIABZJeGKQ3uTycRQ44X4Db1pDX/oRK0U3H2/9xHVQEh9LnocIxpkA65o0JDWfyCrVTw10lb2/QvNxK2r6dL2D+UXBqvoSjnUkY/P55bVQftO8DpxLC7wpZtav5GO9IAWIf4RHds6ay68E1/n9HX6VqBC1z+yWdO8yxd/Tjbi4z+5f435ApO5ambv9Aeoy/Psu6blUorhMFc8OkYq+aAwaPte4T/C9tqhMzc39JVS5/EB5+CljKzurjF4cbkJ1gHhnB1fceMOPnA5IZ8hw4+gAgo5l9nVPoi/BrRHe71cI90FT71NYmKcVVkCHgnq2HvNJHDoS8v8rNVofuBaHAr6N+oUdEd1GMAzaCfo5gpPagFoW3RYwmAR+OYFrRBLzEmJiqxBjb1/KkXC8aVrkK8Tqcs0opapMyjcN4mJKsXlaE2Bobt8QTQ+zqgObUdO+4A==;dYvj4QS+55P5GhO9K+VOJA=="
 ---
