@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/global-cognitive-inform
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-cognitive-informatics-markets-2020-2025-cognitive-informatics-will-become-an-integral-component-of-human-machine-systems-and-solutions-1029753075"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -25,48 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "Global Artificial Intelligence Application Market 2020 Trending Technologies, Developments, Key Players and End-use Industry to 2025"
-    excerpt: "Global Artificial Intelligence Application Market 2020 by Company, Regions, Type and Application, Forecast to 2025 announced by MarketsandResearch.biz provides an expert and in-depth analysis of key business trends and future market development prospects,"
-    publishedDateTime: 2020-11-04T05:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-application-market-2020-trending-technologies-developments-key-players-and-end-use-industry-to-2025-2020-11-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Worldwide Productivity Management Software Industry to 2026 - Key Drivers and Restraints"
-    excerpt: "The \"Global Productivity Management Software Market by Deployment Type, Organization Size, Solution and Region: Industry Analysis and"
-    publishedDateTime: 2020-10-30T20:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/worldwide-productivity-management-software-industry-to-2026---key-drivers-and-restraints-301164052.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 30
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
-  - title: "Global Voice Biometric Solutions Market Movements by Trend Analysis, Growth Status and Revenue Expectation Forecast to 2026"
-    excerpt: "The global “Voice Biometric Solutions Market” is expected to rise with an impressive CAGR and generate the highest"
-    publishedDateTime: 2020-11-03T18:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-biometric-solutions-market-movements-by-trend-analysis-growth-status-and-revenue-expectation-forecast-to-2026-2020-11-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "United States Data Center Construction Markets, 2020-2025 - Growing Cloud Applications, AI, and Big Data & Rising Adoption of Hyperscale Data Centers"
     excerpt: "The \"United States Data Center Construction Market - Growth, Trends, and Forecasts (2020 - 2025)\" report has been added"
     publishedDateTime: 2020-11-02T11:45:00Z

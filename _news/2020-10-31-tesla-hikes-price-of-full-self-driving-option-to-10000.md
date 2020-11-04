@@ -51,22 +51,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tesla bumps up the price of its Full Self-Driving tech to $10,000"
-    excerpt: "Even for the wealthier individuals that most Tesla vehicles are targeting, an extra $2,000 might be a tough pill to swallow, especially when the technology is"
-    publishedDateTime: 2020-10-30T16:13:00Z
-    webUrl: "https://www.techspot.com/news/87376-tesla-bumps-up-price-full-self-driving-tech.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/87376-tesla-bumps-up-price-full-self-driving-tech.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87376-tesla-bumps-up-price-full-self-driving-tech.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 89
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-30-image-11.jpg"
-        width: 1680
-        height: 868
-        isCached: true
   - title: "Tesla Hikes Up the Price of 'Full Self-Driving' Option to $10,000"
     excerpt: "Tesla bumped up the price of its \"full self-driving\" from $8,000 to $10,000 on Friday, and odds are this won’t be the last price hike Tesla owners see."
     publishedDateTime: 2020-10-31T01:17:00Z
@@ -130,22 +114,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fba1d7570-1bb7-11eb-b13c-b010545fb6c4&client=amp-blogside-v2&signature=39967e073c4a44e9b4fc1a30e030658a5e296a09"
         width: 600
         height: 350
-        isCached: true
-  - title: "Watch Tesla Full Self-Driving Beta’s performance from the sky with scary near-miss"
-    excerpt: "Today, we take a look at an interesting new video showing Tesla Full Self-Driving Beta’s performance from the sky in a new drone video with a scary near-miss. As we reported last week, Tesla has started pushing the first version of its “Full Self-Driving” feature that autonomously navigates on both city streets and highways."
-    publishedDateTime: 2020-10-30T16:18:00Z
-    webUrl: "https://electrek.co/2020/10/30/tesla-full-self-driving-beta-performance-scary-near-miss/"
-    ampWebUrl: "https://electrek.co/2020/10/30/tesla-full-self-driving-beta-performance-scary-near-miss/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/30/tesla-full-self-driving-beta-performance-scary-near-miss/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 83
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-test-drone.jpg?quality=82&strip=all"
-        width: 3480
-        height: 1494
         isCached: true
   - title: "Elon Musk Raises Price of Tesla's Full Self-Driving Package to $10,000 USD"
     excerpt: "Following through with what Elon Musk has said before, the CEO of Tesla has now announced a price hike for the EV automaker’s Full Self-Driving (FSD) package, bringing it up by $2,000 USD to $10,000 USD."
@@ -239,7 +207,7 @@ related:
   - title: "Tesla's 'Full Self-Driving\" Gets Mixed, But Improving Reviews"
     excerpt: "Tesla has released an early version of its"
     publishedDateTime: 2020-11-03T11:23:00Z
-    webUrl: "https://www.realclearmarkets.com/2020/11/03/teslas_full_self-driving_gets_mixed_but_improving_reviews_582644.html"
+    webUrl: "https://www.realclearmarkets.com/2020/11/03/teslas_full_self-driving_gets_mixed_but_improving_reviews_582644.html#!"
     type: article
     provider:
       name: RealClearMarkets

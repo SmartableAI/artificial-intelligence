@@ -42,20 +42,6 @@ related:
         width: 370
         height: 278
         isCached: true
-  - title: "How the Army plans to revolutionize tanks with artificial intelligence"
-    excerpt: "With the Advanced Targeting and Lethality Aided System, or ATLAS, the U.S. Army hopes to transform the way tank crews operate using artificial intelligence. (U.S. Army)"
-    publishedDateTime: 2020-10-30T17:42:00Z
-    webUrl: "https://www.airforcetimes.com/artificial-intelligence/2020/10/29/how-the-army-plans-to-revolutionize-tanks-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: Air Force Times
-      domain: airforcetimes.com
-    quality: 39
-    images:
-      - url: "https://www.armytimes.com/resizer/T7WHMJtVbwG5P2RQM5wHLIm9GoY=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/MW6AKBSUTVCKDP66O7JV4YUYTY.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "An Enlightened Future with AI"
     excerpt: "The year of 2020 has proved to be a challenging year defined mostly across the world by a global pandemic and as a result an increasing shift towards digital. The decisions that we make now and in the"
     publishedDateTime: 2020-11-02T21:50:00Z

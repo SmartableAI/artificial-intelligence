@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/video/how-the-energy-industry-can-save-billi
 webUrl: "https://www.zdnet.com/video/how-the-energy-industry-can-save-billions-with-ai/"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
     quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "How the Army plans to revolutionize tanks with artificial intelligence"
-    excerpt: "With the Advanced Targeting and Lethality Aided System, or ATLAS, the U.S. Army hopes to transform the way tank crews operate using artificial intelligence. (U.S. Army)"
-    publishedDateTime: 2020-10-30T17:42:00Z
-    webUrl: "https://www.airforcetimes.com/artificial-intelligence/2020/10/29/how-the-army-plans-to-revolutionize-tanks-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: Air Force Times
-      domain: airforcetimes.com
-    quality: 39
-    images:
-      - url: "https://www.armytimes.com/resizer/T7WHMJtVbwG5P2RQM5wHLIm9GoY=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/MW6AKBSUTVCKDP66O7JV4YUYTY.jpg"
         width: 1200
         height: 630
         isCached: true

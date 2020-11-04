@@ -54,21 +54,21 @@
       ]
     },
     {
-      "path": "_news/2020-11-02-microsoft-to-expand-azure-kinects-computer-vision-tech-to-commercial-market.md",
-      "title": "Microsoft to Expand Azure Kinect’s Computer Vision Tech to Commercial Market",
-      "excerpt": "The technology behind Microsoft’s enterprise-focused computer vision camera, the Azure Kinect developer kit, will soon find its way into commercial products. Microsoft is collaborating with two companies,",
+      "path": "_news/2020-11-02-citizen-services-ai-market-growing-at-a-cagr-463-key-player-servicenow-microsoft-ibm-accenture-aws.md",
+      "title": "Citizen Services AI Market Growing at a CAGR 46.3% | Key Player Servicenow, Microsoft, IBM, Accenture, AWS",
+      "excerpt": "The global Citizen Services AI Market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 46.3% during the forecast period, to reach USD 9.7 billion by 2024 from USD 1.5 billion in 2019.",
       "sourceUrl": null,
-      "webUrl": "https://www.roadtovr.com/microsoft-azure-kinect-commercial/",
-      "originalUrl": "https://www.roadtovr.com/microsoft-azure-kinect-commercial/",
+      "webUrl": "https://www.marketwatch.com/press-release/citizen-services-ai-market-growing-at-a-cagr-463-key-player-servicenow-microsoft-ibm-accenture-aws-2020-11-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/citizen-services-ai-market-growing-at-a-cagr-463-key-player-servicenow-microsoft-ibm-accenture-aws-2020-11-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 93,
       "tags": null,
       "images": [
         {
-          "url": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2020/11/azure-kinect.jpg",
-          "width": 1920,
-          "height": 1080,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,13 +76,66 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.roadtovr.com/microsoft-azure-kinect-commercial/amp/",
-      "cdnAmpWebUrl": "https://www-roadtovr-com.cdn.ampproject.org/c/s/www.roadtovr.com/microsoft-azure-kinect-commercial/amp/",
-      "publishedDateTime": "2020-11-02T05:26:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-02T03:58:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Road to VR",
-        "domain": "roadtovr.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-31-microsoft-lobe-to-train-ai-machine-learning-models-without-writing-code.md",
+      "title": "Microsoft Lobe to train AI, machine learning models without writing code",
+      "excerpt": "Microsoft has announced the availability of Lobe, a desktop app to train artificial intelligence (AI) and machine learning (ML) models.",
+      "sourceUrl": null,
+      "webUrl": "https://news.thewindowsclub.com/microsoft-lobe-to-train-ai-machine-learning-models-103899/",
+      "originalUrl": "https://news.thewindowsclub.com/microsoft-lobe-to-train-ai-machine-learning-models-103899/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.thewindowsclub.com/wp-content/uploads/2020/10/Microsoft-Lobe.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.thewindowsclub.com/microsoft-lobe-to-train-ai-machine-learning-models-103899/amp/",
+      "cdnAmpWebUrl": "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/microsoft-lobe-to-train-ai-machine-learning-models-103899/amp/",
+      "publishedDateTime": "2020-10-30T22:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TWCN Tech News",
+        "domain": "thewindowsclub.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -92,7 +145,7 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "Machine Learning",
         "AI",
         "Microsoft AI"
       ]
@@ -1371,58 +1424,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud.md",
-      "title": "IBM's Q3 solid with strength in Red Hat, hybrid cloud",
-      "excerpt": "Cognitive applications were up 1% and cloud sales were up more than 60%. Global business services, which includes consulting, application management and global process services, had revenue of $4 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud/",
-      "originalUrl": "https://www.zdnet.com/article/ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/10/16/64b67a52-7c39-42aa-9676-9c3987ea7e57/thumbnail/1200x675/7538a9bb7ca841a758272e29aa0937f0/thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud/",
-      "publishedDateTime": "2020-10-19T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

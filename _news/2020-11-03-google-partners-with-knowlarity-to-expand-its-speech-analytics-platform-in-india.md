@@ -67,7 +67,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 59
+    quality: 61
   - title: "Advantech and ClearBlade Partner to Deliver Smart Monitoring Solution with Edge AI Intelligent Video Analytics"
     excerpt: "ClearBlade, an industry-leading Industrial Internet of Things (IoT) Platform and Edge Computing software company, and Advantech, a global leader in Industrial IoT hardware solutions, today announced a partnership to provide a monitoring solution software and hardware bundle that utilizes intelligent video analytics."
     publishedDateTime: 2020-11-03T04:05:00Z

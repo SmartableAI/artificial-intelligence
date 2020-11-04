@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Want To Infuse AI Into Your Apps With Minimal Effort? Try Microsoft Lobe"
-    excerpt: "But AutoML is an extension of the cloud-based ML PaaS offerings demanding the skills of using tools such as Amazon SageMaker, Azure ML, Google AI Platform, and IBM Watson Studio. The AutoML tools expect developers to be familiar with the ML PaaS."
-    publishedDateTime: 2020-10-30T17:53:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/?sh=3f285d437a72"
-    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 109
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9bf8a2dbc46c0b82a29403%2F0x0.jpg"
-        width: 1000
-        height: 666
-        isCached: true
   - title: "Microsoft Lobe to train AI, machine learning models without writing code"
     excerpt: "Microsoft has announced the availability of Lobe, a desktop app to train artificial intelligence (AI) and machine learning (ML) models."
     publishedDateTime: 2020-10-31T05:50:00Z
@@ -58,6 +42,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Microsoft to Expand Azure Kinect’s Computer Vision Tech to Commercial Market"
+    excerpt: "The technology behind Microsoft’s enterprise-focused computer vision camera, the Azure Kinect developer kit, will soon find its way into commercial products. Microsoft is collaborating with two companies,"
+    publishedDateTime: 2020-11-02T13:26:00Z
+    webUrl: "https://www.roadtovr.com/microsoft-azure-kinect-commercial/"
+    ampWebUrl: "https://www.roadtovr.com/microsoft-azure-kinect-commercial/amp/"
+    cdnAmpWebUrl: "https://www-roadtovr-com.cdn.ampproject.org/c/s/www.roadtovr.com/microsoft-azure-kinect-commercial/amp/"
+    type: article
+    provider:
+      name: Road to VR
+      domain: roadtovr.com
+    quality: 88
+    images:
+      - url: "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2020/11/azure-kinect.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Large-Scale Multilingual AI Models from Google, Facebook, and Microsoft"
     excerpt: "Researchers from Google, Facebook, and Microsoft have published their recent work on multilingual AI models. Google and Microsoft have released models that achieve new state-of-the-art performance on NLP tasks measured by the XTREME benchmark,"
     publishedDateTime: 2020-11-03T14:10:00Z
@@ -72,20 +72,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "QuEST Global launches Center of Excellence for Microsoft Azure to develop innovative solutions for customers"
-    excerpt: "QuEST Global, a global product engineering and lifecycle services company, today announced it has signed an agreement with Microsoft to"
-    publishedDateTime: 2020-11-03T11:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-301164875.html"
+  - title: "Artificial Intelligence Market 2020 New Technology Research – Google, IBM, Baidu, Microsoft, Apple Inc., Ipsoft, NVIDIA corporation"
+    excerpt: "Artificial Intelligence Global Market Report 2020-30: Covid 19 Growth and Change The artificial intelligence market consists of sales of the artificial intelligence software and related services. Artificial Intelligence (AI) some times referred to as machine intelligence."
+    publishedDateTime: 2020-11-03T11:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-new-technology-research-google-ibm-baidu-microsoft-apple-inc-ipsoft-nvidia-corporation-2020-11-03"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 35
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
 
 secured: "CBZB9/Xmr3IWJTv0QRvNuchmFCjGeVNrNysK59lgYNyVN5mFUnSntv9awPbSHz31LVz8SpZNVlMraQJkmzD5vgM3ZLX8hEt3xmsinla408ivr9t9Zk+5LcL6B45//CjjIMZplDlFnEd9399sLPWlJ4ufKzuhUO2dooqgX3AA7Uk+HxzwcobFUOB6kQfM7PmzEk5Ec8GwZSUvTCN8SoqXIDhBqbRcNW6P9i/XkY0+ZmxCSf2RVLVUZmpHqKRmhUW70mip/dhscwBnkZXDEtOyARWBm5CbxJqval4fIU0pKJN+3vQb/rLY5Dbv3CU1ATyJhTUVak0hqUVP4jmSrk9g5jsi4diYcW8k33n+zbB9sww=;yLAmVUoioCo/RTIbMA6Omg=="
 ---

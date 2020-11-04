@@ -9,7 +9,7 @@ ampWebUrl: "https://www.insidehook.com/daily_brief/vehicles/self-driving-race-ca
 cdnAmpWebUrl: "https://www-insidehook-com.cdn.ampproject.org/c/s/www.insidehook.com/daily_brief/vehicles/self-driving-race-car-crashes-roborace/amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Racecar Hits Accelerator, Immediately Crashes Into Wall"
-    excerpt: "A self-driving racecar had a terrible start during the first-ever live broadcast of Roborace, a competition in which autonomous electric racecars go head to head As soon as it started its lap ..."
-    publishedDateTime: 2020-10-30T16:40:00Z
-    webUrl: "https://futurism.com/the-byte/self-driving-racecar-immediately-crashes-into-wall"
-    ampWebUrl: "https://futurism.com/self-driving-racecar-immediately-crashes-into-wall/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/self-driving-racecar-immediately-crashes-into-wall/amp"
+  - title: "Roborace Crash Proves Self-Driving Cars Still Not Yet Ready For Prime Time"
+    excerpt: "This crash has received its share of well-deserved internet guffaws since it happened, but there's really nothing funny about autonnomous cars that"
+    publishedDateTime: 2020-10-31T18:05:00Z
+    webUrl: "https://www.newsoneplace.com/35539161911/roborace-crash-proves"
     type: article
     provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 44
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 22
     images:
-      - url: "https://wp-assets.futurism.com/2020/10/self-driving-race-car-takes-off-immediately-crashes-into-wall-600x315.jpg"
-        width: 600
-        height: 315
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https://specials-images.forbesimg.com/imageserve/5f9da62aa9255117dfd1798f/0x0.jpg?cropX1=0&cropX2=1920&cropY1=0&cropY2=1080"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "6ofKBA0laeLF8FJ5S9B+VbW+bJUS7mL5b0nnc5+aYfyX7p7A8LbKPft1hbuYNkvHy6sh+7n4+SDfCW9rCBv/Caj8BRs5NfvOLV+Xd7Q5bQpYkKrp04Lk9HfkhIAYl+rGp/yJf3Auec1kNlvxbQg77OaE3C3SKQTi/Pvg81lFhyBIgtyKewrym/YhantX6gBlEw39nq9G/jB8OtsiR4Z+OcamKjVc0S4GfjBrv9sJtMHNWxvDZEqp5iLfZS8SgWS6c/D5KkCasx1Kr52cObrIKbaAcMzg8nq8V2ZNm+caKEDhRmmmi7ZPoBk8ltulitApMIES+jBARqSCmNOZVaoC0uANjpYuVbPeQaz18G4xEgJ1dfR3QwI+YTTsjqtWkWJu7nWhJ0Fms3E62FMIa5uMe7Th6gGFz8p/vb//YmEiDZixJBNXBnLVpRsoFPnhvYv7yck0yt/cu13lh+V/jDlWXufuvPQc34xNKtuHv6ZGnn5KLq64D5gJmpI+grwYCwu4fubEQMo9D+kNIRfmt8oZ9Q==;oNIh7LHTg/UcRZ9haUJ/yA=="

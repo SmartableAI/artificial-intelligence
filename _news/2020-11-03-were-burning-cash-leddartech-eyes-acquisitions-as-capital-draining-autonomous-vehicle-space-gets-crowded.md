@@ -30,13 +30,13 @@ related:
   - title: "'We're burning cash': LeddarTech eyes acquisitions as capital-draining autonomous vehicle space gets crowded"
     excerpt: "We won’t accept that robots make mistakes,\" says LeddarTech CEO “We’re burning cash,” Charles Boulanger replies without hesitation when asked if the company he helms is profitable. While LeddarTech Inc."
     publishedDateTime: 2020-11-03T18:43:00Z
-    webUrl: "https://www.nugget.ca/technology/were-burning-cash-leddartech-eyes-acquisitions-as-capital-draining-autonomous-vehicle-space-gets-crowded/wcm/54235ce2-41f0-4071-89a9-c045fddf2e25"
-    ampWebUrl: "https://www.nugget.ca/technology/were-burning-cash-leddartech-eyes-acquisitions-as-capital-draining-autonomous-vehicle-space-gets-crowded/wcm/54235ce2-41f0-4071-89a9-c045fddf2e25/amp"
-    cdnAmpWebUrl: "https://www-nugget-ca.cdn.ampproject.org/c/s/www.nugget.ca/technology/were-burning-cash-leddartech-eyes-acquisitions-as-capital-draining-autonomous-vehicle-space-gets-crowded/wcm/54235ce2-41f0-4071-89a9-c045fddf2e25/amp"
+    webUrl: "https://www.thesudburystar.com/technology/were-burning-cash-leddartech-eyes-acquisitions-as-capital-draining-autonomous-vehicle-space-gets-crowded/wcm/54235ce2-41f0-4071-89a9-c045fddf2e25"
+    ampWebUrl: "https://www.thesudburystar.com/technology/were-burning-cash-leddartech-eyes-acquisitions-as-capital-draining-autonomous-vehicle-space-gets-crowded/wcm/54235ce2-41f0-4071-89a9-c045fddf2e25/amp"
+    cdnAmpWebUrl: "https://www-thesudburystar-com.cdn.ampproject.org/c/s/www.thesudburystar.com/technology/were-burning-cash-leddartech-eyes-acquisitions-as-capital-draining-autonomous-vehicle-space-gets-crowded/wcm/54235ce2-41f0-4071-89a9-c045fddf2e25/amp"
     type: article
     provider:
-      name: North Bay Nugget
-      domain: nugget.ca
+      name: Sudbury Star
+      domain: thesudburystar.com
     quality: 40
     images:
       - url: "https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2020/11/charles-boulanger-1103.jpg"

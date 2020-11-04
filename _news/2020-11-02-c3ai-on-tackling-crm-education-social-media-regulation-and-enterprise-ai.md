@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/video/c3-a
 webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/video/c3-ai-on-tackling-crm-education-social-media-regulation-and-enterprise-ai/"
 type: article
 quality: 98
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://elearningworld.eu/wp-content/uploads/hand-3308188_640.jpg"
         width: 640
         height: 389
-        isCached: true
-  - title: "Part of the revolution: Black representation in AI and quantum information"
-    excerpt: "Black scientists need to be in the room when AI algorithms are developed, and as a physics community, we need to be discussing the ethics of our role in that work. Like AI, quantum information science and engineering (QISE) is a rapidly evolving field with ..."
-    publishedDateTime: 2020-10-30T16:12:00Z
-    webUrl: "https://physicsworld.com/a/part-of-the-revolution-black-representation-in-ai-and-quantum-information/"
-    type: article
-    provider:
-      name: Physics World
-      domain: physicsworld.com
-    quality: 37
-    images:
-      - url: "https://physicsworld.com/wp-content/uploads/2020/10/fig1-635x357.png"
-        width: 635
-        height: 357
         isCached: true
 
 secured: "5FqKKiF8UsdpDRUoPvxYYW2Jvbk1p8xRdqz+6QgfyJtuFSvf9zy+7JGExbQQYNxXaZoUPKMrpbRtXxVDDPVAdJI9fQU7FIehOrZiwbCLyo5jgtwqTTmqaCSw6k9+A00Ar9Y3ay1fglCTCKMdRaxm3zq4ppvJPyEmTx12tKwk55YPrXe+N4PnNhXvCJqhCxtml1SHfTX5+AypHhPf4i6dsZph2qrn0ZGzshyZfhLpvAQhFAv+mgcAy0RT1R5f6aQprfzc8rRAudE6kqbg2qM0zRs2dapKoFntqKvYATIroxOlwtyeMLS9+GojEqEqcK3dEjrkNiR1n+MA9ddS3CGf+FzwRv53VbGvXCBmpE2zdz4ZYX1zQI9yyiFTN/MADAgthDL4gMw3Ow0Whv82kbPluivH+PMVVBH4duyVMSWP1qnN4oU6Wc88WYBaxkojvTN4tNlNgF2QHKIohl0Kas3TJylzqX8FgZ2AiMZLBEtXHOEFPoj6pwCskdwA5RwLFV8Y/Y6JGvMjW6dYr8y9usSuiA==;k7CWRcJoBq1bDwrFOAPhrQ=="

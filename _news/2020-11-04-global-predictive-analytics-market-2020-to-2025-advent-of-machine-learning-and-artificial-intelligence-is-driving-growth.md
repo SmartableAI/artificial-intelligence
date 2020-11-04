@@ -8,7 +8,7 @@ webUrl: "https://markets.businessinsider.com/news/stocks/global-predictive-analy
 ampWebUrl: "https://markets.businessinsider.com/amp/news/global-predictive-analytics-market-2020-to-2025-advent-of-machine-learning-and-artificial-intelligence-is-driving-growth-1029760006"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-predictive-analytics-market-2020-to-2025-advent-of-machine-learning-and-artificial-intelligence-is-driving-growth-1029760006"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - AI in Healthcare
   - AI
   - Machine Learning
+  - AI in Finance
 
 related:
   - title: "CMOs, Predict Your Wins With AI And Predictive Analytics"

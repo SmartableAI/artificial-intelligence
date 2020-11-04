@@ -60,21 +60,7 @@ related:
         width: 640
         height: 389
         isCached: true
-  - title: "Part of the revolution: Black representation in AI and quantum information"
-    excerpt: "Black scientists need to be in the room when AI algorithms are developed, and as a physics community, we need to be discussing the ethics of our role in that work. Like AI, quantum information science and engineering (QISE) is a rapidly evolving field with ..."
-    publishedDateTime: 2020-10-30T16:12:00Z
-    webUrl: "https://physicsworld.com/a/part-of-the-revolution-black-representation-in-ai-and-quantum-information/"
-    type: article
-    provider:
-      name: Physics World
-      domain: physicsworld.com
-    quality: 37
-    images:
-      - url: "https://physicsworld.com/wp-content/uploads/2020/10/fig1-635x357.png"
-        width: 635
-        height: 357
-        isCached: true
 
-secured: "KL0R2ooXnEO76GWsWu/R4gGmKWgCzlZqsrd/0MWb6D/ZJiI/NdIT/T1OqEiSRF8pqb5/6NyhVlnmL1oGoaDhd4bAgQ/jdCDSVJ/qvv/tTf84G2iSt1d9L/2E+Xna8iELKrZsdMOOWvX6uhrqhh3mNZtD0eVmrwtet+/9g4+LHDQxXgc3SLCdzGGFwZZBhgtqDuXM+2ljf5zzs2z5utFoHz02LrpUexDTVMVar6YxK7/1sOSnaavKOrbafJCoVAmkpsTi0olZ/IYFG0Hs3/5ShTq2ZQBONoA4uGva5bnMloRpmhNyToMrMJ1OIjNDVLMVwvs5b4fcLP/lPqD3jG6xzL9bTVFYtcjWRAppU5p9N+g=;rsCg0YT1P08BzOmbDMCR0g=="
+secured: "hcwXDd+7fng+4NNaoD3vZPZdmEsAboVEvoeLPTAZAD2PKlVi4trWc98xVt1e6RTNsPHilmWoMj0XhEgsKUtqlEBMzPWhdNzbTStza7n2DGP1AmsdA03yG5p7ew0/d+CYYXUt9E5sXSq+olBGvH7eVV5yRMQOchCNkelmlTBo0I5CFwvL6yZCvm+2sVLekj1vtPWUTNLBQRRLdnQPbUIvY/syYvo23NVyhmK+Jr3a/RpID4CEUgCbq2Onk0szRmaw8o8w9pvnHRblmHMMpxhkHn+p3N4aKIgiv8YhgURWxKgYnNcK7kz3carggCU/UAg2qAsAPWDKTt7xgbxvusf9BJQGVpJJBDsNMou4TfP+937Ui2YbL4OBet3YFx6+SJ+vPybkjoDFFQY9WKnWaPZkZhU8LmL1sZp9+hT3IPtiocaxgLEJKNutiVRzXfaZ4/fcVBMjwTQYtHKX2RHe5jGVLWQCAzUvPVHNX6GeQ35DsWI4MFwNAs7OBUokq7X+kLtweMWSRVpn50SBV33WsjfTYg==;1fCCtEQFsHxieybmMYDN9g=="
 ---
 

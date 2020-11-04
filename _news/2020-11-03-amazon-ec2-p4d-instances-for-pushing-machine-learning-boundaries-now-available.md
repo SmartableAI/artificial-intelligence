@@ -3,10 +3,10 @@ category: news
 title: "Amazon EC2 P4d instances for pushing machine learning boundaries now available"
 excerpt: "Amazon Web Services (AWS) has announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) P4d instances with EC2 UltraClusters capability. The cloud giant has touted the offering as the next generation of GPU-powered instances for providing the best performance in machine learning training and high-performance computing (HPC) in the cloud."
 publishedDateTime: 2020-11-03T00:34:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/"
-webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/"
+originalUrl: "https://www.zdnet.com/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/"
+webUrl: "https://www.zdnet.com/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/"
 type: article
 quality: 82
 heat: 92
@@ -21,9 +21,9 @@ provider:
       height: 50
 
 topics:
-  - AWS AI
-  - AI
   - Machine Learning
+  - AI
+  - AWS AI
 
 related:
   - title: "AWS Announces General Availability of Amazon EC2 P4d Instances with EC2 UltraClusters Capability"
@@ -41,6 +41,6 @@ related:
         height: 627
         isCached: true
 
-secured: "QKI3nQU2uphlvOHVcJlIeUT2Am1ZvGeBvlBL+btQ+BuBr6DQaAIdsnBlUEfTEmhu6N9fozPCcRW6Cn2EMZtNrpp9U3szxKtrCqn9fRc63D1X8K0u+zKPA+i+tUsN++BiytrK/+pnMXzvNzBiwVvhOsBp5K80Crb3ybyi1wtrRoajVrC0q2aPEl+7jkAEiWXqGxZ2Ow8+GlVQgy/+17+D6Xg3jIOJkUTqWIieDFidfe++tmmTei0w4Fze4iksdFiOgbmiQuW3+d/DsSgJY1ljj/In0djGW32wy8bKnEGRESLrvjA1yf25OGY+jIeeOj9Z1teTog/KcUxaDk3CwDszOVY34Tp/Zal1tLqtnF9rC5POYe74r+4Y4jf7JYl4ux9eDVTXKSAWSVMCcCdjnaCqOx/GD3Uiu506t1bvJD/jc35ZtQcPM3oFMrk30Ba3ShZJxvCsuHxc33Kekt6cajbfpcu4D5ICN5q+Qk7S9FnomB9F5n5mWRAcDQeKmbYBdEtNsXT+BLqE7+J56O37Q8Rz9A==;FjWlqSntqiYRnNjm5eEClA=="
+secured: "N+e5WQz69robkYsO4x+7ya+zYFgt7Ycd4b5rRcqKI7ZpDEHV2jWZgLNaelGkiBcgne+SkskdCosJeWiobdVSrNHO8oVQT8opcjGsIpXWo+ewqkSNZLEJoUWR3lu4yYuy0yf9n8f3cirlZYHdL30dCxAvvbxFqVqQHtd9jBaXjRlPAMh+7dgsME+47ztYbri7n2YK0O0rlTXMLDb09fGYSvqjMFio1B+BuyvK/8H4qde6inHjJscnxWny5N3FzvcI1hiD0xbKQpKvkkUzdhiL0vohaLrPx3fpt5FfCCU20bVth0ejbbR/S1t2B1bEO1AoAh4CLuYdyTScTtyA815y4+QlJSOzWr8KiCUnhWV5vn3WodumJglsQmZn/AwFSi1Nnwzs3ZB7oEPNnA8vmbcx2XhR0xp2X8lDQzAsEHcndLLmr5Gj72osJpWrFnMspIdI4XpgUphWI+ScKvDaa2kh+Vwg7ZQPqnCQO7FyrqB3OO6hukSJJXQ7oQiW/vPL4/OHhiPauShSSg7Dj/uB6nV7yA==;uH/D1O+4kbZ/o32kKddYGg=="
 ---
 

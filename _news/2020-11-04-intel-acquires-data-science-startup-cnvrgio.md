@@ -40,6 +40,22 @@ related:
         width: 650
         height: 415
         isCached: true
+  - title: "Intel acquires Cnvrg.io to enhance ML and AI capabilities"
+    excerpt: "Intel has yet again acquired another startup to upgrade its automation capabilities in technologies like machine learning and artificial intelligence."
+    publishedDateTime: 2020-11-04T10:34:00Z
+    webUrl: "https://www.ciol.com/intel-acquires-cnvrg-io-enhance-ml-ai-capabilities/"
+    ampWebUrl: "https://www.ciol.com/intel-acquires-cnvrg-io-enhance-ml-ai-capabilities/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/intel-acquires-cnvrg-io-enhance-ml-ai-capabilities/amp/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 76
+    images:
+      - url: "https://www.ciol.com/wp-content/uploads/2019/08/Intel-AI.jpg"
+        width: 850
+        height: 400
+        isCached: true
   - title: "Intel has acquired full-stack data science startup Cnvrg.io"
     excerpt: "Intel Corp. is reported to have acquired Cnvrg.io, an Israeli full-stack data science startup that helps teams manage models and build auto-adaptive machine pipelines. TechCrunch makes the claim but neither Intel nor Cnvrg."
     publishedDateTime: 2020-11-04T04:14:00Z

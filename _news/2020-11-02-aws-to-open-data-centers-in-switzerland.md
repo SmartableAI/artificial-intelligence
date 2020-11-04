@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/science-business-te
 webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-amazoncom-inc-virus-outbreak-850c5ad2716648938fd8b0f322816543"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AWS plans to open data centers in Switzerland"
+    excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), today announced it will open an infrastructure region in Switzerland in the second half of 2022. The AWS Europe (Zurich) Region will comprise three Availability Zones and join existing regions in France,"
+    publishedDateTime: 2020-11-02T13:54:00Z
+    webUrl: "https://www.finchannel.com/technology/79059-aws-plans-to-open-data-centers-in-switzerland"
+    type: article
+    provider:
+      name: The Financial
+      domain: finchannel.com
+    quality: 39
+    images:
+      - url: "https://dev.rodpub.com/images/219/834_main.jpg"
+        width: 740
+        height: 400
+        isCached: true
   - title: "AWS to Open Data Centers in Switzerland"
     excerpt: "Amazon Web Services (AWS), an Amazon.com company, today announced it will open an infrastructure region in Switzerland in the"
     publishedDateTime: 2020-11-02T16:03:00Z

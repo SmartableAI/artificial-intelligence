@@ -41,20 +41,6 @@ related:
         width: 1680
         height: 1049
         isCached: true
-  - title: "Daimler invests in lidar company Luminar ahead of self-driving truck launch"
-    excerpt: "In its announcement, Daimler said it will work with Luminar to help realize a goal of having a semi-trailer truck capable of handling highway situations on sale within the coming"
-    publishedDateTime: 2020-10-30T17:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1130140_daimler-invests-in-lidar-company-luminar-ahead-of-self-driving-truck-launch"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 37
-    images:
-      - url: "https://images.hgmsites.net/hug/daimler-self-driving-semi-trailer-truck-prototype_100767932_h.jpg"
-        width: 1920
-        height: 1038
-        isCached: true
 
 secured: "waCkE2SoFJyjmmg592L/6icf2P3N3dTZvXU1CPkF3jbcnL8FI1LMGjNT3ZmwURyBLZvy8ObgisGZHKe/7Nk3D103IVjSvb4ezFbReMNf2neEJLKVaxD4tcaqu8xiUTOf46fv57gcPlCOyDiiBctZTXzhdtmiEyzA200JbQ/u+EDxEuyI36Tm6HJAd4dlUG9zla7zqAisix3AO6E4fppCs8VnD/XkutbLJAcUn+GPiXqSDeCmiQ718hUR5n5ldjJH4i/PPYLjValYZGBv/Rf1andqzeD0b+V4lorVRRITU/n3Kskxbnoa41b8aKvI70Kku4hQhd5N9b1uE8hKc/5db84uUJfBdeEEpEhk4t+ucJM+jLc+WB8JFz5nFvuR/mbrqXs/fS7veTOrbsAd2WdBrGeoN1i59tTLMj2MIyqwejGCjWJLABqyg5AYhk2AloggUaXdXMjn4kxxZd2lBDAu39tD5yc6mRccQp4c/3x5kFq1xUeqoiTl667hxmCQNsZIOEHPODtA/HiEdt9rJ3+F0w==;B2XtZLCYMNSuOJmChF2LuQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/daimler-trucks-luminar-autonomous-haulage-
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/daimler-trucks-luminar-autonomous-haulage-investment-volvo-waymo-30645189/amp/"
 type: article
 quality: 85
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/daimler.jpg"
         width: 1000
         height: 558
-        isCached: true
-  - title: "Daimler invests in lidar company Luminar ahead of self-driving truck launch"
-    excerpt: "In its announcement, Daimler said it will work with Luminar to help realize a goal of having a semi-trailer truck capable of handling highway situations on sale within the coming"
-    publishedDateTime: 2020-10-30T17:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1130140_daimler-invests-in-lidar-company-luminar-ahead-of-self-driving-truck-launch"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 37
-    images:
-      - url: "https://images.hgmsites.net/hug/daimler-self-driving-semi-trailer-truck-prototype_100767932_h.jpg"
-        width: 1920
-        height: 1038
         isCached: true
 
 secured: "mEKn+7PI30+gJ0xIbwaBaQ32nUeVr3rsuI3WKF0w54Vs2xQHI8iZ+/trkQNipISXXqzzdPqBHp+o2qd9BkedgaF5efvo4wMpohHGpaTPaKZEVRHIX7BXOTsThZp5FYhGgvXKcStrZOANMsfrkPjazdnKBPg7XLbFfbGmbkZ+q1RTYSBOC4tDgB1Z+95rczJDvW9FqeJ2bELHvLdVhsLEtvAyKQulehZeMqF0Bm2XAQ647BKtbBYTLyqI/4594vGBXa96gJrg8E/m+xTw0lOvzKp3lj+EA8zSeDc3eKyVsrlkxRJIDiRvEvIVYCQWPQyD0qhB7FpGJROUHLEAp4pOV78zn9cBWnqUTwKx//xN404URoi4UoyPLtvbsf5/TFsdz8Bh7hsFrMl8ipXYbvQ6pfk8b/FqX2nhKj24U5rd5qterpAFV/fPYcb15vGVxWs9x31EySpIGI34vYXkgfnMI1isT+AQE1lT3EhJIw0L5qFjh+Eq3UIlJ3qdgu6xxBaBM5TZzEaLwS2GkwbrxGiuLQ==;xG3+LKYUezuJ2TSjhk8HIA=="

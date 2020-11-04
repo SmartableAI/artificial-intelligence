@@ -3,8 +3,8 @@ category: news
 title: "Tesla's 'Full Self-Driving\" Gets Mixed, But Improving Reviews"
 excerpt: "Tesla has released an early version of its"
 publishedDateTime: 2020-11-03T11:23:00Z
-originalUrl: "https://www.realclearmarkets.com/2020/11/03/teslas_full_self-driving_gets_mixed_but_improving_reviews_582644.html"
-webUrl: "https://www.realclearmarkets.com/2020/11/03/teslas_full_self-driving_gets_mixed_but_improving_reviews_582644.html"
+originalUrl: "https://www.realclearmarkets.com/2020/11/03/teslas_full_self-driving_gets_mixed_but_improving_reviews_582644.html#!"
+webUrl: "https://www.realclearmarkets.com/2020/11/03/teslas_full_self-driving_gets_mixed_but_improving_reviews_582644.html#!"
 type: article
 quality: 19
 heat: -1
@@ -50,22 +50,6 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F10%252F30%252Fb4%252F88af5ff4d0ac41279273c9231a242c21.6b105.jpg%252F1200x630.jpg?signature=qaP-B1dV49N-9EOQPgPCcRl2Hng="
         width: 1200
         height: 630
-        isCached: true
-  - title: "Tesla bumps up the price of its Full Self-Driving tech to $10,000"
-    excerpt: "Even for the wealthier individuals that most Tesla vehicles are targeting, an extra $2,000 might be a tough pill to swallow, especially when the technology is"
-    publishedDateTime: 2020-10-30T16:13:00Z
-    webUrl: "https://www.techspot.com/news/87376-tesla-bumps-up-price-full-self-driving-tech.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/87376-tesla-bumps-up-price-full-self-driving-tech.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87376-tesla-bumps-up-price-full-self-driving-tech.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 89
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-30-image-11.jpg"
-        width: 1680
-        height: 868
         isCached: true
   - title: "Tesla Hikes Up the Price of 'Full Self-Driving' Option to $10,000"
     excerpt: "Tesla bumped up the price of its \"full self-driving\" from $8,000 to $10,000 on Friday, and odds are this won’t be the last price hike Tesla owners see."
@@ -130,22 +114,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fba1d7570-1bb7-11eb-b13c-b010545fb6c4&client=amp-blogside-v2&signature=39967e073c4a44e9b4fc1a30e030658a5e296a09"
         width: 600
         height: 350
-        isCached: true
-  - title: "Watch Tesla Full Self-Driving Beta’s performance from the sky with scary near-miss"
-    excerpt: "Today, we take a look at an interesting new video showing Tesla Full Self-Driving Beta’s performance from the sky in a new drone video with a scary near-miss. As we reported last week, Tesla has started pushing the first version of its “Full Self-Driving” feature that autonomously navigates on both city streets and highways."
-    publishedDateTime: 2020-10-30T16:18:00Z
-    webUrl: "https://electrek.co/2020/10/30/tesla-full-self-driving-beta-performance-scary-near-miss/"
-    ampWebUrl: "https://electrek.co/2020/10/30/tesla-full-self-driving-beta-performance-scary-near-miss/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/30/tesla-full-self-driving-beta-performance-scary-near-miss/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 83
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-test-drone.jpg?quality=82&strip=all"
-        width: 3480
-        height: 1494
         isCached: true
   - title: "Elon Musk Raises Price of Tesla's Full Self-Driving Package to $10,000 USD"
     excerpt: "Following through with what Elon Musk has said before, the CEO of Tesla has now announced a price hike for the EV automaker’s Full Self-Driving (FSD) package, bringing it up by $2,000 USD to $10,000 USD."
@@ -255,6 +223,6 @@ related:
       domain: infosurhoy.com
     quality: 14
 
-secured: "+HXoY+5EuA7XDOKNziq9ZMAw4Ppj4ppBpUc4enc58FtcmS8zgGDh/UpzwbawUb4A/lrCJBPkpM3qnoVkFPLsC9to2KU6fGejONlSn9T+YTxA6qmES9CRaAJzuHRi/Lo+MVttZ3dfD3oh1BerYfAsXRYGUm9XcZNraQdOAMJqV6cxdPFCb8FS9aagHmfhvNvPTQElWQ/+I6PsbiOO27HiHGE5x2G02KnSzy87PygaewMpvYpVzgvIxyHP28MZuiLgJi1o9gwltRkSgumOZQxe/c3Cf8OsAlt2hV0HbviMlPPSn7rZNJAcsVQ3VdA93HK4jQJhBMylKNEYjt0d7UwLDW7RAlrSH8nkz/m+4mVEI50=;E+t17xmducmPg+UWtlJiRQ=="
+secured: "LQ1exmMnyxHxPx4MHkOMUbBZXrxrC/+ZMs3TySJMoenO6EjJhTtraNLGfWerRqWi0fzMQ0rupqHe+zDWivfyspNIdO5EDti3aAzK6MtoH/KbCXcwSCa0E3hPmfeD4jDR3ZV7m5u1UVSZ+zzdQEx4vl9PUAmmGBN12PYIFmXQ3MbHbsQUBmByrAZ+A8bMdcPd2kGkW/jLTH526d24xFVt1fBoHuiGtUKUky0g3qDPN5vMWG+OM5FlIQ6d7S6bc+s3Z74UuyBVKyji9NtVurn/XmTcTZgNn2iZ6U38GSocmX+cydXciQ0IMmwsTKOWxp9sx+cRB3WKtQp6gzB/YmqvZcny2t8qNUr7ZMGwwGn6DFk=;k0Mw/q4/4hqI6Ggw7gPhbQ=="
 ---
 

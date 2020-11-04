@@ -9,8 +9,8 @@ ampWebUrl: "https://news.thewindowsclub.com/microsoft-lobe-to-train-ai-machine-l
 cdnAmpWebUrl: "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/microsoft-lobe-to-train-ai-machine-learning-models-103899/amp/"
 type: article
 quality: 90
-heat: -1
-published: false
+heat: 130
+published: true
 
 provider:
   name: TWCN Tech News
@@ -28,21 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Want To Infuse AI Into Your Apps With Minimal Effort? Try Microsoft Lobe"
-    excerpt: "But AutoML is an extension of the cloud-based ML PaaS offerings demanding the skills of using tools such as Amazon SageMaker, Azure ML, Google AI Platform, and IBM Watson Studio. The AutoML tools expect developers to be familiar with the ML PaaS."
-    publishedDateTime: 2020-10-30T17:53:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/?sh=3f285d437a72"
-    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/amp/"
+  - title: "Microsoft to Expand Azure Kinect’s Computer Vision Tech to Commercial Market"
+    excerpt: "The technology behind Microsoft’s enterprise-focused computer vision camera, the Azure Kinect developer kit, will soon find its way into commercial products. Microsoft is collaborating with two companies,"
+    publishedDateTime: 2020-11-02T13:26:00Z
+    webUrl: "https://www.roadtovr.com/microsoft-azure-kinect-commercial/"
+    ampWebUrl: "https://www.roadtovr.com/microsoft-azure-kinect-commercial/amp/"
+    cdnAmpWebUrl: "https://www-roadtovr-com.cdn.ampproject.org/c/s/www.roadtovr.com/microsoft-azure-kinect-commercial/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 109
+      name: Road to VR
+      domain: roadtovr.com
+    quality: 88
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9bf8a2dbc46c0b82a29403%2F0x0.jpg"
-        width: 1000
-        height: 666
+      - url: "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2020/11/azure-kinect.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Large-Scale Multilingual AI Models from Google, Facebook, and Microsoft"
     excerpt: "Researchers from Google, Facebook, and Microsoft have published their recent work on multilingual AI models. Google and Microsoft have released models that achieve new state-of-the-art performance on NLP tasks measured by the XTREME benchmark,"
@@ -72,20 +72,15 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "QuEST Global launches Center of Excellence for Microsoft Azure to develop innovative solutions for customers"
-    excerpt: "QuEST Global, a global product engineering and lifecycle services company, today announced it has signed an agreement with Microsoft to"
-    publishedDateTime: 2020-11-03T11:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-301164875.html"
+  - title: "Artificial Intelligence Market 2020 New Technology Research – Google, IBM, Baidu, Microsoft, Apple Inc., Ipsoft, NVIDIA corporation"
+    excerpt: "Artificial Intelligence Global Market Report 2020-30: Covid 19 Growth and Change The artificial intelligence market consists of sales of the artificial intelligence software and related services. Artificial Intelligence (AI) some times referred to as machine intelligence."
+    publishedDateTime: 2020-11-03T11:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-new-technology-research-google-ibm-baidu-microsoft-apple-inc-ipsoft-nvidia-corporation-2020-11-03"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 35
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
 
 secured: "v3iVh6/YaN785lT3KCkX4XXrDTVAELu/DULxDXldnCfCvFTrxYPtV+ATpiTv0zHJD8/MCBORZYc5osqhX8+mKDUY7OjaB3ofI5bFvol2C4EXki0pchdAHERbsjgRfZUBPFXxx44QUdn7NMLZEMo2xTgiGFeVObA1XvrLz2NNeA7SjGiMnTRKCPHXBo2O0rRw9mTE2zX4E9RAj9q7GsfU8lRkm8iZBxmXHxS93ujxyBHMUAzfCvVJChDxKXlwxbyoPH3APkW7oD0yfVMbqiU+1MxBR1lcxvI7qWELDCUMPucxx4FmJfcUAGXWy2hd2obzaHBtbOFvDqPokQjpEZkORhH2nYmipDHvGp/Xna/DKbSdMtbA/LmBlzf7hlSOM13qWB1upAyGIgXt7tOVGZXnA3P9zGtbKS1pIGvOfBA2lyjMmGU8YrhLk/zNqb97W9oRN1syAekmXdEDO7HdDrGgEKsfQ6HLCRbnnQ/C9UoXFlGewwXjO8DjKHF43ShusNQkCLGUeuLMkEdrzYUbrbwU1w==;NFuROnRbcAUEKNcQNh5q+w=="
 ---
