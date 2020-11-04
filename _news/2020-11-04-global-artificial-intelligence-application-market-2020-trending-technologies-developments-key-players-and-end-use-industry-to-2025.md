@@ -70,6 +70,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microprocessor and GPU Market worth $138.2 billion by 2025 - Exclusive Report by MarketsandMarkets"
+    excerpt: "According to the new market research report \"Microprocessor and GPU Market with COVID-19 Impact Analysis by Architecture, Functionality, GPU Type, Deployment"
+    publishedDateTime: 2020-11-04T12:34:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-11/51148193-microprocessor-and-gpu-market-worth-dollar-138-2-billion-by-2025-exclusive-report-by-marketsandmarkets-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 5
 
 secured: "Q1PqD8hvTIyRKY6xm7tgYGIiaZ2JgtCeRSWnab9+loFsAx5lAt43gx36uFtWLDH1NCo21D6GjtxZpNGGhURZXh52TxB3Ke7AtD3W6nPtZylncgx50KD3hEIUpOoT+eBe7uA4tYJ87Yg1c4WeNcytHsQbGqBWxZaJreJK9VWBs9F5ZJ69OlnQC5GlEkgBR5MLWlQ94w1gUXu8aUHTMOSXnTLrFHo5yZdeE5MBfPnJHe4AAh3PhK2kz53J1IwjiYsOTpEa0JWkoKom2+lAKHMMuXuIx+JBg3M8BgHiKB4SzbUdU2DPjSDzSxdMQkWV0Bo11wTXiLEjqkqKZPzy/usb1tOv2Gn/3phzf2zNjpnrtfg=;pEpXU/7JzV0KD8oJvOfNPg=="
 ---

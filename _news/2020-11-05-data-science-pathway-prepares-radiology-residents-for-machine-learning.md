@@ -24,6 +24,19 @@ images:
     height: 894
     isCached: true
 
-secured: "F6nVuxLP7jBES2mF73JZEGPo5sNU+bqzcy4NMHMi2Fm9h/I6NKiN7jrMaV/A7V3dgw682XT9f71tqNKVkvB97z5lmohzGv0ACBpJGUN1dlGSNMOVvOKAyU0mFWvTgtb1hNHJoJdrfSZROj1tFJQEXcPDewnZBj3XPgJ4v48/sN7WAkV9IERH6Rb+2ZUva1hyF3W9ur9pe4px4C2h+LEEvoSoIOOAWVI8lfmxZWP3c43F5GMnV3ESw2rtqua/syFNFc2aEqUvtACKsFO495vaZ8xq95TLJ6qTRxKGeSgjvtRGiCPEeOpXZou8pJYXWEUnoPfWC+7DIg14PvQEXRcNlSLt0/Qmz26O4VUzSIX0lok=;/XobZgNE8kYFQ+ODnvYeaw=="
+related:
+  - title: "RSNA: Data Science Pathway Prepares Radiology Residents for Machine Learning"
+    excerpt: "A recently developed data science pathway for fourth-year radiology residents will help prepare the next generation"
+    publishedDateTime: 2020-11-04T18:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/n18212479/rsna-data-science-pathway-prepares-radiology-residents-for-machine-learning"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18212479"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18212479"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 36
+
+secured: "2QFptSzxqFidgonidB4PLkGWoSNtEFAzPgMQ9L9Y2xuSJAnBn+PbOWHrss54qY0dwU0GtfSTkWUNkqFy7BBIHC8qX2Gg8/pJ0j3xAN9Dm3VFR5jcZ86duZ8Q4xmMIFymH2PY/usAZpzGO/+kp9fMgxX9QWrrWKVH4fMIu6c1ouR5aDuL0/FO/ISaSyqI9by4WIRQnYLTlOin0KNJLXe3fO9AfD2WwF/az5c8BL21SaYQQeOWpYP8QNGfTv0Ya4eNsROFGFSFkSPy4IvQlzGmqEfqxwj5rmua1ZybIdFAYumZ/cHv5pC7qCu/WYqdStXwHEF/8TFQDNqNjTG46vDsPTB1deln7fCisBbgDxHL52zGCEBG5VbtmvqezB80gqVkSAaomBGu3/RpvH72vgFYAk4XSanWDA0kQju/F6IXsYmsURIGYiBUuZdJRCQ/Isg2cVjQab6KvAE+yUr3rhqg0UiTd0ztfhDd3xEZWNwqW6XkSQgu8/3UaAD7mxmdlCBiEnHCUmwBtzlont7RV9h1Bg==;OPm9r8WehTnaJLiKu4vZeg=="
 ---
 

@@ -132,15 +132,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "Tesla hikes price of 'Full Self-Driving' option to $10,000"
-    excerpt: "Soon after the launch of the 'Full Self Driving (FSD) set of features to a limited number of expert and careful drivers, the electric car maker Tesla has increased the price of the new option to $10,000 from $8,000. The price of the 'Full Self-Driving ..."
-    publishedDateTime: 2020-10-31T05:40:00Z
-    webUrl: "https://www.dailypioneer.com/2020/trending-news/tesla-hikes-price-of--full-self-driving--option-to--10-000.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 19
   - title: "Tesla's 'Full Self-Driving\" Gets Mixed, But Improving Reviews"
     excerpt: "Tesla has released an early version of its"
     publishedDateTime: 2020-11-03T11:23:00Z

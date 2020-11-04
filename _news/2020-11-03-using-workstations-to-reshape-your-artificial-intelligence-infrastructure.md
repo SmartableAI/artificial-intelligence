@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "It’s Time to Start Using AI for Supply Chain Risk Management"
+    excerpt: "In this contributed article, Nate DeJong and Colleen Eland of LLamasoft, believes it’s worth taking a fresh look at how AI can boost supply chain resiliency, whether that’s creating a digital twin, building predictive models,"
+    publishedDateTime: 2020-11-04T14:46:00Z
+    webUrl: "https://insidebigdata.com/2020/11/04/its-time-to-start-using-ai-for-supply-chain-risk-management/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 37
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2019/03/Artificial_intelligence_safe_5.jpg"
+        width: 300
+        height: 225
+        isCached: true
 
 secured: "gIXu2/9AApPCYGrOlFjR/99EnrD8uWtsCsPKRrhLUwXxoLPGfjgUFZmWkx3ig3zbfIak99IJ98YoImNMgUr2Unbngsc9sDmBAOPOOKCfRUA7fIHKyAr0zo52XNYv69sITcO07Xiwz69LfRsmpBhJQU1EYDZYNE1PxtaOUgSbpALZORo7XRpCj7330c7nED/lBSDF8HpyRrp7CCBdCYl/CtVlUYVJa8ekjsv+nw12dQ9h5e2w+0QyEAy1FyoMu86BKdGh+jfuyAbM5h9DNy/Jr0LjU0y09B2Dg6iAhiplZXItbYpziJTuOHRbzzW8Bx0zt1fSqgW0LHAL8dA+yk4DxDILggcgBc4rcw8vH9HPZx/uggDmVm9PLL95j+lrFPJ4sOaGjsEnK42i0b1vL2f4mdvjYalnfdncl0UXyaE/Pf6TkILkbetRYXsXLTXjgPN2MmkI3kI0p15hKimS2Qqk4f5T8SNASBvjap9mAtxsrZJtiDf5TKRUaAZrKD+cswKhaROwuWPWt3obSGQ9bDCbjA==;XPw4mQo+oxWDqvhSAaSA7g=="
 ---

@@ -2,6 +2,195 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-10-06-this-robot-fry-chef-on-rails-can-be-yours-for-30000.md",
+      "title": "This robot fry chef on rails can be yours for $30,000",
+      "excerpt": "The robot uses machine learning to identify foodstuff and a camera array (which includes a 3D depth-sensing cam from Intel and a thermal camera) to navigate its environment. A robotic arm then wields a spatula and grabs baskets full of food to fry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2020/10/6/21503892/miso-robotics-flippy-roar-robotic-fry-chef-on-sale-price",
+      "originalUrl": "https://www.theverge.com/2020/10/6/21503892/miso-robotics-flippy-roar-robotic-fry-chef-on-sale-price",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/7TlofFBOdE7uaQI8TjRq9jR9zKY=/0x0:700x433/1400x933/filters:focal(294x161:406x273):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67588185/flippy_roar.0.gif",
+          "width": 700,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/10/6/21503892/miso-robotics-flippy-roar-robotic-fry-chef-on-sale-price",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/6/21503892/miso-robotics-flippy-roar-robotic-fry-chef-on-sale-price",
+      "publishedDateTime": "2020-10-06T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-how-to-invest-in-miso-robotics-burger-flipping-robot.md",
+      "title": "How to Invest in Miso Robotics’ Burger-Flipping Robot",
+      "excerpt": "But that’s not to say AI-powered robots aren’t making lots of progress. One example of this is the Flippy robot, which cooks ... stock — Miso is the startup that is building Flippy ...",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2020/10/miso-robotics-flippy-and-the-robot-future-for-restaurants/",
+      "originalUrl": "https://investorplace.com/2020/10/miso-robotics-flippy-and-the-robot-future-for-restaurants/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2020/07/miso-robotics-stock-2.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2020/10/miso-robotics-flippy-and-the-robot-future-for-restaurants/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/10/miso-robotics-flippy-and-the-robot-future-for-restaurants/amp/",
+      "publishedDateTime": "2020-10-06T06:10:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-how-ai-and-humans-can-work-together-to-make-better-recruiting-decisions.md",
+      "title": "How AI And Humans Can Work Together To Make Better Recruiting Decisions",
+      "excerpt": "As the co-founder of an AI-powered recruiting organization, I expect that AI won’t displace recruiting jobs. In fact, I anticipate that AI will become an indispensable tool for recruiters. Ask any recruiter: What’s the most tedious aspect of your job?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/06/how-ai-and-humans-can-work-together-to-make-better-recruiting-decisions/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/06/how-ai-and-humans-can-work-together-to-make-better-recruiting-decisions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee3c90cac807a0006b5add4%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/06/how-ai-and-humans-can-work-together-to-make-better-recruiting-decisions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/06/how-ai-and-humans-can-work-together-to-make-better-recruiting-decisions/amp/",
+      "publishedDateTime": "2020-10-06T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-marquis-software-deploys-the-highest-level-of-biometric-security-by-using-awares-knomi-for-face-voice-authentication.md",
+      "title": "Marquis Software Deploys the Highest Level of Biometric Security by Using Aware's Knomi® for Face + Voice Authentication",
+      "excerpt": "PRNewswire/ -- Aware, Inc. (NASDAQ: AWRE), a leading global provider of biometrics software products, solutions and services, today announced that",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/marquis-software-deploys-the-highest-level-of-biometric-security-by-using-awares-knomi-for-face--voice-authentication-301146607.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/marquis-software-deploys-the-highest-level-of-biometric-security-by-using-awares-knomi-for-face--voice-authentication-301146607.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1283061/Aware_Logo.jpg?p=facebook",
+          "width": 1060,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-06T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-sarcos-defense-awarded-contract-by-us-air-force-to-develop-smart-dexterous-robotic-systems-with-advanced-artificial-intelligence.md",
       "title": "Sarcos Defense Awarded Contract by U.S. Air Force to Develop “Smart” Dexterous Robotic Systems with Advanced Artificial Intelligence",
       "excerpt": "Sarcos Defense Awarded Contract by U.S. Air Force to Develop “Smart” Dexterous Robotic Systems with Advanced Artificial Intelligence",
@@ -943,204 +1132,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-gtc-2020-roundup-nvidias-virtual-world-for-robots-ai-video-calls.md",
-      "title": "GTC 2020 roundup: Nvidia’s virtual world for robots, A.I. video calls",
-      "excerpt": "Nvidia's GPU Technology Conference, also known as GTC, is all about artificial intelligence. We'll give you a rundown of everything that was announced.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/",
-      "originalUrl": "https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/jensen-huang-rtx-1200x630-c-ar1.91-n.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/everything-nvidia-announced-at-gtc-2020/?amp",
-      "publishedDateTime": "2020-10-05T19:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-helsinki-rides-the-slush-wave-toward-a-booming-startup-future.md",
-      "title": "Helsinki rides the Slush wave toward a booming startup future",
-      "excerpt": "Helsinki’s City Council approved plans for an expansion of the existing “Maria 01 Campus,” a former downtown hospital complex. Even before it starts spreading its acreage, the facility is already home to 120 startups and 12 venture capital funds.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/06/helsinki-rides-the-slush-wave-toward-a-booming-startup-future/",
-      "originalUrl": "https://techcrunch.com/2020/10/06/helsinki-rides-the-slush-wave-toward-a-booming-startup-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-841887872.jpg?w=1000",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/06/helsinki-rides-the-slush-wave-toward-a-booming-startup-future/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/06/helsinki-rides-the-slush-wave-toward-a-booming-startup-future/amp/",
-      "publishedDateTime": "2020-10-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-collaborating-with-ai-to-create-bach-like-compositions-in-aws-deepcomposer.md",
-      "title": "Collaborating with AI to create Bach-like compositions in AWS DeepComposer",
-      "excerpt": "AWS DeepComposer provides a creative and hands-on experience for learning generative AI and machine learning (ML). We recently launched the Edit melody feature, which allows you to add, remove, or edit specific notes, giving you full control of the pitch, length, and timing for each note. In this post,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/collaborating-with-ai-to-create-bach-like-compositions-in-aws-deepcomposer/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/collaborating-with-ai-to-create-bach-like-compositions-in-aws-deepcomposer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/02/3-.jpg",
-          "width": 900,
-          "height": 546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-05T15:27:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-artificial-intelligence-technology-solutions-announces-board-of-advisors.md",
-      "title": "Artificial Intelligence Technology Solutions Announces Board of Advisors",
-      "excerpt": "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), is pleased to announce the formation of a Board of Advisors for its",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-announces-board-of-advisors-1029648352",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-announces-board-of-advisors-1029648352",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/artificial-intelligence-technology-solutions-announces-board-of-advisors-1029648352",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-technology-solutions-announces-board-of-advisors-1029648352",
-      "publishedDateTime": "2020-10-05T13:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

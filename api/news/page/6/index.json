@@ -2,6 +2,145 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-29-untether-ai-ushers-in-the-petaops-era-with-at-memory-computation-for-ai-inference-workloads.md",
+      "title": "Untether AI Ushers in the PetaOps Era with At-Memory Computation for AI Inference Workloads",
+      "excerpt": "Today at the fall Linley Processor Conference, Untether AITM unveiled its tsunAImi TM accelerator cards powered by the runAI TM devices. Using at-memory computation, Untether AI breaks through the barriers of traditional von Neumann architectures,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-toronto-corporate-news-ontario-fa7c77f0dfa542b5a35e02e163a0580b",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-toronto-corporate-news-ontario-fa7c77f0dfa542b5a35e02e163a0580b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-29T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-where-is-artificial-intelligence-now-and-where-should-your-company-be.md",
+      "title": "Where Is Artificial Intelligence Now, And Where Should Your Company Be?",
+      "excerpt": "We are near the end of the hype cycle for artificial intelligence (AI ... AI is about to revolutionize our broken health-care system. Is your company ready for AI? Anyone with deep data claims to be using AI. Credible pilots and use cases have succeeded ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/29/where-is-artificial-intelligence-now-and-where-should-your-companybe/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/29/where-is-artificial-intelligence-now-and-where-should-your-companybe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f32cd286b894b218218c8dd%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/29/where-is-artificial-intelligence-now-and-where-should-your-companybe/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/10/29/where-is-artificial-intelligence-now-and-where-should-your-companybe/amp/",
+      "publishedDateTime": "2020-10-29T05:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-face-recognition-systems-market.md",
+      "title": "Face Recognition Systems Market",
+      "excerpt": "According to Market Growth Insight, the Face Recognition Systems Market is anticipated to reach USD XX billion by the end of 2025 with projected CAGR of XX% over the near future. The report delivers thorough analysis of the key drivers, opportunities ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth",
+      "originalUrl": "https://www.openpr.com/news/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/a/Ta29239767_g.jpg",
+          "width": 750,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth",
+      "publishedDateTime": "2020-10-29T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-sibros-to-accelerate-adoption-of-advanced-vehicle-connectivity-solutions-on-aws.md",
       "title": "Sibros To Accelerate Adoption Of Advanced Vehicle Connectivity Solutions On AWS",
       "excerpt": "Deep-connected vehicle platform Sibros announced on Wednesday its collaboration with Amazon Web Services (AWS) to accelerate the adoption ... diagnostics and artificial intelligence (AI)-powered analytics. The company also securely manages all in-vehicle ...",
@@ -1079,153 +1218,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-salesforces-paula-goldman-on-navigating-the-ethical-issues-in-ai.md",
-      "title": "Salesforce's Paula Goldman on Navigating the Ethical Issues in AI",
-      "excerpt": "The ethics of AI have become an important business and reputation issue in light of the Covid-19 pandemic and public protests. Paula Goldman shares how companies can address the ethical perils of biased algorithms,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/video/events/salesforce-paula-goldman-on-navigating-the-ethical-issues-in-ai/E649BA6A-18FB-4367-8C37-EB268A01B278.html",
-      "originalUrl": "https://www.wsj.com/video/events/salesforce-paula-goldman-on-navigating-the-ethical-issues-in-ai/E649BA6A-18FB-4367-8C37-EB268A01B278.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://m.wsj.net/video/20201028/102820ai4ethical/102820ai4ethical_1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-global-artificial-intelligence-in-healthcare-market.md",
-      "title": "Global Artificial Intelligence in Healthcare Market",
-      "excerpt": "DBMR has added a new report titled Global Artificial Intelligence in Healthcare Market with data Tables for historical and forecast years represented with Chats & Graphs spread through Pages with easy to understand detailed analysis. Global Artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2175181/global-artificial-intelligence-in-healthcare-market-2020",
-      "originalUrl": "https://www.openpr.com/news/2175181/global-artificial-intelligence-in-healthcare-market-2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/a/Ta28369455_g.jpg",
-          "width": 420,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2175181/global-artificial-intelligence-in-healthcare-market-2020",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2175181/global-artificial-intelligence-in-healthcare-market-2020",
-      "publishedDateTime": "2020-10-28T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-hebbia-wants-to-make-ctrl-f-or-command-f-actually-useful-through-better-ai.md",
-      "title": "Hebbia wants to make Ctrl-F (or Command-F) actually useful through better AI",
-      "excerpt": "Deep learning has made tremendous strides in recent years, with new systems and models like GPT-3 offering higher quality interpretations of human language, empowering developers to use these concepts in more diverse applications.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/28/hebbia-wants-to-make-ctrl-f-or-command-f-actually-useful-through-better-ai/",
-      "originalUrl": "https://techcrunch.com/2020/10/28/hebbia-wants-to-make-ctrl-f-or-command-f-actually-useful-through-better-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/Hebbia-Techcrunch.gif?w=680",
-          "width": 680,
-          "height": 468,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/28/hebbia-wants-to-make-ctrl-f-or-command-f-actually-useful-through-better-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/28/hebbia-wants-to-make-ctrl-f-or-command-f-actually-useful-through-better-ai/amp/",
-      "publishedDateTime": "2020-10-28T11:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

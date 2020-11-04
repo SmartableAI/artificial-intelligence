@@ -9,8 +9,8 @@ ampWebUrl: "https://www.roadtovr.com/microsoft-azure-kinect-commercial/amp/"
 cdnAmpWebUrl: "https://www-roadtovr-com.cdn.ampproject.org/c/s/www.roadtovr.com/microsoft-azure-kinect-commercial/amp/"
 type: article
 quality: 88
-heat: -1
-published: false
+heat: 128
+published: true
 
 provider:
   name: Road to VR
@@ -28,36 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Lobe to train AI, machine learning models without writing code"
-    excerpt: "Microsoft has announced the availability of Lobe, a desktop app to train artificial intelligence (AI) and machine learning (ML) models."
-    publishedDateTime: 2020-10-31T05:50:00Z
-    webUrl: "https://news.thewindowsclub.com/microsoft-lobe-to-train-ai-machine-learning-models-103899/"
-    ampWebUrl: "https://news.thewindowsclub.com/microsoft-lobe-to-train-ai-machine-learning-models-103899/amp/"
-    cdnAmpWebUrl: "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/microsoft-lobe-to-train-ai-machine-learning-models-103899/amp/"
-    type: article
-    provider:
-      name: TWCN Tech News
-      domain: thewindowsclub.com
-    quality: 90
-    images:
-      - url: "https://news.thewindowsclub.com/wp-content/uploads/2020/10/Microsoft-Lobe.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Large-Scale Multilingual AI Models from Google, Facebook, and Microsoft"
-    excerpt: "Researchers from Google, Facebook, and Microsoft have published their recent work on multilingual AI models. Google and Microsoft have released models that achieve new state-of-the-art performance on NLP tasks measured by the XTREME benchmark,"
-    publishedDateTime: 2020-11-03T14:10:00Z
-    webUrl: "https://www.infoq.com/news/2020/11/multilingual-ai-models/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 56
-    images:
-      - url: "https://res.infoq.com/news/2020/11/multilingual-ai-models/en/headerimage/multilingual-ai-models-header-1604247885452.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft & Others Catalog Threats to Machine Learning Systems"
     excerpt: "Thirteen organizations worked together to create a dictionary of techniques used to attack ML models and warn that such malicious efforts will become more common."
     publishedDateTime: 2020-11-03T00:32:00Z
@@ -81,6 +51,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 53
+  - title: "Analysis: In an epic pivot to the cloud, Microsoft makes Azure the linchpin of its future"
+    excerpt: "Microsoft Corp.’s Azure cloud computing service is the linchpin of the tech giant’s innovation strategy. As we reported last week, we believe that in the next decade, changes in public policy will restrict the way in which big internet companies are able to appropriate user data."
+    publishedDateTime: 2020-10-31T18:43:00Z
+    webUrl: "https://siliconangle.com/2020/10/31/analysis-epic-pivot-cloud-microsoft-makes-azure-linchpin-future/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 45
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/AdobeStock_321471082_Editorial_Use_Only-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "QuEST Global launches Center of Excellence for Microsoft Azure to develop innovative solutions for customers"
+    excerpt: "QuEST Global, a global product engineering and lifecycle services company, today announced it has signed an agreement with Microsoft to"
+    publishedDateTime: 2020-11-03T11:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-301164875.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 35
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "mobyA9iLT/umY+Mt40TqvcjQlmcaxQGEm1ra5idKhKx186pzHIBmYie591Fc1fLmoXqDcCpX6+4meBXpzJ30MaDbvn5sKespSOZYQUMLv9FaBpsSBZyFWDHc6kPiAEwZwytzjpvQSDqtXZJJy+IhJInPE2GdcxG2A05oP9VlbistFDdUSEK4YA5CH1hsqgFx8ygQ8UokrzVLvjDiCINgXHZOXCFql5nbKaukMUi0lD0DGYnbj9EyLdpv7U2le3dqX4LQD7f+r3xIGOS/+ZjrSmdAvM+GZF/5jtXqU3MJDErlkNAaw4v1lZncdaBtNKjSe9BtM7N21a2udHIB57NAzcDhIaAVa7g5QDCpDv4wrROxHS5xHu3CJ6cxCBXDxqkO35+kD1mEES3HDm2BDZwvxkiLthPgCqo56lRaDYb4lIa4mMViTaqBEpXzPud+DkuQAjbef9pwh88EA9ro+coqIuCqsEG9hjLDXew2G8C7x6lz1YGfE04Vs4EmrEX9FQrq9f+2HoITRwNdM3N1dAPiKA==;gHHCaaCcSZ2nqcOzwnLnsg=="
 ---

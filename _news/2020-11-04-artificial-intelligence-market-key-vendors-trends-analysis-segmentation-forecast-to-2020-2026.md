@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-key-vendors-trends-analysis-segmentation-forecast-to-2020-2026-2020-11-04"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microprocessor and GPU Market worth $138.2 billion by 2025 - Exclusive Report by MarketsandMarkets"
+    excerpt: "According to the new market research report \"Microprocessor and GPU Market with COVID-19 Impact Analysis by Architecture, Functionality, GPU Type, Deployment"
+    publishedDateTime: 2020-11-04T12:34:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-11/51148193-microprocessor-and-gpu-market-worth-dollar-138-2-billion-by-2025-exclusive-report-by-marketsandmarkets-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 5
 
 secured: "MH74nnyvQdjfyNaMV8VYU7h5fuGQopEu6vvb4y67KxCD6F30g/IVfCXNe1bQq50LFXHmG8+arCI6pQ6f982CXCqAus/+uJLkemIP8f8qbHVU3mg/Nw/vYA4PrtRbMKZ0HgMAjS4YGEnk1OUDCT55pQyRt8e3r+RsL5MvvzxI5owTqrkooyiikf3bPZAqiPk5IB1gW6QeFZD7VhHemQGxb65g6ODsISn/B4Wzc5nC889W4wFrUjK0hdl8qN62gYjaoy0b2Kf5MemxI7yBYNij70ZNaN30kOBE0BtrsPQCZ3SVVWHefFnig+TNHe+aUodeh5krBr/SYLj8zQIDvP6K8E9gU78UF0HOrZOmuKoi05k=;2/Rb6dVPSIWEcUL7CI/HuA=="
 ---

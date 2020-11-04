@@ -291,6 +291,20 @@ related:
       name: PhillyVoice
       domain: phillyvoice.com
     quality: 37
+  - title: "How Artificial Intelligence Is Changing The Fitness Industry During COVID-19"
+    excerpt: "The fitness industry is undergoing a major transformation through a massive deployment of IoT applications and innovative artificial intelligence (AI) product offerings. The research firm Reports and Data predicts that the annual revenues for the fitness app market will reach $14."
+    publishedDateTime: 2020-11-04T20:56:00Z
+    webUrl: "https://customerthink.com/how-artificial-intelligence-is-changing-the-fitness-industry-during-covid-19/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 34
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/25726786_s.jpg"
+        width: 445
+        height: 450
+        isCached: true
   - title: "How an Automated Data Labeling Platform Accelerates AI industry's Development During COVID-19"
     excerpt: "NEW YORK, NY / ACCESSWIRE / November 3, 2020 / The impact of AI on COVID-19 has been widely reported across the globe, yet the impact of COVID-19 on AI has not received"
     publishedDateTime: 2020-11-03T15:00:00Z

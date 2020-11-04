@@ -6,8 +6,8 @@ publishedDateTime: 2020-11-04T20:05:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market---major-technology-giants-in-buzz-again-2020-11-04"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market---major-technology-giants-in-buzz-again-2020-11-04"
 type: article
-quality: 72
-heat: 72
+quality: 74
+heat: 74
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Facebook AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

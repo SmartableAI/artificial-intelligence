@@ -2,6 +2,100 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-03-retailers-use-ai-to-improve-online-recommendations-for-shoppers.md",
+      "title": "Retailers Use AI to Improve Online Recommendations for Shoppers",
+      "excerpt": "Companies are getting better at helping customers find what they are looking for—even when they don’t know what they want.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/retailers-use-ai-to-improve-online-recommendations-for-shoppers-11604330308",
+      "originalUrl": "https://www.wsj.com/articles/retailers-use-ai-to-improve-online-recommendations-for-shoppers-11604330308",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-253272/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/retailers-use-ai-to-improve-online-recommendations-for-shoppers-11604330308",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/retailers-use-ai-to-improve-online-recommendations-for-shoppers-11604330308",
+      "publishedDateTime": "2020-11-02T08:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-02-machine-learning-that-predicts-anti-cancer-drug-efficacy.md",
+      "title": "Machine learning that predicts anti-cancer drug efficacy",
+      "excerpt": "With the advent of pharmacogenomics, machine learning research is well underway to predict patients' drug response that varies by individual from the algorithms derived from previously collected data on drug responses.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-11-machine-anti-cancer-drug-efficacy.html",
+      "originalUrl": "https://medicalxpress.com/news/2020-11-machine-anti-cancer-drug-efficacy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/3-cancer.jpg",
+          "width": 2880,
+          "height": 2304,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-11-machine-anti-cancer-drug-efficacy.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-machine-anti-cancer-drug-efficacy.amp",
+      "publishedDateTime": "2020-11-02T07:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-02-leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform.md",
       "title": "Leena AI nabs $8M Series as it expands from chatbots to HR service platform",
       "excerpt": "When we covered Leena AI as a member of the Y Combinator Summer 2018 cohort, the young startup was firmly focused on building HR chatbots, but in the intervening years it has expanded the vision to a broader HR policy platform.",
@@ -102,6 +196,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-02-microsoft-to-expand-azure-kinects-computer-vision-tech-to-commercial-market.md",
+      "title": "Microsoft to Expand Azure Kinect’s Computer Vision Tech to Commercial Market",
+      "excerpt": "The technology behind Microsoft’s enterprise-focused computer vision camera, the Azure Kinect developer kit, will soon find its way into commercial products. Microsoft is collaborating with two companies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.roadtovr.com/microsoft-azure-kinect-commercial/",
+      "originalUrl": "https://www.roadtovr.com/microsoft-azure-kinect-commercial/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2020/11/azure-kinect.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.roadtovr.com/microsoft-azure-kinect-commercial/amp/",
+      "cdnAmpWebUrl": "https://www-roadtovr-com.cdn.ampproject.org/c/s/www.roadtovr.com/microsoft-azure-kinect-commercial/amp/",
+      "publishedDateTime": "2020-11-02T05:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Road to VR",
+        "domain": "roadtovr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -960,7 +1098,7 @@
       "originalUrl": "https://www.engadget.com/ai-covid-19-cough-detection-from-recordings-213858299.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 307,
+      "heat": 317,
       "tags": null,
       "images": [
         {
@@ -1102,161 +1240,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-01-how-to-make-sure-your-ai-for-good-project-actually-does-good.md",
-      "title": "How to make sure your ‘AI for good’ project actually does good",
-      "excerpt": "from the very start of your research. When you are promoting a project, be clear about its scope and limitations; don’t just focus on the potential benefits it can deliver. As with any AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/31/how-to-make-sure-your-ai-for-good-project-actually-does-good/",
-      "originalUrl": "https://venturebeat.com/2020/10/31/how-to-make-sure-your-ai-for-good-project-actually-does-good/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/AI.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/31/how-to-make-sure-your-ai-for-good-project-actually-does-good/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/31/how-to-make-sure-your-ai-for-good-project-actually-does-good/amp/",
-      "publishedDateTime": "2020-10-31T12:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-31-waymo-shares-in-depth-details-of-self-driving-car-activity-in-phoenix.md",
-      "title": "Waymo shares in-depth details of self-driving car activity in Phoenix",
-      "excerpt": "Waymo’s vehicles have driven a total of 6.1 million miles in Phoenix, Arizona, where it first started testing its self-driving technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html",
-      "originalUrl": "https://www.engadget.com/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Feda031a0-1b7e-11eb-aeff-c6d8e3737344&client=amp-blogside-v2&signature=64755fdb1c313a1eb2bd21d17cef2c2065e20715",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html",
-      "publishedDateTime": "2020-10-31T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-31-how-is-artificial-intelligence-used-in-real-estate.md",
-      "title": "How Is Artificial Intelligence Used in Real Estate?",
-      "excerpt": "Let us help you navigate this asset class by signing up for our comprehensive real estate investing guide. Artificial intelligence is a complex topic. While some love it and others hate it, there's no denying that it's currently transforming the real ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/millionacres/real-estate-market/real-estate-innovation/how-is-artificial-intelligence-used-in-real-estate/",
-      "originalUrl": "https://www.fool.com/millionacres/real-estate-market/real-estate-innovation/how-is-artificial-intelligence-used-in-real-estate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.foolcdn.com/media/millionacres/images/houses_and_computer.max-1200x600.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/millionacres/amp/real-estate-market/real-estate-innovation/how-is-artificial-intelligence-used-in-real-estate/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/millionacres/amp/real-estate-market/real-estate-innovation/how-is-artificial-intelligence-used-in-real-estate/",
-      "publishedDateTime": "2020-10-31T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
