@@ -43,20 +43,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "Waymo And Other Self-Driving Car Companies Readying Real-World Driverless Transportation"
-    excerpt: "Until spring this year, Waymo’s self-driving vehicles were in their testing phase and were used in up to 10% of the firm’s rides. The pandemic forced the company to shutter its doors and temporarily suspend on-road testing, but it is now back online ..."
-    publishedDateTime: 2020-10-30T23:59:00Z
-    webUrl: "https://www.forbes.com/sites/peterlyon/2020/10/31/waymo-and-other-self-driving-car-companies-readying-real-world-driverless-transportation/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 75
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9e1ae8b307dfb172a46190%2F0x0.jpg"
-        width: 1199
-        height: 798
-        isCached: true
   - title: "Google's Waymo is pulling its self-driving cars out of San Francisco in case violence erupts around the election"
     excerpt: "The company will also stop testing on San Francisco's streets for the next two days as the 2020 presidential election unfolds."
     publishedDateTime: 2020-11-03T17:09:00Z
@@ -134,6 +120,6 @@ related:
         height: 250
         isCached: true
 
-secured: "dUeGzhUbut+6UY56vEBpGCOONewORBlULoic7O9FwezlwMq6ncxDLmviayMtZUuRFujuXBLjwOw+Jyt+P4zZf3B1XMUS/NpbDGB/5Qe1Pw9YXKVed8LRSXW+/gCBOKBIfnOlmMXW3XWTIMTLSaU2cq8NiKSNj8HDa8goVEoLBPOCVBlEPnlOtjU+UZbTSHBQ8+SMp6OGVH2ZDh0ZaQb3vd4uffRj/Ri1LOyjrcqX4IDhNEbU2mDYKzlhTYyWVLzlOma5dnk5zIfI8AMNzjUyNwyh7DqmjmgX8OKo8tHU+BG+owHH54Xpe+W3E/6Ye2v5cdTsj2s+FoEEZlCPRKVVOi4UqDhzbk+bGEYspdaE/ys=;UVJivdvWyIuP69pW535LSg=="
+secured: "SprEi/QlI1m8RJO545eAKEvdyYrSnRxPteH4bv5X5SFgeWvEjRDpLPRUv8ONHqxkA850qnxxINooatZb1YLcFb0xGIjr2u3qGeGUlIw2EDq4QyZjrjzbHc6HpGAAiMIvzsfHoRYmG03dOGyhK99FzzrrpQSgw6QU5CmibFMTpk7e9hIYYWGDV4Bq/ioda6E1f73PfeUoD9sV0fl6KASOJmJYHflGkZR2VfNDR6svZFiuX/Jpr3Qm8gemzWFTS3ZZWCYOCulrpDHrJqDo/qg6E2oXgQYpnyC3MDK9i2MFpDm43rkjpB3xiSOF74sgHNCkLzNsxT5nsb5NKbKPQ8NDF02rys3oyB/Ocp9AhJTqg4ldXiQxgzWFhU7c54zGkjpzoACDtER3XysKTxgLSOGxQJM/cAJHHiqkNMRynus6NYxD1l2zRHQqAbvqKI92uAWuV6+viYdIXzt0gYfSQE4wGc+Ed4rNhoDYPYA3g3Fj0+D/+Lg9cuLSDjyxeEVwvaryLqIcXPvyB1NiIUQh0JSn7g==;4SeuqtNVnl+B++YUj+HEBw=="
 ---
 

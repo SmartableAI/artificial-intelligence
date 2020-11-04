@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Vodafone and HORIBA MIRA bring 5G to driverless cars"
-    excerpt: "At its Nuneaton headquarters. driverless vehicle tech provider HORIBA MIRA is partnering with Vodafone to implement 5G into self-driving cars"
-    publishedDateTime: 2020-11-02T14:13:00Z
-    webUrl: "https://www.information-age.com/vodafone-horiba-mira-bring-5g-driverless-cars-123492503/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 39
-    images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2020/11/vodafone-horiba-mira-bring-5g-driverless-cars.jpeg"
-        width: 1020
-        height: 675
-        isCached: true
   - title: "Horiba Mira partners with Vodafone on automotive 5G"
     excerpt: "which already includes unrivalled expertise in the rising cybersecurity threats facing driverless technologies as well as the use of artificial intelligence in Unmanned Ground Vehicles in the defence sector. According to a statement, the ultrafast data ..."
     publishedDateTime: 2020-11-02T10:36:52Z

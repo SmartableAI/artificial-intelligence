@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-02T17:38:00Z
 originalUrl: "https://petapixel.com/2020/11/02/ai-tracking-camera-mistakes-referees-bald-head-for-a-soccer-ball/"
 webUrl: "https://petapixel.com/2020/11/02/ai-tracking-camera-mistakes-referees-bald-head-for-a-soccer-ball/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
 
 images:
   - url: "https://petapixel.com/assets/uploads/2020/11/baldheadfeat.jpg"

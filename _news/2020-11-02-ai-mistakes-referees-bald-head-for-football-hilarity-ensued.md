@@ -70,7 +70,7 @@ related:
     provider:
       name: PetaPixel
       domain: petapixel.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://petapixel.com/assets/uploads/2020/11/baldheadfeat.jpg"
         width: 1600

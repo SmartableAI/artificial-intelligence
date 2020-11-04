@@ -2,6 +2,265 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-29-computer-vision-market-global-market-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts-to-2023.md",
+      "title": "Computer Vision Market: Global Market Opportunities, Size, Share, Emerging Trends, Technological Innovation And Forecasts To 2023",
+      "excerpt": "Computer vision is a field of technology dealing with smart devices, particularly laptops, smartphones, personal",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-global-market-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts-to-2023-2020-10-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-global-market-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts-to-2023-2020-10-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T23:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-chinese-tesla-rival-xpeng-steers-clear-of-robotaxis-says-self-driving-trucks-more-likely-to-succeed.md",
+      "title": "Chinese Tesla rival Xpeng steers clear of robotaxis, says self-driving trucks more likely to succeed",
+      "excerpt": "Major Chinese self-driving companies such as Baidu, Didi Chuxing, WeRide and AutoX have all recently launched robotaxi services in various cities, but the head of autonomous driving at Xpeng Motors is less bullish on the prospect. “They have to make a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-leaders-and-founders/article/3107348/chinese-tesla-rival-xpeng-steers-clear-robotaxis",
+      "originalUrl": "https://www.scmp.com/tech/tech-leaders-and-founders/article/3107348/chinese-tesla-rival-xpeng-steers-clear-robotaxis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/10/28/15c96424-18cf-11eb-8f67-a484f6db61a1_image_hires_142109.jpg?itok=umrS2udr&v=1603866075",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/tech-leaders-and-founders/article/3107348/chinese-tesla-rival-xpeng-steers-clear-robotaxis",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-leaders-and-founders/article/3107348/chinese-tesla-rival-xpeng-steers-clear-robotaxis",
+      "publishedDateTime": "2020-10-28T23:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-apple-reportedly-bought-a-video-ai-startup-for-50-million-as-it-tries-to-improve-siri-and-other-apps.md",
+      "title": "Apple reportedly bought a video AI startup for $50 million as it tries to improve Siri and other apps",
+      "excerpt": "Apple's purchase of Barcelona-based Vilynx follows its spree of AI acquisitions earlier this year as the company looks to expand its footprint.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10",
+      "originalUrl": "https://www.businessinsider.com/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f988b936f5b310011723bd1?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10?amp",
+      "publishedDateTime": "2020-10-28T22:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-cloud-natural-language-processing-nlp-market-2020-segmentation-consumption-demand-growth-trend-opportunity-and-forecast-to-2027.md",
+      "title": "Cloud Natural Language Processing (NLP) Market 2020 Segmentation, Consumption, Demand, Growth, Trend, Opportunity and Forecast to 2027",
+      "excerpt": "Comserve Inc. / -- The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2020-segmentation-consumption-demand-growth-trend-opportunity-and-forecast-to-2027-2020-10-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2020-segmentation-consumption-demand-growth-trend-opportunity-and-forecast-to-2027-2020-10-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T21:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-artificial-intelligence-model-detects-asymptomatic-covid-19-infections-through-cellphone-recorded-coughs.md",
+      "title": "Artificial intelligence model detects asymptomatic Covid-19 infections through cellphone-recorded coughs",
+      "excerpt": "An artificial intelligence model can detect people who are asymptomatic with Covid-19, through cellphone-recorded coughs. The work was led by Brian Subirana and colleagues at the MIT Auto-ID Lab.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2020/covid-19-cough-cellphone-detection-1029",
+      "originalUrl": "https://news.mit.edu/2020/covid-19-cough-cellphone-detection-1029",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 232,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202010/MIT-Cough-Recordings-01-PRESS.jpg",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T21:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-deep-learning-market-2020-global-report-explores-covid-19-impact-trend-segmentation-and-opportunities-forecast-to-2026.md",
       "title": "Deep Learning Market 2020 Global report explores COVID-19 impact, trend, segmentation and opportunities, forecast to 2026",
       "excerpt": "Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the",
@@ -940,232 +1199,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-startup-robust-ai-raises-15-million-in-new-funding.md",
-      "title": "Startup Robust AI Raises $15 Million in New Funding",
-      "excerpt": "Robust AI Inc., a startup developing an artificial intelligence system intended to allow robots to work autonomously in open-ended environments, on Wednesday raised $15 million in venture-capital funding,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/startup-robust-ai-raises-15-million-in-new-funding-11603897500",
-      "originalUrl": "https://www.wsj.com/articles/startup-robust-ai-raises-15-million-in-new-funding-11603897500",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-250518/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-artificial-intelligence-dives-into-thousands-of-ww2-photographs.md",
-      "title": "Artificial intelligence dives into thousands of WW2 photographs",
-      "excerpt": "In a new international cross disciplinary study, researchers from Aarhus University, Denmark and Tampere University, Finland have used artificial intelligence to analyse large amounts of historical photos from WW2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-10/au-aid102820.php?fbclid=IwAR3MCWLzjCs9JHAEmDaF9DnqsTkKAtWogCIb8HDnnagM3yh-s6EM1Ddh4Y8",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-10/au-aid102820.php?fbclid=IwAR3MCWLzjCs9JHAEmDaF9DnqsTkKAtWogCIb8HDnnagM3yh-s6EM1Ddh4Y8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/247171_web.jpg",
-          "width": 1440,
-          "height": 976,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-7-ai-stocks-to-buy-as-automation-advances.md",
-      "title": "7 AI Stocks to Buy as Automation Advances",
-      "excerpt": "However, Waymo is actually rolling out the self ... In any regard, Trimble has multiple end markets that can be disrupted via artificial intelligence and machine learning. Trimble says, We ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28",
-      "originalUrl": "https://www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28?amp",
-      "publishedDateTime": "2020-10-28T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-ibm-study-ai-driven-virtual-agents-can-drive-customer-satisfaction-and-cost-savings-amid-covid-19.md",
-      "title": "IBM Study: AI-driven Virtual Agents Can Drive Customer Satisfaction and Cost Savings Amid COVID-19",
-      "excerpt": "As many organizations across the world look to digital tools to help address surges in customer inquiries due to the COVID-19 pandemic, a new IBM study revealed 99% of respondents report an increase in customer satisfaction as a result of using AI-driven virtual agent technology.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-virus-outbreak-lung-disease-health-diseases-and-conditions-8d2b93a339b25c986b3c3dd0262b9e5d/gallery/140d2107145ac6b5139433ecb79ed8c0",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-virus-outbreak-lung-disease-health-diseases-and-conditions-8d2b93a339b25c986b3c3dd0262b9e5d/gallery/140d2107145ac6b5139433ecb79ed8c0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod.md",
-      "title": "DIU Selects Summit2Sea Consulting to Develop Artificial Intelligence Technology for the DoD",
-      "excerpt": "Summit2Sea Consulting, has been selected by the Department of Defense (DoD) to prototype the Humanless Unmatched Transaction (HUnT) solution for the DoD. \"The solution builds data pipelines to financial transactions to train a Machine Learning model that directs corrective actions to robot workers,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-1029735172",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-1029735172",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1321396/Summit2Sea___Brian_Eckle.jpg",
-          "width": 340,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

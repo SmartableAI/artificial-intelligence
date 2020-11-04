@@ -28,12 +28,12 @@ images:
 related:
   - title: "University of Minnesota Duluth's frontline workers in the making: robots"
     excerpt: "A UMD professor and her students are in the process of programming \"COVID gossip bots\" to socialize with and monitor isolated residents of assisted living facilities."
-    publishedDateTime: 2020-11-03T21:34:00Z
-    webUrl: "https://www.postbulletin.com/business/technology/6744024-University-of-Minnesota-Duluths-frontline-workers-in-the-making-robots"
+    publishedDateTime: 2020-11-04T01:09:00Z
+    webUrl: "https://www.inforum.com/business/technology/6744024-University-of-Minnesota-Duluths-frontline-workers-in-the-making-robots"
     type: article
     provider:
-      name: Post-Bulletin
-      domain: postbulletin.com
+      name: INFORUM
+      domain: inforum.com
     quality: 38
     images:
       - url: "https://www.duluthnewstribune.com/incoming/6739338-rx905s-110220.N.DNT.CovidBot-c01.JPG/alternates/BASE_LANDSCAPE/110220.N.DNT.CovidBot%20c01.JPG"

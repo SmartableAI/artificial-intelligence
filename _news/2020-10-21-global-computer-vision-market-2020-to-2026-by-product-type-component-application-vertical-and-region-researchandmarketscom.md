@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Global Computer Vision Market (2020 to 2026) - by Product Type, Component, Application, Vertical and Region - ResearchAndMarkets.com"
-excerpt: "The \"Global Computer Vision Market by Product Type, Component, Application, Vertical and Region: Industry Analysis and Forecast 2020-2026\" report has been added to ResearchAndMarkets.com's offering. The Global Computer Vision Market size is expected to reach $17."
-publishedDateTime: 2020-10-21T13:36:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201021005593/en/"
-webUrl: "https://www.businesswire.com/news/home/20201021005593/en/"
+excerpt: "The \"Global Computer Vision Market by Product Type, Component, Application, Vertical and Region: Industry Analysis and Forecast 2020-2026\" report has been added to ResearchAndMarkets.com's offering."
+publishedDateTime: 2020-10-21T15:53:00Z
+originalUrl: "https://kdhnews.com/news/ap/global-computer-vision-market-2020-to-2026---by-product-type-component-application-vertical/article_c24cb5a5-d19d-5292-8995-8654616be798.html"
+webUrl: "https://kdhnews.com/news/ap/global-computer-vision-market-2020-to-2026---by-product-type-component-application-vertical/article_c24cb5a5-d19d-5292-8995-8654616be798.html"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Killeen Daily Herald
+  domain: kdhnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20201021005593/en/371054/23/ResearchAndMarkets_800px.jpg"
+  - url: "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/custom/image/d24d118c-8888-11e9-94c1-a36b64682479.jpg"
     width: 1200
-    height: 627
+    height: 630
     isCached: true
 
-secured: "5CFzk2Us/eoegkR06u7yXLCUtY9TDlJ2w077ItSXvcGbWN9N6DT1lZ8yu6aPZrPLBkhkuY4uvYJHlJHm1EsidzDFX+nGuZT9D5hi5COyJIBqqt7QH4qbwC05EbBNbKfIBfcTaDx/vm19pVnGFW3mNrCO5F/8yF4dU3toW9XMT1ZFIMMbxncr11hiI861lU1uRGHAmvfz3B9gR4nTMs2sKLWS/ZPxXmDFPyT4VOB9qCHFIZg1KBZKh6B6vflbFYsEHabrCCT1BmGCiOnQmyoBF8eZFMMUWNZP3FFhSl/UsWnngVY1a2volBrLssEoOfbLFPFOY8nyEV6TkmRzFAX405nSDPw7T2NsaOmtN0DJp3qveoHjOr+BF7AMDEo5YQDeISA1amEekk/vp8OEbi8TtG8yfApT/0Al8xuDt1B1CwTTDu50cpXNl4haLoFhH4X3e2GgPsDprjtDwvYhGVPbRqVBbJ+ZO2G4GsHFcHZwe1X0Sz9xg95Vr906SiUjzNj5q4al+v7G1szbrXVOjPH+bA==;REzqoc7ZlT+5548j23HsTQ=="
+secured: "EEE8MfJKM1RnrVCrj3AVFriUPsbDqlTxHtWtW2rGEPvV+glcBAL5nowNz/r4t1wmtFEAr9FCqqHZSFhsZl/QIZ1Ay6pquk9YgxLanKPP7BQrQScgHH2BxG5BiggFGeiGEILlVhEHPNFhy8GmNu/cBR5YZI7Lw3oxr0Bo2qpjwqfPEqCeFW4To490xp7elCJWProQyp9kQR7DLAT8Mmb1hsiaoDmCPFLv2mFGDopuygc+wIQQ3fYqab9lujjAHhaotK42lMttIhgnGAx7dsbMwympBnQtQnhl3Ixq7yby4l0hepkaWxtIAzoipdjm5GP++JzPgy9WLmmTWQ/l9JSMu74UAD1DEYfV/dQZGUr/Mfw=;67wsgy7W84aWVeY0Yn49vw=="
 ---
 

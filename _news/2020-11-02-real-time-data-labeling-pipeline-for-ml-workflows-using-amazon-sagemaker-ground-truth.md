@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Training and serving H2O models using Amazon SageMaker"
-    excerpt: "Model training and serving steps are two essential pieces of a successful end-to-end machine learning (ML) pipeline. These two steps often require different software and hardware setups to provide the best mix for a production environment. Model training is optimized for a low-cost, feasible total run"
-    publishedDateTime: 2020-10-30T23:43:01Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/training-and-serving-h2o-models-using-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 104
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/26/1-SolutionArchitecture-1-811x630.jpg"
-        width: 811
-        height: 630
-        isCached: true
   - title: "Explaining Amazon SageMaker Autopilot models with SHAP"
     excerpt: "Machine learning (ML) models have long been considered black boxes because predictions from these models are hard to interpret. However, recently, several frameworks aiming at explaining ML models were proposed. Model interpretation can be divided into local and global explanations. A local explanation"
     publishedDateTime: 2020-11-03T22:57:23Z

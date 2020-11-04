@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-24-in-25-years-new-cars-could-be-unrecognizable-thanks-to-technology.md",
+      "title": "In 25 years, new cars could be unrecognizable thanks to technology",
+      "excerpt": "New battery chemistries, self-driving tech and advanced propulsion systems will revolutionize how we get around.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/future-cars-in-25-years/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/future-cars-in-25-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/TURAoVosw99tOFCESh7UlHj1Snk=/2020/10/16/80cf9355-5cdf-4f7e-91b8-914d29666e3d/25-years-future-cars-ogi.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/future-cars-in-25-years/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/future-cars-in-25-years/",
+      "publishedDateTime": "2020-10-24T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-24-stethoscopes-electronics-and-artificial-intelligence.md",
+      "title": "Stethoscopes, Electronics, And Artificial Intelligence",
+      "excerpt": "What’s more, since the Hopkins smart stethoscope is a digital instrument, it can serve as input for an artificial intelligence application that automatically analyzes the data for signs of ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2019/02/25/stethoscopes-electronics-and-artificial-intelligence/",
+      "originalUrl": "https://hackaday.com/2019/02/25/stethoscopes-electronics-and-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2019/02/smart-stethoscopes-featured.jpg",
+          "width": 4350,
+          "height": 2900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-24-teslas-full-self-driving-is-999-there-just-1000-times-further-to-go.md",
       "title": "Tesla’s ‘Full Self-Driving’ Is 99.9% There, Just 1,000 Times Further To Go",
       "excerpt": "This week, Tesla TSLA released a very limited beta of what Elon Musk has referred to as “feature complete full self-driving” to a chosen subset of their early access customers. It also announced a $2,000 increase in the price of the “FSD in the ...",
@@ -1310,110 +1405,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-ubers-self-driving-car-business-has-fallen-behind-waymo-and-cruise-heres-why-the-ride-hail-giant-might-give-up-on-atg.md",
-      "title": "Uber's self-driving-car business has fallen behind Waymo and Cruise — here's why the ride-hail giant might give up on ATG",
-      "excerpt": "After the indictment of a former executive and a fatal crash, insiders, investors, and experts question whether Uber ATG can turn things around.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/uber-self-driving-car-busienss-uber-atg-waymo-cruise-2020-10",
-      "originalUrl": "https://www.businessinsider.com/uber-self-driving-car-busienss-uber-atg-waymo-cruise-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f886decd260780019341961?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/uber-self-driving-car-busienss-uber-atg-waymo-cruise-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uber-self-driving-car-busienss-uber-atg-waymo-cruise-2020-10?amp",
-      "publishedDateTime": "2020-10-15T18:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-gm-will-test-fully-driverless-cars-in-sf-later-this-year.md",
-      "title": "GM will test fully driverless cars in SF later this year",
-      "excerpt": "The company’s Cruise unit received the necessary permit from California’s DMV. General Motors and its self-driving car unit Cruise say they’ll start testing unmanned autonomous vehicles in San Francisco by the end of 2020 (via NBC News). On Thursday ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/cruise-testing-san-francisco-214222312.html",
-      "originalUrl": "https://www.engadget.com/cruise-testing-san-francisco-214222312.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fbebd6400-0f2d-11eb-9bfe-e67a76f4a357&client=amp-blogside-v2&signature=4908a2fba8142ca66578860cd136007606108c87",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/cruise-testing-san-francisco-214222312.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/cruise-testing-san-francisco-214222312.html",
-      "publishedDateTime": "2020-10-15T14:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

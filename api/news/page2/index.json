@@ -2,6 +2,199 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-03-ai-led-operations-the-smart-way-to-automate.md",
+      "title": "AI-Led Operations: The Smart Way To Automate",
+      "excerpt": "With AIOps, we don’t have to think of the complexities of organizations as a barrier, but rather an opportunity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/03/ai-led-operations-the-smart-way-to-automate/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/03/ai-led-operations-the-smart-way-to-automate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9c44ab1078324bc668466a%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/03/ai-led-operations-the-smart-way-to-automate/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/03/ai-led-operations-the-smart-way-to-automate/amp/",
+      "publishedDateTime": "2020-11-03T05:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-aws-launches-new-gpu-instances-for-machine-learning-and-hpc.md",
+      "title": "AWS launches new GPU instances for machine learning and HPC",
+      "excerpt": "Called P4, the new instances will run on Intel Cascade Lake processors and eight Nvidia A100 Tensor Core GPUs. Amazon Web Services (AWS), the retail giant’s cloud arm, just launched its latest GPU-equipped cloud instances.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itproportal.com/news/aws-launches-new-gpu-instances-for-machine-learning-and-hpc/",
+      "originalUrl": "https://www.itproportal.com/news/aws-launches-new-gpu-instances-for-machine-learning-and-hpc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/88UejibhsWKbhFSpfr62oA-1200-80.jpg",
+          "width": 1000,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itproportal.com/amp/news/aws-launches-new-gpu-instances-for-machine-learning-and-hpc/",
+      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/aws-launches-new-gpu-instances-for-machine-learning-and-hpc/",
+      "publishedDateTime": "2020-11-03T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro Portal",
+        "domain": "itproportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-3d-printed-hearts-self-driving-buses-and-robots.md",
+      "title": "3D-printed hearts, self-driving buses, and robots",
+      "excerpt": "Technologies that were still largely in development or limited rollout a year ago are now becoming commonplace, including self-driving cleaning robots and automation in areas like fast food and delivery.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/3d-printed-hearts-self-driving-buses-and-robots/",
+      "originalUrl": "https://www.zdnet.com/article/3d-printed-hearts-self-driving-buses-and-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/11/02/ed6fcd42-5f15-45ca-ac85-27699560d6a1/robot-touch.jpg",
+          "width": 910,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/3d-printed-hearts-self-driving-buses-and-robots/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/3d-printed-hearts-self-driving-buses-and-robots/",
+      "publishedDateTime": "2020-11-03T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-ai-godfather-geoff-hinton-deep-learning-is-going-to-be-able-to-do-everything.md",
+      "title": "AI godfather Geoff Hinton: “Deep learning is going to be able to do everything”",
+      "excerpt": "There’s going to have to be quite a few conceptual breakthroughs...we also need a massive increase in scale.\" On neural networks’ weaknesses: \"Neural nets are surprisingly good at dealing with a rather small amount of data,",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/",
+      "originalUrl": "https://www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/11/AP_384463506721-e1604359379321.jpg?w=3000",
+          "width": 3000,
+          "height": 1687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/amp/",
+      "publishedDateTime": "2020-11-03T02:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-hrtech-startup-leena-ai-bags-8-mn-from-greycroft-others.md",
       "title": "HRTech Startup Leena AI Bags $8 Mn From Greycroft, Others",
       "excerpt": "Gurugram-based HRtech startup Leena AI, on Tuesday (November 3), announced that it has raised $8 Mn in Series A funding round led by Greycroft",
@@ -96,7 +289,7 @@
       "originalUrl": "https://www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -605,7 +798,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/02/the-near-miss-quandary-is-unavoidably-messy-for-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -845,6 +1038,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-02-driverless-cars-go-humble-to-get-real.md",
+      "title": "Driverless Cars Go Humble to Get Real",
+      "excerpt": "Recent developments point to promise for driverless car technology, if we stay realistic. This article is part of the On Tech newsletter. You can sign up here to receive it weekdays. The dream of computer-driven cars taking over the roads remains a fantasy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/10/26/technology/driverless-cars.html",
+      "originalUrl": "https://www.nytimes.com/2020/10/26/technology/driverless-cars.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/26/business/26ontech/26ontech-facebookJumbo.png",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/10/26/technology/driverless-cars.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/26/technology/driverless-cars.amp.html",
+      "publishedDateTime": "2020-11-02T06:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-02-cmos-predict-your-wins-with-ai-and-predictive-analytics.md",
       "title": "CMOs, Predict Your Wins With AI And Predictive Analytics",
       "excerpt": "Business intelligence and predictive analytics are the closest measures we have to a crystal ball that shows us how well new strategies and campaigns will perform",
@@ -946,240 +1191,6 @@
         "AI",
         "AI in Sales",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-artificial-intelligence-in-healthcare-is-racist.md",
-      "title": "Artificial Intelligence in healthcare is racist",
-      "excerpt": "Can broader datasets help developers avoid accidentally perpetuating deep-rooted biases in vital institutions like healthcare and education?",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-in-healthcare-is-racist/",
-      "originalUrl": "https://www.zdnet.com/article/artificial-intelligence-in-healthcare-is-racist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-in-healthcare-is-racist/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-in-healthcare-is-racist/",
-      "publishedDateTime": "2020-11-02T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-citizen-services-ai-market-growing-at-a-cagr-463-key-player-servicenow-microsoft-ibm-accenture-aws.md",
-      "title": "Citizen Services AI Market Growing at a CAGR 46.3% | Key Player Servicenow, Microsoft, IBM, Accenture, AWS",
-      "excerpt": "The global Citizen Services AI Market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 46.3% during the forecast period, to reach USD 9.7 billion by 2024 from USD 1.5 billion in 2019.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/citizen-services-ai-market-growing-at-a-cagr-463-key-player-servicenow-microsoft-ibm-accenture-aws-2020-11-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/citizen-services-ai-market-growing-at-a-cagr-463-key-player-servicenow-microsoft-ibm-accenture-aws-2020-11-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-02T03:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-how-to-make-the-most-of-the-google-cloud-free-tier.md",
-      "title": "How to make the most of the Google Cloud free tier",
-      "excerpt": "But until that day comes, the BigQuery database will answer one terabyte of queries each month and AutoML Translation will turn 500,000 characters from one language to another. Some developers use the free tier for what it’s intended to be: an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3585633/how-to-make-the-most-of-the-google-cloud-free-tier.html",
-      "originalUrl": "https://www.infoworld.com/article/3585633/how-to-make-the-most-of-the-google-cloud-free-tier.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/12/cso_gauges_meters_performance_indicators_dashboard_measures_by_autophotography_cc0_via_pixabay_binary_by_garik_barseghyan_aka_insspirito_cc0_via_pixabay_2400x1600-100824624-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3585633/how-to-make-the-most-of-the-google-cloud-free-tier.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3585633/how-to-make-the-most-of-the-google-cloud-free-tier.amp.html",
-      "publishedDateTime": "2020-11-02T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-health-artificial-intelligence-being-trained-to-predict-risk-of-developing-oral-cancer.md",
-      "title": "Health: Artificial intelligence being trained to predict risk of developing oral cancer",
-      "excerpt": "The diagnosis of oral cancer could be 'revolutionised' by using artificial intelligence to predict whether ... carries significant potential for saving lives and improving patient healthcare provision.' Mouth cancer, also known as oral cancer, is where ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-8904931/amp/Health-Artificial-intelligence-trained-predict-risk-developing-oral-cancer.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-8904931/amp/Health-Artificial-intelligence-trained-predict-risk-developing-oral-cancer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2020/11/02/10/35142862-0-image-a-6_1604313865968.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-8904931/amp/Health-Artificial-intelligence-trained-predict-risk-developing-oral-cancer.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8904931/amp/Health-Artificial-intelligence-trained-predict-risk-developing-oral-cancer.html",
-      "publishedDateTime": "2020-11-02T02:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-romanian-speech-therapy-startup-aims-to-raise-eur-290000.md",
-      "title": "Romanian speech therapy startup aims to raise EUR 290,000",
-      "excerpt": "VoxiKids, a platform dedicated to parents and speech therapists that aims to accelerate the recovery of children with speech and pronunciation deficiencies, aims to raise EUR 290,000 in exchange for 10.",
-      "sourceUrl": null,
-      "webUrl": "https://www.romania-insider.com/voxikids-speech-therapy-startup-financing-romania",
-      "originalUrl": "https://www.romania-insider.com/voxikids-speech-therapy-startup-financing-romania",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.romania-insider.com/sites/default/files/2020-11/ana_maria_onica_si_cristian_baita-_voxikids.png",
-          "width": 640,
-          "height": 334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.romania-insider.com/voxikids-speech-therapy-startup-financing-romania?amp",
-      "cdnAmpWebUrl": "https://www-romania--insider-com.cdn.ampproject.org/c/s/www.romania-insider.com/voxikids-speech-therapy-startup-financing-romania?amp",
-      "publishedDateTime": "2020-11-02T02:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Romania Insider",
-        "domain": "romania-insider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

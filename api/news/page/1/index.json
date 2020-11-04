@@ -2,6 +2,211 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-05-seattle-startup-vets-raise-1m-and-reveal-more-details-about-home-valuation-platform-plunk.md",
+      "title": "Seattle startup vets raise $1M and reveal more details about home valuation platform Plunk",
+      "excerpt": "Will that bathroom remodel increase your home's value by more than $20,000? What about replacing the floors or adding a garage? How about the bad traffic that's getting worse around your neighborhood?",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/seattle-startup-vets-raise-1m-reveal-details-home-valuation-platform-plunk/",
+      "originalUrl": "https://www.geekwire.com/2020/seattle-startup-vets-raise-1m-reveal-details-home-valuation-platform-plunk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/07/Screen-Shot-2019-07-16-at-10.19.44-AM-e1563297636323-630x316.png",
+          "width": 630,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/seattle-startup-vets-raise-1m-reveal-details-home-valuation-platform-plunk/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-startup-vets-raise-1m-reveal-details-home-valuation-platform-plunk/amp/",
+      "publishedDateTime": "2020-11-04T08:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-north-america-artificial-intelligence-ai-chipsets-market-size-to-expand-at-over-35-cagr-through-2026.md",
+      "title": "North America Artificial Intelligence (AI) Chipsets Market Size to Expand at Over 35% CAGR through 2026",
+      "excerpt": "According to the given report, North America AI chipsets market reached a valuation of USD 2.5 billion in 2019 and is likely to surpass USD 25 billion over 2026, increasing at a rate of 35%. It includes important information on the current market situation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/north-america-artificial-intelligence-ai-chipsets-market-size-to-expand-at-over-35-cagr-through-2026-2020-11-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/north-america-artificial-intelligence-ai-chipsets-market-size-to-expand-at-over-35-cagr-through-2026-2020-11-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-04T07:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-portland-maine-citizens-vote-in-favor-of-blanket-ban-on-facial-recognition-tech.md",
+      "title": "Portland, Maine citizens vote in favor of blanket ban on facial recognition tech",
+      "excerpt": "Privacy: Facial recognition technology has always been a source of controversy in the tech community; no matter how it's used. Police departments across the US have expressed interest in using it to identify and catch criminals, and companies use it to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/87446-portland-maine-citizens-vote-favor-blanket-ban-facial.html",
+      "originalUrl": "https://www.techspot.com/news/87446-portland-maine-citizens-vote-favor-blanket-ban-facial.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/11/2020-11-04-image-16.jpg",
+          "width": 1680,
+          "height": 1120,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/87446-portland-maine-citizens-vote-favor-blanket-ban-facial.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87446-portland-maine-citizens-vote-favor-blanket-ban-facial.html",
+      "publishedDateTime": "2020-11-04T07:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-heres-how-ai-makes-a-new-home-hunt-about-as-fun-as-dating.md",
+      "title": "Here’s How AI Makes A New-Home Hunt About As Fun As Dating!",
+      "excerpt": "An AI-powered marketing platform designed for a UX that works like a cross between Match.com and Netflix, enables home builders to learn with every click, tracking preferences of web visitors. In real-time,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnmcmanus/2020/11/04/heres-how-ai-makes-a-new-home-hunt-about-as-fun-as-dating/",
+      "originalUrl": "https://www.forbes.com/sites/johnmcmanus/2020/11/04/heres-how-ai-makes-a-new-home-hunt-about-as-fun-as-dating/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa2c94427616a015e59d92d%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnmcmanus/2020/11/04/heres-how-ai-makes-a-new-home-hunt-about-as-fun-as-dating/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnmcmanus/2020/11/04/heres-how-ai-makes-a-new-home-hunt-about-as-fun-as-dating/amp/",
+      "publishedDateTime": "2020-11-04T07:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-brainome-launches-product-to-optimize-machine-learning-development-process.md",
       "title": "Brainome launches product to optimize machine learning development process",
       "excerpt": "Brainome's new product, Daimensions, seeks to eliminate brute-force aspects of machine learning model development, integrate with existing CI/CD infrastructure and generate small ML models that can run efficiently on commodity hardware.",
@@ -107,7 +312,7 @@
       "originalUrl": "https://www.sify.com/finance/intel-acquires-cnvrgio-to-boost-ai-ml-operations-news-topnews-uleg7ucbgjfig.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -315,6 +520,58 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-11-03T15:15:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-explaining-amazon-sagemaker-autopilot-models-with-shap.md",
+      "title": "Explaining Amazon SageMaker Autopilot models with SHAP",
+      "excerpt": "Machine learning (ML) models have long been considered black boxes because predictions from these models are hard to interpret. However, recently, several frameworks aiming at explaining ML models were proposed. Model interpretation can be divided into local and global explanations. A local explanation",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/explaining-amazon-sagemaker-autopilot-models-with-shap/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/explaining-amazon-sagemaker-autopilot-models-with-shap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/27/Graph.jpg",
+          "width": 900,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-03T14:57:23-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -996,242 +1253,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-ai-led-operations-the-smart-way-to-automate.md",
-      "title": "AI-Led Operations: The Smart Way To Automate",
-      "excerpt": "With AIOps, we don’t have to think of the complexities of organizations as a barrier, but rather an opportunity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/03/ai-led-operations-the-smart-way-to-automate/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/03/ai-led-operations-the-smart-way-to-automate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9c44ab1078324bc668466a%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/03/ai-led-operations-the-smart-way-to-automate/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/03/ai-led-operations-the-smart-way-to-automate/amp/",
-      "publishedDateTime": "2020-11-03T05:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-aws-launches-new-gpu-instances-for-machine-learning-and-hpc.md",
-      "title": "AWS launches new GPU instances for machine learning and HPC",
-      "excerpt": "Called P4, the new instances will run on Intel Cascade Lake processors and eight Nvidia A100 Tensor Core GPUs. Amazon Web Services (AWS), the retail giant’s cloud arm, just launched its latest GPU-equipped cloud instances.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itproportal.com/news/aws-launches-new-gpu-instances-for-machine-learning-and-hpc/",
-      "originalUrl": "https://www.itproportal.com/news/aws-launches-new-gpu-instances-for-machine-learning-and-hpc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/88UejibhsWKbhFSpfr62oA-1200-80.jpg",
-          "width": 1000,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itproportal.com/amp/news/aws-launches-new-gpu-instances-for-machine-learning-and-hpc/",
-      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/aws-launches-new-gpu-instances-for-machine-learning-and-hpc/",
-      "publishedDateTime": "2020-11-03T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro Portal",
-        "domain": "itproportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership.md",
-      "title": "ImmunoPrecise Antibodies and Mila Announce Strategic AI Partnership",
-      "excerpt": "\"This partnership opens up an exciting opportunity for AI to tap into unexplored ... Mila has distinguished itself in the areas of language modelling, machine translation, object recognition ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758396",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758396",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758396",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758396",
-      "publishedDateTime": "2020-11-03T04:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-3d-printed-hearts-self-driving-buses-and-robots.md",
-      "title": "3D-printed hearts, self-driving buses, and robots",
-      "excerpt": "Technologies that were still largely in development or limited rollout a year ago are now becoming commonplace, including self-driving cleaning robots and automation in areas like fast food and delivery.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/3d-printed-hearts-self-driving-buses-and-robots/",
-      "originalUrl": "https://www.zdnet.com/article/3d-printed-hearts-self-driving-buses-and-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/11/02/ed6fcd42-5f15-45ca-ac85-27699560d6a1/robot-touch.jpg",
-          "width": 910,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/3d-printed-hearts-self-driving-buses-and-robots/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/3d-printed-hearts-self-driving-buses-and-robots/",
-      "publishedDateTime": "2020-11-03T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-ai-godfather-geoff-hinton-deep-learning-is-going-to-be-able-to-do-everything.md",
-      "title": "AI godfather Geoff Hinton: “Deep learning is going to be able to do everything”",
-      "excerpt": "There’s going to have to be quite a few conceptual breakthroughs...we also need a massive increase in scale.\" On neural networks’ weaknesses: \"Neural nets are surprisingly good at dealing with a rather small amount of data,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/",
-      "originalUrl": "https://www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/11/AP_384463506721-e1604359379321.jpg?w=3000",
-          "width": 3000,
-          "height": 1687,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/amp/",
-      "publishedDateTime": "2020-11-03T02:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

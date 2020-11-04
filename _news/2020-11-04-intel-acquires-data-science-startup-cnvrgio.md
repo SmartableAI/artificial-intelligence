@@ -56,6 +56,15 @@ related:
         width: 850
         height: 400
         isCached: true
+  - title: "Intel acquires machine learning platform Cnvrg.io to continue AI push - TechCrunch"
+    excerpt: "TechCrunch reports that Intel (NASDAQ:INTC) has acquired Cnvrg.io, which provides an operating system for AI and machine learning.Cnvrg.io's platform helps data scientists build and run AI models, which can then be used to train,"
+    publishedDateTime: 2020-11-04T15:19:00Z
+    webUrl: "https://seekingalpha.com/news/3631130-intel-acquires-machine-learning-platform-cnvrg-io-to-continue-ai-push-techcrunch"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 28
   - title: "Intel has acquired full-stack data science startup Cnvrg.io"
     excerpt: "Intel Corp. is reported to have acquired Cnvrg.io, an Israeli full-stack data science startup that helps teams manage models and build auto-adaptive machine pipelines. TechCrunch makes the claim but neither Intel nor Cnvrg."
     publishedDateTime: 2020-11-04T04:14:00Z
