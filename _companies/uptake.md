@@ -2,7 +2,7 @@
 name: "Uptake Technologies"
 overview: "Put your data to work. |  @WEF Technology Pioneer & 3x @CNBC #Disruptor50"
 type: "profile"
-heat: 31
+heat: 50
 
 website: https://www.uptake.com/
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "uptake"
   url: "https://twitter.com/uptake"
-  followers: 5299
+  followers: 5303
 
 locations:
   - Chicago, IL
@@ -30,6 +30,6 @@ images:
     isCached: true
     title: "Uptake Technologies"
 
-secured: "MmNagv+UxsHDL2P347rNuglpPTBmu+ibLMk90+zRUS1Azu2kBpPbRcBvnxsfe1Wqeo1xZqGeVLwdYudrCwUicXYGWGlGFcduHID2VT7BcBP7Lht6mMun4F0cHu6lF2+1nPxP5hYQoChS0MU1pwaavgUhxn3xkhE6AOk8c7+iRu2qk6mb5ULxHbGLkoJNhL4V/IV3WMbxqO4tlrobFQKeg5sgL21V8yRxEeC3rTA3ypryF+O+VIldZ96Bliuwhp3hAjN1nO4YL0ssNFSK+9aiViOtVZcctLXlH0PHySidnbjaYEqhY9+dtrFmBUcnOcEtmh1o0VeyJK+meMGXQg6BXjIRAZtSNE0lLjrPPlIEBNAzzsK59y7Qol2QO/5Ex/3II6ankIeKprYmjCypbRUYJwIsRT7orcihRl9btK8Tg08=;kkxuxTgNoEpBiE6I5rhtXA=="
+secured: "2ZtvX5Rn0CG1Shc81Y9AZHtrhT3ZwXw9JNmmVJJ5B4KU2ScfAvrMYWPr3X8zKqfQKLrSwiwHIKGVM4fn3Bobutjq8SMwLF3r4ci70mykgq0S+4JrxMEzlFi/bJzT9IcUqI7hbitJZRDPwudZSvwYse+SP3IkzCAj2OCkLTS5GHV3zGNGwqRb8Gq8+0kke5TpLDPrvSU10JO0ddlyp9UtQwI3fsQIUpZn6CUxUh4eujhSEs+uVf3ltNWi0Y2wsYdTS5xVhNaUXVQoMWN+P939nblTClLt9+Daa7CQ8lG9Qhjy3Q8YyrWGNb+QQLO1vnZsqFK+l8N1oNeK/cGu4BVUg3rkCzh2uTroFTQFLtw/Y8EfNRIdD/PisPLKbtSax2jCPNcGBNZn5YCUByZcFlSqlyj/bI9H2eakXSdT6t9oOjU=;7sJ0TvNFoUJ+SB6uSRp8og=="
 ---
 

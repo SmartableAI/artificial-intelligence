@@ -2,7 +2,7 @@
 name: "Xbird"
 overview: "xbird is a medical AI company dedicated to saving lives by disrupting the way we think about prevention and early detection of diseases. We are developing sophisticated machine learning algorithms that analyze sensor data from smartphones and wearables to predict and prevent critical health risks. We are a team of medical doctors, data scientists, machine learning engineers and serial entrepreneurs from Berlin and Silicon Valley. xbirds provides a service to medical device and pharma companies to achieve higher patient engagement, reduce patient burden and work towards improving patient outcomes."
 type: "profile"
-heat: 58
+heat: 50
 
 website: http://www.xbird.io/
 
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=VQhmAIFKOyU"
 
-secured: "TcUeYGfPwUCSabxF5rTTHmtMHMRby5Hb7AzQcYIKfZEZh21bqAZEs6xaMZsnkOOGQNhCWrvvnLLU+J2nBKWH04SZ69+0b/d71UR+RfhJbokPZHjeqTFj/llC2FdK4xCAO1AFBA4maiqc0fCD9WPvTbgfEnnLG3SvX3qvM0M/wUVwlLesLv4rJjNnn0ko1CX2fbesuRGuUfPkzsDZxNCcLbELw8KQLTLgC5nijOZ0NKIbXunswbx2gJdj3nrKM1koUQBiT8hmiaf5FgObAOpoBbKGBgZBu0QTpyz3F1jFXyKVs8rcgY8FrU7jV+xOcmxUTvsjwUhS7YeFLwvfv23E4k0b+RjT1byKs7gjmQv2Xes0KNq8tMJ++SckXURHYrv832WaJN/+kryeh4ugHw77qw==;QiSKD+h425PWDJIy40kLXw=="
+secured: "y8h1LhhkMwEbIhvjQUHdmkmrKAeE4rhdfEV0LJTdyqpjZ3e/9YMxd8iOTmRTcGtpekIpTf37WP9NA9cItchdZRMlJEWhIwnB7/bMp2fFv3EQFD+VOGeSA2OT2Uy1FPKdRfarbf+uFa+NuDNW80os9C9YXiPuvDX9Ica3MhegSPHmzkH6CAXK7XDOAOC/sGArzgOyOu7JpVZhwFbqeZJD5G5+8nMv4hiGCgcGesPlEh7dJ/PLCgBafTlVkMQ/BalI4A9sGMNXzVaLyTo6dHsADgKPyCF9WINGHXbl0hySdRBA9HfKLi+3uN653wBaYrLAbt5iyiUwgFYwKBp7fx/i1bKX5qxRjfRxPAqR5H3Y2O/kzpTbeso0NO2daKk8qZMtE9+23GLabk4KqeJsLlsKNA==;csgfUQSKvxHayIAX3SA3Kw=="
 ---
 
