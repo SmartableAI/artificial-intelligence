@@ -1,32 +1,43 @@
 ---
 category: news
-title: "Advisors Seek Venture-Investing Gold in Fintech"
-excerpt: "For many of the most successful advisory firm leaders, investing in fintech and wealthtech startups is an opportunity to make some serious scratch, while also helping to advance their industry."
-publishedDateTime: 2020-11-02T18:24:00Z
-originalUrl: "https://www.barrons.com/articles/advisors-seek-venture-capital-investing-riches-in-fintech-and-wealthtech-51604348664"
-webUrl: "https://www.barrons.com/articles/advisors-seek-venture-capital-investing-riches-in-fintech-and-wealthtech-51604348664"
-ampWebUrl: "https://www.barrons.com/amp/articles/advisors-seek-venture-capital-investing-riches-in-fintech-and-wealthtech-51604348664"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/advisors-seek-venture-capital-investing-riches-in-fintech-and-wealthtech-51604348664"
+title: "Deutsche Börse Finalizes $15 Million Round in Clarity AI, a Fintech Leveraging Machine Learning Tech"
+excerpt: "Deutsche Börse has finalized a $15 million investment round in Clarity AI, a Fintech leveraging machine learning tech."
+publishedDateTime: 2020-11-05T01:31:00Z
+originalUrl: "https://www.crowdfundinsider.com/2020/11/168794-deutsche-borse-finalizes-15-million-round-in-clarity-ai-a-fintech-leveraging-machine-learning-tech/"
+webUrl: "https://www.crowdfundinsider.com/2020/11/168794-deutsche-borse-finalizes-15-million-round-in-clarity-ai-a-fintech-leveraging-machine-learning-tech/"
+ampWebUrl: "https://www.crowdfundinsider.com/2020/11/168794-deutsche-borse-finalizes-15-million-round-in-clarity-ai-a-fintech-leveraging-machine-learning-tech/amp/"
+cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/168794-deutsche-borse-finalizes-15-million-round-in-clarity-ai-a-fintech-leveraging-machine-learning-tech/amp/"
 type: article
-quality: 44
-heat: 44
+quality: 41
+heat: -1
 published: false
 
 provider:
-  name: Barron's
-  domain: barrons.com
+  name: Crowdfund Insider
+  domain: crowdfundinsider.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://images.barrons.com/im-253545/social"
-    width: 1280
-    height: 640
-    isCached: true
+  - Machine Learning
 
 related:
+  - title: "Advisors Seek Venture-Investing Gold in Fintech"
+    excerpt: "For many of the most successful advisory firm leaders, investing in fintech and wealthtech startups is an opportunity to make some serious scratch, while also helping to advance their industry."
+    publishedDateTime: 2020-11-02T18:24:00Z
+    webUrl: "https://www.barrons.com/articles/advisors-seek-venture-capital-investing-riches-in-fintech-and-wealthtech-51604348664"
+    ampWebUrl: "https://www.barrons.com/amp/articles/advisors-seek-venture-capital-investing-riches-in-fintech-and-wealthtech-51604348664"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/advisors-seek-venture-capital-investing-riches-in-fintech-and-wealthtech-51604348664"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 44
+    images:
+      - url: "https://images.barrons.com/im-253545/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Meet Accern, A 2020 Benzinga Global Fintech Awards Finalist"
     excerpt: "Benzinga will be holding its annual Benzinga Global Fintech Awards, a day of dealmaking, networking, and recognition in the financial technology space, on Nov. 10,"
     publishedDateTime: 2020-11-03T17:10:00Z
@@ -43,17 +54,6 @@ related:
         width: 800
         height: 360
         isCached: true
-  - title: "Deutsche Börse Finalizes $15 Million Round in Clarity AI, a Fintech Leveraging Machine Learning Tech"
-    excerpt: "Deutsche Börse has finalized a $15 million investment round in Clarity AI, a Fintech leveraging machine learning tech."
-    publishedDateTime: 2020-11-05T01:31:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/11/168794-deutsche-borse-finalizes-15-million-round-in-clarity-ai-a-fintech-leveraging-machine-learning-tech/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/168794-deutsche-borse-finalizes-15-million-round-in-clarity-ai-a-fintech-leveraging-machine-learning-tech/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/168794-deutsche-borse-finalizes-15-million-round-in-clarity-ai-a-fintech-leveraging-machine-learning-tech/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 41
   - title: "F|T: The FinTech Times – Toeing the line"
     excerpt: "a weekly newsletter covering the biggest FinTech news from around the globe. If you want to read F|T before anyone else, make sure to subscribe using the form at the bottom of this page. Wealthsimple has tapped Paul Teshima, the co-founder of Nudge.ai, to ..."
     publishedDateTime: 2020-11-02T10:59:00Z
@@ -115,6 +115,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "g8IU5EgdFboi20OdIB3WKHcQ0eGeBQYxOVaEH8k7aUb2/B9/e9WQ4FFCcwgVAG1LvW3hZWY3l/zEwOkygP+p9WR+kfIKSO9YJzXCS39VmcPq5eBXWngT2ZJ9i0LXR/wBA5lc9QdWjdQVDplb2uAkC5JSce1CkmpMUmhLdIIuSl0Hv2J86/mEklZIVoiMKUawOUNLDSWd18tkq8KBDLf4lZZmlpEr5BRFGlMSTbT9VaF14UUCMldPVdjcs2E24uglJ9gryzJUFtqKT8TKSPrHt9tHO7AqK1GkGJ6bvSekJR++HA+CiDzB67Ixibq5TXSGDXynk5ynnnVnYK7EXe4K2ElPl/o3GM+u3I4PUyXgWJJM1swYoMb/31r+aqHkCc5ASrbLRNQBXmcEkShE5ZajJSlvCnPA5KMo7t/a2ir+q3SraB4mMFAZE3CfG1oEnxIl4/pMwB1t0+yPwXhx5w0vwbMx0RoB/YB6fq+oiqb/Qv/6gjXiPqqjEIGZoGWfvhCSDZMYj/CLsGetjc+d/y8V6Q==;iTTXpLIijt4BNjExzaDDRw=="
+secured: "bti1iVtkbgURkxh+iyzjG5Pn7qVOdxyO4Jy1RjkVjF7ErITwdN8rngE+Ick4DPX6XYpzQxldsa7fgYChmqgBkbNYJ+FFTSv8M2bPz6EDR2atSheJCONEdBz4MRejyToFx2WjSvzaV25tusKTWGxIyka6cooRvoxT2yQv1T4EhUgvm3GxM8bRyym1XPUk+irsnQ7LP/56eoIvipWoW7i8X1AWfmDuQ1MKP3QYKwQXKFAR8UoKIRyEPzi2ZlG/+/8RAPC95a0Eu/I+QiIGD6NrGZ0Ls22o3iMB1gQ9fx0FZlrLVD6QP6ZtCPrTW2DEChY8cHtnk5Tks15n5czPlmW60Rtntx5ja2bd0JIk/BGBQn0zVQlfrL6Uwx0KgduIRNqkwpTyO2NrrHCzI0a+vWeRNW+zw2qrVUDXmFYIb4uAbcbMpylYZX41fQKKbKSABS1MuccnncxUxMeFi7a6jdUwJx+QgJo0mEwED3kvJ140E97LYQiAYXtxRc7BDNC3/rnVm5Crm5GEbCWNxC9cSpVtVA==;dg3pcCqMW7Oh3IgHcCEF9w=="
 ---
 

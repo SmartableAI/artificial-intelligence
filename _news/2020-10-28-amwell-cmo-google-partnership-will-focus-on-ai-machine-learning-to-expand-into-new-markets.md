@@ -18,6 +18,7 @@ topics:
   - AI in Finance
   - AI
   - Machine Learning
+  - Natural Language Processing
 
 images:
   - url: "https://qtxasset.com/fiercehealthcare/1603898484/WomanOnCouch2_DrPhillipsSplit.jpg?ga7V06kYxUhRbWNsKpTwpb7i.A5CPbND"
