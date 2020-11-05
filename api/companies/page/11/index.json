@@ -4,38 +4,40 @@
   "page": 11,
   "value": [
     {
-      "path": "_companies/chorus.ai.md",
-      "title": "Chorus.ai",
-      "excerpt": "Chorus.ai is an AI conversation intelligence cloud platform for sales team that can transform conversations into data and insights.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/chorus.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/chorus.ai/",
+      "path": "_companies/uptake.md",
+      "title": "Uptake Technologies",
+      "excerpt": "Put your data to work. |  @WEF Technology Pioneer & 3x @CNBC #Disruptor50",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/uptake/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/uptake/",
       "type": "profile",
-      "name": "Chorus.ai",
-      "overview": "Chorus.ai is an AI conversation intelligence cloud platform for sales team that can transform conversations into data and insights.",
-      "website": "https://www.chorus.ai/",
+      "name": "Uptake Technologies",
+      "overview": "Put your data to work. |  @WEF Technology Pioneer & 3x @CNBC #Disruptor50",
+      "website": "https://www.uptake.com/",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/chorus-ai"
+        "url": "https://www.crunchbase.com/organization/uptake-3"
       },
       "twitter": {
-        "username": "chorus_ai",
-        "url": "https://twitter.com/chorus_ai",
-        "followers": 6818
+        "username": "uptake",
+        "url": "https://twitter.com/uptake",
+        "followers": 5302
       },
       "yearFounded": 0,
       "locations": [
-        "San Francisco and Tel Aviv"
+        "Chicago, IL"
       ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
       "topics": [
-        "AI",
-        "AI in Sales"
+        "AI"
       ],
-      "heat": 20,
+      "heat": 31,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1275421448807624704/YLghymIH_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/938090041146036225/nHB1EQ6B_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Chorus.ai",
+          "title": "Uptake Technologies",
           "isCached": true
         }
       ],
@@ -158,7 +160,7 @@
       "twitter": {
         "username": "myconversica",
         "url": "https://twitter.com/myconversica",
-        "followers": 13253
+        "followers": 13250
       },
       "size": "201-500 employees",
       "yearFounded": 2007,
@@ -214,7 +216,7 @@
       "twitter": {
         "username": "driveai_",
         "url": "https://twitter.com/driveai_",
-        "followers": 9073
+        "followers": 9072
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -323,7 +325,7 @@
       "twitter": {
         "username": "KabbageInc",
         "url": "https://twitter.com/KabbageInc",
-        "followers": 27455
+        "followers": 27453
       },
       "size": "501-1,000 employees",
       "yearFounded": 2009,
@@ -435,7 +437,7 @@
       "twitter": {
         "username": "algolia",
         "url": "https://twitter.com/algolia",
-        "followers": 16367
+        "followers": 16368
       },
       "size": "201-500 employees",
       "yearFounded": 2012,
@@ -487,7 +489,7 @@
       "twitter": {
         "username": "Algorithmia",
         "url": "https://twitter.com/Algorithmia",
-        "followers": 6366
+        "followers": 6367
       },
       "size": "11-50 employees",
       "yearFounded": 2013,
@@ -652,7 +654,7 @@
       "twitter": {
         "username": "fundbox",
         "url": "https://twitter.com/fundbox",
-        "followers": 7763
+        "followers": 7762
       },
       "size": "51-200 employees",
       "yearFounded": 2013,
@@ -708,7 +710,7 @@
       "twitter": {
         "username": "sbreurope",
         "url": "https://twitter.com/sbreurope",
-        "followers": 16515
+        "followers": 16516
       },
       "yearFounded": 0,
       "locations": [
@@ -755,7 +757,7 @@
       "twitter": {
         "username": "textio",
         "url": "https://twitter.com/textio",
-        "followers": 7758
+        "followers": 7759
       },
       "size": "51-200 employees",
       "yearFounded": 2014,
@@ -804,7 +806,7 @@
       "twitter": {
         "username": "6senseInc",
         "url": "https://twitter.com/6senseInc",
-        "followers": 19260
+        "followers": 19259
       },
       "yearFounded": 0,
       "locations": [
@@ -846,7 +848,7 @@
       "twitter": {
         "username": "amazon",
         "url": "https://twitter.com/amazon",
-        "followers": 3430685
+        "followers": 3430637
       },
       "size": "10,001+ employees",
       "yearFounded": 1994,
@@ -903,7 +905,7 @@
       "twitter": {
         "username": "Mobvoi_Official",
         "url": "https://twitter.com/Mobvoi_Official",
-        "followers": 51552
+        "followers": 51550
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -957,7 +959,7 @@
       "twitter": {
         "username": "enlitic",
         "url": "https://twitter.com/enlitic",
-        "followers": 4799
+        "followers": 4798
       },
       "size": "11-50 employees",
       "yearFounded": 2014,
@@ -1075,7 +1077,7 @@
       "twitter": {
         "username": "Microsoft",
         "url": "https://twitter.com/Microsoft",
-        "followers": 9091045
+        "followers": 9091008
       },
       "size": "10,001+ employees",
       "yearFounded": 1975,
@@ -1127,7 +1129,7 @@
       "twitter": {
         "username": "getnarrative",
         "url": "https://twitter.com/getnarrative",
-        "followers": 24376
+        "followers": 24374
       },
       "size": "11-50 employees",
       "yearFounded": 2012,
@@ -1177,7 +1179,7 @@
       "twitter": {
         "username": "salesforce",
         "url": "https://twitter.com/salesforce",
-        "followers": 523877
+        "followers": 523867
       },
       "size": "10,001+ employees",
       "yearFounded": 1999,
