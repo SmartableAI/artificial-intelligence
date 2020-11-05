@@ -20,6 +20,7 @@ topics:
   - AI Hardware
   - AI
   - Machine Learning
+  - AI in Autos
 
 images:
   - url: "https://www.ciol.com/wp-content/uploads/2019/08/Intel-AI.jpg"

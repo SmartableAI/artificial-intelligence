@@ -23,6 +23,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI in Security
 
 images:
   - url: "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg"
