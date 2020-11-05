@@ -1,47 +1,50 @@
 ---
 category: news
-title: "Meet Accern, A 2020 Benzinga Global Fintech Awards Finalist"
-excerpt: "Benzinga will be holding its annual Benzinga Global Fintech Awards, a day of dealmaking, networking, and recognition in the financial technology space, on Nov. 10,"
-publishedDateTime: 2020-11-03T17:10:00Z
-originalUrl: "https://www.benzinga.com/fintech/20/11/18157493/meet-accern-a-2020-benzinga-global-fintech-awards-finalist"
-webUrl: "https://www.benzinga.com/fintech/20/11/18157493/meet-accern-a-2020-benzinga-global-fintech-awards-finalist"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18157493"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18157493"
+title: "Inside fintech startup Upstart’s IPO filing"
+excerpt: "The fintech startup facilitates loans between consumers ... Upstart’s technology uses what it describes as artificial intelligence (AI) to approve consumer loans. It collects consumer demand ..."
+publishedDateTime: 2020-11-05T19:26:00Z
+originalUrl: "https://techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/"
+webUrl: "https://techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/"
+ampWebUrl: "https://techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/amp/"
 type: article
-quality: 44
-heat: -1
-published: false
+quality: 72
+heat: 142
+published: true
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TechCrunch
+  domain: techcrunch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Finance
   - AI
 
 images:
-  - url: "https://www.benzinga.com/files/images/story/2012/copy_of_courtesy_photo_4_0.png"
-    width: 800
-    height: 360
+  - url: "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-951640954.jpg?w=1024"
+    width: 1024
+    height: 684
     isCached: true
 
 related:
-  - title: "Inside fintech startup Upstart’s IPO filing"
-    excerpt: "The fintech startup facilitates loans between consumers ... Upstart’s technology uses what it describes as artificial intelligence (AI) to approve consumer loans. It collects consumer demand ..."
-    publishedDateTime: 2020-11-05T19:26:00Z
-    webUrl: "https://techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/"
-    ampWebUrl: "https://techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/amp/"
+  - title: "Meet Accern, A 2020 Benzinga Global Fintech Awards Finalist"
+    excerpt: "Benzinga will be holding its annual Benzinga Global Fintech Awards, a day of dealmaking, networking, and recognition in the financial technology space, on Nov. 10,"
+    publishedDateTime: 2020-11-03T17:10:00Z
+    webUrl: "https://www.benzinga.com/fintech/20/11/18157493/meet-accern-a-2020-benzinga-global-fintech-awards-finalist"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18157493"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18157493"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 72
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-951640954.jpg?w=1024"
-        width: 1024
-        height: 684
+      - url: "https://www.benzinga.com/files/images/story/2012/copy_of_courtesy_photo_4_0.png"
+        width: 800
+        height: 360
         isCached: true
   - title: "Deutsche Börse Finalizes $15 Million Round in Clarity AI, a Fintech Leveraging Machine Learning Tech"
     excerpt: "Deutsche Börse has finalized a $15 million investment round in Clarity AI, a Fintech leveraging machine learning tech."
@@ -115,6 +118,6 @@ related:
       domain: stockhouse.com
     quality: 4
 
-secured: "EKk8Rq1AQTI8QJRdu2GY3MmQev8kZbHcdJ9nvudok0EDpcYMaUwofdMeDwsPGkIoNlwGT53zoEKB+2WKJac4cEwSWb+zukIjtUUJUm2ut/nePd1JjUG01/P1SjkNFQvusfmDnumX+ebQhYjhXrnQ5fjsPureZFIxHcfeAe8rB7mnc5JPgXUmAaZ15vyN96qp9TMeXvmwqfHN1wcTvk0aUUFkrgOKWJ3a1of651F3I2UJV1LEgyDl+hQ8c6gIm79bN12A1xQQO2Y8RN7bQbSyUwqeBdk3d8Cde4CMB/T5y2BLG3X0rEkLOBF4DA5yLwiLu94hGRhr2BotZo2Bxof0VMhL7epqDeVN1Iak9TU/nl32sGr4BlmC+iS+SfgE2OMWgqpYEgTmQ7sNRF/ffpclOc5t+i2w005+k7f1VfQVxVaDivXwC8gMUdvuZAIJc7zNGyyLJpO1eTNV0fJtYJ1pVt5Im0xGxWfNFyuE4kUk6fPZD8yUjFrTLbw8Nf+ni4LCNr+N8n3FRRNbS+XQVOh4Kw==;sA0IwBmxLgH9yec+6snk7w=="
+secured: "m66s3VTrmF4Rtof8fKqVkDfVofQnR9/vDlaAqKZqKl3ORzNGSJnSkx/xr8hzj4avT+RfghUCBPcOiYSF0u85RPyGupfsPXuRWhEo3u18my6nF+0c6U8roEV9XQ8oVcW206x5bxKISdUq3I9edpq1l6m9EW8XxVFqvzH5Y+KxJnSjSYmyHRupSD++B4TTykLJi6REuYHgys1aKyt2/jB0J9oGdeHF5MvYwlRoZFsZ6TiCXUAApuSgDEA3Eo2Y5mP+lmZqi36JCjl3mw73ycY8LjgHlEtIhpcDpjgu7botKZpLTpR3YPZsDuPQCWxTPYKJsQRSzDzSArQSX63AJQtM0M7gbH6+zSqeWMgfGCXzexU=;w65CkNeG6VQfkHaFLz6AZQ=="
 ---
 

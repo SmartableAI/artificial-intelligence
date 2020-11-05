@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnmcmanus/2020/11/04/heres-how-ai-mak
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnmcmanus/2020/11/04/heres-how-ai-makes-a-new-home-hunt-about-as-fun-as-dating/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

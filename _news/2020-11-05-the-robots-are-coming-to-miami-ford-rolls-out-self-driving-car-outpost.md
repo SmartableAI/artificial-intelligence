@@ -74,20 +74,6 @@ related:
         width: 3584
         height: 1832
         isCached: true
-  - title: "Waymo And Other Self-Driving Car Companies Readying Real-World Driverless Transportation"
-    excerpt: "Just after Alphabet-owned Waymo started its driverless taxi service to the public in Phoenix, other autonomous vehicle developers are following suit with"
-    publishedDateTime: 2020-11-01T02:25:00Z
-    webUrl: "https://www.newsoneplace.com/35575211911/waymo-car-companies"
-    type: article
-    provider:
-      name: newsoneplace.com
-      domain: newsoneplace.com
-    quality: 45
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https://specials-images.forbesimg.com/imageserve/5f9e1ae8b307dfb172a46190/0x0.jpg"
-        width: 4256
-        height: 2832
-        isCached: true
   - title: "The future: robot nurses and driving a forklift from your living room"
     excerpt: "A number of machinery companies and start-ups are developing teleoperated equipment ... whether or not the real machine has a human in its drivers cabin. Although artificial intelligence is not used to control the machine, teleoperation can produce ..."
     publishedDateTime: 2020-11-05T11:08:00Z

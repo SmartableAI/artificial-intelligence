@@ -4,19 +4,25 @@ title: "Intel acquires machine learning platform Cnvrg.io to continue AI push - 
 excerpt: "TechCrunch reports that Intel (NASDAQ:INTC) has acquired Cnvrg.io, which provides an operating system for AI and machine learning.Cnvrg.io's platform helps data scientists build and run AI models, which can then be used to train,"
 publishedDateTime: 2020-11-04T15:19:00Z
 originalUrl: "https://seekingalpha.com/news/3631130-intel-acquires-machine-learning-platform-cnvrg-io-to-continue-ai-push-techcrunch"
-webUrl: "https://seekingalpha.com/news/3631130-intel-acquires-machine-learning-platform-cnvrg-io-to-continue-ai-push-techcrunch"
+webUrl: "https://cnvrg.io/"
 type: article
-quality: 28
-heat: -1
-published: false
+quality: 148
+heat: 188
+published: true
 
 provider:
   name: Seeking Alpha
   domain: seekingalpha.com
 
 topics:
-  - Machine Learning
   - AI
+  - Machine Learning
+
+images:
+  - url: "https://406167-1278791-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/06/cnvrg-new-cover-1024x536.png"
+    width: 1024
+    height: 536
+    isCached: true
 
 related:
   - title: "Intel acquires Cnvrg.io to enhance ML and AI capabilities"
@@ -51,31 +57,6 @@ related:
         width: 650
         height: 415
         isCached: true
-  - title: "Intel (INTC) Spruces Up AI Capabilities to Challenge AMD & NVDA"
-    excerpt: "Intel INTC has reportedly acquired Cnvrg.io — an Israel-based company that specializes in development of advanced machine learning (ML) models. The TechCrunch article, citing confirmation from an Intel’s spokesperson,"
-    publishedDateTime: 2020-11-05T15:41:00Z
-    webUrl: "https://www.nasdaq.com/articles/intel-intc-spruces-up-ai-capabilities-to-challenge-amd-nvda-2020-11-05"
-    ampWebUrl: "https://www.nasdaq.com/articles/intel-intc-spruces-up-ai-capabilities-to-challenge-amd-nvda-2020-11-05?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/intel-intc-spruces-up-ai-capabilities-to-challenge-amd-nvda-2020-11-05?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
-  - title: "Intel Buys Another AI Startup"
-    excerpt: "Intel Corp. has quietly acquired another AI platform developer, Israeli-based Cnvrg.io. The acquisition, confirmed by Intel late Tuesday (Nov. 3) to the"
-    publishedDateTime: 2020-11-04T17:27:00Z
-    webUrl: "https://www.datanami.com/2020/11/04/intel-buys-another-ai-startup/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/MLOps.png"
-        width: 1046
-        height: 806
-        isCached: true
   - title: "Intel acquires data science startup Cnvrg.io"
     excerpt: "Intel Corp. reportedly has acquired Cnvrg.io, an Israeli data science startup that helps teams create and run machine learning models. TechCrunch made the claim, though neither Intel nor Cnvrg.io has publicly confirmed the news as of the time of writing."
     publishedDateTime: 2020-11-04T05:18:00Z
@@ -105,6 +86,6 @@ related:
         height: 449
         isCached: true
 
-secured: "L48u0rb9rCn98dAaEeZT90b72jV+5YBUlOi/VRiUMr3hz0znW7BmFgoGoQcAOQuhA2eetUbewj5nsgbuMnb2fHAjjYDSrTwf9mhddG85h5ArZtu3daEx9OrDopSJJd1A1a8Qq+UAuswMkN03CvLCu+Um+K31yDY+IrpLtv8gKcteWWFUaiwgTmqWey8Eax84TQ4iwLh/FXMgb7iRv9NYvo2v+wZH7HH0laPPkp0mjevnfXZyu5Eh03RmDBjWYzpMPME2K2t/pGrd3Qzb6z7X0BP/1CMXygdRtfVUlWp3I4vL+wj142zC7KC3IFLS+oSLT7P3MjFQduzghXDQW/wDn+jKDImLNY7QMPjVcNmXZbA=;x6OHUtYxcUv2HOIsOJk4PA=="
+secured: "j41LymBDNWBx/KKf6iD+2BhJkuWkcpeEEaPEBv/5pGmm+K4zAhtuXuc/EH66CcBMYOyTwzY2VigdLUe2pCT4TpohyiBDb8Ov5BLFc2jvtcit2SMfSvxfXV5IoZNdTsXTSuH9baWQY+/oqHleRwkJQkvIz+vshuaXAnIgy3TIj1DiraqVMi3WxG0gi79nbSddc9r5cQ5jFsSv7OgR+flge1AqwblL0Yn15BY3nMLVEpRG9eYGVV7R14y2qw5Gvn34SuVxIPnPKbMyiOPHP43sCn5UMklZak/SVZ2tkn5PZSCeC2XmsFXMCQ2k8hk09jt0p6vRF3U9M7SEEtv21ld8upTreEPNvcAR4O7/E5H72AM=;5izS111+hej05HrbOGjYiA=="
 ---
 

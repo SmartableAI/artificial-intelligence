@@ -30,9 +30,9 @@ related:
   - title: "Microprocessor and GPU Market worth $138.2 billion by 2025 - Exclusive Report by MarketsandMarkets™"
     excerpt: "According to the new market research report \"Microprocessor and GPU Market with COVID-19 Impact Analysis by Architecture, Functionality, GPU Type, Deployment, Application (Consumer Electronics, Server and Data Center,"
     publishedDateTime: 2020-11-04T13:53:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microprocessor-and-gpu-market-worth-138-2-billion-by-2025-exclusive-report-by-marketsandmarkets-1029765330"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/microprocessor-and-gpu-market-worth-138-2-billion-by-2025-exclusive-report-by-marketsandmarkets-1029765330"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/microprocessor-and-gpu-market-worth-138-2-billion-by-2025-exclusive-report-by-marketsandmarkets-1029765330"
+    webUrl: "https://markets.businessinsider.com/news/stocks/microprocessor-and-gpu-market-worth-138-2-billion-by-2025-exclusive-report-by-marketsandmarkets-1029765334"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/microprocessor-and-gpu-market-worth-138-2-billion-by-2025-exclusive-report-by-marketsandmarkets-1029765334"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/microprocessor-and-gpu-market-worth-138-2-billion-by-2025-exclusive-report-by-marketsandmarkets-1029765334"
     type: article
     provider:
       name: Business Insider

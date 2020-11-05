@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/using-ai-accelerate-scientific-disc
 webUrl: "https://www.linkedin.com/pulse/using-ai-accelerate-scientific-discovery-azeem-azhar"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -28,19 +28,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "Using artificial intelligence to better manage chronic disease"
-    excerpt: "Notwithstanding the focus on COVID-19, chronic disease is the leading burden of our health care system. Six in 10 American adults have a chronic disease such as Type 2 diabetes, asthma and heart disease."
-    publishedDateTime: 2020-11-01T04:06:00Z
-    webUrl: "https://www.bizjournals.com/triangle/news/2020/11/01/using-artificial-intelligence-to-better-manage.html"
-    ampWebUrl: "https://www.bizjournals.com/triangle/news/2020/11/01/using-artificial-intelligence-to-better-manage.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/triangle/news/2020/11/01/using-artificial-intelligence-to-better-manage.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 39
-
-secured: "tHl3lDfdyoay4tGPuDB3l959DGFbQVtaniQsKXlnS7sI5UkvGn3FF0U8X8wpMrFL+FWJmZtqWV3urLUdua7QYCxYkClkotMp2rIpZVYBpPx6NbGuZQo3de0MgwfgHMf+pv5tFesnKXVkDBgMyjYIqfBip7nHxlMx1GWoLdACXmYBLqo9nPE8+KXUTljYf5rZR0fpeuV74pN9qrxh/NescAyCMlKo7cPXgeSevSgtjQk3nFFNxHHp6LuwSpwtXsFnM9LU6QGs96PlnFPNcQWcEJ4T3gf8WLd9xgmJL9AmyncVpCIMUJifWAwFTzIu8oB8aTFoIXHfbPaE5eSjlZEGXSFvPAWSBhTNK69duJBAXKE=;8Ufv8wcTRVnVC/5awiIAVw=="
+secured: "QRI+Xyy791zbx4y6QdmQInfBYlTEv4DjfBROtwSQKKZgq1ZfMbNocldeXoLGRCO82wyuKFqr3qt6zyc1+zjo03E+AwyfbGnM/2byUqqLGTNoKNlVaJKuH4cZm8S8PUwjtPzmrN0a8oLMOccFxg7iyzwBYzDmj6exTid/XQfA8cHv1uEeMIGFwJsjFRzTbWr8idiA2avippD8VG8lK8FLHlAcs6F3MMTshISslpQ/hxulCQt8khodK9qWfyewePPkkESWFPIhW6LNZJbvLsVg7nSb/eJsBcVE0DsTiw/tZRWXefmpT9S7IKM1VEtNl1DJFSDFSKwGYAvK/8O0FtY2kbrwGYeoMSGjUpaTp/U1+Agc9ydahId6tfGVpHvEfWDOgYFFtk3ziSot6m82nPvaslReOO27CA7i8pe9kNfvxYChGHLjOeY2pH83SKCZF/gXxmST97QphmPDhO9RcYxsBw2EUDafGKCahfQJC/Za1LKiolE9Jo2XRQLlxGUgAu8MOvh+ncbOAVaklRHlmgQY3w==;J7jxS/T5uHwmq5aUMbAjew=="
 ---
 

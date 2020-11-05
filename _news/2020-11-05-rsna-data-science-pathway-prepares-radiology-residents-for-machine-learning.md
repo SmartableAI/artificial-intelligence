@@ -23,15 +23,15 @@ topics:
 related:
   - title: "Data science pathway prepares radiology residents for machine learning"
     excerpt: "A recently developed data science pathway for fourth-year radiology residents will help prepare the next generation of radiologists to lead the way into the era of artificial intelligence and machine learning (AI-ML),"
-    publishedDateTime: 2020-11-04T19:28:00Z
-    webUrl: "https://medicalxpress.com/news/2020-11-science-pathway-radiology-residents-machine.html"
+    publishedDateTime: 2020-11-04T19:13:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/rson-dsp110420.php"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
+      name: EurekAlert!
+      domain: eurekalert.org
     quality: 39
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/datasciencep.jpg"
+      - url: "https://www.eurekalert.org/multimedia/pub/web/247867_web.jpg"
         width: 1440
         height: 894
         isCached: true

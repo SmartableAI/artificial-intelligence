@@ -19,6 +19,38 @@ topics:
   - AI
 
 related:
+  - title: "Inside fintech startup Upstart’s IPO filing"
+    excerpt: "The fintech startup facilitates loans between consumers ... Upstart’s technology uses what it describes as artificial intelligence (AI) to approve consumer loans. It collects consumer demand ..."
+    publishedDateTime: 2020-11-05T19:26:00Z
+    webUrl: "https://techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/"
+    ampWebUrl: "https://techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 72
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-951640954.jpg?w=1024"
+        width: 1024
+        height: 684
+        isCached: true
+  - title: "Meet Accern, A 2020 Benzinga Global Fintech Awards Finalist"
+    excerpt: "Benzinga will be holding its annual Benzinga Global Fintech Awards, a day of dealmaking, networking, and recognition in the financial technology space, on Nov. 10,"
+    publishedDateTime: 2020-11-03T17:10:00Z
+    webUrl: "https://www.benzinga.com/fintech/20/11/18157493/meet-accern-a-2020-benzinga-global-fintech-awards-finalist"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18157493"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18157493"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/copy_of_courtesy_photo_4_0.png"
+        width: 800
+        height: 360
+        isCached: true
   - title: "Deutsche Börse Finalizes $15 Million Round in Clarity AI, a Fintech Leveraging Machine Learning Tech"
     excerpt: "Deutsche Börse has finalized a $15 million investment round in Clarity AI, a Fintech leveraging machine learning tech."
     publishedDateTime: 2020-11-05T01:31:00Z
@@ -30,64 +62,57 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 41
-  - title: "Clarity AI closes $15m funding round led by Deutsche Börse"
-    excerpt: "Clarity AI, a global FinTech company that empowers investors to manage the impact of their portfolios through its proprietary technology platform, has announced that the firm has secured $15 million in a funding round led by Deutsche Börse AG & co-investor Mundi Ventures."
-    publishedDateTime: 2020-11-05T08:17:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/clarity-ai-closes-15m-funding-round-led-by-deutsche-borse/"
+  - title: "F|T: The FinTech Times – Toeing the line"
+    excerpt: "a weekly newsletter covering the biggest FinTech news from around the globe. If you want to read F|T before anyone else, make sure to subscribe using the form at the bottom of this page. Wealthsimple has tapped Paul Teshima, the co-founder of Nudge.ai, to ..."
+    publishedDateTime: 2020-11-02T10:59:00Z
+    webUrl: "https://betakit.com/ft-the-fintech-times-toeing-the-line/"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
+      name: BetaKit
+      domain: betakit.com
+    quality: 24
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2020/11/Clarity-AI-2.jpg"
-        width: 300
-        height: 300
+      - url: "https://cdn.betakit.com/wp-content/uploads/2019/05/fintechtimes-1-1-1-1-1024x575.png"
+        width: 1024
+        height: 575
         isCached: true
-  - title: "Detusche Börse leads $15 million round in Clarity AI"
-    excerpt: "Deutsche Börse has led a $15 million funding round in Clarity AI, a Spanish fintech firm that uses machine learning and big data to help investors understand the sociatel impact of their investment portfolios,"
-    publishedDateTime: 2020-11-05T01:25:00Z
-    webUrl: "https://www.finextra.com/newsarticle/36884/detusche-brse-leads-15-million-round-in-clarity-ai"
+  - title: "Top 10 Asian FinTech Startups You Need to Follow"
+    excerpt: "Bowen Khong takes a look at 10 Asian Fintech Startups that you should be aware of they include Ant Group, Ping An Technology, Dr Wealth, Grab Pay, Razer Pay, Folio, Viva Republic, Policy Bazaar, HelloGold,"
+    publishedDateTime: 2020-11-04T07:00:00Z
+    webUrl: "https://www.enterprisetimes.co.uk/2020/11/04/top-10-asian-fintech-startups-you-need-to-follow/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
+      name: enterprisetimes.co.uk
+      domain: enterprisetimes.co.uk
+    quality: 24
     images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/aeb167a4e29002042d10d40ed51206ad.jpg"
-        width: 480
-        height: 270
+      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2020/10/Photo-by-Christina-@-wocintechchat.jpg"
+        width: 728
+        height: 410
         isCached: true
-  - title: "Deutsche Börse leads $15 million round in Clarity AI"
-    excerpt: "Deutsche Börse has led a $15 million funding round in Clarity AI, a Spanish fintech firm that uses machine learning and big data to help investors understand the sociatel impact of their investment portfolios,"
-    publishedDateTime: 2020-11-05T09:46:00Z
-    webUrl: "https://www.finextra.com/newsarticle/36884/deutsche-brse-leads-15-million-round-in-clarity-ai"
+  - title: "The future of fintech beyond COVID-19"
+    excerpt: "By Ritam Gandhi, Founder and Director, Studio Graphene  COVID-19 has undoubtedly cemented our reliance on technology. With the unexpected shift to online working, shopping and entertaining, digital solutions have largely been the only means to overcome disruptions to our daily routines."
+    publishedDateTime: 2020-11-05T11:59:00Z
+    webUrl: "https://www.globalbankingandfinance.com/the-future-of-fintech-beyond-covid-19/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 24
     images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/aeb167a4e29002042d10d40ed51206ad.jpg"
-        width: 480
-        height: 270
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/11/Untitled-design-2020-11-05T165829.943.jpg"
+        width: 750
+        height: 422
         isCached: true
-  - title: "Chinese Fintech Firm Lufax to Lay the Groundwork for its Global Expansion Over Next 5 Years"
-    excerpt: "Chinese Fintech company Lufax is reportedly planning to lay the groundwork for its global expansion over the next 5 years."
-    publishedDateTime: 2020-11-04T01:45:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/11/168712-chinese-fintech-firm-lufax-to-lay-the-groundwork-for-its-global-expansion-over-next-5-years/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/168712-chinese-fintech-firm-lufax-to-lay-the-groundwork-for-its-global-expansion-over-next-5-years/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/168712-chinese-fintech-firm-lufax-to-lay-the-groundwork-for-its-global-expansion-over-next-5-years/amp/"
+  - title: "Crowdsourcing startup wins FinTech Frontier pitch competition"
+    excerpt: "A Pittsburgh-based startup won FinTech Frontier’s inaugural pitch competition, and here's what the company had to say about Cincinnati."
+    publishedDateTime: 2020-11-02T17:37:00Z
+    webUrl: "https://www.bizjournals.com/cincinnati/inno/stories/news/2020/11/02/fintech-frontier-names-pitch-competition-winner.html"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 34
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/06/Lufax-300x247.jpg"
-        width: 300
-        height: 247
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "NvliWxgydY8FJ0jjQOV+c9It4aFelgzy1JLxhycDqJt6hWJ19XICUxPmxbsbmtP0vEqxQuqWsadNYYMXVjf7e4KCOmhz7upDBxoRFIR1WGUhRb3csoS95y/mN5/fArIB0Ho64Lj3hg37zD4I6jQhr7J3qS/ktfPwTHyILyjmQEK2r8vYbA+G4l2LgJmN/yeSbCvctzNyBmyABDZEBTIbMPJf2nmg7jajeu4guhN6C28BKjg6UHdXfYvbla0t3cj2cODbPAz8Lbe+7D0RwF3WFXEqsc6rbxiGkex9jTZxRKy428VIgtQLtjN2Kh84l2hwAQiyExjFW+V7i3ewgGWNMS7uiBMKhfKC8s6MMdFFcd6X3GJbXl/9hm6E5oCQHJZMdJPV8jH9xPWL83HucupImpKAUYhvRTusbui6IIVzyaIKSGWyY7MtYnOtKEtVRQSveGK9+7K99xNVGepdVjiTfeYwh7JwTZPyKwiqdL670FVc83zaAiFgQlY7txrPoQSSZsUZqANw8AazEU0+d9PcxA==;OvCEAi8IBjJySSdnaPbFhg=="
 ---

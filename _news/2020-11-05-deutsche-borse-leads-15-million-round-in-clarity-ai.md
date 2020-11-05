@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deutsche Börse Finalizes $15 Million Round in Clarity AI, a Fintech Leveraging Machine Learning Tech"
-    excerpt: "Deutsche Börse has finalized a $15 million investment round in Clarity AI, a Fintech leveraging machine learning tech."
-    publishedDateTime: 2020-11-05T01:31:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/11/168794-deutsche-borse-finalizes-15-million-round-in-clarity-ai-a-fintech-leveraging-machine-learning-tech/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/168794-deutsche-borse-finalizes-15-million-round-in-clarity-ai-a-fintech-leveraging-machine-learning-tech/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/168794-deutsche-borse-finalizes-15-million-round-in-clarity-ai-a-fintech-leveraging-machine-learning-tech/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 41
   - title: "Clarity AI closes $15m funding round led by Deutsche Börse"
     excerpt: "Clarity AI, a global FinTech company that empowers investors to manage the impact of their portfolios through its proprietary technology platform, has announced that the firm has secured $15 million in a funding round led by Deutsche Börse AG & co-investor Mundi Ventures."
     publishedDateTime: 2020-11-05T08:17:00Z
@@ -64,31 +53,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Chinese Fintech Firm Lufax to Lay the Groundwork for its Global Expansion Over Next 5 Years"
-    excerpt: "Chinese Fintech company Lufax is reportedly planning to lay the groundwork for its global expansion over the next 5 years."
-    publishedDateTime: 2020-11-04T01:45:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/11/168712-chinese-fintech-firm-lufax-to-lay-the-groundwork-for-its-global-expansion-over-next-5-years/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/168712-chinese-fintech-firm-lufax-to-lay-the-groundwork-for-its-global-expansion-over-next-5-years/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/168712-chinese-fintech-firm-lufax-to-lay-the-groundwork-for-its-global-expansion-over-next-5-years/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 34
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/06/Lufax-300x247.jpg"
-        width: 300
-        height: 247
-        isCached: true
-  - title: "The Game-changing FinTech Company You Need to Know About"
-    excerpt: "Back in June, we introduced our Stockhouse investor audience to an emerging FinTech giant and took a deep dive into how this Canadian company is on the forefront of developing artificial intelligence (AI) that transforms data into knowledge."
-    publishedDateTime: 2020-11-05T14:28:00Z
-    webUrl: "https://stockhouse.com/opinion/interviews/2020/11/05/the-game-changing-fintech-company-you-need-to-know-about"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 4
 
 secured: "6bsxqF/AKYVUiq8ylPslYmTFrHt7nkqFuOR+hvNoj1+aPv7PitMlrWMLbCxAf2hWpDN2zsnhZ9F9P6VHcl0r9ueFXDinUY/8eOyJgAL/2FbaJsXJgWQ5WZ1L3qPZ+leu1ny7kWGzYGuClvP9cLeU6+YbM4TL1v35vyC3iSpXhGlGfoQgarIn2XfmL4+Xik3j6z8Rs4Lfu/le7t4ajTkYpNaeJDAfNXftoVFPAjQGdFmFgsIJkQxm1EyeukfoEdy4yb6rlHhs4EfhCXtdBrFu1Vn93S51OToqFl9+0k/0JR9CsG6KBHlT2XH3h4W2jMC2mt+LNoOBlMddOYwReK6V3MD2rktDj/CAygbmI33ugxE=;aVQ4xKDd1nQvFsitHMA7uA=="
 ---

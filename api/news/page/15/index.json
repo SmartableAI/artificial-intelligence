@@ -2,6 +2,155 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-10-22-dsp-group-announces-support-of-tensorflow-lite-for-microcontrollers-on-its-dbmd7-aiml-soc.md",
+      "title": "DSP Group Announces Support of TensorFlow Lite for Microcontrollers on its DBMD7 AI/ML SoC",
+      "excerpt": "TensorFlow Lite for Microcontrollers is an extension of TensorFlow Lite that addresses the need to run ML on memory-constrained devices with only kilobytes of memory. It comes with a specific set ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/dsp-group-announces-support-of-tensorflow-lite-for-microcontrollers-on-its-dbmd7-ai-ml-soc-1029709437",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/dsp-group-announces-support-of-tensorflow-lite-for-microcontrollers-on-its-dbmd7-ai-ml-soc-1029709437",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-22T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-telesense-raises-102-million-to-monitor-crops-with-ai-and-sensors.md",
+      "title": "TeleSense raises $10.2 million to monitor crops with AI and sensors",
+      "excerpt": "TeleSense, a startup developing AI-powered software and sensors for predicting the quality of crops in storage and transit, has raised $10.2 million. The company says the proceeds will be put ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/22/telesense-raises-10-2-million-to-monitor-crops-with-ai-and-sensors/",
+      "originalUrl": "https://venturebeat.com/2020/10/22/telesense-raises-10-2-million-to-monitor-crops-with-ai-and-sensors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/3fad1eb9-0c58-4da9-81a4-11a6bc8f67ac-e1602617584749.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/22/telesense-raises-10-2-million-to-monitor-crops-with-ai-and-sensors/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/telesense-raises-10-2-million-to-monitor-crops-with-ai-and-sensors/amp/",
+      "publishedDateTime": "2020-10-22T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-acer-unveils-intel-gpu-toting-laptops-revamped-chromebooks-and-an-alexa-killing-smartspeaker.md",
+      "title": "Acer unveils Intel GPU-toting laptops, revamped Chromebooks and an Alexa-killing smartspeaker",
+      "excerpt": "Acer has unveiled its latest range of laptops, monitors, and more at their October 2020 Next@Acer event, with new devices in the Swift, Aspire, Predator, Travelmate and ConceptD range. Whilst the conference itself certainly won’t be winning any awards for presentation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/nz/news/acer-unveils-intel-gpu-toting-laptops-revamped-chromebooks-and-an-alexa-killing-smartspeaker",
+      "originalUrl": "https://www.techradar.com/nz/news/acer-unveils-intel-gpu-toting-laptops-revamped-chromebooks-and-an-alexa-killing-smartspeaker",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/jEeCmKPqLeUpdTv96zjGUE-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/acer-unveils-intel-gpu-toting-laptops-revamped-chromebooks-and-an-alexa-killing-smartspeaker",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/acer-unveils-intel-gpu-toting-laptops-revamped-chromebooks-and-an-alexa-killing-smartspeaker",
+      "publishedDateTime": "2020-10-22T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-debate-over-banning-facial-recognition-technology-continues.md",
       "title": "Debate over banning facial recognition technology continues",
       "excerpt": "Federal authorities were able to make an arrest with the help of facial recognition technology. Yet some at Baltimore City Hall are pushing to ban it. Shortly after city leaders debated whether to ban facial recognition technology,",
@@ -1059,152 +1208,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-white-house-nears-new-rules-on-artificial-intelligence.md",
-      "title": "White House Nears New Rules on Artificial Intelligence",
-      "excerpt": "The Trump administration prefers what U.S. Chief Technology Officer Michael Kratsios has called a ‘light-touch’ approach toward regulating AI, to avoid holding back U.S. leadership in the field.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366",
-      "originalUrl": "https://www.wsj.com/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-247890/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366",
-      "publishedDateTime": "2020-10-21T15:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-on-nebraska-innovation-campus-the-combine-incubator-hatches-new-agtech-startups.md",
-      "title": "On Nebraska Innovation Campus, The Combine incubator hatches new agtech startups",
-      "excerpt": "Before Seattle-based Costco broke ground on its $280 million poultry operation in Fremont in 2017, Scott Niewohner remembers a conversation with his cousin about the pros and cons of building barns to raise chickens to supply the plant.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconprairienews.com/2020/10/on-nebraska-innovation-campus-the-combine-incubator-hatches-new-agtech-startups/",
-      "originalUrl": "https://siliconprairienews.com/2020/10/on-nebraska-innovation-campus-the-combine-incubator-hatches-new-agtech-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://siliconprairienews.com/wp-content/uploads/2020/10/combine-shot-1-scaled-e1603316002886.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-21T14:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Silicon Prairie News",
-        "domain": "siliconprairienews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-google-is-reportedly-supplying-ai-technology-to-the-trump-administrations-virtual-border-wall.md",
-      "title": "Google is reportedly supplying AI technology to the Trump administration's virtual border wall",
-      "excerpt": "Documents reportedly show that Google Cloud's technology will be used in tandem with Anduril to erect Trump's virtual border wall.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-trump-virtual-border-wall-anduril-2020-10",
-      "originalUrl": "https://www.businessinsider.com/google-trump-virtual-border-wall-anduril-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f908d59abcd0c0018d68e63?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/google-trump-virtual-border-wall-anduril-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-trump-virtual-border-wall-anduril-2020-10?amp",
-      "publishedDateTime": "2020-10-21T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

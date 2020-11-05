@@ -57,10 +57,10 @@
     {
       "path": "_news/2020-11-03-immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership.md",
       "title": "ImmunoPrecise Antibodies and Mila Announce Strategic AI Partnership",
-      "excerpt": "PRNewswire/ - IMMUNOPRECISE ANTIBODIES LTD. (the 'Company' or 'IPA') (TSXV: IPA) (OTCQB: IPATF) (FSE: TQB2), a leader",
+      "excerpt": "CNW/ - IMMUNOPRECISE ANTIBODIES LTD. (the 'Company' or 'IPA') (TSXV: IPA) (OTCQB: IPATF) (FSE: TQB2), a leader in",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758396",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758396",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758397",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758397",
       "featuredContent": null,
       "highlight": null,
       "heat": 79,
@@ -68,8 +68,8 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758396",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758396",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758397",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758397",
       "publishedDateTime": "2020-11-03T04:52:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -189,6 +189,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-31-wooask-s01-worlds-most-powerful-ai-voice-recorder.md",
+      "title": "Wooask S01 - World's Most Powerful AI Voice Recorder",
+      "excerpt": "Andy Lee, Founder & CEO of Wooask, a leading customized AI translation solution provider, is introducing a new product,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/10/n18149887/wooask-s01-worlds-most-powerful-ai-voice-recorder",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/n18149887/wooask-s01-worlds-most-powerful-ai-voice-recorder",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18149887",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18149887",
+      "publishedDateTime": "2020-10-30T11:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1418,59 +1452,6 @@
         "Facebook AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-facebooks-new-ai-can-translate-languages-directly-into-one-another.md",
-      "title": "Facebook's new AI can translate languages directly into one another",
-      "excerpt": "That’s why Facebook AI has developed a new MT ... two-thirds are in a language other than English, she noted. Dubbed M2M-100, Facebook claims that it is the first multilingual machine translation model (MMT) that can directly translate back and forth ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/facebooks-ai-can-translate-languages-directly-into-one-another-150029679.html",
-      "originalUrl": "https://www.engadget.com/facebooks-ai-can-translate-languages-directly-into-one-another-150029679.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 356,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C400&quality=95&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1800%252C1200%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-04%252Fb0b78f20-80e4-11ea-ad7b-99d4bc7d0814%26client%3Da1acac3e1b3290917d92%26signature%3D7710ab157ce1c73492be616e6e982875fd9c4ced&client=amp-blogside-v2&signature=69a553b53d39c0b9162403452839efda71a2de93",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/facebooks-ai-can-translate-languages-directly-into-one-another-150029679.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebooks-ai-can-translate-languages-directly-into-one-another-150029679.html",
-      "publishedDateTime": "2020-10-19T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

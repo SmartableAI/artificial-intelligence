@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Computer Vision Puts a Focus on Hygiene"
-excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-publishedDateTime: 2020-11-05T13:33:00Z
-originalUrl: "https://www.computerworld.com/resources/210294/computer-vision-puts-a-focus-on-hygiene"
-webUrl: "https://www.computerworld.com/resources/210294/computer-vision-puts-a-focus-on-hygiene"
+excerpt: "Network news, trend analysis, product testing and the industry’s most important blogs, all collected at the most popular network watering hole on the Internet | Network World"
+publishedDateTime: 2020-11-05T13:45:00Z
+originalUrl: "https://www.networkworld.com/resources/210294/computer-vision-puts-a-focus-on-hygiene"
+webUrl: "https://www.networkworld.com/resources/210294/computer-vision-puts-a-focus-on-hygiene"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: Network World
+  domain: networkworld.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+  - url: "https://idge.staticworld.net/nww/nww_logo_300x300.png"
     width: 300
     height: 300
     isCached: true
 
-secured: "MPNRs4crMmyrhjtweeb0ggBuMyVK8xigqM+3FQAlfR/emT+4QelPNVRuvFoixmNAgEGXuY5laRSUmYRdk6xQb/oZ/BUkG/1LcjpNx3w+xzVuWKqE1Mi9Yx3sGh/uDPi5gZk8m9HcfFtr5lQ5WY6KuNpQBc4tvJv5UbsOc6g0ai4aClUa9W7sX4y7b6m4QWknzLRajOdQSkc3X1FdDbugZo5dWLc+aQuatcQMiDrHS5XBUTHzmhxJ2iPmqVTeQTIIbXawCuCk2l9VGt7DmqY3mw/XprJBWAhdOGKmjHNuyT+49RGihmTUD8soCQhOyb832PMIu5qijauptOKrXJQeXPCg9I8FaraXlGCCoIWC0aw0d9/N2UrGZuulqF5mq4Mi3yE2v6Gj83/XH7n+8A99scNw1LTRMD2kZ6b9+4ehkPJWpIgg1VJyG40dUCtTjnAcWMBm/B71H+R6pVmKdiVNMtzPwipJJmxOslC68aifOjV1DLQGOMifPnA+GRhrPhL7hn0kraex3fnN5NTBMLzESA==;FtO/o7ZijK5QDN8Hj8S6PQ=="
+secured: "NoRx4JIw04jD8mfAQJUYzIQo0IOCJQj/CXazRAJiyC9a9pt19hTZHsyaH9BUrbd+qDRk5M1QFndbcId7W/82SaK9fF4kxeZdI1XpCQMOYNpH+xPn1JKlSAHUfB6tG2i8m0rITvSC9jHdXn4LiCQiAVrYZq9J3w5OdFp1iMKKAEege4X7jPpAJQnNcE4HLLtI0NjkXCvyOm8+l/KW6K562Q3UNuZHxC2kyM2OZTe3QEnqcNGswcOBC7GQd9Kipf0cbXffEIBP2x2TdFGqzrDKcZbVERxCtMGuG5gEA592CxSjzxAMcolILg8ut1rj5ayUWeejjfIko92m0McdFqdsw45cRr1ePChIYpnP5XfUi8A=;i4V7flQV0acAn4xL2N9YaA=="
 ---
 

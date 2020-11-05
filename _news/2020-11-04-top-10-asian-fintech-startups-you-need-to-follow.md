@@ -25,20 +25,95 @@ images:
     isCached: true
 
 related:
-  - title: "5 top Asian RegTechs that are disrupting financial services"
-    excerpt: "The applications of RegTechs in the banking and financial services institutions can be mainly classified into regulatory"
-    publishedDateTime: 2020-11-02T14:45:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/5-top-asian-regtechs-that-are-disrupting-financial-services/"
+  - title: "Inside fintech startup Upstart’s IPO filing"
+    excerpt: "The fintech startup facilitates loans between consumers ... Upstart’s technology uses what it describes as artificial intelligence (AI) to approve consumer loans. It collects consumer demand ..."
+    publishedDateTime: 2020-11-05T19:26:00Z
+    webUrl: "https://techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/"
+    ampWebUrl: "https://techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/amp/"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 72
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-951640954.jpg?w=1024"
+        width: 1024
+        height: 684
+        isCached: true
+  - title: "Meet Accern, A 2020 Benzinga Global Fintech Awards Finalist"
+    excerpt: "Benzinga will be holding its annual Benzinga Global Fintech Awards, a day of dealmaking, networking, and recognition in the financial technology space, on Nov. 10,"
+    publishedDateTime: 2020-11-03T17:10:00Z
+    webUrl: "https://www.benzinga.com/fintech/20/11/18157493/meet-accern-a-2020-benzinga-global-fintech-awards-finalist"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18157493"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18157493"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/copy_of_courtesy_photo_4_0.png"
+        width: 800
+        height: 360
+        isCached: true
+  - title: "Deutsche Börse Finalizes $15 Million Round in Clarity AI, a Fintech Leveraging Machine Learning Tech"
+    excerpt: "Deutsche Börse has finalized a $15 million investment round in Clarity AI, a Fintech leveraging machine learning tech."
+    publishedDateTime: 2020-11-05T01:31:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/11/168794-deutsche-borse-finalizes-15-million-round-in-clarity-ai-a-fintech-leveraging-machine-learning-tech/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/168794-deutsche-borse-finalizes-15-million-round-in-clarity-ai-a-fintech-leveraging-machine-learning-tech/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/168794-deutsche-borse-finalizes-15-million-round-in-clarity-ai-a-fintech-leveraging-machine-learning-tech/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 41
+  - title: "F|T: The FinTech Times – Toeing the line"
+    excerpt: "a weekly newsletter covering the biggest FinTech news from around the globe. If you want to read F|T before anyone else, make sure to subscribe using the form at the bottom of this page. Wealthsimple has tapped Paul Teshima, the co-founder of Nudge.ai, to ..."
+    publishedDateTime: 2020-11-02T10:59:00Z
+    webUrl: "https://betakit.com/ft-the-fintech-times-toeing-the-line/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
     quality: 24
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2020/11/regtech.jpg"
-        width: 300
-        height: 300
+      - url: "https://cdn.betakit.com/wp-content/uploads/2019/05/fintechtimes-1-1-1-1-1024x575.png"
+        width: 1024
+        height: 575
         isCached: true
+  - title: "The future of fintech beyond COVID-19"
+    excerpt: "By Ritam Gandhi, Founder and Director, Studio Graphene  COVID-19 has undoubtedly cemented our reliance on technology. With the unexpected shift to online working, shopping and entertaining, digital solutions have largely been the only means to overcome disruptions to our daily routines."
+    publishedDateTime: 2020-11-05T11:59:00Z
+    webUrl: "https://www.globalbankingandfinance.com/the-future-of-fintech-beyond-covid-19/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 24
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/11/Untitled-design-2020-11-05T165829.943.jpg"
+        width: 750
+        height: 422
+        isCached: true
+  - title: "Crowdsourcing startup wins FinTech Frontier pitch competition"
+    excerpt: "A Pittsburgh-based startup won FinTech Frontier’s inaugural pitch competition, and here's what the company had to say about Cincinnati."
+    publishedDateTime: 2020-11-02T17:37:00Z
+    webUrl: "https://www.bizjournals.com/cincinnati/inno/stories/news/2020/11/02/fintech-frontier-names-pitch-competition-winner.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
+  - title: "The Game-changing FinTech Company You Need to Know About"
+    excerpt: "Back in June, we introduced our Stockhouse investor audience to an emerging FinTech giant and took a deep dive into how this Canadian company is on the forefront of developing artificial intelligence (AI) that transforms data into knowledge."
+    publishedDateTime: 2020-11-05T14:28:00Z
+    webUrl: "https://stockhouse.com/opinion/interviews/2020/11/05/the-game-changing-fintech-company-you-need-to-know-about"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 4
 
 secured: "g0fUwPuYDCWbX3E5ejJ9GxAEtaceqmcyQv0Cn6kUlW+nAfUAX9UU4vGrLzEhB6stzSpdv3zSWIutp3LdwxS+AUSgC9SUX2JzROnLkhkjYB+yvfY0LCI43lUJ5JMGxOf10CBD0YuK4zpKISmY6OSVaT32YLJFtKIZcmPNLvGUTpKZGeVaL+FRZbwjAP+xawVFB0jpepq0NcwTKH5NtYe31p3mbqRtsqwG0y6Q0J+smg43GmIbYoV4Uud2IOMNGHQ1ExDxRMU7Y3FmPlPk5ckGK9m6xEJIjyOTBa/OcJ80DlMty63t7Y9BnM4WCF6lxx+CYk+PCmjpzcdsm+xt73L9cbgp1e8/CQIwHML6KvnHbZ1ZjYv6dx46/GHUuHtq67q8EiwD+QR57RQdCDCVfAgqW8S+yZFai5L/OsVBM2L8fQA3Omu8NKrVrz+JGbqXEfle71F15kDpaBF/3vo2zUZzahhAqoybqcsjP1zDHHqJBQOTYP/QNRbi5fKu031TmGTgCXdDD5fUpx2CR+91BEyB/g==;t7xPRxma219lfX6qys4neA=="
 ---

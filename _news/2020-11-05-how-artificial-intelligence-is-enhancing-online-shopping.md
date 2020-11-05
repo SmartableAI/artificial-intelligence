@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/how-artificial-intelligence-is-enhan
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-artificial-intelligence-is-enhancing-online-shopping-2020-11-04?amp"
 type: article
 quality: 67
-heat: 97
+heat: 99
 published: true
 
 provider:

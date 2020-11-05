@@ -73,20 +73,6 @@ related:
         width: 3584
         height: 1832
         isCached: true
-  - title: "Waymo And Other Self-Driving Car Companies Readying Real-World Driverless Transportation"
-    excerpt: "Just after Alphabet-owned Waymo started its driverless taxi service to the public in Phoenix, other autonomous vehicle developers are following suit with"
-    publishedDateTime: 2020-11-01T02:25:00Z
-    webUrl: "https://www.newsoneplace.com/35575211911/waymo-car-companies"
-    type: article
-    provider:
-      name: newsoneplace.com
-      domain: newsoneplace.com
-    quality: 45
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https://specials-images.forbesimg.com/imageserve/5f9e1ae8b307dfb172a46190/0x0.jpg"
-        width: 4256
-        height: 2832
-        isCached: true
   - title: "The Robots Are Coming To Miami: Ford Rolls Out Self-Driving Car Outpost"
     excerpt: "Ford Autonomous Vehicles, a subsidiary of Ford Motor Cos., announced last week that it will be opening a command center west of Miami International Airport, a key step in the company's goal to offer ride-hailing and commercial delivery services by 2022."
     publishedDateTime: 2020-11-04T19:29:00Z

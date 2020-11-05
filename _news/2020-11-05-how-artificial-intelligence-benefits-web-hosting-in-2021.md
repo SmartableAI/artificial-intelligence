@@ -6,8 +6,8 @@ publishedDateTime: 2020-11-05T08:16:00Z
 originalUrl: "https://www.hostreview.com/blog/201105-how-artificial-intelligence-benefits-web-hosting-in-2021"
 webUrl: "https://www.hostreview.com/blog/201105-how-artificial-intelligence-benefits-web-hosting-in-2021"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"

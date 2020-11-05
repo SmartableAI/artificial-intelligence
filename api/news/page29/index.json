@@ -2,6 +2,133 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-10-13-luxury-institute-the-10-new-rules-for-the-21st-century-data-driven-enterprise.md",
+      "title": "Luxury Institute: The 10 New Rules for the 21st-Century Data-Driven Enterprise",
+      "excerpt": "Today's headlines declare that data is the new oil, the essential fuel that powers the digital economy. In the more advanced consumer goods",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/10/12/10-essential-leadership-qualities-for-the-age-of-artificial-intelligence/",
+      "originalUrl": "https://www.prnewswire.com/news-releases/luxury-institute-the-10-new-rules-for-the-21st-century-data-driven-enterprise-301150861.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f83dac6449826adc7bfecb4%2F0x0.jpg",
+          "width": 1200,
+          "height": 565,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/10/12/10-essential-leadership-qualities-for-the-age-of-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/10/12/10-essential-leadership-qualities-for-the-age-of-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-10-13T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-global-artificial-intelligence-ai-in-drug-discovery-market.md",
+      "title": "Global Artificial Intelligence (AI) in Drug Discovery Market",
+      "excerpt": "Data Bridge Market Research has recently added a concise research on the Artificial Intelligence (AI) in Drug Discovery Market to depict valuable insights related to significant market trends driving the industry. The report features analysis based on key ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2156548/global-artificial-intelligence-ai-in-drug-discovery-market",
+      "originalUrl": "https://www.openpr.com/news/2156548/global-artificial-intelligence-ai-in-drug-discovery-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/a/Ta12403450_g.jpg",
+          "width": 800,
+          "height": 473,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2156548/global-artificial-intelligence-ai-in-drug-discovery-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2156548/global-artificial-intelligence-ai-in-drug-discovery-market",
+      "publishedDateTime": "2020-10-13T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-these-19-companies-are-racing-to-put-driverless-cars-on-the-road-by-2020.md",
+      "title": "These 19 companies are racing to put driverless cars on the road by 2020",
+      "excerpt": "Ford and Chinese company Baidu recently invested $150 million in Velodyne, a manufacturer of a LiDAR system that allows self-driving cars to see the world around them. Ford showed its driverless ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.in/finance/these-19-companies-are-racing-to-put-driverless-cars-on-the-road-by-2020/slidelist/53758039.cms",
+      "originalUrl": "https://www.businessinsider.in/finance/these-19-companies-are-racing-to-put-driverless-cars-on-the-road-by-2020/slidelist/53758039.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/msid-53758040,width-640,resizemode-4,imgsize-1036801/tesla-is-aiming-to-have-its-driverless-technology-ready-by-2018-.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-13T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-four-ways-ai-can-improve-revenue-operations.md",
       "title": "Four Ways AI Can Improve Revenue Operations",
       "excerpt": "How can RevOps best drive value, profit, and growth? The answer lies in a strong foundation of advanced analytics and AI.",
@@ -1025,154 +1152,6 @@
         "Natural Language Processing",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-google-updates-android-studio-with-better-tensorflow-lite-support-and-a-new-database-inspector.md",
-      "title": "Google updates Android Studio with better TensorFlow Lite support and a new database inspector",
-      "excerpt": "Google launched version 4.1 of Android Studio, its IDE for developing Android apps, into its stable channel today. As usual for Android Studio, the minor uptick in version numbers doesn’t quite do the update justice.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/12/google-updates-android-studio-with-better-tensorflow-lite-support-and-a-new-database-inspector/",
-      "originalUrl": "https://techcrunch.com/2020/10/12/google-updates-android-studio-with-better-tensorflow-lite-support-and-a-new-database-inspector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/02/00100dPORTRAIT_00100_BURST20190225082039558_COVER.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/12/google-updates-android-studio-with-better-tensorflow-lite-support-and-a-new-database-inspector/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/12/google-updates-android-studio-with-better-tensorflow-lite-support-and-a-new-database-inspector/amp/",
-      "publishedDateTime": "2020-10-12T10:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-teslas-full-self-driving-beta-releases-to-some-drivers-on-october-20th.md",
-      "title": "Tesla's 'Full Self-Driving' beta releases to some drivers on October 20th",
-      "excerpt": "A small group of Tesla drivers will get the chance to test the company's 'Full Self-Driving' rewrite next week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/tesla-full-self-driving-beta-october-20-171500591.html",
-      "originalUrl": "https://www.engadget.com/tesla-full-self-driving-beta-october-20-171500591.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F3b890af0-0cab-11eb-aff2-f11b123b62a1&client=amp-blogside-v2&signature=d1805af9a493dbf66adae49607fe3512a7edbe41",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/tesla-full-self-driving-beta-october-20-171500591.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-full-self-driving-beta-october-20-171500591.html",
-      "publishedDateTime": "2020-10-12T10:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-intel-india-sets-up-centre-for-artificial-intelligence.md",
-      "title": "Intel India sets up centre for artificial intelligence",
-      "excerpt": "Intel India said it had partnered IIIT Hyderabad, Public Health Foundation of India and the Telangana government to unveil a research centre to focus on leveraging artificial intelligence (AI) to solve India’s population-scale challenges in sectors such as healthcare and smart mobility.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/business/intel-india-sets-up-centre-for-artificial-intelligence/article32837598.ece",
-      "originalUrl": "https://www.thehindu.com/business/intel-india-sets-up-centre-for-artificial-intelligence/article32837598.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/business/i18ihs/article32837596.ece/ALTERNATES/LANDSCAPE_615/TH13BURAVISHANKARPRASAD",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/business/intel-india-sets-up-centre-for-artificial-intelligence/article32837598.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/intel-india-sets-up-centre-for-artificial-intelligence/article32837598.ece/amp/",
-      "publishedDateTime": "2020-10-12T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],
