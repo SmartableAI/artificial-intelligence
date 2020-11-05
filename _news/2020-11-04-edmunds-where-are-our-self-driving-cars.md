@@ -1,31 +1,31 @@
 ---
 category: news
 title: "Edmunds: Where are our self-driving cars?"
-excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time, so you must always keep your hands on the wheel and pay extra attention to the road."
-publishedDateTime: 2020-11-04T13:35:00Z
-originalUrl: "https://www.houstonchronicle.com/living/article/Edmunds-Where-are-our-self-driving-cars-15700506.php"
-webUrl: "https://www.houstonchronicle.com/living/article/Edmunds-Where-are-our-self-driving-cars-15700506.php"
-ampWebUrl: "https://www.houstonchronicle.com/living/amp/Edmunds-Where-are-our-self-driving-cars-15700506.php"
-cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/living/amp/Edmunds-Where-are-our-self-driving-cars-15700506.php"
+excerpt: "Here are three reasons why you can’t buy a self-driving car today and one place you’re likely to find them first. It’s difficult to teach a machine to react correctly when faced with new or unpredictable situations we frequently encounter while driving."
+publishedDateTime: 2020-11-04T13:54:00Z
+originalUrl: "https://abcnews.go.com/Lifestyle/wireStory/edmunds-driving-cars-74017111"
+webUrl: "https://abcnews.go.com/Lifestyle/wireStory/edmunds-driving-cars-74017111"
+ampWebUrl: "https://abcnews.go.com/amp/Lifestyle/wireStory/edmunds-driving-cars-74017111"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Lifestyle/wireStory/edmunds-driving-cars-74017111"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/15/05/67/20209114/3/rawImage.jpg"
-    width: 2048
-    height: 1259
+  - url: "https://s.abcnews.com/images/Lifestyle/WireAP_4aa8c61afdaa4a76bb71a71f8dd9abb1_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
-secured: "1fN5O5GzDeth85vpYSTB9cMyrYk+n8H5iMHTCQ8BP9y4Y3kIET41BDBT2fhNC0w6GpnFen6tPF0Yb0oxafctOjk9DLWjRF5Tc4IPFwlIjcJcXJI8QfjefRVfm+kJIGxF05wFsFbslT6VYqO7QQ72+uXoMY+fw9eMWAvuttw64AdORIdpKjIxgyCExqXAF8CLgD9IJvGb1BqGtwUiBPiXNWtFL9z8dLIbQHdYwpATSikG39QZuO5adB4v/KSyzPEnHBGlI/3Qt7d2YgT4dO/7dx8uo0v9Fct3FTCl9YnKggsxlJnK8bFhLzz89SZSY/2MsQNO7wWYl9NxhM8Anl3bt5KAoNJcb3avO6DRDrqyGniKGoVcHyCdAfMq4Nwgl5PscghF9RSP2pIhILkfYusxdp5uP0I3Eg72V+CoK9lAiCVv5PaN6NYaKBaOAkHL9+rd1eZ3+RrVdmwAQ0oLfSVlWBpuKq3ytWBGRz33RA1ZPzWGXZN8OblWvzXWs5loqSIndeSBYI4OjLhpWOrov15yrw==;Tb9ervzJYiWke5DQrVHGzg=="
+secured: "dNxwmYgO3jk632TBRvIlXx/LfJ5DKBwRcz3y/jvZKktKfceRpO64Fu8dFX4/jKD3NUpIZGMoP5XJZX2tVY+tVRajQrvC8Ub/dlp5ycu4Gjzd0KYEWV55TqnoPVJYSak3baAm4QeRe1wEKQh+OdZlzEeJnvO0317kUQ4YSukcR+zIkUjtG9b70eEcA6IwqFXOYjOzDWQ1xJs7GVZDbhvpeB+mCciyM7qIwftYxwohge5bwnrXoXHfzCYTGBSgfbxu6S1Bi9cZq723kVGZqoTi95uOcP864BK+4B+E2oMKpkNSmkAxfdEb8+hpAtnO25pmzZ9nLsgcW+6e/+uXtfvuiI5gGFdwRCme3/lozhQKTok=;D89aUmjieBRmENV5oS4hyg=="
 ---
 

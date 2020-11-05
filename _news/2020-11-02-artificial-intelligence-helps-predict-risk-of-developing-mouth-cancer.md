@@ -41,6 +41,22 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Artificial intelligence helps better predict mouth cancer risk"
+    excerpt: "Artificial intelligence (AI ... “Successful completion of this project carries significant potential for saving lives and improving patient healthcare provision, said Rajpoot, one of the researchers."
+    publishedDateTime: 2020-11-05T06:41:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/health/artificial-intelligence-helps-better-predict-mouth-cancer-risk/article33028342.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/health/artificial-intelligence-helps-better-predict-mouth-cancer-risk/article33028342.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/health/artificial-intelligence-helps-better-predict-mouth-cancer-risk/article33028342.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://www.thehindu.com/sci-tech/health/urn52a/article33028341.ece/ALTERNATES/LANDSCAPE_615/ANTISMOKINGCAMPAIGN"
+        width: 615
+        height: 384
+        isCached: true
   - title: "Using artificial intelligence can improve pregnant women's health"
     excerpt: "Disorders such as congenital heart birth defects or macrosomia, gestational diabetes and preterm birth can be detected earlier when artificial intelligence is used. In the latter case, studies into cases involving artificial intelligence found a correlation between the number of pre-term births and the environmental pollution to which the pregnant women had been previously exposed."
     publishedDateTime: 2020-11-04T16:19:00Z

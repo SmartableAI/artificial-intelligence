@@ -1,7 +1,7 @@
 ---
 category: news
 title: "dotData Announces Enhancement of MLOps Capability with dotData Stream and Amazon SageMaker Integration"
-excerpt: "Amazon SageMaker is a fully managed service that provides developers and data scientists with the ability to deploy machine learning (ML) models quickly. Now, with simple point-and-click ..."
+excerpt: "SAN MATEO, Calif., Oct. 27, 2020 /PRNewswire/ -- dotData, a leader in AutoML 2.0 software to help accelerate AI/ML development and operationalization for the enterprise, today announced that ..."
 publishedDateTime: 2020-10-27T12:38:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration-301160215.html"
 webUrl: "https://www.prnewswire.com/news-releases/dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration-301160215.html"
@@ -12,8 +12,9 @@ provider:
   domain: prnewswire.com
 
 topics:
-  - AWS AI
+  - Machine Learning
   - AI
+  - AWS AI
 
 images:
   - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
@@ -21,6 +22,6 @@ images:
     height: 315
     isCached: true
 
-secured: "ztIkEC9y1fbkIoFhseoJQIEgDpAFsyxWC6OnIfQwKOyPQ9Mive5BcVWnzmc97d/UhrYBwWuFzhpDp+oP11/bEcXai3YANi2aFXWn3YlEufSw2UmiMpeuYnQMrc8FV+bAUU+1CA6dsQRvOPMv99CxEyehMsfuZvCCOKTtYVrWFt3wVynAl4bhqZAX3O6BwjgHHeX9vs1zRYoYGUbEahT1GDF8F6gkGN21ftXad+D5Q9XfV6lKahCKRtmYCKrsYxQolPmidm2D2voJEz1Gd4B1kBo0uho+lQKRrGgWE4BBeR/3fDG6m6Rokm3J3r89h2vUGTgVinF94Zq29rcFo9ceYJX12gfsC5lMWrc8H4xtpGk=;R9bRlmJjHC53PafrG/r32w=="
+secured: "QK7vlYQfhCjO0wPLr1bVWviAJnj9DrdF1lPSxJaoeYPfmfktsphsPXPP05FbxftGnvO7Tbsa0y81ifXUTSPMmtzkjZxk/p1SWV6yhoRSTWhtxP5R3btDr+U2xe+EX1cHqzsuagvNKgnJXFtIEhpkEm/8X9rXq+IYyAcOQo4ftGrpflKJ+OTVxki0YEq5Jwio3JF/VnUMk/rRJfRsnFu631BCMxyVBW8zNkbZCTXXrjqkEu68XfKuKjqwlkIYVcJD6V3Xz3K+EddM2FTZoIadIDw09TlSwljSEZQcFDiwR3YiZLbNnnlwAgXmkNQ+9kwOTdGQi+NuWRw7850xoE7MGMCgkNfTeirfXBtQlewfI3I=;HVEdqaSYoNJUjy/XhquoJg=="
 ---
 

@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "Using Artificial Intelligence Improves Pregnant Women's Health"
+    excerpt: "Artificial intelligence technology can help to diagnose congenital disabilities, gestational diabetes, and preterm birth earlier in pregnant women, reports a new study."
+    publishedDateTime: 2020-11-05T05:21:00Z
+    webUrl: "https://www.medindia.net/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/less-than-6hours-of-sleep-during-pregnancy.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
 
 secured: "E9qmtgRwe1JwCffmsxUYIWv+3E06L4mN6NgMiPniCPK+tbk/Li3fUylZmc8l6AVyKIU5PKdF0P6j3JJlkh6r8C+hlWUyTRM1QG11jq7OIRm6WfU0jYkjvO9x6+2avHa+hBi9nfuUVBfQCrcR1xHtgC51rnK9oLktdDEnBEUFXXkz2EQsYDttjraUZDtyZb0T+alXej0hL9jxlpweSF4g66WmKBEOehDrJHAeNQ1Sw7urNq/b2htrAO1Fnzqnb9IG3ia/280budKVEbJ+f5ZvIjDyu9qhXG10gql2rID6YBcJW90MieeGrIhjPQIDrYvpwn9AkSh7UdfZAQNLtJwMcCuNDPhEd50HmmoJXCEcP8U=;7k80LCrkCD4ivQBD9xuL/A=="
 ---

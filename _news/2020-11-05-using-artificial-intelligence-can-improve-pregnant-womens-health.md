@@ -40,6 +40,22 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Artificial intelligence helps better predict mouth cancer risk"
+    excerpt: "Artificial intelligence (AI ... “Successful completion of this project carries significant potential for saving lives and improving patient healthcare provision, said Rajpoot, one of the researchers."
+    publishedDateTime: 2020-11-05T06:41:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/health/artificial-intelligence-helps-better-predict-mouth-cancer-risk/article33028342.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/health/artificial-intelligence-helps-better-predict-mouth-cancer-risk/article33028342.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/health/artificial-intelligence-helps-better-predict-mouth-cancer-risk/article33028342.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://www.thehindu.com/sci-tech/health/urn52a/article33028341.ece/ALTERNATES/LANDSCAPE_615/ANTISMOKINGCAMPAIGN"
+        width: 615
+        height: 384
+        isCached: true
   - title: "Artificial intelligence helps predict risk of developing mouth cancer"
     excerpt: "Pioneering study led by the University of Sheffield and funded by Cancer Research UK is examining the use of artificial intelligence to improve early detection of oral cancer The rate of people being diagnosed with oral cancers has increased by almost 60 per cent in the last 10 years Doctors currently predict the likelihood of pre-cancerous changes developing into cancer by assessing biopsies on 15 different criteria to determine whether action is needed and what treatment pathway should be taken This score is subjective,"
     publishedDateTime: 2020-11-02T06:45:00Z

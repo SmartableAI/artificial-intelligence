@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/04/google-launches-document-ai-suite
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/04/google-launches-document-ai-suite-of-parsing-and-processing-tools-in-preview/amp/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "Using Artificial Intelligence Improves Pregnant Women's Health"
+    excerpt: "Artificial intelligence technology can help to diagnose congenital disabilities, gestational diabetes, and preterm birth earlier in pregnant women, reports a new study."
+    publishedDateTime: 2020-11-05T05:21:00Z
+    webUrl: "https://www.medindia.net/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/less-than-6hours-of-sleep-during-pregnancy.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
   - title: "In-Memory Computing May Solve the AI Memory Balancing Act of Volume, Speed, and Processing"
     excerpt: "Designing memory architectures for AI/ML devices may feel like an impassable compromise with storage volume, speed, and processing. A new in-memory computing accelerator may be a useful solution."
     publishedDateTime: 2020-11-03T18:42:00Z
@@ -61,6 +77,6 @@ related:
         height: 350
         isCached: true
 
-secured: "rkvXSR2WmfknMeoD8phLHuU5wxoPrUsVqqTheu2hjCIfsZRNGFrlTOGtq3I3gs6O8HgH3Hn7UGgi1hVthGLuL8hcw3YulzEydOod/wqy27vMl4RXNfuMjQ/PFMlKB80JzpKAqgGbSS4fZWOEAfUV6i5XOa7xjeklno4e6oXZjqcpWtKdfghvMS5dOtHJoWXjBGDE4Q9noNAJo3ZzNYzwzrleqM386+xQe9U2u39pic9SiiN67ll17eLZwDV0+E4Lx/XGnAgGw6nYd/cAukYz0r7dOhH753lRhp3nQy8qOQQo9e0XGvmOA/mqemhNP+snbr8uTZTIQUVhBEW8qF7eyq9hFXccDpLpw9UdBOyk5OM=;6ap872h0CysjKPo7tsS52A=="
+secured: "GN/KPXryMPqYofWbqVykMtIi5Khc5K+6gMk01Xggi7ajkiYPbEZLwnqGjCsxZV+xmmQa16iQd4wG4QFRMYIQsGpcZ71L13JJ+9yfXBkCH9CLKW4OF07nVq+Hke5VDL+8n6yxNmSKfx3rVSExP4biFAKLZjr5FAR8C7GN74VNCnaVlGUARmat01pyWzOlzqU0C1D9QVLBPptQVU0h3/evrD2MmeGjK2obL2ym2PtDkcC60wCgDmuu49shumNV4z3oPXadPdUvTVMHHw0E8sEMwAgAbn3iRmiWxMXumkZwkvMUnyvXHDAujae4pAGLguC4FHtmRe7r4G4KpFKKGShIGqcnmE3uv/IFmIsTj1SAdWdX+hqWz41vvU02S8Hkbfd3QoWZ3cVxZEZ2fARFBYFO3lktTwJUXJMhxQaXLvI+HPJK82oNRsM+qUuth4OZczpFnd8vph/UtBfpvcgOAXabpi9vedKn1W877RyFx21EfOyZxHzS0BUw+7TKp6C3/3SOUZoS39Bth8+YVO2a3xDvQw==;rclke4YsBDVMQuP8NnCDyA=="
 ---
 
