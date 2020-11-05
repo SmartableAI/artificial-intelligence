@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 1000
         isCached: true
+  - title: "The Role of Artificial Intelligence in Web Development Process"
+    excerpt: "In the digital era, web development is growing at an unprecedented rate. The intervention of Artificial intelligence-enabled sites is giving a whole personalized experience to users."
+    publishedDateTime: 2020-11-05T09:10:00Z
+    webUrl: "https://www.analyticsinsight.net/the-role-of-artificial-intelligence-in-web-development-process/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "In-Memory Computing May Solve the AI Memory Balancing Act of Volume, Speed, and Processing"
     excerpt: "Designing memory architectures for AI/ML devices may feel like an impassable compromise with storage volume, speed, and processing. A new in-memory computing accelerator may be a useful solution."
     publishedDateTime: 2020-11-03T18:42:00Z

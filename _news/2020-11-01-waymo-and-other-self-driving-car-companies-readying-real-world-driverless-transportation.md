@@ -25,116 +25,105 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo shares in-depth details of self-driving car activity in Phoenix"
-    excerpt: "Waymo’s vehicles have driven a total of 6.1 million miles in Phoenix, Arizona, where it first started testing its self-driving technology."
-    publishedDateTime: 2020-10-31T16:36:00Z
-    webUrl: "https://www.engadget.com/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html"
-    ampWebUrl: "https://www.engadget.com/amp/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html"
+  - title: "3D-printed hearts, self-driving buses, and robots"
+    excerpt: "Technologies that were still largely in development or limited rollout a year ago are now becoming commonplace, including self-driving cleaning robots and automation in areas like fast food and delivery."
+    publishedDateTime: 2020-11-03T12:00:00Z
+    webUrl: "https://www.zdnet.com/article/3d-printed-hearts-self-driving-buses-and-robots/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/3d-printed-hearts-self-driving-buses-and-robots/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/3d-printed-hearts-self-driving-buses-and-robots/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 104
+      name: ZDNet
+      domain: zdnet.com
+    quality: 91
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Feda031a0-1b7e-11eb-aeff-c6d8e3737344&client=amp-blogside-v2&signature=64755fdb1c313a1eb2bd21d17cef2c2065e20715"
-        width: 600
-        height: 350
+      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/11/02/ed6fcd42-5f15-45ca-ac85-27699560d6a1/robot-touch.jpg"
+        width: 910
+        height: 555
         isCached: true
-  - title: "Google's Waymo is pulling its self-driving cars out of San Francisco in case violence erupts around the election"
-    excerpt: "The company will also stop testing on San Francisco's streets for the next two days as the 2020 presidential election unfolds."
-    publishedDateTime: 2020-11-03T17:09:00Z
-    webUrl: "https://www.businessinsider.com/google-waymo-securing-autonomous-cars-san-francisco-election-chaos-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/google-waymo-securing-autonomous-cars-san-francisco-election-chaos-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-waymo-securing-autonomous-cars-san-francisco-election-chaos-2020-11?amp"
+  - title: "Tesla is going to expand Full Self-Driving to Canada and Norway next"
+    excerpt: "Elon Musk confirmed that Tesla is going to expand its Full Self-Driving beta software to Canada and Norway. As we have been reporting extensively over the last few weeks, Tesla has started pushing an early beta (alpha really) of its “Full Self-Driving” software."
+    publishedDateTime: 2020-11-02T23:33:00Z
+    webUrl: "https://electrek.co/2020/11/02/tesla-expand-full-self-driving-canada-norway-next/"
+    ampWebUrl: "https://electrek.co/2020/11/02/tesla-expand-full-self-driving-canada-norway-next/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/02/tesla-expand-full-self-driving-canada-norway-next/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
+      name: Electrek
+      domain: electrek.co
+    quality: 89
     images:
-      - url: "https://i.insider.com/5fa17cdb69331a0011bc6f36?width=1200&format=jpeg"
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-FSD-update.jpg?quality=82&strip=all"
+        width: 2774
+        height: 1122
+        isCached: true
+  - title: "Tesla Full Self-Driving Beta appears to detect and avoid road debris in video"
+    excerpt: "Driving Beta has impressed with its capacity to navigate city streets and it now looks like it can also detect and avoid road debris, according to a new video. Like Tesla Autopilot, the automaker’s new Full Self-Driving Beta requires driver attention at all times since it can encounter things that it doesn’t know"
+    publishedDateTime: 2020-11-04T11:24:00Z
+    webUrl: "https://electrek.co/2020/11/04/tesla-full-self-driving-beta-detect-avoid-road-debris-video/"
+    ampWebUrl: "https://electrek.co/2020/11/04/tesla-full-self-driving-beta-detect-avoid-road-debris-video/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/04/tesla-full-self-driving-beta-detect-avoid-road-debris-video/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 86
+    images:
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/11/Tesla-full-self-driving-road-debris.jpg?quality=82&strip=all"
+        width: 3584
+        height: 1832
+        isCached: true
+  - title: "Self-Driving RC Truck Is A Master’s Thesis In Cybernetics And Robotics"
+    excerpt: "RC cars are a fun pastime, but for many hackers, taking things to the next level involves making the cars drive themselves. For his Masters thesis, [Jon] did just that, building a self-driving"
+    publishedDateTime: 2020-10-31T23:40:00Z
+    webUrl: "https://hackaday.com/2020/10/31/self-driving-rc-truck-is-a-masters-thesis-in-cybernetics-and-robotics/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 56
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2020/10/autotruck800.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "The Robots Are Coming To Miami: Ford Rolls Out Self-Driving Car Outpost"
+    excerpt: "Ford Autonomous Vehicles, a subsidiary of Ford Motor Cos., announced last week that it will be opening a command center west of Miami International Airport, a key step in the company's goal to offer ride-hailing and commercial delivery services by 2022."
+    publishedDateTime: 2020-11-04T19:29:00Z
+    webUrl: "https://www.bisnow.com/south-florida/news/commercial-real-estate/miami-ford-self-driving-cars-106573"
+    type: article
+    provider:
+      name: Bisnow
+      domain: bisnow.com
+    quality: 41
+    images:
+      - url: "https://cdn.bisnow.net/fit?height=1200&type=png&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2020%2F11%2F5fa071d7987c2-screen-shot-2020-11-02-at-3-53-21-pm.png&width=1200&sign=HMMbCuy2ZKCL2vT3os-SqNT-u-PSp2Zd6zWDcvPEm_4"
         width: 1200
-        height: 600
+        height: 694
         isCached: true
-  - title: "A self-driving race car drove straight into a wall off the starting line in the world's first autonomous racing series"
-    excerpt: "The mishap occurred during Roborace's \"Season Beta,\" and it shows just how difficult autonomous-driving technology is to produce."
-    publishedDateTime: 2020-11-01T03:56:00Z
-    webUrl: "https://www.businessinsider.com/self-driving-roborace-race-car-drove-straight-into-wall-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/self-driving-roborace-race-car-drove-straight-into-wall-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/self-driving-roborace-race-car-drove-straight-into-wall-2020-10?amp"
+  - title: "Concordia researchers dig deep into the software powering self-driving cars"
+    excerpt: "Peeking under the hood of a self-driving car will only tell you so much. To really understand what makes them run, you have to dive deep into the software that makes up the autonomous driving systems (ADS) controlling driverless vehicles."
+    publishedDateTime: 2020-11-03T16:11:00Z
+    webUrl: "https://www.concordia.ca/news/stories/2020/11/03/concordia-researchers-dig-deep-into-the-software-powering-self-driving-cars.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
+      name: Concordia University
+      domain: concordia.ca
+    quality: 22
     images:
-      - url: "https://i.insider.com/5f9b305569331a0011bc630a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.concordia.ca/news/stories/2020/11/03/concordia-researchers-dig-deep-into-the-software-powering-self-driving-cars/_jcr_content/top-image.img.768.medium.jpg/1604417479462.jpg"
+        width: 768
+        height: 391
         isCached: true
-  - title: "Waymo, anticipating election protests, docks its self-driving cars in San Francisco"
-    excerpt: "Presidential Election drags on, Waymo, fearing civic unrest, has joined bike and scooter services in pulling access."
-    publishedDateTime: 2020-11-04T17:42:00Z
-    webUrl: "https://www.archpaper.com/2020/11/waymo-election-protests-docks-its-san-francisco-self-driving-cars/"
-    ampWebUrl: "https://www.archpaper.com/2020/11/waymo-election-protests-docks-its-san-francisco-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-archpaper-com.cdn.ampproject.org/c/s/www.archpaper.com/2020/11/waymo-election-protests-docks-its-san-francisco-self-driving-cars/amp/"
+  - title: "Self-driving startup Pony.ai gets funding from FAW"
+    excerpt: "Self-driving technology startup Pony.ai struck a funding agreement with automaker FAW Group, calling it the first strategic investment by a Chinese state-owned vehicle manufacturer into an autonomous-technology company."
+    publishedDateTime: 2020-11-03T10:35:00Z
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-startup-ponyai-gets-funding-faw"
     type: article
     provider:
-      name: The Architect's Newspaper
-      domain: archpaper.com
-    quality: 53
-    images:
-      - url: "https://assets.archpaper.com/wp-content/uploads/2020/11/waymo_minivan_5.jpg"
-        width: 1600
-        height: 993
-        isCached: true
-  - title: "Waymo pulls self-driving cars in San Francisco as cities nationwide brace for unrest"
-    excerpt: "Waymo moved its San Francisco vehicles to neighboring Mountain View Monday night out of an abundance of caution and with the safety of its team in mind, according to a spokeswoman."
-    publishedDateTime: 2020-11-04T13:00:00Z
-    webUrl: "https://www.eastbaytimes.com/2020/11/04/waymo-pulls-self-driving-cars-in-san-francisco-as-cities-nationwide-brace-for-unrest/"
-    ampWebUrl: "https://www.eastbaytimes.com/2020/11/04/waymo-pulls-self-driving-cars-in-san-francisco-as-cities-nationwide-brace-for-unrest/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2020/11/04/waymo-pulls-self-driving-cars-in-san-francisco-as-cities-nationwide-brace-for-unrest/amp/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 52
-    images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2020/11/hypatia-h_bfe6eec850c45698ccc926b6623cac82-h_3f3331561d6fc6c4dc68055128326422-1.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Google's sister firm Waymo is pulling its self-driving cars out of San Francisco in case violence erupts around the election"
-    excerpt: "Waymo is pulling its self-driving cars from the streets of San Francisco in case election unrest ensues this week. \"Out of an abundance of caution and with the safety of our team in mind, we are temporarily suspending driving operations in San Francisco on 11/3 and 11/4,"
-    publishedDateTime: 2020-11-03T18:23:00Z
-    webUrl: "https://www.businessinsider.in/tech/news/googles-sister-firm-waymo-is-pulling-its-self-driving-cars-out-of-san-francisco-in-case-violence-erupts-around-the-election/articleshow/79027264.cms"
-    ampWebUrl: "https://www.businessinsider.in/tech/news/googles-sister-firm-waymo-is-pulling-its-self-driving-cars-out-of-san-francisco-in-case-violence-erupts-around-the-election/amp_articleshow/79027264.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/googles-sister-firm-waymo-is-pulling-its-self-driving-cars-out-of-san-francisco-in-case-violence-erupts-around-the-election/amp_articleshow/79027264.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 32
-    images:
-      - url: "https://www.businessinsider.in/thumb/79027021.cms?height=275&width=412"
-        width: 412
-        height: 275
-        isCached: true
-  - title: "Waymo pauses self-driving car operations in San Francisco in case of election unrest - CNET"
-    excerpt: "Bike and scooter rental companies are also prepping for uncertainty after a contentious contest."
-    publishedDateTime: 2020-11-04T02:06:00Z
-    webUrl: "https://www.newsoneplace.com/35932251911/cnet-waymo-san"
-    type: article
-    provider:
-      name: newsoneplace.com
-      domain: newsoneplace.com
-    quality: 29
-    images:
-      - url: "https://images.weserv.nl/?url=https://cnet4.cbsistatic.com/img/35ULADrDXvnHuoetIbD6B3q8-aU=/300x0/2020/05/08/21d20d2d-d573-4d40-99de-b4d1597a9a4f/waymo.jpg&h=250"
-        width: 375
-        height: 250
-        isCached: true
+      name: Automotive News
+      domain: autonews.com
+    quality: 19
 
 secured: "t9BGGDFS9IGva1DU21UJ0axsPJ8tsIwv3jW94EwZHL0Udd0OzsikNlfON22yhy6hTVxuNa6/+w5efO3ZsyCGU7KmlR7kQHOFS2ulUowg+imB1mQ2CJUq7+81aRs2TGKKk43uQIJzCVVi350XDSjO5TvvF4EDnUOF+XCryEg8aUudmIC2H0DZ9VsjTKSlhH73Eh9bRpzMOUn4/wwbP9PgcBh+UK1Jfb7qv16MoePhSRLIKXsi5ySRcSTgPRr0nrWlr5+s3JUB+N1th1T1G1bspBmdvgZXTlqfW23jdxLfkOsaNMWETYjsAPGgWrEIRW+vFYGy3zp2Xfz8eoCnrCq7UlIhh2fOpwZAXshPCfGAm0A=;a3JGEuVD77Tu1Z//8H7krQ=="
 ---

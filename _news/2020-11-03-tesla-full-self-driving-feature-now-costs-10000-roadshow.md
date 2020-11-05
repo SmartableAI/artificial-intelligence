@@ -57,22 +57,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "Tesla pushes new Full Self-Driving Beta update, Elon Musk says could slash interventions by a third"
-    excerpt: "Tesla has started pushing a new software update under its Full Self-Driving Beta program and CEO Elon Musk says it could already cut driver interventions by a third. It has been less than two ..."
-    publishedDateTime: 2020-10-31T16:56:00Z
-    webUrl: "https://electrek.co/2020/10/31/tesla-new-full-self-driving-beta-update-elon-musk-slashes-interventions/"
-    ampWebUrl: "https://electrek.co/2020/10/31/tesla-new-full-self-driving-beta-update-elon-musk-slashes-interventions/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/31/tesla-new-full-self-driving-beta-update-elon-musk-slashes-interventions/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 75
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-FSD-update.jpg?quality=82&strip=all"
-        width: 2774
-        height: 1122
-        isCached: true
   - title: "Elon Musk Raises Price of Tesla's Full Self-Driving Package to $10,000 USD"
     excerpt: "Following through with what Elon Musk has said before, the CEO of Tesla has now announced a price hike for the EV automaker’s Full Self-Driving (FSD) package, bringing it up by $2,000 USD to $10,000 USD."
     publishedDateTime: 2020-11-03T06:49:00Z

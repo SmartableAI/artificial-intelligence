@@ -271,6 +271,20 @@ related:
         width: 683
         height: 415
         isCached: true
+  - title: "Using AI to Track the COVID-19 Pandemic’s Impact on Mental Health"
+    excerpt: "Textual analysis of social media posts finds users’ anxiety and suicide-risk levels are rising, among other negative trends. Dealing with a global pandemic has taken a toll on the mental health of millions of people."
+    publishedDateTime: 2020-11-05T10:30:00Z
+    webUrl: "https://scitechdaily.com/using-ai-to-track-the-covid-19-pandemics-impact-on-mental-health/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 39
+    images:
+      - url: "https://scitechdaily.com/images/COVID-19-Machine-Learning-Mental-Health.jpg"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "MIT artificial intelligence model detects COVID-19 by sound of cough"
     excerpt: "The AI model for COVID-19 uses the same four biomarkers— vocal cord strength, sentiment, lung and respiratory performance and muscular degradation — as a similar model used to detect Alzheimer's. One of the biggest challenges with slowing the spread of COVID-19 is detecting it in people who never show any symptoms."
     publishedDateTime: 2020-11-03T15:56:00Z

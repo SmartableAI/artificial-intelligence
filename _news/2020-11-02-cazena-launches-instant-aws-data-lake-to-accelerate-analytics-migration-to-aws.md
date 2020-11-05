@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Cazena Launches Instant AWS Data Lake to Accelerate Analytics Migration to AWS"
-excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
-publishedDateTime: 2020-11-02T11:31:00Z
-originalUrl: "https://www.morningstar.com/news/globe-newswire/8076708/cazena-launches-instant-aws-data-lake-to-accelerate-analytics-migration-to-aws"
-webUrl: "https://www.morningstar.com/news/globe-newswire/8076708/cazena-launches-instant-aws-data-lake-to-accelerate-analytics-migration-to-aws"
+excerpt: "With the Instant AWS Data Lake, Cazena now provides a first-in-industry “easy button” for AWS analytics and moving enterprises’ AI/ML initiatives forward. The Instant AWS Data Lake is ready for analytics in minutes,"
+publishedDateTime: 2020-11-02T11:00:00Z
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-science-environment-and-nature-software-industry-de8fd9fce1d475f4c4f8ec70ca9f2e31"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-science-environment-and-nature-software-industry-de8fd9fce1d475f4c4f8ec70ca9f2e31"
 type: article
 quality: 35
 heat: 35
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://ml.globenewswire.com/media/01d142b7-f49c-4259-a776-52da66a0c71b/medium/instant-aws-data-lake.png"
-    width: 300
-    height: 215
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "hGIZDT7PSGG4I7O+CrZfUtv8V1LUCU8hhBoQX1jgrVe8n6cq2cRixzOD0myhQmvC2tY5w64gIVBnf2yHfz43DRDiFrEQEaKvumtqEmMAmAgjT23vEV8dLTcgkzyf7BNvyRxshdOEJNU8Ki1xdzdBkqVTFJLjy3mmEuGCqKyrsU6HNBAyoWdajMPcnEJVKNX6souRttxcXtP7VZZwlKB4vuMoE1VnPmH6N4gkzIdMG0dMW9bz91Hy8WGS6iGHgUWEzLsEZFLFFs3Cq5owAAeNE6tytul1PIPZoJuwU3+iCXkdrykDQk0OeKfKLX/yu/sVA9BBz5yIn2aelBWmgQ6OTi1XBH5ngfx8iF2UyRX5vD4=;xP38KJuBNs3g/dn7ozr3GA=="
+secured: "0UR1aBMGEAfnl1NAIQrO+oJhrj5akzBi6qw/LZZBNKUodbZ5K0n56ec9p3AL8BGi3sXyZu4gG1N6ghHEKYa3r1S2ssjeDcI5ERBAmNJaOROyQK+487J7PgOwMKvrYGdKKSdTYryzx8nlNZE/2cUhGPZcB/cmGKLOJ8pu0clOHPfpDlbK7e92rWVyv7RDKD3l6LTfu0gfsMnOR5U524SsjMpuQUJL8UTQirXJPD83x2aK95ts8iOXBilr/n66XnyfAcTOmbMTXofao0xCan5v6hjU/T9zPm5McfBsFKzY6DFtMsl7s9uVxLkmar+jmvQxh3+BwYXegdWsv1Y3PJcnf2DyqmPLs1JPvx5mcjBr0AY=;n/0wQ/bs1fK8O5QA/b5XhQ=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "C3.ai on tackling CRM, education, social media regulation, and enterprise AI"
 excerpt: "Tom Siebel, CEO of C3.ai, talks to ZDNet's Larry Dignan about his company's partnership with Microsoft and Adobe, AI's role in solving for COVID-19 and remote education, the filter bubble, and where enterprise AI is headed."
 publishedDateTime: 2020-11-02T12:32:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/video/c3-ai-on-tackling-crm-education-social-media-regulation-and-enterprise-ai/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/video/c3-ai-on-tackling-crm-education-social-media-regulation-and-enterprise-ai/"
+originalUrl: "https://www.zdnet.com/video/c3-ai-on-tackling-crm-education-social-media-regulation-and-enterprise-ai/"
+webUrl: "https://www.zdnet.com/video/c3-ai-on-tackling-crm-education-social-media-regulation-and-enterprise-ai/"
 type: article
 quality: 98
 heat: 118
@@ -24,7 +24,7 @@ topics:
   - AI in Education
 
 images:
-  - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/10/30/c52e78df-1243-45d7-8ab9-1016efba8e83/thumbnail/370x278/9f9f596466c41bbe814fcb75fe340a53/thumb.jpg"
+  - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/10/26/44ec6ca4-76d9-47a7-bb91-702d043a02f0/thumbnail/370x278/0d446269b82a0f8eb0086f3aa3362247/mastercard-idemia-and-matchmove-to-pilot-5f95f54693eaa218d73998e8-1-oct-26-2020-4-53-52-poster.jpg"
     width: 370
     height: 278
     isCached: true
@@ -61,6 +61,6 @@ related:
         height: 389
         isCached: true
 
-secured: "5FqKKiF8UsdpDRUoPvxYYW2Jvbk1p8xRdqz+6QgfyJtuFSvf9zy+7JGExbQQYNxXaZoUPKMrpbRtXxVDDPVAdJI9fQU7FIehOrZiwbCLyo5jgtwqTTmqaCSw6k9+A00Ar9Y3ay1fglCTCKMdRaxm3zq4ppvJPyEmTx12tKwk55YPrXe+N4PnNhXvCJqhCxtml1SHfTX5+AypHhPf4i6dsZph2qrn0ZGzshyZfhLpvAQhFAv+mgcAy0RT1R5f6aQprfzc8rRAudE6kqbg2qM0zRs2dapKoFntqKvYATIroxOlwtyeMLS9+GojEqEqcK3dEjrkNiR1n+MA9ddS3CGf+FzwRv53VbGvXCBmpE2zdz4ZYX1zQI9yyiFTN/MADAgthDL4gMw3Ow0Whv82kbPluivH+PMVVBH4duyVMSWP1qnN4oU6Wc88WYBaxkojvTN4tNlNgF2QHKIohl0Kas3TJylzqX8FgZ2AiMZLBEtXHOEFPoj6pwCskdwA5RwLFV8Y/Y6JGvMjW6dYr8y9usSuiA==;k7CWRcJoBq1bDwrFOAPhrQ=="
+secured: "IM0mYE9PcE5rPtqOO+YPvsdKoEPhhTaSq2CRraGPvl0ErMjDJHXsD1SGF5RUkMBmyf1+i8dXhqI7HX5Ml4OOUmksDAx4M4sAQNo969j2hDIcsJQQ0uXvdBz6ddC4sIIbBz9RJ4LBxcnG5uoRGDMHcQsA7AVgsono5GAyW4XkyvEgJ1kS6YbaopV7gBjhhmqbZ40Q/XLC8Ud0cZwY+JA7+pA4Cp1f58xPT8lxIZ6DQLLTFl6jKHU/XN7OII/h/wMfyzysKD4qO5o5W1qjEPK0nILx5juHMBr+dwsaylPiHiFosyurrAWoDK8wO53OR3+CRY+OX0RagW3QHB0jlGX80z3BXxxATq1UeohzVXDTUGw=;+k4uwSjkRLd17bxAnAs5nQ=="
 ---
 

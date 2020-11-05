@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 1000
         isCached: true
+  - title: "The Role of Artificial Intelligence in Web Development Process"
+    excerpt: "In the digital era, web development is growing at an unprecedented rate. The intervention of Artificial intelligence-enabled sites is giving a whole personalized experience to users."
+    publishedDateTime: 2020-11-05T09:10:00Z
+    webUrl: "https://www.analyticsinsight.net/the-role-of-artificial-intelligence-in-web-development-process/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "E9qmtgRwe1JwCffmsxUYIWv+3E06L4mN6NgMiPniCPK+tbk/Li3fUylZmc8l6AVyKIU5PKdF0P6j3JJlkh6r8C+hlWUyTRM1QG11jq7OIRm6WfU0jYkjvO9x6+2avHa+hBi9nfuUVBfQCrcR1xHtgC51rnK9oLktdDEnBEUFXXkz2EQsYDttjraUZDtyZb0T+alXej0hL9jxlpweSF4g66WmKBEOehDrJHAeNQ1Sw7urNq/b2htrAO1Fnzqnb9IG3ia/280budKVEbJ+f5ZvIjDyu9qhXG10gql2rID6YBcJW90MieeGrIhjPQIDrYvpwn9AkSh7UdfZAQNLtJwMcCuNDPhEd50HmmoJXCEcP8U=;7k80LCrkCD4ivQBD9xuL/A=="
 ---

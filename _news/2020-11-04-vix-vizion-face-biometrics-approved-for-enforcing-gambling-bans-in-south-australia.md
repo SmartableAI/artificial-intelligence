@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202011/vix-vizion-face-biometrics-
 webUrl: "https://www.biometricupdate.com/202011/vix-vizion-face-biometrics-approved-for-enforcing-gambling-bans-in-south-australia"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 640
     height: 260
     isCached: true
-
-related:
-  - title: "French politicians call for face biometrics and AI surveillance tools to tackle terrorism"
-    excerpt: "France may be on the way to deploy face recognition and AI surveillance technologies to monitor people in public spaces. The news comes after a series of terror attacks in Nice last week, which"
-    publishedDateTime: 2020-11-02T18:34:00Z
-    webUrl: "https://www.biometricupdate.com/202011/french-politicians-call-for-face-biometrics-and-ai-surveillance-tools-to-tackle-terrorism"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 30
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/05/25183040/cctv-security-systems.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "an6+Wj7iKmu2TvF9PDa8QAuHFHbh31OOCfkxkTXrhyIpYI1MVLM7yFuipghwWFouUh2WoWCqkon13d6SH22COj/CZCq+EpfYILo/cGzGVlPfNmoufvWlp3t6mN1eMH3Fk6uy63E8CvvA13Y64I6Q4qgOSH84JA2AxFLAl/2ndJsiqtJlmGvH//P2xQuahzlExz9TccbuC+vXvZWjuqJCjx8qOEfUy2icxSOUkN8wZzMaO88pRKH8ixidgPrYMhLYtveFCU7theBhOtfCgca7gxjjkPz65SsFG643mxZftjO3pkh/JbgiFMXfGkvzDV8bimTKHNaIOT5hteCZD3SKqAM7j3UxjgIgRT08B3FQIjyhcFhtTLcepuJOtreXtsaIyL1Q2k4XBY36+5uR/sXvEZcE7IokCmO9qGhjO4pCag9uUnAXaXG9QdkXDtBtDN3CheRK0hMG09PV1lW7NGu4x03HwvRk9lLSyGDVt8h5PRSVXAEsMDbcnktgfFdFcrT/QRiajxL2XQlMQGJa3QO83w==;TmYIGkjHKVKhrmPXA2ecjQ=="
 ---

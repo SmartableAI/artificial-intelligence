@@ -88,6 +88,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Waymo And Other Self-Driving Car Companies Readying Real-World Driverless Transportation"
+    excerpt: "Just after Alphabet-owned Waymo started its driverless taxi service to the public in Phoenix, other autonomous vehicle developers are following suit with"
+    publishedDateTime: 2020-11-01T02:25:00Z
+    webUrl: "https://www.newsoneplace.com/35575211911/waymo-car-companies"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 45
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https://specials-images.forbesimg.com/imageserve/5f9e1ae8b307dfb172a46190/0x0.jpg"
+        width: 4256
+        height: 2832
+        isCached: true
   - title: "Concordia researchers dig deep into the software powering self-driving cars"
     excerpt: "Peeking under the hood of a self-driving car will only tell you so much. To really understand what makes them run, you have to dive deep into the software that makes up the autonomous driving systems (ADS) controlling driverless vehicles."
     publishedDateTime: 2020-11-03T16:11:00Z

@@ -276,6 +276,20 @@ related:
         width: 683
         height: 415
         isCached: true
+  - title: "Using AI to Track the COVID-19 Pandemic’s Impact on Mental Health"
+    excerpt: "Textual analysis of social media posts finds users’ anxiety and suicide-risk levels are rising, among other negative trends. Dealing with a global pandemic has taken a toll on the mental health of millions of people."
+    publishedDateTime: 2020-11-05T10:30:00Z
+    webUrl: "https://scitechdaily.com/using-ai-to-track-the-covid-19-pandemics-impact-on-mental-health/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 39
+    images:
+      - url: "https://scitechdaily.com/images/COVID-19-Machine-Learning-Mental-Health.jpg"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "How Artificial Intelligence Is Changing The Fitness Industry During COVID-19"
     excerpt: "The fitness industry is undergoing a major transformation through a massive deployment of IoT applications and innovative artificial intelligence (AI) product offerings. The research firm Reports and Data predicts that the annual revenues for the fitness app market will reach $14."
     publishedDateTime: 2020-11-04T20:56:00Z
