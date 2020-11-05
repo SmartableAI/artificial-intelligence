@@ -3,8 +3,8 @@ category: news
 title: "Concordia researchers dig deep into the software powering self-driving cars"
 excerpt: "Peeking under the hood of a self-driving car will only tell you so much. To really understand what makes them run, you have to dive deep into the software that makes up the autonomous driving systems (ADS) controlling driverless vehicles."
 publishedDateTime: 2020-11-03T16:11:00Z
-originalUrl: "https://www.concordia.ca/news/stories/2020/11/03/concordia-researchers-dig-deep-into-the-software-powering-self-driving-cars.html?c=/research"
-webUrl: "https://www.concordia.ca/news/stories/2020/11/03/concordia-researchers-dig-deep-into-the-software-powering-self-driving-cars.html?c=/research"
+originalUrl: "https://www.concordia.ca/news/stories/2020/11/03/concordia-researchers-dig-deep-into-the-software-powering-self-driving-cars.html"
+webUrl: "https://www.concordia.ca/news/stories/2020/11/03/concordia-researchers-dig-deep-into-the-software-powering-self-driving-cars.html"
 type: article
 quality: 22
 heat: -1
@@ -111,6 +111,6 @@ related:
       domain: autonews.com
     quality: 19
 
-secured: "elTV5dOZ1ZjPyaM7vfoeBO84CVJoocezavgoteDgm2WnwDjd1ib1/pQGt5okhAeoUAxCVU/27FBy1Cutg1h6E7Xu8a5HmtoP4qQR05J0q/+IwQiHCctrnnQntokkt5Y/cN0/HTa1Yfdtg2n39xbZ302e3GgadMivix3g1W2WX50Mm/xa0+55bJ4TXxEZMboc70scmrQeIjvM9FgzjE5t1gFatzHa0wWeBKTuNEuv5mWGObVduXx2qtGsZqzKpVwi6zHLmp4Jk6GSYsEyzK8ndmxFjXDExqjW/7x3KxyoIa41mBQVEreUgAP9np3C5/KXoIX+1qdZf5cPtGuZODy3uB8whbcDgNXPDBPjJgkGBvvvKC4uR5F5Ln30DGPzAfNISsrouSo5BlXv5be2KFAZuMP3JthjYJ2z+e6pTFDTdyypRCk2A7MnBx1A3Q50PY9yN5Ko6+7IlZINIpZ9sC/6bYX7CJmXOwbAxy2avuismjgl+vmDMysEfV174uHVENeyu7Y76mng0sV4K+iCcF1N8Q==;JwRGUgnf6buT0G5kFnJwFg=="
+secured: "W5BboPZQid4be0kVXi3QeI0AuonuZtQVedQW1cHEshSfbyEn5GFnLo8yts/8QRgwXAwyXnActjYGms/7D16Ba2FChi4FHgy/+JAHcXr/NBDpvx8plo8/octtofVf4oRiHuP7NqH5sjnunPEBr0pfiuzz7CHvaU5C8ShDZPnuORRqnVPtLMdsNkNjjS/0e6o4V+7x/TTfdqNtbj9CUhAZzlRLNZqBht3fFrv2KzTz2V1k8dPNz/CbfJ0jx9/r57+rSoOIJiuI441Sliu5+axi25nI2OHPgXaSbe2ecXUigWSQ/D7nC+jAEdWGXZiYis3yosD+MLQpfKfpamHnGVR3tVBu/Rlv4PqlYsyUwNYiiXY=;bsFhS/vslA1VAS6g1fBNBA=="
 ---
 

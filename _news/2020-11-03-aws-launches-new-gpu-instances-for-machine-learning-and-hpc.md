@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itproportal.com/amp/news/aws-launches-new-gpu-instances-
 cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/aws-launches-new-gpu-instances-for-machine-learning-and-hpc/"
 type: article
 quality: 93
-heat: 144
+heat: 143
 published: true
 
 provider:

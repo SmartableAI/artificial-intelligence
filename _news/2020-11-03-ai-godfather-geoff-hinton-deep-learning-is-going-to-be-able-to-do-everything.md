@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2020/11/03/1011616/ai-godfather-geo
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/amp/"
 type: article
 quality: 70
-heat: 71
+heat: 70
 published: true
 
 provider:

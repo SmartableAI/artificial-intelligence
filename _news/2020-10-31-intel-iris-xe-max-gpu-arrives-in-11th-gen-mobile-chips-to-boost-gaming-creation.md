@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/intel-iris-xe-max-gpu-arrives-i
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intel-iris-xe-max-gpu-arrives-in-11th-gen-mobile-chips-to-boost-gaming-creation/"
 type: article
 quality: 99
-heat: 299
+heat: 289
 published: true
 
 provider:
@@ -170,20 +170,6 @@ related:
     quality: 69
     images:
       - url: "https://sm.pcmag.com/t/pcmag_uk/news/i/intel-laun/intel-launches-its-first-discrete-gpu-for-laptops-the-iris-x_zwcq.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Iris Xe Max: 5 Things You Need to Know About Intel's First Discrete GPU"
-    excerpt: "Intel's Iris Xe Max, debuting on laptops first, is the first discrete graphics solution from the chip giant, but its purpose and feature focus may surprise you."
-    publishedDateTime: 2020-10-31T08:00:00Z
-    webUrl: "https://au.pcmag.com/graphics-cards/83652/iris-xe-max-5-things-you-need-to-know-about-intels-first-discrete-gpu"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 69
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_au/opinions/i/iris-xe-ma/iris-xe-max-5-things-you-need-to-know-about-intels-first-dis_cdqb.1200.png"
         width: 1200
         height: 675
         isCached: true

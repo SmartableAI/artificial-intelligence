@@ -2,19 +2,19 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-11-05-portland-maine-bans-police-from-using-facial-recognition-software.md",
-      "title": "Portland, Maine bans police from using facial recognition software",
-      "excerpt": "On Tuesday, citizens of Portland, Maine passed a ballot measure banning use of facial recognition and surveillance technology by law enforcement, the Bangor Daily News reported. The Portland City Council had banned use of this software by police and city ...",
+      "path": "_news/2020-11-05-maine-voters-double-down-on-facial-recognition-ban-in-win-for-privacy.md",
+      "title": "Maine voters double down on facial recognition ban in win for privacy",
+      "excerpt": "In other words, if the city violates your right to not be wrapped up in a shady facial recognition database, you get paid. According to early elections results, the act passed with just over 64 ...",
       "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/portland-maine-bans-police-from-using-facial-recognition-software/",
-      "originalUrl": "https://www.cnet.com/news/portland-maine-bans-police-from-using-facial-recognition-software/",
+      "webUrl": "https://mashable.com/article/portland-maine-passes-facial-recognition-ban-fines/",
+      "originalUrl": "https://mashable.com/article/portland-maine-passes-facial-recognition-ban-fines/",
       "featuredContent": null,
       "highlight": null,
       "heat": 164,
       "tags": null,
       "images": [
         {
-          "url": "https://cnet1.cbsistatic.com/img/gwmoAi0S4eDXJo6Rbg_tTnsJSgc=/1200x630/2020/05/01/bff6e427-0240-4ffd-bfbb-40db6bab6b46/security-facial-recognition-contact-tracing.jpg",
+          "url": "https://mondrian.mashable.com/2020%252F11%252F05%252F4c%252F753b163a041b44bfa12e6c2bfb0e7343.c1d75.png%252F1200x630.png?signature=tOtKGH02FwxWIuIDU9FFqV5oQ8k=",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/portland-maine-bans-police-from-using-facial-recognition-software/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/portland-maine-bans-police-from-using-facial-recognition-software/",
-      "publishedDateTime": "2020-11-04T12:01:00-08:00",
+      "ampWebUrl": "https://mashable.com/article/portland-maine-passes-facial-recognition-ban-fines.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/portland-maine-passes-facial-recognition-ban-fines.amp",
+      "publishedDateTime": "2020-11-04T16:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

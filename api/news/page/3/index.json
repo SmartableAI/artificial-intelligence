@@ -2,57 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-11-03-retailers-use-ai-to-improve-online-recommendations-for-shoppers.md",
-      "title": "Retailers Use AI to Improve Online Recommendations for Shoppers",
-      "excerpt": "Companies are getting better at helping customers find what they are looking for—even when they don’t know what they want.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/retailers-use-ai-to-improve-online-recommendations-for-shoppers-11604330308",
-      "originalUrl": "https://www.wsj.com/articles/retailers-use-ai-to-improve-online-recommendations-for-shoppers-11604330308",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-253272/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/retailers-use-ai-to-improve-online-recommendations-for-shoppers-11604330308",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/retailers-use-ai-to-improve-online-recommendations-for-shoppers-11604330308",
-      "publishedDateTime": "2020-11-02T08:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-02-machine-learning-that-predicts-anti-cancer-drug-efficacy.md",
       "title": "Machine learning that predicts anti-cancer drug efficacy",
       "excerpt": "With the advent of pharmacogenomics, machine learning research is well underway to predict patients' drug response that varies by individual from the algorithms derived from previously collected data on drug responses.",
@@ -61,7 +10,7 @@
       "originalUrl": "https://medicalxpress.com/news/2020-11-machine-anti-cancer-drug-efficacy.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1241,6 +1190,58 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-01-how-to-make-sure-your-ai-for-good-project-actually-does-good.md",
+      "title": "How to make sure your ‘AI for good’ project actually does good",
+      "excerpt": "from the very start of your research. When you are promoting a project, be clear about its scope and limitations; don’t just focus on the potential benefits it can deliver. As with any AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/31/how-to-make-sure-your-ai-for-good-project-actually-does-good/",
+      "originalUrl": "https://venturebeat.com/2020/10/31/how-to-make-sure-your-ai-for-good-project-actually-does-good/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/AI.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/31/how-to-make-sure-your-ai-for-good-project-actually-does-good/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/31/how-to-make-sure-your-ai-for-good-project-actually-does-good/amp/",
+      "publishedDateTime": "2020-10-31T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

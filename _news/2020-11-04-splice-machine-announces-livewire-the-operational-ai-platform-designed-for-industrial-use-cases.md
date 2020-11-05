@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Splice Machine Announces Livewire, the Operational AI Platform Designed for Industrial Use Cases"
-excerpt: "PRNewswire/ -- Splice Machine, the only scale-out SQL database with built-in machine learning, today announced Livewire, its new open source Operational"
-publishedDateTime: 2020-11-04T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/splice-machine-announces-livewire-the-operational-ai-platform-designed-for-industrial-use-cases-301166367.html"
-webUrl: "https://www.prnewswire.com/news-releases/splice-machine-announces-livewire-the-operational-ai-platform-designed-for-industrial-use-cases-301166367.html"
+excerpt: "PRNewswire/ -- Splice Machine, the only scale-out SQL database with built-in machine learning, today announced"
+publishedDateTime: 2020-11-04T14:22:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/splice-machine-announces-livewire-the-operational-ai-platform-designed-for-industrial-use-cases-1029765501"
+webUrl: "https://markets.businessinsider.com/news/stocks/splice-machine-announces-livewire-the-operational-ai-platform-designed-for-industrial-use-cases-1029765501"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/splice-machine-announces-livewire-the-operational-ai-platform-designed-for-industrial-use-cases-1029765501"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/splice-machine-announces-livewire-the-operational-ai-platform-designed-for-industrial-use-cases-1029765501"
 type: article
-quality: 26
-heat: 26
+quality: 56
+heat: 56
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Finance
+  - Microsoft AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/86257/splice_machine_logo.jpg?p=facebook"
-    width: 1200
-    height: 628
-    isCached: true
-
-secured: "ZemAOtwi5MMGfJjE329fOKa3wRlE+DcSKZaM1mXu9nVrfOSPhZtLQvCYb9sIjqQ5IYXmKQXqWgGpwHlvlVlDpgg6GSXDbKjaA/IaLQbhYLcBU348bO48bHjAqFqvO+Eijt4T5E8Psskz200UlT22bMy441RhIzkcvha6S7LXLD+iwTeeqED9CG2L7yTYRl7RO8rNYkjzjwUxegHhxqSXVgzMyzcLMHTnesG9VdzG3uZdZ/s2CxWH6W1xpoIf+UJMqohXGD8oo5ZkGHeOVc6cL2ivIXq255CSwtvOf+nGinKodFPa/1+L2JYAvikFbtJEXYdpPpUdF0FS63kOtsZzUxrfD2A92MhGgY52V/ZiNY4=;eXQMk9xyMcC+Ij8r5llZdw=="
+secured: "O5MBHS12jWVpgiTcwoMn4oqkFOXF1gP6SLxORtUDiAhs6kSSMmxcQgfVJ3DLM/eH48Ysb7wypLbkWKSsyrVI2roS6yu9LzVjtsYH6++bxZ7VAwzEEk2hwRROR5Dj4mgEkOFqt8P3F6/C5Gwk7Fus8kGwXjdUEISpT5Bg0MUNffebn8zGZvjTFgYDBZ7F62Es9P+GFoXfCGiTtuAWPpPRKiNO7/koeu6Hy7+NmbnwzkFv2bWzs9+NJA3ZnhxQtPnulungdCfbCOmIrO9Aoxhhz32T4rzNF5n7uSBloEm8EiaVpTefTRDj2Ly0+shxQGrPLVOVxgp7e1kzt9+Ky85FwRj5XWriTaH39ntG4VDH8xo=;a607o/u4P3rH4E2Vb3XnjA=="
 ---
 

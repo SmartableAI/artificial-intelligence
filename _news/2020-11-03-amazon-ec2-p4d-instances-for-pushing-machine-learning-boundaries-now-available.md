@@ -27,18 +27,18 @@ topics:
 
 related:
   - title: "AWS Announces General Availability of Amazon EC2 P4d Instances with EC2 UltraClusters Capability"
-    excerpt: "AWS announces availability of EC2 P4d instances powered by NVIDIA A100 GPUs with UltraClusters capability for machine learning training and HPC."
-    publishedDateTime: 2020-11-03T13:57:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201102006034/en/AWS-Announces-General-Availability-of-Amazon-EC2-P4d-Instances-with-EC2-UltraClusters-Capability"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) P4d instances, the next generation of GPU-powered instances delivering 3x faster performance,"
+    publishedDateTime: 2020-11-02T22:00:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-science-amazoncom-inc-government-business-and-finance-bb2a7d8e344a468fb811088f430a4147"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 43
+      name: Associated Press
+      domain: apnews.com
+    quality: 41
     images:
-      - url: "https://mms.businesswire.com/media/20201102006034/en/835509/23/AWS_logo_RGB.jpg"
-        width: 1200
-        height: 627
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "zrlaMpi8isi+qw/TSe8oRjjKuH3SmEvIrd0lXdu7hdGKbKUOyGpP0HhnpLITEdpUP5bTooJTdPrISNSn6Z8m1kE+84i9weDARVeOWlF23S6o2mdtCllXxMrzc+70/Xv7NPZ+1zYm6xLkS+0qnsq9DdiRK8mCwXLPtnPN9argYaOTjBKQKnonGFfInHPMq4pyj3X5Pg6xWxuHKbxfjVU41OCOG4Mgd1oESLeacqbUz8S+anlXr44m1yVBjdEPljzcjgl8GXLv4+ZL9aZuxgVPFEwki9hbmevBIm36M2iCEmTUB8D4vPCqoUyGZnvZnR3Hcpezh3qjTO7qchz+k+yWBHEPNBKJAh0rc0M9iF440zUs0KCESOozsK9+sf/1pJGz+xHyYMR3ttw/VoS8DMNnIZpokBbqiEDrKBcZvnzUnBc5I9DrL0ZzQd0cuhj1GmmWMC9fkNRvgIIwgsH7fIs4optVpZ7GyksSLTa82i+ApdEo9lKRRjWuNH7dN3eOzaLX7QjdCFzBYUm+dzzzZVSF7Q==;1SP0TYoY8y8G5zDWAvVj/A=="
