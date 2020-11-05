@@ -91,6 +91,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Voters in Portland, Maine say no to facial recognition technology for police"
+    excerpt: "Voters in Portland, Maine, have voted for a ban on facial surveillance software being used by authorities, the Bangor Daily News reported Tuesday. “An Act to Ban Facial Surveillance by Public Officials in Portland will ban the city of Portland and its departments and officials from using or authorizing the use of any facial surveillance software on any groups or member of the public,"
+    publishedDateTime: 2020-11-05T04:45:00Z
+    webUrl: "https://siliconangle.com/2020/11/04/voters-portland-maine-say-no-facial-recognition-technology-police/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 51
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/14556035947_3ba5d20d82_c.jpg"
+        width: 799
+        height: 533
+        isCached: true
   - title: "Facial recognition ban for local police with private right of action passes in Portland, Maine"
     excerpt: "A ballot initiative to ban face biometrics use by local police and agencies in Portland, Maine, and provide a right of private right of action to individuals if it is violated, has passed"
     publishedDateTime: 2020-11-04T20:14:00Z

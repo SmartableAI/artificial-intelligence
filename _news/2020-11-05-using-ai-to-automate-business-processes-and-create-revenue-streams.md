@@ -9,8 +9,8 @@ ampWebUrl: "https://www.computerweekly.com/opinion/Using-AI-to-automate-business
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/Using-AI-to-automate-business-processes-and-create-revenue-streams?amp=1"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Computer Weekly
@@ -27,33 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Businesses Are Increasing Investment in Digital Channels and Artificial Intelligence for Enhanced Customer Experiences"
-    excerpt: "NICE inContact, a NICEbusiness (Nasdaq: NICE), today announced the findings of a global research study detailing the growing role of"
-    publishedDateTime: 2020-11-04T16:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/businesses-are-increasing-investment-in-digital-channels-and-artificial-intelligence-for-enhanced-customer-experiences-2020-11-04"
+  - title: "Google launches Document AI suite of parsing and processing tools in preview"
+    excerpt: "Google's new Document AI (DocAI) platform is a unified suite of tools for AI and machine learning-powered document processing."
+    publishedDateTime: 2020-11-04T19:20:00Z
+    webUrl: "https://venturebeat.com/2020/11/04/google-launches-document-ai-suite-of-parsing-and-processing-tools-in-preview/"
+    ampWebUrl: "https://venturebeat.com/2020/11/04/google-launches-document-ai-suite-of-parsing-and-processing-tools-in-preview/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/04/google-launches-document-ai-suite-of-parsing-and-processing-tools-in-preview/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/google-cloud-e1594658562493.jpg?w=1200&strip=all"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "Sho.ai seeks to put branding power in hands of small businesses"
-    excerpt: "Sho Rust, founder of Sho.ai, an agency that helps businesses with branding, believes Cape Girardeau has what his business needs to succeed. Why Cape Girardeau? He has family here, but he also finds the city to be a great place for a tech startup"
-    publishedDateTime: 2020-11-02T06:01:00Z
-    webUrl: "https://www.semissourian.com/story/2845062.html"
+  - title: "In-Memory Computing May Solve the AI Memory Balancing Act of Volume, Speed, and Processing"
+    excerpt: "Designing memory architectures for AI/ML devices may feel like an impassable compromise with storage volume, speed, and processing. A new in-memory computing accelerator may be a useful solution."
+    publishedDateTime: 2020-11-03T18:42:00Z
+    webUrl: "https://www.allaboutcircuits.com/news/in-memory-computing-solve-ai-memory-balancing-act-volume-speed-processing/"
     type: article
     provider:
-      name: Southeast Missourian
-      domain: semissourian.com
-    quality: 37
+      name: All About Circuits
+      domain: allaboutcircuits.com
+    quality: 29
     images:
-      - url: "https://www.semissourian.com/photos/35/52/14/3552144-B.jpg"
-        width: 1000
-        height: 563
+      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/The_new%C2%A0tsunAImi_accelerator.jpg"
+        width: 700
+        height: 350
         isCached: true
 
 secured: "ojvxMwBPBRQMjLN9ja3hV+Q78TpYsk9B+cRXkoabBh54uEUXI2hJZg+twh3baahw9dpDGDG/ww2BYHh/0motGecuNJh0LdamjQiHGFempJkt8LgMFkiVsFMFIG2r1Axe99qwOd2fDyjcUUizCbyASwICkYUPmSf84hV1ps3UhADAWxG1NF8lQw7Rk0U6ISZWeoB25Bl6Ht3cYjDbn9EGvJqT+48wVmO0mJhaju+QViWtQgRfHHY+CbRoP1zSndA6FrZ/QyNneVXcIAMFC5+c2iznGz6r1CYxK2PigFYHK25jY3uFd+FCa9XFjYh9SC1FVi+8eOGnZ96Oed9iqtIVZloc7bx08nPlWxw5CyVi7KZ+4T/dmzfqVY0A/68/fO6x/FGejIX2seEnopekYwL0jHG3yI9ey8Mt7GYHiqitX8ENwWrUjGgPGfdIVcKzWtgOu0bJi0BjOAaGa+HHmlNaihy0ySxOzlVV3pgE4CuTM+dD16a7vYCyKfaakf/l65KHCQD0JUO8ZIyOzzUb/YxUkw==;z1K2ObiBZ4RarK9YkOOjOg=="

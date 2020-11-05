@@ -1,22 +1,31 @@
 ---
 category: news
-title: "Discover Announces New Data & Analytics Organization"
-excerpt: "Discover Financial Services (NYSE: DFS) announced on Tuesday the launch of its new Data and Analytics (DNA) organization. Discover revealed that the new organization represents its commitment to technological advancement in financial services with a focus on customer engagement and marketing technologies."
-publishedDateTime: 2020-11-03T11:40:00Z
-originalUrl: "https://www.crowdfundinsider.com/2020/11/168720-discover-announces-new-data-analytics-organization/"
-webUrl: "https://www.crowdfundinsider.com/2020/11/168720-discover-announces-new-data-analytics-organization/"
+title: "How machine learning and 4D analytics can protect Australians from financial fraud"
+excerpt: "While COVID-19 is changing the face of reality on a global scale, it is also bringing many Australians unprecedented financial struggles. Unfortunately, we are also seeing a rise in financial crimes and identity theft as scammers target Australian families,"
+publishedDateTime: 2020-11-05T03:04:00Z
+originalUrl: "https://dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html"
+webUrl: "https://dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html"
+ampWebUrl: "https://dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html?amp"
+cdnAmpWebUrl: "https://dynamicbusiness-com-au.cdn.ampproject.org/c/s/dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html?amp"
 type: article
-quality: 4
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Crowdfund Insider
-  domain: crowdfundinsider.com
+  name: Dynamic Business
+  domain: dynamicbusiness.com.au
 
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
+
+images:
+  - url: "https://dynamicbusiness.com.au/wp-content/uploads/2020/11/Untitled-design-2020-11-05T135149.144-696x392.png"
+    width: 696
+    height: 392
+    isCached: true
 
 related:
   - title: "CMOs, Predict Your Wins With AI And Predictive Analytics"
@@ -60,22 +69,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 59
-  - title: "How machine learning and 4D analytics can protect Australians from financial fraud"
-    excerpt: "While COVID-19 is changing the face of reality on a global scale, it is also bringing many Australians unprecedented financial struggles. Unfortunately, we are also seeing a rise in financial crimes and identity theft as scammers target Australian families,"
-    publishedDateTime: 2020-11-05T03:04:00Z
-    webUrl: "https://dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html"
-    ampWebUrl: "https://dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html?amp"
-    cdnAmpWebUrl: "https://dynamicbusiness-com-au.cdn.ampproject.org/c/s/dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html?amp"
-    type: article
-    provider:
-      name: Dynamic Business
-      domain: dynamicbusiness.com.au
-    quality: 55
-    images:
-      - url: "https://dynamicbusiness.com.au/wp-content/uploads/2020/11/Untitled-design-2020-11-05T135149.144-696x392.png"
-        width: 696
-        height: 392
-        isCached: true
   - title: "Google partners with Knowlarity to expand its speech analytics platform in India"
     excerpt: "Google has partnered with Singapore-headquartered cloud telephony firm Knowlarity to expand its speech recognition and analytics services in India."
     publishedDateTime: 2020-11-03T06:33:00Z
@@ -106,7 +99,16 @@ related:
         width: 880
         height: 440
         isCached: true
+  - title: "Discover Announces New Data & Analytics Organization"
+    excerpt: "Discover Financial Services (NYSE: DFS) announced on Tuesday the launch of its new Data and Analytics (DNA) organization. Discover revealed that the new organization represents its commitment to technological advancement in financial services with a focus on customer engagement and marketing technologies."
+    publishedDateTime: 2020-11-03T11:40:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/11/168720-discover-announces-new-data-analytics-organization/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 4
 
-secured: "uq/GLAXqr8kCq7k6chINpX2yvzmdhvm3I8CUcnBThUed6nGWMD7hJHB/Y5QPlAL9Sb5TIBm0kV23qcfPfTZQlrLmC8HWF5fQ3rS/zxrOsMgD9fevj6OUFSX1j6nn9e0bqE4R2/GOy5aGUyKnfhWzFH6pheKwXNWtZ+W3VFH1YqJ5Ubm05Fp1by2Ke70cfNJD2Gx+Ju7+OrEYzRFJTi6XN0u4glsGK1cYcFcB6Uz6YZtvom7kxs+JJY87m5FKL1BTtR7qaTXve7sAgLVd+zi3CTnwZ2Bp/ixDr7hGDTHD1FmP9355LfcRWe4zmz1gUH4R2VgC4tvO4/Um7IqUjdeaxRQGM8JRb2jlVM1S2Yyo0u6LbFAuLTU2dzAiG0Z+zHs9R8uUglY3hbCkd2+lr75ObdQoE1VjscrcIlXXvwLyI/Rgipcroo/WU71lwHniUB7o4xLLtJ65SvuNUmT+0GpNnFRKbiMTiX8OGYfIn2AZWQYSWo1UESDvNqD5UIrshMXpiQHxbTVKHoHg49xmuyY8Eg==;YxSPXJsH6k5qXZSEn3bV/w=="
+secured: "X83EGEHwnqtvfEb5Ultu7OtKND+4O9zl9dY70r1Xnbts8RyrikacNoVVHIuAcvDdg/LqEQdzVe/wnMXO/GT/KXv7QDu9U9RE48+MzKWbQNUucxAVFj85KW63gNA52+BhVOxX8eipwLd6QleKtNFzmRlGuci6y1VEyox5OGvsb3MheJNvFrLss4/G4wIOlZr8ItT5wZ1pqF7JsigXRCdI1/0t5S5RDVCimwlp4+Ij53weIkwz+YkSNImDZHfBqRSGTHwSj2Bzf6Mhbn181h5NePJZ39vgqW8tFRFFBM9yJJIVBGnrLmkQXwElYnIUr3U55UbpiUYm3dZYcmzwaMhlJZQuwFkAPuDOZPRjnnEIGlc=;Y3svLK2lYYsxwbMzSu6y6Q=="
 ---
 

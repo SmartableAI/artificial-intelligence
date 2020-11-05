@@ -1,48 +1,60 @@
 ---
 category: news
 title: "Using artificial intelligence can improve pregnant women's health"
-excerpt: "Researchers from the University of Seville have carried out a rigorous and detailed analysis of how artificial intelligence has been used with pregnant women over the last twelve years."
-publishedDateTime: 2020-11-04T17:57:00Z
-originalUrl: "https://medicalxpress.com/news/2020-11-artificial-intelligence-pregnant-women-health.html"
-webUrl: "https://medicalxpress.com/news/2020-11-artificial-intelligence-pregnant-women-health.html"
-ampWebUrl: "https://medicalxpress.com/news/2020-11-artificial-intelligence-pregnant-women-health.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-artificial-intelligence-pregnant-women-health.amp"
+excerpt: "Disorders such as congenital heart birth defects or macrosomia, gestational diabetes and preterm birth can be detected earlier when artificial intelligence is used. In the latter case, studies into cases involving artificial intelligence found a correlation between the number of pre-term births and the environmental pollution to which the pregnant women had been previously exposed."
+publishedDateTime: 2020-11-04T16:19:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-11/uos-uai110420.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-11/uos-uai110420.php"
 type: article
-quality: 57
-heat: 67
+quality: 37
+heat: -1
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-pregnancy.jpg"
-    width: 1920
-    height: 1280
+  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
-  - title: "Analysis reveals how artificial intelligence has been used with pregnant women"
-    excerpt: "Researchers from the University of Seville have carried out a rigorous and detailed analysis of how artificial intelligence has been used with pregnant women over the last twelve years."
-    publishedDateTime: 2020-11-04T23:31:00Z
-    webUrl: "https://www.news-medical.net/news/20201104/Analysis-reveals-how-artificial-intelligence-has-been-used-with-pregnant-women.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20201104/Analysis-reveals-how-artificial-intelligence-has-been-used-with-pregnant-women.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201104/Analysis-reveals-how-artificial-intelligence-has-been-used-with-pregnant-women.aspx"
+  - title: "Health: Artificial intelligence being trained to predict risk of developing oral cancer"
+    excerpt: "The diagnosis of oral cancer could be 'revolutionised' by using artificial intelligence to predict whether ... carries significant potential for saving lives and improving patient healthcare provision.' Mouth cancer, also known as oral cancer, is where ..."
+    publishedDateTime: 2020-11-02T10:55:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8904931/amp/Health-Artificial-intelligence-trained-predict-risk-developing-oral-cancer.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8904931/amp/Health-Artificial-intelligence-trained-predict-risk-developing-oral-cancer.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8904931/amp/Health-Artificial-intelligence-trained-predict-risk-developing-oral-cancer.html"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 53
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 66
     images:
-      - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://i.dailymail.co.uk/1s/2020/11/02/10/35142862-0-image-a-6_1604313865968.jpg"
+        width: 636
+        height: 382
+        isCached: true
+  - title: "Artificial intelligence helps predict risk of developing mouth cancer"
+    excerpt: "Pioneering study led by the University of Sheffield and funded by Cancer Research UK is examining the use of artificial intelligence to improve early detection of oral cancer The rate of people being diagnosed with oral cancers has increased by almost 60 per cent in the last 10 years Doctors currently predict the likelihood of pre-cancerous changes developing into cancer by assessing biopsies on 15 different criteria to determine whether action is needed and what treatment pathway should be taken This score is subjective,"
+    publishedDateTime: 2020-11-02T06:45:00Z
+    webUrl: "https://www.sheffield.ac.uk/news/nr/ai-helps-better-predict-oral-cancer-1.924794"
+    type: article
+    provider:
+      name: University of Sheffield
+      domain: sheffield.ac.uk
+    quality: 39
+    images:
+      - url: "https://www.sheffield.ac.uk/polopoly_fs/1.924804!/image/Mouth_cancer_865.jpg"
+        width: 865
+        height: 471
         isCached: true
 
-secured: "aNJzGP/NddaMfOERnHli+dun7AI3X3Kjskq6FouB+V8p+DRTOxWrQFzKmZDqwbvMfF2wq4Yb53nBqIr1OmdHJkkVvMRFHIDfHOGcMVtiEHq1cyMxJ9a8yN5rMyR2w6iXJYTZcegDiHGuVeLUfIBk800HN0MaC2M6KARx08lt5Z87HTNh4x6ybW17Ba1tNw0wEfEa6HKMsjATjVL8+qI5uHNILPwr+7fuIXwPIyyxEn45Xt8EJ4nKED/af+YwEWglWPAiqSZTYs78FYmkO+L8Wlai4YjDkXHIf+oFDRssFqF9xyO47+lUybN+poUi9cnfHUiosp6sErqnPSqW6taEfMLq37kPsdal37eYRrKfhz4=;qh+TprkBs+ihON03mQU0wA=="
+secured: "mzGX0LM2obgXrstSCQPy09Ye4ZJ8Kb9Qni8lu5awCcegU5G/XGX0OYM3rMFsYeOB2duumMLztheHhxUNuEu6dvApOiD52SPaApxSfYFocKeO2BxD8vjbXPcrh5w9b8jsuyxeHFhdm/lqAJ9fnQWup/CBayidQ00pX1iLv5ECIg4wgnCkdyzVM8yGxb7aGtud1fGj2168Z1/Jt97/pI6iH+aQf2eWZ5UF/aetnRpStdGDbF/48jan5ceW+R6zhxSigDeyCX7I55CO5VKshpPKmxxs5kQdX0wn5/2RyCeQDt5JCzvLSEkch6stf9l1dNIe/2VBvPmY5Bq80TgFptcO0XFKHArIJ40mH8U9X9Ld+rg=;9OpBrZUW5Ilo53V2YYp2tQ=="
 ---
 

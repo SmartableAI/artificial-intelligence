@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20201104/Analysis-reveals-how-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201104/Analysis-reveals-how-artificial-intelligence-has-been-used-with-pregnant-women.aspx"
 type: article
 quality: 53
-heat: -1
+heat: 53
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "Using artificial intelligence can improve pregnant women's health"
-    excerpt: "Researchers from the University of Seville have carried out a rigorous and detailed analysis of how artificial intelligence has been used with pregnant women over the last twelve years."
-    publishedDateTime: 2020-11-04T17:57:00Z
-    webUrl: "https://medicalxpress.com/news/2020-11-artificial-intelligence-pregnant-women-health.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-11-artificial-intelligence-pregnant-women-health.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-artificial-intelligence-pregnant-women-health.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-pregnancy.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "7oSokx7ms68rkNd4vTbGIsv44IiuD8+o1MEnkYPDsKfBU8shVN7u4KsZDLjGeB1yXpGhCkRdmtHEGajUNt3B9YCTVxfv/Aea0MrBkx5dCB5KbcSTinYAhwL3wSGPry0CZtOTj/8NHOMOVZ5UaxU0ztpFU5gz/PwXOeAM/OwbaTUV5hz6OQ5CzbsFtN452Qwb0AqK9v2oP/msivEnTvTLMMaIpDmKKFxaKe51RPfCMdhT9hgtufgvoT7V+k3WU4t/iwnaG9QjQnE4MGlCTsF2JoFBwqj0zTx9MXL4i1Uw3UcdwtrqyXpNyyUkagY7CvMmu3QJme7fLxsHZQXhxQNkoHa4vietXtpHOnAbJXUuc+w=;M/nkic4QPtczcYyMkQg2AQ=="
 ---

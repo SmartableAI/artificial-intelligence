@@ -25,19 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Army seeks to use artificial intelligence (AI), computing at the edge, to improve targeting, ease networking"
-    excerpt: "Commanders and operators won’t get the full picture from more raw data; they will need to trust the AI systems to send the accurate data they need."
-    publishedDateTime: 2020-11-04T09:42:00Z
-    webUrl: "https://www.militaryaerospace.com/computers/article/14186648/artificial-intelligence-ai-computing-networking"
+  - title: "Google launches Document AI suite of parsing and processing tools in preview"
+    excerpt: "Google's new Document AI (DocAI) platform is a unified suite of tools for AI and machine learning-powered document processing."
+    publishedDateTime: 2020-11-04T19:20:00Z
+    webUrl: "https://venturebeat.com/2020/11/04/google-launches-document-ai-suite-of-parsing-and-processing-tools-in-preview/"
+    ampWebUrl: "https://venturebeat.com/2020/11/04/google-launches-document-ai-suite-of-parsing-and-processing-tools-in-preview/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/04/google-launches-document-ai-suite-of-parsing-and-processing-tools-in-preview/amp/"
     type: article
     provider:
-      name: Military
-      domain: militaryaerospace.com
-    quality: 33
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
     images:
-      - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2020/11/Army_network_4_Nov_2020.5fa1930244323.png?auto=format&fit=max&w=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/google-cloud-e1594658562493.jpg?w=1200&strip=all"
         width: 1200
-        height: 689
+        height: 600
+        isCached: true
+  - title: "Using AI to automate business processes and create revenue streams"
+    excerpt: "We look at how a utility company in Australia is using AI to automate at scale, improve the planet and reshape the Australian energy market"
+    publishedDateTime: 2020-11-04T17:34:00Z
+    webUrl: "https://www.computerweekly.com/opinion/Using-AI-to-automate-business-processes-and-create-revenue-streams"
+    ampWebUrl: "https://www.computerweekly.com/opinion/Using-AI-to-automate-business-processes-and-create-revenue-streams?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/Using-AI-to-automate-business-processes-and-create-revenue-streams?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 59
+    images:
+      - url: "https://cdn.ttgtmedia.com/visuals/searchContentManagement/collaboration_technology/contentmanagement_article_002.jpg"
+        width: 1200
+        height: 400
         isCached: true
 
 secured: "E9qmtgRwe1JwCffmsxUYIWv+3E06L4mN6NgMiPniCPK+tbk/Li3fUylZmc8l6AVyKIU5PKdF0P6j3JJlkh6r8C+hlWUyTRM1QG11jq7OIRm6WfU0jYkjvO9x6+2avHa+hBi9nfuUVBfQCrcR1xHtgC51rnK9oLktdDEnBEUFXXkz2EQsYDttjraUZDtyZb0T+alXej0hL9jxlpweSF4g66WmKBEOehDrJHAeNQ1Sw7urNq/b2htrAO1Fnzqnb9IG3ia/280budKVEbJ+f5ZvIjDyu9qhXG10gql2rID6YBcJW90MieeGrIhjPQIDrYvpwn9AkSh7UdfZAQNLtJwMcCuNDPhEd50HmmoJXCEcP8U=;7k80LCrkCD4ivQBD9xuL/A=="

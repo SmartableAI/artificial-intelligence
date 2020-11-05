@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/article/portland-maine-passes-facial-recognitio
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/portland-maine-passes-facial-recognition-ban-fines.amp"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://www.insidehook.com/wp-content/uploads/2020/11/surveillance-cameras.jpg?resize=1200,800"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Voters in Portland, Maine say no to facial recognition technology for police"
+    excerpt: "Voters in Portland, Maine, have voted for a ban on facial surveillance software being used by authorities, the Bangor Daily News reported Tuesday. “An Act to Ban Facial Surveillance by Public Officials in Portland will ban the city of Portland and its departments and officials from using or authorizing the use of any facial surveillance software on any groups or member of the public,"
+    publishedDateTime: 2020-11-05T04:45:00Z
+    webUrl: "https://siliconangle.com/2020/11/04/voters-portland-maine-say-no-facial-recognition-technology-police/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 51
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/14556035947_3ba5d20d82_c.jpg"
+        width: 799
+        height: 533
         isCached: true
   - title: "Facial recognition ban for local police with private right of action passes in Portland, Maine"
     excerpt: "A ballot initiative to ban face biometrics use by local police and agencies in Portland, Maine, and provide a right of private right of action to individuals if it is violated, has passed"

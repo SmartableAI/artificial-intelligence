@@ -2,7 +2,7 @@
 category: news
 title: "Alpitour World Selects IBM Hybrid Cloud and AI Capabilities For a More Personalized Customer Experience"
 excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
-publishedDateTime: 2020-11-02T11:00:00Z
+publishedDateTime: 2020-11-02T11:31:00Z
 originalUrl: "https://www.morningstar.com/news/pr-newswire/20201102ny77498/alpitour-world-selects-ibm-hybrid-cloud-and-ai-capabilities-for-a-more-personalized-customer-experience"
 webUrl: "https://www.morningstar.com/news/pr-newswire/20201102ny77498/alpitour-world-selects-ibm-hybrid-cloud-and-ai-capabilities-for-a-more-personalized-customer-experience"
 type: article
@@ -24,6 +24,6 @@ images:
     height: 309
     isCached: true
 
-secured: "z9uZE1V4MbKTP44P9Ubqtmf7LXbKna3QytxeSQW1pNVC0i0NNt5tXLSoDSw35juMKfHIClxCOcTbEmAsTSvk8DyU6KxLVJEFXj66057tLVHGb/GQY+WarBQ9GHu+s9nN9qXswSq1WCDZlgXWjLELxPuM4ZRjKJAV6TXb2ttoTHFldIFAg7pe7Car6+EAFHlDDGzoG7ESy4mL4HG5+U5eu6g4VU8/k3MEfmUmlLNEWo2bqvvLAQN0Tr34y91ehagtxW/UaFmDYKPS6fBGmF26116mBLi1wEOHDvkDTrWDIT6pDzg5smEL6AAxRM4uQDbJ+KiFLX2oU6TshlgrMoR9zpP4V2HM0jliXAWdMvXIpSI=;0ZqtUOqD0LEi017wVwL77g=="
+secured: "ClMQsMQwnED/s5Hu4MdizVDqOA1glcUsIKfcM4i37oHHPPVDNvyFtah03szZLZbNiNWCJVIYV5cwG20Qefm/2qii4F/onOQ9G9pOwEMrSBRRufjyk9/LyjfypADQXOGZ2vHySClijuo2nRk+83bJLKkK6xh9dJzsPHJmULU3cyphDgsA2SQevExaC+PWWFxpoyY/5cEyb1P9BVf/nQkTTKtQ98vkJAuQjqjNSbRv0l+nLQcf7W5UI750xq6xzWTzX5nRY/lj71NrCen2bXVxcyhuQUEAjtIRvUzI2r64O2sU+YS7F3j96u9ehAax7Eava8Xq+/NQkN7jzqRISwhbqdzhCDiDCDseQDvRIYZ8N3o=;AujOheAcVSmcnjVXCRBEbQ=="
 ---
 

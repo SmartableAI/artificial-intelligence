@@ -105,6 +105,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Voters in Portland, Maine say no to facial recognition technology for police"
+    excerpt: "Voters in Portland, Maine, have voted for a ban on facial surveillance software being used by authorities, the Bangor Daily News reported Tuesday. “An Act to Ban Facial Surveillance by Public Officials in Portland will ban the city of Portland and its departments and officials from using or authorizing the use of any facial surveillance software on any groups or member of the public,"
+    publishedDateTime: 2020-11-05T04:45:00Z
+    webUrl: "https://siliconangle.com/2020/11/04/voters-portland-maine-say-no-facial-recognition-technology-police/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 51
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/14556035947_3ba5d20d82_c.jpg"
+        width: 799
+        height: 533
+        isCached: true
   - title: "Method for facial recognition bias reduction with adversarial network shows promise"
     excerpt: "A prominent trio of biometrics researchers have proposed a way to remove the difference, or bias, from facial recognition performance between different demographics. A paper jointly written by"
     publishedDateTime: 2020-11-02T22:46:00Z

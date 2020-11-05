@@ -6,8 +6,8 @@ publishedDateTime: 2020-11-05T02:19:00Z
 originalUrl: "https://www.techinasia.com/leveraging-ai-machine-learning-give-startups-competitive-edge"
 webUrl: "https://www.techinasia.com/leveraging-ai-machine-learning-give-startups-competitive-edge"
 type: article
-quality: 62
-heat: 72
+quality: 66
+heat: 76
 published: true
 
 provider:
@@ -21,6 +21,8 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AWS AI
+  - AI in Finance
 
 related:
   - title: "The ways artificial intelligence is changing learning & development"
