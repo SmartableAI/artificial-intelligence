@@ -40,6 +40,6 @@ related:
       domain: edweek.org
     quality: 4
 
-secured: "lcQLx+KHBD+Dd6T//cr2YgwLCH4I0IId64v+xeZBzgaiWMxSxRxKjtORl2hLoPveoRblkMytrkjoSvlY2kAF1LyrkUO1fkoY0lAYBZkl6Fbtk3WN+IDWmG0uR6xAcvoyAf+ujeBo5BW1HQ6dzw2fmRhslCOSq39GzzdmQFTPmiKww4aYldCfIYRMQO/5uPHd549ziTUeCmErbyvjhw4dPQJaywYe7Edbz2P4dOXxtZyCaTOsTOp3z5YWNY9do/F9+7r1VR01QpnqMPM4/fZXSulAwDIx0mfRQ7Dm8U39y0dsVHUnyiaARY+7+0HshWSBrF/5Qv/v+Z2iQLrzuoZt1ZpBRSjVGjIq+g/DcRKq1zY=;L+9yHxrQx8hmn9qcoXJCDA=="
+secured: "3qkHWz3Yoy3m/RO1syqj8yaw1GjhYrLPuW9f/eEWnirz9SLp3gz/LMMNKNZ/7StVxEVFhG+GyzF1vBakFePzDCw9ZEAK3uVPfX8OoW3tm9YpfE/kLUiOBlVYWrP4XFDiyRR34+mVsV36owm92nWimwNGiID1a9F6i+nyTEjPKhIHzt+SQETTvYgcYQKIPyRRFXf7a+ZLfWxQvnYSqwJefqMye+5RTVDcyev5uAG5P/EWN5gRegPg2i2pjtb6vAxw/8Q3Ux34ftG9OJ6OZdSbFdOa64gTyPFExYXuz6W+9NS7Z/8m9rocXsm4O2VGvyv7YsXuY3Xmc04zdF9I8Uaq7GZ+YXvu7zX+ZZgDHY7aZ8Wf9C8yHXtR6ssKcrY+wjwwInxWJhK4YPfHs8wV0Vq3qJ4CXcRqAwxR2vwNLlHzCpSAdWvXZpHxtUGxF+ZE80Zk0AR4Xdi/qwsg4B2z9e+gDp0BWHhb1zSssk5O4vycn4WwJRWUT0YCRia9T27G/cwxj8QSkhzvuo+IilBjkAuzvg==;1HXlM7jWIzt9PoYR+UQHiw=="
 ---
 

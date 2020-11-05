@@ -3,10 +3,10 @@ category: news
 title: "How machine learning and 4D analytics can protect Australians from financial fraud"
 excerpt: "While COVID-19 is changing the face of reality on a global scale, it is also bringing many Australians unprecedented financial struggles. Unfortunately, we are also seeing a rise in financial crimes and identity theft as scammers target Australian families,"
 publishedDateTime: 2020-11-05T03:04:00Z
-originalUrl: "https://dynamicbusiness.com.au/topics/news/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html"
-webUrl: "https://dynamicbusiness.com.au/topics/news/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html"
-ampWebUrl: "https://dynamicbusiness.com.au/topics/news/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html?amp"
-cdnAmpWebUrl: "https://dynamicbusiness-com-au.cdn.ampproject.org/c/s/dynamicbusiness.com.au/topics/news/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html?amp"
+originalUrl: "https://dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html"
+webUrl: "https://dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html"
+ampWebUrl: "https://dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html?amp"
+cdnAmpWebUrl: "https://dynamicbusiness-com-au.cdn.ampproject.org/c/s/dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html?amp"
 type: article
 quality: 55
 heat: -1
@@ -109,6 +109,6 @@ related:
       domain: crowdfundinsider.com
     quality: 4
 
-secured: "Uk9MRTq43oS+NBK+AAs8CXZu914N4EZQj5wknol8Jr4DNOowPD/W5ofqlJE1AJAIXUsTiieLhfG1pIorKjDkk6szYDpY4mzE5EN5LaI7evZQOOrCuSXOAreCQxRAl8/W103pIcd1s//7J3DNP8FT//S3dAa23rbHZ3/hBnXErnfgVvQ0RggTD3AwyWAnNt3F75O1zOiDkYPCKB6ZhNPi8LdTft/eZQz1ALUDSFWNZgXh0ELuB2a6A4DBYBjC8KgvWTgXNKgk+iXLWVF4ooAj5XA0Bw6czZq2/rFLdBXhTZuI5puhnTNCbmCoDwbMReBE7VbPgeInYzVBODnEY3cAujHzLto+DbEzeSzdWDWd63Y=;5ojfkLcq6OKfDSXEGQdinQ=="
+secured: "ECrPwtjRk4OK25Ow2QHNlKu3ZXy8zWuLYIQmE5uCAiWzfLV5instlDOwFrq+sQreQro/Zsh8Df3xwKKjmDChmblFxha108LC91CxzuKad4YxUrcKaYibRIiHUP372V3ezw8H7S7uhE3n+kbDcAzGpx4kLG3ldepqc/18gSB9+rB29vEm4ZOIyKVw6SIqmKY+r4ivqud3P/vN+0v1UHFH71eKXNX5XCN14e91hqn2bQm4j68rAjfK1mwbIK4Bbk007vQqSFGRkD1LkYq2S5K40sjuRdy121Uiaegz5j78afwxrlS4wEEZi44cyf0K0GqDjlGsFteh83Ml1tTpAfucl4fjV9CbGFNosNHph/59vYU=;5y0q+hcYK1i/tVhqLiiu5w=="
 ---
 

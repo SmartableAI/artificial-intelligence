@@ -1015,10 +1015,10 @@
     {
       "path": "_news/2020-10-28-5-best-robotics-and-artificial-intelligence-stocks-to-buy.md",
       "title": "5 Best Robotics and Artificial Intelligence Stocks To Buy",
-      "excerpt": "Below we listed the 5 best robotics and artificial intelligence stocks to buy according to hedge funds. For a detailed analysis and a more comprehensive list please see Top 10 Robotics and Artificial Intelligence Stocks To Buy. Unfortunately it is too late ...",
+      "excerpt": "Google AI is the company’s division that focuses exclusively on artificial intelligence and Waymo is probably the most advanced autonomous driving technology company in the world (though Chinese ...",
       "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/",
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1037,7 +1037,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T19:39:00-07:00",
+      "publishedDateTime": "2020-10-27T22:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Insider Monkey",
@@ -1051,8 +1051,9 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1291,10 +1292,10 @@
     {
       "path": "_news/2020-10-27-if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais.md",
       "title": "If a robot is conscious, is it OK to turn it off? The moral implications of building true AIs",
-      "excerpt": "What gives an entity moral standing? The philosopher Peter Singer argues that creatures that can feel pain or suffer have a claim to moral standing. He argues that nonhuman animals have moral standing,",
+      "excerpt": "What is the basis upon which something has rights? What gives an entity moral standing? The philosopher Peter Singer argues that creatures that can feel pain or suffer have a claim to moral standing.",
       "sourceUrl": null,
-      "webUrl": "https://www.chron.com/news/article/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php",
-      "originalUrl": "https://www.chron.com/news/article/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php",
+      "webUrl": "https://www.seattlepi.com/news/article/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php",
+      "originalUrl": "https://www.seattlepi.com/news/article/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1311,13 +1312,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.chron.com/news/amp/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php",
-      "publishedDateTime": "2020-10-27T06:08:00-07:00",
+      "ampWebUrl": "https://www.seattlepi.com/news/amp/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php",
+      "cdnAmpWebUrl": "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php",
+      "publishedDateTime": "2020-10-27T06:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
+        "name": "seattlepi.com",
+        "domain": "seattlepi.com",
         "images": null,
         "publishers": null,
         "authors": null

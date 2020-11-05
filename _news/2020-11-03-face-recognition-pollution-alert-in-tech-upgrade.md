@@ -9,8 +9,8 @@ ampWebUrl: "https://m.timesofindia.com/city/noida/face-recognition-pollution-ale
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/amp_articleshow/79008997.cms"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: India Times
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cognitec’s FaceVACS face recognition engine developed to recognise masked faces"
+    excerpt: "Advanced deep learning methods and a new face finder are contributing to substantial performance upgrades for Cognitec’s FaceVACS face recognition engine. In particular, the new version"
+    publishedDateTime: 2020-11-05T08:08:00Z
+    webUrl: "https://www.sourcesecurity.com/news/cognitec-facevacs-face-recognition-engine-developed-co-2232-ga-npr.1604494565.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/cognitec-facevacs-face-recognition-engine-developed-co-2232-ga-npr.1604494565.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/cognitec-facevacs-face-recognition-engine-developed-co-2232-ga-npr.1604494565.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 55
+    images:
+      - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/ai-stadium-security-920.jpg"
+        width: 612
+        height: 355
+        isCached: true
   - title: "Audit reveals new facial recognition tech tools in police's digital armoury"
     excerpt: "A police stocktake triggered by a controversial trial of facial recognition technology has revealed what law enforcement is adding to its digital armoury. It lists more than a dozen investigative tech tools,"
     publishedDateTime: 2020-11-04T22:26:00Z

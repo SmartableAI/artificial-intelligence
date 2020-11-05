@@ -29,9 +29,9 @@ related:
   - title: "Brainome launches product to optimize machine learning development process"
     excerpt: "Brainome's new product, Daimensions, seeks to eliminate brute-force aspects of machine learning model development, integrate with existing CI/CD infrastructure and generate small ML models that can run efficiently on commodity hardware."
     publishedDateTime: 2020-11-04T14:00:00Z
-    webUrl: "https://www.zdnet.com/article/brainome-launches-product-to-optimize-machine-learning-development-process/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/brainome-launches-product-to-optimize-machine-learning-development-process/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brainome-launches-product-to-optimize-machine-learning-development-process/"
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/brainome-launches-product-to-optimize-machine-learning-development-process/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/brainome-launches-product-to-optimize-machine-learning-development-process/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/brainome-launches-product-to-optimize-machine-learning-development-process/"
     type: article
     provider:
       name: ZDNet

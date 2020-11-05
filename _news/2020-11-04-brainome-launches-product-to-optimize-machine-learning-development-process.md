@@ -3,10 +3,10 @@ category: news
 title: "Brainome launches product to optimize machine learning development process"
 excerpt: "Brainome's new product, Daimensions, seeks to eliminate brute-force aspects of machine learning model development, integrate with existing CI/CD infrastructure and generate small ML models that can run efficiently on commodity hardware."
 publishedDateTime: 2020-11-04T14:00:00Z
-originalUrl: "https://www.zdnet.com/article/brainome-launches-product-to-optimize-machine-learning-development-process/"
-webUrl: "https://www.zdnet.com/article/brainome-launches-product-to-optimize-machine-learning-development-process/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/brainome-launches-product-to-optimize-machine-learning-development-process/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brainome-launches-product-to-optimize-machine-learning-development-process/"
+originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/brainome-launches-product-to-optimize-machine-learning-development-process/"
+webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/brainome-launches-product-to-optimize-machine-learning-development-process/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/brainome-launches-product-to-optimize-machine-learning-development-process/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/brainome-launches-product-to-optimize-machine-learning-development-process/"
 type: article
 quality: 82
 heat: 92
@@ -40,6 +40,6 @@ related:
         height: 337
         isCached: true
 
-secured: "CVpmB040dAvlmqguSr/TtHzj2PT2RxG28n5vG6esvTPolzaRCBt+7LeUQJ6a8nb55LHJuWJrxtakjtH0+nTYywgk/Bl9oDIJoIe0ZJFHlCw5XMF45jKeG9mrgrFmr47uQpbwieDBltcD0shu1IvfL/RtX/XwKRBsETZJpB8GTTzhfUW25fbZXjm1kQ0SVorLZxCxz6g0bs9AkprXgWSbQYQ1Ay+YC2cdevRIFRiIXVmoMo1pRekBv6ezb2F2DqwVUf9pPytEJehBgtojF4ACqoEOAvnF26UWVaVu/ESIK2ho7SywbQfwVCBMNKG2rWPolsd4V+TjMxhpZQIEn8OuBHt/qCcZA/ik87LQhnkOoc+4BWHBazJzby1y0lFyXWCITvsbtM0QXXROJNhZtBUoAzRKSveXyYKEjRDWUJreCDfPi4JIOOISdBwA3+p8oLNyw8GfS2ascnA/AwcGhihqT2Z/UE3+P4T8imHdFFXDrtJnX0YflW0RLx4VcGwbUt4wx+inbxRdf5KAdJUsRIlpJA==;TlZE0zP8BluVhybK6eFXUw=="
+secured: "t3CtEUUeH56JVbQWjRcZsQEMX/xjNJoSJmxmRCDLZ46ShCufUFgV6eT4rOPI7Pt48Gwb2RcUufd9RV58piZa9H78haEwp8IgYNwBVqKqCoNMQRh3aaTCXwrN8Hcz1g/9YCVSxFzNA3NTwHmCrNwbhy3BDSE3scmd/nEPwUIhInnDMuSRNJiMJKT14p7kGxn2Rc/7mKAfsqpXMMoYLLNny4g0TZVVyV9KrWvmnss9Yk43bngRb+SGqK471zQUxSRIzaNGEGKh2kXSP87yR16pig7vdxhIA+snxlzLWLc5xJlmkxHLVr4YJQiEjtiJyRLOyux4F1F2AfwhmuMTJezeeEEMWP9zxYox61/Uh9wk5JMy7u4cRLxn8EEYOdtoI2T6cwcET17w9IdlmY/S2Ah1SB/eMU4eKXypRPMJlLl7K25Rr/rxxm/9cTjmqtTf7JVAu4n9KjYV3UT71NIL+l9KDYP45IGrbIqyoa62iRAdQ0XU3qHaFvTcyud8h8XeY3aqn2CtHCIyMRhbHMBluADwmA==;8pHnEsVq0ZGXN4SE/gaP3g=="
 ---
 

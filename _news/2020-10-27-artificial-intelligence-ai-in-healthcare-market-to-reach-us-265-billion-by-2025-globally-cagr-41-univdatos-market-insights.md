@@ -1,27 +1,26 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) in Healthcare Market to Reach US$ 26.5 Billion by 2025, Globally |CAGR: 41%| UnivDatos Market Insights"
-excerpt: "Artificial Neural Network), Applications (Robotic Surgery, Diagnosis, Virtual Nursing Assistance, Administrative Workflow Assistance); Offerings (Hardware, Software and Services) and Region ..."
-publishedDateTime: 2020-10-27T15:16:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-1029728132"
-webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-1029728132"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-1029728132"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-1029728132"
+excerpt: "UnivDatos Market Insights released a report titled \"Artificial Intelligence (AI) in Healthcare Market - by Technology (Machine Learning,"
+publishedDateTime: 2020-10-27T15:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025--globally-cagr-41-univdatos-market-insights-301160783.html"
+webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025--globally-cagr-41-univdatos-market-insights-301160783.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - Machine Learning
-  - AI
   - AI in Healthcare
+  - AI
 
-secured: "ZX67cpKebSJnHuZFuaaLW5D4C0NNQi+FBspYPlg9JQajGLNW8kGbzfZ5LEc24Y+lOv95bTQ3caTYafjRiRu4IpEiQviSsmGyCUFA2m1cRcim6Gr68rmdDNxTJVa2EzRL/LLG6oBokAmJHUp80CtVvU+Qb2OIO2A3D6UKJJI3iGu8PdgPrPE8T0AFLpbFFBWQqbHA6tW4+RILFfVDr6arroBsVH984yk15Wf30bzy1lheEohBpk9YTi4KdPfEhO5Cj4kzkPiGrYB6mV4g/EbfBG/+A+cLUY5LBj9pMP0hfoF9/vZii8sgndSOhXlcSGfS816LQ9b4j4vr5XkhxY+MP5xy9sTTSaPS6SnbMvauCJI=;l5LOkGFVda49w6c85rq1ww=="
+images:
+  - url: "https://mma.prnewswire.com/media/1225049/UnivDatos_Logo.jpg?p=facebook"
+    width: 1279
+    height: 670
+    isCached: true
+
+secured: "eMADGwlNXvthCzQMTKToyAO0o+pqs6rxAlTWeYdDHKEZrg75eyGHlZNb/gSC+vkau1V2pvNdQhUwLfjqgOxof7A3gb7qpu8f64eCica0JhN8w+VHJe7oEzWsIUnq6FxUi8qkMMZ/VeU3w9V1zFmle+BtFZdfABx73a4VfKl1+4Ao9jmWOAwBFQOtYlYHuFlv49m7FmXUCoNUDGnZuKxfKQjUmYKA2kWdNI6nbQ8NKsiXJ0yNt8blXWLMI6xsR9De1I8hdQ0Z+mN4rWX0eJco0L+G0ad9Jod2EBWpi6vxuxx6N1SCHoMBSlIoKu+dPb5pQyxmILUsGE61UMwZp5B2WKUJ6uvm1m55V1tUVuV/mAQ=;aWbRzsBWcMo9jnOenj6tBw=="
 ---
 

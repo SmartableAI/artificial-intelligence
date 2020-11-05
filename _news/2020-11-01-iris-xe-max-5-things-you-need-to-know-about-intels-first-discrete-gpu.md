@@ -29,38 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel Iris Xe Max GPU arrives in 11th-gen mobile chips to boost gaming, creation"
-    excerpt: "Intel offers a little something extra as incentive: Deep Link, which allows a system to combine the integrated and discrete Xe GPU's processing power for creative tasks like AI inferencing and ... over models with Nvidia MX chips. Iris Xe Max also adds ..."
-    publishedDateTime: 2020-10-31T16:03:00Z
-    webUrl: "https://www.cnet.com/news/intel-iris-xe-max-gpu-arrives-in-11th-gen-mobile-chips-to-boost-gaming-creation/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/intel-iris-xe-max-gpu-arrives-in-11th-gen-mobile-chips-to-boost-gaming-creation/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intel-iris-xe-max-gpu-arrives-in-11th-gen-mobile-chips-to-boost-gaming-creation/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 99
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/qNcMO68S_2r4fGl59xhilygsFIw=/1200x630/2020/10/21/992143a0-3303-449c-9a49-a650e2bf34f8/acer-swift-3x-05.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Intel's Iris Xe Max GPU brings graphics chops to thin-and-light laptops"
-    excerpt: "Intel has unwrapped the Iris Xe Max discrete GPU for notebooks, detailing how it depends on the Tiger Lake Core GPU for enhanced performance in gaming, AI, and encoding."
-    publishedDateTime: 2020-10-31T16:03:00Z
-    webUrl: "https://www.pcworld.com/article/3587732/intels-iris-xe-max-gpu-brings-graphics-chops-to-thin-and-light-laptops.html"
-    ampWebUrl: "https://www.pcworld.com/article/3587732/intels-iris-xe-max-gpu-brings-graphics-chops-to-thin-and-light-laptops.amp.html"
-    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3587732/intels-iris-xe-max-gpu-brings-graphics-chops-to-thin-and-light-laptops.amp.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 91
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/10/intel-tiger-lake-core-iris-xe-max-logo-100864467-large.jpg"
-        width: 1199
-        height: 854
-        isCached: true
   - title: "Intel Launches Its First Discrete GPU for Laptops, the Iris Xe Max"
     excerpt: "Intel’s first discrete GPU for laptops, the Iris Xe Max, will start shipping next month in three models from Acer, Asus, and Dell. According to Intel, the GPU will arrive in Dell’s Inspiron 15 7000 2-in-1 convertible,"
     publishedDateTime: 2020-10-31T21:21:00Z
@@ -109,22 +77,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Intel Iris Xe Max GPU is launched, helping thin laptops deliver impressive gaming"
-    excerpt: "offering up to a 20% performance boost for the processor versus a laptop with an Nvidia MX350 GPU, Intel claims. Deep Link promises a major boost in content creation workloads, and also with video encoding. We’re talking 7x faster AI-based creation ..."
-    publishedDateTime: 2020-10-31T16:03:00Z
-    webUrl: "https://www.techradar.com/news/intel-iris-xe-max-gpu-is-launched-helping-thin-laptops-deliver-impressive-gaming"
-    ampWebUrl: "https://www.techradar.com/amp/news/intel-iris-xe-max-gpu-is-launched-helping-thin-laptops-deliver-impressive-gaming"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/intel-iris-xe-max-gpu-is-launched-helping-thin-laptops-deliver-impressive-gaming"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 84
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/8zcrXFmwqGhotbwYirbJee-1200-80.jpg"
-        width: 970
-        height: 545
-        isCached: true
   - title: "Intel introduces the Iris Xe Max: a discrete GPU that merges with integrated GPUs"
     excerpt: "At this point, the Iris Xe Max is a familiar product. It is physically identical to the integrated graphics inside Intel's newest mobile processors. However, on"
     publishedDateTime: 2020-11-01T15:17:00Z
@@ -172,20 +124,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9daf8d005f33325dff7961%2F0x0.jpg"
         width: 1000
         height: 676
-        isCached: true
-  - title: "Intel Launches Its First Discrete GPU for Laptops, the Iris Xe Max"
-    excerpt: "The chip giant also tipped news of an early-2021 card version of the GPU for PC makers to employ in lower-cost desktops."
-    publishedDateTime: 2020-10-31T15:01:00Z
-    webUrl: "https://uk.pcmag.com/graphics-cards/129720/intel-launches-its-first-discrete-gpu-for-laptops-the-iris-xe-max"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 69
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/i/intel-laun/intel-launches-its-first-discrete-gpu-for-laptops-the-iris-x_zwcq.1200.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Intel enters the laptop discrete GPU market with Xe Max"
     excerpt: "Intel released preliminary information on its newest laptop part—the Xe Max discrete GPU, which functions alongside and in tandem with"
@@ -260,20 +198,6 @@ related:
       - url: "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fvnunetcom-analysis-intel-montecito-takes-on-ibm-sun-and-amd-medium.jpg&w=480&c=0&s=1"
         width: 480
         height: 285
-        isCached: true
-  - title: "Intel launches Iris Xe Max discrete GPU"
-    excerpt: "Intel has launched its Iris Xe Max discrete graphics processor, aimed at thin-and-light notebooks powered by 11th Gen Core Tiger Lake processors. The Iris Xe Max is based on the Xe LP graphics architecture and it's targeted at the 'thinner the better' market,"
-    publishedDateTime: 2020-11-02T14:00:00Z
-    webUrl: "https://www.bit-tech.net/news/intel-launches-iris-xe-max-discrete-gpu/1/"
-    type: article
-    provider:
-      name: Bit-Tech
-      domain: bit-tech.net
-    quality: 39
-    images:
-      - url: "https://bit-tech.net/media/image/2020/11/69062e34-3a03-4aab-9072-6f5501d09444.jpeg"
-        width: 450
-        height: 230
         isCached: true
   - title: "Intel’s Discrete GPU Era Begins: Intel Launches Iris Xe MAX For Entry-Level Laptops"
     excerpt: "which implements DVFS feedback loops on top of supposedly AI-trained algorithms to help the system deliver power to the parts of the processor that need it most, such as CPU, GPU, interconnect, or accelerators. With Adaptix enabled, the idea is that the ..."

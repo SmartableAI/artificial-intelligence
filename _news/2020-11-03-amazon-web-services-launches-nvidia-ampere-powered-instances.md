@@ -86,6 +86,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Intel launches Iris Xe Max discrete GPU"
+    excerpt: "Intel has launched its Iris Xe Max discrete graphics processor, aimed at thin-and-light notebooks powered by 11th Gen Core Tiger Lake processors. The Iris Xe Max is based on the Xe LP graphics architecture and it's targeted at the 'thinner the better' market,"
+    publishedDateTime: 2020-11-02T14:00:00Z
+    webUrl: "https://www.bit-tech.net/news/intel-launches-iris-xe-max-discrete-gpu/1/"
+    type: article
+    provider:
+      name: Bit-Tech
+      domain: bit-tech.net
+    quality: 39
+    images:
+      - url: "https://bit-tech.net/media/image/2020/11/69062e34-3a03-4aab-9072-6f5501d09444.jpeg"
+        width: 450
+        height: 230
+        isCached: true
   - title: "AMD Instinct MI100 CDNA Next-Gen GPU Based Accelerator For HPC Launching This Month, Indicate Leaked Documents"
     excerpt: "AMD’s powerful Instinct MI100 accelerator is rumored to launch this month. Documents confirming the official arrival of the next-gen CDNA-based GPU"
     publishedDateTime: 2020-11-04T00:56:00Z
