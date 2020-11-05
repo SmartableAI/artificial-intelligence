@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/intel-iris-xe-max-discrete-gpu-launched-fo
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/intel-iris-xe-max-discrete-gpu-launched-for-laptops-01645312/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -136,20 +136,6 @@ related:
       - url: "https://infosurhoy.com/wp-content/uploads/2020/11/intel-iris-xe-max-discrete-gpu-rolls-out-to-acer-asus-dell-thin-and-light-laptops.jpeg"
         width: 650
         height: 433
-        isCached: true
-  - title: "Intel Xe DG1 Is The New ‘Iris Xe Max’ Discrete GPU Inside Laptops And These Are The Specifications And Features"
-    excerpt: "Intel recently confirmed it was shipping out the Intel Xe DG1 GPU that the company had been building in-house. It is now confirmed that Intel has"
-    publishedDateTime: 2020-11-01T01:00:00Z
-    webUrl: "https://appuals.com/intel-xe-dg1-is-the-new-iris-xe-max-discrete-gpu-inside-laptops-and-these-are-the-specifications-and-features/"
-    type: article
-    provider:
-      name: appuals.com
-      domain: appuals.com
-    quality: 19
-    images:
-      - url: "https://cdn.appuals.com/wp-content/uploads/2020/10/images-1.jpeg"
-        width: 739
-        height: 415
         isCached: true
 
 secured: "G6CdRt2flDh0Ke3ClA2swbnLXcmORkCJ0lCIqpFEX5aH0lgkjfiykbe3q33cX+ZHUlo1OljFLZz3/mn3vpr4+Xg41P23OMYZv6U8K2dqi0YtQ2uqccvPHrDWDtmXBGuh5jPnZhmK3hI/wAzbmhtKQXYYdGPeGO3AUqj5Q1Wvgr1TZwMo3cdDwvFtUCtQQ87n1N4Syr3uQf54wwQEGIQbnVmUt+saC0FN1A4ndeWw63d8w1cxJc/OXPs8DrYg8DjCSKiq3mamvLsKGzAg6m0hZZqRgH2+MZJCKLUnkv1kkDdIMu2GOm0n3PylVeoZbtN9+zdTunXeZMXdKy7HY27xEzqaNBSDHaWNN2UaEIyjlBa5vhbn3HPigU6UnDRLFBqWW47ms4WQejluvpPTu+/qTbmZdfRaChjcLxLOYK9s+eYgjvpn2LYPFt1lBlpEV5tfCYM4vReBovQyHj5/OZgcN2OuIVK5M/lVZb8TSqKnlVg83l1FuFhk8DCG3MN1lQpT0swWjnRhSLBseWXmG9Z1vQ==;LLAOQb9WrhJgwG0KkODOfQ=="

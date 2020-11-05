@@ -3,8 +3,8 @@ category: news
 title: "How the energy industry can save billions with AI"
 excerpt: "Chad Steelberg, co-founder, chairman, and CEO of Veritone, talks with Tonya Hall about how AI can save the energy industry billions and ways that the power grid can be protected against cyberattacks."
 publishedDateTime: 2020-11-03T14:30:00Z
-originalUrl: "https://www.zdnet.com/video/how-the-energy-industry-can-save-billions-with-ai/"
-webUrl: "https://www.zdnet.com/video/how-the-energy-industry-can-save-billions-with-ai/"
+originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/video/how-the-energy-industry-can-save-billions-with-ai/"
+webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/video/how-the-energy-industry-can-save-billions-with-ai/"
 type: article
 quality: 67
 heat: 87
@@ -22,7 +22,7 @@ topics:
   - AI
 
 images:
-  - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/11/02/1dd1c9b4-23ec-4a00-b2aa-dd770665c6d2/thumbnail/370x278/ce957be3d3279294a72a3850df8e4d05/20201102-depot-larry.jpg"
+  - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/10/26/44ec6ca4-76d9-47a7-bb91-702d043a02f0/thumbnail/370x278/0d446269b82a0f8eb0086f3aa3362247/mastercard-idemia-and-matchmove-to-pilot-5f95f54693eaa218d73998e8-1-oct-26-2020-4-53-52-poster.jpg"
     width: 370
     height: 278
     isCached: true
@@ -57,6 +57,6 @@ related:
         height: 720
         isCached: true
 
-secured: "3ZMcFcjBz92+sEA5t2AXSia0hrJx7XYRydGiXnpOTe3Fpppe0hKLfKgWwxasKN0R1nLSVP+vCOqlAI9eSQhbEr1SiEbYTzi4B9LpBOHo9tXUuYLiz2mgDRTzKoriK0ETx/ykg/m+Mj1CdsBRGEljDQ0Wo1vtjKidKiJxfLVxdpoDLIWmWvXBsm6hmohnGcqMaV+obFGC2f/TC+1CaNP9EjG8Dkfvl7a3ZXFE/7Qj78ZFIfS/TAxAtmz1xDpkvHX0jFDRmQpmu6n/zZMXOMFfD4oKyPO2svCZtGAzoKVH+mwnZ3AtzcI3NyLFNgZFKHe+H1m7vkf2GYC5hf150/9L/kayzXeR+10cqRJMLJm+9nE=;EXRWZRqKzxuIULTB8ZVTug=="
+secured: "KvGjkgKDFpW3BCH6U2jb39z6coY80ip2smqCH88IjYIqlPt6FzQm/5wtPezLnnbDXEXTFZnTcRylU7WUZnEmtBYShedQ4LTXacSRxS33d/0+i//nP8LgVBGbI70nj+F3DPN6mGasEAnFh2KWop0JEpiSw5ak3iHV4+bM6bbHOPiEnJjt1X902b7cj5Vv1z1cA2hJTI4rh/ZVRmoQCA1VlpuwUuo7IyDPoPXLZNo0IeEgDHQEezz3osmptrSdGeJmRAmKdGOY5S3ZyOZykGjQVqiH10ogGs0gyyYwivfRbiIyXkGXk2WCwv7m8SqNsugwtIdH8eHfsmyW12zlP9rrmLa3Hls2ldXwpQeXMFzhmJQ=;vsGW7y2cZ94MzeLL23pV3A=="
 ---
 

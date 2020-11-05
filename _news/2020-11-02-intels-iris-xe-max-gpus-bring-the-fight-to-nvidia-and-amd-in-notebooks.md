@@ -133,20 +133,6 @@ related:
         width: 650
         height: 433
         isCached: true
-  - title: "Intel Xe DG1 Is The New ‘Iris Xe Max’ Discrete GPU Inside Laptops And These Are The Specifications And Features"
-    excerpt: "Intel recently confirmed it was shipping out the Intel Xe DG1 GPU that the company had been building in-house. It is now confirmed that Intel has"
-    publishedDateTime: 2020-11-01T01:00:00Z
-    webUrl: "https://appuals.com/intel-xe-dg1-is-the-new-iris-xe-max-discrete-gpu-inside-laptops-and-these-are-the-specifications-and-features/"
-    type: article
-    provider:
-      name: appuals.com
-      domain: appuals.com
-    quality: 19
-    images:
-      - url: "https://cdn.appuals.com/wp-content/uploads/2020/10/images-1.jpeg"
-        width: 739
-        height: 415
-        isCached: true
 
 secured: "aLKAU4Xk9dzG0LGQcn76c2Awh9G8dPKY5h4rZmDTDyhkM+DN49AzC3NWzUfp06cp5EvKL3tmdC29gvVaCLstTAcleyhxkI5FFn2NOkVSSZRTNrySIh9LE4+p1wNU9E6bQXbFJB+Kql3DMRLxeDA1/Tz/wJpchmiS70q9zDRpuwfmewC9QEdWjg5zCU/bHP+zJEgRo9pXIgs6Q80no28HBaDsql5J4vxGmFp/i2HyCCQn7TA+ChpN3+S6Msl7Joilu+5hrINv4sLrQDZTkyOC9I5u7YpHEs6getvZCQJL8BPhHIkTvg33ggGfN8g5cVW+RjrNPSSnZ/rID/VunBIfQ+iCzpmx0lFlhSXyab/bR3JHfxa/Q+U2YvGaJihdKylHNqndohZXx5aN8TJShsmdq8iZvcw8S7Ee8Jncf0OAKNv6O0CWcVB1o8NvC9WDTGdWxfhzDbzzTuRxbP8W/P+IYLSAnNRGgD+c9S/o2IFtjUdQOLxWGzzJ346CCR0FAVzenf3/3jYO0hHidwJn02AtJA==;IONkqS3yAHwHQpmcEeLR+A=="
 ---

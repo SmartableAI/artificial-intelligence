@@ -18,6 +18,7 @@ topics:
   - AI Ethics
   - AI
   - Natural Language Processing
+  - Computer Vision
 
 images:
   - url: "https://theintercept.imgix.net/wp-uploads/sites/1/2020/10/google-cbp-theintercept-fin.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800"
