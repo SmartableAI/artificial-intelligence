@@ -6,6 +6,9 @@ publishedDateTime: 2020-11-02T11:00:00Z
 originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-science-environment-and-nature-software-industry-de8fd9fce1d475f4c4f8ec70ca9f2e31"
 webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-science-environment-and-nature-software-industry-de8fd9fce1d475f4c4f8ec70ca9f2e31"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Associated Press

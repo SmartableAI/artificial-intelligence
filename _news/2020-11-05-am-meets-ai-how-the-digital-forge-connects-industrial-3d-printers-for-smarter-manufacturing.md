@@ -6,6 +6,9 @@ publishedDateTime: 2020-11-05T14:04:00Z
 originalUrl: "https://www.forbes.com/sites/sarahgoehrke/2020/11/05/am-meets-ai-how-the-digital-forge-connects-industrial-3d-printers-for-smarter-manufacturing/"
 webUrl: "https://www.forbes.com/sites/sarahgoehrke/2020/11/05/am-meets-ai-how-the-digital-forge-connects-industrial-3d-printers-for-smarter-manufacturing/"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: Forbes

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.sify.com/finance/intel-acquires-cnvrgio-to-boost-ai-ml-o
 cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/intel-acquires-cnvrgio-to-boost-ai-ml-operations-news-topnews-uleg7ucbgjfig.html"
 type: article
 quality: 76
-heat: 126
-published: true
+heat: -1
+published: false
 
 provider:
   name: Sify.com
@@ -38,12 +38,23 @@ related:
     provider:
       name: CIOL
       domain: ciol.com
-    quality: 76
+    quality: 78
     images:
       - url: "https://www.ciol.com/wp-content/uploads/2019/08/Intel-AI.jpg"
         width: 850
         height: 400
         isCached: true
+  - title: "Intel (INTC) Spruces Up AI Capabilities to Challenge AMD & NVDA"
+    excerpt: "Intel INTC has reportedly acquired Cnvrg.io — an Israel-based company that specializes in development of advanced machine learning (ML) models. The TechCrunch article, citing confirmation from an Intel’s spokesperson,"
+    publishedDateTime: 2020-11-05T15:41:00Z
+    webUrl: "https://www.nasdaq.com/articles/intel-intc-spruces-up-ai-capabilities-to-challenge-amd-nvda-2020-11-05"
+    ampWebUrl: "https://www.nasdaq.com/articles/intel-intc-spruces-up-ai-capabilities-to-challenge-amd-nvda-2020-11-05?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/intel-intc-spruces-up-ai-capabilities-to-challenge-amd-nvda-2020-11-05?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "Intel Buys Another AI Startup"
     excerpt: "Intel Corp. has quietly acquired another AI platform developer, Israeli-based Cnvrg.io. The acquisition, confirmed by Intel late Tuesday (Nov. 3) to the"
     publishedDateTime: 2020-11-04T17:27:00Z

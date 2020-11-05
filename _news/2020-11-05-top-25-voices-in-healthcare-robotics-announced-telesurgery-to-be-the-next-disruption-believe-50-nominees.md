@@ -3,9 +3,12 @@ category: news
 title: "Top 25 Voices in Healthcare Robotics Announced; Telesurgery to be the Next Disruption, Believe 50% Nominees"
 excerpt: "InsightMonk and BIS Research are excited to present the second edition of the Top 25 Voices Awards Initiative, 'The Top 25 Voices in Healthcare Robotics', an elite compendium of thought leaders in Healthcare Robotics."
 publishedDateTime: 2020-11-05T14:07:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/top-25-voices-in-healthcare-robotics-announced-telesurgery-to-be-the-next-disruption-believe-50-nominees-1029770602"
-webUrl: "https://markets.businessinsider.com/news/stocks/top-25-voices-in-healthcare-robotics-announced-telesurgery-to-be-the-next-disruption-believe-50-nominees-1029770602"
+originalUrl: "https://markets.businessinsider.com/news/stocks/top-25-voices-in-healthcare-robotics-announced-telesurgery-to-be-the-next-disruption-believe-50-nominees-1029770608"
+webUrl: "https://markets.businessinsider.com/news/stocks/top-25-voices-in-healthcare-robotics-announced-telesurgery-to-be-the-next-disruption-believe-50-nominees-1029770608"
 type: article
+quality: 63
+heat: 63
+published: false
 
 provider:
   name: Business Insider
@@ -20,6 +23,6 @@ topics:
   - AI
   - AI in Healthcare
 
-secured: "RftxUZYIHPuS6Lyk4cNlnCJY03JxJLpNC7718zcWk2ejyxaeSe72RQwBI3r9BwIm13dvSplfqsDmClFvc0E6maV9hHFqKvbnOhTCqCEAaQPHSK4JHUGhy3c5E+GXRymyR7Z+kPz4E5Jxft2z+cUIXN6lS5Hn9PT4Chv1D6qPs+7bnTmnH+TR/p1sGw8fGKz2QskUPoYwCGhxG7vSiINV6Jp6aKmMD5xQq3LiNQ1IT3OYPza1ttemQmIzxBhzJrch8lGbGxLJpcTz/zdhPgLQSB3DkQk5XVUhSfkbruhOTKtC2GU6hyTK+UIJMHdFq+CqbFIO9ovOg4OspwtOFNqsSHWR+hQrRTbvnwCCdrWEPhE=;5Fb+8B87M93NRM5ac+JvTQ=="
+secured: "LGkCr8ASCQtoGMnk3XlIII3+22Kv5PAu027M62tyq/4/QcuZix8LP4LwOK0M+U+bzJDZIDraRcWgzgf2SD/Wn9aFXl3QbBz8EXtUTL9euhKgxo4IInuQtRaCNnTMGRa9J9EsnL1PjpdRz79/5Zn4fAt2aeJG/SHLCeTw5RYswM1d3wtlFAS+K8LbmJaCHDY4c0wjq872xz8PVkGVxlo9iirPRo/Aup3upJheCkZoRBGNTORSeQXlJk2WZmr66IjEEgAF02Qin83g/ZdmgpKQsTPiWbi4JMRuSUgpFVlexBXcSWtkV0T11RNVm3IOfoCdBArnnSzfLMrLQE7uure211Sty4+Sj3c2QvzvZPbiYms=;DerRYS7Jx9P01I8dxo8W6w=="
 ---
 

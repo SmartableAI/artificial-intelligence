@@ -9,8 +9,8 @@ ampWebUrl: "https://www.slashgear.com/intel-iris-xe-max-discrete-gpu-launched-fo
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/intel-iris-xe-max-discrete-gpu-launched-for-laptops-01645312/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 169
+published: true
 
 provider:
   name: SlashGear
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel Launches Its First Discrete GPU for Laptops, the Iris Xe Max"
-    excerpt: "Intel’s first discrete GPU for laptops, the Iris Xe Max, will start shipping next month in three models from Acer, Asus, and Dell. According to Intel, the GPU will arrive in Dell’s Inspiron 15 7000 2-in-1 convertible,"
-    publishedDateTime: 2020-10-31T21:21:00Z
-    webUrl: "https://uk.pcmag.com/graphics-cards/129720/intel-launches-its-first-discrete-gpu-for-laptops-the-iris-xe-max?amp=1"
-    ampWebUrl: "https://uk.pcmag.com/graphics-cards/129720/intel-launches-its-first-discrete-gpu-for-laptops-the-iris-xe-max?amp=1"
-    cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/graphics-cards/129720/intel-launches-its-first-discrete-gpu-for-laptops-the-iris-xe-max?amp=1"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 89
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/i/intel-laun/intel-launches-its-first-discrete-gpu-for-laptops-the-iris-x_zwcq.620.jpg"
-        width: 620
-        height: 349
-        isCached: true
   - title: "Intel introduces the Iris Xe Max: a discrete GPU that merges with integrated GPUs"
     excerpt: "At this point, the Iris Xe Max is a familiar product. It is physically identical to the integrated graphics inside Intel's newest mobile processors. However, on"
     publishedDateTime: 2020-11-01T15:17:00Z

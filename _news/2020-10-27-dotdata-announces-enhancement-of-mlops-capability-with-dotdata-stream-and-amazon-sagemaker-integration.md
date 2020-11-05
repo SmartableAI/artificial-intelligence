@@ -15,6 +15,12 @@ topics:
   - AWS AI
   - AI
 
-secured: "0Zx+llQh+S1GUQAIbbhc8lsJ0HjwuklcahHW7yrZN3ircB8jWUCJuKivRSGQLE8IYnwKygpq3ilaroxkprJwpYgwLvTy/FOv7GEmneVRPqSgSFBonHrzuUm2O81bsOFmiex9nLsAOsrAYtG2jvOOzmyTi2nBJy7Ee1+pbOgMfi5ctDoA/7PmhZr/1MA42LzB15XvVY6Cb7Ypfre1MAWU4daPuT+A2Svsi5npWyUNgiFolrINxoOKrP96lmO4rCMQ9Hg2QPjtefDusxXaOsU2oUqaK3vxwsRz645zX3Sf6nuN/6iAsOjLWEHTKxwnHB/NUFi2p4fqlBWLa7C2TqbjYonWCKg7CAMMC7Nv7stwhts=;dc7ufaejQMuVz364X2wGFQ=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "zuGuDg+HhF7zi+WiI7Oz+ExzdpoVkH52bmHj+eN58/dP+TJlts8IhMA/f+UWw39/ANXZhlq2okPlpLnyjzRVr2D7QoCfU0QbCoYELwUDREoW0L3UqZNTz3pZn3RlSRboRwlAYxhD4BBC9+TKXzwnnkh6NjvgFh9cA4ROqWVoOW03o4rEr2Suw1oywSIOsCsDNRNKRFXV6vDQ3Cfp/emPMynBiFvYZyJn/cs44W7urH3RWDdpJY8jxrXc6Vl3x+X2TSvWga7/XA5H493bQ97BRwkniv0jaq0f9pK6iXyPPTXLczbUrsJMi4JRjjZLb0TUh/18BscemvrK3QQDQyV6oLhP0Rf0dCrmBDZP83gfPnM=;bhOsrTc582WPdsLqTeN3Cw=="
 ---
 

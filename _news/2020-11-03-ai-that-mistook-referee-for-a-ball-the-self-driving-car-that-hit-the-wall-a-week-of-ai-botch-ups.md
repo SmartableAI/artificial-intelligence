@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/ai-flaws-roborace-crash-self-driving
 webUrl: "https://analyticsindiamag.com/ai-flaws-roborace-crash-self-driving-car/"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "When A Tree Falls On Top Of A Self-Driving Car"
+    excerpt: "When a tree falls onto a self-driving car. getty. A popular riddle that has been asked since at least the 1800s is whether a tree that falls in a forest will make a sound if there"
+    publishedDateTime: 2020-11-05T16:07:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/05/when-a-tree-falls-on-top-of-a-self-driving-car/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/05/when-a-tree-falls-on-top-of-a-self-driving-car/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/05/when-a-tree-falls-on-top-of-a-self-driving-car/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa1e1ec70d6f1b95e85aac8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6720%26cropY1%3D341%26cropY2%3D4121"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "xrxXp9sVcGuB9vK8bF3I0KjH3Dk07UihMtTEUQFleU2UE31D3WFPamfpnsawgPWC6Sola64/kmifauvIgRV60vIpuXHQpaATFItemwwqfYus/rcX/VySDL9kUZuI2Iy2pJ77bxrjKPg+QH5vcpbdx4tZa1QXYb4qDcE1cxnVr0f5QlSytXvk78CrJ+BjsbhZKM19BB6rFRq7WAXpnuDcz9fjbnBxZRrme2ibPGobw2/g8IlurLM3eiAHgowJcF7p6iQkZiOPSYi4b/pmQc/MjTZozbdttWmRH63uwAdZD2Cw90idsIhNiKIdF7Hm791cvrttWaS6tgHwJY5OJqcDDXZmpNS3SuawmLniSMCjAM5vPD+VYTxZ0Zop2JXskrAdeTJuZvcIpf3A7W+2efr8jG4YpiwzU3xO6kJBzbCQTLksjZjq96p8oyKeKTt/kM8Od8RKPQdSLW5nLCSYzGaM2aQAsnOgDjSbx12BxwntwdvDNhU5bqZ+PYlabFAvSYgC7W4WvmqtFdO6zvq0oBjHnw==;fyck8I/oFWyDGooffmkZow=="
 ---

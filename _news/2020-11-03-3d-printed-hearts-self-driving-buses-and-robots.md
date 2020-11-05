@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/3d-printed-hearts-self-driv
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/3d-printed-hearts-self-driving-buses-and-robots/"
 type: article
 quality: 91
-heat: 171
+heat: 161
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
       - url: "https://electrek.co/wp-content/uploads/sites/3/2020/11/Tesla-full-self-driving-road-debris.jpg?quality=82&strip=all"
         width: 3584
         height: 1832
-        isCached: true
-  - title: "Self-Driving RC Truck Is A Master’s Thesis In Cybernetics And Robotics"
-    excerpt: "RC cars are a fun pastime, but for many hackers, taking things to the next level involves making the cars drive themselves. For his Masters thesis, [Jon] did just that, building a self-driving"
-    publishedDateTime: 2020-10-31T23:40:00Z
-    webUrl: "https://hackaday.com/2020/10/31/self-driving-rc-truck-is-a-masters-thesis-in-cybernetics-and-robotics/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 56
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2020/10/autotruck800.jpg"
-        width: 800
-        height: 450
         isCached: true
   - title: "Waymo And Other Self-Driving Car Companies Readying Real-World Driverless Transportation"
     excerpt: "Just after Alphabet-owned Waymo started its driverless taxi service to the public in Phoenix, other autonomous vehicle developers are following suit with"

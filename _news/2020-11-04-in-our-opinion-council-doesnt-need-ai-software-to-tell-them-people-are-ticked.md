@@ -6,6 +6,9 @@ publishedDateTime: 2020-11-04T00:30:00Z
 originalUrl: "https://www.southwhidbeyrecord.com/opinion/in-our-opinion-council-doesnt-need-ai-software-to-tell-them-people-are-ticked/"
 webUrl: "https://www.southwhidbeyrecord.com/opinion/in-our-opinion-council-doesnt-need-ai-software-to-tell-them-people-are-ticked/"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: South Whidbey Record

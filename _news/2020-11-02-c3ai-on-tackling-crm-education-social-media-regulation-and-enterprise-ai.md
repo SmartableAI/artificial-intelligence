@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/video/c3-ai-on-tackling-crm-education-social
 webUrl: "https://www.zdnet.com/video/c3-ai-on-tackling-crm-education-social-media-regulation-and-enterprise-ai/"
 type: article
 quality: 98
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 72
+  - title: "Microsoft Partners With Adobe and C3.ai on Advanced CRM"
+    excerpt: "Microsoft announced a partnership with Adobe and C3.ai to develop and market customized customer relationship management solutions."
+    publishedDateTime: 2020-11-05T16:46:00Z
+    webUrl: "https://www.investopedia.com/microsoft-partners-with-adobe-and-c3-ai-on-advanced-crm-5086030"
+    type: article
+    provider:
+      name: Investopedia
+      domain: investopedia.com
+    quality: 71
+    images:
+      - url: "https://www.investopedia.com/thmb/47JmigGS-lMsb_EEqQwguUpOIFE=/800x531/filters:fill(auto,1)/crm2-56a7dca13df78cf7729a0938.jpg"
+        width: 800
+        height: 531
+        isCached: true
   - title: "Next generation Artificial Intelligence and ethics"
     excerpt: "What is the next generation artificial intelligence? What about its learning abilities? And ethics that surround it? Josh Tenenbaum"
     publishedDateTime: 2020-11-02T08:12:00Z

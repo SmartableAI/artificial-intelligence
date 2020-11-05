@@ -6,6 +6,9 @@ publishedDateTime: 2020-11-05T14:57:00Z
 originalUrl: "https://www.marketwatch.com/press-release/impact-of-artificial-intelligence-in-food-and-beverage-industry-pdf-after-covid-19-aboard-software-analytical-flavor-systems-deepnify-2020-11-05"
 webUrl: "https://www.marketwatch.com/press-release/impact-of-artificial-intelligence-in-food-and-beverage-industry-pdf-after-covid-19-aboard-software-analytical-flavor-systems-deepnify-2020-11-05"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: MarketWatch

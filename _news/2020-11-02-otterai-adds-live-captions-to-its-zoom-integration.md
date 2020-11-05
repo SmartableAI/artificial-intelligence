@@ -9,8 +9,8 @@ ampWebUrl: "https://www.computerworld.com/article/3539910/otterai-adds-live-capt
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3539910/otterai-adds-live-captions-to-its-zoom-integration.amp.html"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: Computerworld
@@ -27,51 +27,61 @@ images:
     isCached: true
 
 related:
-  - title: "Insights Into AI Adoption In The Federal Government"
-    excerpt: "Over the course of the past few years, governments around the world have taken strong positions on advancing their strategies around AI adoption. Certainly heading into the new year it seems that the pace of adoption won’t be slowing any time soon."
-    publishedDateTime: 2020-10-31T20:24:00Z
-    webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/10/31/insights-into-ai-adoption-in-the-federal-government/"
-    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/10/31/insights-into-ai-adoption-in-the-federal-government/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/10/31/insights-into-ai-adoption-in-the-federal-government/amp/"
+  - title: "A Checklist For Artificial Intelligence On Workstations"
+    excerpt: "The results of a recent survey commissioned by Dell and executed by Forrester summarized in this white paper, \"A Checklist For Artificial Intelligence On Workstations,\" have indicated a quarter of firms are actually using workstations today to run core AI business applications and are experiencing the benefits that workstations can offer."
+    publishedDateTime: 2020-11-02T18:46:00Z
+    webUrl: "https://insidehpc.com/2020/11/a-checklist-for-artificial-intelligence-on-workstations/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9dc70191dd4d1b88ff7961%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D500%26cropY1%3D39%26cropY2%3D320"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "The State Of AI Adoption In Financial Services"
-    excerpt: "IDC predicts worldwide revenues for artificial i (AI) software, hardware and services will reach $156.5B in 2020, increasing 12.3% over 2019. The global AI finte"
-    publishedDateTime: 2020-10-31T23:26:00Z
-    webUrl: "https://www.forbes.com/sites/louiscolumbus/2020/10/31/the-state-of-ai-adoption-in-financial-services/"
-    ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/10/31/the-state-of-ai-adoption-in-financial-services/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/10/31/the-state-of-ai-adoption-in-financial-services/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9da9913b4215b47e037243%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5798%26cropY1%3D0%26cropY2%3D4300"
-        width: 1200
-        height: 890
-        isCached: true
-  - title: "Animal Cognition Induces Common Sense in Artificial Intelligence Agents"
-    excerpt: "Reinforcement learning models which are trained using the same approach of animal cognitive abilities with rewards, urges common sense into artificial intelligence."
-    publishedDateTime: 2020-11-02T13:30:00Z
-    webUrl: "https://www.analyticsinsight.net/animal-cognition-induces-common-sense-in-artificial-intelligence-agents/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
+      name: insideHPC
+      domain: insidehpc.com
     quality: 39
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Artificial-Intelligence-1.jpg"
+      - url: "https://insidehpc.com/wp-content/uploads/2020/11/Figure-3.png"
+        width: 576
+        height: 428
+        isCached: true
+  - title: "Artificial Intelligence and the Path to Health Care Innovation"
+    excerpt: "The American Hospital Association and Microsoft now offer a free, one-hour course, for continuing education credits, to guide health care teams through key considerations and specific actions for AI’s responsible and strategic implementation."
+    publishedDateTime: 2020-11-05T14:03:00Z
+    webUrl: "https://www.aha.org/news/healthcareinnovation-thursday-blog/2020-11-04-artificial-intelligence-and-path-health-care"
+    type: article
+    provider:
+      name: aha.org
+      domain: aha.org
+    quality: 39
+    images:
+      - url: "https://www.aha.org/sites/default/files/2020-11/center-blog-begley-mccarthy.jpg"
         width: 900
-        height: 500
+        height: 400
+        isCached: true
+  - title: "The evolution of heterogeneous integration enables the coming AI era"
+    excerpt: "The era of AI is coming. It will not be long before our cities operate efficiently with tremendous amounts of devices and robots connected through 5G infrastructure with enough bandwidth for data handling and transferring."
+    publishedDateTime: 2020-11-05T02:17:00Z
+    webUrl: "https://www.digitimes.com/news/a20201104PR203.html&chid=9"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://www.digitimes.com/NewsShow/20201104PR203_files/1_b.jpg"
+        width: 640
+        height: 455
+        isCached: true
+  - title: "Using Workstations To Reshape Your Artificial Intelligence Infrastructure"
+    excerpt: "The study results summarized in this white paper show that firms are already using workstations to lower the cost, increase the security, and speed up their AI infrastructure. The addition of workstations into a firms AI workflow allows servers and cloud platforms to be tasked with business cases that require more robust computing while workstations take on tasks with longer time frames and smaller budgets."
+    publishedDateTime: 2020-11-02T21:59:00Z
+    webUrl: "https://insidehpc.com/white-paper/using-workstations-to-reshape-your-artificial-intelligence-infrastructure/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 36
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/10/IHPC_DellUsingWorkstationsCover_2020-10-30_12-49-56.jpg"
+        width: 552
+        height: 311
         isCached: true
 
 secured: "67uEaIrKmgB7I6NmEoOM3lrDtF4GW0yGGf4scStYEHbWOpymu6DhYL0Lvx0HZ74Mzsxmj1weLCe/9PcPlVYUpVQB2AJTAMKoTOLlyJkyIAAghL/3KIHoM4oSkWTaWfAr42GeVoOVNNrtoW/unh+S9ArzIH6L6HybRDUOw9fcGeWmjZb6QaCU/sDvOLB8/Y6+JsQ9E6aEDO0UICe3xAZcWXukvBTToK68C5IpROmzSfT3L5eY/1WC536PNaADIN1dFPZqo0YphO7ZTYpQ1Nx1I8t5VIjWvAY0TGrnWkJeG5PfMkMwQLfRiLmcGN2ifMrjPnuYz477aBE3vjUd3vWKvMb8kau2Vd2mzXX2vlaWgUQ=;PSyG+vib1989ALZ5Y3OZIQ=="

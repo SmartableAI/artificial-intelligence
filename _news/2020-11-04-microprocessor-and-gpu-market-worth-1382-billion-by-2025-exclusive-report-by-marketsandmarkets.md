@@ -6,6 +6,9 @@ publishedDateTime: 2020-11-04T13:53:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/microprocessor-and-gpu-market-worth-138-2-billion-by-2025-exclusive-report-by-marketsandmarkets-1029765334"
 webUrl: "https://markets.businessinsider.com/news/stocks/microprocessor-and-gpu-market-worth-138-2-billion-by-2025-exclusive-report-by-marketsandmarkets-1029765334"
 type: article
+quality: 35
+heat: 35
+published: false
 
 provider:
   name: Business Insider

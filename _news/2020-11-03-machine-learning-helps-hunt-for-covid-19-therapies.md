@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "AI can detect COVID-19 by listening to your coughs"
-    excerpt: "Researchers have built an app that can detect COVID-19 through cough recordings, even for people who say they're asymptomatic."
-    publishedDateTime: 2020-10-31T21:58:00Z
-    webUrl: "https://www.engadget.com/ai-covid-19-cough-detection-from-recordings-213858299.html"
-    ampWebUrl: "https://www.engadget.com/amp/ai-covid-19-cough-detection-from-recordings-213858299.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-covid-19-cough-detection-from-recordings-213858299.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 87
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F8ca8be50-1bbd-11eb-8fff-1478e6a47e60&client=amp-blogside-v2&signature=90ddffc7377b87637e464f94b7376f8ff00e6692"
-        width: 600
-        height: 350
-        isCached: true
   - title: "AI can detect asymptomatic COVID-19 infections by listening to a cough"
     excerpt: "MIT has invented a tool that uses artificial intelligence to identify those with asymptomatic COVID-19 infections. Asymptomatic people are the most difficult to detect and can spread the infection"
     publishedDateTime: 2020-11-02T10:57:00Z
@@ -347,20 +331,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "The future of fintech beyond COVID-19"
-    excerpt: "By Ritam Gandhi, Founder and Director, Studio Graphene  COVID-19 has undoubtedly cemented our reliance on technology. With the unexpected shift to online working, shopping and entertaining, digital solutions have largely been the only means to overcome disruptions to our daily routines."
-    publishedDateTime: 2020-11-05T11:59:00Z
-    webUrl: "https://www.globalbankingandfinance.com/the-future-of-fintech-beyond-covid-19/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 24
-    images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/11/Untitled-design-2020-11-05T165829.943.jpg"
-        width: 750
-        height: 422
         isCached: true
   - title: "AI For COVID 19: MIT Model Effectively Detect Corona By Hearing Cough"
     excerpt: "Asymptomatic patients remain a major concern for the COVID-19 spread. But, this AI model by MIT researchers may help in early detection by hearing coughs."

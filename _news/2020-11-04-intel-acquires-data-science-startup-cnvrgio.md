@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Intel acquires Cnvrg.io to enhance ML and AI capabilities"
+    excerpt: "Intel has yet again acquired another startup to upgrade its automation capabilities in technologies like machine learning and artificial intelligence."
+    publishedDateTime: 2020-11-04T10:34:00Z
+    webUrl: "https://www.ciol.com/intel-acquires-cnvrg-io-enhance-ml-ai-capabilities/"
+    ampWebUrl: "https://www.ciol.com/intel-acquires-cnvrg-io-enhance-ml-ai-capabilities/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/intel-acquires-cnvrg-io-enhance-ml-ai-capabilities/amp/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 78
+    images:
+      - url: "https://www.ciol.com/wp-content/uploads/2019/08/Intel-AI.jpg"
+        width: 850
+        height: 400
+        isCached: true
   - title: "Intel acquires Cnvrg.io to boost AI, ML operations"
     excerpt: "Chip maker Intel has acquired Israel-based full-stack data science platform Cnvrg.io to double down on its machine learning and AI operations."
     publishedDateTime: 2020-11-04T06:35:00Z
@@ -40,22 +56,17 @@ related:
         width: 650
         height: 415
         isCached: true
-  - title: "Intel acquires Cnvrg.io to enhance ML and AI capabilities"
-    excerpt: "Intel has yet again acquired another startup to upgrade its automation capabilities in technologies like machine learning and artificial intelligence."
-    publishedDateTime: 2020-11-04T10:34:00Z
-    webUrl: "https://www.ciol.com/intel-acquires-cnvrg-io-enhance-ml-ai-capabilities/"
-    ampWebUrl: "https://www.ciol.com/intel-acquires-cnvrg-io-enhance-ml-ai-capabilities/amp/"
-    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/intel-acquires-cnvrg-io-enhance-ml-ai-capabilities/amp/"
+  - title: "Intel (INTC) Spruces Up AI Capabilities to Challenge AMD & NVDA"
+    excerpt: "Intel INTC has reportedly acquired Cnvrg.io — an Israel-based company that specializes in development of advanced machine learning (ML) models. The TechCrunch article, citing confirmation from an Intel’s spokesperson,"
+    publishedDateTime: 2020-11-05T15:41:00Z
+    webUrl: "https://www.nasdaq.com/articles/intel-intc-spruces-up-ai-capabilities-to-challenge-amd-nvda-2020-11-05"
+    ampWebUrl: "https://www.nasdaq.com/articles/intel-intc-spruces-up-ai-capabilities-to-challenge-amd-nvda-2020-11-05?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/intel-intc-spruces-up-ai-capabilities-to-challenge-amd-nvda-2020-11-05?amp"
     type: article
     provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 76
-    images:
-      - url: "https://www.ciol.com/wp-content/uploads/2019/08/Intel-AI.jpg"
-        width: 850
-        height: 400
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "Intel Buys Another AI Startup"
     excerpt: "Intel Corp. has quietly acquired another AI platform developer, Israeli-based Cnvrg.io. The acquisition, confirmed by Intel late Tuesday (Nov. 3) to the"
     publishedDateTime: 2020-11-04T17:27:00Z

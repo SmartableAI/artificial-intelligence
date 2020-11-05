@@ -69,22 +69,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 59
-  - title: "How machine learning and 4D analytics can protect Australians from financial fraud"
-    excerpt: "While COVID-19 is changing the face of reality on a global scale, it is also bringing many Australians unprecedented financial struggles. Unfortunately, we are also seeing a rise in financial crimes and identity theft as scammers target Australian families,"
-    publishedDateTime: 2020-11-05T03:04:00Z
-    webUrl: "https://dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html"
-    ampWebUrl: "https://dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html?amp"
-    cdnAmpWebUrl: "https://dynamicbusiness-com-au.cdn.ampproject.org/c/s/dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html?amp"
-    type: article
-    provider:
-      name: Dynamic Business
-      domain: dynamicbusiness.com.au
-    quality: 55
-    images:
-      - url: "https://dynamicbusiness.com.au/wp-content/uploads/2020/11/Untitled-design-2020-11-05T135149.144-696x392.png"
-        width: 696
-        height: 392
-        isCached: true
   - title: "Google partners with Knowlarity to expand its speech analytics platform in India"
     excerpt: "Google has partnered with Singapore-headquartered cloud telephony firm Knowlarity to expand its speech recognition and analytics services in India."
     publishedDateTime: 2020-11-03T06:33:00Z
@@ -115,6 +99,15 @@ related:
         width: 880
         height: 440
         isCached: true
+  - title: "How machine learning and 4D analytics can protect Australians from financial fraud"
+    excerpt: "While COVID-19 is changing the face of reality on a global scale, it is also bringing many Australians unprecedented financial struggles. Unfortunately, we are also seeing a rise in financial crimes and identity theft as scammers target Australian families,"
+    publishedDateTime: 2020-11-05T03:04:00Z
+    webUrl: "https://dynamicbusiness.com.au/topics/news/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html"
+    type: article
+    provider:
+      name: Dynamic Business
+      domain: dynamicbusiness.com.au
+    quality: 15
   - title: "Discover Announces New Data & Analytics Organization"
     excerpt: "Discover Financial Services (NYSE: DFS) announced on Tuesday the launch of its new Data and Analytics (DNA) organization. Discover revealed that the new organization represents its commitment to technological advancement in financial services with a focus on customer engagement and marketing technologies."
     publishedDateTime: 2020-11-03T11:40:00Z

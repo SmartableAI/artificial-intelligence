@@ -73,20 +73,6 @@ related:
         width: 3584
         height: 1832
         isCached: true
-  - title: "Self-Driving RC Truck Is A Master’s Thesis In Cybernetics And Robotics"
-    excerpt: "RC cars are a fun pastime, but for many hackers, taking things to the next level involves making the cars drive themselves. For his Masters thesis, [Jon] did just that, building a self-driving"
-    publishedDateTime: 2020-10-31T23:40:00Z
-    webUrl: "https://hackaday.com/2020/10/31/self-driving-rc-truck-is-a-masters-thesis-in-cybernetics-and-robotics/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 56
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2020/10/autotruck800.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "The Robots Are Coming To Miami: Ford Rolls Out Self-Driving Car Outpost"
     excerpt: "Ford Autonomous Vehicles, a subsidiary of Ford Motor Cos., announced last week that it will be opening a command center west of Miami International Airport, a key step in the company's goal to offer ride-hailing and commercial delivery services by 2022."
     publishedDateTime: 2020-11-04T19:29:00Z

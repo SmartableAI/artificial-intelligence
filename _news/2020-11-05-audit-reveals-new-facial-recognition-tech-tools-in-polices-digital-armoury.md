@@ -57,6 +57,20 @@ related:
         width: 612
         height: 355
         isCached: true
+  - title: "Global Face Recognition Turnstile Market Size 2026 In-Depth Analysis of the Segmentation Which Comprises Product Type and Applications"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Face Recognition Turnstile"
+    publishedDateTime: 2020-11-03T02:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-turnstile-market-size-2026-in-depth-analysis-of-the-segmentation-which-comprises-product-type-and-applications-2020-11-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "9n/ahjbflWCaTTJi3YkKF2n1V46uoK/xSdjE/l9wv4wkNIxYsCIc3cqmA9F1XjU8u5/ShkWFWavZk0HV5LAJKjqH9q7p1Ti0YCDRoKc/CwumM8bEAkEU0mwMwOp8B9nRduRKqQ+jHMCuqDgo23jeb6RnNH2hep2+xWpYJOK2BbvP9pq0aQYXYOXTg4+wVbYK5qmklb1lyQSBB2AtMA4vwsTIQmAC7fJsJedVU38O9uDtVFTcJLiSPYuSkwMg4SBpLVWa9deB+4yynwM49H31UojaSPblT74pIjgySPsbt+h3cFGGK68zFAQSi26pHsGw7bxrT6I/JdLoKPXW+22QI9osT5hqqiqLYD21p2lGPZk=;/rlnzE4lRZ6lH+M7KnUYhA=="
 ---

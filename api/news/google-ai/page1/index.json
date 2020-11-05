@@ -2,6 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-05-the-cutting-edge-computer-architecture-thats-changing-the-ai-game-vb-live.md",
+      "title": "The cutting-edge computer architecture that’s changing the AI game (VB Live)",
+      "excerpt": "Large amounts of data, the arrival of industry-standard frameworks such as TensorFlow and PyTorch, and the death of Moore’s Law, are all signs that it’s time for the next generation of ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/05/the-cutting-edge-computer-architecture-thats-changing-the-ai-game-vb-live/",
+      "originalUrl": "https://venturebeat.com/2020/11/05/the-cutting-edge-computer-architecture-thats-changing-the-ai-game-vb-live/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/data.GettyImages-1179285880.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/05/the-cutting-edge-computer-architecture-thats-changing-the-ai-game-vb-live/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/05/the-cutting-edge-computer-architecture-thats-changing-the-ai-game-vb-live/amp/",
+      "publishedDateTime": "2020-11-05T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-breaking-down-global-barriers-to-access.md",
+      "title": "Breaking down global barriers to access",
+      "excerpt": "Were delighted to announce that we are expanding our programme to support scholars in many more countries currently underrepresented in AI,",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.com/blog/article/breaking-down-global-barriers-to-access",
+      "originalUrl": "https://deepmind.com/blog/article/breaking-down-global-barriers-to-access",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/ADneYf8LGmDTetYpE7YFQDptGEB3fFekeAME77R2ybUU-jft2PlgQsfJXn8hmThwTX6hU6ZdV5hpYeDAAkyMphyXvp_mP3HJqTFqqg",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-04T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-alphabets-project-amber-leverages-ai-to-identify-brain-wave-data-relevant-to-anxiety-and-depression.md",
       "title": "Alphabet’s Project Amber leverages AI to identify brain wave data relevant to anxiety and depression",
       "excerpt": "Alphabet's X lab developed hardware and software that attempted to diagnose depression and anxiety from brain wave readings.",
@@ -1393,85 +1498,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-grid-ai-from-the-makers-of-pytorch-lightning-emerges-from-stealth-with-186m-series-a-to-close-the-gap-between-ai-research-and-production.md",
-      "title": "Grid AI, From the Makers of PyTorch Lightning, Emerges From Stealth With $18.6m Series A to Close the Gap Between AI Research and Production",
-      "excerpt": "While doing his PhD at NYU and part-time at Facebook AI Research, Falcon created PyTorch Lightning, one of the fastest growing machine learning frameworks in the world, amassing over 600k ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201008005227/en/Grid-AI-From-the-Makers-of-PyTorch-Lightning-Emerges-From-Stealth-With-18.6m-Series-A-to-Close-the-Gap-Between-AI-Research-and-Production",
-      "originalUrl": "https://www.businesswire.com/news/home/20201008005227/en/Grid-AI-From-the-Makers-of-PyTorch-Lightning-Emerges-From-Stealth-With-18.6m-Series-A-to-Close-the-Gap-Between-AI-Research-and-Production",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201008005227/en/828546/23/sisters_SymWord_1128x191_%281%29.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-latest-articles-on-tensorflow.md",
-      "title": "Latest articles on TensorFlow",
-      "excerpt": "Learning from its failure to turn the Schabir Shaik conviction into one for Jacob Zuma, the state is now building an effective system for catching thieves. Khaya Koko, Sabelo Skiti and Paddy ...",
-      "sourceUrl": null,
-      "webUrl": "https://mg.co.za/tag/tensorflow/",
-      "originalUrl": "https://mg.co.za/tag/tensorflow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "mg.co.za",
-        "domain": "mg.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
       ]
     }
   ],

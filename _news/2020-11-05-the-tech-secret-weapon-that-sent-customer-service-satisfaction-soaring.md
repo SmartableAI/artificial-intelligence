@@ -6,6 +6,9 @@ publishedDateTime: 2020-11-05T13:00:00Z
 originalUrl: "https://www.techrepublic.com/article/the-tech-secret-weapon-that-sent-customer-service-satisfaction-soaring/"
 webUrl: "https://www.techrepublic.com/article/the-tech-secret-weapon-that-sent-customer-service-satisfaction-soaring/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: TechRepublic

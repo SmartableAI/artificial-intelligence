@@ -6,6 +6,9 @@ publishedDateTime: 2020-11-05T12:00:00Z
 originalUrl: "https://www.genengnews.com/news/artificial-intelligence-may-potentially-improve-breast-cancer-screening/"
 webUrl: "https://www.genengnews.com/news/artificial-intelligence-may-potentially-improve-breast-cancer-screening/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: GEN

@@ -2,6 +2,93 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-03-independent-research-firms-position-ibm-as-a-leader-in-managed-security-services.md",
+      "title": "Independent Research Firms Position IBM as a Leader in Managed Security Services",
+      "excerpt": "PRNewswire/ -- IBM (NYSE: IBM) announced today that the company has been recognized as a Leader in three market",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/independent-research-firms-position-ibm-as-a-leader-in-managed-security-services-1029753751",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/independent-research-firms-position-ibm-as-a-leader-in-managed-security-services-1029753751",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/independent-research-firms-position-ibm-as-a-leader-in-managed-security-services-1029753751",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/independent-research-firms-position-ibm-as-a-leader-in-managed-security-services-1029753751",
+      "publishedDateTime": "2020-11-02T12:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-grocery-fulfillment-tech-provider-ocado-goes-all-in-on-robotics.md",
+      "title": "Grocery Fulfillment Tech Provider Ocado Goes All in on Robotics",
+      "excerpt": "Ocado Group, a UK-based technology company providing end-to-end online grocery fulfilment solutions, has acquired two North America-based robotics companies — Kindred Systems and Haddington Dynamics — to accelerate its investment in robotics for picking and packing groceries.",
+      "sourceUrl": null,
+      "webUrl": "https://retailtouchpoints.com/features/mergers-and-acquisitions/grocery-fulfillment-tech-provider-ocado-goes-all-in-on-robotics",
+      "originalUrl": "https://retailtouchpoints.com/features/mergers-and-acquisitions/grocery-fulfillment-tech-provider-ocado-goes-all-in-on-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://retailtouchpoints.com/wp-content/uploads/2020/11/Robotics.jpg",
+          "width": 1108,
+          "height": 730,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://retailtouchpoints.com/features/mergers-and-acquisitions/grocery-fulfillment-tech-provider-ocado-goes-all-in-on-robotics/amp",
+      "cdnAmpWebUrl": "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/features/mergers-and-acquisitions/grocery-fulfillment-tech-provider-ocado-goes-all-in-on-robotics/amp",
+      "publishedDateTime": "2020-11-02T11:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Retail TouchPoints",
+        "domain": "retailtouchpoints.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-upgrad-sees-demand-in-digital-marketing-artificial-intelligence-machine-learning-courses.md",
       "title": "upGrad sees demand in digital marketing, artificial intelligence, machine learning courses",
       "excerpt": "Online career education company upGrad has seen rising demand for courses in the areas of Digital Marketing, Data Science, Machine Learning and Artifi",
@@ -188,6 +275,48 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-artificial-intelligence-ai-automation-cognitive-insight-breaking-the-business-mold.md",
+      "title": "Artificial Intelligence (AI) Automation & Cognitive Insight Breaking The Business Mold",
+      "excerpt": "Artificial intelligence (AI) delivers big time business benefits when it comes to capabilities. Automation and cognitive insight being among the top types of AI businesses utilize. Did you know that 37 percent of businesses and organizations have implemented artificial intelligence in some way?",
+      "sourceUrl": null,
+      "webUrl": "https://thetechportal.com/artificial-intelligence-ai-automation-cognitive-insight-breaking-the-business-mold/",
+      "originalUrl": "https://thetechportal.com/artificial-intelligence-ai-automation-cognitive-insight-breaking-the-business-mold/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thetechportal.com/wp-content/uploads/2019/06/tp-website-header-logo-e1590226509506.png",
+          "width": 500,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thetechportal.com/artificial-intelligence-ai-automation-cognitive-insight-breaking-the-business-mold/?amp",
+      "cdnAmpWebUrl": "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/artificial-intelligence-ai-automation-cognitive-insight-breaking-the-business-mold/?amp",
+      "publishedDateTime": "2020-11-02T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thetechportal.com",
+        "domain": "thetechportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -448,7 +577,7 @@
       "originalUrl": "https://www.roadtovr.com/microsoft-azure-kinect-commercial/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -543,7 +672,7 @@
       "originalUrl": "https://www.zdnet.com/video/c3-ai-on-tackling-crm-education-social-media-regulation-and-enterprise-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -736,6 +865,57 @@
       ]
     },
     {
+      "path": "_news/2020-11-02-ai-can-detect-asymptomatic-covid-19-infections-by-listening-to-a-cough.md",
+      "title": "AI can detect asymptomatic COVID-19 infections by listening to a cough",
+      "excerpt": "MIT has invented a tool that uses artificial intelligence to identify those with asymptomatic COVID-19 infections. Asymptomatic people are the most difficult to detect and can spread the infection",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/ai-can-detect-asymptomatic-covid-19-infections-by-listening-to-a-cough-02645368/",
+      "originalUrl": "https://www.slashgear.com/ai-can-detect-asymptomatic-covid-19-infections-by-listening-to-a-cough-02645368/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 317,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/11/cough.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/ai-can-detect-asymptomatic-covid-19-infections-by-listening-to-a-cough-02645368/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ai-can-detect-asymptomatic-covid-19-infections-by-listening-to-a-cough-02645368/amp/",
+      "publishedDateTime": "2020-11-02T02:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-02-health-artificial-intelligence-being-trained-to-predict-risk-of-developing-oral-cancer.md",
       "title": "Health: Artificial intelligence being trained to predict risk of developing oral cancer",
       "excerpt": "The diagnosis of oral cancer could be 'revolutionised' by using artificial intelligence to predict whether ... carries significant potential for saving lives and improving patient healthcare provision.' Mouth cancer, also known as oral cancer, is where ...",
@@ -776,6 +956,49 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-02-otterai-adds-live-captions-to-its-zoom-integration.md",
+      "title": "Otter.ai adds live captions to its Zoom integration",
+      "excerpt": "Video conferencing platform Zoom has unveiled an Otter.ai integration, providing users with access to live transcriptions and meeting notes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3539910/otterai-adds-live-captions-to-its-zoom-integration.html",
+      "originalUrl": "https://www.computerworld.com/article/3539910/otterai-adds-live-captions-to-its-zoom-integration.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/04/meeting6-100837792-large.jpg",
+          "width": 1200,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3539910/otterai-adds-live-captions-to-its-zoom-integration.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3539910/otterai-adds-live-captions-to-its-zoom-integration.amp.html",
+      "publishedDateTime": "2020-11-02T02:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -974,255 +1197,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-sk-telecom-offers-ai-voice-analysis-for-dementia-diagnosis.md",
-      "title": "SK Telecom offers AI voice analysis for dementia diagnosis",
-      "excerpt": "SK Telecom and Seoul National University College of Medicine have developed an artificial intelligence (AI) tool to help identify dementia earlier.  The AI tool analyses the voices of patients by having a 10-minute conversation with them to determine if they may have dementia,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/sk-telecom-offers-ai-voice-analysis-for-dementia-diagnosis/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/sk-telecom-offers-ai-voice-analysis-for-dementia-diagnosis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/11/02/f80ec592-7c98-46ce-b128-0641996858f7/skt-ai-3.jpg",
-          "width": 1600,
-          "height": 1067,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/sk-telecom-offers-ai-voice-analysis-for-dementia-diagnosis/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/sk-telecom-offers-ai-voice-analysis-for-dementia-diagnosis/",
-      "publishedDateTime": "2020-11-01T21:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-ai-projects-building-vs-buying-and-what-to-consider-with-diy.md",
-      "title": "AI Projects: Building Vs. Buying And What To Consider With DIY",
-      "excerpt": "AI is vital not only to short-term survival, but to prevailing in the marketplace and growing into the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/02/ai-projects-building-vs-buying-and-what-to-consider-with-diy/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/02/ai-projects-building-vs-buying-and-what-to-consider-with-diy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9c2ffccbda05987ab38586%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/02/ai-projects-building-vs-buying-and-what-to-consider-with-diy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/02/ai-projects-building-vs-buying-and-what-to-consider-with-diy/amp/",
-      "publishedDateTime": "2020-11-01T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-artificial-intelligence-robots-market-outlook-by-size-share-future-growth-and-forecast-from-2020-2023.md",
-      "title": "Artificial Intelligence Robots Market Outlook By Size, Share, Future Growth And Forecast From 2020-2023",
-      "excerpt": "Global AI Robots Market Research Report - by Offering (Software, Hardware), by Type (Service Robots, Industrial Robots),",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-outlook-by-size-share-future-growth-and-forecast-from-2020-2023-2020-11-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-outlook-by-size-share-future-growth-and-forecast-from-2020-2023-2020-11-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-01T18:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-ai-artificial-intelligence-lessons-from-the-world-series.md",
-      "title": "AI (Artificial Intelligence) Lessons From The World Series",
-      "excerpt": "So in light of all this, what are the lessons here? To answer this question, I asked some top people in the AI field and here’s what they had to say: Hindsight is always 20/20, but Cash’s decision to pull Snell illustrates the myopia that can occur when analytics are elevated above commonsense.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/01/ai-artificial-intelligence-lessons-from-the-world-series/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/01/ai-artificial-intelligence-lessons-from-the-world-series/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9ef353188dd3a517f19ceb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2715%26cropY1%3D122%26cropY2%3D1651",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/01/ai-artificial-intelligence-lessons-from-the-world-series/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/11/01/ai-artificial-intelligence-lessons-from-the-world-series/amp/",
-      "publishedDateTime": "2020-11-01T10:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-amd-will-share-more-info-on-radeon-rx-6000-gpus-ray-tracing-and-ai-supersampling-tech.md",
-      "title": "AMD will share more info on Radeon RX 6000 GPU’s Ray Tracing and AI Supersampling tech",
-      "excerpt": "AMD’s Frank Azor just confirmed that AMD will provide more information about ray tracing and AI super sampling tech before the RX 6000 launch date.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dsogaming.com/news/amd-will-share-more-info-on-radeon-rx-6000-gpus-ray-tracing-and-ai-supersampling-tech/",
-      "originalUrl": "https://www.dsogaming.com/news/amd-will-share-more-info-on-radeon-rx-6000-gpus-ray-tracing-and-ai-supersampling-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dsogaming.com/wp-content/uploads/2020/09/AMD-RDNA-2-temp.jpg",
-          "width": 1260,
-          "height": 709,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dsogaming.com/news/amd-will-share-more-info-on-radeon-rx-6000-gpus-ray-tracing-and-ai-supersampling-tech/amp/",
-      "cdnAmpWebUrl": "https://www-dsogaming-com.cdn.ampproject.org/c/s/www.dsogaming.com/news/amd-will-share-more-info-on-radeon-rx-6000-gpus-ray-tracing-and-ai-supersampling-tech/amp/",
-      "publishedDateTime": "2020-11-01T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dark Side Of Gaming",
-        "domain": "dsogaming.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -62,7 +62,7 @@
       "originalUrl": "https://www.roadtovr.com/microsoft-azure-kinect-commercial/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -924,6 +924,40 @@
       ]
     },
     {
+      "path": "_news/2020-10-22-deque-releases-axe-accessibility-testing-tool-for-microsofts-new-edge-browser.md",
+      "title": "Deque Releases Axe Accessibility Testing Tool for Microsoft’s New Edge Browser",
+      "excerpt": "HERNDON, Va.--(BUSINESS WIRE)--Deque Systems, the trusted leader in digital accessibility, today announced the release of the axe accessibility testing tool for Microsoft’s new Edge web browser.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201022005403/en/Deque-Releases-Axe-Accessibility-Testing-Tool-for-Microsoft’s-New-Edge-Browser",
+      "originalUrl": "https://www.businesswire.com/news/home/20201022005403/en/Deque-Releases-Axe-Accessibility-Testing-Tool-for-Microsoft’s-New-Edge-Browser",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-22T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-congruity360-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "Congruity360 Now Available in the Microsoft Azure Marketplace",
       "excerpt": "Congruity360, data governance and storage leader, today announced the availability of Classify360 in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure.",
@@ -1362,59 +1396,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-lux-backed-flex-logix-announces-availability-of-its-fast-and-cheap-x1-ai-chip-for-the-edge.md",
-      "title": "Lux-backed Flex Logix announces availability of its fast and cheap X1 AI chip for the edge",
-      "excerpt": "In the computing world, there are probably more types of chips available than your local supermarket snack aisle. Diverse computing environments (data centers and the cloud, edge, mobile devices, IoT,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/20/flex-logix-chip-availability/",
-      "originalUrl": "https://techcrunch.com/2020/10/20/flex-logix-chip-availability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1161355655.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/20/flex-logix-chip-availability/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/20/flex-logix-chip-availability/amp/",
-      "publishedDateTime": "2020-10-20T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

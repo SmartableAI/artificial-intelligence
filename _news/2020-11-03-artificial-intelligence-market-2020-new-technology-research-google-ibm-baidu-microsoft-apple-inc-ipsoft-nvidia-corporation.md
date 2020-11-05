@@ -83,6 +83,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Self-driving car start-up Wayve deploys Microsoft Azure cloud technology"
+    excerpt: "Cambridge, UK-based Wayve, developer of AI software for self-driving cars, has signed a contract with Microsoft for use of the Azure cloud"
+    publishedDateTime: 2020-11-05T13:07:00Z
+    webUrl: "https://www.telecompaper.com/news/self-driving-car-start-up-wayve-deploys-microsoft-azure-cloud-technology--1360668"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 33
 
 secured: "lOWJp9crfn43HF5vlj/uhBBYJTnQuFqrgaKX5Ku8+fNNi1T+J3J0jiZiao54M7D9a1RiqlCMQhZuM/PVD0P9BmpxGu9gPm1Fn+rgnna+3OqdFacxdCmWhJNbNOYE2n/Uudsp3pVz0EoIaHdvFiqu39gO66osH4+nUu5/1Iatrkq6VifCmNJ8QaTKQBGc/h7nOuISII1jeS33cR2YTXBnKM2ldpl0FRZUWsYanfzGlETEcdCSF0uY1T0BSfyi7asqNLaqojWXybsRzAVP/eVBzCbLwGNUR7qfgeh8IgcmVWQluh+C577zh+eMT67gtQRexDinTyX065/1Dpl9E503PCdG++QcKi2UpPYjtOdwpHE=;Fj5jeDdrPKJx84htI77t7A=="
 ---

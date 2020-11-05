@@ -6,6 +6,9 @@ publishedDateTime: 2020-11-05T13:12:00Z
 originalUrl: "https://www.wsj.com/articles/plant-based-milk-built-by-machine-learning-hits-whole-foods-shelves-11604572200"
 webUrl: "https://www.wsj.com/articles/plant-based-milk-built-by-machine-learning-hits-whole-foods-shelves-11604572200"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Wall Street Journal

@@ -6,6 +6,9 @@ publishedDateTime: 2020-11-05T13:00:00Z
 originalUrl: "https://www.fiercebiotech.com/medtech/deep-genomics-nabs-a-cbo-from-synlogics-as-it-looks-to-ramp-up-partnering"
 webUrl: "https://www.fiercebiotech.com/medtech/deep-genomics-nabs-a-cbo-from-synlogics-as-it-looks-to-ramp-up-partnering"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: FierceBiotech

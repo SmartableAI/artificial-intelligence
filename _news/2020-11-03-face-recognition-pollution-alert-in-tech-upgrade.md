@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/city/noida/face-recognition-pollution-ale
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/amp_articleshow/79008997.cms"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/ai-stadium-security-920.jpg"
         width: 612
         height: 355
+        isCached: true
+  - title: "Global Face Recognition Turnstile Market Size 2026 In-Depth Analysis of the Segmentation Which Comprises Product Type and Applications"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Face Recognition Turnstile"
+    publishedDateTime: 2020-11-03T02:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-turnstile-market-size-2026-in-depth-analysis-of-the-segmentation-which-comprises-product-type-and-applications-2020-11-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Audit reveals new facial recognition tech tools in police's digital armoury"
     excerpt: "A police stocktake triggered by a controversial trial of facial recognition technology has revealed what law enforcement is adding to its digital armoury. It lists more than a dozen investigative tech tools,"

@@ -23,6 +23,22 @@ images:
     height: 785
     isCached: true
 
+related:
+  - title: "LogicMonitor Named a Strong Performer in Artificial Intelligence for IT Operations by ..."
+    excerpt: "(GLOBE NEWSWIRE) -- LogicMonitor, the leading cloud-based IT infrastructure monitoring and observability platform for enterprises and Managed Service Providers (MSPs), today announced it has been named a Strong Performer in “ The Forrester Wave™: Artificial Intelligence For IT Operations,"
+    publishedDateTime: 2020-11-03T17:03:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-new-products-and-services-1b26ea8ab66dd42cf8a60c28e1c20c35"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "BycNve8OTv5RuoRPaIJ8Ckw/s0Unyp+QPPmqGSm1GXpAkoVWofySfLzOIBHLdB2h4VYxRfzZzXX8CaAcZFPBgWMXUMW3N70dM3Jr0CZ3+Tsy3MS8pvYOtI+r9UcTtQtu7/xDmnqHpwOMN0HZGzT/cdyp3fKYXdhwsf+wuuGfqD4TFnMtafgsT0rXypBJMvs0ZbMJpJUXXbUjHxduR8WcysZhJvo55o0bdiOQlfTeGCvHavkouCntw32j4ewAeizoqpslyBE0sfHR7yQRabYgSNTYBCJyxH80Lvh4gvfeEgnFI8LPxj8FpqjcqvBohn5l7CuUE6ItWNZUqkooe13ZX2S2QFcvzlLQnGbtxp6+jfc=;1G1BRmasu00scsuO3Q8FKg=="
 ---
 

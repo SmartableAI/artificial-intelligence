@@ -9,8 +9,8 @@ ampWebUrl: "https://thetechportal.com/artificial-intelligence-ai-automation-cogn
 cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/artificial-intelligence-ai-automation-cognitive-insight-breaking-the-business-mold/?amp"
 type: article
 quality: 64
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: thetechportal.com
@@ -24,6 +24,22 @@ images:
     width: 500
     height: 275
     isCached: true
+
+related:
+  - title: "Animal Cognition Induces Common Sense in Artificial Intelligence Agents"
+    excerpt: "Reinforcement learning models which are trained using the same approach of animal cognitive abilities with rewards, urges common sense into artificial intelligence."
+    publishedDateTime: 2020-11-02T13:30:00Z
+    webUrl: "https://www.analyticsinsight.net/animal-cognition-induces-common-sense-in-artificial-intelligence-agents/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Artificial-Intelligence-1.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "goAzJ/+au3kaK7Fvys2B8l9W4uDI5BLqIf0xHRLE9fW8ynqeJEYS1cqLxU2mXBWSP9/co2w50zD6hhmuZQ500KBqqNmBso4OJECGHdnH85peOhbNzpLXs5poBcdiVIFlcs/iPAVb/0b7q2BocG+m0G/E2VJwq8eAHulDeHBDsJqFSQq/wrYh6hf+2vYJsL+7TvH/1FZpHNqNg/lAnNH19pyqdjWeC1vnqrMln5kovrtMsbE6FpwNWOucLNWbDYfE9MQj1xV04tzpz7bmvwvd8zZyO/nYElXfOw2vDtF6jv9H9WBdabNR6rrjqyJhMBVo61IA3GPPawyMTdOTjo+28PdcIUp+kRrcL6/6zbUwyVo=;1ThWaN1fruSy/S1pOc9Czw=="
 ---

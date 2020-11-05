@@ -9,7 +9,7 @@ ampWebUrl: "https://www.roadtovr.com/microsoft-azure-kinect-commercial/amp/"
 cdnAmpWebUrl: "https://www-roadtovr-com.cdn.ampproject.org/c/s/www.roadtovr.com/microsoft-azure-kinect-commercial/amp/"
 type: article
 quality: 88
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -79,6 +79,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Self-driving car start-up Wayve deploys Microsoft Azure cloud technology"
+    excerpt: "Cambridge, UK-based Wayve, developer of AI software for self-driving cars, has signed a contract with Microsoft for use of the Azure cloud"
+    publishedDateTime: 2020-11-05T13:07:00Z
+    webUrl: "https://www.telecompaper.com/news/self-driving-car-start-up-wayve-deploys-microsoft-azure-cloud-technology--1360668"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 33
 
 secured: "mobyA9iLT/umY+Mt40TqvcjQlmcaxQGEm1ra5idKhKx186pzHIBmYie591Fc1fLmoXqDcCpX6+4meBXpzJ30MaDbvn5sKespSOZYQUMLv9FaBpsSBZyFWDHc6kPiAEwZwytzjpvQSDqtXZJJy+IhJInPE2GdcxG2A05oP9VlbistFDdUSEK4YA5CH1hsqgFx8ygQ8UokrzVLvjDiCINgXHZOXCFql5nbKaukMUi0lD0DGYnbj9EyLdpv7U2le3dqX4LQD7f+r3xIGOS/+ZjrSmdAvM+GZF/5jtXqU3MJDErlkNAaw4v1lZncdaBtNKjSe9BtM7N21a2udHIB57NAzcDhIaAVa7g5QDCpDv4wrROxHS5xHu3CJ6cxCBXDxqkO35+kD1mEES3HDm2BDZwvxkiLthPgCqo56lRaDYb4lIa4mMViTaqBEpXzPud+DkuQAjbef9pwh88EA9ro+coqIuCqsEG9hjLDXew2G8C7x6lz1YGfE04Vs4EmrEX9FQrq9f+2HoITRwNdM3N1dAPiKA==;gHHCaaCcSZ2nqcOzwnLnsg=="
 ---

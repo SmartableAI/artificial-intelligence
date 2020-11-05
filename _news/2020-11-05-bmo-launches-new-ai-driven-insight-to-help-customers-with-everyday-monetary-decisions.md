@@ -6,6 +6,9 @@ publishedDateTime: 2020-11-05T13:30:00Z
 originalUrl: "https://www.bloomberg.com/press-releases/2020-11-05/bmo-launches-new-ai-driven-insight-to-help-customers-with-everyday-monetary-decisions"
 webUrl: "https://www.bloomberg.com/press-releases/2020-11-05/bmo-launches-new-ai-driven-insight-to-help-customers-with-everyday-monetary-decisions"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: Bloomberg

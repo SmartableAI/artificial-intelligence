@@ -36,20 +36,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 17
-  - title: "United States Data Center Construction Markets, 2020-2025 - Growing Cloud Applications, AI, and Big Data & Rising Adoption of Hyperscale Data Centers"
-    excerpt: "The \"United States Data Center Construction Market - Growth, Trends, and Forecasts (2020 - 2025)\" report has been added"
-    publishedDateTime: 2020-11-02T11:45:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/united-states-data-center-construction-markets-2020-2025---growing-cloud-applications-ai-and-big-data--rising-adoption-of-hyperscale-data-centers-301164782.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
-    images:
-      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
 
 secured: "ausY1yDtJSdTnnFw2CbvgfCdLH+SH1mnwWWeysTjXAVjUgL2u3eIvrZWQeSbMqJceiQMWTQp78jvI7BFKv9ofJEb0rOTsR9LEBzpL+5UpInzNCGzJUzwT68imndpQngLRN6gPDViifWG+67bBDyFIXRVYGiJOKk+bRgdr6IyQXFQpeORAwHc6T8+3giM/33dWqGwDah7qy2zf5D/9bhXAbkthIkRjUDvkpbs9pAECcofFGv4Ulo7lQHWy7wypzEk2UKYaSk9uEfMcOU4dhnUilnNv7lzV7r59jvdwt9orjczGXwM/BscHz9NoGCqD8qmPSV5K4kilM1d6OdpMteGxZgeontOClVBUmxJEekBXJM=;c4IlcfFaUlmPZz/HOAvntQ=="
 ---

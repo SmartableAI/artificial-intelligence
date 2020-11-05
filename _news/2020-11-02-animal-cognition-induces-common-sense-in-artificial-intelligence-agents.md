@@ -25,53 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Insights Into AI Adoption In The Federal Government"
-    excerpt: "Over the course of the past few years, governments around the world have taken strong positions on advancing their strategies around AI adoption. Certainly heading into the new year it seems that the pace of adoption won’t be slowing any time soon."
-    publishedDateTime: 2020-10-31T20:24:00Z
-    webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/10/31/insights-into-ai-adoption-in-the-federal-government/"
-    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/10/31/insights-into-ai-adoption-in-the-federal-government/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/10/31/insights-into-ai-adoption-in-the-federal-government/amp/"
+  - title: "Artificial Intelligence (AI) Automation & Cognitive Insight Breaking The Business Mold"
+    excerpt: "Artificial intelligence (AI) delivers big time business benefits when it comes to capabilities. Automation and cognitive insight being among the top types of AI businesses utilize. Did you know that 37 percent of businesses and organizations have implemented artificial intelligence in some way?"
+    publishedDateTime: 2020-11-02T16:40:00Z
+    webUrl: "https://thetechportal.com/artificial-intelligence-ai-automation-cognitive-insight-breaking-the-business-mold/"
+    ampWebUrl: "https://thetechportal.com/artificial-intelligence-ai-automation-cognitive-insight-breaking-the-business-mold/?amp"
+    cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/artificial-intelligence-ai-automation-cognitive-insight-breaking-the-business-mold/?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: thetechportal.com
+      domain: thetechportal.com
+    quality: 64
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9dc70191dd4d1b88ff7961%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D500%26cropY1%3D39%26cropY2%3D320"
+      - url: "https://thetechportal.com/wp-content/uploads/2019/06/tp-website-header-logo-e1590226509506.png"
         width: 500
-        height: 281
-        isCached: true
-  - title: "The State Of AI Adoption In Financial Services"
-    excerpt: "IDC predicts worldwide revenues for artificial i (AI) software, hardware and services will reach $156.5B in 2020, increasing 12.3% over 2019. The global AI finte"
-    publishedDateTime: 2020-10-31T23:26:00Z
-    webUrl: "https://www.forbes.com/sites/louiscolumbus/2020/10/31/the-state-of-ai-adoption-in-financial-services/"
-    ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/10/31/the-state-of-ai-adoption-in-financial-services/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/10/31/the-state-of-ai-adoption-in-financial-services/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9da9913b4215b47e037243%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5798%26cropY1%3D0%26cropY2%3D4300"
-        width: 1200
-        height: 890
-        isCached: true
-  - title: "Otter.ai adds live captions to its Zoom integration"
-    excerpt: "Video conferencing platform Zoom has unveiled an Otter.ai integration, providing users with access to live transcriptions and meeting notes."
-    publishedDateTime: 2020-11-02T10:05:00Z
-    webUrl: "https://www.computerworld.com/article/3539910/otterai-adds-live-captions-to-its-zoom-integration.html"
-    ampWebUrl: "https://www.computerworld.com/article/3539910/otterai-adds-live-captions-to-its-zoom-integration.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3539910/otterai-adds-live-captions-to-its-zoom-integration.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/04/meeting6-100837792-large.jpg"
-        width: 1200
-        height: 808
+        height: 275
         isCached: true
 
 secured: "yg0+XbAHE00ceP+sPMVhLPOmHiDYsOINJiCK2bSR6DQsnW4iVt53CVf3avSmk1FcSdqa43tzwWqHsBA+x/UE2uU/rV+/yoNthdORFPeAv8bY7YwMWnbxCuLAWxPWyQ1OzOARpJOGN2XFToWJe1Sw7N4gi/fGu1qGh3n91SqajBwQzytOvSrHcRXp1tdHIzOcoK+bOQHPT/rS0oFvI7Ros4nOxoUcwPfRtqeQEDUxyGJLtA+5+gAa90ctZxMFO+ZEjXKtN2ZkVa9eoXQoUbFzX6C+ME6b/tJV+eqE5YS5MtAg33QmW4HKmbVycIquP5IiUa4JnybVrB03u+0w8NjFhvS2+56wPjCM10OS3nHXPVtvvXDJ3ReNmX2yiigdTWJvHm2XU3gVMLQ/qT8+ILR6rFQ5nA4SQm90qijJBSIRQ0mmeHOX/tVzSVnxb2mCtKPPrHaK8j5ZWJiynabu2oFohvKzDqVN1+G/epYT43i8vOBRi2YAZiD7NMDX06SMH3lbrsA9buNFlohuaoeNWyVqgg==;mO90xyPLa5vCymjOSTWdsA=="

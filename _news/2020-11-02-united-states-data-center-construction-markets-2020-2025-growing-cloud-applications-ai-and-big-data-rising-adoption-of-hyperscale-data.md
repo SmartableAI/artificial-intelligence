@@ -24,31 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Global Cognitive Informatics Markets, 2020-2025 - Cognitive Informatics will become an Integral Component of Human-Machine Systems and Solutions"
-    excerpt: "The \"Cognitive Informatics Market by Technology, Solution, Sector, Industry Vertical, and Region 2020 - 2025\" report has been added to ResearchAndMarkets.com's offering. This report assesses the cognitive informatics market including technologies,"
-    publishedDateTime: 2020-11-02T17:22:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-cognitive-informatics-markets-2020-2025-cognitive-informatics-will-become-an-integral-component-of-human-machine-systems-and-solutions-1029753075"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/global-cognitive-informatics-markets-2020-2025-cognitive-informatics-will-become-an-integral-component-of-human-machine-systems-and-solutions-1029753075"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-cognitive-informatics-markets-2020-2025-cognitive-informatics-will-become-an-integral-component-of-human-machine-systems-and-solutions-1029753075"
+  - title: "Process Mining: An AI-Centric Approach To Cloud Migration"
+    excerpt: "Over the last decade, enterprises have seen unprecedented growth in cloud adoption. According to Gartner, the public cloud services market was anticipated to grow by 6.3% year on year in 2020, totaling almost $258 billion."
+    publishedDateTime: 2020-11-05T13:43:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/11/05/process-mining-an-ai-centric-approach-to-cloud-migration/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 17
-  - title: "Global Artificial Intelligence in Information and Communications Technology Markets, 2020-2025: Focus on Communications, Applications, Content, and Commerce ..."
-    excerpt: "The \"Artificial Intelligence in Information and Communications Technology: AI and Cognitive Computing in Communications, Applications, Content, and Commerce 2020 - 2025\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2020-11-03T09:19:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201103005275/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-    images:
-      - url: "https://mms.businesswire.com/media/20201103005275/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "/oRQwf6+ExBxQVjQTJn2Nfpp+q60UQ8l0Ia4T5jwrjW46hFQC3uyOlwPRl5yjLfwUlyoQEVIlVTbF/e2J39wPN63rUFzas5C0ApU8kxGrWRNBv+LFBDFnfERNd8yX4TUN+ZAvwUn9aEsScvZOpeJoWFdKcLhbXP7IKnvK188u8qajki+UvGO5QeArUCXdm2rsP6kx6OSyafb807c6J7UIhj04bSYs0YEuRK91+Yq25yhbXhdsV+xjLGCmXYllJ0HRTjk4fWWLJaXjuK4dIpDi6R7rwz5WUshscOgb6N7+ue/XsDwdNZSqvB3UrNFCy24rOb8tCItItoJf/VC1J1jZ85OK+H4ersg16Lryog1Xv4=;K2eGkA+6Rr75oSBggDksAg=="
 ---

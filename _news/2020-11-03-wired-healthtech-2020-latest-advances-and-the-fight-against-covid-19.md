@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medicalnewstoday.com/amp/articles/wired-healthtech-2020-
 cdnAmpWebUrl: "https://www-medicalnewstoday-com.cdn.ampproject.org/c/s/www.medicalnewstoday.com/amp/articles/wired-healthtech-2020-latest-advances-and-the-fight-against-covid-19"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 732
     height: 549
     isCached: true
+
+related:
+  - title: "The future of fintech beyond COVID-19"
+    excerpt: "By Ritam Gandhi, Founder and Director, Studio Graphene  COVID-19 has undoubtedly cemented our reliance on technology. With the unexpected shift to online working, shopping and entertaining, digital solutions have largely been the only means to overcome disruptions to our daily routines."
+    publishedDateTime: 2020-11-05T11:59:00Z
+    webUrl: "https://www.globalbankingandfinance.com/the-future-of-fintech-beyond-covid-19/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 24
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/11/Untitled-design-2020-11-05T165829.943.jpg"
+        width: 750
+        height: 422
+        isCached: true
 
 secured: "aP8+R2JMPL+xQTJ1M+Scgb3klRyf4AMAtgGTnvZkQfvuTpUX7zxvo1s59xHrVo/TkXvKlJOOq/8atE04hWLzEB+TSCrODhu7DYLL2xb2dnoGRHbkLfj92VXMkLAlZzkBjCZTjKMpDucwA8GmbIUlUiOJH6bbwZgOMZ1lpJ8NrApTsdNWSf4FtXuxpK6//oPv9AJ1jSD6Jio42QUWZ3s6iYWYW7Jc0a06Z+Gmdd2CBS3zoZZ5P+rUfwRlvIvlgj8oohOWahm8swhY/fb8E+AJXKO+u6/RtgM/l5m+ztcDrajl3+YewoJ8Q5vWGZyN/KKHG22lmsvzSj4sfXOvVLK3Yay/2EQTSpJp8Hh2XT88ogo=;TRt4XiDQLF/ZlMClVlX8IQ=="
 ---

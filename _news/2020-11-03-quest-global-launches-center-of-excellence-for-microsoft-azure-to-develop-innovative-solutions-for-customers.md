@@ -78,6 +78,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 53
+  - title: "Self-driving car start-up Wayve deploys Microsoft Azure cloud technology"
+    excerpt: "Cambridge, UK-based Wayve, developer of AI software for self-driving cars, has signed a contract with Microsoft for use of the Azure cloud"
+    publishedDateTime: 2020-11-05T13:07:00Z
+    webUrl: "https://www.telecompaper.com/news/self-driving-car-start-up-wayve-deploys-microsoft-azure-cloud-technology--1360668"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 33
 
 secured: "ZmzV3qskl6ACjX2Rv2JTbiQuUqxi5xcDh9glbSujHKMC85bwQXY6lkHRhdiOwFc6mXZ9STTx3E0nV10oVi3ebTd5B41NKS8DkGLNJgwMQ2ONm+jezsaZh4rbsJP7GbmmExSnJWz7no0q2lbDyXIefSSKvUeMp/0HrtlsQMWR71y741E0zNX6LJlI4UidqdboNgswl+2hg47v9rELqo5zo7/wQXGa8T+sfwCFYgHMGfBbffrgDz7XgCZwxp+rrmJxxpdu6NLwKJRrElWgHODwwrdQnLZOEstG9jqBqwbVAHJMTVwU3cV+UtGRDyA3pWTG2mO9OBPj/Z8h55NMJ6JQ+G0iN4OE1Tl8AF31pkg7ELA=;2CNFhQ1+p0d1Gj/2vKFeNA=="
 ---

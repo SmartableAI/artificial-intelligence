@@ -80,6 +80,15 @@ related:
         width: 300
         height: 247
         isCached: true
+  - title: "The Game-changing FinTech Company You Need to Know About"
+    excerpt: "Back in June, we introduced our Stockhouse investor audience to an emerging FinTech giant and took a deep dive into how this Canadian company is on the forefront of developing artificial intelligence (AI) that transforms data into knowledge."
+    publishedDateTime: 2020-11-05T14:28:00Z
+    webUrl: "https://stockhouse.com/opinion/interviews/2020/11/05/the-game-changing-fintech-company-you-need-to-know-about"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 4
 
 secured: "bti1iVtkbgURkxh+iyzjG5Pn7qVOdxyO4Jy1RjkVjF7ErITwdN8rngE+Ick4DPX6XYpzQxldsa7fgYChmqgBkbNYJ+FFTSv8M2bPz6EDR2atSheJCONEdBz4MRejyToFx2WjSvzaV25tusKTWGxIyka6cooRvoxT2yQv1T4EhUgvm3GxM8bRyym1XPUk+irsnQ7LP/56eoIvipWoW7i8X1AWfmDuQ1MKP3QYKwQXKFAR8UoKIRyEPzi2ZlG/+/8RAPC95a0Eu/I+QiIGD6NrGZ0Ls22o3iMB1gQ9fx0FZlrLVD6QP6ZtCPrTW2DEChY8cHtnk5Tks15n5czPlmW60Rtntx5ja2bd0JIk/BGBQn0zVQlfrL6Uwx0KgduIRNqkwpTyO2NrrHCzI0a+vWeRNW+zw2qrVUDXmFYIb4uAbcbMpylYZX41fQKKbKSABS1MuccnncxUxMeFi7a6jdUwJx+QgJo0mEwED3kvJ140E97LYQiAYXtxRc7BDNC3/rnVm5Crm5GEbCWNxC9cSpVtVA==;dg3pcCqMW7Oh3IgHcCEF9w=="
 ---

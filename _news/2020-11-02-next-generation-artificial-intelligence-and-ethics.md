@@ -52,6 +52,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 72
+  - title: "Microsoft Partners With Adobe and C3.ai on Advanced CRM"
+    excerpt: "Microsoft announced a partnership with Adobe and C3.ai to develop and market customized customer relationship management solutions."
+    publishedDateTime: 2020-11-05T16:46:00Z
+    webUrl: "https://www.investopedia.com/microsoft-partners-with-adobe-and-c3-ai-on-advanced-crm-5086030"
+    type: article
+    provider:
+      name: Investopedia
+      domain: investopedia.com
+    quality: 71
+    images:
+      - url: "https://www.investopedia.com/thmb/47JmigGS-lMsb_EEqQwguUpOIFE=/800x531/filters:fill(auto,1)/crm2-56a7dca13df78cf7729a0938.jpg"
+        width: 800
+        height: 531
+        isCached: true
 
 secured: "FgeFl/A/aunZJsTb2dJ1GZ1IRhCAHqQhh8ItDSaXktUUQdSie1hE//yP1u9KjuV6LYMXzrLATER5UW4uk0zji8AAcJOAO4kPoYw1m5rfrZ7D8ya0ppjk/hpgUR1MUmLZRj1stRzrHPrh+ntUYR4LiKpSSnxbfoNeOOVYDhNJaul0GE5kn8ooRDVG4GZ/buBlIWjJTs1ypkuxLypKGVE7i/FvOsZZ1VMBcSluHVguffpvlASriH/Q9ANW2FGfOR2NR9CRMgj5rH9Z9KsGYHjn3P1E0F8tfRtssT3Og5+N4KGx2TOhSvEKrpYy3AbLfkFn71isNX9qdq4ciNT/uZ622WSSXlcNok2jLE367i0CPZFGPg10hiHfyWfXu2p8BamZ2VIqRn7Rxb6ucdJKp20ZH/nnP97SMSjkaBij5KKL1d9ORWWl7W8r1UR430hUR7XnY8ZfwpWOljRt20ocGG/mLzhouuHIACvP8zB3PbmyOK37a8yQMY3+4UGmokLQ51O1FhsGahk5BYJw3aWNIpL07A==;61NV8tqNj1zQ8c9hHaev9A=="
 ---
