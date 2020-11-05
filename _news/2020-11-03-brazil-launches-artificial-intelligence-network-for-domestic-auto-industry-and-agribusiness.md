@@ -35,6 +35,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
+  - title: "Responsible Artificial Intelligence Research and Innovation for International Peace and Security"
+    excerpt: "General identified responsible research and innovation (RRI) in science and technology as an approach for academia, the private sector and governments to work on the mitigation of risks that are posed by new technologies."
+    publishedDateTime: 2020-11-05T10:09:00Z
+    webUrl: "https://reliefweb.int/report/world/responsible-artificial-intelligence-research-and-innovation-international-peace-and"
+    type: article
+    provider:
+      name: ReliefWeb
+      domain: reliefweb.int
+    quality: 41
+    images:
+      - url: "https://reliefweb.int/sites/reliefweb.int/files/styles/attachment-large/public/resources-pdf-previews/1542556-sipri_report_responsible_artificial_intelligence_research_and_innovation_for_international_peace_and_security_2011.png?itok=NeANyBxc"
+        width: 596
+        height: 842
+        isCached: true
   - title: "Brazil launches network on Artificial Intelligence applied to the auto industry and agribusiness sectors"
     excerpt: "The Brazilian government has announced the launch of a national innovation network focused on artificial intelligence (AI) with the aim of increasing the production capacity and competitiveness of local companies."
     publishedDateTime: 2020-11-03T08:28:00Z

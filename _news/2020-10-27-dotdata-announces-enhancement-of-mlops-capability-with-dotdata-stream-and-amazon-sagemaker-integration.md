@@ -1,7 +1,7 @@
 ---
 category: news
 title: "dotData Announces Enhancement of MLOps Capability with dotData Stream and Amazon SageMaker Integration"
-excerpt: "SAN MATEO, Calif., Oct. 27, 2020 /PRNewswire/ -- dotData, a leader in AutoML 2.0 software to help accelerate AI/ML development and operationalization for the enterprise, today announced that ..."
+excerpt: "Amazon SageMaker is a fully managed service that provides developers and data scientists with the ability to deploy machine learning (ML) models quickly. Now, with simple point-and-click ..."
 publishedDateTime: 2020-10-27T12:38:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration-301160215.html"
 webUrl: "https://www.prnewswire.com/news-releases/dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration-301160215.html"
@@ -12,9 +12,8 @@ provider:
   domain: prnewswire.com
 
 topics:
-  - Machine Learning
-  - AI
   - AWS AI
+  - AI
 
 images:
   - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
@@ -22,6 +21,6 @@ images:
     height: 315
     isCached: true
 
-secured: "B2O9d3fVF1rv+dpRXEh8kXhkJlv1RkF8Kkrg6m5ehT1irMdHo7BWqgmAv0gtN3ORosyiJC132gPvDLSH6LdknGWuvwVeuh9RbTEgre/JmJcdhc/zKZbuoe3bsYGH6k4EQFBKQHIQgB1rv0SLZbeRaFqj2lmEDfg76wJPwzdd+Z2KzlRssh4fIAcbMblbY+ICX1sRK870MpDaEHAKdxQbEOcpiCi/DXXfJc3tJ98zIjzxVvqaYaU4F+grAbdkaUanQDeY4MFX/hFpeN2g0jNvsLDNNIS8naLk2DAKAfhmlGZ3yDwztRUMvJ74StwAYXowY/FrdNOBV3k3bZfSg06kNbTPp5LswB+9tcg3oi+6k4s=;oMrWTBgnDrZt5XlIXLkN8g=="
+secured: "bMCVnmEVcpd7Atygn2u3TfImSBtvgXMX+TPoT4GXUv8NyIBmnHbToyGtPQQN990LADNU93WaTo4Js0EZ6ytRJVjsYtGGM831PKEugQLZ3mus8uZfkkT529TjsxIAboQGNakjAhrOAO8yAaGeoHEVamLxJdKSk3R8sH4jeOjGBy6su1iGXmsJtgIyv8/5gTptdYhE72KV2KpemWIDlzZCqZuglZSvGS2Hei+qV/QEC+h5qrRtBvFsC+4WvQnL0JBVy1Iq5R38DIwMorugcCjF0fu7pPYfRmQb5LxDBrWAyySPWfKbGx+/jgjD1C080+s1duRDPAASrTmB/+1rKPJplRKJSCQUR6atiItaioGmR8o=;dMOD1H43myy5llfAyMsNeg=="
 ---
 

@@ -42,21 +42,16 @@ related:
         height: 278
         isCached: true
   - title: "C3.ai CEO Tom Siebel on AI and CRM, remote learning's next breakthrough and regulating social media"
-    excerpt: "Tom Siebel caught up with ZDNet to talk about next-gen CRM systems, C3.ai's Digital Transformation Institute, COVID-19 data lakes, education's next innovation and why social media firms need to be regulated."
-    publishedDateTime: 2020-11-02T11:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
+    excerpt: "C3.ai is a top layer on top of Microsoft Dynamics, Azure and Adobe Experience Cloud. The joint effort will target industries such as oil and gas, utilities, manufacturing and healthcare. Siebel, who commercialized CRM in the 1990s with Siebel Systems ..."
+    publishedDateTime: 2020-11-02T11:01:00Z
+    webUrl: "https://www.zdnet.com/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 92
-    images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/10/30/c4d5bd53-7b0e-40fd-a9a3-c7e79b7c49e3/thumbnail/1200x675/68b5f4044e23c638808bfdf57ffda312/20201029-siebel-larry.jpg"
-        width: 1200
-        height: 675
-        isCached: true
+    quality: 72
 
 secured: "FgeFl/A/aunZJsTb2dJ1GZ1IRhCAHqQhh8ItDSaXktUUQdSie1hE//yP1u9KjuV6LYMXzrLATER5UW4uk0zji8AAcJOAO4kPoYw1m5rfrZ7D8ya0ppjk/hpgUR1MUmLZRj1stRzrHPrh+ntUYR4LiKpSSnxbfoNeOOVYDhNJaul0GE5kn8ooRDVG4GZ/buBlIWjJTs1ypkuxLypKGVE7i/FvOsZZ1VMBcSluHVguffpvlASriH/Q9ANW2FGfOR2NR9CRMgj5rH9Z9KsGYHjn3P1E0F8tfRtssT3Og5+N4KGx2TOhSvEKrpYy3AbLfkFn71isNX9qdq4ciNT/uZ622WSSXlcNok2jLE367i0CPZFGPg10hiHfyWfXu2p8BamZ2VIqRn7Rxb6ucdJKp20ZH/nnP97SMSjkaBij5KKL1d9ORWWl7W8r1UR430hUR7XnY8ZfwpWOljRt20ocGG/mLzhouuHIACvP8zB3PbmyOK37a8yQMY3+4UGmokLQ51O1FhsGahk5BYJw3aWNIpL07A==;61NV8tqNj1zQ8c9hHaev9A=="
 ---

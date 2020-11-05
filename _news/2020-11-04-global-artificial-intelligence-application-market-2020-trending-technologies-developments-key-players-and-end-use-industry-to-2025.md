@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automatic Speech Recognition Applications Market Analysis 2020, Growth Opportunities, Trends, Forecast to 2020"
+    excerpt: "The report “Automatic Speech Recognition Applications Market” in Global to 2026 - Market Scope, Development, and Predictions offers the most up-to-date industry information on the actual market situation,"
+    publishedDateTime: 2020-11-04T06:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-applications-market-analysis-2020-growth-opportunities-trends-forecast-to-2020-2020-11-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Voice Biometric Solutions Market Movements by Trend Analysis, Growth Status and Revenue Expectation Forecast to 2026"
     excerpt: "The global “Voice Biometric Solutions Market” is expected to rise with an impressive CAGR and generate the highest"
     publishedDateTime: 2020-11-03T18:58:00Z

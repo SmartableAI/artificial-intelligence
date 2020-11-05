@@ -345,6 +345,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "The future of fintech beyond COVID-19"
+    excerpt: "By Ritam Gandhi, Founder and Director, Studio Graphene  COVID-19 has undoubtedly cemented our reliance on technology. With the unexpected shift to online working, shopping and entertaining, digital solutions have largely been the only means to overcome disruptions to our daily routines."
+    publishedDateTime: 2020-11-05T11:59:00Z
+    webUrl: "https://www.globalbankingandfinance.com/the-future-of-fintech-beyond-covid-19/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 24
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/11/Untitled-design-2020-11-05T165829.943.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "AI For COVID 19: MIT Model Effectively Detect Corona By Hearing Cough"
     excerpt: "Asymptomatic patients remain a major concern for the COVID-19 spread. But, this AI model by MIT researchers may help in early detection by hearing coughs."
     publishedDateTime: 2020-11-03T10:00:00Z
@@ -364,6 +378,6 @@ related:
       domain: ft.com
     quality: 17
 
-secured: "nXCdTJd0CX/a8JXIsxVdPpmSGpxyU0NaGwYrbEQ7ZTWnEOsh/RGKyUCZRBUkVAFDRvbr68L2mMVFimerQu55HLVhdJ4O64CqTMRrxciG4IYKo3oMmSTBLT5ufHfycHP5+kg+l1OEIjlvSylB1yH4QOvDL6jl58CfB9yVmkedf1QzAkI7r0Bq85gQ984k34AXYUVHPoZ6j4kxHA/AqaM38K+rT/ycWDAN3hWaHQh6WHw7wldxtjjmKvu+ESKapg1FaJwCbLpi1r8EDpu2FIqOTWMAfWDwCyEqjnlIeDS6nOxraRgnW6dfj3Vk/ImmHhRCxtuLL2PSA3WgG6uMK4qC+jxwAqDgfgSnjfPg+9tvY64=;kWEkA8pYnQs7GLQjsWRdTg=="
+secured: "nVzaRMoHIAck15qDRa9qJfD2Q1lLLRTHvRwnRVw0D5K7rRnw04dc4rL89+BrR9o/EtkQIqYy3B3DiCW/WpwuIIaI0lR7o9QY/d1MyOpFOtSvVCEzYS7AbnKItNOYNBXa/25C+VRbw/40K3rjp0BFxkOO2HNhTiYFL5XOb6jE5ZkkwY9Yp6N6+MizAsrBuICvyF3P5dHkwqDpcDUZpVvFdsbhSD/kz5jXhcxgBNXvyj8TRTmdHlhnJP5YVdp7aYPW+S8UWG4iJO//P0OviL7A0hl3s6+QDT9N1PT/4KFP+2AC0S4XxgT42KeI7TH16gPJAeg0Eb2n0cu+Iq0bNOBy4XcakbpjB3hahzel6NrzS5V+7HN5CiIdOu1wnXtQCshmNwoyuGrvJYLS7UwfV5lMnZFa1QpkabZ4XhjcyYiSWsIFVO/A1TV5vQoqhmsHmQlBfHMSEBpxiuVnnpea/oGA65SvKjn2NkpkqUCZWtFu9Myn/0OitkSHCvcIhiYkWA8SmZ4ly2MdHY8VbZPprfbXyw==;9VN9e5mRn2qiwB1HGJslqQ=="
 ---
 

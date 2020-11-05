@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Cloud Computing in a Shipping Container: Microsoft Introduces the Azure Modular Datacenter"
+    excerpt: "Microsoft recently announced a new Azure in a shipping container service called Azure Modular Datacenter. The new offer provides an option for setting up an Azure datacenter in hybrid or challenging environments where cloud computing previously would not have been possible."
+    publishedDateTime: 2020-11-05T12:10:00Z
+    webUrl: "https://www.infoq.com/news/2020/11/azure-modular-datacenter/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 59
+    images:
+      - url: "https://res.infoq.com/news/2020/11/azure-modular-datacenter/en/headerimage/croppted-kristin-hillery-YId0l2vqc6E-unsplash-1603728187946.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft & Others Catalog Threats to Machine Learning Systems"
     excerpt: "Thirteen organizations worked together to create a dictionary of techniques used to attack ML models and warn that such malicious efforts will become more common."
     publishedDateTime: 2020-11-03T00:32:00Z
@@ -51,20 +65,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 53
-  - title: "Analysis: In an epic pivot to the cloud, Microsoft makes Azure the linchpin of its future"
-    excerpt: "Microsoft Corp.’s Azure cloud computing service is the linchpin of the tech giant’s innovation strategy. As we reported last week, we believe that in the next decade, changes in public policy will restrict the way in which big internet companies are able to appropriate user data."
-    publishedDateTime: 2020-10-31T18:43:00Z
-    webUrl: "https://siliconangle.com/2020/10/31/analysis-epic-pivot-cloud-microsoft-makes-azure-linchpin-future/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 45
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/AdobeStock_321471082_Editorial_Use_Only-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "QuEST Global launches Center of Excellence for Microsoft Azure to develop innovative solutions for customers"
     excerpt: "QuEST Global, a global product engineering and lifecycle services company, today announced it has signed an agreement with Microsoft to"
     publishedDateTime: 2020-11-03T11:00:00Z

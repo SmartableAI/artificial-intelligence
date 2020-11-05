@@ -352,6 +352,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "The future of fintech beyond COVID-19"
+    excerpt: "By Ritam Gandhi, Founder and Director, Studio Graphene  COVID-19 has undoubtedly cemented our reliance on technology. With the unexpected shift to online working, shopping and entertaining, digital solutions have largely been the only means to overcome disruptions to our daily routines."
+    publishedDateTime: 2020-11-05T11:59:00Z
+    webUrl: "https://www.globalbankingandfinance.com/the-future-of-fintech-beyond-covid-19/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 24
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/11/Untitled-design-2020-11-05T165829.943.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "AI For COVID 19: MIT Model Effectively Detect Corona By Hearing Cough"
     excerpt: "Asymptomatic patients remain a major concern for the COVID-19 spread. But, this AI model by MIT researchers may help in early detection by hearing coughs."
     publishedDateTime: 2020-11-03T10:00:00Z

@@ -454,6 +454,51 @@
       ]
     },
     {
+      "path": "_news/2020-10-22-dsp-group-announces-support-of-tensorflow-lite-for-microcontrollers-on-its-dbmd7-aiml-soc.md",
+      "title": "DSP Group Announces Support of TensorFlow Lite for Microcontrollers on its DBMD7 AI/ML SoC",
+      "excerpt": "TensorFlow Lite for Microcontrollers is an extension of TensorFlow Lite that addresses the need to run ML on memory-constrained devices with only kilobytes of memory. It comes with a specific set ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/dsp-group-announces-support-of-tensorflow-lite-for-microcontrollers-on-its-dbmd7-ai-ml-soc-1029709437",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/dsp-group-announces-support-of-tensorflow-lite-for-microcontrollers-on-its-dbmd7-ai-ml-soc-1029709437",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-22T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-mit-csails-ai-revives-dead-languages-it-hasnt-seen-before.md",
       "title": "MIT CSAIL’s AI revives dead languages it hasn’t seen before",
       "excerpt": "Unfortunately, most lost languages have such minimal records that scientists can’t decipher them by using conventional machine-translation ... the only ones to apply AI to recovering long ...",
@@ -748,6 +793,49 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-18-computer-learns-to-play-go-at-superhuman-levels-without-human-knowledge.md",
+      "title": "Computer Learns To Play Go At Superhuman Levels 'Without Human Knowledge'",
+      "excerpt": "The open-ended game has more possible configurations than there are known atoms in the universe, according to the DeepMind researchers. The open-ended nature of the game has made Go a \"grand ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.npr.org/sections/thetwo-way/2017/10/18/558519095/computer-learns-to-play-go-at-superhuman-levels-without-human-knowledge",
+      "originalUrl": "https://www.npr.org/sections/thetwo-way/2017/10/18/558519095/computer-learns-to-play-go-at-superhuman-levels-without-human-knowledge",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.npr.org/assets/img/2017/10/18/alphagozero-illustration-widescreen_wide-7f96f6e3363cf430b4034ff54c87ec0ebe8b8160.jpg?s=1400",
+          "width": 1400,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-18T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
       ]
     },
     {
@@ -1384,103 +1472,6 @@
         "Google AI",
         "AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-object-detection-with-tensorflow.md",
-      "title": "Object Detection, With TensorFlow",
-      "excerpt": "One of the tools that can be put to work in object recognition is an open source library called TensorFlow, which [Evan] aka [Edje Electronics] has put to work for exactly this purpose.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
-      "originalUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/07/main3.png",
-          "width": 877,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-fernanda-viegas-puts-people-at-the-heart-of-ai.md",
-      "title": "Fernanda Viégas puts people at the heart of AI",
-      "excerpt": "When Fernanda Viégas was in college, it took three years with three different majors before she decided she wanted to study graphic design and art history. And even then, she couldn’t have imagined the job she has today: building artificial intelligence and machine learning with fairness and transparency",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/inside-google/googlers/fernanda-viegas-ai/",
-      "originalUrl": "https://blog.google/inside-google/googlers/fernanda-viegas-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fernanda_Viegas_social_share.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 679,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/inside-google/googlers/fernanda-viegas-ai/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/googlers/fernanda-viegas-ai/amp/",
-      "publishedDateTime": "2020-10-07T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

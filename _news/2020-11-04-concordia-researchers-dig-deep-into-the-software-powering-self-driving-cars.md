@@ -115,6 +115,20 @@ related:
         width: 1200
         height: 694
         isCached: true
+  - title: "The future: robot nurses and driving a forklift from your living room"
+    excerpt: "A number of machinery companies and start-ups are developing teleoperated equipment ... whether or not the real machine has a human in its drivers cabin. Although artificial intelligence is not used to control the machine, teleoperation can produce ..."
+    publishedDateTime: 2020-11-05T11:08:00Z
+    webUrl: "https://www.irishtimes.com/business/technology/the-future-robot-nurses-and-driving-a-forklift-from-your-living-room-1.4398883"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 39
+    images:
+      - url: "https://www.irishtimes.com/image-creator/?id=1.4398882&origw=1440"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self-driving startup Pony.ai gets funding from FAW"
     excerpt: "Self-driving technology startup Pony.ai struck a funding agreement with automaker FAW Group, calling it the first strategic investment by a Chinese state-owned vehicle manufacturer into an autonomous-technology company."
     publishedDateTime: 2020-11-03T10:35:00Z

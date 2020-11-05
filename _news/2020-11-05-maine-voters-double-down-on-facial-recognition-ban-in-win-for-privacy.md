@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/article/portland-maine-passes-facial-recognitio
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/portland-maine-passes-facial-recognition-ban-fines.amp"
 type: article
 quality: 104
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://cnet1.cbsistatic.com/img/gwmoAi0S4eDXJo6Rbg_tTnsJSgc=/1200x630/2020/05/01/bff6e427-0240-4ffd-bfbb-40db6bab6b46/security-facial-recognition-contact-tracing.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "We’re Ready For Mainstream Facial Recognition, But Is It Ready For Us?"
+    excerpt: "Before real-world implementation of this technology, bias and privacy concerns must be sufficiently explored and addressed."
+    publishedDateTime: 2020-11-05T12:44:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/11/05/were-ready-for-mainstream-facial-recognition-but-is-it-ready-for-us/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/11/05/were-ready-for-mainstream-facial-recognition-but-is-it-ready-for-us/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/05/were-ready-for-mainstream-facial-recognition-but-is-it-ready-for-us/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f21aa670d7d1c4064053876%2F0x0.jpg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Portland, Maine citizens vote in favor of blanket ban on facial recognition tech"
     excerpt: "Privacy: Facial recognition technology has always been a source of controversy in the tech community; no matter how it's used. Police departments across the US have expressed interest in using it to identify and catch criminals, and companies use it to ..."

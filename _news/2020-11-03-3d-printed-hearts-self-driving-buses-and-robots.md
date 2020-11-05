@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/3d-printed-hearts-self-driv
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/3d-printed-hearts-self-driving-buses-and-robots/"
 type: article
 quality: 91
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -105,6 +105,20 @@ related:
       - url: "https://cdn.bisnow.net/fit?height=1200&type=png&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2020%2F11%2F5fa071d7987c2-screen-shot-2020-11-02-at-3-53-21-pm.png&width=1200&sign=HMMbCuy2ZKCL2vT3os-SqNT-u-PSp2Zd6zWDcvPEm_4"
         width: 1200
         height: 694
+        isCached: true
+  - title: "The future: robot nurses and driving a forklift from your living room"
+    excerpt: "A number of machinery companies and start-ups are developing teleoperated equipment ... whether or not the real machine has a human in its drivers cabin. Although artificial intelligence is not used to control the machine, teleoperation can produce ..."
+    publishedDateTime: 2020-11-05T11:08:00Z
+    webUrl: "https://www.irishtimes.com/business/technology/the-future-robot-nurses-and-driving-a-forklift-from-your-living-room-1.4398883"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 39
+    images:
+      - url: "https://www.irishtimes.com/image-creator/?id=1.4398882&origw=1440"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Concordia researchers dig deep into the software powering self-driving cars"
     excerpt: "Peeking under the hood of a self-driving car will only tell you so much. To really understand what makes them run, you have to dive deep into the software that makes up the autonomous driving systems (ADS) controlling driverless vehicles."

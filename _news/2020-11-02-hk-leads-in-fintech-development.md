@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Land a career in fintech with this blockchain bootcamp"
+    excerpt: "The Ultimate FinTech & Blockchain Bootcamp Bundle empowers you to confidently deliver smooth, secure and transparent financial services with eight quick courses on the fintech industry, blockchain, lending,"
+    publishedDateTime: 2020-11-05T11:03:00Z
+    webUrl: "https://www.marketwatch.com/story/land-a-career-in-fintech-with-this-blockchain-bootcamp-01604440965"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/land-a-career-in-fintech-with-this-blockchain-bootcamp-01604440965"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/land-a-career-in-fintech-with-this-blockchain-bootcamp-01604440965"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 89
+    images:
+      - url: "https://images.mktw.net/im-254411/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Advisors Seek Venture-Investing Gold in Fintech"
     excerpt: "For many of the most successful advisory firm leaders, investing in fintech and wealthtech startups is an opportunity to make some serious scratch, while also helping to advance their industry."
     publishedDateTime: 2020-11-02T18:24:00Z
@@ -41,79 +57,20 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Meet Accern, A 2020 Benzinga Global Fintech Awards Finalist"
-    excerpt: "Benzinga will be holding its annual Benzinga Global Fintech Awards, a day of dealmaking, networking, and recognition in the financial technology space, on Nov. 10,"
-    publishedDateTime: 2020-11-03T17:10:00Z
-    webUrl: "https://www.benzinga.com/fintech/20/11/18157493/meet-accern-a-2020-benzinga-global-fintech-awards-finalist"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18157493"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18157493"
+  - title: "Open Standards Advance Fintech"
+    excerpt: "The U.S. payments space is saddled by closed standards-setting processes and a lack of basic competition in the market."
+    publishedDateTime: 2020-11-04T17:48:00Z
+    webUrl: "https://morningconsult.com/opinions/open-standards-advance-fintech/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/copy_of_courtesy_photo_4_0.png"
-        width: 800
-        height: 360
-        isCached: true
-  - title: "Deutsche Börse Finalizes $15 Million Round in Clarity AI, a Fintech Leveraging Machine Learning Tech"
-    excerpt: "Deutsche Börse has finalized a $15 million investment round in Clarity AI, a Fintech leveraging machine learning tech."
-    publishedDateTime: 2020-11-05T01:31:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/11/168794-deutsche-borse-finalizes-15-million-round-in-clarity-ai-a-fintech-leveraging-machine-learning-tech/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/168794-deutsche-borse-finalizes-15-million-round-in-clarity-ai-a-fintech-leveraging-machine-learning-tech/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/168794-deutsche-borse-finalizes-15-million-round-in-clarity-ai-a-fintech-leveraging-machine-learning-tech/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 41
-  - title: "F|T: The FinTech Times – Toeing the line"
-    excerpt: "a weekly newsletter covering the biggest FinTech news from around the globe. If you want to read F|T before anyone else, make sure to subscribe using the form at the bottom of this page. Wealthsimple has tapped Paul Teshima, the co-founder of Nudge.ai, to ..."
-    publishedDateTime: 2020-11-02T10:59:00Z
-    webUrl: "https://betakit.com/ft-the-fintech-times-toeing-the-line/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
+      name: Morning Consult
+      domain: morningconsult.com
     quality: 24
     images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2019/05/fintechtimes-1-1-1-1-1024x575.png"
-        width: 1024
-        height: 575
+      - url: "https://morningconsult.com/wp-content/themes/mcmoco/assets/img/misc/op-ed-featured.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Top 10 Asian FinTech Startups You Need to Follow"
-    excerpt: "Bowen Khong takes a look at 10 Asian Fintech Startups that you should be aware of they include Ant Group, Ping An Technology, Dr Wealth, Grab Pay, Razer Pay, Folio, Viva Republic, Policy Bazaar, HelloGold,"
-    publishedDateTime: 2020-11-04T07:00:00Z
-    webUrl: "https://www.enterprisetimes.co.uk/2020/11/04/top-10-asian-fintech-startups-you-need-to-follow/"
-    type: article
-    provider:
-      name: enterprisetimes.co.uk
-      domain: enterprisetimes.co.uk
-    quality: 24
-    images:
-      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2020/10/Photo-by-Christina-@-wocintechchat.jpg"
-        width: 728
-        height: 410
-        isCached: true
-  - title: "Crowdsourcing startup wins FinTech Frontier pitch competition"
-    excerpt: "A Pittsburgh-based startup won FinTech Frontier’s inaugural pitch competition, and here's what the company had to say about Cincinnati."
-    publishedDateTime: 2020-11-02T17:37:00Z
-    webUrl: "https://www.bizjournals.com/cincinnati/inno/stories/news/2020/11/02/fintech-frontier-names-pitch-competition-winner.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
-  - title: "Hong Kong Cyberport: Cyberport sees RegTech's potential to become a rising industry star during Hong Kong FinTech Week"
-    excerpt: "As a FinTech partner at this year's Hong Kong FinTech Week, Cyberport invited scholars, outstanding financial industry leaders and its community start-ups"
-    publishedDateTime: 2020-11-04T08:29:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-11/51145177-hong-kong-cyberport-cyberport-sees-regtech-s-potential-to-become-a-rising-industry-star-during-hong-kong-fintech-week-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "zYmQs7lPJRNp93oMFf15WunfeQzeh2GinSvf1z1jQ8xmtE1eUaurhME453m/Y5pk1tRr+or26G3oj6EWa0pakF50smDCFagMo4bQtkRPFE9bzLaJIf7EU7zQkhRGCcJQ0h9/Bma+FW3GQ2vvTa1yt0Upq/w/6hJA30vpl4KYyuZqz0ggCRnEs8RP3R+4Vxk1jw6IcgsurBbW02QUfZkP6295Mg7s4ypLLJrpufyyRFmwbizT6rIVUnWQAh4lJ4/d2jKPEgJGOCs833WcQq8NaAlqiWdloVwrHMXj4/QF7WU0FRlIGYgMKICsjEAxm3lZWZOUEysA0wWg0QwXF3yr4vf7h7a4qFLuL/zbRNyZIZs=;+6XZP3ySKnpt1EYObTtXmA=="
 ---

@@ -208,10 +208,10 @@
     {
       "path": "_news/2020-10-30-ibm-smart-lineup-decisions-for-nfl-week-8.md",
       "title": "IBM Smart Lineup Decisions for NFL Week 8",
-      "excerpt": "That's where IBM Insights comes in, as they use Watson AI to break down all of the content you're consuming and then some. And by \"some\", I mean every inch of the interwebs. Below are the highlights for NFL Week 8 -- good and bad.",
+      "excerpt": "That's where IBM Insights comes in, as they use Watson AI to break down all of the content you're consuming and then some. And by \"some\", I mean every inch of the interwebs. Below are the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.espn.com/fantasy/football/story/_/page/smartlineup201030/ibm-smart-lineup-decisions-nfl-week-8?device=featurephone",
-      "originalUrl": "https://www.espn.com/fantasy/football/story/_/page/smartlineup201030/ibm-smart-lineup-decisions-nfl-week-8?device=featurephone",
+      "webUrl": "https://www.espn.com/fantasy/football/story/_/page/smartlineup201030/ibm-smart-lineup-decisions-nfl-week-8",
+      "originalUrl": "https://www.espn.com/fantasy/football/story/_/page/smartlineup201030/ibm-smart-lineup-decisions-nfl-week-8",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -230,7 +230,7 @@
       "type": "article",
       "ampWebUrl": "https://www.espn.com/fantasy/football/story/_/page/smartlineup201030/ibm-smart-lineup-decisions-nfl-week-8?platform=amp",
       "cdnAmpWebUrl": "https://www-espn-com.cdn.ampproject.org/c/s/www.espn.com/fantasy/football/story/_/page/smartlineup201030/ibm-smart-lineup-decisions-nfl-week-8?platform=amp",
-      "publishedDateTime": "2020-10-30T06:00:00-07:00",
+      "publishedDateTime": "2020-10-30T06:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ESPN",
@@ -686,33 +686,24 @@
     {
       "path": "_news/2020-10-22-clark-county-utilizes-ai-enabled-solution-to-help-residents-secure-critical-housing-assistance.md",
       "title": "Clark County Utilizes AI-enabled Solution to Help Residents Secure Critical Housing Assistance",
-      "excerpt": "Oct. 22, 2020 /PRNewswire/ -- Clark County and IBM Watson Health (NYSE: IBM) today announced the deployment of the AI-enabled IBM Watson Health Citizen Engagement platform designed to help make ...",
+      "excerpt": "Clark County and IBM Watson Health today announced the deployment of the AI-enabled IBM Watson Health Citizen Engagement platform designed to help make vital social services, including housing assistance,",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/clark-county-utilizes-ai-enabled-solution-to-help-residents-secure-critical-housing-assistance-301157432.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/clark-county-utilizes-ai-enabled-solution-to-help-residents-secure-critical-housing-assistance-301157432.html",
+      "webUrl": "https://www.nasdaq.com/press-release/clark-county-utilizes-ai-enabled-solution-to-help-residents-secure-critical-housing",
+      "originalUrl": "https://www.nasdaq.com/press-release/clark-county-utilizes-ai-enabled-solution-to-help-residents-secure-critical-housing",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
-          "width": 2698,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T06:00:00-07:00",
+      "publishedDateTime": "2020-10-22T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

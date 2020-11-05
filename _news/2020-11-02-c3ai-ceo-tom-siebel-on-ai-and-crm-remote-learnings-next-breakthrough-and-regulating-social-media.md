@@ -1,14 +1,14 @@
 ---
 category: news
 title: "C3.ai CEO Tom Siebel on AI and CRM, remote learning's next breakthrough and regulating social media"
-excerpt: "Tom Siebel caught up with ZDNet to talk about next-gen CRM systems, C3.ai's Digital Transformation Institute, COVID-19 data lakes, education's next innovation and why social media firms need to be regulated."
-publishedDateTime: 2020-11-02T11:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
-webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
+excerpt: "C3.ai is a top layer on top of Microsoft Dynamics, Azure and Adobe Experience Cloud. The joint effort will target industries such as oil and gas, utilities, manufacturing and healthcare. Siebel, who commercialized CRM in the 1990s with Siebel Systems ..."
+publishedDateTime: 2020-11-02T11:01:00Z
+originalUrl: "https://www.zdnet.com/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
+webUrl: "https://www.zdnet.com/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
 type: article
-quality: 92
+quality: 72
 heat: -1
 published: false
 
@@ -24,12 +24,6 @@ topics:
   - Microsoft AI
   - AI
   - AI in Sales
-
-images:
-  - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/10/30/c4d5bd53-7b0e-40fd-a9a3-c7e79b7c49e3/thumbnail/1200x675/68b5f4044e23c638808bfdf57ffda312/20201029-siebel-larry.jpg"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "C3.ai on tackling CRM, education, social media regulation, and enterprise AI"
@@ -61,6 +55,6 @@ related:
         height: 389
         isCached: true
 
-secured: "hcwXDd+7fng+4NNaoD3vZPZdmEsAboVEvoeLPTAZAD2PKlVi4trWc98xVt1e6RTNsPHilmWoMj0XhEgsKUtqlEBMzPWhdNzbTStza7n2DGP1AmsdA03yG5p7ew0/d+CYYXUt9E5sXSq+olBGvH7eVV5yRMQOchCNkelmlTBo0I5CFwvL6yZCvm+2sVLekj1vtPWUTNLBQRRLdnQPbUIvY/syYvo23NVyhmK+Jr3a/RpID4CEUgCbq2Onk0szRmaw8o8w9pvnHRblmHMMpxhkHn+p3N4aKIgiv8YhgURWxKgYnNcK7kz3carggCU/UAg2qAsAPWDKTt7xgbxvusf9BJQGVpJJBDsNMou4TfP+937Ui2YbL4OBet3YFx6+SJ+vPybkjoDFFQY9WKnWaPZkZhU8LmL1sZp9+hT3IPtiocaxgLEJKNutiVRzXfaZ4/fcVBMjwTQYtHKX2RHe5jGVLWQCAzUvPVHNX6GeQ35DsWI4MFwNAs7OBUokq7X+kLtweMWSRVpn50SBV33WsjfTYg==;1fCCtEQFsHxieybmMYDN9g=="
+secured: "c37acwYKWTzDh5taH0b90AUsfxOkZYjPdjOrr2WK4vibt1ZOsBi7qirZptVKngpTjaihkMfhOKly2J0w+utE22OS9W/ZMtZWGsp6HnBvXKNfOmWQJDzG6+BGhMwMj3oOkoAXvkuukZRYmRm+ZpEOjgf6a0Wym3lZOonhZj3/ydVWZ1d1CvSxC8sz+qpXq34YlXxlndO40s8SkcIez8QkRRxa42xuOI/Ym6He8BZ+PUYwehZjZoxULbhi6ycXPlYO3IzBvucpXJ9h1IBwlLm0IzEiz6XBMLM043okHiQvrdkOwINN2l1TfTzXhDhZ2vL3puDAYKH7v+s4rfI3Oro5X/ESbuPC4jKjnW+KxJr2ddS1TqM62SLM91klqdMTu3pxn1TAB3ePo4u7RsUiXxMeLtwVwKjIZHdeqQgxl4kCzLvz1lVy5zEGZjMHIfwVVF3TtInr0cpGxwQ5CsCbI02euuHRuHvfvGQnsskN2ZdAt1CF89FvRCbiKL7TLBuMU5uo6tFVoKVQoiBs8R/jqUAf8Q==;jU28hd0YIrI+HCpF2bupsA=="
 ---
 

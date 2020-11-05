@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "We’re Ready For Mainstream Facial Recognition, But Is It Ready For Us?"
+    excerpt: "Before real-world implementation of this technology, bias and privacy concerns must be sufficiently explored and addressed."
+    publishedDateTime: 2020-11-05T12:44:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/11/05/were-ready-for-mainstream-facial-recognition-but-is-it-ready-for-us/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/11/05/were-ready-for-mainstream-facial-recognition-but-is-it-ready-for-us/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/05/were-ready-for-mainstream-facial-recognition-but-is-it-ready-for-us/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f21aa670d7d1c4064053876%2F0x0.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Portland, Maine Voters Say No to Facial-Recognition Tech"
     excerpt: "Portland’s city council placed a preliminary ban on facial recognition in August, but this ballot initiative is stronger, banning its use for at least five years."
     publishedDateTime: 2020-11-04T19:56:00Z

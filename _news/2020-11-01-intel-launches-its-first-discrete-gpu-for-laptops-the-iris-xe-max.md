@@ -9,7 +9,7 @@ ampWebUrl: "https://uk.pcmag.com/graphics-cards/129720/intel-launches-its-first-
 cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/graphics-cards/129720/intel-launches-its-first-discrete-gpu-for-laptops-the-iris-xe-max?amp=1"
 type: article
 quality: 89
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2020/10/intel-tiger-lake-core-iris-xe-max-logo-100864467-large.jpg"
         width: 1199
         height: 854
-        isCached: true
-  - title: "Intel Accelerates Content Creation And Gaming With Iris Xe MAX Mobile GPU And Deep Link Tech"
-    excerpt: "The true differentiation that Intel is bringing to laptops with Iris Xe MAX is a technology it calls Deep Link."
-    publishedDateTime: 2020-10-31T19:07:00Z
-    webUrl: "https://www.forbes.com/sites/davealtavilla/2020/10/31/intel-accelerates-content-creation-and-gaming-with-iris-xe-max-mobile-gpu-and-deep-link-tech/"
-    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2020/10/31/intel-accelerates-content-creation-and-gaming-with-iris-xe-max-mobile-gpu-and-deep-link-tech/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2020/10/31/intel-accelerates-content-creation-and-gaming-with-iris-xe-max-mobile-gpu-and-deep-link-tech/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 78
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9daf8d005f33325dff7961%2F0x0.jpg"
-        width: 1000
-        height: 676
         isCached: true
   - title: "Intel enters the laptop discrete GPU market with Xe Max"
     excerpt: "Intel released preliminary information on its newest laptop part—the Xe Max discrete GPU, which functions alongside and in tandem with"

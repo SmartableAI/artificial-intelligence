@@ -31,21 +31,16 @@ images:
 
 related:
   - title: "C3.ai CEO Tom Siebel on AI and CRM, remote learning's next breakthrough and regulating social media"
-    excerpt: "Tom Siebel caught up with ZDNet to talk about next-gen CRM systems, C3.ai's Digital Transformation Institute, COVID-19 data lakes, education's next innovation and why social media firms need to be regulated."
-    publishedDateTime: 2020-11-02T11:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
+    excerpt: "C3.ai is a top layer on top of Microsoft Dynamics, Azure and Adobe Experience Cloud. The joint effort will target industries such as oil and gas, utilities, manufacturing and healthcare. Siebel, who commercialized CRM in the 1990s with Siebel Systems ..."
+    publishedDateTime: 2020-11-02T11:01:00Z
+    webUrl: "https://www.zdnet.com/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 92
-    images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/10/30/c4d5bd53-7b0e-40fd-a9a3-c7e79b7c49e3/thumbnail/1200x675/68b5f4044e23c638808bfdf57ffda312/20201029-siebel-larry.jpg"
-        width: 1200
-        height: 675
-        isCached: true
+    quality: 72
   - title: "Next generation Artificial Intelligence and ethics"
     excerpt: "What is the next generation artificial intelligence? What about its learning abilities? And ethics that surround it? Josh Tenenbaum"
     publishedDateTime: 2020-11-02T08:12:00Z

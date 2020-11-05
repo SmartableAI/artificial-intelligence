@@ -6,8 +6,8 @@ publishedDateTime: 2020-11-05T03:42:00Z
 originalUrl: "https://seekingalpha.com/article/4385095-quicklogic-corp-quik-ceo-brian-faith-on-q3-2020-results-earnings-call-transcript"
 webUrl: "https://seekingalpha.com/article/4385095-quicklogic-corp-quik-ceo-brian-faith-on-q3-2020-results-earnings-call-transcript"
 type: article
-quality: 12
-heat: 12
+quality: 14
+heat: 14
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
 secured: "U+uU4WwdaA1pOs83mKZQWKhsX3JEarF4mSOSx/RHlFaY9ybPEgX5vcsgog9+v0yuAYzEuxXS/o68xogzQNpLm+UpvTmuIzghW4Vd74iBUhaxoGR/0mMPbY7hbLqSLgc+JsNSTTTVfqxZGJ8PdsA/5koxo9wgqdV1+XVsY+R3eWZWsIoMZMb68TRugDifmyfixVDA4iNwOoMc4qf5YmubxyxRezjOmgEDYlHvLcBxGkFGlrxPnMQel63J0d4fHrpKaDN62XtAnIZweVJk3dR6+2HPVfzWHb7Lt6ZrxvybrQ1EWbr2Y+GYiq4Q3q45nxcHkAn0u3iGUNrPWnmgI+wDH5jUrJpKBn7eAYhS3w86EHk=;PKnPxm1Mx4vdGHxYS7qGpQ=="
 ---

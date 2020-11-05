@@ -93,22 +93,6 @@ related:
         width: 1199
         height: 854
         isCached: true
-  - title: "Intel Accelerates Content Creation And Gaming With Iris Xe MAX Mobile GPU And Deep Link Tech"
-    excerpt: "The true differentiation that Intel is bringing to laptops with Iris Xe MAX is a technology it calls Deep Link."
-    publishedDateTime: 2020-10-31T19:07:00Z
-    webUrl: "https://www.forbes.com/sites/davealtavilla/2020/10/31/intel-accelerates-content-creation-and-gaming-with-iris-xe-max-mobile-gpu-and-deep-link-tech/"
-    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2020/10/31/intel-accelerates-content-creation-and-gaming-with-iris-xe-max-mobile-gpu-and-deep-link-tech/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2020/10/31/intel-accelerates-content-creation-and-gaming-with-iris-xe-max-mobile-gpu-and-deep-link-tech/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 78
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9daf8d005f33325dff7961%2F0x0.jpg"
-        width: 1000
-        height: 676
-        isCached: true
   - title: "Intel Iris Xe Max discrete GPU for slim laptops announced with AI and encoding performance boost"
     excerpt: "Intel Iris Xe Max discrete GPU for slim laptops announced.Intel has claimed top provide enhanced AI and encoding boost in performance as well."
     publishedDateTime: 2020-11-02T13:55:00Z

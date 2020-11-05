@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/11/168794-deutsche-borse-final
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/168794-deutsche-borse-finalizes-15-million-round-in-clarity-ai-a-fintech-leveraging-machine-learning-tech/amp/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -22,98 +22,64 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Advisors Seek Venture-Investing Gold in Fintech"
-    excerpt: "For many of the most successful advisory firm leaders, investing in fintech and wealthtech startups is an opportunity to make some serious scratch, while also helping to advance their industry."
-    publishedDateTime: 2020-11-02T18:24:00Z
-    webUrl: "https://www.barrons.com/articles/advisors-seek-venture-capital-investing-riches-in-fintech-and-wealthtech-51604348664"
-    ampWebUrl: "https://www.barrons.com/amp/articles/advisors-seek-venture-capital-investing-riches-in-fintech-and-wealthtech-51604348664"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/advisors-seek-venture-capital-investing-riches-in-fintech-and-wealthtech-51604348664"
+  - title: "Clarity AI closes $15m funding round led by Deutsche Börse"
+    excerpt: "Clarity AI, a global FinTech company that empowers investors to manage the impact of their portfolios through its proprietary technology platform, has announced that the firm has secured $15 million in a funding round led by Deutsche Börse AG & co-investor Mundi Ventures."
+    publishedDateTime: 2020-11-05T08:17:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/clarity-ai-closes-15m-funding-round-led-by-deutsche-borse/"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 44
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
     images:
-      - url: "https://images.barrons.com/im-253545/social"
-        width: 1280
-        height: 640
+      - url: "https://ibsintelligence.com/wp-content/uploads/2020/11/Clarity-AI-2.jpg"
+        width: 300
+        height: 300
         isCached: true
-  - title: "Meet Accern, A 2020 Benzinga Global Fintech Awards Finalist"
-    excerpt: "Benzinga will be holding its annual Benzinga Global Fintech Awards, a day of dealmaking, networking, and recognition in the financial technology space, on Nov. 10,"
-    publishedDateTime: 2020-11-03T17:10:00Z
-    webUrl: "https://www.benzinga.com/fintech/20/11/18157493/meet-accern-a-2020-benzinga-global-fintech-awards-finalist"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18157493"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18157493"
+  - title: "Detusche Börse leads $15 million round in Clarity AI"
+    excerpt: "Deutsche Börse has led a $15 million funding round in Clarity AI, a Spanish fintech firm that uses machine learning and big data to help investors understand the sociatel impact of their investment portfolios,"
+    publishedDateTime: 2020-11-05T01:25:00Z
+    webUrl: "https://www.finextra.com/newsarticle/36884/detusche-brse-leads-15-million-round-in-clarity-ai"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
+      name: Finextra
+      domain: finextra.com
+    quality: 39
     images:
-      - url: "https://www.benzinga.com/files/images/story/2012/copy_of_courtesy_photo_4_0.png"
-        width: 800
-        height: 360
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/aeb167a4e29002042d10d40ed51206ad.jpg"
+        width: 480
+        height: 270
         isCached: true
-  - title: "F|T: The FinTech Times – Toeing the line"
-    excerpt: "a weekly newsletter covering the biggest FinTech news from around the globe. If you want to read F|T before anyone else, make sure to subscribe using the form at the bottom of this page. Wealthsimple has tapped Paul Teshima, the co-founder of Nudge.ai, to ..."
-    publishedDateTime: 2020-11-02T10:59:00Z
-    webUrl: "https://betakit.com/ft-the-fintech-times-toeing-the-line/"
+  - title: "Deutsche Börse leads $15 million round in Clarity AI"
+    excerpt: "Deutsche Börse has led a $15 million funding round in Clarity AI, a Spanish fintech firm that uses machine learning and big data to help investors understand the sociatel impact of their investment portfolios,"
+    publishedDateTime: 2020-11-05T09:46:00Z
+    webUrl: "https://www.finextra.com/newsarticle/36884/deutsche-brse-leads-15-million-round-in-clarity-ai"
     type: article
     provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 24
+      name: Finextra
+      domain: finextra.com
+    quality: 39
     images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2019/05/fintechtimes-1-1-1-1-1024x575.png"
-        width: 1024
-        height: 575
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/aeb167a4e29002042d10d40ed51206ad.jpg"
+        width: 480
+        height: 270
         isCached: true
-  - title: "HK leads in fintech development"
-    excerpt: "The progress of fintech in Hong Kong is very reassuring. In recent years, a number of major fintech initiatives have been launched, and widely adopted, by businesses and consumers alike."
-    publishedDateTime: 2020-11-02T07:28:00Z
-    webUrl: "https://www.news.gov.hk/eng/2020/11/20201102/20201102_105902_909.html"
+  - title: "Chinese Fintech Firm Lufax to Lay the Groundwork for its Global Expansion Over Next 5 Years"
+    excerpt: "Chinese Fintech company Lufax is reportedly planning to lay the groundwork for its global expansion over the next 5 years."
+    publishedDateTime: 2020-11-04T01:45:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/11/168712-chinese-fintech-firm-lufax-to-lay-the-groundwork-for-its-global-expansion-over-next-5-years/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/168712-chinese-fintech-firm-lufax-to-lay-the-groundwork-for-its-global-expansion-over-next-5-years/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/168712-chinese-fintech-firm-lufax-to-lay-the-groundwork-for-its-global-expansion-over-next-5-years/amp/"
     type: article
     provider:
-      name: 香港政府新闻网
-      domain: news.gov.hk
-    quality: 24
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 34
     images:
-      - url: "http://www.news.gov.hk/eng/2020/10/20201019/20201019_172233_798/images/20201019174812254.jpg"
-        width: 600
-        height: 400
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/06/Lufax-300x247.jpg"
+        width: 300
+        height: 247
         isCached: true
-  - title: "Top 10 Asian FinTech Startups You Need to Follow"
-    excerpt: "Bowen Khong takes a look at 10 Asian Fintech Startups that you should be aware of they include Ant Group, Ping An Technology, Dr Wealth, Grab Pay, Razer Pay, Folio, Viva Republic, Policy Bazaar, HelloGold,"
-    publishedDateTime: 2020-11-04T07:00:00Z
-    webUrl: "https://www.enterprisetimes.co.uk/2020/11/04/top-10-asian-fintech-startups-you-need-to-follow/"
-    type: article
-    provider:
-      name: enterprisetimes.co.uk
-      domain: enterprisetimes.co.uk
-    quality: 24
-    images:
-      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2020/10/Photo-by-Christina-@-wocintechchat.jpg"
-        width: 728
-        height: 410
-        isCached: true
-  - title: "Crowdsourcing startup wins FinTech Frontier pitch competition"
-    excerpt: "A Pittsburgh-based startup won FinTech Frontier’s inaugural pitch competition, and here's what the company had to say about Cincinnati."
-    publishedDateTime: 2020-11-02T17:37:00Z
-    webUrl: "https://www.bizjournals.com/cincinnati/inno/stories/news/2020/11/02/fintech-frontier-names-pitch-competition-winner.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
-  - title: "Hong Kong Cyberport: Cyberport sees RegTech's potential to become a rising industry star during Hong Kong FinTech Week"
-    excerpt: "As a FinTech partner at this year's Hong Kong FinTech Week, Cyberport invited scholars, outstanding financial industry leaders and its community start-ups"
-    publishedDateTime: 2020-11-04T08:29:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-11/51145177-hong-kong-cyberport-cyberport-sees-regtech-s-potential-to-become-a-rising-industry-star-during-hong-kong-fintech-week-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "bti1iVtkbgURkxh+iyzjG5Pn7qVOdxyO4Jy1RjkVjF7ErITwdN8rngE+Ick4DPX6XYpzQxldsa7fgYChmqgBkbNYJ+FFTSv8M2bPz6EDR2atSheJCONEdBz4MRejyToFx2WjSvzaV25tusKTWGxIyka6cooRvoxT2yQv1T4EhUgvm3GxM8bRyym1XPUk+irsnQ7LP/56eoIvipWoW7i8X1AWfmDuQ1MKP3QYKwQXKFAR8UoKIRyEPzi2ZlG/+/8RAPC95a0Eu/I+QiIGD6NrGZ0Ls22o3iMB1gQ9fx0FZlrLVD6QP6ZtCPrTW2DEChY8cHtnk5Tks15n5czPlmW60Rtntx5ja2bd0JIk/BGBQn0zVQlfrL6Uwx0KgduIRNqkwpTyO2NrrHCzI0a+vWeRNW+zw2qrVUDXmFYIb4uAbcbMpylYZX41fQKKbKSABS1MuccnncxUxMeFi7a6jdUwJx+QgJo0mEwED3kvJ140E97LYQiAYXtxRc7BDNC3/rnVm5Crm5GEbCWNxC9cSpVtVA==;dg3pcCqMW7Oh3IgHcCEF9w=="
 ---
