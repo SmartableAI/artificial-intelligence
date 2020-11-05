@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomdavenport/2020/11/03/the-future-of-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/11/03/the-future-of-work-now-ai-assisted-skin-imaging/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Zoom Out | Here's a peek at the future of hiring with artificial intelligence"
-    excerpt: "Aman Gour, Co-founder, Head of Product & Partnerships, believes that “we are currently in a phase of ‘augmented intelligence’ where the tech product is like Google Maps and the recruiter is in the driving seat”. It gives you the desired data ..."
-    publishedDateTime: 2020-11-01T05:07:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/zoom-out-heres-a-peek-at-the-future-of-hiring-with-artificial-intelligence-6046541.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/trends/zoom-out-heres-a-peek-at-the-future-of-hiring-with-artificial-intelligence-6046541.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/zoom-out-heres-a-peek-at-the-future-of-hiring-with-artificial-intelligence-6046541.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 54
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2019/03/Artificial-Intelligence-770x433.jpg?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
-        isCached: true
   - title: "Leveraging AI: The Future Of Commodity Trading"
     excerpt: "In recent years, AI has been adapted to the commodity trading world. Gone are the days of scratch pad notes and hours of gathering and correlating market data. Commodity trading is inherently a fast-paced environment and always has been."
     publishedDateTime: 2020-11-03T16:06:00Z

@@ -10,7 +10,7 @@
       "originalUrl": "https://techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -49,7 +49,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -395,6 +396,49 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-ekkonos-machine-learning-innovation-wins-husqvarna-groups-sustainovate-open.md",
+      "title": "Ekkono's machine learning innovation wins Husqvarna Group's Sustainovate Open",
+      "excerpt": "Husqvarna Group announces the winner of the first Sustainovate Open competition. Ekkono Solutions, a Swedish software startup, won the opportunity to develop Husqvarna's Automower® robotic lawn mowers using its Edge Machine Learning software.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ekkono-s-machine-learning-innovation-wins-husqvarna-group-s-sustainovate-open-1029768806",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ekkono-s-machine-learning-innovation-wins-husqvarna-group-s-sustainovate-open-1029768806",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ekkono-s-machine-learning-innovation-wins-husqvarna-group-s-sustainovate-open-1029768806",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ekkono-s-machine-learning-innovation-wins-husqvarna-group-s-sustainovate-open-1029768806",
+      "publishedDateTime": "2020-11-05T00:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -935,8 +979,8 @@
       "title": "Brainome launches product to optimize machine learning development process",
       "excerpt": "Brainome's new product, Daimensions, seeks to eliminate brute-force aspects of machine learning model development, integrate with existing CI/CD infrastructure and generate small ML models that can run efficiently on commodity hardware.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/brainome-launches-product-to-optimize-machine-learning-development-process/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/brainome-launches-product-to-optimize-machine-learning-development-process/",
+      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/brainome-launches-product-to-optimize-machine-learning-development-process/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/brainome-launches-product-to-optimize-machine-learning-development-process/",
       "featuredContent": null,
       "highlight": null,
       "heat": 92,
@@ -944,8 +988,8 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/brainome-launches-product-to-optimize-machine-learning-development-process/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/brainome-launches-product-to-optimize-machine-learning-development-process/",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/brainome-launches-product-to-optimize-machine-learning-development-process/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/brainome-launches-product-to-optimize-machine-learning-development-process/",
       "publishedDateTime": "2020-11-04T06:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -1172,58 +1216,6 @@
       "topics": [
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-adding-custom-data-sources-to-amazon-kendra.md",
-      "title": "Adding custom data sources to Amazon Kendra",
-      "excerpt": "Amazon Kendra is a highly accurate and easy-to-use intelligent search service powered by machine learning (ML). Amazon Kendra provides native connectors for popular data sources like Amazon Simple Storage Service (Amazon S3), SharePoint, ServiceNow, OneDrive, Salesforce, and Confluence so you can easily",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/adding-custom-data-sources-to-amazon-kendra/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/adding-custom-data-sources-to-amazon-kendra/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/29/Adding-custom-data-sources-to-Amazon-Kendra-4.jpg",
-          "width": 509,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-03T15:15:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

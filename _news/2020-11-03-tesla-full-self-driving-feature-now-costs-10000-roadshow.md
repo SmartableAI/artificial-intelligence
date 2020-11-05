@@ -116,6 +116,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "OOIDA raises concerns over Tesla’s Full Self-Driving system"
+    excerpt: "In a letter to NHTSA, OOIDA sounded the alarm on Tesla's Full Self-Driving system, calling it a significant threat to small-business truckers."
+    publishedDateTime: 2020-11-05T21:20:00Z
+    webUrl: "https://landline.media/ooida-raises-concerns-over-teslas-full-self-driving-system/"
+    type: article
+    provider:
+      name: Land Line
+      domain: landline.media
+    quality: 54
+    images:
+      - url: "https://landline.media/wp-content/uploads/2020/11/201105-OOIDA-tesla.jpg"
+        width: 540
+        height: 420
+        isCached: true
   - title: "Tesla's 'Full Self-Driving\" Gets Mixed, But Improving Reviews"
     excerpt: "Tesla has released an early version of its"
     publishedDateTime: 2020-11-03T11:23:00Z

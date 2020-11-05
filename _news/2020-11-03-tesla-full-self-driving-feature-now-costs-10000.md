@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-el
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-elon-musk-price/"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -105,6 +105,20 @@ related:
       - url: "https://cdn.motor1.com/images/mgl/nYB8R/s1/fsd.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "OOIDA raises concerns over Tesla’s Full Self-Driving system"
+    excerpt: "In a letter to NHTSA, OOIDA sounded the alarm on Tesla's Full Self-Driving system, calling it a significant threat to small-business truckers."
+    publishedDateTime: 2020-11-05T21:20:00Z
+    webUrl: "https://landline.media/ooida-raises-concerns-over-teslas-full-self-driving-system/"
+    type: article
+    provider:
+      name: Land Line
+      domain: landline.media
+    quality: 54
+    images:
+      - url: "https://landline.media/wp-content/uploads/2020/11/201105-OOIDA-tesla.jpg"
+        width: 540
+        height: 420
         isCached: true
   - title: "Tesla Full Self-Driving feature now costs $10,000 - Roadshow"
     excerpt: "The beta launched about a week and a half ago, and just like Elon Musk said, it now costs even more. The Room Where It Happened : A White House Memoir Hardcover – 23 Jun. 2020 by John Bolton (Author)."
