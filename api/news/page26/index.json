@@ -2,6 +2,49 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-10-15-the-7-best-startups-you-can-buy-on-seedinvest-right-now.md",
+      "title": "The 7 Best Startups You Can Buy On SeedInvest Right Now",
+      "excerpt": "Miso Robotics is the developer of Flippy, an AI-powered robot that cooks in restaurant ... But he has experience as a startup and turnaround executive, having negotiated various financing and ...",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2020/10/the-7-best-startups-you-can-buy-on-seedinvest-right-now/",
+      "originalUrl": "https://investorplace.com/2020/10/the-7-best-startups-you-can-buy-on-seedinvest-right-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2020/08/startups.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2020/10/the-7-best-startups-you-can-buy-on-seedinvest-right-now/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/10/the-7-best-startups-you-can-buy-on-seedinvest-right-now/amp/",
+      "publishedDateTime": "2020-10-14T21:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-banking-on-ai-how-ai-is-changing-the-face-of-fintech.md",
       "title": "Banking on AI: How AI is changing the face of Fintech",
       "excerpt": "A recent study by McKinsey suggested that by 2022, over 30% of the tasks in the Fintech sector would be taken over by machines.",
@@ -1159,58 +1202,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-azure-data-explorer-gets-new-engine-numerous-enhancements-and-synapse-integration.md",
-      "title": "Azure Data Explorer gets new engine, numerous enhancements and Synapse integration",
-      "excerpt": "Microsoft is taking Azure Data Explorer (ADX), a hidden gem in its cloud platform, and trotting it out to join the Azure analytics mainstream. Performance gains and numerous integrations should make ADX's heretofore latent value much more apparent and beneficial,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/azure-data-explorer-gets-new-engine-numerous-enhancements-and-synapse-integration/",
-      "originalUrl": "https://www.zdnet.com/article/azure-data-explorer-gets-new-engine-numerous-enhancements-and-synapse-integration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/10/14/8f1d0a74-ad46-4527-b056-747840964fa8/3.png",
-          "width": 999,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/azure-data-explorer-gets-new-engine-numerous-enhancements-and-synapse-integration/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/azure-data-explorer-gets-new-engine-numerous-enhancements-and-synapse-integration/",
-      "publishedDateTime": "2020-10-14T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

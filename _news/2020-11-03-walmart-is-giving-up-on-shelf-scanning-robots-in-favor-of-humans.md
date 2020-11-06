@@ -1,50 +1,51 @@
 ---
 category: news
-title: "Walmart Scraps Plan to Have Robots Scan Shelves"
-excerpt: "The retail giant is ending its push to have machines developed by Bossa Nova Robotics rove stores to keep track of inventory, after discovering during the coronavirus pandemic that humans can help get similar results."
-publishedDateTime: 2020-11-03T00:29:00Z
-originalUrl: "https://www.wsj.com/articles/walmart-shelves-plan-to-have-robots-scan-shelves-11604345341"
-webUrl: "https://www.wsj.com/articles/walmart-shelves-plan-to-have-robots-scan-shelves-11604345341"
-ampWebUrl: "https://www.wsj.com/amp/articles/walmart-shelves-plan-to-have-robots-scan-shelves-11604345341"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/walmart-shelves-plan-to-have-robots-scan-shelves-11604345341"
+title: "Walmart is giving up on shelf-scanning robots in favor of humans"
+excerpt: "Walmart began using robots supplied by Bossa Nova Robotics in 2017, with initial deployments in 50 locations. The mobile robots would simplify routine work in stores, said the company, using machine vision to scan shelves and identify what products needed restocking."
+publishedDateTime: 2020-11-03T11:45:00Z
+originalUrl: "https://www.theverge.com/2020/11/3/21547306/walmart-shelf-scanning-robots-automation-bossa-nova-robotics-contract-ended"
+webUrl: "https://www.theverge.com/2020/11/3/21547306/walmart-shelf-scanning-robots-automation-bossa-nova-robotics-contract-ended"
+ampWebUrl: "https://www.theverge.com/platform/amp/2020/11/3/21547306/walmart-shelf-scanning-robots-automation-bossa-nova-robotics-contract-ended"
+cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/11/3/21547306/walmart-shelf-scanning-robots-automation-bossa-nova-robotics-contract-ended"
 type: article
-quality: 172
-heat: 242
-published: true
+quality: 89
+heat: -1
+published: false
 
 provider:
-  name: Wall Street Journal
-  domain: wsj.com
+  name: The Verge
+  domain: theverge.com
   images:
-    - url: "/assets/images/organizations/wsj.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://images.wsj.net/im-253418/social"
-    width: 1280
-    height: 640
+  - url: "https://cdn.vox-cdn.com/thumbor/t3ZrzqtpB7sjyV4z4vnFdTPRAys=/0x0:3500x2240/1400x933/filters:focal(1470x840:2030x1400):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67730216/964537032.jpg.0.jpg"
+    width: 1400
+    height: 933
     isCached: true
 
 related:
-  - title: "Walmart is giving up on shelf-scanning robots in favor of humans"
-    excerpt: "Walmart began using robots supplied by Bossa Nova Robotics in 2017, with initial deployments in 50 locations. The mobile robots would simplify routine work in stores, said the company, using machine vision to scan shelves and identify what products needed restocking."
-    publishedDateTime: 2020-11-03T11:45:00Z
-    webUrl: "https://www.theverge.com/2020/11/3/21547306/walmart-shelf-scanning-robots-automation-bossa-nova-robotics-contract-ended"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/11/3/21547306/walmart-shelf-scanning-robots-automation-bossa-nova-robotics-contract-ended"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/11/3/21547306/walmart-shelf-scanning-robots-automation-bossa-nova-robotics-contract-ended"
+  - title: "Walmart Scraps Plan to Have Robots Scan Shelves"
+    excerpt: "The retail giant is ending its push to have machines developed by Bossa Nova Robotics rove stores to keep track of inventory, after discovering during the coronavirus pandemic that humans can help get similar results."
+    publishedDateTime: 2020-11-03T00:29:00Z
+    webUrl: "https://www.wsj.com/articles/walmart-shelves-plan-to-have-robots-scan-shelves-11604345341"
+    ampWebUrl: "https://www.wsj.com/amp/articles/walmart-shelves-plan-to-have-robots-scan-shelves-11604345341"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/walmart-shelves-plan-to-have-robots-scan-shelves-11604345341"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 89
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 172
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/t3ZrzqtpB7sjyV4z4vnFdTPRAys=/0x0:3500x2240/1400x933/filters:focal(1470x840:2030x1400):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67730216/964537032.jpg.0.jpg"
-        width: 1400
-        height: 933
+      - url: "https://images.wsj.net/im-253418/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Former Walmart Exec’s Company Uses AI To Battle Billions In Spoiled Produce"
     excerpt: "More than $15 billion in produce shipments to food stores is wasted or rejected each year. But a former Walmart shipping executive has started a company to help reduce those losses by using technology to streamline the process."
@@ -137,6 +138,6 @@ related:
         height: 787
         isCached: true
 
-secured: "vUTshvVgHcldVvPAGEeJU7/18aBRlC19p3gkGwbTtYcLp/RCJwTCGLPJRz/24C/DnhXnA9/hX8Qmt4qGgHqyBij/wtM8X8A0VET9r5+uNve06SZsgQA0ZmPpXlVIgEX17rQeHktXLmRUgfLQRJH7MrP5qeRE3/eDD0aQbODyJ0ZwddlzH4hZcDW8jtDz5NT486L3pjf+RFbot0OmqVrVWoE3AaPosU5twjDiSgI4pK3JHKixgSfKCjUd4WNPWYjj+J8krRN4zOSe2b1TqjGYOeZjIAHJlD5eem0jAMSYEC1ayQcLvnRrmQn9gTx74gRV8v4YKUvoZaCgtBTY6xHc1izdK6lG4EB0La9Hd8u5vyP/CLwxCouMAFCRmh4vb6D6gqd+3fyfOSyfbGtC6pxSAYxJYzr82P/nn9G05x2C3UkTGllEFtiYIKXVHlEVTNq7UJKC9W/qE+MW7BattQZeX5eou+hmpr/5D406I2SrOek3UVlXJu+pNwU2ISPMtvn9fbcsIvRSg3XlBWbEkZDqbJAMfmKPzDpravUD39xvCXQ=;a5MUBOg5GbhJijBHrMvDoA=="
+secured: "4kYSwpVZAfrL8+Qh5aYNTPZ4lUT38ZDjUI7fEUePqDMYWmcT01Wtgxt0DAyKHdCfy+JPGNtJgRjPDKDh5BTIGlPgA/+GOMsff2U+/B94n1XdjmxtWuQg1QT+b+iv8NWdhqc5oDarKWF0YEOtjfThtfBrCccTIdL6W27sD/uR2k+FWmh5+GWDNHnEwIArBiOI4pdJ9f0S10Nc8fp4iYRfr7iDzwS6crkVFoQVp2X3s/H0gUvxU7RxzZGMh5oO+BA2GobcJZ9i0YiUDUNL6LCkdHxhZXnD1QaEOgW5uwV/6jAp/c6cLfj/ZKiNsa72p0onh/Ik85iff/T/vj2tu6sSFeqUFIG57GF/OnfczjfWVPs=;o9C7IFfJGninE5271ss5Lg=="
 ---
 

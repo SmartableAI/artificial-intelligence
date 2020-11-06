@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-29-face-recognition-systems-market.md",
+      "title": "Face Recognition Systems Market",
+      "excerpt": "According to Market Growth Insight, the Face Recognition Systems Market is anticipated to reach USD XX billion by the end of 2025 with projected CAGR of XX% over the near future. The report delivers thorough analysis of the key drivers, opportunities ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth",
+      "originalUrl": "https://www.openpr.com/news/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/a/Ta29239767_g.jpg",
+          "width": 750,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2175976/as-per-a-new-study-on-face-recognition-systems-market-2020-growth",
+      "publishedDateTime": "2020-10-29T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-sibros-to-accelerate-adoption-of-advanced-vehicle-connectivity-solutions-on-aws.md",
       "title": "Sibros To Accelerate Adoption Of Advanced Vehicle Connectivity Solutions On AWS",
       "excerpt": "Deep-connected vehicle platform Sibros announced on Wednesday its collaboration with Amazon Web Services (AWS) to accelerate the adoption ... diagnostics and artificial intelligence (AI)-powered analytics. The company also securely manages all in-vehicle ...",
@@ -1183,49 +1226,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-global-artificial-intelligence-in-healthcare-market.md",
-      "title": "Global Artificial Intelligence in Healthcare Market",
-      "excerpt": "DBMR has added a new report titled Global Artificial Intelligence in Healthcare Market with data Tables for historical and forecast years represented with Chats & Graphs spread through Pages with easy to understand detailed analysis. Global Artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2175181/global-artificial-intelligence-in-healthcare-market-2020",
-      "originalUrl": "https://www.openpr.com/news/2175181/global-artificial-intelligence-in-healthcare-market-2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/a/Ta28369455_g.jpg",
-          "width": 420,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2175181/global-artificial-intelligence-in-healthcare-market-2020",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2175181/global-artificial-intelligence-in-healthcare-market-2020",
-      "publishedDateTime": "2020-10-28T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

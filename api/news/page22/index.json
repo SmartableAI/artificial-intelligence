@@ -2,6 +2,49 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-10-18-sensor-fusion-enables-robotic-grip.md",
+      "title": "Sensor fusion enables robotic grip",
+      "excerpt": "Researchers at the National University of Singapore recently demonstrated the advantages of using neuromorphic sensor fusion to help robots grip and identify objects. It’s just one of a number of interesting projects they’ve been working on including ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.embedded.com/sensor-fusion-enables-robotic-grip/",
+      "originalUrl": "https://www.embedded.com/sensor-fusion-enables-robotic-grip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.embedded.com/wp-content/uploads/2020/10/img20201022091134Neuromorphic-Sensor-Fusion-Lets-_1.jpg",
+          "width": 640,
+          "height": 609,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded",
+        "domain": "embedded.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-18-artificial-intelligence-humanity-and-the-future.md",
       "title": "Artificial intelligence, humanity, and the future",
       "excerpt": "By Shayne LooperIn September, the British news website \"The Guardian\" published a story written entirely by an AI – an artificial",
@@ -1117,49 +1160,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-machine-learning-depends-on-data-scientists-to-handle-the-ml-configurations-and-data-inputs.md",
-      "title": "Machine learning depends on data scientists to handle the ML configurations and data inputs",
-      "excerpt": "AutoML addresses the challenges of machine learning analysis by eliminating labor intensive tasks and undertakes the automation of machine learning applications to create better ML models",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/automl-alleviates-process-machine-learning-analysis/",
-      "originalUrl": "https://www.analyticsinsight.net/automl-alleviates-process-machine-learning-analysis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Machine-Learning-4.jpg",
-          "width": 1680,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-16T04:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

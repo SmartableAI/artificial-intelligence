@@ -49,7 +49,7 @@ related:
     provider:
       name: Independent Catholic News
       domain: indcatholicnews.com
-    quality: 39
+    quality: 41
     images:
       - url: "http://s3-eu-west-1.amazonaws.com/indcatholicnews/article-images/1604619763caiIq8fFvN4u0HDhZCkmYLeKlpVtGw.png"
         width: 400

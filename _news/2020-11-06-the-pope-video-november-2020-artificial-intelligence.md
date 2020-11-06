@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-05T22:06:00Z
 originalUrl: "https://www.indcatholicnews.com/news/40837"
 webUrl: "https://www.indcatholicnews.com/news/40837"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "http://s3-eu-west-1.amazonaws.com/indcatholicnews/article-images/1604619763caiIq8fFvN4u0HDhZCkmYLeKlpVtGw.png"

@@ -2,17 +2,17 @@
 category: news
 title: "University of Minnesota Duluth's frontline workers in the making: robots"
 excerpt: "A UMD professor and her students are in the process of programming \"COVID gossip bots\" to socialize with and monitor isolated residents of assisted living facilities."
-publishedDateTime: 2020-11-06T00:57:00Z
-originalUrl: "https://www.mitchellrepublic.com/news/education/6731443-University-of-Minnesota-Duluths-frontline-workers-in-the-making-robots"
-webUrl: "https://www.mitchellrepublic.com/news/education/6731443-University-of-Minnesota-Duluths-frontline-workers-in-the-making-robots"
+publishedDateTime: 2020-11-06T01:45:00Z
+originalUrl: "https://www.rivertowns.net/news/education/6731443-University-of-Minnesota-Duluths-frontline-workers-in-the-making-robots"
+webUrl: "https://www.rivertowns.net/news/education/6731443-University-of-Minnesota-Duluths-frontline-workers-in-the-making-robots"
 type: article
 quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Mitchell Daily Republic
-  domain: mitchellrepublic.com
+  name: River Towns
+  domain: rivertowns.net
 
 topics:
   - AI in Robotics
@@ -54,6 +54,6 @@ related:
         height: 712
         isCached: true
 
-secured: "xZOoSy5jzqLosfgEoWL8MypowB7DjNCo5s0jZaA2S9AC5qrgjR+t6b/j6NBUQ8LS+mCju1HoUfoeaZbG0gsDeL0QCKfW9oK1oh3jAw/42jwc+7dmJlgqAigayqK1BQ+rC3VvKtxSMgBP7+UhLtDuqmPup5tU0zHZ3IFi0YILlgkuc83XsfaR6TJ0UfLz7O8s2a/DUfTXH6Xx2WDD+b46mKdVYA6R1MFSk8aGBo9WK7kxhoW9QiXpULp2UtkQFFluNa0QxlfFPoYQBeMf7jboE9bn2HR5vJzrBf1w0XRWC+ITvCmCWV4muxyP4jpYqS+7dK3BtCZK3kSTa02byoKrFz1s7r4LzfO9V22tweMqx/Q=;r5qFXhDk2tV4a6yWfuKz6Q=="
+secured: "faHzgd8gJZaKtypP4RQ68H8d5ZYZtr40KBtNVYtfVqgKXaY4FZ2zQScLRtiZyw65iTaAQ2tbqFkpWDvoWN9Lb86qQxPehgPwzVMTM1O0vTDFCJjx3xv0foADlFp1IHhNz/CqGfl8g2HR21v7HoxNEZ4DGpsC/527kXofBe7EBww7a7Wp4HUFVjQwzpj7i71Mtv6+Npia2VJzQDVW/S1fjE6YSHSILTwvFKAiLfsjNGNMX3UAP3ZmFEA+UJvwZudjikZfqRP3PcEmg5VpNWbQUhzyYsGan+US5M2TnTYTeAS65WmBRuKAuyBrg7GQCA1m4gmpEcNY+n/L43gUmEwE76o/VlhYw+njtgDul8CwRXc=;xTibPnCmQaVgR7keLYou8w=="
 ---
 

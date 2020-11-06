@@ -46,6 +46,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Walmart is giving up on shelf-scanning robots in favor of humans"
+    excerpt: "Walmart began using robots supplied by Bossa Nova Robotics in 2017, with initial deployments in 50 locations. The mobile robots would simplify routine work in stores, said the company, using machine vision to scan shelves and identify what products needed restocking."
+    publishedDateTime: 2020-11-03T11:45:00Z
+    webUrl: "https://www.theverge.com/2020/11/3/21547306/walmart-shelf-scanning-robots-automation-bossa-nova-robotics-contract-ended"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/11/3/21547306/walmart-shelf-scanning-robots-automation-bossa-nova-robotics-contract-ended"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/11/3/21547306/walmart-shelf-scanning-robots-automation-bossa-nova-robotics-contract-ended"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 89
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/t3ZrzqtpB7sjyV4z4vnFdTPRAys=/0x0:3500x2240/1400x933/filters:focal(1470x840:2030x1400):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67730216/964537032.jpg.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Walmart abandons shelf-scanning robots, lets humans do work"
     excerpt: "Walmart is laying off the robots it had deployed in about 500 stores to keep tabs on what’s on and not on the shelves."
     publishedDateTime: 2020-11-02T21:58:00Z

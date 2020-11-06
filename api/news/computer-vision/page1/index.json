@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-11-05-maine-voters-double-down-on-facial-recognition-ban-in-win-for-privacy.md",
-      "title": "Maine voters double down on facial recognition ban in win for privacy",
-      "excerpt": "In other words, if the city violates your right to not be wrapped up in a shady facial recognition database, you get paid. According to early elections results, the act passed with just over 64 ...",
+      "path": "_news/2020-11-04-portland-maine-votes-in-favor-of-facial-recognition-ban.md",
+      "title": "Portland, Maine votes in favor of facial recognition ban",
+      "excerpt": "Portland, Maine is the latest in the growing list of cities in the US to ban facial recognition technologies. According to Bangor Daily News, people voted in favor of of passing a new measure that strengthens Portland’s existing ban on the use of facial recognition tech by law enforcement agencies and public officials.",
       "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/portland-maine-passes-facial-recognition-ban-fines/",
-      "originalUrl": "https://mashable.com/article/portland-maine-passes-facial-recognition-ban-fines/",
+      "webUrl": "https://www.engadget.com/portland-maine-facial-recognition-ban-102520333.html",
+      "originalUrl": "https://www.engadget.com/portland-maine-facial-recognition-ban-102520333.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 204,
       "tags": null,
       "images": [
         {
-          "url": "https://mondrian.mashable.com/2020%252F11%252F05%252F4c%252F753b163a041b44bfa12e6c2bfb0e7343.c1d75.png%252F1200x630.png?signature=tOtKGH02FwxWIuIDU9FFqV5oQ8k=",
-          "width": 1200,
-          "height": 630,
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2Fcc1bf930-1e7e-11eb-bcbb-968035ffca74&client=amp-blogside-v2&signature=7d33292ecf8e506a1787df069226608b5cfa0e66",
+          "width": 600,
+          "height": 350,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mashable.com/article/portland-maine-passes-facial-recognition-ban-fines.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/portland-maine-passes-facial-recognition-ban-fines.amp",
-      "publishedDateTime": "2020-11-04T16:30:00-08:00",
+      "ampWebUrl": "https://www.engadget.com/amp/portland-maine-facial-recognition-ban-102520333.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/portland-maine-facial-recognition-ban-102520333.html",
+      "publishedDateTime": "2020-11-04T02:50:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

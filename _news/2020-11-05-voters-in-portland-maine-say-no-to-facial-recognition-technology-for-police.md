@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Portland, Maine votes in favor of facial recognition ban"
+    excerpt: "Portland, Maine is the latest in the growing list of cities in the US to ban facial recognition technologies. According to Bangor Daily News, people voted in favor of of passing a new measure that strengthens Portland’s existing ban on the use of facial recognition tech by law enforcement agencies and public officials."
+    publishedDateTime: 2020-11-04T10:50:00Z
+    webUrl: "https://www.engadget.com/portland-maine-facial-recognition-ban-102520333.html"
+    ampWebUrl: "https://www.engadget.com/amp/portland-maine-facial-recognition-ban-102520333.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/portland-maine-facial-recognition-ban-102520333.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 104
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2Fcc1bf930-1e7e-11eb-bcbb-968035ffca74&client=amp-blogside-v2&signature=7d33292ecf8e506a1787df069226608b5cfa0e66"
+        width: 600
+        height: 350
+        isCached: true
   - title: "Maine voters double down on facial recognition ban in win for privacy"
     excerpt: "In other words, if the city violates your right to not be wrapped up in a shady facial recognition database, you get paid. According to early elections results, the act passed with just over 64 ..."
     publishedDateTime: 2020-11-05T00:30:00Z
@@ -121,6 +137,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Portland votes to ban facial recognition scanning by police"
+    excerpt: "These include Uber and Lyft drivers in California losing their fight to be classified as employees, as well as the banning of facial recognition software being used by police in Portland, Maine, in the US. It is the latter that is the focus of this story ..."
+    publishedDateTime: 2020-11-04T15:15:00Z
+    webUrl: "https://www.htxt.co.za/2020/11/04/portland-votes-to-ban-facial-recognition-scanning-by-police/"
+    ampWebUrl: "https://www.htxt.co.za/2020/11/04/portland-votes-to-ban-facial-recognition-scanning-by-police/amp/"
+    cdnAmpWebUrl: "https://www-htxt-co-za.cdn.ampproject.org/c/s/www.htxt.co.za/2020/11/04/portland-votes-to-ban-facial-recognition-scanning-by-police/amp/"
+    type: article
+    provider:
+      name: Htxt.Africa
+      domain: htxt.co.za
+    quality: 59
+    images:
+      - url: "https://www.htxt.co.za/wp-content/uploads/2020/07/flat-3252983.png"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Facial recognition ban for local police with private right of action passes in Portland, Maine"
     excerpt: "A ballot initiative to ban face biometrics use by local police and agencies in Portland, Maine, and provide a right of private right of action to individuals if it is violated, has passed"
     publishedDateTime: 2020-11-04T20:14:00Z
@@ -135,20 +167,15 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Method for facial recognition bias reduction with adversarial network shows promise"
-    excerpt: "A prominent trio of biometrics researchers have proposed a way to remove the difference, or bias, from facial recognition performance between different demographics. A paper jointly written by"
-    publishedDateTime: 2020-11-02T22:46:00Z
-    webUrl: "https://www.biometricupdate.com/202011/method-for-facial-recognition-bias-reduction-with-adversarial-network-shows-promise"
+  - title: "Portland bans facial recognition tech use by cops, officials"
+    excerpt: "The US city of Portland, Maine on Wednesday voted to ban the use of facial recognition by police and city officials. The Bangor Daily News reported that voters passed a ballot initiative \"bolstering a ban on facial recognition by city agencies\"."
+    publishedDateTime: 2020-11-04T14:42:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20201104/3652950.html"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 33
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/10124235/facial-recognition-crowds.jpg"
-        width: 1920
-        height: 1005
-        isCached: true
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "qc6Gj6kY3n2OJY64PJ/75JI6DnJc1ty1vU2IBKPRj4ikbHAEvrGp2KA0r4QR8KI/hUf+7S83VbBVc6qv+4tqQAJtwNmOBgm21F5pf53W+Uo2q/40ToTnyS0N2+hDUK3rH52eoPrbBQ9KHzLOyGLJ9DTQY1haQ22FcDe6TiuTv/VmjF3FkrtmYPkbU+5DDGSqn68diZneA1H66wK/M60Qhu1NIIprm6X+Berfj5JSid9laymMlslwhjlb5eLZ9G2Bx9lH4M9/+6ZXm1LqQdfHy0BFzZ+CE8sZ+9u2rrBbIvM0ZNTlXIkKbF3o7mczLiAoYfP90HMGRCzrp2Z25q0hHA4gm3Mhe8lwYSvHFjPvTPi9I+J1MMJMZ59aHjX0+SP8O5hRHxK5LqciXF4OwqYQHLq8ldUleBoVv2Qs7Z162dCUdrNEMUk2pBjD80pjIwR47phyRJsLJXUXZgyWcmoQwfI3sDxnCzzY2O+/IWr6p0ioMA+AiwpvOosTNaSrwI9j0mq1YXBixwnrNkoecx4yfw==;bBHVR9wAVdu3tHRc/VNWGw=="
 ---

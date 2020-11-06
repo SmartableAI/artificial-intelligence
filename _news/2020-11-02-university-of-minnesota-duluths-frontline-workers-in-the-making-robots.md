@@ -42,12 +42,12 @@ related:
         isCached: true
   - title: "University of Minnesota Duluth's frontline workers in the making: robots"
     excerpt: "A UMD professor and her students are in the process of programming \"COVID gossip bots\" to socialize with and monitor isolated residents of assisted living facilities."
-    publishedDateTime: 2020-11-06T00:57:00Z
-    webUrl: "https://www.mitchellrepublic.com/news/education/6731443-University-of-Minnesota-Duluths-frontline-workers-in-the-making-robots"
+    publishedDateTime: 2020-11-06T01:45:00Z
+    webUrl: "https://www.rivertowns.net/news/education/6731443-University-of-Minnesota-Duluths-frontline-workers-in-the-making-robots"
     type: article
     provider:
-      name: Mitchell Daily Republic
-      domain: mitchellrepublic.com
+      name: River Towns
+      domain: rivertowns.net
     quality: 38
     images:
       - url: "https://www.duluthnewstribune.com/incoming/6739338-rx905s-110220.N.DNT.CovidBot-c01.JPG/alternates/BASE_LANDSCAPE/110220.N.DNT.CovidBot%20c01.JPG"

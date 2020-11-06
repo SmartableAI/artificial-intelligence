@@ -69,20 +69,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 19
-  - title: "AI Eye Podcast Episode 467: Wipro (NYSE: $WIT) and AWS Launch Wipro AWS Business Group, and ImmunoPrecise Collaborates with AI Research Institute Mila"
-    excerpt: "Watching stock news, deal tracker and advancements in artificial intelligence Wipro Limited ( NYSE:WIT) and Amazon Web Service (AWS), a subsidiary of Amazon ( NasdaqGS:AMZN ), announced the launch of Wipro AWS Business Group (WABG),"
-    publishedDateTime: 2020-11-03T18:20:00Z
-    webUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/11031AIEye-WIT-AWS-ImmunoPrecise.asp"
-    type: article
-    provider:
-      name: Investor ideas
-      domain: investorideas.com
-    quality: 14
-    images:
-      - url: "https://www.investorideas.com/images/AI-Eye.jpg"
-        width: 1280
-        height: 1206
-        isCached: true
 
 secured: "WNqfeN5PIzGsSN/TM5OMxPRrAFvr2ob951jiR1RE37IbV2y5b5MKBzp7JbpZmKPruNlMllHjRcNS2v9abriCBVRw2ZihvJ9shjcvTOjjaJFCrTzwycrqrvO0HAXHPQwYl7hBHRQ698ylAU0rdLgiP33R74vIsuKOPVaxm7KJW3tSZOEJvM8XGDlPDeLIaRigNb7S2R7dOUk42m/fP2FLtYlD0BfgSRI81w7bajEPxb7UMgQU4cYhbhcUZA0jtIY3sj34EokFikP5Llt35vCqiE0nqodlDGNOTsxfzwJiSQGBQr8H+WnSFxGZ6Z+TcnRsjh3zgiw4y3EnLFtEUvIPgStCegCQ2wtnExmeavCTHhM=;dJy4g196Yvda6YeEbt2rCA=="
 ---

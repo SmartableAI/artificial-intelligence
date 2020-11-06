@@ -79,6 +79,17 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 39
+  - title: "Wilson Sonsini-Led AI Fintech Files $100M IPO"
+    excerpt: "Venture-backed fintech company Upstart Holdings Inc. filed plans on Thursday for a $100 million initial public offering, hoping to shake up the lending industry through its artificial intelligence-enabled platform under guidance from Wilson Sonsini Goodrich & Rosati PC."
+    publishedDateTime: 2020-11-06T01:09:00Z
+    webUrl: "https://www.law360.com/articles/1326219/wilson-sonsini-led-ai-fintech-files-100m-ipo"
+    ampWebUrl: "https://www.law360.com/amp/articles/1326219"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1326219"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 39
   - title: "Top 10 Asian FinTech Startups You Need to Follow"
     excerpt: "Bowen Khong takes a look at 10 Asian Fintech Startups that you should be aware of they include Ant Group, Ping An Technology, Dr Wealth, Grab Pay, Razer Pay, Folio, Viva Republic, Policy Bazaar, HelloGold,"
     publishedDateTime: 2020-11-04T07:00:00Z

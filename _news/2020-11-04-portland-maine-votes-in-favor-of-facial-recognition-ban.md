@@ -1,47 +1,51 @@
 ---
 category: news
-title: "Maine voters double down on facial recognition ban in win for privacy"
-excerpt: "In other words, if the city violates your right to not be wrapped up in a shady facial recognition database, you get paid. According to early elections results, the act passed with just over 64 ..."
-publishedDateTime: 2020-11-05T00:30:00Z
-originalUrl: "https://mashable.com/article/portland-maine-passes-facial-recognition-ban-fines/"
-webUrl: "https://mashable.com/article/portland-maine-passes-facial-recognition-ban-fines/"
-ampWebUrl: "https://mashable.com/article/portland-maine-passes-facial-recognition-ban-fines.amp"
-cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/portland-maine-passes-facial-recognition-ban-fines.amp"
+title: "Portland, Maine votes in favor of facial recognition ban"
+excerpt: "Portland, Maine is the latest in the growing list of cities in the US to ban facial recognition technologies. According to Bangor Daily News, people voted in favor of of passing a new measure that strengthens Portland’s existing ban on the use of facial recognition tech by law enforcement agencies and public officials."
+publishedDateTime: 2020-11-04T10:50:00Z
+originalUrl: "https://www.engadget.com/portland-maine-facial-recognition-ban-102520333.html"
+webUrl: "https://www.engadget.com/portland-maine-facial-recognition-ban-102520333.html"
+ampWebUrl: "https://www.engadget.com/amp/portland-maine-facial-recognition-ban-102520333.html"
+cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/portland-maine-facial-recognition-ban-102520333.html"
 type: article
 quality: 104
-heat: -1
-published: false
+heat: 204
+published: true
 
 provider:
-  name: Mashable
-  domain: mashable.com
+  name: Engadget
+  domain: engadget.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mondrian.mashable.com/2020%252F11%252F05%252F4c%252F753b163a041b44bfa12e6c2bfb0e7343.c1d75.png%252F1200x630.png?signature=tOtKGH02FwxWIuIDU9FFqV5oQ8k="
-    width: 1200
-    height: 630
+  - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2Fcc1bf930-1e7e-11eb-bcbb-968035ffca74&client=amp-blogside-v2&signature=7d33292ecf8e506a1787df069226608b5cfa0e66"
+    width: 600
+    height: 350
     isCached: true
 
 related:
-  - title: "Portland, Maine votes in favor of facial recognition ban"
-    excerpt: "Portland, Maine is the latest in the growing list of cities in the US to ban facial recognition technologies. According to Bangor Daily News, people voted in favor of of passing a new measure that strengthens Portland’s existing ban on the use of facial recognition tech by law enforcement agencies and public officials."
-    publishedDateTime: 2020-11-04T10:50:00Z
-    webUrl: "https://www.engadget.com/portland-maine-facial-recognition-ban-102520333.html"
-    ampWebUrl: "https://www.engadget.com/amp/portland-maine-facial-recognition-ban-102520333.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/portland-maine-facial-recognition-ban-102520333.html"
+  - title: "Maine voters double down on facial recognition ban in win for privacy"
+    excerpt: "In other words, if the city violates your right to not be wrapped up in a shady facial recognition database, you get paid. According to early elections results, the act passed with just over 64 ..."
+    publishedDateTime: 2020-11-05T00:30:00Z
+    webUrl: "https://mashable.com/article/portland-maine-passes-facial-recognition-ban-fines/"
+    ampWebUrl: "https://mashable.com/article/portland-maine-passes-facial-recognition-ban-fines.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/portland-maine-passes-facial-recognition-ban-fines.amp"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
+      name: Mashable
+      domain: mashable.com
     quality: 104
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2Fcc1bf930-1e7e-11eb-bcbb-968035ffca74&client=amp-blogside-v2&signature=7d33292ecf8e506a1787df069226608b5cfa0e66"
-        width: 600
-        height: 350
+      - url: "https://mondrian.mashable.com/2020%252F11%252F05%252F4c%252F753b163a041b44bfa12e6c2bfb0e7343.c1d75.png%252F1200x630.png?signature=tOtKGH02FwxWIuIDU9FFqV5oQ8k="
+        width: 1200
+        height: 630
         isCached: true
   - title: "Portland, Maine bans police from using facial recognition software"
     excerpt: "On Tuesday, citizens of Portland, Maine passed a ballot measure banning use of facial recognition and surveillance technology by law enforcement, the Bangor Daily News reported. The Portland City Council had banned use of this software by police and city ..."
@@ -177,6 +181,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "s3BRjAQFrIk1TuF8ao+F97ArTDJgdKKqiYDdnncyz9Jp+x+Qi1xi04ZYnthLZYM0cMuYuVdDLsfYUWc48X7mbKgx9uD3FbHll9UmzB32g6zglSsP96ZI3tfGAPLKsWnVZOI1LdVgNHfkQTK3NiQtp1WgILYWbBbwcSY+S8yiASxjAGQBOgT/nQzAmwTniM1RMfk7+TEuejeLX31LP35/DcwigKhRGKQyQivEgkZ/luFd53G04ukQo65+ioZYqXGXwMywefm2n0/FOLYnbgczBQG8nkwNEVZh93YrD2yfWniH6ixZFgmJjfJYRdy8sMjg91rV6OtA4C/7ZIDMkqUnNEfMBL+J6iqi5sIgj5isJYWPWhE9aBBlTYlJNaUbtvJQxFCmQufI9ElR8G1Kbg9Y5vR1Z11dZ1xFxhqOY+hxDtGW2mGCb4+KdnzruuM40HTTJpSYjjtJagYxAHwtnt2QER6+9lm3VoNZ1ec9U+l3X3H7ZSIiXtQXj+n7OxvDK1s675mL3RmtXAeh7VuVL2Ns+A==;5WhVf4t+C8nqIrovgYEBYQ=="
+secured: "DIruMHZiFkwErN1sVvw1OgMw4WZ9QJe5njElrs++nZKWwOFCKbWI0byvnMUinz6UUSGuzzZngoDUhwi1Sy4WQ91r5y+Qakg51uGcIc36umrmxHPQr2vjnekwisFvNbWNFEm/neZ13fvKwVFGjakPoaaujvkRrqGCmkWLEAFvUFggXSTQPRlj9NuyGYvF1JNHlpoLKUIfZrTtThEJ/pTGq+uTNp3YxxWt0qOHztvJhLX/aW7lWbxRy8Sd7WVItDVZIifxig78FzK5KDMol58VAG2qy3LpeqrVWcqUix8AMJiXCunrC+WN50w1gqnmtXCd1p4uxusPVHK+dEmkzfSftwliZfTr4mR1Mt+XHb2Ez4o=;nXFYN1mF37O95ny/+ZdGPw=="
 ---
 

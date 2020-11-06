@@ -1,36 +1,42 @@
 ---
 category: news
-title: "Inside fintech startup Upstart’s IPO filing"
-excerpt: "The fintech startup facilitates loans between consumers ... Upstart’s technology uses what it describes as artificial intelligence (AI) to approve consumer loans. It collects consumer demand ..."
-publishedDateTime: 2020-11-05T19:26:00Z
-originalUrl: "https://techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/"
-webUrl: "https://techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/"
-ampWebUrl: "https://techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/amp/"
-cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/amp/"
+title: "Wilson Sonsini-Led AI Fintech Files $100M IPO"
+excerpt: "Venture-backed fintech company Upstart Holdings Inc. filed plans on Thursday for a $100 million initial public offering, hoping to shake up the lending industry through its artificial intelligence-enabled platform under guidance from Wilson Sonsini Goodrich & Rosati PC."
+publishedDateTime: 2020-11-06T01:09:00Z
+originalUrl: "https://www.law360.com/articles/1326219/wilson-sonsini-led-ai-fintech-files-100m-ipo"
+webUrl: "https://www.law360.com/articles/1326219/wilson-sonsini-led-ai-fintech-files-100m-ipo"
+ampWebUrl: "https://www.law360.com/amp/articles/1326219"
+cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1326219"
 type: article
-quality: 74
-heat: 164
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Law360
+  domain: law360.com
 
 topics:
-  - AI
   - AI in Finance
-
-images:
-  - url: "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-951640954.jpg?w=1024"
-    width: 1024
-    height: 684
-    isCached: true
+  - AI
 
 related:
+  - title: "Inside fintech startup Upstart’s IPO filing"
+    excerpt: "The fintech startup facilitates loans between consumers ... Upstart’s technology uses what it describes as artificial intelligence (AI) to approve consumer loans. It collects consumer demand ..."
+    publishedDateTime: 2020-11-05T19:26:00Z
+    webUrl: "https://techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/"
+    ampWebUrl: "https://techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-951640954.jpg?w=1024"
+        width: 1024
+        height: 684
+        isCached: true
   - title: "Meet Accern, A 2020 Benzinga Global Fintech Awards Finalist"
     excerpt: "Benzinga will be holding its annual Benzinga Global Fintech Awards, a day of dealmaking, networking, and recognition in the financial technology space, on Nov. 10,"
     publishedDateTime: 2020-11-03T17:10:00Z
@@ -68,17 +74,6 @@ related:
     provider:
       name: Zawya
       domain: zawya.com
-    quality: 39
-  - title: "Wilson Sonsini-Led AI Fintech Files $100M IPO"
-    excerpt: "Venture-backed fintech company Upstart Holdings Inc. filed plans on Thursday for a $100 million initial public offering, hoping to shake up the lending industry through its artificial intelligence-enabled platform under guidance from Wilson Sonsini Goodrich & Rosati PC."
-    publishedDateTime: 2020-11-06T01:09:00Z
-    webUrl: "https://www.law360.com/articles/1326219/wilson-sonsini-led-ai-fintech-files-100m-ipo"
-    ampWebUrl: "https://www.law360.com/amp/articles/1326219"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1326219"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
     quality: 39
   - title: "F|T: The FinTech Times – Toeing the line"
     excerpt: "a weekly newsletter covering the biggest FinTech news from around the globe. If you want to read F|T before anyone else, make sure to subscribe using the form at the bottom of this page. Wealthsimple has tapped Paul Teshima, the co-founder of Nudge.ai, to ..."
@@ -141,6 +136,6 @@ related:
       domain: stockhouse.com
     quality: 4
 
-secured: "1gChniqeGsEqiC5v78mI+ahz98Ewwfr64isD0QlEs4L2Z4xYNN9tsHE4EsPqQOyLik/ROCmIRlQydoXjWiVTP8DWB0l91Gpde7pet0sakEokJbwXgtKfrslTtefp61eldNtR2yySzOPTSIE1UrhpTBEqJkzhut9MjJbWtZdcjkpEIEokdM8qLrn74hERlfSAZzvnG/GNA/dOySrQjIj3KbDHLRLCZ3A69o1JuIzmAStqJrrDy83YAv+bl28Gm/tcFa8S27NZ1KSlM4yxiXeNV7KuLM+Kb24eEaHJ2pNwmnMhp/sN3g6E94ZAOUXOXdJsQq0nPOblcGXvt5Yu44EcbbINTRiPenkj8FUygCh0K5E=;BzhyS2GfHx+mCdN4EN/YJQ=="
+secured: "41NIMWeFzz+9g/sYxcXxBMYJIPfysjKqR3KOwbj2PRh4C6+mHkvYzdR20KchqecqyhbojmOjzUtV4KREJa+2kNdnDcK5yqYUfj2PA5YRP6lG1+vo0BmyWNFXSvLsTnnV7+vhCeH7ZMevU7l6cYiP96X0NJmuCHV7spQAqBLE0HMIdfUBu83x2YdBY3RYDb4NVMiMQqVN2t+dYG5OB68/OFLTKF8zyOA/FhxiKsnuIxA4are+YJCxhQ3CfFE3jMYKGD3hHE3MqOrD6XmoZPDu37tJn7JfZB3xrDKJ6f/u2wqlK/EgMztmNct40NfSSpwPgGobQ4sCnALhqoDq0h1FwZF8ybs3bxlnKGk6OuLoDXY=;/ZTCLum1U36/F8nmDAwlXA=="
 ---
 
