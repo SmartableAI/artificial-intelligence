@@ -2,57 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2020-10-25-ai-health-insurance-and-data-harmonization-interview-with-shiv-misra-cvs-health.md",
-      "title": "AI, Health Insurance, And Data Harmonization: Interview With Shiv Misra, CVS Health",
-      "excerpt": "nomenclature and definitions start following the same tune ... What are some of the insights and opportunities for dealing with data and AI from a healthcare and insurance perspectives? Shiv Misra: The potential for Artificial Intelligence within ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/10/24/ai-health-insurance-and-data-harmonization-interview-with-shiv-misra-cvs-health/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2020/10/24/ai-health-insurance-and-data-harmonization-interview-with-shiv-misra-cvs-health/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f94a12e8753d1c882612732%2F0x0.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/10/24/ai-health-insurance-and-data-harmonization-interview-with-shiv-misra-cvs-health/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/10/24/ai-health-insurance-and-data-harmonization-interview-with-shiv-misra-cvs-health/amp/",
-      "publishedDateTime": "2020-10-24T14:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-25-theres-no-turning-back-on-ai-in-the-military.md",
       "title": "There's No Turning Back on AI in the Military",
       "excerpt": "with commercial technologies like cloud and AI—all to shoot down cruise missiles in split seconds—is a harbinger of things to come. Are there disproportionate safety and ethics challenges ahead for the US? Yes. And ours will be the higher road.",
@@ -204,49 +153,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-one-key-to-pandemic-retailing-artificial-intelligence.md",
-      "title": "One Key to Pandemic Retailing: Artificial Intelligence",
-      "excerpt": "Retail is no stranger to artificial intelligence. Nearly a decade ago ... Gilead Sciences won approval for remdesivir as an anti-Covid therapy. With the election looming, House Speaker Nancy Pelosi set a Tuesday deadline to reach a deal on Covid relief.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/one-key-to-pandemic-retailing-artificial-intelligence-51603500768",
-      "originalUrl": "https://www.barrons.com/articles/one-key-to-pandemic-retailing-artificial-intelligence-51603500768",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-248999/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/one-key-to-pandemic-retailing-artificial-intelligence-51603500768",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/one-key-to-pandemic-retailing-artificial-intelligence-51603500768",
-      "publishedDateTime": "2020-10-23T21:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -419,6 +325,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-24-one-key-to-pandemic-retailing-artificial-intelligence.md",
+      "title": "One Key to Pandemic Retailing: Artificial Intelligence",
+      "excerpt": "AI driven by online data and powerful computing has given retailers new abilities to personalize selling and turn on a dime. It will also play an important role after the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/one-key-to-pandemic-retailing-artificial-intelligence-51603500768?link=TD_mansionglobal_new_mansion_global.11147f181987fd93",
+      "originalUrl": "https://www.barrons.com/articles/one-key-to-pandemic-retailing-artificial-intelligence-51603500768?link=TD_mansionglobal_new_mansion_global.11147f181987fd93",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-248999/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/one-key-to-pandemic-retailing-artificial-intelligence-51603500768",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/one-key-to-pandemic-retailing-artificial-intelligence-51603500768",
+      "publishedDateTime": "2020-10-23T16:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1204,6 +1153,48 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-iflytek-largely-unaffected-by-us-blacklisting-chairman.md",
+      "title": "iFlyTek largely unaffected by US blacklisting: chairman",
+      "excerpt": "The US-instigated technology war with China has forced homegrown artificial intelligence (AI) firms to focus more on core technological innovation, the founder and chairman of iFlyTek said on Friday,",
+      "sourceUrl": null,
+      "webUrl": "https://www.globaltimes.cn/content/1204457.shtml",
+      "originalUrl": "https://www.globaltimes.cn/content/1204457.shtml",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globaltimes.cn/Portals/0//attachment/2020/2020-10-23/3e4028ac-da53-4706-8706-65371f7e5280.jpeg",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-23T04:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global Times",
+        "domain": "globaltimes.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

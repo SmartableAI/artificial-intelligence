@@ -2,6 +2,49 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-10-16-the-2nd-china-hangzhou-international-smart-products-expo-and-2020-global-artificial-intelligence-conference-opened-at-hangzhou.md",
+      "title": "The 2nd China (Hangzhou) International Smart Products Expo and 2020 Global Artificial Intelligence Conference opened at Hangzhou",
+      "excerpt": "HANGZHOU, CHINA / ACCESSWIRE / October 15, 2020 / On October 16, the 2nd China (Hangzhou) International Smart Products Expo and 2020 Global Artificial Intelligence Conference opened at Hangzhou International Expo Center.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/accesswire/technology-greater-china-asia-hangzhou-china-2d727c3c9de31e4184159672760bec65",
+      "originalUrl": "https://apnews.com/press-release/accesswire/technology-greater-china-asia-hangzhou-china-2d727c3c9de31e4184159672760bec65",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T20:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-ubers-self-driving-car-business-has-fallen-behind-waymo-and-cruise-heres-why-the-ride-hail-giant-might-give-up-on-atg.md",
       "title": "Uber's self-driving-car business has fallen behind Waymo and Cruise — here's why the ride-hail giant might give up on ATG",
       "excerpt": "After the indictment of a former executive and a fatal crash, insiders, investors, and experts question whether Uber ATG can turn things around.",
@@ -1100,58 +1143,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-new-oxford-machine-learning-based-covid-19-test-can-provide-results-in-under-5-minutes.md",
-      "title": "New Oxford machine learning-based COVID-19 test can provide results in under 5 minutes",
-      "excerpt": "Oxford scientists working out of the school’s Department of Physics have developed a new type of COVID-19 test that can detect SARS-CoV-2 with a high degree of accuracy, directly in samples taken from patients,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/15/new-oxford-machine-learning-based-covid-19-test-can-provide-results-in-under-5-minutes/",
-      "originalUrl": "https://techcrunch.com/2020/10/15/new-oxford-machine-learning-based-covid-19-test-can-provide-results-in-under-5-minutes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/schematic.png?w=1024",
-          "width": 1024,
-          "height": 491,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/15/new-oxford-machine-learning-based-covid-19-test-can-provide-results-in-under-5-minutes/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/15/new-oxford-machine-learning-based-covid-19-test-can-provide-results-in-under-5-minutes/amp/",
-      "publishedDateTime": "2020-10-15T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

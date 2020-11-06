@@ -2,57 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2020-10-27-alethea-ai-makes-it-easy-to-create-ai-avatars-from-a-single-photo.md",
-      "title": "Alethea AI makes it easy to create AI avatars from a single photo",
-      "excerpt": "Synthetic humans are a thing of the future, and the latest project to come along in pursuit of that is Alethea AI, a startup that can create photorealistic AI-generated avatars from a single photo.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/27/alethea-ai-makes-it-easy-to-create-ai-avatars-from-a-single-photo/",
-      "originalUrl": "https://venturebeat.com/2020/10/27/alethea-ai-makes-it-easy-to-create-ai-avatars-from-a-single-photo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/alethea-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 589,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/27/alethea-ai-makes-it-easy-to-create-ai-avatars-from-a-single-photo/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/alethea-ai-makes-it-easy-to-create-ai-avatars-from-a-single-photo/amp/",
-      "publishedDateTime": "2020-10-27T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-27-rtx-3070-review-a-500-gpu-that-matches-the-1200-rtx-2080-ti.md",
       "title": "RTX 3070 review: A $500 GPU that matches the $1,200 RTX 2080 Ti",
       "excerpt": "The sweet spot for GPUs over the last half-decade is the $500 ... And even if it looks as nice, will it run well without something like AI-power machine learning image algorithms?",
@@ -1217,6 +1166,57 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-new-ai-tool-that-detects-star-flares-could-help-us-find-habitable-planets.md",
+      "title": "New AI tool that detects star flares could help us find habitable planets",
+      "excerpt": "Scientists have developed an AI system that detects stellar flares, which could help astronomers search for habitable planets.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/10/26/new-ai-tool-that-detects-star-flares-could-help-us-find-habitable-planets/",
+      "originalUrl": "https://thenextweb.com/neural/2020/10/26/new-ai-tool-that-detects-star-flares-could-help-us-find-habitable-planets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-26T155118.919-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/10/26/new-ai-tool-that-detects-star-flares-could-help-us-find-habitable-planets/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/26/new-ai-tool-that-detects-star-flares-could-help-us-find-habitable-planets/amp/",
+      "publishedDateTime": "2020-10-26T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

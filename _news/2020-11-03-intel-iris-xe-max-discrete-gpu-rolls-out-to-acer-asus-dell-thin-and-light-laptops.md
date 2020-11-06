@@ -71,22 +71,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Intel’s Iris Xe MAX GPUs bring the fight to Nvidia and AMD in notebooks"
-    excerpt: "Back to the Intel Iris Xe MAX graphics. Intel claims that 11th Gen Intel Core mobile processors paired with the GPUs can improve AI-based creation with Additive AI by as much as seven times compared to “other laptops”. Video encoding is rather ..."
-    publishedDateTime: 2020-11-02T07:01:00Z
-    webUrl: "https://www.htxt.co.za/2020/11/02/intels-iris-xe-max-gpus-bring-the-fight-to-nvidia-and-amd-in-notebooks/"
-    ampWebUrl: "https://www.htxt.co.za/2020/11/02/intels-iris-xe-max-gpus-bring-the-fight-to-nvidia-and-amd-in-notebooks/amp/"
-    cdnAmpWebUrl: "https://www-htxt-co-za.cdn.ampproject.org/c/s/www.htxt.co.za/2020/11/02/intels-iris-xe-max-gpus-bring-the-fight-to-nvidia-and-amd-in-notebooks/amp/"
-    type: article
-    provider:
-      name: Htxt.Africa
-      domain: htxt.co.za
-    quality: 59
-    images:
-      - url: "https://www.htxt.co.za/wp-content/uploads/2020/11/Intel-DG1-chip-4.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "BPahwCks+jUzCoVu2jiA/10G4QwRyucT/rqJUo9urF6ZOoZTpv0md3zqT0g/LhGT3d22+por5lLR/onhn4ar1cNd0Vnzo1ZmeLwPkRi1udpHZYG/ByixT1PQYjE+6Pz2R2MhBBJSdjTmgLHq7iIqoUQq2/cthHawE0kPjvSi6bzebGkBi+hbwOwcNngX4NHa6hHR2LN4wTRdUO48ncl04tZUAqmqhzCWKUBLdMn90shM+mcWfNQSn5tnWi712TzBaM/GDeXji+FAMHuigHMkcPSOM6zGT5wEJcehnfD10Bvq/sZVotZzr6mbKELSAui7lUzWWBDqEQca0Gbt7LkUJ4ZLaklumrgcUVDmopmpUVlxn5cbdcH3xqdH6pGjR9HXkY9Avyobny//C8h/vIFtfmTfQOvPYbAJXq0upT2TMevJYrQ+Ir+9xAfLjraFARFoh1pxdYFeVSE9SorBHezf4ct973TSqAD3Tmw7jYEhz6xzrxfCe/f5UI4Vj28cpGCQ7Qp1BKB1s06M4VlSbn0KOA==;v0yQ8/6Z5mEPlbvAY5UcMw=="
 ---

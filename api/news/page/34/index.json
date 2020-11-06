@@ -2,6 +2,49 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-10-09-ucsf-fortanix-intel-and-microsoft-azure-utilize-privacy-preserving-analytics-to-accelerate-ai-in-health-care.md",
+      "title": "UCSF, Fortanix, Intel, and Microsoft Azure Utilize Privacy-Preserving Analytics to Accelerate AI in Health Care",
+      "excerpt": "“Validation and security of AI algorithms is a major concern prior to their implementation ... in the control of the healthcare institution via their Azure confidential computing cloud infrastructure. The data will be placed into a secure enclave within ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ucsf.edu/news/2020/10/418736/ucsf-fortanix-intel-and-microsoft-azure-utilize-privacy-preserving-analytics",
+      "originalUrl": "https://www.ucsf.edu/news/2020/10/418736/ucsf-fortanix-intel-and-microsoft-azure-utilize-privacy-preserving-analytics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ucsf.edu/sites/default/files/field/image/news/laptop-computer-hands.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-08T14:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UC San Francisco",
+        "domain": "ucsf.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-wisekey-secures-ensuritys-passwordless-access-to-microsoft-windows-and-azure-ad.md",
       "title": "WISeKey Secures Ensurity’s Passwordless Access to Microsoft Windows and Azure AD",
       "excerpt": "WISeKey International Holding Ltd. (“WISeKey”) (SIX: WIHN, NASDAQ: WKEY), a leading global cybersecurity and IoT",
@@ -1101,58 +1144,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-arxiv-now-allows-researchers-to-submit-code-with-their-manuscripts.md",
-      "title": "arXiv now allows researchers to submit code with their manuscripts",
-      "excerpt": "Papers with Code was initially founded in part by members of Facebook AI Research. Last year, Facebook and Papers with Code launched PyTorch Hub to encourage reproducibility. In the past year or ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/08/arxiv-now-allows-researchers-to-submit-code-with-their-manuscripts/",
-      "originalUrl": "https://venturebeat.com/2020/10/08/arxiv-now-allows-researchers-to-submit-code-with-their-manuscripts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/machine_learning.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 770,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/08/arxiv-now-allows-researchers-to-submit-code-with-their-manuscripts/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/08/arxiv-now-allows-researchers-to-submit-code-with-their-manuscripts/amp/",
-      "publishedDateTime": "2020-10-08T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

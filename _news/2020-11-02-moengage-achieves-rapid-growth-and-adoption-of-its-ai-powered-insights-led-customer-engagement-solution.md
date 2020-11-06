@@ -36,20 +36,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Sho.ai seeks to put branding power in hands of small businesses"
-    excerpt: "Sho Rust, founder of Sho.ai, an agency that helps businesses with branding, believes Cape Girardeau has what his business needs to succeed. Why Cape Girardeau? He has family here, but he also finds the city to be a great place for a tech startup"
-    publishedDateTime: 2020-11-02T06:01:00Z
-    webUrl: "https://www.semissourian.com/story/2845062.html"
-    type: article
-    provider:
-      name: Southeast Missourian
-      domain: semissourian.com
-    quality: 37
-    images:
-      - url: "https://www.semissourian.com/photos/35/52/14/3552144-B.jpg"
-        width: 1000
-        height: 563
-        isCached: true
 
 secured: "SneFQ2noAupPG3YmIMpFvVZDPaaKIkQoIsK+6H6B/2n8opdoOMVOUdv9jF9dGofJQ3XNuDQGR1bV40Ioi059aAt00nsYG5yXSzuCJWWY17uOa1QDHZi0VARU1guvq5DeeA1yiS2xpUZBC/cX8jjlsHXqMy1tXFbCl2JbZsflQEeIccl/ztjj7xasaWvP+BZmOeHTpCwuG6vmI8QdGBqHZMt1xf9rf3mTOVWGBUqLx1enbP15Wro+JuqIlYFDmf6Y8dLIyGz2jSalXo+hjh2RR1KIUxeQwvqy1Gwe3+yGzGhrwHqIP+MEmuyMEAHODZhbLmBijq7ETeEfVcmJa914Co+Vu3NxBL0TyDMWnXATtfo97szgVq+OgdpWq7/YDQ2Zwk0XH+OcInn5fXkcLanfOvaU7+lvlbJwmeDLJkVtIxUzLjOFtOqxtLS/uG9TycXU+X5Y8Wb6lowqtCiJCbq/chhPxELBe9xL9Rcqi/WR6pXxeNbEeLuOhvPVOV3XpDj/hCz4F7b1vj2yIeZit72rQw==;z/F+iMQ0kmfufozpU9YACA=="
 ---

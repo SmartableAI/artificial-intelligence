@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/11/05/why-i-just-purchased-s
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/05/why-i-just-purchased-shares-of-ai-cloud-dynatrace/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Live Q&A: How observability, automation and AI have become essential to digital business success"
+    excerpt: "As demand for digital transformation soars, CIOs are under pressure to transform how their teams work. How are they faring?"
+    publishedDateTime: 2020-11-06T22:36:00Z
+    webUrl: "https://www.infoworld.com/resources/210425/live-q-a-how-observability-automation-and-ai-have-become-essential-to-digital-business-success"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 54
+    images:
+      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "With new cloud offering, AIOps startup Moogsoft moves into IT observability"
     excerpt: "Moogsoft Inc. said today it’s expanding into artificial intelligence-based observability with the launch of its new Moogsoft Observability Cloud. The new offering enables DevOps teams, those in which software developers and information technology staff work together to create applications faster,"
     publishedDateTime: 2020-11-02T14:48:00Z

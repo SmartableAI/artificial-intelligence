@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/359159"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359159"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Sho.ai seeks to put branding power in hands of small businesses"
-    excerpt: "Sho Rust, founder of Sho.ai, an agency that helps businesses with branding, believes Cape Girardeau has what his business needs to succeed. Why Cape Girardeau? He has family here, but he also finds the city to be a great place for a tech startup"
-    publishedDateTime: 2020-11-02T06:01:00Z
-    webUrl: "https://www.semissourian.com/story/2845062.html"
-    type: article
-    provider:
-      name: Southeast Missourian
-      domain: semissourian.com
-    quality: 37
-    images:
-      - url: "https://www.semissourian.com/photos/35/52/14/3552144-B.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "MoEngage Achieves Rapid Growth And Adoption Of Its AI-Powered, Insights-led Customer Engagement Solution"
     excerpt: "MoEngage has seen rapid growth and adoption of its AI-powered, insights led platform by customer-obsessed marketing and product teams among several large enterprises across the world. Global brands and Fortune 500 companies across 35+ countries— including brands like Ally Financial,"
     publishedDateTime: 2020-11-02T14:28:00Z

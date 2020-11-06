@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/artificial-intelligence-in-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-in-healthcare-is-racist/"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -51,6 +51,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/whatthepubli.jpg"
         width: 1356
         height: 668
+        isCached: true
+  - title: "Healthcare execs going all-in on AI, survey shows"
+    excerpt: "The survey, conducted by Optum, shows that healthcare executives' confidence in AI is high, and most expect to soon see cost savings from implementing the technology. Further, a majority are looking to hire talent with experience developing AI."
+    publishedDateTime: 2020-11-06T22:42:00Z
+    webUrl: "https://medcitynews.com/2020/11/healthcare-execs-going-all-in-on-ai-survey-shows/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 54
+    images:
+      - url: "https://medcitynews.com/uploads/2019/11/GettyImages-1137784739.jpg"
+        width: 703
+        height: 497
         isCached: true
   - title: "Healthcare is ramping up AI investments during COVID. But the industry is still on the fence about Google, Amazon. Here's why"
     excerpt: "Healthcare organizations are ramping up their investments in artificial intelligence in response to the COVID-19 pandemic, according to survey data. But they are not turning to tech giants like Google and Amazon to deploy these technologies."

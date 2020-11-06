@@ -63,6 +63,20 @@ related:
         width: 1356
         height: 668
         isCached: true
+  - title: "Healthcare execs going all-in on AI, survey shows"
+    excerpt: "The survey, conducted by Optum, shows that healthcare executives' confidence in AI is high, and most expect to soon see cost savings from implementing the technology. Further, a majority are looking to hire talent with experience developing AI."
+    publishedDateTime: 2020-11-06T22:42:00Z
+    webUrl: "https://medcitynews.com/2020/11/healthcare-execs-going-all-in-on-ai-survey-shows/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 54
+    images:
+      - url: "https://medcitynews.com/uploads/2019/11/GettyImages-1137784739.jpg"
+        width: 703
+        height: 497
+        isCached: true
 
 secured: "44Fw5eZ5875xPARSyki6FbEVbeI8UAGmhJdFI7/JKFcmkY+kbA/vlRaD76d5whGLGB3M9yfM2nnIAeWp+tarynvuyFni8sbSNJwgqrawO07P99uDlB2DavBtm/7L7U4FpJCBb3xTEN6gvV/EHSPyHMdWJt3JWnXoB175aJ7+a2z6MhZ+uofhFiwOgGw/6jwWAM/7EOOP6SdYqMyy5nhRaWGgX/ZZK/DhgiflLvnrOhUhXi2iPzvjy+3LXu2XIoYaJYCxPrxjBElpK4EYuDS0iEIpqoT8uIbFwslfFHz7VjiW1Nebr1USNxWR3ykSbZ2PMs/5y4JfrGZJNoOQQJqB43IZc8MYtUQHbaGt1KnjnySYccoh1UNBElzpNTYoOtWUmjzz3S2m/TgFNgZMJ1NnvyFXj4P8zhM9UdBohuuHsfbamoG4lI38lEgWBVkepF1eUhvH/2Mi+ZeHdPcxdE0L7A+Tc84UzZeAsb9wfT7AvkClZVpzlsWnFeUIcqZIT6j1F459UvwDt9V90okAhx7iSg==;LuBb114RAPk1h75I7OeJdA=="
 ---

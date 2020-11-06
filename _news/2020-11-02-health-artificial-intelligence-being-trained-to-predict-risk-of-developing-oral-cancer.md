@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8904931/amp/Health-A
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8904931/amp/Health-Artificial-intelligence-trained-predict-risk-developing-oral-cancer.html"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.thehindu.com/sci-tech/health/urn52a/article33028341.ece/ALTERNATES/LANDSCAPE_615/ANTISMOKINGCAMPAIGN"
         width: 615
         height: 384
-        isCached: true
-  - title: "Artificial intelligence helps predict risk of developing mouth cancer"
-    excerpt: "Pioneering study led by the University of Sheffield and funded by Cancer Research UK is examining the use of artificial intelligence to improve early detection of oral cancer The rate of people being diagnosed with oral cancers has increased by almost 60 per cent in the last 10 years Doctors currently predict the likelihood of pre-cancerous changes developing into cancer by assessing biopsies on 15 different criteria to determine whether action is needed and what treatment pathway should be taken This score is subjective,"
-    publishedDateTime: 2020-11-02T06:45:00Z
-    webUrl: "https://www.sheffield.ac.uk/news/nr/ai-helps-better-predict-oral-cancer-1.924794"
-    type: article
-    provider:
-      name: University of Sheffield
-      domain: sheffield.ac.uk
-    quality: 39
-    images:
-      - url: "https://www.sheffield.ac.uk/polopoly_fs/1.924804!/image/Mouth_cancer_865.jpg"
-        width: 865
-        height: 471
         isCached: true
 
 secured: "u53xlNU2ErPxHTtMuW3xU4c6AhB/k+iJZjgjo+Qm01q2n3hQOnKd7ulhgzj3r5Pd8JeAXfbyLOIRqmzazqb1Pi1Ry4FeUcMOCDKYySVd5N6MvTA+R8jCzLg3JPaBEOekHk2tV99KbUK5GUmk57+oyAxkvPa4PqlFkrocJ1SJB3pQMnoqKdi8m7lqndfKzhHgBMEavxXthxSCYcRXJAO5naszZNW1bfJ03fjAMmq7DeZzs3PLFqutI9GB/8ZbHhH7Bl6XSCpGdmwcz71g9039ysbtCxPGHC4TC+bqCBbv9w2AjQElEHOqtt+zj5hvEGMGa1CLkMfLmg6jkAe6NVsbNKzS8mfIkA6FQ9e2q4nYtF7Hx03l8cUFVK1J6F1PqntK1BXHOdp4eUOTSK5RaQo0ql6IQmkkVccIBEyEprEPcBeaaxYUIHwtX+un+VRFN2bujWODxlix+UutbgYHjwZY6np5bx4WbXfNWJNCBN6rtAl8xYWLoDiTwrnE5eQWDC2l9Rs3yjqXV94yDwAjuNFW8w==;zPJrQe1HsLJvnx0GqJixWQ=="

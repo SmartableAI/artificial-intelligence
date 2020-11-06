@@ -2,57 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2020-10-26-new-ai-tool-that-detects-star-flares-could-help-us-find-habitable-planets.md",
-      "title": "New AI tool that detects star flares could help us find habitable planets",
-      "excerpt": "Scientists have developed an AI system that detects stellar flares, which could help astronomers search for habitable planets.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/10/26/new-ai-tool-that-detects-star-flares-could-help-us-find-habitable-planets/",
-      "originalUrl": "https://thenextweb.com/neural/2020/10/26/new-ai-tool-that-detects-star-flares-could-help-us-find-habitable-planets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-26T155118.919-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/10/26/new-ai-tool-that-detects-star-flares-could-help-us-find-habitable-planets/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/26/new-ai-tool-that-detects-star-flares-could-help-us-find-habitable-planets/amp/",
-      "publishedDateTime": "2020-10-26T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-26-leap-and-learn-the-common-thread-of-artificial-intelligence-success-stories.md",
       "title": "Leap And Learn: The Common Thread Of Artificial Intelligence Success Stories",
       "excerpt": "Enterprises seeing real success with artificial intelligence have something in common: they are capable of learning quickly from their successes or failures and re-applying those lessons into their mainstream of their businesses.",
@@ -1180,6 +1129,57 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-25-ai-health-insurance-and-data-harmonization-interview-with-shiv-misra-cvs-health.md",
+      "title": "AI, Health Insurance, And Data Harmonization: Interview With Shiv Misra, CVS Health",
+      "excerpt": "nomenclature and definitions start following the same tune ... What are some of the insights and opportunities for dealing with data and AI from a healthcare and insurance perspectives? Shiv Misra: The potential for Artificial Intelligence within ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/10/24/ai-health-insurance-and-data-harmonization-interview-with-shiv-misra-cvs-health/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2020/10/24/ai-health-insurance-and-data-harmonization-interview-with-shiv-misra-cvs-health/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f94a12e8753d1c882612732%2F0x0.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/10/24/ai-health-insurance-and-data-harmonization-interview-with-shiv-misra-cvs-health/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/10/24/ai-health-insurance-and-data-harmonization-interview-with-shiv-misra-cvs-health/amp/",
+      "publishedDateTime": "2020-10-24T14:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

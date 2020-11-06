@@ -43,20 +43,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Artificial intelligence helps predict risk of developing mouth cancer"
-    excerpt: "Pioneering study led by the University of Sheffield and funded by Cancer Research UK is examining the use of artificial intelligence to improve early detection of oral cancer The rate of people being diagnosed with oral cancers has increased by almost 60 per cent in the last 10 years Doctors currently predict the likelihood of pre-cancerous changes developing into cancer by assessing biopsies on 15 different criteria to determine whether action is needed and what treatment pathway should be taken This score is subjective,"
-    publishedDateTime: 2020-11-02T06:45:00Z
-    webUrl: "https://www.sheffield.ac.uk/news/nr/ai-helps-better-predict-oral-cancer-1.924794"
-    type: article
-    provider:
-      name: University of Sheffield
-      domain: sheffield.ac.uk
-    quality: 39
-    images:
-      - url: "https://www.sheffield.ac.uk/polopoly_fs/1.924804!/image/Mouth_cancer_865.jpg"
-        width: 865
-        height: 471
-        isCached: true
 
 secured: "AvTKb8bNjJ5yjYC4JbvcydZDiWoZ6EBt7+NDasJ5c4Cql4qq+Szr0ACnHJ2RUpy77bvIZe/xhkfdsQfjzajY5forX/f07b6uAv27pLfpLXypWOGPQ9ed98fNFNqblXXEPmOXrP+goTQyWRNrrZcWdvQI4Pn6suZSETg8h4oi1/a0dhZQFq78ERxSezCWRDutfkmz3mMiy/Kv2BQPyh354idEKO7SIeOQUFx8n0y6Z8xH6VQ5RKSdfCQ6rOmLMv+wODn2tVww5MAg0BCR4EfontmmKIZ8tV//gohvBI7W4lP6Hw3aDEhfbxBJhqrywQyl5I47b04rrybzm9nW9tyuxAncj9ORyB4B5Z6bLc4MHUKhcWZ7wMSk18Qetl+yr8sHBf9Kd+PMqEJdoc/Y1oleb/2LxnOEH6jRvat8wz1iWCJik2syx26vp8tfEQvL9TjgZUuLooBH4PghmVwxn4pMqZ813ucCPy5vYQnbu5gH+c0gCz3djRSxfhZOLS6ny0Ef+Rgi98EByixcoJunVTL+2w==;Zh8JNYn5plsUw41n+FZW9A=="
 ---

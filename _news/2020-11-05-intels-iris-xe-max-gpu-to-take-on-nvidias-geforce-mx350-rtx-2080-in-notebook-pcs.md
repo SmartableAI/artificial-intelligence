@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcworld.com/article/3587732/intels-iris-xe-max-gpu-to-ta
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3587732/intels-iris-xe-max-gpu-to-take-on-nvidias-geforce-mx350-rtx-2080-in-notebook-pcs.amp.html"
 type: article
 quality: 83
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
       - url: "https://www.theindianwire.com/wp-content/uploads/2020/11/intel-iris-xe-max-chip.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Intel’s Iris Xe MAX GPUs bring the fight to Nvidia and AMD in notebooks"
-    excerpt: "Back to the Intel Iris Xe MAX graphics. Intel claims that 11th Gen Intel Core mobile processors paired with the GPUs can improve AI-based creation with Additive AI by as much as seven times compared to “other laptops”. Video encoding is rather ..."
-    publishedDateTime: 2020-11-02T07:01:00Z
-    webUrl: "https://www.htxt.co.za/2020/11/02/intels-iris-xe-max-gpus-bring-the-fight-to-nvidia-and-amd-in-notebooks/"
-    ampWebUrl: "https://www.htxt.co.za/2020/11/02/intels-iris-xe-max-gpus-bring-the-fight-to-nvidia-and-amd-in-notebooks/amp/"
-    cdnAmpWebUrl: "https://www-htxt-co-za.cdn.ampproject.org/c/s/www.htxt.co.za/2020/11/02/intels-iris-xe-max-gpus-bring-the-fight-to-nvidia-and-amd-in-notebooks/amp/"
-    type: article
-    provider:
-      name: Htxt.Africa
-      domain: htxt.co.za
-    quality: 59
-    images:
-      - url: "https://www.htxt.co.za/wp-content/uploads/2020/11/Intel-DG1-chip-4.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Intel Iris XE Max Discrete GPU Rolls Out to Acer, Asus, Dell Thin and Light Laptops"
     excerpt: "Intel recently launched its Iris XE Max dedicated GPU for specific models of Acer, Asus, and Dell portable and light laptops."
