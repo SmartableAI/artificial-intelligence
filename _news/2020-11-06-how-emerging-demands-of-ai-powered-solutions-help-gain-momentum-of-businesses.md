@@ -56,6 +56,6 @@ related:
       domain: scoop.co.nz
     quality: 20
 
-secured: "Xx4r440biTGdSMiMrhE1QIlznJNrU5WIGmbVgpO9Vo68blYiLpftp2ZG7PF/woSoqULKpLCOAs5XCXJcfpTWCNGHjfy9qzMIJWIwcmgHf/BbaS4meb8bXHeVNJB+0aUHGDtbgcBjvqxV1ioYQzMW2U1kD3PK64bezwKtN5wQ7d+Pbc0RrvLRO0IiF71kuv6czEPCEIaUTkema8ZQuRrVPeYNMkAjcvBNcw4VOL9tvO0Tn8TUEysbuPLPTtMWI31CDBICHlSybKQWDefaxWu7ZOtSJBZnKxaZlh1Kp96VuHh0bqIIqHSrm/H/26JA/x7cBD3V5eO11RyUsiV9B+1lOyupHi/Ox55iyczsXckhBBA=;IN1PXGuoF+Gd20tAhvLQlw=="
+secured: "tiF1+eiCUvdCsWnEeMi4ERW1iDQiVI1qsh9ab1xNSo+N5AAhnri/7bxCbOD5WS2CI+Xtflkr0aoHjeO24b/NXDALGd1Ke/iD49b0hwPxtD03KNv3pmrshUMbT4vr+VUP2884fpvM+oWeXNalqecGJ4VsQEIkdmlCMuLaReb7zsbg/UMsG2MSsKqSxKvOxBeY6slympDTnDXHJlGC52Ma28s7bmHQIioTjol8ktX7ymbgOn7hE+zMuj+rfGDaQ3UhY/fFPj5jJvlNLytCsxaR3BVCowa8sgut+eJifFlFIPZfe0pVhunZje7rA16yNZlMjdDwKUTD+P/fDp4OsHteH1ysioXQOGT2AGKKdCVE3r4=;9bA58xizY+R8bXFDEkDY0A=="
 ---
 
