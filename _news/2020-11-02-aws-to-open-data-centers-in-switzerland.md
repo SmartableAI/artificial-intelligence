@@ -39,20 +39,6 @@ related:
         width: 740
         height: 400
         isCached: true
-  - title: "AWS to Open Data Centers in Switzerland"
-    excerpt: "Amazon Web Services (AWS), an Amazon.com company, today announced it will open an infrastructure region in Switzerland in the"
-    publishedDateTime: 2020-11-02T16:03:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/aws-to-open-data-centers-in-switzerland/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 39
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/oracle-storagetek-405x228.jpg"
-        width: 405
-        height: 228
-        isCached: true
 
 secured: "YzUw2YuPCStc8sN3ELjTAD3cLodPqmMLYGSobXqpCjfaAdzbVhoF52Rpqs1tkvWNBPA/uCdC88t4sQGNVyJOowpd99kdPBAQ7k9ZAgwJdhiyCRwqKYVKwjnaAuZauoiY0gkZCoAekuDX8v/ULsBmYqQfVBVzh8Iebm98ii5i03ZlN5/kg7FGyR6fMbhRXlvNhnllGHI6jyybuKFkAi+kNvvxZtQxrg1eP9hi0xYSm8HN9lFcDbwEgNEzdI4NY1w6aDDrBhvL3ouww/fuC6L7lNDX18rgX9VW+hqndEERek6OPHCwR9ZCytNUY+hfBshpglE3TnsruaIc4f4wq8Je8W5jX3QUZXbc66RYSI0/Uh0=;7Q8KlpxffpR7Tjf/Zh0yrA=="
 ---

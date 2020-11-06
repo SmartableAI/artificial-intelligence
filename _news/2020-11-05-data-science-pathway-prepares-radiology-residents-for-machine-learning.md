@@ -2,24 +2,24 @@
 category: news
 title: "Data science pathway prepares radiology residents for machine learning"
 excerpt: "A recently developed data science pathway for fourth-year radiology residents will help prepare the next generation of radiologists to lead the way into the era of artificial intelligence and machine learning (AI-ML),"
-publishedDateTime: 2020-11-04T19:13:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-11/rson-dsp110420.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-11/rson-dsp110420.php"
+publishedDateTime: 2020-11-04T19:28:00Z
+originalUrl: "https://medicalxpress.com/news/2020-11-science-pathway-radiology-residents-machine.html"
+webUrl: "https://medicalxpress.com/news/2020-11-science-pathway-radiology-residents-machine.html"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/247867_web.jpg"
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/datasciencep.jpg"
     width: 1440
     height: 894
     isCached: true
@@ -37,6 +37,6 @@ related:
       domain: benzinga.com
     quality: 36
 
-secured: "Ab4HC0xID3UuoTeYK0FxCUnqa1H4Tk4JEtPKQ6DjcEl6g4cWfM7jZ348/ZMoz46sYB3uXI8vEtRyhKtt9x76Z667Mmud71CbSR20ZUseGIoMITnKaL1w19iezh4dCPYhe+slXchPqFpVf/pogxsEXGjh+2NDmXANaexcOQOK7XPs64i7ZsnScfmCCF3brDCG7/Ql5EG5ZBfKdXE2xOEuX+2ZMsIKFSIBT1+dlj9SwS+MfYG1/Ku8dz19vO4kCCEZEOqgFDLwiiu9DUCkaCkW1iKGNLxnFbaaqGmiqhiHY4vT/gZ/YXQy0dtk+yd8aO0l8HySYIWHbh06H3/SDG8b75DR8GjZxRQgRmSwdYYdT84D9lJDopueCLqmQxULptMQe+OiVb5SqUVOgHxSYcak2JmKM80Rv+jgt0en3UB/Nlru4oZQYcfYr8y9QBVkBYFpkcOkGfQhbl/caMMktf+FGmFlgAVghOCd8orKKlorBuR8N8WuUaVdw+yCaTlz1eLuLqnZS3yCDqETJG9J5zFBUg==;5SS/s9yQkIXiUDjxBfUh0Q=="
+secured: "GOl1D8++kDdoqHHuh/Lu9JNIn1I6c2Ey8XQbKgXIcBVMJYeatT/MpDT3RP8LBcJ+R6Cn0KobRx3A4xhQiS0DgwsjIX8bJEeZ5D2LGZeIrwAxhWtqW3ZnLACmqSGTwZM0QK8AZL2UIMIKMdTICn1RpFIlZVg4AyHj/+tfqeEKvbAaNvEBx/dQ1Pukx/hFiP5fJ6SAbxIjhGgWPlDmTlRhdtdNf1CazIEZ46xp0G/wkCmy1yp4iASk+4Tp6linrcJmbl92Me7m/R32c3hhYJrHzuAY2HaK6eAJCzchwlqtzp5L3CBiFjyPZ2vp/H4IBKYbgERlclCxQHUbDYyE5on2KpuABB2i5B64TFTZOqWtwV0=;4NziR9Om2d+Zwngmq6pPhw=="
 ---
 

@@ -35,7 +35,7 @@ related:
     provider:
       name: Analytics Insight
       domain: analyticsinsight.net
-    quality: 38
+    quality: 40
     images:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Top-10-Artificial-Intelligence-Research-Labs-in-the-World.jpg"
         width: 900

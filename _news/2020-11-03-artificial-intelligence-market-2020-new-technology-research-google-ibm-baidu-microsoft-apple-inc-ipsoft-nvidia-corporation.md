@@ -92,6 +92,20 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 33
+  - title: "Government leaders share their vision on the next frontier of tech innovation in governance, at the Microsoft Digital Governance Cloud & AI Summit"
+    excerpt: "Cloud and AI are playing a central role in reshaping education ... agriculture, education, logistics, language translation and more. “ Dr. Rajendra Kumar, Additional Secretary, Ministry of Electronics and Information Technology (MeitY), Govt."
+    publishedDateTime: 2020-11-06T10:56:00Z
+    webUrl: "https://news.microsoft.com/en-in/government-leaders-share-their-vision-on-the-next-frontier-of-tech-innovation-in-governance-at-the-microsoft-digital-governance-cloud-ai-summit/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 18
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2020/11/digital-governance-cloud-and-ai-summit-768x430.jpg"
+        width: 768
+        height: 430
+        isCached: true
 
 secured: "lOWJp9crfn43HF5vlj/uhBBYJTnQuFqrgaKX5Ku8+fNNi1T+J3J0jiZiao54M7D9a1RiqlCMQhZuM/PVD0P9BmpxGu9gPm1Fn+rgnna+3OqdFacxdCmWhJNbNOYE2n/Uudsp3pVz0EoIaHdvFiqu39gO66osH4+nUu5/1Iatrkq6VifCmNJ8QaTKQBGc/h7nOuISII1jeS33cR2YTXBnKM2ldpl0FRZUWsYanfzGlETEcdCSF0uY1T0BSfyi7asqNLaqojWXybsRzAVP/eVBzCbLwGNUR7qfgeh8IgcmVWQluh+C577zh+eMT67gtQRexDinTyX065/1Dpl9E503PCdG++QcKi2UpPYjtOdwpHE=;Fj5jeDdrPKJx84htI77t7A=="
 ---

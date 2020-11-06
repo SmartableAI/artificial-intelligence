@@ -9,7 +9,7 @@ ampWebUrl: "https://www.roadtovr.com/microsoft-azure-kinect-commercial/amp/"
 cdnAmpWebUrl: "https://www-roadtovr-com.cdn.ampproject.org/c/s/www.roadtovr.com/microsoft-azure-kinect-commercial/amp/"
 type: article
 quality: 88
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 33
+  - title: "Government leaders share their vision on the next frontier of tech innovation in governance, at the Microsoft Digital Governance Cloud & AI Summit"
+    excerpt: "Cloud and AI are playing a central role in reshaping education ... agriculture, education, logistics, language translation and more. “ Dr. Rajendra Kumar, Additional Secretary, Ministry of Electronics and Information Technology (MeitY), Govt."
+    publishedDateTime: 2020-11-06T10:56:00Z
+    webUrl: "https://news.microsoft.com/en-in/government-leaders-share-their-vision-on-the-next-frontier-of-tech-innovation-in-governance-at-the-microsoft-digital-governance-cloud-ai-summit/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 18
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2020/11/digital-governance-cloud-and-ai-summit-768x430.jpg"
+        width: 768
+        height: 430
+        isCached: true
 
 secured: "mobyA9iLT/umY+Mt40TqvcjQlmcaxQGEm1ra5idKhKx186pzHIBmYie591Fc1fLmoXqDcCpX6+4meBXpzJ30MaDbvn5sKespSOZYQUMLv9FaBpsSBZyFWDHc6kPiAEwZwytzjpvQSDqtXZJJy+IhJInPE2GdcxG2A05oP9VlbistFDdUSEK4YA5CH1hsqgFx8ygQ8UokrzVLvjDiCINgXHZOXCFql5nbKaukMUi0lD0DGYnbj9EyLdpv7U2le3dqX4LQD7f+r3xIGOS/+ZjrSmdAvM+GZF/5jtXqU3MJDErlkNAaw4v1lZncdaBtNKjSe9BtM7N21a2udHIB57NAzcDhIaAVa7g5QDCpDv4wrROxHS5xHu3CJ6cxCBXDxqkO35+kD1mEES3HDm2BDZwvxkiLthPgCqo56lRaDYb4lIa4mMViTaqBEpXzPud+DkuQAjbef9pwh88EA9ro+coqIuCqsEG9hjLDXew2G8C7x6lz1YGfE04Vs4EmrEX9FQrq9f+2HoITRwNdM3N1dAPiKA==;gHHCaaCcSZ2nqcOzwnLnsg=="
 ---
