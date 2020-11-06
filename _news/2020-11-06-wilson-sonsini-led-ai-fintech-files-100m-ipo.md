@@ -3,8 +3,8 @@ category: news
 title: "Wilson Sonsini-Led AI Fintech Files $100M IPO"
 excerpt: "Venture-backed fintech company Upstart Holdings Inc. filed plans on Thursday for a $100 million initial public offering, hoping to shake up the lending industry through its artificial intelligence-enabled platform under guidance from Wilson Sonsini Goodrich & Rosati PC."
 publishedDateTime: 2020-11-06T01:09:00Z
-originalUrl: "https://www.law360.com/articles/1326219/wilson-sonsini-led-ai-fintech-files-100m-ipo"
-webUrl: "https://www.law360.com/articles/1326219/wilson-sonsini-led-ai-fintech-files-100m-ipo"
+originalUrl: "https://www.law360.com/technology/articles/1326219/wilson-sonsini-led-ai-fintech-files-100m-ipo"
+webUrl: "https://www.law360.com/technology/articles/1326219/wilson-sonsini-led-ai-fintech-files-100m-ipo"
 ampWebUrl: "https://www.law360.com/amp/articles/1326219"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1326219"
 type: article
@@ -173,6 +173,6 @@ related:
       domain: ibsintelligence.com
     quality: 4
 
-secured: "41NIMWeFzz+9g/sYxcXxBMYJIPfysjKqR3KOwbj2PRh4C6+mHkvYzdR20KchqecqyhbojmOjzUtV4KREJa+2kNdnDcK5yqYUfj2PA5YRP6lG1+vo0BmyWNFXSvLsTnnV7+vhCeH7ZMevU7l6cYiP96X0NJmuCHV7spQAqBLE0HMIdfUBu83x2YdBY3RYDb4NVMiMQqVN2t+dYG5OB68/OFLTKF8zyOA/FhxiKsnuIxA4are+YJCxhQ3CfFE3jMYKGD3hHE3MqOrD6XmoZPDu37tJn7JfZB3xrDKJ6f/u2wqlK/EgMztmNct40NfSSpwPgGobQ4sCnALhqoDq0h1FwZF8ybs3bxlnKGk6OuLoDXY=;/ZTCLum1U36/F8nmDAwlXA=="
+secured: "XZ4YGqDmwRwKraOlUuzyDuKG5mPvxRQcuwo5Z562/TwQJpvRNZCi4VcfqshjASKoh44pzs/oEg24MO2klHRmSQj2kUsG2QKzDsNHH2FCCnc0lgRPkD+U4L07LhZNff7vGoGTF58efaW/lVAy+w2IpbVPnv2KoOfobNWJQO9t2zGwxFlqeCAFTp6BjqsC2eHg/CWeXLALjFo74phpRkDqgltVIP1ShzKw/yDFAhn3D8DSkhIHjT1kdOfAAsbgEB9CG42hfYhiTNi3b8YOyb68NdUIbyTeXgvjzvXZoozHzAGp/NEE/H/GgeAppfK8biW3d3LhOqaFLZ7dzHTHdq4kgk+1m8Tp08bow1zUNCIUT/0=;gDpC7b3R/wIC7wV9ZNobKg=="
 ---
 

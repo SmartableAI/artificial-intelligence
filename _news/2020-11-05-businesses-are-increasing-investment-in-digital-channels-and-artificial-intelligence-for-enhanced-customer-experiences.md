@@ -27,6 +27,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Businesses Are Increasing Investment in Digital Channels and Artificial Intelligence for Enhanced Customer Experiences"
+    excerpt: "NICE inContact, a NICEbusiness (Nasdaq: NICE) , today announced the findings of a global research study detailing the growing role of digital-first omnichannel experiences in fostering customer loyalty and advocacy."
+    publishedDateTime: 2020-11-04T11:30:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-virus-outbreak-corporate-news-products-and-services-d5e070ddb19646469c055e782addd09a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 13
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "3wf/nUQMh3is53xf9WaLqkUh6IUtxQAFDUVrt5SxjXQopbMftsaSfdlIgTzm45Cd6yJ2KFmoE4j2qca9YtEeHDvRwpanPWDS1N2XJA7Dhakxz5p8tsd8x2x4NUybM2IgF2P5pBR85CU27hOYEmNyo67evc6CJQmI0N+gWPXOMIcXH8R2LAan90vWebZB4/ZHFkQo7eHz8ykA6jnSNHwAZRZubNGl3BoBSDtkqXUZVLPMzbqkSOSPQz6H/ATcrHkQMJyFwrSAjq4hO+7SvrfmDuHudxJ6ik3+UcbPXNKDOwI3Q0tYW93ClSdfpmBu9Erk2N5jyRZfTsi8gi4ah1fU6ZHRPBzT5vdUqlhw/6Sqilw=;FBmkVNuxQ1Ze4yEdCqRGOg=="
 ---
 

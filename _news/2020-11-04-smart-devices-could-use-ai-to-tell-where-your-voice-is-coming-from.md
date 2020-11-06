@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/87432-smart-devices-could-use-ai-t
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87432-smart-devices-could-use-ai-tell-where-voice.html"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "SK Telecom offers AI voice analysis for dementia diagnosis"
-    excerpt: "SK Telecom and Seoul National University College of Medicine have developed an artificial intelligence (AI) tool to help identify dementia earlier.  The AI tool analyses the voices of patients by having a 10-minute conversation with them to determine if they may have dementia,"
-    publishedDateTime: 2020-11-02T05:07:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/sk-telecom-offers-ai-voice-analysis-for-dementia-diagnosis/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/sk-telecom-offers-ai-voice-analysis-for-dementia-diagnosis/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/sk-telecom-offers-ai-voice-analysis-for-dementia-diagnosis/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/11/02/f80ec592-7c98-46ce-b128-0641996858f7/skt-ai-3.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
   - title: "MIT researchers develop AI to detect COVID-19 using cough recordings. An app could be on deck"
     excerpt: "Initially, the researchers were using AI models to analyze recordings of forced coughs to ... SEE: Artificial intelligence is predicting coronavirus outbreaks before they start (TechRepublic) The researchers are attempting to incorporate the algorithm ..."
     publishedDateTime: 2020-11-04T18:15:00Z

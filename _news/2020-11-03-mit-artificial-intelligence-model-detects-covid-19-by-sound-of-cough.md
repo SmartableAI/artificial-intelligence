@@ -293,6 +293,20 @@ related:
         width: 1280
         height: 623
         isCached: true
+  - title: "Machine Learning Helps Reduce Food Insecurity During COVID-19"
+    excerpt: "Researchers used machine learning to create bus routes and deliver meals to individuals in need, reducing food insecurity in Pennsylvania communities."
+    publishedDateTime: 2020-11-06T14:32:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-helps-reduce-food-insecurity-during-covid-19"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-908168476.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "How Artificial Intelligence Is Changing The Fitness Industry During COVID-19"
     excerpt: "The fitness industry is undergoing a major transformation through a massive deployment of IoT applications and innovative artificial intelligence (AI) product offerings. The research firm Reports and Data predicts that the annual revenues for the fitness app market will reach $14."
     publishedDateTime: 2020-11-04T20:56:00Z

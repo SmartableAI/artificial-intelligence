@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/video/h
 webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/video/how-the-energy-industry-can-save-billions-with-ai/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Worldwide Artificial Intelligence in Energy Industry to 2024 - Key Drivers, Challenges and Trends"
-    excerpt: "The \"Global Artificial Intelligence in Energy Market 2020-2024\" report has been added to ResearchAndMarkets.com's offering. The artificial intelligence in energy market is poised to grow by $8.06 billion during 2020-2024 progressing at a CAGR of 48% during the forecast period."
-    publishedDateTime: 2020-11-02T04:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/worldwide-artificial-intelligence-in-energy-industry-to-2024---key-drivers-challenges-and-trends-2020-11-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "An Enlightened Future with AI"
     excerpt: "The year of 2020 has proved to be a challenging year defined mostly across the world by a global pandemic and as a result an increasing shift towards digital. The decisions that we make now and in the"
     publishedDateTime: 2020-11-02T21:50:00Z

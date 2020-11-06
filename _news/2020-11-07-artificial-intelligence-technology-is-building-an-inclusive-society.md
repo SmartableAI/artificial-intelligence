@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-06T17:48:00Z
 originalUrl: "https://www.analyticsinsight.net/artificial-intelligence-technology-is-building-an-inclusive-society/"
 webUrl: "https://www.analyticsinsight.net/artificial-intelligence-technology-is-building-an-inclusive-society/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI Ethics
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/AI-Society.png"
@@ -42,6 +43,6 @@ related:
         height: 576
         isCached: true
 
-secured: "wMOR6qL5Tqf0KVRYoDZQ8O80NNioTCckU0jcLjcyhUX9T3EFmEbNRYetyDEGtjrrdNX9zxUo+mUrWtjLWbyqgLPV3MsjPGniDknl8zzYjxOcdbc4zbMMHiP9nPMWaSAr0Vg3VsayEnkz9RHPXrVyqPcrE+7VXEoYhMvCpYA00uSOqKtlbxswzULpR8kXDtcr5xYJNQOKVkxSOOPPxNw7/zp3IqD0mIe7IBiphHCEUK059lY56xLBLhq6iMWAmr0cKqctumi/TlXeR2iG8GTqnuTZipzTjcRdCLnVUuQPCzxACYkOoBKSwd5Vc9Fzk26x/YYbZz7tcUJz55dQ7JqYFJhX3CyTgYW8iEdpzzA0Lw4=;B7qJxdcusijkWrIV+tA3Zg=="
+secured: "4TPvKXJWZ4ZTNyLYc3NvbL9meKlhntB8QqHBb8e7HtfDGyyfdNhzUKP9i5RQyqOmwVkKrpJp1cTyN8e97oJiwQy3gfx1u1JpTY/8K1YH1AOuoUi9k/BUB5gq4N/1+ZW4tfmtDT8eubW5AWAaOQcgSRfrpEKpP/GmoZ628C9OaaefbXQwN3HCVeONWdF5ikMx8HrOaB+pbN+858aBNCIljmWgUoiy4fVKVOVh+9WrEbuNysqb4ke944pLQ9IuM2ADHmcTJfxD/5CCECV3Ew6gQBalNEebf6XPsWRN0zqqblWdh2/xnNHCjKHxHTXfeRYo1Ib/xadzbZwoAdJYJgJ7+FHixk1EGYgIAmD/RQeACaP5PUduQECFXgX7NKasrxIcOuv9PesgqraHifB7YXGWk4xJ9dWorvvV99oJahk+wOp0oFj28AF1MFYwXuLB0j+D4taAjdhkFQb72nyfyXapuuPxHAkXEjqVXKQxRm7VNfItLKV2sdzvy2iCWYjnx6M9uH9xjTmkNfSvseDn50uPrQ==;0TFiFqJTorfKjSVNGxsE7A=="
 ---
 

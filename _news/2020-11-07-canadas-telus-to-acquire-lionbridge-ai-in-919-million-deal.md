@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M1LU"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M1LU"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Reuters
@@ -22,6 +22,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Lionbridge Sells AI Division to TELUS for USD 935 Million"
+    excerpt: "Lionbridge sells its AI data annotation unit to telecom and IT giant TELUS; translation and localization business to remain with Lionbridge"
+    publishedDateTime: 2020-11-06T19:55:00Z
+    webUrl: "https://slator.com/ma-and-funding/lionbridge-sells-ai-division-to-telus-for-usd-935-million/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 39
+    images:
+      - url: "https://slator.com/assets/2020/11/Lionbridge-Sell-AI-Business-to-TELUS.png"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "6SBDffWiZdknGKR5BQhi6fLwe0jUzi/+CCo3dbztS/zeeYVjD91eierMHLdz2XW3mXt8DL8jlBJxNRrnyEPj51B4718q4+vsVb2I0tOTUluLzlY8hUdMRxD2hag30Bw4C+9VBRda3+Y1LRoEk/JwZAwZtvXaFvqarGBDjhPxuKoeGAnr2je03V7e8Ob3nFZGemftAXD1HE/zulq/wJh+mYaucp6Hum5ElEMmeKPrgbP6yFxzL99oaVnktywEBMpiGUStb+7q8lFbKJRVLlQrq8LGxrZ7RfYdFBnvA6/3UCv37+5RW3PeiRHS1tATA/2zymOYSwW1FT+IhEdexowQurv9Ix5VEtCPLXGS7RJ9hqA=;GRnFnz166oC9avR5If3V7A=="
 ---

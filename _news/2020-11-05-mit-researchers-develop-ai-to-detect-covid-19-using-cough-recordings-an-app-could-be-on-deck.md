@@ -40,22 +40,6 @@ related:
         width: 1680
         height: 1120
         isCached: true
-  - title: "SK Telecom offers AI voice analysis for dementia diagnosis"
-    excerpt: "SK Telecom and Seoul National University College of Medicine have developed an artificial intelligence (AI) tool to help identify dementia earlier.  The AI tool analyses the voices of patients by having a 10-minute conversation with them to determine if they may have dementia,"
-    publishedDateTime: 2020-11-02T05:07:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/sk-telecom-offers-ai-voice-analysis-for-dementia-diagnosis/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/sk-telecom-offers-ai-voice-analysis-for-dementia-diagnosis/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/sk-telecom-offers-ai-voice-analysis-for-dementia-diagnosis/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/11/02/f80ec592-7c98-46ce-b128-0641996858f7/skt-ai-3.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
 
 secured: "jXcl1isye3Gcy3IxUsQhFpCIqFqxfi4nBtTIoUslWin+GxR6y5lcYg5iu9B9I3w48cqNvm1Ff9bUSKNlRg3JS6vAPoGZskvRyyA+MP7r0CA4sm8ex6C+tfjxp75eJMLprI+qixd3v/5nDe2mqLBe+ZuDgZC4nCR+CAV48+5X6Y/w8UC3iSXAoE0tIrkXg30AVXRsP35PyxtkidoM03RGz0XtE8BrBjswd9N0j0p+ZLuCG9oY5No9dAweDDIFwVE4l4vtgCYwJgE8IIhB/YQy++N8R316eRqb0/sqZtp+qgvDH1ZU+AVCNtNOuF77b18EizvbFsd4L/+N/L9LL/Q/iIdZaicfAhRggjU8mBWOZ/FJG6/7gdozjDXM0kA2+5xXdP/hPeZQVFp2i7UDMEUMHlKIJl1iM5Lbu4Ykk+PZmKGwSF6kuHY1iieQaVeXqi5ACh9igCCbucB3WWviCdHaEkzRQB+RLdoluexAqDSV+6S/MDCW4bF7SnwE5ET7UQyzIcK2a/SeZ2hKJiqkVZWv+w==;BtYFdBi7KGpIb8UB2h38ZA=="
 ---

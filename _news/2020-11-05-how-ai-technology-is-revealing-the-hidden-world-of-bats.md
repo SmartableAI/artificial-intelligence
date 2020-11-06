@@ -34,7 +34,7 @@ related:
     provider:
       name: Analytics Insight
       domain: analyticsinsight.net
-    quality: 39
+    quality: 41
     images:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/AI-Society.png"
         width: 1200

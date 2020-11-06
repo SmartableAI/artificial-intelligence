@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/11/06/china-driverless-car-firm-ponyai
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/06/china-driverless-car-firm-ponyai-valued-at-5point3-billion-after-funding.html"
 type: article
 quality: 98
-heat: 168
+heat: 188
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Driverless Car Startup Pony.ai Valued At $5.3B With Series C Round"
+    excerpt: "Driverless car developer Pony.ai is now valued around $5.3 billion, thanks to a recent Series C funding round."
+    publishedDateTime: 2020-11-06T18:03:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2020/driverless-car-startup-pony-ai-series-c-round/"
+    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2020/driverless-car-startup-pony-ai-series-c-round/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2020/driverless-car-startup-pony-ai-series-c-round/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 74
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/11/pony.ai-funding-round-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Pony.ai Funding Round Values Self-Driving Firm at $5.3 Billion"
     excerpt: "Pony.ai is raising $267 million in a fresh funding round that pushes the self-driving technology startup’s valuation to about $5.3 billion as it seeks to expand its customer base globally."
     publishedDateTime: 2020-11-05T00:00:00Z
@@ -131,6 +147,15 @@ related:
       name: Troy Media
       domain: troymedia.com
     quality: 19
+  - title: "Autonomous driving startup Pony.ai picks up $267M at $5.3B+ valuation"
+    excerpt: "Pony.ai, a Chinese startup developing autonomous driving technology for cars and trucks, said late Thursday that it has secured $267 million in additional funding. The investment comes less than a year after the startup raised a hefty $462 million round led by Toyota Motor Corp."
+    publishedDateTime: 2020-11-06T20:36:00Z
+    webUrl: "https://siliconangle.com/2020/11/06/autonomous-driving-startup-pony-ai-picks-267m-5-3b-valuation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 17
 
 secured: "6TicGtKcE3cWavoh72BnOluzWB7CzMwS9RPsmO2f0POO+XlKTHwsWRCAz1xAyT+nJ54YPhy0NszNJyUj1HCAZgHwQ0ehhZ0655sCnb9KF5wiTIfhdEy1uMRv+9yEOhMJ9gJ/4koTcClrFS21slYXOJfhPiFSGnvMAIGHITwpCZcvlG0qHnN+jxfK684ozXBFvwFhr5cpZvDepWSWnKHgJzcQ+lQaS+tROyuXwBJd+40NtU3RHH9VlZ/tR66WyyPaT/oMc35MzUCzNzPRoGWTlU+6utNr9eWVK/hpRdYeG/xCfomxa6/zfYrLs/R2QYjKBVyEiXXuagF39Cw1cKePb9+4dpnZj3vHPfJddJJc42c=;RmyWAQ8z3wkRIgwTfH/eJg=="
 ---

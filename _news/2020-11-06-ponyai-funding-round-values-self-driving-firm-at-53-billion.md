@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Driverless Car Startup Pony.ai Valued At $5.3B With Series C Round"
+    excerpt: "Driverless car developer Pony.ai is now valued around $5.3 billion, thanks to a recent Series C funding round."
+    publishedDateTime: 2020-11-06T18:03:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2020/driverless-car-startup-pony-ai-series-c-round/"
+    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2020/driverless-car-startup-pony-ai-series-c-round/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2020/driverless-car-startup-pony-ai-series-c-round/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 74
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/11/pony.ai-funding-round-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Pony.ai Funding Round Values Self-Driving Firm at $5.3 Billion"
     excerpt: "Pony.ai is raising $267 million in a fresh funding round that pushes the self-driving technology startup’s valuation to about $5.3 billion as it seeks to expand its customer base globally."
     publishedDateTime: 2020-11-05T00:00:00Z
@@ -131,6 +147,15 @@ related:
       name: Troy Media
       domain: troymedia.com
     quality: 19
+  - title: "Autonomous driving startup Pony.ai picks up $267M at $5.3B+ valuation"
+    excerpt: "Pony.ai, a Chinese startup developing autonomous driving technology for cars and trucks, said late Thursday that it has secured $267 million in additional funding. The investment comes less than a year after the startup raised a hefty $462 million round led by Toyota Motor Corp."
+    publishedDateTime: 2020-11-06T20:36:00Z
+    webUrl: "https://siliconangle.com/2020/11/06/autonomous-driving-startup-pony-ai-picks-267m-5-3b-valuation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 17
 
 secured: "MEIMwAyWBKyMIXR3j3PeFL42c0eDH8R/OCtzH3oo3hy3Mm3M56H8kHagOBe054Lde11EPpvBGqGwmj9D8TkPbIuaOSbBvCCzrYxhXKY/Naw68Qi9FEjYDdz3/LQOaQ+QNqYT0BXNJHKEeRZF3fRkYfOZJVKd1x6R5JZHPttJ+9UI0d8G4+pWVYR4I24X5ffcVf7xjdj9ioRPNb2Wu+ZT9lWMBIY7baYoDC5DCibGQv5L5AyrxKMafHvrnbM2qDx7Ph7ZnGgiJIKi9cWUVNUTfACr9oacTz84pnnBu8yeIJ1ZdQt2Td5QuBx1wIHumDwrTNneitoFGtp5MoLak/OwrDkZzTklxmqboZ39LvIsgvqNtjKUokX/J0e00rKjqzTrFihIY3aaBmrzE42kAsoOxRAC4+bHmEncVVco+wMBdrIrrB51htffP28XjYg184KrtNxLIrWj0RTWlBlsu6bf6hM72gPSmxhisA4OPCi5m/dEQctbGl88jHgaRe6BSIM83EzvOCp16/yXTA7yHBxY/w==;gU6LebGH6+IgBYctYparhQ=="
 ---

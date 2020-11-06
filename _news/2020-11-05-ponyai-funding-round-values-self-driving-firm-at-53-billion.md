@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Driverless Car Startup Pony.ai Valued At $5.3B With Series C Round"
+    excerpt: "Driverless car developer Pony.ai is now valued around $5.3 billion, thanks to a recent Series C funding round."
+    publishedDateTime: 2020-11-06T18:03:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2020/driverless-car-startup-pony-ai-series-c-round/"
+    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2020/driverless-car-startup-pony-ai-series-c-round/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2020/driverless-car-startup-pony-ai-series-c-round/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 74
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/11/pony.ai-funding-round-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Autonomous vehicle startup Pony.ai raises $267 million at an over $5.3 billion valuation – Jaweb"
     excerpt: "In a sign that investors’ enthusiasm for driverless cars hasn’t waned during the pandemic, Pony.ai today secured a whopping $267 million in fresh funding. The capital infusion brings the Guangzhou- and Fremont,"
     publishedDateTime: 2020-11-06T07:11:00Z
@@ -127,6 +143,15 @@ related:
       name: Troy Media
       domain: troymedia.com
     quality: 19
+  - title: "Autonomous driving startup Pony.ai picks up $267M at $5.3B+ valuation"
+    excerpt: "Pony.ai, a Chinese startup developing autonomous driving technology for cars and trucks, said late Thursday that it has secured $267 million in additional funding. The investment comes less than a year after the startup raised a hefty $462 million round led by Toyota Motor Corp."
+    publishedDateTime: 2020-11-06T20:36:00Z
+    webUrl: "https://siliconangle.com/2020/11/06/autonomous-driving-startup-pony-ai-picks-267m-5-3b-valuation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 17
 
 secured: "IaxHzj/gyXYbEcEQQVVrgSBppLbKznhzt+wywyZMPceMDTJ+SrkdTUAMt6FuMzrJXS3ozqkboIWRKuRwb3eAwh2gGV7ZsqBa4f1uaDpDhMCwYdIw7hOYlBxVLBlPgw0iTRhRHYWDt2ydFV5xK/ke3TqNpHI6Wb+bRqi1mBLHm/+knkrYQ1RIt3qSgFHi5fzC//JkJN1eGon6UqSS6B6xoqM4SoulM3CkYfAW3ODE8bGNPFaJniN8LUXe5TZpa+bgLI5NfyeRNN05dl0ZZAM6Ypf0wQVp7UcsVNeGwfSU76n7xNpJXRmlD4qrV8ItezjKx8X9x6b+91+qaxXR9NSJEMzzZcDdq+Oi36UcplhtNjX2CzV8q7BRlSH3qTVBxINDVjIsBq72pUVi2a7aPZb1zu5GpbTn73nls+j8Eait8hmgrhXLO8vVX2qi7JL9vc06Dv0Wzw1Amcr/rReRSz1rl1zpcdYmJBGA3rP+XTh6bwIBt1ixQmgGs4afC8htPuKJWiEofiv16+oKY66INJXIWA==;o7b/E6+BNSydmhSjJ8RemQ=="
 ---
