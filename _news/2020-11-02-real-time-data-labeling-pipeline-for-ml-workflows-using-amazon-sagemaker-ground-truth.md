@@ -44,6 +44,20 @@ related:
         width: 900
         height: 509
         isCached: true
+  - title: "Bringing your own custom container image to Amazon SageMaker Studio notebooks"
+    excerpt: "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). SageMaker Studio lets data scientists spin up Studio notebooks to explore data, build models, launch Amazon SageMaker training jobs, and deploy hosted endpoints. Studio notebooks come with a"
+    publishedDateTime: 2020-11-06T18:17:10Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/bringing-your-own-custom-container-image-to-amazon-sagemaker-studio-notebooks/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 101
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/03/Amazon-SageMaker-Studio-notebooks-2.jpg"
+        width: 800
+        height: 406
+        isCached: true
   - title: "Deploying reinforcement learning in production using Ray and Amazon SageMaker"
     excerpt: "Reinforcement learning (RL) is used to automate decision-making in a variety of domains, including games, autoscaling, finance, robotics, recommendations, and supply chain. Launched at AWS re:Invent 2018, Amazon SageMaker RL helps you quickly build, train, and deploy policies learned by RL. Ray is an"
     publishedDateTime: 2020-11-04T17:25:22Z

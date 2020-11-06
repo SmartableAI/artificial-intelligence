@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Supply Chain Market Analysis By Development, Size, Share And Demand Forecast From 2020 To 2023"
+    excerpt: "Artificial Intelligence in Supply Chain Market, By Component (Software, Network, Hardware, FPGA, GPU, ASIC), by"
+    publishedDateTime: 2020-11-02T04:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-analysis-by-development-size-share-and-demand-forecast-from-2020-to-2023-2020-11-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "IBM Watson Services Market Evolving Technology, Segmentation and Industry Analysis 2020 to 2027"
     excerpt: "Selbyville, Delaware As per the research report titled 'IBM Watson Services Market Share, Size, Trends, Industry Analysis Report, By Service Type; By End Use ; By Regions; Segment Forecast, 2020 -2027' available with Market Study Report LLC,"
     publishedDateTime: 2020-11-06T10:13:00Z
@@ -52,6 +66,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Machine Learning as a Service (MLaaS) Market 2020 Size, Share, Analysis, Demand, Growth Driver and Industry Segments by 2025"
+    excerpt: "Nov 03, 2020 (CDN Newswire via Comtex) -- The latest market research report titled Global Machine Learning as a Service (MLaaS) Market 2020 by Company, Regions, Type and Application, Forecast to 2025 reveals the overview of the global industry ..."
+    publishedDateTime: 2020-11-04T11:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-mlaas-market-2020-size-share-analysis-demand-growth-driver-and-industry-segments-by-2025-2020-11-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice Recognition Market Overview By Share, Size, Industry Players, Revenue And Product Demand Till 2020-2026"
+    excerpt: "The Voice Recognition market is anticipated to reach over $150 billion by 2026 according to a new research published"
+    publishedDateTime: 2020-11-04T15:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-overview-by-share-size-industry-players-revenue-and-product-demand-till-2020-2026-2020-11-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "u8JJ94iXXTSGQdYfwSEtWUxEo+ZpJBvCiRFrwnsv3byw17Dr+Gom3/eSzPjh/VLSwqARsaGKpR+rKavt2st4RxedN6abgy7YacUG5l+weKJXgEcZtSI+2NSwgR9/NhvQfkm9tevqlqpUnORdPz40oZj44Kg4YYhJWoyjjBNmkU/NqOzL3tV385mtZ+cwWpCmnOSanXAkUiMLfWlKCkDFaN5fLbdqYq0h40vYQQzhl8ZPPErVYGb0Ssc7L/pWzBU2g0MXFaAoKaixjKw3MdeoGXdsEIWd10I6S+JUMWi91xsT4/NbY7WrS9X3kD80s+p4Ga0akbGmcK9xJqYc8KIqurqWqFRx1jNN+IZuGeGBa44=;TQDVLGc57AY6jACPtN9c2g=="
 ---

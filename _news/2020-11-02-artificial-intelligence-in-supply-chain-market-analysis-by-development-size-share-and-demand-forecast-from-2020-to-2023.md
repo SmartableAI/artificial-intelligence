@@ -28,29 +28,29 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Robots Market Outlook By Size, Share, Future Growth And Forecast From 2020-2023"
-    excerpt: "Global AI Robots Market Research Report - by Offering (Software, Hardware), by Type (Service Robots, Industrial Robots),"
-    publishedDateTime: 2020-11-02T02:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-outlook-by-size-share-future-growth-and-forecast-from-2020-2023-2020-11-02"
+  - title: "Artificial Intelligence Market: key Vendors, Trends, Analysis, Segmentation, Forecast to 2020-2026"
+    excerpt: "According to a new study published by Polaris Market Research the Global Artificial Intelligence Market is anticipated"
+    publishedDateTime: 2020-11-04T10:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-key-vendors-trends-analysis-segmentation-forecast-to-2020-2026-2020-11-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 68
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI In Computer Vision Market:Global Industry Analysis By Development, Size, Share And Demand Forecast From 2020 To 2023"
-    excerpt: "AI In Computer Vision Market Research Report by Component (Hardware, Software), Vertical (healthcare, security,"
-    publishedDateTime: 2020-11-02T01:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-marketglobal-industry-analysis-by-development-size-share-and-demand-forecast-from-2020-to-2023-2020-11-02"
+  - title: "IBM Watson Services Market Evolving Technology, Segmentation and Industry Analysis 2020 to 2027"
+    excerpt: "Selbyville, Delaware As per the research report titled 'IBM Watson Services Market Share, Size, Trends, Industry Analysis Report, By Service Type; By End Use ; By Regions; Segment Forecast, 2020 -2027' available with Market Study Report LLC,"
+    publishedDateTime: 2020-11-06T10:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ibm-watson-services-market-evolving-technology-segmentation-and-industry-analysis-2020-to-2027-2020-11-06"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -70,43 +70,57 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Workspace Market Outlook 2023 - Rising Demand, Share, Trends, Growth, Opportunities and Top Key players"
-    excerpt: "Artificial Intelligence in Workspace Market Research, By Components (Hardware, Software, Services), Technology"
-    publishedDateTime: 2020-11-02T04:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-workspace-market-outlook-2023---rising-demand-share-trends-growth-opportunities-and-top-key-players-2020-11-02"
+  - title: "Automatic Speech Recognition Applications Market Analysis 2020, Growth Opportunities, Trends, Forecast to 2020"
+    excerpt: "The report “Automatic Speech Recognition Applications Market” in Global to 2026 - Market Scope, Development, and Predictions offers the most up-to-date industry information on the actual market situation,"
+    publishedDateTime: 2020-11-04T06:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-applications-market-analysis-2020-growth-opportunities-trends-forecast-to-2020-2020-11-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Market Future Challenges and Industry Growth Outlook 2025"
-    excerpt: "The research report on Voice Recognition market delivers a detailed assessment of this industry landscape, the major trends that define the dynamics over the forecast period are cited, together with regulatory outlook and geographical analysis."
-    publishedDateTime: 2020-11-06T16:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-future-challenges-and-industry-growth-outlook-2025-2020-11-06"
+  - title: "Global Artificial Intelligence Application Market 2020 Trending Technologies, Developments, Key Players and End-use Industry to 2025"
+    excerpt: "Global Artificial Intelligence Application Market 2020 by Company, Regions, Type and Application, Forecast to 2025 announced by MarketsandResearch.biz provides an expert and in-depth analysis of key business trends and future market development prospects,"
+    publishedDateTime: 2020-11-04T05:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-application-market-2020-trending-technologies-developments-key-players-and-end-use-industry-to-2025-2020-11-03"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Market Overview By Share, Size, Industry Players, Revenue And Product Demand Till 2020-2026"
-    excerpt: "The Voice Recognition market is anticipated to reach over $150 billion by 2026 according to a new research published"
-    publishedDateTime: 2020-11-04T15:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-overview-by-share-size-industry-players-revenue-and-product-demand-till-2020-2026-2020-11-04"
+  - title: "Global Voice Biometric Solutions Market Movements by Trend Analysis, Growth Status and Revenue Expectation Forecast to 2026"
+    excerpt: "The global “Voice Biometric Solutions Market” is expected to rise with an impressive CAGR and generate the highest"
+    publishedDateTime: 2020-11-03T18:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-voice-biometric-solutions-market-movements-by-trend-analysis-growth-status-and-revenue-expectation-forecast-to-2026-2020-11-03"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 35
+    quality: 28
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Market : Biggest Innovation to Boost Global Growth Rate Evolving Technology, Size, Share, Data Analysis, SWOT Analysis Forecast"
+    excerpt: "Global Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with"
+    publishedDateTime: 2020-11-04T14:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-biggest-innovation-to-boost-global-growth-rate-evolving-technology-size-share-data-analysis-swot-analysis-forecast-2020-11-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 17
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -370,6 +370,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "COVID Advances Missing Middle of AI Projects"
+    excerpt: "The Federal government is responsible for maintaining some very mature artificial intelligence (AI) models and many agencies are exploring AI pilot projects, with few projects in-between – but COVID has pushed agencies to advance their efforts,"
+    publishedDateTime: 2020-11-06T17:03:00Z
+    webUrl: "https://www.meritalk.com/articles/covid-advances-missing-middle-of-ai-projects/"
+    type: article
+    provider:
+      name: MeriTalk
+      domain: meritalk.com
+    quality: 19
 
 secured: "gxdH07OA++d9TriAKoO2LaKbOVmooUzX/sAvY99sTOaqEJAaJ35Kn+095OiClS8SlQy/KRGh/l3AzJe8YFT9sTfqhEgAIevYYUodOdTpSAkfRVb5aahAcU92wuPKxCLYV5k7Hr+rGojM5HnC+oix4jKutY2RfTWej95mCov43Hox3Rz5Fb/YHIpZhuQpstM2qoi+pBHlfV50SFPeq03CpOgbuOxP/qdt74r/cRbnQisc6QH3zNzBCtoipNYxZ4i19ItYo1rtwnXMWs1cA1YbfvkPAwg/W16ousen3x+daCWiDpbI5q2jnRT4fRTMeB2+q8Tn45RDNaWfyG/xIuxiGYhfnuf23LfUuIx/+NUvCULEaJIVyDxyZ3Yjlf+SG6shIPUkFATsOO/5w5l7/ykWkKsd/yn7nq3Fi7kjDMGXcx15CC8u++zC5PYfxCftyMOI02JApkj5bkhetiED7rB0VM4F3coGE+uxAdImqgvltA0LbLeXdf2QmHnFqVUiTD2WWK5wngrFfH3nYk9KjzG7Og==;C7wrn4pGoKI+b4au10ZvEA=="
 ---

@@ -369,6 +369,15 @@ related:
       name: Tech Thirsty
       domain: techthirsty.com
     quality: 19
+  - title: "COVID Advances Missing Middle of AI Projects"
+    excerpt: "The Federal government is responsible for maintaining some very mature artificial intelligence (AI) models and many agencies are exploring AI pilot projects, with few projects in-between – but COVID has pushed agencies to advance their efforts,"
+    publishedDateTime: 2020-11-06T17:03:00Z
+    webUrl: "https://www.meritalk.com/articles/covid-advances-missing-middle-of-ai-projects/"
+    type: article
+    provider:
+      name: MeriTalk
+      domain: meritalk.com
+    quality: 19
 
 secured: "HVOHDJdXnt/WAMRcXl6Ij5TLy/UCxSik18SyCMMvmCZo3NOusPCXDjZeE1vSZTcz3kSDs2CN6TRmY4jeD361oajAFKWc3+X+hFuz3IeP5nML0qR9deqZ1BvbhRXlE4XDaUrqFSR6NO6AMAeyM29NHJzfYig5FgcQw1F+BkZ0OI7+mBjoIYll1aAjxeMyWLLtZ8hEdwTriapwZeihrGx1cLxekUl0u+LzmnHI2dW2WrNj8f+KQdvWgHKVuHESiW2VCfQeuBGRj8BPaCiYv+I0HMzpZLdNd5YanOsYjz7P7lIs4e68rQMV5fw6UpLymiJKshi1X5FTpCjILyxOEcVqvfIgD7pO6G81DRtuYZns5OsiA4bl/485p3M19aptzPYFp7I70PC5OPGW/2t9KQ9kOI0xo2u2UQaWwAIoioq3XBsA1LMCmyzOgbvktE0RQ8q4gGdNF0dQdHTDpgQUkxgWVJUjqg29VS19hMB5A9/RwZ2rFJmAnkoGdKmQmSgsL8TULXFaQPhYOnPkoGMunn2UFw==;FLlVrPuVCoRgwkv2OpYh+A=="
 ---

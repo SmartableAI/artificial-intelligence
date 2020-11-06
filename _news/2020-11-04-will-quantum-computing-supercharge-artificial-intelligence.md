@@ -32,7 +32,7 @@ related:
     provider:
       name: Electronic Design
       domain: electronicdesign.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/11/Rambus_RegImage_120320.5fa57c93e6a68.png?auto=format&fit=max&w=1200"
         width: 1200

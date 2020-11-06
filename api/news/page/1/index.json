@@ -10,7 +10,7 @@
       "originalUrl": "https://thenextweb.com/neural/2020/11/06/mit-ai-analysis-of-reddit-shows-anxiety-levels-are-sky-high-since-pandemic/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -49,7 +49,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -445,10 +446,10 @@
     {
       "path": "_news/2020-11-06-amazons-robotics-deals-have-paid-off-and-one-investor-thinks-ocados-may-as-well.md",
       "title": "Amazon’s Robotics Deals Have Paid Off, And One Investor Thinks Ocado’s May As Well.",
-      "excerpt": "In these and other applications, embracing robotics and AI is cost-effective, safer, autonomous (as the technology works continuously in the background once switched on), limits human errors, and its marginal costs are minimal,",
+      "excerpt": "Why two robotic deals are critical to Ocado Group, the food delivery company.",
       "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/amazons-robotics-deals-have-paid-off-and-one-investor-thinks-ocados-may-as-well-51604669249?refsec=europe",
-      "originalUrl": "https://www.barrons.com/articles/amazons-robotics-deals-have-paid-off-and-one-investor-thinks-ocados-may-as-well-51604669249?refsec=europe",
+      "webUrl": "https://www.barrons.com/articles/amazons-robotics-deals-have-paid-off-and-one-investor-thinks-ocados-may-as-well-51604669249?refsec=technology",
+      "originalUrl": "https://www.barrons.com/articles/amazons-robotics-deals-have-paid-off-and-one-investor-thinks-ocados-may-as-well-51604669249?refsec=technology",
       "featuredContent": null,
       "highlight": null,
       "heat": 93,
@@ -545,7 +546,7 @@
       "originalUrl": "https://www.cnbc.com/2020/11/06/china-driverless-car-firm-ponyai-valued-at-5point3-billion-after-funding.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -848,7 +849,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/05/when-a-tree-falls-on-top-of-a-self-driving-car/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1039,7 +1040,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-face-recognition-device-market-size-to-reach-20548-million-usd-by-2025-2020-11-05",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": [
         {

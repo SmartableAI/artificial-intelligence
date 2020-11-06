@@ -101,6 +101,22 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Autonomous vehicle startup Pony.ai raises $267 million at an over $5.3 billion valuation – Jaweb"
+    excerpt: "In a sign that investors’ enthusiasm for driverless cars hasn’t waned during the pandemic, Pony.ai today secured a whopping $267 million in fresh funding. The capital infusion brings the Guangzhou- and Fremont,"
+    publishedDateTime: 2020-11-06T07:11:00Z
+    webUrl: "https://elmoudjaweb.com/autonomous-vehicle-startup-pony-ai-raises-267-million-at-an-over-5-3-billion-valuation-jaweb/"
+    ampWebUrl: "https://elmoudjaweb.com/autonomous-vehicle-startup-pony-ai-raises-267-million-at-an-over-5-3-billion-valuation-jaweb/?amp"
+    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/autonomous-vehicle-startup-pony-ai-raises-267-million-at-an-over-5-3-billion-valuation-jaweb/?amp"
+    type: article
+    provider:
+      name: Elmoudjaweb
+      domain: elmoudjaweb.com
+    quality: 44
+    images:
+      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/11/Autonomous-vehicle-startup-Pony.ai-raises-267-million-at-an-over.png"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Who’s responsible when a driverless car has an accident?"
     excerpt: "Who’s responsible for an accident needs to be considered now rather than when we’re scrambling to implement laws We haven’t reached the point where driverless vehicles ply our roadways. However, as a recent incident on an Alberta highway demonstrates,"
     publishedDateTime: 2020-11-02T12:58:00Z

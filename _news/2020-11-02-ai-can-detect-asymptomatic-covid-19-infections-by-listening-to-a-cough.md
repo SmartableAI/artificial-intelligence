@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/ai-can-detect-asymptomatic-covid-19-infect
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ai-can-detect-asymptomatic-covid-19-infections-by-listening-to-a-cough-02645368/amp/"
 type: article
 quality: 87
-heat: 327
+heat: 337
 published: true
 
 provider:
@@ -373,6 +373,15 @@ related:
     provider:
       name: Tech Thirsty
       domain: techthirsty.com
+    quality: 19
+  - title: "COVID Advances Missing Middle of AI Projects"
+    excerpt: "The Federal government is responsible for maintaining some very mature artificial intelligence (AI) models and many agencies are exploring AI pilot projects, with few projects in-between – but COVID has pushed agencies to advance their efforts,"
+    publishedDateTime: 2020-11-06T17:03:00Z
+    webUrl: "https://www.meritalk.com/articles/covid-advances-missing-middle-of-ai-projects/"
+    type: article
+    provider:
+      name: MeriTalk
+      domain: meritalk.com
     quality: 19
 
 secured: "NEcUQdEohYw7/onBg0KD7Z4nQORK1bBGOkwz9UGQDyKbdLn1RzbsDcWWD0B9XLI7RkvbbMrp1ZA1Gy44nnUsY0tlT/peA2mm+OvVhqp02a1uPuwT95G+KCcorIA44gr+6LXn4+OIXT4tr8NTl+PNo2NcXTTND/L5oUaJoIcltGqF5yN8oIKX7VuBLr20JIcpl7wGjq1jCIO7c/x1DCn+KUGsqbUINQEkTJCmccvjJhHEL0nAKqJmw413GtmMP57IjyVjv4lvPfI1QJZfvjyVka4DVk3vb7RhVoMp7Z+ZMzwXB8e4aZHp1pepcrqbtGGJCxvCXKcQZXeeNgRRLwQny3DeZtzuQifbZJUcjb1Y8namPPlejTrJpNC14L4FLusAA58Mdf4AOrHfgvfnGsPg43HEJXiBGy9g7yYCvepRxRmPXAR7CSgAcrkowqzTmH0BNLWPDqavZxXq2ztJxDAjg/+ukKkuI5jNMKJcIfHXtDDfLRv+RAdsPWy/Tn/AZGla9Rf8xjteq/SwKEE8GRgANw==;8TD777Eg6N0sGZYqQtAZzA=="

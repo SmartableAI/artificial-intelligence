@@ -8,8 +8,8 @@ webUrl: "https://thenextweb.com/neural/2020/11/06/mit-ai-analysis-of-reddit-show
 ampWebUrl: "https://thenextweb.com/neural/2020/11/06/mit-ai-analysis-of-reddit-shows-anxiety-levels-are-sky-high-since-pandemic/amp/"
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/06/mit-ai-analysis-of-reddit-shows-anxiety-levels-are-sky-high-since-pandemic/amp/"
 type: article
-quality: 85
-heat: 85
+quality: 87
+heat: 87
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/Untitled-design-2020-11-06T114952.180-796x417.png"
@@ -29,6 +30,6 @@ images:
     height: 417
     isCached: true
 
-secured: "DXyavS8IeAJS65TA+hTvfSz6RTljg0UfHpBy6iu54cCeUmevTs1BPxuA+75nyd8L8AvQ5hHoTdxlui132Yz1ewyTMm9YRAMJTnZwcpgYSXyXdMotEfa9tKranrOuXRsKEvmluKMIo8tnQy2p+THBKbFckDJv6+Hd5+cytL7It75PAdg/cgMlvYkFY9apQh6AINRaznSF7ld4id78F/v6klT7cW8HwwPk6cLMlpUc3CopaI/v3eriYLyZfFEVo99aX71+5pcgHIfv0q/j1fANzmHgY9j2z+f1WgZdhcDshkUO1VBeTGBBgoQUYiV3gIOYQC1QNCSmoKSTF9s8iUunQ3Bt9UoaUnh9gQ8s6MHFtjE=;nQFN7udQSELN9+9YqWBT4Q=="
+secured: "Jmsm/5e3Y8Y3/wgjU2iJASnltYjYe/nJyUT4/wIDT1ICBBoj3dh3hAWsyX0+jY5qVh7i7qh0f6s2RgEGKuqfVj6sfb4iWyLyrB/niGIFxAn470J74uOu9/M3Cj/xFDI0/xY8q9FHeCFvlrdibLy/rIvqHs0+V8FfJYWM9Q8kV32s84TJsbTC9LokPVEZ+/UHpoplSZldjZrrZhRRqKJZE/0fqUyN0IDM0T0wOP0Tc8IFV1V/ZMOgbghAlAacGbZjD7coD/M53uvhKIvLKcy1eukOgTbxPwLmmGZVr2CyaugQ6alsxw+38LXrN2ZpraDMvjbMJjKIZObnQUI3DdPejltUycMieelVso245Oz9vOZbyGH4BLJvCzvpS/yihFgju8Sgm5HWTxzMwB+5fTgAXAtAKD9aputL1nvE7yvwVV03ZNxWhIHKlbToVsMj94rHZ3u08fHLkB5ZEW1Xio0W8GdGmXByXgVkIpvB6cTd8jy3PMX9cV/atNVZQeqkl4QcNP0tLGVxWwRH82l6iS+jDA==;x52f1x8wNpZCLCP9dSZJ+Q=="
 ---
 
