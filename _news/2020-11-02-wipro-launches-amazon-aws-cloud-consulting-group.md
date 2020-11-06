@@ -46,6 +46,20 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 39
+  - title: "AWS Announces Plans to Launch a Second Region in India"
+    excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com company, announced expansion of its services to include a second"
+    publishedDateTime: 2020-11-06T16:51:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/aws-announces-plans-to-launch-a-second-region-in-india/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 39
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/market_covid_shutterstock_1658915128-405x228.jpg"
+        width: 405
+        height: 228
+        isCached: true
   - title: "Wipro AWS Business Group: Fast-tracking customers’ cloud transformation journey on AWS"
     excerpt: "Wipro launched the Wipro AWS Business Group (WABG), a unit designed to help customers fast-track their cloud transformation journey on AWS."
     publishedDateTime: 2020-11-03T01:32:00Z
@@ -69,6 +83,20 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 19
+  - title: "AI Eye Podcast Episode 467: Wipro (NYSE: $WIT) and AWS Launch Wipro AWS Business Group, and ImmunoPrecise Collaborates with AI Research Institute Mila"
+    excerpt: "Watching stock news, deal tracker and advancements in artificial intelligence Wipro Limited ( NYSE:WIT) and Amazon Web Service (AWS), a subsidiary of Amazon ( NasdaqGS:AMZN ), announced the launch of Wipro AWS Business Group (WABG),"
+    publishedDateTime: 2020-11-03T18:20:00Z
+    webUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/11031AIEye-WIT-AWS-ImmunoPrecise.asp"
+    type: article
+    provider:
+      name: Investor ideas
+      domain: investorideas.com
+    quality: 14
+    images:
+      - url: "https://www.investorideas.com/images/AI-Eye.jpg"
+        width: 1280
+        height: 1206
+        isCached: true
 
 secured: "WNqfeN5PIzGsSN/TM5OMxPRrAFvr2ob951jiR1RE37IbV2y5b5MKBzp7JbpZmKPruNlMllHjRcNS2v9abriCBVRw2ZihvJ9shjcvTOjjaJFCrTzwycrqrvO0HAXHPQwYl7hBHRQ698ylAU0rdLgiP33R74vIsuKOPVaxm7KJW3tSZOEJvM8XGDlPDeLIaRigNb7S2R7dOUk42m/fP2FLtYlD0BfgSRI81w7bajEPxb7UMgQU4cYhbhcUZA0jtIY3sj34EokFikP5Llt35vCqiE0nqodlDGNOTsxfzwJiSQGBQr8H+WnSFxGZ6Z+TcnRsjh3zgiw4y3EnLFtEUvIPgStCegCQ2wtnExmeavCTHhM=;dJy4g196Yvda6YeEbt2rCA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pcworld.com/article/3587732/intels-iris-xe-max-gpu-to-ta
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3587732/intels-iris-xe-max-gpu-to-take-on-nvidias-geforce-mx350-rtx-2080-in-notebook-pcs.amp.html"
 type: article
 quality: 83
-heat: -1
-published: false
+heat: 123
+published: true
 
 provider:
   name: PC World
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel Iris Xe MAX discrete GPU launched for laptops"
-    excerpt: "Intel may have the lion’s share of the PC desktop and laptop CPU market, at least for now, but it has struggled to gain any foothold in the graphics sector of the industry. It has always"
-    publishedDateTime: 2020-11-02T00:02:00Z
-    webUrl: "https://www.slashgear.com/intel-iris-xe-max-discrete-gpu-launched-for-laptops-01645312/"
-    ampWebUrl: "https://www.slashgear.com/intel-iris-xe-max-discrete-gpu-launched-for-laptops-01645312/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/intel-iris-xe-max-discrete-gpu-launched-for-laptops-01645312/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 89
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/11/Intel-DG1-chip-1.jpg"
-        width: 1280
-        height: 800
-        isCached: true
   - title: "Intel enters the laptop discrete GPU market with Xe Max"
     excerpt: "Intel released preliminary information on its newest laptop part—the Xe Max discrete GPU, which functions alongside and in tandem with"
     publishedDateTime: 2020-11-04T13:00:00Z

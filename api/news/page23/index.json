@@ -2,6 +2,247 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-10-17-machine-learning-ai-in-search.md",
+      "title": "Machine Learning & AI in Search",
+      "excerpt": "Regular readers will likely wonder what more I could have to say about machine learning (ML) in search, after having written How Machine Learning In Search Works just a few months ago. Let me ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.searchenginejournal.com/machine-learning-ai-in-search/382454/",
+      "originalUrl": "https://www.searchenginejournal.com/machine-learning-ai-in-search/382454/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.searchenginejournal.com/wp-content/uploads/2020/09/sej-ml-dan-featured-5f735c4c450d3.jpg",
+          "width": 1600,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.searchenginejournal.com/machine-learning-ai-in-search/382454/",
+      "cdnAmpWebUrl": "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/machine-learning-ai-in-search/382454/",
+      "publishedDateTime": "2020-10-16T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Search Engine Journal",
+        "domain": "searchenginejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-ai-localization-tool-claims-to-translate-your-words-in-your-voice.md",
+      "title": "AI localization tool claims to translate your words in your voice",
+      "excerpt": "Localization is a tricky issue for all content creators. It can take significant time and resources to make their work fully accessible to folks who speak different languages. One company thinks it has cracked part of that code with an artificial intelligence system that automatically translates speech into other languages in the same speaker’s voice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/resemble-ai-localize-voice-translation-artificial-intelligence-193517036.html",
+      "originalUrl": "https://www.engadget.com/resemble-ai-localize-voice-translation-artificial-intelligence-193517036.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fe8457890-0fe0-11eb-9ad6-9785dab366ce&client=amp-blogside-v2&signature=42e2cbb5af0ac7376c4143e4322a5319d3229a26",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/resemble-ai-localize-voice-translation-artificial-intelligence-193517036.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/resemble-ai-localize-voice-translation-artificial-intelligence-193517036.html",
+      "publishedDateTime": "2020-10-16T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-ibm-and-servicenow-are-helping-businesses-reduce-costs-using-ai.md",
+      "title": "IBM and ServiceNow are helping businesses reduce costs using AI",
+      "excerpt": "IBM and ServiceNow have expanded their strategic partnership to help companies use artificial intelligence (AI) to automate their IT operations. The joint solution will employ IBM's hybrid cloud ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/357462/ibm-and-servicenow-helping-businesses-reduce-costs",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/357462/ibm-and-servicenow-helping-businesses-reduce-costs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1602872906/itpro/ibm_logo.jpg",
+          "width": 2700,
+          "height": 1411,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-16T11:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-your-ai-may-be-ethical-but-is-it-prudent.md",
+      "title": "Your AI May Be Ethical, But Is It Prudent?",
+      "excerpt": "Legal is onboard. Your AI is morally defensible. But is it a bad idea? With so many unintended consequences to consider, how do you determine whether your AI deserves to exist?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/arunshastri/2020/10/16/your-ai-may-be-ethical-but-is-it-prudent/",
+      "originalUrl": "https://www.forbes.com/sites/arunshastri/2020/10/16/your-ai-may-be-ethical-but-is-it-prudent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f89cf900c8f22bbbae126cb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5082%26cropY1%3D127%26cropY2%3D2986",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/arunshastri/2020/10/16/your-ai-may-be-ethical-but-is-it-prudent/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2020/10/16/your-ai-may-be-ethical-but-is-it-prudent/amp/",
+      "publishedDateTime": "2020-10-16T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-skylum-gives-us-a-sneak-peek-of-sky-reflections-in-water.md",
+      "title": "Skylum Gives Us a Sneak Peek of Sky Reflections in Water",
+      "excerpt": "When Skykum gave us sky replacement features in Luminar 4 in 2019, it was a breakthrough that didn't require masks and a lot of work. A whole lot of landscape photographers and real estate photographers loved the feature.",
+      "sourceUrl": null,
+      "webUrl": "https://www.youtube.com/watch?v=K_jWJ7Z-tKI",
+      "originalUrl": "https://fstoppers.com/landscapes/skylum-gives-us-sneak-peek-sky-reflections-water-524593",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/K_jWJ7Z-tKI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-16T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fstoppers",
+        "domain": "fstoppers.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-servicenow-and-ibm-making-ai-really-work.md",
       "title": "ServiceNow And IBM: Making AI Really Work",
       "excerpt": "Both companies have announced an expanded strategic partnership that combines Watson with ServiceNow’s IT platform",
@@ -916,248 +1157,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-detecting-playful-animal-behavior-in-videos-using-amazon-rekognition-custom-labels.md",
-      "title": "Detecting playful animal behavior in videos using Amazon Rekognition Custom Labels",
-      "excerpt": "Historically, humans have observed animal behaviors and applied them for different purposes. For example, behavioral observation is important in animal ecology, such as how often the behaviors are, when the behaviors occur, or whether there is individual difference or not. However, identifying and monitoring",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detecting-playful-animal-behavior-in-videos-using-amazon-rekognition-custom-labels/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detecting-playful-animal-behavior-in-videos-using-amazon-rekognition-custom-labels/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/13/1-Diagram.jpg",
-          "width": 900,
-          "height": 471,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T15:40:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-deep-learning-artificial-intelligence-keeps-an-eye-on-volcano-movements.md",
-      "title": "Deep learning artificial intelligence keeps an eye on volcano movements",
-      "excerpt": "Radar satellites can collect massive amounts of remote sensing data that can detect ground movements -- surface deformations -- at volcanoes in near real time. These ground movements could signal impending volcanic activity and unrest;",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2020/10/201015134215.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2020/10/201015134215.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T15:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-whispers-hearing-aids-use-ai-to-boost-speech-and-reduce-noise.md",
-      "title": "Whisper’s hearing aids use AI to boost speech and reduce noise",
-      "excerpt": "Whisper, a startup developing AI-powered hearing aids that self-tune over time, emerged from stealth today with $50 million. CEO Dwight Crow says the funds will be put toward the company’s go-to ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/15/whispers-hearing-aids-employ-ai-to-boost-speech-and-reduce-noise/",
-      "originalUrl": "https://venturebeat.com/2020/10/15/whispers-hearing-aids-employ-ai-to-boost-speech-and-reduce-noise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/content3A2F2Fcom.rarlab.rar.provider2Fexternal_files2FAndroid2Fdata2Fcom.rarlab.rar2Ffiles2F_rartemp_open_16002199995922F_P2I940425202-e1600220152706.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/15/whispers-hearing-aids-employ-ai-to-boost-speech-and-reduce-noise/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/15/whispers-hearing-aids-employ-ai-to-boost-speech-and-reduce-noise/amp/",
-      "publishedDateTime": "2020-10-15T15:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-gm-will-test-fully-driverless-cars-in-sf-later-this-year.md",
-      "title": "GM will test fully driverless cars in SF later this year",
-      "excerpt": "The company’s Cruise unit received the necessary permit from California’s DMV. General Motors and its self-driving car unit Cruise say they’ll start testing unmanned autonomous vehicles in San Francisco by the end of 2020 (via NBC News). On Thursday ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/cruise-testing-san-francisco-214222312.html",
-      "originalUrl": "https://www.engadget.com/cruise-testing-san-francisco-214222312.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fbebd6400-0f2d-11eb-9bfe-e67a76f4a357&client=amp-blogside-v2&signature=4908a2fba8142ca66578860cd136007606108c87",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/cruise-testing-san-francisco-214222312.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/cruise-testing-san-francisco-214222312.html",
-      "publishedDateTime": "2020-10-15T14:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-cambridge-technology-attains-aws-well-architected-partner-status.md",
-      "title": "Cambridge Technology Attains AWS Well-Architected Partner Status",
-      "excerpt": "AWS Well-Architected Partners have the skills ... IT problems by leveraging its competencies and expertise in Artificial Intelligence, Cloud, Big Data, IoT, DevOps, and SaaS & App Development ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/cambridge-technology-attains-aws-well-architected-partner-status-301153712.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/cambridge-technology-attains-aws-well-architected-partner-status-301153712.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1313863/Cambridge_Technology_AWS_WAR.jpg?p=facebook",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T14:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

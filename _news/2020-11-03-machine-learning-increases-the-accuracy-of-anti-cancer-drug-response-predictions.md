@@ -43,15 +43,6 @@ related:
         width: 2880
         height: 2304
         isCached: true
-  - title: "Machine learning predicts anti-cancer drug efficacy"
-    excerpt: "Research on anti-cancer drug response in patient-derived artificial organoids and transcriptome learning of genes associated with anti-cancer target proteins. With the advent of pharmacogenomics, machine learning research is well underway to predict the ..."
-    publishedDateTime: 2020-11-02T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/11/201102120108.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "Machine Learning Increased Accuracy of Anti-Cancer Drug Response Predictions"
     excerpt: "Scientists from the Pohang University of Science and Technology (POSTECH) in South Korea report that have successfully increased the accuracy of anti-cancer drug response predictions by developing a machine learning that learned the transcriptome information derived from actual patients instead of animal models."
     publishedDateTime: 2020-11-02T20:00:00Z

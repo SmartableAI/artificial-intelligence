@@ -2,6 +2,282 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-03-independent-research-firms-position-ibm-as-a-leader-in-managed-security-services.md",
+      "title": "Independent Research Firms Position IBM as a Leader in Managed Security Services",
+      "excerpt": "PRNewswire/ -- IBM (NYSE: IBM) announced today that the company has been recognized as a Leader in three market",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/independent-research-firms-position-ibm-as-a-leader-in-managed-security-services-1029753751",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/independent-research-firms-position-ibm-as-a-leader-in-managed-security-services-1029753751",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/independent-research-firms-position-ibm-as-a-leader-in-managed-security-services-1029753751",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/independent-research-firms-position-ibm-as-a-leader-in-managed-security-services-1029753751",
+      "publishedDateTime": "2020-11-02T12:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-upgrad-sees-demand-in-digital-marketing-artificial-intelligence-machine-learning-courses.md",
+      "title": "upGrad sees demand in digital marketing, artificial intelligence, machine learning courses",
+      "excerpt": "Online career education company upGrad has seen rising demand for courses in the areas of Digital Marketing, Data Science, Machine Learning and Artifi",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsr.in/n/India/1zlumksckk/upGrad-sees-demand-in-digital-marketing-artificial-intelligence.htm",
+      "originalUrl": "https://www.newsr.in/n/India/1zlumksckk/upGrad-sees-demand-in-digital-marketing-artificial-intelligence.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newsserve.net/newsR256.png",
+          "width": 256,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsr.in/n/India/1zlumksckk/upGrad-sees-demand-in-digital-marketing-artificial-intelligence.htm",
+      "cdnAmpWebUrl": "https://www-newsr-in.cdn.ampproject.org/c/s/www.newsr.in/n/India/1zlumksckk/upGrad-sees-demand-in-digital-marketing-artificial-intelligence.htm",
+      "publishedDateTime": "2020-11-02T10:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "newsr.in",
+        "domain": "newsr.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-brazil-creates-national-ai-innovation-network.md",
+      "title": "Brazil creates national AI innovation network",
+      "excerpt": "A network of research centers will support startups and established businesses in the development of new products and services based on the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/brazil-creates-national-ai-innovation-network/",
+      "originalUrl": "https://www.zdnet.com/article/brazil-creates-national-ai-innovation-network/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/brazil-creates-national-ai-innovation-network/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazil-creates-national-ai-innovation-network/",
+      "publishedDateTime": "2020-11-02T09:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-the-near-miss-quandary-is-unavoidably-messy-for-self-driving-cars.md",
+      "title": "The Near-Miss Quandary Is Unavoidably Messy For Self-Driving Cars",
+      "excerpt": "Near-miss while driving is insidious, including for self-driving cars. getty. Reckless and fleckless drivers. I’m sure you experience their antics and angst-producing driving ac",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/02/the-near-miss-quandary-is-unavoidably-messy-for-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/02/the-near-miss-quandary-is-unavoidably-messy-for-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9cef7aa486df619b0da987%2F0x0.jpg%3FcropX1%3D631%26cropX2%3D4938%26cropY1%3D194%26cropY2%3D2711",
+          "width": 1200,
+          "height": 701,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/02/the-near-miss-quandary-is-unavoidably-messy-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/02/the-near-miss-quandary-is-unavoidably-messy-for-self-driving-cars/amp/",
+      "publishedDateTime": "2020-11-02T09:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-tesla-full-self-driving-feature-now-costs-10000.md",
+      "title": "Tesla Full Self-Driving feature now costs $10,000",
+      "excerpt": "Tesla's long-promised Full Self-Driving mode reached its first customers in beta form a week and a half ago and we've already received a look at how the system operates on local roads, thanks to people on social media. Some report flawless activity ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-elon-musk-price/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-elon-musk-price/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/nMvuev24_7LHftSxIEiOh_ZvANo=/2020/10/22/5c6fc05c-509c-4f29-a9bd-4cad1b4aded2/ogi-autopilot.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-elon-musk-price/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-elon-musk-price/",
+      "publishedDateTime": "2020-11-02T08:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-artificial-intelligence-ai-automation-cognitive-insight-breaking-the-business-mold.md",
+      "title": "Artificial Intelligence (AI) Automation & Cognitive Insight Breaking The Business Mold",
+      "excerpt": "Artificial intelligence (AI) delivers big time business benefits when it comes to capabilities. Automation and cognitive insight being among the top types of AI businesses utilize. Did you know that 37 percent of businesses and organizations have implemented artificial intelligence in some way?",
+      "sourceUrl": null,
+      "webUrl": "https://thetechportal.com/artificial-intelligence-ai-automation-cognitive-insight-breaking-the-business-mold/",
+      "originalUrl": "https://thetechportal.com/artificial-intelligence-ai-automation-cognitive-insight-breaking-the-business-mold/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thetechportal.com/wp-content/uploads/2019/06/tp-website-header-logo-e1590226509506.png",
+          "width": 500,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thetechportal.com/artificial-intelligence-ai-automation-cognitive-insight-breaking-the-business-mold/?amp",
+      "cdnAmpWebUrl": "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/artificial-intelligence-ai-automation-cognitive-insight-breaking-the-business-mold/?amp",
+      "publishedDateTime": "2020-11-02T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thetechportal.com",
+        "domain": "thetechportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-ai-may-help-identify-patients-with-early-stage-dementia.md",
       "title": "AI May Help Identify Patients With Early-Stage Dementia",
       "excerpt": "Research suggests that how we type, sleep and speak may offer clues of cognitive decline.",
@@ -112,7 +388,7 @@
       "originalUrl": "https://medicalxpress.com/news/2020-11-machine-anti-cancer-drug-efficacy.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -194,58 +470,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-xiaomi-smart-door-lock-pro-launching-on-november-4-poster-hints-at-facial-recognition-feature.md",
-      "title": "Xiaomi Smart Door Lock Pro launching on November 4; Poster hints at facial recognition feature",
-      "excerpt": "Xiaomi recently launched a new Automatic Smart Door Lock with a fingerprint sensor in China. Today, it’s official Smart Life Weibo account has shared a poster of a new Smart Door Lock Pro. And looks like it has front cameras.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2020/11/02/xiaomi-smart-door-lock-pro-launching-on-november-4-poster-hints-facial-recognition/",
-      "originalUrl": "https://www.gizmochina.com/2020/11/02/xiaomi-smart-door-lock-pro-launching-on-november-4-poster-hints-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2020/11/xiaomi-smart-door-lock-pro-1.jpg",
-          "width": 598,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-02T06:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -648,7 +872,7 @@
       "originalUrl": "https://www.computerworld.com/article/3539910/otterai-adds-live-captions-to-its-zoom-integration.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -941,7 +1165,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-outlook-by-size-share-future-growth-and-forecast-from-2020-2023-2020-11-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -981,257 +1205,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-intel-iris-xe-max-discrete-gpu-launched-for-laptops.md",
-      "title": "Intel Iris Xe MAX discrete GPU launched for laptops",
-      "excerpt": "Intel may have the lion’s share of the PC desktop and laptop CPU market, at least for now, but it has struggled to gain any foothold in the graphics sector of the industry. It has always",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/intel-iris-xe-max-discrete-gpu-launched-for-laptops-01645312/",
-      "originalUrl": "https://www.slashgear.com/intel-iris-xe-max-discrete-gpu-launched-for-laptops-01645312/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/11/Intel-DG1-chip-1.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/intel-iris-xe-max-discrete-gpu-launched-for-laptops-01645312/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/intel-iris-xe-max-discrete-gpu-launched-for-laptops-01645312/amp/",
-      "publishedDateTime": "2020-11-01T16:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-ai-artificial-intelligence-lessons-from-the-world-series.md",
-      "title": "AI (Artificial Intelligence) Lessons From The World Series",
-      "excerpt": "So in light of all this, what are the lessons here? To answer this question, I asked some top people in the AI field and here’s what they had to say: Hindsight is always 20/20, but Cash’s decision to pull Snell illustrates the myopia that can occur when analytics are elevated above commonsense.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/01/ai-artificial-intelligence-lessons-from-the-world-series/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/01/ai-artificial-intelligence-lessons-from-the-world-series/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9ef353188dd3a517f19ceb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2715%26cropY1%3D122%26cropY2%3D1651",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/01/ai-artificial-intelligence-lessons-from-the-world-series/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/11/01/ai-artificial-intelligence-lessons-from-the-world-series/amp/",
-      "publishedDateTime": "2020-11-01T10:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-amd-will-share-more-info-on-radeon-rx-6000-gpus-ray-tracing-and-ai-supersampling-tech.md",
-      "title": "AMD will share more info on Radeon RX 6000 GPU’s Ray Tracing and AI Supersampling tech",
-      "excerpt": "AMD’s Frank Azor just confirmed that AMD will provide more information about ray tracing and AI super sampling tech before the RX 6000 launch date.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dsogaming.com/news/amd-will-share-more-info-on-radeon-rx-6000-gpus-ray-tracing-and-ai-supersampling-tech/",
-      "originalUrl": "https://www.dsogaming.com/news/amd-will-share-more-info-on-radeon-rx-6000-gpus-ray-tracing-and-ai-supersampling-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dsogaming.com/wp-content/uploads/2020/09/AMD-RDNA-2-temp.jpg",
-          "width": 1260,
-          "height": 709,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dsogaming.com/news/amd-will-share-more-info-on-radeon-rx-6000-gpus-ray-tracing-and-ai-supersampling-tech/amp/",
-      "cdnAmpWebUrl": "https://www-dsogaming-com.cdn.ampproject.org/c/s/www.dsogaming.com/news/amd-will-share-more-info-on-radeon-rx-6000-gpus-ray-tracing-and-ai-supersampling-tech/amp/",
-      "publishedDateTime": "2020-11-01T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dark Side Of Gaming",
-        "domain": "dsogaming.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-facebook-research-is-developing-ar-glasses-that-help-deaf-people-hear-better.md",
-      "title": "Facebook research is developing AR glasses that help deaf people hear better",
-      "excerpt": "The research lead for Facebook’s Hearing Science lab tells Digital Trends about the exciting possibilities of AR glasses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/features/facebook-ar-glasses-deaf/",
-      "originalUrl": "https://www.digitaltrends.com/features/facebook-ar-glasses-deaf/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/facebook_hearing_ar3-1200x630-c-ar1.91.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/features/facebook-ar-glasses-deaf/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facebook-ar-glasses-deaf/?amp",
-      "publishedDateTime": "2020-11-01T08:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-01-deep-neural-networks-are-helping-decipher-how-brains-work.md",
-      "title": "Deep Neural Networks Are Helping Decipher How Brains Work",
-      "excerpt": "“I was really pumped,” he said. It would have counted as a noteworthy accomplishment in artificial intelligence alone, one of many that would make neural networks the darlings of AI technology over the next few years. But that wasn’t the main goal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/deep-neural-networks-are-helping-decipher-how-brains-work/",
-      "originalUrl": "https://www.wired.com/story/deep-neural-networks-are-helping-decipher-how-brains-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f9c17ea06e9afd2b38e204b/master/pass/Science_BrainDeepNets-2880x1620-Lede.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/deep-neural-networks-are-helping-decipher-how-brains-work/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/deep-neural-networks-are-helping-decipher-how-brains-work/amp",
-      "publishedDateTime": "2020-11-01T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -2,6 +2,92 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-16-looper-column-artificial-intelligence-humanity-and-the-future.md",
+      "title": "Looper column: Artificial intelligence, humanity and the future",
+      "excerpt": "Columns share an author’s personal perspective. ***** In September, the British news website The Guardian published a story written entirely by",
+      "sourceUrl": null,
+      "webUrl": "https://www.southcoasttoday.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future",
+      "originalUrl": "https://www.southcoasttoday.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.southcoasttoday.com/apps/pbcsi.dll/bilde?Site=NB&Date=20201016&Category=LIFESTYLE&ArtNo=201019817&Ref=AR",
+          "width": 387,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.southcoasttoday.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart",
+      "cdnAmpWebUrl": "https://www-southcoasttoday-com.cdn.ampproject.org/c/s/www.southcoasttoday.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart",
+      "publishedDateTime": "2020-10-16T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "southcoasttoday.com",
+        "domain": "southcoasttoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-down-914-in-september.md",
+      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Short Interest Down 91.4% in September",
+      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) was the target of a significant drop in short interest during the month of September. As of September 30th, there was short interest totalling 3,",
+      "sourceUrl": null,
+      "webUrl": "https://theenterpriseleader.com/2020/10/15/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-down-91-4-in-september.html",
+      "originalUrl": "https://theenterpriseleader.com/2020/10/15/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-down-91-4-in-september.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theenterpriseleader.com/2020/10/15/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-down-91-4-in-september.html/amp",
+      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2020/10/15/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-down-91-4-in-september.html/amp",
+      "publishedDateTime": "2020-10-15T21:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theenterpriseleader.com",
+        "domain": "theenterpriseleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-cascadia-capital-bets-big-on-ai-robotics-and-automation.md",
       "title": "Cascadia Capital bets big on AI, robotics and automation",
       "excerpt": "Cascadia Capital is betting big on AI, robotics and automation. “We think it’s where the world is going,” the CEO says.",
@@ -1231,111 +1317,6 @@
         "AI in Robotics",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-enhanced-computer-vision-sensors-raise-manufacturing-stakes-for-robots-as-a-service.md",
-      "title": "Enhanced computer vision, sensors raise manufacturing stakes for robots as a service",
-      "excerpt": "Firms developing computer vision technology for standard robots, developments in 3D vision and so-called “Robots as a Service” are defining the next wave of automation.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/08/enhanced-computer-vision-sensors-raise-manufacturing-stakes-for-robots-as-a-service/",
-      "originalUrl": "https://techcrunch.com/2020/10/08/enhanced-computer-vision-sensors-raise-manufacturing-stakes-for-robots-as-a-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1220591821.jpg?w=1000",
-          "width": 1000,
-          "height": 538,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/08/enhanced-computer-vision-sensors-raise-manufacturing-stakes-for-robots-as-a-service/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/08/enhanced-computer-vision-sensors-raise-manufacturing-stakes-for-robots-as-a-service/amp/",
-      "publishedDateTime": "2020-10-08T10:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-neocis-raises-72-million-for-its-dental-surgery-robot.md",
-      "title": "Neocis raises $72 million for its dental surgery robot",
-      "excerpt": "Dental robotics startup Neocis today closed a $70 million ... “The Yomi planning software … leverages AI techniques to guide the surgeon in planning the case safely, for example providing ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/08/neocis-raises-72-million-for-its-dental-surgery-robot/",
-      "originalUrl": "https://venturebeat.com/2020/10/08/neocis-raises-72-million-for-its-dental-surgery-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/5691c254-4278-461b-a205-a055fd5ccdc2-e1601933697251.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/08/neocis-raises-72-million-for-its-dental-surgery-robot/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/08/neocis-raises-72-million-for-its-dental-surgery-robot/amp/",
-      "publishedDateTime": "2020-10-08T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

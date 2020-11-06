@@ -25,63 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Otter.ai adds live captions to its Zoom integration"
-    excerpt: "Video conferencing platform Zoom has unveiled an Otter.ai integration, providing users with access to live transcriptions and meeting notes."
-    publishedDateTime: 2020-11-02T10:05:00Z
-    webUrl: "https://www.computerworld.com/article/3539910/otterai-adds-live-captions-to-its-zoom-integration.html"
-    ampWebUrl: "https://www.computerworld.com/article/3539910/otterai-adds-live-captions-to-its-zoom-integration.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3539910/otterai-adds-live-captions-to-its-zoom-integration.amp.html"
+  - title: "Most health execs expect widespread implementation of AI in the next 5 years"
+    excerpt: "Ninety-percent of US health IT execs expect AI solutions to be well integrated into the US healthcare system in the next five years"
+    publishedDateTime: 2020-11-06T15:12:00Z
+    webUrl: "https://www.businessinsider.com/health-it-leaders-bullish-on-ai-implementation-2020-11"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 59
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
     images:
-      - url: "https://images.idgesg.net/images/article/2020/04/meeting6-100837792-large.jpg"
-        width: 1200
-        height: 808
+      - url: "https://i.insider.com/5e440fa64b661b28f45e7d34?width=1200&format=jpeg"
+        width: 1080
+        height: 540
         isCached: true
-  - title: "A Checklist For Artificial Intelligence On Workstations"
-    excerpt: "The results of a recent survey commissioned by Dell and executed by Forrester summarized in this white paper, \"A Checklist For Artificial Intelligence On Workstations,\" have indicated a quarter of firms are actually using workstations today to run core AI business applications and are experiencing the benefits that workstations can offer."
-    publishedDateTime: 2020-11-02T18:46:00Z
-    webUrl: "https://insidehpc.com/2020/11/a-checklist-for-artificial-intelligence-on-workstations/"
+  - title: "Over 80% of Health Execs Have Artificial Intelligence Plans in Place"
+    excerpt: "Healthcare executives are increasingly adopting artificial intelligence tools, with many planning to use the tools to improve patient outcomes."
+    publishedDateTime: 2020-11-02T14:32:00Z
+    webUrl: "https://healthitanalytics.com/news/over-80-of-health-execs-have-artificial-intelligence-plans-in-place"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
+      name: Analytics
+      domain: healthitanalytics.com
     quality: 39
     images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/11/Figure-3.png"
-        width: 576
-        height: 428
-        isCached: true
-  - title: "The evolution of heterogeneous integration enables the coming AI era"
-    excerpt: "The era of AI is coming. It will not be long before our cities operate efficiently with tremendous amounts of devices and robots connected through 5G infrastructure with enough bandwidth for data handling and transferring."
-    publishedDateTime: 2020-11-05T02:17:00Z
-    webUrl: "https://www.digitimes.com/news/a20201104PR203.html&chid=9"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
-    images:
-      - url: "https://www.digitimes.com/NewsShow/20201104PR203_files/1_b.jpg"
-        width: 640
-        height: 455
-        isCached: true
-  - title: "Using Workstations To Reshape Your Artificial Intelligence Infrastructure"
-    excerpt: "The study results summarized in this white paper show that firms are already using workstations to lower the cost, increase the security, and speed up their AI infrastructure. The addition of workstations into a firms AI workflow allows servers and cloud platforms to be tasked with business cases that require more robust computing while workstations take on tasks with longer time frames and smaller budgets."
-    publishedDateTime: 2020-11-02T21:59:00Z
-    webUrl: "https://insidehpc.com/white-paper/using-workstations-to-reshape-your-artificial-intelligence-infrastructure/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 36
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/10/IHPC_DellUsingWorkstationsCover_2020-10-30_12-49-56.jpg"
-        width: 552
-        height: 311
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-912319336.jpg"
+        width: 690
+        height: 400
         isCached: true
 
 secured: "Nd7nolw9lUBdvyiwx4LJEUaTN0QH/3QCRMWMJK0mu08aP/UMCmaMMLYh7hRpSWW70nyMs9yRFLSpewe9a/iNt76/oU38rlaCCRDHPm406NjYlDtOlN7Clig9u0ELXbag7XpVO93hg7vCuQ4Y7iUgflyhw9S1rShFyp7MoCaUsMuPQhSgxS5zMSq6lPwjtpAlLg/Tchzhk6iINREAKO5x0kAkkwIGAa4X8hM3dHjmMkByq7Pzu4AjYH+riuYzB+IsZqR42xfonv/cy6I+24DQfLYKMMf9u/uvi6Lvg3Nc252AoIKgwSgWruo8utmYggpZ4xV9SO14EduBkby12Dx9oXD5/8+If4HuZi4TtCy8n7WuNYAuJQGS7Zi0l1BV46t3nfbJegdXyI0/vAgPOamKAyVRGtNb2qKcZdV7+Ct+QVN8PTs9ssC0ulW/kD9qZelqT1g1rGEdcsQBRX5tZ2+T9nqKsPZhXKE1y88jAOkfjuJBJNpRz01/0vdQ4YPSLVbscsBX/NUX0m+UyW1Z8ntdGw==;mJjIbUthE3Um1OLGTnXj3g=="

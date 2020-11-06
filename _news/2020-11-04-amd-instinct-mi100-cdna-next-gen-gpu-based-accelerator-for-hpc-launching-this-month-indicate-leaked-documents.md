@@ -55,20 +55,6 @@ related:
         width: 3648
         height: 2736
         isCached: true
-  - title: "AWS Launches Nvidia GPU-Driven EC2 P4d Instances for AI, HPC"
-    excerpt: "Amazon Web Services today announced the general availability of Amazon EC2 P4d Instances powered by Nvidia GPUs with EC2 UltraClusters capability delivering 3x faster performance, up to 60 percent lower cost,"
-    publishedDateTime: 2020-11-02T00:00:00Z
-    webUrl: "https://insidehpc.com/2020/11/aws-launches-nvidia-gpu-driven-ec2-p4d-instances-for-ai-hpc/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 71
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2018/05/aws.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "AWS launches Amazon EC2 P4d instances, boosting performance for ML training and HPC"
     excerpt: "Amazon Web Services announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) P4d instances."
     publishedDateTime: 2020-11-04T02:02:00Z

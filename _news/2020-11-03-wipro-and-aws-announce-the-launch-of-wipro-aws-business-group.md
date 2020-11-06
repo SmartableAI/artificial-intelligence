@@ -9,7 +9,7 @@ ampWebUrl: "https://www.voicendata.com/wipro-aws-announce-launch-wipro-aws-busin
 cdnAmpWebUrl: "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 119
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 39
+  - title: "AWS Announces Plans to Launch a Second Region in India"
+    excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com company, announced expansion of its services to include a second"
+    publishedDateTime: 2020-11-06T16:51:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/aws-announces-plans-to-launch-a-second-region-in-india/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 39
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/market_covid_shutterstock_1658915128-405x228.jpg"
+        width: 405
+        height: 228
+        isCached: true
   - title: "Wipro AWS Business Group: Fast-tracking customers’ cloud transformation journey on AWS"
     excerpt: "Wipro launched the Wipro AWS Business Group (WABG), a unit designed to help customers fast-track their cloud transformation journey on AWS."
     publishedDateTime: 2020-11-03T01:32:00Z
@@ -70,6 +84,20 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 19
+  - title: "AI Eye Podcast Episode 467: Wipro (NYSE: $WIT) and AWS Launch Wipro AWS Business Group, and ImmunoPrecise Collaborates with AI Research Institute Mila"
+    excerpt: "Watching stock news, deal tracker and advancements in artificial intelligence Wipro Limited ( NYSE:WIT) and Amazon Web Service (AWS), a subsidiary of Amazon ( NasdaqGS:AMZN ), announced the launch of Wipro AWS Business Group (WABG),"
+    publishedDateTime: 2020-11-03T18:20:00Z
+    webUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/11031AIEye-WIT-AWS-ImmunoPrecise.asp"
+    type: article
+    provider:
+      name: Investor ideas
+      domain: investorideas.com
+    quality: 14
+    images:
+      - url: "https://www.investorideas.com/images/AI-Eye.jpg"
+        width: 1280
+        height: 1206
+        isCached: true
 
 secured: "THzvPrJhSN96wp0ikO+lP8a8IxfoeIn/jYWQaceMwbH+RLN71rUKNMcVjXCcOw6G6KSDTRv+wlq3wkW62ZCwp6voOxVreEdM2ssvyh1fRwquGC5sZ9SWAv2/1ciuBy+wUG9fRPQ56W8iWMpXn13nsxSPIkKczJotbCwX+lzUq1zlz4QqFUJkZ9pUHGDd/ljgE1Y8yl35K46BnMgxCpqO6XMvQegXp+22p64Ypi6ICmaux84stGoShakW3kXS9VdGAziLUb+hx8KvDC74k206g8/147vBTi0Tjb9ilkOHodfjubahaUqeyu+2XYe1hm1Jo9qA+oilE/KLfL4HDwgFfy2v/nz1CX5Ycq91nhpzk/KS9rjPoYopxeLK1sThBlF8e7c35FoS8qXErlg707rq2LWR9EQmAxWihg4xDP5hP85KYxrxalhoULttZ3cTT1uZwuq6ZDC/oP2ux7w/IqYk5U77W2EbMVvkdR0zQnTu/EHkWTHKpzh8TSQH8ozGOPxoLmlnQpS0d/Hd/jnuinKtBg==;kNxofrESEqxyf0V2fwvyKw=="
 ---

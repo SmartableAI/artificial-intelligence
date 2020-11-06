@@ -55,20 +55,6 @@ related:
         width: 576
         height: 428
         isCached: true
-  - title: "Artificial Intelligence and the Path to Health Care Innovation"
-    excerpt: "The American Hospital Association and Microsoft now offer a free, one-hour course, for continuing education credits, to guide health care teams through key considerations and specific actions for AI’s responsible and strategic implementation."
-    publishedDateTime: 2020-11-05T14:03:00Z
-    webUrl: "https://www.aha.org/news/healthcareinnovation-thursday-blog/2020-11-04-artificial-intelligence-and-path-health-care"
-    type: article
-    provider:
-      name: aha.org
-      domain: aha.org
-    quality: 39
-    images:
-      - url: "https://www.aha.org/sites/default/files/2020-11/center-blog-begley-mccarthy.jpg"
-        width: 900
-        height: 400
-        isCached: true
   - title: "Using Workstations To Reshape Your Artificial Intelligence Infrastructure"
     excerpt: "The study results summarized in this white paper show that firms are already using workstations to lower the cost, increase the security, and speed up their AI infrastructure. The addition of workstations into a firms AI workflow allows servers and cloud platforms to be tasked with business cases that require more robust computing while workstations take on tasks with longer time frames and smaller budgets."
     publishedDateTime: 2020-11-02T21:59:00Z

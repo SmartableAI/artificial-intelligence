@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3539910/otterai-adds-live-capt
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3539910/otterai-adds-live-captions-to-its-zoom-integration.amp.html"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2020/11/Figure-3.png"
         width: 576
         height: 428
-        isCached: true
-  - title: "Artificial Intelligence and the Path to Health Care Innovation"
-    excerpt: "The American Hospital Association and Microsoft now offer a free, one-hour course, for continuing education credits, to guide health care teams through key considerations and specific actions for AI’s responsible and strategic implementation."
-    publishedDateTime: 2020-11-05T14:03:00Z
-    webUrl: "https://www.aha.org/news/healthcareinnovation-thursday-blog/2020-11-04-artificial-intelligence-and-path-health-care"
-    type: article
-    provider:
-      name: aha.org
-      domain: aha.org
-    quality: 39
-    images:
-      - url: "https://www.aha.org/sites/default/files/2020-11/center-blog-begley-mccarthy.jpg"
-        width: 900
-        height: 400
         isCached: true
   - title: "The evolution of heterogeneous integration enables the coming AI era"
     excerpt: "The era of AI is coming. It will not be long before our cities operate efficiently with tremendous amounts of devices and robots connected through 5G infrastructure with enough bandwidth for data handling and transferring."

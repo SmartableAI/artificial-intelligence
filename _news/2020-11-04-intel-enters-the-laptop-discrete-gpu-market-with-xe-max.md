@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel Iris Xe MAX discrete GPU launched for laptops"
-    excerpt: "Intel may have the lion’s share of the PC desktop and laptop CPU market, at least for now, but it has struggled to gain any foothold in the graphics sector of the industry. It has always"
-    publishedDateTime: 2020-11-02T00:02:00Z
-    webUrl: "https://www.slashgear.com/intel-iris-xe-max-discrete-gpu-launched-for-laptops-01645312/"
-    ampWebUrl: "https://www.slashgear.com/intel-iris-xe-max-discrete-gpu-launched-for-laptops-01645312/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/intel-iris-xe-max-discrete-gpu-launched-for-laptops-01645312/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 89
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/11/Intel-DG1-chip-1.jpg"
-        width: 1280
-        height: 800
-        isCached: true
   - title: "Intel's Iris Xe Max GPU to take on Nvidia's GeForce MX350, RTX 2080 in notebook PCs"
     excerpt: "Intel has unwrapped the Iris Xe Max discrete GPU for notebooks, detailing how it depends on the Tiger Lake Core GPU for enhanced performance in gaming, AI, and encoding."
     publishedDateTime: 2020-11-04T18:20:00Z

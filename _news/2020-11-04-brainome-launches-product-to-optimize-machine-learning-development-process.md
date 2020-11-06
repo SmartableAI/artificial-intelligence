@@ -3,10 +3,10 @@ category: news
 title: "Brainome launches product to optimize machine learning development process"
 excerpt: "Brainome's new product, Daimensions, seeks to eliminate brute-force aspects of machine learning model development, integrate with existing CI/CD infrastructure and generate small ML models that can run efficiently on commodity hardware."
 publishedDateTime: 2020-11-04T14:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/brainome-launches-product-to-optimize-machine-learning-development-process/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/brainome-launches-product-to-optimize-machine-learning-development-process/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/brainome-launches-product-to-optimize-machine-learning-development-process/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/brainome-launches-product-to-optimize-machine-learning-development-process/"
+originalUrl: "https://www.zdnet.com/article/brainome-launches-product-to-optimize-machine-learning-development-process/"
+webUrl: "https://www.zdnet.com/article/brainome-launches-product-to-optimize-machine-learning-development-process/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/brainome-launches-product-to-optimize-machine-learning-development-process/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brainome-launches-product-to-optimize-machine-learning-development-process/"
 type: article
 quality: 82
 heat: 102
@@ -40,20 +40,20 @@ related:
         height: 337
         isCached: true
   - title: "Brainome Launches Solution To Course Correct Machine Learning With A Fundamentally Different,"
-    excerpt: "Brainome, the company behind the first-ever measure-before-build tool for machine learning, today launched its product, Daimensions™, for the enterprise market. By introducing"
-    publishedDateTime: 2020-11-04T08:00:00Z
-    webUrl: "https://omaha.com/business/consumer/brainome-launches-solution-to-course-correct-machine-learning-with-a-fundamentally-different/article_e27133d9-94fc-5391-ab27-176b40ede03e.html"
+    excerpt: "Brainome, the company behind the first-ever measure-before-build tool for machine learning, today launched its product, Daimensions™, for the enterprise market. By introducing measurement as a structured discipline to the field,"
+    publishedDateTime: 2020-11-04T14:00:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-science-corporate-news-products-and-services-new-products-and-services-c117c6246fb041931060326fd546e084"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
+      name: Associated Press
+      domain: apnews.com
     quality: 43
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
-secured: "xMAIfu8TjZ+p26J/gG/8uOjG9ZuGzcpNFAee6twF15m2nBh+Qxi+CwPK8udc0qHxlaEEwn745fRsV1K9vYWy9/Fx+uLbc3CTO6XvfkOUuqJn1tlmJCw2YsNxIH6qQ+H1KiQgc/IitTBBq1YjdjwYDqtdWOROJrr4KvbrwOq/e70iDQjDJ5mC/wD1ucBh0HAPt2hHwPxgqXxg+wynP2mx/vUDwAxfu6Kqz3dfyMkUbi/8d2mmjkcE6l3rS96ydaTPLbFSKqHeH/q3Le3JGSq2x1MnT5a9mq19Glm/77/nOCDOp6l4UEptdvFbJIVqH6v/not2WDKPw5QmTa4c4iENKMY3XGMkq34AjDKp44uDyP/8IjpkVsHXAm45yhQQyrmylMv5i1kBTTgVai7ECtJbvLlyPoDo5MnBh9eKQNjFvG6/5+FRUClsTe/aWZUH00vz+TR2M59P+zjD6W9Ks0k+p90MAhDG+2lu87jDJsGa1ypaPPJf97pUMGnynWgnY1rfl19MQII8eHZFwJ1oyJ4Paw==;v9ekqoqnj/8tLQKDqxAwYA=="
+secured: "OS7qJjhDKkJGITHVxwSt6PYJsIBKaqachEF21zPgUrP4KMlayy5UAN2ZN9rwooX5qhhYWoEN8w3j3a11e0Dt0oMJiE+p0+TDpaBuAxyDOLK5z7YMzODboXBKmq52ibUULvoCoVsH85yOeP7rmmjL9ihB8W04bivszyRKxN8l7MqRlgO6Bs2GsIaDlSAxWjpsk3TCWB2Bxte88z+vPfYVXaLHUvN4CdXTPK8gt+9Rf7Gj2WO9IzuwjFZaPHsDT2lOH+RtUB0a9HZpwl5UyCbpUB15jnM42GVzqTfDEJ77XCA2PhBlnrw4MGrjjKP0VFx/pOMS6atwsU4fah9KD26HBxzevJkBGpGG4x0XSn6oTDLFG2v6bd6F9CMeJct8bZ83vUl0U1GjgMzIb7sDCrjlt48NcEykwPhkgM8T+9juK8hiWW+QkE9wMbxE/w2qmglG4iTcgS4rzMnudkH4KUAvvT1DVoaR6OPH6BaZ/tYyim400tFsTwpu0YwIqEVL+MwF1+rNO7DRb0ets2Y13t8N/w==;Vr6tym9s2ccPt32Z/T2kjA=="
 ---
 

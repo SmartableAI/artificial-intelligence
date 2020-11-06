@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-28-ai-powered-trading-platform-tickeron-releases-new-swing-trading-ai-robots.md",
+      "title": "AI-Powered Trading Platform Tickeron Releases New Swing Trading AI Robots",
+      "excerpt": "Tickeron, an artificial and human intelligence platform delivering unparalleled trading insights and analysis, has released several new swing trading robots as part of their groundbreaking AI Robots feature.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-powered-trading-platform-tickeron-releases-new-swing-trading-ai-robots-1029726330",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-powered-trading-platform-tickeron-releases-new-swing-trading-ai-robots-1029726330",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-27T11:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-us-lost-over-60-million-jobsnow-robots-tech-and-artificial-intelligence-will-take-millions-more.md",
+      "title": "U.S. Lost Over 60 Million Jobs—Now Robots, Tech And Artificial Intelligence Will Take Millions More",
+      "excerpt": "The World Economic Forum (WEF) concluded in a recent report that “a new generation of smart machines, fueled by rapid advances in artificial intelligence (AI) and robotics, could potentially replace a large proportion of existing human jobs.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackkelly/2020/10/27/us-lost-over-60-million-jobs-now-robots-tech-and-artificial-intelligence-will-take-millions-more/",
+      "originalUrl": "https://www.forbes.com/sites/jackkelly/2020/10/27/us-lost-over-60-million-jobs-now-robots-tech-and-artificial-intelligence-will-take-millions-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9837e248c4339c7e62c7dd%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2020/10/27/us-lost-over-60-million-jobs-now-robots-tech-and-artificial-intelligence-will-take-millions-more/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2020/10/27/us-lost-over-60-million-jobs-now-robots-tech-and-artificial-intelligence-will-take-millions-more/amp/",
+      "publishedDateTime": "2020-10-27T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais.md",
       "title": "If a robot is conscious, is it OK to turn it off? The moral implications of building true AIs",
       "excerpt": "What gives an entity moral standing? The philosopher Peter Singer argues that creatures that can feel pain or suffer have a claim to moral standing. He argues that nonhuman animals have moral standing,",
@@ -1293,92 +1388,6 @@
       "provider": {
         "name": "IFLScience",
         "domain": "iflscience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-looper-column-artificial-intelligence-humanity-and-the-future.md",
-      "title": "Looper column: Artificial intelligence, humanity and the future",
-      "excerpt": "Columns share an author’s personal perspective. ***** In September, the British news website The Guardian published a story written entirely by",
-      "sourceUrl": null,
-      "webUrl": "https://www.southcoasttoday.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future",
-      "originalUrl": "https://www.southcoasttoday.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.southcoasttoday.com/apps/pbcsi.dll/bilde?Site=NB&Date=20201016&Category=LIFESTYLE&ArtNo=201019817&Ref=AR",
-          "width": 387,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.southcoasttoday.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart",
-      "cdnAmpWebUrl": "https://www-southcoasttoday-com.cdn.ampproject.org/c/s/www.southcoasttoday.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart",
-      "publishedDateTime": "2020-10-16T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "southcoasttoday.com",
-        "domain": "southcoasttoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-down-914-in-september.md",
-      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Short Interest Down 91.4% in September",
-      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) was the target of a significant drop in short interest during the month of September. As of September 30th, there was short interest totalling 3,",
-      "sourceUrl": null,
-      "webUrl": "https://theenterpriseleader.com/2020/10/15/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-down-91-4-in-september.html",
-      "originalUrl": "https://theenterpriseleader.com/2020/10/15/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-down-91-4-in-september.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theenterpriseleader.com/2020/10/15/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-down-91-4-in-september.html/amp",
-      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2020/10/15/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-down-91-4-in-september.html/amp",
-      "publishedDateTime": "2020-10-15T21:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theenterpriseleader.com",
-        "domain": "theenterpriseleader.com",
         "images": null,
         "publishers": null,
         "authors": null

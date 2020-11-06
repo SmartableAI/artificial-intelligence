@@ -1,0 +1,62 @@
+---
+category: news
+title: "Most health execs expect widespread implementation of AI in the next 5 years"
+excerpt: "Ninety-percent of US health IT execs expect AI solutions to be well integrated into the US healthcare system in the next five years"
+publishedDateTime: 2020-11-06T15:12:00Z
+originalUrl: "https://www.businessinsider.com/health-it-leaders-bullish-on-ai-implementation-2020-11"
+webUrl: "https://www.businessinsider.com/health-it-leaders-bullish-on-ai-implementation-2020-11"
+type: article
+quality: 64
+heat: 84
+published: true
+
+provider:
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://i.insider.com/5e440fa64b661b28f45e7d34?width=1200&format=jpeg"
+    width: 1080
+    height: 540
+    isCached: true
+
+related:
+  - title: "Over 80% of Health Execs Have Artificial Intelligence Plans in Place"
+    excerpt: "Healthcare executives are increasingly adopting artificial intelligence tools, with many planning to use the tools to improve patient outcomes."
+    publishedDateTime: 2020-11-02T14:32:00Z
+    webUrl: "https://healthitanalytics.com/news/over-80-of-health-execs-have-artificial-intelligence-plans-in-place"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-912319336.jpg"
+        width: 690
+        height: 400
+        isCached: true
+  - title: "Artificial Intelligence and the Path to Health Care Innovation"
+    excerpt: "The American Hospital Association and Microsoft now offer a free, one-hour course, for continuing education credits, to guide health care teams through key considerations and specific actions for AI’s responsible and strategic implementation."
+    publishedDateTime: 2020-11-05T14:03:00Z
+    webUrl: "https://www.aha.org/news/healthcareinnovation-thursday-blog/2020-11-04-artificial-intelligence-and-path-health-care"
+    type: article
+    provider:
+      name: aha.org
+      domain: aha.org
+    quality: 39
+    images:
+      - url: "https://www.aha.org/sites/default/files/2020-11/center-blog-begley-mccarthy.jpg"
+        width: 900
+        height: 400
+        isCached: true
+
+secured: "8m4FoR1k+gNcbtUqHoWjGAzs27hNJG9p6uyeC2tOcWExfWpe23cFwxZin7qYpoIto79vQVIkpVvWdEt5jxprHKMa4/sOdSSOkDzSjyh71j9QZPMdIb1hRBV6mLV6aj7VD2wQEAFUbWmZzW7FtVQDwSlima4TggARMWpEvR1rfBMbyJyZuU4HjFKhLYEtpC2roOXl+9agkxuShSxfSmMDW2F7OExJCwr1Og3W6X2VMVOt252iyMgNvhJFQ/53eyep82rH7tZcV6mT/edNnpoXrGvtmnt6s34zinEtzlhUSx7ruMmTu99k02XF6O61bYOA1H6bkASknoojfTa4BNla7crx1CwAwJPF2xjlpRSY5nQ=;qVf9A1QUvg0ZAAP4XdgLAQ=="
+---
+

@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Alpitour World Selects IBM Hybrid Cloud and AI Capabilities For a More Personalized Customer Experience"
-excerpt: "ARMONK, N.Y. and MILAN, Nov. 2, 2020 /PRNewswire/ -- IBM (NYSE: IBM) and Italy's leading travel company, Alpitour Group, announced that it has selected IBM Watson, enabled by hybrid cloud ..."
-publishedDateTime: 2020-11-02T11:32:00Z
-originalUrl: "https://www.nasdaq.com/press-release/alpitour-world-selects-ibm-hybrid-cloud-and-ai-capabilities-for-a-more-personalized"
-webUrl: "https://www.nasdaq.com/press-release/alpitour-world-selects-ibm-hybrid-cloud-and-ai-capabilities-for-a-more-personalized"
+excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
+publishedDateTime: 2020-11-02T11:31:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20201102ny77498/alpitour-world-selects-ibm-hybrid-cloud-and-ai-capabilities-for-a-more-personalized-customer-experience"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20201102ny77498/alpitour-world-selects-ibm-hybrid-cloud-and-ai-capabilities-for-a-more-personalized-customer-experience"
 type: article
-quality: 33
-heat: 33
+quality: 23
+heat: 23
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - IBM AI
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1324474/Alpitour_2.jpg"
+    width: 400
+    height: 309
+    isCached: true
 
 related:
   - title: "Alpitour World Selects IBM Hybrid Cloud and AI Capabilities For a More Personalized Customer Experience"
@@ -34,6 +40,6 @@ related:
         height: 419
         isCached: true
 
-secured: "Xlp2tJX/TAAB6yjNwGJyWqlyQlADaYe2b0F5YQfSTpIzSBQ9Me3js73qikjBKdPBnJPQ24GrkuTJdtneDr4qyBAg509bMeyqwbkRgY6Ei/46UzuoKO08OaY1kK/x0g0fbbnDQbq9g3kitCWX4OP7FgoGSrOh2VVnkZ9rAIzzX6sM9ovc9CHSRKolcxan+j2QatLhcxXQ/GWHHXr/YJ5V8s2QHXhf/vnaSBt70hODwdOHF4OU/UsdvF6QmjGGlukA4sVEUn6KdrMkh1cE0YyF0LK2toQZueoJbMxhoXyL7boV6qzOAUMqO77jLq0TbsGaNu8ndFaS2CY6I/my4Fyqb2QKT1iFi5d0cEj9bPVXK4U=;oJlpVNTDaW4L0+CASYvJIg=="
+secured: "CQzzk3JO6dQ1q7ot1z66a5hQ5SfRI+BqaWDCAQ4+C2Elhj+puXdqgYuWCUrx0gci+a7X0D65Tzsp+i+xcQIs94bZbKM3KBQSFfcNERaM8+sCUM82794NFTeaS9MIAEMTEGEhbIV+HTkmVeZmwHa0YIfdlzBf5oRZjx53utN4XhDZOSYqv3MiYnGA9fLtPgvkohuDYxIZaSmyEZJ8PjohmkTE/m8U2QKQyq0NMTEmDg2ZHI646FRNSsL/znFnQFwOVMYNbBnnLyeGE4NrOwfhfn6V5NLZnHIMxRsyNjLEqAe8AobnEe8r4/FHQ1tQk+UhiWFwkhU8XFCuiNvdz8rZy3YCdMrvSXu3o8+SWoH+oQA=;MGCmwoT9JRFtTEofYkbbug=="
 ---
 

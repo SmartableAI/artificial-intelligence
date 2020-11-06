@@ -1,27 +1,29 @@
 ---
 category: news
 title: "New Constructs Recognized as a 2020 Benzinga Global Fintech Listmaker"
-excerpt: "PRNewswire/ -- New Constructs (NC), the leading provider of insights into the fundamentals and valuation of private and public businesses, has been recognized as a 2020 Benzinga Global Fintech Listmaker in two categories: Best Financial Research Company and Best Investment Research Tech."
-publishedDateTime: 2020-11-06T10:23:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/new-constructs-recognized-as-a-2020-benzinga-global-fintech-listmaker-1029774194"
-webUrl: "https://markets.businessinsider.com/news/stocks/new-constructs-recognized-as-a-2020-benzinga-global-fintech-listmaker-1029774194"
+excerpt: "PRNewswire/ -- New Constructs (NC), the leading provider of insights into the fundamentals and valuation of private and public businesses, has been"
+publishedDateTime: 2020-11-06T09:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/new-constructs-recognized-as-a-2020-benzinga-global-fintech-listmaker-301167101.html"
+webUrl: "https://www.prnewswire.com/news-releases/new-constructs-recognized-as-a-2020-benzinga-global-fintech-listmaker-301167101.html"
 type: article
-quality: 34
-heat: 34
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "Jq/5eGtJfhFre9Ht4zD0dLBZgZvIhk6kUQKzznj1Y4AfweYA77s42fMVtCyBELUHqY6eyMIO/lU+8XqtQhXF8A7zWxInZHdAzBw8y75bdXRQ0d4KKle6U0LrJrmojr5xqLWpcZYJpzGzpNOEDghUkN63TAkFVQICkXOeplYqqVqtpggV4Pw2xH+1xqMtKvGoKF78NFZVvcPnv8r2iXbavtvvIfDSw1zju2PYfqi5P6asLhwwhBQto5rztu8Rrw0dSRk1SpmetB98h1ngGQMgNy0f0Qkon/ZHBlf84/83lL3iyuUWe22YQB4yc6/PjfBhJ3Ixb+YbhwVGdC6CN4CJsMHao8d4loWOVfJ/NjboNlQ=;6UCFNE8B6DKQdVGd1fY1OA=="
+images:
+  - url: "https://mma.prnewswire.com/media/1327641/c148f7eced4fb67561abbbb736fa.jpg?p=facebook"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "qXIjptLhSRM+vcO/vARql81xcj2afeSVyfVll5nJfrd3Zc0Q6sXdxkEZyRpb47GtDdONFCGHaDCp6f5MJM+Xf80IljKKSIre7LxOzRO35v2dehhtRxo42jo8o1Fzo4bIyQL4S5YdTEtut4TU9r5ICKl1povpI2ljHmf9RrqWdHqyzgiA/g2wed7UnygKZAt2E0lM5FTM/RGAH/a9ALlGiKzzRR3zosEexhTrUpAHGw0DHP95R224FjtluueNr13beM3Q2c2DIkvgGCAQf9pkypAvkgy0ZEk/g2s2kxZ+n896yGo0Tkj8mr7dAURdFyVdDeEMVDTftzboPATnK3BK990LRU0cPqOiNsOpz5b5lsM=;jcqI0HTYPs4LHueIerDGuQ=="
 ---
 

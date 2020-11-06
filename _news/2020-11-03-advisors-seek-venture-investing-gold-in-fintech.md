@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Proven Technology VCs and Medical Physicians Launch Decentralized Health Data Marketplace Powered by Blockchain and AI Technology"
+    excerpt: "Blockchain technology company Verida joins forces with CareProtocol to launch IKIGAI Network, a decentralized OpenHealth ecosystem. The IKIGAI Network is pioneering the OpenHealth movement by building the world’s first global decentralized healthcare ecosystem built on principles of open data and open source development."
+    publishedDateTime: 2020-11-06T11:00:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-virus-outbreak-north-america-medical-technology-lung-disease-f7a26c3e9b6440eaaf47f99d611d11a3"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 8
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "g8IU5EgdFboi20OdIB3WKHcQ0eGeBQYxOVaEH8k7aUb2/B9/e9WQ4FFCcwgVAG1LvW3hZWY3l/zEwOkygP+p9WR+kfIKSO9YJzXCS39VmcPq5eBXWngT2ZJ9i0LXR/wBA5lc9QdWjdQVDplb2uAkC5JSce1CkmpMUmhLdIIuSl0Hv2J86/mEklZIVoiMKUawOUNLDSWd18tkq8KBDLf4lZZmlpEr5BRFGlMSTbT9VaF14UUCMldPVdjcs2E24uglJ9gryzJUFtqKT8TKSPrHt9tHO7AqK1GkGJ6bvSekJR++HA+CiDzB67Ixibq5TXSGDXynk5ynnnVnYK7EXe4K2ElPl/o3GM+u3I4PUyXgWJJM1swYoMb/31r+aqHkCc5ASrbLRNQBXmcEkShE5ZajJSlvCnPA5KMo7t/a2ir+q3SraB4mMFAZE3CfG1oEnxIl4/pMwB1t0+yPwXhx5w0vwbMx0RoB/YB6fq+oiqb/Qv/6gjXiPqqjEIGZoGWfvhCSDZMYj/CLsGetjc+d/y8V6Q==;iTTXpLIijt4BNjExzaDDRw=="
 ---
