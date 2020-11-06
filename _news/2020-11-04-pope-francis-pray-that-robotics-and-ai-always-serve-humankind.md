@@ -9,7 +9,7 @@ ampWebUrl: "https://www.catholicnewsagency.com/amp/news/pope-francis-pray-that-r
 cdnAmpWebUrl: "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/pope-francis-pray-that-robots-and-ai-always-serve-humankind-79125"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Pope Francis prays for good AI"
+    excerpt: "Hoping to convert it later The head of Roman Catholic church has asked his invisible friend to make sure that AI is good for humans. Pope Francis must be hoping that AI does better at organising humanity than organised religion managed and might look after kiddies better than the Roman Catholic"
+    publishedDateTime: 2020-11-06T11:36:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/51837-pope-francis-prays-for-good-ai"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/7f818a0bd627fe1bc7f010c971e26819_L.jpg"
+        width: 620
+        height: 455
+        isCached: true
   - title: "Artificial intelligence and humankind"
     excerpt: "Sir, – Dr Pearse Keane is to be highly commended for his research (Kevin O’Sullivan, “Irish researcher develops AI to help prevent sight loss”, Science, November 4th). However, his statement that, “if something produces better outcomes . . . it should be irrelevant whether it’s a human or a machine or a fusion of the two that achieves that”, needs to be challenged. This type of thinking, in every field of human endeavour, will inevitably lead to the displacement of us humans, as progress is too closely linked to profit and we are just too costly and inefficient. People who care for other human beings need to look at the broader picture, the growing worldwide inequality, and devise algorithms and machines that incorporate inefficient but caring humans in the mix. Otherwise we won’t be able to afford their wonderful services. – Yours, etc,"
     publishedDateTime: 2020-11-06T00:49:00Z

@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Grizzly bear facial recognition promises to revolutionize wildlife management"
-excerpt: "A facial recognition system for grizzly bears could usher in a new wave of celebrity animals that scientists and the public could follow through their lifetimes. Biologists at the University of ..."
-publishedDateTime: 2020-11-06T08:07:00Z
-originalUrl: "https://vancouversun.com/news/local-news/grizzly-bear-facial-recognition-promises-to-revolutionize-wildlife-management"
-webUrl: "https://vancouversun.com/news/local-news/grizzly-bear-facial-recognition-promises-to-revolutionize-wildlife-management"
-ampWebUrl: "https://vancouversun.com/news/local-news/grizzly-bear-facial-recognition-promises-to-revolutionize-wildlife-management/wcm/ab9e2bac-513f-4335-a2c4-c99f7cd8fff5/amp/"
-cdnAmpWebUrl: "https://vancouversun-com.cdn.ampproject.org/c/s/vancouversun.com/news/local-news/grizzly-bear-facial-recognition-promises-to-revolutionize-wildlife-management/wcm/ab9e2bac-513f-4335-a2c4-c99f7cd8fff5/amp/"
+excerpt: "A facial recognition system for grizzly bears could usher in a new wave of celebrity animals that scientists and the public could follow through their lifetimes. Biologists at the University of Victoria have teamed up with software experts to create an artificial intelligence (AI) that can recognize individual bears even though they don’t have much in the way of identifiable facial features."
+publishedDateTime: 2020-11-06T08:28:00Z
+originalUrl: "https://theprovince.com/news/local-news/grizzly-bear-facial-recognition-promises-to-revolutionize-wildlife-management"
+webUrl: "https://theprovince.com/news/local-news/grizzly-bear-facial-recognition-promises-to-revolutionize-wildlife-management"
+ampWebUrl: "https://theprovince.com/news/local-news/grizzly-bear-facial-recognition-promises-to-revolutionize-wildlife-management/wcm/ab9e2bac-513f-4335-a2c4-c99f7cd8fff5/amp/"
+cdnAmpWebUrl: "https://theprovince-com.cdn.ampproject.org/c/s/theprovince.com/news/local-news/grizzly-bear-facial-recognition-promises-to-revolutionize-wildlife-management/wcm/ab9e2bac-513f-4335-a2c4-c99f7cd8fff5/amp/"
 type: article
 quality: 56
 heat: -1
 published: false
 
 provider:
-  name: The Vancouver Sun
-  domain: vancouversun.com
+  name: The Province
+  domain: theprovince.com
 
 topics:
   - Computer Vision
@@ -88,6 +88,6 @@ related:
         height: 675
         isCached: true
 
-secured: "dwqrqfkopEDTOj4hU3t7/gYdDtEjAD4SliFK+20xoForyTaxbKeYFFMOovwXo+Wh8pSBbMsox+cEWrVcZvSS/RhkyJDytmx8m6nd8KSH6nyuOJRinzHYrX8gp6ll1f6L5kYwPRUYhiwhQEHoCyirSgtq5OYgNs3scs2Ylv9PgNk66mAw8pJOHQl8CdHbQ75zMe9WrwNyRrhLdN81rXcjJ1bA4jwCuiTNHGZ7IRfI50KwWq7V+XXoeBS+CuhaqjIpHNaE68rQ6e1GWPzBNoDFkpvAfOm1Iq1FRaOmgoesKcRIVN//dS7Ucyp/vPi6eMxPVizPp+FFmZw4wINBw0xzpbvySFybO93xc+p9m0OmAg6ZdPXQ/ysaNlkkwIGof88Z8Y0k3JMMuTwF16o+fJ2yXLvZIekTUi7Lw4B9KAAkfFG1dmKcrsS08NPAYNDAW3UgV3V1vtV7UBzrXFr+La9Q7AdyW4heiRgW2/YwV6sCADJoM2S3/oeuOivtQVPIcbVC+oXmoLGa418uVF9RjdErbQ==;L9KT5pHiGaEY+6ctBJa0Pw=="
+secured: "d+Qu1+p4LPyM/ABYsvPrsE8WbVZXi1KT5QrvmR8t/NWKa6vZ/Jmgljz4Ie9WX1ory9ISPZeK1pE1+vJBQfeZFNgCHvCJ5CIP4It+yXveYhg+/dH0BKLZQV7MEuj5ItTv1GUHN9mvPIuv85IfzK2U4IqDaDgERScQXpRdBGQrBY2/t+Z09wnI0GYbP0gAQ5Ho5y5B6AYwvqbRG7FRIDbN+GsYG8iGZ2L+hWoSuPUeD6cHEu2ezztN2yZ4K9uYr3i8jrFHLGT8tOD2K4RpbbvNILtAIj2BpdJfJuAPMVDkuLBrlwdGfXlVclFcfRmaNvU3MWS+HiDGGQS2CgYVmfaGMr38PUQmJxyibOT1B27YB6w=;5DNzL00OMcilLjwfKzCtFQ=="
 ---
 

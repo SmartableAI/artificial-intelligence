@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ip
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/amp/"
 type: article
 quality: 74
-heat: 164
+heat: 184
 published: true
 
 provider:
@@ -122,6 +122,20 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Fintech agrees deal for refurbished office landmark"
+    excerpt: "An expanding fintech company is moving to the newly-refurbished Hodge House office building in Cardiff city centre. The move follows an announcement last month that listed AI"
+    publishedDateTime: 2020-11-06T12:08:00Z
+    webUrl: "https://www.insidermedia.com/news/wales/fintech-agrees-deal-for-refurbished-office-landmark"
+    type: article
+    provider:
+      name: Insider
+      domain: insidermedia.com
+    quality: 24
+    images:
+      - url: "https://www.insidermedia.com/uploads/event/logos/logo_5G_and_the_superconnected_city.jpg"
+        width: 693
+        height: 400
+        isCached: true
   - title: "Crowdsourcing startup wins FinTech Frontier pitch competition"
     excerpt: "A Pittsburgh-based startup won FinTech Frontier’s inaugural pitch competition, and here's what the company had to say about Cincinnati."
     publishedDateTime: 2020-11-02T17:37:00Z
@@ -139,6 +153,15 @@ related:
     provider:
       name: Stockhouse
       domain: stockhouse.com
+    quality: 4
+  - title: "5 Top performing FinTech companies in the United States"
+    excerpt: "FinTech is a portmanteau of the terms “finance” and “technology”. The article reveals the top performing 5 Fintech companies in the U.S."
+    publishedDateTime: 2020-11-06T11:18:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/5-top-performing-fintech-companies-in-the-united-states/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
     quality: 4
 
 secured: "1gChniqeGsEqiC5v78mI+ahz98Ewwfr64isD0QlEs4L2Z4xYNN9tsHE4EsPqQOyLik/ROCmIRlQydoXjWiVTP8DWB0l91Gpde7pet0sakEokJbwXgtKfrslTtefp61eldNtR2yySzOPTSIE1UrhpTBEqJkzhut9MjJbWtZdcjkpEIEokdM8qLrn74hERlfSAZzvnG/GNA/dOySrQjIj3KbDHLRLCZ3A69o1JuIzmAStqJrrDy83YAv+bl28Gm/tcFa8S27NZ1KSlM4yxiXeNV7KuLM+Kb24eEaHJ2pNwmnMhp/sN3g6E94ZAOUXOXdJsQq0nPOblcGXvt5Yu44EcbbINTRiPenkj8FUygCh0K5E=;BzhyS2GfHx+mCdN4EN/YJQ=="

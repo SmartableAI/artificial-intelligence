@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-03T08:50:00Z
 originalUrl: "https://www.cioreview.com/news/automation-and-artificial-intelligence-the-future-today-for-hotels-and-property-managers-nid-32260-cid-112.html"
 webUrl: "https://www.cioreview.com/news/automation-and-artificial-intelligence-the-future-today-for-hotels-and-property-managers-nid-32260-cid-112.html"
 type: article
-quality: 27
+quality: 29
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.cioreview.com/ck_images/1Lic807k.jpeg"

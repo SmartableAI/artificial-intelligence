@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2020/11/06/1011726/ai-natural-language
 ampWebUrl: "https://www.technologyreview.com/2020/11/06/1011726/ai-natural-language-processing-computer-vision/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/11/06/1011726/ai-natural-language-processing-computer-vision/amp/"
 type: article
-quality: 61
-heat: 61
+quality: 63
+heat: 63
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - Computer Vision
   - AI
   - AI in Robotics
+  - Natural Language Processing
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2020/11/cat-vokens.jpeg?w=3000"
@@ -27,6 +28,6 @@ images:
     height: 1688
     isCached: true
 
-secured: "C+jf4e8L6fQV4SwT7cFnWOEEkgxcArUyhbTpti0RVrOBmtiLZidR6vtnkqfYxki4vOpLKsqWyHcFELTDgt4dflxO2GLePZc8sVZoiT30S6RfJvX36rsSFHbXSMbk2TfqLKqe6qeG2eGC/IIv4blhn4qKVHcSdYGL6Cq/T+JgPKhvR/jEr30xM8K5ZcS94jbD/qHwMDB9UoDOyU9lc8mgKYSiDbIME8KzFss0giXGbWFCj1djTYt45temUrxMZnWoKy/joRy1Dr9QQ92GS5ZFRJxjqnih7zepOJ0Hl736w8/5OguuYhB+ZNXBk0LqX43V1yUfzGpcCFzCpQKpo4i0xpUmSZQEFj7uoWvkbrG4kCY=;tbvJWER6Cn0XgRxhoW0ePg=="
+secured: "I052fbOayV7SlUUFOmj9QTMtFToqRodv1ripvI3weVoCCSY8i9HHapKqs0xh/yODlkKK4qOByFhJOCWTOoIvE+BPrw8MHWsnt7ycNPwwxNuVsiaFqQ/+VIDw7YJkLo9Gu9rXySi2xjh14hbCFbahfyNKzS2l3UOzkK4B86luXKVCSilbGqHl/o68yffibOkn1Frq2Y+hmIHakFZM20elsh8XC+ylJVQOeQaCD4Y8bNUGYuTila7EtE9HnquYJsRZ2gziXcPYdgk61ZDS2weHo02c4PR9pzQjIlN9+r6ylMYcd3/pzcnLnjtzBpkADb6ZTgV6khBpjSjhGh5ojmfdByweCtW1jhjmDWNASALskTnthL9volaQrHr6VzfdMzQIdpBqWwySvnIrTb7FEN4VeR7JDdMznPwlev2cAEFi5d6BjceY5cXD5Upo1FdwFDzQwi5PcYPb8HX9CdEUdBa0ypFYf0Vv/iC8Vzxe2xYbFsCUxS2q1Rb8F6RHStpjBt/kxKnKl68Q0wtgWQR1+AqYNA==;rNOZq+QNrSd7rYWjRRCL0g=="
 ---
 

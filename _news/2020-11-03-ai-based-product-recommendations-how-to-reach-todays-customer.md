@@ -50,7 +50,7 @@ related:
     provider:
       name: CIOReview
       domain: cioreview.com
-    quality: 27
+    quality: 29
     images:
       - url: "https://www.cioreview.com/ck_images/1Lic807k.jpeg"
         width: 300

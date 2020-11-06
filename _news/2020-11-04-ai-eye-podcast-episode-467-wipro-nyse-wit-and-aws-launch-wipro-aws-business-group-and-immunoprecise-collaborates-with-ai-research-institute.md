@@ -25,26 +25,65 @@ images:
     isCached: true
 
 related:
-  - title: "ImmunoPrecise Antibodies and Mila Announce Strategic AI Partnership"
-    excerpt: "PRNewswire/ - IMMUNOPRECISE ANTIBODIES LTD. (the 'Company' or 'IPA') (TSXV: IPA) (OTCQB: IPATF) (FSE: TQB2), a leader"
-    publishedDateTime: 2020-11-03T12:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758396"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758396"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758396"
+  - title: "Wipro and AWS announce the launch of Wipro AWS Business Group"
+    excerpt: "Wipro has announced the launch of Wipro AWS Business Group (WABG), a unit designed to help customers fast-track their cloud transformation journey on AWS."
+    publishedDateTime: 2020-11-03T07:15:00Z
+    webUrl: "https://www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/"
+    ampWebUrl: "https://www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/amp/"
+    cdnAmpWebUrl: "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-  - title: "Artificial Intelligence Technology Solutions and Swan Island Networks Announce Strategic Alliance"
-    excerpt: "Artificial Intelligence Technology Solutions, Inc. (OTCPK:AITX) is pleased to announce that its wholly-owned subsidiary Robotic Assistance"
-    publishedDateTime: 2020-11-06T06:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-and-swan-island-networks-announce-strategic-alliance-1029770818"
+      name: Voicendata.com
+      domain: voicendata.com
+    quality: 59
+    images:
+      - url: "https://www.voicendata.com/wp-content/uploads/2020/10/handshak-image.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Wipro, AWS announce the launch of Wipro AWS Business Group"
+    excerpt: "Wipro announced the launch of its dedicated Wipro AWS Business Group (WABG), a unit designed to help customers fast-track their cloud transformation journey on AWS."
+    publishedDateTime: 2020-11-03T03:20:00Z
+    webUrl: "https://www.business-standard.com/article/news-cm/wipro-aws-announce-the-launch-of-wipro-aws-business-group-120110300202_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/wipro-aws-announce-the-launch-of-wipro-aws-business-group-120110300202_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/wipro-aws-announce-the-launch-of-wipro-aws-business-group-120110300202_1.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
+      name: Business Standard
+      domain: business-standard.com
+    quality: 39
+  - title: "Wipro AWS Business Group: Fast-tracking customers’ cloud transformation journey on AWS"
+    excerpt: "Wipro launched the Wipro AWS Business Group (WABG), a unit designed to help customers fast-track their cloud transformation journey on AWS."
+    publishedDateTime: 2020-11-03T01:32:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/11/03/wipro-aws-business-group/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 31
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "WiPro Launches Amazon AWS Cloud Consulting Group"
+    excerpt: "Wipro launches dedicated Amazon Web Services (AWS) cloud consulting group spanning 10,000 AWS-certified consultants, the IT solutions provider says."
+    publishedDateTime: 2020-11-02T15:42:00Z
+    webUrl: "https://www.channele2e.com/channel-partners/csps/wipro-launches-amazon-aws-cloud-consulting-group/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 19
+  - title: "Wipro starts dedicated AWS business unit"
+    excerpt: "Wipro announced the launch of its dedicated Wipro AWS Business Group (WABG), a unit designed to help customers fast-track their cloud transformation journey on AWS. WABG merges Wipro's industry experience and portfolio of services with AWS's cloud platforms."
+    publishedDateTime: 2020-11-03T15:20:00Z
+    webUrl: "https://www.telecompaper.com/news/wipro-starts-dedicated-aws-business-unit--1360351"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "2DpFr0Tu32Abe9iwljWdWd6mWGLFyVjP31mC4P4GgNDLx1gIjQzkfYXxqXiBM6QP1xlq9MxhHs7C4H/PA1HCxsZO7vHA+/lYViyCEe65Xf79K3TJDhIp39dXIw2TXt7gv4viX7TKXAjSGLBoQ39pX/96m83ldhSQXhPDpjTTZGMjZutRnLnuFTD5bu1JkW5KHVBd/aBbMTeqS6zoP2WeyLDK347Rf2OI1vp6+SauDOzZ+PKR2N1cHIdwUdYHuagijnNPByrvktkvjWYggfiDe6u0kAbmoeXGQK/A1NjzOtGB5xIkN3tfcH7EVyg8W50/3zzqKA6WZqoqNxhnHW8WBogbc2UYv1lj+iUucgBZKQ8=;c3U0a8/zh5KVqbgUgo+CCw=="
 ---

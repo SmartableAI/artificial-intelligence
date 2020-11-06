@@ -117,6 +117,20 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Fintech agrees deal for refurbished office landmark"
+    excerpt: "An expanding fintech company is moving to the newly-refurbished Hodge House office building in Cardiff city centre. The move follows an announcement last month that listed AI"
+    publishedDateTime: 2020-11-06T12:08:00Z
+    webUrl: "https://www.insidermedia.com/news/wales/fintech-agrees-deal-for-refurbished-office-landmark"
+    type: article
+    provider:
+      name: Insider
+      domain: insidermedia.com
+    quality: 24
+    images:
+      - url: "https://www.insidermedia.com/uploads/event/logos/logo_5G_and_the_superconnected_city.jpg"
+        width: 693
+        height: 400
+        isCached: true
   - title: "Crowdsourcing startup wins FinTech Frontier pitch competition"
     excerpt: "A Pittsburgh-based startup won FinTech Frontier’s inaugural pitch competition, and here's what the company had to say about Cincinnati."
     publishedDateTime: 2020-11-02T17:37:00Z
@@ -134,6 +148,15 @@ related:
     provider:
       name: Stockhouse
       domain: stockhouse.com
+    quality: 4
+  - title: "5 Top performing FinTech companies in the United States"
+    excerpt: "FinTech is a portmanteau of the terms “finance” and “technology”. The article reveals the top performing 5 Fintech companies in the U.S."
+    publishedDateTime: 2020-11-06T11:18:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/5-top-performing-fintech-companies-in-the-united-states/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
     quality: 4
 
 secured: "RLaXj6cXEuh6/D2QFjANR/OQ0JFjTDv3HsJi69vk4VweXOVePkMetUbhGy6cX2dInWq5tC0NhZtwjzd8fWkilanBz3+hQstJ88xkfh5Zpt1TeD5T2qrwvd92MSjEf8WpU1IyQFDSYx0A9rIVyoRew32uA0IY1GQjD88+fEz5B16UE0qSCBvCm5sHDcXTuevzCb3Ltrv6ndWbjX/wpSBkozyEbP4p8SEslxIy4HWbTQujbE+nYU65iuQ1BHzmRNJ3EdLb7NuorNwxlcMktviTC8BiQ0LHkqAZGWoORJ7lFdE0WQQDqPTunMTI//Sfg8kdcQa/sA8Vkw+sRM43xx1pADx6ik1U1HWymYzXYNJ6+1E=;mIQQc1FrougApPIjDfVeUQ=="

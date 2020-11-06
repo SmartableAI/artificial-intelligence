@@ -40,6 +40,20 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Pope Francis prays for good AI"
+    excerpt: "Hoping to convert it later The head of Roman Catholic church has asked his invisible friend to make sure that AI is good for humans. Pope Francis must be hoping that AI does better at organising humanity than organised religion managed and might look after kiddies better than the Roman Catholic"
+    publishedDateTime: 2020-11-06T11:36:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/51837-pope-francis-prays-for-good-ai"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/7f818a0bd627fe1bc7f010c971e26819_L.jpg"
+        width: 620
+        height: 455
+        isCached: true
 
 secured: "ndporckBCqnEe6Wk7XPVe4xm7FuEH6y3ngKlNXltC1WidlDJ4ZxbPb3bnoaweL4ZqCHpKLj/YdnAoop59xIuI58Le2+fB4dM99Rezs+PT1IbrMRNxMDlXnt5lpwOOHpK/gIA2aK9nuE1aqE1s2mibDaUYJvPItqn62PvsfLcAs8BMIaX9F9OrpZFrG2Xy//gep3hxJGtZlAIZDv/hWdYmVGe4Wg0wVuUf4NCiWbJh9ze4gQW+7VBHQgp9X0gF854XNLq2kWycxx0IIaotWR/eHjE8wi9evnOvvTwmM7oF0P5kzr24EFPq8hnelLf46ue1KoSJjxE7UdJxzXbHOzVfpV/vxcxWBNsXvBtjCphUkQ=;tWyJx57zWcNIZUiUHayXQw=="
 ---

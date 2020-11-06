@@ -118,6 +118,20 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Fintech agrees deal for refurbished office landmark"
+    excerpt: "An expanding fintech company is moving to the newly-refurbished Hodge House office building in Cardiff city centre. The move follows an announcement last month that listed AI"
+    publishedDateTime: 2020-11-06T12:08:00Z
+    webUrl: "https://www.insidermedia.com/news/wales/fintech-agrees-deal-for-refurbished-office-landmark"
+    type: article
+    provider:
+      name: Insider
+      domain: insidermedia.com
+    quality: 24
+    images:
+      - url: "https://www.insidermedia.com/uploads/event/logos/logo_5G_and_the_superconnected_city.jpg"
+        width: 693
+        height: 400
+        isCached: true
   - title: "Crowdsourcing startup wins FinTech Frontier pitch competition"
     excerpt: "A Pittsburgh-based startup won FinTech Frontier’s inaugural pitch competition, and here's what the company had to say about Cincinnati."
     publishedDateTime: 2020-11-02T17:37:00Z
@@ -135,6 +149,15 @@ related:
     provider:
       name: Stockhouse
       domain: stockhouse.com
+    quality: 4
+  - title: "5 Top performing FinTech companies in the United States"
+    excerpt: "FinTech is a portmanteau of the terms “finance” and “technology”. The article reveals the top performing 5 Fintech companies in the U.S."
+    publishedDateTime: 2020-11-06T11:18:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/5-top-performing-fintech-companies-in-the-united-states/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
     quality: 4
 
 secured: "g0fUwPuYDCWbX3E5ejJ9GxAEtaceqmcyQv0Cn6kUlW+nAfUAX9UU4vGrLzEhB6stzSpdv3zSWIutp3LdwxS+AUSgC9SUX2JzROnLkhkjYB+yvfY0LCI43lUJ5JMGxOf10CBD0YuK4zpKISmY6OSVaT32YLJFtKIZcmPNLvGUTpKZGeVaL+FRZbwjAP+xawVFB0jpepq0NcwTKH5NtYe31p3mbqRtsqwG0y6Q0J+smg43GmIbYoV4Uud2IOMNGHQ1ExDxRMU7Y3FmPlPk5ckGK9m6xEJIjyOTBa/OcJ80DlMty63t7Y9BnM4WCF6lxx+CYk+PCmjpzcdsm+xt73L9cbgp1e8/CQIwHML6KvnHbZ1ZjYv6dx46/GHUuHtq67q8EiwD+QR57RQdCDCVfAgqW8S+yZFai5L/OsVBM2L8fQA3Omu8NKrVrz+JGbqXEfle71F15kDpaBF/3vo2zUZzahhAqoybqcsjP1zDHHqJBQOTYP/QNRbi5fKu031TmGTgCXdDD5fUpx2CR+91BEyB/g==;t7xPRxma219lfX6qys4neA=="

@@ -103,20 +103,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Intel launches Iris Xe Max discrete GPU with new ‘deep link’ feature"
-    excerpt: "After three years of teasing its return to the discrete graphics market, Intel has revealed its first product in the category, the Intel Iris Xe Max graphics, which will pair with the chipmaker’s new Tiger Lake processors for ultra-thin laptops to focus on content creation."
-    publishedDateTime: 2020-11-01T20:22:00Z
-    webUrl: "https://www.crn.com.au/news/intel-launches-iris-xe-max-discrete-gpu-with-new-deep-link-feature-555403"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fNews%2fvnunetcom-analysis-intel-montecito-takes-on-ibm-sun-and-amd-medium.jpg&w=480&c=0&s=1"
-        width: 480
-        height: 285
-        isCached: true
 
 secured: "BPahwCks+jUzCoVu2jiA/10G4QwRyucT/rqJUo9urF6ZOoZTpv0md3zqT0g/LhGT3d22+por5lLR/onhn4ar1cNd0Vnzo1ZmeLwPkRi1udpHZYG/ByixT1PQYjE+6Pz2R2MhBBJSdjTmgLHq7iIqoUQq2/cthHawE0kPjvSi6bzebGkBi+hbwOwcNngX4NHa6hHR2LN4wTRdUO48ncl04tZUAqmqhzCWKUBLdMn90shM+mcWfNQSn5tnWi712TzBaM/GDeXji+FAMHuigHMkcPSOM6zGT5wEJcehnfD10Bvq/sZVotZzr6mbKELSAui7lUzWWBDqEQca0Gbt7LkUJ4ZLaklumrgcUVDmopmpUVlxn5cbdcH3xqdH6pGjR9HXkY9Avyobny//C8h/vIFtfmTfQOvPYbAJXq0upT2TMevJYrQ+Ir+9xAfLjraFARFoh1pxdYFeVSE9SorBHezf4ct973TSqAD3Tmw7jYEhz6xzrxfCe/f5UI4Vj28cpGCQ7Qp1BKB1s06M4VlSbn0KOA==;v0yQ8/6Z5mEPlbvAY5UcMw=="
 ---
