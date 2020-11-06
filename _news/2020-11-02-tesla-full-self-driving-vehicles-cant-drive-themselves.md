@@ -75,17 +75,6 @@ related:
         width: 1170
         height: 780
         isCached: true
-  - title: "New Tesla self-driving software could reduce driver interventions by one third"
-    excerpt: "Tesla only released the first version of its Full Self-Driving software beta just over a week ago, but it is already being updated with new improvements. The company has been collecting data from the early users and has made improvements that CEO Elon Musk ..."
-    publishedDateTime: 2020-11-01T14:40:00Z
-    webUrl: "https://www.digitaltrends.com/news/tesla-full-self-driving-software-update/"
-    ampWebUrl: "https://www.digitaltrends.com/news/tesla-full-self-driving-software-update/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/tesla-full-self-driving-software-update/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 65
   - title: "Musk Says Canada And Norway Are Next To Get Tesla Full Self-Driving Beta"
     excerpt: "FSD will be rolled out in the two countries after the necessary approvals are given, possibly in February or March."
     publishedDateTime: 2020-11-03T19:58:00Z

@@ -82,22 +82,6 @@ related:
         width: 1260
         height: 630
         isCached: true
-  - title: "Artificial intelligence and covid-19: Can the machines save us?"
-    excerpt: "The Stanford-trained data scientist did not have a particular hypothesis, but he was hoping the artificial intelligence would pinpoint ... existing racial gaps and other disparities in health care. One of the biggest challenges has been that much data ..."
-    publishedDateTime: 2020-11-01T14:02:00Z
-    webUrl: "https://www.washingtonpost.com/health/covid-19-artificial-intelligence/2020/10/30/7486db84-1485-11eb-bc10-40b25382f1be_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/covid-19-artificial-intelligence/2020/10/30/7486db84-1485-11eb-bc10-40b25382f1be_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/covid-19-artificial-intelligence/2020/10/30/7486db84-1485-11eb-bc10-40b25382f1be_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 59
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "AI Model Can Detect Covid-19 Through Recorded Coughs"
     excerpt: "A new AI model has shown to be able to detect Covid-19 through cell-phone recorded coughs. As reported by MIT News this could prove a valuable defence"
     publishedDateTime: 2020-11-03T16:17:00Z
@@ -362,6 +346,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Expertise 2020: How the Artificial Intelligence in Agriculture Market is effected by COVID-19 Impact"
+    excerpt: "Check out How COVID-19 impact on the Artificial Intelligence in Agriculture Market @  The global market is classified on the basis of application and deployment. The report offers the complete information about drivers,"
+    publishedDateTime: 2020-11-04T17:29:00Z
+    webUrl: "https://apnews.com/press-release/wired-release/technology-business-crop-farming-pune-drone-aircraft-488c49658274a58c46e2c0009d8263ee"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "AI For COVID 19: MIT Model Effectively Detect Corona By Hearing Cough"
     excerpt: "Asymptomatic patients remain a major concern for the COVID-19 spread. But, this AI model by MIT researchers may help in early detection by hearing coughs."
     publishedDateTime: 2020-11-03T10:00:00Z
@@ -371,15 +369,6 @@ related:
       name: Tech Thirsty
       domain: techthirsty.com
     quality: 19
-  - title: "UK plans to use AI to process adverse reactions to Covid vaccines"
-    excerpt: "The UK drugs regulator is planning to use artificial intelligence to sift through the “high volume” of reports of adverse reactions to Covid-19 vaccines in the coming months, as it prepares for an inoculation programme of groundbreaking scale."
-    publishedDateTime: 2020-11-01T15:00:00Z
-    webUrl: "https://www.ft.com/content/17a306cd-be75-48b4-996e-0c2916b34797?sharetype=blocked"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "HVOHDJdXnt/WAMRcXl6Ij5TLy/UCxSik18SyCMMvmCZo3NOusPCXDjZeE1vSZTcz3kSDs2CN6TRmY4jeD361oajAFKWc3+X+hFuz3IeP5nML0qR9deqZ1BvbhRXlE4XDaUrqFSR6NO6AMAeyM29NHJzfYig5FgcQw1F+BkZ0OI7+mBjoIYll1aAjxeMyWLLtZ8hEdwTriapwZeihrGx1cLxekUl0u+LzmnHI2dW2WrNj8f+KQdvWgHKVuHESiW2VCfQeuBGRj8BPaCiYv+I0HMzpZLdNd5YanOsYjz7P7lIs4e68rQMV5fw6UpLymiJKshi1X5FTpCjILyxOEcVqvfIgD7pO6G81DRtuYZns5OsiA4bl/485p3M19aptzPYFp7I70PC5OPGW/2t9KQ9kOI0xo2u2UQaWwAIoioq3XBsA1LMCmyzOgbvktE0RQ8q4gGdNF0dQdHTDpgQUkxgWVJUjqg29VS19hMB5A9/RwZ2rFJmAnkoGdKmQmSgsL8TULXFaQPhYOnPkoGMunn2UFw==;FLlVrPuVCoRgwkv2OpYh+A=="
 ---

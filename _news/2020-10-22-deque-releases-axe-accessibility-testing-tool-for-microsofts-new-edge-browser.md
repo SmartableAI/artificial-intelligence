@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Deque Releases Axe Accessibility Testing Tool for Microsoft’s New Edge Browser"
-excerpt: "HERNDON, Va.--(BUSINESS WIRE)--Deque Systems, the trusted leader in digital accessibility, today announced the release of the axe accessibility testing tool for Microsoft’s new Edge web browser."
-publishedDateTime: 2020-10-22T13:07:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201022005403/en/Deque-Releases-Axe-Accessibility-Testing-Tool-for-Microsoft’s-New-Edge-Browser"
-webUrl: "https://www.businesswire.com/news/home/20201022005403/en/Deque-Releases-Axe-Accessibility-Testing-Tool-for-Microsoft’s-New-Edge-Browser"
+excerpt: "Deque Systems, the trusted leader in digital accessibility, today announced the release of the axe accessibility testing tool for Microsoft’s new Edge web browser. Like its Chrome and Firefox counterparts,"
+publishedDateTime: 2020-10-22T13:00:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-communication-technology-media-mobile-media-application-software-7df5a93e21384e02818f60908ae616ab"
+webUrl: "https://apnews.com/press-release/business-wire/technology-communication-technology-media-mobile-media-application-software-7df5a93e21384e02818f60908ae616ab"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.businesswire.com/images/bwlogo_extreme.png"
-    width: 600
-    height: 300
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "2s6AwzCAnKTEtRenWYgJH+sF1z5w0944EFIGEdk1rr0NBwW+/dmbwEAMPkrtlveiW6DTajLBEp1ODzAlVEbjOeqHsksWfILXgbRBB+ZHRWuPzldScewVTxGiwGuZv70odZKnFp1gzDLM8CFMrStSVHqLMPv78dUxI4b/NiYHg8NlWIimPbXz1D4hMFLQUqKcLmaaBor0Nvc00KQdhKixegUwfApr5FzfXFj7AyBAKK40zO/PVkkE6gQSafWyvXenFQc7+UYl0QriYuo93DC+jMaWnkVktc/6pQGQsd1TK3NfWJfm6P2BcgDq4he+MS+WASMRJsM2q5pqji7cmODHYkHnOaG7Ba0jILdOF0EbdDE=;A3owTA0WC6Jd3+IIKni1hQ=="
+secured: "r8WL6p7Fw+o6V9TpkAflSk/r+soOUbeeK9Hw/B8dXAFlmhb252j59rQb3DefX26JpmC0CEAXK9EzPeyZSdra211nYycrBenklFIt7cnPbiirrR1qXmfNUVZ1+94aLEAEMFE955AVMiy/T7THyln/jcq67lGxyUvHsl5EYdW+xtfECyPCtzDHwL+6h24gdD6k9w5TlcsNOq5SQ0N6usTKIVKEc+p/SreyembaC1jT06o3laLXVDKMDmrWTs0wl0jVggf5I5VvQESaw8Yj4ih/O1txEmKofulJ4r6wFO6O7c5tV3M+4hc4gBpsN0r5saN0ZvfnhRanrjHIXvmAlrNuvpzDzFv7R4qqKp6nC5dy1J8=;BTlrvNwX0lx0rOAsXohPdA=="
 ---
 

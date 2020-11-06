@@ -59,17 +59,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "New Tesla self-driving software could reduce driver interventions by one third"
-    excerpt: "Tesla only released the first version of its Full Self-Driving software beta just over a week ago, but it is already being updated with new improvements. The company has been collecting data from the early users and has made improvements that CEO Elon Musk ..."
-    publishedDateTime: 2020-11-01T14:40:00Z
-    webUrl: "https://www.digitaltrends.com/news/tesla-full-self-driving-software-update/"
-    ampWebUrl: "https://www.digitaltrends.com/news/tesla-full-self-driving-software-update/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/tesla-full-self-driving-software-update/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 65
   - title: "Tesla 'full self-driving' vehicles can't drive themselves"
     excerpt: "DETROIT — Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8,000 system doesn't make the vehicles autonomous and ..."
     publishedDateTime: 2020-11-01T22:10:00Z

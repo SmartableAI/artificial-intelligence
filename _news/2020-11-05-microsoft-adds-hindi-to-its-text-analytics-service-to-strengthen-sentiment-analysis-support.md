@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft adds Hindi support to its Text Analytics Service"
+    excerpt: "Microsoft has announced that it will be enabling support for Hindi within its Text Analytics service. The Text Analytics service powered by Microsoft Azure is part of the Microsoft Azure Cognitive Services."
+    publishedDateTime: 2020-11-06T06:14:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-adds-hindi-support-to-its-text-analytics-service/article33037173.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-adds-hindi-support-to-its-text-analytics-service/article33037173.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-adds-hindi-support-to-its-text-analytics-service/article33037173.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 59
+    images:
+      - url: "https://www.thehindubusinessline.com/info-tech/e0abff/article33037172.ece/ALTERNATES/LANDSCAPE_615/BL07MICROSOFT"
+        width: 615
+        height: 384
+        isCached: true
   - title: "Microsoft adds Hindi to its Text Analytics service"
     excerpt: "Microsoft on Thursday said it has added Hindi to its Text Analytics service to help businesses strengthen customer support through complete analysis of user perception and feedback in the most widely spoken language in India."
     publishedDateTime: 2020-11-05T10:04:00Z

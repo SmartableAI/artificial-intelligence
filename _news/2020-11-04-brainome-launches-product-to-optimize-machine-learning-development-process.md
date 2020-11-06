@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-am
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/brainome-launches-product-to-optimize-machine-learning-development-process/"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/machine-learning-banner-artificial-intelligence_107791-611.jpg"
         width: 626
         height: 337
+        isCached: true
+  - title: "Brainome Launches Solution To Course Correct Machine Learning With A Fundamentally Different,"
+    excerpt: "Brainome, the company behind the first-ever measure-before-build tool for machine learning, today launched its product, Daimensions™, for the enterprise market. By introducing measurement as a structured discipline to the field,"
+    publishedDateTime: 2020-11-04T14:00:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-science-corporate-news-products-and-services-new-products-and-services-c117c6246fb041931060326fd546e084"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 43
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "xMAIfu8TjZ+p26J/gG/8uOjG9ZuGzcpNFAee6twF15m2nBh+Qxi+CwPK8udc0qHxlaEEwn745fRsV1K9vYWy9/Fx+uLbc3CTO6XvfkOUuqJn1tlmJCw2YsNxIH6qQ+H1KiQgc/IitTBBq1YjdjwYDqtdWOROJrr4KvbrwOq/e70iDQjDJ5mC/wD1ucBh0HAPt2hHwPxgqXxg+wynP2mx/vUDwAxfu6Kqz3dfyMkUbi/8d2mmjkcE6l3rS96ydaTPLbFSKqHeH/q3Le3JGSq2x1MnT5a9mq19Glm/77/nOCDOp6l4UEptdvFbJIVqH6v/not2WDKPw5QmTa4c4iENKMY3XGMkq34AjDKp44uDyP/8IjpkVsHXAm45yhQQyrmylMv5i1kBTTgVai7ECtJbvLlyPoDo5MnBh9eKQNjFvG6/5+FRUClsTe/aWZUH00vz+TR2M59P+zjD6W9Ks0k+p90MAhDG+2lu87jDJsGa1ypaPPJf97pUMGnynWgnY1rfl19MQII8eHZFwJ1oyJ4Paw==;v9ekqoqnj/8tLQKDqxAwYA=="
