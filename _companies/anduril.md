@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "anduriltech"
   url: "https://twitter.com/anduriltech"
-  followers: 6547
+  followers: 6550
 
 size: 51-200 employees
 yearFounded: 2017
@@ -31,7 +31,7 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1064960090887704576/3oJzGV0q_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1324780274954117120/AEWA1pSU_400x400.png"
     width: 400
     height: 400
     isCached: true
