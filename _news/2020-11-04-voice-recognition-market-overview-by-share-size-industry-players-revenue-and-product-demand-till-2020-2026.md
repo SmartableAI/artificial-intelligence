@@ -99,20 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence For Drug Development and Discovery Market 2020 Industry Status and Outlook, Competitive Landscape and Growth by 2025"
-    excerpt: "MarketsandResearch.biz has published the latest and most trending report entitled Global Artificial Intelligence For Drug Development and Discovery Market 2020 by Company, Regions, Type and Application,"
-    publishedDateTime: 2020-11-01T12:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-for-drug-development-and-discovery-market-2020-industry-status-and-outlook-competitive-landscape-and-growth-by-2025-2020-11-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "2pX3gNAA3pIo4hixbdO/KMZ3b+sncwm9SjErwX5MdmR2a3MjkPleFinGxersEVTQlgUF10klOts6GYtFwYfiADv9RX56fGBu+6TfMk7LaSEcoJOgYg00HEWShTrRA9xwHbc5lLw+zKKfM10iHoUNzyDs4hDHHNKjH6nQD8gUK6DtMiNzMhsLNxbn7hucxYeLVreoPX9jz1LH8c/8xyXfXasUTN1kpXmy/kLNtXJIISQOVT3EMfOau6ss3BnyzI75FfbFAbgIebEdY5tMAkrWjcjwdP6coK+bzUCT6jkcdgf65jnn9kY171WsgDfiObN0FXFk316eBPBbTikU8e/aCJAR7SinORfxRQXTBtXmqaI=;Fsu8aVdHUK9chIo5KaRfig=="
 ---

@@ -2,48 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-11-03-hrtech-startup-leena-ai-bags-8-mn-from-greycroft-others.md",
-      "title": "HRTech Startup Leena AI Bags $8 Mn From Greycroft, Others",
-      "excerpt": "Gurugram-based HRtech startup Leena AI, on Tuesday (November 3), announced that it has raised $8 Mn in Series A funding round led by Greycroft",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/hrtech-startup-leena-ai-bags-8-mn-from-greycroft-others/",
-      "originalUrl": "https://inc42.com/buzz/hrtech-startup-leena-ai-bags-8-mn-from-greycroft-others/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2020/11/Social-2020-11-03T141344.695.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/hrtech-startup-leena-ai-bags-8-mn-from-greycroft-others/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/hrtech-startup-leena-ai-bags-8-mn-from-greycroft-others/amp/",
-      "publishedDateTime": "2020-11-03T00:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-03-security-tradeoffs-in-chips-and-ai-systems.md",
       "title": "Security Tradeoffs In Chips And AI Systems",
       "excerpt": "How security affects power and performance, why AI systems are so difficult to secure, and why privacy is a growing consideration.",
@@ -96,7 +54,7 @@
       "originalUrl": "https://www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1178,6 +1136,59 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-02-c3ai-on-tackling-crm-education-social-media-regulation-and-enterprise-ai.md",
+      "title": "C3.ai on tackling CRM, education, social media regulation, and enterprise AI",
+      "excerpt": "Tom Siebel, CEO of C3.ai, talks to ZDNet's Larry Dignan about his company's partnership with Microsoft and Adobe, AI's role in solving for COVID-19 and remote education, the filter bubble, and where enterprise AI is headed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/c3-ai-on-tackling-crm-education-social-media-regulation-and-enterprise-ai/",
+      "originalUrl": "https://www.zdnet.com/video/c3-ai-on-tackling-crm-education-social-media-regulation-and-enterprise-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/10/26/44ec6ca4-76d9-47a7-bb91-702d043a02f0/thumbnail/370x278/0d446269b82a0f8eb0086f3aa3362247/mastercard-idemia-and-matchmove-to-pilot-5f95f54693eaa218d73998e8-1-oct-26-2020-4-53-52-poster.jpg",
+          "width": 370,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-02T04:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales",
+        "AI in Education"
       ]
     }
   ],

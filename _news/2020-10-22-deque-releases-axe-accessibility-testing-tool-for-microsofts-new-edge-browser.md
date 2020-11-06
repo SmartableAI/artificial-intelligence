@@ -15,6 +15,12 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "I4FUj00Xx0ANbq+8V68WdJQ6lh617z8RO/FcoihuXTtOWKYRjJcD5JifoA8FZh0RwUaNc0am6L5MavN2/jHuRgQOalw/R/sc3+P0IwCSQHBuCrAk+Bw86atg46GSecGBetbbci2v4als8f2aUP2Zi7GZr8CDgP01czTljNu13perdKPJShYThHrMLLOuIUSrvQCMInJ3k3O6XMaoIBQRUUPvY8wplSpSwjbgQXwONjrdoWjoPnuiaW4wnFByhJAgFgZZO/sLgNzkT/D2Y1WcmHVawDn64ZlAgjs/dmKecFRD9m5h3Os3sLRqeDzlQeHbqUW5yGGqVC0DmISaDY7jUsKiaEur70AF7JpqfmdKWIs=;YGZ6jcZiOtz3kDQR0b66aQ=="
+images:
+  - url: "https://www.businesswire.com/images/bwlogo_extreme.png"
+    width: 600
+    height: 300
+    isCached: true
+
+secured: "2s6AwzCAnKTEtRenWYgJH+sF1z5w0944EFIGEdk1rr0NBwW+/dmbwEAMPkrtlveiW6DTajLBEp1ODzAlVEbjOeqHsksWfILXgbRBB+ZHRWuPzldScewVTxGiwGuZv70odZKnFp1gzDLM8CFMrStSVHqLMPv78dUxI4b/NiYHg8NlWIimPbXz1D4hMFLQUqKcLmaaBor0Nvc00KQdhKixegUwfApr5FzfXFj7AyBAKK40zO/PVkkE6gQSafWyvXenFQc7+UYl0QriYuo93DC+jMaWnkVktc/6pQGQsd1TK3NfWJfm6P2BcgDq4he+MS+WASMRJsM2q5pqji7cmODHYkHnOaG7Ba0jILdOF0EbdDE=;A3owTA0WC6Jd3+IIKni1hQ=="
 ---
 
