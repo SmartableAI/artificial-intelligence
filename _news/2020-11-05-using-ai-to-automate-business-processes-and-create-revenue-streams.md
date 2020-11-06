@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Using Artificial Intelligence Improves Pregnant Women's Health"
-    excerpt: "Artificial intelligence technology can help to diagnose congenital disabilities, gestational diabetes, and preterm birth earlier in pregnant women, reports a new study."
-    publishedDateTime: 2020-11-05T05:21:00Z
-    webUrl: "https://www.medindia.net/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 59
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/less-than-6hours-of-sleep-during-pregnancy.jpg"
-        width: 1200
-        height: 1000
-        isCached: true
   - title: "The Role of Artificial Intelligence in Web Development Process"
     excerpt: "In the digital era, web development is growing at an unprecedented rate. The intervention of Artificial intelligence-enabled sites is giving a whole personalized experience to users."
     publishedDateTime: 2020-11-05T09:10:00Z

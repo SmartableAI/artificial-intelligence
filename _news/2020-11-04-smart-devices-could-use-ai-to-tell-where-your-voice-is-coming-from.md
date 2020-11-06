@@ -1,0 +1,64 @@
+---
+category: news
+title: "Smart devices could use AI to tell where your voice is coming from"
+excerpt: "University researchers have developed a machine learning model that uses the power of AI to determine precisely what direction someone's voice is coming from ... others in that it doesn't require facial recognition tech, which could be for the best."
+publishedDateTime: 2020-11-04T11:41:00Z
+originalUrl: "https://www.techspot.com/news/87432-smart-devices-could-use-ai-tell-where-voice.html"
+webUrl: "https://www.techspot.com/news/87432-smart-devices-could-use-ai-tell-where-voice.html"
+ampWebUrl: "https://www.techspot.com/amp/news/87432-smart-devices-could-use-ai-tell-where-voice.html"
+cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87432-smart-devices-could-use-ai-tell-where-voice.html"
+type: article
+quality: 89
+heat: 109
+published: true
+
+provider:
+  name: TechSpot
+  domain: techspot.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://static.techspot.com/images2/news/bigimage/2020/11/2020-11-03-image-21.jpg"
+    width: 1680
+    height: 1120
+    isCached: true
+
+related:
+  - title: "SK Telecom offers AI voice analysis for dementia diagnosis"
+    excerpt: "SK Telecom and Seoul National University College of Medicine have developed an artificial intelligence (AI) tool to help identify dementia earlier.  The AI tool analyses the voices of patients by having a 10-minute conversation with them to determine if they may have dementia,"
+    publishedDateTime: 2020-11-02T05:07:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/sk-telecom-offers-ai-voice-analysis-for-dementia-diagnosis/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/sk-telecom-offers-ai-voice-analysis-for-dementia-diagnosis/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/sk-telecom-offers-ai-voice-analysis-for-dementia-diagnosis/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/11/02/f80ec592-7c98-46ce-b128-0641996858f7/skt-ai-3.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
+  - title: "MIT researchers develop AI to detect COVID-19 using cough recordings. An app could be on deck"
+    excerpt: "Initially, the researchers were using AI models to analyze recordings of forced coughs to ... SEE: Artificial intelligence is predicting coronavirus outbreaks before they start (TechRepublic) The researchers are attempting to incorporate the algorithm ..."
+    publishedDateTime: 2020-11-04T18:15:00Z
+    webUrl: "https://www.techrepublic.com/article/mit-researchers-develop-ai-to-detect-covid-19-using-cough-recordings-an-app-could-be-on-deck/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/mit-researchers-develop-ai-to-detect-covid-19-using-cough-recordings-an-app-could-be-on-deck/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/mit-researchers-develop-ai-to-detect-covid-19-using-cough-recordings-an-app-could-be-on-deck/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 56
+
+secured: "CngQUOm/rrxNNyUQlOwMVVWj4EUZIGsjKv68p/876JzgLmAHltiaOpFwFY5yycaXrdOma2QtHEwa50snVH86YBStbee++Ty+Wu5SZItVirsXUvfewyExnGCzBUpkayIL5vTEsh8/X+34r6W7FgBblFeTyYqZtSBCcMILRSpFZhZS64LvYxDwL+yOrKhjT0BvlKzlQAoEv349jG1IFA44z6fQgOjUZ1bmHYehC0xoQ9LmVO4OuyMR91nKiBSYZuGhpGe6D/ZG2dICR2dCPxpesyLGRK6Ngtv/PK4xTJPJvYLBWguLeEBJ5IQV0HLPyRBB/zc6IM22aIrOMmyk7yUjGY9BDM+SASAbvDas/EI9q0c=;D+8Qys61U5XiqTiZsc6Bog=="
+---
+

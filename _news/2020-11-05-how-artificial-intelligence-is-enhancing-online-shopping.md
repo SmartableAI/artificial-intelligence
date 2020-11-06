@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/how-artificial-intelligence-is-enhan
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-artificial-intelligence-is-enhancing-online-shopping-2020-11-04?amp"
 type: article
 quality: 67
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: Nasdaq
@@ -20,39 +20,51 @@ topics:
   - AI
 
 related:
-  - title: "How leveraging AI and machine learning can give startups a competitive edge"
-    excerpt: "While AI and machine learning are changing the way businesses operate, startups may still struggle to leverage them effectively, with challenges such as cost and a lack of talent among the chief concerns."
-    publishedDateTime: 2020-11-05T02:19:00Z
-    webUrl: "https://www.techinasia.com/leveraging-ai-machine-learning-give-startups-competitive-edge"
+  - title: "Here’s how AI is helping cities improve traffic management"
+    excerpt: "This article was originally published by Federico Cheli on Cities Today, the leading news platform on urban mobility and innovation, reaching an international audience of city leaders. For the latest updates follow Cities Today on Twitter,"
+    publishedDateTime: 2020-11-04T00:00:00Z
+    webUrl: "https://thenextweb.com/shift/2020/11/04/heres-how-ai-is-helping-cities-improve-traffic-management-syndication/"
+    ampWebUrl: "https://thenextweb.com/shift/2020/11/04/heres-how-ai-is-helping-cities-improve-traffic-management-syndication/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/11/04/heres-how-ai-is-helping-cities-improve-traffic-management-syndication/amp/"
     type: article
     provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 66
-  - title: "How And Why You Should Use AI And Machine Learning To Enhance Business Intelligence"
-    excerpt: "BI, in and of itself, shouldn’t be seen as a discrete, one-time project. It should continually evolve as part of the life of an enterprise built on data."
-    publishedDateTime: 2020-11-03T12:17:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/11/03/how-and-why-you-should-use-ai-and-machine-learning-to-enhance-business-intelligence/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 58
-  - title: "How AI technology is revealing the hidden world of bats"
-    excerpt: "How do you monitor more than a million bats in England? - these conservationists have found the answer! Forestry England and the Bat Conservation Trust have been using artificial intelligence (AI) to help them identify more than 1."
-    publishedDateTime: 2020-11-05T06:24:00Z
-    webUrl: "https://www.bbc.co.uk/newsround/54745266"
-    ampWebUrl: "https://www.bbc.co.uk/newsround/amp/54745266"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/amp/54745266"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/119F7/production/_115138127_mediaitem115138126.jpg"
-        width: 1024
-        height: 576
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/image-13-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
+  - title: "Using Artificial Intelligence Improves Pregnant Women's Health"
+    excerpt: "Artificial intelligence technology can help to diagnose congenital disabilities, gestational diabetes, and preterm birth earlier in pregnant women, reports a new study."
+    publishedDateTime: 2020-11-05T05:21:00Z
+    webUrl: "https://www.medindia.net/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/less-than-6hours-of-sleep-during-pregnancy.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
+  - title: "Using artificial intelligence can improve pregnant women's health"
+    excerpt: "Disorders such as congenital heart birth defects or macrosomia, gestational diabetes and preterm birth can be detected earlier when artificial intelligence is used. In the latter case, studies into cases involving artificial intelligence found a correlation between the number of pre-term births and the environmental pollution to which the pregnant women had been previously exposed."
+    publishedDateTime: 2020-11-04T16:19:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/uos-uai110420.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 37
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "Q+sGMTYqEC92bcVkm7LvffG3XEKc/jiA7l8yTxf0DAFQv3IpkjN/1e1areFCjhHXjouUuCdsmon/rmaYhxDxeWTGAg6oeM+QnWiASekxC7wi69gnfU7ZFUi8mG6bcJGJz+ELAPpljMIVxgzFwExZ214jII49xc72c2MgODku9eBqQYxKCPXdAZXNneIiEj8mNL6jYdfv1dLA0nSvaFWvGR1C23oCNI37vapWNKIAt8t0XIfnGjegOnLUqyptm7wMorf4J7hn/tpHbDTxIO7xQMuxfBIFfyj2qtzeH/3vbBSleYZciTkRTFQmwpDqnH+kXTiVZLVWKf9N2YStbGUNNop4JpcOaRCfSm92HyPgz+BDLDVS4jvdvb9a8W6SVZrXxmP3SbBEvOlWyvgekz12xHU8gdwWp0/P456IgDeYC1tmmf9ChYt6p+sNCEMB2orjxGxj34YFvVy8wIX6KmGSKsNFeoqgu+hJYSuE6NdtLkr1m78JfDrXLXg250ZGteeNTufKmdPDg41trkLDKzV/WA==;EITAbYt6eBMywxH6IFm63A=="

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Artificial intelligence dives into thousands of WW2 photographs"
-excerpt: "Artificial Intelligence (AI ... and the researchers wanted to demonstrate the advantages of using modern neural networks to analyse images to such an extent that the machine could automatically detect people and objects in a variety of scenes and even ..."
-publishedDateTime: 2020-10-28T14:54:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-10/au-aid102820.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-10/au-aid102820.php"
+excerpt: "In a new international cross disciplinary study, researchers from Aarhus University, Denmark and Tampere University, Finland have used artificial intelligence to analyse large amounts of historical photos from WW2."
+publishedDateTime: 2020-10-28T14:59:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-10/au-aid102820.php?fbclid=IwAR3MCWLzjCs9JHAEmDaF9DnqsTkKAtWogCIb8HDnnagM3yh-s6EM1Ddh4Y8"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-10/au-aid102820.php?fbclid=IwAR3MCWLzjCs9JHAEmDaF9DnqsTkKAtWogCIb8HDnnagM3yh-s6EM1Ddh4Y8"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 976
     isCached: true
 
-secured: "2ke0P+N0pt9ZUmdAYOZthVOb60IAwUqQsVxDwZ8Emqo9s8Qj7ZuJN/zXJv+j9qvfECoGhDCh3Gn3IiyS5UTD7kElC+saRHAa3QlWIRcQf8gfNarTSkLrdwQTxRurP2xh439ZMGIinISsx4tMiHkMwSDqBTtrQ6zghc0bZKfMI3dPDRxYutbDjGmyF9PFVSm1csMGnSbmZHy0Nw4ECeVEd+1hFO9jG/fGy67jSDXH6n1TmAz/wMGOlic+MK+PpocupTRTE/FmzLAW0tpQE+CjnJSzOhSzChTEU9ltM59F27uvxYkPFzfior4wbOBOKltqcykZL5Oafkej15niCKYivuEKa/NPwMkEN/hB0Rh1FnsSSiCy3oyUaGKQ0mmzpvbHLwq4+mmLU1v5zVQn+yuugHIMxc5gr/joqmCJSm1Cm8ujObLKbV0YegAFVojv4EfmB9U3ZMBR4+EcWdl/G619010p4dRt7F+TnYFjWPtDqVLWA5sgxWJxNnyCRDQkMfYGnujAJZB5u30x8di78tc+XA==;trw4rFtOwkUiaHpJMb/QjA=="
+secured: "VcNTHP6nEX7DMRvvjpORvaFK4L7Q9pexur8oaZ6fBzOgdokEIXVgqSYP1ZQzPPwd8VhzExgwrfUl+SVj9ZMI32XA6xrRTwI1e/SiwNmAwxNMcSz4iVGtSz4xqlQwktENIIzt28YffUzmbvF3odpGbPQ5xZjX8UbhCPSiov40raSPQ3wS+NRnHZI2sLKnGjOzO7SthYxXZH9ZyOXilKTwz5e10h8o2RxoYREE2gPN8qZbBSflLGDeSGLFlP8875cvJUG2ZNRiXx/UvcoD5lH7lXbOLgOr/KaqAhxC8AlPDU/qVgB/Xkk7MRIxSQdqQyJsfM2D+XXnlUSnZJySx0l8eACn7/JPz/Sh2vJGEdGLGnE=;d/RzSD/qobscHTh5dIyCRw=="
 ---
 

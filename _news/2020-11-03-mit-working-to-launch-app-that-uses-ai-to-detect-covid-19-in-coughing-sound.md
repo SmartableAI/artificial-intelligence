@@ -74,6 +74,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Intelligently connect to customers using machine learning in the COVID-19 pandemic"
+    excerpt: "The pandemic has changed how people interact, how we receive information, and how we get help. It has shifted much of what used to happen in-person to online. Many of our customers are using machine learning (ML) technology to facilitate that transition, from new remote cloud contact centers, to chatbots,"
+    publishedDateTime: 2020-11-05T23:42:17Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/intelligently-connect-to-customers-using-machine-learning-in-the-covid-19-pandemic/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 85
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
+        width: 1260
+        height: 630
+        isCached: true
   - title: "Artificial intelligence and covid-19: Can the machines save us?"
     excerpt: "The Stanford-trained data scientist did not have a particular hypothesis, but he was hoping the artificial intelligence would pinpoint ... existing racial gaps and other disparities in health care. One of the biggest challenges has been that much data ..."
     publishedDateTime: 2020-11-01T14:02:00Z
@@ -170,17 +184,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "MIT researchers develop AI to detect COVID-19 using cough recordings. An app could be on deck"
-    excerpt: "Initially, the researchers were using AI models to analyze recordings of forced coughs to ... SEE: Artificial intelligence is predicting coronavirus outbreaks before they start (TechRepublic) The researchers are attempting to incorporate the algorithm ..."
-    publishedDateTime: 2020-11-04T18:15:00Z
-    webUrl: "https://www.techrepublic.com/article/mit-researchers-develop-ai-to-detect-covid-19-using-cough-recordings-an-app-could-be-on-deck/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/mit-researchers-develop-ai-to-detect-covid-19-using-cough-recordings-an-app-could-be-on-deck/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/mit-researchers-develop-ai-to-detect-covid-19-using-cough-recordings-an-app-could-be-on-deck/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 56
   - title: "AI can detect if you have coronavirus by listening to the sound of your cough"
     excerpt: "Researchers have developed a new artificial intelligence (AI) system which they claim can detect coronavirus by analysing the sound of people coughing. Scientists at Massachusetts Institute of Technology (MIT) said the AI works because  the virus causes temporary neuromuscular impairment which can cause small differences to people’s speech or the sound of their cough - even if they have no other symptoms."
     publishedDateTime: 2020-11-02T08:51:00Z
@@ -196,6 +199,22 @@ related:
       - url: "https://www.telegraph.co.uk/content/dam/news/2020/10/28/TELEMMGLPICT000243084755_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg"
         width: 2501
         height: 1563
+        isCached: true
+  - title: "Artificial intelligence can detect asymptomatic COVID-19 coughs, MIT says. Here’s how"
+    excerpt: "Researchers say the AI could help prevent asymptomatic individuals from unknowingly spreading the virus to others."
+    publishedDateTime: 2020-11-05T22:14:00Z
+    webUrl: "https://www.miamiherald.com/news/coronavirus/article247000912.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/coronavirus/article247000912.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/coronavirus/article247000912.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 50
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998027001/6dbb1e03-d75b-4843-808d-d33469ba86b9/b6e3392c-4dec-46dc-b78f-ab267f2c02b7/1280x720/match/image.jpg"
+        width: 1280
+        height: 623
         isCached: true
   - title: "Machine learning helps hunt for COVID-19 therapies"
     excerpt: "Scientists have deployed a machine learning model to help drug developers on their most promising leads for attacking one of the SARS-CoV-2 virus' most compelling targets."
@@ -263,6 +282,22 @@ related:
       - url: "https://scitechdaily.com/images/COVID-19-Machine-Learning-Mental-Health.jpg"
         width: 1350
         height: 900
+        isCached: true
+  - title: "Artificial intelligence can detect asymptomatic COVID-19 coughs, MIT says. Here’s how | Charlotte Observer"
+    excerpt: "Researchers say the AI could help prevent asymptomatic individuals from unknowingly spreading the virus to others."
+    publishedDateTime: 2020-11-06T00:04:00Z
+    webUrl: "https://www.charlotteobserver.com/news/coronavirus/article247000912.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/coronavirus/article247000912.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/coronavirus/article247000912.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 39
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998027001/6dbb1e03-d75b-4843-808d-d33469ba86b9/b6e3392c-4dec-46dc-b78f-ab267f2c02b7/1280x720/match/image.jpg"
+        width: 1280
+        height: 623
         isCached: true
   - title: "MIT artificial intelligence model detects COVID-19 by sound of cough"
     excerpt: "The AI model for COVID-19 uses the same four biomarkers— vocal cord strength, sentiment, lung and respiratory performance and muscular degradation — as a similar model used to detect Alzheimer's. One of the biggest challenges with slowing the spread of COVID-19 is detecting it in people who never show any symptoms."

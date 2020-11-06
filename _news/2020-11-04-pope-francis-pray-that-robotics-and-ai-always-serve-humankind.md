@@ -9,7 +9,7 @@ ampWebUrl: "https://www.catholicnewsagency.com/amp/news/pope-francis-pray-that-r
 cdnAmpWebUrl: "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/pope-francis-pray-that-robots-and-ai-always-serve-humankind-79125"
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 375
     height: 250
     isCached: true
+
+related:
+  - title: "Artificial intelligence and humankind"
+    excerpt: "Sir, – Dr Pearse Keane is to be highly commended for his research (Kevin O’Sullivan, “Irish researcher develops AI to help prevent sight loss”, Science, November 4th). However, his statement that, “if something produces better outcomes . . . it should be irrelevant whether it’s a human or a machine or a fusion of the two that achieves that”, needs to be challenged. This type of thinking, in every field of human endeavour, will inevitably lead to the displacement of us humans, as progress is too closely linked to profit and we are just too costly and inefficient. People who care for other human beings need to look at the broader picture, the growing worldwide inequality, and devise algorithms and machines that incorporate inefficient but caring humans in the mix. Otherwise we won’t be able to afford their wonderful services. – Yours, etc,"
+    publishedDateTime: 2020-11-06T00:49:00Z
+    webUrl: "https://www.irishtimes.com/opinion/letters/artificial-intelligence-and-humankind-1.4401421"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 37
+    images:
+      - url: "https://www.irishtimes.com/polopoly_fs/1.3619339.1536160376!/image/image.jpg"
+        width: 1080
+        height: 564
+        isCached: true
 
 secured: "RLlHF00ZFJ4o4mcXRswmFXRHvaqXnHl9W7eBuHOaiOviyyCu9IMY3wx8Oi/0+C/ZbUaHAs7Uf42f1/4uQm65ua5NeBaX6bk+lYV6vROMX1Y05fNx4DrPuCbnQtPXZkgdcQHdoZZz6odzB34Li3IES/3G9gAVYyb27HjFVCjZ2cKLRFwbJh9WpBrRXXhkFjiChc6b3HPHOB/ngkW6RmQD+KBbytnzHLYqFmCik7UznJul1h6kX3kqX7Pf1QexAcg36D3E8GCpLJzIJO/F/qo7DXJ2GMbcaZsA6HZE2XMvZhf86fXeJhku0WqaG6YuZExR14iDmU2BDT1qgDtCCQIOFTsCNF44Zw5BJS+rR2h444WiZY57iK9eShhQM2yjLB26zqntn/XqdAuEl5NA7uDAtKEjnlgWlwZ7lOmyjQpmfBGCDzqZMgWgfqeQ4E86FiqyXRShG3kHMgrEADRgtUxCZY/sE8fwZbcVQxd3xC1hHYYu9w4qCXDXFVakCc32EEifBK80PaNCjcGjxOJH2FSAyQ==;ePvIz6qR/HY2lbDIT0zotQ=="
 ---

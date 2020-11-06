@@ -41,6 +41,20 @@ related:
         width: 598
         height: 578
         isCached: true
+  - title: "The Pope Video - November 2020 - Artificial Intelligence"
+    excerpt: "Do you know how much artificial intelligence is going to change your life? A lot? No. Much more than you can imagine, although it also depends on where you live. Driverless cars, robots in your home,"
+    publishedDateTime: 2020-11-05T22:06:00Z
+    webUrl: "https://www.indcatholicnews.com/news/40837"
+    type: article
+    provider:
+      name: Independent Catholic News
+      domain: indcatholicnews.com
+    quality: 39
+    images:
+      - url: "http://s3-eu-west-1.amazonaws.com/indcatholicnews/article-images/1604619763caiIq8fFvN4u0HDhZCkmYLeKlpVtGw.png"
+        width: 400
+        height: 251
+        isCached: true
 
 secured: "VJ/sA7R3wPaGLbceskhGxtZvKnkrkurhRZtVrJ9YPLaQaXTyw6oIxI7FJFGWHd5XvbJtfEGB01dx9jgwjewl9s7b01BXDlzavTvo3O3GggI6Rmg20oRVEPe7E0499LAXjP06cY2eb75gXKY7E9dACrqhDn49yhSPwkVB5pV6xJ7R0hQPvQ3n9QZYZz8a4LNDVuE2YlY1vlOe+XOb3PsTwroblYsBvRk7TTMUJM8Y0m1EclIajKDrOf1Yz/SsQG6gqlhA3hzFdS2o5pPRjNUnQbaYhBAahvA4YuLJCucsL4v76tTQTKNUcnj27S4zIdvd0s/u2ohebn/qZZZl/mPYVgh5vqiapTpnvKpQKzeNo6JlgMMO3YPNbMzeZ3OkoUBaCk4HURGGdwU17c2fiGl20+awjijUZcqpe0I8M10B7WI2iZYNOrF06/+DW9AuUb0ArNcjm3Mp9fTy8yljV0yL1D/35pubi4oQihwcXIevRehdzPmC8HdHl5albuIAf9XyeUWeEKKmuAAOaNMpyhgHlA==;CFcyLp/MsIimdFO8jsuzFw=="
 ---

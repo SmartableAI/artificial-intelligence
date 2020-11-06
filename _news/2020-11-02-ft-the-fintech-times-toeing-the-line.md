@@ -68,6 +68,17 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 41
+  - title: "BankOnUs launches app to support fintech firms"
+    excerpt: "BankOnUS, a leading financial services aggregator in the UAE, has launched a new generation technology-oriented app to enhance the customer engagement level and enable easy, reliable and cost-effective financial solutions to its customers."
+    publishedDateTime: 2020-11-05T23:44:00Z
+    webUrl: "https://www.zawya.com/mena/en/story/BankOnUs_launches_app_to_support_fintech_firms-SNG_189134285/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_189134285/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_189134285/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 39
   - title: "Top 10 Asian FinTech Startups You Need to Follow"
     excerpt: "Bowen Khong takes a look at 10 Asian Fintech Startups that you should be aware of they include Ant Group, Ping An Technology, Dr Wealth, Grab Pay, Razer Pay, Folio, Viva Republic, Policy Bazaar, HelloGold,"
     publishedDateTime: 2020-11-04T07:00:00Z

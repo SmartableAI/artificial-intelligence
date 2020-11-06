@@ -57,20 +57,6 @@ related:
         width: 865
         height: 471
         isCached: true
-  - title: "Using artificial intelligence can improve pregnant women's health"
-    excerpt: "Disorders such as congenital heart birth defects or macrosomia, gestational diabetes and preterm birth can be detected earlier when artificial intelligence is used. In the latter case, studies into cases involving artificial intelligence found a correlation between the number of pre-term births and the environmental pollution to which the pregnant women had been previously exposed."
-    publishedDateTime: 2020-11-04T16:19:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/uos-uai110420.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "AvTKb8bNjJ5yjYC4JbvcydZDiWoZ6EBt7+NDasJ5c4Cql4qq+Szr0ACnHJ2RUpy77bvIZe/xhkfdsQfjzajY5forX/f07b6uAv27pLfpLXypWOGPQ9ed98fNFNqblXXEPmOXrP+goTQyWRNrrZcWdvQI4Pn6suZSETg8h4oi1/a0dhZQFq78ERxSezCWRDutfkmz3mMiy/Kv2BQPyh354idEKO7SIeOQUFx8n0y6Z8xH6VQ5RKSdfCQ6rOmLMv+wODn2tVww5MAg0BCR4EfontmmKIZ8tV//gohvBI7W4lP6Hw3aDEhfbxBJhqrywQyl5I47b04rrybzm9nW9tyuxAncj9ORyB4B5Z6bLc4MHUKhcWZ7wMSk18Qetl+yr8sHBf9Kd+PMqEJdoc/Y1oleb/2LxnOEH6jRvat8wz1iWCJik2syx26vp8tfEQvL9TjgZUuLooBH4PghmVwxn4pMqZ813ucCPy5vYQnbu5gH+c0gCz3djRSxfhZOLS6ny0Ef+Rgi98EByixcoJunVTL+2w==;Zh8JNYn5plsUw41n+FZW9A=="
 ---

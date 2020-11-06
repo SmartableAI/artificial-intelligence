@@ -19,17 +19,17 @@ topics:
   - AI
 
 related:
-  - title: "Irish researcher develops AI to help prevent sight loss"
-    excerpt: "Irish ophthalmologist Dr Pearse Keane – based in Moorfields Hospital, London – has been the chief catalyst in developing AI software to detect 50 sight-threatening eye diseases. It operates by interpreting optical coherence tomography (OCT) scans of the back of the eye,"
-    publishedDateTime: 2020-11-04T08:16:00Z
-    webUrl: "https://www.irishtimes.com/life-and-style/health-family/irish-researcher-develops-ai-to-help-prevent-sight-loss-1.4392536"
+  - title: "Irish start-up raises $6.2m in drive to prevent road accidents"
+    excerpt: "An Irish start-up seeking to make accident prevention technology as ubiquitous as seat belts in vehicles has raised $6.2 million (€5.2 million) in a funding round. Provizio is the brainchild of Limerick man Barry Lunn,"
+    publishedDateTime: 2020-11-05T21:36:00Z
+    webUrl: "https://www.irishtimes.com/business/technology/irish-start-up-raises-6-2m-in-drive-to-prevent-road-accidents-1.4401060"
     type: article
     provider:
       name: The Irish Times
       domain: irishtimes.com
     quality: 39
     images:
-      - url: "https://www.irishtimes.com/image-creator/?id=1.4392535&origw=1440"
+      - url: "https://www.irishtimes.com/image-creator/?id=1.4401059&origw=1440"
         width: 1200
         height: 630
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/04/google-launches-document-ai-suite
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/04/google-launches-document-ai-suite-of-parsing-and-processing-tools-in-preview/amp/"
 type: article
 quality: 84
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://cdn.ttgtmedia.com/visuals/searchContentManagement/collaboration_technology/contentmanagement_article_002.jpg"
         width: 1200
         height: 400
-        isCached: true
-  - title: "Using Artificial Intelligence Improves Pregnant Women's Health"
-    excerpt: "Artificial intelligence technology can help to diagnose congenital disabilities, gestational diabetes, and preterm birth earlier in pregnant women, reports a new study."
-    publishedDateTime: 2020-11-05T05:21:00Z
-    webUrl: "https://www.medindia.net/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 59
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/less-than-6hours-of-sleep-during-pregnancy.jpg"
-        width: 1200
-        height: 1000
         isCached: true
   - title: "The Role of Artificial Intelligence in Web Development Process"
     excerpt: "In the digital era, web development is growing at an unprecedented rate. The intervention of Artificial intelligence-enabled sites is giving a whole personalized experience to users."

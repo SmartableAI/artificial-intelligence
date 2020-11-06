@@ -27,65 +27,46 @@ images:
     isCached: true
 
 related:
-  - title: "Google launches Document AI suite of parsing and processing tools in preview"
-    excerpt: "Google's new Document AI (DocAI) platform is a unified suite of tools for AI and machine learning-powered document processing."
-    publishedDateTime: 2020-11-04T19:20:00Z
-    webUrl: "https://venturebeat.com/2020/11/04/google-launches-document-ai-suite-of-parsing-and-processing-tools-in-preview/"
-    ampWebUrl: "https://venturebeat.com/2020/11/04/google-launches-document-ai-suite-of-parsing-and-processing-tools-in-preview/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/04/google-launches-document-ai-suite-of-parsing-and-processing-tools-in-preview/amp/"
+  - title: "Here’s how AI is helping cities improve traffic management"
+    excerpt: "This article was originally published by Federico Cheli on Cities Today, the leading news platform on urban mobility and innovation, reaching an international audience of city leaders. For the latest updates follow Cities Today on Twitter,"
+    publishedDateTime: 2020-11-04T00:00:00Z
+    webUrl: "https://thenextweb.com/shift/2020/11/04/heres-how-ai-is-helping-cities-improve-traffic-management-syndication/"
+    ampWebUrl: "https://thenextweb.com/shift/2020/11/04/heres-how-ai-is-helping-cities-improve-traffic-management-syndication/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/11/04/heres-how-ai-is-helping-cities-improve-traffic-management-syndication/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/google-cloud-e1594658562493.jpg?w=1200&strip=all"
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/image-13-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
+  - title: "How Artificial Intelligence is Enhancing Online Shopping"
+    excerpt: "Disruptive technology like artificial intelligence (AI) is definitely leaving an indelible mark amid a COVID-19 pandemic where social distancing measures are forcing more reliance on tech. The same can be said in the retail sector and as more consumers head online to do their shopping the retail industry is deploying AI to enhance the experience."
+    publishedDateTime: 2020-11-04T18:24:00Z
+    webUrl: "https://www.nasdaq.com/articles/how-artificial-intelligence-is-enhancing-online-shopping-2020-11-04"
+    ampWebUrl: "https://www.nasdaq.com/articles/how-artificial-intelligence-is-enhancing-online-shopping-2020-11-04?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-artificial-intelligence-is-enhancing-online-shopping-2020-11-04?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
+  - title: "Using artificial intelligence can improve pregnant women's health"
+    excerpt: "Disorders such as congenital heart birth defects or macrosomia, gestational diabetes and preterm birth can be detected earlier when artificial intelligence is used. In the latter case, studies into cases involving artificial intelligence found a correlation between the number of pre-term births and the environmental pollution to which the pregnant women had been previously exposed."
+    publishedDateTime: 2020-11-04T16:19:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/uos-uai110420.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 37
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
         width: 1200
-        height: 600
-        isCached: true
-  - title: "Using AI to automate business processes and create revenue streams"
-    excerpt: "We look at how a utility company in Australia is using AI to automate at scale, improve the planet and reshape the Australian energy market"
-    publishedDateTime: 2020-11-04T17:34:00Z
-    webUrl: "https://www.computerweekly.com/opinion/Using-AI-to-automate-business-processes-and-create-revenue-streams"
-    ampWebUrl: "https://www.computerweekly.com/opinion/Using-AI-to-automate-business-processes-and-create-revenue-streams?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/Using-AI-to-automate-business-processes-and-create-revenue-streams?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 59
-    images:
-      - url: "https://cdn.ttgtmedia.com/visuals/searchContentManagement/collaboration_technology/contentmanagement_article_002.jpg"
-        width: 1200
-        height: 400
-        isCached: true
-  - title: "The Role of Artificial Intelligence in Web Development Process"
-    excerpt: "In the digital era, web development is growing at an unprecedented rate. The intervention of Artificial intelligence-enabled sites is giving a whole personalized experience to users."
-    publishedDateTime: 2020-11-05T09:10:00Z
-    webUrl: "https://www.analyticsinsight.net/the-role-of-artificial-intelligence-in-web-development-process/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 41
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "In-Memory Computing May Solve the AI Memory Balancing Act of Volume, Speed, and Processing"
-    excerpt: "Designing memory architectures for AI/ML devices may feel like an impassable compromise with storage volume, speed, and processing. A new in-memory computing accelerator may be a useful solution."
-    publishedDateTime: 2020-11-03T18:42:00Z
-    webUrl: "https://www.allaboutcircuits.com/news/in-memory-computing-solve-ai-memory-balancing-act-volume-speed-processing/"
-    type: article
-    provider:
-      name: All About Circuits
-      domain: allaboutcircuits.com
-    quality: 29
-    images:
-      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/The_new%C2%A0tsunAImi_accelerator.jpg"
-        width: 700
-        height: 350
+        height: 675
         isCached: true
 
 secured: "kv5pUn5XAyhISUgS8Yy4K11cTlvc/do97ziQCsZe3OeR/NkF9+eyfsutNHiLMCr+TcZM8OyBDavR/hl1L2lHKng5BSTER+NDGi6LmhPkPJLMTmnniHPN7WqdFVn21kSM5s46+R3g8nZ2yMvaZLS6/hSxlk6HXQuUkUjx23uFVKIAm+n4Hc0UP/goMKY/OFaNVZYWHdlOAYECb8hIGmPZM4IQ0mHt2Or39+QXkBvzVgBF6+4HX6hkxUwZKKBHdUKryxoEeGltmZz+6Se2HxXmeJkQKnMSgkrBq9eka4bwIkZy1khcpdXde5ECVb9K0zWHF9Gc0L85/MIrWQFRnCfSL1DkS0EHCWxtR5jDQo8doXDmX6YPFlJ6hrgCOPjGeoEtcsu5wWAkWGyMarfnwK+U1cqQ8Qdxd0APqV3ALf/FqDEu3yGQL4GopXSajEQpAltxf+YKlBJYuHwbrcAS/aP8XpKdJWrQORP6vvf7P/hgW6+r2W1EdVaixRLLGADQYz5QDSmZUtoqB6a/Cy8AEs9H3w==;JDt8TsRc/ot1iByvAG6Xig=="

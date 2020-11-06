@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ip
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/amp/"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -58,6 +58,17 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 41
+  - title: "BankOnUs launches app to support fintech firms"
+    excerpt: "BankOnUS, a leading financial services aggregator in the UAE, has launched a new generation technology-oriented app to enhance the customer engagement level and enable easy, reliable and cost-effective financial solutions to its customers."
+    publishedDateTime: 2020-11-05T23:44:00Z
+    webUrl: "https://www.zawya.com/mena/en/story/BankOnUs_launches_app_to_support_fintech_firms-SNG_189134285/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_189134285/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_189134285/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 39
   - title: "F|T: The FinTech Times – Toeing the line"
     excerpt: "a weekly newsletter covering the biggest FinTech news from around the globe. If you want to read F|T before anyone else, make sure to subscribe using the form at the bottom of this page. Wealthsimple has tapped Paul Teshima, the co-founder of Nudge.ai, to ..."
     publishedDateTime: 2020-11-02T10:59:00Z

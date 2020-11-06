@@ -7,7 +7,7 @@ originalUrl: "https://elearning.adobe.com/2020/11/ways-artificial-intelligence-c
 webUrl: "https://elearning.adobe.com/2020/11/ways-artificial-intelligence-changing-learning-development/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,17 @@ images:
     width: 2560
     height: 1707
     isCached: true
+
+related:
+  - title: "How leveraging AI and machine learning can give startups a competitive edge"
+    excerpt: "While AI and machine learning are changing the way businesses operate, startups may still struggle to leverage them effectively, with challenges such as cost and a lack of talent among the chief concerns."
+    publishedDateTime: 2020-11-05T02:19:00Z
+    webUrl: "https://www.techinasia.com/leveraging-ai-machine-learning-give-startups-competitive-edge"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 66
 
 secured: "Tx7TGsk0dftLPSkxD1sA0kYwsA7MczWx4caZ0c78Eo4jlrFaxOX03DeBnt7kQcWGotU3+T1X7+U2N8Lq+M5cAE94lCA91RoMgZTBx1Ko+8pYCbIKqD5sS8NCKBrbv+/rwDyj16imS6hGH0QIuB5RoUDT4T8Sxa6mMd6YEcghhG/H7x3MEGSV0Pc4htFrSy3V/Y9K/32W8rpounaN8f/h5+X9GUi1wqEphG/1lE3SBvbJQkhCLxBVO2T8OiVXs9SXUTU1tAoingjrtGkU/2BThHgfZcgN8O5EfKFTV/XP+djw5RT9M31m3QVHJpO7bk/67rs3CYlloL903s3iKSqwu/mQOXD6MXBeGY2f/Koq4bcNrzEHchnU31RCF4T/FgPz7oohXK7JQSSRKc8H0NsQCikTEkzrtnTilzmrW/EpH+47UuxWcKak1llDTkROP5MzcXBVNZlQt8ONgoUmOWek7Eyk6sYZXZhtZPGsu7zzJ/ocsmNHx5uUizwhvNRm+s2JK7sEHKKkt1/ZBgpRxDGhxQ==;goqJ0tWmcG+W9w6pDtW4nQ=="
 ---
