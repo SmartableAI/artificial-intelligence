@@ -40,6 +40,6 @@ related:
       domain: forbes.com
     quality: 36
 
-secured: "wh3uHy8RzDoLeeVifag3uJVRz3SwI5f3Bhgyh6mvQrPkO1uIdIHa49pqZe6lNMEj8JTycmCXiVOiVbXmIRM85Ce5NP0h3O1F1PNnc2PZKf/BUlosURS/dGvHIr7jOtzulMZIeYPeV0r+scPAsUCXw0r7z6VNtJUG0V8ksCGkj98oT8/TarkfVzkaQZ22mjRxJlBwSsIAEmLTalJ1a/7OHsN2+6p/1gc3E64uKiLksv+Senhh7wHqQavW3LLPHEr9y7iFspRpbRo4k9gfzdsWji6lxu3mL8SgGWnrt4diwEhXmkY2RTdWI5SWvpJVYMqxqXMjRDQ98LUz+ZjG53jWQoBXzDBmxDppVql+VvVQFeg=;7TuxVqvIdymJmw8sEJJFMw=="
+secured: "iEIrHFsDwdBtJkHaVgNJL+f4O/hB8qr5Slr+n+ZzrHRD3i1hezgKmxxtZjdmg6HQ6MSccnHeYahzUs03fZdgsVJ6URssPAJ+hY9H0NXY6XDQF9BRYyD2contnTl8ELbcFXRI+ZKx2a3sIvwLNLxbf70b2Zb7/3khy4GfJwvd6+f+MimCeINgWiA5wFTQJfExHaS/Baxrdul+ZRSeyfbuv6QgS+/sSp/8h5FFaz0Q0cK2p5TBj/NtjRX4MR/K7BnCumirvH3dnn1VCtIY3mSQBOwHPztrmWDZvr2rHSbWb63EiBu3N2meyLwo43EYqRUKnDC0Xov1lawvG7i3X5rdYc5Leq2vQtxre4/SmvvLYj4=;hNWcwHmwfOUfMWrFJwCDjw=="
 ---
 
