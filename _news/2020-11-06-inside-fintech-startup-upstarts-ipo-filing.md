@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ip
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/amp/"
 type: article
 quality: 74
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -135,6 +135,20 @@ related:
       - url: "https://www.insidermedia.com/uploads/event/logos/logo_5G_and_the_superconnected_city.jpg"
         width: 693
         height: 400
+        isCached: true
+  - title: "LexinFintech Unveils Strategy to Further Tap Chinese Consumer Market at Hong Kong Fintech Week 2020"
+    excerpt: "LexinFintech Holdings Ltd. (\"Lexin\" or the \"Company\") (NASDAQ: LX), a leading online consumption and consumer finance platform for educated young professionals in"
+    publishedDateTime: 2020-11-06T14:03:00Z
+    webUrl: "https://omaha.com/business/consumer/lexinfintech-unveils-strategy-to-further-tap-chinese-consumer-market-at-hong-kong-fintech-week-2020/article_bd7f3676-060e-593e-b74b-f54c1fd8ab29.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 10
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Crowdsourcing startup wins FinTech Frontier pitch competition"
     excerpt: "A Pittsburgh-based startup won FinTech Frontier’s inaugural pitch competition, and here's what the company had to say about Cincinnati."

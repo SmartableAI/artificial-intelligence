@@ -9,8 +9,8 @@ ampWebUrl: "https://www.marinij.com/2020/11/04/sf-de-young-exhibit-explores-bein
 cdnAmpWebUrl: "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2020/11/04/sf-de-young-exhibit-explores-being-human-in-the-age-of-ai-2/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Marin Independent Journal
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence on the edge"
+    excerpt: "WSU researchers have developed a novel framework to more efficiently use AI algorithms on mobile platforms and other portable devices."
+    publishedDateTime: 2020-11-06T13:00:00Z
+    webUrl: "https://news.wsu.edu/2020/11/06/artificial-intelligence-edge/"
+    type: article
+    provider:
+      name: Washington State University News
+      domain: wsu.edu
+    quality: 41
+    images:
+      - url: "https://s3.wp.wsu.edu/uploads/sites/609/2020/11/agdrone.jpg"
+        width: 1188
+        height: 792
+        isCached: true
   - title: "Explore the list of top AI research labs leading R&D in the field of AI."
     excerpt: "Artificial intelligence provides automated, assisted, and augmented intelligence. Innovations in AI in recent years have come out of the research lab into the mainstream, helping organizations to deliver superior decision making."
     publishedDateTime: 2020-11-06T08:23:00Z

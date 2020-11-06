@@ -40,6 +40,22 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Tech News: Artificial Intelligence and the human brain"
+    excerpt: "Humans have always dreamt of soaring the sky and since prehistoric times often attempted to fly by mimicking birds."
+    publishedDateTime: 2020-11-06T13:05:00Z
+    webUrl: "https://www.iol.co.za/business-report/opinion/tech-news-artificial-intelligence-and-the-human-brain-bbe190b8-44e2-4bf4-8b89-1049edc80088"
+    ampWebUrl: "https://www.iol.co.za/amp/business-report/opinion/tech-news-artificial-intelligence-and-the-human-brain-bbe190b8-44e2-4bf4-8b89-1049edc80088"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/opinion/tech-news-artificial-intelligence-and-the-human-brain-bbe190b8-44e2-4bf4-8b89-1049edc80088"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 74
+    images:
+      - url: "https://image-prod.iol.co.za/resize/3000x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/c979716c-7fdb-59fb-997e-bbbc8c0e5fc7&operation=CROP&offset=2x0&resize=2996x1685"
+        width: 651
+        height: 366
+        isCached: true
   - title: "Pope Francis prays for good AI"
     excerpt: "Hoping to convert it later The head of Roman Catholic church has asked his invisible friend to make sure that AI is good for humans. Pope Francis must be hoping that AI does better at organising humanity than organised religion managed and might look after kiddies better than the Roman Catholic"
     publishedDateTime: 2020-11-06T11:36:00Z

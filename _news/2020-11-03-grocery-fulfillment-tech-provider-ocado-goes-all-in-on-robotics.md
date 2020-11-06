@@ -9,8 +9,8 @@ ampWebUrl: "https://retailtouchpoints.com/features/mergers-and-acquisitions/groc
 cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/features/mergers-and-acquisitions/grocery-fulfillment-tech-provider-ocado-goes-all-in-on-robotics/amp"
 type: article
 quality: 74
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: Retail TouchPoints
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Ocado snaps up robot tech firms as profits soar"
-    excerpt: "It said its tie-up with Marks & Spencer had got off to a strong start and it is buying Kindred Systems Inc, for $262million, and Haddington Dynamics for $25million to add more robot technology to its warehouses."
-    publishedDateTime: 2020-11-02T07:47:00Z
-    webUrl: "https://www.standard.co.uk/business/business-news/ocado-announces-profit-upgrade-kindred-hanndington-b39432.html"
+  - title: "Amazon’s Robotics Deals Have Paid Off, And One Investor Thinks Ocado’s May As Well."
+    excerpt: "In these and other applications, embracing robotics and AI is cost-effective, safer, autonomous (as the technology works continuously in the background once switched on), limits human errors, and its marginal costs are minimal,"
+    publishedDateTime: 2020-11-06T11:27:00Z
+    webUrl: "https://www.barrons.com/articles/amazons-robotics-deals-have-paid-off-and-one-investor-thinks-ocados-may-as-well-51604669249?refsec=europe"
+    ampWebUrl: "https://www.barrons.com/amp/articles/amazons-robotics-deals-have-paid-off-and-one-investor-thinks-ocados-may-as-well-51604669249"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/amazons-robotics-deals-have-paid-off-and-one-investor-thinks-ocados-may-as-well-51604669249"
     type: article
     provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 39
+      name: Barron's
+      domain: barrons.com
+    quality: 83
     images:
-      - url: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2017/03/14/12/ocado-warehouse.jpg"
-        width: 2500
-        height: 1666
+      - url: "https://images.barrons.com/im-256173/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "vviuseOq3JC9ZbWk6v6FMpe9V3gn8F7zTNMGC/r3O8+ZDcUP8G917TOPNBNqwLTRybDwatmGIttiOceXT27PD3X99EVIvhY0bOTxfs04CbgQKrQP+hsQ2/jVwRbWKSRzomGk/NFijtIzqE1MG7daUK/fV2Lx+w6l6/mkrihtRx5l+dQbBFBSLc/YdSYHIyRXRJZUz48Tt40RbkhImJLhsZgn6WTnUc/432y3RcYE5D0e9vT/EdWQE9fa9oiDUH+gNXaDGDVuNBAgwfdz+WM5oAdCDPzKC5+jYUXHjRiRqrEtDyCXbwVOF77TbT+3/olYCsDlNlfB9DAikCY6FnSAQv43NRHQ0xBSobarrvi6FwYj6X6bDiS31Uzd3tyNKcDb4eLC482jMlzulcMkF8N+mlWmp4CU0VZyCULSNFgST/F9SLZ+fIPPZCLosU+G6q3gTUHGLVFHnTwQ3oX3O4TObHLGP6jj+Sk9OX8zT1raYNbj3XNB6aqOKo5HOdCV3s3zT+WbiG+syX8TnOhRCgStCA==;MB07vyguZEj/wHg5sLaYKA=="

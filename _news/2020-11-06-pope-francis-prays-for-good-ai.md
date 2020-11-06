@@ -41,6 +41,22 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Tech News: Artificial Intelligence and the human brain"
+    excerpt: "Humans have always dreamt of soaring the sky and since prehistoric times often attempted to fly by mimicking birds."
+    publishedDateTime: 2020-11-06T13:05:00Z
+    webUrl: "https://www.iol.co.za/business-report/opinion/tech-news-artificial-intelligence-and-the-human-brain-bbe190b8-44e2-4bf4-8b89-1049edc80088"
+    ampWebUrl: "https://www.iol.co.za/amp/business-report/opinion/tech-news-artificial-intelligence-and-the-human-brain-bbe190b8-44e2-4bf4-8b89-1049edc80088"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/opinion/tech-news-artificial-intelligence-and-the-human-brain-bbe190b8-44e2-4bf4-8b89-1049edc80088"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 74
+    images:
+      - url: "https://image-prod.iol.co.za/resize/3000x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/c979716c-7fdb-59fb-997e-bbbc8c0e5fc7&operation=CROP&offset=2x0&resize=2996x1685"
+        width: 651
+        height: 366
+        isCached: true
   - title: "Artificial intelligence and humankind"
     excerpt: "Sir, – Dr Pearse Keane is to be highly commended for his research (Kevin O’Sullivan, “Irish researcher develops AI to help prevent sight loss”, Science, November 4th). However, his statement that, “if something produces better outcomes . . . it should be irrelevant whether it’s a human or a machine or a fusion of the two that achieves that”, needs to be challenged. This type of thinking, in every field of human endeavour, will inevitably lead to the displacement of us humans, as progress is too closely linked to profit and we are just too costly and inefficient. People who care for other human beings need to look at the broader picture, the growing worldwide inequality, and devise algorithms and machines that incorporate inefficient but caring humans in the mix. Otherwise we won’t be able to afford their wonderful services. – Yours, etc,"
     publishedDateTime: 2020-11-06T00:49:00Z
@@ -56,6 +72,6 @@ related:
         height: 564
         isCached: true
 
-secured: "6SdUi7IcwrQ6gdYUWcVaGtNiBxR+izwIxHBOjHfz3Ju+y9n5+zZNNhWvBJQEyTg0lgTSekASEAVuqn4xXzUlvY9nkrivNe6+Ig+73BhWOzB19Bw3rdTEwY6aPejKSI9uyux5WamLHQO/GaVD10RbgTGa/GXAk4zuoRv1P/JOpyBZmeMooz/Z8xwCpmHSHWyXjNBF0L29lW5Jv3XDUCCm9RZaZ5bY3b3AoF2c28A7DyXC6vTsQYg255azp5Vs8HtWYBm6wlYzih3pfCrG4UjnoTKjGWW7h0Xvl9fVdzJt+je/vxSweWQDQK3wNJnEJrR3s/bi6esm8CXOiG/Ns/eaaugxa/4SxzV6sApalJFXc2A=;C3aGMU2wbxB3vavpkTZrjg=="
+secured: "oh87RpwWGU4yDP6PoQAWFZAZFIeBucboPDdDyBmZIC2lB/D6I7hXeRjnmaxDeEcZKvk35At6fx53PvbUFZrffqkTjlFOKXdtJjXNspU7bLaFRnzZcaUzf1vNGJp2OQDC3pmTR64IHvjLdZWqGjFTmTlodDUpESFcgHHbDnlhaguqztxbL3WMgX4AtWW5XG93kT/CotaepJAe8fYKPdLDVlPPGxDfLGzutC8iSEJp3uOcfPUZdddjtB+qYeQ849JcVrfXFzZ21xZKlfLIGSBdy4MMY+0GQAzAG3ZIHTBVryW5/k0FOJnnFukzcQF/KDX+KdC0OUccgQdZKtPb6FUWC3ZEMt4R7XrVPD+cJycbkDrxFW8XP9YTpO80anOMJrVB5t1lrKBCjW8A2oQFYjBkx6+gZq3zaMwbK3h+aAoRlRISTmfJBo3g4+Llc5qu2VpSaKlBJ5ZD35lcDLFq2tL5vPeYPUUTWru1MmQBVsZlQ83JAYbL/F26IOtVEMfYGbKRgDy3we9KeGvVyV0uJkdebA==;L/oqAURdgtkNbEvfoqt34A=="
 ---
 

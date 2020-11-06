@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Brainome Launches Solution To Course Correct Machine Learning With A Fundamentally Different,"
-excerpt: "Brainome, the company behind the first-ever measure-before-build tool for machine learning, today launched its product, Daimensions™, for the enterprise market. By introducing measurement as a structured discipline to the field,"
-publishedDateTime: 2020-11-04T14:00:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/business-science-corporate-news-products-and-services-new-products-and-services-c117c6246fb041931060326fd546e084"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-science-corporate-news-products-and-services-new-products-and-services-c117c6246fb041931060326fd546e084"
+excerpt: "Brainome, the company behind the first-ever measure-before-build tool for machine learning, today launched its product, Daimensions™, for the enterprise market. By introducing"
+publishedDateTime: 2020-11-04T08:00:00Z
+originalUrl: "https://omaha.com/business/consumer/brainome-launches-solution-to-course-correct-machine-learning-with-a-fundamentally-different/article_e27133d9-94fc-5391-ab27-176b40ede03e.html"
+webUrl: "https://omaha.com/business/consumer/brainome-launches-solution-to-course-correct-machine-learning-with-a-fundamentally-different/article_e27133d9-94fc-5391-ab27-176b40ede03e.html"
 type: article
 quality: 43
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -51,6 +51,6 @@ related:
         height: 337
         isCached: true
 
-secured: "V3ztRrFx5eb5a2MOnH0glAz6fm/GKYuBTV7agBYosEi6B18Rdt1tSbcACYMovrz0Zu7xlOkPb4eSMMP/tbsikckoFz0Drvg0q60452T2mymZ66papCOvJQ4BteWaVUxGEYwOd6R2gJppEewWPRkOEVeFAQ+lqzD2Vv4Qi4Pc1SccOx7VzaBTwDbKHAjg19dIXqb8epMBm6Wo+2cQhC4dSWZX2p6Yv/OU8ZF6LU0si74O1bl4rUfL9Y9mOMKpivGX29kB2sZb0GJvjVS9S0BalayF6O4ajQBzO5kHg4+A4mV5ahevtHyt+rPGEl+LNRtJB8ewBJUPnnG98mT0g8re8uIA/5SaQ74dIe1ZxwYevL4=;CE4849doAyinVEQdLQ8V+Q=="
+secured: "n7LR1QWw+Am/5Oxl1Vs30Wa1grqbG2VPczyzFa6X+uaKHlwxaXEMiOq9dL3fV4EyW7PhVjAad0xt23KQmv8nhXYp/+Y9hOJu5hzBM3VeJIcCiXc+eOf7q1HTnHEot6rH8988NChaNyawc9u4q33OHBu+IN1Wy+ohtZCtgchaUq7Rbd2f8ImdZPtMRvS1sNpJ6o144D+eA77EYIUe3o01BS2WBw6essePLgQ0T03eOYs4hTQt9sZobjB+M+fe+iUH88kPQJ/HExCZ05U72QpVLMPXCpKZu52Y2htOP5dKZFti2DAamVgmb8rlQuHmGg+t7y9yjtXvrx6v5vFmY5u+p8oWbebyo9XFDpMT+djQ7MQ=;uw+6KAWOvydgAVwHgHI39A=="
 ---
 

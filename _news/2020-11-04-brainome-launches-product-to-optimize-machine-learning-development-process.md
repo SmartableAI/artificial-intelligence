@@ -40,18 +40,18 @@ related:
         height: 337
         isCached: true
   - title: "Brainome Launches Solution To Course Correct Machine Learning With A Fundamentally Different,"
-    excerpt: "Brainome, the company behind the first-ever measure-before-build tool for machine learning, today launched its product, Daimensions™, for the enterprise market. By introducing measurement as a structured discipline to the field,"
-    publishedDateTime: 2020-11-04T14:00:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-science-corporate-news-products-and-services-new-products-and-services-c117c6246fb041931060326fd546e084"
+    excerpt: "Brainome, the company behind the first-ever measure-before-build tool for machine learning, today launched its product, Daimensions™, for the enterprise market. By introducing"
+    publishedDateTime: 2020-11-04T08:00:00Z
+    webUrl: "https://omaha.com/business/consumer/brainome-launches-solution-to-course-correct-machine-learning-with-a-fundamentally-different/article_e27133d9-94fc-5391-ab27-176b40ede03e.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Omaha.com
+      domain: omaha.com
     quality: 43
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "xMAIfu8TjZ+p26J/gG/8uOjG9ZuGzcpNFAee6twF15m2nBh+Qxi+CwPK8udc0qHxlaEEwn745fRsV1K9vYWy9/Fx+uLbc3CTO6XvfkOUuqJn1tlmJCw2YsNxIH6qQ+H1KiQgc/IitTBBq1YjdjwYDqtdWOROJrr4KvbrwOq/e70iDQjDJ5mC/wD1ucBh0HAPt2hHwPxgqXxg+wynP2mx/vUDwAxfu6Kqz3dfyMkUbi/8d2mmjkcE6l3rS96ydaTPLbFSKqHeH/q3Le3JGSq2x1MnT5a9mq19Glm/77/nOCDOp6l4UEptdvFbJIVqH6v/not2WDKPw5QmTa4c4iENKMY3XGMkq34AjDKp44uDyP/8IjpkVsHXAm45yhQQyrmylMv5i1kBTTgVai7ECtJbvLlyPoDo5MnBh9eKQNjFvG6/5+FRUClsTe/aWZUH00vz+TR2M59P+zjD6W9Ks0k+p90MAhDG+2lu87jDJsGa1ypaPPJf97pUMGnynWgnY1rfl19MQII8eHZFwJ1oyJ4Paw==;v9ekqoqnj/8tLQKDqxAwYA=="
