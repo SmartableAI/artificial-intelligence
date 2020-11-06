@@ -71,10 +71,10 @@ related:
     quality: 59
   - title: "How machine learning and 4D analytics can protect Australians from financial fraud"
     excerpt: "While COVID-19 is changing the face of reality on a global scale, it is also bringing many Australians unprecedented financial struggles. Unfortunately, we are also seeing a rise in financial crimes and identity theft as scammers target Australian families,"
-    publishedDateTime: 2020-11-05T03:04:00Z
-    webUrl: "https://dynamicbusiness.com.au/topics/news/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html"
-    ampWebUrl: "https://dynamicbusiness.com.au/topics/news/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html?amp"
-    cdnAmpWebUrl: "https://dynamicbusiness-com-au.cdn.ampproject.org/c/s/dynamicbusiness.com.au/topics/news/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html?amp"
+    publishedDateTime: 2020-11-05T04:32:00Z
+    webUrl: "https://dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html"
+    ampWebUrl: "https://dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html?amp"
+    cdnAmpWebUrl: "https://dynamicbusiness-com-au.cdn.ampproject.org/c/s/dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html?amp"
     type: article
     provider:
       name: Dynamic Business

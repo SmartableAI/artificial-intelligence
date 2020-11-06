@@ -2,49 +2,6 @@
   "page": 20,
   "value": [
     {
-      "path": "_news/2020-10-20-jake-tapper-pushes-back-when-lara-trump-insists-biden-has-cognitive-decline.md",
-      "title": "Jake Tapper Pushes Back When Lara Trump Insists Biden Has 'Cognitive Decline'",
-      "excerpt": "CNN's Jake Tapper cut short an interview with President Donald Trump's daughter-in-law and campaign adviser, Lara Trump, after she claimed that Democratic nominee Joe Biden suffers from cognitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://people.com/politics/jake-tapper-lara-trump-interview-joe-biden-decline/",
-      "originalUrl": "https://people.com/politics/jake-tapper-lara-trump-interview-joe-biden-decline/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F10%2F19%2Ftapper-trump.jpg",
-          "width": 1500,
-          "height": 781,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://people.com/politics/jake-tapper-lara-trump-interview-joe-biden-decline/?amp=true",
-      "cdnAmpWebUrl": "https://people-com.cdn.ampproject.org/c/s/people.com/politics/jake-tapper-lara-trump-interview-joe-biden-decline/?amp=true",
-      "publishedDateTime": "2020-10-19T12:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "People",
-        "domain": "people.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-20-android-studio-41-includes-new-database-inspector-integrated-emulator-tensorflow-lite-bindings.md",
       "title": "Android Studio 4.1 Includes New Database Inspector, Integrated Emulator, TensorFlow Lite Bindings",
       "excerpt": "The latest version of Android official IDE, Android Studio 4.1, is now stable. Besides introducing a new database inspector, integrated emulator, and better TensorFlow Lite support, it improves integration with Dagger and fixes over 2,",
@@ -1185,6 +1142,60 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-artificial-intelligence-and-africa-the-case-for-investing-in-african-telecoms.md",
+      "title": "Artificial Intelligence And Africa: The Case For Investing In African Telecoms",
+      "excerpt": "It is imperative that Africa quickly develop agency in data and artificial intelligence and it will be lucrative for investors who support them by financing Africa’s telecom and data backbone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/franklinamoo/2020/10/19/artificial-intelligence-and-africa-the-case-for-investing-in-african-telecoms/",
+      "originalUrl": "https://www.forbes.com/sites/franklinamoo/2020/10/19/artificial-intelligence-and-africa-the-case-for-investing-in-african-telecoms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8d4bc46738826921f51465%2F0x0.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/franklinamoo/2020/10/19/artificial-intelligence-and-africa-the-case-for-investing-in-african-telecoms/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/franklinamoo/2020/10/19/artificial-intelligence-and-africa-the-case-for-investing-in-african-telecoms/amp/",
+      "publishedDateTime": "2020-10-19T01:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "AI in Autos",
+        "AI in Robotics"
       ]
     }
   ],

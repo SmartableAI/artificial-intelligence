@@ -7,7 +7,7 @@ originalUrl: "https://www.information-age.com/vodafone-horiba-mira-bring-5g-driv
 webUrl: "https://www.information-age.com/vodafone-horiba-mira-bring-5g-driverless-cars-123492503/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,31 +25,54 @@ images:
     isCached: true
 
 related:
-  - title: "Driverless Cars Go Humble to Get Real"
-    excerpt: "Recent developments point to promise for driverless car technology, if we stay realistic. This article is part of the On Tech newsletter. You can sign up here to receive it weekdays. The dream of computer-driven cars taking over the roads remains a fantasy."
-    publishedDateTime: 2020-11-02T14:42:00Z
-    webUrl: "https://www.nytimes.com/2020/10/26/technology/driverless-cars.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/26/technology/driverless-cars.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/26/technology/driverless-cars.amp.html"
+  - title: "Horiba Mira partners with Vodafone on automotive 5G"
+    excerpt: "which already includes unrivalled expertise in the rising cybersecurity threats facing driverless technologies as well as the use of artificial intelligence in Unmanned Ground Vehicles in the defence sector. According to a statement, the ultrafast data ..."
+    publishedDateTime: 2020-11-02T10:36:52Z
+    webUrl: "https://www.theengineer.co.uk/horiba-mira-partners-with-vodafone-on-automotive-5g/"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 89
+      name: The Engineer
+      domain: theengineer.co.uk
+    quality: 24
     images:
-      - url: "https://static01.nyt.com/images/2020/10/26/business/26ontech/26ontech-facebookJumbo.png"
-        width: 1050
-        height: 550
+      - url: "https://theengineer.markallengroup.com/production/2020/11/HORIBA-MIRA-Vodafone-Partnership-997x500.jpg"
+        width: 997
+        height: 500
         isCached: true
-  - title: "Who’s responsible when a driverless car has an accident?"
-    excerpt: "Who’s responsible for an accident needs to be considered now rather than when we’re scrambling to implement laws We haven’t reached the point where driverless vehicles ply our roadways. However, as a recent incident on an Alberta highway demonstrates,"
-    publishedDateTime: 2020-11-02T12:58:00Z
-    webUrl: "https://troymedia.com/drive/whos-responsible-when-a-driverless-car-has-an-accident/"
+  - title: "Horiba Mira accelerates autonomous vehicles with Vodafone 4G and 5G"
+    excerpt: "Expert in engineering driverless technologies Horiba Mira partners with mobile network operator Vodafone to bring 5G to its Nuneaton headquarters with a private mobile network designed to allow vehicles to communicate with each other and surrounding infrastructure,"
+    publishedDateTime: 2020-11-03T17:44:00Z
+    webUrl: "https://www.computerweekly.com/news/252491539/Horiba-Mira-accelerates-autonomous-vehicles-with-Vodafone-4G-5G"
+    ampWebUrl: "https://www.computerweekly.com/news/252491539/Horiba-Mira-accelerates-autonomous-vehicles-with-Vodafone-4G-5G?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252491539/Horiba-Mira-accelerates-autonomous-vehicles-with-Vodafone-4G-5G?amp=1"
     type: article
     provider:
-      name: Troy Media
-      domain: troymedia.com
-    quality: 19
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 24
+  - title: "Self-Driving Boost as Automotive Powerhouse teams up with Vodafone to deploy 5G at Midlands headquarters"
+    excerpt: "In a welcome boost for Britain’s self-driving revolution, automotive powerhouse HORIBA MIRA is teaming up with Vodafone to bring 5G to its Midlands headquarters. Home to one of the world’s most advanced set of facilities for engineering self-driving vehicles,"
+    publishedDateTime: 2020-11-02T17:42:00Z
+    webUrl: "https://www.totaltele.com/507744/Self-Driving-Boost-as-Automotive-Powerhouse-teams-up-with-Vodafone-to-deploy-5G-at-Midlands-headquarters"
+    type: article
+    provider:
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 7
+    images:
+      - url: "https://www.totaltele.com/res/image/articleimages/5g-icon-hpe.png"
+        width: 576
+        height: 583
+        isCached: true
+  - title: "HORIBA MIRA: Self-driving boost as automotive powerhouse teams up with Vodafone to deploy 5G at Midlands headquarters"
+    excerpt: "In a welcome boost for Britain’s self-driving revolution, automotive powerhouse HORIBA MIRA is teaming up with Vodafone to bring 5G to its Midlands headquarters. Home to one of the world’s most advanced set of facilities for engineering self-driving vehicles,"
+    publishedDateTime: 2020-11-02T13:06:00Z
+    webUrl: "https://www.automotiveworld.com/news-releases/horiba-mira-self-driving-boost-as-automotive-powerhouse-teams-up-with-vodafone-to-deploy-5g-at-midlands-headquarters/"
+    type: article
+    provider:
+      name: Automotive World
+      domain: automotiveworld.com
+    quality: 0
 
 secured: "mUDO7mqPhv3lzYoxZ8ULLImTwJcNu40fuOTGFj5POODEBqdzIEU1LxxEL+jXqOBNhTMSJfdJGxmh3WBww5DdrPonlrnDHNj+CKqAJfehr5kni0+MZGoBj+OoUKmco12bKw6tU/SnPrxOO54wlfh8DBsIekdvWypj8aU2+hvs3ZU9zRs8I1Od7F0kuELAcaYt7btG8pseJ3Ro2CQ+QADTxkT/a88O15z1mZG1q+yUtcUQawIfcozGHZqD5GgrK/+K9mVkoydIxVx5S8XILFYwYBzLAHIbTfpeTQ7p9aWgV2bqznC6qwx5J/w2H6SpX3JFk5QxOKHBXW56tD3dCmg+JXPUK/z7K0p2ONug82CSY0WPPvkC7MbGciGfmKNBnyPEhexH1P/A0tybmNEXH9a1CVdD4rSk1+C6jbCkwvKAOaO2L/1UUhUBaPCPbPffcRRqcoTd7D+WYq3Zm7r9iOF3/tJFDqr+Le4X3COcOKiBulCUDuGA1svpOL76TlAsljEReycft+2KRdUHIXrkh5ZFVw==;+B7jnuZMNL8GubForvCjmg=="
 ---

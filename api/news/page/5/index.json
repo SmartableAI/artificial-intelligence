@@ -2,57 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-10-31-how-is-artificial-intelligence-used-in-real-estate.md",
-      "title": "How Is Artificial Intelligence Used in Real Estate?",
-      "excerpt": "Let us help you navigate this asset class by signing up for our comprehensive real estate investing guide. Artificial intelligence is a complex topic. While some love it and others hate it, there's no denying that it's currently transforming the real ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/millionacres/real-estate-market/real-estate-innovation/how-is-artificial-intelligence-used-in-real-estate/",
-      "originalUrl": "https://www.fool.com/millionacres/real-estate-market/real-estate-innovation/how-is-artificial-intelligence-used-in-real-estate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.foolcdn.com/media/millionacres/images/houses_and_computer.max-1200x600.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/millionacres/amp/real-estate-market/real-estate-innovation/how-is-artificial-intelligence-used-in-real-estate/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/millionacres/amp/real-estate-market/real-estate-innovation/how-is-artificial-intelligence-used-in-real-estate/",
-      "publishedDateTime": "2020-10-31T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-31-intel-iris-xe-max-gpu-arrives-in-11th-gen-mobile-chips-to-boost-gaming-creation.md",
       "title": "Intel Iris Xe Max GPU arrives in 11th-gen mobile chips to boost gaming, creation",
       "excerpt": "Intel offers a little something extra as incentive: Deep Link, which allows a system to combine the integrated and discrete Xe GPU's processing power for creative tasks like AI inferencing and ... over models with Nvidia MX chips. Iris Xe Max also adds ...",
@@ -567,33 +516,24 @@
     {
       "path": "_news/2020-10-31-wooask-s01-worlds-most-powerful-ai-voice-recorder.md",
       "title": "Wooask S01 - World's Most Powerful AI Voice Recorder",
-      "excerpt": "Wooask S01 AI Voice Recorder, a powerful technology that fits in your pocket, record, transcribe and translate everywhere. Artificial Intelligence is changing the way we produce and access information. Speech recognition and the understanding of language ...",
+      "excerpt": "Andy Lee, Founder & CEO of Wooask, a leading customized AI translation solution provider, is introducing a new product,",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/wooask-s01---worlds-most-powerful-ai-voice-recorder-301164060.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/wooask-s01---worlds-most-powerful-ai-voice-recorder-301164060.html",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/10/n18149887/wooask-s01-worlds-most-powerful-ai-voice-recorder",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/n18149887/wooask-s01-worlds-most-powerful-ai-voice-recorder",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-30T11:43:00-07:00",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18149887",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18149887",
+      "publishedDateTime": "2020-10-30T11:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1255,6 +1195,49 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-lax-debuts-facial-recognition-technology-for-international-travelers.md",
+      "title": "LAX debuts facial recognition technology for international travelers",
+      "excerpt": "U.S. Customs and Border Protection officials announced the implementation of a facial-recognition process at LAX.",
+      "sourceUrl": null,
+      "webUrl": "https://abc7.com/travel/lax-debuts-facial-recognition-technology/7459789/",
+      "originalUrl": "https://abc7.com/travel/lax-debuts-facial-recognition-technology/7459789/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/7462194_102920-kabc-4pm-lax-travel-vid.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc7.com/amp/lax-cbp-international-travelers-facial-recognition/7459789/",
+      "cdnAmpWebUrl": "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/lax-cbp-international-travelers-facial-recognition/7459789/",
+      "publishedDateTime": "2020-10-29T23:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC7",
+        "domain": "abc7.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://futurism.com/facebook-augmented-reality-glasses-hearing-aids
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/facebook-augmented-reality-glasses-hearing-aids/amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook research is developing AR glasses that help deaf people hear better"
-    excerpt: "The research lead for Facebook’s Hearing Science lab tells Digital Trends about the exciting possibilities of AR glasses."
-    publishedDateTime: 2020-11-01T16:09:00Z
-    webUrl: "https://www.digitaltrends.com/features/facebook-ar-glasses-deaf/"
-    ampWebUrl: "https://www.digitaltrends.com/features/facebook-ar-glasses-deaf/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facebook-ar-glasses-deaf/?amp"
+  - title: "Facebook Loses Bid to Make Trade Secrets Claims All or Nothing"
+    excerpt: "A federal judge has ruled that Massachusetts' Uniform Trade Secrets Act does not preclude an AI startup from bringing separate claims of unfair competition and tortious interference based on the same alleged misappropriation underlying its trade secret claims."
+    publishedDateTime: 2020-11-03T00:18:00Z
+    webUrl: "https://www.law.com/therecorder/2020/11/02/facebook-loses-bid-to-make-trade-secrets-claims-all-or-nothing/"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 71
+      name: Law
+      domain: law.com
+    quality: 39
     images:
-      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/facebook_hearing_ar3-1200x630-c-ar1.91.png"
-        width: 1200
-        height: 628
+      - url: "https://images.law.com/contrib/content/uploads/sites/403/2020/11/OConnor-Kait-620px.jpg"
+        width: 620
+        height: 372
         isCached: true
 
 secured: "5NeCyIC/y/nIcdadL3bP+ug5wTzv6Zqd1LnSN4nFJ4oaNc+RwnRpw/E6OEOFrJOGMAjmgj9rUyk25xZklMW9u+RtkT5QU5DHiFRLKY+LjwkKqvXcBEsE2rF1+SYkSj1Am5pfwYcnhhSuWlDuqxPnzijpTF8uukeMFc/Wj1z/UvQhMPWX/fjKhQH3SnXr1RJvMytueOUSiFw7iqMOB+Uq7SDgH7B4H390+7zBaqyIGkfCU2sVVbWmYQ81q/ARVRxYI29vGpvabMKrA8bcrTsFpIArirhjaSQRgDr1kD9XBG1wK5st38IuAwq5thzKXdYk/xHd5weBTNfbCWuPSp4Ybhn6q2p3s0OJfE0QGyrFulgCmcB6QHfHglomDdvDnFh7bqwqhKDL55KcvbmDdahKHZFzQGwZGzQmQJWTmsE6ejqEM5IXUOBDI2nLwKYIwtYgG4m056uLWAhVwE/kq4TubJhMuslmSFkrItM0g7QnX60n97TcxC9EdY7MQjW12ji1g1brp8jzjqZbKHY1nW+A8w==;PHN/Om9dmHLng7+VQT7QcA=="

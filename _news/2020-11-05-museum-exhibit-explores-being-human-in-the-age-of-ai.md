@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marinij.com/2020/11/04/sf-de-young-exhibit-explores-bein
 cdnAmpWebUrl: "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2020/11/04/sf-de-young-exhibit-explores-being-human-in-the-age-of-ai-2/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "Explore the list of top AI research labs leading R&D in the field of AI."
+    excerpt: "Artificial intelligence provides automated, assisted, and augmented intelligence. Innovations in AI in recent years have come out of the research lab into the mainstream, helping organizations to deliver superior decision making."
+    publishedDateTime: 2020-11-06T08:23:00Z
+    webUrl: "https://www.analyticsinsight.net/top-10-artificial-intelligence-research-labs-in-the-world/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 38
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Top-10-Artificial-Intelligence-Research-Labs-in-the-World.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "8gQXAY7vffH3rDvJVT7mJCxmQbIXM2kOTyhmSKiKB7/E3m3mEvh83rPyVeupY2jiXePTNskf5osJiX3Pdwki8p9+HS6WxqFCkmaSTgdWqjWyOP4oBLLB3odaODTMjs4xjqct2jTz2Q3YbbCkunIst8bxR+nMOaPM9rBupO8oPXHNUANTNRZ+EWeU45L8yn2CxFRlP4uPdza//iOMwp08tLOIjHNL3qalz3XLp4t32IOX9qfj0ShLMwJaeoqi18hdLduyXkl9shSzOZYOvgxWkJYnK/Saszh7aPKgvDpPY5d/k0UFp/7vMXtbTO5KGzxRmKP4qKk8kP7Plw69M1QXlaquOkRfHs84Mr72BpGemuWEp8+freqn1dfl0rQXcE2IutBeP+48L4Wh+7A57Q1m1SXa66O2CyEnw7EtnfGCFj7Fh4k9+lmyiqhHna05wt47LfbNKX0ZDVZ/sbBx5MWfKqvUnG6lCSl1H0791ERCgltE9Wy3n5IWyqyfLIyhCagat8b7JpgSfeBGO24qKX3nvA==;JGkivjIcf2AMuGhM0bXQDA=="
 ---

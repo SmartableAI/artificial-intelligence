@@ -2,58 +2,6 @@
   "page": 22,
   "value": [
     {
-      "path": "_news/2020-10-18-how-to-use-aws-a-simple-guide-for-beginners.md",
-      "title": "How to use AWS – a simple guide for beginners",
-      "excerpt": "Or you could try something more complex, such as the Data Scientist learning path. This will teach you to develop, train, and deploy ML models through Amazon SageMaker. Again, the key to learning how to use AWS is to know precisely what you want to achieve ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/how-to-use-aws-1168883/",
-      "originalUrl": "https://www.androidauthority.com/how-to-use-aws-1168883/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2019/11/AWS-Logo-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/how-to-use-aws-1168883/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/how-to-use-aws-1168883/amp/",
-      "publishedDateTime": "2020-10-17T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-18-sensor-fusion-enables-robotic-grip.md",
       "title": "Sensor fusion enables robotic grip",
       "excerpt": "Researchers at the National University of Singapore recently demonstrated the advantages of using neuromorphic sensor fusion to help robots grip and identify objects. It’s just one of a number of interesting projects they’ve been working on including ...",
@@ -1161,6 +1109,57 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-google-search-is-getting-a-new-ai-powered-spell-checker.md",
+      "title": "Google Search is getting a new AI-powered spell checker",
+      "excerpt": "Google has announced a range of AI-powered enhancements to its search engine, including a new algorithm that improves spelling corrections.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/10/16/google-search-is-getting-a-new-ai-powered-spell-checker/",
+      "originalUrl": "https://thenextweb.com/neural/2020/10/16/google-search-is-getting-a-new-ai-powered-spell-checker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-16T114024.500-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/10/16/google-search-is-getting-a-new-ai-powered-spell-checker/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/16/google-search-is-getting-a-new-ai-powered-spell-checker/amp/",
+      "publishedDateTime": "2020-10-16T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

@@ -43,6 +43,22 @@ related:
         width: 800
         height: 751
         isCached: true
+  - title: "Grizzly bear facial recognition promises to revolutionize wildlife management"
+    excerpt: "A facial recognition system for grizzly bears could usher in a new wave of celebrity animals that scientists and the public could follow through their lifetimes. Biologists at the University of ..."
+    publishedDateTime: 2020-11-06T08:07:00Z
+    webUrl: "https://vancouversun.com/news/local-news/grizzly-bear-facial-recognition-promises-to-revolutionize-wildlife-management"
+    ampWebUrl: "https://vancouversun.com/news/local-news/grizzly-bear-facial-recognition-promises-to-revolutionize-wildlife-management/wcm/ab9e2bac-513f-4335-a2c4-c99f7cd8fff5/amp/"
+    cdnAmpWebUrl: "https://vancouversun-com.cdn.ampproject.org/c/s/vancouversun.com/news/local-news/grizzly-bear-facial-recognition-promises-to-revolutionize-wildlife-management/wcm/ab9e2bac-513f-4335-a2c4-c99f7cd8fff5/amp/"
+    type: article
+    provider:
+      name: The Vancouver Sun
+      domain: vancouversun.com
+    quality: 56
+    images:
+      - url: "https://smartcdn.prod.postmedia.digital/vancouversun/wp-content/uploads/2020/11/258343459-bear_face_detection_melanie_clapham_004-w.jpg"
+        width: 1000
+        height: 750
+        isCached: true
   - title: "Global Face Recognition Turnstile Market Size 2026 In-Depth Analysis of the Segmentation Which Comprises Product Type and Applications"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Face Recognition Turnstile"
     publishedDateTime: 2020-11-03T02:21:00Z

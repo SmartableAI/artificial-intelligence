@@ -2,49 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_news/2020-10-23-flex-logix-announces-working-silicon-of-ai-edge-inference-chip.md",
-      "title": "Flex Logix Announces Working Silicon of AI Edge Inference Chip",
-      "excerpt": "InferX X1 offers ideal performance of neural network models such as object detection and recognition, and other neural network models, for robotics, industrial automation, medical imaging, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.embedded-computing.com/home-page/flex-logix-announces-working-silicon-of-ai-edge-inference-chip",
-      "originalUrl": "https://www.embedded-computing.com/home-page/flex-logix-announces-working-silicon-of-ai-edge-inference-chip",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.cdntwrk.com/mediaproxy?url=https%3A%2F%2Fcontent.cdntwrk.com%2Ffiles%2FaHViPTYzODY3JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVmOTIwMzRmMWY1YzEuanBnJnZlcnNpb249MDAwMCZzaWc9OGM5MWU3NDNhMzgwMjYxNGJlZjgwMTY4NWVkNTNjNzU%25253D&size=1&version=1603404702&sig=2251bfc17906f4d3937f7a0216c38bb9&default=hubs%2Ftilebg-blogs.jpg",
-          "width": 500,
-          "height": 272,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T16:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded Computing Design",
-        "domain": "embedded-computing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-23-dragons-den-and-ibm.md",
       "title": "Dragon's Den and IBM",
       "excerpt": "Michele Romanow on IBM Watson: how we should see AI as a competitive advantage. Jessica Rockwood is the VP Development of AI for IT at IBM. Watch as Michele Romanow meets her at the IBM Canada ...",
@@ -1142,6 +1099,57 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-the-real-business-risks-of-ignoring-diversity-equity-and-inclusion-in-your-ai-strategy.md",
+      "title": "The real business risks of ignoring diversity, equity, and inclusion in your AI strategy",
+      "excerpt": "What happens when decision-makers in tech companies simply don’t reflect the diversity of the general population?",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/22/the-real-business-risks-of-ignoring-diversity-equity-and-inclusion-in-your-ai-strategy/",
+      "originalUrl": "https://venturebeat.com/2020/10/22/the-real-business-risks-of-ignoring-diversity-equity-and-inclusion-in-your-ai-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/GettyImages-1249641728.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/22/the-real-business-risks-of-ignoring-diversity-equity-and-inclusion-in-your-ai-strategy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/the-real-business-risks-of-ignoring-diversity-equity-and-inclusion-in-your-ai-strategy/amp/",
+      "publishedDateTime": "2020-10-22T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }
