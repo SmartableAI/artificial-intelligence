@@ -116,6 +116,6 @@ related:
       domain: troymedia.com
     quality: 19
 
-secured: "Nc24bG7/ca0yoU8q3NdW9sbgaKphOXu5/SLx0XU1TRM68Crvb1Z0BDeUZEvEjgjaw7QTrpB9oL/Bl9fRvtY5LEo/dqBGxzR4iGNP5LOH3VGfKIqDkxHsD67L92nwzxOAzsfLlhEej0Vqn5FSyzLTf+xgwT7alDLXWTbRHySD9S8kd3VAN/UmrxU6iUOXM4Vwhj1JGuuck4AXo/IbvJV+htmRrGmBDQ1G/q8zO+Aqyz9bSXg69xygqKxsnuEcFOoD8RCaoGvBvx6msRPHju47WFJIwjsahb+iT/QuRLMVHyL59N6yZjW74GAfRw08wmewW8V86fDFSzqiwyAA/WTrvLGkZlNNrrttt7+YfU+UeBo=;aXaGK0JAMpCYwOMA4pngqw=="
+secured: "6TicGtKcE3cWavoh72BnOluzWB7CzMwS9RPsmO2f0POO+XlKTHwsWRCAz1xAyT+nJ54YPhy0NszNJyUj1HCAZgHwQ0ehhZ0655sCnb9KF5wiTIfhdEy1uMRv+9yEOhMJ9gJ/4koTcClrFS21slYXOJfhPiFSGnvMAIGHITwpCZcvlG0qHnN+jxfK684ozXBFvwFhr5cpZvDepWSWnKHgJzcQ+lQaS+tROyuXwBJd+40NtU3RHH9VlZ/tR66WyyPaT/oMc35MzUCzNzPRoGWTlU+6utNr9eWVK/hpRdYeG/xCfomxa6/zfYrLs/R2QYjKBVyEiXXuagF39Cw1cKePb9+4dpnZj3vHPfJddJJc42c=;RmyWAQ8z3wkRIgwTfH/eJg=="
 ---
 
