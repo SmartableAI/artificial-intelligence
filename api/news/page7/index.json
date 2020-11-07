@@ -2,6 +2,152 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-30-how-ai-is-helping-indian-cotton-farmers-reduce-pesticide-use.md",
+      "title": "How AI is helping Indian cotton farmers reduce pesticide use",
+      "excerpt": "There are more than 5.8 million cotton farmers in India according to the country’s Textile Ministry. Every year, they face heavy losses due to pests attacking their crops. In 2017, farmers in the state of Maharashtra faced a loss of ₹15,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/10/30/how-ai-is-helping-indian-cotton-farmers-reduce-pesticide-use/",
+      "originalUrl": "https://thenextweb.com/neural/2020/10/30/how-ai-is-helping-indian-cotton-farmers-reduce-pesticide-use/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/800px-CSIRO_ScienceImage_408_Cotton_Bearing_Cotton_Plant-e1604052065746-796x420.jpg",
+          "width": 796,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/10/30/how-ai-is-helping-indian-cotton-farmers-reduce-pesticide-use/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/30/how-ai-is-helping-indian-cotton-farmers-reduce-pesticide-use/amp/",
+      "publishedDateTime": "2020-10-30T03:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-blockchain-aims-to-solve-ai-ethics-and-bias-issues.md",
+      "title": "Blockchain aims to solve AI ethics and bias issues",
+      "excerpt": "Many Machine Learning and AI algorithms are centralized, with no transparency in the process. Now a blockchain-based start-up aims to improve transparency bias in business workflows",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/blockchain-aims-to-solve-ai-ethics-and-bias-issues/",
+      "originalUrl": "https://www.zdnet.com/article/blockchain-aims-to-solve-ai-ethics-and-bias-issues/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/blockchain-aims-to-solve-ai-ethics-and-bias-issues/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/blockchain-aims-to-solve-ai-ethics-and-bias-issues/",
+      "publishedDateTime": "2020-10-30T03:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-tesla-raises-price-of-full-self-driving-option-to-10000.md",
+      "title": "Tesla raises price of ‘Full Self-Driving’ option to $10,000",
+      "excerpt": "Tesla’s “Full Self-Driving” option, which currently enables Autopilot features like changing lanes on highways and automatic car parking, now costs $10,000, or $2,000 more than before. The price rise only covers the US for now, where the company’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2020/10/30/21541571/tesla-full-self-driving-price-increase-10000-dollars-autopilot-beta",
+      "originalUrl": "https://www.theverge.com/2020/10/30/21541571/tesla-full-self-driving-price-increase-10000-dollars-autopilot-beta",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 384,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/Q2hKU1xHrSqpHBvLshBWf7i9NuI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67712901/acastro_180430_1777_tesla_0001.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/10/30/21541571/tesla-full-self-driving-price-increase-10000-dollars-autopilot-beta",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/30/21541571/tesla-full-self-driving-price-increase-10000-dollars-autopilot-beta",
+      "publishedDateTime": "2020-10-30T03:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-an-automated-trading-firm-turns-its-machine-learning-expertise-to-venture-capital-investing.md",
       "title": "An automated trading firm turns its machine learning expertise to venture capital investing",
       "excerpt": "XTX executives say their trading edge is in machine learning—algorithms that automatically learn and improve from data without being re-programmed. XTX is heavy on computing, but light on ...",
@@ -1064,137 +1210,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais.md",
-      "title": "If a Robot Is Conscious, Is It OK to Turn It Off? The Moral Implications of Building True AIs",
-      "excerpt": "Philosophers say now is the time to mull over what qualities should grant an artificially intelligent machine moral standing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.discovermagazine.com/technology/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of",
-      "originalUrl": "https://www.discovermagazine.com/technology/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.ctfassets.net/cnu0m8re1exe/6ohFLYheDXySc0pdYKJcrL/43ee6a352bbfc134a12bb1a8cd95cf07/times-arrow-part-i-hd-0301.jpg?w=650&h=433&fit=fill",
-          "width": 650,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-29T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Discover Magazine",
-        "domain": "discovermagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-world-of-finance.md",
-      "title": "Workday Delivers Data Management and Machine Learning Innovations for the Changing World of Finance",
-      "excerpt": "Workday Inc., a leader in enterprise cloud applications for finance and human resources, today announced availability of Workday Accounting Center and machine learning- driven predictive forecasts for Workday Adaptive Planning,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing",
-      "originalUrl": "https://www.nasdaq.com/press-release/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-29T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-the-next-generation-of-artificial-intelligence-part-2.md",
-      "title": "The Next Generation Of Artificial Intelligence (Part 2)",
-      "excerpt": "Like artificial intelligence more broadly ... albeit with further innovations to today’s neural networks. “Some people think we need to invent something completely new to face these challenges, and maybe go back to classical AI to deal with things ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2020/10/29/the-next-generation-of-artificial-intelligence-part-2/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2020/10/29/the-next-generation-of-artificial-intelligence-part-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9a2608695ad7ade6fce902%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1240%26cropY1%3D0%26cropY2%3D697",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/10/29/the-next-generation-of-artificial-intelligence-part-2/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/10/29/the-next-generation-of-artificial-intelligence-part-2/amp/",
-      "publishedDateTime": "2020-10-29T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

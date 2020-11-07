@@ -25,63 +25,75 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla's updated Full Self-Driving beta needs fewer human interventions"
-    excerpt: "Driving beta is already making some significant (and arguably needed) strides forward. Electrek says the automaker has rolled out an update that, according to Elon Musk, should reduce the need for human intervention by about a third."
-    publishedDateTime: 2020-11-02T20:11:00Z
-    webUrl: "https://www.engadget.com/tesla-full-self-driving-beta-update-fewer-interventions-205524844.html"
-    ampWebUrl: "https://www.engadget.com/amp/tesla-full-self-driving-beta-update-fewer-interventions-205524844.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-full-self-driving-beta-update-fewer-interventions-205524844.html"
+  - title: "When A Tree Falls On Top Of A Self-Driving Car"
+    excerpt: "When a tree falls onto a self-driving car. getty. A popular riddle that has been asked since at least the 1800s is whether a tree that falls in a forest will make a sound if there"
+    publishedDateTime: 2020-11-05T16:07:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/05/when-a-tree-falls-on-top-of-a-self-driving-car/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/05/when-a-tree-falls-on-top-of-a-self-driving-car/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/05/when-a-tree-falls-on-top-of-a-self-driving-car/amp/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fba1d7570-1bb7-11eb-b13c-b010545fb6c4&client=amp-blogside-v2&signature=39967e073c4a44e9b4fc1a30e030658a5e296a09"
-        width: 600
-        height: 350
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa1e1ec70d6f1b95e85aac8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6720%26cropY1%3D341%26cropY2%3D4121"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Elon Musk Raises Price of Tesla's Full Self-Driving Package to $10,000 USD"
-    excerpt: "Following through with what Elon Musk has said before, the CEO of Tesla has now announced a price hike for the EV automaker’s Full Self-Driving (FSD) package, bringing it up by $2,000 USD to $10,000 USD."
-    publishedDateTime: 2020-11-03T06:49:00Z
-    webUrl: "https://hypebeast.com/2020/11/tesla-elon-musk-full-self-driving-10000-usd-price-increase-news"
-    ampWebUrl: "https://hypebeast.com/2020/11/tesla-elon-musk-full-self-driving-10000-usd-price-increase-news?amp=1"
-    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/11/tesla-elon-musk-full-self-driving-10000-usd-price-increase-news?amp=1"
+  - title: "BEHIND THE WHEEL: Where are our self-driving cars?"
+    excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time,"
+    publishedDateTime: 2020-11-07T04:30:00Z
+    webUrl: "https://www.pottsmerc.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_b2d0fac8-1fa2-11eb-bd1a-839f89469b3a.html"
+    ampWebUrl: "https://www.pottsmerc.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_b2d0fac8-1fa2-11eb-bd1a-839f89469b3a.amp.html"
+    cdnAmpWebUrl: "https://www-pottsmerc-com.cdn.ampproject.org/c/s/www.pottsmerc.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_b2d0fac8-1fa2-11eb-bd1a-839f89469b3a.amp.html"
     type: article
     provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 72
+      name: The Mercury
+      domain: pottsmerc.com
+    quality: 44
     images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F11%2Ftesla-elon-musk-full-self-driving-10000-usd-price-increase-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
-        width: 1170
-        height: 780
+      - url: "https://bloximages.chicago2.vip.townnews.com/pottsmerc.com/content/tncms/assets/v3/editorial/4/cb/4cb5c470-1fa3-11eb-9a18-27ec9e939d6d/5fa45d30d6deb.image.jpg?resize=1024%2C630"
+        width: 1024
+        height: 630
         isCached: true
-  - title: "Musk Says Canada And Norway Are Next To Get Tesla Full Self-Driving Beta"
-    excerpt: "FSD will be rolled out in the two countries after the necessary approvals are given, possibly in February or March."
-    publishedDateTime: 2020-11-03T19:58:00Z
-    webUrl: "https://insideevs.com/news/452324/canada-norway-next-to-get-tesla-fsd/"
-    ampWebUrl: "https://insideevs.com/news/452324/canada-norway-next-to-get-tesla-fsd/amp/"
-    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/452324/canada-norway-next-to-get-tesla-fsd/amp/"
+  - title: "Self-Driving Car Legislation Will Try Again Next Year"
+    excerpt: "Despite technological advances, thousands of lives are lost every year in automobile accidents. Approximately 93% of these accidents are caused by human error."
+    publishedDateTime: 2020-11-06T17:40:00Z
+    webUrl: "https://www.electronicdesign.com/markets/automotive/article/21147044/electronic-design-selfdriving-car-legislation-will-try-again-next-year"
     type: article
     provider:
-      name: Inside EVs
-      domain: insideevs.com
-    quality: 58
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 39
     images:
-      - url: "https://cdn.motor1.com/images/mgl/nYB8R/s1/fsd.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/11/Mercedes_promo2.5fa586396f6c9.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Tesla's 'Full Self-Driving\" Gets Mixed, But Improving Reviews"
-    excerpt: "Tesla has released an early version of its"
-    publishedDateTime: 2020-11-03T11:23:00Z
-    webUrl: "https://www.realclearmarkets.com/2020/11/03/teslas_full_self-driving_gets_mixed_but_improving_reviews_582644.html#!"
+  - title: "Where Are Our Self-Driving Cars?"
+    excerpt: "Here are three reasons why you can’t buy a self-driving car today and one place you’re likely to find them first. It’s difficult to teach a machine to react correctly when faced with new or unpredictable situations we frequently encounter while driving."
+    publishedDateTime: 2020-11-04T15:04:00Z
+    webUrl: "https://www.manufacturing.net/automotive/news/21201409/where-are-our-selfdriving-cars"
     type: article
     provider:
-      name: RealClearMarkets
-      domain: realclearmarkets.com
-    quality: 19
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 24
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/11/16x9/AP20304406106665.5fa2c29eabba5.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 673
+        isCached: true
+  - title: "AI That Mistook Referee For A Ball & The Self Driving Car That Hit The Wall: A Week Of AI Botch-Ups"
+    excerpt: "The live stream of the event captures Acronis’ vehicle driving straight into a wall surprising its engineers and leaving the viewers in splits. The botched up was addressed by one of the engineers in a Reddit post ."
+    publishedDateTime: 2020-11-03T12:03:00Z
+    webUrl: "https://analyticsindiamag.com/ai-flaws-roborace-crash-self-driving-car/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 20
 
 secured: "m5tuUZJHK+4eOYS87KE0nNbGn975tzCIeHHALqmb36XnH23O67Y8aqyirVP+6LpIkM1dn+bkHWXiQ7cjmcoVjjrX8v19Du911zsbNpUlQHWc26jgVhA2lkt1cf1SG2SJuyNW13lSwyGZFSbPZuxB8I3rEjoYrW1cAuDboLU302JmWI0yjWa/DEIydg7cMgSuhHCJQXaAMpfY5DfexZHEV66YRYfGukcQqVgBcTKiy/3S2yEZjQUuP51LagkJ8pD7mo/wOsw93y4l7mIX04XT8GIDDuF+ZkzZ8jbN7V+Tq09aDenfMHjOKMlxR41ZLabdJHIZf00UYVYu820JJEw4gAk4l4k8IABlsJw+EJvc0I/QxoGSsdNagQT0gmYJrpk4fkgnGv4X3c5tsSdo5WH+F17itMYV58ZiZ8oqUvso1oI9EmyMDpBaIzVg4ls4VWn4bW7hqxxRPZ74fgxk+hUGN2Si/SmmAoMei5O53H5uHn8anLyAgqDnBfficP0oVpoXJYr0pXCESd4YrTRfC/T97A==;CJuhiUzkiH7dU+eQrY1kig=="
 ---

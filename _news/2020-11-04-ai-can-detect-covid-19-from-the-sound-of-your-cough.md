@@ -43,7 +43,7 @@ related:
   - title: "Stanford researchers developing fast, portable COVID-19 testing chip"
     excerpt: "With this 'lab on a chip,' anyone can test themselves for COVID-19 in the comfort of their home using a tiny chip instead of sending the nasal swabs fluid to laboratories."
     publishedDateTime: 2020-11-06T22:19:00Z
-    webUrl: "https://abc7news.com/health/stanford-developing-fast-portable-covid-19-testing-chip/7686757/"
+    webUrl: "https://abc7news.com/coronavirus-testing-stanford-researchers-covid-19-test-results/7686757/"
     ampWebUrl: "https://abc7news.com/amp/coronavirus-testing-stanford-researchers-covid-19-test-results/7686757/"
     cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/coronavirus-testing-stanford-researchers-covid-19-test-results/7686757/"
     type: article

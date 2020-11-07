@@ -43,20 +43,6 @@ related:
         width: 900
         height: 509
         isCached: true
-  - title: "Real-time data labeling pipeline for ML workflows using Amazon SageMaker Ground Truth"
-    excerpt: "High-quality machine learning (ML) models depend on accurately labeled, high-quality training, validation, and test data. As ML and deep learning models are increasingly integrated into production environments, it’s becoming more important than ever to have customizable, real-time data labeling pipelines"
-    publishedDateTime: 2020-11-02T19:14:13Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/real-time-data-labeling-pipeline-for-ml-workflows-using-amazon-sagemaker-ground-truth/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 99
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/31/add-policy-loop.gif"
-        width: 1510
-        height: 748
-        isCached: true
   - title: "Deploying reinforcement learning in production using Ray and Amazon SageMaker"
     excerpt: "Reinforcement learning (RL) is used to automate decision-making in a variety of domains, including games, autoscaling, finance, robotics, recommendations, and supply chain. Launched at AWS re:Invent 2018, Amazon SageMaker RL helps you quickly build, train, and deploy policies learned by RL. Ray is an"
     publishedDateTime: 2020-11-04T17:25:22Z

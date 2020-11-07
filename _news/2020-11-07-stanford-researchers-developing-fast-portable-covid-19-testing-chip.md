@@ -3,8 +3,8 @@ category: news
 title: "Stanford researchers developing fast, portable COVID-19 testing chip"
 excerpt: "With this 'lab on a chip,' anyone can test themselves for COVID-19 in the comfort of their home using a tiny chip instead of sending the nasal swabs fluid to laboratories."
 publishedDateTime: 2020-11-06T22:19:00Z
-originalUrl: "https://abc7news.com/health/stanford-developing-fast-portable-covid-19-testing-chip/7686757/"
-webUrl: "https://abc7news.com/health/stanford-developing-fast-portable-covid-19-testing-chip/7686757/"
+originalUrl: "https://abc7news.com/coronavirus-testing-stanford-researchers-covid-19-test-results/7686757/"
+webUrl: "https://abc7news.com/coronavirus-testing-stanford-researchers-covid-19-test-results/7686757/"
 ampWebUrl: "https://abc7news.com/amp/coronavirus-testing-stanford-researchers-covid-19-test-results/7686757/"
 cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/coronavirus-testing-stanford-researchers-covid-19-test-results/7686757/"
 type: article
@@ -163,6 +163,6 @@ related:
       domain: edweek.org
     quality: 4
 
-secured: "e7kbKPKrCLzXbRrsaoNjTfEaOsq6HICUMrnT6gqJLSgwK+RUoPH7lWEin+51QQ4kITx80M3NsSbsAKgztcqfiE+nWF14QdPFoH1NGdpJxTWgqYGU5160d/bXA+J5XKelqhAbzfKTz0tcMuTXiVIcFljouH0kkUeyZvBixT/YHCjitllmJ10pUTRA7ncVGJUpsn+s5JQFslYmpPnMompfvBN0JteFqxB7ab62CwidWgQrxkKG/nP5717clAdQBlizDEUu6xjzWC2INtciBtclbDkMvEyMrKSq9ABoI6WGBFdT9ncJANgwWceq214/2TX6BFHXyTRAwi/6ctAdyGmWyNZ4Zn1q3Kgbo8hoLjDXQNrxQ+KF8WmUlHe2j1YSqQEQRlLtjb6GvQbOylHGj+FAn6jVGrdZEbL/WH6UuZ4BJuMLtcQEmO6UqDgEMh4lraX5syDqxKfw1JLu7uc1V2MnVmWpSf85msAz5o6bJiJdYuyjAWwSQhANPL5cj9LTX9ewsKRMWrY5oXgHYfdcoiAVTw==;XEvQ7NItY5ogRbOJJ36dXw=="
+secured: "FAlYy6iyJ7lXlemRxRrP++bxRlgJWdZGkriUP2043aMee2OvqoiksmyX+7Wqs9J7f1a8B9bK4iOubcz9MA/w1LnNq7EwqA6zhs8hJmk0Gnx7ZpaXmz98yxWb4W/f2EmX7/ikl4pukrYDYaE4DSY8Bh0mgvji5X0MGVQxiSLx0QtxKOl19T0auhnjCzNf0V376JwM1rcw6ZvgHy6KT2x3W3SM2td+0T4ikZpRjNkyOaFo7qFuZh7R0MK/mhNNSqVDPa1a7kNTCm29UeRLz8HgJ94UeIWGRmj7m9leqGOKwX7zCXhZSDIrEKY7AjCoPWmN7Kh2j1Coci6rJPW1mH+7m+iZfwW0e+W+4ue38JANPUI=;CklTJ3njt7gnLIZ7jN6eFg=="
 ---
 

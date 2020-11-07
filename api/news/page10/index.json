@@ -2,6 +2,143 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-10-28-e-commerce-fintech-and-cloud-ceos-of-alibaba-peak-fintech-logiq-and-ebay-discuss-new-global-growth-opportunities.md",
+      "title": "E-Commerce, Fintech, and Cloud: CEOs of Alibaba, Peak Fintech, Logiq and eBay Discuss New Global Growth Opportunities",
+      "excerpt": "A Clear Vision To Realize Enormous Untapped Potential of eBay.”  Peak Fintech Group (OTC:PKKFF) (CSE: PKK) CEO Johnson Joseph: “China Fintech Revenues Ready to Explode” VIDEO:  Alibaba Group Holdings (NYSE: BABA) Daniel Zhang CEO: “Big Growth Opportunities in Cloud and Southeast Asia”  Logiq,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/globe-newswire/8074592/e-commerce-fintech-and-cloud-ceos-of-alibaba-peak-fintech-logiq-and-ebay-discuss-new-global-growth-opportunities",
+      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8074592/e-commerce-fintech-and-cloud-ceos-of-alibaba-peak-fintech-logiq-and-ebay-discuss-new-global-growth-opportunities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-harnessing-ai-to-reset-the-future-how-to-channel-ai-for-social-good.md",
+      "title": "Harnessing AI To Reset The Future: How To Channel AI For Social Good?",
+      "excerpt": "The wave of optimism surrounding the transformative potential of AI has been tempered by increasing concerns about potential negative impacts including an evolving digital divide, ethical concerns, and the future of work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/deepalikhanna/2020/10/28/harnessing-ai-to-reset-the-future-how-to-channel-ai-for-social-good/",
+      "originalUrl": "https://www.forbes.com/sites/deepalikhanna/2020/10/28/harnessing-ai-to-reset-the-future-how-to-channel-ai-for-social-good/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f97ebf0b59b70e57aae6923%2F0x0.jpg",
+          "width": 1199,
+          "height": 752,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/deepalikhanna/2020/10/28/harnessing-ai-to-reset-the-future-how-to-channel-ai-for-social-good/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/deepalikhanna/2020/10/28/harnessing-ai-to-reset-the-future-how-to-channel-ai-for-social-good/amp/",
+      "publishedDateTime": "2020-10-27T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-face-recognition-systems-market-2020-with-top-countries-data-in-depth-assessment-key-trend-industry-analysis-future-roadmap-by-2026.md",
+      "title": "Face Recognition Systems Market 2020 with Top Countries Data, In-depth Assessment, Key Trend, Industry Analysis, Future Roadmap by 2026",
+      "excerpt": "Global “Face Recognition Systems Market\" 2020 Research Report provides key analysis on the market status of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-2020-with-top-countries-data-in-depth-assessment-key-trend-industry-analysis-future-roadmap-by-2026-2020-10-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-2020-with-top-countries-data-in-depth-assessment-key-trend-industry-analysis-future-roadmap-by-2026-2020-10-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-27T21:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-hard-to-believe-but-artificial-intelligence-will-improve-our-worklives.md",
       "title": "Hard To Believe, But Artificial Intelligence Will Improve Our Worklives",
       "excerpt": "Instead of worrying about job displacement, we should get to work creating the new, high-quality jobs of tomorrow while massively expanding our upskilling and reskilling efforts to transition displaced workers into these new opportunities.",
@@ -49,6 +186,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-5-best-robotics-and-artificial-intelligence-stocks-to-buy.md",
+      "title": "5 Best Robotics and Artificial Intelligence Stocks To Buy",
+      "excerpt": "Below we listed the 5 best robotics and artificial intelligence stocks to buy according to hedge funds. For a detailed analysis and a more comprehensive list please see Top 10 Robotics and Artificial Intelligence Stocks To Buy. Unfortunately it is too late ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/?singlepage=1",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/?singlepage=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17135035/50882921_ml.jpg",
+          "width": 1678,
+          "height": 1119,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-27T21:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -483,50 +663,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-5-best-robotics-and-artificial-intelligence-stocks-to-buy.md",
-      "title": "5 Best Robotics and Artificial Intelligence Stocks To Buy",
-      "excerpt": "Google AI is the company’s division that focuses exclusively on artificial intelligence and Waymo is probably the most advanced autonomous driving technology company in the world (though Chinese ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17135035/50882921_ml.jpg",
-          "width": 1678,
-          "height": 1119,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T15:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     },
     {
@@ -1063,152 +1199,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-ai-cures-data-driven-clinical-solutions-for-covid-19.md",
-      "title": "AI Cures: data-driven clinical solutions for Covid-19",
-      "excerpt": "The AI Cures Conference: Data-driven Clinical Solutions for Covid-19 described technologies developed in response to the Covid-19 pandemic and new opportunities for AI solutions for clinical management.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2020/ai-cures-data-driven-clinical-solutions-covid-19-1027",
-      "originalUrl": "https://news.mit.edu/2020/ai-cures-data-driven-clinical-solutions-covid-19-1027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202010/AI-Cures-Conference-panel.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-human-api-raises-20-million-to-standardize-health-records-with-ai.md",
-      "title": "Human API raises $20 million to standardize health records with AI",
-      "excerpt": "California-based company developing an AI pipeline that structures health data into a standardized format, this week raised over $20 million. A spokesperson for the startup says the capital will ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/27/human-api-raises-20-million-to-standardize-health-records-with-ai/",
-      "originalUrl": "https://venturebeat.com/2020/10/27/human-api-raises-20-million-to-standardize-health-records-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/27/human-api-raises-20-million-to-standardize-health-records-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/human-api-raises-20-million-to-standardize-health-records-with-ai/amp/",
-      "publishedDateTime": "2020-10-27T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-the-evolving-world-of-fintech-robo-ai-ml-data-analytics-digital-solutions.md",
-      "title": "The Evolving World of FinTech, Robo, AI, ML, Data, Analytics & Digital Solutions",
-      "excerpt": "Hubbis Digital Dialogue delved deeply and intently into the growth of the influence of FinTech in Asia and at the universe of digital solutions being promoted and rolled out across the region’s offshore and onshore wealth management markets,",
-      "sourceUrl": null,
-      "webUrl": "https://hubbis.com/article/the-evolving-world-of-fintech-robo-ai-ml-data-analytics-digital-solutions",
-      "originalUrl": "https://hubbis.com/article/the-evolving-world-of-fintech-robo-ai-ml-data-analytics-digital-solutions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-ap-southeast-1.amazonaws.com/img.hubbis.com/home_middle_optimiser/img/article/cropped/5dadb5afdf30baed67f92c3ff22886d3f565c54c.jpg",
-          "width": 480,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hubbis",
-        "domain": "hubbis.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

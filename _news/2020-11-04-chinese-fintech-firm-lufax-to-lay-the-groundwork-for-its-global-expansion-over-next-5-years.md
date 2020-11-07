@@ -26,6 +26,19 @@ images:
     height: 247
     isCached: true
 
+related:
+  - title: "Ant Group: China's Fintech Flyer Grounded By Regulators"
+    excerpt: "Set for a record-busting $34 billion IPO in Hong Kong and Shanghai, Ant Group has had its wings summarily clipped by Chinese regulators."
+    publishedDateTime: 2020-11-04T14:13:00Z
+    webUrl: "https://www.barrons.com/news/ant-group-china-s-fintech-flyer-grounded-by-regulators-01604467805"
+    ampWebUrl: "https://www.barrons.com/amp/news/ant-group-china-s-fintech-flyer-grounded-by-regulators-01604467805"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ant-group-china-s-fintech-flyer-grounded-by-regulators-01604467805"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 24
+
 secured: "FYqkzpi3j0Qbszc8zmsRwnIvhNXnL9/5hivzuwInxj4BeVe20gheVo2OaP2zmbHIIe7WrBazAmNWWww8acUZlQ4+wwqyUGJSCU95zA7630YUfYjFU7mu8XFzhTDNiFbVqS1jGEdmMbCcGVLUuLWLsXFcIiE9wT5Yt2PpxLPUqfWMWv6hQ+G74JXaZ/TFYVxldCeTXq5rd7pOtr4bTYVRdnd9wtI4H8U81f7pTNhf4Wu05pGM667LciYONhQkgmGVu8rdtKys6N3bLcGSKww8LncNZ/6GUG2hEgsB6QEl7JX+nL0hIYxe5lg72Ok6bIsgY4Jr9EG8uGKnq7Hzcda35pK3qInGqGOF8lja7D5jMH6PJawjDIxR5zPfKz8aZQVAWMZiykzYT0i/+Gh3csWV1FBSIvlHo1z62M9a/Jas7ewbbwaLLOm/JoGw/7BPBKkkMV2BwWAXnScUf9o/+rhiLHM7zWVLMGhuDFQktXSHa1772uGeFhMzukBuF5/lpCLlAn+DZP0/Rt3KpJ4XoE9WQg==;ohBtFwgg6J9Joz9ia4ieYA=="
 ---
 

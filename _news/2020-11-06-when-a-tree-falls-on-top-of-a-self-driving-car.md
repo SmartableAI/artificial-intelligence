@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/05/when-a-tree-falls
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/05/when-a-tree-falls-on-top-of-a-self-driving-car/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "OOIDA raises concerns over Tesla’s Full Self-Driving system"
+    excerpt: "In a letter to NHTSA, OOIDA sounded the alarm on Tesla's Full Self-Driving system, calling it a significant threat to small-business truckers."
+    publishedDateTime: 2020-11-05T21:20:00Z
+    webUrl: "https://landline.media/ooida-raises-concerns-over-teslas-full-self-driving-system/"
+    type: article
+    provider:
+      name: Land Line
+      domain: landline.media
+    quality: 54
+    images:
+      - url: "https://landline.media/wp-content/uploads/2020/11/201105-OOIDA-tesla.jpg"
+        width: 540
+        height: 420
+        isCached: true
   - title: "BEHIND THE WHEEL: Where are our self-driving cars?"
     excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time,"
     publishedDateTime: 2020-11-07T04:30:00Z

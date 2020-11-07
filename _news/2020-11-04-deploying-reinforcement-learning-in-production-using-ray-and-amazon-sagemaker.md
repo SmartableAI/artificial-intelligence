@@ -57,20 +57,6 @@ related:
         width: 800
         height: 406
         isCached: true
-  - title: "Real-time data labeling pipeline for ML workflows using Amazon SageMaker Ground Truth"
-    excerpt: "High-quality machine learning (ML) models depend on accurately labeled, high-quality training, validation, and test data. As ML and deep learning models are increasingly integrated into production environments, it’s becoming more important than ever to have customizable, real-time data labeling pipelines"
-    publishedDateTime: 2020-11-02T19:14:13Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/real-time-data-labeling-pipeline-for-ml-workflows-using-amazon-sagemaker-ground-truth/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 99
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/31/add-policy-loop.gif"
-        width: 1510
-        height: 748
-        isCached: true
 
 secured: "49UL3ISYy93iIBZG1mkUZT0w3JfnVkxUtVSr4vDTOo1B+M65JsIdU0CjRjrU+fjml5eVUI2HNqQeleroixVWgM1JrGesDvAjXEEBH3+xG5qMdsxtAfoleyN4kixuolSCQ3/2+W09Yf4rjwKfkUnJHx8vBWO6A0JyZSwqHtQFoB9Pq5dt1RjluL7DsOr5AcR374Huufq1Ed5wJelsUi6uVrVZ187796mEk6Kox5jbUslXa44lUgxgXbCvr8dt/mHJhjyrFnBkpUpoVuYJ/pkscdBKRgwQDf0wgle29XbwJgBQWXIVc98AgdtKRnDm99pK8ry4bJDYA/t4X/6P0E9Mll8bidXC14vT9hlh6Th1kho=;+pvUvnBh7MG4QuZbDT0J6A=="
 ---

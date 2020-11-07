@@ -2,6 +2,134 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-10-20-biped-robot-maker-agility-raises-20-million.md",
+      "title": "Biped robot maker Agility raises $20 million",
+      "excerpt": "(Reuters) - Agility Robotics said on Thursday it raised $20 million in funding, in a round led by Silicon Valley venture capital firms DCVC and Playground, as two-legged robots start walking out ...",
+      "sourceUrl": null,
+      "webUrl": "https://fr.reuters.com/article/us-robots-agility-funding-idUSKBN2701GG",
+      "originalUrl": "https://fr.reuters.com/article/us-robots-agility-funding-idUSKBN2701GG",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2701GG",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2701GG",
+      "publishedDateTime": "2020-10-20T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-a-playful-take-on-the-serious-harm-of-facial-recognition-teens-young-adults-from-yr-media-and-stanford-dschool-design-a-tool-to-erase-your.md",
+      "title": "A Playful Take on the Serious Harm of Facial Recognition: Teens, Young Adults from YR Media and Stanford d.school Design a Tool to “Erase Your Face”",
+      "excerpt": "BIPOC youth, girls, and first-generation college-goers are among the most under-represented in tech and A.I. specifically, yet they have the most to lose when design fails to lead with racial, gender and economic equity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201020005076/en/A-Playful-Take-on-the-Serious-Harm-of-Facial-Recognition-Teens-Young-Adults-from-YR-Media-and-Stanford-d.school-Design-a-Tool-to-“Erase-Your-Face”",
+      "originalUrl": "https://www.businesswire.com/news/home/20201020005076/en/A-Playful-Take-on-the-Serious-Harm-of-Facial-Recognition-Teens-Young-Adults-from-YR-Media-and-Stanford-d.school-Design-a-Tool-to-“Erase-Your-Face”",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201020005076/en/831455/23/4680981_YR_Media-%281%29.gif",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-20T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-ai-startup-earthdefine-announces-expansion-of-its-building-footprint-geocoding-and-on-demand-property-information.md",
+      "title": "AI Startup EarthDefine Announces Expansion of its Building Footprint Geocoding and On-Demand Property Information",
+      "excerpt": "PRNewswire/ -- EarthDefine, a provider of high-resolution spatial data today announced the release of an updated building footprint database, which contains over 156 million footprints of commercial and residential structures across the continental United States.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-startup-earthdefine-announces-expansion-of-its-building-footprint-geocoding-and-on-demand-property-information-1029698789",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-startup-earthdefine-announces-expansion-of-its-building-footprint-geocoding-and-on-demand-property-information-1029698789",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-20T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-microsoft-partners-with-spacexs-starlink-satellite-service-for-azure-space-cloud-platform.md",
       "title": "Microsoft partners with SpaceX’s Starlink satellite service for Azure Space cloud platform",
       "excerpt": "Microsoft says it’s taking the next giant leap in cloud computing, in partnership with SpaceX and its Starlink broadband satellite constellation.",
@@ -1048,146 +1176,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-velodyne-lidar-inks-3-year-sales-agreement-with-baidu.md",
-      "title": "Velodyne Lidar Inks 3 Year Sales Agreement with Baidu",
-      "excerpt": "Velodyne Lidar Inc announced a three-year sales agreement with Baidu for its Alpha Prime lidar sensors. The Alpha Prime sensors will be utilized for autonomous applications. Velodyne’s low cost ...",
-      "sourceUrl": null,
-      "webUrl": "https://steelguru.com/auto/velodyne-lidar-inks-3-year-sales-agreement-with-baidu/564417",
-      "originalUrl": "https://steelguru.com/auto/velodyne-lidar-inks-3-year-sales-agreement-with-baidu/564417",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://steelguru.com/uploads/news/velodyne-lidar-baidu_89021.png",
-          "width": 635,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-19T23:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Steel News",
-        "domain": "steelguru.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-torc-robotics-scaling-self-driving-fleet-with-daimler-trucks.md",
-      "title": "Torc Robotics Scaling Self Driving Fleet with Daimler Trucks",
-      "excerpt": "Torc Robotics will scale its self-driving truck testing in the Southwest in early 2021 using an enhanced prototype truck developed with Daimler Trucks North America. This new generation of ...",
-      "sourceUrl": null,
-      "webUrl": "https://steelguru.com/auto/torc-robotics-scaling-self-driving-fleet-with-daimler-trucks/564415",
-      "originalUrl": "https://steelguru.com/auto/torc-robotics-scaling-self-driving-fleet-with-daimler-trucks/564415",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://steelguru.com/images/ad_image/Go-for-Gold_500x250.gif",
-          "width": 500,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-19T23:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Steel News",
-        "domain": "steelguru.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud.md",
-      "title": "IBM's Q3 solid with strength in Red Hat, hybrid cloud",
-      "excerpt": "Cognitive applications were up 1% and cloud sales were up more than 60%. Global business services, which includes consulting, application management and global process services, had revenue of $4 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud/",
-      "originalUrl": "https://www.zdnet.com/article/ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/10/16/64b67a52-7c39-42aa-9676-9c3987ea7e57/thumbnail/1200x675/7538a9bb7ca841a758272e29aa0937f0/thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud/",
-      "publishedDateTime": "2020-10-19T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

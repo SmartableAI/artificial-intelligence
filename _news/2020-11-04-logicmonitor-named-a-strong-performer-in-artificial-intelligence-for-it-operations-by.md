@@ -38,6 +38,20 @@ related:
         width: 1498
         height: 785
         isCached: true
+  - title: "Devo Technology Cited as a Leader in Artificial Intelligence for IT Operations by Independent ..."
+    excerpt: "(GLOBE NEWSWIRE) -- Devo Technology, the cloud-native data analytics and security company, has been recognized as a Leader in The Forrester Wave™: Artificial Intelligence For IT Operations, Q4 2020. The report provides a 33-criteria evaluation of AI for IT Operations (AIOps) providers and identifies the 11 most significant vendors."
+    publishedDateTime: 2020-11-03T16:57:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-cloud-computing-computing-and-information-technology-artificial-intelligence-4b9811c7c740e8d5088f15828c886cdc"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "g3JvBRnAiCNJkp/CI2MM2WxFmri1qvt5TQ/xoB4ksK0PXq28dwbron60+qovdckOVgudgEg/1YuArQHv0NObFtLUdhmn5RnUycEFX3VLA6kiU9cbu25NbrL5PPNZsEcTv4Y/VeomVkABSfZs2CXqcXMjf+0JGS9pr2kylaOuMAjzA+cowqEX0XzonGajtydGZdtu7LLHzriPGHPKkLQN5+75UmOt9qJ/0yR3EctXCEJ83R0RBc5ODNYjbi+RYhq5jhAps469B+flIn2iwxK1iLaqeA0ugo6G6bZBEQk9FvtuNlnqKHldvrkN61w2K0LdOSqWkwrTWWeSckmhEH2YlaVyBsG7DLuPfYCK4+3qoUU=;ZLIU6POooEX1zYT7TLreSw=="
 ---

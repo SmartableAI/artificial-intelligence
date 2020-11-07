@@ -24,17 +24,34 @@ images:
     isCached: true
 
 related:
-  - title: "Independent Research Firms Position IBM as a Leader in Managed Security Services"
-    excerpt: "PRNewswire/ -- IBM (NYSE: IBM) announced today that the company has been recognized as a Leader in three market"
-    publishedDateTime: 2020-11-02T20:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/independent-research-firms-position-ibm-as-a-leader-in-managed-security-services-1029753751"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/independent-research-firms-position-ibm-as-a-leader-in-managed-security-services-1029753751"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/independent-research-firms-position-ibm-as-a-leader-in-managed-security-services-1029753751"
+  - title: "Independent Research Firm Names Zenoss a Strong Performer in Artificial Intelligence for IT Operations (AIOps)"
+    excerpt: "PRNewswire/ -- Zenoss Inc., a leader in AI-driven full-stack monitoring, today announced it was named a Strong Performer in AIOps platforms by"
+    publishedDateTime: 2020-11-03T13:50:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/independent-research-firm-names-zenoss-a-strong-performer-in-artificial-intelligence-for-it-operations-aiops-301165491.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 32
+    images:
+      - url: "https://mma.prnewswire.com/media/845045/Zenoss_Logo.jpg?p=facebook"
+        width: 1498
+        height: 785
+        isCached: true
+  - title: "LogicMonitor Named a Strong Performer in Artificial Intelligence for IT Operations by ..."
+    excerpt: "(GLOBE NEWSWIRE) -- LogicMonitor, the leading cloud-based IT infrastructure monitoring and observability platform for enterprises and Managed Service Providers (MSPs), today announced it has been named a Strong Performer in “ The Forrester Wave™: Artificial Intelligence For IT Operations,"
+    publishedDateTime: 2020-11-03T17:03:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-new-products-and-services-1b26ea8ab66dd42cf8a60c28e1c20c35"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "/dmSMQZl/Eq4ROHRmuGz3FIsEiwZVoeT+TiiiQWyFzSeutkqoHju9j6LBLhPR2rlmogfDgahPLz0EIpitygvD3h9+20L0uBjKDZrdEt4an/danp6pQj1VLOM6FBKlLu1HZDLd/O43nevJctBD9I5Yi2SLaEKYApClQ+yEtnD2SDX0vSkn3omKVNHmjjOsCWPSYakmqmYpV8AHjknqQK2jy0DWfv/QiVCp3DMg/OR595xwiGLpf+fh7R0vtGxvd5T/x5GHMaJiOeNf/p/PXNR6tL09AlUuUFosWiqc9Dwz+mcg16DVfSQ0cgX0rcQBHuTHEOatmH8zUCbdUBImoeZ2+XfCeeI+PlCg6oh6Lf5yfE=;wBliOuYIUPABiuQ9V77SmA=="
 ---

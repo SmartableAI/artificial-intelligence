@@ -2,6 +2,143 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-10-26-huawei-mate-40s-hisilicon-kirin-9000-chip-is-on-rank-1-in-ai-benchmark.md",
+      "title": "Huawei Mate 40’s HiSilicon Kirin 9000 Chip Is On Rank 1 In AI Benchmark",
+      "excerpt": "Huawei has officially introduced the Mate 40 series. The lineup is the latest flagship of the brand and is featuring top-notch specifications",
+      "sourceUrl": null,
+      "webUrl": "https://www.theindianwire.com/ai/huawei-mate-40s-hisilicon-kirin-9000-chip-is-on-rank-1-in-ai-benchmark-296184/",
+      "originalUrl": "https://www.theindianwire.com/ai/huawei-mate-40s-hisilicon-kirin-9000-chip-is-on-rank-1-in-ai-benchmark-296184/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theindianwire.com/wp-content/uploads/2020/10/SAVE_20201026_015401.jpg",
+          "width": 920,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theindianwire.com/ai/huawei-mate-40s-hisilicon-kirin-9000-chip-is-on-rank-1-in-ai-benchmark-296184/?amp",
+      "cdnAmpWebUrl": "https://www-theindianwire-com.cdn.ampproject.org/c/s/www.theindianwire.com/ai/huawei-mate-40s-hisilicon-kirin-9000-chip-is-on-rank-1-in-ai-benchmark-296184/?amp",
+      "publishedDateTime": "2020-10-26T00:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Wire",
+        "domain": "theindianwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-how-the-rainbow-ai-chatbot-is-tackling-domestic-abuse.md",
+      "title": "How the rAInbow AI chatbot is tackling domestic abuse",
+      "excerpt": "But now a chatbot called rAInbow aimed at South African users is trying to turn this tide. It invites users to take part in quizzes and stories in order to help them better understand what is and is not abuse.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/av/technology-54569878",
+      "originalUrl": "https://www.bbc.com/news/av/technology-54569878",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/images/ic/400xn/p08wf5c1.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-25T23:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-dubai-to-introduce-facial-recognition-system-on-public-transport.md",
+      "title": "Dubai to introduce facial recognition system on public transport",
+      "excerpt": "DUBAI: Dubai is introducing a facial recognition system on public transport to beef up security, officials said on Sunday, as the emirate prepares to host the global Expo exhibition. “This technology has proven its effectiveness to identify suspicious ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dawn.com/news/1587067",
+      "originalUrl": "https://www.dawn.com/news/1587067",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.dawn.com/_img/social-default.jpg",
+          "width": 375,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dawn.com/news/amp/1587067",
+      "cdnAmpWebUrl": "https://www-dawn-com.cdn.ampproject.org/c/s/www.dawn.com/news/amp/1587067",
+      "publishedDateTime": "2020-10-25T20:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dawn",
+        "domain": "dawn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms.md",
       "title": "How artificial intelligence and machine learning power content-first newsrooms",
       "excerpt": "By Chris Nguyen, executive vice president, marketing at Naviga Digital is no longer just a nice addition to a newspaper’s success, but an imperative. While print remains a key source of revenue — capturing both subscriptions and advertising — spending too much time on designing and managing printed editions has become an obstacle to digital transformation.",
@@ -1032,162 +1169,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-teslas-full-self-driving-is-999-there-just-1000-times-further-to-go.md",
-      "title": "Tesla’s ‘Full Self-Driving’ Is 99.9% There, Just 1,000 Times Further To Go",
-      "excerpt": "This week, Tesla TSLA released a very limited beta of what Elon Musk has referred to as “feature complete full self-driving” to a chosen subset of their early access customers. It also announced a $2,000 increase in the price of the “FSD in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2020/10/23/teslas-full-self-driving-is-999-there-just-1000-times-further-to-go/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2020/10/23/teslas-full-self-driving-is-999-there-just-1000-times-further-to-go/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f934f9b7095aa39d758ff1f%2F0x0.jpg",
-          "width": 1200,
-          "height": 817,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2020/10/23/teslas-full-self-driving-is-999-there-just-1000-times-further-to-go/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/10/23/teslas-full-self-driving-is-999-there-just-1000-times-further-to-go/amp/",
-      "publishedDateTime": "2020-10-23T14:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-deep-science-alzheimers-screening-forest-mapping-drones-machine-learning-in-space-more.md",
-      "title": "Deep Science: Alzheimer’s screening, forest-mapping drones, machine learning in space, more",
-      "excerpt": "Making sure your deep learning network generalizes to data outside its training environment is a key part of any serious ML research. But few attempt to set a model loose on data that’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/23/deep-science-alzheimers-screening-forest-mapping-drones-machine-learning-in-space-more/",
-      "originalUrl": "https://techcrunch.com/2020/10/23/deep-science-alzheimers-screening-forest-mapping-drones-machine-learning-in-space-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/mahmoudian-autonomousLO.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/23/deep-science-alzheimers-screening-forest-mapping-drones-machine-learning-in-space-more/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/23/deep-science-alzheimers-screening-forest-mapping-drones-machine-learning-in-space-more/amp/",
-      "publishedDateTime": "2020-10-23T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-ai-weekly-constructive-ways-to-take-power-back-from-big-tech.md",
-      "title": "AI Weekly: Constructive ways to take power back from Big Tech",
-      "excerpt": "Dr. Noble began by acknowledging that AI systems in social media can pick up, amplify, and deepen existing systems of inequality like racism or sexism. “Those things don’t necessarily start in ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/23/ai-weekly-constructive-ways-to-take-power-back-from-big-tech/",
-      "originalUrl": "https://venturebeat.com/2020/10/23/ai-weekly-constructive-ways-to-take-power-back-from-big-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/time-100-markle-harris-noble-harry.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/23/ai-weekly-constructive-ways-to-take-power-back-from-big-tech/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/23/ai-weekly-constructive-ways-to-take-power-back-from-big-tech/amp/",
-      "publishedDateTime": "2020-10-23T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],
