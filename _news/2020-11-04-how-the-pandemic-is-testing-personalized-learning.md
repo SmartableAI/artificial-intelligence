@@ -19,29 +19,128 @@ topics:
   - AI
 
 related:
-  - title: "Using machine learning to track the pandemic's impact on mental health"
-    excerpt: "Researchers have found an increase in anxiety and in thoughts about suicide in response to Covid-19 after analyzing Reddit posts. They used machine learning to study hundreds of thousands of posts, allowing them to identify changes in the tone and content of language that people used as the pandemic progressed."
-    publishedDateTime: 2020-11-05T18:03:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/miot-uml110520.php"
+  - title: "Intelligently connect to customers using machine learning in the COVID-19 pandemic"
+    excerpt: "The pandemic has changed how people interact, how we receive information, and how we get help. It has shifted much of what used to happen in-person to online. Many of our customers are using machine learning (ML) technology to facilitate that transition, from new remote cloud contact centers, to chatbots,"
+    publishedDateTime: 2020-11-05T23:42:17Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/intelligently-connect-to-customers-using-machine-learning-in-the-covid-19-pandemic/"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: AWS
+      domain: aws.amazon.com
+    quality: 85
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
+        width: 1260
+        height: 630
+        isCached: true
+  - title: "Stanford researchers developing fast, portable COVID-19 testing chip"
+    excerpt: "With this 'lab on a chip,' anyone can test themselves for COVID-19 in the comfort of their home using a tiny chip instead of sending the nasal swabs fluid to laboratories."
+    publishedDateTime: 2020-11-06T22:19:00Z
+    webUrl: "https://abc7news.com/health/stanford-developing-fast-portable-covid-19-testing-chip/7686757/"
+    ampWebUrl: "https://abc7news.com/amp/coronavirus-testing-stanford-researchers-covid-19-test-results/7686757/"
+    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/coronavirus-testing-stanford-researchers-covid-19-test-results/7686757/"
+    type: article
+    provider:
+      name: ABC7 San Francisco
+      domain: abc7news.com
+    quality: 59
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/7713011_110620-kgo-lab-chip-img_Image_00-00-22,27.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Schools Adopt Face Recognition in the Name of Fighting Covid"
+    excerpt: "A WIRED investigation finds dozens of districts have purchased thermal cameras to monitor fevers that can also identify students and staff."
+    publishedDateTime: 2020-11-03T11:00:00Z
+    webUrl: "https://www.wired.com/story/schools-adopt-face-recognition-name-fighting-covid/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 49
+  - title: "Amazon Web Services Introduces Open-Source Machine Learning Toolkit To Predict The Spread Of COVID-19"
+    excerpt: "Amazon Web Services open-sources a new simulator and a series of machine learning tools that allow researchers and data scientists to study and predict the spread of the COVID-19 pandemic infections."
+    publishedDateTime: 2020-11-02T15:27:00Z
+    webUrl: "https://techlog360.com/aws-open-source-machine-learning-toolkit-to-predict-the-spread-of-covid-19/"
+    type: article
+    provider:
+      name: techlog360.com
+      domain: techlog360.com
     quality: 41
     images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+      - url: "https://tl360.b-cdn.net/wp-content/uploads/2020/11/AWS-news-and-stories.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Using machine learning to track the pandemic's impact on mental health"
-    excerpt: "Dealing with a global pandemic has taken a toll on the mental health of millions of people. A team of MIT and Harvard University researchers has shown that they can measure those effects by analyzing the language that people use to express their anxiety online."
-    publishedDateTime: 2020-11-05T14:31:00Z
-    webUrl: "https://medicalxpress.com/news/2020-11-machine-track-pandemic-impact-mental.html"
+  - title: "Machine Learning Helps Reduce Food Insecurity During COVID-19"
+    excerpt: "Researchers used machine learning to create bus routes and deliver meals to individuals in need, reducing food insecurity in Pennsylvania communities."
+    publishedDateTime: 2020-11-06T14:32:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-helps-reduce-food-insecurity-during-covid-19"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 21
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-908168476.jpg"
+        width: 690
+        height: 400
+        isCached: true
+  - title: "Researchers use deep learning and 2D and 3D convolutional neural networks to predict the severity of Covid-19"
+    excerpt: "Researchers and doctors from Gustave Roussy, Assistance Publique-Hôpitaux de Paris, CentraleSupélec, Université de Paris, Université Paris-Saclay, Inserm, Inria and TheraPanacea worked on a study on the prediction of the gravity of Covid-19 using artificial intelligence (AI)."
+    publishedDateTime: 2020-11-03T23:31:00Z
+    webUrl: "https://www.actuia.com/english/researchers-use-deep-learning-and-2d-and-3d-convolutional-neural-networks-to-predict-the-severity-of-covid-19/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 35
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2020/11/AI-Driven-CT-based-quantification-staging-and-short-term-outcome-prediction-of-COVID-19-pneumonia-couv.jpg"
+        width: 817
+        height: 457
+        isCached: true
+  - title: "Huge learning losses during COVID-19 disruptions may have DISD lowering its academic goals"
+    excerpt: "Dallas students suffered such deep learning losses during the pandemic that school officials won’t be able to catch them up by the end of the school year, which means DISD wants to lower its academic goals."
+    publishedDateTime: 2020-11-06T15:34:00Z
+    webUrl: "https://www.dallasnews.com/news/education/2020/11/06/huge-learning-losses-during-covid-19-disruptions-may-have-disd-lowering-its-academic-goals/"
+    ampWebUrl: "https://www.dallasnews.com/news/education/2020/11/06/huge-learning-losses-during-covid-19-disruptions-may-have-disd-lowering-its-academic-goals/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/education/2020/11/06/huge-learning-losses-during-covid-19-disruptions-may-have-disd-lowering-its-academic-goals/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 34
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/Y_9KI5WD4_zKiLKSvWTGAwYo1Lk=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/XNV5BRFBDZGAFNKAOYJOIFQHRU.JPG"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "What software developers should know about 2021: Low-code, AI code testing, COVID-19's lasting effect and the skills needed to stay on top"
+    excerpt: "Forrester made 5 predictions for software development in 2021. Bill Detwiler talks with software industry veteran VP and principal analyst Jeffrey Hammond, the report's lead author, about what developers and IT leaders should expect in 2021."
+    publishedDateTime: 2020-11-07T00:28:00Z
+    webUrl: "https://www.techrepublic.com/article/what-software-developers-should-know-about-2021-low-code-ai-code-testing-covid-19s-lasting-effect-and-the-skills-needed/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/what-software-developers-should-know-about-2021-low-code-ai-code-testing-covid-19s-lasting-effect-and-the-skills-needed/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/what-software-developers-should-know-about-2021-low-code-ai-code-testing-covid-19s-lasting-effect-and-the-skills-needed/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 33
+  - title: "The future of fintech beyond COVID-19"
+    excerpt: "By Ritam Gandhi, Founder and Director, Studio Graphene  COVID-19 has undoubtedly cemented our reliance on technology. With the unexpected shift to online working, shopping and entertaining, digital solutions have largely been the only means to overcome disruptions to our daily routines."
+    publishedDateTime: 2020-11-05T11:59:00Z
+    webUrl: "https://www.globalbankingandfinance.com/the-future-of-fintech-beyond-covid-19/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 24
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/11/Untitled-design-2020-11-05T165829.943.jpg"
+        width: 750
+        height: 422
+        isCached: true
 
 secured: "+2qJbMkFOQFUSB6cdKYw49z8yz1mxgQrIOuXkfKxgJ3O4bHblVojzjQBnR1AaAwjJmijguvyhj16UQ/G/kOrQ+CcNfVLFvvQxpogJHP6vzoHS7DJ+9ouGarW00G7u0xnjANjs8lOCnJr0svsy+fN/ANfQmslk9ZLab1Tc6zEsk91lCsAFJNeeLnh9rjOPzVDS8PlKF+OHdCqFvJccO7CuwT5RVYvYxzfLvO8BITQlgOBM5S5wE8VqYeXOUHs0URyqYSnTAalGBV6dkhaABKyp9EcpZpL+HkEb+cTMBk2u4BX/ANQZV3yPy94xaVFI3ASh0dBjdBerDJG7gmdkw1KSQ2LYPM4p1ekan4cp+9xrsRfj54RQH14rnPLyiwl8A21XGC8cm1urrIK2ws5jo0fBXByZY8FdncbuULYfqPXhv4RpBdtqWn5nmtC3L9189DQmQ0j0587GZl0EnORAiokfYa5pHZFfNNluLCIVmopa5KMbwG7mWsMnkebeMSv7T55uP9N833uSC+y8lBqRYWM0Q==;DTT8Il9GSds6F+h6sfMLdA=="
 ---

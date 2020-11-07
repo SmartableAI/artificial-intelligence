@@ -138,6 +138,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 39
+  - title: "Autonomous driving startup Pony.ai picks up $267M at $5.3B+ valuation"
+    excerpt: "Pony.ai, a Chinese startup developing autonomous driving technology for cars and trucks, said late Thursday that it has secured $267 million in additional funding. The investment comes less than a year after the startup raised a hefty $462 million round led by Toyota Motor Corp."
+    publishedDateTime: 2020-11-06T20:36:00Z
+    webUrl: "https://siliconangle.com/2020/11/06/autonomous-driving-startup-pony-ai-picks-267m-5-3b-valuation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/ponyai.png"
+        width: 847
+        height: 477
+        isCached: true
   - title: "Who’s responsible when a driverless car has an accident?"
     excerpt: "Who’s responsible for an accident needs to be considered now rather than when we’re scrambling to implement laws We haven’t reached the point where driverless vehicles ply our roadways. However, as a recent incident on an Alberta highway demonstrates,"
     publishedDateTime: 2020-11-02T12:58:00Z
@@ -147,15 +161,6 @@ related:
       name: Troy Media
       domain: troymedia.com
     quality: 19
-  - title: "Autonomous driving startup Pony.ai picks up $267M at $5.3B+ valuation"
-    excerpt: "Pony.ai, a Chinese startup developing autonomous driving technology for cars and trucks, said late Thursday that it has secured $267 million in additional funding. The investment comes less than a year after the startup raised a hefty $462 million round led by Toyota Motor Corp."
-    publishedDateTime: 2020-11-06T20:36:00Z
-    webUrl: "https://siliconangle.com/2020/11/06/autonomous-driving-startup-pony-ai-picks-267m-5-3b-valuation/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 17
 
 secured: "6TicGtKcE3cWavoh72BnOluzWB7CzMwS9RPsmO2f0POO+XlKTHwsWRCAz1xAyT+nJ54YPhy0NszNJyUj1HCAZgHwQ0ehhZ0655sCnb9KF5wiTIfhdEy1uMRv+9yEOhMJ9gJ/4koTcClrFS21slYXOJfhPiFSGnvMAIGHITwpCZcvlG0qHnN+jxfK684ozXBFvwFhr5cpZvDepWSWnKHgJzcQ+lQaS+tROyuXwBJd+40NtU3RHH9VlZ/tR66WyyPaT/oMc35MzUCzNzPRoGWTlU+6utNr9eWVK/hpRdYeG/xCfomxa6/zfYrLs/R2QYjKBVyEiXXuagF39Cw1cKePb9+4dpnZj3vHPfJddJJc42c=;RmyWAQ8z3wkRIgwTfH/eJg=="
 ---

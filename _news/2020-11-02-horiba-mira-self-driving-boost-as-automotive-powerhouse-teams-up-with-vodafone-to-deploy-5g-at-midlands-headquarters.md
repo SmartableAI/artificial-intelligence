@@ -33,20 +33,6 @@ related:
         width: 1020
         height: 675
         isCached: true
-  - title: "Horiba Mira partners with Vodafone on automotive 5G"
-    excerpt: "which already includes unrivalled expertise in the rising cybersecurity threats facing driverless technologies as well as the use of artificial intelligence in Unmanned Ground Vehicles in the defence sector. According to a statement, the ultrafast data ..."
-    publishedDateTime: 2020-11-02T10:36:52Z
-    webUrl: "https://www.theengineer.co.uk/horiba-mira-partners-with-vodafone-on-automotive-5g/"
-    type: article
-    provider:
-      name: The Engineer
-      domain: theengineer.co.uk
-    quality: 24
-    images:
-      - url: "https://theengineer.markallengroup.com/production/2020/11/HORIBA-MIRA-Vodafone-Partnership-997x500.jpg"
-        width: 997
-        height: 500
-        isCached: true
   - title: "Horiba Mira accelerates autonomous vehicles with Vodafone 4G and 5G"
     excerpt: "Expert in engineering driverless technologies Horiba Mira partners with mobile network operator Vodafone to bring 5G to its Nuneaton headquarters with a private mobile network designed to allow vehicles to communicate with each other and surrounding infrastructure,"
     publishedDateTime: 2020-11-03T17:44:00Z

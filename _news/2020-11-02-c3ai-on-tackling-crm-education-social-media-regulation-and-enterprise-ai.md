@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/video/c3-ai-on-tackling-crm-education-social
 webUrl: "https://www.zdnet.com/video/c3-ai-on-tackling-crm-education-social-media-regulation-and-enterprise-ai/"
 type: article
 quality: 98
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "C3.ai CEO Tom Siebel on AI and CRM, remote learning's next breakthrough and regulating social media"
-    excerpt: "C3.ai is a top layer on top of Microsoft Dynamics, Azure and Adobe Experience Cloud. The joint effort will target industries such as oil and gas, utilities, manufacturing and healthcare. Siebel, who commercialized CRM in the 1990s with Siebel Systems ..."
-    publishedDateTime: 2020-11-02T11:01:00Z
-    webUrl: "https://www.zdnet.com/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 72
   - title: "Microsoft Partners With Adobe and C3.ai on Advanced CRM"
     excerpt: "Microsoft announced a partnership with Adobe and C3.ai to develop and market customized customer relationship management solutions."
     publishedDateTime: 2020-11-05T16:46:00Z

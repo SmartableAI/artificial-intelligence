@@ -28,9 +28,9 @@ images:
 
 related:
   - title: "Amazon’s Robotics Deals Have Paid Off, And One Investor Thinks Ocado’s May As Well."
-    excerpt: "Why two robotic deals are critical to Ocado Group, the food delivery company."
+    excerpt: "In these and other applications, embracing robotics and AI is cost-effective, safer, autonomous (as the technology works continuously in the background once switched on), limits human errors, and its marginal costs are minimal,"
     publishedDateTime: 2020-11-06T11:27:00Z
-    webUrl: "https://www.barrons.com/articles/amazons-robotics-deals-have-paid-off-and-one-investor-thinks-ocados-may-as-well-51604669249?refsec=technology"
+    webUrl: "https://www.barrons.com/articles/amazons-robotics-deals-have-paid-off-and-one-investor-thinks-ocados-may-as-well-51604669249?refsec=europe"
     ampWebUrl: "https://www.barrons.com/amp/articles/amazons-robotics-deals-have-paid-off-and-one-investor-thinks-ocados-may-as-well-51604669249"
     cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/amazons-robotics-deals-have-paid-off-and-one-investor-thinks-ocados-may-as-well-51604669249"
     type: article

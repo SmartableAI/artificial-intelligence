@@ -7,7 +7,7 @@ originalUrl: "https://www.embedded.com/ambarella-targets-intelligent-edge-sensin
 webUrl: "https://www.embedded.com/ambarella-targets-intelligent-edge-sensing-with-new-camera-soc/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ambarella launches computer vision chips for edge AI"
-    excerpt: "Chip designer Ambarella has announced a new computer vision chip for artificial intelligence at the edge of a computer network."
-    publishedDateTime: 2020-11-02T10:00:00Z
-    webUrl: "https://venturebeat.com/2020/11/02/ambarella-launches-computer-vision-chips-for-edge-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/11/02/ambarella-launches-computer-vision-chips-for-edge-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/02/ambarella-launches-computer-vision-chips-for-edge-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 121
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/11/ambarella-2.jpg?w=1200&strip=all"
-        width: 1200
-        height: 621
-        isCached: true
   - title: "AI Eye Episode 468: Ambarella (NasdaqGS: $AMBA) Introduces CV28M Camera SoC with Edge-Based AI Processing"
     excerpt: "Watching stock news, deal tracker and advancements in artificial intelligence Ambarella, Inc. ( NasdaqGS:AMBA) has introduced the CV28M camera system on chip (SoC), the latest in the company's CVflow family,"
     publishedDateTime: 2020-11-04T19:46:00Z

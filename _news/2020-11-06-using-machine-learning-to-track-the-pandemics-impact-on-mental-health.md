@@ -35,15 +35,6 @@ related:
       name: Medical Xpress
       domain: medicalxpress.com
     quality: 21
-  - title: "How the Pandemic Is Testing Personalized Learning"
-    excerpt: "Karis and Jaron, who are attending school remotely full-time, are participating in personalized learning programs. The mix of instructional models that schools are using during the pandemic is dizzying: Full-time remote,"
-    publishedDateTime: 2020-11-04T06:57:00Z
-    webUrl: "https://www.edweek.org/ew/articles/2020/11/04/how-the-pandemic-is-testing-personalized-learning.html"
-    type: article
-    provider:
-      name: Education Week
-      domain: edweek.org
-    quality: 4
 
 secured: "OcnT2lIxAK1ZWItu9SP95Wc7q3TMV0cPtEydOnzEIK8ENAswEF40OZX1DGGJRqzFwkGbNHWQFTJib/jOuz4nIrwm7hQdvIQ6368vUyCYHIBQWdD3GLDqAbSP4fd9wiBKFlA25aubp2Qyj9X5/DqjpiXH/f8rbfgDiOnz79o0ehnqUjGDYmDSFYIV8V0WN+yt51/M8FOM9zlhvBAXbAXsB7RoUi9DNe9Ob2Il7emtrtdF9BfdDOY82aN+FkryvgmPnWgCZA++pRzBGUlI6AM2AxwReszuQnwbtZfChJXIPPfEc8XHktvKZOFnyDpvZ5JwveTOySBFqMyCXvdsCknvChzNfPn9QIHcMweZWlOZC34=;mQqvrWlW69ONgMNunFZZjQ=="
 ---

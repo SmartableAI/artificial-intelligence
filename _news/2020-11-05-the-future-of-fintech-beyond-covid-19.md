@@ -25,153 +25,122 @@ images:
     isCached: true
 
 related:
-  - title: "Inside fintech startup Upstart’s IPO filing"
-    excerpt: "The fintech startup facilitates loans between consumers ... Upstart’s technology uses what it describes as artificial intelligence (AI) to approve consumer loans. It collects consumer demand ..."
-    publishedDateTime: 2020-11-05T19:26:00Z
-    webUrl: "https://techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/"
-    ampWebUrl: "https://techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/amp/"
+  - title: "Intelligently connect to customers using machine learning in the COVID-19 pandemic"
+    excerpt: "The pandemic has changed how people interact, how we receive information, and how we get help. It has shifted much of what used to happen in-person to online. Many of our customers are using machine learning (ML) technology to facilitate that transition, from new remote cloud contact centers, to chatbots,"
+    publishedDateTime: 2020-11-05T23:42:17Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/intelligently-connect-to-customers-using-machine-learning-in-the-covid-19-pandemic/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
+      name: AWS
+      domain: aws.amazon.com
+    quality: 85
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-951640954.jpg?w=1024"
-        width: 1024
-        height: 684
+      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
+        width: 1260
+        height: 630
         isCached: true
-  - title: "Meet Accern, A 2020 Benzinga Global Fintech Awards Finalist"
-    excerpt: "Benzinga will be holding its annual Benzinga Global Fintech Awards, a day of dealmaking, networking, and recognition in the financial technology space, on Nov. 10,"
-    publishedDateTime: 2020-11-03T17:10:00Z
-    webUrl: "https://www.benzinga.com/fintech/20/11/18157493/meet-accern-a-2020-benzinga-global-fintech-awards-finalist"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18157493"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18157493"
+  - title: "Stanford researchers developing fast, portable COVID-19 testing chip"
+    excerpt: "With this 'lab on a chip,' anyone can test themselves for COVID-19 in the comfort of their home using a tiny chip instead of sending the nasal swabs fluid to laboratories."
+    publishedDateTime: 2020-11-06T22:19:00Z
+    webUrl: "https://abc7news.com/health/stanford-developing-fast-portable-covid-19-testing-chip/7686757/"
+    ampWebUrl: "https://abc7news.com/amp/coronavirus-testing-stanford-researchers-covid-19-test-results/7686757/"
+    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/coronavirus-testing-stanford-researchers-covid-19-test-results/7686757/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
+      name: ABC7 San Francisco
+      domain: abc7news.com
+    quality: 59
     images:
-      - url: "https://www.benzinga.com/files/images/story/2012/copy_of_courtesy_photo_4_0.png"
-        width: 800
-        height: 360
+      - url: "https://cdn.abcotvs.com/dip/images/7713011_110620-kgo-lab-chip-img_Image_00-00-22,27.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Deutsche Börse Finalizes $15 Million Round in Clarity AI, a Fintech Leveraging Machine Learning Tech"
-    excerpt: "Deutsche Börse has finalized a $15 million investment round in Clarity AI, a Fintech leveraging machine learning tech."
-    publishedDateTime: 2020-11-05T01:31:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/11/168794-deutsche-borse-finalizes-15-million-round-in-clarity-ai-a-fintech-leveraging-machine-learning-tech/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/168794-deutsche-borse-finalizes-15-million-round-in-clarity-ai-a-fintech-leveraging-machine-learning-tech/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/168794-deutsche-borse-finalizes-15-million-round-in-clarity-ai-a-fintech-leveraging-machine-learning-tech/amp/"
+  - title: "Schools Adopt Face Recognition in the Name of Fighting Covid"
+    excerpt: "A WIRED investigation finds dozens of districts have purchased thermal cameras to monitor fevers that can also identify students and staff."
+    publishedDateTime: 2020-11-03T11:00:00Z
+    webUrl: "https://www.wired.com/story/schools-adopt-face-recognition-name-fighting-covid/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
+      name: Wired
+      domain: wired.com
+    quality: 49
+  - title: "Amazon Web Services Introduces Open-Source Machine Learning Toolkit To Predict The Spread Of COVID-19"
+    excerpt: "Amazon Web Services open-sources a new simulator and a series of machine learning tools that allow researchers and data scientists to study and predict the spread of the COVID-19 pandemic infections."
+    publishedDateTime: 2020-11-02T15:27:00Z
+    webUrl: "https://techlog360.com/aws-open-source-machine-learning-toolkit-to-predict-the-spread-of-covid-19/"
+    type: article
+    provider:
+      name: techlog360.com
+      domain: techlog360.com
     quality: 41
-  - title: "BankOnUs launches app to support fintech firms"
-    excerpt: "BankOnUS, a leading financial services aggregator in the UAE, has launched a new generation technology-oriented app to enhance the customer engagement level and enable easy, reliable and cost-effective financial solutions to its customers."
-    publishedDateTime: 2020-11-05T23:44:00Z
-    webUrl: "https://www.zawya.com/mena/en/story/BankOnUs_launches_app_to_support_fintech_firms-SNG_189134285/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_189134285/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_189134285/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 39
-  - title: "Wilson Sonsini-Led AI Fintech Files $100M IPO"
-    excerpt: "Venture-backed fintech company Upstart Holdings Inc. filed plans on Thursday for a $100 million initial public offering, hoping to shake up the lending industry through its artificial intelligence-enabled platform under guidance from Wilson Sonsini Goodrich & Rosati PC."
-    publishedDateTime: 2020-11-06T01:09:00Z
-    webUrl: "https://www.law360.com/technology/articles/1326219/wilson-sonsini-led-ai-fintech-files-100m-ipo"
-    ampWebUrl: "https://www.law360.com/amp/articles/1326219"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1326219"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 39
-  - title: "F|T: The FinTech Times – Toeing the line"
-    excerpt: "a weekly newsletter covering the biggest FinTech news from around the globe. If you want to read F|T before anyone else, make sure to subscribe using the form at the bottom of this page. Wealthsimple has tapped Paul Teshima, the co-founder of Nudge.ai, to ..."
-    publishedDateTime: 2020-11-02T10:59:00Z
-    webUrl: "https://betakit.com/ft-the-fintech-times-toeing-the-line/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 24
     images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2019/05/fintechtimes-1-1-1-1-1024x575.png"
-        width: 1024
-        height: 575
-        isCached: true
-  - title: "Top 10 Asian FinTech Startups You Need to Follow"
-    excerpt: "Bowen Khong takes a look at 10 Asian Fintech Startups that you should be aware of they include Ant Group, Ping An Technology, Dr Wealth, Grab Pay, Razer Pay, Folio, Viva Republic, Policy Bazaar, HelloGold,"
-    publishedDateTime: 2020-11-04T07:00:00Z
-    webUrl: "https://www.enterprisetimes.co.uk/2020/11/04/top-10-asian-fintech-startups-you-need-to-follow/"
-    type: article
-    provider:
-      name: enterprisetimes.co.uk
-      domain: enterprisetimes.co.uk
-    quality: 24
-    images:
-      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2020/10/Photo-by-Christina-@-wocintechchat.jpg"
-        width: 728
-        height: 410
-        isCached: true
-  - title: "Fintech agrees deal for refurbished office landmark"
-    excerpt: "An expanding fintech company is moving to the newly-refurbished Hodge House office building in Cardiff city centre. The move follows an announcement last month that listed AI"
-    publishedDateTime: 2020-11-06T12:08:00Z
-    webUrl: "https://www.insidermedia.com/news/wales/fintech-agrees-deal-for-refurbished-office-landmark"
-    type: article
-    provider:
-      name: Insider
-      domain: insidermedia.com
-    quality: 24
-    images:
-      - url: "https://www.insidermedia.com/uploads/event/logos/logo_5G_and_the_superconnected_city.jpg"
-        width: 693
-        height: 400
-        isCached: true
-  - title: "LexinFintech Unveils Strategy to Further Tap Chinese Consumer Market at Hong Kong Fintech Week 2020"
-    excerpt: "LexinFintech Holdings Ltd. (\"Lexin\" or the \"Company\") (NASDAQ: LX), a leading online consumption and consumer finance platform for educated young professionals in"
-    publishedDateTime: 2020-11-06T14:03:00Z
-    webUrl: "https://omaha.com/business/consumer/lexinfintech-unveils-strategy-to-further-tap-chinese-consumer-market-at-hong-kong-fintech-week-2020/article_bd7f3676-060e-593e-b74b-f54c1fd8ab29.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 10
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
+      - url: "https://tl360.b-cdn.net/wp-content/uploads/2020/11/AWS-news-and-stories.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Crowdsourcing startup wins FinTech Frontier pitch competition"
-    excerpt: "A Pittsburgh-based startup won FinTech Frontier’s inaugural pitch competition, and here's what the company had to say about Cincinnati."
-    publishedDateTime: 2020-11-02T17:37:00Z
-    webUrl: "https://www.bizjournals.com/cincinnati/inno/stories/news/2020/11/02/fintech-frontier-names-pitch-competition-winner.html"
+  - title: "Machine Learning Helps Reduce Food Insecurity During COVID-19"
+    excerpt: "Researchers used machine learning to create bus routes and deliver meals to individuals in need, reducing food insecurity in Pennsylvania communities."
+    publishedDateTime: 2020-11-06T14:32:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-helps-reduce-food-insecurity-during-covid-19"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
-  - title: "The Game-changing FinTech Company You Need to Know About"
-    excerpt: "Back in June, we introduced our Stockhouse investor audience to an emerging FinTech giant and took a deep dive into how this Canadian company is on the forefront of developing artificial intelligence (AI) that transforms data into knowledge."
-    publishedDateTime: 2020-11-05T14:28:00Z
-    webUrl: "https://stockhouse.com/opinion/interviews/2020/11/05/the-game-changing-fintech-company-you-need-to-know-about"
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-908168476.jpg"
+        width: 690
+        height: 400
+        isCached: true
+  - title: "Researchers use deep learning and 2D and 3D convolutional neural networks to predict the severity of Covid-19"
+    excerpt: "Researchers and doctors from Gustave Roussy, Assistance Publique-Hôpitaux de Paris, CentraleSupélec, Université de Paris, Université Paris-Saclay, Inserm, Inria and TheraPanacea worked on a study on the prediction of the gravity of Covid-19 using artificial intelligence (AI)."
+    publishedDateTime: 2020-11-03T23:31:00Z
+    webUrl: "https://www.actuia.com/english/researchers-use-deep-learning-and-2d-and-3d-convolutional-neural-networks-to-predict-the-severity-of-covid-19/"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 4
-  - title: "5 Top performing FinTech companies in the United States"
-    excerpt: "FinTech is a portmanteau of the terms “finance” and “technology”. The article reveals the top performing 5 Fintech companies in the U.S."
-    publishedDateTime: 2020-11-06T11:18:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/5-top-performing-fintech-companies-in-the-united-states/"
+      name: Actu IA
+      domain: actuia.com
+    quality: 35
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2020/11/AI-Driven-CT-based-quantification-staging-and-short-term-outcome-prediction-of-COVID-19-pneumonia-couv.jpg"
+        width: 817
+        height: 457
+        isCached: true
+  - title: "Huge learning losses during COVID-19 disruptions may have DISD lowering its academic goals"
+    excerpt: "Dallas students suffered such deep learning losses during the pandemic that school officials won’t be able to catch them up by the end of the school year, which means DISD wants to lower its academic goals."
+    publishedDateTime: 2020-11-06T15:34:00Z
+    webUrl: "https://www.dallasnews.com/news/education/2020/11/06/huge-learning-losses-during-covid-19-disruptions-may-have-disd-lowering-its-academic-goals/"
+    ampWebUrl: "https://www.dallasnews.com/news/education/2020/11/06/huge-learning-losses-during-covid-19-disruptions-may-have-disd-lowering-its-academic-goals/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/education/2020/11/06/huge-learning-losses-during-covid-19-disruptions-may-have-disd-lowering-its-academic-goals/?outputType=amp"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 34
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/Y_9KI5WD4_zKiLKSvWTGAwYo1Lk=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/XNV5BRFBDZGAFNKAOYJOIFQHRU.JPG"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "What software developers should know about 2021: Low-code, AI code testing, COVID-19's lasting effect and the skills needed to stay on top"
+    excerpt: "Forrester made 5 predictions for software development in 2021. Bill Detwiler talks with software industry veteran VP and principal analyst Jeffrey Hammond, the report's lead author, about what developers and IT leaders should expect in 2021."
+    publishedDateTime: 2020-11-07T00:28:00Z
+    webUrl: "https://www.techrepublic.com/article/what-software-developers-should-know-about-2021-low-code-ai-code-testing-covid-19s-lasting-effect-and-the-skills-needed/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/what-software-developers-should-know-about-2021-low-code-ai-code-testing-covid-19s-lasting-effect-and-the-skills-needed/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/what-software-developers-should-know-about-2021-low-code-ai-code-testing-covid-19s-lasting-effect-and-the-skills-needed/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 33
+  - title: "How the Pandemic Is Testing Personalized Learning"
+    excerpt: "Karis and Jaron, who are attending school remotely full-time, are participating in personalized learning programs. The mix of instructional models that schools are using during the pandemic is dizzying: Full-time remote,"
+    publishedDateTime: 2020-11-04T06:57:00Z
+    webUrl: "https://www.edweek.org/ew/articles/2020/11/04/how-the-pandemic-is-testing-personalized-learning.html"
+    type: article
+    provider:
+      name: Education Week
+      domain: edweek.org
     quality: 4
 
 secured: "NWBxKWJiAWjlibmg5e/qR4NrJhViFZKO2A1wlR2dCo3SMimx3NQtFHjGKZ73ytpReBHmtlKyDlpvX36mQ1nLjizl863T9D7y2QG1gFgT7JieV9RRCuLY4NDdVxDy8gu+zY2SPeqw9HWiRb7c0ieLewVukwCm6d1Va9/VwU9MWuBSTtwtVr8U+qWusxKwSMq8psJXFhCp8LyXLQFx43+OlOKd4wyhejOmKjjd/+koYp+rrMUqISKO/X46FVY49VUmJiUxrNaylz0TaAdzzbLs+1FETA82DN9H6oaWN2FbchcFeKNcviUhLxoyuDGnRSImi4dz44lyKyVjZskCC9S3c2pDqkw426LA3Bg2+5YGNHg=;EvsHv92pP7uz67f0lpbPLQ=="

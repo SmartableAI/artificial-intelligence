@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ambarella launches computer vision chips for edge AI"
-    excerpt: "Chip designer Ambarella has announced a new computer vision chip for artificial intelligence at the edge of a computer network."
-    publishedDateTime: 2020-11-02T10:00:00Z
-    webUrl: "https://venturebeat.com/2020/11/02/ambarella-launches-computer-vision-chips-for-edge-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/11/02/ambarella-launches-computer-vision-chips-for-edge-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/02/ambarella-launches-computer-vision-chips-for-edge-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 121
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/11/ambarella-2.jpg?w=1200&strip=all"
-        width: 1200
-        height: 621
-        isCached: true
   - title: "Ambarella targets intelligent edge sensing with new camera SoC"
     excerpt: "Computer vision chip company Ambarella has announced a new processor in its camera system on chip (SoC) family, targeting what it said is a wider variety"
     publishedDateTime: 2020-11-04T18:27:00Z

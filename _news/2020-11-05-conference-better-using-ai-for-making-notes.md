@@ -52,6 +52,20 @@ related:
         width: 300
         height: 225
         isCached: true
+  - title: "Using Workstations To Reshape Your Artificial Intelligence Infrastructure"
+    excerpt: "The study results summarized in this white paper show that firms are already using workstations to lower the cost, increase the security, and speed up their AI infrastructure. The addition of workstations into a firms AI workflow allows servers and cloud platforms to be tasked with business cases that require more robust computing while workstations take on tasks with longer time frames and smaller budgets."
+    publishedDateTime: 2020-11-02T21:59:00Z
+    webUrl: "https://insidehpc.com/white-paper/using-workstations-to-reshape-your-artificial-intelligence-infrastructure/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 36
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/10/IHPC_DellUsingWorkstationsCover_2020-10-30_12-49-56.jpg"
+        width: 552
+        height: 311
+        isCached: true
 
 secured: "0R7Rtu5VPA2GLLxSyiBxDieGVpu0vQi0xQuuTDeFC29OszGP3PVAvbpcPVuRfoso5K48C1sOefWME/U3Tev757ARKph6RDTHlbd7mVZt2zpBhzv/C1zKgpQnW3cFxBRG+leMoHhwePC0tqVl97rGVsnJK0a7DdQM4Z6SkuK0Po6123lT4Esh9+FXy2uZrpWikJRjVuxyd/OZLkAaKiYzCKcIItexrHXaRYGxgl/Ggj9X/XzDfDpA3oA3DUma9pHnS3y7ToiKJS5Bq8ATX9JXpwxM3g7l9vR+BviOeRiWI6JO/VBUPgNavSwyaHmpcZqi7y2o1yDeoXO29gQs8Gm39OANZWb7TjlI0BTsD8QHNv0=;WZxpDcmCoSBtjM2C8zr56w=="
 ---

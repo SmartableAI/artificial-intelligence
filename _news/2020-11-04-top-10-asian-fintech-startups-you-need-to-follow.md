@@ -82,7 +82,7 @@ related:
   - title: "Wilson Sonsini-Led AI Fintech Files $100M IPO"
     excerpt: "Venture-backed fintech company Upstart Holdings Inc. filed plans on Thursday for a $100 million initial public offering, hoping to shake up the lending industry through its artificial intelligence-enabled platform under guidance from Wilson Sonsini Goodrich & Rosati PC."
     publishedDateTime: 2020-11-06T01:09:00Z
-    webUrl: "https://www.law360.com/technology/articles/1326219/wilson-sonsini-led-ai-fintech-files-100m-ipo"
+    webUrl: "https://www.law360.com/articles/1326219/wilson-sonsini-led-ai-fintech-files-100m-ipo"
     ampWebUrl: "https://www.law360.com/amp/articles/1326219"
     cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1326219"
     type: article
@@ -90,34 +90,6 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
-  - title: "F|T: The FinTech Times – Toeing the line"
-    excerpt: "a weekly newsletter covering the biggest FinTech news from around the globe. If you want to read F|T before anyone else, make sure to subscribe using the form at the bottom of this page. Wealthsimple has tapped Paul Teshima, the co-founder of Nudge.ai, to ..."
-    publishedDateTime: 2020-11-02T10:59:00Z
-    webUrl: "https://betakit.com/ft-the-fintech-times-toeing-the-line/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 24
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2019/05/fintechtimes-1-1-1-1-1024x575.png"
-        width: 1024
-        height: 575
-        isCached: true
-  - title: "The future of fintech beyond COVID-19"
-    excerpt: "By Ritam Gandhi, Founder and Director, Studio Graphene  COVID-19 has undoubtedly cemented our reliance on technology. With the unexpected shift to online working, shopping and entertaining, digital solutions have largely been the only means to overcome disruptions to our daily routines."
-    publishedDateTime: 2020-11-05T11:59:00Z
-    webUrl: "https://www.globalbankingandfinance.com/the-future-of-fintech-beyond-covid-19/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 24
-    images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/11/Untitled-design-2020-11-05T165829.943.jpg"
-        width: 750
-        height: 422
-        isCached: true
   - title: "Fintech agrees deal for refurbished office landmark"
     excerpt: "An expanding fintech company is moving to the newly-refurbished Hodge House office building in Cardiff city centre. The move follows an announcement last month that listed AI"
     publishedDateTime: 2020-11-06T12:08:00Z

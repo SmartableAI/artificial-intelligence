@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-el
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-elon-musk-price/"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -116,15 +116,6 @@ related:
       name: RealClearMarkets
       domain: realclearmarkets.com
     quality: 19
-  - title: "Video Shows Skydio 2 Drone Following a Tesla 3 Full Self-Driving and Winning Race"
-    excerpt: "A video posted in YouTube shows the Tesla Model 3 in its Full Self-Driving (Beta) mode while a Skydio 2 drone camera follows it whenever it goes. See how the"
-    publishedDateTime: 2020-11-02T09:12:00Z
-    webUrl: "https://infosurhoy.com/technology/video-shows-skydio-2-drone-following-a-tesla-3-full-self-driving-and-winning-race/"
-    type: article
-    provider:
-      name: InfoSur Hoy
-      domain: infosurhoy.com
-    quality: 14
 
 secured: "UsMruXM1G5bnuXz7W501Q3maGNCniKXXU7imHllA3lGGzOlfdr9LGH8Db8CtFNm8iwu6BX3PxnqDsF1oINtL9TfkkB7LkEaV1cMmhvRnRNmlg/Q/BE2qO3AnRDnGkOpUrwTX3VkjL4MnUpNKXzpL/3a5z6SVjqJrxao87/EIVcyKvcEdd96a5bjiJOZm2wvE6VbZ8zH1NUc8OuLUlxayjcTM/D68jOTW4gXymn5aY1fkff1jTTJTNqaD/a6yOpJXfvs5T1+c8WP3MxouJsU9LxNTyInHX8t2UfsKLoxl881njsNi7PZ6pW2LR5/Ufcms2TNaertd6CQWIkyUh7qNzagR+eay/lj5PL89ibR1ieunUDKvNm3R9sRJBWE70aPvgumbNnz3ZU5wrpOZJiG/pymcD+VW9ucP0Fs+YqdsQYxEAM7xLOwGRQjOpnQhwnUJO0yOiCHaXUc7c/3BG4oBc852MCxy2o4gYz5DVOxvTQRiYbndz2UfxQ7e8gzl1LBaNMW7d7cmp7SixqmsB8/3Xg==;AwQuHgyLazMxDElamG2IdA=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-06T20:36:00Z
 originalUrl: "https://siliconangle.com/2020/11/06/autonomous-driving-startup-pony-ai-picks-267m-5-3b-valuation/"
 webUrl: "https://siliconangle.com/2020/11/06/autonomous-driving-startup-pony-ai-picks-267m-5-3b-valuation/"
 type: article
-quality: 17
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,13 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/ponyai.png"
+    width: 847
+    height: 477
+    isCached: true
 
 related:
   - title: "Chinese driverless car firm Pony.ai valued at $5.3 billion after new cash injection"
@@ -151,6 +158,6 @@ related:
       domain: troymedia.com
     quality: 19
 
-secured: "/oHIg/D9C2PA/yHOXIDzlHWjBFUSkB8FuWglEKQeSDKK74/mEslDN0eowuz5gYgIWyMX8ZpasCkqWg7O9Tp6nLxrrt1EZvBPaaXWec7msWZjay2gVY8JfhX5EN7pPkEq7wsyN31i7PztLE5F37+3JKT5gQoqMkGaqSmoDdAcNgNb/Zgh+HwDHH7gcniMyCO/nKfNbWav4VEsXbsGqG7lashxcV+HSTV0pMp3YfkwqtWUu2RNi7N1ahOaOLTFX6BnPMK85QJ1jzAZdjdIhp3N/iqQGeoB/DWPokjVkQiZFGWk3+6nn1BTLaILjtCt0s+P8AsKtSJhtrVTHsb5iRHTXcBCV0MjhiGAF8659N9QWpC+qbyWY8HBSw+Uf9xSoJl4iaQdj4Yuoi/pSgdd2xk+0Uro1URDg2dfUYaRO/TBUlAQ/ZghYR2RKqykFB6TMUPYFHb/RmQsms3rU5MEs156pKa7camFg7+NJDzY11sx3syhLD+VifAlFnPMWWm0mbG5di8Az2E8Q2HXAtakzOcQjQ==;3AVaP8hfE65AW1UlNpKcaw=="
+secured: "t+HpRkhAK11nD5zF498FKtrsTWZc1IodbYqDlZxH01D/IoH6VravA74NQJAB4xJUoALeddkZ4eGxOa+xqQywt5GnL2Bgf9wihoUUSY5SgPBwEe5n8Baj9AOqfLGCRcSr7zUItMXCVwZeI1YUo9kmA1u+7rM1IY7siPq0WQoyZ0XF+ZWGuuP4mUiCNi3zORtXVRE72UYcZd2IKOzNQUAcftpVGyBA7cxiUyUwbSrMVInDm05V9iXB0SJJ5bD0DWfoAdc7o/m/xt/pGahFoG89Qs+x8atOgcUIKNprTrmImuV5Y20VJYUyFGx6v/XNADlrUwmY0A+IjT+8L93dXelmIXO8xOtK42nFQ6Lv7wPeHdU=;rZSvEh016fevp1c5jjhamw=="
 ---
 

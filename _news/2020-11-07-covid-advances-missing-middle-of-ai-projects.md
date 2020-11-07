@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AI can detect asymptomatic COVID-19 infections by listening to a cough"
-    excerpt: "MIT has invented a tool that uses artificial intelligence to identify those with asymptomatic COVID-19 infections. Asymptomatic people are the most difficult to detect and can spread the infection"
-    publishedDateTime: 2020-11-02T10:57:00Z
-    webUrl: "https://www.slashgear.com/ai-can-detect-asymptomatic-covid-19-infections-by-listening-to-a-cough-02645368/"
-    ampWebUrl: "https://www.slashgear.com/ai-can-detect-asymptomatic-covid-19-infections-by-listening-to-a-cough-02645368/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ai-can-detect-asymptomatic-covid-19-infections-by-listening-to-a-cough-02645368/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 87
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/11/cough.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "This AI Identifies Asymptomatic COVID Carriers by Their Cough"
     excerpt: "A neural network created by MIT to look for signs of Alzheimer's has been applied to COVID-19 and accurately identified 98.5 percent of coughs from people who were confirmed to have novel coronavirus."
     publishedDateTime: 2020-11-02T13:58:00Z
@@ -67,20 +51,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Intelligently connect to customers using machine learning in the COVID-19 pandemic"
-    excerpt: "The pandemic has changed how people interact, how we receive information, and how we get help. It has shifted much of what used to happen in-person to online. Many of our customers are using machine learning (ML) technology to facilitate that transition, from new remote cloud contact centers, to chatbots,"
-    publishedDateTime: 2020-11-05T23:42:17Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/intelligently-connect-to-customers-using-machine-learning-in-the-covid-19-pandemic/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 85
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
-        width: 1260
-        height: 630
-        isCached: true
   - title: "AI Model Can Detect Covid-19 Through Recorded Coughs"
     excerpt: "A new AI model has shown to be able to detect Covid-19 through cell-phone recorded coughs. As reported by MIT News this could prove a valuable defence"
     publishedDateTime: 2020-11-03T16:17:00Z
@@ -112,22 +82,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/dDCp4NHDYvB0BmToGJy_f8F43ok=/0x0:1350x900/1400x1050/filters:focal(567x342:783x558):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67737901/MIT_Cough_Recordings_01_PRESS.0.jpg"
         width: 1350
         height: 900
-        isCached: true
-  - title: "MIT builds AI which can detect Covid-19 by listening to your cough"
-    excerpt: "AI tool uses neural networks that can figure out changes in a person’s cough which point out whether they are infected"
-    publishedDateTime: 2020-11-02T10:12:00Z
-    webUrl: "https://tribune.com.pk/story/2270745/mit-builds-ai-which-can-detect-covid-19-by-listening-to-your-cough"
-    ampWebUrl: "https://tribune.com.pk/story/2270745/mit-builds-ai-which-can-detect-covid-19-by-listening-to-your-cough"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2270745/mit-builds-ai-which-can-detect-covid-19-by-listening-to-your-cough"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 57
-    images:
-      - url: " https://i.tribune.com.pk/media/images/02101604302793-0/02101604302793-0.jpg  "
-        width: 1240
-        height: 826
         isCached: true
   - title: "AI can detect COVID-19 from the sound of your cough"
     excerpt: "The AI model correctly identified 98.5% of people with COVID-19 ... Similar projects are underway in Cambridge University, Carnegie Mellon University and the U.K. start-up Novoic, according to BBC. \"Pandemics could be a thing of the past if pre-screening ..."
@@ -186,36 +140,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "Now Artificial Intelligence Can Detect COVID-19 by Listening to Your Coughs | Check Here How"
-    excerpt: "Also Read - WHO Chief Goes Into Quarantine After Contact Tests Positive For Coronavirus Researchers have confirmed that an artificial intelligence (AI) tool that can detect if there are any indications in a human’s cough that could point to a COVID ..."
-    publishedDateTime: 2020-11-02T10:09:00Z
-    webUrl: "https://www.india.com/technology/now-artificial-intelligence-can-detect-covid-19-by-listening-to-your-coughs-check-here-how-4194973/"
-    ampWebUrl: "https://www.india.com/technology/now-artificial-intelligence-can-detect-covid-19-by-listening-to-your-coughs-check-here-how-4194973/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/now-artificial-intelligence-can-detect-covid-19-by-listening-to-your-coughs-check-here-how-4194973/amp/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 46
-    images:
-      - url: "https://s3.india.com/wp-content/uploads/2020/10/pjimage-2020-10-11T094732.061.jpg"
-        width: 700
-        height: 415
-        isCached: true
-  - title: "Amazon Web Services Introduces Open-Source Machine Learning Toolkit To Predict The Spread Of COVID-19"
-    excerpt: "Amazon Web Services open-sources a new simulator and a series of machine learning tools that allow researchers and data scientists to study and predict the spread of the COVID-19 pandemic infections."
-    publishedDateTime: 2020-11-02T15:27:00Z
-    webUrl: "https://techlog360.com/aws-open-source-machine-learning-toolkit-to-predict-the-spread-of-covid-19/"
-    type: article
-    provider:
-      name: techlog360.com
-      domain: techlog360.com
-    quality: 41
-    images:
-      - url: "https://tl360.b-cdn.net/wp-content/uploads/2020/11/AWS-news-and-stories.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Identifies Asymptomatic COVID-19 Infections"
     excerpt: "An artificial intelligence tool was able to accurately distinguish between the coughs of COVID-19 patients and healthy individuals."
     publishedDateTime: 2020-11-03T14:32:00Z
@@ -259,20 +183,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998027001/6dbb1e03-d75b-4843-808d-d33469ba86b9/b6e3392c-4dec-46dc-b78f-ab267f2c02b7/1280x720/match/image.jpg"
         width: 1280
         height: 623
-        isCached: true
-  - title: "Machine Learning Helps Reduce Food Insecurity During COVID-19"
-    excerpt: "Researchers used machine learning to create bus routes and deliver meals to individuals in need, reducing food insecurity in Pennsylvania communities."
-    publishedDateTime: 2020-11-06T14:32:00Z
-    webUrl: "https://healthitanalytics.com/news/machine-learning-helps-reduce-food-insecurity-during-covid-19"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-908168476.jpg"
-        width: 690
-        height: 400
         isCached: true
   - title: "MIT artificial intelligence model detects COVID-19 by sound of cough"
     excerpt: "The AI model for COVID-19 uses the same four biomarkers— vocal cord strength, sentiment, lung and respiratory performance and muscular degradation — as a similar model used to detect Alzheimer's. One of the biggest challenges with slowing the spread of COVID-19 is detecting it in people who never show any symptoms."

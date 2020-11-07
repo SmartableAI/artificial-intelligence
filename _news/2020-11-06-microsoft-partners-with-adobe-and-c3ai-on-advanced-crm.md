@@ -40,17 +40,6 @@ related:
         width: 370
         height: 278
         isCached: true
-  - title: "C3.ai CEO Tom Siebel on AI and CRM, remote learning's next breakthrough and regulating social media"
-    excerpt: "C3.ai is a top layer on top of Microsoft Dynamics, Azure and Adobe Experience Cloud. The joint effort will target industries such as oil and gas, utilities, manufacturing and healthcare. Siebel, who commercialized CRM in the 1990s with Siebel Systems ..."
-    publishedDateTime: 2020-11-02T11:01:00Z
-    webUrl: "https://www.zdnet.com/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/c3-ai-ceo-tom-siebel-on-ai-and-crm-remote-learnings-next-breakthrough-and-regulating-social-media/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 72
 
 secured: "xwgbjFN9IRhRxQ/BOYGEAKN0GVIPSiba1BQLNTPgTHobB27Eldb6yIRBZouhrnBL2qcdew9NLPnoxeQDKD7sjf3mGAry0iD5xIaYHBAXA0I8oq8eOM1DnnkMaDQjonEvuoECBluZ9b2jXTu1TGsZeTrVJ2CtEv7F5kd/H3ZNK+15iPa20CIXEUD+/HSCkhphmsZjxKpxxShgoNNEgIMcw3+eVXxi08VC0P8L/B6XrU1iwIwv6E7r2qK770iefX89lBijH5Oyeabn5rdn8L7NwKcebpGPFwo6Y1wcijp3bOpgytakQvruakR0MbJp9sk3+DtnOi+zNjZjshx4cg8o/9dx2ShJyGmxI4UDJeh4ufJ6vlyimDgcTnZfgIkjd4oeN666+SNJbqaY+HfJjXwVaoNsquKBvYT3R1/B9oCtyMrN0BDUshxQwU43lZ4ybs7BSb2HuZ2Fd30NNfzHG00HPgfeli+m2jADPNNkSiaRpkRgiI17EITyub7LhDDgQWrONxNdoPCp1Bv5gnz9c1t7kQ==;9hXwvkJL3V0LwU0C/jH8Jw=="
 ---

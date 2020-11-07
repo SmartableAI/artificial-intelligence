@@ -150,7 +150,12 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 17
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/ponyai.png"
+        width: 847
+        height: 477
+        isCached: true
 
 secured: "FrJNiGkSl//WZ6NaoMRruOb1ESqCC2BaJ0OSYGjdHkiIv0hSz2LElvbeFbLc4pmVBrrjhMwJdbQavTe7R/OF4WWF6Fu0bN37Iw3/RDC64dTDpl6VQDBHI+yCh/M+7hDY3Du6da/neH+lEX0gyCifWhvKMz51xaQeSglkxegrMWbXYz7i41evQ4eOs4lF45T2oXEa1y/0xrlBwDwsJXvCtLu3kqv2cZrxtvkjIUzBcv+C34wNfyoy+Qev/BRJcSGNiuepgTK6iMlVmrU5iH6TizvVGtSlbH9rKwg3ztK3V/yb7u8T01cbXfRMXS4dAvQMQDVoIxSD5eNfmEDF9Rmj2SMMZMj90g6NtIeHEZa9VinKb12ZsbCtyAbJDe5KDGTMRoBMyi28ER3tz7isoNmWoiSPHolHDy6Rfwya1H5CUycfaOfM3wLJ5PyYtHioOP9FJXCtvGCZB2nhAf/rE4IJGJu6+VCz0eFXOUDyInvk45/aiVAJkAuAnY0fuu4dMj/psZoqW5tISKyjPF/qxIZ/ew==;jR7SemoywiRV9QMVgvVKqg=="
 ---

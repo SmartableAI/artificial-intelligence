@@ -3,8 +3,8 @@ category: news
 title: "Wilson Sonsini-Led AI Fintech Files $100M IPO"
 excerpt: "Venture-backed fintech company Upstart Holdings Inc. filed plans on Thursday for a $100 million initial public offering, hoping to shake up the lending industry through its artificial intelligence-enabled platform under guidance from Wilson Sonsini Goodrich & Rosati PC."
 publishedDateTime: 2020-11-06T01:09:00Z
-originalUrl: "https://www.law360.com/technology/articles/1326219/wilson-sonsini-led-ai-fintech-files-100m-ipo"
-webUrl: "https://www.law360.com/technology/articles/1326219/wilson-sonsini-led-ai-fintech-files-100m-ipo"
+originalUrl: "https://www.law360.com/articles/1326219/wilson-sonsini-led-ai-fintech-files-100m-ipo"
+webUrl: "https://www.law360.com/articles/1326219/wilson-sonsini-led-ai-fintech-files-100m-ipo"
 ampWebUrl: "https://www.law360.com/amp/articles/1326219"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1326219"
 type: article
@@ -75,20 +75,6 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 39
-  - title: "F|T: The FinTech Times – Toeing the line"
-    excerpt: "a weekly newsletter covering the biggest FinTech news from around the globe. If you want to read F|T before anyone else, make sure to subscribe using the form at the bottom of this page. Wealthsimple has tapped Paul Teshima, the co-founder of Nudge.ai, to ..."
-    publishedDateTime: 2020-11-02T10:59:00Z
-    webUrl: "https://betakit.com/ft-the-fintech-times-toeing-the-line/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 24
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2019/05/fintechtimes-1-1-1-1-1024x575.png"
-        width: 1024
-        height: 575
-        isCached: true
   - title: "Top 10 Asian FinTech Startups You Need to Follow"
     excerpt: "Bowen Khong takes a look at 10 Asian Fintech Startups that you should be aware of they include Ant Group, Ping An Technology, Dr Wealth, Grab Pay, Razer Pay, Folio, Viva Republic, Policy Bazaar, HelloGold,"
     publishedDateTime: 2020-11-04T07:00:00Z
@@ -102,20 +88,6 @@ related:
       - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2020/10/Photo-by-Christina-@-wocintechchat.jpg"
         width: 728
         height: 410
-        isCached: true
-  - title: "The future of fintech beyond COVID-19"
-    excerpt: "By Ritam Gandhi, Founder and Director, Studio Graphene  COVID-19 has undoubtedly cemented our reliance on technology. With the unexpected shift to online working, shopping and entertaining, digital solutions have largely been the only means to overcome disruptions to our daily routines."
-    publishedDateTime: 2020-11-05T11:59:00Z
-    webUrl: "https://www.globalbankingandfinance.com/the-future-of-fintech-beyond-covid-19/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 24
-    images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/11/Untitled-design-2020-11-05T165829.943.jpg"
-        width: 750
-        height: 422
         isCached: true
   - title: "Fintech agrees deal for refurbished office landmark"
     excerpt: "An expanding fintech company is moving to the newly-refurbished Hodge House office building in Cardiff city centre. The move follows an announcement last month that listed AI"
@@ -173,6 +145,6 @@ related:
       domain: ibsintelligence.com
     quality: 4
 
-secured: "XZ4YGqDmwRwKraOlUuzyDuKG5mPvxRQcuwo5Z562/TwQJpvRNZCi4VcfqshjASKoh44pzs/oEg24MO2klHRmSQj2kUsG2QKzDsNHH2FCCnc0lgRPkD+U4L07LhZNff7vGoGTF58efaW/lVAy+w2IpbVPnv2KoOfobNWJQO9t2zGwxFlqeCAFTp6BjqsC2eHg/CWeXLALjFo74phpRkDqgltVIP1ShzKw/yDFAhn3D8DSkhIHjT1kdOfAAsbgEB9CG42hfYhiTNi3b8YOyb68NdUIbyTeXgvjzvXZoozHzAGp/NEE/H/GgeAppfK8biW3d3LhOqaFLZ7dzHTHdq4kgk+1m8Tp08bow1zUNCIUT/0=;gDpC7b3R/wIC7wV9ZNobKg=="
+secured: "lktQcLqThyWokvbPPQuDObtzr52J/2JoN/UWRe9EyfP/WG51AokOGB7d73WDdg5gI5MMqKnpZ5NfZcDOWaGW3xyhWvBmcuHol9R0lZebq9dAjxo+yIq8FlBUPJVmLG+fBfrSZkPt4kA/1pveQza2Paqp1aEeI69pxA5oIkwL4l1OqWVmX8kKNFdX3C9UXwLcwhe83RCwjtFfpuhCNfwGyPDbP0BdDlMRI9owGPy/L2F4Y2MTtLtriZrtU0T4789Bwj029CrhBiIm5jDCS11VqGEpp+vef5FCYkYNPhH0vCItmXtezpMgCxEtrkau44uJO23C1B+oqMFgbYfkiqNbfqKfgfJ0kIQM+vcyfemOQaY=;KCtbfimjn9iMN7AW3BI7JQ=="
 ---
 
