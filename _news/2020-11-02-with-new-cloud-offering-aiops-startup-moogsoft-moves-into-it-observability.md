@@ -41,16 +41,16 @@ related:
         height: 542
         isCached: true
   - title: "Live Q&A: How observability, automation and AI have become essential to digital business success"
-    excerpt: "As demand for digital transformation soars, CIOs are under pressure to transform how their teams work. How are they faring?"
-    publishedDateTime: 2020-11-06T22:36:00Z
-    webUrl: "https://www.infoworld.com/resources/210425/live-q-a-how-observability-automation-and-ai-have-become-essential-to-digital-business-success"
+    excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
+    publishedDateTime: 2020-11-06T21:17:00Z
+    webUrl: "https://www.cio.com/resources/210425/live-q-a-how-observability-automation-and-ai-have-become-essential-to-digital-business-success"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 54
+      name: CIO
+      domain: cio.com
+    quality: 24
     images:
-      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+      - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
         width: 300
         height: 300
         isCached: true

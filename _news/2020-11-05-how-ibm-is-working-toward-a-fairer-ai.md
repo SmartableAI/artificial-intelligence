@@ -1,10 +1,10 @@
 ---
 category: news
 title: "How IBM Is Working Toward a Fairer AI"
-excerpt: "First, create an effective AI ethics board. Then, clearly define the company’s policies around AI. Work with trusted partners to advance ethics in AI. And contribute open-source toolkits that ..."
+excerpt: "In 2018, IBM released Watson OpenScale, a commercial offering designed to build AI-based solutions for enterprises and helps them detect, manage, and mitigate AI bias. While solutions like these ..."
 publishedDateTime: 2020-11-05T00:00:00Z
-originalUrl: "https://hbr.org/2020/11/how-ibm-is-working-toward-a-fairer-ai?ab=hero-subleft-1"
-webUrl: "https://hbr.org/2020/11/how-ibm-is-working-toward-a-fairer-ai?ab=hero-subleft-1"
+originalUrl: "https://hbr.org/2020/11/how-ibm-is-working-toward-a-fairer-ai"
+webUrl: "https://hbr.org/2020/11/how-ibm-is-working-toward-a-fairer-ai"
 ampWebUrl: "https://hbr.org/amp/2020/11/how-ibm-is-working-toward-a-fairer-ai"
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/how-ibm-is-working-toward-a-fairer-ai"
 type: article
@@ -17,7 +17,7 @@ provider:
   domain: hbr.org
 
 topics:
-  - AI Ethics
+  - IBM AI
   - AI
 
 images:
@@ -26,6 +26,6 @@ images:
     height: 675
     isCached: true
 
-secured: "f0LV6rCcqEWShTNafOwFczdeS2KcSrAYK8pN54HBqX6SnCbChw+Wk0mW5E+Wpxx5spDlVUSidPPBt9HfbKDbsISPT90k7sBMMTSrgh79/NZ2DpZrqcvlzCAB8AxYfuwbLWXZMPw/b80YR6GwzCZ0t+hgl6b9JM4JrINru6WwWlm5eRnIFLcjW/2j04LKx2El6cOjsohY693KR/U4HV5Ex+4WSqM2ahWBV81LCHtdh7f8kbeyIfEN8c3lmz9UYldoMUETEuwPo2JXQb0jnEaQ+qwjlkeWooWfkE04Q/Cef+RCAeo+VVfhzuunk5Aepzyi7zapjXGTDSv+2PLyflSBCKuWhjPPHR/AfAxoq+ka15E=;1KrNfiNgxFyog+F0t5DxHg=="
+secured: "cXpNsOoQPCtaUs5JImm9WBwr7p9DaYzf6pE7cFUfejQPUJPhW0/BgjKreVu/bQ+xWICL7V3OSp8HV9G7kdgJC7n7lOEFdU5UOVdp/W8D76ztQi7XtfUuXsVlY7cP3Weat6GQBt545kYjOZLhYnGsO6FIWp/OnbXpX9uyAhy1ZAyGxY/3qNBiyaAcDAvKcM8odi4ldgTsjQklfA0GGxsaPkD5zx89bCOUu1c0p/AxJwRkfE+iN3zGwbOq3897NJ4yugyM5zqUHbNHRB4XOUzyYDMp77faEzyBJcnj0os/ceby8DBA4g1yg5ofn5TTHYDWHEypoOH3urFQU5o1kXpany9du/6eRJi82gtPwjMaQWY=;gvmSJm80xq4AlKs29oEB8g=="
 ---
 

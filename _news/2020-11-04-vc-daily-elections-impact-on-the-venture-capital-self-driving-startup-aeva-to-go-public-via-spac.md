@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/vc-daily-elections-impact-on-the-vent
 webUrl: "https://www.wsj.com/articles/vc-daily-elections-impact-on-the-venture-capital-self-driving-startup-aeva-to-go-public-via-spac-11604416103"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: Wall Street Journal
@@ -29,17 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple vets' self-driving tech startup Aeva going public via SPAC"
-    excerpt: "Another Silicon Valley autonomous driving business is going public in a \"blank check\" merger that values the company at more than $2.1 billion. Mountain View-based Aeva Inc., whose tech blends the capabilities of laser lidar,"
-    publishedDateTime: 2020-11-02T12:50:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2020/11/02/aeva-going-public-via-spac-at-21b-valuation.html"
-    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/11/02/aeva-going-public-via-spac-at-21b-valuation.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/11/02/aeva-going-public-via-spac-at-21b-valuation.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 24
   - title: "Self-Driving Tech Startup Aeva Going Public Through SPAC InterPrivate"
     excerpt: "Aeva Inc., a self-driving technology startup backed by German automaker Porsche SE, on Monday unveiled plans to go public by combining with blank-check company InterPrivate Acquisition Corp. The deal,"
     publishedDateTime: 2020-11-02T15:24:00Z

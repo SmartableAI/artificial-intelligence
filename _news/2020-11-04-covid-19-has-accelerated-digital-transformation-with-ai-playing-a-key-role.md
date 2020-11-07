@@ -205,20 +205,6 @@ related:
         width: 445
         height: 450
         isCached: true
-  - title: "researchers at MIT create AI model that detects asymptomatic COVID-19 infections"
-    excerpt: "MIT have created an artificial intelligence model that detects asymptomatic COVID-19 infections through cellphone-recorded coughs. the study has found out that asymptomatic patients may differ from healthy individuals in the way they cough and that these differences are not decipherable to the human ear but it turns out they can be picked up by AI."
-    publishedDateTime: 2020-11-02T12:26:00Z
-    webUrl: "https://www.designboom.com/technology/mit-ai-model-detects-asymptomatic-covid-19-11-02-2020/"
-    type: article
-    provider:
-      name: Designboom
-      domain: designboom.com
-    quality: 32
-    images:
-      - url: "https://www.designboom.com/wp-content/uploads/2020/11/MIT-AI-identifies-covid-19-cough-recordings-designboom-fb.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "How an Automated Data Labeling Platform Accelerates AI industry's Development During COVID-19"
     excerpt: "NEW YORK, NY / ACCESSWIRE / November 3, 2020 / The impact of AI on COVID-19 has been widely reported across the globe, yet the impact of COVID-19 on AI has not received"
     publishedDateTime: 2020-11-03T15:00:00Z

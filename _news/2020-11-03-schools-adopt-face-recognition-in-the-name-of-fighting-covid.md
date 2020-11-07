@@ -95,6 +95,17 @@ related:
         width: 817
         height: 457
         isCached: true
+  - title: "What software developers should know about 2021: Low-code, AI code testing, COVID-19's lasting effect and the skills needed to stay on top"
+    excerpt: "Forrester made 5 predictions for software development in 2021. Bill Detwiler talks with software industry veteran VP and principal analyst Jeffrey Hammond, the report's lead author, about what developers and IT leaders should expect in 2021."
+    publishedDateTime: 2020-11-07T00:28:00Z
+    webUrl: "https://www.techrepublic.com/article/what-software-developers-should-know-about-2021-low-code-ai-code-testing-covid-19s-lasting-effect-and-the-skills-needed/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/what-software-developers-should-know-about-2021-low-code-ai-code-testing-covid-19s-lasting-effect-and-the-skills-needed/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/what-software-developers-should-know-about-2021-low-code-ai-code-testing-covid-19s-lasting-effect-and-the-skills-needed/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 35
   - title: "Huge learning losses during COVID-19 disruptions may have DISD lowering its academic goals"
     excerpt: "Dallas students suffered such deep learning losses during the pandemic that school officials won’t be able to catch them up by the end of the school year, which means DISD wants to lower its academic goals."
     publishedDateTime: 2020-11-06T15:34:00Z
@@ -111,17 +122,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "What software developers should know about 2021: Low-code, AI code testing, COVID-19's lasting effect and the skills needed to stay on top"
-    excerpt: "Forrester made 5 predictions for software development in 2021. Bill Detwiler talks with software industry veteran VP and principal analyst Jeffrey Hammond, the report's lead author, about what developers and IT leaders should expect in 2021."
-    publishedDateTime: 2020-11-07T00:28:00Z
-    webUrl: "https://www.techrepublic.com/article/what-software-developers-should-know-about-2021-low-code-ai-code-testing-covid-19s-lasting-effect-and-the-skills-needed/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/what-software-developers-should-know-about-2021-low-code-ai-code-testing-covid-19s-lasting-effect-and-the-skills-needed/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/what-software-developers-should-know-about-2021-low-code-ai-code-testing-covid-19s-lasting-effect-and-the-skills-needed/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 33
   - title: "The future of fintech beyond COVID-19"
     excerpt: "By Ritam Gandhi, Founder and Director, Studio Graphene  COVID-19 has undoubtedly cemented our reliance on technology. With the unexpected shift to online working, shopping and entertaining, digital solutions have largely been the only means to overcome disruptions to our daily routines."
     publishedDateTime: 2020-11-05T11:59:00Z

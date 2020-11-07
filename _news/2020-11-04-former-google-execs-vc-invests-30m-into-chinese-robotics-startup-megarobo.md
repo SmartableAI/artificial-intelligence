@@ -3,8 +3,8 @@ category: news
 title: "Former Google exec’s VC invests $30m into Chinese robotics startup MegaRobo"
 excerpt: "MegaRobo, a Chinese startup focused on the development of robots and the Internet of Things, announced that it has raised US$30 million in a series B round led by Sinovation Ventures, a VC firm founded by Google China’s former president Kai-Fu Lee."
 publishedDateTime: 2020-11-04T10:56:00Z
-originalUrl: "https://www.techinasia.com/former-google-execs-vc-invests-30m-chinese-robotics-startup-megarobo?ref=recommender-661584"
-webUrl: "https://www.techinasia.com/former-google-execs-vc-invests-30m-chinese-robotics-startup-megarobo?ref=recommender-661584"
+originalUrl: "https://www.techinasia.com/former-google-execs-vc-invests-30m-chinese-robotics-startup-megarobo?ref=recommender-661527"
+webUrl: "https://www.techinasia.com/former-google-execs-vc-invests-30m-chinese-robotics-startup-megarobo?ref=recommender-661527"
 type: article
 quality: 62
 heat: 62
@@ -22,6 +22,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "xhraibhiNqCPXuBD5Z1TO8OfCjfvxk5yYjXbELT2TwBLTceHTwiP7I2RB9U1/bspHM1nOupfs25TgZ9abvgr+V0oJ7OObf7OPLMk6F5us+8OvoVeDjXmfv3nlGAXTeKTnGTvMvD5ItwWer6YlvPDWXPnkWdU1sbcLIY1DOdoRpOmwcVBqH/Nlr9/ZerhU8MYNoVNfUh1xtel90Wd2lzP0sH26Q5nPmewblGnkh/dPG4o0Za4cMPTPEVpyzpXoM+s9vtg3oFQGc1eZaDktrglgqTtIlUzYziFBuE8aN+nEnCocBUY5sih78TSH7pgwROdxJ8JOAgGZXfgP6UUljL5XqsJtbpfKyZafV4McTB3uh0Q9+YJ4YuWdS3OAex2l8pTChzNG1d9bb2uSqylsvCmEDsOHdDA/515uecb8AQpwtXNMilPozYrIu09FI+8buW+pnizevdPyEPDj36EckEVBqod+dO8IHGgZweAmqEB8c02VZDSE94cFlFSKozHZ0IdCmoAqDwhW8JAdOakBujcaw==;T9zDhTrIDnLt3srAYq5IXQ=="
+secured: "FP4Lb5NwgD0xB2YPrN815Z7BHyb/d5ZT+vuZ2OzmB6jgLa7DNRMtzlPds7xzrtqnI0Xi3z2myaMx1fRze5qBUNf+oyXW5WzziehP8Ag+MiFcb/R4QkBlsrbfQNdl6Xzhy3eG1IUc7pPyDhVPD6cc3ph6jwrUUfqyqeNzCVBlBfHhpSp9YNDLmGYCm7jXkPs5yi6ROg79IwRhDeyBSgD7mLhdERqP8ODNJg5n+CEzpUbRBHOjmHM43KUEFEBk69HGz46ZaRpeJaKXDgeh4rVn3I5TVvsuQ2gHUDYWmdJow+ioSh7kzjzbcDCt9QxoYVKQvfXXnkHy0M5aghSNqVTRjBJzP2G1IkV1L/Wsww/UTArrPxUH9wPxpMfBmVHkA8J4KPsjn8hZdUsTBIrGaSbUqlQG/dbhOW1mOKBII205k/VHzETETuic2fR+s37zVkcO421+IvCBhLFWNN78VEkaOAW6lig/sV2yd4s7R2PG5ardHEnGWIDWJQ186TAqd+zN3A673LularDM+15qoQ1DWg==;BhaYmUohU+eAjtbultyEWg=="
 ---
 

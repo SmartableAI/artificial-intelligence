@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/microsoft-ai-summit-re
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/microsoft-ai-summit-reimagining-digital-governance-with-cloud-ai-iot/amp-11604663602516.html"
 type: article
 quality: 76
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 600
     height: 337
     isCached: true
+
+related:
+  - title: "Microsoft Partners With Adobe and C3.ai on Advanced CRM"
+    excerpt: "Microsoft announced a partnership with Adobe and C3.ai to develop and market customized customer relationship management solutions."
+    publishedDateTime: 2020-11-05T16:46:00Z
+    webUrl: "https://www.investopedia.com/microsoft-partners-with-adobe-and-c3-ai-on-advanced-crm-5086030"
+    type: article
+    provider:
+      name: Investopedia
+      domain: investopedia.com
+    quality: 71
+    images:
+      - url: "https://www.investopedia.com/thmb/47JmigGS-lMsb_EEqQwguUpOIFE=/800x531/filters:fill(auto,1)/crm2-56a7dca13df78cf7729a0938.jpg"
+        width: 800
+        height: 531
+        isCached: true
 
 secured: "Ew4b5TdWchAOUY1K9uR/y8DAUL7q7uuvvv3DgR+X/dPPIPAWBEQCMkL/aEyfG+dof7jTOyf6pCdhgIMJz6eZASOX4X5YtQCjXJrnInCyY1gZ383iK47h/McAx3PrnpM/SvmT2VqfxmZbBbOa50c6/h0F6rkw9p4Ncfql9QZXxjh9VmngvOGj532y1rkmJjtPQTnT8BLeLxEascCBaASmxzcJmWbg728gw74LENKIrWMvuSdhNeJ2rD9BvmcppPAnWn4+yHS4jCgo6r7e1DAJ2cfoU40GHLBwbLv+r2Hq6GeFeS69B/BWOLM4wm9Qv8WN5eOhpBniHBuGfs7RBJRTRW93vfCorOVUNTa+sPznuvTahJKEOHuVoFyCRGr1dOnwx1+aSZ0L93N3Q9+NfqWuf9MBNOcPQ9PiQweHh2fcKIkOSa48/aWN3mCDL8p5z66YrXkyV6mb8vmXNMvx4Q+PzN00tLqNsmKlTvwN2oCFHMEsl3WZUOtN5wyIaikIuZwVr2SEVQMDJthGkoFJ/QYHEA==;f73mEAfMTBJa4z19RJxoCQ=="
 ---

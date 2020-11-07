@@ -35,15 +35,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
-  - title: "Independent Research Firms Position IBM as a Leader in Managed Security Services"
-    excerpt: "PRNewswire/ -- IBM (NYSE: IBM) announced today that the company has been recognized as a Leader in three market reports evaluating Managed Security"
-    publishedDateTime: 2020-11-02T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/independent-research-firms-position-ibm-as-a-leader-in-managed-security-services-301164156.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 16
 
 secured: "/dmSMQZl/Eq4ROHRmuGz3FIsEiwZVoeT+TiiiQWyFzSeutkqoHju9j6LBLhPR2rlmogfDgahPLz0EIpitygvD3h9+20L0uBjKDZrdEt4an/danp6pQj1VLOM6FBKlLu1HZDLd/O43nevJctBD9I5Yi2SLaEKYApClQ+yEtnD2SDX0vSkn3omKVNHmjjOsCWPSYakmqmYpV8AHjknqQK2jy0DWfv/QiVCp3DMg/OR595xwiGLpf+fh7R0vtGxvd5T/x5GHMaJiOeNf/p/PXNR6tL09AlUuUFosWiqc9Dwz+mcg16DVfSQ0cgX0rcQBHuTHEOatmH8zUCbdUBImoeZ2+XfCeeI+PlCg6oh6Lf5yfE=;wBliOuYIUPABiuQ9V77SmA=="
 ---

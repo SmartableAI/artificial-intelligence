@@ -7,7 +7,7 @@ originalUrl: "https://medcitynews.com/2020/11/healthcare-execs-going-all-in-on-a
 webUrl: "https://medcitynews.com/2020/11/healthcare-execs-going-all-in-on-ai-survey-shows/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,44 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in healthcare is racist"
-    excerpt: "Can broader datasets help developers avoid accidentally perpetuating deep-rooted biases in vital institutions like healthcare and education?"
-    publishedDateTime: 2020-11-02T12:00:00Z
-    webUrl: "https://www.zdnet.com/article/artificial-intelligence-in-healthcare-is-racist/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/artificial-intelligence-in-healthcare-is-racist/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-in-healthcare-is-racist/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
-  - title: "KenSci attains highest score among Healthcare AI vendors in new KLAS report"
-    excerpt: "The Decision Insights Report' published in October by KLAS Research reveals KenSci received an overall score of 90.7*, the highest among all healthcare AI providers evaluated in the report, as measured by the clients themselves."
-    publishedDateTime: 2020-11-02T18:58:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/kensci-attains-highest-score-among-healthcare-ai-vendors-in-new-klas-report-1029754944"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/kensci-attains-highest-score-among-healthcare-ai-vendors-in-new-klas-report-1029754944"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/kensci-attains-highest-score-among-healthcare-ai-vendors-in-new-klas-report-1029754944"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 82
-  - title: "What the public hopes and fears about the use of AI in health care"
-    excerpt: "There has been increasing interest in using health \"big data\" for artificial intelligence (AI) research. As such, it is important to understand which uses of health data are supported by the public and which are not."
-    publishedDateTime: 2020-11-03T14:52:00Z
-    webUrl: "https://medicalxpress.com/news/2020-11-ai-health.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-11-ai-health.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-ai-health.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/whatthepubli.jpg"
-        width: 1356
-        height: 668
-        isCached: true
   - title: "Healthcare is ramping up AI investments during COVID. But the industry is still on the fence about Google, Amazon. Here's why"
     excerpt: "Healthcare organizations are ramping up their investments in artificial intelligence in response to the COVID-19 pandemic, according to survey data. But they are not turning to tech giants like Google and Amazon to deploy these technologies."
     publishedDateTime: 2020-11-04T16:56:00Z

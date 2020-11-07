@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microprocessor and GPU Market worth $138.2 billion by 2025 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to the new market research report \" Microprocessor and GPU Market with COVID-19 Impact Analysis by Architecture, Functionality, GPU Type, Deployment, Application (Consumer Electronics, Server and Data Center,"
+    publishedDateTime: 2020-11-04T08:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/microprocessor-and-gpu-market-worth-1382-billion-by-2025---exclusive-report-by-marketsandmarketstm-2020-11-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automatic Speech Recognition Applications Market Analysis 2020, Growth Opportunities, Trends, Forecast to 2020"
     excerpt: "The report “Automatic Speech Recognition Applications Market” in Global to 2026 - Market Scope, Development, and Predictions offers the most up-to-date industry information on the actual market situation,"
     publishedDateTime: 2020-11-04T06:16:00Z

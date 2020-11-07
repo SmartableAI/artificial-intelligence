@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Live Q&A: How observability, automation and AI have become essential to digital business success"
-    excerpt: "As demand for digital transformation soars, CIOs are under pressure to transform how their teams work. How are they faring?"
-    publishedDateTime: 2020-11-06T22:36:00Z
-    webUrl: "https://www.infoworld.com/resources/210425/live-q-a-how-observability-automation-and-ai-have-become-essential-to-digital-business-success"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 54
-    images:
-      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
-        width: 300
-        height: 300
-        isCached: true
   - title: "With new cloud offering, AIOps startup Moogsoft moves into IT observability"
     excerpt: "Moogsoft Inc. said today it’s expanding into artificial intelligence-based observability with the launch of its new Moogsoft Observability Cloud. The new offering enables DevOps teams, those in which software developers and information technology staff work together to create applications faster,"
     publishedDateTime: 2020-11-02T14:48:00Z
@@ -57,6 +43,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/image_2020-11-02_070806.png"
         width: 1245
         height: 732
+        isCached: true
+  - title: "Live Q&A: How observability, automation and AI have become essential to digital business success"
+    excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
+    publishedDateTime: 2020-11-06T21:17:00Z
+    webUrl: "https://www.cio.com/resources/210425/live-q-a-how-observability-automation-and-ai-have-become-essential-to-digital-business-success"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 24
+    images:
+      - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "uzVJ28zRIoup62xcCP41TbbNETR2mxk/rVTuxyZ86cqSP6bhqhmhYNBjUj5IzSgamSb5ntLilLWz8MV3HMKDNxIjw7sRCW3rOMecxCpt7Tj5nlx6L/jW/yDuZmT+ljExlcO7vVjJwcNBygkWGeq3DbmMmP4HBcvoOl3S/ZfvCkIpEmmvDCAWvhkH2b5aNNNBj1iQRMcNfhcl0Q9DMkwjbEBOQQMS9mtf4LQNRchj75O1eHoMb7aUSmNxZrDk/5g4hMbCpCchBe4V1Dy7qLxUW9081lgciRvqOxqp+ZkuPhtVvECG4ZhRh1UaKdyGTJUo82nxeU+cA9CrojFC3t44V1IJvS6Etdqsssf7GWj0Q3qieTpb9kDOKEmHB8nK3VwYzysdpbXChtOIBS9i+O4cdQnW8NlaUYCJEWQzkLTw6M5zWyUfWgD0J8WYFHvdPoDOPkftHbW41CnLwoLcUimUY9FrllUtTiydoYC9ENv4ujbbP56pDAlks9IFLalD+pTsj9saUj4pDGUxx4N+rfjt2w==;ZVHTURwE+O8f1UZEvfpvjw=="

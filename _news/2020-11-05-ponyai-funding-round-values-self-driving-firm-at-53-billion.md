@@ -148,15 +148,6 @@ related:
         width: 847
         height: 477
         isCached: true
-  - title: "Who’s responsible when a driverless car has an accident?"
-    excerpt: "Who’s responsible for an accident needs to be considered now rather than when we’re scrambling to implement laws We haven’t reached the point where driverless vehicles ply our roadways. However, as a recent incident on an Alberta highway demonstrates,"
-    publishedDateTime: 2020-11-02T12:58:00Z
-    webUrl: "https://troymedia.com/drive/whos-responsible-when-a-driverless-car-has-an-accident/"
-    type: article
-    provider:
-      name: Troy Media
-      domain: troymedia.com
-    quality: 19
 
 secured: "IaxHzj/gyXYbEcEQQVVrgSBppLbKznhzt+wywyZMPceMDTJ+SrkdTUAMt6FuMzrJXS3ozqkboIWRKuRwb3eAwh2gGV7ZsqBa4f1uaDpDhMCwYdIw7hOYlBxVLBlPgw0iTRhRHYWDt2ydFV5xK/ke3TqNpHI6Wb+bRqi1mBLHm/+knkrYQ1RIt3qSgFHi5fzC//JkJN1eGon6UqSS6B6xoqM4SoulM3CkYfAW3ODE8bGNPFaJniN8LUXe5TZpa+bgLI5NfyeRNN05dl0ZZAM6Ypf0wQVp7UcsVNeGwfSU76n7xNpJXRmlD4qrV8ItezjKx8X9x6b+91+qaxXR9NSJEMzzZcDdq+Oi36UcplhtNjX2CzV8q7BRlSH3qTVBxINDVjIsBq72pUVi2a7aPZb1zu5GpbTn73nls+j8Eait8hmgrhXLO8vVX2qi7JL9vc06Dv0Wzw1Amcr/rReRSz1rl1zpcdYmJBGA3rP+XTh6bwIBt1ixQmgGs4afC8htPuKJWiEofiv16+oKY66INJXIWA==;o7b/E6+BNSydmhSjJ8RemQ=="
 ---

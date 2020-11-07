@@ -27,55 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in healthcare is racist"
-    excerpt: "Can broader datasets help developers avoid accidentally perpetuating deep-rooted biases in vital institutions like healthcare and education?"
-    publishedDateTime: 2020-11-02T12:00:00Z
-    webUrl: "https://www.zdnet.com/article/artificial-intelligence-in-healthcare-is-racist/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/artificial-intelligence-in-healthcare-is-racist/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-in-healthcare-is-racist/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
-  - title: "KenSci attains highest score among Healthcare AI vendors in new KLAS report"
-    excerpt: "The Decision Insights Report' published in October by KLAS Research reveals KenSci received an overall score of 90.7*, the highest among all healthcare AI providers evaluated in the report, as measured by the clients themselves."
-    publishedDateTime: 2020-11-02T18:58:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/kensci-attains-highest-score-among-healthcare-ai-vendors-in-new-klas-report-1029754944"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/kensci-attains-highest-score-among-healthcare-ai-vendors-in-new-klas-report-1029754944"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/kensci-attains-highest-score-among-healthcare-ai-vendors-in-new-klas-report-1029754944"
+  - title: "Most health execs expect widespread implementation of AI in the next 5 years"
+    excerpt: "Ninety-percent of US health IT execs expect AI solutions to be well integrated into the US healthcare system in the next five years"
+    publishedDateTime: 2020-11-06T15:12:00Z
+    webUrl: "https://www.businessinsider.com/health-it-leaders-bullish-on-ai-implementation-2020-11"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 82
-  - title: "Healthcare execs going all-in on AI, survey shows"
-    excerpt: "The survey, conducted by Optum, shows that healthcare executives' confidence in AI is high, and most expect to soon see cost savings from implementing the technology. Further, a majority are looking to hire talent with experience developing AI."
-    publishedDateTime: 2020-11-06T22:42:00Z
-    webUrl: "https://medcitynews.com/2020/11/healthcare-execs-going-all-in-on-ai-survey-shows/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 54
+    quality: 64
     images:
-      - url: "https://medcitynews.com/uploads/2019/11/GettyImages-1137784739.jpg"
-        width: 703
-        height: 497
+      - url: "https://i.insider.com/5e440fa64b661b28f45e7d34?width=1200&format=jpeg"
+        width: 1080
+        height: 540
         isCached: true
-  - title: "Healthcare is ramping up AI investments during COVID. But the industry is still on the fence about Google, Amazon. Here's why"
-    excerpt: "Healthcare organizations are ramping up their investments in artificial intelligence in response to the COVID-19 pandemic, according to survey data. But they are not turning to tech giants like Google and Amazon to deploy these technologies."
-    publishedDateTime: 2020-11-04T16:56:00Z
-    webUrl: "https://www.fiercehealthcare.com/tech/healthcare-ramping-up-investments-ai-during-covid-but-industry-still-fence-about-google-amazon"
+  - title: "Over 80% of Health Execs Have Artificial Intelligence Plans in Place"
+    excerpt: "Healthcare executives are increasingly adopting artificial intelligence tools, with many planning to use the tools to improve patient outcomes."
+    publishedDateTime: 2020-11-02T14:32:00Z
+    webUrl: "https://healthitanalytics.com/news/over-80-of-health-execs-have-artificial-intelligence-plans-in-place"
     type: article
     provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 27
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
     images:
-      - url: "https://qtxasset.com/fiercehealthcare/1604510697/shutterstock_1154735041.jpg/shutterstock_1154735041.jpg?cXz2WNUfgjJFXG3hRHC3DkItPUu2z0dm"
-        width: 1000
-        height: 486
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-912319336.jpg"
+        width: 690
+        height: 400
+        isCached: true
+  - title: "Artificial Intelligence and the Path to Health Care Innovation"
+    excerpt: "The American Hospital Association and Microsoft now offer a free, one-hour course, for continuing education credits, to guide health care teams through key considerations and specific actions for AI’s responsible and strategic implementation."
+    publishedDateTime: 2020-11-05T14:03:00Z
+    webUrl: "https://www.aha.org/news/healthcareinnovation-thursday-blog/2020-11-04-artificial-intelligence-and-path-health-care"
+    type: article
+    provider:
+      name: aha.org
+      domain: aha.org
+    quality: 39
+    images:
+      - url: "https://www.aha.org/sites/default/files/2020-11/center-blog-begley-mccarthy.jpg"
+        width: 900
+        height: 400
         isCached: true
 
 secured: "7Ma/qYgYjEoER3dmgZr8lH3V2RmTyQcbzwhw3lO3TFwZlw/rm/MWejj5+Lpv9exg1EwwkTM4bUdqNp8G6skWzSe62IezV9fqJnczdkp8BONW967XNo7eWqqWI6S/bcez4If0akXnIkNX5gRSlNn0z52NU/KQ+giSQgAzEabNoANgIaMGeLzhqOQMV2nb+B6pXVbcHyM3WHFdZGDPOl0ct6dN0and9rkVOqStCt+AgmaZqSr5SaBy9c/fT96Swd8rbnXxfSqrtBEEXfHnbNjJF48gGMzH85qXPRsJuVQHK/TwFUouC7KA5TL2Of+M3datsIpq1dYzT10EYyqh64E3Q77fOZ8CPfTiDaLSLgeXdeEouSHX+8GVdyNnFxmbVeDuFqgK+jf/F+XUGbDfEyIa0syJ3GxSFjmK191PW/KK9iXRkmujlHJIM40/9dBAognz32m4NFCj+b3/iO4pvILKUamePJ7Brqam2fUt3v0srqbgL0AZ6qfn6AiNjetaxb9aaAfCT9ijITwQbL/cpCH80A==;uDSb4LFk7/jB6kUd3dCskg=="

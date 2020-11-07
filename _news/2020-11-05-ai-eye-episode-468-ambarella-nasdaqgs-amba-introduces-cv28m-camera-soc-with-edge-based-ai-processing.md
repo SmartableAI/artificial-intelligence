@@ -39,15 +39,6 @@ related:
         width: 1024
         height: 920
         isCached: true
-  - title: "Ambarella launches CV28M SoC with CVflow processor for artificial intelligence"
-    excerpt: "Ambarella (NASDAQ:AMBA) unveils the CV28M CVflow® processor for artificial intelligence (AI ... retail monitoring, consumer robotics, and occupancy monitoring. CV28M provides the AI performance ..."
-    publishedDateTime: 2020-11-02T11:15:00Z
-    webUrl: "https://seekingalpha.com/news/3629469-ambarella-launches-cv28m-soc-cvflow-processor-for-artificial-intelligence"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 15
 
 secured: "T4tGTiv5q6DM7nPP9+qa3ic7/qmPFDNTucVPNUkaZeEEgUgNsr8Ii2/pteY7D4X+u3SfVAELxPi1rs0b5FGfr80BFaQsb2lm5mXLMuHz/RQXICHXeAPINJDBgZh/zixpJ0MMcBSFyTAn4VpeAixoz+mhRbfU8WGP0Pkl22OdT6gmUHeh2vKUaFSrquE1L+NOAqo+F1O9V9kgMRLU6IEoJ2iapT3gHTFwY/XWTDqUs1LAA3pg+0NJ8EBM3hyqaB8QbIzTdtN72dl5X2mMfIaQOkHc8D0T0QiA0TW/24khF/f0pSsOD8R9JGrYhXyo7qqvU1DalqEIfLLCX0/BIYQUseRgGtUGFiiGpJcZjBYT7Rg=;ZTUmhnE/hAwF49DGX+QF8w=="
 ---

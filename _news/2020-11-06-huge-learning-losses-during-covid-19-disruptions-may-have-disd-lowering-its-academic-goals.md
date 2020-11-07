@@ -118,7 +118,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 33
+    quality: 35
   - title: "The future of fintech beyond COVID-19"
     excerpt: "By Ritam Gandhi, Founder and Director, Studio Graphene  COVID-19 has undoubtedly cemented our reliance on technology. With the unexpected shift to online working, shopping and entertaining, digital solutions have largely been the only means to overcome disruptions to our daily routines."
     publishedDateTime: 2020-11-05T11:59:00Z

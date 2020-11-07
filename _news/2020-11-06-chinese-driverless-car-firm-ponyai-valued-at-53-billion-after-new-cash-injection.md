@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/11/06/china-driverless-car-firm-ponyai
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/06/china-driverless-car-firm-ponyai-valued-at-5point3-billion-after-funding.html"
 type: article
 quality: 98
-heat: 188
+heat: 178
 published: true
 
 provider:
@@ -152,15 +152,6 @@ related:
         width: 847
         height: 477
         isCached: true
-  - title: "Who’s responsible when a driverless car has an accident?"
-    excerpt: "Who’s responsible for an accident needs to be considered now rather than when we’re scrambling to implement laws We haven’t reached the point where driverless vehicles ply our roadways. However, as a recent incident on an Alberta highway demonstrates,"
-    publishedDateTime: 2020-11-02T12:58:00Z
-    webUrl: "https://troymedia.com/drive/whos-responsible-when-a-driverless-car-has-an-accident/"
-    type: article
-    provider:
-      name: Troy Media
-      domain: troymedia.com
-    quality: 19
 
 secured: "6TicGtKcE3cWavoh72BnOluzWB7CzMwS9RPsmO2f0POO+XlKTHwsWRCAz1xAyT+nJ54YPhy0NszNJyUj1HCAZgHwQ0ehhZ0655sCnb9KF5wiTIfhdEy1uMRv+9yEOhMJ9gJ/4koTcClrFS21slYXOJfhPiFSGnvMAIGHITwpCZcvlG0qHnN+jxfK684ozXBFvwFhr5cpZvDepWSWnKHgJzcQ+lQaS+tROyuXwBJd+40NtU3RHH9VlZ/tR66WyyPaT/oMc35MzUCzNzPRoGWTlU+6utNr9eWVK/hpRdYeG/xCfomxa6/zfYrLs/R2QYjKBVyEiXXuagF39Cw1cKePb9+4dpnZj3vHPfJddJJc42c=;RmyWAQ8z3wkRIgwTfH/eJg=="
 ---

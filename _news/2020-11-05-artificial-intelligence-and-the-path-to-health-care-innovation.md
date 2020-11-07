@@ -39,6 +39,22 @@ related:
         width: 1080
         height: 540
         isCached: true
+  - title: "What the public hopes and fears about the use of AI in health care"
+    excerpt: "There has been increasing interest in using health \"big data\" for artificial intelligence (AI) research. As such, it is important to understand which uses of health data are supported by the public and which are not."
+    publishedDateTime: 2020-11-03T14:52:00Z
+    webUrl: "https://medicalxpress.com/news/2020-11-ai-health.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-11-ai-health.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-ai-health.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/whatthepubli.jpg"
+        width: 1356
+        height: 668
+        isCached: true
   - title: "Over 80% of Health Execs Have Artificial Intelligence Plans in Place"
     excerpt: "Healthcare executives are increasingly adopting artificial intelligence tools, with many planning to use the tools to improve patient outcomes."
     publishedDateTime: 2020-11-02T14:32:00Z

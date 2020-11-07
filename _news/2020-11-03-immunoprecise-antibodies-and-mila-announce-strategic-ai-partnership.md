@@ -1,28 +1,28 @@
 ---
 category: news
 title: "ImmunoPrecise Antibodies and Mila Announce Strategic AI Partnership"
-excerpt: "PRNewswire/ - IMMUNOPRECISE ANTIBODIES LTD. (the \"Company\" or \"IPA\") (TSXV: IPA) (OTCQB: IPATF) (FSE: TQB2), a leader in full-service, therapeutic antibody discovery and development, today"
-publishedDateTime: 2020-11-03T11:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership/article_2850dd54-08c1-5ac4-b1c6-7d587432edf9.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership/article_2850dd54-08c1-5ac4-b1c6-7d587432edf9.html"
+excerpt: "CNW/ - IMMUNOPRECISE ANTIBODIES LTD. (the 'Company' or 'IPA') (TSXV: IPA) (OTCQB: IPATF) (FSE: TQB2), a leader in"
+publishedDateTime: 2020-11-03T12:52:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758397"
+webUrl: "https://markets.businessinsider.com/news/stocks/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758397"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758397"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758397"
 type: article
-quality: 39
-heat: 39
-published: false
+quality: 69
+heat: 89
+published: true
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "Artificial Intelligence Technology Solutions and Swan Island Networks Announce Strategic Alliance"
@@ -34,7 +34,21 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 36
+  - title: "AI Eye Podcast Episode 467: Wipro (NYSE: $WIT) and AWS Launch Wipro AWS Business Group, and ImmunoPrecise Collaborates with AI Research Institute Mila"
+    excerpt: "Watching stock news, deal tracker and advancements in artificial intelligence Wipro Limited ( NYSE:WIT) and Amazon Web Service (AWS), a subsidiary of Amazon ( NasdaqGS:AMZN ), announced the launch of Wipro AWS Business Group (WABG),"
+    publishedDateTime: 2020-11-03T18:20:00Z
+    webUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/11031AIEye-WIT-AWS-ImmunoPrecise.asp"
+    type: article
+    provider:
+      name: Investor ideas
+      domain: investorideas.com
+    quality: 14
+    images:
+      - url: "https://www.investorideas.com/images/AI-Eye.jpg"
+        width: 1280
+        height: 1206
+        isCached: true
 
-secured: "kk/ojvxE4LgGheRoLmyW9hVV2FJEGnZNjwy4y5ZrDLzv9EpoXuzjiDyWsR9ZAuJd2PaSoLHGYYnBCt7j/47bl3zkGI98lNkGflu7NXxSyw6Fs7KaAPaNKnjbzPFWYklYvjAyDQVaRpPthoK/k7jw3v2HSNtE79a6VwdE3yycnvPQqNmMNyPhWEgfvIOQ/WVENnxNV9Km5LXH8C32hZ5QQlS1iJ37Zus1oC1244q6D5r/daIcfEWVtU9HkHYnjSpKynmHXS0B5W4LTY984DgqThMCoWhyC0gRDcaV792RmV0MPXZTRZNGWmnhRCfCf4qflfuxfgK4PqnHGjtVZEnYwWTqwtkodzqNd7HFS807NIY=;MlL2JcNEtWr4+/qTfC/yaA=="
+secured: "vj78Ubi6llaOac2tJVIcC0szlcpqdqbeDa1C40XIn2hRXmppkYp+5Kz851BLjwSI2pPRKXHf+h8SKE400maS1/Q5VcR534ITUQ7qtykpUQbJvrU9EWUDS9b01L1uEKGRTqgvLboZq61RWSA+nERyrPtWia4Blb3pzcrfZOEuXMavVlmKzA+p3ns0z04gEIQ97kyl4A11Z2dFOZZml/FsuiO0huwlhxI0wzkt7BWybMynDFN2PyqdvmIXuxirBeB8nLj69BJ3lRkEbXjAmXelZx8VlZvuPxypdVk4JSEkbT/gci+Xe5ncUjKaPTk4J638w+ACIVjlnfm4rzstyO5oDaTW7AiGlo0eNsPg8xfxhU0=;0eaTyNXL8CsCGaBPArayow=="
 ---
 
