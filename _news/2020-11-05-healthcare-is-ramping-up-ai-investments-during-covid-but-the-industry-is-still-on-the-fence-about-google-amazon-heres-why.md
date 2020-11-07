@@ -39,6 +39,20 @@ related:
         width: 703
         height: 497
         isCached: true
+  - title: "Big data and artificial intelligence software is impacting your shopping experience"
+    excerpt: "In 2012 a writer for the New York Times named Charles Duhigg wanted to explore how retailers were using the data they had begun collecting involving customer purchases. What he found was stunning for the times,"
+    publishedDateTime: 2020-11-07T08:03:00Z
+    webUrl: "https://www.mininggazette.com/opinion/columns/2020/11/big-data-and-artificial-intelligence-software-is-impacting-your-shopping-experience/"
+    type: article
+    provider:
+      name: The Daily Mining Gazette
+      domain: mininggazette.com
+    quality: 31
+    images:
+      - url: "http://d14e0irai0gcaa.cloudfront.net/www.mininggazette.com/images/2016/11/14155029/fblike.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "44Fw5eZ5875xPARSyki6FbEVbeI8UAGmhJdFI7/JKFcmkY+kbA/vlRaD76d5whGLGB3M9yfM2nnIAeWp+tarynvuyFni8sbSNJwgqrawO07P99uDlB2DavBtm/7L7U4FpJCBb3xTEN6gvV/EHSPyHMdWJt3JWnXoB175aJ7+a2z6MhZ+uofhFiwOgGw/6jwWAM/7EOOP6SdYqMyy5nhRaWGgX/ZZK/DhgiflLvnrOhUhXi2iPzvjy+3LXu2XIoYaJYCxPrxjBElpK4EYuDS0iEIpqoT8uIbFwslfFHz7VjiW1Nebr1USNxWR3ykSbZ2PMs/5y4JfrGZJNoOQQJqB43IZc8MYtUQHbaGt1KnjnySYccoh1UNBElzpNTYoOtWUmjzz3S2m/TgFNgZMJ1NnvyFXj4P8zhM9UdBohuuHsfbamoG4lI38lEgWBVkepF1eUhvH/2Mi+ZeHdPcxdE0L7A+Tc84UzZeAsb9wfT7AvkClZVpzlsWnFeUIcqZIT6j1F459UvwDt9V90okAhx7iSg==;LuBb114RAPk1h75I7OeJdA=="
 ---

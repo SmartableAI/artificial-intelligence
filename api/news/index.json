@@ -303,6 +303,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-07-healthcare-execs-going-all-in-on-ai-survey-shows.md",
+      "title": "Healthcare execs going all-in on AI, survey shows",
+      "excerpt": "The survey, conducted by Optum, shows that healthcare executives' confidence in AI is high, and most expect to soon see cost savings from implementing the technology. Further, a majority are looking to hire talent with experience developing AI.",
+      "sourceUrl": null,
+      "webUrl": "https://medcitynews.com/2020/11/healthcare-execs-going-all-in-on-ai-survey-shows/",
+      "originalUrl": "https://medcitynews.com/2020/11/healthcare-execs-going-all-in-on-ai-survey-shows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medcitynews.com/uploads/2019/11/GettyImages-1137784739.jpg",
+          "width": 703,
+          "height": 497,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-06T14:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedCity News",
+        "domain": "medcitynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-07-am-meets-ai-how-markforged-connects-industrial-3d-printers-for-smarter-manufacturing.md",
       "title": "AM Meets AI: How Markforged Connects Industrial 3D Printers For Smarter Manufacturing",
       "excerpt": "Markforged is introducing the Digital Forge, a cloud-based platform connecting 3D printers for industrial-scale smart production.",
@@ -990,7 +1033,7 @@
       "originalUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-adds-hindi-support-to-its-text-analytics-service/article33037173.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1170,58 +1213,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-inside-fintech-startup-upstarts-ipo-filing.md",
-      "title": "Inside fintech startup Upstart’s IPO filing",
-      "excerpt": "The fintech startup facilitates loans between consumers ... Upstart’s technology uses what it describes as artificial intelligence (AI) to approve consumer loans. It collects consumer demand ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/",
-      "originalUrl": "https://techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-951640954.jpg?w=1024",
-          "width": 1024,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/amp/",
-      "publishedDateTime": "2020-11-05T11:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -41,22 +41,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Google partners with Knowlarity to expand its speech analytics platform in India"
-    excerpt: "Google has partnered with Singapore-headquartered cloud telephony firm Knowlarity to expand its speech recognition and analytics services in India."
-    publishedDateTime: 2020-11-03T06:33:00Z
-    webUrl: "https://www.ciol.com/google-partners-knowlarity-expand-speech-analytics-platform-india/"
-    ampWebUrl: "https://www.ciol.com/google-partners-knowlarity-expand-speech-analytics-platform-india/amp/"
-    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/google-partners-knowlarity-expand-speech-analytics-platform-india/amp/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 41
-    images:
-      - url: "https://www.ciol.com/wp-content/uploads/2020/10/Google-Cloud.jpg"
-        width: 850
-        height: 400
-        isCached: true
   - title: "Discover Announces New Data & Analytics Organization"
     excerpt: "Discover Financial Services (NYSE: DFS) announced on Tuesday the launch of its new Data and Analytics (DNA) organization. Discover revealed that the new organization represents its commitment to technological advancement in financial services with a focus on customer engagement and marketing technologies."
     publishedDateTime: 2020-11-03T11:40:00Z

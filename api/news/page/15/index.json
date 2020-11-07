@@ -2,6 +2,154 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-10-23-how-virtual-design-artificial-intelligence-impact-engineers.md",
+      "title": "How virtual design, artificial intelligence impact engineers",
+      "excerpt": "Learn how artificial intelligence and virtual design overcome limitations in BIM. Understand how these innovations impact existing workflows. Identify the skill sets required to effectively use these emerging technologies. For decades, the architecture ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.csemag.com/articles/how-virtual-design-artificial-intelligence-impact-engineers/",
+      "originalUrl": "https://www.csemag.com/articles/how-virtual-design-artificial-intelligence-impact-engineers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.csemag.com/wp-content/uploads/sites/5/2020/10/CSE2010_MAG_FTECH_01-Slider.jpg",
+          "width": 645,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-23T04:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Csemag.com",
+        "domain": "csemag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-artificial-intelligence-cheat-sheet.md",
+      "title": "Artificial intelligence: Cheat sheet",
+      "excerpt": "Learn artificial intelligence basics ... AI chatbots can be a great first line of customer interaction. Healthcare: Not only are some AIs able to detect cancer and other health concerns before doctors, they can also provide feedback on patient care ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/artificial-intelligence-cheat-sheet/",
+      "originalUrl": "https://www.techrepublic.com/article/artificial-intelligence-cheat-sheet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2019/08/14/04431cd4-496f-4b8b-8c84-626bb46b9b53/thumbnail/1200x675/341ae9baa20fd565a197f478b55bbb38/20190731-brandonai-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/artificial-intelligence-cheat-sheet/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/artificial-intelligence-cheat-sheet/",
+      "publishedDateTime": "2020-10-23T03:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-teslas-full-self-driving-beta-is-here.md",
+      "title": "Tesla's Full Self-Driving Beta Is Here",
+      "excerpt": "While Tesla's (NASDAQ:TSLA) third-quarter earnings report may be the primary focus when it comes to the electric-car maker's stock this week, the company also quietly rolled out a beta release of its full self-driving mode to a small group of drivers -- a technology that could eventually morph into an incredibly valuable asset for Tesla.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/10/23/teslas-full-self-driving-beta-is-here/",
+      "originalUrl": "https://www.fool.com/investing/2020/10/23/teslas-full-self-driving-beta-is-here/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 459,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F596184%2Ftesla-full-self-driving-mode.png&w=1200&op=resize",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/23/teslas-full-self-driving-beta-is-here/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/23/teslas-full-self-driving-beta-is-here/",
+      "publishedDateTime": "2020-10-23T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-cloud-natural-language-processing-market-to-witness-astonishing-growth-with.md",
       "title": "Cloud Natural Language Processing Market to Witness Astonishing Growth with",
       "excerpt": "Keep yourself up-to-date with latest market trends and maintain a competitive edge by sizing up with available business opportunity in Cloud Natural Language Processing Market various segments and emerging territory. The research report presents a ...",
@@ -1039,108 +1187,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-tesla-begins-deploying-full-self-driving-beta-to-select-customers-but-it-is-in-no-way-full-self-driving.md",
-      "title": "Tesla Begins Deploying Full Self-Driving Beta To Select Customers But It Is In No Way 'Full Self-Driving'",
-      "excerpt": "The text reads: “Full Self-Driving is in early limited access Beta and must be used with additional caution.It may do the wrong thing at the worst time, so you must always keep your hands on the ...",
-      "sourceUrl": null,
-      "webUrl": "https://jalopnik.com/tesla-begins-deploying-full-self-driving-beta-to-select-1845452979",
-      "originalUrl": "https://jalopnik.com/tesla-begins-deploying-full-self-driving-beta-to-select-1845452979",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jalopnik",
-        "domain": "jalopnik.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-clark-county-utilizes-ai-enabled-solution-to-help-residents-secure-critical-housing-assistance.md",
-      "title": "Clark County Utilizes AI-enabled Solution to Help Residents Secure Critical Housing Assistance",
-      "excerpt": "Clark County and IBM Watson Health today announced the deployment of the AI-enabled IBM Watson Health Citizen Engagement platform designed to help make vital social services, including housing assistance,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/clark-county-utilizes-ai-enabled-solution-to-help-residents-secure-critical-housing",
-      "originalUrl": "https://www.nasdaq.com/press-release/clark-county-utilizes-ai-enabled-solution-to-help-residents-secure-critical-housing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-deep-learning-system-software-market.md",
-      "title": "Deep Learning System Software Market",
-      "excerpt": "The Global Deep Learning System Software market was worth USD +2.28 Billion in 2020 and is expected to reach USD +18.16 Billion by 2027, at a CAGR of +40% from 2020 to 2027. Deep Learning System ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2168694/deep-learning-system-software-market-2020-predictable",
-      "originalUrl": "https://www.openpr.com/news/2168694/deep-learning-system-software-market-2020-predictable",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

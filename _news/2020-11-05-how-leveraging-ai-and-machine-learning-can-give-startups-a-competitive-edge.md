@@ -7,7 +7,7 @@ originalUrl: "https://www.techinasia.com/leveraging-ai-machine-learning-give-sta
 webUrl: "https://www.techinasia.com/leveraging-ai-machine-learning-give-startups-competitive-edge"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -25,6 +25,22 @@ topics:
   - AI in Finance
 
 related:
+  - title: "A Novel Artificial Intelligence Platform for Active Learning in Drug Discovery"
+    excerpt: "Optibrium Launches Cerella an artificial intelligence software platform for drug discovery that delivers active learning using advanced deep learning methods"
+    publishedDateTime: 2020-11-06T19:23:00Z
+    webUrl: "https://www.labmanager.com/product-news/optibrium-launches-cerella-a-novel-artificial-intelligence-platform-for-active-learning-in-drug-discovery-24311"
+    ampWebUrl: "https://www.labmanager.com/product-news/optibrium-launches-cerella-a-novel-artificial-intelligence-platform-for-active-learning-in-drug-discovery-24311/amp"
+    cdnAmpWebUrl: "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/product-news/optibrium-launches-cerella-a-novel-artificial-intelligence-platform-for-active-learning-in-drug-discovery-24311/amp"
+    type: article
+    provider:
+      name: Lab Manager
+      domain: labmanager.com
+    quality: 53
+    images:
+      - url: "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/24311/aImg/45016/uploads/nov6-2020-optibrium_matt-header.jpg"
+        width: 1482
+        height: 742
+        isCached: true
   - title: "The ways artificial intelligence is changing learning & development"
     excerpt: "One of the biggest challenges that companies face as they try to improve their learning & development programs is time. With today’s technology, L&D professionals can get granular data on how learners interact with content,"
     publishedDateTime: 2020-11-03T08:21:00Z

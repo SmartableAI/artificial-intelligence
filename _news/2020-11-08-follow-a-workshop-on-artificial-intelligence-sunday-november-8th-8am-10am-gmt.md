@@ -6,8 +6,8 @@ publishedDateTime: 2020-11-07T20:03:00Z
 originalUrl: "https://www.science20.com/tommaso_dorigo/follow_a_workshop_on_artificial_intelligence_sunday_november_8th_8am_10am_gmt-251633"
 webUrl: "https://www.science20.com/tommaso_dorigo/follow_a_workshop_on_artificial_intelligence_sunday_november_8th_8am_10am_gmt-251633"
 type: article
-quality: 33
-heat: 33
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.science20.com/files/images/science_corporate_conspiracy_300.jpg"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-adds-hindi-
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-adds-hindi-support-to-its-text-analytics-service/article33037173.ece/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google partners with Knowlarity to expand its speech analytics platform in India"
-    excerpt: "Google has partnered with Singapore-headquartered cloud telephony firm Knowlarity to expand its speech recognition and analytics services in India."
-    publishedDateTime: 2020-11-03T06:33:00Z
-    webUrl: "https://www.ciol.com/google-partners-knowlarity-expand-speech-analytics-platform-india/"
-    ampWebUrl: "https://www.ciol.com/google-partners-knowlarity-expand-speech-analytics-platform-india/amp/"
-    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/google-partners-knowlarity-expand-speech-analytics-platform-india/amp/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 41
-    images:
-      - url: "https://www.ciol.com/wp-content/uploads/2020/10/Google-Cloud.jpg"
-        width: 850
-        height: 400
-        isCached: true
   - title: "Microsoft Adds Hindi To Its Text Analytics Service To Strengthen Sentiment Analysis Support"
     excerpt: "Microsoft has announced the addition of Hindi as the latest language under its Text Analytics service to support businesses."
     publishedDateTime: 2020-11-05T09:18:00Z

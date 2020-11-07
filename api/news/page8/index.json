@@ -2,6 +2,92 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-29-activists-turn-facial-recognition-tools-against-the-police.md",
+      "title": "Activists turn facial recognition tools against the police",
+      "excerpt": "In early September, the City Council in Portland, Oregon, met virtually to consider sweeping legislation outlawing the use of facial recognition technology. The bills would not only bar the police from using it to unmask protesters and individuals captured in surveillance imagery;",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html",
+      "originalUrl": "https://www.chicagotribune.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/jlVG6BaC3imlBR23jhCY0p4V30U=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NAX6PDQO4JFFFFIXWI6JRI6B3A.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html?outputType=amp",
+      "publishedDateTime": "2020-10-29T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-untether-ai-ushers-in-the-petaops-era-with-at-memory-computation-for-ai-inference-workloads.md",
+      "title": "Untether AI Ushers in the PetaOps Era with At-Memory Computation for AI Inference Workloads",
+      "excerpt": "When we founded Untether AI, our laser focus was unlocking the potential of scalable AI, by delivering more efficient neural network compute” Artificial Intelligence (AI) workloads for inference require increasing amounts of compute resources,",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201029005310/en/Untether-AI-Ushers-in-the-PetaOps-Era-with-At-Memory-Computation-for-AI-Inference-Workloads",
+      "originalUrl": "https://www.businesswire.com/news/home/20201029005310/en/Untether-AI-Ushers-in-the-PetaOps-Era-with-At-Memory-Computation-for-AI-Inference-Workloads",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201029005310/en/834596/23/UntetherAI-press-release-bkg-lowres.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-29T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-building-a-real-time-conversational-analytics-platform-for-amazon-lex-bots.md",
       "title": "Building a real-time conversational analytics platform for Amazon Lex bots",
       "excerpt": "Conversational interfaces like chatbots have become an important channel for brands to communicate with their customers, partners, and employees. They offer faster service, 24/7 availability, and lower service costs. By analyzing your bot’s customer conversations, you can discover challenges in user",
@@ -1142,101 +1228,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-natural-language-processing-nlp-market-trends-top-key-players-regions-and-industry-size-and-forecast-to-2027.md",
-      "title": "Natural Language Processing (NLP) Market Trends, Top Key Players, Regions and Industry Size and Forecast to 2027",
-      "excerpt": "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 The key players included in this market are [[24]7.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-trends-top-key-players-regions-and-industry-size-and-forecast-to-2027-2020-10-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-trends-top-key-players-regions-and-industry-size-and-forecast-to-2027-2020-10-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T18:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-artificial-intelligence-helps-improve-treatment-for-brain-tumor.md",
-      "title": "Artificial Intelligence Helps Improve Treatment for Brain Tumor",
-      "excerpt": "In patients with glioblastoma (brain tumor) artificial intelligence measures the amount of muscle to help improve prognosis and treatment, said researchers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-helps-improve-treatment-for-brain-tumor-198219-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-helps-improve-treatment-for-brain-tumor-198219-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.medindia.net/healthcare-directory/images/find-a-doctor-300x250.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-helps-improve-treatment-for-brain-tumor-198219-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-improve-treatment-for-brain-tumor-198219-1.htm",
-      "publishedDateTime": "2020-10-28T17:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

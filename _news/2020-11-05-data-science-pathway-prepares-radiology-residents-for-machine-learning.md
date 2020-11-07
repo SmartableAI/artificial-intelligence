@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "New Pathway Could Advance Artificial Intelligence in Radiology"
+    excerpt: "A data science pathway could help fourth-year radiology residents prepare for the use of artificial intelligence in radiology."
+    publishedDateTime: 2020-11-05T20:54:00Z
+    webUrl: "https://healthitanalytics.com/news/new-pathway-could-advance-artificial-intelligence-in-radiology"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/RadiologyAI_Getty.jpg"
+        width: 700
+        height: 451
+        isCached: true
   - title: "RSNA: Data Science Pathway Prepares Radiology Residents for Machine Learning"
     excerpt: "A recently developed data science pathway for fourth-year radiology residents will help prepare the next generation"
     publishedDateTime: 2020-11-04T18:00:00Z

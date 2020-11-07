@@ -26,17 +26,6 @@ images:
     height: 674
     isCached: true
 
-related:
-  - title: "How To Lose An Election: A Brief History Of The Presidential Concession Speech"
-    excerpt: "Presidential campaigns are essentially dramas, and for the past century, the moment of closure has come in the form of one simple act: the public"
-    publishedDateTime: 2020-11-03T05:44:00Z
-    webUrl: "https://www.wshu.org/post/how-lose-election-brief-history-presidential-concession-speech"
-    type: article
-    provider:
-      name: WSHU news
-      domain: wshu.org
-    quality: 0
-
 secured: "8A9qEGc9kiAyCT3ogoQndTpPt/M/yuEhHvl4ZyK1dSGxFx6RnzukVHryLsCflY6TDdv80VNkXP8eBWakBol73itkc722heAP+mL0kVZG+izxiIiUhDX/oBZlUt/WSdNSxiHHp5wa4lbFY9MDEDqE90eCap/6KfYf/FeZ4Wxzx6deYJuI/hD9GkDbvPAaCDJ5eEdBZ+UohslbuGTEnC75GA6p4vylekXwOceuc6kpgcJSD6Vex8vauvV5DltGFu2EnGEDy6ddoR0HG7zFdpVN7cJbnlWIUYjzANPW/GLMim8L+lIIEGx4gkBIlGMCDX4sP9LmlwLYMzfJdAdDLmBh44eASo50d+B22s8lJINdeRh/xK6Gfke+4PJTuU/PY4SXpHOXM2Jq6GNyAjQEktiNPYG3W7b4ij8FR8g//MmAzi8wf4CrHCdZwEQ0cJHLQzFdXVocW8s956Zoc6WUOtsB4IVCNA2Yzgw4YnkxkajmeCzAbNQIo/xCkxylEJQ98tsC0TGHQTD++Y3XmirX+idKAw==;oDRgTPu0Gpnldz9ZdSqRkA=="
 ---
 

@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Google AI
+  - AI in Healthcare
 
 images:
   - url: "https://jaxenter.com/wp-content/uploads/2020/08/shutterstock_10521283075.jpg"

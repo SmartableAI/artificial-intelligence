@@ -7,7 +7,7 @@ originalUrl: "https://www.9news.com.au/videos/health/coronavirus-sa-considering-
 webUrl: "https://www.9news.com.au/videos/health/coronavirus-sa-considering-facial-recognition-tech-in-place-of-compliance-checks/ckh341jqq000s0hmr95mmd38i"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Will AI save us from coronavirus?"
-    excerpt: "Early this spring as the pandemic began accelerating, AJ Venkatakrishnan took genetic data from 10,967 samples of the novel coronavirus and fed it into a machine. The Stanford-trained data scientist"
-    publishedDateTime: 2020-11-03T06:15:00Z
-    webUrl: "https://www.messenger-inquirer.com/features/the_link/will-ai-save-us-from-coronavirus/article_c8fef356-78bb-53a4-8614-f81af080fa06.html"
+  - title: "Coronavirus: Lord ‘Beefy’ Botham warns sport has been hit for six in maiden parliamentary speech | Politics News, Reports"
+    excerpt: "After his maiden speech, the former Tory sports minister Lord Moynihan ... met virtually to consider sweeping legislation outlawing the use of facial recognition technology. The bills... Want more basketball in your inbox? Sign up for Marc Stein’s ..."
+    publishedDateTime: 2020-11-03T20:06:00Z
+    webUrl: "https://www.360webmag.com/coronavirus-lord-beefy-botham-warns-sport-has-been-hit-for-six-in-maiden-parliamentary-speech-politics-news-reports/"
     type: article
     provider:
-      name: Messenger-Inquirer
-      domain: messenger-inquirer.com
-    quality: 37
+      name: WebMag
+      domain: 360webmag.com
+    quality: 14
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/messenger-inquirer.com/content/tncms/assets/v3/editorial/e/b0/eb018bf8-a186-541e-9f5e-6f5121831c53/5fa090a1243d6.image.jpg?resize=945%2C630"
-        width: 945
-        height: 630
+      - url: "https://www.360webmag.com/wp-content/uploads/2020/11/1604433594_Coronavirus-Lord-Beefy-Botham-warns-sport-has-been-hit-for.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "qPRSkoTcWJ9Vk2tCyTi9H3E8t2WhbF+ALGgw0jgKQ9IW9ScD8jUxR53PEllBHWmsbiSTDSu69xRobNw+Dn6AWOKP4DocxuXEEQLxZWVvP9yiB6b7qOyYcmFKVAWhtMxfi/TifXgG4Xgp4L8Zf13cC0n/LFMfTlZHpYO2jhCB4AjL1ntinSefKgXf0mgwMC8B7C5gC/8kei/TCUlwlinZTe7MTWDsSan8Oq5ULSFfmMEaOAvEd1SPq1+uE3xQ+kIJ2V9LTeD7WGSAC5s6QgK6sPYfDcpWroZ/5hW4Hq4mjEJavnyHGBsVUDODEyeoy0p2cvGLC3cgbquguD6QFi4ZhT6R00HHwjNag9/9y9mmQErCtTCke7PM45DMEYZxGlqFKnIdS+/YuJDQthMAEg7Zz9ohgjiwCG5oxo8MkDuZ5YCJGJAszrwmWOiLhO4dK0Wtfoy0o29262BdYC0X9C9BQHQ771w0TMHFbYGHo8GTMWpzW7EHfajFSIrBckPS9noU4+K33lUpTNTRZ8okI4taPw==;zTvgdJ7oA2tAl/N4rGAfGQ=="

@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-11-02-facebook-research-is-developing-ar-glasses-that-help-deaf-people-hear-better.md",
+      "title": "Facebook research is developing AR glasses that help deaf people hear better",
+      "excerpt": "The research lead for Facebook’s Hearing Science lab tells Digital Trends about the exciting possibilities of AR glasses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/features/facebook-ar-glasses-deaf/",
+      "originalUrl": "https://www.digitaltrends.com/features/facebook-ar-glasses-deaf/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/facebook_hearing_ar3-1200x630-c-ar1.91.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/features/facebook-ar-glasses-deaf/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facebook-ar-glasses-deaf/?amp",
+      "publishedDateTime": "2020-11-01T08:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-01-deep-neural-networks-are-helping-decipher-how-brains-work.md",
       "title": "Deep Neural Networks Are Helping Decipher How Brains Work",
       "excerpt": "“I was really pumped,” he said. It would have counted as a noteworthy accomplishment in artificial intelligence alone, one of many that would make neural networks the darlings of AI technology over the next few years. But that wasn’t the main goal ...",
@@ -463,6 +515,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-31-weeding-robot-to-save-you-cost-of-herbicides.md",
+      "title": "Weeding robot to save you cost of herbicides",
+      "excerpt": "The weeding robot seeks to solve this issue in a sustainable manner. With your unique knowledge, strengths and skills set, what unique role did each of you play in this invention? Kenneth: Since we are both Mechatronic Engineers our skill sets are similar.",
+      "sourceUrl": null,
+      "webUrl": "https://www.standardmedia.co.ke/farmkenya/article/2001392141/weeding-robot-to-save-you-cost-of-herbicides",
+      "originalUrl": "https://www.standardmedia.co.ke/farmkenya/article/2001392141/weeding-robot-to-save-you-cost-of-herbicides",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://cdn.standardmedia.co.ke/images/saturday/weeding_robot_to_sav5f9d1a187f7f2.jpg",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.standardmedia.co.ke/farmkenya/amp/article/2001392141/weeding-robot-to-save-you-cost-of-herbicides",
+      "cdnAmpWebUrl": "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/farmkenya/amp/article/2001392141/weeding-robot-to-save-you-cost-of-herbicides",
+      "publishedDateTime": "2020-10-31T02:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Standard Digital",
+        "domain": "standardmedia.co.ke",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1167,109 +1262,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-ai-technology-can-enhance-human-centered-work-instead-of-threaten-it.md",
-      "title": "AI Technology Can Enhance Human-Centered Work Instead Of Threaten It",
-      "excerpt": "Samasource, a training data and validation company, believes AI can enhance how we work. The company operates with care for its employees and communities, showing that advanced technology solutions do not have to be the enemy of a human-centered workforce.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/christophermarquis/2020/10/30/ai-technology-can-enhance-human-centered-work-instead-of-threaten-it/",
-      "originalUrl": "https://www.forbes.com/sites/christophermarquis/2020/10/30/ai-technology-can-enhance-human-centered-work-instead-of-threaten-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9bf2c78d0cace826a29403%2F0x0.jpg",
-          "width": 1200,
-          "height": 713,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/christophermarquis/2020/10/30/ai-technology-can-enhance-human-centered-work-instead-of-threaten-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christophermarquis/2020/10/30/ai-technology-can-enhance-human-centered-work-instead-of-threaten-it/amp/",
-      "publishedDateTime": "2020-10-30T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-daimler-invests-in-lidar-startup-to-bolster-self-driving-truck-effort.md",
-      "title": "Daimler Invests in Lidar Startup to Bolster Self-Driving Truck Effort",
-      "excerpt": "Daimler AG’s truck unit is investing in a laser-sensor startup to bolster its development of self-driving trucks in the U.S. less than a week after striking a deal to use driverless technology from a unit of Google parent Alphabet Inc. Daimler Truck AG ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-30/daimler-isn-t-relying-solely-on-waymo-for-self-driving-trucks",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-30/daimler-isn-t-relying-solely-on-waymo-for-self-driving-trucks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivAEZ0L1V7mU/v0/360x-1.jpg",
-          "width": 360,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-30/daimler-isn-t-relying-solely-on-waymo-for-self-driving-trucks",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-30/daimler-isn-t-relying-solely-on-waymo-for-self-driving-trucks",
-      "publishedDateTime": "2020-10-30T04:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

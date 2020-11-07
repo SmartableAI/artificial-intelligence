@@ -8,7 +8,7 @@ webUrl: "https://venturebeat.com/2020/11/05/autonomous-vehicle-startup-pony-ai-r
 ampWebUrl: "https://venturebeat.com/2020/11/05/autonomous-vehicle-startup-pony-ai-raises-267-million-at-an-over-5-3-billion-valuation/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/05/autonomous-vehicle-startup-pony-ai-raises-267-million-at-an-over-5-3-billion-valuation/amp/"
 type: article
-quality: 78
+quality: 80
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/08/ad1de834-abf3-471e-b4cc-3408c731b4f4-e1566788588385.png?w=1200&strip=all"

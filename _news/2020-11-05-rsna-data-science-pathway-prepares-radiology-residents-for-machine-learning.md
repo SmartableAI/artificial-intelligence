@@ -35,6 +35,20 @@ related:
         width: 1440
         height: 894
         isCached: true
+  - title: "New Pathway Could Advance Artificial Intelligence in Radiology"
+    excerpt: "A data science pathway could help fourth-year radiology residents prepare for the use of artificial intelligence in radiology."
+    publishedDateTime: 2020-11-05T20:54:00Z
+    webUrl: "https://healthitanalytics.com/news/new-pathway-could-advance-artificial-intelligence-in-radiology"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/RadiologyAI_Getty.jpg"
+        width: 700
+        height: 451
+        isCached: true
 
 secured: "4MF21RWZ3t/39OtGufuZKlgxuXXqZT2wrQ208XVThDrGrh2QI5KkjubI5H7OPH/2/L48/q4svhhMX3y7SaYMBoMesA+xKKQLYya7ow3CoYOJLfSNmRZt1h5zeoCK2qrXdGZ2BvMsDRY5ZCeE+uWJooDEevrA+eEGxxO/QvDtG7XD+1UkzuXRE/BW+0CDofBJguV/Ta6v+qdvXzYl5oD9A9KPQc24U1xus/f+J/juUDuW2VPEShcKdzcAwT0Iv5msCGdDi8TB/TSVDIBO9Jq4aAiFll3KwFoNqePPjBpOVmM1FwrmUGVU2AMnx9fkqPE5atATmIDtqZTS3uCrm3DXddPyF+1kzL5ZqO5HE1guB50=;Wt9MxF4Vzu1xYvU/+3cR8w=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://medcitynews.com/2020/11/healthcare-execs-going-all-in-on-a
 webUrl: "https://medcitynews.com/2020/11/healthcare-execs-going-all-in-on-ai-survey-shows/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: MedCity News
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Big data and artificial intelligence software is impacting your shopping experience"
+    excerpt: "In 2012 a writer for the New York Times named Charles Duhigg wanted to explore how retailers were using the data they had begun collecting involving customer purchases. What he found was stunning for the times,"
+    publishedDateTime: 2020-11-07T08:03:00Z
+    webUrl: "https://www.mininggazette.com/opinion/columns/2020/11/big-data-and-artificial-intelligence-software-is-impacting-your-shopping-experience/"
+    type: article
+    provider:
+      name: The Daily Mining Gazette
+      domain: mininggazette.com
+    quality: 31
+    images:
+      - url: "http://d14e0irai0gcaa.cloudfront.net/www.mininggazette.com/images/2016/11/14155029/fblike.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Healthcare is ramping up AI investments during COVID. But the industry is still on the fence about Google, Amazon. Here's why"
     excerpt: "Healthcare organizations are ramping up their investments in artificial intelligence in response to the COVID-19 pandemic, according to survey data. But they are not turning to tech giants like Google and Amazon to deploy these technologies."
     publishedDateTime: 2020-11-04T16:56:00Z
