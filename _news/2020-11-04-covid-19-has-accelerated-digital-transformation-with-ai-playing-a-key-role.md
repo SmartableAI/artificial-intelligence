@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/11/04/covid-19-h
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/04/covid-19-has-accelerated-digital-transformation---with-ai-playing-a-key-role/amp/"
 type: article
 quality: 86
-heat: 186
+heat: 176
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/dDCp4NHDYvB0BmToGJy_f8F43ok=/0x0:1350x900/1400x1050/filters:focal(567x342:783x558):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67737901/MIT_Cough_Recordings_01_PRESS.0.jpg"
         width: 1350
         height: 900
-        isCached: true
-  - title: "MIT working to launch app that uses AI to detect COVID-19 in coughing sound"
-    excerpt: "This groundbreaking study could provide a convenient screening tool for people to test for COVID-19 at home, or those who may not know they have the virus."
-    publishedDateTime: 2020-11-02T21:41:00Z
-    webUrl: "https://abc7news.com/technology/mit-working-on-app-that-can-detect-covid-19-in-coughs/7583846/"
-    ampWebUrl: "https://abc7news.com/amp/mit-covid-test-app-cough-19-research-study/7583846/"
-    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/mit-covid-test-app-cough-19-research-study/7583846/"
-    type: article
-    provider:
-      name: ABC7 San Francisco
-      domain: abc7news.com
-    quality: 55
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/7587100_110220-kgo-covid-test-generic-img_Image_00-00-02,00.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Artificial Intelligence Identifies Asymptomatic COVID-19 Infections"
     excerpt: "An artificial intelligence tool was able to accurately distinguish between the coughs of COVID-19 patients and healthy individuals."

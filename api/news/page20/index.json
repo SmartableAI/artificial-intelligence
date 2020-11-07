@@ -2,6 +2,39 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-10-20-juniper-to-spur-ai-based-solutions-with-128-technology-buyout.md",
+      "title": "Juniper to Spur AI-Based Solutions With 128 Technology Buyout",
+      "excerpt": "Juniper Networks, Inc. JNPR has inked an agreement to acquire smart wide area networking startup — 128 Technology, Inc. — for $450 million. Through the deal, the network products and services provider aims to expand its footprint in the AI-driven enterprise solutions market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/juniper-to-spur-ai-based-solutions-with-128-technology-buyout-2020-10-20",
+      "originalUrl": "https://www.nasdaq.com/articles/juniper-to-spur-ai-based-solutions-with-128-technology-buyout-2020-10-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/juniper-to-spur-ai-based-solutions-with-128-technology-buyout-2020-10-20?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/juniper-to-spur-ai-based-solutions-with-128-technology-buyout-2020-10-20?amp",
+      "publishedDateTime": "2020-10-20T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-biped-robot-maker-agility-raises-20-million.md",
       "title": "Biped robot maker Agility raises $20 million",
       "excerpt": "(Reuters) - Agility Robotics said on Thursday it raised $20 million in funding, in a round led by Silicon Valley venture capital firms DCVC and Playground, as two-legged robots start walking out ...",
@@ -1134,48 +1167,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-retail-tech-startup-tiliter-raises-75m-for-cashierless-ai-shopping-technology.md",
-      "title": "Retail Tech Startup Tiliter Raises $7.5M for Cashierless AI Shopping Technology",
-      "excerpt": "Investor demand for innovative emerging companies remains strong with Australian AI tech startup Tiliter completing a $7.5 million capital raise, led by Investec Emerging Companies (IEC). Eleanor Venture,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/newswire/technology-business-corporate-news-north-america-products-and-services-3f8093b9dc6da93e55d2015ee8613525",
-      "originalUrl": "https://apnews.com/press-release/newswire/technology-business-corporate-news-north-america-products-and-services-3f8093b9dc6da93e55d2015ee8613525",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-20T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

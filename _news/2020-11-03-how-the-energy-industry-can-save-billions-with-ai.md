@@ -7,8 +7,8 @@ originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/video/h
 webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/video/how-the-energy-industry-can-save-billions-with-ai/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: ZDNet
@@ -26,22 +26,6 @@ images:
     width: 370
     height: 278
     isCached: true
-
-related:
-  - title: "An Enlightened Future with AI"
-    excerpt: "The year of 2020 has proved to be a challenging year defined mostly across the world by a global pandemic and as a result an increasing shift towards digital. The decisions that we make now and in the"
-    publishedDateTime: 2020-11-02T21:50:00Z
-    webUrl: "https://www.linkedin.com/pulse/enlightened-future-ai-imtiaz-adam/?trackingId=ZQBYyYDvYNZqylnz2Lu7HQ%3D%3D"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFh5BNx5U2Vlg/article-cover_image-shrink_720_1280/0?e=1609977600&v=beta&t=0X7_yjbOj4s0sXVSK49Raku6erVHawRL_q-3W6o79ow"
-        width: 1152
-        height: 720
-        isCached: true
 
 secured: "E5FIWYX36/Wb/kv9ECHEzWffwZySZn7sLTPD4k/l+S11SO99K+oWPCHUwNHJeaEn2zi8JIxKlR3yQFUOOhaePNEL37LSeM9zJwY/BzVxBAHrJ65HaxeL9FGSPH8pgmImP9EOwvqVQOFCun5my73pR71s95CNT4arG4HWj5DEc2BleUgKOBYEnD7UdIEo3N5M0MVATEgrxr7PbYnyzZKTZlHJYq+je92Y5qV8bSrd/zHeHdrPwKtzJOAvO3+8vrY1JZYhT9rcadHbYmLGTnpE3yxanquSod8Wu5gjPfLr08UDfCU9g42VV6mMoSrLq1k2gTSvLpnPPswktUljUbFuNtrjEcm0S0ULoHpCYPXnNEz3MFt8efkgo1TCiA8STzdv9dtREqlps+PQzptjBxl+8ErNcwCTYuQbPAXWGIWjF/5V71l7ZoWYTY23SizdofV2uhL7pzeYc+slmy6GjttE31sDHeCaJf7xayq/tBmH2J9pwBFrkpbjoOxtpaASnth22gN3GqEwqxxL/4xVHGIMXA==;ofJZgiKsm4c6ILu0Q1eZuA=="
 ---

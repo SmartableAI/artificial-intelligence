@@ -30,16 +30,16 @@ related:
   - title: "Most health execs expect widespread implementation of AI in the next 5 years"
     excerpt: "Ninety-percent of US health IT execs expect AI solutions to be well integrated into the US healthcare system in the next five years"
     publishedDateTime: 2020-11-06T15:12:00Z
-    webUrl: "https://www.businessinsider.com/health-it-leaders-bullish-on-ai-implementation-2020-11"
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/90-of-health-it-execs-expect-widespread-ai-implementation-in-next-5-years.html?utm_source=Triggermail&utm_medium=email&utm_campaign=Post Blast bii-digital-health: Health IT leaders are bullish on AI | Microsoft rolls out Cloud for Healthcare | Unite Us%2C Nebraska HIE tackle social determinants&utm_term=BII List Digital Health ALL"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 64
+    quality: 164
     images:
-      - url: "https://i.insider.com/5e440fa64b661b28f45e7d34?width=1200&format=jpeg"
-        width: 1080
-        height: 540
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg"
+        width: 400
+        height: 300
         isCached: true
   - title: "Artificial Intelligence and the Path to Health Care Innovation"
     excerpt: "The American Hospital Association and Microsoft now offer a free, one-hour course, for continuing education credits, to guide health care teams through key considerations and specific actions for AI’s responsible and strategic implementation."

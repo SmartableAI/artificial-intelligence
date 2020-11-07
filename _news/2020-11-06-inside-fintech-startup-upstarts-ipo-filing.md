@@ -109,18 +109,18 @@ related:
         height: 400
         isCached: true
   - title: "LexinFintech Unveils Strategy to Further Tap Chinese Consumer Market at Hong Kong Fintech Week 2020"
-    excerpt: "LexinFintech Holdings Ltd. (\"Lexin\" or the \"Company\") (NASDAQ: LX), a leading online consumption and consumer finance platform for educated young professionals in"
-    publishedDateTime: 2020-11-06T14:03:00Z
-    webUrl: "https://omaha.com/business/consumer/lexinfintech-unveils-strategy-to-further-tap-chinese-consumer-market-at-hong-kong-fintech-week-2020/article_bd7f3676-060e-593e-b74b-f54c1fd8ab29.html"
+    excerpt: "(GLOBE NEWSWIRE) -- “LexinFintech Holdings Ltd. (“Lexin” or the “Company”) (NASDAQ: LX), a leading online consumption and consumer finance platform for educated young professionals in China, is gearing up to expand its product offerings to tap the rising consumption demand of China’s new generation,"
+    publishedDateTime: 2020-11-06T07:50:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-greater-china-financial-technology-0acddaea86f49e8b8272e9f5f4d32d32"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
+      name: Associated Press
+      domain: apnews.com
     quality: 10
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "The Game-changing FinTech Company You Need to Know About"
     excerpt: "Back in June, we introduced our Stockhouse investor audience to an emerging FinTech giant and took a deep dive into how this Canadian company is on the forefront of developing artificial intelligence (AI) that transforms data into knowledge."

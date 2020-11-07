@@ -59,20 +59,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "Method for facial recognition bias reduction with adversarial network shows promise"
-    excerpt: "A prominent trio of biometrics researchers have proposed a way to remove the difference, or bias, from facial recognition performance between different demographics. A paper jointly written by"
-    publishedDateTime: 2020-11-02T22:46:00Z
-    webUrl: "https://www.biometricupdate.com/202011/method-for-facial-recognition-bias-reduction-with-adversarial-network-shows-promise"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 33
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/10124235/facial-recognition-crowds.jpg"
-        width: 1920
-        height: 1005
-        isCached: true
 
 secured: "s3BRjAQFrIk1TuF8ao+F97ArTDJgdKKqiYDdnncyz9Jp+x+Qi1xi04ZYnthLZYM0cMuYuVdDLsfYUWc48X7mbKgx9uD3FbHll9UmzB32g6zglSsP96ZI3tfGAPLKsWnVZOI1LdVgNHfkQTK3NiQtp1WgILYWbBbwcSY+S8yiASxjAGQBOgT/nQzAmwTniM1RMfk7+TEuejeLX31LP35/DcwigKhRGKQyQivEgkZ/luFd53G04ukQo65+ioZYqXGXwMywefm2n0/FOLYnbgczBQG8nkwNEVZh93YrD2yfWniH6ixZFgmJjfJYRdy8sMjg91rV6OtA4C/7ZIDMkqUnNEfMBL+J6iqi5sIgj5isJYWPWhE9aBBlTYlJNaUbtvJQxFCmQufI9ElR8G1Kbg9Y5vR1Z11dZ1xFxhqOY+hxDtGW2mGCb4+KdnzruuM40HTTJpSYjjtJagYxAHwtnt2QER6+9lm3VoNZ1ec9U+l3X3H7ZSIiXtQXj+n7OxvDK1s675mL3RmtXAeh7VuVL2Ns+A==;5WhVf4t+C8nqIrovgYEBYQ=="
 ---

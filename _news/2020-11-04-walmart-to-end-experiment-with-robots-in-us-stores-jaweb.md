@@ -75,22 +75,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Walmart abandons shelf-scanning robots, lets humans do work"
-    excerpt: "Walmart is laying off the robots it had deployed in about 500 stores to keep tabs on what’s on and not on the shelves."
-    publishedDateTime: 2020-11-02T21:58:00Z
-    webUrl: "https://fox40.com/news/business/walmart-abandons-shelf-scanning-robots-lets-humans-do-work/"
-    ampWebUrl: "https://fox40.com/news/business/walmart-abandons-shelf-scanning-robots-lets-humans-do-work/amp/"
-    cdnAmpWebUrl: "https://fox40-com.cdn.ampproject.org/c/s/fox40.com/news/business/walmart-abandons-shelf-scanning-robots-lets-humans-do-work/amp/"
-    type: article
-    provider:
-      name: FOX40
-      domain: fox40.com
-    quality: 59
-    images:
-      - url: "https://fox40.com/wp-content/uploads/sites/13/2020/11/AP_19023777999919.jpg?w=1280"
-        width: 1280
-        height: 786
-        isCached: true
   - title: "Walmart gets rid of inventory robots, says human as good"
     excerpt: "There have always been fears that robots are going to take away a lot of routine tasks and some white-collar jobs too in the future. Artificial Intelligence has already insidiously taken over many supervisory tasks without many being aware of it."
     publishedDateTime: 2020-11-04T12:39:00Z

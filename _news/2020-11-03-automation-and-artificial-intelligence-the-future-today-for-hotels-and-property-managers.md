@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "AI-Based Product Recommendations: How to Reach Today’s Customer"
-    excerpt: "We’ve all seen AI-based product recommendations in action. Amazon, an eCommerce giant that started out selling cheap books now"
-    publishedDateTime: 2020-11-02T21:25:00Z
-    webUrl: "https://www.business2community.com/ecommerce/ai-based-product-recommendations-how-to-reach-todays-customer-02358602"
-    ampWebUrl: "https://www.business2community.com/ecommerce/ai-based-product-recommendations-how-to-reach-todays-customer-02358602/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/ecommerce/ai-based-product-recommendations-how-to-reach-todays-customer-02358602/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 57
-    images:
-      - url: "https://cdn.business2community.com/wp-content/uploads/2020/10/ai_1603957882-900x600.jpg"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "NAb2Q41bxxLVV532sk00txJE2VhEmCcD5aSZ/+gubow1labjosQybMhx/prEPs6k/vkefF842Y3zzezbeB17csKbm2hjp0SR6kyKH+4eU7bkf2PIeyUGbHjZeHFr3qWEP1nOHnnhgIN5XzguCY911zJiGuGvvU7oZEzyE7JfRbEHRWbL00X2mAqwEhQ3VE63mDO27qFkEM1LCWAiu+PT7QkWdrjh7Q0U9rL6QwTU1vgEFVLrhoh9FECHtPkxQ8/ND+zL53Lh9lIJ3M4VSpYkQbdugT06lteWBdHgcVmVzydcozHeudeGF0hehG87uyZ0PqFMwbL+AC4mTsdnRF/hvXIgiaQMCagKzz8dqKWJgHz4sRMJvEUwsr1DyqCJx8aygD5/Z+8VWOLexhZJGxB2yr1gWDFbcH0UuZGv4uGPOgGLmdWEN721GTFm62z668W30JfS6jTcantLeaaZ52a3ERBflScaB5sDNqydmjrqewAjQ97E9bedM5NVQ0RLhwFQHwyERZuJTFGWwy0OyX+aEw==;3kXos8lb5PANi6yascp+Mw=="
 ---

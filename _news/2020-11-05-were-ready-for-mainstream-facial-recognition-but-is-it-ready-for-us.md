@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/11/05/were-ready
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/05/were-ready-for-mainstream-facial-recognition-but-is-it-ready-for-us/amp/"
 type: article
 quality: 106
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F11%252F05%252F4c%252F753b163a041b44bfa12e6c2bfb0e7343.c1d75.png%252F1200x630.png?signature=tOtKGH02FwxWIuIDU9FFqV5oQ8k="
         width: 1200
         height: 630
-        isCached: true
-  - title: "Method for facial recognition bias reduction with adversarial network shows promise"
-    excerpt: "A prominent trio of biometrics researchers have proposed a way to remove the difference, or bias, from facial recognition performance between different demographics. A paper jointly written by"
-    publishedDateTime: 2020-11-02T22:46:00Z
-    webUrl: "https://www.biometricupdate.com/202011/method-for-facial-recognition-bias-reduction-with-adversarial-network-shows-promise"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 33
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/10124235/facial-recognition-crowds.jpg"
-        width: 1920
-        height: 1005
         isCached: true
 
 secured: "cmbvMuEV52z/6VO7ljPV7ty2eiSrOqvIUfQQ1MJtV589SOx+wBTVTIknhUCWXqhfjTcUd6IOKwtwyVwKrTYzHeVaMeVmAd/T8CjBTWRvfRZHMWoUbOUSI+FM+fKGD2pbs7dqkcnmDcgeinjRtF2qBPTI5jpfD8rnvzAvJZ4zRzYKFKR3YWj+Lf6UkNm+bDGvNHwWCtBDbWU/BPMAJHoVv5fwE4GVmY635CG92CIwIepoVk+mLxuYbsvw2nQPkin0ThPZAHvl4Giz/b30uU52PjSVgi6pFwR0SEwvz6DuBR155UFEK2c4hf6hqBm8sSd3KVzUZ2QfnJL/YS1pzEgMQDbzs3btPKmThQ4wN6s1Zk842jeMoi8YiDKr7TV07rm4FOSYv3aP/uHcKe4/PwsfALIF9A++O1S+9vCKxv1vsCseBnQ3DiQNK0MO/Mp+0SGDSj/+fhkVJroVFbbytJYDFnXVfG0prKBQZXHJfgiKO11eYhD0AUmxL/HBseTxLUjsG5eglNFdoL9m+tssMAAA4A==;Y6plT4QUMw90My2a5FXynQ=="

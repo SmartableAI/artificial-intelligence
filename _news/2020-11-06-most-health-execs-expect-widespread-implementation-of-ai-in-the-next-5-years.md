@@ -4,17 +4,17 @@ title: "Most health execs expect widespread implementation of AI in the next 5 y
 excerpt: "Ninety-percent of US health IT execs expect AI solutions to be well integrated into the US healthcare system in the next five years"
 publishedDateTime: 2020-11-06T15:12:00Z
 originalUrl: "https://www.businessinsider.com/health-it-leaders-bullish-on-ai-implementation-2020-11"
-webUrl: "https://www.businessinsider.com/health-it-leaders-bullish-on-ai-implementation-2020-11"
+webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/90-of-health-it-execs-expect-widespread-ai-implementation-in-next-5-years.html?utm_source=Triggermail&utm_medium=email&utm_campaign=Post Blast bii-digital-health: Health IT leaders are bullish on AI | Microsoft rolls out Cloud for Healthcare | Unite Us%2C Nebraska HIE tackle social determinants&utm_term=BII List Digital Health ALL"
 type: article
-quality: 64
-heat: 84
+quality: 164
+heat: 184
 published: true
 
 provider:
   name: Business Insider
   domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,9 +22,9 @@ topics:
   - AI
 
 images:
-  - url: "https://i.insider.com/5e440fa64b661b28f45e7d34?width=1200&format=jpeg"
-    width: 1080
-    height: 540
+  - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg"
+    width: 400
+    height: 300
     isCached: true
 
 related:
@@ -59,6 +59,6 @@ related:
         height: 400
         isCached: true
 
-secured: "aH4qcyIZkdArBZWr1HVdzR6/+K2NvKIKh732qCfOptngN2gtwa6qPdVOxrzPTsAw03XnH4Th1nmoxgPo+XZDUdTND7aLN7gE1TRLC8lmQnuWYKT9tidc6n+aVIo/tbP/XNyPxKlUvNmZTjRSLiq/ZY7b5+R3ZQs51IeIXb3UhhOksg9oG4BC5geAz+6uRv01Uib6vMDOCna1SC/ia1cEph5DIQEOs316FVxQoJ9IFtolG4dEmUvkOtjPxnfwPxo+e0TRkmGT5qJnax8uo3dNQRBJBCTens4JrXhhTVpYJMJ8ZAQ3Dk5X9rKL7U+YIe09prttkYxm4J+XIfC1EiOIANYxZSn/1RvGGg0/1/MoPupVusq+O48dh86VL0YZSpfrwBja/dzcxfX1XZOgA1AUrnEe7jNM93qlhmNHkLdycLO2YFCxcCpU4gYdgaIRWfbAB3tTDtCJ1y/32p46ExFffKb9BFLTDhiIlk8vUGGufdYmddI7FYrxy6adCch6r4nsvPe8APpJ/FdoKdLvNs8A3g==;sm2TC3WBLO0+4GflFc3IMA=="
+secured: "pvl9xO5jGgd35m7c2Kv2JAkxXf8iPmqB9pYJ5d8hY/uIugfMMFpNKHs4QK2OHQ7n4/JjADVwLG6htJpt4qQbJpJGSYFdfjOUtU1WC1cloDeqbFVSfH+jCzVoUqSqBOPPmueVUCqVeVitqbFvCWGsHxd+4HszpgPlGj2mW8jWlVG0GVInDqlqIu3prLorCHNX+cXfRjaGwEfWI8JlivcIi+YwJDPdIWngw3vV/64osYdc21FNtLCkqnUl1lam3soy3BjcN6vPmFk/Yjvtxsx2uM90STTlKOcKMJq79qFAgwh/jas5Gzb0zMaosVCXHDhDu0UCBPG5mujDkEuNw/i//PfJuXiAi4n1ROhT/LSPiJk=;07OakT5VOhyXiLIKV1fUTA=="
 ---
 

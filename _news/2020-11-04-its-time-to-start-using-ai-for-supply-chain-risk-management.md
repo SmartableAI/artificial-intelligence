@@ -49,20 +49,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "Using Workstations To Reshape Your Artificial Intelligence Infrastructure"
-    excerpt: "The study results summarized in this white paper show that firms are already using workstations to lower the cost, increase the security, and speed up their AI infrastructure. The addition of workstations into a firms AI workflow allows servers and cloud platforms to be tasked with business cases that require more robust computing while workstations take on tasks with longer time frames and smaller budgets."
-    publishedDateTime: 2020-11-02T21:59:00Z
-    webUrl: "https://insidehpc.com/white-paper/using-workstations-to-reshape-your-artificial-intelligence-infrastructure/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 36
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/10/IHPC_DellUsingWorkstationsCover_2020-10-30_12-49-56.jpg"
-        width: 552
-        height: 311
-        isCached: true
 
 secured: "iZ9JrIMKtOo3UM76ECf3bkvf6vLYR7euvriv+jlGSMjfpIl/qiYONr1qs0k2JxzDaLjsiTw6LmEvUZQUVPRl+6jot9U75xIljhcF6Lgq/fw0Lpok1c6MDe8jxfzm5YyxhnmPMScZHRKqKGcNsjDVoQSjhbBZdQ1uBqTaYpeUh65Zz8clYkohxS6qDjKqCSpRNsSY7kyZwvn4GhtV+S4h84lsPYDoZFY9lF1SZXsh7LXklYItCda9Ym+TMLfP+z8IpFkU+ZgGpJEcMDGdAJwBApUdnFloo3m6a8ys8HN5yeD9dByGcTsMk0vsSfBWvzEZ23zo0+Eild1S8Ou3Mf3AbN7FkESp7FxE8fy4kq/aa2WN9DmbUU7GKuDnIsWsASYMwARED+ZfqUvi5IZaq10mXA2WnqkdP7WPAvFSwyEzIhuoC0dWiE8TeQ3++UsJpcYL1HBLtZZiQK2FG/Df43D4Uneyhyfpqzomjn8nHGF2iQCnB/GF7hpswmxKCt/C/xkRmKIALc9ua5PZ4yUu9eJA3Q==;7SNj5vD6GnPraF0WdTMr5w=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://www.cnbc.com/2020/11/06/china-driverless-car-firm-ponyai-valued
 ampWebUrl: "https://www.cnbc.com/amp/2020/11/06/china-driverless-car-firm-ponyai-valued-at-5point3-billion-after-funding.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/06/china-driverless-car-firm-ponyai-valued-at-5point3-billion-after-funding.html"
 type: article
-quality: 98
-heat: 168
+quality: 198
+heat: 268
 published: true
 
 provider:
@@ -137,6 +137,6 @@ related:
         height: 477
         isCached: true
 
-secured: "6TicGtKcE3cWavoh72BnOluzWB7CzMwS9RPsmO2f0POO+XlKTHwsWRCAz1xAyT+nJ54YPhy0NszNJyUj1HCAZgHwQ0ehhZ0655sCnb9KF5wiTIfhdEy1uMRv+9yEOhMJ9gJ/4koTcClrFS21slYXOJfhPiFSGnvMAIGHITwpCZcvlG0qHnN+jxfK684ozXBFvwFhr5cpZvDepWSWnKHgJzcQ+lQaS+tROyuXwBJd+40NtU3RHH9VlZ/tR66WyyPaT/oMc35MzUCzNzPRoGWTlU+6utNr9eWVK/hpRdYeG/xCfomxa6/zfYrLs/R2QYjKBVyEiXXuagF39Cw1cKePb9+4dpnZj3vHPfJddJJc42c=;RmyWAQ8z3wkRIgwTfH/eJg=="
+secured: "gNdg45OkAls5MO31ghFcbSaHUtrVSCUq5OIkd+CnK5PqPxNObQjDChaMaxnb/ZntynfS50bUyQkScyCBYMPxQ73eQ8rIZ6U0e3WNKmqhW5HkN5nGRRQ28slI70MLq33xJ/4UQ76zRNw/Td3kxHwUO+5kzH4ip4mb7Hjsm95ZNijrBoTk4jf1dC3H6pQCP0nLtulFHsB+lsMXeGLXbVPB2G0jMauiLuXOYHIVcAk6I9LyFScP5l4uZJ7eiGJ5H8SWFEIm9Zkn+AOLjWELAPA1SVVcA70T7Zfc0CdEeaBamRy0Sh9EvfKXbJ9fN9AMk2lPmEf/HRcLvMaz+ubelCod42G9bme8FjbJo0T9wsDOVu+5M86Cc95yEM7vx0vdZhPgIV0rznRUXjwipB6vjeOd8d3h8s4W42rz9hqmNF7AlLorglgG5RfxFLGxxJISjhuigZw87QhlfwZCUnv/25sop0UuXFdY3LTLvE5dIo2Di7rzH4iU6lTjC2V4L1YlSAWSsm4YZ485eHtHORj0OvuVPSFClTAiU3CFw4u5s6b4gAg=;osp9zGUdKMGxTSLvGZbSLA=="
 ---
 

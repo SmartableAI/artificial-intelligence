@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Police used facial recognition to identify a Lafayette Square protester"
-    excerpt: "The system law enforcement used hadn't been disclosed before. In the aftermath of the Lafayette Square protests in June, police in Washington DC used facial recognition technology to identify a protestor who had allegedly punched an officer in the face."
-    publishedDateTime: 2020-11-02T22:12:00Z
-    webUrl: "https://www.engadget.com/lafayette-square-protest-facial-recognition-221036657.html"
-    ampWebUrl: "https://www.engadget.com/amp/lafayette-square-protest-facial-recognition-221036657.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/lafayette-square-protest-facial-recognition-221036657.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F3ea7c4a0-1d55-11eb-afff-e1ebf126e004&client=amp-blogside-v2&signature=be769346814482f72d74793c259b19466605344c"
-        width: 600
-        height: 350
-        isCached: true
   - title: "Cops Used Previously Undisclosed Facial Recognition System To Identify Protestor Accused Of Assault"
     excerpt: "At an otherwise peaceful protest in Washington, D.C. this past June, one attendee is alleged to have punched an officer in the face before fleeing. According to court documents reviewed by The Washington Post,"
     publishedDateTime: 2020-11-03T19:03:00Z

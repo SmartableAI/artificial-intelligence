@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2020/11/06/how-ai-predictions-fared-against-pol
 ampWebUrl: "https://venturebeat.com/2020/11/06/how-ai-predictions-fared-against-pollsters-in-the-2020-u-s-election/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/06/how-ai-predictions-fared-against-pollsters-in-the-2020-u-s-election/amp/"
 type: article
-quality: 89
-heat: 99
+quality: 189
+heat: 199
 published: true
 
 provider:
@@ -48,6 +48,6 @@ related:
         height: 800
         isCached: true
 
-secured: "rX/mR0VtEBPUncU6hVdga+xX9BDWh0xFru3ZkiiFTXCZant+hHqgj+ogvZluF4MFqVkoMvSY2cAn/loor0657/b/ozcC84RjI/CoLE4u5fXBm8a57uQBBwGclM15icoIJJdFJT5FnpTc1DX6BVrbjl3LNwPyQwz2SHTHNwTxjDOcXbYuMPRKVSPbPFcwISocgaZ9XBH2j7mprJzT7MjXTMd7q/wI06vT7UM29mR+/DG/ykK/ENYoNchC7LB1MYKJu/v9fO9p4d/ytN4JKFR2hOTmPDhsO67WS04Tx2BDzfD3yC70VpYYqbeoVz8w7jBkPztTD+0vxPNOXNU4LdvPTjW7c9Jdsd+lifmm+WJgUqyb3tuPVCeQO+4v5YL7FZ/lG41BwAKSakF0zos9hC/+GoIIjuwqBJu4rv0PNoYZYzN06dfTKp9oBcJb4Mjr+Oit6meXy5WYxyN0yN+oA6FBsqQ5xWYSYjCYSHIaEIFheFGbHiB3ljVzAP2vhK3QYYBn3mo7QMrpqacclrWTuD/hXA==;7Kqu1rPda1WVapU4XtvW7Q=="
+secured: "jpf1ocE6oFRvSBrkqQfFZoyFx5zo56CnFeirp0RgWS6SxbXbMuFOF1s71iDgEEmtjMa0gaFKEnaFjZvLNG2/VkpUTyXf74lOsNajRSUG/EVcL95B4Q1y356Pfoh8vztW8gcasSMtfFp6bCLdPSkWelcUuiGcbNvqC2HpzgqyfPixzUMNMQlefQBeJ1rrqmhq3EfDNbgXP9pNliyiLJpoDNcX+hiTBsF0X2edlWQ14cxhECLxSFKXMPqNtlgbl7FVDK1Oit9slhfpurReHI6hEsqszN2+4s9ofGg5NJXj5MqLRPybQGtjwCqMmp+XfO37Dw218bK0eWM5ee/u0ZugyVy/QXIagWsEneO2Usypa3936RaFRW7gPhHdCuINuHdGuamqCkM+8Ta4r65SDW2n/tljcARCDMHHsRkNJem1s8tmcHCDoZOfzzeF/q/XRhGs+B341AluqNYhr3dtMN1NhS6WzedSsHDeuUMygcnv6GdKbG6OTIlgtr8iKznnWZbsy4yjo7/luoIlBVGCa0wutzgb/8WcR9nIVd3K/th09F4=;QKiEDrfvcBI2sq++p9ku8g=="
 ---
 

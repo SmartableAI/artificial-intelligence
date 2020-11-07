@@ -1,27 +1,27 @@
 ---
 category: news
 title: "LexinFintech Unveils Strategy to Further Tap Chinese Consumer Market at Hong Kong Fintech Week 2020"
-excerpt: "LexinFintech Holdings Ltd. (\"Lexin\" or the \"Company\") (NASDAQ: LX), a leading online consumption and consumer finance platform for educated young professionals in"
-publishedDateTime: 2020-11-06T14:03:00Z
-originalUrl: "https://omaha.com/business/consumer/lexinfintech-unveils-strategy-to-further-tap-chinese-consumer-market-at-hong-kong-fintech-week-2020/article_bd7f3676-060e-593e-b74b-f54c1fd8ab29.html"
-webUrl: "https://omaha.com/business/consumer/lexinfintech-unveils-strategy-to-further-tap-chinese-consumer-market-at-hong-kong-fintech-week-2020/article_bd7f3676-060e-593e-b74b-f54c1fd8ab29.html"
+excerpt: "(GLOBE NEWSWIRE) -- “LexinFintech Holdings Ltd. (“Lexin” or the “Company”) (NASDAQ: LX), a leading online consumption and consumer finance platform for educated young professionals in China, is gearing up to expand its product offerings to tap the rising consumption demand of China’s new generation,"
+publishedDateTime: 2020-11-06T07:50:00Z
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-greater-china-financial-technology-0acddaea86f49e8b8272e9f5f4d32d32"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-greater-china-financial-technology-0acddaea86f49e8b8272e9f5f4d32d32"
 type: article
 quality: 10
 heat: -1
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -137,6 +137,6 @@ related:
       domain: ibsintelligence.com
     quality: 4
 
-secured: "8ny1Dv2fsJsKDa3wA4qTkRUXy4EtUZwIJA/2fthXrNxvzgxZPsZM8RYoEWPh5QFO77zoqSjbf37SjVibiF7zA6i8cnKpBVSm4y1ZE5yD/PF+dkAjWRJ2dws/rhbGD7RZvW+5B1kgleJULvhozka/kn7bKDec+iC+mc0IV/xIm24u2EAwAZx6ATCpDOKJn9H+baJSzGZhq+PW7b9Ozaim8gT0JpRP01vlXP4OYgYOHbnYUMzUxjbpiscVMMNWARlA8wSH2tT2qM286zgqC40qyn7FLH0csLbwxX22bRCwcAdCW145ADpTE5Sax7CqOPohJ95HVFyScP35d8zT9mM2lzkQx7oLj5GNYzNFXH6LGbI=;ba8uzHlpLfQ4J0jHc/EdOg=="
+secured: "18Yf+YmvfnFmmBTodOWyYU2A13P09BuVI718tHsZ6p70ilsu3gaZG0ExbIox10NddYs+bOoFXaCIaXP/eVab6lEmPahWXLH706gRzVZTpx9q8N8MwCj5/IXOaC3hT+BpfzOGUpBqqntyRMvE4pXAIEggluO70YPyQIb7rxhvvQyDnyI88wOc3ILqKxhNCDYYZy9koV273RPYLq84rXVnsjJ1JpeKisRa1bA51VgG2/lEWMLPzd73hyBMoTO/Yg/OXq3YXy25HfHJbVzb6nKOEVFgREtR9oq+o1se1CHPnvMSUqEFay6nsu9L8U4WtLVjyY+FAuWBSkNeC7443PQRi3Fe1NYS6o3t3g4xWYuHFEE=;kdcR5i8U6QtW7VgbNnOA7w=="
 ---
 
