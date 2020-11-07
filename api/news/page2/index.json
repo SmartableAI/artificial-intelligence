@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-05-intel-intc-spruces-up-ai-capabilities-to-challenge-amd-nvda.md",
+      "title": "Intel (INTC) Spruces Up AI Capabilities to Challenge AMD & NVDA",
+      "excerpt": "Intel INTC has reportedly acquired Cnvrg.io — an Israel-based company that specializes in development of advanced machine learning (ML) models. The TechCrunch article, citing confirmation from an Intel’s spokesperson,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/intel-intc-spruces-up-ai-capabilities-to-challenge-amd-nvda-2020-11-05",
+      "originalUrl": "https://www.nasdaq.com/articles/intel-intc-spruces-up-ai-capabilities-to-challenge-amd-nvda-2020-11-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/intel-intc-spruces-up-ai-capabilities-to-challenge-amd-nvda-2020-11-05?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/intel-intc-spruces-up-ai-capabilities-to-challenge-amd-nvda-2020-11-05?amp",
+      "publishedDateTime": "2020-11-05T07:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-dances-with-robots-and-other-tales-from-the-outer-limits.md",
       "title": "Dances With Robots, and Other Tales From the Outer Limits",
       "excerpt": "Artificial intelligence and dance may seem like strange bedfellows, but artists and engineers are using technology to expand the possible.",
@@ -619,7 +653,7 @@
       "originalUrl": "https://www.pcworld.com/article/3587732/intels-iris-xe-max-gpu-to-take-on-nvidias-geforce-mx350-rtx-2080-in-notebook-pcs.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -671,7 +705,7 @@
       "originalUrl": "https://www.forbes.com/sites/davidteich/2020/11/04/sales-enablement-enhanced-with-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -860,6 +894,57 @@
       ]
     },
     {
+      "path": "_news/2020-11-04-leena-ai-nabs-8m-series-a-as-it-expands-from-chatbots-to-hr-service-platform.md",
+      "title": "Leena AI nabs $8M Series A as it expands from chatbots to HR service platform",
+      "excerpt": "When we covered Leena AI as a member of the Y Combinator Summer 2018 cohort, the young startup was firmly focused on building HR chatbots, but in the intervening years it has expanded the vision to a broader HR policy platform.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/",
+      "originalUrl": "https://techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1215953761.jpg?w=1024",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/amp/",
+      "publishedDateTime": "2020-11-04T06:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-brainome-launches-product-to-optimize-machine-learning-development-process.md",
       "title": "Brainome launches product to optimize machine learning development process",
       "excerpt": "Brainome's new product, Daimensions, seeks to eliminate brute-force aspects of machine learning model development, integrate with existing CI/CD infrastructure and generate small ML models that can run efficiently on commodity hardware.",
@@ -900,6 +985,58 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-covid-19-has-accelerated-digital-transformation-with-ai-playing-a-key-role.md",
+      "title": "Covid-19 Has Accelerated Digital Transformation — With AI Playing A Key Role",
+      "excerpt": "We're witnessing out-of-the-box thinking and once-in-a-lifetime risk-taking that's giving birth to fantastic innovations and great changes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/04/covid-19-has-accelerated-digital-transformation---with-ai-playing-a-key-role/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/04/covid-19-has-accelerated-digital-transformation---with-ai-playing-a-key-role/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3bdea7cf036822a957572d%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/04/covid-19-has-accelerated-digital-transformation---with-ai-playing-a-key-role/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/04/covid-19-has-accelerated-digital-transformation---with-ai-playing-a-key-role/amp/",
+      "publishedDateTime": "2020-11-04T04:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -963,7 +1100,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-key-vendors-trends-analysis-segmentation-forecast-to-2020-2026-2020-11-04",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1101,161 +1238,6 @@
       "topics": [
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-heres-how-ai-is-helping-cities-improve-traffic-management.md",
-      "title": "Here’s how AI is helping cities improve traffic management",
-      "excerpt": "This article was originally published by Federico Cheli on Cities Today, the leading news platform on urban mobility and innovation, reaching an international audience of city leaders. For the latest updates follow Cities Today on Twitter,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/shift/2020/11/04/heres-how-ai-is-helping-cities-improve-traffic-management-syndication/",
-      "originalUrl": "https://thenextweb.com/shift/2020/11/04/heres-how-ai-is-helping-cities-improve-traffic-management-syndication/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/image-13-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/shift/2020/11/04/heres-how-ai-is-helping-cities-improve-traffic-management-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/11/04/heres-how-ai-is-helping-cities-improve-traffic-management-syndication/amp/",
-      "publishedDateTime": "2020-11-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-adding-custom-data-sources-to-amazon-kendra.md",
-      "title": "Adding custom data sources to Amazon Kendra",
-      "excerpt": "Amazon Kendra is a highly accurate and easy-to-use intelligent search service powered by machine learning (ML). Amazon Kendra provides native connectors for popular data sources like Amazon Simple Storage Service (Amazon S3), SharePoint, ServiceNow, OneDrive, Salesforce, and Confluence so you can easily",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/adding-custom-data-sources-to-amazon-kendra/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/adding-custom-data-sources-to-amazon-kendra/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/29/Adding-custom-data-sources-to-Amazon-Kendra-4.jpg",
-          "width": 509,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-03T15:15:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-explaining-amazon-sagemaker-autopilot-models-with-shap.md",
-      "title": "Explaining Amazon SageMaker Autopilot models with SHAP",
-      "excerpt": "Machine learning (ML) models have long been considered black boxes because predictions from these models are hard to interpret. However, recently, several frameworks aiming at explaining ML models were proposed. Model interpretation can be divided into local and global explanations. A local explanation",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/explaining-amazon-sagemaker-autopilot-models-with-shap/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/explaining-amazon-sagemaker-autopilot-models-with-shap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/27/Graph.jpg",
-          "width": 900,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-03T14:57:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

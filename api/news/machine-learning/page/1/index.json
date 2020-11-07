@@ -62,7 +62,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/intelligently-connect-to-customers-using-machine-learning-in-the-covid-19-pandemic/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 175,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -290,6 +290,50 @@
       ]
     },
     {
+      "path": "_news/2020-11-04-global-predictive-analytics-market-2020-to-2025-advent-of-machine-learning-and-artificial-intelligence-is-driving-growth.md",
+      "title": "Global Predictive Analytics Market (2020 to 2025) - Advent of Machine Learning and Artificial Intelligence is Driving Growth",
+      "excerpt": "The \"Predictive Analytics Market by Solution (Financial Analytics, Risk Analytics, Marketing Analytics, Web & Social Media Analytics, Network Analytics), Service, Deployment Mode, Organization Size, Vertical,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/global-predictive-analytics-market-2020-to-2025-advent-of-machine-learning-and-artificial-intelligence-is-driving-growth-1029760006",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/global-predictive-analytics-market-2020-to-2025-advent-of-machine-learning-and-artificial-intelligence-is-driving-growth-1029760006",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/global-predictive-analytics-market-2020-to-2025-advent-of-machine-learning-and-artificial-intelligence-is-driving-growth-1029760006",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-predictive-analytics-market-2020-to-2025-advent-of-machine-learning-and-artificial-intelligence-is-driving-growth-1029760006",
+      "publishedDateTime": "2020-11-03T10:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-aws-launches-new-gpu-instances-for-machine-learning-and-hpc.md",
       "title": "AWS launches new GPU instances for machine learning and HPC",
       "excerpt": "Called P4, the new instances will run on Intel Cascade Lake processors and eight Nvidia A100 Tensor Core GPUs. Amazon Web Services (AWS), the retail giant’s cloud arm, just launched its latest GPU-equipped cloud instances.",
@@ -298,7 +342,7 @@
       "originalUrl": "https://www.itproportal.com/news/aws-launches-new-gpu-instances-for-machine-learning-and-hpc/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -1400,49 +1444,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-artificial-intelligence-dives-into-thousands-of-ww2-photographs.md",
-      "title": "Artificial intelligence dives into thousands of WW2 photographs",
-      "excerpt": "In a new international cross disciplinary study, researchers from Aarhus University, Denmark and Tampere University, Finland have used artificial intelligence to analyse large amounts of historical photos from WW2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-10/au-aid102820.php?fbclid=IwAR3MCWLzjCs9JHAEmDaF9DnqsTkKAtWogCIb8HDnnagM3yh-s6EM1Ddh4Y8",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-10/au-aid102820.php?fbclid=IwAR3MCWLzjCs9JHAEmDaF9DnqsTkKAtWogCIb8HDnnagM3yh-s6EM1Ddh4Y8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/247171_web.jpg",
-          "width": 1440,
-          "height": 976,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

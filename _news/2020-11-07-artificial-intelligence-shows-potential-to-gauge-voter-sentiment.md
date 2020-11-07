@@ -46,15 +46,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Artificial intelligence helps to identify correct atomic structures"
-    excerpt: "Bayesian inference enhanced structure search facilitates accurate detection of molecular adsorbate configurations."
-    publishedDateTime: 2020-11-02T14:28:00Z
-    webUrl: "https://www.nanowerk.com/nanotechnology-news2/newsid=56519.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 17
 
 secured: "jONhVXptBJ2aX4gVbBNVMcIkSgi4TZGiAx2wAfNYDxit3v1WS2ZxHL/hB4cuqN7js3bGoc9O1PcCDVDegu9F+MXnNNmbNj8vuctNJD7YV5Ko8DB+YNmkn5TRFBGOzM9mkcVOZrZwFS/8EiFhCpLYo3kdWdMBkPIkVkkpd4iXAbb4zxl7dsXd4Auth2O9rfwGqWnEdU9u2p2ggwcbnHEWug5PpwmEM11U2SlR/3UyavhwbKebrKZcmmJj5lYQftAnJHiIa7AeJvnhfDqsL6LIWl1chq8q2j/eEc9plBJqp1056bx0Lhjp+gl8U2PMsLqEzmbEXMnFCS0r/miQqedbDx4GFxyXtlKqRpPW2kw4/MqH4CkRKlXsfhLVyKbbzJVOibGDzED6qybLgFj9wUeThy0yoshUCCmIL9YjPgP4kWfBoljGVot+qB/UJo1tuGCKsEYYtJCCD/ObRAAPwOt5IAUgDi192eFdTjIQTSI41IpO9/pOTExdBiUxW2ABuxJn5qyPYZ5Ecjq0txcnQBMbmg==;Y7TEl4vpL7rkgyLrrCQStg=="
 ---

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.yankodesign.com/2020/11/06/microsofts-azure-cloud-platform-will-be-the-brain-for-their-future-autonomous-robots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -331,6 +331,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-04-covid-19-has-accelerated-digital-transformation-with-ai-playing-a-key-role.md",
+      "title": "Covid-19 Has Accelerated Digital Transformation — With AI Playing A Key Role",
+      "excerpt": "We're witnessing out-of-the-box thinking and once-in-a-lifetime risk-taking that's giving birth to fantastic innovations and great changes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/04/covid-19-has-accelerated-digital-transformation---with-ai-playing-a-key-role/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/04/covid-19-has-accelerated-digital-transformation---with-ai-playing-a-key-role/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3bdea7cf036822a957572d%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/04/covid-19-has-accelerated-digital-transformation---with-ai-playing-a-key-role/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/04/covid-19-has-accelerated-digital-transformation---with-ai-playing-a-key-role/amp/",
+      "publishedDateTime": "2020-11-04T04:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-artificial-intelligence-market-key-vendors-trends-analysis-segmentation-forecast-to-2020-2026.md",
       "title": "Artificial Intelligence Market: key Vendors, Trends, Analysis, Segmentation, Forecast to 2020-2026",
       "excerpt": "According to a new study published by Polaris Market Research the Global Artificial Intelligence Market is anticipated",
@@ -339,7 +391,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-key-vendors-trends-analysis-segmentation-forecast-to-2020-2026-2020-11-04",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1310,10 +1362,10 @@
     {
       "path": "_news/2020-10-28-5-best-robotics-and-artificial-intelligence-stocks-to-buy.md",
       "title": "5 Best Robotics and Artificial Intelligence Stocks To Buy",
-      "excerpt": "Below we listed the 5 best robotics and artificial intelligence stocks to buy according to hedge funds. For a detailed analysis and a more comprehensive list please see Top 10 Robotics and Artificial Intelligence Stocks To Buy. Unfortunately it is too late ...",
+      "excerpt": "Google AI is the company’s division that focuses exclusively on artificial intelligence and Waymo is probably the most advanced autonomous driving technology company in the world (though Chinese ...",
       "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/?singlepage=1",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/?singlepage=1",
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1332,7 +1384,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T21:25:00-07:00",
+      "publishedDateTime": "2020-10-27T22:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Insider Monkey",
@@ -1346,8 +1398,9 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1372,58 +1425,6 @@
         "name": "San Antonio Express-News",
         "domain": "expressnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-with-industrial-robots-easier-than-ever-to-program-how-do-our-attitudes-toward-automation-adapt.md",
-      "title": "With Industrial Robots Easier Than Ever To Program, How Do Our Attitudes Toward Automation Adapt?",
-      "excerpt": "Whether it's which tasks we can automate, the cost and time necessary for robot automation or how workers can contribute, the rise of easy-to-program robots forces us to rethink our assumptions and strategies for robotic automation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/27/with-industrial-robots-easier-than-ever-to-program-how-do-our-attitudes-toward-automation-adapt/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/27/with-industrial-robots-easier-than-ever-to-program-how-do-our-attitudes-toward-automation-adapt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1adfa7960582d2951cc914%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/27/with-industrial-robots-easier-than-ever-to-program-how-do-our-attitudes-toward-automation-adapt/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/27/with-industrial-robots-easier-than-ever-to-program-how-do-our-attitudes-toward-automation-adapt/amp/",
-      "publishedDateTime": "2020-10-27T18:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

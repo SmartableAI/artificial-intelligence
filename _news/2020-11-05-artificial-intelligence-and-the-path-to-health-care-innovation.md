@@ -55,20 +55,6 @@ related:
         width: 1356
         height: 668
         isCached: true
-  - title: "Over 80% of Health Execs Have Artificial Intelligence Plans in Place"
-    excerpt: "Healthcare executives are increasingly adopting artificial intelligence tools, with many planning to use the tools to improve patient outcomes."
-    publishedDateTime: 2020-11-02T14:32:00Z
-    webUrl: "https://healthitanalytics.com/news/over-80-of-health-execs-have-artificial-intelligence-plans-in-place"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-912319336.jpg"
-        width: 690
-        height: 400
-        isCached: true
 
 secured: "Nd7nolw9lUBdvyiwx4LJEUaTN0QH/3QCRMWMJK0mu08aP/UMCmaMMLYh7hRpSWW70nyMs9yRFLSpewe9a/iNt76/oU38rlaCCRDHPm406NjYlDtOlN7Clig9u0ELXbag7XpVO93hg7vCuQ4Y7iUgflyhw9S1rShFyp7MoCaUsMuPQhSgxS5zMSq6lPwjtpAlLg/Tchzhk6iINREAKO5x0kAkkwIGAa4X8hM3dHjmMkByq7Pzu4AjYH+riuYzB+IsZqR42xfonv/cy6I+24DQfLYKMMf9u/uvi6Lvg3Nc252AoIKgwSgWruo8utmYggpZ4xV9SO14EduBkby12Dx9oXD5/8+If4HuZi4TtCy8n7WuNYAuJQGS7Zi0l1BV46t3nfbJegdXyI0/vAgPOamKAyVRGtNb2qKcZdV7+Ct+QVN8PTs9ssC0ulW/kD9qZelqT1g1rGEdcsQBRX5tZ2+T9nqKsPZhXKE1y88jAOkfjuJBJNpRz01/0vdQ4YPSLVbscsBX/NUX0m+UyW1Z8ntdGw==;mJjIbUthE3Um1OLGTnXj3g=="
 ---

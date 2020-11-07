@@ -42,22 +42,6 @@ related:
         width: 1024
         height: 694
         isCached: true
-  - title: "Driverless Cars Go Humble to Get Real"
-    excerpt: "Recent developments point to promise for driverless car technology, if we stay realistic. This article is part of the On Tech newsletter. You can sign up here to receive it weekdays. The dream of computer-driven cars taking over the roads remains a fantasy."
-    publishedDateTime: 2020-11-02T14:42:00Z
-    webUrl: "https://www.nytimes.com/2020/10/26/technology/driverless-cars.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/26/technology/driverless-cars.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/26/technology/driverless-cars.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 89
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/26/business/26ontech/26ontech-facebookJumbo.png"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Pony.ai Funding Round Values Self-Driving Firm at $5.3 Billion"
     excerpt: "Pony.ai is raising $267 million in a fresh funding round that pushes the self-driving technology startup’s valuation to about $5.3 billion as it seeks to expand its customer base globally."
     publishedDateTime: 2020-11-06T07:00:00Z

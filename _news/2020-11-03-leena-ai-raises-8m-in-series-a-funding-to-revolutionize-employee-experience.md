@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Leena AI nabs $8M Series as it expands from chatbots to HR service platform"
-    excerpt: "When we covered Leena AI as a member of the Y Combinator Summer 2018 cohort, the young startup was firmly focused on building HR chatbots, but in the intervening years it has expanded the vision to a broader HR policy platform."
-    publishedDateTime: 2020-11-02T15:05:00Z
-    webUrl: "https://techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/"
-    ampWebUrl: "https://techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 85
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1215953761.jpg?w=1024"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "Leena AI nabs $8M Series A as it expands from chatbots to HR service platform"
     excerpt: "When we covered Leena AI as a member of the Y Combinator Summer 2018 cohort, the young startup was firmly focused on building HR chatbots, but in the intervening years it has expanded the vision to a broader HR policy platform."
     publishedDateTime: 2020-11-04T14:53:00Z
@@ -51,21 +35,28 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "Robots and chatbots can help alleviate the mental health epidemic"
-    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Dan Schawbel, Managing Partner, Workplace Intelligence"
-    publishedDateTime: 2020-11-04T17:04:00Z
-    webUrl: "https://europeansting.com/2020/11/04/robots-and-chatbots-can-help-alleviate-the-mental-health-epidemic/"
-    ampWebUrl: "https://europeansting.com/2020/11/04/robots-and-chatbots-can-help-alleviate-the-mental-health-epidemic/amp/"
-    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2020/11/04/robots-and-chatbots-can-help-alleviate-the-mental-health-epidemic/amp/"
+  - title: "Leena AI Raises $8 Mn In Series A Round Led By Greycroft"
+    excerpt: "The New York-headquartered company will use the fresh capital to expand its go-to-market programs and accelerate product development"
+    publishedDateTime: 2020-11-03T12:19:00Z
+    webUrl: "https://www.entrepreneur.com/article/358939"
     type: article
     provider:
-      name: europeansting.com
-      domain: europeansting.com
-    quality: 59
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 47
+  - title: "Greycroft leads Series A funding in HR-tech startup Leena AI"
+    excerpt: "Leena AI, a human resources technology startup, said Tuesday it has raised $8 million (about Rs 59.6 crore) in a Series A funding"
+    publishedDateTime: 2020-11-03T14:18:00Z
+    webUrl: "https://www.vccircle.com/greycroft-leads-series-a-funding-in-hr-tech-startup-leena-ai"
+    type: article
+    provider:
+      name: VCCircle
+      domain: vccircle.com
+    quality: 37
     images:
-      - url: "https://europeansting.files.wordpress.com/2020/11/robotics.jpeg"
-        width: 716
-        height: 1002
+      - url: "https://assets.vccircle.com/uploads/2018/12/invstlead.jpg"
+        width: 810
+        height: 506
         isCached: true
   - title: "HR-Tech Startup Leena AI Raises $8M In Series A Funding To Accelerate Hiring & Product Development"
     excerpt: "Leena AI, an AI-based employee experience platform, has announced an $8 million funding in Series A round led by Greycroft."

@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/health-it-leaders-bullish-on-ai-im
 webUrl: "https://www.businessinsider.com/health-it-leaders-bullish-on-ai-implementation-2020-11"
 type: article
 quality: 64
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/whatthepubli.jpg"
         width: 1356
         height: 668
-        isCached: true
-  - title: "Over 80% of Health Execs Have Artificial Intelligence Plans in Place"
-    excerpt: "Healthcare executives are increasingly adopting artificial intelligence tools, with many planning to use the tools to improve patient outcomes."
-    publishedDateTime: 2020-11-02T14:32:00Z
-    webUrl: "https://healthitanalytics.com/news/over-80-of-health-execs-have-artificial-intelligence-plans-in-place"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-912319336.jpg"
-        width: 690
-        height: 400
         isCached: true
   - title: "Artificial Intelligence and the Path to Health Care Innovation"
     excerpt: "The American Hospital Association and Microsoft now offer a free, one-hour course, for continuing education credits, to guide health care teams through key considerations and specific actions for AI’s responsible and strategic implementation."

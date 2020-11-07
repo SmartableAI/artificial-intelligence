@@ -10,7 +10,7 @@
       "originalUrl": "https://www.yankodesign.com/2020/11/06/microsofts-azure-cloud-platform-will-be-the-brain-for-their-future-autonomous-robots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -397,7 +397,7 @@
       "originalUrl": "https://www.businessinsider.com/health-it-leaders-bullish-on-ai-implementation-2020-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -683,7 +683,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/359159",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -734,7 +734,7 @@
       "originalUrl": "https://www.cnbc.com/2020/11/06/china-driverless-car-firm-ponyai-valued-at-5point3-billion-after-funding.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 178,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -786,7 +786,7 @@
       "originalUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-adds-hindi-support-to-its-text-analytics-service/article33037173.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -882,7 +882,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/intelligently-connect-to-customers-using-machine-learning-in-the-covid-19-pandemic/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 175,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -979,6 +979,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-06-what-ai-can-learn-from-parents.md",
+      "title": "What AI Can Learn From Parents",
+      "excerpt": "Like raising children, training an artificial intelligence means balancing obedience and independence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/what-ai-can-learn-from-parents-11604586334?mod=science_list_pos2",
+      "originalUrl": "https://www.wsj.com/articles/what-ai-can-learn-from-parents-11604586334?mod=science_list_pos2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-255053/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/what-ai-can-learn-from-parents-11604586334",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/what-ai-can-learn-from-parents-11604586334",
+      "publishedDateTime": "2020-11-05T11:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-announcing-the-aws-deepcomposer-chartbusters-challenge-keep-calm-and-model-on.md",
       "title": "Announcing the AWS DeepComposer Chartbusters challenge, Keep Calm and Model On",
       "excerpt": "We are back with another AWS DeepComposer Chartbusters challenge, Keep Calm and Model On! This challenge is open for submissions throughout AWS re:Invent until January 31, 2021. In this challenge, you can experiment with our newly launched Transformers algorithm and generate an original piece of music.",
@@ -1039,7 +1091,7 @@
       "originalUrl": "https://www.fool.com/investing/2020/11/05/why-i-just-purchased-shares-of-ai-cloud-dynatrace/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1090,7 +1142,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/05/when-a-tree-falls-on-top-of-a-self-driving-car/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1184,40 +1236,6 @@
         "Google AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-intel-intc-spruces-up-ai-capabilities-to-challenge-amd-nvda.md",
-      "title": "Intel (INTC) Spruces Up AI Capabilities to Challenge AMD & NVDA",
-      "excerpt": "Intel INTC has reportedly acquired Cnvrg.io — an Israel-based company that specializes in development of advanced machine learning (ML) models. The TechCrunch article, citing confirmation from an Intel’s spokesperson,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/intel-intc-spruces-up-ai-capabilities-to-challenge-amd-nvda-2020-11-05",
-      "originalUrl": "https://www.nasdaq.com/articles/intel-intc-spruces-up-ai-capabilities-to-challenge-amd-nvda-2020-11-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/intel-intc-spruces-up-ai-capabilities-to-challenge-amd-nvda-2020-11-05?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/intel-intc-spruces-up-ai-capabilities-to-challenge-amd-nvda-2020-11-05?amp",
-      "publishedDateTime": "2020-11-05T07:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

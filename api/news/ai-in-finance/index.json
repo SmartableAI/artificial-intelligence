@@ -194,6 +194,50 @@
       ]
     },
     {
+      "path": "_news/2020-11-04-global-predictive-analytics-market-2020-to-2025-advent-of-machine-learning-and-artificial-intelligence-is-driving-growth.md",
+      "title": "Global Predictive Analytics Market (2020 to 2025) - Advent of Machine Learning and Artificial Intelligence is Driving Growth",
+      "excerpt": "The \"Predictive Analytics Market by Solution (Financial Analytics, Risk Analytics, Marketing Analytics, Web & Social Media Analytics, Network Analytics), Service, Deployment Mode, Organization Size, Vertical,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/global-predictive-analytics-market-2020-to-2025-advent-of-machine-learning-and-artificial-intelligence-is-driving-growth-1029760006",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/global-predictive-analytics-market-2020-to-2025-advent-of-machine-learning-and-artificial-intelligence-is-driving-growth-1029760006",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/global-predictive-analytics-market-2020-to-2025-advent-of-machine-learning-and-artificial-intelligence-is-driving-growth-1029760006",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-predictive-analytics-market-2020-to-2025-advent-of-machine-learning-and-artificial-intelligence-is-driving-growth-1029760006",
+      "publishedDateTime": "2020-11-03T10:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-an-automated-trading-firm-turns-its-machine-learning-expertise-to-venture-capital-investing.md",
       "title": "An automated trading firm turns its machine learning expertise to venture capital investing",
       "excerpt": "XTX executives say their trading edge is in machine learning—algorithms that automatically learn and improve from data without being re-programmed. XTX is heavy on computing, but light on ...",
@@ -828,6 +872,42 @@
       ]
     },
     {
+      "path": "_news/2020-10-20-robotics-machine-learning-daily-news-service-researchandmarketscom.md",
+      "title": "Robotics & Machine Learning Daily News Service – ResearchAndMarkets.com",
+      "excerpt": "The \"Robotics & Machine Learning Daily News\" newsletter has been added to ResearchAndMarkets.com's offering. Robotics",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/robotics-machine-learning-daily-news-service-researchandmarkets-com/",
+      "originalUrl": "https://www.financialbuzz.com/robotics-machine-learning-daily-news-service-researchandmarkets-com/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-20T02:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-lantronix-brings-advanced-ai-and-machine-learning-to-smart-cameras-with-new-open-q-610-som.md",
       "title": "Lantronix Brings Advanced AI and Machine Learning to Smart Cameras With New Open-Q 610 µSOM ...",
       "excerpt": "The new Lantronix ultra-compact (50mm x 25mm), production-ready Open-Q 610 μSOM is based on the powerful Qualcomm QCS610 SOC, the latest in the Qualcomm® Vision Intelligence Platform lineup targeting smart cameras with edge computing.",
@@ -1242,94 +1322,6 @@
       "provider": {
         "name": "Finextra",
         "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-bespoken-spirits-raises-26m-in-seed-funding-to-combine-machine-learning-and-accelerated-whiskey-aging.md",
-      "title": "Bespoken Spirits raises $2.6M in seed funding to combine machine learning and accelerated whiskey aging",
-      "excerpt": "Bespoken Spirits, a Silicon Valley spirits company that has developed a new data-driven process to accelerate the aging of whiskey and create specific flavors, today announced that it has raised a $2.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/07/bespoken-spirits-raises-2-6m-in-seed-funding-to-combine-machine-learning-and-accelerated-whiskey-aging/",
-      "originalUrl": "https://techcrunch.com/2020/10/07/bespoken-spirits-raises-2-6m-in-seed-funding-to-combine-machine-learning-and-accelerated-whiskey-aging/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/Bespoken-Product-Shot-3.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/07/bespoken-spirits-raises-2-6m-in-seed-funding-to-combine-machine-learning-and-accelerated-whiskey-aging/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/07/bespoken-spirits-raises-2-6m-in-seed-funding-to-combine-machine-learning-and-accelerated-whiskey-aging/amp/",
-      "publishedDateTime": "2020-10-07T06:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-a-new-idc-marketscape-assesses-eleven-providers-of-advanced-machine-learning-platforms.md",
-      "title": "A New IDC MarketScape Assesses Eleven Providers of Advanced Machine Learning Platforms",
-      "excerpt": "International Data Corporation (IDC) today published a new assessment of eleven companies offering the tools and frameworks for developing advanced machine learning (ML)",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/10/b17817028/a-new-idc-marketscape-assesses-eleven-providers-of-advanced-machine-learning-platforms",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/b17817028/a-new-idc-marketscape-assesses-eleven-providers-of-advanced-machine-learning-platforms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17817028",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17817028",
-      "publishedDateTime": "2020-10-07T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

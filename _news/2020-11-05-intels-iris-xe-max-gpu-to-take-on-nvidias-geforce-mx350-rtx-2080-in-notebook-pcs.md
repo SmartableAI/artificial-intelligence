@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcworld.com/article/3587732/intels-iris-xe-max-gpu-to-ta
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3587732/intels-iris-xe-max-gpu-to-take-on-nvidias-geforce-mx350-rtx-2080-in-notebook-pcs.amp.html"
 type: article
 quality: 83
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/11/DG1-chip-4-760x380.png"
         width: 760
         height: 380
-        isCached: true
-  - title: "Intel Iris Xe Max discrete GPU for slim laptops announced with AI and encoding performance boost"
-    excerpt: "Intel Iris Xe Max discrete GPU for slim laptops announced.Intel has claimed top provide enhanced AI and encoding boost in performance as well."
-    publishedDateTime: 2020-11-02T13:55:00Z
-    webUrl: "https://www.theindianwire.com/tech/intel-iris-xe-max-discrete-gpu-for-slim-laptops-announced-with-ai-and-encoding-performance-boost-297244/"
-    ampWebUrl: "https://www.theindianwire.com/tech/intel-iris-xe-max-discrete-gpu-for-slim-laptops-announced-with-ai-and-encoding-performance-boost-297244/?amp"
-    cdnAmpWebUrl: "https://www-theindianwire-com.cdn.ampproject.org/c/s/www.theindianwire.com/tech/intel-iris-xe-max-discrete-gpu-for-slim-laptops-announced-with-ai-and-encoding-performance-boost-297244/?amp"
-    type: article
-    provider:
-      name: The Indian Wire
-      domain: theindianwire.com
-    quality: 61
-    images:
-      - url: "https://www.theindianwire.com/wp-content/uploads/2020/11/intel-iris-xe-max-chip.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Intel Iris XE Max Discrete GPU Rolls Out to Acer, Asus, Dell Thin and Light Laptops"
     excerpt: "Intel recently launched its Iris XE Max dedicated GPU for specific models of Acer, Asus, and Dell portable and light laptops."

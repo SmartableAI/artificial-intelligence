@@ -99,6 +99,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Food and Beverage Market Industry Analysis, Share, Growth, Trends, Top Key Players and Regional Forecast 2020-2026"
+    excerpt: "Selbyville, Delaware Market Study Report LLC: An analysis of Artificial Intelligence (AI) in Food and Beverage market has been provided in the latest report added at Market Study Report LLC that primarily focuses on the market trends,"
+    publishedDateTime: 2020-11-05T15:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-and-beverage-market-industry-analysis-share-growth-trends-top-key-players-and-regional-forecast-2020-2026-2020-11-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence Application Market 2020 Trending Technologies, Developments, Key Players and End-use Industry to 2025"
     excerpt: "Global Artificial Intelligence Application Market 2020 by Company, Regions, Type and Application, Forecast to 2025 announced by MarketsandResearch.biz provides an expert and in-depth analysis of key business trends and future market development prospects,"
     publishedDateTime: 2020-11-04T05:39:00Z

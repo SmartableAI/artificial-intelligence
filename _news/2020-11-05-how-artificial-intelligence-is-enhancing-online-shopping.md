@@ -36,6 +36,22 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "This Is How Conversational AI Is Helping Businesses"
+    excerpt: "Conversational AI enables AI technologies such as chatbots to interact with users in a human-like manner. By linking the rift between human and computer speech, it creates communication between the tw"
+    publishedDateTime: 2020-11-07T06:52:00Z
+    webUrl: "https://www.entrepreneur.com/video/359220"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/359220"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359220"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 87
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1604731892-MyPost54.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Using Artificial Intelligence Improves Pregnant Women's Health"
     excerpt: "Artificial intelligence technology can help to diagnose congenital disabilities, gestational diabetes, and preterm birth earlier in pregnant women, reports a new study."
     publishedDateTime: 2020-11-05T05:21:00Z

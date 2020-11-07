@@ -1,25 +1,29 @@
 ---
 category: news
 title: "Logiq Completes Acquisition of Fixel AI, Leader in AI-Powered Digital Marketing Technology"
-excerpt: "NEW YORK, Nov. (GLOBE NEWSWIRE) -- Logiq, Inc. (OTCQX:LGIQ), a global provider of award-winning eCommerce and Fintech solutions, has completed its previously"
-publishedDateTime: 2020-11-05T12:31:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/11/g18226445/logiq-completes-acquisition-of-fixel-ai-leader-in-ai-powered-digital-marketing-technology"
-webUrl: "https://www.benzinga.com/pressreleases/20/11/g18226445/logiq-completes-acquisition-of-fixel-ai-leader-in-ai-powered-digital-marketing-technology"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18226445"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18226445"
+excerpt: "(OTCQX: LGIQ), a global provider of award-winning eCommerce and Fintech solutions, has completed its previously announced plan to acquire F ixel AI, an award-winning innovator of AI-powered digital marketing technology."
+publishedDateTime: 2020-11-05T13:31:00Z
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-apple-inc-virus-outbreak-technology-issues-875f0d1977c96e4ac08fab587cf0c33d"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-apple-inc-virus-outbreak-technology-issues-875f0d1977c96e4ac08fab587cf0c33d"
 type: article
 quality: 46
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
   - AI in Marketing
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "upGrad sees demand in digital marketing, artificial intelligence, machine learning courses"
@@ -39,6 +43,6 @@ related:
         height: 256
         isCached: true
 
-secured: "E38KCC/U9dDlpUcgie/AfDODTPfiXVR6jIVEFZdboS+a8w59ljrNGSQ+OuDgYUcfPO99+yPW02hey3Vf8zk+7PfysXN8j7+ABi+xcaj/uaczX9szkghd6C2qPm0pBuweLcp/IRW3NIyTQT/gu1EtmnPiDBblXBQ12qmjK+zYKBsTXOaLE8ZXDRpVz57dk/3xDD2qqJ7z+bHsfUoKDHR3Au+EPqH563Lc7YaiLeZppf2Qd9bNDIRJeKjo4djIYzSPCx1m1/m5hTML5HXjOBIKfZkQ7VrAbmumXIaJJ67kvZgMmG7aXm7aCPRjrUh3Dh63kAclT4xf2ZmGwmniP3j0I1iRntDXiXxTVxb+1soip/o=;zHjZqd0JHa+aWGtvA8ZkyQ=="
+secured: "rgSSAvQWAvB+FBan8cwnJWq+dt12aLbxFB03tRaUCTp/vF8z1GwEhjXytF0osE6wbyiTVbErYZvj5qGjsGIkx80xef1V6zxjuvNO5cm90CjDKJztCdpgufUxyee51XR7U+4h9QXHCVEUHF30XWmTUAbftZxNXLkysV1O19jElviHKzYkkwWie30tUb/X+vMGy6kNrRlRo+h2qE6uYKnv+fMx++aHexbvhqLUsAzN3y0YqwbgWluJ4+0oAnFt6RK3KQJoa96yR4rE1tRwimTxj9R0ZT9Mvb2tn/j8A0wdclWjVe8y8TEoKgeVrIqFXaqHMD2y3p0vanpzUS0ePSnP5ra1i8h24gcjo2W2+YtFuBE=;35OyeskIIQSqSZPurzcRSg=="
 ---
 

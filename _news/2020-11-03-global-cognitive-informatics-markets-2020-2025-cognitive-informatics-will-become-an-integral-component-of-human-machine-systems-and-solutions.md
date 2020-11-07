@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/global-cognitive-inform
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-cognitive-informatics-markets-2020-2025-cognitive-informatics-will-become-an-integral-component-of-human-machine-systems-and-solutions-1029753075"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,30 @@ topics:
   - AI
 
 related:
-  - title: "Global Artificial Intelligence in Information and Communications Technology Markets, 2020-2025: Focus on Communications, Applications, Content, and Commerce ..."
-    excerpt: "The \"Artificial Intelligence in Information and Communications Technology: AI and Cognitive Computing in Communications, Applications, Content, and Commerce 2020 - 2025\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2020-11-03T09:19:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201103005275/en/"
+  - title: "Global Predictive Analytics Market (2020 to 2025) - Advent of Machine Learning and Artificial Intelligence is Driving Growth"
+    excerpt: "The \"Predictive Analytics Market by Solution (Financial Analytics, Risk Analytics, Marketing Analytics, Web & Social Media Analytics, Network Analytics), Service, Deployment Mode, Organization Size, Vertical,"
+    publishedDateTime: 2020-11-03T18:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-predictive-analytics-market-2020-to-2025-advent-of-machine-learning-and-artificial-intelligence-is-driving-growth-1029760006"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/global-predictive-analytics-market-2020-to-2025-advent-of-machine-learning-and-artificial-intelligence-is-driving-growth-1029760006"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-predictive-analytics-market-2020-to-2025-advent-of-machine-learning-and-artificial-intelligence-is-driving-growth-1029760006"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
+  - title: "Advantech and ClearBlade Partner to Deliver Smart Monitoring Solution with Edge AI Intelligent Video Analytics"
+    excerpt: "ClearBlade, an industry-leading Industrial Internet of Things (IoT) Platform and Edge Computing software company, and Advantech, a global leader in Industrial IoT hardware solutions, today announced a partnership to provide a monitoring solution software and hardware bundle that utilizes intelligent video analytics."
+    publishedDateTime: 2020-11-03T04:05:00Z
+    webUrl: "https://www.automationworld.com/supplier-news/news/21201090/advantech-advantech-and-clearblade-partner-to-deliver-smart-monitoring-solution-with-edge-ai-intelligent-video-analytics"
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
+    quality: 19
     images:
-      - url: "https://mms.businesswire.com/media/20201103005275/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
+      - url: "https://img.automationworld.com/files/base/pmmi/all/image/2020/11/Advantech_CB_PR.5fa047f31b8fa.png?auto=format&fit=max&w=1200"
+        width: 880
+        height: 440
         isCached: true
 
 secured: "+323ovHnqNkt3L06ElUCJCdkjSE/qvOXPwFWN9xsngYicmRDWU8z9oA1tQle1+BnYZPiW7q+VeVRFtkeZZ/sFFtYI6aBPU9Qo/lgALPv66hW7UbYmrP/eYbadnznPrfayu1UXXTZmjbp9edYs3JjzqpZpPfo7MBYZRdYMfmilEbK8Iy5Poa0uKHCx68XojPFlkaxBorb432k+X78k142M+RTkLMZcA57q5aqxYKEFYIaty7zH3cg+JNduZnqO5pUj2munHM00ktDkpXIBTtKF/ir6+rTdeiMlrKDIF92d1OSci7mzZ+nWyGnFUYnh4eupv5CzSnOQObcxrQCYk6ZftFuNPaTeKUq0dNdgcxNfNo=;pvbowx5CeNm+EJM8P/2rgg=="

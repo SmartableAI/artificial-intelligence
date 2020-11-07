@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tweaktown.com/news/31271/microsoft-are-the-ones-behind-t
 cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/31271/microsoft-are-the-ones-behind-the-gigantic-data-center-in-iowa-have-spent-700-million-so-far/amp.html"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 380
     height: 271
     isCached: true
+
+related:
+  - title: "Cloud Computing in a Shipping Container: Microsoft Introduces the Azure Modular Datacenter"
+    excerpt: "Microsoft recently announced a new Azure in a shipping container service called Azure Modular Datacenter. The new offer provides an option for setting up an Azure datacenter in hybrid or challenging environments where cloud computing previously would not have been possible."
+    publishedDateTime: 2020-11-05T12:10:00Z
+    webUrl: "https://www.infoq.com/news/2020/11/azure-modular-datacenter/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 59
+    images:
+      - url: "https://res.infoq.com/news/2020/11/azure-modular-datacenter/en/headerimage/croppted-kristin-hillery-YId0l2vqc6E-unsplash-1603728187946.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "gZ843p6fRvIYr2y0imIU5ydQrLXmQEngizm5eezQex/g4ootVALtIHrMIRSnQovRyi9/Gs8PAAp/4EaT39qj2vmv5bHv7QQLWa+oQjVYlYI4q01eXjBRvFE1hHggPtgH24SOhpZeF/i18MHv7UCReqpcVDZQj8XuNTcZ0WsY6r1Ke7cp6x+rbJA5vt8xvxtgzQ6oL87v7qOYMDqYapr1kj8R9Vqb5ljdSccQ9j+uJ8ttGdxEqj6ShIGhM0kqLMIFzNy1JUsUb/9VfWXX821JZT8WUJpowipG5pkT6rDiucdubE0KHa/csjA+YcZfnK5UiVs5/a0hwWS7XTafhCYWMe0qY0dEOBzd7su6cPRznFU=;dwrG8mHpvDYDxhVVefAsNQ=="
 ---

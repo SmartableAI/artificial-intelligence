@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "BEHIND THE WHEEL: Where are our self-driving cars?"
+    excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time,"
+    publishedDateTime: 2020-11-07T04:30:00Z
+    webUrl: "https://www.pottsmerc.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_b2d0fac8-1fa2-11eb-bd1a-839f89469b3a.html"
+    ampWebUrl: "https://www.pottsmerc.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_b2d0fac8-1fa2-11eb-bd1a-839f89469b3a.amp.html"
+    cdnAmpWebUrl: "https://www-pottsmerc-com.cdn.ampproject.org/c/s/www.pottsmerc.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_b2d0fac8-1fa2-11eb-bd1a-839f89469b3a.amp.html"
+    type: article
+    provider:
+      name: The Mercury
+      domain: pottsmerc.com
+    quality: 44
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/pottsmerc.com/content/tncms/assets/v3/editorial/4/cb/4cb5c470-1fa3-11eb-9a18-27ec9e939d6d/5fa45d30d6deb.image.jpg?resize=1024%2C630"
+        width: 1024
+        height: 630
+        isCached: true
   - title: "AI That Mistook Referee For A Ball & The Self Driving Car That Hit The Wall: A Week Of AI Botch-Ups"
     excerpt: "The live stream of the event captures Acronis’ vehicle driving straight into a wall surprising its engineers and leaving the viewers in splits. The botched up was addressed by one of the engineers in a Reddit post ."
     publishedDateTime: 2020-11-03T12:03:00Z

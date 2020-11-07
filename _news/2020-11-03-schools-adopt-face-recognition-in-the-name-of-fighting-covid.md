@@ -53,6 +53,31 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "AI can detect COVID-19 from the sound of your cough"
+    excerpt: "The AI model correctly identified 98.5% of people with COVID-19 ... Similar projects are underway in Cambridge University, Carnegie Mellon University and the U.K. start-up Novoic, according to BBC. \"Pandemics could be a thing of the past if pre-screening ..."
+    publishedDateTime: 2020-11-03T22:02:00Z
+    webUrl: "https://www.livescience.com/asymptomatic-coronavirus-detection-ai.html"
+    ampWebUrl: "https://www.livescience.com/amp/asymptomatic-coronavirus-detection-ai.html"
+    cdnAmpWebUrl: "https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/asymptomatic-coronavirus-detection-ai.html"
+    type: article
+    provider:
+      name: Live Science
+      domain: livescience.com
+    quality: 57
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/XhqqcavxbCtM3FgYZJSfdd-1200-80.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Machine learning helps hunt for COVID-19 therapies"
+    excerpt: "Scientists have deployed a machine learning model to help drug developers on their most promising leads for attacking one of the SARS-CoV-2 virus' most compelling targets."
+    publishedDateTime: 2020-11-03T14:22:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/10/201028124526.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Amazon Web Services Introduces Open-Source Machine Learning Toolkit To Predict The Spread Of COVID-19"
     excerpt: "Amazon Web Services open-sources a new simulator and a series of machine learning tools that allow researchers and data scientists to study and predict the spread of the COVID-19 pandemic infections."
     publishedDateTime: 2020-11-02T15:27:00Z
@@ -136,6 +161,15 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "AI For COVID 19: MIT Model Effectively Detect Corona By Hearing Cough"
+    excerpt: "Asymptomatic patients remain a major concern for the COVID-19 spread. But, this AI model by MIT researchers may help in early detection by hearing coughs."
+    publishedDateTime: 2020-11-03T10:00:00Z
+    webUrl: "https://www.techthirsty.com/ai-for-covid-19-mit-model-effectively-detect-corona-by-hearing-cough/"
+    type: article
+    provider:
+      name: Tech Thirsty
+      domain: techthirsty.com
+    quality: 19
   - title: "How the Pandemic Is Testing Personalized Learning"
     excerpt: "Karis and Jaron, who are attending school remotely full-time, are participating in personalized learning programs. The mix of instructional models that schools are using during the pandemic is dizzying: Full-time remote,"
     publishedDateTime: 2020-11-04T06:57:00Z

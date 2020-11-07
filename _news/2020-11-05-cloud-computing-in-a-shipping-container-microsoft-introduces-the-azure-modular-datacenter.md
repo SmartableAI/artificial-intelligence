@@ -7,7 +7,7 @@ originalUrl: "https://www.infoq.com/news/2020/11/azure-modular-datacenter/"
 webUrl: "https://www.infoq.com/news/2020/11/azure-modular-datacenter/"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -25,81 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft to Expand Azure Kinect’s Computer Vision Tech to Commercial Market"
-    excerpt: "The technology behind Microsoft’s enterprise-focused computer vision camera, the Azure Kinect developer kit, will soon find its way into commercial products. Microsoft is collaborating with two companies,"
-    publishedDateTime: 2020-11-02T13:26:00Z
-    webUrl: "https://www.roadtovr.com/microsoft-azure-kinect-commercial/"
-    ampWebUrl: "https://www.roadtovr.com/microsoft-azure-kinect-commercial/amp/"
-    cdnAmpWebUrl: "https://www-roadtovr-com.cdn.ampproject.org/c/s/www.roadtovr.com/microsoft-azure-kinect-commercial/amp/"
+  - title: "Microsoft are the ones behind the gigantic data center in Iowa, have spent $700 million so far"
+    excerpt: "The $700 million \"Project Mountain\" data center project in Des Moines, Iowa, has an official owner: Microsoft. Late last week, the Iowa Economic Development Authority Board approved $20 million ..."
+    publishedDateTime: 2020-11-03T18:22:00Z
+    webUrl: "https://www.tweaktown.com/news/31271/microsoft-are-the-ones-behind-the-gigantic-data-center-in-iowa-have-spent-700-million-so-far/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/31271/microsoft-are-the-ones-behind-the-gigantic-data-center-in-iowa-have-spent-700-million-so-far/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/31271/microsoft-are-the-ones-behind-the-gigantic-data-center-in-iowa-have-spent-700-million-so-far/amp.html"
     type: article
     provider:
-      name: Road to VR
-      domain: roadtovr.com
-    quality: 88
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 49
     images:
-      - url: "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2020/11/azure-kinect.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Microsoft & Others Catalog Threats to Machine Learning Systems"
-    excerpt: "Thirteen organizations worked together to create a dictionary of techniques used to attack ML models and warn that such malicious efforts will become more common."
-    publishedDateTime: 2020-11-03T00:32:00Z
-    webUrl: "https://www.darkreading.com/vulnerabilities---threats/advanced-threats/microsoft-and-others-catalog-threats-to-machine-learning-systems/d/d-id/1339354"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 56
-    images:
-      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
-        width: 600
-        height: 600
-        isCached: true
-  - title: "Artificial Intelligence Market 2020 New Technology Research – Google, IBM, Baidu, Microsoft, Apple Inc., Ipsoft, NVIDIA corporation"
-    excerpt: "Artificial Intelligence Global Market Report 2020-30: Covid 19 Growth and Change The artificial intelligence market consists of sales of the artificial intelligence software and related services. Artificial Intelligence (AI) some times referred to as machine intelligence."
-    publishedDateTime: 2020-11-03T11:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-new-technology-research-google-ibm-baidu-microsoft-apple-inc-ipsoft-nvidia-corporation-2020-11-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-  - title: "QuEST Global launches Center of Excellence for Microsoft Azure to develop innovative solutions for customers"
-    excerpt: "QuEST Global, a global product engineering and lifecycle services company, today announced it has signed an agreement with Microsoft to launch a dedicated Center for Excellence (CoE) for Microsoft Azure."
-    publishedDateTime: 2020-11-03T12:00:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-pune-products-and-services-f8ffb465162d071f3e77db0782e3abf3"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 35
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Self-driving car start-up Wayve deploys Microsoft Azure cloud technology"
-    excerpt: "Cambridge, UK-based Wayve, developer of AI software for self-driving cars, has signed a contract with Microsoft for use of the Azure cloud"
-    publishedDateTime: 2020-11-05T13:07:00Z
-    webUrl: "https://www.telecompaper.com/news/self-driving-car-start-up-wayve-deploys-microsoft-azure-cloud-technology--1360668"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 33
-  - title: "Government leaders share their vision on the next frontier of tech innovation in governance, at the Microsoft Digital Governance Cloud & AI Summit"
-    excerpt: "Cloud and AI are playing a central role in reshaping education ... agriculture, education, logistics, language translation and more. “ Dr. Rajendra Kumar, Additional Secretary, Ministry of Electronics and Information Technology (MeitY), Govt."
-    publishedDateTime: 2020-11-06T10:56:00Z
-    webUrl: "https://news.microsoft.com/en-in/government-leaders-share-their-vision-on-the-next-frontier-of-tech-innovation-in-governance-at-the-microsoft-digital-governance-cloud-ai-summit/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 18
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2020/11/digital-governance-cloud-and-ai-summit-768x430.jpg"
-        width: 768
-        height: 430
+      - url: "https://static.tweaktown.com/news/3/1/31271_09_microsoft_are_the_ones_behind_the_gigantic_data_center_in_iowa_have_spent_700_million_so_far.jpg"
+        width: 380
+        height: 271
         isCached: true
 
 secured: "z7InjAT63Bh6BOIyaizfJWb1glixefkUoqNgT2kWfqfTzmADJxLzY0nTZxfAFBf7UiCh7vS/L+O6ukS79qUosEbtk1hb0Jo4HZPlEZnIKCgWC+ed7rcw79ApWQiYFXUHTdTKBMoWW9XYHIdPMyEh1v+EMmQ1OyvPE7nbC5L5DLWDjTzTHoICBG4Zu1qAEHAUkd57NIPtVBmTlVZkrG0KUHQkLrBjmmwRVKprvDnGAV00MANdVKYkmDDNGzKkJgy48EvrJFzaJ4ZwxOgqBIRp2v84UjDmrjAB0vGz3Dvz4lv/laSOTVJS0TiyYNWYbqSbvoGGle7JxrdkmWqhOtHaMzHnarBGkhTOvaN4moFWjqsdJ3HCIc6C42E+ZqKmc2xGOc3CBr8RvZYmvlBJLt/T46iytPcnuVyyw3bhEbDDkeFcVKHZk5Kmdbt+mVEK1GlKX8PynrUyuB9lEBWteBW6wqeCTZEbqqfD8UZXNMib/xZvC6qlW2NXbCvFlJnPx8SqAwzyVFF8HaATBFSJMJF2KA==;NFOAGDA/9zTQmkgj21OeTg=="

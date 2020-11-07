@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/11/05/why-i-just-purchased-s
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/05/why-i-just-purchased-shares-of-ai-cloud-dynatrace/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "With new cloud offering, AIOps startup Moogsoft moves into IT observability"
-    excerpt: "Moogsoft Inc. said today it’s expanding into artificial intelligence-based observability with the launch of its new Moogsoft Observability Cloud. The new offering enables DevOps teams, those in which software developers and information technology staff work together to create applications faster,"
-    publishedDateTime: 2020-11-02T14:48:00Z
-    webUrl: "https://siliconangle.com/2020/11/02/with-new-cloud-offering-aiops-startup-moogsoft-moves-observability/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 35
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/image_2020-11-02_070806.png"
-        width: 1245
-        height: 732
-        isCached: true
   - title: "Live Q&A: How observability, automation and AI have become essential to digital business success"
     excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
     publishedDateTime: 2020-11-06T21:17:00Z

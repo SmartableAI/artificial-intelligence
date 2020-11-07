@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-08-get-started-with-speech-recognition.md",
+      "title": "Get Started With Speech Recognition",
+      "excerpt": "Speech recognition makes it easier for us to be lazy with our devices – or perhaps set up the coolest voice-controlled project around. After the voice controlled home automation post ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2010/07/09/get-started-with-speech-recognition/",
+      "originalUrl": "https://hackaday.com/2010/07/09/get-started-with-speech-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2010/07/capture7.jpg",
+          "width": 356,
+          "height": 244,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-07T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-universal-electronics-inc-to-provide-voice-enabled-remotes-for-liberty-globals-new-environmentally-friendly-set-top-box.md",
       "title": "Universal Electronics Inc. to Provide Voice-Enabled Remotes for Liberty Global’s New Environmentally Friendly Set-Top Box",
       "excerpt": "Universal Electronics Inc. to Provide Voice-Enabled Remotes for Liberty Global’s New Environmentally Friendly Set-Top Box (Photo: Business Wire) The BLE voice-enabled remote control is powered by UEI chip technology,",
@@ -1346,51 +1389,7 @@
         "Natural Language Processing",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2020-09-25-transforming-enterprises-through-robot-processing-automation.md",
-      "title": "Transforming Enterprises Through Robot Processing Automation",
-      "excerpt": "Robot Processing Automation (RPA) is the process of automating tasks which are repetitive and are performed by humans using software and hardware in a variety of applications. Unlike cognitive intelligence or deep learning,",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/transforming-enterprises-through-robot-processing-automation/",
-      "originalUrl": "https://www.analyticsinsight.net/transforming-enterprises-through-robot-processing-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2020/09/RPA.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-24T11:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 4
 }

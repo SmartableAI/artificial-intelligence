@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wsj.com/amp/articles/electric-car-batteries-get-a-boost-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/electric-car-batteries-get-a-boost-from-artificial-intelligence-11604422792"
 type: article
 quality: 87
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wall Street Journal
@@ -33,14 +33,14 @@ related:
   - title: "What AI Can Learn From Parents"
     excerpt: "Like raising children, training an artificial intelligence means balancing obedience and independence."
     publishedDateTime: 2020-11-05T19:25:00Z
-    webUrl: "https://www.wsj.com/articles/what-ai-can-learn-from-parents-11604586334"
+    webUrl: "https://www.wsj.com/articles/what-ai-can-learn-from-parents-11604586334?mod=science_list_pos2"
     ampWebUrl: "https://www.wsj.com/amp/articles/what-ai-can-learn-from-parents-11604586334"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/what-ai-can-learn-from-parents-11604586334"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://images.wsj.net/im-255053/social"
         width: 1280

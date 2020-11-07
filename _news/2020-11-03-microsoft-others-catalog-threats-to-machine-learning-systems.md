@@ -26,82 +26,88 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft to Expand Azure Kinect’s Computer Vision Tech to Commercial Market"
-    excerpt: "The technology behind Microsoft’s enterprise-focused computer vision camera, the Azure Kinect developer kit, will soon find its way into commercial products. Microsoft is collaborating with two companies,"
-    publishedDateTime: 2020-11-02T13:26:00Z
-    webUrl: "https://www.roadtovr.com/microsoft-azure-kinect-commercial/"
-    ampWebUrl: "https://www.roadtovr.com/microsoft-azure-kinect-commercial/amp/"
-    cdnAmpWebUrl: "https://www-roadtovr-com.cdn.ampproject.org/c/s/www.roadtovr.com/microsoft-azure-kinect-commercial/amp/"
+  - title: "Microsoft adds Hindi support to its Text Analytics Service"
+    excerpt: "Microsoft has announced that it will be enabling support for Hindi within its Text Analytics service. The Text Analytics service powered by Microsoft Azure is part of the Microsoft Azure Cognitive Services."
+    publishedDateTime: 2020-11-06T06:14:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-adds-hindi-support-to-its-text-analytics-service/article33037173.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-adds-hindi-support-to-its-text-analytics-service/article33037173.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-adds-hindi-support-to-its-text-analytics-service/article33037173.ece/amp/"
     type: article
     provider:
-      name: Road to VR
-      domain: roadtovr.com
-    quality: 88
-    images:
-      - url: "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2020/11/azure-kinect.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Cloud Computing in a Shipping Container: Microsoft Introduces the Azure Modular Datacenter"
-    excerpt: "Microsoft recently announced a new Azure in a shipping container service called Azure Modular Datacenter. The new offer provides an option for setting up an Azure datacenter in hybrid or challenging environments where cloud computing previously would not have been possible."
-    publishedDateTime: 2020-11-05T12:10:00Z
-    webUrl: "https://www.infoq.com/news/2020/11/azure-modular-datacenter/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
+      name: Business Line
+      domain: thehindubusinessline.com
     quality: 59
     images:
-      - url: "https://res.infoq.com/news/2020/11/azure-modular-datacenter/en/headerimage/croppted-kristin-hillery-YId0l2vqc6E-unsplash-1603728187946.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.thehindubusinessline.com/info-tech/e0abff/article33037172.ece/ALTERNATES/LANDSCAPE_615/BL07MICROSOFT"
+        width: 615
+        height: 384
         isCached: true
-  - title: "Artificial Intelligence Market 2020 New Technology Research – Google, IBM, Baidu, Microsoft, Apple Inc., Ipsoft, NVIDIA corporation"
-    excerpt: "Artificial Intelligence Global Market Report 2020-30: Covid 19 Growth and Change The artificial intelligence market consists of sales of the artificial intelligence software and related services. Artificial Intelligence (AI) some times referred to as machine intelligence."
-    publishedDateTime: 2020-11-03T11:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-new-technology-research-google-ibm-baidu-microsoft-apple-inc-ipsoft-nvidia-corporation-2020-11-03"
+  - title: "Microsoft adds Hindi to its Text Analytics service"
+    excerpt: "Text Analytics is part of the Microsoft Azure Cognitive Services. The functionality provided by Text Analytics includes sentiment analysis, opinion mining, key phrase extraction, language detection, named entity recognition, and Personally Identifiable ..."
+    publishedDateTime: 2020-11-07T00:39:00Z
+    webUrl: "https://www.tribuneindia.com/news/science-technology/microsoft-adds-hindi-to-its-text-analytics-service-166425"
+    ampWebUrl: "https://www.tribuneindia.com/news/science-technology/microsoft-adds-hindi-to-its-text-analytics-service-166425"
+    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/microsoft-adds-hindi-to-its-text-analytics-service-166425"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-  - title: "QuEST Global launches Center of Excellence for Microsoft Azure to develop innovative solutions for customers"
-    excerpt: "QuEST Global, a global product engineering and lifecycle services company, today announced it has signed an agreement with Microsoft to launch a dedicated Center for Excellence (CoE) for Microsoft Azure."
-    publishedDateTime: 2020-11-03T12:00:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-pune-products-and-services-f8ffb465162d071f3e77db0782e3abf3"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 35
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 59
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/11/2020_11$largeimg_705948515.JPG"
+        width: 600
+        height: 368
         isCached: true
-  - title: "Self-driving car start-up Wayve deploys Microsoft Azure cloud technology"
-    excerpt: "Cambridge, UK-based Wayve, developer of AI software for self-driving cars, has signed a contract with Microsoft for use of the Azure cloud"
-    publishedDateTime: 2020-11-05T13:07:00Z
-    webUrl: "https://www.telecompaper.com/news/self-driving-car-start-up-wayve-deploys-microsoft-azure-cloud-technology--1360668"
+  - title: "Google partners with Knowlarity to expand its speech analytics platform in India"
+    excerpt: "Google has partnered with Singapore-headquartered cloud telephony firm Knowlarity to expand its speech recognition and analytics services in India."
+    publishedDateTime: 2020-11-03T06:33:00Z
+    webUrl: "https://www.ciol.com/google-partners-knowlarity-expand-speech-analytics-platform-india/"
+    ampWebUrl: "https://www.ciol.com/google-partners-knowlarity-expand-speech-analytics-platform-india/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/google-partners-knowlarity-expand-speech-analytics-platform-india/amp/"
     type: article
     provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 33
-  - title: "Government leaders share their vision on the next frontier of tech innovation in governance, at the Microsoft Digital Governance Cloud & AI Summit"
-    excerpt: "Cloud and AI are playing a central role in reshaping education ... agriculture, education, logistics, language translation and more. “ Dr. Rajendra Kumar, Additional Secretary, Ministry of Electronics and Information Technology (MeitY), Govt."
-    publishedDateTime: 2020-11-06T10:56:00Z
-    webUrl: "https://news.microsoft.com/en-in/government-leaders-share-their-vision-on-the-next-frontier-of-tech-innovation-in-governance-at-the-microsoft-digital-governance-cloud-ai-summit/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 18
+      name: CIOL
+      domain: ciol.com
+    quality: 41
     images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2020/11/digital-governance-cloud-and-ai-summit-768x430.jpg"
-        width: 768
-        height: 430
+      - url: "https://www.ciol.com/wp-content/uploads/2020/10/Google-Cloud.jpg"
+        width: 850
+        height: 400
         isCached: true
+  - title: "Microsoft adds Hindi to its Text Analytics service"
+    excerpt: "Microsoft on Thursday said it has added Hindi to its Text Analytics service to help businesses strengthen customer support through complete analysis of user perception and feedback in the most widely spoken language in India."
+    publishedDateTime: 2020-11-05T10:04:00Z
+    webUrl: "https://www.sify.com/news/microsoft-adds-hindi-to-its-text-analytics-service-news-education-ulfhPFccfdfdj.html"
+    ampWebUrl: "https://www.sify.com/news/microsoft-adds-hindi-to-its-text-analytics-service-news-education-ulfhPFccfdfdj.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/microsoft-adds-hindi-to-its-text-analytics-service-news-education-ulfhPFccfdfdj.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 39
+  - title: "Microsoft Adds Hindi To Its Text Analytics Service To Strengthen Sentiment Analysis Support"
+    excerpt: "Microsoft has announced the addition of Hindi as the latest language under its Text Analytics service to support businesses."
+    publishedDateTime: 2020-11-05T09:18:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-adds-hindi-to-its-text-analytics-service-to-strengthen-sentiment-analysis-support/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 29
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/11/aim_micro-compressed.jpg"
+        width: 1600
+        height: 1034
+        isCached: true
+  - title: "Discover Announces New Data & Analytics Organization"
+    excerpt: "Discover Financial Services (NYSE: DFS) announced on Tuesday the launch of its new Data and Analytics (DNA) organization. Discover revealed that the new organization represents its commitment to technological advancement in financial services with a focus on customer engagement and marketing technologies."
+    publishedDateTime: 2020-11-03T11:40:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/11/168720-discover-announces-new-data-analytics-organization/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 4
 
 secured: "CBZB9/Xmr3IWJTv0QRvNuchmFCjGeVNrNysK59lgYNyVN5mFUnSntv9awPbSHz31LVz8SpZNVlMraQJkmzD5vgM3ZLX8hEt3xmsinla408ivr9t9Zk+5LcL6B45//CjjIMZplDlFnEd9399sLPWlJ4ufKzuhUO2dooqgX3AA7Uk+HxzwcobFUOB6kQfM7PmzEk5Ec8GwZSUvTCN8SoqXIDhBqbRcNW6P9i/XkY0+ZmxCSf2RVLVUZmpHqKRmhUW70mip/dhscwBnkZXDEtOyARWBm5CbxJqval4fIU0pKJN+3vQb/rLY5Dbv3CU1ATyJhTUVak0hqUVP4jmSrk9g5jsi4diYcW8k33n+zbB9sww=;yLAmVUoioCo/RTIbMA6Omg=="
 ---

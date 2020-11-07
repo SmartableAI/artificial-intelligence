@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/05/when-a-tree-falls
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/05/when-a-tree-falls-on-top-of-a-self-driving-car/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "BEHIND THE WHEEL: Where are our self-driving cars?"
+    excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time,"
+    publishedDateTime: 2020-11-07T04:30:00Z
+    webUrl: "https://www.pottsmerc.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_b2d0fac8-1fa2-11eb-bd1a-839f89469b3a.html"
+    ampWebUrl: "https://www.pottsmerc.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_b2d0fac8-1fa2-11eb-bd1a-839f89469b3a.amp.html"
+    cdnAmpWebUrl: "https://www-pottsmerc-com.cdn.ampproject.org/c/s/www.pottsmerc.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_b2d0fac8-1fa2-11eb-bd1a-839f89469b3a.amp.html"
+    type: article
+    provider:
+      name: The Mercury
+      domain: pottsmerc.com
+    quality: 44
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/pottsmerc.com/content/tncms/assets/v3/editorial/4/cb/4cb5c470-1fa3-11eb-9a18-27ec9e939d6d/5fa45d30d6deb.image.jpg?resize=1024%2C630"
+        width: 1024
+        height: 630
+        isCached: true
   - title: "Self-Driving Car Legislation Will Try Again Next Year"
     excerpt: "Despite technological advances, thousands of lives are lost every year in automobile accidents. Approximately 93% of these accidents are caused by human error."
     publishedDateTime: 2020-11-06T17:40:00Z

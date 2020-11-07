@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-adds-hindi-
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-adds-hindi-support-to-its-text-analytics-service/article33037173.ece/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 119
 published: true
 
 provider:
@@ -43,6 +43,36 @@ related:
         width: 600
         height: 368
         isCached: true
+  - title: "Microsoft & Others Catalog Threats to Machine Learning Systems"
+    excerpt: "Thirteen organizations worked together to create a dictionary of techniques used to attack ML models and warn that such malicious efforts will become more common."
+    publishedDateTime: 2020-11-03T00:32:00Z
+    webUrl: "https://www.darkreading.com/vulnerabilities---threats/advanced-threats/microsoft-and-others-catalog-threats-to-machine-learning-systems/d/d-id/1339354"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 56
+    images:
+      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
+        width: 600
+        height: 600
+        isCached: true
+  - title: "Google partners with Knowlarity to expand its speech analytics platform in India"
+    excerpt: "Google has partnered with Singapore-headquartered cloud telephony firm Knowlarity to expand its speech recognition and analytics services in India."
+    publishedDateTime: 2020-11-03T06:33:00Z
+    webUrl: "https://www.ciol.com/google-partners-knowlarity-expand-speech-analytics-platform-india/"
+    ampWebUrl: "https://www.ciol.com/google-partners-knowlarity-expand-speech-analytics-platform-india/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/google-partners-knowlarity-expand-speech-analytics-platform-india/amp/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 41
+    images:
+      - url: "https://www.ciol.com/wp-content/uploads/2020/10/Google-Cloud.jpg"
+        width: 850
+        height: 400
+        isCached: true
   - title: "Microsoft adds Hindi to its Text Analytics service"
     excerpt: "Microsoft on Thursday said it has added Hindi to its Text Analytics service to help businesses strengthen customer support through complete analysis of user perception and feedback in the most widely spoken language in India."
     publishedDateTime: 2020-11-05T10:04:00Z
@@ -68,6 +98,15 @@ related:
         width: 1600
         height: 1034
         isCached: true
+  - title: "Discover Announces New Data & Analytics Organization"
+    excerpt: "Discover Financial Services (NYSE: DFS) announced on Tuesday the launch of its new Data and Analytics (DNA) organization. Discover revealed that the new organization represents its commitment to technological advancement in financial services with a focus on customer engagement and marketing technologies."
+    publishedDateTime: 2020-11-03T11:40:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/11/168720-discover-announces-new-data-analytics-organization/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 4
 
 secured: "QNRzN6tPhdKbtqrpxuhjiN8zBtQ2VjsUro6gLtQWQmcnexsR9KeH/fNMgr+U45LjD+cjhpY+tITCvrFs/WO7D3u8VrwmKqm+CNMuqGOzMhJEZJK0Jl4tqk5Cg0YiX49eeqfkRtvkV78ZQ5bayNi9G2B/YSPgTX9Ysbq4axj+X5bm2ekkWH7/zo0LeuuJTwdxVHj6/WRnRtMDyuhCsP4tq/M4nSg8zaPDuAlGtq+DfGt0AcaqXFvjDrA9Qqpvdj9OF3i0Lyfpo8wHKZarqLSV/6MIEXdyzO48FxBoc6xZvDNWmeLUFR+foquS2BQu1BZgT/D6HEqmP/8wOz3mhYBUgMWMfv9VfkykygU8RrIDcuz30cmRLlwlq6lMvlFOklH7kt09DWVOYWLHMF38RqLZfp5ZFGQjYmgeVIBZdeEHg6pFb3sl4JHHvFzEqs+DWGyGpYl2vssuV1hE6KZiZ/FLO0ofOuiQbKgJZVN39WnXmBmHLCnEy2qF42au5c0JkBNz42/UG97V3UmBCJPpArZ8NA==;Uv2XADNiVxA6dDKDPdno8g=="
 ---

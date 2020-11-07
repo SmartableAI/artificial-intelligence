@@ -10,7 +10,7 @@
       "originalUrl": "https://www.yankodesign.com/2020/11/06/microsofts-azure-cloud-platform-will-be-the-brain-for-their-future-autonomous-robots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -98,7 +98,7 @@
       "originalUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-adds-hindi-support-to-its-text-analytics-service/article33037173.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -130,6 +130,50 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-large-scale-multilingual-ai-models-from-google-facebook-and-microsoft.md",
+      "title": "Large-Scale Multilingual AI Models from Google, Facebook, and Microsoft",
+      "excerpt": "Researchers from Google, Facebook, and Microsoft have published their recent work on multilingual AI models. Google and Microsoft have released models that achieve new state-of-the-art performance on NLP tasks measured by the XTREME benchmark,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2020/11/multilingual-ai-models/",
+      "originalUrl": "https://www.infoq.com/news/2020/11/multilingual-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2020/11/multilingual-ai-models/en/headerimage/multilingual-ai-models-header-1604247885452.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-03T06:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1327,58 +1371,6 @@
         "name": "Seeking Alpha",
         "domain": "seekingalpha.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-microsoft-azure-announces-its-first-region-in-austria.md",
-      "title": "Microsoft Azure announces its first region in Austria",
-      "excerpt": "Microsoft today announced its plans to launch a new data center region in Austria, its first in the country. With nearby Azure regions in Switzerland, Germany, France and a planned new region in northern Italy,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/20/microsoft-azure-announces-its-first-region-in-austria/",
-      "originalUrl": "https://techcrunch.com/2020/10/20/microsoft-azure-announces-its-first-region-in-austria/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1069481166.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/20/microsoft-azure-announces-its-first-region-in-austria/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/20/microsoft-azure-announces-its-first-region-in-austria/amp/",
-      "publishedDateTime": "2020-10-20T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

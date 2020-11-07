@@ -9,7 +9,7 @@ ampWebUrl: "https://europeansting.com/2020/11/04/robots-and-chatbots-can-help-al
 cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2020/11/04/robots-and-chatbots-can-help-alleviate-the-mental-health-epidemic/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,63 +25,6 @@ images:
     width: 716
     height: 1002
     isCached: true
-
-related:
-  - title: "Leena AI nabs $8M Series as it expands from chatbots to HR service platform"
-    excerpt: "When we covered Leena AI as a member of the Y Combinator Summer 2018 cohort, the young startup was firmly focused on building HR chatbots, but in the intervening years it has expanded the vision to a broader HR policy platform."
-    publishedDateTime: 2020-11-02T15:05:00Z
-    webUrl: "https://techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/"
-    ampWebUrl: "https://techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 85
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1215953761.jpg?w=1024"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Leena AI nabs $8M Series A as it expands from chatbots to HR service platform"
-    excerpt: "When we covered Leena AI as a member of the Y Combinator Summer 2018 cohort, the young startup was firmly focused on building HR chatbots, but in the intervening years it has expanded the vision to a broader HR policy platform."
-    publishedDateTime: 2020-11-04T14:53:00Z
-    webUrl: "https://techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/"
-    ampWebUrl: "https://techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1215953761.jpg?w=1024"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "HR-Tech Startup Leena AI Raises $8M In Series A Funding To Accelerate Hiring & Product Development"
-    excerpt: "Leena AI, an AI-based employee experience platform, has announced an $8 million funding in Series A round led by Greycroft."
-    publishedDateTime: 2020-11-04T08:03:00Z
-    webUrl: "https://analyticsindiamag.com/hr-tech-startup-leena-ai-raises-8m-in-series-a-funding-to-accelerate-hiring-product-development/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 23
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/11/HR-Tech-Startup-Leena-AI-Raises-8M-In-Series-A-Funding-To-Accelerate-Hiring-Product-Development-.jpeg"
-        width: 1050
-        height: 700
-        isCached: true
-  - title: "Leena AI raises $8M in series A funding to revolutionize employee experience"
-    excerpt: "Leena AI, an artificial intelligence (AI)-powered employee experience platform, today announced an USD 8 million Series A financing led by Greycroft to expand its go-to-market programs and accelerate"
-    publishedDateTime: 2020-11-03T11:30:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/leena-ai-raises-8m-in-series-a-funding-to-revolutionize-employee-experience-120110301240_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 16
 
 secured: "/q9/UiGeVIQEJgJ+ljj/5L5NqmFMMFg7lMtLtqXk3w9Z4hAwWkdO5jRG4Ypf8aoitnhuqrDx7ScHNv+3gk+NIS1h58CWvaWNLdKoBUzR+7dZ+jPFYPqYwbjuUjEFjEbkr1FQEktU4u0pN/dWfMSKQTZly73dqG+TfsjPMzUsCKOhZAgXlhN63nL8gijMTVDKHKkl/UNPAuLtb4weOmRpOXqrhhUQNEQfdtKpVtrDXI5FSBZwcDsWTB388hwH8enyGvap+1mTTLvWJtAkNbx6P1aknToJWmbueMTG8GP7J5j7S5lEqpYwcy/WKwC5m+cEsZUaUGlxnVG6QDbpEaT1Qjxr4Ff2PBr0kJXLcr3oii1UWm6Wco30Kp942cUX8xS/F0e756ucRFFSwqNRpf50rWC/l/EYl0Y8e3asIpzknAFbRPBMW4vWOd2MIUESun/geYRLNtrfipLKLwbi4LkJ8/SvRmNKmb7acIQxKd+k+1HJNP1iREB4FcNoc2QJ7p6trzi46i/XJTMl5bjJwGqv7g==;ZSU6/kvSwWgaGELC5aFfUA=="
 ---

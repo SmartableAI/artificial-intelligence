@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "This AI Identifies Asymptomatic COVID Carriers by Their Cough"
-    excerpt: "A neural network created by MIT to look for signs of Alzheimer's has been applied to COVID-19 and accurately identified 98.5 percent of coughs from people who were confirmed to have novel coronavirus."
-    publishedDateTime: 2020-11-02T13:58:00Z
-    webUrl: "https://www.pcmag.com/news/this-ai-identifies-asymptomatic-covid-carriers-by-their-cough"
-    ampWebUrl: "https://www.pcmag.com/news/this-ai-identifies-asymptomatic-covid-carriers-by-their-cough?amp=true"
-    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/this-ai-identifies-asymptomatic-covid-carriers-by-their-cough?amp=true"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 87
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/06j3rj27tROHxy3EaMtbhow-1.1604323934.fit_lim.size_1200x630.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Covid-19 Has Accelerated Digital Transformation — With AI Playing A Key Role"
     excerpt: "We're witnessing out-of-the-box thinking and once-in-a-lifetime risk-taking that's giving birth to fantastic innovations and great changes."
     publishedDateTime: 2020-11-04T12:53:00Z
@@ -88,22 +72,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "AI can detect COVID-19 from the sound of your cough"
-    excerpt: "The AI model correctly identified 98.5% of people with COVID-19 ... Similar projects are underway in Cambridge University, Carnegie Mellon University and the U.K. start-up Novoic, according to BBC. \"Pandemics could be a thing of the past if pre-screening ..."
-    publishedDateTime: 2020-11-03T22:02:00Z
-    webUrl: "https://www.livescience.com/asymptomatic-coronavirus-detection-ai.html"
-    ampWebUrl: "https://www.livescience.com/amp/asymptomatic-coronavirus-detection-ai.html"
-    cdnAmpWebUrl: "https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/asymptomatic-coronavirus-detection-ai.html"
-    type: article
-    provider:
-      name: Live Science
-      domain: livescience.com
-    quality: 57
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/XhqqcavxbCtM3FgYZJSfdd-1200-80.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "MIT working to launch app that uses AI to detect COVID-19 in coughing sound"
     excerpt: "This groundbreaking study could provide a convenient screening tool for people to test for COVID-19 at home, or those who may not know they have the virus."
     publishedDateTime: 2020-11-02T21:41:00Z
@@ -120,31 +88,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Artificial intelligence can detect asymptomatic COVID-19 coughs, MIT says. Here’s how"
-    excerpt: "Researchers say the AI could help prevent asymptomatic individuals from unknowingly spreading the virus to others."
-    publishedDateTime: 2020-11-05T22:14:00Z
-    webUrl: "https://www.miamiherald.com/news/coronavirus/article247000912.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/coronavirus/article247000912.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/coronavirus/article247000912.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 50
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998027001/6dbb1e03-d75b-4843-808d-d33469ba86b9/b6e3392c-4dec-46dc-b78f-ab267f2c02b7/1280x720/match/image.jpg"
-        width: 1280
-        height: 623
-        isCached: true
-  - title: "Machine learning helps hunt for COVID-19 therapies"
-    excerpt: "Scientists have deployed a machine learning model to help drug developers on their most promising leads for attacking one of the SARS-CoV-2 virus' most compelling targets."
-    publishedDateTime: 2020-11-03T14:22:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/10/201028124526.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "Artificial Intelligence Identifies Asymptomatic COVID-19 Infections"
     excerpt: "An artificial intelligence tool was able to accurately distinguish between the coughs of COVID-19 patients and healthy individuals."
     publishedDateTime: 2020-11-03T14:32:00Z
@@ -172,22 +115,6 @@ related:
       - url: "https://scitechdaily.com/images/COVID-19-Machine-Learning-Mental-Health.jpg"
         width: 1350
         height: 900
-        isCached: true
-  - title: "Artificial intelligence can detect asymptomatic COVID-19 coughs, MIT says. Here’s how | Charlotte Observer"
-    excerpt: "Researchers say the AI could help prevent asymptomatic individuals from unknowingly spreading the virus to others."
-    publishedDateTime: 2020-11-06T00:04:00Z
-    webUrl: "https://www.charlotteobserver.com/news/coronavirus/article247000912.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/coronavirus/article247000912.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/coronavirus/article247000912.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 39
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998027001/6dbb1e03-d75b-4843-808d-d33469ba86b9/b6e3392c-4dec-46dc-b78f-ab267f2c02b7/1280x720/match/image.jpg"
-        width: 1280
-        height: 623
         isCached: true
   - title: "MIT artificial intelligence model detects COVID-19 by sound of cough"
     excerpt: "The AI model for COVID-19 uses the same four biomarkers— vocal cord strength, sentiment, lung and respiratory performance and muscular degradation — as a similar model used to detect Alzheimer's. One of the biggest challenges with slowing the spread of COVID-19 is detecting it in people who never show any symptoms."
@@ -225,29 +152,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Expertise 2020: How the Artificial Intelligence in Agriculture Market is effected by COVID-19 Impact"
-    excerpt: "Check out How COVID-19 impact on the Artificial Intelligence in Agriculture Market @  The global market is classified on the basis of application and deployment. The report offers the complete information about drivers,"
-    publishedDateTime: 2020-11-04T17:29:00Z
-    webUrl: "https://apnews.com/press-release/wired-release/technology-business-crop-farming-pune-drone-aircraft-488c49658274a58c46e2c0009d8263ee"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "AI For COVID 19: MIT Model Effectively Detect Corona By Hearing Cough"
-    excerpt: "Asymptomatic patients remain a major concern for the COVID-19 spread. But, this AI model by MIT researchers may help in early detection by hearing coughs."
-    publishedDateTime: 2020-11-03T10:00:00Z
-    webUrl: "https://www.techthirsty.com/ai-for-covid-19-mit-model-effectively-detect-corona-by-hearing-cough/"
-    type: article
-    provider:
-      name: Tech Thirsty
-      domain: techthirsty.com
-    quality: 19
   - title: "COVID Advances Missing Middle of AI Projects"
     excerpt: "The Federal government is responsible for maintaining some very mature artificial intelligence (AI) models and many agencies are exploring AI pilot projects, with few projects in-between – but COVID has pushed agencies to advance their efforts,"
     publishedDateTime: 2020-11-06T17:03:00Z

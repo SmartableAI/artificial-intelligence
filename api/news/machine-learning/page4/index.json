@@ -2,6 +2,137 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-15-udacity-and-microsoft-partner-up-to-launch-new-machine-learning-program-to-skill-students.md",
+      "title": "Udacity and Microsoft partner up to launch new machine learning program to skill students",
+      "excerpt": "The US-based learning platform Udacity on Thursday announced a partnership with Microsoft to launch Microsoft Azure 'Nanodegree' programme, which will strengthen the machine learn",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.in/india/news/udacity-partners-with-microsoft-to-launch-nanodegree-programme-to-skill-students/articleshow/78680180.cms",
+      "originalUrl": "https://www.businessinsider.in/india/news/udacity-partners-with-microsoft-to-launch-nanodegree-programme-to-skill-students/articleshow/78680180.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/78680236.cms?height=275&width=412",
+          "width": 412,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.in/india/news/udacity-partners-with-microsoft-to-launch-nanodegree-programme-to-skill-students/amp_articleshow/78680180.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/india/news/udacity-partners-with-microsoft-to-launch-nanodegree-programme-to-skill-students/amp_articleshow/78680180.cms",
+      "publishedDateTime": "2020-10-15T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-lantronix-brings-advanced-ai-and-machine-learning-to-smart-cameras-with-new-open-q-610-som.md",
+      "title": "Lantronix Brings Advanced AI and Machine Learning to Smart Cameras With New Open-Q 610 µSOM ...",
+      "excerpt": "The new Lantronix ultra-compact (50mm x 25mm), production-ready Open-Q 610 μSOM is based on the powerful Qualcomm QCS610 SOC, the latest in the Qualcomm® Vision Intelligence Platform lineup targeting smart cameras with edge computing.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-transportation-equipment-manufacturing-industrial-products-and-services-products-and-services-e68728e1c5882a075073f3030ca7359e",
+      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-transportation-equipment-manufacturing-industrial-products-and-services-products-and-services-e68728e1c5882a075073f3030ca7359e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-sicks-deep-learning-brings-simplicity-to-complex-ai-inspection.md",
+      "title": "SICK’s Deep Learning Brings Simplicity to Complex AI Inspection",
+      "excerpt": "SICK has launched a suite of Deep Learning apps and services to simplify machine vision quality inspection for challenging components, assemblies, surfaces or food produce, especially those that have previously defied automation and remained ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theengineer.co.uk/supplier-network/product/sicks-deep-learning-brings-simplicity-to-complex-ai-inspection/",
+      "originalUrl": "https://www.theengineer.co.uk/supplier-network/product/sicks-deep-learning-brings-simplicity-to-complex-ai-inspection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://theengineer.markallengroup.com/production/2020/10/im0090846.jpg",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Engineer",
+        "domain": "theengineer.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-deep-learning-system-software-market-current-impact-to-make-big-changes-intel-ibm-google.md",
       "title": "Deep Learning System Software Market - Current Impact to Make Big Changes | Intel, IBM, Google",
       "excerpt": "Deep learning system software is primarily used for data extraction and transformation purpose. Deep learning is a part of Artificial Intelligence (AI) technology and uses deep learning algorithms ...",
@@ -1201,146 +1332,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-how-ai-and-machine-learning-can-help-accountants-stay-competitive.md",
-      "title": "How AI and Machine Learning can help accountants stay competitive",
-      "excerpt": "Artificial intelligence (AI) and automation have brought the accounting profession to a point of pivotal change, and it’s about to revolutionise the way that accountants work.",
-      "sourceUrl": null,
-      "webUrl": "https://businesstech.co.za/news/industry-news/439441/how-ai-and-machine-learning-can-help-accountants-stay-competitive/",
-      "originalUrl": "https://businesstech.co.za/news/industry-news/439441/how-ai-and-machine-learning-can-help-accountants-stay-competitive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://businesstech.co.za/news/wp-content/uploads/2020/10/Sage-1-1024x507.jpg",
-          "width": 1024,
-          "height": 507,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://businesstech.co.za/news/industry-news/439441/how-ai-and-machine-learning-can-help-accountants-stay-competitive/amp/",
-      "cdnAmpWebUrl": "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/industry-news/439441/how-ai-and-machine-learning-can-help-accountants-stay-competitive/amp/",
-      "publishedDateTime": "2020-10-09T01:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businesstech.co.za",
-        "domain": "businesstech.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-the-secrets-of-small-data-how-machine-learning-finally-reached-the-enterprise.md",
-      "title": "The secrets of small data: How machine learning finally reached the enterprise",
-      "excerpt": "Transfer learning and collective learning enable enterprises to build machine learning models using small data when big data isn't available.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/08/the-secrets-of-small-data-how-machine-learning-finally-reached-the-enterprise/",
-      "originalUrl": "https://venturebeat.com/2020/10/08/the-secrets-of-small-data-how-machine-learning-finally-reached-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/shutterstock_350476919-e1513916353327.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/08/the-secrets-of-small-data-how-machine-learning-finally-reached-the-enterprise/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/08/the-secrets-of-small-data-how-machine-learning-finally-reached-the-enterprise/amp/",
-      "publishedDateTime": "2020-10-08T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-commentary-can-ai-and-machine-learning-improve-the-economy.md",
-      "title": "Commentary: Can AI and machine learning improve the economy?",
-      "excerpt": "By the time entrenched incumbents awaken to the threats posed by newly developed general purpose technologies (GPTs), a crop of challengers who had no option but to adopt the new GPT at the outset has become powerful enough to threaten the financial stability of an industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freightwaves.com/news/commentary-can-ai-and-machine-learning-improve-the-economy",
-      "originalUrl": "https://www.freightwaves.com/news/commentary-can-ai-and-machine-learning-improve-the-economy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2020/10/Aoaeh_commentary_100620_1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freightwaves.com/news/commentary-can-ai-and-machine-learning-improve-the-economy/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/commentary-can-ai-and-machine-learning-improve-the-economy/amp",
-      "publishedDateTime": "2020-10-08T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

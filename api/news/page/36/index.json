@@ -2,6 +2,198 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-10-08-ibm-spinning-off-infrastructure-managed-services-group-to-focus-on-cloud-is-a-good-move.md",
+      "title": "IBM Spinning Off Infrastructure Managed Services Group To Focus On Cloud Is A Good Move",
+      "excerpt": "IBM has been making a flurry of improvements to position the company to better take advantage of the cloud opportunity. In the past year, IBM acquired Red Hat, deeply integrated many of its products,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/10/09/ibm-spinning-off-infrastructure-managed-services-group-to-focus-on-cloud-is-a-good-move/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/10/09/ibm-spinning-off-infrastructure-managed-services-group-to-focus-on-cloud-is-a-good-move/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f805e370491850badf74c9a%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/10/09/ibm-spinning-off-infrastructure-managed-services-group-to-focus-on-cloud-is-a-good-move/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2020/10/09/ibm-spinning-off-infrastructure-managed-services-group-to-focus-on-cloud-is-a-good-move/amp/",
+      "publishedDateTime": "2020-10-07T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker.md",
+      "title": "Amazon announces price cuts on GPU instances in AWS Sagemaker",
+      "excerpt": "Amazon Web Services is cutting the price of GPU instances on Sagemaker, its fully managed machine learning service. AWS said customers will see up to 18% in price reductions on all ml.p2 and ml.p3 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/",
+      "publishedDateTime": "2020-10-07T21:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-facial-recognition-data-leaks-is-rampant-across-china-as-covid-19-pushes-wider-use-of-the-technology.md",
+      "title": "Facial recognition data leaks is rampant across China as Covid-19 pushes wider use of the technology",
+      "excerpt": "Incorrectly configured databases remains a widespread security problem in China even as citizens increasingly express concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/abacus/tech/article/3104512/facial-recognition-data-leaks-rampant-across-china-covid-19-pushes",
+      "originalUrl": "https://www.scmp.com/abacus/tech/article/3104512/facial-recognition-data-leaks-rampant-across-china-covid-19-pushes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/10/08/2e658938-077f-11eb-afc8-92e0da0ef1c3_image_hires_105537.jpg?itok=FA7tyBxR&v=1602125752",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/abacus/tech/article/3104512/facial-recognition-data-leaks-rampant-across-china-covid-19-pushes",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/abacus/tech/article/3104512/facial-recognition-data-leaks-rampant-across-china-covid-19-pushes",
+      "publishedDateTime": "2020-10-07T20:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-finding-new-ways-to-operate-transform-with-machine-learning.md",
+      "title": "Finding new ways to operate & transform with machine learning",
+      "excerpt": "Mark Smith, Worldwide Head of Business and Market Development for Payments, Amazon Web Services ... to implementing machine learning workloads, and about the challenges financial institutions ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/videoarticle/2391/finding-new-ways-to-operate--transform-with-machine-learning",
+      "originalUrl": "https://www.finextra.com/videoarticle/2391/finding-new-ways-to-operate--transform-with-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/finextra-images/top_pics/xl/mark-aws.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-07T18:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-get-started-with-speech-recognition.md",
       "title": "Get Started With Speech Recognition",
       "excerpt": "Speech recognition makes it easier for us to be lazy with our devices – or perhaps set up the coolest voice-controlled project around. After the voice controlled home automation post ...",
@@ -986,199 +1178,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-halloween-trick-or-treating-in-an-era-of-self-driving-cars.md",
-      "title": "Halloween Trick-Or-Treating In An Era Of Self-Driving Cars",
-      "excerpt": "Halloween in an era of self-driving cars. getty. Halloween is almost here! Even if this year’s celebrations might be somewhat less extravagant and require added care and precaut",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/07/halloween-trick-or-treating-in-an-era-of-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/07/halloween-trick-or-treating-in-an-era-of-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7d052055c26817fc4463ad%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4164%26cropY1%3D14%26cropY2%3D2789",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/07/halloween-trick-or-treating-in-an-era-of-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/07/halloween-trick-or-treating-in-an-era-of-self-driving-cars/amp/",
-      "publishedDateTime": "2020-10-07T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-deep-learning-in-computer-vision-market-business.md",
-      "title": "Deep Learning in Computer Vision Market Business",
-      "excerpt": "Deep Learning in Computer Vision marketing report has been structured by keeping in mind all the foremost aspects of the market research that put forth market landscape simply into focus Market segmentation is a significant parameter that categorises the market",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2151587/deep-learning-in-computer-vision-market-business-investment",
-      "originalUrl": "https://www.openpr.com/news/2151587/deep-learning-in-computer-vision-market-business-investment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/a/Ta07735633_g.jpg",
-          "width": 800,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2151587/deep-learning-in-computer-vision-market-business-investment",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2151587/deep-learning-in-computer-vision-market-business-investment",
-      "publishedDateTime": "2020-10-07T07:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-ucsf-fortanix-intel-and-microsoft-azure-utilize-privacy-preserving-analytics-to-accelerate-ai-in-healthcare.md",
-      "title": "UCSF, Fortanix, Intel, and Microsoft Azure Utilize Privacy-Preserving Analytics to Accelerate AI in Healthcare",
-      "excerpt": "“Validation and security of AI algorithms is a major concern prior ... in the control of the healthcare institution via their Azure confidential computing cloud infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.oaoa.com/news/business/ucsf-fortanix-intel-and-microsoft-azure-utilize-privacy-preserving-analytics-to-accelerate-ai-in-healthcare/article_51dace0e-a59b-57b9-8d5b-1af98a6788dc.html",
-      "originalUrl": "https://www.oaoa.com/news/business/ucsf-fortanix-intel-and-microsoft-azure-utilize-privacy-preserving-analytics-to-accelerate-ai-in-healthcare/article_51dace0e-a59b-57b9-8d5b-1af98a6788dc.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png",
-          "width": 576,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
-      "excerpt": "Artificial intelligence (AI) involves using computers ... deploying AI brains into the Waymo self-driving car business, and applying these technologies to medical research and weather forecasting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "originalUrl": "https://www.fool.com/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F594319%2Fartificial-intelligence-digital-brain.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "publishedDateTime": "2020-10-07T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

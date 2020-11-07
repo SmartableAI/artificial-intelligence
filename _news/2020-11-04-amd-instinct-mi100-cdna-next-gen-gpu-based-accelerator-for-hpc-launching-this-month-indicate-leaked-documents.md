@@ -85,20 +85,6 @@ related:
         width: 1200
         height: 878
         isCached: true
-  - title: "Intel launches Iris Xe Max discrete GPU"
-    excerpt: "Intel has launched its Iris Xe Max discrete graphics processor, aimed at thin-and-light notebooks powered by 11th Gen Core Tiger Lake processors. The Iris Xe Max is based on the Xe LP graphics architecture and it's targeted at the 'thinner the better' market,"
-    publishedDateTime: 2020-11-02T14:00:00Z
-    webUrl: "https://www.bit-tech.net/news/intel-launches-iris-xe-max-discrete-gpu/1/"
-    type: article
-    provider:
-      name: Bit-Tech
-      domain: bit-tech.net
-    quality: 39
-    images:
-      - url: "https://bit-tech.net/media/image/2020/11/69062e34-3a03-4aab-9072-6f5501d09444.jpeg"
-        width: 450
-        height: 230
-        isCached: true
 
 secured: "FG3prSY2YPNo+G4DYwXRtiw3bYE0RIerNAeV5HCfQu23KXy7wGzRxm88egybXKm4pM9J3dTmyswxuWZ5/es8exxo6gYxTBja3AM//l23mmRbq3DL5hqCQTMwm98+fTxiE1MPeVMrua3o5PDl6Ao6sUGdtajO32xZrPOw1U85UIS0vLiojrbZ9RmBevn3bKUeUwG1aoeXbkoHKAQLH+I0zkt5eVFU9o4nxQzLe1Y0pw1wQ4dvmlVk1nYVk6dpa7gTmjIIRCB08qttjA4T0jbLwHQAG69I6PTQRNvJ50sfKZ0EPgZ8nrCNj7bofVnowFhjmjtcD4VMdPZ5HidqKTGcTvQe4uudtm9s4uw9yBNr/KU=;xpICGxBkUP8cupc4/R87tA=="
 ---

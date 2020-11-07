@@ -49,6 +49,31 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "AI can detect COVID-19 from the sound of your cough"
+    excerpt: "The AI model correctly identified 98.5% of people with COVID-19 ... Similar projects are underway in Cambridge University, Carnegie Mellon University and the U.K. start-up Novoic, according to BBC. \"Pandemics could be a thing of the past if pre-screening ..."
+    publishedDateTime: 2020-11-03T22:02:00Z
+    webUrl: "https://www.livescience.com/asymptomatic-coronavirus-detection-ai.html"
+    ampWebUrl: "https://www.livescience.com/amp/asymptomatic-coronavirus-detection-ai.html"
+    cdnAmpWebUrl: "https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/asymptomatic-coronavirus-detection-ai.html"
+    type: article
+    provider:
+      name: Live Science
+      domain: livescience.com
+    quality: 57
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/XhqqcavxbCtM3FgYZJSfdd-1200-80.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Machine learning helps hunt for COVID-19 therapies"
+    excerpt: "Scientists have deployed a machine learning model to help drug developers on their most promising leads for attacking one of the SARS-CoV-2 virus' most compelling targets."
+    publishedDateTime: 2020-11-03T14:22:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/10/201028124526.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Schools Adopt Face Recognition in the Name of Fighting Covid"
     excerpt: "A WIRED investigation finds dozens of districts have purchased thermal cameras to monitor fevers that can also identify students and staff."
     publishedDateTime: 2020-11-03T11:00:00Z
@@ -141,6 +166,15 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "AI For COVID 19: MIT Model Effectively Detect Corona By Hearing Cough"
+    excerpt: "Asymptomatic patients remain a major concern for the COVID-19 spread. But, this AI model by MIT researchers may help in early detection by hearing coughs."
+    publishedDateTime: 2020-11-03T10:00:00Z
+    webUrl: "https://www.techthirsty.com/ai-for-covid-19-mit-model-effectively-detect-corona-by-hearing-cough/"
+    type: article
+    provider:
+      name: Tech Thirsty
+      domain: techthirsty.com
+    quality: 19
 
 secured: "+2qJbMkFOQFUSB6cdKYw49z8yz1mxgQrIOuXkfKxgJ3O4bHblVojzjQBnR1AaAwjJmijguvyhj16UQ/G/kOrQ+CcNfVLFvvQxpogJHP6vzoHS7DJ+9ouGarW00G7u0xnjANjs8lOCnJr0svsy+fN/ANfQmslk9ZLab1Tc6zEsk91lCsAFJNeeLnh9rjOPzVDS8PlKF+OHdCqFvJccO7CuwT5RVYvYxzfLvO8BITQlgOBM5S5wE8VqYeXOUHs0URyqYSnTAalGBV6dkhaABKyp9EcpZpL+HkEb+cTMBk2u4BX/ANQZV3yPy94xaVFI3ASh0dBjdBerDJG7gmdkw1KSQ2LYPM4p1ekan4cp+9xrsRfj54RQH14rnPLyiwl8A21XGC8cm1urrIK2ws5jo0fBXByZY8FdncbuULYfqPXhv4RpBdtqWn5nmtC3L9189DQmQ0j0587GZl0EnORAiokfYa5pHZFfNNluLCIVmopa5KMbwG7mWsMnkebeMSv7T55uP9N833uSC+y8lBqRYWM0Q==;DTT8Il9GSds6F+h6sfMLdA=="
 ---

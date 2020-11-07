@@ -2,6 +2,161 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-10-23-the-monarch-mind-control-mystique.md",
+      "title": "The Monarch Mind Control Mystique",
+      "excerpt": "But in some cases, the young performer can’t stand the confusing transition from tween star to men’s magazine cover girl and starts to malfunction like the robot she has essentially become.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/el/article/9bne7e/the-monarch-mind-control-mystique",
+      "originalUrl": "https://www.vice.com/el/article/9bne7e/the-monarch-mind-control-mystique",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.vice.com/vice/images/articles/meta/2013/10/14/the-monarch-mind-control-mystique-1413295713451.jpeg?crop=1xw:1xh;center,center",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/el/article/9bne7e/the-monarch-mind-control-mystique",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/el/article/9bne7e/the-monarch-mind-control-mystique",
+      "publishedDateTime": "2020-10-22T15:31:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-the-ai-that-spots-alzheimers-from-cookie-drawing.md",
+      "title": "The AI that spots Alzheimer's from cookie drawing",
+      "excerpt": "A dated line drawing of two children stealing cookies behind their mother's back is being used by an artificial intelligence system to detect the onset of Alzheimer's disease. The system uses voice samples of people describing the scene to predict whether healthy people may get the disease.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-54538228",
+      "originalUrl": "https://www.bbc.com/news/technology-54538228",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1010/production/_114921140_oldwoman.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/technology-54538228",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-54538228",
+      "publishedDateTime": "2020-10-22T15:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-how-ibm-makes-ai-based-on-trust-fairness-and-explainability.md",
+      "title": "How IBM makes AI based on trust, fairness, and explainability",
+      "excerpt": "It’s all about trust Two things are true about trust: it’s at the core of all successful human relationships, and it’s not an easy thing to attain. Trust contains multitudes of nuance, and when achieved, it can lead to transformational events. The same could be said of artificial intelligence. We have",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/10/how-ibm-makes-ai-based-on-trust-fairness-and-explainability/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/10/how-ibm-makes-ai-based-on-trust-fairness-and-explainability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/10/AI_trust_leadspace-990x498.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-22T13:58:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-self-driving-cars-everything-you-need-to-know-about-the-futures-most-hyped-tech.md",
       "title": "Self-Driving Cars: Everything You Need To Know About the Future’s Most-Hyped Tech",
       "excerpt": "But the promise of self-driving cars has yet to be realized, though that’s not for the lack of promise or trying. Self-driving, also known as autonomous, cars have been in the zeitgeist since the late 1950s.",
@@ -988,153 +1143,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-st-lukes-university-health-network-selects-ge-healthcare-for-11-million-ultrasound-purchase-to-create-system-wide-efficiencies.md",
-      "title": "St. Luke’s University Health Network Selects GE Healthcare for $11 Million Ultrasound Purchase to Create System-wide Efficiencies",
-      "excerpt": "Two of IBM Watson Health’s 100 Top Hospitals are St. Luke’s hospitals. St. Luke’s University Hospital has earned the 100 Top Major Teaching Hospital designation from IBM Watson Health eight ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201022005112/en/St.-Luke’s-University-Health-Network-Selects-GE-Healthcare-for-11-Million-Ultrasound-Purchase-to-Create-System-wide-Efficiencies",
-      "originalUrl": "https://www.businesswire.com/news/home/20201022005112/en/St.-Luke’s-University-Health-Network-Selects-GE-Healthcare-for-11-Million-Ultrasound-Purchase-to-Create-System-wide-Efficiencies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201022005112/en/51143/23/GE_Imagination_at_Work_Logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T04:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-the-left-and-the-right-speak-different-languagesliterally.md",
-      "title": "The Left and the Right Speak Different Languages—Literally",
-      "excerpt": "Researchers at Carnegie Mellon University collected more than 86.6 million comments from more than 6.5 million users on 200,000 YouTube videos, then analyzed them using an AI technique normally employed to translate between two languages. The researchers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/left-right-speak-different-languages-literally/",
-      "originalUrl": "https://www.wired.com/story/left-right-speak-different-languages-literally/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f8f6e8cb9910f1848191347/master/pass/business_discourse_1281134658.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/left-right-speak-different-languages-literally/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/left-right-speak-different-languages-literally/amp",
-      "publishedDateTime": "2020-10-22T04:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-text-to-speech-automation-and-ai-how-google-is-backing-middle-east-news-providers.md",
-      "title": "Text to speech, automation and AI: How Google is backing Middle East news providers",
-      "excerpt": "Google says it's backing Middle Eastern news projects that develop new business models. By Damian Radcliffe for Heat Sink | October 22, 2020 -- 11:32 GMT (04:32 PDT) | Topic: Digital Transformation Google has awarded just under $2m to 21 projects in the Middle East,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/text-to-speech-automation-and-ai-how-google-is-backing-middle-east-news-providers/",
-      "originalUrl": "https://www.zdnet.com/article/text-to-speech-automation-and-ai-how-google-is-backing-middle-east-news-providers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2018/05/29/22929faf-4666-4ee0-bbea-a289c787429d/thumbnail/1200x675/2e0e2e09eb915bb530dd3a1860c282e5/5b08209d60b2521e61a0aff9-1280x7201may292018140008poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/text-to-speech-automation-and-ai-how-google-is-backing-middle-east-news-providers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/text-to-speech-automation-and-ai-how-google-is-backing-middle-east-news-providers/",
-      "publishedDateTime": "2020-10-22T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

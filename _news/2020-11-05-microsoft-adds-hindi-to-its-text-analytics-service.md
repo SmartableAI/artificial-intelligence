@@ -53,6 +53,36 @@ related:
         width: 600
         height: 368
         isCached: true
+  - title: "Microsoft & Others Catalog Threats to Machine Learning Systems"
+    excerpt: "Thirteen organizations worked together to create a dictionary of techniques used to attack ML models and warn that such malicious efforts will become more common."
+    publishedDateTime: 2020-11-03T00:32:00Z
+    webUrl: "https://www.darkreading.com/vulnerabilities---threats/advanced-threats/microsoft-and-others-catalog-threats-to-machine-learning-systems/d/d-id/1339354"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 56
+    images:
+      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
+        width: 600
+        height: 600
+        isCached: true
+  - title: "Google partners with Knowlarity to expand its speech analytics platform in India"
+    excerpt: "Google has partnered with Singapore-headquartered cloud telephony firm Knowlarity to expand its speech recognition and analytics services in India."
+    publishedDateTime: 2020-11-03T06:33:00Z
+    webUrl: "https://www.ciol.com/google-partners-knowlarity-expand-speech-analytics-platform-india/"
+    ampWebUrl: "https://www.ciol.com/google-partners-knowlarity-expand-speech-analytics-platform-india/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/google-partners-knowlarity-expand-speech-analytics-platform-india/amp/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 41
+    images:
+      - url: "https://www.ciol.com/wp-content/uploads/2020/10/Google-Cloud.jpg"
+        width: 850
+        height: 400
+        isCached: true
   - title: "Microsoft Adds Hindi To Its Text Analytics Service To Strengthen Sentiment Analysis Support"
     excerpt: "Microsoft has announced the addition of Hindi as the latest language under its Text Analytics service to support businesses."
     publishedDateTime: 2020-11-05T09:18:00Z
@@ -67,6 +97,15 @@ related:
         width: 1600
         height: 1034
         isCached: true
+  - title: "Discover Announces New Data & Analytics Organization"
+    excerpt: "Discover Financial Services (NYSE: DFS) announced on Tuesday the launch of its new Data and Analytics (DNA) organization. Discover revealed that the new organization represents its commitment to technological advancement in financial services with a focus on customer engagement and marketing technologies."
+    publishedDateTime: 2020-11-03T11:40:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/11/168720-discover-announces-new-data-analytics-organization/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 4
 
 secured: "QKeAxu3v2RTOAGeNlD0ht+DrqLqNlEukPeHoJASwHfyZQPHsX5F5Nq2iKKukqURNxoZS2t/dQU1B3UFvPmoH1SX6GQciqCkbOG9sShZNcplHx+jNbPEqn2mq5mZdvzMkv/n7RI/ledF7/hU3Nz64r/0csyfQNrBQ2wxaNYDOglC9ob1ebjInSBTcLCp9Orj1sJ3zPis8UojuhINSpEjHSE14nl/7ZDEncq8xXn15JIDTAwDMfsPdL17ypyoczVFXO/QeXZ5NClSopYbbisAXCZOLrQebH6v4iNJWdVxvxUr3LEgkBVfb1t87t2KpWAjTT6WHDGVEoNOK5A4XCXO0x7GPwlqxCfdV/JiBjeOQvyc=;GDzGNLS7PJGuFxfVmll7PA=="
 ---

@@ -29,16 +29,19 @@ images:
 
 related:
   - title: "Logiq Completes Acquisition of Fixel AI, Leader in AI-Powered Digital Marketing Technology"
-    excerpt: "NEW YORK, Nov. (GLOBE NEWSWIRE) -- Logiq, Inc. (OTCQX:LGIQ), a global provider of award-winning eCommerce and Fintech solutions, has completed its previously"
-    publishedDateTime: 2020-11-05T12:31:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/11/g18226445/logiq-completes-acquisition-of-fixel-ai-leader-in-ai-powered-digital-marketing-technology"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18226445"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18226445"
+    excerpt: "(OTCQX: LGIQ), a global provider of award-winning eCommerce and Fintech solutions, has completed its previously announced plan to acquire F ixel AI, an award-winning innovator of AI-powered digital marketing technology."
+    publishedDateTime: 2020-11-05T13:31:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-apple-inc-virus-outbreak-technology-issues-875f0d1977c96e4ac08fab587cf0c33d"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Associated Press
+      domain: apnews.com
     quality: 46
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "LtUpV4USAHC8s1WGT3VduhPXGmH+Gc3xAR53EzCVRaKfs6VF3Hyjsh385DhDiuF2tvkOfX1mI72ckQ2UudN/wMp1xffKKR13xsg/KDOKWRhVtSJJSIraX7Bu43ALBTD6kY7NPMG2NHoNOE6fBExg3ogM68mPys5KhtRJc77aIAXLfSE7ezc2SMBLMzA8vmURdw+RgZZup+f/A0kHgMvHm0ikEjFk/afjrTHwzILdY3XtMfIUJxMzOBsuw8ANKsepKt88iimHrVKTeuKw9C6QXOFjzqSQBH3yAr5sKpOdECZov7KVemiLwv42wEASIOV5oMdmLp6F2fOFQMafNn4rSLKTw4cB5/M/BuT+LudUjqw=;sE1khGPZkyDQLRVowzD80A=="
 ---

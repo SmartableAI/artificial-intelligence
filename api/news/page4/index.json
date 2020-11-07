@@ -2,6 +2,143 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-03-wipro-and-aws-announce-the-launch-of-wipro-aws-business-group.md",
+      "title": "Wipro and AWS announce the launch of Wipro AWS Business Group",
+      "excerpt": "Wipro has announced the launch of Wipro AWS Business Group (WABG), a unit designed to help customers fast-track their cloud transformation journey on AWS.",
+      "sourceUrl": null,
+      "webUrl": "https://www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/",
+      "originalUrl": "https://www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.voicendata.com/wp-content/uploads/2020/10/handshak-image.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/amp/",
+      "cdnAmpWebUrl": "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/amp/",
+      "publishedDateTime": "2020-11-02T23:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Voicendata.com",
+        "domain": "voicendata.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-how-tinyml-makes-artificial-intelligence-ubiquitous.md",
+      "title": "How TinyML Makes Artificial Intelligence Ubiquitous",
+      "excerpt": "TinyML makes AI ubiquitous and accessible to consumers. It will bring intelligence to millions of devices that we use on a daily basis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/11/03/how-tinyml-makes-artificial-intelligence-ubiquitous/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2020/11/03/how-tinyml-makes-artificial-intelligence-ubiquitous/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa0f496620890efe6ac1182%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D999%26cropY1%3D50%26cropY2%3D612",
+          "width": 999,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/11/03/how-tinyml-makes-artificial-intelligence-ubiquitous/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/11/03/how-tinyml-makes-artificial-intelligence-ubiquitous/amp/",
+      "publishedDateTime": "2020-11-02T22:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-face-recognition-pollution-alert-in-tech-upgrade.md",
+      "title": "Face recognition, pollution alert in tech upgrade",
+      "excerpt": "The city’s ambitious smart traffic management system system — that proposes to use advanced technologies and a surveillance web of cameras to m.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/articleshow/79008997.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/articleshow/79008997.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-79008996/79008996.jpg",
+          "width": 800,
+          "height": 751,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/amp_articleshow/79008997.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/amp_articleshow/79008997.cms",
+      "publishedDateTime": "2020-11-02T17:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-facial-recognition-used-to-arrest-protestor-at-trump-bible-photo-op.md",
       "title": "Facial recognition used to arrest protestor at Trump bible photo op",
       "excerpt": "Of course a little known facial recognition tool was used on Black Lives Matter protestors. This past June, as protestors were tear-gassed in Washington D.C.'s Lafayette Square so that Donald ...",
@@ -121,6 +258,57 @@
         "images": [
           {
             "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-researchers-claim-ai-tool-can-predict-heart-disease-by-analysing-retinas.md",
+      "title": "Researchers claim AI tool can predict heart disease by analysing retinas",
+      "excerpt": "The examination of retinal blood vessels to predict a patient's risk of CVD is not new, but the software used to carry out the procedure can now be semi-automated.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/video/researchers-claim-ai-tool-can-predict-heart-disease-by-analysing-retinas/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/video/researchers-claim-ai-tool-can-predict-heart-disease-by-analysing-retinas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/10/15/2bca2c70-8fca-4cd0-a676-50dc1fc72111/thumbnail/770x578/e0e6c0dc697daa8487df190663318730/australian-and-new-zealand-scientists-us-5f877ba5e6d2502094fc4814-1-oct-15-2020-4-35-33-poster.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-02T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -521,48 +709,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-03-artificial-intelligence-ai-automation-cognitive-insight-breaking-the-business-mold.md",
-      "title": "Artificial Intelligence (AI) Automation & Cognitive Insight Breaking The Business Mold",
-      "excerpt": "Artificial intelligence (AI) delivers big time business benefits when it comes to capabilities. Automation and cognitive insight being among the top types of AI businesses utilize. Did you know that 37 percent of businesses and organizations have implemented artificial intelligence in some way?",
-      "sourceUrl": null,
-      "webUrl": "https://thetechportal.com/artificial-intelligence-ai-automation-cognitive-insight-breaking-the-business-mold/",
-      "originalUrl": "https://thetechportal.com/artificial-intelligence-ai-automation-cognitive-insight-breaking-the-business-mold/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thetechportal.com/wp-content/uploads/2019/06/tp-website-header-logo-e1590226509506.png",
-          "width": 500,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thetechportal.com/artificial-intelligence-ai-automation-cognitive-insight-breaking-the-business-mold/?amp",
-      "cdnAmpWebUrl": "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/artificial-intelligence-ai-automation-cognitive-insight-breaking-the-business-mold/?amp",
-      "publishedDateTime": "2020-11-02T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thetechportal.com",
-        "domain": "thetechportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-03-ai-may-help-identify-patients-with-early-stage-dementia.md",
       "title": "AI May Help Identify Patients With Early-Stage Dementia",
       "excerpt": "Research suggests that how we type, sleep and speak may offer clues of cognitive decline.",
@@ -571,7 +717,7 @@
       "originalUrl": "https://www.wsj.com/articles/ai-may-help-identify-patients-with-early-stage-dementia-11604329922",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1051,152 +1197,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-alpitour-world-selects-ibm-hybrid-cloud-and-ai-capabilities-for-a-more-personalized-customer-experience.md",
-      "title": "Alpitour World Selects IBM Hybrid Cloud and AI Capabilities For a More Personalized Customer Experience",
-      "excerpt": "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20201102ny77498/alpitour-world-selects-ibm-hybrid-cloud-and-ai-capabilities-for-a-more-personalized-customer-experience",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20201102ny77498/alpitour-world-selects-ibm-hybrid-cloud-and-ai-capabilities-for-a-more-personalized-customer-experience",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1324474/Alpitour_2.jpg",
-          "width": 400,
-          "height": 309,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-02T03:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-how-to-make-the-most-of-the-google-cloud-free-tier.md",
-      "title": "How to make the most of the Google Cloud free tier",
-      "excerpt": "But until that day comes, the BigQuery database will answer one terabyte of queries each month and AutoML Translation will turn 500,000 characters from one language to another. Some developers use the free tier for what it’s intended to be: an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3585633/how-to-make-the-most-of-the-google-cloud-free-tier.html",
-      "originalUrl": "https://www.infoworld.com/article/3585633/how-to-make-the-most-of-the-google-cloud-free-tier.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/12/cso_gauges_meters_performance_indicators_dashboard_measures_by_autophotography_cc0_via_pixabay_binary_by_garik_barseghyan_aka_insspirito_cc0_via_pixabay_2400x1600-100824624-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3585633/how-to-make-the-most-of-the-google-cloud-free-tier.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3585633/how-to-make-the-most-of-the-google-cloud-free-tier.amp.html",
-      "publishedDateTime": "2020-11-02T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-ai-can-detect-asymptomatic-covid-19-infections-by-listening-to-a-cough.md",
-      "title": "AI can detect asymptomatic COVID-19 infections by listening to a cough",
-      "excerpt": "MIT has invented a tool that uses artificial intelligence to identify those with asymptomatic COVID-19 infections. Asymptomatic people are the most difficult to detect and can spread the infection",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/ai-can-detect-asymptomatic-covid-19-infections-by-listening-to-a-cough-02645368/",
-      "originalUrl": "https://www.slashgear.com/ai-can-detect-asymptomatic-covid-19-infections-by-listening-to-a-cough-02645368/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 327,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/11/cough.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/ai-can-detect-asymptomatic-covid-19-infections-by-listening-to-a-cough-02645368/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ai-can-detect-asymptomatic-covid-19-infections-by-listening-to-a-cough-02645368/amp/",
-      "publishedDateTime": "2020-11-02T02:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -55,22 +55,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Intel Iris Xe Max discrete GPU for slim laptops announced with AI and encoding performance boost"
-    excerpt: "Intel Iris Xe Max discrete GPU for slim laptops announced.Intel has claimed top provide enhanced AI and encoding boost in performance as well."
-    publishedDateTime: 2020-11-02T13:55:00Z
-    webUrl: "https://www.theindianwire.com/tech/intel-iris-xe-max-discrete-gpu-for-slim-laptops-announced-with-ai-and-encoding-performance-boost-297244/"
-    ampWebUrl: "https://www.theindianwire.com/tech/intel-iris-xe-max-discrete-gpu-for-slim-laptops-announced-with-ai-and-encoding-performance-boost-297244/?amp"
-    cdnAmpWebUrl: "https://www-theindianwire-com.cdn.ampproject.org/c/s/www.theindianwire.com/tech/intel-iris-xe-max-discrete-gpu-for-slim-laptops-announced-with-ai-and-encoding-performance-boost-297244/?amp"
-    type: article
-    provider:
-      name: The Indian Wire
-      domain: theindianwire.com
-    quality: 61
-    images:
-      - url: "https://www.theindianwire.com/wp-content/uploads/2020/11/intel-iris-xe-max-chip.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "BPahwCks+jUzCoVu2jiA/10G4QwRyucT/rqJUo9urF6ZOoZTpv0md3zqT0g/LhGT3d22+por5lLR/onhn4ar1cNd0Vnzo1ZmeLwPkRi1udpHZYG/ByixT1PQYjE+6Pz2R2MhBBJSdjTmgLHq7iIqoUQq2/cthHawE0kPjvSi6bzebGkBi+hbwOwcNngX4NHa6hHR2LN4wTRdUO48ncl04tZUAqmqhzCWKUBLdMn90shM+mcWfNQSn5tnWi712TzBaM/GDeXji+FAMHuigHMkcPSOM6zGT5wEJcehnfD10Bvq/sZVotZzr6mbKELSAui7lUzWWBDqEQca0Gbt7LkUJ4ZLaklumrgcUVDmopmpUVlxn5cbdcH3xqdH6pGjR9HXkY9Avyobny//C8h/vIFtfmTfQOvPYbAJXq0upT2TMevJYrQ+Ir+9xAfLjraFARFoh1pxdYFeVSE9SorBHezf4ct973TSqAD3Tmw7jYEhz6xzrxfCe/f5UI4Vj28cpGCQ7Qp1BKB1s06M4VlSbn0KOA==;v0yQ8/6Z5mEPlbvAY5UcMw=="
 ---

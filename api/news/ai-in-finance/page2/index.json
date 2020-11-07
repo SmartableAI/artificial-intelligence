@@ -2,6 +2,94 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-07-bespoken-spirits-raises-26m-in-seed-funding-to-combine-machine-learning-and-accelerated-whiskey-aging.md",
+      "title": "Bespoken Spirits raises $2.6M in seed funding to combine machine learning and accelerated whiskey aging",
+      "excerpt": "Bespoken Spirits, a Silicon Valley spirits company that has developed a new data-driven process to accelerate the aging of whiskey and create specific flavors, today announced that it has raised a $2.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/07/bespoken-spirits-raises-2-6m-in-seed-funding-to-combine-machine-learning-and-accelerated-whiskey-aging/",
+      "originalUrl": "https://techcrunch.com/2020/10/07/bespoken-spirits-raises-2-6m-in-seed-funding-to-combine-machine-learning-and-accelerated-whiskey-aging/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/Bespoken-Product-Shot-3.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/07/bespoken-spirits-raises-2-6m-in-seed-funding-to-combine-machine-learning-and-accelerated-whiskey-aging/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/07/bespoken-spirits-raises-2-6m-in-seed-funding-to-combine-machine-learning-and-accelerated-whiskey-aging/amp/",
+      "publishedDateTime": "2020-10-07T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-a-new-idc-marketscape-assesses-eleven-providers-of-advanced-machine-learning-platforms.md",
+      "title": "A New IDC MarketScape Assesses Eleven Providers of Advanced Machine Learning Platforms",
+      "excerpt": "International Data Corporation (IDC) today published a new assessment of eleven companies offering the tools and frameworks for developing advanced machine learning (ML)",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/10/b17817028/a-new-idc-marketscape-assesses-eleven-providers-of-advanced-machine-learning-platforms",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/b17817028/a-new-idc-marketscape-assesses-eleven-providers-of-advanced-machine-learning-platforms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17817028",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17817028",
+      "publishedDateTime": "2020-10-07T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-cig-capitals-charles-d-carey-on-the-lending-based-revolution-of-project-finance-fintech-magazine.md",
       "title": "CIG Capital's Charles D. Carey on the lending-based revolution of project finance || FinTech Magazine",
       "excerpt": "The financial services landscape is changing rapidly, and, in these turbulent times, investment companies can be inclined to focus solely",

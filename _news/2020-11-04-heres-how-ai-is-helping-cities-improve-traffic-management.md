@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/shift/2020/11/04/heres-how-ai-is-helping-citi
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/11/04/heres-how-ai-is-helping-cities-improve-traffic-management-syndication/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "This Is How Conversational AI Is Helping Businesses"
+    excerpt: "Conversational AI enables AI technologies such as chatbots to interact with users in a human-like manner. By linking the rift between human and computer speech, it creates communication between the tw"
+    publishedDateTime: 2020-11-07T06:52:00Z
+    webUrl: "https://www.entrepreneur.com/video/359220"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/359220"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359220"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 87
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1604731892-MyPost54.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "How Artificial Intelligence is Enhancing Online Shopping"
     excerpt: "Disruptive technology like artificial intelligence (AI) is definitely leaving an indelible mark amid a COVID-19 pandemic where social distancing measures are forcing more reliance on tech. The same can be said in the retail sector and as more consumers head online to do their shopping the retail industry is deploying AI to enhance the experience."
     publishedDateTime: 2020-11-04T18:24:00Z

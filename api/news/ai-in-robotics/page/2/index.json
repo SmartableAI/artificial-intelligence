@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-28-with-industrial-robots-easier-than-ever-to-program-how-do-our-attitudes-toward-automation-adapt.md",
+      "title": "With Industrial Robots Easier Than Ever To Program, How Do Our Attitudes Toward Automation Adapt?",
+      "excerpt": "Whether it's which tasks we can automate, the cost and time necessary for robot automation or how workers can contribute, the rise of easy-to-program robots forces us to rethink our assumptions and strategies for robotic automation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/27/with-industrial-robots-easier-than-ever-to-program-how-do-our-attitudes-toward-automation-adapt/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/27/with-industrial-robots-easier-than-ever-to-program-how-do-our-attitudes-toward-automation-adapt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1adfa7960582d2951cc914%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/27/with-industrial-robots-easier-than-ever-to-program-how-do-our-attitudes-toward-automation-adapt/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/27/with-industrial-robots-easier-than-ever-to-program-how-do-our-attitudes-toward-automation-adapt/amp/",
+      "publishedDateTime": "2020-10-27T18:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-researchers-reduce-positional-error-in-brain-controlled-robot-arms.md",
       "title": "Researchers reduce positional error in brain-controlled robot arms",
       "excerpt": "In this case, when the subject notices the robotic arm does not reach the position they originally ... moving ever closer to realizing sophisticated, mind controlled physical symptoms that will drastically improve the quality of life of individuals with ...",
@@ -1026,6 +1078,42 @@
       ]
     },
     {
+      "path": "_news/2020-10-20-robotics-machine-learning-daily-news-service-researchandmarketscom.md",
+      "title": "Robotics & Machine Learning Daily News Service – ResearchAndMarkets.com",
+      "excerpt": "The \"Robotics & Machine Learning Daily News\" newsletter has been added to ResearchAndMarkets.com's offering. Robotics",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/robotics-machine-learning-daily-news-service-researchandmarkets-com/",
+      "originalUrl": "https://www.financialbuzz.com/robotics-machine-learning-daily-news-service-researchandmarkets-com/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-20T02:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-torc-robotics-scaling-self-driving-fleet-with-daimler-trucks.md",
       "title": "Torc Robotics Scaling Self Driving Fleet with Daimler Trucks",
       "excerpt": "Torc Robotics will scale its self-driving truck testing in the Southwest in early 2021 using an enhanced prototype truck developed with Daimler Trucks North America. This new generation of ...",
@@ -1303,92 +1391,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-18-artificial-intelligence-humanity-and-the-future.md",
-      "title": "Artificial intelligence, humanity, and the future",
-      "excerpt": "By Shayne LooperIn September, the British news website \"The Guardian\" published a story written entirely by an AI – an artificial",
-      "sourceUrl": null,
-      "webUrl": "https://www.monroenews.com/news/20201017/artificial-intelligence-humanity-and-future",
-      "originalUrl": "https://www.monroenews.com/news/20201017/artificial-intelligence-humanity-and-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.monroenews.com/apps/pbcsi.dll/bilde?Site=MI&Date=20201017&Category=NEWS&ArtNo=201019353&Ref=AR",
-          "width": 680,
-          "height": 931,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.monroenews.com/news/20201017/artificial-intelligence-humanity-and-future?template=ampart",
-      "cdnAmpWebUrl": "https://www-monroenews-com.cdn.ampproject.org/c/s/www.monroenews.com/news/20201017/artificial-intelligence-humanity-and-future?template=ampart",
-      "publishedDateTime": "2020-10-17T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Monroe News",
-        "domain": "monroenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-looper-column-artificial-intelligence-humanity-and-the-future.md",
-      "title": "Looper column: Artificial intelligence, humanity and the future",
-      "excerpt": "Columns share an author’s personal perspective.***** In September, the British news website The Guardian published a story written entirely by an",
-      "sourceUrl": null,
-      "webUrl": "https://www.butlercountytimesgazette.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future",
-      "originalUrl": "https://www.butlercountytimesgazette.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.butlercountytimesgazette.com/apps/pbcsi.dll/bilde?Site=KS&Date=20201016&Category=LIFESTYLE&ArtNo=201019186&Ref=AR",
-          "width": 387,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.butlercountytimesgazette.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart",
-      "cdnAmpWebUrl": "https://www-butlercountytimesgazette-com.cdn.ampproject.org/c/s/www.butlercountytimesgazette.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart",
-      "publishedDateTime": "2020-10-16T20:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Butler County Times Gazette",
-        "domain": "butlercountytimesgazette.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

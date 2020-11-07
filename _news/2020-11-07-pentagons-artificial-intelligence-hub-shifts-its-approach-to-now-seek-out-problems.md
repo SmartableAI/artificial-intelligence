@@ -2,17 +2,17 @@
 category: news
 title: "Pentagon’s artificial intelligence hub shifts its approach to now ‘seek out problems’"
 excerpt: "The Defense Department wants to ensure it's delivering tools that war fighters will actually use. That requires strong relationships across the globe."
-publishedDateTime: 2020-11-06T21:40:00Z
-originalUrl: "https://www.defensenews.com/artificial-intelligence/2020/11/06/pentagons-artificial-intelligence-hub-shifts-its-approach-to-now-seek-out-problems/"
-webUrl: "https://www.defensenews.com/artificial-intelligence/2020/11/06/pentagons-artificial-intelligence-hub-shifts-its-approach-to-now-seek-out-problems/"
+publishedDateTime: 2020-11-07T06:47:00Z
+originalUrl: "https://www.airforcetimes.com/artificial-intelligence/2020/11/06/pentagons-artificial-intelligence-hub-shifts-its-approach-to-now-seek-out-problems/"
+webUrl: "https://www.airforcetimes.com/artificial-intelligence/2020/11/06/pentagons-artificial-intelligence-hub-shifts-its-approach-to-now-seek-out-problems/"
 type: article
 quality: 30
 heat: 30
 published: false
 
 provider:
-  name: Defense News
-  domain: defensenews.com
+  name: Air Force Times
+  domain: airforcetimes.com
 
 topics:
   - AI
@@ -23,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "EOrIHLkGJzMqaQec8XZqXLP24cWCeyya7kT+aogVhvWuNZxQIX2Oh75mH5ChlW76PuZ61wEF6Zopu07oDWQ+TqH4BE1XM1KzM/DC7ijlRJGI6/jj0R4/aqNrryppN/bTWBsjTTi9HI/mwDAuenScCFNyXRo+ce4w0G0eUJ1912Z4KQczP5KwvU0HGrtKCk5thnVDo/FkQ2MBIQj7y0MtfJdQqDGGMtnnoE2ohVd13aeoG7xev/+IF2fa0BHAV6AlsJPgw+A2EQaanPsLbLXJdXaTcjY7C5TGR3KeVZSh+//wC+1Rh8aQsowZuaeTaORr3pkKFoPyMDqwob2+2A5YD9/c8TD/BTtXvGarr9UaaruiquVKHqSuUcp0z/CDNUf4StIbgGIvIbFVmhqhn7KeC7TtoI5T+RlPwo/+cAPtfrmYZZg+guRI51t5N8B9r44/llJFcMOb3lzcMQGuTi9z/L5ExC8IXRgS5sbU+/UME/xpu3wR6tETass67J2Ik/r/wvkJFO6HxnwuUgDqkBQZ6g==;WGwJ3MEopDwOTrEi8uNVVw=="
+secured: "4vQ6mcIxi8DA82mjaLca0NA6Ucljdgl+Jv4cTRe54hwCO9ONLieHEIQpc9xbeTbE4E/e4qN3ZjQnjycnW5zyOoacTAOAiscnvK562qrMg9ucshHAxDHTr8di3+7kCtlY5LXbbLNRLRJz6I3mOmFJ0FnZXyjwJ1o9++e/GPmO62IYpIReU7IqGsO49ICTLJNIStoPg6/+4+y6i3ePrik6/XYfknY/Sz/OtUQC5/aXhbEyjMBtlVnRNJPSwiLEMj9dOpGqLVAK1gN2gifOaCUI8TTOhvdiUJ/YP+R8f5AhbPnnXPEHDz/cn5mbHhebWsrq1y//N/3rSMXPBNmWj8E2X02pyW71AJ6WnghOklfjYWQ=;4xoLq37HBig9sLcTsTv8YQ=="
 ---
 

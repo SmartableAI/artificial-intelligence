@@ -2,6 +2,163 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-10-27-deep-learning-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis-from-2020-2023.md",
+      "title": "Deep Learning Market Outlook By Industry Size, Share, Revenue, Regions And Top Key Players Analysis From 2020-2023",
+      "excerpt": "In enterprise computing, deep learning is evolving into one of the most advanced technologies. Deep learning is a subset",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis-from-2020-2023-2020-10-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis-from-2020-2023-2020-10-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-26T23:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-microsoft-develops-new-machine-learning-model-to-detect-password-spray-attacks.md",
+      "title": "Microsoft develops new machine learning model to detect password spray attacks",
+      "excerpt": "Microsoft has developed a new machine learning model in order to autonomously detect password spray attacks. The model has vastly improved performance compared to its previous heuristic mechanism.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-develops-new-machine-learning-model-to-detect-password-spray-attacks",
+      "originalUrl": "https://www.neowin.net/news/microsoft-develops-new-machine-learning-model-to-detect-password-spray-attacks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2015/04/shutterstock_222320305a_story.jpg",
+          "width": 760,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-develops-new-machine-learning-model-to-detect-password-spray-attacks/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-develops-new-machine-learning-model-to-detect-password-spray-attacks/",
+      "publishedDateTime": "2020-10-26T21:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-natural-language-processing-nlp-market-2020-with-top-countries-data-in-depth-assessment-key-trend-industry-analysis-future-roadmap-by-2026.md",
+      "title": "Natural Language Processing (NLP) Market 2020 with Top Countries Data, In-depth Assessment, Key Trend, Industry Analysis, Future Roadmap by 2026",
+      "excerpt": "Global “Natural Language Processing (NLP) Market\" 2020 Research Report provides key analysis on the market status of",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-with-top-countries-data-in-depth-assessment-key-trend-industry-analysis-future-roadmap-by-2026-2020-10-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-with-top-countries-data-in-depth-assessment-key-trend-industry-analysis-future-roadmap-by-2026-2020-10-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-26T20:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-surveillance-company-harassed-female-employees-using-its-own-facial-recognition-technology.md",
       "title": "Surveillance company harassed female employees using its own facial recognition technology",
       "excerpt": "A surveillance startup in Silicon Valley is being accused of sexism and discrimination after a sales director used the company’s facial recognition system to harass female workers. Verkada, which was valued in January at $1.",
@@ -1009,144 +1166,6 @@
         "AI in Robotics",
         "AI",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-ford-mustang-mach-e-electric-car-sees-first-firm-dates-tesla-model-y-rival-revs-up-production.md",
-      "title": "Ford Mustang Mach-E Electric Car Sees First Firm Dates: Tesla Model Y Rival Revs Up Production",
-      "excerpt": "E electric are seeing hard production dates. Several people who placed orders for the Ford Electric crossover are receiving notifications of production dates of December 7, 2020, according to posts on the Mustang Mach E Reddit forum and the Mach E Club.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brookecrothers/2020/10/24/ford-mustang-mach-e-electric-car-sees-first-firm-production-dates-tesla-model-y-rival-revs-up-production/",
-      "originalUrl": "https://www.forbes.com/sites/brookecrothers/2020/10/24/ford-mustang-mach-e-electric-car-sees-first-firm-production-dates-tesla-model-y-rival-revs-up-production/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f93de099eb2528efb937002%2F0x0.jpg%3FcropX1%3D193%26cropX2%3D1526%26cropY1%3D0%26cropY2%3D750",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brookecrothers/2020/10/24/ford-mustang-mach-e-electric-car-sees-first-firm-production-dates-tesla-model-y-rival-revs-up-production/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brookecrothers/2020/10/24/ford-mustang-mach-e-electric-car-sees-first-firm-production-dates-tesla-model-y-rival-revs-up-production/amp/",
-      "publishedDateTime": "2020-10-25T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-coming-soon-facial-recognition-system-for-dubai-metro-stations.md",
-      "title": "Coming soon: Facial recognition system for Dubai Metro stations",
-      "excerpt": "Dubai is introducing a facial recognition system on public transport to beef up security, officials said on Sunday as a new simulation and training facility was launched for the Transport Security Department in the emirate. The Hamdan Smart Station for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/news/transport/coming-soon-facial-recognition-system-for-dubai-metro-stations",
-      "originalUrl": "https://www.khaleejtimes.com/news/transport/coming-soon-facial-recognition-system-for-dubai-metro-stations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.khaleejtimes.com/storyimage/KT/20201025/ARTICLE/201029285/AR/0/AR-201029285.jpg&NCS_modified=20201025182405&exif=.jpg",
-          "width": 1194,
-          "height": 776,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khaleejtimes.com/news/transport/coming-soon-facial-recognition-system-for-dubai-metro-stations",
-      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/news/transport/coming-soon-facial-recognition-system-for-dubai-metro-stations",
-      "publishedDateTime": "2020-10-25T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-determining-the-likelihood-that-an-ai-patent-application-will-be-allowed-at-the-uspto.md",
-      "title": "Determining the Likelihood that an AI Patent Application Will Be Allowed at the USPTO",
-      "excerpt": "As computing power and large datasets become more available, the use of artificial intelligence (AI) in technology is exploding around the world. The USPTO has taken steps to adapt to AI inventions, asking in August of 2019 for public comment on questions ranging from AI inventorship to how to best consider AI elements of inventions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ipwatchdog.com/2020/10/25/determining-likelihood-ai-patent-application-will-allowed-uspto/id=126687/",
-      "originalUrl": "https://www.ipwatchdog.com/2020/10/25/determining-likelihood-ai-patent-application-will-allowed-uspto/id=126687/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ipwatchdog.com/wp-content/uploads/2020/10/546_MTcwMjIyX0xpa2VfUm9ib3QwMDEtMDE-scaled.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-25T09:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IPWatchdog",
-        "domain": "ipwatchdog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],
