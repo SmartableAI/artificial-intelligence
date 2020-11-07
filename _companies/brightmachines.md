@@ -2,7 +2,7 @@
 name: "Bright Machines"
 overview: "We deliver intelligent, software-defined manufacturing by bringing together our flexible factory robots with intelligent software, production data and machine learning. Our growing, global team of more than 300 robotics, software and manufacturing industry veterans believe building physical things should be as seamless and simple as creating digital products. Our software-defined manufacturing platform helps customers innovate faster to meet the growing demands of a new era of manufacturing."
 type: "profile"
-heat: 42
+heat: 50
 
 website: https://www.brightmachines.com/
 
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=sU4h4V4pDi4"
 
-secured: "yH2Kko3NlPckoaPu/c/FUm+Gx2tHUdE2I3eQ2Jm4PWpS8JZpVsRTxTTjxGLmKmv0KaevgLwaH34L0BBz/6cXi2it+s9znQdd1IiCDZlFQWdqntuAWWUKjnMrQfoxfmJOWvUAK5N7qutkEdudAFupdvHqJ2j34WvbWiDeatMIT+zzsZCMWWGeE3xmEhDUJT+uVT/rjfOjpKuqvQACkh09sjD+Py7ybm6hxlNvGK+wRA5q8PE4iJLvGo8DWkoD/eiTgXFxIcuTklRm2hf6v6UQGq0Y/a9O/7chLjeXcG7TOEFnzaCbHIwOzLYos5UJOV5TBFpQRSnYnlloXZNtnpQJLKlstlRYoENOXbG6yjPl4jw4kNXR+g0Cw1HekzySSTQSSVnw1pndNrgtKYDIGFNtwQ==;zCC7SV6quKXx8lpN0si+xQ=="
+secured: "klG2cMeAvpJ3CHU4eaJdungc61QPX95ra2T+Hei8IpwQKACWbv96KNFD7b8Ad1PM6q7CndIMaxAd/wrjMQmAPRV6ugfKgiMO6Gx0JRMGRBAM6Adwav7sXW3JR0kaVgQ3qpNDNvRoVWScrVpTLtkEUprTMh5CuyZAvXyrapmjkUxKZ9Acr8hjBViv41D7tsS0B4gxlEuI9XcmyT6ck7TH2zopbS/7fUmKlnulRNACLoNV+BX8rSdB+IpqtrUbB+HeLY+Y4gruFuXERzYUAEL8/THfl7ua1LHgr+zCm6250oxyjerHz/iTKsOwHMeF81ABRZxLF6IZsmmeZCWimu/hRZ8JaaVxbIxNh/OmGklcFonnHXTdPp8f06gPg884ehpjmUGiaO24oEq8PTlKdSDNUQ==;JfUIaqrjhc0M51B3qYrYvg=="
 ---
 

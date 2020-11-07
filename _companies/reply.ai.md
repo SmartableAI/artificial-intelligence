@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "replydotai"
   url: "https://twitter.com/replydotai"
-  followers: 1462
+  followers: 1463
 
 size: 11-50 employees
 yearFounded: 2016
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=m4FgFkrL0wI"
 
-secured: "1NRL6YivO5U7czpL6riestxUcfh+OAmfCt0jz2xoyF8zC+PuENvoRfkxvm1qiW9pqv0QyQSMkEAekaZeZUglozWWmyn5jwXNqUJ5QMZ4p3+K0+P0ahwUs8ka+ZsFLSp1LjyEG6ixfsTvOgox9BP0KkSMhh+XcZEADCkvI/PS3iu51acatztPm9/fmwyAehoKUHb1Cb9zQtGlymuKOixN4hHDaDHhfL070fZnoBu36jzEKNbBvFM7jAyVMMWtNO+fynyN5VDw/1g9Nf+PcuGSqM6ub9LG2A4y3do8ui008vEtGjKa6wwoYQvm3iZpIWrOEZ126z82zqthZBbvppAjhiPjHkVQxoZxCaGFxfizfV0QoJGYMnRG7H6prEe6+Tj0yay7smMtRGGi5OQ7DsUvTYIuR1V8Zn3FxK8wA5v7pHA=;07CYhpSImvcikr3Tos/IMQ=="
+secured: "QY6ofP4ART8HRqWsFEQC/6rUQb0+BEsgk1g2DXqUEafljpEb4lVfC2hpM5nueabuKnQPKXvNpmpmx8eKmxSQZygra9aHr9XDPel4P4f6zdfMUoX+3Ry3Dx9nNVvIB77Y0bO/1PY3VxRpfmnn4fPciokdmCAfa6NQeYRpvWRalYF7SsKP55+ymEhcIYbXNLulN1ck8NCpVlNguP2hcj84RPMizpKBwD+VKkM8GWzD7bl3v+/VrbUFdcASOKESZwiDINacPvJsSaa6aJjfBkFMgC+Blj9GZR1utq0q7jjyo3m3dyCyDebpa3t9ENZIzLVsTpFUQAMtnYkLAxrtr7+a9a311uwA7TuU46KYCFSQhw09cOHYbhfIi6m8xdeT4Dxc1iWKUeLQMtsQ4J8tpJz/4C6eGKhpAxZIzQGLavjGgbg=;iU5hLUvLhxlRDECR34ZTOw=="
 ---
 
