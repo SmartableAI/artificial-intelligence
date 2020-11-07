@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/3d-printed-hearts-self-driv
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/3d-printed-hearts-self-driving-buses-and-robots/"
 type: article
 quality: 91
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla is going to expand Full Self-Driving to Canada and Norway next"
-    excerpt: "Elon Musk confirmed that Tesla is going to expand its Full Self-Driving beta software to Canada and Norway. As we have been reporting extensively over the last few weeks, Tesla has started pushing an early beta (alpha really) of its “Full Self-Driving” software."
-    publishedDateTime: 2020-11-02T23:33:00Z
-    webUrl: "https://electrek.co/2020/11/02/tesla-expand-full-self-driving-canada-norway-next/"
-    ampWebUrl: "https://electrek.co/2020/11/02/tesla-expand-full-self-driving-canada-norway-next/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/02/tesla-expand-full-self-driving-canada-norway-next/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 89
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-FSD-update.jpg?quality=82&strip=all"
-        width: 2774
-        height: 1122
-        isCached: true
   - title: "Tesla Full Self-Driving Beta appears to detect and avoid road debris in video"
     excerpt: "Driving Beta has impressed with its capacity to navigate city streets and it now looks like it can also detect and avoid road debris, according to a new video. Like Tesla Autopilot, the automaker’s new Full Self-Driving Beta requires driver attention at all times since it can encounter things that it doesn’t know"
     publishedDateTime: 2020-11-04T11:24:00Z

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Walmart Scraps Plan to Have Robots Scan Shelves"
-    excerpt: "The retail giant is ending its push to have machines developed by Bossa Nova Robotics rove stores to keep track of inventory, after discovering during the coronavirus pandemic that humans can help get similar results."
-    publishedDateTime: 2020-11-03T00:29:00Z
-    webUrl: "https://www.wsj.com/articles/walmart-shelves-plan-to-have-robots-scan-shelves-11604345341"
-    ampWebUrl: "https://www.wsj.com/amp/articles/walmart-shelves-plan-to-have-robots-scan-shelves-11604345341"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/walmart-shelves-plan-to-have-robots-scan-shelves-11604345341"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 172
-    images:
-      - url: "https://images.wsj.net/im-253418/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Walmart is giving up on shelf-scanning robots in favor of humans"
     excerpt: "Walmart began using robots supplied by Bossa Nova Robotics in 2017, with initial deployments in 50 locations. The mobile robots would simplify routine work in stores, said the company, using machine vision to scan shelves and identify what products needed restocking."
     publishedDateTime: 2020-11-03T11:45:00Z

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition used to arrest protestor at Trump bible photo op"
-    excerpt: "Of course a little known facial recognition tool was used on Black Lives Matter protestors. This past June, as protestors were tear-gassed in Washington D.C.'s Lafayette Square so that Donald ..."
-    publishedDateTime: 2020-11-03T00:57:00Z
-    webUrl: "https://mashable.com/article/facial-recognition-arrest-black-lives-matter-protestor-trump-bible-photo-op/"
-    ampWebUrl: "https://mashable.com/article/facial-recognition-arrest-black-lives-matter-protestor-trump-bible-photo-op.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-recognition-arrest-black-lives-matter-protestor-trump-bible-photo-op.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 89
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F11%252F03%252F6d%252F6a312ae876144e70902ef7e36d22a5d8.cc9a5.png%252F1200x630.png?signature=j_Jk2ogosSfTENbLK-N3BaeM0vE="
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cops Used Previously Undisclosed Facial Recognition System To Identify Protestor Accused Of Assault"
     excerpt: "At an otherwise peaceful protest in Washington, D.C. this past June, one attendee is alleged to have punched an officer in the face before fleeing. According to court documents reviewed by The Washington Post,"
     publishedDateTime: 2020-11-03T19:03:00Z

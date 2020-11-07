@@ -1,47 +1,32 @@
 ---
 category: news
-title: "Microsoft Partners With Adobe and C3.ai on Advanced CRM"
-excerpt: "Microsoft announced a partnership with Adobe and C3.ai to develop and market customized customer relationship management solutions."
-publishedDateTime: 2020-11-05T16:46:00Z
-originalUrl: "https://www.investopedia.com/microsoft-partners-with-adobe-and-c3-ai-on-advanced-crm-5086030"
-webUrl: "https://www.investopedia.com/microsoft-partners-with-adobe-and-c3-ai-on-advanced-crm-5086030"
+title: "GIGABYTE and Microsoft Azure AI Notebook Performance Investigation"
+excerpt: "Today we take a look at Microsoft's Azure AI for mobile computing. The issue with gaming notebooks is their size and weight constraints, and while people want to be able to play their beloved ..."
+publishedDateTime: 2020-11-04T00:57:00Z
+originalUrl: "https://www.tweaktown.com/articles/9188/gigabyte-microsoft-azure-ai-notebook-performance-investigation/index.html"
+webUrl: "https://www.tweaktown.com/articles/9188/gigabyte-microsoft-azure-ai-notebook-performance-investigation/index.html"
+ampWebUrl: "https://www.tweaktown.com/articles/9188/gigabyte-microsoft-azure-ai-notebook-performance-investigation/amp.html"
+cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/articles/9188/gigabyte-microsoft-azure-ai-notebook-performance-investigation/amp.html"
 type: article
-quality: 71
-heat: -1
-published: false
+quality: 89
+heat: 199
+published: true
 
 provider:
-  name: Investopedia
-  domain: investopedia.com
+  name: TweakTown
+  domain: tweaktown.com
 
 topics:
   - Microsoft AI
   - AI
-  - AI in Sales
 
 images:
-  - url: "https://www.investopedia.com/thmb/47JmigGS-lMsb_EEqQwguUpOIFE=/800x531/filters:fill(auto,1)/crm2-56a7dca13df78cf7729a0938.jpg"
-    width: 800
-    height: 531
+  - url: "https://static.tweaktown.com/content/9/1/9188_02_gigabyte-microsoft-azure-ai-notebook-performance-investigation.png"
+    width: 620
+    height: 547
     isCached: true
 
 related:
-  - title: "GIGABYTE and Microsoft Azure AI Notebook Performance Investigation"
-    excerpt: "Today we take a look at Microsoft's Azure AI for mobile computing. The issue with gaming notebooks is their size and weight constraints, and while people want to be able to play their beloved ..."
-    publishedDateTime: 2020-11-04T00:57:00Z
-    webUrl: "https://www.tweaktown.com/articles/9188/gigabyte-microsoft-azure-ai-notebook-performance-investigation/index.html"
-    ampWebUrl: "https://www.tweaktown.com/articles/9188/gigabyte-microsoft-azure-ai-notebook-performance-investigation/amp.html"
-    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/articles/9188/gigabyte-microsoft-azure-ai-notebook-performance-investigation/amp.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 89
-    images:
-      - url: "https://static.tweaktown.com/content/9/1/9188_02_gigabyte-microsoft-azure-ai-notebook-performance-investigation.png"
-        width: 620
-        height: 547
-        isCached: true
   - title: "Microsoft’s Azure cloud platform will be the brain for their future autonomous robots!"
     excerpt: "Azure is run by Artificial Intelligence that provides users with a customizable space to work, save, share, and connect through multi-functional, serverless software. Halawany’s robot renders for Microsoft Middle East,"
     publishedDateTime: 2020-11-07T01:45:00Z
@@ -71,6 +56,20 @@ related:
       - url: "https://images.livemint.com/img/2020/11/06/600x338/tech_1581859988035_1604663954905.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "Microsoft Partners With Adobe and C3.ai on Advanced CRM"
+    excerpt: "Microsoft announced a partnership with Adobe and C3.ai to develop and market customized customer relationship management solutions."
+    publishedDateTime: 2020-11-05T16:46:00Z
+    webUrl: "https://www.investopedia.com/microsoft-partners-with-adobe-and-c3-ai-on-advanced-crm-5086030"
+    type: article
+    provider:
+      name: Investopedia
+      domain: investopedia.com
+    quality: 71
+    images:
+      - url: "https://www.investopedia.com/thmb/47JmigGS-lMsb_EEqQwguUpOIFE=/800x531/filters:fill(auto,1)/crm2-56a7dca13df78cf7729a0938.jpg"
+        width: 800
+        height: 531
         isCached: true
   - title: "Microsoft adds Hindi to its Text Analytics service"
     excerpt: "Text Analytics is part of the Microsoft Azure Cognitive Services. The functionality provided by Text Analytics includes sentiment analysis, opinion mining, key phrase extraction, language detection, named entity recognition, and Personally Identifiable ..."
@@ -176,6 +175,6 @@ related:
         height: 430
         isCached: true
 
-secured: "xwgbjFN9IRhRxQ/BOYGEAKN0GVIPSiba1BQLNTPgTHobB27Eldb6yIRBZouhrnBL2qcdew9NLPnoxeQDKD7sjf3mGAry0iD5xIaYHBAXA0I8oq8eOM1DnnkMaDQjonEvuoECBluZ9b2jXTu1TGsZeTrVJ2CtEv7F5kd/H3ZNK+15iPa20CIXEUD+/HSCkhphmsZjxKpxxShgoNNEgIMcw3+eVXxi08VC0P8L/B6XrU1iwIwv6E7r2qK770iefX89lBijH5Oyeabn5rdn8L7NwKcebpGPFwo6Y1wcijp3bOpgytakQvruakR0MbJp9sk3+DtnOi+zNjZjshx4cg8o/9dx2ShJyGmxI4UDJeh4ufJ6vlyimDgcTnZfgIkjd4oeN666+SNJbqaY+HfJjXwVaoNsquKBvYT3R1/B9oCtyMrN0BDUshxQwU43lZ4ybs7BSb2HuZ2Fd30NNfzHG00HPgfeli+m2jADPNNkSiaRpkRgiI17EITyub7LhDDgQWrONxNdoPCp1Bv5gnz9c1t7kQ==;9hXwvkJL3V0LwU0C/jH8Jw=="
+secured: "eOwAVTtOQH2azgfejCkdWqIoSGzdbtzWE2WsFV4qWV2Uk3cQ5E5Am9v2Sf9VBBf5McTyJ4lvMrjk0WzzItOQr0HA4BbQMrSTPb/a9/Dh8kZUGpPIxuuhjtnL6D7CGHBVajYsCUEhiZRXtDTFE72beBoWzkTL1OGzLYhTmAqpaRLCaM0snfu0hBmoh0xZqzVuSMDD5HRl5rv79TflF1NWfDXjJc9Vl5k+I+AITw+uHezdLOHZu1iw7lMfrq9ZsO4VarEwRFU0TtAv6aD0+UxzZ6TKHteE/qloHLw2FsZlO9zoU6/k1uyTuaChOMIe/EQVMoApPm9vBv/pbmGhbVAAS679ad2HwJPl9NWFNt3Fu7Y=;9qm/6d3jzaTtDEJQY9HE6Q=="
 ---
 

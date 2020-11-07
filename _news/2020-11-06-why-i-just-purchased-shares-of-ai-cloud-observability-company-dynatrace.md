@@ -31,16 +31,16 @@ images:
 
 related:
   - title: "Live Q&A: How observability, automation and AI have become essential to digital business success"
-    excerpt: "As demand for digital transformation soars, CIOs are under pressure to transform how their teams work. How are they faring?"
-    publishedDateTime: 2020-11-06T22:36:00Z
-    webUrl: "https://www.infoworld.com/resources/210425/live-q-a-how-observability-automation-and-ai-have-become-essential-to-digital-business-success"
+    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
+    publishedDateTime: 2020-11-06T22:25:00Z
+    webUrl: "https://www.computerworld.com/resources/210425/live-q-a-how-observability-automation-and-ai-have-become-essential-to-digital-business-success"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 54
+      name: Computerworld
+      domain: computerworld.com
+    quality: 24
     images:
-      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
         width: 300
         height: 300
         isCached: true

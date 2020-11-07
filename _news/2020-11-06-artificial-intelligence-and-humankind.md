@@ -70,6 +70,20 @@ related:
         width: 620
         height: 455
         isCached: true
+  - title: "Politics and artificial intelligence"
+    excerpt: "The Tuesday (or shall I say week) that people not only in the United States, but around the world watched as they developed a hodgepodge of feelings: fear,"
+    publishedDateTime: 2020-11-07T11:15:00Z
+    webUrl: "https://www.smdailyjournal.com/opinion/columnists/politics-and-artificial-intelligence/article_05100ae2-209b-11eb-9b79-5be1b94cbec2.html"
+    type: article
+    provider:
+      name: San Mateo Daily Journal
+      domain: smdailyjournal.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/smdailyjournal.com/content/tncms/assets/v3/editorial/b/de/bdec3058-5df9-11e7-9cf8-b7100a001238/5956f6171abde.image.jpg?resize=576%2C348"
+        width: 576
+        height: 348
+        isCached: true
 
 secured: "ndporckBCqnEe6Wk7XPVe4xm7FuEH6y3ngKlNXltC1WidlDJ4ZxbPb3bnoaweL4ZqCHpKLj/YdnAoop59xIuI58Le2+fB4dM99Rezs+PT1IbrMRNxMDlXnt5lpwOOHpK/gIA2aK9nuE1aqE1s2mibDaUYJvPItqn62PvsfLcAs8BMIaX9F9OrpZFrG2Xy//gep3hxJGtZlAIZDv/hWdYmVGe4Wg0wVuUf4NCiWbJh9ze4gQW+7VBHQgp9X0gF854XNLq2kWycxx0IIaotWR/eHjE8wi9evnOvvTwmM7oF0P5kzr24EFPq8hnelLf46ue1KoSJjxE7UdJxzXbHOzVfpV/vxcxWBNsXvBtjCphUkQ=;tWyJx57zWcNIZUiUHayXQw=="
 ---

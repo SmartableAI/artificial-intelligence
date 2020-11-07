@@ -57,6 +57,20 @@ related:
         width: 651
         height: 366
         isCached: true
+  - title: "Politics and artificial intelligence"
+    excerpt: "The Tuesday (or shall I say week) that people not only in the United States, but around the world watched as they developed a hodgepodge of feelings: fear,"
+    publishedDateTime: 2020-11-07T11:15:00Z
+    webUrl: "https://www.smdailyjournal.com/opinion/columnists/politics-and-artificial-intelligence/article_05100ae2-209b-11eb-9b79-5be1b94cbec2.html"
+    type: article
+    provider:
+      name: San Mateo Daily Journal
+      domain: smdailyjournal.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/smdailyjournal.com/content/tncms/assets/v3/editorial/b/de/bdec3058-5df9-11e7-9cf8-b7100a001238/5956f6171abde.image.jpg?resize=576%2C348"
+        width: 576
+        height: 348
+        isCached: true
   - title: "Artificial intelligence and humankind"
     excerpt: "Sir, – Dr Pearse Keane is to be highly commended for his research (Kevin O’Sullivan, “Irish researcher develops AI to help prevent sight loss”, Science, November 4th). However, his statement that, “if something produces better outcomes . . . it should be irrelevant whether it’s a human or a machine or a fusion of the two that achieves that”, needs to be challenged. This type of thinking, in every field of human endeavour, will inevitably lead to the displacement of us humans, as progress is too closely linked to profit and we are just too costly and inefficient. People who care for other human beings need to look at the broader picture, the growing worldwide inequality, and devise algorithms and machines that incorporate inefficient but caring humans in the mix. Otherwise we won’t be able to afford their wonderful services. – Yours, etc,"
     publishedDateTime: 2020-11-06T00:49:00Z

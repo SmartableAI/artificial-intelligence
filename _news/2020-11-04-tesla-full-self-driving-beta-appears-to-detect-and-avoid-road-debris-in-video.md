@@ -47,22 +47,6 @@ related:
         width: 910
         height: 555
         isCached: true
-  - title: "Tesla is going to expand Full Self-Driving to Canada and Norway next"
-    excerpt: "Elon Musk confirmed that Tesla is going to expand its Full Self-Driving beta software to Canada and Norway. As we have been reporting extensively over the last few weeks, Tesla has started pushing an early beta (alpha really) of its “Full Self-Driving” software."
-    publishedDateTime: 2020-11-02T23:33:00Z
-    webUrl: "https://electrek.co/2020/11/02/tesla-expand-full-self-driving-canada-norway-next/"
-    ampWebUrl: "https://electrek.co/2020/11/02/tesla-expand-full-self-driving-canada-norway-next/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/02/tesla-expand-full-self-driving-canada-norway-next/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 89
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-FSD-update.jpg?quality=82&strip=all"
-        width: 2774
-        height: 1122
-        isCached: true
   - title: "The Robots Are Coming To Miami: Ford Rolls Out Self-Driving Car Outpost"
     excerpt: "Ford Autonomous Vehicles, a subsidiary of Ford Motor Cos., announced last week that it will be opening a command center west of Miami International Airport, a key step in the company's goal to offer ride-hailing and commercial delivery services by 2022."
     publishedDateTime: 2020-11-04T19:29:00Z

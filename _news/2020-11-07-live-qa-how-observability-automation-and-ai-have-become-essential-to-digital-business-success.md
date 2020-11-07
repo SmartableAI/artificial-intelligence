@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Live Q&A: How observability, automation and AI have become essential to digital business success"
-excerpt: "As demand for digital transformation soars, CIOs are under pressure to transform how their teams work. How are they faring?"
-publishedDateTime: 2020-11-06T22:36:00Z
-originalUrl: "https://www.infoworld.com/resources/210425/live-q-a-how-observability-automation-and-ai-have-become-essential-to-digital-business-success"
-webUrl: "https://www.infoworld.com/resources/210425/live-q-a-how-observability-automation-and-ai-have-become-essential-to-digital-business-success"
+excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
+publishedDateTime: 2020-11-06T22:25:00Z
+originalUrl: "https://www.computerworld.com/resources/210425/live-q-a-how-observability-automation-and-ai-have-become-essential-to-digital-business-success"
+webUrl: "https://www.computerworld.com/resources/210425/live-q-a-how-observability-automation-and-ai-have-become-essential-to-digital-business-success"
 type: article
-quality: 54
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Computerworld
+  domain: computerworld.com
 
 topics:
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
     width: 300
     height: 300
     isCached: true
@@ -45,6 +41,6 @@ related:
         height: 542
         isCached: true
 
-secured: "/m7eBkyVkUkjWOSJBD7u7O0XMV4f4VX2C5Z6Pw3Ycj9J1qvJYm/18RkR8kFS4DlnQEK8Bvh7+DnSFrPtb0Ye8t8AZcexgOLAnUeCfcx+buRy7lojDYi58JzvrVjSwgRI+JgpyIqP3ov6irqAfBRSh2RjvPyXXO+SIJGJXHkqzyXBOramLM7L2Ybhog65aV+HPfZH8Rijopp9/PfS9KPZo5H5knHG1YXS939s9kLQLlSmIrIy3ASoLT20P8avAdOsh8nhwOWutP5+EJZrNNAgGb4PHTgiUpD7L5vwY+pwPQB4/bgqPRtr99RNmLhNvGy6dSZwc6af7vU3FFzGUyv9QCRpuv7MR0d+MvrvY5UuEfE=;sL+DwrYXOqHB22FBquRkZg=="
+secured: "kyTSauVQr7CI8j5XSWJ5S/3zWbrEZW7A1mAnEMkJlVcnbYs6Po/USKiP/rCe2NHMiJ6i+kDAvXCZ8khbOvbd//wXgFU09krMY63znvBBRKGq75lRUgUalLfZxklZhMztK9Q0gAcIp+MKs2v69yV++arFsRQIMKzBbiGLfBTDcWP4XsCxZpW+WJq7AiRdqM98me5TS5WFTwEqCinEgBg1bHj+9F3UKDEqmc+feABhxqDayDfnXJiRKjtBupF+Mzp2hnLcmSyy8FPaIb6afwbWGGp7xXSHdF1ZeQrhZhKrKrX9QBZcmeiLpp6UQaOksDMjau6cDWnE8ZxWfqCxyhZNFbceL9DApM0QGW+UzuRM6+Y=;SNArovgpB/CmYxBcO7I2gg=="
 ---
 

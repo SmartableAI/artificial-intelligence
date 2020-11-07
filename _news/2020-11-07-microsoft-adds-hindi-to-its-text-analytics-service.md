@@ -27,51 +27,104 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft adds Hindi support to its Text Analytics Service"
-    excerpt: "Microsoft has announced that it will be enabling support for Hindi within its Text Analytics service. The Text Analytics service powered by Microsoft Azure is part of the Microsoft Azure Cognitive Services."
-    publishedDateTime: 2020-11-06T06:14:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-adds-hindi-support-to-its-text-analytics-service/article33037173.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-adds-hindi-support-to-its-text-analytics-service/article33037173.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-adds-hindi-support-to-its-text-analytics-service/article33037173.ece/amp/"
+  - title: "GIGABYTE and Microsoft Azure AI Notebook Performance Investigation"
+    excerpt: "Today we take a look at Microsoft's Azure AI for mobile computing. The issue with gaming notebooks is their size and weight constraints, and while people want to be able to play their beloved ..."
+    publishedDateTime: 2020-11-04T00:57:00Z
+    webUrl: "https://www.tweaktown.com/articles/9188/gigabyte-microsoft-azure-ai-notebook-performance-investigation/index.html"
+    ampWebUrl: "https://www.tweaktown.com/articles/9188/gigabyte-microsoft-azure-ai-notebook-performance-investigation/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/articles/9188/gigabyte-microsoft-azure-ai-notebook-performance-investigation/amp.html"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 59
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 89
     images:
-      - url: "https://www.thehindubusinessline.com/info-tech/e0abff/article33037172.ece/ALTERNATES/LANDSCAPE_615/BL07MICROSOFT"
-        width: 615
-        height: 384
+      - url: "https://static.tweaktown.com/content/9/1/9188_02_gigabyte-microsoft-azure-ai-notebook-performance-investigation.png"
+        width: 620
+        height: 547
         isCached: true
-  - title: "Microsoft & Others Catalog Threats to Machine Learning Systems"
-    excerpt: "Thirteen organizations worked together to create a dictionary of techniques used to attack ML models and warn that such malicious efforts will become more common."
-    publishedDateTime: 2020-11-03T00:32:00Z
-    webUrl: "https://www.darkreading.com/vulnerabilities---threats/advanced-threats/microsoft-and-others-catalog-threats-to-machine-learning-systems/d/d-id/1339354"
+  - title: "Microsoft’s Azure cloud platform will be the brain for their future autonomous robots!"
+    excerpt: "Azure is run by Artificial Intelligence that provides users with a customizable space to work, save, share, and connect through multi-functional, serverless software. Halawany’s robot renders for Microsoft Middle East,"
+    publishedDateTime: 2020-11-07T01:45:00Z
+    webUrl: "https://www.yankodesign.com/2020/11/06/microsofts-azure-cloud-platform-will-be-the-brain-for-their-future-autonomous-robots/"
     type: article
     provider:
-      name: Dark Reading
-      domain: darkreading.com
+      name: Yanko Design
+      domain: yankodesign.com
+    quality: 78
+    images:
+      - url: "https://www.yankodesign.com/images/design_news/2020/10/worlds_most_secure_portable_SSD-510x314.jpg"
+        width: 510
+        height: 314
+        isCached: true
+  - title: "Microsoft AI Summit: Reimagining digital governance with Cloud, AI, IoT"
+    excerpt: "India has been at the forefront of digital acceleration, especially after covid-19 that has moved people to remote working, students to online education, and other such interventions that are no more an option,"
+    publishedDateTime: 2020-11-06T12:11:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/microsoft-ai-summit-reimagining-digital-governance-with-cloud-ai-iot-11604663602516.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/microsoft-ai-summit-reimagining-digital-governance-with-cloud-ai-iot/amp-11604663602516.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/microsoft-ai-summit-reimagining-digital-governance-with-cloud-ai-iot/amp-11604663602516.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 76
+    images:
+      - url: "https://images.livemint.com/img/2020/11/06/600x338/tech_1581859988035_1604663954905.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Microsoft Partners With Adobe and C3.ai on Advanced CRM"
+    excerpt: "Microsoft announced a partnership with Adobe and C3.ai to develop and market customized customer relationship management solutions."
+    publishedDateTime: 2020-11-05T16:46:00Z
+    webUrl: "https://www.investopedia.com/microsoft-partners-with-adobe-and-c3-ai-on-advanced-crm-5086030"
+    type: article
+    provider:
+      name: Investopedia
+      domain: investopedia.com
+    quality: 71
+    images:
+      - url: "https://www.investopedia.com/thmb/47JmigGS-lMsb_EEqQwguUpOIFE=/800x531/filters:fill(auto,1)/crm2-56a7dca13df78cf7729a0938.jpg"
+        width: 800
+        height: 531
+        isCached: true
+  - title: "Large-Scale Multilingual AI Models from Google, Facebook, and Microsoft"
+    excerpt: "Researchers from Google, Facebook, and Microsoft have published their recent work on multilingual AI models. Google and Microsoft have released models that achieve new state-of-the-art performance on NLP tasks measured by the XTREME benchmark,"
+    publishedDateTime: 2020-11-03T14:10:00Z
+    webUrl: "https://www.infoq.com/news/2020/11/multilingual-ai-models/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
     quality: 56
     images:
-      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
-        width: 600
-        height: 600
+      - url: "https://res.infoq.com/news/2020/11/multilingual-ai-models/en/headerimage/multilingual-ai-models-header-1604247885452.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Google partners with Knowlarity to expand its speech analytics platform in India"
-    excerpt: "Google has partnered with Singapore-headquartered cloud telephony firm Knowlarity to expand its speech recognition and analytics services in India."
-    publishedDateTime: 2020-11-03T06:33:00Z
-    webUrl: "https://www.ciol.com/google-partners-knowlarity-expand-speech-analytics-platform-india/"
-    ampWebUrl: "https://www.ciol.com/google-partners-knowlarity-expand-speech-analytics-platform-india/amp/"
-    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/google-partners-knowlarity-expand-speech-analytics-platform-india/amp/"
+  - title: "Artificial Intelligence Market 2020 New Technology Research – Google, IBM, Baidu, Microsoft, Apple Inc., Ipsoft, NVIDIA corporation"
+    excerpt: "Artificial Intelligence Global Market Report 2020-30: Covid 19 Growth and Change The artificial intelligence market consists of sales of the artificial intelligence software and related services. Artificial Intelligence (AI) some times referred to as machine intelligence."
+    publishedDateTime: 2020-11-03T11:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-new-technology-research-google-ibm-baidu-microsoft-apple-inc-ipsoft-nvidia-corporation-2020-11-03"
     type: article
     provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 41
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+  - title: "Microsoft are the ones behind the gigantic data center in Iowa, have spent $700 million so far"
+    excerpt: "The $700 million \"Project Mountain\" data center project in Des Moines, Iowa, has an official owner: Microsoft. Late last week, the Iowa Economic Development Authority Board approved $20 million ..."
+    publishedDateTime: 2020-11-03T18:22:00Z
+    webUrl: "https://www.tweaktown.com/news/31271/microsoft-are-the-ones-behind-the-gigantic-data-center-in-iowa-have-spent-700-million-so-far/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/31271/microsoft-are-the-ones-behind-the-gigantic-data-center-in-iowa-have-spent-700-million-so-far/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/31271/microsoft-are-the-ones-behind-the-gigantic-data-center-in-iowa-have-spent-700-million-so-far/amp.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 49
     images:
-      - url: "https://www.ciol.com/wp-content/uploads/2020/10/Google-Cloud.jpg"
-        width: 850
-        height: 400
+      - url: "https://static.tweaktown.com/news/3/1/31271_09_microsoft_are_the_ones_behind_the_gigantic_data_center_in_iowa_have_spent_700_million_so_far.jpg"
+        width: 380
+        height: 271
         isCached: true
   - title: "Microsoft adds Hindi to its Text Analytics service"
     excerpt: "Microsoft on Thursday said it has added Hindi to its Text Analytics service to help businesses strengthen customer support through complete analysis of user perception and feedback in the most widely spoken language in India."
@@ -84,29 +137,43 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 39
-  - title: "Microsoft Adds Hindi To Its Text Analytics Service To Strengthen Sentiment Analysis Support"
-    excerpt: "Microsoft has announced the addition of Hindi as the latest language under its Text Analytics service to support businesses."
-    publishedDateTime: 2020-11-05T09:18:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-adds-hindi-to-its-text-analytics-service-to-strengthen-sentiment-analysis-support/"
+  - title: "QuEST Global launches Center of Excellence for Microsoft Azure to develop innovative solutions for customers"
+    excerpt: "QuEST Global, a global product engineering and lifecycle services company, today announced it has signed an agreement with Microsoft to launch a dedicated Center for Excellence (CoE) for Microsoft Azure."
+    publishedDateTime: 2020-11-03T12:00:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-pune-products-and-services-f8ffb465162d071f3e77db0782e3abf3"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 29
+      name: Associated Press
+      domain: apnews.com
+    quality: 35
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/11/aim_micro-compressed.jpg"
-        width: 1600
-        height: 1034
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Discover Announces New Data & Analytics Organization"
-    excerpt: "Discover Financial Services (NYSE: DFS) announced on Tuesday the launch of its new Data and Analytics (DNA) organization. Discover revealed that the new organization represents its commitment to technological advancement in financial services with a focus on customer engagement and marketing technologies."
-    publishedDateTime: 2020-11-03T11:40:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/11/168720-discover-announces-new-data-analytics-organization/"
+  - title: "Self-driving car start-up Wayve deploys Microsoft Azure cloud technology"
+    excerpt: "Cambridge, UK-based Wayve, developer of AI software for self-driving cars, has signed a contract with Microsoft for use of the Azure cloud"
+    publishedDateTime: 2020-11-05T13:07:00Z
+    webUrl: "https://www.telecompaper.com/news/self-driving-car-start-up-wayve-deploys-microsoft-azure-cloud-technology--1360668"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 4
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 33
+  - title: "Government leaders share their vision on the next frontier of tech innovation in governance, at the Microsoft Digital Governance Cloud & AI Summit"
+    excerpt: "Cloud and AI are playing a central role in reshaping education ... agriculture, education, logistics, language translation and more. “ Dr. Rajendra Kumar, Additional Secretary, Ministry of Electronics and Information Technology (MeitY), Govt."
+    publishedDateTime: 2020-11-06T10:56:00Z
+    webUrl: "https://news.microsoft.com/en-in/government-leaders-share-their-vision-on-the-next-frontier-of-tech-innovation-in-governance-at-the-microsoft-digital-governance-cloud-ai-summit/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 18
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2020/11/digital-governance-cloud-and-ai-summit-768x430.jpg"
+        width: 768
+        height: 430
+        isCached: true
 
 secured: "CezNamBe5lhe03/EWvkxdECQn/9DtMVuqdiK+xmw+DUpiZjBaRM17Vfn2biAqBCGnLhR5o7ANitI99cELsDd/n56NbXzfHw8STlttqa8bpKb9Lk7wmJN+TPttk3gitjnfF9jRXct1Lsd2phK5DbrqHmfdTBLhopxh6eKlgNvssYG6nQd5DEz0KmPSs2C2z6LKQ83VkeVUiBgC34cSSdmr3H6xzr9O5gUgkF6MnzZS4ZObFF62jn8mO1np5MWm6J4VDdt/ZFNzObkWBWBZQcf+4QcM/2HERBNFg+0/IGqivHPIGwssbPI29p4AzvvU1+QO5MX8Na2EBXqvPjUrCPHLJArOlBVcDU9NnRLe3K4aopcFCxofWireaavtQCm6qpRirWsajshfT6XKBhzBNqUGFah6AG0OUIUpGqHkdJmpDoxv3Hb0Ftn8Z/D0uTTW7DVQIxqMwpyFa0fOKtVce/WB9kR4xxMZaOoTIga5UNrPqr9ZiNG2tCr3h1XQ4FAO14eglmfpBimGP/iB8tkmqG8tQ==;COUT2AiHnrmftl7L6GiTlA=="
 ---

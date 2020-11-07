@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://steelguru.com/uploads/news/bmw-ai_72271.jpg"

@@ -14,7 +14,7 @@ provider:
   name: Business Insider
   domain: businessinsider.com
   images:
-    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -59,6 +59,6 @@ related:
         height: 400
         isCached: true
 
-secured: "pvl9xO5jGgd35m7c2Kv2JAkxXf8iPmqB9pYJ5d8hY/uIugfMMFpNKHs4QK2OHQ7n4/JjADVwLG6htJpt4qQbJpJGSYFdfjOUtU1WC1cloDeqbFVSfH+jCzVoUqSqBOPPmueVUCqVeVitqbFvCWGsHxd+4HszpgPlGj2mW8jWlVG0GVInDqlqIu3prLorCHNX+cXfRjaGwEfWI8JlivcIi+YwJDPdIWngw3vV/64osYdc21FNtLCkqnUl1lam3soy3BjcN6vPmFk/Yjvtxsx2uM90STTlKOcKMJq79qFAgwh/jas5Gzb0zMaosVCXHDhDu0UCBPG5mujDkEuNw/i//PfJuXiAi4n1ROhT/LSPiJk=;07OakT5VOhyXiLIKV1fUTA=="
+secured: "JxUm7WjLQM+NiqaH61K3ZHJdUm9uAWTLjxdgFGJlQdK+uYJh/40Wk7mXh9adwN35lMiWvOvrlzLxhOFImN4+oBTERN0OkR1pC7aEPgZWsVCTOKv9rwh/pf3CSu99iPNhvSvbLvNDYKp2/NzzlgVRadEIUuSQrymQci1aFePNZvGyiWhIwnlBGK82xNJOGgT6Hcv83dqpGkUM3afSUf1ANoSALPMMfmwo9F36YGV8Ue169lucYPI/kL6kRFIOmORqZSa1K36YZ5u7EsltX4JoXSkO9I1YEXgoRMc9s/Q6foox3m0snfKltQzFp16zDaSAhgzHObFJrhOwXM0XmBW6l+yYzdxsfh6BQSp0uM1BX1mz/z4vTHXMhL3kaTHlP+q0fncxnMUDIrDGkbx2n5SwlrVrO93Jiql1YerbRaAeX/8f7jrS6uuyEKzsK6jaQHb50JnZidrfDnczXGMlAuBP7FtmWoG+VdQvHoopXm62T54G/BDGKkIH3dSfJ5bhHuTtIUKvVVgbZvnOcCJjjoyHsvwRTCP+F9fy+LVU8MoSW1M=;Dh8yu2W8A1d6tKFJ2K06hw=="
 ---
 
