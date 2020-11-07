@@ -2,6 +2,159 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-10-08-headroom-which-uses-ai-to-supercharge-videoconferencing-raises-5m.md",
+      "title": "Headroom, which uses AI to supercharge videoconferencing, raises $5M",
+      "excerpt": "Videoconferencing has become a cornerstone of how many of us work these days — so much so that one leading service, Zoom, has graduated into verb status because of how much it’s getting used. But does that mean videoconferencing works as well as it should?",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/08/headroom-which-uses-ai-to-supercharge-videoconferencing-raises-5m/",
+      "originalUrl": "https://techcrunch.com/2020/10/08/headroom-which-uses-ai-to-supercharge-videoconferencing-raises-5m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-08-at-4.25.11-PM.png?w=1024",
+          "width": 1024,
+          "height": 975,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/08/headroom-which-uses-ai-to-supercharge-videoconferencing-raises-5m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/08/headroom-which-uses-ai-to-supercharge-videoconferencing-raises-5m/amp/",
+      "publishedDateTime": "2020-10-08T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-adobe-brings-more-ai-powered-tools-to-photoshop-and-premiere-elements-2021.md",
+      "title": "Adobe brings more AI-powered tools to Photoshop and Premiere Elements 2021",
+      "excerpt": "The 2021 versions of Photoshop Elements and Premiere Elements are now available, and Adobe has added a number of AI-powered features to them. Those apps are Adobe’s streamlined versions of Photoshop and Premiere,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/adobe-photoshop-premiere-elements-2021-features-145621547.html",
+      "originalUrl": "https://www.engadget.com/adobe-photoshop-premiere-elements-2021-features-145621547.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fabc49140-0972-11eb-ba75-f5d17a69c7b3&client=amp-blogside-v2&signature=cd018cb59a311d621eb9a96941740f44bd8713c6",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/adobe-photoshop-premiere-elements-2021-features-145621547.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/adobe-photoshop-premiere-elements-2021-features-145621547.html",
+      "publishedDateTime": "2020-10-08T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-densitys-open-area-tool-uses-ai-and-infrared-to-track-physical-workspace-usage.md",
+      "title": "Density’s Open Area tool uses AI and infrared to track physical workspace usage",
+      "excerpt": "Density, a startup building AI-powered, people-counting infrared sensors, today announced a new product called Open Area that can map offices ostensibly without compromising privacy. The company ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/08/densitys-open-area-tool-uses-ai-and-infrared-to-track-physical-workspace-usage/",
+      "originalUrl": "https://venturebeat.com/2020/10/08/densitys-open-area-tool-uses-ai-and-infrared-to-track-physical-workspace-usage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/Open-Area-Angle-e1600978577323.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/08/densitys-open-area-tool-uses-ai-and-infrared-to-track-physical-workspace-usage/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/08/densitys-open-area-tool-uses-ai-and-infrared-to-track-physical-workspace-usage/amp/",
+      "publishedDateTime": "2020-10-08T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-think-big-tech-is-getting-broken-up-buy-alphabet-stock.md",
       "title": "Think Big Tech is Getting Broken Up? Buy Alphabet Stock",
       "excerpt": "Antitrust actions among corporations, particularly those in the tech industry, have received increased attention recently. Many politicians are explicitly calling for the breakup of some of the biggest tech companies out there.",
@@ -1017,135 +1170,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-mediatek-launches-ai-enabled-mt9602-chip-to-power-premium-smart-tvs.md",
-      "title": "MediaTek Launches AI-Enabled MT9602 Chip to Power Premium Smart TVs",
-      "excerpt": "MediaTek officially unveiled the high performance Smart TV SoC MT9602 with comprehensive features enabling modern 4K HDR displays. The new SoC is designed to de",
-      "sourceUrl": null,
-      "webUrl": "https://technuter.com/consumer-electronics/mediatek-launches-ai-enabled-mt9602-chip-to-power-premium-smart-tvs.html",
-      "originalUrl": "https://technuter.com/consumer-electronics/mediatek-launches-ai-enabled-mt9602-chip-to-power-premium-smart-tvs.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://technuter.com/wp-content/uploads/2020/04/MediaTek.jpg",
-          "width": 351,
-          "height": 286,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technuter.com/consumer-electronics/mediatek-launches-ai-enabled-mt9602-chip-to-power-premium-smart-tvs.html/amp",
-      "cdnAmpWebUrl": "https://technuter-com.cdn.ampproject.org/c/s/technuter.com/consumer-electronics/mediatek-launches-ai-enabled-mt9602-chip-to-power-premium-smart-tvs.html/amp",
-      "publishedDateTime": "2020-10-08T00:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technuter.com",
-        "domain": "technuter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-world-sight-day-2020-blink-more-often-to-prevent-computer-vision-syndrome-know-more-expert-tips.md",
-      "title": "World Sight Day 2020: Blink More Often To Prevent Computer Vision Syndrome; Know More Expert Tips",
-      "excerpt": "This dependence on gadgets worsened during the COVID-19 pandemic. This has led to increased incidents of computer vision syndrome or digital eye strain usually presents as one or more of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/health/world-sight-day-2020-blink-more-often-to-prevent-computer-vision-syndrome-know-more-expert-tips-2306974",
-      "originalUrl": "https://www.ndtv.com/health/world-sight-day-2020-blink-more-often-to-prevent-computer-vision-syndrome-know-more-expert-tips-2306974",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2020-10/l0cbgoho_eyes-_625x300_07_October_20.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/health/world-sight-day-2020-blink-more-often-to-prevent-computer-vision-syndrome-know-more-expert-tips-2306974?amp=1&akamai-rum=off",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/health/world-sight-day-2020-blink-more-often-to-prevent-computer-vision-syndrome-know-more-expert-tips-2306974?amp=1&akamai-rum=off",
-      "publishedDateTime": "2020-10-08T00:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-nec-oncoimmunity-as-and-oslo-university-hospital-team-up-to-develop-a-diagnostic-for-covid-19-using-artificial-intelligence.md",
-      "title": "NEC OncoImmunity AS and Oslo University Hospital Team Up to Develop a Diagnostic for COVID-19 Using Artificial Intelligence",
-      "excerpt": "NEC OncoImmunity AS (NOI), a subsidiary of NEC Corporation (NEC), and Oslo University Hospital (OUH) are pleased to announce that they have recently been awarded a prestigious grant from the Research Council of Norway (RCN) to develop an artificial intelligence (AI) platform that will enable the rapid design of T-cell diagnostics for emerging or endemic infectious diseases.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/virus-outbreak-business-technology-pandemics-public-health-e64225e77b534e5aa1c46aee9a23d5a1",
-      "originalUrl": "https://apnews.com/press-release/business-wire/virus-outbreak-business-technology-pandemics-public-health-e64225e77b534e5aa1c46aee9a23d5a1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

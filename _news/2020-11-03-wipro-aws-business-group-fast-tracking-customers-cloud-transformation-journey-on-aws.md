@@ -66,15 +66,6 @@ related:
         width: 405
         height: 228
         isCached: true
-  - title: "WiPro Launches Amazon AWS Cloud Consulting Group"
-    excerpt: "Wipro launches dedicated Amazon Web Services (AWS) cloud consulting group spanning 10,000 AWS-certified consultants, the IT solutions provider says."
-    publishedDateTime: 2020-11-02T15:42:00Z
-    webUrl: "https://www.channele2e.com/channel-partners/csps/wipro-launches-amazon-aws-cloud-consulting-group/"
-    type: article
-    provider:
-      name: ChannelE2E
-      domain: channele2e.com
-    quality: 19
   - title: "Wipro starts dedicated AWS business unit"
     excerpt: "Wipro announced the launch of its dedicated Wipro AWS Business Group (WABG), a unit designed to help customers fast-track their cloud transformation journey on AWS. WABG merges Wipro's industry experience and portfolio of services with AWS's cloud platforms."
     publishedDateTime: 2020-11-03T15:20:00Z

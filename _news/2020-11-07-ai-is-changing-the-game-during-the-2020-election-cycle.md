@@ -46,22 +46,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Artificial Intelligence: ‘Unprecedented’ AI ingests ONE BILLION tweets to predict election"
-    excerpt: "However, this is in no way guarantees Mr Biden victory, as 2016’s Hillary Clinton campaign proved. We trained a neural network, using artificial intelligence to predict the opinion of every user on social media But Dr Hernan Makse, a statistical ..."
-    publishedDateTime: 2020-11-02T16:24:00Z
-    webUrl: "https://www.express.co.uk/news/science/1355192/artificial-intelligence-ai-news-twitter-us-election-2020-prediction-trump-biden-evg"
-    ampWebUrl: "https://www.express.co.uk/news/science/1355192/artificial-intelligence-ai-news-twitter-us-election-2020-prediction-trump-biden-evg/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1355192/artificial-intelligence-ai-news-twitter-us-election-2020-prediction-trump-biden-evg/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 64
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/151/590x/artificial-intelligence-ai-news-twitter-us-election-2020-prediction-trump-biden-1355192.jpg?r=1604334498707"
-        width: 590
-        height: 350
-        isCached: true
 
 secured: "XQW/2lnGN68mbbAqN3FwR6fCg1kAwZyd8nLaXU7STUZkIwaC3lhNQK32ziy+RHZwhieHtu0BEt9fjlNWFVZfBfGFBC/35p/ob2YArHi86Oy3jjVQeN5Lw+SduxkzdOSOE9D8FvVj8OSIjlIcpg1AZs4bUmHyhwJE2RWEOh4Yt7yDNPeqphHi1Ckz7RwgJEk4RkqXBubpimw74Kkx7tzl8gbN1VwQVtu4KwXTSfZGLkIPB6Zv/1p9IKucHMkL4GNJlJOGlqzyj0PgLX4pUZVvsRveLIxarOju2B60pKG2lXIwO5dRNopuXWV7rqZg5CibQA2EsR2BcTEdO555QvK6tWnSiiuG4cfn9BA/FMzKmMiyJ4pXy4fUERE63awB7co+Fbxp4XaNk1rFl48I7WtK88f92k6MrL4D2ZRqIFdBwvDK2YKHSXTwteAexs6oqgP4m04xdu1XZHTW6Oj4O9dCCasDds1DRdzTIrSUPPNyENbzR404SFpTNt0ItFyoGTbXUYnDEvo1jNHkkPzGzGFZqw==;SGBMTzo7xAkf7pXv6cs6RA=="
 ---

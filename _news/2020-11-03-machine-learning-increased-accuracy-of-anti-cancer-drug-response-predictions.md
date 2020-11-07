@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning that predicts anti-cancer drug efficacy"
-    excerpt: "With the advent of pharmacogenomics, machine learning research is well underway to predict patients' drug response that varies by individual from the algorithms derived from previously collected data on drug responses."
-    publishedDateTime: 2020-11-02T15:52:00Z
-    webUrl: "https://medicalxpress.com/news/2020-11-machine-anti-cancer-drug-efficacy.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-11-machine-anti-cancer-drug-efficacy.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-machine-anti-cancer-drug-efficacy.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/3-cancer.jpg"
-        width: 2880
-        height: 2304
-        isCached: true
   - title: "Machine learning increases the accuracy of anti-cancer drug response predictions"
     excerpt: "With the advent of pharmacogenomics, machine learning research is well underway to predict the patients' drug response that varies by individual from the algorithms derived from previously collected data on drug responses."
     publishedDateTime: 2020-11-02T23:36:00Z

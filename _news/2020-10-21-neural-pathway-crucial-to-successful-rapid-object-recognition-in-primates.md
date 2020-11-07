@@ -2,7 +2,7 @@
 category: news
 title: "Neural pathway crucial to successful rapid object recognition in primates"
 excerpt: "The findings enrich existing models of the neural circuitry involved in visual perception and help to further unravel the computational code for solving object recognition in the primate brain."
-publishedDateTime: 2020-10-21T13:53:00Z
+publishedDateTime: 2020-10-21T13:52:58Z
 originalUrl: "https://medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.html"
 webUrl: "https://medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.html"
 ampWebUrl: "https://medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.amp"
@@ -23,6 +23,6 @@ images:
     height: 600
     isCached: true
 
-secured: "QjcmQXpcFA2oL6GtySIurtccUP8Qi0905ucGHl9wNrgNTACPXp4LlidhD19IS/RO/KX/sCBdxwBVTQzf7nXM8zorChl1TFJiqhOSxynT8LwlGR8D6OR0rgSojCA5PpChQpg8N4dehJL/GhcBji3+cp8RAKweMwGO7zBY+EsdJ+HH0xFU3fGms9Sw9zBxqmLQ14Cqe0ik5K8NguhhTkEEmjfBb7n/+UkR5JifMhccmCAP/op4MohYq7pSrQp8j057+z7f9i5HJzOZm/UIA9Nns0T2KquBjnWMOyXJ1W4ff+HWQOr5VVh1QtoGNA+ejzhP2JpwLQmDOIuttE3SQ2RSTL3fmILlQG9tn3QgUXWbdPM=;1G8lUExAmAU/dbQo/w+OMA=="
+secured: "zJuOZdcwIRZp+UDcAPUyLAo1OB5RmkiHeNq1neLDxv1tBuBCr2lSOC/g/LOkFHWT5wFcfS52BnvGoR5oz1paCBjLFKuT/qXr5/Wap5a6Pz9d6mtKvYi/vz34nPrFHFLE5E5UqYqaNVkWG9/QG3LVIVty3boVnVZpccUtG2eIRDR+IKDJKr9xUAIFrQz4M6ZBhcsqamD/4Yc+kxuv4qgmsGp5a/4gGDjzbbH+h7NxrjLqIMcDyekE8SnpjsG/7FP8CwHPOJURV3LTNDd1htAZtkZw8SNmq8Y+gwzrow0vkjnHyxZ8zmYiV6r2F92a4lVbM+El9j2rfsWpaPm8YP/0wIN+TFXvf5te/0iyS8hFdqY=;o2PI97zudAE5Uuh6/ct6MA=="
 ---
 

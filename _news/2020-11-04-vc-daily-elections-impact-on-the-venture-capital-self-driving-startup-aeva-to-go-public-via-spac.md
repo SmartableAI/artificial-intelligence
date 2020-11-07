@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/vc-daily-elections-impact-on-the-vent
 webUrl: "https://www.wsj.com/articles/vc-daily-elections-impact-on-the-venture-capital-self-driving-startup-aeva-to-go-public-via-spac-11604416103"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Self-Driving Tech Startup Aeva Going Public Through SPAC InterPrivate"
-    excerpt: "Aeva Inc., a self-driving technology startup backed by German automaker Porsche SE, on Monday unveiled plans to go public by combining with blank-check company InterPrivate Acquisition Corp. The deal,"
-    publishedDateTime: 2020-11-02T15:24:00Z
-    webUrl: "https://www.morningstar.com/news/dow-jones/2020110210898/self-driving-tech-startup-aeva-going-public-through-spac-interprivate"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 4
 
 secured: "VwUKhpRvZCWKrYZB2K6v7CNNWyuGck38Jx/2IaAndvFa7Cypq2TvnfJztbsVL8yYkXvknDxr2ZjgW9OyquiwZasiyzUk7fn0jZXoXaWjhb6qhlRWyKTIkv5PFu9KpK2ng567EIKXkDxvfiysQ3xMR09v6HtdbWtHjlYtZG1XWobBPLZo8D+xS5V4yJYhMhYa6cTDs+hzgQkRi9k4jIsWLfGh4K9Z+v+hXZiSwpht2VW2tAQDa/6EQze9BdaOtVF6foJtpCRIDbsnBPwIAP0NVtbiohRZcuszm4VWqTWW0awOM+xZCv4Sl0oE7xWsmXzlQGeSJOT1vEPZaVBdkZicNlNBh4PIc7c/6Wgls/16iU0=;dy59tlNPWESfEb/iG1syRw=="
 ---

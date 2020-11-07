@@ -74,20 +74,6 @@ related:
       name: Wired
       domain: wired.com
     quality: 49
-  - title: "Amazon Web Services Introduces Open-Source Machine Learning Toolkit To Predict The Spread Of COVID-19"
-    excerpt: "Amazon Web Services open-sources a new simulator and a series of machine learning tools that allow researchers and data scientists to study and predict the spread of the COVID-19 pandemic infections."
-    publishedDateTime: 2020-11-02T15:27:00Z
-    webUrl: "https://techlog360.com/aws-open-source-machine-learning-toolkit-to-predict-the-spread-of-covid-19/"
-    type: article
-    provider:
-      name: techlog360.com
-      domain: techlog360.com
-    quality: 41
-    images:
-      - url: "https://tl360.b-cdn.net/wp-content/uploads/2020/11/AWS-news-and-stories.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Learning Helps Reduce Food Insecurity During COVID-19"
     excerpt: "Researchers used machine learning to create bus routes and deliver meals to individuals in need, reducing food insecurity in Pennsylvania communities."
     publishedDateTime: 2020-11-06T14:32:00Z
