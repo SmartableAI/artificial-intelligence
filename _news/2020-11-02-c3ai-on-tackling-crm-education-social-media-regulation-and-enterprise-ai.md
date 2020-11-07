@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/video/c3-ai-on-tackling-crm-education-social
 webUrl: "https://www.zdnet.com/video/c3-ai-on-tackling-crm-education-social-media-regulation-and-enterprise-ai/"
 type: article
 quality: 98
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://www.investopedia.com/thmb/47JmigGS-lMsb_EEqQwguUpOIFE=/800x531/filters:fill(auto,1)/crm2-56a7dca13df78cf7729a0938.jpg"
         width: 800
         height: 531
-        isCached: true
-  - title: "Next generation Artificial Intelligence and ethics"
-    excerpt: "What is the next generation artificial intelligence? What about its learning abilities? And ethics that surround it? Josh Tenenbaum"
-    publishedDateTime: 2020-11-02T08:12:00Z
-    webUrl: "https://elearningworld.eu/next-generation-artificial-intelligence-and-ethics/"
-    type: article
-    provider:
-      name: elearningworld.eu
-      domain: elearningworld.eu
-    quality: 58
-    images:
-      - url: "https://elearningworld.eu/wp-content/uploads/hand-3308188_640.jpg"
-        width: 640
-        height: 389
         isCached: true
 
 secured: "IM0mYE9PcE5rPtqOO+YPvsdKoEPhhTaSq2CRraGPvl0ErMjDJHXsD1SGF5RUkMBmyf1+i8dXhqI7HX5Ml4OOUmksDAx4M4sAQNo969j2hDIcsJQQ0uXvdBz6ddC4sIIbBz9RJ4LBxcnG5uoRGDMHcQsA7AVgsono5GAyW4XkyvEgJ1kS6YbaopV7gBjhhmqbZ40Q/XLC8Ud0cZwY+JA7+pA4Cp1f58xPT8lxIZ6DQLLTFl6jKHU/XN7OII/h/wMfyzysKD4qO5o5W1qjEPK0nILx5juHMBr+dwsaylPiHiFosyurrAWoDK8wO53OR3+CRY+OX0RagW3QHB0jlGX80z3BXxxATq1UeohzVXDTUGw=;+k4uwSjkRLd17bxAnAs5nQ=="

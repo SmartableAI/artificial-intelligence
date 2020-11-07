@@ -119,22 +119,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "AI model could detect coughs of asymptomatic Covid-19 patients"
-    excerpt: "If the model is approved by the FDA, it could be used on a wide-scale and could be a viable tool for non-invasive pre-screening of asymptomatic patients."
-    publishedDateTime: 2020-11-02T08:09:00Z
-    webUrl: "https://www.ibtimes.co.uk/ai-model-could-detect-coughs-asymptomatic-covid-19-patients-1685381"
-    ampWebUrl: "https://amp.ibtimes.co.uk/ai-model-could-detect-coughs-asymptomatic-covid-19-patients-1685381"
-    cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/ai-model-could-detect-coughs-asymptomatic-covid-19-patients-1685381"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 57
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1685859/covid-cough-ai-model.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "MIT builds AI which can detect Covid-19 by listening to your cough"
     excerpt: "AI tool uses neural networks that can figure out changes in a person’s cough which point out whether they are infected"
     publishedDateTime: 2020-11-02T10:12:00Z
@@ -182,22 +166,6 @@ related:
       - url: "https://cdn.abcotvs.com/dip/images/7587100_110220-kgo-covid-test-generic-img_Image_00-00-02,00.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "AI can detect if you have coronavirus by listening to the sound of your cough"
-    excerpt: "Researchers have developed a new artificial intelligence (AI) system which they claim can detect coronavirus by analysing the sound of people coughing. Scientists at Massachusetts Institute of Technology (MIT) said the AI works because  the virus causes temporary neuromuscular impairment which can cause small differences to people’s speech or the sound of their cough - even if they have no other symptoms."
-    publishedDateTime: 2020-11-02T08:51:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2020/11/02/ai-can-detect-have-coronavirus-listening-sound-cough/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/11/02/ai-can-detect-have-coronavirus-listening-sound-cough/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/11/02/ai-can-detect-have-coronavirus-listening-sound-cough/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 54
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/news/2020/10/28/TELEMMGLPICT000243084755_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg"
-        width: 2501
-        height: 1563
         isCached: true
   - title: "Artificial intelligence can detect asymptomatic COVID-19 coughs, MIT says. Here’s how"
     excerpt: "Researchers say the AI could help prevent asymptomatic individuals from unknowingly spreading the virus to others."
@@ -395,6 +363,6 @@ related:
       domain: meritalk.com
     quality: 19
 
-secured: "zub2lIOBvwQO7fJfe6bXA2V85jT8n0hlf5wcJD/3cbuSK8Gw1+rlYuTySo01Uf7HYbEJ5bNaeOQ0VQ/4XiXxWP0knV7s9tluBjevbNAmUNX1+37BUS+hiduwkBgeiHJrV+g/0ZKg50jN8/AqgzCF2QOSh9/cMtYBTBeMiu45/t0suczOWbyFK4lkNNyTUVpm5tS/JdmpArY35PMcJQtP7EZNFWL6wYgvxyEkmMqet8114IXNeqW+2Cn775b2BogIJBFVDCmrC+Kz99grl6PnJR7EX/qPJjwUEC/RoFiI2LynuDLjbuGrUz0gKSy1T7TdwfpYirXa0qUmnLh7oJvDtk2Bx74lHK6UBTDRdtdp1V0=;uyWJEiQryWjWdinLIrtccQ=="
+secured: "R7fAqGfG+lc3IIyQQvKNOBycYu+zfxBNHbXlvLgX31Oy4lYozV9DqmIdekWdPDNdAHXLpvr+Tsu9KajWFOMKSzwh3TisT9EV8Z3Myvm5zcbCihI+VZ4alEjuikE1EhFGDBCxZKo6e54HglqLZ8IBLCltmDLyvNFAKAS7OGh7i8O9vGQ6G/qEE62aoz27/uSHGX1WOTD24i5evqw12zGvsygX53sAyYQ2p4xP3oMX9GLpOBBfVvcKu/Cf3hGOwkBegeWdbfc9+9cl5szgU3rJwEVx6U8yHR4A0wY0L1gfNVVujh9svu3pVULJYX0R7zwzC55zpL6xAd1/ffNZ4tt+EhqtbWtNxId3ZFcdUmCCAqeEW5ZZzE6KwD51Hk82jkf1CtUXOf2dYBreAf3nZlAZA7t9sH0GErEVyVvl12fJDTp5IRyDmyN8kZ4csRzai/9mL9HJDZpEZmU2YEw4pWTLFFk2U5bkHiZeoeRD9BzX340gkIUeKAC7uux3LbLJOiwHuePeD8S9xG6BFTKabr5XWQ==;gaHoZRqER48XgocRMFxU1g=="
 ---
 

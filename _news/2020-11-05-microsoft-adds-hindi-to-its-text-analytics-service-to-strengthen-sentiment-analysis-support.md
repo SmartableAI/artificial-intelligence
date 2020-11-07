@@ -42,6 +42,22 @@ related:
         height: 384
         isCached: true
   - title: "Microsoft adds Hindi to its Text Analytics service"
+    excerpt: "Text Analytics is part of the Microsoft Azure Cognitive Services. The functionality provided by Text Analytics includes sentiment analysis, opinion mining, key phrase extraction, language detection, named entity recognition, and Personally Identifiable ..."
+    publishedDateTime: 2020-11-07T00:39:00Z
+    webUrl: "https://www.tribuneindia.com/news/science-technology/microsoft-adds-hindi-to-its-text-analytics-service-166425"
+    ampWebUrl: "https://www.tribuneindia.com/news/science-technology/microsoft-adds-hindi-to-its-text-analytics-service-166425"
+    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/microsoft-adds-hindi-to-its-text-analytics-service-166425"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 59
+    images:
+      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/11/2020_11$largeimg_705948515.JPG"
+        width: 600
+        height: 368
+        isCached: true
+  - title: "Microsoft adds Hindi to its Text Analytics service"
     excerpt: "Microsoft on Thursday said it has added Hindi to its Text Analytics service to help businesses strengthen customer support through complete analysis of user perception and feedback in the most widely spoken language in India."
     publishedDateTime: 2020-11-05T10:04:00Z
     webUrl: "https://www.sify.com/news/microsoft-adds-hindi-to-its-text-analytics-service-news-education-ulfhPFccfdfdj.html"

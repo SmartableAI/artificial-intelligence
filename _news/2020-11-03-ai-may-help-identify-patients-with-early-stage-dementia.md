@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/ai-may-help-identify-patients-with-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-may-help-identify-patients-with-early-stage-dementia-11604329922"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Shows Potential to Gauge Voter Sentiment"
+    excerpt: "Some technology experts say artificial intelligence could hold promise for predicting election outcomes."
+    publishedDateTime: 2020-11-06T23:11:00Z
+    webUrl: "https://www.wsj.com/articles/artificial-intelligence-shows-potential-to-gauge-voter-sentiment-11604704009"
+    ampWebUrl: "https://www.wsj.com/amp/articles/artificial-intelligence-shows-potential-to-gauge-voter-sentiment-11604704009"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/artificial-intelligence-shows-potential-to-gauge-voter-sentiment-11604704009"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 87
+    images:
+      - url: "https://images.wsj.net/im-256562/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Artificial intelligence helps to identify correct atomic structures"
     excerpt: "Bayesian inference enhanced structure search facilitates accurate detection of molecular adsorbate configurations."
     publishedDateTime: 2020-11-02T14:28:00Z

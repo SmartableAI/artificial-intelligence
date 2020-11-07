@@ -40,20 +40,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Startup Funding: October 2020"
-    excerpt: "October 2020 was a big month for startups across the automotive space, with sizeable funding all around. Three startups based out of China brought in over $100M apiece for ADAS and autonomous driving,"
-    publishedDateTime: 2020-11-02T08:03:00Z
-    webUrl: "https://semiengineering.com/startup-funding-october-2020/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 22
-    images:
-      - url: "https://i0.wp.com/semiengineering.com/wp-content/uploads/startup-funding-2020-10-Oct-table1.png?fit=717%2C691&#038;ssl=1"
-        width: 717
-        height: 691
-        isCached: true
 
 secured: "HIhhzxW2vHA9Ij5M3pcoAob7xeIMPpz+gqDgh6XWDbUztk7E9L6PqZeW7EnnUwH7SvfEKMfD5WhbYSy6rp/TxKjDJxwUNf4CNzjjr66af+8yMZi/oJ4wDhpQo8qlnSfkq7ccH8y+qt5VBWZbo7/BQMmUv+Jga5eAtJZoYpkJcd8EOOwcW3LxcvYq+T+hLL1Iq/PacUFPdLx8PfVPdxJ0myD1R4+XNn2zagft3Z4vcftSeuLqlz0YewLXVLjXV/WubGQ79++4QPQjduVxByqyERacAqUpqvmPEaO/aJO0AZRgqzw/w0AjMzpj09J+2BMEi+08NRNB7wkwz5qvZHFcJDRztMPQW8LrDvM+yuMoh+Q=;QiOgepcuTK2vDiFKFbd3Dg=="
 ---

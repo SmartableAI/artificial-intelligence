@@ -24,22 +24,6 @@ images:
     height: 240
     isCached: true
 
-related:
-  - title: "University of Southern California leads new artificial intelligence study of Alzheimer’s disease"
-    excerpt: "A massive problem like Alzheimer's disease (AD) -- which affects nearly 50 million people worldwide -- requires bold solutions. New funding expected"
-    publishedDateTime: 2020-11-02T08:18:00Z
-    webUrl: "https://www.miragenews.com/university-of-southern-california-leads-new-artificial-intelligence-study-of-alzheimer-s-disease/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 24
-    images:
-      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg"
-        width: 1416
-        height: 829
-        isCached: true
-
 secured: "GcYQ+BS1VmWBDAgl2i1y0iJYawfQAXFcPn4kPsQqvemRpGT2OnYBOoyiNR5QvRGUTwqA6dTdxu1HFCKhXtU6cfPaaAS9LH2brkAaSC1MUoWOuy1p4QNx9407zVBW/gqUkxiqQMDVJdBTYp9h2TdOYREc2gc3Kh3d2Of+QPjtaxYAIH3TPQomUHByeWCySYiyVAc12T1vbkffe5w+fX5MOgsJCsTm4x5pP4BQrRSjW2OSQk2/ydMl0Kfd2k8fdyQ0ojALtAsOtrXNOl2zUuA1c9WxapfuHiB6vjXlesUNhp1B2wmTQy10OpVgZIxERPXOVVFIdIQ0kXePXDa12BbKvjPIUYlD1PwmZTmouDnx/zQGmcspNNpnjQ4nBwatOCEnJfgKqCRMZ8T50OmaigVcZDVhIwPp9v5lMQDRsWYwZO+T4N1GdHHAQ+v5zohcgBs6VeKwFa/LV83ry9MxccBxfjRc3t4ER4ydTmJH6fdnnvfRZdIa8C+NCQ0/fSG4wp3An8JhKWjTCkxF+Up+BmBKvA==;e23BrPDubztFgEs879bmBA=="
 ---
 

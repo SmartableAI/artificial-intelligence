@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2020/11/02/xiaomi-smart-door-lock-pro-l
 webUrl: "https://www.gizmochina.com/2020/11/02/xiaomi-smart-door-lock-pro-launching-on-november-4-poster-hints-facial-recognition/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 598
     height: 578
     isCached: true
-
-related:
-  - title: "Xiaomi announced the Smart Door Lock Pro with Face ID support"
-    excerpt: "Xiaomi is a top Chinese manufacturer with a very large ecosystem. Many people see Xiaomi as a “smartphone company”. However, Xiaomi is much more than"
-    publishedDateTime: 2020-11-02T08:41:00Z
-    webUrl: "https://www.gizchina.com/2020/11/02/xiaomi-announced-the-smart-door-lock-pro-with-face-id-support/"
-    ampWebUrl: "https://www.gizchina.com/2020/11/02/xiaomi-announced-the-smart-door-lock-pro-with-face-id-support/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/11/02/xiaomi-announced-the-smart-door-lock-pro-with-face-id-support/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 44
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2020/11/Xiaomi-Smart-Door-Lock.png"
-        width: 817
-        height: 566
-        isCached: true
 
 secured: "sQROl7qncRZWeWZ/JdV7wrHOD3G3kKIOQfozSEEaHL9HqrbLA9RJGsmGB4uZ1hmgGO8KIwDjBdwuGxE1G8Pl0QwLasNTSMKBiorTyUUFdh8XAxka1q+zHovX+zGgAU/N9kPVNiGyKcdqiHVkyE+zTMtR157DKJjp/gzTdRePbaoNuQcYtB4zeQvkZSUzwS7Igf7vSyu3vl0Fk56Nh3+OJGVHFRKyhhjGQdGZBujj9jzo0gCIMhY1I4RBd71Po1x4fJRHcCJ4vE2/ZfP5slgvI/LGIgDddoX1azIrKaq+0c63L94C0WO0uQsQ3NkUDPPN1ZKFRRZMgXoYu98hlqgGocRHP4IWJ7kxpdaLL/AVJ0bNU2uNBkktgzgaHx3gDlToPO5DcfGSQdVWnaTdGsxy9qIB4nFOQSgNVCTKUA5g9gyYliDA9BvG4d2eP65TxaudEmwfVb5cEbDTToRM19lasq/3eM6k5gg5GpnwIi7K9WU9Ol+mwR78qHq6zUfW+dPsPQH4QPTEpEBG5E9OgVQtAA==;ojAmozEBJjLZ5schwqPaoQ=="
 ---

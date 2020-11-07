@@ -57,20 +57,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "HK leads in fintech development"
-    excerpt: "The progress of fintech in Hong Kong is very reassuring. In recent years, a number of major fintech initiatives have been launched, and widely adopted, by businesses and consumers alike."
-    publishedDateTime: 2020-11-02T07:28:00Z
-    webUrl: "https://www.news.gov.hk/eng/2020/11/20201102/20201102_105902_909.html"
-    type: article
-    provider:
-      name: 香港政府新闻网
-      domain: news.gov.hk
-    quality: 24
-    images:
-      - url: "http://www.news.gov.hk/eng/2020/10/20201019/20201019_172233_798/images/20201019174812254.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Proven Technology VCs and Medical Physicians Launch Decentralized Health Data Marketplace Powered by Blockchain and AI Technology"
     excerpt: "Blockchain technology company Verida joins forces with CareProtocol to launch IKIGAI Network, a decentralized OpenHealth ecosystem. The IKIGAI Network is pioneering the OpenHealth movement by building the world’s first global decentralized healthcare ecosystem built on principles of open data and open source development."
     publishedDateTime: 2020-11-06T11:00:00Z

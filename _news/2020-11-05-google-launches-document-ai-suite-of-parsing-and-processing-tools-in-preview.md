@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/04/google-launches-document-ai-suite
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/04/google-launches-document-ai-suite-of-parsing-and-processing-tools-in-preview/amp/"
 type: article
 quality: 84
-heat: 115
+heat: 114
 published: true
 
 provider:

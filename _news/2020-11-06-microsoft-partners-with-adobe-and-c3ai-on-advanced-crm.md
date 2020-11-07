@@ -51,20 +51,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 72
-  - title: "Next generation Artificial Intelligence and ethics"
-    excerpt: "What is the next generation artificial intelligence? What about its learning abilities? And ethics that surround it? Josh Tenenbaum"
-    publishedDateTime: 2020-11-02T08:12:00Z
-    webUrl: "https://elearningworld.eu/next-generation-artificial-intelligence-and-ethics/"
-    type: article
-    provider:
-      name: elearningworld.eu
-      domain: elearningworld.eu
-    quality: 58
-    images:
-      - url: "https://elearningworld.eu/wp-content/uploads/hand-3308188_640.jpg"
-        width: 640
-        height: 389
-        isCached: true
 
 secured: "xwgbjFN9IRhRxQ/BOYGEAKN0GVIPSiba1BQLNTPgTHobB27Eldb6yIRBZouhrnBL2qcdew9NLPnoxeQDKD7sjf3mGAry0iD5xIaYHBAXA0I8oq8eOM1DnnkMaDQjonEvuoECBluZ9b2jXTu1TGsZeTrVJ2CtEv7F5kd/H3ZNK+15iPa20CIXEUD+/HSCkhphmsZjxKpxxShgoNNEgIMcw3+eVXxi08VC0P8L/B6XrU1iwIwv6E7r2qK770iefX89lBijH5Oyeabn5rdn8L7NwKcebpGPFwo6Y1wcijp3bOpgytakQvruakR0MbJp9sk3+DtnOi+zNjZjshx4cg8o/9dx2ShJyGmxI4UDJeh4ufJ6vlyimDgcTnZfgIkjd4oeN666+SNJbqaY+HfJjXwVaoNsquKBvYT3R1/B9oCtyMrN0BDUshxQwU43lZ4ybs7BSb2HuZ2Fd30NNfzHG00HPgfeli+m2jADPNNkSiaRpkRgiI17EITyub7LhDDgQWrONxNdoPCp1Bv5gnz9c1t7kQ==;9hXwvkJL3V0LwU0C/jH8Jw=="
 ---
