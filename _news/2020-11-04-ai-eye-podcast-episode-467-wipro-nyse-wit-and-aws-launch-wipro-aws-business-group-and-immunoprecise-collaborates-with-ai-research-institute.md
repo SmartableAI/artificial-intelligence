@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-03T18:20:00Z
 originalUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/11031AIEye-WIT-AWS-ImmunoPrecise.asp"
 webUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/11031AIEye-WIT-AWS-ImmunoPrecise.asp"
 type: article
-quality: 14
+quality: 16
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.investorideas.com/images/AI-Eye.jpg"

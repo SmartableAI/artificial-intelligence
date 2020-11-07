@@ -60,20 +60,6 @@ related:
         width: 405
         height: 228
         isCached: true
-  - title: "Wipro AWS Business Group: Fast-tracking customers’ cloud transformation journey on AWS"
-    excerpt: "Wipro launched the Wipro AWS Business Group (WABG), a unit designed to help customers fast-track their cloud transformation journey on AWS."
-    publishedDateTime: 2020-11-03T01:32:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/11/03/wipro-aws-business-group/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 31
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "EgTJW3XAY0b/d6MZrhRbF0lB7OhN8/b8v2OHDdvUzMzai3MvdZxhBFkpG3j3HFbF+WUSUM5o/ybtYSTJOf39aqFsb0rfLg6C7U+MaiwnRk15REKbb+E1ARhBK9wJ1kAouCVX38ZEqRiIRZnWVS+3k4ZxD0wKs4ftmQjSlBom4loCh5KUZW5Fx2TrFu/oX3OPfdTwIRXJhI5Nbm6Z3VViuy2aCvMhth/MQ6atWbvF9RMskw0qv46VvsYL2QflRArDkUT5xPVYuWWHv8K8vjWKiwwqf8OOXdxFmg66Uz2N2yniaJqC0X9xgKHicCl/I9b0sKUvnIQHkd297Fxj+Pc8r7SVyyT9ohqHVxD9iBMfBuQ=;CAq0uc2nzX6L2KK5XiJQ9w=="
 ---

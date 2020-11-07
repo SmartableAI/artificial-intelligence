@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Face Recognition Turnstile Market Size 2026 In-Depth Analysis of the Segmentation Which Comprises Product Type and Applications"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Face Recognition Turnstile"
-    publishedDateTime: 2020-11-03T02:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-turnstile-market-size-2026-in-depth-analysis-of-the-segmentation-which-comprises-product-type-and-applications-2020-11-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice Recognition Market Overview By Share, Size, Industry Players, Revenue And Product Demand Till 2020-2026"
     excerpt: "The Voice Recognition market is anticipated to reach over $150 billion by 2026 according to a new research published"
     publishedDateTime: 2020-11-04T15:21:00Z

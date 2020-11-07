@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-face-recognition-
 webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-size-to-reach-20548-million-usd-by-2025-2020-11-05"
 type: article
 quality: 65
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Face Recognition Turnstile Market Size 2026 In-Depth Analysis of the Segmentation Which Comprises Product Type and Applications"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Face Recognition Turnstile"
-    publishedDateTime: 2020-11-03T02:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-turnstile-market-size-2026-in-depth-analysis-of-the-segmentation-which-comprises-product-type-and-applications-2020-11-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

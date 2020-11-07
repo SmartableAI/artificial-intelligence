@@ -8,8 +8,8 @@ webUrl: "https://www.wsj.com/articles/what-ai-can-learn-from-parents-11604586334
 ampWebUrl: "https://www.wsj.com/amp/articles/what-ai-can-learn-from-parents-11604586334"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/what-ai-can-learn-from-parents-11604586334"
 type: article
-quality: 89
-heat: 99
+quality: 91
+heat: 101
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://images.wsj.net/im-255053/social"

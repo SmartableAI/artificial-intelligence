@@ -66,7 +66,7 @@ related:
     provider:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2020/11/Intel.jpg"
         width: 716

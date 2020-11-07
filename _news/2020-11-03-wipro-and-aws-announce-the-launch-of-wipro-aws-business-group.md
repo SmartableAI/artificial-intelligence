@@ -9,7 +9,7 @@ ampWebUrl: "https://www.voicendata.com/wipro-aws-announce-launch-wipro-aws-busin
 cdnAmpWebUrl: "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -51,20 +51,6 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/market_covid_shutterstock_1658915128-405x228.jpg"
         width: 405
         height: 228
-        isCached: true
-  - title: "Wipro AWS Business Group: Fast-tracking customers’ cloud transformation journey on AWS"
-    excerpt: "Wipro launched the Wipro AWS Business Group (WABG), a unit designed to help customers fast-track their cloud transformation journey on AWS."
-    publishedDateTime: 2020-11-03T01:32:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/11/03/wipro-aws-business-group/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 31
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
-        width: 1200
-        height: 627
         isCached: true
   - title: "Wipro starts dedicated AWS business unit"
     excerpt: "Wipro announced the launch of its dedicated Wipro AWS Business Group (WABG), a unit designed to help customers fast-track their cloud transformation journey on AWS. WABG merges Wipro's industry experience and portfolio of services with AWS's cloud platforms."

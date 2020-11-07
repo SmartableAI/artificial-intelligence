@@ -3,8 +3,8 @@ category: news
 title: "Will Trump give a concession speech or congratulate Biden? If not, he'll break more than a century of tradition"
 excerpt: "Concession speeches often touch on love of country over party. Among the most memorable was John McCain's concession to Barack Obama in 2008."
 publishedDateTime: 2020-11-06T03:15:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/06/trump-give-concession-speech-congratulate-biden-his-win/6174113002/"
-webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/06/trump-give-concession-speech-congratulate-biden-his-win/6174113002/"
+originalUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/05/trump-give-concession-speech-congratulate-biden-his-win/6174113002/"
+webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/05/trump-give-concession-speech-congratulate-biden-his-win/6174113002/"
 ampWebUrl: "https://amp.usatoday.com/amp/6174113002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6174113002"
 type: article
@@ -37,6 +37,6 @@ related:
       domain: wshu.org
     quality: 0
 
-secured: "mwFZgWY3Z+tZB8TNmUlNxWXTnMUXm/7vU9cODLkVvcBwcjLOFz4Yxdq4RdL4Wa8OH3d7QtjiA3G4kdKp+HzX85Oz7ByxeEPZFkiuvqhkcJcc7zJoybsaBYG92Hli9t39gpE/1/VWX8JXycPJ1kZKvbylOPk+FSCl9IcF4AGNzIuA4OQF1wE0osL8ADhrjxwrsstFFVKCeWSLdVG2YfLYwcgWr+C5Cho7BmWQ06yBOBfoxK+py5WepAktLkWzCf+RFAevtvLeDOjdVL4dxXGugY9qUpwuvF1h/aIRkqtXG2ty1aGtodUNNR2qwQHOq+CqAKolgYwgHxnSRJ2SHoVUnZZ3/67tfwz11fKoCzu8rd0P92MLDhl7/vvw1PR4QBOqJmPJABIukNg6UlzBR+KdKFTEA+Sx6RyOihKu/R/AaiL1CqZxWUwPLY+UUDAbYw7CmLDIkmSXHtUgtoxsptwSmQqBIM7Bc5GGgYT5Yx4wSfIsW4qyFQY0OSGmzl9YZM3bGghNPGSV7afXP1aBR9FUKA==;OPnZrNOkqasNaE5ZwreCbg=="
+secured: "xYtDuCDbvVa1oJ64YMLu9D8DcDx5B2vrUdlPA9ZlvuduVV6ZmnUzazPOXxbIoewoqDLignfMo9HL8LhfF75BKOIcl5dJv+He6N7tY9Rxgq73ZmMrjZPU9FyNep33hzfli93+nSOTxwF4GejOoZ1YLSyNTNd9YnFOBYavkDT3QovNVZ7VK34xalEQ2yOxVORaLHwxU5NgXkLmM61d9p+ow1NSUtg24UcMWC2VZGicy6B1fTh1EvQbqjPEhHcvLhyw0Ol5FGvnVHzUd1d92Ml6J0fn/Qv5insaLiivKllH8IwFbMMd0GIMAplp7lnHJd27RAyPTGrMO2kiUGsRvKPhkM5l5yir6LbLXcfUnD5uJZE=;RpS/V2VIEGaNvKIEnwz3pw=="
 ---
 

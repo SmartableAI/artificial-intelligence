@@ -22,7 +22,7 @@ related:
   - title: "Will Trump give a concession speech or congratulate Biden? If not, he'll break more than a century of tradition"
     excerpt: "Concession speeches often touch on love of country over party. Among the most memorable was John McCain's concession to Barack Obama in 2008."
     publishedDateTime: 2020-11-06T03:15:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/06/trump-give-concession-speech-congratulate-biden-his-win/6174113002/"
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/05/trump-give-concession-speech-congratulate-biden-his-win/6174113002/"
     ampWebUrl: "https://amp.usatoday.com/amp/6174113002"
     cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6174113002"
     type: article
