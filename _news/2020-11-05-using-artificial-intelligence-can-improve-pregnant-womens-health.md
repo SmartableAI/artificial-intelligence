@@ -24,64 +24,37 @@ images:
     isCached: true
 
 related:
-  - title: "Here’s how AI is helping cities improve traffic management"
-    excerpt: "This article was originally published by Federico Cheli on Cities Today, the leading news platform on urban mobility and innovation, reaching an international audience of city leaders. For the latest updates follow Cities Today on Twitter,"
-    publishedDateTime: 2020-11-04T00:00:00Z
-    webUrl: "https://thenextweb.com/shift/2020/11/04/heres-how-ai-is-helping-cities-improve-traffic-management-syndication/"
-    ampWebUrl: "https://thenextweb.com/shift/2020/11/04/heres-how-ai-is-helping-cities-improve-traffic-management-syndication/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/11/04/heres-how-ai-is-helping-cities-improve-traffic-management-syndication/amp/"
+  - title: "Analysis reveals how artificial intelligence has been used with pregnant women"
+    excerpt: "Researchers from the University of Seville have carried out a rigorous and detailed analysis of how artificial intelligence has been used with pregnant women over the last twelve years."
+    publishedDateTime: 2020-11-04T23:31:00Z
+    webUrl: "https://www.news-medical.net/news/20201104/Analysis-reveals-how-artificial-intelligence-has-been-used-with-pregnant-women.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20201104/Analysis-reveals-how-artificial-intelligence-has-been-used-with-pregnant-women.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201104/Analysis-reveals-how-artificial-intelligence-has-been-used-with-pregnant-women.aspx"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
+      name: News Medical
+      domain: news-medical.net
+    quality: 53
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/image-13-796x417.png"
-        width: 796
-        height: 417
+      - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
-  - title: "This Is How Conversational AI Is Helping Businesses"
-    excerpt: "Conversational AI enables AI technologies such as chatbots to interact with users in a human-like manner. By linking the rift between human and computer speech, it creates communication between the tw"
-    publishedDateTime: 2020-11-07T06:52:00Z
-    webUrl: "https://www.entrepreneur.com/video/359220"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/359220"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359220"
+  - title: "Analysis reveals how artificial intelligence has been used to help pregnant women"
+    excerpt: "Researchers from the University of Seville have carried out a rigorous and detailed analysis of how artificial intelligence has been used with pregnant women over the last twelve years."
+    publishedDateTime: 2020-11-06T08:36:00Z
+    webUrl: "https://www.news-medical.net/news/20201104/Analysis-reveals-how-artificial-intelligence-has-been-used-with-pregnant-women.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20201104/Analysis-reveals-how-artificial-intelligence-has-been-used-with-pregnant-women.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201104/Analysis-reveals-how-artificial-intelligence-has-been-used-with-pregnant-women.aspx"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 87
+      name: News Medical
+      domain: news-medical.net
+    quality: 52
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1604731892-MyPost54.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "How Artificial Intelligence is Enhancing Online Shopping"
-    excerpt: "Disruptive technology like artificial intelligence (AI) is definitely leaving an indelible mark amid a COVID-19 pandemic where social distancing measures are forcing more reliance on tech. The same can be said in the retail sector and as more consumers head online to do their shopping the retail industry is deploying AI to enhance the experience."
-    publishedDateTime: 2020-11-04T18:24:00Z
-    webUrl: "https://www.nasdaq.com/articles/how-artificial-intelligence-is-enhancing-online-shopping-2020-11-04"
-    ampWebUrl: "https://www.nasdaq.com/articles/how-artificial-intelligence-is-enhancing-online-shopping-2020-11-04?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-artificial-intelligence-is-enhancing-online-shopping-2020-11-04?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
-  - title: "Using Artificial Intelligence Improves Pregnant Women's Health"
-    excerpt: "Artificial intelligence technology can help to diagnose congenital disabilities, gestational diabetes, and preterm birth earlier in pregnant women, reports a new study."
-    publishedDateTime: 2020-11-05T05:21:00Z
-    webUrl: "https://www.medindia.net/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 59
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/less-than-6hours-of-sleep-during-pregnancy.jpg"
-        width: 1200
-        height: 1000
+      - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
 
 secured: "mzGX0LM2obgXrstSCQPy09Ye4ZJ8Kb9Qni8lu5awCcegU5G/XGX0OYM3rMFsYeOB2duumMLztheHhxUNuEu6dvApOiD52SPaApxSfYFocKeO2BxD8vjbXPcrh5w9b8jsuyxeHFhdm/lqAJ9fnQWup/CBayidQ00pX1iLv5ECIg4wgnCkdyzVM8yGxb7aGtud1fGj2168Z1/Jt97/pI6iH+aQf2eWZ5UF/aetnRpStdGDbF/48jan5ceW+R6zhxSigDeyCX7I55CO5VKshpPKmxxs5kQdX0wn5/2RyCeQDt5JCzvLSEkch6stf9l1dNIe/2VBvPmY5Bq80TgFptcO0XFKHArIJ40mH8U9X9Ld+rg=;9OpBrZUW5Ilo53V2YYp2tQ=="

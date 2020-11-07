@@ -9,8 +9,8 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/359159"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359159"
 type: article
 quality: 84
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: Entrepreneur
@@ -30,6 +30,49 @@ images:
     isCached: true
 
 related:
+  - title: "This Is How Conversational AI Is Helping Businesses"
+    excerpt: "Conversational AI enables AI technologies such as chatbots to interact with users in a human-like manner. By linking the rift between human and computer speech, it creates communication between the tw"
+    publishedDateTime: 2020-11-07T06:52:00Z
+    webUrl: "https://www.entrepreneur.com/video/359220"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/359220"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359220"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 89
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1604731892-MyPost54.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Here’s how AI is helping cities improve traffic management"
+    excerpt: "This article was originally published by Federico Cheli on Cities Today, the leading news platform on urban mobility and innovation, reaching an international audience of city leaders. For the latest updates follow Cities Today on Twitter,"
+    publishedDateTime: 2020-11-04T00:00:00Z
+    webUrl: "https://thenextweb.com/shift/2020/11/04/heres-how-ai-is-helping-cities-improve-traffic-management-syndication/"
+    ampWebUrl: "https://thenextweb.com/shift/2020/11/04/heres-how-ai-is-helping-cities-improve-traffic-management-syndication/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/11/04/heres-how-ai-is-helping-cities-improve-traffic-management-syndication/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/image-13-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
+  - title: "How Artificial Intelligence is Enhancing Online Shopping"
+    excerpt: "Disruptive technology like artificial intelligence (AI) is definitely leaving an indelible mark amid a COVID-19 pandemic where social distancing measures are forcing more reliance on tech. The same can be said in the retail sector and as more consumers head online to do their shopping the retail industry is deploying AI to enhance the experience."
+    publishedDateTime: 2020-11-04T18:24:00Z
+    webUrl: "https://www.nasdaq.com/articles/how-artificial-intelligence-is-enhancing-online-shopping-2020-11-04"
+    ampWebUrl: "https://www.nasdaq.com/articles/how-artificial-intelligence-is-enhancing-online-shopping-2020-11-04?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-artificial-intelligence-is-enhancing-online-shopping-2020-11-04?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
   - title: "Five Ways How Artificial Intelligence Will Transform Businesses in 2021"
     excerpt: "Artificial Intelligence, once a buzzword in the digital world, has become a part of our everyday life. From Google Assistant, Siri, Alexa to Uber and Ola, several AI-enabled services are available today that make our lives easier."
     publishedDateTime: 2020-11-07T10:45:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://thenextweb.com/shift/2020/11/04/heres-how-ai-is-helping-citi
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/11/04/heres-how-ai-is-helping-cities-improve-traffic-management-syndication/amp/"
 type: article
 quality: 87
-heat: 127
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Next Web
@@ -40,9 +40,25 @@ related:
     provider:
       name: Entrepreneur
       domain: entrepreneur.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1604731892-MyPost54.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "How Emerging Demands Of AI-Powered Solutions Help Gain Momentum Of Businesses"
+    excerpt: "The AI market is witnessing a spur of growth owing to the adoption of big data and cloud-based applications, growing investment by tech leaders, and wide applicability and benefits of these AI-led sol"
+    publishedDateTime: 2020-11-06T09:40:00Z
+    webUrl: "https://www.entrepreneur.com/article/359159"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/359159"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359159"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 84
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1604655612-artificial-intelligence-3382507-19202.jpg?width=600&crop=16:9"
         width: 600
         height: 338
         isCached: true
@@ -57,35 +73,21 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
-  - title: "Using Artificial Intelligence Improves Pregnant Women's Health"
-    excerpt: "Artificial intelligence technology can help to diagnose congenital disabilities, gestational diabetes, and preterm birth earlier in pregnant women, reports a new study."
-    publishedDateTime: 2020-11-05T05:21:00Z
-    webUrl: "https://www.medindia.net/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm"
+  - title: "Five Ways How Artificial Intelligence Will Transform Businesses in 2021"
+    excerpt: "Artificial Intelligence, once a buzzword in the digital world, has become a part of our everyday life. From Google Assistant, Siri, Alexa to Uber and Ola, several AI-enabled services are available today that make our lives easier."
+    publishedDateTime: 2020-11-07T10:45:00Z
+    webUrl: "https://inc42.com/resources/5-ways-how-artificial-intelligence-ai-will-transform-businesses-in-2021/"
+    ampWebUrl: "https://inc42.com/resources/5-ways-how-artificial-intelligence-ai-will-transform-businesses-in-2021/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/5-ways-how-artificial-intelligence-ai-will-transform-businesses-in-2021/amp/"
     type: article
     provider:
-      name: Medindia
-      domain: medindia.net
+      name: inc42.com
+      domain: inc42.com
     quality: 59
     images:
-      - url: "https://images.medindia.net/amp-images/health-images/less-than-6hours-of-sleep-during-pregnancy.jpg"
+      - url: "https://inc42.com/wp-content/uploads/2020/11/Untitled-design-2020-11-07T145601.852.jpg"
         width: 1200
-        height: 1000
-        isCached: true
-  - title: "Using artificial intelligence can improve pregnant women's health"
-    excerpt: "Disorders such as congenital heart birth defects or macrosomia, gestational diabetes and preterm birth can be detected earlier when artificial intelligence is used. In the latter case, studies into cases involving artificial intelligence found a correlation between the number of pre-term births and the environmental pollution to which the pregnant women had been previously exposed."
-    publishedDateTime: 2020-11-04T16:19:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/uos-uai110420.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
+        height: 628
         isCached: true
 
 secured: "9oujNkLX3s62K6ehsRvn+9eEuDZGZQBmLexC9ZYXiIlPnln871YZSf/HpfJvzBJVFILvLZKxoJqixIk95IttaZ+g80SmvWP7PWdQH4dy313BOwTUJdptEQkLkJ8vyBAKadyZRaCbiHY46lZNBr4Lh70cAZwV9wWEUUAwAovK99UK5yljL0RFMC3ycVpSoctwzR/oHjDQO71ooRbVpDCBuUsJw2K7dvqTFKqqDHTMSVT3pmjS6Rh1C+acNO3ArS51F7B/KR9JOeZbMLQdKZgiTXfjiW+lqEWUvbRiIoMBLXtA+gMQFmEvhGaQiCogiZ8u6eLJZOjwcGvYRzlcoNP+7pp3kwICqZy2Ql84W2IAZJ1jatSsqGvQhx3QQ7j5hgyPk+5ElveaUaIfJpf0otjNdTmnjM+zweNbcPFlTh4inRcP1KaLjQ3GbtUrNvhBEJE1Q/U230XrIyge/qlQJWnVyQfdveaHDUTXab+BDBHHNAJX8R8yvgiczU+hcaMmuAZydY/3QP4cqI58SthKZHWv+w==;3fxrQjS1b1ew4eyDlD56QQ=="

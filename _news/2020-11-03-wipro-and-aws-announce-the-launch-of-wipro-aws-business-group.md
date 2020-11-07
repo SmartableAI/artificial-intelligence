@@ -9,7 +9,7 @@ ampWebUrl: "https://www.voicendata.com/wipro-aws-announce-launch-wipro-aws-busin
 cdnAmpWebUrl: "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Wipro, AWS announce the launch of Wipro AWS Business Group"
-    excerpt: "Wipro announced the launch of its dedicated Wipro AWS Business Group (WABG), a unit designed to help customers fast-track their cloud transformation journey on AWS."
-    publishedDateTime: 2020-11-03T03:20:00Z
-    webUrl: "https://www.business-standard.com/article/news-cm/wipro-aws-announce-the-launch-of-wipro-aws-business-group-120110300202_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/wipro-aws-announce-the-launch-of-wipro-aws-business-group-120110300202_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/wipro-aws-announce-the-launch-of-wipro-aws-business-group-120110300202_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 39
   - title: "AWS Announces Plans to Launch a Second Region in India"
     excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com company, announced expansion of its services to include a second"
     publishedDateTime: 2020-11-06T16:51:00Z

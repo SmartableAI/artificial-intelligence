@@ -41,17 +41,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Wipro, AWS announce the launch of Wipro AWS Business Group"
-    excerpt: "Wipro announced the launch of its dedicated Wipro AWS Business Group (WABG), a unit designed to help customers fast-track their cloud transformation journey on AWS."
-    publishedDateTime: 2020-11-03T03:20:00Z
-    webUrl: "https://www.business-standard.com/article/news-cm/wipro-aws-announce-the-launch-of-wipro-aws-business-group-120110300202_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/wipro-aws-announce-the-launch-of-wipro-aws-business-group-120110300202_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/wipro-aws-announce-the-launch-of-wipro-aws-business-group-120110300202_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 39
   - title: "Wipro starts dedicated AWS business unit"
     excerpt: "Wipro announced the launch of its dedicated Wipro AWS Business Group (WABG), a unit designed to help customers fast-track their cloud transformation journey on AWS. WABG merges Wipro's industry experience and portfolio of services with AWS's cloud platforms."
     publishedDateTime: 2020-11-03T15:20:00Z

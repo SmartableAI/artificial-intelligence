@@ -1,12 +1,12 @@
 ---
 category: news
 title: "ImmunoPrecise Antibodies and Mila Announce Strategic AI Partnership"
-excerpt: "PRNewswire/ - IMMUNOPRECISE ANTIBODIES LTD. (the 'Company' or 'IPA') (TSXV: IPA) (OTCQB: IPATF) (FSE: TQB2), a leader"
+excerpt: "CNW/ - IMMUNOPRECISE ANTIBODIES LTD. (the 'Company' or 'IPA') (TSXV: IPA) (OTCQB: IPATF) (FSE: TQB2), a leader in"
 publishedDateTime: 2020-11-03T12:52:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758396"
-webUrl: "https://markets.businessinsider.com/news/stocks/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758396"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758396"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758396"
+originalUrl: "https://markets.businessinsider.com/news/stocks/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758397"
+webUrl: "https://markets.businessinsider.com/news/stocks/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758397"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758397"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758397"
 type: article
 quality: 69
 heat: 89
@@ -49,6 +49,6 @@ related:
         height: 1206
         isCached: true
 
-secured: "qyr0HhIKp9JGcKl8ORgC3PN8DllB8KU+aCeIkEKG0qMcwsyBvlHDI/Cmw4ihWaoQ4PQnQzdMz95W7W2/pMVqTs4rqxDjvCK6ZkmOtVEXlb4URtyOwPQyA62CANm4uMMZlKKN7QDnNEkuCeIEkaQBE/YPRWwgjtCwHttCK5Qv19K6HbRsQrtMTZ1glPhyEfckLmmU/xgnOtRgpGyXbDdqKinXAVw8+PNuJ85fGmCByKRlulxAxjuV6Ik7fdNZKAlsFfcbuwgUqiWyNFWXmyJY/s28MlEkA5zThTFaqqIEjUBgHlJfehg5gJK+APOhX8f+cusuRL3oT4IqhAyXOPRJoM2lmadaGJM/JrGmT7OoyDk=;LEbF8sjeSG6dwuSm6Ou+Eg=="
+secured: "bnpSHPh8rS9HzApaKvXCl2ZaCcVRDn0QoAsBljYP4AceZ0pEYTJFKh+jAwVPYfpa+GPZTkVTZkl33WBGg5cwjuf6owXdPaOm6pobLCFxTCnJvDdV9ouA99HYQ/xwMieEpwjez2YfIedor7UHHEKtVbUukzrUNWCjjtJ2BISn4kwUefl8A2xnxLVTQLlPg5Rmc/RXkLS+udNzrQ+uk8RnDEFjXOEysECLv89itdgewhPqTnL88NEKhgOxY3Gytq17Ltp6AqZo0IPWizre7bM/zs3rvKZpBytK1sZWmuMuBGyQ6o68wZfq0oSzZGEXP6ZzGtGarWAbLEHhgyQcSFuJRwnKD+IxVPvjAiMoWm0B3Eg=;z6RhcKE0bW0/E11QOmtB+w=="
 ---
 
