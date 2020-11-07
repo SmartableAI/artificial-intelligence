@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/news/ai-fail-as-robot-camera-mistakes-
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/ai-fail-as-robot-camera-mistakes-bald-head-for-soccer-ball/?amp"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/4CQCS9QhTiTdHAQ0dwTXg2X6IH0=/0x0:600x329/1400x933/filters:focal(252x117:348x213):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67730477/ai_camer_soccer_ball.0.gif"
         width: 600
         height: 329
-        isCached: true
-  - title: "AI Tracking Camera Mistakes Referee’s Bald Head for a Soccer Ball"
-    excerpt: "AI cameras have come a long way when it comes to object recognition and tracking, but sometimes the \"intelligence\" can fail in humorous ways. At a recent"
-    publishedDateTime: 2020-11-02T17:38:00Z
-    webUrl: "https://petapixel.com/2020/11/02/ai-tracking-camera-mistakes-referees-bald-head-for-a-soccer-ball/"
-    type: article
-    provider:
-      name: PetaPixel
-      domain: petapixel.com
-    quality: 39
-    images:
-      - url: "https://petapixel.com/assets/uploads/2020/11/baldheadfeat.jpg"
-        width: 1600
-        height: 840
         isCached: true
 
 secured: "9Hhb6wkjhgGzjaS6dLWBkHo35WpRS4jSxEg9miKLxGrNHApvrQnPgFebokXwQODzU+1nU0r/brPDvWii43DCE4cpdoEPx1as/z6TTJuGCjGh1jnemVODqrfO/n+czfwkaV44QXEr13yyIMS524CL18U7RHNOsFJ/OJGWMwlSeQmLRu0b9dNOTI/PuVEFkhmf94v8Qlqyn8gMshEywINaqjrFqFcGCB1xANM7p/Icuo+PjiR46jZTv6ue9rRncOJoaD3qpsQFk2ik7uzbE7ocj7WIIRfFP1AiRxiljQO2LbxuV+bYX2HoVX3QTHrSOBbWFVk+py/0jS2XZXr6Dw6nCJzdn7TppgzPC9A4FrTZZglL1GAtRnaR3smi8S3c+jjqOZm/H7/SGKSj7i1b5Zi/m2NSZBm+qwY3RYlPTtMuG+CITtr44q/29khNSfer3ZZlbpgY3oXbE27TddSVYSyQWymEowdl+iRq7gQXK/B9f399nxkdZ3ynATWnXvFIZc4LrSuVSkegBHf7HbYFnOi1tA==;VUrEa3r3FS0cbFdDODe9+g=="

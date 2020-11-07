@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/359159"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359159"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 600
     height: 338
     isCached: true
+
+related:
+  - title: "Five Ways How Artificial Intelligence Will Transform Businesses in 2021"
+    excerpt: "Artificial Intelligence, once a buzzword in the digital world, has become a part of our everyday life. From Google Assistant, Siri, Alexa to Uber and Ola, several AI-enabled services are available today that make our lives easier."
+    publishedDateTime: 2020-11-07T10:45:00Z
+    webUrl: "https://inc42.com/resources/5-ways-how-artificial-intelligence-ai-will-transform-businesses-in-2021/"
+    ampWebUrl: "https://inc42.com/resources/5-ways-how-artificial-intelligence-ai-will-transform-businesses-in-2021/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/5-ways-how-artificial-intelligence-ai-will-transform-businesses-in-2021/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 59
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2020/11/Untitled-design-2020-11-07T145601.852.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "qtt7mlmuNmwBI42MgNYB9pbSSvTQe8gZ/2K84r+5ex2KY+nVKzjnFl6FW3pjb07p10VcW/B+MzXOnmrxkn0oWLh0Jl4CJi7ZZfdJBELgXcxwXPro+FTJ38S2sYYDto+66+A2awW4NkZkxWLaLME+3ZklD10WfNpeEjmu9jh0PAMFpFGfwL4TCpAoAgIemLOXV92n/tZOUi3d5AvAw8pAi8lAtlxAQInhYy7boTbpmlKJrHvtjp4te4GhFo+NkFL6lHAc09tU0eOaNrqPIM0mHKg5nubx1WX2xtqe1chJQVs5fl0JA3Wh6IReJHaBZwnYpHWXDGfSKjtUSY2oG4thAlckJnKzm8HJU7NG6GZkaAlumgphSxHyxoEGzayIFjGpnIWsayTnmySpDEl8AI6tdMu/CPOB+/9LAHnUtuuHEvtEETK9PGtmNCDn7RT+MZF9hWxoIaISdU9K7YaDg3ngjjgeCgRxp97nZFKl981R7skqMKnZd+N76x/NuHe6jDDBmMjQhsN0loAkQgygd6N5aQ==;D39hHG0CQqBFtn3VHnyrng=="
 ---

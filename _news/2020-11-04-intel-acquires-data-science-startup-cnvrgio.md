@@ -70,6 +70,20 @@ related:
         width: 650
         height: 415
         isCached: true
+  - title: "Intel Acquires Cnvrg.io To Lead The Race In The AI Game"
+    excerpt: "The deal, like most of the deals in the past, is aimed at strengthening its machine learning and AI operations."
+    publishedDateTime: 2020-11-07T10:32:00Z
+    webUrl: "https://analyticsindiamag.com/intel-acquires-cnvrg-io-to-lead-the-race-in-the-ai-game/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/11/Intel.jpg"
+        width: 716
+        height: 402
+        isCached: true
   - title: "Intel has acquired full-stack data science startup Cnvrg.io"
     excerpt: "Intel Corp. is reported to have acquired Cnvrg.io, an Israeli full-stack data science startup that helps teams manage models and build auto-adaptive machine pipelines. TechCrunch makes the claim but neither Intel nor Cnvrg."
     publishedDateTime: 2020-11-04T04:14:00Z

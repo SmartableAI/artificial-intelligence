@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/news/3631130-intel-acquires-machine-learn
 webUrl: "https://cnvrg.io/"
 type: article
 quality: 148
-heat: 188
+heat: 198
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://www.sify.com/uploads/intel_ians_ukvnBpfhdebii.jpeg"
         width: 650
         height: 415
+        isCached: true
+  - title: "Intel Acquires Cnvrg.io To Lead The Race In The AI Game"
+    excerpt: "The deal, like most of the deals in the past, is aimed at strengthening its machine learning and AI operations."
+    publishedDateTime: 2020-11-07T10:32:00Z
+    webUrl: "https://analyticsindiamag.com/intel-acquires-cnvrg-io-to-lead-the-race-in-the-ai-game/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/11/Intel.jpg"
+        width: 716
+        height: 402
         isCached: true
   - title: "Intel acquires data science startup Cnvrg.io"
     excerpt: "Intel Corp. reportedly has acquired Cnvrg.io, an Israeli data science startup that helps teams create and run machine learning models. TechCrunch made the claim, though neither Intel nor Cnvrg.io has publicly confirmed the news as of the time of writing."

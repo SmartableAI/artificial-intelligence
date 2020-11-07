@@ -40,21 +40,19 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Advisors Seek Venture-Investing Gold in Fintech"
-    excerpt: "For many of the most successful advisory firm leaders, investing in fintech and wealthtech startups is an opportunity to make some serious scratch, while also helping to advance their industry."
-    publishedDateTime: 2020-11-02T18:24:00Z
-    webUrl: "https://www.barrons.com/articles/advisors-seek-venture-capital-investing-riches-in-fintech-and-wealthtech-51604348664"
-    ampWebUrl: "https://www.barrons.com/amp/articles/advisors-seek-venture-capital-investing-riches-in-fintech-and-wealthtech-51604348664"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/advisors-seek-venture-capital-investing-riches-in-fintech-and-wealthtech-51604348664"
+  - title: "Damon Nam is Disrupting the Blockchain Industry with Emerging FinTech Company, Coin."
+    excerpt: "If you’ve been looking into the Blockchain, Cryptocurrency, and Decentralized Finance (DeFI) movement for more than five minutes, you’ve probably run into the name Damon Nam. Damon is a 20 year IT professional,"
+    publishedDateTime: 2020-11-06T18:58:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-cryptocurrency-financial-technology-information-technology-e96d7763f1ac02a00dcc23b89ff7149d"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 44
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
     images:
-      - url: "https://images.barrons.com/im-253545/social"
-        width: 1280
-        height: 640
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Open Standards Advance Fintech"
     excerpt: "The U.S. payments space is saddled by closed standards-setting processes and a lack of basic competition in the market."

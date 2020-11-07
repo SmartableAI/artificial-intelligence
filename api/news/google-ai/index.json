@@ -160,15 +160,15 @@
       ]
     },
     {
-      "path": "_news/2020-11-03-alphabets-project-amber-leverages-ai-to-identify-brain-wave-data-relevant-to-anxiety-and-depression.md",
-      "title": "Alphabet’s Project Amber leverages AI to identify brain wave data relevant to anxiety and depression",
+      "path": "_news/2020-11-03-alphabets-project-amber-uses-ai-to-try-to-diagnose-depression-from-brain-waves.md",
+      "title": "Alphabet’s Project Amber uses AI to try to diagnose depression from brain waves",
       "excerpt": "Alphabet's X lab developed hardware and software that attempted to diagnose depression and anxiety from brain wave readings.",
       "sourceUrl": null,
       "webUrl": "https://venturebeat.com/2020/11/02/alphabets-project-amber-leverages-ai-to-identify-brain-wave-data-relevant-to-anxiety-and-depression/",
       "originalUrl": "https://venturebeat.com/2020/11/02/alphabets-project-amber-leverages-ai-to-identify-brain-wave-data-relevant-to-anxiety-and-depression/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -207,8 +207,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Google AI"
+        "Google AI",
+        "AI"
       ]
     },
     {

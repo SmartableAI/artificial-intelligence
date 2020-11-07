@@ -26,22 +26,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "French politicians call for face biometrics and AI surveillance tools to tackle terrorism"
-    excerpt: "France may be on the way to deploy face recognition and AI surveillance technologies to monitor people in public spaces. The news comes after a series of terror attacks in Nice last week, which"
-    publishedDateTime: 2020-11-02T18:34:00Z
-    webUrl: "https://www.biometricupdate.com/202011/french-politicians-call-for-face-biometrics-and-ai-surveillance-tools-to-tackle-terrorism"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 30
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/05/25183040/cctv-security-systems.jpg"
-        width: 800
-        height: 533
-        isCached: true
-
 secured: "NuvKkVOmg8iMwJd0pF7q5+nS3PG2gdUPzfnsDg8FO7c8g/IVfa+adk+d3oLD6O04YwcXWibxlNi0wci64M6droKzrs4MNDT+sderk8CNHHAH6BGgD+LWogaDnQPctqeUWTpZqJMR4nz+5NbE3ofJi80RdfeSTdvAHRk/CiTI5131jt1MCDsQ8qyZbM9itBc1qaZcXxQ8aOs55Bbp4dQ07qVGS/BTfmH3MSLcMNaYU2OfognTRwMCGTrNfi9sRGvdgB2kvVv/gEQqz/4TMl32y8TlZ5cuvrYZ1A5wWa/Xodd+CueChdcPZF9zAIS3j5AvywRay+upFlENC0Z7T/3zGhYNFUW+e6keKSea55D1DEc=;srWer4ZCSPElR+F/FmkrtQ=="
 ---
 

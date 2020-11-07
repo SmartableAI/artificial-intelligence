@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Machine learning removes bias from algorithms and the hiring process"
-excerpt: "November 6, Arena Analytics' Chief Data Scientist Patrick Hagerty will unveil a cutting edge technique that removes"
-publishedDateTime: 2020-11-06T12:45:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/machine-learning-removes-bias-from-algorithms-and-the-hiring-process/article_075076f7-0b9e-5ef3-adf4-87e4ba8811ed.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/machine-learning-removes-bias-from-algorithms-and-the-hiring-process/article_075076f7-0b9e-5ef3-adf4-87e4ba8811ed.html"
+excerpt: "If undetected and unchecked, algorithms can learn, automate, and scale existing human and systemic biases. These models then perpetuate discrimination as they guide decision-makers in selecting people for loans,"
+publishedDateTime: 2020-11-06T13:45:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/science-michael-rosenbaum-81cbbaf3f48315533c82bde24b452dbb"
+webUrl: "https://apnews.com/press-release/pr-newswire/science-michael-rosenbaum-81cbbaf3f48315533c82bde24b452dbb"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/7d/27df5f6f-7e27-5b50-b3c7-1ad167e7bca9/5fa55837846ab.image.jpg"
-    width: 365
-    height: 337
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "iNttkcs9dIHRRzOPlWAqbjal2LZrn40GIVylkoi9HRW6RdQAidkNFGFUwupJ7QxuzgAvhsnliW4P1PoNfUTWavL7S9sE4ZwwciphN2XI1UeVvayGr3QawkBU32mln+Vc1jsbIHJv+mEo+P/FZgxgDZLWg7v2946MQ0YSFhPPa7cDXy3hzv8h3ska1Qqe0VSaMbcjpig0Wm5gzIduBh33u1/N7AN21hZ0zt2qHhfXOclc7NZQsaJu21nkwnJhPh1grLi3SHxHRoolfAVFyfMla1eHDPYknYprRlf7h/LOldx8y0xExjRHc+KhDS/bq7lPvCn4K/p6N1VgL9O9T+EPtNuxZ3wXbcUKsFEhuK1npjcixANnPyQKlsNQqy4cgvC5JpWAzw9gZJC+Jp2c8cuJlRU1s/mPcBAIQPeE6MIKBDrpKxOv+3Ios4kmE3D4gv8b0VshCRV3n7LzoVGmrdwz9oHquiB+Vuh1kTMq1WupB5EX4rdcYB69f/4VRqoytJRKCuBr43MM2FFNLRwlWG5x8g==;flPD1fXO+RnViqzGJo5nsw=="
+secured: "YqD2l9kMRRmhXbG7LCptwJFsNMx7Q7shrJd0LkO3nd9QMs9fh9eARCig7DxeJK+MRKH+JgIp8nUFCuKR1J5r4yNUqhBK8rdG/7KsBboDIvh+/r2gz4+zeuCUWYJX7cd9f3V2Pa/NQCGKjJZvsxMZL89g1Znh3IEPZwc4cg44w+e2mIPPJDqUo5oFWuYpdS+P/jxWMYpV/ypuhMK2B9/Jc4WvHuk0pld3+kdquEq2OWurrzjNP8SgeA3frHtRs3h2YjS2i5TZ0XAYnZlZpvJEIei10RXkbOeT9b1Kg31/hDRghpHlr8lycECHBUXE8NIJqGF2vwelC5540fkrgdjR8pKXJvvkDUU8tWu5UTZp3Gg=;fkxIpPZjdtdNp2CAmBUZJA=="
 ---
 

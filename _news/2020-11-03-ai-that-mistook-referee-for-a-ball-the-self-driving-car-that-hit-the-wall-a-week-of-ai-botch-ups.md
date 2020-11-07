@@ -65,6 +65,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Where Are Our Self-Driving Cars?"
+    excerpt: "Here are three reasons why you can’t buy a self-driving car today and one place you’re likely to find them first. It’s difficult to teach a machine to react correctly when faced with new or unpredictable situations we frequently encounter while driving."
+    publishedDateTime: 2020-11-04T15:04:00Z
+    webUrl: "https://www.manufacturing.net/automotive/news/21201409/where-are-our-selfdriving-cars"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 24
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/11/16x9/AP20304406106665.5fa2c29eabba5.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 673
+        isCached: true
 
 secured: "xrxXp9sVcGuB9vK8bF3I0KjH3Dk07UihMtTEUQFleU2UE31D3WFPamfpnsawgPWC6Sola64/kmifauvIgRV60vIpuXHQpaATFItemwwqfYus/rcX/VySDL9kUZuI2Iy2pJ77bxrjKPg+QH5vcpbdx4tZa1QXYb4qDcE1cxnVr0f5QlSytXvk78CrJ+BjsbhZKM19BB6rFRq7WAXpnuDcz9fjbnBxZRrme2ibPGobw2/g8IlurLM3eiAHgowJcF7p6iQkZiOPSYi4b/pmQc/MjTZozbdttWmRH63uwAdZD2Cw90idsIhNiKIdF7Hm791cvrttWaS6tgHwJY5OJqcDDXZmpNS3SuawmLniSMCjAM5vPD+VYTxZ0Zop2JXskrAdeTJuZvcIpf3A7W+2efr8jG4YpiwzU3xO6kJBzbCQTLksjZjq96p8oyKeKTt/kM8Od8RKPQdSLW5nLCSYzGaM2aQAsnOgDjSbx12BxwntwdvDNhU5bqZ+PYlabFAvSYgC7W4WvmqtFdO6zvq0oBjHnw==;fyck8I/oFWyDGooffmkZow=="
 ---

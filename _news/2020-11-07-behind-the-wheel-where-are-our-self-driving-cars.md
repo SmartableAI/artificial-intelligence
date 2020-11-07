@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Where Are Our Self-Driving Cars?"
+    excerpt: "Here are three reasons why you can’t buy a self-driving car today and one place you’re likely to find them first. It’s difficult to teach a machine to react correctly when faced with new or unpredictable situations we frequently encounter while driving."
+    publishedDateTime: 2020-11-04T15:04:00Z
+    webUrl: "https://www.manufacturing.net/automotive/news/21201409/where-are-our-selfdriving-cars"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 24
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/11/16x9/AP20304406106665.5fa2c29eabba5.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 673
+        isCached: true
   - title: "AI That Mistook Referee For A Ball & The Self Driving Car That Hit The Wall: A Week Of AI Botch-Ups"
     excerpt: "The live stream of the event captures Acronis’ vehicle driving straight into a wall surprising its engineers and leaving the viewers in splits. The botched up was addressed by one of the engineers in a Reddit post ."
     publishedDateTime: 2020-11-03T12:03:00Z

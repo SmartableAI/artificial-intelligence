@@ -2,6 +2,48 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-29-otterai-announces-zoom-live-video-captioning-to-enhance-virtual-collaboration.md",
+      "title": "Otter.ai announces Zoom live video captioning to enhance virtual collaboration",
+      "excerpt": "The company notes that this feature could reduce the risk of workplace miscommunication and increase telecommuter productivity and inclusiveness in the remote work era.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/otter-ai-announces-zoom-live-video-captioning-to-enhance-virtual-collaboration/",
+      "originalUrl": "https://www.techrepublic.com/article/otter-ai-announces-zoom-live-video-captioning-to-enhance-virtual-collaboration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/otter-ai-announces-zoom-live-video-captioning-to-enhance-virtual-collaboration/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/otter-ai-announces-zoom-live-video-captioning-to-enhance-virtual-collaboration/",
+      "publishedDateTime": "2020-10-29T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-where-is-artificial-intelligence-now-and-where-should-your-company-be.md",
       "title": "Where Is Artificial Intelligence Now, And Where Should Your Company Be?",
       "excerpt": "We are near the end of the hype cycle for artificial intelligence (AI ... AI is about to revolutionize our broken health-care system. Is your company ready for AI? Anyone with deep data claims to be using AI. Credible pilots and use cases have succeeded ...",
@@ -1185,49 +1227,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-evergreen-unveils-ai-solution-that-enables-municipalities-to-better-evaluate-infrastructure-projects-mitigate-climate-risks-and-invest-effectively.md",
-      "title": "Evergreen unveils AI solution that enables municipalities to better evaluate infrastructure projects, mitigate climate risks and invest effectively",
-      "excerpt": "(GLOBE NEWSWIRE) -- Evergreen, a national not-for profit, has developed AI for the Resilient City, a scalable planning and prediction data visualization tool to help municipalities better evaluate infrastructure projects,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/evergreen-unveils-ai-solution-that-enables-municipalities-to-better-evaluate-infrastructure-projects-mitigate-climate-risks-and-invest-effectively-1029736464",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/evergreen-unveils-ai-solution-that-enables-municipalities-to-better-evaluate-infrastructure-projects-mitigate-climate-risks-and-invest-effectively-1029736464",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T12:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

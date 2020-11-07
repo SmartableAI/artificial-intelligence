@@ -126,15 +126,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Crowdsourcing startup wins FinTech Frontier pitch competition"
-    excerpt: "A Pittsburgh-based startup won FinTech Frontier’s inaugural pitch competition, and here's what the company had to say about Cincinnati."
-    publishedDateTime: 2020-11-02T17:37:00Z
-    webUrl: "https://www.bizjournals.com/cincinnati/inno/stories/news/2020/11/02/fintech-frontier-names-pitch-competition-winner.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
   - title: "5 Top performing FinTech companies in the United States"
     excerpt: "FinTech is a portmanteau of the terms “finance” and “technology”. The article reveals the top performing 5 Fintech companies in the U.S."
     publishedDateTime: 2020-11-06T11:18:00Z

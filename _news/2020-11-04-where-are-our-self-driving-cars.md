@@ -25,22 +25,61 @@ images:
     isCached: true
 
 related:
-  - title: "The Near-Miss Quandary Is Unavoidably Messy For Self-Driving Cars"
-    excerpt: "Near-miss while driving is insidious, including for self-driving cars. getty. Reckless and fleckless drivers. I’m sure you experience their antics and angst-producing driving ac"
-    publishedDateTime: 2020-11-02T17:04:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/02/the-near-miss-quandary-is-unavoidably-messy-for-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/02/the-near-miss-quandary-is-unavoidably-messy-for-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/02/the-near-miss-quandary-is-unavoidably-messy-for-self-driving-cars/amp/"
+  - title: "When A Tree Falls On Top Of A Self-Driving Car"
+    excerpt: "When a tree falls onto a self-driving car. getty. A popular riddle that has been asked since at least the 1800s is whether a tree that falls in a forest will make a sound if there"
+    publishedDateTime: 2020-11-05T16:07:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/05/when-a-tree-falls-on-top-of-a-self-driving-car/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/05/when-a-tree-falls-on-top-of-a-self-driving-car/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/05/when-a-tree-falls-on-top-of-a-self-driving-car/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9cef7aa486df619b0da987%2F0x0.jpg%3FcropX1%3D631%26cropX2%3D4938%26cropY1%3D194%26cropY2%3D2711"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa1e1ec70d6f1b95e85aac8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6720%26cropY1%3D341%26cropY2%3D4121"
         width: 1200
-        height: 701
+        height: 675
         isCached: true
+  - title: "BEHIND THE WHEEL: Where are our self-driving cars?"
+    excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time,"
+    publishedDateTime: 2020-11-07T04:30:00Z
+    webUrl: "https://www.pottsmerc.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_b2d0fac8-1fa2-11eb-bd1a-839f89469b3a.html"
+    ampWebUrl: "https://www.pottsmerc.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_b2d0fac8-1fa2-11eb-bd1a-839f89469b3a.amp.html"
+    cdnAmpWebUrl: "https://www-pottsmerc-com.cdn.ampproject.org/c/s/www.pottsmerc.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_b2d0fac8-1fa2-11eb-bd1a-839f89469b3a.amp.html"
+    type: article
+    provider:
+      name: The Mercury
+      domain: pottsmerc.com
+    quality: 44
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/pottsmerc.com/content/tncms/assets/v3/editorial/4/cb/4cb5c470-1fa3-11eb-9a18-27ec9e939d6d/5fa45d30d6deb.image.jpg?resize=1024%2C630"
+        width: 1024
+        height: 630
+        isCached: true
+  - title: "Self-Driving Car Legislation Will Try Again Next Year"
+    excerpt: "Despite technological advances, thousands of lives are lost every year in automobile accidents. Approximately 93% of these accidents are caused by human error."
+    publishedDateTime: 2020-11-06T17:40:00Z
+    webUrl: "https://www.electronicdesign.com/markets/automotive/article/21147044/electronic-design-selfdriving-car-legislation-will-try-again-next-year"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 39
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/11/Mercedes_promo2.5fa586396f6c9.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AI That Mistook Referee For A Ball & The Self Driving Car That Hit The Wall: A Week Of AI Botch-Ups"
+    excerpt: "The live stream of the event captures Acronis’ vehicle driving straight into a wall surprising its engineers and leaving the viewers in splits. The botched up was addressed by one of the engineers in a Reddit post ."
+    publishedDateTime: 2020-11-03T12:03:00Z
+    webUrl: "https://analyticsindiamag.com/ai-flaws-roborace-crash-self-driving-car/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 20
 
 secured: "P23wY6psia5mRRxcchj/SDcVjTl/cZNS4tzNgetoXhqlDrJC+2S1yFcg3ne9injm5708q8wViTifC3BPuzlyMMoPWQZbPUutxuqvR+6Fr8G6BZNpOOQAs8Egzhv0i6gtK9xXUbeoDjmzVcArgvRmyJ/3HvDfB2P5orA7fsTcSquN+sujTDfd7j00FJgBrdA/i+17cX1EC1A8O/nMkKFChzxyipbZnLnLR6xeqCSiimsWrOszeOBuExfwIT0yMsvafDD0EomdzwwQ/Ie364Qgg4YilOU/XPyS1C99Ar5zIaKU7i1VrQRLqsxTF6eFUyGAUegU6Yye4SgcaMQ/KQ0wP2Ohw1x8V/f8e8oVeVoxUjg=;2RsrPwfhiQ7YW7DZT6MC7w=="
 ---
