@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "PonyAI_tech"
   url: "https://twitter.com/PonyAI_tech"
-  followers: 760
+  followers: 762
 
 size: 51-200 employees
 yearFounded: 2016
