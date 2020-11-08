@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Waymo moved its self-driving cars in San Francisco to a ‘secured location’ in case of election chaos"
-    excerpt: "Waymo is pulling its autonomous vehicles out of San Francisco in anticipation of Election Day unrest, The Verge has learned. The Google spinoff is “temporarily pausing” its AV test operations in San Francisco on Tuesday and Wednesday and moving its ..."
-    publishedDateTime: 2020-11-03T15:37:00Z
-    webUrl: "https://www.theverge.com/2020/11/3/21547323/waymo-self-driving-cars-suspend-testing-san-francisco-election"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/11/3/21547323/waymo-self-driving-cars-suspend-testing-san-francisco-election"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/11/3/21547323/waymo-self-driving-cars-suspend-testing-san-francisco-election"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 74
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/qv3_n_wAPsJRKmiwUvwpFApoHpU=/0x0:3620x2343/1400x933/filters:focal(1521x883:2099x1461):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67731216/1142125645.jpg.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "Google's Waymo is pulling its self-driving cars out of San Francisco in case violence erupts around the election"
     excerpt: "The company will also stop testing on San Francisco's streets for the next two days as the 2020 presidential election unfolds."
     publishedDateTime: 2020-11-03T17:09:00Z

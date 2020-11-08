@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/what-ai-can-learn-from-parents-1160
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/what-ai-can-learn-from-parents-11604586334"
 type: article
 quality: 91
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -30,24 +30,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Electric-Car Batteries Get a Boost From Artificial Intelligence"
-    excerpt: "Researchers are using AI to speed up the development of batteries that are safer and recharge faster."
-    publishedDateTime: 2020-11-03T17:02:00Z
-    webUrl: "https://www.wsj.com/articles/electric-car-batteries-get-a-boost-from-artificial-intelligence-11604422792"
-    ampWebUrl: "https://www.wsj.com/amp/articles/electric-car-batteries-get-a-boost-from-artificial-intelligence-11604422792"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/electric-car-batteries-get-a-boost-from-artificial-intelligence-11604422792"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 87
-    images:
-      - url: "https://images.wsj.net/im-253725/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "kbPL9rmynQpf8roCyusVxwvAL7fNhHqYnQtggDyMcTBkr7H6/UFUsDrOpsjViUEjHRXvVjxT7u+m7/kwNcENN8KiQ8Z0Ap7bJfJL7HfZGU7P99xwXSKWsIrQ7kwDFhE6t35uOgZPS3M9WmB8W1UpYMhsMY9ckDIKEDGqDhw+DXZIwQB7sF1amgv2ATaIAKDHvvg0GnmyPoGu3DNRDg4dGM6G6sN7tzzkxlL/Jhwg9eTmaTZqi+mGqOLKy/s5sMFlNn9nYN3i2Ub8pRpMzWI+0gIEj2dqK0iJgvJf/X4MA69fX/O97Rbj8znUAvmVIr5r5pDBGXqjmQF91ljCCYrFy7ey5sDIkwuo8QKLim3w0bvBtdgwI1Zq6QaVLnktT6o+slX+TmDXNvO3pkZtImy9LbVSIqpY3+1lVBM/zL1iui4dfXPLzh3PCVeyxZImRGgZN0WDnKPQ0B4UpYgKCzhelE9QZOSXJP2WE3aUq+sbmsYorjR3qCaCRXR1geKgU7Ne5KuOjK1tRLmUmqKbLRc2BQ==;uxGSD/QI4jVkSLfZQ702Eg=="
 ---

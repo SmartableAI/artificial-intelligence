@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/11/05/3-top-artificial-intel
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/05/3-top-artificial-intelligence-stocks-to-buy-right/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "3 AI Stocks to Buy Regardless"
+    excerpt: "A too-close-to-call election could cause investors to hesitate, but these AI stocks look like decisive winners to buy"
+    publishedDateTime: 2020-11-05T22:25:00Z
+    webUrl: "https://investorplace.com/2020/11/3-ai-stocks-to-buy-regardless/"
+    ampWebUrl: "https://investorplace.com/2020/11/3-ai-stocks-to-buy-regardless/amp/"
+    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/11/3-ai-stocks-to-buy-regardless/amp/"
+    type: article
+    provider:
+      name: InvestorPlace
+      domain: investorplace.com
+    quality: 57
+    images:
+      - url: "https://investorplace.com/wp-content/uploads/2020/10/robotics-stocks-ai-1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "GxW40lnFAMPXFzkVqFXo91gNgV4U5h+GLbnxaJx71T9Qk/ny91i95lwIRKCjYBWcp9VEGf665y8JSHFbgKAHL2Fvrp3lnYFNdZ7EhgCuzx1lPCe0C2qcN+oNtIxu1AKCiURZBVrY2YRxRUN2u0qokWRgu/hepZEM0qFZu7fGggRXm0caz18TrKJDaZLbnCOY8BgFARqnvbpBplivineQhH8MHaihyT0pBsoyM258NrIyRNHpnbVPcPsKxW+qGxwWJl5wKBg/mvIREfYandzs10gLS9Hl/jAiGGh8S8Ut5SaV2o7k28IGQ3zEhRpzZ9wCeGzU+BQL8e0VOL9r3LkLu2BFyRssogIUiMeSf2B3pgQ=;UxCz5z6Mjdu5F1pjqIy3Xw=="
 ---

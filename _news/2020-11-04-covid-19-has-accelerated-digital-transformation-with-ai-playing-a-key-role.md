@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/11/04/covid-19-h
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/04/covid-19-has-accelerated-digital-transformation---with-ai-playing-a-key-role/amp/"
 type: article
 quality: 86
-heat: 156
+heat: 126
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Model Can Detect Covid-19 Through Recorded Coughs"
-    excerpt: "A new AI model has shown to be able to detect Covid-19 through cell-phone recorded coughs. As reported by MIT News this could prove a valuable defence"
-    publishedDateTime: 2020-11-03T16:17:00Z
-    webUrl: "https://www.androidheadlines.com/2020/11/ai-model-can-detect-covid-19-through-recorded-coughs.html"
-    ampWebUrl: "https://www.androidheadlines.com/2020/11/ai-model-can-detect-covid-19-through-recorded-coughs.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/11/ai-model-can-detect-covid-19-through-recorded-coughs.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2020/03/AH-Coronavirus-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Scientists created a new AI system that can detect COVID-19 in your cough"
     excerpt: "Researchers at the Massachusetts Institute of Technology have created a new artificial intelligence system that could identify the novel coronavirus in someone’s cough. The researchers released their findings in a new paper published in the IEEE Journal of Engineering in Medicine and Biology."
     publishedDateTime: 2020-11-04T18:47:00Z
@@ -77,17 +61,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "MIT artificial intelligence model detects COVID-19 by sound of cough"
-    excerpt: "The AI model for COVID-19 uses the same four biomarkers— vocal cord strength, sentiment, lung and respiratory performance and muscular degradation — as a similar model used to detect Alzheimer's. One of the biggest challenges with slowing the spread of COVID-19 is detecting it in people who never show any symptoms."
-    publishedDateTime: 2020-11-03T15:56:00Z
-    webUrl: "https://www.phillyvoice.com/covid-19-analysis-sound-of-cough-artificial-intelligence-mit/"
-    ampWebUrl: "https://www.phillyvoice.com/covid-19-analysis-sound-of-cough-artificial-intelligence-mit/amp/"
-    cdnAmpWebUrl: "https://www-phillyvoice-com.cdn.ampproject.org/c/s/www.phillyvoice.com/covid-19-analysis-sound-of-cough-artificial-intelligence-mit/amp/"
-    type: article
-    provider:
-      name: PhillyVoice
-      domain: phillyvoice.com
-    quality: 37
   - title: "How Artificial Intelligence Is Changing The Fitness Industry During COVID-19"
     excerpt: "The fitness industry is undergoing a major transformation through a massive deployment of IoT applications and innovative artificial intelligence (AI) product offerings. The research firm Reports and Data predicts that the annual revenues for the fitness app market will reach $14."
     publishedDateTime: 2020-11-04T20:56:00Z
@@ -100,20 +73,6 @@ related:
     images:
       - url: "https://customerthink.com/wp-content/uploads/25726786_s.jpg"
         width: 445
-        height: 450
-        isCached: true
-  - title: "How an Automated Data Labeling Platform Accelerates AI industry’s Development During COVID-19"
-    excerpt: "NEW YORK, NY / ACCESSWIRE / November 3, 2020 / The impact of AI on COVID-19 has been widely reported across the globe, yet the impact of COVID-19 on AI has not received much attention. As a direct result of Covid-19,"
-    publishedDateTime: 2020-11-03T16:00:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/business-corporate-news-new-products-and-services-products-and-services-4fc070dc544fa4382afad15169683259"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 26
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
         height: 450
         isCached: true
   - title: "COVID Advances Missing Middle of AI Projects"

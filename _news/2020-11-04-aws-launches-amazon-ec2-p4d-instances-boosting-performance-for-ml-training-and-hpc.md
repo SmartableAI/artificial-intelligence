@@ -41,22 +41,6 @@ related:
         width: 3648
         height: 2736
         isCached: true
-  - title: "Amazon Web Services launches Nvidia Ampere-powered instances"
-    excerpt: "New AWS instances are several times faster and more powerful than existing instances thanks to Nvidia processors."
-    publishedDateTime: 2020-11-03T15:41:00Z
-    webUrl: "https://www.networkworld.com/article/3588276/amazon-web-services-launches-nvidia-ampere-powered-instances.html"
-    ampWebUrl: "https://www.networkworld.com/article/3588276/amazon-web-services-launches-nvidia-ampere-powered-instances.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3588276/amazon-web-services-launches-nvidia-ampere-powered-instances.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 61
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/05/nvidia-ampere-a100-100842032-large.jpg"
-        width: 1200
-        height: 878
-        isCached: true
   - title: "AMD Instinct MI100 CDNA Next-Gen GPU Based Accelerator For HPC Launching This Month, Indicate Leaked Documents"
     excerpt: "AMD’s powerful Instinct MI100 accelerator is rumored to launch this month. Documents confirming the official arrival of the next-gen CDNA-based GPU"
     publishedDateTime: 2020-11-04T00:56:00Z

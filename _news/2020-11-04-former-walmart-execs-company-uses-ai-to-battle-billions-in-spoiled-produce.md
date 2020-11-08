@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/edgarsten/2020/11/04/former-walmart-exe
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2020/11/04/former-walmart-execs-company-uses-ai-to-battle-billions-in-spoiled-produce/amp/"
 type: article
 quality: 85
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
     quality: 59
     images:
       - url: "https://elmoudjaweb.com/wp-content/uploads/2020/11/Walmart-To-End-Experiment-With-Robots-In-US-Stores-–.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Walmart To End Experiment With Robots In US Stores"
-    excerpt: "Walmart has pulled the plug on a program to use robots to scan items in stores and help maintain inventory, a company spokeswoman said Tuesday. The retail giant had worked with Bossa Nova Robotics for five years employing elongated robots that take readings on inventory and utilize artificial intelligence to predict product movement and inventory needs."
-    publishedDateTime: 2020-11-03T16:18:00Z
-    webUrl: "https://www.ibtimes.com/walmart-end-experiment-robots-us-stores-3075734"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 39
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/03/walmart-ended-an-experiment-to-have-robots-scan.jpg"
         width: 1024
         height: 682
         isCached: true
