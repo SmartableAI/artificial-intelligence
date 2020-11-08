@@ -74,20 +74,6 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
-  - title: "Top 10 Asian FinTech Startups You Need to Follow"
-    excerpt: "Bowen Khong takes a look at 10 Asian Fintech Startups that you should be aware of they include Ant Group, Ping An Technology, Dr Wealth, Grab Pay, Razer Pay, Folio, Viva Republic, Policy Bazaar, HelloGold,"
-    publishedDateTime: 2020-11-04T07:00:00Z
-    webUrl: "https://www.enterprisetimes.co.uk/2020/11/04/top-10-asian-fintech-startups-you-need-to-follow/"
-    type: article
-    provider:
-      name: enterprisetimes.co.uk
-      domain: enterprisetimes.co.uk
-    quality: 24
-    images:
-      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2020/10/Photo-by-Christina-@-wocintechchat.jpg"
-        width: 728
-        height: 410
-        isCached: true
   - title: "LexinFintech Unveils Strategy to Further Tap Chinese Consumer Market at Hong Kong Fintech Week 2020"
     excerpt: "(GLOBE NEWSWIRE) -- “LexinFintech Holdings Ltd. (“Lexin” or the “Company”) (NASDAQ: LX), a leading online consumption and consumer finance platform for educated young professionals in China, is gearing up to expand its product offerings to tap the rising consumption demand of China’s new generation,"
     publishedDateTime: 2020-11-06T07:50:00Z

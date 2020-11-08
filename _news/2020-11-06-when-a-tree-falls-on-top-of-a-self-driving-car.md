@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/05/when-a-tree-falls
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/05/when-a-tree-falls-on-top-of-a-self-driving-car/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -50,16 +50,16 @@ related:
   - title: "BEHIND THE WHEEL: Where are our self-driving cars?"
     excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time,"
     publishedDateTime: 2020-11-07T04:30:00Z
-    webUrl: "https://www.thereporteronline.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_8dd4f5c6-d8f2-593b-acaf-29c5a85244dd.html"
-    ampWebUrl: "https://www.thereporteronline.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_8dd4f5c6-d8f2-593b-acaf-29c5a85244dd.amp.html"
-    cdnAmpWebUrl: "https://www-thereporteronline-com.cdn.ampproject.org/c/s/www.thereporteronline.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_8dd4f5c6-d8f2-593b-acaf-29c5a85244dd.amp.html"
+    webUrl: "https://www.dailylocal.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_e61d0649-e1b8-5b2e-b05c-f25477879748.html"
+    ampWebUrl: "https://www.dailylocal.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_e61d0649-e1b8-5b2e-b05c-f25477879748.amp.html"
+    cdnAmpWebUrl: "https://www-dailylocal-com.cdn.ampproject.org/c/s/www.dailylocal.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_e61d0649-e1b8-5b2e-b05c-f25477879748.amp.html"
     type: article
     provider:
-      name: The Reporter
-      domain: thereporteronline.com
+      name: Daily Local News
+      domain: dailylocal.com
     quality: 44
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/thereporteronline.com/content/tncms/assets/v3/editorial/9/b6/9b60755b-1c12-5f94-af03-2b485c98cf32/5fa55b00c9d84.image.jpg?resize=1024%2C630"
+      - url: "https://bloximages.chicago2.vip.townnews.com/dailylocal.com/content/tncms/assets/v3/editorial/2/69/269ea2fa-0db8-50d3-8153-0ca49b7c73ca/5fa55a853eba7.image.jpg?resize=1024%2C630"
         width: 1024
         height: 630
         isCached: true
@@ -107,6 +107,15 @@ related:
         width: 1200
         height: 673
         isCached: true
+  - title: "Edmunds: Where are our self-driving cars?"
+    excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time, so you must always keep your hands on the wheel and pay extra attention to the road."
+    publishedDateTime: 2020-11-07T07:03:00Z
+    webUrl: "https://columbiabasinherald.com/news/2020/nov/07/edmunds-where-are-our-self-driving-cars-2/"
+    type: article
+    provider:
+      name: Columbia Basin Herald
+      domain: columbiabasinherald.com
+    quality: 4
 
 secured: "9nBNvbWfdUeiWpPwxMuWA9nbTHJCgFCpa+80Uktb1o//aIeL/Z7a9mOWHOj91xg7SPDYGxPmgLP88/P5xbroB8KjvJbBdqd+LdYjrrXtGi782S91yI+hMfJEPniG9v/z/3mSTNOP33e3CXq0cwj974aDMWg5I5drwgxnZpPa8Gp7ANi7idYo2XNKXHGdCcC7X3bmgFgppGEWX8tUaDaFtbtv15Aj4kzCFfaxHPG/I0mjdhyeakIK/hm1CmAg0hT9NsZ4oIjfoMafP3iyMoqxWiWDKDk/l4tX+3Z243hk4TZo/CiZFgjVDx65253WXDTFwN4YmH9f2mLJTcM97wWuXmRECAJ8VYpolRvfvq+1f39bOVzN/sbtbbbnGhEA5AdpeXC1Yr3tpRco6NoF9kDwHmt87RTJlgO0i3OgHsXkuVE3+JfpDgA3CwO9B693AKwUT8gbjGO6p+Ni4bScRb72SEMcepmmcR1tjV84YWNK8QxZ77eGVp292NfaDL2wwSKWoX0du8a9QjbmJ2Rhqb2URA==;YjGJznqcIukV5+G0xwOikQ=="
 ---

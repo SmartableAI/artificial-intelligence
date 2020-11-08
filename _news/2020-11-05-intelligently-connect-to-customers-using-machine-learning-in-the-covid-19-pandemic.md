@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/intelligently-connec
 webUrl: "https://aws.amazon.com/blogs/machine-learning/intelligently-connect-to-customers-using-machine-learning-in-the-covid-19-pandemic/"
 type: article
 quality: 85
-heat: 145
+heat: 135
 published: true
 
 provider:
@@ -101,15 +101,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "How the Pandemic Is Testing Personalized Learning"
-    excerpt: "Karis and Jaron, who are attending school remotely full-time, are participating in personalized learning programs. The mix of instructional models that schools are using during the pandemic is dizzying: Full-time remote,"
-    publishedDateTime: 2020-11-04T06:57:00Z
-    webUrl: "https://www.edweek.org/ew/articles/2020/11/04/how-the-pandemic-is-testing-personalized-learning.html"
-    type: article
-    provider:
-      name: Education Week
-      domain: edweek.org
-    quality: 4
 
 secured: "USGVShVSeqBTLWU6SVOGgvR4jv+ZDhNs1tCgszPFUnXptR0XEmJaPnb57Qd61J+1MCC5BxHQF+232SuT7GzXS4EMwe+euyerLmpQRYaBm0hKwQ/08WcEGiURSWv1LS4YICO8xC9LvqnlvGxPLflNWj955eb+me1m7h2oYPnC1xJSCkVeaHfjBbNqqbnrBFf6K5wqjwP5j9xBEaD2QpYprsHU3vgcxDcvszuXAKIm/cBZXZzEDL/0Qw/U9Q9WONrMwltLc2kusEJQjfDq/kEiCVjWca/bBvgmuiS3sbeWG5mpikrjrEv4Zlrgz6Q8EqLacG4B+TIsdHd3h6PCgljCVwcvqqITxB5JwXQuvLyadvg=;U7I26zTLfQxzbJ9+RLzv1A=="
 ---

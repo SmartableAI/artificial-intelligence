@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-10-27-flippy-robots-will-cook-sliders-in-10-more-white-castle-locations.md",
+      "title": "Flippy robots will cook sliders in 10 more White Castle locations",
+      "excerpt": "Rail — showed promising results in its pilot with White Castle, enough for the burger chain to sign on to deploying the robot in 10 more locations. Back in September, they formally started a pilot program to test Flippy at one White Castle location,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/flippy-robot-white-castle-expansion-090002507.html?ref=hvper.com",
+      "originalUrl": "https://www.engadget.com/flippy-robot-white-castle-expansion-090002507.html?ref=hvper.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F4c4ba8b0-1517-11eb-bbef-af00bd4d0adb&client=amp-blogside-v2&signature=05b6c4fd5bd26f566516f92d0f50c667127f4b24",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/flippy-robot-white-castle-expansion-090002507.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/flippy-robot-white-castle-expansion-090002507.html",
+      "publishedDateTime": "2020-10-27T02:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-white-castle-rolls-out-more-robots-from-miso-robotics-to-cook-in-its-kitchens.md",
       "title": "White Castle rolls out more robots from Miso Robotics to cook in its kitchens",
       "excerpt": "More robots are coming to White Castle ... turned to Miso Robotics’ fry cook in a box to find a solution. “Artificial intelligence and automation have been an area White Castle has wanted ...",
@@ -1140,49 +1192,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms.md",
-      "title": "How artificial intelligence and machine learning power content-first newsrooms",
-      "excerpt": "By Chris Nguyen, executive vice president, marketing at Naviga Digital is no longer just a nice addition to a newspaper’s success, but an imperative. While print remains a key source of revenue — capturing both subscriptions and advertising — spending too much time on designing and managing printed editions has become an obstacle to digital transformation.",
-      "sourceUrl": null,
-      "webUrl": "https://digiday.com/sponsored/how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms/",
-      "originalUrl": "https://digiday.com/sponsored/how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/digiday.com/wp-content/uploads/2020/10/Digiday_Naviga_Banner_1440X600-1.jpg?fit=682%2C284&ssl=1",
-          "width": 681,
-          "height": 284,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://digiday.com/sponsored/how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms/amp/",
-      "cdnAmpWebUrl": "https://digiday-com.cdn.ampproject.org/c/s/digiday.com/sponsored/how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms/amp/",
-      "publishedDateTime": "2020-10-25T17:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digiday",
-        "domain": "digiday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,29 +2,23 @@
 category: news
 title: "Dances with robots, and other tales from the outer limits"
 excerpt: "The working assumption for most of history has been that dance is a thing done by and for humans. Yet it does not seem beyond the pale that robots will one day perform for us mortals, particularly when choreographers like Cuan are using technology to explore the outer limits of the art form."
-publishedDateTime: 2020-11-08T16:04:00Z
-originalUrl: "https://www.baltimoresun.com/featured/sns-nyt-choreographer-explores-robots-20201108-spmkqaagarh6beer5la56u7tqi-story.html"
-webUrl: "https://www.baltimoresun.com/featured/sns-nyt-choreographer-explores-robots-20201108-spmkqaagarh6beer5la56u7tqi-story.html"
-ampWebUrl: "https://www.baltimoresun.com/featured/sns-nyt-choreographer-explores-robots-20201108-spmkqaagarh6beer5la56u7tqi-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/featured/sns-nyt-choreographer-explores-robots-20201108-spmkqaagarh6beer5la56u7tqi-story.html?outputType=amp"
+publishedDateTime: 2020-11-08T20:05:00Z
+originalUrl: "https://www.courant.com/featured/sns-nyt-choreographer-explores-robots-20201108-spmkqaagarh6beer5la56u7tqi-story.html"
+webUrl: "https://www.courant.com/featured/sns-nyt-choreographer-explores-robots-20201108-spmkqaagarh6beer5la56u7tqi-story.html"
+ampWebUrl: "https://www.courant.com/featured/sns-nyt-choreographer-explores-robots-20201108-spmkqaagarh6beer5la56u7tqi-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/featured/sns-nyt-choreographer-explores-robots-20201108-spmkqaagarh6beer5la56u7tqi-story.html?outputType=amp"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Hartford Courant
+  domain: courant.com
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://www.baltimoresun.com/resizer/DnsaEhgUKLqgHCvjtAHFPL3Pdnw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PS3TH2HGORHO5KAV2WJMCYTVOA.jpg"
-    width: 1200
-    height: 801
-    isCached: true
 
 related:
   - title: "Dances With Robots, and Other Tales From the Outer Limits"
@@ -43,7 +37,23 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Dances with robots, and other tales from the outer limits"
+    excerpt: "The working assumption for most of history has been that dance is a thing done by and for humans. Yet it does not seem beyond the pale that robots will one day perform for us mortals, particularly when choreographers like Cuan are using technology to explore the outer limits of the art form."
+    publishedDateTime: 2020-11-08T13:17:00Z
+    webUrl: "https://www.orlandosentinel.com/featured/sns-nyt-choreographer-explores-robots-20201108-spmkqaagarh6beer5la56u7tqi-story.html"
+    ampWebUrl: "https://www.orlandosentinel.com/featured/sns-nyt-choreographer-explores-robots-20201108-spmkqaagarh6beer5la56u7tqi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/featured/sns-nyt-choreographer-explores-robots-20201108-spmkqaagarh6beer5la56u7tqi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 59
+    images:
+      - url: "https://www.orlandosentinel.com/resizer/DnsaEhgUKLqgHCvjtAHFPL3Pdnw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PS3TH2HGORHO5KAV2WJMCYTVOA.jpg"
+        width: 1200
+        height: 801
+        isCached: true
 
-secured: "KVupYJpb12LhYomzPs/GRCjUJG0PwfeHRYiWCIvmtIYMLc+DkEDnpK/Mp2mq62KMGYXSf5yT1/syNEFbjCZ3KzMju8R6ermox68bZ+jx8bGpXUO/Cw9oNXcIHd7A1tmvUFd7S0tQrR2XHqZOSHqQZC8BgSkkyX/JEqvtFcW80I9AxkDjbfZBHxjQpCM30ZQu193XnEJSflkRI/tsd5qK/XfxrqNaXNnwEzYM2zsAUo1f92dWqaIR7QzadNAX3bGPhhQplMnX00GOixT7mfi2fBdTZuLlVJBs1/qm4l4JmgCdEaxaBGkJq0zxTpezcnYxL8EmdQ9BE3pNKtzETdNeaWhihcETbBzRVEpYojeDwlMuVk6g83CKtweQKAnDNc8rhZB4ACR9cMsmSXwMDHR1WwZP2cyEHOuQM3cCdMHa1t8KGds/afsoeOrOEMRemgaeBs8oa7xi2rdOZuYofJsZr9frLMJqyMOJAF1CoqJTw03Lst1YNGx2jQx2EdX8wwZM0MDFn7AtgwdgZppuxcOXyw==;Nlggi2uyrDgqBqHpp5y8pQ=="
+secured: "DxjI6Af/x6LqHlXWIRahvkId0SXJgGtmyI+d0eP0yZat9uXWJeNob65MGsNUpI/sNelLS7JeeUHwpdQGS8MAaphWXYZ6OMXi7Uj+RMwJMvS1SgyZ6o5x/nlxYgZXYYYDmjTQAhbJbejNTOiwkii6X0pVR/YgQ2PeonAEKSC8ea7eRpoh3rIOomcUO/tuNr9k4T8GRF6ydYvtSyxjSLdTwNc1r1Y5eiKNuUzohUbvYW1oZPh8s68iawbbrNVd1TEnkVHFa2Ie8wIenMD1lZpS79opXfU2ZlzOzOJIiiLWZRF6AgG9vNsfSxwifIWfIo2hpCItyDHKp+VtUevEJ85knDSBgYLUuCAwtrKRO8dJbvJBsmS2mkwW1qeikot6OmjM5HVHP6qqoldLQeTzBlifBZGSGlw68blXam8LE2+t06HxsE1YOk5rR0qaSTCOoYSvnV26uqzKNVbTPU9phYIsBr39O0waMhWg1NKXMCbk8jmPVYsgTlym1G/W8Syh43SMc1gQ+Pp8CzV4hWsfkRWAWg==;2DZVshkpQ/pKmoxi3kVHGw=="
 ---
 

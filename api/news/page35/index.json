@@ -2,6 +2,186 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-10-09-taught-by-ai-these-drones-can-perform-incredible-aerial-acrobatics.md",
+      "title": "Taught by AI, these drones can perform incredible aerial acrobatics",
+      "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/video/drones-ai-acrobatics/",
+      "originalUrl": "https://mashable.com/video/drones-ai-acrobatics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F10%252F09%252F14%252Ffb5066ec3bbf42fd9e04464cf84e4044.072ce.jpg%252F1200x630.jpg?signature=38gJR6xTZKIdNAONhPFavOs_Rtw=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/video/drones-ai-acrobatics.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/drones-ai-acrobatics.amp",
+      "publishedDateTime": "2020-10-09T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-study-explores-the-use-of-robots-ai-to-ease-covid-19-pressures-on-hospitals.md",
+      "title": "Study Explores the Use of Robots, AI to Ease COVID-19 Pressures on Hospitals",
+      "excerpt": "Hospitals across the globe could raise their productivity and efficiency as well as increase safety and quality while limiting and decreasing charges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=11686",
+      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=11686",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.azorobotics.com/images/news/ImageForNews_11686_16022476570691643.png",
+          "width": 950,
+          "height": 907,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=11686",
+      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11686",
+      "publishedDateTime": "2020-10-09T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Azorobotics",
+        "domain": "azorobotics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-torc-robotics-to-scale-self-driving-fleet-with-daimler-test-trucks.md",
+      "title": "Torc Robotics to scale self-driving fleet with Daimler test trucks",
+      "excerpt": "Torc Robotics announced that it will scale its self-driving truck testing in the southwest in early 2021 using an enhanced prototype truck developed with Daimler Trucks North America (DTNA).AdvertisementClick Here to Read MoreAdvertisement This new generation of Freightliner Cascadia test trucks bolsters Torc’s capability to develop and test its Level 4 self-driving technology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fleetequipmentmag.com/torc-robotics-scale-self-driving-fleet-daimler-trucks/",
+      "originalUrl": "https://www.fleetequipmentmag.com/torc-robotics-scale-self-driving-fleet-daimler-trucks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s18391.pcdn.co/wp-content/uploads/2020/10/Torc-Daimler.jpg",
+          "width": 600,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-09T07:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fleet Equipment Magazine",
+        "domain": "fleetequipmentmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-modelops-is-just-the-beginning-of-enterprise-ai.md",
+      "title": "ModelOps Is Just The Beginning Of Enterprise AI",
+      "excerpt": "Most of this year, enterprises have been reviewing the lessons learned in the past few years from their Enterprise AI initiatives; i.e. what has worked, what hasn’t, and how to move forward to modernize their infrastructures and take full advantage of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/junwu1/2020/10/09/modelops-is-just-the-beginning-of-enterprise-ai/",
+      "originalUrl": "https://www.forbes.com/sites/junwu1/2020/10/09/modelops-is-just-the-beginning-of-enterprise-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f806558d9b4b5ae48f74c9a%2F0x0.jpg",
+          "width": 1016,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/junwu1/2020/10/09/modelops-is-just-the-beginning-of-enterprise-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/10/09/modelops-is-just-the-beginning-of-enterprise-ai/amp/",
+      "publishedDateTime": "2020-10-09T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-you-only-have-one-voice-dont-let-hackers-steal-it.md",
       "title": "You Only Have One Voice — Don't Let Hackers Steal It",
       "excerpt": "While this democratization of synthetic voice presents interesting opportunities for startups, hobbyists and creatives, the reality is that bad actors have already dipped their toes into employing spoofed voices for audio-based fraud.",
@@ -980,196 +1160,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-wisekey-secures-ensuritys-passwordless-access-to-microsoft-windows-and-azure-ad.md",
-      "title": "WISeKey Secures Ensurity’s Passwordless Access to Microsoft Windows and Azure AD",
-      "excerpt": "WISeKey International Holding Ltd. (“WISeKey”) (SIX: WIHN, NASDAQ: WKEY), a leading global cybersecurity and IoT",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-hyderabad-industrial-products-and-services-electronic-parts-manufacturing-76582e121f95b9ed762a212150e1c70f",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-hyderabad-industrial-products-and-services-electronic-parts-manufacturing-76582e121f95b9ed762a212150e1c70f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-the-secrets-of-small-data-how-machine-learning-finally-reached-the-enterprise.md",
-      "title": "The secrets of small data: How machine learning finally reached the enterprise",
-      "excerpt": "Transfer learning and collective learning enable enterprises to build machine learning models using small data when big data isn't available.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/08/the-secrets-of-small-data-how-machine-learning-finally-reached-the-enterprise/",
-      "originalUrl": "https://venturebeat.com/2020/10/08/the-secrets-of-small-data-how-machine-learning-finally-reached-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/shutterstock_350476919-e1513916353327.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/08/the-secrets-of-small-data-how-machine-learning-finally-reached-the-enterprise/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/08/the-secrets-of-small-data-how-machine-learning-finally-reached-the-enterprise/amp/",
-      "publishedDateTime": "2020-10-08T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-playstation-inventor-starts-new-career-making-robots-for-no-pay.md",
-      "title": "PlayStation Inventor Starts New Career Making Robots for No Pay",
-      "excerpt": "Ken Kutaragi, the legendary inventor of the PlayStation gaming console, is taking on one of the hardest jobs in robotics. And he’s getting paid nothing to do it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-08/playstation-inventor-starts-new-career-making-robots-for-no-pay",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-08/playstation-inventor-starts-new-career-making-robots-for-no-pay",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/istV08PYj0w0/v0/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-08/playstation-inventor-starts-new-career-making-robots-for-no-pay",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-08/playstation-inventor-starts-new-career-making-robots-for-no-pay",
-      "publishedDateTime": "2020-10-08T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-waymo-and-tusimple-autonomous-trucking-leaders-on-the-difficulty-of-building-a-highway-safe-ai.md",
-      "title": "Waymo and TuSimple autonomous trucking leaders on the difficulty of building a highway-safe AI",
-      "excerpt": "TuSimple and Waymo are in the lead in the emerging sector of autonomous trucking; TuSimple founder Xiaodi Hou and Waymo trucking head Boris Sofman had an in-depth discussion of their industry and the tech they’re building at TC Mobility 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/08/waymo-and-tusimple-autonomous-trucking-leaders-on-the-difficulty-of-building-a-highway-safe-ai/",
-      "originalUrl": "https://techcrunch.com/2020/10/08/waymo-and-tusimple-autonomous-trucking-leaders-on-the-difficulty-of-building-a-highway-safe-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/08/waymo-and-tusimple-autonomous-trucking-leaders-on-the-difficulty-of-building-a-highway-safe-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/08/waymo-and-tusimple-autonomous-trucking-leaders-on-the-difficulty-of-building-a-highway-safe-ai/amp/",
-      "publishedDateTime": "2020-10-08T11:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

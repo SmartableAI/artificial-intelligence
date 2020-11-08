@@ -2,6 +2,41 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-28-7-ai-stocks-to-buy-as-automation-advances.md",
+      "title": "7 AI Stocks to Buy as Automation Advances",
+      "excerpt": "However, Waymo is actually rolling out the self ... In any regard, Trimble has multiple end markets that can be disrupted via artificial intelligence and machine learning. Trimble says, We ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28",
+      "originalUrl": "https://www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28?amp",
+      "publishedDateTime": "2020-10-28T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod.md",
       "title": "DIU Selects Summit2Sea Consulting to Develop Artificial Intelligence Technology for the DoD",
       "excerpt": "Summit2Sea Consulting, has been selected by the Department of Defense (DoD) to prototype the Humanless Unmatched Transaction (HUnT) solution for the DoD. \"The solution builds data pipelines to financial transactions to train a Machine Learning model that directs corrective actions to robot workers,",
@@ -1338,49 +1373,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-russian-military-said-to-be-developing-mind-controlled-exoskeleton.md",
-      "title": "Russian military said to be developing mind-controlled exoskeleton",
-      "excerpt": "\"The Russian Army is set to receive mind-controlled exoskeletons,\" the Russian Sputnik media source said. \"The wearable robots will be controlled by brain waves and will increase the strength and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/44889/russian-military-developing-mind-controlled-exoskeleton/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/44889/russian-military-developing-mind-controlled-exoskeleton/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tweaktown.com/images/news/4/4/44889_01_russian-military-developing-mind-controlled-exoskeleton_full.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tweaktown.com/news/44889/russian-military-developing-mind-controlled-exoskeleton/amp.html",
-      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/44889/russian-military-developing-mind-controlled-exoskeleton/amp.html",
-      "publishedDateTime": "2020-10-19T18:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

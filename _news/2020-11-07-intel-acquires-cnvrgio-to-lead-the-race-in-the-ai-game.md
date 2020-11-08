@@ -56,50 +56,6 @@ related:
         width: 850
         height: 400
         isCached: true
-  - title: "Intel acquires Cnvrg.io to boost AI, ML operations"
-    excerpt: "Chip maker Intel has acquired Israel-based full-stack data science platform Cnvrg.io to double down on its machine learning and AI operations."
-    publishedDateTime: 2020-11-04T06:35:00Z
-    webUrl: "https://www.sify.com/finance/intel-acquires-cnvrgio-to-boost-ai-ml-operations-news-topnews-uleg7ucbgjfig.html"
-    ampWebUrl: "https://www.sify.com/finance/intel-acquires-cnvrgio-to-boost-ai-ml-operations-news-topnews-uleg7ucbgjfig.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/intel-acquires-cnvrgio-to-boost-ai-ml-operations-news-topnews-uleg7ucbgjfig.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 76
-    images:
-      - url: "https://www.sify.com/uploads/intel_ians_ukvnBpfhdebii.jpeg"
-        width: 650
-        height: 415
-        isCached: true
-  - title: "Intel acquires data science startup Cnvrg.io"
-    excerpt: "Intel Corp. reportedly has acquired Cnvrg.io, an Israeli data science startup that helps teams create and run machine learning models. TechCrunch made the claim, though neither Intel nor Cnvrg.io has publicly confirmed the news as of the time of writing."
-    publishedDateTime: 2020-11-04T05:18:00Z
-    webUrl: "https://siliconangle.com/2020/11/03/intel-acquires-data-science-startup-cnvrg-io/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 22
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/Cnvrg.png"
-        width: 637
-        height: 449
-        isCached: true
-  - title: "Intel has acquired full-stack data science startup Cnvrg.io"
-    excerpt: "Intel Corp. is reported to have acquired Cnvrg.io, an Israeli full-stack data science startup that helps teams manage models and build auto-adaptive machine pipelines. TechCrunch makes the claim but neither Intel nor Cnvrg."
-    publishedDateTime: 2020-11-04T04:14:00Z
-    webUrl: "https://siliconangle.com/2020/11/03/intel-acquired-full-stack-data-science-startup-cnvrg-io/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 22
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/Cnvrg.png"
-        width: 637
-        height: 449
-        isCached: true
 
 secured: "x6qWIm509zkSub2pAbYX2pBvSl0Y9s1E1cqVY9vZczpvx/U51JRhY2hGjWfxdndREyQNr3wM7l1/2oc0/VJRw+SDBOtmaw474uqXMFhU9pe/41WjenIC7SCdLMIiIfwT5YmtgE/L7KM+V7swuclD+R4/e18InTVu2qOlz9wK/Jl6UH6Gysd01fNDtateyHSfLKkwCZjOg2rMFcMBEd1ydMYrXxw4r3XVhLu/0UV0q6vttvIXWjUcqKqzT4W9t7PlFbApRzqLGLjGA9nhgeCjhMFn5o1+IpcW8ccapoDa7osAL71o150MJYk8o9uflJj2uRglYVd3PXYVhGVuAOzV3XORnm/4tUq7AKyu+MnIfxIzGp1/hmjbX9hdSMC3GfLThjp3br2aXTm61l0P91u4rU5vBbHFJCxNYwo2cDBUcO4mwrXjdsyY7wMQTYiirvtcQRqs14lk0e+JHv5P1hufcmjuvZ6o/YOgb7A8BHxpmouy6VnkK3IPvB7Nnco0rHHVymK2lmBb8W+mwRbWLAc2lg==;Wf9NX1OrLd6a/vtoyzBYaw=="
 ---

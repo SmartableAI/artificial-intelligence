@@ -96,15 +96,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "How the Pandemic Is Testing Personalized Learning"
-    excerpt: "Karis and Jaron, who are attending school remotely full-time, are participating in personalized learning programs. The mix of instructional models that schools are using during the pandemic is dizzying: Full-time remote,"
-    publishedDateTime: 2020-11-04T06:57:00Z
-    webUrl: "https://www.edweek.org/ew/articles/2020/11/04/how-the-pandemic-is-testing-personalized-learning.html"
-    type: article
-    provider:
-      name: Education Week
-      domain: edweek.org
-    quality: 4
 
 secured: "R7fAqGfG+lc3IIyQQvKNOBycYu+zfxBNHbXlvLgX31Oy4lYozV9DqmIdekWdPDNdAHXLpvr+Tsu9KajWFOMKSzwh3TisT9EV8Z3Myvm5zcbCihI+VZ4alEjuikE1EhFGDBCxZKo6e54HglqLZ8IBLCltmDLyvNFAKAS7OGh7i8O9vGQ6G/qEE62aoz27/uSHGX1WOTD24i5evqw12zGvsygX53sAyYQ2p4xP3oMX9GLpOBBfVvcKu/Cf3hGOwkBegeWdbfc9+9cl5szgU3rJwEVx6U8yHR4A0wY0L1gfNVVujh9svu3pVULJYX0R7zwzC55zpL6xAd1/ffNZ4tt+EhqtbWtNxId3ZFcdUmCCAqeEW5ZZzE6KwD51Hk82jkf1CtUXOf2dYBreAf3nZlAZA7t9sH0GErEVyVvl12fJDTp5IRyDmyN8kZ4csRzai/9mL9HJDZpEZmU2YEw4pWTLFFk2U5bkHiZeoeRD9BzX340gkIUeKAC7uux3LbLJOiwHuePeD8S9xG6BFTKabr5XWQ==;gaHoZRqER48XgocRMFxU1g=="
 ---
