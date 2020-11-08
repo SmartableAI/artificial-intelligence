@@ -101,7 +101,7 @@ related:
     provider:
       name: Elmoudjaweb
       domain: elmoudjaweb.com
-    quality: 44
+    quality: 46
     images:
       - url: "https://elmoudjaweb.com/wp-content/uploads/2020/11/Autonomous-vehicle-startup-Pony.ai-raises-267-million-at-an-over.png"
         width: 1200

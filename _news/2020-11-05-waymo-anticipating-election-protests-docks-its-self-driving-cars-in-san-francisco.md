@@ -9,8 +9,8 @@ ampWebUrl: "https://www.archpaper.com/2020/11/waymo-election-protests-docks-its-
 cdnAmpWebUrl: "https://www-archpaper-com.cdn.ampproject.org/c/s/www.archpaper.com/2020/11/waymo-election-protests-docks-its-san-francisco-self-driving-cars/amp/"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: The Architect's Newspaper
@@ -42,20 +42,6 @@ related:
       - url: "https://www.eastbaytimes.com/wp-content/uploads/2020/11/hypatia-h_bfe6eec850c45698ccc926b6623cac82-h_3f3331561d6fc6c4dc68055128326422-1.jpg?w=1024&h=683"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Waymo pauses self-driving car operations in San Francisco in case of election unrest - CNET"
-    excerpt: "Bike and scooter rental companies are also prepping for uncertainty after a contentious contest."
-    publishedDateTime: 2020-11-04T02:06:00Z
-    webUrl: "https://www.newsoneplace.com/35932251911/cnet-waymo-san"
-    type: article
-    provider:
-      name: newsoneplace.com
-      domain: newsoneplace.com
-    quality: 29
-    images:
-      - url: "https://images.weserv.nl/?url=https://cnet4.cbsistatic.com/img/35ULADrDXvnHuoetIbD6B3q8-aU=/300x0/2020/05/08/21d20d2d-d573-4d40-99de-b4d1597a9a4f/waymo.jpg&h=250"
-        width: 375
-        height: 250
         isCached: true
 
 secured: "p8HBV885EDy6tmEkKDNQseQJUfXfzyPotWAFdNayNRHQ0/8+WXemDp4bpEoSKUsQh8b0bgqEkFP0aUnLd5hpjw+6MPm1MVrW/zJ7fbBOHTbQ6OmfhV8RdWOORL42q1InBzu9cEl6a3IZ0i4fwIetnDkRDtpPFy9SjjJ7YBvGDUx8lpXMxFHQZ/Y6wnzCr+wmijL1BhQPfSEroQZewrTW9cJXlYs/9xtyUB3jphALTLgjsgynHZS7ietwbVzdXwbA9oMHz2xN8hHSp0sfFdwj44MjOSBSj7NBMorJxGmAWfb++5h9n7wtCFPZJYAA8d0a2wwnMp1F/H/PH9aEWfCldfnPYoy+dZg+n7mcjuFGdJ+AwyEL9g8mxuqSgyGxKlnt8aEes3ipBojZkStHcgYC7V5b7M8zH9GvI1CBXJZ8w+aMCokRtlKhIIZUV0cmpK4G/yXJJxDb4hReMZqgFvPfPXNZgftygmZe1DiNh/0hAvah6T5Tk9GnMKAtinsu9O3uJupkAy7T6Rfpww4b4zRdTw==;r2VASd9ScNH3CXcI1kBNZA=="

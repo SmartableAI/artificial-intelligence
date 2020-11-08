@@ -8,7 +8,7 @@ webUrl: "https://elmoudjaweb.com/autonomous-vehicle-startup-pony-ai-raises-267-m
 ampWebUrl: "https://elmoudjaweb.com/autonomous-vehicle-startup-pony-ai-raises-267-million-at-an-over-5-3-billion-valuation-jaweb/?amp"
 cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/autonomous-vehicle-startup-pony-ai-raises-267-million-at-an-over-5-3-billion-valuation-jaweb/?amp"
 type: article
-quality: 44
+quality: 46
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://elmoudjaweb.com/wp-content/uploads/2020/11/Autonomous-vehicle-startup-Pony.ai-raises-267-million-at-an-over.png"

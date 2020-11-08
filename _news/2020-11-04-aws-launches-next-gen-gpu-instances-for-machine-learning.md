@@ -7,7 +7,7 @@ originalUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/8820/aws-
 webUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/8820/aws-launches-next-gen-gpu-instances-for-machine-learning"
 type: article
 quality: 73
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 3648
     height: 2736
     isCached: true
-
-related:
-  - title: "AWS launches Amazon EC2 P4d instances, boosting performance for ML training and HPC"
-    excerpt: "Amazon Web Services announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) P4d instances."
-    publishedDateTime: 2020-11-04T02:02:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/11/04/amazon-elastic-compute-cloud-p4d/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 67
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "7BqTu4hkZ26Y2BG2+78r4fiO6zzOI8vEIeajYtDN6H2TRcMJTUCqnD0td/OM3ujG6wMNna5ujsZwIeC5rYSaVhwt324iTWeHv+KgDyb8MAkzToly7Mv1lpFMjriQ/bjkrjLTv89VLsy2uZFeNR2S0+VrfwgmnEYIm+AtPNlzrbDt+sf1kqQTFz9T+RG9gfAyLqEn9tgLfIpg+V55iwFcm9OgALY4M7Ez7vqCo0zy/NPP5AQSK2RNcCACbXcJVFXMRWla3TjyhIIxLqlEi6K6KeQa/2zQOSx3Ca3ayFR9N+dyIrfY4a7kX/4WlYskB2kZgPpswrLcjo9XwxZ1h0EpO84+lXI6yfyYujg4JJNK3QQ=;BkJgjy1fj1OvDw4gwaeFRQ=="
 ---

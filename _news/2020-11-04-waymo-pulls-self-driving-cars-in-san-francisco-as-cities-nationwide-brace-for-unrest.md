@@ -43,20 +43,6 @@ related:
         width: 1600
         height: 993
         isCached: true
-  - title: "Waymo pauses self-driving car operations in San Francisco in case of election unrest - CNET"
-    excerpt: "Bike and scooter rental companies are also prepping for uncertainty after a contentious contest."
-    publishedDateTime: 2020-11-04T02:06:00Z
-    webUrl: "https://www.newsoneplace.com/35932251911/cnet-waymo-san"
-    type: article
-    provider:
-      name: newsoneplace.com
-      domain: newsoneplace.com
-    quality: 29
-    images:
-      - url: "https://images.weserv.nl/?url=https://cnet4.cbsistatic.com/img/35ULADrDXvnHuoetIbD6B3q8-aU=/300x0/2020/05/08/21d20d2d-d573-4d40-99de-b4d1597a9a4f/waymo.jpg&h=250"
-        width: 375
-        height: 250
-        isCached: true
 
 secured: "SprEi/QlI1m8RJO545eAKEvdyYrSnRxPteH4bv5X5SFgeWvEjRDpLPRUv8ONHqxkA850qnxxINooatZb1YLcFb0xGIjr2u3qGeGUlIw2EDq4QyZjrjzbHc6HpGAAiMIvzsfHoRYmG03dOGyhK99FzzrrpQSgw6QU5CmibFMTpk7e9hIYYWGDV4Bq/ioda6E1f73PfeUoD9sV0fl6KASOJmJYHflGkZR2VfNDR6svZFiuX/Jpr3Qm8gemzWFTS3ZZWCYOCulrpDHrJqDo/qg6E2oXgQYpnyC3MDK9i2MFpDm43rkjpB3xiSOF74sgHNCkLzNsxT5nsb5NKbKPQ8NDF02rys3oyB/Ocp9AhJTqg4ldXiQxgzWFhU7c54zGkjpzoACDtER3XysKTxgLSOGxQJM/cAJHHiqkNMRynus6NYxD1l2zRHQqAbvqKI92uAWuV6+viYdIXzt0gYfSQE4wGc+Ed4rNhoDYPYA3g3Fj0+D/+Lg9cuLSDjyxeEVwvaryLqIcXPvyB1NiIUQh0JSn7g==;4SeuqtNVnl+B++YUj+HEBw=="
 ---
