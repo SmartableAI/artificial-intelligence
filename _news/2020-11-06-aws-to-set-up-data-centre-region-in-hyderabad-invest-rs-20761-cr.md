@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thestatesman.com/technology/aws-set-data-centre-region-h
 cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/aws-set-data-centre-region-hyderabad-invest-rs-20761-cr-1502933959.html/amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "AWS Announces Plans to Launch a Second Region in India"
+    excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com company, announced expansion of its services to include a second"
+    publishedDateTime: 2020-11-06T16:51:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/aws-announces-plans-to-launch-a-second-region-in-india/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 39
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/market_covid_shutterstock_1658915128-405x228.jpg"
+        width: 405
+        height: 228
+        isCached: true
 
 secured: "mB7pShzx/4jMcUJCBCUSw279cxrEj0s1xC1Rup6KsTIOacBcLEWgwGdnLfwKXwgt+Em8ZoeGVSzoqycaiDdFtBVkPoCBxydcPaKMO2wkK9mg0WMgK3/ejRsiCMeB0mpZHVCP1g9vb+J4hJEc5p9Zh0bmsCY1qoSDUPQ4JMnrnsoHM+z7zYbfpi6uCw8gBiwjo0VH8/w38JYdsWmzivOBFAD/nCiMwEqg6PWIgqiR7U9zPxOauQvAfqDh5CLGXl/oQR5+n7s2Bc/Hqhvx7Ev9ch/mXYmk7/BQYzXgxUlylZk1ZiNwqGGeAXpgBRGm/sLJqJw1QjHCxXtmmqYt42bQd5DsBjFLtI4aotp+z0/2axO/oAlj/OjDqkYBQd/S0T9msC10hrISsn+I+x/P6a0MyLSeGnkIwGQa0gwsZSUhBufOOthu+jZgX3jDkS9yW9DOWrTVBXfH6l/IJkhus+NP9oqsn1F0Gjw3pGjJcwuWxaZiPOkiQKMxpuD/+SoA9ypW0pPvN1GPBu4iZgro4RRHhw==;zd6nouRv/xGH9IUGD8Ch6w=="
 ---

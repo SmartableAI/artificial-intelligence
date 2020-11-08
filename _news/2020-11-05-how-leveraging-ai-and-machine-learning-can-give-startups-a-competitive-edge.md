@@ -7,7 +7,7 @@ originalUrl: "https://www.techinasia.com/leveraging-ai-machine-learning-give-sta
 webUrl: "https://www.techinasia.com/leveraging-ai-machine-learning-give-startups-competitive-edge"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/24311/aImg/45016/uploads/nov6-2020-optibrium_matt-header.jpg"
         width: 1482
         height: 742
-        isCached: true
-  - title: "The ways artificial intelligence is changing learning & development"
-    excerpt: "One of the biggest challenges that companies face as they try to improve their learning & development programs is time. With today’s technology, L&D professionals can get granular data on how learners interact with content,"
-    publishedDateTime: 2020-11-03T08:21:00Z
-    webUrl: "https://elearning.adobe.com/2020/11/ways-artificial-intelligence-changing-learning-development/"
-    type: article
-    provider:
-      name: Adobe Systems
-      domain: adobe.com
-    quality: 37
-    images:
-      - url: "https://elearningimages.adobe.com/files/2020/11/AdobeStock_208775116-scaled.jpeg"
-        width: 2560
-        height: 1707
         isCached: true
 
 secured: "eKKzGapoTeKnQ/16f9uMwFljMNCh3pftsz87CutlTcOBWqHka8DU5OucjtMN9DcUEjW84qjSjJQXnVQtgtYdzZPglQxZCMlmwQOEEa6C5A9mwPd3fXPvJBKxhkuEaDIjmB8wNtdhkrSZWGEtQbZVDhefPHBYvS6022ktcJuNzjpKYfYgYWH7vu+by+KM5E5w3ymkwS3ZqkqMaQVF3NwsEXlTFk051hRRNbkhe+W4UWFgIm3lqrTNNtEZJGMC9JhbVb4M4cNsTFhHH7t0vAjCDU69Odj1L+15cJKlMFLOi2mg1G6INhA3o3WvePqW3CwPfhvq1XOTaIUSvG23HOyXpF0QMtcxuGEFeMlWPIpKvRsuibhjRQtFgUz/mWjc/sOiP6K4o5ELsKBm7Wb94M+20bolNGMbb9xCCDOKVBDtyIZhFXFvEds+srHG3VzmiqHhfIBPs3nMGUm2uWcJUfSSn5uwLoU/Fk0+HgNwgHL+WLjG9oynkDgmr1YgHJqRmLge8E/4fYI7vwoT2Cu0G0glUA==;vmpPz0I0l06ifpDDY0bntg=="

@@ -25,31 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Wipro and AWS announce the launch of Wipro AWS Business Group"
-    excerpt: "Wipro has announced the launch of Wipro AWS Business Group (WABG), a unit designed to help customers fast-track their cloud transformation journey on AWS."
-    publishedDateTime: 2020-11-03T07:15:00Z
-    webUrl: "https://www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/"
-    ampWebUrl: "https://www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/amp/"
-    cdnAmpWebUrl: "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/amp/"
+  - title: "AWS to set up data centre region in Hyderabad, invest Rs 20,761 cr"
+    excerpt: "Amazon Web Services (AWS) on Friday announced setting up of its second data centre region in India in Telangana that will be operational by mid-2022,"
+    publishedDateTime: 2020-11-06T09:31:00Z
+    webUrl: "https://www.thestatesman.com/technology/aws-set-data-centre-region-hyderabad-invest-rs-20761-cr-1502933959.html"
+    ampWebUrl: "https://www.thestatesman.com/technology/aws-set-data-centre-region-hyderabad-invest-rs-20761-cr-1502933959.html/amp"
+    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/aws-set-data-centre-region-hyderabad-invest-rs-20761-cr-1502933959.html/amp"
     type: article
     provider:
-      name: Voicendata.com
-      domain: voicendata.com
+      name: The Statesman
+      domain: thestatesman.com
     quality: 59
     images:
-      - url: "https://www.voicendata.com/wp-content/uploads/2020/10/handshak-image.jpg"
-        width: 800
-        height: 450
+      - url: "https://www.thestatesman.com/wp-content/uploads/2020/11/AWS_IANS_ED.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Wipro starts dedicated AWS business unit"
-    excerpt: "Wipro announced the launch of its dedicated Wipro AWS Business Group (WABG), a unit designed to help customers fast-track their cloud transformation journey on AWS. WABG merges Wipro's industry experience and portfolio of services with AWS's cloud platforms."
-    publishedDateTime: 2020-11-03T15:20:00Z
-    webUrl: "https://www.telecompaper.com/news/wipro-starts-dedicated-aws-business-unit--1360351"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "Dts+a57T8owEgKiXFBRU1LakK2FsUPIUZCw25NzM/m7b8191iIymNY+FVQq7x4clElweGirzGugG/XsNreqIUBlFrs5lyVzqNoZ4NNn1/yM6tClpQ/0WnwilyJG4IazXJ8iv9S85keCYygav47vkuk9sUq1jssOtmj9LDEd078chwfUKbGsRhgSzTyynnei9g6AZkomI4SgPOSLFUnYaFBW0cL/02AlnVjrKAbMhY4tqLuKyN8SkY1UDfzevlfXv/WU1opi1PiJRmKPcQcMKLKaGb6P5ptlhIOKEhTnq8/GwZoN4thAkeqaISAa5D1TojTuaSApzltP2fUV0DHRq8inHHXgNlECsEv4iJrsceq1HJqW+qSjkrgqOHGAYSwQWXxBKTh91HA1ycQjz7K2ZiHfGPEYdA2y/lEn1I7DNiCEbH7l16dvT4pQwmH2jLpWve6XCbT83OQDEMByOYhS6zEO98SUF8W6X6mKQR8Gfae4RUfjVIWonnZd3U4BI+BgvFw2eycnBD7wUaYxydJkNzw==;eZmGAkJW6NeHIhlt3/rHyw=="
 ---

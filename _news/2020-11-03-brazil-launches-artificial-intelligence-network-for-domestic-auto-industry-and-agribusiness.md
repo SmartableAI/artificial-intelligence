@@ -23,22 +23,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "Brazil launches network on Artificial Intelligence applied to the auto industry and agribusiness sectors"
-    excerpt: "The Brazilian government has announced the launch of a national innovation network focused on artificial intelligence (AI) with the aim of increasing the production capacity and competitiveness of local companies."
-    publishedDateTime: 2020-11-03T08:28:00Z
-    webUrl: "https://en.mercopress.com/2020/11/03/brazil-launches-network-on-artificial-intelligence-applied-to-the-auto-industry-and-agribusiness-sectors"
-    type: article
-    provider:
-      name: Uruguay News
-      domain: mercopress.com
-    quality: 20
-    images:
-      - url: "https://en.mercopress.com/data/cache/noticias/78706/600x315/1-ia-brasil.jpg"
-        width: 600
-        height: 315
-        isCached: true
-
 secured: "UvlLM0jyRErwQabfgGMOk+/0nUQhX3bcDcQr/DAhOQg62TM4gX2Wt2fy2H7ER80git9FJhaQ/Uqah3SWbph7e/R4Sv9QMOItapPP5UxcJ9JwU9qRyN395u+BDCHYud+xP3JAQremH0j+hxm7Q3cZyFuTHr5b/H9fnhOmfn5PJ2R335ea3utdbfw5fPMLojX4O8R2vGzlf7xZcjSGpAiDY3CBCZzKgqdJs1Md4sPsbTGqiZtgr4gtO547zPKF6lU4K81fDzbcHGQmflwah15IuYmPT9E2VYDj2bXYJLKGVBvvArGZRXN17aUd+Ez89BIFUxHoBgsp/hYG5xv8sxLhsOSjStCnek6VOr5DaLF5UIc=;cKue+Y3U8gtKkVAlXOX+Pw=="
 ---
 

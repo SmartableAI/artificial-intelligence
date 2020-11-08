@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/11/03/ai-led-ope
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/03/ai-led-operations-the-smart-way-to-automate/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 900
     isCached: true
-
-related:
-  - title: "Automation and Artificial Intelligence, the Future Today, for Hotels and Property Managers"
-    excerpt: "Automation and Artificial Intelligence, the Future Today, for Hotels and Property Managers By BRISA - The world is changing fast and we are living in a new age, the age of evolution, the age of automation,"
-    publishedDateTime: 2020-11-03T08:50:00Z
-    webUrl: "https://www.cioreview.com/news/automation-and-artificial-intelligence-the-future-today-for-hotels-and-property-managers-nid-32260-cid-112.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 29
-    images:
-      - url: "https://www.cioreview.com/ck_images/1Lic807k.jpeg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "tVHgNg9Ea3z+8CZPTY4L1XGDjkaZWcAa52PvYzs5m1MqY1XE0TN9/yzYZVFO2bhVVfsamho9RFat9SJoJr9x5oxnH24ZiwfIZsZEfU8sIv6+lD+Np/uaxMVSABmHsnknf0dGGIbhpwwc6CKqlrCQLb8mkhqh/ipKzIf6hs2QNgBSGM7RfJvpmuX8RLr5KNSdtDiEXwuPlbBtEmyAtjEnMYAEulux5ufVcbWBPpxd2PbZk+4hFKp9mzTkDupShUAuuNn0Nqk14NJKVvFG6gVOiDYWTJqQwtxWzfV78nZ8pX+yrS19iDWQeHNfphHitD8I2TZHbMs0SwCn2vFl7E/J7r/6T/uAvxIAVa+Rg3bNd5QNlC8vVXGJj7czfrilbSMoWy+1M6Zb/XqDm4B5G/opx/ZUzJV53mi4R3w3R2CtRQooi+SPxf+s7ePHcLgck5Dnai8hXuWrT//jAFN+fQKAPv/g6qZzsmCQoPngmm3Pk5NMJpWDt35yuQcq2KJpfcvKoljMd/mQ//JdsbQ+HA1ZSQ==;VevWya53t6YDiU7RPL4AyA=="
 ---

@@ -2,6 +2,50 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2020-09-25-transforming-enterprises-through-robot-processing-automation.md",
+      "title": "Transforming Enterprises Through Robot Processing Automation",
+      "excerpt": "Robot Processing Automation (RPA) is the process of automating tasks which are repetitive and are performed by humans using software and hardware in a variety of applications. Unlike cognitive intelligence or deep learning,",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/transforming-enterprises-through-robot-processing-automation/",
+      "originalUrl": "https://www.analyticsinsight.net/transforming-enterprises-through-robot-processing-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2020/09/RPA.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-24T11:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-return-on-ai-the-cdao-perspective.md",
       "title": "Return On AI: The CDAO Perspective",
       "excerpt": "Of course, some of the issues around return on AI would be faced by any technology, or at least any new technology. But others are specific to AI because of its insight and decision orientation, or because of the extreme levels of hype and fear around the technology.",
