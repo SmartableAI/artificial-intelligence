@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/359220"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359220"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Here’s how AI is helping cities improve traffic management"
-    excerpt: "This article was originally published by Federico Cheli on Cities Today, the leading news platform on urban mobility and innovation, reaching an international audience of city leaders. For the latest updates follow Cities Today on Twitter,"
-    publishedDateTime: 2020-11-04T00:00:00Z
-    webUrl: "https://thenextweb.com/shift/2020/11/04/heres-how-ai-is-helping-cities-improve-traffic-management-syndication/"
-    ampWebUrl: "https://thenextweb.com/shift/2020/11/04/heres-how-ai-is-helping-cities-improve-traffic-management-syndication/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/11/04/heres-how-ai-is-helping-cities-improve-traffic-management-syndication/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/image-13-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
   - title: "How Emerging Demands Of AI-Powered Solutions Help Gain Momentum Of Businesses"
     excerpt: "The AI market is witnessing a spur of growth owing to the adoption of big data and cloud-based applications, growing investment by tech leaders, and wide applicability and benefits of these AI-led sol"
     publishedDateTime: 2020-11-06T09:40:00Z

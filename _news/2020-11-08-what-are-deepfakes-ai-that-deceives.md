@@ -6,8 +6,8 @@ publishedDateTime: 2020-11-08T12:00:00Z
 originalUrl: "https://www.arnnet.com.au/article/682945/what-deepfakes-ai-deceives/"
 webUrl: "https://www.arnnet.com.au/article/682945/what-deepfakes-ai-deceives/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Hardware
 
 images:
   - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/facebook_deepfake_ai.jpg"

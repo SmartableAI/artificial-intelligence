@@ -46,22 +46,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Here’s how AI is helping cities improve traffic management"
-    excerpt: "This article was originally published by Federico Cheli on Cities Today, the leading news platform on urban mobility and innovation, reaching an international audience of city leaders. For the latest updates follow Cities Today on Twitter,"
-    publishedDateTime: 2020-11-04T00:00:00Z
-    webUrl: "https://thenextweb.com/shift/2020/11/04/heres-how-ai-is-helping-cities-improve-traffic-management-syndication/"
-    ampWebUrl: "https://thenextweb.com/shift/2020/11/04/heres-how-ai-is-helping-cities-improve-traffic-management-syndication/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/11/04/heres-how-ai-is-helping-cities-improve-traffic-management-syndication/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/image-13-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
   - title: "How Artificial Intelligence is Enhancing Online Shopping"
     excerpt: "Disruptive technology like artificial intelligence (AI) is definitely leaving an indelible mark amid a COVID-19 pandemic where social distancing measures are forcing more reliance on tech. The same can be said in the retail sector and as more consumers head online to do their shopping the retail industry is deploying AI to enhance the experience."
     publishedDateTime: 2020-11-04T18:24:00Z

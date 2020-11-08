@@ -1,29 +1,33 @@
 ---
 category: news
-title: "BEHIND THE WHEEL: Where are our self-driving cars?"
-excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time,"
-publishedDateTime: 2020-11-07T04:30:00Z
-originalUrl: "https://www.thereporteronline.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_8dd4f5c6-d8f2-593b-acaf-29c5a85244dd.html"
-webUrl: "https://www.thereporteronline.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_8dd4f5c6-d8f2-593b-acaf-29c5a85244dd.html"
-ampWebUrl: "https://www.thereporteronline.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_8dd4f5c6-d8f2-593b-acaf-29c5a85244dd.amp.html"
-cdnAmpWebUrl: "https://www-thereporteronline-com.cdn.ampproject.org/c/s/www.thereporteronline.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_8dd4f5c6-d8f2-593b-acaf-29c5a85244dd.amp.html"
+title: "Why Those Puddles On The Roadway Can Be Startling Hazardous For Self-Driving Cars"
+excerpt: "This brings us to today’s intriguing question: How will AI-based true self-driving cars fare in coping with puddles on the public roadways? Let’s unpack the matter and see. As a clarification, true self-driving cars are ones that the AI drives the car ..."
+publishedDateTime: 2020-11-08T14:52:00Z
+originalUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/08/why-those-puddles-on-the-roadway-can-be-startling-hazardous-for-self-driving-cars/"
+webUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/08/why-those-puddles-on-the-roadway-can-be-startling-hazardous-for-self-driving-cars/"
+ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/08/why-those-puddles-on-the-roadway-can-be-startling-hazardous-for-self-driving-cars/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/08/why-those-puddles-on-the-roadway-can-be-startling-hazardous-for-self-driving-cars/amp/"
 type: article
-quality: 44
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: The Reporter
-  domain: thereporteronline.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/thereporteronline.com/content/tncms/assets/v3/editorial/9/b6/9b60755b-1c12-5f94-af03-2b485c98cf32/5fa55b00c9d84.image.jpg?resize=1024%2C630"
-    width: 1024
-    height: 630
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3b168c815f73863665f132%2F0x0.jpg%3FcropX1%3D870%26cropX2%3D3023%26cropY1%3D288%26cropY2%3D1670"
+    width: 1200
+    height: 770
     isCached: true
 
 related:
@@ -43,21 +47,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Why Those Puddles On The Roadway Can Be Startling Hazardous For Self-Driving Cars"
-    excerpt: "This brings us to today’s intriguing question: How will AI-based true self-driving cars fare in coping with puddles on the public roadways? Let’s unpack the matter and see. As a clarification, true self-driving cars are ones that the AI drives the car ..."
-    publishedDateTime: 2020-11-08T14:52:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/08/why-those-puddles-on-the-roadway-can-be-startling-hazardous-for-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/08/why-those-puddles-on-the-roadway-can-be-startling-hazardous-for-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/08/why-those-puddles-on-the-roadway-can-be-startling-hazardous-for-self-driving-cars/amp/"
+  - title: "BEHIND THE WHEEL: Where are our self-driving cars?"
+    excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time,"
+    publishedDateTime: 2020-11-07T04:30:00Z
+    webUrl: "https://www.thereporteronline.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_8dd4f5c6-d8f2-593b-acaf-29c5a85244dd.html"
+    ampWebUrl: "https://www.thereporteronline.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_8dd4f5c6-d8f2-593b-acaf-29c5a85244dd.amp.html"
+    cdnAmpWebUrl: "https://www-thereporteronline-com.cdn.ampproject.org/c/s/www.thereporteronline.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_8dd4f5c6-d8f2-593b-acaf-29c5a85244dd.amp.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
+      name: The Reporter
+      domain: thereporteronline.com
+    quality: 44
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3b168c815f73863665f132%2F0x0.jpg%3FcropX1%3D870%26cropX2%3D3023%26cropY1%3D288%26cropY2%3D1670"
-        width: 1200
-        height: 770
+      - url: "https://bloximages.chicago2.vip.townnews.com/thereporteronline.com/content/tncms/assets/v3/editorial/9/b6/9b60755b-1c12-5f94-af03-2b485c98cf32/5fa55b00c9d84.image.jpg?resize=1024%2C630"
+        width: 1024
+        height: 630
         isCached: true
   - title: "Where are our self-driving cars?"
     excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time,"
@@ -104,6 +108,6 @@ related:
         height: 673
         isCached: true
 
-secured: "WvQdRoQ+a5mJ5VJRNbN3l46oZmhtfS4tAPl0HOeo/UHk3aIhs4CsRM2vzZeESqin81oHT14Qc4SWlrr4n0qiUmYfVGnKyqdJKF+Cj769g13Rz8J5O5g2Q/tC23Fcl2RgpNX9mMtoErtL9yoY6QDQTz8JcHcvgutIhFUD5rezmMpgVPd5JnaXFsE/RAwDnrMnCo9WUbUqNyDybseaR0k2iJDyDujPecTRvxKEpovUlIi7bIYKTG3nO6i/SXvBPn73TYG6E2uQlCDTGRva3DUEFm5sJE8KHotzGoPEk3rlsMXq02C1JILW8uOj3/pAB0vFp1IZBfC4rcaHLs2owP/aB5QUU4fM8BsB7KkYhp0rKnBWe3FXnEQl5BFosc6hkp/58WBQxZcIxA0ODkDZRpQS95DbSxVEcMBmBUF9HEp0LCrg2/Vc5vwqYF1qhcOWzddFMbrb95y53OYFBxQNo9V08Jmgc0twrVFAaAJA83EUOVM5lmt2G7H9W1a8a3/vABtiD4scg6pUmYbGmBh9s+r8kQ==;PNetIJzqAWJsTU78l2VxcA=="
+secured: "1CW1+b6rZ17QdlimRZtab8P+cYJDEmc/WYZlVd2YKTAk3dSFl3v9vX729PG9PghpQHWz4wpa2r1yBBu/CoP9BJNf3mw8pYDsqWugqn8RpOczxwGJ72LaaAqmXyekloOwKf93QSsaJA52XVNSZICvMqVUzRsVKP5ZFs929Wq3OmVUn5hcaj/XKoySuba+TAOSy8jkV7JenwAg3iT5hEiy/YT5ATiqTlfAExMuwNnSTxotVZ2YcoaHUbdFjEVgZMXWFTp9HJRmYudPRZGelBaQnDfflV91ububOAtfHv+j4ONQyStsP1AxnwtFy900NxG/hSsHZivh9if4vb8l/G2YzctuLsVfecBhEib4tcZftjU=;yznNd9huNpTIWGfY2+f9Uw=="
 ---
 

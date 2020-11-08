@@ -69,20 +69,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "Researchers use deep learning and 2D and 3D convolutional neural networks to predict the severity of Covid-19"
-    excerpt: "Researchers and doctors from Gustave Roussy, Assistance Publique-Hôpitaux de Paris, CentraleSupélec, Université de Paris, Université Paris-Saclay, Inserm, Inria and TheraPanacea worked on a study on the prediction of the gravity of Covid-19 using artificial intelligence (AI)."
-    publishedDateTime: 2020-11-03T23:31:00Z
-    webUrl: "https://www.actuia.com/english/researchers-use-deep-learning-and-2d-and-3d-convolutional-neural-networks-to-predict-the-severity-of-covid-19/"
-    type: article
-    provider:
-      name: Actu IA
-      domain: actuia.com
-    quality: 35
-    images:
-      - url: "https://www.actuia.com/wp-content/uploads/2020/11/AI-Driven-CT-based-quantification-staging-and-short-term-outcome-prediction-of-COVID-19-pneumonia-couv.jpg"
-        width: 817
-        height: 457
-        isCached: true
   - title: "Huge learning losses during COVID-19 disruptions may have DISD lowering its academic goals"
     excerpt: "Dallas students suffered such deep learning losses during the pandemic that school officials won’t be able to catch them up by the end of the school year, which means DISD wants to lower its academic goals."
     publishedDateTime: 2020-11-06T15:34:00Z

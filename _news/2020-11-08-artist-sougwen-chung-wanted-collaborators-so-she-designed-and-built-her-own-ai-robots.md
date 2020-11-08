@@ -8,7 +8,7 @@ webUrl: "https://www.seattletimes.com/business/technology/artist-sougwen-chung-w
 ampWebUrl: "https://www.seattletimes.com/business/technology/artist-sougwen-chung-wanted-collaborators-so-she-designed-and-built-her-own-ai-robots/?amp=1"
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/artist-sougwen-chung-wanted-collaborators-so-she-designed-and-built-her-own-ai-robots/?amp=1"
 type: article
-quality: 29
+quality: 46
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 related:
   - title: "Artist Sougwen Chung wanted collaborators. So she designed and built her own AI robots."

@@ -7,7 +7,7 @@ originalUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/8820/aws-
 webUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/8820/aws-launches-next-gen-gpu-instances-for-machine-learning"
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
         width: 1200
         height: 627
-        isCached: true
-  - title: "AMD Instinct MI100 CDNA Next-Gen GPU Based Accelerator For HPC Launching This Month, Indicate Leaked Documents"
-    excerpt: "AMD’s powerful Instinct MI100 accelerator is rumored to launch this month. Documents confirming the official arrival of the next-gen CDNA-based GPU"
-    publishedDateTime: 2020-11-04T00:56:00Z
-    webUrl: "https://appuals.com/amd-instinct-mi100-cdna-next-gen-gpu-based-accelerator-for-hpc-launching-this-month-indicate-leaked-documents/"
-    type: article
-    provider:
-      name: appuals.com
-      domain: appuals.com
-    quality: 19
-    images:
-      - url: "https://cdn.appuals.com/wp-content/uploads/2018/09/bx6egdy0.jpg"
-        width: 1012
-        height: 383
         isCached: true
 
 secured: "7BqTu4hkZ26Y2BG2+78r4fiO6zzOI8vEIeajYtDN6H2TRcMJTUCqnD0td/OM3ujG6wMNna5ujsZwIeC5rYSaVhwt324iTWeHv+KgDyb8MAkzToly7Mv1lpFMjriQ/bjkrjLTv89VLsy2uZFeNR2S0+VrfwgmnEYIm+AtPNlzrbDt+sf1kqQTFz9T+RG9gfAyLqEn9tgLfIpg+V55iwFcm9OgALY4M7Ez7vqCo0zy/NPP5AQSK2RNcCACbXcJVFXMRWla3TjyhIIxLqlEi6K6KeQa/2zQOSx3Ca3ayFR9N+dyIrfY4a7kX/4WlYskB2kZgPpswrLcjo9XwxZ1h0EpO84+lXI6yfyYujg4JJNK3QQ=;BkJgjy1fj1OvDw4gwaeFRQ=="
