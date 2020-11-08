@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/3d-printed-hearts-self-driv
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/3d-printed-hearts-self-driving-buses-and-robots/"
 type: article
 quality: 91
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -90,15 +90,6 @@ related:
         width: 768
         height: 391
         isCached: true
-  - title: "Self-driving startup Pony.ai gets funding from FAW"
-    excerpt: "Self-driving technology startup Pony.ai struck a funding agreement with automaker FAW Group, calling it the first strategic investment by a Chinese state-owned vehicle manufacturer into an autonomous-technology company."
-    publishedDateTime: 2020-11-03T10:35:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-startup-ponyai-gets-funding-faw"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 19
 
 secured: "YRaNje+23DribisfVvnFHk6HqeWKz9b4oNdFKUhmfvFpkbTRKsi0dNFW9bJvlhjj0Ag3eC6FIPKSsgF3xqszQ22u7XbkVzDfCe6T4Av/UaedCgq9V057NE+wOuzmgWpEIroi67hMs54dcAb/lhfiUCQ0ivEeFpS+3fuM5cvl5jKIvT++xLWWzjscPug3wodW4yoa8CGdquCvE/7rXllr5jiVIztUdW4MvyNb8Sd9TIguGqHmPF4xsZFIYK9GN00z9s74Y5+44g4qpYsn+Zpxm0UQLG7AvrZkh4NGstYjCsxDtxAGLnHO2IUHMNtME4a6aSZYLLXrFVakFGlHMsjhwreHJnB3NQYZkxyQOL9j1SPIJK3mCwYFFYlZjkG1SN9l/9q1KXd0S3s4stx5UfWjrVxcRYkvdnvle7uIc7YPCFoRPhjY7H8p5pAr6+USU1ysEFIkj+HGaFA2KYaok2boD/7yH7Q1S4EegYl+4nbgyqWbG0cv56VfvKSaZIMPq4CMa4EWVCg9jVm5PQOMCwqoVA==;1fw9RteBh1o90E+Ii9JmXw=="
 ---

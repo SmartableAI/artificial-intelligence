@@ -85,15 +85,6 @@ related:
         width: 768
         height: 391
         isCached: true
-  - title: "Self-driving startup Pony.ai gets funding from FAW"
-    excerpt: "Self-driving technology startup Pony.ai struck a funding agreement with automaker FAW Group, calling it the first strategic investment by a Chinese state-owned vehicle manufacturer into an autonomous-technology company."
-    publishedDateTime: 2020-11-03T10:35:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-startup-ponyai-gets-funding-faw"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 19
 
 secured: "mEhtpzrQpOsm6XZSGh/VTJVKCAssnoUp4U9tarGebbl1pTGKBZdySuHMLiPJ+bL3RQ/S8ZqvWUVAABkYMRTGhElmfAs0O/VCXm0C5XCJDEMfTYWEmGP93wKsG0vG0oiG66VaifdvHXsTrKXURESM001MlagZddAi4x8YOSLrxz5ZV3mY2bb9c9tqjntM0XCFluiYTwFo+HH44e6zvPLAEWSHP8hgjV+067neHz2PjTtfb/4QtYZNlPfcZbiNcEtZF6Xvz1XGYGmwqYdNju/hCPNHbQAX3hW5GUfxsXXNuMxvLLlYSOgEgk5sn9OIWHWZBwj+NLkdbNXyN6v+Fu4p9uX+BVCtGC7wxi+P3EJVNgEo36r3hPXO3hZhNlBfM8P9fO89MD+jlQp+4MuYkgj7oweUTHg+V6KeiAVpzGYsyOBd9H3PRNCp018/ITK0p9hPzBkYc5PwJwKmCz+tDLvaK9DSd3XalzUKH73ypalyfoUSxz8b21vIFUd5X0QPyG0JOfGxPyuxlcddM/NOrl1GZg==;Txj+P+kwUJrv/r2o6P3lDw=="
 ---

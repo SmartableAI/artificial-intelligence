@@ -47,7 +47,7 @@ related:
     provider:
       name: Jamestown Sun
       domain: jamestownsun.com
-    quality: 38
+    quality: 40
     images:
       - url: "https://www.duluthnewstribune.com/incoming/6739338-rx905s-110220.N.DNT.CovidBot-c01.JPG/alternates/BASE_LANDSCAPE/110220.N.DNT.CovidBot%20c01.JPG"
         width: 1140

@@ -69,15 +69,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Schools Adopt Face Recognition in the Name of Fighting Covid"
-    excerpt: "A WIRED investigation finds dozens of districts have purchased thermal cameras to monitor fevers that can also identify students and staff."
-    publishedDateTime: 2020-11-03T11:00:00Z
-    webUrl: "https://www.wired.com/story/schools-adopt-face-recognition-name-fighting-covid/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 49
   - title: "Machine Learning Helps Reduce Food Insecurity During COVID-19"
     excerpt: "Researchers used machine learning to create bus routes and deliver meals to individuals in need, reducing food insecurity in Pennsylvania communities."
     publishedDateTime: 2020-11-06T14:32:00Z
@@ -147,15 +138,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "AI For COVID 19: MIT Model Effectively Detect Corona By Hearing Cough"
-    excerpt: "Asymptomatic patients remain a major concern for the COVID-19 spread. But, this AI model by MIT researchers may help in early detection by hearing coughs."
-    publishedDateTime: 2020-11-03T10:00:00Z
-    webUrl: "https://www.techthirsty.com/ai-for-covid-19-mit-model-effectively-detect-corona-by-hearing-cough/"
-    type: article
-    provider:
-      name: Tech Thirsty
-      domain: techthirsty.com
-    quality: 19
   - title: "How the Pandemic Is Testing Personalized Learning"
     excerpt: "Karis and Jaron, who are attending school remotely full-time, are participating in personalized learning programs. The mix of instructional models that schools are using during the pandemic is dizzying: Full-time remote,"
     publishedDateTime: 2020-11-04T06:57:00Z

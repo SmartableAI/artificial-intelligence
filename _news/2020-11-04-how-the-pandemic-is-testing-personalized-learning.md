@@ -74,15 +74,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "Schools Adopt Face Recognition in the Name of Fighting Covid"
-    excerpt: "A WIRED investigation finds dozens of districts have purchased thermal cameras to monitor fevers that can also identify students and staff."
-    publishedDateTime: 2020-11-03T11:00:00Z
-    webUrl: "https://www.wired.com/story/schools-adopt-face-recognition-name-fighting-covid/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 49
   - title: "Machine Learning Helps Reduce Food Insecurity During COVID-19"
     excerpt: "Researchers used machine learning to create bus routes and deliver meals to individuals in need, reducing food insecurity in Pennsylvania communities."
     publishedDateTime: 2020-11-06T14:32:00Z
@@ -152,15 +143,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "AI For COVID 19: MIT Model Effectively Detect Corona By Hearing Cough"
-    excerpt: "Asymptomatic patients remain a major concern for the COVID-19 spread. But, this AI model by MIT researchers may help in early detection by hearing coughs."
-    publishedDateTime: 2020-11-03T10:00:00Z
-    webUrl: "https://www.techthirsty.com/ai-for-covid-19-mit-model-effectively-detect-corona-by-hearing-cough/"
-    type: article
-    provider:
-      name: Tech Thirsty
-      domain: techthirsty.com
-    quality: 19
 
 secured: "+2qJbMkFOQFUSB6cdKYw49z8yz1mxgQrIOuXkfKxgJ3O4bHblVojzjQBnR1AaAwjJmijguvyhj16UQ/G/kOrQ+CcNfVLFvvQxpogJHP6vzoHS7DJ+9ouGarW00G7u0xnjANjs8lOCnJr0svsy+fN/ANfQmslk9ZLab1Tc6zEsk91lCsAFJNeeLnh9rjOPzVDS8PlKF+OHdCqFvJccO7CuwT5RVYvYxzfLvO8BITQlgOBM5S5wE8VqYeXOUHs0URyqYSnTAalGBV6dkhaABKyp9EcpZpL+HkEb+cTMBk2u4BX/ANQZV3yPy94xaVFI3ASh0dBjdBerDJG7gmdkw1KSQ2LYPM4p1ekan4cp+9xrsRfj54RQH14rnPLyiwl8A21XGC8cm1urrIK2ws5jo0fBXByZY8FdncbuULYfqPXhv4RpBdtqWn5nmtC3L9189DQmQ0j0587GZl0EnORAiokfYa5pHZFfNNluLCIVmopa5KMbwG7mWsMnkebeMSv7T55uP9N833uSC+y8lBqRYWM0Q==;DTT8Il9GSds6F+h6sfMLdA=="
 ---
