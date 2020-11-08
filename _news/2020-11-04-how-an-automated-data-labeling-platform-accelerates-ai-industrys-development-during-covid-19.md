@@ -72,20 +72,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Artificial Intelligence Identifies Asymptomatic COVID-19 Infections"
-    excerpt: "An artificial intelligence tool was able to accurately distinguish between the coughs of COVID-19 patients and healthy individuals."
-    publishedDateTime: 2020-11-03T14:32:00Z
-    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-identifies-asymptomatic-covid-19-infections"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-516323432.jpg"
-        width: 683
-        height: 415
-        isCached: true
   - title: "Using AI to Track the COVID-19 Pandemic’s Impact on Mental Health"
     excerpt: "Textual analysis of social media posts finds users’ anxiety and suicide-risk levels are rising, among other negative trends. Dealing with a global pandemic has taken a toll on the mental health of millions of people."
     publishedDateTime: 2020-11-05T10:30:00Z
@@ -125,17 +111,6 @@ related:
         width: 445
         height: 450
         isCached: true
-  - title: "How an Automated Data Labeling Platform Accelerates AI industry's Development During COVID-19"
-    excerpt: "NEW YORK, NY / ACCESSWIRE / November 3, 2020 / The impact of AI on COVID-19 has been widely reported across the globe, yet the impact of COVID-19 on AI has not received"
-    publishedDateTime: 2020-11-03T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/11/ac18189253/how-an-automated-data-labeling-platform-accelerates-ai-industrys-development-during-covid-19"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18189253"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18189253"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 26
   - title: "COVID Advances Missing Middle of AI Projects"
     excerpt: "The Federal government is responsible for maintaining some very mature artificial intelligence (AI) models and many agencies are exploring AI pilot projects, with few projects in-between – but COVID has pushed agencies to advance their efforts,"
     publishedDateTime: 2020-11-06T17:03:00Z

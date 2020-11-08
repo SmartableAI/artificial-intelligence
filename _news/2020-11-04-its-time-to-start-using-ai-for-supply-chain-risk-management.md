@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "4 Things to Consider Before You Start Using AI in Personnel Decisions"
-    excerpt: "In the hope of making better and fairer decisions about personnel matters such as these, companies have increasingly adopted AI tools only to discover that they may have biases as well."
-    publishedDateTime: 2020-11-03T14:31:00Z
-    webUrl: "https://hbr.org/2020/11/4-things-to-consider-before-you-start-using-ai-in-personnel-decisions?ab=hero-subleft-2"
-    ampWebUrl: "https://hbr.org/amp/2020/11/4-things-to-consider-before-you-start-using-ai-in-personnel-decisions"
-    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/4-things-to-consider-before-you-start-using-ai-in-personnel-decisions"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 57
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2020/11/Nov20_03_2513286.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Conference Better Using AI for Making Notes"
     excerpt: "PINNA, a startup in Artificial Intelligence applications, announced today the launch of a new application TRANSCRIBE.AI that automatically transcribes your calls, so you don't need to take notes during meetings."
     publishedDateTime: 2020-11-05T13:53:00Z

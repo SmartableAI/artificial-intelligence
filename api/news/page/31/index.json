@@ -2,6 +2,49 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-10-13-imagination-technologies-takes-aim-at-data-centers-with-new-chip-designs.md",
+      "title": "Imagination Technologies takes aim at data centers with new chip designs",
+      "excerpt": "Imagination Technologies on Tuesday released new chip technology that it hopes will help it expand into the market for data center chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/imagination-tech-idUSL1N2H31H2",
+      "originalUrl": "https://www.reuters.com/article/imagination-tech-idUSL1N2H31H2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2H31H2",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2H31H2",
+      "publishedDateTime": "2020-10-13T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-tesla-to-deploy-limited-full-self-driving-beta-next-week.md",
       "title": "Tesla to Deploy Limited Full Self-Driving Beta Next Week",
       "excerpt": "Tesla TSLA recently announced that it will launch limited models of full self-driving (FSD) vehicles on Oct 20. The fleet of fully-autonomous vehicles to be rolled out next week will be first available for a small number of careful and expert drivers for testing.",
@@ -1085,49 +1128,6 @@
         "AI",
         "Microsoft AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-elon-musk-says-autopilot-self-driving-beta-will-start-next-tuesday.md",
-      "title": "Elon Musk Says Autopilot Self-Driving Beta Will Start Next Tuesday",
-      "excerpt": "After a complete rewrite of Autopilot and specifically the upcoming FSD (Full Self-Driving) feature, Tesla CEO Elon Musk has tweeted that a closed beta test of the system will be rolling out next ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.caranddriver.com/news/a34347927/tesla-autopilot-fsd-self-driving-beta/",
-      "originalUrl": "https://www.caranddriver.com/news/a34347927/tesla-autopilot-fsd-self-driving-beta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/tesla-autopilot-graphic-1555955220.jpg?crop=0.767xw:0.790xh;0.109xw,0&resize=1200:*",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.caranddriver.com/news/amp34347927/tesla-autopilot-fsd-self-driving-beta/",
-      "cdnAmpWebUrl": "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp34347927/tesla-autopilot-fsd-self-driving-beta/",
-      "publishedDateTime": "2020-10-12T12:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Car and Driver",
-        "domain": "caranddriver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

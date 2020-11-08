@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tweaktown.com/articles/9188/gigabyte-microsoft-azure-ai-
 cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/articles/9188/gigabyte-microsoft-azure-ai-notebook-performance-investigation/amp.html"
 type: article
 quality: 89
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -86,20 +86,6 @@ related:
       - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/11/2020_11$largeimg_705948515.JPG"
         width: 600
         height: 368
-        isCached: true
-  - title: "Large-Scale Multilingual AI Models from Google, Facebook, and Microsoft"
-    excerpt: "Researchers from Google, Facebook, and Microsoft have published their recent work on multilingual AI models. Google and Microsoft have released models that achieve new state-of-the-art performance on NLP tasks measured by the XTREME benchmark,"
-    publishedDateTime: 2020-11-03T14:10:00Z
-    webUrl: "https://www.infoq.com/news/2020/11/multilingual-ai-models/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 56
-    images:
-      - url: "https://res.infoq.com/news/2020/11/multilingual-ai-models/en/headerimage/multilingual-ai-models-header-1604247885452.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Microsoft are the ones behind the gigantic data center in Iowa, have spent $700 million so far"
     excerpt: "The $700 million \"Project Mountain\" data center project in Des Moines, Iowa, has an official owner: Microsoft. Late last week, the Iowa Economic Development Authority Board approved $20 million ..."

@@ -57,6 +57,22 @@ related:
         width: 1024
         height: 630
         isCached: true
+  - title: "Where are our self-driving cars?"
+    excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time,"
+    publishedDateTime: 2020-11-08T05:00:00Z
+    webUrl: "https://tulsaworld.com/business/ap/where-are-our-self-driving-cars/article_a499ed1c-1ecf-11eb-b1cb-6f5b91e3c539.html"
+    ampWebUrl: "https://tulsaworld.com/business/ap/where-are-our-self-driving-cars/article_a499ed1c-1ecf-11eb-b1cb-6f5b91e3c539.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/business/ap/where-are-our-self-driving-cars/article_a499ed1c-1ecf-11eb-b1cb-6f5b91e3c539.amp.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 44
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/7/ee/7ee93946-9cfc-54c8-8337-63e230f69016/5fa2f9970fbbf.image.jpg?resize=1024%2C630"
+        width: 1024
+        height: 630
+        isCached: true
   - title: "Self-Driving Car Legislation Will Try Again Next Year"
     excerpt: "Despite technological advances, thousands of lives are lost every year in automobile accidents. Approximately 93% of these accidents are caused by human error."
     publishedDateTime: 2020-11-06T17:40:00Z

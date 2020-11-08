@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/health-it-leaders-bullish-on-ai-im
 webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/90-of-health-it-execs-expect-widespread-ai-implementation-in-next-5-years.html?utm_source=Triggermail&utm_medium=email&utm_campaign=Post Blast bii-digital-health: Health IT leaders are bullish on AI | Microsoft rolls out Cloud for Healthcare | Unite Us%2C Nebraska HIE tackle social determinants&utm_term=BII List Digital Health ALL"
 type: article
 quality: 164
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "What the public hopes and fears about the use of AI in health care"
-    excerpt: "There has been increasing interest in using health \"big data\" for artificial intelligence (AI) research. As such, it is important to understand which uses of health data are supported by the public and which are not."
-    publishedDateTime: 2020-11-03T14:52:00Z
-    webUrl: "https://medicalxpress.com/news/2020-11-ai-health.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-11-ai-health.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-ai-health.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/whatthepubli.jpg"
-        width: 1356
-        height: 668
-        isCached: true
   - title: "Artificial Intelligence and the Path to Health Care Innovation"
     excerpt: "The American Hospital Association and Microsoft now offer a free, one-hour course, for continuing education credits, to guide health care teams through key considerations and specific actions for AI’s responsible and strategic implementation."
     publishedDateTime: 2020-11-05T14:03:00Z

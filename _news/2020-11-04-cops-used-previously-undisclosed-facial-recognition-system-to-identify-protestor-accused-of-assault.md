@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/cops-used-previously-undisclosed-facial-recognit
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/cops-used-previously-undisclosed-facial-recognition-sys-1845560806/amp"
 type: article
 quality: 75
-heat: 105
+heat: 85
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Police used facial recognition tech on a Twitter video to find and charge a Lafayette Square protester with assault"
-    excerpt: "Court documents offer a rare insight into how the police use facial recognition tech in tandem with social media platforms such as Twitter."
-    publishedDateTime: 2020-11-03T13:38:00Z
-    webUrl: "https://www.businessinsider.com/police-facial-recognition-twitter-video-protester-lafayette-square-assault-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/police-facial-recognition-twitter-video-protester-lafayette-square-assault-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/police-facial-recognition-twitter-video-protester-lafayette-square-assault-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://i.insider.com/5ed65106988ee306e77335d3?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 563
-        isCached: true
   - title: "U.S. Cops Used Previously Undisclosed Facial Recognition System To Identify Protestor Accused Of Assault"
     excerpt: "At an otherwise peaceful protest in Washington, D.C. this past June, one attendee is alleged to have punched an officer in the face before fleeing. According to court documents reviewed by The Washington Post,"
     publishedDateTime: 2020-11-03T20:00:00Z
@@ -62,20 +46,6 @@ related:
       - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2020/11/04/yjypjxtf9ngcamplpfpi-scaled.jpg?ar=16%3A9&fit=crop&q=65&w=1280"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Facial Recognition Used to ID Washington, D.C., Protester"
-    excerpt: "The case was the first time many public defenders they had seen the technology's use disclosed to a defendant after thousands of searches in bank robberies, human trafficking and gang cases."
-    publishedDateTime: 2020-11-03T15:06:00Z
-    webUrl: "https://thecrimereport.org/2020/11/03/facial-recognition-used-to-id-washington-d-c-protester/"
-    type: article
-    provider:
-      name: thecrimereport.org
-      domain: thecrimereport.org
-    quality: 39
-    images:
-      - url: "https://thecrimereport.org/wp-content/uploads/2020/09/2021JJ-HFG_3.jpg"
-        width: 350
-        height: 240
         isCached: true
 
 secured: "GtdpgiD247PY2LetmO7rISdU2u0rHGGVvYenBmcSn+sJnbZ0ZR+AD/Q6wCQa+bW5zGEsUlp0hMAtmTxcWsZOZTuOCjZ5ekDW7dIr8bUyHGQGKuN8IGWJvx5aQ9DTy7zv/rYktSk2C/9mIw35FqMca5b3e6HBPhcxpbxxxaXJ1g7nlpFj4QVv83ZHmxJMDYB30F73oszgoaoDELIxKPERM4THn6pG8FSU3x7lIvGTEcZaCt0iiiQqx5OY4kIB1X6j8IxRT5rTywKbOFlQubBVFEwIoMUZd05hjAXjv8GCHJbnFWWT+HxTf7vNUABkYATikt5YNdrHe1v1xIPPrFgUQ+j9JmdtS6rUB8btnEHnTV0Ctn4DQ31pX0e6xYTndJkGAw+Es5mSCAHDzNoBGaHhAHj7S9Cb6W4FsVQSRjxzufGPwLauTb1Ggs97lmwOYX8qDXcsM+a88O3TQ0DRL8e+y4NGucWZ6qnGY78X1EaHlOqvVNSFqFYfDUMmyhYrl7ovCqJSDk137GZwNp2zifxA7g==;V29dnSRR37gYb+9cgWU7rA=="

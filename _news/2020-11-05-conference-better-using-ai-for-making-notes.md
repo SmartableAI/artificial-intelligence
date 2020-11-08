@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/conference-better-
 webUrl: "https://markets.businessinsider.com/news/stocks/conference-better-using-ai-for-making-notes-1029770581"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,22 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "4 Things to Consider Before You Start Using AI in Personnel Decisions"
-    excerpt: "In the hope of making better and fairer decisions about personnel matters such as these, companies have increasingly adopted AI tools only to discover that they may have biases as well."
-    publishedDateTime: 2020-11-03T14:31:00Z
-    webUrl: "https://hbr.org/2020/11/4-things-to-consider-before-you-start-using-ai-in-personnel-decisions?ab=hero-subleft-2"
-    ampWebUrl: "https://hbr.org/amp/2020/11/4-things-to-consider-before-you-start-using-ai-in-personnel-decisions"
-    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/4-things-to-consider-before-you-start-using-ai-in-personnel-decisions"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 57
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2020/11/Nov20_03_2513286.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "It’s Time to Start Using AI for Supply Chain Risk Management"
     excerpt: "In this contributed article, Nate DeJong and Colleen Eland of LLamasoft, believes it’s worth taking a fresh look at how AI can boost supply chain resiliency, whether that’s creating a digital twin, building predictive models,"
     publishedDateTime: 2020-11-04T14:46:00Z

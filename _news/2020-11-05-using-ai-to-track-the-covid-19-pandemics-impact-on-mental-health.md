@@ -73,20 +73,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Artificial Intelligence Identifies Asymptomatic COVID-19 Infections"
-    excerpt: "An artificial intelligence tool was able to accurately distinguish between the coughs of COVID-19 patients and healthy individuals."
-    publishedDateTime: 2020-11-03T14:32:00Z
-    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-identifies-asymptomatic-covid-19-infections"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-516323432.jpg"
-        width: 683
-        height: 415
-        isCached: true
   - title: "MIT artificial intelligence model detects COVID-19 by sound of cough"
     excerpt: "The AI model for COVID-19 uses the same four biomarkers— vocal cord strength, sentiment, lung and respiratory performance and muscular degradation — as a similar model used to detect Alzheimer's. One of the biggest challenges with slowing the spread of COVID-19 is detecting it in people who never show any symptoms."
     publishedDateTime: 2020-11-03T15:56:00Z
@@ -112,17 +98,6 @@ related:
         width: 445
         height: 450
         isCached: true
-  - title: "How an Automated Data Labeling Platform Accelerates AI industry's Development During COVID-19"
-    excerpt: "NEW YORK, NY / ACCESSWIRE / November 3, 2020 / The impact of AI on COVID-19 has been widely reported across the globe, yet the impact of COVID-19 on AI has not received"
-    publishedDateTime: 2020-11-03T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/11/ac18189253/how-an-automated-data-labeling-platform-accelerates-ai-industrys-development-during-covid-19"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18189253"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18189253"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 26
   - title: "How an Automated Data Labeling Platform Accelerates AI industry’s Development During COVID-19"
     excerpt: "NEW YORK, NY / ACCESSWIRE / November 3, 2020 / The impact of AI on COVID-19 has been widely reported across the globe, yet the impact of COVID-19 on AI has not received much attention. As a direct result of Covid-19,"
     publishedDateTime: 2020-11-03T16:00:00Z

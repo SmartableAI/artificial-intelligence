@@ -71,15 +71,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Machine learning helps hunt for COVID-19 therapies"
-    excerpt: "Scientists have deployed a machine learning model to help drug developers on their most promising leads for attacking one of the SARS-CoV-2 virus' most compelling targets."
-    publishedDateTime: 2020-11-03T14:22:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/10/201028124526.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "Researchers use deep learning and 2D and 3D convolutional neural networks to predict the severity of Covid-19"
     excerpt: "Researchers and doctors from Gustave Roussy, Assistance Publique-Hôpitaux de Paris, CentraleSupélec, Université de Paris, Université Paris-Saclay, Inserm, Inria and TheraPanacea worked on a study on the prediction of the gravity of Covid-19 using artificial intelligence (AI)."
     publishedDateTime: 2020-11-03T23:31:00Z

@@ -39,22 +39,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "What the public hopes and fears about the use of AI in health care"
-    excerpt: "There has been increasing interest in using health \"big data\" for artificial intelligence (AI) research. As such, it is important to understand which uses of health data are supported by the public and which are not."
-    publishedDateTime: 2020-11-03T14:52:00Z
-    webUrl: "https://medicalxpress.com/news/2020-11-ai-health.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-11-ai-health.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-ai-health.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/whatthepubli.jpg"
-        width: 1356
-        height: 668
-        isCached: true
 
 secured: "Nd7nolw9lUBdvyiwx4LJEUaTN0QH/3QCRMWMJK0mu08aP/UMCmaMMLYh7hRpSWW70nyMs9yRFLSpewe9a/iNt76/oU38rlaCCRDHPm406NjYlDtOlN7Clig9u0ELXbag7XpVO93hg7vCuQ4Y7iUgflyhw9S1rShFyp7MoCaUsMuPQhSgxS5zMSq6lPwjtpAlLg/Tchzhk6iINREAKO5x0kAkkwIGAa4X8hM3dHjmMkByq7Pzu4AjYH+riuYzB+IsZqR42xfonv/cy6I+24DQfLYKMMf9u/uvi6Lvg3Nc252AoIKgwSgWruo8utmYggpZ4xV9SO14EduBkby12Dx9oXD5/8+If4HuZi4TtCy8n7WuNYAuJQGS7Zi0l1BV46t3nfbJegdXyI0/vAgPOamKAyVRGtNb2qKcZdV7+Ct+QVN8PTs9ssC0ulW/kD9qZelqT1g1rGEdcsQBRX5tZ2+T9nqKsPZhXKE1y88jAOkfjuJBJNpRz01/0vdQ4YPSLVbscsBX/NUX0m+UyW1Z8ntdGw==;mJjIbUthE3Um1OLGTnXj3g=="
 ---

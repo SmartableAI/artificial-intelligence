@@ -35,18 +35,20 @@ related:
         height: 305
         isCached: true
   - title: "Toyota-backed startup Pony.ai raises $267 million in latest fundraising"
-    excerpt: "James Peng, Chief Executive Office (CEO) of autonomous driving technology startup Pony.ai, speaks at a product event during the third China International Import Expo (CIIE) in Shanghai, China November"
+    excerpt: "Pony.ai, backed by Toyota Motor Corp, said on Friday it has raised $267 million in the initial phase of its fundraising round that values the self-driving startup at $5.3 billion, as it seeks to boost its presence in the United States and China."
     publishedDateTime: 2020-11-06T12:54:00Z
-    webUrl: "https://www.reuters.com/news/picture/toyota-backed-startup-ponyai-raises-267-idUSKBN27M0QW"
+    webUrl: "https://www.reuters.com/article/us-pony-ai-autonomous-idUSKBN27M0QW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0QW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0QW"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 67
+    quality: 87
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540226295&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEGA50IE"
-        width: 810
-        height: 543
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540226295&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA50IE"
+        width: 811
+        height: 545
         isCached: true
 
 secured: "kmnjHK91TvB7Nlv/Jc+AtrqRHLsMkzyFwDNw2ZeYXOZJ8e/a0JPrfRvZhYc7MFiq1E1/JRmDnuRUX8Kuih/++O3UXtU7W028Nijwx5lhk7dxMfUUe4yP9M4Ukg4Oig5M12tRvGG1FaIGk+FuIjJpfJpQEZZYyyXMza28kIgVwTUUkSN+CcsKPgi2D8gBjD/2Gv0wYe/B/TMxjgWgN9a1WUavh5+KPvbQljwLaO0DwTcL3UIf6Yr54VCN68G8QVHCG9gR0Lu/BzreKUyiiGV/6pmcrIOIuD/OZWsUTlkdiUtHX9RGFrVpCTe/b6cOEYm4sGnzKIpPt/naJKi4ThIMCKjxCblx4b4QISENbJTQoEvOYpM2Km7Ou1U8fciRJyXEWBBw/Oab4tBEhR34UpSM1dMLbccTEawRUAZr4WYqY/L4We/FZ3yUurpkAoaGxcZV3WU8fvXgh6uw6OgLkQwGaktf7oowCoj7VSAhaKiIwvzPbHFxQSToaC2LE/y83NwFLNKTbZFlzh7oABcISMS0cA==;WJombWohitFPMVjQeSu5Ng=="

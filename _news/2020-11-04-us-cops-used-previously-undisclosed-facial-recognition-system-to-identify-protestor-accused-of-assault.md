@@ -43,36 +43,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Police used facial recognition tech on a Twitter video to find and charge a Lafayette Square protester with assault"
-    excerpt: "Court documents offer a rare insight into how the police use facial recognition tech in tandem with social media platforms such as Twitter."
-    publishedDateTime: 2020-11-03T13:38:00Z
-    webUrl: "https://www.businessinsider.com/police-facial-recognition-twitter-video-protester-lafayette-square-assault-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/police-facial-recognition-twitter-video-protester-lafayette-square-assault-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/police-facial-recognition-twitter-video-protester-lafayette-square-assault-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://i.insider.com/5ed65106988ee306e77335d3?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 563
-        isCached: true
-  - title: "Facial Recognition Used to ID Washington, D.C., Protester"
-    excerpt: "The case was the first time many public defenders they had seen the technology's use disclosed to a defendant after thousands of searches in bank robberies, human trafficking and gang cases."
-    publishedDateTime: 2020-11-03T15:06:00Z
-    webUrl: "https://thecrimereport.org/2020/11/03/facial-recognition-used-to-id-washington-d-c-protester/"
-    type: article
-    provider:
-      name: thecrimereport.org
-      domain: thecrimereport.org
-    quality: 39
-    images:
-      - url: "https://thecrimereport.org/wp-content/uploads/2020/09/2021JJ-HFG_3.jpg"
-        width: 350
-        height: 240
-        isCached: true
 
 secured: "CP/BbZI7sogfzP7qPluP9Ge9zwgwHEVU+ku/FGFb7hrvb6chZiIGgM2PhKFO013+JMNEwYM3+Etyf5UBm4LP+1lxe+9TMFkHtEtYNABkko//011Lj/RqgjjzxlGIDOT3yqYjHwsMsE+ADeHvHgxNJIc2pIwWUh54TTyY+om0bSb8pL8nUOLj0S9WXHFwZlZ8GC+VTIb+5WtBRZT5aT1DWdpqvRiW2UIiJYZ21Y1SxPBYuyoWXmbtwyuK7jKkD3oA///IQRVNS+EAJSX25UDz4lAa9GK8Wr9vI9AKqiX3s3n2XSAX9XVmNqIorIkpA+/2/UyaWm5yX0fS2kYBAwTxTiP2t5ZpvE1MWxaogfcx1FcVMwsRrdynT9PjgjU4YGDsoy8D2ymSlGS3wfPNG90tLcCjCwCdHEKKfBh+kViSf9YdAlQCbQDKIcS+E+xNQmOGdvTmqbKafhdKnlvKGvktmrDfhlt29okZSalbYKWeRgwPMNOHU837yZya+I0rYNbaAp2V7ryYcZhQ4efMfjGzbw==;/zoSDjC9qYd/iweZ2FsanQ=="
 ---

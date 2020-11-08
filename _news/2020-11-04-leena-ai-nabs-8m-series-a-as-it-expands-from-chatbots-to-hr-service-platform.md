@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expa
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/amp/"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1024
     height: 512
     isCached: true
-
-related:
-  - title: "Greycroft leads Series A funding in HR-tech startup Leena AI"
-    excerpt: "Leena AI, a human resources technology startup, said Tuesday it has raised $8 million (about Rs 59.6 crore) in a Series A funding"
-    publishedDateTime: 2020-11-03T14:18:00Z
-    webUrl: "https://www.vccircle.com/greycroft-leads-series-a-funding-in-hr-tech-startup-leena-ai"
-    type: article
-    provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 37
-    images:
-      - url: "https://assets.vccircle.com/uploads/2018/12/invstlead.jpg"
-        width: 810
-        height: 506
-        isCached: true
 
 secured: "OeJcOiETghVkAQIbr1upnJeUklMU04hFW58bgVI7Pqo+wO7fayPJqxEte3GSIBkmIK59dEtweRfxEmt+Kk0aB/aO/L4R5eHCzsfRux5y127cO9lrMdfn99rAOwCujKJa9bz1a0iJzssX77ypmJ4So5Uq4pmk6ErNoMU3BHjfLRwlaKZiUnZgLDJUnYlUxkVMqHoLZfkUK0E1rXeHiJnzltBaqB62XX8CUJ3TvUlM8Q8OtxygMMggOgly30qmBFYdMQu7Be7oIuHcxRCcynbxNswBfSmqE5Eybni0pKAkK0DHOI0ZsnO3anuUKxuj83czQXw/iQoZ/gLKd/8CEv8lGL7+p2AabA/ewNOdb26DCtIYa9GfEKnHdqdMtCX2ey08AAS+g9nW5uPf+UcJpLev8LQ8BxJRpfLwC3xWeOhVOSphJWjpMDXqAdGxvdN/jWdd1P2GHtpLPKQWd4PtG1/J2TElREGZoBy54+OquK3Y7JsnWZcN4JaM8XFuCIywWME0mVA7rRTdZ94j56I06oA0zg==;+jA4Aq10KED9dcCOYK6/sA=="
 ---

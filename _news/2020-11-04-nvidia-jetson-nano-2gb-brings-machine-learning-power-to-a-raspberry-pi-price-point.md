@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2020/11/03/nvidia-jetson-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2020/11/03/nvidia-jetson-nano-2gb-brings-machine-learning-power-to-a-raspberry-pi-price-point/amp/"
 type: article
 quality: 83
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1000
     height: 668
     isCached: true
-
-related:
-  - title: "Exploring AI With NVIDIA’s $59 Jetson Nano 2GB Dev Kit"
-    excerpt: "NVIDIA's Jetson Nano 2 GB dev kit grants easy access to machine learning tools to accelerate AI at a very affordable price."
-    publishedDateTime: 2020-11-03T13:44:00Z
-    webUrl: "https://hothardware.com/reviews/nvidia-jetson-nano-2gb"
-    ampWebUrl: "https://amp.hothardware.com/reviews/nvidia-jetson-nano-2gb"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/reviews/nvidia-jetson-nano-2gb"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 61
-    images:
-      - url: "https://images.hothardware.com/contentimages/article/3032/content/small_assembled-nvidia-jetson-nano-2gb.jpg"
-        width: 708
-        height: 398
-        isCached: true
 
 secured: "oasRrMykwykBuTehD/lHGOz45KNBOwIH5may3XMFjs9Hnd/yRtYqGDuHYQjHN76kBRE+T/n/OJ0UScNUuI/eW8hx6eIYa7aKJ99YfDTBpU6VSQy1ejcw51hEcnDNSVQmFTWs5ku0Ta0QT6Lx/ljSjzNlGFf568hDEQT5WUp3CEF7quoupAalVObhddW/n+PfeotagXrfs1Z1kXz92kO7165jWPHvYOyvw3i2F/Uz6y4vmXhmpkETLJZumVwzHs0iwoILbEFO7svhGMzOtQUEsaa0OmZ+uvbYEyN4+Z49ZKr46PrvoKSi4Lg47DvE8coTZ/0m7ddPTKjn+FfchdCki8KTlBI37iNxTasm77GPKoC4w0kyAAjxwA1Wq8RtAmdMxJusqt/Z5IeLslnPR9V83Mta2M/nrGMm7nIr1G1O04dv/vU4BWZv2vUTEWHa3AScKztks0+UGqCHePVKRkdZfIN6MQwMvr+dgRtyfn6b9syT6jpfu7cS7FU5/eI3HlmTIiR3V2B2iGJj5sdRTVBtGg==;07xIjkUOfUUYKcZGBrkogw=="
 ---

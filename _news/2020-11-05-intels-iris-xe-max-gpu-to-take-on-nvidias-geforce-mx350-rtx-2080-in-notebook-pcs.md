@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcworld.com/article/3587732/intels-iris-xe-max-gpu-to-ta
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3587732/intels-iris-xe-max-gpu-to-take-on-nvidias-geforce-mx350-rtx-2080-in-notebook-pcs.amp.html"
 type: article
 quality: 83
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/11/DG1-chip-4-760x380.png"
         width: 760
         height: 380
-        isCached: true
-  - title: "Intel Iris XE Max Discrete GPU Rolls Out to Acer, Asus, Dell Thin and Light Laptops"
-    excerpt: "Intel recently launched its Iris XE Max dedicated GPU for specific models of Acer, Asus, and Dell portable and light laptops."
-    publishedDateTime: 2020-11-03T14:00:00Z
-    webUrl: "https://infosurhoy.com/technology/intel-iris-xe-max-discrete-gpu-rolls-out-to-acer-asus-dell-thin-and-light-laptops/"
-    type: article
-    provider:
-      name: InfoSur Hoy
-      domain: infosurhoy.com
-    quality: 33
-    images:
-      - url: "https://infosurhoy.com/wp-content/uploads/2020/11/intel-iris-xe-max-discrete-gpu-rolls-out-to-acer-asus-dell-thin-and-light-laptops.jpeg"
-        width: 650
-        height: 433
         isCached: true
 
 secured: "7jHGS7XYPSrL1lAOC95MuJQrTTpq7tLavsbqsOKXsyqPKCUsq48FsR2WVL6dzPODJ0gscfw2FIOCNp0SFvKldqSnZJIfJv2TtcWbN6G9dZl6hXaTehHWGiQekHx9itV8DpX8RQmhZ2yEgGEmtTv72MgiYwbe4Lu9OpPOscn6hgvvSMswogmtSzGJ5HzA+VPIYkuuorKe9bDR4S6s8b/+s4Pq+5KaXdoDlhBLoqYdUtiREKsOcOa+StHpGNRZIsJz6zizLt4LhxlsJieDjHmFa0n35lDqvGoTgEraatJB+0WVw0JMq/xct4gVndOqhY30Mbtgu4FWlp1ozbfvLoU3+49EA8bsJXSxffLsY9rFiWg=;7s/3QaYTnK9twHLAxiA3/A=="

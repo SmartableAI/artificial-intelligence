@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Machine learning helps hunt for COVID-19 therapies"
-    excerpt: "Scientists have deployed a machine learning model to help drug developers on their most promising leads for attacking one of the SARS-CoV-2 virus' most compelling targets."
-    publishedDateTime: 2020-11-03T14:22:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/10/201028124526.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "Machine Learning Helps Reduce Food Insecurity During COVID-19"
     excerpt: "Researchers used machine learning to create bus routes and deliver meals to individuals in need, reducing food insecurity in Pennsylvania communities."
     publishedDateTime: 2020-11-06T14:32:00Z
