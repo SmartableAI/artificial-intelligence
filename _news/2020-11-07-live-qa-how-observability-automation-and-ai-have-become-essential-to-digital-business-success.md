@@ -1,24 +1,24 @@
 ---
 category: news
 title: "Live Q&A: How observability, automation and AI have become essential to digital business success"
-excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-publishedDateTime: 2020-11-06T22:25:00Z
-originalUrl: "https://www.computerworld.com/resources/210425/live-q-a-how-observability-automation-and-ai-have-become-essential-to-digital-business-success"
-webUrl: "https://www.computerworld.com/resources/210425/live-q-a-how-observability-automation-and-ai-have-become-essential-to-digital-business-success"
+excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
+publishedDateTime: 2020-11-06T21:17:00Z
+originalUrl: "https://www.cio.com/resources/210425/live-q-a-how-observability-automation-and-ai-have-become-essential-to-digital-business-success"
+webUrl: "https://www.cio.com/resources/210425/live-q-a-how-observability-automation-and-ai-have-become-essential-to-digital-business-success"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: CIO
+  domain: cio.com
 
 topics:
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+  - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
     width: 300
     height: 300
     isCached: true
@@ -41,6 +41,6 @@ related:
         height: 542
         isCached: true
 
-secured: "kyTSauVQr7CI8j5XSWJ5S/3zWbrEZW7A1mAnEMkJlVcnbYs6Po/USKiP/rCe2NHMiJ6i+kDAvXCZ8khbOvbd//wXgFU09krMY63znvBBRKGq75lRUgUalLfZxklZhMztK9Q0gAcIp+MKs2v69yV++arFsRQIMKzBbiGLfBTDcWP4XsCxZpW+WJq7AiRdqM98me5TS5WFTwEqCinEgBg1bHj+9F3UKDEqmc+feABhxqDayDfnXJiRKjtBupF+Mzp2hnLcmSyy8FPaIb6afwbWGGp7xXSHdF1ZeQrhZhKrKrX9QBZcmeiLpp6UQaOksDMjau6cDWnE8ZxWfqCxyhZNFbceL9DApM0QGW+UzuRM6+Y=;SNArovgpB/CmYxBcO7I2gg=="
+secured: "RGdvY2aKzCbGYU2fF2Z8jn8cdmGot/0Oh+P3/A2NSaXxk+4eZ9MVmRtYKl6oxIkTSs6yA0xHB6FzfRQzYlQbDLOJv3DBFwTnl4wJotqVR6OX+r3azCshE7Hl6fqQYDXV/vaPj7V2LLuo+uCexa39Ex5K5LT0K02jYMFKqqxX29AXD4m1790xKxxLk1ZTWcYCZiKe+B2iS1So9weDQuV0qAZnixrEOLc59k/L3e0ZDD6ldAqhwXKdPyLcnOYEM04CAAPnIFC1V4qigluip8XhkVldWfAsvlhx/16mhV8lIFV5pkXFGV23I2c/ywB/yFNHBBdFW6EojRzkE60vDZYghSxjomd+2xmdyyOt8rMjupI=;fU8onlMivFrOT28wkY0tgQ=="
 ---
 

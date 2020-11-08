@@ -3,13 +3,13 @@ category: news
 title: "What AI Can Learn From Parents"
 excerpt: "Like raising children, training an artificial intelligence means balancing obedience and independence."
 publishedDateTime: 2020-11-05T19:25:00Z
-originalUrl: "https://www.wsj.com/articles/what-ai-can-learn-from-parents-11604586334?mod=science_list_pos2"
-webUrl: "https://www.wsj.com/articles/what-ai-can-learn-from-parents-11604586334?mod=science_list_pos2"
+originalUrl: "https://www.wsj.com/articles/what-ai-can-learn-from-parents-11604586334"
+webUrl: "https://www.wsj.com/articles/what-ai-can-learn-from-parents-11604586334"
 ampWebUrl: "https://www.wsj.com/amp/articles/what-ai-can-learn-from-parents-11604586334"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/what-ai-can-learn-from-parents-11604586334"
 type: article
-quality: 91
-heat: 91
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -23,7 +23,6 @@ provider:
 topics:
   - AI Ethics
   - AI
-  - Facebook AI
 
 images:
   - url: "https://images.wsj.net/im-255053/social"
@@ -31,6 +30,6 @@ images:
     height: 640
     isCached: true
 
-secured: "kbPL9rmynQpf8roCyusVxwvAL7fNhHqYnQtggDyMcTBkr7H6/UFUsDrOpsjViUEjHRXvVjxT7u+m7/kwNcENN8KiQ8Z0Ap7bJfJL7HfZGU7P99xwXSKWsIrQ7kwDFhE6t35uOgZPS3M9WmB8W1UpYMhsMY9ckDIKEDGqDhw+DXZIwQB7sF1amgv2ATaIAKDHvvg0GnmyPoGu3DNRDg4dGM6G6sN7tzzkxlL/Jhwg9eTmaTZqi+mGqOLKy/s5sMFlNn9nYN3i2Ub8pRpMzWI+0gIEj2dqK0iJgvJf/X4MA69fX/O97Rbj8znUAvmVIr5r5pDBGXqjmQF91ljCCYrFy7ey5sDIkwuo8QKLim3w0bvBtdgwI1Zq6QaVLnktT6o+slX+TmDXNvO3pkZtImy9LbVSIqpY3+1lVBM/zL1iui4dfXPLzh3PCVeyxZImRGgZN0WDnKPQ0B4UpYgKCzhelE9QZOSXJP2WE3aUq+sbmsYorjR3qCaCRXR1geKgU7Ne5KuOjK1tRLmUmqKbLRc2BQ==;uxGSD/QI4jVkSLfZQ702Eg=="
+secured: "Io8IsRDQey+KakCjjR6k1QERtqiYi/CH7Dck7dNkgfTnqPkyn6XWK3Ql7jfqVQgdUyX4c3ZbcL0VFscDxKQxusC1oVX6x5daGNmZX65wkaO2QuzVyauMgUhkE+ylLL28cpY9CAPavGLLjazryGsMpAGKUtULdwTvSJkXLEMnH1KXUS/aGlOzbImyhf4qvgFcN1acFDQeCxWBL1w18Z6PeCHjx3v1davrBlBz8FRVuOSnY2WYyFewyk7QlhF607mvyPoVB9YXXea/zaUJaLFMUXnjbU4LSMARrkCrF/NMGi0wPqRoNCC8KEpP+bgkRgoS6x7MrNXXgb5o5JnMc6nEMdL70l1yALaWWDWrWAT5Er4=;RI1du1IZGDGQ9oTart9JwA=="
 ---
 

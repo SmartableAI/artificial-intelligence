@@ -121,17 +121,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Chinese carmaker invests in Fremont self-driving tech unicorn Pony.ai"
-    excerpt: "SelfDriving tech #unicorn Pony.ai gets strategic backing from Chinese carmaker. #SiliconValley #autotech #autonomousvehicle"
-    publishedDateTime: 2020-11-03T19:42:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2020/11/03/fremont-unicorn-partners-with-chinese-carmaker.html"
-    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/11/03/fremont-unicorn-partners-with-chinese-carmaker.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/11/03/fremont-unicorn-partners-with-chinese-carmaker.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 39
 
 secured: "KZIt+UINQo2C8RgmqEC+dKniSjtiCMbAXj0LryhM52zfFl+ojbLt3DwMBlwJ889A53a+83Dtb1IQSE1Ch74yD7JK/57PweA6iIZIjd/kI7D78BKvfg86wUj/bFSH5f9A0vl3Xgo6KPUPpCN1zk3GKItS8HDVC3PMfhhuIjzAbHQxfVpHHF7SeYRe52IoZOaxarP8//vZDS6cn9WmOI96+vWqZ4XaJOC89q02amj9hwRuXtq/mzwFD9jO3RMD8XJIAK70MaDyIYbarOzq6KcgRfe2QrNKEN67uN2pr8UlzvLD6QjidTcBzeQk3/AE5mIZOKSKwmajrJmORs8WeDB2GoOp3IAVGn5mSLogaKAqUSAbbX4BJIPI/rme9cY9aZk3+uMDaXrHct7PMfPx3VIroz19Qwn+RI+HqlRBKVf/aNlWqXHbxerI4JBQzAz9KRsdHorbuS2mJIqUeNY6HST6qVAO9fSYJo5gwsaNIjBhuyEt2Q2xoBcxPkMkTRStlrTfwM2aLuF3Pw97r1SDNFZGOQ==;sCCEmPm7UcYWh+cj5aKLYw=="
 ---

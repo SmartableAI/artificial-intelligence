@@ -97,6 +97,17 @@ related:
         width: 600
         height: 368
         isCached: true
+  - title: "Will Microsoft Massively Improve Healthcare?"
+    excerpt: "which brought back one of the earliest briefings I took with the IBM Watson team. Let’s talk about Healthcare, AI, and how to do Partnerships right this week. IBM focused Watson on the medical market early on, and I got a chance to talk to one of the ..."
+    publishedDateTime: 2020-11-06T20:15:00Z
+    webUrl: "https://www.datamation.com/applications/will-microsoft-massively-improve-healthcare.html"
+    ampWebUrl: "https://www.datamation.com/amp/applications/will-microsoft-massively-improve-healthcare.html"
+    cdnAmpWebUrl: "https://www-datamation-com.cdn.ampproject.org/c/s/www.datamation.com/amp/applications/will-microsoft-massively-improve-healthcare.html"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 58
   - title: "Self-driving car start-up Wayve deploys Microsoft Azure cloud technology"
     excerpt: "Cambridge, UK-based Wayve, developer of AI software for self-driving cars, has signed a contract with Microsoft for use of the Azure cloud"
     publishedDateTime: 2020-11-05T13:07:00Z

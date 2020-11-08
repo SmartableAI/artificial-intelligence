@@ -107,17 +107,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Chinese carmaker invests in Fremont self-driving tech unicorn Pony.ai"
-    excerpt: "SelfDriving tech #unicorn Pony.ai gets strategic backing from Chinese carmaker. #SiliconValley #autotech #autonomousvehicle"
-    publishedDateTime: 2020-11-03T19:42:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2020/11/03/fremont-unicorn-partners-with-chinese-carmaker.html"
-    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/11/03/fremont-unicorn-partners-with-chinese-carmaker.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/11/03/fremont-unicorn-partners-with-chinese-carmaker.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 39
   - title: "Autonomous driving startup Pony.ai picks up $267M at $5.3B+ valuation"
     excerpt: "Pony.ai, a Chinese startup developing autonomous driving technology for cars and trucks, said late Thursday that it has secured $267 million in additional funding. The investment comes less than a year after the startup raised a hefty $462 million round led by Toyota Motor Corp."
     publishedDateTime: 2020-11-06T20:36:00Z

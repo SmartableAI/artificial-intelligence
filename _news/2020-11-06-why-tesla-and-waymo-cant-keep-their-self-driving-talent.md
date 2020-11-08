@@ -1,27 +1,27 @@
 ---
 category: news
-title: "OOIDA raises concerns over Tesla’s Full Self-Driving system"
-excerpt: "In a letter to NHTSA, OOIDA sounded the alarm on Tesla's Full Self-Driving system, calling it a significant threat to small-business truckers."
-publishedDateTime: 2020-11-05T21:20:00Z
-originalUrl: "https://landline.media/ooida-raises-concerns-over-teslas-full-self-driving-system/"
-webUrl: "https://landline.media/ooida-raises-concerns-over-teslas-full-self-driving-system/"
+title: "Why Tesla and Waymo Can't Keep Their Self-Driving Talent"
+excerpt: "Since August, Tesla, Uber Technologies Inc. and Alphabet Inc.’s Waymo have each lost executives who led ... engineers with expertise in hardware, software or artificial intelligence have an abundance of options. Actual experience leading teams and ..."
+publishedDateTime: 2020-11-06T00:00:00Z
+originalUrl: "https://www.industryweek.com/technology-and-iiot/article/22020545/why-tesla-and-waymo-cant-keep-their-selfdriving-talent"
+webUrl: "https://www.industryweek.com/technology-and-iiot/article/22020545/why-tesla-and-waymo-cant-keep-their-selfdriving-talent"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Land Line
-  domain: landline.media
+  name: IndustryWeek
+  domain: industryweek.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://landline.media/wp-content/uploads/2020/11/201105-OOIDA-tesla.jpg"
-    width: 540
-    height: 420
+  - url: "https://base.imgix.net/files/base/ebm/industryweek/image/2019/05/industryweek_28384_tesla_model_3_0.png?auto=format&fit=max&w=1200"
+    width: 595
+    height: 335
     isCached: true
 
 related:
@@ -41,19 +41,19 @@ related:
         width: 3584
         height: 1832
         isCached: true
-  - title: "Why Tesla and Waymo Can't Keep Their Self-Driving Talent"
-    excerpt: "Since August, Tesla, Uber Technologies Inc. and Alphabet Inc.’s Waymo have each lost executives who led ... engineers with expertise in hardware, software or artificial intelligence have an abundance of options. Actual experience leading teams and ..."
-    publishedDateTime: 2020-11-06T00:00:00Z
-    webUrl: "https://www.industryweek.com/technology-and-iiot/article/22020545/why-tesla-and-waymo-cant-keep-their-selfdriving-talent"
+  - title: "OOIDA raises concerns over Tesla’s Full Self-Driving system"
+    excerpt: "In a letter to NHTSA, OOIDA sounded the alarm on Tesla's Full Self-Driving system, calling it a significant threat to small-business truckers."
+    publishedDateTime: 2020-11-05T21:20:00Z
+    webUrl: "https://landline.media/ooida-raises-concerns-over-teslas-full-self-driving-system/"
     type: article
     provider:
-      name: IndustryWeek
-      domain: industryweek.com
+      name: Land Line
+      domain: landline.media
     quality: 54
     images:
-      - url: "https://base.imgix.net/files/base/ebm/industryweek/image/2019/05/industryweek_28384_tesla_model_3_0.png?auto=format&fit=max&w=1200"
-        width: 595
-        height: 335
+      - url: "https://landline.media/wp-content/uploads/2020/11/201105-OOIDA-tesla.jpg"
+        width: 540
+        height: 420
         isCached: true
   - title: "Liability, Safety and Infrastructure Concerns Slow Development of Self-Driving Cars"
     excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, \"It may do the wrong thing"
@@ -70,6 +70,6 @@ related:
         height: 387
         isCached: true
 
-secured: "m5tuUZJHK+4eOYS87KE0nNbGn975tzCIeHHALqmb36XnH23O67Y8aqyirVP+6LpIkM1dn+bkHWXiQ7cjmcoVjjrX8v19Du911zsbNpUlQHWc26jgVhA2lkt1cf1SG2SJuyNW13lSwyGZFSbPZuxB8I3rEjoYrW1cAuDboLU302JmWI0yjWa/DEIydg7cMgSuhHCJQXaAMpfY5DfexZHEV66YRYfGukcQqVgBcTKiy/3S2yEZjQUuP51LagkJ8pD7mo/wOsw93y4l7mIX04XT8GIDDuF+ZkzZ8jbN7V+Tq09aDenfMHjOKMlxR41ZLabdJHIZf00UYVYu820JJEw4gAk4l4k8IABlsJw+EJvc0I/QxoGSsdNagQT0gmYJrpk4fkgnGv4X3c5tsSdo5WH+F17itMYV58ZiZ8oqUvso1oI9EmyMDpBaIzVg4ls4VWn4bW7hqxxRPZ74fgxk+hUGN2Si/SmmAoMei5O53H5uHn8anLyAgqDnBfficP0oVpoXJYr0pXCESd4YrTRfC/T97A==;CJuhiUzkiH7dU+eQrY1kig=="
+secured: "ceSVHkW6iGenbCGNAYqAZJVE9cEpkpUk5a629IkoU5aDOGcfBo7qTciaBGdpruf6v6fnYrCHYxW2RmUBSmrllWrlx9Hca/LQuCzY+a+xMWt/c9jP8yWv243q4dKREarTJTGG9xh/nHZfq2YQUu6BK+gMxmwzbkHuIl6YAymmqG+aAqdno7FKNmMe4JX9aPB6PUeefC+VrB8gTige/cLTKPgMtEQKTBbLiqy8NRPfWs2+zRXoG0nMmx/Dad9LYRfaJAFJgh4kayIIKVLGIaO12bSSIPlsu4gR5ZXEMrnnKSA5Vn6Vy10KqybUtLKB4FU0+VlQ5s/izdU10SCvTXdaxrnC2QPHqxzeJMUux/QE/r8=;hRMUMMJJd5HN0eWbuY2GJg=="
 ---
 

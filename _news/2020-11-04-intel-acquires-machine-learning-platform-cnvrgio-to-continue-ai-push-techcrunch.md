@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/news/3631130-intel-acquires-machine-learn
 webUrl: "https://cnvrg.io/"
 type: article
 quality: 148
-heat: 198
+heat: 199
 published: true
 
 provider:

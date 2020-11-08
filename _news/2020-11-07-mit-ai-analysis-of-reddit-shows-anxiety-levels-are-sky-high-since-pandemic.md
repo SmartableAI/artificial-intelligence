@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/11/06/mit-ai-analysis-of-reddit-s
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/06/mit-ai-analysis-of-reddit-shows-anxiety-levels-are-sky-high-since-pandemic/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 796
     height: 417
     isCached: true
+
+related:
+  - title: "Covid-19 increased anxiety and suicide risk among Reddit users"
+    excerpt: "Scientists including two of Indian origin have used machine learning (ML) to analyse more than 800,000 Reddit posts and found that users anxiety and suicide risk levels are rising, among other negative trends,"
+    publishedDateTime: 2020-11-06T11:58:00Z
+    webUrl: "https://www.iol.co.za/technology/software-and-internet/covid-19-increased-anxiety-and-suicide-risk-among-reddit-users-dff9ccec-3a98-4c09-a28c-757359c66909"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 24
+    images:
+      - url: "https://image-prod.iol.co.za/resize/1036x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/15c39d48-9ead-5c36-8aea-8a2e3c49a1f9&operation=CROP&offset=0x0&resize=1036x583&webp=false"
+        width: 650
+        height: 366
+        isCached: true
 
 secured: "Jmsm/5e3Y8Y3/wgjU2iJASnltYjYe/nJyUT4/wIDT1ICBBoj3dh3hAWsyX0+jY5qVh7i7qh0f6s2RgEGKuqfVj6sfb4iWyLyrB/niGIFxAn470J74uOu9/M3Cj/xFDI0/xY8q9FHeCFvlrdibLy/rIvqHs0+V8FfJYWM9Q8kV32s84TJsbTC9LokPVEZ+/UHpoplSZldjZrrZhRRqKJZE/0fqUyN0IDM0T0wOP0Tc8IFV1V/ZMOgbghAlAacGbZjD7coD/M53uvhKIvLKcy1eukOgTbxPwLmmGZVr2CyaugQ6alsxw+38LXrN2ZpraDMvjbMJjKIZObnQUI3DdPejltUycMieelVso245Oz9vOZbyGH4BLJvCzvpS/yihFgju8Sgm5HWTxzMwB+5fTgAXAtAKD9aputL1nvE7yvwVV03ZNxWhIHKlbToVsMj94rHZ3u08fHLkB5ZEW1Xio0W8GdGmXByXgVkIpvB6cTd8jy3PMX9cV/atNVZQeqkl4QcNP0tLGVxWwRH82l6iS+jDA==;x52f1x8wNpZCLCP9dSZJ+Q=="
 ---

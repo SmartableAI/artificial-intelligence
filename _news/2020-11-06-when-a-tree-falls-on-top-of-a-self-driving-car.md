@@ -34,16 +34,16 @@ related:
   - title: "BEHIND THE WHEEL: Where are our self-driving cars?"
     excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time,"
     publishedDateTime: 2020-11-07T04:30:00Z
-    webUrl: "https://www.pottsmerc.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_b2d0fac8-1fa2-11eb-bd1a-839f89469b3a.html"
-    ampWebUrl: "https://www.pottsmerc.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_b2d0fac8-1fa2-11eb-bd1a-839f89469b3a.amp.html"
-    cdnAmpWebUrl: "https://www-pottsmerc-com.cdn.ampproject.org/c/s/www.pottsmerc.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_b2d0fac8-1fa2-11eb-bd1a-839f89469b3a.amp.html"
+    webUrl: "https://www.thereporteronline.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_8dd4f5c6-d8f2-593b-acaf-29c5a85244dd.html"
+    ampWebUrl: "https://www.thereporteronline.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_8dd4f5c6-d8f2-593b-acaf-29c5a85244dd.amp.html"
+    cdnAmpWebUrl: "https://www-thereporteronline-com.cdn.ampproject.org/c/s/www.thereporteronline.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_8dd4f5c6-d8f2-593b-acaf-29c5a85244dd.amp.html"
     type: article
     provider:
-      name: The Mercury
-      domain: pottsmerc.com
+      name: The Reporter
+      domain: thereporteronline.com
     quality: 44
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/pottsmerc.com/content/tncms/assets/v3/editorial/4/cb/4cb5c470-1fa3-11eb-9a18-27ec9e939d6d/5fa45d30d6deb.image.jpg?resize=1024%2C630"
+      - url: "https://bloximages.chicago2.vip.townnews.com/thereporteronline.com/content/tncms/assets/v3/editorial/9/b6/9b60755b-1c12-5f94-af03-2b485c98cf32/5fa55b00c9d84.image.jpg?resize=1024%2C630"
         width: 1024
         height: 630
         isCached: true
