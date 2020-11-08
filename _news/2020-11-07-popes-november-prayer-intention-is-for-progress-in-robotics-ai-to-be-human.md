@@ -8,8 +8,8 @@ webUrl: "https://international.la-croix.com/news/religion/popes-november-prayer-
 ampWebUrl: "https://international.la-croix.com/amp/religion/popes-november-prayer-intention-is-for-progress-in-robotics-ai-to-be-human/13302"
 cdnAmpWebUrl: "https://international-la--croix-com.cdn.ampproject.org/c/s/international.la-croix.com/amp/religion/popes-november-prayer-intention-is-for-progress-in-robotics-ai-to-be-human/13302"
 type: article
-quality: 85
-heat: 95
+quality: 87
+heat: 97
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Ethics
 
 images:
   - url: "https://international.la-croix.com/uploads/news/2020/11/popes-november-prayer-intention-is-for-progress-in-robotics-ai-to-be-human-13302-99.jpeg"

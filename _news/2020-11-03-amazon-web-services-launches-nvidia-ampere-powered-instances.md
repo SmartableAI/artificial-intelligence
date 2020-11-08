@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS launches new GPU instances for machine learning and HPC"
-    excerpt: "Called P4, the new instances will run on Intel Cascade Lake processors and eight Nvidia A100 Tensor Core GPUs. Amazon Web Services (AWS), the retail giant’s cloud arm, just launched its latest GPU-equipped cloud instances."
-    publishedDateTime: 2020-11-03T13:00:00Z
-    webUrl: "https://www.itproportal.com/news/aws-launches-new-gpu-instances-for-machine-learning-and-hpc/"
-    ampWebUrl: "https://www.itproportal.com/amp/news/aws-launches-new-gpu-instances-for-machine-learning-and-hpc/"
-    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/aws-launches-new-gpu-instances-for-machine-learning-and-hpc/"
-    type: article
-    provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 93
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/88UejibhsWKbhFSpfr62oA-1200-80.jpg"
-        width: 1000
-        height: 668
-        isCached: true
   - title: "AWS launches next-gen GPU instances for machine learning"
     excerpt: "AWS has launched its latest GPU-equipped instances aimed at machine learning and high-performance computing (HPC) workloads. Called P4d, the new instances come ten years the first set of GPU instances were launched."
     publishedDateTime: 2020-11-04T14:52:00Z

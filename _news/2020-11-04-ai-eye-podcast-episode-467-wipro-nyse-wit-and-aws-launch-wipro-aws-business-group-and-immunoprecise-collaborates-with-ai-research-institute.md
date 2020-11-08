@@ -26,26 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "ImmunoPrecise Antibodies and Mila Announce Strategic AI Partnership"
-    excerpt: "CNW/ - IMMUNOPRECISE ANTIBODIES LTD. (the 'Company' or 'IPA') (TSXV: IPA) (OTCQB: IPATF) (FSE: TQB2), a leader in"
-    publishedDateTime: 2020-11-03T12:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758397"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758397"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758397"
+  - title: "Wipro starts dedicated AWS business unit"
+    excerpt: "Wipro announced the launch of its dedicated Wipro AWS Business Group (WABG), a unit designed to help customers fast-track their cloud transformation journey on AWS. WABG merges Wipro's industry experience and portfolio of services with AWS's cloud platforms."
+    publishedDateTime: 2020-11-03T15:20:00Z
+    webUrl: "https://www.telecompaper.com/news/wipro-starts-dedicated-aws-business-unit--1360351"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-  - title: "Artificial Intelligence Technology Solutions and Swan Island Networks Announce Strategic Alliance"
-    excerpt: "Artificial Intelligence Technology Solutions, Inc. (OTCPK:AITX) is pleased to announce that its wholly-owned subsidiary Robotic Assistance"
-    publishedDateTime: 2020-11-06T06:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-and-swan-island-networks-announce-strategic-alliance-1029770818"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "2DpFr0Tu32Abe9iwljWdWd6mWGLFyVjP31mC4P4GgNDLx1gIjQzkfYXxqXiBM6QP1xlq9MxhHs7C4H/PA1HCxsZO7vHA+/lYViyCEe65Xf79K3TJDhIp39dXIw2TXt7gv4viX7TKXAjSGLBoQ39pX/96m83ldhSQXhPDpjTTZGMjZutRnLnuFTD5bu1JkW5KHVBd/aBbMTeqS6zoP2WeyLDK347Rf2OI1vp6+SauDOzZ+PKR2N1cHIdwUdYHuagijnNPByrvktkvjWYggfiDe6u0kAbmoeXGQK/A1NjzOtGB5xIkN3tfcH7EVyg8W50/3zzqKA6WZqoqNxhnHW8WBogbc2UYv1lj+iUucgBZKQ8=;c3U0a8/zh5KVqbgUgo+CCw=="
 ---

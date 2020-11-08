@@ -109,15 +109,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market 2020 New Technology Research – Google, IBM, Baidu, Microsoft, Apple Inc., Ipsoft, NVIDIA corporation"
-    excerpt: "Artificial Intelligence Global Market Report 2020-30: Covid 19 Growth and Change The artificial intelligence market consists of sales of the artificial intelligence software and related services. Artificial Intelligence (AI) some times referred to as machine intelligence."
-    publishedDateTime: 2020-11-03T11:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-new-technology-research-google-ibm-baidu-microsoft-apple-inc-ipsoft-nvidia-corporation-2020-11-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
   - title: "Microsoft are the ones behind the gigantic data center in Iowa, have spent $700 million so far"
     excerpt: "The $700 million \"Project Mountain\" data center project in Des Moines, Iowa, has an official owner: Microsoft. Late last week, the Iowa Economic Development Authority Board approved $20 million ..."
     publishedDateTime: 2020-11-03T18:22:00Z
@@ -145,20 +136,6 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 39
-  - title: "QuEST Global launches Center of Excellence for Microsoft Azure to develop innovative solutions for customers"
-    excerpt: "QuEST Global, a global product engineering and lifecycle services company, today announced it has signed an agreement with Microsoft to launch a dedicated Center for Excellence (CoE) for Microsoft Azure."
-    publishedDateTime: 2020-11-03T12:00:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-pune-products-and-services-f8ffb465162d071f3e77db0782e3abf3"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 35
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Government leaders share their vision on the next frontier of tech innovation in governance, at the Microsoft Digital Governance Cloud & AI Summit"
     excerpt: "Cloud and AI are playing a central role in reshaping education ... agriculture, education, logistics, language translation and more. “ Dr. Rajendra Kumar, Additional Secretary, Ministry of Electronics and Information Technology (MeitY), Govt."
     publishedDateTime: 2020-11-06T10:56:00Z

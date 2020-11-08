@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Walmart is giving up on shelf-scanning robots in favor of humans"
-    excerpt: "Walmart began using robots supplied by Bossa Nova Robotics in 2017, with initial deployments in 50 locations. The mobile robots would simplify routine work in stores, said the company, using machine vision to scan shelves and identify what products needed restocking."
-    publishedDateTime: 2020-11-03T11:45:00Z
-    webUrl: "https://www.theverge.com/2020/11/3/21547306/walmart-shelf-scanning-robots-automation-bossa-nova-robotics-contract-ended"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/11/3/21547306/walmart-shelf-scanning-robots-automation-bossa-nova-robotics-contract-ended"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/11/3/21547306/walmart-shelf-scanning-robots-automation-bossa-nova-robotics-contract-ended"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 89
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/t3ZrzqtpB7sjyV4z4vnFdTPRAys=/0x0:3500x2240/1400x933/filters:focal(1470x840:2030x1400):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67730216/964537032.jpg.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "Former Walmart Exec’s Company Uses AI To Battle Billions In Spoiled Produce"
     excerpt: "More than $15 billion in produce shipments to food stores is wasted or rejected each year. But a former Walmart shipping executive has started a company to help reduce those losses by using technology to streamline the process."
     publishedDateTime: 2020-11-04T11:09:00Z
@@ -72,20 +56,6 @@ related:
       - url: "https://elmoudjaweb.com/wp-content/uploads/2020/11/Walmart-To-End-Experiment-With-Robots-In-US-Stores-–.jpg"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Walmart gets rid of inventory robots, says human as good"
-    excerpt: "There have always been fears that robots are going to take away a lot of routine tasks and some white-collar jobs too in the future. Artificial Intelligence has already insidiously taken over many supervisory tasks without many being aware of it."
-    publishedDateTime: 2020-11-04T12:39:00Z
-    webUrl: "https://www.industryleadersmagazine.com/walmart-gets-rid-of-inventory-robots-says-human-as-good/"
-    type: article
-    provider:
-      name: Leadership
-      domain: industryleadersmagazine.com
-    quality: 39
-    images:
-      - url: "https://www.industryleadersmagazine.com/wp-content/uploads/2020/11/Walmart-Inventory-Robots-Fires-All.png"
-        width: 840
-        height: 559
         isCached: true
   - title: "Walmart To End Experiment With Robots In US Stores"
     excerpt: "Walmart has pulled the plug on a program to use robots to scan items in stores and help maintain inventory, a company spokeswoman said Tuesday. The retail giant had worked with Bossa Nova Robotics for five years employing elongated robots that take readings on inventory and utilize artificial intelligence to predict product movement and inventory needs."

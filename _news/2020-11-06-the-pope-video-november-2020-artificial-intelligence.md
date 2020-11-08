@@ -36,7 +36,7 @@ related:
     provider:
       name: globalpulsemagazine.com
       domain: la-croix.com
-    quality: 85
+    quality: 87
     images:
       - url: "https://international.la-croix.com/uploads/news/2020/11/popes-november-prayer-intention-is-for-progress-in-robotics-ai-to-be-human-13302-99.jpeg"
         width: 550

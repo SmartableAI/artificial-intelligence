@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/359222"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359222"
 type: article
 quality: 89
-heat: 119
+heat: 99
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Leena AI Raises $8 Mn In Series A Round Led By Greycroft"
-    excerpt: "The New York-headquartered company will use the fresh capital to expand its go-to-market programs and accelerate product development"
-    publishedDateTime: 2020-11-03T12:19:00Z
-    webUrl: "https://www.entrepreneur.com/article/358939"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 47
   - title: "HR-Tech Startup Leena AI Raises $8M In Series A Funding To Accelerate Hiring & Product Development"
     excerpt: "Leena AI, an AI-based employee experience platform, has announced an $8 million funding in Series A round led by Greycroft."
     publishedDateTime: 2020-11-04T08:03:00Z
@@ -54,15 +45,6 @@ related:
         width: 1050
         height: 700
         isCached: true
-  - title: "Leena AI raises $8M in series A funding to revolutionize employee experience"
-    excerpt: "Leena AI, an artificial intelligence (AI)-powered employee experience platform, today announced an USD 8 million Series A financing led by Greycroft to expand its go-to-market programs and accelerate"
-    publishedDateTime: 2020-11-03T11:30:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/leena-ai-raises-8m-in-series-a-funding-to-revolutionize-employee-experience-120110301240_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 16
 
 secured: "ZSzfa2o/nWiZLvW3+JRuQjNhhSQR7O/r5td/2hWL4cTbqftz1V7X8Q/Ahowee7FexxMZNLbyTckP6BU45cTRjkwnGT+563tvBe8hhoI7NZvGFLl+Yi67wsso313bqroJevYhDuJV3HNDV/EVZ/uoLkARXmCyMiKdLJnSWOwVrr1zl5kg/MBJ5BHEFKuPYcipHqsVvZ+gsoZ5w4QtR/wicIEO9jKA3/l1H+kM4thDuHJhR+fLp080TMBvS4707Uqgn/t44kfNesy3dgkisWoqZgMaCES8mQk+9OQW5pG+icZVGVzWkuhHisQsN8USM0nBvq4KRsilNR5eoIyehVLkpRf3wg5AYJsdY7QA4Cz8dDZ6L24WtPVxTj9wq9hCA8KU1ck0QMlY81pcz2eAYmrMtr3OGwOgzCR0A+UEPjiqT8RuY71qXeNO9g/S+fnvAfwjhdoFIp84EaHd5xtEXfazvbiQLZYEsJQysET2h1DNtAfI8Pd/jYmmGoDamUQ8ApLVXzv85Wl6R+nTjAuG/xmFQQ==;AB3VRjlwqqDzNqw9Uep7lg=="
 ---

@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "OOIDA raises concerns over Tesla’s Full Self-Driving system"
-    excerpt: "In a letter to NHTSA, OOIDA sounded the alarm on Tesla's Full Self-Driving system, calling it a significant threat to small-business truckers."
-    publishedDateTime: 2020-11-05T21:20:00Z
-    webUrl: "https://landline.media/ooida-raises-concerns-over-teslas-full-self-driving-system/"
-    type: article
-    provider:
-      name: Land Line
-      domain: landline.media
-    quality: 54
-    images:
-      - url: "https://landline.media/wp-content/uploads/2020/11/201105-OOIDA-tesla.jpg"
-        width: 540
-        height: 420
-        isCached: true
   - title: "BEHIND THE WHEEL: Where are our self-driving cars?"
     excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time,"
     publishedDateTime: 2020-11-07T04:30:00Z
@@ -85,15 +71,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI That Mistook Referee For A Ball & The Self Driving Car That Hit The Wall: A Week Of AI Botch-Ups"
-    excerpt: "The live stream of the event captures Acronis’ vehicle driving straight into a wall surprising its engineers and leaving the viewers in splits. The botched up was addressed by one of the engineers in a Reddit post ."
-    publishedDateTime: 2020-11-03T12:03:00Z
-    webUrl: "https://analyticsindiamag.com/ai-flaws-roborace-crash-self-driving-car/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 20
 
 secured: "P23wY6psia5mRRxcchj/SDcVjTl/cZNS4tzNgetoXhqlDrJC+2S1yFcg3ne9injm5708q8wViTifC3BPuzlyMMoPWQZbPUutxuqvR+6Fr8G6BZNpOOQAs8Egzhv0i6gtK9xXUbeoDjmzVcArgvRmyJ/3HvDfB2P5orA7fsTcSquN+sujTDfd7j00FJgBrdA/i+17cX1EC1A8O/nMkKFChzxyipbZnLnLR6xeqCSiimsWrOszeOBuExfwIT0yMsvafDD0EomdzwwQ/Ie364Qgg4YilOU/XPyS1C99Ar5zIaKU7i1VrQRLqsxTF6eFUyGAUegU6Yye4SgcaMQ/KQ0wP2Ohw1x8V/f8e8oVeVoxUjg=;2RsrPwfhiQ7YW7DZT6MC7w=="
 ---

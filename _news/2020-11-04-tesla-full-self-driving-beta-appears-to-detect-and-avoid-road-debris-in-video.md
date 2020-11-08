@@ -9,8 +9,8 @@ ampWebUrl: "https://electrek.co/2020/11/04/tesla-full-self-driving-beta-detect-a
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/04/tesla-full-self-driving-beta-detect-avoid-road-debris-video/amp/"
 type: article
 quality: 86
-heat: -1
-published: false
+heat: 116
+published: true
 
 provider:
   name: Electrek
@@ -31,63 +31,49 @@ images:
     isCached: true
 
 related:
-  - title: "3D-printed hearts, self-driving buses, and robots"
-    excerpt: "Technologies that were still largely in development or limited rollout a year ago are now becoming commonplace, including self-driving cleaning robots and automation in areas like fast food and delivery."
-    publishedDateTime: 2020-11-03T12:00:00Z
-    webUrl: "https://www.zdnet.com/article/3d-printed-hearts-self-driving-buses-and-robots/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/3d-printed-hearts-self-driving-buses-and-robots/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/3d-printed-hearts-self-driving-buses-and-robots/"
+  - title: "Musk Says Canada And Norway Are Next To Get Tesla Full Self-Driving Beta"
+    excerpt: "FSD will be rolled out in the two countries after the necessary approvals are given, possibly in February or March."
+    publishedDateTime: 2020-11-03T19:58:00Z
+    webUrl: "https://insideevs.com/news/452324/canada-norway-next-to-get-tesla-fsd/"
+    ampWebUrl: "https://insideevs.com/news/452324/canada-norway-next-to-get-tesla-fsd/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/452324/canada-norway-next-to-get-tesla-fsd/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 91
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 58
     images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/11/02/ed6fcd42-5f15-45ca-ac85-27699560d6a1/robot-touch.jpg"
-        width: 910
-        height: 555
+      - url: "https://cdn.motor1.com/images/mgl/nYB8R/s1/fsd.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "The Robots Are Coming To Miami: Ford Rolls Out Self-Driving Car Outpost"
-    excerpt: "Ford Autonomous Vehicles, a subsidiary of Ford Motor Cos., announced last week that it will be opening a command center west of Miami International Airport, a key step in the company's goal to offer ride-hailing and commercial delivery services by 2022."
-    publishedDateTime: 2020-11-04T19:29:00Z
-    webUrl: "https://www.bisnow.com/south-florida/news/commercial-real-estate/miami-ford-self-driving-cars-106573"
+  - title: "OOIDA raises concerns over Tesla’s Full Self-Driving system"
+    excerpt: "In a letter to NHTSA, OOIDA sounded the alarm on Tesla's Full Self-Driving system, calling it a significant threat to small-business truckers."
+    publishedDateTime: 2020-11-05T21:20:00Z
+    webUrl: "https://landline.media/ooida-raises-concerns-over-teslas-full-self-driving-system/"
     type: article
     provider:
-      name: Bisnow
-      domain: bisnow.com
-    quality: 41
+      name: Land Line
+      domain: landline.media
+    quality: 54
     images:
-      - url: "https://cdn.bisnow.net/fit?height=1200&type=png&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2020%2F11%2F5fa071d7987c2-screen-shot-2020-11-02-at-3-53-21-pm.png&width=1200&sign=HMMbCuy2ZKCL2vT3os-SqNT-u-PSp2Zd6zWDcvPEm_4"
-        width: 1200
-        height: 694
+      - url: "https://landline.media/wp-content/uploads/2020/11/201105-OOIDA-tesla.jpg"
+        width: 540
+        height: 420
         isCached: true
-  - title: "The future: robot nurses and driving a forklift from your living room"
-    excerpt: "A number of machinery companies and start-ups are developing teleoperated equipment ... whether or not the real machine has a human in its drivers cabin. Although artificial intelligence is not used to control the machine, teleoperation can produce ..."
-    publishedDateTime: 2020-11-05T11:08:00Z
-    webUrl: "https://www.irishtimes.com/business/technology/the-future-robot-nurses-and-driving-a-forklift-from-your-living-room-1.4398883"
+  - title: "Liability, Safety and Infrastructure Concerns Slow Development of Self-Driving Cars"
+    excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, \"It may do the wrong thing"
+    publishedDateTime: 2020-11-05T00:00:00Z
+    webUrl: "https://www.insurancejournal.com/news/national/2020/11/05/589778.htm"
     type: article
     provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 39
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 18
     images:
-      - url: "https://www.irishtimes.com/image-creator/?id=1.4398882&origw=1440"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Concordia researchers dig deep into the software powering self-driving cars"
-    excerpt: "Peeking under the hood of a self-driving car will only tell you so much. To really understand what makes them run, you have to dive deep into the software that makes up the autonomous driving systems (ADS) controlling driverless vehicles."
-    publishedDateTime: 2020-11-03T16:11:00Z
-    webUrl: "https://www.concordia.ca/news/stories/2020/11/03/concordia-researchers-dig-deep-into-the-software-powering-self-driving-cars.html"
-    type: article
-    provider:
-      name: Concordia University
-      domain: concordia.ca
-    quality: 22
-    images:
-      - url: "https://www.concordia.ca/news/stories/2020/11/03/concordia-researchers-dig-deep-into-the-software-powering-self-driving-cars/_jcr_content/top-image.img.768.medium.jpg/1604417479462.jpg"
-        width: 768
-        height: 391
+      - url: "https://www.insurancejournal.com/app/uploads/2020/07/bigstock-aerial-view-of-self-driving-vehicles-580x387.jpg"
+        width: 580
+        height: 387
         isCached: true
 
 secured: "g/WagoMcjtFlZ+4OlFm1dOO+8UvsdvNR00pnu3wghv7YWz+DwrPs/IRneZjKkV+xruZ9CFV9Acnh3LWvtTLiqBtdAvovrdEfvr9Ql0Wqj3DpWToec1lRa+X1VbvwIbUdu96+DLCdnY+LHcQbPRjvX4W9GKaGO+pVmPC+wUVPrtz87Ed0tutkcBJvkMRcnJ7yaBuc01EPNOd+rktB3BFfPVSl/I+K8FfDz8F2lVgiFA0B4GurZpYmHARF5SXttiQ5azZiRXCpJln5mFwr4obG7pIXMJy0KYYOFSer68PtN8Lu1Mv244TralHOf5h1YW6GES2bqXSHWqPNRMCF6QYf5RFzbhbh1rLV4wQcrturaNbDgb/Iz3dTqE6lN/shqvHL4MsQYLPMw81WJEYqDkVwRugTSv4McqzT9UKRQWZ35gMafouglaR3p/UmAMFoiggISvX5Nxc8fGJLXRzY3SvT67vdqDXuJ0rgIEgzseu3knJxq1jy76evMBIm9wiV35Vo9vnvdBZsV3JMtVuSdGuwgw==;bPjeXKa+iFnEtWn7aqt4hg=="

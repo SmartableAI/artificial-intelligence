@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-adds-hindi-
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-adds-hindi-support-to-its-text-analytics-service/article33037173.ece/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Business Line
@@ -41,15 +41,6 @@ related:
         width: 1600
         height: 1034
         isCached: true
-  - title: "Discover Announces New Data & Analytics Organization"
-    excerpt: "Discover Financial Services (NYSE: DFS) announced on Tuesday the launch of its new Data and Analytics (DNA) organization. Discover revealed that the new organization represents its commitment to technological advancement in financial services with a focus on customer engagement and marketing technologies."
-    publishedDateTime: 2020-11-03T11:40:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/11/168720-discover-announces-new-data-analytics-organization/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 4
 
 secured: "QNRzN6tPhdKbtqrpxuhjiN8zBtQ2VjsUro6gLtQWQmcnexsR9KeH/fNMgr+U45LjD+cjhpY+tITCvrFs/WO7D3u8VrwmKqm+CNMuqGOzMhJEZJK0Jl4tqk5Cg0YiX49eeqfkRtvkV78ZQ5bayNi9G2B/YSPgTX9Ysbq4axj+X5bm2ekkWH7/zo0LeuuJTwdxVHj6/WRnRtMDyuhCsP4tq/M4nSg8zaPDuAlGtq+DfGt0AcaqXFvjDrA9Qqpvdj9OF3i0Lyfpo8wHKZarqLSV/6MIEXdyzO48FxBoc6xZvDNWmeLUFR+foquS2BQu1BZgT/D6HEqmP/8wOz3mhYBUgMWMfv9VfkykygU8RrIDcuz30cmRLlwlq6lMvlFOklH7kt09DWVOYWLHMF38RqLZfp5ZFGQjYmgeVIBZdeEHg6pFb3sl4JHHvFzEqs+DWGyGpYl2vssuV1hE6KZiZ/FLO0ofOuiQbKgJZVN39WnXmBmHLCnEy2qF42au5c0JkBNz42/UG97V3UmBCJPpArZ8NA==;Uv2XADNiVxA6dDKDPdno8g=="
 ---

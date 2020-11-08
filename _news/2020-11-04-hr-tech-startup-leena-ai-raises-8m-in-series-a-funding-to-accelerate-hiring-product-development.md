@@ -40,24 +40,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Leena AI Raises $8 Mn In Series A Round Led By Greycroft"
-    excerpt: "The New York-headquartered company will use the fresh capital to expand its go-to-market programs and accelerate product development"
-    publishedDateTime: 2020-11-03T12:19:00Z
-    webUrl: "https://www.entrepreneur.com/article/358939"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 47
-  - title: "Leena AI raises $8M in series A funding to revolutionize employee experience"
-    excerpt: "Leena AI, an artificial intelligence (AI)-powered employee experience platform, today announced an USD 8 million Series A financing led by Greycroft to expand its go-to-market programs and accelerate"
-    publishedDateTime: 2020-11-03T11:30:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/leena-ai-raises-8m-in-series-a-funding-to-revolutionize-employee-experience-120110301240_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 16
 
 secured: "D7qK5Rf5gWOOs5SUshwKrvcJXz4MpZisYTK4kK9rAfOKzrIlPrKSEzRbTg0bleABOv0K/4Fa1fpY0u53K/6iK9zddCGw+X9UxtmnSJnU2HRt9iQYV8S3ji0gCRb97mguPGvuDO5/5XDIHGwa+qa20rBcb9x3DfQsVAHeszaNaZ7YqgASmDftDvwCCS57wcbx4/f0C74jNZ6YYCzqI3zFh81pa3w0KnjYSXH2OsyO0srhZtxtF+/eLlu/Xwgokrat3wsG0rsBPgtAv7Bbh0Ef7fTQY9BnexGI3gg2k1FrU9AQ5B+QSMarhSzv97ldOt0fRi78e4Y4aickJzhajEiovkG0DaKV2SJyzdqEOgdgTC8=;3S8mnaVsEVwfP4xaTRvo/g=="
 ---

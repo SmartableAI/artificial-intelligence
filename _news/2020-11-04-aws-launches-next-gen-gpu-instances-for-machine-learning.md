@@ -7,8 +7,8 @@ originalUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/8820/aws-
 webUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/8820/aws-launches-next-gen-gpu-instances-for-machine-learning"
 type: article
 quality: 73
-heat: -1
-published: false
+heat: 103
+published: true
 
 provider:
   name: Cloud Pro
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS launches new GPU instances for machine learning and HPC"
-    excerpt: "Called P4, the new instances will run on Intel Cascade Lake processors and eight Nvidia A100 Tensor Core GPUs. Amazon Web Services (AWS), the retail giant’s cloud arm, just launched its latest GPU-equipped cloud instances."
-    publishedDateTime: 2020-11-03T13:00:00Z
-    webUrl: "https://www.itproportal.com/news/aws-launches-new-gpu-instances-for-machine-learning-and-hpc/"
-    ampWebUrl: "https://www.itproportal.com/amp/news/aws-launches-new-gpu-instances-for-machine-learning-and-hpc/"
-    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/aws-launches-new-gpu-instances-for-machine-learning-and-hpc/"
-    type: article
-    provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 93
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/88UejibhsWKbhFSpfr62oA-1200-80.jpg"
-        width: 1000
-        height: 668
-        isCached: true
   - title: "AWS launches Amazon EC2 P4d instances, boosting performance for ML training and HPC"
     excerpt: "Amazon Web Services announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) P4d instances."
     publishedDateTime: 2020-11-04T02:02:00Z

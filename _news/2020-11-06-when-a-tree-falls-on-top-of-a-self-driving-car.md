@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/05/when-a-tree-falls
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/05/when-a-tree-falls-on-top-of-a-self-driving-car/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 104
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "OOIDA raises concerns over Tesla’s Full Self-Driving system"
-    excerpt: "In a letter to NHTSA, OOIDA sounded the alarm on Tesla's Full Self-Driving system, calling it a significant threat to small-business truckers."
-    publishedDateTime: 2020-11-05T21:20:00Z
-    webUrl: "https://landline.media/ooida-raises-concerns-over-teslas-full-self-driving-system/"
-    type: article
-    provider:
-      name: Land Line
-      domain: landline.media
-    quality: 54
-    images:
-      - url: "https://landline.media/wp-content/uploads/2020/11/201105-OOIDA-tesla.jpg"
-        width: 540
-        height: 420
-        isCached: true
   - title: "BEHIND THE WHEEL: Where are our self-driving cars?"
     excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time,"
     publishedDateTime: 2020-11-07T04:30:00Z
@@ -89,15 +75,6 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "AI That Mistook Referee For A Ball & The Self Driving Car That Hit The Wall: A Week Of AI Botch-Ups"
-    excerpt: "The live stream of the event captures Acronis’ vehicle driving straight into a wall surprising its engineers and leaving the viewers in splits. The botched up was addressed by one of the engineers in a Reddit post ."
-    publishedDateTime: 2020-11-03T12:03:00Z
-    webUrl: "https://analyticsindiamag.com/ai-flaws-roborace-crash-self-driving-car/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 20
 
 secured: "9nBNvbWfdUeiWpPwxMuWA9nbTHJCgFCpa+80Uktb1o//aIeL/Z7a9mOWHOj91xg7SPDYGxPmgLP88/P5xbroB8KjvJbBdqd+LdYjrrXtGi782S91yI+hMfJEPniG9v/z/3mSTNOP33e3CXq0cwj974aDMWg5I5drwgxnZpPa8Gp7ANi7idYo2XNKXHGdCcC7X3bmgFgppGEWX8tUaDaFtbtv15Aj4kzCFfaxHPG/I0mjdhyeakIK/hm1CmAg0hT9NsZ4oIjfoMafP3iyMoqxWiWDKDk/l4tX+3Z243hk4TZo/CiZFgjVDx65253WXDTFwN4YmH9f2mLJTcM97wWuXmRECAJ8VYpolRvfvq+1f39bOVzN/sbtbbbnGhEA5AdpeXC1Yr3tpRco6NoF9kDwHmt87RTJlgO0i3OgHsXkuVE3+JfpDgA3CwO9B693AKwUT8gbjGO6p+Ni4bScRb72SEMcepmmcR1tjV84YWNK8QxZ77eGVp292NfaDL2wwSKWoX0du8a9QjbmJ2Rhqb2URA==;YjGJznqcIukV5+G0xwOikQ=="
 ---

@@ -25,75 +25,52 @@ images:
     isCached: true
 
 related:
-  - title: "When A Tree Falls On Top Of A Self-Driving Car"
-    excerpt: "When a tree falls onto a self-driving car. getty. A popular riddle that has been asked since at least the 1800s is whether a tree that falls in a forest will make a sound if there"
-    publishedDateTime: 2020-11-05T16:07:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/05/when-a-tree-falls-on-top-of-a-self-driving-car/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/05/when-a-tree-falls-on-top-of-a-self-driving-car/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/05/when-a-tree-falls-on-top-of-a-self-driving-car/amp/"
+  - title: "Tesla Full Self-Driving Beta appears to detect and avoid road debris in video"
+    excerpt: "Driving Beta has impressed with its capacity to navigate city streets and it now looks like it can also detect and avoid road debris, according to a new video. Like Tesla Autopilot, the automaker’s new Full Self-Driving Beta requires driver attention at all times since it can encounter things that it doesn’t know"
+    publishedDateTime: 2020-11-04T11:24:00Z
+    webUrl: "https://electrek.co/2020/11/04/tesla-full-self-driving-beta-detect-avoid-road-debris-video/"
+    ampWebUrl: "https://electrek.co/2020/11/04/tesla-full-self-driving-beta-detect-avoid-road-debris-video/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/04/tesla-full-self-driving-beta-detect-avoid-road-debris-video/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: Electrek
+      domain: electrek.co
+    quality: 86
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa1e1ec70d6f1b95e85aac8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6720%26cropY1%3D341%26cropY2%3D4121"
-        width: 1200
-        height: 675
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/11/Tesla-full-self-driving-road-debris.jpg?quality=82&strip=all"
+        width: 3584
+        height: 1832
         isCached: true
-  - title: "BEHIND THE WHEEL: Where are our self-driving cars?"
-    excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time,"
-    publishedDateTime: 2020-11-07T04:30:00Z
-    webUrl: "https://www.pottsmerc.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_b2d0fac8-1fa2-11eb-bd1a-839f89469b3a.html"
-    ampWebUrl: "https://www.pottsmerc.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_b2d0fac8-1fa2-11eb-bd1a-839f89469b3a.amp.html"
-    cdnAmpWebUrl: "https://www-pottsmerc-com.cdn.ampproject.org/c/s/www.pottsmerc.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_b2d0fac8-1fa2-11eb-bd1a-839f89469b3a.amp.html"
+  - title: "Musk Says Canada And Norway Are Next To Get Tesla Full Self-Driving Beta"
+    excerpt: "FSD will be rolled out in the two countries after the necessary approvals are given, possibly in February or March."
+    publishedDateTime: 2020-11-03T19:58:00Z
+    webUrl: "https://insideevs.com/news/452324/canada-norway-next-to-get-tesla-fsd/"
+    ampWebUrl: "https://insideevs.com/news/452324/canada-norway-next-to-get-tesla-fsd/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/452324/canada-norway-next-to-get-tesla-fsd/amp/"
     type: article
     provider:
-      name: The Mercury
-      domain: pottsmerc.com
-    quality: 44
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 58
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/pottsmerc.com/content/tncms/assets/v3/editorial/4/cb/4cb5c470-1fa3-11eb-9a18-27ec9e939d6d/5fa45d30d6deb.image.jpg?resize=1024%2C630"
-        width: 1024
-        height: 630
+      - url: "https://cdn.motor1.com/images/mgl/nYB8R/s1/fsd.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Self-Driving Car Legislation Will Try Again Next Year"
-    excerpt: "Despite technological advances, thousands of lives are lost every year in automobile accidents. Approximately 93% of these accidents are caused by human error."
-    publishedDateTime: 2020-11-06T17:40:00Z
-    webUrl: "https://www.electronicdesign.com/markets/automotive/article/21147044/electronic-design-selfdriving-car-legislation-will-try-again-next-year"
+  - title: "Liability, Safety and Infrastructure Concerns Slow Development of Self-Driving Cars"
+    excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, \"It may do the wrong thing"
+    publishedDateTime: 2020-11-05T00:00:00Z
+    webUrl: "https://www.insurancejournal.com/news/national/2020/11/05/589778.htm"
     type: article
     provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 39
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 18
     images:
-      - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/11/Mercedes_promo2.5fa586396f6c9.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.insurancejournal.com/app/uploads/2020/07/bigstock-aerial-view-of-self-driving-vehicles-580x387.jpg"
+        width: 580
+        height: 387
         isCached: true
-  - title: "Where Are Our Self-Driving Cars?"
-    excerpt: "Here are three reasons why you can’t buy a self-driving car today and one place you’re likely to find them first. It’s difficult to teach a machine to react correctly when faced with new or unpredictable situations we frequently encounter while driving."
-    publishedDateTime: 2020-11-04T15:04:00Z
-    webUrl: "https://www.manufacturing.net/automotive/news/21201409/where-are-our-selfdriving-cars"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 24
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/11/16x9/AP20304406106665.5fa2c29eabba5.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 673
-        isCached: true
-  - title: "AI That Mistook Referee For A Ball & The Self Driving Car That Hit The Wall: A Week Of AI Botch-Ups"
-    excerpt: "The live stream of the event captures Acronis’ vehicle driving straight into a wall surprising its engineers and leaving the viewers in splits. The botched up was addressed by one of the engineers in a Reddit post ."
-    publishedDateTime: 2020-11-03T12:03:00Z
-    webUrl: "https://analyticsindiamag.com/ai-flaws-roborace-crash-self-driving-car/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 20
 
 secured: "m5tuUZJHK+4eOYS87KE0nNbGn975tzCIeHHALqmb36XnH23O67Y8aqyirVP+6LpIkM1dn+bkHWXiQ7cjmcoVjjrX8v19Du911zsbNpUlQHWc26jgVhA2lkt1cf1SG2SJuyNW13lSwyGZFSbPZuxB8I3rEjoYrW1cAuDboLU302JmWI0yjWa/DEIydg7cMgSuhHCJQXaAMpfY5DfexZHEV66YRYfGukcQqVgBcTKiy/3S2yEZjQUuP51LagkJ8pD7mo/wOsw93y4l7mIX04XT8GIDDuF+ZkzZ8jbN7V+Tq09aDenfMHjOKMlxR41ZLabdJHIZf00UYVYu820JJEw4gAk4l4k8IABlsJw+EJvc0I/QxoGSsdNagQT0gmYJrpk4fkgnGv4X3c5tsSdo5WH+F17itMYV58ZiZ8oqUvso1oI9EmyMDpBaIzVg4ls4VWn4bW7hqxxRPZ74fgxk+hUGN2Si/SmmAoMei5O53H5uHn8anLyAgqDnBfficP0oVpoXJYr0pXCESd4YrTRfC/T97A==;CJuhiUzkiH7dU+eQrY1kig=="
 ---
