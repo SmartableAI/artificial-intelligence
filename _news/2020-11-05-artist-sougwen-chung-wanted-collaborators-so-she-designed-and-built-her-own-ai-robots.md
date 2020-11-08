@@ -24,6 +24,19 @@ images:
     height: 989
     isCached: true
 
+related:
+  - title: "Artist Sougwen Chung wanted collaborators, so she designed and built her own AI robots"
+    excerpt: "Artist Sougwen Chung has carved out a niche in the expanding world of AI art. She collaborates with robots in her performance-based artworks. She and the robots paint together on large canvasses, part team effort,"
+    publishedDateTime: 2020-11-08T13:01:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/artist-sougwen-chung-wanted-collaborators-so-she-designed-and-built-her-own-ai-robots/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/artist-sougwen-chung-wanted-collaborators-so-she-designed-and-built-her-own-ai-robots/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/artist-sougwen-chung-wanted-collaborators-so-she-designed-and-built-her-own-ai-robots/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 29
+
 secured: "fzgng1xuR4pKVH68+J4dQXEZaQIun42xa1NQzP0eOruttF0HEvLC6NxL95+i3KTQ3cq+zcMoxUApTdbtx9vo/oZO7+GFdVJsVwz9DBTeaxP4mfmNpDu3UDFVLFZmczKt32bxWCCdd1JYlDxiaTsBbK9aLRnfgHq0obbpib3NE3/tjVXxi6G0yIuW55VOWN9UqSylxv+mrYtJCaGnBHhwtxEFd9XKtpuaH9PjfDsuiq5aENHP8lN4AzALhWZbk/rQ7wlk+cjtZzms4ovF6/ipa8Voeigp5cI8cvVWik/a/95OUZAe7od+o2OU6C0ZkhSHmWdzGcW7exGgH7tzLXJyuzLEuWv/d+bK3ZQXTA3Tzcr9Q6ZhS8arFgFvFSmU8OX7ivUl09LrCAhByuevttJZijlZdWLRO65n7Rd83RFgj3jq+bkfEn18mB5te0XODIQZ819Hn5EsYkhHDM0MKsNzGSpFqjcwmS3yn/T4huMlsRlC6r5u7KAUkpB9fccngbQf6kCKorJteAK9XJF1VBaizw==;GPmx87CJmoLYZJwtrR88vQ=="
 ---
 

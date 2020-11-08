@@ -57,17 +57,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Waymo Pulls Self-Driving Cars From San Francisco Over Concerns About Post-Election Unrest"
-    excerpt: "Waymo, the self-driving company of Google's parent company Alphabet, has suspended its self-driving operations in San Francisco as businesses and cities in the Bay Area and across the country brace for potential unrest."
-    publishedDateTime: 2020-11-03T22:28:00Z
-    webUrl: "https://sanfrancisco.cbslocal.com/2020/11/03/waymo-google-self-driving-cars-pulled-post-election-unrest/"
-    ampWebUrl: "https://sanfrancisco.cbslocal.com/2020/11/03/waymo-google-self-driving-cars-pulled-post-election-unrest/amp/"
-    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2020/11/03/waymo-google-self-driving-cars-pulled-post-election-unrest/amp/"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 30
 
 secured: "asbAun1K8HB6rNgrCMaqjxH/JyYHiTlk5eEI4LdrjRrr4Hr6LgOTygL8fU41tWEHbiWP0+BoX7G5BroNPJMEIFtXtJ4d8pMhyHTQsrChMVzj4KJA/Y3mA633B5H3bxJ1SJNO9gQhBiAFEzeVtTFPoANHH2N3G2Ex1d8YUZc/+MV/6a2rYHyYFlaxXAI5Aovjc7OV3/mOwlXKhrddTr2mNWR3VCgVfoKKmiKeER+XYVDLmZtisHu8P33rsbke66mo1YgFdGSN4KU8IwD8uQixXi6L63+2l+eFNnex3TwUgM49ZD0VhMgG+8cc7UiDffYJgWbLcRqGs8jkhCVec9wphhsWDXhREffim2Yd/b3aYtGJvEXDFGtyjQWnVgODHQUgx2SO4gBzcca9VUcKidaQAoDSYVIRBqn1JQtbYhon1HEzRAjZusU1M00mXDQhqsrwR2jIXLgxt1fnXaeUx/gBBsTq6FkiBjqPW1gjWuGo0yc/i4Wh4M5TfMOLpoJsfxA7RAZ5BmcM1fFYhFfVlz+/BA==;jGdz0HQx9XEoNIZRFfN1hA=="
 ---

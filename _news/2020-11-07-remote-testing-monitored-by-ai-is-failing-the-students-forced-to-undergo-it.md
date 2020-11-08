@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1246769"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1246769"
 type: article
 quality: 85
-heat: 85
+heat: 86
 published: true
 
 provider:

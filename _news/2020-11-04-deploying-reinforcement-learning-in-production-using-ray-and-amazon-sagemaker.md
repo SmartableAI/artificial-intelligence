@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Explaining Amazon SageMaker Autopilot models with SHAP"
-    excerpt: "Machine learning (ML) models have long been considered black boxes because predictions from these models are hard to interpret. However, recently, several frameworks aiming at explaining ML models were proposed. Model interpretation can be divided into local and global explanations. A local explanation"
-    publishedDateTime: 2020-11-03T22:57:23Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/explaining-amazon-sagemaker-autopilot-models-with-shap/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 104
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/27/Graph.jpg"
-        width: 900
-        height: 509
-        isCached: true
   - title: "Bringing your own custom container image to Amazon SageMaker Studio notebooks"
     excerpt: "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). SageMaker Studio lets data scientists spin up Studio notebooks to explore data, build models, launch Amazon SageMaker training jobs, and deploy hosted endpoints. Studio notebooks come with a"
     publishedDateTime: 2020-11-06T18:17:10Z

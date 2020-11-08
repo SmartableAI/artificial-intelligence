@@ -2,6 +2,275 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-10-08-maxim-integrateds-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices.md",
+      "title": "Maxim Integrated's Neural Network Accelerator Chip Enables IoT Artificial Intelligence in Battery-Powered Devices",
+      "excerpt": "PRNewswire/ -- The MAX78000 low-power neural network accelerated microcontroller from Maxim Integrated Products, Inc. (NASDAQ: MXIM) moves artificial intelligence (AI) to the edge without performance compromises in battery-powered internet of things (IoT) devices.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-1029656759",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-1029656759",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-1029656759",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/maxim-integrated-s-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-1029656759",
+      "publishedDateTime": "2020-10-08T01:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-mediatek-launches-ai-enabled-mt9602-chip-to-power-premium-smart-tvs.md",
+      "title": "MediaTek Launches AI-Enabled MT9602 Chip to Power Premium Smart TVs",
+      "excerpt": "MediaTek officially unveiled the high performance Smart TV SoC MT9602 with comprehensive features enabling modern 4K HDR displays. The new SoC is designed to de",
+      "sourceUrl": null,
+      "webUrl": "https://technuter.com/consumer-electronics/mediatek-launches-ai-enabled-mt9602-chip-to-power-premium-smart-tvs.html",
+      "originalUrl": "https://technuter.com/consumer-electronics/mediatek-launches-ai-enabled-mt9602-chip-to-power-premium-smart-tvs.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://technuter.com/wp-content/uploads/2020/04/MediaTek.jpg",
+          "width": 351,
+          "height": 286,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technuter.com/consumer-electronics/mediatek-launches-ai-enabled-mt9602-chip-to-power-premium-smart-tvs.html/amp",
+      "cdnAmpWebUrl": "https://technuter-com.cdn.ampproject.org/c/s/technuter.com/consumer-electronics/mediatek-launches-ai-enabled-mt9602-chip-to-power-premium-smart-tvs.html/amp",
+      "publishedDateTime": "2020-10-08T00:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technuter.com",
+        "domain": "technuter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-world-sight-day-2020-blink-more-often-to-prevent-computer-vision-syndrome-know-more-expert-tips.md",
+      "title": "World Sight Day 2020: Blink More Often To Prevent Computer Vision Syndrome; Know More Expert Tips",
+      "excerpt": "This dependence on gadgets worsened during the COVID-19 pandemic. This has led to increased incidents of computer vision syndrome or digital eye strain usually presents as one or more of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/health/world-sight-day-2020-blink-more-often-to-prevent-computer-vision-syndrome-know-more-expert-tips-2306974",
+      "originalUrl": "https://www.ndtv.com/health/world-sight-day-2020-blink-more-often-to-prevent-computer-vision-syndrome-know-more-expert-tips-2306974",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2020-10/l0cbgoho_eyes-_625x300_07_October_20.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/health/world-sight-day-2020-blink-more-often-to-prevent-computer-vision-syndrome-know-more-expert-tips-2306974?amp=1&akamai-rum=off",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/health/world-sight-day-2020-blink-more-often-to-prevent-computer-vision-syndrome-know-more-expert-tips-2306974?amp=1&akamai-rum=off",
+      "publishedDateTime": "2020-10-08T00:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-nec-oncoimmunity-as-and-oslo-university-hospital-team-up-to-develop-a-diagnostic-for-covid-19-using-artificial-intelligence.md",
+      "title": "NEC OncoImmunity AS and Oslo University Hospital Team Up to Develop a Diagnostic for COVID-19 Using Artificial Intelligence",
+      "excerpt": "NEC OncoImmunity AS (NOI), a subsidiary of NEC Corporation (NEC), and Oslo University Hospital (OUH) are pleased to announce that they have recently been awarded a prestigious grant from the Research Council of Norway (RCN) to develop an artificial intelligence (AI) platform that will enable the rapid design of T-cell diagnostics for emerging or endemic infectious diseases.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/virus-outbreak-business-technology-pandemics-public-health-e64225e77b534e5aa1c46aee9a23d5a1",
+      "originalUrl": "https://apnews.com/press-release/business-wire/virus-outbreak-business-technology-pandemics-public-health-e64225e77b534e5aa1c46aee9a23d5a1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-08T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-ibm-spinning-off-infrastructure-managed-services-group-to-focus-on-cloud-is-a-good-move.md",
+      "title": "IBM Spinning Off Infrastructure Managed Services Group To Focus On Cloud Is A Good Move",
+      "excerpt": "IBM has been making a flurry of improvements to position the company to better take advantage of the cloud opportunity. In the past year, IBM acquired Red Hat, deeply integrated many of its products,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/10/09/ibm-spinning-off-infrastructure-managed-services-group-to-focus-on-cloud-is-a-good-move/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/10/09/ibm-spinning-off-infrastructure-managed-services-group-to-focus-on-cloud-is-a-good-move/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f805e370491850badf74c9a%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/10/09/ibm-spinning-off-infrastructure-managed-services-group-to-focus-on-cloud-is-a-good-move/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2020/10/09/ibm-spinning-off-infrastructure-managed-services-group-to-focus-on-cloud-is-a-good-move/amp/",
+      "publishedDateTime": "2020-10-07T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker.md",
+      "title": "Amazon announces price cuts on GPU instances in AWS Sagemaker",
+      "excerpt": "Amazon Web Services is cutting the price of GPU instances on Sagemaker, its fully managed machine learning service. AWS said customers will see up to 18% in price reductions on all ml.p2 and ml.p3 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/amazon-announces-price-cuts-on-gpu-instances-in-aws-sagemaker/",
+      "publishedDateTime": "2020-10-07T21:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-facial-recognition-data-leaks-is-rampant-across-china-as-covid-19-pushes-wider-use-of-the-technology.md",
       "title": "Facial recognition data leaks is rampant across China as Covid-19 pushes wider use of the technology",
       "excerpt": "Incorrectly configured databases remains a widespread security problem in China even as citizens increasingly express concerns.",
@@ -876,308 +1145,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-synthetic-faces-this-ai-falsifies-reality-in-the-name-of-privacy.md",
-      "title": "Synthetic Faces: This AI Falsifies Reality In The Name Of Privacy",
-      "excerpt": "The deepfake technology I’m taking about is from a Berlin-based startup called Brighter AI, which provides privacy solutions for an increasingly surveilled world: license plate blurring and face blurring so companies with cameras can comply with European privacy laws,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/10/07/synthetic-faces-this-ai-falsifies-reality-in-the-name-of-privacy/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2020/10/07/synthetic-faces-this-ai-falsifies-reality-in-the-name-of-privacy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7de968419bf5f836413c4d%2F0x0.jpg",
-          "width": 1000,
-          "height": 693,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/10/07/synthetic-faces-this-ai-falsifies-reality-in-the-name-of-privacy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/10/07/synthetic-faces-this-ai-falsifies-reality-in-the-name-of-privacy/amp/",
-      "publishedDateTime": "2020-10-07T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-anand-mahindra-backs-robotics-startup-genrobotics-as-the-latter-ramps-up-its-fight-against-manual-scavenging.md",
-      "title": "Anand Mahindra Backs Robotics Startup Genrobotics as the Latter Ramps up its Fight Against Manual Scavenging",
-      "excerpt": "Genrobotics has raised INR 2.5 crore in Pre Series A funding round from Unicorn India Ventures, Anand Mahindra and SE",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/357378",
-      "originalUrl": "https://www.entrepreneur.com/article/357378",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1602086404-mahindraedit.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/357378",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/357378",
-      "publishedDateTime": "2020-10-07T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-fernanda-viegas-puts-people-at-the-heart-of-ai.md",
-      "title": "Fernanda Viégas puts people at the heart of AI",
-      "excerpt": "When Fernanda Viégas was in college, it took three years with three different majors before she decided she wanted to study graphic design and art history. And even then, she couldn’t have imagined the job she has today: building artificial intelligence and machine learning with fairness and transparency",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/inside-google/googlers/fernanda-viegas-ai/",
-      "originalUrl": "https://blog.google/inside-google/googlers/fernanda-viegas-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fernanda_Viegas_social_share.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 679,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/inside-google/googlers/fernanda-viegas-ai/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/googlers/fernanda-viegas-ai/amp/",
-      "publishedDateTime": "2020-10-07T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-if-steve-jobs-built-an-ai-company.md",
-      "title": "If Steve Jobs Built An AI Company",
-      "excerpt": "One of Steve Jobs’ favorite analogies was between a bicycle and its intellectual equivalent - the personal computer. AI is the e-bike for our minds.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/konstantinebuhler/2020/10/07/if-steve-jobs-built-an-ai-company/",
-      "originalUrl": "https://www.forbes.com/sites/konstantinebuhler/2020/10/07/if-steve-jobs-built-an-ai-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7c91d652b0b9046292c711%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7360%26cropY1%3D771%26cropY2%3D4912",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/konstantinebuhler/2020/10/07/if-steve-jobs-built-an-ai-company/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/konstantinebuhler/2020/10/07/if-steve-jobs-built-an-ai-company/amp/",
-      "publishedDateTime": "2020-10-07T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-halloween-trick-or-treating-in-an-era-of-self-driving-cars.md",
-      "title": "Halloween Trick-Or-Treating In An Era Of Self-Driving Cars",
-      "excerpt": "Halloween in an era of self-driving cars. getty. Halloween is almost here! Even if this year’s celebrations might be somewhat less extravagant and require added care and precaut",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/07/halloween-trick-or-treating-in-an-era-of-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/07/halloween-trick-or-treating-in-an-era-of-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7d052055c26817fc4463ad%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4164%26cropY1%3D14%26cropY2%3D2789",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/07/halloween-trick-or-treating-in-an-era-of-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/07/halloween-trick-or-treating-in-an-era-of-self-driving-cars/amp/",
-      "publishedDateTime": "2020-10-07T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-deep-learning-in-computer-vision-market-business.md",
-      "title": "Deep Learning in Computer Vision Market Business",
-      "excerpt": "Deep Learning in Computer Vision marketing report has been structured by keeping in mind all the foremost aspects of the market research that put forth market landscape simply into focus Market segmentation is a significant parameter that categorises the market",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2151587/deep-learning-in-computer-vision-market-business-investment",
-      "originalUrl": "https://www.openpr.com/news/2151587/deep-learning-in-computer-vision-market-business-investment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/a/Ta07735633_g.jpg",
-          "width": 800,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2151587/deep-learning-in-computer-vision-market-business-investment",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2151587/deep-learning-in-computer-vision-market-business-investment",
-      "publishedDateTime": "2020-10-07T07:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

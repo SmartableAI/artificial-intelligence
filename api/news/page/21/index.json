@@ -2,6 +2,281 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-10-20-intel-is-providing-the-smarts-for-the-first-satellite-with-local-ai-processing-on-board.md",
+      "title": "Intel is providing the smarts for the first satellite with local AI processing on board",
+      "excerpt": "Intel detailed today its contribution to PhiSat-1, a new tiny small satellite that was launched into sun-synchronous orbit on September 2. PhiSat-1 has a new kind of hyperspectral-thermal camera on board,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/20/intel-is-providing-the-smarts-for-the-first-satellite-with-local-ai-processing-on-board/",
+      "originalUrl": "https://techcrunch.com/2020/10/20/intel-is-providing-the-smarts-for-the-first-satellite-with-local-ai-processing-on-board/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/C0140-Large.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/20/intel-is-providing-the-smarts-for-the-first-satellite-with-local-ai-processing-on-board/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/20/intel-is-providing-the-smarts-for-the-first-satellite-with-local-ai-processing-on-board/amp/",
+      "publishedDateTime": "2020-10-20T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-stanchart-increases-stake-in-ai-startup-to-combat-financial-crime.md",
+      "title": "StanChart increases stake in AI startup to combat financial crime",
+      "excerpt": "Standard Chartered has upped its stake in an artificial intelligence startup that uses technology to help banks tackle financial crime. Silent Eight said on 19 October that Standard Chartered’s venture capital arm SC Ventures had chosen to participate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fnlondon.com/articles/stanchart-increases-stake-in-artificial-intelligence-startup-to-combat-financial-crime-20201019",
+      "originalUrl": "https://www.fnlondon.com/articles/stanchart-increases-stake-in-artificial-intelligence-startup-to-combat-financial-crime-20201019",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fnlondon.com/amp/articles/stanchart-increases-stake-in-artificial-intelligence-startup-to-combat-financial-crime-20201019",
+      "cdnAmpWebUrl": "https://www-fnlondon-com.cdn.ampproject.org/c/s/www.fnlondon.com/amp/articles/stanchart-increases-stake-in-artificial-intelligence-startup-to-combat-financial-crime-20201019",
+      "publishedDateTime": "2020-10-20T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial News",
+        "domain": "fnlondon.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-adobe-nvidia-unveil-ai-powered-smart-portrait-at-adobe-max.md",
+      "title": "Adobe & NVIDIA unveil AI-powered Smart Portrait at Adobe MAX",
+      "excerpt": "As part of this week's Adobe MAX conference, Adobe and NVIDIA are unveiling some major advancements that will allow artists to use AI for photo editing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.shacknews.com/article/121016/adobe-nvidia-unveil-ai-powered-smart-portrait-at-adobe-max",
+      "originalUrl": "https://www.shacknews.com/article/121016/adobe-nvidia-unveil-ai-powered-smart-portrait-at-adobe-max",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/10/19/nvidia-studio-adobe-photoshop-smart-portrait_feature.jpg",
+          "width": 1280,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.shacknews.com/article/121016/adobe-nvidia-unveil-ai-powered-smart-portrait-at-adobe-max?amphtml=1",
+      "cdnAmpWebUrl": "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/121016/adobe-nvidia-unveil-ai-powered-smart-portrait-at-adobe-max?amphtml=1",
+      "publishedDateTime": "2020-10-20T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Shacknews",
+        "domain": "shacknews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-photoshops-ai-neural-filters-can-tweak-age-and-expression-with-a-few-clicks.md",
+      "title": "Photoshop’s AI neural filters can tweak age and expression with a few clicks",
+      "excerpt": "These filters include a number of simple overlays and effects but also tools that allow for deeper edits, particularly to portraits. With neural filters, Photoshop can adjust a subject’s age and facial expression,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2020/10/20/21517616/adobe-photoshop-ai-neural-filters-beta-launch-machine-learning",
+      "originalUrl": "https://www.theverge.com/2020/10/20/21517616/adobe-photoshop-ai-neural-filters-beta-launch-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/lhxq_qXsqjfU0tRw9tSo7xohYVA=/0x0:954x525/1400x933/filters:focal(401x187:553x339):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67659504/neural_filters_age_change.0.gif",
+          "width": 954,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/10/20/21517616/adobe-photoshop-ai-neural-filters-beta-launch-machine-learning",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/20/21517616/adobe-photoshop-ai-neural-filters-beta-launch-machine-learning",
+      "publishedDateTime": "2020-10-20T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-how-retailers-use-artificial-intelligence-to-know-what-you-want-to-buy-before-you-do.md",
+      "title": "How Retailers Use Artificial Intelligence to Know What You Want to Buy Before You Do",
+      "excerpt": "The Terminator, a symbol of artificial intelligence run amok ... I expect they will seek psychological solace in retail therapy.” Shopping may provide comfort, but our psychology remains ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/how-retailers-use-artificial-intelligence-to-know-what-you-want-to-buy-before-you-do-51603195200",
+      "originalUrl": "https://www.barrons.com/articles/how-retailers-use-artificial-intelligence-to-know-what-you-want-to-buy-before-you-do-51603195200",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-246998/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-20T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-intel-sends-ai-to-space-in-launch-of-a-satellite-the-size-of-a-cereal-box.md",
+      "title": "Intel sends AI to space in launch of a satellite the size of a cereal box",
+      "excerpt": "Intel has sent artificial intelligence (AI) beyond the boundaries of Earth in a tiny satellite designed to streamline data processing in space.  The tech giant revealed the launch on Tuesday. An experimental device,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/intel-sends-ai-to-space-in-cereal-box-sized-satellite-launch/",
+      "originalUrl": "https://www.zdnet.com/article/intel-sends-ai-to-space-in-cereal-box-sized-satellite-launch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/10/12/0ef71a3d-f6fd-4038-a6c4-94fdb1c3d872/thumbnail/1200x675/906bc9dcb0f7cb25bed7cb466fbdfed4/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/intel-sends-ai-to-space-in-cereal-box-sized-satellite-launch/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-sends-ai-to-space-in-cereal-box-sized-satellite-launch/",
+      "publishedDateTime": "2020-10-20T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-phisat-1-satellite-uses-ai-to-remove-clouds-from-earth-images.md",
       "title": "PhiSat-1 satellite uses AI to remove clouds from Earth images",
       "excerpt": "According to Intel, PhiSat-1 contains a new hyperspectral-thermal camera — HyperScout-2 — and onboard AI processing thanks to an Intel Movidius Myriad 2 system-on-chip. In tandem with another ...",
@@ -895,282 +1170,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-companies-are-rushing-to-use-aibut-few-see-a-payoff.md",
-      "title": "Companies Are Rushing to Use AI—but Few See a Payoff",
-      "excerpt": "A study finds that only 11 percent of firms that have deployed artificial intelligence are reaping a “sizable” return on their investments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/companies-rushing-use-ai-few-see-payoff/",
-      "originalUrl": "https://www.wired.com/story/companies-rushing-use-ai-few-see-payoff/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/companies-rushing-use-ai-few-see-payoff/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/companies-rushing-use-ai-few-see-payoff/amp",
-      "publishedDateTime": "2020-10-19T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-google-deepmind-co-founder-out-over-controversy-over-his-ai-projects.md",
-      "title": "Google DeepMind co-founder OUT over 'controversy' over his AI projects",
-      "excerpt": "Google DeepMind co-founder Mustafa Suleyman has been placed on leave abruptly from the secretative AI-focused division of Google, with the reason being controversy \"over some of the projects he led\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/67247/google-deepmind-co-founder-over-controversy-ai-projects/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/67247/google-deepmind-co-founder-over-controversy-ai-projects/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tweaktown.com/images/news/6/7/67247_03_google-deepmind-co-founder-over-controversy-ai-projects_full.png",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tweaktown.com/news/67247/google-deepmind-co-founder-over-controversy-ai-projects/amp.html",
-      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/67247/google-deepmind-co-founder-over-controversy-ai-projects/amp.html",
-      "publishedDateTime": "2020-10-19T18:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-russian-military-said-to-be-developing-mind-controlled-exoskeleton.md",
-      "title": "Russian military said to be developing mind-controlled exoskeleton",
-      "excerpt": "\"The Russian Army is set to receive mind-controlled exoskeletons,\" the Russian Sputnik media source said. \"The wearable robots will be controlled by brain waves and will increase the strength and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/44889/russian-military-developing-mind-controlled-exoskeleton/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/44889/russian-military-developing-mind-controlled-exoskeleton/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tweaktown.com/images/news/4/4/44889_01_russian-military-developing-mind-controlled-exoskeleton_full.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tweaktown.com/news/44889/russian-military-developing-mind-controlled-exoskeleton/amp.html",
-      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/44889/russian-military-developing-mind-controlled-exoskeleton/amp.html",
-      "publishedDateTime": "2020-10-19T18:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-predicting-the-fuel-flow-rate-of-commercial-aircraft-via-multilayer-perceptron-radial-basis-function-and-anfis-artificial-neural-networks.md",
-      "title": "Predicting the fuel flow rate of commercial aircraft via multilayer perceptron, radial basis function and ANFIS artificial neural networks",
-      "excerpt": "To send this article to your Kindle, first ensure no-reply@cambridge.org is added to your Approved Personal Document E-mail List under your Personal Document Settings on the Manage Your Content and Devices page of your Amazon account. Then enter the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/aeronautical-journal/article/predicting-the-fuel-flow-rate-of-commercial-aircraft-via-multilayer-perceptron-radial-basis-function-and-anfis-artificial-neural-networks/4F8E324642BC9ECBE4C6020AD226BE46",
-      "originalUrl": "https://www.cambridge.org/core/journals/aeronautical-journal/article/predicting-the-fuel-flow-rate-of-commercial-aircraft-via-multilayer-perceptron-radial-basis-function-and-anfis-artificial-neural-networks/4F8E324642BC9ECBE4C6020AD226BE46",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cambridge.org/core/system/public/img/ajax_loader_gray_256.gif",
-          "width": 256,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-19T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-onr-robotics-enter-the-covid-19-fight.md",
-      "title": "ONR Robotics enter the COVID-19 fight",
-      "excerpt": "A decontamination robot funded by the Office of Naval Research (ONR) and designed by several local universities was recently tested in Richmond Va. The robot--initially designed for shipboard firefighting and maintenance tasks--has now been enlisted in the fight against Covid-19.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-10/oonr-ore101920.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-10/oonr-ore101920.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-19T12:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-deepmind-open-sources-the-ferminet-a-neural-network-that-simulates-electron-behaviors.md",
-      "title": "DeepMind open-sources the FermiNet, a neural network that simulates electron behaviors",
-      "excerpt": "Researchers at DeepMind have open-sourced the FermiNet, a neural network that simulates the positions and arrangements of electrons.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/19/deepmind-open-sources-the-ferminet-a-neural-network-that-simulates-electron-behaviors/",
-      "originalUrl": "https://venturebeat.com/2020/10/19/deepmind-open-sources-the-ferminet-a-neural-network-that-simulates-electron-behaviors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&#038;strip=all",
-          "width": 1198,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/19/deepmind-open-sources-the-ferminet-a-neural-network-that-simulates-electron-behaviors/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/19/deepmind-open-sources-the-ferminet-a-neural-network-that-simulates-electron-behaviors/amp/",
-      "publishedDateTime": "2020-10-19T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
       ]
     }
   ],

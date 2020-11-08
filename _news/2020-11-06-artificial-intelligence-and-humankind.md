@@ -7,7 +7,7 @@ originalUrl: "https://www.irishtimes.com/opinion/letters/artificial-intelligence
 webUrl: "https://www.irishtimes.com/opinion/letters/artificial-intelligence-and-humankind-1.4401421"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,68 +22,6 @@ images:
     width: 1080
     height: 564
     isCached: true
-
-related:
-  - title: "Pope Francis: Pray that robotics and AI always serve humankind"
-    excerpt: "Pope Francis has invited Catholics around the world to pray that robotics and artificial intelligence will remain always at the service of human beings."
-    publishedDateTime: 2020-11-03T21:31:00Z
-    webUrl: "https://www.catholicnewsagency.com/news/pope-francis-pray-that-robots-and-ai-always-serve-humankind-79125"
-    ampWebUrl: "https://www.catholicnewsagency.com/amp/news/pope-francis-pray-that-robots-and-ai-always-serve-humankind-79125"
-    cdnAmpWebUrl: "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/pope-francis-pray-that-robots-and-ai-always-serve-humankind-79125"
-    type: article
-    provider:
-      name: Catholic News Agency
-      domain: catholicnewsagency.com
-    quality: 91
-    images:
-      - url: "https://www.catholicnewsagency.com/images/Crucifix_Lars_Hallstrom_via_shutterstock_CNA.jpg?w=375&h=250"
-        width: 375
-        height: 250
-        isCached: true
-  - title: "Tech News: Artificial Intelligence and the human brain"
-    excerpt: "Humans have always dreamt of soaring the sky and since prehistoric times often attempted to fly by mimicking birds."
-    publishedDateTime: 2020-11-06T13:05:00Z
-    webUrl: "https://www.iol.co.za/business-report/opinion/tech-news-artificial-intelligence-and-the-human-brain-bbe190b8-44e2-4bf4-8b89-1049edc80088"
-    ampWebUrl: "https://www.iol.co.za/amp/business-report/opinion/tech-news-artificial-intelligence-and-the-human-brain-bbe190b8-44e2-4bf4-8b89-1049edc80088"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/opinion/tech-news-artificial-intelligence-and-the-human-brain-bbe190b8-44e2-4bf4-8b89-1049edc80088"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 74
-    images:
-      - url: "https://image-prod.iol.co.za/resize/3000x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/c979716c-7fdb-59fb-997e-bbbc8c0e5fc7&operation=CROP&offset=2x0&resize=2996x1685"
-        width: 651
-        height: 366
-        isCached: true
-  - title: "Pope Francis prays for good AI"
-    excerpt: "Hoping to convert it later The head of Roman Catholic church has asked his invisible friend to make sure that AI is good for humans. Pope Francis must be hoping that AI does better at organising humanity than organised religion managed and might look after kiddies better than the Roman Catholic"
-    publishedDateTime: 2020-11-06T11:36:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/51837-pope-francis-prays-for-good-ai"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/7f818a0bd627fe1bc7f010c971e26819_L.jpg"
-        width: 620
-        height: 455
-        isCached: true
-  - title: "Politics and artificial intelligence"
-    excerpt: "The Tuesday (or shall I say week) that people not only in the United States, but around the world watched as they developed a hodgepodge of feelings: fear,"
-    publishedDateTime: 2020-11-07T11:15:00Z
-    webUrl: "https://www.smdailyjournal.com/opinion/columnists/politics-and-artificial-intelligence/article_05100ae2-209b-11eb-9b79-5be1b94cbec2.html"
-    type: article
-    provider:
-      name: San Mateo Daily Journal
-      domain: smdailyjournal.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/smdailyjournal.com/content/tncms/assets/v3/editorial/b/de/bdec3058-5df9-11e7-9cf8-b7100a001238/5956f6171abde.image.jpg?resize=576%2C348"
-        width: 576
-        height: 348
-        isCached: true
 
 secured: "ndporckBCqnEe6Wk7XPVe4xm7FuEH6y3ngKlNXltC1WidlDJ4ZxbPb3bnoaweL4ZqCHpKLj/YdnAoop59xIuI58Le2+fB4dM99Rezs+PT1IbrMRNxMDlXnt5lpwOOHpK/gIA2aK9nuE1aqE1s2mibDaUYJvPItqn62PvsfLcAs8BMIaX9F9OrpZFrG2Xy//gep3hxJGtZlAIZDv/hWdYmVGe4Wg0wVuUf4NCiWbJh9ze4gQW+7VBHQgp9X0gF854XNLq2kWycxx0IIaotWR/eHjE8wi9evnOvvTwmM7oF0P5kzr24EFPq8hnelLf46ue1KoSJjxE7UdJxzXbHOzVfpV/vxcxWBNsXvBtjCphUkQ=;tWyJx57zWcNIZUiUHayXQw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.smdailyjournal.com/opinion/columnists/politics-and-art
 webUrl: "https://www.smdailyjournal.com/opinion/columnists/politics-and-artificial-intelligence/article_05100ae2-209b-11eb-9b79-5be1b94cbec2.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,65 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Pope Francis: Pray that robotics and AI always serve humankind"
-    excerpt: "Pope Francis has invited Catholics around the world to pray that robotics and artificial intelligence will remain always at the service of human beings."
-    publishedDateTime: 2020-11-03T21:31:00Z
-    webUrl: "https://www.catholicnewsagency.com/news/pope-francis-pray-that-robots-and-ai-always-serve-humankind-79125"
-    ampWebUrl: "https://www.catholicnewsagency.com/amp/news/pope-francis-pray-that-robots-and-ai-always-serve-humankind-79125"
-    cdnAmpWebUrl: "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/pope-francis-pray-that-robots-and-ai-always-serve-humankind-79125"
+  - title: "POLITICO AI: Decoded: The age of algorithms — AI in times of Covid — Poland’s gender issue"
+    excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
+    publishedDateTime: 2020-11-04T11:06:00Z
+    webUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-the-age-of-algorithms-ai-in-times-of-covid-polands-gender-issue/"
     type: article
     provider:
-      name: Catholic News Agency
-      domain: catholicnewsagency.com
-    quality: 91
+      name: POLITICO
+      domain: politico.eu
+    quality: 29
     images:
-      - url: "https://www.catholicnewsagency.com/images/Crucifix_Lars_Hallstrom_via_shutterstock_CNA.jpg?w=375&h=250"
-        width: 375
-        height: 250
-        isCached: true
-  - title: "Tech News: Artificial Intelligence and the human brain"
-    excerpt: "Humans have always dreamt of soaring the sky and since prehistoric times often attempted to fly by mimicking birds."
-    publishedDateTime: 2020-11-06T13:05:00Z
-    webUrl: "https://www.iol.co.za/business-report/opinion/tech-news-artificial-intelligence-and-the-human-brain-bbe190b8-44e2-4bf4-8b89-1049edc80088"
-    ampWebUrl: "https://www.iol.co.za/amp/business-report/opinion/tech-news-artificial-intelligence-and-the-human-brain-bbe190b8-44e2-4bf4-8b89-1049edc80088"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/opinion/tech-news-artificial-intelligence-and-the-human-brain-bbe190b8-44e2-4bf4-8b89-1049edc80088"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 74
-    images:
-      - url: "https://image-prod.iol.co.za/resize/3000x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/c979716c-7fdb-59fb-997e-bbbc8c0e5fc7&operation=CROP&offset=2x0&resize=2996x1685"
-        width: 651
-        height: 366
-        isCached: true
-  - title: "Pope Francis prays for good AI"
-    excerpt: "Hoping to convert it later The head of Roman Catholic church has asked his invisible friend to make sure that AI is good for humans. Pope Francis must be hoping that AI does better at organising humanity than organised religion managed and might look after kiddies better than the Roman Catholic"
-    publishedDateTime: 2020-11-06T11:36:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/51837-pope-francis-prays-for-good-ai"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/7f818a0bd627fe1bc7f010c971e26819_L.jpg"
-        width: 620
-        height: 455
-        isCached: true
-  - title: "Artificial intelligence and humankind"
-    excerpt: "Sir, – Dr Pearse Keane is to be highly commended for his research (Kevin O’Sullivan, “Irish researcher develops AI to help prevent sight loss”, Science, November 4th). However, his statement that, “if something produces better outcomes . . . it should be irrelevant whether it’s a human or a machine or a fusion of the two that achieves that”, needs to be challenged. This type of thinking, in every field of human endeavour, will inevitably lead to the displacement of us humans, as progress is too closely linked to profit and we are just too costly and inefficient. People who care for other human beings need to look at the broader picture, the growing worldwide inequality, and devise algorithms and machines that incorporate inefficient but caring humans in the mix. Otherwise we won’t be able to afford their wonderful services. – Yours, etc,"
-    publishedDateTime: 2020-11-06T00:49:00Z
-    webUrl: "https://www.irishtimes.com/opinion/letters/artificial-intelligence-and-humankind-1.4401421"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 37
-    images:
-      - url: "https://www.irishtimes.com/polopoly_fs/1.3619339.1536160376!/image/image.jpg"
-        width: 1080
-        height: 564
+      - url: "https://www.politico.eu/wp-content/themes/politico-eu/static/design/core/template/opengraph.jpg"
+        width: 1500
+        height: 1500
         isCached: true
 
 secured: "Br9Lft6iDyWLHo0db4wpZHcwvmeZCOyuGPQwFaUZz4aEUf/K+F4q2fKFTcJJHyw195gGmOJBlqgdXYTmr/o2z3nINlTwSZpeLu7giB1xE2OU7xbr6c57Ix0oNfwmrmEDJTNXnPrhCbLh8vBgKOaSmI/E9T0LWL36wLdQS1207yhq9hIOFFA8gqpR3cs/K4HhHQEMhwbtQE2Toi9hTKAhZOcw9WGH2tnbAUk1Rj7PZxKh3srGo2cWe1T56wODzmbUh6sMAW8BhyqKjp4eFf4qF9NpOTBZjZ/aWGZ+NZ1U6M4AxsbvtV+6dQLgZgnKOjoSiHSjPOLws/5wKm7spDCJKwB+sJzgOEHe9d9EoMefJnEJVwDVikYq059Cs8fhQS3Lh8O6iFcJpNUS2j/K+q5EvJtG7HPFhGnKwqs9OSJPdgO6IpyB9Q2RwnOGbztNjcRy9bT6Z3XdADMdKkS6ue0JteMHyvslfyWOl8R9leAZIcH4Epv2QRrixPlVo7pnXoA2LF2IXnHzNaBnqszq2z6Z5A==;dxwoJ6uiXm1MPqY6a15bQA=="

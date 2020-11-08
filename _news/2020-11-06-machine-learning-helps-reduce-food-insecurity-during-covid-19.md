@@ -55,22 +55,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "AI can detect COVID-19 from the sound of your cough"
-    excerpt: "The AI model correctly identified 98.5% of people with COVID-19 ... Similar projects are underway in Cambridge University, Carnegie Mellon University and the U.K. start-up Novoic, according to BBC. \"Pandemics could be a thing of the past if pre-screening ..."
-    publishedDateTime: 2020-11-03T22:02:00Z
-    webUrl: "https://www.livescience.com/asymptomatic-coronavirus-detection-ai.html"
-    ampWebUrl: "https://www.livescience.com/amp/asymptomatic-coronavirus-detection-ai.html"
-    cdnAmpWebUrl: "https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/asymptomatic-coronavirus-detection-ai.html"
-    type: article
-    provider:
-      name: Live Science
-      domain: livescience.com
-    quality: 57
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/XhqqcavxbCtM3FgYZJSfdd-1200-80.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Researchers use deep learning and 2D and 3D convolutional neural networks to predict the severity of Covid-19"
     excerpt: "Researchers and doctors from Gustave Roussy, Assistance Publique-Hôpitaux de Paris, CentraleSupélec, Université de Paris, Université Paris-Saclay, Inserm, Inria and TheraPanacea worked on a study on the prediction of the gravity of Covid-19 using artificial intelligence (AI)."
     publishedDateTime: 2020-11-03T23:31:00Z

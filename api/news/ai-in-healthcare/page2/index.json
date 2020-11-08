@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-19-incorporating-artificial-intelligence-in-indian-healthcare-sector.md",
+      "title": "Incorporating Artificial Intelligence In Indian Healthcare Sector",
+      "excerpt": "Today is the time when we can see significant disruption in the Indian healthcare industry. Much of this is credited to the level of involvement of artificial intelligence, big data, cloud ...",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/resources/incorporating-artificial-intelligence-in-indian-healthcare-sector/",
+      "originalUrl": "https://inc42.com/resources/incorporating-artificial-intelligence-in-indian-healthcare-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2019/10/healthcare-social.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/resources/incorporating-artificial-intelligence-in-indian-healthcare-sector/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/incorporating-artificial-intelligence-in-indian-healthcare-sector/amp/",
+      "publishedDateTime": "2020-10-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-the-2nd-china-hangzhou-international-smart-products-expo-and-2020-global-artificial-intelligence-conference-opened-at-hangzhou.md",
       "title": "The 2nd China (Hangzhou) International Smart Products Expo and 2020 Global Artificial Intelligence Conference opened at Hangzhou",
       "excerpt": "HANGZHOU, CHINA / ACCESSWIRE / October 15, 2020 / On October 16, the 2nd China (Hangzhou) International Smart Products Expo and 2020 Global Artificial Intelligence Conference opened at Hangzhou International Expo Center.",
@@ -1344,41 +1387,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-ceos-of-veev-work-lgiq-docrf-discuss-new-growth-opportunities-in-cloud-based-healthcare-fintech-and-digital-workplaces.md",
-      "title": "CEO's of VEEV, WORK, LGIQ, DOCRF Discuss New Growth Opportunities in Cloud-Based Healthcare, Fintech, and Digital Workplaces",
-      "excerpt": "Wall Street Reporter, the trusted name in financial news since 1843, has published reports on the latest comments and insights",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/10/g17754942/ceos-of-veev-work-lgiq-docrf-discuss-new-growth-opportunities-in-cloud-based-healthcare-fintech-an",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/g17754942/ceos-of-veev-work-lgiq-docrf-discuss-new-growth-opportunities-in-cloud-based-healthcare-fintech-an",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17754942",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17754942",
-      "publishedDateTime": "2020-10-02T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],
