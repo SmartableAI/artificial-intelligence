@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmodo.com.au/2020/11/cops-used-previously-undisclosed-
 cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/11/cops-used-previously-undisclosed-facial-recognition-system-to-identify-protestor-accused-of-assault/amp/"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Cops Used Previously Undisclosed Facial Recognition System To Identify Protestor Accused Of Assault"
-    excerpt: "At an otherwise peaceful protest in Washington, D.C. this past June, one attendee is alleged to have punched an officer in the face before fleeing. According to court documents reviewed by The Washington Post,"
-    publishedDateTime: 2020-11-03T19:03:00Z
-    webUrl: "https://gizmodo.com/cops-used-previously-undisclosed-facial-recognition-sys-1845560806"
-    ampWebUrl: "https://gizmodo.com/cops-used-previously-undisclosed-facial-recognition-sys-1845560806/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/cops-used-previously-undisclosed-facial-recognition-sys-1845560806/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 75
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/yjypjxtf9ngcamplpfpi.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "CP/BbZI7sogfzP7qPluP9Ge9zwgwHEVU+ku/FGFb7hrvb6chZiIGgM2PhKFO013+JMNEwYM3+Etyf5UBm4LP+1lxe+9TMFkHtEtYNABkko//011Lj/RqgjjzxlGIDOT3yqYjHwsMsE+ADeHvHgxNJIc2pIwWUh54TTyY+om0bSb8pL8nUOLj0S9WXHFwZlZ8GC+VTIb+5WtBRZT5aT1DWdpqvRiW2UIiJYZ21Y1SxPBYuyoWXmbtwyuK7jKkD3oA///IQRVNS+EAJSX25UDz4lAa9GK8Wr9vI9AKqiX3s3n2XSAX9XVmNqIorIkpA+/2/UyaWm5yX0fS2kYBAwTxTiP2t5ZpvE1MWxaogfcx1FcVMwsRrdynT9PjgjU4YGDsoy8D2ymSlGS3wfPNG90tLcCjCwCdHEKKfBh+kViSf9YdAlQCbQDKIcS+E+xNQmOGdvTmqbKafhdKnlvKGvktmrDfhlt29okZSalbYKWeRgwPMNOHU837yZya+I0rYNbaAp2V7ryYcZhQ4efMfjGzbw==;/zoSDjC9qYd/iweZ2FsanQ=="
 ---

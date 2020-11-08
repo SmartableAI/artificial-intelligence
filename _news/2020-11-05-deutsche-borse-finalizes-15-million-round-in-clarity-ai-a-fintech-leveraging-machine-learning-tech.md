@@ -38,22 +38,6 @@ related:
         width: 1024
         height: 684
         isCached: true
-  - title: "Meet Accern, A 2020 Benzinga Global Fintech Awards Finalist"
-    excerpt: "Benzinga will be holding its annual Benzinga Global Fintech Awards, a day of dealmaking, networking, and recognition in the financial technology space, on Nov. 10,"
-    publishedDateTime: 2020-11-03T17:10:00Z
-    webUrl: "https://www.benzinga.com/fintech/20/11/18157493/meet-accern-a-2020-benzinga-global-fintech-awards-finalist"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18157493"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18157493"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/copy_of_courtesy_photo_4_0.png"
-        width: 800
-        height: 360
-        isCached: true
   - title: "BankOnUs launches app to support fintech firms"
     excerpt: "BankOnUS, a leading financial services aggregator in the UAE, has launched a new generation technology-oriented app to enhance the customer engagement level and enable easy, reliable and cost-effective financial solutions to its customers."
     publishedDateTime: 2020-11-05T23:44:00Z

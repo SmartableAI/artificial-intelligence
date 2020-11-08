@@ -2,6 +2,49 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-10-15-kb-home-launches-company-wide-ai-powered-chatbot-platform-designed-to-deliver-a-modern-real-time-online-customer-experience.md",
+      "title": "KB Home Launches Company-wide AI-powered Chatbot Platform Designed to Deliver a Modern, Real-time, Online Customer Experience",
+      "excerpt": "KB Home launches company-wide AI-powered chatbot platform designed to deliver a modern, real-time, online customer experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201014005255/en/KB-Home-Launches-Company-wide-AI-powered-Chatbot-Platform-Designed-to-Deliver-a-Modern-Real-time-Online-Customer-Experience/?feedref=JjAwJuNHiystnCoBq_hl-a2-DX8EjssEmMYWAmn7L6JnP4KQ0-VuR_Ed1_p6a8aSQvj2g8ZtgMSWm4nAO4sO4nr0TKd7CILvKt8KtThduJU_d6mxM68GteRxmy6jDm8WOZiG4SwpSv6tLEhMuQ8iTnO1u3OvtUKtPLlU5Ry9otk%3D",
+      "originalUrl": "https://www.businesswire.com/news/home/20201014005255/en/KB-Home-Launches-Company-wide-AI-powered-Chatbot-Platform-Designed-to-Deliver-a-Modern-Real-time-Online-Customer-Experience/?feedref=JjAwJuNHiystnCoBq_hl-a2-DX8EjssEmMYWAmn7L6JnP4KQ0-VuR_Ed1_p6a8aSQvj2g8ZtgMSWm4nAO4sO4nr0TKd7CILvKt8KtThduJU_d6mxM68GteRxmy6jDm8WOZiG4SwpSv6tLEhMuQ8iTnO1u3OvtUKtPLlU5Ry9otk%3D",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201014005255/en/668370/23/New_Logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T23:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-students-accuse-the-university-of-miami-of-using-facial-recognition-to-identify-student-protesters-the-university-denies-it.md",
       "title": "Students Accuse The University Of Miami Of Using Facial Recognition To Identify Student Protesters. The University Denies It.",
       "excerpt": "None of the students actually organized the protest. Three were student journalists who covered the demonstration. And only two were part of an activist student group, UMiami Employee Student Alliance,",
@@ -1159,49 +1202,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-knime-and-h2oai-accelerate-and-simplify-end-to-end-data-science-automation.md",
-      "title": "KNIME and H2O.ai Accelerate and Simplify End-to-end Data Science Automation",
-      "excerpt": "The joint offering combines Driverless AI for AutoML and KNIME Server for workflow management across the entire data science life cycle - from data access to optimization and deployment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation/article_13c91b26-2708-53df-b588-f6f434a3fecf.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation/article_13c91b26-2708-53df-b588-f6f434a3fecf.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-14T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

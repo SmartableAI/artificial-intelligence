@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Walmart To End Experiment With Robots In US Stores – Jaweb"
-    excerpt: "Walmart has pulled the plug on a program to use robots to scan items in stores and help maintain inventory, a company spokeswoman said Tuesday. The retail giant had worked with Bossa Nova Robotics for five years employing elongated robots that take readings on inventory and utilize artificial intelligence to predict product movement and inventory"
-    publishedDateTime: 2020-11-03T17:10:00Z
-    webUrl: "https://elmoudjaweb.com/walmart-to-end-experiment-with-robots-in-us-stores-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/walmart-to-end-experiment-with-robots-in-us-stores-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/walmart-to-end-experiment-with-robots-in-us-stores-jaweb/?amp"
-    type: article
-    provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 59
-    images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/11/Walmart-To-End-Experiment-With-Robots-In-US-Stores-–.jpg"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "sl6Ter0kaWkvid5TSUrF84AAaSaoopWv/y3mrx/XW542Y0IBG+734V/LcOJDP1uODnQ4464iYeVOAA9EnX5YLiUHo+clywvEmE75JL9lJBAsj6tpwzTs20/BI97gqvj4UcL8gGlFp1E2uZPZfR9GpKqiaoKfgoLe2u1Xk0hTy2yUQesN9WEdULwQTx6EjOJCVPiTCQUgvZQUgwQ9G3b0as6R3U31WgN+nYdPHTnvS6zugBTDdTIt+DzkkjdloV3ohf4tDuAPJ+QIWy8dJXtaS04gOKkgE2wd99jAczYKChFqH2U/QjbyhYAAh2VsSQs5Prgu3wPoEI7Jy/xE1CEEfA+XdkZPPU6gcLr2JBXHVOsESK43PC7d2DQhyvbQtC4SR4BnqvlOc6Qca48wVs18aSiK0qi7SqevcKePRwlei4YSy8D7OhXwHQZhQSDDHQHMcZcvG35GzPGye8gVwDc/yMkdFU7rooqPMv+3ICtYa8D0V/EBPl6LpLubMOtFKdXlo7gx/eHrj+YvvogeqnBYdg==;rxgrc6OSmtPnnVZ/6Cpgfg=="
 ---

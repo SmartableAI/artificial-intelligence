@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/edgarsten/2020/11/04/former-walmart-exe
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2020/11/04/former-walmart-execs-company-uses-ai-to-battle-billions-in-spoiled-produce/amp/"
 type: article
 quality: 85
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Walmart To End Experiment With Robots In US Stores – Jaweb"
-    excerpt: "Walmart has pulled the plug on a program to use robots to scan items in stores and help maintain inventory, a company spokeswoman said Tuesday. The retail giant had worked with Bossa Nova Robotics for five years employing elongated robots that take readings on inventory and utilize artificial intelligence to predict product movement and inventory"
-    publishedDateTime: 2020-11-03T17:10:00Z
-    webUrl: "https://elmoudjaweb.com/walmart-to-end-experiment-with-robots-in-us-stores-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/walmart-to-end-experiment-with-robots-in-us-stores-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/walmart-to-end-experiment-with-robots-in-us-stores-jaweb/?amp"
-    type: article
-    provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 59
-    images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/11/Walmart-To-End-Experiment-With-Robots-In-US-Stores-–.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Walmart to end experiment with robots in US stores"
     excerpt: "Walmart Inc has pulled the plug on a program to use robots to scan items in stores and help maintain inventory, a company spokeswoman said on Tuesday. The retail giant had worked with Bossa Nova Robotics Inc for five years employing elongated robots that take readings on inventory and utilize artificial intelligence to predict product movement and inventory needs."
     publishedDateTime: 2020-11-04T17:08:00Z

@@ -113,20 +113,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Voice Biometric Solutions Market Movements by Trend Analysis, Growth Status and Revenue Expectation Forecast to 2026"
-    excerpt: "The global “Voice Biometric Solutions Market” is expected to rise with an impressive CAGR and generate the highest"
-    publishedDateTime: 2020-11-03T18:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-biometric-solutions-market-movements-by-trend-analysis-growth-status-and-revenue-expectation-forecast-to-2026-2020-11-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice Recognition Market : Biggest Innovation to Boost Global Growth Rate Evolving Technology, Size, Share, Data Analysis, SWOT Analysis Forecast"
     excerpt: "Global Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with"
     publishedDateTime: 2020-11-04T14:56:00Z

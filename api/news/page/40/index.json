@@ -2,6 +2,49 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2020-10-06-nxp-launches-ai-ethics-initiative.md",
+      "title": "NXP launches AI Ethics initiative",
+      "excerpt": "Today, NXP launched its AI Ethics initiative, underscoring the company’s commitment to the ethical development of AI components and systems where people work and live, known as the “edge” of computer networks. With secure, power-efficient edge ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsweekly.com/news/business/nxp-launches-ai-ethics-initiative-2020-10/",
+      "originalUrl": "https://www.electronicsweekly.com/news/business/nxp-launches-ai-ethics-initiative-2020-10/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.electronicsweekly.com/wp-content/uploads/2020/10/06130632/02E799ED-8BB1-4F07-B02E-87E5B2F1B529.jpeg",
+          "width": 2550,
+          "height": 3300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-06T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronics Weekly",
+        "domain": "electronicsweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-xbox-series-xs-machine-learning-auto-hdr-renders-stunning-results.md",
       "title": "Xbox Series X’s machine-learning auto-HDR renders stunning results",
       "excerpt": "Xbox Series X and S can apply this effect to games that launched before television HDR was even invented. I’ve tested auto-HDR in a number of backward compatible games on a preview version of the Xbox Series X hardware.",
@@ -1120,48 +1163,6 @@
         "AI in Healthcare",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-explainable-ai-artificial-intelligence-xai-image-recognition-startup-won-us-air-force-space-challenge-competition-as-a-finalist.md",
-      "title": "Explainable-AI (Artificial Intelligence - XAI) Image Recognition Startup Won US Air Force Space Challenge Competition, as a Finalist",
-      "excerpt": "Space Challenge” competition by the US Air Force (managed by AFWERX, for the space industry), as one of the 26 finalists, out of the original 800 teams (i.e., among about the top 4%). The teams included multi-billion dollar companies,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-military-intelligence-artificial-intelligence-government-and-politics-81edd1787508e5af8e71c27b3f723f98",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-military-intelligence-artificial-intelligence-government-and-politics-81edd1787508e5af8e71c27b3f723f98",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-05T10:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

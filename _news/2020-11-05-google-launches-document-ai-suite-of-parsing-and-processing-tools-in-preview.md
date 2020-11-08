@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/04/google-launches-document-ai-suite
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/04/google-launches-document-ai-suite-of-parsing-and-processing-tools-in-preview/amp/"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -75,20 +75,6 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg"
         width: 900
         height: 500
-        isCached: true
-  - title: "In-Memory Computing May Solve the AI Memory Balancing Act of Volume, Speed, and Processing"
-    excerpt: "Designing memory architectures for AI/ML devices may feel like an impassable compromise with storage volume, speed, and processing. A new in-memory computing accelerator may be a useful solution."
-    publishedDateTime: 2020-11-03T18:42:00Z
-    webUrl: "https://www.allaboutcircuits.com/news/in-memory-computing-solve-ai-memory-balancing-act-volume-speed-processing/"
-    type: article
-    provider:
-      name: All About Circuits
-      domain: allaboutcircuits.com
-    quality: 29
-    images:
-      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/The_new%C2%A0tsunAImi_accelerator.jpg"
-        width: 700
-        height: 350
         isCached: true
 
 secured: "GN/KPXryMPqYofWbqVykMtIi5Khc5K+6gMk01Xggi7ajkiYPbEZLwnqGjCsxZV+xmmQa16iQd4wG4QFRMYIQsGpcZ71L13JJ+9yfXBkCH9CLKW4OF07nVq+Hke5VDL+8n6yxNmSKfx3rVSExP4biFAKLZjr5FAR8C7GN74VNCnaVlGUARmat01pyWzOlzqU0C1D9QVLBPptQVU0h3/evrD2MmeGjK2obL2ym2PtDkcC60wCgDmuu49shumNV4z3oPXadPdUvTVMHHw0E8sEMwAgAbn3iRmiWxMXumkZwkvMUnyvXHDAujae4pAGLguC4FHtmRe7r4G4KpFKKGShIGqcnmE3uv/IFmIsTj1SAdWdX+hqWz41vvU02S8Hkbfd3QoWZ3cVxZEZ2fARFBYFO3lktTwJUXJMhxQaXLvI+HPJK82oNRsM+qUuth4OZczpFnd8vph/UtBfpvcgOAXabpi9vedKn1W877RyFx21EfOyZxHzS0BUw+7TKp6C3/3SOUZoS39Bth8+YVO2a3xDvQw==;rclke4YsBDVMQuP8NnCDyA=="

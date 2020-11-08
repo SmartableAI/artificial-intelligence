@@ -965,7 +965,7 @@
       "originalUrl": "https://venturebeat.com/2020/11/04/google-launches-document-ai-suite-of-parsing-and-processing-tools-in-preview/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1103,6 +1103,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-05-waymo-anticipating-election-protests-docks-its-self-driving-cars-in-san-francisco.md",
+      "title": "Waymo, anticipating election protests, docks its self-driving cars in San Francisco",
+      "excerpt": "Presidential Election drags on, Waymo, fearing civic unrest, has joined bike and scooter services in pulling access.",
+      "sourceUrl": null,
+      "webUrl": "https://www.archpaper.com/2020/11/waymo-election-protests-docks-its-san-francisco-self-driving-cars/",
+      "originalUrl": "https://www.archpaper.com/2020/11/waymo-election-protests-docks-its-san-francisco-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.archpaper.com/wp-content/uploads/2020/11/waymo_minivan_5.jpg",
+          "width": 1600,
+          "height": 993,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.archpaper.com/2020/11/waymo-election-protests-docks-its-san-francisco-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-archpaper-com.cdn.ampproject.org/c/s/www.archpaper.com/2020/11/waymo-election-protests-docks-its-san-francisco-self-driving-cars/amp/",
+      "publishedDateTime": "2020-11-04T09:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Architect's Newspaper",
+        "domain": "archpaper.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-sales-enablement-enhanced-with-artificial-intelligence.md",
       "title": "Sales Enablement Enhanced With Artificial Intelligence",
       "excerpt": "The amount of data collected in both sales and marketing has had developers focused on each, with only a little thought given to a true integration. That has slowly begun to change; and artificial intelligence (AI) might be providing the final piece necessary to supply a more robust solution.",
@@ -1187,57 +1230,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-heres-how-ai-makes-a-new-home-hunt-about-as-fun-as-dating.md",
-      "title": "Here’s How AI Makes A New-Home Hunt About As Fun As Dating!",
-      "excerpt": "An AI-powered marketing platform designed for a UX that works like a cross between Match.com and Netflix, enables home builders to learn with every click, tracking preferences of web visitors. In real-time,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnmcmanus/2020/11/04/heres-how-ai-makes-a-new-home-hunt-about-as-fun-as-dating/",
-      "originalUrl": "https://www.forbes.com/sites/johnmcmanus/2020/11/04/heres-how-ai-makes-a-new-home-hunt-about-as-fun-as-dating/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa2c94427616a015e59d92d%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnmcmanus/2020/11/04/heres-how-ai-makes-a-new-home-hunt-about-as-fun-as-dating/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnmcmanus/2020/11/04/heres-how-ai-makes-a-new-home-hunt-about-as-fun-as-dating/amp/",
-      "publishedDateTime": "2020-11-04T07:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

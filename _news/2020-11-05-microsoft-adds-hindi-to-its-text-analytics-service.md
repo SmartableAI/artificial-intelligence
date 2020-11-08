@@ -97,22 +97,6 @@ related:
         width: 600
         height: 368
         isCached: true
-  - title: "Microsoft are the ones behind the gigantic data center in Iowa, have spent $700 million so far"
-    excerpt: "The $700 million \"Project Mountain\" data center project in Des Moines, Iowa, has an official owner: Microsoft. Late last week, the Iowa Economic Development Authority Board approved $20 million ..."
-    publishedDateTime: 2020-11-03T18:22:00Z
-    webUrl: "https://www.tweaktown.com/news/31271/microsoft-are-the-ones-behind-the-gigantic-data-center-in-iowa-have-spent-700-million-so-far/index.html"
-    ampWebUrl: "https://www.tweaktown.com/news/31271/microsoft-are-the-ones-behind-the-gigantic-data-center-in-iowa-have-spent-700-million-so-far/amp.html"
-    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/31271/microsoft-are-the-ones-behind-the-gigantic-data-center-in-iowa-have-spent-700-million-so-far/amp.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 49
-    images:
-      - url: "https://static.tweaktown.com/news/3/1/31271_09_microsoft_are_the_ones_behind_the_gigantic_data_center_in_iowa_have_spent_700_million_so_far.jpg"
-        width: 380
-        height: 271
-        isCached: true
   - title: "Self-driving car start-up Wayve deploys Microsoft Azure cloud technology"
     excerpt: "Cambridge, UK-based Wayve, developer of AI software for self-driving cars, has signed a contract with Microsoft for use of the Azure cloud"
     publishedDateTime: 2020-11-05T13:07:00Z

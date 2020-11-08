@@ -73,20 +73,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "In-Memory Computing May Solve the AI Memory Balancing Act of Volume, Speed, and Processing"
-    excerpt: "Designing memory architectures for AI/ML devices may feel like an impassable compromise with storage volume, speed, and processing. A new in-memory computing accelerator may be a useful solution."
-    publishedDateTime: 2020-11-03T18:42:00Z
-    webUrl: "https://www.allaboutcircuits.com/news/in-memory-computing-solve-ai-memory-balancing-act-volume-speed-processing/"
-    type: article
-    provider:
-      name: All About Circuits
-      domain: allaboutcircuits.com
-    quality: 29
-    images:
-      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/The_new%C2%A0tsunAImi_accelerator.jpg"
-        width: 700
-        height: 350
-        isCached: true
 
 secured: "ojvxMwBPBRQMjLN9ja3hV+Q78TpYsk9B+cRXkoabBh54uEUXI2hJZg+twh3baahw9dpDGDG/ww2BYHh/0motGecuNJh0LdamjQiHGFempJkt8LgMFkiVsFMFIG2r1Axe99qwOd2fDyjcUUizCbyASwICkYUPmSf84hV1ps3UhADAWxG1NF8lQw7Rk0U6ISZWeoB25Bl6Ht3cYjDbn9EGvJqT+48wVmO0mJhaju+QViWtQgRfHHY+CbRoP1zSndA6FrZ/QyNneVXcIAMFC5+c2iznGz6r1CYxK2PigFYHK25jY3uFd+FCa9XFjYh9SC1FVi+8eOGnZ96Oed9iqtIVZloc7bx08nPlWxw5CyVi7KZ+4T/dmzfqVY0A/68/fO6x/FGejIX2seEnopekYwL0jHG3yI9ey8Mt7GYHiqitX8ENwWrUjGgPGfdIVcKzWtgOu0bJi0BjOAaGa+HHmlNaihy0ySxOzlVV3pgE4CuTM+dD16a7vYCyKfaakf/l65KHCQD0JUO8ZIyOzzUb/YxUkw==;z1K2ObiBZ4RarK9YkOOjOg=="
 ---

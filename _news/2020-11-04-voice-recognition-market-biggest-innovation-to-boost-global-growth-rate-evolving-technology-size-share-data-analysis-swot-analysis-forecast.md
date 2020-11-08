@@ -127,20 +127,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Voice Biometric Solutions Market Movements by Trend Analysis, Growth Status and Revenue Expectation Forecast to 2026"
-    excerpt: "The global “Voice Biometric Solutions Market” is expected to rise with an impressive CAGR and generate the highest"
-    publishedDateTime: 2020-11-03T18:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-biometric-solutions-market-movements-by-trend-analysis-growth-status-and-revenue-expectation-forecast-to-2026-2020-11-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "0NOpQT4Jmj+u7N6ttTwmeeZmBpusSAF64aY+z1VgLFhvZN/cTv/Xkt3n6jQIxEJmE/U3lmVOK3brqCdfmRs4d2yp+oOgWGzvljRJ+4HVj9U4+x0QmtcgmopZA1sfDf2NDda8LNDgHMD8uyHRJBB/t4mPcgkbim40Tub6nFrfFE8PkB+YVCRrjgpWyWa8LApId2a1ioI2a4GavHWW0hzD5M8u51CyizSvSqfi2Lamgxyf4CdCoOGZddWOYCFeO4U5cWUNYNIV3dJPjwCHgwBnfadkHVzoITwxFCr34xJ7t7xWvv1UD/kHAK+QHUHrSPV2mKx+6NazGJeX97gVimMfJWuF9lulwmQpoDNncU1cD94=;H4cjDNzA7bnsBL9EPaT0Qw=="
 ---

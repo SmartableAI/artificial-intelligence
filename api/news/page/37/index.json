@@ -2,6 +2,58 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-10-08-facial-recognition-data-leaks-is-rampant-across-china-as-covid-19-pushes-wider-use-of-the-technology.md",
+      "title": "Facial recognition data leaks is rampant across China as Covid-19 pushes wider use of the technology",
+      "excerpt": "Incorrectly configured databases remains a widespread security problem in China even as citizens increasingly express concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/abacus/tech/article/3104512/facial-recognition-data-leaks-rampant-across-china-covid-19-pushes",
+      "originalUrl": "https://www.scmp.com/abacus/tech/article/3104512/facial-recognition-data-leaks-rampant-across-china-covid-19-pushes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/10/08/2e658938-077f-11eb-afc8-92e0da0ef1c3_image_hires_105537.jpg?itok=FA7tyBxR&v=1602125752",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/abacus/tech/article/3104512/facial-recognition-data-leaks-rampant-across-china-covid-19-pushes",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/abacus/tech/article/3104512/facial-recognition-data-leaks-rampant-across-china-covid-19-pushes",
+      "publishedDateTime": "2020-10-07T20:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-finding-new-ways-to-operate-transform-with-machine-learning.md",
       "title": "Finding new ways to operate & transform with machine learning",
       "excerpt": "Mark Smith, Worldwide Head of Business and Market Development for Payments, Amazon Web Services ... to implementing machine learning workloads, and about the challenges financial institutions ...",
@@ -1126,50 +1178,6 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-ucsf-fortanix-intel-and-microsoft-azure-utilize-privacy-preserving-analytics-to-accelerate-ai-in-healthcare.md",
-      "title": "UCSF, Fortanix, Intel, and Microsoft Azure Utilize Privacy-Preserving Analytics to Accelerate AI in Healthcare",
-      "excerpt": "“Validation and security of AI algorithms is a major concern prior ... in the control of the healthcare institution via their Azure confidential computing cloud infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.oaoa.com/news/business/ucsf-fortanix-intel-and-microsoft-azure-utilize-privacy-preserving-analytics-to-accelerate-ai-in-healthcare/article_51dace0e-a59b-57b9-8d5b-1af98a6788dc.html",
-      "originalUrl": "https://www.oaoa.com/news/business/ucsf-fortanix-intel-and-microsoft-azure-utilize-privacy-preserving-analytics-to-accelerate-ai-in-healthcare/article_51dace0e-a59b-57b9-8d5b-1af98a6788dc.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png",
-          "width": 576,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

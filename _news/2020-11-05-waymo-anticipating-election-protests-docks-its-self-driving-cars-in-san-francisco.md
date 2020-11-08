@@ -9,8 +9,8 @@ ampWebUrl: "https://www.archpaper.com/2020/11/waymo-election-protests-docks-its-
 cdnAmpWebUrl: "https://www-archpaper-com.cdn.ampproject.org/c/s/www.archpaper.com/2020/11/waymo-election-protests-docks-its-san-francisco-self-driving-cars/amp/"
 type: article
 quality: 53
-heat: -1
-published: false
+heat: 83
+published: true
 
 provider:
   name: The Architect's Newspaper
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google's Waymo is pulling its self-driving cars out of San Francisco in case violence erupts around the election"
-    excerpt: "The company will also stop testing on San Francisco's streets for the next two days as the 2020 presidential election unfolds."
-    publishedDateTime: 2020-11-03T17:09:00Z
-    webUrl: "https://www.businessinsider.com/google-waymo-securing-autonomous-cars-san-francisco-election-chaos-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/google-waymo-securing-autonomous-cars-san-francisco-election-chaos-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-waymo-securing-autonomous-cars-san-francisco-election-chaos-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
-    images:
-      - url: "https://i.insider.com/5fa17cdb69331a0011bc6f36?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Waymo pulls self-driving cars in San Francisco as cities nationwide brace for unrest"
     excerpt: "Waymo moved its San Francisco vehicles to neighboring Mountain View Monday night out of an abundance of caution and with the safety of its team in mind, according to a spokeswoman."
     publishedDateTime: 2020-11-04T13:00:00Z
@@ -58,22 +42,6 @@ related:
       - url: "https://www.eastbaytimes.com/wp-content/uploads/2020/11/hypatia-h_bfe6eec850c45698ccc926b6623cac82-h_3f3331561d6fc6c4dc68055128326422-1.jpg?w=1024&h=683"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Google's sister firm Waymo is pulling its self-driving cars out of San Francisco in case violence erupts around the election"
-    excerpt: "Waymo is pulling its self-driving cars from the streets of San Francisco in case election unrest ensues this week. \"Out of an abundance of caution and with the safety of our team in mind, we are temporarily suspending driving operations in San Francisco on 11/3 and 11/4,"
-    publishedDateTime: 2020-11-03T18:23:00Z
-    webUrl: "https://www.businessinsider.in/tech/news/googles-sister-firm-waymo-is-pulling-its-self-driving-cars-out-of-san-francisco-in-case-violence-erupts-around-the-election/articleshow/79027264.cms"
-    ampWebUrl: "https://www.businessinsider.in/tech/news/googles-sister-firm-waymo-is-pulling-its-self-driving-cars-out-of-san-francisco-in-case-violence-erupts-around-the-election/amp_articleshow/79027264.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/googles-sister-firm-waymo-is-pulling-its-self-driving-cars-out-of-san-francisco-in-case-violence-erupts-around-the-election/amp_articleshow/79027264.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 32
-    images:
-      - url: "https://www.businessinsider.in/thumb/79027021.cms?height=275&width=412"
-        width: 412
-        height: 275
         isCached: true
   - title: "Waymo Pulls Self-Driving Cars From San Francisco Over Concerns About Post-Election Unrest"
     excerpt: "Waymo, the self-driving company of Google's parent company Alphabet, has suspended its self-driving operations in San Francisco as businesses and cities in the Bay Area and across the country brace for potential unrest."

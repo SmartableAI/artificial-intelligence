@@ -2,6 +2,49 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-10-10-otologic-technologies-hopes-to-bring-artificial-intelligence-into-the-exam-room.md",
+      "title": "Otologic Technologies hopes to bring artificial intelligence into the exam room",
+      "excerpt": "Otologic Technologies wants to use recordings during ear exams to enhance images inside the ear and compare them to a database of known ear abnormalities to make the",
+      "sourceUrl": null,
+      "webUrl": "https://madison.com/wsj/business/otologic-technologies-hopes-to-bring-artificial-intelligence-into-the-exam-room/article_507777b3-1f7d-5b4a-a45c-1268c0e5ec63.html",
+      "originalUrl": "https://madison.com/wsj/business/otologic-technologies-hopes-to-bring-artificial-intelligence-into-the-exam-room/article_507777b3-1f7d-5b4a-a45c-1268c0e5ec63.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/7/bb/7bb55d7f-31b4-5631-ba37-8813676011e7/5f6e23b91f0d3.preview.png?crop=366%2C232%2C1%2C58",
+          "width": 366,
+          "height": 232,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://madison.com/business/otologic-technologies-hopes-to-bring-artificial-intelligence-into-the-exam-room/article_507777b3-1f7d-5b4a-a45c-1268c0e5ec63.amp.html",
+      "cdnAmpWebUrl": "https://madison-com.cdn.ampproject.org/c/s/madison.com/business/otologic-technologies-hopes-to-bring-artificial-intelligence-into-the-exam-room/article_507777b3-1f7d-5b4a-a45c-1268c0e5ec63.amp.html",
+      "publishedDateTime": "2020-10-09T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Madison.com",
+        "domain": "madison.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-10-rights-group-criticizes-buenos-aires-for-using-face-recognition-tech-on-kids.md",
       "title": "Rights group criticizes Buenos Aires for using face recognition tech on kids",
       "excerpt": "Human Rights Watch wants the city of Buenos Aires to stop using live facial recognition to identify children accused of committing crimes, the rights group said on Friday.",
@@ -1122,58 +1165,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-ibm-teams-up-with-activision-blizzard-to-manage-tech-for-the-overwatch-league.md",
-      "title": "IBM teams up with Activision Blizzard to manage tech for the Overwatch League",
-      "excerpt": "IBM will provide cloud, Watson AI, and machine learning for the Overwatch League and become a presenting partner of the Overwatch League Grand Finals. IBM will power interactive and analytical ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/08/ibm-teams-up-with-activision-blizzard-to-manage-tech-for-the-overwatch-league/",
-      "originalUrl": "https://venturebeat.com/2020/10/08/ibm-teams-up-with-activision-blizzard-to-manage-tech-for-the-overwatch-league/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/overwatch.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/08/ibm-teams-up-with-activision-blizzard-to-manage-tech-for-the-overwatch-league/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/08/ibm-teams-up-with-activision-blizzard-to-manage-tech-for-the-overwatch-league/amp/",
-      "publishedDateTime": "2020-10-08T22:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
