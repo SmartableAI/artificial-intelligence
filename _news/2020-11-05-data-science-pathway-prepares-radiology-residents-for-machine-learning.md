@@ -7,7 +7,7 @@ originalUrl: "https://medicalxpress.com/news/2020-11-science-pathway-radiology-r
 webUrl: "https://medicalxpress.com/news/2020-11-science-pathway-radiology-residents-machine.html"
 type: article
 quality: 39
-heat: 39
+heat: 59
 published: false
 
 provider:

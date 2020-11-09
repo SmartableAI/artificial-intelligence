@@ -7,7 +7,7 @@ originalUrl: "https://www.embedded.com/ambarella-targets-intelligent-edge-sensin
 webUrl: "https://www.embedded.com/ambarella-targets-intelligent-edge-sensing-with-new-camera-soc/"
 type: article
 quality: 24
-heat: 24
+heat: 34
 published: false
 
 provider:

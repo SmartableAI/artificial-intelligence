@@ -7,7 +7,7 @@ originalUrl: "https://ibsintelligence.com/ibsi-news/clarity-ai-closes-15m-fundin
 webUrl: "https://ibsintelligence.com/ibsi-news/clarity-ai-closes-15m-funding-round-led-by-deutsche-borse/"
 type: article
 quality: 39
-heat: 39
+heat: 59
 published: false
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.industryweek.com/technology-and-iiot/digital-tools/art
 webUrl: "https://www.industryweek.com/technology-and-iiot/digital-tools/article/21146761/2021-is-the-year-ai-projects-get-real"
 type: article
 quality: 37
-heat: 37
+heat: 47
 published: false
 
 provider:
