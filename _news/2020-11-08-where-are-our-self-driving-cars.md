@@ -3,8 +3,8 @@ category: news
 title: "Where are our self-driving cars?"
 excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time,"
 publishedDateTime: 2020-11-08T05:00:00Z
-originalUrl: "https://tulsaworld.com/business/ap/where-are-our-self-driving-cars/article_a499ed1c-1ecf-11eb-b1cb-6f5b91e3c539.html"
-webUrl: "https://tulsaworld.com/business/ap/where-are-our-self-driving-cars/article_a499ed1c-1ecf-11eb-b1cb-6f5b91e3c539.html"
+originalUrl: "https://tulsaworld.com/business/ap/article_a499ed1c-1ecf-11eb-b1cb-6f5b91e3c539.html"
+webUrl: "https://tulsaworld.com/business/ap/article_a499ed1c-1ecf-11eb-b1cb-6f5b91e3c539.html"
 ampWebUrl: "https://tulsaworld.com/business/ap/where-are-our-self-driving-cars/article_a499ed1c-1ecf-11eb-b1cb-6f5b91e3c539.amp.html"
 cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/business/ap/where-are-our-self-driving-cars/article_a499ed1c-1ecf-11eb-b1cb-6f5b91e3c539.amp.html"
 type: article
@@ -138,6 +138,6 @@ related:
       domain: columbiabasinherald.com
     quality: 4
 
-secured: "UlhkxKRPD3KFe75PeztXfWdYB5duXezdF6c7cAOFeilULye7B8EptUI04tL7TSJwbNuwSlsdZ0KlyvnDmKBL0vh1r7sD0LVD027uUo++4LteFUWGEMDGuLt1e6aVykVKzSLeAyftv9GPWw5yPrJCtb1iT+1PU3Kpkfv6xem/f6sC42l+GvE4LOXM8k37w6KldXaxSHKudgeh20yVWEaQ9/cMODrwqgJdtmqCUISZ2P1I52qWPXK9faUW1opZOvpeAuvauWuZxX8c7CkzkLwZ0KDNlXgT3kOqSDg/5Z+J50iBsB6gVdKd7TL+CT/ntV++6j+hUD3/pSQhA4uq7ZIjdpPrw5G6+CJCXMbcRmewjqu8v5UT9Q/nrCtzJcT0OqRl5TLS4rOdIhJBGSPGBkKotQiL87Gr+buX1D7FhtNwgYN6r+jwGBVHzTUqaNsjLj2QT+K4b5OEywaVRKYkR5L25buTKNHP3cKS9W+dm0a+J79lyHYeoXJvP2bw6G7n+fju6mNwK+k5YEgWjaJKc9i6Zw==;LluR7/HzSvPbw+jOCPBAzw=="
+secured: "t0D4bdqREGNXL5o3AlvXpV2JKOSSmecVMjh5pe13CSsf5xhO3NjHmA9yyuDNaGje8NI0NNDMdFTdPdQpFpklxu/21+Ar3eHkdNnuQcMGFiATJ4Pun6fANFwOhfMcTUTbXl5Zv2sS8+0J2efByRYdzObFrIHsTN97LoyBEe43Sd76LFZXDf5jxb4p8eP0XXANGKZxCpoXk3xGsRwkBKOC9Nlsqd18D6N8TEcaDdnyzyQZABAaPj1PsvDdMxkQUgO6oTVp0dJ0cilLGgYKqcz23RAi3cmSFVauxID3sVRaE906VcJK84UOeOurQylSdYWCWQC5mTuijlTbLnj9HdF5KIXOcsLvZEBV/+O4al5T1mg=;Wl+6WdWKWojfdGoUWnMBCg=="
 ---
 

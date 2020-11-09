@@ -90,7 +90,7 @@ related:
   - title: "Where are our self-driving cars?"
     excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time,"
     publishedDateTime: 2020-11-08T05:00:00Z
-    webUrl: "https://tulsaworld.com/business/ap/where-are-our-self-driving-cars/article_a499ed1c-1ecf-11eb-b1cb-6f5b91e3c539.html"
+    webUrl: "https://tulsaworld.com/business/ap/article_a499ed1c-1ecf-11eb-b1cb-6f5b91e3c539.html"
     ampWebUrl: "https://tulsaworld.com/business/ap/where-are-our-self-driving-cars/article_a499ed1c-1ecf-11eb-b1cb-6f5b91e3c539.amp.html"
     cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/business/ap/where-are-our-self-driving-cars/article_a499ed1c-1ecf-11eb-b1cb-6f5b91e3c539.amp.html"
     type: article

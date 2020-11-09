@@ -7,7 +7,7 @@ originalUrl: "https://www.smdailyjournal.com/opinion/columnists/politics-and-art
 webUrl: "https://www.smdailyjournal.com/opinion/columnists/politics-and-artificial-intelligence/article_05100ae2-209b-11eb-9b79-5be1b94cbec2.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 576
     height: 348
     isCached: true
+
+related:
+  - title: "Making HPC And AI More Accessible To Enterprises"
+    excerpt: "For more than a decade, as they have watched the amount of data they are generating stack up and technologies like artificial intelligence and analytics"
+    publishedDateTime: 2020-11-09T14:13:00Z
+    webUrl: "https://www.nextplatform.com/2020/11/09/making-hpc-and-ai-more-accessible-to-enterprises/"
+    ampWebUrl: "https://www.nextplatform.com/2020/11/09/making-hpc-and-ai-more-accessible-to-enterprises/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/11/09/making-hpc-and-ai-more-accessible-to-enterprises/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/dell-headquarters-logo.jpg"
+        width: 732
+        height: 518
+        isCached: true
 
 secured: "Br9Lft6iDyWLHo0db4wpZHcwvmeZCOyuGPQwFaUZz4aEUf/K+F4q2fKFTcJJHyw195gGmOJBlqgdXYTmr/o2z3nINlTwSZpeLu7giB1xE2OU7xbr6c57Ix0oNfwmrmEDJTNXnPrhCbLh8vBgKOaSmI/E9T0LWL36wLdQS1207yhq9hIOFFA8gqpR3cs/K4HhHQEMhwbtQE2Toi9hTKAhZOcw9WGH2tnbAUk1Rj7PZxKh3srGo2cWe1T56wODzmbUh6sMAW8BhyqKjp4eFf4qF9NpOTBZjZ/aWGZ+NZ1U6M4AxsbvtV+6dQLgZgnKOjoSiHSjPOLws/5wKm7spDCJKwB+sJzgOEHe9d9EoMefJnEJVwDVikYq059Cs8fhQS3Lh8O6iFcJpNUS2j/K+q5EvJtG7HPFhGnKwqs9OSJPdgO6IpyB9Q2RwnOGbztNjcRy9bT6Z3XdADMdKkS6ue0JteMHyvslfyWOl8R9leAZIcH4Epv2QRrixPlVo7pnXoA2LF2IXnHzNaBnqszq2z6Z5A==;dxwoJ6uiXm1MPqY6a15bQA=="
 ---

@@ -25,17 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "What’s the carbon footprint of A.I.? This clever tool breaks it down"
-    excerpt: "Deep-learning A.I. is the machine learning technology that powers everything from cutting-edge natural language processing to machine vision tools. It may also be powering climate change — as a result of the massive energy consumption and CO2 emissions ..."
-    publishedDateTime: 2020-11-04T21:41:00Z
-    webUrl: "https://www.digitaltrends.com/news/carbontracker-deep-learning-sustainability/"
-    ampWebUrl: "https://www.digitaltrends.com/news/carbontracker-deep-learning-sustainability/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/carbontracker-deep-learning-sustainability/?amp"
+  - title: "Machine learning removes bias from algorithms and the hiring process"
+    excerpt: "If undetected and unchecked, algorithms can learn, automate, and scale existing human and systemic biases. These models then perpetuate discrimination as they guide decision-makers in selecting people for loans,"
+    publishedDateTime: 2020-11-06T13:45:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/science-michael-rosenbaum-81cbbaf3f48315533c82bde24b452dbb"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 54
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "L5zeVs0GW6VRx70xBXoXAELwV27HaYZE1VbBYwl4kd0Gxo5whBm2jEh89vFfRxtHtbJe1LFAF7XWrItPGUYhlHwOT3gE+qOZSdpL24XKSyoF0HK3AD8/LWNYlePESdj4ycsl0roy01UgZl462WnCantj5fazAhYtKcSEzkAFN1/cLxi5cByduxI55iXJd3fwxyPuqe+YfqulhcP1uXhb/bJnBtKWrP9Hk8idop7LfvAudHovZPiv4ONR8Sg2pqBExoJGM107rljgJLz+b9XetI/iTQG/3I5UUfvz9sRXaopMqgwQHfwEAMbZOd4QiXB57bKGVOEQp2G/l6yb1wKVlmmraARLkeTz0EYkBf9i4BY=;prL+RMRG3zTbHw6m8a0PKA=="
 ---

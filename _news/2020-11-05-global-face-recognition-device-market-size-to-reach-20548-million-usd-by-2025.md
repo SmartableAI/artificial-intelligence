@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-face-recognition-
 webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-size-to-reach-20548-million-usd-by-2025-2020-11-05"
 type: article
 quality: 65
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/ai-stadium-security-920.jpg"
         width: 612
         height: 355
-        isCached: true
-  - title: "Voice Recognition Market Set to Witness an Uptick of 11.35% CAGR by 2025"
-    excerpt: "Selbyville, Delaware, Global Voice Recognition Market (2017-2025) Industry Research Report focuses on the global Voice Recognition status, future forecast, growth opportunity, key market and key players."
-    publishedDateTime: 2020-11-04T22:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-set-to-witness-an-uptick-of-1135-cagr-by-2025-2020-11-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "New NXP Solution Makes On-device Facial Recognition More Affordable"
     excerpt: "NXP has unveiled a new low-cost facial recognition solution that will make the technology more affordable for equipment manufacturers"

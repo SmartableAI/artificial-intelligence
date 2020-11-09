@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-09-ethical-frameworks-for-ai-arent-enough.md",
+      "title": "Ethical Frameworks for AI Aren’t Enough",
+      "excerpt": "Many AI ethical frameworks cannot be clearly implemented in practice, as researchers have consistently demonstrated. Without a dramatic increase in the specificity of existing AI frameworks, there’s simply not much technical personnel can do to clearly uphold such high-level guidance.",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2020/11/ethical-frameworks-for-ai-arent-enough",
+      "originalUrl": "https://hbr.org/2020/11/ethical-frameworks-for-ai-arent-enough",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2020/11/Nov20_09_1221118269.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2020/11/ethical-frameworks-for-ai-arent-enough",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/ethical-frameworks-for-ai-arent-enough",
+      "publishedDateTime": "2020-11-09T06:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-outsenses-ai-looks-for-life-threatening-diseases-in-your-poop.md",
+      "title": "OutSense’s AI looks for life-threatening diseases in your poop",
+      "excerpt": "OutSense is setting out to \"transform human waste into lifesaving medical insights\" through a device that clips onto a toilet.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/09/outsenses-ai-looks-for-life-threatening-diseases-in-your-poop/",
+      "originalUrl": "https://venturebeat.com/2020/11/09/outsenses-ai-looks-for-life-threatening-diseases-in-your-poop/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/outsense_banner_final.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 621,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/09/outsenses-ai-looks-for-life-threatening-diseases-in-your-poop/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/09/outsenses-ai-looks-for-life-threatening-diseases-in-your-poop/amp/",
+      "publishedDateTime": "2020-11-09T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-09-watch-trent-reznors-nine-inch-nails-rock-roll-hall-of-fame-acceptance-speech.md",
       "title": "Watch Trent Reznor's Nine Inch Nails Rock & Roll Hall Of Fame Acceptance Speech",
       "excerpt": "Trent Reznor thanked Nine Inch Nails bandmates both past and present in his Rock & Roll Hall Of Fame induction ceremony acceptance speech. Over the weekend, Trent Reznor accepted the honour of Nine Inch Nails being inducted into the 2020 Rock & Roll Hall Of Fame on behalf of his bandmates throughout the years,",
@@ -97,58 +191,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-09-self-driving-delivery-firm-nuro-raises-500-million-as-covid-19-boosts-e-commerce.md",
-      "title": "Self-driving delivery firm Nuro raises $500 million as COVID-19 boosts e-commerce",
-      "excerpt": "Self-driving delivery company Nuro, whose R2 unit has no pedals or steering wheel and only room for packages, said Monday it has raised $500 million as e-commerce gets a huge boost from the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/autonomous-nuro-funding/self-driving-delivery-firm-nuro-raises-500-million-as-covid-19-boosts-e-commerce-idUSL1N2HS26I",
-      "originalUrl": "https://www.reuters.com/article/autonomous-nuro-funding/self-driving-delivery-firm-nuro-raises-500-million-as-covid-19-boosts-e-commerce-idUSL1N2HS26I",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540519893&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80T3",
-          "width": 676,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2HS26I",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2HS26I",
-      "publishedDateTime": "2020-11-09T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-09-how-ai-can-go-terribly-wrong-5-biases-that-create-failure.md",
       "title": "How AI Can Go Terribly Wrong: 5 Biases That Create Failure",
       "excerpt": "This article will enable boards and senior executives to ask the right questions about the five dangerous biases of AI.",
@@ -208,7 +250,7 @@
       "originalUrl": "https://www.infoworld.com/article/3586836/review-google-cloud-ai-lights-up-machine-learning.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -249,7 +291,8 @@
       "topics": [
         "Machine Learning",
         "AI",
-        "AI Ethics"
+        "AI Ethics",
+        "Natural Language Processing"
       ]
     },
     {
@@ -622,6 +665,57 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-how-artificial-intelligence-may-be-making-you-buy-things.md",
+      "title": "How artificial intelligence may be making you buy things",
+      "excerpt": "So the next time you dash into your local shop to buy certain snacks and a particular wine on a Friday night, perhaps you can blame AI, and a computer that has learned all about you, for the decision.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-54522442?at_medium=custom7&at_custom2=twitter&at_campaign=64&at_custom4=106AB4EA-2290-11EB-B12B-5BF939982C1E&at_custom1=%5Bpost+type%5D",
+      "originalUrl": "https://www.bbc.com/news/technology-54522442?at_medium=custom7&at_custom2=twitter&at_campaign=64&at_custom4=106AB4EA-2290-11EB-B12B-5BF939982C1E&at_custom1=%5Bpost+type%5D",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/26A6/production/_115249890_gettyimages-1128467471.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/technology-54522442",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-54522442",
+      "publishedDateTime": "2020-11-08T16:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1146,102 +1240,6 @@
       "topics": [
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-microsofts-azure-cloud-platform-will-be-the-brain-for-their-future-autonomous-robots.md",
-      "title": "Microsoft’s Azure cloud platform will be the brain for their future autonomous robots!",
-      "excerpt": "Azure is run by Artificial Intelligence that provides users with a customizable space to work, save, share, and connect through multi-functional, serverless software. Halawany’s robot renders for Microsoft Middle East,",
-      "sourceUrl": null,
-      "webUrl": "https://www.yankodesign.com/2020/11/06/microsofts-azure-cloud-platform-will-be-the-brain-for-their-future-autonomous-robots/",
-      "originalUrl": "https://www.yankodesign.com/2020/11/06/microsofts-azure-cloud-platform-will-be-the-brain-for-their-future-autonomous-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.yankodesign.com/images/design_news/2020/10/worlds_most_secure_portable_SSD-510x314.jpg",
-          "width": 510,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-06T17:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Yanko Design",
-        "domain": "yankodesign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-artificial-intelligence-shows-potential-to-gauge-voter-sentiment.md",
-      "title": "Artificial Intelligence Shows Potential to Gauge Voter Sentiment",
-      "excerpt": "Some technology experts say artificial intelligence could hold promise for predicting election outcomes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-shows-potential-to-gauge-voter-sentiment-11604704009",
-      "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-shows-potential-to-gauge-voter-sentiment-11604704009",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-256562/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/artificial-intelligence-shows-potential-to-gauge-voter-sentiment-11604704009",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/artificial-intelligence-shows-potential-to-gauge-voter-sentiment-11604704009",
-      "publishedDateTime": "2020-11-06T15:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

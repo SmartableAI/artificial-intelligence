@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Untether AI Ushers in the PetaOps Era with At-Memory Computation for AI Inference Workloads"
-excerpt: "Today at the fall Linley Processor Conference, Untether AITM unveiled its tsunAImi TM accelerator cards powered by the runAI TM devices. Using at-memory computation, Untether AI breaks through the barriers of traditional von Neumann architectures,"
-publishedDateTime: 2020-10-29T13:00:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-toronto-corporate-news-ontario-fa7c77f0dfa542b5a35e02e163a0580b"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-toronto-corporate-news-ontario-fa7c77f0dfa542b5a35e02e163a0580b"
+excerpt: "When we founded Untether AI, our laser focus was unlocking the potential of scalable AI, by delivering more efficient neural network compute” Artificial Intelligence (AI) workloads for inference require increasing amounts of compute resources,"
+publishedDateTime: 2020-10-29T15:42:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201029005310/en/Untether-AI-Ushers-in-the-PetaOps-Era-with-At-Memory-Computation-for-AI-Inference-Workloads"
+webUrl: "https://www.businesswire.com/news/home/20201029005310/en/Untether-AI-Ushers-in-the-PetaOps-Era-with-At-Memory-Computation-for-AI-Inference-Workloads"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mms.businesswire.com/media/20201029005310/en/834596/23/UntetherAI-press-release-bkg-lowres.jpg"
+    width: 1200
+    height: 627
     isCached: true
 
-secured: "inKjts1R3/quhBeAtv9XIdgQePPJux6jHL6bTHnO6Z4XgVSh4mu2ZcuYG23B9kSvsnodI6DTzZo8/ulsIN08tdDXOtlcqcUbGp4Y1mMOMMi1Yvj7oGTVa1dN21DmktTOpGmlFYRghM7t0WFQ/Pnv/vSQGRZ8CZEz4jk9R/AdsLVz5cb/MrXIuCMoKXBv846RywmiWDlW8n03sLh+EqyH+l8fOeSClY5JY6daDqtzMMDeUJro27G7mfXkqzdYW/fNUTHZNevP949C7hfbRLilvn7uCBbsE6yQJ4wbOAOKgx77jtiXDjcJRDh7+OcL/eaRA6MvyohJ7BsWw2P5X4rEF1a8OeBGNHIrvSLjwbfMm8Q=;GhpTj8oDkRLKpj2jtXhP2w=="
+secured: "fhLR9W561BHOguJi8Yaf0cih7AssBSZkvm9OpEuDMON12gpyZNl7yVgeKmmpOFHk4WvHrx1aHdekQt4Pd7g0P0YpkFSjJtr35oAps71E/462zuaSXrDSRgoR/t473mRihmz1nWNKCGOwoAVCLkFLkViPaxLO2G6jnlq0aZGr6a+k/kNlRW7fOqGakFq2NijDF1HlIVKvm4ynvPGFGsHPO6JdoRLdIhV/9xoEB1U4dlMqrhsCP9sDX+x+hi3HHvvw5R3VLxYOCST37PD6xcjFkZk0Zia6fxqqn1HYWRkKPHCnAb8xmeEoof4wFHm+t4DHFywZXP/ODWiYYJNvkLg5XPnvOWsY0uVWTyHcx7S+NE0=;jlgWbrtXHABqCihFvze6sg=="
 ---
 

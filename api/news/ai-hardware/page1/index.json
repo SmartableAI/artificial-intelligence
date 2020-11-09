@@ -651,19 +651,19 @@
     {
       "path": "_news/2020-10-29-untether-ai-ushers-in-the-petaops-era-with-at-memory-computation-for-ai-inference-workloads.md",
       "title": "Untether AI Ushers in the PetaOps Era with At-Memory Computation for AI Inference Workloads",
-      "excerpt": "Today at the fall Linley Processor Conference, Untether AITM unveiled its tsunAImi TM accelerator cards powered by the runAI TM devices. Using at-memory computation, Untether AI breaks through the barriers of traditional von Neumann architectures,",
+      "excerpt": "When we founded Untether AI, our laser focus was unlocking the potential of scalable AI, by delivering more efficient neural network compute” Artificial Intelligence (AI) workloads for inference require increasing amounts of compute resources,",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-toronto-corporate-news-ontario-fa7c77f0dfa542b5a35e02e163a0580b",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-toronto-corporate-news-ontario-fa7c77f0dfa542b5a35e02e163a0580b",
+      "webUrl": "https://www.businesswire.com/news/home/20201029005310/en/Untether-AI-Ushers-in-the-PetaOps-Era-with-At-Memory-Computation-for-AI-Inference-Workloads",
+      "originalUrl": "https://www.businesswire.com/news/home/20201029005310/en/Untether-AI-Ushers-in-the-PetaOps-Era-with-At-Memory-Computation-for-AI-Inference-Workloads",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://mms.businesswire.com/media/20201029005310/en/834596/23/UntetherAI-press-release-bkg-lowres.jpg",
+          "width": 1200,
+          "height": 627,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -673,11 +673,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-29T06:00:00-07:00",
+      "publishedDateTime": "2020-10-29T08:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-09-ethical-frameworks-for-ai-arent-enough.md",
+      "title": "Ethical Frameworks for AI Aren’t Enough",
+      "excerpt": "Many AI ethical frameworks cannot be clearly implemented in practice, as researchers have consistently demonstrated. Without a dramatic increase in the specificity of existing AI frameworks, there’s simply not much technical personnel can do to clearly uphold such high-level guidance.",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2020/11/ethical-frameworks-for-ai-arent-enough",
+      "originalUrl": "https://hbr.org/2020/11/ethical-frameworks-for-ai-arent-enough",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2020/11/Nov20_09_1221118269.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2020/11/ethical-frameworks-for-ai-arent-enough",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/ethical-frameworks-for-ai-arent-enough",
+      "publishedDateTime": "2020-11-09T06:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-09-review-google-cloud-ai-lights-up-machine-learning.md",
       "title": "Review: Google Cloud AI lights up machine learning",
       "excerpt": "Google Cloud AI and Machine Learning Platform is missing some pieces, and much is still in beta, but its scope and quality are second to none.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.infoworld.com/article/3586836/review-google-cloud-ai-lights-up-machine-learning.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -51,7 +94,8 @@
       "topics": [
         "Machine Learning",
         "AI",
-        "AI Ethics"
+        "AI Ethics",
+        "Natural Language Processing"
       ]
     },
     {
@@ -1370,49 +1414,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-transparent-truths-about-ai-ethics-assessing-a-seven-point-set-of-principles-from-capgemini.md",
-      "title": "Transparent truths about AI ethics - assessing a seven point set of principles from Capgemini",
-      "excerpt": "Transparency isn't the silver bullet that's going to address every ethical concern around AI deployment, but it's an essential bedrock on which to build. (via Pixabay) With debate raging about bias and lack of diversity in teams and data sources and the growing risk of AI automating social problems or giving them a veneer of digital neutrality,",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/transparent-truths-about-ai-ethics-assessing-seven-point-set-principles-capgemini",
-      "originalUrl": "https://diginomica.com/transparent-truths-about-ai-ethics-assessing-seven-point-set-principles-capgemini",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2020-04/ethics.png",
-          "width": 1404,
-          "height": 930,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/transparent-truths-about-ai-ethics-assessing-seven-point-set-principles-capgemini?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/transparent-truths-about-ai-ethics-assessing-seven-point-set-principles-capgemini?amp",
-      "publishedDateTime": "2020-10-08T02:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

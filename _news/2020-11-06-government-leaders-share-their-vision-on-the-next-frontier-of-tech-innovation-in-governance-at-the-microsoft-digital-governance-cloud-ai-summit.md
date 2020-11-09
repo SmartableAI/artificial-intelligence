@@ -44,6 +44,20 @@ related:
         width: 510
         height: 314
         isCached: true
+  - title: "IBM, Microsoft, and the Future of Healthcare"
+    excerpt: "Healthcare is a mess, not just here in the U.S., but in most countries. Some of the biggest problems in this data-rich era are the lack of interoperability and fact-based advice. Two companies that stand out as aggressively trying to fix this are IBM and Microsoft."
+    publishedDateTime: 2020-11-09T12:00:00Z
+    webUrl: "https://www.technewsworld.com/story/86911.html"
+    type: article
+    provider:
+      name: TechNewsWorld
+      domain: technewsworld.com
+    quality: 58
+    images:
+      - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2019-medical-research-1.jpg"
+        width: 620
+        height: 360
+        isCached: true
   - title: "Self-driving car start-up Wayve deploys Microsoft Azure cloud technology"
     excerpt: "Cambridge, UK-based Wayve, developer of AI software for self-driving cars, has signed a contract with Microsoft for use of the Azure cloud"
     publishedDateTime: 2020-11-05T13:07:00Z

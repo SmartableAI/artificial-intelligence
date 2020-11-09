@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2020-11-machine-survival-out-of-hospi
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-machine-survival-out-of-hospital-cardiac.amp"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1920
     height: 1280
     isCached: true
+
+related:
+  - title: "Machine learning algorithms help predict out-of-hospital cardiac arrest survival"
+    excerpt: "Using neighborhood and local data in combination with existing information sources creates a more accurate prediction on a patient's recovery prospects after an out-of-hospital cardiac arrest (OHCA),"
+    publishedDateTime: 2020-11-09T14:07:00Z
+    webUrl: "https://www.news-medical.net/news/20201109/Machine-learning-algorithms-help-predict-out-of-hospital-cardiac-arrest-survival.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20201109/Machine-learning-algorithms-help-predict-out-of-hospital-cardiac-arrest-survival.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201109/Machine-learning-algorithms-help-predict-out-of-hospital-cardiac-arrest-survival.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 54
+    images:
+      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fCardiac_Arrest-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "ctG8cTssCuIc1XFYXgKjGdxhclV7S1FBmVT7GwoBJ32N0bhELUjx7uNizruUEYr0oTPtRR8yCKbiZ4pV+JeAc7R413+IsRNLqrF/bmcFVFZqczhmfZAg7erA2upXBecUp7O7FrqdR96IRdcub13OeB1xFbb+59ZcXq94TcLFMDSvxBFusrzltgNl6TRP08BrTGHPdGbeW7tWQl1rkQMElmCN4rSHq/9Tz/gp5ht4KStpK/0QSQLpOubLijfQ86q04WsAD5quuL8FZT8h88N7ZIUCbEaAhIHxFms0y1a1Ah5LGnYE7OlvzMllt2EzQ9N3pWzP1JfPQS+bPznpB1oYMWYBKzGeMtRW4olfp8ZLfOp4ei+Fr5s3A+FKwCTHDi8+LgVGgVQBM71+m/giDloleMrBxtKrFrCdO/xIFXG5VgU20czisYRqrdYrMfNUBufxhFTGgfTFhLBz6LO0+TkMBIGwcYGltU6O5yE3MFL8QWpLPLnhXsPoQCFeVYX8Okop7zMR/U7sXzsrPJu8t94cYg==;iH/kMIT5Ny1cAvaa01WJmw=="
 ---

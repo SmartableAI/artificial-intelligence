@@ -3,10 +3,10 @@ category: news
 title: "Weeding robot to save you cost of herbicides"
 excerpt: "The weeding robot seeks to solve this issue in a sustainable manner. With your unique knowledge, strengths and skills set, what unique role did each of you play in this invention? Kenneth: Since we are both Mechatronic Engineers our skill sets are similar."
 publishedDateTime: 2020-10-31T09:43:00Z
-originalUrl: "https://www.standardmedia.co.ke/farmkenya/smart-harvest/article/2001392141/weeding-robot-to-save-you-cost-of-herbicides"
-webUrl: "https://www.standardmedia.co.ke/farmkenya/smart-harvest/article/2001392141/weeding-robot-to-save-you-cost-of-herbicides"
-ampWebUrl: "https://www.standardmedia.co.ke/farmkenya/amp/smart-harvest/article/2001392141/weeding-robot-to-save-you-cost-of-herbicides"
-cdnAmpWebUrl: "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/farmkenya/amp/smart-harvest/article/2001392141/weeding-robot-to-save-you-cost-of-herbicides"
+originalUrl: "https://www.standardmedia.co.ke/farmkenya/article/2001392141/weeding-robot-to-save-you-cost-of-herbicides"
+webUrl: "https://www.standardmedia.co.ke/farmkenya/article/2001392141/weeding-robot-to-save-you-cost-of-herbicides"
+ampWebUrl: "https://www.standardmedia.co.ke/farmkenya/amp/article/2001392141/weeding-robot-to-save-you-cost-of-herbicides"
+cdnAmpWebUrl: "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/farmkenya/amp/article/2001392141/weeding-robot-to-save-you-cost-of-herbicides"
 type: article
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 500
     isCached: true
 
-secured: "G27K94OU1ojETYHXdP7Gyfvcb24fRGc8j0k7+GL7OfMxOUAlVqpi+oWM/Wq71mnNVDP0cf6zDniTI0dFsSmeBoQErn3NXZciwqRPWyX0pgrrLLYNxC2wRoMYXLA1p6kkE18iFgU936h0spvdJXiInzZdrsjxgVq9S1UblaVMYzmyZ336LNxVXUFZbWhuRNrPgtjtfmsS/evN6iYz03of1HfbCVj9Yte2iC2ZFzHwG67z07iZGX+Qh83BSRzovGlflheek1Gq7FG/QTDXSdGPkP9e5TXI1ngp+F6VVunmUxh3LbzBaUuvFRXZ7seL2lUdmmh+Y2le0ifKzfIq8gGQmspYme1j8K8WLQG8CFoTx3w=;Yce3bAloBWzuWUood5fKVg=="
+secured: "mhk68BvL/VgYTKGfpi1rvk52BJ9aVvwl5qsAOynbnHqrxI1gO3iWjsBjUCT/OCAfywnCReTgzq2PNep5xZCZc2QuzKHvJWAbRu6fog6LAh6b04dPpp/HK4kYbu8X1RWWsZ3FxqxVBvxd53UpFeIviBL1Es4p6YvC8hri7YcKEsOdW1cFelNIGiggs0D45tjX8tU7PSXazOhpetwcumOmxPgVwL9QSpt6+VUoJ5ljpstX48iD7x7Rjh7F88MVKuOfpH0Am77g/v8ho6XvABji+yBcJswE+8GCU1OE2RDVqyxAeZFw2Bw7h+3Dr/CWz0ajHlkrBB+lA3zY/dZgjYGRPlSgflNQCB6ZeGq9omaziCY=;uICMUjZm00RfzMcz5Qzm9Q=="
 ---
 
