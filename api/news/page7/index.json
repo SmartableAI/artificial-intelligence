@@ -2,6 +2,143 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-11-02-alpitour-world-selects-ibm-hybrid-cloud-and-ai-capabilities-for-a-more-personalized-customer-experience.md",
+      "title": "Alpitour World Selects IBM Hybrid Cloud and AI Capabilities For a More Personalized Customer Experience",
+      "excerpt": "ARMONK, N.Y. and MILAN, Nov. 2, 2020 /PRNewswire/ -- IBM (NYSE: IBM) and Italy's leading travel company, Alpitour Group, announced that it has selected IBM Watson, enabled by hybrid cloud ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/alpitour-world-selects-ibm-hybrid-cloud-and-ai-capabilities-for-a-more-personalized",
+      "originalUrl": "https://www.nasdaq.com/press-release/alpitour-world-selects-ibm-hybrid-cloud-and-ai-capabilities-for-a-more-personalized",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-02T03:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-02-how-to-make-the-most-of-the-google-cloud-free-tier.md",
+      "title": "How to make the most of the Google Cloud free tier",
+      "excerpt": "But until that day comes, the BigQuery database will answer one terabyte of queries each month and AutoML Translation will turn 500,000 characters from one language to another. Some developers use the free tier for what it’s intended to be: an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3585633/how-to-make-the-most-of-the-google-cloud-free-tier.html",
+      "originalUrl": "https://www.infoworld.com/article/3585633/how-to-make-the-most-of-the-google-cloud-free-tier.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/12/cso_gauges_meters_performance_indicators_dashboard_measures_by_autophotography_cc0_via_pixabay_binary_by_garik_barseghyan_aka_insspirito_cc0_via_pixabay_2400x1600-100824624-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3585633/how-to-make-the-most-of-the-google-cloud-free-tier.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3585633/how-to-make-the-most-of-the-google-cloud-free-tier.amp.html",
+      "publishedDateTime": "2020-11-02T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-02-ai-can-detect-asymptomatic-covid-19-infections-by-listening-to-a-cough.md",
+      "title": "AI can detect asymptomatic COVID-19 infections by listening to a cough",
+      "excerpt": "MIT has invented a tool that uses artificial intelligence to identify those with asymptomatic COVID-19 infections. Asymptomatic people are the most difficult to detect and can spread the infection",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/ai-can-detect-asymptomatic-covid-19-infections-by-listening-to-a-cough-02645368/",
+      "originalUrl": "https://www.slashgear.com/ai-can-detect-asymptomatic-covid-19-infections-by-listening-to-a-cough-02645368/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 327,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/11/cough.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/ai-can-detect-asymptomatic-covid-19-infections-by-listening-to-a-cough-02645368/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ai-can-detect-asymptomatic-covid-19-infections-by-listening-to-a-cough-02645368/amp/",
+      "publishedDateTime": "2020-11-02T02:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-02-health-artificial-intelligence-being-trained-to-predict-risk-of-developing-oral-cancer.md",
       "title": "Health: Artificial intelligence being trained to predict risk of developing oral cancer",
       "excerpt": "The diagnosis of oral cancer could be 'revolutionised' by using artificial intelligence to predict whether ... carries significant potential for saving lives and improving patient healthcare provision.' Mouth cancer, also known as oral cancer, is where ...",
@@ -1093,145 +1230,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-31-intel-iris-xe-max-gpu-arrives-in-11th-gen-mobile-chips-to-boost-gaming-creation.md",
-      "title": "Intel Iris Xe Max GPU arrives in 11th-gen mobile chips to boost gaming, creation",
-      "excerpt": "Intel offers a little something extra as incentive: Deep Link, which allows a system to combine the integrated and discrete Xe GPU's processing power for creative tasks like AI inferencing and ... over models with Nvidia MX chips. Iris Xe Max also adds ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/intel-iris-xe-max-gpu-arrives-in-11th-gen-mobile-chips-to-boost-gaming-creation/",
-      "originalUrl": "https://www.cnet.com/news/intel-iris-xe-max-gpu-arrives-in-11th-gen-mobile-chips-to-boost-gaming-creation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 289,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/qNcMO68S_2r4fGl59xhilygsFIw=/1200x630/2020/10/21/992143a0-3303-449c-9a49-a650e2bf34f8/acer-swift-3x-05.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/intel-iris-xe-max-gpu-arrives-in-11th-gen-mobile-chips-to-boost-gaming-creation/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intel-iris-xe-max-gpu-arrives-in-11th-gen-mobile-chips-to-boost-gaming-creation/",
-      "publishedDateTime": "2020-10-31T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-31-weeding-robot-to-save-you-cost-of-herbicides.md",
-      "title": "Weeding robot to save you cost of herbicides",
-      "excerpt": "The weeding robot seeks to solve this issue in a sustainable manner. With your unique knowledge, strengths and skills set, what unique role did each of you play in this invention? Kenneth: Since we are both Mechatronic Engineers our skill sets are similar.",
-      "sourceUrl": null,
-      "webUrl": "https://www.standardmedia.co.ke/farmkenya/article/2001392141/weeding-robot-to-save-you-cost-of-herbicides",
-      "originalUrl": "https://www.standardmedia.co.ke/farmkenya/article/2001392141/weeding-robot-to-save-you-cost-of-herbicides",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://cdn.standardmedia.co.ke/images/saturday/weeding_robot_to_sav5f9d1a187f7f2.jpg",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.standardmedia.co.ke/farmkenya/amp/article/2001392141/weeding-robot-to-save-you-cost-of-herbicides",
-      "cdnAmpWebUrl": "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/farmkenya/amp/article/2001392141/weeding-robot-to-save-you-cost-of-herbicides",
-      "publishedDateTime": "2020-10-31T02:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Standard Digital",
-        "domain": "standardmedia.co.ke",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-31-microsoft-lobe-to-train-ai-machine-learning-models-without-writing-code.md",
-      "title": "Microsoft Lobe to train AI, machine learning models without writing code",
-      "excerpt": "Microsoft has announced the availability of Lobe, a desktop app to train artificial intelligence (AI) and machine learning (ML) models.",
-      "sourceUrl": null,
-      "webUrl": "https://news.thewindowsclub.com/microsoft-lobe-to-train-ai-machine-learning-models-103899/",
-      "originalUrl": "https://news.thewindowsclub.com/microsoft-lobe-to-train-ai-machine-learning-models-103899/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.thewindowsclub.com/wp-content/uploads/2020/10/Microsoft-Lobe.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news.thewindowsclub.com/microsoft-lobe-to-train-ai-machine-learning-models-103899/amp/",
-      "cdnAmpWebUrl": "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/microsoft-lobe-to-train-ai-machine-learning-models-103899/amp/",
-      "publishedDateTime": "2020-10-30T22:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TWCN Tech News",
-        "domain": "thewindowsclub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

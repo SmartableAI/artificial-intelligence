@@ -28,6 +28,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 36
+  - title: "Dell Launches Ready Solutions and HPC Cloud Collaborations for AI, Life Sciences, Manufacturing"
+    excerpt: "Dell Technologies (NYSE:DELL) announces new Dell EMC Ready Solutions and high-performance computing (HPC) cloud service provider collaborations to accelerate AI and advanced computing innovation in healthcare,"
+    publishedDateTime: 2020-11-09T15:18:00Z
+    webUrl: "https://insidehpc.com/2020/11/dell-launches-ready-solutions-and-hpc-cloud-collaborations-for-ai-life-sciences-manufacturing/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 5
 
 secured: "0W5ndYLsd+YPUu0hfkb+ZmyWfrCJzcYE8pRy+Uga1aqPpmePUcPFjy84cRz+gDKQZ0zR8qRVaJgX2rWGWQGe67bYIoEaMSxX2qFOV04JjS4hzI+pjdcCPHSchFHRfHXcfWJ1tOaGNV48i3e1yeO3BLEd4xOs2k/hUKGUfBoBVk03gIewkZlmlQPQED03gDFCHvePLoCBYn2pdcMI6qriY2GFNvEVjheQA4lc8no3j8uWekx7tRdIHZE6PdBMvPYk1WudrRCWpf9+gjPTNxFcdXC7B2uz/RIb6ECVtGsG6KRU8kS3VIVPuOsMcb/qGpDXXIrk/o/Xxf9v2rLNrqY3Mb4aqTVtUNecC8HfXpDsY1U=;zMZlUO9PhHlBg2mOKHo+RA=="
 ---

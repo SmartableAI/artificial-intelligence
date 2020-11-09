@@ -8,8 +8,8 @@ webUrl: "https://www.infoworld.com/article/3586836/review-google-cloud-ai-lights
 ampWebUrl: "https://www.infoworld.com/article/3586836/review-google-cloud-ai-lights-up-machine-learning.amp.html"
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3586836/review-google-cloud-ai-lights-up-machine-learning.amp.html"
 type: article
-quality: 108
-heat: 108
+quality: 110
+heat: 110
 published: true
 
 provider:
@@ -25,6 +25,7 @@ topics:
   - AI
   - AI Ethics
   - Natural Language Processing
+  - Google AI
 
 images:
   - url: "https://images.idgesg.net/images/article/2020/11/google-cloud-ai-platform-06-sm-100865429-medium.jpg"

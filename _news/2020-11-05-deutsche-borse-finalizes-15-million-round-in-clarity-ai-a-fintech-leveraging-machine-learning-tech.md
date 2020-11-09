@@ -38,6 +38,20 @@ related:
         width: 1024
         height: 684
         isCached: true
+  - title: "AI and ML benefit for the Fintech industry"
+    excerpt: "Let’s take a look at how FinTech companies took advantage of these technologies by employing them for different purposes, and is it worth investing in these technologies at all. Before diving into the use cases of AI and ML in fintech and banking software development,"
+    publishedDateTime: 2020-11-09T14:00:00Z
+    webUrl: "https://augustafreepress.com/ai-and-ml-benefit-for-the-fintech-industry/"
+    type: article
+    provider:
+      name: Augusta Free Press
+      domain: augustafreepress.com
+    quality: 56
+    images:
+      - url: "https://augustafreepress.com/wp-content/uploads/2020/07/business-1.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "BankOnUs launches app to support fintech firms"
     excerpt: "BankOnUS, a leading financial services aggregator in the UAE, has launched a new generation technology-oriented app to enhance the customer engagement level and enable easy, reliable and cost-effective financial solutions to its customers."
     publishedDateTime: 2020-11-05T23:44:00Z

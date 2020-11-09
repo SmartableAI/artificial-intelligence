@@ -91,22 +91,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Pony.ai Funding Round Values Self-Driving Firm at $5.3 Billion"
-    excerpt: "Pony.ai is raising $267 million in a fresh funding round that pushes the self-driving technology startup’s valuation to about $5.3 billion as it seeks to expand its customer base globally."
-    publishedDateTime: 2020-11-05T00:00:00Z
-    webUrl: "https://www.bnnbloomberg.ca/pony-ai-funding-round-values-self-driving-firm-at-5-3-billion-1.1518540"
-    ampWebUrl: "https://www.bnnbloomberg.ca/pony-ai-funding-round-values-self-driving-firm-at-5-3-billion-1.1518540.amp.html"
-    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/pony-ai-funding-round-values-self-driving-firm-at-5-3-billion-1.1518540.amp.html"
-    type: article
-    provider:
-      name: bnnbloomberg
-      domain: bnnbloomberg.ca
-    quality: 59
-    images:
-      - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1518541!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/a-vehicle-stands-on-display-at-a-pony-ai-inc-booth-at-the-world-artificial-intelligence-conference-waic-in-shanghai-china-on-thursday-aug-29-2019-the-conference-runs-through-aug-31.jpg"
-        width: 620
-        height: 349
-        isCached: true
   - title: "Autonomous driving startup Pony.ai picks up $267M at $5.3B+ valuation"
     excerpt: "Pony.ai, a Chinese startup developing autonomous driving technology for cars and trucks, said late Thursday that it has secured $267 million in additional funding. The investment comes less than a year after the startup raised a hefty $462 million round led by Toyota Motor Corp."
     publishedDateTime: 2020-11-06T20:36:00Z

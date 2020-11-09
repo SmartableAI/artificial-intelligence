@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Ethical Frameworks for AI Aren’t Enough"
-excerpt: "Many AI ethical frameworks cannot be clearly implemented in practice, as researchers have consistently demonstrated. Without a dramatic increase in the specificity of existing AI frameworks, there’s simply not much technical personnel can do to clearly uphold such high-level guidance."
-publishedDateTime: 2020-11-09T14:29:00Z
-originalUrl: "https://hbr.org/2020/11/ethical-frameworks-for-ai-arent-enough"
-webUrl: "https://hbr.org/2020/11/ethical-frameworks-for-ai-arent-enough"
+excerpt: "Designing systems that are fair for all. Organizations can start with an admission: Getting serious about ethical AI is no easy task. Applying the principles of ethical AI to real-world deployment ..."
+publishedDateTime: 2020-11-09T15:59:00Z
+originalUrl: "https://hbr.org/2020/11/ethical-frameworks-for-ai-arent-enough?ab=hero-subleft-2"
+webUrl: "https://hbr.org/2020/11/ethical-frameworks-for-ai-arent-enough?ab=hero-subleft-2"
 ampWebUrl: "https://hbr.org/amp/2020/11/ethical-frameworks-for-ai-arent-enough"
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/ethical-frameworks-for-ai-arent-enough"
 type: article
@@ -17,8 +17,8 @@ provider:
   domain: hbr.org
 
 topics:
-  - AI Ethics
   - AI
+  - AI Ethics
 
 images:
   - url: "https://hbr.org/resources/images/article_assets/2020/11/Nov20_09_1221118269.jpg"
@@ -42,6 +42,6 @@ related:
         height: 455
         isCached: true
 
-secured: "uiLWFeIa7PLnaCJv0QN4llkR+IXBo0mU3tpzUzliD7Euelt6OVZBpfAPBgiPTiXjcTzetpkDIaQzbNucK1v5vQV6okHwMX0GRWPse2CUo4ho/bSOBABY4JvbUDVBjVh+ljmBP3Dsk+Y5IpIay/QaIk/yykKV1t68I58h5VSxSgnG6uGwmpdCEeEwoLtCrAZulXRR+adETAQ4t6VLnQKVP33RGkWYs9qtC6j+bLLFUBYvEo4Gcx4am0p3ZyZk9SNpxuVB1vIa3XDaoiCWHRz5MC5QW/aAe54ubDn0C/F6jrxdeL1PM1BMEngZy8u2cVDuFtFzgHhYHzMdgp7w7JNjsv0U5uriooCTXnY4oDXaPgI=;yYoUfU9DuPNLgLK8xkG/2g=="
+secured: "qiw3fwwxOgbXupevYuQyIzdaMZrexz5vReO+QP9SYYZ0jg6tLL+q/KernvOAKuUesUcte6Qeji1LVfOxoy5g5UTcjMKJj3lNYcgG3qB+tzQxTDuCMuZo61ZtfFy/brDRP4ECXqT0+rymsxbjnLX4HxEOoRudUQRFQcgb1HkIGEAhF44ekudkqaifYBDO8CmnodMmEQQtzKnC2Q5soCkcfykRSlgStV83nFlE/7pkXW1FaP2gepFtbl198/W/RfOcv1HVCI4CveM4o6JQ7wzzfAcES3W0qeXUqZQHx7jHxc2xsnLGjN6i0AfE7PMZHNGDG57EmX/GEZNDLHRLRUpopBCYh5daN00njOHrneG11/k=;TU40IIUnORrCZuVUCK4Ixw=="
 ---
 

@@ -2,6 +2,169 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-10-15-ai-healthtech-startup-savana-secures-series-b-funding-led-by-cathay-innovation-to-expand-in-america.md",
+      "title": "AI HealthTech Startup Savana Secures Series B Funding Led by Cathay Innovation to Expand in America",
+      "excerpt": "Savana, the healthtech startup accelerating health science with big data, announced today the successful completion of its $15 million B Series led by",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ai-healthtech-startup-savana-secures-series-b-funding-led-by-cathay-innovation-to-expand-in/article_239e76f6-9e09-51b5-bcaf-d4106578add2.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ai-healthtech-startup-savana-secures-series-b-funding-led-by-cathay-innovation-to-expand-in/article_239e76f6-9e09-51b5-bcaf-d4106578add2.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk.md",
+      "title": "IBM and ServiceNow Help Businesses Use AI to Automate IT and Reduce Costs and Risk",
+      "excerpt": "IBM. \"By partnering with ServiceNow and their market leading Now Platform, clients will be able to use AI to quickly mitigate unforeseen IT incident costs. Watson AIOps with ServiceNow's Now ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk-301153087.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/ibm-and-servicenow-help-businesses-use-ai-to-automate-it-and-reduce-costs-and-risk-301153087.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
+          "width": 2698,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-medifind-selected-as-finalist-for-best-in-artificial-intelligence-in-the-shorty-social-good-awards.md",
+      "title": "MediFind Selected as Finalist for Best in Artificial Intelligence in the Shorty Social Good Awards",
+      "excerpt": "MediFind, an advanced platform that uses artificial intelligence to help patients make more informed health decisions, today announced it",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/medifind-selected-as-finalist-for-best-in-artificial-intelligence-in-the-shorty-social-good-awards-301152809.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/medifind-selected-as-finalist-for-best-in-artificial-intelligence-in-the-shorty-social-good-awards-301152809.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1278502/MediFind_no_tagline_Logo.jpg?p=facebook",
+          "width": 1000,
+          "height": 524,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-speech-processing-solutions-next-generation-workflow-solution-with-ai-powered-speech-recognition.md",
+      "title": "Speech Processing Solutions: Next-generation workflow solution with AI-powered speech recognition",
+      "excerpt": "For speech recognition to meet the requirements of modern work environments and flexible processes in organizations, it must be combined with a workflow solution that tracks status updates and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2020-10/50967382-speech-processing-solutions-next-generation-workflow-solution-with-ai-powered-speech-recognition-004.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2020-10/50967382-speech-processing-solutions-next-generation-workflow-solution-with-ai-powered-speech-recognition-004.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-scheller-college-of-business-advisory-board-welcomes-seven-new-members.md",
       "title": "Scheller College Of Business Advisory Board Welcomes Seven New Members",
       "excerpt": "He was a senior product manager for big data and predictive analytics in the cloud and enterprise marketing at Microsoft, where he managed Azure Machine Learning, HDInsight, Parallel Data ...",
@@ -971,180 +1134,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-the-7-best-startups-you-can-buy-on-seedinvest-right-now.md",
-      "title": "The 7 Best Startups You Can Buy On SeedInvest Right Now",
-      "excerpt": "Miso Robotics is the developer of Flippy, an AI-powered robot that cooks in restaurant ... But he has experience as a startup and turnaround executive, having negotiated various financing and ...",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2020/10/the-7-best-startups-you-can-buy-on-seedinvest-right-now/",
-      "originalUrl": "https://investorplace.com/2020/10/the-7-best-startups-you-can-buy-on-seedinvest-right-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2020/08/startups.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2020/10/the-7-best-startups-you-can-buy-on-seedinvest-right-now/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/10/the-7-best-startups-you-can-buy-on-seedinvest-right-now/amp/",
-      "publishedDateTime": "2020-10-14T21:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-banking-on-ai-how-ai-is-changing-the-face-of-fintech.md",
-      "title": "Banking on AI: How AI is changing the face of Fintech",
-      "excerpt": "A recent study by McKinsey suggested that by 2022, over 30% of the tasks in the Fintech sector would be taken over by machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiainfoline.com/article/news-sector-banking-financials/banking-on-ai-how-ai-is-changing-the-face-of-fintech-120101400447_1.html",
-      "originalUrl": "https://www.indiainfoline.com/article/news-sector-banking-financials/banking-on-ai-how-ai-is-changing-the-face-of-fintech-120101400447_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg",
-          "width": 350,
-          "height": 233,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiainfoline.com/article-amp/news-sector-banking-financials/banking-on-ai-how-ai-is-changing-the-face-of-fintech-120101400447_1.html",
-      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-banking-financials/banking-on-ai-how-ai-is-changing-the-face-of-fintech-120101400447_1.html",
-      "publishedDateTime": "2020-10-14T19:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Infoline",
-        "domain": "indiainfoline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-amazon-translate-ranked-as-1-machine-translation-provider-by-intento.md",
-      "title": "Amazon Translate ranked as #1 machine translation provider by Intento",
-      "excerpt": "Customer obsession, one of the key Amazon Leadership principles that guides everything we do at Amazon, has helped Amazon Translate be recognized as an industry leading neural machine translation provider.&nbsp;This year, Intento ranked Amazon Translate #1 on the list of top-performing machine translation",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-translate-ranked-as-1-machine-translation-provider-by-intento/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-translate-ranked-as-1-machine-translation-provider-by-intento/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/15/Intento.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-14T18:19:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-experian-partners-with-standard-chartered-to-drive-financial-inclusion-with-machine-learning-powering-the-next-generation-of-decisioning.md",
-      "title": "Experian partners with Standard Chartered to drive Financial Inclusion with Machine Learning, powering the next generation of Decisioning",
-      "excerpt": "Leveraging innovation in technology to provide access to credit during uncertain times to populations underserved by formal financial services. This social impact was made possible by the Bank's digit",
-      "sourceUrl": null,
-      "webUrl": "https://www.ryt9.com/en/anpi/244869",
-      "originalUrl": "https://www.ryt9.com/en/anpi/244869",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-14T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RYT9",
-        "domain": "ryt9.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

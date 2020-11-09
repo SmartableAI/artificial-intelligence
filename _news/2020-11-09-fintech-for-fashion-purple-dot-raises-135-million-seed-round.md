@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/11/168918-fintech-for-fashion-
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/168918-fintech-for-fashion-purple-dot-raises-1-35-million-seed-round/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 600
     height: 421
     isCached: true
+
+related:
+  - title: "Fintech set to tackle fashion waste secures £1.35m investment"
+    excerpt: "A new fintech designed to reduce stock wastage in the fashion industry has raised £1.35m in seed funding. Purple Dot, a… | Entrepreneurship | Fashion | Retail | London | Funding | Entrepreneur | Inves"
+    publishedDateTime: 2020-11-09T16:10:00Z
+    webUrl: "https://bdaily.co.uk/articles/2020/11/09/fintech-set-to-tackle-fashion-waste-secures-135m-investment"
+    type: article
+    provider:
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
+    quality: 24
+    images:
+      - url: "https://bdaily.co.uk/images/uploads/prm3KGVbeVX4JCByff7vFp42Uy0Wr8asLQUSYKOU.jpeg?w=940&h=430&fit=crop-50-50&s=490606dc7e5f7b215880c7bba71329f2"
+        width: 940
+        height: 430
+        isCached: true
 
 secured: "nQKpCbsA6eFFd23jtoIfcNGHCswQIMFg7UXSCHhMRCzK7j0fOSawPBesg5dCUsxjhKbfwad3FdrZsrVndIj64L/s+Ji1QM6RvFgDL5iwlGGkswSkcSZzZUarBm3tC0898gGfWSNsk0IVd981FJ4fvSPK0ARADSEzdna0cwH61eSDj++6/1sBO5D9V8ERJnbKBSbRPn/d4fEmy8u/OO628eFeQnNsKU8zA9UPvvcCbFe6JvPr84jqpPLE2oxBJNOzoClqU9wFKKlyJcU8VjFGr9JBxL8gDDOi8yen+Ov19PaBH/XAolea0DMLNCJQdd7YtIJoujTwja0tvpogz4xiubnfaAcyR1kNmo15l6xM59E=;RJmDkwh88WUxRV0mn/8hhw=="
 ---

@@ -32,6 +32,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 36
+  - title: "Dell Launches Ready Solutions and HPC Cloud Collaborations for AI, Life Sciences, Manufacturing"
+    excerpt: "Dell Technologies (NYSE:DELL) announces new Dell EMC Ready Solutions and high-performance computing (HPC) cloud service provider collaborations to accelerate AI and advanced computing innovation in healthcare,"
+    publishedDateTime: 2020-11-09T15:18:00Z
+    webUrl: "https://insidehpc.com/2020/11/dell-launches-ready-solutions-and-hpc-cloud-collaborations-for-ai-life-sciences-manufacturing/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 5
 
 secured: "BW48LdjNyXITohSsnIIH9LcwMjCEBxC1OEYYV9FkSudylkw2bFBsmIILEjvomfkckYMhIphAhXsnZLQ/yaN/ADdtIJFE1qlWB04aukqDjyIfw+20LiGx22LTIgUV5ZMfdG5AYy1/O31PddKuakoy8apHLVYuYm3I8AFYfLbSQLm9r1RAil5r3CqElafkJRzSuzmqRiSlWdXSNsStRUwQ9kijGj64+B2DHuuWiEhdJuRRmKQ0gm6blL/i77CMcJH0CcoRP7oCwq+DMf1ktQ+TUt1JSrM/eSkmidxZ5WJqbACwqz2HkK7Gp4StFt+sRWBUBgX6vTaK3XZIILOiQ/7KVyCOkfgCpz4BlLCpD5SJ0UU=;+PFeLCI7cP5V3UL6iYiHdw=="
 ---

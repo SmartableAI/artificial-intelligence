@@ -2,12 +2,54 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-10-artificial-intelligence-ai-is-key-to-reducing-digital-ad-waste.md",
+      "title": "Artificial intelligence (AI) is key to reducing digital ad waste",
+      "excerpt": "Do you really want your advertising budget being wasted on ads that are producing solicitations instead of qualified leads? More insights on how the world’s first AI Smart Core℠, SherloQ™ is revolutionizing how websites and digital ad campaigns operate altogether.",
+      "sourceUrl": null,
+      "webUrl": "https://www.searchenginewatch.com/2020/11/09/artificial-intelligence-ai-is-key-to-reducing-digital-ad-waste/",
+      "originalUrl": "https://www.searchenginewatch.com/2020/11/09/artificial-intelligence-ai-is-key-to-reducing-digital-ad-waste/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.searchenginewatch.com/wp-content/uploads/2020/11/Artificial-intelligence-AI-is-key-to-reducing-digital-ad-waste.png",
+          "width": 728,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.searchenginewatch.com/2020/11/09/artificial-intelligence-ai-is-key-to-reducing-digital-ad-waste/amp/",
+      "cdnAmpWebUrl": "https://www-searchenginewatch-com.cdn.ampproject.org/c/s/www.searchenginewatch.com/2020/11/09/artificial-intelligence-ai-is-key-to-reducing-digital-ad-waste/amp/",
+      "publishedDateTime": "2020-11-09T08:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Search Engine Watch",
+        "domain": "searchenginewatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-09-ethical-frameworks-for-ai-arent-enough.md",
       "title": "Ethical Frameworks for AI Aren’t Enough",
-      "excerpt": "Many AI ethical frameworks cannot be clearly implemented in practice, as researchers have consistently demonstrated. Without a dramatic increase in the specificity of existing AI frameworks, there’s simply not much technical personnel can do to clearly uphold such high-level guidance.",
+      "excerpt": "Designing systems that are fair for all. Organizations can start with an admission: Getting serious about ethical AI is no easy task. Applying the principles of ethical AI to real-world deployment ...",
       "sourceUrl": null,
-      "webUrl": "https://hbr.org/2020/11/ethical-frameworks-for-ai-arent-enough",
-      "originalUrl": "https://hbr.org/2020/11/ethical-frameworks-for-ai-arent-enough",
+      "webUrl": "https://hbr.org/2020/11/ethical-frameworks-for-ai-arent-enough?ab=hero-subleft-2",
+      "originalUrl": "https://hbr.org/2020/11/ethical-frameworks-for-ai-arent-enough?ab=hero-subleft-2",
       "featuredContent": null,
       "highlight": null,
       "heat": 84,
@@ -26,7 +68,7 @@
       "type": "article",
       "ampWebUrl": "https://hbr.org/amp/2020/11/ethical-frameworks-for-ai-arent-enough",
       "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/ethical-frameworks-for-ai-arent-enough",
-      "publishedDateTime": "2020-11-09T06:29:00-08:00",
+      "publishedDateTime": "2020-11-09T07:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Harvard Business Review",
@@ -40,8 +82,61 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
-        "AI"
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-machine-translation-market-to-cross-15-bn-us-dollar-by-2026.md",
+      "title": "Machine Translation Market to cross 1.5 Bn US-dollar by 2026",
+      "excerpt": "The machine translation market is likely to register lucrative growth over the coming years owing to increasing popularity of cloud-based applications. Cloud technologies have effectively enabled users to proficiently run machine translation solutions over the internet,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-translation-market-to-cross-15-bn-us-dollar-by-2026-2020-11-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-translation-market-to-cross-15-bn-us-dollar-by-2026-2020-11-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-09T07:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -191,6 +286,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-09-self-driving-delivery-firm-nuro-raises-500-million-as-covid-19-boosts-e-commerce.md",
+      "title": "Self-driving delivery firm Nuro raises $500 million as COVID-19 boosts e-commerce",
+      "excerpt": "Self-driving delivery company Nuro, whose R2 unit has no pedals or steering wheel and only room for packages, said Monday it has raised $500 million as e-commerce gets a huge boost from the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-autonomous-nuro-funding/self-driving-delivery-firm-nuro-raises-500-million-as-covid-19-boosts-e-commerce-idUSKBN27P1FT",
+      "originalUrl": "https://www.reuters.com/article/us-autonomous-nuro-funding/self-driving-delivery-firm-nuro-raises-500-million-as-covid-19-boosts-e-commerce-idUSKBN27P1FT",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540562500&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80T3",
+          "width": 676,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27P1FT",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P1FT",
+      "publishedDateTime": "2020-11-09T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-09-how-ai-can-go-terribly-wrong-5-biases-that-create-failure.md",
       "title": "How AI Can Go Terribly Wrong: 5 Biases That Create Failure",
       "excerpt": "This article will enable boards and senior executives to ask the right questions about the five dangerous biases of AI.",
@@ -250,7 +397,7 @@
       "originalUrl": "https://www.infoworld.com/article/3586836/review-google-cloud-ai-lights-up-machine-learning.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -292,7 +439,8 @@
         "Machine Learning",
         "AI",
         "AI Ethics",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "Google AI"
       ]
     },
     {
@@ -399,7 +547,7 @@
       "originalUrl": "https://www.openpr.com/news/2183410/healthcare-artificial-intelligence-market-is-thriving",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -1084,162 +1232,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-millennial-indian-parents-consider-adoption-of-robot-nanny-survey.md",
-      "title": "Millennial Indian Parents Consider Adoption Of Robot Nanny: Survey",
-      "excerpt": "More than three-quarters of parents in India agree that having a robot nanny to help their children do their homework would alleviate a significant amount of their COVID-19-related stress",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/359227",
-      "originalUrl": "https://www.entrepreneur.com/article/359227",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1604739640-pexels-alex-knight-2599244.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/359227",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359227",
-      "publishedDateTime": "2020-11-07T01:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-our-platform-is-siri-for-employees-leena-ai-ceo.md",
-      "title": "'Our Platform Is Siri For Employees': Leena AI CEO",
-      "excerpt": "The startup earlier this week raised $8 million in Series A round led by Greycroft to expand the startup’s go-to-market programmes and accelerate product development",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/359222",
-      "originalUrl": "https://www.entrepreneur.com/article/359222",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1604732821-MyPost55.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/359222",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359222",
-      "publishedDateTime": "2020-11-06T23:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-this-is-how-conversational-ai-is-helping-businesses.md",
-      "title": "This Is How Conversational AI Is Helping Businesses",
-      "excerpt": "Conversational AI enables AI technologies such as chatbots to interact with users in a human-like manner. By linking the rift between human and computer speech, it creates communication between the tw",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/video/359220",
-      "originalUrl": "https://www.entrepreneur.com/video/359220",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1604731892-MyPost54.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/359220",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359220",
-      "publishedDateTime": "2020-11-06T22:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
       ]
     }
   ],

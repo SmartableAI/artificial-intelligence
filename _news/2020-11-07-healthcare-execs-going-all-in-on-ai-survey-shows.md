@@ -41,6 +41,20 @@ related:
         width: 780
         height: 405
         isCached: true
+  - title: "Dell Announces New HPC and AI Solutions for Healthcare, Life Sciences, Manufacturing"
+    excerpt: "Dell Technologies announces new Dell EMC Ready Solutions and high-performance computing (HPC) cloud service provider"
+    publishedDateTime: 2020-11-09T16:26:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/dell-announces-new-hpc-and-ai-solutions-for-healthcare-life-sciences-manufacturing/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 47
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/market_covid_shutterstock_1658915128-405x228.jpg"
+        width: 405
+        height: 228
+        isCached: true
   - title: "Logiq Completes Acquisition of Fixel AI, Leader in AI-Powered Digital Marketing Technology"
     excerpt: "(OTCQX: LGIQ), a global provider of award-winning eCommerce and Fintech solutions, has completed its previously announced plan to acquire F ixel AI, an award-winning innovator of AI-powered digital marketing technology."
     publishedDateTime: 2020-11-05T13:31:00Z

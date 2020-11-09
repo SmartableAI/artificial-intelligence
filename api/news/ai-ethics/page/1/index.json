@@ -4,10 +4,10 @@
     {
       "path": "_news/2020-11-09-ethical-frameworks-for-ai-arent-enough.md",
       "title": "Ethical Frameworks for AI Aren’t Enough",
-      "excerpt": "Many AI ethical frameworks cannot be clearly implemented in practice, as researchers have consistently demonstrated. Without a dramatic increase in the specificity of existing AI frameworks, there’s simply not much technical personnel can do to clearly uphold such high-level guidance.",
+      "excerpt": "Designing systems that are fair for all. Organizations can start with an admission: Getting serious about ethical AI is no easy task. Applying the principles of ethical AI to real-world deployment ...",
       "sourceUrl": null,
-      "webUrl": "https://hbr.org/2020/11/ethical-frameworks-for-ai-arent-enough",
-      "originalUrl": "https://hbr.org/2020/11/ethical-frameworks-for-ai-arent-enough",
+      "webUrl": "https://hbr.org/2020/11/ethical-frameworks-for-ai-arent-enough?ab=hero-subleft-2",
+      "originalUrl": "https://hbr.org/2020/11/ethical-frameworks-for-ai-arent-enough?ab=hero-subleft-2",
       "featuredContent": null,
       "highlight": null,
       "heat": 84,
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": "https://hbr.org/amp/2020/11/ethical-frameworks-for-ai-arent-enough",
       "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/ethical-frameworks-for-ai-arent-enough",
-      "publishedDateTime": "2020-11-09T06:29:00-08:00",
+      "publishedDateTime": "2020-11-09T07:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Harvard Business Review",
@@ -40,8 +40,8 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
-        "AI"
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -53,7 +53,7 @@
       "originalUrl": "https://www.infoworld.com/article/3586836/review-google-cloud-ai-lights-up-machine-learning.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -95,7 +95,8 @@
         "Machine Learning",
         "AI",
         "AI Ethics",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "Google AI"
       ]
     },
     {

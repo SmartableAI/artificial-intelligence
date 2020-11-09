@@ -56,6 +56,20 @@ related:
         width: 703
         height: 497
         isCached: true
+  - title: "Dell Announces New HPC and AI Solutions for Healthcare, Life Sciences, Manufacturing"
+    excerpt: "Dell Technologies announces new Dell EMC Ready Solutions and high-performance computing (HPC) cloud service provider"
+    publishedDateTime: 2020-11-09T16:26:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/dell-announces-new-hpc-and-ai-solutions-for-healthcare-life-sciences-manufacturing/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 47
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/market_covid_shutterstock_1658915128-405x228.jpg"
+        width: 405
+        height: 228
+        isCached: true
 
 secured: "rgSSAvQWAvB+FBan8cwnJWq+dt12aLbxFB03tRaUCTp/vF8z1GwEhjXytF0osE6wbyiTVbErYZvj5qGjsGIkx80xef1V6zxjuvNO5cm90CjDKJztCdpgufUxyee51XR7U+4h9QXHCVEUHF30XWmTUAbftZxNXLkysV1O19jElviHKzYkkwWie30tUb/X+vMGy6kNrRlRo+h2qE6uYKnv+fMx++aHexbvhqLUsAzN3y0YqwbgWluJ4+0oAnFt6RK3KQJoa96yR4rE1tRwimTxj9R0ZT9Mvb2tn/j8A0wdclWjVe8y8TEoKgeVrIqFXaqHMD2y3p0vanpzUS0ePSnP5ra1i8h24gcjo2W2+YtFuBE=;35OyeskIIQSqSZPurzcRSg=="
 ---

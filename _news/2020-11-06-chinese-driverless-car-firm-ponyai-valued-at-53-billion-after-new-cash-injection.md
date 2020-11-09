@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/11/06/china-driverless-car-firm-ponyai
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/06/china-driverless-car-firm-ponyai-valued-at-5point3-billion-after-funding.html"
 type: article
 quality: 198
-heat: 258
+heat: 248
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/11/pony.ai-funding-round-457x274.jpg"
         width: 457
         height: 274
-        isCached: true
-  - title: "Pony.ai Funding Round Values Self-Driving Firm at $5.3 Billion"
-    excerpt: "Pony.ai is raising $267 million in a fresh funding round that pushes the self-driving technology startup’s valuation to about $5.3 billion as it seeks to expand its customer base globally."
-    publishedDateTime: 2020-11-05T00:00:00Z
-    webUrl: "https://www.bnnbloomberg.ca/pony-ai-funding-round-values-self-driving-firm-at-5-3-billion-1.1518540"
-    ampWebUrl: "https://www.bnnbloomberg.ca/pony-ai-funding-round-values-self-driving-firm-at-5-3-billion-1.1518540.amp.html"
-    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/pony-ai-funding-round-values-self-driving-firm-at-5-3-billion-1.1518540.amp.html"
-    type: article
-    provider:
-      name: bnnbloomberg
-      domain: bnnbloomberg.ca
-    quality: 59
-    images:
-      - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1518541!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/a-vehicle-stands-on-display-at-a-pony-ai-inc-booth-at-the-world-artificial-intelligence-conference-waic-in-shanghai-china-on-thursday-aug-29-2019-the-conference-runs-through-aug-31.jpg"
-        width: 620
-        height: 349
         isCached: true
   - title: "Autonomous vehicle startup Pony.ai raises $267 million at an over $5.3 billion valuation – Jaweb"
     excerpt: "In a sign that investors’ enthusiasm for driverless cars hasn’t waned during the pandemic, Pony.ai today secured a whopping $267 million in fresh funding. The capital infusion brings the Guangzhou- and Fremont,"
