@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.armytimes.com/resizer/T7WHMJtVbwG5P2RQM5wHLIm9GoY=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/MW6AKBSUTVCKDP66O7JV4YUYTY.jpg"
@@ -85,6 +86,6 @@ related:
         height: 434
         isCached: true
 
-secured: "he1EbZGhwZbE3r5v4elXgobv2ebp2WCjwtJq0XQwVhcZPXl1+p8sL234JRuJ4ZSjMTySu78MeWV4+Mp3dQYeKtmttw2Af9tGd9in3QnhXahS9uKbGnbYwfVx13LZrEBvWT6zmhtgc1t7A98TSEWl09/b8oCYaXXGV947XR4pHynLbA3CbOJBP6JvJCCNQdIRFqQygOnu9EkAlYBpnFLnfLh4YaNm4sciqJhQomgwOx4ImE0RExbSd6/itgzVfcjJQH1nW2xAMDvX3MZ6/fIZbuYFNYRE2qBppRiaVTbPDHCMj6YZYJvDzwdroHJ83Y65wndia40u6dknzu+PQZZIdT7JlIEDAo2X5hIUycFg2a0=;fWXy7M2dy3UJzJCtQ3bJAQ=="
+secured: "VKGQcyxZkiXsvbTHc9qUbCEU4rf+lkKPkfD+aMicD1OfBqqTBfReB+/7t7iK7leiAIVEUu2sd4unNs/puD7Ft2uOE2nxBp8YXQpyhreUe6MSkzUQZH5O6+ZvdylHhsoec55gC+OVRZgmhzJX0HAd2fmog+XJkvLqxRLZGpZAU9Q4O1h3o1j3qJ77ijwtYUdGUbpF7DMchh7i7k+hOnAa/gdW6DZiyd4U0vw2RKe5eXmgSHoY5ASmcFag4KkLzxkAcqTaZ7kDXKKicmhelaeCKB3CGvZZ4dG9HuwpABE0R1g4cNoXVhT1MNC1f2OMSOLmDv01CZMcZQVQwNctLDyQ9edWPFpJiWMD32ky2YsHw5JcG8FG7QVSSMG6rMCP0nYm/uTOF27SgvRdoOP56X36UCHkTlFWwLrMRkWWePhyECkMwvBm2BjYOtCcS13WTs/E8qrpDllzPnYme2nUMXCLzHC2fQJmTw3w5MI31Bx/KN19aZNkeNFaJI9uczVVPNK4MlM6skhuuEINxhUO+Pkqiw==;NmMe7PQpt9thVamMmWVBdA=="
 ---
 

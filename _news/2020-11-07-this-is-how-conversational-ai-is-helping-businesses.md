@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/359220"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359220"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://inc42.com/wp-content/uploads/2020/11/Untitled-design-2020-11-07T145601.852.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "This is not your father’s artificial intelligence"
+    excerpt: "They discussed artificial intelligence and federal IT. AI has been around for a while. With the advent of cheap cloud storage and computers, the concept of artificial intelligence has matured to a point where we can refine the discussion."
+    publishedDateTime: 2020-11-09T14:19:00Z
+    webUrl: "https://federalnewsnetwork.com/federal-tech-talk/2020/11/this-is-not-your-fathers-artificial-intelligence/"
+    ampWebUrl: "https://federalnewsnetwork.com/federal-tech-talk/2020/11/this-is-not-your-fathers-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://federalnewsnetwork-com.cdn.ampproject.org/c/s/federalnewsnetwork.com/federal-tech-talk/2020/11/this-is-not-your-fathers-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 57
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2020/11/arash-rahnama-300x300.jpg"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "iUU84AQMD97S8z4NrIn4UnXN1ezGNzuQ0GgtxIf6ghidUzIIhBXqlrma5/V6O/f+djwHKOMHJbUQVoxEgpF9l6Ykz4LNHMFMD19MuVktjfoyMGTgG7XGrTfSlcYBWwRapyWfK2AcUA2DdpaIAvfzHb/iPf1vp6yj9xSdhXMLSIz/QSt44izNMlSA9xbZ1wygOAqNa9J9tsys9BoNihi1Om8kbSW8LwQwQKrpp5p9yp5yHrn6DE3/uB9o7KlwjWLlWQZAxhWJVLOsgBpcXlfResuAiddHn7MRNzbxOUSCyRC+pnPsSLF/nuP1aCTBoh51vHh3jrrTMV0CCzXZOpOJEZqQn6fEmIyE63mo4L8hZugKYneV/q9cmmMsESkynzXQ5tHyIA6ooDtCNibWTSZaUu36pH57rueY+n2uRUHKIXjgA288rJ8zZgamGJqkNop2MvV8d0xZFDh7nH3YFZxiW0yWE+jirRAqVLWxu9kDrVAyZpniV/SMhvrd7pHwrH26wika3bEWlkegmwPCMgAW5g==;7ZLdSlwDCU0VoEhLSNuZKw=="

@@ -2,6 +2,100 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-10-21-how-ai-can-help-boost-alternative-and-renewable-energy-use.md",
+      "title": "How AI can help boost alternative and renewable energy use",
+      "excerpt": "The challenge of inconsistent flow of wind and solar energy is getting help from artificial intelligence, helping companies predict and adapt, saving them money.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-ai-can-help-boost-alternative-and-renewable-energy-use/",
+      "originalUrl": "https://www.techrepublic.com/article/how-ai-can-help-boost-alternative-and-renewable-energy-use/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/10/21/88c374fe-8fa8-49a9-9b4c-fc2a7a881400/resize/1200x/2bedb66f52c7d89171a70fedf5977a96/istock-1268370995.jpg",
+          "width": 1200,
+          "height": 819,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-can-help-boost-alternative-and-renewable-energy-use/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-can-help-boost-alternative-and-renewable-energy-use/",
+      "publishedDateTime": "2020-10-21T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-global-computer-vision-market-2020-to-2026-by-product-type-component-application-vertical-and-region-researchandmarketscom.md",
+      "title": "Global Computer Vision Market (2020 to 2026) - by Product Type, Component, Application, Vertical and Region - ResearchAndMarkets.com",
+      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Global Computer Vision Market by Product Type, Component, Application, Vertical and Region: Industry Analysis and Forecast 2020-2026\" report has been added to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201021005593/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20201021005593/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201021005593/en/371054/23/ResearchAndMarkets_800px.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-21T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-landing-ai-launches-product-inspection-platform-for-manufacturers.md",
       "title": "Landing AI launches product inspection platform for manufacturers",
       "excerpt": "and created the AI Startup fund to invest $175 million in AI startups. “I feel like this is where the field of AI needs to go: Rather than highly-skilled engineers at Landing AI or Google or ...",
@@ -1073,110 +1167,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-tesla-released-its-full-self-driving-software-but-the-top-us-safety-regulator-says-theres-no-such-thing.md",
-      "title": "Tesla released its 'full self-driving' software, but the top US safety regulator says there's no such thing",
-      "excerpt": "Good Subscriber Account active since DOW S&P 500 NASDAQ 100 Tesla has begun releasing a beta version of its long-awaited \"full self-driving\" software, CEO Elon Musk said Wednesday, while providing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/tesla-full-self-driving-software-release-beta-questions-2020-10",
-      "originalUrl": "https://www.businessinsider.com/tesla-full-self-driving-software-release-beta-questions-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f9069752e0e6f0018dd7bb0?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/tesla-full-self-driving-software-release-beta-questions-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-full-self-driving-software-release-beta-questions-2020-10?amp",
-      "publishedDateTime": "2020-10-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-university-of-miami-becomes-latest-battleground-over-facial-recognition.md",
-      "title": "University of Miami Becomes Latest Battleground Over Facial Recognition",
-      "excerpt": "Two students claim UM’s dean of students told a handful of campus protesters at a virtual meeting on Sept. 22 that they were identified at an unsanctioned demonstration using specialized software that analyzed camera footage of the event.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/university-of-miami-becomes-latest-battleground-over-facial-recognition-11603233631",
-      "originalUrl": "https://www.wsj.com/articles/university-of-miami-becomes-latest-battleground-over-facial-recognition-11603233631",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-247517/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/university-of-miami-becomes-latest-battleground-over-facial-recognition-11603233631",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/university-of-miami-becomes-latest-battleground-over-facial-recognition-11603233631",
-      "publishedDateTime": "2020-10-20T15:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

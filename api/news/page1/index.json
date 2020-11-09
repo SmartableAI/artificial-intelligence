@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-10-neurals-market-outlook-for-artificial-intelligence-in-2021-and-beyond.md",
+      "title": "Neural’s market outlook for artificial intelligence in 2021 and beyond",
+      "excerpt": "The year is coming to a close and it’s safe to say Elon Musk’s prediction that his company would field one million “robotaxis” by the end of 2020 isn’t going to come true. In fact, so far, Tesla’s managed to produce exactly zero self-driving vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/11/09/neurals-market-outlook-for-artificial-intelligence-in-2021-and-beyond/",
+      "originalUrl": "https://thenextweb.com/neural/2020/11/09/neurals-market-outlook-for-artificial-intelligence-in-2021-and-beyond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/binarystock-796x520.jpg",
+          "width": 796,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/11/09/neurals-market-outlook-for-artificial-intelligence-in-2021-and-beyond/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/09/neurals-market-outlook-for-artificial-intelligence-in-2021-and-beyond/amp/",
+      "publishedDateTime": "2020-11-09T13:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-oklahoma-plans-to-use-rekors-ai-to-track-down-uninsured-drivers-despite-discrimination-concerns.md",
+      "title": "Oklahoma plans to use Rekor’s AI to track down uninsured drivers, despite discrimination concerns",
+      "excerpt": "Rekor's partnership with the state of Oklahoma could lead to descrimination against certain groups of uninsured drivers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/09/oklahoma-plans-to-use-rekors-ai-to-track-down-uninsured-drivers-despite-discrimination-concerns/",
+      "originalUrl": "https://venturebeat.com/2020/11/09/oklahoma-plans-to-use-rekors-ai-to-track-down-uninsured-drivers-despite-discrimination-concerns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/10/roadtrip-e1604947444975.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/09/oklahoma-plans-to-use-rekors-ai-to-track-down-uninsured-drivers-despite-discrimination-concerns/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/09/oklahoma-plans-to-use-rekors-ai-to-track-down-uninsured-drivers-despite-discrimination-concerns/amp/",
+      "publishedDateTime": "2020-11-09T13:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-how-the-father-of-the-playstation-is-using-his-playbook-from-sony-in-his-new-role-as-ceo-of-ai-backed-startup-ascent-robotics.md",
       "title": "How the 'father of the PlayStation' is using his playbook from Sony in his new role as CEO of AI-backed startup Ascent Robotics",
       "excerpt": "Now he's trying to implement a similar strategy at Ascent, the robotics startup he joined in September as CEO — while forgoing a salary to save capital. \"We want to collaborate with as many smart people\" as possible, the so-called 'father of the ...",
@@ -342,49 +445,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-watch-trent-reznors-nine-inch-nails-rock-roll-hall-of-fame-acceptance-speech.md",
-      "title": "Watch Trent Reznor's Nine Inch Nails Rock & Roll Hall Of Fame Acceptance Speech",
-      "excerpt": "Trent Reznor thanked Nine Inch Nails bandmates both past and present in his Rock & Roll Hall Of Fame induction ceremony acceptance speech. Over the weekend, Trent Reznor accepted the honour of Nine Inch Nails being inducted into the 2020 Rock & Roll Hall Of Fame on behalf of his bandmates throughout the years,",
-      "sourceUrl": null,
-      "webUrl": "https://www.kerrang.com/amp/watch-trent-reznors-rock-roll-hall-of-fame-acceptance-speech-for-nine-inch-nails",
-      "originalUrl": "https://www.kerrang.com/amp/watch-trent-reznors-rock-roll-hall-of-fame-acceptance-speech-for-nine-inch-nails",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.kerrangcdn.com/Trent-Reznor-Rock-Roll-Hall-Of-Fame-acceptance-speech-2020.jpg?auto=compress&fit=crop&w=1008",
-          "width": 1008,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kerrang.com/amp/watch-trent-reznors-rock-roll-hall-of-fame-acceptance-speech-for-nine-inch-nails",
-      "cdnAmpWebUrl": "https://www-kerrang-com.cdn.ampproject.org/c/s/www.kerrang.com/amp/watch-trent-reznors-rock-roll-hall-of-fame-acceptance-speech-for-nine-inch-nails",
-      "publishedDateTime": "2020-11-09T04:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kerrang!",
-        "domain": "kerrang.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1190,58 +1250,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-review-cadillac-super-cruise-trumps-tesla-autopilot-as-the-best-self-driving-technology-you-can-buy-today.md",
-      "title": "REVIEW: Cadillac Super Cruise trumps Tesla Autopilot as the best self-driving technology you can buy today",
-      "excerpt": "I subjected the system to new challenges, including a congested highway and some genuinely awful, rainy weather.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/cadillac-super-cruise-still-best-self-driving-technology-on-market-2020-11",
-      "originalUrl": "https://www.businessinsider.com/cadillac-super-cruise-still-best-self-driving-technology-on-market-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa43726f7d1cb0019e3a02a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/cadillac-super-cruise-still-best-self-driving-technology-on-market-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cadillac-super-cruise-still-best-self-driving-technology-on-market-2020-11?amp",
-      "publishedDateTime": "2020-11-08T05:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-28-5-best-robotics-and-artificial-intelligence-stocks-to-buy.md",
+      "title": "5 Best Robotics and Artificial Intelligence Stocks To Buy",
+      "excerpt": "Google AI is the company’s division that focuses exclusively on artificial intelligence and Waymo is probably the most advanced autonomous driving technology company in the world (though Chinese ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17135035/50882921_ml.jpg",
+          "width": 1678,
+          "height": 1119,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-27T22:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-why-the-future-needs-optical-data-centres.md",
+      "title": "Why the future needs optical data centres",
+      "excerpt": "Driverless cars, AI ... on the pressure from new types of workloads [such as machine learning and artificial intelligence] and the cloud providers’ strategy on innovation.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/server-storage/data-centres/357557/why-the-future-needs-optical-data-centres",
+      "originalUrl": "https://www.itpro.co.uk/server-storage/data-centres/357557/why-the-future-needs-optical-data-centres",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1603799164/itpro/2020/10/shutterstock_fibre_optic_cable.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-27T15:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-covid-19-fails-to-move-needle-on-consumers-disdain-for-self-driving-vehicles.md",
       "title": "COVID-19 Fails To Move Needle On Consumers’ Disdain For Self-Driving Vehicles",
       "excerpt": "Carmakers continue to develop self-driving systems and some safety experts continue to tout their potential for saving lives, but the public as a whole expresses very limited interest in buying cars with the technology. At the same time, experts in the ...",
@@ -1339,101 +1435,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-leave-positive-tracks-wayves-self-driving-solution-seeks-to-protect-people-and-the-planet.md",
-      "title": "‘Leave positive tracks’: Wayve’s self-driving solution seeks to protect people and the planet",
-      "excerpt": "Anyway, back to our mental trek.) Picture the world’s cities by the end of this decade: Streets, intersections and roundabouts are a safer, cleaner, quieter and vastly more organized stream of connected, self-driving electric vehicles. Block by block ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/transform/leave-positive-tracks-wayve-self-driving-solution-seeks-protect-people-planet/",
-      "originalUrl": "https://news.microsoft.com/transform/leave-positive-tracks-wayve-self-driving-solution-seeks-protect-people-planet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/382/2020/10/alex_kendall_2-1024x768.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-tesla-full-self-driving-vehicles-cant-drive-themselves.md",
-      "title": "Tesla ‘full self-driving’ vehicles can’t drive themselves",
-      "excerpt": "DETROIT >> Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.staradvertiser.com/2020/10/22/news/tesla-full-self-driving-vehicles-cant-drive-themselves/",
-      "originalUrl": "https://www.staradvertiser.com/2020/10/22/news/tesla-full-self-driving-vehicles-cant-drive-themselves/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.staradvertiser.com/wp-content/uploads/2020/10/web1_10562289-135a11bded104a2cbee932740c5733a6.jpg",
-          "width": 760,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.staradvertiser.com/2020/10/22/news/tesla-full-self-driving-vehicles-cant-drive-themselves/amp/",
-      "cdnAmpWebUrl": "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2020/10/22/news/tesla-full-self-driving-vehicles-cant-drive-themselves/amp/",
-      "publishedDateTime": "2020-10-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Honolulu Star-Advertiser",
-        "domain": "staradvertiser.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

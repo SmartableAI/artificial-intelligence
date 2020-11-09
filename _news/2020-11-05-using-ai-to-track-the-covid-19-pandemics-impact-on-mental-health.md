@@ -55,6 +55,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Air Force Turns to Machine Learning to Fight COVID-19 Disinformation"
+    excerpt: "Just as the technology can be used to help deliberately spread falsities online, it can also be tapped to stop that spread."
+    publishedDateTime: 2020-11-09T19:58:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2020/11/air-force-turns-machine-learning-fight-covid-19-disinformation/169900/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 54
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/11/09/NGmisinfo20201109/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Machine Learning Helps Reduce Food Insecurity During COVID-19"
     excerpt: "Researchers used machine learning to create bus routes and deliver meals to individuals in need, reducing food insecurity in Pennsylvania communities."
     publishedDateTime: 2020-11-06T14:32:00Z

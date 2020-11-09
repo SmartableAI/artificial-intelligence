@@ -29,7 +29,7 @@ related:
   - title: "'It's the screams of the damned!' The eerie AI world of deepfake music"
     excerpt: "Artificial intelligence is being used to create new songs seemingly performed by Frank Sinatra and other dead stars. ‘Deepfakes’ are cute tricks – but they could change pop for ever"
     publishedDateTime: 2020-11-09T12:32:00Z
-    webUrl: "https://www.theguardian.com/music/2020/nov/09/deepfake-pop-music-artificial-intelligence-ai-frank-sinatra?curator=MusicREDEF"
+    webUrl: "https://www.theguardian.com/music/2020/nov/09/deepfake-pop-music-artificial-intelligence-ai-frank-sinatra"
     ampWebUrl: "https://amp.theguardian.com/music/2020/nov/09/deepfake-pop-music-artificial-intelligence-ai-frank-sinatra"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/music/2020/nov/09/deepfake-pop-music-artificial-intelligence-ai-frank-sinatra"
     type: article
