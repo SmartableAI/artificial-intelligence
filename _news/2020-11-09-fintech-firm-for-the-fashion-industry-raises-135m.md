@@ -74,6 +74,15 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
+  - title: "AMTD’s Singapore Solidarity Fund invests $6.4m in 5 fintech startups in its first batch"
+    excerpt: "The evaluation process for a second batch of investments – which aims to support Singapore’s fintech community – is already underway."
+    publishedDateTime: 2020-11-09T11:18:00Z
+    webUrl: "https://www.techinasia.com/amtd-singapore-solidarity-invests-64m-5-fintech-startups-first-batch"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 26
   - title: "Fintech agrees deal for refurbished office landmark"
     excerpt: "An expanding fintech company is moving to the newly-refurbished Hodge House office building in Cardiff city centre. The move follows an announcement last month that listed AI"
     publishedDateTime: 2020-11-06T12:08:00Z

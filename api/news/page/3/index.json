@@ -2,6 +2,257 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-05-intelligently-connect-to-customers-using-machine-learning-in-the-covid-19-pandemic.md",
+      "title": "Intelligently connect to customers using machine learning in the COVID-19 pandemic",
+      "excerpt": "The pandemic has changed how people interact, how we receive information, and how we get help. It has shifted much of what used to happen in-person to online. Many of our customers are using machine learning (ML) technology to facilitate that transition, from new remote cloud contact centers, to chatbots,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/intelligently-connect-to-customers-using-machine-learning-in-the-covid-19-pandemic/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/intelligently-connect-to-customers-using-machine-learning-in-the-covid-19-pandemic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-05T15:42:17-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-11-06-artificial-intelligence-can-detect-asymptomatic-covid-19-coughs-mit-says-heres-how.md",
+      "title": "Artificial intelligence can detect asymptomatic COVID-19 coughs, MIT says. Here’s how",
+      "excerpt": "Researchers say the AI could help prevent asymptomatic individuals from unknowingly spreading the virus to others.",
+      "sourceUrl": null,
+      "webUrl": "https://www.miamiherald.com/news/coronavirus/article247000912.html",
+      "originalUrl": "https://www.miamiherald.com/news/coronavirus/article247000912.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998027001/6dbb1e03-d75b-4843-808d-d33469ba86b9/b6e3392c-4dec-46dc-b78f-ab267f2c02b7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.miamiherald.com/news/coronavirus/article247000912.html",
+      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/coronavirus/article247000912.html",
+      "publishedDateTime": "2020-11-05T14:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Miami Herald",
+        "domain": "miamiherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-06-inside-fintech-startup-upstarts-ipo-filing.md",
+      "title": "Inside fintech startup Upstart’s IPO filing",
+      "excerpt": "The fintech startup facilitates loans between consumers ... Upstart’s technology uses what it describes as artificial intelligence (AI) to approve consumer loans. It collects consumer demand ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/",
+      "originalUrl": "https://techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-951640954.jpg?w=1024",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/amp/",
+      "publishedDateTime": "2020-11-05T11:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-11-06-what-ai-can-learn-from-parents.md",
+      "title": "What AI Can Learn From Parents",
+      "excerpt": "Like raising children, training an artificial intelligence means balancing obedience and independence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/what-ai-can-learn-from-parents-11604586334",
+      "originalUrl": "https://www.wsj.com/articles/what-ai-can-learn-from-parents-11604586334",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-255053/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/what-ai-can-learn-from-parents-11604586334",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/what-ai-can-learn-from-parents-11604586334",
+      "publishedDateTime": "2020-11-05T11:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-announcing-the-aws-deepcomposer-chartbusters-challenge-keep-calm-and-model-on.md",
+      "title": "Announcing the AWS DeepComposer Chartbusters challenge, Keep Calm and Model On",
+      "excerpt": "We are back with another AWS DeepComposer Chartbusters challenge, Keep Calm and Model On! This challenge is open for submissions throughout AWS re:Invent until January 31, 2021. In this challenge, you can experiment with our newly launched Transformers algorithm and generate an original piece of music.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepcomposer-chartbusters-challenge-keep-calm-and-model-on/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepcomposer-chartbusters-challenge-keep-calm-and-model-on/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/03/Keep-Calm-and-Model-On-1-664x630.jpg",
+          "width": 664,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-05T10:32:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-06-why-i-just-purchased-shares-of-ai-cloud-observability-company-dynatrace.md",
       "title": "Why I Just Purchased Shares of AI Cloud Observability Company Dynatrace",
       "excerpt": "Technology projects to update operations -- especially in cloud computing -- can no longer be delayed, but rather are critical to the long-term health of many businesses. As a result, cloud observability software outfit Dynatrace (NYSE:DT) says its total addressable market has surged in the last 18 months from $20 billion a year to $32 billion a year.",
@@ -574,6 +825,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-05-using-artificial-intelligence-improves-pregnant-womens-health.md",
+      "title": "Using Artificial Intelligence Improves Pregnant Women's Health",
+      "excerpt": "Artificial intelligence technology can help to diagnose congenital disabilities, gestational diabetes, and preterm birth earlier in pregnant women, reports a new study.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm",
+      "originalUrl": "https://www.medindia.net/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/less-than-6hours-of-sleep-during-pregnancy.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm",
+      "publishedDateTime": "2020-11-04T21:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-how-leveraging-ai-and-machine-learning-can-give-startups-a-competitive-edge.md",
       "title": "How leveraging AI and machine learning can give startups a competitive edge",
       "excerpt": "While AI and machine learning are changing the way businesses operate, startups may still struggle to leverage them effectively, with challenges such as cost and a lack of talent among the chief concerns.",
@@ -971,290 +1265,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-seattle-startup-vets-raise-1m-and-reveal-more-details-about-home-valuation-platform-plunk.md",
-      "title": "Seattle startup vets raise $1M and reveal more details about home valuation platform Plunk",
-      "excerpt": "Will that bathroom remodel increase your home's value by more than $20,000? What about replacing the floors or adding a garage? How about the bad traffic that's getting worse around your neighborhood?",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/seattle-startup-vets-raise-1m-reveal-details-home-valuation-platform-plunk/",
-      "originalUrl": "https://www.geekwire.com/2020/seattle-startup-vets-raise-1m-reveal-details-home-valuation-platform-plunk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/07/Screen-Shot-2019-07-16-at-10.19.44-AM-e1563297636323-630x316.png",
-          "width": 630,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/seattle-startup-vets-raise-1m-reveal-details-home-valuation-platform-plunk/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-startup-vets-raise-1m-reveal-details-home-valuation-platform-plunk/amp/",
-      "publishedDateTime": "2020-11-04T08:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-heres-how-ai-makes-a-new-home-hunt-about-as-fun-as-dating.md",
-      "title": "Here’s How AI Makes A New-Home Hunt About As Fun As Dating!",
-      "excerpt": "An AI-powered marketing platform designed for a UX that works like a cross between Match.com and Netflix, enables home builders to learn with every click, tracking preferences of web visitors. In real-time,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnmcmanus/2020/11/04/heres-how-ai-makes-a-new-home-hunt-about-as-fun-as-dating/",
-      "originalUrl": "https://www.forbes.com/sites/johnmcmanus/2020/11/04/heres-how-ai-makes-a-new-home-hunt-about-as-fun-as-dating/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa2c94427616a015e59d92d%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnmcmanus/2020/11/04/heres-how-ai-makes-a-new-home-hunt-about-as-fun-as-dating/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnmcmanus/2020/11/04/heres-how-ai-makes-a-new-home-hunt-about-as-fun-as-dating/amp/",
-      "publishedDateTime": "2020-11-04T07:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-intel-acquires-machine-learning-platform-cnvrgio-to-continue-ai-push-techcrunch.md",
-      "title": "Intel acquires machine learning platform Cnvrg.io to continue AI push - TechCrunch",
-      "excerpt": "TechCrunch reports that Intel (NASDAQ:INTC) has acquired Cnvrg.io, which provides an operating system for AI and machine learning.Cnvrg.io's platform helps data scientists build and run AI models, which can then be used to train,",
-      "sourceUrl": null,
-      "webUrl": "https://cnvrg.io/",
-      "originalUrl": "https://seekingalpha.com/news/3631130-intel-acquires-machine-learning-platform-cnvrg-io-to-continue-ai-push-techcrunch",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://406167-1278791-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/06/cnvrg-new-cover-1024x536.png",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-04T07:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-leena-ai-nabs-8m-series-a-as-it-expands-from-chatbots-to-hr-service-platform.md",
-      "title": "Leena AI nabs $8M Series A as it expands from chatbots to HR service platform",
-      "excerpt": "When we covered Leena AI as a member of the Y Combinator Summer 2018 cohort, the young startup was firmly focused on building HR chatbots, but in the intervening years it has expanded the vision to a broader HR policy platform.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/",
-      "originalUrl": "https://techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1215953761.jpg?w=1024",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/amp/",
-      "publishedDateTime": "2020-11-04T06:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-aws-launches-next-gen-gpu-instances-for-machine-learning.md",
-      "title": "AWS launches next-gen GPU instances for machine learning",
-      "excerpt": "AWS has launched its latest GPU-equipped instances aimed at machine learning and high-performance computing (HPC) workloads. Called P4d, the new instances come ten years the first set of GPU instances were launched.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/8820/aws-launches-next-gen-gpu-instances-for-machine-learning",
-      "originalUrl": "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/8820/aws-launches-next-gen-gpu-instances-for-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2020/06/awslogo.jpg",
-          "width": 3648,
-          "height": 2736,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-04T06:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cloud Pro",
-        "domain": "cloudpro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-brainome-launches-product-to-optimize-machine-learning-development-process.md",
-      "title": "Brainome launches product to optimize machine learning development process",
-      "excerpt": "Brainome's new product, Daimensions, seeks to eliminate brute-force aspects of machine learning model development, integrate with existing CI/CD infrastructure and generate small ML models that can run efficiently on commodity hardware.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/brainome-launches-product-to-optimize-machine-learning-development-process/",
-      "originalUrl": "https://www.zdnet.com/article/brainome-launches-product-to-optimize-machine-learning-development-process/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/brainome-launches-product-to-optimize-machine-learning-development-process/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brainome-launches-product-to-optimize-machine-learning-development-process/",
-      "publishedDateTime": "2020-11-04T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

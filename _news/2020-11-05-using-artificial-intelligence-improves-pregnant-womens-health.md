@@ -9,8 +9,8 @@ ampWebUrl: "https://www.medindia.net/amp/news/using-artificial-intelligence-impr
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Medindia
@@ -27,35 +27,51 @@ images:
     isCached: true
 
 related:
-  - title: "Google launches Document AI suite of parsing and processing tools in preview"
-    excerpt: "Google's new Document AI (DocAI) platform is a unified suite of tools for AI and machine learning-powered document processing."
-    publishedDateTime: 2020-11-04T19:20:00Z
-    webUrl: "https://venturebeat.com/2020/11/04/google-launches-document-ai-suite-of-parsing-and-processing-tools-in-preview/"
-    ampWebUrl: "https://venturebeat.com/2020/11/04/google-launches-document-ai-suite-of-parsing-and-processing-tools-in-preview/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/04/google-launches-document-ai-suite-of-parsing-and-processing-tools-in-preview/amp/"
+  - title: "Analysis reveals how artificial intelligence has been used with pregnant women"
+    excerpt: "Researchers from the University of Seville have carried out a rigorous and detailed analysis of how artificial intelligence has been used with pregnant women over the last twelve years."
+    publishedDateTime: 2020-11-04T23:31:00Z
+    webUrl: "https://www.news-medical.net/news/20201104/Analysis-reveals-how-artificial-intelligence-has-been-used-with-pregnant-women.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20201104/Analysis-reveals-how-artificial-intelligence-has-been-used-with-pregnant-women.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201104/Analysis-reveals-how-artificial-intelligence-has-been-used-with-pregnant-women.aspx"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
+      name: News Medical
+      domain: news-medical.net
+    quality: 53
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/google-cloud-e1594658562493.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
-  - title: "The Role of Artificial Intelligence in Web Development Process"
-    excerpt: "In the digital era, web development is growing at an unprecedented rate. The intervention of Artificial intelligence-enabled sites is giving a whole personalized experience to users."
-    publishedDateTime: 2020-11-05T09:10:00Z
-    webUrl: "https://www.analyticsinsight.net/the-role-of-artificial-intelligence-in-web-development-process/"
+  - title: "Analysis reveals how artificial intelligence has been used to help pregnant women"
+    excerpt: "Researchers from the University of Seville have carried out a rigorous and detailed analysis of how artificial intelligence has been used with pregnant women over the last twelve years."
+    publishedDateTime: 2020-11-06T08:36:00Z
+    webUrl: "https://www.news-medical.net/news/20201104/Analysis-reveals-how-artificial-intelligence-has-been-used-with-pregnant-women.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20201104/Analysis-reveals-how-artificial-intelligence-has-been-used-with-pregnant-women.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201104/Analysis-reveals-how-artificial-intelligence-has-been-used-with-pregnant-women.aspx"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 41
+      name: News Medical
+      domain: news-medical.net
+    quality: 52
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg"
-        width: 900
-        height: 500
+      - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+  - title: "How This Health-Tech Startup Is Digitising Patient Management With AI"
+    excerpt: "In order to improve patient and doctors engagements over digital platforms, Navia Life Care digitising healthcare by using of AI/ML to help us scale."
+    publishedDateTime: 2020-11-09T05:32:00Z
+    webUrl: "https://analyticsindiamag.com/how-this-health-tech-startup-is-digitising-patient-management-with-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/11/How-This-Health-Tech-Startup-Digitising-Patient-Management-With-AI.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "kv5pUn5XAyhISUgS8Yy4K11cTlvc/do97ziQCsZe3OeR/NkF9+eyfsutNHiLMCr+TcZM8OyBDavR/hl1L2lHKng5BSTER+NDGi6LmhPkPJLMTmnniHPN7WqdFVn21kSM5s46+R3g8nZ2yMvaZLS6/hSxlk6HXQuUkUjx23uFVKIAm+n4Hc0UP/goMKY/OFaNVZYWHdlOAYECb8hIGmPZM4IQ0mHt2Or39+QXkBvzVgBF6+4HX6hkxUwZKKBHdUKryxoEeGltmZz+6Se2HxXmeJkQKnMSgkrBq9eka4bwIkZy1khcpdXde5ECVb9K0zWHF9Gc0L85/MIrWQFRnCfSL1DkS0EHCWxtR5jDQo8doXDmX6YPFlJ6hrgCOPjGeoEtcsu5wWAkWGyMarfnwK+U1cqQ8Qdxd0APqV3ALf/FqDEu3yGQL4GopXSajEQpAltxf+YKlBJYuHwbrcAS/aP8XpKdJWrQORP6vvf7P/hgW6+r2W1EdVaixRLLGADQYz5QDSmZUtoqB6a/Cy8AEs9H3w==;JDt8TsRc/ot1iByvAG6Xig=="

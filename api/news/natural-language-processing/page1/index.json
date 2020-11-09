@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-09-watch-trent-reznors-nine-inch-nails-rock-roll-hall-of-fame-acceptance-speech.md",
+      "title": "Watch Trent Reznor's Nine Inch Nails Rock & Roll Hall Of Fame Acceptance Speech",
+      "excerpt": "Trent Reznor thanked Nine Inch Nails bandmates both past and present in his Rock & Roll Hall Of Fame induction ceremony acceptance speech. Over the weekend, Trent Reznor accepted the honour of Nine Inch Nails being inducted into the 2020 Rock & Roll Hall Of Fame on behalf of his bandmates throughout the years,",
+      "sourceUrl": null,
+      "webUrl": "https://www.kerrang.com/amp/watch-trent-reznors-rock-roll-hall-of-fame-acceptance-speech-for-nine-inch-nails",
+      "originalUrl": "https://www.kerrang.com/amp/watch-trent-reznors-rock-roll-hall-of-fame-acceptance-speech-for-nine-inch-nails",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.kerrangcdn.com/Trent-Reznor-Rock-Roll-Hall-Of-Fame-acceptance-speech-2020.jpg?auto=compress&fit=crop&w=1008",
+          "width": 1008,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kerrang.com/amp/watch-trent-reznors-rock-roll-hall-of-fame-acceptance-speech-for-nine-inch-nails",
+      "cdnAmpWebUrl": "https://www-kerrang-com.cdn.ampproject.org/c/s/www.kerrang.com/amp/watch-trent-reznors-rock-roll-hall-of-fame-acceptance-speech-for-nine-inch-nails",
+      "publishedDateTime": "2020-11-09T04:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kerrang!",
+        "domain": "kerrang.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-what-many-chief-investment-officers-dont-understand-about-ai.md",
+      "title": "What Many Chief Investment Officers Don't Understand About AI",
+      "excerpt": "You can drive real organizational gains with machine learning and AI, as long as there are processes in place to ensure data quality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/11/09/what-many-chief-investment-officers-dont-understand-about-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/11/09/what-many-chief-investment-officers-dont-understand-about-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa5b8b273725a764087eeb0%2F0x0.jpg",
+          "width": 1200,
+          "height": 696,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/11/09/what-many-chief-investment-officers-dont-understand-about-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/11/09/what-many-chief-investment-officers-dont-understand-about-ai/amp/",
+      "publishedDateTime": "2020-11-09T04:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-09-buddhist-nuns-and-their-crusade-for-recognition-in-southeast-asia.md",
       "title": "Buddhist Nuns and Their Crusade for Recognition in Southeast Asia",
       "excerpt": "\"The Buddha is my first feminist … in a very traditional society, he opened the space for women by recognizing they can achieve a highest spiritual goal.\"",
@@ -458,10 +553,10 @@
     {
       "path": "_news/2020-11-03-immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership.md",
       "title": "ImmunoPrecise Antibodies and Mila Announce Strategic AI Partnership",
-      "excerpt": "PRNewswire/ - IMMUNOPRECISE ANTIBODIES LTD. (the 'Company' or 'IPA') (TSXV: IPA) (OTCQB: IPATF) (FSE: TQB2), a leader",
+      "excerpt": "CNW/ - IMMUNOPRECISE ANTIBODIES LTD. (the 'Company' or 'IPA') (TSXV: IPA) (OTCQB: IPATF) (FSE: TQB2), a leader in",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758396",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758396",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758397",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758397",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -469,8 +564,8 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758396",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758396",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758397",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758397",
       "publishedDateTime": "2020-11-03T04:52:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -1360,92 +1455,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-the-left-and-the-right-speak-different-languagesliterally.md",
-      "title": "The Left and the Right Speak Different Languages—Literally",
-      "excerpt": "Researchers at Carnegie Mellon University collected more than 86.6 million comments from more than 6.5 million users on 200,000 YouTube videos, then analyzed them using an AI technique normally employed to translate between two languages. The researchers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/left-right-speak-different-languages-literally/",
-      "originalUrl": "https://www.wired.com/story/left-right-speak-different-languages-literally/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f8f6e8cb9910f1848191347/master/pass/business_discourse_1281134658.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/left-right-speak-different-languages-literally/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/left-right-speak-different-languages-literally/amp",
-      "publishedDateTime": "2020-10-22T04:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-global-automotive-voice-recognition-market-set-new-growth-story-for-future-development-by-2029-nuance-voicebox-iflytek.md",
-      "title": "Global Automotive Voice Recognition Market Set New Growth Story For Future Development By 2029 | Nuance, VoiceBox, Iflytek",
-      "excerpt": "Significant information concerning the production patterns, growth rate, and market share of each product fragment during the study period is stated in Automotive Voice Recognition Market 2021-2030 Radical Growth of Global Automotive Voice Recognition ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/mediareleases/135902/global-automotive-voice-recognition-market-set/",
-      "originalUrl": "https://www.reseller.co.nz/mediareleases/135902/global-automotive-voice-recognition-market-set/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-21T12:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,291 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-10-14-dataloop-raises-11m-series-a-round-for-its-ai-data-management-platform.md",
+      "title": "Dataloop raises $11M Series A round for its AI data management platform",
+      "excerpt": "Dataloop, a Tel Aviv-based startup that specializes in helping businesses manage the entire data lifecycle for their AI projects, including helping them annotate their datasets, today announced that it has now raised a total of $16 million.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/14/dataloop-raises-16m-for-its-ai-data-management-and-annotation-platform/",
+      "originalUrl": "https://techcrunch.com/2020/10/14/dataloop-raises-16m-for-its-ai-data-management-and-annotation-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/ea90c01-f5ef5b8-ezgif.com-video-to-gif_3.gif",
+          "width": 800,
+          "height": 388,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/14/dataloop-raises-16m-for-its-ai-data-management-and-annotation-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/14/dataloop-raises-16m-for-its-ai-data-management-and-annotation-platform/amp/",
+      "publishedDateTime": "2020-10-14T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-aws-cohesity-announce-partnership-aimed-at-tackling-data-silos-jaweb.md",
+      "title": "AWS, Cohesity Announce Partnership Aimed at Tackling Data Silos – Jaweb",
+      "excerpt": "Cohesity Inc. announced a data management partnership Wednesday with Amazon Web Services aimed at helping companies secure, govern and analyze their ever-increasing amounts of data. “A typical [business] customer has all these different vendors in their data centers and in the clouds that they’re using,",
+      "sourceUrl": null,
+      "webUrl": "https://elmoudjaweb.com/aws-cohesity-announce-partnership-aimed-at-tackling-data-silos-jaweb/",
+      "originalUrl": "https://elmoudjaweb.com/aws-cohesity-announce-partnership-aimed-at-tackling-data-silos-jaweb/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://elmoudjaweb.com/wp-content/uploads/2020/10/AWS-Cohesity-Announce-Partnership-Aimed-at-Tackling-Data-Silos-–.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://elmoudjaweb.com/aws-cohesity-announce-partnership-aimed-at-tackling-data-silos-jaweb/?amp",
+      "cdnAmpWebUrl": "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/aws-cohesity-announce-partnership-aimed-at-tackling-data-silos-jaweb/?amp",
+      "publishedDateTime": "2020-10-14T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Elmoudjaweb",
+        "domain": "elmoudjaweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-this-bot-will-destroy-you-at-pictionary-its-also-a-huge-milestone-for-ai.md",
+      "title": "This bot will destroy you at Pictionary. It’s also a huge milestone for A.I.",
+      "excerpt": "Pixelor isn't just a Pictionary-playing A.I. — it's a groundbreaking new tool that's helping us teach machines to understand human intentions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/features/pixelor-pictionary-ai/",
+      "originalUrl": "https://www.digitaltrends.com/features/pixelor-pictionary-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/pixelor_-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/features/pixelor-pictionary-ai/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/pixelor-pictionary-ai/?amp",
+      "publishedDateTime": "2020-10-14T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-infiot-emerges-from-stealth-with-15-million-to-manage-edge-devices-using-ai.md",
+      "title": "Infiot emerges from stealth with $15 million to manage edge devices using AI",
+      "excerpt": "Infiot, a startup developing an access platform for ... Infiot leverages distributed processing and AI to deliver real-time decisions, ostensibly improving availability while enabling superior ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/14/infiot-emerges-from-stealth-with-15-million-to-manage-edge-devices-using-ai/",
+      "originalUrl": "https://venturebeat.com/2020/10/14/infiot-emerges-from-stealth-with-15-million-to-manage-edge-devices-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/af27a1a46882a43d9df31265a5d5b952145fda93-e1601915848179.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/14/infiot-emerges-from-stealth-with-15-million-to-manage-edge-devices-using-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/14/infiot-emerges-from-stealth-with-15-million-to-manage-edge-devices-using-ai/amp/",
+      "publishedDateTime": "2020-10-14T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-sensiml-to-present-at-st-developers-conference.md",
+      "title": "SensiML to Present at ST Developers Conference",
+      "excerpt": "Corporation, a leading developer of AI tools for building intelligent IoT endpoints, today announced that Chris Rogers, CEO and Chris Knorowski, CTO",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/sensiml-to-present-at-st-developers-conference/article_0486123c-fe13-5b86-8d2d-0b60a6035c2f.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/sensiml-to-present-at-st-developers-conference/article_0486123c-fe13-5b86-8d2d-0b60a6035c2f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/22/c2216860-0a3c-5af2-ba20-9a5b036c0854/5f86fae1532d1.image.jpg?resize=400%2C208",
+          "width": 400,
+          "height": 208,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-ai-and-deep-learning-can-analyze-rash-selfies-for-better-lyme-disease-detection.md",
+      "title": "AI and deep learning can analyze 'rash selfies' for better Lyme disease detection",
+      "excerpt": "Johns Hopkins Medicine and Johns Hopkins Applied Research Laboratory (APL) researchers have shown that cell phone images of rashes taken by patients can be evaluated using artificial intelligence (AI) and deep learning (DL) technologies to more accurately detect and identify the erythema migrans (EM) skin redness associated with acute Lyme disease.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-10-ai-deep-rash-selfies-lyme.html",
+      "originalUrl": "https://medicalxpress.com/news/2020-10-ai-deep-rash-selfies-lyme.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2020/aianddeeplea.jpg",
+          "width": 801,
+          "height": 451,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-10-ai-deep-rash-selfies-lyme.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-ai-deep-rash-selfies-lyme.amp",
+      "publishedDateTime": "2020-10-14T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-deep-learning-artificial-intelligence-keeps-an-eye-on-volcano-movements.md",
       "title": "Deep learning artificial intelligence keeps an eye on volcano movements",
       "excerpt": "RADAR satellites can collect massive amounts of remote sensing data that can detect ground movements—surface defomations—at volcanoes in near real time. These ground movements could signal impending volcanic activity and unrest;",
@@ -891,303 +1176,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-machine-learning-customer-stories-ebook.md",
-      "title": "Machine Learning Customer Stories eBook",
-      "excerpt": "Machine learning (ML) is creating better business results across nearly every industry—including financial services. While risk management use cases abound, financial institutions of all sizes ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/resources/209355/machine-learning-customer-stories-ebook",
-      "originalUrl": "https://www.computerworld.com/resources/209355/machine-learning-customer-stories-ebook",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ctw/computerworld-logo300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-13T16:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-these-8-tech-companies-are-using-ai-to-improve-healthcare-renewable-energy-and-more.md",
-      "title": "These 8 tech companies are using AI to improve healthcare, renewable energy, and more",
-      "excerpt": "We often see news and headlines about the dark side of AI, its weaponization, and “algorithmic warfare”. A plethora of AI-driven, dystopian paradigms await us in the future, but there is also a bright side!",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/sponsor/idb-taiwan/these-8-tech-companies-are-using-ai-to-improve-healthcare-renewable-energy-and-more/",
-      "originalUrl": "https://techcrunch.com/sponsor/idb-taiwan/these-8-tech-companies-are-using-ai-to-improve-healthcare-renewable-energy-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/1024x683_Hero-Image_thingnario.jpg?w=600",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-13T15:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-4-things-to-know-about-ibms-spin-off-plans.md",
-      "title": "4 Things to Know About IBM's Spin-Off Plans",
-      "excerpt": "IBM's stock recently rallied after the tech giant announced it would spin off its managed infrastructure services unit into a new company. That split will enable IBM to divest its",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/10/13/4-things-to-know-about-ibms-spin-off-plans/",
-      "originalUrl": "https://www.fool.com/investing/2020/10/13/4-things-to-know-about-ibms-spin-off-plans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F594946%2Fgettyimages-1183989198.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 631,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/13/4-things-to-know-about-ibms-spin-off-plans/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/13/4-things-to-know-about-ibms-spin-off-plans/",
-      "publishedDateTime": "2020-10-13T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-facebook-donates-vital-funds-to-iconic-wwii-code-breaking-center.md",
-      "title": "Facebook donates vital funds to iconic WWII code-breaking center",
-      "excerpt": "On Tuesday, Facebook announced a donation of $1.3 million (1 million ... which caused its closure for several months this year. Although artificial intelligence was not officially formed as a discipline until after Turing’s untimely death, Turing was ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/facebook-bletchley-park-donation/",
-      "originalUrl": "https://www.digitaltrends.com/news/facebook-bletchley-park-donation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/turing-memorial-mpk6-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/facebook-bletchley-park-donation/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facebook-bletchley-park-donation/?amp",
-      "publishedDateTime": "2020-10-13T13:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-optimizing-the-cost-of-training-aws-deepracer-reinforcement-learning-models.md",
-      "title": "Optimizing the cost of training AWS DeepRacer reinforcement learning models",
-      "excerpt": "AWS DeepRacer&nbsp;is a cloud-based 3D racing simulator, an autonomous 1/18th scale race car driven by&nbsp;reinforcement learning, and a global racing league. Reinforcement learning (RL), an advanced&nbsp;machine learning&nbsp;(ML) technique, enables models to learn complex behaviors without labeled",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimizing-the-cost-of-training-aws-deepracer-reinforcement-learning-models/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimizing-the-cost-of-training-aws-deepracer-reinforcement-learning-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/28/4-Track.jpg",
-          "width": 900,
-          "height": 556,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-13T11:58:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-artificial-intelligence-in-healthcare-market-set-to-take-giant-positive-leap.md",
-      "title": "Artificial Intelligence in Healthcare Market Set to Take Giant Positive Leap",
-      "excerpt": "The Artificial Intelligence in Healthcare Market research report includes Market Size, Upstream Situation, Market Segmentation, Artificial Intelligence in Healthcare Market Segmentation, Price & Cost And Industry Environment. In addition, the report ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2158176/artificial-intelligence-in-healthcare-market-set-to-take-giant",
-      "originalUrl": "https://www.openpr.com/news/2158176/artificial-intelligence-in-healthcare-market-set-to-take-giant",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/a/Ta13437067_g.jpg",
-          "width": 800,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2158176/artificial-intelligence-in-healthcare-market-set-to-take-giant",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2158176/artificial-intelligence-in-healthcare-market-set-to-take-giant",
-      "publishedDateTime": "2020-10-13T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

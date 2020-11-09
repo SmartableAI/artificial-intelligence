@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelli
 webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-and-swan-island-networks-announce-strategic-alliance-1029770818"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,17 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "Artificial Intelligence Technology Solutions and Swan Island Networks Announce Strategic Alliance"
+    excerpt: "Artificial Intelligence Technology Solutions, Inc. is pleased to announce that its wholly-owned subsidiary Robotic Assistance Devices and Swan Island Networks have agreed to cooperate on the development of integrating RAD’ s real time,"
+    publishedDateTime: 2020-11-05T14:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/artificial-intelligence-technology-solutions-and-swan-island-networks-announce"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 36
 
 secured: "BW48LdjNyXITohSsnIIH9LcwMjCEBxC1OEYYV9FkSudylkw2bFBsmIILEjvomfkckYMhIphAhXsnZLQ/yaN/ADdtIJFE1qlWB04aukqDjyIfw+20LiGx22LTIgUV5ZMfdG5AYy1/O31PddKuakoy8apHLVYuYm3I8AFYfLbSQLm9r1RAil5r3CqElafkJRzSuzmqRiSlWdXSNsStRUwQ9kijGj64+B2DHuuWiEhdJuRRmKQ0gm6blL/i77CMcJH0CcoRP7oCwq+DMf1ktQ+TUt1JSrM/eSkmidxZ5WJqbACwqz2HkK7Gp4StFt+sRWBUBgX6vTaK3XZIILOiQ/7KVyCOkfgCpz4BlLCpD5SJ0UU=;+PFeLCI7cP5V3UL6iYiHdw=="
 ---

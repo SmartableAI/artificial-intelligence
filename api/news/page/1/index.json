@@ -2,15 +2,266 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-09-watch-trent-reznors-nine-inch-nails-rock-roll-hall-of-fame-acceptance-speech.md",
+      "title": "Watch Trent Reznor's Nine Inch Nails Rock & Roll Hall Of Fame Acceptance Speech",
+      "excerpt": "Trent Reznor thanked Nine Inch Nails bandmates both past and present in his Rock & Roll Hall Of Fame induction ceremony acceptance speech. Over the weekend, Trent Reznor accepted the honour of Nine Inch Nails being inducted into the 2020 Rock & Roll Hall Of Fame on behalf of his bandmates throughout the years,",
+      "sourceUrl": null,
+      "webUrl": "https://www.kerrang.com/amp/watch-trent-reznors-rock-roll-hall-of-fame-acceptance-speech-for-nine-inch-nails",
+      "originalUrl": "https://www.kerrang.com/amp/watch-trent-reznors-rock-roll-hall-of-fame-acceptance-speech-for-nine-inch-nails",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.kerrangcdn.com/Trent-Reznor-Rock-Roll-Hall-Of-Fame-acceptance-speech-2020.jpg?auto=compress&fit=crop&w=1008",
+          "width": 1008,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kerrang.com/amp/watch-trent-reznors-rock-roll-hall-of-fame-acceptance-speech-for-nine-inch-nails",
+      "cdnAmpWebUrl": "https://www-kerrang-com.cdn.ampproject.org/c/s/www.kerrang.com/amp/watch-trent-reznors-rock-roll-hall-of-fame-acceptance-speech-for-nine-inch-nails",
+      "publishedDateTime": "2020-11-09T04:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kerrang!",
+        "domain": "kerrang.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-what-many-chief-investment-officers-dont-understand-about-ai.md",
+      "title": "What Many Chief Investment Officers Don't Understand About AI",
+      "excerpt": "You can drive real organizational gains with machine learning and AI, as long as there are processes in place to ensure data quality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/11/09/what-many-chief-investment-officers-dont-understand-about-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/11/09/what-many-chief-investment-officers-dont-understand-about-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa5b8b273725a764087eeb0%2F0x0.jpg",
+          "width": 1200,
+          "height": 696,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/11/09/what-many-chief-investment-officers-dont-understand-about-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/11/09/what-many-chief-investment-officers-dont-understand-about-ai/amp/",
+      "publishedDateTime": "2020-11-09T04:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-self-driving-delivery-firm-nuro-raises-500-million-as-covid-19-boosts-e-commerce.md",
+      "title": "Self-driving delivery firm Nuro raises $500 million as COVID-19 boosts e-commerce",
+      "excerpt": "Self-driving delivery company Nuro, whose R2 unit has no pedals or steering wheel and only room for packages, said Monday it has raised $500 million as e-commerce gets a huge boost from the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/autonomous-nuro-funding/self-driving-delivery-firm-nuro-raises-500-million-as-covid-19-boosts-e-commerce-idUSL1N2HS26I",
+      "originalUrl": "https://www.reuters.com/article/autonomous-nuro-funding/self-driving-delivery-firm-nuro-raises-500-million-as-covid-19-boosts-e-commerce-idUSL1N2HS26I",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540519893&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80T3",
+          "width": 676,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2HS26I",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2HS26I",
+      "publishedDateTime": "2020-11-09T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-how-ai-can-go-terribly-wrong-5-biases-that-create-failure.md",
+      "title": "How AI Can Go Terribly Wrong: 5 Biases That Create Failure",
+      "excerpt": "This article will enable boards and senior executives to ask the right questions about the five dangerous biases of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/glenngow/2020/11/09/how-ai-can-go-terribly-wrong-5-biases-that-create-failure/",
+      "originalUrl": "https://www.forbes.com/sites/glenngow/2020/11/09/how-ai-can-go-terribly-wrong-5-biases-that-create-failure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9d9464fce16b409e59440f%2F0x0.jpg",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2020/11/09/how-ai-can-go-terribly-wrong-5-biases-that-create-failure/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2020/11/09/how-ai-can-go-terribly-wrong-5-biases-that-create-failure/amp/",
+      "publishedDateTime": "2020-11-09T03:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-review-google-cloud-ai-lights-up-machine-learning.md",
+      "title": "Review: Google Cloud AI lights up machine learning",
+      "excerpt": "Google Cloud AI and Machine Learning Platform is missing some pieces, and much is still in beta, but its scope and quality are second to none.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3586836/review-google-cloud-ai-lights-up-machine-learning.html",
+      "originalUrl": "https://www.infoworld.com/article/3586836/review-google-cloud-ai-lights-up-machine-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/11/google-cloud-ai-platform-06-sm-100865429-medium.jpg",
+          "width": 300,
+          "height": 364,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3586836/review-google-cloud-ai-lights-up-machine-learning.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3586836/review-google-cloud-ai-lights-up-machine-learning.amp.html",
+      "publishedDateTime": "2020-11-09T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-11-09-face-for-sale-leaks-and-lawsuits-blight-russia-facial-recognition.md",
       "title": "Face for sale: Leaks and lawsuits blight Russia facial recognition",
       "excerpt": "When Anna Kuznetsova saw an ad offering access to Moscow's face recognition cameras, all she had to do was pay 16,000 roubles ($200) and send a photo of the person she wanted spying on.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-russia-privacy-lawsuit-feature-trfn-idUSKBN27P10U",
-      "originalUrl": "https://www.reuters.com/article/us-russia-privacy-lawsuit-feature-trfn-idUSKBN27P10U",
+      "webUrl": "https://www.reuters.com/article/russia-privacy-lawsuit/feature-face-for-sale-leaks-and-lawsuits-blight-russia-facial-recognition-idUSL8N2HQ44M",
+      "originalUrl": "https://www.reuters.com/article/russia-privacy-lawsuit/feature-face-for-sale-leaks-and-lawsuits-blight-russia-facial-recognition-idUSL8N2HQ44M",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -49,8 +300,8 @@
       "title": "Tiny chip company takes on Intel, Arm with 'swiss-army knife' of AI processors",
       "excerpt": "The chip, christened Mozart, isn’t the first chip specially designed to handle AI workloads. However, SMI claims that unlike others that are designed for specific workloads, Mozart can adapt to a wide variety of AI workloads on the fly.",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/nz/news/tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors",
-      "originalUrl": "https://www.techradar.com/nz/news/tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors",
+      "webUrl": "https://www.techradar.com/in/news/tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors",
+      "originalUrl": "https://www.techradar.com/in/news/tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors",
       "featuredContent": null,
       "highlight": null,
       "heat": 100,
@@ -67,8 +318,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors",
       "publishedDateTime": "2020-11-09T02:23:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -991,253 +1242,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-ai-weekly-the-election.md",
-      "title": "AI Weekly: The election",
-      "excerpt": "Despite fears of hacking, deepfakes, bots, and more, tech wasn't the focus of the 2020 U.S. presidential election.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/06/ai-weekly-the-election/",
-      "originalUrl": "https://venturebeat.com/2020/11/06/ai-weekly-the-election/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/election.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/06/ai-weekly-the-election/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/06/ai-weekly-the-election/amp/",
-      "publishedDateTime": "2020-11-06T15:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-am-meets-ai-how-markforged-connects-industrial-3d-printers-for-smarter-manufacturing.md",
-      "title": "AM Meets AI: How Markforged Connects Industrial 3D Printers For Smarter Manufacturing",
-      "excerpt": "Markforged is introducing the Digital Forge, a cloud-based platform connecting 3D printers for industrial-scale smart production.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sarahgoehrke/2020/11/05/am-meets-ai-how-the-digital-forge-connects-industrial-3d-printers-for-smarter-manufacturing/",
-      "originalUrl": "https://www.forbes.com/sites/sarahgoehrke/2020/11/05/am-meets-ai-how-the-digital-forge-connects-industrial-3d-printers-for-smarter-manufacturing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa30f26440fa232906e564b%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sarahgoehrke/2020/11/05/am-meets-ai-how-the-digital-forge-connects-industrial-3d-printers-for-smarter-manufacturing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sarahgoehrke/2020/11/05/am-meets-ai-how-the-digital-forge-connects-industrial-3d-printers-for-smarter-manufacturing/amp/",
-      "publishedDateTime": "2020-11-06T12:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-toyota-backed-startup-ponyai-raises-267-million-in-latest-fundraising.md",
-      "title": "Toyota-backed startup Pony.ai raises $267 million in latest fundraising",
-      "excerpt": "Pony.ai, backed by Toyota Motor Corp, said on Friday it has raised $267 million in the initial phase of its fundraising round that values the self-driving startup at $5.3 billion, as it seeks to boost",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.pe.ca/business/reuters/toyota-backed-startup-ponyai-raises-267-million-in-new-funding-round-517485/",
-      "originalUrl": "https://www.theguardian.pe.ca/business/reuters/toyota-backed-startup-ponyai-raises-267-million-in-new-funding-round-517485/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theguardian.pe.ca/media/photologue/photos/cache/toyota-backed-startup-ponyai-raises-267-million-in-new-funding-round_medium",
-          "width": 458,
-          "height": 305,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-06T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.pe.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-meet-the-ai-generated-bipartisan-president-of-the-us.md",
-      "title": "Meet the AI-generated bipartisan president of the US",
-      "excerpt": "A Dutch artist known as Most used AI to create a range of unifying political slogans and then fused them with a morph of Trump's and Biden's faces.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/11/06/meet-the-ai-generated-bipartisan-president-of-the-us/",
-      "originalUrl": "https://thenextweb.com/neural/2020/11/06/meet-the-ai-generated-bipartisan-president-of-the-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/Untitled-design-2020-11-06T180810.587-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/11/06/meet-the-ai-generated-bipartisan-president-of-the-us/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/06/meet-the-ai-generated-bipartisan-president-of-the-us/amp/",
-      "publishedDateTime": "2020-11-06T11:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-bringing-your-own-custom-container-image-to-amazon-sagemaker-studio-notebooks.md",
-      "title": "Bringing your own custom container image to Amazon SageMaker Studio notebooks",
-      "excerpt": "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). SageMaker Studio lets data scientists spin up Studio notebooks to explore data, build models, launch Amazon SageMaker training jobs, and deploy hosted endpoints. Studio notebooks come with a",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bringing-your-own-custom-container-image-to-amazon-sagemaker-studio-notebooks/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bringing-your-own-custom-container-image-to-amazon-sagemaker-studio-notebooks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/03/Amazon-SageMaker-Studio-notebooks-2.jpg",
-          "width": 800,
-          "height": 406,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-06T10:17:10-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

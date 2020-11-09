@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-29-deep-learning-market-2020-global-report-explores-covid-19-impact-trend-segmentation-and-opportunities-forecast-to-2026.md",
+      "title": "Deep Learning Market 2020 Global report explores COVID-19 impact, trend, segmentation and opportunities, forecast to 2026",
+      "excerpt": "Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2020-global-report-explores-covid-19-impact-trend-segmentation-and-opportunities-forecast-to-2026-2020-10-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2020-global-report-explores-covid-19-impact-trend-segmentation-and-opportunities-forecast-to-2026-2020-10-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T20:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-emerging-technologies-that-will-advance-the-retail-industry.md",
       "title": "Emerging technologies that will advance the retail industry",
       "excerpt": "Services include natural language processing (NLP), sentiment analysis, image recognition and autoML model creation. Companies that began their digital transformations early in the pandemic are ...",
@@ -1274,41 +1326,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-22-data-reply-achieves-aws-machine-learning-competency-status.md",
-      "title": "Data Reply Achieves AWS Machine Learning Competency Status",
-      "excerpt": "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/10/b18008856/data-reply-achieves-aws-machine-learning-competency-status",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/b18008856/data-reply-achieves-aws-machine-learning-competency-status",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18008856",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18008856",
-      "publishedDateTime": "2020-10-22T01:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2020-10-22-udacity-and-microsoft-launch-ml-engineer-on-azure-course.md",
       "title": "Udacity and Microsoft Launch ML Engineer on Azure Course",
       "excerpt": "Krystian Rybarczyk looks into coroutines and sees how they facilitate asynchronous programming, discussing flows and how they make writing reactive code simpler. In this podcast, Alois Reitbauer ...",
@@ -1353,45 +1370,27 @@
       ]
     },
     {
-      "path": "_news/2020-10-22-the-2020-data-and-ai-landscape.md",
-      "title": "The 2020 data and AI landscape",
-      "excerpt": "Datarobot acquired Paxata, which enables it to cover the data prep phase of the data lifecycle, expanding from its core autoML roots. A few years into the resurgence of ML/AI as a major enterprise ...",
+      "path": "_news/2020-10-22-data-reply-achieves-aws-machine-learning-competency-status.md",
+      "title": "Data Reply Achieves AWS Machine Learning Competency Status",
+      "excerpt": "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/",
-      "originalUrl": "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/10/b18008856/data-reply-achieves-aws-machine-learning-competency-status",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/b18008856/data-reply-achieves-aws-machine-learning-competency-status",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/data_AI_landscape.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/amp/",
-      "publishedDateTime": "2020-10-21T16:13:00-07:00",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18008856",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18008856",
+      "publishedDateTime": "2020-10-21T20:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1400,9 +1399,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AWS AI",
         "AI",
-        "Facebook AI"
+        "Machine Learning"
       ]
     }
   ],

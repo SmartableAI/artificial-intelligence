@@ -2,6 +2,291 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2020-10-07-robot-reapers-and-ai-just-another-day-on-the-farm.md",
+      "title": "Robot reapers and AI: Just another day on the farm",
+      "excerpt": "Technology is now enabling farmers to manage each section of the farm based on its unique conditions and needs. A good example of this in action is the spraying of herbicides, which had traditionally been done at the same rate across the whole field.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/robot-reapers-and-ai-just-another-day-on-the-farm/",
+      "originalUrl": "https://www.zdnet.com/article/robot-reapers-and-ai-just-another-day-on-the-farm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robot-reapers-and-ai-just-another-day-on-the-farm/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robot-reapers-and-ai-just-another-day-on-the-farm/",
+      "publishedDateTime": "2020-10-07T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-cig-capitals-charles-d-carey-on-the-lending-based-revolution-of-project-finance-fintech-magazine.md",
+      "title": "CIG Capital's Charles D. Carey on the lending-based revolution of project finance || FinTech Magazine",
+      "excerpt": "The financial services landscape is changing rapidly, and, in these turbulent times, investment companies can be inclined to focus solely",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/cig-capitals-charles-d-carey-on-the-lending-based-revolution-of-project-finance--fintech-magazine-301146927.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/cig-capitals-charles-d-carey-on-the-lending-based-revolution-of-project-finance--fintech-magazine-301146927.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-07T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-these-are-the-3-biggest-bargains-in-biotech.md",
+      "title": "These Are the 3 Biggest Bargains in Biotech",
+      "excerpt": "Since the March 23 low, investors have taken a particular liking to the technology sector, with cloud computing, cybersecurity, and artificial intelligence stocks rocketing ... as a monotherapy or combination therapy. Even a handful of these clinical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/10/07/these-are-the-3-biggest-bargains-in-biotech/",
+      "originalUrl": "https://www.fool.com/investing/2020/10/07/these-are-the-3-biggest-bargains-in-biotech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F594012%2Fstethoscope-over-money-healthcare-costs-obamacare-getty.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 803,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/07/these-are-the-3-biggest-bargains-in-biotech/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/07/these-are-the-3-biggest-bargains-in-biotech/",
+      "publishedDateTime": "2020-10-07T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-how-ai-is-transforming-the-future-of-sales.md",
+      "title": "How AI Is Transforming The Future Of Sales",
+      "excerpt": "Highly optimized sales processes backed by AI and machine learning technology aren't a wishful future; they are already here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-transforming-the-future-of-sales/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-transforming-the-future-of-sales/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee8c0a4bcc30e0006c1d9f4%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-transforming-the-future-of-sales/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/07/how-ai-is-transforming-the-future-of-sales/amp/",
+      "publishedDateTime": "2020-10-07T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry.md",
+      "title": "Artificial intelligence and machine learning: A new blueprint for the fintech industry",
+      "excerpt": "There is no doubt that artificial intelligence (AI) and machine learning (ML) is becoming a hot topic within the fintech industry. At almost every seminar and conference, we are hearing about the rise of these emerging technologies and the potential they have to disrupt businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itproportal.com/features/artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry/",
+      "originalUrl": "https://www.itproportal.com/features/artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ADy2QfDipAoaDjWjQ4zRq-1200-80.jpg",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itproportal.com/amp/features/artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry/",
+      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry/",
+      "publishedDateTime": "2020-10-07T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro Portal",
+        "domain": "itproportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-facial-recognition-at-the-border-is-fueling-other-forms-of-surveillance-report-says.md",
+      "title": "Facial Recognition at the Border Is Fueling Other Forms of Surveillance, Report Says",
+      "excerpt": "Facial recognition images taken at border crossings can be repurposed by government agencies and private companies, threatening human rights, the report warns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/889zj3/facial-recognition-at-the-border-is-fueling-other-forms-of-surveillance-report-says",
+      "originalUrl": "https://www.vice.com/en/article/889zj3/facial-recognition-at-the-border-is-fueling-other-forms-of-surveillance-report-says",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com//articles/5f7ccce51afc9200936c4579/lede/1602014744178-gettyimages-925054772.jpeg?crop=1xw:0.818xh;0xw,0.0296xh",
+          "width": 3000,
+          "height": 1685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en_us/article/889zj3/facial-recognition-at-the-border-is-fueling-other-forms-of-surveillance-report-says",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/889zj3/facial-recognition-at-the-border-is-fueling-other-forms-of-surveillance-report-says",
+      "publishedDateTime": "2020-10-07T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-dexterous-robots-are-coming-to-the-us-air-force.md",
       "title": "Dexterous robots are coming to the US Air Force",
       "excerpt": "The military branch has awarded a contract to a robotics firm to develop artificial intelligence-based dexterous robots.",
@@ -890,309 +1175,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-this-ai-tool-for-diagnosing-autism-could-hit-the-market-in-the-second-half-of-2021.md",
-      "title": "This AI Tool For Diagnosing Autism Could Hit The Market ‘In The Second Half Of 2021’",
-      "excerpt": "Cognoa, which has raised $60 million, is part of a growing market as insurers are increasingly required to cover autism products and services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/graisondangor/2020/10/06/this-ai-tool-for-diagnosing-autism-could-hit-the-market-in-the-second-half-of-2021/",
-      "originalUrl": "https://www.forbes.com/sites/graisondangor/2020/10/06/this-ai-tool-for-diagnosing-autism-could-hit-the-market-in-the-second-half-of-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7c8fe4926e2d301207488b%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/graisondangor/2020/10/06/this-ai-tool-for-diagnosing-autism-could-hit-the-market-in-the-second-half-of-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/graisondangor/2020/10/06/this-ai-tool-for-diagnosing-autism-could-hit-the-market-in-the-second-half-of-2021/amp/",
-      "publishedDateTime": "2020-10-06T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-this-startup-has-a-plan-to-build-the-missing-link-for-self-driving-cars.md",
-      "title": "This Startup Has A Plan To Build The Missing Link For Self-Driving Cars",
-      "excerpt": "These robust, solid-state sensors are one of many essential components auto manufacturers need before they unleash self-driving vehicles on the market. While they’re not the only variable of the autonomous vehicle equation that needs to be solved,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lianeyvkoff/2020/10/06/this-startup-has-a-plan-to-build-the-missing-link-for-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lianeyvkoff/2020/10/06/this-startup-has-a-plan-to-build-the-missing-link-for-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f56f7ca3aeac44f89cd6817%2F0x0.jpg",
-          "width": 1200,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lianeyvkoff/2020/10/06/this-startup-has-a-plan-to-build-the-missing-link-for-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lianeyvkoff/2020/10/06/this-startup-has-a-plan-to-build-the-missing-link-for-self-driving-cars/amp/",
-      "publishedDateTime": "2020-10-06T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-this-eu-funded-ai-rates-how-hideous-your-face-is-for-societys-sake.md",
-      "title": "This EU-funded AI rates how hideous your face is — for society’s sake",
-      "excerpt": "an EU-funded project that explores how AI impacts ethics and human rights. [Read: Amsterdam and Helsinki become first cities to launch AI registers explaining how they use algorithms] The site ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/10/06/this-eu-funded-ai-rates-how-hideous-your-face-is-for-societys-sake/",
-      "originalUrl": "https://thenextweb.com/neural/2020/10/06/this-eu-funded-ai-rates-how-hideous-your-face-is-for-societys-sake/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-06T122203.810-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/10/06/this-eu-funded-ai-rates-how-hideous-your-face-is-for-societys-sake/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/06/this-eu-funded-ai-rates-how-hideous-your-face-is-for-societys-sake/amp/",
-      "publishedDateTime": "2020-10-06T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-ai-researchers-challenge-a-robot-to-ride-a-skateboard-in-simulation.md",
-      "title": "AI researchers challenge a robot to ride a skateboard in simulation",
-      "excerpt": "Nvidia AI researchers say they created a more energy efficient and effective way to make four-legged robots walk.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/06/ai-researchers-challenge-a-robot-to-ride-a-skateboard-in-simulation/",
-      "originalUrl": "https://venturebeat.com/2020/10/06/ai-researchers-challenge-a-robot-to-ride-a-skateboard-in-simulation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/maxresdefault-1.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/06/ai-researchers-challenge-a-robot-to-ride-a-skateboard-in-simulation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/06/ai-researchers-challenge-a-robot-to-ride-a-skateboard-in-simulation/amp/",
-      "publishedDateTime": "2020-10-06T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-fintech-in-asia-is-about-to-look-a-lot-more-chinese-but-its-not-who-you-think.md",
-      "title": "Fintech In Asia Is About To Look A Lot More Chinese, But It’s Not Who You Think",
-      "excerpt": "Nowhere in the world has fintech had more of an impact than in mainland China. From making a payment on a phone to borrowing money, hundreds of millions of Chinese individuals and businesses have turned to digital apps to handle their day to day finances.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/zennonkapron/2020/10/06/fintech-in-asia-is-about-to-look-a-lot-more-chinese-but-its-not-who-you-think/",
-      "originalUrl": "https://www.forbes.com/sites/zennonkapron/2020/10/06/fintech-in-asia-is-about-to-look-a-lot-more-chinese-but-its-not-who-you-think/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7c7d273c98dee7a40a3b21%2F0x0.jpg",
-          "width": 1199,
-          "height": 821,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/zennonkapron/2020/10/06/fintech-in-asia-is-about-to-look-a-lot-more-chinese-but-its-not-who-you-think/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zennonkapron/2020/10/06/fintech-in-asia-is-about-to-look-a-lot-more-chinese-but-its-not-who-you-think/amp/",
-      "publishedDateTime": "2020-10-06T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-raise-2020-meet-the-winners-of-indias-biggest-ai-solution-challenge-for-indian-startups.md",
-      "title": "RAISE 2020: Meet the winners of India’s biggest AI Solution Challenge for Indian startups",
-      "excerpt": "Winners of the government-organised AI Solution Challenge showcased their solutions in the AI Startup Pitchfest today. The 21 startups (15 winners and six special mentions) that have been ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2020/10/raise2020-meet-winners-ai-solution-challenge-indian-startups",
-      "originalUrl": "https://yourstory.com/2020/10/raise2020-meet-winners-ai-solution-challenge-indian-startups",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/Untitleddesign10-1601920117328.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2020/10/raise2020-meet-winners-ai-solution-challenge-indian-startups/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/10/raise2020-meet-winners-ai-solution-challenge-indian-startups/amp",
-      "publishedDateTime": "2020-10-06T07:01:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

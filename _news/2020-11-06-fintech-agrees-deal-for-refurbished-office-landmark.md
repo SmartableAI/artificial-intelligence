@@ -88,6 +88,15 @@ related:
         width: 660
         height: 371
         isCached: true
+  - title: "AMTD’s Singapore Solidarity Fund invests $6.4m in 5 fintech startups in its first batch"
+    excerpt: "The evaluation process for a second batch of investments – which aims to support Singapore’s fintech community – is already underway."
+    publishedDateTime: 2020-11-09T11:18:00Z
+    webUrl: "https://www.techinasia.com/amtd-singapore-solidarity-invests-64m-5-fintech-startups-first-batch"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 26
   - title: "LexinFintech Unveils Strategy to Further Tap Chinese Consumer Market at Hong Kong Fintech Week 2020"
     excerpt: "(GLOBE NEWSWIRE) -- “LexinFintech Holdings Ltd. (“Lexin” or the “Company”) (NASDAQ: LX), a leading online consumption and consumer finance platform for educated young professionals in China, is gearing up to expand its product offerings to tap the rising consumption demand of China’s new generation,"
     publishedDateTime: 2020-11-06T07:50:00Z

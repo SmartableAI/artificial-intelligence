@@ -2,6 +2,102 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-25-vietnam-ai-platform-rules-language-programming-contest-in-japan.md",
+      "title": "Vietnam AI platform rules language programming contest in Japan",
+      "excerpt": "Vietnam's artificial intelligence platform FPT.AI ranked first at SHINRA2020-ML, a contest to classify 30 Wikipedia language entities in fine-grained categories, in Japan.",
+      "sourceUrl": null,
+      "webUrl": "https://e.vnexpress.net/news/news/vietnam-ai-platform-rules-language-programming-contest-in-japan-4167219.html",
+      "originalUrl": "https://e.vnexpress.net/news/news/vietnam-ai-platform-rules-language-programming-contest-in-japan-4167219.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-english.vnecdn.net/2020/09/25/Untitled118-1601018890-4769-1601019122_680x0.jpg",
+          "width": 680,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ampe.vnexpress.net/news/news/vietnam-ai-platform-rules-language-programming-contest-in-japan-4167219.html",
+      "cdnAmpWebUrl": "https://ampe-vnexpress-net.cdn.ampproject.org/c/s/ampe.vnexpress.net/news/news/vietnam-ai-platform-rules-language-programming-contest-in-japan-4167219.html",
+      "publishedDateTime": "2020-09-25T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VN Express",
+        "domain": "vnexpress.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-staying-compliant-in-any-language.md",
+      "title": "Staying compliant in any language",
+      "excerpt": "Financial professionals communicate in multiple languages –– including with slang and emojis, and firms need to remain compliant.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/professional/blog/staying-compliant-in-any-language/",
+      "originalUrl": "https://www.bloomberg.com/professional/blog/staying-compliant-in-any-language/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bbhub.io/professional/sites/10/364516538-e1601022466247.jpg",
+          "width": 1600,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-25T05:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-deep-learning-courses-for-nlp-market.md",
       "title": "Deep Learning Courses for NLP Market",
       "excerpt": "New York, United States - The Deep Learning Courses for NLP Market has developed swiftly in recent years and has made a significant contribution to the global financial situation in terms of ...",

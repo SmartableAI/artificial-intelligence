@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-09-review-google-cloud-ai-lights-up-machine-learning.md",
+      "title": "Review: Google Cloud AI lights up machine learning",
+      "excerpt": "Google Cloud AI and Machine Learning Platform is missing some pieces, and much is still in beta, but its scope and quality are second to none.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3586836/review-google-cloud-ai-lights-up-machine-learning.html",
+      "originalUrl": "https://www.infoworld.com/article/3586836/review-google-cloud-ai-lights-up-machine-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/11/google-cloud-ai-platform-06-sm-100865429-medium.jpg",
+          "width": 300,
+          "height": 364,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3586836/review-google-cloud-ai-lights-up-machine-learning.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3586836/review-google-cloud-ai-lights-up-machine-learning.amp.html",
+      "publishedDateTime": "2020-11-09T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-11-09-ai-can-drive-ethical-investment-only-if-we-grasp-the-messy-reality.md",
       "title": "AI can drive ethical investment only if we grasp the messy reality",
       "excerpt": "We also need to look at the ethical “fingerprint” of organisations we are considering investing in, and not simply tag them as ESG or not ESG, or lump them together in groups based on an arbitrary cut-off point on a scale.",
@@ -1370,59 +1423,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-this-eu-funded-ai-rates-how-hideous-your-face-is-for-societys-sake.md",
-      "title": "This EU-funded AI rates how hideous your face is — for society’s sake",
-      "excerpt": "an EU-funded project that explores how AI impacts ethics and human rights. [Read: Amsterdam and Helsinki become first cities to launch AI registers explaining how they use algorithms] The site ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/10/06/this-eu-funded-ai-rates-how-hideous-your-face-is-for-societys-sake/",
-      "originalUrl": "https://thenextweb.com/neural/2020/10/06/this-eu-funded-ai-rates-how-hideous-your-face-is-for-societys-sake/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-06T122203.810-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/10/06/this-eu-funded-ai-rates-how-hideous-your-face-is-for-societys-sake/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/06/this-eu-funded-ai-rates-how-hideous-your-face-is-for-societys-sake/amp/",
-      "publishedDateTime": "2020-10-06T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],
