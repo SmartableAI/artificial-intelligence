@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "appannie"
   url: "https://twitter.com/appannie"
-  followers: 51407
+  followers: 51440
 
 locations:
   - San Francisco, CA
