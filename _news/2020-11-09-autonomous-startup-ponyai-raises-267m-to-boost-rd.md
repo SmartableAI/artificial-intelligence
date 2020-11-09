@@ -43,18 +43,20 @@ related:
         height: 305
         isCached: true
   - title: "Toyota-backed startup Pony.ai raises $267 million in latest fundraising"
-    excerpt: "James Peng, Chief Executive Office (CEO) of autonomous driving technology startup Pony.ai, speaks at a product event during the third China International Import Expo (CIIE) in Shanghai, China November"
+    excerpt: "Pony.ai, backed by Toyota Motor Corp, said on Friday it has raised $267 million in the initial phase of its fundraising round that values the self-driving startup at $5.3 billion, as it seeks to boost its presence in the United States and China."
     publishedDateTime: 2020-11-06T12:54:00Z
-    webUrl: "https://www.reuters.com/news/picture/toyota-backed-startup-ponyai-raises-267-idUSKBN27M0QW"
+    webUrl: "https://www.reuters.com/article/us-pony-ai-autonomous-idUSKBN27M0QW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0QW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0QW"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 67
+    quality: 87
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540226295&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEGA50IE"
-        width: 810
-        height: 543
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540226295&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA50IE"
+        width: 811
+        height: 545
         isCached: true
   - title: "Toyota-backed startup Pony.ai raises $267 mln in latest fundraising"
     excerpt: "Pony.ai, backed by Toyota Motor Corp 7203.T, said on Friday it has raised $267 million in the initial phase of its fundraising round that values the self-driving startup at $5.3 billion, as it seeks to boost its presence in the United States and China."
@@ -68,6 +70,6 @@ related:
       domain: nasdaq.com
     quality: 67
 
-secured: "FSW5ysrFLqXI3FEVdxxu4GNhOuyfArfPavHjnzXn32BlaetAw6AeiCzUUP55Orm36bfMEJhNgKWJAjSk3kz+o5Ejy3Xp86u4iyc8NWmFrjDH4aEX5xIDWyNfqcRXJtrbpw6EhJpO5RcrzqUkyj/XPTZ7NiTjqDavMYPQcNlBi7b1nwPDtNlB3HK6IuZZ6xuDCcK4Ey+vram8Tl8ZqVqJHD9GLvblE3pORYQqj/SDul4v68kVluX+cdHpjt3+c0JDu0CmKHTEqWBep68SyVKvbAx0AdU/XZ5D1C1F8KNJGkKa60ZjvrPlhSrMAsyt5Xi2Tt58BT/P+D56TfEunxxgTCEraAScXwgX8dFVLwqJC/k=;s6kt54zfbFJgkE8RpXB9KQ=="
+secured: "G4E93f4bVgt72hG9z3pIDoPRNTr7DmbtdfHZRU0b4lXkS5SvYTUR5zHFsxzT+L0x9nFq8+dFt17MliYKSlJ/PyWY5ltpUBvPLCY3lGUvkDhsawcnekHv3tgRp2wpOUD69oOKDu5QhqctpJO4Ww1r3QofayUeDi8L64E4INYIZbgxm9uE43QmcWqOatntXruzQU4HCHNtWAz0nlb+WnF+pngrPjW96sGvuQf4b1ARqerDV41URDNEPiaDBA24Thz8GJXmTJY0Dzs2d6G2VYgeut7cBnhEHsaAwvTtmu43/Z96u3pFd8nKepiL2O6jeDRhqi3H4F+fOomGbP+CmhQrkINbgRINvwsuss8FjdGlTioJYJtMRQQ7pMOQASTlIY6UJ7vFTr9V8gZ1I8q3wrnO2VVdDD2NpL4K+WNZepWQfNlbN8XJYsXxEorTVD3eASLhsXe24pX8gz0SunPSTUwU5jgQ6Tk26R1GuhEGfndK9x+QphTChtH4ktMeTNqDckE7hMsNH5vaQNucqDPa9ISLLw==;czYBHir8S9xeVUQqbQHoEA=="
 ---
 

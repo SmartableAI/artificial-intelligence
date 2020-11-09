@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.miamiherald.com/news/coronavirus/article247000912.html"
 cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/coronavirus/article247000912.html"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: Miami Herald
@@ -42,6 +42,15 @@ related:
         width: 1280
         height: 623
         isCached: true
+  - title: "COVID Advances Missing Middle of AI Projects"
+    excerpt: "The Federal government is responsible for maintaining some very mature artificial intelligence (AI) models and many agencies are exploring AI pilot projects, with few projects in-between – but COVID has pushed agencies to advance their efforts,"
+    publishedDateTime: 2020-11-06T17:03:00Z
+    webUrl: "https://www.meritalk.com/articles/covid-advances-missing-middle-of-ai-projects/"
+    type: article
+    provider:
+      name: MeriTalk
+      domain: meritalk.com
+    quality: 19
 
 secured: "5LqKVuJrkuEEzNoJrywfGxDdHLqHzkshLWa/5UGjLNUc6wjrwtrmC1jWNsJuAw31q7Wlt79xC/UTKBWNIVXRf18+ioXYtnaBI0XPXG0aqyLyEzlKZTMQ+RnETLuJsSaAVvgJDGvCNAOz4hEgnBaKxjfln5M3USdpKPVd/l0t1EfXlDjk82iCbDoTxAtX0eOclQ2B6SqdHPy/6e6QyhNGJTKOKdJUJFF0wxqHTd1QuAhO0TZOmwAzEPQP5h7qSVjd9CDsHLhUI6ITGZX5S6EicI08dXayB9LyzJXrRuyrLUKqUVsC07oX/wPOpI4eJ9Eerpo+FsGI3lSd1k1ekOdnL5zLnIX9uodeFe7zXREmvRx8avplDygfbULD3YId/51tjb8loVlvCk8NWqCaqWhAypIN/jUo7eThAIAm6E2V7csWvWB5C1gnTMrk+8ijuM0TnbOfpbXCvlcGjP/9oiZBcNhj29yVrNoADqg8vx8spgFe2JewagfEcac0uXmSS5H8hMd/jSb41gfT3nkU6oIcMQ==;Hqtj94uacCwgmT4FC/OQPg=="
 ---

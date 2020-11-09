@@ -19,65 +19,37 @@ topics:
   - AI
 
 related:
-  - title: "Covid-19 Has Accelerated Digital Transformation — With AI Playing A Key Role"
-    excerpt: "We're witnessing out-of-the-box thinking and once-in-a-lifetime risk-taking that's giving birth to fantastic innovations and great changes."
-    publishedDateTime: 2020-11-04T12:53:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/11/04/covid-19-has-accelerated-digital-transformation---with-ai-playing-a-key-role/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/11/04/covid-19-has-accelerated-digital-transformation---with-ai-playing-a-key-role/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/04/covid-19-has-accelerated-digital-transformation---with-ai-playing-a-key-role/amp/"
+  - title: "Artificial intelligence can detect asymptomatic COVID-19 coughs, MIT says. Here’s how"
+    excerpt: "Researchers say the AI could help prevent asymptomatic individuals from unknowingly spreading the virus to others."
+    publishedDateTime: 2020-11-05T22:14:00Z
+    webUrl: "https://www.miamiherald.com/news/coronavirus/article247000912.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/coronavirus/article247000912.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/coronavirus/article247000912.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 50
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3bdea7cf036822a957572d%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998027001/6dbb1e03-d75b-4843-808d-d33469ba86b9/b6e3392c-4dec-46dc-b78f-ab267f2c02b7/1280x720/match/image.jpg"
+        width: 1280
+        height: 623
         isCached: true
-  - title: "Scientists created a new AI system that can detect COVID-19 in your cough"
-    excerpt: "Researchers at the Massachusetts Institute of Technology have created a new artificial intelligence system that could identify the novel coronavirus in someone’s cough. The researchers released their findings in a new paper published in the IEEE Journal of Engineering in Medicine and Biology."
-    publishedDateTime: 2020-11-04T18:47:00Z
-    webUrl: "https://www.deseret.com/u-s-world/2020/11/4/21547607/coronavirus-mit-ai-covid-19-cough-detect"
-    ampWebUrl: "https://www.deseret.com/platform/amp/u-s-world/2020/11/4/21547607/coronavirus-mit-ai-covid-19-cough-detect"
-    cdnAmpWebUrl: "https://www-deseret-com.cdn.ampproject.org/c/s/www.deseret.com/platform/amp/u-s-world/2020/11/4/21547607/coronavirus-mit-ai-covid-19-cough-detect"
+  - title: "Artificial intelligence can detect asymptomatic COVID-19 coughs, MIT says. Here’s how | Charlotte Observer"
+    excerpt: "Researchers say the AI could help prevent asymptomatic individuals from unknowingly spreading the virus to others."
+    publishedDateTime: 2020-11-06T00:04:00Z
+    webUrl: "https://www.charlotteobserver.com/news/coronavirus/article247000912.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/coronavirus/article247000912.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/coronavirus/article247000912.html"
     type: article
     provider:
-      name: deseret
-      domain: deseret.com
-    quality: 58
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/dDCp4NHDYvB0BmToGJy_f8F43ok=/0x0:1350x900/1400x1050/filters:focal(567x342:783x558):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67737901/MIT_Cough_Recordings_01_PRESS.0.jpg"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "Using AI to Track the COVID-19 Pandemic’s Impact on Mental Health"
-    excerpt: "Textual analysis of social media posts finds users’ anxiety and suicide-risk levels are rising, among other negative trends. Dealing with a global pandemic has taken a toll on the mental health of millions of people."
-    publishedDateTime: 2020-11-05T10:30:00Z
-    webUrl: "https://scitechdaily.com/using-ai-to-track-the-covid-19-pandemics-impact-on-mental-health/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
+      name: Charlotte Observer
+      domain: charlotteobserver.com
     quality: 39
     images:
-      - url: "https://scitechdaily.com/images/COVID-19-Machine-Learning-Mental-Health.jpg"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "How Artificial Intelligence Is Changing The Fitness Industry During COVID-19"
-    excerpt: "The fitness industry is undergoing a major transformation through a massive deployment of IoT applications and innovative artificial intelligence (AI) product offerings. The research firm Reports and Data predicts that the annual revenues for the fitness app market will reach $14."
-    publishedDateTime: 2020-11-04T20:56:00Z
-    webUrl: "https://customerthink.com/how-artificial-intelligence-is-changing-the-fitness-industry-during-covid-19/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 34
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/25726786_s.jpg"
-        width: 445
-        height: 450
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998027001/6dbb1e03-d75b-4843-808d-d33469ba86b9/b6e3392c-4dec-46dc-b78f-ab267f2c02b7/1280x720/match/image.jpg"
+        width: 1280
+        height: 623
         isCached: true
 
 secured: "5Bm3QK/H07vojP0qyY42fVWoEBcaaaaKIOQbxhPfOqD/ZaQzV89FiYqs+7LlObfNpsGeRB7T/S8UJmVIWS67Kgb4uMyGBKuEEHrYhvOobg0E8SVS6vANKrAe86zGfUFKgUW7YXGGn7EZCqK8CejdSm/QKiX/QxHBNqs0E2/lC+Rq8Qzy8AqTINFLviBLwArvMdx3B8SVfHL62NjWJ8yB0oiQT2TGtWt3+qUI5Qj3WYeWwKMnkfEfVg3bgW1Q6K+UXhSoir/npf2Y38ixShg34S0XjVnsIQD37sPygrpyliDg9pELyTg1+rQRhdzw6JBwXt4q+ZyTDYGncKl8+qU9JaUNdpGjU/0RI+o5dhO4n1g=;VRWW90UNFQ+XNHeotko/9Q=="

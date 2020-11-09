@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Former Walmart Exec’s Company Uses AI To Battle Billions In Spoiled Produce"
-    excerpt: "More than $15 billion in produce shipments to food stores is wasted or rejected each year. But a former Walmart shipping executive has started a company to help reduce those losses by using technology to streamline the process."
-    publishedDateTime: 2020-11-04T11:09:00Z
-    webUrl: "https://www.forbes.com/sites/edgarsten/2020/11/04/former-walmart-execs-company-uses-ai-to-battle-billions-in-spoiled-produce/"
-    ampWebUrl: "https://www.forbes.com/sites/edgarsten/2020/11/04/former-walmart-execs-company-uses-ai-to-battle-billions-in-spoiled-produce/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2020/11/04/former-walmart-execs-company-uses-ai-to-battle-billions-in-spoiled-produce/amp/"
+  - title: "Walmart Ditches Major Robot Contract: So What Does This Mean For The Industry?"
+    excerpt: "Walmart has been investing heavily in robots, such as for cleaning floors. But the company’s efforts have not been without their challenges. This week Walmart terminated its engagement with Bossa Nova Robotics,"
+    publishedDateTime: 2020-11-08T18:45:00Z
+    webUrl: "https://www.forbes.com/sites/tomtaulli/2020/11/08/walmart-ditches-major-robot-contract-so-what-does-this-mean-for-the-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2020/11/08/walmart-ditches-major-robot-contract-so-what-does-this-mean-for-the-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/11/08/walmart-ditches-major-robot-contract-so-what-does-this-mean-for-the-industry/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 85
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa1c0201d9ca8ef5c8c890e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D107%26cropY2%3D2359"
-        width: 1200
-        height: 676
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa836f4ea89321072f85ba8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D416%26cropY2%3D2667"
+        width: 1199
+        height: 675
         isCached: true
 
 secured: "sl6Ter0kaWkvid5TSUrF84AAaSaoopWv/y3mrx/XW542Y0IBG+734V/LcOJDP1uODnQ4464iYeVOAA9EnX5YLiUHo+clywvEmE75JL9lJBAsj6tpwzTs20/BI97gqvj4UcL8gGlFp1E2uZPZfR9GpKqiaoKfgoLe2u1Xk0hTy2yUQesN9WEdULwQTx6EjOJCVPiTCQUgvZQUgwQ9G3b0as6R3U31WgN+nYdPHTnvS6zugBTDdTIt+DzkkjdloV3ohf4tDuAPJ+QIWy8dJXtaS04gOKkgE2wd99jAczYKChFqH2U/QjbyhYAAh2VsSQs5Prgu3wPoEI7Jy/xE1CEEfA+XdkZPPU6gcLr2JBXHVOsESK43PC7d2DQhyvbQtC4SR4BnqvlOc6Qca48wVs18aSiK0qi7SqevcKePRwlei4YSy8D7OhXwHQZhQSDDHQHMcZcvG35GzPGye8gVwDc/yMkdFU7rooqPMv+3ICtYa8D0V/EBPl6LpLubMOtFKdXlo7gx/eHrj+YvvogeqnBYdg==;rxgrc6OSmtPnnVZ/6Cpgfg=="
