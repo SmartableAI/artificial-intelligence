@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Detusche Börse leads $15 million round in Clarity AI"
-    excerpt: "Deutsche Börse has led a $15 million funding round in Clarity AI, a Spanish fintech firm that uses machine learning and big data to help investors understand the sociatel impact of their investment portfolios,"
-    publishedDateTime: 2020-11-05T01:25:00Z
-    webUrl: "https://www.finextra.com/newsarticle/36884/detusche-brse-leads-15-million-round-in-clarity-ai"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/aeb167a4e29002042d10d40ed51206ad.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Deutsche Börse leads $15 million round in Clarity AI"
     excerpt: "Deutsche Börse has led a $15 million funding round in Clarity AI, a Spanish fintech firm that uses machine learning and big data to help investors understand the sociatel impact of their investment portfolios,"
     publishedDateTime: 2020-11-05T09:46:00Z

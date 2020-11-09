@@ -42,17 +42,6 @@ related:
         width: 1024
         height: 684
         isCached: true
-  - title: "Deutsche Börse Finalizes $15 Million Round in Clarity AI, a Fintech Leveraging Machine Learning Tech"
-    excerpt: "Deutsche Börse has finalized a $15 million investment round in Clarity AI, a Fintech leveraging machine learning tech."
-    publishedDateTime: 2020-11-05T01:31:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/11/168794-deutsche-borse-finalizes-15-million-round-in-clarity-ai-a-fintech-leveraging-machine-learning-tech/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/168794-deutsche-borse-finalizes-15-million-round-in-clarity-ai-a-fintech-leveraging-machine-learning-tech/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/168794-deutsche-borse-finalizes-15-million-round-in-clarity-ai-a-fintech-leveraging-machine-learning-tech/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 41
   - title: "BankOnUs launches app to support fintech firms"
     excerpt: "BankOnUS, a leading financial services aggregator in the UAE, has launched a new generation technology-oriented app to enhance the customer engagement level and enable easy, reliable and cost-effective financial solutions to its customers."
     publishedDateTime: 2020-11-05T23:44:00Z
@@ -92,7 +81,7 @@ related:
   - title: "AMTD’s Singapore Solidarity Fund invests $6.4m in 5 fintech startups in its first batch"
     excerpt: "The evaluation process for a second batch of investments – which aims to support Singapore’s fintech community – is already underway."
     publishedDateTime: 2020-11-09T11:18:00Z
-    webUrl: "https://www.techinasia.com/amtd-singapore-solidarity-invests-64m-5-fintech-startups-first-batch"
+    webUrl: "https://www.techinasia.com/amtd-singapore-solidarity-invests-64m-5-fintech-startups-first-batch#!"
     type: article
     provider:
       name: Techinasia
@@ -145,6 +134,6 @@ related:
       domain: ibsintelligence.com
     quality: 4
 
-secured: "I8dNNhb/OZrxnTEoxN5t4lDCSuFZMW8aV6kg/4VgankviSRpcPXUZElESOEN4nkXsl2VU1DPM0+qeDDP3f/dVhJ/fPqRLGBS/rpodkALho6kyTeRF8ekxZclk4tMY7DdFSBDfq0cr9/ylyk00JmechpmKxmzQTlXBKyHwLQz0p9dgop2xMR1BaLG2ZkzB+j64mVlgPZKTyRSNx55aePThw2udTocE4k2eDRJ0OgmHhgiifiRBPDQ22bcM/hpBB+CGmV0Xo0qUYqONW3gBN5WzfWRSMTMPw3DZAhdybMup/zvtSPPK2J0Be30KVcLrviKdZdO0UsuokdD52iI3ofO8+GObQj2GQtx8Iz9l+lEl+E=;vbSMBqpUC4sLlLZblRW8FA=="
+secured: "vApifxn67bMwSLtBe/9EjHCxSiHmYZpj8rS4+dhYpnZQVvcqwrZX9GZ/WEs3rr1hr+8o3Bfiz9QRMYmK9o/YzyLGMboxKBt8cdkHFng3UtvAC02i/oisHdZzp7+xFvVbihxC9W96Y3mc2K3ZYLH5rBwJcXRk3hDD8gPOIbmpgz5cq9iYyQ702GJrfMNJRyx3f/D2YNiAGGwY04Z+FiJ2WCLxK+F7Vneyu1C1WT6KbWYjnyYBn+KKTTYDipiFMAKru7kBNF7YhE5ZvphooFsLIoFBuX6HqNLtzxF8m9ZfzQxLyd9dFyMILHOQ6yjLJT0zDjfbeEbGuYFM284uNt8U7kiIqlQrh14fmCwE/ne5ZlG3MOaivCw69HMMMcJt4XeSJZqjZdmQejQpj1+6vDS/Fbgl/XPR7McceHmtzcSBdUT/6Xq+y5tC/ncCejvJOdOBkqr6h/24E+jXLa5rGUlrijfJDq/IcXfNbJ518eEAtEp/+Avy7HaeHTZQIjvee8pJzCbBNCwMlBy5aXg5uZCv1Q==;ncJsK+QYWPIq9FQF1u0+rw=="
 ---
 

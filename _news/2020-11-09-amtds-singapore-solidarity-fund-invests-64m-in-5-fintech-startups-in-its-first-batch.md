@@ -3,8 +3,8 @@ category: news
 title: "AMTD’s Singapore Solidarity Fund invests $6.4m in 5 fintech startups in its first batch"
 excerpt: "The evaluation process for a second batch of investments – which aims to support Singapore’s fintech community – is already underway."
 publishedDateTime: 2020-11-09T11:18:00Z
-originalUrl: "https://www.techinasia.com/amtd-singapore-solidarity-invests-64m-5-fintech-startups-first-batch"
-webUrl: "https://www.techinasia.com/amtd-singapore-solidarity-invests-64m-5-fintech-startups-first-batch"
+originalUrl: "https://www.techinasia.com/amtd-singapore-solidarity-invests-64m-5-fintech-startups-first-batch#!"
+webUrl: "https://www.techinasia.com/amtd-singapore-solidarity-invests-64m-5-fintech-startups-first-batch#!"
 type: article
 quality: 26
 heat: -1
@@ -53,17 +53,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "Deutsche Börse Finalizes $15 Million Round in Clarity AI, a Fintech Leveraging Machine Learning Tech"
-    excerpt: "Deutsche Börse has finalized a $15 million investment round in Clarity AI, a Fintech leveraging machine learning tech."
-    publishedDateTime: 2020-11-05T01:31:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/11/168794-deutsche-borse-finalizes-15-million-round-in-clarity-ai-a-fintech-leveraging-machine-learning-tech/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/168794-deutsche-borse-finalizes-15-million-round-in-clarity-ai-a-fintech-leveraging-machine-learning-tech/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/168794-deutsche-borse-finalizes-15-million-round-in-clarity-ai-a-fintech-leveraging-machine-learning-tech/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 41
   - title: "BankOnUs launches app to support fintech firms"
     excerpt: "BankOnUS, a leading financial services aggregator in the UAE, has launched a new generation technology-oriented app to enhance the customer engagement level and enable easy, reliable and cost-effective financial solutions to its customers."
     publishedDateTime: 2020-11-05T23:44:00Z
@@ -147,6 +136,6 @@ related:
       domain: ibsintelligence.com
     quality: 4
 
-secured: "rNmUxBYiYkiBtzSt4i0WOY6tjca2hL7V2RkR5i1+NKiVSxaskBN8ucJiSVzvd6iJy9MAOB7BUZAk7oVdVNH1YeYYuTCefeIMs5eLycp5yK5y1UYw3qYAW4aB6obpOUkiYWMg+KYAsVJ0Q1r5QNrCvkW4YF0ca4ULXowNv4WQWegPSotWv0zGCZSoO64F2oa9cCMv0d/UhW04RWdpre71ksFalriJpJXS9kQ4mmgYMZrLDlEipXrDPNDqNf6Su3xD4X9hBdWIzytbyc24t5QM2gXDlU4RrK9XU8dgSom3Xy2j+zWfaM3rvh1RsroIgv2suYpQPx6U4wTpHy50ncjlB39xAdmR6h7ORW62+3qO+AvQoGNuyIgNQIfmRPyzgM6cUNuLmLy5UdPuCuMuuRyvrsCUrvQnMZREG3i+OMT7fNPuJpg0UrDYz+5zmrcQgo0zIk7EDOAAybrMck8GtwLR/EzUmnQpeGsWvfsuh+kD1Qjgiwonpfda6/i1E2vqPwidSyVUjtLYNCK9AZZBmZmHqQ==;6P/c4YyJk17NLY0B8POOtA=="
+secured: "iUB9TlEZNO38BUY9HvRc8KhSZCUCraIRw5+ZEKLBLfVq/W3DMUI6GeK7+WgSYts/cFCJnPt8Js9UVrxbCYNeSa23o8V2uw4X7wJirbCYebxuTwqTksZ7c3NJLR0U87mjgi0JS2leD4SglNT+8kfpx8ONDaESPoa7OTxBB2bU1s6/2Nx9zDbPRZAqkQ7qBSsmL+5vEDJzP5Y9N/zz6f7CNqX1p+ky7nhydtvcy38roMUoixOH8F9PA660ieXWgsYLsDbS/5ZKOUJm/teDDDwmSeWJ9AuQak8k31kToZHGUSRXRsIZfH/M8SSutovCUTZMWZDzRFWENMNCzbza0Nl1E15tCR4xVO0gx0DfI1q7FC7kL3lmViZBsIybPjNe8KTIK8IdPpfyAyU0vBXA/yFGt6L3PZuRb/w+HCCjw9gqdEPVUucVhcgn8+yYzyapHS1DWf5IO91FeCYBPYrDij06N9g4j68dNcIKEdbzKP2CmcSSOxo1LYgK8ijhsSUJqRmBCfaSvnDTGUOO3x5opD7LQA==;1RON0QTXHSUEYgBVM8Iz7Q=="
 ---
 

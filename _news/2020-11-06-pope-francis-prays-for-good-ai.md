@@ -26,9 +26,9 @@ images:
 
 related:
   - title: "Ethical Frameworks for AI Aren’t Enough"
-    excerpt: "Designing systems that are fair for all. Organizations can start with an admission: Getting serious about ethical AI is no easy task. Applying the principles of ethical AI to real-world deployment ..."
-    publishedDateTime: 2020-11-09T15:59:00Z
-    webUrl: "https://hbr.org/2020/11/ethical-frameworks-for-ai-arent-enough?ab=hero-subleft-2"
+    excerpt: "Many AI ethical frameworks cannot be clearly implemented in practice, as researchers have consistently demonstrated. Without a dramatic increase in the specificity of existing AI frameworks, there’s simply not much technical personnel can do to clearly uphold such high-level guidance."
+    publishedDateTime: 2020-11-09T14:29:00Z
+    webUrl: "https://hbr.org/2020/11/ethical-frameworks-for-ai-arent-enough"
     ampWebUrl: "https://hbr.org/amp/2020/11/ethical-frameworks-for-ai-arent-enough"
     cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/ethical-frameworks-for-ai-arent-enough"
     type: article

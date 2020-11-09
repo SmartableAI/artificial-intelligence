@@ -41,6 +41,20 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "MIT’s AI analysis shows extreme anxiety levels among people since the start of COVID-19"
+    excerpt: "Massachusetts Institute of Technology (MIT) researchers with some help from Harvard Medical School analyzed the mental states of people by using various Reddit subforums aka Subreddits."
+    publishedDateTime: 2020-11-09T18:05:00Z
+    webUrl: "https://www.techjuice.pk/mits-ai-analysis-shows-extreme-anxiety-levels-among-people-since-the-start-of-covid-19/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 31
+    images:
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2020/11/5f357c17b4bb1c001df531d3.jpg"
+        width: 1100
+        height: 825
+        isCached: true
 
 secured: "tQ7jdeTQHA3BtXTBAXweSLCdwaGWPpdlncWouebAI/vs5P37nzLg2eLJsduOcjamRYrIFDi2NGrKPItrD7YZP29lLbAiDn74PGPcP4vh/ojo04py7Fkq6kRP3SFS7fo3Pnm0RhPeUVlFu7q1inYK2qZCFf+lC6SZYbe3z0bmwAEojzzXw9/8qsToq/LB9Zp1fM/Ze/8ntjzg9pQmexHUOT9f1x9IR6oviF3zYWFiVfkv7G1rAx3b8Y023x3flJSpKj1ayXRNQBx4nLzBaFOipmFr597T06Rj57wgv6B3RCikB00W+bMTf9tfC0In4QAAOPNA+GNXV+GhnQ6pemD4lqhntXTPj+agYB1t3+VMucy4KqJQUF7pvzUS2TClrD7FbXeqLizV5SnZONLaiIo0O9pbvyGcj47LhP63VUO8QhL8Vm6+hPOT5InxhBejy0UOmv+HqzhzhpzU0P3UAU2pedhbnptSCKSc5gcdnl3BxmBuLYIKAzaVBRx4NRsd38VSqSxESakheDOp1MhLXlxPLw==;dxMfWMos4LAh77BmSSpyBw=="
 ---

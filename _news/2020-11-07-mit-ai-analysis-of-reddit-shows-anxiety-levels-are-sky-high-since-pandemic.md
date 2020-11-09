@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/11/06/mit-ai-analysis-of-reddit-s
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/06/mit-ai-analysis-of-reddit-shows-anxiety-levels-are-sky-high-since-pandemic/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "MIT’s AI analysis shows extreme anxiety levels among people since the start of COVID-19"
+    excerpt: "Massachusetts Institute of Technology (MIT) researchers with some help from Harvard Medical School analyzed the mental states of people by using various Reddit subforums aka Subreddits."
+    publishedDateTime: 2020-11-09T18:05:00Z
+    webUrl: "https://www.techjuice.pk/mits-ai-analysis-shows-extreme-anxiety-levels-among-people-since-the-start-of-covid-19/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 31
+    images:
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2020/11/5f357c17b4bb1c001df531d3.jpg"
+        width: 1100
+        height: 825
+        isCached: true
   - title: "Covid-19 increased anxiety and suicide risk among Reddit users"
     excerpt: "Scientists including two of Indian origin have used machine learning (ML) to analyse more than 800,000 Reddit posts and found that users anxiety and suicide risk levels are rising, among other negative trends,"
     publishedDateTime: 2020-11-06T11:58:00Z

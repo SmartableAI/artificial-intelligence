@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Healthcare Information Technology Market mechanics Analysis: Global Industry Trends, Share, Key Players, Forecast to 2025"
+    excerpt: "Selbyville, Delaware This Global Healthcare Information Technology report studies the industry based on one or"
+    publishedDateTime: 2020-11-09T18:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-information-technology-market-mechanics-analysis-global-industry-trends-share-key-players-forecast-to-2025-2020-11-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Voice Assistant Market 2020 Industry Outlook, Key Players, Segmentation Analysis, Business Growth and Forecast to 2025"
     excerpt: "Global Voice Assistant Market 2020 by Company, Regions, Type and Application, Forecast to 2025 is a conclusive source of information that encapsulates vital details about the market flow as well as future status during the mentioned forecast period of 2025."
     publishedDateTime: 2020-11-09T04:58:00Z

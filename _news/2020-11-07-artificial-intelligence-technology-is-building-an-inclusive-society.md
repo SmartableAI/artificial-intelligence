@@ -42,6 +42,17 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "The Effect of Artificial Intelligence on the ATS World"
+    excerpt: "The rising interest in applicant tracking systems should not come as a surprise. Our research has shown that the"
+    publishedDateTime: 2020-11-09T17:25:00Z
+    webUrl: "https://www.business2community.com/human-resources/the-effect-of-artificial-intelligence-on-the-ats-world-02360366"
+    ampWebUrl: "https://www.business2community.com/human-resources/the-effect-of-artificial-intelligence-on-the-ats-world-02360366/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/human-resources/the-effect-of-artificial-intelligence-on-the-ats-world-02360366/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 37
 
 secured: "4TPvKXJWZ4ZTNyLYc3NvbL9meKlhntB8QqHBb8e7HtfDGyyfdNhzUKP9i5RQyqOmwVkKrpJp1cTyN8e97oJiwQy3gfx1u1JpTY/8K1YH1AOuoUi9k/BUB5gq4N/1+ZW4tfmtDT8eubW5AWAaOQcgSRfrpEKpP/GmoZ628C9OaaefbXQwN3HCVeONWdF5ikMx8HrOaB+pbN+858aBNCIljmWgUoiy4fVKVOVh+9WrEbuNysqb4ke944pLQ9IuM2ADHmcTJfxD/5CCECV3Ew6gQBalNEebf6XPsWRN0zqqblWdh2/xnNHCjKHxHTXfeRYo1Ib/xadzbZwoAdJYJgJ7+FHixk1EGYgIAmD/RQeACaP5PUduQECFXgX7NKasrxIcOuv9PesgqraHifB7YXGWk4xJ9dWorvvV99oJahk+wOp0oFj28AF1MFYwXuLB0j+D4taAjdhkFQb72nyfyXapuuPxHAkXEjqVXKQxRm7VNfItLKV2sdzvy2iCWYjnx6M9uH9xjTmkNfSvseDn50uPrQ==;0TFiFqJTorfKjSVNGxsE7A=="
 ---

@@ -1,33 +1,29 @@
 ---
 category: news
 title: "Ellipsis Health Appoints Clinical Experts and Deep Learning Leaders to Serve on Advisory Board, Board of Directors and as a Strategic Investor"
-excerpt: "In addition, Ellipsis Health has welcomed Tariq Shaukat, Group President, Bumble, to the Board of Directors, and Richard Socher, PhD, Chief Scientist, EVP at Salesforce, as a strategic investor for the company."
-publishedDateTime: 2020-11-09T15:22:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ellipsis-health-appoints-clinical-experts-and-deep-learning-leaders-to-serve-on-advisory-board-board-of-directors-and-as-a-strategic-investor-1029782051"
-webUrl: "https://markets.businessinsider.com/news/stocks/ellipsis-health-appoints-clinical-experts-and-deep-learning-leaders-to-serve-on-advisory-board-board-of-directors-and-as-a-strategic-investor-1029782051"
+excerpt: "Ellipsis Health, pioneer of the first commercial-grade voice-based vital signs to quantify and manage depression and anxiety symptoms at"
+publishedDateTime: 2020-11-09T14:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ellipsis-health-appoints-clinical-experts-and-deep-learning-leaders-to-serve-on-advisory-board-board-of-directors-and-as-a-strategic-investor-301168741.html"
+webUrl: "https://www.prnewswire.com/news-releases/ellipsis-health-appoints-clinical-experts-and-deep-learning-leaders-to-serve-on-advisory-board-board-of-directors-and-as-a-strategic-investor-301168741.html"
 type: article
-quality: 33
-heat: 33
+quality: 3
+heat: 3
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1246096/Ellipsis_Health_Logo.jpg"
-    width: 400
-    height: 327
+  - url: "https://mma.prnewswire.com/media/1246096/Ellipsis_Health_Logo.jpg?p=facebook"
+    width: 694
+    height: 363
     isCached: true
 
-secured: "9vB8uB79B+orHU57j4deqWXllU8X4Ki13WPTvUljTlA2fnFizzy7u1auGpuiON6akZNJGIESXPbUQKQ6liYToC1uFMZfWntRKLpLwU4gVIoq596DYfLC0hk2DJBpB6Jp2BBrcoy3nX1RrYDa82aGO938TPaDSc0iXnjF1b3aww14s5xQQ5jzMmywqhWPFvitSBq1KoPnU+5oobM3EAkQqoi5pKqe2O7vw7eTeNDrsXF3hOJ+AqA85Dvpwra32sXD1hYpCKGeoMXoBNKK0+UZigeswSaFyla0lMIe1zYkq0jmX0mp9PBOJK+qUz13ult15fh5iaJsEMdbUHJfdJOy5aeRUdnOLNwc0tvmkoXBNRI=;JhmO+xvnq9fKZwfmhayyFw=="
+secured: "y8OItDOo0lIXj8yqiEYfWJszO1KHWD1uuLazCu6rOD/8/4ECE6qkl0LsMVO0GJYyOvNYKD+pqjSIXagXHpbtX05oGZMeGrmuzvtCelQ3+ZAEpZ6511HLGT5olbH4mGfd3SYAFBKXPPan5WbUEdybnHFP8tIvFUcli7YBIFwLiaI8Ib9Pe5A7FvKLn+we6pbobH+SAhsrdFGQ0G+Nf166/yFoZhvBwZLyUCByTS3f/pJAlkhtZHwnMmyCDp9dNt6TyCsE3gIGt62ABZUuHcUtKMkVndTDqskr3Kvvi/+pDNUOAMx6UUWl2crYe54eTtzXoS5z5U1yU0OWjnWEY0UzPv2H2sOuZn1dQFIg3iHRkAk=;afGpoOMfjnOqv2lwCoXlrw=="
 ---
 
