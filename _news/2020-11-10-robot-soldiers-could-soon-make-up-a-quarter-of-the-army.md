@@ -43,6 +43,6 @@ related:
       domain: zdnet.com
     quality: 69
 
-secured: "4rJ9cLhy7XXDgP6KM8ro4nqzOrsoFsagaMlBCVJ9FXomuFIKRv2kiwO7RYcX/56E2OvMZ6huU80CYsjdsx+RjCJlrYsDa/EMdGTAls1L7WPPQpHFEWxr8XEwsQCJvO5XotRUujmey6tzaMzhj2pvag3/yzkU/qR5RxMtHRY8loEZYbI9x1hzOb/AlVGA5d/aMSYKRJCiQ0pPLz/2ckqqEmPaMJrhJRjdpLhq5ZTALwlYef4mWNhL2KlnFQqarJg/hsJH3VG644FdTXrx5S7hSDYAVJWO8L09zx3/+ZuoFzOrjvWbJ8DXr/VpF73gVoviVCyCFlPhfUbTbHv20ReNx5fabOpM5eVRzfoYVZs7WDI=;6LTWup50qDSVtzAgCQUnQA=="
+secured: "L/NSHyt+jAE3osBlTn8IIpnDiwyTKyKI+HY3C63pmrpqpLyHEbI83KTSNJtirSCJvfsdhmy/5K1DEF+V6/rUn8ZBWAmOTIFkmTtm9i1LPNRqUggbgxcEd+ypoylhedTaNOhOq6iFXSxvGOH3Mes76E6uNm7iCTZsf4cgevAP1BcwbUUVtcSSktyBKDIEagNN/Q/ILK6TaF9cAYm8pYJZo2yk/O6AZMTuq/gVGiRyxb1tYJYy2ms6X6Qw/7SGI/JVM9w5fPh10rD+4/mmeI0740UuFFBXW0rvzKyh6rSwQorcX+NjFUzMLAsmX8jFnAibHapA2nlriu3aqkfyZQChQhjqtNIopsLKf3iyVpJitKw=;sh0sRBwNA15UpGJdDv7xKg=="
 ---
 
