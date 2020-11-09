@@ -41,33 +41,6 @@ related:
         width: 1260
         height: 630
         isCached: true
-  - title: "Scientists created a new AI system that can detect COVID-19 in your cough"
-    excerpt: "Researchers at the Massachusetts Institute of Technology have created a new artificial intelligence system that could identify the novel coronavirus in someone’s cough. The researchers released their findings in a new paper published in the IEEE Journal of Engineering in Medicine and Biology."
-    publishedDateTime: 2020-11-04T18:47:00Z
-    webUrl: "https://www.deseret.com/u-s-world/2020/11/4/21547607/coronavirus-mit-ai-covid-19-cough-detect"
-    ampWebUrl: "https://www.deseret.com/platform/amp/u-s-world/2020/11/4/21547607/coronavirus-mit-ai-covid-19-cough-detect"
-    cdnAmpWebUrl: "https://www-deseret-com.cdn.ampproject.org/c/s/www.deseret.com/platform/amp/u-s-world/2020/11/4/21547607/coronavirus-mit-ai-covid-19-cough-detect"
-    type: article
-    provider:
-      name: deseret
-      domain: deseret.com
-    quality: 58
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/dDCp4NHDYvB0BmToGJy_f8F43ok=/0x0:1350x900/1400x1050/filters:focal(567x342:783x558):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67737901/MIT_Cough_Recordings_01_PRESS.0.jpg"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "MIT researchers develop AI to detect COVID-19 using cough recordings. An app could be on deck"
-    excerpt: "Initially, the researchers were using AI models to analyze recordings of forced coughs to ... SEE: Artificial intelligence is predicting coronavirus outbreaks before they start (TechRepublic) The researchers are attempting to incorporate the algorithm ..."
-    publishedDateTime: 2020-11-04T18:15:00Z
-    webUrl: "https://www.techrepublic.com/article/mit-researchers-develop-ai-to-detect-covid-19-using-cough-recordings-an-app-could-be-on-deck/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/mit-researchers-develop-ai-to-detect-covid-19-using-cough-recordings-an-app-could-be-on-deck/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/mit-researchers-develop-ai-to-detect-covid-19-using-cough-recordings-an-app-could-be-on-deck/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 56
   - title: "Using AI to Track the COVID-19 Pandemic’s Impact on Mental Health"
     excerpt: "Textual analysis of social media posts finds users’ anxiety and suicide-risk levels are rising, among other negative trends. Dealing with a global pandemic has taken a toll on the mental health of millions of people."
     publishedDateTime: 2020-11-05T10:30:00Z

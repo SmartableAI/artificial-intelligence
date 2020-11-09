@@ -49,17 +49,17 @@ related:
         isCached: true
   - title: "Dances with robots, and other tales from the outer limits"
     excerpt: "The working assumption for most of history has been that dance is a thing done by and for humans. Yet it does not seem beyond the pale that robots will one day perform for us mortals, particularly when choreographers like Cuan are using technology to explore the outer limits of the art form."
-    publishedDateTime: 2020-11-08T16:04:00Z
-    webUrl: "https://www.baltimoresun.com/featured/sns-nyt-choreographer-explores-robots-20201108-spmkqaagarh6beer5la56u7tqi-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/featured/sns-nyt-choreographer-explores-robots-20201108-spmkqaagarh6beer5la56u7tqi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/featured/sns-nyt-choreographer-explores-robots-20201108-spmkqaagarh6beer5la56u7tqi-story.html?outputType=amp"
+    publishedDateTime: 2020-11-08T20:05:00Z
+    webUrl: "https://www.courant.com/featured/sns-nyt-choreographer-explores-robots-20201108-spmkqaagarh6beer5la56u7tqi-story.html"
+    ampWebUrl: "https://www.courant.com/featured/sns-nyt-choreographer-explores-robots-20201108-spmkqaagarh6beer5la56u7tqi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/featured/sns-nyt-choreographer-explores-robots-20201108-spmkqaagarh6beer5la56u7tqi-story.html?outputType=amp"
     type: article
     provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
+      name: Hartford Courant
+      domain: courant.com
     quality: 59
     images:
-      - url: "https://www.baltimoresun.com/resizer/DnsaEhgUKLqgHCvjtAHFPL3Pdnw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PS3TH2HGORHO5KAV2WJMCYTVOA.jpg"
+      - url: "https://www.courant.com/resizer/DnsaEhgUKLqgHCvjtAHFPL3Pdnw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PS3TH2HGORHO5KAV2WJMCYTVOA.jpg"
         width: 1200
         height: 801
         isCached: true

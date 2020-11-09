@@ -54,20 +54,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Open Standards Advance Fintech"
-    excerpt: "The U.S. payments space is saddled by closed standards-setting processes and a lack of basic competition in the market."
-    publishedDateTime: 2020-11-04T17:48:00Z
-    webUrl: "https://morningconsult.com/opinions/open-standards-advance-fintech/"
-    type: article
-    provider:
-      name: Morning Consult
-      domain: morningconsult.com
-    quality: 24
-    images:
-      - url: "https://morningconsult.com/wp-content/themes/mcmoco/assets/img/misc/op-ed-featured.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "PZ4waBlHyHONnKxeRzKw5vq8f/Go5Mxe6HOTyc4c+rF8AyX61MOfuOJQB8AU9a/z9f+VtIUMamUNOhYD032n8+X8J7FKnjCwO7jj9hNLRQAXyMFipEdhj4d3bimPix11UtwtSzJcImkRlAYI4h7uxelaMNVVaxkkDd/648RZfM1hwWNulJGnnSBgoAU3rNg1wDmnEGlvC8I6hkH6GHjKFYeyiWvEDn9BQf9ccn6+uuH6GFzXWVJiXCm3N7lEIiDofgyUVgqMPZW1gdoHtfoN+CAA+97Tozn9YxqVGEnwbm7cPVJnaVLp3xG9/qy0TlxOvorueRv4n2Hk0YK4PomiBAh+v+2lTvTQws7svP9rxQk=;bAQm9y1tmeEdjCK8jIkKgQ=="
 ---

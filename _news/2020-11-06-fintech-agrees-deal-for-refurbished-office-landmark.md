@@ -74,6 +74,20 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
+  - title: "FinTech firm for the fashion industry raises £1.35m"
+    excerpt: "Purple Dot, the ‘worth-the-wait’ payment option for fashion brands, today announces its seed round of £1.35m, led by Connect Ventures, with support from, AI Seed, Moxxie Ventures, Andy Chung"
+    publishedDateTime: 2020-11-09T08:51:00Z
+    webUrl: "https://londonlovesbusiness.com/fintech-firm-for-the-fashion-industry-raises-1-35m/"
+    type: article
+    provider:
+      name: londonlovesbusiness.com
+      domain: londonlovesbusiness.com
+    quality: 39
+    images:
+      - url: "https://londonlovesbusiness.com/wp-content/uploads/2019/08/Boohoo.jpg"
+        width: 660
+        height: 371
+        isCached: true
   - title: "LexinFintech Unveils Strategy to Further Tap Chinese Consumer Market at Hong Kong Fintech Week 2020"
     excerpt: "(GLOBE NEWSWIRE) -- “LexinFintech Holdings Ltd. (“Lexin” or the “Company”) (NASDAQ: LX), a leading online consumption and consumer finance platform for educated young professionals in China, is gearing up to expand its product offerings to tap the rising consumption demand of China’s new generation,"
     publishedDateTime: 2020-11-06T07:50:00Z

@@ -26,19 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence and Cognitive Computing Market - Major Technology Giants in Buzz Again"
-    excerpt: "Healthcare, Retail & Consumer Goods, BFSI, Security, IT & Telecom & Others Regional Analysis for Artificial Intelligence and Cognitive Computing Market: North America (Covered in Chapter 6 and 13), United States, Canada, Mexico, Europe (Covered in Chapter ..."
-    publishedDateTime: 2020-11-04T20:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market---major-technology-giants-in-buzz-again-2020-11-04"
+  - title: "Healthcare Artificial Intelligence Market"
+    excerpt: "Latest Survey On Healthcare Artificial Intelligence Market ... Butterfly Network, Inc., Lifegraph, Enlitic, Inc., IBM (Watson Health), Sophia Genetics, Zebra Medical Vision Ltd., Pathway Genomics Corporation, AiCure, Sense.ly, Welltok, Insilico Medicine ..."
+    publishedDateTime: 2020-11-09T08:42:00Z
+    webUrl: "https://www.openpr.com/news/2183410/healthcare-artificial-intelligence-market-is-thriving"
+    ampWebUrl: "https://www.openpr.com/amp/2183410/healthcare-artificial-intelligence-market-is-thriving"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2183410/healthcare-artificial-intelligence-market-is-thriving"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 74
+      name: openpr.com
+      domain: openpr.com
+    quality: 76
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/T/b/Tb09580094_g.jpg"
+        width: 780
+        height: 405
+        isCached: true
+  - title: "Healthcare execs going all-in on AI, survey shows"
+    excerpt: "The survey, conducted by Optum, shows that healthcare executives' confidence in AI is high, and most expect to soon see cost savings from implementing the technology. Further, a majority are looking to hire talent with experience developing AI."
+    publishedDateTime: 2020-11-06T22:42:00Z
+    webUrl: "https://medcitynews.com/2020/11/healthcare-execs-going-all-in-on-ai-survey-shows/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 54
+    images:
+      - url: "https://medcitynews.com/uploads/2019/11/GettyImages-1137784739.jpg"
+        width: 703
+        height: 497
         isCached: true
 
 secured: "rgSSAvQWAvB+FBan8cwnJWq+dt12aLbxFB03tRaUCTp/vF8z1GwEhjXytF0osE6wbyiTVbErYZvj5qGjsGIkx80xef1V6zxjuvNO5cm90CjDKJztCdpgufUxyee51XR7U+4h9QXHCVEUHF30XWmTUAbftZxNXLkysV1O19jElviHKzYkkwWie30tUb/X+vMGy6kNrRlRo+h2qE6uYKnv+fMx++aHexbvhqLUsAzN3y0YqwbgWluJ4+0oAnFt6RK3KQJoa96yR4rE1tRwimTxj9R0ZT9Mvb2tn/j8A0wdclWjVe8y8TEoKgeVrIqFXaqHMD2y3p0vanpzUS0ePSnP5ra1i8h24gcjo2W2+YtFuBE=;35OyeskIIQSqSZPurzcRSg=="

@@ -7,7 +7,7 @@ originalUrl: "https://medcitynews.com/2020/11/healthcare-execs-going-all-in-on-a
 webUrl: "https://medcitynews.com/2020/11/healthcare-execs-going-all-in-on-ai-survey-shows/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Big data and artificial intelligence software is impacting your shopping experience"
-    excerpt: "In 2012 a writer for the New York Times named Charles Duhigg wanted to explore how retailers were using the data they had begun collecting involving customer purchases. What he found was stunning for the times,"
-    publishedDateTime: 2020-11-07T08:03:00Z
-    webUrl: "https://www.mininggazette.com/opinion/columns/2020/11/big-data-and-artificial-intelligence-software-is-impacting-your-shopping-experience/"
+  - title: "Healthcare Artificial Intelligence Market"
+    excerpt: "Latest Survey On Healthcare Artificial Intelligence Market ... Butterfly Network, Inc., Lifegraph, Enlitic, Inc., IBM (Watson Health), Sophia Genetics, Zebra Medical Vision Ltd., Pathway Genomics Corporation, AiCure, Sense.ly, Welltok, Insilico Medicine ..."
+    publishedDateTime: 2020-11-09T08:42:00Z
+    webUrl: "https://www.openpr.com/news/2183410/healthcare-artificial-intelligence-market-is-thriving"
+    ampWebUrl: "https://www.openpr.com/amp/2183410/healthcare-artificial-intelligence-market-is-thriving"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2183410/healthcare-artificial-intelligence-market-is-thriving"
     type: article
     provider:
-      name: The Daily Mining Gazette
-      domain: mininggazette.com
-    quality: 31
+      name: openpr.com
+      domain: openpr.com
+    quality: 76
     images:
-      - url: "http://d14e0irai0gcaa.cloudfront.net/www.mininggazette.com/images/2016/11/14155029/fblike.jpg"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/T/b/Tb09580094_g.jpg"
+        width: 780
+        height: 405
+        isCached: true
+  - title: "Logiq Completes Acquisition of Fixel AI, Leader in AI-Powered Digital Marketing Technology"
+    excerpt: "(OTCQX: LGIQ), a global provider of award-winning eCommerce and Fintech solutions, has completed its previously announced plan to acquire F ixel AI, an award-winning innovator of AI-powered digital marketing technology."
+    publishedDateTime: 2020-11-05T13:31:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-apple-inc-virus-outbreak-technology-issues-875f0d1977c96e4ac08fab587cf0c33d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 46
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "p6JtZTQ67IjEcySXaoKlzBOoNc8vi37A9T3MK1RwWzcz3bsJ2RklSFJaaz8TQiq2olOmVBRRVRiUNDjYuEAtmNpZxuRXABW/wDQOxPPJC04fjO+D7h/1pCC4KAbwMpnJaKHafjMgHfHqiRfU65c4giSUXQOnd6mZw3zIXys3wsAVv3e/CSoYxq53B4MObdtW9FRuaT+WefTFy6LcszXFlOnEM7xBweyd4/8W9/KQKOLagu+I4R3Cjvx9RuPuAQmGPKnhipuDSECviEKt9//OKsYS8+49XaDAeR0QWFi97EkRlTq8nISkBqJYvhQEQY9ZxnJQJ97ThF0mnF6MTNm9NOXYvNNeUAhA6zPjfsbRF1d/r176Va9XhQs943MgyrmIIqDot6czoe+NU+fwBWSdbNwKNG1ktSBcSX1XI/hiU7FFEGYRqrnBTHKlcylk9/ZbeH9MmaQp1yht3zEdofbAo1KzDL8Pn/RdSzJDz5g6GX2pIFQawLqJ8/ffY5oasLEE7894isOBAqHeVRYuerCK7w==;wLKTSZM5fBl9SfA76p+B5g=="

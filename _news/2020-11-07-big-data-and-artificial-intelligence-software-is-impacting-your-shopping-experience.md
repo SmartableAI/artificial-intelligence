@@ -7,7 +7,7 @@ originalUrl: "https://www.mininggazette.com/opinion/columns/2020/11/big-data-and
 webUrl: "https://www.mininggazette.com/opinion/columns/2020/11/big-data-and-artificial-intelligence-software-is-impacting-your-shopping-experience/"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Healthcare execs going all-in on AI, survey shows"
-    excerpt: "The survey, conducted by Optum, shows that healthcare executives' confidence in AI is high, and most expect to soon see cost savings from implementing the technology. Further, a majority are looking to hire talent with experience developing AI."
-    publishedDateTime: 2020-11-06T22:42:00Z
-    webUrl: "https://medcitynews.com/2020/11/healthcare-execs-going-all-in-on-ai-survey-shows/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 54
-    images:
-      - url: "https://medcitynews.com/uploads/2019/11/GettyImages-1137784739.jpg"
-        width: 703
-        height: 497
-        isCached: true
 
 secured: "TaTnR2sbBxRH91ccEpz3jVoXerlH9E4G99gfNzQzR1E2QDFk/s+MN60Oc3yRwSs/zfpgp7A3ZNxPQzYN15LrIsmFNGIPwpfs9V5f4Arzbr94CKu4GT+KLHLuhoK0LQF8uK22mwLFycHqi36NzjkL9HIb7cDZ9w2uSVpE2xie2p4ozxV4z9ekajtnCKi+ED2z59Fn+JLaWMvCKqIrLhkXORfUfQXK60HP493rahScSZ8L4d5Gmw0Xai0kcdmJDMaO3+OY2bQSTsPZxkOWFAIh+lnDvtSj5o7v/xyrOlrgCBXD709FeIj3dQ36vIH34QXyMx/v4dZDMWe+X6RW6p11xcotmUi1IKpnr3UWRuy8LGo=;2bhegXXkpNgC40IwONjGbQ=="
 ---

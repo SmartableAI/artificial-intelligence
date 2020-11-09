@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/intel-intc-spruces-up-ai-capabilitie
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/intel-intc-spruces-up-ai-capabilities-to-challenge-amd-nvda-2020-11-05?amp"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Nasdaq
@@ -19,22 +19,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "Intel Buys Another AI Startup"
-    excerpt: "Intel Corp. has quietly acquired another AI platform developer, Israeli-based Cnvrg.io. The acquisition, confirmed by Intel late Tuesday (Nov. 3) to the"
-    publishedDateTime: 2020-11-04T17:27:00Z
-    webUrl: "https://www.datanami.com/2020/11/04/intel-buys-another-ai-startup/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/MLOps.png"
-        width: 1046
-        height: 806
-        isCached: true
 
 secured: "QHsi52wpAuGk62deiSxXe2ot/cmYNkIQ/ee6E64lPEn1rBP0YzAJF5pUaLhxM3Oj5esWlKBjowapvfNX0QVmj/Mt5nFOKAG6VhfGPZW1YDAVUv+hnOGeivqLUzNKZX6vlT0fG/CLX+6O/OumW1CXEU/Y0BsqYE984I9C6PWW5WZZ01JEZnRrjkgJZaWT54tn8O46XPJ6ieyJXBMCLwN24ZVBy4svdGNBPxkyXE38mCCrPeocVthNEVSpCLH5e+6br8+GjQ+xiisPG4cV0R9cyME3AUNKEmNlyM+g1OX7yYbP3nRuVfyuU20xDwdnXT8mMvcCTtIsvEt5zIa56Vtu427X+ulwpc4NJ4GIH/ihK0Q=;nhx0AHZ9brJGYGiN8CUp1g=="
 ---

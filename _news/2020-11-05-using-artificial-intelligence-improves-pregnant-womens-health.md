@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Using AI to automate business processes and create revenue streams"
-    excerpt: "We look at how a utility company in Australia is using AI to automate at scale, improve the planet and reshape the Australian energy market"
-    publishedDateTime: 2020-11-04T17:34:00Z
-    webUrl: "https://www.computerweekly.com/opinion/Using-AI-to-automate-business-processes-and-create-revenue-streams"
-    ampWebUrl: "https://www.computerweekly.com/opinion/Using-AI-to-automate-business-processes-and-create-revenue-streams?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/Using-AI-to-automate-business-processes-and-create-revenue-streams?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 59
-    images:
-      - url: "https://cdn.ttgtmedia.com/visuals/searchContentManagement/collaboration_technology/contentmanagement_article_002.jpg"
-        width: 1200
-        height: 400
-        isCached: true
   - title: "The Role of Artificial Intelligence in Web Development Process"
     excerpt: "In the digital era, web development is growing at an unprecedented rate. The intervention of Artificial intelligence-enabled sites is giving a whole personalized experience to users."
     publishedDateTime: 2020-11-05T09:10:00Z

@@ -39,17 +39,6 @@ related:
         width: 700
         height: 451
         isCached: true
-  - title: "RSNA: Data Science Pathway Prepares Radiology Residents for Machine Learning"
-    excerpt: "A recently developed data science pathway for fourth-year radiology residents will help prepare the next generation"
-    publishedDateTime: 2020-11-04T18:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/11/n18212479/rsna-data-science-pathway-prepares-radiology-residents-for-machine-learning"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18212479"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18212479"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 36
 
 secured: "QnTf4mzkfHs/2O9AeR5+rjq/xf/GO97NNEG708KW7MRM7aewiqXQQpEPl5Advoc0KujBoJ1flVpkN5c+m/I9CN/0WU8KXX44PCk5raIYxht88hZYMvB1NslGNfJOLSLjWeAsU6/3bkzL+65TmRg0r4h2NyjrjGT0IbdS5ObKRyy0+KVC5T7Sdi5g1CnTVDbJ0zDpQHShIq54es9oVVsVhOFvGobzyKUHw85i7zUrqdwt6t3cFWWw5e4LtVrAeOFmRwhgNJy4AQWTJfEYDCryhheg9cWM7zorUZhQbxh+VHW0B/wp2KW7XGC9TQLULc1tew4GjaHnzSHbpTOwTGiTqV58tX9SSXuTfdR2Anc5udR/TAP3pJ+cEDkXSXoWt/5LkAUVfQYn8KryKMI1zeNDza2Rt/Q9AmjRkJhQBbz8FvVgHiVarH1GmFg7dNl4l+nawpdPXJfUVFKk9Ehu026BNF7eH9JGlhMG+YJ5IkE0ActvK8/PaTDjG9MZWsLv5URpvt+SKnKgWvcJ0bL/auW7Fw==;VuajFenLK/mw3q8pSXwt+Q=="
 ---

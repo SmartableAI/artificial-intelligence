@@ -68,6 +68,20 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
+  - title: "FinTech firm for the fashion industry raises £1.35m"
+    excerpt: "Purple Dot, the ‘worth-the-wait’ payment option for fashion brands, today announces its seed round of £1.35m, led by Connect Ventures, with support from, AI Seed, Moxxie Ventures, Andy Chung"
+    publishedDateTime: 2020-11-09T08:51:00Z
+    webUrl: "https://londonlovesbusiness.com/fintech-firm-for-the-fashion-industry-raises-1-35m/"
+    type: article
+    provider:
+      name: londonlovesbusiness.com
+      domain: londonlovesbusiness.com
+    quality: 39
+    images:
+      - url: "https://londonlovesbusiness.com/wp-content/uploads/2019/08/Boohoo.jpg"
+        width: 660
+        height: 371
+        isCached: true
   - title: "Fintech agrees deal for refurbished office landmark"
     excerpt: "An expanding fintech company is moving to the newly-refurbished Hodge House office building in Cardiff city centre. The move follows an announcement last month that listed AI"
     publishedDateTime: 2020-11-06T12:08:00Z

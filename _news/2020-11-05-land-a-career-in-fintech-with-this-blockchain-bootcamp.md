@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/land-a-career-in-fintech-with-
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/land-a-career-in-fintech-with-this-blockchain-bootcamp-01604440965"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Open Standards Advance Fintech"
-    excerpt: "The U.S. payments space is saddled by closed standards-setting processes and a lack of basic competition in the market."
-    publishedDateTime: 2020-11-04T17:48:00Z
-    webUrl: "https://morningconsult.com/opinions/open-standards-advance-fintech/"
-    type: article
-    provider:
-      name: Morning Consult
-      domain: morningconsult.com
-    quality: 24
-    images:
-      - url: "https://morningconsult.com/wp-content/themes/mcmoco/assets/img/misc/op-ed-featured.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Proven Technology VCs and Medical Physicians Launch Decentralized Health Data Marketplace Powered by Blockchain and AI Technology"
     excerpt: "Blockchain technology company Verida joins forces with CareProtocol to launch IKIGAI Network, a decentralized OpenHealth ecosystem. The IKIGAI Network is pioneering the OpenHealth movement by building the world’s first global decentralized healthcare ecosystem built on principles of open data and open source development."

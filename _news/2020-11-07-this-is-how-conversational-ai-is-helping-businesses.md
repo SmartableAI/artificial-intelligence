@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/359220"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359220"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -47,17 +47,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "How Artificial Intelligence is Enhancing Online Shopping"
-    excerpt: "Disruptive technology like artificial intelligence (AI) is definitely leaving an indelible mark amid a COVID-19 pandemic where social distancing measures are forcing more reliance on tech. The same can be said in the retail sector and as more consumers head online to do their shopping the retail industry is deploying AI to enhance the experience."
-    publishedDateTime: 2020-11-04T18:24:00Z
-    webUrl: "https://www.nasdaq.com/articles/how-artificial-intelligence-is-enhancing-online-shopping-2020-11-04"
-    ampWebUrl: "https://www.nasdaq.com/articles/how-artificial-intelligence-is-enhancing-online-shopping-2020-11-04?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-artificial-intelligence-is-enhancing-online-shopping-2020-11-04?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
   - title: "Five Ways How Artificial Intelligence Will Transform Businesses in 2021"
     excerpt: "Artificial Intelligence, once a buzzword in the digital world, has become a part of our everyday life. From Google Assistant, Siri, Alexa to Uber and Ola, several AI-enabled services are available today that make our lives easier."
     publishedDateTime: 2020-11-07T10:45:00Z
