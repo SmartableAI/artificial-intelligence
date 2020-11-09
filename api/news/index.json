@@ -2,6 +2,161 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-09-the-best-machine-learning-startups-to-work-for-in-2021-according-to-glassdoor.md",
+      "title": "The Best Machine Learning Startups To Work For In 2021 According To Glassdoor",
+      "excerpt": "AVORA, Codesmith, FairMarkIT, Protenus and Ravelin are the most likely to be recommended by their employees to friends looking for a machine learning startup to work for in 2021 based on each company's Glassdoor ratings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/08/the-best-machine-learning-startups-to-work-for-in-2021-according-to-glassdoor/",
+      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/08/the-best-machine-learning-startups-to-work-for-in-2021-according-to-glassdoor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6970cb93c4bdf032c4b97d%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/08/the-best-machine-learning-startups-to-work-for-in-2021-according-to-glassdoor/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/11/08/the-best-machine-learning-startups-to-work-for-in-2021-according-to-glassdoor/amp/",
+      "publishedDateTime": "2020-11-08T17:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-chinese-autonomous-truck-startup-inceptio-raises-120-million-from-catl-others.md",
+      "title": "Chinese autonomous truck startup Inceptio raises $120 million from CATL, others",
+      "excerpt": "China's Inceptio Technology, a startup developing self-driving trucks, said on Monday it has raised $120 million in its latest funding led by top Chinese electric vehicle battery maker CATL <300750.SZ>.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-inceptio-autonomous-idUKKBN27O0Y9",
+      "originalUrl": "https://www.reuters.com/article/uk-inceptio-autonomous-idUKKBN27O0Y9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540459170&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA70QK",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN27O0Y9",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27O0Y9",
+      "publishedDateTime": "2020-11-08T16:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste.md",
+      "title": "CSIRO to use artificial intelligence, machine learning, and sensors to end plastic waste",
+      "excerpt": "The Commonwealth Scientific and Industrial Research Organisation (CSIRO) has announced partnerships with Microsoft, Hobart City Council, and Chemistry Australia to address -- and attempt to end -- Australia's plastics waste issue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
+      "originalUrl": "https://www.zdnet.com/article/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/06/16/9661d050-0c11-4767-a7ae-3c29bd3d17c5/storm-water-and-litter.jpg",
+          "width": 728,
+          "height": 570,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
+      "publishedDateTime": "2020-11-08T16:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-11-09-sci-fi-master-ted-chiang-explores-the-rights-and-wrongs-of-artificial-intelligence.md",
       "title": "Sci-fi master Ted Chiang explores the rights and wrongs of artificial intelligence",
       "excerpt": "BOT or NOT? This special series explores the evolving relationship between humans and machines, examining the ways that robots, artificial intelligence and automation are impacting our work and lives. The story of Ted Chiang’s life includes stints as a ...",
@@ -62,7 +217,7 @@
       "originalUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/08/walmart-ditches-major-robot-contract-so-what-does-this-mean-for-the-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -362,7 +517,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/359222",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -656,7 +811,7 @@
       "originalUrl": "https://www.theguardian.pe.ca/business/reuters/toyota-backed-startup-ponyai-raises-267-million-in-new-funding-round-517485/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -983,6 +1138,48 @@
       ]
     },
     {
+      "path": "_news/2020-11-06-can-ai-replace-human-decision-making-most-companies-say-no-but-it-can-help.md",
+      "title": "Can AI replace human decision-making? Most companies say no, but it can help",
+      "excerpt": "Most CIOs aren't comfortable with letting the AI take over decisions. But it does help them make better, less biased ones.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/can-ai-replace-human-decision-making-most-companies-say-no-but-it-can-help/",
+      "originalUrl": "https://www.techrepublic.com/article/can-ai-replace-human-decision-making-most-companies-say-no-but-it-can-help/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/can-ai-replace-human-decision-making-most-companies-say-no-but-it-can-help/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/can-ai-replace-human-decision-making-most-companies-say-no-but-it-can-help/",
+      "publishedDateTime": "2020-11-06T07:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-06-an-ai-robot-wrote-my-term-paper.md",
       "title": "An AI Robot Wrote My Term Paper",
       "excerpt": "As personal computers and search engines have become ubiquitous, and AI and ML have risen in prominence, the idea of having a computer find the excerpts and actually write an essay, is no longer science fiction.",
@@ -1031,195 +1228,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-most-health-execs-expect-widespread-implementation-of-ai-in-the-next-5-years.md",
-      "title": "Most health execs expect widespread implementation of AI in the next 5 years",
-      "excerpt": "Ninety-percent of US health IT execs expect AI solutions to be well integrated into the US healthcare system in the next five years",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/90-of-health-it-execs-expect-widespread-ai-implementation-in-next-5-years.html?utm_source=Triggermail&utm_medium=email&utm_campaign=Post Blast bii-digital-health: Health IT leaders are bullish on AI | Microsoft rolls out Cloud for Healthcare | Unite Us%2C Nebraska HIE tackle social determinants&utm_term=BII List Digital Health ALL",
-      "originalUrl": "https://www.businessinsider.com/health-it-leaders-bullish-on-ai-implementation-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-06T07:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-ai-can-make-bank-loans-more-fair.md",
-      "title": "AI Can Make Bank Loans More Fair",
-      "excerpt": "Many financial institutions are turning to AI reverse past discrimination in lending, and to foster a more inclusive economy. But many lenders find that artificial-intelligence-based engines exhibit many of the same biases as humans.",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2020/11/ai-can-make-bank-loans-more-fair",
-      "originalUrl": "https://hbr.org/2020/11/ai-can-make-bank-loans-more-fair",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2020/11/Nov20_06_1215016292.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hbr.org/amp/2020/11/ai-can-make-bank-loans-more-fair",
-      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/ai-can-make-bank-loans-more-fair",
-      "publishedDateTime": "2020-11-06T06:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-how-ai-predictions-fared-against-pollsters-in-the-2020-us-election.md",
-      "title": "How AI predictions fared against pollsters in the 2020 U.S. election",
-      "excerpt": "A report from the American Association for Public Opinion Research ... tweets and Facebook messages. But in the aftermath of the 2020 election, it’s still unclear whether AI proved more or ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/06/how-ai-predictions-fared-against-pollsters-in-the-2020-u-s-election/",
-      "originalUrl": "https://venturebeat.com/2020/11/06/how-ai-predictions-fared-against-pollsters-in-the-2020-u-s-election/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/GettyImages-1283078276.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/06/how-ai-predictions-fared-against-pollsters-in-the-2020-u-s-election/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/06/how-ai-predictions-fared-against-pollsters-in-the-2020-u-s-election/amp/",
-      "publishedDateTime": "2020-11-06T06:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-tech-news-artificial-intelligence-and-the-human-brain.md",
-      "title": "Tech News: Artificial Intelligence and the human brain",
-      "excerpt": "Humans have always dreamt of soaring the sky and since prehistoric times often attempted to fly by mimicking birds.",
-      "sourceUrl": null,
-      "webUrl": "https://www.iol.co.za/business-report/opinion/tech-news-artificial-intelligence-and-the-human-brain-bbe190b8-44e2-4bf4-8b89-1049edc80088",
-      "originalUrl": "https://www.iol.co.za/business-report/opinion/tech-news-artificial-intelligence-and-the-human-brain-bbe190b8-44e2-4bf4-8b89-1049edc80088",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image-prod.iol.co.za/resize/3000x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/c979716c-7fdb-59fb-997e-bbbc8c0e5fc7&operation=CROP&offset=2x0&resize=2996x1685",
-          "width": 651,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.iol.co.za/amp/business-report/opinion/tech-news-artificial-intelligence-and-the-human-brain-bbe190b8-44e2-4bf4-8b89-1049edc80088",
-      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/opinion/tech-news-artificial-intelligence-and-the-human-brain-bbe190b8-44e2-4bf4-8b89-1049edc80088",
-      "publishedDateTime": "2020-11-06T05:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IOL News",
-        "domain": "iol.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

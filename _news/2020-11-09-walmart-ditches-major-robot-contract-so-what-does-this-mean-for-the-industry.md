@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2020/11/08/walmart-ditches-ma
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/11/08/walmart-ditches-major-robot-contract-so-what-does-this-mean-for-the-industry/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1199
     height: 675
     isCached: true
-
-related:
-  - title: "How Computer Vision is transforming Construction Industry?"
-    excerpt: "How Computer Vision is transforming Construction Industry? Every day, construction workers deal with various tasks that require surveillance and supervision. They also have to ensure the safety perfor"
-    publishedDateTime: 2020-11-04T08:01:00Z
-    webUrl: "https://www.analyticsinsight.net/computer-vision-to-change-the-outlook-of-construction-activities/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Computer-Vision.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "5Ulpks0m8t3nOKXhBC/Du1BGmY7/BdwaWY2AEQBqwzmdTm7sQ1k8u0KYB9S5gaMY8IOu4lWgAEtykMpiDdE+JHQ539EgwXhB30V6xomejG5CegYt3jbyvBOOw3tcLkVi9KSwMHKtwURRvfAaH/OYLKe1CQ2qU6NyYi4cC1i0iVpcxafH0EWJYpMi3H/AFrXBKI5pCExLkuiQVgIYZKc9exHuXDng1x607dL0zOFluxO0zoocBJgflYMTi5PCvxnT5pc3K+FszaUBIbljH8v549G56h/qjOCQ2koY+kYvjaBvzZLT7M/IdKVfJsrGvf15NAiH81il/Mufl9Z4dbiJTHjvMxG+MlrZW/hVg4N3cFSb4fr0q4O51nbK80PRUSxIezeeLAohHNF5s7UNaU1U75kU+ygGQsHJhHbAczb2UzzoRcaH0dHIjqEF3WEREIxVKpBGJDHkzYRCoQG0AR/6ISXDQw3kT53NhjDU9Tm5l0wnXKqIiU3xsI08YTi0+b4+qj4mkC+9nWVv3frGrkPzIA==;JknaWMxWDtujJhkv8YeyfQ=="
 ---

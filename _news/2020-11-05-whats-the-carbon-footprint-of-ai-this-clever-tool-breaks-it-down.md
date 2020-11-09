@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/news/carbontracker-deep-learning-susta
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/carbontracker-deep-learning-sustainability/?amp"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Estimating the carbon footprint of deep learning algorithms"
+    excerpt: "Hardware used to train a deep learning algorithm can use worrying amounts of energy from an environmental standpoint."
+    publishedDateTime: 2020-11-09T02:19:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/11/09/estimating-the-carbon-footprint-of-deep-learning-algorithms"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/11/08/929991.jpeg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "0mEdAZQ2KuCIpO/Vl+L0jVAJbIKaRPohaD+Hw47C/J7fruMSGVstemvVPuL3VPfS91k6KCzG0TWfbbof9/JBPWqC+wHgu3zcJeX450ErG8HBqvC9dBcauRGUOjHD20jJZYZpg1rfPZNsR3f/LoK4c+69kximhUkJqby31/4FHsDceaT3pmd3LEi7EJb3dO7bPuCqZc95bHZDX1tFKzWb6HN3vSLALZCjuURHS/CTb1VRkfcapl1jz/pig/9OTCxurXeflZgWUEIsi5xozVr1ghdlmGNILOgQ9yaWxH2KTd73Ynog/iqffZpyihnOAbI6dXMjh2w70+YxgGdftyoVEFkACUbQ9Q0oKwUS0SaY6xi63b4bqxsp18Avo6HyOV1D/RHr/Odf4eyImJ3R9RE2YrKfR7NovHUT/slX/IN2w2eDB4WZN1Jqe+0iVrE28/cy5HtjV6rs7Nz8kPCduHHV7om+JdPUCpPQBrHSuIpXKOqaDSw36Q1Z711l9jMVtRI482Y9ux7FQ2EKTIxIxYEysw==;dKwV+qkNqDufSaZzXyIqFw=="
 ---

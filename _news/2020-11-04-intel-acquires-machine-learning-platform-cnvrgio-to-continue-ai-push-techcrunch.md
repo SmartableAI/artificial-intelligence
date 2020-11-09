@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/news/3631130-intel-acquires-machine-learn
 webUrl: "https://cnvrg.io/"
 type: article
 quality: 148
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel acquires Cnvrg.io to enhance ML and AI capabilities"
-    excerpt: "Intel has yet again acquired another startup to upgrade its automation capabilities in technologies like machine learning and artificial intelligence."
-    publishedDateTime: 2020-11-04T10:34:00Z
-    webUrl: "https://www.ciol.com/intel-acquires-cnvrg-io-enhance-ml-ai-capabilities/"
-    ampWebUrl: "https://www.ciol.com/intel-acquires-cnvrg-io-enhance-ml-ai-capabilities/amp/"
-    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/intel-acquires-cnvrg-io-enhance-ml-ai-capabilities/amp/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 78
-    images:
-      - url: "https://www.ciol.com/wp-content/uploads/2019/08/Intel-AI.jpg"
-        width: 850
-        height: 400
-        isCached: true
   - title: "Intel Acquires Cnvrg.io To Lead The Race In The AI Game"
     excerpt: "The deal, like most of the deals in the past, is aimed at strengthening its machine learning and AI operations."
     publishedDateTime: 2020-11-07T10:32:00Z

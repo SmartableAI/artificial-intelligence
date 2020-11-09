@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-29-emerging-technologies-that-will-advance-the-retail-industry.md",
+      "title": "Emerging technologies that will advance the retail industry",
+      "excerpt": "Services include natural language processing (NLP), sentiment analysis, image recognition and autoML model creation. Companies that began their digital transformations early in the pandemic are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/in/news/emerging-technologies-that-will-advance-the-retail-industry",
+      "originalUrl": "https://www.techradar.com/in/news/emerging-technologies-that-will-advance-the-retail-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-1200-80.jpg",
+          "width": 970,
+          "height": 646,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/emerging-technologies-that-will-advance-the-retail-industry",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/emerging-technologies-that-will-advance-the-retail-industry",
+      "publishedDateTime": "2020-10-28T20:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-microsoft-improves-password-spray-attack-detection-using-machine-learning.md",
+      "title": "Microsoft Improves Password Spray Attack Detection Using Machine Learning",
+      "excerpt": "Microsoft on Monday announced that it has developed a new algorithm based on machine learning that improves password spray detection in Azure Active Directory (Azure AD).",
+      "sourceUrl": null,
+      "webUrl": "https://www.techworm.net/2020/10/microsoft-password-spray-attack-detection.html",
+      "originalUrl": "https://www.techworm.net/2020/10/microsoft-password-spray-attack-detection.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techworm.net/wp-content/uploads/2020/10/passwords.jpeg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techworm.net/2020/10/microsoft-password-spray-attack-detection.html/amp",
+      "cdnAmpWebUrl": "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2020/10/microsoft-password-spray-attack-detection.html/amp",
+      "publishedDateTime": "2020-10-28T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techworm.net",
+        "domain": "techworm.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-emerging-technologies-that-will-advance-the-retail-industry.md",
       "title": "Emerging technologies that will advance the retail industry",
       "excerpt": "In response to this changing landscape, retailers have brought forward technology investments to accelerate their digital business transformation, particularly in artificial intelligence (AI) technologies with retailers often utilizing AI-enabled third-party vendor applications to solve immediate challenges before moving to more strategic deployments once they gain evidence of the benefits.",
@@ -760,6 +856,59 @@
       ]
     },
     {
+      "path": "_news/2020-10-26-android-studio-improves-machine-learning-support.md",
+      "title": "Android Studio improves machine learning support",
+      "excerpt": "With the 4.1 release, Android Studio improves on-device machine learning support via backing for TensorFlow Lite models in Android projects. Android Studio generates classes so models can be run ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3584465/android-studio-improves-machine-learning-support.html",
+      "originalUrl": "https://www.infoworld.com/article/3584465/android-studio-improves-machine-learning-support.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/01/cw_android_intelligence_jr_android_tuneup_abstract_gears_wireframe_by_igor_korchak_gettyimages-100784978-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3584465/android-studio-improves-machine-learning-support.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3584465/android-studio-improves-machine-learning-support.amp.html",
+      "publishedDateTime": "2020-10-25T16:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-10-25-how-to-win-with-machine-learning.md",
       "title": "How to win with machine learning",
       "excerpt": "A prediction, in the context of machine learning, is an information output that comes from entering some data and running an algorithm. For example, when your mobile navigation app serves up a ...",
@@ -1237,153 +1386,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-mit-seeks-to-resurrect-dead-languages-with-machine-learning.md",
-      "title": "MIT seeks to resurrect 'dead' languages with machine learning",
-      "excerpt": "By implementing a new translation system and a bit of detective work, researchers hope to give old indecipherable languages a new voice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/mit-seeks-to-resurrect-dead-languages-with-machine-learning/",
-      "originalUrl": "https://www.cnet.com/news/mit-seeks-to-resurrect-dead-languages-with-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/oIgSdZTaU-UxA48WUT70KtAh2ZM=/1200x630/2020/10/21/bbfec165-3dcb-4d55-b8aa-493c200f8cb2/gettyimages-1131558568.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/mit-seeks-to-resurrect-dead-languages-with-machine-learning/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/mit-seeks-to-resurrect-dead-languages-with-machine-learning/",
-      "publishedDateTime": "2020-10-21T15:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence.md",
-      "title": "Nvidia makes a clean sweep of MLPerf predictions benchmark for artificial intelligence",
-      "excerpt": "MLPerf benchmark tests are an opportunity for chip vendors, and system builders, to show how much performance they can achieve on a representative set of machine learning tasks. Nvidia capture top marks against Intel in all the tests.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/",
-      "originalUrl": "https://www.zdnet.com/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/",
-      "publishedDateTime": "2020-10-21T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-the-future-of-work-now-automl-at-8451and-kroger.md",
-      "title": "The Future Of Work Now: AutoML At 84.51°And Kroger",
-      "excerpt": "Some of it, anyway. A relatively new technology called “automated machine learning, or “AutoML,” is shaking up the world of data science. It’s making professional data scientists more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomdavenport/2020/10/21/the-future-of-work-now-automl-at-8451and-kroger/",
-      "originalUrl": "https://www.forbes.com/sites/tomdavenport/2020/10/21/the-future-of-work-now-automl-at-8451and-kroger/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f906be5e0ce2da2fec4f443%2F0x0.jpg",
-          "width": 1200,
-          "height": 1315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2020/10/21/the-future-of-work-now-automl-at-8451and-kroger/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/10/21/the-future-of-work-now-automl-at-8451and-kroger/amp/",
-      "publishedDateTime": "2020-10-21T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

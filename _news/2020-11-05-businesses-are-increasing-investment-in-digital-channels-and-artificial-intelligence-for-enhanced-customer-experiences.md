@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/businesses-are-increasin
 webUrl: "https://www.marketwatch.com/press-release/businesses-are-increasing-investment-in-digital-channels-and-artificial-intelligence-for-enhanced-customer-experiences-2020-11-04"
 type: article
 quality: 43
-heat: 53
+heat: 43
 published: false
 
 provider:

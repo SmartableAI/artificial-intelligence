@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/business/2020/11/05/ai-artificial-i
 webUrl: "https://www.washingtonpost.com/business/2020/11/05/ai-artificial-intelligence-art-sougwen-chung/?arc404=true"
 type: article
 quality: 46
-heat: 56
+heat: 46
 published: false
 
 provider:

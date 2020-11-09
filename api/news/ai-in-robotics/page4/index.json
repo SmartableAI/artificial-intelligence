@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-12-the-disinfectant-robot-market-is-expected-to-register-a-cagr-of-364-during-the-forecast-period-2020-2025.md",
+      "title": "The disinfectant robot market is expected to register a CAGR of 36.4% during the forecast period (2020-2025",
+      "excerpt": "The disinfectant robot market is expected to register a CAGR of 36.4% during the forecast period (2020-2025), owing to the rising demand for hygiene globally across various sectors. The global Disinfectant Robot Market (henceforth,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-disinfectant-robot-market-is-expected-to-register-a-cagr-of-36-4-during-the-forecast-period-2020-2025-1029670262",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-disinfectant-robot-market-is-expected-to-register-a-cagr-of-36-4-during-the-forecast-period-2020-2025-1029670262",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-12T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-12-robotics-startup-miko-raises-inr-23-cr-from-stride-ventures-angel-investors.md",
       "title": "Robotics Startup Miko raises INR 23 Cr From Stride Ventures, Angel Investors",
       "excerpt": "This infusion comes after the startup had raised INR 15.98 Cr from investors such as WNS group CEO and NASSCOM’s chairman Keshav Rurugesh, Inderjit Kaur Arora, Suresh Subramani, Giridhar Sanjeevi and a few others last year.",
@@ -1363,49 +1406,6 @@
       "provider": {
         "name": "Simon Fraser University",
         "domain": "www.sfu.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-bolstering-robotics-enterprise-potential-using-ai-applications.md",
-      "title": "Bolstering Robotics Enterprise Potential using AI Applications",
-      "excerpt": "Robots perform tasks like recognizing and grasping objects, automating its navigation and understanding human language with the unveiling of Artificial Intelligence (AI) applications in its system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/bolstering-robotics-enterprise-potential-using-ai-applications/",
-      "originalUrl": "https://www.analyticsinsight.net/bolstering-robotics-enterprise-potential-using-ai-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Robotics.jpeg",
-          "width": 2560,
-          "height": 1539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-03T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
         "images": null,
         "publishers": null,
         "authors": null

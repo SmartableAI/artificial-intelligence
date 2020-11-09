@@ -40,22 +40,6 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "Intel acquires Cnvrg.io to enhance ML and AI capabilities"
-    excerpt: "Intel has yet again acquired another startup to upgrade its automation capabilities in technologies like machine learning and artificial intelligence."
-    publishedDateTime: 2020-11-04T10:34:00Z
-    webUrl: "https://www.ciol.com/intel-acquires-cnvrg-io-enhance-ml-ai-capabilities/"
-    ampWebUrl: "https://www.ciol.com/intel-acquires-cnvrg-io-enhance-ml-ai-capabilities/amp/"
-    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/intel-acquires-cnvrg-io-enhance-ml-ai-capabilities/amp/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 78
-    images:
-      - url: "https://www.ciol.com/wp-content/uploads/2019/08/Intel-AI.jpg"
-        width: 850
-        height: 400
-        isCached: true
 
 secured: "x6qWIm509zkSub2pAbYX2pBvSl0Y9s1E1cqVY9vZczpvx/U51JRhY2hGjWfxdndREyQNr3wM7l1/2oc0/VJRw+SDBOtmaw474uqXMFhU9pe/41WjenIC7SCdLMIiIfwT5YmtgE/L7KM+V7swuclD+R4/e18InTVu2qOlz9wK/Jl6UH6Gysd01fNDtateyHSfLKkwCZjOg2rMFcMBEd1ydMYrXxw4r3XVhLu/0UV0q6vttvIXWjUcqKqzT4W9t7PlFbApRzqLGLjGA9nhgeCjhMFn5o1+IpcW8ccapoDa7osAL71o150MJYk8o9uflJj2uRglYVd3PXYVhGVuAOzV3XORnm/4tUq7AKyu+MnIfxIzGp1/hmjbX9hdSMC3GfLThjp3br2aXTm61l0P91u4rU5vBbHFJCxNYwo2cDBUcO4mwrXjdsyY7wMQTYiirvtcQRqs14lk0e+JHv5P1hufcmjuvZ6o/YOgb7A8BHxpmouy6VnkK3IPvB7Nnco0rHHVymK2lmBb8W+mwRbWLAc2lg==;Wf9NX1OrLd6a/vtoyzBYaw=="
 ---

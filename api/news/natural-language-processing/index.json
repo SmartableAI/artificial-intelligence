@@ -361,6 +361,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-03-samsung-will-shut-down-s-translator-soon.md",
+      "title": "Samsung Will Shut Down S Translator Soon",
+      "excerpt": "Samsung has announced plans to shut down S Translator. The outdated language translation service will reach its end of life on December 1, 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2020/11/samsung-shut-down-s-translator-soon.html",
+      "originalUrl": "https://www.androidheadlines.com/2020/11/samsung-shut-down-s-translator-soon.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2019/02/Samsung-Logo-2019-AM-AH-1.jpg",
+          "width": 1600,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/2020/11/samsung-shut-down-s-translator-soon.html/amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/11/samsung-shut-down-s-translator-soon.html/amp",
+      "publishedDateTime": "2020-11-03T04:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership.md",
       "title": "ImmunoPrecise Antibodies and Mila Announce Strategic AI Partnership",
       "excerpt": "\"This partnership opens up an exciting opportunity for AI to tap into unexplored ... Mila has distinguished itself in the areas of language modelling, machine translation, object recognition ...",
@@ -1404,59 +1447,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-machine-learning-helps-translate-lost-languages.md",
-      "title": "Machine learning helps translate lost languages",
-      "excerpt": "Researchers at MIT have created a new system that uses machine learning to help linguists decipher languages that have been lost to time. Research suggests that most languages that have ever",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/machine-learning-helps-translate-lost-languages-21643696/",
-      "originalUrl": "https://www.slashgear.com/machine-learning-helps-translate-lost-languages-21643696/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/10/dead-languages.jpg",
-          "width": 1280,
-          "height": 961,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/machine-learning-helps-translate-lost-languages-21643696/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/machine-learning-helps-translate-lost-languages-21643696/amp/",
-      "publishedDateTime": "2020-10-21T05:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

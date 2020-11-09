@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Portland, Maine votes in favor of facial recognition ban"
-    excerpt: "Portland, Maine is the latest in the growing list of cities in the US to ban facial recognition technologies. According to Bangor Daily News, people voted in favor of of passing a new measure that strengthens Portland’s existing ban on the use of facial recognition tech by law enforcement agencies and public officials."
-    publishedDateTime: 2020-11-04T10:50:00Z
-    webUrl: "https://www.engadget.com/portland-maine-facial-recognition-ban-102520333.html"
-    ampWebUrl: "https://www.engadget.com/amp/portland-maine-facial-recognition-ban-102520333.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/portland-maine-facial-recognition-ban-102520333.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 104
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2Fcc1bf930-1e7e-11eb-bcbb-968035ffca74&client=amp-blogside-v2&signature=7d33292ecf8e506a1787df069226608b5cfa0e66"
-        width: 600
-        height: 350
-        isCached: true
 
 secured: "s3BRjAQFrIk1TuF8ao+F97ArTDJgdKKqiYDdnncyz9Jp+x+Qi1xi04ZYnthLZYM0cMuYuVdDLsfYUWc48X7mbKgx9uD3FbHll9UmzB32g6zglSsP96ZI3tfGAPLKsWnVZOI1LdVgNHfkQTK3NiQtp1WgILYWbBbwcSY+S8yiASxjAGQBOgT/nQzAmwTniM1RMfk7+TEuejeLX31LP35/DcwigKhRGKQyQivEgkZ/luFd53G04ukQo65+ioZYqXGXwMywefm2n0/FOLYnbgczBQG8nkwNEVZh93YrD2yfWniH6ixZFgmJjfJYRdy8sMjg91rV6OtA4C/7ZIDMkqUnNEfMBL+J6iqi5sIgj5isJYWPWhE9aBBlTYlJNaUbtvJQxFCmQufI9ElR8G1Kbg9Y5vR1Z11dZ1xFxhqOY+hxDtGW2mGCb4+KdnzruuM40HTTJpSYjjtJagYxAHwtnt2QER6+9lm3VoNZ1ec9U+l3X3H7ZSIiXtQXj+n7OxvDK1s675mL3RmtXAeh7VuVL2Ns+A==;5WhVf4t+C8nqIrovgYEBYQ=="
 ---

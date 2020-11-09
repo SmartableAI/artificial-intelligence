@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-06-america-enters-the-era-of-technopolitik.md",
+      "title": "America Enters the Era of Technopolitik",
+      "excerpt": "The U.S. has long relied on a geographic network of friends, but the future of multilateralism looks very different.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2020-11-06/u-s-needs-australia-sweden-south-korea-to-beat-china-in-ai-battle",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2020-11-06/u-s-needs-australia-sweden-south-korea-to-beat-china-in-ai-battle",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iExXFozC.O3o/v1/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/opinion/articles/2020-11-06/u-s-needs-australia-sweden-south-korea-to-beat-china-in-ai-battle",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/opinion/articles/2020-11-06/u-s-needs-australia-sweden-south-korea-to-beat-china-in-ai-battle",
+      "publishedDateTime": "2020-11-06T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-06-chinese-driverless-car-firm-ponyai-valued-at-53-billion-after-new-cash-injection.md",
       "title": "Chinese driverless car firm Pony.ai valued at $5.3 billion after new cash injection",
       "excerpt": "A fund run by the Ontario Teachers' Pension Plan Board led the $267 million investment into Pony.ai which also included existing investors.",
@@ -1468,59 +1520,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-tesla-should-sell-its-self-driving-computer-chips-says-commaais-george-hotz.md",
-      "title": "Tesla should sell its self-driving computer chips, says comma.ai’s George Hotz",
-      "excerpt": "George Hotz, CEO of comma.ai, argues that Tesla should sell its self-driving computer chip and create some competition to Nvidia in the process. Hotz rose to fame through his hacking feats as a ...",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2020/10/27/tesla-sell-self-driving-computer-chip-comma-ai-george-hotz/",
-      "originalUrl": "https://electrek.co/2020/10/27/tesla-sell-self-driving-computer-chip-comma-ai-george-hotz/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2019/04/Screen-Shot-2019-04-22-at-2.48.22-PM-1-e1555961353311.jpg?quality=82&strip=all",
-          "width": 1587,
-          "height": 706,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2020/10/27/tesla-sell-self-driving-computer-chip-comma-ai-george-hotz/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/27/tesla-sell-self-driving-computer-chip-comma-ai-george-hotz/amp/",
-      "publishedDateTime": "2020-10-27T14:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

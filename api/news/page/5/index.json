@@ -2,6 +2,325 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-03-walmart-is-giving-up-on-shelf-scanning-robots-in-favor-of-humans.md",
+      "title": "Walmart is giving up on shelf-scanning robots in favor of humans",
+      "excerpt": "Walmart began using robots supplied by Bossa Nova Robotics in 2017, with initial deployments in 50 locations. The mobile robots would simplify routine work in stores, said the company, using machine vision to scan shelves and identify what products needed restocking.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2020/11/3/21547306/walmart-shelf-scanning-robots-automation-bossa-nova-robotics-contract-ended",
+      "originalUrl": "https://www.theverge.com/2020/11/3/21547306/walmart-shelf-scanning-robots-automation-bossa-nova-robotics-contract-ended",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/t3ZrzqtpB7sjyV4z4vnFdTPRAys=/0x0:3500x2240/1400x933/filters:focal(1470x840:2030x1400):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67730216/964537032.jpg.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/11/3/21547306/walmart-shelf-scanning-robots-automation-bossa-nova-robotics-contract-ended",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/11/3/21547306/walmart-shelf-scanning-robots-automation-bossa-nova-robotics-contract-ended",
+      "publishedDateTime": "2020-11-03T03:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-ai-godfather-geoff-hinton-deep-learning-is-going-to-be-able-to-do-everything.md",
+      "title": "AI godfather Geoff Hinton: “Deep learning is going to be able to do everything”",
+      "excerpt": "There’s going to have to be quite a few conceptual breakthroughs...we also need a massive increase in scale.\" On neural networks’ weaknesses: \"Neural nets are surprisingly good at dealing with a rather small amount of data,",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/",
+      "originalUrl": "https://www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/11/AP_384463506721-e1604359379321.jpg?w=3000",
+          "width": 3000,
+          "height": 1687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/amp/",
+      "publishedDateTime": "2020-11-03T02:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-security-tradeoffs-in-chips-and-ai-systems.md",
+      "title": "Security Tradeoffs In Chips And AI Systems",
+      "excerpt": "How security affects power and performance, why AI systems are so difficult to secure, and why privacy is a growing consideration.",
+      "sourceUrl": null,
+      "webUrl": "https://semiengineering.com/security-tradeoffs-in-chips-and-ai-systems/",
+      "originalUrl": "https://semiengineering.com/security-tradeoffs-in-chips-and-ai-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/semiengineering.com/wp-content/uploads/Green-lock-AdobeStock_262812904-10-12-20-scaled.jpeg?fit=2560%2C1434&#038;ssl=1",
+          "width": 2560,
+          "height": 1434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-03T00:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-wipro-and-aws-announce-the-launch-of-wipro-aws-business-group.md",
+      "title": "Wipro and AWS announce the launch of Wipro AWS Business Group",
+      "excerpt": "Wipro has announced the launch of Wipro AWS Business Group (WABG), a unit designed to help customers fast-track their cloud transformation journey on AWS.",
+      "sourceUrl": null,
+      "webUrl": "https://www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/",
+      "originalUrl": "https://www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.voicendata.com/wp-content/uploads/2020/10/handshak-image.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/amp/",
+      "cdnAmpWebUrl": "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/amp/",
+      "publishedDateTime": "2020-11-02T23:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Voicendata.com",
+        "domain": "voicendata.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-how-tinyml-makes-artificial-intelligence-ubiquitous.md",
+      "title": "How TinyML Makes Artificial Intelligence Ubiquitous",
+      "excerpt": "TinyML makes AI ubiquitous and accessible to consumers. It will bring intelligence to millions of devices that we use on a daily basis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/11/03/how-tinyml-makes-artificial-intelligence-ubiquitous/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2020/11/03/how-tinyml-makes-artificial-intelligence-ubiquitous/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa0f496620890efe6ac1182%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D999%26cropY1%3D50%26cropY2%3D612",
+          "width": 999,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/11/03/how-tinyml-makes-artificial-intelligence-ubiquitous/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/11/03/how-tinyml-makes-artificial-intelligence-ubiquitous/amp/",
+      "publishedDateTime": "2020-11-02T22:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-elon-musk-raises-price-of-teslas-full-self-driving-package-to-10000-usd.md",
+      "title": "Elon Musk Raises Price of Tesla's Full Self-Driving Package to $10,000 USD",
+      "excerpt": "Following through with what Elon Musk has said before, the CEO of Tesla has now announced a price hike for the EV automaker’s Full Self-Driving (FSD) package, bringing it up by $2,000 USD to $10,000 USD.",
+      "sourceUrl": null,
+      "webUrl": "https://hypebeast.com/2020/11/tesla-elon-musk-full-self-driving-10000-usd-price-increase-news",
+      "originalUrl": "https://hypebeast.com/2020/11/tesla-elon-musk-full-self-driving-10000-usd-price-increase-news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F11%2Ftesla-elon-musk-full-self-driving-10000-usd-price-increase-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max",
+          "width": 1170,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hypebeast.com/2020/11/tesla-elon-musk-full-self-driving-10000-usd-price-increase-news?amp=1",
+      "cdnAmpWebUrl": "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/11/tesla-elon-musk-full-self-driving-10000-usd-price-increase-news?amp=1",
+      "publishedDateTime": "2020-11-02T22:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hypebeast",
+        "domain": "hypebeast.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-face-recognition-pollution-alert-in-tech-upgrade.md",
+      "title": "Face recognition, pollution alert in tech upgrade",
+      "excerpt": "The city’s ambitious smart traffic management system system — that proposes to use advanced technologies and a surveillance web of cameras to m.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/articleshow/79008997.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/articleshow/79008997.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-79008996/79008996.jpg",
+          "width": 800,
+          "height": 751,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/amp_articleshow/79008997.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/amp_articleshow/79008997.cms",
+      "publishedDateTime": "2020-11-02T17:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-facial-recognition-used-to-arrest-protestor-at-trump-bible-photo-op.md",
       "title": "Facial recognition used to arrest protestor at Trump bible photo op",
       "excerpt": "Of course a little known facial recognition tool was used on Black Lives Matter protestors. This past June, as protestors were tear-gassed in Washington D.C.'s Lafayette Square so that Donald ...",
@@ -867,318 +1186,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-microsoft-to-expand-azure-kinects-computer-vision-tech-to-commercial-market.md",
-      "title": "Microsoft to Expand Azure Kinect’s Computer Vision Tech to Commercial Market",
-      "excerpt": "The technology behind Microsoft’s enterprise-focused computer vision camera, the Azure Kinect developer kit, will soon find its way into commercial products. Microsoft is collaborating with two companies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.roadtovr.com/microsoft-azure-kinect-commercial/",
-      "originalUrl": "https://www.roadtovr.com/microsoft-azure-kinect-commercial/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2020/11/azure-kinect.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.roadtovr.com/microsoft-azure-kinect-commercial/amp/",
-      "cdnAmpWebUrl": "https://www-roadtovr-com.cdn.ampproject.org/c/s/www.roadtovr.com/microsoft-azure-kinect-commercial/amp/",
-      "publishedDateTime": "2020-11-02T05:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Road to VR",
-        "domain": "roadtovr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-cmos-predict-your-wins-with-ai-and-predictive-analytics.md",
-      "title": "CMOs, Predict Your Wins With AI And Predictive Analytics",
-      "excerpt": "Business intelligence and predictive analytics are the closest measures we have to a crystal ball that shows us how well new strategies and campaigns will perform",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/358890",
-      "originalUrl": "https://www.entrepreneur.com/article/358890",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1604323446-online-3539412.png?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/358890",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/358890",
-      "publishedDateTime": "2020-11-02T05:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-wipro-and-aws-announce-the-launch-of-wipro-aws-business-group-to-accelerate-growth.md",
-      "title": "Wipro and AWS Announce the Launch of Wipro AWS Business Group to Accelerate Growth",
-      "excerpt": "Wipro Limited, a leading global information technology, consulting, and business process services company, today announced the launch of its dedicated Wipro AWS Business Group, a unit designed to help customers fast-track their cloud transformation journey on AWS.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/wipro-and-aws-announce-the-launch-of-wipro-aws-business-group-to-accelerate-growth",
-      "originalUrl": "https://www.nasdaq.com/press-release/wipro-and-aws-announce-the-launch-of-wipro-aws-business-group-to-accelerate-growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-02T04:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-c3ai-on-tackling-crm-education-social-media-regulation-and-enterprise-ai.md",
-      "title": "C3.ai on tackling CRM, education, social media regulation, and enterprise AI",
-      "excerpt": "Tom Siebel, CEO of C3.ai, talks to ZDNet's Larry Dignan about his company's partnership with Microsoft and Adobe, AI's role in solving for COVID-19 and remote education, the filter bubble, and where enterprise AI is headed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/video/c3-ai-on-tackling-crm-education-social-media-regulation-and-enterprise-ai/",
-      "originalUrl": "https://www.zdnet.com/video/c3-ai-on-tackling-crm-education-social-media-regulation-and-enterprise-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/10/26/44ec6ca4-76d9-47a7-bb91-702d043a02f0/thumbnail/370x278/0d446269b82a0f8eb0086f3aa3362247/mastercard-idemia-and-matchmove-to-pilot-5f95f54693eaa218d73998e8-1-oct-26-2020-4-53-52-poster.jpg",
-          "width": 370,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-02T04:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-artificial-intelligence-in-healthcare-is-racist.md",
-      "title": "Artificial Intelligence in healthcare is racist",
-      "excerpt": "Can broader datasets help developers avoid accidentally perpetuating deep-rooted biases in vital institutions like healthcare and education?",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-in-healthcare-is-racist/",
-      "originalUrl": "https://www.zdnet.com/article/artificial-intelligence-in-healthcare-is-racist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-in-healthcare-is-racist/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-in-healthcare-is-racist/",
-      "publishedDateTime": "2020-11-02T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-citizen-services-ai-market-growing-at-a-cagr-463-key-player-servicenow-microsoft-ibm-accenture-aws.md",
-      "title": "Citizen Services AI Market Growing at a CAGR 46.3% | Key Player Servicenow, Microsoft, IBM, Accenture, AWS",
-      "excerpt": "The global Citizen Services AI Market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 46.3% during the forecast period, to reach USD 9.7 billion by 2024 from USD 1.5 billion in 2019.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/citizen-services-ai-market-growing-at-a-cagr-463-key-player-servicenow-microsoft-ibm-accenture-aws-2020-11-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/citizen-services-ai-market-growing-at-a-cagr-463-key-player-servicenow-microsoft-ibm-accenture-aws-2020-11-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-02T03:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-alpitour-world-selects-ibm-hybrid-cloud-and-ai-capabilities-for-a-more-personalized-customer-experience.md",
-      "title": "Alpitour World Selects IBM Hybrid Cloud and AI Capabilities For a More Personalized Customer Experience",
-      "excerpt": "ARMONK, N.Y. and MILAN, Nov. 2, 2020 /PRNewswire/ -- IBM (NYSE: IBM) and Italy's leading travel company, Alpitour Group, announced that it has selected IBM Watson, enabled by hybrid cloud ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/alpitour-world-selects-ibm-hybrid-cloud-and-ai-capabilities-for-a-more-personalized",
-      "originalUrl": "https://www.nasdaq.com/press-release/alpitour-world-selects-ibm-hybrid-cloud-and-ai-capabilities-for-a-more-personalized",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-02T03:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

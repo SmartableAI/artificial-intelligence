@@ -8,6 +8,9 @@ webUrl: "https://www.reuters.com/article/uk-inceptio-autonomous-idUKKBN27O0Y9"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27O0Y9"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27O0Y9"
 type: article
+quality: 83
+heat: 83
+published: true
 
 provider:
   name: Reuters

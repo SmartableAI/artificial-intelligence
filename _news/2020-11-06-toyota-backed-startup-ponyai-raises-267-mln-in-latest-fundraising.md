@@ -42,7 +42,26 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 47
+    quality: 67
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540226295&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEGA50IE"
+        width: 810
+        height: 543
+        isCached: true
+  - title: "Autonomous Startup Pony.ai Raises $267m To Boost R&D"
+    excerpt: "California-based Pony.ai said it is raising $267 million in a fresh funding round that pushes the self-driving technology startup’s valuation to about $5.3 billion as it seeks to expand its customer base globally."
+    publishedDateTime: 2020-11-09T01:12:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2020-11-09/autonomous-startup-pony-ai-raises-267m-to-boost-r-d-video"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ix.YLzmNyBzI/v5/-1x-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "kmnjHK91TvB7Nlv/Jc+AtrqRHLsMkzyFwDNw2ZeYXOZJ8e/a0JPrfRvZhYc7MFiq1E1/JRmDnuRUX8Kuih/++O3UXtU7W028Nijwx5lhk7dxMfUUe4yP9M4Ukg4Oig5M12tRvGG1FaIGk+FuIjJpfJpQEZZYyyXMza28kIgVwTUUkSN+CcsKPgi2D8gBjD/2Gv0wYe/B/TMxjgWgN9a1WUavh5+KPvbQljwLaO0DwTcL3UIf6Yr54VCN68G8QVHCG9gR0Lu/BzreKUyiiGV/6pmcrIOIuD/OZWsUTlkdiUtHX9RGFrVpCTe/b6cOEYm4sGnzKIpPt/naJKi4ThIMCKjxCblx4b4QISENbJTQoEvOYpM2Km7Ou1U8fciRJyXEWBBw/Oab4tBEhR34UpSM1dMLbccTEawRUAZr4WYqY/L4We/FZ3yUurpkAoaGxcZV3WU8fvXgh6uw6OgLkQwGaktf7oowCoj7VSAhaKiIwvzPbHFxQSToaC2LE/y83NwFLNKTbZFlzh7oABcISMS0cA==;WJombWohitFPMVjQeSu5Ng=="
 ---

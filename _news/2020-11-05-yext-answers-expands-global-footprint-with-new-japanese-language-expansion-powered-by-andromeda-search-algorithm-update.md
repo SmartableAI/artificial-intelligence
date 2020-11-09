@@ -6,6 +6,9 @@ publishedDateTime: 2020-11-05T11:00:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/yext-answers-expands-global-footprint-with-new-japanese-language-expansion-powered-by-andromeda-search-algorithm-update-301166864.html"
 webUrl: "https://www.prnewswire.com/news-releases/yext-answers-expands-global-footprint-with-new-japanese-language-expansion-powered-by-andromeda-search-algorithm-update-301166864.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: PR Newswire

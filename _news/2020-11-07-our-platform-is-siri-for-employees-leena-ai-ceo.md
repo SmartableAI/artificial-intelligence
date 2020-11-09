@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/359222"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359222"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 600
     height: 338
     isCached: true
-
-related:
-  - title: "HR-Tech Startup Leena AI Raises $8M In Series A Funding To Accelerate Hiring & Product Development"
-    excerpt: "Leena AI, an AI-based employee experience platform, has announced an $8 million funding in Series A round led by Greycroft."
-    publishedDateTime: 2020-11-04T08:03:00Z
-    webUrl: "https://analyticsindiamag.com/hr-tech-startup-leena-ai-raises-8m-in-series-a-funding-to-accelerate-hiring-product-development/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 23
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/11/HR-Tech-Startup-Leena-AI-Raises-8M-In-Series-A-Funding-To-Accelerate-Hiring-Product-Development-.jpeg"
-        width: 1050
-        height: 700
-        isCached: true
 
 secured: "ZSzfa2o/nWiZLvW3+JRuQjNhhSQR7O/r5td/2hWL4cTbqftz1V7X8Q/Ahowee7FexxMZNLbyTckP6BU45cTRjkwnGT+563tvBe8hhoI7NZvGFLl+Yi67wsso313bqroJevYhDuJV3HNDV/EVZ/uoLkARXmCyMiKdLJnSWOwVrr1zl5kg/MBJ5BHEFKuPYcipHqsVvZ+gsoZ5w4QtR/wicIEO9jKA3/l1H+kM4thDuHJhR+fLp080TMBvS4707Uqgn/t44kfNesy3dgkisWoqZgMaCES8mQk+9OQW5pG+icZVGVzWkuhHisQsN8USM0nBvq4KRsilNR5eoIyehVLkpRf3wg5AYJsdY7QA4Cz8dDZ6L24WtPVxTj9wq9hCA8KU1ck0QMlY81pcz2eAYmrMtr3OGwOgzCR0A+UEPjiqT8RuY71qXeNO9g/S+fnvAfwjhdoFIp84EaHd5xtEXfazvbiQLZYEsJQysET2h1DNtAfI8Pd/jYmmGoDamUQ8ApLVXzv85Wl6R+nTjAuG/xmFQQ==;AB3VRjlwqqDzNqw9Uep7lg=="
 ---

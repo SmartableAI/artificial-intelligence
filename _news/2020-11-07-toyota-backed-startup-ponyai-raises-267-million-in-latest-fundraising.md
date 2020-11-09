@@ -7,7 +7,7 @@ originalUrl: "https://www.theguardian.pe.ca/business/reuters/toyota-backed-start
 webUrl: "https://www.theguardian.pe.ca/business/reuters/toyota-backed-startup-ponyai-raises-267-million-in-new-funding-round-517485/"
 type: article
 quality: 137
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Toyota-backed startup Pony.ai raises $267 million in latest fundraising"
+    excerpt: "James Peng, Chief Executive Office (CEO) of autonomous driving technology startup Pony.ai, speaks at a product event during the third China International Import Expo (CIIE) in Shanghai, China November"
+    publishedDateTime: 2020-11-06T12:54:00Z
+    webUrl: "https://www.reuters.com/news/picture/toyota-backed-startup-ponyai-raises-267-idUSKBN27M0QW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540226295&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEGA50IE"
+        width: 810
+        height: 543
+        isCached: true
   - title: "Toyota-backed startup Pony.ai raises $267 mln in latest fundraising"
     excerpt: "Pony.ai, backed by Toyota Motor Corp 7203.T, said on Friday it has raised $267 million in the initial phase of its fundraising round that values the self-driving startup at $5.3 billion, as it seeks to boost its presence in the United States and China."
     publishedDateTime: 2020-11-06T07:33:00Z
@@ -35,15 +49,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
-  - title: "Toyota-backed startup Pony.ai raises $267 million in latest fundraising"
-    excerpt: "James Peng, Chief Executive Office (CEO) of autonomous driving technology startup Pony.ai, speaks at a product event during the third China International Import Expo (CIIE) in Shanghai, China November"
-    publishedDateTime: 2020-11-06T12:54:00Z
-    webUrl: "https://www.reuters.com/news/picture/toyota-backed-startup-ponyai-raises-267-idUSKBN27M0QW"
+  - title: "Autonomous Startup Pony.ai Raises $267m To Boost R&D"
+    excerpt: "California-based Pony.ai said it is raising $267 million in a fresh funding round that pushes the self-driving technology startup’s valuation to about $5.3 billion as it seeks to expand its customer base globally."
+    publishedDateTime: 2020-11-09T01:12:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2020-11-09/autonomous-startup-pony-ai-raises-267m-to-boost-r-d-video"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ix.YLzmNyBzI/v5/-1x-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "+YKDXZanL9qHcuNekZQ3HFiczR/u5ZeYvsggSdb8UQE6nRSD5Fpl0sDC3uLxaMP8xha54kqdrJor99dm0dZc7e0VpUW782c4bklb2iFc53g9cw5uBUTnHJqvzirLTkvJhiR1isRQ5Y5VHheK61ZlOkrrp7D6mE20YhtIKRr2fcBBpP+3GtM/+2o3b/hsYTXErhW8bxNRBSUPn1hdcBnY3gQ1lAlgZmIoOtmvQT9CnRnUSf1gNknWQfuQUujGC4hcjTdVFEfOUjLuE8MnSSDTMnPKTd9CXgaijEP5K3lsbthRMUT1BvtShCvNKDBLBsdxUUyY8Bmr32hF9UgcOlFCU0YeKJIBh3/70yzQZlF+p3U=;ZzS/UXBfHnTsLf+sZMzjxA=="
 ---

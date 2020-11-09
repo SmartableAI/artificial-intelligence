@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/11/05/were-ready
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/05/were-ready-for-mainstream-facial-recognition-but-is-it-ready-for-us/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Portland, Maine votes in favor of facial recognition ban"
-    excerpt: "Portland, Maine is the latest in the growing list of cities in the US to ban facial recognition technologies. According to Bangor Daily News, people voted in favor of of passing a new measure that strengthens Portland’s existing ban on the use of facial recognition tech by law enforcement agencies and public officials."
-    publishedDateTime: 2020-11-04T10:50:00Z
-    webUrl: "https://www.engadget.com/portland-maine-facial-recognition-ban-102520333.html"
-    ampWebUrl: "https://www.engadget.com/amp/portland-maine-facial-recognition-ban-102520333.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/portland-maine-facial-recognition-ban-102520333.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 104
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2Fcc1bf930-1e7e-11eb-bcbb-968035ffca74&client=amp-blogside-v2&signature=7d33292ecf8e506a1787df069226608b5cfa0e66"
-        width: 600
-        height: 350
-        isCached: true
   - title: "Maine voters double down on facial recognition ban in win for privacy"
     excerpt: "In other words, if the city violates your right to not be wrapped up in a shady facial recognition database, you get paid. According to early elections results, the act passed with just over 64 ..."
     publishedDateTime: 2020-11-05T00:30:00Z

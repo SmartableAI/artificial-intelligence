@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-09-the-best-machine-learning-startups-to-work-for-in-2021-according-to-glassdoor.md",
+      "title": "The Best Machine Learning Startups To Work For In 2021 According To Glassdoor",
+      "excerpt": "AVORA, Codesmith, FairMarkIT, Protenus and Ravelin are the most likely to be recommended by their employees to friends looking for a machine learning startup to work for in 2021 based on each company's Glassdoor ratings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/08/the-best-machine-learning-startups-to-work-for-in-2021-according-to-glassdoor/",
+      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/08/the-best-machine-learning-startups-to-work-for-in-2021-according-to-glassdoor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6970cb93c4bdf032c4b97d%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/08/the-best-machine-learning-startups-to-work-for-in-2021-according-to-glassdoor/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/11/08/the-best-machine-learning-startups-to-work-for-in-2021-according-to-glassdoor/amp/",
+      "publishedDateTime": "2020-11-08T17:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste.md",
+      "title": "CSIRO to use artificial intelligence, machine learning, and sensors to end plastic waste",
+      "excerpt": "The Commonwealth Scientific and Industrial Research Organisation (CSIRO) has announced partnerships with Microsoft, Hobart City Council, and Chemistry Australia to address -- and attempt to end -- Australia's plastics waste issue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
+      "originalUrl": "https://www.zdnet.com/article/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/06/16/9661d050-0c11-4767-a7ae-3c29bd3d17c5/storm-water-and-litter.jpg",
+          "width": 728,
+          "height": 570,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
+      "publishedDateTime": "2020-11-08T16:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-11-07-how-can-we-balance-progress-and-privacy-with-machine-learning.md",
       "title": "How Can We Balance Progress And Privacy With Machine Learning?",
       "excerpt": "It’s helpful to shift this conversation from AI as a whole to the more specific domain of machine learning (ML), and how we can harness its advantages and minimize its drawbacks. Machine Learning is a subset of AI that describes how computer algorithms get better at solving their domain specific problems by leveraging large data sets with which to train themselves.",
@@ -203,7 +307,7 @@
       "originalUrl": "https://seekingalpha.com/news/3631130-intel-acquires-machine-learning-platform-cnvrg-io-to-continue-ai-push-techcrunch",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -1350,102 +1454,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-emerging-technologies-that-will-advance-the-retail-industry.md",
-      "title": "Emerging technologies that will advance the retail industry",
-      "excerpt": "Services include natural language processing (NLP), sentiment analysis, image recognition and autoML model creation. Companies that began their digital transformations early in the pandemic are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/in/news/emerging-technologies-that-will-advance-the-retail-industry",
-      "originalUrl": "https://www.techradar.com/in/news/emerging-technologies-that-will-advance-the-retail-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-1200-80.jpg",
-          "width": 970,
-          "height": 646,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/in/amp/news/emerging-technologies-that-will-advance-the-retail-industry",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/emerging-technologies-that-will-advance-the-retail-industry",
-      "publishedDateTime": "2020-10-28T20:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-microsoft-improves-password-spray-attack-detection-using-machine-learning.md",
-      "title": "Microsoft Improves Password Spray Attack Detection Using Machine Learning",
-      "excerpt": "Microsoft on Monday announced that it has developed a new algorithm based on machine learning that improves password spray detection in Azure Active Directory (Azure AD).",
-      "sourceUrl": null,
-      "webUrl": "https://www.techworm.net/2020/10/microsoft-password-spray-attack-detection.html",
-      "originalUrl": "https://www.techworm.net/2020/10/microsoft-password-spray-attack-detection.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techworm.net/wp-content/uploads/2020/10/passwords.jpeg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techworm.net/2020/10/microsoft-password-spray-attack-detection.html/amp",
-      "cdnAmpWebUrl": "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2020/10/microsoft-password-spray-attack-detection.html/amp",
-      "publishedDateTime": "2020-10-28T12:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techworm.net",
-        "domain": "techworm.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

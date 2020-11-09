@@ -2,50 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-10-19-deep-learning-model-developed-to-identify-appropriate-lung-cancer-therapy.md",
-      "title": "Deep Learning Model Developed to Identify Appropriate Lung Cancer Therapy",
-      "excerpt": "Researchers are developing a noninvasive, method to analyze a non-small cell lung cancer mutations and biomarkers to determine the best course of treatment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.genengnews.com/news/deep-learning-model-developed-to-identify-appropriate-lung-cancer-therapy/",
-      "originalUrl": "https://www.genengnews.com/news/deep-learning-model-developed-to-identify-appropriate-lung-cancer-therapy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.genengnews.com/wp-content/uploads/2018/11/Apr6_2018_Getty_490025288_LungCancer.jpg",
-          "width": 2000,
-          "height": 1547,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-19T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GEN",
-        "domain": "genengnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2020-10-19-incorporating-artificial-intelligence-in-indian-healthcare-sector.md",
       "title": "Incorporating Artificial Intelligence In Indian Healthcare Sector",
       "excerpt": "Today is the time when we can see significant disruption in the Indian healthcare industry. Much of this is credited to the level of involvement of artificial intelligence, big data, cloud ...",
@@ -1377,6 +1333,49 @@
       "provider": {
         "name": "Mint",
         "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-raise-2020-a-mega-virtual-summit-on-artificial-intelligence.md",
+      "title": "RAISE 2020: A mega virtual summit on Artificial Intelligence",
+      "excerpt": "RAISE 2020, a mega virtual summit on Artificial Intelligence will be inaugurated today by Prime Minister Narendra Modi at 7 pm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.oneindia.com/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html",
+      "originalUrl": "https://www.oneindia.com/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.oneindia.com/img/400x99/2020/10/raise-1601867009.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.oneindia.com/amphtml/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html",
+      "cdnAmpWebUrl": "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/india/raise-2020-a-mega-virtual-summit-on-artificial-intelligence-3158764.html",
+      "publishedDateTime": "2020-10-04T20:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Oneindia",
+        "domain": "oneindia.com",
         "images": null,
         "publishers": null,
         "authors": null

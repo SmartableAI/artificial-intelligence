@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Lifestyle/wireStory/edmunds-driving-cars-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Lifestyle/wireStory/edmunds-driving-cars-74017111"
 type: article
 quality: 44
-heat: 54
+heat: 44
 published: false
 
 provider:

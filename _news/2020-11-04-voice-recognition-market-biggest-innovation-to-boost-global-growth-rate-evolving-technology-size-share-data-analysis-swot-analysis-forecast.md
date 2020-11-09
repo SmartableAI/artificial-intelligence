@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market: key Vendors, Trends, Analysis, Segmentation, Forecast to 2020-2026"
-    excerpt: "According to a new study published by Polaris Market Research the Global Artificial Intelligence Market is anticipated"
-    publishedDateTime: 2020-11-04T10:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-key-vendors-trends-analysis-segmentation-forecast-to-2020-2026-2020-11-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "IBM Watson Services Market Evolving Technology, Segmentation and Industry Analysis 2020 to 2027"
     excerpt: "Selbyville, Delaware As per the research report titled 'IBM Watson Services Market Share, Size, Trends, Industry Analysis Report, By Service Type; By End Use ; By Regions; Segment Forecast, 2020 -2027' available with Market Study Report LLC,"
     publishedDateTime: 2020-11-06T10:13:00Z
@@ -52,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Microprocessor and GPU Market worth $138.2 billion by 2025 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to the new market research report \" Microprocessor and GPU Market with COVID-19 Impact Analysis by Architecture, Functionality, GPU Type, Deployment, Application (Consumer Electronics, Server and Data Center,"
-    publishedDateTime: 2020-11-04T08:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/microprocessor-and-gpu-market-worth-1382-billion-by-2025---exclusive-report-by-marketsandmarketstm-2020-11-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -85,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice Recognition Market Future Challenges and Industry Growth Outlook 2025"
+    excerpt: "The research report on Voice Recognition market delivers a detailed assessment of this industry landscape, the major trends that define the dynamics over the forecast period are cited, together with regulatory outlook and geographical analysis."
+    publishedDateTime: 2020-11-06T16:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-future-challenges-and-industry-growth-outlook-2025-2020-11-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Food and Beverage Market Industry Analysis, Share, Growth, Trends, Top Key Players and Regional Forecast 2020-2026"
     excerpt: "Selbyville, Delaware Market Study Report LLC: An analysis of Artificial Intelligence (AI) in Food and Beverage market has been provided in the latest report added at Market Study Report LLC that primarily focuses on the market trends,"
     publishedDateTime: 2020-11-05T15:04:00Z
@@ -94,6 +80,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Autonomous Cars Market Growth Analysis, Size Expansion, Industry Share and Business Opportunities to 2027"
+    excerpt: "Widespread Adoption of ADAS to Boost Market Growth Advanced driver assistance systems (ADAS)assists drivers through their artificial intelligence and other advanced features, thereby avoiding ..."
+    publishedDateTime: 2020-11-04T15:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/autonomous-cars-market-growth-analysis-size-expansion-industry-share-and-business-opportunities-to-2027-2020-11-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

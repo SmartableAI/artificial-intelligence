@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/conference-better-
 webUrl: "https://markets.businessinsider.com/news/stocks/conference-better-using-ai-for-making-notes-1029770581"
 type: article
 quality: 47
-heat: 57
+heat: 47
 published: false
 
 provider:

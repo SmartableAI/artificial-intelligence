@@ -9,8 +9,8 @@ ampWebUrl: "https://theenterpriseleader.com/2020/11/04/prudential-plc-sells-2475
 cdnAmpWebUrl: "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2020/11/04/prudential-plc-sells-24750-shares-of-global-x-artificial-intelligence-technology-etf-nasdaqaiq.html/amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: theenterpriseleader.com
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) Shares Cross Above 200-Day Moving Average of $21.47"
-    excerpt: "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) shares passed above its two hundred day moving average during trading on Tuesday . The stock has a two hundred day moving average of $21."
-    publishedDateTime: 2020-11-04T08:10:00Z
-    webUrl: "https://www.modernreaders.com/news/2020/11/04/global-x-artificial-intelligence-technology-etf-nasdaqaiq-shares-cross-above-200-day-moving-average-of-21-47.html"
-    ampWebUrl: "https://www.modernreaders.com/news/2020/11/04/global-x-artificial-intelligence-technology-etf-nasdaqaiq-shares-cross-above-200-day-moving-average-of-21-47.html/amp"
-    cdnAmpWebUrl: "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/11/04/global-x-artificial-intelligence-technology-etf-nasdaqaiq-shares-cross-above-200-day-moving-average-of-21-47.html/amp"
-    type: article
-    provider:
-      name: modernreaders.com
-      domain: modernreaders.com
-    quality: 32
   - title: "Prudential PLC Trims Holdings in Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ)"
     excerpt: "Prudential PLC trimmed its stake in Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) by 5.2% during the third quarter, according to its most recent 13F filing with the SEC. The firm owned 450,"
     publishedDateTime: 2020-11-05T10:27:00Z

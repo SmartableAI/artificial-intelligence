@@ -8,6 +8,9 @@ webUrl: "https://www.bloomberg.com/opinion/articles/2020-11-06/u-s-needs-austral
 ampWebUrl: "https://www.bloomberg.com/amp/opinion/articles/2020-11-06/u-s-needs-australia-sweden-south-korea-to-beat-china-in-ai-battle"
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/opinion/articles/2020-11-06/u-s-needs-australia-sweden-south-korea-to-beat-china-in-ai-battle"
 type: article
+quality: 74
+heat: 74
+published: true
 
 provider:
   name: Bloomberg
