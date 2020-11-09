@@ -2,7 +2,7 @@
 name: "Twilio"
 overview: "More than 2 million developers around the world have used Twilio to unlock the magic of communications to improve any human experience. Twilio has democratized communications channels like voice, text, chat, and video by virtualizing the world’s telecommunications infrastructure through APIs that are simple enough for any developer to use, yet robust enough to power the world’s most demanding applications. By making communications a part of every software developer's toolkit, Twilio is enabling innovators across every industry — from emerging leaders to the world’s largest organizations — to reinvent how companies engage with their customers."
 type: "profile"
-heat: 170
+heat: 18
 
 website: https://www.twilio.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "twilio"
   url: "https://twitter.com/twilio"
-  followers: 75359
+  followers: 75355
 
 size: 1,001-5,000 employees
 yearFounded: 2008
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Twilio"
 
-secured: "0AoC8xAchKsnSPrb2IBffhBPvCr7aYPG3oAnbCBDMWtF7XodRntzrVJd9X3QHewohkow1cVuLKXvM4ucQC9GYKnCd5FNdyEu7crZd5AcY0B/B4jb688Zh+fZcJi/kTMPbBY1l9MN7X1cME9sFv5+Bne6px790i6RUXRCDDzuPLAKgtBAcA2L/AR1zJXzQjlah53RgWsf0PGPEO/dsraIU4bgtu/oLRNH91QLZG84zW27pqm6/OZ96lU+X2aUkvJXJBrEfCLvxsS9nT8DD11XLT1NIrCVhTkfwuLhu2w7XKZ47iOls7+DGrPWfcj1ycI/ab13ZS1onp6MnCaov73OgjURIIaMsydjQ38poEJuWO72wEoiwnTCfAqOeJ9cu3rdBSsUKkis67Ja1HK/Gv95p1AhVCtM+k30m/dMJbsNG7E=;gHzJW4HcbbeK2k9wxs9vuQ=="
+secured: "efge1IUZtoT813mfY8egH5toi4puMxlRKqgJTOTQm0M4R98AblnDMqDhEs3gdZvw5NBJv5NnnsUzXwphLlZjyHzzl3bMos91SQLItxp4EYZmBycPbqNlLsiErhZzFo1aeGG87T+enFPjUUmpWuuoSRF8lGS2WeADUF6Rfqdrj3EOUspUMPn6Hnbbg+XTKXlBzH0Snnk5X6Xkw23VfSRpvpLAlPhNNH3rAQI2oXIlTU1RpwHtV8mvWHY16RPc/ULxkXqKBdHQPLmfExQ1n9OBe101Z924ZcpivbGfp6z582YbiTP6m9FayeFEpGLTOmgcJjSBA0a7E5lpCWNTqc+BRsKBHAE6CG/R026gPcr7FvVigXvjhTz60pRS/PhBUX8Fi8ZgTZ15FKToY1iC/3uj2HRPDCVa+ubB9uEasOkYcFo=;G/pEgHevkfTU9cFNBDjuhw=="
 ---
 
