@@ -38,20 +38,6 @@ related:
         width: 703
         height: 497
         isCached: true
-  - title: "Healthcare is ramping up AI investments during COVID. But the industry is still on the fence about Google, Amazon. Here's why"
-    excerpt: "Healthcare organizations are ramping up their investments in artificial intelligence in response to the COVID-19 pandemic, according to survey data. But they are not turning to tech giants like Google and Amazon to deploy these technologies."
-    publishedDateTime: 2020-11-04T16:56:00Z
-    webUrl: "https://www.fiercehealthcare.com/tech/healthcare-ramping-up-investments-ai-during-covid-but-industry-still-fence-about-google-amazon"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 27
-    images:
-      - url: "https://qtxasset.com/fiercehealthcare/1604510697/shutterstock_1154735041.jpg/shutterstock_1154735041.jpg?cXz2WNUfgjJFXG3hRHC3DkItPUu2z0dm"
-        width: 1000
-        height: 486
-        isCached: true
 
 secured: "TaTnR2sbBxRH91ccEpz3jVoXerlH9E4G99gfNzQzR1E2QDFk/s+MN60Oc3yRwSs/zfpgp7A3ZNxPQzYN15LrIsmFNGIPwpfs9V5f4Arzbr94CKu4GT+KLHLuhoK0LQF8uK22mwLFycHqi36NzjkL9HIb7cDZ9w2uSVpE2xie2p4ozxV4z9ekajtnCKi+ED2z59Fn+JLaWMvCKqIrLhkXORfUfQXK60HP493rahScSZ8L4d5Gmw0Xai0kcdmJDMaO3+OY2bQSTsPZxkOWFAIh+lnDvtSj5o7v/xyrOlrgCBXD709FeIj3dQ36vIH34QXyMx/v4dZDMWe+X6RW6p11xcotmUi1IKpnr3UWRuy8LGo=;2bhegXXkpNgC40IwONjGbQ=="
 ---

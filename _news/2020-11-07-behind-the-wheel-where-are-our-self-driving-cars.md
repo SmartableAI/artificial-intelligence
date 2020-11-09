@@ -3,25 +3,25 @@ category: news
 title: "BEHIND THE WHEEL: Where are our self-driving cars?"
 excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time,"
 publishedDateTime: 2020-11-07T04:30:00Z
-originalUrl: "https://www.pottsmerc.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_b2d0fac8-1fa2-11eb-bd1a-839f89469b3a.html"
-webUrl: "https://www.pottsmerc.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_b2d0fac8-1fa2-11eb-bd1a-839f89469b3a.html"
-ampWebUrl: "https://www.pottsmerc.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_b2d0fac8-1fa2-11eb-bd1a-839f89469b3a.amp.html"
-cdnAmpWebUrl: "https://www-pottsmerc-com.cdn.ampproject.org/c/s/www.pottsmerc.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_b2d0fac8-1fa2-11eb-bd1a-839f89469b3a.amp.html"
+originalUrl: "https://www.dailylocal.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_e61d0649-e1b8-5b2e-b05c-f25477879748.html"
+webUrl: "https://www.dailylocal.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_e61d0649-e1b8-5b2e-b05c-f25477879748.html"
+ampWebUrl: "https://www.dailylocal.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_e61d0649-e1b8-5b2e-b05c-f25477879748.amp.html"
+cdnAmpWebUrl: "https://www-dailylocal-com.cdn.ampproject.org/c/s/www.dailylocal.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_e61d0649-e1b8-5b2e-b05c-f25477879748.amp.html"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: The Mercury
-  domain: pottsmerc.com
+  name: Daily Local News
+  domain: dailylocal.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/pottsmerc.com/content/tncms/assets/v3/editorial/4/cb/4cb5c470-1fa3-11eb-9a18-27ec9e939d6d/5fa45d30d6deb.image.jpg?resize=1024%2C630"
+  - url: "https://bloximages.chicago2.vip.townnews.com/dailylocal.com/content/tncms/assets/v3/editorial/2/69/269ea2fa-0db8-50d3-8153-0ca49b7c73ca/5fa55a853eba7.image.jpg?resize=1024%2C630"
     width: 1024
     height: 630
     isCached: true
@@ -138,6 +138,6 @@ related:
       domain: columbiabasinherald.com
     quality: 4
 
-secured: "qPKImJVJZ/nX/kocouTCf2JdIS+Ki0kpro9gfRy2d6OLcs8s5J/gbEduJqFqwfIBBNnF+MFQYiA7cCzBd1mZz1S5VeA3uwkeTNruH0mxUG+hVaBOUFHgi6T5nf//nu3wvUHFhB3FLYmmoCfuxY3hdljJsEygA9IK9EAg5etiKV3jg3oAzLEhlphC2Nsoz8g/uqAyh9iOrmWYpdtigdeYvi/tVnqVR1d/fm+aHUfuu5+01hzvbYeUxhApoop3rT6cozI17FksU4PcSY8155pFAlGGLgavAS7uek3n3jUwJMj1YNREZg9G/lNRiRfAmKuspO8Fo+qSaXhc1mI1AYD44Hv7sqdheuu8k3TXOLIR4gw=;87wFiUfojfkJGO6Qhh07Fw=="
+secured: "iM341J7RitGvRVTy2Nnz2275nSVUV2jeMlfRUHSCrmLKRlnvIchCeEGMYj/NCI+wmQLNZLfmVcFX52LK1IxLIenjopBAx6Zj9HQfmhziq/F3DYkJUO35ADVXP0h1lXQf//dJEPHPb2cZEwTd0RTh1NWLBu/53OltNbQoVnk45QKXJhumCbyq85Ur/QfZa6jIJAuaAfOWC1cZsr86YVLpZ6xkOtWY9CwW5Lp15Znw0pakCCbLYItGrewuKREoZ1Q2CmlxI/epAAx5C4DyxqVDwpN0+gaQC36Rhh8+tOld7dchjdRQcNgkW1mW6ee/cOY3ktpZBLc+HGvQxZ5cBxI+EWQYvDVpDF9vtD2z4kUYcTs=;pCa31dy6gJOb40qQTIIdeg=="
 ---
 

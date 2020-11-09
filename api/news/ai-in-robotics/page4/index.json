@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-13-robots-will-watch-learn-and-reason-in-ais-augmented-reality.md",
+      "title": "Robots will watch, learn and reason in AI’s augmented reality",
+      "excerpt": "Australia has no choice but to step up investment in artificial intelligence, says Anton van den Hengel, whose Adelaide research group was awarded 20m in the federal budget last week to boost Australias position in this highly competitive research field.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theaustralian.com.au/higher-education/robots-will-watch-learn-and-reason-in-ais-augmented-reality/news-story/30375dcae3064446ee0de5857d00f04d",
+      "originalUrl": "https://www.theaustralian.com.au/higher-education/robots-will-watch-learn-and-reason-in-ais-augmented-reality/news-story/30375dcae3064446ee0de5857d00f04d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theaustralian.com.au/higher-education/robots-will-watch-learn-and-reason-in-ais-augmented-reality/news-story/30375dcae3064446ee0de5857d00f04d",
+      "cdnAmpWebUrl": "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/higher-education/robots-will-watch-learn-and-reason-in-ais-augmented-reality/news-story/30375dcae3064446ee0de5857d00f04d",
+      "publishedDateTime": "2020-10-12T23:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Australian",
+        "domain": "theaustralian.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-12-the-disinfectant-robot-market-is-expected-to-register-a-cagr-of-364-during-the-forecast-period-2020-2025.md",
       "title": "The disinfectant robot market is expected to register a CAGR of 36.4% during the forecast period (2020-2025",
       "excerpt": "The disinfectant robot market is expected to register a CAGR of 36.4% during the forecast period (2020-2025), owing to the rising demand for hygiene globally across various sectors. The global Disinfectant Robot Market (henceforth,",
@@ -1363,49 +1397,6 @@
       "provider": {
         "name": "Engineering",
         "domain": "engineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-2014-fcat-undergraduate-conference.md",
-      "title": "2014 FCAT Undergraduate Conference",
-      "excerpt": "iRobo explores the idea of an advanced mind-controlled robot that allows the user to live in an idealized form. Its purpose is to help the disabled experience a richer life and be a part of the community again. Hsieh, a presenter at the FCAT Undergraduate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sfu.ca/fcat/events/ugc/ugc-2014.html",
-      "originalUrl": "https://www.sfu.ca/fcat/events/ugc/ugc-2014.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sfu.ca/content/sfu/fcat/events/ugc/ugc-2014/_jcr_content/main_content/textimage_1/image.img.original.low.jpg/1534354700435.jpg",
-          "width": 348,
-          "height": 299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-04T14:45:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Simon Fraser University",
-        "domain": "www.sfu.ca",
         "images": null,
         "publishers": null,
         "authors": null

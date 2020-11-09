@@ -2,6 +2,102 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2020-09-29-windows-10-lists-of-vocal-commands-for-speech-recognition-and-dictation.md",
+      "title": "Windows 10: Lists of vocal commands for speech recognition and dictation",
+      "excerpt": "Windows 10 allows users to talk to their computers, but the list of possible commands is significant. We provide a handy reference to the most common speech recognition commands.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/windows-10-lists-of-vocal-commands-for-speech-recognition-and-dictation/",
+      "originalUrl": "https://www.techrepublic.com/article/windows-10-lists-of-vocal-commands-for-speech-recognition-and-dictation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/09/28/e51a3589-405f-4398-a331-49ddee712d1c/resize/1200x/caf9c5d3c56947cd35663e4d024df7e1/istock-1135346381.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/windows-10-lists-of-vocal-commands-for-speech-recognition-and-dictation/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/windows-10-lists-of-vocal-commands-for-speech-recognition-and-dictation/",
+      "publishedDateTime": "2020-09-28T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-pure-vector-engines-get-gpu-math-help-for-next-earth-simulator.md",
+      "title": "Pure Vector Engines Get GPU Math Help for Next Earth Simulator",
+      "excerpt": "For those who have followed the evolution of supercomputing over the years, the Earth Simulator series of systems has represented the state of the art in",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2020/09/28/pure-vector-engines-get-gpu-math-help-for-next-earth-simulator/",
+      "originalUrl": "https://www.nextplatform.com/2020/09/28/pure-vector-engines-get-gpu-math-help-for-next-earth-simulator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/shutterstock_787937605-scaled.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2020/09/28/pure-vector-engines-get-gpu-math-help-for-next-earth-simulator/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/09/28/pure-vector-engines-get-gpu-math-help-for-next-earth-simulator/amp/",
+      "publishedDateTime": "2020-09-28T13:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-take-a-look-at-this-new-drone-on-demand-mobile-app.md",
       "title": "Take A Look At This New Drone On Demand Mobile App",
       "excerpt": "Aquiline Drones is bringing a “Drone-on-Demand” (DoD) mobile app to the market. The DoD app will be accessible through all mobile devices, including smartphones and tablets. According to the company,",
@@ -1108,92 +1204,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-ai-artificial-intelligence-chip-market.md",
-      "title": "AI (Artificial Intelligence) Chip Market",
-      "excerpt": "The latest study on the AI Artificial Intelligence Chip market published by the Reports and Data offers a deep understanding of the various market dynamics such as the challenges drivers trends and opportunities The report further elaborates on the micro",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2144662/ai-artificial-intelligence-chip-market-scope-and-growing",
-      "originalUrl": "https://www.openpr.com/news/2144662/ai-artificial-intelligence-chip-market-scope-and-growing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/9/T928328884_g.jpg",
-          "width": 650,
-          "height": 303,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2144662/ai-artificial-intelligence-chip-market-scope-and-growing",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2144662/ai-artificial-intelligence-chip-market-scope-and-growing",
-      "publishedDateTime": "2020-09-28T05:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-worldwide-voice-recognition-biometrics-market-is-forecast-to-grow-by-usd-260-billion-during-2020-2024-progressing-at-a-cagr-of-19.md",
-      "title": "Worldwide Voice Recognition Biometrics Market is Forecast to Grow by USD 2.60 Billion During 2020-2024, Progressing at a CAGR of 19%",
-      "excerpt": "28, 2020 (GLOBE NEWSWIRE) -- The \"Global Voice Recognition Biometrics Market 2020-2024\" report has been added to ResearchAndMarkets.com's offering. The voice recognition biometrics market is ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/worldwide-voice-recognition-biometrics-market-is-forecast-to-grow-by-usd-2-60-billion-during-2020-2024-progressing-at-a-cagr-of-19-1029626428",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/worldwide-voice-recognition-biometrics-market-is-forecast-to-grow-by-usd-2-60-billion-during-2020-2024-progressing-at-a-cagr-of-19-1029626428",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-28T04:38:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

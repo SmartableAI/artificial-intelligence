@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Portland, Maine citizens vote in favor of blanket ban on facial recognition tech"
-    excerpt: "Privacy: Facial recognition technology has always been a source of controversy in the tech community; no matter how it's used. Police departments across the US have expressed interest in using it to identify and catch criminals, and companies use it to ..."
-    publishedDateTime: 2020-11-04T15:36:00Z
-    webUrl: "https://www.techspot.com/news/87446-portland-maine-citizens-vote-favor-blanket-ban-facial.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/87446-portland-maine-citizens-vote-favor-blanket-ban-facial.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87446-portland-maine-citizens-vote-favor-blanket-ban-facial.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 99
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2020/11/2020-11-04-image-16.jpg"
-        width: 1680
-        height: 1120
-        isCached: true
   - title: "Portland, Maine Voters Say No to Facial-Recognition Tech"
     excerpt: "Portland’s city council placed a preliminary ban on facial recognition in August, but this ballot initiative is stronger, banning its use for at least five years."
     publishedDateTime: 2020-11-04T19:56:00Z
@@ -72,38 +56,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/02jkcfGv7F5wOe0wYXAs1Hi-1.1604518622.fit_lim.size_1200x630.jpg"
         width: 1120
         height: 630
-        isCached: true
-  - title: "Portland, Maine Voters Ban Facial Recognition by Police and Public Officials"
-    excerpt: "However, when voters in Portland, Maine went to the polls on Tuesday, their overwhelming support for a facial recognition ban was more surprising, possibly signaling support for wider bans to take hold across the country."
-    publishedDateTime: 2020-11-04T17:08:00Z
-    webUrl: "https://www.insidehook.com/daily_brief/tech/portland-maine-voters-ban-facial-recognition"
-    ampWebUrl: "https://www.insidehook.com/daily_brief/tech/portland-maine-voters-ban-facial-recognition/amp"
-    cdnAmpWebUrl: "https://www-insidehook-com.cdn.ampproject.org/c/s/www.insidehook.com/daily_brief/tech/portland-maine-voters-ban-facial-recognition/amp"
-    type: article
-    provider:
-      name: InsideHook
-      domain: insidehook.com
-    quality: 71
-    images:
-      - url: "https://www.insidehook.com/wp-content/uploads/2020/11/surveillance-cameras.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Portland votes to ban facial recognition scanning by police"
-    excerpt: "These include Uber and Lyft drivers in California losing their fight to be classified as employees, as well as the banning of facial recognition software being used by police in Portland, Maine, in the US. It is the latter that is the focus of this story ..."
-    publishedDateTime: 2020-11-04T15:15:00Z
-    webUrl: "https://www.htxt.co.za/2020/11/04/portland-votes-to-ban-facial-recognition-scanning-by-police/"
-    ampWebUrl: "https://www.htxt.co.za/2020/11/04/portland-votes-to-ban-facial-recognition-scanning-by-police/amp/"
-    cdnAmpWebUrl: "https://www-htxt-co-za.cdn.ampproject.org/c/s/www.htxt.co.za/2020/11/04/portland-votes-to-ban-facial-recognition-scanning-by-police/amp/"
-    type: article
-    provider:
-      name: Htxt.Africa
-      domain: htxt.co.za
-    quality: 59
-    images:
-      - url: "https://www.htxt.co.za/wp-content/uploads/2020/07/flat-3252983.png"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Citizens in Portland, Maine have voted in favor of banning facial recognition"
     excerpt: "Earlier this week, voters in Portland, Maine passed a ballot that forbids city agencies and police from using facial recognition. Security agencies and police departments from all over the US have expressed their interest in applying facial recognition in identifying criminals."

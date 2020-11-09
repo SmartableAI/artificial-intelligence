@@ -2,6 +2,110 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-10-21-tesla-released-its-full-self-driving-software-but-the-top-us-safety-regulator-says-theres-no-such-thing.md",
+      "title": "Tesla released its 'full self-driving' software, but the top US safety regulator says there's no such thing",
+      "excerpt": "Good Subscriber Account active since DOW S&P 500 NASDAQ 100 Tesla has begun releasing a beta version of its long-awaited \"full self-driving\" software, CEO Elon Musk said Wednesday, while providing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/tesla-full-self-driving-software-release-beta-questions-2020-10",
+      "originalUrl": "https://www.businessinsider.com/tesla-full-self-driving-software-release-beta-questions-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f9069752e0e6f0018dd7bb0?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/tesla-full-self-driving-software-release-beta-questions-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-full-self-driving-software-release-beta-questions-2020-10?amp",
+      "publishedDateTime": "2020-10-20T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-university-of-miami-becomes-latest-battleground-over-facial-recognition.md",
+      "title": "University of Miami Becomes Latest Battleground Over Facial Recognition",
+      "excerpt": "Two students claim UM’s dean of students told a handful of campus protesters at a virtual meeting on Sept. 22 that they were identified at an unsanctioned demonstration using specialized software that analyzed camera footage of the event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/university-of-miami-becomes-latest-battleground-over-facial-recognition-11603233631",
+      "originalUrl": "https://www.wsj.com/articles/university-of-miami-becomes-latest-battleground-over-facial-recognition-11603233631",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-247517/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/university-of-miami-becomes-latest-battleground-over-facial-recognition-11603233631",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/university-of-miami-becomes-latest-battleground-over-facial-recognition-11603233631",
+      "publishedDateTime": "2020-10-20T15:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-how-is-big-data-analytics-using-machine-learning.md",
       "title": "How Is Big Data Analytics Using Machine Learning?",
       "excerpt": "That's where machine learning can help them. Data is a boon for machine learning systems. The more data a system receives, the more it learns to function better for businesses. Hence, using ...",
@@ -1089,90 +1193,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-intel-is-providing-the-smarts-for-the-first-satellite-with-local-ai-processing-on-board.md",
-      "title": "Intel is providing the smarts for the first satellite with local AI processing on board",
-      "excerpt": "Intel detailed today its contribution to PhiSat-1, a new tiny small satellite that was launched into sun-synchronous orbit on September 2. PhiSat-1 has a new kind of hyperspectral-thermal camera on board,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/20/intel-is-providing-the-smarts-for-the-first-satellite-with-local-ai-processing-on-board/",
-      "originalUrl": "https://techcrunch.com/2020/10/20/intel-is-providing-the-smarts-for-the-first-satellite-with-local-ai-processing-on-board/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/C0140-Large.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/20/intel-is-providing-the-smarts-for-the-first-satellite-with-local-ai-processing-on-board/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/20/intel-is-providing-the-smarts-for-the-first-satellite-with-local-ai-processing-on-board/amp/",
-      "publishedDateTime": "2020-10-20T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-stanchart-increases-stake-in-ai-startup-to-combat-financial-crime.md",
-      "title": "StanChart increases stake in AI startup to combat financial crime",
-      "excerpt": "Standard Chartered has upped its stake in an artificial intelligence startup that uses technology to help banks tackle financial crime. Silent Eight said on 19 October that Standard Chartered’s venture capital arm SC Ventures had chosen to participate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fnlondon.com/articles/stanchart-increases-stake-in-artificial-intelligence-startup-to-combat-financial-crime-20201019",
-      "originalUrl": "https://www.fnlondon.com/articles/stanchart-increases-stake-in-artificial-intelligence-startup-to-combat-financial-crime-20201019",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fnlondon.com/amp/articles/stanchart-increases-stake-in-artificial-intelligence-startup-to-combat-financial-crime-20201019",
-      "cdnAmpWebUrl": "https://www-fnlondon-com.cdn.ampproject.org/c/s/www.fnlondon.com/amp/articles/stanchart-increases-stake-in-artificial-intelligence-startup-to-combat-financial-crime-20201019",
-      "publishedDateTime": "2020-10-20T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial News",
-        "domain": "fnlondon.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

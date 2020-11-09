@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-face-recognition-
 webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-size-to-reach-20548-million-usd-by-2025-2020-11-05"
 type: article
 quality: 65
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://mobileidworld.com/wp-content/uploads/connected-id.jpeg"
         width: 400
         height: 298
-        isCached: true
-  - title: "Voice Recognition Market Overview By Share, Size, Industry Players, Revenue And Product Demand Till 2020-2026"
-    excerpt: "The Voice Recognition market is anticipated to reach over $150 billion by 2026 according to a new research published"
-    publishedDateTime: 2020-11-04T15:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-overview-by-share-size-industry-players-revenue-and-product-demand-till-2020-2026-2020-11-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "d/8IARMKcZaLUIRarKakfS5TrBVGanLT4PdNohuyzYWu2IrdG1awpywy+4Lf2TS9kQaLXZwEaC5GalE3HZBkaZagJ9vCSGBMxZuzEm3MJkoIQl8UBUiKVrYFTFAEDzL2SiUC4QdU0yNKBOwaVbhcJynQbTlim5KeLn8930VXFwp/OemPWdeedW7Hu4lEWIbEICTLCQiCriGmLsXiBSAdRTVFSOyjb2O9Huv288T13jp2t5NNLT4bqqRCdGDVDb0OksYiiW4nrmapJN1mhfCohjVW9L+dypoYBGSLRfQfRtsV35mKVwIcHLHSJWGIjqWM/QsXjqzAyZxN/TCjoOvXz3xXv+cNBMOqatxMe6tWpAM=;fTJgJ+9FKQsRG+/kK5QkIw=="

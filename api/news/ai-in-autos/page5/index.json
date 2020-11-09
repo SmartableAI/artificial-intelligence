@@ -2,58 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-10-01-ford-cfo-tim-stone-to-leave-company.md",
-      "title": "Ford CFO Tim Stone to Leave Company",
-      "excerpt": "Mr. Stone, 53 years old, will join ASAPP Inc., an artificial-intelligence software company ... who most recently has been leading Ford’s driverless-car efforts. Mr. Stone’s departure for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ford-cfo-tim-stone-to-leave-company-11601554355",
-      "originalUrl": "https://www.wsj.com/articles/ford-cfo-tim-stone-to-leave-company-11601554355",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-239160/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ford-cfo-tim-stone-to-leave-company-11601554355",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ford-cfo-tim-stone-to-leave-company-11601554355",
-      "publishedDateTime": "2020-10-01T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-01-ayn-infotech-strengthens-organizations-through-artificial-intelligence-and-blockchain-enabled-enterprise-software-solutions.md",
       "title": "AYN InfoTech Strengthens Organizations Through Artificial Intelligence And Blockchain Enabled Enterprise Software Solutions",
       "excerpt": "AYN InfoTech is one such company that has made a formidable mark for being a leader in Enterprise Software Solutions using Artificial Intelligence and Blockchain. They have built this reputation ...",
