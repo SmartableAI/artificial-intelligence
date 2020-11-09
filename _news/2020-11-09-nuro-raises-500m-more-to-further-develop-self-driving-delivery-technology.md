@@ -53,6 +53,20 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Nuro raises $500M more for self-driving delivery vehicles"
+    excerpt: "Nuro Inc., one of the better-funded startups in the autonomous driving market, today disclosed that it has added $500 million to its war chest through a new funding round led by T. Rowe Price Associates."
+    publishedDateTime: 2020-11-09T20:50:00Z
+    webUrl: "https://siliconangle.com/2020/11/09/nuro-raises-500m-more-self-driving-delivery-vehicles/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/nuro.png"
+        width: 875
+        height: 491
+        isCached: true
 
 secured: "CF/hl0AxHwnAdl125yGStvoSE9d4KDdcqsnd8YvBWPQiOJikOdh/GwqqjBzcVOM586wgeW40dpUgd7UHMT6f2xf7U2F07XWYqFd5VAOjhWkHGD4sfguxvYZoEsktaNrwHJZcRkZOewYAYzSivcqq9cHklu4MgG1dYYLmG07Dr5hwZ4nqD1SvtGTHaZ0PprXrf+f6YxT7XzzMt1ijxbF7Ybgb+ikUfHplgyzDd0mJWiasCPRjCz+X1Lfc52465gr4iuuZ2CPk3z6KHKY3QOwdXVvgRyfTH+mkAOANemKhjjGheN+xd5fynt3nFdatpoW/5y3jSr60vXtOq3/wwxiaon4Ict2zNBxKujGV6cWSc4BmF80Al9dJ2w2sTgzIXb9jX46gMWtqwVUJaTOiMS/Oyv3PshL4p+1hJlzVoB8/vR5aPConiEORMdYM4TdBiWqKPq544PMAPPNq4TUHFStd9cfVPdJyfjIopbFCy30oW5vIkwQhncAMjdyIDIDAztrbJ8GJ9mfqeWoDyiZXNWTTnA==;/8NBobpQV9gAuoO6GAtFiQ=="
 ---

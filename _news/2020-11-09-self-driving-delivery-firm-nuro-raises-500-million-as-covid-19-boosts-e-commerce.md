@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P1FT"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P1FT"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540581533&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81M2"
         width: 817
         height: 545
+        isCached: true
+  - title: "Nuro raises $500M more for self-driving delivery vehicles"
+    excerpt: "Nuro Inc., one of the better-funded startups in the autonomous driving market, today disclosed that it has added $500 million to its war chest through a new funding round led by T. Rowe Price Associates."
+    publishedDateTime: 2020-11-09T20:50:00Z
+    webUrl: "https://siliconangle.com/2020/11/09/nuro-raises-500m-more-self-driving-delivery-vehicles/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/nuro.png"
+        width: 875
+        height: 491
         isCached: true
   - title: "Nuro raises $500M more to further develop self-driving delivery technology"
     excerpt: "With $500M in new funding, #autonomous delivery company #Nuro is said to be worth $5 billion. #venturecapital #siliconvalley #delivery #MountainView"

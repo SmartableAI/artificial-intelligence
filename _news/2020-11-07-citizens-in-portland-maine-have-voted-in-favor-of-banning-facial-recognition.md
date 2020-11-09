@@ -7,7 +7,7 @@ originalUrl: "https://knowtechie.com/citizens-in-portland-maine-have-voted-in-fa
 webUrl: "https://knowtechie.com/citizens-in-portland-maine-have-voted-in-favor-of-banning-facial-recognition/"
 type: article
 quality: 51
-heat: -1
+heat: 51
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1000
     height: 600
     isCached: true
-
-related:
-  - title: "Voters in Portland, Maine say no to facial recognition technology for police"
-    excerpt: "Voters in Portland, Maine, have voted for a ban on facial surveillance software being used by authorities, the Bangor Daily News reported Tuesday. “An Act to Ban Facial Surveillance by Public Officials in Portland will ban the city of Portland and its departments and officials from using or authorizing the use of any facial surveillance software on any groups or member of the public,"
-    publishedDateTime: 2020-11-05T04:45:00Z
-    webUrl: "https://siliconangle.com/2020/11/04/voters-portland-maine-say-no-facial-recognition-technology-police/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 51
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/14556035947_3ba5d20d82_c.jpg"
-        width: 799
-        height: 533
-        isCached: true
 
 secured: "yxt9pFvMmysq745akg9EcU3AzBCMjOZAsS/SaDZLpzeMFA8Eb02cpG3PjZ5dfoOJph2pJ5YKBxvXOt5GF/WJ+aIDUl1bV2eeX3BjB/OyC4H23KuKpvsY+FK83Qeq8Zb8scqprBVI9JtgIBWDANLw1/veDTBoTjv3y6GsC/rfI/yvFPJNEAzq6mI3nlQNIDpVxjby+0fDGv+XZSZNTOLxjAaJ0omBbL0EwBKOhGWyHV4u4yVhNwzJo7a5s66EkCedQfo+D32lgK01m//ksqyc1qJmuveKWGn45ZMLVJRwCD6NSxQCBWP86B5VDts3GPlFJq2fGxrTuLd5G3RuoeyCurypl0GsJ888cSEjv0fbPtA=;6Q7M4n7WpU8NLL4PbzOlwA=="
 ---

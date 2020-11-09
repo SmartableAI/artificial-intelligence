@@ -3,8 +3,8 @@ category: news
 title: "'It's the screams of the damned!' The eerie AI world of deepfake music"
 excerpt: "Artificial intelligence is being used to create new songs seemingly performed by Frank Sinatra and other dead stars. ‘Deepfakes’ are cute tricks – but they could change pop for ever"
 publishedDateTime: 2020-11-09T12:32:00Z
-originalUrl: "https://www.theguardian.com/music/2020/nov/09/deepfake-pop-music-artificial-intelligence-ai-frank-sinatra"
-webUrl: "https://www.theguardian.com/music/2020/nov/09/deepfake-pop-music-artificial-intelligence-ai-frank-sinatra"
+originalUrl: "https://www.theguardian.com/music/2020/nov/09/deepfake-pop-music-artificial-intelligence-ai-frank-sinatra?curator=MusicREDEF"
+webUrl: "https://www.theguardian.com/music/2020/nov/09/deepfake-pop-music-artificial-intelligence-ai-frank-sinatra?curator=MusicREDEF"
 ampWebUrl: "https://amp.theguardian.com/music/2020/nov/09/deepfake-pop-music-artificial-intelligence-ai-frank-sinatra"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/music/2020/nov/09/deepfake-pop-music-artificial-intelligence-ai-frank-sinatra"
 type: article
@@ -45,6 +45,6 @@ related:
         height: 500
         isCached: true
 
-secured: "KjI/cFHohampXzViqFc+f0A76Q3Cyn7zxvOgsHHS0MKmf1rpGK1SyAWJc7h2twvWtPfqVtBScNHkXOso+WUNFtsimD3Jvuez9+aS36iyHMAv/kcmdGrFPpg8M7zEK4RAVesxehhJ5qwQjX2FOBHkg5l6+GfN6M0CODfxshpIZPzcgLlDH/vsxURn/YJDxgsg4I90tXOQ1hEbXXcofDIA36/ywluHM31oSPTueY8Q8F2HNSd1CE4UkYXYRR0MgZybZO2rQ/LdHAI9fM1Patx0olO8rDv4UAksBl/UTQWMtxR+8FbmAtzZcjvQbgJ6sXfyYz4VfdrlT7w9bYWvDUDbofaaXi6MVQe/CTHxsENXlsmwg6v4Dq71Cpb2qklyb9PTP5+uOBQPmSpYtZpUB1VWKwbsk9o9vhfjoGW+vLgUl4Fu5ZGgYEnDfDKEVnwJBglhdOGIltF1yyUdt0vAcX6zXjdz5w6SCSVFOOPrRvHAf0moRFIsw4xKob6hCa71oR1d3vatKHB+sjLeFjKLABv5Ag==;krXkDWLLeoqx5MJCMbE35A=="
+secured: "pIjOtYFzXwSknmUy/Gj2fttByfJzgswxVAHvgFi0NcCDFIC3t+UY5hpwH8lKmscRm+c1spGI94l/ejYEubffsvttukL0Z8gBGZYk8t2sz9ZnuyQDxxEQEZiNcw0B2A5Xdvtk0WLibAimkdbrlQElZHROb4eXlzplS4gJ6yQAVb/MshjpInx+hGfBE1SONE7iDRUJYr41Fud29Q2KPnD4jbCNNX6xU22GWYj/WuHP4SHEo3vDVPOlq7kUAlJADhynR76gJthAV9kqSerzFnKAXFLUBuwwPYFC927uDwmQU2RYdTkw+/fCIl1ukgNf3CcfSTmi/FfX6oZMKDtBuyG3cgiWzE4XBKSHPZdvgLU9VjI=;14gfgtax6KUqS8a4o5K4vg=="
 ---
 

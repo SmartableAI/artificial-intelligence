@@ -47,6 +47,20 @@ related:
         width: 676
         height: 545
         isCached: true
+  - title: "Nuro raises $500M more for self-driving delivery vehicles"
+    excerpt: "Nuro Inc., one of the better-funded startups in the autonomous driving market, today disclosed that it has added $500 million to its war chest through a new funding round led by T. Rowe Price Associates."
+    publishedDateTime: 2020-11-09T20:50:00Z
+    webUrl: "https://siliconangle.com/2020/11/09/nuro-raises-500m-more-self-driving-delivery-vehicles/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/nuro.png"
+        width: 875
+        height: 491
+        isCached: true
   - title: "Nuro raises $500M more to further develop self-driving delivery technology"
     excerpt: "With $500M in new funding, #autonomous delivery company #Nuro is said to be worth $5 billion. #venturecapital #siliconvalley #delivery #MountainView"
     publishedDateTime: 2020-11-09T12:06:00Z
@@ -59,6 +73,6 @@ related:
       domain: bizjournals.com
     quality: 37
 
-secured: "bz8dlOd6B4l1GVyL84fyJq5henhKNwQoonCZeT/Uzpjr5UtvAXVWssNRW9kLzK0hXjTJ2d8eShbIeRaagkmLAQ8G6N1tkTCe3qWEKavwFoDj4oTQAnwmU2QEOTGiBI9vS/cEcaYXuCM1sio+dvpTzwet0Sqw9TtUvZR6f7i4RdZiNvzFC8z+ALr7R06YtG0p22rht6TF0C5NFs5uCkcge2k7wR6dgqi2lLVR3LMZD/t7+nKIN5XQos72eBbzSXouzoqOjRC7qKUPJhw9N3chDWLZerBHviPfvG6c6cN8qlRTyyl0rN04qaUEVvarIhyVCQ6762dwhOawR3d6i40MlSO2POJuXsMDp5S9a9a+5bE=;7wONcfDuyfkKnzizHqA3zA=="
+secured: "5ucAFlXKmglnjGnIAOjVnSAGdOqZnB2Nn+G41jtFqSwuoI74PCcp9qwWhA5f9APb7PNa3FZpCSPEubEt6EvvwlpmYd4nxk7n+g/QnA4psUbAxbiPbEvWO3AUKwLxP7eOH95qaCqaCKSCp11gsnL/MA+eU7GvNjIp6VZH8r23L7OnXQ/QJlIG/Vx/LTHyy12SfMJ/s3h24HC8d3U7ja/go0iqIcEs2ivThF3Ho2Ar8eNd4rNOB0FXYnRPt19oEqutaMNEwb7k7kQ84IjUHbaIaZwMdS6DPfuTKM0iDVosB6A254Z9YQwADmm1ibrtQQ4TqkJu8g/uoCmGSTZYVR71opE7BEldxQQIcOxbFmSt5abQbFCqqyKJL3Y50DbToctOV91McuRR3CyGUJ2io3BVwWyCTU0MtMwEYAQjx4B9k5HtXosKbSDJw6Ioy46SIhNk22RLakJUx+14za4PmqBy0LZvK+rgEhPwFAnhbf8MOKVQyXZ5tTdhMQeae2gjjA5wxfmLwBSU24god9noHlmbkQ==;kzt+3F0cbMwQNNXnaWk8CQ=="
 ---
 
