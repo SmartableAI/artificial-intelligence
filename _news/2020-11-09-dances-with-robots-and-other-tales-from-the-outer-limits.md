@@ -2,23 +2,29 @@
 category: news
 title: "Dances with robots, and other tales from the outer limits"
 excerpt: "The working assumption for most of history has been that dance is a thing done by and for humans. Yet it does not seem beyond the pale that robots will one day perform for us mortals, particularly when choreographers like Cuan are using technology to explore the outer limits of the art form."
-publishedDateTime: 2020-11-08T20:05:00Z
-originalUrl: "https://www.courant.com/featured/sns-nyt-choreographer-explores-robots-20201108-spmkqaagarh6beer5la56u7tqi-story.html"
-webUrl: "https://www.courant.com/featured/sns-nyt-choreographer-explores-robots-20201108-spmkqaagarh6beer5la56u7tqi-story.html"
-ampWebUrl: "https://www.courant.com/featured/sns-nyt-choreographer-explores-robots-20201108-spmkqaagarh6beer5la56u7tqi-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/featured/sns-nyt-choreographer-explores-robots-20201108-spmkqaagarh6beer5la56u7tqi-story.html?outputType=amp"
+publishedDateTime: 2020-11-08T16:04:00Z
+originalUrl: "https://www.baltimoresun.com/featured/sns-nyt-choreographer-explores-robots-20201108-spmkqaagarh6beer5la56u7tqi-story.html"
+webUrl: "https://www.baltimoresun.com/featured/sns-nyt-choreographer-explores-robots-20201108-spmkqaagarh6beer5la56u7tqi-story.html"
+ampWebUrl: "https://www.baltimoresun.com/featured/sns-nyt-choreographer-explores-robots-20201108-spmkqaagarh6beer5la56u7tqi-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/featured/sns-nyt-choreographer-explores-robots-20201108-spmkqaagarh6beer5la56u7tqi-story.html?outputType=amp"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Hartford Courant
-  domain: courant.com
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://www.baltimoresun.com/resizer/DnsaEhgUKLqgHCvjtAHFPL3Pdnw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PS3TH2HGORHO5KAV2WJMCYTVOA.jpg"
+    width: 1200
+    height: 801
+    isCached: true
 
 related:
   - title: "Dances With Robots, and Other Tales From the Outer Limits"
@@ -54,6 +60,6 @@ related:
         height: 801
         isCached: true
 
-secured: "DxjI6Af/x6LqHlXWIRahvkId0SXJgGtmyI+d0eP0yZat9uXWJeNob65MGsNUpI/sNelLS7JeeUHwpdQGS8MAaphWXYZ6OMXi7Uj+RMwJMvS1SgyZ6o5x/nlxYgZXYYYDmjTQAhbJbejNTOiwkii6X0pVR/YgQ2PeonAEKSC8ea7eRpoh3rIOomcUO/tuNr9k4T8GRF6ydYvtSyxjSLdTwNc1r1Y5eiKNuUzohUbvYW1oZPh8s68iawbbrNVd1TEnkVHFa2Ie8wIenMD1lZpS79opXfU2ZlzOzOJIiiLWZRF6AgG9vNsfSxwifIWfIo2hpCItyDHKp+VtUevEJ85knDSBgYLUuCAwtrKRO8dJbvJBsmS2mkwW1qeikot6OmjM5HVHP6qqoldLQeTzBlifBZGSGlw68blXam8LE2+t06HxsE1YOk5rR0qaSTCOoYSvnV26uqzKNVbTPU9phYIsBr39O0waMhWg1NKXMCbk8jmPVYsgTlym1G/W8Syh43SMc1gQ+Pp8CzV4hWsfkRWAWg==;2DZVshkpQ/pKmoxi3kVHGw=="
+secured: "S4WgMQS5Wsco+FPU3GNr/ruS/Hdkc5hAZW0tDFbqwJuV0mn9mbWvmGWUvQ3JtIfZNcEZ4TrFFo99H1qOgvwp7Z5NyGRtAoEIsxXh2feRToa0SsvpPCZm3UGVRRhMYpixZS71/shPiUTYBCC7218lEpoWVvZuT3cQ1gd14I305oEhEZtZ5W/8EszOqwCzNl4ggmbad4Wfh0OKJlri9XqRWnC9GTrOF0uyAsnYsohnGNgiQCoy2Hn+jIq7+Us5UqarEBSFdqpKRQ3l1maIdDd7uHS4tZmjv41sr6YehjVUgarVak4s8/eZLrEsGewE8eJYbYSlPseibi1SdFX0RFcJHcN7Ls0vbXXqqisHxXgaUWM=;0gPiZ1gXdn0iP67gXIoppQ=="
 ---
 

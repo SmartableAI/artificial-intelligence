@@ -49,15 +49,20 @@ related:
         isCached: true
   - title: "Dances with robots, and other tales from the outer limits"
     excerpt: "The working assumption for most of history has been that dance is a thing done by and for humans. Yet it does not seem beyond the pale that robots will one day perform for us mortals, particularly when choreographers like Cuan are using technology to explore the outer limits of the art form."
-    publishedDateTime: 2020-11-08T20:05:00Z
-    webUrl: "https://www.courant.com/featured/sns-nyt-choreographer-explores-robots-20201108-spmkqaagarh6beer5la56u7tqi-story.html"
-    ampWebUrl: "https://www.courant.com/featured/sns-nyt-choreographer-explores-robots-20201108-spmkqaagarh6beer5la56u7tqi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/featured/sns-nyt-choreographer-explores-robots-20201108-spmkqaagarh6beer5la56u7tqi-story.html?outputType=amp"
+    publishedDateTime: 2020-11-08T16:04:00Z
+    webUrl: "https://www.baltimoresun.com/featured/sns-nyt-choreographer-explores-robots-20201108-spmkqaagarh6beer5la56u7tqi-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/featured/sns-nyt-choreographer-explores-robots-20201108-spmkqaagarh6beer5la56u7tqi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/featured/sns-nyt-choreographer-explores-robots-20201108-spmkqaagarh6beer5la56u7tqi-story.html?outputType=amp"
     type: article
     provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 39
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 59
+    images:
+      - url: "https://www.baltimoresun.com/resizer/DnsaEhgUKLqgHCvjtAHFPL3Pdnw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PS3TH2HGORHO5KAV2WJMCYTVOA.jpg"
+        width: 1200
+        height: 801
+        isCached: true
 
 secured: "+Jj2chVn2vh/kZEK3O4rIaub3mcaIrxi4Anp8nNITg+SCHQmShIQR2w3iBdQL5MW07PCG1T93O3JYWbKhfD4muaVjYXugWTMuCasMIILW4jZlapMGwgxG+8WvOcJak26PtjlEE7TMYqKyrVAznfaMIzGoWLFFi4yHP1oUfUsHWETdBFOedM/iCGG5Be/VB3PLYV9HUB9XiC2y9rzuPjWxINFQ/qis23CdLs3wfFJCst7LGdeYQoRvkzBti55354QJLBsy1RJbG+oTsk9+EzPPsn7FnOQ3nwVeaVWeojS2cYt1MjqcoPPI6o0aScAbApJpKPK0aX+b9YOG4Wvn4pTLXOt5asXCRbql17k6IwGKiEfj5O9TDVj1OI3ZP8Jw2NTqSUcAiCVAnPlg/unSVBBID7ngPSFGZWbVLkVhAU6oG9oF19YbWDM3o9XgQDebcqaRMr/kdiz3rFCxS3YpAT1QtlAv1cPeiVpXooWyqHXmen63ZuAM+JZ+HouCrHp6MFAiUyq2iTSZoMYwK8zodnwkA==;8mWpSRuKf/SmVoV6Bq4WXw=="
 ---

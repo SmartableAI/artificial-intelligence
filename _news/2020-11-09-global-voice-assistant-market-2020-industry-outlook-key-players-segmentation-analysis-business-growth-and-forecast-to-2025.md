@@ -85,20 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Market : Biggest Innovation to Boost Global Growth Rate Evolving Technology, Size, Share, Data Analysis, SWOT Analysis Forecast"
-    excerpt: "Global Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with"
-    publishedDateTime: 2020-11-04T14:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-biggest-innovation-to-boost-global-growth-rate-evolving-technology-size-share-data-analysis-swot-analysis-forecast-2020-11-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 17
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "4/eoG65ssfRkeEkt6XOUv8jjr8wxCUDsnb4PHIVRfTuMzn/8kBdNK28r+gYVcNH8bFUGxtvk6enxm3wiJiSdhH/qXQ9CBj5PaH4/Gry0skJdbXxhR4Qd+OUWYXV4MLtAfp6jqg5roZTgPqK1sVpZzfvgRs4jxeQNofuGqlAwbN2DGbcRFSF/WA1q/4KImaRym0Y/sWPV0vzOeJuupdd/X0xJXTv6gTHa+9b6VVv1KPHq4HDz102oiHWAG+E6KuAEPs3TSN4pXtjvXAtTomM4nzxwET1XmITxLXPZxYTZVH/LwCwZPJw1PpTKnkZ4bdy+/8li+4r+jGjZAbNx4pVynB2BESTtlu5X32DZKiS8RhY=;1BEjTbvrBa1bd08vzPveNg=="
 ---

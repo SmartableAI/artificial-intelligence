@@ -2,6 +2,50 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-10-12-deeptarget-utilizes-machine-learning-algorithms-to-improve-customer-experience.md",
+      "title": "DeepTarget Utilizes Machine Learning Algorithms to Improve Customer Experience",
+      "excerpt": "DeepTarget Inc., a solution provider that utilizes data mining and machine learning to deliver targeted communications across digital channels for banks and credit unions, announced its use of leading-edge machine learning techniques partnered with historical,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-marketing-and-advertising-corporate-news-marketing-campaigns-e5ab011017064384b5542093d284d117",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-marketing-and-advertising-corporate-news-marketing-campaigns-e5ab011017064384b5542093d284d117",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-12T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-10-12-roborocks-s6-maxv-robotic-vacuum-cleaner-has-two-cameras-and-a-really-smart-ai.md",
       "title": "Roborock’s S6 MaxV robotic vacuum cleaner has two cameras and a really smart AI",
       "excerpt": "It features the advanced ReactiveAI obstacle avoidance technology that has been trained using thousands of images that helps it recognize objects as small as 5cm in width and 3cm tall, even animal ...",
@@ -1093,58 +1137,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-amazons-latest-gimmicks-are-pushing-the-limits-of-privacy.md",
-      "title": "Amazon's Latest Gimmicks Are Pushing the Limits of Privacy",
-      "excerpt": "The company had to impose a yearlong ban on law enforcement using its facial recognition platform Rekognition after criticism and protests about the service's accuracy and reliability. \"Amazon's entire business model is based on surveillance,\" Greer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/amazon-drone-camera-go-palm-data-privacy/",
-      "originalUrl": "https://www.wired.com/story/amazon-drone-camera-go-palm-data-privacy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f80f4ed340398e14d15b3dd/master/pass/Sec-Amazon_ringdrone.jpg",
-          "width": 2400,
-          "height": 1599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/amazon-drone-camera-go-palm-data-privacy/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-drone-camera-go-palm-data-privacy/amp",
-      "publishedDateTime": "2020-10-11T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

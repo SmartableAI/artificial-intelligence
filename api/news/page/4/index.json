@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-04-former-walmart-execs-company-uses-ai-to-battle-billions-in-spoiled-produce.md",
+      "title": "Former Walmart Exec’s Company Uses AI To Battle Billions In Spoiled Produce",
+      "excerpt": "More than $15 billion in produce shipments to food stores is wasted or rejected each year. But a former Walmart shipping executive has started a company to help reduce those losses by using technology to streamline the process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/edgarsten/2020/11/04/former-walmart-execs-company-uses-ai-to-battle-billions-in-spoiled-produce/",
+      "originalUrl": "https://www.forbes.com/sites/edgarsten/2020/11/04/former-walmart-execs-company-uses-ai-to-battle-billions-in-spoiled-produce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa1c0201d9ca8ef5c8c890e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D107%26cropY2%3D2359",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/edgarsten/2020/11/04/former-walmart-execs-company-uses-ai-to-battle-billions-in-spoiled-produce/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2020/11/04/former-walmart-execs-company-uses-ai-to-battle-billions-in-spoiled-produce/amp/",
+      "publishedDateTime": "2020-11-04T03:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-ocado-has-purchased-two-robotics-firms-to-take-on-amazon.md",
       "title": "Ocado has purchased two robotics firms to take on Amazon",
       "excerpt": "UK technology firm Ocado has acquired two robotics start-ups from the US as the company looks to boost efficiency in its warehouses. The purchase of San Francisco firm Kindred Systems for $262 million and Las Vegas-based Haddington Dynamics for $25 million in cash and shares should help the retailer introduce more automation solutions.",
@@ -1197,49 +1248,6 @@
         "AI",
         "Machine Learning",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-samsung-will-shut-down-s-translator-soon.md",
-      "title": "Samsung Will Shut Down S Translator Soon",
-      "excerpt": "Samsung has announced plans to shut down S Translator. The outdated language translation service will reach its end of life on December 1, 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2020/11/samsung-shut-down-s-translator-soon.html",
-      "originalUrl": "https://www.androidheadlines.com/2020/11/samsung-shut-down-s-translator-soon.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2019/02/Samsung-Logo-2019-AM-AH-1.jpg",
-          "width": 1600,
-          "height": 1067,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/2020/11/samsung-shut-down-s-translator-soon.html/amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/11/samsung-shut-down-s-translator-soon.html/amp",
-      "publishedDateTime": "2020-11-03T04:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

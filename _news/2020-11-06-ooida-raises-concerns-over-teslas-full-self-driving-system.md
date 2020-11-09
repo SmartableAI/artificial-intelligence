@@ -60,16 +60,16 @@ related:
   - title: "BEHIND THE WHEEL: Where are our self-driving cars?"
     excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time,"
     publishedDateTime: 2020-11-07T04:30:00Z
-    webUrl: "https://www.dailylocal.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_e61d0649-e1b8-5b2e-b05c-f25477879748.html"
-    ampWebUrl: "https://www.dailylocal.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_e61d0649-e1b8-5b2e-b05c-f25477879748.amp.html"
-    cdnAmpWebUrl: "https://www-dailylocal-com.cdn.ampproject.org/c/s/www.dailylocal.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_e61d0649-e1b8-5b2e-b05c-f25477879748.amp.html"
+    webUrl: "https://www.pottsmerc.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_b2d0fac8-1fa2-11eb-bd1a-839f89469b3a.html"
+    ampWebUrl: "https://www.pottsmerc.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_b2d0fac8-1fa2-11eb-bd1a-839f89469b3a.amp.html"
+    cdnAmpWebUrl: "https://www-pottsmerc-com.cdn.ampproject.org/c/s/www.pottsmerc.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_b2d0fac8-1fa2-11eb-bd1a-839f89469b3a.amp.html"
     type: article
     provider:
-      name: Daily Local News
-      domain: dailylocal.com
+      name: The Mercury
+      domain: pottsmerc.com
     quality: 44
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailylocal.com/content/tncms/assets/v3/editorial/2/69/269ea2fa-0db8-50d3-8153-0ca49b7c73ca/5fa55a853eba7.image.jpg?resize=1024%2C630"
+      - url: "https://bloximages.chicago2.vip.townnews.com/pottsmerc.com/content/tncms/assets/v3/editorial/4/cb/4cb5c470-1fa3-11eb-9a18-27ec9e939d6d/5fa45d30d6deb.image.jpg?resize=1024%2C630"
         width: 1024
         height: 630
         isCached: true
@@ -103,20 +103,31 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Where Are Our Self-Driving Cars?"
-    excerpt: "Here are three reasons why you can’t buy a self-driving car today and one place you’re likely to find them first. It’s difficult to teach a machine to react correctly when faced with new or unpredictable situations we frequently encounter while driving."
-    publishedDateTime: 2020-11-04T15:04:00Z
-    webUrl: "https://www.manufacturing.net/automotive/news/21201409/where-are-our-selfdriving-cars"
+  - title: "Self-Driving Car Legislation Will Try Again Next Year"
+    excerpt: "Despite technological advances, thousands of lives are lost every year in automobile accidents. Approximately 93% of these accidents are caused by human error."
+    publishedDateTime: 2020-11-09T06:11:00Z
+    webUrl: "https://www.evaluationengineering.com/industries/automotive/autonomous-vehicles/article/21161726/selfdriving-car-legislation-will-try-again-next-year"
     type: article
     provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 24
+      name: evaluationengineering
+      domain: evaluationengineering.com
+    quality: 39
     images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/11/16x9/AP20304406106665.5fa2c29eabba5.png?auto=format&fit=max&w=1200"
+      - url: "https://img.evaluationengineering.com/files/base/ebm/ee/image/2020/11/Mercedes_promo2.5fa586396f6c9.5fa5b9199d7a8.png?auto=format&fit=max&w=1200"
         width: 1200
-        height: 673
+        height: 675
         isCached: true
+  - title: "Despite promises, totally self-driving cars still in the future"
+    excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time, so you must always keep your hands on the wheel and pay extra attention to the ..."
+    publishedDateTime: 2020-11-08T15:32:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/where-are-our-self-driving-cars/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/where-are-our-self-driving-cars/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/where-are-our-self-driving-cars/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 24
   - title: "Edmunds: Where are our self-driving cars?"
     excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time, so you must always keep your hands on the wheel and pay extra attention to the road."
     publishedDateTime: 2020-11-07T07:03:00Z

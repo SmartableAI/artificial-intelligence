@@ -2,6 +2,58 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-10-13-drone-maker-delair-spins-out-its-computer-vision-platform-to-create-alteia.md",
+      "title": "Drone maker Delair spins out its computer vision platform to create Alteia",
+      "excerpt": "In a recognition of how the drone business has shifted in recent years, Delair announced today that it will spin out its drone-data platform into a separate company called Alteia. The new company ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/12/drone-maker-delair-spins-out-its-computer-vision-platform-to-create-alteia/",
+      "originalUrl": "https://venturebeat.com/2020/10/12/drone-maker-delair-spins-out-its-computer-vision-platform-to-create-alteia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/02/Delair.ai_Tablet-e1602535031922.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/12/drone-maker-delair-spins-out-its-computer-vision-platform-to-create-alteia/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/12/drone-maker-delair-spins-out-its-computer-vision-platform-to-create-alteia/amp/",
+      "publishedDateTime": "2020-10-12T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-new-bbc-microbit-supports-ai-and-machine-learning-adds-speaker-and-microphone.md",
       "title": "New BBC micro:bit supports AI and machine learning, adds speaker and microphone",
       "excerpt": "(Pocket-lint) - The BBC micro:bit is a clever little piece of technology designed to help people learn to code on the small scale. The original was launched in 2016 - with 5 million in use across 60 countries - and there's a new version 2 that's going to be available from mid-November.",
@@ -1188,50 +1240,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-deeptarget-utilizes-machine-learning-algorithms-to-improve-customer-experience.md",
-      "title": "DeepTarget Utilizes Machine Learning Algorithms to Improve Customer Experience",
-      "excerpt": "DeepTarget Inc., a solution provider that utilizes data mining and machine learning to deliver targeted communications across digital channels for banks and credit unions, announced its use of leading-edge machine learning techniques partnered with historical,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-marketing-and-advertising-corporate-news-marketing-campaigns-e5ab011017064384b5542093d284d117",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-marketing-and-advertising-corporate-news-marketing-campaigns-e5ab011017064384b5542093d284d117",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

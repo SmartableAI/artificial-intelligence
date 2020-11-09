@@ -2,6 +2,49 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-10-20-russian-military-said-to-be-developing-mind-controlled-exoskeleton.md",
+      "title": "Russian military said to be developing mind-controlled exoskeleton",
+      "excerpt": "\"The Russian Army is set to receive mind-controlled exoskeletons,\" the Russian Sputnik media source said. \"The wearable robots will be controlled by brain waves and will increase the strength and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/44889/russian-military-developing-mind-controlled-exoskeleton/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/44889/russian-military-developing-mind-controlled-exoskeleton/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tweaktown.com/images/news/4/4/44889_01_russian-military-developing-mind-controlled-exoskeleton_full.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/44889/russian-military-developing-mind-controlled-exoskeleton/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/44889/russian-military-developing-mind-controlled-exoskeleton/amp.html",
+      "publishedDateTime": "2020-10-19T18:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-predicting-the-fuel-flow-rate-of-commercial-aircraft-via-multilayer-perceptron-radial-basis-function-and-anfis-artificial-neural-networks.md",
       "title": "Predicting the fuel flow rate of commercial aircraft via multilayer perceptron, radial basis function and ANFIS artificial neural networks",
       "excerpt": "To send this article to your Kindle, first ensure no-reply@cambridge.org is added to your Approved Personal Document E-mail List under your Personal Document Settings on the Manage Your Content and Devices page of your Amazon account. Then enter the ...",
@@ -1148,50 +1191,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-deep-learning-model-developed-to-identify-appropriate-lung-cancer-therapy.md",
-      "title": "Deep Learning Model Developed to Identify Appropriate Lung Cancer Therapy",
-      "excerpt": "Researchers are developing a noninvasive, method to analyze a non-small cell lung cancer mutations and biomarkers to determine the best course of treatment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.genengnews.com/news/deep-learning-model-developed-to-identify-appropriate-lung-cancer-therapy/",
-      "originalUrl": "https://www.genengnews.com/news/deep-learning-model-developed-to-identify-appropriate-lung-cancer-therapy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.genengnews.com/wp-content/uploads/2018/11/Apr6_2018_Getty_490025288_LungCancer.jpg",
-          "width": 2000,
-          "height": 1547,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-19T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GEN",
-        "domain": "genengnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

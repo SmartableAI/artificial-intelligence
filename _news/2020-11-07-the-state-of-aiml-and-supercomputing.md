@@ -7,7 +7,7 @@ originalUrl: "https://www.electronicdesign.com/resources/webcasts/webinar/211470
 webUrl: "https://www.electronicdesign.com/resources/webcasts/webinar/21147029/the-state-of-aiml-and-supercomputing"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 514
     isCached: true
-
-related:
-  - title: "Will Quantum Computing Supercharge Artificial Intelligence?"
-    excerpt: "Imagine if we could simply train an AI to look at the data coming from the quantum machine, figure out what makes sense and what is probably wrong without human intervention."
-    publishedDateTime: 2020-11-04T15:00:00Z
-    webUrl: "https://www.nextgov.com/ideas/2020/11/will-quantum-computing-supercharge-artificial-intelligence/169757/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 37
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2020/11/03/NGai20201103/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "VDAaV8w+Rx/Z1sV58bk5MwlTYLrjJfN3I09Dd0RT8OfxJkWTLbQOcCwQLekGXxSHbm6HBQz4N+cTpnkzc154RID2Ih0I+k08st0ejxK5btzjc0aONgdO5swONN3ggnIpgwNeLxcdZE1lyFpNuvJB19yYD8vAFf3pQER7WaAy1rbzXM7HdiMDMWxuUe6WXpFUUjnl4GIbhdWIVCnwhK+UTeMd+iVMmBcXE3CMdMzzSdk9kg46NGl/LttYtruG45SMoE75twUvluaJZ792/lyStZA9Pki/+tFFFhPR0QAcoEWJyletew1wt16DSBWgqzCiZJYzCOa9zoZzQeZhRMZRx1DuncBxjx64QcnloDXlRL3DO8ak/bK+9/Qnp7X2HD9LkD87a0lIyrCkMcPhOx29bdtGDyQY60nPddiiQbL5qCY8yf/wmFbu/3x/hnSemd3L5np1WV/rtVVRqfey5HaFudUUFaXAF6gD6pVs6xncyEQ+bGCrZO7WTa2W0Lkb4FOvnGHC7hhkrzMnWTg4vp+lzw==;+LmdYUbqPPm8gq3arzYGUw=="
 ---

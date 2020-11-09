@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-face-recognition-
 webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-size-to-reach-20548-million-usd-by-2025-2020-11-05"
 type: article
 quality: 65
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "New NXP Solution Makes On-device Facial Recognition More Affordable"
+    excerpt: "NXP has unveiled a new low-cost facial recognition solution that will make the technology more affordable for equipment manufacturers"
+    publishedDateTime: 2020-11-06T23:49:00Z
+    webUrl: "https://mobileidworld.com/new-nxp-solution-makes-on-device-facial-recognition-more-affordable-110607/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 39
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/connected-id.jpeg"
+        width: 400
+        height: 298
         isCached: true
   - title: "Voice Recognition Market Overview By Share, Size, Industry Players, Revenue And Product Demand Till 2020-2026"
     excerpt: "The Voice Recognition market is anticipated to reach over $150 billion by 2026 according to a new research published"

@@ -470,6 +470,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-21-neural-pathway-crucial-to-successful-rapid-object-recognition-in-primates.md",
+      "title": "Neural pathway crucial to successful rapid object recognition in primates",
+      "excerpt": "The findings enrich existing models of the neural circuitry involved in visual perception and help to further unravel the computational code for solving object recognition in the primate brain.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.html",
+      "originalUrl": "https://medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2020/neuralpathwa.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.amp",
+      "publishedDateTime": "2020-10-21T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-acuant-prioritized-for-fedramp-jab-authorization-for-assureidtm-connect-ozone-faceid-facial-recognition-system.md",
       "title": "Acuant Prioritized for FedRAMP JAB Authorization for AssureID(TM) Connect, Ozone® & FaceID Facial Recognition System",
       "excerpt": "Acuant, a leading global provider of identity verification solutions, today announced that the Federal Risk and Authorization Management Program (FedRAMP) has prioritized their",
@@ -553,59 +596,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-neural-pathway-crucial-to-successful-rapid-object-recognition-in-primates.md",
-      "title": "Neural pathway crucial to successful rapid object recognition in primates",
-      "excerpt": "Recurrent processing via prefrontal cortex, necessary for quick visual object processing in primates, provides a key insight for developing brain-like artificial intelligence ... this recurrent neural network — is essential to rapid object identification ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2020/neural-pathway-crucial-successful-rapid-object-recognition-primates-1020",
-      "originalUrl": "https://news.mit.edu/2020/neural-pathway-crucial-successful-rapid-object-recognition-primates-1020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202010/Ko-DiCarlo-Neuron-edited_0.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-20T13:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
       ]
     },
     {

@@ -166,7 +166,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/05/when-a-tree-falls-on-top-of-a-self-driving-car/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1375,6 +1375,50 @@
       ]
     },
     {
+      "path": "_news/2020-10-28-5-best-robotics-and-artificial-intelligence-stocks-to-buy.md",
+      "title": "5 Best Robotics and Artificial Intelligence Stocks To Buy",
+      "excerpt": "Google AI is the company’s division that focuses exclusively on artificial intelligence and Waymo is probably the most advanced autonomous driving technology company in the world (though Chinese ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17135035/50882921_ml.jpg",
+          "width": 1678,
+          "height": 1119,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-27T22:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-why-the-future-needs-optical-data-centres.md",
       "title": "Why the future needs optical data centres",
       "excerpt": "Driverless cars, AI ... on the pressure from new types of workloads [such as machine learning and artificial intelligence] and the cloud providers’ strategy on innovation.”",
@@ -1476,59 +1520,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-tesla-should-sell-its-self-driving-computer-chips-says-commaais-george-hotz.md",
-      "title": "Tesla should sell its self-driving computer chips, says comma.ai’s George Hotz",
-      "excerpt": "George Hotz, CEO of comma.ai, argues that Tesla should sell its self-driving computer chip and create some competition to Nvidia in the process. Hotz rose to fame through his hacking feats as a ...",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2020/10/27/tesla-sell-self-driving-computer-chip-comma-ai-george-hotz/",
-      "originalUrl": "https://electrek.co/2020/10/27/tesla-sell-self-driving-computer-chip-comma-ai-george-hotz/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2019/04/Screen-Shot-2019-04-22-at-2.48.22-PM-1-e1555961353311.jpg?quality=82&strip=all",
-          "width": 1587,
-          "height": 706,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2020/10/27/tesla-sell-self-driving-computer-chip-comma-ai-george-hotz/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/27/tesla-sell-self-driving-computer-chip-comma-ai-george-hotz/amp/",
-      "publishedDateTime": "2020-10-27T14:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

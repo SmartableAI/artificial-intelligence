@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-10-27-learning-a-second-language-business-benefits-and-how-to-start-a-program.md",
+      "title": "Learning A Second Language: Business Benefits And How To Start A Program",
+      "excerpt": "Language remains a key organizational building block, whether we are distributed all the way across the world or just next door.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2020/10/27/learning-a-second-language-business-benefits-and-how-to-start-a-program/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2020/10/27/learning-a-second-language-business-benefits-and-how-to-start-a-program/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9738fe97804ca61558e810%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2020/10/27/learning-a-second-language-business-benefits-and-how-to-start-a-program/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/10/27/learning-a-second-language-business-benefits-and-how-to-start-a-program/amp/",
+      "publishedDateTime": "2020-10-27T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-first-responder-technologies-completes-alpha-version-of-sentineltm-vision-camera-and-weapon-detection-computer-vision-model.md",
       "title": "First Responder Technologies Completes Alpha Version of Sentineltm Vision Camera and Weapon Detection Computer Vision Model",
       "excerpt": "First Responder Technologies Inc. (“First Responder” or the “Company”) (CSE: WPN | OTCQB: WPNNF | FWB: 3WK), a developer of WiFi-based",
@@ -1173,57 +1225,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-what-will-the-next-ai-killer-app-be-given-covid-19-impacts.md",
-      "title": "What Will The Next AI Killer App Be Given Covid-19 Impacts?",
-      "excerpt": "This blog explores the increasing mental health risks, rise of loneliness and the introduces the value of affective computing where voice and emotion will make invaluable contributions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2020/10/26/what-will-the-next-ai-killer-app-be--given-covid-19-impacts/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2020/10/26/what-will-the-next-ai-killer-app-be--given-covid-19-impacts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f95dce16079e862a88df866%2F0x0.jpg",
-          "width": 1200,
-          "height": 919,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-26T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

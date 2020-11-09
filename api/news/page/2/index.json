@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-06-can-ai-replace-human-decision-making-most-companies-say-no-but-it-can-help.md",
+      "title": "Can AI replace human decision-making? Most companies say no, but it can help",
+      "excerpt": "Most CIOs aren't comfortable with letting the AI take over decisions. But it does help them make better, less biased ones.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/can-ai-replace-human-decision-making-most-companies-say-no-but-it-can-help/",
+      "originalUrl": "https://www.techrepublic.com/article/can-ai-replace-human-decision-making-most-companies-say-no-but-it-can-help/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/can-ai-replace-human-decision-making-most-companies-say-no-but-it-can-help/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/can-ai-replace-human-decision-making-most-companies-say-no-but-it-can-help/",
+      "publishedDateTime": "2020-11-06T07:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-06-an-ai-robot-wrote-my-term-paper.md",
       "title": "An AI Robot Wrote My Term Paper",
       "excerpt": "As personal computers and search engines have become ubiquitous, and AI and ML have risen in prominence, the idea of having a computer find the excerpts and actually write an essay, is no longer science fiction.",
@@ -443,7 +485,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ibm-watson-services-market-evolving-technology-segmentation-and-industry-analysis-2020-to-2027-2020-11-06",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -987,7 +1029,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/05/when-a-tree-falls-on-top-of-a-self-driving-car/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1166,58 +1208,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-dances-with-robots-and-other-tales-from-the-outer-limits.md",
-      "title": "Dances With Robots, and Other Tales From the Outer Limits",
-      "excerpt": "Artificial intelligence and dance may seem like strange bedfellows, but artists and engineers are using technology to expand the possible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/05/arts/dance/dance-and-artificial-intelligence.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/05/arts/dance/dance-and-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/08/arts/01artificial-dance-1/01artificial-dance-1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/05/arts/dance/dance-and-artificial-intelligence.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/05/arts/dance/dance-and-artificial-intelligence.amp.html",
-      "publishedDateTime": "2020-11-05T07:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -2,6 +2,48 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-10-09-researchers-use-artificial-intelligence-language-tools-to-decode-molecular-movements.md",
+      "title": "Researchers use artificial intelligence language tools to decode molecular movements",
+      "excerpt": "By applying natural language processing tools to the movements of protein molecules, University of Maryland scientists created an abstract language that describes the multiple shapes a protein molecule can take and how and when it transitions from one shape to another.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2020-10-artificial-intelligence-language-tools-decode.html",
+      "originalUrl": "https://phys.org/news/2020-10-artificial-intelligence-language-tools-decode.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/5-umdresearche.jpg",
+          "width": 668,
+          "height": 1008,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2020-10-artificial-intelligence-language-tools-decode.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-artificial-intelligence-language-tools-decode.amp",
+      "publishedDateTime": "2020-10-09T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-how-ai-and-machine-learning-can-help-accountants-stay-competitive.md",
       "title": "How AI and Machine Learning can help accountants stay competitive",
       "excerpt": "Artificial intelligence (AI) and automation have brought the accounting profession to a point of pivotal change, and it’s about to revolutionise the way that accountants work.",
@@ -1096,57 +1138,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-adobe-brings-more-ai-powered-tools-to-photoshop-and-premiere-elements-2021.md",
-      "title": "Adobe brings more AI-powered tools to Photoshop and Premiere Elements 2021",
-      "excerpt": "The 2021 versions of Photoshop Elements and Premiere Elements are now available, and Adobe has added a number of AI-powered features to them. Those apps are Adobe’s streamlined versions of Photoshop and Premiere,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/adobe-photoshop-premiere-elements-2021-features-145621547.html",
-      "originalUrl": "https://www.engadget.com/adobe-photoshop-premiere-elements-2021-features-145621547.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fabc49140-0972-11eb-ba75-f5d17a69c7b3&client=amp-blogside-v2&signature=cd018cb59a311d621eb9a96941740f44bd8713c6",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/adobe-photoshop-premiere-elements-2021-features-145621547.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/adobe-photoshop-premiere-elements-2021-features-145621547.html",
-      "publishedDateTime": "2020-10-08T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

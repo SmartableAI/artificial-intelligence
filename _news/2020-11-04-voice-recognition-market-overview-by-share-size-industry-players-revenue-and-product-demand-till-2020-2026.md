@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "New NXP Solution Makes On-device Facial Recognition More Affordable"
+    excerpt: "NXP has unveiled a new low-cost facial recognition solution that will make the technology more affordable for equipment manufacturers"
+    publishedDateTime: 2020-11-06T23:49:00Z
+    webUrl: "https://mobileidworld.com/new-nxp-solution-makes-on-device-facial-recognition-more-affordable-110607/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 39
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/connected-id.jpeg"
+        width: 400
+        height: 298
+        isCached: true
 
 secured: "2pX3gNAA3pIo4hixbdO/KMZ3b+sncwm9SjErwX5MdmR2a3MjkPleFinGxersEVTQlgUF10klOts6GYtFwYfiADv9RX56fGBu+6TfMk7LaSEcoJOgYg00HEWShTrRA9xwHbc5lLw+zKKfM10iHoUNzyDs4hDHHNKjH6nQD8gUK6DtMiNzMhsLNxbn7hucxYeLVreoPX9jz1LH8c/8xyXfXasUTN1kpXmy/kLNtXJIISQOVT3EMfOau6ss3BnyzI75FfbFAbgIebEdY5tMAkrWjcjwdP6coK+bzUCT6jkcdgf65jnn9kY171WsgDfiObN0FXFk316eBPBbTikU8e/aCJAR7SinORfxRQXTBtXmqaI=;Fsu8aVdHUK9chIo5KaRfig=="
 ---

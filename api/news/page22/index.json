@@ -2,6 +2,49 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-10-20-adobe-nvidia-unveil-ai-powered-smart-portrait-at-adobe-max.md",
+      "title": "Adobe & NVIDIA unveil AI-powered Smart Portrait at Adobe MAX",
+      "excerpt": "As part of this week's Adobe MAX conference, Adobe and NVIDIA are unveiling some major advancements that will allow artists to use AI for photo editing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.shacknews.com/article/121016/adobe-nvidia-unveil-ai-powered-smart-portrait-at-adobe-max",
+      "originalUrl": "https://www.shacknews.com/article/121016/adobe-nvidia-unveil-ai-powered-smart-portrait-at-adobe-max",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/10/19/nvidia-studio-adobe-photoshop-smart-portrait_feature.jpg",
+          "width": 1280,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.shacknews.com/article/121016/adobe-nvidia-unveil-ai-powered-smart-portrait-at-adobe-max?amphtml=1",
+      "cdnAmpWebUrl": "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/121016/adobe-nvidia-unveil-ai-powered-smart-portrait-at-adobe-max?amphtml=1",
+      "publishedDateTime": "2020-10-20T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Shacknews",
+        "domain": "shacknews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-photoshops-ai-neural-filters-can-tweak-age-and-expression-with-a-few-clicks.md",
       "title": "Photoshop’s AI neural filters can tweak age and expression with a few clicks",
       "excerpt": "These filters include a number of simple overlays and effects but also tools that allow for deeper edits, particularly to portraits. With neural filters, Photoshop can adjust a subject’s age and facial expression,",
@@ -1136,49 +1179,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-russian-military-said-to-be-developing-mind-controlled-exoskeleton.md",
-      "title": "Russian military said to be developing mind-controlled exoskeleton",
-      "excerpt": "\"The Russian Army is set to receive mind-controlled exoskeletons,\" the Russian Sputnik media source said. \"The wearable robots will be controlled by brain waves and will increase the strength and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/44889/russian-military-developing-mind-controlled-exoskeleton/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/44889/russian-military-developing-mind-controlled-exoskeleton/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tweaktown.com/images/news/4/4/44889_01_russian-military-developing-mind-controlled-exoskeleton_full.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tweaktown.com/news/44889/russian-military-developing-mind-controlled-exoskeleton/amp.html",
-      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/44889/russian-military-developing-mind-controlled-exoskeleton/amp.html",
-      "publishedDateTime": "2020-10-19T18:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

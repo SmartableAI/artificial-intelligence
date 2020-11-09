@@ -119,15 +119,20 @@ related:
         width: 799
         height: 533
         isCached: true
-  - title: "Portland bans facial recognition tech use by cops, officials"
-    excerpt: "The US city of Portland, Maine on Wednesday voted to ban the use of facial recognition by police and city officials. The Bangor Daily News reported that voters passed a ballot initiative \"bolstering a ban on facial recognition by city agencies\"."
-    publishedDateTime: 2020-11-04T14:42:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20201104/3652950.html"
+  - title: "Citizens in Portland, Maine have voted in favor of banning facial recognition"
+    excerpt: "Earlier this week, voters in Portland, Maine passed a ballot that forbids city agencies and police from using facial recognition. Security agencies and police departments from all over the US have expressed their interest in applying facial recognition in identifying criminals."
+    publishedDateTime: 2020-11-06T18:33:00Z
+    webUrl: "https://knowtechie.com/citizens-in-portland-maine-have-voted-in-favor-of-banning-facial-recognition/"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 51
+    images:
+      - url: "https://mk0knowtechie1qof48y.kinstacdn.com/wp-content/uploads/2019/03/facial-recognition-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "fV0sf0W66b11CMekeh6Eh8n5uZ/Xw5C1jAJ/DvcGeLACePlQqia7BzF05yGOvc8uPrLa1vYroAfZ3BcQKwnjFQpmCfKbjHHOvW+he0Kv26xk34eNJYdwWTGShHOaL2CsuGEY6egEA3XdlWDft5uq13y0m1GYbeiTh92y5limLYXECYpPebMuWv7C8nhaoLaoKdUHMVqL30HwV2V4KgttakWyFyiA4ayVkZ1SsNxb1EGnP9OTKfXCVrstHYgRAfp2d4T82WMl0gIEeslRwk6NVT3gJXZyhkWr39ThMUHsMmDnqvk63mXmeyNP3oQRoEn8saNh3YnA5tAeECk21TrRwZQ2lbRqdlj7VEsX0ixsT5/NOAED/6o4YYP6Uygoexh2yHEoRdGZ5RQ2Cb3BGpEHY72vvqvGr8scbNGhgxMoh5vKDJw9beosLnfM7K9njnAhOSFgn8UytO7ZJIZ5bZbCbuZ8y6BDkGJ8cfrUJwtYBCf/MtSoKC7fnNGBqmVdv9P/QKcNEgE5+0Z5YjujeRgiFw==;XzMkgY+c0NOXGz3RNcL8KQ=="
 ---

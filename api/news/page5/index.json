@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-03-samsung-will-shut-down-s-translator-soon.md",
+      "title": "Samsung Will Shut Down S Translator Soon",
+      "excerpt": "Samsung has announced plans to shut down S Translator. The outdated language translation service will reach its end of life on December 1, 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2020/11/samsung-shut-down-s-translator-soon.html",
+      "originalUrl": "https://www.androidheadlines.com/2020/11/samsung-shut-down-s-translator-soon.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2019/02/Samsung-Logo-2019-AM-AH-1.jpg",
+          "width": 1600,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/2020/11/samsung-shut-down-s-translator-soon.html/amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/11/samsung-shut-down-s-translator-soon.html/amp",
+      "publishedDateTime": "2020-11-03T04:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership.md",
       "title": "ImmunoPrecise Antibodies and Mila Announce Strategic AI Partnership",
       "excerpt": "\"This partnership opens up an exciting opportunity for AI to tap into unexplored ... Mila has distinguished itself in the areas of language modelling, machine translation, object recognition ...",
@@ -1137,49 +1180,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-machine-learning-that-predicts-anti-cancer-drug-efficacy.md",
-      "title": "Machine learning that predicts anti-cancer drug efficacy",
-      "excerpt": "With the advent of pharmacogenomics, machine learning research is well underway to predict patients' drug response that varies by individual from the algorithms derived from previously collected data on drug responses.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-11-machine-anti-cancer-drug-efficacy.html",
-      "originalUrl": "https://medicalxpress.com/news/2020-11-machine-anti-cancer-drug-efficacy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/3-cancer.jpg",
-          "width": 2880,
-          "height": 2304,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-11-machine-anti-cancer-drug-efficacy.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-machine-anti-cancer-drug-efficacy.amp",
-      "publishedDateTime": "2020-11-02T07:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

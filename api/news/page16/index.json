@@ -2,6 +2,58 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-10-23-ai-and-machine-learning-powering-the-next-gen-enterprise.md",
+      "title": "AI and machine learning: Powering the next-gen enterprise",
+      "excerpt": "Now’s the time to get your AI/ML strategy in shape, as a recent CIO Tech Poll shows that AI/ML was considered the most disruptive technology by 62% of respondents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/",
+      "originalUrl": "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bbhub.io/professional/sites/10/347789615.jpg",
+          "width": 1600,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-23T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-ibm-ai-model-predicts-onset-of-alzheimers-disease-by-analyzing-descriptions-of-a-cookie-theft.md",
       "title": "IBM AI model predicts onset of Alzheimer’s disease by analyzing descriptions of a cookie theft",
       "excerpt": "The model predicted the onset of Alzheimer's more accurately than standard clinical methods by searching for symptoms in written descriptions of the image.",
@@ -1131,58 +1183,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-how-ibm-makes-ai-based-on-trust-fairness-and-explainability.md",
-      "title": "How IBM makes AI based on trust, fairness, and explainability",
-      "excerpt": "It’s all about trust Two things are true about trust: it’s at the core of all successful human relationships, and it’s not an easy thing to attain. Trust contains multitudes of nuance, and when achieved, it can lead to transformational events. The same could be said of artificial intelligence. We have",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/10/how-ibm-makes-ai-based-on-trust-fairness-and-explainability/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/10/how-ibm-makes-ai-based-on-trust-fairness-and-explainability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/10/AI_trust_leadspace-990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T13:58:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

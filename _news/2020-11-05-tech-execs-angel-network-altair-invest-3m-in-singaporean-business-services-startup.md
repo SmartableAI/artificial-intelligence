@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Singapore edtech startup LingoAce banks $6m in Sequoia India-led round"
+    excerpt: "The language learning startup said it plans to use the new funds for its Southeast Asian expansion plans and the further development of its platform."
+    publishedDateTime: 2020-11-09T05:51:00Z
+    webUrl: "https://www.techinasia.com/singapore-edtech-startup-lingoace-banks-6m-sequoiaindialed"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 32
+
 secured: "q2jMGlj7S6tsrf4kG4C7cbv5F7cq+hbYV0eV/ZWTOscnExSEw8ovaZr5yOOjZVJkbDf5lIcALdbnUuteQl0WfRQCWDkiQNEMnj64nTgpeLCsR2qGykkygswr8jyvoGusID6tVBpz93rwb6tcCHXfX2Ud0oXtgMZ4yDRNO3zyTaJrnTJr6Ka4nCDeDsVOWyqPlSjzjo4NPg/JyhUHQhrM2hTTylqWjVQ6XzSUBjJb9Eq0YcJkEY+InyNTWK/8kFD8gGfyU7D06nrNKU8Pa/vgfRkR4eNxv8j1So5XNGO32Xzab92O60pyyvb0ptmiI3XAQ/bmH6mvzW4jYNqAyT3VNRpB7xUrLUR7gGIKwjqhDDUk/deQ0LPEXtcF8ChKb4r6ldljzhRrhflhWv91nawSleRRKxeXmh9WFUSTSn9AAiBW0lLllG/+PNKkt5zkseUaowmTREY9CipEW6dQIz2Omk717VXMhRVBCrla8Sqiz0hDvAmNlEwry1q+kWZpmhDXHn1Ou9uxUiQsbGV+UKWu5g==;fSwykx2d/LxDa/En4u4K/w=="
 ---
 
