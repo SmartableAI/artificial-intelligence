@@ -3,8 +3,8 @@ category: news
 title: "AVEVA expands Microsoft collaboration with a focus on Cloud and AI"
 excerpt: "AVEVA has extended its existing strategic collaboration with Microsoft to focus on accelerating digital transformation in the industrial sector."
 publishedDateTime: 2020-11-10T14:00:00Z
-originalUrl: "https://www.controlengeurope.com/article/181914/index.aspx"
-webUrl: "https://www.controlengeurope.com/article/181914/index.aspx"
+originalUrl: "https://www.controlengeurope.com/article/181914/rss/news.aspx"
+webUrl: "https://www.controlengeurope.com/article/181914/rss/news.aspx"
 type: article
 quality: 54
 heat: -1
@@ -79,6 +79,6 @@ related:
       domain: arabianindustry.com
     quality: 20
 
-secured: "nuGNX74ITEAkYwmqik6jdg5Hi3v+FtIuWklfdl+sMCphG+k3UYyIH1fkUQfOeRkn4zj5q/mJEWPXBlaLDINNMfnfY8wqldVvuf7erbWcDtOAVriTOMSfmIoWN4zDGjCcVvv9q2DaKbyL0NscENYDBSOBCRqIDsNtefJASjzeyE8YC1Qz5ZReKtTCB9ILLv39ImAPuSWwod0rkMSNdZ6KqPQ6KSjT/EvFRs/GRZt1/N9EP3jmUhGxv/REOqyoRIei3HG9UMXVnkcCZylbTv8dqJUuMWMeNlbZhFQMvMBYX3GV85QLY68L+b23p/0F8EZkb6V+zIHa4fqplpTTxeWMJ0cvyjjFhcC6pX2k4zMYjhs=;glYrAuV9PNU2YgRMLAO4Vw=="
+secured: "jsfAx0YpD1NGnnzOuA0sowdCoizrY6+SohIoUnagYnjzPn2tJC3hSRPhlQhY615H3L3w7ooNx/+KVUA8QfeRMOF41E0um9gm2SCFgVZlmmSB1N66lEftvqbVGlaC8lqqukC+csq336a4Www+ydtcRMymZK0q3z6Vl7a1iav3SyKvqQZEHsP/lcFc0qsKsBIytf1xTPDt/PeqPaZQ9TPO7NFX5IZEsNqft/3RCB4/vx2ShenqfOLCiWrLQjgrCRzgjGfNaMahSo7yne5B66ri88dOmY+cSAtWCNMXNopLLQ+Tkvaj5wWJPk56E8s/xVsFEL7WTgcZrsJ0zF/tdA7MKSo+wvQlrOCHt4ByUEN5j4M=;TRJWwjXdu2BDTt6jPUq6kw=="
 ---
 

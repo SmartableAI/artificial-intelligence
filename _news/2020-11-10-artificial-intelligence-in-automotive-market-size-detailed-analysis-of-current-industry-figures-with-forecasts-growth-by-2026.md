@@ -29,71 +29,43 @@ images:
     isCached: true
 
 related:
-  - title: "Natural Language Processing (NLP) Market Key Players, Segmentation Analysis, Business Growth and Forecast to 2027"
-    excerpt: "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional"
-    publishedDateTime: 2020-11-10T09:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-key-players-segmentation-analysis-business-growth-and-forecast-to-2027-2020-11-10"
+  - title: "Global Service Robotics Market Size & Share By Sales Revenue, Future Demands, Growth Factors and Emerging Trends Forecast to 2026"
+    excerpt: "The global “Service Robotics Market” is expected to rise with an impressive CAGR and generate the highest revenue by"
+    publishedDateTime: 2020-11-10T15:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026-2020-11-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
+    quality: 72
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "IBM Watson Services Market Evolving Technology, Segmentation and Industry Analysis 2020 to 2027"
-    excerpt: "Selbyville, Delaware As per the research report titled 'IBM Watson Services Market Share, Size, Trends, Industry Analysis Report, By Service Type; By End Use ; By Regions; Segment Forecast, 2020 -2027' available with Market Study Report LLC,"
-    publishedDateTime: 2020-11-06T10:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ibm-watson-services-market-evolving-technology-segmentation-and-industry-analysis-2020-to-2027-2020-11-06"
+  - title: "Voice recognition Market Size, Share and Growth Analysis to be worth more than $ 150 Bn by 2026"
+    excerpt: "Global Voice recognition market is projected to amass over $150 billion by 2026, according to the latest research available at Market Study Report LLC, report provides extensively data on market share,"
+    publishedDateTime: 2020-11-10T12:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-share-and-growth-analysis-to-be-worth-more-than-150-bn-by-2026-2020-11-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Healthcare Information Technology Market mechanics Analysis: Global Industry Trends, Share, Key Players, Forecast to 2025"
-    excerpt: "Selbyville, Delaware This Global Healthcare Information Technology report studies the industry based on one or"
-    publishedDateTime: 2020-11-09T18:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-information-technology-market-mechanics-analysis-global-industry-trends-share-key-players-forecast-to-2025-2020-11-09"
+  - title: "Global Natural Language Processing Market Latest Industry Size, Share, Emerging Trends, Demand, Revenue and Forecasts Research Report"
+    excerpt: "The report evaluates the important characteristics of the market based on present industry scenarios, market demands and business strategies. Also, the research report separates the industry based on the Natural Language Processing Market share,"
+    publishedDateTime: 2020-11-10T08:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-market-latest-industry-size-share-emerging-trends-demand-revenue-and-forecasts-research-report-2020-11-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self-Driving Car Market Size 2024: Regional Industry Segmentation, Analysis By Production, Consumption, Revenue And Growth"
-    excerpt: "Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
-    publishedDateTime: 2020-11-09T07:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-size-2024-regional-industry-segmentation-analysis-by-production-consumption-revenue-and-growth-2020-11-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Voice Assistant Market 2020 Industry Outlook, Key Players, Segmentation Analysis, Business Growth and Forecast to 2025"
-    excerpt: "Global Voice Assistant Market 2020 by Company, Regions, Type and Application, Forecast to 2025 is a conclusive source of information that encapsulates vital details about the market flow as well as future status during the mentioned forecast period of 2025."
-    publishedDateTime: 2020-11-09T04:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-assistant-market-2020-industry-outlook-key-players-segmentation-analysis-business-growth-and-forecast-to-2025-2020-11-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

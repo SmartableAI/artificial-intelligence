@@ -9,8 +9,8 @@ ampWebUrl: "https://abc7news.com/amp/coronavirus-testing-stanford-researchers-co
 cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/coronavirus-testing-stanford-researchers-covid-19-test-results/7686757/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: ABC7 San Francisco
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intelligently connect to customers using machine learning in the COVID-19 pandemic"
-    excerpt: "The pandemic has changed how people interact, how we receive information, and how we get help. It has shifted much of what used to happen in-person to online. Many of our customers are using machine learning (ML) technology to facilitate that transition, from new remote cloud contact centers, to chatbots,"
-    publishedDateTime: 2020-11-05T23:42:17Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/intelligently-connect-to-customers-using-machine-learning-in-the-covid-19-pandemic/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 85
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
-        width: 1260
-        height: 630
-        isCached: true
   - title: "Air Force Turns to Machine Learning to Fight COVID-19 Disinformation"
     excerpt: "Just as the technology can be used to help deliberately spread falsities online, it can also be tapped to stop that spread."
     publishedDateTime: 2020-11-09T19:58:00Z
@@ -80,21 +66,19 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 35
-  - title: "Huge learning losses during COVID-19 disruptions may have DISD lowering its academic goals"
-    excerpt: "Dallas students suffered such deep learning losses during the pandemic that school officials won’t be able to catch them up by the end of the school year, which means DISD wants to lower its academic goals."
-    publishedDateTime: 2020-11-06T15:34:00Z
-    webUrl: "https://www.dallasnews.com/news/education/2020/11/06/huge-learning-losses-during-covid-19-disruptions-may-have-disd-lowering-its-academic-goals/"
-    ampWebUrl: "https://www.dallasnews.com/news/education/2020/11/06/huge-learning-losses-during-covid-19-disruptions-may-have-disd-lowering-its-academic-goals/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/education/2020/11/06/huge-learning-losses-during-covid-19-disruptions-may-have-disd-lowering-its-academic-goals/?outputType=amp"
+  - title: "MGH Researchers Use Artificial Intelligence for COVID-19 Prognosis Prediction"
+    excerpt: "Researchers at Massachusetts General Hospital, an affiliate of Harvard Medical School, have created a new artificial intelligence-based tool for predicting the prognosis of potential COVID-19 patients."
+    publishedDateTime: 2020-11-10T05:04:00Z
+    webUrl: "https://www.thecrimson.com/article/2020/11/10/mgh-ai-predicting-covid-prognosis/"
     type: article
     provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
+      name: The Harvard Crimson
+      domain: thecrimson.com
     quality: 34
     images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/Y_9KI5WD4_zKiLKSvWTGAwYo1Lk=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/XNV5BRFBDZGAFNKAOYJOIFQHRU.JPG"
-        width: 1200
-        height: 630
+      - url: "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2019/01/27/213504_1335189.jpg.2000x1333_q95_crop-smart_upscale.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "el8bp802rfdpYrGbPPbmRwMALDlDoNavWSSjqAla2UPA9o9M8Grp7U34+F2fIvYjOo3OAUT88qBzCW+zVHK8viUp5lH1rCB8xnn/0yMuM0TBoMxmIvCq+ORDOGCtaw+QdF5d7kVEiZymPEAanTixnt/5bg1NHO0WygLsY2T0Pkg3YXsCAq4Fbee5Bx71cspiBzYa0JCUHdlxxc1YeOeTTJJOTikhnoA4mSTI7pffghB76QdCaNGfGj+ukrZwp0yzxA8ZetigrKCqaqS2VDe541ymfbgAhfOAeS2QALL7XM5J4Wq9Kv7sjJAuK6wmO2T1T2kDBGejJxdJlWZLdL8wuZJK8aYR++FEqXTgcnEmf3F/eLhztgiPrE3/ZhQhM2YaowIHrr+Mg8/SX7rzgBwR1JLD+MZFBviWZv8HVF9HTYKVVnY0HEL3S+7Md3UvG1v9m/rn1GxiyFCsQ7LUXhXKGdxZWLuPbuPu0AbUoKyfaVUk+L1CtrGRurHF9sq6HtJp9I5KsebB+1EAcIuH/QeIFg==;8liy+/FofbcPA3cga3uz6w=="

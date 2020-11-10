@@ -55,28 +55,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "BankOnUs launches app to support fintech firms"
-    excerpt: "BankOnUS, a leading financial services aggregator in the UAE, has launched a new generation technology-oriented app to enhance the customer engagement level and enable easy, reliable and cost-effective financial solutions to its customers."
-    publishedDateTime: 2020-11-05T23:44:00Z
-    webUrl: "https://www.zawya.com/mena/en/story/BankOnUs_launches_app_to_support_fintech_firms-SNG_189134285/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_189134285/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_189134285/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 39
-  - title: "Wilson Sonsini-Led AI Fintech Files $100M IPO"
-    excerpt: "Venture-backed fintech company Upstart Holdings Inc. filed plans on Thursday for a $100 million initial public offering, hoping to shake up the lending industry through its artificial intelligence-enabled platform under guidance from Wilson Sonsini Goodrich & Rosati PC."
-    publishedDateTime: 2020-11-06T01:09:00Z
-    webUrl: "https://www.law360.com/articles/1326219/wilson-sonsini-led-ai-fintech-files-100m-ipo"
-    ampWebUrl: "https://www.law360.com/amp/articles/1326219"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1326219"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 39
   - title: "AI a perfect fit for financial services"
     excerpt: "Artificial intelligence has the potential to transform banking and finance and, despite a slow start, work in this direction is already bearing fruit"
     publishedDateTime: 2020-11-08T17:27:00Z

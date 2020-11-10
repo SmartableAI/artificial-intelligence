@@ -29,29 +29,48 @@ images:
     isCached: true
 
 related:
-  - title: "Natural Language Processing Market Size 2020 Report Contains Top Manufacturer Share, Business Revenue and Industry Overview till 2025"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Natural Language Processing Market”"
-    publishedDateTime: 2020-11-06T08:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-2020-report-contains-top-manufacturer-share-business-revenue-and-industry-overview-till-2025-2020-11-06"
+  - title: "Global Service Robotics Market Size & Share By Sales Revenue, Future Demands, Growth Factors and Emerging Trends Forecast to 2026"
+    excerpt: "The global “Service Robotics Market” is expected to rise with an impressive CAGR and generate the highest revenue by"
+    publishedDateTime: 2020-11-10T15:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026-2020-11-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 72
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "India Online learning Market Overview Report, 2020-2025 Featuring Major Institutions and their Brands"
-    excerpt: "Simplilearn Courses & Tutorials Brain4CE Education Solutions Private Limited - Edureka Intellipaat Software Solutions Private Limited - Intellipaat Jigsaw academy education private limited - Jigsaw academy India online reskilled & certification learning market with its value,"
-    publishedDateTime: 2020-11-09T11:42:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/india-online-learning-market-overview-report-2020-2025-featuring-major-institutions-and-their-brands-1029780418"
+  - title: "Artificial Intelligence in Automotive Market Size- Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
+    excerpt: "Selbyville, Delaware Global Artificial Intelligence in Automotive Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Artificial Intelligence in Automotive Market Report also covers top key players,"
+    publishedDateTime: 2020-11-10T06:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-size--detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2020-11-10"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 19
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice recognition Market Size, Share and Growth Analysis to be worth more than $ 150 Bn by 2026"
+    excerpt: "Global Voice recognition market is projected to amass over $150 billion by 2026, according to the latest research available at Market Study Report LLC, report provides extensively data on market share,"
+    publishedDateTime: 2020-11-10T12:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-share-and-growth-analysis-to-be-worth-more-than-150-bn-by-2026-2020-11-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "dbquXTqTX6RIp98ZmgIVOWoNnqkSpGHir+IDkA779i22wMp60ObN0SqSem106cTSkDVKMZHe468rB1c6DkB9o9aFc69ggAjWG6zQ80wYYg1ML82dpfXAh2SVdsThYzO/8OhNlbObkCAbkJApi+p6+SmS32aCoYZGx5P27cVjG/L9w9sSoO5BAaMlK1Vuma6UNLM5MgXniqb8CbbFmrphfrd1ubTFfsoBGFfkQTmI3f7lYGGZ1GCS3XkxuvqinO8qvzUUQH30x7VFB4N2fS0xcozSl1BsG4jmt0mAB2llZpi1DfpNTqAiaY+esiV8QQaH93Cje2+qWzVbarB11zcer/ZOFSATnNEmbgBmDKW/LNc=;RmoKn/jwb0zFMXZhGI3y0g=="
 ---

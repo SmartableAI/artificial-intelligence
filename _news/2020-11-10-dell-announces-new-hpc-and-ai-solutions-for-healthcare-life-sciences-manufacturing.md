@@ -55,6 +55,20 @@ related:
         width: 703
         height: 497
         isCached: true
+  - title: "Blockchain AI Market worth $703 million by 2025 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to the new market research report \"Blockchain AI Market by Technology (ML & NLP), Component (Platform/Tools & Services),"
+    publishedDateTime: 2020-11-10T15:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/blockchain-ai-market-worth-703-million-by-2025--exclusive-report-by-marketsandmarkets-301169651.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 30
+    images:
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+        width: 666
+        height: 350
+        isCached: true
 
 secured: "Ore4mycOhg2d+4BUc2b5Ms0mBq0GwOjQrnt0WM4dSHvRlDtE5uUjuzSPaRY4+092n1Ic/dK/qbhs9uRf9nZfxFXQfUBaPJBf26diwql0fyT6gPUl5J23YCWWHGeTltUshpGLNeVRJRZiRPLXxPmLAcRTrsd1SKqjl0avSZTFvI6yfjeufMvrkcerm9grYFtEC1yvX7jlcJzdFXN4LpewIbBUelK8Lyamu1J2xyu9695lKI5fLtESVaFr0aW+pWJZtnoKT2Bk8FKTvmq/rLFyi43Ge9W8bMvhP+xrTLL60Z3Pjs1cONEkXp/QoJlYsmjvqsPDkUvCl7CEf/JQdtH8JXAONWU/ii0UW8ZxIOTaTtQ=;YwX2zsGU07sjSx07fXt4YQ=="
 ---

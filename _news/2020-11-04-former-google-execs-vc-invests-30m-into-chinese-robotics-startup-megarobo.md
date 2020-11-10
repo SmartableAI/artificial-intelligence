@@ -3,8 +3,8 @@ category: news
 title: "Former Google exec’s VC invests $30m into Chinese robotics startup MegaRobo"
 excerpt: "MegaRobo, a Chinese startup focused on the development of robots and the Internet of Things, announced that it has raised US$30 million in a series B round led by Sinovation Ventures, a VC firm founded by Google China’s former president Kai-Fu Lee."
 publishedDateTime: 2020-11-04T10:56:00Z
-originalUrl: "https://www.techinasia.com/former-google-execs-vc-invests-30m-chinese-robotics-startup-megarobo?ref=recommender-659624"
-webUrl: "https://www.techinasia.com/former-google-execs-vc-invests-30m-chinese-robotics-startup-megarobo?ref=recommender-659624"
+originalUrl: "https://www.techinasia.com/former-google-execs-vc-invests-30m-chinese-robotics-startup-megarobo#!"
+webUrl: "https://www.techinasia.com/former-google-execs-vc-invests-30m-chinese-robotics-startup-megarobo#!"
 type: article
 
 provider:
@@ -19,6 +19,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "VHixN7xGCrKpLLNg8nL6gcxLTubptFGSjOQgkCPuZZ1bB/rUn03QxyO6ExagckoyWhRnbTas9UPNOVoMNRB8c8DFZznNkV2HsFc/RU8ha7/a3TBfKH4mqfaDJ+gHDirsBAODPFIFQLq46FQuKlhigM8fHIdvXAZRnxs/TOCBUPu3XtCF2OIkocNrmI30ORTaGjp9jcKMNMD/j/XpLGGKjqHAGTrbZVYeAoMrGAhB7gsPyBUySLzLUuGJAfS8EcQ9zKqSdx7aKBBkBgB6uZNjag4gTRB3qvS2VZhlqXVHgqQ4MN7dT/pFhmKwnVBqVUPj09CtMCuFBSMMhxNmjs43CRKScS+vlblAbmMDBcubmw8WQxGKKq4dV9kLlBYgIoGpBHFwQwuV5mNGdKRuOhE5xhOcycNR8d42Pm5M3XEqyDosZ1WgGg9NX/00iflQ9f1G3fC6wm0Chb/ctXMiaC0g0i7d1l0ychmI+4GlYQ4V3OdsxMkZB69uBC29oaGJ5l5xiyXtlp0F8tllkgMs2A38+Q==;szthA7BPHLmc4Vx6B33fPQ=="
+secured: "oVaV8B94POosANy2UQZtZq319o8xx47ATf98m0fBkKmxZ1ZDZOwxfivLUgIi534WazPy8MfEsXkKubHkr0d/irdUDn976AZRX/TP1GZdHU9p9P89fATrvqflBrwopSvYP2F+MpzqvGDrWbSnpyhW7FMOiG/4ngSWcdHhQFdH6pPbbZRa3gCfRiLtJkMYc1Wq++Av64X7pBCVw66xOY7mrsQSjVQNpKKeyfY/2UdJlAlym/xvSEw4abPXpqT5b6MGxVR9cMSB9Z3rBChxCOilbp0PuFIc3O90/RKfabQ2xHAvGtAfYYDzpMg7jrKHndTPzDGWJ6DpqjPY3iL0rMM6NOBmoTyTjL3qoPmwEdsPDqjJV3326XhB2P0Ai4cySm8t/jEWt0PslwUPfzo6GD3VWCuV9mYd+PHuewieSSvNnFa0UVb+HNV71ejbbnlxDk4btKCAsggOoJVGxz6e9f/xU/gKK/C9KXRRvu3Jz1MRJ8Y7tMzxM+ulMYZuSDwFqgCQbAlh7C189kMbx+W8FojkcQ==;3WVfNqZKt1HXUBP9pTKN1w=="
 ---
 

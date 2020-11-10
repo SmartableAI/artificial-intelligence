@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Hyundai signs in-car entertainment system deal with chip maker Nvidia"
-excerpt: "Hyundai Motor said it will use the Nvidia Drive in-vehicle information and entertainment system for all its Hyundai, Kia, and Genesis models starting in 2022. The technical cooperation with chip maker Nvidia will enable Hyundai Motor to develop high-performance connected car computing systems for its next-generation models,"
-publishedDateTime: 2020-11-10T06:34:00Z
-originalUrl: "https://www.autonews.com/automakers-suppliers/hyundai-signs-car-entertainment-system-deal-chip-maker-nvidia"
-webUrl: "https://www.autonews.com/automakers-suppliers/hyundai-signs-car-entertainment-system-deal-chip-maker-nvidia"
+title: "Hyundai signs in-car entertainment system deal with chip maker NVIDIA"
+excerpt: "Hyundai Motor said it will use the NVIDIA DRIVE in-vehicle information and entertainment system for all its Hyundai, Kia, and Genesis models starting in 2022. The technical cooperation with chip maker NVIDIA will enable Hyundai Motor to develop high-performance ‘connected car’ computing systems for its next-generation models,"
+publishedDateTime: 2020-11-10T08:22:00Z
+originalUrl: "https://europe.autonews.com/automakers/hyundai-signs-car-entertainment-system-deal-chip-maker-nvidia"
+webUrl: "https://europe.autonews.com/automakers/hyundai-signs-car-entertainment-system-deal-chip-maker-nvidia"
 type: article
 quality: 54
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/hyundai%20logo%20web%20rtrs_1.jpg"
+  - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/hyundai%20logo%20web%20rtrs_1.jpg"
     width: 800
     height: 600
     isCached: true
@@ -101,6 +101,6 @@ related:
       domain: morningstar.com
     quality: 18
 
-secured: "f3zTfD2QocvjleiYCPVZR3XMSDYRtiZ2qmVMFhwMtujCmA9ehykN7xRNqckcmE2pRdMS7GoIVqBa4QdSfmZmdo78CRMh063NrnBV9iBBDhTkY6aZD+GSEBelF4IK7eEJZhigoIuN8n7mZOfhANjyeDg3BWTkhxlMfMXd0ungo2C7wlxAtR/Wct0UJOLbcwHojQYQA8v7CBtABOnW281YmZn8wXdJaAmTNmpdTrmjmJ2AgKE94QeKJzLb+5RxDbLGshQWZWMSDDwGKAZauCRhCRgWK0TQKirGHT8regCchDnkSi/oxjgcwgjZPVqggxDaHmia7MhcfYXG4B/eywcJfNP/JvfLXPKpDrXVK2gkzWw=;7hxTEi7hMKU8EYS1Pjj+HA=="
+secured: "XLySV6Zd4JbZz6ZrY6zBT177GJBVbzuqrFc0rmEs3iFxEkqvtjSQkOiuN6LoB/lPFl2ZLrdikzEFk2NrsAfwErtFrjdOLixjUra7xy7wvH1rfLEJLmEe39ehDezpTN87gAZF6pZGiZ3EdmvcKPsvTZB3bntfD+4cbs8RycJpz0WU1aTlZoPkP9Dan12DExDFlyvLLb0i3ZTAy5mYQ/bYN3TF/bCZkO7ss4uRnrR6pBWhVu6k8Q3qpxXFF4SPrXCGgarpJQZ6JuJmn39gzfdCkhbOgDgWUBVsfXwFCj/Y9ESEfF+bCz+g3aplYYn1kLHd2/++Jr+vkTXxDQPNbJ5TUTTQ1u/38GzBVSvFsdvr5WI=;N/8b5+v/LZUWAuMEIYzutw=="
 ---
 

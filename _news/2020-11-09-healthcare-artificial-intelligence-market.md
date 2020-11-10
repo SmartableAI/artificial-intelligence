@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2183410/healthcare-artificial-intelligenc
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2183410/healthcare-artificial-intelligence-market-is-thriving"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/market_covid_shutterstock_1658915128-405x228.jpg"
         width: 405
         height: 228
+        isCached: true
+  - title: "Blockchain AI Market worth $703 million by 2025 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to the new market research report \"Blockchain AI Market by Technology (ML & NLP), Component (Platform/Tools & Services),"
+    publishedDateTime: 2020-11-10T15:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/blockchain-ai-market-worth-703-million-by-2025--exclusive-report-by-marketsandmarkets-301169651.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 30
+    images:
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+        width: 666
+        height: 350
         isCached: true
 
 secured: "BToj+dJZVHefpEF6ZcsJxgWVpTd0W5jWDLlcqujxz0Cbr1BsQgStuIFGkW0f8o5/kofgumpqOjtCMbNBEz+1D+if6oYPXVaKEhYsekYuyNDL8K6HlxyOSR9JOzTUCNiDGS66pKntiOB62jqoC0ZbP4PTIJAtp1eTJNfIXJ084FYmAdT00VtpCUMj3hVp1ClfG7TS+Z5swOB3ROIHE/yjwhIChxh7OuNI/bKzsUlh49r51TFJSkNHXIHQOwq1pNHfV/teGkwzquUN+6rdzCCtZpMtiCC0tyFidmd7+/9huM/iRY24e1foe0QpNam9gWS+gdJ5rO/xypvoAodetZZGGgcazok7jEXIabPJ9M0eu4Y=;FSXAiwtZCRJX7Kms7fk2KA=="

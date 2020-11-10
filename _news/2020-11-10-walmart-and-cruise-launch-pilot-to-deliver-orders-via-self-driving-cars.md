@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 114
 published: true
 
 provider:
@@ -63,7 +63,37 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Walmart teams up with Cruise for electric self-driving deliveries"
+    excerpt: "Walmart announced a new partnership to promote automated, contactless delivery Tuesday. The Bentonville-based retailer will be partnering with self-driving"
+    publishedDateTime: 2020-11-10T14:40:00Z
+    webUrl: "https://www.nwahomepage.com/news/walmart-teams-up-with-cruise-for-electric-self-driving-deliveries/"
+    ampWebUrl: "https://www.nwahomepage.com/news/walmart-teams-up-with-cruise-for-electric-self-driving-deliveries/amp/"
+    cdnAmpWebUrl: "https://www-nwahomepage-com.cdn.ampproject.org/c/s/www.nwahomepage.com/news/walmart-teams-up-with-cruise-for-electric-self-driving-deliveries/amp/"
+    type: article
+    provider:
+      name: KNWA News
+      domain: nwahomepage.com
+    quality: 44
+    images:
+      - url: "https://www.nwahomepage.com/wp-content/uploads/sites/90/2020/11/Walmart-cruise-av-still.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "GM's Cruise partners with Walmart on self-driving delivery pilot in Ariz."
+    excerpt: "Walmart Inc. is adding Cruise, a majority-owned affiliate of U.S. automaker General Motors, to its roster of self-driving startup partners, in a pilot delivery program early next year in Scottsdale, Ariz."
+    publishedDateTime: 2020-11-10T13:47:00Z
+    webUrl: "https://www.autonews.com/mobility-report/gms-cruise-partners-walmart-self-driving-delivery-pilot-ariz"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 23
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/walmart.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
-secured: "NW/oIXru+PevFF08p5S2lQBo2mXwnqpgllpzrMQXx8bZytlbHtYpFay9D4kDmgkwN9GL8ph8ICbzM9Rpd2kMcmgxxHNWmGAJ2nMo7QuLLF/iG3JhJxHKNnl/SdaU5Wb+CA418Y+aRSVOFZ4ddbn0g3GJ4h1tZpFqAL7PMLnDc8eBP5L0uc3/Xx+SF1UKgd3VETRCUEq8YvIcdXT5s59C8VE9yW3ak7VtAv0fdaw9hUNBdsWyJqgQO9gEBQRS7xyJku1khast5EuNEUSTrt01K9S8Bk59crLERJ6lSLDwy6t4m6/YtRi9Utor4Q4u8G58AlWV1XG6KE3FYEBtpDCh+gDzZU+kEnCeFQvZlA92GsM=;WN5QVl1xdX9s2ZXcRjRZrQ=="
+secured: "ooKrqsjj2zKFcMioVtq8M4MM1Wi4At5bugYzAeBBctUnuAajgmLhGAdTQcR68n68T5xauNfPbut+pXveBs9CXAYZFv4/cIyqvGABtEXUHHC+lzc4LICMXWbzhJtPiKvDnKx6pD4d3IoP9gMa2AcnRVxgOmAWEmpJiukeUj6EuUI8Al2puSa9OESlhzbIFOIDKtlPxy003e/vsw/82zFf8mCj8bzm8G+gLwjk8Lhh1WQudFBAk2RF+sR2zJvXrRMXc+AcRAkUY1WUHd5Oa1vgkL4Fr7jpcb6hGSvxfYvqL9LZNmfPW51tzDSy1OxuithNuJ04M+hb6EGR7dNgnqx0Fy2OqZTRS0qOQsj5LmBHztnuP2p8fCScS7I4xqfzmfqiU9ZMC49RAC4UNFe3fJ3gUkpda6CtstACjY8chtZ1qrwZsGhT8z2A1fQSd+E1xODMdIWuntekSYTxRfXwdAAj4YpAPrbP8Xtmu175uxBX3mBRAUKkW2UyaoBAog7+aOROPsoHOEG+fCqBn4Dzz2H/ig==;Dn7XlMQmrm7t+fHvlN2cDQ=="
 ---
 

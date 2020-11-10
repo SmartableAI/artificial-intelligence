@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/359220"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359220"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://federalnewsnetwork.com/wp-content/uploads/2020/11/arash-rahnama-300x300.jpg"
         width: 300
         height: 300
+        isCached: true
+  - title: "AI Conversations: Enabling Smarter, More Efficient Healthcare"
+    excerpt: "Artificial intelligence applications address today’s healthcare challenges with data-driven insights that can help providers significantly boost the quality of patient care while combatting rising costs."
+    publishedDateTime: 2020-11-10T15:35:00Z
+    webUrl: "https://www.cio.com/article/3596792/ai-conversations-enabling-smarter-more-efficient-healthcare.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 54
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/11/healthcare-3.1-100865893-large.jpg"
+        width: 1200
+        height: 801
         isCached: true
   - title: "How U.S. Xpress is Using Artificial Intelligence to Recruit Drivers"
     excerpt: "The truck driver shortage is not going away. “You can either choose to accept that as reality, or you can find a new way to do things,” says Jacob Kramer, vice president of driver recruiting at Chattanooga,"

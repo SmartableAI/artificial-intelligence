@@ -88,6 +88,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "AI Conversations: Enabling Smarter, More Efficient Healthcare"
+    excerpt: "Artificial intelligence applications address today’s healthcare challenges with data-driven insights that can help providers significantly boost the quality of patient care while combatting rising costs."
+    publishedDateTime: 2020-11-10T15:35:00Z
+    webUrl: "https://www.cio.com/article/3596792/ai-conversations-enabling-smarter-more-efficient-healthcare.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 54
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/11/healthcare-3.1-100865893-large.jpg"
+        width: 1200
+        height: 801
+        isCached: true
 
 secured: "RC2gDNMGgWCVEFf3485wTDvX9kBZYJADC5Q7Jnlb9bvbNl6wgeBZmMFv4fGNVNxADw6KOP4+vcgNlrQKTab8FO957kumTW3esudDNW7Smy1N8wYe5SZtqfFaD4OZR8vy4Eomdw9rmK/s3J/clVtctkGWAr0eaQlYizrO9g50NyfQ40KjDePeORXsRPyRzza9dvSKodwxqxHYpsVaJP6TgBsPrQxtTWbHrj7U7Z+6RJP4zJQwRNncieSM8ZVs2ELlLda3UdXNykMr/PugGEOel663CUpS1LX5L7YD93SSizPcnMWRF4sMQB8EbABbF2V/x26l3iMtqgRjDzydkOGRTY72G+MWGyu8W9g4mBvtAjU=;48NbYHJqCXKkmPrhla8VSw=="
 ---

@@ -63,6 +63,36 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Walmart teams up with Cruise for electric self-driving deliveries"
+    excerpt: "Walmart announced a new partnership to promote automated, contactless delivery Tuesday. The Bentonville-based retailer will be partnering with self-driving"
+    publishedDateTime: 2020-11-10T14:40:00Z
+    webUrl: "https://www.nwahomepage.com/news/walmart-teams-up-with-cruise-for-electric-self-driving-deliveries/"
+    ampWebUrl: "https://www.nwahomepage.com/news/walmart-teams-up-with-cruise-for-electric-self-driving-deliveries/amp/"
+    cdnAmpWebUrl: "https://www-nwahomepage-com.cdn.ampproject.org/c/s/www.nwahomepage.com/news/walmart-teams-up-with-cruise-for-electric-self-driving-deliveries/amp/"
+    type: article
+    provider:
+      name: KNWA News
+      domain: nwahomepage.com
+    quality: 44
+    images:
+      - url: "https://www.nwahomepage.com/wp-content/uploads/sites/90/2020/11/Walmart-cruise-av-still.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "GM's Cruise partners with Walmart on self-driving delivery pilot in Ariz."
+    excerpt: "Walmart Inc. is adding Cruise, a majority-owned affiliate of U.S. automaker General Motors, to its roster of self-driving startup partners, in a pilot delivery program early next year in Scottsdale, Ariz."
+    publishedDateTime: 2020-11-10T13:47:00Z
+    webUrl: "https://www.autonews.com/mobility-report/gms-cruise-partners-walmart-self-driving-delivery-pilot-ariz"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 23
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/walmart.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "SivPEq7P63F3uEhC7AcdaPAPicrBOaVy34sx27584dRcrGu1d59qidMfZQIUoxVDoBagczx1IcfaFaMh5VuOtDmgT+l5yfCz7k5ucIkdy70F06rFRW468NNJMJhtvD9qob8U5fp/IumMv1JWqrF+mPlPE8SyR8CGR08Yhw1fosejTXy4OXmt99GAcQpJj2dr8oh70rfTdvw7LVhHzfQNEfWYNdfYVCfNpov9otiVoGl4u4cBb1oQqcnGOzQRJ5McrPD387SKLZ+vtajjA+N/JHrKs0ODLV20A1ARex/1T4yyPcyK8l3tU3xhUHyMSSmIet9vE1rcdo7HnPZgQiZhAsmT8KbgYqzw9GwdIriTu2yH/jNH6RiTWrAC7MQ96Qut2mFGWJlTOjA6NIJg6ACjZZ6B8v4VUnSECYJSLhy71O/Pskttfn7LS4IaMvIG62F6hL4A9zSe52uO6TYIcHYcl1qO0RoNCxsiGYeZ+dDtYwRFeYgu+HbrxzPcA89Ga/zA/ZVU/O8wvT9uUwe1r2RStA==;VikolovKbsdV9U47/tekXg=="
 ---

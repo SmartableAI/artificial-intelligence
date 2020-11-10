@@ -25,20 +25,6 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Intelligently connect to customers using machine learning in the COVID-19 pandemic"
-    excerpt: "The pandemic has changed how people interact, how we receive information, and how we get help. It has shifted much of what used to happen in-person to online. Many of our customers are using machine learning (ML) technology to facilitate that transition, from new remote cloud contact centers, to chatbots,"
-    publishedDateTime: 2020-11-05T23:42:17Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/intelligently-connect-to-customers-using-machine-learning-in-the-covid-19-pandemic/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 85
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
-        width: 1260
-        height: 630
-        isCached: true
   - title: "Stanford researchers developing fast, portable COVID-19 testing chip"
     excerpt: "With this 'lab on a chip,' anyone can test themselves for COVID-19 in the comfort of their home using a tiny chip instead of sending the nasal swabs fluid to laboratories."
     publishedDateTime: 2020-11-06T22:19:00Z
@@ -83,21 +69,19 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "Huge learning losses during COVID-19 disruptions may have DISD lowering its academic goals"
-    excerpt: "Dallas students suffered such deep learning losses during the pandemic that school officials won’t be able to catch them up by the end of the school year, which means DISD wants to lower its academic goals."
-    publishedDateTime: 2020-11-06T15:34:00Z
-    webUrl: "https://www.dallasnews.com/news/education/2020/11/06/huge-learning-losses-during-covid-19-disruptions-may-have-disd-lowering-its-academic-goals/"
-    ampWebUrl: "https://www.dallasnews.com/news/education/2020/11/06/huge-learning-losses-during-covid-19-disruptions-may-have-disd-lowering-its-academic-goals/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/education/2020/11/06/huge-learning-losses-during-covid-19-disruptions-may-have-disd-lowering-its-academic-goals/?outputType=amp"
+  - title: "MGH Researchers Use Artificial Intelligence for COVID-19 Prognosis Prediction"
+    excerpt: "Researchers at Massachusetts General Hospital, an affiliate of Harvard Medical School, have created a new artificial intelligence-based tool for predicting the prognosis of potential COVID-19 patients."
+    publishedDateTime: 2020-11-10T05:04:00Z
+    webUrl: "https://www.thecrimson.com/article/2020/11/10/mgh-ai-predicting-covid-prognosis/"
     type: article
     provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
+      name: The Harvard Crimson
+      domain: thecrimson.com
     quality: 34
     images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/Y_9KI5WD4_zKiLKSvWTGAwYo1Lk=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/XNV5BRFBDZGAFNKAOYJOIFQHRU.JPG"
-        width: 1200
-        height: 630
+      - url: "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2019/01/27/213504_1335189.jpg.2000x1333_q95_crop-smart_upscale.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "yl3MJ3LPHEfdWAryNgr53YC2Fm1AgEqACYflFs0nOlgxCNRig51FwGkjmG5X83k8XmXfPqGFCQvPIEVKlJZwr/puWhZjY+r3uR7NBwL/3ZxQoT0uflirB71xjTwBU07D3RtnyEr+M6JuPUP/ntUvfuBDfbJXkV1aHYjKldLSS5UfwQ91vwvKg1OZ43usirMdbsZuwQxKLH7Qz4s4XQc+XgaF9ULSdBhLbxFt88eEwmCJBfRKiFq0t/u1x7KeKHLBMpr9469zUQhxdwfmfI78o8iCz8VYD0xfyNYOY/IbKGd/A47kmfOCQKjjai0iGVN/BQ53ngS6UCE+rn36rqtVdVarXHkHwdnLOJZpLyUawKDyTvMDdxVo/ag+IANf2CBYP6ROyKNap02e4fYqmfUb/mnT3X+OBTEFQN/j5uHYZZYEpfa89oX7ZTWzpjcdJ8i7Zf/BBZaDFO+wlfqYHUlGQpkvSZ1XqprXLQd21Ao1frtv9j6y0DisbZ9BGh5JyxkQ3Wg1dO07NJICoJmAy33bew==;fMpksfXikcG4aICqTv/6aA=="

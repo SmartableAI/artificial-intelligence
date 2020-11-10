@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Smarsh to Acquire AI Company Digital Reasoning"
+    excerpt: "Smarsh says Digital Reasoning’s artificial intelligence and machine-learning technology will allow it to more efficiently sift through the virtual reams of communications it archives for financial-services firms."
+    publishedDateTime: 2020-11-10T15:28:00Z
+    webUrl: "https://www.barrons.com/articles/smarsh-to-acquire-artificial-intelligence-company-digital-reasoning-51605021943"
+    ampWebUrl: "https://www.barrons.com/amp/articles/smarsh-to-acquire-artificial-intelligence-company-digital-reasoning-51605021943"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/smarsh-to-acquire-artificial-intelligence-company-digital-reasoning-51605021943"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 59
+    images:
+      - url: "https://images.barrons.com/im-257802/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Smarsh To Acquire AI Pioneer Digital Reasoning"
     excerpt: "The combined firms will represent a power house in the application of natural language processing and machine learning across multiple industries, with initial focus on financial services."
     publishedDateTime: 2020-11-10T12:09:00Z
