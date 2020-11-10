@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/ai-quantum-r-d-funding-to-remain-a-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-quantum-r-d-funding-to-remain-a-priority-under-biden-11604944800"
 type: article
 quality: 89
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "Biden Presidency Expected To Keep AI and Quantum R&D A Priority"
+    excerpt: "As reported by the Wall Street Journal, analysts and members of the Information Technology and Innovation Foundation (ITIF) expect that the presidency of Joe Biden will continue to make research and development for AI and quantum computing technologies a priority,"
+    publishedDateTime: 2020-11-10T20:47:00Z
+    webUrl: "https://www.unite.ai/biden-presidency-expected-to-keep-ai-and-quantum-rd-a-priority/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 37
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2020/11/web-4861605_1920.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "+HN2Jkr+GNxHU1xH2CZNPQL1+iBgqvT2UD2CtuwV4gbtJwkUXo1nVQ82BU4NL6BwCfSJgWhax5wVA5saA5/Ftes7Eg6dZveSAeq3V4PqtLX7Gbfm27g8yVXnzhuxEBlmKH+isdogOMNqfpg6fjfK5FJ9K2t1GTicsKPbFRkTJJGDAP3oUumju3Jp/4raLKAQnrbHCE8La6y30NuWBkN+mnCpBuXLb4Pglw6ZUiZax4+jrBMPpF2u5McoGTHRp/AOQlBCtJVPLG9AlhgTMNJKQ7sjxGZrGMyWT5mUUHG/9KLCH9Ur+WnmQeKtOxgzSjmJFWvW2uMrLWbG89v5PrT/iVY2S2xlrw7swheaXE6sq3fsqjwHMlCgia/8a8D6LYBuhxG6ZEmMIjIa7mv/+6cju9WF7rM5n1ERntYp9zmTzB26nZn1XbGqDPoa84nwwcwhFodvxByBJr7428/smesoj+LK+uPv+M+YZauNRNHXr6Alu6I0z9NPgi8Q9+spO5Dg1vSKeiG7RMq+ZTNei+aKNw==;4zJxopOSmHe+lXSbzBpG+Q=="
 ---

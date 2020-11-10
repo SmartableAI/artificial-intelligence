@@ -2,6 +2,92 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-10-22-amazon-embraces-end-to-end-models-to-improve-alexas-speech-recognition.md",
+      "title": "Amazon embraces end-to-end models to improve Alexa’s speech recognition",
+      "excerpt": "That’s according to Shezhad Mevawalla, head of automatic speech recognition for Alexa, who spoke with VentureBeat ahead of a keynote address at this year’s Interspeech conference. Alexa is now ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/22/amazon-embraces-end-to-end-models-to-improve-alexas-speech-recognition/",
+      "originalUrl": "https://venturebeat.com/2020/10/22/amazon-embraces-end-to-end-models-to-improve-alexas-speech-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/alexa.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/22/amazon-embraces-end-to-end-models-to-improve-alexas-speech-recognition/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/amazon-embraces-end-to-end-models-to-improve-alexas-speech-recognition/amp/",
+      "publishedDateTime": "2020-10-22T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-congruity360-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Congruity360 Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "Congruity360, data governance and storage leader, today announced the availability of Classify360 in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-web-services-internet-technology-217bea6f181fa4a1a075f5aa3e59252f",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-web-services-internet-technology-217bea6f181fa4a1a075f5aa3e59252f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-22T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-deque-releases-axe-accessibility-testing-tool-for-microsofts-new-edge-browser.md",
       "title": "Deque Releases Axe Accessibility Testing Tool for Microsoft’s New Edge Browser",
       "excerpt": "Deque Systems, the trusted leader in digital accessibility, today announced the release of the axe accessibility testing tool for Microsoft’s new Edge web browser. Like its Chrome and Firefox counterparts,",
@@ -1087,101 +1173,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-alexis-ohanians-initialized-capital-backed-an-18-year-old-y-combinator-alumnus-after-seeing-this-pitch-deck.md",
-      "title": "Alexis Ohanian's Initialized Capital backed an 18-year-old Y Combinator alumnus after seeing this pitch deck",
-      "excerpt": "18-year-old Y Combinator graduate Oliver Edholm has landed 25 million SEK ($2.9 million) in funding for his startup Depict.ai. The round was led by Reddit founder Alexis Ohanian's fund ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/depict-ai-18-year-old-startup-backed-reddit-2020-10",
-      "originalUrl": "https://www.businessinsider.com/depict-ai-18-year-old-startup-backed-reddit-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f91924021211300187401fe?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-aws-vs-azure-vs-google-2020-cloud-comparison.md",
-      "title": "AWS vs. Azure vs. Google: 2020 Cloud Comparison",
-      "excerpt": "with its strength in artificial intelligence, is positioned for aggressive growth as the AI market grows – and is known for offering discounts. Microsoft Azure – A close competitor to AWS with an exceptionally capable cloud infrastructure. If you’re ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.datamation.com/cloud-computing/aws-vs-azure-vs-google-cloud-comparison.html",
-      "originalUrl": "https://www.datamation.com/cloud-computing/aws-vs-azure-vs-google-cloud-comparison.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datamation.com/imagesvr_ce/9766/aws-azure-gcp.jpg",
-          "width": 517,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.datamation.com/amp/cloud-computing/aws-vs-azure-vs-google-cloud-comparison.html",
-      "cdnAmpWebUrl": "https://www-datamation-com.cdn.ampproject.org/c/s/www.datamation.com/amp/cloud-computing/aws-vs-azure-vs-google-cloud-comparison.html",
-      "publishedDateTime": "2020-10-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datamation",
-        "domain": "datamation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

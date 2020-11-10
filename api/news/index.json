@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-11-11-accelerate-machine-learning-development-to-build-intelligent-applications-faster.md",
-      "title": "Accelerate Machine Learning Development to Build Intelligent Applications Faster",
-      "excerpt": "This IDC Executive Summary looks at some of the trends around this nascent technology and how vendors such as Amazon Web Services (AWS) have developed services and tools for ML/DL that allow data scientists and developers to deploy ML/ DL models more quickly and easily.",
+      "path": "_news/2020-11-11-the-breadth-of-healthcare-applications-of-artificial-intelligence-even-includes-physical-therapy.md",
+      "title": "The Breadth Of Healthcare Applications Of Artificial Intelligence Even Includes Physical Therapy",
+      "excerpt": "AI must play well the closer to patients it resides. Physical therapy is an excellent aspect of the needed growth, as it is a regular and visible part of patient treatment that includes humans, hardware and software interacting within a regulatory framework to improve patient outcomes.",
       "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/210552/accelerate-machine-learning-development-to-build-intelligent-applications-faster",
-      "originalUrl": "https://www.infoworld.com/resources/210552/accelerate-machine-learning-development-to-build-intelligent-applications-faster",
+      "webUrl": "https://www.forbes.com/sites/davidteich/2020/11/10/the-breadth-of-healthcare-applications-of-artificial-intelligence-even-includes-physical-therapy/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2020/11/10/the-breadth-of-healthcare-applications-of-artificial-intelligence-even-includes-physical-therapy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 116,
       "tags": null,
       "images": [
         {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
-          "width": 300,
-          "height": 300,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-10T10:39:00-08:00",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/11/10/the-breadth-of-healthcare-applications-of-artificial-intelligence-even-includes-physical-therapy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/11/10/the-breadth-of-healthcare-applications-of-artificial-intelligence-even-includes-physical-therapy/amp/",
+      "publishedDateTime": "2020-11-10T12:39:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,7 +49,102 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-how-ai-and-video-analytics-can-revolutionize-utilities-security.md",
+      "title": "How AI And Video Analytics Can Revolutionize Utilities’ Security",
+      "excerpt": "What keeps CIOs up at night is the thought of how a physical and cyber-attack on any remote location could cripple and perhaps force a Utility to shut down to recover.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/10/how-ai-and-video-analytics-can-revolutionize-utilities-security/",
+      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/10/how-ai-and-video-analytics-can-revolutionize-utilities-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faaf5fade18ffd893e954be%2F0x0.jpg",
+          "width": 1200,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/10/how-ai-and-video-analytics-can-revolutionize-utilities-security/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/11/10/how-ai-and-video-analytics-can-revolutionize-utilities-security/amp/",
+      "publishedDateTime": "2020-11-10T12:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards.md",
+      "title": "Accern Wins The Best AI Platform Award at the 6th Annual Benzinga Global Fintech Awards",
+      "excerpt": "PRNewswire/ -- Accern Corporation, a leading no-code, Artificial Intelligence (AI) company is honored to announce that",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards-1029788645",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards-1029788645",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards-1029788645",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards-1029788645",
+      "publishedDateTime": "2020-11-10T11:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -572,7 +667,7 @@
       "originalUrl": "https://venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -766,6 +861,49 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-ai-a-bane-for-traditional-financial-services-a-boon-for-fintech-capgemini-report.md",
+      "title": "AI, a bane for traditional financial services, a boon for fintech: Capgemini report",
+      "excerpt": "Covid-19 has catalysed financial services organisations to harness Artificial Intelligence (AI) to improve customer experience (CX), says a report published by the Capgemini Research Institute. However,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/ai-a-bane-for-traditional-financial-services-a-boon-for-fintech-capgemini-report/article33063906.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/info-tech/ai-a-bane-for-traditional-financial-services-a-boon-for-fintech-capgemini-report/article33063906.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/info-tech/1y1q1h/article33063905.ece/ALTERNATES/LANDSCAPE_615/AI",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/ai-a-bane-for-traditional-financial-services-a-boon-for-fintech-capgemini-report/article33063906.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ai-a-bane-for-traditional-financial-services-a-boon-for-fintech-capgemini-report/article33063906.ece/amp/",
+      "publishedDateTime": "2020-11-09T21:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -1036,7 +1174,7 @@
       "originalUrl": "https://www.wsj.com/articles/ai-quantum-r-d-funding-to-remain-a-priority-under-biden-11604944800",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -1088,7 +1226,7 @@
       "originalUrl": "https://www.reuters.com/article/us-autonomous-nuro-funding-idUSKBN27P1FT",
       "featuredContent": null,
       "highlight": null,
-      "heat": 212,
+      "heat": 222,
       "tags": null,
       "images": [
         {
@@ -1127,144 +1265,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-artificial-intelligence-ai-is-key-to-reducing-digital-ad-waste.md",
-      "title": "Artificial intelligence (AI) is key to reducing digital ad waste",
-      "excerpt": "Do you really want your advertising budget being wasted on ads that are producing solicitations instead of qualified leads? More insights on how the world’s first AI Smart Core℠, SherloQ™ is revolutionizing how websites and digital ad campaigns operate altogether.",
-      "sourceUrl": null,
-      "webUrl": "https://www.searchenginewatch.com/2020/11/09/artificial-intelligence-ai-is-key-to-reducing-digital-ad-waste/",
-      "originalUrl": "https://www.searchenginewatch.com/2020/11/09/artificial-intelligence-ai-is-key-to-reducing-digital-ad-waste/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.searchenginewatch.com/wp-content/uploads/2020/11/Artificial-intelligence-AI-is-key-to-reducing-digital-ad-waste.png",
-          "width": 728,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.searchenginewatch.com/2020/11/09/artificial-intelligence-ai-is-key-to-reducing-digital-ad-waste/amp/",
-      "cdnAmpWebUrl": "https://www-searchenginewatch-com.cdn.ampproject.org/c/s/www.searchenginewatch.com/2020/11/09/artificial-intelligence-ai-is-key-to-reducing-digital-ad-waste/amp/",
-      "publishedDateTime": "2020-11-09T08:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Search Engine Watch",
-        "domain": "searchenginewatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-machine-translation-market-to-cross-15-bn-us-dollar-by-2026.md",
-      "title": "Machine Translation Market to cross 1.5 Bn US-dollar by 2026",
-      "excerpt": "The machine translation market is likely to register lucrative growth over the coming years owing to increasing popularity of cloud-based applications. Cloud technologies have effectively enabled users to proficiently run machine translation solutions over the internet,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-translation-market-to-cross-15-bn-us-dollar-by-2026-2020-11-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-translation-market-to-cross-15-bn-us-dollar-by-2026-2020-11-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-09T07:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-ethical-frameworks-for-ai-arent-enough.md",
-      "title": "Ethical Frameworks for AI Aren’t Enough",
-      "excerpt": "Many AI ethical frameworks cannot be clearly implemented in practice, as researchers have consistently demonstrated. Without a dramatic increase in the specificity of existing AI frameworks, there’s simply not much technical personnel can do to clearly uphold such high-level guidance.",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2020/11/ethical-frameworks-for-ai-arent-enough",
-      "originalUrl": "https://hbr.org/2020/11/ethical-frameworks-for-ai-arent-enough",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2020/11/Nov20_09_1221118269.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hbr.org/amp/2020/11/ethical-frameworks-for-ai-arent-enough",
-      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/ethical-frameworks-for-ai-arent-enough",
-      "publishedDateTime": "2020-11-09T06:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

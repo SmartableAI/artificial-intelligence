@@ -59,17 +59,17 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Hyundai signs in-car entertainment system deal with chip maker NVIDIA"
-    excerpt: "Hyundai Motor said it will use the NVIDIA DRIVE in-vehicle information and entertainment system for all its Hyundai, Kia, and Genesis models starting in 2022. The technical cooperation with chip maker NVIDIA will enable Hyundai Motor to develop high-performance ‘connected car’ computing systems for its next-generation models,"
-    publishedDateTime: 2020-11-10T08:22:00Z
-    webUrl: "https://europe.autonews.com/automakers/hyundai-signs-car-entertainment-system-deal-chip-maker-nvidia"
+  - title: "Hyundai signs in-car entertainment system deal with chip maker Nvidia"
+    excerpt: "Hyundai Motor said it will use the Nvidia Drive in-vehicle information and entertainment system for all its Hyundai, Kia, and Genesis models starting in 2022. The technical cooperation with chip maker Nvidia will enable Hyundai Motor to develop high-performance connected car computing systems for its next-generation models,"
+    publishedDateTime: 2020-11-10T06:34:00Z
+    webUrl: "https://www.autonews.com/automakers-suppliers/hyundai-signs-car-entertainment-system-deal-chip-maker-nvidia"
     type: article
     provider:
       name: Automotive News
       domain: autonews.com
     quality: 54
     images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/hyundai%20logo%20web%20rtrs_1.jpg"
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/hyundai%20logo%20web%20rtrs_1.jpg"
         width: 800
         height: 600
         isCached: true

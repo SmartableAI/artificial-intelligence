@@ -72,6 +72,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 37
+  - title: "A look at promising COVID-19 treatments"
+    excerpt: "More than 100 treatments to save those infected with the new coronavirus are now being tested or researched, and several experimental therapies have been expedited into clinical trials. Among the latest: the Food and Drug Administration this week granted emergency use authorization for Eli Lilly’s monoclonal antibody treatment,"
+    publishedDateTime: 2020-11-10T20:03:00Z
+    webUrl: "https://www.ajc.com/news/a-look-at-promising-covid-19-treatments/HUZEHP65MNEHBLQPLGIKYX7DWQ/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 24
+    images:
+      - url: "https://www.ajc.com/resizer/ST2fUTz4j_ThirIKikD51QMXzUA=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/CJSNPHCYTKJ3ZU3DBTQWJVU4NE.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "y8yX7pixDKPUTyRq0JiIHONbQTOVxcFGLP1q6BVJWJKsPzIoAusT3PH8eJNooXFIibu6kelgpebwm8YmZakrlEo4kBK0c6l9RHNr5ERhtXD04dKzKZQJ93zowvhewXervkcD1AggLSJNIkWq1y2ud/9l/INmASi9bmI1RXyP+tan32yNp3EyikPJk9rKEtIwX3aaSPEwqvZH0OpPaUm2ywL84h0E3eQZpZAtIm/3H8CP3EApRqXeNUJXHak3bgDgd1qJOSHzdITuq1TTC8a8ik1M3Fm+KO+OcHcBx7XCcDGi3Jw8jW5tbvX/4GotvpqZe2JgvrEFN5XktVBgxVkWhDzBVJB+fV080dOngv6ThmA=;55X2OukYiXaPtPNQd1XjPA=="
 ---

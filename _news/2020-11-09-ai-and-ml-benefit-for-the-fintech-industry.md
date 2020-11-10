@@ -7,8 +7,8 @@ originalUrl: "https://augustafreepress.com/ai-and-ml-benefit-for-the-fintech-ind
 webUrl: "https://augustafreepress.com/ai-and-ml-benefit-for-the-fintech-industry/"
 type: article
 quality: 56
-heat: 166
-published: true
+heat: -1
+published: false
 
 provider:
   name: Augusta Free Press
@@ -26,149 +26,45 @@ images:
     isCached: true
 
 related:
-  - title: "AI, a bane for traditional financial services, a boon for fintech: Capgemini report"
-    excerpt: "Covid-19 has catalysed financial services organisations to harness Artificial Intelligence (AI) to improve customer experience (CX), says a report published by the Capgemini Research Institute. However,"
-    publishedDateTime: 2020-11-10T05:22:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/ai-a-bane-for-traditional-financial-services-a-boon-for-fintech-capgemini-report/article33063906.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/ai-a-bane-for-traditional-financial-services-a-boon-for-fintech-capgemini-report/article33063906.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ai-a-bane-for-traditional-financial-services-a-boon-for-fintech-capgemini-report/article33063906.ece/amp/"
+  - title: "Accern Wins The Best AI Platform Award at the 6th Annual Benzinga Global Fintech Awards"
+    excerpt: "PRNewswire/ -- Accern Corporation, a leading no-code, Artificial Intelligence (AI) company is honored to announce that"
+    publishedDateTime: 2020-11-10T19:22:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards-1029788645"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards-1029788645"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards-1029788645"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 53
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
+  - title: "New Constructs Recognized as a 2020 Benzinga Global Fintech Listmaker"
+    excerpt: "New Constructs (NC), the leading provider of insights into the fundamentals and valuation of private and public businesses, has been recognized as a 2020 Benzinga Global Fintech Listmaker in two categories: Best Financial Research Company and Best Investment Research Tech."
+    publishedDateTime: 2020-11-07T00:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/new-constructs-recognized-as-a-2020-benzinga-global-fintech-listmaker-2020-11-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
-      - url: "https://www.thehindubusinessline.com/info-tech/1y1q1h/article33063905.ece/ALTERNATES/LANDSCAPE_615/AI"
-        width: 615
-        height: 384
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "AI a perfect fit for financial services"
-    excerpt: "Artificial intelligence has the potential to transform banking and finance and, despite a slow start, work in this direction is already bearing fruit"
-    publishedDateTime: 2020-11-08T17:27:00Z
-    webUrl: "https://www.businesspost.ie/commercial-reports/ai-a-perfect-fit-for-financial-services-cf7e2f87"
+  - title: "New Constructs Recognized as a 2020 Benzinga Global Fintech Listmaker"
+    excerpt: "PRNewswire/ -- New Constructs (NC), the leading provider of insights into the fundamentals and valuation of private and public businesses, has been"
+    publishedDateTime: 2020-11-06T09:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/new-constructs-recognized-as-a-2020-benzinga-global-fintech-listmaker-301167101.html"
     type: article
     provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 39
-    images:
-      - url: "https://img.resized.co/businesspost/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvaW1lbmdpbmUucHVibGljLnByb2Quc2JwLmluZm9tYWtlci5pbz91dWlkPTBjMTI2Y2Y5LWE3NGQtNTYwZC05Y2EyLTlmYjkxNjBlODJhMCZ0eXBlPXByZXZpZXcmcT04MCZoZWlnaHQ9MjQ4OC4wODEzOTUzNDg4JndpZHRoPTQ0MTgmZnVuY3Rpb249Y3JvcHJlc2l6ZSZ4PTAmeT0wLjA2Mzk1MzQ4ODM3MjA5MzAzJmNyb3Bfdz0wLjk5OTk5OTk5JmNyb3BfaD0wLjg3MjA5MzAxMzI1NTgxXCIsXCJ3aWR0aFwiOjY0NyxcImhlaWdodFwiOjM0MCxcImRlZmF1bHRcIjpcImh0dHA6XFxcL1xcXC9zMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbVxcXC9zdG9yYWdlLnB1Ymxpc2hlcnBsdXMuaWVcXFwvbWVkaWEuYnVzaW5lc3Nwb3N0LmllXFxcL3NicC1uby1pbWFnZS5wbmdcIn0iLCJoYXNoIjoiOTM4NmE1MDI2ZDdkMTllYTUwZjc3ZDcwZDllZTQxNDdjNzRlZmQxYiJ9/ai-a-perfect-fit-for-financial-services.87209301325581"
-        width: 647
-        height: 340
-        isCached: true
-  - title: "This AI Media-Tech Startup Is Taking The OTT Industry By Storm"
-    excerpt: "Taking the media industry by storm, Toch is enabling a first-of-its-kind media tech platform, while using technologies such as AI."
-    publishedDateTime: 2020-11-06T11:33:00Z
-    webUrl: "https://analyticsindiamag.com/this-ai-media-tech-startup-is-taking-the-ott-industry-by-storm/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/11/Toch-banner.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Damon Nam is Disrupting the Blockchain Industry with Emerging FinTech Company, Coin."
-    excerpt: "If you’ve been looking into the Blockchain, Cryptocurrency, and Decentralized Finance (DeFI) movement for more than five minutes, you’ve probably run into the name Damon Nam. Damon is a 20 year IT professional,"
-    publishedDateTime: 2020-11-06T18:58:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-cryptocurrency-financial-technology-information-technology-e96d7763f1ac02a00dcc23b89ff7149d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 32
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "AMTD’s Singapore Solidarity Fund invests $6.4m in 5 fintech startups in its first batch"
-    excerpt: "in five fintech companies. The fund is under the AMTD Group, a financial services conglomerate with businesses in investment banking, asset management, and digital financial solutions. The five companies the find has invested in specialize in AI ..."
-    publishedDateTime: 2020-11-10T06:48:00Z
-    webUrl: "https://www.techinasia.com/amtd-singapore-solidarity-invests-64m-5-fintech-startups-first-batch?ref=recommender-661751"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 26
-  - title: "The Amazing Ways Ocado Uses Artificial Intelligence And Tech To Transform The Grocery Industry"
-    excerpt: "While many know UK company Ocado as an online grocery retailer, it's really one of the most innovative tech companies in the world. Ocado was founded in 2000 as an entirely online experience and therefore never had a brick-and-mortar store to serve its customers,"
-    publishedDateTime: 2020-11-10T06:31:00Z
-    webUrl: "https://www.linkedin.com/pulse/amazing-ways-ocado-uses-artificial-intelligence-tech-transform-marr"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 25
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQE1ngc10d547A/article-cover_image-shrink_720_1280/0?e=1610582400&v=beta&t=g_j_ozUNnTS8Y9yg3Mif880XqA0_lgVpi7EY7McJBjE"
-        width: 1080
-        height: 720
-        isCached: true
-  - title: "Fintech agrees deal for refurbished office landmark"
-    excerpt: "An expanding fintech company is moving to the newly-refurbished Hodge House office building in Cardiff city centre. The move follows an announcement last month that listed AI"
-    publishedDateTime: 2020-11-06T12:08:00Z
-    webUrl: "https://www.insidermedia.com/news/wales/fintech-agrees-deal-for-refurbished-office-landmark"
-    type: article
-    provider:
-      name: Insider
-      domain: insidermedia.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 24
     images:
-      - url: "https://www.insidermedia.com/uploads/event/logos/logo_5G_and_the_superconnected_city.jpg"
-        width: 693
-        height: 400
+      - url: "https://mma.prnewswire.com/media/1327641/c148f7eced4fb67561abbbb736fa.jpg?p=facebook"
+        width: 600
+        height: 315
         isCached: true
-  - title: "Inside the industry: Self-driving tech is beset with difficulties"
-    excerpt: "Car makers are continually advancing their driver assistance tech, but issues remain Perhaps the most complex challenge facing the car industry today is"
-    publishedDateTime: 2020-11-09T06:01:00Z
-    webUrl: "https://www.newsoneplace.com/36567541911/inside-self-driving-industry"
-    type: article
-    provider:
-      name: newsoneplace.com
-      domain: newsoneplace.com
-    quality: 24
-    images:
-      - url: "https://images.weserv.nl/?url=https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/10-self-driving-cars.jpg?itok=m1h94QS_&h=250"
-        width: 380
-        height: 250
-        isCached: true
-  - title: "AQUA ANNOUCNES PARTNERSHIP WITH FINTECH INNOVATOR DARQUBE"
-    excerpt: "Aqua, the next-generation financial services company which uses Big Data and AI-analytics to construct tradable indices based on humans, will"
-    publishedDateTime: 2020-11-09T17:15:00Z
-    webUrl: "https://www.benzinga.com/press-releases/20/11/18280542/aqua-annoucnes-partnership-with-fintech-innovator-darqube"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18280542"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18280542"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 24
-  - title: "LexinFintech Unveils Strategy to Further Tap Chinese Consumer Market at Hong Kong Fintech Week 2020"
-    excerpt: "(GLOBE NEWSWIRE) -- “LexinFintech Holdings Ltd. (“Lexin” or the “Company”) (NASDAQ: LX), a leading online consumption and consumer finance platform for educated young professionals in China, is gearing up to expand its product offerings to tap the rising consumption demand of China’s new generation,"
-    publishedDateTime: 2020-11-06T07:50:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-greater-china-financial-technology-0acddaea86f49e8b8272e9f5f4d32d32"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 10
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "5 Top performing FinTech companies in the United States"
-    excerpt: "FinTech is a portmanteau of the terms “finance” and “technology”. The article reveals the top performing 5 Fintech companies in the U.S."
-    publishedDateTime: 2020-11-06T11:18:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/5-top-performing-fintech-companies-in-the-united-states/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 4
 
 secured: "vApifxn67bMwSLtBe/9EjHCxSiHmYZpj8rS4+dhYpnZQVvcqwrZX9GZ/WEs3rr1hr+8o3Bfiz9QRMYmK9o/YzyLGMboxKBt8cdkHFng3UtvAC02i/oisHdZzp7+xFvVbihxC9W96Y3mc2K3ZYLH5rBwJcXRk3hDD8gPOIbmpgz5cq9iYyQ702GJrfMNJRyx3f/D2YNiAGGwY04Z+FiJ2WCLxK+F7Vneyu1C1WT6KbWYjnyYBn+KKTTYDipiFMAKru7kBNF7YhE5ZvphooFsLIoFBuX6HqNLtzxF8m9ZfzQxLyd9dFyMILHOQ6yjLJT0zDjfbeEbGuYFM284uNt8U7kiIqlQrh14fmCwE/ne5ZlG3MOaivCw69HMMMcJt4XeSJZqjZdmQejQpj1+6vDS/Fbgl/XPR7McceHmtzcSBdUT/6Xq+y5tC/ncCejvJOdOBkqr6h/24E+jXLa5rGUlrijfJDq/IcXfNbJ518eEAtEp/+Avy7HaeHTZQIjvee8pJzCbBNCwMlBy5aXg5uZCv1Q==;ncJsK+QYWPIq9FQF1u0+rw=="
 ---

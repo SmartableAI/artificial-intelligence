@@ -71,6 +71,20 @@ related:
         width: 660
         height: 371
         isCached: true
+  - title: "Cash Flow Solutions and Transaction Science join forces as RIBBIT, an AI-FinTech firm"
+    excerpt: "After 22 years as an electronic payments provider, Cash Flow proudly joins forces with Transaction Science, a groundbreaking"
+    publishedDateTime: 2020-11-10T18:20:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/cash-flow-solutions-and-transaction-science-join-forces-as-ribbit-an-ai-fintech-firm-301170207.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 32
+    images:
+      - url: "https://mma.prnewswire.com/media/1331437/Black_Frog_Green_RIBBIT_72dpi_Logo.jpg?p=facebook"
+        width: 939
+        height: 492
+        isCached: true
   - title: "Fintech set to tackle fashion waste secures £1.35m investment"
     excerpt: "A new fintech designed to reduce stock wastage in the fashion industry has raised £1.35m in seed funding. Purple Dot, a… | Entrepreneurship | Fashion | Retail | London | Funding | Entrepreneur | Inves"
     publishedDateTime: 2020-11-09T16:10:00Z

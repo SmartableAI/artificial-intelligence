@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/11/168918-fintech-for-fashion-
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/168918-fintech-for-fashion-purple-dot-raises-1-35-million-seed-round/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://londonlovesbusiness.com/wp-content/uploads/2019/08/Boohoo.jpg"
         width: 660
         height: 371
+        isCached: true
+  - title: "Cash Flow Solutions and Transaction Science join forces as RIBBIT, an AI-FinTech firm"
+    excerpt: "After 22 years as an electronic payments provider, Cash Flow proudly joins forces with Transaction Science, a groundbreaking"
+    publishedDateTime: 2020-11-10T18:20:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/cash-flow-solutions-and-transaction-science-join-forces-as-ribbit-an-ai-fintech-firm-301170207.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 32
+    images:
+      - url: "https://mma.prnewswire.com/media/1331437/Black_Frog_Green_RIBBIT_72dpi_Logo.jpg?p=facebook"
+        width: 939
+        height: 492
         isCached: true
   - title: "Fintech Firm Quadpay Gets The Urge for Visual Fashion Search"
     excerpt: "Pay Later” company QuadPay aims to bring visual fashion search to the platform, with $6.1 million Urge Holdings acquisition."

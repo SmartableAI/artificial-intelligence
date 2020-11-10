@@ -26,16 +26,16 @@ images:
 
 related:
   - title: "Accelerate Machine Learning Development to Build Intelligent Applications Faster"
-    excerpt: "This IDC Executive Summary looks at some of the trends around this nascent technology and how vendors such as Amazon Web Services (AWS) have developed services and tools for ML/DL that allow data scientists and developers to deploy ML/ DL models more quickly and easily."
-    publishedDateTime: 2020-11-10T18:39:00Z
-    webUrl: "https://www.infoworld.com/resources/210552/accelerate-machine-learning-development-to-build-intelligent-applications-faster"
+    excerpt: "Network news, trend analysis, product testing and the industry’s most important blogs, all collected at the most popular network watering hole on the Internet | Network World"
+    publishedDateTime: 2020-11-10T18:34:00Z
+    webUrl: "https://www.networkworld.com/resources/210552/accelerate-machine-learning-development-to-build-intelligent-applications-faster"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 64
+      name: Network World
+      domain: networkworld.com
+    quality: 34
     images:
-      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+      - url: "https://idge.staticworld.net/nww/nww_logo_300x300.png"
         width: 300
         height: 300
         isCached: true

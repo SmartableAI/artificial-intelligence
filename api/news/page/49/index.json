@@ -2,6 +2,102 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2020-10-01-facial-recognition-contract-extension-reopens-rifts-among-detroit-police-commissioners.md",
+      "title": "Facial recognition contract extension reopens rifts among Detroit police commissioners",
+      "excerpt": "Facial recognition technology, a contentious topic in Detroit that has drawn national headlines, continues to garner attention and spark debate. The Detroit City Council Tuesday voted 6-3 to extend a $220,000 contract with law enforcement technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.freep.com/story/news/local/michigan/detroit/2020/09/30/facial-recognition-police-commissioners-rifts/5869731002/",
+      "originalUrl": "https://www.freep.com/story/news/local/michigan/detroit/2020/09/30/facial-recognition-police-commissioners-rifts/5869731002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2019/08/07/PDTF/b0927c9f-c34a-495a-ad67-ef97cdf59b70-school_security__080719_13.JPG?auto=webp&crop=3599,2025,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.freep.com/amp/5869731002",
+      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5869731002",
+      "publishedDateTime": "2020-09-30T14:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit Free Press",
+        "domain": "freep.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-using-amazon-rekognition-custom-labels-and-amazon-a2i-for-detecting-pizza-slices-and-augmenting-predictions.md",
+      "title": "Using Amazon Rekognition Custom Labels and Amazon A2I for detecting pizza slices and augmenting predictions",
+      "excerpt": "Customers need machine learning (ML) models to detect objects that are interesting for their business. In most cases doing so is hard as these models needs thousands of labelled images and deep learning expertise. &nbsp;Generating this data can take months to gather, and can require large teams of labelers",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-amazon-rekognition-custom-labels-and-amazon-a2i-for-detecting-pizza-slices-and-augmenting-predictions/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-amazon-rekognition-custom-labels-and-amazon-a2i-for-detecting-pizza-slices-and-augmenting-predictions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/30/3-Custom-labels.jpg",
+          "width": 900,
+          "height": 424,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-30T14:30:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning.md",
       "title": "Will AI cross the proverbial chasm? Algorithmia resolves the practical pitfalls of machine learning",
       "excerpt": "For example, Amazon has made a lot of progress with text translation technology as a service, he noted. But industry-specific, or vertical market machine learning, is something of a different story. One customer of Algorithmia, a large financial firm ...",
@@ -1107,101 +1203,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-how-the-trevor-project-continues-to-support-lgbtq-youth.md",
-      "title": "How The Trevor Project continues to support LGBTQ youth",
-      "excerpt": "This September, National Suicide Prevention Awareness Month feels different. Over the past nine months, LGBTQ youth have experienced unique challenges in relation to COVID-19.The pandemic has amplified existing mental health disparities and created new problems that have impacted the daily lives of many",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/outreach-initiatives/google-org/trevor-project-support-lgbtq-youth/",
-      "originalUrl": "https://blog.google/outreach-initiatives/google-org/trevor-project-support-lgbtq-youth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3O5A3023_LUKnAQ7.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 866,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/outreach-initiatives/google-org/trevor-project-support-lgbtq-youth/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-org/trevor-project-support-lgbtq-youth/amp/",
-      "publishedDateTime": "2020-09-30T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-intelemarks-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion.md",
-      "title": "Intelemark's New Microsoft Azure Cloud-Based AI Proprietary Software Fuels International Expansion",
-      "excerpt": "Intelemark, a national leader in the lead generation/appointment setting industry for more than 20 years, is pleased to announce the successful implementation of our third generation cloud-based proprietary software.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanzen.net/nachricht/aktien/intelemark-s-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion-9346878",
-      "originalUrl": "https://www.finanzen.net/nachricht/aktien/intelemark-s-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion-9346878",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanzen",
-        "domain": "finanzen.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

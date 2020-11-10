@@ -47,6 +47,38 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Walmart Teams Up With GM's Cruise on Self-Driving Deliveries"
+    excerpt: "Walmart (NYSE:WMT) said today that it is teaming up with Cruise, the autonomous-vehicle company controlled by General Motors (NYSE:GM), in its latest experiment with self-driving delivery vehicles. Walmart said that it has agreed to a pilot program with Cruise,"
+    publishedDateTime: 2020-11-10T19:12:00Z
+    webUrl: "https://www.fool.com/investing/2020/11/10/walmart-teams-up-with-gms-cruise-on-self-driving-d/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/11/10/walmart-teams-up-with-gms-cruise-on-self-driving-d/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/10/walmart-teams-up-with-gms-cruise-on-self-driving-d/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 74
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F600153%2Fcruise-walmart-111020.jpg&w=1200&op=resize"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Want Speedy Delivery? Walmart Is Revving Things Up With Self-Driving Cars"
+    excerpt: "Walmart today said it will be piloting delivery via all-electric self-driving cars with Cruise, a General Motors majority-owned company."
+    publishedDateTime: 2020-11-10T19:41:00Z
+    webUrl: "https://www.forbes.com/sites/sharonedelson/2020/11/10/want-speedy-delivery-walmart-is-revving-things-up-with-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/sharonedelson/2020/11/10/want-speedy-delivery-walmart-is-revving-things-up-with-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sharonedelson/2020/11/10/want-speedy-delivery-walmart-is-revving-things-up-with-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 73
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faace08f6fa72dd2b6c7bcb%2F0x0.png"
+        width: 1199
+        height: 675
+        isCached: true
   - title: "Walmart To Test Robotic Deliveries With Electric Cruise Self-Driving Vehicles"
     excerpt: "Walmart is trying to learn whether robotic deliveries fit in with its retail operations so it’s launching the latest pilot program with General Motors-backed Cruise."
     publishedDateTime: 2020-11-10T11:00:00Z
@@ -95,6 +127,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Walmart partners with GM’s Cruise to test self-driving car deliveries"
+    excerpt: "Walmart is adding Cruise, a majority-owned affiliate of General Motors, to its roster of self-driving startup partners, in a pilot delivery program early next year in Scottsdale, Ariz.,"
+    publishedDateTime: 2020-11-10T20:57:00Z
+    webUrl: "https://nypost.com/2020/11/10/walmart-partners-with-gms-cruise-to-test-self-driving-car-deliveries/"
+    ampWebUrl: "https://nypost.com/2020/11/10/walmart-partners-with-gms-cruise-to-test-self-driving-car-deliveries/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/10/walmart-partners-with-gms-cruise-to-test-self-driving-car-deliveries/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 44
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/walmart-gm-delivery.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Walmart to pilot all-electric self-driving delivery in 2021"
     excerpt: "Walmart will launch a pilot in Scottsdale, Ariz., with self-driving car company Cruise to operate an entire fleet of all-electric delivery vehicles powered with 100% renewable energy. The project will support the retail giant’s initiative to reach zero emissions by 2040."
     publishedDateTime: 2020-11-10T18:45:00Z
@@ -140,6 +188,6 @@ related:
         height: 382
         isCached: true
 
-secured: "O/G1Vh12RO5i3yWlRt5UjXVb1Igjh1STTbJpng5TeEYVPJGdQfsPtKhooBfhbtCceJlEoxHdoTUVGF0f8jwzflA6Li0Uqj/E+pwWcYeOiKFn+hYAVag7F4McB1J0zy53aWypN1LdxwPnLZ/y8tNDkhewbWhGw4gkS+vvR/EKho0meG4d33LV+lQCloTL8TeMLpuyu8lmGRN+0X/zejfCrLUKfFsQ7CoucXLAyNGfG0Ocv6OEbmPPnS6jQqV0eXT+nJLVbNZRnv1ZULqP56jnevD72Vo0ceSy0zpMfAv2ys9o9mIPQh5+xEZWRjxwmrmrV+aNgsF+1AZewmhwGvJaFk29r1z7XSOW6yjTeyPNvVs=;Po226lI+y141dcz+VgNKVQ=="
+secured: "Mjvrcph9EgNrWV6T3bYmVoXAO+CA/3kkX/8QE8ltt8qCOcUEe3elSf43K3DOLGxej7eMpp46uiFVIZ6ACoO21vs9OjiV9x7iYNf72xldNog50BCZnlf43nnMac6hFLB5IjUSYHaZMQlfUnPVAD22e3hVtSV9MHUkl2dfQPRqaUKq6eAmsyNqWft7kKh5l7E5lvs/sDWlfCvy7xCxfJ84I+EHYacg6hDX54/SHf6KG0vUBYh/pXmSJ6aQpGijR4SyimMoUlQ+HVplkB14u+1tdODuqHGtI5A7F+yiPBl65R1yX8OHEVq9X0n6EXy0Z5I3nQhgYG+2Wjoe3USAD4w974EwRgSeSbgAcz7WaTmWH2Y4pxwKVCYlp+iKAVXxcheYNE808Mjhlex3K8DCQIKN8qc7M+IHK08crn+VcxkHIKfoHJN4pHuVzkRKd7NqoxP1L8f9aEqZGvol96CkCuaboLtoP4xW8XB2Zy3OkMLm2AII1YppNnqBN0aqmfMQMIFGs3hW2Xw1JP7dWRDaWe9Uqg==;p/GFH2szazuaAad1/8aBqA=="
 ---
 

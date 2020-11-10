@@ -40,6 +40,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
+  - title: "IBM mixes more deep learning into its Cloud Paks"
+    excerpt: "IBM Corp. today introduced new versions of its Cloud Pak for Data and Cloud Pak for Automation products that will enable enterprises to harness deep learning models in their operations more easily. The Cloud Pak product family is a set of software solutions designed to streamline a variety of tasks ranging from cybersecurity to data analytics."
+    publishedDateTime: 2020-11-10T20:55:00Z
+    webUrl: "https://siliconangle.com/2020/11/10/ibm-mixes-deep-learning-cloud-paks/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/Krishna-768x512.jpg"
+        width: 768
+        height: 512
+        isCached: true
 
 secured: "BIBc0hdd08q+DM8NwVnBcmH7BTgTBJPjHRxeop/q1hN44Ifs/GmgCWIbBaYOP2Wlb91svn+e+ZRyeeGyCNXgTMwX8alqbYpMHveKUyb46EG32XT7WdODPng7JvwnBbjOOb0REvxUK4RaLXPUL6pMXvalxlQzorN1lK6OHFQp0kt8D7Ev2mvmHcqvID3ydLE4Jgbmyst8oygZeXPpc8nZd2iNcN8xdaF7UE7yH/520Jjpfa4MtoeKq5fX7YFf8ySCDTWHRnZbMfSJZnOkvUDJ8h1XTUKy/jJrRVRjS/Ysc9/3A9iA2d8XmIoJe4AvYUrDDM+O7ccjFiaI45eUbOcc1Sn+aUX/gYQZojScM6pFi98=;zboFhIGHVFYg5UqdZGjDpA=="
 ---

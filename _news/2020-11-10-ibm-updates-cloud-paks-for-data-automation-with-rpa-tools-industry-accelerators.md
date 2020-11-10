@@ -25,6 +25,20 @@ topics:
   - AI
 
 related:
+  - title: "IBM mixes more deep learning into its Cloud Paks"
+    excerpt: "IBM Corp. today introduced new versions of its Cloud Pak for Data and Cloud Pak for Automation products that will enable enterprises to harness deep learning models in their operations more easily. The Cloud Pak product family is a set of software solutions designed to streamline a variety of tasks ranging from cybersecurity to data analytics."
+    publishedDateTime: 2020-11-10T20:55:00Z
+    webUrl: "https://siliconangle.com/2020/11/10/ibm-mixes-deep-learning-cloud-paks/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/Krishna-768x512.jpg"
+        width: 768
+        height: 512
+        isCached: true
   - title: "IBM Advances Hybrid Cloud Software with New Data and Automation Capabilities to Help Companies Speed Digital Transformations"
     excerpt: "PRNewswire/ -- IBM (NYSE: IBM) today announced a series of data and automation updates to its hybrid cloud software portfolio to help companies drive innovation across their expanding environments and accelerate their digital transformations."
     publishedDateTime: 2020-11-10T14:28:00Z

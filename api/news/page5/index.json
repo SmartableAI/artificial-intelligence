@@ -2,6 +2,91 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-05-how-ai-technology-is-revealing-the-hidden-world-of-bats.md",
+      "title": "How AI technology is revealing the hidden world of bats",
+      "excerpt": "How do you monitor more than a million bats in England? - these conservationists have found the answer! Forestry England and the Bat Conservation Trust have been using artificial intelligence (AI) to help them identify more than 1.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/newsround/54745266",
+      "originalUrl": "https://www.bbc.co.uk/newsround/54745266",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/119F7/production/_115138127_mediaitem115138126.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/newsround/amp/54745266",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/amp/54745266",
+      "publishedDateTime": "2020-11-04T22:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-using-artificial-intelligence-improves-pregnant-womens-health.md",
+      "title": "Using Artificial Intelligence Improves Pregnant Women's Health",
+      "excerpt": "Artificial intelligence technology can help to diagnose congenital disabilities, gestational diabetes, and preterm birth earlier in pregnant women, reports a new study.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm",
+      "originalUrl": "https://www.medindia.net/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/less-than-6hours-of-sleep-during-pregnancy.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/using-artificial-intelligence-improves-pregnant-womens-health-198312-1.htm",
+      "publishedDateTime": "2020-11-04T21:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-how-leveraging-ai-and-machine-learning-can-give-startups-a-competitive-edge.md",
       "title": "How leveraging AI and machine learning can give startups a competitive edge",
       "excerpt": "While AI and machine learning are changing the way businesses operate, startups may still struggle to leverage them effectively, with challenges such as cost and a lack of talent among the chief concerns.",
@@ -774,19 +859,19 @@
     {
       "path": "_news/2020-11-04-splice-machine-announces-livewire-the-operational-ai-platform-designed-for-industrial-use-cases.md",
       "title": "Splice Machine Announces Livewire, the Operational AI Platform Designed for Industrial Use Cases",
-      "excerpt": "PRNewswire/ -- Splice Machine, the only scale-out SQL database with built-in machine learning, today announced Livewire, its new open source Operational",
+      "excerpt": "PRNewswire/ -- Splice Machine, the only scale-out SQL database with built-in machine learning, today announced Livewire, its new open source Operational AI platform for industrial IoT use cases. Livewire is the first combined data and AI platform designed to alert plant operators of likely outages or performance degradation soon enough for them to take remedial action to avoid outages and improve performance.",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/splice-machine-announces-livewire-the-operational-ai-platform-designed-for-industrial-use-cases-301166367.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/splice-machine-announces-livewire-the-operational-ai-platform-designed-for-industrial-use-cases-301166367.html",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-cloud-computing-14e5ed2ceba320204efcda0da779e905",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-cloud-computing-14e5ed2ceba320204efcda0da779e905",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/86257/splice_machine_logo.jpg?p=facebook",
-          "width": 1200,
-          "height": 628,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -796,11 +881,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-04T05:00:00-08:00",
+      "publishedDateTime": "2020-11-04T06:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -810,7 +895,7 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1097,104 +1182,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-artificial-intelligence-market-key-vendors-trends-analysis-segmentation-forecast-to-2020-2026.md",
-      "title": "Artificial Intelligence Market: key Vendors, Trends, Analysis, Segmentation, Forecast to 2020-2026",
-      "excerpt": "According to a new study published by Polaris Market Research the Global Artificial Intelligence Market is anticipated",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-key-vendors-trends-analysis-segmentation-forecast-to-2020-2026-2020-11-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-key-vendors-trends-analysis-segmentation-forecast-to-2020-2026-2020-11-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-04T02:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics",
-        "AI in Autos",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-ai-fail-as-robot-tv-camera-follows-bald-head-instead-of-soccer-ball.md",
-      "title": "A.I. fail as robot TV camera follows bald head instead of soccer ball",
-      "excerpt": "While artificial intelligence (A.I.) has clearly made astonishing strides ... With stadiums closed to fans due to the coronavirus pandemic, Inverness recently decided to start livestreaming its games. Instead of employing a human camera operator, it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/ai-fail-as-robot-camera-mistakes-bald-head-for-soccer-ball/",
-      "originalUrl": "https://www.digitaltrends.com/news/ai-fail-as-robot-camera-mistakes-bald-head-for-soccer-ball/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/ai-fail-as-robot-camera-mistakes-bald-head-for-soccer-ball/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/ai-fail-as-robot-camera-mistakes-bald-head-for-soccer-ball/?amp",
-      "publishedDateTime": "2020-11-03T19:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

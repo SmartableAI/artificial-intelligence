@@ -46,6 +46,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "V.I.P. Auctions introduces artificial intelligence inspection technology"
+    excerpt: "V.I.P. Auctions said on Tuesday that with its new camera-based artificial-intelligence technology, it will be one of the first vehicle auction companies to use automated vehicle-inspection systems to evaluate tires and underbody components for used-vehicle inspection."
+    publishedDateTime: 2020-11-10T18:11:00Z
+    webUrl: "https://www.autoremarketing.com/technology/vip-auctions-introduces-artificial-intelligence-inspection-technology"
+    type: article
+    provider:
+      name: Auto Remarketing
+      domain: autoremarketing.com
+    quality: 36
+    images:
+      - url: "https://www.autoremarketing.com/sites/default/files/VIP%20image002.jpg"
+        width: 880
+        height: 495
+        isCached: true
 
 secured: "XQW/2lnGN68mbbAqN3FwR6fCg1kAwZyd8nLaXU7STUZkIwaC3lhNQK32ziy+RHZwhieHtu0BEt9fjlNWFVZfBfGFBC/35p/ob2YArHi86Oy3jjVQeN5Lw+SduxkzdOSOE9D8FvVj8OSIjlIcpg1AZs4bUmHyhwJE2RWEOh4Yt7yDNPeqphHi1Ckz7RwgJEk4RkqXBubpimw74Kkx7tzl8gbN1VwQVtu4KwXTSfZGLkIPB6Zv/1p9IKucHMkL4GNJlJOGlqzyj0PgLX4pUZVvsRveLIxarOju2B60pKG2lXIwO5dRNopuXWV7rqZg5CibQA2EsR2BcTEdO555QvK6tWnSiiuG4cfn9BA/FMzKmMiyJ4pXy4fUERE63awB7co+Fbxp4XaNk1rFl48I7WtK88f92k6MrL4D2ZRqIFdBwvDK2YKHSXTwteAexs6oqgP4m04xdu1XZHTW6Oj4O9dCCasDds1DRdzTIrSUPPNyENbzR404SFpTNt0ItFyoGTbXUYnDEvo1jNHkkPzGzGFZqw==;SGBMTzo7xAkf7pXv6cs6RA=="
 ---

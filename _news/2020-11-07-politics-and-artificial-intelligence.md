@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Making HPC And AI More Accessible To Enterprises"
-    excerpt: "For more than a decade, as they have watched the amount of data they are generating stack up and technologies like artificial intelligence and analytics"
-    publishedDateTime: 2020-11-09T14:13:00Z
-    webUrl: "https://www.nextplatform.com/2020/11/09/making-hpc-and-ai-more-accessible-to-enterprises/"
-    ampWebUrl: "https://www.nextplatform.com/2020/11/09/making-hpc-and-ai-more-accessible-to-enterprises/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/11/09/making-hpc-and-ai-more-accessible-to-enterprises/amp/"
+  - title: "How AI And Video Analytics Can Revolutionize Utilities’ Security"
+    excerpt: "What keeps CIOs up at night is the thought of how a physical and cyber-attack on any remote location could cripple and perhaps force a Utility to shut down to recover."
+    publishedDateTime: 2020-11-10T20:32:00Z
+    webUrl: "https://www.forbes.com/sites/louiscolumbus/2020/11/10/how-ai-and-video-analytics-can-revolutionize-utilities-security/"
+    ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/11/10/how-ai-and-video-analytics-can-revolutionize-utilities-security/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/11/10/how-ai-and-video-analytics-can-revolutionize-utilities-security/amp/"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/dell-headquarters-logo.jpg"
-        width: 732
-        height: 518
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faaf5fade18ffd893e954be%2F0x0.jpg"
+        width: 1200
+        height: 668
         isCached: true
 
 secured: "Br9Lft6iDyWLHo0db4wpZHcwvmeZCOyuGPQwFaUZz4aEUf/K+F4q2fKFTcJJHyw195gGmOJBlqgdXYTmr/o2z3nINlTwSZpeLu7giB1xE2OU7xbr6c57Ix0oNfwmrmEDJTNXnPrhCbLh8vBgKOaSmI/E9T0LWL36wLdQS1207yhq9hIOFFA8gqpR3cs/K4HhHQEMhwbtQE2Toi9hTKAhZOcw9WGH2tnbAUk1Rj7PZxKh3srGo2cWe1T56wODzmbUh6sMAW8BhyqKjp4eFf4qF9NpOTBZjZ/aWGZ+NZ1U6M4AxsbvtV+6dQLgZgnKOjoSiHSjPOLws/5wKm7spDCJKwB+sJzgOEHe9d9EoMefJnEJVwDVikYq059Cs8fhQS3Lh8O6iFcJpNUS2j/K+q5EvJtG7HPFhGnKwqs9OSJPdgO6IpyB9Q2RwnOGbztNjcRy9bT6Z3XdADMdKkS6ue0JteMHyvslfyWOl8R9leAZIcH4Epv2QRrixPlVo7pnXoA2LF2IXnHzNaBnqszq2z6Z5A==;dxwoJ6uiXm1MPqY6a15bQA=="

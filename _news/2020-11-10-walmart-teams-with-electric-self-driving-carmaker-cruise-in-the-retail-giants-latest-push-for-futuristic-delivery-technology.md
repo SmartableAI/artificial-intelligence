@@ -63,6 +63,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Walmart Teams Up With GM's Cruise on Self-Driving Deliveries"
+    excerpt: "Walmart (NYSE:WMT) said today that it is teaming up with Cruise, the autonomous-vehicle company controlled by General Motors (NYSE:GM), in its latest experiment with self-driving delivery vehicles. Walmart said that it has agreed to a pilot program with Cruise,"
+    publishedDateTime: 2020-11-10T19:12:00Z
+    webUrl: "https://www.fool.com/investing/2020/11/10/walmart-teams-up-with-gms-cruise-on-self-driving-d/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/11/10/walmart-teams-up-with-gms-cruise-on-self-driving-d/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/10/walmart-teams-up-with-gms-cruise-on-self-driving-d/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 74
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F600153%2Fcruise-walmart-111020.jpg&w=1200&op=resize"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Want Speedy Delivery? Walmart Is Revving Things Up With Self-Driving Cars"
+    excerpt: "Walmart today said it will be piloting delivery via all-electric self-driving cars with Cruise, a General Motors majority-owned company."
+    publishedDateTime: 2020-11-10T19:41:00Z
+    webUrl: "https://www.forbes.com/sites/sharonedelson/2020/11/10/want-speedy-delivery-walmart-is-revving-things-up-with-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/sharonedelson/2020/11/10/want-speedy-delivery-walmart-is-revving-things-up-with-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sharonedelson/2020/11/10/want-speedy-delivery-walmart-is-revving-things-up-with-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 73
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faace08f6fa72dd2b6c7bcb%2F0x0.png"
+        width: 1199
+        height: 675
+        isCached: true
   - title: "Walmart To Test Robotic Deliveries With Electric Cruise Self-Driving Vehicles"
     excerpt: "Walmart is trying to learn whether robotic deliveries fit in with its retail operations so it’s launching the latest pilot program with General Motors-backed Cruise."
     publishedDateTime: 2020-11-10T11:00:00Z
@@ -94,6 +126,22 @@ related:
       - url: "https://www.nwahomepage.com/wp-content/uploads/sites/90/2020/11/Walmart-cruise-av-still.jpg?w=1280"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Walmart partners with GM’s Cruise to test self-driving car deliveries"
+    excerpt: "Walmart is adding Cruise, a majority-owned affiliate of General Motors, to its roster of self-driving startup partners, in a pilot delivery program early next year in Scottsdale, Ariz.,"
+    publishedDateTime: 2020-11-10T20:57:00Z
+    webUrl: "https://nypost.com/2020/11/10/walmart-partners-with-gms-cruise-to-test-self-driving-car-deliveries/"
+    ampWebUrl: "https://nypost.com/2020/11/10/walmart-partners-with-gms-cruise-to-test-self-driving-car-deliveries/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/10/walmart-partners-with-gms-cruise-to-test-self-driving-car-deliveries/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 44
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/walmart-gm-delivery.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Walmart to pilot all-electric self-driving delivery in 2021"
     excerpt: "Walmart will launch a pilot in Scottsdale, Ariz., with self-driving car company Cruise to operate an entire fleet of all-electric delivery vehicles powered with 100% renewable energy. The project will support the retail giant’s initiative to reach zero emissions by 2040."

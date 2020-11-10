@@ -2,6 +2,144 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-10-artificial-intelligence-ai-is-key-to-reducing-digital-ad-waste.md",
+      "title": "Artificial intelligence (AI) is key to reducing digital ad waste",
+      "excerpt": "Do you really want your advertising budget being wasted on ads that are producing solicitations instead of qualified leads? More insights on how the world’s first AI Smart Core℠, SherloQ™ is revolutionizing how websites and digital ad campaigns operate altogether.",
+      "sourceUrl": null,
+      "webUrl": "https://www.searchenginewatch.com/2020/11/09/artificial-intelligence-ai-is-key-to-reducing-digital-ad-waste/",
+      "originalUrl": "https://www.searchenginewatch.com/2020/11/09/artificial-intelligence-ai-is-key-to-reducing-digital-ad-waste/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.searchenginewatch.com/wp-content/uploads/2020/11/Artificial-intelligence-AI-is-key-to-reducing-digital-ad-waste.png",
+          "width": 728,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.searchenginewatch.com/2020/11/09/artificial-intelligence-ai-is-key-to-reducing-digital-ad-waste/amp/",
+      "cdnAmpWebUrl": "https://www-searchenginewatch-com.cdn.ampproject.org/c/s/www.searchenginewatch.com/2020/11/09/artificial-intelligence-ai-is-key-to-reducing-digital-ad-waste/amp/",
+      "publishedDateTime": "2020-11-09T08:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Search Engine Watch",
+        "domain": "searchenginewatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-machine-translation-market-to-cross-15-bn-us-dollar-by-2026.md",
+      "title": "Machine Translation Market to cross 1.5 Bn US-dollar by 2026",
+      "excerpt": "The machine translation market is likely to register lucrative growth over the coming years owing to increasing popularity of cloud-based applications. Cloud technologies have effectively enabled users to proficiently run machine translation solutions over the internet,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-translation-market-to-cross-15-bn-us-dollar-by-2026-2020-11-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-translation-market-to-cross-15-bn-us-dollar-by-2026-2020-11-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-09T07:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-ethical-frameworks-for-ai-arent-enough.md",
+      "title": "Ethical Frameworks for AI Aren’t Enough",
+      "excerpt": "Many AI ethical frameworks cannot be clearly implemented in practice, as researchers have consistently demonstrated. Without a dramatic increase in the specificity of existing AI frameworks, there’s simply not much technical personnel can do to clearly uphold such high-level guidance.",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2020/11/ethical-frameworks-for-ai-arent-enough",
+      "originalUrl": "https://hbr.org/2020/11/ethical-frameworks-for-ai-arent-enough",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2020/11/Nov20_09_1221118269.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2020/11/ethical-frameworks-for-ai-arent-enough",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/ethical-frameworks-for-ai-arent-enough",
+      "publishedDateTime": "2020-11-09T06:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-09-machine-learning-algorithms-help-predict-out-of-hospital-cardiac-arrest-survival.md",
       "title": "Machine learning algorithms help predict out-of-hospital cardiac arrest survival",
       "excerpt": "Using neighborhood and local data in combination with existing information sources creates a more accurate prediction on a patient's recovery prospects after an out-of-hospital cardiac arrest (OHCA),",
@@ -42,50 +180,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-ai-and-ml-benefit-for-the-fintech-industry.md",
-      "title": "AI and ML benefit for the Fintech industry",
-      "excerpt": "Let’s take a look at how FinTech companies took advantage of these technologies by employing them for different purposes, and is it worth investing in these technologies at all. Before diving into the use cases of AI and ML in fintech and banking software development,",
-      "sourceUrl": null,
-      "webUrl": "https://augustafreepress.com/ai-and-ml-benefit-for-the-fintech-industry/",
-      "originalUrl": "https://augustafreepress.com/ai-and-ml-benefit-for-the-fintech-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://augustafreepress.com/wp-content/uploads/2020/07/business-1.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-09T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Augusta Free Press",
-        "domain": "augustafreepress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -251,7 +345,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2020/11/168918-fintech-for-fashion-purple-dot-raises-1-35-million-seed-round/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1139,100 +1233,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-this-ai-makes-movies-from-hundreds-of-phones-automatically.md",
-      "title": "This AI Makes Movies From Hundreds Of Phones Automatically",
-      "excerpt": "AI.” Video processing algorithms can find the region of interest in videos, IMINT says, and in the future, they’ll automatically zoom in and intelligently focus on what they’re seeing: a goal being scored at a soccer game,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/11/08/this-ai-makes-movies-from-hundreds-of-phones-automatically/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2020/11/08/this-ai-makes-movies-from-hundreds-of-phones-automatically/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa78ea1652a1b5372c5aa4f%2F0x0.jpg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/11/08/this-ai-makes-movies-from-hundreds-of-phones-automatically/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/11/08/this-ai-makes-movies-from-hundreds-of-phones-automatically/amp/",
-      "publishedDateTime": "2020-11-07T23:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-nine-inch-nails-at-rock-hall-2020-watch-trent-reznors-induction-speech.md",
-      "title": "Nine Inch Nails at Rock Hall 2020: Watch Trent Reznor’s Induction Speech",
-      "excerpt": "Nine Inch Nails were honored tonight during the Rock & Roll Hall of Fame 2020 Induction Ceremony on HBO. After an induction speech from Iggy Pop and a video package that included words from St. Vincent,",
-      "sourceUrl": null,
-      "webUrl": "https://pitchfork.com/news/nine-inch-nails-at-rock-hall-2020-watch-trent-reznors-induction-speech/",
-      "originalUrl": "https://pitchfork.com/news/nine-inch-nails-at-rock-hall-2020-watch-trent-reznors-induction-speech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.pitchfork.com/photos/5fa7288e043ba2867b8ec85a/2:1/w_648/trent-reznor.jpg",
-          "width": 648,
-          "height": 324,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://pitchfork.com/news/nine-inch-nails-at-rock-hall-2020-watch-trent-reznors-induction-speech/amp/",
-      "cdnAmpWebUrl": "https://pitchfork-com.cdn.ampproject.org/c/s/pitchfork.com/news/nine-inch-nails-at-rock-hall-2020-watch-trent-reznors-induction-speech/amp/",
-      "publishedDateTime": "2020-11-07T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pitchfork",
-        "domain": "pitchfork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
