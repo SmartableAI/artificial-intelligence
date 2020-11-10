@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-11-10-walmart-to-test-robotic-deliveries-with-electric-cruise-self-driving-vehicles.md",
-      "title": "Walmart To Test Robotic Deliveries With Electric Cruise Self-Driving Vehicles",
-      "excerpt": "Walmart is trying to learn whether robotic deliveries fit in with its retail operations so it’s launching the latest pilot program with General Motors-backed Cruise.",
+      "path": "_news/2020-11-10-walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars.md",
+      "title": "Walmart and Cruise launch pilot to deliver orders via self-driving cars",
+      "excerpt": "As part of the pilot, which is scheduled to begin in early 2021, customers will be able to place orders from a Walmart and have them delivered via one of Cruise’s electric self-driving Chevy Bolts.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alanohnsman/2020/11/10/walmart-to-test-robotic-deliveries-with-electric-cruise-self-driving-vehicles/",
-      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2020/11/10/walmart-to-test-robotic-deliveries-with-electric-cruise-self-driving-vehicles/",
+      "webUrl": "https://venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars/",
+      "originalUrl": "https://venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 94,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faa1c3d509d05f9c63f13cb%2F0x0.jpg%3FcropX1%3D236%26cropX2%3D1677%26cropY1%3D186%26cropY2%3D1053",
-          "width": 1200,
-          "height": 722,
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Walmart-Cruise-e1604958243157.png?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2020/11/10/walmart-to-test-robotic-deliveries-with-electric-cruise-self-driving-vehicles/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/11/10/walmart-to-test-robotic-deliveries-with-electric-cruise-self-driving-vehicles/amp/",
-      "publishedDateTime": "2020-11-10T03:00:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars/amp/",
+      "publishedDateTime": "2020-11-10T06:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -86,58 +86,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-self-driving-delivery-firm-nuro-raises-500-million-as-covid-19-boosts-e-commerce.md",
-      "title": "Self-driving delivery firm Nuro raises $500 million as COVID-19 boosts e-commerce",
-      "excerpt": "Self-driving delivery company Nuro, whose R2 unit has no pedals or steering wheel and only room for packages, said Monday it has raised $500 million as e-commerce gets a huge boost from the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-autonomous-nuro-funding/self-driving-delivery-firm-nuro-raises-500-million-as-covid-19-boosts-e-commerce-idUSKBN27P1FT",
-      "originalUrl": "https://www.reuters.com/article/us-autonomous-nuro-funding/self-driving-delivery-firm-nuro-raises-500-million-as-covid-19-boosts-e-commerce-idUSKBN27P1FT",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540562500&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80T3",
-          "width": 676,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27P1FT",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P1FT",
-      "publishedDateTime": "2020-11-09T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1511,6 +1459,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-chinese-tesla-rival-xpeng-steers-clear-of-robotaxis-says-self-driving-trucks-more-likely-to-succeed.md",
+      "title": "Chinese Tesla rival Xpeng steers clear of robotaxis, says self-driving trucks more likely to succeed",
+      "excerpt": "Major Chinese self-driving companies such as Baidu, Didi Chuxing, WeRide and AutoX have all recently launched robotaxi services in various cities, but the head of autonomous driving at Xpeng Motors is less bullish on the prospect. “They have to make a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-leaders-and-founders/article/3107348/chinese-tesla-rival-xpeng-steers-clear-robotaxis",
+      "originalUrl": "https://www.scmp.com/tech/tech-leaders-and-founders/article/3107348/chinese-tesla-rival-xpeng-steers-clear-robotaxis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/10/28/15c96424-18cf-11eb-8f67-a484f6db61a1_image_hires_142109.jpg?itok=umrS2udr&v=1603866075",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/tech-leaders-and-founders/article/3107348/chinese-tesla-rival-xpeng-steers-clear-robotaxis",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-leaders-and-founders/article/3107348/chinese-tesla-rival-xpeng-steers-clear-robotaxis",
+      "publishedDateTime": "2020-10-28T23:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

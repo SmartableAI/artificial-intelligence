@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2020/11/10/walmart-to-test-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/11/10/walmart-to-test-robotic-deliveries-with-electric-cruise-self-driving-vehicles/amp/"
 type: article
 quality: 71
-heat: 71
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,6 +30,40 @@ images:
     height: 722
     isCached: true
 
-secured: "u2ee1FnGxdBxfX7UA2M6lGKeFm+tycDODlk8NS9NqMm9ZygKQlyhhbeDhdX8XY/1xzgZMcQKcaxGbLhgRT0Ama9xS/xezm0m2AUcw3qeVjVTVhlFGaasltP/IqnvR6bfFCW+WDfEmpi5vWXVO2BehM+j17CAJKc1L5wQGcSSLV9TOByPoqbT0azjiAF1rhDWBMb+gEwZ6tefIB9KBTeAFH6QeTuw81tWobCHde/m8HR74h4n5KvIJSJUF0877eCmFRpGvZWrxGN4eAjosKoHX21Ik7Aab927DjlK5uiW3T0mhRUK13dnUD3VRc8Fr83CoYDqI0t4DwDhew1pUfW1arr4jHwwG96ts0OPbeNR0k4=;8AAwXELvuoygp6J+GoL3/Q=="
+related:
+  - title: "Walmart and Cruise launch pilot to deliver orders via self-driving cars"
+    excerpt: "As part of the pilot, which is scheduled to begin in early 2021, customers will be able to place orders from a Walmart and have them delivered via one of Cruise’s electric self-driving Chevy Bolts."
+    publishedDateTime: 2020-11-10T14:15:00Z
+    webUrl: "https://venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars/"
+    ampWebUrl: "https://venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/Walmart-Cruise-e1604958243157.png?fit=800%2C450&strip=all"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Walmart teams with electric self-driving carmaker Cruise in the retail giant's latest push for futuristic delivery technology"
+    excerpt: "Walmart shoppers in Scottsdale, Arizona, will be first to test out the company's latest driverless delivery trial."
+    publishedDateTime: 2020-11-10T14:12:00Z
+    webUrl: "https://www.businessinsider.com/walmart-teams-with-electric-self-driving-car-company-cruise-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/walmart-teams-with-electric-self-driving-car-company-cruise-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/walmart-teams-with-electric-self-driving-car-company-cruise-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+    images:
+      - url: "https://i.insider.com/5fa9b2941df1d50018219b47?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+
+secured: "SivPEq7P63F3uEhC7AcdaPAPicrBOaVy34sx27584dRcrGu1d59qidMfZQIUoxVDoBagczx1IcfaFaMh5VuOtDmgT+l5yfCz7k5ucIkdy70F06rFRW468NNJMJhtvD9qob8U5fp/IumMv1JWqrF+mPlPE8SyR8CGR08Yhw1fosejTXy4OXmt99GAcQpJj2dr8oh70rfTdvw7LVhHzfQNEfWYNdfYVCfNpov9otiVoGl4u4cBb1oQqcnGOzQRJ5McrPD387SKLZ+vtajjA+N/JHrKs0ODLV20A1ARex/1T4yyPcyK8l3tU3xhUHyMSSmIet9vE1rcdo7HnPZgQiZhAsmT8KbgYqzw9GwdIriTu2yH/jNH6RiTWrAC7MQ96Qut2mFGWJlTOjA6NIJg6ACjZZ6B8v4VUnSECYJSLhy71O/Pskttfn7LS4IaMvIG62F6hL4A9zSe52uO6TYIcHYcl1qO0RoNCxsiGYeZ+dDtYwRFeYgu+HbrxzPcA89Ga/zA/ZVU/O8wvT9uUwe1r2RStA==;VikolovKbsdV9U47/tekXg=="
 ---
 

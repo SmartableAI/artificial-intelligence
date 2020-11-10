@@ -75,6 +75,22 @@ related:
         width: 1620
         height: 1080
         isCached: true
+  - title: "WATCH: Nine Inch Nails’ Trent Reznor Deliver His Rock And Roll Hall Of Fame Acceptance Speech"
+    excerpt: "It was revealed last week that Nine Inch Nails would be among the inductees into the 2020 Rock And Roll Hall Of Fame, alongside Depeche Mode, The Doobie Brothers, Whitney Houston, The Notorious B.I.G."
+    publishedDateTime: 2020-11-10T14:22:00Z
+    webUrl: "https://www.rocksound.tv/news/read/watch-nine-inch-nails-trent-reznor-deliver-his-rock-and-roll-hall-of-fame-a"
+    ampWebUrl: "https://www.rocksound.tv/news/amp/watch-nine-inch-nails-trent-reznor-deliver-his-rock-and-roll-hall-of-fame-a"
+    cdnAmpWebUrl: "https://www-rocksound-tv.cdn.ampproject.org/c/s/www.rocksound.tv/news/amp/watch-nine-inch-nails-trent-reznor-deliver-his-rock-and-roll-hall-of-fame-a"
+    type: article
+    provider:
+      name: Rock Sound
+      domain: rocksound.tv
+    quality: 48
+    images:
+      - url: "https://files.rocksound.tv/images/made/assets/uploads/trentreznor_635_380.jpg"
+        width: 635
+        height: 380
+        isCached: true
 
 secured: "ZH+cF0TWYHifPvLus894xTAt6Ttj+RpLt4FYqpS/59K3RrmzK5m1eQJwt9Vi0WLpxLttRuzusKeZ5JUi42/8a0yAlR6pGMMGZ9krL0aWx/onvEVDfcKPURX1Jz+TIGvyo/yCX39MACkMM1MM/Pty/rupCcO7bOAQS5QrxT8dEqZe40PudpfMV2H87ggSOclIwS5H4tPeySOV3boYZUtd0IDmKbOBAuMCxWw1YUZYkCsModGvyzLxP4icCzJxj3FLuRje8rGoe6kVSjU3Gn3xrfvlvIoylezCnHi0aQ8LUZygLshn6Er1eEzR5B0EaqF375vLRWnZsnzdzPNYGottrJtumBf5IfwHYwgHkFBaWu1A2/Z+0ric5P6GcqcWKt9WR45fILL31o8UWBZoJ9fBsaCCiock9GfOTHEhkj/ax6ZjSkJk5sl0wMdnS9TiGj48P07gLBjB5HUdufkHEbynMdtnddulF+/pjOfKpaQOZE/LQiOCMDRjDq7V+WbT/k4LrPlAn1VD+10oglASzHJKVQ==;q3g53t9ZjRyrJQV1+TN4nA=="
 ---

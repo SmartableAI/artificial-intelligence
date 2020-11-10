@@ -2,11 +2,11 @@
 category: news
 title: "Hyundai taps Nvidia for future fleet AI, infotainment services"
 excerpt: "Hyundai has announced that all future Hyundai, Kia, and Genesis vehicles will utilize Nvidia's in-vehicle artificial intelligence (AI) and infotainment platform.  The South Korean automaker said on Monday that the firm's \"entire fleet\" will eventually feature Nvidia's technology."
-publishedDateTime: 2020-11-10T02:49:00Z
-originalUrl: "https://www.zdnet.com/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/"
-webUrl: "https://www.zdnet.com/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/"
+publishedDateTime: 2020-11-10T10:49:00Z
+originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/"
+webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/"
 type: article
 quality: 67
 heat: -1
@@ -40,17 +40,33 @@ related:
         width: 1000
         height: 750
         isCached: true
-  - title: "Hyundai signs in-car entertainment system deal with chip maker NVIDIA"
-    excerpt: "Hyundai Motor said it will use the NVIDIA DRIVE in-vehicle information and entertainment system for all its Hyundai, Kia, and Genesis models starting in 2022. The technical cooperation with chip maker NVIDIA will enable Hyundai Motor to develop high-performance ‘connected car’ computing systems for its next-generation models,"
-    publishedDateTime: 2020-11-10T08:22:00Z
-    webUrl: "https://europe.autonews.com/automakers/hyundai-signs-car-entertainment-system-deal-chip-maker-nvidia"
+  - title: "Hyundai, Kia, Genesis will get chip maker NVIDIA's infotainment in deal"
+    excerpt: "NVIDIA said the luxury vehicle division of Hyundai, Genesis, already uses NVIDIA DRIVE for its GV80 and G80 models. NVIDIA declined to say how many vehicles NVIDIA DRIVE would be installed in, but said it is a large number and pointed to the fact that in 2019 Hyundai Motor Group shipped over 7 million vehicles."
+    publishedDateTime: 2020-11-10T13:54:00Z
+    webUrl: "https://www.autoblog.com/2020/11/10/hyundai-kia-genesis-nvidia-infotainment/"
+    ampWebUrl: "https://www.autoblog.com/amp/2020/11/10/hyundai-kia-genesis-nvidia-infotainment/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/11/10/hyundai-kia-genesis-nvidia-infotainment/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 74
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/6898x3880+560+845/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2020/11/10083826/Large-1869-GenesisGV801.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Hyundai signs in-car entertainment system deal with chip maker Nvidia"
+    excerpt: "Hyundai Motor said it will use the Nvidia Drive in-vehicle information and entertainment system for all its Hyundai, Kia, and Genesis models starting in 2022. The technical cooperation with chip maker Nvidia will enable Hyundai Motor to develop high-performance connected car computing systems for its next-generation models,"
+    publishedDateTime: 2020-11-10T06:34:00Z
+    webUrl: "https://www.autonews.com/automakers-suppliers/hyundai-signs-car-entertainment-system-deal-chip-maker-nvidia"
     type: article
     provider:
       name: Automotive News
       domain: autonews.com
     quality: 54
     images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/hyundai%20logo%20web%20rtrs_1.jpg"
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/hyundai%20logo%20web%20rtrs_1.jpg"
         width: 800
         height: 600
         isCached: true
@@ -87,6 +103,6 @@ related:
       domain: morningstar.com
     quality: 18
 
-secured: "x0/LrmehNcPDb5GcYeJiVYUFxlMjkIS+p+JbRwJ9sIYlEz1LN8NLLwDA0nPujCHnkYI12J24kLFrOSrlrDYGUTERJ75VcIdnMAFcl50c2fi9cGBzKO5XOeYvMAuxUGMxuvOSluLJvzslpqdJJ7HOQKMFAjGUGDmR7HmwX3MvSPN5Dm4pzuWV5tixp5G2I9hHug+LZ31/bOYBw625ikOqUyIQm0gweaTpmRblS3VsZf+CWnjoGFQP3LMxrsMJ7jjsXlhrJCnFw4k/iPqylz5Q/dHoDWT0Pwdu/jtEtrwCD7P7VQZ1jmTsCA/JC2pnFKUwxzXIpVyRrSnkKGqwEIU5Tg5TJTupekzRvLu6j+zhfNKKbu8MEzznqBtP6tAFgRYdurqmoTa9Ci2nWWho3xXgbE6BzQQQ6TQ+qKmrKgZKFFSgDW5KhS+tNqUmEZ5pfqvw9dflh4ZVWgTGPzM6moTp5ueqK6OrTclThUzI/mVvoPJzdgCzlk94GfuNx27viNBX9zQm88Sx4t/Op0nt3LeJcQ==;edD0+2mto4Q564h09U41dQ=="
+secured: "lGSzFe+j9y8YHxlhrlsMpujSIKAbogaIxrlIqPKylic2yYeZzXGH+YoDTq6rNrRn2ceSqDtyVKi5SQSNNA33vgppgUpR81kQ18XcesMI6+/sY6GMRCkpim1aFWOz15skKF0HVvkL+fZElvuLPvB2x+7i0oTzW+lBooAkOewYxplFOUbJ6Qnwbutl3JIsqjf8Kd01yqwBdcm7IAop1ETCS4ZcJTIJWhy6b3z6SqfGu5JBJV7MTaQgoRBfJrAIwSYJu6c6febAVc2/AH10Mpvys/ocwY8PuDFm21rYxEcp4i13V6Hv2BeDo55HCfjAs44Ffh31OowTEJaRIeDOEXSLJtECMko5QCTsmmkqHNAXsHZoMVsEu9O+LHBXwyW3Dkn5hbFNys08FZ6HVVs7lw05g1gaGPXCeJr17z1/xGq4hnDFZh4pK/m6y8eqiIsU7MsNujjZBwvOmiFkYqH/wbql1BbljipXweKB/tKTTxMk6YIAvUwNEWBB7+Dvk3vAWnzZdzFOExsFge08I4wIUyP1UA==;3FJVkqHOqQz6TMrH2um4qg=="
 ---
 

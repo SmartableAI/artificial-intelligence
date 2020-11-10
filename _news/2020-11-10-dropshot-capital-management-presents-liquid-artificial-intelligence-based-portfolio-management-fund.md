@@ -1,28 +1,28 @@
 ---
 category: news
 title: "DropShot Capital Management Presents Liquid Artificial Intelligence Based Portfolio Management Fund."
-excerpt: "DropShot Capital Management, an alternative investment platform, has been innovating artificial intelligence solutions to equities"
-publishedDateTime: 2020-11-10T11:21:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/dropshot-capital-management-presents-liquid-artificial-intelligence-based-portfolio-management-fund-301165187.html"
-webUrl: "https://www.prnewswire.com/news-releases/dropshot-capital-management-presents-liquid-artificial-intelligence-based-portfolio-management-fund-301165187.html"
+excerpt: "DropShot Capital Management, an alternative investment platform, has been innovating artificial intelligence solutions to equities trading since 2018, focusing on data driven approaches that deliver a customer experience free of monetary lock-ups and provide a clear window into one's investment performance in a fast-changing financial environment."
+publishedDateTime: 2020-11-10T12:38:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/dropshot-capital-management-presents-liquid-artificial-intelligence-based-portfolio-management-fund-1029786223"
+webUrl: "https://markets.businessinsider.com/news/stocks/dropshot-capital-management-presents-liquid-artificial-intelligence-based-portfolio-management-fund-1029786223"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/dropshot-capital-management-presents-liquid-artificial-intelligence-based-portfolio-management-fund-1029786223"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dropshot-capital-management-presents-liquid-artificial-intelligence-based-portfolio-management-fund-1029786223"
 type: article
-quality: 22
-heat: 22
+quality: 52
+heat: 52
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1324420/DS_Waterfall.mp4?p=medium"
-    width: 512
-    height: 288
-    isCached: true
-
-secured: "QC/a56qxDe98rFh4b/TqxOzVclE5DtFj7631mwoGX6gaOziUJlGwVFhPVHEXljFDxIAVQaj1Cfj0CAZt7eVFXVq1A5LXEpSqcYTfUx28Ma7jCU2Wm374+b9NjyRmk0CbVKFGtDeDFII2xBaW4kbe8Suory8TV25R2CKrJGskpIMrtlW+yJAtSPJWq5de7MWfJNZzFRriADQGPtih9W0CKd4UkKHaE02SCBQZS7m+BI4RpUGqnCRV9yYk0VYavfMICPQmWq0PVjPNGK0t4yiu1p6zKiA7torWwPMKTkCq/U71W57kReFQ0+MmvobnpOhGQTYV7DUE6t8FFhNTarq7oCph02iN0XbSx7umhgCY4Uw=;RqD8ctkftYhPIX0qOeuaCw=="
+secured: "vA9tOgV1Lsu9jiW0fe5pyuIdC94EipZ7utvaQwREGlkW96lSzPIcsSqopPwsO/nCexRfLH9s20nSEI2t+EHyR9bqku6zt3JAt3SSt8kqLYcjI09pe+qzPZRkmSsMWg63/tQiUM/P0OvSX2sVy6Aqc0dfK9d8z0qUWIiV/wngjxmOuPGpXZrDO2yFHQ5v4ZuAwO8zosmmmibrtGRIAuBsWeKNpgu95QqMn8KZ/Gn8wosR/8Txl3XgmYwaAXthCQ3+dl9sah9dYkni0mB+lPL5k8SVv4GtP6B4f/ZByx60EO2QvG0CH0IzPU8LZrkDwtq+AbcDxJOQCo199mUIg5kqwubcAVExLIE5hetsSwjszro=;LXrZWRgmyWc6cDxLVImWMw=="
 ---
 

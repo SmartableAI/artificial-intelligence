@@ -9,7 +9,7 @@ ampWebUrl: "https://pitchfork.com/news/nine-inch-nails-at-rock-hall-2020-watch-t
 cdnAmpWebUrl: "https://pitchfork-com.cdn.ampproject.org/c/s/pitchfork.com/news/nine-inch-nails-at-rock-hall-2020-watch-trent-reznors-induction-speech/amp/"
 type: article
 quality: 58
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -74,6 +74,22 @@ related:
       - url: "https://www.rollingstone.com/wp-content/uploads/2020/11/The_Rock_and_Roll_Hall_of_Fame_2020_Inductions_Trent3.jpg"
         width: 1620
         height: 1080
+        isCached: true
+  - title: "WATCH: Nine Inch Nails’ Trent Reznor Deliver His Rock And Roll Hall Of Fame Acceptance Speech"
+    excerpt: "It was revealed last week that Nine Inch Nails would be among the inductees into the 2020 Rock And Roll Hall Of Fame, alongside Depeche Mode, The Doobie Brothers, Whitney Houston, The Notorious B.I.G."
+    publishedDateTime: 2020-11-10T14:22:00Z
+    webUrl: "https://www.rocksound.tv/news/read/watch-nine-inch-nails-trent-reznor-deliver-his-rock-and-roll-hall-of-fame-a"
+    ampWebUrl: "https://www.rocksound.tv/news/amp/watch-nine-inch-nails-trent-reznor-deliver-his-rock-and-roll-hall-of-fame-a"
+    cdnAmpWebUrl: "https://www-rocksound-tv.cdn.ampproject.org/c/s/www.rocksound.tv/news/amp/watch-nine-inch-nails-trent-reznor-deliver-his-rock-and-roll-hall-of-fame-a"
+    type: article
+    provider:
+      name: Rock Sound
+      domain: rocksound.tv
+    quality: 48
+    images:
+      - url: "https://files.rocksound.tv/images/made/assets/uploads/trentreznor_635_380.jpg"
+        width: 635
+        height: 380
         isCached: true
 
 secured: "vrWyGkldJt3B3d/u+TLqCQdNnqkh9+l2nhvoj1xvQw+hqcFsEP5W+JLdQkSbW88ylT5x1kVHLk2HB5Q+IOweQlaZrbExNPn5dSulmGuvOXVSmp+iAUnNdFIqAVcRUVX2CxxAMRy+Y4QMscsOlY2KU9rXHlnEx+iBGyZBuYMXHqaCNHiKxM28oB44KtroGmXSoLPEYdC7gbZnzmKYmnhvp+HNNnjDtY6QjCUO4UBUNK4z+iztVDgmOnENac6k+qh4JO63EolTd1DdumhFNswblrVBxtq0cm1ud9v0Agrb0/ih5IxkHE11rQrMI2RdhwscGzSxvjF/s1/dUSKvDyG20E7MV8NJ+XxSisCKJukDF0/+mtf2qbIMNq7RZjejyCS9iJOuWFrUHSIkOdaOwrAH4l1blucSaoSSHbaOIo9hQjXuWDtFcnVAsyh3Z1VLYmu+aYlriQOt668xn3cMglA5rhIbtDkPW4N/qXlZNz1x9efnBn1TFFSQE4eIY9dBzWK34mPzzmnkF+TOX9xHFRBuTA==;N4DtrrgEnoIZ1QRddQfJHA=="

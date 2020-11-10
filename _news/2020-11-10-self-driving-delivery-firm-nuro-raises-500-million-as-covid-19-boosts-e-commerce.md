@@ -4,24 +4,23 @@ title: "Self-driving delivery firm Nuro raises $500 million as COVID-19 boosts e
 excerpt: "Self-driving delivery company Nuro, whose R2 unit has no pedals or steering wheel and only room for packages, said Monday it has raised $500 million as e-commerce gets a huge boost from the pandemic."
 publishedDateTime: 2020-11-09T17:22:00Z
 originalUrl: "https://www.reuters.com/article/us-autonomous-nuro-funding-idUSKBN27P1FT"
-webUrl: "https://www.reuters.com/article/us-autonomous-nuro-funding-idUSKBN27P1FT"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P1FT"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P1FT"
+webUrl: "https://www.reuters.com/article/us-autonomous-nuro-funding/self-driving-delivery-firm-nuro-raises-500-million-as-covid-19-boosts-e-commerce-idUKKBN27P1FT"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27P1FT"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27P1FT"
 type: article
-quality: 84
-heat: -1
-published: false
+quality: 182
+heat: 212
+published: true
 
 provider:
   name: Reuters
   domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - AI in Autos
   - AI
 
 images:
@@ -73,6 +72,6 @@ related:
       domain: bizjournals.com
     quality: 37
 
-secured: "5ucAFlXKmglnjGnIAOjVnSAGdOqZnB2Nn+G41jtFqSwuoI74PCcp9qwWhA5f9APb7PNa3FZpCSPEubEt6EvvwlpmYd4nxk7n+g/QnA4psUbAxbiPbEvWO3AUKwLxP7eOH95qaCqaCKSCp11gsnL/MA+eU7GvNjIp6VZH8r23L7OnXQ/QJlIG/Vx/LTHyy12SfMJ/s3h24HC8d3U7ja/go0iqIcEs2ivThF3Ho2Ar8eNd4rNOB0FXYnRPt19oEqutaMNEwb7k7kQ84IjUHbaIaZwMdS6DPfuTKM0iDVosB6A254Z9YQwADmm1ibrtQQ4TqkJu8g/uoCmGSTZYVR71opE7BEldxQQIcOxbFmSt5abQbFCqqyKJL3Y50DbToctOV91McuRR3CyGUJ2io3BVwWyCTU0MtMwEYAQjx4B9k5HtXosKbSDJw6Ioy46SIhNk22RLakJUx+14za4PmqBy0LZvK+rgEhPwFAnhbf8MOKVQyXZ5tTdhMQeae2gjjA5wxfmLwBSU24god9noHlmbkQ==;kzt+3F0cbMwQNNXnaWk8CQ=="
+secured: "j9fpvm2tik1JHYmhnW3pzr4U4LR0qFfkUAdTl/Z4CWcdTHb/pZj40ussatK1n1bIOhai9lbCTz2YjtKisYhIAzdEJyjU+lLslCOzyh3FVy5IYaX406WWkJn+OKcoitgAGXaffCUACvxCboieo/0QsS5GtpxrKtS8tTnNNAcnFAGX4s7sIaWgnkrE+LJix/piYDQU8aoDrxzJtGBKCjy2x7lNrzWovZNditGJ/Z8hYwfX414Qjj2SbhT++shlFjEyjgs25kS/8MYoh27eUirJIVBE+S+/q5E5McZu1D6JiN8raH0347SvTMaczM5Bu79GMVL7mG46Dvfa5U4LEID/pKb8/M/Ds8H10471bPKSJLE=;sed9A8H3ChcLdbDGZEGhXw=="
 ---
 

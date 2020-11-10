@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/microsoft-ai-summit-re
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/microsoft-ai-summit-reimagining-digital-governance-with-cloud-ai-iot/amp-11604663602516.html"
 type: article
 quality: 76
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://www.pcr-online.biz/wp-content/uploads/PCR-November-2020.jpg"
         width: 280
         height: 350
+        isCached: true
+  - title: "AVEVA expands Microsoft collaboration with a focus on Cloud and AI"
+    excerpt: "AVEVA has extended its existing strategic collaboration with Microsoft to focus on accelerating digital transformation in the industrial sector."
+    publishedDateTime: 2020-11-10T14:00:00Z
+    webUrl: "https://www.controlengeurope.com/article/181914/index.aspx"
+    type: article
+    provider:
+      name: IML Group
+      domain: controlengeurope.com
+    quality: 54
+    images:
+      - url: "https://www.controlengeurope.com/global/showimage/Article/191004/"
+        width: 600
+        height: 390
         isCached: true
   - title: "AVEVA, Microsoft expands collaboration with a focus on cloud and AI to drive digital transformation"
     excerpt: "AVEVA to collaborate with Microsoft to provide cloud platform and domain expertise for industrial sector organisations"

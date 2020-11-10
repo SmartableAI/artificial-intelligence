@@ -2,7 +2,7 @@
 category: news
 title: "Data Reply Achieves AWS Machine Learning Competency Status"
 excerpt: "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR."
-publishedDateTime: 2020-10-22T03:30:00Z
+publishedDateTime: 2020-10-22T08:05:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/20/10/b18008856/data-reply-achieves-aws-machine-learning-competency-status"
 webUrl: "https://www.benzinga.com/pressreleases/20/10/b18008856/data-reply-achieves-aws-machine-learning-competency-status"
 ampWebUrl: "https://amp.benzinga.com/amp/content/18008856"
@@ -18,6 +18,6 @@ topics:
   - AI
   - Machine Learning
 
-secured: "pr54+dAPT9VO9iunXIGYfKqdNdzU9qeSi4YrxPyDrsvoLYkp8XLXqFx8e/isupGRC7lEUpOZZaolTZdrHip5WQrn4wmyuzEMHRy+8wKwxcAaXzbrk4PkKrQCNJp6qeH3k70k/JNL1ZSZ+3BXJB5sx+puCf3nlAcGJLUbNbdO474yaMvk7aHidoz8aROBDT/yILrdorrWqd4FRUx3uc0AKAev6LpCwNZPN3tlMe2Df6OaT2YWgHay8MTdflUfXm9SiXjq5AaPAd7SYcd4V54QFyGKxriuTMXwQWOeihffGQJc06cm2091unj8QcsUhI08RFJm3AXk1UqlnrdxCqu/IrtrrwKRJSPPWkZPNq3stTE=;xyot7onkHyQIpRzZVOgVLg=="
+secured: "O9S3b68bMrWVNCnFC/Pz6dJsizGNXvRUNNm5lLaEEMqOS4jF0wM+H9/Uzh8rswlQnjwN54RIHVfqwaHSKC2rI2VgTBGU91Q7RyKTbzM0MCzG4TUjQn+lp6WlAYybV3AhzvyMtsyJxhF9dzgEetLlPahxBQdYe02BEDFiQaPis7v2JfqP3jh3Jqbc8ByTNokvhNLUe5fUk1E9SkhjZbPMXIZQVKc/WB7Bk2zs9XrOdR2ewNB0htb/VnlfidQTxUCwaIGhrdg00km2FsjKrmzi/HfUOsSmgfcqt6CYg477JSFhaRWoXz+By9RkRmPrh4Zc1UDuZ+xlV/PJ0b0FVNamDHe9kUMQ3eKfA/+4lLW8/sM=;Nvj/jhXBZPzQnQ0YvRdArg=="
 ---
 

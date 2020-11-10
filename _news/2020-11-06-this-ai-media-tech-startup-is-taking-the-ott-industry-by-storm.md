@@ -90,20 +90,6 @@ related:
         width: 647
         height: 340
         isCached: true
-  - title: "Artificial intelligence and humankind"
-    excerpt: "Sir, – Dr Pearse Keane is to be highly commended for his research (Kevin O’Sullivan, “Irish researcher develops AI to help prevent sight loss”, Science, November 4th). However, his statement that, “if something produces better outcomes . . . it should be irrelevant whether it’s a human or a machine or a fusion of the two that achieves that”, needs to be challenged. This type of thinking, in every field of human endeavour, will inevitably lead to the displacement of us humans, as progress is too closely linked to profit and we are just too costly and inefficient. People who care for other human beings need to look at the broader picture, the growing worldwide inequality, and devise algorithms and machines that incorporate inefficient but caring humans in the mix. Otherwise we won’t be able to afford their wonderful services. – Yours, etc,"
-    publishedDateTime: 2020-11-06T00:49:00Z
-    webUrl: "https://www.irishtimes.com/opinion/letters/artificial-intelligence-and-humankind-1.4401421"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 37
-    images:
-      - url: "https://www.irishtimes.com/polopoly_fs/1.3619339.1536160376!/image/image.jpg"
-        width: 1080
-        height: 564
-        isCached: true
   - title: "Damon Nam is Disrupting the Blockchain Industry with Emerging FinTech Company, Coin."
     excerpt: "If you’ve been looking into the Blockchain, Cryptocurrency, and Decentralized Finance (DeFI) movement for more than five minutes, you’ve probably run into the name Damon Nam. Damon is a 20 year IT professional,"
     publishedDateTime: 2020-11-06T18:58:00Z

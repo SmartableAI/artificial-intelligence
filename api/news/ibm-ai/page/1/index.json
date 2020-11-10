@@ -249,33 +249,24 @@
     {
       "path": "_news/2020-11-02-alpitour-world-selects-ibm-hybrid-cloud-and-ai-capabilities-for-a-more-personalized-customer-experience.md",
       "title": "Alpitour World Selects IBM Hybrid Cloud and AI Capabilities For a More Personalized Customer Experience",
-      "excerpt": "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments",
+      "excerpt": "ARMONK, N.Y. and MILAN, Nov. 2, 2020 /PRNewswire/ -- IBM (NYSE: IBM) and Italy's leading travel company, Alpitour Group, announced that it has selected IBM Watson, enabled by hybrid cloud ...",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20201102ny77498/alpitour-world-selects-ibm-hybrid-cloud-and-ai-capabilities-for-a-more-personalized-customer-experience",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20201102ny77498/alpitour-world-selects-ibm-hybrid-cloud-and-ai-capabilities-for-a-more-personalized-customer-experience",
+      "webUrl": "https://www.nasdaq.com/press-release/alpitour-world-selects-ibm-hybrid-cloud-and-ai-capabilities-for-a-more-personalized",
+      "originalUrl": "https://www.nasdaq.com/press-release/alpitour-world-selects-ibm-hybrid-cloud-and-ai-capabilities-for-a-more-personalized",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1324474/Alpitour_2.jpg",
-          "width": 400,
-          "height": 309,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-02T03:00:00-08:00",
+      "publishedDateTime": "2020-11-02T03:32:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -497,19 +488,19 @@
     {
       "path": "_news/2020-10-28-ibm-study-ai-driven-virtual-agents-can-drive-customer-satisfaction-and-cost-savings-amid-covid-19.md",
       "title": "IBM Study: AI-driven Virtual Agents Can Drive Customer Satisfaction and Cost Savings Amid COVID-19",
-      "excerpt": "As many organizations across the world look to digital tools to help address surges in customer inquiries due to the COVID-19 pandemic, a new IBM study revealed 99% of respondents report an increase in customer satisfaction as a result of using AI-driven virtual agent technology.",
+      "excerpt": "The research showed organizations that are early adopters of AI and cloud technology are reaping ... USD 5.50 per contained conversation using IBM Watson Assistant. The IBM Institute for Business ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-virus-outbreak-lung-disease-health-diseases-and-conditions-8d2b93a339b25c986b3c3dd0262b9e5d/gallery/140d2107145ac6b5139433ecb79ed8c0",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-virus-outbreak-lung-disease-health-diseases-and-conditions-8d2b93a339b25c986b3c3dd0262b9e5d/gallery/140d2107145ac6b5139433ecb79ed8c0",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-study-ai-driven-virtual-agents-can-drive-customer-satisfaction-and-cost-savings-amid-covid-19-1029735274",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-study-ai-driven-virtual-agents-can-drive-customer-satisfaction-and-cost-savings-amid-covid-19-1029735274",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://mma.prnewswire.com/media/1322193/IBM_AI_Study.jpg",
+          "width": 400,
+          "height": 225,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -519,12 +510,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T07:30:00-07:00",
+      "publishedDateTime": "2020-10-28T07:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

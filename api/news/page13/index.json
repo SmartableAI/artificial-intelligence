@@ -2,6 +2,57 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-10-28-hard-to-believe-but-artificial-intelligence-will-improve-our-worklives.md",
+      "title": "Hard To Believe, But Artificial Intelligence Will Improve Our Worklives",
+      "excerpt": "Instead of worrying about job displacement, we should get to work creating the new, high-quality jobs of tomorrow while massively expanding our upskilling and reskilling efforts to transition displaced workers into these new opportunities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/10/27/hard-to-believe-but-artificial-intelligence-will-improve-our-worklives/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2020/10/27/hard-to-believe-but-artificial-intelligence-will-improve-our-worklives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f98db4a023934f0a2752617%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/10/27/hard-to-believe-but-artificial-intelligence-will-improve-our-worklives/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/10/27/hard-to-believe-but-artificial-intelligence-will-improve-our-worklives/amp/",
+      "publishedDateTime": "2020-10-27T21:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-mobile-speech-recognition-software-market-research-2020-competitive-landscape-and-development-model-in-different-regions-of-the-world.md",
       "title": "Mobile Speech Recognition Software Market Research 2020: Competitive Landscape and Development Model in Different Regions of The World",
       "excerpt": "Final Report will add the analysis of the impact of COVID-19 on this industry.\" “ Mobile Speech Recognition Software Market ” has several changes in recent years and expected to vary significantly within the forecast year because of developments in production sources,",
@@ -1157,50 +1208,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-google-partners-with-noaa-on-using-ai-ml-to-improve-extreme-weather-predictions.md",
-      "title": "Google partners with NOAA on using AI, ML to improve extreme weather predictions",
-      "excerpt": "Google already has a number of weather efforts, and this month launched an AI partnership with the National Oceanic and Atmospheric Administration (NOAA) Satellite and Information Service (NESDIS ...",
-      "sourceUrl": null,
-      "webUrl": "https://9to5google.com/2020/10/27/google-ai-noaa-weather/",
-      "originalUrl": "https://9to5google.com/2020/10/27/google-ai-noaa-weather/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://9to5google.com/wp-content/uploads/sites/4/2019/04/google_cloud_logo_1.jpg?quality=82&strip=all",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://9to5google.com/2020/10/27/google-ai-noaa-weather/amp/",
-      "cdnAmpWebUrl": "https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/10/27/google-ai-noaa-weather/amp/",
-      "publishedDateTime": "2020-10-27T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "9to5Google",
-        "domain": "9to5google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
       ]
     }
   ],

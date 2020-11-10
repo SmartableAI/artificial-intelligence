@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Alpitour World Selects IBM Hybrid Cloud and AI Capabilities For a More Personalized Customer Experience"
-excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
-publishedDateTime: 2020-11-02T11:00:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20201102ny77498/alpitour-world-selects-ibm-hybrid-cloud-and-ai-capabilities-for-a-more-personalized-customer-experience"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20201102ny77498/alpitour-world-selects-ibm-hybrid-cloud-and-ai-capabilities-for-a-more-personalized-customer-experience"
+excerpt: "ARMONK, N.Y. and MILAN, Nov. 2, 2020 /PRNewswire/ -- IBM (NYSE: IBM) and Italy's leading travel company, Alpitour Group, announced that it has selected IBM Watson, enabled by hybrid cloud ..."
+publishedDateTime: 2020-11-02T11:32:00Z
+originalUrl: "https://www.nasdaq.com/press-release/alpitour-world-selects-ibm-hybrid-cloud-and-ai-capabilities-for-a-more-personalized"
+webUrl: "https://www.nasdaq.com/press-release/alpitour-world-selects-ibm-hybrid-cloud-and-ai-capabilities-for-a-more-personalized"
 type: article
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1324474/Alpitour_2.jpg"
-    width: 400
-    height: 309
-    isCached: true
-
-secured: "4ziLrVMXG896BYv39iE40laaLtKNd1nPt7/rGUliDae4HYyibGi+v3pbXrJqS9nS8OYg2p1kiehq1A4q9BtLoSVVM9hkIVdgyThnPxBJ6MuuefnqeeCkLi875qVkAlXbLfur3+iey8vAI3hJNZS7g+CSTu1sJ5vNvFKyzJ3vSoVK0y4GDXXEERl3ZBRyZlo9EpbsNo1rYoAFOS5c/69xjWUZJIZGzLfcu/CqOZwo54109dZ7Hw1AZlIqcDrJPcHs0KiptXk/bKk0Rw/n+B6YRTZA2PSvoQqijKQ2hRObv7v6AgrTLgSyfjLgzEKDLm5GFzX3HGyHeKLVjr4ckW3L279H59VGosDnuPlmNtvEaoE=;tDmyqMseQelJg2NKY0NoSA=="
+secured: "UjaVK1DOglzD7wW2BzncQt18p6KJmYzNPJhZv5Pu7xyOkUZYZJWuoxVvu7P4kmj4XEmS1z0tJJHBqJMtiNelsH62Wo33FgsF9khaCeR4ojKhffB7WGOy7aCx8xDbfv8oJGAGls/zk3Lt7dW7yPegAxrsWOf+6KI2FZlhsW63MKkZZlEssP89O92ddjcG6IyotOnyqAzYuCzeyDtr5ZdGsD/Qh91HfKLRqoZf0L4KfqxmLtQijUvEntz6Ru2S1C7qYvQWYYpkoC10CEVIBJGV7t8zoFQm3DcrVINk2zJR0TqohlCkqct3yLRBWQ7hRO1ymaaJI3+atLZqQe7Demvl9dbpwCxhfCDyKhA6iRFxzaQ=;pCUbC+e7YutIKjiZmDZcgQ=="
 ---
 

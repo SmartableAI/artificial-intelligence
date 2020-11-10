@@ -2,6 +2,49 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-10-21-per-aspera-has-you-tame-mars-with-cute-little-robots.md",
+      "title": "Per Aspera has you tame Mars with cute little robots",
+      "excerpt": "Per Aspera is a charming little city builder wrapped in a gargantuan strategy game. Its vast scope encompasses such intricate details as small cargo holds and worker stations, yet your playground is the entirety of the surface of Mars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcgamesn.com/per-aspera/gameplay-preview-demo",
+      "originalUrl": "https://www.pcgamesn.com/per-aspera/gameplay-preview-demo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/uploads/2020/10/per-aspera-landing-site-900x506.jpg",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamesn.com/per-aspera/gameplay-preview-demo?amp",
+      "cdnAmpWebUrl": "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/per-aspera/gameplay-preview-demo?amp",
+      "publishedDateTime": "2020-10-21T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-a-harvard-professor-and-his-students-have-raised-14-million-to-quash-adversarial-ai-attacks.md",
       "title": "A Harvard Professor And His Students Have Raised $14 Million To Quash Adversarial AI Attacks",
       "excerpt": "Robust Intelligence is leaving stealth with a $14 million funding round led by Sequoia and a plan to become the firewall for the AI age.",
@@ -1128,49 +1171,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-intuit-appoints-tekedra-mawakana-waymos-chief-operating-officer-to-board-of-directors.md",
-      "title": "Intuit Appoints Tekedra Mawakana, Waymo's Chief Operating Officer, to Board of Directors",
-      "excerpt": "Intuit Inc. (NASDAQ:INTU) today announced it has appointed Tekedra Mawakana to its board of directors. Mawakana is the COO of Waymo LLC, a subsidiary",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201020005884/en/Intuit-Appoints-Tekedra-Mawakana-Waymos-Chief-Operating-Officer-to-Board-of-Directors",
-      "originalUrl": "https://www.businesswire.com/news/home/20201020005884/en/Intuit-Appoints-Tekedra-Mawakana-Waymos-Chief-Operating-Officer-to-Board-of-Directors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201020005884/en/775388/23/Ecosystem-Lockup-2Line-FullColor-2019-PMS_%282%29.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-20T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-04-heres-how-ai-makes-a-new-home-hunt-about-as-fun-as-dating.md",
+      "title": "Here’s How AI Makes A New-Home Hunt About As Fun As Dating!",
+      "excerpt": "An AI-powered marketing platform designed for a UX that works like a cross between Match.com and Netflix, enables home builders to learn with every click, tracking preferences of web visitors. In real-time,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnmcmanus/2020/11/04/heres-how-ai-makes-a-new-home-hunt-about-as-fun-as-dating/",
+      "originalUrl": "https://www.forbes.com/sites/johnmcmanus/2020/11/04/heres-how-ai-makes-a-new-home-hunt-about-as-fun-as-dating/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa2c94427616a015e59d92d%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnmcmanus/2020/11/04/heres-how-ai-makes-a-new-home-hunt-about-as-fun-as-dating/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnmcmanus/2020/11/04/heres-how-ai-makes-a-new-home-hunt-about-as-fun-as-dating/amp/",
+      "publishedDateTime": "2020-11-04T07:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-intel-acquires-machine-learning-platform-cnvrgio-to-continue-ai-push-techcrunch.md",
       "title": "Intel acquires machine learning platform Cnvrg.io to continue AI push - TechCrunch",
       "excerpt": "TechCrunch reports that Intel (NASDAQ:INTC) has acquired Cnvrg.io, which provides an operating system for AI and machine learning.Cnvrg.io's platform helps data scientists build and run AI models, which can then be used to train,",
@@ -1178,57 +1229,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-the-future-of-work-now-ai-assisted-skin-imaging.md",
-      "title": "The Future Of Work Now: AI-Assisted Skin Imaging",
-      "excerpt": "Dr. Andrew Weinstein uses Miiskin, an AI-based tool that allows patients to take images of and monitor changes in their skin.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomdavenport/2020/11/03/the-future-of-work-now-ai-assisted-skin-imaging/",
-      "originalUrl": "https://www.forbes.com/sites/tomdavenport/2020/11/03/the-future-of-work-now-ai-assisted-skin-imaging/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa178d7f42e9f75640bae75%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2020/11/03/the-future-of-work-now-ai-assisted-skin-imaging/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/11/03/the-future-of-work-now-ai-assisted-skin-imaging/amp/",
-      "publishedDateTime": "2020-11-03T07:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

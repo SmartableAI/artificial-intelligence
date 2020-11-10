@@ -57,6 +57,20 @@ related:
         width: 660
         height: 371
         isCached: true
+  - title: "Fintech Firm Quadpay Gets The Urge for Visual Fashion Search"
+    excerpt: "Pay Later” company QuadPay aims to bring visual fashion search to the platform, with $6.1 million Urge Holdings acquisition."
+    publishedDateTime: 2020-11-10T14:06:00Z
+    webUrl: "https://wwd.com/business-news/technology/quadpay-acquisition-the-urge-shnap-visual-fashion-search-1234654635/"
+    type: article
+    provider:
+      name: Women's Wear Daily
+      domain: wwd.com
+    quality: 24
+    images:
+      - url: "https://wwd.com/wp-content/uploads/2020/11/001_AG_GUCCI_SHOW_FW20_VIP-7822.jpg?crop=0px%2C146px%2C1000px%2C668px&resize=394%2C263"
+        width: 394
+        height: 263
+        isCached: true
   - title: "Fintech set to tackle fashion waste secures £1.35m investment"
     excerpt: "A new fintech designed to reduce stock wastage in the fashion industry has raised £1.35m in seed funding. Purple Dot, a… | Entrepreneurship | Fashion | Retail | London | Funding | Entrepreneur | Inves"
     publishedDateTime: 2020-11-09T16:10:00Z

@@ -3,8 +3,8 @@ category: news
 title: "AMTD’s Singapore Solidarity Fund invests $6.4m in 5 fintech startups in its first batch"
 excerpt: "The evaluation process for a second batch of investments – which aims to support Singapore’s fintech community – is already underway."
 publishedDateTime: 2020-11-09T11:18:00Z
-originalUrl: "https://www.techinasia.com/amtd-singapore-solidarity-invests-64m-5-fintech-startups-first-batch?ref=recommender-661912"
-webUrl: "https://www.techinasia.com/amtd-singapore-solidarity-invests-64m-5-fintech-startups-first-batch?ref=recommender-661912"
+originalUrl: "https://www.techinasia.com/amtd-singapore-solidarity-invests-64m-5-fintech-startups-first-batch?ref=recommender-661926"
+webUrl: "https://www.techinasia.com/amtd-singapore-solidarity-invests-64m-5-fintech-startups-first-batch?ref=recommender-661926"
 type: article
 quality: 26
 heat: -1
@@ -42,6 +42,6 @@ related:
       domain: techinasia.com
     quality: 32
 
-secured: "iFJjgbp/A+9Ljp1mffW/Hteyz8CsbEl+5pMONraHs/z6xqGutwQppEJzDpki4C64nSGGSTHfRN1XqkWUpkbcP5U0RndlytabkRzHwvZry6GWmnOEeyO9pCXiXjgXJ3eDO7YjFVEgcCHSBXOQQPX8uAAu4onIXjnglg4jP8figlNEA8GIN+sa1arAI2P6Z2K9U+UR5CTQ2f1C5mIdedCAW76EeMlPcCULYucbPmskN2OdzodbET4aXgWup2sQr7bm8HonU+kt7K9b8LUrAI7yTacCMLnidsouEJU1mBgxauD0QnGsxVzgmJ3mDwtJxGw0VQ20OT3x2x94zB4gZ76jJFPKZnGHG7f9iE959N1GB5MpzvhBzKRnd7NdNbeaBbsx1SxyGKwlSCIsAN4zquLP33EW1dtNyxFGUZr50+7JeW8mF4JsK5UI3YN0RNrf4uzjEijWng7YEEqr0ez5G8Ea1nFoeBe2iqLOhGVlVZEqYLgkZy00/YT72+x+17m5jeEpPb3fhAcyIttxjHNaa8+srg==;jCNFwn1cW7iuhPzlXuDlrw=="
+secured: "ZAcrEuov1Doc0HVdhbFvzf6PuHAXhGK7C6cvUDg4TxiF4J5DKOiB/DU0Tc0/IVRMCwskdh/Y8CE9ZfNxj+wb8lydq33UeyKva2r6OuPOeYc/Mk0QDbuIFcZ8KEzEMC6OzYXCiQreedvytag9HqHEN6MszENuXDuokxHcDZLTilmvmJKKSw5dNCVOxNlrrU+WOKrXyU0ZSMVXJVgpVGSpXF5HTcs2m8gdasRLi3IaATymKkn7FUosTbsc6EGGEnu4aLnC4zP/V+V5wZLu+OQCQOZjFaKdE7G43q7CpkAXZVYOiufNwUTy66e5HE2p+Z9qSvHI4Ako7znw4wHyMLqRPLZlDfkhkMsfFLWgZ7ZTzXPYOgNGN1vy5g07hLjStATAvZJ2k0rgYv87QdmS5XcHDczy+6O5RYmbhVCOgc3kTM3Ay0TnO3q2abuorDA/66TZjJgXbFYPG6a0yKoKpXeQbE7Qz1cSEbrO2o2+Y620fRsUg+IwZ3dLvrfYpYLKkqC4yhmSN1xu7OJcCMLmy4yIQw==;VgVA+ZmzfK5HQXXYS4P8vw=="
 ---
 

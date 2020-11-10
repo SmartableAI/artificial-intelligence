@@ -63,6 +63,20 @@ related:
         width: 280
         height: 350
         isCached: true
+  - title: "AVEVA expands Microsoft collaboration with a focus on Cloud and AI"
+    excerpt: "AVEVA has extended its existing strategic collaboration with Microsoft to focus on accelerating digital transformation in the industrial sector."
+    publishedDateTime: 2020-11-10T14:00:00Z
+    webUrl: "https://www.controlengeurope.com/article/181914/index.aspx"
+    type: article
+    provider:
+      name: IML Group
+      domain: controlengeurope.com
+    quality: 54
+    images:
+      - url: "https://www.controlengeurope.com/global/showimage/Article/191004/"
+        width: 600
+        height: 390
+        isCached: true
 
 secured: "XUKtOxEGmncil3iojPWkMtncUuKE0+U19L7wHUBjQ5k2t588aYdPZPrllsI/l2sd3szcAp6SqZhOW6OPyXWG2Exo3WX2JeQL0shV68FzzovvoE7aGVve/408nPKOAR+QSMsCZqYSJexk043EUj8kpOTjlOrMOcPWc9lU4lW5a8EbuFRtXnR5CSu8oVtL7Iej5mdI47Davrcqi75lhcf/OxqKwizg8uvWq6LYBpQPvsR5rRG2D1Ow6wTGE9pizIBougmNGDIG+T8hzWbe9avFqqgpLKYod41Y5b4oz9m+r3iUhXr1+rVWVIplwr2KEwplODtoHzwevsJofF4YrqNEK6J89hyerKP0ro8ln728g2g=;HRSFvkdPzaqL64yVKfhizg=="
 ---
