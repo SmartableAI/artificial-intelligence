@@ -35,6 +35,17 @@ related:
         width: 1000
         height: 750
         isCached: true
+  - title: "Hyundai taps Nvidia for future fleet AI, infotainment services"
+    excerpt: "Hyundai has announced that all future Hyundai, Kia, and Genesis vehicles will utilize Nvidia's in-vehicle artificial intelligence (AI) and infotainment platform.  The South Korean automaker said on Monday that the firm's \"entire fleet\" will eventually feature Nvidia's technology."
+    publishedDateTime: 2020-11-10T02:49:00Z
+    webUrl: "https://www.zdnet.com/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
   - title: "Hyundai signs in-car entertainment system deal with chip maker NVIDIA"
     excerpt: "Hyundai Motor said it will use the NVIDIA DRIVE in-vehicle information and entertainment system for all its Hyundai, Kia, and Genesis models starting in 2022. The technical cooperation with chip maker NVIDIA will enable Hyundai Motor to develop high-performance ‘connected car’ computing systems for its next-generation models,"
     publishedDateTime: 2020-11-10T08:22:00Z

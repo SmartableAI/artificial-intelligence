@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Inside fintech startup Upstart’s IPO filing"
-    excerpt: "The fintech startup facilitates loans between consumers ... Upstart’s technology uses what it describes as artificial intelligence (AI) to approve consumer loans. It collects consumer demand ..."
-    publishedDateTime: 2020-11-05T19:26:00Z
-    webUrl: "https://techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/"
-    ampWebUrl: "https://techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/05/inside-fintech-startup-upstarts-ipo-filing/amp/"
+  - title: "Fintech for Fashion: Purple Dot Raises £1.35 Million Seed Round"
+    excerpt: "Purple Dot, a payment platform for fashion merchandisers that enables consumers to offer to purchase a product at below the retail recommended price, has raised a £1.3 million seed round. The funding was led by Connect Ventures."
+    publishedDateTime: 2020-11-09T12:29:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/11/168918-fintech-for-fashion-purple-dot-raises-1-35-million-seed-round/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/168918-fintech-for-fashion-purple-dot-raises-1-35-million-seed-round/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/168918-fintech-for-fashion-purple-dot-raises-1-35-million-seed-round/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 59
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-951640954.jpg?w=1024"
-        width: 1024
-        height: 684
-        isCached: true
-  - title: "AI and ML benefit for the Fintech industry"
-    excerpt: "Let’s take a look at how FinTech companies took advantage of these technologies by employing them for different purposes, and is it worth investing in these technologies at all. Before diving into the use cases of AI and ML in fintech and banking software development,"
-    publishedDateTime: 2020-11-09T14:00:00Z
-    webUrl: "https://augustafreepress.com/ai-and-ml-benefit-for-the-fintech-industry/"
-    type: article
-    provider:
-      name: Augusta Free Press
-      domain: augustafreepress.com
-    quality: 56
-    images:
-      - url: "https://augustafreepress.com/wp-content/uploads/2020/07/business-1.jpg"
-        width: 400
-        height: 267
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/06/Sale-600x421.jpg"
+        width: 600
+        height: 421
         isCached: true
   - title: "5 fintech opportunities for entrepreneurs beyond 2020"
     excerpt: "The fintech sector is undergoing a complete digital makeover by leveraging sophisticated new-age tech to cater to increasingly tech-savvy users resulting in a superior customer experience."
@@ -71,83 +57,20 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "BankOnUs launches app to support fintech firms"
-    excerpt: "BankOnUS, a leading financial services aggregator in the UAE, has launched a new generation technology-oriented app to enhance the customer engagement level and enable easy, reliable and cost-effective financial solutions to its customers."
-    publishedDateTime: 2020-11-05T23:44:00Z
-    webUrl: "https://www.zawya.com/mena/en/story/BankOnUs_launches_app_to_support_fintech_firms-SNG_189134285/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_189134285/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_189134285/"
+  - title: "Fintech set to tackle fashion waste secures £1.35m investment"
+    excerpt: "A new fintech designed to reduce stock wastage in the fashion industry has raised £1.35m in seed funding. Purple Dot, a… | Entrepreneurship | Fashion | Retail | London | Funding | Entrepreneur | Inves"
+    publishedDateTime: 2020-11-09T16:10:00Z
+    webUrl: "https://bdaily.co.uk/articles/2020/11/09/fintech-set-to-tackle-fashion-waste-secures-135m-investment"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 39
-  - title: "Wilson Sonsini-Led AI Fintech Files $100M IPO"
-    excerpt: "Venture-backed fintech company Upstart Holdings Inc. filed plans on Thursday for a $100 million initial public offering, hoping to shake up the lending industry through its artificial intelligence-enabled platform under guidance from Wilson Sonsini Goodrich & Rosati PC."
-    publishedDateTime: 2020-11-06T01:09:00Z
-    webUrl: "https://www.law360.com/articles/1326219/wilson-sonsini-led-ai-fintech-files-100m-ipo"
-    ampWebUrl: "https://www.law360.com/amp/articles/1326219"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1326219"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 39
-  - title: "AMTD’s Singapore Solidarity Fund invests $6.4m in 5 fintech startups in its first batch"
-    excerpt: "The evaluation process for a second batch of investments – which aims to support Singapore’s fintech community – is already underway."
-    publishedDateTime: 2020-11-09T11:18:00Z
-    webUrl: "https://www.techinasia.com/amtd-singapore-solidarity-invests-64m-5-fintech-startups-first-batch?ref=recommender-661917"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 26
-  - title: "AMTD’s Singapore Solidarity Fund invests $6.4m in 5 fintech startups in its first batch"
-    excerpt: "in five fintech companies. The fund is under the AMTD Group, a financial services conglomerate with businesses in investment banking, asset management, and digital financial solutions. The five companies the find has invested in specialize in AI ..."
-    publishedDateTime: 2020-11-10T06:48:00Z
-    webUrl: "https://www.techinasia.com/amtd-singapore-solidarity-invests-64m-5-fintech-startups-first-batch?ref=recommender-661751"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 26
-  - title: "Fintech agrees deal for refurbished office landmark"
-    excerpt: "An expanding fintech company is moving to the newly-refurbished Hodge House office building in Cardiff city centre. The move follows an announcement last month that listed AI"
-    publishedDateTime: 2020-11-06T12:08:00Z
-    webUrl: "https://www.insidermedia.com/news/wales/fintech-agrees-deal-for-refurbished-office-landmark"
-    type: article
-    provider:
-      name: Insider
-      domain: insidermedia.com
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
     quality: 24
     images:
-      - url: "https://www.insidermedia.com/uploads/event/logos/logo_5G_and_the_superconnected_city.jpg"
-        width: 693
-        height: 400
+      - url: "https://bdaily.co.uk/images/uploads/prm3KGVbeVX4JCByff7vFp42Uy0Wr8asLQUSYKOU.jpeg?w=940&h=430&fit=crop-50-50&s=490606dc7e5f7b215880c7bba71329f2"
+        width: 940
+        height: 430
         isCached: true
-  - title: "LexinFintech Unveils Strategy to Further Tap Chinese Consumer Market at Hong Kong Fintech Week 2020"
-    excerpt: "(GLOBE NEWSWIRE) -- “LexinFintech Holdings Ltd. (“Lexin” or the “Company”) (NASDAQ: LX), a leading online consumption and consumer finance platform for educated young professionals in China, is gearing up to expand its product offerings to tap the rising consumption demand of China’s new generation,"
-    publishedDateTime: 2020-11-06T07:50:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-greater-china-financial-technology-0acddaea86f49e8b8272e9f5f4d32d32"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 10
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "5 Top performing FinTech companies in the United States"
-    excerpt: "FinTech is a portmanteau of the terms “finance” and “technology”. The article reveals the top performing 5 Fintech companies in the U.S."
-    publishedDateTime: 2020-11-06T11:18:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/5-top-performing-fintech-companies-in-the-united-states/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 4
 
 secured: "Vct84jKfBslcRMOQpHzcBHLzsGRDNsVSuoRZO+cigePGa96p1q7Nvy3NaG6HEYnGYN/Ko3HVlZwJsc/y627sqDvLK8dL1iCc1TnDHybpJksapQyjiiD8fhRUonw0CRJpOajNFM7C8JgL9df5TPuGOoOJHcbZsoyldoqVASs9W70KYlXgrOaIIgSmD3GG50tM2O1LtAbvLZOo+ZfybuYZxMw6IcWbabTLDsaGcI7Vrl1iCrrrnWtyplAxwoMIVvOhBRlbljmR8KKxO9iNSToG4lcco6e7W36c5GpIEglGN2UoYkXh5U51/s/aEwM3r2ya22QU/7PwC68+vrTUAnY/cBUIkWvMZFfVpHqvFvMc2YY=;t+YT3zxYbA/1qLNlGTUnrA=="
 ---

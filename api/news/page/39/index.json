@@ -2,6 +2,171 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2020-10-08-grid-ai-from-the-makers-of-pytorch-lightning-emerges-from-stealth-with-186m-series-a-to-close-the-gap-between-ai-research-and-production.md",
+      "title": "Grid AI, From the Makers of PyTorch Lightning, Emerges From Stealth With $18.6m Series A to Close the Gap Between AI Research and Production",
+      "excerpt": "While doing his PhD at NYU and part-time at Facebook AI Research, Falcon created PyTorch Lightning, one of the fastest growing machine learning frameworks in the world, amassing over 600k ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201008005227/en/Grid-AI-From-the-Makers-of-PyTorch-Lightning-Emerges-From-Stealth-With-18.6m-Series-A-to-Close-the-Gap-Between-AI-Research-and-Production",
+      "originalUrl": "https://www.businesswire.com/news/home/20201008005227/en/Grid-AI-From-the-Makers-of-PyTorch-Lightning-Emerges-From-Stealth-With-18.6m-Series-A-to-Close-the-Gap-Between-AI-Research-and-Production",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201008005227/en/828546/23/sisters_SymWord_1128x191_%281%29.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-08T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-elucid-bios-vascucap-enters-ibm-imaging-ai-marketplace.md",
+      "title": "Elucid Bio’s vascuCAP enters IBM Imaging AI Marketplace",
+      "excerpt": "Elucid Bioimaging Inc. (“Elucid Bio”) today announced that vascuCAP, Elucid Bio’s AI-enabled software for evaluating atherosclerotic plaque stability from CTA, has been added to the IBM Imaging AI Marketplace,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-cardiovascular-disease-north-america-arteriosclerosis-massachusetts-e91ccd7f88e542c69ff516f65678cebe",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-cardiovascular-disease-north-america-arteriosclerosis-massachusetts-e91ccd7f88e542c69ff516f65678cebe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-08T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-h2oai-brings-automl-to-equifax-ignite-with-driverless-ai.md",
+      "title": "H2O.ai brings AutoML to Equifax Ignite with Driverless AI",
+      "excerpt": "--(BUSINESS WIRE)--H2O.ai, the open source leader in artificial intelligence (AI) and machine learning (ML), today announced the availability of H2O AutoML and Driverless AI within Equifax Ignite",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201008005266/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20201008005266/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-08T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-mineralanswerscom-data-products-now-available-on-aws-data-exchange.md",
+      "title": "MineralAnswers.com Data Products Now Available on AWS Data Exchange",
+      "excerpt": "artificial intelligence, and machine learning,\" said Jeff Chambers, founder and CEO of MineralAnswers.com. \"AWS Data Exchange opens tremendous opportunities for us to reach a large and diverse ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/mineralanswerscom-data-products-now-available-on-aws-data-exchange-301148591.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/mineralanswerscom-data-products-now-available-on-aws-data-exchange-301148591.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1247266/MineralAnswers_Logo.jpg?p=facebook",
+          "width": 1597,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-08T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-neocis-raises-72-million-for-its-dental-surgery-robot.md",
       "title": "Neocis raises $72 million for its dental surgery robot",
       "excerpt": "Dental robotics startup Neocis today closed a $70 million ... “The Yomi planning software … leverages AI techniques to guide the surgeon in planning the case safely, for example providing ...",
@@ -993,181 +1158,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-latest-articles-on-tensorflow.md",
-      "title": "Latest articles on TensorFlow",
-      "excerpt": "Learning from its failure to turn the Schabir Shaik conviction into one for Jacob Zuma, the state is now building an effective system for catching thieves. Khaya Koko, Sabelo Skiti and Paddy ...",
-      "sourceUrl": null,
-      "webUrl": "https://mg.co.za/tag/tensorflow/",
-      "originalUrl": "https://mg.co.za/tag/tensorflow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "mg.co.za",
-        "domain": "mg.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-microsoft-ignite-announcements-2020.md",
-      "title": "Microsoft Ignite Announcements 2020",
-      "excerpt": "Learn more about major performance improvements for Azure SQL Managed Instances Machine Learning on Azure SQL Managed Instance in preview: Machine Learning Services with support for R and Python ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sqlservercentral.com/blogs/microsoft-ignite-announcements-2020",
-      "originalUrl": "https://www.sqlservercentral.com/blogs/microsoft-ignite-announcements-2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sqlservercentral.com/wp-content/uploads/2020/10/sidebar-sqlprompt10-subscription.png",
-          "width": 320,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SQL Server Central",
-        "domain": "sqlservercentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-object-detection-with-tensorflow.md",
-      "title": "Object Detection, With TensorFlow",
-      "excerpt": "One of the tools that can be put to work in object recognition is an open source library called TensorFlow, which [Evan] aka [Edje Electronics] has put to work for exactly this purpose.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
-      "originalUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/07/main3.png",
-          "width": 877,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-highlights-from-nvidias-landmark-gpu-technology-conference-eweek.md",
-      "title": "Highlights from NVIDIA’s Landmark GPU Technology Conference - eWEEK",
-      "excerpt": "CEO described the combination of GPUs and the abundance of data as the “big bang” of modern AI. It’s arrived. Are you ready?",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/web/index.php/innovation/highlights-from-nvidia-s-landmark-gpu-technology-conference",
-      "originalUrl": "https://www.eweek.com/web/index.php/innovation/highlights-from-nvidia-s-landmark-gpu-technology-conference",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2020/06/NVIDIA.logo.black.green.JPG?alias=social_image",
-          "width": 560,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/voice-recognition-market
 webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-future-challenges-and-industry-growth-outlook-2025-2020-11-06"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Voice recognition Market Size, Share and Growth Analysis to be worth more than $ 150 Bn by 2026"
+    excerpt: "Global Voice recognition market is projected to amass over $150 billion by 2026, according to the latest research available at Market Study Report LLC, report provides extensively data on market share,"
+    publishedDateTime: 2020-11-10T12:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-share-and-growth-analysis-to-be-worth-more-than-150-bn-by-2026-2020-11-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "TcPjVXsMfQrTVotij79MnfT1RrLt3KGYxeXkir6VPJvMtjzRhM+0KdCcFRpAjrspK/uo0Lh9i2jFnxq7z1tYHybvrljSaAeVofVL3j4qGex73fsmTUj8RxwFBSPwFvC/Q/09czb2AALaWky1WqlR5yl06wMf+T3brbr6DsD42t23SiiSWXWOqDIdsUJ/D+6vU9WeffhmHPzZBNIhNI/RnP36KWIFauO9GM+eK1sUWXRtoawowHAn6pxKvAMcgnoWSj+LGeTfONEyr+BKW5WiJOEp1E5usOO0ziF+Eov66ELVB51xRc090f+Bxr1KdVeT2+aTkc9wSf4Fy/lh1OZ+2716j95wz33LTTloewCwxag=;mGS0iS0hADbYoDWf+ICFQQ=="
 ---

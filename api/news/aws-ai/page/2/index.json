@@ -4,19 +4,19 @@
     {
       "path": "_news/2020-10-27-softserve-achieves-aws-saas-competency-status.md",
       "title": "SoftServe Achieves AWS SaaS Competency Status",
-      "excerpt": "SoftServe, a leading digital authority and consulting company and Premier Consulting Partner in the Amazon Web Services (AWS) Partner Network (APN), announces it has achieved AWS SaaS Competency status.",
+      "excerpt": "We look forward to working with SoftServe as we migrate our microservices layer to Amazon Kubernetes Service (Amazon EKS) and explore AWS artificial intelligence (AI) and machine learning (ML ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-6624e051066646899a781527d9d9b3d7",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-6624e051066646899a781527d9d9b3d7",
+      "webUrl": "https://www.businesswire.com/news/home/20201027005054/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20201027005054/en/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://mms.businesswire.com/media/20201027005054/en/832962/23/MigrationCompetency_Data%26AnalyticsCompetency_DevOpsCompetency_SaaSCompetency_FinancialServicesCompetency_webready.jpg",
+          "width": 1200,
+          "height": 627,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +26,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T04:00:00-07:00",
+      "publishedDateTime": "2020-10-27T05:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -47,7 +47,7 @@
     {
       "path": "_news/2020-10-27-dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration.md",
       "title": "dotData Announces Enhancement of MLOps Capability with dotData Stream and Amazon SageMaker Integration",
-      "excerpt": "SAN MATEO, Calif., Oct. 27, 2020 /PRNewswire/ -- dotData, a leader in AutoML 2.0 software to help accelerate AI/ML development and operationalization for the enterprise, today announced that ...",
+      "excerpt": "Amazon SageMaker is a fully managed service that provides developers and data scientists with the ability to deploy machine learning (ML) models quickly. Now, with simple point-and-click ...",
       "sourceUrl": null,
       "webUrl": "https://www.prnewswire.com/news-releases/dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration-301160215.html",
       "originalUrl": "https://www.prnewswire.com/news-releases/dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration-301160215.html",
@@ -69,7 +69,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T01:30:00-07:00",
+      "publishedDateTime": "2020-10-27T05:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PR Newswire",
@@ -83,9 +83,8 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -290,7 +289,7 @@
       "type": "article",
       "ampWebUrl": "https://amp.benzinga.com/amp/content/18008856",
       "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18008856",
-      "publishedDateTime": "2020-10-22T01:05:00-07:00",
+      "publishedDateTime": "2020-10-21T20:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",

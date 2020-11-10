@@ -1,26 +1,26 @@
 ---
 category: news
 title: "SoftServe Achieves AWS SaaS Competency Status"
-excerpt: "SoftServe, a leading digital authority and consulting company and Premier Consulting Partner in the Amazon Web Services (AWS) Partner Network (APN), announces it has achieved AWS SaaS Competency status."
-publishedDateTime: 2020-10-27T11:00:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-6624e051066646899a781527d9d9b3d7"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-6624e051066646899a781527d9d9b3d7"
+excerpt: "We look forward to working with SoftServe as we migrate our microservices layer to Amazon Kubernetes Service (Amazon EKS) and explore AWS artificial intelligence (AI) and machine learning (ML ..."
+publishedDateTime: 2020-10-27T12:52:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201027005054/en/"
+webUrl: "https://www.businesswire.com/news/home/20201027005054/en/"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mms.businesswire.com/media/20201027005054/en/832962/23/MigrationCompetency_Data%26AnalyticsCompetency_DevOpsCompetency_SaaSCompetency_FinancialServicesCompetency_webready.jpg"
+    width: 1200
+    height: 627
     isCached: true
 
-secured: "D4tXQw06Gj/tq1piQNKxQ/x6/4T5gd9CoSu+qDV7RX1Ez9V3TTP4GYCWO1TRg0+cSQUR1lOvaD1zeydSLlaq3bAyoTD0oCKjaPcH/cp1FBLGFnbjIbfRhDXDpv5YJ14r8pBMOp79RnxYY4r4GBPe4dYP/kJqdzCsVue4QH2P2vRxc7ITKQKLRh3Dzv2jMCN0g3VKNlWZ74KgUPhEjskoTmdUlSwqWEYOpMzazKUZA5BAfV3lfB8+NuCIvsI9nMCSm2yQtHyFzPplfNhdSrpq5QTP0nvjKMc9j926if34eWEjBjHRFRwxEgDbPv1ec6ycRx9A/1PvrgEOX9HMYYVNwQAgnRYvUTds2yBeWAYxU+8=;dUXsRm6ADw+nJjL9rEHO2A=="
+secured: "4Zq1sU98zBdXfttWlhnMTEOxIGLT0kvWWGgNIWy4Kx6/aBM4tTR3u6IP3dCCZ/jnqJ6aF3pswphF5jUZlrax9W+NDiUxO3cuzaG0z45QI/QQVxovPl0EgDxC3fER8mb86wS9SGZ9M6JOuTdneb5rjycgdP5cEC91ReUq5vS9TJ3mE8PXCyXQh7e/A53oltOi83frEQdG3YJXSvXoINuHlHN3TID4+36VHsZHHD9ZJjuYwVdgpLR8S00BQmcp94bSKsXpQmHXWYhZ8F7dF44zyXNB4fFeVOVUsaN5tcVU4NpQolvnyNdSQwycz1n59O0+uwBGUF+A9p8XOt1JDvZsb/7R7IDZpVZp+KQDZUfBogU=;aSWu8bsLrJDG9HDadyqcEA=="
 ---
 

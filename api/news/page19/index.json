@@ -2,6 +2,177 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-10-23-global-automotive-voice-recognition-system-market-report-2020-trends-forecast-and-competitive-analysis-2013-2024-market-is-expected-to-grow.md",
+      "title": "Global Automotive Voice Recognition System Market Report 2020: Trends, Forecast and Competitive Analysis 2013-2024 - Market is Expected to Grow with a CAGR of 19% ...",
+      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Automotive Voice Recognition System Market: Trends, Forecast and Competitive Analysis\" report has been added to ResearchAndMarkets.com's offering. The automotive voice recognition system market is expected to grow with a CAGR ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201022005941/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20201022005941/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201022005941/en/371054/23/ResearchAndMarkets_800px.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-22T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-teslas-full-self-driving-mode-is-about-to-get-more-expensive-again.md",
+      "title": "Tesla's Full Self Driving mode is about to get more expensive, again",
+      "excerpt": "\"As it collects more data it gets more robust,\" he said. SEE ALSO: Elon Musk says 'Full Self-Driving' mode on Tesla is finally here, sort of The Self-Driving Coalition, which includes Waymo ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/tesla-full-self-driving-price-increase/",
+      "originalUrl": "https://mashable.com/article/tesla-full-self-driving-price-increase/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F10%252F22%252F07%252F3d7f470265b54467872a6ba00a7b4603.732b6.jpg%252F1200x630.jpg?signature=hmDhJ8AIrTNBItamNlJbkL-wHCI=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/tesla-full-self-driving-price-increase.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-full-self-driving-price-increase.amp",
+      "publishedDateTime": "2020-10-22T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-ibm-and-pfizer-claim-ai-can-predict-alzheimers-onset-with-71-accuracy.md",
+      "title": "IBM and Pfizer claim AI can predict Alzheimer’s onset with 71% accuracy",
+      "excerpt": "IBM and Pfizer claim to have developed a model that can predict the onset of Alzheimer's disease years before clear symptoms develop.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/22/ibm-and-pfizer-claim-ai-can-predict-alzheimers-onset-with-71-accuracy/",
+      "originalUrl": "https://venturebeat.com/2020/10/22/ibm-and-pfizer-claim-ai-can-predict-alzheimers-onset-with-71-accuracy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/22/ibm-and-pfizer-claim-ai-can-predict-alzheimers-onset-with-71-accuracy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/ibm-and-pfizer-claim-ai-can-predict-alzheimers-onset-with-71-accuracy/amp/",
+      "publishedDateTime": "2020-10-22T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-tesla-begins-deploying-full-self-driving-beta-to-select-customers-but-it-is-in-no-way-full-self-driving.md",
+      "title": "Tesla Begins Deploying Full Self-Driving Beta To Select Customers But It Is In No Way 'Full Self-Driving'",
+      "excerpt": "The text reads: “Full Self-Driving is in early limited access Beta and must be used with additional caution.It may do the wrong thing at the worst time, so you must always keep your hands on the ...",
+      "sourceUrl": null,
+      "webUrl": "https://jalopnik.com/tesla-begins-deploying-full-self-driving-beta-to-select-1845452979",
+      "originalUrl": "https://jalopnik.com/tesla-begins-deploying-full-self-driving-beta-to-select-1845452979",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-22T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jalopnik",
+        "domain": "jalopnik.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-clark-county-utilizes-ai-enabled-solution-to-help-residents-secure-critical-housing-assistance.md",
       "title": "Clark County Utilizes AI-enabled Solution to Help Residents Secure Critical Housing Assistance",
       "excerpt": "Clark County and IBM Watson Health today announced the deployment of the AI-enabled IBM Watson Health Citizen Engagement platform designed to help make vital social services, including housing assistance,",
@@ -972,178 +1143,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-debate-over-banning-facial-recognition-technology-continues.md",
-      "title": "Debate over banning facial recognition technology continues",
-      "excerpt": "Federal authorities were able to make an arrest with the help of facial recognition technology. Yet some at Baltimore City Hall are pushing to ban it. Shortly after city leaders debated whether to ban facial recognition technology,",
-      "sourceUrl": null,
-      "webUrl": "https://foxbaltimore.com/news/local/debate-over-banning-facial-recognition-technology-continues",
-      "originalUrl": "https://foxbaltimore.com/news/local/debate-over-banning-facial-recognition-technology-continues",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static-28.sinclairstoryline.com/resources/media/e695342f-3f53-48c7-b5fa-2e9701a5f780-large16x9_DFGVGHBJHKL.PNG?1603357023547",
-          "width": 986,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T01:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Baltimore",
-        "domain": "foxbaltimore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-nvidia-chips-again-smash-ai-performance-records.md",
-      "title": "Nvidia chips again smash AI performance records",
-      "excerpt": "Graphic chip maker Nvidia has once again smashed performance records for its AI computing platform in the latest benchmark test rounds of MLPerf, extending its lead on AI performance of hardware, software and services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sify.com/news/nvidia-chips-again-smash-ai-performance-records-news-education-ukwelEgfajdbe.html",
-      "originalUrl": "https://www.sify.com/news/nvidia-chips-again-smash-ai-performance-records-news-education-ukwelEgfajdbe.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sify.com/uploads/nvidia_chip_ians_ukvnDpcacajgj.jpeg",
-          "width": 950,
-          "height": 616,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sify.com/news/nvidia-chips-again-smash-ai-performance-records-news-education-ukwelEgfajdbe.html",
-      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/nvidia-chips-again-smash-ai-performance-records-news-education-ukwelEgfajdbe.html",
-      "publishedDateTime": "2020-10-22T01:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-data-reply-achieves-aws-machine-learning-competency-status.md",
-      "title": "Data Reply Achieves AWS Machine Learning Competency Status",
-      "excerpt": "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/10/b18008856/data-reply-achieves-aws-machine-learning-competency-status",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/b18008856/data-reply-achieves-aws-machine-learning-competency-status",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18008856",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18008856",
-      "publishedDateTime": "2020-10-22T01:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-adobes-new-ai-experiment-syncs-your-dance-moves-perfectly-to-the-beat.md",
-      "title": "Adobe’s new AI experiment syncs your dance moves perfectly to the beat",
-      "excerpt": "TikTok has made on-beat dances and movements mainstream. But what if you went offbeat or the video you recorded had some lag to your perfect dance moves. Adobe can fix that for you. The company showed off an AI-powered experiment at its Adobe Max conference that syncs your off-beat movement to the beat of the",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/10/22/adobes-new-ai-experiment-syncs-your-dance-moves-perfectly-to-the-beat/",
-      "originalUrl": "https://thenextweb.com/neural/2020/10/22/adobes-new-ai-experiment-syncs-your-dance-moves-perfectly-to-the-beat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Screenshot-2020-10-22-at-11.44.08-AM-e1603347346344-796x419.png",
-          "width": 796,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/10/22/adobes-new-ai-experiment-syncs-your-dance-moves-perfectly-to-the-beat/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/22/adobes-new-ai-experiment-syncs-your-dance-moves-perfectly-to-the-beat/amp/",
-      "publishedDateTime": "2020-10-22T00:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

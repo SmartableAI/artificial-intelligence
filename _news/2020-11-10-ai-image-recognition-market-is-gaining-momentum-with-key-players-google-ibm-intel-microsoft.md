@@ -46,6 +46,29 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "AVEVA expands Microsoft collaboration focusing on Cloud and AI"
+    excerpt: "AVEVA will be extending its collaboration with Microsoft to help maximise the value that customers can derive from the integration of AVEVA’s portfolio with Microsoft cloud services and especially Microsoft Azure (infrastructure,"
+    publishedDateTime: 2020-11-10T11:15:00Z
+    webUrl: "https://www.pcr-online.biz/2020/11/10/aveva-expands-collaboration-with-microsoft-with-a-focus-on-cloud-and-ai/"
+    type: article
+    provider:
+      name: PCR
+      domain: pcr-online.biz
+    quality: 54
+    images:
+      - url: "https://www.pcr-online.biz/wp-content/uploads/PCR-November-2020.jpg"
+        width: 280
+        height: 350
+        isCached: true
+  - title: "AVEVA, Microsoft expands collaboration with a focus on cloud and AI to drive digital transformation"
+    excerpt: "AVEVA to collaborate with Microsoft to provide cloud platform and domain expertise for industrial sector organisations"
+    publishedDateTime: 2020-11-10T11:29:00Z
+    webUrl: "https://www.arabianindustry.com/petrochemicals/news/2020/nov/10/aveva-microsoft-expands-collaboration-with-a-focus-on-cloud-and-ai-to-drive-digital-transformation-6456736/"
+    type: article
+    provider:
+      name: arabianindustry.com
+      domain: arabianindustry.com
+    quality: 20
 
 secured: "sygcS5dYeKf1CpfWyae/Pec1stzW/4kZT85z8YHFyUJwIbvM713W4hUO448P0CI5XsCDN6dzHhBMquaiTIraRYybL8CkiUg6+5NLYeJzUvBjuWi4Qv+hpcncvfWTCXi5miFGs6KF5WXRMczJUES7TVsBl8pvE9bK1BrnVa1h9Ntt+VRIS2GPNGgMpwUn5pajWzt1zL9zndjYuJAih1fUWiKNwAvbgJ/W8f+EVDjDqxqTUqBF+ZsyuOnIIyYV//i8spieaJaKtFDsahUdt32ZpSXmrB5GWfTgmk5D49+roNhya/rlvAyx+0zO5PT6GImiT2tFzkGj3THfPnQsW8jI5cL5AjOt6/oWPtuVPQgtTgo=;dI7YO1m0tbsUXx7T6rn86A=="
 ---

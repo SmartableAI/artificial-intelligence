@@ -9,8 +9,8 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/11/168918-fintech-for-fashion-
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/168918-fintech-for-fashion-purple-dot-raises-1-35-million-seed-round/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 89
+published: true
 
 provider:
   name: Crowdfund Insider
@@ -27,6 +27,36 @@ images:
     isCached: true
 
 related:
+  - title: "5 fintech opportunities for entrepreneurs beyond 2020"
+    excerpt: "The fintech sector is undergoing a complete digital makeover by leveraging sophisticated new-age tech to cater to increasingly tech-savvy users resulting in a superior customer experience."
+    publishedDateTime: 2020-11-10T05:15:00Z
+    webUrl: "https://yourstory.com/2020/10/fintech-opportunities-entrepreneurs-beyond-2020"
+    ampWebUrl: "https://yourstory.com/2020/10/fintech-opportunities-entrepreneurs-beyond-2020/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/10/fintech-opportunities-entrepreneurs-beyond-2020/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 44
+    images:
+      - url: "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/Fintech-1599488865962-1603437196437.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "FinTech firm for the fashion industry raises £1.35m"
+    excerpt: "Purple Dot, the ‘worth-the-wait’ payment option for fashion brands, today announces its seed round of £1.35m, led by Connect Ventures, with support from, AI Seed, Moxxie Ventures, Andy Chung"
+    publishedDateTime: 2020-11-09T08:51:00Z
+    webUrl: "https://londonlovesbusiness.com/fintech-firm-for-the-fashion-industry-raises-1-35m/"
+    type: article
+    provider:
+      name: londonlovesbusiness.com
+      domain: londonlovesbusiness.com
+    quality: 39
+    images:
+      - url: "https://londonlovesbusiness.com/wp-content/uploads/2019/08/Boohoo.jpg"
+        width: 660
+        height: 371
+        isCached: true
   - title: "Fintech set to tackle fashion waste secures £1.35m investment"
     excerpt: "A new fintech designed to reduce stock wastage in the fashion industry has raised £1.35m in seed funding. Purple Dot, a… | Entrepreneurship | Fashion | Retail | London | Funding | Entrepreneur | Inves"
     publishedDateTime: 2020-11-09T16:10:00Z

@@ -8,8 +8,8 @@ webUrl: "https://diginomica.com/can-piece-drywall-be-smart-bringing-machine-lear
 ampWebUrl: "https://diginomica.com/can-piece-drywall-be-smart-bringing-machine-learning-everyday-objects-tinyml?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/can-piece-drywall-be-smart-bringing-machine-learning-everyday-objects-tinyml?amp"
 type: article
-quality: 64
-heat: 64
+quality: 66
+heat: 66
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AWS AI
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2019-10/self-driving.jpg"
@@ -26,6 +27,6 @@ images:
     height: 554
     isCached: true
 
-secured: "FcPd6yX8u/BImU426WYVjG8EmTpcdVP+adCZjPViOLaDKK3HZ3d2G3rDaU8N0B0fzOh3M6CQrDKD6Rpxnk/b9Bi2Tf6rQ/mgJWFTeetkDHuSvsGsUy1Vt5yGHp7hAXNOcBnldKTDDuszTvD9CVSMovpQPY2Jfcx1wI4fUyEbSQGCvjBm1N16c0qFEzP8Y8nPfZuQ9N0SSAgb3994ch2/K7O02nIzm9jCl1+wZDHH8ikPNImQrP22Rhx4hk3UZbW+LAa4Xglkj+5HIBREYBd576eT60AbFwAB87kDr7iQ/+fSvZnVMwfGEzCIt5N+WHVyBikJBoram/XdOwYOro3R+A/Edxd3SYxa6E2PAxFnxeI=;33s0HVVfxS17PsKIvHfbFg=="
+secured: "8+WxbWR8LlQ4nuM+pL8tgS0d36H7axG8cnS4pgWIXYhCQkKtQkCqLbpR1NGr5txbuehTIihu8GC6Rcj3ULPg17NMQFfPG0lvBuivzEnJDRdFmZGTWbkBI9Tv/PuWWhQCCQto83Oa7zX/dKVyaTab3xg7YMSj/TRHZn4Tscxv8yyle9xfhaue4kft3rGL3YxNSjTfAeQNMftfTWu2Dp9DowgdIA4e4BC+H5sxcl7rvsp5BGPrFWhillDfeXRW6QxjaXS8GLB5lxJxb4Z9Ebazwdt45m6X1pxKPw5hRchrqVSDV1fQgIFy7U5Tlxtp0s2YFmavth++LK8IqjIOcbJS9IDzwSjWsz41WraHYO02buFO+E7Q83WQHMiBMHYrQmZK92FCk15sPCn2w+6/J14r/kd9jkYPilOSlVmaUiv0qdMEuhw/3EiUbrKlIzIvjj2RxO0dle8l9qhusSMs0bY+NTgM1U2bSEa9phcLL5FOos/tbvQJSS4cr/qj4V+akgo40ljNAdR2UjbW4Z+pJ4FoAw==;SZtEFlDIydMLc2CBiR3hJg=="
 ---
 

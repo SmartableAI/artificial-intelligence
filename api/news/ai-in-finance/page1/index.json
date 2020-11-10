@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-11-10-ai-a-bane-for-traditional-financial-services-a-boon-for-fintech-capgemini-report.md",
-      "title": "AI, a bane for traditional financial services, a boon for fintech: Capgemini report",
-      "excerpt": "Covid-19 has catalysed financial services organisations to harness Artificial Intelligence (AI) to improve customer experience (CX), says a report published by the Capgemini Research Institute. However,",
+      "path": "_news/2020-11-09-ai-and-ml-benefit-for-the-fintech-industry.md",
+      "title": "AI and ML benefit for the Fintech industry",
+      "excerpt": "Let’s take a look at how FinTech companies took advantage of these technologies by employing them for different purposes, and is it worth investing in these technologies at all. Before diving into the use cases of AI and ML in fintech and banking software development,",
       "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/info-tech/ai-a-bane-for-traditional-financial-services-a-boon-for-fintech-capgemini-report/article33063906.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/info-tech/ai-a-bane-for-traditional-financial-services-a-boon-for-fintech-capgemini-report/article33063906.ece",
+      "webUrl": "https://augustafreepress.com/ai-and-ml-benefit-for-the-fintech-industry/",
+      "originalUrl": "https://augustafreepress.com/ai-and-ml-benefit-for-the-fintech-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 196,
       "tags": null,
       "images": [
         {
-          "url": "https://www.thehindubusinessline.com/info-tech/1y1q1h/article33063905.ece/ALTERNATES/LANDSCAPE_615/AI",
-          "width": 615,
-          "height": 384,
+          "url": "https://augustafreepress.com/wp-content/uploads/2020/07/business-1.jpg",
+          "width": 400,
+          "height": 267,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,57 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/ai-a-bane-for-traditional-financial-services-a-boon-for-fintech-capgemini-report/article33063906.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ai-a-bane-for-traditional-financial-services-a-boon-for-fintech-capgemini-report/article33063906.ece/amp/",
-      "publishedDateTime": "2020-11-09T21:22:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-09T06:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
+        "name": "Augusta Free Press",
+        "domain": "augustafreepress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-fintech-for-fashion-purple-dot-raises-135-million-seed-round.md",
+      "title": "Fintech for Fashion: Purple Dot Raises £1.35 Million Seed Round",
+      "excerpt": "Purple Dot, a payment platform for fashion merchandisers that enables consumers to offer to purchase a product at below the retail recommended price, has raised a £1.3 million seed round. The funding was led by Connect Ventures.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2020/11/168918-fintech-for-fashion-purple-dot-raises-1-35-million-seed-round/",
+      "originalUrl": "https://www.crowdfundinsider.com/2020/11/168918-fintech-for-fashion-purple-dot-raises-1-35-million-seed-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/06/Sale-600x421.jpg",
+          "width": 600,
+          "height": 421,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2020/11/168918-fintech-for-fashion-purple-dot-raises-1-35-million-seed-round/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/168918-fintech-for-fashion-purple-dot-raises-1-35-million-seed-round/amp/",
+      "publishedDateTime": "2020-11-09T04:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1288,50 +1332,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-introducing-ifrs-17-software-with-machine-learning.md",
-      "title": "Introducing IFRS 17 Software With Machine Learning",
-      "excerpt": "Data is universally indicated as the key challenge in IFRS 17 implementations. \"We designed our IFRS 17 solution from start to finish with",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/introducing-ifrs-17-software-with-machine-learning-301148539.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/introducing-ifrs-17-software-with-machine-learning-301148539.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1308815/3Blocks_software.jpg?p=facebook",
-          "width": 900,
-          "height": 471,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

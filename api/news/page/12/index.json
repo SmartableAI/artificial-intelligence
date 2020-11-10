@@ -2,6 +2,195 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-10-29-hebbia-wants-to-make-ctrl-f-or-command-f-actually-useful-through-better-ai.md",
+      "title": "Hebbia wants to make Ctrl-F (or Command-F) actually useful through better AI",
+      "excerpt": "Deep learning has made tremendous strides in recent years, with new systems and models like GPT-3 offering higher quality interpretations of human language, empowering developers to use these concepts in more diverse applications.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/28/hebbia-wants-to-make-ctrl-f-or-command-f-actually-useful-through-better-ai/",
+      "originalUrl": "https://techcrunch.com/2020/10/28/hebbia-wants-to-make-ctrl-f-or-command-f-actually-useful-through-better-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/Hebbia-Techcrunch.gif?w=680",
+          "width": 680,
+          "height": 468,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/28/hebbia-wants-to-make-ctrl-f-or-command-f-actually-useful-through-better-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/28/hebbia-wants-to-make-ctrl-f-or-command-f-actually-useful-through-better-ai/amp/",
+      "publishedDateTime": "2020-10-28T11:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-grimes-and-endel-made-an-ai-powered-lullaby.md",
+      "title": "Grimes and Endel made an AI-powered lullaby",
+      "excerpt": "Synth-pop artist and Cyberpunk 2077 cast member Grimes has teamed up with mood music startup Endel to create an AI-powered soundscape designed to help you drift off. \"AI Lullaby\" blends vocals and original music from Grimes with personalized sounds that an algorithm in real-time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/grimes-endel-ai-powered-lullaby-174840113.html",
+      "originalUrl": "https://www.engadget.com/grimes-endel-ai-powered-lullaby-174840113.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Ff9846a00-1943-11eb-9d32-9025de2f2370&client=amp-blogside-v2&signature=f9cf7ac75b95c6a09a0c8be6bbb882d306848937",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-microsoft-announces-its-first-azure-data-center-region-in-taiwan.md",
+      "title": "Microsoft announces its first Azure data center region in Taiwan",
+      "excerpt": "After announcing its latest data center region in Austria earlier this month and an expansion of its footprint in Brazil, Microsoft today unveiled its plans to open a new region in Taiwan. This new region will augment its existing presence in East Asia,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/28/microsoft-announces-its-first-azure-data-center-region-in-taiwan/",
+      "originalUrl": "https://techcrunch.com/2020/10/28/microsoft-announces-its-first-azure-data-center-region-in-taiwan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/28/microsoft-announces-its-first-azure-data-center-region-in-taiwan/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/28/microsoft-announces-its-first-azure-data-center-region-in-taiwan/amp/",
+      "publishedDateTime": "2020-10-28T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-exploring-ai-for-radiotherapy-planning-with-mayo-clinic.md",
+      "title": "Exploring AI for radiotherapy planning with Mayo Clinic",
+      "excerpt": "More than 18 million new cancer cases are diagnosed globally each year, and radiotherapy is one of the most common cancer treatments—used to treat over halfof cancers in the United States. But planning for a course of radiotherapy treatment is often a time-consuming and manual process for clinicians.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/health/exploring-ai-radiotherapy-planning-mayo-clinic/",
+      "originalUrl": "https://blog.google/technology/health/exploring-ai-radiotherapy-planning-mayo-clinic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/health/exploring-ai-radiotherapy-planning-mayo-clinic/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/exploring-ai-radiotherapy-planning-mayo-clinic/amp/",
+      "publishedDateTime": "2020-10-28T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-the-future-of-robotics-is-bright-with-arkq.md",
       "title": "The Future of Robotics is Bright with ARKQ",
       "excerpt": "Robotics and artificial intelligence are making machines smarter and more capable than ever before, allowing robots to take on increasingly sophisticated tasks for faster and more accurate production. Declining computer chip costs and improving ...",
@@ -220,19 +409,19 @@
     {
       "path": "_news/2020-10-28-ibm-study-ai-driven-virtual-agents-can-drive-customer-satisfaction-and-cost-savings-amid-covid-19.md",
       "title": "IBM Study: AI-driven Virtual Agents Can Drive Customer Satisfaction and Cost Savings Amid COVID-19",
-      "excerpt": "The research showed organizations that are early adopters of AI and cloud technology are reaping ... USD 5.50 per contained conversation using IBM Watson Assistant. The IBM Institute for Business ...",
+      "excerpt": "As many organizations across the world look to digital tools to help address surges in customer inquiries due to the COVID-19 pandemic, a new IBM study revealed 99% of respondents report an increase in customer satisfaction as a result of using AI-driven virtual agent technology.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-study-ai-driven-virtual-agents-can-drive-customer-satisfaction-and-cost-savings-amid-covid-19-1029735274",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-study-ai-driven-virtual-agents-can-drive-customer-satisfaction-and-cost-savings-amid-covid-19-1029735274",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-virus-outbreak-lung-disease-health-diseases-and-conditions-8d2b93a339b25c986b3c3dd0262b9e5d/gallery/140d2107145ac6b5139433ecb79ed8c0",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-virus-outbreak-lung-disease-health-diseases-and-conditions-8d2b93a339b25c986b3c3dd0262b9e5d/gallery/140d2107145ac6b5139433ecb79ed8c0",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1322193/IBM_AI_Study.jpg",
-          "width": 400,
-          "height": 225,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -242,21 +431,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T07:42:00-07:00",
+      "publishedDateTime": "2020-10-28T07:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -769,50 +949,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-28-5-best-robotics-and-artificial-intelligence-stocks-to-buy.md",
-      "title": "5 Best Robotics and Artificial Intelligence Stocks To Buy",
-      "excerpt": "Google AI is the company’s division that focuses exclusively on artificial intelligence and Waymo is probably the most advanced autonomous driving technology company in the world (though Chinese ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17135035/50882921_ml.jpg",
-          "width": 1678,
-          "height": 1119,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T22:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2020-10-28-harnessing-ai-to-reset-the-future-how-to-channel-ai-for-social-good.md",
       "title": "Harnessing AI To Reset The Future: How To Channel AI For Social Good?",
       "excerpt": "The wave of optimism surrounding the transformative potential of AI has been tempered by increasing concerns about potential negative impacts including an evolving digital divide, ethical concerns, and the future of work.",
@@ -967,21 +1103,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-28-mobile-speech-recognition-software-market-research-2020-competitive-landscape-and-development-model-in-different-regions-of-the-world.md",
-      "title": "Mobile Speech Recognition Software Market Research 2020: Competitive Landscape and Development Model in Different Regions of The World",
-      "excerpt": "Final Report will add the analysis of the impact of COVID-19 on this industry.\" “ Mobile Speech Recognition Software Market ” has several changes in recent years and expected to vary significantly within the forecast year because of developments in production sources,",
+      "path": "_news/2020-10-28-5-best-robotics-and-artificial-intelligence-stocks-to-buy.md",
+      "title": "5 Best Robotics and Artificial Intelligence Stocks To Buy",
+      "excerpt": "Below we listed the 5 best robotics and artificial intelligence stocks to buy according to hedge funds. For a detailed analysis and a more comprehensive list please see Top 10 Robotics and Artificial Intelligence Stocks To Buy. Unfortunately it is too late ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-research-2020-competitive-landscape-and-development-model-in-different-regions-of-the-world-2020-10-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-research-2020-competitive-landscape-and-development-model-in-different-regions-of-the-world-2020-10-28",
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/?singlepage=1",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/?singlepage=1",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17135035/50882921_ml.jpg",
+          "width": 1678,
+          "height": 1119,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -991,54 +1127,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T21:11:00-07:00",
+      "publishedDateTime": "2020-10-27T21:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais.md",
-      "title": "If a robot is conscious, is it OK to turn it off? The moral implications of building true AIs",
-      "excerpt": "What is the basis upon which something has rights? What gives an entity moral standing? The philosopher Peter Singer argues that creatures that can feel pain or suffer have a claim to moral standing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.expressnews.com/news/article/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php",
-      "originalUrl": "https://www.expressnews.com/news/article/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T19:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "San Antonio Express-News",
-        "domain": "expressnews.com",
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1050,111 +1143,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-with-industrial-robots-easier-than-ever-to-program-how-do-our-attitudes-toward-automation-adapt.md",
-      "title": "With Industrial Robots Easier Than Ever To Program, How Do Our Attitudes Toward Automation Adapt?",
-      "excerpt": "Whether it's which tasks we can automate, the cost and time necessary for robot automation or how workers can contribute, the rise of easy-to-program robots forces us to rethink our assumptions and strategies for robotic automation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/27/with-industrial-robots-easier-than-ever-to-program-how-do-our-attitudes-toward-automation-adapt/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/27/with-industrial-robots-easier-than-ever-to-program-how-do-our-attitudes-toward-automation-adapt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1adfa7960582d2951cc914%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/27/with-industrial-robots-easier-than-ever-to-program-how-do-our-attitudes-toward-automation-adapt/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/27/with-industrial-robots-easier-than-ever-to-program-how-do-our-attitudes-toward-automation-adapt/amp/",
-      "publishedDateTime": "2020-10-27T18:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-best-facial-recognition-security-cameras-for-2020.md",
-      "title": "Best facial recognition security cameras for 2020",
-      "excerpt": "Select home security cameras have facial recognition, an advanced option that lets you make a database of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-for-2020/",
-      "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-for-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-for-2020/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-for-2020/",
-      "publishedDateTime": "2020-10-27T17:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

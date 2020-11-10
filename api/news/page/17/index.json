@@ -2,6 +2,178 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-10-24-one-key-to-pandemic-retailing-artificial-intelligence.md",
+      "title": "One Key to Pandemic Retailing: Artificial Intelligence",
+      "excerpt": "Retail is no stranger to artificial intelligence. Nearly a decade ago ... Gilead Sciences won approval for remdesivir as an anti-Covid therapy. With the election looming, House Speaker Nancy Pelosi set a Tuesday deadline to reach a deal on Covid relief.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/one-key-to-pandemic-retailing-artificial-intelligence-51603500768",
+      "originalUrl": "https://www.barrons.com/articles/one-key-to-pandemic-retailing-artificial-intelligence-51603500768",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-248999/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/one-key-to-pandemic-retailing-artificial-intelligence-51603500768",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/one-key-to-pandemic-retailing-artificial-intelligence-51603500768",
+      "publishedDateTime": "2020-10-23T21:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-24-watch-saudi-arabia-launches-artificial-intelligence-strategy-at-global-ai-summit.md",
+      "title": "Watch: Saudi Arabia launches artificial intelligence strategy at Global AI Summit",
+      "excerpt": "Saudi Arabia announced its National Strategy for Data and AI at the Global AI Summit, hosted virtually by the Kingdom, on Wednesday. The strategy was announced by Saudi Data and Artificial Intelligence Authority (SDAIA) President Dr Abdullah bin Sharaf Al-Ghamdi,",
+      "sourceUrl": null,
+      "webUrl": "https://english.alarabiya.net/en/News/gulf/2020/10/21/Saudi-Arabia-set-to-announce-artificial-intelligence-partnerships-says-SDAIA-preside",
+      "originalUrl": "https://english.alarabiya.net/en/News/gulf/2020/10/21/Saudi-Arabia-set-to-announce-artificial-intelligence-partnerships-says-SDAIA-preside",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://vid.alarabiya.net/images/2020/10/21/597d46c8-746e-4be9-b4a0-39a135399dca/597d46c8-746e-4be9-b4a0-39a135399dca_16x9_600x338.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://english.alarabiya.net/en/amp/News/gulf/2020/10/21/Saudi-Arabia-set-to-announce-artificial-intelligence-partnerships-says-SDAIA-preside",
+      "cdnAmpWebUrl": "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/en/amp/News/gulf/2020/10/21/Saudi-Arabia-set-to-announce-artificial-intelligence-partnerships-says-SDAIA-preside",
+      "publishedDateTime": "2020-10-23T19:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "العربية.نت",
+        "domain": "alarabiya.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-24-facial-recognition-market-increasing-instances-of-identity-theft-to-boost-the-market-growth-technavio.md",
+      "title": "Facial Recognition Market | Increasing Instances of Identity Theft to Boost the Market Growth | Technavio",
+      "excerpt": "Technavio has announced its latest market research report titled Global Facial Recognition Market 2020-2024 (Graphic: Business Wire) The facial recognition market research analysis identifies the increasing instances of identity threats as one of the primary growth factors for this market.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-virus-outbreak-biometrics-lung-disease-crime-9929454d476f4533b12c36217c36675e",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-virus-outbreak-biometrics-lung-disease-crime-9929454d476f4533b12c36217c36675e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-23T19:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-24-can-ai-fix-the-broken-us-presidential-debates.md",
+      "title": "Can AI Fix The Broken U.S. Presidential Debates?",
+      "excerpt": "By contrast, IBM’s Watson analysed 3,500 questions submitted online using a new capability called Key Point Analysis. It’s an AI-based summary developed by the IBM Research Project Debater team.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2020/10/can-ai-fix-our-broken-debates/",
+      "originalUrl": "https://www.gizmodo.com.au/2020/10/can-ai-fix-our-broken-debates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pedestrian.tv/content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2020/10/can-ai-fix-our-broken-debates/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/10/can-ai-fix-our-broken-debates/amp/",
+      "publishedDateTime": "2020-10-23T18:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo Australia",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-24-stethoscopes-electronics-and-artificial-intelligence.md",
       "title": "Stethoscopes, Electronics, And Artificial Intelligence",
       "excerpt": "What’s more, since the Hopkins smart stethoscope is a digital instrument, it can serve as input for an artificial intelligence application that automatically analyzes the data for signs of ...",
@@ -1023,205 +1195,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-how-ai-solutions-can-help-contact-centers-succeed-in-the-pandemic-economy.md",
-      "title": "How AI Solutions Can Help Contact Centers Succeed In The Pandemic Economy",
-      "excerpt": "Even before the pandemic struck, companies were gradually incorporating artificial intelligence (AI) into their customer service infrastructures. Research firm Gartner predicts that \"by 2022, 70% of customer interactions will involve emerging technologies such as machine learning (ML) applications,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/23/how-ai-solutions-can-help-contact-centers-succeed-in-the-pandemic-economy/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/23/how-ai-solutions-can-help-contact-centers-succeed-in-the-pandemic-economy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9186135089187e66ee790c%2F0x0.jpg",
-          "width": 1199,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/23/how-ai-solutions-can-help-contact-centers-succeed-in-the-pandemic-economy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/23/how-ai-solutions-can-help-contact-centers-succeed-in-the-pandemic-economy/amp/",
-      "publishedDateTime": "2020-10-23T04:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-how-virtual-design-artificial-intelligence-impact-engineers.md",
-      "title": "How virtual design, artificial intelligence impact engineers",
-      "excerpt": "Learn how artificial intelligence and virtual design overcome limitations in BIM. Understand how these innovations impact existing workflows. Identify the skill sets required to effectively use these emerging technologies. For decades, the architecture ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.csemag.com/articles/how-virtual-design-artificial-intelligence-impact-engineers/",
-      "originalUrl": "https://www.csemag.com/articles/how-virtual-design-artificial-intelligence-impact-engineers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.csemag.com/wp-content/uploads/sites/5/2020/10/CSE2010_MAG_FTECH_01-Slider.jpg",
-          "width": 645,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-23T04:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Csemag.com",
-        "domain": "csemag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-artificial-intelligence-cheat-sheet.md",
-      "title": "Artificial intelligence: Cheat sheet",
-      "excerpt": "Learn artificial intelligence basics ... AI chatbots can be a great first line of customer interaction. Healthcare: Not only are some AIs able to detect cancer and other health concerns before doctors, they can also provide feedback on patient care ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/artificial-intelligence-cheat-sheet/",
-      "originalUrl": "https://www.techrepublic.com/article/artificial-intelligence-cheat-sheet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2019/08/14/04431cd4-496f-4b8b-8c84-626bb46b9b53/thumbnail/1200x675/341ae9baa20fd565a197f478b55bbb38/20190731-brandonai-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/artificial-intelligence-cheat-sheet/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/artificial-intelligence-cheat-sheet/",
-      "publishedDateTime": "2020-10-23T03:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-teslas-full-self-driving-beta-is-here.md",
-      "title": "Tesla's Full Self-Driving Beta Is Here",
-      "excerpt": "While Tesla's (NASDAQ:TSLA) third-quarter earnings report may be the primary focus when it comes to the electric-car maker's stock this week, the company also quietly rolled out a beta release of its full self-driving mode to a small group of drivers -- a technology that could eventually morph into an incredibly valuable asset for Tesla.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/10/23/teslas-full-self-driving-beta-is-here/",
-      "originalUrl": "https://www.fool.com/investing/2020/10/23/teslas-full-self-driving-beta-is-here/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 459,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F596184%2Ftesla-full-self-driving-mode.png&w=1200&op=resize",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/23/teslas-full-self-driving-beta-is-here/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/23/teslas-full-self-driving-beta-is-here/",
-      "publishedDateTime": "2020-10-23T03:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

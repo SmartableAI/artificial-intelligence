@@ -41,6 +41,17 @@ related:
         width: 1000
         height: 750
         isCached: true
+  - title: "Hyundai taps Nvidia for future fleet AI, infotainment services"
+    excerpt: "Hyundai has announced that all future Hyundai, Kia, and Genesis vehicles will utilize Nvidia's in-vehicle artificial intelligence (AI) and infotainment platform.  The South Korean automaker said on Monday that the firm's \"entire fleet\" will eventually feature Nvidia's technology."
+    publishedDateTime: 2020-11-10T02:49:00Z
+    webUrl: "https://www.zdnet.com/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
   - title: "Hyundai Motor Group Selects NVIDIA DRIVE Infotainment and AI Platform for All Future Hyundai,"
     excerpt: "NVIDIA and Hyundai Motor Group today announced that the automaker’s entire lineup of Hyundai, Kia and Genesis models will come standard with NVIDIA DRIVE ™ in-vehicle infotainment (IVI) systems starting in 2022."
     publishedDateTime: 2020-11-09T22:02:00Z

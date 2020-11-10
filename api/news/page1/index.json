@@ -2,6 +2,160 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-10-employers-add-more-ai-to-the-interview-process-how-to-handle-it.md",
+      "title": "Employers Add More AI To The Interview Process. How To Handle It",
+      "excerpt": "If you are tech-challenged, you will likely struggle with these new AI (Artificial Intelligence) advancements in the interviewing process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robinryan/2020/11/10/employers-add-more-ai-to-the-interview-process-how-to-handle-it/",
+      "originalUrl": "https://www.forbes.com/sites/robinryan/2020/11/10/employers-add-more-ai-to-the-interview-process-how-to-handle-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa9897f61d7675e6f9fb699%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robinryan/2020/11/10/employers-add-more-ai-to-the-interview-process-how-to-handle-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robinryan/2020/11/10/employers-add-more-ai-to-the-interview-process-how-to-handle-it/amp/",
+      "publishedDateTime": "2020-11-10T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-the-us-government-will-pay-doctors-to-use-these-ai-algorithms.md",
+      "title": "The US Government Will Pay Doctors to Use These AI Algorithms",
+      "excerpt": "The artificial intelligence programs can diagnose eye disease in diabetics and complications in stroke patients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/us-government-pay-doctors-use-ai-algorithms/",
+      "originalUrl": "https://www.wired.com/story/us-government-pay-doctors-use-ai-algorithms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fa5db02c529acf3a833874c/master/pass/business_medicare_1171912286.jpg",
+          "width": 2400,
+          "height": 1606,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/us-government-pay-doctors-use-ai-algorithms/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/us-government-pay-doctors-use-ai-algorithms/amp",
+      "publishedDateTime": "2020-11-10T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-walmart-to-test-robotic-deliveries-with-electric-cruise-self-driving-vehicles.md",
+      "title": "Walmart To Test Robotic Deliveries With Electric Cruise Self-Driving Vehicles",
+      "excerpt": "Walmart is trying to learn whether robotic deliveries fit in with its retail operations so it’s launching the latest pilot program with General Motors-backed Cruise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alanohnsman/2020/11/10/walmart-to-test-robotic-deliveries-with-electric-cruise-self-driving-vehicles/",
+      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2020/11/10/walmart-to-test-robotic-deliveries-with-electric-cruise-self-driving-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faa1c3d509d05f9c63f13cb%2F0x0.jpg%3FcropX1%3D236%26cropX2%3D1677%26cropY1%3D186%26cropY2%3D1053",
+          "width": 1200,
+          "height": 722,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2020/11/10/walmart-to-test-robotic-deliveries-with-electric-cruise-self-driving-vehicles/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/11/10/walmart-to-test-robotic-deliveries-with-electric-cruise-self-driving-vehicles/amp/",
+      "publishedDateTime": "2020-11-10T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-natural-language-processing-nlp-market-key-players-segmentation-analysis-business-growth-and-forecast-to-2027.md",
       "title": "Natural Language Processing (NLP) Market Key Players, Segmentation Analysis, Business Growth and Forecast to 2027",
       "excerpt": "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional",
@@ -62,7 +216,7 @@
       "originalUrl": "https://www.timeslive.co.za/motoring/news/2020-11-10-chip-maker-nvidia-signs-deal-with-hyundai-motor/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -93,49 +247,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-ai-a-bane-for-traditional-financial-services-a-boon-for-fintech-capgemini-report.md",
-      "title": "AI, a bane for traditional financial services, a boon for fintech: Capgemini report",
-      "excerpt": "Covid-19 has catalysed financial services organisations to harness Artificial Intelligence (AI) to improve customer experience (CX), says a report published by the Capgemini Research Institute. However,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/info-tech/ai-a-bane-for-traditional-financial-services-a-boon-for-fintech-capgemini-report/article33063906.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/info-tech/ai-a-bane-for-traditional-financial-services-a-boon-for-fintech-capgemini-report/article33063906.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/info-tech/1y1q1h/article33063905.ece/ALTERNATES/LANDSCAPE_615/AI",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/ai-a-bane-for-traditional-financial-services-a-boon-for-fintech-capgemini-report/article33063906.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ai-a-bane-for-traditional-financial-services-a-boon-for-fintech-capgemini-report/article33063906.ece/amp/",
-      "publishedDateTime": "2020-11-09T21:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     },
@@ -622,6 +733,50 @@
       ]
     },
     {
+      "path": "_news/2020-11-09-ai-and-ml-benefit-for-the-fintech-industry.md",
+      "title": "AI and ML benefit for the Fintech industry",
+      "excerpt": "Let’s take a look at how FinTech companies took advantage of these technologies by employing them for different purposes, and is it worth investing in these technologies at all. Before diving into the use cases of AI and ML in fintech and banking software development,",
+      "sourceUrl": null,
+      "webUrl": "https://augustafreepress.com/ai-and-ml-benefit-for-the-fintech-industry/",
+      "originalUrl": "https://augustafreepress.com/ai-and-ml-benefit-for-the-fintech-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 196,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://augustafreepress.com/wp-content/uploads/2020/07/business-1.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-09T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Augusta Free Press",
+        "domain": "augustafreepress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-11-09-outsenses-ai-looks-for-life-threatening-diseases-in-your-poop.md",
       "title": "OutSense’s AI looks for life-threatening diseases in your poop",
       "excerpt": "OutSense is setting out to \"transform human waste into lifesaving medical insights\" through a device that clips onto a toilet.",
@@ -772,6 +927,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-fintech-for-fashion-purple-dot-raises-135-million-seed-round.md",
+      "title": "Fintech for Fashion: Purple Dot Raises £1.35 Million Seed Round",
+      "excerpt": "Purple Dot, a payment platform for fashion merchandisers that enables consumers to offer to purchase a product at below the retail recommended price, has raised a £1.3 million seed round. The funding was led by Connect Ventures.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2020/11/168918-fintech-for-fashion-purple-dot-raises-1-35-million-seed-round/",
+      "originalUrl": "https://www.crowdfundinsider.com/2020/11/168918-fintech-for-fashion-purple-dot-raises-1-35-million-seed-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/06/Sale-600x421.jpg",
+          "width": 600,
+          "height": 421,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2020/11/168918-fintech-for-fashion-purple-dot-raises-1-35-million-seed-round/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/168918-fintech-for-fashion-purple-dot-raises-1-35-million-seed-round/amp/",
+      "publishedDateTime": "2020-11-09T04:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -1025,196 +1223,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-healthcare-artificial-intelligence-market.md",
-      "title": "Healthcare Artificial Intelligence Market",
-      "excerpt": "Latest Survey On Healthcare Artificial Intelligence Market ... Butterfly Network, Inc., Lifegraph, Enlitic, Inc., IBM (Watson Health), Sophia Genetics, Zebra Medical Vision Ltd., Pathway Genomics Corporation, AiCure, Sense.ly, Welltok, Insilico Medicine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2183410/healthcare-artificial-intelligence-market-is-thriving",
-      "originalUrl": "https://www.openpr.com/news/2183410/healthcare-artificial-intelligence-market-is-thriving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/b/Tb09580094_g.jpg",
-          "width": 780,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2183410/healthcare-artificial-intelligence-market-is-thriving",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2183410/healthcare-artificial-intelligence-market-is-thriving",
-      "publishedDateTime": "2020-11-09T00:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-an-ai-engineer-walks-into-a-data-shop.md",
-      "title": "An AI Engineer Walks Into A Data Shop...",
-      "excerpt": "If it’s not quite off-the-shelf AI, then its composable AI that brings together some of the core functions that smart systems use regularly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/11/09/an-ai-engineer-walks-into-a-data-shop/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/11/09/an-ai-engineer-walks-into-a-data-shop/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f996d1557bfc401bd9f3e03%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/11/09/an-ai-engineer-walks-into-a-data-shop/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/11/09/an-ai-engineer-walks-into-a-data-shop/amp/",
-      "publishedDateTime": "2020-11-09T00:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-buddhist-nuns-and-their-crusade-for-recognition-in-southeast-asia.md",
-      "title": "Buddhist Nuns and Their Crusade for Recognition in Southeast Asia",
-      "excerpt": "\"The Buddha is my first feminist … in a very traditional society, he opened the space for women by recognizing they can achieve a highest spiritual goal.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/y3gd3b/buddhist-nuns-bhikkhuni-ordination-women-recognition-southeast-asia",
-      "originalUrl": "https://www.vice.com/en/article/y3gd3b/buddhist-nuns-bhikkhuni-ordination-women-recognition-southeast-asia",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com//articles/5fa8af370bb14e0095416283/lede/1604891135349-1-1.jpeg?crop=1xw:0.4428xh;0xw,0.0389xh",
-          "width": 1440,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en/article/y3gd3b/buddhist-nuns-bhikkhuni-ordination-women-recognition-southeast-asia",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/y3gd3b/buddhist-nuns-bhikkhuni-ordination-women-recognition-southeast-asia",
-      "publishedDateTime": "2020-11-08T21:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-ai-can-drive-ethical-investment-only-if-we-grasp-the-messy-reality.md",
-      "title": "AI can drive ethical investment only if we grasp the messy reality",
-      "excerpt": "We also need to look at the ethical “fingerprint” of organisations we are considering investing in, and not simply tag them as ESG or not ESG, or lump them together in groups based on an arbitrary cut-off point on a scale.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/b238b8f2-8645-4654-a806-681c9a461d0b",
-      "originalUrl": "https://www.ft.com/content/b238b8f2-8645-4654-a806-681c9a461d0b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd6f4f721-b03f-46e8-842f-53d782ae5ad0.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/b238b8f2-8645-4654-a806-681c9a461d0b",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/b238b8f2-8645-4654-a806-681c9a461d0b",
-      "publishedDateTime": "2020-11-08T20:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

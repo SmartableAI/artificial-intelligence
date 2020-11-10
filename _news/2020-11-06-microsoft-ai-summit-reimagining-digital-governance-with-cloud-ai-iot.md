@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/microsoft-ai-summit-re
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/microsoft-ai-summit-reimagining-digital-governance-with-cloud-ai-iot/amp-11604663602516.html"
 type: article
 quality: 76
-heat: 86
+heat: 106
 published: true
 
 provider:
@@ -42,6 +42,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AVEVA expands Microsoft collaboration focusing on Cloud and AI"
+    excerpt: "AVEVA will be extending its collaboration with Microsoft to help maximise the value that customers can derive from the integration of AVEVA’s portfolio with Microsoft cloud services and especially Microsoft Azure (infrastructure,"
+    publishedDateTime: 2020-11-10T11:15:00Z
+    webUrl: "https://www.pcr-online.biz/2020/11/10/aveva-expands-collaboration-with-microsoft-with-a-focus-on-cloud-and-ai/"
+    type: article
+    provider:
+      name: PCR
+      domain: pcr-online.biz
+    quality: 54
+    images:
+      - url: "https://www.pcr-online.biz/wp-content/uploads/PCR-November-2020.jpg"
+        width: 280
+        height: 350
+        isCached: true
+  - title: "AVEVA, Microsoft expands collaboration with a focus on cloud and AI to drive digital transformation"
+    excerpt: "AVEVA to collaborate with Microsoft to provide cloud platform and domain expertise for industrial sector organisations"
+    publishedDateTime: 2020-11-10T11:29:00Z
+    webUrl: "https://www.arabianindustry.com/petrochemicals/news/2020/nov/10/aveva-microsoft-expands-collaboration-with-a-focus-on-cloud-and-ai-to-drive-digital-transformation-6456736/"
+    type: article
+    provider:
+      name: arabianindustry.com
+      domain: arabianindustry.com
+    quality: 20
 
 secured: "Ew4b5TdWchAOUY1K9uR/y8DAUL7q7uuvvv3DgR+X/dPPIPAWBEQCMkL/aEyfG+dof7jTOyf6pCdhgIMJz6eZASOX4X5YtQCjXJrnInCyY1gZ383iK47h/McAx3PrnpM/SvmT2VqfxmZbBbOa50c6/h0F6rkw9p4Ncfql9QZXxjh9VmngvOGj532y1rkmJjtPQTnT8BLeLxEascCBaASmxzcJmWbg728gw74LENKIrWMvuSdhNeJ2rD9BvmcppPAnWn4+yHS4jCgo6r7e1DAJ2cfoU40GHLBwbLv+r2Hq6GeFeS69B/BWOLM4wm9Qv8WN5eOhpBniHBuGfs7RBJRTRW93vfCorOVUNTa+sPznuvTahJKEOHuVoFyCRGr1dOnwx1+aSZ0L93N3Q9+NfqWuf9MBNOcPQ9PiQweHh2fcKIkOSa48/aWN3mCDL8p5z66YrXkyV6mb8vmXNMvx4Q+PzN00tLqNsmKlTvwN2oCFHMEsl3WZUOtN5wyIaikIuZwVr2SEVQMDJthGkoFJ/QYHEA==;f73mEAfMTBJa4z19RJxoCQ=="
 ---

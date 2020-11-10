@@ -98,6 +98,50 @@
       ]
     },
     {
+      "path": "_news/2020-11-09-ai-and-ml-benefit-for-the-fintech-industry.md",
+      "title": "AI and ML benefit for the Fintech industry",
+      "excerpt": "Let’s take a look at how FinTech companies took advantage of these technologies by employing them for different purposes, and is it worth investing in these technologies at all. Before diving into the use cases of AI and ML in fintech and banking software development,",
+      "sourceUrl": null,
+      "webUrl": "https://augustafreepress.com/ai-and-ml-benefit-for-the-fintech-industry/",
+      "originalUrl": "https://augustafreepress.com/ai-and-ml-benefit-for-the-fintech-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 196,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://augustafreepress.com/wp-content/uploads/2020/07/business-1.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-09T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Augusta Free Press",
+        "domain": "augustafreepress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-11-09-review-google-cloud-ai-lights-up-machine-learning.md",
       "title": "Review: Google Cloud AI lights up machine learning",
       "excerpt": "Google Cloud AI and Machine Learning Platform is missing some pieces, and much is still in beta, but its scope and quality are second to none.",
@@ -1397,58 +1441,6 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-artificial-intelligence-in-retail-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2023.md",
-      "title": "Artificial Intelligence in Retail Market: Global Industry Analysis, Size, Share, Growth, Trends, and Forecast 2020 - 2023",
-      "excerpt": "Artificial Intelligence is anticipated to disrupt every business and enterprises across the world. One of the major factors that drive the growth of artificial intelligence market in retail is the advancement in big data,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020---2023-2020-10-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020---2023-2020-10-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-29T02:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

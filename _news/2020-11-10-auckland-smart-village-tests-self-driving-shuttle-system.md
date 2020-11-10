@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Auckland 'Smart Village' tests self-driving shuttle system"
-excerpt: "Paerata Rise to become most modern town in region through high-tech collaboration AUCKLAND, New Zealand, Nov. 10, 2020 /PRNewswire/ -- Paerata"
-publishedDateTime: 2020-11-10T10:57:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/auckland-smart-village-tests-self-driving-shuttle-system-1029785657"
-webUrl: "https://markets.businessinsider.com/news/stocks/auckland-smart-village-tests-self-driving-shuttle-system-1029785657"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/auckland-smart-village-tests-self-driving-shuttle-system-1029785657"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/auckland-smart-village-tests-self-driving-shuttle-system-1029785657"
+excerpt: "Paerata Rise, the largest housing development currently under construction in Auckland, is set to become the ultimate Smart Village with"
+publishedDateTime: 2020-11-10T09:40:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/auckland-smart-village-tests-self-driving-shuttle-system-301169599.html"
+webUrl: "https://www.prnewswire.com/news-releases/auckland-smart-village-tests-self-driving-shuttle-system-301169599.html"
 type: article
-quality: 54
-heat: 54
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "jk2PS8XrWBRiHGkJJA6FmxFqCqnsu6IW2b2YLNBnmw9ezYN/dxan5XFGcISbZQJZUQCnbsJQa32CghWxcUtvMB3Khnb+wziWGwb3SdlKQFk42XBzeQMpWDH3sMaGC4RA6Q2SiKRBPKDjqapzGmEG664W7CUUu2o0rFdkyS29a3Dikzp4ccqRLEoUWlksFwjFki+VJjpsnCXyBCfDeGpaQ+NJ/12aM7I1W4ls0DAScjZT8HgZ1p7HefjbOZcHGbBlSnBeW/M4ypcZqhtYQoePEZvWvRZ5zsmbLpDC+SbhkIN71MVCiJdUbpwhRbIHU4aqLmNCWMf22O/0BJOypm8UUH6qmZ7j76H3v9W5Cfj9q3o=;0Ni0gbNaWH3rr5QSQNEu0g=="
+images:
+  - url: "https://i1.ytimg.com/vi/WzLoQ4PYogE/hqdefault.jpg"
+    width: 480
+    height: 360
+    isCached: true
+
+secured: "lqBeUyo3jY8P1MCFbGcYryFzp6tgvylPZXIST5NStzqfCXUwyAc2wBawJYwqsX8RCUSqhROeiPzpTGs9CjAw+4XDNP5XdtjE0F8TXofMWBK/B9ZwmO0YdJbU2PsUtUMXGl1TP7aLb1xSYqXBso85Zl0UxB1ZPs19DpoZ9bCLjpLtYGWKnu9+pCdK8dx0626xiwTsHSpfF+ayPkMDvZSNJqRtycGtEFju3YqMkeLh40LjcWpE++0Sln1GWJgjex85B75i/rk0SUC+7nhZlSbW9unBAJAdsJdJG6k6LDDFPATysStezHXabUTl/RVzZ7VTTNVA5KadSTBnzkkDW9F7NlLHGkxj+il7SUVzFGoDchI=;tLHFZQRGJAaRceCzk8aLZw=="
 ---
 
