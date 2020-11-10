@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Global Face Recognition Device Market Size to Reach 2054.8 million USD by 2025"
-    excerpt: "According to this study, over the next five years the Face Recognition Device market will register a 18.2% CAGR in terms of revenue, the global market size will reach $ 2054.8 million by 2025, from $ 1054."
-    publishedDateTime: 2020-11-05T14:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-size-to-reach-20548-million-usd-by-2025-2020-11-05"
+  - title: "Grizzly bear facial recognition promises to revolutionize wildlife management"
+    excerpt: "A facial recognition system for grizzly bears could usher in a new wave of celebrity animals that scientists and the public could follow through their lifetimes. Biologists at the University of Victoria have teamed up with software experts to create an artificial intelligence (AI) that can recognize individual bears even though they don’t have much in the way of identifiable facial features."
+    publishedDateTime: 2020-11-06T08:28:00Z
+    webUrl: "https://theprovince.com/news/local-news/grizzly-bear-facial-recognition-promises-to-revolutionize-wildlife-management"
+    ampWebUrl: "https://theprovince.com/news/local-news/grizzly-bear-facial-recognition-promises-to-revolutionize-wildlife-management/wcm/ab9e2bac-513f-4335-a2c4-c99f7cd8fff5/amp/"
+    cdnAmpWebUrl: "https://theprovince-com.cdn.ampproject.org/c/s/theprovince.com/news/local-news/grizzly-bear-facial-recognition-promises-to-revolutionize-wildlife-management/wcm/ab9e2bac-513f-4335-a2c4-c99f7cd8fff5/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
+      name: The Province
+      domain: theprovince.com
+    quality: 56
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://smartcdn.prod.postmedia.digital/vancouversun/wp-content/uploads/2020/11/258343459-bear_face_detection_melanie_clapham_004-w.jpg"
+        width: 1000
+        height: 750
         isCached: true
 
 secured: "0gz4jNMprdhlN1cTqmU2Kne+fY9u+YSoZ/zT9hh15/C4XW6nNdj8yXARW1ZScq8pqoZazsnLMGwXjYRg9DskXylLQhHsm9Lb6yjgFivBu++gNZFC6Df5TwhodkSbFdtox8sAITbwKjnfvfSnCGfSrVcv5MYSsYXa7MVJR/XymH49aHttcI4qbLVoHP5o7fIGjoNYSQgcYbwBiCTY+sOYElcXeAoeMpJFMXX/+2kUwrwqMNuYY3oru73AQIkLcX7tLcmLfG4t9CDYJ8oVwG5jd+BuVE+Qqy6LFEW7nbKuM+j8XP54OWiA7O1u9RgoUw4mpq/K9IPDqqiBjpAeWEJSIVBeBMzIfJZdnnLYinpIUwA=;s0mKWE4rbXhR+iVbFGAxbQ=="

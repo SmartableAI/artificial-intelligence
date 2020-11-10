@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/health-it-leaders-bullish-on-ai-im
 webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/90-of-health-it-execs-expect-widespread-ai-implementation-in-next-5-years.html?utm_source=Triggermail&utm_medium=email&utm_campaign=Post Blast bii-digital-health: Health IT leaders are bullish on AI | Microsoft rolls out Cloud for Healthcare | Unite Us%2C Nebraska HIE tackle social determinants&utm_term=BII List Digital Health ALL"
 type: article
 quality: 164
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 400
     height: 300
     isCached: true
-
-related:
-  - title: "Artificial Intelligence and the Path to Health Care Innovation"
-    excerpt: "The American Hospital Association and Microsoft now offer a free, one-hour course, for continuing education credits, to guide health care teams through key considerations and specific actions for AI’s responsible and strategic implementation."
-    publishedDateTime: 2020-11-05T14:03:00Z
-    webUrl: "https://www.aha.org/news/healthcareinnovation-thursday-blog/2020-11-04-artificial-intelligence-and-path-health-care"
-    type: article
-    provider:
-      name: aha.org
-      domain: aha.org
-    quality: 39
-    images:
-      - url: "https://www.aha.org/sites/default/files/2020-11/center-blog-begley-mccarthy.jpg"
-        width: 900
-        height: 400
-        isCached: true
 
 secured: "JxUm7WjLQM+NiqaH61K3ZHJdUm9uAWTLjxdgFGJlQdK+uYJh/40Wk7mXh9adwN35lMiWvOvrlzLxhOFImN4+oBTERN0OkR1pC7aEPgZWsVCTOKv9rwh/pf3CSu99iPNhvSvbLvNDYKp2/NzzlgVRadEIUuSQrymQci1aFePNZvGyiWhIwnlBGK82xNJOGgT6Hcv83dqpGkUM3afSUf1ANoSALPMMfmwo9F36YGV8Ue169lucYPI/kL6kRFIOmORqZSa1K36YZ5u7EsltX4JoXSkO9I1YEXgoRMc9s/Q6foox3m0snfKltQzFp16zDaSAhgzHObFJrhOwXM0XmBW6l+yYzdxsfh6BQSp0uM1BX1mz/z4vTHXMhL3kaTHlP+q0fncxnMUDIrDGkbx2n5SwlrVrO93Jiql1YerbRaAeX/8f7jrS6uuyEKzsK6jaQHb50JnZidrfDnczXGMlAuBP7FtmWoG+VdQvHoopXm62T54G/BDGKkIH3dSfJ5bhHuTtIUKvVVgbZvnOcCJjjoyHsvwRTCP+F9fy+LVU8MoSW1M=;Dh8yu2W8A1d6tKFJ2K06hw=="
 ---

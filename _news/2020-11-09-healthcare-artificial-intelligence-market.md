@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2183410/healthcare-artificial-intelligenc
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2183410/healthcare-artificial-intelligence-market-is-thriving"
 type: article
 quality: 76
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/market_covid_shutterstock_1658915128-405x228.jpg"
         width: 405
         height: 228
-        isCached: true
-  - title: "Logiq Completes Acquisition of Fixel AI, Leader in AI-Powered Digital Marketing Technology"
-    excerpt: "(OTCQX: LGIQ), a global provider of award-winning eCommerce and Fintech solutions, has completed its previously announced plan to acquire F ixel AI, an award-winning innovator of AI-powered digital marketing technology."
-    publishedDateTime: 2020-11-05T13:31:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-apple-inc-virus-outbreak-technology-issues-875f0d1977c96e4ac08fab587cf0c33d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 46
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "BToj+dJZVHefpEF6ZcsJxgWVpTd0W5jWDLlcqujxz0Cbr1BsQgStuIFGkW0f8o5/kofgumpqOjtCMbNBEz+1D+if6oYPXVaKEhYsekYuyNDL8K6HlxyOSR9JOzTUCNiDGS66pKntiOB62jqoC0ZbP4PTIJAtp1eTJNfIXJ084FYmAdT00VtpCUMj3hVp1ClfG7TS+Z5swOB3ROIHE/yjwhIChxh7OuNI/bKzsUlh49r51TFJSkNHXIHQOwq1pNHfV/teGkwzquUN+6rdzCCtZpMtiCC0tyFidmd7+/9huM/iRY24e1foe0QpNam9gWS+gdJ5rO/xypvoAodetZZGGgcazok7jEXIabPJ9M0eu4Y=;FSXAiwtZCRJX7Kms7fk2KA=="

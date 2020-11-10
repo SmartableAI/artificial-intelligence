@@ -24,6 +24,22 @@ images:
     height: 433
     isCached: true
 
+related:
+  - title: "AI-enabled self-driving cars a necessary component for human safety: Volvo official"
+    excerpt: "AI-enabled self-driving is a necessary component to replace human driving and ensure safety of all motorists and reduce distraction, noted a senior official of Volvo Cars at an event."
+    publishedDateTime: 2020-11-10T05:59:00Z
+    webUrl: "https://www.thepeninsulaqatar.com/article/10/11/2020/AI-enabled-self-driving-cars-a-necessary-component-for-human-safety-Volvo-official"
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 33
+    images:
+      - url: "https://www.thepeninsulaqatar.com/uploads/2020/11/10/post_main_cover/b0fd6519e431ac79b6c507bd2c765f9a81ad8b97.jpg"
+        width: 532
+        height: 355
+        isCached: true
+
 secured: "j4njSpWT/Y6dGydTcmdEJrUuM9UHvx8Y1CN5iEHXkUKpZnIYR//P0jvcIFFo/JCaAHnBtJY+RaARxKyKV44+2/cIKrgQv9aXWaNEPKDXCicrHjp2//Vdc+fsT4FBd1Bi3Sa2BpSwrxHjRbmVK1fyxXc3QDYtTCz25rRbwSWLYEH/Lwqz/je7YRvulcyeUDOVQdNSfUFm/lat+6ieZXAqpnfHH6EqdZtuQX+zBvOpQX/hePvXKcOZ2l5NiMmjJncVzT40GNQM8DIrdPCA+kfUBLJ70wmsYAIEmqa8TmX4JeOeJpCLJ72w4EONOtI0d/A9/KByJ7EQB/cTeamKw/gybnVgr6TUohra8zpH4irBXnkIVdqK5bqGOZ6HmiHZXuwZyDeNB/thisgD5qD9tiGAYqrBdhjrNQdhdPT7XYyCRC0hDuZVqyLYnW1AKaPh2JWKV1tFQs8nEL1qnmY2v0Zm6dfY7SmypnsrRX916BBQphdmQFh0YLy258ASDfU+rReYKXR0ke5RwWfTR3qSpDR96w==;wtMTCOu7vI2QLBi40jXe4A=="
 ---
 

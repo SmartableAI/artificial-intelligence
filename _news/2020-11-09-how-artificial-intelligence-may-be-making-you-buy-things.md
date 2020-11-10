@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/technology-54522442"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-54522442"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 64
-  - title: "Conference Better Using AI for Making Notes"
-    excerpt: "PINNA, a startup in Artificial Intelligence applications, announced today the launch of a new application TRANSCRIBE.AI that automatically transcribes your calls, so you don't need to take notes during meetings."
-    publishedDateTime: 2020-11-05T13:53:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/conference-better-using-ai-for-making-notes-1029770581"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
 
 secured: "fDDaPQJ7cWYJw9qFPYr/Ux/+d9/yVgIFfsS7RzxBYWkVxxI16v1onggZPdze13u7k+2U6476CSrzNk4gx5jWVAz88wxMqzTtp243rBaPzJMizQxH0uCJPu8CyXuJH2UcUtqVoqGcgCQQadGP7yfBk4E35IOmJOLSm5uf7Jkaa6UCukgtIHN8OYiidk8LJK4r45m11oh2+/uuBQRfezzWRIdu1+17+Z77B/BfhXzVfxjNXdplW8oouIcXQHcuf3lEdp1eafkUBo3WyiIXE/AgYNp/9yu/z8D8hdv2CGTAWRFWOoNTrgCeTQpPygPIxEqtgqeZGnsloSkRTGEBYIR4P+BBrkAGm4iz2BwHCGoifcBxwpRcatgWs73SuIhDZbP5mHZLxBJKK5/V9RQeZdIB8cSCEXx5kWg5CJviI3cFumTJxXCbWExmGgmoLy6/vTPdUSyIE2i7izp5o99ClLSYeJpGDBXaf3iGshwvT8ZOU+3RQAP8VM1YPVgH0giEeSDGB4l/qoNljm75j5ydQzjHmw==;7f1hjIb8y0aebxFZR1k+Wg=="
 ---

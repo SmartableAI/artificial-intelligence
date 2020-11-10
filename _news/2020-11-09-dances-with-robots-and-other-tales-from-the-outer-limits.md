@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dances With Robots, and Other Tales From the Outer Limits"
-    excerpt: "Artificial intelligence and dance may seem like strange bedfellows, but artists and engineers are using technology to expand the possible."
-    publishedDateTime: 2020-11-05T15:04:00Z
-    webUrl: "https://www.nytimes.com/2020/11/05/arts/dance/dance-and-artificial-intelligence.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/05/arts/dance/dance-and-artificial-intelligence.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/05/arts/dance/dance-and-artificial-intelligence.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 89
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/08/arts/01artificial-dance-1/01artificial-dance-1-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "Dances with robots, and other tales from the outer limits"
     excerpt: "The working assumption for most of history has been that dance is a thing done by and for humans. Yet it does not seem beyond the pale that robots will one day perform for us mortals, particularly when choreographers like Cuan are using technology to explore the outer limits of the art form."
     publishedDateTime: 2020-11-08T13:17:00Z

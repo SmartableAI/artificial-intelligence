@@ -7,7 +7,7 @@ originalUrl: "https://www.businesspost.ie/commercial-reports/ai-a-perfect-fit-fo
 webUrl: "https://www.businesspost.ie/commercial-reports/ai-a-perfect-fit-for-financial-services-cf7e2f87"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 647
     height: 340
     isCached: true
+
+related:
+  - title: "AI, a bane for traditional financial services, a boon for fintech: Capgemini report"
+    excerpt: "Covid-19 has catalysed financial services organisations to harness Artificial Intelligence (AI) to improve customer experience (CX), says a report published by the Capgemini Research Institute. However,"
+    publishedDateTime: 2020-11-10T05:22:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/ai-a-bane-for-traditional-financial-services-a-boon-for-fintech-capgemini-report/article33063906.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/ai-a-bane-for-traditional-financial-services-a-boon-for-fintech-capgemini-report/article33063906.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ai-a-bane-for-traditional-financial-services-a-boon-for-fintech-capgemini-report/article33063906.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 53
+    images:
+      - url: "https://www.thehindubusinessline.com/info-tech/1y1q1h/article33063905.ece/ALTERNATES/LANDSCAPE_615/AI"
+        width: 615
+        height: 384
+        isCached: true
 
 secured: "xapaVb38hRDIxk78n4tdwd13oHituZJ1Qc9eVAum8OqIF+tHIM3m8OOZ3a+nzI//SHVUaDQMNc6tMm866R1Xp/g5md3OgyZlktwe163wOkfpYiDHbSG3W4ReoJIkhHnosgOXlc21QWuojEN/qGiI6CFQdB3L8lLiPmDr71IQ6uZ0JITHxZxSLswPVkJnPsvNyVfkeaCHmj/NeaDugYysJMN5/wvRmflKwnsdkKQ8JXMh2t7/ZgSOioM8S6wnaOsekuL0bzZWDjezXSRnM9ZzhHEjo6I1vu/Mp/Ya1EGrINq5LkDMb/3PGSoYQXCDKDvRzjx12KfFVt1BWySVcWpcvDZ4lyAmMS5BAVQt9a+wBOQ=;U8q+lbCUgmjuI+QT7vx38g=="
 ---

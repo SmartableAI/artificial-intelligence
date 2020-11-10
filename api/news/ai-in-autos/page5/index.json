@@ -2,6 +2,178 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-05-vcs-say-aurora-and-tusimple-are-among-the-self-driving-startups-best-poised-to-become-the-next-waymo.md",
+      "title": "VCs say Aurora and TuSimple are among the self-driving startups best poised to become the next Waymo",
+      "excerpt": "Good Subscriber Account active since DOW S&P 500 NASDAQ 100 Self-driving taxis have taken longer to reach widespread adoption than experts predicted during the 2010s. That may be why venture ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/self-driving-car-startups-next-waymo-2020-10",
+      "originalUrl": "https://www.businessinsider.com/self-driving-car-startups-next-waymo-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f775bf70ab50d00184addff?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-04-bjarke-ingels-is-designing-an-artificial-intelligence-based-smart-city-in-china.md",
+      "title": "Bjarke Ingels Is Designing an Artificial Intelligence-Based ‘Smart City’ in China",
+      "excerpt": "As expected, AI CITY will be replete with the latest e-bikes, self-driving cars and robotic ... companies aim to advance the future of artificial intelligence and robotics and build foundations ...",
+      "sourceUrl": null,
+      "webUrl": "https://robbreport.com/shelter/art-collectibles/bjarke-ingels-group-designs-ai-city-china-1234572192/",
+      "originalUrl": "https://robbreport.com/shelter/art-collectibles/bjarke-ingels-group-designs-ai-city-china-1234572192/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://robbreport.com/wp-content/uploads/2020/09/BIG-AI-CITY-01.jpg?w=1000",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://robbreport.com/shelter/art-collectibles/bjarke-ingels-group-designs-ai-city-china-1234572192/amp/",
+      "cdnAmpWebUrl": "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/shelter/art-collectibles/bjarke-ingels-group-designs-ai-city-china-1234572192/amp/",
+      "publishedDateTime": "2020-10-04T02:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robb Report",
+        "domain": "robbreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-03-parkland-parents-create-ai-video-of-slain-son-to-spur-voters.md",
+      "title": "Parkland parents create AI video of slain son to spur voters",
+      "excerpt": "This computer-generated image, taken from video created through artificial intelligence, released by Change The Ref/McCann Health, shows a depiction of Joaquin Oliver, a teenager killed in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kentucky.com/news/business/technology/article246174850.html",
+      "originalUrl": "https://www.kentucky.com/news/business/technology/article246174850.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.kentucky.com/news/business/technology/article246174850.html",
+      "cdnAmpWebUrl": "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/technology/article246174850.html",
+      "publishedDateTime": "2020-10-02T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lexington Herald Leader",
+        "domain": "kentucky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-big-plans-artificial-intelligence-run-city-campus-in-china.md",
+      "title": "BIG plans artificial intelligence-run city campus in China",
+      "excerpt": "BIG has drawn up the plans for smart service specialists Terminus Group, which will have its headquarters at the centre of the artificial intelligence ... e-bikes and self-driving cars to cut ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dezeen.com/2020/10/02/big-bjarke-ingels-ai-city-beijing-terminus-group-news/",
+      "originalUrl": "https://www.dezeen.com/2020/10/02/big-bjarke-ingels-ai-city-beijing-terminus-group-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.dezeen.com/uploads/2020/10/terminus-group-bjarke-ingels-big-ai-city-china-architecture-news_dezeen_2364_hero-b-852x479.jpg",
+          "width": 852,
+          "height": 479,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dezeen.com/2020/10/02/big-bjarke-ingels-ai-city-beijing-terminus-group-news/amp/",
+      "cdnAmpWebUrl": "https://www-dezeen-com.cdn.ampproject.org/c/s/www.dezeen.com/2020/10/02/big-bjarke-ingels-ai-city-beijing-terminus-group-news/amp/",
+      "publishedDateTime": "2020-10-02T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dezeen",
+        "domain": "dezeen.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-getting-started-with-aws-deepracer-community-races.md",
       "title": "Getting started with AWS DeepRacer community races",
       "excerpt": "AWS DeepRacer allows you to get hands-on with machine learning (ML) through a fully autonomous 1/18th scale race car driven by reinforcement learning, a 3D racing simulator on the AWS DeepRacer console, a global racing league, and hundreds of customer-initiated community races. With AWS DeepRacer community",

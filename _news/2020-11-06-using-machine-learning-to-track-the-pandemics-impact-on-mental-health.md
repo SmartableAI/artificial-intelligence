@@ -25,17 +25,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Using machine learning to track the pandemic's impact on mental health"
-    excerpt: "Dealing with a global pandemic has taken a toll on the mental health of millions of people. A team of MIT and Harvard University researchers has shown that they can measure those effects by analyzing the language that people use to express their anxiety online."
-    publishedDateTime: 2020-11-05T14:31:00Z
-    webUrl: "https://medicalxpress.com/news/2020-11-machine-track-pandemic-impact-mental.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 21
-
 secured: "OcnT2lIxAK1ZWItu9SP95Wc7q3TMV0cPtEydOnzEIK8ENAswEF40OZX1DGGJRqzFwkGbNHWQFTJib/jOuz4nIrwm7hQdvIQ6368vUyCYHIBQWdD3GLDqAbSP4fd9wiBKFlA25aubp2Qyj9X5/DqjpiXH/f8rbfgDiOnz79o0ehnqUjGDYmDSFYIV8V0WN+yt51/M8FOM9zlhvBAXbAXsB7RoUi9DNe9Ob2Il7emtrtdF9BfdDOY82aN+FkryvgmPnWgCZA++pRzBGUlI6AM2AxwReszuQnwbtZfChJXIPPfEc8XHktvKZOFnyDpvZ5JwveTOySBFqMyCXvdsCknvChzNfPn9QIHcMweZWlOZC34=;mQqvrWlW69ONgMNunFZZjQ=="
 ---
 

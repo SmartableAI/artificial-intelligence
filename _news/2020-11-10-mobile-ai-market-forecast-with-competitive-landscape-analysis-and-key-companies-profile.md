@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/mobile-ai-market-forecas
 webUrl: "https://www.marketwatch.com/press-release/mobile-ai-market-forecast-with-competitive-landscape-analysis-and-key-companies-profile-2020-11-09"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: MarketWatch
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Automotive Market Size- Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
+    excerpt: "Selbyville, Delaware Global Artificial Intelligence in Automotive Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Artificial Intelligence in Automotive Market Report also covers top key players,"
+    publishedDateTime: 2020-11-10T06:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-size--detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2020-11-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Voice Assistant Market 2020 Industry Outlook, Key Players, Segmentation Analysis, Business Growth and Forecast to 2025"
     excerpt: "Global Voice Assistant Market 2020 by Company, Regions, Type and Application, Forecast to 2025 is a conclusive source of information that encapsulates vital details about the market flow as well as future status during the mentioned forecast period of 2025."
     publishedDateTime: 2020-11-09T04:58:00Z

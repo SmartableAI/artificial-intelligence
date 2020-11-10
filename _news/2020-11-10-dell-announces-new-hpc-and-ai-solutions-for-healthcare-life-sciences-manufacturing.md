@@ -55,20 +55,6 @@ related:
         width: 703
         height: 497
         isCached: true
-  - title: "Logiq Completes Acquisition of Fixel AI, Leader in AI-Powered Digital Marketing Technology"
-    excerpt: "(OTCQX: LGIQ), a global provider of award-winning eCommerce and Fintech solutions, has completed its previously announced plan to acquire F ixel AI, an award-winning innovator of AI-powered digital marketing technology."
-    publishedDateTime: 2020-11-05T13:31:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-apple-inc-virus-outbreak-technology-issues-875f0d1977c96e4ac08fab587cf0c33d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 46
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "Ore4mycOhg2d+4BUc2b5Ms0mBq0GwOjQrnt0WM4dSHvRlDtE5uUjuzSPaRY4+092n1Ic/dK/qbhs9uRf9nZfxFXQfUBaPJBf26diwql0fyT6gPUl5J23YCWWHGeTltUshpGLNeVRJRZiRPLXxPmLAcRTrsd1SKqjl0avSZTFvI6yfjeufMvrkcerm9grYFtEC1yvX7jlcJzdFXN4LpewIbBUelK8Lyamu1J2xyu9695lKI5fLtESVaFr0aW+pWJZtnoKT2Bk8FKTvmq/rLFyi43Ge9W8bMvhP+xrTLL60Z3Pjs1cONEkXp/QoJlYsmjvqsPDkUvCl7CEf/JQdtH8JXAONWU/ii0UW8ZxIOTaTtQ=;YwX2zsGU07sjSx07fXt4YQ=="
 ---

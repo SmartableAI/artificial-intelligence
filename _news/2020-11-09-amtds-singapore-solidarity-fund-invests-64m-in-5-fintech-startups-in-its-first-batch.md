@@ -53,6 +53,22 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "5 fintech opportunities for entrepreneurs beyond 2020"
+    excerpt: "The fintech sector is undergoing a complete digital makeover by leveraging sophisticated new-age tech to cater to increasingly tech-savvy users resulting in a superior customer experience."
+    publishedDateTime: 2020-11-10T05:15:00Z
+    webUrl: "https://yourstory.com/2020/10/fintech-opportunities-entrepreneurs-beyond-2020"
+    ampWebUrl: "https://yourstory.com/2020/10/fintech-opportunities-entrepreneurs-beyond-2020/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/10/fintech-opportunities-entrepreneurs-beyond-2020/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 44
+    images:
+      - url: "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/Fintech-1599488865962-1603437196437.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
   - title: "BankOnUs launches app to support fintech firms"
     excerpt: "BankOnUS, a leading financial services aggregator in the UAE, has launched a new generation technology-oriented app to enhance the customer engagement level and enable easy, reliable and cost-effective financial solutions to its customers."
     publishedDateTime: 2020-11-05T23:44:00Z
@@ -89,6 +105,15 @@ related:
         width: 660
         height: 371
         isCached: true
+  - title: "AMTD’s Singapore Solidarity Fund invests $6.4m in 5 fintech startups in its first batch"
+    excerpt: "in five fintech companies. The fund is under the AMTD Group, a financial services conglomerate with businesses in investment banking, asset management, and digital financial solutions. The five companies the find has invested in specialize in AI ..."
+    publishedDateTime: 2020-11-10T06:48:00Z
+    webUrl: "https://www.techinasia.com/amtd-singapore-solidarity-invests-64m-5-fintech-startups-first-batch?ref=recommender-661751"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 26
   - title: "Fintech agrees deal for refurbished office landmark"
     excerpt: "An expanding fintech company is moving to the newly-refurbished Hodge House office building in Cardiff city centre. The move follows an announcement last month that listed AI"
     publishedDateTime: 2020-11-06T12:08:00Z
@@ -117,15 +142,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "The Game-changing FinTech Company You Need to Know About"
-    excerpt: "Back in June, we introduced our Stockhouse investor audience to an emerging FinTech giant and took a deep dive into how this Canadian company is on the forefront of developing artificial intelligence (AI) that transforms data into knowledge."
-    publishedDateTime: 2020-11-05T14:28:00Z
-    webUrl: "https://stockhouse.com/opinion/interviews/2020/11/05/the-game-changing-fintech-company-you-need-to-know-about"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 4
   - title: "5 Top performing FinTech companies in the United States"
     excerpt: "FinTech is a portmanteau of the terms “finance” and “technology”. The article reveals the top performing 5 Fintech companies in the U.S."
     publishedDateTime: 2020-11-06T11:18:00Z
