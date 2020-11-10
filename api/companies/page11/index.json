@@ -4,48 +4,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_companies/twilio.md",
-      "title": "Twilio",
-      "excerpt": "More than 2 million developers around the world have used Twilio to unlock the magic of communications to improve any human experience. Twilio has democratized communications channels like voice, text, chat, and video by virtualizing the world’s telecommunications infrastructure through APIs that are simple enough for any developer to use, yet robust enough to power the world’s most demanding applications. By making communications a part of every software developer's toolkit, Twilio is enabling innovators across every industry — from emerging leaders to the world’s largest organizations — to reinvent how companies engage with their customers.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/twilio/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/twilio/",
-      "type": "profile",
-      "name": "Twilio",
-      "overview": "More than 2 million developers around the world have used Twilio to unlock the magic of communications to improve any human experience. Twilio has democratized communications channels like voice, text, chat, and video by virtualizing the world’s telecommunications infrastructure through APIs that are simple enough for any developer to use, yet robust enough to power the world’s most demanding applications. By making communications a part of every software developer's toolkit, Twilio is enabling innovators across every industry — from emerging leaders to the world’s largest organizations — to reinvent how companies engage with their customers.",
-      "website": "https://www.twilio.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/twilio-inc-/",
-        "followers": 64799
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/twilio"
-      },
-      "twitter": {
-        "username": "twilio",
-        "url": "https://twitter.com/twilio",
-        "followers": 75378
-      },
-      "size": "1,001-5,000 employees",
-      "yearFounded": 2008,
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "topics": [
-        "AI"
-      ],
-      "heat": 18,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1294290448987623425/btVlF6Ar_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Twilio",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/uptake.md",
       "title": "Uptake Technologies",
       "excerpt": "Put your data to work. |  @WEF Technology Pioneer & 3x @CNBC #Disruptor50",
@@ -158,7 +116,7 @@
       "twitter": {
         "username": "babylonhealth",
         "url": "https://twitter.com/babylonhealth",
-        "followers": 12403
+        "followers": 12404
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -186,6 +144,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/chorus.ai.md",
+      "title": "Chorus.ai",
+      "excerpt": "Chorus.ai is an AI conversation intelligence cloud platform for sales team that can transform conversations into data and insights.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/chorus.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/chorus.ai/",
+      "type": "profile",
+      "name": "Chorus.ai",
+      "overview": "Chorus.ai is an AI conversation intelligence cloud platform for sales team that can transform conversations into data and insights.",
+      "website": "https://www.chorus.ai/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/chorus-ai"
+      },
+      "twitter": {
+        "username": "chorus_ai",
+        "url": "https://twitter.com/chorus_ai",
+        "followers": 6810
+      },
+      "yearFounded": 0,
+      "locations": [
+        "San Francisco and Tel Aviv"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ],
+      "heat": 3,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1275421448807624704/YLghymIH_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Chorus.ai",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/skydio.md",
       "title": "Skydio",
       "excerpt": "Slyce is the leader in #visualsearch and image recognition technology. We help brands and retailers make game-changing mobile apps. Visit our site for a demo!",
@@ -205,7 +201,7 @@
       "twitter": {
         "username": "SkydioHQ",
         "url": "https://twitter.com/SkydioHQ",
-        "followers": 9371
+        "followers": 9372
       },
       "size": "51-200 employees",
       "yearFounded": 2014,
@@ -257,7 +253,7 @@
       "twitter": {
         "username": "sbreurope",
         "url": "https://twitter.com/sbreurope",
-        "followers": 16509
+        "followers": 16510
       },
       "yearFounded": 0,
       "locations": [
@@ -323,6 +319,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/activecampaign.md",
+      "title": "ActiveCampaign",
+      "excerpt": "ActiveCampaign is the Customer Experience Automation (CXA) category leader.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/activecampaign/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/activecampaign/",
+      "type": "profile",
+      "name": "ActiveCampaign",
+      "overview": "ActiveCampaign is the Customer Experience Automation (CXA) category leader.",
+      "website": "https://www.activecampaign.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/activecampaign"
+      },
+      "twitter": {
+        "username": "ActiveCampaign",
+        "url": "https://twitter.com/ActiveCampaign",
+        "followers": 10689
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Chicago, IL"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ],
+      "heat": 0,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1148237111012843521/qZNppe_4_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "ActiveCampaign",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/anki.md",
       "title": "Anki",
       "excerpt": "Anki is a leading consumer robotics company, founded by three Carnegie Mellon Robotics Institute graduates. We’re building on decades of scientific research to make artificial intelligence accessible to everyone. We are dedicated to creating unique consumer products that people would not expect to be possible, powered by robotics and AI.",
@@ -342,7 +376,7 @@
       "twitter": {
         "username": "anki",
         "url": "https://twitter.com/anki",
-        "followers": 26876
+        "followers": 26875
       },
       "size": "51-200 employees",
       "yearFounded": 2010,
@@ -381,44 +415,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/anomali.md",
-      "title": "Anomali",
-      "excerpt": "Anomali delivers earlier detection and identification of adversaries in your organizations network.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/anomali/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/anomali/",
-      "type": "profile",
-      "name": "Anomali",
-      "overview": "Anomali delivers earlier detection and identification of adversaries in your organizations network.",
-      "website": "https://www.anomli.com",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/threatstream"
-      },
-      "twitter": {
-        "username": "Anomali",
-        "url": "https://twitter.com/Anomali",
-        "followers": 8695
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Redwood City, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ],
-      "heat": 0,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/704208076216233984/GCReHMVS_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Anomali",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/chumenwenwen.md",
       "title": "Mobvoi",
       "excerpt": "Healthcare Enterprise Analytics Platform powering healthy lives and better care by unlocking actionable insights from all the world’s healthcare data",
@@ -445,7 +441,7 @@
       "twitter": {
         "username": "Mobvoi_Official",
         "url": "https://twitter.com/Mobvoi_Official",
-        "followers": 51408
+        "followers": 51404
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -610,7 +606,7 @@
       "twitter": {
         "username": "Dialogflow",
         "url": "https://twitter.com/Dialogflow",
-        "followers": 11982
+        "followers": 11983
       },
       "size": "11-50 employees",
       "yearFounded": 2010,
@@ -662,7 +658,7 @@
       "twitter": {
         "username": "grammarly",
         "url": "https://twitter.com/grammarly",
-        "followers": 186843
+        "followers": 186856
       },
       "size": "201-500 employees",
       "yearFounded": 2009,
@@ -767,7 +763,7 @@
       "twitter": {
         "username": "iRobot",
         "url": "https://twitter.com/iRobot",
-        "followers": 38219
+        "followers": 38223
       },
       "size": "501-1,000 employees",
       "yearFounded": 1990,
@@ -814,7 +810,7 @@
       "twitter": {
         "username": "KabbageInc",
         "url": "https://twitter.com/KabbageInc",
-        "followers": 27416
+        "followers": 27412
       },
       "size": "501-1,000 employees",
       "yearFounded": 2009,
@@ -872,7 +868,7 @@
       "twitter": {
         "username": "kadaxis",
         "url": "https://twitter.com/kadaxis",
-        "followers": 29701
+        "followers": 29704
       },
       "size": "2-10 employees",
       "yearFounded": 2013,
@@ -979,7 +975,7 @@
       "twitter": {
         "username": "Knewton",
         "url": "https://twitter.com/Knewton",
-        "followers": 14751
+        "followers": 14750
       },
       "yearFounded": 0,
       "locations": [
@@ -1027,7 +1023,7 @@
       "twitter": {
         "username": "getnarrative",
         "url": "https://twitter.com/getnarrative",
-        "followers": 24348
+        "followers": 24346
       },
       "size": "11-50 employees",
       "yearFounded": 2012,
@@ -1133,7 +1129,7 @@
       "twitter": {
         "username": "salesforce",
         "url": "https://twitter.com/salesforce",
-        "followers": 523821
+        "followers": 523838
       },
       "size": "10,001+ employees",
       "yearFounded": 1999,

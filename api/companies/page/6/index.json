@@ -4,47 +4,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_companies/haut.ai.md",
-      "title": "Haut.AI",
-      "excerpt": "Haut.AI is an Estonian startup developing AI algorithms for recognition of skin pathologies. Our developments are based on the algorithms of computer vision and machine learning including deep learning.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/haut.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/haut.ai/",
-      "type": "profile",
-      "name": "Haut.AI",
-      "otherNames": [
-        "HautAI"
-      ],
-      "overview": "Haut.AI is an Estonian startup developing AI algorithms for recognition of skin pathologies. Our developments are based on the algorithms of computer vision and machine learning including deep learning.",
-      "website": "https://www.haut.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/hautai/",
-        "followers": 75
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/haut-ai"
-      },
-      "size": "2-10 employees",
-      "yearFounded": 2018,
-      "locations": [
-        "Tallinn, Kesklinna linnaosa"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHYuBzqN910hw/company-logo_200_200/0?e=1594857600&v=beta&t=PaPJS_YRkaES-G8ZldABvD4ip9R-a9iPMcvebuJSnAM",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/hibrainy.md",
       "title": "HiBrainy",
       "excerpt": "HiBrainy is a French AI company supported by StationF providing Full-AI technologies include",
@@ -301,7 +260,7 @@
       "twitter": {
         "username": "KenSci",
         "url": "https://twitter.com/KenSci",
-        "followers": 1519
+        "followers": 1520
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -610,7 +569,7 @@
       "twitter": {
         "username": "leapmind_inc",
         "url": "https://twitter.com/leapmind_inc",
-        "followers": 874
+        "followers": 873
       },
       "size": "51-200 employees",
       "yearFounded": 2012,
@@ -764,7 +723,7 @@
       "twitter": {
         "username": "lingochamp",
         "url": "https://twitter.com/lingochamp",
-        "followers": 194
+        "followers": 195
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2012,
@@ -1488,6 +1447,62 @@
       "images": [
         {
           "url": "https://media-exp1.licdn.com/dms/image/C560BAQH_AhIXI9JVnA/company-logo_200_200/0?e=1594857600&v=beta&t=dKNMNCBXLzYmywhm0DxDHcVDhVYnAKR3mqciYu5zfNM",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/parashift.io.md",
+      "title": "Parashift AG",
+      "excerpt": "Accelerating paradigm shifts in the financial industry by leveraging new technologies.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/parashift.io/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/parashift.io/",
+      "type": "profile",
+      "name": "Parashift AG",
+      "overview": "Accelerating paradigm shifts in the financial industry by leveraging new technologies.",
+      "website": "https://parashift.io/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/parashiftag/",
+        "followers": 376
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/parashift-ag"
+      },
+      "twitter": {
+        "username": "parashift_ai",
+        "url": "https://twitter.com/parashift_ai",
+        "followers": 115
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2018,
+      "locations": [
+        "Sissach, Baselland"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ],
+      "heat": 50,
+      "tags": [
+        "FinTech"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1210138673569837056/mmkNyiRi_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Parashift AG",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEJPRXWlGJWVg/company-logo_200_200/0?e=1594857600&v=beta&t=HFzrPP5_28l7Nt45o9MAL0zt870NxVkzcx6TRXFeKLs",
           "width": 400,
           "height": 400,
           "title": "logo",

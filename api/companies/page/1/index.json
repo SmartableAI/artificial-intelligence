@@ -26,7 +26,7 @@
       "twitter": {
         "username": "tesla",
         "url": "https://twitter.com/tesla",
-        "followers": 6467769
+        "followers": 6468258
       },
       "size": "10,001+ employees",
       "yearFounded": 2003,
@@ -82,7 +82,7 @@
       "twitter": {
         "username": "Microsoft",
         "url": "https://twitter.com/Microsoft",
-        "followers": 9099670
+        "followers": 9099809
       },
       "size": "10,001+ employees",
       "yearFounded": 1975,
@@ -264,7 +264,7 @@
       "twitter": {
         "username": "amazon",
         "url": "https://twitter.com/amazon",
-        "followers": 3435310
+        "followers": 3435507
       },
       "size": "10,001+ employees",
       "yearFounded": 1994,
@@ -310,7 +310,7 @@
       "twitter": {
         "username": "appannie",
         "url": "https://twitter.com/appannie",
-        "followers": 51650
+        "followers": 51690
       },
       "yearFounded": 0,
       "locations": [
@@ -320,7 +320,7 @@
         "AI",
         "AI in Marketing"
       ],
-      "heat": 387,
+      "heat": 378,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1177115933573177345/SkCJEIH6_400x400.jpg",
@@ -352,7 +352,7 @@
       "twitter": {
         "username": "GoogleAI",
         "url": "https://twitter.com/GoogleAI",
-        "followers": 1540939
+        "followers": 1540979
       },
       "size": "10,001+ employees",
       "yearFounded": 1998,
@@ -398,7 +398,7 @@
       "twitter": {
         "username": "OpenAI",
         "url": "https://twitter.com/OpenAI",
-        "followers": 483910
+        "followers": 483923
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -447,7 +447,7 @@
       "twitter": {
         "username": "facebookai",
         "url": "https://twitter.com/facebookai",
-        "followers": 99639
+        "followers": 99649
       },
       "size": "10,001+ employees",
       "yearFounded": 2004,
@@ -500,7 +500,7 @@
       "twitter": {
         "username": "deeplearningai_",
         "url": "https://twitter.com/deeplearningai_",
-        "followers": 48189
+        "followers": 48188
       },
       "size": "11-50 employees",
       "yearFounded": 2017,
@@ -552,7 +552,7 @@
       "twitter": {
         "username": "ubtechrobotics",
         "url": "https://twitter.com/ubtechrobotics",
-        "followers": 75699
+        "followers": 75697
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -611,7 +611,7 @@
       "twitter": {
         "username": "tencentglobal",
         "url": "https://twitter.com/tencentglobal",
-        "followers": 21013
+        "followers": 21018
       },
       "size": "10,001+ employees",
       "yearFounded": 1998,
@@ -649,7 +649,7 @@
       "twitter": {
         "username": "Uber",
         "url": "https://twitter.com/Uber",
-        "followers": 1048192
+        "followers": 1048203
       },
       "yearFounded": 0,
       "locations": [
@@ -691,7 +691,7 @@
       "twitter": {
         "username": "anacondainc",
         "url": "https://twitter.com/anacondainc",
-        "followers": 57198
+        "followers": 57204
       },
       "size": "51-200 employees",
       "yearFounded": 2012,
@@ -748,7 +748,7 @@
       "twitter": {
         "username": "huggingface",
         "url": "https://twitter.com/huggingface",
-        "followers": 31535
+        "followers": 31539
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -780,44 +780,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/zscaler.md",
-      "title": "Zscaler",
-      "excerpt": "Secure, simplify, and transform IT with the world's largest cloud security platform. Join us at #ZenithLive: https://t.co/BABEthjTgO 🚀",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/zscaler/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/zscaler/",
-      "type": "profile",
-      "name": "Zscaler",
-      "overview": "Secure, simplify, and transform IT with the world's largest cloud security platform. Join us at #ZenithLive: https://t.co/BABEthjTgO 🚀",
-      "website": "https://www.zscaler.com",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/zscaler"
-      },
-      "twitter": {
-        "username": "zscaler",
-        "url": "https://twitter.com/zscaler",
-        "followers": 8682
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Jose, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ],
-      "heat": 179,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/926547845867454465/yHExar4j_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Zscaler",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/zoox.md",
       "title": "Zoox",
       "excerpt": "Zoox is transforming mobility-as-a-service by developing a fully autonomous, purpose-built fleet designed for AI to drive and humans to enjoy.",
@@ -837,7 +799,7 @@
       "twitter": {
         "username": "zoox",
         "url": "https://twitter.com/zoox",
-        "followers": 12327
+        "followers": 12330
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2014,
@@ -944,7 +906,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 63560
+        "followers": 63564
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -1158,7 +1120,7 @@
             "AI",
             "AI in Marketing"
           ],
-          "heat": 387,
+          "heat": 378,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1177115933573177345/SkCJEIH6_400x400.jpg",
@@ -1260,7 +1222,7 @@
       "twitter": {
         "username": "rev",
         "url": "https://twitter.com/rev",
-        "followers": 8072
+        "followers": 8073
       },
       "size": "51-200 employees",
       "yearFounded": 2010,
@@ -1309,7 +1271,7 @@
       "twitter": {
         "username": "deeplcom",
         "url": "https://twitter.com/deeplcom",
-        "followers": 8434
+        "followers": 8433
       },
       "yearFounded": 0,
       "locations": [
@@ -1362,7 +1324,7 @@
       "twitter": {
         "username": "Affirm",
         "url": "https://twitter.com/Affirm",
-        "followers": 8426
+        "followers": 8425
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -1421,7 +1383,7 @@
       "twitter": {
         "username": "capitalcom",
         "url": "https://twitter.com/capitalcom",
-        "followers": 8909
+        "followers": 8908
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -1517,6 +1479,44 @@
           "height": 400,
           "title": "logo",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/zscaler.md",
+      "title": "Zscaler",
+      "excerpt": "Secure, simplify, and transform IT with the world's largest cloud security platform. Join us at #ZenithLive: https://t.co/BABEthjTgO 🚀",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/zscaler/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/zscaler/",
+      "type": "profile",
+      "name": "Zscaler",
+      "overview": "Secure, simplify, and transform IT with the world's largest cloud security platform. Join us at #ZenithLive: https://t.co/BABEthjTgO 🚀",
+      "website": "https://www.zscaler.com",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/zscaler"
+      },
+      "twitter": {
+        "username": "zscaler",
+        "url": "https://twitter.com/zscaler",
+        "followers": 8684
+      },
+      "yearFounded": 0,
+      "locations": [
+        "San Jose, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ],
+      "heat": 121,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/926547845867454465/yHExar4j_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Zscaler",
+          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -1655,7 +1655,7 @@
       "twitter": {
         "username": "fetchrobotics",
         "url": "https://twitter.com/fetchrobotics",
-        "followers": 6842
+        "followers": 6843
       },
       "size": "51-200 employees",
       "yearFounded": 2014,
@@ -1709,7 +1709,7 @@
       "twitter": {
         "username": "aurora_inno",
         "url": "https://twitter.com/aurora_inno",
-        "followers": 6629
+        "followers": 6630
       },
       "size": "201-500 employees",
       "yearFounded": 2016,

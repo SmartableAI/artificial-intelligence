@@ -115,6 +115,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/tanium.md",
+      "title": "Tanium",
+      "excerpt": "Tanium is a security and systems management platform allowing real-time data collection at an enterprise scale.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/tanium/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/tanium/",
+      "type": "profile",
+      "name": "Tanium",
+      "overview": "Tanium is a security and systems management platform allowing real-time data collection at an enterprise scale.",
+      "website": "https://www.tanium.com",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/tanium"
+      },
+      "twitter": {
+        "username": "Tanium",
+        "url": "https://twitter.com/Tanium",
+        "followers": 6025
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Emeryville, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ],
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1218160793985994752/-QgLVWsS_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Tanium",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/collections/ai-companies-founded-in-2017.md",
       "title": "AI Companies founded in 2017",
       "excerpt": "Here is a list of AI companies founded in 2017.",
@@ -821,6 +859,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/actioniq.md",
+      "title": "ActionIQ",
+      "excerpt": "ActionIQ is a purpose-built enterprise Customer Data Platform solving complex data problems: flow and scale, analytics, and orchestration.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/actioniq/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/actioniq/",
+      "type": "profile",
+      "name": "ActionIQ",
+      "overview": "ActionIQ is a purpose-built enterprise Customer Data Platform solving complex data problems: flow and scale, analytics, and orchestration.",
+      "website": "https://www.actioniq.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/actioniq"
+      },
+      "twitter": {
+        "username": "ActionIQinc",
+        "url": "https://twitter.com/ActionIQinc",
+        "followers": 1078
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1308162295256809475/DaNzK3jh_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "ActionIQ",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/ada.md",
       "title": "Ada Health",
       "excerpt": "Ada is a global health company founded by doctors, scientists, and industry pioneers to create new possibilities for personal health. Ada’s core system connects medical knowledge with intelligent technology to help all people actively manage their health and medical professionals to deliver effective care. Ada is proud to collaborate with leading health systems and global non-profit organizations to carry out this vision. The #1 medical app for 140 countries, 15 million assessments have been completed since its global launch in 2016.",
@@ -840,7 +916,7 @@
       "twitter": {
         "username": "adahealth",
         "url": "https://twitter.com/adahealth",
-        "followers": 4178
+        "followers": 4179
       },
       "size": "201-500 employees",
       "yearFounded": 2011,
@@ -950,7 +1026,7 @@
       "twitter": {
         "username": "algolia",
         "url": "https://twitter.com/algolia",
-        "followers": 16372
+        "followers": 16373
       },
       "size": "201-500 employees",
       "yearFounded": 2012,
@@ -1096,6 +1172,44 @@
           "height": 400,
           "title": "logo",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/aviso.md",
+      "title": "Aviso",
+      "excerpt": "Aviso is the AI Compass that guides Sales and Go-to-Market teams to close more deals, accelerate growth, and find their revenue True North",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aviso/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/aviso/",
+      "type": "profile",
+      "name": "Aviso",
+      "overview": "Aviso is the AI Compass that guides Sales and Go-to-Market teams to close more deals, accelerate growth, and find their revenue True North",
+      "website": "https://www.aviso.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/aviso-inc"
+      },
+      "twitter": {
+        "username": "AvisoInc",
+        "url": "https://twitter.com/AvisoInc",
+        "followers": 862
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Redwood City, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1148659795735371776/pV8lUeX3_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Aviso",
+          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -1366,7 +1480,7 @@
       "twitter": {
         "username": "dominodatalab",
         "url": "https://twitter.com/dominodatalab",
-        "followers": 8485
+        "followers": 8482
       },
       "size": "51-200 employees",
       "yearFounded": 2013,
@@ -1584,7 +1698,7 @@
       "twitter": {
         "username": "theirisai",
         "url": "https://twitter.com/theirisai",
-        "followers": 2890
+        "followers": 2888
       },
       "yearFounded": 0,
       "locations": [
@@ -1878,166 +1992,6 @@
           "width": 400,
           "height": 400,
           "title": "Pinpoint",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/preferred-networks.jp.md",
-      "title": "Preferred Networks",
-      "excerpt": "Preferred Networks, Inc. implements Deep Intelligence throughout the Internet to integrate data from the physical and digital worlds.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/preferred-networks.jp/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/preferred-networks.jp/",
-      "type": "profile",
-      "name": "Preferred Networks",
-      "overview": "Preferred Networks, Inc. implements Deep Intelligence throughout the Internet to integrate data from the physical and digital worlds.",
-      "website": "https://www.preferred-networks.jp/en/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/preferred-networks-inc-/",
-        "followers": 1435
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/preferred-networks"
-      },
-      "twitter": {
-        "username": "preferrednet",
-        "url": "https://twitter.com/preferrednet",
-        "followers": 5185
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2014,
-      "locations": [
-        "Tokyo, Japan",
-        "Chiyoda-ku, Tokyo"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=cldaGudHP3I"
-        }
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1268713412269228032/XH38w5wu_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Preferred Networks",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQF6xvtdYzDy6w/company-logo_200_200/0?e=1594857600&v=beta&t=6UJK1UAPD3QqK4LzT-uxdcrjthGhoEt57uNx3ZAn26o",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/proscia.md",
-      "title": "Proscia",
-      "excerpt": "Proscia is fighting cancer with intelligent software that changes the way the world practices pathology. Join us.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/proscia/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/proscia/",
-      "type": "profile",
-      "name": "Proscia",
-      "overview": "Proscia is fighting cancer with intelligent software that changes the way the world practices pathology. Join us.",
-      "website": "https://proscia.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/5216638",
-        "followers": 3526
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/proscia"
-      },
-      "twitter": {
-        "username": "ProsciaInc",
-        "url": "https://twitter.com/ProsciaInc",
-        "followers": 1103
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2014,
-      "locations": [
-        "Philadelphia, PA",
-        "Philadelphia, Pennsylvania"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=8QjxuGXGIAw"
-        }
-      ],
-      "heat": 58,
-      "tags": [
-        "Cancer"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1141330689234735105/tTsjBxrw_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Proscia",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGo4uDxA3T4cA/company-logo_200_200/0?e=1594857600&v=beta&t=CCn89n7RYfKdbqEV2NcxY7T8leno3MhxwfkbaGEs4aU",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/riskident.md",
-      "title": "Risk Ident",
-      "excerpt": "RISK IDENT fights payment fraud, identity theft, account takeovers, and loan application fraud with self-developed anti-fraud solutions.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/riskident/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/riskident/",
-      "type": "profile",
-      "name": "Risk Ident",
-      "overview": "RISK IDENT fights payment fraud, identity theft, account takeovers, and loan application fraud with self-developed anti-fraud solutions.",
-      "website": "https://riskident.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/risk-ident"
-      },
-      "twitter": {
-        "username": "RiskIdent",
-        "url": "https://twitter.com/RiskIdent",
-        "followers": 375
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Hamburg, Germany"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ],
-      "heat": 58,
-      "tags": [
-        "FinTech"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1245226005180157957/66LO2jtY_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Risk Ident",
           "isCached": true
         }
       ],

@@ -133,7 +133,7 @@
       "twitter": {
         "username": "driveai_",
         "url": "https://twitter.com/driveai_",
-        "followers": 9062
+        "followers": 9061
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -288,7 +288,7 @@
       "twitter": {
         "username": "Invoca",
         "url": "https://twitter.com/Invoca",
-        "followers": 4503
+        "followers": 4502
       },
       "size": "201-500 employees",
       "yearFounded": 2008,
@@ -402,7 +402,7 @@
       "twitter": {
         "username": "hippo_insurance",
         "url": "https://twitter.com/hippo_insurance",
-        "followers": 1637
+        "followers": 1638
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -451,7 +451,7 @@
       "twitter": {
         "username": "narrativesci",
         "url": "https://twitter.com/narrativesci",
-        "followers": 7240
+        "followers": 7239
       },
       "size": "51-200 employees",
       "yearFounded": 2010,
@@ -560,7 +560,7 @@
       "twitter": {
         "username": "ppl_ai",
         "url": "https://twitter.com/ppl_ai",
-        "followers": 1448
+        "followers": 1443
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -910,7 +910,7 @@
       "twitter": {
         "username": "verbit_",
         "url": "https://twitter.com/verbit_",
-        "followers": 775
+        "followers": 776
       },
       "size": "51-200 employees",
       "yearFounded": 0,
@@ -941,44 +941,6 @@
           "width": 400,
           "height": 400,
           "title": "Verbit",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/tanium.md",
-      "title": "Tanium",
-      "excerpt": "Tanium is a security and systems management platform allowing real-time data collection at an enterprise scale.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/tanium/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/tanium/",
-      "type": "profile",
-      "name": "Tanium",
-      "overview": "Tanium is a security and systems management platform allowing real-time data collection at an enterprise scale.",
-      "website": "https://www.tanium.com",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/tanium"
-      },
-      "twitter": {
-        "username": "Tanium",
-        "url": "https://twitter.com/Tanium",
-        "followers": 6025
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Emeryville, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ],
-      "heat": 20,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1218160793985994752/-QgLVWsS_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Tanium",
           "isCached": true
         }
       ],
@@ -1291,7 +1253,7 @@
       "twitter": {
         "username": "fundbox",
         "url": "https://twitter.com/fundbox",
-        "followers": 7759
+        "followers": 7758
       },
       "size": "51-200 employees",
       "yearFounded": 2013,
@@ -1347,7 +1309,7 @@
       "twitter": {
         "username": "graphcoreai",
         "url": "https://twitter.com/graphcoreai",
-        "followers": 6208
+        "followers": 6207
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -1467,7 +1429,7 @@
       "twitter": {
         "username": "Matterport",
         "url": "https://twitter.com/Matterport",
-        "followers": 10647
+        "followers": 10646
       },
       "size": "201-500 employees",
       "yearFounded": 2011,
@@ -1517,7 +1479,7 @@
       "twitter": {
         "username": "SentinelOne",
         "url": "https://twitter.com/SentinelOne",
-        "followers": 9826
+        "followers": 9827
       },
       "size": "201-500 employees",
       "yearFounded": 2013,
@@ -1602,6 +1564,48 @@
           "height": 400,
           "title": "logo",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/twilio.md",
+      "title": "Twilio",
+      "excerpt": "More than 2 million developers around the world have used Twilio to unlock the magic of communications to improve any human experience. Twilio has democratized communications channels like voice, text, chat, and video by virtualizing the world’s telecommunications infrastructure through APIs that are simple enough for any developer to use, yet robust enough to power the world’s most demanding applications. By making communications a part of every software developer's toolkit, Twilio is enabling innovators across every industry — from emerging leaders to the world’s largest organizations — to reinvent how companies engage with their customers.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/twilio/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/twilio/",
+      "type": "profile",
+      "name": "Twilio",
+      "overview": "More than 2 million developers around the world have used Twilio to unlock the magic of communications to improve any human experience. Twilio has democratized communications channels like voice, text, chat, and video by virtualizing the world’s telecommunications infrastructure through APIs that are simple enough for any developer to use, yet robust enough to power the world’s most demanding applications. By making communications a part of every software developer's toolkit, Twilio is enabling innovators across every industry — from emerging leaders to the world’s largest organizations — to reinvent how companies engage with their customers.",
+      "website": "https://www.twilio.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/twilio-inc-/",
+        "followers": 64799
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/twilio"
+      },
+      "twitter": {
+        "username": "twilio",
+        "url": "https://twitter.com/twilio",
+        "followers": 75378
+      },
+      "size": "1,001-5,000 employees",
+      "yearFounded": 2008,
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "topics": [
+        "AI"
+      ],
+      "heat": 18,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1294290448987623425/btVlF6Ar_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Twilio",
+          "isCached": true
         }
       ],
       "content": "\r\n"

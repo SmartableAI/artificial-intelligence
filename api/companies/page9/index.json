@@ -4,65 +4,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_companies/marble.io.md",
-      "title": "Marble",
-      "excerpt": "Marble develops and operates robots for autonomous last-mile logistics.  Marble was founded in 2015, is funded by Lemnos Labs, and is located in San Francisco, CA.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/marble.io/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/marble.io/",
-      "type": "profile",
-      "name": "Marble",
-      "overview": "Marble develops and operates robots for autonomous last-mile logistics.  Marble was founded in 2015, is funded by Lemnos Labs, and is located in San Francisco, CA.",
-      "website": "https://www.marble.io/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/marble/",
-        "followers": 1629
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/marble"
-      },
-      "twitter": {
-        "username": "marblerobot",
-        "url": "https://twitter.com/marblerobot",
-        "followers": 400
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=pNpH4G-hoIY"
-        }
-      ],
-      "heat": 41,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1126580049346420736/zS_MFysH_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Marble",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFPTn9geZL7DA/company-logo_200_200/0?e=1594857600&v=beta&t=u_cOwl2JpQy-41n1BqnN6gT6V0_YHPgAu3gSynqh4eY",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/metabiota.md",
       "title": "Metabiota",
       "excerpt": "Metabiota leverages health, science and data analytics to gain actionable insights into human and animal health.",
@@ -177,7 +118,7 @@
       "twitter": {
         "username": "moveworks",
         "url": "https://twitter.com/moveworks",
-        "followers": 2732
+        "followers": 2733
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -479,7 +420,7 @@
       "twitter": {
         "username": "RecursionPharma",
         "url": "https://twitter.com/RecursionPharma",
-        "followers": 3659
+        "followers": 3660
       },
       "size": "51-200 employees",
       "yearFounded": 2013,
@@ -699,7 +640,7 @@
       "twitter": {
         "username": "SignalHQ",
         "url": "https://twitter.com/SignalHQ",
-        "followers": 2476
+        "followers": 2475
       },
       "size": "51-200 employees",
       "yearFounded": 2013,
@@ -1056,6 +997,82 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/tubularlabs.md",
+      "title": "Tubular Labs",
+      "excerpt": "Tubular Labs is the global leader in video intelligence for the cross-platform world.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/tubularlabs/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/tubularlabs/",
+      "type": "profile",
+      "name": "Tubular Labs",
+      "overview": "Tubular Labs is the global leader in video intelligence for the cross-platform world.",
+      "website": "https://www.reflektion.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/tubular-labs"
+      },
+      "twitter": {
+        "username": "TubularLabs",
+        "url": "https://twitter.com/TubularLabs",
+        "followers": 3905
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ],
+      "heat": 41,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1233451560840990720/YnqpuohP_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Tubular Labs",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/vectra.ai.md",
+      "title": "Vectra",
+      "excerpt": "Vectra is a cybersecurity platform that uses AI to detect attackers in real-time and perform conclusive incident investigations.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/vectra.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/vectra.ai/",
+      "type": "profile",
+      "name": "Vectra",
+      "overview": "Vectra is a cybersecurity platform that uses AI to detect attackers in real-time and perform conclusive incident investigations.",
+      "website": "https://vectra.ai",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/vectra-networks"
+      },
+      "twitter": {
+        "username": "Vectra_AI",
+        "url": "https://twitter.com/Vectra_AI",
+        "followers": 2452
+      },
+      "yearFounded": 0,
+      "locations": [
+        "San Jose, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ],
+      "heat": 41,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1314631586483064832/dmGlciU6_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Vectra",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/voicebox.md",
       "title": "VoiceBox Technologies",
       "excerpt": "A pioneer in Natural Language Understanding and #ConversationalAI with roots in #connectedcars, now extending our experience to #IoT #virtualshopping #NLU #AI",
@@ -1212,82 +1229,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/collectivei.md",
-      "title": "Collective[i]",
-      "excerpt": "Collective[i]'s global network and application applies AI and ML to help companies better predict, manage, and grow revenue.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/collectivei/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/collectivei/",
-      "type": "profile",
-      "name": "Collective[i]",
-      "overview": "Collective[i]'s global network and application applies AI and ML to help companies better predict, manage, and grow revenue.",
-      "website": "https://www.collectivei.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/collective-i"
-      },
-      "twitter": {
-        "username": "collectivei",
-        "url": "https://twitter.com/collectivei",
-        "followers": 1119
-      },
-      "yearFounded": 0,
-      "locations": [
-        "New York, NY"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ],
-      "heat": 32,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1267559599135219715/dJd4U-j-_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Collective[i]",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/tubularlabs.md",
-      "title": "Tubular Labs",
-      "excerpt": "Tubular Labs is the global leader in video intelligence for the cross-platform world.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/tubularlabs/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/tubularlabs/",
-      "type": "profile",
-      "name": "Tubular Labs",
-      "overview": "Tubular Labs is the global leader in video intelligence for the cross-platform world.",
-      "website": "https://www.reflektion.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/tubular-labs"
-      },
-      "twitter": {
-        "username": "TubularLabs",
-        "url": "https://twitter.com/TubularLabs",
-        "followers": 3905
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Mountain View, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ],
-      "heat": 32,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1233451560840990720/YnqpuohP_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Tubular Labs",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/alegion.md",
       "title": "Alegion",
       "excerpt": "Alegion has the most powerful and flexible annotation platform for training data in market. It accelerates model development for the most sophisticated and subjective use cases. It uses integrated ML and has unique capabilities like conditional logic, iterative tasks, multi-stage and workflows, that are essential for high quality at scale.",
@@ -1390,6 +1331,44 @@
           "height": 400,
           "title": "logo",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/anomali.md",
+      "title": "Anomali",
+      "excerpt": "Anomali delivers earlier detection and identification of adversaries in your organizations network.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/anomali/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/anomali/",
+      "type": "profile",
+      "name": "Anomali",
+      "overview": "Anomali delivers earlier detection and identification of adversaries in your organizations network.",
+      "website": "https://www.anomli.com",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/threatstream"
+      },
+      "twitter": {
+        "username": "Anomali",
+        "url": "https://twitter.com/Anomali",
+        "followers": 8695
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Redwood City, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ],
+      "heat": 31,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/704208076216233984/GCReHMVS_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Anomali",
+          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -1530,7 +1509,7 @@
       "twitter": {
         "username": "CognitiveScale",
         "url": "https://twitter.com/CognitiveScale",
-        "followers": 4222
+        "followers": 4221
       },
       "size": "51-200 employees",
       "yearFounded": 2013,
