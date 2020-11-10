@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timeslive.co.za/amp/motoring/news/2020-11-10-chip-maker-
 cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/news/2020-11-10-chip-maker-nvidia-signs-deal-with-hyundai-motor/"
 type: article
 quality: 74
-heat: 114
+heat: 115
 published: true
 
 provider:

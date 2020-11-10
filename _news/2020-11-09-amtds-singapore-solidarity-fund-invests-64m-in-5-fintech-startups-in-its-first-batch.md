@@ -3,8 +3,8 @@ category: news
 title: "AMTD’s Singapore Solidarity Fund invests $6.4m in 5 fintech startups in its first batch"
 excerpt: "The evaluation process for a second batch of investments – which aims to support Singapore’s fintech community – is already underway."
 publishedDateTime: 2020-11-09T11:18:00Z
-originalUrl: "https://www.techinasia.com/amtd-singapore-solidarity-invests-64m-5-fintech-startups-first-batch?ref=recommender-661817"
-webUrl: "https://www.techinasia.com/amtd-singapore-solidarity-invests-64m-5-fintech-startups-first-batch?ref=recommender-661817"
+originalUrl: "https://www.techinasia.com/amtd-singapore-solidarity-invests-64m-5-fintech-startups-first-batch?ref=recommender-661917"
+webUrl: "https://www.techinasia.com/amtd-singapore-solidarity-invests-64m-5-fintech-startups-first-batch?ref=recommender-661917"
 type: article
 quality: 26
 heat: -1
@@ -152,6 +152,6 @@ related:
       domain: ibsintelligence.com
     quality: 4
 
-secured: "RVTK3MummOhzEXYjLI2UabtAsxY5tkprXGGzhax6u8dhbwuCFSFTtaHbyr0s8V73k/KwVtGsvDwCBlUL654LpubdEq5YKqmqF8m/6R/EVwlktxA2b2aN2IJUp1EKoILdgQOvT1FeCDUJpNrlJtsXREA3i6YWh7ioN2dxlVU3BH2AGerQAhBF3xrjfb1SrFrY6r0uzWHJe7oUjWrv9QnzWqnyz0bqj9ovT06yYAusGUuhJekP7pebm91JL7NBqKoTbw60uGQuCH9UfDLM6v1EV14BEe7Ba2u4H7q4Mk3T3LHzZy/omKzNtdKFKAN7x9xx1GoUWTdvNAtZqLKWXDwqqITtpDwOGtIGurZTOlSQoFfIdQNq76RBJAbfBG4IB3GG5CwyPFrJ7fEsKx6Enm24zeUIiys/Ou+OVFO/yJU0oAUW1u3ymY6p7DweKd8ouNNFZ1tlM6BL8H96wDMfiGcpf6Lfx3+yxXHvcJAKe1r1xXx+BPu/y41UMLl0zyNU42GBRcQfX2GhH3T8vaovBAii2w==;MMAlnTYwPnBbZWD+7oSSbA=="
+secured: "GkFUqeDwibBHJ1fmU0J6KhiCWB2IBoLTW87RsNKvKdvy9ikzhBWipq6iBaf0EPNxVAgw9a/x4FaJ9tOBy8VvrD2vailO88zkNkeie+1tkbiJ8uOnjmfpyEFBWnHEgvQyrlmf7ps9haUtnP/z13PEQrtRJ5UWMjflHhgszDZWGV5QbfwOZJ5rJy0aQlQFGCc2lVD7syL8qCXCR2jvmChtENnKCAro/Xrn0uWs5gxswShf4fB24qpbLRZPdwNNYFckMijucV0fRjXumyla2L0Z8SDaNBHkurYkI2y72SCRsBb2EmI1wyeDyoL0OkQ/o7sqfjmOGVVG3cdHbzqePs8VXHF0U8a369OwOBwrwNgOtB/nBdl9ArVQ8EdSZWGk7OsRA/HF0CEm+2w6GPWjODcRhXIsAQyU+ga4dbweEYgfyW+hcef8W216SnVlvBy69ElNxd4GNJRQ3orTk9jbvaKMzC4Gs/X78QQAFZoDGFRSoEvQXS7mIc+H/EtA0DvDep72wQ8b9RKdCDa2pVlHG0M9kA==;jeOFqAAobeC72NPcyGLkzA=="
 ---
 

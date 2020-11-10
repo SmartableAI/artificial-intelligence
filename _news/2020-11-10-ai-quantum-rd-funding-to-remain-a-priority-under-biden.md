@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/ai-quantum-r-d-funding-to-remain-a-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-quantum-r-d-funding-to-remain-a-priority-under-biden-11604944800"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

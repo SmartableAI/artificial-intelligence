@@ -9,7 +9,7 @@ ampWebUrl: "https://www.labmanager.com/product-news/optibrium-launches-cerella-a
 cdnAmpWebUrl: "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/product-news/optibrium-launches-cerella-a-novel-artificial-intelligence-platform-for-active-learning-in-drug-discovery-24311/amp"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1482
     height: 742
     isCached: true
-
-related:
-  - title: "Using AI to Accelerate Scientific Discovery"
-    excerpt: "I discuss important questions with some of the most brilliant minds in the world. You can listen to the discussions on my Exponential View podcast, or follow me here on Linkedin to read excerpts from my conversations each week."
-    publishedDateTime: 2020-11-05T17:22:00Z
-    webUrl: "https://www.linkedin.com/pulse/using-ai-accelerate-scientific-discovery-azeem-azhar"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFT5L-ikbR4bQ/article-cover_image-shrink_720_1280/0?e=1609977600&v=beta&t=3xSkrNUoE8q5SeCLmWNQgpFBgjj8_8DkkzE35ZStB6Q"
-        width: 1080
-        height: 720
-        isCached: true
 
 secured: "2//GWELgON4Iptkq7HjQQH9/oIcqRIXRgFB3oT06hmCLTSo2dQamYGOaCzC5+wKVN6JB0nUU301zT+ZO3DNZroVHViqFmEpNiqQaTxL/MRaQuwpYYFUS4q3HRn52OuYFp3xZO6QXMFF49MuzxGbOR149hlLAQ3JIyZ8cor99QHrHI8/1U+u+M67A2SjHlFCuCW9pVlIuc7aMCmhwTa3J1Dlk+DfqbwihjK0hlqkPYm9sxYhjCcRjOnTAVkpy9iD+ER8V26RUHk0aw7xZ3LCU/ZORQZSWMO1XVtNMTyanXcki0d5GtKltMDOfMVpg1C7T/UgX4w3DOhSqyGxL4Fsc5oWee9mMHgXrE7L+CjG4/Sc=;o3KjWFQfuxPsoVhXqO3xEg=="
 ---

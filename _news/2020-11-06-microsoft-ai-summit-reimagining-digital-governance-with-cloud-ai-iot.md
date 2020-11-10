@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/microsoft-ai-summit-re
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/microsoft-ai-summit-reimagining-digital-governance-with-cloud-ai-iot/amp-11604663602516.html"
 type: article
 quality: 76
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 600
     height: 337
     isCached: true
+
+related:
+  - title: "AI Image Recognition Market is Gaining Momentum with key players Google, IBM, Intel, Microsoft"
+    excerpt: "Latest Report Available at Advance Market Analytics, \"AI Image Recognition Market\" provides pin-point analysis for"
+    publishedDateTime: 2020-11-10T09:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-image-recognition-market-is-gaining-momentum-with-key-players-google-ibm-intel-microsoft-2020-11-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Ew4b5TdWchAOUY1K9uR/y8DAUL7q7uuvvv3DgR+X/dPPIPAWBEQCMkL/aEyfG+dof7jTOyf6pCdhgIMJz6eZASOX4X5YtQCjXJrnInCyY1gZ383iK47h/McAx3PrnpM/SvmT2VqfxmZbBbOa50c6/h0F6rkw9p4Ncfql9QZXxjh9VmngvOGj532y1rkmJjtPQTnT8BLeLxEascCBaASmxzcJmWbg728gw74LENKIrWMvuSdhNeJ2rD9BvmcppPAnWn4+yHS4jCgo6r7e1DAJ2cfoU40GHLBwbLv+r2Hq6GeFeS69B/BWOLM4wm9Qv8WN5eOhpBniHBuGfs7RBJRTRW93vfCorOVUNTa+sPznuvTahJKEOHuVoFyCRGr1dOnwx1+aSZ0L93N3Q9+NfqWuf9MBNOcPQ9PiQweHh2fcKIkOSa48/aWN3mCDL8p5z66YrXkyV6mb8vmXNMvx4Q+PzN00tLqNsmKlTvwN2oCFHMEsl3WZUOtN5wyIaikIuZwVr2SEVQMDJthGkoFJ/QYHEA==;f73mEAfMTBJa4z19RJxoCQ=="
 ---

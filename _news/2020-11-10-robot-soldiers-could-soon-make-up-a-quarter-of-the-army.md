@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/robots-soldiers-could-soon-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robots-soldiers-could-soon-make-up-a-quarter-of-the-army/"
 type: article
 quality: 69
-heat: 79
+heat: 80
 published: true
 
 provider:
