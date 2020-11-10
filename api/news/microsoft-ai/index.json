@@ -855,35 +855,35 @@
     },
     {
       "path": "_news/2020-10-26-c3ai-microsoft-and-adobe-combine-forces-to-re-invent-crm-with-ai.md",
-      "title": "C3.ai, Microsoft, and Adobe Combine Forces to Re-invent CRM with AI",
-      "excerpt": "C3.ai, Microsoft Corp. (NASDAQ:MSFT), and Adobe Inc. (NASDAQ:ADBE) today announced the launch of C3 AI® CRM powered by Microsoft Dynamics 365. The fir",
+      "title": "C3.ai, Microsoft, and Adobe combine forces to re-invent CRM with AI",
+      "excerpt": "Integrate Microsoft Dynamics 365, Adobe Experience Cloud (including Adobe Experience Platform), and C3.ai’s industry-specific data models, connectors, and AI models, in a joint go-to-market offering designed to provide an integrated suite of industry ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201026005552/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20201026005552/en/",
+      "webUrl": "https://news.microsoft.com/2020/10/26/c3-ai-microsoft-and-adobe-combine-forces-to-re-invent-crm-with-ai/",
+      "originalUrl": "https://news.microsoft.com/2020/10/26/c3-ai-microsoft-and-adobe-combine-forces-to-re-invent-crm-with-ai/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201026005552/en/833261/23/4285061cC3AICRM_PartnerLogos.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-26T06:50:00-07:00",
+      "publishedDateTime": "2020-10-26T06:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -892,9 +892,9 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
         "AI",
-        "AI in Sales"
+        "AI in Sales",
+        "Microsoft AI"
       ]
     },
     {

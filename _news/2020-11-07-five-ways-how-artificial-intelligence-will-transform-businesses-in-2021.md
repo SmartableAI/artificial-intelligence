@@ -83,7 +83,7 @@ related:
     provider:
       name: CIO
       domain: cio.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://images.idgesg.net/images/article/2020/11/healthcare-3.1-100865893-large.jpg"
         width: 1200

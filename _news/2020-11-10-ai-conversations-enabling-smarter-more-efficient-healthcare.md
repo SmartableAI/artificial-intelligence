@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-10T15:35:00Z
 originalUrl: "https://www.cio.com/article/3596792/ai-conversations-enabling-smarter-more-efficient-healthcare.html"
 webUrl: "https://www.cio.com/article/3596792/ai-conversations-enabling-smarter-more-efficient-healthcare.html"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - Natural Language Processing
 
 images:
   - url: "https://images.idgesg.net/images/article/2020/11/healthcare-3.1-100865893-large.jpg"
@@ -104,6 +105,6 @@ related:
         height: 397
         isCached: true
 
-secured: "1SXF2iTnISk6Q1HoVceNd9Xj2Q7M9aNbVSdNoKGEqrTHdVZc7BKPw4YLQZfd5TNnjPWaNn/W6Nvj0zx0jLJW1DCKGS0k3Pk65lva6u2y8nK2FHufOmZOLk3BidWuhGZN/a0Vt3//wS5Br1cy3rE+1tqu02L9v5wADfA/ZF6Fy8pNLDdHGOISpangN7qZeIqUe3QY800dD3HirlMhHkoKuCsQVvi4nO4Wf1fesxRQnaC+FcM6qDzs/+BfVHIc8TkbyklzlqZAfx0I/lA72i83v43Nt7fsDGk9AQd3C8RJ24twMMW8p0oMbX2o76ULN74GHF2mR8u3/5iO7oLWHCq47ZhPAU9SnxzonNfRhfDC3Kw=;rdGFCnn8j0TWAm27KMGj2w=="
+secured: "+hKy+21VN8llrFHKOK8yhU6xr7PHxFZPVnmAZZjfHtgjYa+EBM2TR0/8Dlq+GSuulTPZ9n0hv2ZNn2ksXWBuz7UWg9Gg35IGCx9WXA9AL3yWu2bKggVLh65gV//Lf/6q1a3qI+/h9+yTKxPa1gvF1v3oZGb/wdpysH3NQUgJ0TQCmQartqQvaXrI5eS7KVrKRSH8WcGATOrOvteFiTwA9Cte5Tk2Rv/D5YdGA+jsq+f8ngftzoyNQ9/BWXpxv2wVejZTmFWiwuBxLMx7wcQ5eWBm3UIVB0EFxW+5ibChmMdCNYGsXZJKIwvCXWE3pzw2gSKvmzbvMcrGU2OEsbYhYfVZ6HoLVXON9VO21kypUQnfa3oxE+QQhbt3565jZn3IriRiA/gu2MD1eNocwC5P3q8awofxv6dFVekaAKijTePU8GChW0XW55C3Zb777+nY55piDZwxoUmGXD+Q8JPd28TBsN2r50Z1/+CBrGY9ePsbMZ95KTmov9Ya2KFv4osVhAvpE4e4o12bydDGoPqBrA==;okmqAlnot1f/Km9bInfHSg=="
 ---
 

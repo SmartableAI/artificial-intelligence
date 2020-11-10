@@ -3,8 +3,8 @@ category: news
 title: "Qatar- AI-enabled self-driving cars a necessary component for human safety: Volvo official"
 excerpt: "The Peninsula  <p>Volvo recently participated in a webinar on Artificial Intelligence (AI), an initiative by the Embassy of Sweden and Swedish Chamber of Com"
 publishedDateTime: 2020-11-10T15:29:00Z
-originalUrl: "https://menafn.com/1101100905/Qatar-AI-enabled-self-driving-cars-a-necessary-component-for-human-safety-Volvo-official&source=30"
-webUrl: "https://menafn.com/1101100905/Qatar-AI-enabled-self-driving-cars-a-necessary-component-for-human-safety-Volvo-official&source=30"
+originalUrl: "https://menafn.com/1101100905/Qatar-AI-enabled-self-driving-cars-a-necessary-component-for-human-safety-Volvo-official&source=246"
+webUrl: "https://menafn.com/1101100905/Qatar-AI-enabled-self-driving-cars-a-necessary-component-for-human-safety-Volvo-official&source=246"
 type: article
 quality: 29
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 355
         isCached: true
 
-secured: "r/zXBMzrivIADiLnkiddbQFVytwMMziagsmhVIl8ClkYt+d2/UgmJtfzz9r5W/oAjvyHVh9qfGFrCEbLPK5XZiCpW3hgcOE34f9mqWYvAgrlsyBYPvMkDRoajAvIxtIDnZaGBYYi5BIFIETx4hTpAdo+KT29de2RgLAMmV6qDoVg+l3KSXkW2lMZn2/ShGConUHcqc6lXY+NDxCKZc2eZ7Cmcs33fE7AXtmZOOgYAYyx83AUWr87bu20FTcSstk6JUnyHxBGFE2sHz2aOMPGZXNTUcHGtJP4vR7I1OYNQqNfks7MrQokmdHNdt01bhBQ3qdtMHb4QcrepSa8uSbmZDBUmtmTu28EE7fsLJZiTlM=;ZlELobXe/x+5eNFo4vu/Uw=="
+secured: "UvmfWHpKniQROW4fFvMRdM5hgThhhaCA4Wv1bXPfJjCPV7xUgp7p4tuuhJ819VMMH0k8I5rQeGPb9s7BjBCA2+z2XuUPfw0r/+wVhncUh1bTHV1ElCasMq9GGzc5+KiBB70temZCceu4XkHrFY4/jXtbcp+c6L2NvdR85LiMTxjTOvdkfhSuiJadpjgmHf9KsEChPaW1hGm2klzcy8orftyqFzpUkI0BQM+fBN086eOpipZ2npHL2t6L2xthWG9gYknpyTXWc7si6WYgT4t9/x9a0xJgk/Y1ffH218tBQJdsHQ4+dZawcxK6FcIH7SwsHF5gSWxJ5ExNvepotrqZpOMgJBs4oqDi5BoKLnsjypw=;3EIjJROJda8xrhRCi4c4og=="
 ---
 

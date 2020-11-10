@@ -43,6 +43,22 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Walmart and GM's Cruise partner for self-driving deliveries in Arizona"
+    excerpt: "Planning a Walmart trip? Scottsdale locals will be able to have their goods delivered with zero-contact by a Cruise self-driving car prototype."
+    publishedDateTime: 2020-11-10T18:01:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/walmart-gm-cruise-self-driving-delivery-arizona/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/walmart-gm-cruise-self-driving-delivery-arizona/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/walmart-gm-cruise-self-driving-delivery-arizona/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/U3I17pYWdSZXQ6Eg96KSpepx2qo=/2020/11/10/0342d75b-fa7a-470d-b271-57ef09ab9be7/download-copy.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Walmart To Test Robotic Deliveries With Electric Cruise Self-Driving Vehicles"
     excerpt: "Walmart is trying to learn whether robotic deliveries fit in with its retail operations so it’s launching the latest pilot program with General Motors-backed Cruise."
     publishedDateTime: 2020-11-10T11:00:00Z
@@ -75,6 +91,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Walmart to pilot all-electric self-driving delivery in 2021"
+    excerpt: "Walmart will launch a pilot in Scottsdale, Ariz., with self-driving car company Cruise to operate an entire fleet of all-electric delivery vehicles powered with 100% renewable energy. The project will support the retail giant’s initiative to reach zero emissions by 2040."
+    publishedDateTime: 2020-11-10T18:45:00Z
+    webUrl: "https://www.supermarketnews.com/sustainability/walmart-pilot-all-electric-self-driving-delivery-2021"
+    type: article
+    provider:
+      name: Supermarket News
+      domain: supermarketnews.com
+    quality: 24
+    images:
+      - url: "https://www.supermarketnews.com/sites/supermarketnews.com/files/cruise-av-still.png"
+        width: 1800
+        height: 1013
+        isCached: true
   - title: "GM's Cruise partners with Walmart on self-driving delivery pilot in Ariz."
     excerpt: "Walmart Inc. is adding Cruise, a majority-owned affiliate of U.S. automaker General Motors, to its roster of self-driving startup partners, in a pilot delivery program early next year in Scottsdale, Ariz."
     publishedDateTime: 2020-11-10T13:47:00Z
@@ -89,7 +119,23 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Walmart is expanding its fleet of self-driving cars to Scottsdale, Arizona for a pilot delivery program with autonomous startup Cruise"
+    excerpt: "Walmart is set to roll out a pilot delivery program next year with GM-owned Cruise that will use self-driving Chevy Bolt vehicles to delivery orders from stores to homes in Scottsdale, Arizona."
+    publishedDateTime: 2020-11-10T17:22:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8934369/Walmart-teams-GM-test-autonomous-deliveries.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8934369/amp/Walmart-teams-GM-test-autonomous-deliveries.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8934369/amp/Walmart-teams-GM-test-autonomous-deliveries.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 12
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/11/10/17/35520040-0-image-a-31_1605028911780.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
-secured: "4NPt2lBeIZl7ZD1ZL46u1A7mNNcGk407xn26LUFvfB7QRMzolEZNb+eulyg6O7xqme4Ve6IOfOKWIO6IyzebU1a2kdcswnoAa9s3GUkWrEEldtIt696KKiJSIHAumYCaCIFq3R5YIGpRE8vPNbXzLVXnhH5aloD2PXW1UELTst2Q8LvOAi1EGlkpLT3Tdhq2tRjSj5GC68jrTQ5uij+laPlutrVUjnIAokvO4zE+9wAepdRKF8cPnnWPAd8BduY2XY2P3KPS01r4s4wWsOLJf4N+N2XrrLeEPEn5QdNLQYeD4H9sZd2wHDLsLPZ04kVYni3gQvW4fJmrRDZKLv1tLhXuziOtu7blrGb/yWILs1I=;qepMsEPrXrvltA+KxqssFQ=="
+secured: "YRc7GWTmXADKDbWipO0hiytROk3u3kJvh4tY2DtlHLjPBLybOYNcS5NDz+aDwWUT2K9gplMgus+83ikIO1QXTOpHNnuaHtkv+V70d7ZJoSCtcWDMv+b09u+BhkYTNiLvwKqgjXNqEjUSXo0TmLkYedcAv9b1hYlH/7z3maeqnHy6fywG46BPgFNq7x95fa1+WDwap7/bOGDVPXCBFRSxvqttmEy4G5YdobczcQWOxrFWrCVu2nIG5+B/fnBsJLqV/B73mb4iZRYmzf7ua0bQ5d3v3fRU48h4apH1liZBg0nNfzNu4EIPNW72/ZG+KpicpkTZXyVxeKPby0sCzLilb4MzYW+4lFnv2UVkdonDt/ZWtQepVJPGTgq2GzD+4d3VX6EOd44jH3WcdLDF+gdaIDpM4LmYmWGhrG9meRWqFP/D43Nr5RE8eFrVynK2rOOEjLiNR1xA7asSCJWGFztzuhT1XOhbIuv64Ncr1AHidxqTsCscvKobSLGPw/DzYKbxHKqsZBUKJE8+DioVcnTP/Q==;BpBUm68NPhyH6dY0udZzHA=="
 ---
 

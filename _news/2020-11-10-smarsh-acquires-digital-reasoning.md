@@ -55,6 +55,20 @@ related:
         width: 1540
         height: 800
         isCached: true
+  - title: "Smarsh Acquires Digital Reasoning"
+    excerpt: "Smarsh's acquisition of Digital Reasoning Smarsh brings AI to electronic communications archiving and supervision."
+    publishedDateTime: 2020-11-10T17:51:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=143820"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 24
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/133925-1120_SmartIVRs_Verint_480x610-ORG.png"
+        width: 480
+        height: 610
+        isCached: true
 
 secured: "NxCWPKhXx8hk7rs3PaUh45+PUJcQfp0ILGyC4ZomWE8+Dj+unX0m9Nv2C5V0E3xSZGa0p1NaNu+kyWQRvQ/wNf3XxGv3L2jVmHrwocT51x1vPdXSHd+TrPDRsr1jd9lolp2Q88kqSrPmysD+zo+oj3xi8pwKiPlcv+33ESt8xlNjws9B0+aY9lDsr5tCq1da+icAj18kwZwNC3Jlv3l6Us0LU1+fuj3ZrxhjrCTCovEDPmyUeg9uiBSWgwp3Q+DHY+LDoGDKhKuNA50xzgrNgOmnbCHkyYiMLsMM24aXu6pvTcGf7ECt1et2Fz/1J2MTyYrHtg20B67SuIhGx9TGqF5aw3K5vfjN4S1NAbjlBKE=;RXNNkopgvYSL+BkxFvX0bQ=="
 ---

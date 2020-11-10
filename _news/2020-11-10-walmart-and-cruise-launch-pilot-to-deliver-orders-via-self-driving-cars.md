@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 144
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Walmart and GM's Cruise partner for self-driving deliveries in Arizona"
+    excerpt: "Planning a Walmart trip? Scottsdale locals will be able to have their goods delivered with zero-contact by a Cruise self-driving car prototype."
+    publishedDateTime: 2020-11-10T18:01:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/walmart-gm-cruise-self-driving-delivery-arizona/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/walmart-gm-cruise-self-driving-delivery-arizona/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/walmart-gm-cruise-self-driving-delivery-arizona/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/U3I17pYWdSZXQ6Eg96KSpepx2qo=/2020/11/10/0342d75b-fa7a-470d-b271-57ef09ab9be7/download-copy.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Walmart To Test Robotic Deliveries With Electric Cruise Self-Driving Vehicles"
     excerpt: "Walmart is trying to learn whether robotic deliveries fit in with its retail operations so it’s launching the latest pilot program with General Motors-backed Cruise."
     publishedDateTime: 2020-11-10T11:00:00Z
@@ -79,6 +95,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Walmart to pilot all-electric self-driving delivery in 2021"
+    excerpt: "Walmart will launch a pilot in Scottsdale, Ariz., with self-driving car company Cruise to operate an entire fleet of all-electric delivery vehicles powered with 100% renewable energy. The project will support the retail giant’s initiative to reach zero emissions by 2040."
+    publishedDateTime: 2020-11-10T18:45:00Z
+    webUrl: "https://www.supermarketnews.com/sustainability/walmart-pilot-all-electric-self-driving-delivery-2021"
+    type: article
+    provider:
+      name: Supermarket News
+      domain: supermarketnews.com
+    quality: 24
+    images:
+      - url: "https://www.supermarketnews.com/sites/supermarketnews.com/files/cruise-av-still.png"
+        width: 1800
+        height: 1013
+        isCached: true
   - title: "GM's Cruise partners with Walmart on self-driving delivery pilot in Ariz."
     excerpt: "Walmart Inc. is adding Cruise, a majority-owned affiliate of U.S. automaker General Motors, to its roster of self-driving startup partners, in a pilot delivery program early next year in Scottsdale, Ariz."
     publishedDateTime: 2020-11-10T13:47:00Z
@@ -92,6 +122,22 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/walmart.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Walmart is expanding its fleet of self-driving cars to Scottsdale, Arizona for a pilot delivery program with autonomous startup Cruise"
+    excerpt: "Walmart is set to roll out a pilot delivery program next year with GM-owned Cruise that will use self-driving Chevy Bolt vehicles to delivery orders from stores to homes in Scottsdale, Arizona."
+    publishedDateTime: 2020-11-10T17:22:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8934369/Walmart-teams-GM-test-autonomous-deliveries.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8934369/amp/Walmart-teams-GM-test-autonomous-deliveries.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8934369/amp/Walmart-teams-GM-test-autonomous-deliveries.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 12
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/11/10/17/35520040-0-image-a-31_1605028911780.jpg"
+        width: 636
+        height: 382
         isCached: true
 
 secured: "ooKrqsjj2zKFcMioVtq8M4MM1Wi4At5bugYzAeBBctUnuAajgmLhGAdTQcR68n68T5xauNfPbut+pXveBs9CXAYZFv4/cIyqvGABtEXUHHC+lzc4LICMXWbzhJtPiKvDnKx6pD4d3IoP9gMa2AcnRVxgOmAWEmpJiukeUj6EuUI8Al2puSa9OESlhzbIFOIDKtlPxy003e/vsw/82zFf8mCj8bzm8G+gLwjk8Lhh1WQudFBAk2RF+sR2zJvXrRMXc+AcRAkUY1WUHd5Oa1vgkL4Fr7jpcb6hGSvxfYvqL9LZNmfPW51tzDSy1OxuithNuJ04M+hb6EGR7dNgnqx0Fy2OqZTRS0qOQsj5LmBHztnuP2p8fCScS7I4xqfzmfqiU9ZMC49RAC4UNFe3fJ3gUkpda6CtstACjY8chtZ1qrwZsGhT8z2A1fQSd+E1xODMdIWuntekSYTxRfXwdAAj4YpAPrbP8Xtmu175uxBX3mBRAUKkW2UyaoBAog7+aOROPsoHOEG+fCqBn4Dzz2H/ig==;Dn7XlMQmrm7t+fHvlN2cDQ=="

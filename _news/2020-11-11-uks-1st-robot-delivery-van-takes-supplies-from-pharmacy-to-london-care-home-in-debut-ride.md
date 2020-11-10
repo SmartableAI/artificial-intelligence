@@ -26,6 +26,22 @@ images:
     height: 639
     isCached: true
 
-secured: "gpOrXg9F3JEPfTRBdob8FqdMaXYHmja4ksW+z/5RzXA5MIoynl+Fl74+6l/SfCk84zNGefcv8dt37lMZ2p0aauXKwE0uUl5U7V0sYf9p1dMU5DPosK62CZ1xSu9z+vcu0ZJGKpGIQfUMC0/mJkLaYqsoSVR3E+9qZXx0mKLkuodunDCUH9egMuyX3KShOu7qgd3uIzie+olEc5g0/E7OBEq3JEF0I4+BJT7666wc/PdS2Ym3qlmiCUTowDEYjCjS8rHlzcu6Dj5pebg53tq+IYpToR5dD1XZvoLfTOoQIL9SkLycT4W1BJLZioenLCFcl+SYq2R6aAXdxStbK+EX8zlmNm3WXcN2q+OoBWhpDeA=;weMeyT/f/V8oIn8iCpE6Xg=="
+related:
+  - title: "UK’s first robot delivery vehicle completes landmark journey in London"
+    excerpt: "The successful delivery shows how driverless vehicles could become a common sight ... “What makes Kar-go magical for me is that we applied artificial intelligence and robotics in a useful and good way. “The technology is there when it is needed and ..."
+    publishedDateTime: 2020-11-10T17:21:00Z
+    webUrl: "https://www.independent.co.uk/news/uk/home-news/robot-delivery-vehicle-uk-kar-go-london-b1720330.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 41
+    images:
+      - url: "https://static.independent.co.uk/2020/11/10/12/iStock-1248789819.jpg"
+        width: 6156
+        height: 4104
+        isCached: true
+
+secured: "b9MGDCmcpuwJ5y7iLDI3U8hoqN3cpjyAjntfZsyeoLr22Q6oBadHuS4/shrrqmOv4gublo2ZMvAK0zN/XtV+PDfSX/6Kd0PqsFAERYRtSGzhfbuVLDAec437Ti5J0+O2HjfRktofKS3tuqNTt3WjHyHego46HctucoxTSoXrdFTRqcJK5Iu5syUsRJwhbbfnG+qmiCPyVuRGB4MNN+soXmmdqjJLlHV0O5gbE1EPx9roitdyUHsmrp3mVx9DVGOvx1Zmqr1FxBd57rD5p6gt1ZM82mhcranluWxHtq3DTJ2Flqd37mO7OKJcC/yk+nI3H0vhr1SbmWPgA0ugcmPJo4rW5ALzZN6ZwRv78N+NGa2eLhDT9uXAk1Ih6iGNCuzLO+8zsULu3E2sAfDxCLRgvmxs+0yZ+AK4sjvLMNJmGq2NMMOhXw3xNs7YUqRYAjLtW7mU/At70X58wuLQFENWfTPAL1NSlvpX1LZWznJE8suT0iqC3kBvo6itOMpkd6ZjhQTwDg8L7JaILqkqM7u5Cw==;r/VIN9cE8PhuIxCTI+4IGg=="
 ---
 

@@ -2,15 +2,15 @@
 category: news
 title: "Hyundai taps Nvidia for future fleet AI, infotainment services"
 excerpt: "Hyundai has announced that all future Hyundai, Kia, and Genesis vehicles will utilize Nvidia's in-vehicle artificial intelligence (AI) and infotainment platform.  The South Korean automaker said on Monday that the firm's \"entire fleet\" will eventually feature Nvidia's technology."
-publishedDateTime: 2020-11-10T10:49:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/"
-webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/"
+publishedDateTime: 2020-11-10T02:49:00Z
+originalUrl: "https://www.zdnet.com/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/"
+webUrl: "https://www.zdnet.com/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/"
 type: article
-quality: 67
-heat: -1
-published: false
+quality: 87
+heat: 147
+published: true
 
 provider:
   name: ZDNet
@@ -22,6 +22,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/02/06/f45dbca6-1fe8-44d1-a0c3-9b9c773cdf84/thumbnail/1200x675/1714b4bf785f425773f040d17a6f803a/nvidia-geforce-now-cloud-gaming-service-5e3b63136b967a00010397a5-1-feb-06-2020-5-48-00-poster.jpg"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Chip maker NVIDIA signs deal with Hyundai Motor"
@@ -103,6 +109,6 @@ related:
       domain: morningstar.com
     quality: 18
 
-secured: "lGSzFe+j9y8YHxlhrlsMpujSIKAbogaIxrlIqPKylic2yYeZzXGH+YoDTq6rNrRn2ceSqDtyVKi5SQSNNA33vgppgUpR81kQ18XcesMI6+/sY6GMRCkpim1aFWOz15skKF0HVvkL+fZElvuLPvB2x+7i0oTzW+lBooAkOewYxplFOUbJ6Qnwbutl3JIsqjf8Kd01yqwBdcm7IAop1ETCS4ZcJTIJWhy6b3z6SqfGu5JBJV7MTaQgoRBfJrAIwSYJu6c6febAVc2/AH10Mpvys/ocwY8PuDFm21rYxEcp4i13V6Hv2BeDo55HCfjAs44Ffh31OowTEJaRIeDOEXSLJtECMko5QCTsmmkqHNAXsHZoMVsEu9O+LHBXwyW3Dkn5hbFNys08FZ6HVVs7lw05g1gaGPXCeJr17z1/xGq4hnDFZh4pK/m6y8eqiIsU7MsNujjZBwvOmiFkYqH/wbql1BbljipXweKB/tKTTxMk6YIAvUwNEWBB7+Dvk3vAWnzZdzFOExsFge08I4wIUyP1UA==;3FJVkqHOqQz6TMrH2um4qg=="
+secured: "I9HJXFqwKDqoMWk8KvpGTVcyEcvHIb3WKwjISR29ZpL2A1+JcrCt0myOhoC0Po4w9plX2SU5cB+9mWyuyd0hpXkrj7hBkFDsrcfD/lkmubozwwLCETiHIwD4d5Kl5kayMsfj0yX4qyvptarU82+WsxSflW7NChvKyRpMljiBVIKLPI+KJcxmKUd6qF6PTAsoygv3/ZIJHw3B5SBe42jz/3d+jNCz91BClOZS41Q5JAv9US0nC6AOxvqd08lh84M4OVsU+Mk1DQjOsRzvEfYyb0ZaTaf5IwqZIAq2CXshDQpGzIKiSlnT8oSGRPU8UxP0ybFh6mOTQb5LspgyVvhCiKi1+XOqi0xFTwnfbhkjfAU=;53n8G5UVtVkNYs02sP+ThA=="
 ---
 

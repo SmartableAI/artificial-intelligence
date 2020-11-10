@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2020/11/06/what-apple-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2020/11/06/what-apple-is-promising-with-the-new-macbooks-and-its-smartphone-derived-silicon/amp/"
 type: article
 quality: 69
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Apple’s MacBook Air, MacBook Pro, and Mac mini get M1 chips with 16 AI cores"
+    excerpt: "In addition to announcing macOS Big Sur and formally revealing its first Mac-specific M1 chips, Apple today unveiled the first Mac computers that will use its new software and hardware ..."
+    publishedDateTime: 2020-11-10T18:37:00Z
+    webUrl: "https://venturebeat.com/2020/11/10/apples-macbook-air-macbook-pro-and-mac-mini-get-m1-chips-with-16-ai-cores/"
+    ampWebUrl: "https://venturebeat.com/2020/11/10/apples-macbook-air-macbook-pro-and-mac-mini-get-m1-chips-with-16-ai-cores/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/10/apples-macbook-air-macbook-pro-and-mac-mini-get-m1-chips-with-16-ai-cores/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 101
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/macbookairm1-e1605032857187.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "xYJJKuyyKZvNrlB4T1ly2wxj1ShXlaRbXe5uVQkCG+AxGygCwr4zKX1i9GS4vicaGVHYA6cpV7hc/Z36sXnYDEo9M0PB3L+jNAvQrp3lLxgiaAPJf7X+aUBj4HwmMbGsQid0aC+O3EG4uqXKZzDti1Gblukn4IgfaEsbvWZypa6dt3XH3d/0qmRJHJHL+scV9FfyW5RoRmP5Hscq4QvCvi7o6LT4U4w/xpPHXL7GUujFc9qF30aIJmFxBxrUkeTTFVom/RKfwtaN4CMC1GV/qYHbX6kev0mjVTr38m6EElvGE9F1wb2Fc7s9y44tEpvQby1e4AzJdTMzo4K1kUDtD6VKotNLdRPgHU/JB5iUvG8=;q1BSDN9XBN+cpItZ+FVL8Q=="
 ---

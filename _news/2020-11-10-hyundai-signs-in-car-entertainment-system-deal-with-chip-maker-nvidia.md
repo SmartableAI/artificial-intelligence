@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hyundai taps Nvidia for future fleet AI, infotainment services"
+    excerpt: "Hyundai has announced that all future Hyundai, Kia, and Genesis vehicles will utilize Nvidia's in-vehicle artificial intelligence (AI) and infotainment platform.  The South Korean automaker said on Monday that the firm's \"entire fleet\" will eventually feature Nvidia's technology."
+    publishedDateTime: 2020-11-10T02:49:00Z
+    webUrl: "https://www.zdnet.com/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/02/06/f45dbca6-1fe8-44d1-a0c3-9b9c773cdf84/thumbnail/1200x675/1714b4bf785f425773f040d17a6f803a/nvidia-geforce-now-cloud-gaming-service-5e3b63136b967a00010397a5-1-feb-06-2020-5-48-00-poster.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Chip maker NVIDIA signs deal with Hyundai Motor"
     excerpt: "Chip maker NVIDIA Corp on Monday announced that Hyundai Motor Group will use the NVIDIA DRIVE in-vehicle information and entertainment system for all its Hyundai, Kia, and Genesis models from 2022"
     publishedDateTime: 2020-11-10T07:35:00Z
@@ -57,17 +73,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Hyundai taps Nvidia for future fleet AI, infotainment services"
-    excerpt: "Hyundai has announced that all future Hyundai, Kia, and Genesis vehicles will utilize Nvidia's in-vehicle artificial intelligence (AI) and infotainment platform.  The South Korean automaker said on Monday that the firm's \"entire fleet\" will eventually feature Nvidia's technology."
-    publishedDateTime: 2020-11-10T10:49:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
   - title: "Hyundai Motor Group Selects NVIDIA DRIVE Infotainment and AI Platform for All Future Hyundai,"
     excerpt: "NVIDIA and Hyundai Motor Group today announced that the automaker’s entire lineup of Hyundai, Kia and Genesis models will come standard with NVIDIA DRIVE ™ in-vehicle infotainment (IVI) systems starting in 2022."
     publishedDateTime: 2020-11-09T22:02:00Z
@@ -101,6 +106,6 @@ related:
       domain: morningstar.com
     quality: 18
 
-secured: "XLySV6Zd4JbZz6ZrY6zBT177GJBVbzuqrFc0rmEs3iFxEkqvtjSQkOiuN6LoB/lPFl2ZLrdikzEFk2NrsAfwErtFrjdOLixjUra7xy7wvH1rfLEJLmEe39ehDezpTN87gAZF6pZGiZ3EdmvcKPsvTZB3bntfD+4cbs8RycJpz0WU1aTlZoPkP9Dan12DExDFlyvLLb0i3ZTAy5mYQ/bYN3TF/bCZkO7ss4uRnrR6pBWhVu6k8Q3qpxXFF4SPrXCGgarpJQZ6JuJmn39gzfdCkhbOgDgWUBVsfXwFCj/Y9ESEfF+bCz+g3aplYYn1kLHd2/++Jr+vkTXxDQPNbJ5TUTTQ1u/38GzBVSvFsdvr5WI=;N/8b5+v/LZUWAuMEIYzutw=="
+secured: "6IMbjcZMVrokeE3ID44sJGdoijeQRCxzTnZmUA6owDkyrMr9HqmqAvyX1OtLw/dzVuOVXaeuS7erRBAzu9FUiOb0w5dpcBKC88ZXMbUBPS/yBhsDueHQzaCgxpYZYi39cVsFKVaypIibJZR0NEdUhSPRHnxB4mkWnlT6GN9XUPI8cVLjTGPpRGOkx0ESrtvCPaRLDXj4DkNpP37djLPk/C469RklgUqHVatpj9Azlln7PCVTuG/Ry5kq/MTYxnBRnhE74HoaUFCAAeiqAnQveIynALeT8D9ETS77T/9kEsh9gibXtU736REZNhigLD9IJ0XTki+vXkKKIGcvtarYZwvCmhE8X/EepMGgZcoSYynsur0XVF5HbQDCaKNC/PU2Hf/JoKubRjcvcky/hj6MeYtKv6mWCO5VVMERg2bTGWKhkGdAvX7MWliqt2X7yLZVy/4BsfN9+KJ2i8PhI0F3exOs6HtIoRmCygtaUx+7Lfh7+gO8WgD2kC6qoyRvZJ9L80xpsoZU6YnzYdPxt7Pwuw==;H92MpTvfpYGeIuQ9Yj2Hzg=="
 ---
 

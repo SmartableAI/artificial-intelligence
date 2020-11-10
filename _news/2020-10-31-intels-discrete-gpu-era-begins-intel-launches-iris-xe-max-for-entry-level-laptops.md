@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Intel’s Discrete GPU Era Begins: Intel Launches Iris Xe MAX For Entry-Level Laptops"
-excerpt: "Today may be Halloween, but what Intel is up to is no trick. Almost a year after showing off their alpha silicon, Intel’s first discrete GPU in over two decades has been released and is now shipping in OEM laptops."
-publishedDateTime: 2020-10-31T16:01:00Z
-originalUrl: "https://www.anandtech.com/show/16210/intels-discrete-gpu-era-begins-intel-launches-xe-max-for-entrylevel-laptops"
-webUrl: "https://www.anandtech.com/show/16210/intels-discrete-gpu-era-begins-intel-launches-xe-max-for-entrylevel-laptops"
+excerpt: "which implements DVFS feedback loops on top of supposedly AI-trained algorithms to help the system deliver power to the parts of the processor that need it most, such as CPU, GPU, interconnect, or accelerators. With Adaptix enabled, the idea is that the ..."
+publishedDateTime: 2020-10-31T16:09:00Z
+originalUrl: "https://www.anandtech.com/show/16210/intels-discrete-gpu-era-begins-intel-launches-xe-max-for-entrylevel-laptops/2"
+webUrl: "https://www.anandtech.com/show/16210/intels-discrete-gpu-era-begins-intel-launches-xe-max-for-entrylevel-laptops/2"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 451
     isCached: true
 
-secured: "IkKUYatwySmNAMNNsBELj9eg5kOPjEDrzfXP0edPCP6GTpX5VrmXJ4xoaqghtRaEKEACsMH+jbS8su7DLETV8BgdUH4c4MTzbZMSis+CpQL4rsGX18hlMLDrxYEuh9SoER/Jyqm55XujJDF9pXsYU4yezksVOPgFzcTo5QjYx7HRwDOln6qx2MpVHTBUtrv4nwoeOXw21OXdhGB7CM20JWMVviQMhQgaWQA1CBiOxd7mE4YOvQaGstd109NU9GnJx+3uikeCdXgg7rFjovd+t/gGSHV/7a6IPuw2RHudg3uscmWfElq/00LE88AfVie0Cg+ejPMVkgsSTlbsZ3NMQvRztBT+AcL7RChPI3cRpKQ=;kQU3Q2dbRkEaT9TJUSwOOQ=="
+secured: "2qOzLWW2n6hKYq5+ygjqmn1Tiatfhxn2CO6VjviOqlLIP68DAlCfNdsO5/E7w58v7Dz21Ts6VgR1A9EJg/IgklnAh0xI4W1YKSIMjmjEs2vlzAMb3QO0E4k/deCOpmqr83fd1lyI/uOD0BZPfwZU8bs5FcWi/0MjxqajC6lfLYWGlNbm5GBC3/K6omk4UCDaH/pn9ZKqXDkZYHP/tkE3y89UApgTi3NGaF3nrESP7f+E8a1GdzHIMGvFCqcaLax+HIR3Oueb86eb+WA4GYq7csM3cmyt/1/wLKcH7JaCYPiEeJCxJg8SKSttE93tAfS+HMeYFwr8WLRXkWcCysPytTZl8WmhE0gTg2enTNozWSA=;tSmOIqaJi5EsfBuAkhZQMQ=="
 ---
 
