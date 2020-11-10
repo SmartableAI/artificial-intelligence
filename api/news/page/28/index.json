@@ -2,6 +2,58 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-10-16-gm-will-test-fully-driverless-cars-in-sf-later-this-year.md",
+      "title": "GM will test fully driverless cars in SF later this year",
+      "excerpt": "The company’s Cruise unit received the necessary permit from California’s DMV. General Motors and its self-driving car unit Cruise say they’ll start testing unmanned autonomous vehicles in San Francisco by the end of 2020 (via NBC News). On Thursday ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/cruise-testing-san-francisco-214222312.html",
+      "originalUrl": "https://www.engadget.com/cruise-testing-san-francisco-214222312.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fbebd6400-0f2d-11eb-9bfe-e67a76f4a357&client=amp-blogside-v2&signature=4908a2fba8142ca66578860cd136007606108c87",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/cruise-testing-san-francisco-214222312.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/cruise-testing-san-francisco-214222312.html",
+      "publishedDateTime": "2020-10-15T14:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-cambridge-technology-attains-aws-well-architected-partner-status.md",
       "title": "Cambridge Technology Attains AWS Well-Architected Partner Status",
       "excerpt": "AWS Well-Architected Partners have the skills ... IT problems by leveraging its competencies and expertise in Artificial Intelligence, Cloud, Big Data, IoT, DevOps, and SaaS & App Development ...",
@@ -1102,49 +1154,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-a-practical-guide-to-building-ethical-ai.md",
-      "title": "A Practical Guide to Building Ethical AI",
-      "excerpt": "In this environment, data and AI ethics are business necessities, not academic curiosities. Companies need a clear plan to deal with the ethical quandaries this new tech is introducing.",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2020/10/a-practical-guide-to-building-ethical-ai",
-      "originalUrl": "https://hbr.org/2020/10/a-practical-guide-to-building-ethical-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2020/10/Oct20_15_1164825388.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hbr.org/amp/2020/10/a-practical-guide-to-building-ethical-ai",
-      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/10/a-practical-guide-to-building-ethical-ai",
-      "publishedDateTime": "2020-10-15T08:30:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

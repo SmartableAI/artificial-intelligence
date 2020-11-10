@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cognitec’s FaceVACS face recognition engine developed to recognise masked faces"
-    excerpt: "Advanced deep learning methods and a new face finder are contributing to substantial performance upgrades for Cognitec’s FaceVACS face recognition engine. In particular, the new version"
-    publishedDateTime: 2020-11-05T08:08:00Z
-    webUrl: "https://www.sourcesecurity.com/news/cognitec-facevacs-face-recognition-engine-developed-co-2232-ga-npr.1604494565.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/cognitec-facevacs-face-recognition-engine-developed-co-2232-ga-npr.1604494565.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/cognitec-facevacs-face-recognition-engine-developed-co-2232-ga-npr.1604494565.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 55
-    images:
-      - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/ai-stadium-security-920.jpg"
-        width: 612
-        height: 355
-        isCached: true
 
 secured: "0gz4jNMprdhlN1cTqmU2Kne+fY9u+YSoZ/zT9hh15/C4XW6nNdj8yXARW1ZScq8pqoZazsnLMGwXjYRg9DskXylLQhHsm9Lb6yjgFivBu++gNZFC6Df5TwhodkSbFdtox8sAITbwKjnfvfSnCGfSrVcv5MYSsYXa7MVJR/XymH49aHttcI4qbLVoHP5o7fIGjoNYSQgcYbwBiCTY+sOYElcXeAoeMpJFMXX/+2kUwrwqMNuYY3oru73AQIkLcX7tLcmLfG4t9CDYJ8oVwG5jd+BuVE+Qqy6LFEW7nbKuM+j8XP54OWiA7O1u9RgoUw4mpq/K9IPDqqiBjpAeWEJSIVBeBMzIfJZdnnLYinpIUwA=;s0mKWE4rbXhR+iVbFGAxbQ=="
 ---

@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-11-03-immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership.md",
+      "title": "ImmunoPrecise Antibodies and Mila Announce Strategic AI Partnership",
+      "excerpt": "CNW/ - IMMUNOPRECISE ANTIBODIES LTD. (the 'Company' or 'IPA') (TSXV: IPA) (OTCQB: IPATF) (FSE: TQB2), a leader in",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758397",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758397",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758397",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758397",
+      "publishedDateTime": "2020-11-03T04:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-3d-printed-hearts-self-driving-buses-and-robots.md",
       "title": "3D-printed hearts, self-driving buses, and robots",
       "excerpt": "Technologies that were still largely in development or limited rollout a year ago are now becoming commonplace, including self-driving cleaning robots and automation in areas like fast food and delivery.",
@@ -1128,49 +1171,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-machine-learning-that-predicts-anti-cancer-drug-efficacy.md",
-      "title": "Machine learning that predicts anti-cancer drug efficacy",
-      "excerpt": "With the advent of pharmacogenomics, machine learning research is well underway to predict patients' drug response that varies by individual from the algorithms derived from previously collected data on drug responses.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-11-machine-anti-cancer-drug-efficacy.html",
-      "originalUrl": "https://medicalxpress.com/news/2020-11-machine-anti-cancer-drug-efficacy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/3-cancer.jpg",
-          "width": 2880,
-          "height": 2304,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-11-machine-anti-cancer-drug-efficacy.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-machine-anti-cancer-drug-efficacy.amp",
-      "publishedDateTime": "2020-11-02T07:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -2,17 +2,17 @@
 category: news
 title: "Future robot battle buddies may read your emotions to fight better"
 excerpt: "Voice commands like automated assistants on smartphones are great, but not when the threat of incoming fire means the robot battle buddy needs to decipher a range of priorities that humans might take for granted."
-publishedDateTime: 2020-11-09T19:37:00Z
-originalUrl: "https://www.airforcetimes.com/news/your-army/2020/11/09/future-robot-battle-buddies-may-read-your-emotions-to-fight-better/"
-webUrl: "https://www.airforcetimes.com/news/your-army/2020/11/09/future-robot-battle-buddies-may-read-your-emotions-to-fight-better/"
+publishedDateTime: 2020-11-10T00:17:00Z
+originalUrl: "https://www.federaltimes.com/news/your-army/2020/11/09/future-robot-battle-buddies-may-read-your-emotions-to-fight-better/"
+webUrl: "https://www.federaltimes.com/news/your-army/2020/11/09/future-robot-battle-buddies-may-read-your-emotions-to-fight-better/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Air Force Times
-  domain: airforcetimes.com
+  name: Federal Times
+  domain: federaltimes.com
 
 topics:
   - AI in Robotics
@@ -40,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "AkzEH5Gzo8Q9RV/cbiGcVQgJDuy5bezkEtRW8bAQG44/k1rcjyVuOz2bucQbUx77AM//909rzbcqO1JL+HcryMH5MEByo+Ra7NOeAQ1lF4oGQ5IWmq79pbnYcDZb1SgFKj1dgkIb/wGXegkLPZf1m3arrXVbRHjKtTEl1VBfbe1rrSdYspeu7xln/QquIhiWnHahqBiJJCNEgGCsQOJJ+h4TGwytNA99KgYgoJ9nwX9zzHPfmvY7w1eCLAS4/zpMuPAygIfyTSwob8/Hh+WougBxjLxOpvnYimaUZYA2pPlvEaZEq43zrKmBDWXajNCoKPC1VX6AhKKlj3nFu0g6bcW1lj0nqL0EgniJkKE4S7crBaRBR/dzy03sSfrFVsGwH5Os2GN02C6Z8IyPsOXwzzKQLuUOohAMdOuDmDIIcawpCWRfpx4K9HhSJWROrqz+j9pwQOcBdmHHlhBt3nnn/Wz6gqf8PkILvb8f7FpMwYVBkSgEHYqIvCxhfz19w+KbEqJWtUoZyl2eYHD5T6L9UA==;Jab5dbZjrEVBCO0yQ878xA=="
+secured: "qiZDpNJhO40b40q5NYRdEEku4NnFGpsO+rCGV6CXy6p3GI/bPmpfUN3FLtJ5uc/3g6AWxrFWYuwamRc7Jt/JAiZ+1u7L5w+uzCynUJng9F45cr0CPzx+HiLRjXaeMgDgHf0R4O7h73p+4Q/yg0vFWrqzWec7H7jW+Nky1j5yWOBSQk1SNAw+rKQ87j2t5ZmrQaZAmbRw27c2FiodRs2reiqcc2hbihhNivvZb8EML+NK7Q3MZP0CDQaPquUc7GOE3g/Q03FaWFPbMhbTFOBUdTIekeYYXCKOSJIjf86R80iP+w7wYYzvqU1prp6GnSLNlo1Ty3s6GI42Sh89hbptTxd/6+MlM5Pt5SM1CjgmEgw=;RB/Qebtqp8VkPLoWcoSzAQ=="
 ---
 

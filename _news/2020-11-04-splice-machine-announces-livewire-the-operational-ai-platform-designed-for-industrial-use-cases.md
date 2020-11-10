@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Splice Machine Announces Livewire, the Operational AI Platform Designed for Industrial Use Cases"
-excerpt: "PRNewswire/ -- Splice Machine, the only scale-out SQL database with built-in machine learning, today announced Livewire, its new open source Operational AI platform for industrial IoT use cases. Livewire is the first combined data and AI platform designed to alert plant operators of likely outages or performance degradation soon enough for them to take remedial action to avoid outages and improve performance."
-publishedDateTime: 2020-11-04T14:00:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-cloud-computing-14e5ed2ceba320204efcda0da779e905"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-cloud-computing-14e5ed2ceba320204efcda0da779e905"
+excerpt: "PRNewswire/ -- Splice Machine, the only scale-out SQL database with built-in machine learning, today announced Livewire, its new open source Operational"
+publishedDateTime: 2020-11-04T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/splice-machine-announces-livewire-the-operational-ai-platform-designed-for-industrial-use-cases-301166367.html"
+webUrl: "https://www.prnewswire.com/news-releases/splice-machine-announces-livewire-the-operational-ai-platform-designed-for-industrial-use-cases-301166367.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - Microsoft AI
+  - AI in Finance
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/86257/splice_machine_logo.jpg?p=facebook"
+    width: 1200
+    height: 628
     isCached: true
 
-secured: "SwOwZY0Reap+bXm27176aMWBjBWRy/Ismi462FV8Vc1fJbLcKJtpRwn+A0zuA8Z/46SjaDEveSREGg9sIEO/Y9J3RHi23wBtyAlHfcRX4eGBqNNCtyXGz87XhGY8S3N8wBOkazKq6TBxN4oL532I8g6rMV5jbRYpQxR/P1Q4OCAq8yz41lLAJJzgQ55b9TlKYDA9jtN9FjftgxUsEXd9qjvvQMX3frfQbr+MmyjpXkujYH/ts2/6cdlIbbLOqgJQKdp/60Xk6dDu2+8izYiB9UrJebxVOjBxQSCrPpZ92SokmFSP0d8mHJeyzMdQRN/A8pcoDDAB9CuX9fh49jjLH51fxeclZO070UTJNwIFtTY=;OPkMH66rBmMqiwHRTTkC2Q=="
+secured: "u8ivhJ4KBFHZZFtz7J/WZNHJuUdJqF5zTu5FDuZweEb+rZLI3XKtOfTmYRV0gIiSGu57FBzAl+3Y5VmUjcij8/yocLxtqFppd1D5lSsdqPMzZ6EXSYBqLu1+d/2QURJ1OGsIi/OeQ5eTEQxIG+bq17g8s4MxEuQFJvH+Tc2SZCRKXuoYYM1R2vXBgRSiOPF62qE+rFWRpAXiW5ObUeZlFwjVPO2W5Mcs3Z0eaJMoNnKfKvh057EVPmXV2tSHk6bGuxZIIzgdjfYTWXGMpOF9tpufjrnIX7gSw7MbAxOu3lURaoVgtQeWRVbIJ2leM2ZDPI9jqp3Bz+DQTZFaeXlAvbfpCdlxGw0APcJukVVySpI=;3BGcSURk1f1VhyMoj/qjtg=="
 ---
 

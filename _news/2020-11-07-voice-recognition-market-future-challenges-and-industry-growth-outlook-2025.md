@@ -85,20 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Voice Assistant Market 2020 Industry Outlook, Key Players, Segmentation Analysis, Business Growth and Forecast to 2025"
-    excerpt: "Global Voice Assistant Market 2020 by Company, Regions, Type and Application, Forecast to 2025 is a conclusive source of information that encapsulates vital details about the market flow as well as future status during the mentioned forecast period of 2025."
-    publishedDateTime: 2020-11-09T04:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-assistant-market-2020-industry-outlook-key-players-segmentation-analysis-business-growth-and-forecast-to-2025-2020-11-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "TcPjVXsMfQrTVotij79MnfT1RrLt3KGYxeXkir6VPJvMtjzRhM+0KdCcFRpAjrspK/uo0Lh9i2jFnxq7z1tYHybvrljSaAeVofVL3j4qGex73fsmTUj8RxwFBSPwFvC/Q/09czb2AALaWky1WqlR5yl06wMf+T3brbr6DsD42t23SiiSWXWOqDIdsUJ/D+6vU9WeffhmHPzZBNIhNI/RnP36KWIFauO9GM+eK1sUWXRtoawowHAn6pxKvAMcgnoWSj+LGeTfONEyr+BKW5WiJOEp1E5usOO0ziF+Eov66ELVB51xRc090f+Bxr1KdVeT2+aTkc9wSf4Fy/lh1OZ+2716j95wz33LTTloewCwxag=;mGS0iS0hADbYoDWf+ICFQQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/conference-better-
 webUrl: "https://markets.businessinsider.com/news/stocks/conference-better-using-ai-for-making-notes-1029770581"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -20,35 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "How artificial intelligence may be making you buy things"
-    excerpt: "So the next time you dash into your local shop to buy certain snacks and a particular wine on a Friday night, perhaps you can blame AI, and a computer that has learned all about you, for the decision."
-    publishedDateTime: 2020-11-09T00:20:00Z
-    webUrl: "https://www.bbc.com/news/technology-54522442?at_medium=custom7&at_custom2=twitter&at_campaign=64&at_custom4=106AB4EA-2290-11EB-B12B-5BF939982C1E&at_custom1=%5Bpost+type%5D"
-    ampWebUrl: "https://www.bbc.com/news/amp/technology-54522442"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-54522442"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/26A6/production/_115249890_gettyimages-1128467471.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Can AI replace human decision-making? Most companies say no, but it can help"
-    excerpt: "Most CIOs aren't comfortable with letting the AI take over decisions. But it does help them make better, less biased ones."
-    publishedDateTime: 2020-11-06T15:51:00Z
-    webUrl: "https://www.techrepublic.com/article/can-ai-replace-human-decision-making-most-companies-say-no-but-it-can-help/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/can-ai-replace-human-decision-making-most-companies-say-no-but-it-can-help/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/can-ai-replace-human-decision-making-most-companies-say-no-but-it-can-help/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 64
 
 secured: "0R7Rtu5VPA2GLLxSyiBxDieGVpu0vQi0xQuuTDeFC29OszGP3PVAvbpcPVuRfoso5K48C1sOefWME/U3Tev757ARKph6RDTHlbd7mVZt2zpBhzv/C1zKgpQnW3cFxBRG+leMoHhwePC0tqVl97rGVsnJK0a7DdQM4Z6SkuK0Po6123lT4Esh9+FXy2uZrpWikJRjVuxyd/OZLkAaKiYzCKcIItexrHXaRYGxgl/Ggj9X/XzDfDpA3oA3DUma9pHnS3y7ToiKJS5Bq8ATX9JXpwxM3g7l9vR+BviOeRiWI6JO/VBUPgNavSwyaHmpcZqi7y2o1yDeoXO29gQs8Gm39OANZWb7TjlI0BTsD8QHNv0=;WZxpDcmCoSBtjM2C8zr56w=="
 ---

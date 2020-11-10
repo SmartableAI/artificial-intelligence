@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/359220"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359220"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://federalnewsnetwork.com/wp-content/uploads/2020/11/arash-rahnama-300x300.jpg"
         width: 300
         height: 300
+        isCached: true
+  - title: "How U.S. Xpress is Using Artificial Intelligence to Recruit Drivers"
+    excerpt: "The truck driver shortage is not going away. “You can either choose to accept that as reality, or you can find a new way to do things,” says Jacob Kramer, vice president of driver recruiting at Chattanooga,"
+    publishedDateTime: 2020-11-09T00:00:00Z
+    webUrl: "https://www.truckinginfo.com/10129905/how-u-s-xpress-is-using-artificial-intelligence-to-recruit-drivers"
+    type: article
+    provider:
+      name: Truckinginfo
+      domain: truckinginfo.com
+    quality: 37
+    images:
+      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/article/2020-11/usxpress-blackfemaledriver-__-1200x630-s.jpg"
+        width: 932
+        height: 397
         isCached: true
 
 secured: "iUU84AQMD97S8z4NrIn4UnXN1ezGNzuQ0GgtxIf6ghidUzIIhBXqlrma5/V6O/f+djwHKOMHJbUQVoxEgpF9l6Ykz4LNHMFMD19MuVktjfoyMGTgG7XGrTfSlcYBWwRapyWfK2AcUA2DdpaIAvfzHb/iPf1vp6yj9xSdhXMLSIz/QSt44izNMlSA9xbZ1wygOAqNa9J9tsys9BoNihi1Om8kbSW8LwQwQKrpp5p9yp5yHrn6DE3/uB9o7KlwjWLlWQZAxhWJVLOsgBpcXlfResuAiddHn7MRNzbxOUSCyRC+pnPsSLF/nuP1aCTBoh51vHh3jrrTMV0CCzXZOpOJEZqQn6fEmIyE63mo4L8hZugKYneV/q9cmmMsESkynzXQ5tHyIA6ooDtCNibWTSZaUu36pH57rueY+n2uRUHKIXjgA288rJ8zZgamGJqkNop2MvV8d0xZFDh7nH3YFZxiW0yWE+jirRAqVLWxu9kDrVAyZpniV/SMhvrd7pHwrH26wika3bEWlkegmwPCMgAW5g==;7ZLdSlwDCU0VoEhLSNuZKw=="

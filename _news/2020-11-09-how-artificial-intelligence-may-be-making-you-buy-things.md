@@ -3,22 +3,18 @@ category: news
 title: "How artificial intelligence may be making you buy things"
 excerpt: "So the next time you dash into your local shop to buy certain snacks and a particular wine on a Friday night, perhaps you can blame AI, and a computer that has learned all about you, for the decision."
 publishedDateTime: 2020-11-09T00:20:00Z
-originalUrl: "https://www.bbc.com/news/technology-54522442?at_medium=custom7&at_custom2=twitter&at_campaign=64&at_custom4=106AB4EA-2290-11EB-B12B-5BF939982C1E&at_custom1=%5Bpost+type%5D"
-webUrl: "https://www.bbc.com/news/technology-54522442?at_medium=custom7&at_custom2=twitter&at_campaign=64&at_custom4=106AB4EA-2290-11EB-B12B-5BF939982C1E&at_custom1=%5Bpost+type%5D"
-ampWebUrl: "https://www.bbc.com/news/amp/technology-54522442"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-54522442"
+originalUrl: "https://www.bbc.co.uk/news/technology-54522442?fbclid=IwAR2bDFOrp5CJfihz0QT9cr7Y0dMaik9UfCyXYga0NB5dtpLMGfuFkzzpl90"
+webUrl: "https://www.bbc.co.uk/news/technology-54522442?fbclid=IwAR2bDFOrp5CJfihz0QT9cr7Y0dMaik9UfCyXYga0NB5dtpLMGfuFkzzpl90"
+ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-54522442"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-54522442"
 type: article
-quality: 87
-heat: 107
-published: true
+quality: 57
+heat: -1
+published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -41,16 +37,7 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 64
-  - title: "Conference Better Using AI for Making Notes"
-    excerpt: "PINNA, a startup in Artificial Intelligence applications, announced today the launch of a new application TRANSCRIBE.AI that automatically transcribes your calls, so you don't need to take notes during meetings."
-    publishedDateTime: 2020-11-05T13:53:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/conference-better-using-ai-for-making-notes-1029770581"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
 
-secured: "Wj9HKjQtJa0HyK+drsBO6j8ZNrJ3uuId8VENninbOPj2EaJ2xe8pHYngt3e3nOKOUjo9/HQFqxAQMelGvR3djuScYrmBWiG0CkPZ3D3KdEh0KQ0Xw1nJh9pZO7FkExM80MfaUAVc0LwzwdwFleLvtmnRBl3rUgdoSqQO6wvDkd5Q8b06/AEhHTFLGC0yud75nDEi8Pc+qu0bcHr6xX0q/SPDtOJAet+ggO2VX573qL5ff9kXMTTHduOKtKOv38TCpW2gcj0um2/477fUXqa25gJIGZx9iBZhOBVIHmzPRGhcnX4EBGp+tmUsjxliq6PfBvJ0oBx8IzCFhMq5iw5Te8AmkyrqP/ky8TRRCwPcVOE=;tZKxVq9SCZO8lbf3T8Hj7w=="
+secured: "GAVXCrHPrGAvka/n1giM9pqDvhNGgNwkUtwjPA/UbW8lJOeWPdrWx32Gwkc/3XJHpxTlz0NcrAu4UBr/su2uK9zF/drAuxuWpG0ox5cFiwTFPYDgHQqjDcviZqQIP8uFVRlStjlcBsTeu0siB/TB1WPQLdKkw9lEO2Lc+e/0lP+jvA6nGlNuUQpd1iB0XHZt2EReMZUHM/9EG+7i5/R15cjurTUKNjVcDNSkjrdNB1cCmm1+RcGJEoNwmMqRPBT5o4S2rf4fU0hBu8Lif/7/9ofdwH/1OGUD8mOGbnxDJ6whjZcR++08mIvIEJeFLh3sGSUepM3eiUv7NAN2uI3KO2XV/wrij2XSwqqpqAQRWws=;DTqmnxpJonTpdsILiKO2cA=="
 ---
 
