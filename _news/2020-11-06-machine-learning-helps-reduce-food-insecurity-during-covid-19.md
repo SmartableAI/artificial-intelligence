@@ -69,20 +69,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Using AI to Track the COVID-19 Pandemic’s Impact on Mental Health"
-    excerpt: "Textual analysis of social media posts finds users’ anxiety and suicide-risk levels are rising, among other negative trends. Dealing with a global pandemic has taken a toll on the mental health of millions of people."
-    publishedDateTime: 2020-11-05T10:30:00Z
-    webUrl: "https://scitechdaily.com/using-ai-to-track-the-covid-19-pandemics-impact-on-mental-health/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 39
-    images:
-      - url: "https://scitechdaily.com/images/COVID-19-Machine-Learning-Mental-Health.jpg"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "What software developers should know about 2021: Low-code, AI code testing, COVID-19's lasting effect and the skills needed to stay on top"
     excerpt: "Forrester made 5 predictions for software development in 2021. Bill Detwiler talks with software industry veteran VP and principal analyst Jeffrey Hammond, the report's lead author, about what developers and IT leaders should expect in 2021."
     publishedDateTime: 2020-11-07T00:28:00Z

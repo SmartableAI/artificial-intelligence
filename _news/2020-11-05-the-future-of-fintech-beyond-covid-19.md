@@ -69,20 +69,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Using AI to Track the COVID-19 Pandemic’s Impact on Mental Health"
-    excerpt: "Textual analysis of social media posts finds users’ anxiety and suicide-risk levels are rising, among other negative trends. Dealing with a global pandemic has taken a toll on the mental health of millions of people."
-    publishedDateTime: 2020-11-05T10:30:00Z
-    webUrl: "https://scitechdaily.com/using-ai-to-track-the-covid-19-pandemics-impact-on-mental-health/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 39
-    images:
-      - url: "https://scitechdaily.com/images/COVID-19-Machine-Learning-Mental-Health.jpg"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "Machine Learning Helps Reduce Food Insecurity During COVID-19"
     excerpt: "Researchers used machine learning to create bus routes and deliver meals to individuals in need, reducing food insecurity in Pennsylvania communities."
     publishedDateTime: 2020-11-06T14:32:00Z

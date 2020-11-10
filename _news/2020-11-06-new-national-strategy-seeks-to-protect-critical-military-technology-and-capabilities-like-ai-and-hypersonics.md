@@ -7,7 +7,7 @@ originalUrl: "https://www.militaryaerospace.com/sensors/article/14186794/capabil
 webUrl: "https://www.militaryaerospace.com/sensors/article/14186794/capabilities-protect-technology"
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 801
     isCached: true
-
-related:
-  - title: "Responsible Artificial Intelligence Research and Innovation for International Peace and Security"
-    excerpt: "General identified responsible research and innovation (RRI) in science and technology as an approach for academia, the private sector and governments to work on the mitigation of risks that are posed by new technologies."
-    publishedDateTime: 2020-11-05T10:09:00Z
-    webUrl: "https://reliefweb.int/report/world/responsible-artificial-intelligence-research-and-innovation-international-peace-and"
-    type: article
-    provider:
-      name: ReliefWeb
-      domain: reliefweb.int
-    quality: 41
-    images:
-      - url: "https://reliefweb.int/sites/reliefweb.int/files/styles/attachment-large/public/resources-pdf-previews/1542556-sipri_report_responsible_artificial_intelligence_research_and_innovation_for_international_peace_and_security_2011.png?itok=NeANyBxc"
-        width: 596
-        height: 842
-        isCached: true
 
 secured: "zBeCQksmM2/FjvqahimJrOmZWi5zrlD7ExpSfez5FwtoslfJtnS0yYhpPHPKHGil+M1TahwMUy+CZlx7TMrkPIN6nytkuR3zc7NfgmpZKudAz7VvXzHLf1r5puVfSQKzkWN3BT7PU64kjNBOY3v3uBF3HtyIbAejjPXs2oVXiFYdLtZsozYCdOE8D31ucolZ1mp/Z8QzNnWAAVrY7UYpDjbq3BxMvkkyN/drv6MlFv7r+30vJY9s8nFR5kmHNHxSKIs3BaDvIFKNL6ZaR7n6I5ZvvAbQ1fVJMZZdq9S/LMpfix0RSugb4el7K4XrDEey5zCRlgfsI16XJo9sMPkYLuo3Zcj46qnV6GWfX9Lebf0=;i8Ko5kxHjwP4uVWtsxuo5A=="
 ---

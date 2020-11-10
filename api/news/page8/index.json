@@ -2,58 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2020-11-02-facebook-research-is-developing-ar-glasses-that-help-deaf-people-hear-better.md",
-      "title": "Facebook research is developing AR glasses that help deaf people hear better",
-      "excerpt": "The research lead for Facebook’s Hearing Science lab tells Digital Trends about the exciting possibilities of AR glasses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/features/facebook-ar-glasses-deaf/",
-      "originalUrl": "https://www.digitaltrends.com/features/facebook-ar-glasses-deaf/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/facebook_hearing_ar3-1200x630-c-ar1.91.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/features/facebook-ar-glasses-deaf/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facebook-ar-glasses-deaf/?amp",
-      "publishedDateTime": "2020-11-01T08:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-01-deep-neural-networks-are-helping-decipher-how-brains-work.md",
       "title": "Deep Neural Networks Are Helping Decipher How Brains Work",
       "excerpt": "“I was really pumped,” he said. It would have counted as a noteworthy accomplishment in artificial intelligence alone, one of many that would make neural networks the darlings of AI technology over the next few years. But that wasn’t the main goal ...",
@@ -1262,6 +1210,57 @@
       ],
       "topics": [
         "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-ai-technology-can-enhance-human-centered-work-instead-of-threaten-it.md",
+      "title": "AI Technology Can Enhance Human-Centered Work Instead Of Threaten It",
+      "excerpt": "Samasource, a training data and validation company, believes AI can enhance how we work. The company operates with care for its employees and communities, showing that advanced technology solutions do not have to be the enemy of a human-centered workforce.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/christophermarquis/2020/10/30/ai-technology-can-enhance-human-centered-work-instead-of-threaten-it/",
+      "originalUrl": "https://www.forbes.com/sites/christophermarquis/2020/10/30/ai-technology-can-enhance-human-centered-work-instead-of-threaten-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9bf2c78d0cace826a29403%2F0x0.jpg",
+          "width": 1200,
+          "height": 713,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/christophermarquis/2020/10/30/ai-technology-can-enhance-human-centered-work-instead-of-threaten-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christophermarquis/2020/10/30/ai-technology-can-enhance-human-centered-work-instead-of-threaten-it/amp/",
+      "publishedDateTime": "2020-10-30T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

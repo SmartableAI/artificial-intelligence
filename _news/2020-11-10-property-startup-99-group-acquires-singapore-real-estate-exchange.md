@@ -1,0 +1,46 @@
+---
+category: news
+title: "Property startup 99 Group acquires Singapore Real Estate Exchange"
+excerpt: "Southeast Asian property startup 99 Group announced that it has acquired Singapore Real Estate Exchange (SRX), a property platform and real estate data provider in Singapore. With the agreement finalized on November 7,"
+publishedDateTime: 2020-11-10T01:34:00Z
+originalUrl: "https://www.techinasia.com/property-platform-99-group-acquires-singapore-real-estate-exchange#!"
+webUrl: "https://www.techinasia.com/property-platform-99-group-acquires-singapore-real-estate-exchange#!"
+type: article
+quality: 32
+heat: -1
+published: false
+
+provider:
+  name: Techinasia
+  domain: techinasia.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+related:
+  - title: "Tech execs’ angel network, Altair invest $3m in Singaporean business services startup"
+    excerpt: "The startup plans to further develop its engineering, product development, and marketing efforts across its different markets."
+    publishedDateTime: 2020-11-05T12:37:00Z
+    webUrl: "https://www.techinasia.com/ex-google-angel-network-altair-invest-3m-singaporean-business-services-startup"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 40
+  - title: "Singapore edtech startup LingoAce banks $6m in Sequoia India-led round"
+    excerpt: "The language learning startup said it plans to use the new funds for its Southeast Asian expansion plans and the further development of its platform."
+    publishedDateTime: 2020-11-09T05:51:00Z
+    webUrl: "https://www.techinasia.com/singapore-edtech-startup-lingoace-banks-6m-sequoiaindialed"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 32
+
+secured: "i9zsykEFRe6y5y+9V3JXXrtbyRMh3qKB/OxDXcVb2AipX7NojWPbQ4BXWkIGAPeSJEEywHyTbPXECqGeJg7/s0dFJx1zcZXr+m/FYY7aCWWVFWkADx983bTxy8OvrAKw2wMuO0fOtdqHuY8LgxUFeBZWO9wNIc+H6oVHcbPHW5Ipfw3q/9jPZn+KYgptfTMbtR9tLdgfZZ75JmmoP7BLhTIzC87xllt1CPZidhG85wQQhMr2O8J9WjMO9ZpGYoVIC5f+uzchrYSZNdQqQ2kTPfym1vM6CMuJds4pwOkNOoDKUDpFXiNvNAcXAV1JoCdmjum1lFUv77HxZtdpdSdS/CLLZO3RZ5ytFR7BliI7VSPlD0B4+d8TRbZxJw7C6T2fCneOilEqXDtMap9GWsdFMnUeGdwEFDIihzAHwzqgTKUPjXaQlJHQTQuIw6OeQETWixKyC21HTSzCHGCcKypaWAs76HFp1UaFwTYIUilI6LyAr4sUQiKV1WJVLwEmQ13TISrWgcsvsokpjZYZobcpzg==;0eKOIG2edG+TpqlVOa+j5Q=="
+---
+

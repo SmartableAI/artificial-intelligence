@@ -7,7 +7,7 @@ originalUrl: "https://www.newsoneplace.com/36567541911/inside-self-driving-indus
 webUrl: "https://www.newsoneplace.com/36567541911/inside-self-driving-industry"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 380
     height: 250
     isCached: true
+
+related:
+  - title: "Analysis: Self-driving tech is beset with difficulties"
+    excerpt: "As the saying goes, if it were easy, everyone would be doing it. But as with flying cars, there’s always the risk that ambition and reality don’t mix."
+    publishedDateTime: 2020-11-10T02:35:00Z
+    webUrl: "https://www.autocarpro.in/news-international/analysis-selfdriving-tech-is-beset-with-difficulties-77690"
+    ampWebUrl: "https://www.autocarpro.in/news-international/analysis-selfdriving-tech-is-beset-with-difficulties-77690?amp=1"
+    cdnAmpWebUrl: "https://www-autocarpro-in.cdn.ampproject.org/c/s/www.autocarpro.in/news-international/analysis-selfdriving-tech-is-beset-with-difficulties-77690?amp=1"
+    type: article
+    provider:
+      name: Autocar Pro
+      domain: autocarpro.in
+    quality: 44
+    images:
+      - url: "https://www.autocarpro.in/Utils/ImageResizer.ashx?n=http://img.haymarketsac.in/autocarpro/75b5e5b1-11d6-469b-96fb-dcb7496f0ade.jpg"
+        width: 735
+        height: 490
+        isCached: true
 
 secured: "mjbJvRdUlRoYNzu2f0zlIVzRGQ70nHIXt1Cn1fCx0WyonCr+QL2XVXsetEHBU+XW8X7Xr+PlDzEYzkj5GnHkACujIW7oVJ4Kb+PIuQO8JY2+c4BEyVsrqc9iCM8g1jX2PBrV1LGptA6Hjxm7bZsvi9vHKfNnNnQBSzrMKnPvJ8/uUu0o/EoCaUQhgvqo7p56OG3p5pUkaY/NE1fN0YmDtSfv9jmvpjRE73h3rKL+zI4VIjlahr1Qq055KMLPRPhNVWwD7iIEZax2mfZctaEFj5v+KIUyYqkO5KFM2WdwJQZiO3KcUv3upulzUHn7wVr5VbsNHw5mueq6kX6FIcLsJs3hFQevmVu4GM7Li+hTjZ2ndIWmCOyx42GH8I3g9ybMTZlP76tOVoJwNya31m0cae1uyAGuSZHO7TjfWgvHDWrl+e0tz+X0zASs3l4Nks7Juy3TiOjrLOYx+dyg0YhEd46Wlaf7CSG7weRkHMUn1l7T0AEmit9Akcd+MnNdv/AA+M8mxYtEF0rAgUFTwPd9Eg==;kl9EiegmSn0J6GlQCGQgQw=="
 ---

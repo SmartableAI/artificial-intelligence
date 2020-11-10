@@ -332,49 +332,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-06-microsoft-adds-hindi-support-to-its-text-analytics-service.md",
-      "title": "Microsoft adds Hindi support to its Text Analytics Service",
-      "excerpt": "Microsoft has announced that it will be enabling support for Hindi within its Text Analytics service. The Text Analytics service powered by Microsoft Azure is part of the Microsoft Azure Cognitive Services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-adds-hindi-support-to-its-text-analytics-service/article33037173.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-adds-hindi-support-to-its-text-analytics-service/article33037173.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/info-tech/e0abff/article33037172.ece/ALTERNATES/LANDSCAPE_615/BL07MICROSOFT",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/microsoft-adds-hindi-support-to-its-text-analytics-service/article33037173.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-adds-hindi-support-to-its-text-analytics-service/article33037173.ece/amp/",
-      "publishedDateTime": "2020-11-05T22:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-06-prop-25-fails-california-voters-reject-initiative-to-replace-cash-bail-system.md",
       "title": "Prop 25 Fails: California Voters Reject Initiative To Replace Cash Bail System",
       "excerpt": "Proposition 25 would uphold a state law passed last year that ended pre-trial detention and cash bail for people accused of most misdemeanors. Those accused of the most violent and serious crimes would remain locked up.",
@@ -478,7 +435,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/intelligently-connect-to-customers-using-machine-learning-in-the-covid-19-pandemic/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -1237,6 +1194,58 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-these-factory-robots-may-point-the-way-to-5gs-future.md",
+      "title": "These Factory Robots May Point the Way to 5G’s Future",
+      "excerpt": "says adding high-speed wireless links to robots and other equipment allows them to be coordinated and calibrated more precisely, helps predict costly malfunctions and downtime, and allows sophisticated software, including artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/factory-robots-may-point-way-5g-future/",
+      "originalUrl": "https://www.wired.com/story/factory-robots-may-point-way-5g-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fa1fbb2227dbb78ec30daf8/master/pass/business_5g_1003931044.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/factory-robots-may-point-way-5g-future/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/factory-robots-may-point-way-5g-future/amp",
+      "publishedDateTime": "2020-11-04T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

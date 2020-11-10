@@ -3,18 +3,22 @@ category: news
 title: "How artificial intelligence may be making you buy things"
 excerpt: "So the next time you dash into your local shop to buy certain snacks and a particular wine on a Friday night, perhaps you can blame AI, and a computer that has learned all about you, for the decision."
 publishedDateTime: 2020-11-09T00:20:00Z
-originalUrl: "https://www.bbc.co.uk/news/technology-54522442?fbclid=IwAR2bDFOrp5CJfihz0QT9cr7Y0dMaik9UfCyXYga0NB5dtpLMGfuFkzzpl90"
-webUrl: "https://www.bbc.co.uk/news/technology-54522442?fbclid=IwAR2bDFOrp5CJfihz0QT9cr7Y0dMaik9UfCyXYga0NB5dtpLMGfuFkzzpl90"
-ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-54522442"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-54522442"
+originalUrl: "https://www.bbc.com/news/amp/technology-54522442"
+webUrl: "https://www.bbc.com/news/amp/technology-54522442"
+ampWebUrl: "https://www.bbc.com/news/amp/technology-54522442"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-54522442"
 type: article
-quality: 57
-heat: -1
-published: false
+quality: 87
+heat: 107
+published: true
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -37,7 +41,16 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 64
+  - title: "Conference Better Using AI for Making Notes"
+    excerpt: "PINNA, a startup in Artificial Intelligence applications, announced today the launch of a new application TRANSCRIBE.AI that automatically transcribes your calls, so you don't need to take notes during meetings."
+    publishedDateTime: 2020-11-05T13:53:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/conference-better-using-ai-for-making-notes-1029770581"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
-secured: "GAVXCrHPrGAvka/n1giM9pqDvhNGgNwkUtwjPA/UbW8lJOeWPdrWx32Gwkc/3XJHpxTlz0NcrAu4UBr/su2uK9zF/drAuxuWpG0ox5cFiwTFPYDgHQqjDcviZqQIP8uFVRlStjlcBsTeu0siB/TB1WPQLdKkw9lEO2Lc+e/0lP+jvA6nGlNuUQpd1iB0XHZt2EReMZUHM/9EG+7i5/R15cjurTUKNjVcDNSkjrdNB1cCmm1+RcGJEoNwmMqRPBT5o4S2rf4fU0hBu8Lif/7/9ofdwH/1OGUD8mOGbnxDJ6whjZcR++08mIvIEJeFLh3sGSUepM3eiUv7NAN2uI3KO2XV/wrij2XSwqqpqAQRWws=;DTqmnxpJonTpdsILiKO2cA=="
+secured: "6wJa0jJ/u8C3LfZ3kG9wEBLMXTlQFEqaMRINiM7VDHDrj+KfVF7Wqc61sMPUhPsRFLEqmrRFDvtSneGrLxa0IAqq9qOShGS6njYmhqxpjoT9GuhGA2JuE41RkDIubxF4VYoG1zFJI3MI7Fls77PgooTOUh0IRjAd/EGUQeFMC1Zkv+BqY4Ry/88SL7Aq/JEjD7D/RM1ocWsB5NvdVhtO4Wd9hmGklHsij5ooACHskvqk6iLisxodvhT1bTeKURx/MvnAoCLVzTvW+XsKAJETbdb67rCLUpGY86rY8fO8F+k5t+JWsBXiDpmRICxhUsoizUChPtyZPs6CybzmNk9rs3BFeRq1S4q506ZyyBB62s8=;bM6y+Ig9p8n8hucC+EFRkw=="
 ---
 

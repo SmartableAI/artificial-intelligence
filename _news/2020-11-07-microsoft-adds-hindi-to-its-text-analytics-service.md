@@ -43,31 +43,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Microsoft adds Hindi to its Text Analytics service"
-    excerpt: "Microsoft on Thursday said it has added Hindi to its Text Analytics service to help businesses strengthen customer support through complete analysis of user perception and feedback in the most widely spoken language in India."
-    publishedDateTime: 2020-11-05T10:04:00Z
-    webUrl: "https://www.sify.com/news/microsoft-adds-hindi-to-its-text-analytics-service-news-education-ulfhPFccfdfdj.html"
-    ampWebUrl: "https://www.sify.com/news/microsoft-adds-hindi-to-its-text-analytics-service-news-education-ulfhPFccfdfdj.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/microsoft-adds-hindi-to-its-text-analytics-service-news-education-ulfhPFccfdfdj.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 39
-  - title: "Microsoft Adds Hindi To Its Text Analytics Service To Strengthen Sentiment Analysis Support"
-    excerpt: "Microsoft has announced the addition of Hindi as the latest language under its Text Analytics service to support businesses."
-    publishedDateTime: 2020-11-05T09:18:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-adds-hindi-to-its-text-analytics-service-to-strengthen-sentiment-analysis-support/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 29
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/11/aim_micro-compressed.jpg"
-        width: 1600
-        height: 1034
-        isCached: true
 
 secured: "CezNamBe5lhe03/EWvkxdECQn/9DtMVuqdiK+xmw+DUpiZjBaRM17Vfn2biAqBCGnLhR5o7ANitI99cELsDd/n56NbXzfHw8STlttqa8bpKb9Lk7wmJN+TPttk3gitjnfF9jRXct1Lsd2phK5DbrqHmfdTBLhopxh6eKlgNvssYG6nQd5DEz0KmPSs2C2z6LKQ83VkeVUiBgC34cSSdmr3H6xzr9O5gUgkF6MnzZS4ZObFF62jn8mO1np5MWm6J4VDdt/ZFNzObkWBWBZQcf+4QcM/2HERBNFg+0/IGqivHPIGwssbPI29p4AzvvU1+QO5MX8Na2EBXqvPjUrCPHLJArOlBVcDU9NnRLe3K4aopcFCxofWireaavtQCm6qpRirWsajshfT6XKBhzBNqUGFah6AG0OUIUpGqHkdJmpDoxv3Hb0Ftn8Z/D0uTTW7DVQIxqMwpyFa0fOKtVce/WB9kR4xxMZaOoTIga5UNrPqr9ZiNG2tCr3h1XQ4FAO14eglmfpBimGP/iB8tkmqG8tQ==;COUT2AiHnrmftl7L6GiTlA=="
 ---

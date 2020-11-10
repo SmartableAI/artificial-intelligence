@@ -2,49 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2020-11-02-machine-learning-that-predicts-anti-cancer-drug-efficacy.md",
-      "title": "Machine learning that predicts anti-cancer drug efficacy",
-      "excerpt": "With the advent of pharmacogenomics, machine learning research is well underway to predict patients' drug response that varies by individual from the algorithms derived from previously collected data on drug responses.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-11-machine-anti-cancer-drug-efficacy.html",
-      "originalUrl": "https://medicalxpress.com/news/2020-11-machine-anti-cancer-drug-efficacy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/3-cancer.jpg",
-          "width": 2880,
-          "height": 2304,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-11-machine-anti-cancer-drug-efficacy.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-machine-anti-cancer-drug-efficacy.amp",
-      "publishedDateTime": "2020-11-02T07:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-02-leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform.md",
       "title": "Leena AI nabs $8M Series as it expands from chatbots to HR service platform",
       "excerpt": "When we covered Leena AI as a member of the Y Combinator Summer 2018 cohort, the young startup was firmly focused on building HR chatbots, but in the intervening years it has expanded the vision to a broader HR policy platform.",
@@ -1187,6 +1144,58 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-02-facebook-research-is-developing-ar-glasses-that-help-deaf-people-hear-better.md",
+      "title": "Facebook research is developing AR glasses that help deaf people hear better",
+      "excerpt": "The research lead for Facebook’s Hearing Science lab tells Digital Trends about the exciting possibilities of AR glasses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/features/facebook-ar-glasses-deaf/",
+      "originalUrl": "https://www.digitaltrends.com/features/facebook-ar-glasses-deaf/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/facebook_hearing_ar3-1200x630-c-ar1.91.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/features/facebook-ar-glasses-deaf/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facebook-ar-glasses-deaf/?amp",
+      "publishedDateTime": "2020-11-01T08:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

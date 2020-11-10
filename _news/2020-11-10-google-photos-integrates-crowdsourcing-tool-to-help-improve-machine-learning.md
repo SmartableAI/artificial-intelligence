@@ -8,8 +8,8 @@ webUrl: "https://9to5google.com/2020/11/09/improve-google-photos/"
 ampWebUrl: "https://9to5google.com/2020/11/09/improve-google-photos/amp/"
 cdnAmpWebUrl: "https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/11/09/improve-google-photos/amp/"
 type: article
-quality: 56
-heat: 56
+quality: 58
+heat: 58
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Computer Vision
 
 images:
   - url: "https://9to5google.com/wp-content/uploads/sites/4/2020/11/improve-google-photos.jpg?quality=82&strip=all"
@@ -26,6 +27,6 @@ images:
     height: 1250
     isCached: true
 
-secured: "JUk7GIwB30i4G65zd+c5KsSVghR+j18Y7/jZb5eFYtYdoFeU6A45nqpn3z28VzDF95jtFgI2nwTB7VqCbUfbCFtet617O/H46Nl5LWO96vEt6ffD8KKDJ6n0mgXtcwz97C8ify14ZVqmU6VELCaOvWKEE3llYiwWgGbliJjta4vQt2DKYEXsbTbZKBJvS6JC8TYNbzKa/f+Qt5Up/Yf+A0Ww71BD6JdjxFMAA9VLaRmZsPhJuWmeQzZ+5kustpc3ShjKKIbChqgQG5PYZQcgs/ERFSEXqPx+AAF+ezrF1JHo7xqAlOFz+IvOO3Hkm7do3WY4lDy+JGBNR8ShOGgOCDZAzpvt21gvKYn/jLK7Dzg=;cCRfN+N07U3pMj8QHsGvTA=="
+secured: "cr1Fk+QrvaZgLbNbZ360fdRFYFOxd2OhUA3sd9IrqmtLe/k33ZwVnZQWr7ookEp+QImlMV/khKgRvtmqrqfzo4NRwlXqNOAQZN81JvI1cdQdje56MK2OEr2MKDxnh2lL/0cCazrAfvztaHJB4F9CaE4PdwKx0TVxT4wKuLc8/uGGM+acgU/2N6Li6JK0EFgV3KajhdXqi/ycwkPF0oKIn6baKLNurNf25tDSyNIsPN3793518MfyeoH+QIvTziTfufBo4v18V107LtiNB+4XwuJYSX0IRJC4JT36JM8IvtfazP7EDkJvHqNQUTYv1e5vrQvRmkTvkWf2sXR3VNo3GLWO76v5Z6BbC6q4q0ggyxHNwQ+2tn5dte+hOZe30dZLSNl0cGniD2lqyxUa0vdmBzOpvsCIp/G6keG4yk21M7plQiF3HN0TAtnU9mN/TRZTo8EVbQ0Y2TDCQ3veiFsNjo+U2kkKShl4+LM4ILu/TpwygHKPNIPq5uKZNZjCXx3N33QjVOXuA91ixepkTj9c9A==;SYQJA6rpFV8h0GA27obRdQ=="
 ---
 

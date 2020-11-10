@@ -1378,26 +1378,35 @@
       ]
     },
     {
-      "path": "_news/2020-10-22-data-reply-achieves-aws-machine-learning-competency-status.md",
-      "title": "Data Reply Achieves AWS Machine Learning Competency Status",
-      "excerpt": "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR.",
+      "path": "_news/2020-10-22-udacity-and-microsoft-launch-ml-engineer-on-azure-course.md",
+      "title": "Udacity and Microsoft Launch ML Engineer on Azure Course",
+      "excerpt": "Krystian Rybarczyk looks into coroutines and sees how they facilitate asynchronous programming, discussing flows and how they make writing reactive code simpler. In this podcast, Alois Reitbauer ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/10/b18008856/data-reply-achieves-aws-machine-learning-competency-status",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/b18008856/data-reply-achieves-aws-machine-learning-competency-status",
+      "webUrl": "https://www.infoq.com/news/2020/10/azure-udacity-ml-engineer/",
+      "originalUrl": "https://www.infoq.com/news/2020/10/azure-udacity-ml-engineer/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://cdn.infoq.com/statics_s2_20201020-0324/styles/static/images/logo/logo-big.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18008856",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18008856",
-      "publishedDateTime": "2020-10-22T01:05:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-21T22:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "InfoQ",
+        "domain": "infoq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1407,7 +1416,7 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "Microsoft AI",
         "AI",
         "Machine Learning"
       ]

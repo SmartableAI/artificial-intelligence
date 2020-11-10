@@ -2,58 +2,6 @@
   "page": 26,
   "value": [
     {
-      "path": "_news/2020-10-18-when-self-driving-cars-dont-realize-theyve-been-in-a-car-crash.md",
-      "title": "When Self-Driving Cars Don’t Realize They’ve Been In A Car Crash",
-      "excerpt": "Will self-driving cars realize when they've been in a car crash? getty. Have you ever been in a car crash? The odds are that if you’ve been driving for any notable number of yea",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/18/when-self-driving-cars-dont-realize-theyve-been-in-a-car-crash/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/18/when-self-driving-cars-dont-realize-theyve-been-in-a-car-crash/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f88dfcdb1cfa1bd271072c9%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/18/when-self-driving-cars-dont-realize-theyve-been-in-a-car-crash/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/18/when-self-driving-cars-dont-realize-theyve-been-in-a-car-crash/amp/",
-      "publishedDateTime": "2020-10-18T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-18-computer-learns-to-play-go-at-superhuman-levels-without-human-knowledge.md",
       "title": "Computer Learns To Play Go At Superhuman Levels 'Without Human Knowledge'",
       "excerpt": "The open-ended game has more possible configurations than there are known atoms in the universe, according to the DeepMind researchers. The open-ended nature of the game has made Go a \"grand ...",
@@ -1153,6 +1101,58 @@
       ],
       "topics": [
         "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-your-ai-may-be-ethical-but-is-it-prudent.md",
+      "title": "Your AI May Be Ethical, But Is It Prudent?",
+      "excerpt": "Legal is onboard. Your AI is morally defensible. But is it a bad idea? With so many unintended consequences to consider, how do you determine whether your AI deserves to exist?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/arunshastri/2020/10/16/your-ai-may-be-ethical-but-is-it-prudent/",
+      "originalUrl": "https://www.forbes.com/sites/arunshastri/2020/10/16/your-ai-may-be-ethical-but-is-it-prudent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f89cf900c8f22bbbae126cb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5082%26cropY1%3D127%26cropY2%3D2986",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/arunshastri/2020/10/16/your-ai-may-be-ethical-but-is-it-prudent/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2020/10/16/your-ai-may-be-ethical-but-is-it-prudent/amp/",
+      "publishedDateTime": "2020-10-16T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     }

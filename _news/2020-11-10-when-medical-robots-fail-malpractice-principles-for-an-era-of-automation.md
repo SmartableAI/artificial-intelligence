@@ -6,8 +6,8 @@ publishedDateTime: 2020-11-09T23:40:00Z
 originalUrl: "https://www.brookings.edu/techstream/when-medical-robots-fail-malpractice-principles-for-an-era-of-automation/"
 webUrl: "https://www.brookings.edu/techstream/when-medical-robots-fail-malpractice-principles-for-an-era-of-automation/"
 type: article
-quality: 38
-heat: 38
+quality: 55
+heat: 55
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.brookings.edu/wp-content/uploads/2020/11/Pasquale_Medical-Robots.jpg"
@@ -24,6 +25,6 @@ images:
     height: 3102
     isCached: true
 
-secured: "BX623G5wwMuzpoGHAB5u4xEreK7HRlIjotvNNEov8aaB3vqXigFAJ/kFPsF9V4OWhfMqEuuszUciezIORfrN4sid9gxIjY0gVPCQ22pP1T+IBi60d8ZsutZqul4OGgLwKk2FHcgD0NDPgQ1YJxyQIhx2ERSpwQXk4fohhjgikS2nrwKMRgMaqP0apNlGhkLiDsbRFmEz3u5jkL7WpqZ5z0/QbowKzZw1vS2ZNrBLBNmdk2MKwjeIchw4gVojzvbeOlA1duBO/6sCor8qs5UQSWFbENfJ0ynTzqtWJKXTNpwkM3MNv3GKiAGr9Fnh0KTBvWjNBUsYNnR0H3c4I5x/0xnnnPgHTCJiZGqkv7Eal+M=;R7mlKnJq2WlZbxh3gyg2PA=="
+secured: "E/r1OJ2D8QZe5aAifFVaHga9IsymJ88+XtTmh6/9qKGp9A5IxdG/PGOMKHvRn/HlGg2y8uS5JpLx8XKo/2/6fK9ftIgcaGtdLYCRFmOEw3Upk8sHYzQFCsFK/dyJs9nKMAC4AW19F+2Otuk1aw4VdCQSSAPgpYdJOdoIJi3jB7r2kMgh/PEtiW1SEzAs1PgFgRbxlu8PlUinhsNX56DR4++WK+kWpm72cpaDTx5OANPM+pSawBRZv7ZBaGIZwbNjjEJUKd9GMBDiK2RyUshBa14P8gTt2nzT/e0d8y0fvumj+b8044RE5UCZstjOQKF/eCx5bo+P8QYqwhVYrTZzcT+jw+6JI0JALJof5TCNkzVxFXaYmrPMTVfK4oZJ+zVccu/zGBlrLh3Gy1DL3p8A9ReCdniggxvdyodZyV7A5/9GKt/lxJbg2oGDFvrYq2juHZanXzJ8wM4R6n4c19mgOE/PWktm1h4AJBFG9NhxgiyHM6SiZHqblL3Xcb/arVkLL0rDAz3gtWXcSVx90Raipg==;JthBL/IwT7R5F7LkoBBg6g=="
 ---
 
