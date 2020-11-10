@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 573
+heat: 552
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 6471127
+  followers: 6471560
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "utFqefuitnTnYxQR8+VN++1UKwrv/AUX2QUIEJ5TWllG0j9RkJAdbBoJk+chMCnn0ug8GlvU7xIPrpp+QL+ivFvKOB06ZyQJmbwyCsFBxHIWlhLFfkEtFc8spwJNUVXagmeM1annx7/4X88jwuVDQ+o/Gp2ritep4+LsPSGxZX2IBmvCLX2Cj7CkPjOEVVL4JDJEa6Xhfzp4PIG5PHfMgmjrR/c9xVKekfLeQKEAx3bKMz8BmqYd3WcS6l2CT21nneN1z32eeJ031eMDqZ7b2acmMwZ+nsKat/O16Kjxohnd9cCm4/EuZKN1BfNzf2/Kf0rhtQi+/Js4vXsI+eF+R4ytpj9CYjaiJNAOzAFc9p+nXWXdc3eZlrnKfOLvxglfAT9zC5DS0PNDhaBlqmnZIurF0T3+ugvEQA0RgnDsJgM=;0ZuhOIGmuVXMRwhrrZ/2gg=="
+secured: "TgthI/eZGGJqjsewhkgyROMnntpLeg48vRw4cHqOY7XVe2MB+Ig1kOEkJqHQYGMOk90rT4bwZoZdG/Sc8EmybbaZsN5jU0zG+0DNvPxw7Fa8k7uesvvu6b0+R9DXhfVLAOc5OhEcBCOfFFopUUiZ5rvbSDZHvPEvR86ZOCRjjxF/7a+gnSx1DnJAwdTVHAN+VeTbSHiUeN9uUTitRxgPQrfmAGglKmPngYAiM4GZEpg11GB3p7yAKT+fMWPOHGHjQFtZvrjckwoJlS6Qbx2Iv8VdIlTMSFeOUmjNTaZ5DGXrUPqZkS02OJmLMNuYShrrvDoBhKsHj7V5J+1GNu0OH1xUeZZ9MMx2DjcLDQzNkS13nOlFBhQRyKAAnsTzsE/8jms+VmroANQauTfhUK4ysjnzqcda6R2nGwCLB3fofCs=;j4xq3y/pIm3D6UbuOXcB6Q=="
 ---
 

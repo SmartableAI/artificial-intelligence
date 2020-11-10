@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "preferrednet"
   url: "https://twitter.com/preferrednet"
-  followers: 5187
+  followers: 5186
 
 size: 11-50 employees
 yearFounded: 2014
@@ -43,6 +43,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=cldaGudHP3I"
 
-secured: "glgF+D5kefaej2XG030ggYoUPtJqTqgd+lhziG0BR6n3DEHBQXw2aPVfV4PMGKfpOOHGrXC+U002zI2BtMdhCi+YBOvwTCZ5gVJDE6peyb9j8BnlFH5vtQfpQ3kcPsaej500SeRIpttNpgu5UEpLzY/WYfjI/MWlIwcakaevcSFVGJ9lZ4lUMouiNqLWiuN86+ozD/rFgLc+znnKUsa1nCxdw5L4k7xEMgCmwqxuShWjGkq8J1bGtulypjUozFRyMeNWWGfbn9GC1prxd1FK0dfIjx8ssxd8txdC7AoC8rbUF0grklrKXsZ66rQBkz+YI8SPwhyXVRK5gvrLXH/KrxYwSrX8hHzXAsf5eMe/g70LyK7Tp6SfJjJxZA0fFhopYWHuY3EGYaAsdq1VMgtteBslrlqaEVAvuTtelLySG7I=;JYhcxWsCp0wYMc8MCQnrmQ=="
+secured: "F8v1gP+Ezqs3cH6zi6/8ycC8M/3q5ddKtEIslyV+Dt+1sdFIf38K8GJlCFhRyjPdeYurQa1qwLiQv1ZLtUdS6rJMymGwe8IcM3omxARiRWfPya7r+9O9ZRuIQmC8XBTLVvQD+QlLUPstzHjW0FTmQmGflh6fGk/pxwpVKaUtkM57HkV4gBny/mDLdFF2tAJOyiLCITB3M7pCsA683kNcgusR5wX326nj+kpwUIbiSnrJB9mLgb26zJHk7bofcB2JXuWOcDZNF+g0CM2jZTd0L4fdK0twtpOTsCLM+sFV33Z4jqORHCHEDQOzQ+DpDFxpQVP2SncskHVNDiA9eG+sKLJtYj4ZnGDoxlWLFuS9+jEJsQYMB/xGCGcwYOn8w6IMYeOYV37wHNhDoMTJ9UKXKH6RuGSqBJWXawjHfjjXmIw=;7MnDKPn2kptImmmc8aLThA=="
 ---
 

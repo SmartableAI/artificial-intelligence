@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "taskus"
   url: "https://twitter.com/taskus"
-  followers: 3948
+  followers: 3947
 
 size: 10,001+ employees
 yearFounded: 2008
@@ -38,6 +38,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=W1V6Id1VrqU"
 
-secured: "/FACyo8kCz3vx2JJqjqWvVq0b7SyZNBLbOeopM1lxum94X0kq41frv2pt8dQ0390AWGisOUWd3Fyz6f8KXcUPyQSs3dPvLZkoJjfxSUSdiAm7OpgpG3MWCuBUXmKMR+rqP6fdHlJf1GUoOcokOmobZpWAiG7E6aTCzuYYdHvi4fa3mme15nnj9K5ZoAGl/UUZNTGvNGfTSK7WFJ6oK5XmYawcXMY9mbLEfC0O500JS4ZpkAFgZ1v3VUlNCzfjOiaZKfUbG68u8yeZ/zbZdTM8GjisysviEeoKUptfluZqDT43z22JwCCvZNTGyE3ztY22IHfLPXdMy+XqXobt/9qiXoRjHbJN1yp+yplktWPaIPe5IHEqRjYnSELXHaxr7Jx8qAP6bF1rvI5mvH55cF+MIPtFdcmDROTjI+ngZB0jZ4=;beOfwEVGZRIMRs48rIxX5A=="
+secured: "yvMjvAJxPOp3Zy84QmukePQGMzD5tqlTHQ7F+jByj44yJ8CNdkptbgl2YLBf2cIC3MJ1EPSS+CRgjtlm9Eo4oesL4RCCne9yEmbxEqwxyt2OXpgAyQrD1s2Jm1LOtrP+6clXCQ8mJdl+DULBlg+tD0M3Esm0odqQxJUwfm9aDGx28Gp2QAnyzG9to0EeRKDAMBy4e5CynhbvdZW0L+7TW4vHuNH29RvmWpr1FnbvDogzlGJFRPhTzOZn7Og/eDrNRxkmG1PTu2zH32LAsGLknf+A4udTZ84c/HzWP1g3b4G26q2IRZpoQIX8q6C0lB7iHWVDzGHvPYocW0T8V4OqSoUPiOTNo75ETMcIZv0UIqc0YT8PbxSVSCi16bnZb+UrQzT+LEeQLrniDs4BVgWRAEfmyuAy2+68rJM4KYEHrbU=;nrTUjd/1bVfuQxd+4RRl5Q=="
 ---
 
