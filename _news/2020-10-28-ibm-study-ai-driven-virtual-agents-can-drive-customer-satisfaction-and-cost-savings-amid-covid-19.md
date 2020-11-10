@@ -1,26 +1,30 @@
 ---
 category: news
 title: "IBM Study: AI-driven Virtual Agents Can Drive Customer Satisfaction and Cost Savings Amid COVID-19"
-excerpt: "As many organizations across the world look to digital tools to help address surges in customer inquiries due to the COVID-19 pandemic, a new IBM study revealed 99% of respondents report an increase in customer satisfaction as a result of using AI-driven virtual agent technology."
-publishedDateTime: 2020-10-28T14:30:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-virus-outbreak-lung-disease-health-diseases-and-conditions-8d2b93a339b25c986b3c3dd0262b9e5d/gallery/140d2107145ac6b5139433ecb79ed8c0"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-virus-outbreak-lung-disease-health-diseases-and-conditions-8d2b93a339b25c986b3c3dd0262b9e5d/gallery/140d2107145ac6b5139433ecb79ed8c0"
+excerpt: "The research showed organizations that are early adopters of AI and cloud technology are reaping ... USD 5.50 per contained conversation using IBM Watson Assistant. The IBM Institute for Business ..."
+publishedDateTime: 2020-10-28T14:42:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-study-ai-driven-virtual-agents-can-drive-customer-satisfaction-and-cost-savings-amid-covid-19-1029735274"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-study-ai-driven-virtual-agents-can-drive-customer-satisfaction-and-cost-savings-amid-covid-19-1029735274"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1322193/IBM_AI_Study.jpg"
+    width: 400
+    height: 225
     isCached: true
 
-secured: "65k34yLR9K64RBeRy4p2NeL61j9LoVVtjo292JzkX00Gl2g3IteQmAVl+Bp17z+0KhpqQvIN2ZSeIs2X3bmILBMVv54LRvdVyuAHz/ZB0HYWabSgnNMMq3IFBQTpoDTaciUz0VMUGScEsIlTgDTUGxGYdYwyPUunTrKZl+CAaAD6QaHwfghuXy645qxVyVTZAzHzjXIe+VArUyxl9fE3dNtwxlNIe1oIIgG/IjJ198d/LnAVJczmZG+pBisFWcKV4eLrUxok49PGrBohj1mQc028pKkXZnfMWFlTd4Aeju7XilGwnLY9M/NIPIg1Dhw/HGwVVX05C0MFQu4ZmtJQHv5maldJJ1c9NSnCuygaV5o=;jGPsYc9bCiUlNqCNO6vbeQ=="
+secured: "T98o2JJILqn6JIyh9E3pF8MU5mNk9ZPlUPxfMSTqOfLwS+70D4zxQ1MhlBUZTJhHWIXvfg/U86tywOJwC8DDExOP4u4DtouxK90HfegOtU7PBnE+ejWU2sOo8bwP13hJz9ihIilkQYlJr28bPq+gpteBkbAb790gY26FlfJK8mB7W2Ryw2vHVlIA8Towsrb4bRJPz9xdBSIqE/yrVr8T/KdpaIzm08g4zGak74La251x8bYLpfQjHRAZAKsndKKJ82nozzR5qJ/jlWyeI0o21UmFVMGaiptcHQaI1BX+nCjCTFKKMKYH7wIkYeeGqp7k4Vvrm/uSdT31tksPwGOB1PX3+u3oouvTylr/3Jiq3Rw=;bZsarpSRz25WoCpQrz5woQ=="
 ---
 

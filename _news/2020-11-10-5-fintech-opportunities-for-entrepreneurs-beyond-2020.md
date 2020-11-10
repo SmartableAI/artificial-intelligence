@@ -96,7 +96,7 @@ related:
   - title: "AMTD’s Singapore Solidarity Fund invests $6.4m in 5 fintech startups in its first batch"
     excerpt: "The evaluation process for a second batch of investments – which aims to support Singapore’s fintech community – is already underway."
     publishedDateTime: 2020-11-09T11:18:00Z
-    webUrl: "https://www.techinasia.com/amtd-singapore-solidarity-invests-64m-5-fintech-startups-first-batch?ref=recommender-661693"
+    webUrl: "https://www.techinasia.com/amtd-singapore-solidarity-invests-64m-5-fintech-startups-first-batch?ref=recommender-661817"
     type: article
     provider:
       name: Techinasia
@@ -149,6 +149,6 @@ related:
       domain: ibsintelligence.com
     quality: 4
 
-secured: "bAksG1Bt0C3bWT1A5pvFDC8UbiGDMKoS/zdq8wi8lv7k6mza48y95e2Gzx/X7Ouei+vPmME4/3n9zzzfw4qkru9PTWsMugDjNyYrkK7EeUbHMwjJ/9D7h8gxZZ9IT0HObjSeJJan7OzCQnL5pwpDGyRzAiGnCQ6zPhpZughejwIPa+Yf2jAPyCzyA5BPtqD0P7T7zpg7+yp90FfcXZNqRsoVRCmaf8/EHzMKyor9djvAWFCAqIX8VyHpLu7QSQ8G3ScOYGYm3oTIR2LYQUs2S60BXW7yxnVkectizYw00N17vO+Mq0C1194Z8yR/9uHqAfSAJyRbWC28Q2Iht9yCRQMw18jxC3k97vuJf+piAbM=;DXEwtjWsYhJkf7lnQt080w=="
+secured: "gjrSYzOrheG12c0HCIQ9+jd97ScoDAlWtcm5rpiIZG3eAgLrTzb+2bkPte1bs8uD/H0ExAJ042BFDCOlZ50DR3iIK1d09fVCC/cV24zh9H5NgmWo4zPNWvYvRtC302tOraRayyvgjXgf0A/gPgdMghYVbSv5d7CH/mH7d2YB2+0fxtkk76phcDqg5tfGYO0B/+LnnPNTgp0l9sutb6biwuuOepmPg8EhxjJZ81tNyXQn1h5wii4LtxxPtKzxF3xP9N/FeOtBqHVUywUvg+1z09RYqoV7UwOjPo75QG09YRoapdxdnZBm1R4VDtQu8D+oMksodwB+tg2KmqZTUspXM/Pt0uqO43LN0hnHzvXyl1U9Di5kiENiWdCl0O3beRhOlLqH3zBbR3M8KyFu4DAzIpsGos5+3aEJKwOfEimcyDk9IbfEafuvPRv5i8eqgzx/B7nuRSJa/i3UvRVyQ371fr5IOz33V2D2gcsZiibb8urZTtiq/SiXAjO++sHczmFwUgnN0YMwlkOMbqHXSnxFPw==;g7wIyglvnCXnESxhEjD2rw=="
 ---
 

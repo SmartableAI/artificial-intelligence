@@ -7,7 +7,7 @@ originalUrl: "https://www.cio.com/resources/210425/live-q-a-how-observability-au
 webUrl: "https://www.cio.com/resources/210425/live-q-a-how-observability-automation-and-ai-have-become-essential-to-digital-business-success"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 300
     height: 300
     isCached: true
-
-related:
-  - title: "Why I Just Purchased Shares of AI Cloud Observability Company Dynatrace"
-    excerpt: "Technology projects to update operations -- especially in cloud computing -- can no longer be delayed, but rather are critical to the long-term health of many businesses. As a result, cloud observability software outfit Dynatrace (NYSE:DT) says its total addressable market has surged in the last 18 months from $20 billion a year to $32 billion a year."
-    publishedDateTime: 2020-11-05T16:38:00Z
-    webUrl: "https://www.fool.com/investing/2020/11/05/why-i-just-purchased-shares-of-ai-cloud-dynatrace/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/11/05/why-i-just-purchased-shares-of-ai-cloud-dynatrace/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/05/why-i-just-purchased-shares-of-ai-cloud-dynatrace/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 87
-    images:
-      - url: "https://media.ycharts.com/charts/46596513d52485d407d4f24e1d5e7db7.png"
-        width: 720
-        height: 542
-        isCached: true
 
 secured: "RGdvY2aKzCbGYU2fF2Z8jn8cdmGot/0Oh+P3/A2NSaXxk+4eZ9MVmRtYKl6oxIkTSs6yA0xHB6FzfRQzYlQbDLOJv3DBFwTnl4wJotqVR6OX+r3azCshE7Hl6fqQYDXV/vaPj7V2LLuo+uCexa39Ex5K5LT0K02jYMFKqqxX29AXD4m1790xKxxLk1ZTWcYCZiKe+B2iS1So9weDQuV0qAZnixrEOLc59k/L3e0ZDD6ldAqhwXKdPyLcnOYEM04CAAPnIFC1V4qigluip8XhkVldWfAsvlhx/16mhV8lIFV5pkXFGV23I2c/ywB/yFNHBBdFW6EojRzkE60vDZYghSxjomd+2xmdyyOt8rMjupI=;fU8onlMivFrOT28wkY0tgQ=="
 ---

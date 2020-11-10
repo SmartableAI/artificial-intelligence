@@ -7,7 +7,7 @@ originalUrl: "https://www.theguardian.pe.ca/business/reuters/toyota-backed-start
 webUrl: "https://www.theguardian.pe.ca/business/reuters/toyota-backed-startup-ponyai-raises-267-million-in-new-funding-round-517485/"
 type: article
 quality: 137
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -64,6 +64,20 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ix.YLzmNyBzI/v5/-1x-1.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Toyota venture fund invests in robotic kitchen startup"
+    excerpt: "Toyota AI Ventures, Toyota’s early-stage venture capital fund, has decided to invest in YPC Technologies, a robotic kitchen startup based in Montreal, Canada. The funding follows YPC Technologies’"
+    publishedDateTime: 2020-11-10T07:40:00Z
+    webUrl: "https://roboticsandautomationnews.com/2020/11/10/toyota-venture-fund-invests-in-robotic-kitchen-startup/38024/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 22
+    images:
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/11/ypc-tech.jpg"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "+YKDXZanL9qHcuNekZQ3HFiczR/u5ZeYvsggSdb8UQE6nRSD5Fpl0sDC3uLxaMP8xha54kqdrJor99dm0dZc7e0VpUW782c4bklb2iFc53g9cw5uBUTnHJqvzirLTkvJhiR1isRQ5Y5VHheK61ZlOkrrp7D6mE20YhtIKRr2fcBBpP+3GtM/+2o3b/hsYTXErhW8bxNRBSUPn1hdcBnY3gQ1lAlgZmIoOtmvQT9CnRnUSf1gNknWQfuQUujGC4hcjTdVFEfOUjLuE8MnSSDTMnPKTd9CXgaijEP5K3lsbthRMUT1BvtShCvNKDBLBsdxUUyY8Bmr32hF9UgcOlFCU0YeKJIBh3/70yzQZlF+p3U=;ZzS/UXBfHnTsLf+sZMzjxA=="

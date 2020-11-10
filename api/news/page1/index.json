@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-10-chip-maker-nvidia-signs-deal-with-hyundai-motor.md",
+      "title": "Chip maker NVIDIA signs deal with Hyundai Motor",
+      "excerpt": "Chip maker NVIDIA Corp on Monday announced that Hyundai Motor Group will use the NVIDIA DRIVE in-vehicle information and entertainment system for all its Hyundai, Kia, and Genesis models from 2022",
+      "sourceUrl": null,
+      "webUrl": "https://www.timeslive.co.za/motoring/news/2020-11-10-chip-maker-nvidia-signs-deal-with-hyundai-motor/",
+      "originalUrl": "https://www.timeslive.co.za/motoring/news/2020-11-10-chip-maker-nvidia-signs-deal-with-hyundai-motor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/4FTpGZSdcmCaK0uwJeO6vHuvyepDbptpALrkWU_jP4lg_FLQnBD59sgttsLIVuG465pflEEpFPablqlggoJ-=s1000",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timeslive.co.za/amp/motoring/news/2020-11-10-chip-maker-nvidia-signs-deal-with-hyundai-motor/",
+      "cdnAmpWebUrl": "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/news/2020-11-10-chip-maker-nvidia-signs-deal-with-hyundai-motor/",
+      "publishedDateTime": "2020-11-09T23:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Times LIVE",
+        "domain": "timeslive.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-ai-a-bane-for-traditional-financial-services-a-boon-for-fintech-capgemini-report.md",
+      "title": "AI, a bane for traditional financial services, a boon for fintech: Capgemini report",
+      "excerpt": "Covid-19 has catalysed financial services organisations to harness Artificial Intelligence (AI) to improve customer experience (CX), says a report published by the Capgemini Research Institute. However,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/ai-a-bane-for-traditional-financial-services-a-boon-for-fintech-capgemini-report/article33063906.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/info-tech/ai-a-bane-for-traditional-financial-services-a-boon-for-fintech-capgemini-report/article33063906.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/info-tech/1y1q1h/article33063905.ece/ALTERNATES/LANDSCAPE_615/AI",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/ai-a-bane-for-traditional-financial-services-a-boon-for-fintech-capgemini-report/article33063906.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ai-a-bane-for-traditional-financial-services-a-boon-for-fintech-capgemini-report/article33063906.ece/amp/",
+      "publishedDateTime": "2020-11-09T21:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-mobile-ai-market-forecast-with-competitive-landscape-analysis-and-key-companies-profile.md",
       "title": "Mobile AI Market Forecast with Competitive Landscape Analysis and Key Companies Profile",
       "excerpt": "The mobile artificial intelligence market size is anticipated to touch USD 10.28 billion at a whopping 29.52% CAGR between 2018- 2023, as per the current Market Research Future (MRFR) analysis. Mobile artificial intelligence or mobile AI makes a smart device cleverer by offering advanced software and hardware for the efficient operation of the device and better decision making.",
@@ -436,6 +522,49 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-machine-learning-algorithms-help-predict-out-of-hospital-cardiac-arrest-survival.md",
+      "title": "Machine learning algorithms help predict out-of-hospital cardiac arrest survival",
+      "excerpt": "Using neighborhood and local data in combination with existing information sources creates a more accurate prediction on a patient's recovery prospects after an out-of-hospital cardiac arrest (OHCA),",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20201109/Machine-learning-algorithms-help-predict-out-of-hospital-cardiac-arrest-survival.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20201109/Machine-learning-algorithms-help-predict-out-of-hospital-cardiac-arrest-survival.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2014%2f7%2fCardiac_Arrest-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20201109/Machine-learning-algorithms-help-predict-out-of-hospital-cardiac-arrest-survival.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201109/Machine-learning-algorithms-help-predict-out-of-hospital-cardiac-arrest-survival.aspx",
+      "publishedDateTime": "2020-11-09T06:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -1086,160 +1215,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-chinese-autonomous-truck-startup-inceptio-raises-120-million-from-catl-others.md",
-      "title": "Chinese autonomous truck startup Inceptio raises $120 million from CATL, others",
-      "excerpt": "China's Inceptio Technology, a startup developing self-driving trucks, said on Monday it has raised $120 million in its latest funding led by top Chinese electric vehicle battery maker CATL <300750.SZ>.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uk-inceptio-autonomous-idUKKBN27O0Y9",
-      "originalUrl": "https://www.reuters.com/article/uk-inceptio-autonomous-idUKKBN27O0Y9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540459170&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA70QK",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN27O0Y9",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27O0Y9",
-      "publishedDateTime": "2020-11-08T16:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-how-artificial-intelligence-may-be-making-you-buy-things.md",
-      "title": "How artificial intelligence may be making you buy things",
-      "excerpt": "So the next time you dash into your local shop to buy certain snacks and a particular wine on a Friday night, perhaps you can blame AI, and a computer that has learned all about you, for the decision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/amp/technology-54522442",
-      "originalUrl": "https://www.bbc.com/news/amp/technology-54522442",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/26A6/production/_115249890_gettyimages-1128467471.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/technology-54522442",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-54522442",
-      "publishedDateTime": "2020-11-08T16:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste.md",
-      "title": "CSIRO to use artificial intelligence, machine learning, and sensors to end plastic waste",
-      "excerpt": "The Commonwealth Scientific and Industrial Research Organisation (CSIRO) has announced partnerships with Microsoft, Hobart City Council, and Chemistry Australia to address -- and attempt to end -- Australia's plastics waste issue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
-      "originalUrl": "https://www.zdnet.com/article/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/06/16/9661d050-0c11-4767-a7ae-3c29bd3d17c5/storm-water-and-litter.jpg",
-          "width": 728,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
-      "publishedDateTime": "2020-11-08T16:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

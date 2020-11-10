@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-2020-report-contains-top-manufacturer-share-business-revenue-and-industry-overview-till-2025-2020-11-06"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: MarketWatch
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Natural Language Processing Market Latest Industry Size, Share, Emerging Trends, Demand, Revenue and Forecasts Research Report"
+    excerpt: "The report evaluates the important characteristics of the market based on present industry scenarios, market demands and business strategies. Also, the research report separates the industry based on the Natural Language Processing Market share,"
+    publishedDateTime: 2020-11-10T08:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-market-latest-industry-size-share-emerging-trends-demand-revenue-and-forecasts-research-report-2020-11-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "India Online learning Market Overview Report, 2020-2025 Featuring Major Institutions and their Brands"
     excerpt: "Simplilearn Courses & Tutorials Brain4CE Education Solutions Private Limited - Edureka Intellipaat Software Solutions Private Limited - Intellipaat Jigsaw academy education private limited - Jigsaw academy India online reskilled & certification learning market with its value,"
     publishedDateTime: 2020-11-09T11:42:00Z

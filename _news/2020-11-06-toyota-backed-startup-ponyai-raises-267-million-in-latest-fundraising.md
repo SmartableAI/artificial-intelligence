@@ -69,6 +69,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Toyota venture fund invests in robotic kitchen startup"
+    excerpt: "Toyota AI Ventures, Toyota’s early-stage venture capital fund, has decided to invest in YPC Technologies, a robotic kitchen startup based in Montreal, Canada. The funding follows YPC Technologies’"
+    publishedDateTime: 2020-11-10T07:40:00Z
+    webUrl: "https://roboticsandautomationnews.com/2020/11/10/toyota-venture-fund-invests-in-robotic-kitchen-startup/38024/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 22
+    images:
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/11/ypc-tech.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "sriPfosHpJfQKMFXH0o5spTdzCiuWRHHrJPbZv/O47SWTxawm/0i1+S1WKsyVQBN9BU9ePlDnJJ/BI5VKL/i6GJz1XI1EEvLQBFbTP2fy+6A6ZEgj7l4chpOhWq4n0ElVjFiKZSc+5+O2k2J+DhPumSLl46u8kCaH7zSefvsY1DNg0SUumCguU2y1ZOgXNGnUAx/2HnCixVa49o2+ueFV5OSUnObVfhTvOfRMXPdB7sOOQ+fZAwb8F16AEp+2aGRuIAdyAYYHWx8RRgzu4gVAB2d3SuGJHjTrV+roCbhQgTnzzfcX3qiLQAtQy0Bv0t5nkRw4sXd/I4QQFvsitlZMz74e2MMHzuMLsV+cGl7lDtLFjaHXG9d5pKmriUeX+F3TnbR4l/yQiI1q7cUfRDmJuCfesrtqocEq+dFT6g+Sj6BkAbAu72fzXBtkWRb4Wdk1t3uzmNoYA1HwJz/I1/H2oF9KjVsWIep5s6LZVi9cCzCGHe2mpOs+rBVcqgGaXwmfiuUsdgwYSs8JFjiwZyBsw==;f11ohpv4ytNcInkXq0yh5w=="
 ---

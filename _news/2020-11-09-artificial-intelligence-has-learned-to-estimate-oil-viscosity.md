@@ -7,7 +7,7 @@ originalUrl: "https://www.chemeurope.com/en/news/1168562/artificial-intelligence
 webUrl: "https://www.chemeurope.com/en/news/1168562/artificial-intelligence-has-learned-to-estimate-oil-viscosity.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 832
     height: 624
     isCached: true
-
-related:
-  - title: "Artificial Intelligence has learned to estimate oil viscosity"
-    excerpt: "A group of Skoltech scientists developed machine learning (ML) algorithms that can teach artificial intelligence (AI) to determine oil viscosity based on nuclear magnetic resonance (NMR) data. The new method can come in handy for the petroleum industry and other sectors,"
-    publishedDateTime: 2020-11-05T16:16:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/sios-ai110520.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "clFdSQFESkZc3TwTasH78kGRVVHJdggxV3mDleuincKuSFZW56uPoZZAtBCTVyzkysZaaJp8BP81nWtXIRbSbr/f9tA9MrlY8qyxhbuHeBNVhAApzSo9Ga4zT6hLBzB45tEIgUbc+H2fNKVfDjAvlCcZU4cV+EH1gQW+HDcEGUYkqji4Hm0NqqXR+z1p58Qw660HSYcSzZsg7LJmA/qkgQSiTDSs7aOKSdkY9JoDky/Xwvazs4WTw5vv6UaOjkvPD8rFp+kea6kpE9RV/I7prdFKwGFh0WOZ3fp0LGG0cKzxOuQ0GczFUPflYGV+DPM7JejzWcpfsTEERZlVzQjXTWtrHfEJbxQVF5X7ggtv0UykytQElsIHzVDEq7IuwXs46OTabcez4QNqSTgSk57pMrulfOJLF+ypbOymGoWyZe+184fKI9urUprLCCWfnMYam0DNFS/bw5woJ9SknL/5fVu568YtXZucq24UQwCbwe8ucpQY/Llgu359eDErOzk0Sk1Xtb4g/6taTDcP8V+ouA==;DZjixA5LuPk6h90mZ3XRpw=="
 ---

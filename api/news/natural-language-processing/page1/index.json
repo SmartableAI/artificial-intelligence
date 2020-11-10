@@ -370,7 +370,7 @@
       "originalUrl": "https://www.livemint.com/technology/tech-news/microsoft-ai-summit-reimagining-digital-governance-with-cloud-ai-iot-11604663602516.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -403,6 +403,58 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-06-natural-language-processing-market-size-2020-report-contains-top-manufacturer-share-business-revenue-and-industry-overview-till-2025.md",
+      "title": "Natural Language Processing Market Size 2020 Report Contains Top Manufacturer Share, Business Revenue and Industry Overview till 2025",
+      "excerpt": "Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Natural Language Processing Market”",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-size-2020-report-contains-top-manufacturer-share-business-revenue-and-industry-overview-till-2025-2020-11-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-size-2020-report-contains-top-manufacturer-share-business-revenue-and-industry-overview-till-2025-2020-11-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-06T00:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1416,58 +1468,6 @@
         "name": "openpr.com",
         "domain": "openpr.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-researchers-find-high-error-rates-in-commercial-speech-recognition-systems.md",
-      "title": "Researchers find high error rates in commercial speech recognition systems",
-      "excerpt": "Some automatic speech recognition (ASR) systems might be less accurate than previously assumed. That’s the top-level finding of a recent study by researchers at Johns Hopkins University ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/22/researchers-find-high-error-rates-in-commercial-speech-recognition-systems/",
-      "originalUrl": "https://venturebeat.com/2020/10/22/researchers-find-high-error-rates-in-commercial-speech-recognition-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/11/echo-dot-e1572284967494.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/22/researchers-find-high-error-rates-in-commercial-speech-recognition-systems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/researchers-find-high-error-rates-in-commercial-speech-recognition-systems/amp/",
-      "publishedDateTime": "2020-10-22T11:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

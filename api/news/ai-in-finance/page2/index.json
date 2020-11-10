@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-08-finding-new-ways-to-operate-transform-with-machine-learning.md",
+      "title": "Finding new ways to operate & transform with machine learning",
+      "excerpt": "Mark Smith, Worldwide Head of Business and Market Development for Payments, Amazon Web Services ... to implementing machine learning workloads, and about the challenges financial institutions ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/videoarticle/2391/finding-new-ways-to-operate--transform-with-machine-learning",
+      "originalUrl": "https://www.finextra.com/videoarticle/2391/finding-new-ways-to-operate--transform-with-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/finextra-images/top_pics/xl/mark-aws.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-07T18:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-bespoken-spirits-raises-26m-in-seed-funding-to-combine-machine-learning-and-accelerated-whiskey-aging.md",
       "title": "Bespoken Spirits raises $2.6M in seed funding to combine machine learning and accelerated whiskey aging",
       "excerpt": "Bespoken Spirits, a Silicon Valley spirits company that has developed a new data-driven process to accelerate the aging of whiskey and create specific flavors, today announced that it has raised a $2.",

@@ -2,6 +2,229 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2020-10-05-nvidia-jetson-nano-2gb-is-59-gateway-into-ai-and-robotics.md",
+      "title": "NVIDIA Jetson Nano 2GB is $59 gateway into AI and robotics",
+      "excerpt": "That’s because it taps the same Jetson AI at the Edge platform as the rest of NVIDIA’s Jetson ... The Jetson Nano 2GB gets a 128-core NVIDIA Maxwell GPU and a 64-bit quad-core Arm A57 CPU running at 1.43 GHz. They’re combined with 2GB of LPDDR4 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/nvidia-jetson-nano-2gb-is-59-gateway-into-ai-and-robotics-05641043/",
+      "originalUrl": "https://www.slashgear.com/nvidia-jetson-nano-2gb-is-59-gateway-into-ai-and-robotics-05641043/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 201,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/10/nvidia-jetso-nano-2gb.jpg",
+          "width": 1559,
+          "height": 975,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/nvidia-jetson-nano-2gb-is-59-gateway-into-ai-and-robotics-05641043/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidia-jetson-nano-2gb-is-59-gateway-into-ai-and-robotics-05641043/amp/",
+      "publishedDateTime": "2020-10-05T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-nasa-releases-images-of-the-first-craters-on-mars-discovered-by-ai.md",
+      "title": "NASA releases images of the first craters on Mars discovered by AI",
+      "excerpt": "The AI tool spotted a cluster of craters that were created when a meteor shattered over Mars earlier this decade.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/10/05/nasa-releases-images-of-the-first-craters-on-mars-discovered-by-ai/",
+      "originalUrl": "https://thenextweb.com/neural/2020/10/05/nasa-releases-images-of-the-first-craters-on-mars-discovered-by-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-05T121503.426-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/10/05/nasa-releases-images-of-the-first-craters-on-mars-discovered-by-ai/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/05/nasa-releases-images-of-the-first-craters-on-mars-discovered-by-ai/amp/",
+      "publishedDateTime": "2020-10-05T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry.md",
+      "title": "IBM Brings Artificial Intelligence At Scale To The Marketing And Media Industry",
+      "excerpt": "IBM today announced three new products to add to its growing suite of AI solutions for brand and publishers. IBM intends to work with industry leaders, including Xandr/AT&T, Magnite, Nielsen, MediaMath,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-2020",
+      "originalUrl": "https://www.nasdaq.com/press-release/ibm-brings-artificial-intelligence-at-scale-to-the-marketing-and-media-industry-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-05T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-linley-fall-processor-conference-showcases-advanced-innovations-in-ai-chips-and-ip.md",
+      "title": "Linley Fall Processor Conference Showcases Advanced Innovations in AI Chips and IP",
+      "excerpt": "Processor Conference will be live-streamed on Oct 20-22 and 27-29. Featuring 33 technical talks on the latest AI chips and IP.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201005005171/en/Linley-Fall-Processor-Conference-Showcases-Advanced-Innovations-in-AI-Chips-and-IP",
+      "originalUrl": "https://www.businesswire.com/news/home/20201005005171/en/Linley-Fall-Processor-Conference-Showcases-Advanced-Innovations-in-AI-Chips-and-IP",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201005005171/en/708301/23/Linley_logo_lrg.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-05T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-nvidia-pledges-to-build-britains-largest-supercomputer-following-40-billion-bid-for-arm.md",
+      "title": "Nvidia pledges to build Britain’s largest supercomputer following $40 billion bid for Arm",
+      "excerpt": "Nvidia has announced plans to build a £40 million ($52 million) supercomputer in Cambridge, England, weeks after saying it intends to buy British rival Arm for $40 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/10/05/nvidia-pledges-to-build-britains-largest-supercomputer.html",
+      "originalUrl": "https://www.msn.com/en-us/money/companies/nvidia-pledges-to-build-britain-s-largest-supercomputer-following-40-billion-bid-for-arm/ar-BB19IxkS",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 228,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106729864-1601898836598-Cambridge-1__002.jpg?v=1601898919",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/10/05/nvidia-pledges-to-build-britains-largest-supercomputer.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/05/nvidia-pledges-to-build-britains-largest-supercomputer.html",
+      "publishedDateTime": "2020-10-05T06:01:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "com/2020/10/05/nvidia-pledges-to-build-britains-largest-supercomputer.html",
+        "domain": "com/2020/10/05/nvidia-pledges-to-build-britains-largest-supercomputer.html",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-nvidia-announces-cloud-ai-video-streaming-platform-to-better-connect-millions-working-and.md",
       "title": "NVIDIA Announces Cloud-AI Video-Streaming Platform to Better Connect Millions Working and ...",
       "excerpt": "NVIDIA today announced the NVIDIA Maxine platform, which provides developers with a cloud-based suite of GPU-accelerated AI video conferencing software to enhance streaming video — the internet’s No.",
@@ -921,248 +1144,6 @@
         "AI",
         "Facebook AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-04-deepmind-creates-new-research-unit-to-explore-ethics-of-ai.md",
-      "title": "DeepMind creates new research unit to explore ethics of AI",
-      "excerpt": "DeepMind has announced that they are launching a new research unit called DeepMind Ethics & Society, aimed at helping the company explore the impacts of artificial intelligence in the real world.",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/deepmind-creates-new-research-unit-explore-ethics-ai/",
-      "originalUrl": "https://sdtimes.com/ai/deepmind-creates-new-research-unit-explore-ethics-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2017/10/books-2562331_640.jpg",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-04-machine-learning-tool-searches-the-lungs-for-signs-of-heart-failure.md",
-      "title": "Machine learning tool searches the lungs for signs of heart failure",
-      "excerpt": "One of the ways physicians can gain some forewarning of impending heart failure is through the detection of excess fluid in the lungs, and MIT researchers have developed a new machine learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/medical/machine-learning-lungs-signs-heart-failure/",
-      "originalUrl": "https://newatlas.com/medical/machine-learning-lungs-signs-heart-failure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/0a90af4/2147483647/strip/true/crop/784x523+0+39/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fbe%2F14%2F618ef1134cf088b71d33c386abe0%2Fpulmedema.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/medical/machine-learning-lungs-signs-heart-failure/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/machine-learning-lungs-signs-heart-failure/?amp=true",
-      "publishedDateTime": "2020-10-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-04-microsoft-ignites-2020-with-new-services-and-tools-for-business-resiliency.md",
-      "title": "Microsoft Ignites 2020 With New Services And Tools For Business Resiliency",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as the annual Microsoft Ignite Conference showcases its latest and upcoming solutions. Patrick wanted to share some takeaways, which he'll break into",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/10/03/microsoft-ignites-2020-with-new-services-and-tools-for-business-resiliency/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/10/03/microsoft-ignites-2020-with-new-services-and-tools-for-business-resiliency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f78b987dd79fc6f76399291%2F0x0.jpg",
-          "width": 561,
-          "height": 369,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/10/03/microsoft-ignites-2020-with-new-services-and-tools-for-business-resiliency/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2020/10/03/microsoft-ignites-2020-with-new-services-and-tools-for-business-resiliency/amp/",
-      "publishedDateTime": "2020-10-03T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-7-types-of-ai-marketing-tools-that-drive-leads.md",
-      "title": "7 Types of AI Marketing Tools That Drive Leads",
-      "excerpt": "People in all kinds of industries are debating artificial intelligence (AI) pros and cons. AI pros and cons are",
-      "sourceUrl": null,
-      "webUrl": "https://www.business2community.com/marketing/7-types-of-ai-marketing-tools-that-drive-leads-02351260",
-      "originalUrl": "https://www.business2community.com/marketing/7-types-of-ai-marketing-tools-that-drive-leads-02351260",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.business2community.com/wp-content/uploads/2020/09/Increasing-Conversions-814862-edited-912776-edited-153863-edited.png",
-          "width": 600,
-          "height": 326,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.business2community.com/marketing/7-types-of-ai-marketing-tools-that-drive-leads-02351260/amp",
-      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/marketing/7-types-of-ai-marketing-tools-that-drive-leads-02351260/amp",
-      "publishedDateTime": "2020-10-03T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business 2 Community",
-        "domain": "business2community.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-hrw-warns-of-privacy-concerns-as-russia-expands-facial-recognition-systems.md",
-      "title": "HRW warns of privacy concerns as Russia expands facial-recognition systems",
-      "excerpt": "This article was originally published by Radio Free Europe/Radio Liberty and is reprinted with permission. Human Rights Watch (HRW) has criticized Russia's plans to expand the use of \"invasi",
-      "sourceUrl": null,
-      "webUrl": "https://americanmilitarynews.com/2020/10/hrw-warns-of-privacy-concerns-as-russia-expands-facial-recognition-systems/amp/",
-      "originalUrl": "https://americanmilitarynews.com/2020/10/hrw-warns-of-privacy-concerns-as-russia-expands-facial-recognition-systems/amp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://americanmilitarynews.com/wp-content/uploads/1024px-Soviet_Motorised_CCTV_camera_-_panoramio-1024x680.jpg",
-          "width": 1024,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://americanmilitarynews.com/2020/10/hrw-warns-of-privacy-concerns-as-russia-expands-facial-recognition-systems/amp/",
-      "cdnAmpWebUrl": "https://americanmilitarynews-com.cdn.ampproject.org/c/s/americanmilitarynews.com/2020/10/hrw-warns-of-privacy-concerns-as-russia-expands-facial-recognition-systems/amp/",
-      "publishedDateTime": "2020-10-03T04:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "American Military News",
-        "domain": "americanmilitarynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Advantech to Showcase Industrial-Grade Servers Powered by NVIDIA GPUs and Designed for IoT and AI Applications"
-excerpt: "Corporation, the leader in industrial computing systems, is demonstrating their newest short depth edge servers, GPU servers, software defined storage servers, carrier-grade"
+excerpt: "Advantech Corporation, the leader in industrial computing systems, is demonstrating their newest short depth edge servers, GPU"
 publishedDateTime: 2020-11-09T16:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/advantech-to-showcase-industrial-grade-servers-powered-by-nvidia-gpus-and-designed-for-iot-and/article_57ef0768-e2ee-5b1f-b1bf-db4bd7bb4377.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/advantech-to-showcase-industrial-grade-servers-powered-by-nvidia-gpus-and-designed-for-iot-and/article_57ef0768-e2ee-5b1f-b1bf-db4bd7bb4377.html"
+originalUrl: "https://www.prnewswire.com/news-releases/advantech-to-showcase-industrial-grade-servers-powered-by-nvidia-gpus-and-designed-for-iot-and-ai-applications-301168147.html"
+webUrl: "https://www.prnewswire.com/news-releases/advantech-to-showcase-industrial-grade-servers-powered-by-nvidia-gpus-and-designed-for-iot-and-ai-applications-301168147.html"
 type: article
-quality: 14
-heat: 14
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "hzwKAa/BPwrQfITPiGwIlZmz7R1pUisls4/LN7BPjx37NSFbtLk9TRgYrB8Pp7ly7P0X4M8AuAqpSYGEoWbeEpkbUCwEJuOBvZgZ9babeI/7p/AZKypqpnWYkpJaPxeQ298wR2fXUh0X0cQV5sk1rQfbcB+I8liWobDXGRctgp9JPyHUVOJSwiNExmg+vLe1D72rt5l5hLYAzZuVLjBB+F0tKJz9whn7r7bXbHZuxujMgQYY4CovLkL+XxIwbEWON0agEeQ97cv1/8g60k9Efu5rmiO2MNbxM5MsYPVbwUqx4BfTLpgsNO/KGqOJUS7NhnRMEEx5nwUCTSekUM5RKWpG0mI+aRRc0jDKe9Uckbs=;/+iQlHUIL92VXzDK6goxRQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1281103/Advantech_Logo.jpg?p=facebook"
+    width: 2400
+    height: 1259
+    isCached: true
+
+secured: "M9g8QNI/KW2r3Dd7xKuEVi4SLj2vPLH/rRuVXnva1CVVvR7eZHvmjWZaVSmNZXWmLWDl+r6m/wXEZtkAz8UORfMrPC0wA3xWbdeQbmke5SjrE9RiFcp0Z497yoGV/nxgUzoFcjuE0ylrsPUDfAPJD/en7PSWop/Yg0k0eJ97iw6v/pOnWgYA8FcXdlDShXGn0nAdP/tqUagXSHDXh3sl/BzSHLNJZBUJrZXK/ncKq11CivGp/lps08WtkJqNuHfFXfyqXPLXjOTWehZ0vkoToOxWJlQVRmy/yhLDX6w1eYF3ohVfUYvOiNIMiDh2exMkEDcUXiRmXvaR3LNNCA4zZ9412d9egKWouksDikPlBCw=;v5u/BxLzLJRyCENnxmIUSQ=="
 ---
 
