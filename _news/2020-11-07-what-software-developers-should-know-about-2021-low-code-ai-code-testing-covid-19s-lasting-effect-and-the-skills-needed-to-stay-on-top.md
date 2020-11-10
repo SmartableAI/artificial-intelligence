@@ -99,20 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The future of fintech beyond COVID-19"
-    excerpt: "By Ritam Gandhi, Founder and Director, Studio Graphene  COVID-19 has undoubtedly cemented our reliance on technology. With the unexpected shift to online working, shopping and entertaining, digital solutions have largely been the only means to overcome disruptions to our daily routines."
-    publishedDateTime: 2020-11-05T11:59:00Z
-    webUrl: "https://www.globalbankingandfinance.com/the-future-of-fintech-beyond-covid-19/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 24
-    images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/11/Untitled-design-2020-11-05T165829.943.jpg"
-        width: 750
-        height: 422
-        isCached: true
 
 secured: "yl3MJ3LPHEfdWAryNgr53YC2Fm1AgEqACYflFs0nOlgxCNRig51FwGkjmG5X83k8XmXfPqGFCQvPIEVKlJZwr/puWhZjY+r3uR7NBwL/3ZxQoT0uflirB71xjTwBU07D3RtnyEr+M6JuPUP/ntUvfuBDfbJXkV1aHYjKldLSS5UfwQ91vwvKg1OZ43usirMdbsZuwQxKLH7Qz4s4XQc+XgaF9ULSdBhLbxFt88eEwmCJBfRKiFq0t/u1x7KeKHLBMpr9469zUQhxdwfmfI78o8iCz8VYD0xfyNYOY/IbKGd/A47kmfOCQKjjai0iGVN/BQ53ngS6UCE+rn36rqtVdVarXHkHwdnLOJZpLyUawKDyTvMDdxVo/ag+IANf2CBYP6ROyKNap02e4fYqmfUb/mnT3X+OBTEFQN/j5uHYZZYEpfa89oX7ZTWzpjcdJ8i7Zf/BBZaDFO+wlfqYHUlGQpkvSZ1XqprXLQd21Ao1frtv9j6y0DisbZ9BGh5JyxkQ3Wg1dO07NJICoJmAy33bew==;fMpksfXikcG4aICqTv/6aA=="
 ---

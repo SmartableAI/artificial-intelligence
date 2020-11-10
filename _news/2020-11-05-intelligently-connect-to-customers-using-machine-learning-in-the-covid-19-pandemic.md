@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/intelligently-connec
 webUrl: "https://aws.amazon.com/blogs/machine-learning/intelligently-connect-to-customers-using-machine-learning-in-the-covid-19-pandemic/"
 type: article
 quality: 85
-heat: 145
+heat: 135
 published: true
 
 provider:
@@ -100,20 +100,6 @@ related:
       - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/Y_9KI5WD4_zKiLKSvWTGAwYo1Lk=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/XNV5BRFBDZGAFNKAOYJOIFQHRU.JPG"
         width: 1200
         height: 630
-        isCached: true
-  - title: "The future of fintech beyond COVID-19"
-    excerpt: "By Ritam Gandhi, Founder and Director, Studio Graphene  COVID-19 has undoubtedly cemented our reliance on technology. With the unexpected shift to online working, shopping and entertaining, digital solutions have largely been the only means to overcome disruptions to our daily routines."
-    publishedDateTime: 2020-11-05T11:59:00Z
-    webUrl: "https://www.globalbankingandfinance.com/the-future-of-fintech-beyond-covid-19/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 24
-    images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/11/Untitled-design-2020-11-05T165829.943.jpg"
-        width: 750
-        height: 422
         isCached: true
 
 secured: "USGVShVSeqBTLWU6SVOGgvR4jv+ZDhNs1tCgszPFUnXptR0XEmJaPnb57Qd61J+1MCC5BxHQF+232SuT7GzXS4EMwe+euyerLmpQRYaBm0hKwQ/08WcEGiURSWv1LS4YICO8xC9LvqnlvGxPLflNWj955eb+me1m7h2oYPnC1xJSCkVeaHfjBbNqqbnrBFf6K5wqjwP5j9xBEaD2QpYprsHU3vgcxDcvszuXAKIm/cBZXZzEDL/0Qw/U9Q9WONrMwltLc2kusEJQjfDq/kEiCVjWca/bBvgmuiS3sbeWG5mpikrjrEv4Zlrgz6Q8EqLacG4B+TIsdHd3h6PCgljCVwcvqqITxB5JwXQuvLyadvg=;U7I26zTLfQxzbJ9+RLzv1A=="

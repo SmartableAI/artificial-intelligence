@@ -3,8 +3,8 @@ category: news
 title: "AMTD’s Singapore Solidarity Fund invests $6.4m in 5 fintech startups in its first batch"
 excerpt: "The evaluation process for a second batch of investments – which aims to support Singapore’s fintech community – is already underway."
 publishedDateTime: 2020-11-09T11:18:00Z
-originalUrl: "https://www.techinasia.com/amtd-singapore-solidarity-invests-64m-5-fintech-startups-first-batch"
-webUrl: "https://www.techinasia.com/amtd-singapore-solidarity-invests-64m-5-fintech-startups-first-batch"
+originalUrl: "https://www.techinasia.com/amtd-singapore-solidarity-invests-64m-5-fintech-startups-first-batch?ref=recommender-661693"
+webUrl: "https://www.techinasia.com/amtd-singapore-solidarity-invests-64m-5-fintech-startups-first-batch?ref=recommender-661693"
 type: article
 quality: 26
 heat: -1
@@ -136,6 +136,6 @@ related:
       domain: ibsintelligence.com
     quality: 4
 
-secured: "C7U/HTjU9+kTZdLLnz0+gk85JYV+f9ydsKYBskiEYEMiL8kApxJ5ECUDT7ddYO4UVerC2Uad4hpl1vt3L0hZuZDD9faEt1IhMcix0c6yiNRDs0+j2nqM4GT+YTFthq1gaJYtz6T905miluzvFyH2KKcLFGMTKW/j7RvXD5BXQd/FS9t83I4Y7f1enH7KVcQX8ZsyGMOBC78CxGvvqd+Zjzzu9TJqb3c6cAx326bZ1r48J3eXWgONY8oxtOtGsmsitmKaDzVRVTqm0MfojNDTG4RU8IYYv/fk1KtkvSv/TKl9Qg2rJLxDcmYncVYSRH7YTwO9YADBJ0UZr55OKcrNz4IzwQvdGqHuXWUOqFVgYhewGvj36MShjvDnBBc77GbjG8n+r/lWe3d+D6z7oRNncEsU8FFlUxf7wuaLTelxfjIsgXfVmv/wwnaosXd70o8a//4UxVdqqrtC9CCbNZ5ZI2ewuieWXoDXCkmWqOwOxvsLoROFsUKns4FqnWPuwobzgX0UrSPVY/xLxUA1kCysSw==;twnubgwmIkLot3rSB+4TjA=="
+secured: "CeSiDPtu6NZXFrJeyuERiidnj18ytAl4i9hiUteEUTxhDO5xgDnQig4nVOAxDLw+TzwlXd9uPxfTUT2yxivSwbye05nQzUYSPfVTVakZ+kfB9jg9TqKWOGamQAcFtE96O06rvizvpx1/90GjIE3/2aYICSANOSalXSwjAuqSifstexhvwvAqhlXElN13ryiwKrazxrlQBvJXImslQODRBjA+J2pIBNpQQn9DNudz9hOvejTNanzpvkmCdFWIk8EIGn9mdxfrwg9lETWgazCwQjQ7/0yq/5hrYcCc0ZaNEnutjlcbDmJ0JqfYiwZ7fjITbNOVI5pDsc7vtcsx1VFvrn4vDsxl0XScyPws3O4d5z0qH2M14HYT+KOl1+0OqFMa+uMtAKzDVOeQPDO+3yIlPp1kmrjJx3Xn2TuyRSSRMkb2RnXjMB2LrLw0rIbN1sD79ccYiBtfiEB/dV50P5+6rFtl39O3iGhswhkDrCOOhNetAdM0VdgYNZvibejkYxMiXakRTRJ4p3FhudMp1a0TUA==;2S6X0XtQCGo2wMnuhEEL6g=="
 ---
 

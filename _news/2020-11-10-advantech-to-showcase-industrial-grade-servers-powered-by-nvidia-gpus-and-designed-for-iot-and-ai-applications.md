@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Advantech to Showcase Industrial-Grade Servers Powered by NVIDIA GPUs and Designed for IoT and AI Applications"
-excerpt: "Advantech Corporation, the leader in industrial computing systems, is demonstrating their newest short depth edge servers, GPU"
+excerpt: "Corporation, the leader in industrial computing systems, is demonstrating their newest short depth edge servers, GPU servers, software defined storage servers, carrier-grade"
 publishedDateTime: 2020-11-09T16:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/advantech-to-showcase-industrial-grade-servers-powered-by-nvidia-gpus-and-designed-for-iot-and-ai-applications-301168147.html"
-webUrl: "https://www.prnewswire.com/news-releases/advantech-to-showcase-industrial-grade-servers-powered-by-nvidia-gpus-and-designed-for-iot-and-ai-applications-301168147.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/advantech-to-showcase-industrial-grade-servers-powered-by-nvidia-gpus-and-designed-for-iot-and/article_57ef0768-e2ee-5b1f-b1bf-db4bd7bb4377.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/advantech-to-showcase-industrial-grade-servers-powered-by-nvidia-gpus-and-designed-for-iot-and/article_57ef0768-e2ee-5b1f-b1bf-db4bd7bb4377.html"
 type: article
-quality: 34
-heat: 34
+quality: 14
+heat: 14
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1281103/Advantech_Logo.jpg?p=facebook"
-    width: 2400
-    height: 1259
-    isCached: true
-
-secured: "wP2H5Ax/ApqrruyxqoQcDLbBY6L+GYLJ1SGJePoL7UmNNS+sfaHsQUMw/TrT2kmEBQBRBJE/JpIBu93PtF4GkflhdTkLh8/E+/1eMMompm8/jm8EySKvOatdPw6fXckLPkFRrV2SysDrmkUDszh1NJX4d80UEIMxyes1TA9bfpqL16jZLxI8m06beg5IwMWYF5ZBRbZyM6TxRFjtSsoXrb3X/lnryQOVFhlUohfxy44YdxYTLP/meCePM2AQ+4tbGJQ0sNvab0KdLyYxu2oGeywuxoGcd6Vqp49lslRJOqfuz9j+qklIR96BgWp6ee+yFMecPynGYVOS7WBS8YCzcDI1cAmi2Sl+m96BfHegdC0=;BRJBsuP+9brnyfFViEGkMw=="
+secured: "hzwKAa/BPwrQfITPiGwIlZmz7R1pUisls4/LN7BPjx37NSFbtLk9TRgYrB8Pp7ly7P0X4M8AuAqpSYGEoWbeEpkbUCwEJuOBvZgZ9babeI/7p/AZKypqpnWYkpJaPxeQ298wR2fXUh0X0cQV5sk1rQfbcB+I8liWobDXGRctgp9JPyHUVOJSwiNExmg+vLe1D72rt5l5hLYAzZuVLjBB+F0tKJz9whn7r7bXbHZuxujMgQYY4CovLkL+XxIwbEWON0agEeQ97cv1/8g60k9Efu5rmiO2MNbxM5MsYPVbwUqx4BfTLpgsNO/KGqOJUS7NhnRMEEx5nwUCTSekUM5RKWpG0mI+aRRc0jDKe9Uckbs=;/+iQlHUIL92VXzDK6goxRQ=="
 ---
 

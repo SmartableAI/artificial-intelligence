@@ -96,20 +96,6 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 35
-  - title: "The future of fintech beyond COVID-19"
-    excerpt: "By Ritam Gandhi, Founder and Director, Studio Graphene  COVID-19 has undoubtedly cemented our reliance on technology. With the unexpected shift to online working, shopping and entertaining, digital solutions have largely been the only means to overcome disruptions to our daily routines."
-    publishedDateTime: 2020-11-05T11:59:00Z
-    webUrl: "https://www.globalbankingandfinance.com/the-future-of-fintech-beyond-covid-19/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 24
-    images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/11/Untitled-design-2020-11-05T165829.943.jpg"
-        width: 750
-        height: 422
-        isCached: true
 
 secured: "z+qSsHA6QqHxhs4DBUET0L+UrTg8NbVVHz+pfKXwK0yQoAFEH9nWQt0WRfYsxmLLNNgKS1Hp6Wt3IVXitfBEJ0j/q9Sd2DFnZwhCXbMTSP8aSJ1wm0fcG2hrFUI1aCw8XTsAjNqnDC4IKRuLKod1sw3LyDKmM4I8g6ZgbfbPraLJ7noBnViwuLY54iv0BAfqKhUTBH0YXSiZhQf4UgIgYnza6tA80PNI5hl/QMUDqa9E7CvPT/pNQ/1dM/BOylpMf3SKRLRhW/bIMPfyQiPPvbp2X6XZyz4lymHQGQvku6idNEKAw4Xd91PLyBPa/beWPz0zOUaVcuoclg6dloe055S7fiobLlWZ6phBpdvt5/GhPR73vowXHrfS1lv2OD24Z3L8Fhqfb69qGGD3NuKm2jji4nG7BvKnEOONS6qvblIm0LNe5jT5/j21mHy3yxni2jS8c7w+O1G2jBIZG/0iGRpLplUhMDZ3x+CbU4bP7IfEXVMaQCVwOUAVsmqGWEiblnWew5WRSooLc12nY1gcuQ==;uHorq/EGeQkWjT9l6nEhww=="
 ---

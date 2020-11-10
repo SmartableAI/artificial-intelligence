@@ -7,7 +7,7 @@ originalUrl: "https://www.techinasia.com/singapore-edtech-startup-lingoace-banks
 webUrl: "https://www.techinasia.com/singapore-edtech-startup-lingoace-banks-6m-sequoiaindialed"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -22,15 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Tech execs’ angel network, Altair invest $3m in Singaporean business services startup"
-    excerpt: "The startup plans to further develop its engineering, product development, and marketing efforts across its different markets."
-    publishedDateTime: 2020-11-05T12:37:00Z
-    webUrl: "https://www.techinasia.com/ex-google-angel-network-altair-invest-3m-singaporean-business-services-startup"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 40
   - title: "Property startup 99 Group acquires Singapore Real Estate Exchange"
     excerpt: "Southeast Asian property startup 99 Group announced that it has acquired Singapore Real Estate Exchange (SRX), a property platform and real estate data provider in Singapore. With the agreement finalized on November 7,"
     publishedDateTime: 2020-11-10T01:34:00Z

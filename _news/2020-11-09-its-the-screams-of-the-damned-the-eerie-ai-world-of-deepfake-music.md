@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/music/2020/nov/09/deepfake-pop-music-art
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/music/2020/nov/09/deepfake-pop-music-artificial-intelligence-ai-frank-sinatra"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Guardian
@@ -43,6 +43,20 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/facebook_deepfake_ai.jpg"
         width: 800
         height: 500
+        isCached: true
+  - title: "Top AI-Based Tools & Techniques For Deepfake Detection"
+    excerpt: "There have been several efforts to create tools, albeit with varying degrees of success, which can help in deepfake detection"
+    publishedDateTime: 2020-11-10T04:32:00Z
+    webUrl: "https://analyticsindiamag.com/top-ai-based-tools-techniques-for-deepfake-detection/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2016/12/NNdyVORO_400x400.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "6PhsyvOPcgXIK/KuLCcvxyKRl5LljIVLJHnrnvo8l8ycnaSW0CKcNxrkGFE4FnfiU/pItTC/ghZ32Qk4NMtnXAo70HVdw0crpyiq/35q+ZSHp0s269MqxiEiisukpdUmx1+gDP+0r82IYMQZeh/NReV2bRaT3ppbi1lm3VQNDdqR77eA3o3lHtMYDuWMfXJ9dYGua0DIlXD022QyOKlTYoDg9Vcm9Rb1ynBXvGgcbGV/glvo8+MTqaeYT8Ul+0WQfKdjqAZFbGwBi6m4wLtn81eiWcp1uZNlaB7zBvCq7UVeMAHaQStuIN9e7WtKgiPVHnwiCtIJeXILIGzkiJLv3i7R1iI10OSi6CKnbHdkaK6G1UdREGLB8NsVm3g5Hk9mRqB5BLSiUsxfJR1onw42X5R64vhEuDFKObH3xxSBIgvGfiMhR5MbBaemWbfD3Xcj5Inf/c2cTVmAT0cRxp63UOyzqIFMoxnk7ASuRxQnCVTCRQuMx0EDY9auxDI9KxgvahM3S9Yq3gw/IgJ/XMMkNQ==;YNrgYOQpPpreDvttCfFUWQ=="

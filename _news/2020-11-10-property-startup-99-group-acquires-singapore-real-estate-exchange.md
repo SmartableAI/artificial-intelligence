@@ -22,15 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Tech execs’ angel network, Altair invest $3m in Singaporean business services startup"
-    excerpt: "The startup plans to further develop its engineering, product development, and marketing efforts across its different markets."
-    publishedDateTime: 2020-11-05T12:37:00Z
-    webUrl: "https://www.techinasia.com/ex-google-angel-network-altair-invest-3m-singaporean-business-services-startup"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 40
   - title: "Singapore edtech startup LingoAce banks $6m in Sequoia India-led round"
     excerpt: "The language learning startup said it plans to use the new funds for its Southeast Asian expansion plans and the further development of its platform."
     publishedDateTime: 2020-11-09T05:51:00Z

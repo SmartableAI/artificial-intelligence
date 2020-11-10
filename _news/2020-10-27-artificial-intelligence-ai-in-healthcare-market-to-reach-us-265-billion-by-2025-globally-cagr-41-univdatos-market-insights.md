@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) in Healthcare Market to Reach US$ 26.5 Billion by 2025, Globally |CAGR: 41%| UnivDatos Market Insights"
-excerpt: "Artificial Intelligence (AI) is expected to contribute up to US$ 15.7 trillion to global GDP by 2030. AI applications, powered by an influx of big data and advancements in computing power ..."
-publishedDateTime: 2020-10-27T00:00:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-842269344.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-842269344.html"
+excerpt: "UnivDatos Market Insights released a report titled \"Artificial Intelligence (AI) in Healthcare Market - by Technology (Machine Learning,"
+publishedDateTime: 2020-10-27T15:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025--globally-cagr-41-univdatos-market-insights-301160783.html"
+webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025--globally-cagr-41-univdatos-market-insights-301160783.html"
 type: article
 
 provider:
@@ -12,8 +12,8 @@ provider:
   domain: prnewswire.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1225049/UnivDatos_Logo.jpg?p=facebook"
@@ -21,6 +21,6 @@ images:
     height: 670
     isCached: true
 
-secured: "uefwBCnhohtK23qhosI2VxXGvt55279J/7kC9Y1+xHlC8lZksLdnNEcpyyWtze6NvNLHDTBtR4up52ArO9TOTOf3No2ar5ZqoGojRBUsEPPohxmDO6uHBgDA6n5J/ks8j/E6eKMRcqFql3rhcOWVV0CA5Q47km0PikIM4PXuhluqqtXg0b/7E7QTDF5JDzPpsYjv++2JeM95T/A1a/LCKxHhxlR3c36L3+y97Bq4SjKfjSYNpLZtiaWuMNJcI0xOJ3g/TvulZqkYAEazfTGKNkloTAyhqFcw7qj1n4f17bfHy/ZbmZuOhM1lxTjbxAupX5G3Hg98QaiFDKzRmdakFVHbem/wPCqw4eo9M0x654E=;nNc4P43VC/mytdVESdlu1g=="
+secured: "Dq5Ph3S9yPG/hNDEXzc0J2M9C3KqgIMtngyZfxnynw4iAn3hWJ7NXtdT9WqvU0qeVlld7eiRrci7GvjZXo9EDRrAgwnX2aS8Ym3YNGDexdqvFR1NMnoapajFRCRJi59+L+F0k6kqY6iIJuuoqUvM0qlIdZu1KwZAanBUdLiyzB3ItSrjajLKqIxY98Na5uvpvSfqnjP1Qg6AoS2v5+jGVq7tHsPSRrOZMBDUudO4mVuWeD8WTcXu06M+ZgpP5NnO1Bjq1LkaeDjoNkkvfen2RKmI+oCgNqCmBVFZwjz77wdYRiUiaRQD8GbopYczCW0iJhQD5HgJ9+0NX3IL4qvvPwFrX3DTYfdv4bdfdr4QWPA=;R8lWPSaZG5MKpGjn70iWGg=="
 ---
 
