@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Walmart partners with GM's Cruise on self-driving delivery pilot in AZ"
+    excerpt: "Walmart Inc is adding Cruise, a majority-owned affiliate of U.S. automaker General Motors Co <GM.N>, to its roster of self-driving startup partners, in a pilot delivery program early next year in Scottsdale,"
+    publishedDateTime: 2020-11-10T21:42:00Z
+    webUrl: "https://www.reuters.com/article/autonomous-cruise-walmart-idUSKBN27Q25S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q25S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q25S"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540705024&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA914Y"
+        width: 949
+        height: 545
+        isCached: true
   - title: "Walmart Teams Up With GM's Cruise on Self-Driving Deliveries"
     excerpt: "Walmart (NYSE:WMT) said today that it is teaming up with Cruise, the autonomous-vehicle company controlled by General Motors (NYSE:GM), in its latest experiment with self-driving delivery vehicles. Walmart said that it has agreed to a pilot program with Cruise,"
     publishedDateTime: 2020-11-10T19:12:00Z
@@ -182,6 +198,20 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/walmart.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Walmart teams up with GM's Cruise to test grocery delivery with self-driving cars"
+    excerpt: "Ward said the fleet of vehicles will not only save time but they also use 100% renewable energy. The company, which has been outspoken about its sustainability efforts, said using these vehicles will help to support Walmart's goal of reaching zero emissions by 2040."
+    publishedDateTime: 2020-11-10T21:31:00Z
+    webUrl: "https://www.foxbusiness.com/retail/walmart-cruise-grocery-delivery"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 19
+    images:
+      - url: "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/10/0/0/walmart.jpg?ve=1&tl=1"
+        width: 2100
+        height: 1500
         isCached: true
 
 secured: "+OZeigFGkfz3TNkTJVA14kpEF7Au9YpnLBfFVvBy7zFr/rueugwdxAYlVF6uO0g1M2gpbt654Lde8vOUMXDGtXSp0wzFvGR8Vfw3MVYYwmf0dnvqYgovpHDjyexd/6dw0kdVO7GN7o+XB62oc+EiLTEj9/j6rRUYhc1gy+974yAQMLJHL3VAwjAHYd2TCp+nFt0YXW91nMzxlOK8VWb5nRXnyysVoxFDuy0VTIsTC3bMQwie5thOWFjzJdY1oivlbAhugHVioLweoAu5FFgJCbkhIIFBbUOoufL8Kp2qCFWjFBwyzSefgc+SOiQrRu8aNBnlrbEYWYyzc5+hSUh6cwFNYDImICZ0kG6Izju7SvZwOIp4ikKHKqhFUzwsA+rLMXFu1x7AsMaIU1jR8Oat/cDtScYMl9FB4BG8N8jabj9oqsFal6Y5rzltoAnE49cYJHwCY1aiViA21RibM9cHydIRIQ5omANwdBkpeP7qIPROh1qeJQ8HsoYWvcBB/C1z9JA1CjwTeptvh3nfKgmgbw==;UtDQkqUKXAP+cZ4A7mYhMQ=="

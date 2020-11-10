@@ -7,7 +7,7 @@ originalUrl: "https://advanced-television.com/2020/11/10/professional-fighters-l
 webUrl: "https://advanced-television.com/2020/11/10/professional-fighters-league-leverages-ibm-tech/"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - IBM AI
   - AI
+
+related:
+  - title: "PFL to leverage IBM technologies to innovate next-gen SmartCage"
+    excerpt: "The Professional Fighters League (PFL) announced it will be leveraging Flagship’s capabilities to deliver IBM’s suite of advanced cloud and AI products to enhance the league’s delivery of next-gen SmartCage data and analytics,"
+    publishedDateTime: 2020-11-10T22:16:00Z
+    webUrl: "https://www.nationthailand.com/sport/30397710"
+    type: article
+    provider:
+      name: nationthailand
+      domain: nationthailand.com
+    quality: 24
+    images:
+      - url: "https://media.nationthailand.com/images/news/2020/11/10/30397710/800_cd75cac9e98d9ee.jpg?v=1605046453"
+        width: 675
+        height: 450
+        isCached: true
 
 secured: "yKmMQP0xoFdJnwGrZcYsXCXdoi3ODTi0DUJ1sHZKZQgwpwurHOfgA6LZZ374jQxLw816X0Tis5GlNLyu6cy8TLThieUODYTVuleiag0tSv1nygCdyawsaugJEm46ITWnr8jxeRi8Gd2yWKI6+N+H+Gk0ngy47/fGH6PW+vj3BDo/ySxLprBmNFc6hozW/n1YgwwKg5Q2iBGbxZ83M2JJQ8oiSbUrnHyV7Equ3+s+RT9ALejxdlf788emwUTmN6wl+n78gSuAnpSCb5fgrkPNFyMrdkUBWt7QsS+QQuhVKYN4dG1rARg6bWuCwJPewUb90mU2+TsBipsvLSJGNz0ALQjkeeRlA6c5GOTyFltIFGI=;p+H70A+IqoRjBee7/8k4/g=="
 ---

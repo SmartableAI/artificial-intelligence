@@ -2,6 +2,249 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-11-education-key-to-developing-lifelike-intelligent-robots-study-argues.md",
+      "title": "Education key to developing lifelike intelligent robots, study argues",
+      "excerpt": "In a new paper, researchers argue artificial intelligence has been too narrowly defined and biased by human hubris. To rectify this shortcoming, the study's authors claim robot-makers need to be better educated.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Science_News/2020/11/10/Education-key-to-developing-lifelike-intelligent-robots-study-argues/5361605037906/",
+      "originalUrl": "https://www.upi.com/Science_News/2020/11/10/Education-key-to-developing-lifelike-intelligent-robots-study-argues/5361605037906/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/i/5361605037906/2020/1/16050481937990/v1.5/Education-key-to-developing-lifelike-intelligent-robots-study-argues.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Science_News/2020/11/10/Education-key-to-developing-lifelike-intelligent-robots-study-argues/5361605037906/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2020/11/10/Education-key-to-developing-lifelike-intelligent-robots-study-argues/5361605037906/",
+      "publishedDateTime": "2020-11-10T14:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-mac-mini-with-apples-new-m1-chip-will-ship-for-100-less-than-the-previous-model.md",
+      "title": "Mac Mini with Apple’s new M1 chip will ship for $100 less than the previous model",
+      "excerpt": "Apple announced a bunch of machines powered by its first chip, M1. But there was only one desktop machine announced, a new Mac Mini. The new machine costs just $699  — $100 less than its current Intel-based version with a quad-core CPU.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/plugged/2020/11/10/mac-mini-with-apples-new-m1-chip-will-ship-for-100-less-than-the-previous-model/",
+      "originalUrl": "https://thenextweb.com/plugged/2020/11/10/mac-mini-with-apples-new-m1-chip-will-ship-for-100-less-than-the-previous-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/Apple_new-mac-mini-xcode-screen_11102020_big_carousel.jpg.large_-e1605035268765-796x419.jpg",
+          "width": 796,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/plugged/2020/11/10/mac-mini-with-apples-new-m1-chip-will-ship-for-100-less-than-the-previous-model/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/plugged/2020/11/10/mac-mini-with-apples-new-m1-chip-will-ship-for-100-less-than-the-previous-model/amp/",
+      "publishedDateTime": "2020-11-10T13:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-cash-flow-solutions-and-transaction-science-join-forces-as-ribbit-an-ai-fintech-firm.md",
+      "title": "Cash Flow Solutions and Transaction Science join forces as RIBBIT, an AI-FinTech firm",
+      "excerpt": "After 22 years as an electronic payments provider, Cash Flow proudly joins forces with Transaction Science, a groundbreaking predictive analytics company, to form RIBBIT. Visit  or follow on LinkedIn to learn more.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/cash-flow-solutions-and-transaction-science-join-forces-as-ribbit-an-ai-fintech-firm-1029788757",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/cash-flow-solutions-and-transaction-science-join-forces-as-ribbit-an-ai-fintech-firm-1029788757",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/cash-flow-solutions-and-transaction-science-join-forces-as-ribbit-an-ai-fintech-firm-1029788757",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cash-flow-solutions-and-transaction-science-join-forces-as-ribbit-an-ai-fintech-firm-1029788757",
+      "publishedDateTime": "2020-11-10T13:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-james-corden-is-a-snarky-ai-that-might-take-out-humanity-in-superintelligence.md",
+      "title": "James Corden is a snarky AI that might take out humanity in Superintelligence",
+      "excerpt": "When her TV, phone, microwave, and other electronic devices start talking to her ... of course), an AI who is pondering whether it should take over the world or allow humanity to continue to ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gaming/2020/11/james-corden-is-a-snarky-ai-that-might-take-out-humanity-in-superintelligence/",
+      "originalUrl": "https://arstechnica.com/gaming/2020/11/james-corden-is-a-snarky-ai-that-might-take-out-humanity-in-superintelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2020/11/superTOP-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-10T13:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-british-newscaster-speaking-style-now-available-in-amazon-polly.md",
+      "title": "British Newscaster speaking style now available in Amazon Polly",
+      "excerpt": "Amazon Polly turns text into lifelike speech, allowing you to create applications that talk and build entirely new categories of speech-enabled products. We’re thrilled to announce the launch of a brand-new, British Newscaster speaking style voice: Amy. The speaking style mimics a formal and authoritative",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/british-newscaster-speaking-style-now-available-in-amazon-polly/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/british-newscaster-speaking-style-now-available-in-amazon-polly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-10T13:02:47-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-the-breadth-of-healthcare-applications-of-artificial-intelligence-even-includes-physical-therapy.md",
       "title": "The Breadth Of Healthcare Applications Of Artificial Intelligence Even Includes Physical Therapy",
       "excerpt": "AI must play well the closer to patients it resides. Physical therapy is an excellent aspect of the needed growth, as it is a regular and visible part of patient treatment that includes humans, hardware and software interacting within a regulatory framework to improve patient outcomes.",
@@ -10,7 +253,7 @@
       "originalUrl": "https://www.forbes.com/sites/davidteich/2020/11/10/the-breadth-of-healthcare-applications-of-artificial-intelligence-even-includes-physical-therapy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -50,7 +293,8 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -114,7 +358,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards-1029788645",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 93,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -145,7 +389,8 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -365,7 +610,7 @@
       "originalUrl": "https://venturebeat.com/2020/11/10/mediatek-debuts-chips-for-budget-5g-phones-and-powerful-chromebooks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -667,7 +912,7 @@
       "originalUrl": "https://venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -707,6 +952,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-machine-learning-advances-materials-for-separations-adsorption-and-catalysis.md",
+      "title": "Machine learning advances materials for separations, adsorption and catalysis",
+      "excerpt": "An artificial intelligence technique—machine learning—is helping accelerate the development of highly tunable materials known as metal-organic frameworks (MOFs) that have important applications in chemical separations,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2020-11-machine-advances-materials-adsorption-catalysis.html",
+      "originalUrl": "https://techxplore.com/news/2020-11-machine-advances-materials-adsorption-catalysis.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/crystalline.jpg",
+          "width": 1920,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2020-11-machine-advances-materials-adsorption-catalysis.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-11-machine-advances-materials-adsorption-catalysis.amp",
+      "publishedDateTime": "2020-11-10T04:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -865,6 +1153,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-10-ibm-updates-cloud-paks-for-data-automation-with-rpa-tools-industry-accelerators.md",
+      "title": "IBM updates Cloud Paks for data, automation with RPA tools, industry accelerators",
+      "excerpt": "IBM said it is updating it Cloud Pak for Data and Cloud Pak for Automation with accelerators for industry use cases for data science, machine learning, document processing and rob",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ibm-updates-cloud-paks-for-data-automation-with-rpa-tools-industry-accelerators/",
+      "originalUrl": "https://www.zdnet.com/article/ibm-updates-cloud-paks-for-data-automation-with-rpa-tools-industry-accelerators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/09/18/b9991307-7e4f-4d35-b13a-a8a65270ed50/thumbnail/1200x675/99095146e257bc78f2ddff3ac6c5d86f/cloud.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-updates-cloud-paks-for-data-automation-with-rpa-tools-industry-accelerators/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-updates-cloud-paks-for-data-automation-with-rpa-tools-industry-accelerators/",
+      "publishedDateTime": "2020-11-09T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-ai-a-bane-for-traditional-financial-services-a-boon-for-fintech-capgemini-report.md",
       "title": "AI, a bane for traditional financial services, a boon for fintech: Capgemini report",
       "excerpt": "Covid-19 has catalysed financial services organisations to harness Artificial Intelligence (AI) to improve customer experience (CX), says a report published by the Capgemini Research Institute. However,",
@@ -904,367 +1244,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services.md",
-      "title": "Hyundai taps Nvidia for future fleet AI, infotainment services",
-      "excerpt": "Hyundai has announced that all future Hyundai, Kia, and Genesis vehicles will utilize Nvidia's in-vehicle artificial intelligence (AI) and infotainment platform.  The South Korean automaker said on Monday that the firm's \"entire fleet\" will eventually feature Nvidia's technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/",
-      "originalUrl": "https://www.zdnet.com/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/02/06/f45dbca6-1fe8-44d1-a0c3-9b9c773cdf84/thumbnail/1200x675/1714b4bf785f425773f040d17a6f803a/nvidia-geforce-now-cloud-gaming-service-5e3b63136b967a00010397a5-1-feb-06-2020-5-48-00-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/",
-      "publishedDateTime": "2020-11-09T18:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-neurals-market-outlook-for-artificial-intelligence-in-2021-and-beyond.md",
-      "title": "Neural’s market outlook for artificial intelligence in 2021 and beyond",
-      "excerpt": "The year is coming to a close and it’s safe to say Elon Musk’s prediction that his company would field one million “robotaxis” by the end of 2020 isn’t going to come true. In fact, so far, Tesla’s managed to produce exactly zero self-driving vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/11/09/neurals-market-outlook-for-artificial-intelligence-in-2021-and-beyond/",
-      "originalUrl": "https://thenextweb.com/neural/2020/11/09/neurals-market-outlook-for-artificial-intelligence-in-2021-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/binarystock-796x520.jpg",
-          "width": 796,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/11/09/neurals-market-outlook-for-artificial-intelligence-in-2021-and-beyond/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/09/neurals-market-outlook-for-artificial-intelligence-in-2021-and-beyond/amp/",
-      "publishedDateTime": "2020-11-09T13:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-oklahoma-plans-to-use-rekors-ai-to-track-down-uninsured-drivers-despite-discrimination-concerns.md",
-      "title": "Oklahoma plans to use Rekor’s AI to track down uninsured drivers, despite discrimination concerns",
-      "excerpt": "Rekor's partnership with the state of Oklahoma could lead to descrimination against certain groups of uninsured drivers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/09/oklahoma-plans-to-use-rekors-ai-to-track-down-uninsured-drivers-despite-discrimination-concerns/",
-      "originalUrl": "https://venturebeat.com/2020/11/09/oklahoma-plans-to-use-rekors-ai-to-track-down-uninsured-drivers-despite-discrimination-concerns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/10/roadtrip-e1604947444975.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/09/oklahoma-plans-to-use-rekors-ai-to-track-down-uninsured-drivers-despite-discrimination-concerns/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/09/oklahoma-plans-to-use-rekors-ai-to-track-down-uninsured-drivers-despite-discrimination-concerns/amp/",
-      "publishedDateTime": "2020-11-09T13:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-challenge-the-sounds-of-science.md",
-      "title": "Learn from the winner of the AWS DeepComposer Chartbusters challenge The Sounds of Science",
-      "excerpt": "AWS is excited to announce the winner of the AWS DeepComposer Chartbusters The Sounds of Science Challenge, Sungin Lee. AWS DeepComposer gives developers a creative way to get started with machine learning (ML). In June, we launched Chartbusters, a monthly global competition during which developers use",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-challenge-the-sounds-of-science/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-challenge-the-sounds-of-science/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/06/Sounds-of-Science-1.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-09T12:55:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-how-the-father-of-the-playstation-is-using-his-playbook-from-sony-in-his-new-role-as-ceo-of-ai-backed-startup-ascent-robotics.md",
-      "title": "How the 'father of the PlayStation' is using his playbook from Sony in his new role as CEO of AI-backed startup Ascent Robotics",
-      "excerpt": "Now he's trying to implement a similar strategy at Ascent, the robotics startup he joined in September as CEO — while forgoing a salary to save capital. \"We want to collaborate with as many smart people\" as possible, the so-called 'father of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/playstation-robotics-ps5-ken-kutaragi-startup-japan-2020-11",
-      "originalUrl": "https://www.businessinsider.com/playstation-robotics-ps5-ken-kutaragi-startup-japan-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa2f31a69331a0011bc74c8?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-09T11:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-ai-quantum-rd-funding-to-remain-a-priority-under-biden.md",
-      "title": "AI, Quantum R&D Funding to Remain a Priority Under Biden",
-      "excerpt": "The president-elect has proposed innovation funding of $300 billion over four years, in part to remain competitive with China.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-quantum-r-d-funding-to-remain-a-priority-under-biden-11604944800",
-      "originalUrl": "https://www.wsj.com/articles/ai-quantum-r-d-funding-to-remain-a-priority-under-biden-11604944800",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-253821/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-quantum-r-d-funding-to-remain-a-priority-under-biden-11604944800",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-quantum-r-d-funding-to-remain-a-priority-under-biden-11604944800",
-      "publishedDateTime": "2020-11-09T10:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-self-driving-delivery-firm-nuro-raises-500-million-as-covid-19-boosts-e-commerce.md",
-      "title": "Self-driving delivery firm Nuro raises $500 million as COVID-19 boosts e-commerce",
-      "excerpt": "Self-driving delivery company Nuro, whose R2 unit has no pedals or steering wheel and only room for packages, said Monday it has raised $500 million as e-commerce gets a huge boost from the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-autonomous-nuro-funding/self-driving-delivery-firm-nuro-raises-500-million-as-covid-19-boosts-e-commerce-idUKKBN27P1FT",
-      "originalUrl": "https://www.reuters.com/article/us-autonomous-nuro-funding-idUSKBN27P1FT",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 222,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540581533&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81M2",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN27P1FT",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27P1FT",
-      "publishedDateTime": "2020-11-09T09:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/11/168918-fintech-for-fashion-
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/168918-fintech-for-fashion-purple-dot-raises-1-35-million-seed-round/amp/"
 type: article
 quality: 59
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: Crowdfund Insider
@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "Cash Flow Solutions and Transaction Science join forces as RIBBIT, an AI-FinTech firm"
+    excerpt: "After 22 years as an electronic payments provider, Cash Flow proudly joins forces with Transaction Science, a groundbreaking predictive analytics company, to form RIBBIT. Visit  or follow on LinkedIn to learn more."
+    publishedDateTime: 2020-11-10T21:56:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cash-flow-solutions-and-transaction-science-join-forces-as-ribbit-an-ai-fintech-firm-1029788757"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/cash-flow-solutions-and-transaction-science-join-forces-as-ribbit-an-ai-fintech-firm-1029788757"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cash-flow-solutions-and-transaction-science-join-forces-as-ribbit-an-ai-fintech-firm-1029788757"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
   - title: "5 fintech opportunities for entrepreneurs beyond 2020"
     excerpt: "The fintech sector is undergoing a complete digital makeover by leveraging sophisticated new-age tech to cater to increasingly tech-savvy users resulting in a superior customer experience."
     publishedDateTime: 2020-11-10T05:15:00Z
@@ -57,19 +68,19 @@ related:
         width: 660
         height: 371
         isCached: true
-  - title: "Cash Flow Solutions and Transaction Science join forces as RIBBIT, an AI-FinTech firm"
-    excerpt: "After 22 years as an electronic payments provider, Cash Flow proudly joins forces with Transaction Science, a groundbreaking"
-    publishedDateTime: 2020-11-10T18:20:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/cash-flow-solutions-and-transaction-science-join-forces-as-ribbit-an-ai-fintech-firm-301170207.html"
+  - title: "Oil & Gas specialist Trajan Consulting announces new bespoke Fintech, AI and Agile division for GCC"
+    excerpt: "As the ADIPEC Virtual Strategic Conference kicks off, the company aims to help the sector implement intense methodologies focused on improving processes"
+    publishedDateTime: 2020-11-09T07:41:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Oil__Gas_specialist_Trajan_Consulting_announces_new_bespoke_Fintech_AInbspand_Agile_division_for_GCC-ZAWYA20201109074133/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 32
+      name: Zawya
+      domain: zawya.com
+    quality: 25
     images:
-      - url: "https://mma.prnewswire.com/media/1331437/Black_Frog_Green_RIBBIT_72dpi_Logo.jpg?p=facebook"
-        width: 939
-        height: 492
+      - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
+        width: 1200
+        height: 878
         isCached: true
   - title: "Fintech Firm Quadpay Gets The Urge for Visual Fashion Search"
     excerpt: "Pay Later” company QuadPay aims to bring visual fashion search to the platform, with $6.1 million Urge Holdings acquisition."
@@ -84,20 +95,6 @@ related:
       - url: "https://wwd.com/wp-content/uploads/2020/11/001_AG_GUCCI_SHOW_FW20_VIP-7822.jpg?crop=0px%2C146px%2C1000px%2C668px&resize=394%2C263"
         width: 394
         height: 263
-        isCached: true
-  - title: "Fintech set to tackle fashion waste secures £1.35m investment"
-    excerpt: "A new fintech designed to reduce stock wastage in the fashion industry has raised £1.35m in seed funding. Purple Dot, a… | Entrepreneurship | Fashion | Retail | London | Funding | Entrepreneur | Inves"
-    publishedDateTime: 2020-11-09T16:10:00Z
-    webUrl: "https://bdaily.co.uk/articles/2020/11/09/fintech-set-to-tackle-fashion-waste-secures-135m-investment"
-    type: article
-    provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 24
-    images:
-      - url: "https://bdaily.co.uk/images/uploads/prm3KGVbeVX4JCByff7vFp42Uy0Wr8asLQUSYKOU.jpeg?w=940&h=430&fit=crop-50-50&s=490606dc7e5f7b215880c7bba71329f2"
-        width: 940
-        height: 430
         isCached: true
 
 secured: "nQKpCbsA6eFFd23jtoIfcNGHCswQIMFg7UXSCHhMRCzK7j0fOSawPBesg5dCUsxjhKbfwad3FdrZsrVndIj64L/s+Ji1QM6RvFgDL5iwlGGkswSkcSZzZUarBm3tC0898gGfWSNsk0IVd981FJ4fvSPK0ARADSEzdna0cwH61eSDj++6/1sBO5D9V8ERJnbKBSbRPn/d4fEmy8u/OO628eFeQnNsKU8zA9UPvvcCbFe6JvPr84jqpPLE2oxBJNOzoClqU9wFKKlyJcU8VjFGr9JBxL8gDDOi8yen+Ov19PaBH/XAolea0DMLNCJQdd7YtIJoujTwja0tvpogz4xiubnfaAcyR1kNmo15l6xM59E=;RJmDkwh88WUxRV0mn/8hhw=="

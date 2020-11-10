@@ -1,16 +1,16 @@
 ---
 category: news
 title: "IBM updates Cloud Paks for data, automation with RPA tools, industry accelerators"
-excerpt: "IBM said it is updating it Cloud Pak for Data and Cloud Pak for Automation with accelerators for industry use cases for data science, machine learning, document processing and robotics process automation."
-publishedDateTime: 2020-11-10T14:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-updates-cloud-paks-for-data-automation-with-rpa-tools-industry-accelerators/"
-webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-updates-cloud-paks-for-data-automation-with-rpa-tools-industry-accelerators/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-updates-cloud-paks-for-data-automation-with-rpa-tools-industry-accelerators/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-updates-cloud-paks-for-data-automation-with-rpa-tools-industry-accelerators/"
+excerpt: "IBM said it is updating it Cloud Pak for Data and Cloud Pak for Automation with accelerators for industry use cases for data science, machine learning, document processing and rob"
+publishedDateTime: 2020-11-10T06:00:00Z
+originalUrl: "https://www.zdnet.com/article/ibm-updates-cloud-paks-for-data-automation-with-rpa-tools-industry-accelerators/"
+webUrl: "https://www.zdnet.com/article/ibm-updates-cloud-paks-for-data-automation-with-rpa-tools-industry-accelerators/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-updates-cloud-paks-for-data-automation-with-rpa-tools-industry-accelerators/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-updates-cloud-paks-for-data-automation-with-rpa-tools-industry-accelerators/"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 69
+heat: 89
+published: true
 
 provider:
   name: ZDNet
@@ -24,6 +24,12 @@ topics:
   - IBM AI
   - AI
 
+images:
+  - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/09/18/b9991307-7e4f-4d35-b13a-a8a65270ed50/thumbnail/1200x675/99095146e257bc78f2ddff3ac6c5d86f/cloud.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
 related:
   - title: "IBM mixes more deep learning into its Cloud Paks"
     excerpt: "IBM Corp. today introduced new versions of its Cloud Pak for Data and Cloud Pak for Automation products that will enable enterprises to harness deep learning models in their operations more easily. The Cloud Pak product family is a set of software solutions designed to streamline a variety of tasks ranging from cybersecurity to data analytics."
@@ -33,7 +39,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/Krishna-768x512.jpg"
         width: 768
@@ -54,6 +60,6 @@ related:
         height: 630
         isCached: true
 
-secured: "JqO4nC/WkHxOSveElhuahqDyl21YpWfslOFFrvRPPZD8WKKt9Z41Gk4+3eut9HzIRPpTctew6amjLxiIqWfhoGcI4JnAZb30yNQikLdJXDvIwmS7BhYGMu7BNvuMyjyrUzFerHFKBC7h6zXF4z/0Q7f/GEaGgDoKGnU5iXEsXUC6CMZXQF6QiLoTTPI2gwGf1aWRomneqwVYPt418fzxNlKG3EfprcNlhpOGad8zn7gmLUIFVXqyFVVphbvdU/NVkcDv1lY44/cnaUhn3Lu+e8SFHUMEEh9ZV3QygkLbMwjIaZ8XNQIdEpHNuTZPP8Lmmrdc48uTmArn/nKFDMny8+2seh680eWh/IO3PYhJQwz7MPec3c69C4YrMKztz8xo9aef4Xvlaq5+fbsGRDLDM6Fp5p18IrxAiSwkUKk7c3Riyh3JlQ4gw1K2XagohIhZyilRnZtrUMpVPU1VbBegvmTvlhJeF9qqMLj1G5/rme7gAhmNCKlR555M/p678uKcAmJixp8UtQG+jDofv8SwEw==;xk1jwMkdJikgkOi9k60Bzg=="
+secured: "GxHp1LwLqr5NN2VBjew1NSxi+y6kg8QqC3q9MMNy+R8FkD2HYVnhYKif4nrd1vrNkJpXStKKsfbuyBU0q/EVxLMhjMx4mxRj/qAQfytH1cyHexCKMUWH0/eSx72i0vMRXunU5hHvEUGFMMwn7hLLUbnY8ttLNCjdjvFogAuLrrGqOll924Neg/vNaB03b4BnWu+5ofGcVU5dbgYfDArcmCK/uz5zoZey28qhieJYHSeZkkeoTOy2jaliUwTLVkFxdOZpOCzi+Qilj+CF2kxBJ++0e8YWRz1CZjwJCkgFE35Vz1NEx6liJeUtreJPcMi0zZVzIn6owxlmT+Vn5WNSUbwzkZgltfnng2np2ToE9og=;VMqatq6912Moa6rIr80liQ=="
 ---
 

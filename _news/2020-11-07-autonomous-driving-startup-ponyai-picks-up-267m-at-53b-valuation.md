@@ -41,38 +41,6 @@ related:
         width: 1024
         height: 694
         isCached: true
-  - title: "Pony.ai Funding Round Values Self-Driving Firm at $5.3 Billion"
-    excerpt: "Pony.ai is raising $267 million in a fresh funding round that pushes the self-driving technology startup’s valuation to about $5.3 billion as it seeks to expand its customer base globally."
-    publishedDateTime: 2020-11-06T07:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-11-06/pony-ai-funding-round-values-self-driving-firm-at-5-3-billion"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-11-06/pony-ai-funding-round-values-self-driving-firm-at-5-3-billion"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-06/pony-ai-funding-round-values-self-driving-firm-at-5-3-billion"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 89
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSwYelTw3Jps/v1/360x-1.jpg"
-        width: 360
-        height: 240
-        isCached: true
-  - title: "Autonomous vehicle startup Pony.ai raises $267 million at an over $5.3 billion valuation"
-    excerpt: "Self-driving vehicle startup Pony.ai raised $$$ in venture capital, bringing its total raised to date to over $$$$."
-    publishedDateTime: 2020-11-06T07:00:00Z
-    webUrl: "https://venturebeat.com/2020/11/05/autonomous-vehicle-startup-pony-ai-raises-267-million-at-an-over-5-3-billion-valuation/"
-    ampWebUrl: "https://venturebeat.com/2020/11/05/autonomous-vehicle-startup-pony-ai-raises-267-million-at-an-over-5-3-billion-valuation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/05/autonomous-vehicle-startup-pony-ai-raises-267-million-at-an-over-5-3-billion-valuation/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 80
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/08/ad1de834-abf3-471e-b4cc-3408c731b4f4-e1566788588385.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Driverless Car Startup Pony.ai Valued At $5.3B With Series C Round"
     excerpt: "Driverless car developer Pony.ai is now valued around $5.3 billion, thanks to a recent Series C funding round."
     publishedDateTime: 2020-11-06T18:03:00Z

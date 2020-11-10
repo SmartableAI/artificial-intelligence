@@ -8,8 +8,8 @@ webUrl: "https://markets.businessinsider.com/news/stocks/accern-wins-the-best-ai
 ampWebUrl: "https://markets.businessinsider.com/amp/news/accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards-1029788645"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards-1029788645"
 type: article
-quality: 61
-heat: 91
+quality: 63
+heat: 93
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Natural Language Processing
 
 related:
   - title: "AI and ML benefit for the Fintech industry"

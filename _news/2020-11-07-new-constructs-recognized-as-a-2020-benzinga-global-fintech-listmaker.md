@@ -39,7 +39,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 61
+    quality: 63
   - title: "AI and ML benefit for the Fintech industry"
     excerpt: "Let’s take a look at how FinTech companies took advantage of these technologies by employing them for different purposes, and is it worth investing in these technologies at all. Before diving into the use cases of AI and ML in fintech and banking software development,"
     publishedDateTime: 2020-11-09T14:00:00Z

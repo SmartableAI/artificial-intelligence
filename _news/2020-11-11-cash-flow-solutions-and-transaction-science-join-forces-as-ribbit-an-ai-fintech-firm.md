@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Cash Flow Solutions and Transaction Science join forces as RIBBIT, an AI-FinTech firm"
-excerpt: "After 22 years as an electronic payments provider, Cash Flow proudly joins forces with Transaction Science, a groundbreaking"
-publishedDateTime: 2020-11-10T18:20:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/cash-flow-solutions-and-transaction-science-join-forces-as-ribbit-an-ai-fintech-firm-301170207.html"
-webUrl: "https://www.prnewswire.com/news-releases/cash-flow-solutions-and-transaction-science-join-forces-as-ribbit-an-ai-fintech-firm-301170207.html"
+excerpt: "After 22 years as an electronic payments provider, Cash Flow proudly joins forces with Transaction Science, a groundbreaking predictive analytics company, to form RIBBIT. Visit  or follow on LinkedIn to learn more."
+publishedDateTime: 2020-11-10T21:56:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/cash-flow-solutions-and-transaction-science-join-forces-as-ribbit-an-ai-fintech-firm-1029788757"
+webUrl: "https://markets.businessinsider.com/news/stocks/cash-flow-solutions-and-transaction-science-join-forces-as-ribbit-an-ai-fintech-firm-1029788757"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/cash-flow-solutions-and-transaction-science-join-forces-as-ribbit-an-ai-fintech-firm-1029788757"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cash-flow-solutions-and-transaction-science-join-forces-as-ribbit-an-ai-fintech-firm-1029788757"
 type: article
-quality: 32
-heat: -1
-published: false
+quality: 62
+heat: 112
+published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1331437/Black_Frog_Green_RIBBIT_72dpi_Logo.jpg?p=facebook"
-    width: 939
-    height: 492
-    isCached: true
 
 related:
   - title: "Fintech for Fashion: Purple Dot Raises £1.35 Million Seed Round"
@@ -71,6 +71,20 @@ related:
         width: 660
         height: 371
         isCached: true
+  - title: "Oil & Gas specialist Trajan Consulting announces new bespoke Fintech, AI and Agile division for GCC"
+    excerpt: "As the ADIPEC Virtual Strategic Conference kicks off, the company aims to help the sector implement intense methodologies focused on improving processes"
+    publishedDateTime: 2020-11-09T07:41:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Oil__Gas_specialist_Trajan_Consulting_announces_new_bespoke_Fintech_AInbspand_Agile_division_for_GCC-ZAWYA20201109074133/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 25
+    images:
+      - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
+        width: 1200
+        height: 878
+        isCached: true
   - title: "Fintech Firm Quadpay Gets The Urge for Visual Fashion Search"
     excerpt: "Pay Later” company QuadPay aims to bring visual fashion search to the platform, with $6.1 million Urge Holdings acquisition."
     publishedDateTime: 2020-11-10T14:06:00Z
@@ -85,21 +99,7 @@ related:
         width: 394
         height: 263
         isCached: true
-  - title: "Fintech set to tackle fashion waste secures £1.35m investment"
-    excerpt: "A new fintech designed to reduce stock wastage in the fashion industry has raised £1.35m in seed funding. Purple Dot, a… | Entrepreneurship | Fashion | Retail | London | Funding | Entrepreneur | Inves"
-    publishedDateTime: 2020-11-09T16:10:00Z
-    webUrl: "https://bdaily.co.uk/articles/2020/11/09/fintech-set-to-tackle-fashion-waste-secures-135m-investment"
-    type: article
-    provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 24
-    images:
-      - url: "https://bdaily.co.uk/images/uploads/prm3KGVbeVX4JCByff7vFp42Uy0Wr8asLQUSYKOU.jpeg?w=940&h=430&fit=crop-50-50&s=490606dc7e5f7b215880c7bba71329f2"
-        width: 940
-        height: 430
-        isCached: true
 
-secured: "psbksnLIW2x/fEjSaj8qKQuB2lQTrtkT0Q6Mx7/A85n1WWpxRSgcAN/RIPXUzsmOsEXTcEUEwZYNBCkz78nrt0LMdib6gKERDxFx43emWtOB5DQUJx/Ux6cJYYHiuaMNH/vFThdJlZti6c6hOb/ZNnqx8Zmb/bP1+qZHhTtF4444VjOyRXLuaVInKKhc3tJmtzqrra0lX0w80xYZNZjthRxMCokU/DGctUCvMbE5ak01IT3ULU3jVhmkNbrIWN7SIEeFl757GIggHj0hyvEf2h+NuBXZkq6i636Wr2rfG1PvBa8ce46r43z0fPjBq3z0LPafEkSv6ofPLf2zyLHurZY06+18CIH5jtXM+xOYcns=;p3ipxflhskqy6RosNBKFSg=="
+secured: "H0PQG3kt4uzzGVoNqRVi7VI/cx1PjOFVvxyzctWyjLH+9NLQ/7R2yL/oTw2OLk/7fg4+BMHcsHp3nO1eIJQN3wo73Oc1cBXJdWu7+1YoYVeOSYb804HI2pOfSqalaXC8b+9om6e5VA1PKp4HNZj9/2ugwOY1tH9U3+VGFej6lMrjVUYveFNnPC3Rnb7ft5iEpZQwvZ7yd/7egOVcuOpGOutGOiaYSDuHCez2jp89+K5AabsFFcenhknsrgVOboYk7oxL3jOLWBcAuBhiSM7gxbcN+lAP12kEdhFWrtXOnQ8B2P9ijGbMTlIMd6M7pP6M+Yz9if7PbNpNtKaWM3O2B17JWxA0efADuGk0iWZT95M=;H9wIQEn7+KgtVziEd4K77Q=="
 ---
 

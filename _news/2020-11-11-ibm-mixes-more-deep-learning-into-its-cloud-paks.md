@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-10T20:55:00Z
 originalUrl: "https://siliconangle.com/2020/11/10/ibm-mixes-deep-learning-cloud-paks/"
 webUrl: "https://siliconangle.com/2020/11/10/ibm-mixes-deep-learning-cloud-paks/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - IBM AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/Krishna-768x512.jpg"
@@ -26,16 +27,21 @@ images:
 
 related:
   - title: "IBM updates Cloud Paks for data, automation with RPA tools, industry accelerators"
-    excerpt: "IBM said it is updating it Cloud Pak for Data and Cloud Pak for Automation with accelerators for industry use cases for data science, machine learning, document processing and robotics process automation."
-    publishedDateTime: 2020-11-10T14:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-updates-cloud-paks-for-data-automation-with-rpa-tools-industry-accelerators/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-updates-cloud-paks-for-data-automation-with-rpa-tools-industry-accelerators/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-updates-cloud-paks-for-data-automation-with-rpa-tools-industry-accelerators/"
+    excerpt: "IBM said it is updating it Cloud Pak for Data and Cloud Pak for Automation with accelerators for industry use cases for data science, machine learning, document processing and rob"
+    publishedDateTime: 2020-11-10T06:00:00Z
+    webUrl: "https://www.zdnet.com/article/ibm-updates-cloud-paks-for-data-automation-with-rpa-tools-industry-accelerators/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-updates-cloud-paks-for-data-automation-with-rpa-tools-industry-accelerators/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-updates-cloud-paks-for-data-automation-with-rpa-tools-industry-accelerators/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 49
+    quality: 69
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/09/18/b9991307-7e4f-4d35-b13a-a8a65270ed50/thumbnail/1200x675/99095146e257bc78f2ddff3ac6c5d86f/cloud.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "IBM Advances Hybrid Cloud Software with New Data and Automation Capabilities to Help Companies Speed Digital Transformations"
     excerpt: "PRNewswire/ -- IBM (NYSE: IBM) today announced a series of data and automation updates to its hybrid cloud software portfolio to help companies drive innovation across their expanding environments and accelerate their digital transformations."
     publishedDateTime: 2020-11-10T14:28:00Z

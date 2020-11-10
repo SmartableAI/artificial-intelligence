@@ -36,7 +36,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 61
+    quality: 63
   - title: "New Constructs Recognized as a 2020 Benzinga Global Fintech Listmaker"
     excerpt: "New Constructs (NC), the leading provider of insights into the fundamentals and valuation of private and public businesses, has been recognized as a 2020 Benzinga Global Fintech Listmaker in two categories: Best Financial Research Company and Best Investment Research Tech."
     publishedDateTime: 2020-11-07T00:23:00Z

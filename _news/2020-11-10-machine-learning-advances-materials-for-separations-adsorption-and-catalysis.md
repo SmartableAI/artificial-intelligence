@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2020-11-machine-advances-materials-adsor
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-11-machine-advances-materials-adsorption-catalysis.amp"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: techxplore.com
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning advances materials for separations, adsorption, and catalysis"
+    excerpt: "An artificial intelligence technique -- machine learning -- is helping accelerate the development of highly tunable materials known as metal-organic frameworks (MOFs) that have important applications in chemical separations,"
+    publishedDateTime: 2020-11-10T21:26:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/11/201110102536.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 45
   - title: "Machine Learning Advances Materials for Separations, Adsorption, and Catalysis"
     excerpt: "An artificial intelligence technique — machine learning — is helping accelerate the development of highly tunable materials known as metal-organic frameworks (MOFs) that have important applications in chemical separations,"
     publishedDateTime: 2020-11-09T00:00:00Z

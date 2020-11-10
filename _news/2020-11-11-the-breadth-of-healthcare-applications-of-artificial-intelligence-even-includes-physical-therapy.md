@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/davidteich/2020/11/10/the-breadth-of-healt
 ampWebUrl: "https://www.forbes.com/sites/davidteich/2020/11/10/the-breadth-of-healthcare-applications-of-artificial-intelligence-even-includes-physical-therapy/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/11/10/the-breadth-of-healthcare-applications-of-artificial-intelligence-even-includes-physical-therapy/amp/"
 type: article
-quality: 106
-heat: 116
+quality: 108
+heat: 118
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg"
@@ -46,6 +47,6 @@ related:
         height: 211
         isCached: true
 
-secured: "4U8WzCmgcPMcosePtl+5TPqFZu4z9poc5BmWeC2/u1qaLcvfUz55Y6uZNANNWivuOftizSEZ2jEW4EDAYM8PUizKuoabq5tW+godjtzDOzHL7inUaAyDnU6DoHtcNfFQs29XbP/ifo9Vn2MO3yPkTuplIs27d1L5sPxtzS5RrjTUANSshUFM+br+ZIB2UnNhpGLzdkfhh3M/wBk3KcH47/8lE1Mv8RFtJtUnu//gauG4/BIwWbg1jtMcoCu8X9yj1rUjHX6Cwoc5PB9kyXxpibKW3q/07u30DUWJmhlNKxlaUXwOXhzTKkPAUduFoKc8+buYf9AAnMQ6kQ49+qxvwHUWjSm/hkWc//wZN0kv8ys=;sDzrlJzF680dSZ9pYVl7kA=="
+secured: "0bLZl8zjNYJtj0SNMEWfdeM8OUShSyyu60u39FvI3h8JzguSJunCE7QUP479zezlJJ7a5XhAAuySVYNj8pcx2bNc9GTT0FTsxrh6r/6Y7O8aLOdIwkONQjCh2tTlaPtdlc4XhkqUMP1qiMSKifmIwAAh5TE0IkkKQ8TpI/b4yR71S4EFkDLlcaQhiB/1pnG5/FoaWSC8NpX1nw6tg3T/FQxiTDjnCe74PTv54W/8EFDLDtsWqUcEvlxWeMG/yW4gjEV3G5eGPlYsz+vsdSBKlQwa+D5/jpVUqyAngakfLbP3h3YXC3JaRuOrUgXiYj+LvGb8uiCIBugpyNdT59AjSHrGOG+s/k7dcdO7VMxktYGo90EWKl9/RpCb+evcOiJEFtiXo/cFzfABmIKeZ6FsAe1gKbOpDIPvQ83n/Ny6bpDvQTpDSaof/BDAfK9CIAjzf0UUtH9NJfIFnlvxsoraV3o2fNsrXanuVjCv1eaeKN8ajbZkM6bG8l/OYrtfO0RrFk1y3EiUQf/Gvv9LmafFnQ==;wgLdGl9aBYlTq+DqDMSBhA=="
 ---
 

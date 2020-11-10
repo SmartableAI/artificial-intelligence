@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-15-brazil-launches-artificial-intelligence-center.md",
+      "title": "Brazil launches artificial intelligence center",
+      "excerpt": "The largest research facility in the country with focus on the technologies is run jointly by IBM and public sector bodies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/brazil-launches-artificial-intelligence-center/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/brazil-launches-artificial-intelligence-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/brazil-launches-artificial-intelligence-center/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/brazil-launches-artificial-intelligence-center/",
+      "publishedDateTime": "2020-10-14T12:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-food-and-beverage-industry-develops-a-taste-for-tech.md",
       "title": "Food And Beverage Industry Develops A Taste For Tech",
       "excerpt": "Artificial flavors are nothing new, but Geneva-based Firmenich recently created what’s being described as the world’s first flavor made entirely with artificial intelligence (AI). If they’re ...",
@@ -1355,49 +1398,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-how-to-invest-in-miso-robotics-burger-flipping-robot.md",
-      "title": "How to Invest in Miso Robotics’ Burger-Flipping Robot",
-      "excerpt": "But that’s not to say AI-powered robots aren’t making lots of progress. One example of this is the Flippy robot, which cooks ... stock — Miso is the startup that is building Flippy ...",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2020/10/miso-robotics-flippy-and-the-robot-future-for-restaurants/",
-      "originalUrl": "https://investorplace.com/2020/10/miso-robotics-flippy-and-the-robot-future-for-restaurants/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2020/07/miso-robotics-stock-2.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2020/10/miso-robotics-flippy-and-the-robot-future-for-restaurants/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/10/miso-robotics-flippy-and-the-robot-future-for-restaurants/amp/",
-      "publishedDateTime": "2020-10-06T06:10:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

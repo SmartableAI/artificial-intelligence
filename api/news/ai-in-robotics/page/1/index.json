@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-11-education-key-to-developing-lifelike-intelligent-robots-study-argues.md",
+      "title": "Education key to developing lifelike intelligent robots, study argues",
+      "excerpt": "In a new paper, researchers argue artificial intelligence has been too narrowly defined and biased by human hubris. To rectify this shortcoming, the study's authors claim robot-makers need to be better educated.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Science_News/2020/11/10/Education-key-to-developing-lifelike-intelligent-robots-study-argues/5361605037906/",
+      "originalUrl": "https://www.upi.com/Science_News/2020/11/10/Education-key-to-developing-lifelike-intelligent-robots-study-argues/5361605037906/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/i/5361605037906/2020/1/16050481937990/v1.5/Education-key-to-developing-lifelike-intelligent-robots-study-argues.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Science_News/2020/11/10/Education-key-to-developing-lifelike-intelligent-robots-study-argues/5361605037906/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2020/11/10/Education-key-to-developing-lifelike-intelligent-robots-study-argues/5361605037906/",
+      "publishedDateTime": "2020-11-10T14:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-global-service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026.md",
       "title": "Global Service Robotics Market Size & Share By Sales Revenue, Future Demands, Growth Factors and Emerging Trends Forecast to 2026",
       "excerpt": "The global “Service Robotics Market” is expected to rise with an impressive CAGR and generate the highest revenue by",
@@ -1408,58 +1452,6 @@
         "name": "The Standard Digital",
         "domain": "standardmedia.co.ke",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-31-the-robot-ships-are-coming-eventually.md",
-      "title": "The Robot Ships Are Coming … Eventually",
-      "excerpt": "is testing an AI-based navigation and operations system designed by Tel Aviv startup Orca-AI. He doesn’t foresee operating his own fleet of robot ships, but instead wants to use an AI captain to reduce the number of officers on the bridge. “It will be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/mayflower-autonomous-ships/",
-      "originalUrl": "https://www.wired.com/story/mayflower-autonomous-ships/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f9b59334300a8c7fc0750b3/master/pass/business_ships_mayflower.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/mayflower-autonomous-ships/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/mayflower-autonomous-ships/amp",
-      "publishedDateTime": "2020-10-30T18:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

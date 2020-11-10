@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Intel’s Discrete GPU Era Begins: Intel Launches Iris Xe MAX For Entry-Level Laptops"
-excerpt: "which implements DVFS feedback loops on top of supposedly AI-trained algorithms to help the system deliver power to the parts of the processor that need it most, such as CPU, GPU, interconnect, or accelerators. With Adaptix enabled, the idea is that the ..."
-publishedDateTime: 2020-10-31T16:09:00Z
-originalUrl: "https://www.anandtech.com/show/16210/intels-discrete-gpu-era-begins-intel-launches-xe-max-for-entrylevel-laptops/2"
-webUrl: "https://www.anandtech.com/show/16210/intels-discrete-gpu-era-begins-intel-launches-xe-max-for-entrylevel-laptops/2"
+excerpt: "Today may be Halloween, but what Intel is up to is no trick. Almost a year after showing off their alpha silicon, Intel’s first discrete GPU in over two decades has been released and is now shipping in OEM laptops."
+publishedDateTime: 2020-10-31T16:01:00Z
+originalUrl: "https://www.anandtech.com/show/16210/intels-discrete-gpu-era-begins-intel-launches-xe-max-for-entrylevel-laptops"
+webUrl: "https://www.anandtech.com/show/16210/intels-discrete-gpu-era-begins-intel-launches-xe-max-for-entrylevel-laptops"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 451
     isCached: true
 
-secured: "5w2lVLdh93bvGz2wy7J1Xjj773k2/9YrQiq2heQeyhSVHuDfxN/AbMExksnRBYa9mf137RaoB00Uu0zNoj9aZfuqoDawOBS9m3KQooC9X4Ugt4nwW9R1Y/UMvC5ARVwKvq+HVl8qkaEg0gbr43kAIOJVxgs2DbR+ozsQzp7+BbWqn5U+a2A0DPaB9HFuJ8jk1Lj0Z7QUDdTzeFz/tY43XdsG9DdPZfGSvEZqiaEabJovOIlFJu/jNXlJYls66o4gOpD0SZ4NAW4YoqbfrPnH3svqEIJ9G6QUVhXdJCH8XldxVul/d1dm/j/h78/mPun71Ey32bpF7tCcpvZsXxwbeLEK3fXJ0OLyh42Y3zXmzZAoEN9IVCeWhoc2d/RRLYG0S7A5PU8nuT4ZqkuuwHaXnnlaaNxDEygutsSlmmNRhEE/eQHv+FCOMiVoawELpYgM0IYM8mqZjEu95B/BqOtB/IuwSdGUIS0c2MgEP+5viuQXrIEP6FjE/4Fe+E+VzMyvWRUEM5ROqfLwNpHXEp7RwA==;9LlsOON3XEzIyPhEusSIeg=="
+secured: "aw6FzqruhwOGNFGrZqm7EyEOhQJleZ1+9jQbjc5R+05V/LW50Ybv0Rh5HNj1huIFdde/Y6FZRHmorBswujnOQx4SM8x2iR8hgTNZdp/0/OWFnW4Qfn3OnSb9yD8PonKl8Kr+JLS36t7nNUqF85NXor6F1yMLaabo6+iyKAUubFOHVqnN/xh8JHY/JHRHPGKDRPPmJOrL4/8jE9SH6VNoyz8FnSVVfjDJXxaOVzvDWQZoL6Y9ee2Y+2lsUp8k8JWm+sJi9LhVo4sYz1CEzknp+HiqsBku1FY1H7TRuMTDE1hq2T7NalBKi90uUC1oZHx5IbKLgpzdD7Zz/96xoA29h/6kautm+D/KC60gzyHmSao=;izifmf3/P3t5E1m/VQl1tQ=="
 ---
 

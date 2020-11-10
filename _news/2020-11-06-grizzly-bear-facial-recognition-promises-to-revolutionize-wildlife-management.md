@@ -9,8 +9,8 @@ ampWebUrl: "https://theprovince.com/news/local-news/grizzly-bear-facial-recognit
 cdnAmpWebUrl: "https://theprovince-com.cdn.ampproject.org/c/s/theprovince.com/news/local-news/grizzly-bear-facial-recognition-promises-to-revolutionize-wildlife-management/wcm/ab9e2bac-513f-4335-a2c4-c99f7cd8fff5/amp/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: The Province
@@ -40,6 +40,20 @@ related:
       - url: "https://mobileidworld.com/wp-content/uploads/connected-id.jpeg"
         width: 400
         height: 298
+        isCached: true
+  - title: "Army to evaluate facial recognition in day care centers"
+    excerpt: "Through a demonstration of the technology, the Army expects to learn whether facial recognition technologies can improve family quality of life, reduce base costs and enhance mission readiness."
+    publishedDateTime: 2020-11-10T21:13:00Z
+    webUrl: "https://gcn.com/articles/2020/11/10/facial-recognition-daycare.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 39
+    images:
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Workforce/daycare_center.jpg"
+        width: 760
+        height: 368
         isCached: true
 
 secured: "d+Qu1+p4LPyM/ABYsvPrsE8WbVZXi1KT5QrvmR8t/NWKa6vZ/Jmgljz4Ie9WX1ory9ISPZeK1pE1+vJBQfeZFNgCHvCJ5CIP4It+yXveYhg+/dH0BKLZQV7MEuj5ItTv1GUHN9mvPIuv85IfzK2U4IqDaDgERScQXpRdBGQrBY2/t+Z09wnI0GYbP0gAQ5Ho5y5B6AYwvqbRG7FRIDbN+GsYG8iGZ2L+hWoSuPUeD6cHEu2ezztN2yZ4K9uYr3i8jrFHLGT8tOD2K4RpbbvNILtAIj2BpdJfJuAPMVDkuLBrlwdGfXlVclFcfRmaNvU3MWS+HiDGGQS2CgYVmfaGMr38PUQmJxyibOT1B27YB6w=;5DNzL00OMcilLjwfKzCtFQ=="

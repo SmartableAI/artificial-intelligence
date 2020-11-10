@@ -1,45 +1,47 @@
 ---
 category: news
 title: "Accelerate Machine Learning Development to Build Intelligent Applications Faster"
-excerpt: "Network news, trend analysis, product testing and the industry’s most important blogs, all collected at the most popular network watering hole on the Internet | Network World"
-publishedDateTime: 2020-11-10T18:34:00Z
-originalUrl: "https://www.networkworld.com/resources/210552/accelerate-machine-learning-development-to-build-intelligent-applications-faster"
-webUrl: "https://www.networkworld.com/resources/210552/accelerate-machine-learning-development-to-build-intelligent-applications-faster"
+excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
+publishedDateTime: 2020-11-10T19:03:00Z
+originalUrl: "https://www.cio.com/resources/210552/accelerate-machine-learning-development-to-build-intelligent-applications-faster"
+webUrl: "https://www.cio.com/resources/210552/accelerate-machine-learning-development-to-build-intelligent-applications-faster"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
-  name: Network World
-  domain: networkworld.com
+  name: CIO
+  domain: cio.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/nww/nww_logo_300x300.png"
+  - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
     width: 300
     height: 300
     isCached: true
 
 related:
-  - title: "NEC Builds 5G Mobility Test Center to Accelerate Development of Self-Driving Cars"
-    excerpt: "The NEC Corporation has opened a new 5G-enabled Mobility Test Center to support the development of autonomous cars"
-    publishedDateTime: 2020-11-09T23:35:00Z
-    webUrl: "https://mobileidworld.com/nec-builds-5g-mobility-test-center-accelerate-development-self-driving-cars-110908/"
+  - title: "Education key to developing lifelike intelligent robots, study argues"
+    excerpt: "In a new paper, researchers argue artificial intelligence has been too narrowly defined and biased by human hubris. To rectify this shortcoming, the study's authors claim robot-makers need to be better educated."
+    publishedDateTime: 2020-11-10T22:47:00Z
+    webUrl: "https://www.upi.com/Science_News/2020/11/10/Education-key-to-developing-lifelike-intelligent-robots-study-argues/5361605037906/"
+    ampWebUrl: "https://www.upi.com/amp/Science_News/2020/11/10/Education-key-to-developing-lifelike-intelligent-robots-study-argues/5361605037906/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2020/11/10/Education-key-to-developing-lifelike-intelligent-robots-study-argues/5361605037906/"
     type: article
     provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 19
+      name: UPI.com
+      domain: upi.com
+    quality: 76
     images:
-      - url: "https://mobileidworld.com/wp-content/uploads/iStock_Connected-Car.jpg"
+      - url: "https://cdnph.upi.com/sv/ph/og/i/5361605037906/2020/1/16050481937990/v1.5/Education-key-to-developing-lifelike-intelligent-robots-study-argues.jpg"
         width: 800
-        height: 600
+        height: 533
         isCached: true
 
-secured: "QxCYCSdz9h/Ums7xeOkRJddIob9y2SYmyNJnXeHvE+51b8q+eUoSbW/okQ8fnGbefrL/Q8idVtwjSH9gFaZj7vfobohYR2/j5zKXmm7qRoX2r0GOl/4VpdCPHM72lF9OQL2NdsuZBjMouNuRjqZC6PiIKvcubZEws79RgAy/b1qZ8ovgcfZ8Vf2XcotPPd/5Trd6NyZqwHUvpYy3OnULlcHp4oB2Ul/YBXX5xqx8rLOPwXXJnqCOVqMfhV8k+7LAW1SpQpayVYkKGpDgN5qBG/jkLHhSvJfvCEOijxrQpWXpz8d03Hf7RfkDmyN/iYSosw5AoRI2vH8HNNZueduqqRcYB82ps2XsAUX5+e4UKhQ=;L4ami6u6NH899Vnkqm/W2A=="
+secured: "97LvtSMqAVgzW5EuSnP3yiumUKjZvOR7FmgORzb2IcvRTTAlnPDzIDew4+MwnRN+jWttDFkXDgLuUVrfSMpdIGj7I2RPKuN0zVvm1QOS9v67f4DKI7aEQUEJTQdz1FdKJj9NAXSDohasqv5P+gj3qGguHuW4qgwA/nLMKhMbaMdav4SKAEQoplxHCIy1Hb+2NRW07sVVKlWmmBkIMw1QhVBL/y0x6bmtZw8xTi1hQHFb0JzGmpx0RAueLC6gAYsQoiW1hov9FObrt+7SDdBy7YxWY1CKZ5E2BuxaEs46nuqzY1LD7pMxyzhjAuW8WyAiycgLwUhF5lF993RwTwyilBn+VrkVcnk3xaFZRhJcI98=;gI6KESDH/oMn6dEYKPVNwA=="
 ---
 

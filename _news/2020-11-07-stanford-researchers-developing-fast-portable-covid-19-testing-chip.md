@@ -9,7 +9,7 @@ ampWebUrl: "https://abc7news.com/amp/coronavirus-testing-stanford-researchers-co
 cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/coronavirus-testing-stanford-researchers-covid-19-test-results/7686757/"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -40,6 +40,22 @@ related:
       - url: "https://cdn.nextgov.com/media/img/upload/2020/11/09/NGmisinfo20201109/open-graph.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Developing machine learning models to predict critical illness and mortality in COVID-19 patients"
+    excerpt: "Mount Sinai researchers have developed machine learning models that predict the likelihood of critical events and mortality in COVID-19 patients within clinically relevant time windows. The new models outlined in the study—one of the first to use machine learning for risk prediction in COVID-19 patients among a large and diverse population,"
+    publishedDateTime: 2020-11-10T21:00:00Z
+    webUrl: "https://medicalxpress.com/news/2020-11-machine-critical-illness-mortality-covid-.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-11-machine-critical-illness-mortality-covid-.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-machine-critical-illness-mortality-covid-.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 46
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/48-covid19.jpg"
+        width: 1920
+        height: 1032
         isCached: true
   - title: "Machine Learning Helps Reduce Food Insecurity During COVID-19"
     excerpt: "Researchers used machine learning to create bus routes and deliver meals to individuals in need, reducing food insecurity in Pennsylvania communities."

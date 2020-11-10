@@ -2,6 +2,367 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-10-hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services.md",
+      "title": "Hyundai taps Nvidia for future fleet AI, infotainment services",
+      "excerpt": "Hyundai has announced that all future Hyundai, Kia, and Genesis vehicles will utilize Nvidia's in-vehicle artificial intelligence (AI) and infotainment platform.  The South Korean automaker said on Monday that the firm's \"entire fleet\" will eventually feature Nvidia's technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/",
+      "originalUrl": "https://www.zdnet.com/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/02/06/f45dbca6-1fe8-44d1-a0c3-9b9c773cdf84/thumbnail/1200x675/1714b4bf785f425773f040d17a6f803a/nvidia-geforce-now-cloud-gaming-service-5e3b63136b967a00010397a5-1-feb-06-2020-5-48-00-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/",
+      "publishedDateTime": "2020-11-09T18:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-neurals-market-outlook-for-artificial-intelligence-in-2021-and-beyond.md",
+      "title": "Neural’s market outlook for artificial intelligence in 2021 and beyond",
+      "excerpt": "The year is coming to a close and it’s safe to say Elon Musk’s prediction that his company would field one million “robotaxis” by the end of 2020 isn’t going to come true. In fact, so far, Tesla’s managed to produce exactly zero self-driving vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/11/09/neurals-market-outlook-for-artificial-intelligence-in-2021-and-beyond/",
+      "originalUrl": "https://thenextweb.com/neural/2020/11/09/neurals-market-outlook-for-artificial-intelligence-in-2021-and-beyond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/binarystock-796x520.jpg",
+          "width": 796,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/11/09/neurals-market-outlook-for-artificial-intelligence-in-2021-and-beyond/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/09/neurals-market-outlook-for-artificial-intelligence-in-2021-and-beyond/amp/",
+      "publishedDateTime": "2020-11-09T13:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-oklahoma-plans-to-use-rekors-ai-to-track-down-uninsured-drivers-despite-discrimination-concerns.md",
+      "title": "Oklahoma plans to use Rekor’s AI to track down uninsured drivers, despite discrimination concerns",
+      "excerpt": "Rekor's partnership with the state of Oklahoma could lead to descrimination against certain groups of uninsured drivers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/09/oklahoma-plans-to-use-rekors-ai-to-track-down-uninsured-drivers-despite-discrimination-concerns/",
+      "originalUrl": "https://venturebeat.com/2020/11/09/oklahoma-plans-to-use-rekors-ai-to-track-down-uninsured-drivers-despite-discrimination-concerns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/10/roadtrip-e1604947444975.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/09/oklahoma-plans-to-use-rekors-ai-to-track-down-uninsured-drivers-despite-discrimination-concerns/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/09/oklahoma-plans-to-use-rekors-ai-to-track-down-uninsured-drivers-despite-discrimination-concerns/amp/",
+      "publishedDateTime": "2020-11-09T13:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-challenge-the-sounds-of-science.md",
+      "title": "Learn from the winner of the AWS DeepComposer Chartbusters challenge The Sounds of Science",
+      "excerpt": "AWS is excited to announce the winner of the AWS DeepComposer Chartbusters The Sounds of Science Challenge, Sungin Lee. AWS DeepComposer gives developers a creative way to get started with machine learning (ML). In June, we launched Chartbusters, a monthly global competition during which developers use",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-challenge-the-sounds-of-science/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-challenge-the-sounds-of-science/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/06/Sounds-of-Science-1.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-09T12:55:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-how-the-father-of-the-playstation-is-using-his-playbook-from-sony-in-his-new-role-as-ceo-of-ai-backed-startup-ascent-robotics.md",
+      "title": "How the 'father of the PlayStation' is using his playbook from Sony in his new role as CEO of AI-backed startup Ascent Robotics",
+      "excerpt": "Now he's trying to implement a similar strategy at Ascent, the robotics startup he joined in September as CEO — while forgoing a salary to save capital. \"We want to collaborate with as many smart people\" as possible, the so-called 'father of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/playstation-robotics-ps5-ken-kutaragi-startup-japan-2020-11",
+      "originalUrl": "https://www.businessinsider.com/playstation-robotics-ps5-ken-kutaragi-startup-japan-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fa2f31a69331a0011bc74c8?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-09T11:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-ai-quantum-rd-funding-to-remain-a-priority-under-biden.md",
+      "title": "AI, Quantum R&D Funding to Remain a Priority Under Biden",
+      "excerpt": "The president-elect has proposed innovation funding of $300 billion over four years, in part to remain competitive with China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-quantum-r-d-funding-to-remain-a-priority-under-biden-11604944800",
+      "originalUrl": "https://www.wsj.com/articles/ai-quantum-r-d-funding-to-remain-a-priority-under-biden-11604944800",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-253821/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-quantum-r-d-funding-to-remain-a-priority-under-biden-11604944800",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-quantum-r-d-funding-to-remain-a-priority-under-biden-11604944800",
+      "publishedDateTime": "2020-11-09T10:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-self-driving-delivery-firm-nuro-raises-500-million-as-covid-19-boosts-e-commerce.md",
+      "title": "Self-driving delivery firm Nuro raises $500 million as COVID-19 boosts e-commerce",
+      "excerpt": "Self-driving delivery company Nuro, whose R2 unit has no pedals or steering wheel and only room for packages, said Monday it has raised $500 million as e-commerce gets a huge boost from the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-autonomous-nuro-funding/self-driving-delivery-firm-nuro-raises-500-million-as-covid-19-boosts-e-commerce-idUKKBN27P1FT",
+      "originalUrl": "https://www.reuters.com/article/us-autonomous-nuro-funding-idUSKBN27P1FT",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 222,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540581533&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81M2",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN27P1FT",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27P1FT",
+      "publishedDateTime": "2020-11-09T09:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-artificial-intelligence-ai-is-key-to-reducing-digital-ad-waste.md",
       "title": "Artificial intelligence (AI) is key to reducing digital ad waste",
       "excerpt": "Do you really want your advertising budget being wasted on ads that are producing solicitations instead of qualified leads? More insights on how the world’s first AI Smart Core℠, SherloQ™ is revolutionizing how websites and digital ad campaigns operate altogether.",
@@ -337,49 +698,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-09-fintech-for-fashion-purple-dot-raises-135-million-seed-round.md",
-      "title": "Fintech for Fashion: Purple Dot Raises £1.35 Million Seed Round",
-      "excerpt": "Purple Dot, a payment platform for fashion merchandisers that enables consumers to offer to purchase a product at below the retail recommended price, has raised a £1.3 million seed round. The funding was led by Connect Ventures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2020/11/168918-fintech-for-fashion-purple-dot-raises-1-35-million-seed-round/",
-      "originalUrl": "https://www.crowdfundinsider.com/2020/11/168918-fintech-for-fashion-purple-dot-raises-1-35-million-seed-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/06/Sale-600x421.jpg",
-          "width": 600,
-          "height": 421,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2020/11/168918-fintech-for-fashion-purple-dot-raises-1-35-million-seed-round/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/168918-fintech-for-fashion-purple-dot-raises-1-35-million-seed-round/amp/",
-      "publishedDateTime": "2020-11-09T04:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-09-how-ai-can-go-terribly-wrong-5-biases-that-create-failure.md",
       "title": "How AI Can Go Terribly Wrong: 5 Biases That Create Failure",
       "excerpt": "This article will enable boards and senior executives to ask the right questions about the five dangerous biases of AI.",
@@ -633,7 +951,7 @@
       "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/11/09/an-ai-engineer-walks-into-a-data-shop/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -922,317 +1240,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-how-artificial-intelligence-may-be-making-you-buy-things.md",
-      "title": "How artificial intelligence may be making you buy things",
-      "excerpt": "So the next time you dash into your local shop to buy certain snacks and a particular wine on a Friday night, perhaps you can blame AI, and a computer that has learned all about you, for the decision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/amp/technology-54522442",
-      "originalUrl": "https://www.bbc.com/news/amp/technology-54522442",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/26A6/production/_115249890_gettyimages-1128467471.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/technology-54522442",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-54522442",
-      "publishedDateTime": "2020-11-08T16:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste.md",
-      "title": "CSIRO to use artificial intelligence, machine learning, and sensors to end plastic waste",
-      "excerpt": "The Commonwealth Scientific and Industrial Research Organisation (CSIRO) has announced partnerships with Microsoft, Hobart City Council, and Chemistry Australia to address -- and attempt to end -- Australia's plastics waste issue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
-      "originalUrl": "https://www.zdnet.com/article/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/06/16/9661d050-0c11-4767-a7ae-3c29bd3d17c5/storm-water-and-litter.jpg",
-          "width": 728,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
-      "publishedDateTime": "2020-11-08T16:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-sci-fi-master-ted-chiang-explores-the-rights-and-wrongs-of-artificial-intelligence.md",
-      "title": "Sci-fi master Ted Chiang explores the rights and wrongs of artificial intelligence",
-      "excerpt": "BOT or NOT? This special series explores the evolving relationship between humans and machines, examining the ways that robots, artificial intelligence and automation are impacting our work and lives. The story of Ted Chiang’s life includes stints as a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/sci-fi-master-ted-chiang-explores-rights-wrongs-artificial-intelligence/",
-      "originalUrl": "https://www.geekwire.com/2020/sci-fi-master-ted-chiang-explores-rights-wrongs-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/11/Chiang-Publicity-630x444.jpg",
-          "width": 630,
-          "height": 444,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/sci-fi-master-ted-chiang-explores-rights-wrongs-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/sci-fi-master-ted-chiang-explores-rights-wrongs-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-11-08T13:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-walmart-ditches-major-robot-contract-so-what-does-this-mean-for-the-industry.md",
-      "title": "Walmart Ditches Major Robot Contract: So What Does This Mean For The Industry?",
-      "excerpt": "Walmart has been investing heavily in robots, such as for cleaning floors. But the company’s efforts have not been without their challenges. This week Walmart terminated its engagement with Bossa Nova Robotics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/08/walmart-ditches-major-robot-contract-so-what-does-this-mean-for-the-industry/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/08/walmart-ditches-major-robot-contract-so-what-does-this-mean-for-the-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa836f4ea89321072f85ba8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D416%26cropY2%3D2667",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/08/walmart-ditches-major-robot-contract-so-what-does-this-mean-for-the-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/11/08/walmart-ditches-major-robot-contract-so-what-does-this-mean-for-the-industry/amp/",
-      "publishedDateTime": "2020-11-08T10:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-why-those-puddles-on-the-roadway-can-be-startling-hazardous-for-self-driving-cars.md",
-      "title": "Why Those Puddles On The Roadway Can Be Startling Hazardous For Self-Driving Cars",
-      "excerpt": "This brings us to today’s intriguing question: How will AI-based true self-driving cars fare in coping with puddles on the public roadways? Let’s unpack the matter and see. As a clarification, true self-driving cars are ones that the AI drives the car ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/08/why-those-puddles-on-the-roadway-can-be-startling-hazardous-for-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/08/why-those-puddles-on-the-roadway-can-be-startling-hazardous-for-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3b168c815f73863665f132%2F0x0.jpg%3FcropX1%3D870%26cropX2%3D3023%26cropY1%3D288%26cropY2%3D1670",
-          "width": 1200,
-          "height": 770,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/08/why-those-puddles-on-the-roadway-can-be-startling-hazardous-for-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/08/why-those-puddles-on-the-roadway-can-be-startling-hazardous-for-self-driving-cars/amp/",
-      "publishedDateTime": "2020-11-08T06:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-review-cadillac-super-cruise-trumps-tesla-autopilot-as-the-best-self-driving-technology-you-can-buy-today.md",
-      "title": "REVIEW: Cadillac Super Cruise trumps Tesla Autopilot as the best self-driving technology you can buy today",
-      "excerpt": "I subjected the system to new challenges, including a congested highway and some genuinely awful, rainy weather.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/cadillac-super-cruise-still-best-self-driving-technology-on-market-2020-11",
-      "originalUrl": "https://www.businessinsider.com/cadillac-super-cruise-still-best-self-driving-technology-on-market-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa43726f7d1cb0019e3a02a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/cadillac-super-cruise-still-best-self-driving-technology-on-market-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cadillac-super-cruise-still-best-self-driving-technology-on-market-2020-11?amp",
-      "publishedDateTime": "2020-11-08T05:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

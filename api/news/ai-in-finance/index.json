@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-11-cash-flow-solutions-and-transaction-science-join-forces-as-ribbit-an-ai-fintech-firm.md",
+      "title": "Cash Flow Solutions and Transaction Science join forces as RIBBIT, an AI-FinTech firm",
+      "excerpt": "After 22 years as an electronic payments provider, Cash Flow proudly joins forces with Transaction Science, a groundbreaking predictive analytics company, to form RIBBIT. Visit  or follow on LinkedIn to learn more.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/cash-flow-solutions-and-transaction-science-join-forces-as-ribbit-an-ai-fintech-firm-1029788757",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/cash-flow-solutions-and-transaction-science-join-forces-as-ribbit-an-ai-fintech-firm-1029788757",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/cash-flow-solutions-and-transaction-science-join-forces-as-ribbit-an-ai-fintech-firm-1029788757",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cash-flow-solutions-and-transaction-science-join-forces-as-ribbit-an-ai-fintech-firm-1029788757",
+      "publishedDateTime": "2020-11-10T13:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards.md",
       "title": "Accern Wins The Best AI Platform Award at the 6th Annual Benzinga Global Fintech Awards",
       "excerpt": "PRNewswire/ -- Accern Corporation, a leading no-code, Artificial Intelligence (AI) company is honored to announce that",
@@ -10,7 +53,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards-1029788645",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 93,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -41,7 +84,8 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -117,49 +161,6 @@
       "provider": {
         "name": "Business Line",
         "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-fintech-for-fashion-purple-dot-raises-135-million-seed-round.md",
-      "title": "Fintech for Fashion: Purple Dot Raises £1.35 Million Seed Round",
-      "excerpt": "Purple Dot, a payment platform for fashion merchandisers that enables consumers to offer to purchase a product at below the retail recommended price, has raised a £1.3 million seed round. The funding was led by Connect Ventures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2020/11/168918-fintech-for-fashion-purple-dot-raises-1-35-million-seed-round/",
-      "originalUrl": "https://www.crowdfundinsider.com/2020/11/168918-fintech-for-fashion-purple-dot-raises-1-35-million-seed-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/06/Sale-600x421.jpg",
-          "width": 600,
-          "height": 421,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2020/11/168918-fintech-for-fashion-purple-dot-raises-1-35-million-seed-round/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/168918-fintech-for-fashion-purple-dot-raises-1-35-million-seed-round/amp/",
-      "publishedDateTime": "2020-11-09T04:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
         "images": null,
         "publishers": null,
         "authors": null

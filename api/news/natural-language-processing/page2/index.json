@@ -2,6 +2,153 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-27-researchers-find-language-models-do-a-poor-job-of-following-basic-instructions.md",
+      "title": "Researchers find language models do a poor job of following basic instructions",
+      "excerpt": "beginning with “turking” tasks where a model must create valid examples of popular natural language processing datasets. (This is meant to simulate tasks commonly done by laypeople on ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/27/researchers-find-language-models-do-a-poor-job-of-following-basic-instructions/",
+      "originalUrl": "https://venturebeat.com/2020/10/27/researchers-find-language-models-do-a-poor-job-of-following-basic-instructions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/27/researchers-find-language-models-do-a-poor-job-of-following-basic-instructions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/researchers-find-language-models-do-a-poor-job-of-following-basic-instructions/amp/",
+      "publishedDateTime": "2020-10-27T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-natural-language-processing-nlp-market-2020-with-top-countries-data-in-depth-assessment-key-trend-industry-analysis-future-roadmap-by-2026.md",
+      "title": "Natural Language Processing (NLP) Market 2020 with Top Countries Data, In-depth Assessment, Key Trend, Industry Analysis, Future Roadmap by 2026",
+      "excerpt": "Global “Natural Language Processing (NLP) Market\" 2020 Research Report provides key analysis on the market status of",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-with-top-countries-data-in-depth-assessment-key-trend-industry-analysis-future-roadmap-by-2026-2020-10-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-with-top-countries-data-in-depth-assessment-key-trend-industry-analysis-future-roadmap-by-2026-2020-10-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-26T20:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-25-determining-the-likelihood-that-an-ai-patent-application-will-be-allowed-at-the-uspto.md",
+      "title": "Determining the Likelihood that an AI Patent Application Will Be Allowed at the USPTO",
+      "excerpt": "As computing power and large datasets become more available, the use of artificial intelligence (AI) in technology is exploding around the world. The USPTO has taken steps to adapt to AI inventions, asking in August of 2019 for public comment on questions ranging from AI inventorship to how to best consider AI elements of inventions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ipwatchdog.com/2020/10/25/determining-likelihood-ai-patent-application-will-allowed-uspto/id=126687/",
+      "originalUrl": "https://www.ipwatchdog.com/2020/10/25/determining-likelihood-ai-patent-application-will-allowed-uspto/id=126687/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ipwatchdog.com/wp-content/uploads/2020/10/546_MTcwMjIyX0xpa2VfUm9ib3QwMDEtMDE-scaled.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-25T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IPWatchdog",
+        "domain": "ipwatchdog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-cloud-natural-language-processing-market-to-witness-astonishing-growth-with.md",
       "title": "Cloud Natural Language Processing Market to Witness Astonishing Growth with",
       "excerpt": "Keep yourself up-to-date with latest market trends and maintain a competitive edge by sizing up with available business opportunity in Cloud Natural Language Processing Market various segments and emerging territory. The research report presents a ...",
@@ -1236,145 +1383,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-10-14T23:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-amazon-translate-ranked-as-1-machine-translation-provider-by-intento.md",
-      "title": "Amazon Translate ranked as #1 machine translation provider by Intento",
-      "excerpt": "Customer obsession, one of the key Amazon Leadership principles that guides everything we do at Amazon, has helped Amazon Translate be recognized as an industry leading neural machine translation provider.&nbsp;This year, Intento ranked Amazon Translate #1 on the list of top-performing machine translation",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-translate-ranked-as-1-machine-translation-provider-by-intento/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-translate-ranked-as-1-machine-translation-provider-by-intento/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/15/Intento.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-14T18:19:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-espressive-barista-understands-13-billion-employee-language-phrases-out-of-the-box-bridging-gap-between-ai-and-the-semantics-of-human-language.md",
-      "title": "Espressive Barista Understands 1.3 Billion Employee Language Phrases Out-of-the-Box, Bridging Gap Between AI and the Semantics of Human Language",
-      "excerpt": "Espressive, a pioneer in artificial intelligence (AI) for enterprise service management (ESM) and a 2019 Gartner Cool Vendor, today announced its AI-based virtual support agent, Espressive Barista, now understands 1.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/science-technology-business-corporate-news-labor-productivity-and-costs-63b0d94f783548b29f1c64c392d0b885",
-      "originalUrl": "https://apnews.com/press-release/business-wire/science-technology-business-corporate-news-labor-productivity-and-costs-63b0d94f783548b29f1c64c392d0b885",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-14T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-kb-home-launches-company-wide-ai-powered-chatbot-platform-designed-to-deliver-a-modern-real-time-online-customer-experience.md",
-      "title": "KB Home Launches Company-wide AI-powered Chatbot Platform Designed to Deliver a Modern, Real-time, Online Customer Experience",
-      "excerpt": "KB Home launches company-wide AI-powered chatbot platform designed to deliver a modern, real-time, online customer experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201014005255/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20201014005255/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201014005255/en/668370/23/New_Logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-14T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",

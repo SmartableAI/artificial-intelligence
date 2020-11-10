@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-11-the-breadth-of-healthcare-applications-of-artificial-intelligence-even-includes-physical-therapy.md",
+      "title": "The Breadth Of Healthcare Applications Of Artificial Intelligence Even Includes Physical Therapy",
+      "excerpt": "AI must play well the closer to patients it resides. Physical therapy is an excellent aspect of the needed growth, as it is a regular and visible part of patient treatment that includes humans, hardware and software interacting within a regulatory framework to improve patient outcomes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2020/11/10/the-breadth-of-healthcare-applications-of-artificial-intelligence-even-includes-physical-therapy/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2020/11/10/the-breadth-of-healthcare-applications-of-artificial-intelligence-even-includes-physical-therapy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/11/10/the-breadth-of-healthcare-applications-of-artificial-intelligence-even-includes-physical-therapy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/11/10/the-breadth-of-healthcare-applications-of-artificial-intelligence-even-includes-physical-therapy/amp/",
+      "publishedDateTime": "2020-11-10T12:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-linkedin-open-sources-dagli-a-machine-learning-library-for-java.md",
       "title": "LinkedIn open-sources Dagli, a machine learning library for Java",
       "excerpt": "LinkedIn's Dagli, which is available in open source, is a machine learning library for Java and other JVM languages.",
@@ -93,6 +146,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-machine-learning-advances-materials-for-separations-adsorption-and-catalysis.md",
+      "title": "Machine learning advances materials for separations, adsorption and catalysis",
+      "excerpt": "An artificial intelligence technique—machine learning—is helping accelerate the development of highly tunable materials known as metal-organic frameworks (MOFs) that have important applications in chemical separations,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2020-11-machine-advances-materials-adsorption-catalysis.html",
+      "originalUrl": "https://techxplore.com/news/2020-11-machine-advances-materials-adsorption-catalysis.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/crystalline.jpg",
+          "width": 1920,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2020-11-machine-advances-materials-adsorption-catalysis.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-11-machine-advances-materials-adsorption-catalysis.amp",
+      "publishedDateTime": "2020-11-10T04:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1361,93 +1457,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-the-alignment-problem-linking-machine-learning-and-human-values.md",
-      "title": "“The Alignment Problem”, Linking Machine Learning And Human Values",
-      "excerpt": "As the subtitle states, it’s an attempt to discuss fuzzier aspects of human value with the growing relevance of machine learning (ML). By ML, the author almost exclusively means neural networks. Overall, it was a good book. As with most, though ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2020/10/29/the-alignment-problem-linking-machine-learning-and-human-values/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2020/10/29/the-alignment-problem-linking-machine-learning-and-human-values/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
-          "width": 876,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/10/29/the-alignment-problem-linking-machine-learning-and-human-values/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/10/29/the-alignment-problem-linking-machine-learning-and-human-values/amp/",
-      "publishedDateTime": "2020-10-29T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-world-of-finance.md",
-      "title": "Workday Delivers Data Management and Machine Learning Innovations for the Changing World of Finance",
-      "excerpt": "Workday Inc., a leader in enterprise cloud applications for finance and human resources, today announced availability of Workday Accounting Center and machine learning- driven predictive forecasts for Workday Adaptive Planning,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing",
-      "originalUrl": "https://www.nasdaq.com/press-release/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-29T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

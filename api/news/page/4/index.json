@@ -2,6 +2,300 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-06-an-ai-robot-wrote-my-term-paper.md",
+      "title": "An AI Robot Wrote My Term Paper",
+      "excerpt": "As personal computers and search engines have become ubiquitous, and AI and ML have risen in prominence, the idea of having a computer find the excerpts and actually write an essay, is no longer science fiction.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/timbajarin/2020/11/06/an-ai-robot-wrote-my-term-paper/",
+      "originalUrl": "https://www.forbes.com/sites/timbajarin/2020/11/06/an-ai-robot-wrote-my-term-paper/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa46a48a9ca8d255a37c8bd%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/timbajarin/2020/11/06/an-ai-robot-wrote-my-term-paper/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2020/11/06/an-ai-robot-wrote-my-term-paper/amp/",
+      "publishedDateTime": "2020-11-06T07:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-06-most-health-execs-expect-widespread-implementation-of-ai-in-the-next-5-years.md",
+      "title": "Most health execs expect widespread implementation of AI in the next 5 years",
+      "excerpt": "Ninety-percent of US health IT execs expect AI solutions to be well integrated into the US healthcare system in the next five years",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/90-of-health-it-execs-expect-widespread-ai-implementation-in-next-5-years.html?utm_source=Triggermail&utm_medium=email&utm_campaign=Post Blast bii-digital-health: Health IT leaders are bullish on AI | Microsoft rolls out Cloud for Healthcare | Unite Us%2C Nebraska HIE tackle social determinants&utm_term=BII List Digital Health ALL",
+      "originalUrl": "https://www.businessinsider.com/health-it-leaders-bullish-on-ai-implementation-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-06T07:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-06-america-enters-the-era-of-technopolitik.md",
+      "title": "America Enters the Era of Technopolitik",
+      "excerpt": "The U.S. has long relied on a geographic network of friends, but the future of multilateralism looks very different.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2020-11-06/u-s-needs-australia-sweden-south-korea-to-beat-china-in-ai-battle",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2020-11-06/u-s-needs-australia-sweden-south-korea-to-beat-china-in-ai-battle",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iExXFozC.O3o/v1/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/opinion/articles/2020-11-06/u-s-needs-australia-sweden-south-korea-to-beat-china-in-ai-battle",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/opinion/articles/2020-11-06/u-s-needs-australia-sweden-south-korea-to-beat-china-in-ai-battle",
+      "publishedDateTime": "2020-11-06T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-06-ai-can-make-bank-loans-more-fair.md",
+      "title": "AI Can Make Bank Loans More Fair",
+      "excerpt": "Many financial institutions are turning to AI reverse past discrimination in lending, and to foster a more inclusive economy. But many lenders find that artificial-intelligence-based engines exhibit many of the same biases as humans.",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2020/11/ai-can-make-bank-loans-more-fair",
+      "originalUrl": "https://hbr.org/2020/11/ai-can-make-bank-loans-more-fair",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2020/11/Nov20_06_1215016292.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2020/11/ai-can-make-bank-loans-more-fair",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/ai-can-make-bank-loans-more-fair",
+      "publishedDateTime": "2020-11-06T06:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-11-06-how-ai-predictions-fared-against-pollsters-in-the-2020-us-election.md",
+      "title": "How AI predictions fared against pollsters in the 2020 U.S. election",
+      "excerpt": "A report from the American Association for Public Opinion Research ... tweets and Facebook messages. But in the aftermath of the 2020 election, it’s still unclear whether AI proved more or ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/06/how-ai-predictions-fared-against-pollsters-in-the-2020-u-s-election/",
+      "originalUrl": "https://venturebeat.com/2020/11/06/how-ai-predictions-fared-against-pollsters-in-the-2020-u-s-election/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/GettyImages-1283078276.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/06/how-ai-predictions-fared-against-pollsters-in-the-2020-u-s-election/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/06/how-ai-predictions-fared-against-pollsters-in-the-2020-u-s-election/amp/",
+      "publishedDateTime": "2020-11-06T06:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-06-self-driving-startup-ponyai-gets-funding-from-chinas-faw.md",
+      "title": "Self-Driving Startup Pony.ai Gets Funding From China’s FAW",
+      "excerpt": "After receiving a $400 million investment from Toyota earlier this year, self-driving startup Pony.ai has just struck another agreement with the Chinese FAW Group. This is the first strategic investment by a Chinese state-owned car company into an autonomous tech firm,",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2020/11/self-driving-startup-pony-ai-gets-funding-from-chinas-faw/",
+      "originalUrl": "https://www.carscoops.com/2020/11/self-driving-startup-pony-ai-gets-funding-from-chinas-faw/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2020/11/pony-ai-gets-funding-from-faw-group-2-1024x555.jpg",
+          "width": 1024,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2020/11/self-driving-startup-pony-ai-gets-funding-from-chinas-faw/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/11/self-driving-startup-pony-ai-gets-funding-from-chinas-faw/amp/",
+      "publishedDateTime": "2020-11-06T05:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-11-06-tech-news-artificial-intelligence-and-the-human-brain.md",
       "title": "Tech News: Artificial Intelligence and the human brain",
       "excerpt": "Humans have always dreamt of soaring the sky and since prehistoric times often attempted to fly by mimicking birds.",
@@ -228,6 +522,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-06-grizzly-bear-facial-recognition-promises-to-revolutionize-wildlife-management.md",
+      "title": "Grizzly bear facial recognition promises to revolutionize wildlife management",
+      "excerpt": "A facial recognition system for grizzly bears could usher in a new wave of celebrity animals that scientists and the public could follow through their lifetimes. Biologists at the University of Victoria have teamed up with software experts to create an artificial intelligence (AI) that can recognize individual bears even though they don’t have much in the way of identifiable facial features.",
+      "sourceUrl": null,
+      "webUrl": "https://theprovince.com/news/local-news/grizzly-bear-facial-recognition-promises-to-revolutionize-wildlife-management",
+      "originalUrl": "https://theprovince.com/news/local-news/grizzly-bear-facial-recognition-promises-to-revolutionize-wildlife-management",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.prod.postmedia.digital/vancouversun/wp-content/uploads/2020/11/258343459-bear_face_detection_melanie_clapham_004-w.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theprovince.com/news/local-news/grizzly-bear-facial-recognition-promises-to-revolutionize-wildlife-management/wcm/ab9e2bac-513f-4335-a2c4-c99f7cd8fff5/amp/",
+      "cdnAmpWebUrl": "https://theprovince-com.cdn.ampproject.org/c/s/theprovince.com/news/local-news/grizzly-bear-facial-recognition-promises-to-revolutionize-wildlife-management/wcm/ab9e2bac-513f-4335-a2c4-c99f7cd8fff5/amp/",
+      "publishedDateTime": "2020-11-06T00:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Province",
+        "domain": "theprovince.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-06-chinese-driverless-car-firm-ponyai-valued-at-53-billion-after-new-cash-injection.md",
       "title": "Chinese driverless car firm Pony.ai valued at $5.3 billion after new cash injection",
       "excerpt": "A fund run by the Ontario Teachers' Pension Plan Board led the $267 million investment into Pony.ai which also included existing investors.",
@@ -236,7 +573,7 @@
       "originalUrl": "https://www.cnbc.com/2020/11/06/china-driverless-car-firm-ponyai-valued-at-5point3-billion-after-funding.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 248,
+      "heat": 228,
       "tags": null,
       "images": [
         {
@@ -866,370 +1203,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-global-face-recognition-device-market-size-to-reach-20548-million-usd-by-2025.md",
-      "title": "Global Face Recognition Device Market Size to Reach 2054.8 million USD by 2025",
-      "excerpt": "According to this study, over the next five years the Face Recognition Device market will register a 18.2% CAGR in terms of revenue, the global market size will reach $ 2054.8 million by 2025, from $ 1054.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-face-recognition-device-market-size-to-reach-20548-million-usd-by-2025-2020-11-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-face-recognition-device-market-size-to-reach-20548-million-usd-by-2025-2020-11-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-05T06:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-amazing-new-headset-translates-thoughts-into-speech-for-vocally-impaired-wearers.md",
-      "title": "Amazing new headset translates thoughts into speech for vocally impaired wearers",
-      "excerpt": "A craniotomy, as he points out, is invasive brain surgery. The goal of his work at the University of Bath is to achieve the effect of “imagined speech recognition,” but without the need for someone to cut open your head and plant sensors onto the surfa ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/features/synthetic-voice-gaming-headset/",
-      "originalUrl": "https://www.digitaltrends.com/features/synthetic-voice-gaming-headset/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/headset-2-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/features/synthetic-voice-gaming-headset/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/synthetic-voice-gaming-headset/?amp",
-      "publishedDateTime": "2020-11-05T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-computer-vision-puts-a-focus-on-hygiene.md",
-      "title": "Computer Vision Puts a Focus on Hygiene",
-      "excerpt": "Learn how Wobot is able to help their customers to leave no stone unturned in ensuring adherence to proper safety and hygiene protocols.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/210294/computer-vision-puts-a-focus-on-hygiene",
-      "originalUrl": "https://www.infoworld.com/resources/210294/computer-vision-puts-a-focus-on-hygiene",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-05T05:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-provizio-raises-62-million-to-develop-ai-that-reduces-automotive-fatalities.md",
-      "title": "Provizio raises $6.2 million to develop AI that reduces automotive fatalities",
-      "excerpt": "Provizio raised $6.2 million for its platform that seeks to apply autonomous technologies to vehicle safety systems.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/05/provizio-raises-6-2-million-to-develop-ai-that-reduces-automotive-fatalities/",
-      "originalUrl": "https://venturebeat.com/2020/11/05/provizio-raises-6-2-million-to-develop-ai-that-reduces-automotive-fatalities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Provizio-road-test-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/05/provizio-raises-6-2-million-to-develop-ai-that-reduces-automotive-fatalities/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/05/provizio-raises-6-2-million-to-develop-ai-that-reduces-automotive-fatalities/amp/",
-      "publishedDateTime": "2020-11-05T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-were-ready-for-mainstream-facial-recognition-but-is-it-ready-for-us.md",
-      "title": "We’re Ready For Mainstream Facial Recognition, But Is It Ready For Us?",
-      "excerpt": "Before real-world implementation of this technology, bias and privacy concerns must be sufficiently explored and addressed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/05/were-ready-for-mainstream-facial-recognition-but-is-it-ready-for-us/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/05/were-ready-for-mainstream-facial-recognition-but-is-it-ready-for-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f21aa670d7d1c4064053876%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/05/were-ready-for-mainstream-facial-recognition-but-is-it-ready-for-us/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/05/were-ready-for-mainstream-facial-recognition-but-is-it-ready-for-us/amp/",
-      "publishedDateTime": "2020-11-05T04:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-land-a-career-in-fintech-with-this-blockchain-bootcamp.md",
-      "title": "Land a career in fintech with this blockchain bootcamp",
-      "excerpt": "The Ultimate FinTech & Blockchain Bootcamp Bundle empowers you to confidently deliver smooth, secure and transparent financial services with eight quick courses on the fintech industry, blockchain, lending,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/land-a-career-in-fintech-with-this-blockchain-bootcamp-01604440965",
-      "originalUrl": "https://www.marketwatch.com/story/land-a-career-in-fintech-with-this-blockchain-bootcamp-01604440965",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-254411/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/land-a-career-in-fintech-with-this-blockchain-bootcamp-01604440965",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/land-a-career-in-fintech-with-this-blockchain-bootcamp-01604440965",
-      "publishedDateTime": "2020-11-05T03:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-these-factory-robots-may-point-the-way-to-5gs-future.md",
-      "title": "These Factory Robots May Point the Way to 5G’s Future",
-      "excerpt": "says adding high-speed wireless links to robots and other equipment allows them to be coordinated and calibrated more precisely, helps predict costly malfunctions and downtime, and allows sophisticated software, including artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/factory-robots-may-point-way-5g-future/",
-      "originalUrl": "https://www.wired.com/story/factory-robots-may-point-way-5g-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fa1fbb2227dbb78ec30daf8/master/pass/business_5g_1003931044.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/factory-robots-may-point-way-5g-future/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/factory-robots-may-point-way-5g-future/amp",
-      "publishedDateTime": "2020-11-04T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

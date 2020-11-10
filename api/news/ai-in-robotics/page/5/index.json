@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-06-how-to-invest-in-miso-robotics-burger-flipping-robot.md",
+      "title": "How to Invest in Miso Robotics’ Burger-Flipping Robot",
+      "excerpt": "But that’s not to say AI-powered robots aren’t making lots of progress. One example of this is the Flippy robot, which cooks ... stock — Miso is the startup that is building Flippy ...",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2020/10/miso-robotics-flippy-and-the-robot-future-for-restaurants/",
+      "originalUrl": "https://investorplace.com/2020/10/miso-robotics-flippy-and-the-robot-future-for-restaurants/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2020/07/miso-robotics-stock-2.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2020/10/miso-robotics-flippy-and-the-robot-future-for-restaurants/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/10/miso-robotics-flippy-and-the-robot-future-for-restaurants/amp/",
+      "publishedDateTime": "2020-10-06T06:10:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-sarcos-defense-awarded-contract-by-us-air-force-to-develop-smart-dexterous-robotic-systems-with-advanced-artificial-intelligence.md",
       "title": "Sarcos Defense Awarded Contract by U.S. Air Force to Develop “Smart” Dexterous Robotic Systems with Advanced Artificial Intelligence",
       "excerpt": "Sarcos Defense Awarded Contract by U.S. Air Force to Develop “Smart” Dexterous Robotic Systems with Advanced Artificial Intelligence",
@@ -1385,40 +1428,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-profiting-from-the-rise-of-robotics.md",
-      "title": "Profiting from the Rise of Robotics",
-      "excerpt": "O f the many hyper-growth themes emerging today, artificial intelligence (AI) and robotics are among those sure to have the most profound impact on day-to-day life. With that stat",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/profiting-from-the-rise-of-robotics-2020-09-25",
-      "originalUrl": "https://www.nasdaq.com/articles/profiting-from-the-rise-of-robotics-2020-09-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/profiting-from-the-rise-of-robotics-2020-09-25?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/profiting-from-the-rise-of-robotics-2020-09-25?amp",
-      "publishedDateTime": "2020-09-25T10:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

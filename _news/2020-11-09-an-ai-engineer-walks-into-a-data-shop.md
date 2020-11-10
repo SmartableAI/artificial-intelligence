@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2020/11/09/an-ai-engin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/11/09/an-ai-engineer-walks-into-a-data-shop/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Shoplus Aims To Be the Next Big Data Driven And AI-Enabled Tool For Merchants"
-    excerpt: "Sega Cheng, CEO and co-founder of iKala, plans to expand the vision of supporting startups which merely relied on physical work mechanism"
-    publishedDateTime: 2020-11-06T06:49:00Z
-    webUrl: "https://www.entrepreneur.com/video/359153"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/359153"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359153"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 64
 
 secured: "Alk1+H6DuQkt7Z2InizoEYTN4ev3PfB4P87mZFM+u7eU6fqu23q9wUt9ifhFNoX5mWobWy8v/i+psHYzaWlHSWbes1BQSn1KnyUlkI5VNOg9rKalc0B6ZjHjzDdIW/LMX4ItUwE61d8GqWUOlJOXmw91nTNUhE5EOoGzYT5cZcWRP8a4odum3SIGxRhH8ViFHwMh7hpo7yGakaTx3szFMPvbZM6RQNeGRReJvf+wfu4r1pmwex+4q8/hB3GIY9xEufBQyXeXytXNM/bOXJ6YcpcP/yISldX8pxvhHGz7riOtf3MUWUH6dUyb35o19kkO5lEXJOxhFdbYSrPIOgJ9obiu3lt/gtQtHB/xnT9AXoSR9SNPfKsagGAbjpivPtWyvun5zYTVGtp3W13n265R532DVzpg50vHETBKj6Dd9WzfKnVKgJWxxmYSsdL2y2+MqtOC0GxEXs4Hbs8B1d/eGAa/k5mUL6umaxcmYi8BZGEkncF6jBEXTxvzcYWb1C5jkA2B5UiMS+KwvJQcWm0yyA==;sCIRTltreYs0VYeVOwubgQ=="
 ---
