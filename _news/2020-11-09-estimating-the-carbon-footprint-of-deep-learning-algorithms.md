@@ -25,15 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning removes bias from algorithms and the hiring process"
-    excerpt: "If undetected and unchecked, algorithms can learn, automate, and scale existing human and systemic biases. These models then perpetuate discrimination as they guide decision-makers in selecting people for loans,"
-    publishedDateTime: 2020-11-06T13:45:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/science-michael-rosenbaum-81cbbaf3f48315533c82bde24b452dbb"
+  - title: "Machine learning algorithms help predict out-of-hospital cardiac arrest survival"
+    excerpt: "Using neighborhood and local data in combination with existing information sources creates a more accurate prediction on a patient's recovery prospects after an out-of-hospital cardiac arrest (OHCA),"
+    publishedDateTime: 2020-11-09T14:07:00Z
+    webUrl: "https://www.news-medical.net/news/20201109/Machine-learning-algorithms-help-predict-out-of-hospital-cardiac-arrest-survival.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20201109/Machine-learning-algorithms-help-predict-out-of-hospital-cardiac-arrest-survival.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201109/Machine-learning-algorithms-help-predict-out-of-hospital-cardiac-arrest-survival.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 54
+    images:
+      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fCardiac_Arrest-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+  - title: "Machine learning helps predict survival rates of out-of-hospital cardiac arrest"
+    excerpt: "Machine learning predictions about the survival rate of an out-of-hospital cardiac arrest were more accurate when neighborhood-level factors were added to the data analysis. Future research can use this newly developed model to identify neighborhood-level intervention methods to decrease death rates from an out-of-hospital cardiac arrest."
+    publishedDateTime: 2020-11-09T15:00:00Z
+    webUrl: "https://apnews.com/press-release/newmediawire/science-access-to-health-care-north-america-chicago-health-a3f6fca9242bd21c750ee9a5f680b185"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 39
+    quality: 35
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

@@ -259,6 +259,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Walmart partners with Cruise in a pilot for self-driving car delivery service"
+    excerpt: "Walmart Inc. and General Motors Co. subsidiary Cruise LLC have agreed to partner on a self-driving delivery service in Scottsdale, Arizona, it was announced today. In April, Walmart launched its “Express Delivery” service,"
+    publishedDateTime: 2020-11-11T04:39:00Z
+    webUrl: "https://siliconangle.com/2020/11/10/walmart-partners-cruise-pilot-self-driving-car-delivery-service/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 21
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/Capture.png"
+        width: 869
+        height: 566
+        isCached: true
   - title: "Walmart is expanding its fleet of self-driving cars to Scottsdale, Arizona for a pilot delivery program with autonomous startup Cruise"
     excerpt: "Walmart is set to roll out a pilot delivery program next year with GM-owned Cruise that will use self-driving Chevy Bolt vehicles to delivery orders from stores to homes in Scottsdale, Arizona."
     publishedDateTime: 2020-11-10T17:22:00Z

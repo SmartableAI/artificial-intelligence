@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomdavenport/2020/11/10/the-future-of-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/11/10/the-future-of-work-now-ai-assisted-writing-with-writercom-and-intuit/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

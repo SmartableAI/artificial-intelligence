@@ -2,6 +2,154 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-10-13-the-next-generation-of-artificial-intelligence.md",
+      "title": "The Next Generation Of Artificial Intelligence",
+      "excerpt": "What will the next generation of artificial intelligence look like? Which novel AI approaches will unlock currently unimaginable possibilities in technology and business? This article highlights three emerging areas within AI that are poised to redefine the field—and society—in the years ahead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f84f4978d786028fac3acbb%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-10-12T18:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-tesla-autopilot-self-driving-beta-test-will-start-next-week-elon-musk-confirms.md",
+      "title": "Tesla Autopilot Self-Driving Beta Test Will Start Next Week, Elon Musk Confirms",
+      "excerpt": "The Full Self-Driving (FSD) feature has undergone a complete reboot and is expected to carry a lot of new functionality. The rewrite also updated the autopilot's labeling software to enable it to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/tesla-autopilot-self-driving-beta-test-will-start-next-week-elon-musk-confirms-3061130",
+      "originalUrl": "https://www.ibtimes.com/tesla-autopilot-self-driving-beta-test-will-start-next-week-elon-musk-confirms-3061130",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/23/tesla-is-one-of-several-major-automakers-suing.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/tesla-autopilot-self-driving-beta-test-will-start-next-week-elon-musk-confirms-3061130?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tesla-autopilot-self-driving-beta-test-will-start-next-week-elon-musk-confirms-3061130?amp=1",
+      "publishedDateTime": "2020-10-12T17:17:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-nym-health-raises-165-million-for-its-auditable-machine-learning-tools-for-automating-hospital-billing.md",
+      "title": "Nym Health raises $16.5 million for its auditable machine learning tools for automating hospital billing",
+      "excerpt": "A little less than two years after raising its seed round, the Israeli-based Nym Health has added another $16.5 million to its cash haul so it can roll out its technology developing auditable machine learning tools for automating hospital billing.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/13/nym-health-raises-14-million-for-its-auditable-machine-learning-tools-for-automating-hospital-billing/",
+      "originalUrl": "https://techcrunch.com/2020/10/13/nym-health-raises-14-million-for-its-auditable-machine-learning-tools-for-automating-hospital-billing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1211152561.jpg?w=713",
+          "width": 713,
+          "height": 489,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/13/nym-health-raises-14-million-for-its-auditable-machine-learning-tools-for-automating-hospital-billing/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/13/nym-health-raises-14-million-for-its-auditable-machine-learning-tools-for-automating-hospital-billing/amp/",
+      "publishedDateTime": "2020-10-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-adobe-puts-artificial-intelligence-tools-into-its-marketing-software.md",
       "title": "Adobe puts artificial intelligence tools into its marketing software",
       "excerpt": "Adobe Inc <ADBE.O> said on Monday that it has put a new set of artificial intelligence tools into its digital marketing software with the aim of helping companies sharpen their marketing campaigns.",
@@ -1076,135 +1224,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-can-ai-generated-text-be-funny.md",
-      "title": "Can AI-Generated Text Be Funny?",
-      "excerpt": "To weigh in on exactly that issue, for this week’s Giz Asks, we reached out to a number of people working at the intersection of AI and humor. Professor, Information and Computer Sciences ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/can-ai-generated-text-be-funny-1845323654",
-      "originalUrl": "https://gizmodo.com/can-ai-generated-text-be-funny-1845323654",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/b7jb28du66r2l4lpv44t.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/can-ai-generated-text-be-funny-1845323654/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/can-ai-generated-text-be-funny-1845323654/amp",
-      "publishedDateTime": "2020-10-12T06:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-tesla-to-launch-full-self-driving-beta-to-select-drivers-next-week.md",
-      "title": "Tesla to launch Full Self Driving beta to select drivers next week",
-      "excerpt": "Tesla CEO Elon Musk said on Monday the company will launch its next-gen Full Self Driving (FSD) set of features to \"a small number of people who are expert & careful drivers.\" The beta will become ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/tesla-fsd-beta/",
-      "originalUrl": "https://mashable.com/article/tesla-fsd-beta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 274,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F10%252F12%252Fe0%252F5ed98d36ee2242089642c6dacaaf02e1.07ff8.png%252F1200x630.png?signature=fob0FjddhvIdGIaPXMahO4gHE_A=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/tesla-fsd-beta.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-fsd-beta.amp",
-      "publishedDateTime": "2020-10-12T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-ibm-watson-demonstrates-new-natural-language-processing-advancement-in-premiere-of-thats-debatable.md",
-      "title": "IBM Watson Demonstrates New Natural Language Processing Advancement in Premiere of \"That's Debatable\"",
-      "excerpt": "To generate the key points, the system utilizes four steps: Language can present a unique challenge for the business world – each company and industry has its own vernacular that evolves in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/ibm-watson-demonstrates-new-natural-language-processing-advancement-in-premiere-of",
-      "originalUrl": "https://www.nasdaq.com/press-release/ibm-watson-demonstrates-new-natural-language-processing-advancement-in-premiere-of",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

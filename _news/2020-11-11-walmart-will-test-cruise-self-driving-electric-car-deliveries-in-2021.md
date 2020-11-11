@@ -249,6 +249,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Walmart partners with Cruise in a pilot for self-driving car delivery service"
+    excerpt: "Walmart Inc. and General Motors Co. subsidiary Cruise LLC have agreed to partner on a self-driving delivery service in Scottsdale, Arizona, it was announced today. In April, Walmart launched its “Express Delivery” service,"
+    publishedDateTime: 2020-11-11T04:39:00Z
+    webUrl: "https://siliconangle.com/2020/11/10/walmart-partners-cruise-pilot-self-driving-car-delivery-service/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 21
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/Capture.png"
+        width: 869
+        height: 566
+        isCached: true
   - title: "Walmart teams up with GM's Cruise to test grocery delivery with self-driving cars"
     excerpt: "Ward said the fleet of vehicles will not only save time but they also use 100% renewable energy. The company, which has been outspoken about its sustainability efforts, said using these vehicles will help to support Walmart's goal of reaching zero emissions by 2040."
     publishedDateTime: 2020-11-10T21:31:00Z
@@ -280,6 +294,6 @@ related:
         height: 382
         isCached: true
 
-secured: "wZULAuLPGW6askgAtVChEbkjYh0ubypRm64GLialbgd7M0pOtkyeH9wCIVbs1hyOFWBTvqwhkhdIvf3eROc+YVK80eaoIWgH3ymykyqnYT2MmcEGlSKft2wWe99X+m32SWhhd1Jjm1DQx+fyNd9RZOz07YFYFbzvSvEPKLQkeqAlSX1OHJUMrVbTRdR75zaoeZQP5TtTaE5VpeB1frIKf1RQxvzo9nKCYDY1A8EC8bH1YHN4kkcyAWyMPmAkwiez6m5O0Zjqira8WnciqiWqGqSvES9LPJg7N7o05Houkae3BUYMrBcZvliYtDNVe/d0/hO8hlEm0wXn2Ujt5NFAZWf9moau+FrDLi+o119eVuA=;S23vS44T0FiMMY2uCAyukw=="
+secured: "uYLdho5t8FcTxxTV//vXt7kazEA+v2mri3Hfgv2bH9KgJCDbnQNp0/apnjFnMXDJAcqogemnLzoZPAoFdNtNqwl54NIEeiWIdfdV3hIhCHoe9C3TeN6joNQ0eCf0KFq/ao5bpVW2PiDwxJldANzJHgAxisun4lXQNnUY+i8sOfkKPHzWLNy0I0QMoYiUhoP6xuRDvCYLZpWQJyYXVfT3Z4aev1f5X3uZUFgK+ct+1fhlSdh7qODk9lANaAKL3ml3lXGSapq4rEPfza8AZGoxg1X/ZbIv4vakTWzLbSnXYRKQh2LecBpTMrliR+LjBwXxhjYrTs/4J37AFJv85UTujMOrA5N6F0iJWfC/Kws9DRaXHOqQ7QbTP0alctU6opi0bdIahF0FT++8mwNb93XVwMtDNc4gPpn1AVNr7PuKAtGPe2pOZrVFcAA/lpI3GbpyO0dtODMjSrhiKtVwGJ+QBKuznoZ/PKVMUBQJjqikgH7Yzbvwoo3Z4WHvbeGxEb4OuDOvPumPrxlzWn9uQurD/w==;5bkHxKw+IuN/sGncatrh4w=="
 ---
 

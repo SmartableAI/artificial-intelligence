@@ -2,6 +2,143 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-07-driverless-car-startup-ponyai-valued-at-53b-with-series-c-round.md",
+      "title": "Driverless Car Startup Pony.ai Valued At $5.3B With Series C Round",
+      "excerpt": "Driverless car developer Pony.ai is now valued around $5.3 billion, thanks to a recent Series C funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/investment-tracker/2020/driverless-car-startup-pony-ai-series-c-round/",
+      "originalUrl": "https://www.pymnts.com/news/investment-tracker/2020/driverless-car-startup-pony-ai-series-c-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2020/11/pony.ai-funding-round-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/investment-tracker/2020/driverless-car-startup-pony-ai-series-c-round/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2020/driverless-car-startup-pony-ai-series-c-round/amp/",
+      "publishedDateTime": "2020-11-06T10:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-11-07-canadas-telus-to-acquire-lionbridge-ai-in-919-million-deal.md",
+      "title": "Canada's Telus to acquire Lionbridge AI in $919 million deal",
+      "excerpt": "Canadian telecoms company Telus Corp <T.TO> said on Friday its unit Telus International would buy data services provider Lionbridge AI in a C$1.2 billion ($918.55 million) deal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-lionbridge-ai-m-a-telus/canadas-telus-to-acquire-lionbridge-ai-in-919-million-deal-idUSKBN27M1LU",
+      "originalUrl": "https://www.reuters.com/article/us-lionbridge-ai-m-a-telus/canadas-telus-to-acquire-lionbridge-ai-in-919-million-deal-idUSKBN27M1LU",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27M1LU",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M1LU",
+      "publishedDateTime": "2020-11-06T09:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-07-mit-ai-analysis-of-reddit-shows-anxiety-levels-are-sky-high-since-pandemic.md",
+      "title": "MIT AI analysis of Reddit shows anxiety levels are sky-high since pandemic",
+      "excerpt": "The first wave of COVID-19 increased discussions about anxiety and suicide on Reddit, according to a new study by MIT and Harvard University researchers.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/11/06/mit-ai-analysis-of-reddit-shows-anxiety-levels-are-sky-high-since-pandemic/",
+      "originalUrl": "https://thenextweb.com/neural/2020/11/06/mit-ai-analysis-of-reddit-shows-anxiety-levels-are-sky-high-since-pandemic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/Untitled-design-2020-11-06T114952.180-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/11/06/mit-ai-analysis-of-reddit-shows-anxiety-levels-are-sky-high-since-pandemic/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/06/mit-ai-analysis-of-reddit-shows-anxiety-levels-are-sky-high-since-pandemic/amp/",
+      "publishedDateTime": "2020-11-06T08:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-11-07-popes-november-prayer-intention-is-for-progress-in-robotics-ai-to-be-human.md",
       "title": "Pope's November prayer intention is for progress in robotics, AI to \"be human\"",
       "excerpt": "Francis emphasizes that such progress needs to be oriented towards respecting the dignity of the person and of Creation",
@@ -1056,162 +1193,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-why-i-just-purchased-shares-of-ai-cloud-observability-company-dynatrace.md",
-      "title": "Why I Just Purchased Shares of AI Cloud Observability Company Dynatrace",
-      "excerpt": "Technology projects to update operations -- especially in cloud computing -- can no longer be delayed, but rather are critical to the long-term health of many businesses. As a result, cloud observability software outfit Dynatrace (NYSE:DT) says its total addressable market has surged in the last 18 months from $20 billion a year to $32 billion a year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/11/05/why-i-just-purchased-shares-of-ai-cloud-dynatrace/",
-      "originalUrl": "https://www.fool.com/investing/2020/11/05/why-i-just-purchased-shares-of-ai-cloud-dynatrace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.ycharts.com/charts/46596513d52485d407d4f24e1d5e7db7.png",
-          "width": 720,
-          "height": 542,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/11/05/why-i-just-purchased-shares-of-ai-cloud-dynatrace/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/05/why-i-just-purchased-shares-of-ai-cloud-dynatrace/",
-      "publishedDateTime": "2020-11-05T08:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-when-a-tree-falls-on-top-of-a-self-driving-car.md",
-      "title": "When A Tree Falls On Top Of A Self-Driving Car",
-      "excerpt": "When a tree falls onto a self-driving car. getty. A popular riddle that has been asked since at least the 1800s is whether a tree that falls in a forest will make a sound if there",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/05/when-a-tree-falls-on-top-of-a-self-driving-car/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/05/when-a-tree-falls-on-top-of-a-self-driving-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa1e1ec70d6f1b95e85aac8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6720%26cropY1%3D341%26cropY2%3D4121",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/05/when-a-tree-falls-on-top-of-a-self-driving-car/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/05/when-a-tree-falls-on-top-of-a-self-driving-car/amp/",
-      "publishedDateTime": "2020-11-05T08:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-the-cutting-edge-computer-architecture-thats-changing-the-ai-game-vb-live.md",
-      "title": "The cutting-edge computer architecture that’s changing the AI game (VB Live)",
-      "excerpt": "Large amounts of data, the arrival of industry-standard frameworks such as TensorFlow and PyTorch, and the death of Moore’s Law, are all signs that it’s time for the next generation of ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/05/the-cutting-edge-computer-architecture-thats-changing-the-ai-game-vb-live/",
-      "originalUrl": "https://venturebeat.com/2020/11/05/the-cutting-edge-computer-architecture-thats-changing-the-ai-game-vb-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/data.GettyImages-1179285880.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/05/the-cutting-edge-computer-architecture-thats-changing-the-ai-game-vb-live/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/05/the-cutting-edge-computer-architecture-thats-changing-the-ai-game-vb-live/amp/",
-      "publishedDateTime": "2020-11-05T07:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

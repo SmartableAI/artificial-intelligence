@@ -24,17 +24,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "5 Top performing FinTech companies in the United States"
-    excerpt: "FinTech is a portmanteau of the terms “finance” and “technology”. The article reveals the top performing 5 Fintech companies in the U.S."
-    publishedDateTime: 2020-11-06T11:18:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/5-top-performing-fintech-companies-in-the-united-states/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 4
-
 secured: "s6lwbfgYTy3aKz8SL7Je7I9H0hvIcikYhE1sMZc3Y/3EgHQhNRyZKgu3pnWPT7CPjRzuW0QqltFwRWYLfQyad8mPG9suwrSI39uoeGkNZkSr1d4bXxQZebKv8VxuzNJEnnGRROomgs01lU7ZYtkGspHjdAkzz9TRdyo2D6c9yhYO9k/XZRBaHZWBCMAaWYXeEPD4hRtaUrXP1osar63dNJoFKc+SbpQdDUt85S73frJwYqMsMrONRqlhTWg/ku953Iz+UXAPil4V7CqkiInJkVAG1ycLg3e1ww4wxxtG7+ExIFcQ8s1ApKCNu8WNB1mSTYhz4FVT/cJLiuyKozOG0djxelDW1ehzkqxy1Ylvy08=;d7FXj+yRLQl9azIgRTpmXg=="
 ---
 

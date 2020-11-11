@@ -2,6 +2,153 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-09-buddhist-nuns-and-their-crusade-for-recognition-in-southeast-asia.md",
+      "title": "Buddhist Nuns and Their Crusade for Recognition in Southeast Asia",
+      "excerpt": "\"The Buddha is my first feminist … in a very traditional society, he opened the space for women by recognizing they can achieve a highest spiritual goal.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/y3gd3b/buddhist-nuns-bhikkhuni-ordination-women-recognition-southeast-asia",
+      "originalUrl": "https://www.vice.com/en/article/y3gd3b/buddhist-nuns-bhikkhuni-ordination-women-recognition-southeast-asia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com//articles/5fa8af370bb14e0095416283/lede/1604891135349-1-1.jpeg?crop=1xw:0.4428xh;0xw,0.0389xh",
+          "width": 1440,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/y3gd3b/buddhist-nuns-bhikkhuni-ordination-women-recognition-southeast-asia",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/y3gd3b/buddhist-nuns-bhikkhuni-ordination-women-recognition-southeast-asia",
+      "publishedDateTime": "2020-11-08T21:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-ai-can-drive-ethical-investment-only-if-we-grasp-the-messy-reality.md",
+      "title": "AI can drive ethical investment only if we grasp the messy reality",
+      "excerpt": "We also need to look at the ethical “fingerprint” of organisations we are considering investing in, and not simply tag them as ESG or not ESG, or lump them together in groups based on an arbitrary cut-off point on a scale.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/b238b8f2-8645-4654-a806-681c9a461d0b",
+      "originalUrl": "https://www.ft.com/content/b238b8f2-8645-4654-a806-681c9a461d0b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd6f4f721-b03f-46e8-842f-53d782ae5ad0.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/b238b8f2-8645-4654-a806-681c9a461d0b",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/b238b8f2-8645-4654-a806-681c9a461d0b",
+      "publishedDateTime": "2020-11-08T20:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-the-best-machine-learning-startups-to-work-for-in-2021-according-to-glassdoor.md",
+      "title": "The Best Machine Learning Startups To Work For In 2021 According To Glassdoor",
+      "excerpt": "AVORA, Codesmith, FairMarkIT, Protenus and Ravelin are the most likely to be recommended by their employees to friends looking for a machine learning startup to work for in 2021 based on each company's Glassdoor ratings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/08/the-best-machine-learning-startups-to-work-for-in-2021-according-to-glassdoor/",
+      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/08/the-best-machine-learning-startups-to-work-for-in-2021-according-to-glassdoor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6970cb93c4bdf032c4b97d%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/08/the-best-machine-learning-startups-to-work-for-in-2021-according-to-glassdoor/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/11/08/the-best-machine-learning-startups-to-work-for-in-2021-according-to-glassdoor/amp/",
+      "publishedDateTime": "2020-11-08T17:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-09-chinese-autonomous-truck-startup-inceptio-raises-120-million-from-catl-others.md",
       "title": "Chinese autonomous truck startup Inceptio raises $120 million from CATL, others",
       "excerpt": "China's Inceptio Technology, a startup developing self-driving trucks, said on Monday it has raised $120 million in its latest funding led by top Chinese electric vehicle battery maker CATL <300750.SZ>.",
@@ -811,7 +958,7 @@
       "originalUrl": "https://venturebeat.com/2020/11/06/ai-weekly-the-election/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1090,143 +1237,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-driverless-car-startup-ponyai-valued-at-53b-with-series-c-round.md",
-      "title": "Driverless Car Startup Pony.ai Valued At $5.3B With Series C Round",
-      "excerpt": "Driverless car developer Pony.ai is now valued around $5.3 billion, thanks to a recent Series C funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/investment-tracker/2020/driverless-car-startup-pony-ai-series-c-round/",
-      "originalUrl": "https://www.pymnts.com/news/investment-tracker/2020/driverless-car-startup-pony-ai-series-c-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2020/11/pony.ai-funding-round-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/investment-tracker/2020/driverless-car-startup-pony-ai-series-c-round/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2020/driverless-car-startup-pony-ai-series-c-round/amp/",
-      "publishedDateTime": "2020-11-06T10:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-canadas-telus-to-acquire-lionbridge-ai-in-919-million-deal.md",
-      "title": "Canada's Telus to acquire Lionbridge AI in $919 million deal",
-      "excerpt": "Canadian telecoms company Telus Corp <T.TO> said on Friday its unit Telus International would buy data services provider Lionbridge AI in a C$1.2 billion ($918.55 million) deal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-lionbridge-ai-m-a-telus/canadas-telus-to-acquire-lionbridge-ai-in-919-million-deal-idUSKBN27M1LU",
-      "originalUrl": "https://www.reuters.com/article/us-lionbridge-ai-m-a-telus/canadas-telus-to-acquire-lionbridge-ai-in-919-million-deal-idUSKBN27M1LU",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27M1LU",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M1LU",
-      "publishedDateTime": "2020-11-06T09:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-mit-ai-analysis-of-reddit-shows-anxiety-levels-are-sky-high-since-pandemic.md",
-      "title": "MIT AI analysis of Reddit shows anxiety levels are sky-high since pandemic",
-      "excerpt": "The first wave of COVID-19 increased discussions about anxiety and suicide on Reddit, according to a new study by MIT and Harvard University researchers.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/11/06/mit-ai-analysis-of-reddit-shows-anxiety-levels-are-sky-high-since-pandemic/",
-      "originalUrl": "https://thenextweb.com/neural/2020/11/06/mit-ai-analysis-of-reddit-shows-anxiety-levels-are-sky-high-since-pandemic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/Untitled-design-2020-11-06T114952.180-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/11/06/mit-ai-analysis-of-reddit-shows-anxiety-levels-are-sky-high-since-pandemic/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/06/mit-ai-analysis-of-reddit-shows-anxiety-levels-are-sky-high-since-pandemic/amp/",
-      "publishedDateTime": "2020-11-06T08:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

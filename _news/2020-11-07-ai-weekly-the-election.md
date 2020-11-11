@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/06/ai-weekly-the-election/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/06/ai-weekly-the-election/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Artificial intelligence on the edge"
-    excerpt: "WSU researchers have developed a novel framework to more efficiently use AI algorithms on mobile platforms and other portable devices."
-    publishedDateTime: 2020-11-06T13:00:00Z
-    webUrl: "https://news.wsu.edu/2020/11/06/artificial-intelligence-edge/"
-    type: article
-    provider:
-      name: Washington State University News
-      domain: wsu.edu
-    quality: 41
-    images:
-      - url: "https://s3.wp.wsu.edu/uploads/sites/609/2020/11/agdrone.jpg"
-        width: 1188
-        height: 792
-        isCached: true
 
 secured: "g6R6Z1zTszU+Yw43Xl4wA0c6+qKrd2K5JO56edDUbszP91sMTRDx7QfbNUtk+MEHPHUhwmzdYHSdh6+JTpOBb/vxCsATg4x707qzkKOi7wfxCbb84YyNq6/lx8DYjgjx1wf2gpggL2Gfy3Q8qenA7IWx8CBpweqnMD4zWrKiPbVy9sJD8mbWeimR/sZv+62sgxxAKDlYQGDpgG9s18Sq/LmWlylewhOMp4zd53UZJX+wNUCrajzrbrs6MsykL1gOvI5TLppZyqktTM7Rp4epA/SaYf6Oxj8csHtwDd7WvwiImBxWH7J9LFsX77ieADkSTNYtPyi/YQBp1phNrgjsBCStByj6VsNE+zIf+QTd7jwgruwkdEd5CYb6vVx+xxqMHY8J0/6ba73iv0ro5Izc3lDbXrPL9uejTIFJJ1qAE8hrROMxNOShJjN5NlbSvPA7jynVziMni3v41KrttvX78iBYqoh2At6JrpaNxRhExb+feeIb74hRgIqgrc0hXjDfc2x0WJiubEFZwljX3NYCsQ==;iGjcwt4oAT6I6slBxePHog=="
 ---

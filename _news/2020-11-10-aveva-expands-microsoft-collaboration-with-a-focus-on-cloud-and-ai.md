@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft AI Summit: Reimagining digital governance with Cloud, AI, IoT"
-    excerpt: "India has been at the forefront of digital acceleration, especially after covid-19 that has moved people to remote working, students to online education, and other such interventions that are no more an option,"
-    publishedDateTime: 2020-11-06T12:11:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/microsoft-ai-summit-reimagining-digital-governance-with-cloud-ai-iot-11604663602516.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/microsoft-ai-summit-reimagining-digital-governance-with-cloud-ai-iot/amp-11604663602516.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/microsoft-ai-summit-reimagining-digital-governance-with-cloud-ai-iot/amp-11604663602516.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 76
-    images:
-      - url: "https://images.livemint.com/img/2020/11/06/600x338/tech_1581859988035_1604663954905.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "AI Image Recognition Market is Gaining Momentum with key players Google, IBM, Intel, Microsoft"
     excerpt: "Latest Report Available at Advance Market Analytics, \"AI Image Recognition Market\" provides pin-point analysis for"
     publishedDateTime: 2020-11-10T09:41:00Z
@@ -69,25 +53,7 @@ related:
         width: 280
         height: 350
         isCached: true
-  - title: "AVEVA, Microsoft expands collaboration with a focus on cloud and AI to drive digital transformation"
-    excerpt: "AVEVA to collaborate with Microsoft to provide cloud platform and domain expertise for industrial sector organisations"
-    publishedDateTime: 2020-11-10T11:29:00Z
-    webUrl: "https://www.arabianindustry.com/petrochemicals/news/2020/nov/10/aveva-microsoft-expands-collaboration-with-a-focus-on-cloud-and-ai-to-drive-digital-transformation-6456736/"
-    type: article
-    provider:
-      name: arabianindustry.com
-      domain: arabianindustry.com
-    quality: 20
-  - title: "AVEVA Expands its Collaboration with Microsoft with a Focus on Cloud and AI to Drive Digital Transformation in the Manufacturing and Energy Industries"
-    excerpt: "AVEVA to Collaborate with Microsoft to Provide Cloud Platform and Domain Expertise for Industrial Sector Organizations"
-    publishedDateTime: 2020-11-10T18:14:00Z
-    webUrl: "https://www.manufacturingtomorrow.com/news/2020/11/10/aveva-expands-its-collaboration-with-microsoft-with-a-focus-on-cloud-and-ai-to-drive-digital-transformation-in-the-manufacturing-and-energy-industries/16109/"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturingtomorrow.com
-    quality: 0
 
-secured: "P7jBmDaPk4u/PAJKNY0cAJOkOybWRHvbaAgd36wVtepcSrdRy35aBgNZnmDULdRjyZ5Wz/5jXKf/Gb+nfyYdGmezrdnxRvO2PBHIu3Zg+FHpIOiS5bAH6jxv2sIUMkFavnHID3r1FrHwI5AcZR8h39bu5/VgyCDOcpa7ci8I4B9lQO3eNup3w5N4GxiPvdbslG85iQhJt1CBTpGKoq7eeuGB2HcBYyhDpRXc+ekyOUTWQlWTr7QcqG3PDpEdqIYEeEUUmGGo/YdEfQX7n4+NmP+/Ac9iPoD8xNxFcFtNwiR1V6zjXUKJjWiV+mfZ021QmIQERkSlJfpwFtnQ+FgV5+MYz0IfrFVSqgWQEnMTyTI=;DFcBe5xBpF1n3c6mnOaDfQ=="
+secured: "b8f3eNC6Wbc34f8Qvv2HWVzNqL7smWqEgB9Eym9fFcb/Q9lpNJUCrrzWlljinT3UlGRqpJJfGAwqwf0FZ6Ydv5FfNcRU8yCG8e+GbWDmeqW1Lf/u3X04C1ujOKrfQO5AFsDuJptqfWvmvpDPjfG7XWNAbPIiV2IPb0/9MELYYA4eqoRmfqexAL4HkYKKL7EVYnpS4kkctjuGABJiGw0m42DG5lRmhfe03yUqYb/Uzk2kwhn96RFUg1TnzHZY7ozB5vo4A4GOClpmNX69/4DT93Irw51BEs/ecJoMck4h1d089VKp0Qvkj2PWdVtjXyC1eDWrm7A2xNFPUkd8DxVJoEhojhUCalTRKTi3/w5ve1xjS4QiVs1vClBwudzoA42a6i3Elpgve3EdrEa2bj6abIf+QgHOkHiyD+ISlY2hJgdILy0hSXwnuRAeu+FArVyeFwnZWWnW4S9gOSQ8DukxEwWtSLNPs/4m1KvxsVZFyAQNYvfq+DdhHvp9knWRflutSXy4sZOFusBTftdeWWEQxg==;q//X7tfDKxYSsBsWeRp9bA=="
 ---
 

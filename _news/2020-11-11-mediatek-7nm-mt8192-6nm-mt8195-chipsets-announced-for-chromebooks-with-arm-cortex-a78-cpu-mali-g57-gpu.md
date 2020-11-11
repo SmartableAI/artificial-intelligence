@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "MediaTek announces Dimensity 700 5G capable chip for mass markets"
+    excerpt: "MediaTek has announced a new 7nm chip called Dimensity 700 which supports 5G connectivity and is made for premium and mid range smartphones."
+    publishedDateTime: 2020-11-11T04:52:00Z
+    webUrl: "https://www.themobileindian.com/news/mediatek-announces-dimensity-700-5g-capable-chip-for-mass-markets-33914"
+    ampWebUrl: "https://www.themobileindian.com/news/lite/mediatek-announces-dimensity-700-5g-capable-chip-for-mass-markets-33914"
+    cdnAmpWebUrl: "https://www-themobileindian-com.cdn.ampproject.org/c/s/www.themobileindian.com/news/lite/mediatek-announces-dimensity-700-5g-capable-chip-for-mass-markets-33914"
+    type: article
+    provider:
+      name: Mobile
+      domain: themobileindian.com
+    quality: 59
+    images:
+      - url: "https://dhlm2eb86cbhs.cloudfront.net/public/thumbs/news/2020/11/33914/0001-12942641163_20201110_235145_0000_425_735.jpg"
+        width: 735
+        height: 425
+        isCached: true
   - title: "MediaTek’s new chips: MT8192 & MT8195 for Chromebook chips, Dimensity 700 for 5G smartphones"
     excerpt: "Taiwanese chip maker MediaTek has unveiled three new ARM-based processors aimed at mobile devices. The new MediaTek MT8195 is a 6nm chip designed for premium Chromebooks, while the MT8192 is a less powerful 7nm chip aimed at mainstream Chrome OS devices."
     publishedDateTime: 2020-11-10T20:32:00Z

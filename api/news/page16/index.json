@@ -2,6 +2,162 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-10-27-what-the-hell-is-reinforcement-learning-and-how-does-it-work.md",
+      "title": "What the hell is reinforcement learning and how does it work?",
+      "excerpt": "Reinforcement learning is a subset of machine learning. It enables an agent to learn through the consequences of actions in a specific environment. It can be used to teach a robot new tricks ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/10/27/what-the-hell-is-reinforcement-learning-and-how-does-it-work-syndication/",
+      "originalUrl": "https://thenextweb.com/neural/2020/10/27/what-the-hell-is-reinforcement-learning-and-how-does-it-work-syndication/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/1-19-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/10/27/what-the-hell-is-reinforcement-learning-and-how-does-it-work-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/27/what-the-hell-is-reinforcement-learning-and-how-does-it-work-syndication/amp/",
+      "publishedDateTime": "2020-10-27T03:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-institutional-bias-and-lower-acceptance-rates-for-women-inside-the-ai-conference-review-process.md",
+      "title": "Institutional bias and lower acceptance rates for women: Inside the AI conference review process",
+      "excerpt": "Interestingly, their research did not find a significant bias toward large tech companies such as Google, Facebook, and Microsoft, which house reputable AI researchers. At first glance ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/10/27/institutional-bias-and-lower-acceptance-rates-for-women-inside-the-ai-conference-review-process-syndication/",
+      "originalUrl": "https://thenextweb.com/neural/2020/10/27/institutional-bias-and-lower-acceptance-rates-for-women-inside-the-ai-conference-review-process-syndication/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/image-24-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/10/27/institutional-bias-and-lower-acceptance-rates-for-women-inside-the-ai-conference-review-process-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/27/institutional-bias-and-lower-acceptance-rates-for-women-inside-the-ai-conference-review-process-syndication/amp/",
+      "publishedDateTime": "2020-10-27T03:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-human-rights-groups-call-on-the-university-of-miami-to-ban-facial-recognition.md",
+      "title": "Human Rights Groups Call On The University Of Miami To Ban Facial Recognition",
+      "excerpt": "More than 20 human rights organizations have called on the University of Miami to ban facial recognition, after students accused the school of using the technology to identify student protesters, which the university has denied.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rachelsandler/2020/10/27/human-rights-groups-call-on-the-university-of-miami-to-ban-facial-recognition/",
+      "originalUrl": "https://www.forbes.com/sites/rachelsandler/2020/10/27/human-rights-groups-call-on-the-university-of-miami-to-ban-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f976dd16283f24dc20fed29%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D617%26cropY2%3D3992",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rachelsandler/2020/10/27/human-rights-groups-call-on-the-university-of-miami-to-ban-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/10/27/human-rights-groups-call-on-the-university-of-miami-to-ban-facial-recognition/amp/",
+      "publishedDateTime": "2020-10-27T03:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-flippy-robots-will-cook-sliders-in-10-more-white-castle-locations.md",
       "title": "Flippy robots will cook sliders in 10 more White Castle locations",
       "excerpt": "Rail — showed promising results in its pilot with White Castle, enough for the burger chain to sign on to deploying the robot in 10 more locations. Back in September, they formally started a pilot program to test Flippy at one White Castle location,",
@@ -1046,162 +1202,6 @@
         "AI",
         "AI in Sales",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-from-beekeepers-to-ocean-mappers-lobe-aims-to-make-it-easy-for-anyone-to-train-machine-learning-models.md",
-      "title": "From beekeepers to ocean mappers, Lobe aims to make it easy for anyone to train machine learning models",
-      "excerpt": "The post From beekeepers to ocean mappers, Lobe aims to make it easy for anyone to train machine learning models appeared first on The AI Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://blogs.microsoft.com/ai/lobe-machine-learning/",
-      "originalUrl": "https://blogs.microsoft.com/ai/lobe-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/10/lobe-machine-learning-toyon_1200x630-5f96ba640f2e5-1024x538.jpg",
-          "width": 1024,
-          "height": 538,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-26T05:59:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-deep-learning-market-emerging-trends-revenue-estimation-global-size-and-forecast-report-to-2025.md",
-      "title": "Deep Learning Market Emerging Trends, Revenue Estimation, Global Size and Forecast Report to 2025",
-      "excerpt": "Oct 26, 2020 (Heraldkeepers) -- Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-emerging-trends-revenue-estimation-global-size-and-forecast-report-to-2025-2020-10-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-emerging-trends-revenue-estimation-global-size-and-forecast-report-to-2025-2020-10-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-26T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-dont-fear-ai-it-will-lead-to-long-term-job-growth.md",
-      "title": "Don't Fear AI. It Will Lead To Long-Term Job Growth.",
-      "excerpt": "COVID-19 has sped up the automation of many tasks, leading some to fear algorithms will take their jobs. But AI is creating more jobs than it destroys.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/10/26/dont-fear-ai-it-will-lead-to-long-term-job-growth/",
-      "originalUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/10/26/dont-fear-ai-it-will-lead-to-long-term-job-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8fea71775ffb7b81005705%2F0x0.jpg",
-          "width": 1200,
-          "height": 935,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/10/26/dont-fear-ai-it-will-lead-to-long-term-job-growth/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/worldeconomicforum/2020/10/26/dont-fear-ai-it-will-lead-to-long-term-job-growth/amp/",
-      "publishedDateTime": "2020-10-26T01:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

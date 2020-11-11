@@ -38,6 +38,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 62
+  - title: "UAE based Fintech BankOnUs Introduces AI enhanced Financial and Insurance Services Comparison App"
+    excerpt: "UAE based Fintech firm BankOnUs has introduced an AI enhanced financial and insurance services comparison app."
+    publishedDateTime: 2020-11-11T02:11:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/11/168829-uae-based-fintech-bankonus-introduces-ai-enhanced-financial-and-insurance-services-comparison-app/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/168829-uae-based-fintech-bankonus-introduces-ai-enhanced-financial-and-insurance-services-comparison-app/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/168829-uae-based-fintech-bankonus-introduces-ai-enhanced-financial-and-insurance-services-comparison-app/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 61
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/10/Mastercard-Touchless-Payments-iPhone-Wallet-Credit-Card-300x232.jpg"
+        width: 300
+        height: 232
+        isCached: true
   - title: "Fintech for Fashion: Purple Dot Raises £1.35 Million Seed Round"
     excerpt: "Purple Dot, a payment platform for fashion merchandisers that enables consumers to offer to purchase a product at below the retail recommended price, has raised a £1.3 million seed round. The funding was led by Connect Ventures."
     publishedDateTime: 2020-11-09T12:29:00Z
