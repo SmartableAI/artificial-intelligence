@@ -41,6 +41,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Computer vision syndrome during COVID-19: Eye fatigue and how to counter it"
+    excerpt: "As the amount of time students are spending in front of the screen has increased, so does the risk of developing symptoms of computer vision syndrome."
+    publishedDateTime: 2020-11-11T21:55:00Z
+    webUrl: "https://www.ubyssey.ca/science/covid-computer-vision-syndrome/"
+    type: article
+    provider:
+      name: The Ubyssey
+      domain: ubyssey.ca
+    quality: 37
+    images:
+      - url: "https://ubyssey.storage.googleapis.com/media/images/2020/11/screentime-mayarodrigo-abdi-medium.jpg"
+        width: 429
+        height: 600
+        isCached: true
 
 secured: "A3yN5in5PEgAkiRZSe+NAUA+PxsZ4P66p3W85KwoseQHMk0EXmA7zzk2yQOsrOKtAeGWaCy2KtWZUu1vm1/zGcoR3sf8+qxxRfXAT0TRtVq7uvGGJL8n/Uuiv73yQgdQZ7fj9GqjKZ15PpK9PwrZKPFvSMcweDAApI227bjICkX/MGyWMSsktFVs9cIFdUevQkGRL89e2DpcdAza0LYD7nvOML2tTGjdxadW+SPN6WawytXS+rdnZENhlyoDkdbVA3M1D7UXKnCoEqchCufoG4uHqBod88P3zYPS0MSZ7GgQIzXHlbgGlp8+hg9g0QhONr2lHMXsyKWq99eCff8WdGOIarivnPIHirqabnolbwNnXDDwTCj2yADgVg8QOHxCZqzbK5OnrMopybe1pDljU4B8bxZeZrMpdGn2M/JbX9xeY9IzznRhdnqZm1ZhkrcJW7yTn2RuniC7CgoZCWPTrA4fhrHTKGQMq/AIny9HxkQxEOlZh0tlqRR2dJGaOm/tnsB/gERxo46872cz8FWAyg==;mLAN0apaNnAdoUKz1bPGjA=="
 ---

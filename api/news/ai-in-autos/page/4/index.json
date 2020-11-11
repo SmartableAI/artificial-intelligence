@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-16-norway-pioneered-electric-ferries-now-its-making-them-self-driving.md",
+      "title": "Norway pioneered electric ferries. Now it's making them self-driving",
+      "excerpt": "Norwegian startup Zeabuz has created a zero-emissions, self-driving electric ferry. As more cities look to boats for clean and cheap transport, autonomous ferries could revolutionize urban waterways.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/travel/article/norway-self-driving-ferries-zeabuz-spc-intl/index.html",
+      "originalUrl": "https://www.cnn.com/travel/article/norway-self-driving-ferries-zeabuz-spc-intl/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dynaimage.cdn.cnn.com/cnn/w_1200/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F200827174138-zeabuz-electric-passenger-ferry-super-tease.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnn.com/travel/amp/norway-self-driving-ferries-zeabuz-spc-intl/index.html",
+      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/travel/amp/norway-self-driving-ferries-zeabuz-spc-intl/index.html",
+      "publishedDateTime": "2020-10-16T00:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-ubers-self-driving-car-business-has-fallen-behind-waymo-and-cruise-heres-why-the-ride-hail-giant-might-give-up-on-atg.md",
       "title": "Uber's self-driving-car business has fallen behind Waymo and Cruise — here's why the ride-hail giant might give up on ATG",
       "excerpt": "After the indictment of a former executive and a fatal crash, insiders, investors, and experts question whether Uber ATG can turn things around.",
@@ -1358,41 +1410,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-h2oai-brings-automl-to-equifax-ignite-with-driverless-ai.md",
-      "title": "H2O.ai brings AutoML to Equifax Ignite with Driverless AI",
-      "excerpt": "--(BUSINESS WIRE)--H2O.ai, the open source leader in artificial intelligence (AI) and machine learning (ML), today announced the availability of H2O AutoML and Driverless AI within Equifax Ignite",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201008005266/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20201008005266/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI",
         "AI in Autos"
       ]

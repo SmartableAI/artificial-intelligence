@@ -8,7 +8,7 @@ webUrl: "https://www.zdnet.com/article/ibm-amd-to-collaborate-on-hpc-ai-hybrid-c
 ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-amd-to-collaborate-on-hpc-ai-hybrid-cloud-confidential-computing/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-amd-to-collaborate-on-hpc-ai-hybrid-cloud-confidential-computing/"
 type: article
-quality: 66
+quality: 68
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 related:
   - title: "IBM and AMD Partner Up to Accelerate Development in Cloud Computing and Artificial Intelligence"

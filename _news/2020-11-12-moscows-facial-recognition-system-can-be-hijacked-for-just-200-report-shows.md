@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/11/11/21561018/moscows-fa
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/11/11/21561018/moscows-facial-recognition-system-crime-bribe-stalking"
 type: article
 quality: 85
-heat: 85
+heat: 86
 published: true
 
 provider:

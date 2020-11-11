@@ -8,8 +8,8 @@ webUrl: "https://www.cnbc.com/2020/11/11/people-with-depression-anxiety-want-to-
 ampWebUrl: "https://www.cnbc.com/amp/2020/11/11/people-with-depression-anxiety-want-to-reveal-pain-to-a-robot.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/11/people-with-depression-anxiety-want-to-reveal-pain-to-a-robot.html"
 type: article
-quality: 102
-heat: 112
+quality: 104
+heat: 114
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI in Robotics
+  - Natural Language Processing
 
 images:
   - url: "https://image.cnbcfm.com/api/v1/image/106788001-1604940603800-gettyimages-992187898-WOEBOT_APP.jpeg?v=1605027490"

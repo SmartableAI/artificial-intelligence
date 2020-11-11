@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-11-3-ways-conversational-ai-gives-your-organization-a-competitive-advantage.md",
+      "title": "3 Ways Conversational AI Gives Your Organization A Competitive Advantage",
+      "excerpt": "Contact centers are moving to the strategic heart of the business. Here's how the latest advances in conversational AI can help improve CSAT without increasing operational costs, plus a look how leading organizations are already seeing success with Google Cloud CCAI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/googlecloud/2020/11/10/3-ways-conversational-ai-gives-your-organization-a-competitive-advantage/",
+      "originalUrl": "https://www.forbes.com/sites/googlecloud/2020/11/10/3-ways-conversational-ai-gives-your-organization-a-competitive-advantage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fab1e5eb57f27c29d950d15%2F0x0.jpg",
+          "width": 1199,
+          "height": 756,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/googlecloud/2020/11/10/3-ways-conversational-ai-gives-your-organization-a-competitive-advantage/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2020/11/10/3-ways-conversational-ai-gives-your-organization-a-competitive-advantage/amp/",
+      "publishedDateTime": "2020-11-10T17:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-india-bets-on-ai-tech-to-curb-coronavirus-infections-amid-privacy-fears.md",
       "title": "India bets on AI tech to curb coronavirus infections, amid privacy fears",
       "excerpt": "In India, dozens of data-driven solutions have emerged to track people’s movements, check temperatures and enforce social distancing, sparking privacy fears.",
@@ -1202,57 +1254,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-employers-add-more-ai-to-the-interview-process-how-to-handle-it.md",
-      "title": "Employers Add More AI To The Interview Process. How To Handle It",
-      "excerpt": "If you are tech-challenged, you will likely struggle with these new AI (Artificial Intelligence) advancements in the interviewing process.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robinryan/2020/11/10/employers-add-more-ai-to-the-interview-process-how-to-handle-it/",
-      "originalUrl": "https://www.forbes.com/sites/robinryan/2020/11/10/employers-add-more-ai-to-the-interview-process-how-to-handle-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa9897f61d7675e6f9fb699%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robinryan/2020/11/10/employers-add-more-ai-to-the-interview-process-how-to-handle-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robinryan/2020/11/10/employers-add-more-ai-to-the-interview-process-how-to-handle-it/amp/",
-      "publishedDateTime": "2020-11-10T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

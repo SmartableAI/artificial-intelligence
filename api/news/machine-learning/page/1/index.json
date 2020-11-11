@@ -4,10 +4,10 @@
     {
       "path": "_news/2020-11-12-electrifai-offers-new-machine-learning-models-for-amazon-sagemaker.md",
       "title": "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker",
-      "excerpt": "Delivering fast and reliable machine learning business solutionsJERSEY CITY, N.J., Nov. 11, 2020 /PRNewswire/ -- ElectrifAi, one of the global",
+      "excerpt": "Delivering fast and reliable machine learning business solutionsJERSEY CITY, N.J., Nov. 11, 2020 /CNW/ -- ElectrifAi, one of the global leading",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791739",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791739",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791744",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791744",
       "featuredContent": null,
       "highlight": null,
       "heat": 121,
@@ -15,8 +15,8 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791739",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791739",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791744",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791744",
       "publishedDateTime": "2020-11-11T10:57:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -40,9 +40,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AWS AI",
         "AI",
-        "AWS AI"
+        "Machine Learning"
       ]
     },
     {
@@ -441,6 +441,49 @@
       "provider": {
         "name": "techxplore.com",
         "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-air-force-turns-to-machine-learning-to-fight-covid-19-disinformation.md",
+      "title": "Air Force Turns to Machine Learning to Fight COVID-19 Disinformation",
+      "excerpt": "Just as the technology can be used to help deliberately spread falsities online, it can also be tapped to stop that spread.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextgov.com/emerging-tech/2020/11/air-force-turns-machine-learning-fight-covid-19-disinformation/169900/",
+      "originalUrl": "https://www.nextgov.com/emerging-tech/2020/11/air-force-turns-machine-learning-fight-covid-19-disinformation/169900/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.nextgov.com/media/img/upload/2020/11/09/NGmisinfo20201109/open-graph.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-09T11:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nextgov",
+        "domain": "nextgov.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1390,58 +1433,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-01-deep-neural-networks-are-helping-decipher-how-brains-work.md",
-      "title": "Deep Neural Networks Are Helping Decipher How Brains Work",
-      "excerpt": "“I was really pumped,” he said. It would have counted as a noteworthy accomplishment in artificial intelligence alone, one of many that would make neural networks the darlings of AI technology over the next few years. But that wasn’t the main goal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/deep-neural-networks-are-helping-decipher-how-brains-work/",
-      "originalUrl": "https://www.wired.com/story/deep-neural-networks-are-helping-decipher-how-brains-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f9c17ea06e9afd2b38e204b/master/pass/Science_BrainDeepNets-2880x1620-Lede.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/deep-neural-networks-are-helping-decipher-how-brains-work/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/deep-neural-networks-are-helping-decipher-how-brains-work/amp",
-      "publishedDateTime": "2020-11-01T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

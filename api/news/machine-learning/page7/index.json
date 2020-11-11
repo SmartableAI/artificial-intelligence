@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-01-googles-new-machine-learning-tool-turns-your-awful-humming-into-a-beautiful-violin-solo.md",
+      "title": "Google’s new machine learning tool turns your awful humming into a beautiful violin solo",
+      "excerpt": "I often sit on my sofa and hum tunes that I made up in my head. While doing that, I also imagine that my automatically gets converted to a beautiful musical piece. Google‘s new machine learning algorithm experiment,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/10/01/googles-new-machine-learning-tool-turns-your-awful-humming-into-a-beautiful-violin-solo/",
+      "originalUrl": "https://thenextweb.com/neural/2020/10/01/googles-new-machine-learning-tool-turns-your-awful-humming-into-a-beautiful-violin-solo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Tone-transfer-796x418.jpg",
+          "width": 796,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/10/01/googles-new-machine-learning-tool-turns-your-awful-humming-into-a-beautiful-violin-solo/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/01/googles-new-machine-learning-tool-turns-your-awful-humming-into-a-beautiful-violin-solo/amp/",
+      "publishedDateTime": "2020-10-01T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-va-boston-and-bu-researchers-use-machine-learning-to-streamline-the-diagnostic-tool-for-ptsd.md",
       "title": "VA Boston and BU researchers use machine learning to streamline the diagnostic tool for PTSD",
       "excerpt": "Post-traumatic stress disorder (PTSD) affects eight million adults in the US, including hundreds of thousands of veterans of the conflicts in Iraq and Afghanistan.",
@@ -1402,50 +1454,6 @@
         "AI",
         "Machine Learning",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-deep-learning-courses-for-nlp-market.md",
-      "title": "Deep Learning Courses for NLP Market",
-      "excerpt": "New York, United States - The Deep Learning Courses for NLP Market has developed swiftly in recent years and has made a significant contribution to the global financial situation in terms of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2142848/huge-growth-in-global-deep-learning-courses-for-nlp-market-set",
-      "originalUrl": "https://www.openpr.com/news/2142848/huge-growth-in-global-deep-learning-courses-for-nlp-market-set",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/9/T925537321_g.jpg",
-          "width": 450,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2142848/huge-growth-in-global-deep-learning-courses-for-nlp-market-set",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2142848/huge-growth-in-global-deep-learning-courses-for-nlp-market-set",
-      "publishedDateTime": "2020-09-25T04:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

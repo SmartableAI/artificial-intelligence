@@ -27,11 +27,11 @@ images:
 
 related:
   - title: "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker"
-    excerpt: "Delivering fast and reliable machine learning business solutionsJERSEY CITY, N.J., Nov. 11, 2020 /PRNewswire/ -- ElectrifAi, one of the global"
+    excerpt: "Delivering fast and reliable machine learning business solutionsJERSEY CITY, N.J., Nov. 11, 2020 /CNW/ -- ElectrifAi, one of the global leading"
     publishedDateTime: 2020-11-11T18:57:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791739"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791739"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791739"
+    webUrl: "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791744"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791744"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791744"
     type: article
     provider:
       name: Business Insider

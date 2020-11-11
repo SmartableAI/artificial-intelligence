@@ -71,6 +71,17 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "AI-Powered Healthcare Navigation Platform Buoy Health Raises $37.5 Million"
+    excerpt: "AI-powered healthcare navigation platform Buoy Health announced it has raised $37.5 million in Series C funding."
+    publishedDateTime: 2020-11-11T22:17:00Z
+    webUrl: "https://pulse2.com/buoy-health-raises-37-5-million-funding/"
+    ampWebUrl: "https://pulse2.com/buoy-health-raises-37-5-million-funding/amp/"
+    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/buoy-health-raises-37-5-million-funding/amp/"
+    type: article
+    provider:
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 52
   - title: "Blockchain AI Market worth $703 million by 2025 - Exclusive Report by MarketsandMarkets™"
     excerpt: "According to the new market research report \"Blockchain AI Market by Technology (ML & NLP), Component (Platform/Tools & Services),"
     publishedDateTime: 2020-11-10T15:30:00Z

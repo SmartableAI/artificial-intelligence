@@ -2,6 +2,145 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-10-24-watch-early-testers-try-teslas-full-self-driving-mode-for-the-first-time.md",
+      "title": "Watch early testers try Tesla's Full Self-Driving mode for the first time",
+      "excerpt": "On Friday, we finally got a glimpse at a long-awaited feature that Elon Musk rolled out this week for a select group of Tesla owners: Full Self-Driving mode. Only a small group of Tesla-chosen ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/video/tesla-full-self-driving-early-test-drives/",
+      "originalUrl": "https://mashable.com/video/tesla-full-self-driving-early-test-drives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 228,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F10%252F23%252Fd2%252F48c38dd430d84e6bb64dc47643ea67e7.6a961.jpg%252F1200x630.jpg?signature=Wzt3HAjZm8sE5SgscR16FQXo_fQ=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/video/tesla-full-self-driving-early-test-drives.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/tesla-full-self-driving-early-test-drives.amp",
+      "publishedDateTime": "2020-10-23T11:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-24-advanced-technologies-of-ai-in-fintech-market-key-drivers-on-going-trends-2020.md",
+      "title": "Advanced Technologies Of AI in Fintech Market Key Drivers & On-Going Trends 2020",
+      "excerpt": "AI in Fintech Market has been riding a progressive growth trail over the recent past The first two quarters of the year 2020 have however witnessed heavy disruptions throughout all the industry facets which are ultimately posing an unprecedented impact",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2170443/advanced-technologies-of-ai-in-fintech-market-key-drivers",
+      "originalUrl": "https://www.openpr.com/news/2170443/advanced-technologies-of-ai-in-fintech-market-key-drivers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/a/Ta23653869_g.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2170443/advanced-technologies-of-ai-in-fintech-market-key-drivers",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2170443/advanced-technologies-of-ai-in-fintech-market-key-drivers",
+      "publishedDateTime": "2020-10-23T11:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-arcanum-makes-hungarian-heritage-accessible-with-amazon-rekognition.md",
+      "title": "Arcanum makes Hungarian heritage accessible with Amazon Rekognition",
+      "excerpt": "Arcanum specializes in digitizing Hungarian language content, including newspapers, books, maps, and art. With over 30 years of experience, Arcanum serves more than 30,000 global subscribers with access to Hungarian culture, history, and heritage. Amazon Rekognition Solutions Architects worked with Arcanum",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/arcanum-makes-hungarian-heritage-accessible-with-amazon-rekognition/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/arcanum-makes-hungarian-heritage-accessible-with-amazon-rekognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/22/4-FaceSearch-825x630.jpg",
+          "width": 825,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-23T10:48:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-why-andreessen-horowitz-is-still-wrong-about-ai.md",
       "title": "Why Andreessen Horowitz Is Still Wrong About AI",
       "excerpt": "The economics of AI has been a hot topic following two blogs by the Andreessen Horowitz team. What is missing from the discussion, however, is understanding of the journey from idea to profitability with good margins.",
@@ -1063,135 +1202,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-australian-and-korean-researchers-warn-of-loopholes-in-ai-security-systems.md",
-      "title": "Australian and Korean researchers warn of loopholes in AI security systems",
-      "excerpt": "Topic: Security Research from Commonwealth Scientific and Industrial Research Organisation's (CSIRO) Data61, the Australian Cyber Security Cooperative Research Centre (CSCRC), and South Korea's Sungkyunkwan University have highlighted how certain triggers could be loopholes in smart security cameras.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/australian-and-korean-researchers-warn-of-loopholes-in-ai-security-systems/",
-      "originalUrl": "https://www.zdnet.com/article/australian-and-korean-researchers-warn-of-loopholes-in-ai-security-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2019/11/01/eb254cf0-d63d-44bd-ac1e-6a56df4123b8/istock-1160977168.jpg",
-          "width": 1254,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/australian-and-korean-researchers-warn-of-loopholes-in-ai-security-systems/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australian-and-korean-researchers-warn-of-loopholes-in-ai-security-systems/",
-      "publishedDateTime": "2020-10-22T18:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-dell-technologies-world-weaving-together-human-and-machine-interaction-for-ai-and-robotics.md",
-      "title": "Dell Technologies World: Weaving Together Human And Machine Interaction For AI And Robotics",
-      "excerpt": "We are prematurely comparing robots and AI to humans and human intelligence. We are decades away from that. This false bridge between robotics and people creates vast problems with robots' deployment because people aren't looking at what robots are.",
-      "sourceUrl": null,
-      "webUrl": "https://www.datamation.com/artificial-intelligence/dell-technologies-world-weaving-together-human-and-machine-interaction-for-ai-and-robotics.html",
-      "originalUrl": "https://www.datamation.com/artificial-intelligence/dell-technologies-world-weaving-together-human-and-machine-interaction-for-ai-and-robotics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.datamation.com/amp/artificial-intelligence/dell-technologies-world-weaving-together-human-and-machine-interaction-for-ai-and-robotics.html",
-      "cdnAmpWebUrl": "https://www-datamation-com.cdn.ampproject.org/c/s/www.datamation.com/amp/artificial-intelligence/dell-technologies-world-weaving-together-human-and-machine-interaction-for-ai-and-robotics.html",
-      "publishedDateTime": "2020-10-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datamation",
-        "domain": "datamation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-how-smart-are-ai-chips-really.md",
-      "title": "How Smart Are AI Chips, Really?",
-      "excerpt": "The best part about the term “Artificial Intelligence” is that nobody can really tell you what it exactly means. The main reason for this stems from the term “intelligence”, with ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2019/11/04/how-smart-are-ai-chips-really/",
-      "originalUrl": "https://hackaday.com/2019/11/04/how-smart-are-ai-chips-really/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/02/rifroheader.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

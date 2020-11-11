@@ -58,6 +58,17 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "AI-Powered Healthcare Navigation Platform Buoy Health Raises $37.5 Million"
+    excerpt: "AI-powered healthcare navigation platform Buoy Health announced it has raised $37.5 million in Series C funding."
+    publishedDateTime: 2020-11-11T22:17:00Z
+    webUrl: "https://pulse2.com/buoy-health-raises-37-5-million-funding/"
+    ampWebUrl: "https://pulse2.com/buoy-health-raises-37-5-million-funding/amp/"
+    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/buoy-health-raises-37-5-million-funding/amp/"
+    type: article
+    provider:
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 52
   - title: "Dell Announces New HPC and AI Solutions for Healthcare, Life Sciences, Manufacturing"
     excerpt: "Dell Technologies announces new Dell EMC Ready Solutions and high-performance computing (HPC) cloud service provider"
     publishedDateTime: 2020-11-09T16:26:00Z

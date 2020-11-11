@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/11/top-reasons-the-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/11/top-reasons-the-investment-spigot-is-reopening-for-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 650
         height: 433
         isCached: true
-  - title: "Edmunds: Where are our self-driving cars?"
-    excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time, so you must always keep your hands on the wheel and pay extra attention to the road."
-    publishedDateTime: 2020-11-07T07:03:00Z
-    webUrl: "https://columbiabasinherald.com/news/2020/nov/07/edmunds-where-are-our-self-driving-cars-2/"
-    type: article
-    provider:
-      name: Columbia Basin Herald
-      domain: columbiabasinherald.com
-    quality: 4
 
 secured: "EYiURjlb0ObtoroAVwtiElk4W1sI1nxRbgMl/TEnfqkSUauWYwh0eZA1+ReU847mze6mPCby63nY0zmj8qFed+kzZYzoSh1KPvgvVh2oiB62ScTQBXFZ5uBN0yzwuTOKBw6CycK61A6xv8RjkwJLPwPnFYNIYSbatfCJQcY7BZFU5KijRAtmemjAQgcRgEExa3LONvdttA1LddoG4WbmxD3woTyvZ9fbeaf2DedyY8zzC+EkwGisSL/uUvfyAxUf0kWXR5cC7EAFTi41XaJiBe43sgl2Di5zyNdzrzAtbg52si4RGkent21MfyIiHwm6OZqSqSiDApEz6lEr/Vnl8uLbf6R7Tf0AOya9zrXchP6V9KOJJw95BWdIogtPsLvt86/nb0uvc+wAb18ww2xlQjIPLrSSgsqCV6RZLHQg44pUTTuYbLhzSWKxHvumcrRorqSIQiRkpFrSqwJhWH7AX1ILH4GbIwey9vdlysgtezvoG51gltoa5jAu/xfDzVghD4V4skZvB+gE/nS29+ax7Q==;CC/h31nZUO3dv1ELVDmrQg=="
 ---

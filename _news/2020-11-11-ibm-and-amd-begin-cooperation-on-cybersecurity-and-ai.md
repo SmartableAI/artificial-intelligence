@@ -52,7 +52,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 66
+    quality: 68
   - title: "IBM and AMD Announce Joint Development Agreement to Advance Confidential Computing for the Cloud and Accelerate Artificial Intelligence"
     excerpt: "\"IBM is focused on giving our clients choice, agility and security in our hybrid cloud offerings through advanced research, development and scaling of new technologies.\" \"This agreement between AMD and IBM aligns well with our long-standing commitment to collaborating with leaders in the industry,"
     publishedDateTime: 2020-11-11T12:00:00Z

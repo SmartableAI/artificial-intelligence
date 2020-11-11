@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2183410/healthcare-artificial-intelligenc
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2183410/healthcare-artificial-intelligence-market-is-thriving"
 type: article
 quality: 76
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -58,6 +58,17 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "AI-Powered Healthcare Navigation Platform Buoy Health Raises $37.5 Million"
+    excerpt: "AI-powered healthcare navigation platform Buoy Health announced it has raised $37.5 million in Series C funding."
+    publishedDateTime: 2020-11-11T22:17:00Z
+    webUrl: "https://pulse2.com/buoy-health-raises-37-5-million-funding/"
+    ampWebUrl: "https://pulse2.com/buoy-health-raises-37-5-million-funding/amp/"
+    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/buoy-health-raises-37-5-million-funding/amp/"
+    type: article
+    provider:
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 52
   - title: "Dell Announces New HPC and AI Solutions for Healthcare, Life Sciences, Manufacturing"
     excerpt: "Dell Technologies announces new Dell EMC Ready Solutions and high-performance computing (HPC) cloud service provider"
     publishedDateTime: 2020-11-09T16:26:00Z

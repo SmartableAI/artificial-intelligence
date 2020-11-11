@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-10-employers-add-more-ai-to-the-interview-process-how-to-handle-it.md",
+      "title": "Employers Add More AI To The Interview Process. How To Handle It",
+      "excerpt": "If you are tech-challenged, you will likely struggle with these new AI (Artificial Intelligence) advancements in the interviewing process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robinryan/2020/11/10/employers-add-more-ai-to-the-interview-process-how-to-handle-it/",
+      "originalUrl": "https://www.forbes.com/sites/robinryan/2020/11/10/employers-add-more-ai-to-the-interview-process-how-to-handle-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa9897f61d7675e6f9fb699%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robinryan/2020/11/10/employers-add-more-ai-to-the-interview-process-how-to-handle-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robinryan/2020/11/10/employers-add-more-ai-to-the-interview-process-how-to-handle-it/amp/",
+      "publishedDateTime": "2020-11-10T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-how-to-quantify-the-benefits-of-ai-driven-shelf-digitization.md",
       "title": "How To Quantify The Benefits Of AI-Driven Shelf Digitization",
       "excerpt": "To build a business case with attractive ROI, retail decision-makers will need to understand the impact of these in-store automation solutions on operational practices and ensure they choose the right solution for their store's needs.",
@@ -509,6 +560,49 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-air-force-turns-to-machine-learning-to-fight-covid-19-disinformation.md",
+      "title": "Air Force Turns to Machine Learning to Fight COVID-19 Disinformation",
+      "excerpt": "Just as the technology can be used to help deliberately spread falsities online, it can also be tapped to stop that spread.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextgov.com/emerging-tech/2020/11/air-force-turns-machine-learning-fight-covid-19-disinformation/169900/",
+      "originalUrl": "https://www.nextgov.com/emerging-tech/2020/11/air-force-turns-machine-learning-fight-covid-19-disinformation/169900/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.nextgov.com/media/img/upload/2020/11/09/NGmisinfo20201109/open-graph.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-09T11:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nextgov",
+        "domain": "nextgov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1148,102 +1242,6 @@
         "AI Ethics",
         "Natural Language Processing",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors.md",
-      "title": "Tiny chip company takes on Intel, Arm with 'swiss-army knife' of AI processors",
-      "excerpt": "The chip, christened Mozart, isn’t the first chip specially designed to handle AI workloads. However, SMI claims that unlike others that are designed for specific workloads, Mozart can adapt to a wide variety of AI workloads on the fly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors",
-      "originalUrl": "https://www.techradar.com/news/tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/QKvt8wTE9mCHMTYLqMDi7V-1200-80.jpg",
-          "width": 970,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors",
-      "publishedDateTime": "2020-11-09T02:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-healthcare-artificial-intelligence-market.md",
-      "title": "Healthcare Artificial Intelligence Market",
-      "excerpt": "Latest Survey On Healthcare Artificial Intelligence Market ... Butterfly Network, Inc., Lifegraph, Enlitic, Inc., IBM (Watson Health), Sophia Genetics, Zebra Medical Vision Ltd., Pathway Genomics Corporation, AiCure, Sense.ly, Welltok, Insilico Medicine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2183410/healthcare-artificial-intelligence-market-is-thriving",
-      "originalUrl": "https://www.openpr.com/news/2183410/healthcare-artificial-intelligence-market-is-thriving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/b/Tb09580094_g.jpg",
-          "width": 780,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2183410/healthcare-artificial-intelligence-market-is-thriving",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2183410/healthcare-artificial-intelligence-market-is-thriving",
-      "publishedDateTime": "2020-11-09T00:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

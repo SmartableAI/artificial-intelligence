@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-23-how-smart-are-ai-chips-really.md",
+      "title": "How Smart Are AI Chips, Really?",
+      "excerpt": "The best part about the term “Artificial Intelligence” is that nobody can really tell you what it exactly means. The main reason for this stems from the term “intelligence”, with ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2019/11/04/how-smart-are-ai-chips-really/",
+      "originalUrl": "https://hackaday.com/2019/11/04/how-smart-are-ai-chips-really/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2019/02/rifroheader.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-uk-plans-for-self-driving-cars-threaten-safety-insurance-group.md",
       "title": "UK Plans for Self-Driving Cars Threaten Safety: Insurance Group",
       "excerpt": "UK Plans for Self-Driving Cars Threaten Safety: Insurance Group LONDON (Reuters) - British government plans that could allow self-driving cars on motorways as soon as 2021 would put lives at risk ...",
@@ -1342,58 +1385,6 @@
         "name": "This is Local London",
         "domain": "thisislocallondon.co.uk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-norway-pioneered-electric-ferries-now-its-making-them-self-driving.md",
-      "title": "Norway pioneered electric ferries. Now it's making them self-driving",
-      "excerpt": "Norwegian startup Zeabuz has created a zero-emissions, self-driving electric ferry. As more cities look to boats for clean and cheap transport, autonomous ferries could revolutionize urban waterways.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/travel/article/norway-self-driving-ferries-zeabuz-spc-intl/index.html",
-      "originalUrl": "https://www.cnn.com/travel/article/norway-self-driving-ferries-zeabuz-spc-intl/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dynaimage.cdn.cnn.com/cnn/w_1200/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F200827174138-zeabuz-electric-passenger-ferry-super-tease.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnn.com/travel/amp/norway-self-driving-ferries-zeabuz-spc-intl/index.html",
-      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/travel/amp/norway-self-driving-ferries-zeabuz-spc-intl/index.html",
-      "publishedDateTime": "2020-10-16T00:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,143 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-11-03-wipro-and-aws-announce-the-launch-of-wipro-aws-business-group.md",
+      "title": "Wipro and AWS announce the launch of Wipro AWS Business Group",
+      "excerpt": "Wipro has announced the launch of Wipro AWS Business Group (WABG), a unit designed to help customers fast-track their cloud transformation journey on AWS.",
+      "sourceUrl": null,
+      "webUrl": "https://www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/",
+      "originalUrl": "https://www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.voicendata.com/wp-content/uploads/2020/10/handshak-image.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/amp/",
+      "cdnAmpWebUrl": "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/amp/",
+      "publishedDateTime": "2020-11-02T23:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Voicendata.com",
+        "domain": "voicendata.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-how-tinyml-makes-artificial-intelligence-ubiquitous.md",
+      "title": "How TinyML Makes Artificial Intelligence Ubiquitous",
+      "excerpt": "TinyML makes AI ubiquitous and accessible to consumers. It will bring intelligence to millions of devices that we use on a daily basis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/11/03/how-tinyml-makes-artificial-intelligence-ubiquitous/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2020/11/03/how-tinyml-makes-artificial-intelligence-ubiquitous/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa0f496620890efe6ac1182%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D999%26cropY1%3D50%26cropY2%3D612",
+          "width": 999,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/11/03/how-tinyml-makes-artificial-intelligence-ubiquitous/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/11/03/how-tinyml-makes-artificial-intelligence-ubiquitous/amp/",
+      "publishedDateTime": "2020-11-02T22:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-elon-musk-raises-price-of-teslas-full-self-driving-package-to-10000-usd.md",
+      "title": "Elon Musk Raises Price of Tesla's Full Self-Driving Package to $10,000 USD",
+      "excerpt": "Following through with what Elon Musk has said before, the CEO of Tesla has now announced a price hike for the EV automaker’s Full Self-Driving (FSD) package, bringing it up by $2,000 USD to $10,000 USD.",
+      "sourceUrl": null,
+      "webUrl": "https://hypebeast.com/2020/11/tesla-elon-musk-full-self-driving-10000-usd-price-increase-news",
+      "originalUrl": "https://hypebeast.com/2020/11/tesla-elon-musk-full-self-driving-10000-usd-price-increase-news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F11%2Ftesla-elon-musk-full-self-driving-10000-usd-price-increase-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max",
+          "width": 1170,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hypebeast.com/2020/11/tesla-elon-musk-full-self-driving-10000-usd-price-increase-news?amp=1",
+      "cdnAmpWebUrl": "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/11/tesla-elon-musk-full-self-driving-10000-usd-price-increase-news?amp=1",
+      "publishedDateTime": "2020-11-02T22:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hypebeast",
+        "domain": "hypebeast.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-face-recognition-pollution-alert-in-tech-upgrade.md",
       "title": "Face recognition, pollution alert in tech upgrade",
       "excerpt": "The city’s ambitious smart traffic management system system — that proposes to use advanced technologies and a surveillance web of cameras to m.",
@@ -1042,144 +1179,6 @@
         "Computer Vision",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-cmos-predict-your-wins-with-ai-and-predictive-analytics.md",
-      "title": "CMOs, Predict Your Wins With AI And Predictive Analytics",
-      "excerpt": "Business intelligence and predictive analytics are the closest measures we have to a crystal ball that shows us how well new strategies and campaigns will perform",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/358890",
-      "originalUrl": "https://www.entrepreneur.com/article/358890",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1604323446-online-3539412.png?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/358890",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/358890",
-      "publishedDateTime": "2020-11-02T05:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-wipro-and-aws-announce-the-launch-of-wipro-aws-business-group-to-accelerate-growth.md",
-      "title": "Wipro and AWS Announce the Launch of Wipro AWS Business Group to Accelerate Growth",
-      "excerpt": "Wipro Limited, a leading global information technology, consulting, and business process services company, today announced the launch of its dedicated Wipro AWS Business Group, a unit designed to help customers fast-track their cloud transformation journey on AWS.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/wipro-and-aws-announce-the-launch-of-wipro-aws-business-group-to-accelerate-growth",
-      "originalUrl": "https://www.nasdaq.com/press-release/wipro-and-aws-announce-the-launch-of-wipro-aws-business-group-to-accelerate-growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-02T04:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-c3ai-on-tackling-crm-education-social-media-regulation-and-enterprise-ai.md",
-      "title": "C3.ai on tackling CRM, education, social media regulation, and enterprise AI",
-      "excerpt": "Tom Siebel, CEO of C3.ai, talks to ZDNet's Larry Dignan about his company's partnership with Microsoft and Adobe, AI's role in solving for COVID-19 and remote education, the filter bubble, and where enterprise AI is headed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/video/c3-ai-on-tackling-crm-education-social-media-regulation-and-enterprise-ai/",
-      "originalUrl": "https://www.zdnet.com/video/c3-ai-on-tackling-crm-education-social-media-regulation-and-enterprise-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/10/26/44ec6ca4-76d9-47a7-bb91-702d043a02f0/thumbnail/370x278/0d446269b82a0f8eb0086f3aa3362247/mastercard-idemia-and-matchmove-to-pilot-5f95f54693eaa218d73998e8-1-oct-26-2020-4-53-52-poster.jpg",
-          "width": 370,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-02T04:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales",
-        "AI in Education"
       ]
     }
   ],

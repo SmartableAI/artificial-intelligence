@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/pope-francis-wants-you-to-pray-for-ethical-robot
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/pope-francis-wants-you-to-pray-for-ethical-robots-1845642552/amp"
 type: article
 quality: 106
-heat: 116
+heat: 117
 published: true
 
 provider:
@@ -47,6 +47,6 @@ related:
         height: 424
         isCached: true
 
-secured: "PHYahAts5cW6c/zAFhk1PYKgl8QYEoE9+QylmQXtrUKDPaOkmn5LMUDfA4RrTsYRMwmHcfoQnVcefytg92dNjFaCYHledHp7Jvo5LljpHW4GlLwqnUNjx7EhwSmfxCj1wulNzkt1lGidc2EgxKQh3uPDaWc/98NmR5uaB6kpRH7D5hD2DDu1aNHMK9l+Qnjbq/aEig6GF9wYW/iV1XbK0ms/CY0jM8Z26QQCN4v6w5NI+NI6PIbeV9Y7xMu073G/peAUsOZw671KYh7igL2802oNuXPtDVi2CdhURX1e42EOQaIeDuHppjDg2M2SDfNws31QTt3yvcB3BGq0rqXC9MkJaItUxN/3XOuiRUD795Q=;Qb5oB+xMMyUoKldyvbhdiA=="
+secured: "ofYQaELM3M8hEq42FI83gFBc0FXH0Vn/1PZDZbRDG/i8xyZSrMBBI3UAQADbFf1Z0tjM8VhTKSlXnVEVAiPZtkrciGnFud5Mk6W6wSYftsJmrXrjsx7k8ipuYXr52Ff4Kl4oNLWcRXKKAk3rfdzJIuO33ossqYsKpSVQsznqU8Ye694J+6o0FXbIqHrRLeKuYTFKhBq6sN7jPUfelZoj2XuX5aPZdLHO/rYg2ilUm9nrF3HB2tQokbrVXJG2INJnbXzSkzezd/PtVdaWZtWcTH5jyhqjaa8tlsXquzpWOzBxh3uGnAOA8qb36ryT1bRiEppCaZaHE6WCMO+WLL+5OoDgRRU/Hb+aONdheM4k1VnjSVXZja+rPufkDzeKBIpPqmpK44oPxsNRyRIMX09H2E95g/nqhqpbzqpyL9GA09OtivY32y9pDtMYHQiQUGQ33QgKtwrej8OAaP/JxGzxyiB54NEudzGrj0LAGo33d7Acyp5boPG5l9QxG7CuB91e/Jkjpi4qCoNQnEzfDbUVDw==;lQ4uXQ9el4k8mAddeOfkRQ=="
 ---
 

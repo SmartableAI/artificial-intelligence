@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 723
         isCached: true
-  - title: "Edmunds: Where are our self-driving cars?"
-    excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time, so you must always keep your hands on the wheel and pay extra attention to the road."
-    publishedDateTime: 2020-11-07T07:03:00Z
-    webUrl: "https://columbiabasinherald.com/news/2020/nov/07/edmunds-where-are-our-self-driving-cars-2/"
-    type: article
-    provider:
-      name: Columbia Basin Herald
-      domain: columbiabasinherald.com
-    quality: 4
 
 secured: "j4njSpWT/Y6dGydTcmdEJrUuM9UHvx8Y1CN5iEHXkUKpZnIYR//P0jvcIFFo/JCaAHnBtJY+RaARxKyKV44+2/cIKrgQv9aXWaNEPKDXCicrHjp2//Vdc+fsT4FBd1Bi3Sa2BpSwrxHjRbmVK1fyxXc3QDYtTCz25rRbwSWLYEH/Lwqz/je7YRvulcyeUDOVQdNSfUFm/lat+6ieZXAqpnfHH6EqdZtuQX+zBvOpQX/hePvXKcOZ2l5NiMmjJncVzT40GNQM8DIrdPCA+kfUBLJ70wmsYAIEmqa8TmX4JeOeJpCLJ72w4EONOtI0d/A9/KByJ7EQB/cTeamKw/gybnVgr6TUohra8zpH4irBXnkIVdqK5bqGOZ6HmiHZXuwZyDeNB/thisgD5qD9tiGAYqrBdhjrNQdhdPT7XYyCRC0hDuZVqyLYnW1AKaPh2JWKV1tFQs8nEL1qnmY2v0Zm6dfY7SmypnsrRX916BBQphdmQFh0YLy258ASDfU+rReYKXR0ke5RwWfTR3qSpDR96w==;wtMTCOu7vI2QLBi40jXe4A=="
 ---

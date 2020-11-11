@@ -10,7 +10,7 @@
       "originalUrl": "https://gizmodo.com/pope-francis-wants-you-to-pray-for-ethical-robots-1845642552",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -63,7 +63,7 @@
       "originalUrl": "https://www.cnbc.com/2020/11/11/people-with-depression-anxiety-want-to-reveal-pain-to-a-robot.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -104,7 +104,8 @@
       "topics": [
         "AI in Healthcare",
         "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "Natural Language Processing"
       ]
     },
     {

@@ -7,7 +7,7 @@ originalUrl: "https://www.infoq.com/news/2020/11/aws-ec2-p4d-announcement/"
 webUrl: "https://www.infoq.com/news/2020/11/aws-ec2-p4d-announcement/"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "AWS Announces AWS Glue DataBrew"
+    excerpt: "(NASDAQ:AMZN) announced the general availability of AWS Glue DataBrew, a new visual data preparation tool that enables customers to clean and normalize data without writing code. Since 2016, data engineers have used AWS Glue to create,"
+    publishedDateTime: 2020-11-11T20:19:00Z
+    webUrl: "https://www.nrtoday.com/ap/aws-announces-aws-glue-databrew/article_bb412cdf-16a2-548b-88a8-a144d58a8627.html"
+    type: article
+    provider:
+      name: News Review Today
+      domain: nrtoday.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "W6jes/B1iIHQFf0EbYu5gsknTexzK3KcJfnG+53BVPMYkfCOR2nqPetYi9jyuhPPWj0kYxziFAwrNaDvJ84bLg5qkdrpadfujBQEjaYGmIFtKSrlyUBoqonyuFh3iqE0tfwrbZcBhu3VHl/hWzd8//xMxNXmFkUZoSOrYgI0tImrp7p9qpaoq9B9kx62MODj6ViI3hxZdNiDjriavoIb63BxfdpOmgDPcNBCDOS+vXQ3hcIllvQdenaRwUmjU/9gXXHy6MRPFmSM2jDiShVHhi+kwQ8FL52VisZ9BSpD5r+Uxm+YN3B2/w6DfoJl9108KAabowuoBXlre4cMdkezlcWb+oti4KhlKJ8E7gsCOv9aI/o7W6RMT8hFS7egHLoNDdwF5kYp88y8gteDZrimgq1AQGSiT0Ian7knHBqI4cT9/LIcNxakn6ipMYw0B17t7pJX0kFA8tQzXm6PfENg27NiRv9cPzbd9KS3yr9J7NKduyrPZDvEK6KL7prLIFz0EQYTDfaZiXFEyux0dbXCRg==;2gpCN2EE0zY/QuQ2DLraAQ=="
 ---
