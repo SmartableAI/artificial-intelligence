@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/11/top-reasons-the-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/11/top-reasons-the-investment-spigot-is-reopening-for-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "BEHIND THE WHEEL: Where are our self-driving cars?"
-    excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time,"
-    publishedDateTime: 2020-11-07T04:30:00Z
-    webUrl: "https://www.dailylocal.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_e61d0649-e1b8-5b2e-b05c-f25477879748.html"
-    ampWebUrl: "https://www.dailylocal.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_e61d0649-e1b8-5b2e-b05c-f25477879748.amp.html"
-    cdnAmpWebUrl: "https://www-dailylocal-com.cdn.ampproject.org/c/s/www.dailylocal.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_e61d0649-e1b8-5b2e-b05c-f25477879748.amp.html"
-    type: article
-    provider:
-      name: Daily Local News
-      domain: dailylocal.com
-    quality: 44
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailylocal.com/content/tncms/assets/v3/editorial/2/69/269ea2fa-0db8-50d3-8153-0ca49b7c73ca/5fa55a853eba7.image.jpg?resize=1024%2C630"
-        width: 1024
-        height: 630
-        isCached: true
   - title: "Waymo Reveals Every Collision Involving Its Self-Driving Cars in Phoenix"
     excerpt: "Self-driving cars are set to revolutionize our roads, although exactly when is much debated. Until recently these vehicles all relied on a human backup driver who could take over a self-driving car are set to revolutionize our roads, although exactly when ..."
     publishedDateTime: 2020-11-09T16:24:00Z
@@ -71,6 +55,6 @@ related:
       domain: columbiabasinherald.com
     quality: 4
 
-secured: "k0UB7iO1yQvcfBbHCHJMrW1UJLQBcHVrOuE9TDnhdXRC6t6ebTPKoV5awz2n175EMvr62B1k537mRFhPS+RlmPEBopTK2oGoOfaluiPKk/w042qD69UoAxi2p7HXQwUCWI38roGinsYmWKSl1guTcQmieJ+RgFON5m51h95CN0hx98EAQ0ZlJ/VctAnbKydohktKKHbrT27Y9gtf/cV6Qwfv2d//dCGXJCVoUE7x0COwcz+4N1mTg/wgFxJt4gEyaM4V9Dyl3dPGsi+ZvMp8qZ+fKLz/n49Sl8Vf/Px6xwBmXXAQ0rbPadNWZHxkeGPdZpv6KYdeDXpUIwsxDp+tRJoMO/WsqadZX3Boc/JqCXc=;/LyLBZDCAp8qQUZGUCr8+A=="
+secured: "TLETN8pV3J5rHMgijhkPck1Gf/F15SHqpk6QW+kUCeYxctXkQ25GywRe0Em37JeIu+o71pyDlIWVE4eMH1IS80yl9VpiqSzT/d1AMw5QljQQWZxoF+GB2rqh8CoJC/Ez9ySznsi50CL8lM1eBiqj2UlJJI6xErGzE6LutIac5ncEXed99TzXbwuW4fvyG3YEUrA1FFG99XEdWPTF4W33Io2OsKCls2BxEWfPHsCy7h5b/auLSS5gurhlQNiTFGcZSoNRRuu8AD3qnW2AwOVLQNnACzTY1pNymUxAccxZLGjA3ogMnimgvVU6Z4hJAcZyuBMSvploW97BZGdyZp2tD83AX4WqdzCFyblpAsdTdDfjlCKYvYeCWrcgJmiLwmUsGyxDR62kjVj54oX2Kcp02HQrK9xzvhcAMMLcbI93S8REZe6wQqtxNCnCKRZJhEKXNZXbnT5USqyRpTibL+nexzRI/uWHWUW45QStG3c7/V4fIQiqkOsSk0RuWTaYMeoTXsgbkm1ze+16UmoGLiIBPw==;BvqI325s6/xqsc1/f/kSDg=="
 ---
 

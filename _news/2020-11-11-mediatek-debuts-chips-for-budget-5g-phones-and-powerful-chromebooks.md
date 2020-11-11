@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/10/mediatek-debuts-chips-for-budget-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/10/mediatek-debuts-chips-for-budget-5g-phones-and-powerful-chromebooks/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -106,6 +106,20 @@ related:
       - url: "https://pocketnow.com/wp/../files/2020/10/chromebook.jpg"
         width: 1500
         height: 989
+        isCached: true
+  - title: "MediaTek Announces New MT8192 and MT8195 Chipsets Designed for Next Generation of Chromebooks"
+    excerpt: "MediaTek today unveiled its MT8192 and MT8195 chipsets for the next generation of Chromebooks. With the 7nm MT8192 for mainstream devices"
+    publishedDateTime: 2020-11-10T15:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/mediatek-announces-new-mt8192-and-mt8195-chipsets-designed-for-next-generation-of-chromebooks-301169305.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 13
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "M3y35gP3WTRJBuGAfac6lzpO9y50Nz7/KO2KvW6jqDcio1zyLNoL/9WhAZftiB9gVdh0vvj9bhUkK4vIDoT+DXdSc6hzLbDqsSzEGQRQbBKEmTt9ljjsFGt0OsmQpePn3qQeGwM7jElWyp+8yj0oey0Ry31pKF+wNstgdijNMiIOIsUk5BivVdqTybkBnbl9oiKgWz/4BHMIbI0fZaxdgFGv39DfPHZzefxWMVA+xQpvJ03PE7iVBKYl2L2Dvx128TC9cAMWrJVCYRkoZXfqAqrZtE08RsyYnfpQt923FANA4An1kE5nyX6Wk08WT+nUMiS07z1nB68t8fnhzfGpWgXSWola+wtz2nHR1/INbdAVaf5HBmsqiF6bQ4xC6jhfiVr+Z7ykU6PomOOmlz+adXokfeFGn6Y8VI3tlSqPaLg+HLkFHDZCtC4G+/CYrhR/YLdconZaZrsZ9iJ8LXAzY8VAEODP1EAs/z5V4RDuzxosTJZvLxWQBlyU9BQFiqPVMhFgOxkX/3jzkYSsApQ0XA==;yvvWcv6p2qiB3bLT6rYDXw=="

@@ -42,21 +42,16 @@ related:
         height: 545
         isCached: true
   - title: "Self-driving delivery firm Nuro raises $500 million as COVID-19 boosts e-commerce"
-    excerpt: "Self-driving delivery company Nuro, whose R2 unit has no pedals or steering wheel and only room for packages, said Monday it has raised $500 million as e-commerce gets a huge boost from the pandemic."
-    publishedDateTime: 2020-11-09T12:15:00Z
-    webUrl: "https://www.reuters.com/article/us-autonomous-nuro-funding/self-driving-delivery-firm-nuro-raises-500-million-as-covid-19-boosts-e-commerce-idUSKBN27P1FT"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P1FT"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P1FT"
+    excerpt: "(Reuters) - Self-driving delivery company Nuro, whose R2 unit has no pedals or steering wheel and only room for packages, said Monday it has raised $500 million as e-commerce gets a huge boost from the pandemic."
+    publishedDateTime: 2020-11-09T12:29:00Z
+    webUrl: "https://www.businessinsider.com/self-driving-delivery-firm-nuro-raises-500-million-as-covid-19-boosts-e-commerce-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/self-driving-delivery-firm-nuro-raises-500-million-as-covid-19-boosts-e-commerce-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/self-driving-delivery-firm-nuro-raises-500-million-as-covid-19-boosts-e-commerce-2020-11?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540562500&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80T3"
-        width: 676
-        height: 545
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "Self-driving delivery startup Nuro just raised $500 million to help make automated pizza and grocery delivery a reality — here's how it works"
     excerpt: "Nuro's R2 vehicle. Nuro Nuro, a self-driving delivery startup, has raised $500 million in its latest funding round, according to the"
     publishedDateTime: 2020-11-10T00:00:00Z

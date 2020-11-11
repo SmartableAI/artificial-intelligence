@@ -45,7 +45,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 68
+    quality: 66
   - title: "IBM and AMD Begin Cooperation on Cybersecurity and AI"
     excerpt: "AMD and IBM began work on a cybersecurity and AI program built on \"open-source software, open standards, and open system architectures.\""
     publishedDateTime: 2020-11-11T13:45:00Z

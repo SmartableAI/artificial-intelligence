@@ -7,7 +7,7 @@ originalUrl: "https://www.nextgov.com/emerging-tech/2020/11/army-considers-facia
 webUrl: "https://www.nextgov.com/emerging-tech/2020/11/army-considers-facial-recognition-monitor-children-its-care/169921/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Schools Are Using a Facial Recognition Scanner That Detects Face Masks"
+    excerpt: "In addition to that, GoSafe also comes with sophisticated facial recognition technology. After U.S. school districts pushed to reopen, there was a pressing need for temperature-taking devices. While some school boards were initially apprehensive of the inclusion of facial recognition,"
+    publishedDateTime: 2020-11-11T12:24:00Z
+    webUrl: "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20909/Schools-Are-Using-a-Facial-Recognition-Scanner-That-Detects-Face-Masks.aspx"
+    ampWebUrl: "https://mobile.engineering.com/amp/20909.html"
+    cdnAmpWebUrl: "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20909.html"
+    type: article
+    provider:
+      name: Engineering
+      domain: engineering.com
+    quality: 59
+    images:
+      - url: "https://www.engineering.com/portals/0/BlogFiles/75_ima1.png"
+        width: 530
+        height: 560
+        isCached: true
   - title: "Army to evaluate facial recognition in day care centers"
     excerpt: "Through a demonstration of the technology, the Army expects to learn whether facial recognition technologies can improve family quality of life, reduce base costs and enhance mission readiness."
     publishedDateTime: 2020-11-10T21:13:00Z
@@ -38,20 +54,6 @@ related:
       - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Workforce/daycare_center.jpg"
         width: 760
         height: 368
-        isCached: true
-  - title: "Facial recognition for cows enables insurance for marginalized cattle farmers"
-    excerpt: "Through this package, the farmer gets animal insurance and farm management services only by taking a few pictures of his cattle"
-    publishedDateTime: 2020-11-11T12:44:00Z
-    webUrl: "https://www.dhakatribune.com/business/2020/11/11/facial-recognition-for-cows-enables-insurance-service-for-marginalized-cattle-farmers"
-    type: article
-    provider:
-      name: Dhaka Tribune
-      domain: dhakatribune.com
-    quality: 36
-    images:
-      - url: "https://media-eng.dhakatribune.com/uploads/2020/11/watermarked/349740/1605098471680untitled-1605098418667.jpg"
-        width: 600
-        height: 315
         isCached: true
 
 secured: "pYAgFpmdnCe4lKXVtEu8sW04r7MjDRBK5X3LJzwusO3tKB52NAy6JJ7Z+z6YKERI9IYky6UrygdtOtDzMcnqOHeEuYJoCqFLg3TyOtwXbLE3RXfPCEf2zRZ9MS6q7CcUySj5SUTfJmciC3vw01N2chd6/MSRbRcg/gn5R81o19d0gLXFOxB3r20aLdKYgrMwZ2bQwXYD5RIbcBWQ2f+8mR+xvxybaQQx69BZDKgUyW5UiJ7dTMVKA9lyaav5C43E7wx39rfuDw4tVzMUNij0zYUWtuU0QQ4tWob+uBpH/20C+3jUSt93BpKmLb7J9hs9X/4hnBGdtqYmYokgb39I62lbWMhuuEcdrqAnzJv3hLImzvcsbnnoRAfYIdS7fRvHRHPMs8pHeK62QMGny7hb2EaZ9+uQf62mbJEljOtB/+R/2h5PqmMj/8qRkmh/0ZJSH7ZHQrkudTUJU0omlY4fByuCUb2AOLOJZu4lQaT5drLvBfZK6Kmma0np2gPPjkUSFTph6EfWhOapiVU2I0mQ8A==;BJs68INxMIhxGwsjWKo+wQ=="

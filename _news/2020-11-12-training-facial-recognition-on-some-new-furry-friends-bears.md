@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2020/11/11/science/bears-facial-recognition.
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/11/science/bears-facial-recognition.amp.html"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "A Case for Facial Recognition"
+    excerpt: "Facial recognition software doesn’t have to be all or nothing, argues a city official in Detroit. By Shira Ovide This article is part of the On Tech newsletter. You can sign up here to receive it weekdays."
+    publishedDateTime: 2020-11-11T19:12:00Z
+    webUrl: "https://www.nytimes.com/2020/11/11/technology/facial-recognition-software-police.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/11/technology/facial-recognition-software-police.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/11/technology/facial-recognition-software-police.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 89
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/30/business/30ontech/30ontech-facebookJumbo.png"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Biometrics community recognizes need for better messaging on ethical facial recognition use"
     excerpt: "Less than one in four biometrics community stakeholders say that enough is being done by the industry to influence the messaging around the ethical use of facial recognition, according to a survey"
     publishedDateTime: 2020-11-10T22:50:00Z
@@ -46,6 +62,6 @@ related:
         height: 1151
         isCached: true
 
-secured: "JQ3OZ3bMT6W4MjeZm26OWEvTekdF2CBB7c7leNghdazhCFV76iLyxsWi3Fp+k+gHKnsJAUOmsSSLbmZv7NCrDyTBLPTUPH7nwb5WB1uwSoXUf08rmsPpRFknCd9jjg7DKxx+dPt/T/QeoO9Y9Kf8vTP+3Vi6XOvGZ4QI+KAG/AiolD7H15rvSBIRdGPirOYhJDJ3iK/Pr7IRRa8hRzrtUlJ5GqrxG/F9WSXURoAZ7H2dgRo8ndMePoDZ64v7SqzbII82pPQqvlJeK8g+Eknz+TA+fAEfnbcErzHdYUtsPEq3OANCloPVyn1JZn7uWaatmpyjv7TrOLOcrCXNAmVSxDnRRVMUP2ImwzsyK9Io2+Q=;dnj7E0OKy3MK1KUj+5582Q=="
+secured: "SAxvfCLsh6FUO8NDTsIG5kWDCWNjafo5ZGa0NmNgrk5RNrMzQDgg8rwQ5weLh7JGDgesDWWKYOMtyqNVsFKK5P0ZN8TmY4ReOCXNnvGTnz9kIR54CW0RW1GalBFMDoe0IlutZJBLcMHd4jNDRHBnMsGwB8gp1WDVepZLco5TdcCfqj+6BzCiqZurqHo6LeZ2dSztup2uMPwUUEOisvguG88pwuzkDe18Z4xdWWuvmodQtgCyFedv8kZ3dKiBv2rqoXia+grUOBsG5aMIwGWlGlzzFM31adurHaK9K8jHy1yCDOecqOMoVhgFJxWmYzHNoOY29bwwxsQ0UdBjpjAUbaa/hhXELoKrGHogVspdnprpGrihHQtImRLGm4pwikLumgyOf5zLqsqMbNBk7UMUW/xHYB7WgTv8N/EfbENobkv4eXD1TqjgQd9EaRcxbps26lPSYVapcay4vUFlm1KbJhpGOJArnsFuqSvgr1RuT2X7R8Z21WhWCcYzpC0nS1YpeHrS7py6E0jb4vDN3o2mJw==;vFJI9eoUazDbmoU0nVVHNw=="
 ---
 

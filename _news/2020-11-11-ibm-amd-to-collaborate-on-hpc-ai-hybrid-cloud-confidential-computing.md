@@ -8,7 +8,7 @@ webUrl: "https://www.zdnet.com/article/ibm-amd-to-collaborate-on-hpc-ai-hybrid-c
 ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-amd-to-collaborate-on-hpc-ai-hybrid-cloud-confidential-computing/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-amd-to-collaborate-on-hpc-ai-hybrid-cloud-confidential-computing/"
 type: article
-quality: 68
+quality: 66
 heat: -1
 published: false
 
@@ -21,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
   - AI
 
 related:
@@ -67,6 +66,6 @@ related:
       domain: nasdaq.com
     quality: 17
 
-secured: "BKJJ5uDHSDtVkfh1l6E23W424p43zDdLY5KwJI3W8puz/fBmQeagONGbPw+G+sTkQNi8Ls2rcUjdIPt2HsecEr5neVVQao5VgiM5f0cmVTCYDTIwRmkNS+9v0x6qlIqbPir/wlQ19eSYmePXC+NJkjZuYs2TqqkrLQzwR/gqpG4Nz9dZ4Zqn1FqMYCWBytXG1k/SpjNCB9rt82oEiErZqVQbOKGr25DCaGeezbnpfl8xZCxzPM+w/dHmHWQhnJoCcfkxXAJItlKYGS/dAmT/soNi2Xdcxus/tmF5psrOf2heuujfEvv061Uui9jVSWmvfyvDezhshYJamEfBZMOXEwItla7rp3OCflsR2xL6jqcSG+8b9NmhTqeWH8xc0tZpr21HNgAgKzHWFcALVT6akrCEQ6xWbzFKSxMf94LxElSJLDh4Tsd1xltOTsyNCIuTTOUhVwjek2qwqMczDgWBmJNqeWM6meqDwlT389Q4b5IHspVbmFxI8ohh5g4KgEFkmbk5jLiY06ax/+cVCCHgaw==;N2bdgeuUbYUGj/MWOJLwrA=="
+secured: "i+mYqAkK3KBkvR6TyuaaMN10QFsGMLMrE7if8kMMNDZ43NrX37vr2aZSuzsW7AyIKdtgGnn3hs9Hu/4ImTKcNp6SQwKEFKtlTsCdOm3cGRlSCqL3Uz82W5QNKu9P1rlISkM+5TjnwcUHj1Bc6S2/+5o+QFt30zBhYlkMQoDNXC7Kve3Sn2MqjSe3JZ91H7p901cvguSt+EKkY6/V+W6LevF0GAVfJiOcdxH+MMFv9jGui+TyyCC518osjaiEPSiS9Sr2B+NejLzHum2wRL+B2phZT0jqL4dj91NqGu/rZYhGiTIesq7Mo+UhsA47sUTiLEfwcYNWr14P5VZqxy8jFEn1H7cl1zDOAt4MkbKLYmHjw4BuGcm9bS5bszt53jrXkfyLD7lKhls/uPnVLa2s91N683iFUJvy1QARB0wf6mrHJjZLlHWrzUfxE6TAfN6emHSIQDx1D8jSbKcm8pmy89x5hpW/+wK7smaCmwZHPTlj4Q8v0JK4qujAvl8M6cpCnfgXlMrz1cf8jQ20Tvs0yg==;zt3jbshlfJyS9X2TRrv2tA=="
 ---
 

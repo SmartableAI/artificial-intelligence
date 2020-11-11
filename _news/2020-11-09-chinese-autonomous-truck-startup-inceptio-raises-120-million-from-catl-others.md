@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27O0Y9"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27O0Y9"
 type: article
 quality: 83
-heat: -1
-published: false
+heat: 103
+published: true
 
 provider:
   name: Reuters
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese autonomous vehicle startup Pony.ai hits $5.3 billion valuation"
-    excerpt: "Pony.ai, the Chinese autonomous vehicle startup and relative newcomer to the industry, is now valued at $5.3 billion following a fresh injection of $267 million in funding. The round was led by TIP, an innovation fund within the Ontario Teachers’ Pension Plan Board that focuses on late-stage"
-    publishedDateTime: 2020-11-07T04:15:00Z
-    webUrl: "https://techcrunch.com/2020/11/06/chinese-autonomous-vehicle-startup-pony-ai-hits-5-3-billion-valuation/"
-    ampWebUrl: "https://techcrunch.com/2020/11/06/chinese-autonomous-vehicle-startup-pony-ai-hits-5-3-billion-valuation/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/06/chinese-autonomous-vehicle-startup-pony-ai-hits-5-3-billion-valuation/amp/"
-    type: article
-    provider:
-      name: YAHOO!News
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/11/4.-FR_triplets.jpg?w=1024"
-        width: 1024
-        height: 489
-        isCached: true
   - title: "Autonomous Startup Pony.ai Raises $267m To Boost R&D"
     excerpt: "California-based Pony.ai said it is raising $267 million in a fresh funding round that pushes the self-driving technology startup’s valuation to about $5.3 billion as it seeks to expand its customer base globally."
     publishedDateTime: 2020-11-09T01:12:00Z

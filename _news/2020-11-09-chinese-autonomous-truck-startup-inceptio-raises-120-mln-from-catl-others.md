@@ -24,22 +24,6 @@ topics:
   - AI
 
 related:
-  - title: "Chinese autonomous vehicle startup Pony.ai hits $5.3 billion valuation"
-    excerpt: "Pony.ai, the Chinese autonomous vehicle startup and relative newcomer to the industry, is now valued at $5.3 billion following a fresh injection of $267 million in funding. The round was led by TIP, an innovation fund within the Ontario Teachers’ Pension Plan Board that focuses on late-stage"
-    publishedDateTime: 2020-11-07T04:15:00Z
-    webUrl: "https://techcrunch.com/2020/11/06/chinese-autonomous-vehicle-startup-pony-ai-hits-5-3-billion-valuation/"
-    ampWebUrl: "https://techcrunch.com/2020/11/06/chinese-autonomous-vehicle-startup-pony-ai-hits-5-3-billion-valuation/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/06/chinese-autonomous-vehicle-startup-pony-ai-hits-5-3-billion-valuation/amp/"
-    type: article
-    provider:
-      name: YAHOO!News
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/11/4.-FR_triplets.jpg?w=1024"
-        width: 1024
-        height: 489
-        isCached: true
   - title: "Chinese autonomous truck startup Inceptio raises $120 million from CATL, others"
     excerpt: "China's Inceptio Technology, a startup developing self-driving trucks, said on Monday it has raised $120 million in its latest funding led by top Chinese electric vehicle battery maker CATL <300750.SZ>."
     publishedDateTime: 2020-11-09T00:28:00Z

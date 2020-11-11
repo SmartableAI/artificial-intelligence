@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Self-driving delivery firm Nuro raises $500 million as COVID-19 boosts e-commerce"
-excerpt: "Self-driving delivery company Nuro, whose R2 unit has no pedals or steering wheel and only room for packages, said Monday it has raised $500 million as e-commerce gets a huge boost from the pandemic."
-publishedDateTime: 2020-11-09T12:15:00Z
-originalUrl: "https://www.reuters.com/article/us-autonomous-nuro-funding/self-driving-delivery-firm-nuro-raises-500-million-as-covid-19-boosts-e-commerce-idUSKBN27P1FT"
-webUrl: "https://www.reuters.com/article/us-autonomous-nuro-funding/self-driving-delivery-firm-nuro-raises-500-million-as-covid-19-boosts-e-commerce-idUSKBN27P1FT"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P1FT"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P1FT"
+excerpt: "(Reuters) - Self-driving delivery company Nuro, whose R2 unit has no pedals or steering wheel and only room for packages, said Monday it has raised $500 million as e-commerce gets a huge boost from the pandemic."
+publishedDateTime: 2020-11-09T12:29:00Z
+originalUrl: "https://www.businessinsider.com/self-driving-delivery-firm-nuro-raises-500-million-as-covid-19-boosts-e-commerce-2020-11"
+webUrl: "https://www.businessinsider.com/self-driving-delivery-firm-nuro-raises-500-million-as-covid-19-boosts-e-commerce-2020-11"
+ampWebUrl: "https://www.businessinsider.com/self-driving-delivery-firm-nuro-raises-500-million-as-covid-19-boosts-e-commerce-2020-11?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/self-driving-delivery-firm-nuro-raises-500-million-as-covid-19-boosts-e-commerce-2020-11?amp"
 type: article
-quality: 84
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540562500&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80T3"
-    width: 676
-    height: 545
-    isCached: true
 
 related:
   - title: "Self-driving delivery firm Nuro raises $500 million as COVID-19 boosts e-commerce"
@@ -117,6 +111,6 @@ related:
         height: 630
         isCached: true
 
-secured: "y8yX7pixDKPUTyRq0JiIHONbQTOVxcFGLP1q6BVJWJKsPzIoAusT3PH8eJNooXFIibu6kelgpebwm8YmZakrlEo4kBK0c6l9RHNr5ERhtXD04dKzKZQJ93zowvhewXervkcD1AggLSJNIkWq1y2ud/9l/INmASi9bmI1RXyP+tan32yNp3EyikPJk9rKEtIwX3aaSPEwqvZH0OpPaUm2ywL84h0E3eQZpZAtIm/3H8CP3EApRqXeNUJXHak3bgDgd1qJOSHzdITuq1TTC8a8ik1M3Fm+KO+OcHcBx7XCcDGi3Jw8jW5tbvX/4GotvpqZe2JgvrEFN5XktVBgxVkWhDzBVJB+fV080dOngv6ThmA=;55X2OukYiXaPtPNQd1XjPA=="
+secured: "SoNdcHZhNtPIV17e9Tizrj6djBf2h+CJLOw8wCasDy/KLgvaat4jfiJQ01jlJ1AilRECyMM6XacdZVx1dZJSu0mE/mqEqrCazct7iSZU1LrupVi7Ga/BTW8IlYQNKUaWCBD2ycaRCaxEtyhp0siiR1nctNHahyw5x07B5NhtosOJ7hiDNG3Nkhp0xUOvIdIykuh0Ne/xAF+ySdhFnBHdvi6XzCEMPA2e/ga5eYW2YbckplPfXWqnn0suPrI/xHZGsXhY0cVSLM9xHTNqICb/zre7fmsVd3IyV7kB8IhUZ2keDP0N9I4qCo7YWKxshd7gvFUTlLbtRC4XXEf1MiLY1SlGTCCJ5Dg7xM+ft/wopVk=;b27i+bPxmrfRKRcOSN/KdA=="
 ---
 

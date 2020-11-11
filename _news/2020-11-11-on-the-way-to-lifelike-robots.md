@@ -50,6 +50,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 42
+  - title: "On the way to lifelike robots"
+    excerpt: "In order for robots to be able to achieve more than simple automated machines in the future, they must not only have their own ''brain''. Empa researchers postulate that artificial intelligence must be expanded to include the capabilities of a Physical Artificial Intelligence,"
+    publishedDateTime: 2020-11-11T19:46:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/sflf-otw111120.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://eurekalert.org/multimedia_ml/pub/web/13035_web.jpg"
+        width: 1440
+        height: 948
+        isCached: true
 
 secured: "vuUqYO7H5OtjUlCO/YBHwqVBJ+nOZZoi4B/4qVaAFmMkHlSxYK4KJYwCysq39jdS/kQrbBfBJGm8M5tTknyvKbBwnikOoEwg9nnOq+yC8CmeYCi+8LLzk/Ajubc3f/qTaF9DKjV0W36eTtFwFqsQwrdyoYBWU3KFq+ZO25DMh6Nll6SsthcPud6VlGH1qCxJ8gqsv3v9Mp9XutR1wou9HMRTQ3GuWzT6l3SUn4f0I6uwNqAC6VP8CcYBX1Inj5wW5ivUeSmXQGHXRIq7/fe0LTFxlViBEhN1XIpH7Fu0p/mvay5G1epdjNTpn37vHpFQZJKYICgH+f8jPqH1eqsnfAk2Vu4WXbR3wpizXBqvj6I=;xNURtc36nd7xbOeKJR/Mjw=="
 ---

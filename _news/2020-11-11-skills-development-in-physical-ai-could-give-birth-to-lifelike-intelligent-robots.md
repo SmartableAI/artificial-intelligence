@@ -52,6 +52,20 @@ related:
         width: 435
         height: 290
         isCached: true
+  - title: "On the way to lifelike robots"
+    excerpt: "In order for robots to be able to achieve more than simple automated machines in the future, they must not only have their own ''brain''. Empa researchers postulate that artificial intelligence must be expanded to include the capabilities of a Physical Artificial Intelligence,"
+    publishedDateTime: 2020-11-11T19:46:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/sflf-otw111120.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://eurekalert.org/multimedia_ml/pub/web/13035_web.jpg"
+        width: 1440
+        height: 948
+        isCached: true
 
 secured: "cKi6rdqrjWeFOnEuYecfxE1hH9nv1SXq1GiYEB4YBUwW7pAOeVudMhxEXxfPQbPj+NqY13wnPcCLB/QowTgwvUBZ9SY1dKs//rvzW8OgbjKKBInnUpAhWjpzvxE8kZ8fW1PRxQ0oZld+YeDmNalMXgE8jhrycozUzJ3gUBWyQMy9ArdLXSngCVd74edPGeoVwALcQVg+tdcPKiJz+3IyvuZgq43CaTPhqGzEOgXttAYeaqYiu1HLe6rD89pk06T1HFvb9L4dVky4Wb9/+7cW98I7+M4ylIeTMl+v9b7FMVzTI3ysPpY6OV2yxN1ULpKiFwy62zWJXfNaYDZw15a0Ixi+5e57wq1j6AolUQKnn1U=;JfMH4IJF5i2IDZbj+O1hCA=="
 ---

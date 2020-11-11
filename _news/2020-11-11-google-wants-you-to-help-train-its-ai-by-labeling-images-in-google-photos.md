@@ -39,7 +39,7 @@ related:
     provider:
       name: Digital Photography Review
       domain: dpreview.com
-    quality: 43
+    quality: 45
     images:
       - url: "https://3.img-dpreview.com/files/p/E~TS940x788~articles/6446970864/Google_Photos_Logo.jpeg"
         width: 940

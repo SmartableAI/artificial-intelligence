@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-11T18:29:00Z
 originalUrl: "https://www.dpreview.com/news/6446970864/help-wanted-google-photos-wants-your-assistance-in-training-its-machine-learning-algorithms"
 webUrl: "https://www.dpreview.com/news/6446970864/help-wanted-google-photos-wants-your-assistance-in-training-its-machine-learning-algorithms"
 type: article
-quality: 43
+quality: 45
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Computer Vision
 
 images:
   - url: "https://3.img-dpreview.com/files/p/E~TS940x788~articles/6446970864/Google_Photos_Logo.jpeg"
@@ -56,6 +57,6 @@ related:
         height: 725
         isCached: true
 
-secured: "kV8XcpRd7xxWlpu/JJ/Nf361PDeyr3iIOoBuntPCULwO/Wx2T1gbL4ZAwV38sURNPXd1ZKInGdreN9GG8xrpmj3VCCjGA97/szVrZWuLzgeB4of3pRMxFQ4eeElLaPxHaGndYo74rXXxlsoVsJf2HnFjLIWiM+ycbh9gnW7gDzfKFwDxKJzoxGetGuUSiDvDPe7l0C492lhLhTJ5m4aiSltcCiH1WuoN7nXzx4fXQsCPVKl0QZjpyuo+Lstg7+zY1lxTCIRAZI4Ukwj4s1gL7q5gmeMjhFRy6AxGFDtZChdR0xz/cIu+V7+tT1y1U8NRfgha7IxIfaybgNSRaZtOltWi91ZLSMctk9YZ5KzCzgc=;YR8GLHjsGHyr5ULZEJA0bQ=="
+secured: "M2yNLlDJDMFeL2Mj3vgaq4+mOnnk3HrKmx1c2SH8v3inz3B6uU+mAqmqbdaxeshynMd4F7bHE9JBV0gJaYWye6bsTeMLV8srKOdS25WWVvu70McQUbwJnA5lfkKcRzpsGe9PJ6mr3jJwAoa3UUmQd+TFErzEUpTUvj2mWBd/tyuZkJBYNavrVkXRV4aVTPSO+QP+jWVKcc1fB3+mseIQbOwpkZs8NccPXBUKMNscBCwbymeQty2iAnIhbBM7vap2UEX7KCBH7enKIh2i5loYGay+FkdJ1YDYWfF7xKwVaxdpJVwUw+SOxjnqQ+wlnzIKPJ/InkAP6N0hg02vFbsztZxbmxKYBeZWbCg3uJGrcYpYJ75woLoYvpRa4HS2xyTdtpYdYjqaHVagQeRZxxW4XWQ7Y1NJRRMiHgZ+w5nq39siq5SXUuHlWTHOJGuPDDnneCee41D0HlStLSVe9vLPbGB2Op1MkV7ebPdE6nPutwwO7mX/5JjX6Uq7Q5xm06U60kgocBoRXOjFew98AxTe2w==;g42WtNooGSS226zHqT15HA=="
 ---
 
