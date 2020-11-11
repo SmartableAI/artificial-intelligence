@@ -9,7 +9,7 @@ ampWebUrl: "https://dealerscope.com/josh-ai-unveils-josh-nano-powered-by-josh-co
 cdnAmpWebUrl: "https://dealerscope-com.cdn.ampproject.org/c/s/dealerscope.com/josh-ai-unveils-josh-nano-powered-by-josh-core-lifting-smart-home-experience-to-new-heights?amp"
 type: article
 quality: 48
-heat: 58
+heat: 48
 published: false
 
 provider:

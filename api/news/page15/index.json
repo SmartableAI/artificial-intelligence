@@ -2,6 +2,57 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-10-27-ai-cures-data-driven-clinical-solutions-for-covid-19.md",
+      "title": "AI Cures: data-driven clinical solutions for Covid-19",
+      "excerpt": "The AI Cures Conference: Data-driven Clinical Solutions for Covid-19 described technologies developed in response to the Covid-19 pandemic and new opportunities for AI solutions for clinical management.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2020/ai-cures-data-driven-clinical-solutions-covid-19-1027",
+      "originalUrl": "https://news.mit.edu/2020/ai-cures-data-driven-clinical-solutions-covid-19-1027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202010/AI-Cures-Conference-panel.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-27T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-human-api-raises-20-million-to-standardize-health-records-with-ai.md",
       "title": "Human API raises $20 million to standardize health records with AI",
       "excerpt": "California-based company developing an AI pipeline that structures health data into a standardized format, this week raised over $20 million. A spokesperson for the startup says the capital will ...",
@@ -49,49 +100,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-artificial-intelligence-ai-in-healthcare-market-to-reach-us-265-billion-by-2025-globally-cagr-41-univdatos-market-insights.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market to Reach US$ 26.5 Billion by 2025, Globally |CAGR: 41%| UnivDatos Market Insights",
-      "excerpt": "NOIDA, India, Oct. 27, 2020 /PRNewswire/ -- UnivDatos Market Insights released a report titled \"Artificial Intelligence (AI) in Healthcare Market - by Technology (Machine Learning, Deep Learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2020-10/51068112-artificial-intelligence-ai-in-healthcare-market-to-reach-us-dollar-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-008.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2020-10/51068112-artificial-intelligence-ai-in-healthcare-market-to-reach-us-dollar-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-008.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1225049/UnivDatos_Logo.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -364,6 +372,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-27-artificial-intelligence-ai-in-healthcare-market-to-reach-us-265-billion-by-2025-globally-cagr-41-univdatos-market-insights.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market to Reach US$ 26.5 Billion by 2025, Globally |CAGR: 41%| UnivDatos Market Insights",
+      "excerpt": "Artificial Intelligence (AI) in healthcare market is expected to reach the market value of US$ 26.6 billion by 2025, growing at a CAGR of 41% during the forecast period (2018-2025). Market ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-1029728132",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-1029728132",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-1029728132",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-1029728132",
+      "publishedDateTime": "2020-10-27T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-us-lost-over-60-million-jobsnow-robots-tech-and-artificial-intelligence-will-take-millions-more.md",
       "title": "U.S. Lost Over 60 Million Jobs—Now Robots, Tech And Artificial Intelligence Will Take Millions More",
       "excerpt": "The World Economic Forum (WEF) concluded in a recent report that “a new generation of smart machines, fueled by rapid advances in artificial intelligence (AI) and robotics, could potentially replace a large proportion of existing human jobs.”",
@@ -597,7 +648,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T07:46:00-07:00",
+      "publishedDateTime": "2020-10-27T06:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PR Newswire",
@@ -859,19 +910,19 @@
     {
       "path": "_news/2020-10-27-dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration.md",
       "title": "dotData Announces Enhancement of MLOps Capability with dotData Stream and Amazon SageMaker Integration",
-      "excerpt": "PRNewswire/ -- dotData, a leader in AutoML 2.0 software to help accelerate AI/ML development and operationalization for the enterprise, today announced that dotData Stream now fully supports Amazon SageMaker integration,",
+      "excerpt": "Amazon SageMaker is a fully managed service that provides developers and data scientists with the ability to deploy machine learning (ML) models quickly. Now, with simple point-and-click ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-computing-and-information-technology-data-management-376b9d4dc51b9da6e765375bfa3474d0",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-computing-and-information-technology-data-management-376b9d4dc51b9da6e765375bfa3474d0",
+      "webUrl": "https://www.prnewswire.com/news-releases/dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration-301160215.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration-301160215.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -881,11 +932,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T05:30:00-07:00",
+      "publishedDateTime": "2020-10-27T05:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -895,9 +946,8 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1148,57 +1198,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-eightfold-recruiting-software-startup-reaches-1-billion-value.md",
-      "title": "Eightfold Recruiting Software Startup Reaches $1 Billion Value",
-      "excerpt": "Recruiting software startup Eightfold AI said it was valued at $1 billion in a $125 million financing round led by General Catalyst.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-27/eightfold-recruiting-software-startup-reaches-1-billion-value",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-27/eightfold-recruiting-software-startup-reaches-1-billion-value",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwPF2wRC.Ws0/v0/360x-1.jpg",
-          "width": 360,
-          "height": 239,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-27/eightfold-recruiting-software-startup-reaches-1-billion-value",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-27/eightfold-recruiting-software-startup-reaches-1-billion-value",
-      "publishedDateTime": "2020-10-27T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Accelerate Machine Learning Development to Build Intelligent Applications Faster"
-excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
-publishedDateTime: 2020-11-10T19:03:00Z
-originalUrl: "https://www.cio.com/resources/210552/accelerate-machine-learning-development-to-build-intelligent-applications-faster"
-webUrl: "https://www.cio.com/resources/210552/accelerate-machine-learning-development-to-build-intelligent-applications-faster"
+excerpt: "Network news, trend analysis, product testing and the industry’s most important blogs, all collected at the most popular network watering hole on the Internet | Network World"
+publishedDateTime: 2020-11-10T18:34:00Z
+originalUrl: "https://www.networkworld.com/resources/210552/accelerate-machine-learning-development-to-build-intelligent-applications-faster"
+webUrl: "https://www.networkworld.com/resources/210552/accelerate-machine-learning-development-to-build-intelligent-applications-faster"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: CIO
-  domain: cio.com
+  name: Network World
+  domain: networkworld.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
+  - url: "https://idge.staticworld.net/nww/nww_logo_300x300.png"
     width: 300
     height: 300
     isCached: true
@@ -41,7 +41,30 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Skills development in Physical AI could give birth to lifelike intelligent robots"
+    excerpt: "New research suggests combining educational topics and research disciplines to help researchers breathe life into lifelike intelligent robots."
+    publishedDateTime: 2020-11-11T07:25:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/11/201110112512.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 42
+  - title: "On the way to lifelike robots"
+    excerpt: "In order for robots to be able to achieve more than simple automated machines in the future, they must not only have their own 'brain'. Researchers postulate that artificial intelligence must be expanded to include the capabilities of a Physical Artificial Intelligence,"
+    publishedDateTime: 2020-11-11T07:58:00Z
+    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=56599.php"
+    type: article
+    provider:
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 39
+    images:
+      - url: "https://www.nanowerk.com/news2/robotics/id56599_1.jpg"
+        width: 435
+        height: 290
+        isCached: true
 
-secured: "97LvtSMqAVgzW5EuSnP3yiumUKjZvOR7FmgORzb2IcvRTTAlnPDzIDew4+MwnRN+jWttDFkXDgLuUVrfSMpdIGj7I2RPKuN0zVvm1QOS9v67f4DKI7aEQUEJTQdz1FdKJj9NAXSDohasqv5P+gj3qGguHuW4qgwA/nLMKhMbaMdav4SKAEQoplxHCIy1Hb+2NRW07sVVKlWmmBkIMw1QhVBL/y0x6bmtZw8xTi1hQHFb0JzGmpx0RAueLC6gAYsQoiW1hov9FObrt+7SDdBy7YxWY1CKZ5E2BuxaEs46nuqzY1LD7pMxyzhjAuW8WyAiycgLwUhF5lF993RwTwyilBn+VrkVcnk3xaFZRhJcI98=;gI6KESDH/oMn6dEYKPVNwA=="
+secured: "LLDBSGO+lGcDqAX3TrnhhDXgbN554D5Lc9N0q6AkTZK5GWpEP0uo5nP8yA256xOATZoPFi0B0wtWn0YigvtkrGvXHX0gO331NB19t28lApksUe0B8QE0wNTOSxXVEj1jvbIzETGYBiqx+nF0QEcHOsJu+D1wlX2OsWFdiCA7rOuuulwbIsLfstqrDfpzgw8E1sOT41lgVps5SIyTRPK8krJcngqbo595TkyvecmiaWnKDB5XGtcKGtgqd5DGTaHBzQg3SmMBpHml6KnTAj8tOVtIfJaPyP4r2Ae5WQcFIDvmZuKzoavfNEaNEWHV/NwaobaSLQqiPR8Wyfk17tVaTY+stdGFGAbvo7ZDeB1qv+M=;wkSas+5byRaDdj0A/snpgQ=="
 ---
 

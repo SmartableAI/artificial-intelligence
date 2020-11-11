@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-11-09-buddhist-nuns-and-their-crusade-for-recognition-in-southeast-asia.md",
-      "title": "Buddhist Nuns and Their Crusade for Recognition in Southeast Asia",
-      "excerpt": "\"The Buddha is my first feminist … in a very traditional society, he opened the space for women by recognizing they can achieve a highest spiritual goal.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/y3gd3b/buddhist-nuns-bhikkhuni-ordination-women-recognition-southeast-asia",
-      "originalUrl": "https://www.vice.com/en/article/y3gd3b/buddhist-nuns-bhikkhuni-ordination-women-recognition-southeast-asia",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com//articles/5fa8af370bb14e0095416283/lede/1604891135349-1-1.jpeg?crop=1xw:0.4428xh;0xw,0.0389xh",
-          "width": 1440,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en/article/y3gd3b/buddhist-nuns-bhikkhuni-ordination-women-recognition-southeast-asia",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/y3gd3b/buddhist-nuns-bhikkhuni-ordination-women-recognition-southeast-asia",
-      "publishedDateTime": "2020-11-08T21:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-09-ai-can-drive-ethical-investment-only-if-we-grasp-the-messy-reality.md",
       "title": "AI can drive ethical investment only if we grasp the messy reality",
       "excerpt": "We also need to look at the ethical “fingerprint” of organisations we are considering investing in, and not simply tag them as ESG or not ESG, or lump them together in groups based on an arbitrary cut-off point on a scale.",
@@ -208,7 +156,7 @@
       "originalUrl": "https://www.bbc.com/news/amp/technology-54522442",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1009,7 +957,7 @@
       "originalUrl": "https://abc7news.com/coronavirus-testing-stanford-researchers-covid-19-test-results/7686757/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1040,6 +988,57 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-07-ai-is-changing-the-game-during-the-2020-election-cycle.md",
+      "title": "AI Is Changing The Game During The 2020 Election Cycle",
+      "excerpt": "In the US, voters are still waiting for the results of the 2020 presidential election. With social distancing and early voting, candidates are using the full power of social media to mobilize their voters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/junwu1/2020/11/06/ai-is-changing-the-game-during-the-2020-election-cycle/",
+      "originalUrl": "https://www.forbes.com/sites/junwu1/2020/11/06/ai-is-changing-the-game-during-the-2020-election-cycle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa5c59f980e676e3186693d%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/junwu1/2020/11/06/ai-is-changing-the-game-during-the-2020-election-cycle/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/11/06/ai-is-changing-the-game-during-the-2020-election-cycle/amp/",
+      "publishedDateTime": "2020-11-06T13:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },

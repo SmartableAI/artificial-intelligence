@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "MIT’s AI analysis shows extreme anxiety levels among people since the start of COVID-19"
+    excerpt: "Massachusetts Institute of Technology (MIT) researchers with some help from Harvard Medical School analyzed the mental states of people by using various Reddit subforums aka Subreddits."
+    publishedDateTime: 2020-11-09T18:05:00Z
+    webUrl: "https://www.techjuice.pk/mits-ai-analysis-shows-extreme-anxiety-levels-among-people-since-the-start-of-covid-19/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 31
+    images:
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2020/11/5f357c17b4bb1c001df531d3.jpg"
+        width: 1100
+        height: 825
+        isCached: true
   - title: "FRISS Fraud Study Shows the Impacts of COVID-19 on AI and Digitalization in Insurance"
     excerpt: "In a recent study by FRISS, the global leader in AI-powered fraud detection software for insurers, the impacts of COVID-19 as well as long-term industry trends are highlighted. The study gathered input from nearly 500 insurance professionals worldwide and provides insight into topics such as fraud detection during a pandemic,"
     publishedDateTime: 2020-11-10T06:55:00Z

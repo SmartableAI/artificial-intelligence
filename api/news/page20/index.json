@@ -2,6 +2,58 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-10-23-ai-researchers-urge-tech-go-beyond-scale-to-address-systemic-social-issues.md",
+      "title": "AI researchers urge tech go beyond scale to address systemic social issues",
+      "excerpt": "To scale is to be capable of speedy growth of users and revenue, but AI researchers say companies ... published in recent days by Google senior research scientist Alex Hanna and independent ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/22/ai-researchers-urge-tech-go-beyond-scale-to-address-systemic-social-issues/",
+      "originalUrl": "https://venturebeat.com/2020/10/22/ai-researchers-urge-tech-go-beyond-scale-to-address-systemic-social-issues/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/worlds-largest-hockey-stick.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/22/ai-researchers-urge-tech-go-beyond-scale-to-address-systemic-social-issues/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/ai-researchers-urge-tech-go-beyond-scale-to-address-systemic-social-issues/amp/",
+      "publishedDateTime": "2020-10-22T12:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-teslas-full-self-driving-beta-is-here-and-it-looks-scary-as-hell.md",
       "title": "Tesla’s ‘Full Self-Driving’ beta is here, and it looks scary as hell",
       "excerpt": "Or as Tesla warns in its introductory language, “it may do the wrong thing at the worse time.” Frankly, this looks terrifying — not because it seems erratic or malfunctioning, but because of the way it will inevitably be misused.",
@@ -1090,58 +1142,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-three-changes-impacting-healthcare-marketing.md",
-      "title": "Three Changes Impacting Healthcare Marketing",
-      "excerpt": "Healthcare marketers often face extremely challenging federal regulations as well as Health Insurance Portability and Accountability Act (HIPAA) rules. On top of that, patients are demanding better services from healthcare providers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/10/22/three-changes-impacting-healthcare-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/10/22/three-changes-impacting-healthcare-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f48f8fdd0ef32a9717eac46%2F0x0.jpg",
-          "width": 1199,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/10/22/three-changes-impacting-healthcare-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/10/22/three-changes-impacting-healthcare-marketing/amp/",
-      "publishedDateTime": "2020-10-22T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

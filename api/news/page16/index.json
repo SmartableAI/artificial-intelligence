@@ -2,6 +2,57 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-10-27-eightfold-recruiting-software-startup-reaches-1-billion-value.md",
+      "title": "Eightfold Recruiting Software Startup Reaches $1 Billion Value",
+      "excerpt": "Recruiting software startup Eightfold AI said it was valued at $1 billion in a $125 million financing round led by General Catalyst.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-27/eightfold-recruiting-software-startup-reaches-1-billion-value",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-27/eightfold-recruiting-software-startup-reaches-1-billion-value",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwPF2wRC.Ws0/v0/360x-1.jpg",
+          "width": 360,
+          "height": 239,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-27/eightfold-recruiting-software-startup-reaches-1-billion-value",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-27/eightfold-recruiting-software-startup-reaches-1-billion-value",
+      "publishedDateTime": "2020-10-27T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-what-the-hell-is-reinforcement-learning-and-how-does-it-work.md",
       "title": "What the hell is reinforcement learning and how does it work?",
       "excerpt": "Reinforcement learning is a subset of machine learning. It enables an agent to learn through the consequences of actions in a specific environment. It can be used to teach a robot new tricks ...",
@@ -1158,50 +1209,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-c3ai-microsoft-and-adobe-combine-forces-to-re-invent-crm-with-ai.md",
-      "title": "C3.ai, Microsoft, and Adobe combine forces to re-invent CRM with AI",
-      "excerpt": "Integrate Microsoft Dynamics 365, Adobe Experience Cloud (including Adobe Experience Platform), and C3.ai’s industry-specific data models, connectors, and AI models, in a joint go-to-market offering designed to provide an integrated suite of industry ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/2020/10/26/c3-ai-microsoft-and-adobe-combine-forces-to-re-invent-crm-with-ai/",
-      "originalUrl": "https://news.microsoft.com/2020/10/26/c3-ai-microsoft-and-adobe-combine-forces-to-re-invent-crm-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-26T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales",
-        "Microsoft AI"
       ]
     }
   ],

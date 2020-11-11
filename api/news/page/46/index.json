@@ -2,6 +2,48 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-10-05-inside-politics-rishi-sunak-clashes-with-boris-johnson-over-eat-out-to-help-out.md",
+      "title": "Inside Politics: Rishi Sunak clashes with Boris Johnson over Eat Out to Help Out",
+      "excerpt": "In a pre-conference speech interview, the chancellor has hit back at the PM’s suggestion that the scheme may have caused the virus to spread, writes Adam Forrest",
+      "sourceUrl": null,
+      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
+      "originalUrl": "https://www.independent.co.uk/independentpremium/uk-news/boris-johnson-sunak-eat-out-help-out-scheme-tory-conference-brexit-talks-b801042.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inside.com/assets/premium/Blue-email-icon-0994aadea0b5b10b19a148e2dd34a88c4a315b76ed51d7898fa49dc4ddc6d171.png",
+          "width": 414,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-04T23:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-ai-in-fintech-market.md",
       "title": "AI in Fintech Market",
       "excerpt": "According to the latest report by Data Bridge Market research, titled “AI in Fintech Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2027,” the AI in Fintech Market ...",
@@ -1136,57 +1178,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-parkland-parents-create-artificial-intelligence-video-of-slain-son-to-spur-voters.md",
-      "title": "Parkland parents create artificial intelligence video of slain son to spur voters",
-      "excerpt": "Wearing his signature hoodie and beanie, an earbud casually hanging from one ear, passionate Parkland teen Joaquin Oliver urges his peers to vote for lawmakers who will end gun violence in a new video released Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/parkland-ai-video-son-voters",
-      "originalUrl": "https://www.foxnews.com/us/parkland-ai-video-son-voters",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92a015b7-e5da-4532-a5e3-7990a14b4476/e83f5a0d-f2ad-49fe-81f0-6d88b306a6ed/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/parkland-ai-video-son-voters.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/parkland-ai-video-son-voters.amp",
-      "publishedDateTime": "2020-10-02T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

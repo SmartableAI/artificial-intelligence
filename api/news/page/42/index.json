@@ -2,6 +2,58 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2020-10-07-halloween-trick-or-treating-in-an-era-of-self-driving-cars.md",
+      "title": "Halloween Trick-Or-Treating In An Era Of Self-Driving Cars",
+      "excerpt": "Halloween in an era of self-driving cars. getty. Halloween is almost here! Even if this year’s celebrations might be somewhat less extravagant and require added care and precaut",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/07/halloween-trick-or-treating-in-an-era-of-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/07/halloween-trick-or-treating-in-an-era-of-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7d052055c26817fc4463ad%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4164%26cropY1%3D14%26cropY2%3D2789",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/07/halloween-trick-or-treating-in-an-era-of-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/07/halloween-trick-or-treating-in-an-era-of-self-driving-cars/amp/",
+      "publishedDateTime": "2020-10-07T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-deep-learning-in-computer-vision-market-business.md",
       "title": "Deep Learning in Computer Vision Market Business",
       "excerpt": "Deep Learning in Computer Vision marketing report has been structured by keeping in mind all the foremost aspects of the market research that put forth market landscape simply into focus Market segmentation is a significant parameter that categorises the market",
@@ -1115,49 +1167,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-applying-artificial-intelligence-to-science-education.md",
-      "title": "Applying artificial intelligence to science education",
-      "excerpt": "A new review highlights the potential of machine learning--a subset of artificial intelligence -- in science education. A new review published in the Journal of Research in Science Teaching ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2020/10/201007085624.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2020/10/201007085624.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
       ]
     }
   ],

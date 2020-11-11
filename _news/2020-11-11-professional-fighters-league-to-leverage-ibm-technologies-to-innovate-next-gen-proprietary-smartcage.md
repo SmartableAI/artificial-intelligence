@@ -10,6 +10,7 @@ cdnAmpWebUrl: "https://calvinayre-com.cdn.ampproject.org/c/s/calvinayre.com/2020
 type: article
 quality: 29
 heat: 29
+published: false
 
 provider:
   name: CalvinAyre
@@ -25,6 +26,31 @@ images:
     height: 282
     isCached: true
 
-secured: "B84mEJ6L3xA9pO0wwk0dT9QHcslsuRO8ElPjXXwvZu8wv2aGkksR4Nnj9Sv/3KDddpq6NgbiTId2dwGa0kFG1B2pPoxrbejzZN+58RGyBBZA/9uqeHhjlniTOHuyPwNULzXKxTYk4ItYZZEXOhWP+rbfoZRGlBV69r/6OG2fhJU5YvgZ5NAMscI2RkYkYiX33HNUYVYZbfKWBUqWGf5nLmINpC0jxO+XV7UEf3fnv/uoGoum6X943fBZp/hHOF+umBdb4vjlvjMyZlGkaYV42xCQBQhhyQNPWlxDT8e0+OcHiQmv4EDI5/B1HtpWuiTpdWDcfzm0X2qglspO8u/I2SB6T4gDl0RGqTWF7BXJ/lk=;Juh8uxBNitj1PtLbU/XXLA=="
+related:
+  - title: "PFL to leverage IBM technologies to innovate next-gen SmartCage"
+    excerpt: "The Professional Fighters League (PFL) announced it will be leveraging Flagship’s capabilities to deliver IBM’s suite of advanced cloud and AI products to enhance the league’s delivery of next-gen SmartCage data and analytics,"
+    publishedDateTime: 2020-11-10T22:16:00Z
+    webUrl: "https://www.nationthailand.com/noname/30397710"
+    type: article
+    provider:
+      name: nationthailand
+      domain: nationthailand.com
+    quality: 24
+    images:
+      - url: "https://media.nationthailand.com/images/news/2020/11/10/30397710/800_cd75cac9e98d9ee.jpg?v=1605046453"
+        width: 675
+        height: 450
+        isCached: true
+  - title: "Professional Fighters League leverages IBM tech"
+    excerpt: "The Professional Fighters League (PFL) will be leveraging Flagship’s capabilities to deliver IBM’s suite of advanced cloud and AI products to enhance the le"
+    publishedDateTime: 2020-11-10T16:47:00Z
+    webUrl: "https://advanced-television.com/2020/11/10/professional-fighters-league-leverages-ibm-tech/"
+    type: article
+    provider:
+      name: Advanced Television
+      domain: advanced-television.com
+    quality: 4
+
+secured: "qfhb/rApTBKmfNuXVvdP+q/8kls4DJ+Txl+H64kEzMEktW7bxq7Bpc3fFGsCN8DzUcI2m5bYFVBwNT+jrx6aA4ixFA9yAi9U39MHvLlSuE/Vuj5yxExpHsr7Ef5AqFrbwcrVQUCjFPWy9wqZ+MLjvQw8y0UUN20dddIUNU70MhZKEgWZQPuOAEbH69eCr5hu9RSO59mDW4qoK4nlzgNSb9GDV/Scu8O8D1i3phQK44dJ0vkAgtUImIZidOJZmOab7HhTZDVvV+glfQ0+oZCi68civjXhxfjCvBHbO0t9bH3pccZuW/9bkM9ghyOSYdGf9TzMVRc6Gxl69F5Y1ihPVF9y9mCeXzEIBnNpWJ9T+jS+2UV9JsxoyzSx56ihrNc/itiP0l92SOA1IlUlxYu9DsmS6Z6GE6kqhgCeD/dve31QrwbsTZFv4Mx54HP6cwICVGWrtob5+WjS1iQanew0xrstMfZsXqo6eU3N5+uCZIAoD3uZQ8SZsISdQgZKKNr67F0D6222gnr1ZvBkolTVKA==;oanM9rQz4cJxFWXJrYYO2Q=="
 ---
 

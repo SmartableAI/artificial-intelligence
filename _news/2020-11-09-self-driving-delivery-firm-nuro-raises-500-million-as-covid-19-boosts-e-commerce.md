@@ -72,6 +72,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 37
+  - title: "Nuro Announces $500 Million Financing Round"
+    excerpt: "Nuro is raising a $500 million Series C round of funding, led by funds and accounts advised by T. Rowe Price Associates, Inc., with participation from new investors including Fidelity Management & Research Company,"
+    publishedDateTime: 2020-11-09T12:32:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-driverless-cars-transportation-transportation-and-shipping-6a774a5c21b4267cfa13d99067d0941d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "A look at promising COVID-19 treatments"
     excerpt: "More than 100 treatments to save those infected with the new coronavirus are now being tested or researched, and several experimental therapies have been expedited into clinical trials. Among the latest: the Food and Drug Administration this week granted emergency use authorization for Eli Lilly’s monoclonal antibody treatment,"
     publishedDateTime: 2020-11-10T20:03:00Z

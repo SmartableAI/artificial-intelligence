@@ -66,9 +66,9 @@ related:
   - title: "Walmart partners with GM's Cruise on self-driving delivery pilot in AZ"
     excerpt: "Walmart Inc is adding Cruise, a majority-owned affiliate of U.S. automaker General Motors Co <GM.N>, to its roster of self-driving startup partners, in a pilot delivery program early next year in Scottsdale,"
     publishedDateTime: 2020-11-10T21:42:00Z
-    webUrl: "https://www.reuters.com/article/us-autonomous-cruise-walmart/walmart-partners-with-gms-cruise-on-self-driving-delivery-pilot-in-az-idUSKBN27Q21F"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q21F"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q21F"
+    webUrl: "https://www.reuters.com/article/autonomous-cruise-walmart-idUSKBN27Q25S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q25S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q25S"
     type: article
     provider:
       name: Reuters
@@ -293,6 +293,15 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Ford: Playing it safe. There is no other way to launch self-driving cars"
+    excerpt: "That same mindset dominates how Ford approaches the introduction of self-driving cars. Just as decades of experience have given us safe and reliable development processes for human-driven cars, we need to draw upon that experience and develop the same processes for self-driving ones."
+    publishedDateTime: 2020-11-11T08:26:00Z
+    webUrl: "https://www.automotiveworld.com/news-releases/ford-playing-it-safe-there-is-no-other-way-to-launch-self-driving-cars/"
+    type: article
+    provider:
+      name: Automotive World
+      domain: automotiveworld.com
+    quality: 3
 
 secured: "2dojmvBbzaFVR1B71QutBRRcBjCCMskCNkFTVx/z64WT2Q7OH2JmC8kJGEU4V8+RxAF26PEiaMuQtnu5RWeC/sYhKtJA5Yr5+iCaxsMxh2z4c+Qat9MhpBegbybJawCZOxL2vhvlBA5YwoIK+FTSvJula/xvVYk7uwkqEor0e2DlbY8WJYBpz2O3RpmjSg0ZkvI3dKzQ8Dmgsubexp+w2qVLd1gpSZQMnJBkfxJII2tSGgvuS+qf9MALFVBlQyfRxTBNXMpPuPgrA9NhxUMALW6hqNHfXboqKIOauWrxZQE4ogNTXxrayw/PT2Vb1ULt/xXEWngRFqREG0DUEKEbIiSIdwjxuYKNf7IELabgNFor4/ocMgRP1AWN1jv5ShAIfqlIRD4fD/ctW6Z3oEzv5REbE0/7FoMOFFYuGR8tUsjYjZpA5wRXvEd2kDPFvlwvIoYqHpfDWAc1AS8FszMEDuzfhqUjkhuwKd+1mKzi/hCKseJdQ/sAVyF6FvbKyW9tiyffGQ0u4mMpFi3NzLPMtQ==;zexF0VmAYUCWRuW2hkxnqQ=="
 ---

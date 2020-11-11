@@ -82,6 +82,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 37
+  - title: "Nuro Announces $500 Million Financing Round"
+    excerpt: "Nuro is raising a $500 million Series C round of funding, led by funds and accounts advised by T. Rowe Price Associates, Inc., with participation from new investors including Fidelity Management & Research Company,"
+    publishedDateTime: 2020-11-09T12:32:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-driverless-cars-transportation-transportation-and-shipping-6a774a5c21b4267cfa13d99067d0941d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "q2FOtWIijKyKz89Ndp6PE9PlfSeaaIQqdvx21i9T9hJ4NtcxCmziVbEXhanTBbzAZ2P13eZlYOnBKCLEUV1kv9QLxjRXsdpPh9yyJx/vSdwG3SPfaKQ/ZYS9m77FUp7abl3fkLAcFtbqGAvnEAjV+21PibAhFYRzGxuQwF7MhooHZ2NvH9duk0IoKuQ5Vw1s5fS5stLhE+j6z4+uhyNaiw+HfvHrG1nL2jd0L2d5+bgwyxazN5munPIcarU4rRLzA6GCXxHDwIopAp8OkMNc55Y0kktrKrOgAhZphrY5WEGFYWldZrk2va6q8EcV6R8VGiee+JQ2yLiV80xrw1wp8HRF/uco2svS4TNkNj4F7OM=;ixLdPFreJdr2arkk5r+8RQ=="
 ---

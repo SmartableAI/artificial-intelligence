@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/technology-54522442"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-54522442"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "Can AI replace human decision-making? Most companies say no, but it can help"
-    excerpt: "Most CIOs aren't comfortable with letting the AI take over decisions. But it does help them make better, less biased ones."
-    publishedDateTime: 2020-11-06T15:51:00Z
-    webUrl: "https://www.techrepublic.com/article/can-ai-replace-human-decision-making-most-companies-say-no-but-it-can-help/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/can-ai-replace-human-decision-making-most-companies-say-no-but-it-can-help/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/can-ai-replace-human-decision-making-most-companies-say-no-but-it-can-help/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 64
 
 secured: "fDDaPQJ7cWYJw9qFPYr/Ux/+d9/yVgIFfsS7RzxBYWkVxxI16v1onggZPdze13u7k+2U6476CSrzNk4gx5jWVAz88wxMqzTtp243rBaPzJMizQxH0uCJPu8CyXuJH2UcUtqVoqGcgCQQadGP7yfBk4E35IOmJOLSm5uf7Jkaa6UCukgtIHN8OYiidk8LJK4r45m11oh2+/uuBQRfezzWRIdu1+17+Z77B/BfhXzVfxjNXdplW8oouIcXQHcuf3lEdp1eafkUBo3WyiIXE/AgYNp/9yu/z8D8hdv2CGTAWRFWOoNTrgCeTQpPygPIxEqtgqeZGnsloSkRTGEBYIR4P+BBrkAGm4iz2BwHCGoifcBxwpRcatgWs73SuIhDZbP5mHZLxBJKK5/V9RQeZdIB8cSCEXx5kWg5CJviI3cFumTJxXCbWExmGgmoLy6/vTPdUSyIE2i7izp5o99ClLSYeJpGDBXaf3iGshwvT8ZOU+3RQAP8VM1YPVgH0giEeSDGB4l/qoNljm75j5ydQzjHmw==;7f1hjIb8y0aebxFZR1k+Wg=="
 ---

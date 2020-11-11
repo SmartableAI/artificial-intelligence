@@ -89,6 +89,20 @@ related:
         width: 541
         height: 658
         isCached: true
+  - title: "MediaTek announces new Chromebook chips"
+    excerpt: "MediaTek has unveiled its MT8192 and MT8195 chipsets for the next generation of Chromebooks, with the 7nm MT8192 for mainstream devices and the 6nm MT8195 for premium models."
+    publishedDateTime: 2020-11-11T06:48:00Z
+    webUrl: "https://www.digitimes.com/news/a20201111PR202.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 24
+    images:
+      - url: "https://www.digitimes.com/newsshow/20201111PR202_files/1_r.jpg"
+        width: 336
+        height: 224
+        isCached: true
 
 secured: "VTuLgUF3onqch4T2T1OJ3aXoqhYCx6YKd2WYoO1adPq/0nJWJD2YR/waG/T8ZeOf3p0DwWUPiSU51Aq2oIP9SdiPcHkzdPAtsnwhrmhTx8vb8zjre+ECtqq037sj0lMXrFVhtn14ul4zM6sjJeqBXBlsSbsVhIREQSt1BGlgl4OPvjt2uwoF/odsD+4uqmoJsaBSGUq+qLMHayNMh+ebsTgEonaNck3XWpAy3Lu0Anv8YOcR73KHO1rDnuzztMbanqbkrGOsd/Rw6eB3GEC+91UebOlHpHXmJl+QfUSCJfaJt+hGKYgehm+Wx+5UlYoDzEfcFJmpuXjgM/Fo5JRLVZ39q6PbKDjsmmGHRYQmXLSXsmPOvXRvam0CEfmhyf8zRheVe1eAU9G+IzEDHV2bC7hnupIW8FYLTUAp7qfFkBYYsfq0HsIlj16p6gL7nAEvrwfSscdT3AQHF+V0HObudUcLH5CYAdMFL9PS6tW5lG91ArRMZqCoyFYTYqJA9klJVvJLSFbvmZGiUUuC1DouTg==;+LJYjmaNyPdq21y66BHvTw=="
 ---

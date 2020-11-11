@@ -60,9 +60,9 @@ related:
   - title: "Walmart partners with GM's Cruise on self-driving delivery pilot in AZ"
     excerpt: "Walmart Inc is adding Cruise, a majority-owned affiliate of U.S. automaker General Motors Co <GM.N>, to its roster of self-driving startup partners, in a pilot delivery program early next year in Scottsdale,"
     publishedDateTime: 2020-11-10T21:42:00Z
-    webUrl: "https://www.reuters.com/article/us-autonomous-cruise-walmart/walmart-partners-with-gms-cruise-on-self-driving-delivery-pilot-in-az-idUSKBN27Q21F"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q21F"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q21F"
+    webUrl: "https://www.reuters.com/article/autonomous-cruise-walmart-idUSKBN27Q25S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q25S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q25S"
     type: article
     provider:
       name: Reuters
@@ -289,6 +289,15 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Ford: Playing it safe. There is no other way to launch self-driving cars"
+    excerpt: "That same mindset dominates how Ford approaches the introduction of self-driving cars. Just as decades of experience have given us safe and reliable development processes for human-driven cars, we need to draw upon that experience and develop the same processes for self-driving ones."
+    publishedDateTime: 2020-11-11T08:26:00Z
+    webUrl: "https://www.automotiveworld.com/news-releases/ford-playing-it-safe-there-is-no-other-way-to-launch-self-driving-cars/"
+    type: article
+    provider:
+      name: Automotive World
+      domain: automotiveworld.com
+    quality: 3
 
 secured: "knyMRco3vB4EXHxT5I7yHqA9JtQLNMOsK46i/YQw5e7ZDbYE+dbF1GYLUOCMhwBhzFC/g1I5WnYVQ0CnvXg/gWjPZmFNOgqeVRWLU1eg8oaWHbu3X/e0PDd8yZQMIjmLDVaxS0WA6wWWHFv088POsB0C4VOh47OfLYgQY2f2FsocS/UxeeAJHRvABnpgameaUh56Bj30GMJAgTOLg5X3cp6698A4B3cHQXSwpTY91aBGLaGbpVIXKc4CF2vqGX/biWGJs0qhjh5sWvG2CWQjGOO9JfrHe7o0MMyFfzYrxQYUpS9V0fkNxg5Aikn93BQQX+aosKRGOe7BI7KZ7kob0eF5xmPRraZbERSCl1bdCgU=;82PvVBBai7k4g789tPttXA=="
 ---

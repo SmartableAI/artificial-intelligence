@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Professional Fighters League to leverage IBM technologies to innovate next-gen proprietary SmartCage"
+    excerpt: "PFL Teams with Flagship Group Solutions to Deliver Transformative Experiences Using IBM Cloud and Watson Technologies.next"
+    publishedDateTime: 2020-11-11T05:28:00Z
+    webUrl: "https://calvinayre.com/2020/11/11/sports/professional-fighters-league-to-leverage-ibm-technologies-to-innovate-next-gen-proprietary-smartcage/"
+    ampWebUrl: "https://calvinayre.com/2020/11/11/sports/professional-fighters-league-to-leverage-ibm-technologies-to-innovate-next-gen-proprietary-smartcage/amp/"
+    cdnAmpWebUrl: "https://calvinayre-com.cdn.ampproject.org/c/s/calvinayre.com/2020/11/11/sports/professional-fighters-league-to-leverage-ibm-technologies-to-innovate-next-gen-proprietary-smartcage/amp/"
+    type: article
+    provider:
+      name: CalvinAyre
+      domain: calvinayre.com
+    quality: 29
+    images:
+      - url: "https://calvinayre.com/wp-content/uploads/2020/11/professional-fighters-league-to-leverage-ibm-technologies-to-innovate-next-gen-proprietary-smartcage.jpg"
+        width: 500
+        height: 282
+        isCached: true
   - title: "PFL to leverage IBM technologies to innovate next-gen SmartCage"
     excerpt: "The Professional Fighters League (PFL) announced it will be leveraging Flagship’s capabilities to deliver IBM’s suite of advanced cloud and AI products to enhance the league’s delivery of next-gen SmartCage data and analytics,"
     publishedDateTime: 2020-11-10T22:16:00Z

@@ -8,6 +8,7 @@ webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-
 type: article
 quality: 36
 heat: 36
+published: false
 
 provider:
   name: MarketWatch

@@ -7,7 +7,7 @@ originalUrl: "https://www.nationthailand.com/noname/30397710"
 webUrl: "https://www.nationthailand.com/noname/30397710"
 type: article
 quality: 24
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Professional Fighters League to leverage IBM technologies to innovate next-gen proprietary SmartCage"
+    excerpt: "PFL Teams with Flagship Group Solutions to Deliver Transformative Experiences Using IBM Cloud and Watson Technologies.next"
+    publishedDateTime: 2020-11-11T05:28:00Z
+    webUrl: "https://calvinayre.com/2020/11/11/sports/professional-fighters-league-to-leverage-ibm-technologies-to-innovate-next-gen-proprietary-smartcage/"
+    ampWebUrl: "https://calvinayre.com/2020/11/11/sports/professional-fighters-league-to-leverage-ibm-technologies-to-innovate-next-gen-proprietary-smartcage/amp/"
+    cdnAmpWebUrl: "https://calvinayre-com.cdn.ampproject.org/c/s/calvinayre.com/2020/11/11/sports/professional-fighters-league-to-leverage-ibm-technologies-to-innovate-next-gen-proprietary-smartcage/amp/"
+    type: article
+    provider:
+      name: CalvinAyre
+      domain: calvinayre.com
+    quality: 29
+    images:
+      - url: "https://calvinayre.com/wp-content/uploads/2020/11/professional-fighters-league-to-leverage-ibm-technologies-to-innovate-next-gen-proprietary-smartcage.jpg"
+        width: 500
+        height: 282
+        isCached: true
   - title: "Professional Fighters League leverages IBM tech"
     excerpt: "The Professional Fighters League (PFL) will be leveraging Flagship’s capabilities to deliver IBM’s suite of advanced cloud and AI products to enhance the le"
     publishedDateTime: 2020-11-10T16:47:00Z

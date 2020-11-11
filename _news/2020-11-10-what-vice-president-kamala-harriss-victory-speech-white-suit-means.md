@@ -9,7 +9,7 @@ ampWebUrl: "https://www.teenvogue.com/story/vice-president-elect-kamala-harris-c
 cdnAmpWebUrl: "https://www-teenvogue-com.cdn.ampproject.org/c/s/www.teenvogue.com/story/vice-president-elect-kamala-harris-color-white-fashion-intersectionality/amp"
 type: article
 quality: 44
-heat: 54
+heat: 44
 published: false
 
 provider:

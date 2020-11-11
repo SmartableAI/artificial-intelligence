@@ -7,7 +7,7 @@ originalUrl: "https://www.nextgov.com/emerging-tech/2020/11/army-considers-facia
 webUrl: "https://www.nextgov.com/emerging-tech/2020/11/army-considers-facial-recognition-monitor-children-its-care/169921/"
 type: article
 quality: 39
-heat: 49
+heat: 39
 published: false
 
 provider:

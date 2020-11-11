@@ -2,6 +2,49 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2020-10-09-ai-in-fintech-market-2020-status-and-outlook-growth.md",
+      "title": "AI in Fintech Market 2020 Status and Outlook Growth",
+      "excerpt": "AI in Fintech Market Size 2020 Analysis Trends Top Manufacturers Growth Statistics Porters Five Forces and SWOT Analysis Opportunities and Forecast California The qualitative research study by Data Bridge Market Research titled AI in Fintech market size is expected to",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2153314/ai-in-fintech-market-2020-status-and-outlook-growth-challenges",
+      "originalUrl": "https://www.openpr.com/news/2153314/ai-in-fintech-market-2020-status-and-outlook-growth-challenges",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/a/Ta09134345_g.jpg",
+          "width": 800,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2153314/ai-in-fintech-market-2020-status-and-outlook-growth-challenges",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2153314/ai-in-fintech-market-2020-status-and-outlook-growth-challenges",
+      "publishedDateTime": "2020-10-09T00:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals.md",
       "title": "IBM Enters Esports Arena with Activision Blizzard in New Multi-Year Deal as the Presenting Partner of the Overwatch League Grand Finals",
       "excerpt": "IBM's Watson artificial intelligence, and machine learning Through the course of the deal, IBM and the Overwatch League plan to leverage IBM's suite of advanced cloud and AI products.",
@@ -1126,58 +1169,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-think-big-tech-is-getting-broken-up-buy-alphabet-stock.md",
-      "title": "Think Big Tech is Getting Broken Up? Buy Alphabet Stock",
-      "excerpt": "Antitrust actions among corporations, particularly those in the tech industry, have received increased attention recently. Many politicians are explicitly calling for the breakup of some of the biggest tech companies out there.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/10/08/think-big-tech-is-getting-broken-up-buy-alphabet-s/",
-      "originalUrl": "https://www.fool.com/investing/2020/10/08/think-big-tech-is-getting-broken-up-buy-alphabet-s/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F594098%2Fgettyimages-590033270.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/08/think-big-tech-is-getting-broken-up-buy-alphabet-s/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/08/think-big-tech-is-getting-broken-up-buy-alphabet-s/",
-      "publishedDateTime": "2020-10-08T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

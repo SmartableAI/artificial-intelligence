@@ -788,6 +788,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-28-tesla-owner-videos-show-full-self-driving-beta-has-a-long-way-to-go.md",
+      "title": "Tesla Owner Videos Show 'Full Self-Driving' Beta Has a Long Way to Go",
+      "excerpt": "Another day, another reminder that no one actually has a self-driving car, regardless of the misleading names used for some advanced driver assistance systems. Tesla rolled out its \"Full Self ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedrive.com/tech/37282/tesla-owner-videos-show-full-self-driving-beta-has-a-long-way-to-go",
+      "originalUrl": "https://www.thedrive.com/tech/37282/tesla-owner-videos-show-full-self-driving-beta-has-a-long-way-to-go",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.thedrive.com/wp-content/uploads/2020/10/oop_970x546.jpg?quality=85",
+          "width": 1940,
+          "height": 1092,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-27T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Drive",
+        "domain": "thedrive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-apple-buys-self-learning-ai-video-company-to-improve-apps.md",
       "title": "Apple Buys Self-Learning AI Video Company to Improve Apps",
       "excerpt": "Apple Inc. acquired a startup specializing in advanced artificial intelligence and computer vision technology that may help the iPhone maker improve its own AI across a number of apps and services.",
@@ -1164,57 +1207,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-ai-cures-data-driven-clinical-solutions-for-covid-19.md",
-      "title": "AI Cures: data-driven clinical solutions for Covid-19",
-      "excerpt": "The AI Cures Conference: Data-driven Clinical Solutions for Covid-19 described technologies developed in response to the Covid-19 pandemic and new opportunities for AI solutions for clinical management.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2020/ai-cures-data-driven-clinical-solutions-covid-19-1027",
-      "originalUrl": "https://news.mit.edu/2020/ai-cures-data-driven-clinical-solutions-covid-19-1027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202010/AI-Cures-Conference-panel.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

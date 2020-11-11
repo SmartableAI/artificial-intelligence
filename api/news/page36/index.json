@@ -2,6 +2,57 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-10-13-australian-and-new-zealand-scientists-use-ai-to-predict-heart-disease-risk.md",
+      "title": "Australian and New Zealand scientists use AI to predict heart disease risk",
+      "excerpt": "Scientists from the University of Melbourne and University of Otago have jointly developed and trained an artificial intelligence (AI) system to predict a person's risk of cardiovascular disease (CVD) by looking at the retinas of their eyes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/australian-and-new-zealand-scientists-use-ai-to-predict-heart-disease-risk/",
+      "originalUrl": "https://www.zdnet.com/article/australian-and-new-zealand-scientists-use-ai-to-predict-heart-disease-risk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2018/03/21/e73671aa-bc24-416f-8438-c99c8a8c2675/screen-shot-2018-03-21-at-15-44-24.jpg",
+          "width": 1092,
+          "height": 694,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/australian-and-new-zealand-scientists-use-ai-to-predict-heart-disease-risk/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australian-and-new-zealand-scientists-use-ai-to-predict-heart-disease-risk/",
+      "publishedDateTime": "2020-10-12T19:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-the-next-generation-of-artificial-intelligence.md",
       "title": "The Next Generation Of Artificial Intelligence",
       "excerpt": "What will the next generation of artificial intelligence look like? Which novel AI approaches will unlock currently unimaginable possibilities in technology and business? This article highlights three emerging areas within AI that are poised to redefine the field—and society—in the years ahead.",
@@ -1180,49 +1231,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-the-disinfectant-robot-market-is-expected-to-register-a-cagr-of-364-during-the-forecast-period-2020-2025.md",
-      "title": "The disinfectant robot market is expected to register a CAGR of 36.4% during the forecast period (2020-2025",
-      "excerpt": "The disinfectant robot market is expected to register a CAGR of 36.4% during the forecast period (2020-2025), owing to the rising demand for hygiene globally across various sectors. The global Disinfectant Robot Market (henceforth,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/the-disinfectant-robot-market-is-expected-to-register-a-cagr-of-36-4-during-the-forecast-period-2020-2025-1029670262",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-disinfectant-robot-market-is-expected-to-register-a-cagr-of-36-4-during-the-forecast-period-2020-2025-1029670262",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

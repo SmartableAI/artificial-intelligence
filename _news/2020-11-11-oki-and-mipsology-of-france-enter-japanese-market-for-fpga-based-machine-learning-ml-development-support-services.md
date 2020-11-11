@@ -7,7 +7,7 @@ originalUrl: "https://www.financialbuzz.com/oki-and-mipsology-of-france-enter-ja
 webUrl: "https://www.financialbuzz.com/oki-and-mipsology-of-france-enter-japanese-market-for-fpga-based-machine-learning-ml-development-support-services/"
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,22 @@ topics:
   - AI in Finance
   - AI
   - Machine Learning
+
+related:
+  - title: "OKI and Mipsology of France Enter Japanese Market for FPGA-Based Machine Learning (ML) Development Support Services"
+    excerpt: "OKI and Mipsology of France enter Japanese market for FPGA-based machine learning (ML) development support services"
+    publishedDateTime: 2020-11-10T09:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201109005415/en/OKI-and-Mipsology-of-France-Enter-Japanese-Market-for-FPGA-Based-Machine-Learning-ML-Development-Support-Services"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 32
+    images:
+      - url: "https://mms.businesswire.com/media/20201109005415/en/836948/23/OKI.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "DZDDbBzPU+0KjPC3kplBiS30x1184hUhTtOCgBYZeNz4R5JW/gPamIiTgtqEPnaN5OTp+DWrcH5uyJOxyT9ojE5HXJRI0AVBRbay+eEYpGPth1YJl0wydzEqB7qBl+ydbsMsZwNhb8Qa1vM4a3/J+4Fk3oxKYEX2yqOH8xIBh3QDrZDHEJ+4OCQJQ/IS4dobUKr/1580y6I6ryLje2f9g9+XMebRZJkw2vJtUbk3OQoLwF+aNixqkxsgqQW6Kpeu9TAS2AdrpTH5seYWBdAKdVLSZQs7E8RjDka+tSKbrPO6ZdKhkpF5D1f9F74orKWX5ch5s6yYt55ZsP07Hss32cP2QDm0vJAv0Y6JP/OAzpQ=;zX/1vUUj4163tvhmryU/kQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thescottishsun.co.uk/uncategorized/6264966/uk-robot-deli
 cdnAmpWebUrl: "https://www-thescottishsun-co-uk.cdn.ampproject.org/c/s/www.thescottishsun.co.uk/uncategorized/6264966/uk-robot-delivery-van-kar-go-london/amp/"
 type: article
 quality: 49
-heat: 59
+heat: 49
 published: false
 
 provider:
