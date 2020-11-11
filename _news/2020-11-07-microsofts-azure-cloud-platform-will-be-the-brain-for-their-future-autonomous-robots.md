@@ -7,7 +7,7 @@ originalUrl: "https://www.yankodesign.com/2020/11/06/microsofts-azure-cloud-plat
 webUrl: "https://www.yankodesign.com/2020/11/06/microsofts-azure-cloud-platform-will-be-the-brain-for-their-future-autonomous-robots/"
 type: article
 quality: 78
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2019-medical-research-1.jpg"
         width: 620
         height: 360
-        isCached: true
-  - title: "Government leaders share their vision on the next frontier of tech innovation in governance, at the Microsoft Digital Governance Cloud & AI Summit"
-    excerpt: "Cloud and AI are playing a central role in reshaping education ... agriculture, education, logistics, language translation and more. “ Dr. Rajendra Kumar, Additional Secretary, Ministry of Electronics and Information Technology (MeitY), Govt."
-    publishedDateTime: 2020-11-06T10:56:00Z
-    webUrl: "https://news.microsoft.com/en-in/government-leaders-share-their-vision-on-the-next-frontier-of-tech-innovation-in-governance-at-the-microsoft-digital-governance-cloud-ai-summit/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 18
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2020/11/digital-governance-cloud-and-ai-summit-768x430.jpg"
-        width: 768
-        height: 430
         isCached: true
 
 secured: "lEH4u7bCh0bXZ5C6+DZXJl7NyK6zqaK+o3CKFSjkR3SKYlLc6DxsAPtdd/rR2Z3zvfbSpfv68lhoeCIZtzEv28PdPyQx2yxwiTq/8Gfrp6AvO/zE6GE5QPWlrB5pl3Ei5PO46vZ6VSHsFldoLl1nyEFv2X93y8wdC6Iojb6qiI36gIyiObRSqdJ0XCmOOuNTra433iMM4h//sMpaVmB/R8qzl+RrMufWsIZRQZ8FJXuGRqXvEFiH+OezCdhXc8NGK8HBKjHBDanCmnU+q2N42PGHAB3wNIVZtrwcPjYlHcBhwsqcbnry/5HDvqbxiX8eXclByQpLDAZWgXGvGD+VPCsU2Amj2xSNJSz3YSdfrJ5MkkS37QF93prpQuDofEG8G0Yq571A6nNAyybDKz7KvYUBeONtlFFECno5mPMq+RHsPNdEn9yma0NvCRJs707Id3nVzq+TWoBXj9eDTBsql8i0FqSI6fnya5Y1ENWZ9pqo28YMbmCoCTwePaRZNB2oClpXw3zQhvCeVKhKCfL9Ew==;8BpSkTMQnAftJeLOVBt1ag=="

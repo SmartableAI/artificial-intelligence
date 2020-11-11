@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Chip maker NVIDIA signs in-car entertainment system deal with Hyundai Motor"
+    excerpt: "Chip maker NVIDIA Corp on Monday announced that Hyundai Motor Group will use the NVIDIA DRIVE in-vehicle information and entertainment system for all its Hyundai, Kia, and Genesis models from 2022."
+    publishedDateTime: 2020-11-10T03:12:00Z
+    webUrl: "https://www.reuters.com/article/us-nvidia-hyundai-infotainment-idUSKBN27P2XS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P2XS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P2XS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 102
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540606466&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81UC"
+        width: 830
+        height: 545
+        isCached: true
   - title: "Hyundai taps Nvidia for future fleet AI, infotainment services"
     excerpt: "Hyundai has announced that all future Hyundai, Kia, and Genesis vehicles will utilize Nvidia's in-vehicle artificial intelligence (AI) and infotainment platform.  The South Korean automaker said on Monday that the firm's \"entire fleet\" will eventually feature Nvidia's technology."
     publishedDateTime: 2020-11-10T02:49:00Z

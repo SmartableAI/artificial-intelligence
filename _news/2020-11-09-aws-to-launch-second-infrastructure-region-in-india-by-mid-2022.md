@@ -19,35 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "AWS to set up data centre region in Hyderabad, invest Rs 20,761 cr"
-    excerpt: "Amazon Web Services (AWS) on Friday announced setting up of its second data centre region in India in Telangana that will be operational by mid-2022,"
-    publishedDateTime: 2020-11-06T09:31:00Z
-    webUrl: "https://www.thestatesman.com/technology/aws-set-data-centre-region-hyderabad-invest-rs-20761-cr-1502933959.html"
-    ampWebUrl: "https://www.thestatesman.com/technology/aws-set-data-centre-region-hyderabad-invest-rs-20761-cr-1502933959.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/aws-set-data-centre-region-hyderabad-invest-rs-20761-cr-1502933959.html/amp"
+  - title: "India’s New AWS Data Center, Intel’s AI Acquisitions And More In This Week’s Top News"
+    excerpt: "Intel aims to strengthen its ML capabilities with MLOps, dedicated operating systems for ML developers and optimised platforms."
+    publishedDateTime: 2020-11-07T12:33:00Z
+    webUrl: "https://analyticsindiamag.com/india-aws-data-center-intel-ai-latest-news/"
     type: article
     provider:
-      name: The Statesman
-      domain: thestatesman.com
-    quality: 59
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 49
     images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2020/11/AWS_IANS_ED.jpg"
-        width: 1200
-        height: 800
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/11/nov-news.jpg"
+        width: 1600
+        height: 1200
         isCached: true
-  - title: "AWS Announces Plans to Launch a Second Region in India"
-    excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com company, announced expansion of its services to include a second"
-    publishedDateTime: 2020-11-06T16:51:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/aws-announces-plans-to-launch-a-second-region-in-india/"
+  - title: "Intel Acquires Cnvrg.io To Lead The Race In The AI Game"
+    excerpt: "The deal, like most of the deals in the past, is aimed at strengthening its machine learning and AI operations."
+    publishedDateTime: 2020-11-07T10:32:00Z
+    webUrl: "https://analyticsindiamag.com/intel-acquires-cnvrg-io-to-lead-the-race-in-the-ai-game/"
     type: article
     provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 39
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
     images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/market_covid_shutterstock_1658915128-405x228.jpg"
-        width: 405
-        height: 228
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/11/Intel.jpg"
+        width: 716
+        height: 402
         isCached: true
 
 secured: "TAPUY+OUiSBJYuzU5k89fpn23XGpmReybWyi65QpcGA2zoDgMAtmU4uygrVX+J1iOTifpV1LVtCSQnXH4MrwpihSYytrwsB2s5MUkgZ+emdXp60qAZh4YvNZEtmFVt4Z7r9atN2CuEKvzshnifNecCeqDU66KOLdtXFhSfUtRiAasBsS4mt/p0KY6//pFizofWqSurVaexmQnzQclbPGepG8GmMiKVwxovwo27G4ZebSDU9Ua5EIdsiFAPVpdh8/3FgGKk/M9bB7qD/DOEInV9gEtVjncx/pN8jxCdwksoMKGF1lOdKdGtG3TV19nwSX8lupo512XB3Wi87FnPEurg2BLidgdBggyZBEFX3Qlko=;AT3+TZvWxkH4j8nYja9QvQ=="

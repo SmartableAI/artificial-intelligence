@@ -1,32 +1,22 @@
 ---
 category: news
 title: "IBM Advances Hybrid Cloud Software with New Data and Automation Capabilities to Help Companies Speed Digital Transformations"
-excerpt: "PRNewswire/ -- IBM (NYSE: IBM) today announced a series of data and automation updates to its hybrid cloud software portfolio to help companies drive innovation across their expanding environments and accelerate their digital transformations."
-publishedDateTime: 2020-11-10T14:28:00Z
-originalUrl: "https://www.marketwatch.com/press-release/ibm-advances-hybrid-cloud-software-with-new-data-and-automation-capabilities-to-help-companies-speed-digital-transformations-2020-11-10"
-webUrl: "https://www.marketwatch.com/press-release/ibm-advances-hybrid-cloud-software-with-new-data-and-automation-capabilities-to-help-companies-speed-digital-transformations-2020-11-10"
+excerpt: "IBM today announced a series of data and automation updates to its hybrid cloud software portfolio to help companies drive innovation across their expanding environments and accelerate their digital transformations."
+publishedDateTime: 2020-11-10T14:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/ibm-advances-hybrid-cloud-software-with-new-data-and-automation-capabilities-to-help"
+webUrl: "https://www.nasdaq.com/press-release/ibm-advances-hybrid-cloud-software-with-new-data-and-automation-capabilities-to-help"
 type: article
-quality: 27
+quality: 7
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - IBM AI
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "IBM updates Cloud Paks for data, automation with RPA tools, industry accelerators"
@@ -60,6 +50,6 @@ related:
         height: 512
         isCached: true
 
-secured: "BIBc0hdd08q+DM8NwVnBcmH7BTgTBJPjHRxeop/q1hN44Ifs/GmgCWIbBaYOP2Wlb91svn+e+ZRyeeGyCNXgTMwX8alqbYpMHveKUyb46EG32XT7WdODPng7JvwnBbjOOb0REvxUK4RaLXPUL6pMXvalxlQzorN1lK6OHFQp0kt8D7Ev2mvmHcqvID3ydLE4Jgbmyst8oygZeXPpc8nZd2iNcN8xdaF7UE7yH/520Jjpfa4MtoeKq5fX7YFf8ySCDTWHRnZbMfSJZnOkvUDJ8h1XTUKy/jJrRVRjS/Ysc9/3A9iA2d8XmIoJe4AvYUrDDM+O7ccjFiaI45eUbOcc1Sn+aUX/gYQZojScM6pFi98=;zboFhIGHVFYg5UqdZGjDpA=="
+secured: "sS1D6LeiCR6swJXsJJx66Sd0Ef/1fh4Vh8tdNETwpj3ic73xjKZ2IN8HlDowNY3HduJfF3+Alb59xVptq8qVuzwyddiulTxi8WeNtX7xeT/Tw2uVBDVQSErRpBCgRwYkg2Qu2t731N7kBTogOnyKLIRBswj/xzD9JebUiNyW+iAY4OkPTrz9h2uRjSWKc8UmMO8VEr1Z0OOToBc25Z5w7fb7ercbMHy1216srG1CGeMG+E2o9NtOfD8Uh/QfGne8R81j7jDBFSbkt3SSPthkrWu8mSqQlC3zRmgO3c517ykl6JByvIGd+Q7avCH39yFCLF9hpL3Y8wmXyc71P6dIFhw5keoH2mrwQsOqC3jB8IM=;lKwsHQVUyz+L2HwBId/nvQ=="
 ---
 

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) in Healthcare Market to Reach US$ 26.5 Billion by 2025, Globally |CAGR: 41%| UnivDatos Market Insights"
-excerpt: "Artificial Intelligence (AI) in healthcare market is expected to reach the market value of US$ 26.6 billion by 2025, growing at a CAGR of 41% during the forecast period (2018-2025). Market ..."
-publishedDateTime: 2020-10-27T15:16:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-1029728132"
-webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-1029728132"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-1029728132"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-1029728132"
+excerpt: "NOIDA, India, Oct. 27, 2020 /PRNewswire/ -- UnivDatos Market Insights released a report titled \"Artificial Intelligence (AI) in Healthcare Market - by Technology (Machine Learning, Deep Learning ..."
+publishedDateTime: 2020-10-27T16:05:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2020-10/51068112-artificial-intelligence-ai-in-healthcare-market-to-reach-us-dollar-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2020-10/51068112-artificial-intelligence-ai-in-healthcare-market-to-reach-us-dollar-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-008.htm"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "R1CebFASf6tcg7XzlhSJi/6EICYR4aQjO4gO63tIkaOGZV41RypQydUtgjOHGDzIGcHvqTmLiin8Tp34pEeaTYYux9HBY7GkykJ8T4Q5p0ewPJ6IoUx6gmdKxpHoPUXwNz5+ASE/+wlnTIp95PUfvbopiPnKLp1HkQzL4KCeEpwsVqXLjHPdxXnX5BgcUrFVX03Zsu7oEEg+Y1PcQ1TGfdFz7cs91K9RRbuWEcsFnLXh5YeVDQHfaI1LJBHGpE6RVufXBjl1yM/bm6aF+Uxdus/cAo5Fs6nIKRMFOW+wl113Yk4ndOj3NIsC47km53yMZ9qVs2XEfCkUWNPABQxlQ7yw0zcNmYT81DpNt0/xPOA=;fd8YuAZlGQy021vlNSxXfQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1225049/UnivDatos_Logo.jpg"
+    width: 400
+    height: 225
+    isCached: true
+
+secured: "eB9YW04yDVAdFQBER9t6waqCMATul89p1cZG6X900E4jlm+npO3inO2TU4tA3f44uCppMwdvsw+1GEM/b/gjBbQ0AL/U2Cp03QBtzD02G7aOSw9NNttaXJYiLPxPA45Y56veS0/GNwizILPAEqXr//ST7T2hH8MP/OKKOwW+9FZUwIqthJ7DkOT3+2dKgyRATsy8CUbIYDFb1g6+8XqgFmTayg6Bob0kU8OzrNU+OtKmoDc/BIUtQEjMisCoGd/IAbJtA3u2psoQm06PcHGehWNfZUMt2IWfQLShdAv7tnvbT4M372kFmQqaBwQukAs5Il1ohaDNfbPR5vdAT/5GWLy4iPj8emn54+OXdc0Ufhc=;NFY0btnmeMTtoVQwXzfsCQ=="
 ---
 

@@ -41,20 +41,6 @@ related:
         width: 510
         height: 314
         isCached: true
-  - title: "Government leaders share their vision on the next frontier of tech innovation in governance, at the Microsoft Digital Governance Cloud & AI Summit"
-    excerpt: "Cloud and AI are playing a central role in reshaping education ... agriculture, education, logistics, language translation and more. “ Dr. Rajendra Kumar, Additional Secretary, Ministry of Electronics and Information Technology (MeitY), Govt."
-    publishedDateTime: 2020-11-06T10:56:00Z
-    webUrl: "https://news.microsoft.com/en-in/government-leaders-share-their-vision-on-the-next-frontier-of-tech-innovation-in-governance-at-the-microsoft-digital-governance-cloud-ai-summit/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 18
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2020/11/digital-governance-cloud-and-ai-summit-768x430.jpg"
-        width: 768
-        height: 430
-        isCached: true
 
 secured: "E6TVAfnSS+NHds0NnVBukJSiEurofwamUEsm/eGdG5jDlpY5IIPvFxQn46HHJgOTsy6SMAgBOoLYtUY9pPfBhb7hZRC4sVO975rBKd87I2j59zjsqJduD83iI8qHYVLjUuH4EiX/qmEjtmnE3EeWxC0sJgG7rmXWwPfMF/plj9kLQ2j3Oi8SqILfCe7eS5d4RYvTOrSrQBA32Z4b55InoxctOTa50IvlxDe6L8EYTgSajJt3j4a9iNPOeKMMmySnC/sp6PO19g6oTr8hN2a+TBYQfJiHlg5+OVnFwFl40O2trKIdyU1x8wuiq1JoiMkFx4T8zfaisIgdbbcSr41zFB32B+KvMGV3baxSzOQo4kfwJwM6bkQNkxguSTc5xPVsEKnWHcMlsDfh/eZUvwxY1CLZ2FGZVdQ1pYpP9Eu8jeENUt160FHqPFAPRbQxTvYxj+7B7N1/yLhqjoZXpFti+anssEEL886JLC1nCuKHMHC6wPB6fHxscX3vvR1OsSurtV/ZjkypWgLbbanHwW1WYA==;QHVxwnTMXmMidEoLMjuvWw=="
 ---

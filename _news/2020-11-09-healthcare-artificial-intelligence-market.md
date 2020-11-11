@@ -38,7 +38,7 @@ related:
     provider:
       name: Your Story
       domain: yourstory.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://images.yourstory.com/cs/2/3fb20ae02dc911e9af58c17e6cc3d915/Imagenyuh-1604738778996.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
         width: 800

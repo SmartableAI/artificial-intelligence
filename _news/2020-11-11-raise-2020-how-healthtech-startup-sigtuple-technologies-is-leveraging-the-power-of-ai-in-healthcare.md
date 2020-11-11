@@ -8,7 +8,7 @@ webUrl: "https://yourstory.com/2020/11/healthtech-startup-sigtuple-technologies-
 ampWebUrl: "https://yourstory.com/2020/11/healthtech-startup-sigtuple-technologies-accel-chiratae-ventures/amp"
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/healthtech-startup-sigtuple-technologies-accel-chiratae-ventures/amp"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://images.yourstory.com/cs/2/3fb20ae02dc911e9af58c17e6cc3d915/Imagenyuh-1604738778996.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
@@ -86,6 +87,6 @@ related:
         height: 350
         isCached: true
 
-secured: "9UMov2T8k+IpKgnWX4hGbAAVbHYdUm8WM8YXrK6ZLueP9egBMJ/ksBYM7GhRAHtbWfXl2pvTYoeJiDFuaPtndq1LOP3i94+e72SiS87yx43epRhz6I/J0X/IhPFKTqQNLxiG4RNYfgE76qqMTLfBGSKHvi0ps6z3KorumT3a46GTeRg5JHDOXZKsTzbVEOdDCBcb9/gg614F+aoIVwwH5EdPUrqG105CY/rynlLHOWAGf1ddlMIf5KmLKJDN6gDfBZ1Y+Wm3Q6GE+kj+RqWxkOsn/eQDtsrzFTcvtSUiPHwCOXl6jCA+hypfxpQbHXz4XFx3cGuVvXHcL4s1tEMmnD2j4mW55ApcUqQ6bMKJ6Zk=;E8Jqs+6aM75bPMnctJCt2A=="
+secured: "Ohrtz64fTvwNxoq2YmX2Fl3gcKTRns4aeBHMOtDF6AUipnNP2HJTgcY4hsAf939LvvbUtoojjOMuyxxVGgJe6TdKzZEzOZERj4Ou6dFuE3R6P/mFbeSIzB3a1k6FiLcuSI2t+aoxge8tIt5RbbCeWv+Nd2erJjIGRQO+38Ap5NzKQs6DoQe+g/ZkHerGFKcCWSSu9afVGdxoc3z+w2A7KrhWPLeiEg5n90fSCVpTl8xaeWjVX8dmlsVAedSwx5aa3jCPsdUBbzVj2RX3jvPFc2fjyZxr29SlX8pKYE7znoTZS6ict5hnyRSc+49yVsgbbTjD4Lgm7Y1h9HL3wrtgmryOFaBFxpAFhCsEOojiMBrxLpgDUZi2a+l4NOMdnerw4mwfHvoCU9mlDXwxmSYmd5vqOtjMmNcZTLqPbDSsna9cxregTeCQxGTdr8lo8fwgDfuxg6trwB8I4MsSuFKcpxJAZrEG7YP+Qf97htsPfrSypfj5m4jDB+fV0SUK/nUX2CVeV8W05nRjd/lehm66/w==;RkPRLbwNM23FZOaRntxBbA=="
 ---
 

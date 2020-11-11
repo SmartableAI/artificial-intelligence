@@ -1,0 +1,49 @@
+---
+category: news
+title: "Artificial olfactory system mimics the mammalian nose to assess meat freshness"
+excerpt: "A team of scientists led by Nanyang Technological University, Singapore has invented an artificial olfactory system that mimics the mammalian nose to assess the freshness of meat accurately."
+publishedDateTime: 2020-11-11T01:47:00Z
+originalUrl: "https://www.news-medical.net/news/20201110/Artificial-olfactory-system-mimics-the-mammalian-nose-to-assess-meat-freshness.aspx"
+webUrl: "https://www.news-medical.net/news/20201110/Artificial-olfactory-system-mimics-the-mammalian-nose-to-assess-meat-freshness.aspx"
+ampWebUrl: "https://www.news-medical.net/amp/news/20201110/Artificial-olfactory-system-mimics-the-mammalian-nose-to-assess-meat-freshness.aspx"
+cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201110/Artificial-olfactory-system-mimics-the-mammalian-nose-to-assess-meat-freshness.aspx"
+type: article
+quality: 40
+heat: -1
+published: false
+
+provider:
+  name: News Medical
+  domain: news-medical.net
+
+topics:
+  - Machine Learning
+  - AI
+
+images:
+  - url: "https://www.news-medical.net/image.axd?picture=2017%2f2%2fCrude_meat_on_a_white_background_-_Domnitsky_3710a2987d204d4eb5a138cf40b1b9bc-620x480.jpg"
+    width: 620
+    height: 480
+    isCached: true
+
+related:
+  - title: "AI-powered 'electronic nose' to sniff out meat freshness"
+    excerpt: "A team of scientists led by Nanyang Technological University, Singapore (NTU Singapore) has invented an artificial olfactory system that mimics the mammalian nose to assess the freshness of meat accurately."
+    publishedDateTime: 2020-11-10T12:22:00Z
+    webUrl: "https://phys.org/news/2020-11-ai-powered-electronic-nose-meat-freshness.html"
+    ampWebUrl: "https://phys.org/news/2020-11-ai-powered-electronic-nose-meat-freshness.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-11-ai-powered-electronic-nose-meat-freshness.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/aipoweredele.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
+
+secured: "zJ4ztNkw1Eo8q913Oi/KQPSwGuC95sFoEkHn9sUMQHhoeNYcZMv7IPwvwgiRtstZWu1tMUKhb7Zb5EJ0mo/WvI+yWpeQlVNZ5tmJTUGYLgkFGNmfhee/H231M++8a87xyvUu+npRV3jxa3d+46+LCDs1Hvgh10id3n7HlE6r7UrxIB5IBA4Fzgrj9nh8HF0JGh8V//HHnfpKDsvPU3Z2YY6GpXQJYIVfIfDqDloZFCchCNWDIEHK+CEmeKhn75xx4gtVnjk9qRq8rMRI2Fw6txl8GsOg+6pb9v967NTg7TH6TLGWgFt59xPpDnmNM3LlwegymLb66PnREw0n8qUETiV+ZwVAGuxUhz6TDUhny2s=;57LrHvAcW+wJ7L97zcn1KQ=="
+---
+

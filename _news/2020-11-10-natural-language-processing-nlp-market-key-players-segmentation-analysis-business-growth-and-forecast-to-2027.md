@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-key-players-segmentation-analysis-business-growth-and-forecast-to-2027-2020-11-10"
 type: article
 quality: 63
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Watson Services Market Evolving Technology, Segmentation and Industry Analysis 2020 to 2027"
-    excerpt: "Selbyville, Delaware As per the research report titled 'IBM Watson Services Market Share, Size, Trends, Industry Analysis Report, By Service Type; By End Use ; By Regions; Segment Forecast, 2020 -2027' available with Market Study Report LLC,"
-    publishedDateTime: 2020-11-06T10:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ibm-watson-services-market-evolving-technology-segmentation-and-industry-analysis-2020-to-2027-2020-11-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Healthcare Information Technology Market mechanics Analysis: Global Industry Trends, Share, Key Players, Forecast to 2025"
     excerpt: "Selbyville, Delaware This Global Healthcare Information Technology report studies the industry based on one or"
     publishedDateTime: 2020-11-09T18:02:00Z

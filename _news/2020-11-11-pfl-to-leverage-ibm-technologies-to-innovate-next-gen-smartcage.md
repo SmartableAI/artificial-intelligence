@@ -3,8 +3,8 @@ category: news
 title: "PFL to leverage IBM technologies to innovate next-gen SmartCage"
 excerpt: "The Professional Fighters League (PFL) announced it will be leveraging Flagship’s capabilities to deliver IBM’s suite of advanced cloud and AI products to enhance the league’s delivery of next-gen SmartCage data and analytics,"
 publishedDateTime: 2020-11-10T22:16:00Z
-originalUrl: "https://www.nationthailand.com/sport/30397710"
-webUrl: "https://www.nationthailand.com/sport/30397710"
+originalUrl: "https://www.nationthailand.com/noname/30397710"
+webUrl: "https://www.nationthailand.com/noname/30397710"
 type: article
 quality: 24
 heat: 24
@@ -35,6 +35,6 @@ related:
       domain: advanced-television.com
     quality: 4
 
-secured: "xw7R8N02DzvZClCgdoaaDmFuLfnKRQ5Kg21JscwhQLcGDFBezhjKj/K6MBz5gPrk2utTCnNwG5JJgiclEj9s08wFVsOgPo9QNZf06nXxHIEQyyT9nQzG4XUsyehaLCx3MA7MG7cLk5ZS3AmH1Oz46+MRK8YcXMZov+ycDlZvrmPYnvzQPsbw/QHI3T09if6gCOKPfErR9PXRMs/peFlSBwBEvZuZxONWtZ6oTY1z6TEaaTQbTiYKcFfo6+RAX6gfWRHnsFnEN7YP+pjR1jcXmbhi8NQGt8sECzalI9e+GblGuOpVYgw2zCC4bRmX2ec4rj48RmHXjDdMQsVzMcVVCCJ6k1OJxR+hFgU5l6CDnmNuI0wkgSiDmk40CuIcj+rWnzAZTtzLdCLRhFTki8F/4e4uqBGQeF53mi7hIZHFhEOrG/J6q6+CshFnKZAPUrLOlprt419QkziF3dT+LI+VG6kdDuZR/OPceUfYXL8ndO4/5knydkJm/RlQ2cpyYHpGtCY0im33JHHv5cu127TY7w==;rsBgVv3aRoCm13xtN3KKxg=="
+secured: "XAV0rndHWUoIMJuPskMgmJQ5GcZqEq/mk4wz1LfaWtPmOxYbk/QS1UaUj/MjJMiXfZoMSEln0AdcA8Qi9zjkCsAIMofKlPXDjDtE2ui6aFAzZ3a9WNmiy7uMcy6l2ioEc4IKbex+OdUAw7rJhM/8oUP4Gc1Hvbu/vItrD6PkVT82uOoFNeDtN0vdXi/B+xZ07QTQN9HR7JOM7qgNS9JIq7ddTY6c1TEd6yXuCwpS7gme4zQhekcWiL5NjFnL6UdKseBdNzSURoOn3rLa8HmFO1cFwlaUxQDmjuHfKzTr2PDUsTdLg/OKc1VWCZfEogZtIq+x6aqa1W12DIOSGNsv05nEkw2O1S14GpIefK/uoyc=;N4JsjEJZP12yudsjeReQhg=="
 ---
 

@@ -2,9 +2,9 @@
 category: news
 title: "Face for sale: Leaks and lawsuits blight Russia facial recognition"
 excerpt: "When Anna Kuznetsova saw an ad offering access to Moscow's face recognition cameras, all she had to do was pay 16,000 roubles ($200) and send a photo of the person she wanted spying on."
-publishedDateTime: 2020-11-09T10:29:00Z
-originalUrl: "https://www.reuters.com/article/russia-privacy-lawsuit/feature-face-for-sale-leaks-and-lawsuits-blight-russia-facial-recognition-idUSL8N2HQ44M"
-webUrl: "https://www.reuters.com/article/russia-privacy-lawsuit/feature-face-for-sale-leaks-and-lawsuits-blight-russia-facial-recognition-idUSL8N2HQ44M"
+publishedDateTime: 2020-11-09T15:05:00Z
+originalUrl: "https://www.reuters.com/article/us-russia-privacy-lawsuit-feature-trfn/face-for-sale-leaks-and-lawsuits-blight-russia-facial-recognition-idUSKBN27P10U"
+webUrl: "https://www.reuters.com/article/us-russia-privacy-lawsuit-feature-trfn/face-for-sale-leaks-and-lawsuits-blight-russia-facial-recognition-idUSKBN27P10U"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P10U"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P10U"
 type: article
@@ -54,6 +54,6 @@ related:
         height: 733
         isCached: true
 
-secured: "vZ1F973TmTXQalsLtcUwuF6heR3LObzP2MysTNVAyQkqvXhfV0Vf4joU9GbvQ5G+zVszyDuY1upa48Pd4cAaSrd6+khWGsYK8XK941w7suytBftwlreRAru2xVaMOAhRjQI1YxWsEHPY5HN3FnskcgRn92l7/ojRbZMez4o7oQWI/TlZZyCZLk7dqd+EXmrG2Q3mGf0AkLDQt4Li8bVs/YCMLPApGqaewxCuM6sNDTDu8OkdlB25IFPYYyOCu9vCaEjOvRTNfzWdxFMgLU8zJw1kiujGqeGP52vnnVISbtzP9SwBAPItc2hJ3qDJ/51FgDIDsqiTUd5n6/j+qmERXY959uveqlHS0y+iQ4zAa3I=;xGpEc8aalUn40SccVWK/4g=="
+secured: "ftNC06UQw550PTjl/vLBc8SzquShjt/nhDMIx9A3RDptlNIC8Alqpgk/Op0F0se+ZtmgNVzg1XNXhvL/mCo1yL+1tQ3BMXlEniGX39HJc7oG+Z28kHhuGdp3BNfJ0/UhGZnoGFWw7sjBL6t6ZSDRsy9edZ6DzRsHXJRR7i8qu49eaa7N/H435OoNYDJkN3KUqHaMIRM1qZ6z0veIT+3WhCsiS28mUeze8sTiRKYCRO8bMuOa8tpCN1969atPf58dICOAC8zMz5K8JFtL+aCjfuiHPHGA2GP+HSoP9ilX0zicivtS8JabsZZWy5YGHjxyKLFZNJB9yJcjMX2zo1VQ1gu4LkJXw7bSsxnII4gWtg4=;zv5bMXCdUU7DXL80N80pgg=="
 ---
 

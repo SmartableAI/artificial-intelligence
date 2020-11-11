@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/smarsh-to-acquire-artificial-in
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/smarsh-to-acquire-artificial-intelligence-company-digital-reasoning-51605021943"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
         width: 480
         height: 270
+        isCached: true
+  - title: "Fintech Company Smarsh Acquires Digital Reasoning"
+    excerpt: "Smarsh just announced they have acquired Digital Reasoning, a firm we have long tracked in our disruptive technology directory. Digital Reasoning are a leader in making sense of data, including […]"
+    publishedDateTime: 2020-11-11T01:23:00Z
+    webUrl: "https://ctovision.com/fintech-company-smarsh-acquires-digital-reasoning/"
+    type: article
+    provider:
+      name: ctovision.com
+      domain: ctovision.com
+    quality: 24
+    images:
+      - url: "https://ctovision.com/wp-content/uploads/digital-reasoning.jpg"
+        width: 780
+        height: 520
         isCached: true
   - title: "Smarsh Acquires Digital Reasoning"
     excerpt: "Smarsh's acquisition of Digital Reasoning Smarsh brings AI to electronic communications archiving and supervision."

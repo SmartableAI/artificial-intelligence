@@ -40,21 +40,21 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "How Emerging Demands Of AI-Powered Solutions Help Gain Momentum Of Businesses"
-    excerpt: "The AI market is witnessing a spur of growth owing to the adoption of big data and cloud-based applications, growing investment by tech leaders, and wide applicability and benefits of these AI-led sol"
-    publishedDateTime: 2020-11-06T09:40:00Z
-    webUrl: "https://www.entrepreneur.com/article/359159"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/359159"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359159"
+  - title: "3 Ways Conversational AI Gives Your Organization A Competitive Advantage"
+    excerpt: "Contact centers are moving to the strategic heart of the business. Here's how the latest advances in conversational AI can help improve CSAT without increasing operational costs, plus a look how leading organizations are already seeing success with Google Cloud CCAI."
+    publishedDateTime: 2020-11-11T01:02:00Z
+    webUrl: "https://www.forbes.com/sites/googlecloud/2020/11/10/3-ways-conversational-ai-gives-your-organization-a-competitive-advantage/"
+    ampWebUrl: "https://www.forbes.com/sites/googlecloud/2020/11/10/3-ways-conversational-ai-gives-your-organization-a-competitive-advantage/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2020/11/10/3-ways-conversational-ai-gives-your-organization-a-competitive-advantage/amp/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 84
+      name: Forbes
+      domain: forbes.com
+    quality: 88
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1604655612-artificial-intelligence-3382507-19202.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fab1e5eb57f27c29d950d15%2F0x0.jpg"
+        width: 1199
+        height: 756
         isCached: true
   - title: "Five Ways How Artificial Intelligence Will Transform Businesses in 2021"
     excerpt: "Artificial Intelligence, once a buzzword in the digital world, has become a part of our everyday life. From Google Assistant, Siri, Alexa to Uber and Ola, several AI-enabled services are available today that make our lives easier."

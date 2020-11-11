@@ -62,9 +62,9 @@ related:
   - title: "Walmart partners with GM's Cruise on self-driving delivery pilot in AZ"
     excerpt: "Walmart Inc is adding Cruise, a majority-owned affiliate of U.S. automaker General Motors Co <GM.N>, to its roster of self-driving startup partners, in a pilot delivery program early next year in Scottsdale,"
     publishedDateTime: 2020-11-10T21:42:00Z
-    webUrl: "https://www.reuters.com/article/autonomous-cruise-walmart-idUSKBN27Q25S"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q25S"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q25S"
+    webUrl: "https://www.reuters.com/article/us-autonomous-cruise-walmart/walmart-partners-with-gms-cruise-on-self-driving-delivery-pilot-in-az-idUSKBN27Q21F"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q21F"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q21F"
     type: article
     provider:
       name: Reuters
@@ -106,6 +106,22 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/03PN0mWV278CIW8clSXdlaW-1.1605047430.fit_lim.size_1200x630.png"
         width: 920
         height: 518
+        isCached: true
+  - title: "Walmart will test Cruise self-driving electric car deliveries in 2021"
+    excerpt: "Walmart has tapped General Motors subsidiary Cruise for a new pilot test that’ll involve delivering goods to customers using self-driving electric vehicles. The autonomous EV deliveries will"
+    publishedDateTime: 2020-11-10T23:51:00Z
+    webUrl: "https://www.slashgear.com/walmart-will-test-cruise-self-driving-electric-car-deliveries-in-2021-10646715/"
+    ampWebUrl: "https://www.slashgear.com/walmart-will-test-cruise-self-driving-electric-car-deliveries-in-2021-10646715/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/walmart-will-test-cruise-self-driving-electric-car-deliveries-in-2021-10646715/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 74
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/11/walmart_cruise_EV_main.jpg"
+        width: 1426
+        height: 800
         isCached: true
   - title: "Want Speedy Delivery? Walmart Is Revving Things Up With Self-Driving Cars"
     excerpt: "Walmart today said it will be piloting delivery via all-electric self-driving cars with Cruise, a General Motors majority-owned company."
@@ -171,6 +187,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Walmart, GM to test delivery with self-driving cars in Scottsdale"
+    excerpt: "Walmart is teaming up with the General Motors' autonomous vehicle unit to test driverless delivery in Arizona starting early next year."
+    publishedDateTime: 2020-11-11T01:05:00Z
+    webUrl: "https://ktar.com/story/3689937/walmart-gm-to-test-delivery-with-self-driving-cars-in-scottsdale/"
+    ampWebUrl: "https://ktar.com/story/3689937/walmart-gm-to-test-delivery-with-self-driving-cars-in-scottsdale/amp/"
+    cdnAmpWebUrl: "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/3689937/walmart-gm-to-test-delivery-with-self-driving-cars-in-scottsdale/amp/"
+    type: article
+    provider:
+      name: KTAR News
+      domain: ktar.com
+    quality: 44
+    images:
+      - url: "https://ktar.com/wp-content/uploads/2020/11/walmart-driverless.jpg"
+        width: 620
+        height: 370
+        isCached: true
   - title: "Walmart partners with GM’s Cruise to test self-driving car deliveries"
     excerpt: "Walmart is adding Cruise, a majority-owned affiliate of General Motors, to its roster of self-driving startup partners, in a pilot delivery program early next year in Scottsdale, Ariz.,"
     publishedDateTime: 2020-11-10T20:57:00Z
@@ -186,6 +218,20 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/walmart-gm-delivery.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Walmart & Cruise with Self-Driving will Deliver in AZ"
+    excerpt: "Walmart is cruising over to Scottsdale, Arizona, to rev up a new pilot with self-driving car company, Cruise. What’s unique about Cruise is they’re the only self-driving car company to operate an"
+    publishedDateTime: 2020-11-11T01:22:00Z
+    webUrl: "https://www.autoconnectedcar.com/2020/11/walmart-cruise-with-self-driving-will-deliver-in-az/"
+    type: article
+    provider:
+      name: autoconnectedcar.com
+      domain: autoconnectedcar.com
+    quality: 24
+    images:
+      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2020/11/cruisewalmart.jpg"
+        width: 408
+        height: 256
         isCached: true
   - title: "Walmart to pilot all-electric self-driving delivery in 2021"
     excerpt: "Walmart will launch a pilot in Scottsdale, Ariz., with self-driving car company Cruise to operate an entire fleet of all-electric delivery vehicles powered with 100% renewable energy. The project will support the retail giant’s initiative to reach zero emissions by 2040."

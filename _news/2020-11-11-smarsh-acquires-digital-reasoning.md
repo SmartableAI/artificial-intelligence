@@ -69,6 +69,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Fintech Company Smarsh Acquires Digital Reasoning"
+    excerpt: "Smarsh just announced they have acquired Digital Reasoning, a firm we have long tracked in our disruptive technology directory. Digital Reasoning are a leader in making sense of data, including […]"
+    publishedDateTime: 2020-11-11T01:23:00Z
+    webUrl: "https://ctovision.com/fintech-company-smarsh-acquires-digital-reasoning/"
+    type: article
+    provider:
+      name: ctovision.com
+      domain: ctovision.com
+    quality: 24
+    images:
+      - url: "https://ctovision.com/wp-content/uploads/digital-reasoning.jpg"
+        width: 780
+        height: 520
+        isCached: true
 
 secured: "+KUgNh803S7tuFn8rCYzD4nlE5zJH5hpFva+cqdJDWAulav99LVYhetIJDZ6MYKhQkzqxV0TOrGOwfw8fvRHnVEowya9fYEDbNFx4AIfRROg1tDJJf45a7xJ8IW+FclO2B8PeHRbXSHDQwFMwVyjWD6T6dHJ399w+yxjJnBGdlfwmzf0Oczau16pRAu4XvqFDU3z1U79ZUlcNKqEjf+Z9rwXYmTF6eQJiq/EyHhv5zpabQjLO4rg9wMBikC3inyDOuxxtLem/e8O+zVVNZe4x+Jrqz7P4Uf2ZeMBoYOu7gUJ7MD1PgXQVcQwkkBn+jwJa1xxJp/EWxci0/ZCYk+QqQ2s8uCaFIbYegsqfviThro=;nO3TZaGxq+m/bC6Is4TEvA=="
 ---

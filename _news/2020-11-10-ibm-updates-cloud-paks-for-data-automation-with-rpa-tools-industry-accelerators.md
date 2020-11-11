@@ -46,19 +46,14 @@ related:
         height: 512
         isCached: true
   - title: "IBM Advances Hybrid Cloud Software with New Data and Automation Capabilities to Help Companies Speed Digital Transformations"
-    excerpt: "PRNewswire/ -- IBM (NYSE: IBM) today announced a series of data and automation updates to its hybrid cloud software portfolio to help companies drive innovation across their expanding environments and accelerate their digital transformations."
-    publishedDateTime: 2020-11-10T14:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ibm-advances-hybrid-cloud-software-with-new-data-and-automation-capabilities-to-help-companies-speed-digital-transformations-2020-11-10"
+    excerpt: "IBM today announced a series of data and automation updates to its hybrid cloud software portfolio to help companies drive innovation across their expanding environments and accelerate their digital transformations."
+    publishedDateTime: 2020-11-10T14:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/ibm-advances-hybrid-cloud-software-with-new-data-and-automation-capabilities-to-help"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 7
 
 secured: "M2XjwXqdlgqn2BkEI5p6EptEd1ajB1hlio+ahhHlYSG8cCsTFnRaUGF6VuWdnyrB1xPgSmVkV3sgRVubDO6Jw+7Qroua0ThWAf80dzco5ZIMP/bcwhFru0tDoxG4u8v3Skql81EVBUCBo2bkKM7PkuO105+eQZ7pVZmmGGNLeX6yxBt6klRXQR0aaKsqcKx7Rifpzak8oiW9DjOsNdrH71ITU07mYufaccEmxOz9ts6Kjm6Fi7EJLH0aMyV4KchF8r7wA59l8k41/xWxx1bfa3fUCS++1wLyyHNoSP4MzYmNqHVRdQKBrcAuPc1rWbyN2yLyBCAEekquin6+cLNLuw3Jtr41695BuSbnFmk+hBiLCN3Y9FWvPrdzJqn805gE/PUk+N0hGys3IvhrznBW0VtjoxdsjVg0tVOdbprZ4NTr9OCpXE2xh90kYIVTh2CU024IDOrAB0u8f5DtMeegokpBEo6sNGNAAIDmjGppzFaOaa7xxwsqdw6HVlrzsK8yb4ZsY0Y0jfrnxjaQLR5MFw==;ugsDXkz/rw5b6446WpCEKw=="
 ---
