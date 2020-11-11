@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "casetext"
   url: "https://twitter.com/casetext"
-  followers: 5287
+  followers: 5289
 
 size: 11-50 employees
 yearFounded: 2013
