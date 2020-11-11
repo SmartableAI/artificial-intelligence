@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/junwu1/2020/11/06/ai-is-changing-the-ga
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/11/06/ai-is-changing-the-game-during-the-2020-election-cycle/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: Forbes
@@ -30,35 +30,33 @@ images:
     isCached: true
 
 related:
-  - title: "How AI predictions fared against pollsters in the 2020 U.S. election"
-    excerpt: "A report from the American Association for Public Opinion Research ... tweets and Facebook messages. But in the aftermath of the 2020 election, it’s still unclear whether AI proved more or ..."
-    publishedDateTime: 2020-11-06T14:31:00Z
-    webUrl: "https://venturebeat.com/2020/11/06/how-ai-predictions-fared-against-pollsters-in-the-2020-u-s-election/"
-    ampWebUrl: "https://venturebeat.com/2020/11/06/how-ai-predictions-fared-against-pollsters-in-the-2020-u-s-election/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/06/how-ai-predictions-fared-against-pollsters-in-the-2020-u-s-election/amp/"
+  - title: "AI will be the overall answer for the most challenging problems of our time"
+    excerpt: "As artificial intelligence is evolving and the fear of machines replacing humans growing, there’s a hot debate on whether artificial intelligence and machines can be friends of humans."
+    publishedDateTime: 2020-11-07T05:25:00Z
+    webUrl: "https://www.analyticsinsight.net/can-artificial-intelligence-be-friends-of-humans/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 189
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 37
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/11/GettyImages-1283078276.jpg?w=1200&strip=all"
-        width: 1024
-        height: 683
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Artificial-Intelligence-9.jpg"
+        width: 900
+        height: 500
         isCached: true
-  - title: "V.I.P. Auctions introduces artificial intelligence inspection technology"
-    excerpt: "V.I.P. Auctions said on Tuesday that with its new camera-based artificial-intelligence technology, it will be one of the first vehicle auction companies to use automated vehicle-inspection systems to evaluate tires and underbody components for used-vehicle inspection."
-    publishedDateTime: 2020-11-10T18:11:00Z
-    webUrl: "https://www.autoremarketing.com/technology/vip-auctions-introduces-artificial-intelligence-inspection-technology"
+  - title: "Big data and artificial intelligence software is impacting your shopping experience"
+    excerpt: "In 2012 a writer for the New York Times named Charles Duhigg wanted to explore how retailers were using the data they had begun collecting involving customer purchases. What he found was stunning for the times,"
+    publishedDateTime: 2020-11-07T08:03:00Z
+    webUrl: "https://www.mininggazette.com/opinion/columns/2020/11/big-data-and-artificial-intelligence-software-is-impacting-your-shopping-experience/"
     type: article
     provider:
-      name: Auto Remarketing
-      domain: autoremarketing.com
-    quality: 36
+      name: The Daily Mining Gazette
+      domain: mininggazette.com
+    quality: 31
     images:
-      - url: "https://www.autoremarketing.com/sites/default/files/VIP%20image002.jpg"
-        width: 880
-        height: 495
+      - url: "http://d14e0irai0gcaa.cloudfront.net/www.mininggazette.com/images/2016/11/14155029/fblike.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "XQW/2lnGN68mbbAqN3FwR6fCg1kAwZyd8nLaXU7STUZkIwaC3lhNQK32ziy+RHZwhieHtu0BEt9fjlNWFVZfBfGFBC/35p/ob2YArHi86Oy3jjVQeN5Lw+SduxkzdOSOE9D8FvVj8OSIjlIcpg1AZs4bUmHyhwJE2RWEOh4Yt7yDNPeqphHi1Ckz7RwgJEk4RkqXBubpimw74Kkx7tzl8gbN1VwQVtu4KwXTSfZGLkIPB6Zv/1p9IKucHMkL4GNJlJOGlqzyj0PgLX4pUZVvsRveLIxarOju2B60pKG2lXIwO5dRNopuXWV7rqZg5CibQA2EsR2BcTEdO555QvK6tWnSiiuG4cfn9BA/FMzKmMiyJ4pXy4fUERE63awB7co+Fbxp4XaNk1rFl48I7WtK88f92k6MrL4D2ZRqIFdBwvDK2YKHSXTwteAexs6oqgP4m04xdu1XZHTW6Oj4O9dCCasDds1DRdzTIrSUPPNyENbzR404SFpTNt0ItFyoGTbXUYnDEvo1jNHkkPzGzGFZqw==;SGBMTzo7xAkf7pXv6cs6RA=="

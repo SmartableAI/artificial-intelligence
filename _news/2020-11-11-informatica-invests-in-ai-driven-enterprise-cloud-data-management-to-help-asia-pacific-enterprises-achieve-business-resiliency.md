@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/informatica-invests-in-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/informatica-invests-in-ai-driven-enterprise-cloud-data-management-to-help-asia-pacific-enterprises-achieve-business-resiliency-1029789680"
 type: article
 quality: 41
-heat: 41
+heat: 51
 published: false
 
 provider:

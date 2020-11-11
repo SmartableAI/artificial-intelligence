@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/saferide-launches-vinsi
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/saferide-launches-vinsight-a-revolutionary-deep-learning-vehicle-health-management-platform-1029787654"
 type: article
 quality: 42
-heat: 42
+heat: 52
 published: false
 
 provider:

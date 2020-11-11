@@ -71,20 +71,6 @@ related:
         width: 1920
         height: 1032
         isCached: true
-  - title: "Machine Learning Helps Reduce Food Insecurity During COVID-19"
-    excerpt: "Researchers used machine learning to create bus routes and deliver meals to individuals in need, reducing food insecurity in Pennsylvania communities."
-    publishedDateTime: 2020-11-06T14:32:00Z
-    webUrl: "https://healthitanalytics.com/news/machine-learning-helps-reduce-food-insecurity-during-covid-19"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-908168476.jpg"
-        width: 690
-        height: 400
-        isCached: true
   - title: "MGH Researchers Use Artificial Intelligence for COVID-19 Prognosis Prediction"
     excerpt: "Researchers at Massachusetts General Hospital, an affiliate of Harvard Medical School, have created a new artificial intelligence-based tool for predicting the prognosis of potential COVID-19 patients."
     publishedDateTime: 2020-11-10T05:04:00Z

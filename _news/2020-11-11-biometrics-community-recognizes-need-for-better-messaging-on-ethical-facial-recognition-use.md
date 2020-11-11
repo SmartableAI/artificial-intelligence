@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202011/biometrics-community-recogn
 webUrl: "https://www.biometricupdate.com/202011/biometrics-community-recognizes-need-for-better-messaging-on-ethical-facial-recognition-use"
 type: article
 quality: 48
-heat: 48
+heat: 58
 published: false
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.nationthailand.com/noname/30397710"
 webUrl: "https://www.nationthailand.com/noname/30397710"
 type: article
 quality: 24
-heat: 24
+heat: 34
 published: false
 
 provider:

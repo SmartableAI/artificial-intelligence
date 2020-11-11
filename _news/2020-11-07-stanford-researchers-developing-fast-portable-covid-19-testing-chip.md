@@ -9,7 +9,7 @@ ampWebUrl: "https://abc7news.com/amp/coronavirus-testing-stanford-researchers-co
 cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/coronavirus-testing-stanford-researchers-covid-19-test-results/7686757/"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/48-covid19.jpg"
         width: 1920
         height: 1032
-        isCached: true
-  - title: "Machine Learning Helps Reduce Food Insecurity During COVID-19"
-    excerpt: "Researchers used machine learning to create bus routes and deliver meals to individuals in need, reducing food insecurity in Pennsylvania communities."
-    publishedDateTime: 2020-11-06T14:32:00Z
-    webUrl: "https://healthitanalytics.com/news/machine-learning-helps-reduce-food-insecurity-during-covid-19"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-908168476.jpg"
-        width: 690
-        height: 400
         isCached: true
   - title: "What software developers should know about 2021: Low-code, AI code testing, COVID-19's lasting effect and the skills needed to stay on top"
     excerpt: "Forrester made 5 predictions for software development in 2021. Bill Detwiler talks with software industry veteran VP and principal analyst Jeffrey Hammond, the report's lead author, about what developers and IT leaders should expect in 2021."

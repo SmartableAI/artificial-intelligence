@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-business
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-virus-outbreak-digitization-public-opinion-57d6f4aaaeb44b9a92a01dfab67248d4"
 type: article
 quality: 30
-heat: 30
+heat: 40
 published: false
 
 provider:

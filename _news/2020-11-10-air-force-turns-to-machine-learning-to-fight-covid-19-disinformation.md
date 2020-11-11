@@ -57,20 +57,6 @@ related:
         width: 1920
         height: 1032
         isCached: true
-  - title: "Machine Learning Helps Reduce Food Insecurity During COVID-19"
-    excerpt: "Researchers used machine learning to create bus routes and deliver meals to individuals in need, reducing food insecurity in Pennsylvania communities."
-    publishedDateTime: 2020-11-06T14:32:00Z
-    webUrl: "https://healthitanalytics.com/news/machine-learning-helps-reduce-food-insecurity-during-covid-19"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-908168476.jpg"
-        width: 690
-        height: 400
-        isCached: true
   - title: "What software developers should know about 2021: Low-code, AI code testing, COVID-19's lasting effect and the skills needed to stay on top"
     excerpt: "Forrester made 5 predictions for software development in 2021. Bill Detwiler talks with software industry veteran VP and principal analyst Jeffrey Hammond, the report's lead author, about what developers and IT leaders should expect in 2021."
     publishedDateTime: 2020-11-07T00:28:00Z
@@ -97,6 +83,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "R5iLCYBK2+1cjV+l7GtgO/EIIvogM3+/vHeADJu5vFySj2Yw6bNVdVBj0nA/m448/EqYdlBA0ZGyynfqlA6+vZbb31Ks+97CoEOSssMT02q/QPey3TAq0Y+TOiYUBBoc5OgbmBwPJvlYBkcbNLzCAmUhPkmDlnEWQ9Mn8QgEdbrlDf/i7HQCd6C8Cy+1BRXRR4tu5h0aI7VcACTl6ZqG0JY9HHH7sDcRHmUnSei7utgTSRf/wDSJNrbLTda27D3l2to9wMy3V+6KHV+cBnkRb0EeXyOmWdr8fDvbQzFph1BKWqU90JMtDNseTvhBg7Edbtuskx8PdhjNz2AstT11h6IcxkZmuCVWCJctQ+AiSco=;4zyTxj/Owio9h4u523+Kag=="
+secured: "8+n2wn9y/u3W5JpI43tVOLkXBcBvHwcx2FX6xn6qSuzMJyvgUwtJvZ/9NBN9V0sdtzqRd2wUy66Xh3uwm4xxvkhF4xVr88iTpwIZM+pqNbMu1fw88IbmRvHPbSamEWIHGr3eCh4cIoayCsbU2hIgrlS0KuLdndFy7lssRAOKaIP+M4qHODsGWBmR/0e+3+1gsM8s5I8vTPR53ffphIHH0qemuAdaCCE+R1MBCFp49DvkzUSI4FNufCY3R+/EuECiHNTepmgTezw1DRN3UdbbktM9gzBwHClinuoa0XfF7JKQ+LT4J0rBJQg9nW5qiBEV8YIB42X4KFuJDLji7Ot5TePrCcNGwjD6Gxxc4LU/wHLozCnqZJtsrMAp64cx3DpAWmTWPROUDODGk9VuWZKbiaL8oP2cXCPnxl1eHCk9IIzEqqGLx6FUPtMjaMkWIfjIKh02FN0aFiVct3ifBNMUzWX+72W8DLCMYLS1NIBVmSD10Eg7MmYWDR/xmUtmijtCl2N7nvgDNIyL5cgHkGoj0w==;988p3lo/8yAWnvwHQRyfoA=="
 ---
 

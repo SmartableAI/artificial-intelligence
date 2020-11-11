@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Machine learning helps predict survival rates of out-of-hospital cardiac arrest"
-excerpt: "Machine learning predictions about the survival rate of an out-of-hospital cardiac arrest were more accurate when neighborhood-level factors were added to the data analysis. Future research can use this newly developed model to identify neighborhood-level intervention methods to decrease death rates from an out-of-hospital cardiac arrest."
-publishedDateTime: 2020-11-09T15:00:00Z
-originalUrl: "https://apnews.com/press-release/newmediawire/science-access-to-health-care-north-america-chicago-health-a3f6fca9242bd21c750ee9a5f680b185"
-webUrl: "https://apnews.com/press-release/newmediawire/science-access-to-health-care-north-america-chicago-health-a3f6fca9242bd21c750ee9a5f680b185"
+excerpt: "Using neighborhood and local data in combination with existing information sources creates a more accurate prediction on a patient's recovery prospects after an out-of-hospital cardiac arrest (OHCA),"
+publishedDateTime: 2020-11-09T10:58:00Z
+originalUrl: "https://medicalxpress.com/news/2020-11-machine-survival-out-of-hospital-cardiac.html"
+webUrl: "https://medicalxpress.com/news/2020-11-machine-survival-out-of-hospital-cardiac.html"
+ampWebUrl: "https://medicalxpress.com/news/2020-11-machine-survival-out-of-hospital-cardiac.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-machine-survival-out-of-hospital-cardiac.amp"
 type: article
-quality: 35
-heat: -1
+quality: 55
+heat: 65
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/information.jpg"
+    width: 1920
+    height: 1280
     isCached: true
 
 related:
@@ -41,21 +43,7 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Estimating the carbon footprint of deep learning algorithms"
-    excerpt: "Hardware used to train a deep learning algorithm can use worrying amounts of energy from an environmental standpoint."
-    publishedDateTime: 2020-11-09T02:19:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/11/09/estimating-the-carbon-footprint-of-deep-learning-algorithms"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2020/11/08/929991.jpeg"
-        width: 600
-        height: 400
-        isCached: true
 
-secured: "VvFzGtpkDOtCZSVB1ns5+rreHq+wT3ydidaoTBzS70Jq5tRDJKU+CGUTCHJQ4h/zfzoJQgtk63oW6APqSSiX+XYpwAQfoc3GAZjn0xMpNK3RNqJyO7IBLChEIm7UwZgRWkAfsWQ7hq/HTiLExzPucUlTYoUrzMmTZFhND0jHs1EFo6KhUESNAhwzatoWQDEXkiNtQzrez5j3c+Yywd08ZN7iL0K99i6vOuiOKV2reHmGPCJVAGBdmDPtVZTNaVcCmtBHDB5Ya8D9H5HWslkLY4WalO0noX+K17wES1UB5ggB8dInHD3CZGw1Hqx+BLDla8ndIJX66bTozqsUOtPzKlP/8hF8CY+ca3mYrHtGu08=;dny3X9A9uDp3lqPowPWZqw=="
+secured: "/R2bfQ3YPopudAnUbXru01JbF0wWjSywMhS8hrFvuIln8Yqn2aaVKU22xr8JUAz79U35IvgQ89PvmPtbMjr0e9HdqLI6aCDo+dHX1ygiwzeHV6b6GpzcJJ92Qzp0/ebiyqmdxpVlhfEyfAAd3mBbK5hMhYUzpR6usJ8dWKEWeeQ9Z012uRD0UpasC3CvKwicXD4vdR1DQi8/mPSK9pZhFrwnVdFthCT4+jlKhxihokbQPbxExSPxj58l1mluqArxFpnxaw+vQI4EkZShH1c1lmy1c8EgSOWZkjqJQrv5xLk7hJxatsMMA9hDi+ESflaHZUrlVB5pUjghnllDCUUBBH5QerjT5UU9aVW9wR6e2qE=;ZD9wXxt19i0vsPXa3BSKkw=="
 ---
 
