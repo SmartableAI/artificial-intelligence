@@ -7,7 +7,7 @@ originalUrl: "https://www.yankodesign.com/2020/11/06/microsofts-azure-cloud-plat
 webUrl: "https://www.yankodesign.com/2020/11/06/microsofts-azure-cloud-platform-will-be-the-brain-for-their-future-autonomous-robots/"
 type: article
 quality: 78
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 510
     height: 314
     isCached: true
-
-related:
-  - title: "IBM, Microsoft, and the Future of Healthcare"
-    excerpt: "Healthcare is a mess, not just here in the U.S., but in most countries. Some of the biggest problems in this data-rich era are the lack of interoperability and fact-based advice. Two companies that stand out as aggressively trying to fix this are IBM and Microsoft."
-    publishedDateTime: 2020-11-09T12:00:00Z
-    webUrl: "https://www.technewsworld.com/story/86911.html"
-    type: article
-    provider:
-      name: TechNewsWorld
-      domain: technewsworld.com
-    quality: 58
-    images:
-      - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2019-medical-research-1.jpg"
-        width: 620
-        height: 360
-        isCached: true
 
 secured: "lEH4u7bCh0bXZ5C6+DZXJl7NyK6zqaK+o3CKFSjkR3SKYlLc6DxsAPtdd/rR2Z3zvfbSpfv68lhoeCIZtzEv28PdPyQx2yxwiTq/8Gfrp6AvO/zE6GE5QPWlrB5pl3Ei5PO46vZ6VSHsFldoLl1nyEFv2X93y8wdC6Iojb6qiI36gIyiObRSqdJ0XCmOOuNTra433iMM4h//sMpaVmB/R8qzl+RrMufWsIZRQZ8FJXuGRqXvEFiH+OezCdhXc8NGK8HBKjHBDanCmnU+q2N42PGHAB3wNIVZtrwcPjYlHcBhwsqcbnry/5HDvqbxiX8eXclByQpLDAZWgXGvGD+VPCsU2Amj2xSNJSz3YSdfrJ5MkkS37QF93prpQuDofEG8G0Yq571A6nNAyybDKz7KvYUBeONtlFFECno5mPMq+RHsPNdEn9yma0NvCRJs707Id3nVzq+TWoBXj9eDTBsql8i0FqSI6fnya5Y1ENWZ9pqo28YMbmCoCTwePaRZNB2oClpXw3zQhvCeVKhKCfL9Ew==;8BpSkTMQnAftJeLOVBt1ag=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/hitachi-vantara-to-offe
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/hitachi-vantara-to-offer-lumada-industrial-solutions-on-aws-accelerating-and-optimizing-business-outcomes-with-iot-and-ai-1029787264"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -23,17 +23,6 @@ provider:
 topics:
   - AWS AI
   - AI
-
-related:
-  - title: "AVEVA Expands its Collaboration with Microsoft with a Focus on Cloud and AI to Drive Digital Transformation in the Manufacturing and Energy Industries"
-    excerpt: "AVEVA to Collaborate with Microsoft to Provide Cloud Platform and Domain Expertise for Industrial Sector Organizations"
-    publishedDateTime: 2020-11-10T18:14:00Z
-    webUrl: "https://www.manufacturingtomorrow.com/news/2020/11/10/aveva-expands-its-collaboration-with-microsoft-with-a-focus-on-cloud-and-ai-to-drive-digital-transformation-in-the-manufacturing-and-energy-industries/16109/"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturingtomorrow.com
-    quality: 0
 
 secured: "ZcCRup5zoFVNq6OUzl50ZZA/ppKnWzG6u26e+mi4NufU4qFZNrJAQg7nH/kbpQ6IlUTZ6eTXAvIR78XfP4IbLPrXcf51N6N9BmQZR9wjJxOuLm4FNBbDKihesDN5NjYpUErR2mSjxJ4gEhzvTaLffGldInNcZ5c23pgmVojLyAG/XFfwagya3rosf2Qdm4MHji3LbIotVn2UbMdgcHh1qOhgppegWwYG9atXV5DBmULdatf80xhSIuyfAAkQxmAorgvZEXvVwTfd0ObQaVqfa2Yt8aF5h95n6Kl4rw8LAxPihZPSQ6hg9rB2Q8yW2wJL5iS7jHfLYoDT4OCX8ou/oFwmkHVDxXuV0gj70iH+JFE=;1O00Rvx9bHie664mMi0yTA=="
 ---

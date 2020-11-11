@@ -24,17 +24,6 @@ topics:
   - IBM AI
   - AI
 
-related:
-  - title: "AVEVA, Microsoft expands collaboration with a focus on cloud and AI to drive digital transformation"
-    excerpt: "AVEVA to collaborate with Microsoft to provide cloud platform and domain expertise for industrial sector organisations"
-    publishedDateTime: 2020-11-10T11:29:00Z
-    webUrl: "https://www.arabianindustry.com/petrochemicals/news/2020/nov/10/aveva-microsoft-expands-collaboration-with-a-focus-on-cloud-and-ai-to-drive-digital-transformation-6456736/"
-    type: article
-    provider:
-      name: arabianindustry.com
-      domain: arabianindustry.com
-    quality: 20
-
 secured: "ogL+v/P8Aux0HbKgYSnaRzXrNKhJDE194W34l0OFZisHp/e/goBKpuKtzEArjN1Cfq0+xeeL/icM9uKYva4/qtmJhZgYidVPrnRyy9eNkfGKC/TYxnqSmtEqPzNy2CZeavI7MAgyn3IojEeHx614tg6lwSpckt431NkI/QRIOEaL33ia8wwlSwpknwKn48dYjzQ+FU/vAOIU9qHAhWCWh6Qv4EGY0ZQEHvLdlZoBAX4ehKKGPOHRCaMx2Hckh4dmhdtykqqqB5gh6LFBMBXAKx1fROJBJrNVqJqQtRcv7978zP73Hteijcza3me0JGZyvfrRy5HGvN2zTnH8rzQ2kBSi8+N2MyQOFWeQ//2/JOQ=;GhqLm7OPqvvBvrPY2FWZIg=="
 ---
 

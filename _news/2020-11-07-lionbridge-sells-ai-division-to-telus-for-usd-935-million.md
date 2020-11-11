@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Canada's Telus to acquire Lionbridge AI in $919 million deal"
-    excerpt: "Canadian telecoms company Telus Corp <T.TO> said on Friday its unit Telus International would buy data services provider Lionbridge AI in a C$1.2 billion ($918.55 million) deal."
-    publishedDateTime: 2020-11-06T17:31:00Z
-    webUrl: "https://www.reuters.com/article/us-lionbridge-ai-m-a-telus/canadas-telus-to-acquire-lionbridge-ai-in-919-million-deal-idUSKBN27M1LU"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M1LU"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M1LU"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
   - title: "Canada's Telus to acquire Lionbridge AI in $935 million deal"
     excerpt: "Canadian telecoms company Telus Corp <T.TO> said on Friday its unit Telus International would buy data services provider Lionbridge AI in a $935 million deal."
     publishedDateTime: 2020-11-06T21:26:00Z

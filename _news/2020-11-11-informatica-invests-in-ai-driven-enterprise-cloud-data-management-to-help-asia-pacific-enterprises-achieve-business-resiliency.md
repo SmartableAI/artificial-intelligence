@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/informatica-invests-in-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/informatica-invests-in-ai-driven-enterprise-cloud-data-management-to-help-asia-pacific-enterprises-achieve-business-resiliency-1029789680"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ topics:
   - AI
 
 related:
-  - title: "Infosys launches cloud-integrated applied AI offering for enterprises"
-    excerpt: "Digital services and consulting firm Infosys Ltd. today launched an applied artificial intelligence solution to help enterprises adopt a comprehensive approach to scaling up AI for their businesses. The Infosys applied AI solution converges the power of machine learning with cloud capabilities to deliver new business analytics,"
-    publishedDateTime: 2020-11-10T11:51:00Z
-    webUrl: "https://siliconangle.com/2020/11/10/infosys-launches-cloud-integrated-applied-ai-offering-enterprises/"
+  - title: "Contact Center AI Company Observe.AI Announces Andrew Acedo as VP of Enterprise Sales"
+    excerpt: "Observe.AI, a leader in contact center AI, today announced Andrew Acedo has joined the executive team as Vice President of Enterprise Sales. Acedo will be responsible for leading Observe.AI’s enterprise sales arm,"
+    publishedDateTime: 2020-11-10T14:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/california-north-america-san-francisco-united-states-4efdfefc34ca45238e1f834b4ffc7040"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
+      name: Associated Press
+      domain: apnews.com
+    quality: 47
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/03/network-2402637-httpspixabay.comphotosnetwork-server-system-2402637.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "685bvwPfSGKTLKzPzJqx+KQdtqcwQz7xarVpkuEUHYbHXFIBALXyB7KxujbKoILpK4ry/m59+Gx+WNoEaoLUUznz1lI2ImAyszzild/8FPI7yw+1KBLjMc1T8m4bcDhymZTqmOJ4CA4Hgf0fmQR+GARPWcMw8hzP8HE7r42KTyNcTwEHZr233cmt0skgUf95mo8EeuAKnObDGTZKpeA5hH2POSmbN1hq+M3uu2YD17AULiOg/FvELBmwsbGhGgFQGyKEj6/JBpqHWKHXrxqO90ZiuYd0WTeHW5JgwzxbwP9HRxxvoGN74v3ze72zw3aP8b4eZFlhlfcubFUHw3ijaHd7ZyrvPYLYFfzd7LJLSKg=;ygZA1BXCzM7E0aVD3UTDjA=="

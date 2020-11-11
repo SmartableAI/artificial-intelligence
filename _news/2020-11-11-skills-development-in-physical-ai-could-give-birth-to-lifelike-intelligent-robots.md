@@ -53,16 +53,16 @@ related:
         height: 290
         isCached: true
   - title: "Accelerate Machine Learning Development to Build Intelligent Applications Faster"
-    excerpt: "Network news, trend analysis, product testing and the industry’s most important blogs, all collected at the most popular network watering hole on the Internet | Network World"
-    publishedDateTime: 2020-11-10T18:34:00Z
-    webUrl: "https://www.networkworld.com/resources/210552/accelerate-machine-learning-development-to-build-intelligent-applications-faster"
+    excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
+    publishedDateTime: 2020-11-10T19:03:00Z
+    webUrl: "https://www.cio.com/resources/210552/accelerate-machine-learning-development-to-build-intelligent-applications-faster"
     type: article
     provider:
-      name: Network World
-      domain: networkworld.com
+      name: CIO
+      domain: cio.com
     quality: 34
     images:
-      - url: "https://idge.staticworld.net/nww/nww_logo_300x300.png"
+      - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
         width: 300
         height: 300
         isCached: true

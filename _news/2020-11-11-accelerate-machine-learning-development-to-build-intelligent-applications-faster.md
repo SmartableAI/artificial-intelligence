@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Accelerate Machine Learning Development to Build Intelligent Applications Faster"
-excerpt: "Network news, trend analysis, product testing and the industry’s most important blogs, all collected at the most popular network watering hole on the Internet | Network World"
-publishedDateTime: 2020-11-10T18:34:00Z
-originalUrl: "https://www.networkworld.com/resources/210552/accelerate-machine-learning-development-to-build-intelligent-applications-faster"
-webUrl: "https://www.networkworld.com/resources/210552/accelerate-machine-learning-development-to-build-intelligent-applications-faster"
+excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
+publishedDateTime: 2020-11-10T19:03:00Z
+originalUrl: "https://www.cio.com/resources/210552/accelerate-machine-learning-development-to-build-intelligent-applications-faster"
+webUrl: "https://www.cio.com/resources/210552/accelerate-machine-learning-development-to-build-intelligent-applications-faster"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Network World
-  domain: networkworld.com
+  name: CIO
+  domain: cio.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/nww/nww_logo_300x300.png"
+  - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
     width: 300
     height: 300
     isCached: true
@@ -65,6 +65,6 @@ related:
         height: 290
         isCached: true
 
-secured: "LLDBSGO+lGcDqAX3TrnhhDXgbN554D5Lc9N0q6AkTZK5GWpEP0uo5nP8yA256xOATZoPFi0B0wtWn0YigvtkrGvXHX0gO331NB19t28lApksUe0B8QE0wNTOSxXVEj1jvbIzETGYBiqx+nF0QEcHOsJu+D1wlX2OsWFdiCA7rOuuulwbIsLfstqrDfpzgw8E1sOT41lgVps5SIyTRPK8krJcngqbo595TkyvecmiaWnKDB5XGtcKGtgqd5DGTaHBzQg3SmMBpHml6KnTAj8tOVtIfJaPyP4r2Ae5WQcFIDvmZuKzoavfNEaNEWHV/NwaobaSLQqiPR8Wyfk17tVaTY+stdGFGAbvo7ZDeB1qv+M=;wkSas+5byRaDdj0A/snpgQ=="
+secured: "2yEBaJxlaVgeJEr4VtXbWZxaRCtunOS5aNejzsf3O4jk8Pd7joChcrcSHDv+QSKZClqGoaq2zl6QX4VRGIqGpIMlx23px5o95tvRg6BnHnRPYIEbXjdC7wZh82hp1j6JjlP+b7dHEgb/PuSXo1NyEEAKUpVthwvlDIvCAN1w3Xpu+HoMz3/HxpqxaYxjB3xNLtrl9HTcl2jCia3c8eA8+U6lDKBKdW7JrllsgZUBmuDdcfywRBdfQgYFkMy+HIkjfczoPXpkM652EoOBKXssWybMstDRH2hnxkblJwINth2LrLmtqtt3kNwPnVAafAe8CHwnCCXTV9KtutLI691GoffTdLFRbCwssOJ8k5ZRKd8=;a+VLS3mAKay0wGYCqg0x2w=="
 ---
 

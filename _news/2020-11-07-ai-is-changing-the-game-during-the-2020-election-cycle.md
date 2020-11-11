@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/junwu1/2020/11/06/ai-is-changing-the-ga
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/11/06/ai-is-changing-the-game-during-the-2020-election-cycle/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Artificial-Intelligence-9.jpg"
         width: 900
         height: 500
-        isCached: true
-  - title: "Big data and artificial intelligence software is impacting your shopping experience"
-    excerpt: "In 2012 a writer for the New York Times named Charles Duhigg wanted to explore how retailers were using the data they had begun collecting involving customer purchases. What he found was stunning for the times,"
-    publishedDateTime: 2020-11-07T08:03:00Z
-    webUrl: "https://www.mininggazette.com/opinion/columns/2020/11/big-data-and-artificial-intelligence-software-is-impacting-your-shopping-experience/"
-    type: article
-    provider:
-      name: The Daily Mining Gazette
-      domain: mininggazette.com
-    quality: 31
-    images:
-      - url: "http://d14e0irai0gcaa.cloudfront.net/www.mininggazette.com/images/2016/11/14155029/fblike.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "XQW/2lnGN68mbbAqN3FwR6fCg1kAwZyd8nLaXU7STUZkIwaC3lhNQK32ziy+RHZwhieHtu0BEt9fjlNWFVZfBfGFBC/35p/ob2YArHi86Oy3jjVQeN5Lw+SduxkzdOSOE9D8FvVj8OSIjlIcpg1AZs4bUmHyhwJE2RWEOh4Yt7yDNPeqphHi1Ckz7RwgJEk4RkqXBubpimw74Kkx7tzl8gbN1VwQVtu4KwXTSfZGLkIPB6Zv/1p9IKucHMkL4GNJlJOGlqzyj0PgLX4pUZVvsRveLIxarOju2B60pKG2lXIwO5dRNopuXWV7rqZg5CibQA2EsR2BcTEdO555QvK6tWnSiiuG4cfn9BA/FMzKmMiyJ4pXy4fUERE63awB7co+Fbxp4XaNk1rFl48I7WtK88f92k6MrL4D2ZRqIFdBwvDK2YKHSXTwteAexs6oqgP4m04xdu1XZHTW6Oj4O9dCCasDds1DRdzTIrSUPPNyENbzR404SFpTNt0ItFyoGTbXUYnDEvo1jNHkkPzGzGFZqw==;SGBMTzo7xAkf7pXv6cs6RA=="
