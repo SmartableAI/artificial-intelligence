@@ -107,6 +107,6 @@ related:
       domain: manufacturingtomorrow.com
     quality: 0
 
-secured: "G/SdDMLMJQi1TmiIKqnibFbsF+7bqmJCf74nm6niQQl118hhBgX3IduQjgMbg2Gm4Ej2ZyzT8aec+i1CTO5Bnbh7h9frzJhzbm/QQ/eyAHAsuTK171UIT7x0EQgkH+iN8NSiTn1jmQ7M5H2qFr7MINDNnqGR1cTrjhe9xQOpERZNlyjyFZEYj47Rnkk46nVkSQ3AYx/gyaPX4TnT5xGggvHrg/J9sfvxoE5+He4KHNgC6BJ8K+Wi1K/EXIeK76DBb7Oq8StMql4WQVUOwjsLWtAiakei48BrUwOP2nUaxSDHyIgAwVg9D+Bnx8a4wz6204TBa020Vs9BPR7vm+m2i9ndEe2P/7DlpYFUxWisjGg=;YDUSOkUylRFpmQ2WrJeNDQ=="
+secured: "Z4Ysavc3975bbNgi4Iubs2rqBZe3TyhhkxaZeLVNNNNT/P3o7EuG9a2/crgus6YG8MGYF4P7zbJVJduh/im0RUAab9G2fv0gaO9+HMwcWmye7TyKo/dbsQz7TJLzewHSeftUXEFjYbbGPDte+Cmrq5+25vnjt+hOwtb/069DpRFe37Zbbt4jZvHdx5qJgnUNsWtQ+nzUMP4LMZqxjblhAPFb3YiGSeoaVhonxWy25++bkYo7IRG2EkcJueSriTZU4sX8OJEhwg0o3bse+NQ4W2fK2PxpNNHEip/QP+YGq6OSZn3JJGji5AWXaow38RZGJqmLrDTspagocvj16Bo28ufAMzyijhg6+Deuq3Am10g=;9y0K2xsp7ZLodn8cOfmJhA=="
 ---
 
