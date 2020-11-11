@@ -2,22 +2,31 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-11-11-ibm-amd-to-collaborate-on-hpc-ai-hybrid-cloud-confidential-computing.md",
-      "title": "IBM, AMD to collaborate on HPC, AI, hybrid cloud, confidential computing",
-      "excerpt": "IBM and AMD said they will collaborate on security, open source software, standards and architectures for high-performance computing and artificial intelligence workloads. The partnership between the two companies is likely to cement AMD's place in hybrid cloud environments and give more of a data center foothold in the enterprise.",
+      "path": "_news/2020-11-11-intel-debuts-gpu-for-the-data-centre-with-a-focus-on-android-cloud-gaming.md",
+      "title": "Intel debuts GPU for the data centre with a focus on Android cloud gaming",
+      "excerpt": "Intel has debuted its first discrete graphics processing unit (GPU) for the data centre, Intel Server GPU, which is based on the Xe-LP architecture and is designed specifically for high-density, low-latency Android cloud gaming and media streaming.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibm-amd-to-collaborate-on-hpc-ai-hybrid-cloud-confidential-computing/",
-      "originalUrl": "https://www.zdnet.com/article/ibm-amd-to-collaborate-on-hpc-ai-hybrid-cloud-confidential-computing/",
+      "webUrl": "https://www.zdnet.com/article/intel-debuts-gpu-for-the-data-centre-with-a-focus-on-android-cloud-gaming/",
+      "originalUrl": "https://www.zdnet.com/article/intel-debuts-gpu-for-the-data-centre-with-a-focus-on-android-cloud-gaming/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 88,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/11/11/e53ed748-d864-4e34-bab0-ed88abdb1448/intel-server-gpu-front.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-amd-to-collaborate-on-hpc-ai-hybrid-cloud-confidential-computing/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-amd-to-collaborate-on-hpc-ai-hybrid-cloud-confidential-computing/",
-      "publishedDateTime": "2020-11-10T20:36:00-08:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/intel-debuts-gpu-for-the-data-centre-with-a-focus-on-android-cloud-gaming/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-debuts-gpu-for-the-data-centre-with-a-focus-on-android-cloud-gaming/",
+      "publishedDateTime": "2020-11-10T22:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -40,8 +49,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -257,8 +266,8 @@
       "title": "Tiny chip company takes on Intel, Arm with 'swiss-army knife' of AI processors",
       "excerpt": "The chip, christened Mozart, isn’t the first chip specially designed to handle AI workloads. However, SMI claims that unlike others that are designed for specific workloads, Mozart can adapt to a wide variety of AI workloads on the fly.",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/nz/news/tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors",
-      "originalUrl": "https://www.techradar.com/nz/news/tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors",
+      "webUrl": "https://www.techradar.com/news/tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors",
+      "originalUrl": "https://www.techradar.com/news/tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors",
       "featuredContent": null,
       "highlight": null,
       "heat": 100,
@@ -275,8 +284,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors",
+      "ampWebUrl": "https://www.techradar.com/amp/news/tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors",
       "publishedDateTime": "2020-11-09T02:23:00-08:00",
       "updatedDateTime": null,
       "provider": {

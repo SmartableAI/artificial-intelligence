@@ -2,6 +2,273 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-11-03-teslas-updated-full-self-driving-beta-needs-fewer-human-interventions.md",
+      "title": "Tesla's updated Full Self-Driving beta needs fewer human interventions",
+      "excerpt": "Driving beta is already making some significant (and arguably needed) strides forward. Electrek says the automaker has rolled out an update that, according to Elon Musk, should reduce the need for human intervention by about a third.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/tesla-full-self-driving-beta-update-fewer-interventions-205524844.html",
+      "originalUrl": "https://www.engadget.com/tesla-full-self-driving-beta-update-fewer-interventions-205524844.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fba1d7570-1bb7-11eb-b13c-b010545fb6c4&client=amp-blogside-v2&signature=39967e073c4a44e9b4fc1a30e030658a5e296a09",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/tesla-full-self-driving-beta-update-fewer-interventions-205524844.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-full-self-driving-beta-update-fewer-interventions-205524844.html",
+      "publishedDateTime": "2020-11-02T12:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-siemens-healthineers-and-university-of-iowa-health-care-team-up-to-advance-care-for-iowans-over-the-next-decade.md",
+      "title": "Siemens Healthineers and University of Iowa Health Care Team Up to Advance Care for Iowans Over the Next Decade",
+      "excerpt": "Siemens Healthineers and University of Iowa Health Care Establish 10-Year Value Partnership to Expand Access to Imaging Technology, Artificial Intelligence Tools, Research, and",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmj.com/story/42853998/siemens-healthineers-and-university-of-iowa-health-care-team-up-to-advance-care-for-iowans-over-the-next-decade",
+      "originalUrl": "https://www.wfmj.com/story/42853998/siemens-healthineers-and-university-of-iowa-health-care-team-up-to-advance-care-for-iowans-over-the-next-decade",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-02T12:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMJ",
+        "domain": "wfmj.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-kensci-attains-highest-score-among-healthcare-ai-vendors-in-new-klas-report.md",
+      "title": "KenSci attains highest score among Healthcare AI vendors in new KLAS report",
+      "excerpt": "The Decision Insights Report' published in October by KLAS Research reveals KenSci received an overall score of 90.7*, the highest among all healthcare AI providers evaluated in the report, as measured by the clients themselves.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/kensci-attains-highest-score-among-healthcare-ai-vendors-in-new-klas-report-1029754944",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/kensci-attains-highest-score-among-healthcare-ai-vendors-in-new-klas-report-1029754944",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/kensci-attains-highest-score-among-healthcare-ai-vendors-in-new-klas-report-1029754944",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/kensci-attains-highest-score-among-healthcare-ai-vendors-in-new-klas-report-1029754944",
+      "publishedDateTime": "2020-11-02T10:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-upgrad-sees-demand-in-digital-marketing-artificial-intelligence-machine-learning-courses.md",
+      "title": "upGrad sees demand in digital marketing, artificial intelligence, machine learning courses",
+      "excerpt": "Online career education company upGrad has seen rising demand for courses in the areas of Digital Marketing, Data Science, Machine Learning and Artifi",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsr.in/n/India/1zlumksckk/upGrad-sees-demand-in-digital-marketing-artificial-intelligence.htm",
+      "originalUrl": "https://www.newsr.in/n/India/1zlumksckk/upGrad-sees-demand-in-digital-marketing-artificial-intelligence.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newsserve.net/newsR256.png",
+          "width": 256,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsr.in/n/India/1zlumksckk/upGrad-sees-demand-in-digital-marketing-artificial-intelligence.htm",
+      "cdnAmpWebUrl": "https://www-newsr-in.cdn.ampproject.org/c/s/www.newsr.in/n/India/1zlumksckk/upGrad-sees-demand-in-digital-marketing-artificial-intelligence.htm",
+      "publishedDateTime": "2020-11-02T10:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "newsr.in",
+        "domain": "newsr.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-brazil-creates-national-ai-innovation-network.md",
+      "title": "Brazil creates national AI innovation network",
+      "excerpt": "A network of research centers will support startups and established businesses in the development of new products and services based on the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/brazil-creates-national-ai-innovation-network/",
+      "originalUrl": "https://www.zdnet.com/article/brazil-creates-national-ai-innovation-network/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/brazil-creates-national-ai-innovation-network/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazil-creates-national-ai-innovation-network/",
+      "publishedDateTime": "2020-11-02T09:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-the-near-miss-quandary-is-unavoidably-messy-for-self-driving-cars.md",
+      "title": "The Near-Miss Quandary Is Unavoidably Messy For Self-Driving Cars",
+      "excerpt": "Near-miss while driving is insidious, including for self-driving cars. getty. Reckless and fleckless drivers. I’m sure you experience their antics and angst-producing driving ac",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/02/the-near-miss-quandary-is-unavoidably-messy-for-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/02/the-near-miss-quandary-is-unavoidably-messy-for-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9cef7aa486df619b0da987%2F0x0.jpg%3FcropX1%3D631%26cropX2%3D4938%26cropY1%3D194%26cropY2%3D2711",
+          "width": 1200,
+          "height": 701,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/02/the-near-miss-quandary-is-unavoidably-messy-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/02/the-near-miss-quandary-is-unavoidably-messy-for-self-driving-cars/amp/",
+      "publishedDateTime": "2020-11-02T09:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-tesla-full-self-driving-feature-now-costs-10000.md",
       "title": "Tesla Full Self-Driving feature now costs $10,000",
       "excerpt": "Tesla's long-promised Full Self-Driving mode reached its first customers in beta form a week and a half ago and we've already received a look at how the system operates on local roads, thanks to people on social media. Some report flawless activity ...",
@@ -392,6 +659,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-02-wipro-and-aws-announce-the-launch-of-wipro-aws-business-group-to-accelerate-growth.md",
+      "title": "Wipro and AWS Announce the Launch of Wipro AWS Business Group to Accelerate Growth",
+      "excerpt": "Wipro Limited, a leading global information technology, consulting, and business process services company, today announced the launch of its dedicated Wipro AWS Business Group, a unit designed to help customers fast-track their cloud transformation journey on AWS.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/wipro-and-aws-announce-the-launch-of-wipro-aws-business-group-to-accelerate-growth",
+      "originalUrl": "https://www.nasdaq.com/press-release/wipro-and-aws-announce-the-launch-of-wipro-aws-business-group-to-accelerate-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-02T04:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -861,340 +1162,6 @@
         "AI Hardware",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-uk-plans-to-use-ai-to-process-adverse-reactions-to-covid-vaccines.md",
-      "title": "UK plans to use AI to process adverse reactions to Covid vaccines",
-      "excerpt": "The AI tool will be employed as part of the MHRA’s yellow card scheme for coronavirus, through which patients and healthcare professionals report suspected side effects and negative reactions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthcareitnews.com/news/emea/uk-use-ai-covid-19-vaccine-side-effects",
-      "originalUrl": "https://www.ft.com/content/17a306cd-be75-48b4-996e-0c2916b34797",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.healthcareitnews.com/sites/hitn/files/Vaccination.jpg",
-          "width": 1068,
-          "height": 712,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-02T01:50:45-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-wipro-and-aws-announce-the-launch-of-wipro-aws-business-group-to-accelerate-growth.md",
-      "title": "Wipro and AWS announce the launch of Wipro AWS Business Group to accelerate growth",
-      "excerpt": "Wipro Limited (NYSE:WIT, BSE: 507685, NSE: WIPRO)), a leading global information technology, consulting, and business process services company, today announced the launch of",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/11/w18170580/wipro-and-aws-announce-the-launch-of-wipro-aws-business-group-to-accelerate-growth",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/11/w18170580/wipro-and-aws-announce-the-launch-of-wipro-aws-business-group-to-accelerate-growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18170580",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18170580",
-      "publishedDateTime": "2020-11-02T01:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-halodoc-uses-ai-to-improve-how-doctors-receive-feedback.md",
-      "title": "Halodoc uses AI to improve how doctors receive feedback",
-      "excerpt": "Due to Indonesia’s vast size and population, timely and reliable access to healthcare can sometimes be a challenge. Halodoc aims to change that with a mobile first-telemedicine platform that connects Indonesians to doctors and helps them arrange appointments, medicine deliveries and tests. What’s distinctive",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/around-the-globe/google-asia/halodoc-uses-ai-improve-how-doctors-receive-feedback/",
-      "originalUrl": "https://blog.google/around-the-globe/google-asia/halodoc-uses-ai-improve-how-doctors-receive-feedback/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
-          "width": 1000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/around-the-globe/google-asia/halodoc-uses-ai-improve-how-doctors-receive-feedback/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-asia/halodoc-uses-ai-improve-how-doctors-receive-feedback/amp/",
-      "publishedDateTime": "2020-11-02T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-ai-mistakes-referees-bald-head-for-football-hilarity-ensued.md",
-      "title": "AI mistakes referee’s bald head for football — hilarity ensued",
-      "excerpt": "Top football leagues and teams around the world have TV crews and streaming services at their disposal to broadcast matches to fans across the globe. However, because of the coronavirus pandemic, smaller football teams are relying on AI-powered cameras to cast live matches through YouTube.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/11/02/ai-mistakes-referees-bald-head-for-football-hilarity-ensued/",
-      "originalUrl": "https://thenextweb.com/neural/2020/11/02/ai-mistakes-referees-bald-head-for-football-hilarity-ensued/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/AI-camera-referee-e1604295644927-796x419.jpg",
-          "width": 796,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/11/02/ai-mistakes-referees-bald-head-for-football-hilarity-ensued/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/02/ai-mistakes-referees-bald-head-for-football-hilarity-ensued/amp/",
-      "publishedDateTime": "2020-11-01T23:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-ai-projects-building-vs-buying-and-what-to-consider-with-diy.md",
-      "title": "AI Projects: Building Vs. Buying And What To Consider With DIY",
-      "excerpt": "AI is vital not only to short-term survival, but to prevailing in the marketplace and growing into the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/02/ai-projects-building-vs-buying-and-what-to-consider-with-diy/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/02/ai-projects-building-vs-buying-and-what-to-consider-with-diy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9c2ffccbda05987ab38586%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/02/ai-projects-building-vs-buying-and-what-to-consider-with-diy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/02/ai-projects-building-vs-buying-and-what-to-consider-with-diy/amp/",
-      "publishedDateTime": "2020-11-01T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-ai-in-telecommunication-market-growth-analysis-by-size-share-news-demand-opportunity-during-2020-2023.md",
-      "title": "AI in Telecommunication Market Growth Analysis By Size, Share, News, Demand, Opportunity During 2020-2023",
-      "excerpt": "Global AI in Telecommunication Market Research Report, By Component (Solution, Services), Deployment (On-Premise,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-growth-analysis-by-size-share-news-demand-opportunity-during-2020-2023-2020-11-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-growth-analysis-by-size-share-news-demand-opportunity-during-2020-2023-2020-11-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-01T18:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-artificial-intelligence-robots-market-outlook-by-size-share-future-growth-and-forecast-from-2020-2023.md",
-      "title": "Artificial Intelligence Robots Market Outlook By Size, Share, Future Growth And Forecast From 2020-2023",
-      "excerpt": "Global AI Robots Market Research Report - by Offering (Software, Hardware), by Type (Service Robots, Industrial Robots),",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-outlook-by-size-share-future-growth-and-forecast-from-2020-2023-2020-11-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-outlook-by-size-share-future-growth-and-forecast-from-2020-2023-2020-11-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-01T18:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -1,30 +1,55 @@
 ---
 category: news
 title: "IBM and AMD Announce Joint Development Agreement to Advance Confidential Computing for the Cloud and Accelerate Artificial Intelligence"
-excerpt: "\"IBM is focused on giving our clients choice, agility and security in our hybrid cloud offerings through advanced research, development and scaling of new technologies.\" \"This agreement between AMD and IBM aligns well with our long-standing commitment to collaborating with leaders in the industry,"
-publishedDateTime: 2020-11-11T12:00:00Z
-originalUrl: "https://www.nasdaq.com/press-release/ibm-and-amd-announce-joint-development-agreement-to-advance-confidential-computing"
-webUrl: "https://www.nasdaq.com/press-release/ibm-and-amd-announce-joint-development-agreement-to-advance-confidential-computing"
+excerpt: "ARMONK, N.Y. and SANTA CLARA, Calif., Nov. 11 2020 /PRNewswire via COMTEX/ -- ARMONK, N.Y. and SANTA CLARA, Calif., Nov. 11 2020 /PRNewswire/"
+publishedDateTime: 2020-11-11T12:29:00Z
+originalUrl: "https://www.marketwatch.com/press-release/ibm-and-amd-announce-joint-development-agreement-to-advance-confidential-computing-for-the-cloud-and-accelerate-artificial-intelligence-2020-11-11"
+webUrl: "https://www.marketwatch.com/press-release/ibm-and-amd-announce-joint-development-agreement-to-advance-confidential-computing-for-the-cloud-and-accelerate-artificial-intelligence-2020-11-11"
 type: article
-quality: 17
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
   - AI
 
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
 related:
+  - title: "IBM and AMD Partner Up to Accelerate Development in Cloud Computing and Artificial Intelligence"
+    excerpt: "International Business Machines ( NYSE:IBM) and Advanced Micro Devices ( NASDAQ:AMD) today announced a multiyear agreement to bolster security and artificial intelligence (AI). Under terms of the deal,"
+    publishedDateTime: 2020-11-11T15:00:00Z
+    webUrl: "https://www.fool.com/investing/2020/11/11/ibm-and-amd-partner-up-to-accelerate-development-i/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/11/11/ibm-and-amd-partner-up-to-accelerate-development-i/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/11/ibm-and-amd-partner-up-to-accelerate-development-i/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 75
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F600345%2Fgettyimages-527057922.jpg&w=1200&op=resize"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "IBM, AMD to collaborate on HPC, AI, hybrid cloud, confidential computing"
     excerpt: "IBM and AMD said they will collaborate on security, open source software, standards and architectures for high-performance computing and artificial intelligence workloads. The partnership between the two companies is likely to cement AMD's place in hybrid cloud environments and give more of a data center foothold in the enterprise."
     publishedDateTime: 2020-11-11T04:36:00Z
-    webUrl: "https://www.zdnet.com/article/ibm-amd-to-collaborate-on-hpc-ai-hybrid-cloud-confidential-computing/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-amd-to-collaborate-on-hpc-ai-hybrid-cloud-confidential-computing/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-amd-to-collaborate-on-hpc-ai-hybrid-cloud-confidential-computing/"
+    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-amd-to-collaborate-on-hpc-ai-hybrid-cloud-confidential-computing/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-amd-to-collaborate-on-hpc-ai-hybrid-cloud-confidential-computing/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-amd-to-collaborate-on-hpc-ai-hybrid-cloud-confidential-computing/"
     type: article
     provider:
       name: ZDNet
@@ -46,16 +71,7 @@ related:
         width: 720
         height: 406
         isCached: true
-  - title: "Dell Launches Ready Solutions and HPC Cloud Collaborations for AI, Life Sciences, Manufacturing"
-    excerpt: "Dell Technologies (NYSE:DELL) announces new Dell EMC Ready Solutions and high-performance computing (HPC) cloud service provider collaborations to accelerate AI and advanced computing innovation in healthcare,"
-    publishedDateTime: 2020-11-09T15:18:00Z
-    webUrl: "https://insidehpc.com/2020/11/dell-launches-ready-solutions-and-hpc-cloud-collaborations-for-ai-life-sciences-manufacturing/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 5
 
-secured: "3280gjP8EjFC0IzhplOEu+m9MWpVVFA0eY28kQBLRSTQhrkQOTXgJuXyAgX3X4rdMcJmAdUn9+xVbovhIbIQJXeqe7GFnBLyeca1YBWEX82hcmO0qddT34oR7HG60lGNN6P36uOxbEvWvhP8CxDlRbdXDca4zcMy9b+NoFr/LfXsJKhpK/Io3bDiwvfYS4pQQaWAuzGDsTXi+IBuJl2PBf3DHJTSCIQK82Kt9wpMl7Hy/lLxtj6I85iQf5Obr7SC9T38qn7YItCIYj6Jvy5sy9xz6Rg8VRnEYKICl89Ia0+kobNYfP5zlfFpuaIuUq6nS1maztDfp2MYpaSdfAQW0QKhCrKPsV9l48+zdDvsjs0=;a2qhyShv/mR7pABspss8IQ=="
+secured: "Qy6x9We3quClkXbAae6ebm2IHvL0wCk/YsdMjzRALauYXirmdusfktjaiycaNpbQIa48mpcc8aOQ1HYWLm7NBJZa35wLOe1D+nwJfrmSwcKum+IftpaQ9uJdlBHHrsR27i4BLpn6YQKSA5S8Yqp39UlYRjGsyWxh9A1SdB1X/GAp2kuzqdrAKHLGSYwIjSRWuhLrs7TBngTrHySFXqNVj0SGpPUErMotmBUfBN27fBBQ1039AG4fzeK6EMFoo7vwk+arUBNaWvjwRO5pP0bczEp9DfPu1l51Y5GFcEyfhXw6Wihn6SgIZlbinppozMNxLJG1i7BUsna1/N2+aNk40mk5YL109H++WTJPplAwPss=;N8n9m2TtrlTYv+JQP2mQog=="
 ---
 

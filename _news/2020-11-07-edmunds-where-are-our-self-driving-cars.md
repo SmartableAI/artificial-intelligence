@@ -92,6 +92,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 24
+  - title: "Honda’s self-driving system wins OK for use on busy roads in Japan"
+    excerpt: "Honda is launching a new version of its Legend sedan that will take over for drivers on busy highways after the company got approval for its self-driving system in Japan."
+    publishedDateTime: 2020-11-11T15:30:00Z
+    webUrl: "https://www.wraltechwire.com/2020/11/11/hondas-self-driving-system-wins-ok-for-use-on-busy-roads-in-japan/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 24
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2020/11/honda-4967587_1280-e1605108185813-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "wfYGFL0qnWINK3B+ir5/gzJbgPr6N3dEc5auzMnLse5KmPjVebzkf95aM2myXb1ZbaGarAzUFHLYUgNCuyLSeCSkn18OxvKo1LwP/lWleaZm4oK3VS9poGJRenazDs4trCBeW5Fo6D0TuKzl9Xfd522YTZTRKolnZahBBHy2qlIMXbDfPvPlgm1h7aPcR06PkhEUfleQcbizWbsZ0RuT2G1x11huM+Veo72uyOnh1PTphlMG6yIlikEmAeFehL/+DvJX25ZzvrjZvBoHrKfm/3gRYJMnPzo61tSfjvAGxAXmP9kJV4fV6377Azomzg6uI4zXb5/jruNFAqhYc2Yqm04Bi+bAuh/KJxYXdrmh8uQ=;eziDtCrvDU2E9h+5y8bvRg=="
 ---

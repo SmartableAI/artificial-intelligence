@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/intel-acquires-cnvrg-io-to-lead-the-
 webUrl: "https://analyticsindiamag.com/intel-acquires-cnvrg-io-to-lead-the-race-in-the-ai-game/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -24,31 +24,6 @@ images:
     width: 716
     height: 402
     isCached: true
-
-related:
-  - title: "India’s New AWS Data Center, Intel’s AI Acquisitions And More In This Week’s Top News"
-    excerpt: "Intel aims to strengthen its ML capabilities with MLOps, dedicated operating systems for ML developers and optimised platforms."
-    publishedDateTime: 2020-11-07T12:33:00Z
-    webUrl: "https://analyticsindiamag.com/india-aws-data-center-intel-ai-latest-news/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 49
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/11/nov-news.jpg"
-        width: 1600
-        height: 1200
-        isCached: true
-  - title: "AWS to launch second infrastructure region in India by mid-2022"
-    excerpt: "Amazon Web Services (AWS) has announced the expansion of its services to include a second infrastructure region in India by mid-2022. The new AWS Asia Region, which will consist of three Availability Zones at launch,"
-    publishedDateTime: 2020-11-09T08:56:00Z
-    webUrl: "https://www.telecompaper.com/news/aws-to-launch-second-infrastructure-region-in-india-by-mid-2022--1360958"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "x6qWIm509zkSub2pAbYX2pBvSl0Y9s1E1cqVY9vZczpvx/U51JRhY2hGjWfxdndREyQNr3wM7l1/2oc0/VJRw+SDBOtmaw474uqXMFhU9pe/41WjenIC7SCdLMIiIfwT5YmtgE/L7KM+V7swuclD+R4/e18InTVu2qOlz9wK/Jl6UH6Gysd01fNDtateyHSfLKkwCZjOg2rMFcMBEd1ydMYrXxw4r3XVhLu/0UV0q6vttvIXWjUcqKqzT4W9t7PlFbApRzqLGLjGA9nhgeCjhMFn5o1+IpcW8ccapoDa7osAL71o150MJYk8o9uflJj2uRglYVd3PXYVhGVuAOzV3XORnm/4tUq7AKyu+MnIfxIzGp1/hmjbX9hdSMC3GfLThjp3br2aXTm61l0P91u4rU5vBbHFJCxNYwo2cDBUcO4mwrXjdsyY7wMQTYiirvtcQRqs14lk0e+JHv5P1hufcmjuvZ6o/YOgb7A8BHxpmouy6VnkK3IPvB7Nnco0rHHVymK2lmBb8W+mwRbWLAc2lg==;Wf9NX1OrLd6a/vtoyzBYaw=="
 ---

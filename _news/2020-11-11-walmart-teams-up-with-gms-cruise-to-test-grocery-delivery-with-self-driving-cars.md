@@ -2,26 +2,26 @@
 category: news
 title: "Walmart teams up with GM's Cruise to test grocery delivery with self-driving cars"
 excerpt: "Walmart announced Tuesday that the company has joined forces with self-driving car company Cruise to test out autonomous grocery delivery in Arizona."
-publishedDateTime: 2020-11-11T14:53:00Z
-originalUrl: "https://www.fox10phoenix.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars"
-webUrl: "https://www.fox10phoenix.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars"
-ampWebUrl: "https://www.fox10phoenix.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars.amp"
-cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars.amp"
+publishedDateTime: 2020-11-11T15:31:00Z
+originalUrl: "https://www.fox35orlando.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars"
+webUrl: "https://www.fox35orlando.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars"
+ampWebUrl: "https://www.fox35orlando.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars.amp"
+cdnAmpWebUrl: "https://www-fox35orlando-com.cdn.ampproject.org/c/s/www.fox35orlando.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars.amp"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: FOX 10 Phoenix
-  domain: fox10phoenix.com
+  name: WOFL
+  domain: fox35orlando.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2020/11/932/470/Walmart-and-Cruise.png?ve=1&tl=1"
+  - url: "https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2020/11/932/470/Walmart-and-Cruise.png?ve=1&tl=1"
     width: 932
     height: 470
     isCached: true
@@ -326,6 +326,6 @@ related:
       domain: automotiveworld.com
     quality: 3
 
-secured: "23YwL9Cb+Qyd351s8vDP3F2MmxUwxU1NCr3fGM13/xK6LWPyyCfjwaZeHxszmsgVLtlnYyXf9ygE4UXS/TCJJsgqzRUufJ3xy5Yyg612Vr0R6HfldB/jqMxlp1Yqzpo/lBcA/mNqyN8ZQiopacZoFaJRZpNasgVSoIjL2VT4ltScykeijJM6WFZUzkUQMrMuoaBofTGfexcUFTfg0XdfaKcAPY6ZeP7itga3gJgQ4wicG0Fkncti4HjkXJOT2Oa5DBGa0GEIG8lRAuNSlSRT1kEIt7MNH4WEuWFIftz0PbeyEVFzZWmdo0mJ6Z0OeZgryH+9yplyjE2LibvXig0gdjl2znn2LFhf1Dx0X6IO2WY=;7VUBC9iIxaDs/Y2Wo3qjZg=="
+secured: "HoqIw1hUZ1wbPHTn7oJqd656pAQSW0RSadl2vbklEROUTSOz1sl0rBIqWvyjMZEqJvuGsCE5oqdd83afCO7EUjRxMtoQJBuCZgVaU5/IzZMm+7C0+685JHjUV7n9EkRYA05IMWvOVSDIlM5j0QKKpEfNCipYkZg/if63gCXl4MdJUhT4BYKhJ5lkZVcCNs+LXeS/pvGa0DpFc3j9Xgjp/NdfNtEQVj2Z67Vad62NniYjLjEdwaxYlVj5V2s/NXsnbbCqxMeN328Nwqfa76dpTCCChsEsmrBgu7c/7uFEvphnkwXHPgAV/xVP8Xcr1Q7zwfT8GiBqNLZFy6NPzdXqSWfjMJX9Qqa59J4ryvsaU1k=;yEyCEOtI/K6L1h447wZQ4w=="
 ---
 

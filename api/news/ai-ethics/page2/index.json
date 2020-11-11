@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-09-the-responsible-innovation-framework-for-the-age-of-ai.md",
+      "title": "The Responsible Innovation Framework For The Age Of AI",
+      "excerpt": "This year, with facial recognition, privacy, and ethics gaining more attention in the marketplace, technology leaders are increasingly thinking about AI’s impact on people’s lives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f9c645440271868a67e29%2F0x0.jpg",
+          "width": 1200,
+          "height": 986,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/amp/",
+      "publishedDateTime": "2020-10-08T16:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-transparent-truths-about-ai-ethics-assessing-a-seven-point-set-of-principles-from-capgemini.md",
       "title": "Transparent truths about AI ethics - assessing a seven point set of principles from Capgemini",
       "excerpt": "Transparency isn't the silver bullet that's going to address every ethical concern around AI deployment, but it's an essential bedrock on which to build. (via Pixabay) With debate raging about bias and lack of diversity in teams and data sources and the growing risk of AI automating social problems or giving them a veneer of digital neutrality,",

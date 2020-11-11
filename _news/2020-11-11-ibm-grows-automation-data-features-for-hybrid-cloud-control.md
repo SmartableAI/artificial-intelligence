@@ -8,7 +8,7 @@ webUrl: "https://www.networkworld.com/article/3596498/ibm-grows-automation-data-
 ampWebUrl: "https://www.networkworld.com/article/3596498/ibm-grows-automation-data-features-for-hybrid-cloud-control.amp.html"
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3596498/ibm-grows-automation-data-features-for-hybrid-cloud-control.amp.html"
 type: article
-quality: 44
+quality: 46
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://images.idgesg.net/images/article/2020/10/cso_security_hack_control-center_breach_gettyimages-808157576_by-gorodenkoff_2400x1600px-100861757-large.jpg"

@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-26-from-beekeepers-to-ocean-mappers-lobe-aims-to-make-it-easy-for-anyone-to-train-machine-learning-models.md",
+      "title": "From beekeepers to ocean mappers, Lobe aims to make it easy for anyone to train machine learning models",
+      "excerpt": "The post From beekeepers to ocean mappers, Lobe aims to make it easy for anyone to train machine learning models appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://blogs.microsoft.com/ai/lobe-machine-learning/",
+      "originalUrl": "https://blogs.microsoft.com/ai/lobe-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/10/lobe-machine-learning-toyon_1200x630-5f96ba640f2e5-1024x538.jpg",
+          "width": 1024,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-26T05:59:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-deep-learning-market-emerging-trends-revenue-estimation-global-size-and-forecast-report-to-2025.md",
       "title": "Deep Learning Market Emerging Trends, Revenue Estimation, Global Size and Forecast Report to 2025",
       "excerpt": "Oct 26, 2020 (Heraldkeepers) -- Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks.",
@@ -1368,58 +1421,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast.md",
-      "title": "Google's $100 Linux Coral Dev Board mini quietly launches – but sells out fast",
-      "excerpt": "Google's Coral Dev Board mini briefly goes on sale before selling out but Google still says the board is coming soon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast/",
-      "originalUrl": "https://www.zdnet.com/article/googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/10/19/33ed63ff-17eb-4bee-b177-c9bf59502a0e/coraldevboardminia.jpg",
-          "width": 1029,
-          "height": 772,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-100-linux-coral-dev-board-mini-quietly-launches-but-sells-out-fast/",
-      "publishedDateTime": "2020-10-19T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

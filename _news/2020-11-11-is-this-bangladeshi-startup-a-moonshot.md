@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Is this Bangladeshi startup a moonshot?"
-excerpt: "Diving into a little-known Bangladeshi startup’s plans to build a super app, and a look into the drivers behind Southeast Asia’s internet growth"
-publishedDateTime: 2020-11-11T10:22:00Z
-originalUrl: "https://www.techinasia.com/bangladeshi-startup-moonshot"
-webUrl: "https://www.techinasia.com/bangladeshi-startup-moonshot"
+excerpt: "Every day, 100k+ smart people read our newsletter. You can sign up here. Hello readers, Your 11.11 exclusive starts now: “A Bangladeshi startup is aiming to become the next Tencent, and it has found opportunities in the messaging,"
+publishedDateTime: 2020-11-11T15:59:00Z
+originalUrl: "https://vietreader.com/tech/22815-is-this-bangladeshi-startup-a-moonshot.html"
+webUrl: "https://vietreader.com/tech/22815-is-this-bangladeshi-startup-a-moonshot.html"
 type: article
-quality: 32
-heat: 32
+quality: 22
+heat: 22
 published: false
 
 provider:
-  name: Techinasia
-  domain: techinasia.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: vietreader.com
+  domain: vietreader.com
 
 topics:
   - AI
 
-secured: "TcqRqG24Zq7iDKSiYc8pOga0JrVvWd9UI6mzNcgCW/GRCvR/Pjrzrr6yy3v0+a1I4td4Mc38KIBrJngl4H9ygcTPTSjNvd0G6h4BKRv1N5QSGkDu20JTjRZx2az8hQZwKSXUU243Fup9IrJ/SaY+3DRpnLKHJENy2+1u/F+2TfOigbUyOCd/4zF8mLxqKQQqRMv1EUDid6YXAw8+PA2MsHGgZP6SzGTjU2cJAk/VQ+g4kcFD7xOBvIr6Iw8ufV/xcPdG/GADSm1bfJ8NN5NIn3osI1MwSuFEt/AWhV09AVImZSWTXnfY7wwup1WcQCC84DA51U972cRqgH6huoHC01bdzNPCH0tBt5N2OVROLp61KrNQ8J2QTxkE3j5OZywqrkZ0VojkVHwdXHERAaf8ZX/+F/GxWTYocthQqaOLTNyLNdMhDne0V333ZsKCShGtin66zXKAyt+U7CN8/qVb5NKyWE+r1FGb9eMfN3rSSRzCPA2xmX7nIPXB3G/BEg6nHKekEjhXeSLWLctKY8UKJQ==;0PnpBP4y0iDrQ19cSoXL4A=="
+images:
+  - url: "https://cdn.vietreader.com/uploads/posts/2020-11/is-this-bangladeshi-startup-a-moonshot-1.gif"
+    width: 600
+    height: 320
+    isCached: true
+
+secured: "ga551nG+S8F7z6quqlRYi0pJYPzWvdWnQbCEqN4+1R6bPnR2lj1pqhCngEBSrEtUp5hQx0aDzGQpRBEtQgHBpOr0dHRKXvCyEh/7lMEab8CNhQcVqVzwte04PcXLQF4jIqrjY6KCEfdt+qgwyCciWFjbJrbZsX9n3RXdGCV/PN0AqD9VAXi2ZD6uxBhNt3Ndrk77EvyDEipQA0NPSjx+67H8aVHdNUlJzs4cdMppJvjfcplfmnDMN1Shr1YbH7pmgLGmMmJDSi4trG20zN01yRNV0rlcyLJVxExdjIt/o1bwOTFCNvLTrohmwE8ce3Dl1oq49HNxbgCS0/VdUp+sa2N4uS0K8pSa0MI3GXXuRqk=;wYw8BwCnStra9zqwsuAJ1Q=="
 ---
 

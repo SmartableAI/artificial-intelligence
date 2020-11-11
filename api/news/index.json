@@ -2,6 +2,319 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-12-pope-francis-wants-you-to-pray-for-ethical-robots.md",
+      "title": "Pope Francis Wants You to Pray for Ethical Robots",
+      "excerpt": "There’s a lot of folks worried about the ethics and future of AI and robotics. Apparently, you can count Pope Francis among them.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/pope-francis-wants-you-to-pray-for-ethical-robots-1845642552",
+      "originalUrl": "https://gizmodo.com/pope-francis-wants-you-to-pray-for-ethical-robots-1845642552",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/n6obkzwczadd21hddeb7.png",
+          "width": 800,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/pope-francis-wants-you-to-pray-for-ethical-robots-1845642552/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/pope-francis-wants-you-to-pray-for-ethical-robots-1845642552/amp",
+      "publishedDateTime": "2020-11-11T08:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-amazon-beefs-up-machine-learning-in-alexa-to-predict-latent-goals-that-arent-directly-expressed.md",
+      "title": "Amazon beefs up machine learning in Alexa to predict ‘latent goals’ that aren’t directly expressed",
+      "excerpt": "Alexa is getting smarter. Amazon's voice assistant in the U.S. can now predict \"latent goals,\" or potential requests that a user doesn't explicitly request. In the example above, when a user asks",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/amazon-beefs-machine-learning-alexa-predict-latent-goals-arent-directly-expressed/",
+      "originalUrl": "https://www.geekwire.com/2020/amazon-beefs-machine-learning-alexa-predict-latent-goals-arent-directly-expressed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/11/download-630x472.jpeg",
+          "width": 630,
+          "height": 472,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/amazon-beefs-machine-learning-alexa-predict-latent-goals-arent-directly-expressed/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazon-beefs-machine-learning-alexa-predict-latent-goals-arent-directly-expressed/amp/",
+      "publishedDateTime": "2020-11-11T08:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-ai-research-finds-a-compute-divide-concentrates-power-and-accelerates-inequality-in-the-era-of-deep-learning.md",
+      "title": "AI research finds a ‘compute divide’ concentrates power and accelerates inequality in the era of deep learning",
+      "excerpt": "The analysis reviews papers accepted for publication at large AI conferences such as ACL, ICML, and NeurIPS in categories like computer vision, data mining, machine learning, and NLP.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/11/ai-research-finds-a-compute-divide-concentrates-power-and-accelerates-inequality-in-the-era-of-deep-learning/",
+      "originalUrl": "https://venturebeat.com/2020/11/11/ai-research-finds-a-compute-divide-concentrates-power-and-accelerates-inequality-in-the-era-of-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/mit1.jpg?fit=800%2C600&strip=all",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/11/ai-research-finds-a-compute-divide-concentrates-power-and-accelerates-inequality-in-the-era-of-deep-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/11/ai-research-finds-a-compute-divide-concentrates-power-and-accelerates-inequality-in-the-era-of-deep-learning/amp/",
+      "publishedDateTime": "2020-11-11T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-police-in-london-face-legal-action-over-cancelled-trans-rights-protest.md",
+      "title": "Police in London Face Legal Action Over Cancelled Trans Rights Protest",
+      "excerpt": "The organisers of a protest were threatened with arrest, despite being a political group that had taken health and safety measures.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/wx85ay/met-police-legal-action-trans-rights-protest",
+      "originalUrl": "https://www.vice.com/en/article/wx85ay/met-police-legal-action-trans-rights-protest",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com//articles/5fabd8931028e5009b2a11cb/lede/1605103070564-2cdrph1.jpeg?crop=1xw:0.8436319765002098xh;center,center",
+          "width": 3574,
+          "height": 2010,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/wx85ay/met-police-legal-action-trans-rights-protest",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/wx85ay/met-police-legal-action-trans-rights-protest",
+      "publishedDateTime": "2020-11-11T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-people-suffering-depression-and-anxiety-want-to-reveal-their-pain-to-a-robot.md",
+      "title": "People suffering depression and anxiety want to reveal their pain — to a robot",
+      "excerpt": "A majority of workers are more comfortable sharing their mental health struggles with a robot than a boss. Experts are divided on whether AI is up to the task.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/11/11/people-with-depression-anxiety-want-to-reveal-pain-to-a-robot.html",
+      "originalUrl": "https://www.cnbc.com/2020/11/11/people-with-depression-anxiety-want-to-reveal-pain-to-a-robot.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106788001-1604940603800-gettyimages-992187898-WOEBOT_APP.jpeg?v=1605027490",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/11/11/people-with-depression-anxiety-want-to-reveal-pain-to-a-robot.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/11/people-with-depression-anxiety-want-to-reveal-pain-to-a-robot.html",
+      "publishedDateTime": "2020-11-11T07:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-ibm-and-amd-partner-up-to-accelerate-development-in-cloud-computing-and-artificial-intelligence.md",
+      "title": "IBM and AMD Partner Up to Accelerate Development in Cloud Computing and Artificial Intelligence",
+      "excerpt": "International Business Machines ( NYSE:IBM) and Advanced Micro Devices ( NASDAQ:AMD) today announced a multiyear agreement to bolster security and artificial intelligence (AI). Under terms of the deal,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/11/11/ibm-and-amd-partner-up-to-accelerate-development-i/",
+      "originalUrl": "https://www.fool.com/investing/2020/11/11/ibm-and-amd-partner-up-to-accelerate-development-i/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F600345%2Fgettyimages-527057922.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/11/11/ibm-and-amd-partner-up-to-accelerate-development-i/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/11/ibm-and-amd-partner-up-to-accelerate-development-i/",
+      "publishedDateTime": "2020-11-11T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-researchers-claim-ai-algorithm-uses-heart-rate-and-motion-data-to-predict-age-sex-and-more.md",
       "title": "Researchers claim AI algorithm uses heart rate and motion data to predict age, sex, and more",
       "excerpt": "University of Cambridge and Alan Turing Institute researchers developed an algorithm that predicts age, BMI, and more from wearable data.",
@@ -417,6 +730,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-11-intel-debuts-gpu-for-the-data-centre-with-a-focus-on-android-cloud-gaming.md",
+      "title": "Intel debuts GPU for the data centre with a focus on Android cloud gaming",
+      "excerpt": "Intel has debuted its first discrete graphics processing unit (GPU) for the data centre, Intel Server GPU, which is based on the Xe-LP architecture and is designed specifically for high-density, low-latency Android cloud gaming and media streaming.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/intel-debuts-gpu-for-the-data-centre-with-a-focus-on-android-cloud-gaming/",
+      "originalUrl": "https://www.zdnet.com/article/intel-debuts-gpu-for-the-data-centre-with-a-focus-on-android-cloud-gaming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/11/11/e53ed748-d864-4e34-bab0-ed88abdb1448/intel-server-gpu-front.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/intel-debuts-gpu-for-the-data-centre-with-a-focus-on-android-cloud-gaming/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-debuts-gpu-for-the-data-centre-with-a-focus-on-android-cloud-gaming/",
+      "publishedDateTime": "2020-11-10T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-microsoft-is-partnering-with-qualcomm-to-enhance-ai-and-ml-developer-experience.md",
       "title": "Microsoft is partnering with Qualcomm to enhance AI and ML developer experience",
       "excerpt": "Microsoft and Qualcomm are partnering to improve the development and deployment experience for developers using the respective technologies offered by the two firms to build AI and ML solutions.",
@@ -467,49 +832,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-ibm-amd-to-collaborate-on-hpc-ai-hybrid-cloud-confidential-computing.md",
-      "title": "IBM, AMD to collaborate on HPC, AI, hybrid cloud, confidential computing",
-      "excerpt": "IBM and AMD said they will collaborate on security, open source software, standards and architectures for high-performance computing and artificial intelligence workloads. The partnership between the two companies is likely to cement AMD's place in hybrid cloud environments and give more of a data center foothold in the enterprise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibm-amd-to-collaborate-on-hpc-ai-hybrid-cloud-confidential-computing/",
-      "originalUrl": "https://www.zdnet.com/article/ibm-amd-to-collaborate-on-hpc-ai-hybrid-cloud-confidential-computing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-amd-to-collaborate-on-hpc-ai-hybrid-cloud-confidential-computing/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-amd-to-collaborate-on-hpc-ai-hybrid-cloud-confidential-computing/",
-      "publishedDateTime": "2020-11-10T20:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     },
     {
@@ -676,7 +998,7 @@
       "originalUrl": "https://www.upi.com/Science_News/2020/11/10/Education-key-to-developing-lifelike-intelligent-robots-study-argues/5361605037906/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -950,319 +1272,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-the-breadth-of-healthcare-applications-of-artificial-intelligence-even-includes-physical-therapy.md",
-      "title": "The Breadth Of Healthcare Applications Of Artificial Intelligence Even Includes Physical Therapy",
-      "excerpt": "AI must play well the closer to patients it resides. Physical therapy is an excellent aspect of the needed growth, as it is a regular and visible part of patient treatment that includes humans, hardware and software interacting within a regulatory framework to improve patient outcomes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2020/11/10/the-breadth-of-healthcare-applications-of-artificial-intelligence-even-includes-physical-therapy/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2020/11/10/the-breadth-of-healthcare-applications-of-artificial-intelligence-even-includes-physical-therapy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
-          "width": 876,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/11/10/the-breadth-of-healthcare-applications-of-artificial-intelligence-even-includes-physical-therapy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/11/10/the-breadth-of-healthcare-applications-of-artificial-intelligence-even-includes-physical-therapy/amp/",
-      "publishedDateTime": "2020-11-10T12:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-how-ai-and-video-analytics-can-revolutionize-utilities-security.md",
-      "title": "How AI And Video Analytics Can Revolutionize Utilities’ Security",
-      "excerpt": "What keeps CIOs up at night is the thought of how a physical and cyber-attack on any remote location could cripple and perhaps force a Utility to shut down to recover.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/10/how-ai-and-video-analytics-can-revolutionize-utilities-security/",
-      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/10/how-ai-and-video-analytics-can-revolutionize-utilities-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faaf5fade18ffd893e954be%2F0x0.jpg",
-          "width": 1200,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/10/how-ai-and-video-analytics-can-revolutionize-utilities-security/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/11/10/how-ai-and-video-analytics-can-revolutionize-utilities-security/amp/",
-      "publishedDateTime": "2020-11-10T12:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-apples-macbook-air-macbook-pro-and-mac-mini-get-m1-chips-with-16-ai-cores.md",
-      "title": "Apple’s MacBook Air, MacBook Pro, and Mac mini get M1 chips with 16 AI cores",
-      "excerpt": "In addition to announcing macOS Big Sur and formally revealing its first Mac-specific M1 chips, Apple today unveiled the first Mac computers that will use its new software and hardware ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/10/apples-macbook-air-macbook-pro-and-mac-mini-get-m1-chips-with-16-ai-cores/",
-      "originalUrl": "https://venturebeat.com/2020/11/10/apples-macbook-air-macbook-pro-and-mac-mini-get-m1-chips-with-16-ai-cores/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/macbookairm1-e1605032857187.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/10/apples-macbook-air-macbook-pro-and-mac-mini-get-m1-chips-with-16-ai-cores/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/10/apples-macbook-air-macbook-pro-and-mac-mini-get-m1-chips-with-16-ai-cores/amp/",
-      "publishedDateTime": "2020-11-10T10:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-nlp-vs-nlu-vs-nlg-the-differences-between-three-natural-language-processing-concepts.md",
-      "title": "NLP vs. NLU vs. NLG: the differences between three natural language processing concepts",
-      "excerpt": "While natural language processing (NLP), natural language understanding (NLU), and natural language generation (NLG) are all related topics, they are distinct ones. At a high level, NLU and NLG are just components of NLP. Given how they intersect, they are commonly confused within conversation, but in",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/11/nlp-vs-nlu-vs-nlg-the-differences-between-three-natural-language-processing-concepts/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/11/nlp-vs-nlu-vs-nlg-the-differences-between-three-natural-language-processing-concepts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/11/inline_diagram-1024x515.jpg",
-          "width": 1024,
-          "height": 515,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-10T10:26:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-linkedin-open-sources-dagli-a-machine-learning-library-for-java.md",
-      "title": "LinkedIn open-sources Dagli, a machine learning library for Java",
-      "excerpt": "LinkedIn's Dagli, which is available in open source, is a machine learning library for Java and other JVM languages.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/10/linkedin-open-sources-dagli-a-machine-learning-library-for-java/",
-      "originalUrl": "https://venturebeat.com/2020/11/10/linkedin-open-sources-dagli-a-machine-learning-library-for-java/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/09/LinkedIn-logo-e1585672001937.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/10/linkedin-open-sources-dagli-a-machine-learning-library-for-java/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/10/linkedin-open-sources-dagli-a-machine-learning-library-for-java/amp/",
-      "publishedDateTime": "2020-11-10T09:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-treviranus-butler-and-fruchterman-to-speak-at-sight-tech-global.md",
-      "title": "Treviranus, Butler and Fruchterman to speak at Sight Tech Global",
-      "excerpt": "Sight Tech Global goes live the week after Thanksgiving on December 2-3, and now’s the time to pick up a free pass! The agenda for this virtual, global event on AI-related technology and accessibility for people who are blind or visually impaired just keeps getting better.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/10/treviranus-butler-and-fruchterman-to-speak-at-sight-tech-global/",
-      "originalUrl": "https://techcrunch.com/2020/11/10/treviranus-butler-and-fruchterman-to-speak-at-sight-tech-global/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/sight-tech-global-speakers3.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/10/treviranus-butler-and-fruchterman-to-speak-at-sight-tech-global/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/10/treviranus-butler-and-fruchterman-to-speak-at-sight-tech-global/amp/",
-      "publishedDateTime": "2020-11-10T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

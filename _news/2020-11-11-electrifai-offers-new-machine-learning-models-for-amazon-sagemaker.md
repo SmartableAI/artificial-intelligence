@@ -15,9 +15,9 @@ provider:
   domain: prnewswire.com
 
 topics:
-  - AWS AI
-  - AI
   - Machine Learning
+  - AI
+  - AWS AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1331976/ElectrifAi_Logo.jpg?p=facebook"
@@ -41,6 +41,6 @@ related:
         height: 330
         isCached: true
 
-secured: "UzNojGcRu7yaHClV3o/+aT8R9m3Q7aYmn3WlKeEF/TqKZWNDwOLLh73qgYFSILZk1QxyPdZkEckJWnPhzsa81Eg0uLRUiZGZKCw/XtwxZt/oLx0a91MmKvvrkX+N3TRCwLaj33/SjsWbUDLqpBG0gzjo/wu8mDFwctmRNqmEEtxR/yUmvdgJzLj1MVqvsBcYRJo9kJUrj4afHpomS9CrivX0/UBaTm/lTY7k22cpT23X8Llqskfop5kHAmpz5MDZqe25lbftndn28N778odFFXqGsbimG0hx0uo/YFr4LPsyIU6Db2XCFc2LCqnlp+h+L/RNXZY2FdY23kiSN0VumVHFolcKGtkmeikqQ+t7xl4=;OKxQNnB2cx41T8GfR8yxXw=="
+secured: "SeVFoM1yqHjXGel3dmKtPv3tV/h2arBZ1ptjROFNNpGrRVT5kB/wJpTiyld3mFOR41C1ZqKGyy3iqQ5AGtAlWJviam2s/zQdqi42Xj7dA+Xp+/mN+o9C22WSNKRv3WZQce4MmwTKFAcXdMLoYQsXWheHBA/kPdefir0l90gk9TE76lGUmPstIwpFVDhxc/F7asWQtmWKmIjJBK9VaoBvjjYSC8VrR0OfNCRSuRbmRUsM8Wa49qKRGocYEN2dlGaToPGlbxfr6frPw5kwc8U5psEYF4G7fvXRazBMMg4ggcA3Pjx2ksb+G28ahp712Wt7b+azXwOsv1tPqXB5scwVP4V9fk1a7iZ+y6Z1gq8RmTA=;/8CE0nYytW5iRDfNhy2K8A=="
 ---
 

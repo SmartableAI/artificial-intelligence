@@ -2,6 +2,309 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-11-05-dances-with-robots-and-other-tales-from-the-outer-limits.md",
+      "title": "Dances With Robots, and Other Tales From the Outer Limits",
+      "excerpt": "Artificial intelligence and dance may seem like strange bedfellows, but artists and engineers are using technology to expand the possible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/05/arts/dance/dance-and-artificial-intelligence.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/05/arts/dance/dance-and-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/08/arts/01artificial-dance-1/01artificial-dance-1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/05/arts/dance/dance-and-artificial-intelligence.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/05/arts/dance/dance-and-artificial-intelligence.amp.html",
+      "publishedDateTime": "2020-11-05T07:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-global-face-recognition-device-market-size-to-reach-20548-million-usd-by-2025.md",
+      "title": "Global Face Recognition Device Market Size to Reach 2054.8 million USD by 2025",
+      "excerpt": "According to this study, over the next five years the Face Recognition Device market will register a 18.2% CAGR in terms of revenue, the global market size will reach $ 2054.8 million by 2025, from $ 1054.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-face-recognition-device-market-size-to-reach-20548-million-usd-by-2025-2020-11-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-face-recognition-device-market-size-to-reach-20548-million-usd-by-2025-2020-11-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-05T06:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-amazing-new-headset-translates-thoughts-into-speech-for-vocally-impaired-wearers.md",
+      "title": "Amazing new headset translates thoughts into speech for vocally impaired wearers",
+      "excerpt": "A craniotomy, as he points out, is invasive brain surgery. The goal of his work at the University of Bath is to achieve the effect of “imagined speech recognition,” but without the need for someone to cut open your head and plant sensors onto the surfa ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/features/synthetic-voice-gaming-headset/",
+      "originalUrl": "https://www.digitaltrends.com/features/synthetic-voice-gaming-headset/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/headset-2-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/features/synthetic-voice-gaming-headset/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/synthetic-voice-gaming-headset/?amp",
+      "publishedDateTime": "2020-11-05T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-computer-vision-puts-a-focus-on-hygiene.md",
+      "title": "Computer Vision Puts a Focus on Hygiene",
+      "excerpt": "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/resources/210294/computer-vision-puts-a-focus-on-hygiene",
+      "originalUrl": "https://www.computerworld.com/resources/210294/computer-vision-puts-a-focus-on-hygiene",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ctw/computerworld-logo300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-05T05:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-provizio-raises-62-million-to-develop-ai-that-reduces-automotive-fatalities.md",
+      "title": "Provizio raises $6.2 million to develop AI that reduces automotive fatalities",
+      "excerpt": "Provizio raised $6.2 million for its platform that seeks to apply autonomous technologies to vehicle safety systems.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/05/provizio-raises-6-2-million-to-develop-ai-that-reduces-automotive-fatalities/",
+      "originalUrl": "https://venturebeat.com/2020/11/05/provizio-raises-6-2-million-to-develop-ai-that-reduces-automotive-fatalities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Provizio-road-test-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/05/provizio-raises-6-2-million-to-develop-ai-that-reduces-automotive-fatalities/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/05/provizio-raises-6-2-million-to-develop-ai-that-reduces-automotive-fatalities/amp/",
+      "publishedDateTime": "2020-11-05T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-were-ready-for-mainstream-facial-recognition-but-is-it-ready-for-us.md",
+      "title": "We’re Ready For Mainstream Facial Recognition, But Is It Ready For Us?",
+      "excerpt": "Before real-world implementation of this technology, bias and privacy concerns must be sufficiently explored and addressed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/05/were-ready-for-mainstream-facial-recognition-but-is-it-ready-for-us/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/05/were-ready-for-mainstream-facial-recognition-but-is-it-ready-for-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f21aa670d7d1c4064053876%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/05/were-ready-for-mainstream-facial-recognition-but-is-it-ready-for-us/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/05/were-ready-for-mainstream-facial-recognition-but-is-it-ready-for-us/amp/",
+      "publishedDateTime": "2020-11-05T04:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-land-a-career-in-fintech-with-this-blockchain-bootcamp.md",
       "title": "Land a career in fintech with this blockchain bootcamp",
       "excerpt": "The Ultimate FinTech & Blockchain Bootcamp Bundle empowers you to confidently deliver smooth, secure and transparent financial services with eight quick courses on the fintech industry, blockchain, lending,",
@@ -915,299 +1218,6 @@
         "AI",
         "AI Hardware",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-brainome-launches-product-to-optimize-machine-learning-development-process.md",
-      "title": "Brainome launches product to optimize machine learning development process",
-      "excerpt": "Brainome's new product, Daimensions, seeks to eliminate brute-force aspects of machine learning model development, integrate with existing CI/CD infrastructure and generate small ML models that can run efficiently on commodity hardware.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/brainome-launches-product-to-optimize-machine-learning-development-process/",
-      "originalUrl": "https://www.zdnet.com/article/brainome-launches-product-to-optimize-machine-learning-development-process/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/brainome-launches-product-to-optimize-machine-learning-development-process/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brainome-launches-product-to-optimize-machine-learning-development-process/",
-      "publishedDateTime": "2020-11-04T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-splice-machine-announces-livewire-the-operational-ai-platform-designed-for-industrial-use-cases.md",
-      "title": "Splice Machine Announces Livewire, the Operational AI Platform Designed for Industrial Use Cases",
-      "excerpt": "PRNewswire/ -- Splice Machine, the only scale-out SQL database with built-in machine learning, today announced Livewire, its new open source Operational AI platform for industrial IoT use cases. Livewire is the first combined data and AI platform designed to alert plant operators of likely outages or performance degradation soon enough for them to take remedial action to avoid outages and improve performance.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-cloud-computing-14e5ed2ceba320204efcda0da779e905",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-cloud-computing-14e5ed2ceba320204efcda0da779e905",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-04T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-covid-19-has-accelerated-digital-transformation-with-ai-playing-a-key-role.md",
-      "title": "Covid-19 Has Accelerated Digital Transformation — With AI Playing A Key Role",
-      "excerpt": "We're witnessing out-of-the-box thinking and once-in-a-lifetime risk-taking that's giving birth to fantastic innovations and great changes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/04/covid-19-has-accelerated-digital-transformation---with-ai-playing-a-key-role/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/04/covid-19-has-accelerated-digital-transformation---with-ai-playing-a-key-role/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3bdea7cf036822a957572d%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/04/covid-19-has-accelerated-digital-transformation---with-ai-playing-a-key-role/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/04/covid-19-has-accelerated-digital-transformation---with-ai-playing-a-key-role/amp/",
-      "publishedDateTime": "2020-11-04T04:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-smart-devices-could-use-ai-to-tell-where-your-voice-is-coming-from.md",
-      "title": "Smart devices could use AI to tell where your voice is coming from",
-      "excerpt": "University researchers have developed a machine learning model that uses the power of AI to determine precisely what direction someone's voice is coming from ... others in that it doesn't require facial recognition tech, which could be for the best.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/87432-smart-devices-could-use-ai-tell-where-voice.html",
-      "originalUrl": "https://www.techspot.com/news/87432-smart-devices-could-use-ai-tell-where-voice.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/11/2020-11-03-image-21.jpg",
-          "width": 1680,
-          "height": 1120,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/87432-smart-devices-could-use-ai-tell-where-voice.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87432-smart-devices-could-use-ai-tell-where-voice.html",
-      "publishedDateTime": "2020-11-04T03:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-tesla-full-self-driving-beta-appears-to-detect-and-avoid-road-debris-in-video.md",
-      "title": "Tesla Full Self-Driving Beta appears to detect and avoid road debris in video",
-      "excerpt": "Driving Beta has impressed with its capacity to navigate city streets and it now looks like it can also detect and avoid road debris, according to a new video. Like Tesla Autopilot, the automaker’s new Full Self-Driving Beta requires driver attention at all times since it can encounter things that it doesn’t know",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2020/11/04/tesla-full-self-driving-beta-detect-avoid-road-debris-video/",
-      "originalUrl": "https://electrek.co/2020/11/04/tesla-full-self-driving-beta-detect-avoid-road-debris-video/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/11/Tesla-full-self-driving-road-debris.jpg?quality=82&strip=all",
-          "width": 3584,
-          "height": 1832,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2020/11/04/tesla-full-self-driving-beta-detect-avoid-road-debris-video/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/04/tesla-full-self-driving-beta-detect-avoid-road-debris-video/amp/",
-      "publishedDateTime": "2020-11-04T03:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-former-walmart-execs-company-uses-ai-to-battle-billions-in-spoiled-produce.md",
-      "title": "Former Walmart Exec’s Company Uses AI To Battle Billions In Spoiled Produce",
-      "excerpt": "More than $15 billion in produce shipments to food stores is wasted or rejected each year. But a former Walmart shipping executive has started a company to help reduce those losses by using technology to streamline the process.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/edgarsten/2020/11/04/former-walmart-execs-company-uses-ai-to-battle-billions-in-spoiled-produce/",
-      "originalUrl": "https://www.forbes.com/sites/edgarsten/2020/11/04/former-walmart-execs-company-uses-ai-to-battle-billions-in-spoiled-produce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa1c0201d9ca8ef5c8c890e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D107%26cropY2%3D2359",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/edgarsten/2020/11/04/former-walmart-execs-company-uses-ai-to-battle-billions-in-spoiled-produce/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2020/11/04/former-walmart-execs-company-uses-ai-to-battle-billions-in-spoiled-produce/amp/",
-      "publishedDateTime": "2020-11-04T03:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

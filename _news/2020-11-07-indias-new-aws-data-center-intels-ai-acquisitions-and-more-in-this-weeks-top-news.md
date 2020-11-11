@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/india-aws-data-center-intel-ai-lates
 webUrl: "https://analyticsindiamag.com/india-aws-data-center-intel-ai-latest-news/"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -26,29 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "Intel Acquires Cnvrg.io To Lead The Race In The AI Game"
-    excerpt: "The deal, like most of the deals in the past, is aimed at strengthening its machine learning and AI operations."
-    publishedDateTime: 2020-11-07T10:32:00Z
-    webUrl: "https://analyticsindiamag.com/intel-acquires-cnvrg-io-to-lead-the-race-in-the-ai-game/"
+  - title: "HBM2, Tensor Units Key to Intel’s New AI Centric FPGA"
+    excerpt: "We have written much over the last four or five years about the role FPGAs might play in the ever-expanding deep learning space, both in training and"
+    publishedDateTime: 2020-11-11T15:47:00Z
+    webUrl: "https://www.nextplatform.com/2020/11/11/hbm2-tensor-units-key-to-intels-new-ai-centric-fpga/"
+    ampWebUrl: "https://www.nextplatform.com/2020/11/11/hbm2-tensor-units-key-to-intels-new-ai-centric-fpga/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/11/11/hbm2-tensor-units-key-to-intels-new-ai-centric-fpga/amp/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/11/Intel.jpg"
-        width: 716
-        height: 402
+      - url: "http://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/FPGA1.jpg"
+        width: 736
+        height: 633
         isCached: true
-  - title: "AWS to launch second infrastructure region in India by mid-2022"
-    excerpt: "Amazon Web Services (AWS) has announced the expansion of its services to include a second infrastructure region in India by mid-2022. The new AWS Asia Region, which will consist of three Availability Zones at launch,"
-    publishedDateTime: 2020-11-09T08:56:00Z
-    webUrl: "https://www.telecompaper.com/news/aws-to-launch-second-infrastructure-region-in-india-by-mid-2022--1360958"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "jpZXWXdTZTRe1xy30V8tLto+u0eplCkRM5Rn2calxvdRS8p4rs2iKVCE14vXX8OepIkDVeKIjyuK2dbFjzFJJZdNakIKVPljv0sTTDeP9qeQ/cAvtpMDmxDUgv0OsSarlJk3tsvAbCWDu0IPTWMsgFU3aBlbGEdlqN5JXheB2rD2oGWe8wNiB6AxlcsUpyqfWTFv+f1iZR7IhdfLK/vQLtk4mUqDT894W3Y4IsEo76tNKDbg0CR1lM+imvrfBNkYJSuv49d81KsQoV3n8XBGZmyWqrOhbTcmWYIM0EjNPcJhbolPxA02q4M0VT2oHz60yQ+r7kfgaxfZF2F8Gfam2ohD/7pjKysXCJAoeO4PxrPGH/wgGQxSeXG6rjMU5kqKpybRA9AlwSngmfbqG2i5kTokkqwCtKBp46ZkpFYQqUKvWbdlIX0StrWRu7maROkV1UGnjsdp+ZFJAU5saaYzH+LLDZh2K/uoQx+Sm6IdltHziggv6tnnbMwV8YhZtwVWeI7+ZSzUES9T1Ch1UHeN6Q==;7ODZuCnJeTOYB0fM/jbIkA=="
 ---

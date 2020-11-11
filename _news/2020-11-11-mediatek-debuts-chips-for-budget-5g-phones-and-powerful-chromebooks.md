@@ -87,7 +87,7 @@ related:
     provider:
       name: Digi Times
       domain: digitimes.com
-    quality: 24
+    quality: 41
     images:
       - url: "https://www.digitimes.com/newsshow/20201111PR202_files/1_r.jpg"
         width: 336

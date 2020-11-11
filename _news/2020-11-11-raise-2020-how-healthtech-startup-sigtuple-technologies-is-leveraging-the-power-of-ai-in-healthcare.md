@@ -44,6 +44,20 @@ related:
         width: 780
         height: 405
         isCached: true
+  - title: "Google launches AI tools for healthcare to streamline document review, analysis"
+    excerpt: "Google launched new artificial intelligence tools for healthcare providers to search through medical documentation on Nov. 10, according to a Google Cloud blog post. Healthcare professionals can now preview Google's Healthcare Natural Language API and AutoML Entity Extraction for Healthcare,"
+    publishedDateTime: 2020-11-11T15:47:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/google-launches-ai-tools-for-healthcare-to-streamline-document-review-analysis.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 50
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Dell Announces New HPC and AI Solutions for Healthcare, Life Sciences, Manufacturing"
     excerpt: "Dell Technologies announces new Dell EMC Ready Solutions and high-performance computing (HPC) cloud service provider"
     publishedDateTime: 2020-11-09T16:26:00Z

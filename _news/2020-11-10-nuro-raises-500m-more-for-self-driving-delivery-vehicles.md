@@ -57,6 +57,22 @@ related:
         width: 676
         height: 545
         isCached: true
+  - title: "Self-driving delivery startup Nuro just raised $500 million to help make automated pizza and grocery delivery a reality — here's how it works"
+    excerpt: "Nuro's R2 vehicle. Nuro Nuro, a self-driving delivery startup, has raised $500 million in its latest funding round, according to the"
+    publishedDateTime: 2020-11-10T00:00:00Z
+    webUrl: "https://www.businessinsider.com/self-driving-delivery-vehicle-startup-nuro-how-it-works-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/self-driving-delivery-vehicle-startup-nuro-how-it-works-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/self-driving-delivery-vehicle-startup-nuro-how-it-works-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+    images:
+      - url: "https://i.insider.com/5faad0c01df1d50018219e64?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Nuro raises $500M more to further develop self-driving delivery technology"
     excerpt: "With $500M in new funding, #autonomous delivery company #Nuro is said to be worth $5 billion. #venturecapital #siliconvalley #delivery #MountainView"
     publishedDateTime: 2020-11-09T12:06:00Z

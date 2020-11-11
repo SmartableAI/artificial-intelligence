@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-26-30000-grant-to-support-uhv-math-robotics-programs.md",
+      "title": "$30,000 grant to support UHV math, robotics programs",
+      "excerpt": "A $30,000 grant from Alcoa Foundation will allow the University of Houston-Victoria to continue to host public events focused on math, computer science and robotics for middle and high school",
+      "sourceUrl": null,
+      "webUrl": "https://www.victoriaadvocate.com/news/30-000-grant-to-support-uhv-math-robotics-programs/article_bd86a028-13de-11eb-94c0-5fb7be856e28.html",
+      "originalUrl": "https://www.victoriaadvocate.com/news/30-000-grant-to-support-uhv-math-robotics-programs/article_bd86a028-13de-11eb-94c0-5fb7be856e28.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/0/b4/0b42eab4-f34e-11e8-aa1f-f32a7a8d25be/5bfefdbc06708.image.jpg?resize=500%2C625",
+          "width": 500,
+          "height": 625,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-25T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Victoria Advocate",
+        "domain": "victoriaadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-artificial-intelligence-cheat-sheet.md",
       "title": "Artificial intelligence: Cheat sheet",
       "excerpt": "Learn artificial intelligence basics ... AI chatbots can be a great first line of customer interaction. Healthcare: Not only are some AIs able to detect cancer and other health concerns before doctors, they can also provide feedback on patient care ...",
@@ -1284,58 +1328,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-researchers-detail-land-ai-that-learns-from-autonomous-vehicle-disengagements.md",
-      "title": "Researchers detail LaND, AI that learns from autonomous vehicle disengagements",
-      "excerpt": "AI researchers often disengagements as a signal ... 2,00 disengagements produced during the LaND training on Berkeley sidewalks. Delivery robot startup Kiwibot also operates at UC Berkeley and ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/15/researchers-detail-land-ai-that-learns-from-autonomous-vehicle-disengagements/",
-      "originalUrl": "https://venturebeat.com/2020/10/15/researchers-detail-land-ai-that-learns-from-autonomous-vehicle-disengagements/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/land.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/15/researchers-detail-land-ai-that-learns-from-autonomous-vehicle-disengagements/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/15/researchers-detail-land-ai-that-learns-from-autonomous-vehicle-disengagements/amp/",
-      "publishedDateTime": "2020-10-15T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

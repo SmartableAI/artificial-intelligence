@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-16-how-can-artificial-intelligence-help-in-the-fight-to-remain-secure.md",
+      "title": "How can artificial intelligence help in the fight to remain secure?",
+      "excerpt": "Artificial intelligence (AI) has gone from being science fiction to an increasingly common part of our lives. TV streaming services use AI and machine learning (ML) to make recommendations of what you might like to watch next,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/357448/how-can-artificial-intelligence-help-in-the-fight-to",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/357448/how-can-artificial-intelligence-help-in-the-fight-to",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1570815737/itpro/2018/01/shutterstock_ai_artificial_intelligence_security.png",
+          "width": 800,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T13:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-velodyne-is-poised-to-be-a-winning-self-driving-play.md",
       "title": "Velodyne Is Poised to Be a Winning Self-Driving Play",
       "excerpt": "The validation of Velodyne's technology by multiple, large companies and the positive outlook for LIDAR make Velodyne stock a buy.",
@@ -1344,59 +1396,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
-      "excerpt": "Artificial intelligence (AI) involves using computers ... deploying AI brains into the Waymo self-driving car business, and applying these technologies to medical research and weather forecasting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "originalUrl": "https://www.fool.com/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F594319%2Fartificial-intelligence-digital-brain.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/07/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "publishedDateTime": "2020-10-07T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

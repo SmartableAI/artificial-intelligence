@@ -210,6 +210,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-29-7-ai-stocks-to-buy-as-automation-advances.md",
+      "title": "7 AI Stocks to Buy as Automation Advances",
+      "excerpt": "However, Waymo is actually rolling out the self ... In any regard, Trimble has multiple end markets that can be disrupted via artificial intelligence and machine learning. Trimble says, We have ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/7-ai-stocks-to-buy-as-automation-advances-1029736496",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/7-ai-stocks-to-buy-as-automation-advances-1029736496",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/7-ai-stocks-to-buy-as-automation-advances-1029736496",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-ai-stocks-to-buy-as-automation-advances-1029736496",
+      "publishedDateTime": "2020-10-28T12:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-7-ai-stocks-to-buy-as-automation-advances.md",
       "title": "7 AI Stocks to Buy as Automation Advances",
       "excerpt": "However, Waymo is actually rolling out the self ... In any regard, Trimble has multiple end markets that can be disrupted via artificial intelligence and machine learning. Trimble says, We ...",
@@ -1392,49 +1435,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-self-driving-cars-everything-you-need-to-know-about-the-futures-most-hyped-tech.md",
-      "title": "Self-Driving Cars: Everything You Need To Know About the Future’s Most-Hyped Tech",
-      "excerpt": "But the promise of self-driving cars has yet to be realized, though that’s not for the lack of promise or trying. Self-driving, also known as autonomous, cars have been in the zeitgeist since the late 1950s.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedrive.com/cars-101/36937/self-driving-electric-cars",
-      "originalUrl": "https://www.thedrive.com/cars-101/36937/self-driving-electric-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.thedrive.com/wp-content/uploads/2017/01/gettyimages-609845728.jpg?quality=85",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T13:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Drive",
-        "domain": "thedrive.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

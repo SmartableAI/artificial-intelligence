@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-14-knime-and-h2oai-accelerate-and-simplify-end-to-end-data-science-automation.md",
+      "title": "KNIME and H2O.ai Accelerate and Simplify End-to-end Data Science Automation",
+      "excerpt": "The joint offering combines Driverless AI for AutoML and KNIME Server for workflow management across the entire data science life cycle - from data access to optimization and deployment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation/article_13c91b26-2708-53df-b588-f6f434a3fecf.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/knime-and-h2o-ai-accelerate-and-simplify-end-to-end-data-science-automation/article_13c91b26-2708-53df-b588-f6f434a3fecf.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-new-machine-learning-concepts-can-help-develop-novel-drugs.md",
       "title": "New machine learning concepts can help develop novel drugs",
       "excerpt": "Tandem mass spectrometry is a powerful analytical tool used to characterize complex mixtures in drug discovery and other fields.",
@@ -1292,49 +1335,6 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-sailthru-announces-new-machine-learning-testing-infrastructure.md",
-      "title": "Sailthru Announces New Machine Learning Testing Infrastructure",
-      "excerpt": "Stock quotes by finanzen.net NEW YORK, Oct. 07, 2020 (GLOBE NEWSWIRE) -- Sailthru, the leading personalized marketing automation technology provider for retailers and publishers, today announced a new investment in wide-scale testing infrastructure to make it easier for marketers to test copy and design assets that drive engagement and conversion.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sailthru-announces-new-machine-learning-testing-infrastructure-1029657213",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sailthru-announces-new-machine-learning-testing-infrastructure-1029657213",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -8,7 +8,7 @@ webUrl: "https://venturebeat.com/2020/11/11/responsible-ai-becomes-critical-in-2
 ampWebUrl: "https://venturebeat.com/2020/11/11/responsible-ai-becomes-critical-in-2021/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/11/responsible-ai-becomes-critical-in-2021/amp/"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/11/robot.AI_.world_.GettyImages-640351083.jpg?w=1200&strip=all"

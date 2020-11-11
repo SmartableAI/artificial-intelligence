@@ -41,7 +41,7 @@ related:
     provider:
       name: Network World
       domain: networkworld.com
-    quality: 44
+    quality: 46
     images:
       - url: "https://images.idgesg.net/images/article/2020/10/cso_security_hack_control-center_breach_gettyimages-808157576_by-gorodenkoff_2400x1600px-100861757-large.jpg"
         width: 1200

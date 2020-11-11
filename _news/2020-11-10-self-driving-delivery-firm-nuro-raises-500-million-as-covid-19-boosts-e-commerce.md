@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27P1FT"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27P1FT"
 type: article
 quality: 182
-heat: 232
+heat: 242
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540562500&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80T3"
         width: 676
         height: 545
+        isCached: true
+  - title: "Self-driving delivery startup Nuro just raised $500 million to help make automated pizza and grocery delivery a reality — here's how it works"
+    excerpt: "Nuro's R2 vehicle. Nuro Nuro, a self-driving delivery startup, has raised $500 million in its latest funding round, according to the"
+    publishedDateTime: 2020-11-10T00:00:00Z
+    webUrl: "https://www.businessinsider.com/self-driving-delivery-vehicle-startup-nuro-how-it-works-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/self-driving-delivery-vehicle-startup-nuro-how-it-works-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/self-driving-delivery-vehicle-startup-nuro-how-it-works-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+    images:
+      - url: "https://i.insider.com/5faad0c01df1d50018219e64?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Nuro raises $500M more for self-driving delivery vehicles"
     excerpt: "Nuro Inc., one of the better-funded startups in the autonomous driving market, today disclosed that it has added $500 million to its war chest through a new funding round led by T. Rowe Price Associates."

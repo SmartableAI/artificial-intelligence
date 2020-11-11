@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-11T06:48:00Z
 originalUrl: "https://www.digitimes.com/news/a20201111PR202.html"
 webUrl: "https://www.digitimes.com/news/a20201111PR202.html"
 type: article
-quality: 24
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.digitimes.com/newsshow/20201111PR202_files/1_r.jpg"

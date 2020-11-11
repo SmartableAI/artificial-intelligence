@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/08/why-those-puddles
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/08/why-those-puddles-on-the-roadway-can-be-startling-hazardous-for-self-driving-cars/amp/"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 24
+  - title: "Honda’s self-driving system wins OK for use on busy roads in Japan"
+    excerpt: "Honda is launching a new version of its Legend sedan that will take over for drivers on busy highways after the company got approval for its self-driving system in Japan."
+    publishedDateTime: 2020-11-11T15:30:00Z
+    webUrl: "https://www.wraltechwire.com/2020/11/11/hondas-self-driving-system-wins-ok-for-use-on-busy-roads-in-japan/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 24
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2020/11/honda-4967587_1280-e1605108185813-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Edmunds: Where are our self-driving cars?"
     excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time, so you must always keep your hands on the wheel and pay extra attention to the road."
     publishedDateTime: 2020-11-07T07:03:00Z
