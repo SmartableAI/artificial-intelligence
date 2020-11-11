@@ -1,28 +1,22 @@
 ---
 category: news
 title: "IBM and AMD Announce Joint Development Agreement to Advance Confidential Computing for the Cloud and Accelerate Artificial Intelligence"
-excerpt: "PRNewswire/ -- IBM (NYSE: IBM) and AMD (NASDAQ: AMD) today announced a multi-year joint development agreement to enhance and extend the security"
-publishedDateTime: 2020-11-11T11:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ibm-and-amd-announce-joint-development-agreement-to-advance-confidential-computing-for-the-cloud-and-accelerate-artificial-intelligence-301170668.html"
-webUrl: "https://www.prnewswire.com/news-releases/ibm-and-amd-announce-joint-development-agreement-to-advance-confidential-computing-for-the-cloud-and-accelerate-artificial-intelligence-301170668.html"
+excerpt: "\"IBM is focused on giving our clients choice, agility and security in our hybrid cloud offerings through advanced research, development and scaling of new technologies.\" \"This agreement between AMD and IBM aligns well with our long-standing commitment to collaborating with leaders in the industry,"
+publishedDateTime: 2020-11-11T12:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/ibm-and-amd-announce-joint-development-agreement-to-advance-confidential-computing"
+webUrl: "https://www.nasdaq.com/press-release/ibm-and-amd-announce-joint-development-agreement-to-advance-confidential-computing"
 type: article
-quality: 7
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-    width: 2698
-    height: 1414
-    isCached: true
 
 related:
   - title: "IBM, AMD to collaborate on HPC, AI, hybrid cloud, confidential computing"
@@ -36,6 +30,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 68
+  - title: "IBM and AMD Begin Cooperation on Cybersecurity and AI"
+    excerpt: "AMD and IBM began work on a cybersecurity and AI program built on \"open-source software, open standards, and open system architectures.\""
+    publishedDateTime: 2020-11-11T13:45:00Z
+    webUrl: "https://www.thestreet.com/investing/ibm-amd-cooperate-on-cybersecurity-and-artificial-intelligence"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/ibm-amd-cooperate-on-cybersecurity-and-artificial-intelligence"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/ibm-amd-cooperate-on-cybersecurity-and-artificial-intelligence"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 57
+    images:
+      - url: "https://content.jwplatform.com/thumbs/IYeb2VMl-720.jpg"
+        width: 720
+        height: 406
+        isCached: true
   - title: "Dell Launches Ready Solutions and HPC Cloud Collaborations for AI, Life Sciences, Manufacturing"
     excerpt: "Dell Technologies (NYSE:DELL) announces new Dell EMC Ready Solutions and high-performance computing (HPC) cloud service provider collaborations to accelerate AI and advanced computing innovation in healthcare,"
     publishedDateTime: 2020-11-09T15:18:00Z
@@ -46,6 +56,6 @@ related:
       domain: insidehpc.com
     quality: 5
 
-secured: "RfAdDzYEy1tUBptUkVhJAFe2k75irpAdQVeWMmFxfViXjTk7FxmUESGr007OqJFLei67gQ0lHfgbTzBhiZknL5WR7iQTIUvYMHFrA8UtSaaSl3IIxZ89bpiNBQe1uAPpx1A9wn8n1mFmI4k6pyBPEL8d7HvBafqhy4RmHFLc58+GZYmMHZkYf79RtRjwRNuA0j1pu9A0uImXLfuCAtu4mjR+niyZq1mOEmhj1COQgM08ywosKjkoCErg6hMHeSKEtzW8i2zifPXRtuRcCiwetxYFRIBTVXYLZLBExGOaZuifJPZnL5qMWr64FSF3gb8NavcrZiU3mlPjjBvidpEZBs0n3znShB/zydP3LpS6tG4=;n7Ia6itQsZusbmWzCl7EQA=="
+secured: "3280gjP8EjFC0IzhplOEu+m9MWpVVFA0eY28kQBLRSTQhrkQOTXgJuXyAgX3X4rdMcJmAdUn9+xVbovhIbIQJXeqe7GFnBLyeca1YBWEX82hcmO0qddT34oR7HG60lGNN6P36uOxbEvWvhP8CxDlRbdXDca4zcMy9b+NoFr/LfXsJKhpK/Io3bDiwvfYS4pQQaWAuzGDsTXi+IBuJl2PBf3DHJTSCIQK82Kt9wpMl7Hy/lLxtj6I85iQf5Obr7SC9T38qn7YItCIYj6Jvy5sy9xz6Rg8VRnEYKICl89Ia0+kobNYfP5zlfFpuaIuUq6nS1maztDfp2MYpaSdfAQW0QKhCrKPsV9l48+zdDvsjs0=;a2qhyShv/mR7pABspss8IQ=="
 ---
 

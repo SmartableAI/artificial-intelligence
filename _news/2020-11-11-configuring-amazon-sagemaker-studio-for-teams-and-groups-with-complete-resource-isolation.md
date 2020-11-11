@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/configuring-amazon-s
 webUrl: "https://aws.amazon.com/blogs/machine-learning/configuring-amazon-sagemaker-studio-for-teams-and-groups-with-complete-resource-isolation/"
 type: article
 quality: 80
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 445
     height: 330
     isCached: true
+
+related:
+  - title: "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker"
+    excerpt: "ElectrifAi, one of the global leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,"
+    publishedDateTime: 2020-11-11T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-301170639.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 71
+    images:
+      - url: "https://mma.prnewswire.com/media/1331976/ElectrifAi_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
 
 secured: "8Bx+Kpg8cSlZnJuAwQCsaOm/di33JcSK5X/HqHyu+Dcfln8XtdJSzAgYgP2xdF6GFIy4AEmcfRbjrrwWv6hK/Cq7oyl3+pnJpbC/5irWuwZ0znY/BbF8iqp0ZcU8wN9p3rsKm6x49J8mLKDGuIhL6p0XoNapd7Szrecg9n2bFfuABvr/BoGILUCz4YMQbQonHI+X9jI8vc77IE88LSc7mzLbFkgEfP9UPVKK90Ak7DsU5VOqlkT27yP6W9ErAUBj3agzoiEiNweQ6vkXf+cUWrOSI/b2ztK3DKA0WrE/lKStFdLQlZ3SvVxKZzzGLgqtaBZXVQZbCvSR+4yOxdSuHpDtgpEmzvmG26Uvp8M4rLI=;d3ljofjmJqFlaaIc8Ptkrg=="
 ---

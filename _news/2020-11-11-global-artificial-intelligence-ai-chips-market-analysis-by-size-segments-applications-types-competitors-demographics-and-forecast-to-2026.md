@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-11T12:30:00Z
 originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-analysis-by-size-segments-applications-types-competitors-demographics-and-forecast-to-2026-2020-11-11"
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-analysis-by-size-segments-applications-types-competitors-demographics-and-forecast-to-2026-2020-11-11"
 type: article
-quality: 45
+quality: 62
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

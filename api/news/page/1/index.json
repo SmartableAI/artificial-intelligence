@@ -2,6 +2,161 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-11-researchers-claim-ai-algorithm-uses-heart-rate-and-motion-data-to-predict-age-sex-and-more.md",
+      "title": "Researchers claim AI algorithm uses heart rate and motion data to predict age, sex, and more",
+      "excerpt": "University of Cambridge and Alan Turing Institute researchers developed an algorithm that predicts age, BMI, and more from wearable data.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/11/researchers-claim-ai-algorithm-use-heart-rate-and-motion-data-to-predict-age-sex-and-more/",
+      "originalUrl": "https://venturebeat.com/2020/11/11/researchers-claim-ai-algorithm-use-heart-rate-and-motion-data-to-predict-age-sex-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/IMG_4433D-e1605045130970.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/11/researchers-claim-ai-algorithm-use-heart-rate-and-motion-data-to-predict-age-sex-and-more/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/11/researchers-claim-ai-algorithm-use-heart-rate-and-motion-data-to-predict-age-sex-and-more/amp/",
+      "publishedDateTime": "2020-11-11T06:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-equitable-tech-ai-enabled-platform-to-reduce-bias-in-datasets-released.md",
+      "title": "Equitable tech: AI-enabled platform to reduce bias in datasets released",
+      "excerpt": "The platform could promote equity in academic admissions, credit score assessment, hiring, academic admissions, and more, according to Synthesized.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/equitable-tech-ai-enabled-platform-to-reduce-bias-in-datasets-released/",
+      "originalUrl": "https://www.techrepublic.com/article/equitable-tech-ai-enabled-platform-to-reduce-bias-in-datasets-released/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/11/11/44436744-fe4e-4eaf-bdbe-c943f9889f46/resize/1200x/ec4c1fe64d24827800bfe87676c10f69/metamorworks-11.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/equitable-tech-ai-enabled-platform-to-reduce-bias-in-datasets-released/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/equitable-tech-ai-enabled-platform-to-reduce-bias-in-datasets-released/",
+      "publishedDateTime": "2020-11-11T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-this-is-the-design-story-behind-bmws-all-new-flagship-electric-ix.md",
+      "title": "This Is The Design Story Behind BMW’s All-New Flagship Electric iX",
+      "excerpt": "In an exclusive interview, BMW Group head of design Adrian van Hooydonk explains the progressive design and pioneering technology behind the flagship electric BMW iX, a car reinventing the marque in t",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nargessbanks/2020/11/11/this-is-the-design-story-behind-bmws-all-new-flagship-electric-ix/",
+      "originalUrl": "https://www.forbes.com/sites/nargessbanks/2020/11/11/this-is-the-design-story-behind-bmws-all-new-flagship-electric-ix/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fabd7cdca60dc5622110ced%2F0x0.jpg%3FcropX1%3D209%26cropX2%3D896%26cropY1%3D201%26cropY2%3D587",
+          "width": 687,
+          "height": 386,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nargessbanks/2020/11/11/this-is-the-design-story-behind-bmws-all-new-flagship-electric-ix/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nargessbanks/2020/11/11/this-is-the-design-story-behind-bmws-all-new-flagship-electric-ix/amp/",
+      "publishedDateTime": "2020-11-11T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-researchers-propose-physical-ai-as-key-to-lifelike-robots.md",
       "title": "Researchers Propose ‘Physical AI’ As Key To Lifelike Robots",
       "excerpt": "This combined discipline of \"physical AI\" could effectively be the missing link in the attempt to create artificially intelligent robots that look and behave like humans, the Imperial College London team suggests.",
@@ -10,7 +165,7 @@
       "originalUrl": "https://www.forbes.com/sites/simonchandler/2020/11/11/researchers-propose-physical-ai-as-key-to-lifelike-robots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -49,6 +204,59 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-deepmind-would-have-probably-failed-without-google-says-early-investor.md",
+      "title": "DeepMind would have 'probably failed' without Google, says early investor",
+      "excerpt": "Founding DeepMind investor Humayun Sheikh told CNBC that the London AI lab would have \"probably failed\" if Google hadn't bought it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/11/11/deepmind-would-have-probably-failed-without-google-says-investor.html",
+      "originalUrl": "https://www.cnbc.com/2020/11/11/deepmind-would-have-probably-failed-without-google-says-investor.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/103928104-GettyImages-514242504.jpg?v=1532564035",
+          "width": 1024,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/11/11/deepmind-would-have-probably-failed-without-google-says-investor.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/11/deepmind-would-have-probably-failed-without-google-says-investor.html",
+      "publishedDateTime": "2020-11-11T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     },
@@ -270,7 +478,7 @@
       "originalUrl": "https://www.zdnet.com/article/ibm-amd-to-collaborate-on-hpc-ai-hybrid-cloud-confidential-computing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -313,7 +521,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/configuring-amazon-sagemaker-studio-for-teams-and-groups-with-complete-resource-isolation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -564,7 +772,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/cash-flow-solutions-and-transaction-science-join-forces-as-ribbit-an-ai-fintech-firm-1029788757",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 142,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -851,50 +1059,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-11-accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards.md",
-      "title": "Accern Wins The Best AI Platform Award at the 6th Annual Benzinga Global Fintech Awards",
-      "excerpt": "PRNewswire/ -- Accern Corporation, a leading no-code, Artificial Intelligence (AI) company is honored to announce that",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards-1029788645",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards-1029788645",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards-1029788645",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards-1029788645",
-      "publishedDateTime": "2020-11-10T11:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2020-11-11-apples-macbook-air-macbook-pro-and-mac-mini-get-m1-chips-with-16-ai-cores.md",
       "title": "Apple’s MacBook Air, MacBook Pro, and Mac mini get M1 chips with 16 AI cores",
       "excerpt": "In addition to announcing macOS Big Sur and formally revealing its first Mac-specific M1 chips, Apple today unveiled the first Mac computers that will use its new software and hardware ...",
@@ -903,7 +1067,7 @@
       "originalUrl": "https://venturebeat.com/2020/11/10/apples-macbook-air-macbook-pro-and-mac-mini-get-m1-chips-with-16-ai-cores/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1099,162 +1263,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-machine-learning-and-artificial-intelligence-to-revolutionize-the-world-of-art-and-creativity.md",
-      "title": "Machine learning and Artificial Intelligence to revolutionize the world of art and creativity",
-      "excerpt": "Runway is a Chilean startup that developed an Artificial Intelligence platform that is already used in the United States to create audiovisual, musical and art productions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/359398",
-      "originalUrl": "https://www.entrepreneur.com/article/359398",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1604983664-Depositphotos-196603142-l-2015.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/359398",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359398",
-      "publishedDateTime": "2020-11-10T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-mediatek-debuts-chips-for-budget-5g-phones-and-powerful-chromebooks.md",
-      "title": "MediaTek debuts chips for budget 5G phones and powerful Chromebooks",
-      "excerpt": "In 2021, the Taiwanese chipmaker will bring 5G to the most affordable phones and add advanced camera and AI features to Chromebooks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/10/mediatek-debuts-chips-for-budget-5g-phones-and-powerful-chromebooks/",
-      "originalUrl": "https://venturebeat.com/2020/11/10/mediatek-debuts-chips-for-budget-5g-phones-and-powerful-chromebooks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/dimensity700.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/10/mediatek-debuts-chips-for-budget-5g-phones-and-powerful-chromebooks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/10/mediatek-debuts-chips-for-budget-5g-phones-and-powerful-chromebooks/amp/",
-      "publishedDateTime": "2020-11-10T08:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-biotech-accelerating-innovation-in-health-care.md",
-      "title": "BioTech: Accelerating innovation in health care",
-      "excerpt": "The answer will likely come from advances initiated by biotech startups, aided by new data processing and artificial intelligence ... generally a new innovative therapy is a long and complex ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/10/biotech-accelerating-innovation-in-health-care/",
-      "originalUrl": "https://venturebeat.com/2020/11/10/biotech-accelerating-innovation-in-health-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Rafaele-Tordjman_Interview-Stills8_selected.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 616,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/10/biotech-accelerating-innovation-in-health-care/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/10/biotech-accelerating-innovation-in-health-care/amp/",
-      "publishedDateTime": "2020-11-10T07:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

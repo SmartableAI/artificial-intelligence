@@ -28,7 +28,7 @@ related:
   - title: "Face for sale: Leaks and lawsuits blight Russia facial recognition"
     excerpt: "When Anna Kuznetsova saw an ad offering access to Moscow's face recognition cameras, all she had to do was pay 16,000 roubles ($200) and send a photo of the person she wanted spying on."
     publishedDateTime: 2020-11-09T15:05:00Z
-    webUrl: "https://www.reuters.com/article/us-russia-privacy-lawsuit-feature-trfn/face-for-sale-leaks-and-lawsuits-blight-russia-facial-recognition-idUSKBN27P10U"
+    webUrl: "https://www.reuters.com/article/russia-privacy-lawsuit/feature-face-for-sale-leaks-and-lawsuits-blight-russia-facial-recognition-idUSL8N2HQ44M"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P10U"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P10U"
     type: article

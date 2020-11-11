@@ -3,8 +3,8 @@ category: news
 title: "Face for sale: Leaks and lawsuits blight Russia facial recognition"
 excerpt: "When Anna Kuznetsova saw an ad offering access to Moscow's face recognition cameras, all she had to do was pay 16,000 roubles ($200) and send a photo of the person she wanted spying on."
 publishedDateTime: 2020-11-09T15:05:00Z
-originalUrl: "https://www.reuters.com/article/us-russia-privacy-lawsuit-feature-trfn/face-for-sale-leaks-and-lawsuits-blight-russia-facial-recognition-idUSKBN27P10U"
-webUrl: "https://www.reuters.com/article/us-russia-privacy-lawsuit-feature-trfn/face-for-sale-leaks-and-lawsuits-blight-russia-facial-recognition-idUSKBN27P10U"
+originalUrl: "https://www.reuters.com/article/russia-privacy-lawsuit/feature-face-for-sale-leaks-and-lawsuits-blight-russia-facial-recognition-idUSL8N2HQ44M"
+webUrl: "https://www.reuters.com/article/russia-privacy-lawsuit/feature-face-for-sale-leaks-and-lawsuits-blight-russia-facial-recognition-idUSL8N2HQ44M"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P10U"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P10U"
 type: article
@@ -54,6 +54,6 @@ related:
         height: 733
         isCached: true
 
-secured: "ftNC06UQw550PTjl/vLBc8SzquShjt/nhDMIx9A3RDptlNIC8Alqpgk/Op0F0se+ZtmgNVzg1XNXhvL/mCo1yL+1tQ3BMXlEniGX39HJc7oG+Z28kHhuGdp3BNfJ0/UhGZnoGFWw7sjBL6t6ZSDRsy9edZ6DzRsHXJRR7i8qu49eaa7N/H435OoNYDJkN3KUqHaMIRM1qZ6z0veIT+3WhCsiS28mUeze8sTiRKYCRO8bMuOa8tpCN1969atPf58dICOAC8zMz5K8JFtL+aCjfuiHPHGA2GP+HSoP9ilX0zicivtS8JabsZZWy5YGHjxyKLFZNJB9yJcjMX2zo1VQ1gu4LkJXw7bSsxnII4gWtg4=;zv5bMXCdUU7DXL80N80pgg=="
+secured: "km8ddVhsLnbAcYFQIJ5xBpUGex6kTfjS4DdIUd37xNZz8ltFQ4B6kby0zM1CvMDPmg5ck7zdEkHuubN32dTvA1TeeN6NaLS+i5UfbbfvQG/9+HRN1fR/QBGvRlWNT0OQD58GB5ofJaAuTXAwh56Ji9V+Lpfja0KIIm0ZKAMjQrUaq/Np948eASrXGitxmar7ZAXw+Wxq1/nW1EQEmb5WbUynAycv2btmsKzCxdWBmIl+UpM4ccHMCyqqU7crddcC5LBjyYwKl4TbahTPa0FoTFlHu0D6fE+3Li9IcHx5LQadRUM3hKZ57t60uLrai1rbkpdngMeOyC9eyPlh6b/qbmkDRdCe7NFNkD7E02MfduI=;h0JBjaJspa1iRMkrWyJvgA=="
 ---
 

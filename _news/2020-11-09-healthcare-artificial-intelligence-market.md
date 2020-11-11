@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2183410/healthcare-artificial-intelligenc
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2183410/healthcare-artificial-intelligence-market-is-thriving"
 type: article
 quality: 76
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://images.yourstory.com/cs/2/3fb20ae02dc911e9af58c17e6cc3d915/Imagenyuh-1604738778996.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
         width: 800
         height: 400
-        isCached: true
-  - title: "Healthcare execs going all-in on AI, survey shows"
-    excerpt: "The survey, conducted by Optum, shows that healthcare executives' confidence in AI is high, and most expect to soon see cost savings from implementing the technology. Further, a majority are looking to hire talent with experience developing AI."
-    publishedDateTime: 2020-11-06T22:42:00Z
-    webUrl: "https://medcitynews.com/2020/11/healthcare-execs-going-all-in-on-ai-survey-shows/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 54
-    images:
-      - url: "https://medcitynews.com/uploads/2019/11/GettyImages-1137784739.jpg"
-        width: 703
-        height: 497
         isCached: true
   - title: "Dell Announces New HPC and AI Solutions for Healthcare, Life Sciences, Manufacturing"
     excerpt: "Dell Technologies announces new Dell EMC Ready Solutions and high-performance computing (HPC) cloud service provider"

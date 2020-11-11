@@ -169,6 +169,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Walmart partners with GM's Cruise on self-driving delivery pilot in AZ"
+    excerpt: "(Reuters) - Walmart Inc is adding Cruise, a majority-owned affiliate of U.S. automaker General Motors Co <GM.N>, to its roster of self-driving startup partners, in a pilot delivery program early next year in Scottsdale,"
+    publishedDateTime: 2020-11-10T15:04:00Z
+    webUrl: "https://www.businessinsider.com/walmart-partners-with-gms-cruise-on-self-driving-delivery-pilot-in-az-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/walmart-partners-with-gms-cruise-on-self-driving-delivery-pilot-in-az-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/walmart-partners-with-gms-cruise-on-self-driving-delivery-pilot-in-az-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
   - title: "Walmart teams up with Cruise for electric self-driving deliveries"
     excerpt: "Walmart announced a new partnership to promote automated, contactless delivery Tuesday. The Bentonville-based retailer will be partnering with self-driving"
     publishedDateTime: 2020-11-10T14:40:00Z
@@ -217,6 +228,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Walmart teams up with GM's Cruise to test grocery delivery with self-driving cars"
+    excerpt: "Walmart announced Tuesday that the company has joined forces with self-driving car company Cruise to test out autonomous grocery delivery in Arizona."
+    publishedDateTime: 2020-11-11T14:53:00Z
+    webUrl: "https://www.fox10phoenix.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars"
+    ampWebUrl: "https://www.fox10phoenix.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars.amp"
+    cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars.amp"
+    type: article
+    provider:
+      name: FOX 10 Phoenix
+      domain: fox10phoenix.com
+    quality: 39
+    images:
+      - url: "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2020/11/932/470/Walmart-and-Cruise.png?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
   - title: "Walmart & Cruise with Self-Driving will Deliver in AZ"
     excerpt: "Walmart is cruising over to Scottsdale, Arizona, to rev up a new pilot with self-driving car company, Cruise. What’s unique about Cruise is they’re the only self-driving car company to operate an"
     publishedDateTime: 2020-11-11T01:22:00Z
@@ -259,19 +286,19 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Walmart teams up with GM's Cruise to test grocery delivery with self-driving cars"
-    excerpt: "Ward said the fleet of vehicles will not only save time but they also use 100% renewable energy. The company, which has been outspoken about its sustainability efforts, said using these vehicles will help to support Walmart's goal of reaching zero emissions by 2040."
-    publishedDateTime: 2020-11-10T21:31:00Z
-    webUrl: "https://www.foxbusiness.com/retail/walmart-cruise-grocery-delivery"
+  - title: "Walmart and self-driving car company Cruise pilot grocery deliveries in Arizona"
+    excerpt: "UNFI reaches labor accords with Teamsters in New York, CaliforniaUnited Natural Foods Inc. (UNFI) and Teamsters union locals in New York and California have agreed to new"
+    publishedDateTime: 2020-11-11T13:32:00Z
+    webUrl: "https://www.freshplaza.com/article/9267196/walmart-and-self-driving-car-company-cruise-pilot-grocery-deliveries-in-arizona/"
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 19
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 20
     images:
-      - url: "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/10/0/0/walmart.jpg?ve=1&tl=1"
-        width: 2100
-        height: 1500
+      - url: "https://www.freshplaza.com/remote.axd?https://agfstorage.blob.core.windows.net/misc/FP_com/2020/index_foto_retail/Retail_Walmart_3009.jpg?preset=OgImage"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Walmart is expanding its fleet of self-driving cars to Scottsdale, Arizona for a pilot delivery program with autonomous startup Cruise"
     excerpt: "Walmart is set to roll out a pilot delivery program next year with GM-owned Cruise that will use self-driving Chevy Bolt vehicles to delivery orders from stores to homes in Scottsdale, Arizona."

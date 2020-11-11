@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "IBM grows automation, data features for hybrid cloud control"
+    excerpt: "IBM continued enhancing its core Cloud Pak hybrid cloud software offerings, this week bolstering automation and data features that will let customers simplify everything from software provisioning and patching,"
+    publishedDateTime: 2020-11-11T14:39:00Z
+    webUrl: "https://www.networkworld.com/article/3596498/ibm-grows-automation-data-features-for-hybrid-cloud-control.html"
+    ampWebUrl: "https://www.networkworld.com/article/3596498/ibm-grows-automation-data-features-for-hybrid-cloud-control.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3596498/ibm-grows-automation-data-features-for-hybrid-cloud-control.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 44
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/10/cso_security_hack_control-center_breach_gettyimages-808157576_by-gorodenkoff_2400x1600px-100861757-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "IBM mixes more deep learning into its Cloud Paks"
     excerpt: "IBM Corp. today introduced new versions of its Cloud Pak for Data and Cloud Pak for Automation products that will enable enterprises to harness deep learning models in their operations more easily. The Cloud Pak product family is a set of software solutions designed to streamline a variety of tasks ranging from cybersecurity to data analytics."
     publishedDateTime: 2020-11-10T20:55:00Z

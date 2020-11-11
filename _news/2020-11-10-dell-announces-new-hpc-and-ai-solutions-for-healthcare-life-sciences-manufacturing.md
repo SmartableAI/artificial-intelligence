@@ -57,20 +57,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Healthcare execs going all-in on AI, survey shows"
-    excerpt: "The survey, conducted by Optum, shows that healthcare executives' confidence in AI is high, and most expect to soon see cost savings from implementing the technology. Further, a majority are looking to hire talent with experience developing AI."
-    publishedDateTime: 2020-11-06T22:42:00Z
-    webUrl: "https://medcitynews.com/2020/11/healthcare-execs-going-all-in-on-ai-survey-shows/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 54
-    images:
-      - url: "https://medcitynews.com/uploads/2019/11/GettyImages-1137784739.jpg"
-        width: 703
-        height: 497
-        isCached: true
   - title: "Blockchain AI Market worth $703 million by 2025 - Exclusive Report by MarketsandMarkets™"
     excerpt: "According to the new market research report \"Blockchain AI Market by Technology (ML & NLP), Component (Platform/Tools & Services),"
     publishedDateTime: 2020-11-10T15:30:00Z

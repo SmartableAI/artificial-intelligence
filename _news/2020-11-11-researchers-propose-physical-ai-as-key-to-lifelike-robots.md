@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/simonchandler/2020/11/11/researchers-propo
 ampWebUrl: "https://www.forbes.com/sites/simonchandler/2020/11/11/researchers-propose-physical-ai-as-key-to-lifelike-robots/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/11/11/researchers-propose-physical-ai-as-key-to-lifelike-robots/amp/"
 type: article
-quality: 87
-heat: 107
+quality: 104
+heat: 125
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fabd7b213e5c462adfa8f21%2F0x0.jpg"
@@ -54,6 +55,6 @@ related:
         height: 290
         isCached: true
 
-secured: "TEqjLxrCsIYIrpZCvJMZHDk6EO8N0tRAlvv0ko3oe+sb8GEC7q7eD8O7c2xD9WivxDgclhSrf/ut5FZsA1kT6fzMBv2EBTEY+FYq5qA5eQZwvNoAy0VdQX7LZJCPrM4Qqlke8WvGH9QIa6U+bcQGp2XDDUYh6HTeUHWj34jGxV8yc5+2Z3pWFlFAnGMot5rLDpMNwPoGjmJf33KsLUXwlG+U/yNVwnFY0zdl6dhauaZo6SF8YBxia/86cvF60vzzKSDYTbtBhoqB7v++tzKJzsqQRTzQoFAv0VChf4bv/2dJUGhCEkd9tQHXFykcETbFLmxVe5r4ETKK/GCsXd2zEHP1Lv59m1btfz5h16XVgEY=;8PUDi0ieKrvd3dz23XJL+w=="
+secured: "p+z/uSmdZg89C9vKQ/OLJSTQfpHx5U1v3HukqOs4UYNKKslDK0IN3EkNfsen1B/N9d6j0GzeBmY+qtgPsp4Cn0APFozgPOyCrKmFYANYSnb4SnMFxLIAnZQUEkM4Vn7HRveNsYqsQ2z8QV1FwKWvO0F5VNVUf3eA8ONc1+7gtlU5T9v/Apn3GNM2aP6Lo6o68TNCEyT8lesFT9TLyBvTF7aI40vpJ3UvfhNfe/zFwHCYLoKs4B5U5q3Fej7XKi8dzHyZjITA40Jvv+tEVNe4kOPqdmLjDyzWxp2qm/uzl+L59Muym6C+4aVQ5Q2it53Og+Wg0kI96DGSmMaKEA7lIQLasbh+1e5cyIyZHuXi4tW9aaibkVHgFpTR5X1RrYg+/pdzwGXz+QfoOST3zGieyYDUD61nOa2GxXU+vM+wLtX/fdiIIiYAg1tgL1QHjfb1bSvh+VQGIMGmawu4EleP4kKwsynTweMOga+izwSrk2HIrq6vKvNCeCsR/Ds4xH1schIazXBUB0EjD+NV4XSvSg==;ellWaHQcFLGxVgHXGUfouA=="
 ---
 

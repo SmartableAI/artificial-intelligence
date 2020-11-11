@@ -29,20 +29,31 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 68
-  - title: "IBM and AMD Announce Joint Development Agreement to Advance Confidential Computing for the Cloud and Accelerate Artificial Intelligence"
-    excerpt: "PRNewswire/ -- IBM (NYSE: IBM) and AMD (NASDAQ: AMD) today announced a multi-year joint development agreement to enhance and extend the security"
-    publishedDateTime: 2020-11-11T11:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ibm-and-amd-announce-joint-development-agreement-to-advance-confidential-computing-for-the-cloud-and-accelerate-artificial-intelligence-301170668.html"
+  - title: "IBM and AMD Begin Cooperation on Cybersecurity and AI"
+    excerpt: "AMD and IBM began work on a cybersecurity and AI program built on \"open-source software, open standards, and open system architectures.\""
+    publishedDateTime: 2020-11-11T13:45:00Z
+    webUrl: "https://www.thestreet.com/investing/ibm-amd-cooperate-on-cybersecurity-and-artificial-intelligence"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/ibm-amd-cooperate-on-cybersecurity-and-artificial-intelligence"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/ibm-amd-cooperate-on-cybersecurity-and-artificial-intelligence"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 7
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 57
     images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-        width: 2698
-        height: 1414
+      - url: "https://content.jwplatform.com/thumbs/IYeb2VMl-720.jpg"
+        width: 720
+        height: 406
         isCached: true
+  - title: "IBM and AMD Announce Joint Development Agreement to Advance Confidential Computing for the Cloud and Accelerate Artificial Intelligence"
+    excerpt: "\"IBM is focused on giving our clients choice, agility and security in our hybrid cloud offerings through advanced research, development and scaling of new technologies.\" \"This agreement between AMD and IBM aligns well with our long-standing commitment to collaborating with leaders in the industry,"
+    publishedDateTime: 2020-11-11T12:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/ibm-and-amd-announce-joint-development-agreement-to-advance-confidential-computing"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 17
 
 secured: "QiIk5dhcfE/S7AEoMuKkzkxHmqPYJARf7tsc9Z1eBMYr8RiceiWPPPKIXwn3XioqNXSeLVkCXqR7AudHAdWCzrlo5pNt3uM3mItyM2IoqLcBapCziJ4j5HoJ4QryoqhBvsLtyNa2JCIEwE6lNrOiu2BHDEz7V0+YEbIuQy0LeZ2DogINiYfB9Czbey/SoxrjugY8nVKREpdCcDYXwvrmlkpqmGAz1RrXZ8f5Tmuqmf63CpbKXFW1xraFMB2nXpX+sgtjiIIjLNUJC0UWvmEtLAcAr6MFK4LHYjKq9svOGv+d7ZrJbWerPpEJz2Rl50szhpMQKRJsOlqUK0hQanOMSHyHynusr3rUP610s6UBKj4=;97WKvEIVSMUFOo6lsB0VpA=="
 ---

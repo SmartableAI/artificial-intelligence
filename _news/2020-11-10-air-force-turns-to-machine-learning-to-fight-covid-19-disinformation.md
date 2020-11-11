@@ -7,7 +7,7 @@ originalUrl: "https://www.nextgov.com/emerging-tech/2020/11/air-force-turns-mach
 webUrl: "https://www.nextgov.com/emerging-tech/2020/11/air-force-turns-machine-learning-fight-covid-19-disinformation/169900/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Stanford researchers developing fast, portable COVID-19 testing chip"
-    excerpt: "With this 'lab on a chip,' anyone can test themselves for COVID-19 in the comfort of their home using a tiny chip instead of sending the nasal swabs fluid to laboratories."
-    publishedDateTime: 2020-11-06T22:19:00Z
-    webUrl: "https://abc7news.com/coronavirus-testing-stanford-researchers-covid-19-test-results/7686757/"
-    ampWebUrl: "https://abc7news.com/amp/coronavirus-testing-stanford-researchers-covid-19-test-results/7686757/"
-    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/coronavirus-testing-stanford-researchers-covid-19-test-results/7686757/"
-    type: article
-    provider:
-      name: ABC7 San Francisco
-      domain: abc7news.com
-    quality: 59
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/7713011_110620-kgo-lab-chip-img_Image_00-00-22,27.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Developing machine learning models to predict critical illness and mortality in COVID-19 patients"
     excerpt: "Mount Sinai researchers have developed machine learning models that predict the likelihood of critical events and mortality in COVID-19 patients within clinically relevant time windows. The new models outlined in the study—one of the first to use machine learning for risk prediction in COVID-19 patients among a large and diverse population,"
     publishedDateTime: 2020-11-10T21:00:00Z
@@ -56,31 +40,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/48-covid19.jpg"
         width: 1920
         height: 1032
-        isCached: true
-  - title: "What software developers should know about 2021: Low-code, AI code testing, COVID-19's lasting effect and the skills needed to stay on top"
-    excerpt: "Forrester made 5 predictions for software development in 2021. Bill Detwiler talks with software industry veteran VP and principal analyst Jeffrey Hammond, the report's lead author, about what developers and IT leaders should expect in 2021."
-    publishedDateTime: 2020-11-07T00:28:00Z
-    webUrl: "https://www.techrepublic.com/article/what-software-developers-should-know-about-2021-low-code-ai-code-testing-covid-19s-lasting-effect-and-the-skills-needed/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/what-software-developers-should-know-about-2021-low-code-ai-code-testing-covid-19s-lasting-effect-and-the-skills-needed/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/what-software-developers-should-know-about-2021-low-code-ai-code-testing-covid-19s-lasting-effect-and-the-skills-needed/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 35
-  - title: "MGH Researchers Use Artificial Intelligence for COVID-19 Prognosis Prediction"
-    excerpt: "Researchers at Massachusetts General Hospital, an affiliate of Harvard Medical School, have created a new artificial intelligence-based tool for predicting the prognosis of potential COVID-19 patients."
-    publishedDateTime: 2020-11-10T05:04:00Z
-    webUrl: "https://www.thecrimson.com/article/2020/11/10/mgh-ai-predicting-covid-prognosis/"
-    type: article
-    provider:
-      name: The Harvard Crimson
-      domain: thecrimson.com
-    quality: 34
-    images:
-      - url: "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2019/01/27/213504_1335189.jpg.2000x1333_q95_crop-smart_upscale.jpg"
-        width: 2000
-        height: 1333
         isCached: true
 
 secured: "8+n2wn9y/u3W5JpI43tVOLkXBcBvHwcx2FX6xn6qSuzMJyvgUwtJvZ/9NBN9V0sdtzqRd2wUy66Xh3uwm4xxvkhF4xVr88iTpwIZM+pqNbMu1fw88IbmRvHPbSamEWIHGr3eCh4cIoayCsbU2hIgrlS0KuLdndFy7lssRAOKaIP+M4qHODsGWBmR/0e+3+1gsM8s5I8vTPR53ffphIHH0qemuAdaCCE+R1MBCFp49DvkzUSI4FNufCY3R+/EuECiHNTepmgTezw1DRN3UdbbktM9gzBwHClinuoa0XfF7JKQ+LT4J0rBJQg9nW5qiBEV8YIB42X4KFuJDLji7Ot5TePrCcNGwjD6Gxxc4LU/wHLozCnqZJtsrMAp64cx3DpAWmTWPROUDODGk9VuWZKbiaL8oP2cXCPnxl1eHCk9IIzEqqGLx6FUPtMjaMkWIfjIKh02FN0aFiVct3ifBNMUzWX+72W8DLCMYLS1NIBVmSD10Eg7MmYWDR/xmUtmijtCl2N7nvgDNIyL5cgHkGoj0w==;988p3lo/8yAWnvwHQRyfoA=="
