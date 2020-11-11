@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Education key to developing lifelike intelligent robots, study argues"
-    excerpt: "In a new paper, researchers argue artificial intelligence has been too narrowly defined and biased by human hubris. To rectify this shortcoming, the study's authors claim robot-makers need to be better educated."
-    publishedDateTime: 2020-11-10T22:47:00Z
-    webUrl: "https://www.upi.com/Science_News/2020/11/10/Education-key-to-developing-lifelike-intelligent-robots-study-argues/5361605037906/"
-    ampWebUrl: "https://www.upi.com/amp/Science_News/2020/11/10/Education-key-to-developing-lifelike-intelligent-robots-study-argues/5361605037906/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2020/11/10/Education-key-to-developing-lifelike-intelligent-robots-study-argues/5361605037906/"
+  - title: "Researchers Propose ‘Physical AI’ As Key To Lifelike Robots"
+    excerpt: "This combined discipline of \"physical AI\" could effectively be the missing link in the attempt to create artificially intelligent robots that look and behave like humans, the Imperial College London team suggests."
+    publishedDateTime: 2020-11-11T12:28:00Z
+    webUrl: "https://www.forbes.com/sites/simonchandler/2020/11/11/researchers-propose-physical-ai-as-key-to-lifelike-robots/"
+    ampWebUrl: "https://www.forbes.com/sites/simonchandler/2020/11/11/researchers-propose-physical-ai-as-key-to-lifelike-robots/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/11/11/researchers-propose-physical-ai-as-key-to-lifelike-robots/amp/"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 76
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/5361605037906/2020/1/16050481937990/v1.5/Education-key-to-developing-lifelike-intelligent-robots-study-argues.jpg"
-        width: 800
-        height: 533
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fabd7b213e5c462adfa8f21%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Skills development in Physical AI could give birth to lifelike intelligent robots"
     excerpt: "New research suggests combining educational topics and research disciplines to help researchers breathe life into lifelike intelligent robots."
@@ -50,20 +50,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 42
-  - title: "Accelerate Machine Learning Development to Build Intelligent Applications Faster"
-    excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
-    publishedDateTime: 2020-11-10T19:03:00Z
-    webUrl: "https://www.cio.com/resources/210552/accelerate-machine-learning-development-to-build-intelligent-applications-faster"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 34
-    images:
-      - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "vuUqYO7H5OtjUlCO/YBHwqVBJ+nOZZoi4B/4qVaAFmMkHlSxYK4KJYwCysq39jdS/kQrbBfBJGm8M5tTknyvKbBwnikOoEwg9nnOq+yC8CmeYCi+8LLzk/Ajubc3f/qTaF9DKjV0W36eTtFwFqsQwrdyoYBWU3KFq+ZO25DMh6Nll6SsthcPud6VlGH1qCxJ8gqsv3v9Mp9XutR1wou9HMRTQ3GuWzT6l3SUn4f0I6uwNqAC6VP8CcYBX1Inj5wW5ivUeSmXQGHXRIq7/fe0LTFxlViBEhN1XIpH7Fu0p/mvay5G1epdjNTpn37vHpFQZJKYICgH+f8jPqH1eqsnfAk2Vu4WXbR3wpizXBqvj6I=;xNURtc36nd7xbOeKJR/Mjw=="
 ---

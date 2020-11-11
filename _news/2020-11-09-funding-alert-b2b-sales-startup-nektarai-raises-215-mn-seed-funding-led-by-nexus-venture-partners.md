@@ -9,8 +9,8 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/359261"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359261"
 type: article
 quality: 88
-heat: -1
-published: false
+heat: 108
+published: true
 
 provider:
   name: Entrepreneur
@@ -31,61 +31,33 @@ images:
     isCached: true
 
 related:
-  - title: "Toyota-backed startup Pony.ai raises $267 million in latest fundraising"
-    excerpt: "Pony.ai, backed by Toyota Motor Corp, said on Friday it has raised $267 million in the initial phase of its fundraising round that values the self-driving startup at $5.3 billion, as it seeks to boost"
-    publishedDateTime: 2020-11-06T20:00:00Z
-    webUrl: "https://www.theguardian.pe.ca/business/reuters/toyota-backed-startup-ponyai-raises-267-million-in-new-funding-round-517485/"
+  - title: "Nexus leads seed funding in sales productivity startup Nektar.ai"
+    excerpt: "Nektar.ai, which operates a business-to-business (B2B) sales productivity platform, has raised $2.15 million (about Rs 16 crore)"
+    publishedDateTime: 2020-11-09T08:04:00Z
+    webUrl: "https://www.vccircle.com/nexus-leads-seed-funding-in-sales-productivity-startup-nektar-ai"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.pe.ca
-    quality: 137
+      name: VCCircle
+      domain: vccircle.com
+    quality: 54
     images:
-      - url: "https://www.theguardian.pe.ca/media/photologue/photos/cache/toyota-backed-startup-ponyai-raises-267-million-in-new-funding-round_medium"
-        width: 458
-        height: 305
+      - url: "https://assets.vccircle.com/uploads/2020/11/Nektar.jpg"
+        width: 810
+        height: 506
         isCached: true
-  - title: "Autonomous Startup Pony.ai Raises $267m To Boost R&D"
-    excerpt: "California-based Pony.ai said it is raising $267 million in a fresh funding round that pushes the self-driving technology startup’s valuation to about $5.3 billion as it seeks to expand its customer base globally."
-    publishedDateTime: 2020-11-09T01:12:00Z
-    webUrl: "https://www.bloomberg.com/news/videos/2020-11-09/autonomous-startup-pony-ai-raises-267m-to-boost-r-d-video"
+  - title: "Singapore sales productivity startup Nektar bags over $2.1m in seed round"
+    excerpt: "Nektar.ai, a business-to-business sales productivity startup based in Singapore, announced that it has raised over US$2.1 million in a seed round led by Nexus Venture Partners. (From left) Nektar foun"
+    publishedDateTime: 2020-11-09T07:07:00Z
+    webUrl: "https://vietreader.com/business/22537-singapore-sales-productivity-startup-nektar-bags-over-21m-in-seed-round.html"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
+      name: vietreader.com
+      domain: vietreader.com
+    quality: 38
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ix.YLzmNyBzI/v5/-1x-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Autonomous driving startup Pony.ai picks up $267M at $5.3B+ valuation"
-    excerpt: "Pony.ai, a Chinese startup developing autonomous driving technology for cars and trucks, said late Thursday that it has secured $267 million in additional funding. The investment comes less than a year after the startup raised a hefty $462 million round led by Toyota Motor Corp."
-    publishedDateTime: 2020-11-06T20:36:00Z
-    webUrl: "https://siliconangle.com/2020/11/06/autonomous-driving-startup-pony-ai-picks-267m-5-3b-valuation/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/ponyai.png"
-        width: 847
-        height: 477
-        isCached: true
-  - title: "Toyota venture fund invests in robotic kitchen startup"
-    excerpt: "Toyota AI Ventures, Toyota’s early-stage venture capital fund, has decided to invest in YPC Technologies, a robotic kitchen startup based in Montreal, Canada. The funding follows YPC Technologies’"
-    publishedDateTime: 2020-11-10T07:40:00Z
-    webUrl: "https://roboticsandautomationnews.com/2020/11/10/toyota-venture-fund-invests-in-robotic-kitchen-startup/38024/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 39
-    images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/11/ypc-tech.jpg"
-        width: 800
-        height: 533
+      - url: "https://cdn.vietreader.com/uploads/posts/2020-11/business_singapore-sales-productivity-startup-nektar-bags-over-21m-in-seed-round-1.jpg"
+        width: 750
+        height: 563
         isCached: true
 
 secured: "FAM970TzlLJbWLNfob+/lkZKz4aLqaXr+dn2PLOIa/s0YVVTma6tTFPXy0d147WZeOREjU1sb6mu6vTjzKR0YwhrH2VOuiAaT1qhc747MfVWVOalNom2UMTc6KXmyDqSWHTGCGkXMV/TmOevX7n0OcWA0ogPuInFVaIqaS1SRVBW5jSiBTkj+FzWjzLvucPgyx3XvLuBqHx9hMa3ygHOIluUTZToAOFOL3yf36W0wO4RQbB1pRHyQAagRd3hwiWdgySDevLfnDZLwtdBtVDGgYlSS2DcC0MZ0f+8196uEkLk0jK9DXiMmqO62LpaLGIL0zUqIwOjnrgaoJn66gXaW2Tb+75VqAJptoBngCSEmNtH/a8LhOhyt+c84HA7XnHdNxayzpoZM8H0R1f9rI9UxsMddHNTlyqlqy0VMrWC6JhRRqGVe9QjtZues7CIDweDVetHTrAEQdScdqRAarpfAAnNC0MPbZMAZ4T7yUfJTcwRfQPO3cZenEPaldB+3EQIYrsKK4ss2rSh7fVzwWeDDQ==;X5aUgIaVD3igfqjji1FeRA=="

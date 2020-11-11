@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence (AI) Chips Market Analysis By Size, Segments, Applications, Types, Competitors, Demographics And Forecast To 2026"
+    excerpt: "The Report also calculate the market size,Artificial Intelligence (AI) Chips Sales, Price, Revenue, Gross Margin and Market Share, cost structure and growth rate. Final Report will add the analysis of the impact of COVID-19 on this industry."
+    publishedDateTime: 2020-11-11T12:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-analysis-by-size-segments-applications-types-competitors-demographics-and-forecast-to-2026-2020-11-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice recognition Market Size, Share and Growth Analysis to be worth more than $ 150 Bn by 2026"
     excerpt: "Global Voice recognition market is projected to amass over $150 billion by 2026, according to the latest research available at Market Study Report LLC, report provides extensively data on market share,"
     publishedDateTime: 2020-11-10T12:24:00Z

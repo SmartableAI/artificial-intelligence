@@ -7,7 +7,7 @@ originalUrl: "https://en.globes.co.il/en/article-snap-buys-israeli-voice-bot-co-
 webUrl: "https://en.globes.co.il/en/article-snap-buys-israeli-voice-bot-co-vocaai-for-70m-1001349069"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     height: 392
     isCached: true
 
-related:
-  - title: "Google AI venture fund invests in first Israeli startup"
-    excerpt: "Mine helps users discover what companies hold their personal data and submit a deletion request for services they no longer use."
-    publishedDateTime: 2020-11-09T07:58:00Z
-    webUrl: "https://www.israel21c.org/google-ai-venture-fund-invests-in-first-israeli-startup/"
-    type: article
-    provider:
-      name: Israel21c
-      domain: israel21c.org
-    quality: 37
-    images:
-      - url: "https://www.israel21c.org/wp-content/uploads/2020/10/main-pic-11-768x432.jpg"
-        width: 768
-        height: 432
-        isCached: true
-
-secured: "GE0JJxXw8fBkrD7C3fGR9hp6LY6wUoboBzBZB0i2IZedu9KtGbtwYfpS/4k9cDaXKRMie9oujvQyXsFZ2Voz5+5iNNIKlouvmnpcIMT0uyoEBJQ12VzdXeyUARoPn+a5py6G05+mKMlXnsMhHElScZiJo+lrjgiu0K/z2kV85+1UFpQ3FbcavYvbWKkIlSWIr1AM3HAG2MhrRf04irg58djRxjj3RegvafV1fpI6Lfjldm4z//KgKjwEECSUZ5Urm02hNgrGxo3I1RhGi42vvdgYkIa2MRx+70wFntnNl/bsaKj3U08vEs4s6WZtmTKuml4jZUy1aCCotpDXHl+7g6U0xXgxi6Yg5qIygwU9odc=;1yddPSLGETXLf4ESwZTxtQ=="
+secured: "x9L8MrUtg+VzP+G9BQ40CRk7lRuHTRqB6GCrdCH4gSyhKpS4/juhV6M00ZnnRBDwJWI/6X9nG/hAEjzpgyJ33lM7NRcI9ucxEfzWBHyiO1/V0+XK3vMilaLaI6cHjrSr7au8+vvZ05D8mdIKKeMymOoUWVHaraQXBDcjufINrBsnjDSX/jjBPsTHKbdreKtNISDqkAoKtI+w26NDrnWTLHNdNqPintOigjwD9VB984Z1SZLhMa20yM/wn9+6wRyEm0c1wE6yksl6zBWr5I03FtuyTU+NfCfpIc1MF0cngGDjmFwfe/+QoM1V7rDYpAqeG8e76qjhkxdPE5UU5BGDJbfdasqrZzfbJ7ExTAoXlN9akAWx1n/go4ZwwiztCeoUeQeNZXH1LscTjG6R8qHq3QJ8NFxAENfkjKACvoYPSlWz7mrzSuNN00mfIcIFkYhnw4MK8zVN1vxfBIC6OTLEcxfmjGZJEX+wCGx5H0LPlK8SnguCnmFi4u24s7GbunVnMoKnVOEETW6yBpGPEBNmVQ==;wg+JFARd3wOoEeYXRnbcXQ=="
 ---
 

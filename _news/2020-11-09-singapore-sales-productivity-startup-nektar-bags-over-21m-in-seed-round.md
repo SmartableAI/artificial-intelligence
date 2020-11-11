@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "[Funding Alert] B2B Sales Startup Nektar.ai Raises $2.15 Mn Seed Funding Led By Nexus Venture Partners"
+    excerpt: "Singapore-based business-to-business (B2B) sales startup, Nektar.ai on Monday announced it has raised $2.15 million in a seed funding round led by Nexus Venture Partners to build an artificial intelligence (AI)-powered go-to-market collaboration engine for modern revenue teams with participation from Insignia Venture Partners,"
+    publishedDateTime: 2020-11-09T08:36:00Z
+    webUrl: "https://www.entrepreneur.com/article/359261"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/359261"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359261"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 88
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1604910806-L-RAbhijeetVijayvergiyaAravindRaviSulekha.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Nexus leads seed funding in sales productivity startup Nektar.ai"
     excerpt: "Nektar.ai, which operates a business-to-business (B2B) sales productivity platform, has raised $2.15 million (about Rs 16 crore)"
     publishedDateTime: 2020-11-09T08:04:00Z

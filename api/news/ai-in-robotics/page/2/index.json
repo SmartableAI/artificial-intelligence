@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-02-artificial-intelligence-robots-market-outlook-by-size-share-future-growth-and-forecast-from-2020-2023.md",
+      "title": "Artificial Intelligence Robots Market Outlook By Size, Share, Future Growth And Forecast From 2020-2023",
+      "excerpt": "Global AI Robots Market Research Report - by Offering (Software, Hardware), by Type (Service Robots, Industrial Robots),",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-outlook-by-size-share-future-growth-and-forecast-from-2020-2023-2020-11-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-outlook-by-size-share-future-growth-and-forecast-from-2020-2023-2020-11-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-01T18:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-01-how-to-make-sure-your-ai-for-good-project-actually-does-good.md",
       "title": "How to make sure your ‘AI for good’ project actually does good",
       "excerpt": "from the very start of your research. When you are promoting a project, be clear about its scope and limitations; don’t just focus on the potential benefits it can deliver. As with any AI ...",
@@ -663,10 +715,10 @@
     {
       "path": "_news/2020-10-28-5-best-robotics-and-artificial-intelligence-stocks-to-buy.md",
       "title": "5 Best Robotics and Artificial Intelligence Stocks To Buy",
-      "excerpt": "Alphabet Inc previously owned Boston Dynamics but sold it. So, currently it is in our list because it is probably the #1 artificial intelligence company in the world. Google AI is the company’s division that focuses exclusively on artificial intelligence ...",
+      "excerpt": "Below we listed the 5 best robotics and artificial intelligence stocks to buy according to hedge funds. For a detailed analysis and a more comprehensive list please see Top 10 Robotics and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/",
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/?singlepage=1",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/?singlepage=1",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -685,7 +737,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T22:40:00-07:00",
+      "publishedDateTime": "2020-10-27T21:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Insider Monkey",
@@ -700,8 +752,7 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "AI in Autos"
+        "AI"
       ]
     },
     {
@@ -821,6 +872,58 @@
         "name": "News Medical",
         "domain": "news-medical.net",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-robustai-raises-a-15m-series-a-to-improve-problem-solving-for-collaborative-robots.md",
+      "title": "Robust.AI raises a $15M Series A to improve problem solving for collaborative robots",
+      "excerpt": "Existing partners Playground Global, Liquid2, Fontinalis, Jaan Tallinn and Mark Leslie also participated in the round, which brings the Bay Area-based robotics AI startup’s funding up to $22.5 ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/28/robust-ai-raises-a-15m-series-a-to-improve-problem-solving-for-collaborative-robots/",
+      "originalUrl": "https://techcrunch.com/2020/10/28/robust-ai-raises-a-15m-series-a-to-improve-problem-solving-for-collaborative-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-488789835.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/28/robust-ai-raises-a-15m-series-a-to-improve-problem-solving-for-collaborative-robots/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/28/robust-ai-raises-a-15m-series-a-to-improve-problem-solving-for-collaborative-robots/amp/",
+      "publishedDateTime": "2020-10-27T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1303,110 +1406,6 @@
         "AI",
         "AI in Robotics",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-the-monarch-mind-control-mystique.md",
-      "title": "The Monarch Mind Control Mystique",
-      "excerpt": "But in some cases, the young performer can’t stand the confusing transition from tween star to men’s magazine cover girl and starts to malfunction like the robot she has essentially become.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/el/article/9bne7e/the-monarch-mind-control-mystique",
-      "originalUrl": "https://www.vice.com/el/article/9bne7e/the-monarch-mind-control-mystique",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.vice.com/vice/images/articles/meta/2013/10/14/the-monarch-mind-control-mystique-1413295713451.jpeg?crop=1xw:1xh;center,center",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/el/article/9bne7e/the-monarch-mind-control-mystique",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/el/article/9bne7e/the-monarch-mind-control-mystique",
-      "publishedDateTime": "2020-10-22T15:31:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-the-robot-artist-thats-challenging-humanitys-concept-of-creativity.md",
-      "title": "The robot ‘artist’ that’s challenging humanity’s concept of creativity",
-      "excerpt": "I picked up his robot, and I thought ... But it does highlight one of the problematic aspects of creativity as a benchmark of artificial intelligence (not that this is necessarily what the endeavor is designed to prove.) Simply put, art is too subjective ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/features/aida-robot-artist/",
-      "originalUrl": "https://www.digitaltrends.com/features/aida-robot-artist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/ai-da-in-a-seat-photographer-victor-frankowski-1200x630-c-ar1.91-n.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/features/aida-robot-artist/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/aida-robot-artist/?amp",
-      "publishedDateTime": "2020-10-22T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

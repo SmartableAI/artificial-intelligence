@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20201109/Machine-learning-algo
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201109/Machine-learning-algorithms-help-predict-out-of-hospital-cardiac-arrest-survival.aspx"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: News Medical
@@ -27,21 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning helps predict survival rates of out-of-hospital cardiac arrest"
-    excerpt: "Using neighborhood and local data in combination with existing information sources creates a more accurate prediction on a patient's recovery prospects after an out-of-hospital cardiac arrest (OHCA),"
-    publishedDateTime: 2020-11-09T10:58:00Z
-    webUrl: "https://medicalxpress.com/news/2020-11-machine-survival-out-of-hospital-cardiac.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-11-machine-survival-out-of-hospital-cardiac.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-machine-survival-out-of-hospital-cardiac.amp"
+  - title: "Estimating the carbon footprint of deep learning algorithms"
+    excerpt: "Hardware used to train a deep learning algorithm can use worrying amounts of energy from an environmental standpoint."
+    publishedDateTime: 2020-11-09T02:19:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/11/09/estimating-the-carbon-footprint-of-deep-learning-algorithms"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 55
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/information.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/11/08/929991.jpeg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Machine learning helps predict survival rates of out-of-hospital cardiac arrest"
+    excerpt: "Machine learning predictions about the survival rate of an out-of-hospital cardiac arrest were more accurate when neighborhood-level factors were added to the data analysis. Future research can use this newly developed model to identify neighborhood-level intervention methods to decrease death rates from an out-of-hospital cardiac arrest."
+    publishedDateTime: 2020-11-09T15:15:00Z
+    webUrl: "https://apnews.com/press-release/newmediawire/science-access-to-health-care-north-america-chicago-health-a3f6fca9242bd21c750ee9a5f680b185"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 35
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "nufH7nqPgvlJlBsmO86ZhoRpACO34AhhYWizJXb2SPFY9wulq+gzER0UnrCDuzf364RrCSsYryLTdwZdcVckw8OIJmuSl0Ayuebh39L1MEDi+uBJsZsVMPZ/dAvytfrbNrGyBs7PEomiC7lxOaHZ8wM1JH2OLuceNJDr6u9sXZQAore3qww7s0lw10XJvSXMOIUHRswZb6EP/1tr9RIB7uO8adPYhxQ8rllBU7RztEBCgOHxgsuQWreV+AmCqcbkF/TwoMGEqJAptbyqWwbb+auC+7cvrfPbz5mNs6BcguCEFY1E1y9ugEH7w4XEdSyr53I7yTxePZMcW2dXDYRQIc4K+DE/Gm3AuFhCSNNwv4mV3N4RWusLY2JlQqLn0e/0BtOpV6q/CILXnXUzo2JfdkQNAyAltuCAVxt0X0xH+dLhC9KIAQX0HtD4BFjKqIgg6RkEB6iQN/m/CEiuL/iaMTVh3Xq1v3gwOjz7+hcYJqBnwyZNrOQ4uMXOwm0R8NzDExM5/2Zq9dpp/ApYn/kxwQ==;ae1R2IpnRGUkMRO72MP7QA=="

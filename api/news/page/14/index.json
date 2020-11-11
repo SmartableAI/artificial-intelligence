@@ -2,6 +2,307 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-10-28-diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod.md",
+      "title": "DIU Selects Summit2Sea Consulting to Develop Artificial Intelligence Technology for the DoD",
+      "excerpt": "Summit2Sea Consulting, has been selected by the Department of Defense (DoD) to prototype the Humanless Unmatched Transaction (HUnT) solution for the DoD. \"The solution builds data pipelines to financial transactions to train a Machine Learning model that directs corrective actions to robot workers,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-1029735172",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-1029735172",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-1029735172",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-1029735172",
+      "publishedDateTime": "2020-10-28T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-new-unbabel-portal-unveiled-to-manage-customer-service-language-operations.md",
+      "title": "New Unbabel Portal Unveiled to Manage Customer Service Language Operations",
+      "excerpt": "The Unbabel Portal offers customers the most dynamic visualization and increased control over language operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201028005068/en/New-Unbabel-Portal-Unveiled-to-Manage-Customer-Service-Language-Operations",
+      "originalUrl": "https://www.businesswire.com/news/home/20201028005068/en/New-Unbabel-Portal-Unveiled-to-Manage-Customer-Service-Language-Operations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201028005068/en/833874/23/Unbabel-Portal-Usage-Reporting-Analysis.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-bristol-myers-turns-to-machine-learning-startup-to-solve-als.md",
+      "title": "Bristol Myers Turns to Machine Learning Startup to Solve ALS",
+      "excerpt": "Bristol Myers Squibb Co. is teaming up with machine-learning startup Insitro in a novel $70 million deal to find new drugs for amyotrophic lateral sclerosis, the deadly illness also known as Lou Gehrig’s disease. The five-year deal, which includes a $50 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-28/bristol-myers-turns-to-machine-learning-startup-to-solve-als",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-28/bristol-myers-turns-to-machine-learning-startup-to-solve-als",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-28/bristol-myers-turns-to-machine-learning-startup-to-solve-als",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-28/bristol-myers-turns-to-machine-learning-startup-to-solve-als",
+      "publishedDateTime": "2020-10-28T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-machine-learning-helps-pinpoint-sources-of-the-most-common-cardiac-arrhythmia.md",
+      "title": "Machine learning helps pinpoint sources of the most common cardiac arrhythmia",
+      "excerpt": "Researchers from Skoltech and their US colleagues have designed a new machine learning-based approach for detecting atrial fibrillation drivers, small patches of the heart muscle that are",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/machine-learning-helps-pinpoint-sources-of-the-most-common-cardiac-arrhythmia/",
+      "originalUrl": "https://indiaeducationdiary.in/machine-learning-helps-pinpoint-sources-of-the-most-common-cardiac-arrhythmia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/10/photo-2.jpg?fit=734%2C549&ssl=1",
+          "width": 734,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/machine-learning-helps-pinpoint-sources-of-the-most-common-cardiac-arrhythmia/?amp",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/machine-learning-helps-pinpoint-sources-of-the-most-common-cardiac-arrhythmia/?amp",
+      "publishedDateTime": "2020-10-28T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-alliance-health-invests-in-zeomegas-powerful-artificial-intelligence-solution-careintel.md",
+      "title": "Alliance Health Invests in ZeOmega's Powerful Artificial-Intelligence Solution: CareIntel",
+      "excerpt": "Alliance Health is expanding its partnership with ZeOmega, the industry's leader in population health management (PHM) solutions, to include ZeOmega's CareIntel Solution Suite:",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/alliance-health-invests-in-zeomegas-powerful-artificial-intelligence-solution-careintel/article_6ccf830e-4012-55ec-8e3d-c17d4c9a17cb.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/alliance-health-invests-in-zeomegas-powerful-artificial-intelligence-solution-careintel/article_6ccf830e-4012-55ec-8e3d-c17d4c9a17cb.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-the-best-robo-advisors-of-november-2020.md",
+      "title": "The best robo-advisors of November 2020",
+      "excerpt": "Robo-advisors are online financial investment platforms that create and manage an investment portfolio based on your individual needs and financial goals, no human advisor required. You don't need to have a lot of investing know-how.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/personal-finance/best-robo-advisor-of-november-2020/",
+      "originalUrl": "https://www.cnet.com/personal-finance/best-robo-advisor-of-november-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/uShYdwQko5eYPhe2Tt1VvSwpYKI=/1200x630/2020/04/09/c02495f4-cfae-4366-95ba-8ecd3c8b444f/gettyimages-1192218172.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-robo-advisor-of-november-2020/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-robo-advisor-of-november-2020/",
+      "publishedDateTime": "2020-10-28T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-chinese-tesla-rival-xpeng-steers-clear-of-robotaxis-says-self-driving-trucks-more-likely-to-succeed.md",
+      "title": "Chinese Tesla rival Xpeng steers clear of robotaxis, says self-driving trucks more likely to succeed",
+      "excerpt": "Major Chinese self-driving companies such as Baidu, Didi Chuxing, WeRide and AutoX have all recently launched robotaxi services in various cities, but the head of autonomous driving at Xpeng ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2020/10/28/chinese-tesla-rival-xpeng-steers-clear-of-robotaxis-says-self-driving-trucks-more-likely-to-succeed",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2020/10/28/chinese-tesla-rival-xpeng-steers-clear-of-robotaxis-says-self-driving-trucks-more-likely-to-succeed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2020/10/28/915555.jpg",
+          "width": 1240,
+          "height": 697,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-four-ways-artificial-intelligence-is-hidden-in-our-daily-lives.md",
       "title": "Four Ways Artificial Intelligence Is Hidden In Our Daily Lives",
       "excerpt": "People used to associate the term “artificial intelligence” with images of science fiction ... determining how the muscles involved in physical activity could be used for therapy and sports. Furthermore, simulation technology could be applied to ...",
@@ -190,50 +491,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-28-5-best-robotics-and-artificial-intelligence-stocks-to-buy.md",
-      "title": "5 Best Robotics and Artificial Intelligence Stocks To Buy",
-      "excerpt": "Alphabet Inc previously owned Boston Dynamics but sold it. So, currently it is in our list because it is probably the #1 artificial intelligence company in the world. Google AI is the company’s division that focuses exclusively on artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17135035/50882921_ml.jpg",
-          "width": 1678,
-          "height": 1119,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T22:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2020-10-28-harnessing-ai-to-reset-the-future-how-to-channel-ai-for-social-good.md",
       "title": "Harnessing AI To Reset The Future: How To Channel AI For Social Good?",
       "excerpt": "The wave of optimism surrounding the transformative potential of AI has been tempered by increasing concerns about potential negative impacts including an evolving digital divide, ethical concerns, and the future of work.",
@@ -384,6 +641,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-5-best-robotics-and-artificial-intelligence-stocks-to-buy.md",
+      "title": "5 Best Robotics and Artificial Intelligence Stocks To Buy",
+      "excerpt": "Below we listed the 5 best robotics and artificial intelligence stocks to buy according to hedge funds. For a detailed analysis and a more comprehensive list please see Top 10 Robotics and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/?singlepage=1",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-robotics-and-artificial-intelligence-stocks-to-buy-887877/?singlepage=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/17135035/50882921_ml.jpg",
+          "width": 1678,
+          "height": 1119,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-27T21:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -622,6 +922,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-28-robustai-raises-a-15m-series-a-to-improve-problem-solving-for-collaborative-robots.md",
+      "title": "Robust.AI raises a $15M Series A to improve problem solving for collaborative robots",
+      "excerpt": "Existing partners Playground Global, Liquid2, Fontinalis, Jaan Tallinn and Mark Leslie also participated in the round, which brings the Bay Area-based robotics AI startup’s funding up to $22.5 ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/28/robust-ai-raises-a-15m-series-a-to-improve-problem-solving-for-collaborative-robots/",
+      "originalUrl": "https://techcrunch.com/2020/10/28/robust-ai-raises-a-15m-series-a-to-improve-problem-solving-for-collaborative-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-488789835.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/28/robust-ai-raises-a-15m-series-a-to-improve-problem-solving-for-collaborative-robots/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/28/robust-ai-raises-a-15m-series-a-to-improve-problem-solving-for-collaborative-robots/amp/",
+      "publishedDateTime": "2020-10-27T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-ai-engineers-need-to-think-beyond-engineering.md",
       "title": "AI Engineers Need to Think Beyond Engineering",
       "excerpt": "Google AI practitioners argue that partnerships with social scientists and community members can deepen understanding of complex problems and lead to fairer algorithms.",
@@ -818,404 +1170,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-chinas-new-silk-road-runs-through-cyberspace-worrying-rivals-and-privacy-advocates.md",
-      "title": "China's new Silk Road runs through cyberspace, worrying rivals and privacy advocates",
-      "excerpt": "China is fast becoming a global leader in cutting-edge technologies — such as artificial intelligence ... and perhaps with your future driverless electric car. But these days, the Trump ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pri.org/stories/2020-10-27/chinas-new-silk-road-runs-through-cyberspace-worrying-rivals-and-privacy",
-      "originalUrl": "https://www.pri.org/stories/2020-10-27/chinas-new-silk-road-runs-through-cyberspace-worrying-rivals-and-privacy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2020/10/2020-10-27-huawei-china.jpg?itok=DWaojYkp",
-          "width": 1200,
-          "height": 707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pri.org/stories/2020-10-27/chinas-new-silk-road-runs-through-cyberspace-worrying-rivals-and-privacy?amp",
-      "cdnAmpWebUrl": "https://www-pri-org.cdn.ampproject.org/c/s/www.pri.org/stories/2020-10-27/chinas-new-silk-road-runs-through-cyberspace-worrying-rivals-and-privacy?amp",
-      "publishedDateTime": "2020-10-27T14:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PRI",
-        "domain": "pri.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-tesla-should-sell-its-self-driving-computer-chips-says-commaais-george-hotz.md",
-      "title": "Tesla should sell its self-driving computer chips, says comma.ai’s George Hotz",
-      "excerpt": "George Hotz, CEO of comma.ai, argues that Tesla should sell its self-driving computer chip and create some competition to Nvidia in the process. Hotz rose to fame through his hacking feats as a ...",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2020/10/27/tesla-sell-self-driving-computer-chip-comma-ai-george-hotz/",
-      "originalUrl": "https://electrek.co/2020/10/27/tesla-sell-self-driving-computer-chip-comma-ai-george-hotz/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2019/04/Screen-Shot-2019-04-22-at-2.48.22-PM-1-e1555961353311.jpg?quality=82&strip=all",
-          "width": 1587,
-          "height": 706,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2020/10/27/tesla-sell-self-driving-computer-chip-comma-ai-george-hotz/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/27/tesla-sell-self-driving-computer-chip-comma-ai-george-hotz/amp/",
-      "publishedDateTime": "2020-10-27T14:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-apples-latest-acquisition-uses-ai-to-figure-out-whats-in-your-videos.md",
-      "title": "Apple's latest acquisition uses AI to figure out what's in your videos",
-      "excerpt": "Add another AI startup to Apple’s growing list of 2020 acquisitions. As Bloomberg suggests, Apple could leverage the tech Vilynx was working on in a number of ways.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/apple-vilynx-ai-210420167.html",
-      "originalUrl": "https://www.engadget.com/apple-vilynx-ai-210420167.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F562a2b50-1895-11eb-bfb3-884a35b06255&client=amp-blogside-v2&signature=163803eb9186db764fee5ee286c686727749f653",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/apple-vilynx-ai-210420167.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/apple-vilynx-ai-210420167.html",
-      "publishedDateTime": "2020-10-27T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-how-the-ibm-data-science-and-ai-elite-team-trains-organizations-to-tackle-data-science-faster.md",
-      "title": "How the IBM Data Science and AI Elite team trains organizations to tackle data science faster",
-      "excerpt": "Today, the world looks different — from last year, last month, and even yesterday. The ever-changing status of our surroundings brings new problems, and having the right skills becomes critical to adapting and innovating in the face of these challenges. However, according to The Quant Crunch report,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/10/how-the-ibm-data-science-and-ai-elite-team-trains-organizations-to-tackle-data-science-faster/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/10/how-the-ibm-data-science-and-ai-elite-team-trains-organizations-to-tackle-data-science-faster/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/10/1320_Watson-blog-assets_Data-Scientist_Leadspace_Final-990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T14:11:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-tesla-owner-videos-show-full-self-driving-beta-has-a-long-way-to-go.md",
-      "title": "Tesla Owner Videos Show 'Full Self-Driving' Beta Has a Long Way to Go",
-      "excerpt": "Another day, another reminder that no one actually has a self-driving car, regardless of the misleading names used for some advanced driver assistance systems. Tesla rolled out its \"Full Self ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedrive.com/tech/37282/tesla-owner-videos-show-full-self-driving-beta-has-a-long-way-to-go",
-      "originalUrl": "https://www.thedrive.com/tech/37282/tesla-owner-videos-show-full-self-driving-beta-has-a-long-way-to-go",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.thedrive.com/wp-content/uploads/2020/10/oop_970x546.jpg?quality=85",
-          "width": 1940,
-          "height": 1092,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T13:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Drive",
-        "domain": "thedrive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-apple-buys-self-learning-ai-video-company-to-improve-apps.md",
-      "title": "Apple Buys Self-Learning AI Video Company to Improve Apps",
-      "excerpt": "Apple Inc. acquired a startup specializing in advanced artificial intelligence and computer vision technology that may help the iPhone maker improve its own AI across a number of apps and services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-27/apple-buys-self-learning-ai-video-startup-to-improve-apps",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-27/apple-buys-self-learning-ai-video-startup-to-improve-apps",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3ljJ6nNqEA8/v1/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-27/apple-buys-self-learning-ai-video-startup-to-improve-apps",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-27/apple-buys-self-learning-ai-video-startup-to-improve-apps",
-      "publishedDateTime": "2020-10-27T12:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-waymo-daimler-to-partner-in-developing-self-driving-semi-trucks.md",
-      "title": "Waymo, Daimler to partner in developing self-driving semi trucks",
-      "excerpt": "Daimler AG's <DAIGn.DE> commercial truck unit and Alphabet Inc's <GOOGL.O> Waymo on Tuesday said they will collaborate on development of self-driving Class 8 semi trucks, applying Waymo's automated system to Daimler's Freightliner Cascadia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/autos-selfdriving-waymo-daimler-int/waymo-daimler-to-partner-in-developing-self-driving-semi-trucks-idUSKBN27C1V0",
-      "originalUrl": "https://www.reuters.com/article/autos-selfdriving-waymo-daimler-int/waymo-daimler-to-partner-in-developing-self-driving-semi-trucks-idUSKBN27C1V0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 284,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538989863&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q17N",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27C1UM",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C1UM",
-      "publishedDateTime": "2020-10-27T12:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-optimizing-costs-for-machine-learning-with-amazon-sagemaker.md",
-      "title": "Optimizing costs for machine learning with Amazon SageMaker",
-      "excerpt": "Applications based on machine learning (ML) can provide tremendous business value. Using ML, we can solve some of the most complex engineering problems that previously were infeasible. One of the advantages of running ML on the AWS Cloud is that you can continually optimize your workloads and reduce",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimizing-costs-for-machine-learning-with-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimizing-costs-for-machine-learning-with-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/13/1-Charts-840x630.jpg",
-          "width": 840,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T11:31:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

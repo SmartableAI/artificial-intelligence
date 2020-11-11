@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "MIT’s AI analysis shows extreme anxiety levels among people since the start of COVID-19"
-    excerpt: "Massachusetts Institute of Technology (MIT) researchers with some help from Harvard Medical School analyzed the mental states of people by using various Reddit subforums aka Subreddits."
-    publishedDateTime: 2020-11-09T18:05:00Z
-    webUrl: "https://www.techjuice.pk/mits-ai-analysis-shows-extreme-anxiety-levels-among-people-since-the-start-of-covid-19/"
+  - title: "How To Quantify The Benefits Of AI-Driven Shelf Digitization"
+    excerpt: "To build a business case with attractive ROI, retail decision-makers will need to understand the impact of these in-store automation solutions on operational practices and ensure they choose the right solution for their store's needs."
+    publishedDateTime: 2020-11-10T12:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/11/10/how-to-quantify-the-benefits-of-ai-driven-shelf-digitization/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/11/10/how-to-quantify-the-benefits-of-ai-driven-shelf-digitization/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/11/10/how-to-quantify-the-benefits-of-ai-driven-shelf-digitization/amp/"
     type: article
     provider:
-      name: techjuice.pk
-      domain: techjuice.pk
-    quality: 31
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://cdn.techjuice.pk/wp-content/uploads/2020/11/5f357c17b4bb1c001df531d3.jpg"
-        width: 1100
-        height: 825
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa9beabfda4d6a09f4b37eb%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "FRISS Fraud Study Shows the Impacts of COVID-19 on AI and Digitalization in Insurance"
     excerpt: "In a recent study by FRISS, the global leader in AI-powered fraud detection software for insurers, the impacts of COVID-19 as well as long-term industry trends are highlighted. The study gathered input from nearly 500 insurance professionals worldwide and provides insight into topics such as fraud detection during a pandemic,"

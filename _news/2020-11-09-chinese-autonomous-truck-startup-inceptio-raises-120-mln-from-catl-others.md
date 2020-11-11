@@ -40,6 +40,20 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Autonomous Startup Pony.ai Raises $267m To Boost R&D"
+    excerpt: "California-based Pony.ai said it is raising $267 million in a fresh funding round that pushes the self-driving technology startup’s valuation to about $5.3 billion as it seeks to expand its customer base globally."
+    publishedDateTime: 2020-11-09T01:12:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2020-11-09/autonomous-startup-pony-ai-raises-267m-to-boost-r-d-video"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ix.YLzmNyBzI/v5/-1x-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "wroW1BbBlmtEAn7g2yRd2XKrBFDEjohHe4NXhs9QFdXLCt6VH+saxDMzoR8ECjStuo0DG9hqv56VwufZlHhHdZ3pgIYATfzh44uhJ8UMyA07m53Ivjkhv2+kAeCxurzi/dCsXX1cY/L0+3BV7R3CaxnRDruE9A/WXe+P3v9O3PSj/plUrpXLVUEDeGSZEY4qYExKMS3ZhiAucwxQ3TAAM97xDUwb6vs6638wKzRyWLqWjH5/QxCwHE5cllvTth8tvsKdc8dJ+4FpRIcgR6WOpoLWBW5HCc8AZvpu9HM7x+UUNTCpnRwj6xVn3MBt5tfh3a9dqkhA5OkoS/M/XI7LpHLbi5SUXas3FXeGzL8IXf0=;ED/jlEZcc2b81pjV+/Jhgg=="
 ---

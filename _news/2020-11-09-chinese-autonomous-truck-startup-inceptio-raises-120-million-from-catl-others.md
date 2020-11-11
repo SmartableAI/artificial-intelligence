@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27O0Y9"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27O0Y9"
 type: article
 quality: 83
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Autonomous Startup Pony.ai Raises $267m To Boost R&D"
+    excerpt: "California-based Pony.ai said it is raising $267 million in a fresh funding round that pushes the self-driving technology startup’s valuation to about $5.3 billion as it seeks to expand its customer base globally."
+    publishedDateTime: 2020-11-09T01:12:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2020-11-09/autonomous-startup-pony-ai-raises-267m-to-boost-r-d-video"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ix.YLzmNyBzI/v5/-1x-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Chinese autonomous truck startup Inceptio raises $120 mln from CATL, others"
     excerpt: "China's Inceptio Technology, a startup developing self-driving trucks, said on Monday it has raised $120 million in its latest funding led by top Chinese electric vehicle battery maker CATL."
     publishedDateTime: 2020-11-09T04:00:00Z

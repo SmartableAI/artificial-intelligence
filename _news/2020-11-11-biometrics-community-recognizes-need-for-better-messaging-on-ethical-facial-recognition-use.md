@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition for cows enables insurance for marginalized cattle farmers"
+    excerpt: "Through this package, the farmer gets animal insurance and farm management services only by taking a few pictures of his cattle"
+    publishedDateTime: 2020-11-11T12:44:00Z
+    webUrl: "https://www.dhakatribune.com/business/2020/11/11/facial-recognition-for-cows-enables-insurance-service-for-marginalized-cattle-farmers"
+    type: article
+    provider:
+      name: Dhaka Tribune
+      domain: dhakatribune.com
+    quality: 36
+    images:
+      - url: "https://media-eng.dhakatribune.com/uploads/2020/11/watermarked/349740/1605098471680untitled-1605098418667.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Grad student union effort nears threshold for recognition"
     excerpt: "University of New Mexico graduate student workers reported on Friday that more than 40% of eligible graduate workers have signed union cards. The union needs 50% plus one in order to appeal to the New Mexico Public Employee Labor Relations Board (PELRB) to form a union."
     publishedDateTime: 2020-11-10T17:14:00Z

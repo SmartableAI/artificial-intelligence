@@ -2,6 +2,256 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-10-smarsh-to-acquire-ai-company-digital-reasoning.md",
+      "title": "Smarsh to Acquire AI Company Digital Reasoning",
+      "excerpt": "Smarsh says Digital Reasoning’s artificial intelligence and machine-learning technology will allow it to more efficiently sift through the virtual reams of communications it archives for financial-services firms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/smarsh-to-acquire-artificial-intelligence-company-digital-reasoning-51605021943",
+      "originalUrl": "https://www.barrons.com/articles/smarsh-to-acquire-artificial-intelligence-company-digital-reasoning-51605021943",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-257802/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/smarsh-to-acquire-artificial-intelligence-company-digital-reasoning-51605021943",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/smarsh-to-acquire-artificial-intelligence-company-digital-reasoning-51605021943",
+      "publishedDateTime": "2020-11-10T07:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-global-service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026.md",
+      "title": "Global Service Robotics Market Size & Share By Sales Revenue, Future Demands, Growth Factors and Emerging Trends Forecast to 2026",
+      "excerpt": "The global “Service Robotics Market” is expected to rise with an impressive CAGR and generate the highest revenue by",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026-2020-11-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026-2020-11-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-10T07:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-why-ai-tech-stacks-is-the-new-hack-for-pr-hacks.md",
+      "title": "Why AI Tech Stacks Is The New Hack… For PR Hacks",
+      "excerpt": "AI is going to have a huge influence on how PR professionals engage with journalists going forward. The trick will be relying on our professional and creative instincts to find inspiration – and leveraging AI to improve performance and refine our pitch strategies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aaronkwittken/2020/11/10/why-ai-tech-stacks-is-the-new-hack-for-pr-hacks/",
+      "originalUrl": "https://www.forbes.com/sites/aaronkwittken/2020/11/10/why-ai-tech-stacks-is-the-new-hack-for-pr-hacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faaa9cae613bff5ddfe3595%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2997%26cropY1%3D0%26cropY2%3D1998",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aaronkwittken/2020/11/10/why-ai-tech-stacks-is-the-new-hack-for-pr-hacks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aaronkwittken/2020/11/10/why-ai-tech-stacks-is-the-new-hack-for-pr-hacks/amp/",
+      "publishedDateTime": "2020-11-10T06:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-the-future-of-work-now-ai-assisted-writing-with-writercom-and-intuit.md",
+      "title": "The Future of Work Now: AI-Assisted Writing with Writer.com and Intuit",
+      "excerpt": "One of the most frequently-used phrases at business events these days is “the future of work.” It’s increasingly clear that artificial intelligence and other new technologies will bring substantial changes in work tasks and business processes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomdavenport/2020/11/10/the-future-of-work-now-ai-assisted-writing-with-writercom-and-intuit/",
+      "originalUrl": "https://www.forbes.com/sites/tomdavenport/2020/11/10/the-future-of-work-now-ai-assisted-writing-with-writercom-and-intuit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa9b4df4426b7e6db66db39%2F0x0.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2020/11/10/the-future-of-work-now-ai-assisted-writing-with-writercom-and-intuit/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/11/10/the-future-of-work-now-ai-assisted-writing-with-writercom-and-intuit/amp/",
+      "publishedDateTime": "2020-11-10T06:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars.md",
+      "title": "Walmart and Cruise launch pilot to deliver orders via self-driving cars",
+      "excerpt": "As part of the pilot, which is scheduled to begin in early 2021, customers will be able to place orders from a Walmart and have them delivered via one of Cruise’s electric self-driving Chevy Bolts.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars/",
+      "originalUrl": "https://venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 254,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Walmart-Cruise-e1604958243157.png?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars/amp/",
+      "publishedDateTime": "2020-11-10T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-machine-learning-advances-materials-for-separations-adsorption-and-catalysis.md",
       "title": "Machine learning advances materials for separations, adsorption and catalysis",
       "excerpt": "An artificial intelligence technique—machine learning—is helping accelerate the development of highly tunable materials known as metal-organic frameworks (MOFs) that have important applications in chemical separations,",
@@ -92,6 +342,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-how-to-quantify-the-benefits-of-ai-driven-shelf-digitization.md",
+      "title": "How To Quantify The Benefits Of AI-Driven Shelf Digitization",
+      "excerpt": "To build a business case with attractive ROI, retail decision-makers will need to understand the impact of these in-store automation solutions on operational practices and ensure they choose the right solution for their store's needs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/11/10/how-to-quantify-the-benefits-of-ai-driven-shelf-digitization/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/11/10/how-to-quantify-the-benefits-of-ai-driven-shelf-digitization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa9beabfda4d6a09f4b37eb%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/11/10/how-to-quantify-the-benefits-of-ai-driven-shelf-digitization/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/11/10/how-to-quantify-the-benefits-of-ai-driven-shelf-digitization/amp/",
+      "publishedDateTime": "2020-11-10T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -407,7 +709,7 @@
       "originalUrl": "https://thenextweb.com/neural/2020/11/09/neurals-market-outlook-for-artificial-intelligence-in-2021-and-beyond/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -890,21 +1192,21 @@
       ]
     },
     {
-      "path": "_news/2020-11-09-outsenses-ai-looks-for-life-threatening-diseases-in-your-poop.md",
-      "title": "OutSense’s AI looks for life-threatening diseases in your poop",
-      "excerpt": "OutSense is setting out to \"transform human waste into lifesaving medical insights\" through a device that clips onto a toilet.",
+      "path": "_news/2020-11-09-machine-learning-algorithms-help-predict-out-of-hospital-cardiac-arrest-survival.md",
+      "title": "Machine learning algorithms help predict out-of-hospital cardiac arrest survival",
+      "excerpt": "Using neighborhood and local data in combination with existing information sources creates a more accurate prediction on a patient's recovery prospects after an out-of-hospital cardiac arrest (OHCA),",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/09/outsenses-ai-looks-for-life-threatening-diseases-in-your-poop/",
-      "originalUrl": "https://venturebeat.com/2020/11/09/outsenses-ai-looks-for-life-threatening-diseases-in-your-poop/",
+      "webUrl": "https://www.news-medical.net/news/20201109/Machine-learning-algorithms-help-predict-out-of-hospital-cardiac-arrest-survival.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20201109/Machine-learning-algorithms-help-predict-out-of-hospital-cardiac-arrest-survival.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/outsense_banner_final.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 621,
+          "url": "https://www.news-medical.net/image.axd?picture=2014%2f7%2fCardiac_Arrest-620x480.jpg",
+          "width": 620,
+          "height": 480,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -912,325 +1214,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/09/outsenses-ai-looks-for-life-threatening-diseases-in-your-poop/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/09/outsenses-ai-looks-for-life-threatening-diseases-in-your-poop/amp/",
-      "publishedDateTime": "2020-11-09T05:00:00-08:00",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20201109/Machine-learning-algorithms-help-predict-out-of-hospital-cardiac-arrest-survival.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201109/Machine-learning-algorithms-help-predict-out-of-hospital-cardiac-arrest-survival.aspx",
+      "publishedDateTime": "2020-11-09T06:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-what-many-chief-investment-officers-dont-understand-about-ai.md",
-      "title": "What Many Chief Investment Officers Don't Understand About AI",
-      "excerpt": "You can drive real organizational gains with machine learning and AI, as long as there are processes in place to ensure data quality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/11/09/what-many-chief-investment-officers-dont-understand-about-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/11/09/what-many-chief-investment-officers-dont-understand-about-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa5b8b273725a764087eeb0%2F0x0.jpg",
-          "width": 1200,
-          "height": 696,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/11/09/what-many-chief-investment-officers-dont-understand-about-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/11/09/what-many-chief-investment-officers-dont-understand-about-ai/amp/",
-      "publishedDateTime": "2020-11-09T04:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-its-the-screams-of-the-damned-the-eerie-ai-world-of-deepfake-music.md",
-      "title": "'It's the screams of the damned!' The eerie AI world of deepfake music",
-      "excerpt": "Artificial intelligence is being used to create new songs seemingly performed by Frank Sinatra and other dead stars. ‘Deepfakes’ are cute tricks – but they could change pop for ever",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/music/2020/nov/09/deepfake-pop-music-artificial-intelligence-ai-frank-sinatra",
-      "originalUrl": "https://www.theguardian.com/music/2020/nov/09/deepfake-pop-music-artificial-intelligence-ai-frank-sinatra",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/20123a68b9a3b9554937606d1b41eb3e10fe0c70/0_0_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=33e69b92cefaf0d44ae6a7ede6314d70",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/music/2020/nov/09/deepfake-pop-music-artificial-intelligence-ai-frank-sinatra",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/music/2020/nov/09/deepfake-pop-music-artificial-intelligence-ai-frank-sinatra",
-      "publishedDateTime": "2020-11-09T04:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-how-ai-can-go-terribly-wrong-5-biases-that-create-failure.md",
-      "title": "How AI Can Go Terribly Wrong: 5 Biases That Create Failure",
-      "excerpt": "This article will enable boards and senior executives to ask the right questions about the five dangerous biases of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/glenngow/2020/11/09/how-ai-can-go-terribly-wrong-5-biases-that-create-failure/",
-      "originalUrl": "https://www.forbes.com/sites/glenngow/2020/11/09/how-ai-can-go-terribly-wrong-5-biases-that-create-failure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9d9464fce16b409e59440f%2F0x0.jpg",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2020/11/09/how-ai-can-go-terribly-wrong-5-biases-that-create-failure/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2020/11/09/how-ai-can-go-terribly-wrong-5-biases-that-create-failure/amp/",
-      "publishedDateTime": "2020-11-09T03:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-review-google-cloud-ai-lights-up-machine-learning.md",
-      "title": "Review: Google Cloud AI lights up machine learning",
-      "excerpt": "Google Cloud AI and Machine Learning Platform is missing some pieces, and much is still in beta, but its scope and quality are second to none.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3586836/review-google-cloud-ai-lights-up-machine-learning.html",
-      "originalUrl": "https://www.infoworld.com/article/3586836/review-google-cloud-ai-lights-up-machine-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/11/google-cloud-ai-platform-06-sm-100865429-medium.jpg",
-          "width": 300,
-          "height": 364,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3586836/review-google-cloud-ai-lights-up-machine-learning.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3586836/review-google-cloud-ai-lights-up-machine-learning.amp.html",
-      "publishedDateTime": "2020-11-09T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Ethics",
-        "Natural Language Processing",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors.md",
-      "title": "Tiny chip company takes on Intel, Arm with 'swiss-army knife' of AI processors",
-      "excerpt": "The chip, christened Mozart, isn’t the first chip specially designed to handle AI workloads. However, SMI claims that unlike others that are designed for specific workloads, Mozart can adapt to a wide variety of AI workloads on the fly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/nz/news/tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors",
-      "originalUrl": "https://www.techradar.com/nz/news/tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/QKvt8wTE9mCHMTYLqMDi7V-1200-80.jpg",
-          "width": 970,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors",
-      "publishedDateTime": "2020-11-09T02:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-healthcare-artificial-intelligence-market.md",
-      "title": "Healthcare Artificial Intelligence Market",
-      "excerpt": "Latest Survey On Healthcare Artificial Intelligence Market ... Butterfly Network, Inc., Lifegraph, Enlitic, Inc., IBM (Watson Health), Sophia Genetics, Zebra Medical Vision Ltd., Pathway Genomics Corporation, AiCure, Sense.ly, Welltok, Insilico Medicine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2183410/healthcare-artificial-intelligence-market-is-thriving",
-      "originalUrl": "https://www.openpr.com/news/2183410/healthcare-artificial-intelligence-market-is-thriving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/b/Tb09580094_g.jpg",
-          "width": 780,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2183410/healthcare-artificial-intelligence-market-is-thriving",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2183410/healthcare-artificial-intelligence-market-is-thriving",
-      "publishedDateTime": "2020-11-09T00:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
+        "name": "News Medical",
+        "domain": "news-medical.net",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1240,9 +1230,8 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

@@ -3,8 +3,8 @@ category: news
 title: "AMTD’s Singapore Solidarity Fund invests $6.4m in 5 fintech startups in its first batch"
 excerpt: "The evaluation process for a second batch of investments – which aims to support Singapore’s fintech community – is already underway."
 publishedDateTime: 2020-11-09T11:18:00Z
-originalUrl: "https://www.techinasia.com/amtd-singapore-solidarity-invests-64m-5-fintech-startups-first-batch?ref=recommender-661060"
-webUrl: "https://www.techinasia.com/amtd-singapore-solidarity-invests-64m-5-fintech-startups-first-batch?ref=recommender-661060"
+originalUrl: "https://www.techinasia.com/amtd-singapore-solidarity-invests-64m-5-fintech-startups-first-batch"
+webUrl: "https://www.techinasia.com/amtd-singapore-solidarity-invests-64m-5-fintech-startups-first-batch"
 type: article
 quality: 26
 heat: -1
@@ -51,6 +51,6 @@ related:
       domain: techinasia.com
     quality: 26
 
-secured: "+cEHK6zPws11CinvUb8ISfiyok4A6+wNKoJ+ULSSKD8PD5eHbiA8yF6yBEnxZ1nR1NIbWxvWdG40DVhgFHnH+U7aOPbgDXQc6SzE5tqjBEdfjDRTezkY7hxiApywJfdZ4d5QicDNrwWcHtWbOEcTcZm5/RI6x5EJOudI4iDigG6IDEIYXWZwhYHHz2Q+WBc9nDy6DVH2qVcsdd5fq2qw03gqTzFe+pGRjdsNxyNqQm/QlBc0Mrzhey0G/GZnt3q0hIi9Pi38N0d6KhoEhimYo+WIcy+oMKcM+7yQgaC9x4ZDNNa1kqQKE4NdcEevvnnSh+XeYi9zMhnduBGs108JGsImZjWnekpirF2gaXdEEIVONCMIxtXx0ksL1t9ppw3Xqebw1ezZzSIm2tlWoEFQskajUmGRBAyaUMtdvOsce1PJ1ROmvTBDqg5Qf9xW8RGU+InUQzzh2X6j7mEskk+rO6Fthiwrc/RVP1a2UWULpmwdO04AUlKofdm3y0DZOO3lvmCrqoDJNAhovpbk6fak2g==;rnRrocogu++Nzbqttgn2gw=="
+secured: "ALWmsBNdiV6Z+wRGJewdouURMOKQ+zwdw8W2oR1DYjO5IaOSlt8dek0Co6Bw9lRZ9MZgrSSiSx77D9b3qxkFXBBmZ5UtbwKSGimSbkkjgSJb8qyJFwu1NgzTEwCejtrDMXILTzYogs4iuwwc4Ad6pVnGwkHSCQMYoBRCjir/2COcnTQ3dSrw+7bV9gmDpHZD1QIyOYTxaDxe69sdaEw1OEJl3yUEQaeDvgno5lMsDMz12xg1DM4/phE+N63PtDbYgs6wMzSWFRza1/eDFSgOButMRSsEZJudHUc0tbruYmuniUfmWhfxyMDzagnqHfnbXyoCPbdOqj+qu3CzcI7XmYydAMfYd/R4qYOXdcrlYfKGoFBbAQQQ+YO1WiI12A3rPN0ofMFsVY+LMrcU7MwlPvQ/Vo04lkihZN7W7M5GeZNsobEhqFIhUhwPPc3/XphpuWLA9CgyHhQNTbNK1hbbO4Q31WUBbqlaKgzYD7CQpkAYl+CjdWYECtwf+FMFZOKLed92eDdbkCLINlG1k5PabQ==;Gyy6JQIeO7A+sLz50ErnAQ=="
 ---
 
