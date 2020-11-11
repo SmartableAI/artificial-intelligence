@@ -1,31 +1,22 @@
 ---
 category: news
 title: "IBM and AMD Announce Joint Development Agreement to Advance Confidential Computing for the Cloud and Accelerate Artificial Intelligence"
-excerpt: "ARMONK, N.Y. and SANTA CLARA, Calif., Nov. 11 2020 /PRNewswire via COMTEX/ -- ARMONK, N.Y. and SANTA CLARA, Calif., Nov. 11 2020 /PRNewswire/"
-publishedDateTime: 2020-11-11T12:29:00Z
-originalUrl: "https://www.marketwatch.com/press-release/ibm-and-amd-announce-joint-development-agreement-to-advance-confidential-computing-for-the-cloud-and-accelerate-artificial-intelligence-2020-11-11"
-webUrl: "https://www.marketwatch.com/press-release/ibm-and-amd-announce-joint-development-agreement-to-advance-confidential-computing-for-the-cloud-and-accelerate-artificial-intelligence-2020-11-11"
+excerpt: "\"IBM is focused on giving our clients choice, agility and security in our hybrid cloud offerings through advanced research, development and scaling of new technologies.\" \"This agreement between AMD and IBM aligns well with our long-standing commitment to collaborating with leaders in the industry,"
+publishedDateTime: 2020-11-11T12:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/ibm-and-amd-announce-joint-development-agreement-to-advance-confidential-computing"
+webUrl: "https://www.nasdaq.com/press-release/ibm-and-amd-announce-joint-development-agreement-to-advance-confidential-computing"
 type: article
-quality: 35
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
+  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "IBM and AMD Partner Up to Accelerate Development in Cloud Computing and Artificial Intelligence"
@@ -47,9 +38,9 @@ related:
   - title: "IBM, AMD to collaborate on HPC, AI, hybrid cloud, confidential computing"
     excerpt: "IBM and AMD said they will collaborate on security, open source software, standards and architectures for high-performance computing and artificial intelligence workloads. The partnership between the two companies is likely to cement AMD's place in hybrid cloud environments and give more of a data center foothold in the enterprise."
     publishedDateTime: 2020-11-11T04:36:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-amd-to-collaborate-on-hpc-ai-hybrid-cloud-confidential-computing/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-amd-to-collaborate-on-hpc-ai-hybrid-cloud-confidential-computing/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-amd-to-collaborate-on-hpc-ai-hybrid-cloud-confidential-computing/"
+    webUrl: "https://www.zdnet.com/article/ibm-amd-to-collaborate-on-hpc-ai-hybrid-cloud-confidential-computing/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-amd-to-collaborate-on-hpc-ai-hybrid-cloud-confidential-computing/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-amd-to-collaborate-on-hpc-ai-hybrid-cloud-confidential-computing/"
     type: article
     provider:
       name: ZDNet
@@ -72,6 +63,6 @@ related:
         height: 406
         isCached: true
 
-secured: "Qy6x9We3quClkXbAae6ebm2IHvL0wCk/YsdMjzRALauYXirmdusfktjaiycaNpbQIa48mpcc8aOQ1HYWLm7NBJZa35wLOe1D+nwJfrmSwcKum+IftpaQ9uJdlBHHrsR27i4BLpn6YQKSA5S8Yqp39UlYRjGsyWxh9A1SdB1X/GAp2kuzqdrAKHLGSYwIjSRWuhLrs7TBngTrHySFXqNVj0SGpPUErMotmBUfBN27fBBQ1039AG4fzeK6EMFoo7vwk+arUBNaWvjwRO5pP0bczEp9DfPu1l51Y5GFcEyfhXw6Wihn6SgIZlbinppozMNxLJG1i7BUsna1/N2+aNk40mk5YL109H++WTJPplAwPss=;N8n9m2TtrlTYv+JQP2mQog=="
+secured: "cBa7hOLL76vLuGGxLcgAbHbWNAACQ/dB1EhyS7RQ2yCYiRtG4hDJl4fPSl6bhaRBitPL6J3Pe0MveuJQMlcY19H2CuFbQIb2cIqkX2hJKaFkMmKbVonJ92bS9JnAyXO1ecwMn/dYnNiME1jpb97MRA2CmhfXNSLiRHMIWt5cKx5FH058XnL7RJbYzEtQ4AP2IjXO3qiMw8mXv0k9JKyHGMHgKIJu3egW6wnTtT5m8bkY5LYqXjqjyy7sEQq5MCNeIjgQl7UKt8ZMHecI3l1UB3+xIxvAsko5zXn9Kuh2YFDUpyYiagVPwZ55a759w4BDPViN4z2nU3g/9PVvMIl92A9OX3uLlD4bGLHOzDsrL4Q=;Nlilc5afOoWtx46lKVxk9w=="
 ---
 

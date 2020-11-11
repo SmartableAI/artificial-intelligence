@@ -33,9 +33,9 @@ related:
   - title: "IBM, AMD to collaborate on HPC, AI, hybrid cloud, confidential computing"
     excerpt: "IBM and AMD said they will collaborate on security, open source software, standards and architectures for high-performance computing and artificial intelligence workloads. The partnership between the two companies is likely to cement AMD's place in hybrid cloud environments and give more of a data center foothold in the enterprise."
     publishedDateTime: 2020-11-11T04:36:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-amd-to-collaborate-on-hpc-ai-hybrid-cloud-confidential-computing/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-amd-to-collaborate-on-hpc-ai-hybrid-cloud-confidential-computing/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-amd-to-collaborate-on-hpc-ai-hybrid-cloud-confidential-computing/"
+    webUrl: "https://www.zdnet.com/article/ibm-amd-to-collaborate-on-hpc-ai-hybrid-cloud-confidential-computing/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-amd-to-collaborate-on-hpc-ai-hybrid-cloud-confidential-computing/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-amd-to-collaborate-on-hpc-ai-hybrid-cloud-confidential-computing/"
     type: article
     provider:
       name: ZDNet
@@ -58,20 +58,15 @@ related:
         height: 406
         isCached: true
   - title: "IBM and AMD Announce Joint Development Agreement to Advance Confidential Computing for the Cloud and Accelerate Artificial Intelligence"
-    excerpt: "ARMONK, N.Y. and SANTA CLARA, Calif., Nov. 11 2020 /PRNewswire via COMTEX/ -- ARMONK, N.Y. and SANTA CLARA, Calif., Nov. 11 2020 /PRNewswire/"
-    publishedDateTime: 2020-11-11T12:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ibm-and-amd-announce-joint-development-agreement-to-advance-confidential-computing-for-the-cloud-and-accelerate-artificial-intelligence-2020-11-11"
+    excerpt: "\"IBM is focused on giving our clients choice, agility and security in our hybrid cloud offerings through advanced research, development and scaling of new technologies.\" \"This agreement between AMD and IBM aligns well with our long-standing commitment to collaborating with leaders in the industry,"
+    publishedDateTime: 2020-11-11T12:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/ibm-and-amd-announce-joint-development-agreement-to-advance-confidential-computing"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 17
 
-secured: "7DZPLx0ovc/r7vZQvUP0hq74kbpppRjfeZYv4B/qz8a97ctzH9i0Hod6xDCu2+bFS7l3hUKZm4x4k18bVWr8JGZte61BqMLTb9SfV7DsM1lRzmwXZ1Ewr16SxvNsqeYnjE2kUKfmuyjIqWaxd9hgXTx2dxbRz0mpq6hwlbyb4BAo02QXeVvkk2K8EHu9dUyNPN9P8lQFgeJ5Y/y9tsSNsayKm966aSHuTNXhA4Qm7KiPrUTxCzSdvDfWDgquX9s/ETsF7ahTB9SNEZaQZsija2Lr/HI11BAgJtvOet7LpSKFeTsd4WN/PUuW8sbjHD3HQx6jHAuf/pNwUSXFEu8iUEjJiUA5Y/jlqnEnUlmghZQ=;nExdgsV+wLJpt98Fo6sGnw=="
+secured: "Umx1+h2ms8BY0iqX0u9RQDAzdPgC5r4DtmT2L3CSVdbR+FFF/F/6LdBkrYORDF2K/p77A+nL4l4EmLmxnFCu5vuoCrBCmcYjZNREPQYYWjFrUUGVZwS5jq/ZRO5HyONCg58nZ50b3ELZzRD41TaRXcuaytW+mLbjED5dTUhuxJje/4rzt246G4bEEMJa8EtNsA0jMdJTA8lW5BzxcH8Rj8rrdxF3L3dwV4MAfxVtFlK/IYhyzJU3jLFz5wa1+CU5ayE2Vw9pAs+m+jlbAUhPhdlbx5z6mrvIfEQ3iRSLCkOscmTlTtYdzT/mvPSUWQnmKDlP/zP27PWGo7S/XOJVNzQqoXCO0JQ21hLvOldTJkmsRwYZHX4uUSIL2hX770jrjnK1hajA+8m/kzaG6axOd1MNCNlNZWHieiyFFOAMVL3ik/Gt9RTAUmeCOyUDLEkZmy834qytiUn740oOgbTrYRQciOsjeOOST9yJQP95/EgbkKJOVPvIuc9lAZ5pPzPERf116p7du86gVG5ocO6unw==;U+CAlqZhvjteG3Qt2GgLrg=="
 ---
 

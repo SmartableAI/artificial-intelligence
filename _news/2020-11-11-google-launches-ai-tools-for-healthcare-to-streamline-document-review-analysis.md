@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-11T15:47:00Z
 originalUrl: "https://www.beckershospitalreview.com/artificial-intelligence/google-launches-ai-tools-for-healthcare-to-streamline-document-review-analysis.html"
 webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/google-launches-ai-tools-for-healthcare-to-streamline-document-review-analysis.html"
 type: article
-quality: 50
+quality: 67
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg"

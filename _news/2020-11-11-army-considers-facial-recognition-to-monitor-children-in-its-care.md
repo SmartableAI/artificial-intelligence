@@ -39,6 +39,20 @@ related:
         width: 760
         height: 368
         isCached: true
+  - title: "Facial recognition for cows enables insurance for marginalized cattle farmers"
+    excerpt: "Through this package, the farmer gets animal insurance and farm management services only by taking a few pictures of his cattle"
+    publishedDateTime: 2020-11-11T12:44:00Z
+    webUrl: "https://www.dhakatribune.com/business/2020/11/11/facial-recognition-for-cows-enables-insurance-service-for-marginalized-cattle-farmers"
+    type: article
+    provider:
+      name: Dhaka Tribune
+      domain: dhakatribune.com
+    quality: 36
+    images:
+      - url: "https://media-eng.dhakatribune.com/uploads/2020/11/watermarked/349740/1605098471680untitled-1605098418667.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "pYAgFpmdnCe4lKXVtEu8sW04r7MjDRBK5X3LJzwusO3tKB52NAy6JJ7Z+z6YKERI9IYky6UrygdtOtDzMcnqOHeEuYJoCqFLg3TyOtwXbLE3RXfPCEf2zRZ9MS6q7CcUySj5SUTfJmciC3vw01N2chd6/MSRbRcg/gn5R81o19d0gLXFOxB3r20aLdKYgrMwZ2bQwXYD5RIbcBWQ2f+8mR+xvxybaQQx69BZDKgUyW5UiJ7dTMVKA9lyaav5C43E7wx39rfuDw4tVzMUNij0zYUWtuU0QQ4tWob+uBpH/20C+3jUSt93BpKmLb7J9hs9X/4hnBGdtqYmYokgb39I62lbWMhuuEcdrqAnzJv3hLImzvcsbnnoRAfYIdS7fRvHRHPMs8pHeK62QMGny7hb2EaZ9+uQf62mbJEljOtB/+R/2h5PqmMj/8qRkmh/0ZJSH7ZHQrkudTUJU0omlY4fByuCUb2AOLOJZu4lQaT5drLvBfZK6Kmma0np2gPPjkUSFTph6EfWhOapiVU2I0mQ8A==;BJs68INxMIhxGwsjWKo+wQ=="
 ---

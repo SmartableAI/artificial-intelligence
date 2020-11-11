@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Honda claims it'll be the first to mass produce level 3 self-driving cars"
+    excerpt: "They could overtake slow cars by themselves. Virtually every semi-autonomous car you’ve seen on the road, even Teslas with Autopilot, uses level 2 self-driving — they may save you from steering or hitting the accelerator,"
+    publishedDateTime: 2020-11-11T16:35:00Z
+    webUrl: "https://www.engadget.com/honda-to-mass-produce-level-3-self-driving-cars-163208006.html"
+    ampWebUrl: "https://www.engadget.com/amp/honda-to-mass-produce-level-3-self-driving-cars-163208006.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/honda-to-mass-produce-level-3-self-driving-cars-163208006.html"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: engadget.com
+    quality: 88
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F4f2b8c20-2436-11eb-b7b7-4bf22a2a36a8&client=amp-blogside-v2&signature=f3a493c3b8522b7fbef3bc164f1803488841034a"
+        width: 600
+        height: 350
+        isCached: true
   - title: "Why Those Puddles On The Roadway Can Be Startling Hazardous For Self-Driving Cars"
     excerpt: "This brings us to today’s intriguing question: How will AI-based true self-driving cars fare in coping with puddles on the public roadways? Let’s unpack the matter and see. As a clarification, true self-driving cars are ones that the AI drives the car ..."
     publishedDateTime: 2020-11-08T14:52:00Z
@@ -43,35 +59,67 @@ related:
         width: 1200
         height: 770
         isCached: true
-  - title: "BEHIND THE WHEEL: Where are our self-driving cars?"
-    excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time,"
-    publishedDateTime: 2020-11-07T04:30:00Z
-    webUrl: "https://www.dailylocal.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_e61d0649-e1b8-5b2e-b05c-f25477879748.html"
-    ampWebUrl: "https://www.dailylocal.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_e61d0649-e1b8-5b2e-b05c-f25477879748.amp.html"
-    cdnAmpWebUrl: "https://www-dailylocal-com.cdn.ampproject.org/c/s/www.dailylocal.com/business/behind-the-wheel-where-are-our-self-driving-cars/article_e61d0649-e1b8-5b2e-b05c-f25477879748.amp.html"
+  - title: "Honda, First To Mass Produce Level 3 Self-Driving Cars: Reuters"
+    excerpt: "The Japanese government awarded Honda Motor Co Ltd (NYSE: HMC) a safety certification to the automaker’s “Traffic Jam Pilot” self-driving technology, Reuters reports. What Happened: Honda plans to launch its luxury sedan (Honda Legend) sales with the ..."
+    publishedDateTime: 2020-11-11T12:51:00Z
+    webUrl: "https://www.benzinga.com/news/20/11/18318098/honda-first-to-mass-produce-level-3-self-driving-cars-reuters"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18318098"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18318098"
     type: article
     provider:
-      name: Daily Local News
-      domain: dailylocal.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 44
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailylocal.com/content/tncms/assets/v3/editorial/2/69/269ea2fa-0db8-50d3-8153-0ca49b7c73ca/5fa55a853eba7.image.jpg?resize=1024%2C630"
-        width: 1024
-        height: 630
+      - url: "https://www.benzinga.com/files/images/story/2012/honda_legend_2018.jpg"
+        width: 4485
+        height: 2085
         isCached: true
-  - title: "Waymo Reveals Every Collision Involving Its Self-Driving Cars in Phoenix"
-    excerpt: "Self-driving cars are set to revolutionize our roads, although exactly when is much debated. Until recently these vehicles all relied on a human backup driver who could take over a self-driving car are set to revolutionize our roads, although exactly when ..."
-    publishedDateTime: 2020-11-09T16:24:00Z
-    webUrl: "https://www.discovermagazine.com/technology/waymo-reveals-every-collision-involving-its-self-driving-cars-in-phoenix"
+  - title: "Walmart teams up with GM's Cruise to test grocery delivery with self-driving cars"
+    excerpt: "Walmart announced Tuesday that the company has joined forces with self-driving car company Cruise to test out autonomous grocery delivery in Arizona."
+    publishedDateTime: 2020-11-11T15:31:00Z
+    webUrl: "https://www.fox35orlando.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars"
+    ampWebUrl: "https://www.fox35orlando.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars.amp"
+    cdnAmpWebUrl: "https://www-fox35orlando-com.cdn.ampproject.org/c/s/www.fox35orlando.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars.amp"
     type: article
     provider:
-      name: Discover Magazine
-      domain: discovermagazine.com
-    quality: 38
+      name: WOFL
+      domain: fox35orlando.com
+    quality: 39
     images:
-      - url: "https://images.ctfassets.net/cnu0m8re1exe/73EBmlLCjStWqOHh8YtKN7/38f0804979c6700ec3bb931bec03e049/shutterstock_643585552.jpg?w=650&h=433&fit=fill"
-        width: 650
-        height: 433
+      - url: "https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2020/11/932/470/Walmart-and-Cruise.png?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
+  - title: "Walmart teams up with GM's Cruise to test grocery delivery with self-driving cars"
+    excerpt: "Walmart announced Tuesday that the company has joined forces with self-driving car company Cruise to test out autonomous grocery delivery in Arizona."
+    publishedDateTime: 2020-11-11T17:36:00Z
+    webUrl: "https://www.fox5atlanta.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars"
+    ampWebUrl: "https://www.fox5atlanta.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars.amp"
+    cdnAmpWebUrl: "https://www-fox5atlanta-com.cdn.ampproject.org/c/s/www.fox5atlanta.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars.amp"
+    type: article
+    provider:
+      name: FOX 5 Atlanta
+      domain: fox5atlanta.com
+    quality: 39
+    images:
+      - url: "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2020/11/932/470/Walmart-and-Cruise.png?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
+  - title: "Self-driving Cars and Trucks Market to Eyewitness Massive Growth by 2026 | General Motors, Honda Motor, Nissan Motor"
+    excerpt: "Nov (Heraldkeepers) -- Latest added Global Self-driving Cars and Trucks Market research study by HTF MI offers detailed product outlook"
+    publishedDateTime: 2020-11-11T07:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-and-trucks-market-to-eyewitness-massive-growth-by-2026-general-motors-honda-motor-nissan-motor-2020-11-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Despite promises, totally self-driving cars still in the future"
     excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time, so you must always keep your hands on the wheel and pay extra attention to the ..."
@@ -98,15 +146,24 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Edmunds: Where are our self-driving cars?"
-    excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time, so you must always keep your hands on the wheel and pay extra attention to the road."
-    publishedDateTime: 2020-11-07T07:03:00Z
-    webUrl: "https://columbiabasinherald.com/news/2020/nov/07/edmunds-where-are-our-self-driving-cars-2/"
+  - title: "Honda looks to break away in self-driving race"
+    excerpt: "Honda (NYSE:HMC) says it will be the first automaker in the world to mass produce sensor-packed level 3 autonomous cars that will allow drivers to let their vehicles navigate congested expressway traffic."
+    publishedDateTime: 2020-11-11T13:08:00Z
+    webUrl: "https://seekingalpha.com/news/3634896-honda-looks-to-break-away-in-self-driving-race"
     type: article
     provider:
-      name: Columbia Basin Herald
-      domain: columbiabasinherald.com
+      name: Seeking Alpha
+      domain: seekingalpha.com
     quality: 4
+  - title: "Ford: Playing it safe. There is no other way to launch self-driving cars"
+    excerpt: "That same mindset dominates how Ford approaches the introduction of self-driving cars. Just as decades of experience have given us safe and reliable development processes for human-driven cars, we need to draw upon that experience and develop the same processes for self-driving ones."
+    publishedDateTime: 2020-11-11T08:26:00Z
+    webUrl: "https://www.automotiveworld.com/news-releases/ford-playing-it-safe-there-is-no-other-way-to-launch-self-driving-cars/"
+    type: article
+    provider:
+      name: Automotive World
+      domain: automotiveworld.com
+    quality: 3
 
 secured: "g5JFAVa+DU89i2FxkxWHSLgv8VpaFu/D9gtHwGgjd4+E3Ea2kk7IvLuyYvs1Y1F8NzULx+rC6nEZcIPhQsWBNtifDm8ll+BRDzYPZTbYWlGv/v1lkpAFb9Glz2KOvBgimRnEXNAiNWU4hyLNWttOxrgFca9PzBT8wKk+bpd9xiZ0TWvloGws3lIqQ9mA9EgyQ8PIDLha6lWMIpnzVYq8tA7hhapFIvnebNXO4+Xk+gxMEG1cBMyKszCB/lyiHdleDIr58OlinqQRHjDZAsv/tA91oT/ZRYkm2qVSyGyI5O0Bd/RPDy7sGtDdpIFlxxaaqINkLf6zge4ygxIJONOs31mc7J17OU3LsECNgL1C/o4vBBIlUEXpG7QC65fq03V7nzMBMbTb4cCrFWJcEkOE5aCykJoX4cl82vwyapzkBE2ZJ8kPiYn1iPKyu38yzbbK+8FB8DBO/d3IFNw03YpbCPB+Q+eVkiRdaQJwrPgIaCtAY6vp8gr+XdZKLSdCJu9D9oWndXSs1spognXCXNPy0A==;nSLgfye3FaIozNVFCI7LMw=="
 ---

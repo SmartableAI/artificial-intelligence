@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/11/11/21559930/google-tra
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/11/11/21559930/google-train-ai-photos-image-labelling-app-android-update"
 type: article
 quality: 88
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Help wanted: Google Photos wants your assistance in training its machine learning algorithms"
+    excerpt: "Google has asked its users for help improving Google Photos before, but a new participation option for Android users pushes this idea even further. You can now volunteer to label a group of images to help improve Google's machine learning algorithms."
+    publishedDateTime: 2020-11-11T18:29:00Z
+    webUrl: "https://www.dpreview.com/news/6446970864/help-wanted-google-photos-wants-your-assistance-in-training-its-machine-learning-algorithms"
+    type: article
+    provider:
+      name: Digital Photography Review
+      domain: dpreview.com
+    quality: 43
+    images:
+      - url: "https://3.img-dpreview.com/files/p/E~TS940x788~articles/6446970864/Google_Photos_Logo.jpeg"
+        width: 940
+        height: 627
+        isCached: true
   - title: "Google Photos uses clientele to train its image recognition capabilities"
     excerpt: "Google Photos has rolled out a new survey feature in which it asks users to evaluate and describe the contents of photos as it looks to upgrade its image recognition algorithms. According to"
     publishedDateTime: 2020-11-10T16:36:00Z

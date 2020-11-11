@@ -8,7 +8,7 @@ webUrl: "https://www.businessinsider.com/self-driving-delivery-vehicle-startup-n
 ampWebUrl: "https://www.businessinsider.com/self-driving-delivery-vehicle-startup-nuro-how-it-works-2020-11?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/self-driving-delivery-vehicle-startup-nuro-how-it-works-2020-11?amp"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://i.insider.com/5faad0c01df1d50018219e64?width=1200&format=jpeg"
@@ -117,6 +118,6 @@ related:
         height: 630
         isCached: true
 
-secured: "bUydqYTfzOBB/n4sS5/jv2fdFIm/ddFQgOHnG1Pm6WULtAlrQptD0oH26znNXBz5W77fIdKAfIH66TRrlL2payYPE8xGSekpPTT+QLHnhKtPd5bZ5zPEKVpvZAomCf5Xed5z43I5QiUiC0Leh/fPKOzeFogj2u0hs0ghYgBCnG7z7ab3lmiN9DDYJETWZ9dYnRY1b1SnF+hPtlYSJSdK1un40aKPglqnSECjY+4dg1LIXsBM28PyJRD7yDDaUKFn8NqKOOZaP4qz0VIu8Hh5A8Dy9XcizOpyHGbQSJ+QeK7I+7jFRGUZ33HIUGRAM8dH+kkjO8/XbW0yPqbZeNxGl5UDWbJJydGjerYza2W9ReI=;/xn3ngICDGGK1c2i2L4BBw=="
+secured: "QIBPZ2r9TD6o9Me7vxD0/ghCelOYNun8mPGNRBI8biPKaLISCUUH/uU8tcOWUjK8A/8PgimqLN9I/ckfRbuLU4nqaKxfjYhQMCvCxPuDuQt0yfGmoRls/e6HHNDrZMn5GNWysvYtBCNioR6NMrdeYG5nxqC2xLpBune4QC0Dfr9RBe3PbDsP+8h4Oa12TjbhQeh6LKSf3HC4QezjEyqr7RKFbG+GbynZZdnyA4dJS8t9Ak78t3UmdWPYBuWE+as5QsXwERWcYUhTjYHvSlgFYRsK/gJQ9YLstHdmzsMX70SMEgjbp2aEN2P0Ob5yY9ag/8s6vzLdBB1P0+h6vV8p0KtT7wGHCtkSRrq0FdioKG0N47NHpwTqCbfOfsz9yRrT0rE7rdQ6RTVUQ1JELG5nznEsA5giPNQSR0Xne53SDBaFQJxXFTHg6Q4pswug8awvE67W6vktY+CH+TBFdhxPnhGMT8pru+jWcamVT2qrs9Tf4ORGIbK2BHwhygqH/hN2uFevMMczK4YVDXmz2gJuGQ==;wo3OSY7sDYzR0QPZsKIMDA=="
 ---
 

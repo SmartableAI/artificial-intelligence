@@ -25,35 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Biometrics community recognizes need for better messaging on ethical facial recognition use"
-    excerpt: "Less than one in four biometrics community stakeholders say that enough is being done by the industry to influence the messaging around the ethical use of facial recognition, according to a survey"
-    publishedDateTime: 2020-11-10T22:50:00Z
-    webUrl: "https://www.biometricupdate.com/202011/biometrics-community-recognizes-need-for-better-messaging-on-ethical-facial-recognition-use"
+  - title: "Army Considers Facial Recognition to Monitor Children in Its Care"
+    excerpt: "The branch aims to pilot video surveillance and machine learning algorithms to see how they can help keep an eye on kids’ well-being in its child development centers."
+    publishedDateTime: 2020-11-10T16:47:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2020/11/army-considers-facial-recognition-monitor-children-its-care/169921/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 48
+      name: Nextgov
+      domain: nextgov.com
+    quality: 39
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/30121041/biometric-accuracy-facial-recognition-crowd-scaled.jpg"
-        width: 2048
-        height: 1151
-        isCached: true
-  - title: "Grad student union effort nears threshold for recognition"
-    excerpt: "University of New Mexico graduate student workers reported on Friday that more than 40% of eligible graduate workers have signed union cards. The union needs 50% plus one in order to appeal to the New Mexico Public Employee Labor Relations Board (PELRB) to form a union."
-    publishedDateTime: 2020-11-10T17:14:00Z
-    webUrl: "https://www.dailylobo.com/article/2020/11/grad-student-union-effort-nears-threshold-for-recognition"
-    type: article
-    provider:
-      name: New Mexico Daily Lobo
-      domain: dailylobo.com
-    quality: 24
-    images:
-      - url: "https://snworksceo.imgix.net/tdl/dfc15fb7-6103-4a6f-8d08-29a5701e18a6.sized-1000x1000.JPG?w=800&h=600"
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/11/10/shutterstock_1177740676/open-graph.jpg"
         width: 400
-        height: 600
+        height: 400
+        isCached: true
+  - title: "Army to evaluate facial recognition in day care centers"
+    excerpt: "Through a demonstration of the technology, the Army expects to learn whether facial recognition technologies can improve family quality of life, reduce base costs and enhance mission readiness."
+    publishedDateTime: 2020-11-10T21:13:00Z
+    webUrl: "https://gcn.com/articles/2020/11/10/facial-recognition-daycare.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 39
+    images:
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Workforce/daycare_center.jpg"
+        width: 760
+        height: 368
         isCached: true
 
-secured: "1iieMq8ggQZIJpgaWkfB1+KOiXZQ5S60eNH2A7ElNdMO250W76QECvq7ea6mXoXJ1tyht9mTWLliuDjpFksy9jVO9UQmLzxjoO8rfiYoYRAk1vL7Qcl9Vdnmnkq+PasWQPHy1hDtbnjsb+50Nj37BZCDk/ZoDDriRQyvFkOd1jO/bDyiwYjvjen7O8cGrw3azjYpNug3UXbEWksTa9FnWKcl7H22QitgkVwlc3dL36WuKkLAcUoWvTnEft6Kfshg7nQrkbR7VInirt6paGgwQMB2wKq7U9piU8+KbBrZ3Kf2BOEnx4ErOb6O7HEQx7XaI8zY5Ae+3vev3rh0CNSO79ktdRIEknm5eMfgxnFjHeY=;vFkRms9+unRjaOC2L6OP4w=="
+secured: "c5lrOcVx7ePxVe5v38v1ojIM32mkD5kqaceY0G9rs6b7f8las135OQ2U1pMOHpL3R5Zh3FFrxWBfSRYECpoK/Pr3lzp4T8IUZLKOx6ChKncgFzAv8MnxVjO38nouWLwj1c3imdlUbAbU3Vfu3Et454I6OlRYCUCkJzUi3Ox13gh08Qlqvpr0GK5a4mgq2rpXNQKg/QlfrefuWzRZYyNRk3xU1865+n9g0SLppT9ASCDvqltbSV6YpTGTt86UNhUirHyn0aMOpW7UmS6PxOZsSsn0uHmjlTpGr8u4YBCE6oEutEGeAp7wBwEeQ5jOn7JOg2CyyKBBpCUtDwc5Cz+s0VZ5jNKDs2BX4BAKvtbfwYW1bIYp3tIJ1TnxbkNVykz+A/u91o0ub5JZByJjsHZa/CXxoz2bt7+nkEpWDw5eSB3avgypdX1qQ27g+2ZYKGylS5R50j3QjXJZGWWfDo7p9QNOgUhC61RKFby6z6ZkZgJT3PRc+U7LJR5y/gVCqdgcRf82ZH+/QLjvrYKnfvEyrQ==;GvDqU3CtSEEbLgoZvntb3Q=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/359398"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359398"
 type: article
 quality: 93
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 600
     height: 338
     isCached: true
+
+related:
+  - title: "AI revolution in medicine"
+    excerpt: "As part of our series, artificial intelligence is examined through the medical lens. It may lift personalized treatment, fill gaps in access to care, and cut red tape, but risks abound."
+    publishedDateTime: 2020-11-11T16:36:00Z
+    webUrl: "https://news.harvard.edu/gazette/story/2020/11/risks-and-benefits-of-an-ai-revolution-in-medicine/"
+    type: article
+    provider:
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 39
+    images:
+      - url: "https://news.harvard.edu/wp-content/uploads/2020/09/AI_Med_Shot-945x630.jpg"
+        width: 945
+        height: 630
+        isCached: true
 
 secured: "gOKdvOwGIG8dHEOpAMqOwuLLsQ19B80F83kChgX2mpxyBgBOXWeHfOBzlPB2qBoo4TbxO+Mz63QQUQYd6wM3cKV1JelYfnWWtoE486z4EzikejkLQRC7bPiQIvo25NHteChtRzTgVK55fuZ07ylAc6vSLjMHY/F+j2/WRq+d6CGdPhPYhZ0Nh8jRA8LEcFNy58SO0nYgKweaJ93KGTh3MifSb7sAoiA79twLKTH3kDyWhtiqG/b/qXLVrralFnxs9ylLHZNRetEEW83yhRRhNIZqUUInKi3m3hA0/V4oAPs3FaLgMRvMEFQAOhzoOt4AWRUWBMbRAyUof8A+ZCtt2RTJXztX/8uF6Cv5tAirb0w=;CLdRGkYlTfPWy/f49JErNQ=="
 ---

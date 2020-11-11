@@ -7,7 +7,7 @@ originalUrl: "https://www.dailylobo.com/article/2020/11/grad-student-union-effor
 webUrl: "https://www.dailylobo.com/article/2020/11/grad-student-union-effort-nears-threshold-for-recognition"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biometrics community recognizes need for better messaging on ethical facial recognition use"
-    excerpt: "Less than one in four biometrics community stakeholders say that enough is being done by the industry to influence the messaging around the ethical use of facial recognition, according to a survey"
-    publishedDateTime: 2020-11-10T22:50:00Z
-    webUrl: "https://www.biometricupdate.com/202011/biometrics-community-recognizes-need-for-better-messaging-on-ethical-facial-recognition-use"
+  - title: "Veterans Day offers a time for recognition and gratitude"
+    excerpt: "Today we celebrate Veterans Day, and I’d be remiss if I didn’t take a moment to thank all of my fellow service men and women who have served and continue to serve our country. We are a home of the free because of the brave,"
+    publishedDateTime: 2020-11-11T17:25:00Z
+    webUrl: "https://urbanmilwaukee.com/pressrelease/veterans-day-offers-a-time-for-recognition-and-gratitude/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 48
+      name: Urban Milwaukee
+      domain: urbanmilwaukee.com
+    quality: 24
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/30121041/biometric-accuracy-facial-recognition-crowd-scaled.jpg"
-        width: 2048
-        height: 1151
-        isCached: true
-  - title: "Facial recognition for cows enables insurance for marginalized cattle farmers"
-    excerpt: "Through this package, the farmer gets animal insurance and farm management services only by taking a few pictures of his cattle"
-    publishedDateTime: 2020-11-11T12:44:00Z
-    webUrl: "https://www.dhakatribune.com/business/2020/11/11/facial-recognition-for-cows-enables-insurance-service-for-marginalized-cattle-farmers"
-    type: article
-    provider:
-      name: Dhaka Tribune
-      domain: dhakatribune.com
-    quality: 36
-    images:
-      - url: "https://media-eng.dhakatribune.com/uploads/2020/11/watermarked/349740/1605098471680untitled-1605098418667.jpg"
-        width: 600
-        height: 315
+      - url: "https://urbanmilwaukee.com/wp-content/uploads/2016/04/26463952071_50e6fce3c4_k-e1461243681866.jpg"
+        width: 1000
+        height: 667
         isCached: true
 
 secured: "8O7UEvAomfeA9bwz6k41edx2Bu0JhJJdRSyPc8Bt4KI8zNtbgfeQutQ4deqLLqrLMfZSnH8ujV2H/j0Ont4UDlIWLU6s3ysf8LSlhf6LQzW+6c1jSJ0dZHWZVQBm8Psd0FGBtZHJzTTRKKEm35Aiakpkeqim2/EA8EELS79MEoExDMquiMBDZOJdef0ZS+BiDYyEeosuIVZOJYjCRo8oazVUDDHtICFIcZcHyzV2gPUC6pQEbKKDjSuY161/ijFJs763/x8l4wB5y/s6O0MoelNIWe+MZ/wYW7Dirz/UXxjHLywGzTcnxuox0NNm/gOHI9ZSCH2M5SfckpSocZMCz8fWuM88LnVHIwnsQeqIlWI=;Et5qd2b8qpmfccmkWgBC9A=="

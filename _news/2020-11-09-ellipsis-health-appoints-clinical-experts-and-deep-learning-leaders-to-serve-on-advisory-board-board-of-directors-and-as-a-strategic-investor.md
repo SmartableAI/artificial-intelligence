@@ -1,33 +1,29 @@
 ---
 category: news
 title: "Ellipsis Health Appoints Clinical Experts and Deep Learning Leaders to Serve on Advisory Board, Board of Directors and as a Strategic Investor"
-excerpt: "In addition, Ellipsis Health has welcomed Tariq Shaukat, Group President, Bumble, to the Board of Directors, and Richard Socher, PhD, Chief Scientist, EVP at Salesforce, as a strategic investor for the company."
-publishedDateTime: 2020-11-09T15:22:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ellipsis-health-appoints-clinical-experts-and-deep-learning-leaders-to-serve-on-advisory-board-board-of-directors-and-as-a-strategic-investor-1029782051"
-webUrl: "https://markets.businessinsider.com/news/stocks/ellipsis-health-appoints-clinical-experts-and-deep-learning-leaders-to-serve-on-advisory-board-board-of-directors-and-as-a-strategic-investor-1029782051"
+excerpt: "Ellipsis Health, pioneer of the first commercial-grade voice-based vital signs to quantify and manage depression and anxiety symptoms at scale, today announced that"
+publishedDateTime: 2020-11-09T15:47:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ellipsis-health-appoints-clinical-experts-and-deep-learning-leaders-to-serve-on-advisory-board-board/article_8ac10553-e55c-501e-b0b7-65f32db769f2.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ellipsis-health-appoints-clinical-experts-and-deep-learning-leaders-to-serve-on-advisory-board-board/article_8ac10553-e55c-501e-b0b7-65f32db769f2.html"
 type: article
-quality: 33
-heat: 33
+quality: 3
+heat: 3
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1246096/Ellipsis_Health_Logo.jpg"
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/74/27432ca6-ea85-585f-8a5a-5267d98520e0/5fa960941acf4.image.jpg?resize=400%2C327"
     width: 400
     height: 327
     isCached: true
 
-secured: "ckulcj1GeGpnhi+MFA1A+E+nQbUQq+tPBWgu82YiXC6jP4Xo+E5EYWfQC8Szd3ICYcX2gpOrBHpMo+tgnaE/0fITmE201esvwR3QhV7eJDcqUFVJCIRYasRYrFBLDHx+hdFmMkPqrDEBP81RbsMR3QhURMkWd3XsaEvJlqFG6b7R35p5Vm9Dk4YmF8yFGw7jglPPJi6Zqh6H9zagHrGYyTfDsOvp63klbDnq8E9703MiqL9V28ZTF+B6oXbnctcRoqrc8TFTxlDrZbLhQgdqD0NPBo0d/iCmPZioBRicUb/2zzhH57ZTvGtzNtFiiUjuafXp+Ci5QtSmacL3y0XCNX2xz+6jVhjzIXJ4wiHKY3Y=;0DFyphzw+J/35/bEUea/LA=="
+secured: "d2WS5KMW0WOfW5CLbOHkbe0m1zakluCk17UqMdQhWzjfdXZrm85U4G74RhW/KISawORW6NvYsBzCMDahthq/Yj4508+UTkIYtz6ulgvagCW27qOekCD3hzBx3Pc4F/NEXHjeDJjJql5k8NZYWbXNyqBrn3zMtYVOf2/U4O+1C6g7vcUL+2VRcouNqXtLukl+0e+nj4jCYY22T3VwjB7rZ9j1ZLLccY3d392+1R/7F/tnMYPHE5QmAdkz0QRza1FFU0WsP9OI7ERKV3UnaQT2u3BIg6AVSuyRrKQnAo8vWUNXvIM1ndXSHsZNW1wtTZUqUTqiGwBTFcTIqhb1LWx2GwPUpzdUO74tQ2u0aVbr7oU=;6LUVIn9FYSYtT7rconE4fg=="
 ---
 

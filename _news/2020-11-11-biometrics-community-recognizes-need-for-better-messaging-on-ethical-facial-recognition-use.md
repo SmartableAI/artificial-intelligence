@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202011/biometrics-community-recogn
 webUrl: "https://www.biometricupdate.com/202011/biometrics-community-recognizes-need-for-better-messaging-on-ethical-facial-recognition-use"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -27,33 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition for cows enables insurance for marginalized cattle farmers"
-    excerpt: "Through this package, the farmer gets animal insurance and farm management services only by taking a few pictures of his cattle"
-    publishedDateTime: 2020-11-11T12:44:00Z
-    webUrl: "https://www.dhakatribune.com/business/2020/11/11/facial-recognition-for-cows-enables-insurance-service-for-marginalized-cattle-farmers"
+  - title: "Training Facial Recognition on Some New Furry Friends: Bears"
+    excerpt: "Mr. Miller said. Could artificial intelligence used for face recognition be harnessed to discern one bear face from another? At Knight Inlet in British Columbia, Canada, Melanie Clapham was pondering the same question. Dr. Clapham, a postdoctoral ..."
+    publishedDateTime: 2020-11-11T18:34:00Z
+    webUrl: "https://www.nytimes.com/2020/11/11/science/bears-facial-recognition.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/11/science/bears-facial-recognition.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/11/science/bears-facial-recognition.amp.html"
     type: article
     provider:
-      name: Dhaka Tribune
-      domain: dhakatribune.com
-    quality: 36
+      name: New York Times
+      domain: nytimes.com
+    quality: 104
     images:
-      - url: "https://media-eng.dhakatribune.com/uploads/2020/11/watermarked/349740/1605098471680untitled-1605098418667.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Grad student union effort nears threshold for recognition"
-    excerpt: "University of New Mexico graduate student workers reported on Friday that more than 40% of eligible graduate workers have signed union cards. The union needs 50% plus one in order to appeal to the New Mexico Public Employee Labor Relations Board (PELRB) to form a union."
-    publishedDateTime: 2020-11-10T17:14:00Z
-    webUrl: "https://www.dailylobo.com/article/2020/11/grad-student-union-effort-nears-threshold-for-recognition"
-    type: article
-    provider:
-      name: New Mexico Daily Lobo
-      domain: dailylobo.com
-    quality: 24
-    images:
-      - url: "https://snworksceo.imgix.net/tdl/dfc15fb7-6103-4a6f-8d08-29a5701e18a6.sized-1000x1000.JPG?w=800&h=600"
-        width: 400
-        height: 600
+      - url: "https://static01.nyt.com/images/2020/11/11/science/11SCI-AI-BEARS/11SCI-AI-BEARS-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "eJiJJKBttHOJUtWRDtRvux8ki3C0plAyfaG3fZsA9hIhIUHwhQTJN23cux5XelKTC59G7ZSbVhZsvlU7HzQSYNdT2sgnbzwpu/WuZyQJIyr7ng6TY1K868qld0t0SNTsu4jCDEp4aJiBryaUNm9kWGP5Oyien5TXpgjsSk1T7fZ4LitPzUkfP6ybF3pS6pwcQKC5ubvyAJUPvfC2QE2p/rQtkFu3jjvG9zrqMufttC3X26Jx1csI3Wv/U4HTLJIV5MNImj11Ktzur82DmFwIBcw8INo3epRvZZa0NDLtBaI82FLpJiWGIeUOyY4Tys9PLz1b9torP4ad5yiUsDFdX81S4H8vmoH0mFWOKsgD2EGd4z4OoNyJC5Kvb1um4bbC4zl+dj1lsUJFizx+nIPO7M/Slx1YEylXI1P6ozLlIgauylfnGAH2OgUPn2aFy8KCYcgcvzA5r3rKEyNKOn/Q5tePnAhjL2FVgqwPEUeFDlwkPKzpEUDQFAVA1fEvt80f4/183EtPgrW5PpJD8JtVWA==;UP4LIZJLqNnDiTQCstKPEQ=="

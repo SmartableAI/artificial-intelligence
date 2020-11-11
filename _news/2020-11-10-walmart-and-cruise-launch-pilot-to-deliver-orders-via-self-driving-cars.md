@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 274
+heat: 254
 published: true
 
 provider:
@@ -218,22 +218,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Walmart teams up with GM's Cruise to test grocery delivery with self-driving cars"
-    excerpt: "Walmart announced Tuesday that the company has joined forces with self-driving car company Cruise to test out autonomous grocery delivery in Arizona."
-    publishedDateTime: 2020-11-11T15:31:00Z
-    webUrl: "https://www.fox35orlando.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars"
-    ampWebUrl: "https://www.fox35orlando.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars.amp"
-    cdnAmpWebUrl: "https://www-fox35orlando-com.cdn.ampproject.org/c/s/www.fox35orlando.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars.amp"
-    type: article
-    provider:
-      name: WOFL
-      domain: fox35orlando.com
-    quality: 39
-    images:
-      - url: "https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2020/11/932/470/Walmart-and-Cruise.png?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
   - title: "Walmart & Cruise with Self-Driving will Deliver in AZ"
     excerpt: "Walmart is cruising over to Scottsdale, Arizona, to rev up a new pilot with self-driving car company, Cruise. What’s unique about Cruise is they’re the only self-driving car company to operate an"
     publishedDateTime: 2020-11-11T01:22:00Z
@@ -320,15 +304,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Ford: Playing it safe. There is no other way to launch self-driving cars"
-    excerpt: "That same mindset dominates how Ford approaches the introduction of self-driving cars. Just as decades of experience have given us safe and reliable development processes for human-driven cars, we need to draw upon that experience and develop the same processes for self-driving ones."
-    publishedDateTime: 2020-11-11T08:26:00Z
-    webUrl: "https://www.automotiveworld.com/news-releases/ford-playing-it-safe-there-is-no-other-way-to-launch-self-driving-cars/"
-    type: article
-    provider:
-      name: Automotive World
-      domain: automotiveworld.com
-    quality: 3
 
 secured: "ooKrqsjj2zKFcMioVtq8M4MM1Wi4At5bugYzAeBBctUnuAajgmLhGAdTQcR68n68T5xauNfPbut+pXveBs9CXAYZFv4/cIyqvGABtEXUHHC+lzc4LICMXWbzhJtPiKvDnKx6pD4d3IoP9gMa2AcnRVxgOmAWEmpJiukeUj6EuUI8Al2puSa9OESlhzbIFOIDKtlPxy003e/vsw/82zFf8mCj8bzm8G+gLwjk8Lhh1WQudFBAk2RF+sR2zJvXrRMXc+AcRAkUY1WUHd5Oa1vgkL4Fr7jpcb6hGSvxfYvqL9LZNmfPW51tzDSy1OxuithNuJ04M+hb6EGR7dNgnqx0Fy2OqZTRS0qOQsj5LmBHztnuP2p8fCScS7I4xqfzmfqiU9ZMC49RAC4UNFe3fJ3gUkpda6CtstACjY8chtZ1qrwZsGhT8z2A1fQSd+E1xODMdIWuntekSYTxRfXwdAAj4YpAPrbP8Xtmu175uxBX3mBRAUKkW2UyaoBAog7+aOROPsoHOEG+fCqBn4Dzz2H/ig==;Dn7XlMQmrm7t+fHvlN2cDQ=="
 ---

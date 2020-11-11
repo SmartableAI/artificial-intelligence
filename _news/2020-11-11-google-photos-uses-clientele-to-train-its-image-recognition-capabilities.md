@@ -41,6 +41,20 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Help wanted: Google Photos wants your assistance in training its machine learning algorithms"
+    excerpt: "Google has asked its users for help improving Google Photos before, but a new participation option for Android users pushes this idea even further. You can now volunteer to label a group of images to help improve Google's machine learning algorithms."
+    publishedDateTime: 2020-11-11T18:29:00Z
+    webUrl: "https://www.dpreview.com/news/6446970864/help-wanted-google-photos-wants-your-assistance-in-training-its-machine-learning-algorithms"
+    type: article
+    provider:
+      name: Digital Photography Review
+      domain: dpreview.com
+    quality: 43
+    images:
+      - url: "https://3.img-dpreview.com/files/p/E~TS940x788~articles/6446970864/Google_Photos_Logo.jpeg"
+        width: 940
+        height: 627
+        isCached: true
 
 secured: "TIkjcQVMh8Fr1nwQSas9ee1lck2rkk3pTVsN1fWu0qmhcHBkXuRZfAmECtCFYB+ru8lpnGZ1seEa4AqAP7BL1dxY/OISF9JeQO0BT20QeWv/TKSO41Dn0V/TJiuKk0YVmtljn7JjiBUAEn2HYMkZgskJs6eEG3kNzGbzBQxiL+fj+T+jbfOJhv/hxjbatFKJxVuckdrb2QpOwv3yX3eR2RzRgxVR4LIHLi1uJT6Usgk4jqfwT1cxkD8CVK7VW0BsgVTP0kunmbl1sxjVRXknJFUGq6jpLB5zt+CsJa5KFmkeAJEHspkBVzqaeCuTCg/AcrlBP2hzsf4Gm/VpEycyCXiPEFLekQaJRPnwbzixLll5PSFiVqtyZMVOiHSeTqPVbiOwpvEXftSQXy1iauP1t1zHfyMaTUtZCA4VHh/uXUIdmD0VRknYf2GSTETBZONt5vpG9UYIp6kFKOn6GobXdCXPcnvziXMosLfKQlbJ+RW2Mk8WdYucpt4Yj5xRCPb9s2qEUMyncLbU/qi2fzrMjg==;nJ4gV4AOZVPJ6nM/Eh5Lrw=="
 ---

@@ -214,22 +214,6 @@ related:
         width: 620
         height: 370
         isCached: true
-  - title: "Walmart teams up with GM's Cruise to test grocery delivery with self-driving cars"
-    excerpt: "Walmart announced Tuesday that the company has joined forces with self-driving car company Cruise to test out autonomous grocery delivery in Arizona."
-    publishedDateTime: 2020-11-11T15:31:00Z
-    webUrl: "https://www.fox35orlando.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars"
-    ampWebUrl: "https://www.fox35orlando.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars.amp"
-    cdnAmpWebUrl: "https://www-fox35orlando-com.cdn.ampproject.org/c/s/www.fox35orlando.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars.amp"
-    type: article
-    provider:
-      name: WOFL
-      domain: fox35orlando.com
-    quality: 39
-    images:
-      - url: "https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2020/11/932/470/Walmart-and-Cruise.png?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
   - title: "Walmart & Cruise with Self-Driving will Deliver in AZ"
     excerpt: "Walmart is cruising over to Scottsdale, Arizona, to rev up a new pilot with self-driving car company, Cruise. What’s unique about Cruise is they’re the only self-driving car company to operate an"
     publishedDateTime: 2020-11-11T01:22:00Z
@@ -316,15 +300,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Ford: Playing it safe. There is no other way to launch self-driving cars"
-    excerpt: "That same mindset dominates how Ford approaches the introduction of self-driving cars. Just as decades of experience have given us safe and reliable development processes for human-driven cars, we need to draw upon that experience and develop the same processes for self-driving ones."
-    publishedDateTime: 2020-11-11T08:26:00Z
-    webUrl: "https://www.automotiveworld.com/news-releases/ford-playing-it-safe-there-is-no-other-way-to-launch-self-driving-cars/"
-    type: article
-    provider:
-      name: Automotive World
-      domain: automotiveworld.com
-    quality: 3
 
 secured: "HYHpUDpKNg/Uv+TFqnP+RTVD5pEYefK4Ch5m7ZDaxGCjDltNKRGFe4RQF8PI1mraIYYfOdYXERoT0+25Y85ab7UfAPOYIWZIVwCjDjvXsnUxGuEwIxEL/zznq622quPJcVGcxlkFGD1Z1/UgaKFGicK3hmNKQAiJFMkJz4UPXXs4a+v/rbJseIge/N3q3c99VLBglmwig2m9xEfVZwkmQhmw9qqGdiTDj0Liz6/NAfVITPvOmzGSpEp1SvvRrdjgqpZ0NdxVF4boTMZtnoJRrqgAiALKC6Gk+hGWvOqvJZKlho4KJfxIBHBlNPfkJ4jeeTKF6TGTENLm95VhouYBa/X0iaO3tdtVwNn/+98+ToM=;LpwODNcNk6NTCNihWo2AjA=="
 ---

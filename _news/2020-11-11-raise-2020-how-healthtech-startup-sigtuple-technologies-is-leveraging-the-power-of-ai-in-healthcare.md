@@ -52,7 +52,7 @@ related:
     provider:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
-    quality: 50
+    quality: 67
     images:
       - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg"
         width: 400
