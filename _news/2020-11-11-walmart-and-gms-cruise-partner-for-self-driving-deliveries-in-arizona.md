@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Walmart Tests Self-Driving Car Deliveries in Arizona"
+    excerpt: "When customers in Scottsdale order items from their local Walmart, they will be able to choose a contact-free delivery from one of Cruise’s cars."
+    publishedDateTime: 2020-11-10T23:14:00Z
+    webUrl: "https://www.pcmag.com/news/walmart-tests-self-driving-car-deliveries-in-arizona"
+    ampWebUrl: "https://www.pcmag.com/news/walmart-tests-self-driving-car-deliveries-in-arizona?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/walmart-tests-self-driving-car-deliveries-in-arizona?amp=true"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 74
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03PN0mWV278CIW8clSXdlaW-1.1605047430.fit_lim.size_1200x630.png"
+        width: 920
+        height: 518
+        isCached: true
   - title: "Want Speedy Delivery? Walmart Is Revving Things Up With Self-Driving Cars"
     excerpt: "Walmart today said it will be piloting delivery via all-electric self-driving cars with Cruise, a General Motors majority-owned company."
     publishedDateTime: 2020-11-10T19:41:00Z

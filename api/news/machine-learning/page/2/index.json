@@ -811,50 +811,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-27-dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration.md",
-      "title": "dotData Announces Enhancement of MLOps Capability with dotData Stream and Amazon SageMaker Integration",
-      "excerpt": "PRNewswire/ -- dotData, a leader in AutoML 2.0 software to help accelerate AI/ML development and operationalization for the enterprise, today announced that dotData Stream now fully supports Amazon SageMaker integration,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-computing-and-information-technology-data-management-376b9d4dc51b9da6e765375bfa3474d0",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-computing-and-information-technology-data-management-376b9d4dc51b9da6e765375bfa3474d0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2020-10-27-learning-a-second-language-business-benefits-and-how-to-start-a-program.md",
       "title": "Learning A Second Language: Business Benefits And How To Start A Program",
       "excerpt": "Language remains a key organizational building block, whether we are distributed all the way across the world or just next door.",
@@ -1427,6 +1383,59 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-25-developers-can-tap-into-deep-learning-with-the-open-source-beta-of-the-microsoft-cognitive-toolkit.md",
+      "title": "Developers can tap into deep learning with the open-source beta of the Microsoft Cognitive Toolkit",
+      "excerpt": "Developers and researchers can start using the power of deep learning with the updated beta release of the open-source Microsoft Cognitive Toolkit. The toolkit, previously known as CNTK ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/developers-can-tap-deep-learning-open-source-beta-microsoft-cognitive-toolkit/",
+      "originalUrl": "https://sdtimes.com/ai/developers-can-tap-deep-learning-open-source-beta-microsoft-cognitive-toolkit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2016/10/1025.sdt-microsoft.jpeg",
+          "width": 490,
+          "height": 327,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-24T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

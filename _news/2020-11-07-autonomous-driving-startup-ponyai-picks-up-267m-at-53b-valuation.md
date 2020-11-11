@@ -25,53 +25,63 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese driverless car firm Pony.ai valued at $5.3 billion after new cash injection"
-    excerpt: "A fund run by the Ontario Teachers' Pension Plan Board led the $267 million investment into Pony.ai which also included existing investors."
-    publishedDateTime: 2020-11-06T07:16:00Z
-    webUrl: "https://www.cnbc.com/2020/11/06/china-driverless-car-firm-ponyai-valued-at-5point3-billion-after-funding.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/11/06/china-driverless-car-firm-ponyai-valued-at-5point3-billion-after-funding.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/06/china-driverless-car-firm-ponyai-valued-at-5point3-billion-after-funding.html"
+  - title: "Toyota-backed startup Pony.ai raises $267 million in latest fundraising"
+    excerpt: "Pony.ai, backed by Toyota Motor Corp, said on Friday it has raised $267 million in the initial phase of its fundraising round that values the self-driving startup at $5.3 billion, as it seeks to boost"
+    publishedDateTime: 2020-11-06T20:00:00Z
+    webUrl: "https://www.theguardian.pe.ca/business/reuters/toyota-backed-startup-ponyai-raises-267-million-in-new-funding-round-517485/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 198
+      name: The Guardian
+      domain: theguardian.pe.ca
+    quality: 137
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/105676578-1547472843448gettyimages-913385804.jpg?v=1563504519"
-        width: 1024
-        height: 694
+      - url: "https://www.theguardian.pe.ca/media/photologue/photos/cache/toyota-backed-startup-ponyai-raises-267-million-in-new-funding-round_medium"
+        width: 458
+        height: 305
         isCached: true
-  - title: "Driverless Car Startup Pony.ai Valued At $5.3B With Series C Round"
-    excerpt: "Driverless car developer Pony.ai is now valued around $5.3 billion, thanks to a recent Series C funding round."
-    publishedDateTime: 2020-11-06T18:03:00Z
-    webUrl: "https://www.pymnts.com/news/investment-tracker/2020/driverless-car-startup-pony-ai-series-c-round/"
-    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2020/driverless-car-startup-pony-ai-series-c-round/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2020/driverless-car-startup-pony-ai-series-c-round/amp/"
+  - title: "Toyota-backed startup Pony.ai raises $267 million in latest fundraising"
+    excerpt: "Pony.ai, backed by Toyota Motor Corp, said on Friday it has raised $267 million in the initial phase of its fundraising round that values the self-driving startup at $5.3 billion, as it seeks to boost its presence in the United States and China."
+    publishedDateTime: 2020-11-06T12:54:00Z
+    webUrl: "https://www.reuters.com/article/us-pony-ai-autonomous-idUSKBN27M0QW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0QW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0QW"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 74
+      name: Reuters
+      domain: reuters.com
+    quality: 87
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/11/pony.ai-funding-round-457x274.jpg"
-        width: 457
-        height: 274
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540226295&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA50IE"
+        width: 811
+        height: 545
         isCached: true
-  - title: "Autonomous vehicle startup Pony.ai raises $267 million at an over $5.3 billion valuation – Jaweb"
-    excerpt: "In a sign that investors’ enthusiasm for driverless cars hasn’t waned during the pandemic, Pony.ai today secured a whopping $267 million in fresh funding. The capital infusion brings the Guangzhou- and Fremont,"
-    publishedDateTime: 2020-11-06T07:11:00Z
-    webUrl: "https://elmoudjaweb.com/autonomous-vehicle-startup-pony-ai-raises-267-million-at-an-over-5-3-billion-valuation-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/autonomous-vehicle-startup-pony-ai-raises-267-million-at-an-over-5-3-billion-valuation-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/autonomous-vehicle-startup-pony-ai-raises-267-million-at-an-over-5-3-billion-valuation-jaweb/?amp"
+  - title: "Autonomous Startup Pony.ai Raises $267m To Boost R&D"
+    excerpt: "California-based Pony.ai said it is raising $267 million in a fresh funding round that pushes the self-driving technology startup’s valuation to about $5.3 billion as it seeks to expand its customer base globally."
+    publishedDateTime: 2020-11-09T01:12:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2020-11-09/autonomous-startup-pony-ai-raises-267m-to-boost-r-d-video"
     type: article
     provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 46
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
     images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/11/Autonomous-vehicle-startup-Pony.ai-raises-267-million-at-an-over.png"
-        width: 1200
-        height: 600
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ix.YLzmNyBzI/v5/-1x-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Toyota venture fund invests in robotic kitchen startup"
+    excerpt: "Toyota AI Ventures, Toyota’s early-stage venture capital fund, has decided to invest in YPC Technologies, a robotic kitchen startup based in Montreal, Canada. The funding follows YPC Technologies’"
+    publishedDateTime: 2020-11-10T07:40:00Z
+    webUrl: "https://roboticsandautomationnews.com/2020/11/10/toyota-venture-fund-invests-in-robotic-kitchen-startup/38024/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 39
+    images:
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/11/ypc-tech.jpg"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "KZIt+UINQo2C8RgmqEC+dKniSjtiCMbAXj0LryhM52zfFl+ojbLt3DwMBlwJ889A53a+83Dtb1IQSE1Ch74yD7JK/57PweA6iIZIjd/kI7D78BKvfg86wUj/bFSH5f9A0vl3Xgo6KPUPpCN1zk3GKItS8HDVC3PMfhhuIjzAbHQxfVpHHF7SeYRe52IoZOaxarP8//vZDS6cn9WmOI96+vWqZ4XaJOC89q02amj9hwRuXtq/mzwFD9jO3RMD8XJIAK70MaDyIYbarOzq6KcgRfe2QrNKEN67uN2pr8UlzvLD6QjidTcBzeQk3/AE5mIZOKSKwmajrJmORs8WeDB2GoOp3IAVGn5mSLogaKAqUSAbbX4BJIPI/rme9cY9aZk3+uMDaXrHct7PMfPx3VIroz19Qwn+RI+HqlRBKVf/aNlWqXHbxerI4JBQzAz9KRsdHorbuS2mJIqUeNY6HST6qVAO9fSYJo5gwsaNIjBhuyEt2Q2xoBcxPkMkTRStlrTfwM2aLuF3Pw97r1SDNFZGOQ==;sCCEmPm7UcYWh+cj5aKLYw=="

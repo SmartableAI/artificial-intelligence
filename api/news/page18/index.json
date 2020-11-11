@@ -2,6 +2,195 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-10-25-why-you-have-to-pay-attention-to-the-indian-startup-scene.md",
+      "title": "Why you have to pay attention to the Indian startup scene",
+      "excerpt": "Welcome back to The TechCrunch Exchange. Data shows that India’s venture capital scene has grown sharply in recent years. Let's dig in.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/24/why-you-have-to-pay-attention-to-the-indian-startup-scene/",
+      "originalUrl": "https://techcrunch.com/2020/10/24/why-you-have-to-pay-attention-to-the-indian-startup-scene/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/NSussman_Techcrunch_Exchange-multicolor.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/24/why-you-have-to-pay-attention-to-the-indian-startup-scene/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/24/why-you-have-to-pay-attention-to-the-indian-startup-scene/amp/",
+      "publishedDateTime": "2020-10-24T13:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-24-in-25-years-new-cars-could-be-unrecognizable-thanks-to-technology.md",
+      "title": "In 25 years, new cars could be unrecognizable thanks to technology",
+      "excerpt": "New battery chemistries, self-driving tech and advanced propulsion systems will revolutionize how we get around.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/future-cars-in-25-years/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/future-cars-in-25-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/TURAoVosw99tOFCESh7UlHj1Snk=/2020/10/16/80cf9355-5cdf-4f7e-91b8-914d29666e3d/25-years-future-cars-ogi.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/future-cars-in-25-years/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/future-cars-in-25-years/",
+      "publishedDateTime": "2020-10-24T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-24-one-key-to-pandemic-retailing-artificial-intelligence.md",
+      "title": "One Key to Pandemic Retailing: Artificial Intelligence",
+      "excerpt": "Retail is no stranger to artificial intelligence. Nearly a decade ago ... Gilead Sciences won approval for remdesivir as an anti-Covid therapy. With the election looming, House Speaker Nancy Pelosi set a Tuesday deadline to reach a deal on Covid relief.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/one-key-to-pandemic-retailing-artificial-intelligence-51603500768",
+      "originalUrl": "https://www.barrons.com/articles/one-key-to-pandemic-retailing-artificial-intelligence-51603500768",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-248999/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/one-key-to-pandemic-retailing-artificial-intelligence-51603500768",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/one-key-to-pandemic-retailing-artificial-intelligence-51603500768",
+      "publishedDateTime": "2020-10-23T21:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-24-watch-saudi-arabia-launches-artificial-intelligence-strategy-at-global-ai-summit.md",
+      "title": "Watch: Saudi Arabia launches artificial intelligence strategy at Global AI Summit",
+      "excerpt": "Saudi Arabia announced its National Strategy for Data and AI at the Global AI Summit, hosted virtually by the Kingdom, on Wednesday. The strategy was announced by Saudi Data and Artificial Intelligence Authority (SDAIA) President Dr Abdullah bin Sharaf Al-Ghamdi,",
+      "sourceUrl": null,
+      "webUrl": "https://english.alarabiya.net/en/News/gulf/2020/10/21/Saudi-Arabia-set-to-announce-artificial-intelligence-partnerships-says-SDAIA-preside",
+      "originalUrl": "https://english.alarabiya.net/en/News/gulf/2020/10/21/Saudi-Arabia-set-to-announce-artificial-intelligence-partnerships-says-SDAIA-preside",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://vid.alarabiya.net/images/2020/10/21/597d46c8-746e-4be9-b4a0-39a135399dca/597d46c8-746e-4be9-b4a0-39a135399dca_16x9_600x338.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://english.alarabiya.net/en/amp/News/gulf/2020/10/21/Saudi-Arabia-set-to-announce-artificial-intelligence-partnerships-says-SDAIA-preside",
+      "cdnAmpWebUrl": "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/en/amp/News/gulf/2020/10/21/Saudi-Arabia-set-to-announce-artificial-intelligence-partnerships-says-SDAIA-preside",
+      "publishedDateTime": "2020-10-23T19:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "العربية.نت",
+        "domain": "alarabiya.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-24-facial-recognition-market-increasing-instances-of-identity-theft-to-boost-the-market-growth-technavio.md",
       "title": "Facial Recognition Market | Increasing Instances of Identity Theft to Boost the Market Growth | Technavio",
       "excerpt": "Technavio has announced its latest market research report titled Global Facial Recognition Market 2020-2024 (Graphic: Business Wire) The facial recognition market research analysis identifies the increasing instances of identity threats as one of the primary growth factors for this market.",
@@ -997,203 +1186,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-huawei-mate-40s-hisilicon-kirin-9000-chip-ranks-1st-in-ai-benchmark.md",
-      "title": "Huawei Mate 40’s HiSilicon Kirin 9000 chip ranks 1st in AI Benchmark",
-      "excerpt": "Huawei had officially launched the Mate 40 series. The lineup is the latest flagship from the company and feature top notch specs like the HiSilicon Kirin 9000 chip, which has even topped the list in an AI Benchmark.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2020/10/23/huawei-mate-40-kirin-9000-ranks-1st-ai-benchmark/",
-      "originalUrl": "https://www.gizmochina.com/2020/10/23/huawei-mate-40-kirin-9000-ranks-1st-ai-benchmark/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2020/10/Huawei-Kirin-9000-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-23T04:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-fintech-startup-signzy-raises-54-mn-to-enhance-ai-research.md",
-      "title": "Fintech Startup Signzy Raises $5.4 Mn to Enhance AI Research",
-      "excerpt": "The funding round was led by from Arkam Ventures and Mastercard along with participation from Kalaari Capital and Stellaris Venture Partners",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/358321",
-      "originalUrl": "https://www.entrepreneur.com/article/358321",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1603451820-SignzyFoundersPicedit.png?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/358321",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/358321",
-      "publishedDateTime": "2020-10-23T04:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-how-ai-solutions-can-help-contact-centers-succeed-in-the-pandemic-economy.md",
-      "title": "How AI Solutions Can Help Contact Centers Succeed In The Pandemic Economy",
-      "excerpt": "Even before the pandemic struck, companies were gradually incorporating artificial intelligence (AI) into their customer service infrastructures. Research firm Gartner predicts that \"by 2022, 70% of customer interactions will involve emerging technologies such as machine learning (ML) applications,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/23/how-ai-solutions-can-help-contact-centers-succeed-in-the-pandemic-economy/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/23/how-ai-solutions-can-help-contact-centers-succeed-in-the-pandemic-economy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9186135089187e66ee790c%2F0x0.jpg",
-          "width": 1199,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/23/how-ai-solutions-can-help-contact-centers-succeed-in-the-pandemic-economy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/23/how-ai-solutions-can-help-contact-centers-succeed-in-the-pandemic-economy/amp/",
-      "publishedDateTime": "2020-10-23T04:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-how-virtual-design-artificial-intelligence-impact-engineers.md",
-      "title": "How virtual design, artificial intelligence impact engineers",
-      "excerpt": "Learn how artificial intelligence and virtual design overcome limitations in BIM. Understand how these innovations impact existing workflows. Identify the skill sets required to effectively use these emerging technologies. For decades, the architecture ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.csemag.com/articles/how-virtual-design-artificial-intelligence-impact-engineers/",
-      "originalUrl": "https://www.csemag.com/articles/how-virtual-design-artificial-intelligence-impact-engineers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.csemag.com/wp-content/uploads/sites/5/2020/10/CSE2010_MAG_FTECH_01-Slider.jpg",
-          "width": 645,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-23T04:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Csemag.com",
-        "domain": "csemag.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

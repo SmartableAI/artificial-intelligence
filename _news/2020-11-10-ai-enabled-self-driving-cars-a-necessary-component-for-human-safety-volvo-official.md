@@ -28,7 +28,7 @@ related:
   - title: "Qatar- AI-enabled self-driving cars a necessary component for human safety: Volvo official"
     excerpt: "The Peninsula  <p>Volvo recently participated in a webinar on Artificial Intelligence (AI), an initiative by the Embassy of Sweden and Swedish Chamber of Com"
     publishedDateTime: 2020-11-10T15:29:00Z
-    webUrl: "https://menafn.com/1101100905/Qatar-AI-enabled-self-driving-cars-a-necessary-component-for-human-safety-Volvo-official&source=246"
+    webUrl: "https://menafn.com/1101100905/Qatar-AI-enabled-self-driving-cars-a-necessary-component-for-human-safety-Volvo-official"
     type: article
     provider:
       name: Middle East North Africa Financial Network

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/microsoft-ai-summit-re
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/microsoft-ai-summit-reimagining-digital-governance-with-cloud-ai-iot/amp-11604663602516.html"
 type: article
 quality: 76
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -59,7 +59,7 @@ related:
   - title: "AVEVA expands Microsoft collaboration with a focus on Cloud and AI"
     excerpt: "AVEVA has extended its existing strategic collaboration with Microsoft to focus on accelerating digital transformation in the industrial sector."
     publishedDateTime: 2020-11-10T14:00:00Z
-    webUrl: "https://www.controlengeurope.com/article/181914/rss/news.aspx"
+    webUrl: "https://www.controlengeurope.com/article/181914/AVEVA-expands-Microsoft-collaboration-with-a-focus-on-Cloud-and-AI.aspx"
     type: article
     provider:
       name: IML Group
@@ -79,6 +79,15 @@ related:
       name: arabianindustry.com
       domain: arabianindustry.com
     quality: 20
+  - title: "AVEVA Expands its Collaboration with Microsoft with a Focus on Cloud and AI to Drive Digital Transformation in the Manufacturing and Energy Industries"
+    excerpt: "AVEVA to Collaborate with Microsoft to Provide Cloud Platform and Domain Expertise for Industrial Sector Organizations"
+    publishedDateTime: 2020-11-10T18:14:00Z
+    webUrl: "https://www.manufacturingtomorrow.com/news/2020/11/10/aveva-expands-its-collaboration-with-microsoft-with-a-focus-on-cloud-and-ai-to-drive-digital-transformation-in-the-manufacturing-and-energy-industries/16109/"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturingtomorrow.com
+    quality: 0
 
 secured: "Ew4b5TdWchAOUY1K9uR/y8DAUL7q7uuvvv3DgR+X/dPPIPAWBEQCMkL/aEyfG+dof7jTOyf6pCdhgIMJz6eZASOX4X5YtQCjXJrnInCyY1gZ383iK47h/McAx3PrnpM/SvmT2VqfxmZbBbOa50c6/h0F6rkw9p4Ncfql9QZXxjh9VmngvOGj532y1rkmJjtPQTnT8BLeLxEascCBaASmxzcJmWbg728gw74LENKIrWMvuSdhNeJ2rD9BvmcppPAnWn4+yHS4jCgo6r7e1DAJ2cfoU40GHLBwbLv+r2Hq6GeFeS69B/BWOLM4wm9Qv8WN5eOhpBniHBuGfs7RBJRTRW93vfCorOVUNTa+sPznuvTahJKEOHuVoFyCRGr1dOnwx1+aSZ0L93N3Q9+NfqWuf9MBNOcPQ9PiQweHh2fcKIkOSa48/aWN3mCDL8p5z66YrXkyV6mb8vmXNMvx4Q+PzN00tLqNsmKlTvwN2oCFHMEsl3WZUOtN5wyIaikIuZwVr2SEVQMDJthGkoFJ/QYHEA==;f73mEAfMTBJa4z19RJxoCQ=="
 ---

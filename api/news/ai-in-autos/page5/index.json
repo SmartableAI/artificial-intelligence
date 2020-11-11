@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-05-3-top-artificial-intelligence-stocks-to-buy-in-october.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in October",
+      "excerpt": "Artificial intelligence (AI) is a fast-growing segment ... from quantum computing to start-ups like self-driving car outfit Waymo. This research racks up substantial losses right now, with the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/10/05/3-top-artificial-intelligence-stocks-to-buy-in-oct/",
+      "originalUrl": "https://www.fool.com/investing/2020/10/05/3-top-artificial-intelligence-stocks-to-buy-in-oct/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F593834%2Fartificial-intelligence-getty-62817.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/05/3-top-artificial-intelligence-stocks-to-buy-in-oct/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/05/3-top-artificial-intelligence-stocks-to-buy-in-oct/",
+      "publishedDateTime": "2020-10-05T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-self-driving-cars-could-be-operating-daily-in-1-2-yearsjust-not-in-big-cities.md",
+      "title": "Self-Driving Cars Could Be Operating Daily In 1-2 Years—Just Not in Big Cities",
+      "excerpt": "The engineering has been a bigger challenge than expected, Voyage CEO Oliver Cameron says, even for places like retirement communities. But not impossible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-05/voyage-ceo-oliver-cameron-on-robo-taxis-self-driving-cars-and-coronavirus",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-05/voyage-ceo-oliver-cameron-on-robo-taxis-self-driving-cars-and-coronavirus",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqUrgMbuoRU0/v0/360x-1.jpg",
+          "width": 360,
+          "height": 239,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-05/voyage-ceo-oliver-cameron-on-robo-taxis-self-driving-cars-and-coronavirus",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-05/voyage-ceo-oliver-cameron-on-robo-taxis-self-driving-cars-and-coronavirus",
+      "publishedDateTime": "2020-10-05T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-vcs-say-aurora-and-tusimple-are-among-the-self-driving-startups-best-poised-to-become-the-next-waymo.md",
       "title": "VCs say Aurora and TuSimple are among the self-driving startups best poised to become the next Waymo",
       "excerpt": "Good Subscriber Account active since DOW S&P 500 NASDAQ 100 Self-driving taxis have taken longer to reach widespread adoption than experts predicted during the 2010s. That may be why venture ...",

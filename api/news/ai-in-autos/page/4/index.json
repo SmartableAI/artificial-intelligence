@@ -2,6 +2,110 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-15-riding-in-a-self-driving-car-is-waymo-relaxing-than-you-might-expect.md",
+      "title": "Riding in a self-driving car is Waymo relaxing than you might expect",
+      "excerpt": "Subscribe to the Roadshow newsletter, receive notifications and see related stories on CNET. Now, suppose you need a little refresher on self-driving cars. In that case, Level 4 autonomy means that a vehicle can complete an entire journey without driver ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/waymo-self-driving-van-phoenix-youtube/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/waymo-self-driving-van-phoenix-youtube/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/9uba5kNbIBwHtaYmXNybVv9IYxM=/2019/07/02/ffa46822-32cb-4b06-81a6-aa82f237cb11/waymo-ogi.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/waymo-self-driving-van-phoenix-youtube/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-self-driving-van-phoenix-youtube/",
+      "publishedDateTime": "2020-10-14T17:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-toronto-will-trial-self-driving-shuttles-in-early-2021.md",
+      "title": "Toronto will trial self-driving shuttles in early 2021",
+      "excerpt": "Local Motors will supply the latest iteration of its autonomous shuttle, dubbed Olli 2.0, for the trial. Olli 2.0 can accommodate up to eight passengers and",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/87111-toronto-trial-driverless-shuttles-starting-early-next-year.html",
+      "originalUrl": "https://www.techspot.com/news/87111-toronto-trial-driverless-shuttles-starting-early-next-year.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-14-image-22.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/87111-toronto-trial-driverless-shuttles-starting-early-next-year.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87111-toronto-trial-driverless-shuttles-starting-early-next-year.html",
+      "publishedDateTime": "2020-10-14T15:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-on-the-hit-and-maybe-run-self-driving-car-dilemma-akin-to-the-molly-problem.md",
       "title": "On The Hit-And-Maybe-Run Self-Driving Car Dilemma (Akin To ‘The Molly Problem’)",
       "excerpt": "AI Ethics and the self-driving car hit-and-maybe-run dilemma. getty. Please prepare yourself for a driving scenario that we all dread and profusely hope will never occur. Wham, wh",
@@ -1296,110 +1400,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-3-top-artificial-intelligence-stocks-to-buy-in-october.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy in October",
-      "excerpt": "Artificial intelligence (AI) is a fast-growing segment ... from quantum computing to start-ups like self-driving car outfit Waymo. This research racks up substantial losses right now, with the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/10/05/3-top-artificial-intelligence-stocks-to-buy-in-oct/",
-      "originalUrl": "https://www.fool.com/investing/2020/10/05/3-top-artificial-intelligence-stocks-to-buy-in-oct/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F593834%2Fartificial-intelligence-getty-62817.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/05/3-top-artificial-intelligence-stocks-to-buy-in-oct/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/05/3-top-artificial-intelligence-stocks-to-buy-in-oct/",
-      "publishedDateTime": "2020-10-05T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-self-driving-cars-could-be-operating-daily-in-1-2-yearsjust-not-in-big-cities.md",
-      "title": "Self-Driving Cars Could Be Operating Daily In 1-2 Years—Just Not in Big Cities",
-      "excerpt": "The engineering has been a bigger challenge than expected, Voyage CEO Oliver Cameron says, even for places like retirement communities. But not impossible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-05/voyage-ceo-oliver-cameron-on-robo-taxis-self-driving-cars-and-coronavirus",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-05/voyage-ceo-oliver-cameron-on-robo-taxis-self-driving-cars-and-coronavirus",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqUrgMbuoRU0/v0/360x-1.jpg",
-          "width": 360,
-          "height": 239,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-05/voyage-ceo-oliver-cameron-on-robo-taxis-self-driving-cars-and-coronavirus",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-05/voyage-ceo-oliver-cameron-on-robo-taxis-self-driving-cars-and-coronavirus",
-      "publishedDateTime": "2020-10-05T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

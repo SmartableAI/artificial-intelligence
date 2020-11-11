@@ -2,6 +2,161 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-10-30-training-and-serving-h2o-models-using-amazon-sagemaker.md",
+      "title": "Training and serving H2O models using Amazon SageMaker",
+      "excerpt": "Model training and serving steps are two essential pieces of a successful end-to-end machine learning (ML) pipeline. These two steps often require different software and hardware setups to provide the best mix for a production environment. Model training is optimized for a low-cost, feasible total run",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/training-and-serving-h2o-models-using-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/training-and-serving-h2o-models-using-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/26/1-SolutionArchitecture-1-811x630.jpg",
+          "width": 811,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-30T16:43:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-31-want-full-self-driving-mode-on-your-tesla-get-ready-to-fork-over-10000.md",
+      "title": "Want 'Full Self Driving' Mode on Your Tesla? Get Ready to Fork Over $10,000",
+      "excerpt": "The price hike was expected now that the Full Self Driving (FSD) capability is in beta. It's likely to increase more as the feature improves, so Tesla is hoping buyers will take advantage of it now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/want-full-self-driving-mode-on-your-tesla-get-ready-to-fork-over-10000",
+      "originalUrl": "https://www.pcmag.com/news/want-full-self-driving-mode-on-your-tesla-get-ready-to-fork-over-10000",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 232,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/02kdtIiBEkRPNAkOLHK6m0v-1.1604092224.fit_lim.size_1200x630.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/want-full-self-driving-mode-on-your-tesla-get-ready-to-fork-over-10000?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/want-full-self-driving-mode-on-your-tesla-get-ready-to-fork-over-10000?amp=true",
+      "publishedDateTime": "2020-10-30T14:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-31-ai-weekly-in-a-chaotic-year-ai-is-quietly-accelerating-the-pace-of-space-exploration.md",
+      "title": "AI Weekly: In a chaotic year, AI is quietly accelerating the pace of space exploration",
+      "excerpt": "And last week, Intel, the European Space Agency (ESA), and startup Ubotica detailed what they claim is the first AI-powered satellite to orbit Earth: the desktop-sized PhiSat-1. It aims to solve ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/30/ai-weekly-in-a-chaotic-year-ai-is-quietly-accelerating-the-pace-of-space-exploration/",
+      "originalUrl": "https://venturebeat.com/2020/10/30/ai-weekly-in-a-chaotic-year-ai-is-quietly-accelerating-the-pace-of-space-exploration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/nano-satellites-kineis-e1580987091588.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/30/ai-weekly-in-a-chaotic-year-ai-is-quietly-accelerating-the-pace-of-space-exploration/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/30/ai-weekly-in-a-chaotic-year-ai-is-quietly-accelerating-the-pace-of-space-exploration/amp/",
+      "publishedDateTime": "2020-10-30T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-31-daimler-trucks-self-driving-haulage-finds-a-key-part-of-its-autonomous-vision.md",
       "title": "Daimler Trucks’ self-driving haulage finds a key part of its autonomous vision",
       "excerpt": "Daimler Trucks just gone done inking a collaboration with Waymo, and now it’s picking out cutting edge sensors for its self-driving haulage as the pieces slot into place for autonomy. The German automaker announced earlier this week that it would be ...",
@@ -1073,144 +1228,6 @@
       "provider": {
         "name": "Business Wire",
         "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-ibm-watson-services-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027.md",
-      "title": "IBM Watson Services Market Size- Detailed Analysis of Current Industry Figures with Forecasts Growth By 2027",
-      "excerpt": "Selbyville, Delaware As per the research report titled 'IBM Watson Services Market Share, Size, Trends, Industry Analysis Report, By Service Type; By End Use ; By Regions; Segment Forecast, 2020 -2027' available with Market Study Report LLC,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ibm-watson-services-market-size--detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027-2020-10-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/ibm-watson-services-market-size--detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027-2020-10-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-29T18:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-global-edge-ai-chips-market-latest-analysis-report-2020-top-manufacturer-and-vendors-covered-market-share-size-and-industry-growth-prospect.md",
-      "title": "Global Edge AI Chips Market Latest Analysis Report 2020 - Top Manufacturer and Vendors Covered, Market Share, Size and Industry Growth Prospect 2026",
-      "excerpt": "Global “Edge AI Chips Market” Report discusses about the important developments impacting and increasing the growth in",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-edge-ai-chips-market-latest-analysis-report-2020---top-manufacturer-and-vendors-covered-market-share-size-and-industry-growth-prospect-2026-2020-10-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-edge-ai-chips-market-latest-analysis-report-2020---top-manufacturer-and-vendors-covered-market-share-size-and-industry-growth-prospect-2026-2020-10-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-29T17:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-facial-recognition-system-unveiled-at-laxs-tom-bradley-international-terminal.md",
-      "title": "Facial Recognition System Unveiled At LAX’s Tom Bradley International Terminal",
-      "excerpt": "The system, called Simplified Arrival, is now in place at Tom Bradley International Terminal at LAX and was touted as a way to use facial biometrics to automate the document checks that are required for admission into the U.",
-      "sourceUrl": null,
-      "webUrl": "https://losangeles.cbslocal.com/2020/10/29/facial-recognition-system-unveiled-lax-tom-bradley-international-terminal/",
-      "originalUrl": "https://losangeles.cbslocal.com/2020/10/29/facial-recognition-system-unveiled-lax-tom-bradley-international-terminal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://losangeles.cbslocal.com/2020/10/29/facial-recognition-system-unveiled-lax-tom-bradley-international-terminal/amp/",
-      "cdnAmpWebUrl": "https://losangeles-cbslocal-com.cdn.ampproject.org/c/s/losangeles.cbslocal.com/2020/10/29/facial-recognition-system-unveiled-lax-tom-bradley-international-terminal/amp/",
-      "publishedDateTime": "2020-10-29T15:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS Local",
-        "domain": "cbslocal.com",
         "images": null,
         "publishers": null,
         "authors": null

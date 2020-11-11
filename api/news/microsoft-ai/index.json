@@ -54,7 +54,7 @@
       "originalUrl": "https://www.livemint.com/technology/tech-news/microsoft-ai-summit-reimagining-digital-governance-with-cloud-ai-iot-11604663602516.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -519,6 +519,58 @@
         "IBM AI",
         "AWS AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-reducing-microsofts-carbon-footprint-by-tracking-internal-microsoft-azure-usage.md",
+      "title": "Reducing Microsoft’s carbon footprint by tracking internal Microsoft Azure usage",
+      "excerpt": "Whether he’s on the job or working on a passion project, Paul Rojas keeps sustainability at the forefront of his mind. “Everything I do from the time I’m born to the end of my life has an impact on the environment,",
+      "sourceUrl": null,
+      "webUrl": "https://www.microsoft.com/itshowcase/blog/reducing-microsofts-carbon-footprint-by-tracking-internal-microsoft-azure-usage/?hero",
+      "originalUrl": "https://www.microsoft.com/itshowcase/blog/reducing-microsofts-carbon-footprint-by-tracking-internal-microsoft-azure-usage/?hero",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.microsoft.com/itshowcase/blog/uploads/prod/2020/10/10093_wordpress_hero.jpg",
+          "width": 2300,
+          "height": 1293,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-29T18:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1347,50 +1399,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-aws-vs-azure-vs-google-2020-cloud-comparison.md",
-      "title": "AWS vs. Azure vs. Google: 2020 Cloud Comparison",
-      "excerpt": "with its strength in artificial intelligence, is positioned for aggressive growth as the AI market grows – and is known for offering discounts. Microsoft Azure – A close competitor to AWS with an exceptionally capable cloud infrastructure. If you’re ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.datamation.com/cloud-computing/aws-vs-azure-vs-google-cloud-comparison.html",
-      "originalUrl": "https://www.datamation.com/cloud-computing/aws-vs-azure-vs-google-cloud-comparison.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datamation.com/imagesvr_ce/9766/aws-azure-gcp.jpg",
-          "width": 517,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.datamation.com/amp/cloud-computing/aws-vs-azure-vs-google-cloud-comparison.html",
-      "cdnAmpWebUrl": "https://www-datamation-com.cdn.ampproject.org/c/s/www.datamation.com/amp/cloud-computing/aws-vs-azure-vs-google-cloud-comparison.html",
-      "publishedDateTime": "2020-10-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datamation",
-        "domain": "datamation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

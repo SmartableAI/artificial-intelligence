@@ -2,6 +2,145 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-11-04-leena-ai-nabs-8m-series-a-as-it-expands-from-chatbots-to-hr-service-platform.md",
+      "title": "Leena AI nabs $8M Series A as it expands from chatbots to HR service platform",
+      "excerpt": "When we covered Leena AI as a member of the Y Combinator Summer 2018 cohort, the young startup was firmly focused on building HR chatbots, but in the intervening years it has expanded the vision to a broader HR policy platform.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/",
+      "originalUrl": "https://techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1215953761.jpg?w=1024",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/02/leena-ai-nabs-8m-series-as-it-expands-from-chatbots-to-hr-service-platform/amp/",
+      "publishedDateTime": "2020-11-04T06:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-aws-launches-next-gen-gpu-instances-for-machine-learning.md",
+      "title": "AWS launches next-gen GPU instances for machine learning",
+      "excerpt": "AWS has launched its latest GPU-equipped instances aimed at machine learning and high-performance computing (HPC) workloads. Called P4d, the new instances come ten years the first set of GPU instances were launched.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/8820/aws-launches-next-gen-gpu-instances-for-machine-learning",
+      "originalUrl": "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/8820/aws-launches-next-gen-gpu-instances-for-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2020/06/awslogo.jpg",
+          "width": 3648,
+          "height": 2736,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-04T06:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cloud Pro",
+        "domain": "cloudpro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-brainome-launches-product-to-optimize-machine-learning-development-process.md",
+      "title": "Brainome launches product to optimize machine learning development process",
+      "excerpt": "Brainome's new product, Daimensions, seeks to eliminate brute-force aspects of machine learning model development, integrate with existing CI/CD infrastructure and generate small ML models that can run efficiently on commodity hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/brainome-launches-product-to-optimize-machine-learning-development-process/",
+      "originalUrl": "https://www.zdnet.com/article/brainome-launches-product-to-optimize-machine-learning-development-process/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/brainome-launches-product-to-optimize-machine-learning-development-process/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brainome-launches-product-to-optimize-machine-learning-development-process/",
+      "publishedDateTime": "2020-11-04T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-splice-machine-announces-livewire-the-operational-ai-platform-designed-for-industrial-use-cases.md",
       "title": "Splice Machine Announces Livewire, the Operational AI Platform Designed for Industrial Use Cases",
       "excerpt": "PRNewswire/ -- Splice Machine, the only scale-out SQL database with built-in machine learning, today announced Livewire, its new open source Operational AI platform for industrial IoT use cases. Livewire is the first combined data and AI platform designed to alert plant operators of likely outages or performance degradation soon enough for them to take remedial action to avoid outages and improve performance.",
@@ -1099,153 +1238,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-how-to-make-artificial-intelligence-less-biased.md",
-      "title": "How to Make Artificial Intelligence Less Biased",
-      "excerpt": "AI systems can unfairly penalize certain segments of the population—especially women and minorities. Researchers and tech companies are figuring out how to address that.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/how-to-make-artificial-intelligence-less-biased-11604415654",
-      "originalUrl": "https://www.wsj.com/articles/how-to-make-artificial-intelligence-less-biased-11604415654",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-253890/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/how-to-make-artificial-intelligence-less-biased-11604415654",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-to-make-artificial-intelligence-less-biased-11604415654",
-      "publishedDateTime": "2020-11-03T07:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-4-things-to-consider-before-you-start-using-ai-in-personnel-decisions.md",
-      "title": "4 Things to Consider Before You Start Using AI in Personnel Decisions",
-      "excerpt": "In the hope of making better and fairer decisions about personnel matters such as these, companies have increasingly adopted AI tools only to discover that they may have biases as well.",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2020/11/4-things-to-consider-before-you-start-using-ai-in-personnel-decisions?ab=hero-subleft-2",
-      "originalUrl": "https://hbr.org/2020/11/4-things-to-consider-before-you-start-using-ai-in-personnel-decisions?ab=hero-subleft-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2020/11/Nov20_03_2513286.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hbr.org/amp/2020/11/4-things-to-consider-before-you-start-using-ai-in-personnel-decisions",
-      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/4-things-to-consider-before-you-start-using-ai-in-personnel-decisions",
-      "publishedDateTime": "2020-11-03T06:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-this-supermarket-has-purchased-two-robotics-firms-to-take-on-amazon.md",
-      "title": "This supermarket has purchased two robotics firms to take on Amazon",
-      "excerpt": "UK online supermarket Ocado has acquired two robotics start-ups from the US as the company looks to boost efficiency in its warehouses. The purchase of San Francisco firm Kindred Systems for $262 million and Las Vegas-based Haddington Dynamics for $25 million in cash and shares should help the retailer introduce more automation solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/nz/news/this-supermarket-has-purchased-two-robotics-firms-to-take-on-amazon",
-      "originalUrl": "https://www.techradar.com/nz/news/this-supermarket-has-purchased-two-robotics-firms-to-take-on-amazon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/vaU7MVKAUPe295qnhCXfZF-1200-80.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/this-supermarket-has-purchased-two-robotics-firms-to-take-on-amazon",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/this-supermarket-has-purchased-two-robotics-firms-to-take-on-amazon",
-      "publishedDateTime": "2020-11-03T06:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/accern-wins-the-best-ai
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards-1029788645"
 type: article
 quality: 63
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "New Constructs Recognized as a 2020 Benzinga Global Fintech Listmaker"
-    excerpt: "PRNewswire/ -- New Constructs (NC), the leading provider of insights into the fundamentals and valuation of private and public businesses, has been"
-    publishedDateTime: 2020-11-06T09:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/new-constructs-recognized-as-a-2020-benzinga-global-fintech-listmaker-301167101.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/1327641/c148f7eced4fb67561abbbb736fa.jpg?p=facebook"
-        width: 600
-        height: 315
         isCached: true
 
 secured: "Rjo8l8PkRM0QU/I6Prq5WoyTTkiI61bfT8VlR04lG7SE6N/g2ct2znp/zXiSpRpHNgiOYA9UWngR/eV9T/TbklBR38f3hDxFM7J4dadlycz1A7GuBLk3vgf9nBsIlJZpsXaL6eZGn8KWN1AC1aw6pHzztLjeGiTz6VrJ6RA3eXZxEwWp7c7lHSDW2FO1i0zZSnNWmSfkTsWAvBfaTSRlfNdhROIUG6WIvCvK5Hx5oMh8XWtdo87bJuKEwUKQOLSlbpayVPHUEFa6Ippm494tc48hNJinL6SwOuLqS+CNVlLCq69U4tVMsVMp4SBJct3e8SVW9TfkUkHD9fXz8YJPvspaX/gj6CS2UJCJGyMNREM=;KOIiomJXcACK56iU5av6yw=="

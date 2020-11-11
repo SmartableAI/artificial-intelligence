@@ -54,20 +54,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "New Constructs Recognized as a 2020 Benzinga Global Fintech Listmaker"
-    excerpt: "PRNewswire/ -- New Constructs (NC), the leading provider of insights into the fundamentals and valuation of private and public businesses, has been"
-    publishedDateTime: 2020-11-06T09:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/new-constructs-recognized-as-a-2020-benzinga-global-fintech-listmaker-301167101.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/1327641/c148f7eced4fb67561abbbb736fa.jpg?p=facebook"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "uPRVsDQr7GXYF/ntZcGLgAcnGnNlwF9fjiNKtc9pc4v9yIPejRvfkMSTXoK+Fbs5XlprHqemeihE0m2bVkLJ26g71UIn6k0Bdv4lsgbg6430ubinJOf3DQbpYuOsnqAiU0/byHis+kGhKmZkkL3DqUF3bDZvfRow5oG9Ywg2YOHho8GtXlm9DsNs+B3gQnIqDk7zyf6WLAeNNUr8kh8ZBnA/nG/CCVEib0XQ9/LFhKaujGhMsL4RQRWh19SUAD37rpY/vBQqkzK74UUGsWTah2eLrkHjHDloXCR2EMS1wYeek90V8jbqD202XcGveuWY93LEwARrG6lrDAgLMtQ6tBJ/llpUROJHvGogeatWgZA=;s11hF/nNtmlKNnhVzakjrw=="
 ---

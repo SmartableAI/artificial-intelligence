@@ -41,6 +41,22 @@ related:
         width: 780
         height: 405
         isCached: true
+  - title: "RAISE 2020: How healthtech startup SigTuple Technologies is leveraging the power of AI in healthcare"
+    excerpt: "Based out of Bengaluru, healthtech startup SigTuple Technologies combines AI, robotics, and data science to build smart healthcare screening solutions."
+    publishedDateTime: 2020-11-11T00:25:00Z
+    webUrl: "https://yourstory.com/2020/11/healthtech-startup-sigtuple-technologies-accel-chiratae-ventures"
+    ampWebUrl: "https://yourstory.com/2020/11/healthtech-startup-sigtuple-technologies-accel-chiratae-ventures/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/healthtech-startup-sigtuple-technologies-accel-chiratae-ventures/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 59
+    images:
+      - url: "https://images.yourstory.com/cs/2/3fb20ae02dc911e9af58c17e6cc3d915/Imagenyuh-1604738778996.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Dell Announces New HPC and AI Solutions for Healthcare, Life Sciences, Manufacturing"
     excerpt: "Dell Technologies announces new Dell EMC Ready Solutions and high-performance computing (HPC) cloud service provider"
     publishedDateTime: 2020-11-09T16:26:00Z
