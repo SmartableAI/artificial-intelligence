@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-service-robotics-
 webUrl: "https://www.marketwatch.com/press-release/global-service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026-2020-11-10"
 type: article
 quality: 72
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence in Security Market 2021: Segmented By Product, Top Manufacturers, Geography Trends & Forecasts To 2030"
+    excerpt: "Market.Biz –:COVID-19 Analysis: Turn massive Artificial Intelligence in Security Market challenges into | eTurboNews | Trends | Travel News Online |"
+    publishedDateTime: 2020-11-12T03:50:00Z
+    webUrl: "https://www.eturbonews.com/1647358/global-artificial-intelligence-in-security-market-2021-segmented-by-product-top-manufacturers-geography-trends-forecasts-to-2030-2/"
+    type: article
+    provider:
+      name: eTurboNews
+      domain: eturbonews.com
+    quality: 23
+    images:
+      - url: "https://www.eturbonews.com/wp-content/uploads/2020/10/eturbonewstravelnewslogo.jpg"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "Oyhc6FpL5ycvUQDa5UiWUZHogv4zqyy+ucp47Gf22XtRzTFJPJ1/NvrnCjL+RriMHMuuqyxHVbtPBe0LtHJwUfqqfhTYl6EYmYJ99GR+YQa0nErr2lviDgkeflAgTaL0DdL9xnUpMi3Nsdy/lRLt3K9Mg5KgQ3TLwzkUrNJuJudHW5Fl1fr9cDJ/sMJCj9uKRTKU4IhMBfs/JleShagtXMVpUh7UrPOAoRKs3qrs6/3UU0RpOKQSa5M2JC4Xb5Nik0Elrb27FWG1pKocHYM5ilAvjvx8p6y1y9FoINVOd6G9sooz+8kaVLs7CtuIjoKCJpjfgkF0MRh1hNagyJpI+AkiR1eA+reVFXOkhTcsOr0=;1CLAuOm/FKME1nVOyvOwtQ=="

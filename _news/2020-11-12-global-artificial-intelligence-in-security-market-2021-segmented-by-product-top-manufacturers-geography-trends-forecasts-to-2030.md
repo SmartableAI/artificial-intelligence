@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Artificial Intelligence in Automotive Market Size- Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
-excerpt: "Selbyville, Delaware Global Artificial Intelligence in Automotive Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Artificial Intelligence in Automotive Market Report also covers top key players,"
-publishedDateTime: 2020-11-10T06:10:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-size--detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2020-11-10"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-size--detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2020-11-10"
+title: "Global Artificial Intelligence in Security Market 2021: Segmented By Product, Top Manufacturers, Geography Trends & Forecasts To 2030"
+excerpt: "Market.Biz –:COVID-19 Analysis: Turn massive Artificial Intelligence in Security Market challenges into | eTurboNews | Trends | Travel News Online |"
+publishedDateTime: 2020-11-12T03:50:00Z
+originalUrl: "https://www.eturbonews.com/1647358/global-artificial-intelligence-in-security-market-2021-segmented-by-product-top-manufacturers-geography-trends-forecasts-to-2030-2/"
+webUrl: "https://www.eturbonews.com/1647358/global-artificial-intelligence-in-security-market-2021-segmented-by-product-top-manufacturers-geography-trends-forecasts-to-2030-2/"
 type: article
-quality: 56
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: eTurboNews
+  domain: eturbonews.com
 
 topics:
-  - Machine Learning
   - AI
+  - AI in Security
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://www.eturbonews.com/wp-content/uploads/2020/10/eturbonewstravelnewslogo.jpg"
+    width: 300
+    height: 250
     isCached: true
 
 related:
@@ -52,6 +48,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Automotive Market Size- Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
+    excerpt: "Selbyville, Delaware Global Artificial Intelligence in Automotive Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Artificial Intelligence in Automotive Market Report also covers top key players,"
+    publishedDateTime: 2020-11-10T06:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-size--detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2020-11-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -85,21 +95,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence in Security Market 2021: Segmented By Product, Top Manufacturers, Geography Trends & Forecasts To 2030"
-    excerpt: "Market.Biz –:COVID-19 Analysis: Turn massive Artificial Intelligence in Security Market challenges into | eTurboNews | Trends | Travel News Online |"
-    publishedDateTime: 2020-11-12T03:50:00Z
-    webUrl: "https://www.eturbonews.com/1647358/global-artificial-intelligence-in-security-market-2021-segmented-by-product-top-manufacturers-geography-trends-forecasts-to-2030-2/"
-    type: article
-    provider:
-      name: eTurboNews
-      domain: eturbonews.com
-    quality: 23
-    images:
-      - url: "https://www.eturbonews.com/wp-content/uploads/2020/10/eturbonewstravelnewslogo.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
-secured: "cHSxFWc5g7mnw2DeGw5mmuJvw8kL9MVRgEhqRBLDT9QES96Uasjz27/byLIJw6ey9SKF05ZcqTaGsLO9UerRRmKb6zD0DEVFXPhchqBKKqZv29t3GSL2jpwni5Q23/I0FvbnLAhiSrqJz+RE66cSf+qOP6qIM66MKRG6Fx1BDYV9GUy+JQxjBmMTeYgtBCdMKBzjnkzeHRy8BRTYl3XHn10SgimGE5TkbYzVuPgGe29YN1l0oG2HRFxTgdGiQg7+C/2jPnX3fsDOG1T82R1JUKwZDaFfp5y+f3+y0PG5MJVx2LJd1TakL0FFYO2Wl5eDNKKp60z1RbGjspEN5mhLyxq3DW6/7rMdY1WUCorJls8=;mt9Pn3OAHBC67h++z3qtSg=="
+secured: "ixbJHjUJfzRRQZTQA6r+dASPbMAmsHHVMbM930sRZEsHhdoqb5sv2NbW7kIzwC5xczyYe3UDsYQvGkV9HKi87HHXNesoUSC7ux3uTyEBJ29rYnh+FeAotZHoRQ3rGMVWzil/mE0grpt7kqPVIOuAjLRS5j6EchvobIqjiwQSkgCiPYLpaqf/DATt1zvGl8YWP/jO5TrABSLVV5ZkIUI/HUK0PlDktlZa+011yiv6BsPj8nbAtaali6dABILBXzcbh5dFn7vLI9AFQQBBLemETE3SiGvhS7gah2AsRaIZsr8txPeT02lfo89aDSPQvsW3qeIcoWx9uEGDSR9ddwtn7voU+WJtjFNK9Ne0/+ODBo0=;rK4zzB+7XY865Lk6AXt35Q=="
 ---
 

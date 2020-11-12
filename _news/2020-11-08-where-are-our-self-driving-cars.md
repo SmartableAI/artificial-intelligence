@@ -107,6 +107,22 @@ related:
         width: 4485
         height: 2085
         isCached: true
+  - title: "Honda Hints It Will the First to Release Level 3 Self-Driving Vehicles"
+    excerpt: "Honda has declared that it will be the first automaker to put out level 3 self-driving vehicles. It’s a bold move that gives the company a competitive advantage against most automakers — even Tesla only has level 2 self-driving cars at the moment."
+    publishedDateTime: 2020-11-12T06:52:00Z
+    webUrl: "https://hypebeast.com/2020/11/honda-first-level-3-self-driving-cars-info"
+    ampWebUrl: "https://hypebeast.com/2020/11/honda-first-level-3-self-driving-cars-info?amp=1"
+    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/11/honda-first-level-3-self-driving-cars-info?amp=1"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 44
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F11%2Fhonda-first-level-3-self-driving-cars-info-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
+        width: 1076
+        height: 717
+        isCached: true
   - title: "Walmart teams up with GM's Cruise to test grocery delivery with self-driving cars"
     excerpt: "Walmart announced Tuesday that the company has joined forces with self-driving car company Cruise to test out autonomous grocery delivery in Arizona."
     publishedDateTime: 2020-11-11T15:31:00Z

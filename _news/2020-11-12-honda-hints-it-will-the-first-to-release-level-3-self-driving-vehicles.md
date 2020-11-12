@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Honda’s self-driving system wins OK for use on busy roads in Japan"
-excerpt: "Honda is launching a new version of its Legend sedan that will take over for drivers on busy highways after the company got approval for its self-driving system in Japan."
-publishedDateTime: 2020-11-11T15:30:00Z
-originalUrl: "https://www.wraltechwire.com/2020/11/11/hondas-self-driving-system-wins-ok-for-use-on-busy-roads-in-japan/"
-webUrl: "https://www.wraltechwire.com/2020/11/11/hondas-self-driving-system-wins-ok-for-use-on-busy-roads-in-japan/"
+title: "Honda Hints It Will the First to Release Level 3 Self-Driving Vehicles"
+excerpt: "Honda has declared that it will be the first automaker to put out level 3 self-driving vehicles. It’s a bold move that gives the company a competitive advantage against most automakers — even Tesla only has level 2 self-driving cars at the moment."
+publishedDateTime: 2020-11-12T06:52:00Z
+originalUrl: "https://hypebeast.com/2020/11/honda-first-level-3-self-driving-cars-info"
+webUrl: "https://hypebeast.com/2020/11/honda-first-level-3-self-driving-cars-info"
+ampWebUrl: "https://hypebeast.com/2020/11/honda-first-level-3-self-driving-cars-info?amp=1"
+cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/11/honda-first-level-3-self-driving-cars-info?amp=1"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: WRAL TechWire
-  domain: wraltechwire.com
+  name: Hypebeast
+  domain: hypebeast.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.wraltechwire.com/wp-content/uploads/2020/11/honda-4967587_1280-e1605108185813-1024x576.jpg"
-    width: 1024
-    height: 576
+  - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F11%2Fhonda-first-level-3-self-driving-cars-info-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
+    width: 1076
+    height: 717
     isCached: true
 
 related:
@@ -121,22 +123,6 @@ related:
         width: 4485
         height: 2085
         isCached: true
-  - title: "Honda Hints It Will the First to Release Level 3 Self-Driving Vehicles"
-    excerpt: "Honda has declared that it will be the first automaker to put out level 3 self-driving vehicles. It’s a bold move that gives the company a competitive advantage against most automakers — even Tesla only has level 2 self-driving cars at the moment."
-    publishedDateTime: 2020-11-12T06:52:00Z
-    webUrl: "https://hypebeast.com/2020/11/honda-first-level-3-self-driving-cars-info"
-    ampWebUrl: "https://hypebeast.com/2020/11/honda-first-level-3-self-driving-cars-info?amp=1"
-    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/11/honda-first-level-3-self-driving-cars-info?amp=1"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 44
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F11%2Fhonda-first-level-3-self-driving-cars-info-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
-        width: 1076
-        height: 717
-        isCached: true
   - title: "Walmart teams up with GM's Cruise to test grocery delivery with self-driving cars"
     excerpt: "Walmart announced Tuesday that the company has joined forces with self-driving car company Cruise to test out autonomous grocery delivery in Arizona."
     publishedDateTime: 2020-11-11T15:31:00Z
@@ -194,6 +180,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 24
+  - title: "Honda’s self-driving system wins OK for use on busy roads in Japan"
+    excerpt: "Honda is launching a new version of its Legend sedan that will take over for drivers on busy highways after the company got approval for its self-driving system in Japan."
+    publishedDateTime: 2020-11-11T15:30:00Z
+    webUrl: "https://www.wraltechwire.com/2020/11/11/hondas-self-driving-system-wins-ok-for-use-on-busy-roads-in-japan/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 24
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2020/11/honda-4967587_1280-e1605108185813-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Honda looks to break away in self-driving race"
     excerpt: "Honda (NYSE:HMC) says it will be the first automaker in the world to mass produce sensor-packed level 3 autonomous cars that will allow drivers to let their vehicles navigate congested expressway traffic."
     publishedDateTime: 2020-11-11T13:08:00Z
@@ -213,6 +213,6 @@ related:
       domain: automotiveworld.com
     quality: 3
 
-secured: "Lm/rb4Nl2I/cYBJue5zpCVYFeLJ0wb5jG99OI4CWZAd2iThRdWIanYT6ZyOYmb1SQw0/TZlNu9HwKp1KlffXyIWLAeGugKZqiRPnm2hqYtR9CHtuTJuDLslR78SG1qbBZVcuDOtmkH5Uc2N7RyhR2BrlO/58JNP9DE2wO6JQNfvNbbHCFlitwRgabiC19rL8qqOoat/ayez76qzIQBk7JXOO9GnzqN4GrB9hk9oVU3+bTwN2QV184bUNAOx4aQtawmQO2aSUZXZ6K8ehZk0cYnhxXz+UnpMhLoATUOyqR/O7eaMWRIjyekYYB8mQjj2VAZEDpHUKwF430Mp6eajiB2GiNK1Tn/etIMIGKBt7qd+FwZJjX9ig/rLz/hfBJQLqbDmMbvNb2mqT4TseAQCBecorNnJ3y6IN7BLXiYtrDg7bzOcFJ8sUhRj2l8oEKyw0wGP8FGHgzKHHHzt/HXs8Sq28P4c6Z/kST9jHcQhEfOtuiY/OIW0fis9T5nmDQKvQGggBdOMXo4wwzNO/8ZVkHw==;Quvj5cLJHxW2QMfmVt0tbQ=="
+secured: "5BA5NcC5qgwEGbydVarlSQsoYMyVYhb385nVngCSOLZThBOCMQcPVaAjs7LvcCVUG68nWb+6B/kUIuOfZPJ110yE9nSKU/azr0qWhslMVYrJY3uuoCmiv4Rw2bKcP1582UbAXebQby7O/8xxrVGh/LQCBtzmEiPZEl+p05+rYVTEkCw9QG61JPOEjz5r9SFrblmcOLhTQw63DUpW2Le0qZQr560FSWlVSL2sJpTU11Da263pEl9ZIhFAkqVGYlmWXdVNXcOLG4Vk5YquNxpWvMhdfnc0uA2IeRCr2zVBnyhI+gkSf6aJYSnhQf+Oh+7INPXhAZWdt193VI7hV0TpP/ygUngbBgiX+4YyOudux5s=;ITMNOHf76hkiR0MAcfYlmw=="
 ---
 

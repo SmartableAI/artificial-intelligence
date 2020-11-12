@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Chip maker NVIDIA signs in-car entertainment system deal with Hyundai Motor"
-excerpt: "Chip maker NVIDIA Corp on Monday announced that Hyundai Motor Group will use the NVIDIA DRIVE in-vehicle information and entertainment system for all its Hyundai, Kia, and Genesis models from 2022."
-publishedDateTime: 2020-11-10T03:12:00Z
-originalUrl: "https://www.reuters.com/article/us-nvidia-hyundai-infotainment-idUSKBN27P2XS"
-webUrl: "https://www.reuters.com/article/us-nvidia-hyundai-infotainment-idUSKBN27P2XS"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P2XS"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P2XS"
+title: "Chip Maker NVIDIA Signs In-Car Entertainment System Deal With Hyundai Motor"
+excerpt: "Chip maker NVIDIA Corp on Monday announced that Hyundai Motor Group will use the NVIDIA DRIVE in-vehicle information and entertainment system for all its Hyundai, Kia, and Genesis models from 2022. NVIDIA said the luxury vehicle division of Hyundai,"
+publishedDateTime: 2020-11-09T22:16:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2020-11-09/chip-maker-nvidia-signs-in-car-entertainment-system-deal-with-hyundai-motor"
+webUrl: "https://www.usnews.com/news/technology/articles/2020-11-09/chip-maker-nvidia-signs-in-car-entertainment-system-deal-with-hyundai-motor"
+ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-11-09/chip-maker-nvidia-signs-in-car-entertainment-system-deal-with-hyundai-motor?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-11-09/chip-maker-nvidia-signs-in-car-entertainment-system-deal-with-hyundai-motor?context=amp"
 type: article
-quality: 102
-heat: 172
-published: true
+quality: 82
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540606466&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81UC"
-    width: 830
-    height: 545
-    isCached: true
 
 related:
   - title: "Hyundai taps Nvidia for future fleet AI, infotainment services"
@@ -126,6 +120,6 @@ related:
       domain: morningstar.com
     quality: 18
 
-secured: "vXyvuvggqbfSWFvrhsrA3jgkJUwJLVWjSOqSZbRcz/DutkA/XexWaDTmRmG06pR55jq5oSQXr2fD2MvWvfAyHBBvATAD3PoX1FQYwXedolwVW307pJrdbUEigtOPuEf6YpuI0+rf4st5irj16hwR4xqhBu+nz3j2qCZ29AFzy4vqFjVhtm9aWr9ABpSX36P2nlMI8dGN/dbYzPe1IocZIXuearxo/YhsL6hbv4iwknErxp4NIdnCBw2qHfjNC9L9uspfsrAjq/6pBqp9D03UVAQcOZgSelqCfv4Qr0RSVJo7VjChNEC2xo3QChus5N2/4Wq/KUe7jjv8TzyAU7X9ystjR+8NbRLD/C4VSRL7EzE=;2VrINv9V8vfOx3ZUAqciAg=="
+secured: "U5wd6IY6CaVE/f0hR3XiMewOyAjJXrjJIgjGMa5NXyLdFy1cSBUNcu+v1COk2eXdHIHCcuYAIfOmo0SXZ73rB9T/DFMWL4qovGIAeJZjwMm+QJt4w4o7Xq9L4wly9xU3MkpSU+eiYfUYOer+PwNHL0BwKhc3T5rkH0avBwyH/6k7uZgH1wqY9+kun3fJWf6H1Sf+CpUxkEYSt94tGtZgE8t90LHqUAkYGMiBjOKZH9ICY0zUBHetDbAOI0nSkPvX/PQS7BFcGn03Cxcscig5ZlECcu7wwuCkSy0Mxrfw7dk+HGXuGTQXtF3TxYW1NazbA9vz5g9wpfx6U66WKyJiaPAiy0xNAEwQRz5yaNDgIUslQBOS4btjMz+CoOA+0kO2nDNthF4hoLoMedNIaIgCHwrVp2MU47wEmNo0c3pWUBUWGgHDPQfI7Sz7qnU+Rj8pxKWObn0A3+fj5RrC0doQypZ1MKlWYrwnXa1SpGI9P7ViAeIebZDDmRMZpbyc5T1zmPTK0xF1j2Xs5Mc/dHLGhw==;KZb6tocjlf+uZNNm1KwtLg=="
 ---
 

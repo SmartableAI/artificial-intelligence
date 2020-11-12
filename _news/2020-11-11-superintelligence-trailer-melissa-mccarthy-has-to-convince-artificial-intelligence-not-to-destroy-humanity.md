@@ -38,6 +38,15 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Is AI finally closing in on human intelligence?"
+    excerpt: "GPT-3 has been hailed as an artificial intelligence breakthrough. John Thornhill tries it out and assesses the rewards — and the risks"
+    publishedDateTime: 2020-11-12T05:00:00Z
+    webUrl: "https://www.ft.com/content/512cef1d-233b-4dd8-96a4-0af07bb9ff60"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "OpBWe3Wn6p7XVUAAGVDbfNZsXVHPH4Lc4w/xo0MJ1iPrJgJL3EAUOEvvBTuq9HmJOBPxcCRUWZ44ofnE55g1w4vTCkiVmssUt9h5dMVUVrw7oHfdtoWuGJ+rqTv/nl0JHlVDdC6rJ8JklMjd/cGzY5HWpSnoHaoBq9fkIQ2FIQnPQwe1+j3ftTaU2VcwcwLJdare4kLpM877MNnGs+hxZ53wolo5s/XUCLmz4gVWQN6pJvLlvPVKFHmOiI8e4YAbn+qJHcgxmFrHakyg7Z+tZ5Jlfa+LHIo1HLvNH3kXwcEeYFb/lS8O49fds82Af9ZFi8KkwMGbJfwumXj5jjK0o3awLsct3A4airzKRZfS+mFt3QCairTwdEzTCd2v3NCUVMbNaojeex9/20fpIHkIjWdQiPpQUUbe6mvkPEG4swNI5UZt0TufS01knqJ8DQuMjsXpFSFwYMHavj2ZOphCLVLwHUw4Kq+w/htYBfoxxD/tKt8vCgwmk+BdPiOeB6ixyEMwiHrI/BdqqY6Yrdu9vQ==;zXHahusFPYcGJOJ/Xp7o5Q=="
 ---
