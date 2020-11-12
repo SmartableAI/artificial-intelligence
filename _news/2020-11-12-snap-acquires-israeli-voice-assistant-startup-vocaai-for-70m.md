@@ -38,6 +38,22 @@ related:
         width: 650
         height: 395
         isCached: true
+  - title: "Snap to acquire Israeli startup Voca.ai for $70mn: Report"
+    excerpt: "Snap Inc, the parent company of popular messaging app Snapchat, is acquiring an Israeli startup called Voca.ai which builds Artificial Intelligence-based virtual agents to help businesses support customer service,"
+    publishedDateTime: 2020-11-12T15:45:00Z
+    webUrl: "https://newsd.in/snap-to-acquire-israeli-startup-voca-ai-for-70mn-report/"
+    ampWebUrl: "https://newsd.in/snap-to-acquire-israeli-startup-voca-ai-for-70mn-report/amp/"
+    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/snap-to-acquire-israeli-startup-voca-ai-for-70mn-report/amp/"
+    type: article
+    provider:
+      name: Newsd
+      domain: newsd.in
+    quality: 57
+    images:
+      - url: "https://newsd.in/wp-content/uploads/2020/11/e65193aaa0daab6ecdba2183aa65610e.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Snap buys Israeli voice bot co Voca.ai for $70m"
     excerpt: "US social media company Snap Inc. (NYSE: SNAP) (Snapchat) has acquired Israeli voice assistant solutions startup Voca.ai, a source informs \"Globes.\" The source estimates that the acquisition is for about $70 million."
     publishedDateTime: 2020-11-11T10:49:00Z
@@ -60,6 +76,15 @@ related:
     provider:
       name: Telecompaper
       domain: telecompaper.com
+    quality: 17
+  - title: "Snapchat To Acquire Israeli Voice Assistant Startup Voca.ai For $70M"
+    excerpt: "Us mobile messaging app Snapchat has not made it clear what it intends to do with Israeli voice assistant startup Voca.ai."
+    publishedDateTime: 2020-11-12T15:35:00Z
+    webUrl: "https://nocamels.com/2020/11/snapchat-voca-ai-voice-assistant-acquired/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
     quality: 17
 
 secured: "3X4r0VYDjQigVz+DwV2v0ror0tvKXJ/CEFvhkMCVR7YCBfeQ1W4fqGbDIrKe3ytmLMGpXZz6DdSP47rLqfoLwfVCI5cJkx0z01hPv/4jAdWWb1tQVm2bJTXwyQNuYCbn/WADlH1x2gPvvErLjqcXJWFATaLz0ilo2AuKDkVqEjuQwV21XtaUFoZfAtUmEOKs38VGhL463gMrEzgDogTzukEwRIROmGstnCTiDjgW0TcXYYz/PpFUuRFlMx5FMCjxYMNCwAYDwczQvzmO18j37iHBTlToItLGs880rR3pHO65M5yYe7DOz9NLIv3Ig9wCobMyRAgg54J9wkjUvYXuGs2+ujK22pU8n9b+3L5VAnjGDIqQQ60goD8p7RuX4dSbaBh0ARrF1go7EPFC1xQA3VStTKQhl9Kpr0m/iYi7Cf4h7cT81l2bRWD1JAyoXhI0L3T108XDqiUOr82l0+rF/giJEQGRZFN45qdPxjZSKKN+cxEOC3Z52JVEW5h9TwVKl5GaMxmhzwmdj+IR5pzLIw==;IgCF1QUgqIOm0DFuFMalJA=="

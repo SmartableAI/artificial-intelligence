@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/pope-francis-wants-you-to-pray-for-ethical-robot
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/pope-francis-wants-you-to-pray-for-ethical-robots-1845642552/amp"
 type: article
 quality: 106
-heat: 117
+heat: 116
 published: true
 
 provider:

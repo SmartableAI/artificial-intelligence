@@ -2,9 +2,9 @@
 category: news
 title: "Tech experts voice concerns of gig worker surveillance in pandemic"
 excerpt: "Growing armies of gig workers have little to no say in how they are being monitored during the coronavirus pandemic, researchers and advocates told a conference on Wednesday, calling for better oversight in how tracking tools are deployed."
-publishedDateTime: 2020-11-11T20:25:00Z
-originalUrl: "https://www.reuters.com/article/us-tech-conference-gigworkers-trfn-idUSKBN27R2TT"
-webUrl: "https://www.reuters.com/article/us-tech-conference-gigworkers-trfn-idUSKBN27R2TT"
+publishedDateTime: 2020-11-12T00:47:00Z
+originalUrl: "https://www.reuters.com/article/tech-conference-gigworkers/tech-experts-voice-concerns-of-gig-worker-surveillance-in-pandemic-idUSL8N2HX60O"
+webUrl: "https://www.reuters.com/article/tech-conference-gigworkers/tech-experts-voice-concerns-of-gig-worker-surveillance-in-pandemic-idUSL8N2HX60O"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27R2TT"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27R2TT"
 type: article
@@ -40,6 +40,6 @@ related:
         height: 551
         isCached: true
 
-secured: "gg87ThmkKWcbwwBtk828KKN3yuWj8MZeQoHa27egsmBaUBlsTSB3lf68k3mg4rxuznAi804S/ouJYxT0WA+m3R1KGGWzmpQela3WzYhbDedR4Ue8DTX/i4usFUJoEZJr6Vz6XsUdZYO9+y8L62cIVXB3BA+AJRI16BxCq2TWSGxllPDsy1pUk3rmzFbXzs3Xa01UIQernuWRYDZe5mOZa2p9nEAXIKorWIH2a6G9CnPbGPOF3E3PiCgFNMIosT8OgwNfzFg1fQoyr7R/ukW1G274hSBuKUrF01Ur5zAu2hWwoUWi7hNL/3IoL8maD517ftwo1jxaM7W1hqfvzo6o/+SqCWShkJJG+TmwGW7h3UM=;V3y3qmYLCDMcmvKgDx6K7Q=="
+secured: "suPACX62ENVJfKhZQSt9nKTwA2aPwnRiB/LdXd0AmblW5kl22NMAi9XwY8zZk2S+IaBtX34ixfkrQNxlie0Mut2PbwyAwp0xB4d2Q3MLQx9XRZBMAA3OAjsaG4h5zzk05wsu+3IQhC4JzpxLiiwl755ytwqhganGFcrYbBO265RTANajHkFtDBVoSl7Uj6S6Mb2AC7uV9GSUdi/DJLEkPh+IyiKm1hkaSi2zyjmIBvLoOcyOTdLUfek8WLe2IBNY05ci4v4rNKzhDSx60RNXadtx7/eUwqoqYxbo9c24MMJrdMBXxMdSgxxchd01Ar7NAlc58ROr7oOpR+hdfL8zEFHaaetKLfCzQgFb7u58kGM=;+C4SW9AzgplJ9U+IQ2cRmg=="
 ---
 

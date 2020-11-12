@@ -9,7 +9,7 @@ ampWebUrl: "https://www.kerrang.com/amp/watch-trent-reznors-rock-roll-hall-of-fa
 cdnAmpWebUrl: "https://www-kerrang-com.cdn.ampproject.org/c/s/www.kerrang.com/amp/watch-trent-reznors-rock-roll-hall-of-fame-acceptance-speech-for-nine-inch-nails"
 type: article
 quality: 55
-heat: -1
+heat: 65
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nine Inch Nails at Rock Hall 2020: Watch Trent Reznor’s Induction Speech"
-    excerpt: "Nine Inch Nails were honored tonight during the Rock & Roll Hall of Fame 2020 Induction Ceremony on HBO. After an induction speech from Iggy Pop and a video package that included words from St. Vincent,"
-    publishedDateTime: 2020-11-08T00:00:00Z
-    webUrl: "https://pitchfork.com/news/nine-inch-nails-at-rock-hall-2020-watch-trent-reznors-induction-speech/"
-    ampWebUrl: "https://pitchfork.com/news/nine-inch-nails-at-rock-hall-2020-watch-trent-reznors-induction-speech/amp/"
-    cdnAmpWebUrl: "https://pitchfork-com.cdn.ampproject.org/c/s/pitchfork.com/news/nine-inch-nails-at-rock-hall-2020-watch-trent-reznors-induction-speech/amp/"
-    type: article
-    provider:
-      name: Pitchfork
-      domain: pitchfork.com
-    quality: 58
-    images:
-      - url: "https://media.pitchfork.com/photos/5fa7288e043ba2867b8ec85a/2:1/w_648/trent-reznor.jpg"
-        width: 648
-        height: 324
-        isCached: true
   - title: "WATCH: Nine Inch Nails’ Trent Reznor Deliver His Rock And Roll Hall Of Fame Acceptance Speech"
     excerpt: "It was revealed last week that Nine Inch Nails would be among the inductees into the 2020 Rock And Roll Hall Of Fame, alongside Depeche Mode, The Doobie Brothers, Whitney Houston, The Notorious B.I.G."
     publishedDateTime: 2020-11-10T14:22:00Z

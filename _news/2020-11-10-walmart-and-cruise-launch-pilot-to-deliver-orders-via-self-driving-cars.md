@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 264
+heat: 274
 published: true
 
 provider:
@@ -275,6 +275,20 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/walmart.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Walmart taps self-driving vehicle startup Cruise for autonomous deliveries"
+    excerpt: "The collaboration is part of the mass merchant's effort to modernize deliveries and lessen environmental impact."
+    publishedDateTime: 2020-11-12T15:05:00Z
+    webUrl: "https://www.retaildive.com/news/walmart-taps-self-driving-vehicle-startup-cruise-for-autonomous-deliveries/588800/"
+    type: article
+    provider:
+      name: Retail Dive
+      domain: retaildive.com
+    quality: 22
+    images:
+      - url: "https://www.retaildive.com/user_media/cache/7f/c1/7fc123e8e187c50b5435f3abb9b84a89.jpg"
+        width: 770
+        height: 364
         isCached: true
   - title: "Walmart partners with Cruise in a pilot for self-driving car delivery service"
     excerpt: "Walmart Inc. and General Motors Co. subsidiary Cruise LLC have agreed to partner on a self-driving delivery service in Scottsdale, Arizona, it was announced today. In April, Walmart launched its “Express Delivery” service,"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/databricks-launches-sql-ana
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/databricks-launches-sql-analytics/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     height: 2004
     isCached: true
 
-secured: "1skOLj6K59K/Dr5S1On7mTdKhYfFnle5Wsky82px4smspl7g7CFe5batQn/oQOwbOiseWT+USMluC5GidqXgD6kRI/aoXIWZ3yGzRio19KH3r+Zz+aaTjtf5n/URAbcssIU9ikHiIbCE5hzu1Q1NDCz1wcC2I3MyGzfAtfXMkayPC0oupmCs4L0uY8hDtWkJJqkq6NOpdqaq0Q1bgJmGZamR1Ohsx2J+wYWWRIHtlflwwCZ+CuCyZbhm4cOYvuSPexs3ioYQhIJFAr+TjfEun5pPTksaG7903IVYd7mKsZ0Hkc7L/B/IazSGztTaWl+0bu2YNrU06COdrX9mEFriZU6/2fnuHIe3ImA77+ydpqg=;FeWZJ+3NKKYcoM/nEMc8ww=="
+related:
+  - title: "Fivetran Extends Integration With Databricks, Accelerating SQL Analytics, Data Science and Machine-Learning Applications"
+    excerpt: "Fivetran, the leading provider of automated data integration, today announced advancements in its integration with Databricks, the Data and AI Company"
+    publishedDateTime: 2020-11-12T15:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201112005437/en/Fivetran-Extends-Integration-With-Databricks-Accelerating-SQL-Analytics-Data-Science-and-Machine-Learning-Applications"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+
+secured: "TWYZVvhIwvlWAHuvEK4nn1XMssJ3trWLSJIIj2d6QAtifxTQDgGvUoNmmLoaygi1FUPk2KTtagPqr3GWgRCQcUbQhNuCxM0OwC+chwS7YWus94g33kL7kjnzsXbJGbz7icpOnu3vQ3obtx9yHI+okFeItZjv7+cfc0KeuwbmkQWi5yIsvJMgSiNARSL/RFZLo2PeFTrJTZZTdSm4AZySSwJGZcyoSn4MsXomgEGehbNpXnIvfGI7HPT2rGhDPkYf0iqxDxTO+5oz0VO0JADmjryEIvHRfvnpl7Pd5X6RnFBSoVShMhACJaSJorJ5diBIYli1olLyUdjqMb4dWAUI3d8gdLEGzZ6Cqp5Cbydy/Nwde3/qFXXsMr3oUnm2NCvlva+B3wp6R0UtpzqornRT2r7rl6pwQTZ+fLfjETDnq4u4wdu6cWiJ4DMNDfJFiv2tlJzN8jO0cz2rA4GjmUGlvucEvILMUPM89q3K9CiUqH9u0j99kqdgvFIu5a7JRbgeNo8Caa1c4jOZYg3GTLylgQ==;/inaq12AoYgB4a3sEms0jQ=="
 ---
 

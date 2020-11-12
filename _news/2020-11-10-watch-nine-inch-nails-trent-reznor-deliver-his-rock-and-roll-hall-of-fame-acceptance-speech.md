@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nine Inch Nails at Rock Hall 2020: Watch Trent Reznor’s Induction Speech"
-    excerpt: "Nine Inch Nails were honored tonight during the Rock & Roll Hall of Fame 2020 Induction Ceremony on HBO. After an induction speech from Iggy Pop and a video package that included words from St. Vincent,"
-    publishedDateTime: 2020-11-08T00:00:00Z
-    webUrl: "https://pitchfork.com/news/nine-inch-nails-at-rock-hall-2020-watch-trent-reznors-induction-speech/"
-    ampWebUrl: "https://pitchfork.com/news/nine-inch-nails-at-rock-hall-2020-watch-trent-reznors-induction-speech/amp/"
-    cdnAmpWebUrl: "https://pitchfork-com.cdn.ampproject.org/c/s/pitchfork.com/news/nine-inch-nails-at-rock-hall-2020-watch-trent-reznors-induction-speech/amp/"
-    type: article
-    provider:
-      name: Pitchfork
-      domain: pitchfork.com
-    quality: 58
-    images:
-      - url: "https://media.pitchfork.com/photos/5fa7288e043ba2867b8ec85a/2:1/w_648/trent-reznor.jpg"
-        width: 648
-        height: 324
-        isCached: true
   - title: "Watch Trent Reznor's Nine Inch Nails Rock & Roll Hall Of Fame Acceptance Speech"
     excerpt: "Trent Reznor thanked Nine Inch Nails bandmates both past and present in his Rock & Roll Hall Of Fame induction ceremony acceptance speech. Over the weekend, Trent Reznor accepted the honour of Nine Inch Nails being inducted into the 2020 Rock & Roll Hall Of Fame on behalf of his bandmates throughout the years,"
     publishedDateTime: 2020-11-09T12:50:00Z

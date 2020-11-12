@@ -286,6 +286,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Walmart taps self-driving vehicle startup Cruise for autonomous deliveries"
+    excerpt: "The collaboration is part of the mass merchant's effort to modernize deliveries and lessen environmental impact."
+    publishedDateTime: 2020-11-12T15:05:00Z
+    webUrl: "https://www.retaildive.com/news/walmart-taps-self-driving-vehicle-startup-cruise-for-autonomous-deliveries/588800/"
+    type: article
+    provider:
+      name: Retail Dive
+      domain: retaildive.com
+    quality: 22
+    images:
+      - url: "https://www.retaildive.com/user_media/cache/7f/c1/7fc123e8e187c50b5435f3abb9b84a89.jpg"
+        width: 770
+        height: 364
+        isCached: true
   - title: "Walmart and self-driving car company Cruise pilot grocery deliveries in Arizona"
     excerpt: "UNFI reaches labor accords with Teamsters in New York, CaliforniaUnited Natural Foods Inc. (UNFI) and Teamsters union locals in New York and California have agreed to new"
     publishedDateTime: 2020-11-11T13:32:00Z

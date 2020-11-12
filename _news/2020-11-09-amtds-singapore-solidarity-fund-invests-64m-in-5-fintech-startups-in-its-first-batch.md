@@ -3,8 +3,8 @@ category: news
 title: "AMTD’s Singapore Solidarity Fund invests $6.4m in 5 fintech startups in its first batch"
 excerpt: "The evaluation process for a second batch of investments – which aims to support Singapore’s fintech community – is already underway."
 publishedDateTime: 2020-11-09T11:18:00Z
-originalUrl: "https://www.techinasia.com/amtd-singapore-solidarity-invests-64m-5-fintech-startups-first-batch"
-webUrl: "https://www.techinasia.com/amtd-singapore-solidarity-invests-64m-5-fintech-startups-first-batch"
+originalUrl: "https://www.techinasia.com/amtd-singapore-solidarity-invests-64m-5-fintech-startups-first-batch?ref=recommender-661802"
+webUrl: "https://www.techinasia.com/amtd-singapore-solidarity-invests-64m-5-fintech-startups-first-batch?ref=recommender-661802"
 type: article
 quality: 26
 heat: -1
@@ -51,6 +51,6 @@ related:
       domain: techinasia.com
     quality: 26
 
-secured: "ALWmsBNdiV6Z+wRGJewdouURMOKQ+zwdw8W2oR1DYjO5IaOSlt8dek0Co6Bw9lRZ9MZgrSSiSx77D9b3qxkFXBBmZ5UtbwKSGimSbkkjgSJb8qyJFwu1NgzTEwCejtrDMXILTzYogs4iuwwc4Ad6pVnGwkHSCQMYoBRCjir/2COcnTQ3dSrw+7bV9gmDpHZD1QIyOYTxaDxe69sdaEw1OEJl3yUEQaeDvgno5lMsDMz12xg1DM4/phE+N63PtDbYgs6wMzSWFRza1/eDFSgOButMRSsEZJudHUc0tbruYmuniUfmWhfxyMDzagnqHfnbXyoCPbdOqj+qu3CzcI7XmYydAMfYd/R4qYOXdcrlYfKGoFBbAQQQ+YO1WiI12A3rPN0ofMFsVY+LMrcU7MwlPvQ/Vo04lkihZN7W7M5GeZNsobEhqFIhUhwPPc3/XphpuWLA9CgyHhQNTbNK1hbbO4Q31WUBbqlaKgzYD7CQpkAYl+CjdWYECtwf+FMFZOKLed92eDdbkCLINlG1k5PabQ==;Gyy6JQIeO7A+sLz50ErnAQ=="
+secured: "zMFdajvyxX8livj7AyIE2kCJGdgZT0NyflMDhOQh0+M7gHejxT+7u/ghOb8TNsV5Hit4O6vcUdL6HqgZACL/oRiYNWVEc7VP/iNjoUoGL66643ZhyHJiE6OwObjfBLApk+U5AXrNwBOQ/rMROjqHzWXaeZlOhHVme3YnJcus8bMy2wUlij39ctCIusZla1iDHXR4qfYR6wz/RPpAmym8DpntVzatXIjfG8gKanyUWan41cs3yvkB21k05O+YgnWIIwiTuYSuLlgAWNaJChBZ5+kg0iTvnooNUVzdHeoGScqt4rgNxkmx+FkYMo0Y9WYDBgsze3xr1gUviAHAx+ET7vMqS42ploKukW9BejcZdjTUjehrBDyphidXHiFQvQRMFhrYTJ/iwEixcEEuQnIEMopNLFVt5NW/PzIoIGgoV0PeySDJ0oN3tMPhyQVD0EbmhsnU0S5j6tq7lXtkVUXMd/qWx+E034l515+uvJD06pJuTQxMx6sPR59GwlJyQWGnpIkLl3w4J4ScB7ZCnIYamg==;ziXyFX5Hc2YJn/2EW6xOWg=="
 ---
 

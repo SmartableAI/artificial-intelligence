@@ -32,6 +32,22 @@ related:
         width: 650
         height: 395
         isCached: true
+  - title: "Snap to acquire Israeli startup Voca.ai for $70mn: Report"
+    excerpt: "Snap Inc, the parent company of popular messaging app Snapchat, is acquiring an Israeli startup called Voca.ai which builds Artificial Intelligence-based virtual agents to help businesses support customer service,"
+    publishedDateTime: 2020-11-12T15:45:00Z
+    webUrl: "https://newsd.in/snap-to-acquire-israeli-startup-voca-ai-for-70mn-report/"
+    ampWebUrl: "https://newsd.in/snap-to-acquire-israeli-startup-voca-ai-for-70mn-report/amp/"
+    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/snap-to-acquire-israeli-startup-voca-ai-for-70mn-report/amp/"
+    type: article
+    provider:
+      name: Newsd
+      domain: newsd.in
+    quality: 57
+    images:
+      - url: "https://newsd.in/wp-content/uploads/2020/11/e65193aaa0daab6ecdba2183aa65610e.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Snap buys Israeli voice bot co Voca.ai for $70m"
     excerpt: "US social media company Snap Inc. (NYSE: SNAP) (Snapchat) has acquired Israeli voice assistant solutions startup Voca.ai, a source informs \"Globes.\" The source estimates that the acquisition is for about $70 million."
     publishedDateTime: 2020-11-11T10:49:00Z
@@ -60,6 +76,15 @@ related:
         width: 768
         height: 511
         isCached: true
+  - title: "Snapchat To Acquire Israeli Voice Assistant Startup Voca.ai For $70M"
+    excerpt: "Us mobile messaging app Snapchat has not made it clear what it intends to do with Israeli voice assistant startup Voca.ai."
+    publishedDateTime: 2020-11-12T15:35:00Z
+    webUrl: "https://nocamels.com/2020/11/snapchat-voca-ai-voice-assistant-acquired/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 17
 
 secured: "ksL+1OezLFgqxToMBB/EqNdsyfaK32HURN6AWqSMvC++6fTvV88h+a4H+iizGy8Mv3vxCHSDP3twQkhHLR/XP/Uk7LQDsLmbY7pYwI94HzLepfBjn0FVd+nngorgIPDDMbzqp8GVxyyrztv7OiokuLLa8O6cBJYhDjvVaeIO6HIu42T+aaE1W8wS/WbXpkI5nzcmbnPFiC6uR/qDOIFqNsCeASi3Z0fbR9WClG1EQgo0VZC2AMNFJlaNuf7ghm6OUwXsj0Kl6l5MZK+HzCQX9PzATDlgfeMSmR6mQVZLE5AxxNixZh6AuTvYc+1wuOXWsdLwFVl5MG8zPSzoLm4e6C+rNRRNUUPpnxlBgGPTJ6Q=;kIDNzsB6czH20Ab/rKqJqg=="
 ---

@@ -27,8 +27,8 @@ images:
 related:
   - title: "Tech experts voice concerns of gig worker surveillance in pandemic"
     excerpt: "Growing armies of gig workers have little to no say in how they are being monitored during the coronavirus pandemic, researchers and advocates told a conference on Wednesday, calling for better oversight in how tracking tools are deployed."
-    publishedDateTime: 2020-11-11T20:25:00Z
-    webUrl: "https://www.reuters.com/article/us-tech-conference-gigworkers-trfn-idUSKBN27R2TT"
+    publishedDateTime: 2020-11-12T00:47:00Z
+    webUrl: "https://www.reuters.com/article/tech-conference-gigworkers/tech-experts-voice-concerns-of-gig-worker-surveillance-in-pandemic-idUSL8N2HX60O"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27R2TT"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27R2TT"
     type: article

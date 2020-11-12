@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Workday Delivers Data Management and Machine Learning Innovations for the Changing World of Finance"
-excerpt: "Intelligent data, machine learning, and a robust ecosystem are critical factors for companies when choosing their next partner for financial management systems.” Any unreleased services, features, or functions referenced in this document, our website ..."
-publishedDateTime: 2020-10-29T16:27:00Z
-originalUrl: "https://www.nasdaq.com/press-release/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-0"
-webUrl: "https://www.nasdaq.com/press-release/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-0"
+excerpt: "Workday Inc., a leader in enterprise cloud applications for finance and human resources, today announced availability of Workday Accounting Center and machine learning- driven predictive forecasts for Workday Adaptive Planning,"
+publishedDateTime: 2020-10-29T14:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing"
+webUrl: "https://www.nasdaq.com/press-release/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing"
 type: article
 
 provider:
@@ -16,6 +16,6 @@ topics:
   - AI
   - Machine Learning
 
-secured: "bHRUp5OaD65S0s4gAvkJUlOiUeTFfK8YNCcd9V/9Ftwx6cmLS8zpKWtumf1p0/eLy5WEYro07ieTI+tQr9DVWFTmvbAU6kdDtlYcK+oPDhk/eU1iAJYovwTHdz0qL/mJwuLnAYy48J++5roUGS7NskpaEqkfFgoVsBu7L9bSTV/H4pdZW5LU4Q808c8lLc0EBrCGRu6j+4ohnZcallLS/rOS5DfJGIpP13ep4as2dnwuEJe4XtmPe/2ZFmWz9iTd3kwi0xVuoNkSwNdOoJj9NOdQd/AMKwp7zJt55vPINvloL/1G2Fci0QXnAI1wtsslrCdR13EOBW/XnXiyC/fpDvPu4q6MS4tqCUasbYaeOPs=;70Rz4zjkDr6xMpYPvmNUYA=="
+secured: "Z2G8bNwPBxq/HO0h5VCMCEyYPRnmIQHqEeHgJM+ttPETkffSrPGYu2TphU9BZqBC8PgjBrTXwHp0vrG5J30fiz1otChca0Ii4apRcPkzyAVDYNP11CFiOlO2Em5xemiZxVdsas6oU/TaEnL+OvUwtC2sSGbFyoft20kZwt3w8jz0nSh3DVODfC+ba3HjcaTxPLxON7qENS2yUsJ6RQr9ByIr57MyhD9CEVEtJqWGjLrygQPLiyaghyr/RdyO0UwUut2iMvsqn0+jsVWmC+MBErce7k/CDdEUhyesbY4wS20hSV2jYmsxRnp6Ii7NhQtLl7GNdGzAJfIO+GnHAIJaL9dpOtzuV3khht8CW7mcrhI=;0uY2g6W0YOF19O0Qn4kJuw=="
 ---
 
