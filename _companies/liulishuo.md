@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "lingochamp"
   url: "https://twitter.com/lingochamp"
-  followers: 198
+  followers: 199
 
 size: 1,001-5,000 employees
 yearFounded: 2012
@@ -32,7 +32,7 @@ tags:
   - Speech Recognition
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1118745947641499648/mh546Zqg_400x400.png"
+  - url: "https://pbs.twimg.com/profile_images/1326830321157898240/14TzFVZF_400x400.jpg"
     width: 400
     height: 400
     isCached: true
