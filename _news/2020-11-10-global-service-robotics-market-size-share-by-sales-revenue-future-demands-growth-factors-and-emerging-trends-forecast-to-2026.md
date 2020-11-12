@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-service-robotics-
 webUrl: "https://www.marketwatch.com/press-release/global-service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026-2020-11-10"
 type: article
 quality: 72
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Machine Learning Market 2020 Industry Scenario, Strategies, Growth Factors and Forecast to 2026"
+    excerpt: "The latest informative study entitled Global Machine Learning Market 2020 by Company, Regions, Type and Application, Forecast to 2026 released for the database of MarketsandResearch.biz helps a reader to understand the market in depth."
+    publishedDateTime: 2020-11-12T07:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-2020-industry-scenario-strategies-growth-factors-and-forecast-to-2026-2020-11-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-11-schools-are-using-a-facial-recognition-scanner-that-detects-face-masks.md",
+      "title": "Schools Are Using a Facial Recognition Scanner That Detects Face Masks",
+      "excerpt": "In addition to that, GoSafe also comes with sophisticated facial recognition technology. After U.S. school districts pushed to reopen, there was a pressing need for temperature-taking devices. While some school boards were initially apprehensive of the inclusion of facial recognition,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20909/Schools-Are-Using-a-Facial-Recognition-Scanner-That-Detects-Face-Masks.aspx",
+      "originalUrl": "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20909/Schools-Are-Using-a-Facial-Recognition-Scanner-That-Detects-Face-Masks.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.engineering.com/portals/0/BlogFiles/75_ima1.png",
+          "width": 530,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.engineering.com/amp/20909.html",
+      "cdnAmpWebUrl": "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20909.html",
+      "publishedDateTime": "2020-11-11T04:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engineering",
+        "domain": "engineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-deepmind-would-have-probably-failed-without-google-says-early-investor.md",
       "title": "DeepMind would have 'probably failed' without Google, says early investor",
       "excerpt": "Founding DeepMind investor Humayun Sheikh told CNBC that the London AI lab would have \"probably failed\" if Google hadn't bought it.",
@@ -1183,7 +1226,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026-2020-11-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -1225,57 +1268,6 @@
         "AI in Robotics",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-why-ai-tech-stacks-is-the-new-hack-for-pr-hacks.md",
-      "title": "Why AI Tech Stacks Is The New Hack… For PR Hacks",
-      "excerpt": "AI is going to have a huge influence on how PR professionals engage with journalists going forward. The trick will be relying on our professional and creative instincts to find inspiration – and leveraging AI to improve performance and refine our pitch strategies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/aaronkwittken/2020/11/10/why-ai-tech-stacks-is-the-new-hack-for-pr-hacks/",
-      "originalUrl": "https://www.forbes.com/sites/aaronkwittken/2020/11/10/why-ai-tech-stacks-is-the-new-hack-for-pr-hacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faaa9cae613bff5ddfe3595%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2997%26cropY1%3D0%26cropY2%3D1998",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/aaronkwittken/2020/11/10/why-ai-tech-stacks-is-the-new-hack-for-pr-hacks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aaronkwittken/2020/11/10/why-ai-tech-stacks-is-the-new-hack-for-pr-hacks/amp/",
-      "publishedDateTime": "2020-11-10T06:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-12T05:00:00Z
 originalUrl: "https://www.ft.com/content/512cef1d-233b-4dd8-96a4-0af07bb9ff60"
 webUrl: "https://www.ft.com/content/512cef1d-233b-4dd8-96a4-0af07bb9ff60"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 related:
   - title: "James Corden is a snarky AI that might take out humanity in Superintelligence"

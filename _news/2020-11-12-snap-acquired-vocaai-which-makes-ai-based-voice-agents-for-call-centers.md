@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/11/11/snap-acquired-voca-ai-which-makes-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/11/snap-acquired-voca-ai-which-makes-ai-based-voice-agents-for-call-centers-for-120m/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
         width: 768
         height: 511
         isCached: true
+  - title: "Snap to buy Israeli startup Voca.ai for USD 70 mln - report"
+    excerpt: "Snap has reportedly agreed to buy startup Voca.ai, an Israeli company specialised in making AI-based voice assistants for customer support services, for an estimated USD 70 million, Calcalistech. The publication said the company,"
+    publishedDateTime: 2020-11-12T08:56:00Z
+    webUrl: "https://www.telecompaper.com/nieuws/snap-to-buy-israeli-startup-vocaai-for-usd-70-mln-report--1361569"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
 
 secured: "BtU/ZmTvjipp/gbmQXhVZ+iZGWHmZiEF55Iw2RYHaIkrs6o68WgopUIgthZ5TCuDCUcgwM9E8ae9Yze4bnhwg92tT6FUDbh+MucqtGnzDYvt5cK8YsDJO+ARdv2ISSQVrxnSl0dHDaMYK0EIWuYyFiG97dqQfS2jXyarrEWuHMghEKz8hdr/NmWrByZCgAxbrSTOBYtS2e0IBKZwy91f1SilDmuO/Oxggg3/ZrOtw+srHIrfwz3o7cjnSbRlPP2V5NVMaUBIlwEpLQdHNtLJOj/l3a2rd2ih2rRwySya/HLKUgdsXS2ESk9F2VxsPXEtnTr1sTd69SwJuMVrzTTzpwq7VvhLTqMmsDedBQMoirrnPFuiKHu75+AyY5b9S/FAiggjMzgsxZzq66omDTXrTG1xfTVPCPYdo7GXyrOzIOuQ+kkysukgc593NJfIlIJrlpIkcVlGVnLKvXRM1S4XVL/na52/G2WlBpbnbPt6un4Go/1Vimx2wIMMKcS5fTY53VoAk/pUCXijqme1nD7WIA==;7nIqQoJoTJX+V+/Im+Tj+g=="
 ---

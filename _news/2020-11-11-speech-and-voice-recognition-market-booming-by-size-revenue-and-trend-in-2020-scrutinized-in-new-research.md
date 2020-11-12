@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recogni
 webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-booming-by-size-revenue-and-trend-in-2020-scrutinized-in-new-research-2020-11-11"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Artificial Intelligence in Education Market Report 2020 Expected Growth and its Factors, CAGR, Industry Size, Business Prospects and Forecast 2023"
+    excerpt: "In 2018, the worldwide GDP stood at USD 84,740.3 Billion as compared to the GDP of USD 80,144.5 Billion in 2017, marked"
+    publishedDateTime: 2020-11-12T08:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-report-2020-expected-growth-and-its-factors-cagr-industry-size-business-prospects-and-forecast-2023-2020-11-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "KW4q9Z/3L/Juj0A4854exmeFLpSi+4smLTAXKbSKqq+4tLg3DXXvbS40N72rgwUXXzkZQNW3PeB3ib2h4o3RVYlIh0f9f325/yace50Q5QJV1N4DUzeUMKcIz+Ceu1LjfjV5WFF+YdQHd5ex/cgvewfXD/sFB4vkg2D/dnPv3D4r2+3iN6eJWxEgZlDGugDhu8NKX8vVmERDkultmt+bslXnOJiPdxbW3b4OxsU9WxQoD7bcz3+AEOCL6IQ54+Zo9lxlEKarQJazqfktU6oUtMWFXBX+MmB7BqZvirResDkM5rnALBzY+VMYn5XnUfC64WzqrnG1EgThCmtQwmO7uiMpBpWEpyybLbumkgUHqsU=;kUJCcdAnSmxrkev29Plvzg=="
 ---

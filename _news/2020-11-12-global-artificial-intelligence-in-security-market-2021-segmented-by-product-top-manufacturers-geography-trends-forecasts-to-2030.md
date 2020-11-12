@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Machine Learning Market 2020 Industry Scenario, Strategies, Growth Factors and Forecast to 2026"
+    excerpt: "The latest informative study entitled Global Machine Learning Market 2020 by Company, Regions, Type and Application, Forecast to 2026 released for the database of MarketsandResearch.biz helps a reader to understand the market in depth."
+    publishedDateTime: 2020-11-12T07:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-2020-industry-scenario-strategies-growth-factors-and-forecast-to-2026-2020-11-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice recognition Market Size, Share and Growth Analysis to be worth more than $ 150 Bn by 2026"
     excerpt: "Global Voice recognition market is projected to amass over $150 billion by 2026, according to the latest research available at Market Study Report LLC, report provides extensively data on market share,"
     publishedDateTime: 2020-11-10T12:24:00Z
@@ -96,6 +110,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ixbJHjUJfzRRQZTQA6r+dASPbMAmsHHVMbM930sRZEsHhdoqb5sv2NbW7kIzwC5xczyYe3UDsYQvGkV9HKi87HHXNesoUSC7ux3uTyEBJ29rYnh+FeAotZHoRQ3rGMVWzil/mE0grpt7kqPVIOuAjLRS5j6EchvobIqjiwQSkgCiPYLpaqf/DATt1zvGl8YWP/jO5TrABSLVV5ZkIUI/HUK0PlDktlZa+011yiv6BsPj8nbAtaali6dABILBXzcbh5dFn7vLI9AFQQBBLemETE3SiGvhS7gah2AsRaIZsr8txPeT02lfo89aDSPQvsW3qeIcoWx9uEGDSR9ddwtn7voU+WJtjFNK9Ne0/+ODBo0=;rK4zzB+7XY865Lk6AXt35Q=="
+secured: "y1cpGc21DMaWORKVNyfIhVGII9SIZZodLqTgCaEQhcQh7wV8ZONzoDRKWG/adqwH4RO7sUQ9cHSbOEUHlLwifkJWSNPXfwJ/qoJpm0qvc0rmRBTsR++FeC4a7XI5bOgpcCeXQMnOQF0261qhn3oW5OykTuVmfDiJEpE7bnPbQI2jdueFGLvwUFA4WRxyZm9HDi0ijx+5VZvHZMJe+OcoCS285G3wMF3DMDWa4byVfg79qOopDeCZi9ueUfCH10OohzR/kKpGvb8CPBkmz/Wq97otN+IsouvmrBqbzc0vi2zwMOk6MSHSmYGiUjCsPYGO96cIKt3CoOlztIejVV2PUWgCa1EVuC1l4OY/Z9SuWT1qKKPs+A/6ZFtz3lP0soXTjngVuo82j7T6PqWPRQG6zW7Td5NYrEu4y+Q3l995lIcpjL9SsZ8AlnVHUxJkbYNsNHPKgwRMgQdIqNG0huli0iRnMV4NLSCqSz/NzvAnUKN12KaHAo3Ip20JbGlUqBy+6gkeLZMQYBTE5sUAtFRYIQ==;hbalG/+mWeeB/s+10vZ9Ag=="
 ---
 

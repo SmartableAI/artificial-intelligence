@@ -54,6 +54,15 @@ related:
         width: 768
         height: 511
         isCached: true
+  - title: "Snap to buy Israeli startup Voca.ai for USD 70 mln - report"
+    excerpt: "Snap has reportedly agreed to buy startup Voca.ai, an Israeli company specialised in making AI-based voice assistants for customer support services, for an estimated USD 70 million, Calcalistech. The publication said the company,"
+    publishedDateTime: 2020-11-12T08:56:00Z
+    webUrl: "https://www.telecompaper.com/nieuws/snap-to-buy-israeli-startup-vocaai-for-usd-70-mln-report--1361569"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
 
 secured: "x9L8MrUtg+VzP+G9BQ40CRk7lRuHTRqB6GCrdCH4gSyhKpS4/juhV6M00ZnnRBDwJWI/6X9nG/hAEjzpgyJ33lM7NRcI9ucxEfzWBHyiO1/V0+XK3vMilaLaI6cHjrSr7au8+vvZ05D8mdIKKeMymOoUWVHaraQXBDcjufINrBsnjDSX/jjBPsTHKbdreKtNISDqkAoKtI+w26NDrnWTLHNdNqPintOigjwD9VB984Z1SZLhMa20yM/wn9+6wRyEm0c1wE6yksl6zBWr5I03FtuyTU+NfCfpIc1MF0cngGDjmFwfe/+QoM1V7rDYpAqeG8e76qjhkxdPE5UU5BGDJbfdasqrZzfbJ7ExTAoXlN9akAWx1n/go4ZwwiztCeoUeQeNZXH1LscTjG6R8qHq3QJ8NFxAENfkjKACvoYPSlWz7mrzSuNN00mfIcIFkYhnw4MK8zVN1vxfBIC6OTLEcxfmjGZJEX+wCGx5H0LPlK8SnguCnmFi4u24s7GbunVnMoKnVOEETW6yBpGPEBNmVQ==;wg+JFARd3wOoEeYXRnbcXQ=="
 ---

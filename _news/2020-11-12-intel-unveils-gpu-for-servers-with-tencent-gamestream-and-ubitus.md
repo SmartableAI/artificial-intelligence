@@ -35,9 +35,9 @@ related:
   - title: "Intel debuts GPU for the data centre with a focus on Android cloud gaming"
     excerpt: "Intel has debuted its first discrete graphics processing unit (GPU) for the data centre, Intel Server GPU, which is based on the Xe-LP architecture and is designed specifically for high-density, low-latency Android cloud gaming and media streaming."
     publishedDateTime: 2020-11-11T06:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/intel-debuts-gpu-for-the-data-centre-with-a-focus-on-android-cloud-gaming/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/intel-debuts-gpu-for-the-data-centre-with-a-focus-on-android-cloud-gaming/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/intel-debuts-gpu-for-the-data-centre-with-a-focus-on-android-cloud-gaming/"
+    webUrl: "https://www.zdnet.com/article/intel-debuts-gpu-for-the-data-centre-with-a-focus-on-android-cloud-gaming/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/intel-debuts-gpu-for-the-data-centre-with-a-focus-on-android-cloud-gaming/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-debuts-gpu-for-the-data-centre-with-a-focus-on-android-cloud-gaming/"
     type: article
     provider:
       name: ZDNet

@@ -2,6 +2,48 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-10-16-weaponized-tweets-ai-could-help-defend-against-adversary-attacks-in-social-media.md",
+      "title": "Weaponized Tweets: AI Could Help Defend Against Adversary Attacks in Social Media",
+      "excerpt": "This article was submitted to War on the Rocks in response to the call for ideas issued by the co-chairs of the National Security Commission on Artificial Intelligence, Eric Schmidt and Robert Work. It addresses the first question, which asks authors to a ...",
+      "sourceUrl": null,
+      "webUrl": "https://warontherocks.com/2020/10/weaponized-tweets-artificial-intelligence-could-help-defend-against-adversary-attacks-in-social-media/",
+      "originalUrl": "https://warontherocks.com/2020/10/weaponized-tweets-artificial-intelligence-could-help-defend-against-adversary-attacks-in-social-media/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://warontherocks.com/wp-content/uploads/2020/10/cazaresbanner.jpg",
+          "width": 1330,
+          "height": 874,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-16T00:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "War on the Rocks",
+        "domain": "warontherocks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-down-914-in-september.md",
       "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Short Interest Down 91.4% in September",
       "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) was the target of a significant drop in short interest during the month of September. As of September 30th, there was short interest totalling 3,",
@@ -1092,49 +1134,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-europe-unveils-4-new-ai-supercomputers-based-on-nvidia-architecture.md",
-      "title": "Europe unveils 4 new AI supercomputers based on Nvidia architecture",
-      "excerpt": "Computer graphics chipmaker Nvidia Corp. said today the European High-Performance Computing Joint Undertaking is using its accelerated computing platforms and architecture to build four new supercomputers that will propel Europe to the forefront of supercomputing research.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2020/10/15/europe-unveils-4-new-ai-supercomputers-based-nvidia-architecture/",
-      "originalUrl": "https://siliconangle.com/2020/10/15/europe-unveils-4-new-ai-supercomputers-based-nvidia-architecture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/CinecaHQ.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

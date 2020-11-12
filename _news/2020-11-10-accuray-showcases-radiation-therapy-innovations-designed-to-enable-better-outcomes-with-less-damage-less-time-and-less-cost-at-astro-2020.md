@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Accuray Showcases Radiation Therapy Innovations Designed to Enable Better Outcomes with Less Damage, Less Time, and Less Cost, at ASTRO 2020"
-excerpt: "PRNewswire/ -- Accuray Incorporated (NASDAQ: ARAY) announced today that innovations in hardware and software solutions and clinical data presented at"
-publishedDateTime: 2020-11-10T11:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/accuray-showcases-radiation-therapy-innovations-designed-to-enable-better-outcomes-with-less-damage-less-time-and-less-cost-at-astro-2020-301169232.html"
-webUrl: "https://www.prnewswire.com/news-releases/accuray-showcases-radiation-therapy-innovations-designed-to-enable-better-outcomes-with-less-damage-less-time-and-less-cost-at-astro-2020-301169232.html"
+excerpt: "New Standard in Radiation Treatment Delivery With more than a decade of clinical proof behind Synchrony ® Motion Synchronization and Real-Time Adaptive Radiotherapy Technology for the CyberKnife System,"
+publishedDateTime: 2020-11-10T12:52:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/accuray-showcases-radiation-therapy-innovations-designed-to-enable-better-outcomes-with-less-damage-less-time-and-less-cost-at-astro-2020-1029786294"
+webUrl: "https://markets.businessinsider.com/news/stocks/accuray-showcases-radiation-therapy-innovations-designed-to-enable-better-outcomes-with-less-damage-less-time-and-less-cost-at-astro-2020-1029786294"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/accuray-showcases-radiation-therapy-innovations-designed-to-enable-better-outcomes-with-less-damage-less-time-and-less-cost-at-astro-2020-1029786294"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/accuray-showcases-radiation-therapy-innovations-designed-to-enable-better-outcomes-with-less-damage-less-time-and-less-cost-at-astro-2020-1029786294"
 type: article
-quality: 4
-heat: 4
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/320376/accuray_incorporated_logo.jpg?p=facebook"
-    width: 2700
-    height: 1413
-    isCached: true
-
-secured: "CM4xovhGjL1prIlMKPssrUq+PPj9uD2MTMebp0NgwBR3Cab+Vy5BrmenTw13LGtBHffxRBYqJKbKvPKJGVEfVFxUlG1Ap2CXqJmiVIrwjjvsZuL1dlkNz/pALPyMbLfcwkxJIsnPoiprhICUFHOfG9bHzpOwcaBIQIoxP933bC+CGrRsWuXu3ePSvLUNP36Rfmr7wSoLHyZgkC4A+Z/Vd9AIeD0dkb2GixGIPAUjXpBWaUNEJiUJGql6VBot06PRmBpHtcJ30osgAw/keXYohgWx0nxo6td0w3IBo2di9SLK5EA9yq/cUvFpCpFyno/wjH2lfV8bxcvIlRTyDQQNxVpox63Cs4eS78UmAntGeY0=;TwZhwv6hxPM/AzXAAhbnLw=="
+secured: "u+noUiUCdA2NULh+vswJxZioVF27atNQ6xEcs3PxSPt+PvRIcGkeWxtp8RLVepx7U84S2lmzgaLCFUvRs/HF+OKS1u5cb349CtaYDLsqTzEUMJX/yW/vPzzMaRH0NbYhiuYgVtx4YMqylSwZ5+IGuEKH1yfyVo4VCS5TocbHqMZ6+ig3Yc882XP+RRIinQc4JpB8C6bjdnWQ0OlOw77GZnlZHvBFxO/lqlkZPIuwo7vEJAO5t+liqeTpOnyHBWDtkr5rR5D/Y2E1rfmZehgjARi90pS3B0DbBjOeulqfdVMg+VlCNCnjCpBJYs2cnuo9wI60enBIF9kH0FYmGMfDYEgs1pw2VHj6oSikXuXnA3E=;27hlgQ691VaSaPe4u+05zA=="
 ---
 
