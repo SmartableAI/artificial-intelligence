@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/11/top-reasons-the-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/11/top-reasons-the-investment-spigot-is-reopening-for-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Where is my self-driving car? Here is why they are taking so long"
+    excerpt: "A few years ago, news stories seemed to say that autonomous vehicles were just a few years away. So where are they?"
+    publishedDateTime: 2020-11-12T10:03:00Z
+    webUrl: "https://www.app.com/story/money/industries/technology/2020/11/12/where-my-self-driving-car-here-why-they-taking-so-long/6223735002/"
+    ampWebUrl: "https://amp.app.com/amp/6223735002"
+    cdnAmpWebUrl: "https://amp-app-com.cdn.ampproject.org/c/s/amp.app.com/amp/6223735002"
+    type: article
+    provider:
+      name: app.com
+      domain: app.com
+    quality: 44
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/09/PAPP/573035f9-a48c-4fc2-9893-8237388a4aad-AP20304406106665.jpg?auto=webp&crop=5208,2930,x0,y130&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Waymo Reveals Every Collision Involving Its Self-Driving Cars in Phoenix"
     excerpt: "Self-driving cars are set to revolutionize our roads, although exactly when is much debated. Until recently these vehicles all relied on a human backup driver who could take over a self-driving car are set to revolutionize our roads, although exactly when ..."
     publishedDateTime: 2020-11-09T16:24:00Z

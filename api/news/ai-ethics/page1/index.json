@@ -336,6 +336,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-03-an-enlightened-future-with-ai.md",
+      "title": "An Enlightened Future with AI",
+      "excerpt": "The year of 2020 has proved to be a challenging year defined mostly across the world by a global pandemic and as a result an increasing shift towards digital. The decisions that we make now and in the",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/enlightened-future-ai-imtiaz-adam/",
+      "originalUrl": "https://www.linkedin.com/pulse/enlightened-future-ai-imtiaz-adam/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQFh5BNx5U2Vlg/article-cover_image-shrink_720_1280/0?e=1610582400&v=beta&t=OsBJtpSsJgt5DYuwT6CdxOUm1n3vDe0mLlkapOwnM5Y",
+          "width": 1152,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-02T13:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-blockchain-aims-to-solve-ai-ethics-and-bias-issues.md",
       "title": "Blockchain aims to solve AI ethics and bias issues",
       "excerpt": "Many Machine Learning and AI algorithms are centralized, with no transparency in the process. Now a blockchain-based start-up aims to improve transparency bias in business workflows",
@@ -1373,59 +1425,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-ai-artificial-intelligence-governance-how-to-get-it-right.md",
-      "title": "AI (Artificial Intelligence) Governance: How To Get It Right",
-      "excerpt": "AI (Artificial Intelligence) concept. Deep learning. GUI (Graphical User Interface). getty. AI (Artificial Intelligence) governance is about evaluating and monitoring algorithms f",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/10/10/ai-artificial-intelligence-governance-how-to-get-it-right/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2020/10/10/ai-artificial-intelligence-governance-how-to-get-it-right/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f821dc276c3f7d5c600d9df%2F0x0.jpg%3FcropX1%3D150%26cropX2%3D9337%26cropY1%3D0%26cropY2%3D5168",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/10/10/ai-artificial-intelligence-governance-how-to-get-it-right/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/10/10/ai-artificial-intelligence-governance-how-to-get-it-right/amp/",
-      "publishedDateTime": "2020-10-10T14:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

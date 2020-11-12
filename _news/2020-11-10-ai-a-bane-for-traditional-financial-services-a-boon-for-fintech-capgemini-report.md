@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/info-tech/ai-a-bane-for-traditi
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ai-a-bane-for-traditional-financial-services-a-boon-for-fintech-capgemini-report/article33063906.ece/amp/"
 type: article
 quality: 53
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://img.resized.co/businesspost/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvaW1lbmdpbmUucHVibGljLnByb2Quc2JwLmluZm9tYWtlci5pbz91dWlkPTBjMTI2Y2Y5LWE3NGQtNTYwZC05Y2EyLTlmYjkxNjBlODJhMCZ0eXBlPXByZXZpZXcmcT04MCZoZWlnaHQ9MjQ4OC4wODEzOTUzNDg4JndpZHRoPTQ0MTgmZnVuY3Rpb249Y3JvcHJlc2l6ZSZ4PTAmeT0wLjA2Mzk1MzQ4ODM3MjA5MzAzJmNyb3Bfdz0wLjk5OTk5OTk5JmNyb3BfaD0wLjg3MjA5MzAxMzI1NTgxXCIsXCJ3aWR0aFwiOjY0NyxcImhlaWdodFwiOjM0MCxcImRlZmF1bHRcIjpcImh0dHA6XFxcL1xcXC9zMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbVxcXC9zdG9yYWdlLnB1Ymxpc2hlcnBsdXMuaWVcXFwvbWVkaWEuYnVzaW5lc3Nwb3N0LmllXFxcL3NicC1uby1pbWFnZS5wbmdcIn0iLCJoYXNoIjoiOTM4NmE1MDI2ZDdkMTllYTUwZjc3ZDcwZDllZTQxNDdjNzRlZmQxYiJ9/ai-a-perfect-fit-for-financial-services.87209301325581"
         width: 647
         height: 340
+        isCached: true
+  - title: "Why financial services brands need to plan for the three phases of AI innovation"
+    excerpt: "By James Hobbs, Head of Development, Great State Digital transformation is accelerating in many areas of business, but with people forced to stay at home and social distancing likely to become a long-term feature of daily life,"
+    publishedDateTime: 2020-11-12T10:29:00Z
+    webUrl: "https://www.globalbankingandfinance.com/why-financial-services-brands-need-to-plan-for-the-three-phases-of-ai-innovation/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 34
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/11/Untitled-design-38.jpg"
+        width: 750
+        height: 422
         isCached: true
   - title: "While AI Has Provided Significant Benefits for Financial Services Organizations, Challenges Have Limited Its Full Potential"
     excerpt: "COVID-19 has catalyzed financial services organizations to harness Artificial Intelligence (AI) to improve customer experience (CX); however, challenges in integration and customer perceptions are undermining its potential."

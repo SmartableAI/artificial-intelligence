@@ -2,6 +2,152 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-10-30-waymos-driverless-cars-were-involved-in-18-accidents-over-20-months.md",
+      "title": "Waymo’s driverless cars were involved in 18 accidents over 20 months",
+      "excerpt": "Major stakeholders like Pony.ai, Baidu, Tesla, Argo.AI ... to test what results from the use of software that embodies self-driving cars’ automation with a broad, agreed-upon framework in ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/30/waymos-driverless-cars-were-involved-in-18-accidents-over-20-month/",
+      "originalUrl": "https://venturebeat.com/2020/10/30/waymos-driverless-cars-were-involved-in-18-accidents-over-20-month/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/waymo-ipace-e1572290208222.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/30/waymos-driverless-cars-were-involved-in-18-accidents-over-20-month/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/30/waymos-driverless-cars-were-involved-in-18-accidents-over-20-month/amp/",
+      "publishedDateTime": "2020-10-30T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-ibm-smart-lineup-decisions-for-nfl-week-8.md",
+      "title": "IBM Smart Lineup Decisions for NFL Week 8",
+      "excerpt": "That's where IBM Insights comes in, as they use Watson AI to break down all of the content you're consuming and then some. And by \"some\", I mean every inch of the interwebs. Below are the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.espn.com/fantasy/football/story/_/page/smartlineup201030/ibm-smart-lineup-decisions-nfl-week-8",
+      "originalUrl": "https://www.espn.com/fantasy/football/story/_/page/smartlineup201030/ibm-smart-lineup-decisions-nfl-week-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F1030%2Fr768310_1296x729_16%2D9.jpg",
+          "width": 1296,
+          "height": 729,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.espn.com/fantasy/football/story/_/page/smartlineup201030/ibm-smart-lineup-decisions-nfl-week-8?platform=amp",
+      "cdnAmpWebUrl": "https://www-espn-com.cdn.ampproject.org/c/s/www.espn.com/fantasy/football/story/_/page/smartlineup201030/ibm-smart-lineup-decisions-nfl-week-8?platform=amp",
+      "publishedDateTime": "2020-10-30T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ESPN",
+        "domain": "espn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-ai-technology-can-enhance-human-centered-work-instead-of-threaten-it.md",
+      "title": "AI Technology Can Enhance Human-Centered Work Instead Of Threaten It",
+      "excerpt": "Samasource, a training data and validation company, believes AI can enhance how we work. The company operates with care for its employees and communities, showing that advanced technology solutions do not have to be the enemy of a human-centered workforce.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/christophermarquis/2020/10/30/ai-technology-can-enhance-human-centered-work-instead-of-threaten-it/",
+      "originalUrl": "https://www.forbes.com/sites/christophermarquis/2020/10/30/ai-technology-can-enhance-human-centered-work-instead-of-threaten-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9bf2c78d0cace826a29403%2F0x0.jpg",
+          "width": 1200,
+          "height": 713,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/christophermarquis/2020/10/30/ai-technology-can-enhance-human-centered-work-instead-of-threaten-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christophermarquis/2020/10/30/ai-technology-can-enhance-human-centered-work-instead-of-threaten-it/amp/",
+      "publishedDateTime": "2020-10-30T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-daimler-invests-in-lidar-startup-to-bolster-self-driving-truck-effort.md",
       "title": "Daimler Invests in Lidar Startup to Bolster Self-Driving Truck Effort",
       "excerpt": "Daimler AG’s truck unit is investing in a laser-sensor startup to bolster its development of self-driving trucks in the U.S. less than a week after striking a deal to use driverless technology from a unit of Google parent Alphabet Inc. Daimler Truck AG ...",
@@ -1061,154 +1207,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-microsoftmitre-group-declares-war-on-machine-learning-vulnerabilities-with-adversarial-ml-threat-matrix.md",
-      "title": "Microsoft/MITRE group declares war on machine learning vulnerabilities with Adversarial ML Threat Matrix",
-      "excerpt": "Attacks on machine learning are far more common than many security analysts admit and most are unprepared to deal with them. The extraordinary advances in machine learning that drive the increasing accuracy and reliability of artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/microsoftmitre-group-declares-war-machine-learning-vulnerabilities-adversarial-ml-threat-matrix",
-      "originalUrl": "https://diginomica.com/microsoftmitre-group-declares-war-machine-learning-vulnerabilities-adversarial-ml-threat-matrix",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2020-08/cybersecurity.jpg",
-          "width": 1644,
-          "height": 1052,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/microsoftmitre-group-declares-war-machine-learning-vulnerabilities-adversarial-ml-threat-matrix?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/microsoftmitre-group-declares-war-machine-learning-vulnerabilities-adversarial-ml-threat-matrix?amp",
-      "publishedDateTime": "2020-10-29T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care.md",
-      "title": "Google AI executive sees a world of trillions of devices untethered from human care",
-      "excerpt": "Google says hardware in embedded devices needs to improve to make possible a world of peel-and-stick sensors free of wall power and human maintenance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/",
-      "originalUrl": "https://www.zdnet.com/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/10/29/470db163-bd0f-42db-884d-a81b219a724d/warden-2020-what-tinyml-needs-from-hardware.png",
-          "width": 3331,
-          "height": 1816,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/",
-      "publishedDateTime": "2020-10-29T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-robot-boats-from-mit-can-now-carry-passengers.md",
-      "title": "Robot boats from MIT can now carry passengers",
-      "excerpt": "The latest \"Roboat\" is an autonomous vehicle that's about six feet long and is being tested for use in Amsterdam.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/robot-boats-from-mit-can-now-carry-passengers/",
-      "originalUrl": "https://www.techrepublic.com/article/robot-boats-from-mit-can-now-carry-passengers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/10/29/fefd8537-d5cb-474a-ad8f-727c76b9358e/resize/1200x/db81d351348f41e33e4312f1e43dfa1f/mit-roboat-ii-close.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/robot-boats-from-mit-can-now-carry-passengers/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/robot-boats-from-mit-can-now-carry-passengers/",
-      "publishedDateTime": "2020-10-29T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

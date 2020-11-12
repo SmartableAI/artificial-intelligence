@@ -41,6 +41,20 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Why financial services brands need to plan for the three phases of AI innovation"
+    excerpt: "By James Hobbs, Head of Development, Great State Digital transformation is accelerating in many areas of business, but with people forced to stay at home and social distancing likely to become a long-term feature of daily life,"
+    publishedDateTime: 2020-11-12T10:29:00Z
+    webUrl: "https://www.globalbankingandfinance.com/why-financial-services-brands-need-to-plan-for-the-three-phases-of-ai-innovation/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 34
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/11/Untitled-design-38.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "While AI Has Provided Significant Benefits for Financial Services Organizations, Challenges Have Limited Its Full Potential"
     excerpt: "COVID-19 has catalyzed financial services organizations to harness Artificial Intelligence (AI) to improve customer experience (CX); however, challenges in integration and customer perceptions are undermining its potential."
     publishedDateTime: 2020-11-09T19:30:00Z

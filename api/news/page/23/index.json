@@ -2,6 +2,127 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-10-22-debate-over-banning-facial-recognition-technology-continues.md",
+      "title": "Debate over banning facial recognition technology continues",
+      "excerpt": "Federal authorities were able to make an arrest with the help of facial recognition technology. Yet some at Baltimore City Hall are pushing to ban it. Shortly after city leaders debated whether to ban facial recognition technology,",
+      "sourceUrl": null,
+      "webUrl": "https://foxbaltimore.com/news/local/debate-over-banning-facial-recognition-technology-continues",
+      "originalUrl": "https://foxbaltimore.com/news/local/debate-over-banning-facial-recognition-technology-continues",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static-28.sinclairstoryline.com/resources/media/e695342f-3f53-48c7-b5fa-2e9701a5f780-large16x9_DFGVGHBJHKL.PNG?1603357023547",
+          "width": 986,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-22T01:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Baltimore",
+        "domain": "foxbaltimore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-nvidia-chips-again-smash-ai-performance-records.md",
+      "title": "Nvidia chips again smash AI performance records",
+      "excerpt": "Graphic chip maker Nvidia has once again smashed performance records for its AI computing platform in the latest benchmark test rounds of MLPerf, extending its lead on AI performance of hardware, software and services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sify.com/news/nvidia-chips-again-smash-ai-performance-records-news-education-ukwelEgfajdbe.html",
+      "originalUrl": "https://www.sify.com/news/nvidia-chips-again-smash-ai-performance-records-news-education-ukwelEgfajdbe.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sify.com/uploads/nvidia_chip_ians_ukvnDpcacajgj.jpeg",
+          "width": 950,
+          "height": 616,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sify.com/news/nvidia-chips-again-smash-ai-performance-records-news-education-ukwelEgfajdbe.html",
+      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/nvidia-chips-again-smash-ai-performance-records-news-education-ukwelEgfajdbe.html",
+      "publishedDateTime": "2020-10-22T01:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-data-reply-achieves-aws-machine-learning-competency-status.md",
+      "title": "Data Reply Achieves AWS Machine Learning Competency Status",
+      "excerpt": "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/10/b18008856/data-reply-achieves-aws-machine-learning-competency-status",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/b18008856/data-reply-achieves-aws-machine-learning-competency-status",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18008856",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18008856",
+      "publishedDateTime": "2020-10-22T01:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-adobes-new-ai-experiment-syncs-your-dance-moves-perfectly-to-the-beat.md",
       "title": "Adobe’s new AI experiment syncs your dance moves perfectly to the beat",
       "excerpt": "TikTok has made on-beat dances and movements mainstream. But what if you went offbeat or the video you recorded had some lag to your perfect dance moves. Adobe can fix that for you. The company showed off an AI-powered experiment at its Adobe Max conference that syncs your off-beat movement to the beat of the",
@@ -1075,152 +1196,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-white-house-nears-new-rules-on-artificial-intelligence.md",
-      "title": "White House Nears New Rules on Artificial Intelligence",
-      "excerpt": "The Trump administration prefers what U.S. Chief Technology Officer Michael Kratsios has called a ‘light-touch’ approach toward regulating AI, to avoid holding back U.S. leadership in the field.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366",
-      "originalUrl": "https://www.wsj.com/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-247890/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/white-house-nears-new-rules-on-artificial-intelligence-11603300366",
-      "publishedDateTime": "2020-10-21T15:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-on-nebraska-innovation-campus-the-combine-incubator-hatches-new-agtech-startups.md",
-      "title": "On Nebraska Innovation Campus, The Combine incubator hatches new agtech startups",
-      "excerpt": "Before Seattle-based Costco broke ground on its $280 million poultry operation in Fremont in 2017, Scott Niewohner remembers a conversation with his cousin about the pros and cons of building barns to raise chickens to supply the plant.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconprairienews.com/2020/10/on-nebraska-innovation-campus-the-combine-incubator-hatches-new-agtech-startups/",
-      "originalUrl": "https://siliconprairienews.com/2020/10/on-nebraska-innovation-campus-the-combine-incubator-hatches-new-agtech-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://siliconprairienews.com/wp-content/uploads/2020/10/combine-shot-1-scaled-e1603316002886.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-21T14:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Silicon Prairie News",
-        "domain": "siliconprairienews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-google-is-reportedly-supplying-ai-technology-to-the-trump-administrations-virtual-border-wall.md",
-      "title": "Google is reportedly supplying AI technology to the Trump administration's virtual border wall",
-      "excerpt": "Documents reportedly show that Google Cloud's technology will be used in tandem with Anduril to erect Trump's virtual border wall.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-trump-virtual-border-wall-anduril-2020-10",
-      "originalUrl": "https://www.businessinsider.com/google-trump-virtual-border-wall-anduril-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f908d59abcd0c0018d68e63?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/google-trump-virtual-border-wall-anduril-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-trump-virtual-border-wall-anduril-2020-10?amp",
-      "publishedDateTime": "2020-10-21T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

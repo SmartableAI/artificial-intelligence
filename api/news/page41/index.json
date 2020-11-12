@@ -2,6 +2,144 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2020-10-09-israels-use-of-artificial-intelligence-will-change-the-future-of-war.md",
+      "title": "Israel’s Use of Artificial Intelligence Will Change the Future of War",
+      "excerpt": "War is always going to be fought with people and weapons. It is also always going to involve “platforms,” such as tanks and the capabilities they have. It is important to understand that in discussions of the future of warfare the issue is not just about the person or the platform but also tying it all together.",
+      "sourceUrl": null,
+      "webUrl": "https://nationalinterest.org/blog/buzz/israel’s-use-artificial-intelligence-will-change-future-war-170415",
+      "originalUrl": "https://nationalinterest.org/blog/buzz/israel’s-use-artificial-intelligence-will-change-future-war-170415",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nationalinterest.org/sites/default/files/main_images/C795%20%281%29_0.jpg",
+          "width": 1600,
+          "height": 1119,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nationalinterest.org/blog/buzz/israel%E2%80%99s-use-artificial-intelligence-will-change-future-war-170415?amp",
+      "cdnAmpWebUrl": "https://nationalinterest-org.cdn.ampproject.org/c/s/nationalinterest.org/blog/buzz/israel%E2%80%99s-use-artificial-intelligence-will-change-future-war-170415?amp",
+      "publishedDateTime": "2020-10-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Interest",
+        "domain": "nationalinterest.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-microsoft-azure-synapse-raises-the-data-management-bar.md",
+      "title": "Microsoft Azure Synapse Raises the Data Management Bar",
+      "excerpt": "First some basics on what Azure Synapse is. Azure Synapse is an analytics service that brings enterprise data into analytics and machine learning. Formerly known as Azure SQL Data Warehouse ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/digital-marketing/microsoft-azure-synapse-raises-the-data-management-bar/",
+      "originalUrl": "https://www.cmswire.com/digital-marketing/microsoft-azure-synapse-raises-the-data-management-bar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/882e9d6b9f3c4eb082dd739d9a12cceb.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/digital-marketing/microsoft-azure-synapse-raises-the-data-management-bar/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/microsoft-azure-synapse-raises-the-data-management-bar/amp/",
+      "publishedDateTime": "2020-10-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-self-driving-car-ux-shifting-gears-from-stony-silence-to-avid-chitchat.md",
+      "title": "Self-Driving Car UX Shifting Gears From Stony Silence To Avid Chitchat",
+      "excerpt": "What happens when you get into a self-driving car that you requested as a pick-up for your trip to a local store or another such itinerary? Few people have ridden in a self-driving car and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/09/self-driving-car-ux-shifting-gears-from-stony-silence-to-avid-chitchat/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/09/self-driving-car-ux-shifting-gears-from-stony-silence-to-avid-chitchat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7ffbf0679484988e4395bb%2F0x0.jpg",
+          "width": 1200,
+          "height": 590,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/09/self-driving-car-ux-shifting-gears-from-stony-silence-to-avid-chitchat/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/09/self-driving-car-ux-shifting-gears-from-stony-silence-to-avid-chitchat/amp/",
+      "publishedDateTime": "2020-10-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-the-responsible-innovation-framework-for-the-age-of-ai.md",
       "title": "The Responsible Innovation Framework For The Age Of AI",
       "excerpt": "This year, with facial recognition, privacy, and ethics gaining more attention in the marketplace, technology leaders are increasingly thinking about AI’s impact on people’s lives.",
@@ -1030,128 +1168,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-grid-ai-from-the-makers-of-pytorch-lightning-emerges-from-stealth-with-186m-series-a-to-close-the-gap-between-ai-research-and-production.md",
-      "title": "Grid AI, From the Makers of PyTorch Lightning, Emerges From Stealth With $18.6m Series A to Close the Gap Between AI Research and Production",
-      "excerpt": "While doing his PhD at NYU and part-time at Facebook AI Research, Falcon created PyTorch Lightning, one of the fastest growing machine learning frameworks in the world, amassing over 600k ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201008005227/en/Grid-AI-From-the-Makers-of-PyTorch-Lightning-Emerges-From-Stealth-With-18.6m-Series-A-to-Close-the-Gap-Between-AI-Research-and-Production",
-      "originalUrl": "https://www.businesswire.com/news/home/20201008005227/en/Grid-AI-From-the-Makers-of-PyTorch-Lightning-Emerges-From-Stealth-With-18.6m-Series-A-to-Close-the-Gap-Between-AI-Research-and-Production",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201008005227/en/828546/23/sisters_SymWord_1128x191_%281%29.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-elucid-bios-vascucap-enters-ibm-imaging-ai-marketplace.md",
-      "title": "Elucid Bio’s vascuCAP enters IBM Imaging AI Marketplace",
-      "excerpt": "Elucid Bioimaging Inc. (“Elucid Bio”) today announced that vascuCAP, Elucid Bio’s AI-enabled software for evaluating atherosclerotic plaque stability from CTA, has been added to the IBM Imaging AI Marketplace,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-cardiovascular-disease-north-america-arteriosclerosis-massachusetts-e91ccd7f88e542c69ff516f65678cebe",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-cardiovascular-disease-north-america-arteriosclerosis-massachusetts-e91ccd7f88e542c69ff516f65678cebe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-h2oai-brings-automl-to-equifax-ignite-with-driverless-ai.md",
-      "title": "H2O.ai brings AutoML to Equifax Ignite with Driverless AI",
-      "excerpt": "--(BUSINESS WIRE)--H2O.ai, the open source leader in artificial intelligence (AI) and machine learning (ML), today announced the availability of H2O AutoML and Driverless AI within Equifax Ignite",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201008005266/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20201008005266/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

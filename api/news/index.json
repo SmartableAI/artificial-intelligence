@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-12-how-ai-can-help-combat-slavery-and-free-40-million-victims.md",
+      "title": "How AI Can Help Combat Slavery And Free 40 Million Victims",
+      "excerpt": "Emerging technology, including artificial intelligence, can help combat slavery by revealing trends in payments and helping identify victims to police.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/11/12/how-ai-can-help-combat-slavery-and-free-40-million-victims/",
+      "originalUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/11/12/how-ai-can-help-combat-slavery-and-free-40-million-victims/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faa6f2cec660f3c8a133f08%2F0x0.jpg",
+          "width": 1200,
+          "height": 852,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/11/12/how-ai-can-help-combat-slavery-and-free-40-million-victims/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/worldeconomicforum/2020/11/12/how-ai-can-help-combat-slavery-and-free-40-million-victims/amp/",
+      "publishedDateTime": "2020-11-12T02:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-christian-frahms-united-fintech-to-ease-banks-digitization.md",
       "title": "Christian Frahm’s United Fintech to Ease Bank’s Digitization",
       "excerpt": "Fintech veteran Christian Frahm has launched United Fintech, a company that is aiming to provide banks and other financial institutions access to capital market-focused digital technologies.",
@@ -615,7 +667,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/11/top-reasons-the-investment-spigot-is-reopening-for-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1219,58 +1271,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-researchers-propose-physical-ai-as-key-to-lifelike-robots.md",
-      "title": "Researchers Propose ‘Physical AI’ As Key To Lifelike Robots",
-      "excerpt": "This combined discipline of \"physical AI\" could effectively be the missing link in the attempt to create artificially intelligent robots that look and behave like humans, the Imperial College London team suggests.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/simonchandler/2020/11/11/researchers-propose-physical-ai-as-key-to-lifelike-robots/",
-      "originalUrl": "https://www.forbes.com/sites/simonchandler/2020/11/11/researchers-propose-physical-ai-as-key-to-lifelike-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fabd7b213e5c462adfa8f21%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/simonchandler/2020/11/11/researchers-propose-physical-ai-as-key-to-lifelike-robots/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/11/11/researchers-propose-physical-ai-as-key-to-lifelike-robots/amp/",
-      "publishedDateTime": "2020-11-11T04:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

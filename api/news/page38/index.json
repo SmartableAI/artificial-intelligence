@@ -2,6 +2,154 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-10-13-microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs.md",
+      "title": "Microsoft wants AI to be more helpful for people who are blind or use wheelchairs",
+      "excerpt": "Transparency and Ethics (FATE) in AI group, said in the blog post. SEE: Natural language processing: A cheat sheet (TechRepublic) Topic areas range from personalized image recognition for blind or low-vision people to improved facial recognition for people ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/",
+      "originalUrl": "https://www.techrepublic.com/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2018/06/28/1491d2a1-5b91-4521-a753-791b9f03ed42/resize/1200x/0a58b39878159fc665d3cd9d948840c6/istock-873015278.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs/",
+      "publishedDateTime": "2020-10-12T13:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-elon-musk-says-autopilot-self-driving-beta-will-start-next-tuesday.md",
+      "title": "Elon Musk Says Autopilot Self-Driving Beta Will Start Next Tuesday",
+      "excerpt": "After a complete rewrite of Autopilot and specifically the upcoming FSD (Full Self-Driving) feature, Tesla CEO Elon Musk has tweeted that a closed beta test of the system will be rolling out next ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.caranddriver.com/news/a34347927/tesla-autopilot-fsd-self-driving-beta/",
+      "originalUrl": "https://www.caranddriver.com/news/a34347927/tesla-autopilot-fsd-self-driving-beta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/tesla-autopilot-graphic-1555955220.jpg?crop=0.767xw:0.790xh;0.109xw,0&resize=1200:*",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.caranddriver.com/news/amp34347927/tesla-autopilot-fsd-self-driving-beta/",
+      "cdnAmpWebUrl": "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp34347927/tesla-autopilot-fsd-self-driving-beta/",
+      "publishedDateTime": "2020-10-12T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Car and Driver",
+        "domain": "caranddriver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-12-how-cogability-and-the-university-of-florida-are-using-watson-to-build-the-future-of-education.md",
+      "title": "How CogAbility and the University of Florida are using Watson to build the future of education",
+      "excerpt": "As they do every fall, 55,000 students descended on the University of Florida this year. But with mask and physical distancing guidelines, alterations to policies on campus gatherings, and new behavioral expectations, operating and attending a university during a pandemic is anything but business as",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/10/how-cogability-and-the-university-of-florida-are-using-watson-to-build-the-future-of-education/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/10/how-cogability-and-the-university-of-florida-are-using-watson-to-build-the-future-of-education/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/10/Watson_UF_ChatBot_Blog_Leadspace_Final_1-2-990x498.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-12T12:28:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-when-ai-hurts-people-who-is-held-responsible.md",
       "title": "When AI hurts people, who is held responsible?",
       "excerpt": "How to determine whether a human was at fault when AI plays a role in a person’s injury or death is no easy task. If AI is in control and something goes wrong, when is it the human’s fault and ...",
@@ -1056,143 +1204,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-ai-is-throwing-battery-development-into-overdrive.md",
-      "title": "AI Is Throwing Battery Development Into Overdrive",
-      "excerpt": "Improving batteries has always been hampered by slow experimentation and discovery processes. Machine learning is speeding it up by orders of magnitude.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-is-throwing-battery-development-into-overdrive/",
-      "originalUrl": "https://www.wired.com/story/ai-is-throwing-battery-development-into-overdrive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f80cab2941317efa4fcd52b/master/pass/Sec_lithiumion_1159460136.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ai-is-throwing-battery-development-into-overdrive/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-is-throwing-battery-development-into-overdrive/amp",
-      "publishedDateTime": "2020-10-12T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-on-heels-of-100m-funding-round-olive-expands-healthcare-ai-capabilities.md",
-      "title": "On heels of $100M funding round, Olive expands healthcare AI capabilities",
-      "excerpt": "Healthcare software startup Olive is expanding its artificial intelligence capabilities to assist healthcare workers with day-to-day tasks like prior authorizations and insurance verifications. The company's new Olive Helps platform,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fiercehealthcare.com/tech/heels-100m-funding-round-olive-expands-healthcare-ai-capabilities",
-      "originalUrl": "https://www.fiercehealthcare.com/tech/heels-100m-funding-round-olive-expands-healthcare-ai-capabilities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://qtxasset.com/fiercehealthcare/1602270586/GettyImages-899023542.jpg/GettyImages-899023542.jpg?s6QSCLVsKF0j8yq07lPNxxduzW8zU.ex",
-          "width": 6584,
-          "height": 4395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fierce Healthcare",
-        "domain": "fiercehealthcare.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-intels-hyderabad-ai-centre-to-focus-on-road-safety-health.md",
-      "title": "Intel’s Hyderabad AI centre to focus on road safety, health",
-      "excerpt": "Hyderabad, Oct 12 (IANS) Chip-making giant Intel on Monday said its newly launched applied Artificial Intelligence (AI) research centre in Hyderabad will focus on identifying and solving challenges in the healthcare and smart mobility segments through strong ecosystem collaboration.",
-      "sourceUrl": null,
-      "webUrl": "https://newsd.in/intel-s-hyderabad-ai-centre-to-focus-on-road-safety-health/",
-      "originalUrl": "https://newsd.in/intel-s-hyderabad-ai-centre-to-focus-on-road-safety-health/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://newsd.in/wp-content/uploads/2020/10/7d5acabd43d2a9d0db88a1ae63b5211f.jpg",
-          "width": 400,
-          "height": 255,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newsd.in/intel-s-hyderabad-ai-centre-to-focus-on-road-safety-health/amp/",
-      "cdnAmpWebUrl": "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/intel-s-hyderabad-ai-centre-to-focus-on-road-safety-health/amp/",
-      "publishedDateTime": "2020-10-12T04:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsd",
-        "domain": "newsd.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

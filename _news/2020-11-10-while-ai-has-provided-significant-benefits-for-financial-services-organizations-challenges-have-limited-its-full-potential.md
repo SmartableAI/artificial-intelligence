@@ -54,6 +54,20 @@ related:
         width: 647
         height: 340
         isCached: true
+  - title: "Why financial services brands need to plan for the three phases of AI innovation"
+    excerpt: "By James Hobbs, Head of Development, Great State Digital transformation is accelerating in many areas of business, but with people forced to stay at home and social distancing likely to become a long-term feature of daily life,"
+    publishedDateTime: 2020-11-12T10:29:00Z
+    webUrl: "https://www.globalbankingandfinance.com/why-financial-services-brands-need-to-plan-for-the-three-phases-of-ai-innovation/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 34
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/11/Untitled-design-38.jpg"
+        width: 750
+        height: 422
+        isCached: true
 
 secured: "zoxFc1948Bs2HQRL29uJeBoLZJhRaInEQsWx/r6nwTh56egE1ZU/YJBjwjhc9/ECVDKDanJYYmYaHPusCm0V1t9MIDmPaqj42jXhy+GwzaOMOY4G6APC4joBgWnhPHXl65tm3G4B//EryQB5mD/GVTogG37S5azISgj/QaXDFYtm8JTN/uE1xvwR06KLiYzc9KGc9aHehSvFUY+CiUjKHZT3O/coEzJLd6cuzeOJskDx1jZOqihbLai5I2HMgi2gL2bXEiyZGApJ2JOH7j7a51TpREvU3oY08nfuctJAc8sRmK6637KFPaZAJxTlrzZYVSXOc0jpZZlgWQiuCupr866XovI9GKKv+EUHYzHizHQ=;MV0kwF362r3W/J3ZmQCVlQ=="
 ---

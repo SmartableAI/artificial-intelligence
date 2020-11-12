@@ -6,8 +6,8 @@ publishedDateTime: 2020-11-12T08:19:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-report-2020-expected-growth-and-its-factors-cagr-industry-size-business-prospects-and-forecast-2023-2020-11-12"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-report-2020-expected-growth-and-its-factors-cagr-industry-size-business-prospects-and-forecast-2023-2020-11-12"
 type: article
-quality: 46
-heat: 46
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI in Education
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
