@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 552
+heat: 545
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 6479679
+  followers: 6479928
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "TgthI/eZGGJqjsewhkgyROMnntpLeg48vRw4cHqOY7XVe2MB+Ig1kOEkJqHQYGMOk90rT4bwZoZdG/Sc8EmybbaZsN5jU0zG+0DNvPxw7Fa8k7uesvvu6b0+R9DXhfVLAOc5OhEcBCOfFFopUUiZ5rvbSDZHvPEvR86ZOCRjjxF/7a+gnSx1DnJAwdTVHAN+VeTbSHiUeN9uUTitRxgPQrfmAGglKmPngYAiM4GZEpg11GB3p7yAKT+fMWPOHGHjQFtZvrjckwoJlS6Qbx2Iv8VdIlTMSFeOUmjNTaZ5DGXrUPqZkS02OJmLMNuYShrrvDoBhKsHj7V5J+1GNu0OH1xUeZZ9MMx2DjcLDQzNkS13nOlFBhQRyKAAnsTzsE/8jms+VmroANQauTfhUK4ysjnzqcda6R2nGwCLB3fofCs=;j4xq3y/pIm3D6UbuOXcB6Q=="
+secured: "FLkAwbjqDdH/qy1kCWAI10SlcxN9IXcszZ71ftyxjTqhZuSAoWBuIfvvQ2JlyspqgfBtWrGy6wWDAjIte0qYERJKsaq5m2vUbDC2kvXeTf/FXXdUG+xCFLiUtlYfjOz6f1kwLbcL2PzsH6URDdobTqX+9ImUQgQ8R462I1Ki+uY3UA2bqFAjlP2906Z8+0E7dN61yyDjRykkHydP71hPPtAp0Tj5Wsh2JieayAGh9z4Xv6LyQrwta+p74PeBT7WKizkzUY6QwsZiHMN6YTWSVh4TckmkEnGM+slQfYDi93gqeip6ZdyPsj/SblpU8GP4sG05wwMO6UebHNL0ocCasusv1/kF3yUBqQ6f18xigYAZGSoLAN8ql6aooPFJ8SGzKWtGTzoY/kwBvBq0Ikzynw9pdM0W8z97gXxKbnCRI7E=;QtjQJM0gtQ+I55NF/XCdfQ=="
 ---
 
