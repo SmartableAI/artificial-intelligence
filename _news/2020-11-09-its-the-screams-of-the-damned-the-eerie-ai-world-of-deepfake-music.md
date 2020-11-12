@@ -2,9 +2,9 @@
 category: news
 title: "'It's the screams of the damned!' The eerie AI world of deepfake music"
 excerpt: "Artificial intelligence is being used to create new songs seemingly performed by Frank Sinatra and other dead stars. ‘Deepfakes’ are cute tricks – but they could change pop for ever"
-publishedDateTime: 2020-11-09T12:32:00Z
-originalUrl: "https://www.theguardian.com/music/2020/nov/09/deepfake-pop-music-artificial-intelligence-ai-frank-sinatra"
-webUrl: "https://www.theguardian.com/music/2020/nov/09/deepfake-pop-music-artificial-intelligence-ai-frank-sinatra"
+publishedDateTime: 2020-11-09T12:40:00Z
+originalUrl: "https://www.theguardian.com/music/2020/nov/09/deepfake-pop-music-artificial-intelligence-ai-frank-sinatra?fbclid=IwAR0hPaiZbc3mmkUYMlV-uez95EJu1k120TQCUA9PJdfnmedeWm4n1xFkhzk"
+webUrl: "https://www.theguardian.com/music/2020/nov/09/deepfake-pop-music-artificial-intelligence-ai-frank-sinatra?fbclid=IwAR0hPaiZbc3mmkUYMlV-uez95EJu1k120TQCUA9PJdfnmedeWm4n1xFkhzk"
 ampWebUrl: "https://amp.theguardian.com/music/2020/nov/09/deepfake-pop-music-artificial-intelligence-ai-frank-sinatra"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/music/2020/nov/09/deepfake-pop-music-artificial-intelligence-ai-frank-sinatra"
 type: article
@@ -59,6 +59,6 @@ related:
         height: 400
         isCached: true
 
-secured: "6PhsyvOPcgXIK/KuLCcvxyKRl5LljIVLJHnrnvo8l8ycnaSW0CKcNxrkGFE4FnfiU/pItTC/ghZ32Qk4NMtnXAo70HVdw0crpyiq/35q+ZSHp0s269MqxiEiisukpdUmx1+gDP+0r82IYMQZeh/NReV2bRaT3ppbi1lm3VQNDdqR77eA3o3lHtMYDuWMfXJ9dYGua0DIlXD022QyOKlTYoDg9Vcm9Rb1ynBXvGgcbGV/glvo8+MTqaeYT8Ul+0WQfKdjqAZFbGwBi6m4wLtn81eiWcp1uZNlaB7zBvCq7UVeMAHaQStuIN9e7WtKgiPVHnwiCtIJeXILIGzkiJLv3i7R1iI10OSi6CKnbHdkaK6G1UdREGLB8NsVm3g5Hk9mRqB5BLSiUsxfJR1onw42X5R64vhEuDFKObH3xxSBIgvGfiMhR5MbBaemWbfD3Xcj5Inf/c2cTVmAT0cRxp63UOyzqIFMoxnk7ASuRxQnCVTCRQuMx0EDY9auxDI9KxgvahM3S9Yq3gw/IgJ/XMMkNQ==;YNrgYOQpPpreDvttCfFUWQ=="
+secured: "OdicmLrVor76gcF+vV8Oguo7GOOSWRXABha8V7UTAjHLepePYf3QQykk0aw+mElpyb/aG1PB3P7yQChmIQ2L5T2P3ZQgfp/or4iKC2G0ora0Q/LTJ2MrC8a8PJatrE2L+q2mqV4ma+144ajLLlZaSGq8g7Qd1e6XuYR6DRmUASFBHWEdy1c7xlmDKXL9q+dQnTjq+eUhTA6zfboc1YEYrTYHgtR93snj4AI6+LbQVK8exVbXeCJIaAq7OD1CkN44ph9ceBGiiwu6T1wfS0u/RGJ6enpkhdcPOh3mr39TdhXobNIvb1Mb8iivMUAXxMCzuNyvMIVTK8BNcTKH/FSH1AQgPGEw6xqnlcQuVszPVzM=;l8920QajDnsZifioga1eug=="
 ---
 
