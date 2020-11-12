@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-12-bmw-writes-code-of-ethics-for-ai-in-collaboration-with-the-eu.md",
+      "title": "BMW writes code of ethics for AI in collaboration with the EU",
+      "excerpt": "To deal with some very real concerns regarding artificial intelligence, BMW has begun working on a code of ethics for AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bmwblog.com/2020/10/12/bmw-writes-code-of-ethics-for-ai/",
+      "originalUrl": "https://www.bmwblog.com/2020/10/12/bmw-writes-code-of-ethics-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bmwblog.com/wp-content/uploads/2020/10/P90403207_highRes_seven-principles-for.jpg",
+          "width": 1755,
+          "height": 1241,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BMW BLOG",
+        "domain": "bmwblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-11-ai-artificial-intelligence-governance-how-to-get-it-right.md",
       "title": "AI (Artificial Intelligence) Governance: How To Get It Right",
       "excerpt": "AI (Artificial Intelligence) concept. Deep learning. GUI (Graphical User Interface). getty. AI (Artificial Intelligence) governance is about evaluating and monitoring algorithms f",

@@ -59,38 +59,6 @@ related:
         width: 1008
         height: 567
         isCached: true
-  - title: "Read Trent Reznor’s Rock and Roll Hall of Fame Induction Speech for Nine Inch Nails"
-    excerpt: "This journey’s far from over — if I have any say in it — so let’s stop fucking around, patting ourselves on the back and get to it”"
-    publishedDateTime: 2020-11-07T20:46:00Z
-    webUrl: "https://www.rollingstone.com/music/music-news/trent-reznor-nine-inch-nails-rock-and-roll-hall-of-fame-speech-1086568/"
-    ampWebUrl: "https://www.rollingstone.com/music/music-news/trent-reznor-nine-inch-nails-rock-and-roll-hall-of-fame-speech-1086568/amp/"
-    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/music/music-news/trent-reznor-nine-inch-nails-rock-and-roll-hall-of-fame-speech-1086568/amp/"
-    type: article
-    provider:
-      name: Rolling Stone
-      domain: rollingstone.com
-    quality: 53
-    images:
-      - url: "https://www.rollingstone.com/wp-content/uploads/2020/11/The_Rock_and_Roll_Hall_of_Fame_2020_Inductions_Trent3.jpg"
-        width: 1620
-        height: 1080
-        isCached: true
-  - title: "Watch Trent Reznor’s Rock and Roll Hall of Fame Induction Speech for Nine Inch Nails"
-    excerpt: "This journey’s far from over — if I have any say in it — so let’s stop fucking around, patting ourselves on the back and get to it”"
-    publishedDateTime: 2020-11-07T20:46:00Z
-    webUrl: "https://www.rollingstone.com/music/music-news/trent-reznor-nine-inch-nails-rock-and-roll-hall-of-fame-speech-1086568/"
-    ampWebUrl: "https://www.rollingstone.com/music/music-news/trent-reznor-nine-inch-nails-rock-and-roll-hall-of-fame-speech-1086568/amp/"
-    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/music/music-news/trent-reznor-nine-inch-nails-rock-and-roll-hall-of-fame-speech-1086568/amp/"
-    type: article
-    provider:
-      name: Rolling Stone
-      domain: rollingstone.com
-    quality: 52
-    images:
-      - url: "https://www.rollingstone.com/wp-content/uploads/2020/11/The_Rock_and_Roll_Hall_of_Fame_2020_Inductions_Trent3.jpg"
-        width: 1620
-        height: 1080
-        isCached: true
 
 secured: "D+G08fYLwNZs5VNmYiZlIU6S3zyGH7qmlu1MH6vlpXkASp9ZZQGykvWwcjBtGCM03MbcUaDvz9hl/ZXGg7ouuJDAQZEi9IJ9zqWPfXSrMvkzNM+QNt+RiIqvO7TyXI2XN/FWKMBnVdSEjNSu3C0ACbNDjntGImlpWYRERO/hIJE980Y1BnWEMWjD2SLTPGMhP1LlGC9T6AQG5kBQwXRIHSou0XlsSdgzi3I+pIDbu00TA0UvenMz5KF9rpzdQfXCReYXV/l83JLPO3KhQxWfNNxSr6/gJgmomHlsK86F4oJiX0TywJ7UnyBhbwrX+dwi9UQR5QUJw1MnBYVyID682kp66KcDBZZibwaKARq+31Lnc9jeJk74ESZe2vW1SIznKOPGoAfNCMwdepePD+1bj+GP5zGmBUyA0/MoWWwjMjl5IgJplPm7n05PtVFyTjIeBNveihnBdyPr5sKb0d2HFRwnZTtHnEmfO+1eqOsLjRsd3Jex9FM5rxug+yYxUoluBsbzXSCrGKG5nxBxGaMYrQ==;b5hnA52jIOPhccYpmueZ2w=="
 ---

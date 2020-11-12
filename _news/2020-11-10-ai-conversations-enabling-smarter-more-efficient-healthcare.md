@@ -53,6 +53,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
+  - title: "THE NATIONAL ARTIFICIAL INTELLIGENCE INSTITUTE"
+    excerpt: "The Veterans Affairs health care system already applying Artificial Intelligence AI to improve the diagnosis and treatment of veterans."
+    publishedDateTime: 2020-11-12T12:02:00Z
+    webUrl: "https://www.defensemedianetwork.com/stories/va-research-the-national-artificial-intelligence-institute/"
+    type: article
+    provider:
+      name: defensemedianetwork.com
+      domain: defensemedianetwork.com
+    quality: 39
+    images:
+      - url: "https://www.defensemedianetwork.com/wp-content/uploads/2020/11/Docs-at-microscopes_r1.jpg"
+        width: 1000
+        height: 550
+        isCached: true
 
 secured: "+hKy+21VN8llrFHKOK8yhU6xr7PHxFZPVnmAZZjfHtgjYa+EBM2TR0/8Dlq+GSuulTPZ9n0hv2ZNn2ksXWBuz7UWg9Gg35IGCx9WXA9AL3yWu2bKggVLh65gV//Lf/6q1a3qI+/h9+yTKxPa1gvF1v3oZGb/wdpysH3NQUgJ0TQCmQartqQvaXrI5eS7KVrKRSH8WcGATOrOvteFiTwA9Cte5Tk2Rv/D5YdGA+jsq+f8ngftzoyNQ9/BWXpxv2wVejZTmFWiwuBxLMx7wcQ5eWBm3UIVB0EFxW+5ibChmMdCNYGsXZJKIwvCXWE3pzw2gSKvmzbvMcrGU2OEsbYhYfVZ6HoLVXON9VO21kypUQnfa3oxE+QQhbt3565jZn3IriRiA/gu2MD1eNocwC5P3q8awofxv6dFVekaAKijTePU8GChW0XW55C3Zb777+nY55piDZwxoUmGXD+Q8JPd28TBsN2r50Z1/+CBrGY9ePsbMZ95KTmov9Ya2KFv4osVhAvpE4e4o12bydDGoPqBrA==;okmqAlnot1f/Km9bInfHSg=="
 ---

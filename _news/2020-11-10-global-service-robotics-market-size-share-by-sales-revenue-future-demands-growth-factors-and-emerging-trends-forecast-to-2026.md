@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-service-robotics-
 webUrl: "https://www.marketwatch.com/press-release/global-service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026-2020-11-10"
 type: article
 quality: 72
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -99,6 +99,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence-based Security Market 2021: Forecast, Size, Growth, Opportunities, And Trends By 2030"
+    excerpt: "Market.Biz :COVID-19 Analysis: Turn massive Artificial Intelligence-based Security Market challenges into meaningful change. Its not post-pandemic, its intra-pandemic. Were still in it, and the implications for Artificial Intelligence-based Security Market are long-reaching."
+    publishedDateTime: 2020-11-12T10:43:00Z
+    webUrl: "https://apnews.com/press-release/wired-release/technology-business-corporate-news-diseases-and-conditions-products-and-services-52b8b371f729bdf885d124e4f79762ca"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 31
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Global Artificial Intelligence in Security Market 2021: Segmented By Product, Top Manufacturers, Geography Trends & Forecasts To 2030"
     excerpt: "Market.Biz –:COVID-19 Analysis: Turn massive Artificial Intelligence in Security Market challenges into | eTurboNews | Trends | Travel News Online |"

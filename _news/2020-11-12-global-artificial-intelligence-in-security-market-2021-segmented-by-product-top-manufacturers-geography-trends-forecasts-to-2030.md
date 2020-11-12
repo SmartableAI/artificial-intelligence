@@ -109,6 +109,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence-based Security Market 2021: Forecast, Size, Growth, Opportunities, And Trends By 2030"
+    excerpt: "Market.Biz :COVID-19 Analysis: Turn massive Artificial Intelligence-based Security Market challenges into meaningful change. Its not post-pandemic, its intra-pandemic. Were still in it, and the implications for Artificial Intelligence-based Security Market are long-reaching."
+    publishedDateTime: 2020-11-12T10:43:00Z
+    webUrl: "https://apnews.com/press-release/wired-release/technology-business-corporate-news-diseases-and-conditions-products-and-services-52b8b371f729bdf885d124e4f79762ca"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 31
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "y1cpGc21DMaWORKVNyfIhVGII9SIZZodLqTgCaEQhcQh7wV8ZONzoDRKWG/adqwH4RO7sUQ9cHSbOEUHlLwifkJWSNPXfwJ/qoJpm0qvc0rmRBTsR++FeC4a7XI5bOgpcCeXQMnOQF0261qhn3oW5OykTuVmfDiJEpE7bnPbQI2jdueFGLvwUFA4WRxyZm9HDi0ijx+5VZvHZMJe+OcoCS285G3wMF3DMDWa4byVfg79qOopDeCZi9ueUfCH10OohzR/kKpGvb8CPBkmz/Wq97otN+IsouvmrBqbzc0vi2zwMOk6MSHSmYGiUjCsPYGO96cIKt3CoOlztIejVV2PUWgCa1EVuC1l4OY/Z9SuWT1qKKPs+A/6ZFtz3lP0soXTjngVuo82j7T6PqWPRQG6zW7Td5NYrEu4y+Q3l995lIcpjL9SsZ8AlnVHUxJkbYNsNHPKgwRMgQdIqNG0huli0iRnMV4NLSCqSz/NzvAnUKN12KaHAo3Ip20JbGlUqBy+6gkeLZMQYBTE5sUAtFRYIQ==;hbalG/+mWeeB/s+10vZ9Ag=="
 ---

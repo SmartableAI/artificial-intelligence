@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "IBM, AMD ink joint development pact for security, Artificial Intelligence offerings"
+    excerpt: "This will also support a broad range of accelerators across high-performance computing (HPC), and enterprise-critical capabilities such as virtualisation and encryptions."
+    publishedDateTime: 2020-11-12T12:06:00Z
+    webUrl: "https://www.newindianexpress.com/business/2020/nov/12/ibm-amd-ink-joint-development-pact-for-security-artificial-intelligenceofferings-2222892.html"
+    ampWebUrl: "https://www.newindianexpress.com/business/2020/nov/12/ibm-amd-ink-joint-development-pact-for-security-artificial-intelligenceofferings-2222892.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2020/nov/12/ibm-amd-ink-joint-development-pact-for-security-artificial-intelligenceofferings-2222892.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 70
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2019/12/25/w600X390/declare_AI.jpg"
+        width: 600
+        height: 390
+        isCached: true
   - title: "IBM and AMD Begin Cooperation on Cybersecurity and AI"
     excerpt: "AMD and IBM began work on a cybersecurity and AI program built on \"open-source software, open standards, and open system architectures.\""
     publishedDateTime: 2020-11-11T13:45:00Z

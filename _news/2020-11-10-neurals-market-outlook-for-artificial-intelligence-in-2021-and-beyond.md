@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/11/09/neurals-market-outlook-for-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/09/neurals-market-outlook-for-artificial-intelligence-in-2021-and-beyond/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/11/robot.AI_.world_.GettyImages-640351083.jpg?w=1200&strip=all"
         width: 1200
         height: 637
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) in Medical Market 2021: Outlook And Trends With Analysis Of Leading Players, 2030"
+    excerpt: "Market.Biz :COVID-19 Analysis: Turn massive Artificial Intelligence (AI) in Medical Market challenges into meaningful change. Its not post-pandemic, its intra-pandemic. Were still in it, and the implications for Artificial Intelligence (AI) in Medical Market are long-reaching."
+    publishedDateTime: 2020-11-12T10:43:00Z
+    webUrl: "https://apnews.com/press-release/wired-release/technology-business-science-corporate-news-diseases-and-conditions-b2f3e09e0e4ae0358279841fce9ae282"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 29
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "c+msq8UV3+2bw160lDpZQt+Klayv9lrtNnOkgIEwOwf6ORu5KXrCnta53UVSsnvxwW82Lt7UUEM+yEALSIJ3yDXLnP3XPSHUVlA7xwYKzKwClkl1hgt9YVOd5F7yyPUtb3BXWJH3LJROO3LlPkw2znPWMyCQpWQSlcJUt7yBnNPhFGv1u+UO+DgRh011NQ+l9pih46JS7guPjff1OSNcszHf878VVAKtZoA+YU97415FyYhL/q201IeftjB4vc9aFKS1CqHp9jvLXlnjKIi28vcCeN0oJZUBgQE/ucLsvZzbz4ZcI3cRWw3tcU6+P/GNRSxmdU3oHFxk12J/UdYrwdajH4kL+6TZxyexcAXo9ndmLQo30zA/1TKULM49qcw0IbS9XL5L9gp+3JYUjrsR1S1SHkcPegDZLnnYL58naTpckNcZ1efI913cwOmYwlpXlokeD3CBPOv77wS79LGYYBbuvbtF87E5ZTZ1onUKpyTcomcf2U4/r+8Q9o8+NpHK+G505E4Q7xNhIpB/ElNWLw==;m0CWtQGFyBNd8d3QL92UhA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/googlecloud/2020/11/10/3-ways-conversat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2020/11/10/3-ways-conversational-ai-gives-your-organization-a-competitive-advantage/amp/"
 type: article
 quality: 88
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
+  - title: "THE NATIONAL ARTIFICIAL INTELLIGENCE INSTITUTE"
+    excerpt: "The Veterans Affairs health care system already applying Artificial Intelligence AI to improve the diagnosis and treatment of veterans."
+    publishedDateTime: 2020-11-12T12:02:00Z
+    webUrl: "https://www.defensemedianetwork.com/stories/va-research-the-national-artificial-intelligence-institute/"
+    type: article
+    provider:
+      name: defensemedianetwork.com
+      domain: defensemedianetwork.com
+    quality: 39
+    images:
+      - url: "https://www.defensemedianetwork.com/wp-content/uploads/2020/11/Docs-at-microscopes_r1.jpg"
+        width: 1000
+        height: 550
+        isCached: true
 
 secured: "GvlWw5By4jxZURN8Xb8WdHW2o8yB+RGSLRVkA3ZNqqNMgrymj5dWUFukXPmkTPbwphgR3A4vUDXUz81uk53H0KaQJWjwKDgADVGMfIZe9taHZMTUUFa1u07YkbQE+OOCcpXdGCtOK3m1FLBZC9IYvwthcLIkDLyD0n2V49FCDvaBRWyC6wueLWmhNjk+eiCVNe73UTkbhGS/3q57/z6UoXiNxPL404ArxLA++cB0AkzLUnZRcvhh8zsspT7aGrIAGlAjZhRORW6wfFpkkWnVtBZeW29g+X3b4A0lQuntQEnaQ6EERT+4lQ3cXf+3x91kEEDF32+pZzJZXx+Ij0fvG2euSm6mUDP1ZCrLuMbU8DukUeZy3tUnyx70M0HcOuGQOetqujtaid/CtOR0+1wcnHCf+pVPKzATvyVq9oyJsUATyWXb9pAqqEdotWLtQlGA1ipRNZvLc5Pt1MuXNeGXubeLTqSJ+MfJ4P5JzOnmPpdy6rmaWgTxwDW101O1PQUzgua6elBoUjVia1teoxnZfQ==;emmkQc0nanRZE9QbVMzWxw=="
 ---

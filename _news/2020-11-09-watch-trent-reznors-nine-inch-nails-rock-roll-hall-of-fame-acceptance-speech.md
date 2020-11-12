@@ -43,38 +43,6 @@ related:
         width: 648
         height: 324
         isCached: true
-  - title: "Read Trent Reznor’s Rock and Roll Hall of Fame Induction Speech for Nine Inch Nails"
-    excerpt: "This journey’s far from over — if I have any say in it — so let’s stop fucking around, patting ourselves on the back and get to it”"
-    publishedDateTime: 2020-11-07T20:46:00Z
-    webUrl: "https://www.rollingstone.com/music/music-news/trent-reznor-nine-inch-nails-rock-and-roll-hall-of-fame-speech-1086568/"
-    ampWebUrl: "https://www.rollingstone.com/music/music-news/trent-reznor-nine-inch-nails-rock-and-roll-hall-of-fame-speech-1086568/amp/"
-    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/music/music-news/trent-reznor-nine-inch-nails-rock-and-roll-hall-of-fame-speech-1086568/amp/"
-    type: article
-    provider:
-      name: Rolling Stone
-      domain: rollingstone.com
-    quality: 53
-    images:
-      - url: "https://www.rollingstone.com/wp-content/uploads/2020/11/The_Rock_and_Roll_Hall_of_Fame_2020_Inductions_Trent3.jpg"
-        width: 1620
-        height: 1080
-        isCached: true
-  - title: "Watch Trent Reznor’s Rock and Roll Hall of Fame Induction Speech for Nine Inch Nails"
-    excerpt: "This journey’s far from over — if I have any say in it — so let’s stop fucking around, patting ourselves on the back and get to it”"
-    publishedDateTime: 2020-11-07T20:46:00Z
-    webUrl: "https://www.rollingstone.com/music/music-news/trent-reznor-nine-inch-nails-rock-and-roll-hall-of-fame-speech-1086568/"
-    ampWebUrl: "https://www.rollingstone.com/music/music-news/trent-reznor-nine-inch-nails-rock-and-roll-hall-of-fame-speech-1086568/amp/"
-    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/music/music-news/trent-reznor-nine-inch-nails-rock-and-roll-hall-of-fame-speech-1086568/amp/"
-    type: article
-    provider:
-      name: Rolling Stone
-      domain: rollingstone.com
-    quality: 52
-    images:
-      - url: "https://www.rollingstone.com/wp-content/uploads/2020/11/The_Rock_and_Roll_Hall_of_Fame_2020_Inductions_Trent3.jpg"
-        width: 1620
-        height: 1080
-        isCached: true
   - title: "WATCH: Nine Inch Nails’ Trent Reznor Deliver His Rock And Roll Hall Of Fame Acceptance Speech"
     excerpt: "It was revealed last week that Nine Inch Nails would be among the inductees into the 2020 Rock And Roll Hall Of Fame, alongside Depeche Mode, The Doobie Brothers, Whitney Houston, The Notorious B.I.G."
     publishedDateTime: 2020-11-10T14:22:00Z

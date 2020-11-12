@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2020/11/aws-cto-roundtable-disruptions-transfo
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/aws-cto-roundtable-disruptions-transforming-healthtech/amp"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 800
     height: 400
     isCached: true
-
-related:
-  - title: "AWS to launch second infrastructure region in India by mid-2022"
-    excerpt: "Amazon Web Services (AWS) has announced the expansion of its services to include a second infrastructure region in India by mid-2022. The new AWS Asia Region, which will consist of three Availability Zones at launch,"
-    publishedDateTime: 2020-11-09T08:56:00Z
-    webUrl: "https://www.telecompaper.com/news/aws-to-launch-second-infrastructure-region-in-india-by-mid-2022--1360958"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "VS8+nMzIRXiLg/nBGGZQh46wfmzdoMdsc/Cx1LNNSA9FWs6Zw/r2pvQxzrnGumK+I0/4pL712YUEYmP/n/AbIBfe8abDIphe7mQTWXCpKEaVLrSsclBhalraNwZZcEgAckZZvQc+dVOrZ8aKYuU8z83boZ3s8JX6sqIFXOUUjP4gxxaZpgPwTJ0wwcRPJYnS9DTJHYjww2uUxATzOlE1XVu9TTDL7kV4cKsOZg1qixyIXHvYtBFzusKyRYS621zThCr0DW1RvdjzWzlg8hnSHBE9OFve3FJYaxqoPOiG3LH8daTLehAWMOtFFtd8u/avxZ/LqelmohZJnPk/KpbfJ43QC8r6KLDxYRhSbAVEyzQC6RLCwMJE3PshP/NP50+gYHtqxTql5BaU8zN88FENakOrH5gKJNvpURReW0E+AeNUi0KcniIUW/KVhIq3MIBQxnN93r2ev9Un4z9LVQPsvfd50Q5akBW5VN79qqhhf4N6wKCz4Vv4V2OCGNRnBNs9rQzpvATx5mhVLsuVdwle2g==;t+Du4Nx8JrcZdLUR4LH+gQ=="
 ---

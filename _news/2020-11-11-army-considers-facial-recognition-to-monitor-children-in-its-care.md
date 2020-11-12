@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Schools Are Using a Facial Recognition Scanner That Detects Face Masks"
-    excerpt: "In addition to that, GoSafe also comes with sophisticated facial recognition technology. After U.S. school districts pushed to reopen, there was a pressing need for temperature-taking devices. While some school boards were initially apprehensive of the inclusion of facial recognition,"
-    publishedDateTime: 2020-11-11T12:24:00Z
-    webUrl: "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20909/Schools-Are-Using-a-Facial-Recognition-Scanner-That-Detects-Face-Masks.aspx"
-    ampWebUrl: "https://mobile.engineering.com/amp/20909.html"
-    cdnAmpWebUrl: "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20909.html"
+  - title: "Activists urge EU to ban live facial recognition in public spaces"
+    excerpt: "Digital rights advocates in five European countries launched a campaign Thursday to spotlight the increasing use of facial recognition and other biometric identification technology across the Continent,"
+    publishedDateTime: 2020-11-12T12:10:00Z
+    webUrl: "https://www.politico.eu/article/activists-urge-eu-to-ban-live-facial-recognition-in-public-spaces/"
+    ampWebUrl: "https://www.politico.eu/article/activists-urge-eu-to-ban-live-facial-recognition-in-public-spaces/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/activists-urge-eu-to-ban-live-facial-recognition-in-public-spaces/amp/"
     type: article
     provider:
-      name: Engineering
-      domain: engineering.com
-    quality: 59
+      name: POLITICO
+      domain: politico.eu
+    quality: 61
     images:
-      - url: "https://www.engineering.com/portals/0/BlogFiles/75_ima1.png"
-        width: 530
-        height: 560
+      - url: "https://www.politico.eu/wp-content/uploads/2020/11/GettyImages-1228906152-1200x628.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Army to evaluate facial recognition in day care centers"
     excerpt: "Through a demonstration of the technology, the Army expects to learn whether facial recognition technologies can improve family quality of life, reduce base costs and enhance mission readiness."

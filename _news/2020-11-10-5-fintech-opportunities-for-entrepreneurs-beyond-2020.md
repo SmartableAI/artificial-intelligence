@@ -70,20 +70,6 @@ related:
         width: 600
         height: 421
         isCached: true
-  - title: "AI and ML benefit for the Fintech industry"
-    excerpt: "Let’s take a look at how FinTech companies took advantage of these technologies by employing them for different purposes, and is it worth investing in these technologies at all. Before diving into the use cases of AI and ML in fintech and banking software development,"
-    publishedDateTime: 2020-11-09T14:00:00Z
-    webUrl: "https://augustafreepress.com/ai-and-ml-benefit-for-the-fintech-industry/"
-    type: article
-    provider:
-      name: Augusta Free Press
-      domain: augustafreepress.com
-    quality: 56
-    images:
-      - url: "https://augustafreepress.com/wp-content/uploads/2020/07/business-1.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "FinTech firm for the fashion industry raises £1.35m"
     excerpt: "Purple Dot, the ‘worth-the-wait’ payment option for fashion brands, today announces its seed round of £1.35m, led by Connect Ventures, with support from, AI Seed, Moxxie Ventures, Andy Chung"
     publishedDateTime: 2020-11-09T08:51:00Z
@@ -97,20 +83,6 @@ related:
       - url: "https://londonlovesbusiness.com/wp-content/uploads/2019/08/Boohoo.jpg"
         width: 660
         height: 371
-        isCached: true
-  - title: "China’s AI Expansion Could Shift the Fintech Balance of Power"
-    excerpt: "Shen thinks about how the battle for supremacy in AI will evolve in the near future, and what the implications of China’s advances in the field might mean"
-    publishedDateTime: 2020-11-11T14:31:00Z
-    webUrl: "https://www.waterstechnology.com/management-strategy/7709126/chinas-ai-expansion-could-shift-the-fintech-balance-of-power"
-    type: article
-    provider:
-      name: WatersTechnology
-      domain: waterstechnology.com
-    quality: 39
-    images:
-      - url: "https://www.waterstechnology.com/sites/waterstechnology/files/styles/metatag_image/public/2020-11/GettyImages-1153303958.jpg?itok=9p2pq1i7"
-        width: 378
-        height: 234
         isCached: true
   - title: "Oil & Gas specialist Trajan Consulting announces new bespoke Fintech, AI and Agile division for GCC"
     excerpt: "As the ADIPEC Virtual Strategic Conference kicks off, the company aims to help the sector implement intense methodologies focused on improving processes"

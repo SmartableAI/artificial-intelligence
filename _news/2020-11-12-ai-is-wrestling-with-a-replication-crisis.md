@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2020/11/12/1011944/artificial-intellig
 ampWebUrl: "https://www.technologyreview.com/2020/11/12/1011944/artificial-intelligence-replication-crisis-science-big-tech-google-deepmind-facebook-openai/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/11/12/1011944/artificial-intelligence-replication-crisis-science-big-tech-google-deepmind-facebook-openai/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2020/11/Replicate-2_up.jpg?w=3000"
@@ -25,6 +26,6 @@ images:
     height: 1688
     isCached: true
 
-secured: "8Ar1Lrgzac0iBO06IN+dk2roSKJCtiIcFFatdKVhQ9vuUc8/0eKVoKWbCSc2Ihb51kOCxU3QVmxuMZmJxVFZzy6GxTrVJResuzD3+PXZu+gMUytNmR9ftFD/LmKjPX4GJqEcjmMGEuEXSlfWI1W8BtmRDT4idZQA6zVUCAnav+ErT0cPYiH/2BerVPjngSn+QcgiMh6nuPZEDtgCO+zSzeCcjzPafT9fmtxaE7jgDxj3Cv7Nnpqm+kbHLAcpHO4Y9YscTU7KINIBOVk0zwrBnPQwZPuHOaxgHk3FiQLvBIE+JE0Yfw3t0pvWutI5zDw0zo7Pgbh1g+hLwKfXX85Pn0lOm6Mzl9T0vtLnPZyB/fA=;m+qkOP6nVxZhuQX+BX8IGg=="
+secured: "WDR9OS20k7b/9yb0QN5PW6JmJbzoy7DFuEajdRG4c687xL65WKoQ5F+kUDLop10hvOm7LvuAAkDUivcMO2uUP3gAoyBIpAGO6eYDoY67casb7vlAjtbcb7iX+uUjpQmh1R7M0qo99+DAXpnR2JEyXQwuLn3hpPrFKJwk9f+AaRqdqEQ6/KxcY48aaUC8MDGtBs/l2lOnBDOAjhPjI0urp7GiFldIWPHb8L/4VJP35d640jKMakFNQC8ZbtSebPoMRC30QnKbMJ7QHLLYbPpeB0jaOAm9fV5wHBPaY/T93rLYMeDxd5R4AwMAY/SoBqXwz/TnI/R5VAmsYptVM51Z0N92ByvUmj9bac5SAMgjI1UOBoQgwzE/dkmgf0bTMdG1b+EbypSUsx7fupObfO4Kr3wBeGIbQOFyGIb9CqVDK47+PUhCxDkUTd2aneQM6HbxYOhPqxLl2deRSnzjCrH3I0mUODTtVU3FD8lOyFhqFJXneTJaazyrimNPSgvTp1DPu3Wn/zy52wFOIx5S2ChSIg==;vm5GfGhnCbz3o3JkxA+PLg=="
 ---
 

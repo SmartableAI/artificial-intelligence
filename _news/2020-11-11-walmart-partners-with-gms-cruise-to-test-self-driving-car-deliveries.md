@@ -214,6 +214,22 @@ related:
         width: 620
         height: 370
         isCached: true
+  - title: "Walmart, Cruise to test grocery delivery in self-driving cars"
+    excerpt: "Walmart and Cruise LLC are starting a pilot program early next year for customers to have their groceries delivered by one of Cruise’s all-electric self-driving cars, Walmart said in a Tuesday blog post ."
+    publishedDateTime: 2020-11-12T12:06:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/general-motors/2020/11/10/walmart-cruise-form-pilot-grocery-delivery/6235852002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/6235852002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/6235852002"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 44
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/10/PDTN/31363959-3997-4b17-ab4f-7855172e2a15-walmart.png?auto=webp&crop=919,517,x0,y40&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Walmart & Cruise with Self-Driving will Deliver in AZ"
     excerpt: "Walmart is cruising over to Scottsdale, Arizona, to rev up a new pilot with self-driving car company, Cruise. What’s unique about Cruise is they’re the only self-driving car company to operate an"
     publishedDateTime: 2020-11-11T01:22:00Z

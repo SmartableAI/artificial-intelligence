@@ -25,48 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Cash Flow Solutions and Transaction Science join forces as RIBBIT, an AI-FinTech firm"
-    excerpt: "After 22 years as an electronic payments provider, Cash Flow proudly joins forces with Transaction Science, a groundbreaking predictive analytics company, to form RIBBIT. Visit  or follow on LinkedIn to learn more."
-    publishedDateTime: 2020-11-10T21:56:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cash-flow-solutions-and-transaction-science-join-forces-as-ribbit-an-ai-fintech-firm-1029788757"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/cash-flow-solutions-and-transaction-science-join-forces-as-ribbit-an-ai-fintech-firm-1029788757"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cash-flow-solutions-and-transaction-science-join-forces-as-ribbit-an-ai-fintech-firm-1029788757"
+  - title: "Fintech startup YeLo Bank wins AWS Startup Architecture Challenge of the Year 2020 India finals"
+    excerpt: "YeLo Bank, a digital-only, mobile-first neobank focused on serving mass-market consumers, has won the AWS Startup Architecture Challenge of the Year 2020 India finals. AWS Startup Architecture Challen"
+    publishedDateTime: 2020-11-12T11:55:00Z
+    webUrl: "https://yourstory.com/2020/11/fintech-startup-yelo-bank-wins-aws-startup-architecture-challenge"
+    ampWebUrl: "https://yourstory.com/2020/11/fintech-startup-yelo-bank-wins-aws-startup-architecture-challenge/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/fintech-startup-yelo-bank-wins-aws-startup-architecture-challenge/amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
-  - title: "UAE based Fintech BankOnUs Introduces AI enhanced Financial and Insurance Services Comparison App"
-    excerpt: "UAE based Fintech firm BankOnUs has introduced an AI enhanced financial and insurance services comparison app."
-    publishedDateTime: 2020-11-11T02:11:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/11/168829-uae-based-fintech-bankonus-introduces-ai-enhanced-financial-and-insurance-services-comparison-app/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/168829-uae-based-fintech-bankonus-introduces-ai-enhanced-financial-and-insurance-services-comparison-app/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/168829-uae-based-fintech-bankonus-introduces-ai-enhanced-financial-and-insurance-services-comparison-app/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 61
+      name: Your Story
+      domain: yourstory.com
+    quality: 64
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/10/Mastercard-Touchless-Payments-iPhone-Wallet-Credit-Card-300x232.jpg"
-        width: 300
-        height: 232
-        isCached: true
-  - title: "Fintech for Fashion: Purple Dot Raises £1.35 Million Seed Round"
-    excerpt: "Purple Dot, a payment platform for fashion merchandisers that enables consumers to offer to purchase a product at below the retail recommended price, has raised a £1.3 million seed round. The funding was led by Connect Ventures."
-    publishedDateTime: 2020-11-09T12:29:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/11/168918-fintech-for-fashion-purple-dot-raises-1-35-million-seed-round/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/168918-fintech-for-fashion-purple-dot-raises-1-35-million-seed-round/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/168918-fintech-for-fashion-purple-dot-raises-1-35-million-seed-round/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 59
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/06/Sale-600x421.jpg"
-        width: 600
-        height: 421
+      - url: "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/Feature-image-4-1605181702978.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
         isCached: true
   - title: "AI and ML benefit for the Fintech industry"
     excerpt: "Let’s take a look at how FinTech companies took advantage of these technologies by employing them for different purposes, and is it worth investing in these technologies at all. Before diving into the use cases of AI and ML in fintech and banking software development,"
@@ -82,64 +55,15 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "5 fintech opportunities for entrepreneurs beyond 2020"
-    excerpt: "The fintech sector is undergoing a complete digital makeover by leveraging sophisticated new-age tech to cater to increasingly tech-savvy users resulting in a superior customer experience."
-    publishedDateTime: 2020-11-10T05:15:00Z
-    webUrl: "https://yourstory.com/2020/10/fintech-opportunities-entrepreneurs-beyond-2020"
-    ampWebUrl: "https://yourstory.com/2020/10/fintech-opportunities-entrepreneurs-beyond-2020/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/10/fintech-opportunities-entrepreneurs-beyond-2020/amp"
+  - title: "AWS to launch second infrastructure region in India by mid-2022"
+    excerpt: "Amazon Web Services (AWS) has announced the expansion of its services to include a second infrastructure region in India by mid-2022. The new AWS Asia Region, which will consist of three Availability Zones at launch,"
+    publishedDateTime: 2020-11-09T08:56:00Z
+    webUrl: "https://www.telecompaper.com/news/aws-to-launch-second-infrastructure-region-in-india-by-mid-2022--1360958"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 44
-    images:
-      - url: "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/Fintech-1599488865962-1603437196437.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "FinTech firm for the fashion industry raises £1.35m"
-    excerpt: "Purple Dot, the ‘worth-the-wait’ payment option for fashion brands, today announces its seed round of £1.35m, led by Connect Ventures, with support from, AI Seed, Moxxie Ventures, Andy Chung"
-    publishedDateTime: 2020-11-09T08:51:00Z
-    webUrl: "https://londonlovesbusiness.com/fintech-firm-for-the-fashion-industry-raises-1-35m/"
-    type: article
-    provider:
-      name: londonlovesbusiness.com
-      domain: londonlovesbusiness.com
-    quality: 39
-    images:
-      - url: "https://londonlovesbusiness.com/wp-content/uploads/2019/08/Boohoo.jpg"
-        width: 660
-        height: 371
-        isCached: true
-  - title: "Oil & Gas specialist Trajan Consulting announces new bespoke Fintech, AI and Agile division for GCC"
-    excerpt: "As the ADIPEC Virtual Strategic Conference kicks off, the company aims to help the sector implement intense methodologies focused on improving processes"
-    publishedDateTime: 2020-11-09T07:41:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Oil__Gas_specialist_Trajan_Consulting_announces_new_bespoke_Fintech_AInbspand_Agile_division_for_GCC-ZAWYA20201109074133/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 25
-    images:
-      - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
-        width: 1200
-        height: 878
-        isCached: true
-  - title: "Fintech Firm Quadpay Gets The Urge for Visual Fashion Search"
-    excerpt: "Pay Later” company QuadPay aims to bring visual fashion search to the platform, with $6.1 million Urge Holdings acquisition."
-    publishedDateTime: 2020-11-10T14:06:00Z
-    webUrl: "https://wwd.com/business-news/technology/quadpay-acquisition-the-urge-shnap-visual-fashion-search-1234654635/"
-    type: article
-    provider:
-      name: Women's Wear Daily
-      domain: wwd.com
-    quality: 24
-    images:
-      - url: "https://wwd.com/wp-content/uploads/2020/11/001_AG_GUCCI_SHOW_FW20_VIP-7822.jpg?crop=0px%2C146px%2C1000px%2C668px&resize=394%2C263"
-        width: 394
-        height: 263
-        isCached: true
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "vDMi647emah43LhCiEcuaxicLBNOrV137QswC55qStuDkAt0Rsq5WlYqxAsFGn0JEYi6YkylgQvco6j9/bOK4tshytX1WI4nf4t8g6auH+ieTXYLJt4Hm0qssTgt4eRP0IjnxcfdV01DtHE7rpkk/NM71LYhe0PjmLlPtqznjVtUW9+M0mONBCyQL80KjOj4nChlSbuwJiReFMVw4n18GY5ITGa/wI2LCFFqI3p3G2QBofXdd9p029s6vOqCmFo8SF7VJ7lYCZAq96tVKydnoeLCso5/+qRdCm/gjfMy1Q+RzEBAPNm5CfoFtOlhPp4FK0Rg0r1mf3XJN2r4QKW4uUH1rYCoEFzxO2XiK2wXZrmoLtUoo20LlHNDo4h0qN34MyxTAPgNu+HRbvQ1Qf/HtceSbtWH0wdOVe4MncZ9A3ucDIxqj8goOCcCdUOQBs29z4kcrznhEHjWQftPsIknu+Y1NJACtB8q7DUORzkofSbc6XywxuDjL2hla2eU6aG/uyU6IQldKMViiSs/ZjAqLA==;GNmrWl12ZDjvtNWXZwYMIA=="
 ---

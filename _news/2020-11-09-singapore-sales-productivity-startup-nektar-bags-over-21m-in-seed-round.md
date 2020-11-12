@@ -55,6 +55,20 @@ related:
         width: 810
         height: 506
         isCached: true
+  - title: "Borrowing insights startup ilumoni raises $450,000 pre-seed funding"
+    excerpt: "Move Ventures (formed by the founders of Market Gravity, acquired by Deloitte in 2017), and angel investors including Simon Moran, former CMO and now Non Executive Director, Premium Credit and Andy Deller,"
+    publishedDateTime: 2020-11-12T12:04:00Z
+    webUrl: "https://www.finextra.com/pressarticle/84948/borrowing-insights-startup-ilumoni-raises-450000-pre-seed-funding"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 37
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "CtuzOTTtrlCFk26zKSJxYzouUgn/jzpaTRSxuWH6XmeNA70u+Ct1ZcsjgD8go60KWCHUDGiKt65fSsntxiyiO1w5AmegDouAwypk8xGTBS/piaTvpZNIwN9ij3WhGNAjp/gC1bv/hQjdgJriarkP/+IcnvV47H/AdugCRwPBTiKH0X2bKzibllAv0es13K7zWoOVofmGHEw/zYhzad0OSmLitQyZ41bSupCTn5CIvPMR3gjN5wC2qRKakEerqJ45ZzzSLlGd+5fi0FyEYVySXOcwX/dSNLsF9oDPqCkuEeEGBo2vBpK+FhyrKzGIhFSPoDJAiuQTF7CRsQChmeZyexPDp5XQRCqhPI794IN8JrM=;isBphh+EX97P2D06nqLW3A=="
 ---

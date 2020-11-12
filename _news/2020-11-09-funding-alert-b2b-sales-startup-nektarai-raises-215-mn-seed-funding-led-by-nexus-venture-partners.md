@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/359261"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359261"
 type: article
 quality: 88
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://cdn.vietreader.com/uploads/posts/2020-11/business_singapore-sales-productivity-startup-nektar-bags-over-21m-in-seed-round-1.jpg"
         width: 750
         height: 563
+        isCached: true
+  - title: "Borrowing insights startup ilumoni raises $450,000 pre-seed funding"
+    excerpt: "Move Ventures (formed by the founders of Market Gravity, acquired by Deloitte in 2017), and angel investors including Simon Moran, former CMO and now Non Executive Director, Premium Credit and Andy Deller,"
+    publishedDateTime: 2020-11-12T12:04:00Z
+    webUrl: "https://www.finextra.com/pressarticle/84948/borrowing-insights-startup-ilumoni-raises-450000-pre-seed-funding"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 37
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
         isCached: true
 
 secured: "FAM970TzlLJbWLNfob+/lkZKz4aLqaXr+dn2PLOIa/s0YVVTma6tTFPXy0d147WZeOREjU1sb6mu6vTjzKR0YwhrH2VOuiAaT1qhc747MfVWVOalNom2UMTc6KXmyDqSWHTGCGkXMV/TmOevX7n0OcWA0ogPuInFVaIqaS1SRVBW5jSiBTkj+FzWjzLvucPgyx3XvLuBqHx9hMa3ygHOIluUTZToAOFOL3yf36W0wO4RQbB1pRHyQAagRd3hwiWdgySDevLfnDZLwtdBtVDGgYlSS2DcC0MZ0f+8196uEkLk0jK9DXiMmqO62LpaLGIL0zUqIwOjnrgaoJn66gXaW2Tb+75VqAJptoBngCSEmNtH/a8LhOhyt+c84HA7XnHdNxayzpoZM8H0R1f9rI9UxsMddHNTlyqlqy0VMrWC6JhRRqGVe9QjtZues7CIDweDVetHTrAEQdScdqRAarpfAAnNC0MPbZMAZ4T7yUfJTcwRfQPO3cZenEPaldB+3EQIYrsKK4ss2rSh7fVzwWeDDQ==;X5aUgIaVD3igfqjji1FeRA=="
