@@ -10,7 +10,7 @@ affiliation:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=S6H-0RAAAAAJ
-  citations: 250166
+  citations: 250207
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Lotfi_A._Zadeh
