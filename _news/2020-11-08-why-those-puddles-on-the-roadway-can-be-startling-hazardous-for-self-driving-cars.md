@@ -47,6 +47,38 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Honda says will be first to mass produce level 3 autonomous cars"
+    excerpt: "Japan's Honda Motor Co said on Wednesday it will be the world's first automaker to mass produce sensor-packed level 3 autonomous cars that will allow drivers to let their vehicles navigate congested expressway traffic."
+    publishedDateTime: 2020-11-11T11:59:00Z
+    webUrl: "https://www.reuters.com/article/honda-autonomous-level3-idUSKBN27R0M7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27R0M7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27R0M7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201111&t=2&i=1540803398&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAA0AY"
+        width: 801
+        height: 545
+        isCached: true
+  - title: "Honda to mass-produce Level 3 autonomous cars by March"
+    excerpt: "Honda claims it will be the first automaker to mass-produce vehicles with autonomous capabilities that meet SAE Level 3 standards, with plans to begin producing and selling a version of its Honda Legend luxury sedan with fully approved automated driving equipment in Japan from next March."
+    publishedDateTime: 2020-11-11T15:59:00Z
+    webUrl: "https://techcrunch.com/2020/11/11/honda-to-mass-produce-level-3-autonomous-cars-by-march/"
+    ampWebUrl: "https://techcrunch.com/2020/11/11/honda-to-mass-produce-level-3-autonomous-cars-by-march/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/11/honda-to-mass-produce-level-3-autonomous-cars-by-march/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/11/honda-legend-profile.jpg?w=800"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Where are our self-driving cars?"
     excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time,"
     publishedDateTime: 2020-11-08T05:00:00Z

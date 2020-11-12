@@ -1,12 +1,12 @@
 ---
 category: news
 title: "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker"
-excerpt: "Delivering fast and reliable machine learning business solutionsJERSEY CITY, N.J., Nov. 11, 2020 /CNW/ -- ElectrifAi, one of the global leading"
+excerpt: "Delivering fast and reliable machine learning business solutionsJERSEY CITY, N.J., Nov. 11, 2020 /PRNewswire/ -- ElectrifAi, one of the global"
 publishedDateTime: 2020-11-11T18:57:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791744"
-webUrl: "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791744"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791744"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791744"
+originalUrl: "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683"
+webUrl: "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683"
 type: article
 quality: 101
 heat: 121
@@ -21,9 +21,9 @@ provider:
       height: 50
 
 topics:
-  - AWS AI
-  - AI
   - Machine Learning
+  - AI
+  - AWS AI
 
 related:
   - title: "Configuring Amazon SageMaker Studio for teams and groups with complete resource isolation"
@@ -55,6 +55,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "8fJbc2IuhbqUlmGMafSMfIi+4ZEJZqHPd12IWAzTvm2LSvjFR+Y2rJ2Q+Xf8J6N8kVlxBAUuC42xOKuXCtFHnn7iMEXq0RAIxgyecgh6sZKzUcUPEoKynCxNoCmiF6lbbtXS1/KMRls9PGHNjKrn6/FU1f9+GIjW+lCfubGMNUoR7eef43P7aSUtdhk5qWEGGfHM5exApt9p8JmCGDcyooLx/oRiXT5tnRwRWsfPaUdSZ2jrHEf8elWXIB1NW/Ol4CaK4pt6R9svHHttEUYLtWa/LuJyqhNfOLG/g5ij3TSaIgDcrmLhvEVQGqpYquAj3p9bOv1hcV/heK3GUn9nx6Emcqg/1dOHSrL40hVFnWg=;p0dmMH23vasLBcngQAT8Ag=="
+secured: "gn4j5msJtK8hhtCzWyMhqNnPz0EA9Ep94XFmM1PkZGeYwBeMmI/aWA379CZLsEjIuM9jVdQhQTJnr3XBdQdHWTdJXZNG8REbEL39bC2FQI4m8pe8zyZeUMa2qFPBajGzYb8NNmhrTnoBKwYT9eHwr7VG/NCxU7h/ajyvfExR+mlyPNACD1Il2fnNKhmYORtKJGDsZoLAJSvv07tujn8VQoMShd6hzg88ybhF+lv5Cw6rXqH6TqaRavopKOQC+v7XvnU7jsgBMozVEebOsn+1E2MlfF6y2MfEGbBcqUveT8w2TdDOLUS78AUQglnqIzA8zIj5CrgPBRuWHomrHZPoydiORxwIMZcLQsQGc/7dTsI=;1NbjjqKXJl1UcRcy9hi6pg=="
 ---
 

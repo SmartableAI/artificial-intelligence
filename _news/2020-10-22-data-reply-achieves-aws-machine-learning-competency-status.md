@@ -1,23 +1,25 @@
 ---
 category: news
 title: "Data Reply Achieves AWS Machine Learning Competency Status"
-excerpt: "These solutions are fully powered by AWS services such as Amazon SageMaker, Amazon Rekognition, Amazon Textract, Amazon Comprehend, AWS Lambda and Amazon EMR."
-publishedDateTime: 2020-10-22T08:05:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/10/b18008856/data-reply-achieves-aws-machine-learning-competency-status"
-webUrl: "https://www.benzinga.com/pressreleases/20/10/b18008856/data-reply-achieves-aws-machine-learning-competency-status"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18008856"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18008856"
+excerpt: "AWS Lambda and Amazon EMR. DATA REPLY Data Reply is the Reply Group company specialized in Big Data Analytics and Artificial Intelligence. Through multidisciplinary teams of specialists in Big ..."
+publishedDateTime: 2020-10-22T07:35:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/data-reply-achieves-aws-machine-learning-competency-status-1029708669"
+webUrl: "https://markets.businessinsider.com/news/stocks/data-reply-achieves-aws-machine-learning-competency-status-1029708669"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
   - Machine Learning
 
-secured: "9uW2DcDZhOqBO6ALk5KxlFcxlJYs3L298x7FEt1+ou7Dc5G2GSeBF58F8Op9hhuoQgaTAr5iihI9kyj/reNmYigI60X2foiYuvqG0cU3Srkr15Ely8H/NyfvVGEPfL0Kmmslc0Vy4RT+NpmtvadP6sXAslRqBflCwbbiUrcUt3AG/E3+whiE8og6PNhlewn1OnaCqW8lWO6O2axAs9j7CUaI2LYf+onhSETRfLbUjwGrSlj1Ygs3hQjsfIGjos6KJsRA2FvQqukG4fIJmu5jNbe4N6QqTTwUR7PcS+pTEwVeD0iX49F91JdsjxkYn04QdAS9zGnBzckRO6ZPhflaQPa1DJKj+fNsdrgmMgxvtv8=;+D0ezgnxkqnAIEQ0bajJ2g=="
+secured: "Tju5MHp5HbZBt9YGJd1wvPcapQ4GcSThhAIaRoSpQHGbl5BvAVYpeohaR0kaBSxwEnZe9Y+2m9iDkrkx+mSPtpDekWjn+fhjgfEkWbvPNk2CWyx4RNJiJ9gmq5+Yn7lw53tmdGVho/odjEzmG7p6liJvFU5cnUW8PCtQdPUeHfapUAEFq+G2/c0tld2JcRvCAxmUJF/fD7M7WdO8reUEeP1+kfP7tGH/GrMoyzebI9fV10RljwWnQiPOKU+MRHd1k73c6Vk+0sDK9ab3UTNhlATn5SXxQwZgrCnXrItASFjhyWoNtaRVZeJvctaS//m2FQPN3dyKSgzIhzx/3S489U+r6J8qV8yQtJ6xPA8URWc=;KcGBAospIQfWUKDgZ7+Hpw=="
 ---
 

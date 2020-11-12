@@ -54,6 +54,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Autonomous truck startup Inceptio raises $120M"
+    excerpt: "China's Inceptio Technology, a startup developing self-driving trucks, raised $120 million in its latest funding led by top Chinese electric vehicle battery maker CATL. The funding comes six months after a $100 million round of funding in April."
+    publishedDateTime: 2020-11-11T22:56:00Z
+    webUrl: "https://www.autonews.com/china/autonomous-truck-startup-inceptio-raises-120m"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 17
 
 secured: "wroW1BbBlmtEAn7g2yRd2XKrBFDEjohHe4NXhs9QFdXLCt6VH+saxDMzoR8ECjStuo0DG9hqv56VwufZlHhHdZ3pgIYATfzh44uhJ8UMyA07m53Ivjkhv2+kAeCxurzi/dCsXX1cY/L0+3BV7R3CaxnRDruE9A/WXe+P3v9O3PSj/plUrpXLVUEDeGSZEY4qYExKMS3ZhiAucwxQ3TAAM97xDUwb6vs6638wKzRyWLqWjH5/QxCwHE5cllvTth8tvsKdc8dJ+4FpRIcgR6WOpoLWBW5HCc8AZvpu9HM7x+UUNTCpnRwj6xVn3MBt5tfh3a9dqkhA5OkoS/M/XI7LpHLbi5SUXas3FXeGzL8IXf0=;ED/jlEZcc2b81pjV+/Jhgg=="
 ---

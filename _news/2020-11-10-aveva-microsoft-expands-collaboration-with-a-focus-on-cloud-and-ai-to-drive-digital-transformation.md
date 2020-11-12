@@ -77,20 +77,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "Big data and artificial intelligence software is impacting your shopping experience"
-    excerpt: "In 2012 a writer for the New York Times named Charles Duhigg wanted to explore how retailers were using the data they had begun collecting involving customer purchases. What he found was stunning for the times,"
-    publishedDateTime: 2020-11-07T08:03:00Z
-    webUrl: "https://www.mininggazette.com/opinion/columns/2020/11/big-data-and-artificial-intelligence-software-is-impacting-your-shopping-experience/"
-    type: article
-    provider:
-      name: The Daily Mining Gazette
-      domain: mininggazette.com
-    quality: 31
-    images:
-      - url: "http://d14e0irai0gcaa.cloudfront.net/www.mininggazette.com/images/2016/11/14155029/fblike.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AVEVA Expands its Collaboration with Microsoft with a Focus on Cloud and AI to Drive Digital Transformation in the Manufacturing and Energy Industries"
     excerpt: "AVEVA to Collaborate with Microsoft to Provide Cloud Platform and Domain Expertise for Industrial Sector Organizations"
     publishedDateTime: 2020-11-10T18:14:00Z
