@@ -2,50 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-10-15-futurism-reinforces-its-next-gen-business-commerce-platform-with-advanced-machine-learning-and-artificial-intelligence-capabilities.md",
-      "title": "Futurism Reinforces Its Next-Gen Business Commerce Platform With Advanced Machine Learning and Artificial Intelligence Capabilities",
-      "excerpt": "Futurism Technologies, a leading provider of digital transformation solutions, is bringing to life its Futurism Dimensions business",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/futurism-reinforces-its-next-gen-business-commerce-platform-with-advanced-machine-learning-and-artificial-intelligence-capabilities-301152696.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/futurism-reinforces-its-next-gen-business-commerce-platform-with-advanced-machine-learning-and-artificial-intelligence-capabilities-301152696.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1312995/Futurism_Logo.jpg?p=facebook",
-          "width": 2148,
-          "height": 1126,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-14T15:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2020-10-14-machine-learning-customer-stories-ebook.md",
       "title": "Machine Learning Customer Stories eBook",
       "excerpt": "Machine learning (ML) is creating better business results across nearly every industry—including financial services. While risk management use cases abound, financial institutions of all sizes ...",

@@ -2,6 +2,41 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-13-artificial-intelligence-and-robotics-be-careful-what-you-wish-for.md",
+      "title": "Artificial intelligence and robotics: Be careful what you wish for",
+      "excerpt": "There may come a time, within the next three to four decades, when we have robots that are smarter and more independent than we want them to be.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymaverick.co.za/opinionista/2020-11-12-artificial-intelligence-and-robotics-be-careful-what-you-wish-for/",
+      "originalUrl": "https://www.dailymaverick.co.za/opinionista/2020-11-12-artificial-intelligence-and-robotics-be-careful-what-you-wish-for/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymaverick.co.za/opinionista/2020-11-12-artificial-intelligence-and-robotics-be-careful-what-you-wish-for/amp/",
+      "cdnAmpWebUrl": "https://www-dailymaverick-co-za.cdn.ampproject.org/c/s/www.dailymaverick.co.za/opinionista/2020-11-12-artificial-intelligence-and-robotics-be-careful-what-you-wish-for/amp/",
+      "publishedDateTime": "2020-11-12T14:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Maverick",
+        "domain": "dailymaverick.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-5-great-robotics-stocks-that-offer-stake-in-the-new-way-work-gets-done.md",
       "title": "5 Great Robotics Stocks That Offer Stake in the New Way Work Gets Done",
       "excerpt": "The new normal is speeding up the entry of robotics into our lives. Here are five robotics stocks to help you power up your portfolio for the future.",
@@ -53,7 +88,7 @@
       "originalUrl": "https://gizmodo.com/pope-francis-wants-you-to-pray-for-ethical-robots-1845642552",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -1419,50 +1454,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-pope-francis-pray-that-robotics-and-ai-always-serve-humankind.md",
-      "title": "Pope Francis: Pray that robotics and AI always serve humankind",
-      "excerpt": "Pope Francis has invited Catholics around the world to pray that robotics and artificial intelligence will remain always at the service of human beings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.catholicnewsagency.com/news/pope-francis-pray-that-robots-and-ai-always-serve-humankind-79125",
-      "originalUrl": "https://www.catholicnewsagency.com/news/pope-francis-pray-that-robots-and-ai-always-serve-humankind-79125",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.catholicnewsagency.com/images/Crucifix_Lars_Hallstrom_via_shutterstock_CNA.jpg?w=375&h=250",
-          "width": 375,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.catholicnewsagency.com/amp/news/pope-francis-pray-that-robots-and-ai-always-serve-humankind-79125",
-      "cdnAmpWebUrl": "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/pope-francis-pray-that-robots-and-ai-always-serve-humankind-79125",
-      "publishedDateTime": "2020-11-03T13:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Catholic News Agency",
-        "domain": "catholicnewsagency.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

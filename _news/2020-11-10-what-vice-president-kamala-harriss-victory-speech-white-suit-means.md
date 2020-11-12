@@ -26,24 +26,6 @@ images:
     height: 225
     isCached: true
 
-related:
-  - title: "'I won't be the last': Kamala Harris accepts her place in history with victory speech"
-    excerpt: "As Biden searched for a running mate, pressure built to choose a Black woman in recognition not only of the role they ... ‘A moment all her own’: Kamala Harris gives an acceptance speech in Delaware. Photograph: Drew Angerer/Getty Images But Harris ..."
-    publishedDateTime: 2020-11-08T06:09:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/nov/07/kamala-harris-victory-speech-first-woman-vice-president"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/07/kamala-harris-victory-speech-first-woman-vice-president"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/07/kamala-harris-victory-speech-first-woman-vice-president"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 37
-    images:
-      - url: "https://i.guim.co.uk/img/media/9cd3b5da1e556707dec4033a4f8673d0fa560ae9/0_0_4916_3695/master/4916.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=db7f7899f52cdc9508ed03ef0ad76f0f"
-        width: 600
-        height: 450
-        isCached: true
-
 secured: "H8no4/QHofkPpioHIKg2LdKPG+94VCuSlnWIum/2O12KbUGtfjlBeOyqTB9SV1KxWWwzAHYZcn1RvXepC+mOT+yiHu/QIc6584gARBu3b1uvQAMORghsEjlDwatffBlKLpZEgkxvfq7BILaBTXqJQ16BbGjUT+buVjUU21r7g8ASujPjxDb+ZYqDLAs/t5iI3e5S1stU9NLIkylJ21dVAVrvOisY0oEgG1+2kmGNTw9D4jCC/wQyULcplu6Z2UxnQKgH6vCIzGO0SKRSILcE2xIG5+6X94puIc0Dv5rx8HM/Q9vRjVUHP1RQFtIVK4stqdkY/CGKxm3MctBp/TlTnziDe671S13V9RcEYEq+50Sr5p49km0kQsKvKi8+sKmSz1jKEItanUrCeihxM2RJaIVsZ0FCeYUOQ2FGPahK3+R2lgP6tbA0Jj3ECgYx2BQkH6/3DE58PLXKl22o4gVQyotHEnaz7yaZNQYkDncGM+qig7Th2M/G1paQDZhIjIIY5LLniegSLYLiGB/yflrqxg==;X2f9tlm1bILEnEms//w+zQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2020-11-survey-artificial-intelligenc
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-survey-artificial-intelligence-chest-imaging.amp"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
       - url: "https://cdn.techjuice.pk/wp-content/uploads/2020/11/5f357c17b4bb1c001df531d3.jpg"
         width: 1100
         height: 825
+        isCached: true
+  - title: "Students searching for internships during the COVID pandemic must be prepared for AI-driven interviews"
+    excerpt: "We believe that every college and university student and recent graduate deserves a great part-time, seasonal, internship, and entry-level job!"
+    publishedDateTime: 2020-11-12T21:50:00Z
+    webUrl: "https://www.collegerecruiter.com/blog/2020/11/12/students-searching-for-internships-during-the-covid-pandemic-must-be-prepared-for-ai-driven-interviews/"
+    type: article
+    provider:
+      name: College Recruiter
+      domain: collegerecruiter.com
+    quality: 21
+    images:
+      - url: "https://www.collegerecruiter.com/images/cr_logos/cr_logo.png"
+        width: 593
+        height: 240
         isCached: true
 
 secured: "pMdUp0MzQ+YQFgPKSo2guzsudnRceqA4bT5oobOzszl0OtN+muMIHgMKOtGivOHAP0ZQVGuzsvwUDNAKXxP+WgXpf3FQNdk2PHpYpwDCtEr5iy5MCSMwqvgSUram9XkDwEZfIq/GIdu+RsMuIssp9ppXShHWmcBIR5tB9lHa3gis+yyvqC5FYJtpiXtENAN477YpzhHBnG3T+SZ+7qtpUl8uaIiPKJIyTxg4zoKnS8FJHq+IFN6Inu9fhGNoKM2qRxtbUeAWyIOibHtJCzFWDkx5hLSZL3cWNSbhYJRJo98uDuZcihXAb7pkEdVPqgyKtFYXiOUExqQpFgLhqVeF3vde+0YZsOcgvkoAe1irLC8=;B9UIornsWmlzbRwu6pQiXQ=="

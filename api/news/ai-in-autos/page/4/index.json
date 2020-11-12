@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-19-waymo-launches-fully-autonomous-fleet-of-self-driving-taxis.md",
+      "title": "Waymo launches fully autonomous fleet of self-driving taxis",
+      "excerpt": "The age of self-driving taxis has arrived — at least, in parts of Phoenix, Arizona. Self-driving car company Waymo, owned by Google’s parent company Alphabet, announced its autonomous vehicles ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartcompany.com.au/technology/self-driving-taxis-waymo-pheonix-arizona/",
+      "originalUrl": "https://www.smartcompany.com.au/technology/self-driving-taxis-waymo-pheonix-arizona/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smartcompany.com.au/wp-content/uploads/2020/10/Waymo.jpg",
+          "width": 733,
+          "height": 358,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartCompany",
+        "domain": "smartcompany.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-18-when-self-driving-cars-dont-realize-theyve-been-in-a-car-crash.md",
+      "title": "When Self-Driving Cars Don’t Realize They’ve Been In A Car Crash",
+      "excerpt": "Will self-driving cars realize when they've been in a car crash? getty. Have you ever been in a car crash? The odds are that if you’ve been driving for any notable number of yea",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/18/when-self-driving-cars-dont-realize-theyve-been-in-a-car-crash/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/18/when-self-driving-cars-dont-realize-theyve-been-in-a-car-crash/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f88dfcdb1cfa1bd271072c9%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/18/when-self-driving-cars-dont-realize-theyve-been-in-a-car-crash/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/18/when-self-driving-cars-dont-realize-theyve-been-in-a-car-crash/amp/",
+      "publishedDateTime": "2020-10-18T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-18-two-top-artificial-intelligence-stocks-to-invest-in.md",
       "title": "Two Top Artificial Intelligence Stocks to Invest in",
       "excerpt": "The competition is between Intel, Nvidia, and others to build Artificial intelligence chips for data hubs, self-driving automobiles, robotics, smartphones, drones, and other appliances.",
@@ -1317,101 +1412,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-israels-use-of-artificial-intelligence-will-change-the-future-of-war.md",
-      "title": "Israel’s Use of Artificial Intelligence Will Change the Future of War",
-      "excerpt": "War is always going to be fought with people and weapons. It is also always going to involve “platforms,” such as tanks and the capabilities they have. It is important to understand that in discussions of the future of warfare the issue is not just about the person or the platform but also tying it all together.",
-      "sourceUrl": null,
-      "webUrl": "https://nationalinterest.org/blog/buzz/israel’s-use-artificial-intelligence-will-change-future-war-170415",
-      "originalUrl": "https://nationalinterest.org/blog/buzz/israel’s-use-artificial-intelligence-will-change-future-war-170415",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nationalinterest.org/sites/default/files/main_images/C795%20%281%29_0.jpg",
-          "width": 1600,
-          "height": 1119,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nationalinterest.org/blog/buzz/israel%E2%80%99s-use-artificial-intelligence-will-change-future-war-170415?amp",
-      "cdnAmpWebUrl": "https://nationalinterest-org.cdn.ampproject.org/c/s/nationalinterest.org/blog/buzz/israel%E2%80%99s-use-artificial-intelligence-will-change-future-war-170415?amp",
-      "publishedDateTime": "2020-10-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Interest",
-        "domain": "nationalinterest.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-self-driving-car-ux-shifting-gears-from-stony-silence-to-avid-chitchat.md",
-      "title": "Self-Driving Car UX Shifting Gears From Stony Silence To Avid Chitchat",
-      "excerpt": "What happens when you get into a self-driving car that you requested as a pick-up for your trip to a local store or another such itinerary? Few people have ridden in a self-driving car and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/09/self-driving-car-ux-shifting-gears-from-stony-silence-to-avid-chitchat/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/09/self-driving-car-ux-shifting-gears-from-stony-silence-to-avid-chitchat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7ffbf0679484988e4395bb%2F0x0.jpg",
-          "width": 1200,
-          "height": 590,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/09/self-driving-car-ux-shifting-gears-from-stony-silence-to-avid-chitchat/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/09/self-driving-car-ux-shifting-gears-from-stony-silence-to-avid-chitchat/amp/",
-      "publishedDateTime": "2020-10-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

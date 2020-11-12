@@ -1,28 +1,28 @@
 ---
 category: news
 title: "DoiT International Named AWS Reseller Partner of the Year"
-excerpt: "DoiT, an AWS Advanced Consulting Partner ... and machine intelligence. The Platform uses artificial intelligence to achieve sustainable cost reduction, using an automated approach embraced ..."
-publishedDateTime: 2020-11-12T18:48:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/doit-international-named-aws-reseller-partner-of-the-year-1029796286"
-webUrl: "https://markets.businessinsider.com/news/stocks/doit-international-named-aws-reseller-partner-of-the-year-1029796286"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/doit-international-named-aws-reseller-partner-of-the-year-1029796286"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/doit-international-named-aws-reseller-partner-of-the-year-1029796286"
+excerpt: "PRNewswire/ -- DoiT International (\"DoiT\" or the \"Company\"), a leading provider of proprietary public cloud optimization and governance software and"
+publishedDateTime: 2020-11-12T22:30:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/doit-international-named-aws-reseller-partner-of-the-year-877326285.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/doit-international-named-aws-reseller-partner-of-the-year-877326285.html"
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "DoiT International Named AWS Reseller Partner of the Year"
@@ -37,6 +37,6 @@ related:
       domain: businessinsider.com
     quality: 69
 
-secured: "oddslvWPEjXb50UHO0Nro25GukO9Sb50uSVxQiDG9gUrWBA2mNOLLto2TnXmHSbwcWpWtYYTsF2fqyJycwcbMVpFv8RxC5GuICDqyiFRZZMCJKQam1VLnfXvLTBH1iorNnJu3rjPozW7dg3OtopZehOc2QN6ssemU9n2RQsuVP0xcmJxY2NzKBt1W+sHtBt0PSBedHsq3cQTagPMs2QqqH51izlKIYz7CDOBDg1b4uVqzeGuX+l/FI0ae1B6JhuY5x2nQc8322v5Y+Nk1L6AuAonfFATX5iiTqGcDhm5NVOqLT2vMC1ugsOniA4xQ1RVmdwSYf9K2v47K8u/NUP94QtSkAAkL5LDU21+/Kr7FaA=;Qylu/vi9vsc1kxhbAx90+Q=="
+secured: "8fsMbc7E0b30x8xqG6kE4gaqMlb2zrui36PKsLH5tBCgpG8SzMcQAYG7C3Il9f6y2a4SD9gyajCSf0uZ+KqNdncjYBEKRd3dLIoH+bAyKEqRK3VM1ReT5l0M2X/WK5UYlpgPM8v81kTwyPuHpl0vYO7KqLaPUyXwMw0E2RfbhCcY2MLrhd1FkjVvgAAxDl/FqFT7N6Bg+JCnrZemWokGsD9rlfCBquZnPhAgDUgytdL8kzh5iBD3n7uTEHgwtOfb2HB+unJP1tkaavkS6AiH6tlf/nBkfIDjND22BYG4COzlU3juagn1Qi1guyMwy3nN6zR869koqW9KPIFjHO82vbzL4sCpWpuDLpcxnHM086I=;CK2QrmPpRgS60pJ8tR97rQ=="
 ---
 

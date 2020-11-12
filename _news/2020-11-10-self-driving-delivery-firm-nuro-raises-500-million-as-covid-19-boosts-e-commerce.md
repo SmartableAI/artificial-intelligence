@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27P1FT"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27P1FT"
 type: article
 quality: 182
-heat: 242
+heat: 252
 published: true
 
 provider:
@@ -109,6 +109,20 @@ related:
       - url: "https://www.ajc.com/resizer/ST2fUTz4j_ThirIKikD51QMXzUA=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/CJSNPHCYTKJ3ZU3DBTQWJVU4NE.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Drug companies deliver a vote of confidence in adaptive trial for Covid-19"
+    excerpt: "A novel clinical trial that uses AI to rapidly compare Covid-19 treatments has attracted participation from two major drug companies."
+    publishedDateTime: 2020-11-10T09:48:00Z
+    webUrl: "https://www.statnews.com/2020/11/10/adaptive-trials-covid19-amgen-eisai/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 22
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2018/10/STAT_Amgen02-1024x576.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "D/wFvxEGmvujIZw4fCl1l+vqviyyDWwT8revfsHzKRfilQY9rq8Rto0h2xK1fpS/AVSzzgFYl12J2fagvaQpd0fjcpKw8bqUAFizaVlwWZBVMWMXgR0+4+kv/GK7y6ubk5ytCY+hSu+nCgQiW8F/15SZJk2NGop7KV51U/GBQ8GawYLI0DeG2m6MptfiqNZYvk42/Dcf/KHTOFFd3lwtcvitcrWciLT7gdKybXFkz3WOO8sJ8m2CQ918Dvs71+9cL/4+VbODlzN6Up3RJ/SFjJTgcTYnD5U8dFgHhQpR6/zsc5yD9wchj60xGQxuUrVQzCoVs5P0JKPJHt1ijH0qkG3WFAl1HlwcCxhLvn6ZQ5c+FMYpOeIqzD9wqT0YPEgU2ywWekz8u0qEOTtJ+VPLtCxiAjdwA6ZsZUOKpIT0zZZUhKt6mkH1gHFqq2muCfaFzAshaCz7a7/ySakq5r1KmxzhAvlDmxJ0RydZt/RWpq7L6Q5mYTKSC1jMBXYUzjyNMKPHTTf0SeDo0V6g99F/azEpVWqI2CFijoXjnmp1nPE=;H+QYqbNWi0IkNYI54yjJ6g=="

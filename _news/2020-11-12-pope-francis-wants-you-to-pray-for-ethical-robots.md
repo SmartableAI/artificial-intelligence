@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/pope-francis-wants-you-to-pray-for-ethical-robot
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/pope-francis-wants-you-to-pray-for-ethical-robots-1845642552/amp"
 type: article
 quality: 106
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pope Francis: Pray that robots don’t turn against us"
+    excerpt: "Deliver us from evil robots! Pope Francis urged Catholics to pray that artificial intelligence and robots “always serve mankind” instead of stripping humanity of its “dignity,” according to"
+    publishedDateTime: 2020-11-12T22:13:00Z
+    webUrl: "https://nypost.com/2020/11/12/pope-francis-pray-that-robots-dont-turn-against-us/"
+    ampWebUrl: "https://nypost.com/2020/11/12/pope-francis-pray-that-robots-dont-turn-against-us/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/12/pope-francis-pray-that-robots-dont-turn-against-us/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 74
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/pope-francis.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Pope Francis Prays That There Is Not An AI Uprising Coming"
     excerpt: "During the Pope’s monthly prayer intentions, which are designed to deepen daily prayer, technology was the focus, as Pope Francis hoped that machines would aid humanity in its efforts for equality. Previously,"
     publishedDateTime: 2020-11-11T15:45:00Z

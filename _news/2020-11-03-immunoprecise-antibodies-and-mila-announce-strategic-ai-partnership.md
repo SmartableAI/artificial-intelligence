@@ -1,26 +1,26 @@
 ---
 category: news
 title: "ImmunoPrecise Antibodies and Mila Announce Strategic AI Partnership"
-excerpt: "CNW/ - IMMUNOPRECISE ANTIBODIES LTD. (the 'Company' or 'IPA') (TSXV: IPA) (OTCQB: IPATF) (FSE: TQB2), a leader in"
-publishedDateTime: 2020-11-03T12:52:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758397"
-webUrl: "https://markets.businessinsider.com/news/stocks/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758397"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758397"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758397"
+excerpt: "PRNewswire/ - IMMUNOPRECISE ANTIBODIES LTD. (the \"Company\" or \"IPA\") (TSXV: IPA) (OTCQB: IPATF) (FSE: TQB2), a leader in full-service, therapeutic"
+publishedDateTime: 2020-11-03T11:30:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-301165557.html"
+webUrl: "https://www.prnewswire.com/news-releases/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-301165557.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "eTPkjUYHCvYmrQuE/7kyEKNuhnk93SvZmoQNg3z3xMl5u1pmJP2lRVfWwzwcgxx9fCo89us/z1iRDj6XHjg1NWldgDanSwIN9IPpsg8XQT4ppSkGByHh1TmjToSAdxwE2/DalDn882WfFzCu6BSkpJcI8ok099rX/jPxqUYjaU+oFZ+kdxLfGpPSdaAHuYbxTDVv/SpRKbrzlZ+V5SnL/bYyTy959fd64LH8gt2224arXXBiBMR3zDREggZtD843zW/wG6TMTsd3w9fbRiedGTulfQIuC++mw/IsMH92yiIMR5JPbrpJyD1g8oyeNBobDih7I3ubu3luHb+kS00VL5BaMZIug5CKOvf/RknyDKE=;7tYlnNHDBd+1YaSt8KdKQg=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "1Q54XcRiEVDGldAVIr8vZCN7UTJSV1G5FHpTiPABbX/hkKGn7xHd22Vvy8ygPLycRfYpoJpwlRIy1PpUJ0duadAYTQQV7sKj5pH3TQOjDXzJVYNmipPz1CAIXZh797lqFcC9iqNzuZT1ykoy5R4ButT8MuMB4iu0twi/u35e0zEkdF1gfZpVY/o/K2KQqZny8SSOQj3XhbIdYqQ75RwwMk16fl+NJbKYMaHOFsK8Nj3l4J79Vx69EJafPaptT8lvSn4u7iV1ZpX7XoBpx5GhHDfAWw6Wzv2di3Wa5ywh0Jl6ZUQMc22kNwqoxZPhrb7Sr0iMVqgGx8FGNivkjmZA3EuGQYQiweah2ITmNQ6LMB4=;IJSp15+2Qw4qdyiprofpFA=="
 ---
 

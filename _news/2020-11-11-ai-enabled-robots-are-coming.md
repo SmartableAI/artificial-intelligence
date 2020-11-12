@@ -7,7 +7,7 @@ originalUrl: "https://roboticsandautomationnews.com/2020/11/11/ai-enabled-robots
 webUrl: "https://roboticsandautomationnews.com/2020/11/11/ai-enabled-robots-are-coming/38010/"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,19 @@ images:
     width: 750
     height: 540
     isCached: true
+
+related:
+  - title: "Artificial intelligence and robotics: Be careful what you wish for"
+    excerpt: "There may come a time, within the next three to four decades, when we have robots that are smarter and more independent than we want them to be."
+    publishedDateTime: 2020-11-12T22:30:00Z
+    webUrl: "https://www.dailymaverick.co.za/opinionista/2020-11-12-artificial-intelligence-and-robotics-be-careful-what-you-wish-for/"
+    ampWebUrl: "https://www.dailymaverick.co.za/opinionista/2020-11-12-artificial-intelligence-and-robotics-be-careful-what-you-wish-for/amp/"
+    cdnAmpWebUrl: "https://www-dailymaverick-co-za.cdn.ampproject.org/c/s/www.dailymaverick.co.za/opinionista/2020-11-12-artificial-intelligence-and-robotics-be-careful-what-you-wish-for/amp/"
+    type: article
+    provider:
+      name: Daily Maverick
+      domain: dailymaverick.co.za
+    quality: 71
 
 secured: "R7zqWrQGgHP9ipgF9uofMKO1/PZcle3uR6feSqNiL9zUdGil/LtYlDJaz3IYOZ5opXPXD4K49zgOSkwwJmvNGOQSNJah2NvrYelESrwyaLWgZl6vb3z1djmYU6Akf+qDek4puP4iWAA6/O7VLEQxRvaeP1m+UGA4tdJ/THtP3fYm6mPtfBVIocRgMWUqESbh4frEP2xNdtM4Erf80YZQ7usrFVaSfSZyJLKgRfvpA8Y7KaPQR6ENfAXwi+ZbKFbVLojx5LIipje4vfS+Go/FfHDg1FN9ADlOSVQZPAhjKyG6AjREG3KiJ/l4SOIRqWIEBKWpTOySTzdTkEqLC2sXVUoKs36BG2v21ydZuJlxMMlXeiREr+g13YdeboUA+W9b4lL/TE5hAsINrWCSJNc3FHaR1PpmX4JAeOn2k4nazXWbJoYcehVmZnwEMS9DzxtH8nOpZHXSatdhvqV7DxE1McKgdBtsBDgm9VS44/xwl/JMWOQk9mxdighOouUo2FG9BwPrZ7Bs2mmcobXLcbs1Mw==;PkxqLhiR8BM/DW0OLExWBQ=="
 ---

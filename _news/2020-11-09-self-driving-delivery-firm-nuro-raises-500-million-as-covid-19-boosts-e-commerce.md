@@ -110,6 +110,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Drug companies deliver a vote of confidence in adaptive trial for Covid-19"
+    excerpt: "A novel clinical trial that uses AI to rapidly compare Covid-19 treatments has attracted participation from two major drug companies."
+    publishedDateTime: 2020-11-10T09:48:00Z
+    webUrl: "https://www.statnews.com/2020/11/10/adaptive-trials-covid19-amgen-eisai/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 22
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2018/10/STAT_Amgen02-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "SoNdcHZhNtPIV17e9Tizrj6djBf2h+CJLOw8wCasDy/KLgvaat4jfiJQ01jlJ1AilRECyMM6XacdZVx1dZJSu0mE/mqEqrCazct7iSZU1LrupVi7Ga/BTW8IlYQNKUaWCBD2ycaRCaxEtyhp0siiR1nctNHahyw5x07B5NhtosOJ7hiDNG3Nkhp0xUOvIdIykuh0Ne/xAF+ySdhFnBHdvi6XzCEMPA2e/ga5eYW2YbckplPfXWqnn0suPrI/xHZGsXhY0cVSLM9xHTNqICb/zre7fmsVd3IyV7kB8IhUZ2keDP0N9I4qCo7YWKxshd7gvFUTlLbtRC4XXEf1MiLY1SlGTCCJ5Dg7xM+ft/wopVk=;b27i+bPxmrfRKRcOSN/KdA=="
 ---

@@ -1,30 +1,30 @@
 ---
 category: news
 title: "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker"
-excerpt: "Delivering fast and reliable machine learning business solutionsJERSEY CITY, N.J., Nov. 11, 2020 /PRNewswire/ -- ElectrifAi, one of the global"
-publishedDateTime: 2020-11-11T18:57:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683"
-webUrl: "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683"
+excerpt: "ElectrifAi, one of the global leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,"
+publishedDateTime: 2020-11-11T22:30:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-897787209.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-897787209.html"
 type: article
-quality: 103
-heat: 123
-published: true
+quality: 73
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - Machine Learning
-  - AI
-  - AWS AI
   - AI in Finance
+  - AI
+  - Machine Learning
+  - AWS AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1331976/ElectrifAi_Logo.jpg?p=facebook"
+    width: 2700
+    height: 1414
+    isCached: true
 
 related:
   - title: "Configuring Amazon SageMaker Studio for teams and groups with complete resource isolation"
@@ -56,6 +56,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "nMuWHK+oAs0V1EyOv2vKn9fd7Ww6U8yLOdlSSik1SoVTTCVvA7bsrVsHcu7eYoiEbGo+21tl9bvGb4hw+zKJi+3/hhAliSSOzt6LzYMjg5ADooTByy13JBn74zRAZevxV5pPCgFhj8zbfQUf0EJTHmi1Q5aKetMQ6LdgzctwDqrwTW3V6f9tvFGsIpmJgJuBZZcoYDX2utz+tIPkQePdVuVgMS0+xrGR6xUFCTlBjWm8sekNEak/tBQhmZiwwTJlFMlvA4+bflpYaL6hlPD5ioGHWPM+yrJm8ZK+XtC4afnf+t75yL2Ax2GIDialcwWBjo63eo/9XmEz1j67I0pYhmB6LtJkqbjc0akbT/wAXAI=;2k8nKQWTwYNJkQNyFrSfbQ=="
+secured: "j5NQ7FsPkfVD3iFjWRjhywynEV+LVFyvquXiJGOWHnoZP6gQcvNwp182hbT6QExllRyG4mvTBw8AEI/cbE9mOw3KB7xZom8r9KXYIE19XbBPmoDSl92w8azjifSRuIzR0jljqoYIbixWtgv5gAfbn9qa8kfBX9H4vVYTDSc5T1bTOWILV8Em6O8NYK5HWeU9xlNaMAoqlts09nkkHfEhgR9a/HJuX2nTfbbaG90NkkHzMC+PgwL6bwqa8tkKVF29UXS5QAqDKJCGOIs/UW5sni/PfVriKBDfDulUevIebwNwmT13rCx1QebxQQUv8CuvqqXAsxnHWmkTDuPwITYq2eRK+5atebJW39iJ15519Jg=;LJEA8GDuVtLVDthq1eBrew=="
 ---
 

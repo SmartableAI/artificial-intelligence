@@ -71,6 +71,20 @@ related:
         width: 1100
         height: 825
         isCached: true
+  - title: "Students searching for internships during the COVID pandemic must be prepared for AI-driven interviews"
+    excerpt: "We believe that every college and university student and recent graduate deserves a great part-time, seasonal, internship, and entry-level job!"
+    publishedDateTime: 2020-11-12T21:50:00Z
+    webUrl: "https://www.collegerecruiter.com/blog/2020/11/12/students-searching-for-internships-during-the-covid-pandemic-must-be-prepared-for-ai-driven-interviews/"
+    type: article
+    provider:
+      name: College Recruiter
+      domain: collegerecruiter.com
+    quality: 21
+    images:
+      - url: "https://www.collegerecruiter.com/images/cr_logos/cr_logo.png"
+        width: 593
+        height: 240
+        isCached: true
 
 secured: "8+n2wn9y/u3W5JpI43tVOLkXBcBvHwcx2FX6xn6qSuzMJyvgUwtJvZ/9NBN9V0sdtzqRd2wUy66Xh3uwm4xxvkhF4xVr88iTpwIZM+pqNbMu1fw88IbmRvHPbSamEWIHGr3eCh4cIoayCsbU2hIgrlS0KuLdndFy7lssRAOKaIP+M4qHODsGWBmR/0e+3+1gsM8s5I8vTPR53ffphIHH0qemuAdaCCE+R1MBCFp49DvkzUSI4FNufCY3R+/EuECiHNTepmgTezw1DRN3UdbbktM9gzBwHClinuoa0XfF7JKQ+LT4J0rBJQg9nW5qiBEV8YIB42X4KFuJDLji7Ot5TePrCcNGwjD6Gxxc4LU/wHLozCnqZJtsrMAp64cx3DpAWmTWPROUDODGk9VuWZKbiaL8oP2cXCPnxl1eHCk9IIzEqqGLx6FUPtMjaMkWIfjIKh02FN0aFiVct3ifBNMUzWX+72W8DLCMYLS1NIBVmSD10Eg7MmYWDR/xmUtmijtCl2N7nvgDNIyL5cgHkGoj0w==;988p3lo/8yAWnvwHQRyfoA=="
 ---
