@@ -61,6 +61,20 @@ related:
         width: 2048
         height: 1151
         isCached: true
+  - title: "New A.I. Offers Facial Recognition for Grizzly Bears"
+    excerpt: "But now, Clapham and her research team have developed a solution: facial recognition for bears. Bears grow and shrink a lot depending on the season, and their appearance changes frequently during their 20- to 25-year-long lifespans. Clapham began to wonder ..."
+    publishedDateTime: 2020-11-12T20:58:00Z
+    webUrl: "https://www.smithsonianmag.com/smart-news/new-i-offers-facial-recognition-grizzly-bears-180976276/"
+    type: article
+    provider:
+      name: Smithsonian Magazine
+      domain: smithsonianmag.com
+    quality: 39
+    images:
+      - url: "https://thumbs-prod.si-cdn.com/QmH6-PQawF6XmQzc-edjGZHcL0o=/fit-in/1600x0/https://public-media.si-cdn.com/filer/92/43/92433590-617f-4e6c-a798-7458fae2843c/2020_nov11_grizzlybearai.jpg"
+        width: 960
+        height: 640
+        isCached: true
 
 secured: "y19WcGv1H9XJU7eSemhPKpR03C0lCDAN3Z5K9uymvLsmVJBrYX2d+xBeipDZdQQRKmS6481JSFpUPhY8jkIt7ZwWMH9UTfFuLJuR3pr546n77zW9XS82hgIYYWCygCC2ETVE5hoCHWxsIE9+urFsuqn/tl7I8VgR9jbcsFzbF1IKpCvBRjJPCV8fBw7dveIQK6REwc63txX5HCVHAtpQWlLwU47zbOPl2DBsacOcPAlgiVvDAgiO9RHUKMDrDVm8WLMPSKteCgj4AZAXcUo4z2M03W98Jg/tI99o+80m8JNQeBhLKjjqm0xor/1VT8hSRo02mPEODxv6XEJ3mcVHM8PZFtXByHimIRaH8YFD5hebWFbJikUsDWjZRzO/wsOAKhyJFKGcM9HuZ6lOEFcRTsU/6grsyKWEsspN2pSUidBAH6MwmICf3iQEZ/OJxuHIbLO574v7N2T/ixwtTJLV0Ue+xg0vAg4t7F7Xo8QSMVDWPqu8KXP5XYP/LxpIhdCNmIckNDGlTSSrcAfbghExbA==;EL94z3tVSAUEGMLBzpNt5A=="
 ---

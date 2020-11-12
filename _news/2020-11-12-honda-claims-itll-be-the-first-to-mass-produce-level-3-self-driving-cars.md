@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/honda-to-mass-produce-level-3-self-driv
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/honda-to-mass-produce-level-3-self-driving-cars-163208006.html"
 type: article
 quality: 88
-heat: 218
+heat: 208
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3b168c815f73863665f132%2F0x0.jpg%3FcropX1%3D870%26cropX2%3D3023%26cropY1%3D288%26cropY2%3D1670"
         width: 1200
         height: 770
-        isCached: true
-  - title: "Where are our self-driving cars?"
-    excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time,"
-    publishedDateTime: 2020-11-08T05:00:00Z
-    webUrl: "https://tulsaworld.com/business/ap/article_a499ed1c-1ecf-11eb-b1cb-6f5b91e3c539.html"
-    ampWebUrl: "https://tulsaworld.com/business/ap/where-are-our-self-driving-cars/article_a499ed1c-1ecf-11eb-b1cb-6f5b91e3c539.amp.html"
-    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/business/ap/where-are-our-self-driving-cars/article_a499ed1c-1ecf-11eb-b1cb-6f5b91e3c539.amp.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 44
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/7/ee/7ee93946-9cfc-54c8-8337-63e230f69016/5fa2f9970fbbf.image.jpg?resize=1024%2C630"
-        width: 1024
-        height: 630
         isCached: true
   - title: "Honda, First To Mass Produce Level 3 Self-Driving Cars: Reuters"
     excerpt: "The Japanese government awarded Honda Motor Co Ltd (NYSE: HMC) a safety certification to the automaker’s “Traffic Jam Pilot” self-driving technology, Reuters reports. What Happened: Honda plans to launch its luxury sedan (Honda Legend) sales with the ..."

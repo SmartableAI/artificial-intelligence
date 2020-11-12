@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 723
         isCached: true
-  - title: "Waymo Reveals Every Collision Involving Its Self-Driving Cars in Phoenix"
-    excerpt: "Self-driving cars are set to revolutionize our roads, although exactly when is much debated. Until recently these vehicles all relied on a human backup driver who could take over a self-driving car are set to revolutionize our roads, although exactly when ..."
-    publishedDateTime: 2020-11-09T16:24:00Z
-    webUrl: "https://www.discovermagazine.com/technology/waymo-reveals-every-collision-involving-its-self-driving-cars-in-phoenix"
-    type: article
-    provider:
-      name: Discover Magazine
-      domain: discovermagazine.com
-    quality: 38
-    images:
-      - url: "https://images.ctfassets.net/cnu0m8re1exe/73EBmlLCjStWqOHh8YtKN7/38f0804979c6700ec3bb931bec03e049/shutterstock_643585552.jpg?w=650&h=433&fit=fill"
-        width: 650
-        height: 433
-        isCached: true
 
 secured: "B3foaRlEjtEdfclEzYoCKf/Hl5FCkU26tIqNVFO4N52H7pIl+G/4gKxVZFsbZl+fgY/UaD5atbCCo1tEqLj37j31B3NYN8+BU2cP7WJpKpPC/lOB3jnGFNI+tKKHofPGQ7DRewQw2dd31Ta6NUuDDTXe48X3IQgyMfpSedMPxJTOpE/o871BjDxLRVNNq6KM8pujgCGUyawXT/0jIEaIu0gthX8ztVq61/a938tbc1fdFUoYzTzncem9jd36FoP3j6FneCna33RZdpBhlzSY0FOeMHS8s39SMXbiwj5Bsr7SCDDyr4YP/DnSyhJnRbvqMR1XdZt7lVqMPr6wV3eAxvgNXThKr6uqdkgF3eyxffWYk0ao5ivoDZf87r5AE7wn6F6zkiq/t1gLnTWDEe7iHskuB3LUqardJgNZ1g1lrQk1bqXh021qP/7cxokR7/KL0lGtip8ErUkTVGvvF4gIbhXXM+t3sejqgTC83v5aJTL7RiIksKH5RiLJo3B2OyfoSjD1QnFKY+MuYR0Bz79+AQ==;M4UeUZv05UjksVh6r+BI+g=="
 ---

@@ -25,37 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Top Reasons The Investment Spigot Is Reopening For Self-Driving Cars"
-    excerpt: "Recent spate of investments in self-driving cars is due to key factors that are dovetailing at this moment in time."
-    publishedDateTime: 2020-11-11T17:38:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/11/top-reasons-the-investment-spigot-is-reopening-for-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/11/top-reasons-the-investment-spigot-is-reopening-for-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/11/top-reasons-the-investment-spigot-is-reopening-for-self-driving-cars/amp/"
+  - title: "Waymo throws shade at Tesla and Elon Musk over self-driving comments"
+    excerpt: "Waymo is throwing shade at Tesla and Elon Musk over comments that the latter has made about the usefulness of the former’s self-driving technology. There are dozens of high-profile companies working on solving self-driving and just as many different approaches,"
+    publishedDateTime: 2020-11-12T19:36:00Z
+    webUrl: "https://electrek.co/2020/11/12/waymo-throws-shade-tesla-elon-musk-over-self-driving/"
+    ampWebUrl: "https://electrek.co/2020/11/12/waymo-throws-shade-tesla-elon-musk-over-self-driving/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/12/waymo-throws-shade-tesla-elon-musk-over-self-driving/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: Electrek
+      domain: electrek.co
+    quality: 104
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fab29cca3f8041667ea2da7%2F0x0.jpg%3FcropX1%3D650%26cropX2%3D6824%26cropY1%3D95%26cropY2%3D3815"
-        width: 1200
-        height: 723
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2018/12/waymo_minivan_7.jpg?resize=1024,512"
+        width: 1024
+        height: 512
         isCached: true
-  - title: "Where is my self-driving car? Here is why they are taking so long"
-    excerpt: "A few years ago, news stories seemed to say that autonomous vehicles were just a few years away. So where are they?"
-    publishedDateTime: 2020-11-12T10:03:00Z
-    webUrl: "https://www.app.com/story/money/industries/technology/2020/11/12/where-my-self-driving-car-here-why-they-taking-so-long/6223735002/"
-    ampWebUrl: "https://amp.app.com/amp/6223735002"
-    cdnAmpWebUrl: "https://amp-app-com.cdn.ampproject.org/c/s/amp.app.com/amp/6223735002"
+  - title: "Waymo Suggests 'Orders Of Magnitude More Advanced' Than Tesla's Full Self-Driving Approach"
+    excerpt: "Alphabet Inc's (NASDAQ: GOOGL)(NASDAQ: GOOG) Waymo is working on level 5 autonomous self-driving cars. The company currently has a robotaxi service that can take people from point A to point B with no human in the driver's seat. The technology is geofenced ..."
+    publishedDateTime: 2020-11-11T12:53:00Z
+    webUrl: "https://www.benzinga.com/tech/20/11/18313294/waymo-suggests-orders-of-magnitude-more-advanced-than-teslas-full-self-driving-approach"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18313294"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18313294"
     type: article
     provider:
-      name: app.com
-      domain: app.com
-    quality: 44
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 64
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/09/PAPP/573035f9-a48c-4fc2-9893-8237388a4aad-AP20304406106665.jpg?auto=webp&crop=5208,2930,x0,y130&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.benzinga.com/files/images/story/2012/waymo_minivan_7_2.jpg"
+        width: 6720
+        height: 4480
         isCached: true
 
 secured: "j4njSpWT/Y6dGydTcmdEJrUuM9UHvx8Y1CN5iEHXkUKpZnIYR//P0jvcIFFo/JCaAHnBtJY+RaARxKyKV44+2/cIKrgQv9aXWaNEPKDXCicrHjp2//Vdc+fsT4FBd1Bi3Sa2BpSwrxHjRbmVK1fyxXc3QDYtTCz25rRbwSWLYEH/Lwqz/je7YRvulcyeUDOVQdNSfUFm/lat+6ieZXAqpnfHH6EqdZtuQX+zBvOpQX/hePvXKcOZ2l5NiMmjJncVzT40GNQM8DIrdPCA+kfUBLJ70wmsYAIEmqa8TmX4JeOeJpCLJ72w4EONOtI0d/A9/KByJ7EQB/cTeamKw/gybnVgr6TUohra8zpH4irBXnkIVdqK5bqGOZ6HmiHZXuwZyDeNB/thisgD5qD9tiGAYqrBdhjrNQdhdPT7XYyCRC0hDuZVqyLYnW1AKaPh2JWKV1tFQs8nEL1qnmY2v0Zm6dfY7SmypnsrRX916BBQphdmQFh0YLy258ASDfU+rReYKXR0ke5RwWfTR3qSpDR96w==;wtMTCOu7vI2QLBi40jXe4A=="

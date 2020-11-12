@@ -111,6 +111,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "North America Computer Vision Market Analysis and Forecast 2020-2026 - ResearchAndMarkets.com"
+    excerpt: "The “North America Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and Forecast 2020-2026” report has been added to ResearchAndMarkets.com’s offering."
+    publishedDateTime: 2020-11-11T16:06:00Z
+    webUrl: "https://apnews.com/article/technology-business-corporate-news-north-america-products-and-services-40ab21e39d3742f1a424af05805223da"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Global Voice Assistant Market 2020 Industry Outlook, Key Players, Segmentation Analysis, Business Growth and Forecast to 2025"
     excerpt: "Global Voice Assistant Market 2020 by Company, Regions, Type and Application, Forecast to 2025 is a conclusive source of information that encapsulates vital details about the market flow as well as future status during the mentioned forecast period of 2025."
     publishedDateTime: 2020-11-09T04:58:00Z
@@ -140,6 +154,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Yaz9WZVEiLnEzBky3Xwu+UmGkpkDCYXHBUH8T8m7BTkCtdj8S63QJNEOttmKEKhsBUKQoGZLqiMRvHSofCqIe3MhETd3DyfRDCs9R+RMasYxg0J73lTOXH+lkRJCkYkwmIv/KlJjyMo8kVFtsQhACKhG4EkC5WgMlR+yWfdAA3h+z+E0TVt3fnsL5N8xvSKm5tocbl5iFzgjgN4ypckRd2pdq/y6ea+tZj8tu0PvCXfW6JEl8/w/izyptM0IJxXckvZhqcNRuhIzfFijTnHkqtZx22sUrDbURRSrN1AtE+BdxFoKkzGyPNEAXXhJSiTX2NdAEs56WBHiDsSwsi0qtwHZwyJDKBr9VanSH0ycKDc=;D/fVBN9pNo0larw1n202RA=="
+secured: "vMXAeb9eRh4j6twOHcC/wVH0gOoFXsD+aeopB1+eSfxcb4ej7DR7jC92KKkhASBlPb3L9qooAxyEw3gmrFSvVQtO1PFZQFnXrGmJc5Tfl2eCPqPVTazO0YhW8C5+7t09vciaxVr7oZUhG9Ic7SXw+kLvUpxUOio3rlvVaPJLLHMMlZ1io4yJH4UPhrgV9ngc9mtFvTMHdqrWcbVPTZxIit6YzlbQKFClyNX6BLLw/j54IFcZcjSL/14f6bIuaYM59B7Z3wZdw+nQ3psE/eAuUIg/64RGW1VQHvfcpkgcUc/+KbilunX6COxXJ8sJ70nZYmPISRvTQXRj+Hhp/blOJGMUNFzEbHNRBEiOzbQz0LcNtbkBPoX2bU2uUsYEZMme24FThWIlvUIArLqkbSC9OGARBDDzKA0Yv5BD79AtpqRWFrnPD46mgK3F8cv5cea7dQvvTnBCLN1oE8xQao2x2Pviy5jfR1Gud9Fl3p77W+MNIF9xIM1NhYRA/6e82gh0U1Z8ugOCT1uwfIwwOiQglQ==;jba2yCLm1VUqV3YUMDk6Wg=="
 ---
 

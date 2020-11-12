@@ -3,8 +3,8 @@ category: news
 title: "Impacts of COVID-19 on the Global Artificial Intelligence and Cognitive Computing Market Report Research Industry 2020"
 excerpt: "MarketDesk :The Impacts of COVID-19 on the Artificial Intelligence and Cognitive Computing Market Report Research Industry 2020 has been included in market.biz library. This Global Artificial Intelligence and Cognitive Computing market report has been created in conjunction with primary business specialists,"
 publishedDateTime: 2020-11-11T09:43:00Z
-originalUrl: "https://apnews.com/press-release/wired-release/technology-business-science-apple-inc-corporate-news-60480de0ab81277db2e6944e9b9e5779"
-webUrl: "https://apnews.com/press-release/wired-release/technology-business-science-apple-inc-corporate-news-60480de0ab81277db2e6944e9b9e5779"
+originalUrl: "https://apnews.com/article/technology-business-science-apple-inc-corporate-news-60480de0ab81277db2e6944e9b9e5779"
+webUrl: "https://apnews.com/article/technology-business-science-apple-inc-corporate-news-60480de0ab81277db2e6944e9b9e5779"
 type: article
 quality: 15
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "KbTRChFlgVu4skEgpRUe97bOH/D2kZrSc3Yyb2unBA4RAyhnKFynQL0ifSHkV7e3E+5g6aRLazUJ+bQDCCnfu3gn8BWBGEZa3z1ioBqYpNTf628sIosZHSLbOTrp45vkMkmUcAA6Z8tFJNma2cwdTCYrSV69q1lqEt7TD/Sd2quHwuE2SJRWzJaQGoGUk6UB0/LlrtF+OVxlAkPOuKn1hXzy9XOzF0GjkC736uvA4J4k3IDWljYSmpGCylfTS3RkJ6lDqd0+hO7pIXb4gBFJ8p4i0rNLcS7FyFIgXw2t6KSwJIBwwj0lrnNwQnFP6RxiJMmT68hYMsTfsrPWXenjWKqmxQC/dbsVuWzhubuC5rM=;w8a+m7XImQv9XrDQOS9bMA=="
+secured: "gonmzTxxHsGSPE53GFikJ3bEm3uA+AIf+ZCkrPiGPDQC+Dv8Gui5NGPS1Ao8lUv7YHXSC5Q56tFQmlfihOU27NQ9bSQYe6k8M+R1TvoY1dLkua60mKMQ8ODi1DtI3RuUMhnz/8oX1n/PFvo65jxSsA2DrPko6uWutWBWsXMk6wszNvlpfMNbmayKZOlZmqz/d1V3r8dZFjuQeQXBy/okXgGR7jnjY++tYd3z1ontwX6M/N4ElCIzo3buvs5nJIh1tJFfEYSxR7x7qcCstkOB6o0i7j5M1+3fbvuoIHVSU4G8scYUvhJPoboY4XVaoDmhXhZaHMn8ywrlYQLo5bJwZqpcIr2nW2S8K4S9npbNM7M=;r+HRPtSqdTRw27nfcu72eA=="
 ---
 

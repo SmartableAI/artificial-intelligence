@@ -129,6 +129,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "North America Computer Vision Market Analysis and Forecast 2020-2026 - ResearchAndMarkets.com"
+    excerpt: "The “North America Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and Forecast 2020-2026” report has been added to ResearchAndMarkets.com’s offering."
+    publishedDateTime: 2020-11-11T16:06:00Z
+    webUrl: "https://apnews.com/article/technology-business-corporate-news-north-america-products-and-services-40ab21e39d3742f1a424af05805223da"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Video Analytics, ISR And Intelligent Video Surveillance Americas Market Research Report 2020 By Segmentations, Key Company Profiles"
     excerpt: "According to HSRC's latest report, Video Analytics, ISR, Intelligent Video Surveillance & Object Recognition & Americas Market-2015-2020, the U.S. and the rest of American national markets are expected to exceed $36."
     publishedDateTime: 2020-11-11T12:25:00Z

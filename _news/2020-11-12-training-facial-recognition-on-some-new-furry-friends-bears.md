@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2020/11/11/science/bears-facial-recognition.
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/11/science/bears-facial-recognition.amp.html"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/30121041/biometric-accuracy-facial-recognition-crowd-scaled.jpg"
         width: 2048
         height: 1151
+        isCached: true
+  - title: "New A.I. Offers Facial Recognition for Grizzly Bears"
+    excerpt: "But now, Clapham and her research team have developed a solution: facial recognition for bears. Bears grow and shrink a lot depending on the season, and their appearance changes frequently during their 20- to 25-year-long lifespans. Clapham began to wonder ..."
+    publishedDateTime: 2020-11-12T20:58:00Z
+    webUrl: "https://www.smithsonianmag.com/smart-news/new-i-offers-facial-recognition-grizzly-bears-180976276/"
+    type: article
+    provider:
+      name: Smithsonian Magazine
+      domain: smithsonianmag.com
+    quality: 39
+    images:
+      - url: "https://thumbs-prod.si-cdn.com/QmH6-PQawF6XmQzc-edjGZHcL0o=/fit-in/1600x0/https://public-media.si-cdn.com/filer/92/43/92433590-617f-4e6c-a798-7458fae2843c/2020_nov11_grizzlybearai.jpg"
+        width: 960
+        height: 640
         isCached: true
 
 secured: "a1cW69+Q7Fe8oGYZK0Z5Ykz12xG4APhPctxQE3sMmqlrPo5vqmw6N5rEwtDFe/R+dd9NSxRFtxO+FLGjlchDigywg1myqYfwrklw1YWjXRsc77T9Un6norciGxRlcQQbw9/HKK9olb53xZkpXH67ufWFNWbO/g8qRZxWLX8giQkRvAFrYcP6VzWk5UpIfq7/F1cvnTrg0zMA9m3fyHui7tH+hdNMRqaW4a0crRMK2dR7z/32lREX3hx3ye6aGcoDMllPiyKVg9BA7uH6K140BW2hVZ1XmT190pKs09pgHth4XwT514UZPHsti2ws+/4FkfrzWcgmY5TQJKGBHEoEyVwTNtUZh8LrCjz2/gpgiFcxb/62cLNj51lD09EHcq1gQSit31swTU+Lj5gWplCLyyB8C1/l3/ksThsdSmug9oshi+apI3Leul+2A2rtQx8sYsYGSX06PJOGR5Y0tusg2i6KBHkIrCQDUZMV+OSEkbk8XB5OlSKrXUuqUs8Gj2KXuiW/WZJ6gJl578q1xOh6aQ==;UPg+hLOO9QeYJE+FKTWS2Q=="

@@ -34,19 +34,19 @@ images:
 related:
   - title: "AWS Announces AWS Glue DataBrew"
     excerpt: "(NASDAQ:AMZN) announced the general availability of AWS Glue DataBrew, a new visual data preparation tool that enables customers to clean and normalize data without writing code. Since 2016, data engineers have used AWS Glue to create,"
-    publishedDateTime: 2020-11-11T20:19:00Z
-    webUrl: "https://www.nrtoday.com/ap/aws-announces-aws-glue-databrew/article_bb412cdf-16a2-548b-88a8-a144d58a8627.html"
+    publishedDateTime: 2020-11-11T21:19:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-amazoncom-inc-corporate-news-6515914e633a4c3aa830eb5fb4f547cc"
     type: article
     provider:
-      name: News Review Today
-      domain: nrtoday.com
+      name: Associated Press
+      domain: apnews.com
     quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/nrtoday.com/content/tncms/custom/image/f5e7ee9e-cc4f-11e5-96fd-db9d0954cef5.jpg"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
-secured: "bM/ihTbYFYI93y4LrGByRIGIEDM7cjAIViFuXOQiTYKdmtPdfKS2ru/DtBBY+9dB2v+s+brUAK2AwEbpsoy3UOConp2Ro7KbK1gvIYefVWOyfBqrhXh66S1kVtMClj8yzd0ojzlvpqaDa0OclobgzF7rN1Mo8spHjuNBETFAIy6TfNStmHaSl1vSpuaScK/LANaKK4ZW5CxuTUiBi6f1SS+xs/jVBoRHveLA00SyCVtznVQ4OvgATXQq8HTkjqmTt6a8nVppUBpVMH6mq4RCBLi8XMrNaDCAe+KaYGuCO/tdXAAO5rd3tazT2q7SF1Vsi1TjZxe+b6htzja8jokICydS+T1lL73kl5nk/ZCktbY=;RrPTKgnoWvQaHrJs28B8YQ=="
+secured: "2z6zyRdXp8KWiJFG/bGFr9lloSqieiVUBSi3xXT/mcQgo0awOgr2Ttkdg7De90zxpagrk0LTAVvFsp0ZMGFqVchC8E6EeGib3OcLeacRg/Vz0tkBPFsZQoZ+RrOWg8kZhOG/ApCVmJnc0eaEkpe9SWLwz6vqwun1SM6IyVygSkBrv4LqSy7+TWw3Yio/Cd5Cy8Zke15idUeBvua1JDtkV6TTURUG4GRQ+inNLAQnHdhhmsIEdPGUzTYEcQ1Z358xY/XOs8LC3janhgg3tO10nBMcbQgtDMz3G1TyRVeVCc7nDGpTHt+IHUw3i1w5J6oy5Zqi8NfJz8OZbD3q9DbyahBQZ2dnySJQOiZHvt1zNh52H6KSkShl8UUMVCQrXwCZ2Iant2TlqEMOS3eHNnN442uBiZBd5vtA+DDihM8Ir03/nF9xubGftEFkU/MKZQFH9UaPZDK6OYMTdGKm/1ZDR49yGSJsSJFy0t1w/LoAJBRXJgkijG8C3qrU2LEiHmBBMEOebvrOsTPUe4Q5txRn7g==;nwKFUr6Srq1+kpB/ABzwCw=="
 ---
 

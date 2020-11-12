@@ -62,7 +62,7 @@ related:
     provider:
       name: defensemedianetwork.com
       domain: defensemedianetwork.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.defensemedianetwork.com/wp-content/uploads/2020/11/Docs-at-microscopes_r1.jpg"
         width: 1000

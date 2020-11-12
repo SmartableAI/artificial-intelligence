@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-service-robotics-
 webUrl: "https://www.marketwatch.com/press-release/global-service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026-2020-11-10"
 type: article
 quality: 72
-heat: 152
+heat: 162
 published: true
 
 provider:
@@ -34,6 +34,20 @@ related:
     excerpt: "The Report also calculate the market size,Artificial Intelligence (AI) Chips Sales, Price, Revenue, Gross Margin and Market Share, cost structure and growth rate. Final Report will add the analysis of the impact of COVID-19 on this industry."
     publishedDateTime: 2020-11-11T12:30:00Z
     webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-analysis-by-size-segments-applications-types-competitors-demographics-and-forecast-to-2026-2020-11-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice and Speech Recognition Market by Size, Growth, Opportunity and Forecast to 2026"
+    excerpt: "Selbyville, Delaware, The Voice and Speech Recognition market study now available with Market Study Report, LLC,"
+    publishedDateTime: 2020-11-12T20:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-by-size-growth-opportunity-and-forecast-to-2026-2020-11-12"
     type: article
     provider:
       name: MarketWatch

@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) in Healthcare Market to Reach US$ 26.5 Billion by 2025, Globally |CAGR: 41%| UnivDatos Market Insights"
-excerpt: "Artificial Intelligence (AI) is expected to contribute up to US$ 15.7 trillion to global GDP by 2030. AI applications, powered by an influx of big data and advancements in computing power ..."
+excerpt: "The healthcare industry is expected to benefit from US$ 45 billion in annual cost savings by 2025. For detailed analysis on the Global Artificial Intelligence (AI) in Healthcare Market browse ..."
 publishedDateTime: 2020-10-27T00:00:00Z
 originalUrl: "https://www.prnewswire.com/in/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-842269344.html"
 webUrl: "https://www.prnewswire.com/in/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-842269344.html"
@@ -12,8 +12,8 @@ provider:
   domain: prnewswire.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1225049/UnivDatos_Logo.jpg?p=facebook"
@@ -21,6 +21,6 @@ images:
     height: 670
     isCached: true
 
-secured: "39JQTsClfc6QNDtD9YyRRCYYNiRT2bARGBfUjWTFO8CFzdAgUyb0ULDul/ooZ4jAGHyGqaJzNzlEcIMVKvjt91Z20OEpxoHnrk4XcMINVD7ttNy9QdVZOn7NCVrvLHPTiyqEinAPjfNoaVD0Fux3CI39DQkl8ZpCzvNI4HkvkTLqpYk8XuRh0JxtfkS+YkbHOQggH/QvfaYCtp9wG7r3zvB+6McEUTWxOmfRkcJD57DycFdbHcURqoCvSi6ISuBHcUohtf5167PlAVASwmOwZM0lsFECk0JxvCbR/j/GJrsJgDuyjirrrlESIl4gBiKmjMsxl99Mo0d0VHAqp9PWwvuTL5BpdLPTi9FYKrtK7s4=;AbR4CqNjK0dmpkVBNdawbQ=="
+secured: "lKa2qRBfKd+Hf0NBzNdm+YEgZ3QhIxZtezbcezv64yoLRrCVny4xE/2OsuueYwX4YX2jlfkbZDwcDCLZYn6IX7J51Y+QnpM71Krdo8vLjY92a/7diNs18b8qQdZJ/E7TS5tirjOhyaeBT2CT8/quTr9Qvz8y/VpEBDWt0xgagh2liFuMBBK779WPTlBnyAz+zlprt6sHQj2kZnkmxpG2uwBhGDD3GvXgVAtkzP/B2NZsGb4aB26ObRXAaiRsqmBlskHLpCISTuh8uQO4CMAJn882qebzjhwSWJgcPyANONkv6QU2P/yo2X+3LuCUF9RclJnxiFjZp0U1eZmrzOb6IRHdkTV9Io4ncbrA4ePyb3c=;yl8ZKkXwDgdCA/RsCdgDpg=="
 ---
 

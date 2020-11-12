@@ -2,9 +2,9 @@
 category: news
 title: "Speech Recognition Market Size is Projected to Reach USD 29.28 Billion by 2026 | Valuates Reports"
 excerpt: "BANGALORE, India, Oct. 27, 2020 /PRNewswire/ -- Speech Recognition Market by Deployment Mode (On Cloud, On Premise), By End Use (Automotive, Consumer Electronics, Healthcare, Enterprise ..."
-publishedDateTime: 2020-10-27T14:06:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/speech-recognition-market-size-is-projected-to-reach-usd-29-28-billion-by-2026--valuates-reports-301160677.html"
-webUrl: "https://www.prnewswire.com/news-releases/speech-recognition-market-size-is-projected-to-reach-usd-29-28-billion-by-2026--valuates-reports-301160677.html"
+publishedDateTime: 2020-10-27T14:46:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/speech-recognition-market-size-is-projected-to-reach-usd-29-28-billion-by-2026-valuates-reports-839949080.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/speech-recognition-market-size-is-projected-to-reach-usd-29-28-billion-by-2026-valuates-reports-839949080.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 482
     isCached: true
 
-secured: "w2y5DwbiEZJsIHEnt00CyqiVwv0d8esSUUwvSDyTO0neFktasT1ZJH0qmFzs7ahdcpkm+HtcZ/hGH/MzuEO0ThWSJpLMT3Snf7Jlg/D/bhNjfXGdZQfqzmZLk501PcPFF2MTDzI6TCQoCqmYLxK7oBjXrPoSuwQAXT/f2QfCsAxlni8R8Md6Ca8NA0uxIHPRn7GKm7fL2KoMFVzbE9iuYIcYlM+iuZmd5AKC6f6N/PPnvpUBnsKFWP5VfaB1kya0dZdZF0EXwoOIg8mZjOKIB4KUVAgasE4926oYswGepOP13eQawuDyKJ/80K0Xj3W+ChH8dkj/cN/W+F3Ywi4KzMo0sjldC40Zs7FIC67Jg1Q=;sdVxQ8svs0/dPx8ohJ06PA=="
+secured: "y93kSFFjDR9Tya5Y6j+ZvkfTi2qK4XwjgRDk7OcDLQIqe3J9ufXwb/bDKxhL39J7fCv4PdEYDsY/1Pj55d1TH1Y35cvvORfBD+SqG4wJ4o+EGJQstLTSqgp8XPCfnFdTsmdTXw82HR97ISEpiTpS9JhDib166s++pv+HQiqoYYv4Jc0JQOUQssWh1gh+eMGOa9ZCjgT4ByKFrMYDFLrDLziLpmyFMmkymGMkBfzaMDArwG9DtuM+u+gLlbtZpnv5aHWca75wym6tGE2CviinXGDmiMCOhyboCk2N/ylBn1vJ/ZQpyR1rkF28En7zlq+q5w7Ir4Yd3jd2rZhPN9vH7ubHIo7IGNJVoYd0MjXTFWs=;7/BWPbIbXAtISMObv4GDhg=="
 ---
 

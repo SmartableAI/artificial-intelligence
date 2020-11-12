@@ -1,24 +1,18 @@
 ---
 category: news
 title: "Amazon shifts some voice assistant, face recognition computing to its own chips"
-excerpt: "Amazon.com Inc <AMZN.O> on Thursday said it shifted part of the computing for its Alexa voice assistant to its own custom-designed chips, aiming to make the work faster and cheaper while moving it away from chips supplied by Nvidia Corp <NVDA."
-publishedDateTime: 2020-11-12T17:44:00Z
-originalUrl: "https://www.reuters.com/article/amazon-com-nvidia-int/amazon-shifts-some-voice-assistant-face-recognition-computing-to-its-own-chips-idUSKBN27S2RI"
-webUrl: "https://www.reuters.com/article/amazon-com-nvidia-int/amazon-shifts-some-voice-assistant-face-recognition-computing-to-its-own-chips-idUSKBN27S2RI"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S2RI"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S2RI"
+excerpt: "Amazon.com Inc on Thursday said it shifted part of the computing for its Alexa voice assistant to its own custom-designed chips, aiming to make"
+publishedDateTime: 2020-11-12T20:15:00Z
+originalUrl: "https://www.channelnewsasia.com/news/business/amazon-shifts-some-voice-assistant--face-recognition-computing-to-its-own-chips-13528214"
+webUrl: "https://www.channelnewsasia.com/news/business/amazon-shifts-some-voice-assistant--face-recognition-computing-to-its-own-chips-13528214"
 type: article
-quality: 87
-heat: 87
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - AWS AI
@@ -26,11 +20,27 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1541008813&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB1P6"
-    width: 818
-    height: 545
+  - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13528212/16x9/991/557/e70edfa56e34e0973afdcb3c88e0341e/Sf/file-photo--amazon-logo-is-pictured-in-mexico-city-7.jpg"
+    width: 991
+    height: 557
     isCached: true
 
-secured: "oNvOX8yX9nRfv4lgfP8ScvXm/xZfvTBqFoHrIc4rPb5d5F7KMGxR2WlPbyyV0xjd7ekzWSe7YM3Qplq7pxozU1WWoHCqGp8vLyZwt8Jws3Kuu1nCQt1iYmYXVwlMQqxBjPqqgtV0s6SegfPCWEu83bh9nqt3n1oe3QEss8rn4TI2wKfdrhZ3y32EJaRMcjohOhRSNe0q/3R4C0+tQggS8krHt8iVSxyUPmPV8U6OzEOwIkjTRjimv0iQg63fkRiSoQFnulehAyyDFn9NU9GoZVwSNmJ0bA5jwsQGL+IRzfZNldpYYQ6I1VkIofrbd830ep52dCgkSBRq7Isdc7gc8r5US1pDe9N8P8Wt7WByaHQ=;Kf8Gn94zBNWifYasoNsMvQ=="
+related:
+  - title: "Amazon shifts some voice, face recognition computing to own chips"
+    excerpt: "Amazon on Thursday said it shifted part of the computing for its Alexa voice assistant to its own custom-designed chips, aiming to make the work faster and cheaper while moving it away from chips supplied by Nvidia Corp."
+    publishedDateTime: 2020-11-12T20:30:00Z
+    webUrl: "https://www.itnews.com.au/news/amazon-shifts-some-voice-face-recognition-computing-to-own-chips-555835"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 41
+    images:
+      - url: "https://i.nextmedia.com.au/News/2020-11-12T173355Z_1_LYNXMPEGAB1O5_RTROPTP_3_AMAZON-COM-NVIDIA.JPG"
+        width: 800
+        height: 533
+        isCached: true
+
+secured: "J4Z3OToex6inMnSKe2kfFV7Ms4sfFaLjxjVI3Csx3D71IswXUVmO0kXECwrIXiW9+Wfp7Hg9IV0wI+3qHaKqW1wWxoffkZS4v81kVCX00+QWa0TU5n1j9CFgPxOXftN3F5PFK9BOUvPYghBnAwKcpAwahaJXnw2JZA0pGAEYXMDFMfFn1b6UOcp8vBDOBlOOxHJHsf6Nb929fQbHivS9B2M7u+633KjzBYbLNIxs4n9TNoC49Hd84XrAFWiDvjwRGiV0ihhZkEZFX/DlBuQYGNU0cloKxsKDNGOKax/FZr4WdSYggrZ0++WG+yInl1+KZnDRxBXdgdYUg+nPZyGbvUWYMdS+ulpcszAuKGejBLo=;3VNka6W/NPFSwWFxMQ4p6A=="
 ---
 

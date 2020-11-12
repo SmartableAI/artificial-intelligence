@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-12T12:02:00Z
 originalUrl: "https://www.defensemedianetwork.com/stories/va-research-the-national-artificial-intelligence-institute/"
 webUrl: "https://www.defensemedianetwork.com/stories/va-research-the-national-artificial-intelligence-institute/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Google AI
 
 images:
   - url: "https://www.defensemedianetwork.com/wp-content/uploads/2020/11/Docs-at-microscopes_r1.jpg"

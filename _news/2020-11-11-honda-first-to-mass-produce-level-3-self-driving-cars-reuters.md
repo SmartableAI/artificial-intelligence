@@ -91,22 +91,6 @@ related:
         width: 1200
         height: 770
         isCached: true
-  - title: "Where are our self-driving cars?"
-    excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time,"
-    publishedDateTime: 2020-11-08T05:00:00Z
-    webUrl: "https://tulsaworld.com/business/ap/article_a499ed1c-1ecf-11eb-b1cb-6f5b91e3c539.html"
-    ampWebUrl: "https://tulsaworld.com/business/ap/where-are-our-self-driving-cars/article_a499ed1c-1ecf-11eb-b1cb-6f5b91e3c539.amp.html"
-    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/business/ap/where-are-our-self-driving-cars/article_a499ed1c-1ecf-11eb-b1cb-6f5b91e3c539.amp.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 44
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/7/ee/7ee93946-9cfc-54c8-8337-63e230f69016/5fa2f9970fbbf.image.jpg?resize=1024%2C630"
-        width: 1024
-        height: 630
-        isCached: true
   - title: "Honda Hints It Will the First to Release Level 3 Self-Driving Vehicles"
     excerpt: "Honda has declared that it will be the first automaker to put out level 3 self-driving vehicles. It’s a bold move that gives the company a competitive advantage against most automakers — even Tesla only has level 2 self-driving cars at the moment."
     publishedDateTime: 2020-11-12T06:52:00Z
