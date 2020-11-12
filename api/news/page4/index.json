@@ -2,6 +2,359 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-10-oklahoma-plans-to-use-rekors-ai-to-track-down-uninsured-drivers-despite-discrimination-concerns.md",
+      "title": "Oklahoma plans to use Rekor’s AI to track down uninsured drivers, despite discrimination concerns",
+      "excerpt": "Rekor's partnership with the state of Oklahoma could lead to descrimination against certain groups of uninsured drivers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/09/oklahoma-plans-to-use-rekors-ai-to-track-down-uninsured-drivers-despite-discrimination-concerns/",
+      "originalUrl": "https://venturebeat.com/2020/11/09/oklahoma-plans-to-use-rekors-ai-to-track-down-uninsured-drivers-despite-discrimination-concerns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/10/roadtrip-e1604947444975.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/09/oklahoma-plans-to-use-rekors-ai-to-track-down-uninsured-drivers-despite-discrimination-concerns/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/09/oklahoma-plans-to-use-rekors-ai-to-track-down-uninsured-drivers-despite-discrimination-concerns/amp/",
+      "publishedDateTime": "2020-11-09T13:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-challenge-the-sounds-of-science.md",
+      "title": "Learn from the winner of the AWS DeepComposer Chartbusters challenge The Sounds of Science",
+      "excerpt": "AWS is excited to announce the winner of the AWS DeepComposer Chartbusters The Sounds of Science Challenge, Sungin Lee. AWS DeepComposer gives developers a creative way to get started with machine learning (ML). In June, we launched Chartbusters, a monthly global competition during which developers use",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-challenge-the-sounds-of-science/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-challenge-the-sounds-of-science/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/06/Sounds-of-Science-1.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-09T12:55:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-how-the-father-of-the-playstation-is-using-his-playbook-from-sony-in-his-new-role-as-ceo-of-ai-backed-startup-ascent-robotics.md",
+      "title": "How the 'father of the PlayStation' is using his playbook from Sony in his new role as CEO of AI-backed startup Ascent Robotics",
+      "excerpt": "Now he's trying to implement a similar strategy at Ascent, the robotics startup he joined in September as CEO — while forgoing a salary to save capital. \"We want to collaborate with as many smart people\" as possible, the so-called 'father of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/playstation-robotics-ps5-ken-kutaragi-startup-japan-2020-11",
+      "originalUrl": "https://www.businessinsider.com/playstation-robotics-ps5-ken-kutaragi-startup-japan-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fa2f31a69331a0011bc74c8?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-09T11:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-ai-quantum-rd-funding-to-remain-a-priority-under-biden.md",
+      "title": "AI, Quantum R&D Funding to Remain a Priority Under Biden",
+      "excerpt": "The president-elect has proposed innovation funding of $300 billion over four years, in part to remain competitive with China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-quantum-r-d-funding-to-remain-a-priority-under-biden-11604944800",
+      "originalUrl": "https://www.wsj.com/articles/ai-quantum-r-d-funding-to-remain-a-priority-under-biden-11604944800",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-253821/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-quantum-r-d-funding-to-remain-a-priority-under-biden-11604944800",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-quantum-r-d-funding-to-remain-a-priority-under-biden-11604944800",
+      "publishedDateTime": "2020-11-09T10:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-self-driving-delivery-firm-nuro-raises-500-million-as-covid-19-boosts-e-commerce.md",
+      "title": "Self-driving delivery firm Nuro raises $500 million as COVID-19 boosts e-commerce",
+      "excerpt": "Self-driving delivery company Nuro, whose R2 unit has no pedals or steering wheel and only room for packages, said Monday it has raised $500 million as e-commerce gets a huge boost from the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-autonomous-nuro-funding/self-driving-delivery-firm-nuro-raises-500-million-as-covid-19-boosts-e-commerce-idUKKBN27P1FT",
+      "originalUrl": "https://www.reuters.com/article/us-autonomous-nuro-funding-idUSKBN27P1FT",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 242,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540581533&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81M2",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN27P1FT",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27P1FT",
+      "publishedDateTime": "2020-11-09T09:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-artificial-intelligence-ai-is-key-to-reducing-digital-ad-waste.md",
+      "title": "Artificial intelligence (AI) is key to reducing digital ad waste",
+      "excerpt": "Do you really want your advertising budget being wasted on ads that are producing solicitations instead of qualified leads? More insights on how the world’s first AI Smart Core℠, SherloQ™ is revolutionizing how websites and digital ad campaigns operate altogether.",
+      "sourceUrl": null,
+      "webUrl": "https://www.searchenginewatch.com/2020/11/09/artificial-intelligence-ai-is-key-to-reducing-digital-ad-waste/",
+      "originalUrl": "https://www.searchenginewatch.com/2020/11/09/artificial-intelligence-ai-is-key-to-reducing-digital-ad-waste/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.searchenginewatch.com/wp-content/uploads/2020/11/Artificial-intelligence-AI-is-key-to-reducing-digital-ad-waste.png",
+          "width": 728,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.searchenginewatch.com/2020/11/09/artificial-intelligence-ai-is-key-to-reducing-digital-ad-waste/amp/",
+      "cdnAmpWebUrl": "https://www-searchenginewatch-com.cdn.ampproject.org/c/s/www.searchenginewatch.com/2020/11/09/artificial-intelligence-ai-is-key-to-reducing-digital-ad-waste/amp/",
+      "publishedDateTime": "2020-11-09T08:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Search Engine Watch",
+        "domain": "searchenginewatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-machine-translation-market-to-cross-15-bn-us-dollar-by-2026.md",
+      "title": "Machine Translation Market to cross 1.5 Bn US-dollar by 2026",
+      "excerpt": "The machine translation market is likely to register lucrative growth over the coming years owing to increasing popularity of cloud-based applications. Cloud technologies have effectively enabled users to proficiently run machine translation solutions over the internet,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-translation-market-to-cross-15-bn-us-dollar-by-2026-2020-11-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-translation-market-to-cross-15-bn-us-dollar-by-2026-2020-11-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-09T07:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-11-09-face-for-sale-leaks-and-lawsuits-blight-russia-facial-recognition.md",
       "title": "Face for sale: Leaks and lawsuits blight Russia facial recognition",
       "excerpt": "When Anna Kuznetsova saw an ad offering access to Moscow's face recognition cameras, all she had to do was pay 16,000 roubles ($200) and send a photo of the person she wanted spying on.",
@@ -451,7 +804,7 @@
       "originalUrl": "https://www.openpr.com/news/2183410/healthcare-artificial-intelligence-market-is-thriving",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -872,359 +1225,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste.md",
-      "title": "CSIRO to use artificial intelligence, machine learning, and sensors to end plastic waste",
-      "excerpt": "The Commonwealth Scientific and Industrial Research Organisation (CSIRO) has announced partnerships with Microsoft, Hobart City Council, and Chemistry Australia to address -- and attempt to end -- Australia's plastics waste issue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
-      "originalUrl": "https://www.zdnet.com/article/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/06/16/9661d050-0c11-4767-a7ae-3c29bd3d17c5/storm-water-and-litter.jpg",
-          "width": 728,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
-      "publishedDateTime": "2020-11-08T16:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-sci-fi-master-ted-chiang-explores-the-rights-and-wrongs-of-artificial-intelligence.md",
-      "title": "Sci-fi master Ted Chiang explores the rights and wrongs of artificial intelligence",
-      "excerpt": "BOT or NOT? This special series explores the evolving relationship between humans and machines, examining the ways that robots, artificial intelligence and automation are impacting our work and lives. The story of Ted Chiang’s life includes stints as a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/sci-fi-master-ted-chiang-explores-rights-wrongs-artificial-intelligence/",
-      "originalUrl": "https://www.geekwire.com/2020/sci-fi-master-ted-chiang-explores-rights-wrongs-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/11/Chiang-Publicity-630x444.jpg",
-          "width": 630,
-          "height": 444,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/sci-fi-master-ted-chiang-explores-rights-wrongs-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/sci-fi-master-ted-chiang-explores-rights-wrongs-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-11-08T13:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-walmart-ditches-major-robot-contract-so-what-does-this-mean-for-the-industry.md",
-      "title": "Walmart Ditches Major Robot Contract: So What Does This Mean For The Industry?",
-      "excerpt": "Walmart has been investing heavily in robots, such as for cleaning floors. But the company’s efforts have not been without their challenges. This week Walmart terminated its engagement with Bossa Nova Robotics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/08/walmart-ditches-major-robot-contract-so-what-does-this-mean-for-the-industry/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/08/walmart-ditches-major-robot-contract-so-what-does-this-mean-for-the-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa836f4ea89321072f85ba8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D416%26cropY2%3D2667",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/08/walmart-ditches-major-robot-contract-so-what-does-this-mean-for-the-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/11/08/walmart-ditches-major-robot-contract-so-what-does-this-mean-for-the-industry/amp/",
-      "publishedDateTime": "2020-11-08T10:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-review-cadillac-super-cruise-trumps-tesla-autopilot-as-the-best-self-driving-technology-you-can-buy-today.md",
-      "title": "REVIEW: Cadillac Super Cruise trumps Tesla Autopilot as the best self-driving technology you can buy today",
-      "excerpt": "I subjected the system to new challenges, including a congested highway and some genuinely awful, rainy weather.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/cadillac-super-cruise-still-best-self-driving-technology-on-market-2020-11",
-      "originalUrl": "https://www.businessinsider.com/cadillac-super-cruise-still-best-self-driving-technology-on-market-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa43726f7d1cb0019e3a02a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/cadillac-super-cruise-still-best-self-driving-technology-on-market-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cadillac-super-cruise-still-best-self-driving-technology-on-market-2020-11?amp",
-      "publishedDateTime": "2020-11-08T05:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-this-ai-makes-movies-from-hundreds-of-phones-automatically.md",
-      "title": "This AI Makes Movies From Hundreds Of Phones Automatically",
-      "excerpt": "AI.” Video processing algorithms can find the region of interest in videos, IMINT says, and in the future, they’ll automatically zoom in and intelligently focus on what they’re seeing: a goal being scored at a soccer game,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/11/08/this-ai-makes-movies-from-hundreds-of-phones-automatically/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2020/11/08/this-ai-makes-movies-from-hundreds-of-phones-automatically/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa78ea1652a1b5372c5aa4f%2F0x0.jpg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/11/08/this-ai-makes-movies-from-hundreds-of-phones-automatically/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/11/08/this-ai-makes-movies-from-hundreds-of-phones-automatically/amp/",
-      "publishedDateTime": "2020-11-07T23:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-nine-inch-nails-at-rock-hall-2020-watch-trent-reznors-induction-speech.md",
-      "title": "Nine Inch Nails at Rock Hall 2020: Watch Trent Reznor’s Induction Speech",
-      "excerpt": "Nine Inch Nails were honored tonight during the Rock & Roll Hall of Fame 2020 Induction Ceremony on HBO. After an induction speech from Iggy Pop and a video package that included words from St. Vincent,",
-      "sourceUrl": null,
-      "webUrl": "https://pitchfork.com/news/nine-inch-nails-at-rock-hall-2020-watch-trent-reznors-induction-speech/",
-      "originalUrl": "https://pitchfork.com/news/nine-inch-nails-at-rock-hall-2020-watch-trent-reznors-induction-speech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.pitchfork.com/photos/5fa7288e043ba2867b8ec85a/2:1/w_648/trent-reznor.jpg",
-          "width": 648,
-          "height": 324,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://pitchfork.com/news/nine-inch-nails-at-rock-hall-2020-watch-trent-reznors-induction-speech/amp/",
-      "cdnAmpWebUrl": "https://pitchfork-com.cdn.ampproject.org/c/s/pitchfork.com/news/nine-inch-nails-at-rock-hall-2020-watch-trent-reznors-induction-speech/amp/",
-      "publishedDateTime": "2020-11-07T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pitchfork",
-        "domain": "pitchfork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-how-the-department-of-veterans-affairs-uses-ai-to-help-vets.md",
-      "title": "How The Department Of Veterans Affairs Uses AI To Help Vets",
-      "excerpt": "With the largest integrated health care system in the country and a strong mission, the VA had tremendous potential to use AI for its mission. Dr. Gil Alterovitz shares the AI experience at the VA and how it's impacting the agency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/07/how-the-department-of-veterans-affairs-uses-ai-to-help-vets/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/07/how-the-department-of-veterans-affairs-uses-ai-to-help-vets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa6da8d7d7e38d5bf5f0e92%2F0x0.jpg",
-          "width": 586,
-          "height": 584,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/07/how-the-department-of-veterans-affairs-uses-ai-to-help-vets/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/11/07/how-the-department-of-veterans-affairs-uses-ai-to-help-vets/amp/",
-      "publishedDateTime": "2020-11-07T10:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

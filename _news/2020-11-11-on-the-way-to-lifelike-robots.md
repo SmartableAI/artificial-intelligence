@@ -64,6 +64,15 @@ related:
         width: 1440
         height: 948
         isCached: true
+  - title: "Physical AI may be key to intelligent robots"
+    excerpt: "Researchers from Swiss Federal Laboratories for Materials Science and Technology (EMPA) believe the most important step toward enabling intelligent robotics is through artificial intelligence (AI). Specifically,"
+    publishedDateTime: 2020-11-12T13:17:00Z
+    webUrl: "https://electronics360.globalspec.com/article/15947/physical-ai-may-be-key-to-intelligent-robots"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 34
 
 secured: "vuUqYO7H5OtjUlCO/YBHwqVBJ+nOZZoi4B/4qVaAFmMkHlSxYK4KJYwCysq39jdS/kQrbBfBJGm8M5tTknyvKbBwnikOoEwg9nnOq+yC8CmeYCi+8LLzk/Ajubc3f/qTaF9DKjV0W36eTtFwFqsQwrdyoYBWU3KFq+ZO25DMh6Nll6SsthcPud6VlGH1qCxJ8gqsv3v9Mp9XutR1wou9HMRTQ3GuWzT6l3SUn4f0I6uwNqAC6VP8CcYBX1Inj5wW5ivUeSmXQGHXRIq7/fe0LTFxlViBEhN1XIpH7Fu0p/mvay5G1epdjNTpn37vHpFQZJKYICgH+f8jPqH1eqsnfAk2Vu4WXbR3wpizXBqvj6I=;xNURtc36nd7xbOeKJR/Mjw=="
 ---

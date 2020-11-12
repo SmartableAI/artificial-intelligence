@@ -2,6 +2,267 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-12-pope-francis-wants-you-to-pray-for-ethical-robots.md",
+      "title": "Pope Francis Wants You to Pray for Ethical Robots",
+      "excerpt": "There’s a lot of folks worried about the ethics and future of AI and robotics. Apparently, you can count Pope Francis among them.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/pope-francis-wants-you-to-pray-for-ethical-robots-1845642552",
+      "originalUrl": "https://gizmodo.com/pope-francis-wants-you-to-pray-for-ethical-robots-1845642552",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/n6obkzwczadd21hddeb7.png",
+          "width": 800,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/pope-francis-wants-you-to-pray-for-ethical-robots-1845642552/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/pope-francis-wants-you-to-pray-for-ethical-robots-1845642552/amp",
+      "publishedDateTime": "2020-11-11T08:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-honda-claims-itll-be-the-first-to-mass-produce-level-3-self-driving-cars.md",
+      "title": "Honda claims it'll be the first to mass produce level 3 self-driving cars",
+      "excerpt": "They could overtake slow cars by themselves. Virtually every semi-autonomous car you’ve seen on the road, even Teslas with Autopilot, uses level 2 self-driving — they may save you from steering or hitting the accelerator,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/honda-to-mass-produce-level-3-self-driving-cars-163208006.html",
+      "originalUrl": "https://www.engadget.com/honda-to-mass-produce-level-3-self-driving-cars-163208006.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 218,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F4f2b8c20-2436-11eb-b7b7-4bf22a2a36a8&client=amp-blogside-v2&signature=f3a493c3b8522b7fbef3bc164f1803488841034a",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/honda-to-mass-produce-level-3-self-driving-cars-163208006.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/honda-to-mass-produce-level-3-self-driving-cars-163208006.html",
+      "publishedDateTime": "2020-11-11T08:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-amazon-beefs-up-machine-learning-in-alexa-to-predict-latent-goals-that-arent-directly-expressed.md",
+      "title": "Amazon beefs up machine learning in Alexa to predict ‘latent goals’ that aren’t directly expressed",
+      "excerpt": "Alexa is getting smarter. Amazon's voice assistant in the U.S. can now predict \"latent goals,\" or potential requests that a user doesn't explicitly request. In the example above, when a user asks",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/amazon-beefs-machine-learning-alexa-predict-latent-goals-arent-directly-expressed/",
+      "originalUrl": "https://www.geekwire.com/2020/amazon-beefs-machine-learning-alexa-predict-latent-goals-arent-directly-expressed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/11/download-630x472.jpeg",
+          "width": 630,
+          "height": 472,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/amazon-beefs-machine-learning-alexa-predict-latent-goals-arent-directly-expressed/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazon-beefs-machine-learning-alexa-predict-latent-goals-arent-directly-expressed/amp/",
+      "publishedDateTime": "2020-11-11T08:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-ai-research-finds-a-compute-divide-concentrates-power-and-accelerates-inequality-in-the-era-of-deep-learning.md",
+      "title": "AI research finds a ‘compute divide’ concentrates power and accelerates inequality in the era of deep learning",
+      "excerpt": "The analysis reviews papers accepted for publication at large AI conferences such as ACL, ICML, and NeurIPS in categories like computer vision, data mining, machine learning, and NLP.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/11/ai-research-finds-a-compute-divide-concentrates-power-and-accelerates-inequality-in-the-era-of-deep-learning/",
+      "originalUrl": "https://venturebeat.com/2020/11/11/ai-research-finds-a-compute-divide-concentrates-power-and-accelerates-inequality-in-the-era-of-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/mit1.jpg?fit=800%2C600&strip=all",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/11/ai-research-finds-a-compute-divide-concentrates-power-and-accelerates-inequality-in-the-era-of-deep-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/11/ai-research-finds-a-compute-divide-concentrates-power-and-accelerates-inequality-in-the-era-of-deep-learning/amp/",
+      "publishedDateTime": "2020-11-11T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-police-in-london-face-legal-action-over-cancelled-trans-rights-protest.md",
+      "title": "Police in London Face Legal Action Over Cancelled Trans Rights Protest",
+      "excerpt": "The organisers of a protest were threatened with arrest, despite being a political group that had taken health and safety measures.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/wx85ay/met-police-legal-action-trans-rights-protest",
+      "originalUrl": "https://www.vice.com/en/article/wx85ay/met-police-legal-action-trans-rights-protest",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com//articles/5fabd8931028e5009b2a11cb/lede/1605103070564-2cdrph1.jpeg?crop=1xw:0.8436319765002098xh;center,center",
+          "width": 3574,
+          "height": 2010,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/wx85ay/met-police-legal-action-trans-rights-protest",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/wx85ay/met-police-legal-action-trans-rights-protest",
+      "publishedDateTime": "2020-11-11T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-a-survey-on-artificial-intelligence-in-chest-imaging-of-covid-19.md",
       "title": "A survey on artificial intelligence in chest imaging of COVID-19",
       "excerpt": "In a new article for BIO Integration journal, a group of researchers from China consider the application of artificial intelligence imaging analysis methods for COVID-19 clinical diagnosis.",
@@ -106,7 +367,7 @@
       "originalUrl": "https://www.fool.com/investing/2020/11/11/ibm-and-amd-partner-up-to-accelerate-development-i/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -312,7 +573,7 @@
       "originalUrl": "https://www.forbes.com/sites/simonchandler/2020/11/11/researchers-propose-physical-ai-as-key-to-lifelike-robots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -614,6 +875,58 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-sentinelone-an-ai-based-endpoint-security-firm-confirms-267m-raise-on-a-31b-valuation.md",
+      "title": "SentinelOne, an AI-based endpoint security firm, confirms $267M raise on a $3.1B valuation",
+      "excerpt": "This year, more than ever before because of the COVID-19 pandemic, huge droves of workers and consumers have been turning to the internet to communicate, get things done and entertain themselves. That has created a huge bonanza for cybercriminals,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/11/sentinelone-an-ai-based-endpoint-security-firm-confirms-267m-raise-on-a-3-1b-valuation/",
+      "originalUrl": "https://techcrunch.com/2020/11/11/sentinelone-an-ai-based-endpoint-security-firm-confirms-267m-raise-on-a-3-1b-valuation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1174418589-1.jpg?w=1024",
+          "width": 1024,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/11/sentinelone-an-ai-based-endpoint-security-firm-confirms-267m-raise-on-a-3-1b-valuation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/11/sentinelone-an-ai-based-endpoint-security-firm-confirms-267m-raise-on-a-3-1b-valuation/amp/",
+      "publishedDateTime": "2020-11-10T17:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
       ]
     },
     {
@@ -959,321 +1272,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-british-newscaster-speaking-style-now-available-in-amazon-polly.md",
-      "title": "British Newscaster speaking style now available in Amazon Polly",
-      "excerpt": "Amazon Polly turns text into lifelike speech, allowing you to create applications that talk and build entirely new categories of speech-enabled products. We’re thrilled to announce the launch of a brand-new, British Newscaster speaking style voice: Amy. The speaking style mimics a formal and authoritative",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/british-newscaster-speaking-style-now-available-in-amazon-polly/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/british-newscaster-speaking-style-now-available-in-amazon-polly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-10T13:02:47-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-smart-user-friendly-security-products-for-your-whole-home.md",
-      "title": "Smart, user-friendly security products for your whole home",
-      "excerpt": "Wire-free security cameras from Arlo deliver simple, intuitive protection with hassle-free installation and advanced features.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/paid-content/news/smart-user-friendly-security-products-for-your-whole-home/",
-      "originalUrl": "https://www.cnet.com/paid-content/news/smart-user-friendly-security-products-for-your-whole-home/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/UpIi-TLPbJIddDdIJbH6ISGxoSE=/1200x630/2020/10/30/f460341c-8f82-446e-8ec7-7734f54fa322/cnet-arlo-s61-customarticle-native-drivers-1333x750-r1-pro4spotlight.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-10T12:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-the-breadth-of-healthcare-applications-of-artificial-intelligence-even-includes-physical-therapy.md",
-      "title": "The Breadth Of Healthcare Applications Of Artificial Intelligence Even Includes Physical Therapy",
-      "excerpt": "AI must play well the closer to patients it resides. Physical therapy is an excellent aspect of the needed growth, as it is a regular and visible part of patient treatment that includes humans, hardware and software interacting within a regulatory framework to improve patient outcomes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2020/11/10/the-breadth-of-healthcare-applications-of-artificial-intelligence-even-includes-physical-therapy/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2020/11/10/the-breadth-of-healthcare-applications-of-artificial-intelligence-even-includes-physical-therapy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
-          "width": 876,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/11/10/the-breadth-of-healthcare-applications-of-artificial-intelligence-even-includes-physical-therapy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/11/10/the-breadth-of-healthcare-applications-of-artificial-intelligence-even-includes-physical-therapy/amp/",
-      "publishedDateTime": "2020-11-10T12:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-how-ai-and-video-analytics-can-revolutionize-utilities-security.md",
-      "title": "How AI And Video Analytics Can Revolutionize Utilities’ Security",
-      "excerpt": "What keeps CIOs up at night is the thought of how a physical and cyber-attack on any remote location could cripple and perhaps force a Utility to shut down to recover.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/10/how-ai-and-video-analytics-can-revolutionize-utilities-security/",
-      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/10/how-ai-and-video-analytics-can-revolutionize-utilities-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faaf5fade18ffd893e954be%2F0x0.jpg",
-          "width": 1200,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/10/how-ai-and-video-analytics-can-revolutionize-utilities-security/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/11/10/how-ai-and-video-analytics-can-revolutionize-utilities-security/amp/",
-      "publishedDateTime": "2020-11-10T12:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-nlp-vs-nlu-vs-nlg-the-differences-between-three-natural-language-processing-concepts.md",
-      "title": "NLP vs. NLU vs. NLG: the differences between three natural language processing concepts",
-      "excerpt": "While natural language processing (NLP), natural language understanding (NLU), and natural language generation (NLG) are all related topics, they are distinct ones. At a high level, NLU and NLG are just components of NLP. Given how they intersect, they are commonly confused within conversation, but in",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/11/nlp-vs-nlu-vs-nlg-the-differences-between-three-natural-language-processing-concepts/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/11/nlp-vs-nlu-vs-nlg-the-differences-between-three-natural-language-processing-concepts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/11/inline_diagram-1024x515.jpg",
-          "width": 1024,
-          "height": 515,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-10T10:26:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-linkedin-open-sources-dagli-a-machine-learning-library-for-java.md",
-      "title": "LinkedIn open-sources Dagli, a machine learning library for Java",
-      "excerpt": "LinkedIn's Dagli, which is available in open source, is a machine learning library for Java and other JVM languages.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/10/linkedin-open-sources-dagli-a-machine-learning-library-for-java/",
-      "originalUrl": "https://venturebeat.com/2020/11/10/linkedin-open-sources-dagli-a-machine-learning-library-for-java/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/09/LinkedIn-logo-e1585672001937.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/10/linkedin-open-sources-dagli-a-machine-learning-library-for-java/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/10/linkedin-open-sources-dagli-a-machine-learning-library-for-java/amp/",
-      "publishedDateTime": "2020-11-10T09:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

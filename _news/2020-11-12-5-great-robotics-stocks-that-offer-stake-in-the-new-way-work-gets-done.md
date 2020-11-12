@@ -1,29 +1,31 @@
 ---
 category: news
 title: "5 Great Robotics Stocks That Offer Stake in the New Way Work Gets Done"
-excerpt: "Robotics stocks aren’t exactly a new ... the company provides speech recognition and artificial intelligence technology. Nuance’s Dragon Medical One allows healthcare professionals to have ..."
-publishedDateTime: 2020-11-12T11:36:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/5-great-robotics-stocks-nuan-rok-abb-isrg-irbt-to-keep-an-eye-on-for-an-exciting-2021-irbt-isrg-rok-abb-nuan-1029795537"
-webUrl: "https://markets.businessinsider.com/news/stocks/5-great-robotics-stocks-nuan-rok-abb-isrg-irbt-to-keep-an-eye-on-for-an-exciting-2021-irbt-isrg-rok-abb-nuan-1029795537"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/5-great-robotics-stocks-nuan-rok-abb-isrg-irbt-to-keep-an-eye-on-for-an-exciting-2021-irbt-isrg-rok-abb-nuan-1029795537"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/5-great-robotics-stocks-nuan-rok-abb-isrg-irbt-to-keep-an-eye-on-for-an-exciting-2021-irbt-isrg-rok-abb-nuan-1029795537"
+excerpt: "The new normal is speeding up the entry of robotics into our lives. Here are five robotics stocks to help you power up your portfolio for the future."
+publishedDateTime: 2020-11-12T14:01:00Z
+originalUrl: "https://investorplace.com/2020/11/5-great-robotics-stocks-nuan-rok-abb-isrg-irbt-to-keep-an-eye-on-for-an-exciting-2021-irbt-isrg-rok-abb-nuan/"
+webUrl: "https://investorplace.com/2020/11/5-great-robotics-stocks-nuan-rok-abb-isrg-irbt-to-keep-an-eye-on-for-an-exciting-2021-irbt-isrg-rok-abb-nuan/"
+ampWebUrl: "https://investorplace.com/2020/11/5-great-robotics-stocks-nuan-rok-abb-isrg-irbt-to-keep-an-eye-on-for-an-exciting-2021-irbt-isrg-rok-abb-nuan/amp/"
+cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/11/5-great-robotics-stocks-nuan-rok-abb-isrg-irbt-to-keep-an-eye-on-for-an-exciting-2021-irbt-isrg-rok-abb-nuan/amp/"
 type: article
-quality: 84
-heat: 84
+quality: 74
+heat: 74
 published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: InvestorPlace
+  domain: investorplace.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "0FUxqnEL5JlypN/VeKEmtXbDx6NL3DvcSZBBgeZbHixmsSy4VML+/65zF9UJfUaOv60zXmjW6IpUPksoQqsVICHBb14Bbsk3Cf9qOzYp6q6vJ+Q/4AmSAWZYuYEPwVjopWnUfH692DmQ7rSy/oZSUXpzZ+cbZkZ95+Nuf53hUTMM1gyLrZudJahUNRBqP49/C71hwlB41qxMVXUI8nVhzIfzX63HhWyIVlFX6fvTxAPg+vMlBKh0zY3NamMhUA8cCUUl4EYx8cRmInGRbHWfSfCcxMp2Xidmz8LMXIcpU5Ik1rC9r+5XePttQtGiT4Vz7eAidoeqTQbU70093woOI9W4k4kZ2Je0GUwCdv/HIF4vCLpeIc3SBmXjthmADjIm20fe7qRc6ueC79WXLW0rqQ+wyTyiB3bXIyENVKqrNNbHs+LNebmO4MLsUfypyT8ytaU070tOFGR6eQXcJwkj5Up5UL53xJLYjvoXhlPbMcn3CQx6mHoq0H+GwX0adGiKT4kogCBa3EAiqS0ZO22N7g==;Sai6jlc8C3mMa0vzMCrc7A=="
+images:
+  - url: "https://investorplace.com/wp-content/uploads/2020/10/robotics-stocks-ai-1600.jpg"
+    width: 1600
+    height: 900
+    isCached: true
+
+secured: "Iw9Hlu47xcgr6HhBk4vZRZlCDpHqhnxu3C1gIxpYgV7Q2lCuII89A2nLzPiAJ3GuUEVLOKN79iki3bInE7h1dQ3lCj2ktCdaguaI5dVAWPzP/91Jb/gx/IfF2tiAUeveuhbv4hVcHXi1sYnAXsaRrQ1JZev4JGC6nH03vjNR5taPgnHb+0SU92S/4UzgJSEQMXOqvzi7VZHlT1WPeaQ8xLXtqfybQWBjDBQqmd0FLdLllHmIEPWt0UZZUIIy8q46j4n5mSeaNZ/xdpMP40VdW6HTuELulGeJrUYYvbechirEJ7T8yj1q6bH6WJLB1vyPb2XEj9OI1ul4SVgOcEnhnfI22dPUtfeLRXhvRS9Njtw=;Bb6NvkKEAb9rtx9+sYvlcg=="
 ---
 

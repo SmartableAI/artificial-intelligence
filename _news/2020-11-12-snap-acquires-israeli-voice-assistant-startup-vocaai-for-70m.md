@@ -27,18 +27,16 @@ related:
   - title: "Snap acquired Voca.ai, which makes AI-based voice agents for call centers"
     excerpt: "With an array of fun filters, it encourages people to send fun, disappearing messages to friends and has a large base of younger users. But could parent company Snap be eyeing up ways of leveraging its traction in the consumer world — with the app"
     publishedDateTime: 2020-11-12T03:23:00Z
-    webUrl: "https://techcrunch.com/2020/11/11/snap-acquired-voca-ai-which-makes-ai-based-voice-agents-for-call-centers-for-120m/"
-    ampWebUrl: "https://techcrunch.com/2020/11/11/snap-acquired-voca-ai-which-makes-ai-based-voice-agents-for-call-centers-for-120m/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/11/snap-acquired-voca-ai-which-makes-ai-based-voice-agents-for-call-centers-for-120m/amp/"
+    webUrl: "https://voca.ai/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 86
+    quality: 166
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1172921137-1.jpg?w=1024"
-        width: 1024
-        height: 726
+      - url: "https://staging2.voca.ai/wp-content/uploads/2020/04/ebook-times-of-crisis-650.png"
+        width: 650
+        height: 395
         isCached: true
   - title: "Snap buys Israeli voice bot co Voca.ai for $70m"
     excerpt: "US social media company Snap Inc. (NYSE: SNAP) (Snapchat) has acquired Israeli voice assistant solutions startup Voca.ai, a source informs \"Globes.\" The source estimates that the acquisition is for about $70 million."

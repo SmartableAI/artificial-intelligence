@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2020/11/12/1011944/artificial-intellig
 ampWebUrl: "https://www.technologyreview.com/2020/11/12/1011944/artificial-intelligence-replication-crisis-science-big-tech-google-deepmind-facebook-openai/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/11/12/1011944/artificial-intelligence-replication-crisis-science-big-tech-google-deepmind-facebook-openai/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - Google AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2020/11/Replicate-2_up.jpg?w=3000"

@@ -24,6 +24,17 @@ images:
     height: 527
     isCached: true
 
+related:
+  - title: "Physics can assist with key challenges in artificial intelligence"
+    excerpt: "A physical mechanism a priori reveals how many examples in deep learning are required to achieve a desired test accuracy. It surprisingly indicates that learning each example once is almost equivalent to learning examples repeatedly."
+    publishedDateTime: 2020-11-12T14:16:00Z
+    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=56617.php"
+    type: article
+    provider:
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 19
+
 secured: "tz5qtAE6bJ1ov/p0IAl8Vz3jsTVhDtpyww5F5VaoyV4BX18CxZIn1yCnU60h3Rx1ApDcsqpiAUpED0tXWDeXoho+ebJsWx/n7CeBWO/hH1SPf/N+bvHygV9joksbKD+bqiOu77YLpM7dzwxgQalAgFdovAtPaCvaRqNj/8XQZW93CvgnAvDayRcAzoG6uREFbxXQyFAfm6zNgL0IQvofrg6cxNpNrU/HS6VpFKrAOv0UO7cX+DWp2FjyXdvaNwgchc1DFBf4v5KMIx5x4p7DmJ7uySB0uzVocHioszITSBxTGfMhvqjGbrWaDnYiMnOJfYv8VPaShA7AQAaXPbMNY/lCCWOrqiMztipwHUuzPscmywFiwtRXnmxMTEieXPhmLWRdFl99C5T5nznEMg5l72Y0WLSZAsZQ5yf02SroAKXqP9VoI2Uu1mNH2VOclJB30wQaexYuwysaEcaBX8GIaV+cBbxDOxuqB3jTQV2tM0fT0QP6X7F/wdNz8ghVkzCRrJP7flhIxjV1j2QWjsPLGw==;a7jgMfONUIYzULiQcdBVDg=="
 ---
 

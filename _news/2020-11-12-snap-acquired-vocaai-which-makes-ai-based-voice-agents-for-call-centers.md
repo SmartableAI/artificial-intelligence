@@ -4,19 +4,17 @@ title: "Snap acquired Voca.ai, which makes AI-based voice agents for call center
 excerpt: "With an array of fun filters, it encourages people to send fun, disappearing messages to friends and has a large base of younger users. But could parent company Snap be eyeing up ways of leveraging its traction in the consumer world — with the app"
 publishedDateTime: 2020-11-12T03:23:00Z
 originalUrl: "https://techcrunch.com/2020/11/11/snap-acquired-voca-ai-which-makes-ai-based-voice-agents-for-call-centers-for-120m/"
-webUrl: "https://techcrunch.com/2020/11/11/snap-acquired-voca-ai-which-makes-ai-based-voice-agents-for-call-centers-for-120m/"
-ampWebUrl: "https://techcrunch.com/2020/11/11/snap-acquired-voca-ai-which-makes-ai-based-voice-agents-for-call-centers-for-120m/amp/"
-cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/11/snap-acquired-voca-ai-which-makes-ai-based-voice-agents-for-call-centers-for-120m/amp/"
+webUrl: "https://voca.ai/"
 type: article
-quality: 86
-heat: 116
+quality: 166
+heat: 196
 published: true
 
 provider:
   name: TechCrunch
   domain: techcrunch.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg"
+    - url: "/assets/images/organizations/techcrunch.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,9 +22,9 @@ topics:
   - AI
 
 images:
-  - url: "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1172921137-1.jpg?w=1024"
-    width: 1024
-    height: 726
+  - url: "https://staging2.voca.ai/wp-content/uploads/2020/04/ebook-times-of-crisis-650.png"
+    width: 650
+    height: 395
     isCached: true
 
 related:
@@ -68,6 +66,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "BtU/ZmTvjipp/gbmQXhVZ+iZGWHmZiEF55Iw2RYHaIkrs6o68WgopUIgthZ5TCuDCUcgwM9E8ae9Yze4bnhwg92tT6FUDbh+MucqtGnzDYvt5cK8YsDJO+ARdv2ISSQVrxnSl0dHDaMYK0EIWuYyFiG97dqQfS2jXyarrEWuHMghEKz8hdr/NmWrByZCgAxbrSTOBYtS2e0IBKZwy91f1SilDmuO/Oxggg3/ZrOtw+srHIrfwz3o7cjnSbRlPP2V5NVMaUBIlwEpLQdHNtLJOj/l3a2rd2ih2rRwySya/HLKUgdsXS2ESk9F2VxsPXEtnTr1sTd69SwJuMVrzTTzpwq7VvhLTqMmsDedBQMoirrnPFuiKHu75+AyY5b9S/FAiggjMzgsxZzq66omDTXrTG1xfTVPCPYdo7GXyrOzIOuQ+kkysukgc593NJfIlIJrlpIkcVlGVnLKvXRM1S4XVL/na52/G2WlBpbnbPt6un4Go/1Vimx2wIMMKcS5fTY53VoAk/pUCXijqme1nD7WIA==;7nIqQoJoTJX+V+/Im+Tj+g=="
+secured: "XqZxmwx06Sm+a2RnB1oX/ddSmoxkfwl4Ckos1oXXK6erxJNAFbRN8buxJ5kgm8J7bFi16UvTSXWdtUbOHhCfB+9JsKyy7AA575VVVqYEsuaCUu33V3LDn1AjbiGBUnBB22VgV7VaHih/wxbNoOJNR7xJPEP22XY7v3f+A35EjghiYtoAevCnZI6fS2/RKCl1eJXGoDFdgKNliSkqYV/ZndaXWzseCDD1EM6arVyCLTT8AdRMKw3Jgij8sVKfPuDXm5Rlbte+1rflvv5h/6GR1xfXw/lJHcKmwaENQNyE7JUkPBQD7b1+PG4rvrym08DN3Wa4mh5YlzjJqQt9K14Dpg2LdJW6pIEKVNSoClljH9Q=;8NTeQa2adJ8ixhEWPw8ptQ=="
 ---
 

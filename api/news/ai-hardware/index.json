@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-12-inside-the-worlds-first-ai-powered-satellite-and-its-fight-against-clouds.md",
+      "title": "Inside the world’s first AI-powered satellite — and its fight against clouds",
+      "excerpt": "Intel, Ubotica, and the ESA recently launched the first AI-enabled satellite into Earth's orbit. The team told TNW about their hopes for the mission.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/11/12/inside-the-worlds-first-ai-powered-satellite-and-its-fight-against-clouds/",
+      "originalUrl": "https://thenextweb.com/neural/2020/11/12/inside-the-worlds-first-ai-powered-satellite-and-its-fight-against-clouds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-11-11T104744.768-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/11/12/inside-the-worlds-first-ai-powered-satellite-and-its-fight-against-clouds/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/12/inside-the-worlds-first-ai-powered-satellite-and-its-fight-against-clouds/amp/",
+      "publishedDateTime": "2020-11-12T06:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-samsungs-new-midrange-chip-supports-5g-and-200mp-cameras.md",
+      "title": "Samsung’s new midrange chip supports 5G and 200MP cameras",
+      "excerpt": "But the Big A is hardly the only tech giant boasting new chips: Samsung has lifted the lid on its new midrange mobile chip, the Exynos 1080. The chipset, which combines 5G capabilities with enhanced AI features,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/plugged/2020/11/12/samsung-exynos-1080-5g-chip/",
+      "originalUrl": "https://thenextweb.com/plugged/2020/11/12/samsung-exynos-1080-5g-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/samsung-exynos-1080-5g-796x395.png",
+          "width": 796,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/plugged/2020/11/12/samsung-exynos-1080-5g-chip/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/plugged/2020/11/12/samsung-exynos-1080-5g-chip/amp/",
+      "publishedDateTime": "2020-11-12T05:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-global-artificial-intelligence-ai-chips-market-2020-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2026.md",
       "title": "Global Artificial Intelligence (AI) Chips Market 2020 Applications, SWOT Analysis, Remarkable Growth and Competitive Landscape by 2026",
       "excerpt": "The latest report entitled Global Artificial Intelligence (AI) Chips Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026 firstly focuses on some important aspects of the market such as revenue rate,",
@@ -511,19 +615,19 @@
     {
       "path": "_news/2020-11-04-microprocessor-and-gpu-market-worth-1382-billion-by-2025-exclusive-report-by-marketsandmarkets.md",
       "title": "Microprocessor and GPU Market worth $138.2 billion by 2025 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "According to the new market research report \"Microprocessor and GPU Market with COVID-19 Impact Analysis by Architecture, Functionality,",
+      "excerpt": "According to the new market research report \" Microprocessor and GPU Market with COVID-19 Impact Analysis by Architecture, Functionality, GPU Type, Deployment, Application (Consumer Electronics, Server and Data Center,",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/microprocessor-and-gpu-market-worth-138-2-billion-by-2025--exclusive-report-by-marketsandmarkets-301166236.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/microprocessor-and-gpu-market-worth-138-2-billion-by-2025--exclusive-report-by-marketsandmarkets-301166236.html",
+      "webUrl": "https://www.marketwatch.com/press-release/microprocessor-and-gpu-market-worth-1382-billion-by-2025---exclusive-report-by-marketsandmarketstm-2020-11-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/microprocessor-and-gpu-market-worth-1382-billion-by-2025---exclusive-report-by-marketsandmarketstm-2020-11-04",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook",
-          "width": 666,
-          "height": 350,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -533,12 +637,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-04T04:30:00-08:00",
+      "publishedDateTime": "2020-11-04T00:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1367,110 +1480,6 @@
         "name": "The Indian Wire",
         "domain": "theindianwire.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-why-andreessen-horowitz-is-still-wrong-about-ai.md",
-      "title": "Why Andreessen Horowitz Is Still Wrong About AI",
-      "excerpt": "The economics of AI has been a hot topic following two blogs by the Andreessen Horowitz team. What is missing from the discussion, however, is understanding of the journey from idea to profitability with good margins.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/evansparks/2020/10/23/why-andreessen-horowitz-is-still-wrong-about-ai/",
-      "originalUrl": "https://www.forbes.com/sites/evansparks/2020/10/23/why-andreessen-horowitz-is-still-wrong-about-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f928cbe4cc3230abca69cce%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3840%26cropY1%3D0%26cropY2%3D2160",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/evansparks/2020/10/23/why-andreessen-horowitz-is-still-wrong-about-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evansparks/2020/10/23/why-andreessen-horowitz-is-still-wrong-about-ai/amp/",
-      "publishedDateTime": "2020-10-23T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-huawei-mate-40s-hisilicon-kirin-9000-chip-ranks-1st-in-ai-benchmark.md",
-      "title": "Huawei Mate 40’s HiSilicon Kirin 9000 chip ranks 1st in AI Benchmark",
-      "excerpt": "Huawei had officially launched the Mate 40 series. The lineup is the latest flagship from the company and feature top notch specs like the HiSilicon Kirin 9000 chip, which has even topped the list in an AI Benchmark.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2020/10/23/huawei-mate-40-kirin-9000-ranks-1st-ai-benchmark/",
-      "originalUrl": "https://www.gizmochina.com/2020/10/23/huawei-mate-40-kirin-9000-ranks-1st-ai-benchmark/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2020/10/Huawei-Kirin-9000-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-23T04:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

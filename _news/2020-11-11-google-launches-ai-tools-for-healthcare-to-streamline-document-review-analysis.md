@@ -42,6 +42,22 @@ related:
         width: 780
         height: 405
         isCached: true
+  - title: "How an AI App Navigates Narrow Networks, Cuts Healthcare Spending"
+    excerpt: "Payers can reduce healthcare spending for self-funded employers by employing artificial intelligence, centering primary care services, and employing value-based contracts."
+    publishedDateTime: 2020-11-12T14:32:00Z
+    webUrl: "https://healthpayerintelligence.com/news/how-an-ai-app-navigates-narrow-networks-cuts-healthcare-spending"
+    ampWebUrl: "https://healthpayerintelligence.com/news/amp/how-an-ai-app-navigates-narrow-networks-cuts-healthcare-spending"
+    cdnAmpWebUrl: "https://healthpayerintelligence-com.cdn.ampproject.org/c/s/healthpayerintelligence.com/news/amp/how-an-ai-app-navigates-narrow-networks-cuts-healthcare-spending"
+    type: article
+    provider:
+      name: healthpayerintelligence.com
+      domain: healthpayerintelligence.com
+    quality: 74
+    images:
+      - url: "https://healthpayerintelligence.com/images/sized/GettyImages-1028612998-6352cfe9c42d690d78be4e1065fa9a1b.jpg"
+        width: 600
+        height: 347
+        isCached: true
   - title: "RAISE 2020: How healthtech startup SigTuple Technologies is leveraging the power of AI in healthcare"
     excerpt: "Based out of Bengaluru, healthtech startup SigTuple Technologies combines AI, robotics, and data science to build smart healthcare screening solutions."
     publishedDateTime: 2020-11-11T00:25:00Z

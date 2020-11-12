@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-12-madrona-leads-26m-round-for-othersideai-a-startup-using-gpt-3-tech-to-write-automated-emails.md",
+      "title": "Madrona leads $2.6M round for OthersideAI, a startup using GPT-3 tech to write automated emails",
+      "excerpt": "“We strongly believe that AI and Natural Language Processing technologies such as GPT-3 will transform many aspects of our lives — from work to our health to leisure,” Madrona Managing Director Matt McIlwain said in a statement. Madrona did launch a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/madrona-leads-2-6m-round-othersideai-startup-using-gpt-3-tech-write-automated-emails/",
+      "originalUrl": "https://www.geekwire.com/2020/madrona-leads-2-6m-round-othersideai-startup-using-gpt-3-tech-write-automated-emails/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/11/Comp-4_9.gif",
+          "width": 1920,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/madrona-leads-2-6m-round-othersideai-startup-using-gpt-3-tech-write-automated-emails/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/madrona-leads-2-6m-round-othersideai-startup-using-gpt-3-tech-write-automated-emails/amp/",
+      "publishedDateTime": "2020-11-12T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-at-just-22mb-googles-new-speech-filtering-tech-is-perfect-for-mobile-apps.md",
       "title": "At just 2.2MB, Google’s new speech filtering tech is perfect for mobile apps",
       "excerpt": "Google has plenty of apps on your phone that use speech detection from Google Assistant to Google Translate and Pixel’s nifty recorder app. However, one of the challenges these apps face is separating your voice from other people or background noise.",
@@ -1456,59 +1508,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-zomato-digitizes-menus-using-amazon-textract-and-amazon-sagemaker.md",
-      "title": "zomato digitizes menus using Amazon Textract and Amazon SageMaker",
-      "excerpt": "This post is co-written by Chiranjeev Ghai, ML Engineer at zomato. zomato is a global food-tech company based in India. Are you the kind of person who has very specific cravings? Maybe when the mood hits, you don’t want just any kind of Indian food—you want Chicken Chettinad with a side of paratha, and",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/zomato-digitizes-menus-using-amazon-textract-and-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/zomato-digitizes-menus-using-amazon-textract-and-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/19/menu_w_yellow_background.jpg",
-          "width": 900,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T10:08:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

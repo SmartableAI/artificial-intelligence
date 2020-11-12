@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Microprocessor and GPU Market worth $138.2 billion by 2025 - Exclusive Report by MarketsandMarkets™"
-excerpt: "According to the new market research report \"Microprocessor and GPU Market with COVID-19 Impact Analysis by Architecture, Functionality,"
-publishedDateTime: 2020-11-04T12:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/microprocessor-and-gpu-market-worth-138-2-billion-by-2025--exclusive-report-by-marketsandmarkets-301166236.html"
-webUrl: "https://www.prnewswire.com/news-releases/microprocessor-and-gpu-market-worth-138-2-billion-by-2025--exclusive-report-by-marketsandmarkets-301166236.html"
+excerpt: "According to the new market research report \" Microprocessor and GPU Market with COVID-19 Impact Analysis by Architecture, Functionality, GPU Type, Deployment, Application (Consumer Electronics, Server and Data Center,"
+publishedDateTime: 2020-11-04T08:30:00Z
+originalUrl: "https://www.marketwatch.com/press-release/microprocessor-and-gpu-market-worth-1382-billion-by-2025---exclusive-report-by-marketsandmarketstm-2020-11-04"
+webUrl: "https://www.marketwatch.com/press-release/microprocessor-and-gpu-market-worth-1382-billion-by-2025---exclusive-report-by-marketsandmarketstm-2020-11-04"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
-    width: 666
-    height: 350
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "J/+clq8CotRfbnI0n6WBoOsPamjRaUArrs6bXV2UnmGDnrQS7uNqYR9VFdPXmB7cSVvEfP7iSvVRRnSlLWG4wCgm6Ft2TT2CQ251tw+zV509fqecXaJN80Y6uzorQK+kEN9GOENVArarIjULdu5gaeW/bnQRLUHFsWuzQDTfOLvg2nRZ9zQ9IOlx/29oSe6vVOwX8Q7EZChRa0OCNGApkPg55E6Ki9ED8jx4Et1YV72mlXFQKDtlSxY6j3Q/+dYuMqoe9Utq8jNyi2rdiWSM1+wZfHujy+bpNix6efP6DXqlYArHeG3lxwsqt3I5RRQM4mFHVYDb9FoW8XY7CwBDCMIp+PEiDrUED6SjPkQCWRA=;oKGyFdo5sSKZMuT2HOmpag=="
+secured: "RQ9+I+a2oL2YHB3NFLtHFhVC0Jq1pYD+OnNMHYlIR6shCVhuGaKtLfPXufSlTXrYQ98V9c+zMeosUpDifC+8yyrbXsKJYKpT3dH8s+CGHo0c7CUIzR+rweDTk/jnY1xtoCPpWptxWBNK56NHNKjwaw67B3JrJ/Q3p1z07s7OOQ7I+K95ET0Y+bIgX/L92vXvwrWnqSUQX8/V2hdb8ixwPjS6z3twBQjT6jtF/mo4QHZCwyKjK6PuOMiKSPj/RdS/NXREE/NCDRO6xZlF3yfEwRWPOjmq38VH0z+F0rrI0029t+REO61yuc2HhfjgPdRB2mFSiGqoYXpb1OvFX4Dbiv4SIDmjpF5T6FsVrdKNjs4=;S55+lKoK3i+Hh6bpnhU3Gw=="
 ---
 

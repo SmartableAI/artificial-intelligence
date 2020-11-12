@@ -71,6 +71,20 @@ related:
         width: 720
         height: 406
         isCached: true
+  - title: "IBM and AMD team for 'confidential computing' for AI and HPC in the cloud"
+    excerpt: "Security and AI in the cloud. Dario Gil, director of IBM Research, said: \"The commitment of AMD to technological innovation aligns with our mission to develop and accelerate the a"
+    publishedDateTime: 2020-11-12T13:25:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/ibm-and-amd-team-confidential-computing-ai-and-hpc-cloud/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 38
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/AMDEpyc2.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "IBM and AMD Announce Joint Development Agreement to Advance Confidential Computing for the Cloud and Accelerate Artificial Intelligence"
     excerpt: "\"IBM is focused on giving our clients choice, agility and security in our hybrid cloud offerings through advanced research, development and scaling of new technologies.\" \"This agreement between AMD and IBM aligns well with our long-standing commitment to collaborating with leaders in the industry,"
     publishedDateTime: 2020-11-11T12:00:00Z
