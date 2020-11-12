@@ -43,6 +43,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://smartable.ai/apps/ai/company/uber/</loc>
+    <lastmod>2020-11-09T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/ai/company/deeplearning.ai/</loc>
     <lastmod>2020-11-09T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -151,12 +157,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/ai/company/uber/</loc>
-    <lastmod>2020-11-09T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/ai/company/activecampaign/</loc>
     <lastmod>2020-11-09T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -260,6 +260,12 @@
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/company/rethinkrobotics/</loc>
+    <lastmod>2020-11-09T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/ai/company/aptiv/</loc>
     <lastmod>2020-11-09T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -517,6 +523,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://smartable.ai/apps/ai/company/metabiota/</loc>
+    <lastmod>2020-11-09T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/ai/company/6sense/</loc>
     <lastmod>2020-11-09T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -751,12 +763,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/ai/company/metabiota/</loc>
-    <lastmod>2020-11-09T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/ai/company/mov.ai/</loc>
     <lastmod>2020-11-09T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -776,12 +782,6 @@
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/company/rtr.ai/</loc>
-    <lastmod>2020-11-09T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/ai/company/squirrelai/</loc>
     <lastmod>2020-11-09T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -1183,6 +1183,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://smartable.ai/apps/ai/company/knewton/</loc>
+    <lastmod>2020-11-09T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/ai/company/kodiak.ai/</loc>
     <lastmod>2020-11-09T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1489,6 +1495,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://smartable.ai/apps/ai/company/squirrelai/</loc>
+    <lastmod>2020-11-09T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/ai/company/actioniq/</loc>
     <lastmod>2020-11-09T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1646,12 +1658,6 @@
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/company/affectiva/</loc>
-    <lastmod>2020-11-09T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/ai/company/aptiv/</loc>
     <lastmod>2020-11-09T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -1844,12 +1850,6 @@
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/company/kabbage/</loc>
-    <lastmod>2020-11-09T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/ai/company/knewton/</loc>
     <lastmod>2020-11-09T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
