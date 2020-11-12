@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-consulting-service-market-2020-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2025-2020-11-08"
 type: article
 quality: 50
-heat: 50
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,106 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Global Artificial Intelligence (AI) Chips Market 2020 Applications, SWOT Analysis, Remarkable Growth and Competitive Landscape by 2026"
+    excerpt: "The latest report entitled Global Artificial Intelligence (AI) Chips Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026 firstly focuses on some important aspects of the market such as revenue rate,"
+    publishedDateTime: 2020-11-12T01:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-2020-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2026-2020-11-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing (NLP) Market Key Players, Segmentation Analysis, Business Growth and Forecast to 2027"
+    excerpt: "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional"
+    publishedDateTime: 2020-11-10T09:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-key-players-segmentation-analysis-business-growth-and-forecast-to-2027-2020-11-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Mobile AI Market Forecast with Competitive Landscape Analysis and Key Companies Profile"
+    excerpt: "The mobile artificial intelligence market size is anticipated to touch USD 10.28 billion at a whopping 29.52% CAGR between 2018- 2023, as per the current Market Research Future (MRFR) analysis. Mobile artificial intelligence or mobile AI makes a smart device cleverer by offering advanced software and hardware for the efficient operation of the device and better decision making."
+    publishedDateTime: 2020-11-10T00:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mobile-ai-market-forecast-with-competitive-landscape-analysis-and-key-companies-profile-2020-11-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Operational Intelligence (OI) Market 2020-2025: Size, Share, Trends and Research Report"
+    excerpt: "According to the latest report by IMARC Group, titled \"Operational Intelligence (OI) Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025\", the global operational intelligence (OI) market grew at a CAGR of around 13% during 2014-2019."
+    publishedDateTime: 2020-11-11T12:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/operational-intelligence-oi-market-2020-2025-size-share-trends-and-research-report-2020-11-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-Driving Car Market Size 2024: Regional Industry Segmentation, Analysis By Production, Consumption, Revenue And Growth"
+    excerpt: "Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
+    publishedDateTime: 2020-11-09T07:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-size-2024-regional-industry-segmentation-analysis-by-production-consumption-revenue-and-growth-2020-11-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Voice Assistant Market 2020 Industry Outlook, Key Players, Segmentation Analysis, Business Growth and Forecast to 2025"
+    excerpt: "Global Voice Assistant Market 2020 by Company, Regions, Type and Application, Forecast to 2025 is a conclusive source of information that encapsulates vital details about the market flow as well as future status during the mentioned forecast period of 2025."
+    publishedDateTime: 2020-11-09T04:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-voice-assistant-market-2020-industry-outlook-key-players-segmentation-analysis-business-growth-and-forecast-to-2025-2020-11-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Video Analytics, ISR And Intelligent Video Surveillance Americas Market Research Report 2020 By Segmentations, Key Company Profiles"
+    excerpt: "According to HSRC's latest report, Video Analytics, ISR, Intelligent Video Surveillance & Object Recognition & Americas Market-2015-2020, the U.S. and the rest of American national markets are expected to exceed $36."
+    publishedDateTime: 2020-11-11T12:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/video-analytics-isr-and-intelligent-video-surveillance-americas-market-research-report-2020-by-segmentations-key-company-profiles-2020-11-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 24
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "W5qfaoOWp2cdpgKze0pq1r7wt4OuMwP5AXmkvIq/I7gF/VpndSZYFZuIfCAUMQ6eQWltCWtSD3U+MK09nQY1lX7rCW+Y4RXmLyY2BVry0GhbFwiPGZ9I/fpQKLagqXopv3hTEtVmLD7kK/vgL8Sv+W+bym6NGKHvZFjelZVQG8SW9RtCDa/Gn8FWDxhbF3FJdex21uAEWMWkchik8nR9UPCOrODo3hlEETngMVSV3w0aGMUUyAgj+YdcJ6S7Aztl0MMg4GPJKRIUX1/v61vTAVjCLNhqLYB2yNvr0CMEafGmO4CxMWGWim0F6zyVxfKtPbnfuQoXFGhrlPwGqVuHcWpQEeqvgVO0dB92t5XycJs=;tQ0YMwUqjer9sT+yd17RIQ=="
 ---

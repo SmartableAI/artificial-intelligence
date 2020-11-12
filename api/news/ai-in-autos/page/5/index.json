@@ -2,49 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-10-09-waymo-and-tusimple-autonomous-trucking-leaders-on-the-difficulty-of-building-a-highway-safe-ai.md",
-      "title": "Waymo and TuSimple autonomous trucking leaders on the difficulty of building a highway-safe AI",
-      "excerpt": "TuSimple and Waymo are in the lead in the emerging sector of autonomous trucking; TuSimple founder Xiaodi Hou and Waymo trucking head Boris Sofman had an in-depth discussion of their industry and the tech they’re building at TC Mobility 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/08/waymo-and-tusimple-autonomous-trucking-leaders-on-the-difficulty-of-building-a-highway-safe-ai/",
-      "originalUrl": "https://techcrunch.com/2020/10/08/waymo-and-tusimple-autonomous-trucking-leaders-on-the-difficulty-of-building-a-highway-safe-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/08/waymo-and-tusimple-autonomous-trucking-leaders-on-the-difficulty-of-building-a-highway-safe-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/08/waymo-and-tusimple-autonomous-trucking-leaders-on-the-difficulty-of-building-a-highway-safe-ai/amp/",
-      "publishedDateTime": "2020-10-08T11:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2020-10-08-h2oai-brings-automl-to-equifax-ignite-with-driverless-ai.md",
       "title": "H2O.ai brings AutoML to Equifax Ignite with Driverless AI",
       "excerpt": "--(BUSINESS WIRE)--H2O.ai, the open source leader in artificial intelligence (AI) and machine learning (ML), today announced the availability of H2O AutoML and Driverless AI within Equifax Ignite",
@@ -1389,6 +1346,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-swedens-ericsson-telia-present-self-driving-bus-ahead-of-5g-spectrum-auction.md",
+      "title": "Sweden's Ericsson, Telia present self-driving bus ahead of 5G spectrum auction",
+      "excerpt": "Telecoms gear maker Ericsson and mobile operator Telia on Thursday showcased a self-driving, electric bus in Stockholm as the companies look at new business areas ahead of mass deployment of 5G technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-ericsson-autonomous-idUSKCN26F2V6",
+      "originalUrl": "https://www.reuters.com/article/us-ericsson-autonomous-idUSKCN26F2V6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200924&t=2&i=1534799334&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8N1NF",
+          "width": 726,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN26F2V6",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26F2V6",
+      "publishedDateTime": "2020-09-24T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

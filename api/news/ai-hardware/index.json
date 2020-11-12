@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-11-11-intel-debuts-gpu-for-the-data-centre-with-a-focus-on-android-cloud-gaming.md",
-      "title": "Intel debuts GPU for the data centre with a focus on Android cloud gaming",
-      "excerpt": "Intel has debuted its first discrete graphics processing unit (GPU) for the data centre, Intel Server GPU, which is based on the Xe-LP architecture and is designed specifically for high-density, low-latency Android cloud gaming and media streaming.",
+      "path": "_news/2020-11-12-global-artificial-intelligence-ai-chips-market-2020-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2026.md",
+      "title": "Global Artificial Intelligence (AI) Chips Market 2020 Applications, SWOT Analysis, Remarkable Growth and Competitive Landscape by 2026",
+      "excerpt": "The latest report entitled Global Artificial Intelligence (AI) Chips Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026 firstly focuses on some important aspects of the market such as revenue rate,",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/intel-debuts-gpu-for-the-data-centre-with-a-focus-on-android-cloud-gaming/",
-      "originalUrl": "https://www.zdnet.com/article/intel-debuts-gpu-for-the-data-centre-with-a-focus-on-android-cloud-gaming/",
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-2020-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2026-2020-11-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-2020-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2026-2020-11-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 137,
       "tags": null,
       "images": [
         {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/11/11/e53ed748-d864-4e34-bab0-ed88abdb1448/intel-server-gpu-front.jpg",
-          "width": 1920,
-          "height": 1080,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,68 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/intel-debuts-gpu-for-the-data-centre-with-a-focus-on-android-cloud-gaming/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-debuts-gpu-for-the-data-centre-with-a-focus-on-android-cloud-gaming/",
-      "publishedDateTime": "2020-11-10T22:00:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-11T17:12:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-apples-macbook-air-with-m1-chip-everything-you-need-to-know.md",
+      "title": "Apple's MacBook Air with M1 chip: Everything you need to know",
+      "excerpt": "Get all the specs, new features, pricing, and availability details for Apple's first M1-powered MacBook Air laptop, and find out how it compares to the previously released Intel-based models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/apples-macbook-air-with-m1-chip-everything-you-need-to-know/",
+      "originalUrl": "https://www.techrepublic.com/article/apples-macbook-air-with-m1-chip-everything-you-need-to-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/11/10/5f6122c0-311c-4a3f-bd1b-72f3b13d6df0/resize/1200x/7de716bd6a27732001c743db1c50dcdd/macbook-air-with-m1-features.jpg",
+          "width": 1200,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/apples-macbook-air-with-m1-chip-everything-you-need-to-know/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/apples-macbook-air-with-m1-chip-everything-you-need-to-know/",
+      "publishedDateTime": "2020-11-11T14:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -54,6 +106,59 @@
       ]
     },
     {
+      "path": "_news/2020-11-12-intel-unveils-gpu-for-servers-with-tencent-gamestream-and-ubitus.md",
+      "title": "Intel unveils GPU for servers with Tencent, Gamestream, and Ubitus",
+      "excerpt": "Intel showed off a long-awaited chip today, the first standalone graphics processing unit (GPU) for the server market.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/11/intel-unveils-gpu-for-servers-with-tencent-gamestream-and-ubitus/",
+      "originalUrl": "https://venturebeat.com/2020/11/11/intel-unveils-gpu-for-servers-with-tencent-gamestream-and-ubitus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/intel-gpu.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/11/intel-unveils-gpu-for-servers-with-tencent-gamestream-and-ubitus/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/11/intel-unveils-gpu-for-servers-with-tencent-gamestream-and-ubitus/amp/",
+      "publishedDateTime": "2020-11-11T14:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-mac-mini-with-apples-new-m1-chip-will-ship-for-100-less-than-the-previous-model.md",
       "title": "Mac Mini with Apple’s new M1 chip will ship for $100 less than the previous model",
       "excerpt": "Apple announced a bunch of machines powered by its first chip, M1. But there was only one desktop machine announced, a new Mac Mini. The new machine costs just $699  — $100 less than its current Intel-based version with a quad-core CPU.",
@@ -62,7 +167,7 @@
       "originalUrl": "https://thenextweb.com/plugged/2020/11/10/mac-mini-with-apples-new-m1-chip-will-ship-for-100-less-than-the-previous-model/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -102,59 +207,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-apples-macbook-air-macbook-pro-and-mac-mini-get-m1-chips-with-16-ai-cores.md",
-      "title": "Apple’s MacBook Air, MacBook Pro, and Mac mini get M1 chips with 16 AI cores",
-      "excerpt": "In addition to announcing macOS Big Sur and formally revealing its first Mac-specific M1 chips, Apple today unveiled the first Mac computers that will use its new software and hardware ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/10/apples-macbook-air-macbook-pro-and-mac-mini-get-m1-chips-with-16-ai-cores/",
-      "originalUrl": "https://venturebeat.com/2020/11/10/apples-macbook-air-macbook-pro-and-mac-mini-get-m1-chips-with-16-ai-cores/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/macbookairm1-e1605032857187.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/10/apples-macbook-air-macbook-pro-and-mac-mini-get-m1-chips-with-16-ai-cores/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/10/apples-macbook-air-macbook-pro-and-mac-mini-get-m1-chips-with-16-ai-cores/amp/",
-      "publishedDateTime": "2020-11-10T10:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
+        "AI",
+        "Google AI"
       ]
     },
     {
@@ -1426,49 +1480,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-flex-logix-announces-working-silicon-of-ai-edge-inference-chip.md",
-      "title": "Flex Logix Announces Working Silicon of AI Edge Inference Chip",
-      "excerpt": "InferX X1 offers ideal performance of neural network models such as object detection and recognition, and other neural network models, for robotics, industrial automation, medical imaging, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.embedded-computing.com/home-page/flex-logix-announces-working-silicon-of-ai-edge-inference-chip",
-      "originalUrl": "https://www.embedded-computing.com/home-page/flex-logix-announces-working-silicon-of-ai-edge-inference-chip",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.cdntwrk.com/mediaproxy?url=https%3A%2F%2Fcontent.cdntwrk.com%2Ffiles%2FaHViPTYzODY3JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVmOTIwMzRmMWY1YzEuanBnJnZlcnNpb249MDAwMCZzaWc9OGM5MWU3NDNhMzgwMjYxNGJlZjgwMTY4NWVkNTNjNzU%25253D&size=1&version=1603404702&sig=2251bfc17906f4d3937f7a0216c38bb9&default=hubs%2Ftilebg-blogs.jpg",
-          "width": 500,
-          "height": 272,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T16:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded Computing Design",
-        "domain": "embedded-computing.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

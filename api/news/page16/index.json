@@ -830,6 +830,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-27-artificial-intelligence-ai-in-healthcare-market-to-reach-us-265-billion-by-2025-globally-cagr-41-univdatos-market-insights.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market to Reach US$ 26.5 Billion by 2025, Globally |CAGR: 41%| UnivDatos Market Insights",
+      "excerpt": "NOIDA, India, Oct. 27, 2020 /PRNewswire/ -- UnivDatos Market Insights released a report titled \"Artificial Intelligence (AI) in Healthcare Market - by Technology (Machine Learning, Deep Learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2020-10/51068112-artificial-intelligence-ai-in-healthcare-market-to-reach-us-dollar-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-008.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2020-10/51068112-artificial-intelligence-ai-in-healthcare-market-to-reach-us-dollar-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-008.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1225049/UnivDatos_Logo.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-27T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-the-evolving-world-of-fintech-robo-ai-ml-data-analytics-digital-solutions.md",
       "title": "The Evolving World of FinTech, Robo, AI, ML, Data, Analytics & Digital Solutions",
       "excerpt": "Hubbis Digital Dialogue delved deeply and intently into the growth of the influence of FinTech in Asia and at the universe of digital solutions being promoted and rolled out across the region’s offshore and onshore wealth management markets,",
@@ -1147,59 +1190,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-lightmatter-details-passage-a-light-based-chip-interconnect-that-enables-1tbps-data-transfers.md",
-      "title": "Lightmatter details Passage, a light-based chip interconnect that enables 1Tbps data transfers",
-      "excerpt": "Lightmatter says that Passage, which allows arrays of heterogeneous chips including processors, graphics cards, memory, and AI accelerators to communicate with each other, operates at ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/27/lightmatter-details-passage-a-light-based-chip-interconnect-that-enables-1tbps-data-transfers/",
-      "originalUrl": "https://venturebeat.com/2020/10/27/lightmatter-details-passage-a-light-based-chip-interconnect-that-enables-1tbps-data-transfers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/2d3585e0-3f62-4759-bf51-85ee9f7404af-e1597264833261.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/27/lightmatter-details-passage-a-light-based-chip-interconnect-that-enables-1tbps-data-transfers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/lightmatter-details-passage-a-light-based-chip-interconnect-that-enables-1tbps-data-transfers/amp/",
-      "publishedDateTime": "2020-10-27T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Google AI"
       ]
     }
   ],

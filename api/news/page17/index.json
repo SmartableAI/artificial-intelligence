@@ -2,6 +2,59 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-10-27-lightmatter-details-passage-a-light-based-chip-interconnect-that-enables-1tbps-data-transfers.md",
+      "title": "Lightmatter details Passage, a light-based chip interconnect that enables 1Tbps data transfers",
+      "excerpt": "Lightmatter says that Passage, which allows arrays of heterogeneous chips including processors, graphics cards, memory, and AI accelerators to communicate with each other, operates at ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/27/lightmatter-details-passage-a-light-based-chip-interconnect-that-enables-1tbps-data-transfers/",
+      "originalUrl": "https://venturebeat.com/2020/10/27/lightmatter-details-passage-a-light-based-chip-interconnect-that-enables-1tbps-data-transfers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/2d3585e0-3f62-4759-bf51-85ee9f7404af-e1597264833261.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/27/lightmatter-details-passage-a-light-based-chip-interconnect-that-enables-1tbps-data-transfers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/lightmatter-details-passage-a-light-based-chip-interconnect-that-enables-1tbps-data-transfers/amp/",
+      "publishedDateTime": "2020-10-27T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-how-eurovision-inspired-a-research-interns-project.md",
       "title": "How Eurovision inspired a research intern's project",
       "excerpt": "Research happens at Google everyday, on many different embedded teams throughout the company. For example, Amit Moryossef developed a machine learning model for sign language detection while interning this year with our Language team in Zurich. Since our 2021 Research Internship applications opened this",
@@ -1193,58 +1246,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-natural-language-processing-nlp-market-2020-with-top-countries-data-in-depth-assessment-key-trend-industry-analysis-future-roadmap-by-2026.md",
-      "title": "Natural Language Processing (NLP) Market 2020 with Top Countries Data, In-depth Assessment, Key Trend, Industry Analysis, Future Roadmap by 2026",
-      "excerpt": "Global “Natural Language Processing (NLP) Market\" 2020 Research Report provides key analysis on the market status of",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-with-top-countries-data-in-depth-assessment-key-trend-industry-analysis-future-roadmap-by-2026-2020-10-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-with-top-countries-data-in-depth-assessment-key-trend-industry-analysis-future-roadmap-by-2026-2020-10-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-26T20:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -6,9 +6,9 @@ publishedDateTime: 2020-11-12T01:12:00Z
 originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-2020-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2026-2020-11-11"
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-2020-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2026-2020-11-11"
 type: article
-quality: 50
-heat: -1
-published: false
+quality: 67
+heat: 137
+published: true
 
 provider:
   name: MarketWatch
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -42,15 +43,43 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Healthcare Information Technology Market mechanics Analysis: Global Industry Trends, Share, Key Players, Forecast to 2025"
-    excerpt: "Selbyville, Delaware This Global Healthcare Information Technology report studies the industry based on one or"
-    publishedDateTime: 2020-11-09T18:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-information-technology-market-mechanics-analysis-global-industry-trends-share-key-players-forecast-to-2025-2020-11-09"
+  - title: "Mobile AI Market Forecast with Competitive Landscape Analysis and Key Companies Profile"
+    excerpt: "The mobile artificial intelligence market size is anticipated to touch USD 10.28 billion at a whopping 29.52% CAGR between 2018- 2023, as per the current Market Research Future (MRFR) analysis. Mobile artificial intelligence or mobile AI makes a smart device cleverer by offering advanced software and hardware for the efficient operation of the device and better decision making."
+    publishedDateTime: 2020-11-10T00:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mobile-ai-market-forecast-with-competitive-landscape-analysis-and-key-companies-profile-2020-11-09"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 44
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence Consulting Service Market 2020 Key Drivers and Restraints, Regional Outlook, End-User Applicants by 2025"
+    excerpt: "Global Artificial Intelligence Consulting Service Market 2020 by Company, Type and Application, Forecast to 2025 available at MarketQuest.biz covers several aspects that are expected to affect the growth of the market in the estimated forecast period from 2020 to 2025."
+    publishedDateTime: 2020-11-08T14:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-consulting-service-market-2020-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2025-2020-11-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Operational Intelligence (OI) Market 2020-2025: Size, Share, Trends and Research Report"
+    excerpt: "According to the latest report by IMARC Group, titled \"Operational Intelligence (OI) Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025\", the global operational intelligence (OI) market grew at a CAGR of around 13% during 2014-2019."
+    publishedDateTime: 2020-11-11T12:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/operational-intelligence-oi-market-2020-2025-size-share-trends-and-research-report-2020-11-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -79,6 +108,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Video Analytics, ISR And Intelligent Video Surveillance Americas Market Research Report 2020 By Segmentations, Key Company Profiles"
+    excerpt: "According to HSRC's latest report, Video Analytics, ISR, Intelligent Video Surveillance & Object Recognition & Americas Market-2015-2020, the U.S. and the rest of American national markets are expected to exceed $36."
+    publishedDateTime: 2020-11-11T12:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/video-analytics-isr-and-intelligent-video-surveillance-americas-market-research-report-2020-by-segmentations-key-company-profiles-2020-11-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 24
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

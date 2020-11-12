@@ -8,8 +8,8 @@ webUrl: "https://diginomica.com/can-piece-drywall-be-smart-bringing-machine-lear
 ampWebUrl: "https://diginomica.com/can-piece-drywall-be-smart-bringing-machine-learning-everyday-objects-tinyml?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/can-piece-drywall-be-smart-bringing-machine-learning-everyday-objects-tinyml?amp"
 type: article
-quality: 66
-heat: 66
+quality: 68
+heat: 68
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - Machine Learning
   - AI
   - AWS AI
+  - Google AI
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2019-10/self-driving.jpg"

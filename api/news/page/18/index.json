@@ -2,21 +2,21 @@
   "page": 18,
   "value": [
     {
-      "path": "_news/2020-10-27-artificial-intelligence-ai-in-healthcare-market-to-reach-us-265-billion-by-2025-globally-cagr-41-univdatos-market-insights.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market to Reach US$ 26.5 Billion by 2025, Globally |CAGR: 41%| UnivDatos Market Insights",
-      "excerpt": "The healthcare industry is expected to benefit from US$ 45 billion in annual cost savings by 2025. For detailed analysis on the Global Artificial Intelligence (AI) in Healthcare Market browse ...",
+      "path": "_news/2020-10-27-natural-language-processing-nlp-market-2020-with-top-countries-data-in-depth-assessment-key-trend-industry-analysis-future-roadmap-by-2026.md",
+      "title": "Natural Language Processing (NLP) Market 2020 with Top Countries Data, In-depth Assessment, Key Trend, Industry Analysis, Future Roadmap by 2026",
+      "excerpt": "Global “Natural Language Processing (NLP) Market\" 2020 Research Report provides key analysis on the market status of",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/in/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-842269344.html",
-      "originalUrl": "https://www.prnewswire.com/in/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-842269344.html",
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-with-top-countries-data-in-depth-assessment-key-trend-industry-analysis-future-roadmap-by-2026-2020-10-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-with-top-countries-data-in-depth-assessment-key-trend-industry-analysis-future-roadmap-by-2026-2020-10-27",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1225049/UnivDatos_Logo.jpg?p=facebook",
-          "width": 1279,
-          "height": 670,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,12 +26,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-26T17:00:00-07:00",
+      "publishedDateTime": "2020-10-26T20:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,7 +49,7 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "Natural Language Processing",
         "AI"
       ]
     },

@@ -3,8 +3,8 @@ category: news
 title: "'It's the screams of the damned!' The eerie AI world of deepfake music"
 excerpt: "Artificial intelligence is being used to create new songs seemingly performed by Frank Sinatra and other dead stars. ‘Deepfakes’ are cute tricks – but they could change pop for ever"
 publishedDateTime: 2020-11-09T12:40:00Z
-originalUrl: "https://www.theguardian.com/music/2020/nov/09/deepfake-pop-music-artificial-intelligence-ai-frank-sinatra?fbclid=IwAR0hPaiZbc3mmkUYMlV-uez95EJu1k120TQCUA9PJdfnmedeWm4n1xFkhzk"
-webUrl: "https://www.theguardian.com/music/2020/nov/09/deepfake-pop-music-artificial-intelligence-ai-frank-sinatra?fbclid=IwAR0hPaiZbc3mmkUYMlV-uez95EJu1k120TQCUA9PJdfnmedeWm4n1xFkhzk"
+originalUrl: "https://www.theguardian.com/music/2020/nov/09/deepfake-pop-music-artificial-intelligence-ai-frank-sinatra"
+webUrl: "https://www.theguardian.com/music/2020/nov/09/deepfake-pop-music-artificial-intelligence-ai-frank-sinatra"
 ampWebUrl: "https://amp.theguardian.com/music/2020/nov/09/deepfake-pop-music-artificial-intelligence-ai-frank-sinatra"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/music/2020/nov/09/deepfake-pop-music-artificial-intelligence-ai-frank-sinatra"
 type: article
@@ -59,6 +59,6 @@ related:
         height: 400
         isCached: true
 
-secured: "OdicmLrVor76gcF+vV8Oguo7GOOSWRXABha8V7UTAjHLepePYf3QQykk0aw+mElpyb/aG1PB3P7yQChmIQ2L5T2P3ZQgfp/or4iKC2G0ora0Q/LTJ2MrC8a8PJatrE2L+q2mqV4ma+144ajLLlZaSGq8g7Qd1e6XuYR6DRmUASFBHWEdy1c7xlmDKXL9q+dQnTjq+eUhTA6zfboc1YEYrTYHgtR93snj4AI6+LbQVK8exVbXeCJIaAq7OD1CkN44ph9ceBGiiwu6T1wfS0u/RGJ6enpkhdcPOh3mr39TdhXobNIvb1Mb8iivMUAXxMCzuNyvMIVTK8BNcTKH/FSH1AQgPGEw6xqnlcQuVszPVzM=;l8920QajDnsZifioga1eug=="
+secured: "ohpvdGOZFxjDkk4n69Va5ntA8oZUZ25SuOtZ6usLYmy8hYNPyOM14D0WtRhv59jrBLvINpq16hXorgnVmw9Zws3LsKkYaULpO2cXLDFDJtp/1HWl2H/7FRyEk86f9sks6nQs1ttTiYfOmCAEakVYNcVW4ZnC0dWqMLWD0nB6rhO+6rAMi92RYliojZWoNL10NIpCXzycO0U2D7R2lENLK8XgIe8aNS0atdcU9xIlbVLJheE9NKKFr+vZZhf/7AzW4TA8P2buWEMOkC0ZGAdzxHeo4GAvgHze4uRoykUcdG6keB4iWgc6CaK4EyKiqDkEAD1nSM8oSqbjh2VeP0OiCaJC9V7AxNLskP+ZZKov5Do=;norxUhr9/U3IsgSwSsHQ0g=="
 ---
 

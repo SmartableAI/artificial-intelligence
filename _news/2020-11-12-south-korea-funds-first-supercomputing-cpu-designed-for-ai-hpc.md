@@ -8,8 +8,8 @@ webUrl: "https://www.nextplatform.com/2020/11/11/south-korea-funds-first-superco
 ampWebUrl: "https://www.nextplatform.com/2020/11/11/south-korea-funds-first-supercomputing-cpu-designed-for-ai-hpc/amp/"
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/11/11/south-korea-funds-first-supercomputing-cpu-designed-for-ai-hpc/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Google AI
 
 images:
   - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/shutterstock_1720221472.jpg"

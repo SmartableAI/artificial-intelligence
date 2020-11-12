@@ -1,23 +1,25 @@
 ---
 category: news
 title: "Standard Chartered Selects AWS to Power Its Strategic Banking Systems and Workloads"
-excerpt: "(NASDAQ: AMZN), and Standard Chartered Bank plc (LON: STAN), a leading international banking group, announced a five year, strategic global agreement, which deepens the existing relationship between the two companies,"
-publishedDateTime: 2020-11-12T02:00:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20201111005151/standard-chartered-selects-aws-to-power-its-strategic-banking-systems-and-workloads"
-webUrl: "https://www.morningstar.com/news/business-wire/20201111005151/standard-chartered-selects-aws-to-power-its-strategic-banking-systems-and-workloads"
+excerpt: "Leading financial institution forms strategic relationship with AWS to drive innovation and deliver new digital banking services with enhanced security and reliability"
+publishedDateTime: 2020-11-12T01:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/11/b18330076/standard-chartered-selects-aws-to-power-its-strategic-banking-systems-and-workloads"
+webUrl: "https://www.benzinga.com/pressreleases/20/11/b18330076/standard-chartered-selects-aws-to-power-its-strategic-banking-systems-and-workloads"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18330076"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18330076"
 type: article
-quality: 13
-heat: 13
+quality: 33
+heat: 33
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "v+qrI9Ap36zl1m57AJxmXYbidJIhI0lAFZddvRjM/Bu9Y8HS54zbZjtED0e9HgN8PyzLiKqSIUrpzB4LBu9Bud4XiCtgHNr02b/3N1MV1iH2pItwGweoMoEh8235/Fzj09Pp/P45Mi2SxMZWb5fufiyyaigI9iGVh8hia6dB4/ccaysXBxyHHZgV92za2D7U/7FIZYFH8IMFcknOwCes4fK1EGnEm1hg9HP5adQD7MeRh3uHgwvXYtj07yT+5qfU2pnWB1mcNQv1FAoVK5Y0mhhI2XbX5gxQa0KN+4NoLnH2h0onyM2Zjcsp2whw4UTx0HqgN4DWQC9T94MI6J34gvPrQHO+ttaXYo+sPwuIWM0=;7w0q+MDdhxFKpXrKcMs+TA=="
+secured: "LpscsBsX+cssnOCl8X4/t+r/5IDTSDBKHeUv8rUhdqqhCmz8fnBLRSed3DtqyoDC8FjlDh5cndBPY0N+CldwMFDe5YJv8dloWE8f0HPlYucUj202vSArXZxi7sFghZEb4/Pv3M6O1/ensvRqyukG447cNhjiJlKRA+jTcVjV1RJx+NH+ZUeV+7Q4raGg4B7xhEpS+yqhbaQGKhC0byrBO3kso/lPB0ubErYrw7DuqxR+VKL/0RHvvSZJ0tThV+K/+Ws8Qvb9y5DdjF2vxdzDmEkBI49+bUokCDprxHPo4lJzGggRy/fFXF87I2u85i/5AC3SOkd/fhJ5yWQnK3vY59koflk6KufytcNpr51zGQg=;ph866WW9QEiu+lErvTwM6A=="
 ---
 

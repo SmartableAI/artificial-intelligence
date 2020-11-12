@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) in Healthcare Market to Reach US$ 26.5 Billion by 2025, Globally |CAGR: 41%| UnivDatos Market Insights"
-excerpt: "The healthcare industry is expected to benefit from US$ 45 billion in annual cost savings by 2025. For detailed analysis on the Global Artificial Intelligence (AI) in Healthcare Market browse ..."
-publishedDateTime: 2020-10-27T00:00:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-842269344.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-842269344.html"
+excerpt: "NOIDA, India, Oct. 27, 2020 /PRNewswire/ -- UnivDatos Market Insights released a report titled \"Artificial Intelligence (AI) in Healthcare Market - by Technology (Machine Learning, Deep Learning ..."
+publishedDateTime: 2020-10-27T16:05:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2020-10/51068112-artificial-intelligence-ai-in-healthcare-market-to-reach-us-dollar-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2020-10/51068112-artificial-intelligence-ai-in-healthcare-market-to-reach-us-dollar-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-008.htm"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1225049/UnivDatos_Logo.jpg?p=facebook"
-    width: 1279
-    height: 670
+  - url: "https://mma.prnewswire.com/media/1225049/UnivDatos_Logo.jpg"
+    width: 400
+    height: 225
     isCached: true
 
-secured: "SVeK7WMUsDosOGM9zHmqghxOG9qKFRooRw7bd+sAPyJLQHZVMH/LEU1+1dcXs2FKhjm9rJoLHLGY3FyWWV0rIs+yM4j4iqgmttZ2hjBy+p9aGkOL8GcEoJghRZz3OxUqePKoiDUzK2HKK724Vi7urh+EH/obj9GvKD2+sIUSW5VKGOkmb/CyoGFfeJOOT/UvkoSgkdaIDir8fjEjgQTuSyaszD0unI1cZiciXDvi8jCgxBin+B9OrFBe9qHFKx2wulzIJkeG9C32lNg0C7D96F3VMpkY+c+GspmgbE3gbuWGBouL3VXIpgKjGFOiccacCSYWeo99KWwimRbZZ0Z77YBsxSbkiJGdOy9NCef235E=;xHa6/HJsi6lIxVxRCwg4lA=="
+secured: "uAH8c9uJaAala0VaL1JXKZtqhBziN6tE9HwDq8a0ugqXnZS/fJDAVPW+HABSV2L7VAlFYJvlhCKI/VS+1q7X+F0p1XqxPI4wpaXq902snAwoS2Udk681s332OV8IsycZnmbWWYg5TQ2rRPluEOAayvSIQiMWo3DTuC1MsCV5pFO5Ya4/VQmKLlkf+2Jg0J2Lq/OlIksxsbdspJTyBZqQyt4Dfk4wCFM7Si3YVe4hpHe4j+jhyI2244LOr49JPy9bYrlKiqAXGD9mLa/fRxTtj+ffvApDT7+N3kku49j8H/N9pnmuP6lrhw8ClMTEQxU4gln2f2NxmrU2QeRSG8T41uDeTLVCyXRyMSFOUAtjClE=;bqk7L0RJlCclcti7kD8IQg=="
 ---
 

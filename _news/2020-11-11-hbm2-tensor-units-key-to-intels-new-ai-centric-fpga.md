@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2020/11/11/hbm2-tensor-units-key-to-int
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/11/11/hbm2-tensor-units-key-to-intels-new-ai-centric-fpga/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 736
     height: 633
     isCached: true
-
-related:
-  - title: "India’s New AWS Data Center, Intel’s AI Acquisitions And More In This Week’s Top News"
-    excerpt: "Intel aims to strengthen its ML capabilities with MLOps, dedicated operating systems for ML developers and optimised platforms."
-    publishedDateTime: 2020-11-07T12:33:00Z
-    webUrl: "https://analyticsindiamag.com/india-aws-data-center-intel-ai-latest-news/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 49
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/11/nov-news.jpg"
-        width: 1600
-        height: 1200
-        isCached: true
 
 secured: "SCivhq2XkdFpK7pdwNgkUhT5QHz1eyIthclIZjGHJB8CNpwfwQcUSLmT01z7JOnTGQcboKgUI/0wZM8BH2fVkN3Klfaai318Sc7jgrNaucA16nAHJj8q+QY/rq+1XHfxegmfvmJDyG+X0UZxHwz9zhynEKZqbPzVCWkWT7vHxlpLxMEj91x6aQ5Mk0oDlMs/bK53634OsWHxajcLnQF2ePh2cwbCo0bIWFwgSOXTcmi+4JmOdFBdL3u4eYvS5v5oPxL4OMkCx4m4alyEJHfWAwyrBnH6dnZCLTqF4FLafliugWChwGDAGP8CiSjwOTc/dH9Ob+v4IMl4sCph4TyFN6//AW3g5KnXL2lKCfSqdpgYduKYcNTZ+9YovzGHxR7nZ12JwHgKHl0R9QLIyQ/efvatCHWNTylMFrucQ9ua8l4hhOBciEAqUIe6TCxECexnF+HAx2VN2+OvJpcJqgBuHdIPFioeJxB8ITkG1N3SIZ8uhAxaODJNBU/x9sR5bajFxfECjzFrq1cNAdHynZh5sA==;UdqXAFxoU+EGcMb8ZxQD5g=="
 ---

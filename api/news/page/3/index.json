@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-10-the-future-of-work-now-ai-assisted-writing-with-writercom-and-intuit.md",
+      "title": "The Future of Work Now: AI-Assisted Writing with Writer.com and Intuit",
+      "excerpt": "One of the most frequently-used phrases at business events these days is “the future of work.” It’s increasingly clear that artificial intelligence and other new technologies will bring substantial changes in work tasks and business processes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomdavenport/2020/11/10/the-future-of-work-now-ai-assisted-writing-with-writercom-and-intuit/",
+      "originalUrl": "https://www.forbes.com/sites/tomdavenport/2020/11/10/the-future-of-work-now-ai-assisted-writing-with-writercom-and-intuit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa9b4df4426b7e6db66db39%2F0x0.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2020/11/10/the-future-of-work-now-ai-assisted-writing-with-writercom-and-intuit/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/11/10/the-future-of-work-now-ai-assisted-writing-with-writercom-and-intuit/amp/",
+      "publishedDateTime": "2020-11-10T06:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars.md",
       "title": "Walmart and Cruise launch pilot to deliver orders via self-driving cars",
       "excerpt": "As part of the pilot, which is scheduled to begin in early 2021, customers will be able to place orders from a Walmart and have them delivered via one of Cruise’s electric self-driving Chevy Bolts.",
@@ -247,58 +298,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-natural-language-processing-nlp-market-key-players-segmentation-analysis-business-growth-and-forecast-to-2027.md",
-      "title": "Natural Language Processing (NLP) Market Key Players, Segmentation Analysis, Business Growth and Forecast to 2027",
-      "excerpt": "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-key-players-segmentation-analysis-business-growth-and-forecast-to-2027-2020-11-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-key-players-segmentation-analysis-business-growth-and-forecast-to-2027-2020-11-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-10T01:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1144,8 +1143,8 @@
       "title": "'It's the screams of the damned!' The eerie AI world of deepfake music",
       "excerpt": "Artificial intelligence is being used to create new songs seemingly performed by Frank Sinatra and other dead stars. ‘Deepfakes’ are cute tricks – but they could change pop for ever",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/music/2020/nov/09/deepfake-pop-music-artificial-intelligence-ai-frank-sinatra?fbclid=IwAR0hPaiZbc3mmkUYMlV-uez95EJu1k120TQCUA9PJdfnmedeWm4n1xFkhzk",
-      "originalUrl": "https://www.theguardian.com/music/2020/nov/09/deepfake-pop-music-artificial-intelligence-ai-frank-sinatra?fbclid=IwAR0hPaiZbc3mmkUYMlV-uez95EJu1k120TQCUA9PJdfnmedeWm4n1xFkhzk",
+      "webUrl": "https://www.theguardian.com/music/2020/nov/09/deepfake-pop-music-artificial-intelligence-ai-frank-sinatra",
+      "originalUrl": "https://www.theguardian.com/music/2020/nov/09/deepfake-pop-music-artificial-intelligence-ai-frank-sinatra",
       "featuredContent": null,
       "highlight": null,
       "heat": 77,

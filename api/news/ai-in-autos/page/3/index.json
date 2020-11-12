@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-10-23-teslas-full-self-driving-beta-is-here.md",
-      "title": "Tesla's Full Self-Driving Beta Is Here",
-      "excerpt": "While Tesla's (NASDAQ:TSLA) third-quarter earnings report may be the primary focus when it comes to the electric-car maker's stock this week, the company also quietly rolled out a beta release of its full self-driving mode to a small group of drivers -- a technology that could eventually morph into an incredibly valuable asset for Tesla.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/10/23/teslas-full-self-driving-beta-is-here/",
-      "originalUrl": "https://www.fool.com/investing/2020/10/23/teslas-full-self-driving-beta-is-here/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 459,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F596184%2Ftesla-full-self-driving-mode.png&w=1200&op=resize",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/23/teslas-full-self-driving-beta-is-here/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/23/teslas-full-self-driving-beta-is-here/",
-      "publishedDateTime": "2020-10-23T03:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-23-how-smart-are-ai-chips-really.md",
       "title": "How Smart Are AI Chips, Really?",
       "excerpt": "The best part about the term “Artificial Intelligence” is that nobody can really tell you what it exactly means. The main reason for this stems from the term “intelligence”, with ...",
@@ -1394,6 +1342,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-18-artificial-intelligence-by-molly-preston-derry-the-kingston-academy.md",
+      "title": "Artificial Intelligence by Molly Preston-Derry, The Kingston Academy",
+      "excerpt": "Artificial intelligence is when a machine is created ... for things that can vary from web searching to driverless cars. Nevertheless, we are surrounded by it from the moment we wake up.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisislocallondon.co.uk/youngreporter/17518993.artificial-intelligence-molly-preston-derry-kingston-academy/",
+      "originalUrl": "https://www.thisislocallondon.co.uk/youngreporter/17518993.artificial-intelligence-molly-preston-derry-kingston-academy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thisislocallondon.co.uk/resources/images/9605092/",
+          "width": 2400,
+          "height": 3200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-18T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This is Local London",
+        "domain": "thisislocallondon.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },

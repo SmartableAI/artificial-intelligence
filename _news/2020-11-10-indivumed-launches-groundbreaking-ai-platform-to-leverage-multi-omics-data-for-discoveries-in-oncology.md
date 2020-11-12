@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Indivumed Launches Groundbreaking AI Platform to Leverage Multi-omics Data for Discoveries in Oncology"
-excerpt: "Indivumed announced today the launch of its new, AI-integrated Advanced Data Analytics Platform which will accelerate drug targets and diagnostics discoveries. In the past six months, Indivumed has built an ensemble of cutting-edge technologies that allows the company to integrate and automate analytics across the oncology bioinformatics spectrum to unlock the enormous potential of the IndivuType database."
-publishedDateTime: 2020-11-10T13:36:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/indivumed-launches-groundbreaking-ai-platform-to-leverage-multi-omics-data-for-discoveries-in-oncology-1029786715"
-webUrl: "https://markets.businessinsider.com/news/stocks/indivumed-launches-groundbreaking-ai-platform-to-leverage-multi-omics-data-for-discoveries-in-oncology-1029786715"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/indivumed-launches-groundbreaking-ai-platform-to-leverage-multi-omics-data-for-discoveries-in-oncology-1029786715"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/indivumed-launches-groundbreaking-ai-platform-to-leverage-multi-omics-data-for-discoveries-in-oncology-1029786715"
+excerpt: "Indivumed announced today the launch of its new, AI-integrated Advanced Data Analytics Platform which will accelerate drug targets"
+publishedDateTime: 2020-11-10T12:05:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/indivumed-launches-groundbreaking-ai-platform-to-leverage-multi-omics-data-for-discoveries-in-oncology-301169468.html"
+webUrl: "https://www.prnewswire.com/news-releases/indivumed-launches-groundbreaking-ai-platform-to-leverage-multi-omics-data-for-discoveries-in-oncology-301169468.html"
 type: article
-quality: 53
-heat: 63
+quality: 23
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1002609/Indivumed_Logo.jpg?p=facebook"
+    width: 1500
+    height: 785
+    isCached: true
 
 related:
   - title: "Infosys launches cloud-integrated applied AI offering for enterprises"
@@ -40,6 +40,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "NZyHXrzCRCDvaiKTZ3mWyvOkTMw8qRUEtnFYQcY7D/kCmpATvqdrvax9h788AxIi0nop8IZ1+MMKoHsfhQ5U5tlBUuZF5Hy85GDDADLa5VHW6R/aJHIlHQzFkfEsipuZCKQlzLl6nRQ7sZTnEXLVclSeO8yX3zSSogA2YmvCQfzdR0VnSntFaAgC4F72QpPna84Jfxr0Vraag/nCqAX8enu+Mt2c8bIsJArRGNkqH0q7h9xtxlvS4zc73grJfSH2PnBGa01/lQXj0tqmAYjIsRWZ4Hw1gNRoRj/8HE4aNl8YV8cl8liAv7WL2rZrGrlnRsIfEP/Xr6a3rnRyj3qLknrS5ntIM8hodI0M6BLFoN0=;yOzn4VjQQp44zkYf3HTpkQ=="
+secured: "GbyZox/Wide6mNuqUSUBswCtc/h25tG/yBuRjz0r8i6xxR2CRa9CdIzvYCfgJD60mzWKf3+4iURCBCSusOFbJfOjyq5LSfyuZdXgouXuIHMIOInmOME0RaeCHFDc4Ulm1OwVrNBLSMPf1ATT02rTE8fIu+8u56OOngPz6cjPJkE6oRRf4FIf+U43abObIUDMnHSOUSotFeeK6esq+7W0Ut+EejT1YXvSLX1kSzlSnvYff1pnNk160r6sEROkOXLB/DHzEHwly49NU9HkiU993p3hGD3VRZaQBwWLdXL75BilhK3y4hjxcUosueIujkRLVWQCUFZXn3AyCWtAGc7TyZVXlbwrjgZMTzMfS+5xFqg=;nth7QGul4GCmblMeOEF3Zw=="
 ---
 

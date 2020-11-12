@@ -8,8 +8,8 @@ webUrl: "https://thenextweb.com/plugged/2020/11/10/mac-mini-with-apples-new-m1-c
 ampWebUrl: "https://thenextweb.com/plugged/2020/11/10/mac-mini-with-apples-new-m1-chip-will-ship-for-100-less-than-the-previous-model/amp/"
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/plugged/2020/11/10/mac-mini-with-apples-new-m1-chip-will-ship-for-100-less-than-the-previous-model/amp/"
 type: article
-quality: 84
-heat: 84
+quality: 86
+heat: 86
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Google AI
 
 images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/Apple_new-mac-mini-xcode-screen_11102020_big_carousel.jpg.large_-e1605035268765-796x419.jpg"
