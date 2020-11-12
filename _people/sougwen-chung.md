@@ -10,7 +10,7 @@ website: https://sougwen.com/
 twitter:
   username: sougwen
   url: https://twitter.com/sougwen
-  followers: 8448
+  followers: 8449
 
 linkedin:
   url: https://www.linkedin.com/in/sougwenchung/
@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Sougwen Chung"
 
-secured: "kR2O5tDBqdhnjAb2gY6xIKbHxFqBGieUu/XOuYgX8jbNaPmytM4mEPx41gIsDMQivNSITRJMtTNoDJL9HJHA9aTkwg5PHhHf4jfP6hnTKPoJDoMuAvd6m9kq1KpGFLtVPhMGDNMjpc9kJpXKizUU8rEcThplevfK6tAha7gd04/gwnnZHsvK0lsngz6zNDNNaDm5iKAYhsU+D0VOVJugOaOfU8Ml/V7ueIyWNedDuqvTOnsA0XSP7n1MfkvnsViOK8Bnu0Ocx5ldTpAx+Rn4smvIMUXubHnmgVwIOc9eCngC8Tybt6mLzlfLAN3/2jAnDQTANfLTp3qcTHW7PMlLlUXInyK75EQuGTVtCxQOtoA7bQ9wbk5e0hNsT/ir882y87OJMWuy5hlSoL2cEeXKVXMzE7/laoYuZO8ZbvzTMNY=;NDbZJNedneVOttrjjLuxFA=="
+secured: "/KTBPm/JfIttEfR5Od+i65W1XP0iI3/oSt6uxlwQvZxuF/jSBYZm4tq9FisFjncr5vo0s39XMd/g2LTEGnFisn6EDCk5UxcFunZQ3FbpDjf50sStkthkQaBhOe70JmQDWyvYyXpQBcIb5UL1OnThhIki5qWOFHkouf8wtUCt96T7CgWb4a6gE/TtO1bEMMtdqLlTtaFzyh/qMBs1+Y9YBAQj8JkxGl5iU5e4Bt4S5D3zIf7uaD8TW+U8Vy9XVfJu1gDc0/navIQeIq3r71xUHmNOXaOvU/KrzNpwMSHjypqf8GkIphpMHlmQplhgNYI7hR9Gj3xoEhtauHmum7B6sYkGCyK1o3QKH2AnZvKkEXiCVwZJM2FqGr2kQRJSGoFWWyIrt0n9ibhZJW7uW6IiA0s3BZvvx41xh1o6fmbZts0=;I3e0Q/uegfgaEMvFtm12Og=="
 ---
 
