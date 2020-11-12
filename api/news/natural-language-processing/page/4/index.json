@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-30-microsoft-translator-now-supports-assamese-too.md",
+      "title": "Microsoft Translator now supports Assamese too",
+      "excerpt": "Microsoft India said on Wednesday that it has added Assamese as the latest Indian language in Microsoft Translator, increasing the number of Indian languages it supports to 12. The Azure-based service will now provide real-time translation and transliteration support for the language.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1100880896/Microsoft-Translator-now-supports-Assamese-too",
+      "originalUrl": "https://menafn.com/1100880896/Microsoft-Translator-now-supports-Assamese-too",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2020-09/30/I_9ee6f788-9image_story.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-30T04:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-automatic-voice-and-speech-recognition-software-market-poised-for-significant-growth.md",
       "title": "Automatic Voice and Speech Recognition Software Market Poised for Significant Growth",
       "excerpt": "Global Automatic Voice and Speech Recognition Software Market Premium Insight Industry Trends FPNV Positioning Matrix Competitive News Feed Analysis Company Usability Profiles Market Sizing Forecasts to 2024 Covid 19 Outbreak Impact research report added by Report Ocean is an in",

@@ -2,14 +2,14 @@
 category: news
 title: "What's next for AI: Gary Marcus talks about the journey toward robust artificial intelligence"
 excerpt: "Gary Marcus is one of the more prominent, and controversial, figures in AI. Going beyond his critique on Deep Learning, which is what many people know him for, Marcus puts forward a well-rounded propo"
-publishedDateTime: 2020-11-12T07:05:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/"
-webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/"
+publishedDateTime: 2020-11-12T15:13:00Z
+originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/"
+webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/"
 type: article
-quality: 93
-heat: 93
+quality: 97
+heat: 97
 published: true
 
 provider:
@@ -21,7 +21,9 @@ provider:
       height: 50
 
 topics:
+  - Natural Language Processing
   - AI
+  - Machine Learning
   - AI in Healthcare
 
 images:
@@ -30,6 +32,6 @@ images:
     height: 392
     isCached: true
 
-secured: "bpkxsuGG1Eizg1dmNsWOYrLViSR6O5T+S/1eUUBoYMmUyhnaRHuxIVSaaL7Dxh0XwaQa74GasLBEKLDF4qF5gACQAtMIq/cwdlmPlSakffSfJOl/itdQjVHnRLlPGBYOBczTpebhVd3K6N8iM5P3XeAfYh/EaCZcXwGZwfxqLGI8En9Bq2HFp6cfxhXXY0XmnkgchQKfdykTslJ4q5E6D+ngJc68aGQMbFVIRxHez3f56xqLwy8hYpu6HXfiirVORIIzekIOPV0rKHXnfIDKA6ykX8oDqCIXR0UVum3JxM2TEKJbiqVW57u25Y1ZIyME8lOyv1E2M4vV+YePXEJWDO+2yON6t/N3QLYPLF3pqvo=;0KaM3Y8agkLMoZAPeU0eww=="
+secured: "j+X09PUpPkLUlQqXGS4JEzH+7FCxpisII1XkGe88knoOSj1gN2h4clZ5/g1TvgNReEkXuqTz5aEBnnpljMELFTsLoGwnUe4NVKtAFqu4tTg998dD6Upc5RUs8JOR+GtjmyrRpbef9WFQX09uVDek5PrgUiKuOI4pj08dZOS+Ey6z7KKfn9LqSvf8rTsW0WR5uDyU2ffALlN32oYaTB7OTpbFIM/uhc5ZXOCgmR1TUaCHuvem3KmD8oE+Cz7P6UyDhiFm3EPwVi9dGG36RekO17jg077+PAz1DXyWL6p3bP7R27sT7qb4ThkSqzCBvD/3i16zWCJbRAWcZceWE2ehJ68n9wyv+qusBace7fM4IAM=;GOYmBwDkicxF4So/4TySEw=="
 ---
 

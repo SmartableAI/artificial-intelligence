@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Announces EC2 P4d Instances for ML and HPC"
-    excerpt: "Amazon Web Services (AWS) recently announced the availability of Elastic Compute Cloud (EC2) P4d instances with UltraClusters capability. These GPU-powered instances will deliver faster performance, lower cost,"
-    publishedDateTime: 2020-11-09T14:12:00Z
-    webUrl: "https://www.infoq.com/news/2020/11/aws-ec2-p4d-announcement/"
+  - title: "Google catches up to AWS and Azure with new database migration service"
+    excerpt: "Google has debuted its database migration service, making it easier for Google Cloud customers to transfer databases to Google's Cloud SQL."
+    publishedDateTime: 2020-11-12T17:49:00Z
+    webUrl: "https://venturebeat.com/2020/11/12/google-catches-up-to-aws-and-azure-with-new-database-migration-service/"
+    ampWebUrl: "https://venturebeat.com/2020/11/12/google-catches-up-to-aws-and-azure-with-new-database-migration-service/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/12/google-catches-up-to-aws-and-azure-with-new-database-migration-service/amp/"
     type: article
     provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 56
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 106
     images:
-      - url: "https://res.infoq.com/news/2020/11/aws-ec2-p4d-announcement/en/headerimage/croppted-GettyImages-925557862-1604928607037.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2019/03/google-cloud.jpg?w=1200&strip=all"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
 
 secured: "jNZye4PQjsIMPTJ0DfGn4Ws5X+KKM6E8wlY+wY2oRCbwLF1AXiXK2Gg19L33ncdVn3EUVUJCFr7Yor6pDsR23pQyJF43rVx82iiEjLUGpGQFtIWivrY+/KIlqrQ2hQVbS1ZHWY6F8th8btN2N7x6/C5ViZJQ+nyOUIlTD7FLGRi6XUAbTW7Hj2KSKJuuaEItCsLI7Emc4hEO+nnnA3Ujbn7QkDNSBl0J2v7Zl7pdQ6BmVdLiAJH4VZ54jGRZ4FiRH112XlPY0a0TxVfq8dXPq5/ctc6d6BsGUVgtebRPqCPeWvoLPzS0nBMJnK7/8WwNRI7nDCIcXB7xVH4N2slsZ09HqqUbmDBzZrLRAXcwsLI=;lyLqAKP3aMU19r/6GnCTAA=="

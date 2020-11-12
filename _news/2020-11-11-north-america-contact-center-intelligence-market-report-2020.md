@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/north-america-contact-c
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/north-america-contact-center-intelligence-market-report-2020-1029788919"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "Cadillac Facial Recognition Feature Could Be In The Works For North America"
+    excerpt: "It appears as though a new Cadillac facial recognition feature is planned for release in North America sometime in the near future. As first reported by GM Authority’s sister publication, Cadillac Society,"
+    publishedDateTime: 2020-11-09T18:07:00Z
+    webUrl: "https://gmauthority.com/blog/2020/11/cadillac-facial-recognition-feature-could-be-in-the-works-for-north-america/"
+    ampWebUrl: "https://gmauthority.com/blog/2020/11/cadillac-facial-recognition-feature-could-be-in-the-works-for-north-america/amp/"
+    cdnAmpWebUrl: "https://gmauthority-com.cdn.ampproject.org/c/s/gmauthority.com/blog/2020/11/cadillac-facial-recognition-feature-could-be-in-the-works-for-north-america/amp/"
+    type: article
+    provider:
+      name: GM Authority
+      domain: gmauthority.com
+    quality: 57
+    images:
+      - url: "https://gmauthority.com/blog/wp-content/uploads/2020/09/2021-Cadillac-XT4-Sport-China-exterior-02-Face-ID-Biometric-System.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "ADIr64X+pr2veYoWZwzMO972ycnUsGt8Vm6pkobr3xaos8K845jw/BjWP4w3VwegU+aIZq/hEjykBMjK9c5zouxW67NNWWRJxQions/Fy97hSINMAtZpeev4xTW3dqwgD51w2KVvlTSpVbjOUn1ZpnvnBGoSL6KbiMA7EIlnFAcKSjDB9crmBj23qwiHwMJJL4g+4txQJqSlLXlRDUbjp8YGsdVn8WLNa4zdkd7N/yitl1j/B03yen733yrhvGhfnYtr/uuIp7CJJUupax8x5J3Bm1n5VD1wRoahNfIYLz4V0TVjb3R562dhtnlshf/J0w9vLu4Vhl3BPAaPXu3n+SIjeJ4ZThvkqklV1rPyvRU=;ntbEOoh+iNF+W6rM/Xevxw=="
 ---

@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 668
         isCached: true
+  - title: "Advantech Launches AIR Edge AI Inference Systems for AI and Vision Analytics Applications"
+    excerpt: "Advantech launched their AIR series of AI inference systems, to address AI applications including retail facial recognition, AOI/vision inspection, robotic, intelligent transportation, and more."
+    publishedDateTime: 2020-11-12T17:27:00Z
+    webUrl: "https://www.embedded-computing.com/news/advantech-launches-its-comprehensive-air-edge-ai-inference-systems-for-ai-and-vision-analytics-applications"
+    type: article
+    provider:
+      name: Embedded Computing Design
+      domain: embedded-computing.com
+    quality: 30
+    images:
+      - url: "https://content.cdntwrk.com/files/aHViPTYzODY3JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVmYWQ2YjU4YTk1NWEucG5nJnZlcnNpb249MDAwMCZzaWc9N2MxMDc2OGNhZWU4ZWJjNjBiODQzYzRiZDY1YWZhODQ%253D"
+        width: 500
+        height: 272
+        isCached: true
 
 secured: "Ivtq8btx6H4QHVk8Jcu0g9O41K3xTB06JF7jIgdD+ZJKA1V65A8m1ZlwYMY56FnGrE8LsNRgfCbD/DHiMmFUsMhqFTUaagiF1HbW/b7VGRGTrHGHwt/4UZBh7K9SLDbgdDEZPJ9O96YPBpy8h3iA0HYr/tjfO1qcsbcn4WxlsEkj25c5tvvDG41pOVkAisFUVOr8GwyVjAP99+KUCuLQewsllSEHyDZMYYvbSE1hhWQ9cVkvTLVu8Vle2dSa/qweRnO+G4MbKyYOY/vcPv4rYocfs0voZiUcagsuxHVmL7D5G1YfZg6erHTXlGWZp8yCmeduVkVXTM/jtR7a6EwP0nzvZSfiP8McTi+JJVoM/60=;f9p06QPoOl734nS5OVK/jQ=="
 ---

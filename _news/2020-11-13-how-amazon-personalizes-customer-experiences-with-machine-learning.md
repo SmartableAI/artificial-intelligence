@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-12T16:13:00Z
 originalUrl: "https://www.infoworld.com/article/3596432/how-amazon-personalizes-customer-experiences-with-machine-learning.html"
 webUrl: "https://www.infoworld.com/article/3596432/how-amazon-personalizes-customer-experiences-with-machine-learning.html"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
 images:
   - url: "https://images.idgesg.net/images/article/2020/11/blue-and-white-binary-code-technology-background-picture-id459150233-100866365-large.jpg"
@@ -37,7 +38,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 81
+    quality: 83
     images:
       - url: "https://images.idgesg.net/images/article/2020/11/blue-and-white-binary-code-technology-background-picture-id459150233-100866365-large.jpg"
         width: 1200
