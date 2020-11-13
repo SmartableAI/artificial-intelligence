@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "AvisoInc"
   url: "https://twitter.com/AvisoInc"
-  followers: 863
+  followers: 862
 
 locations:
   - Redwood City, CA
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Aviso"
 
-secured: "llOCNLv4CyvetUe3eIgzAlCvY2ut/mkTZBt8rl8pLBl0PjyvcYv4f65YN3LFdgkKLHrce2AvzyyLZhpFwUCLPPvKLEwEbrmcz5tQkpClxuhxG/4FUkVizawb8GogqBAF/eZuBu/0atzclyOFw6b7KPkImLCVnIeoU9mJal6QSB/NXz/La422Ta+rQ5Udzh1kZjA5OnAEk150dYN8JyyojGHRaS2fn5nJlilCybmWYSVAnCWTd3RVGU9crnEDTTWTGBeV5R8/KMxSmtgBrLn0tNmIdyaLL2nOUL45Krg1jmYIYyO4xBi0JYjtlMP8aGGjkHzpZp9kUXT4QVLf7tY9CPI7dqhw75HKMDIVMp23HzEhJC+bSZ3mhDTgUnL1klEJGzq3y5EiaU9byaYhjPJJ8w==;7iD5MCGn/t//xzmaI7Ti7g=="
+secured: "rLCGWtIuCxRyW8gb1vwcF50LsPo58rpaJUZWvdWblcUnjQK6HGq2Ia7Z+dgjF6pb0u1JAUwuV2xPWHAxj0fG9xpZ3hpnz9tiav9i445VhR6vsufpgdFdHoMh3NDkjJfCHEVRoh4ENSnaWFEbS1vRscxo+3ZrhCqd+gXFxH2xlbK18wkXX67zK8gowRkWhiOp8WCbXRRB2+JTr9qhMdD1XforKePlSjb83kU+ieizRxIkMlZHRrdNTT4jL/IWWEW3lyEgHssMj8uc9VEGw2SecRWGSBMDAGim8xihwGUC9wC2wdMUJWzS6OHIE62ONC4KKNhx7TYkMiSItL5pLO8qL5x75Ka3K+D4LEjIHVKEE6qvouKdmnALck+G7bmHtCNB7EUww2FyZQCiPoS4PQEMkQ==;RN/c61fymtl9wfntvkFHVQ=="
 ---
 
