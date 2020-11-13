@@ -57,6 +57,17 @@ related:
         width: 6720
         height: 4480
         isCached: true
+  - title: "Tesla Ruling Leaves Self-Driving Liability Questions Open"
+    excerpt: "A California federal court recently dismissed Umeda v. Tesla, saying that the wrongful death suit involving a driver-assist system should have been filed where the crash occurred, but the underlying liability questions the case the raised remain to be resolved,"
+    publishedDateTime: 2020-11-12T21:48:00Z
+    webUrl: "https://www.law360.com/articles/1326727/tesla-ruling-leaves-self-driving-liability-questions-open"
+    ampWebUrl: "https://www.law360.com/amp/articles/1326727"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1326727"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 39
 
 secured: "j4njSpWT/Y6dGydTcmdEJrUuM9UHvx8Y1CN5iEHXkUKpZnIYR//P0jvcIFFo/JCaAHnBtJY+RaARxKyKV44+2/cIKrgQv9aXWaNEPKDXCicrHjp2//Vdc+fsT4FBd1Bi3Sa2BpSwrxHjRbmVK1fyxXc3QDYtTCz25rRbwSWLYEH/Lwqz/je7YRvulcyeUDOVQdNSfUFm/lat+6ieZXAqpnfHH6EqdZtuQX+zBvOpQX/hePvXKcOZ2l5NiMmjJncVzT40GNQM8DIrdPCA+kfUBLJ70wmsYAIEmqa8TmX4JeOeJpCLJ72w4EONOtI0d/A9/KByJ7EQB/cTeamKw/gybnVgr6TUohra8zpH4irBXnkIVdqK5bqGOZ6HmiHZXuwZyDeNB/thisgD5qD9tiGAYqrBdhjrNQdhdPT7XYyCRC0hDuZVqyLYnW1AKaPh2JWKV1tFQs8nEL1qnmY2v0Zm6dfY7SmypnsrRX916BBQphdmQFh0YLy258ASDfU+rReYKXR0ke5RwWfTR3qSpDR96w==;wtMTCOu7vI2QLBi40jXe4A=="
 ---

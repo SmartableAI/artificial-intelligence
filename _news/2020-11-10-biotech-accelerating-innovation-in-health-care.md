@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/10/biotech-accelerating-innovation-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/10/biotech-accelerating-innovation-in-health-care/amp/"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

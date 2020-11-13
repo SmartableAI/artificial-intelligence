@@ -57,6 +57,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Mount Sinai builds machine learning models to predict COVID-19 mortality"
+    excerpt: "New York City-based Mount Sinai Health System researchers created machine learning-powered models that identify high risk and likelihood of mortality in COVID-19 patients. The researchers used EHRs from more than 4,"
+    publishedDateTime: 2020-11-12T22:17:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/mount-sinai-builds-machine-learning-models-to-predict-covid-19-mortality.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 53
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/5.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "MIT’s AI analysis shows extreme anxiety levels among people since the start of COVID-19"
     excerpt: "Massachusetts Institute of Technology (MIT) researchers with some help from Harvard Medical School analyzed the mental states of people by using various Reddit subforums aka Subreddits."
     publishedDateTime: 2020-11-09T18:05:00Z

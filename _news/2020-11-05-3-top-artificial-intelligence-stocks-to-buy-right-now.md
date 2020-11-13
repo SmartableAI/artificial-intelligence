@@ -3,20 +3,30 @@ category: news
 title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
 excerpt: "The artificial intelligence market is often associated ... NVIDIA also sells its Arm-based Tegra CPUs for connected and driverless cars. Those high-end chips power infotainment and navigation ..."
 publishedDateTime: 2020-11-05T15:46:00Z
-originalUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-11-05"
-webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-11-05"
-ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-11-05?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-11-05?amp"
+originalUrl: "https://www.fool.com/investing/2020/11/05/3-top-artificial-intelligence-stocks-to-buy-right/"
+webUrl: "https://www.fool.com/investing/2020/11/05/3-top-artificial-intelligence-stocks-to-buy-right/"
+ampWebUrl: "https://www.fool.com/amp/investing/2020/11/05/3-top-artificial-intelligence-stocks-to-buy-right/"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/05/3-top-artificial-intelligence-stocks-to-buy-right/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-secured: "J2EKpn4lIz6/kbjGyLVcJBzLpY3v6szqAb3cgyMrvJd+AEwuh6YgQ5JTLjiqqRVNqWvT56eUiuo+UlLkpy/7zdXCofI5n6y0fXcwv07BS8BSytNXq6kiRtr+kdgQnGr/F4YhhvdszFUnVRXccO+AEeBmK52cbClvWqFwfUu1A/QifK2R0Np/wvwb2UTIE2bdZz10/IJLP2NkEP6n9KJEI16FzKlc06RFsTBLBnAB6IF0wRTa+yYheGAZmevxOYxgaXxygkoh3DAqL8ofj0w13nrO90X8BBk624eRli+dFhX8lluJOfa98Q1+UFIGWwcY3C6KGa+MK9JrtwwEVsPQpc2SbQQ9LW0qrwX61Blq+bI=;tvtP0dmmt8zLL6/hk9bymA=="
+images:
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F598647%2Fgettyimages-687831316.jpg&w=1200&op=resize"
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "+QtQcETlr4/ldHjhXYYIic99vhnAN7xNsp1/Wv4Sau1tusjhyJzyZ/DXSJpjAsZWrI/dL2YDBd6+IrX2GMRLdaqkG6VqgS8VYBTD4/eOcAKsJn4F0N7U+1cWdKgJYBNS2infVT/ezE5we31O36H3b6ziks1Nph3HrqKIYb7um6rqCvlFzd/4BYouc4MaaU1DnpkCSMdYpQnbTYoPotoGqQNHfjjdwE4gGZ7TuoHK6+Pve0d6hZaUyHgBKHiOirr2O28HlBrgEHlxPaHQybbeSRNmz7dCvFD400YOCireKhbCXJVCA1JKv5o3+pP09zTq2mPGXYNJseJuf91PRxduBEZ5C00GytekS5zdcoNkt/M=;IWAoT+Nc6EOdkf99emrWKA=="
 ---
 

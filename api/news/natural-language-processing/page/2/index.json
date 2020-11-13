@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-28-new-unbabel-portal-unveiled-to-manage-customer-service-language-operations.md",
+      "title": "New Unbabel Portal Unveiled to Manage Customer Service Language Operations",
+      "excerpt": "The Unbabel Portal offers customers the most dynamic visualization and increased control over language operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201028005068/en/New-Unbabel-Portal-Unveiled-to-Manage-Customer-Service-Language-Operations",
+      "originalUrl": "https://www.businesswire.com/news/home/20201028005068/en/New-Unbabel-Portal-Unveiled-to-Manage-Customer-Service-Language-Operations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201028005068/en/833874/23/Unbabel-Portal-Usage-Reporting-Analysis.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-mobile-speech-recognition-software-market-research-2020-competitive-landscape-and-development-model-in-different-regions-of-the-world.md",
       "title": "Mobile Speech Recognition Software Market Research 2020: Competitive Landscape and Development Model in Different Regions of The World",
       "excerpt": "Final Report will add the analysis of the impact of COVID-19 on this industry.\" “ Mobile Speech Recognition Software Market ” has several changes in recent years and expected to vary significantly within the forecast year because of developments in production sources,",
@@ -1372,40 +1415,6 @@
       "provider": {
         "name": "India Education Diary",
         "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-speech-processing-solutions-next-generation-workflow-solution-with-ai-powered-speech-recognition.md",
-      "title": "Speech Processing Solutions: Next-generation workflow solution with AI-powered speech recognition",
-      "excerpt": "The new version of the Philips dictation workflow solution for enterprise businesses, SpeechExec Enterprise 7.0 (SEE 7.0), is now available in Europe and many international markets. The close collaboration between Nuance Communications and Speech Processing Solutions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.afp.com/en/news/1315/speech-processing-solutions-next-generation-workflow-solution-ai-powered-speech-recognition-202010150055971",
-      "originalUrl": "https://www.afp.com/en/news/1315/speech-processing-solutions-next-generation-workflow-solution-ai-powered-speech-recognition-202010150055971",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AFP",
-        "domain": "afp.com",
         "images": null,
         "publishers": null,
         "authors": null

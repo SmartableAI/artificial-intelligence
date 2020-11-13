@@ -20,35 +20,37 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Amazon shifts some voice assistant, face recognition computing to its own chips"
-    excerpt: "Amazon.com Inc <AMZN.O> on Thursday said it shifted part of the computing for its Alexa voice assistant to its own custom-designed chips, aiming to make the work faster and cheaper while moving it away from chips supplied by Nvidia Corp <NVDA."
-    publishedDateTime: 2020-11-12T22:40:00Z
-    webUrl: "https://www.reuters.com/article/amazon-com-nvidia-int/amazon-shifts-some-voice-assistant-face-recognition-computing-to-its-own-chips-idUSKBN27S2RI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S2RI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S2RI"
+  - title: "Schools Are Using a Facial Recognition Scanner That Detects Face Masks"
+    excerpt: "In addition to that, GoSafe also comes with sophisticated facial recognition technology. After U.S. school districts pushed to reopen, there was a pressing need for temperature-taking devices. While some school boards were initially apprehensive of the inclusion of facial recognition,"
+    publishedDateTime: 2020-11-11T12:24:00Z
+    webUrl: "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20909/Schools-Are-Using-a-Facial-Recognition-Scanner-That-Detects-Face-Masks.aspx"
+    ampWebUrl: "https://mobile.engineering.com/amp/20909.html"
+    cdnAmpWebUrl: "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20909.html"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 87
+      name: Engineering
+      domain: engineering.com
+    quality: 59
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1541008813&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB1P6"
-        width: 818
-        height: 545
+      - url: "https://www.engineering.com/portals/0/BlogFiles/75_ima1.png"
+        width: 530
+        height: 560
         isCached: true
-  - title: "Amazon shifts some voice, face recognition computing to own chips"
-    excerpt: "Amazon on Thursday said it shifted part of the computing for its Alexa voice assistant to its own custom-designed chips, aiming to make the work faster and cheaper while moving it away from chips supplied by Nvidia Corp."
-    publishedDateTime: 2020-11-12T20:30:00Z
-    webUrl: "https://www.itnews.com.au/news/amazon-shifts-some-voice-face-recognition-computing-to-own-chips-555835"
+  - title: "New Orleans Police Department using facial recognition despite years of denial"
+    excerpt: "Explaining its previous denials, the department said that it doesn’t employ its own facial recognition software. Instead, it accesses the technology through state and federal partners. An ACLU lawyer said that was a ‘distinction without a difference."
+    publishedDateTime: 2020-11-12T20:49:00Z
+    webUrl: "https://thelensnola.org/2020/11/12/new-orleans-police-department-using-facial-recognition-despite-years-of-denial/"
+    ampWebUrl: "https://thelensnola.org/2020/11/12/new-orleans-police-department-using-facial-recognition-despite-years-of-denial/"
+    cdnAmpWebUrl: "https://thelensnola-org.cdn.ampproject.org/c/s/thelensnola.org/2020/11/12/new-orleans-police-department-using-facial-recognition-despite-years-of-denial/"
     type: article
     provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 43
+      name: The Lens
+      domain: thelensnola.org
+    quality: 55
     images:
-      - url: "https://i.nextmedia.com.au/News/2020-11-12T173355Z_1_LYNXMPEGAB1O5_RTROPTP_3_AMAZON-COM-NVIDIA.JPG"
-        width: 800
-        height: 533
+      - url: "https://i0.wp.com/thelensnola.org/wp-content/uploads/2020/11/DSC_8767-scaled.jpg?fit=2560%2C1709&ssl=1"
+        width: 2560
+        height: 1709
         isCached: true
 
 secured: "TyUG1msOjLFOWai/iQcLI9vLGfH3TPb5OPF6mUJmmdoy7xe/4krRK3PTV2HYLn1hlXKHveWPbTcRu5Ouy+Q7nuBGAfZJYLyCiyiqTXhMypg1Oh7kO59uQffmp9eqjWSMGDYWh0iB6lIZyxEXAkHCoPFHmy7MPNuvxlRX0lXW6k0cr4ely1RoYJeXLLjZMCZsI6Z68LP8k85NXyHHu18lnSIfRBlb+j47Ey6/+yGS6aI6AIzJg7zJ9c9Uk/MYD8iQP7yMVb5SL67aJmTXHuAr76XF7cY3Y1TwvJLDK/xbf/MD/rBIgfqqTgTtngx3Mq+r8C/tdyVrcp5wMcVmfVa2/Dbi1XKdms3YgR1wkOREL90=;SHZRN51cPy7N5JD5Po+Z4g=="

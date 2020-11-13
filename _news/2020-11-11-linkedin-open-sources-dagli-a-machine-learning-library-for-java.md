@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/10/linkedin-open-sources-dagli-a-mac
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/10/linkedin-open-sources-dagli-a-machine-learning-library-for-java/amp/"
 type: article
 quality: 89
-heat: 91
+heat: 89
 published: true
 
 provider:

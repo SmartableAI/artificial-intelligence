@@ -65,6 +65,20 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "IBM Advances Hybrid Cloud Software with New Data and Automation Capabilities to Help Companies Speed Digital Transformations"
+    excerpt: "In addition, Cloud Pak offerings integrate with IBM Watson, enabling clients to infuse AI into their systems to predict and analyze future outcomes, automate complex processes, optimize employees ..."
+    publishedDateTime: 2020-11-10T21:23:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ibm-advances-hybrid-cloud-software-with-new-data-and-automation-capabilities-to-help-companies-speed-digital-transformations-301169589.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+        width: 2698
+        height: 1414
+        isCached: true
 
 secured: "sS1D6LeiCR6swJXsJJx66Sd0Ef/1fh4Vh8tdNETwpj3ic73xjKZ2IN8HlDowNY3HduJfF3+Alb59xVptq8qVuzwyddiulTxi8WeNtX7xeT/Tw2uVBDVQSErRpBCgRwYkg2Qu2t731N7kBTogOnyKLIRBswj/xzD9JebUiNyW+iAY4OkPTrz9h2uRjSWKc8UmMO8VEr1Z0OOToBc25Z5w7fb7ercbMHy1216srG1CGeMG+E2o9NtOfD8Uh/QfGne8R81j7jDBFSbkt3SSPthkrWu8mSqQlC3zRmgO3c517ykl6JByvIGd+Q7avCH39yFCLF9hpL3Y8wmXyc71P6dIFhw5keoH2mrwQsOqC3jB8IM=;lKwsHQVUyz+L2HwBId/nvQ=="
 ---

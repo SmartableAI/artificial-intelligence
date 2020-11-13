@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2020-11-survey-artificial-intelligenc
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-survey-artificial-intelligence-chest-imaging.amp"
 type: article
 quality: 57
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://cdn.nextgov.com/media/img/upload/2020/11/09/NGmisinfo20201109/open-graph.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Mount Sinai builds machine learning models to predict COVID-19 mortality"
+    excerpt: "New York City-based Mount Sinai Health System researchers created machine learning-powered models that identify high risk and likelihood of mortality in COVID-19 patients. The researchers used EHRs from more than 4,"
+    publishedDateTime: 2020-11-12T22:17:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/mount-sinai-builds-machine-learning-models-to-predict-covid-19-mortality.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 53
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/5.jpg"
+        width: 400
+        height: 300
         isCached: true
   - title: "Developing machine learning models to predict critical illness and mortality in COVID-19 patients"
     excerpt: "Mount Sinai researchers have developed machine learning models that predict the likelihood of critical events and mortality in COVID-19 patients within clinically relevant time windows. The new models outlined in the study—one of the first to use machine learning for risk prediction in COVID-19 patients among a large and diverse population,"

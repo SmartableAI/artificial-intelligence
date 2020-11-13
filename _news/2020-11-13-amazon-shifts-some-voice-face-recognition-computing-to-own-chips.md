@@ -7,7 +7,7 @@ originalUrl: "https://www.itnews.com.au/news/amazon-shifts-some-voice-face-recog
 webUrl: "https://www.itnews.com.au/news/amazon-shifts-some-voice-face-recognition-computing-to-own-chips-555835"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -28,30 +28,19 @@ images:
 
 related:
   - title: "Amazon shifts some voice assistant, face recognition computing to its own chips"
-    excerpt: "Amazon.com Inc <AMZN.O> on Thursday said it shifted part of the computing for its Alexa voice assistant to its own custom-designed chips, aiming to make the work faster and cheaper while moving it away from chips supplied by Nvidia Corp <NVDA."
-    publishedDateTime: 2020-11-12T22:40:00Z
-    webUrl: "https://www.reuters.com/article/amazon-com-nvidia-int/amazon-shifts-some-voice-assistant-face-recognition-computing-to-its-own-chips-idUSKBN27S2RI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S2RI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S2RI"
+    excerpt: "Amazon.com Inc on Thursday said it shifted part of the computing for its Alexa voice assistant to its own custom-designed chips, aiming to make"
+    publishedDateTime: 2020-11-12T20:15:00Z
+    webUrl: "https://www.channelnewsasia.com/news/business/amazon-shifts-some-voice-assistant--face-recognition-computing-to-its-own-chips-13528214"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 87
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 37
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1541008813&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB1P6"
-        width: 818
-        height: 545
+      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13528212/16x9/991/557/e70edfa56e34e0973afdcb3c88e0341e/Sf/file-photo--amazon-logo-is-pictured-in-mexico-city-7.jpg"
+        width: 991
+        height: 557
         isCached: true
-  - title: "Amazon moving some Alexa, facial recognition computing to in-house chips"
-    excerpt: "Amazon (AMZN -1.0%) is moving part of its Alexa computing from Nvidia (NVDA +0.9%) to the in-house Inferentia chips.The Inferentia chips will be used when an Echo user's voice query is sent to an Amazon data center for processing and answering in a text format that then has to be converted to audio."
-    publishedDateTime: 2020-11-12T19:00:00Z
-    webUrl: "https://seekingalpha.com/news/3635661-amazon-moving-alexa-facial-recognition-computing-to-in-house-chips"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 20
 
 secured: "SRjOggtUOQB9ginvRoZknIy96kOQvRRr55oMXPKIPNy83FqdhZxEqQINtDQmbJRJAoaHG1tqKLcDBvTMZR5kn420viv/M8jMkE45XpcuqW1KbXYXj/lOrzJ5IwNQXx+WYSxQwNarwevnzqImCqW+iPlyDVXLLlJliBXaFkmZ1i90lES7/hQCg+e0UXySuy65V6gxRLmCJqNWTFAA4UzsdAkfkvyVOF0eBXpsx0C75ssmXl2ZuHDD3ctwpSaVvOKGLvJhXp0AoA6bJBDD7Fd/T/YIUJSxsVnmrs/yue+CzH3zMlByDhi3OoCuhYyiwqyoQRK964/F16xlToSmU52PEJz1iCS+u4LZcvhEYTapIEjy09qF19UUCwHl2q3jYWyy9yLWe73aFw+aVgwX+3EOG/tPz5lx0L5Zy28f5O3ntzpXPpY5emRXi//8sSNG31NSwU/3CB+N0eGfxVR+XmfwRdd50tNpwTSQgHzNgaVqWN5u0+QYGaJre0eNkneRKxmBQXDsPmqSa3122stQE7itQQ==;i5rgWPHxJzjIkIaLiNuFbQ=="
 ---

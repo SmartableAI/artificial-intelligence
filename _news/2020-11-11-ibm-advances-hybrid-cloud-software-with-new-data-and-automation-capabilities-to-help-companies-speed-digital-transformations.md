@@ -1,29 +1,86 @@
 ---
 category: news
 title: "IBM Advances Hybrid Cloud Software with New Data and Automation Capabilities to Help Companies Speed Digital Transformations"
-excerpt: "PRNewswire/ -- IBM (NYSE: IBM) today announced a series of data and automation updates to its hybrid cloud software"
-publishedDateTime: 2020-11-10T18:02:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-advances-hybrid-cloud-software-with-new-data-and-automation-capabilities-to-help-companies-speed-digital-transformations-1029787221"
-webUrl: "https://markets.businessinsider.com/news/stocks/ibm-advances-hybrid-cloud-software-with-new-data-and-automation-capabilities-to-help-companies-speed-digital-transformations-1029787221"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-advances-hybrid-cloud-software-with-new-data-and-automation-capabilities-to-help-companies-speed-digital-transformations-1029787221"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-advances-hybrid-cloud-software-with-new-data-and-automation-capabilities-to-help-companies-speed-digital-transformations-1029787221"
+excerpt: "In addition, Cloud Pak offerings integrate with IBM Watson, enabling clients to infuse AI into their systems to predict and analyze future outcomes, automate complex processes, optimize employees ..."
+publishedDateTime: 2020-11-10T21:23:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ibm-advances-hybrid-cloud-software-with-new-data-and-automation-capabilities-to-help-companies-speed-digital-transformations-301169589.html"
+webUrl: "https://www.prnewswire.com/news-releases/ibm-advances-hybrid-cloud-software-with-new-data-and-automation-capabilities-to-help-companies-speed-digital-transformations-301169589.html"
 type: article
-quality: 27
-heat: 27
+quality: 0
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "ogL+v/P8Aux0HbKgYSnaRzXrNKhJDE194W34l0OFZisHp/e/goBKpuKtzEArjN1Cfq0+xeeL/icM9uKYva4/qtmJhZgYidVPrnRyy9eNkfGKC/TYxnqSmtEqPzNy2CZeavI7MAgyn3IojEeHx614tg6lwSpckt431NkI/QRIOEaL33ia8wwlSwpknwKn48dYjzQ+FU/vAOIU9qHAhWCWh6Qv4EGY0ZQEHvLdlZoBAX4ehKKGPOHRCaMx2Hckh4dmhdtykqqqB5gh6LFBMBXAKx1fROJBJrNVqJqQtRcv7978zP73Hteijcza3me0JGZyvfrRy5HGvN2zTnH8rzQ2kBSi8+N2MyQOFWeQ//2/JOQ=;GhqLm7OPqvvBvrPY2FWZIg=="
+images:
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+    width: 2698
+    height: 1414
+    isCached: true
+
+related:
+  - title: "IBM updates Cloud Paks for data, automation with RPA tools, industry accelerators"
+    excerpt: "IBM said it is updating it Cloud Pak for Data and Cloud Pak for Automation with accelerators for industry use cases for data science, machine learning, document processing and rob"
+    publishedDateTime: 2020-11-10T06:00:00Z
+    webUrl: "https://www.zdnet.com/article/ibm-updates-cloud-paks-for-data-automation-with-rpa-tools-industry-accelerators/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-updates-cloud-paks-for-data-automation-with-rpa-tools-industry-accelerators/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-updates-cloud-paks-for-data-automation-with-rpa-tools-industry-accelerators/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/09/18/b9991307-7e4f-4d35-b13a-a8a65270ed50/thumbnail/1200x675/99095146e257bc78f2ddff3ac6c5d86f/cloud.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "IBM grows automation, data features for hybrid cloud control"
+    excerpt: "IBM continued enhancing its core Cloud Pak hybrid cloud software offerings, this week bolstering automation and data features that will let customers simplify everything from software provisioning and patching,"
+    publishedDateTime: 2020-11-11T14:39:00Z
+    webUrl: "https://www.networkworld.com/article/3596498/ibm-grows-automation-data-features-for-hybrid-cloud-control.html"
+    ampWebUrl: "https://www.networkworld.com/article/3596498/ibm-grows-automation-data-features-for-hybrid-cloud-control.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3596498/ibm-grows-automation-data-features-for-hybrid-cloud-control.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 46
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/10/cso_security_hack_control-center_breach_gettyimages-808157576_by-gorodenkoff_2400x1600px-100861757-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "IBM mixes more deep learning into its Cloud Paks"
+    excerpt: "IBM Corp. today introduced new versions of its Cloud Pak for Data and Cloud Pak for Automation products that will enable enterprises to harness deep learning models in their operations more easily. The Cloud Pak product family is a set of software solutions designed to streamline a variety of tasks ranging from cybersecurity to data analytics."
+    publishedDateTime: 2020-11-10T20:55:00Z
+    webUrl: "https://siliconangle.com/2020/11/10/ibm-mixes-deep-learning-cloud-paks/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/Krishna-768x512.jpg"
+        width: 768
+        height: 512
+        isCached: true
+  - title: "IBM Advances Hybrid Cloud Software with New Data and Automation Capabilities to Help Companies Speed Digital Transformations"
+    excerpt: "IBM today announced a series of data and automation updates to its hybrid cloud software portfolio to help companies drive innovation across their expanding environments and accelerate their digital transformations."
+    publishedDateTime: 2020-11-10T14:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/ibm-advances-hybrid-cloud-software-with-new-data-and-automation-capabilities-to-help"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 7
+
+secured: "bn0ndQD8lE5jeNIq/6Bnv6x0hTF83ZvFpLhPkxa5iJmbV6zZb9VEQ44eO75OpmZlGI2dHA6czkvI4fvASyNLz4ypITAJ681tMRbfel09EYE2qXuEZmT9tLjnclHUQrJzcJ9CZq/owlBEDHygWlS73af0LJS9PYMcoAEluB+ZMJX0A8pkNubtmPjUV2tPa5iiixo2ccyY7XuA6gg/Thbx2BUSeAA11j44uMUBifGvMW9cPEQtoHymihQgEw4mZoIe4yLe1JRqOSt4I4wPFjdUwGY2SoTAFND9FZPi6Xo0zvPbcYZb0DNMggLm5Ey4XQK751iL/8Bga30ZUWr/pkuM/j67icYiJhT/EDsXpqIT8y8=;jp7qwOts5bzJsnovUrnRYQ=="
 ---
 

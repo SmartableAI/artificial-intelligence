@@ -57,6 +57,17 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Training facial recognition on some new furry friends: Bears"
+    excerpt: "In their spare time, two software developers aided conservationists in developing artificial intelligence to help identify individual brown bears around British Columbia's Knight Inlet."
+    publishedDateTime: 2020-11-12T23:06:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/training-facial-recognition-on-some-new-furry-friends-bears/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/training-facial-recognition-on-some-new-furry-friends-bears/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/training-facial-recognition-on-some-new-furry-friends-bears/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 54
   - title: "Biometrics community recognizes need for better messaging on ethical facial recognition use"
     excerpt: "Less than one in four biometrics community stakeholders say that enough is being done by the industry to influence the messaging around the ethical use of facial recognition, according to a survey"
     publishedDateTime: 2020-11-10T22:50:00Z

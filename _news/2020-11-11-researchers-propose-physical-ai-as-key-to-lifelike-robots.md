@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/simonchandler/2020/11/11/researchers-pr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/11/11/researchers-propose-physical-ai-as-key-to-lifelike-robots/amp/"
 type: article
 quality: 104
-heat: 145
+heat: 144
 published: true
 
 provider:

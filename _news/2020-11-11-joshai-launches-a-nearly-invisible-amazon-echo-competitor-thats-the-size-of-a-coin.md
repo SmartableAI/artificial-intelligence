@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/11/10/josh-ai-launches-a-nearly-invisibl
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/10/josh-ai-launches-a-nearly-invisible-amazon-echo-competitor-thats-the-size-of-a-coin/amp/"
 type: article
 quality: 79
-heat: 80
+heat: 79
 published: true
 
 provider:

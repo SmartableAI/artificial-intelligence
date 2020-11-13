@@ -59,6 +59,17 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Training facial recognition on some new furry friends: Bears"
+    excerpt: "In their spare time, two software developers aided conservationists in developing artificial intelligence to help identify individual brown bears around British Columbia's Knight Inlet."
+    publishedDateTime: 2020-11-12T23:06:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/training-facial-recognition-on-some-new-furry-friends-bears/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/training-facial-recognition-on-some-new-furry-friends-bears/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/training-facial-recognition-on-some-new-furry-friends-bears/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 54
   - title: "New A.I. Offers Facial Recognition for Grizzly Bears"
     excerpt: "But now, Clapham and her research team have developed a solution: facial recognition for bears. Bears grow and shrink a lot depending on the season, and their appearance changes frequently during their 20- to 25-year-long lifespans. Clapham began to wonder ..."
     publishedDateTime: 2020-11-12T20:58:00Z
