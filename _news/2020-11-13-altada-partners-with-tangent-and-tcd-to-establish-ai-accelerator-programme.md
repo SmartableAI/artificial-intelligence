@@ -33,7 +33,7 @@ related:
     provider:
       name: EurekAlert!
       domain: eurekalert.org
-    quality: 26
+    quality: 28
     images:
       - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
         width: 1200

@@ -44,6 +44,15 @@ related:
         width: 800
         height: 300
         isCached: true
+  - title: "Amazon Textract recognizes handwriting and adds five new languages"
+    excerpt: "Documents are a primary tool for communication, collaboration, record keeping, and transactions across industries, including financial, medical, legal, and real estate. The format of data can pose an extra challenge in data extraction, especially if the content is typed, handwritten, or embedded in a"
+    publishedDateTime: 2020-11-13T19:00:32Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-textract-recognizes-handwriting-and-adds-five-new-languages/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 86
 
 secured: "LCtV5OLWcUPfdNBqvXrGEC4QCpYjSwPRQRTW4szAaJ4jqY77Q5nCUYp651Vh0sDDj2ruEOCZ7XI8IHkklTTu1St247NBJB0aiR0GOzNy8fnayCR2LUjOy7FaFkJ46x4T13GOiY+dOv42oSVlG6Poau6Trz9fxCMVEv/369cbgupRn+ZnxSp3/zClhbM54GXoI4DzBznCD7coxCItlwRzeqDS3c9V9Zkrcd3p082iDBjwT7g+WEKx8D+hlKuimnkJsrjThBaV/pzrt3w5ZlFcoy1U8zIFVpHuk3Gl8eeIScGicDJB7h/SyVw6MmvsQrPD3GpiwYZtGjf5uU6indRrQ0nJpJHbTrp8nGcvpVPQYuM=;2GJSHe4LABvkfxqOEC0uaQ=="
 ---

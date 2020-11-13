@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-13T18:57:00Z
 originalUrl: "https://www.eurekalert.org/pub_releases/2020-11/tcd-taa111320.php"
 webUrl: "https://www.eurekalert.org/pub_releases/2020-11/tcd-taa111320.php"
 type: article
-quality: 26
+quality: 28
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"

@@ -18,17 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Chinese autonomous truck startup Inceptio raises $120 mln from CATL, others"
-    excerpt: "China's Inceptio Technology, a startup developing self-driving trucks, said on Monday it has raised $120 million in its latest funding led by top Chinese electric vehicle battery maker CATL."
-    publishedDateTime: 2020-11-09T04:00:00Z
-    webUrl: "https://www.reuters.com/article/inceptio-autonomous-idUSL1N2HU0DG"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2HU0DG"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2HU0DG"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 65
   - title: "Leading Autonomous Truck Startup Inceptio Technology Completed a New Capital Raising of US$120 Million"
     excerpt: "On November 9, 2020, Inceptio Technology, a leading autonomous truck company, announced its US$120 million funding led by Contemporary Amperex Technology Co., Limited (CATL), a global leader in the development and manufacturing of lithium-ion batteries."
     publishedDateTime: 2020-11-13T14:51:00Z

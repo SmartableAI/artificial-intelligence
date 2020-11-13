@@ -1,31 +1,33 @@
 ---
 category: news
-title: "One Bullish Way to Play a Stock at Cross-Section of Health Care and Tech, Trader Says"
-excerpt: "Teladoc is on the way to disrupting health care, and its stock appears to be in a good position for a bullish trade, says TradingAnalysis.com’s Todd Gordon."
-publishedDateTime: 2020-11-13T17:25:00Z
-originalUrl: "https://www.nbcnewyork.com/news/business/money-report/one-bullish-way-to-play-a-stock-at-cross-section-of-health-care-and-tech-trader-says/2723618/"
-webUrl: "https://www.nbcnewyork.com/news/business/money-report/one-bullish-way-to-play-a-stock-at-cross-section-of-health-care-and-tech-trader-says/2723618/"
-ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/one-bullish-way-to-play-a-stock-at-cross-section-of-health-care-and-tech-trader-says/2723618/?amp"
-cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/one-bullish-way-to-play-a-stock-at-cross-section-of-health-care-and-tech-trader-says/2723618/?amp"
+title: "One bullish way to play a stock at cross-section of health care and tech, trader says"
+excerpt: "Now boasting a $26.4 billion market cap, Teladoc specializes in remote health-care services and analytics. The company closed a deal to acquire artificial intelligence company Livongo last week and has been developing ways to provide preventative treatment ..."
+publishedDateTime: 2020-11-13T18:55:00Z
+originalUrl: "https://www.cnbc.com/2020/11/13/teladoc-one-bullish-way-to-play-cross-section-of-health-care-and-tech.html"
+webUrl: "https://www.cnbc.com/2020/11/13/teladoc-one-bullish-way-to-play-cross-section-of-health-care-and-tech.html"
 type: article
-quality: 37
-heat: 37
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: NBC New York
-  domain: nbcnewyork.com
+  name: CNBC
+  domain: cnbc.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://media.nbcnewyork.com/2020/11/106796172-1605277472804-2015-07-01T120000Z_533704413_GF10000145763_RTRMADP_3_USA-ECONOMY.jpg?resize=1200%2C675"
-    width: 1200
-    height: 675
+  - url: "https://image.cnbcfm.com/api/v1/image/106796172-1605277472804-2015-07-01T120000Z_533704413_GF10000145763_RTRMADP_3_USA-ECONOMY.JPG?v=1605277599"
+    width: 4207
+    height: 2805
     isCached: true
 
-secured: "WLe187/eWRetzfWZyT5KOZUU3CZ1iU4w4YWDbk+gRnycmzhjgD5T9PBuEs40H+3MrmP/wMDbjDY5bQVsL9CF95TaRviejAdKFBDSCX5VL/hwxJn15v3+fWarKFOsydPsJqzPZ/I6ngRiFmmaQ6mA/V3jHruoLUqzxGGhghzGXPtZbCEedWMJPdqbSGiUDEuTZi/FVMBcgiQ6+/iXhyc+HLHdfhMjq0J63fJ+qt1eiRA95XnBAPoyqadM9Q+Gg3LqdbeDCv81VUWtnrHK1sDME3Z47PRFMBmfPyF0ftszhojCLT+r+rjB1EO8xRBKMDQld9SSCTd1nZo0VVgELEQKqMYMOd4tFCG87/ZWRCCAU9w=;UwPSxFWWIVOJr+O8a/vJRA=="
+secured: "dL+jy/UJtVeIXI2rEYMz96Zj9p22FQU7YcuOPYjjs6XVkgZYZWCIOKpXfgquWTUC24ahMDipZnnubKClQqUkGwU1j1PrIZyMLlN6mc7oYj477faYXm0jLxu3o7SeKv1pE8DLPLWGBAoqYpVmxdeYx8VzW8dmroifTeARklBoDi/V0dUqWFg9Thp0JdR46ZJd5Mbiz6TT5BTpOiHPZ+0CJBik/EC2ZhbpXU39i6g/DmAjIY0VHXsiceuOsvRzkcrc9Nj+GBZwQlRPK/juZ5Wc76Og+41o7r3iTrxxpJnEH5mtrUmDJlLzXyoZaGG7oW5T7JlBwXOnzSvex3x/fNfb2x2ixPFtOFKbUuUmBmyXihc=;q+NTWc74nn1zEs6WEZMYNg=="
 ---
 

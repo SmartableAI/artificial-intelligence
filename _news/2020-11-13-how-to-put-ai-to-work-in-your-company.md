@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "This is not your father’s artificial intelligence"
-    excerpt: "They discussed artificial intelligence and federal IT. AI has been around for a while. With the advent of cheap cloud storage and computers, the concept of artificial intelligence has matured to a point where we can refine the discussion."
-    publishedDateTime: 2020-11-09T14:19:00Z
-    webUrl: "https://federalnewsnetwork.com/federal-tech-talk/2020/11/this-is-not-your-fathers-artificial-intelligence/"
-    ampWebUrl: "https://federalnewsnetwork.com/federal-tech-talk/2020/11/this-is-not-your-fathers-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://federalnewsnetwork-com.cdn.ampproject.org/c/s/federalnewsnetwork.com/federal-tech-talk/2020/11/this-is-not-your-fathers-artificial-intelligence/amp/"
+  - title: "This company is allowing the AI to make life insurance decisions"
+    excerpt: "While most companies prefer to make final decisions on their own, Bestow lets the AI determine eligibility for a much faster process."
+    publishedDateTime: 2020-11-13T18:14:00Z
+    webUrl: "https://www.techrepublic.com/article/this-company-is-allowing-the-ai-to-make-life-insurance-decisions/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/this-company-is-allowing-the-ai-to-make-life-insurance-decisions/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/this-company-is-allowing-the-ai-to-make-life-insurance-decisions/"
     type: article
     provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 57
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
     images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2020/11/arash-rahnama-300x300.jpg"
-        width: 300
-        height: 300
+      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/02/05/82457267-972f-48c8-ad24-3542a0ef2f87/resize/1200x/bbccae6b5e2cb340e005046ffae1dcf0/istock-1169711450.jpg"
+        width: 1200
+        height: 718
         isCached: true
 
 secured: "E2aYZxxsoofo8oSzpKz8L7ptOkOOZWLHz9uWRBar3OakxPNLErMbXvRhF3TVClaogTb1i9wF0gI+8acIBm1MSbi2sgEl6/5lVcJ1y2kU5kFZp1TnCI97HFpoQG0uEanAjbgfzAVZeM7YNS01NZyN94VFHTQFR518Yk0NZ9GvRtqWS6w0S/CTR2Hgdy5uI/LokulrHDz2iQWp6RjSH0FjZ2Dos40FwT9zAUIuTIaaohWfHsP6/SBGFwxtowJgk3Ldt11rcdeKXsvwjyn39agIwuvfRHXMFEkKmyoUzaPgtqK68pLG1kR/loYMBhjgeRqrDvG265IG1fPbbw8jHGZf6q7FBqOJx6UhMWJhVjsWTi4=;mgy8KZ97ypDzhTyXgfDnFA=="

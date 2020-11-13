@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-2020-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2026-2020-11-11"
 type: article
 quality: 67
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -128,20 +128,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Global Voice Assistant Market 2020 Industry Outlook, Key Players, Segmentation Analysis, Business Growth and Forecast to 2025"
-    excerpt: "Global Voice Assistant Market 2020 by Company, Regions, Type and Application, Forecast to 2025 is a conclusive source of information that encapsulates vital details about the market flow as well as future status during the mentioned forecast period of 2025."
-    publishedDateTime: 2020-11-09T04:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-assistant-market-2020-industry-outlook-key-players-segmentation-analysis-business-growth-and-forecast-to-2025-2020-11-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Video Analytics, ISR And Intelligent Video Surveillance Americas Market Research Report 2020 By Segmentations, Key Company Profiles"
     excerpt: "According to HSRC's latest report, Video Analytics, ISR, Intelligent Video Surveillance & Object Recognition & Americas Market-2015-2020, the U.S. and the rest of American national markets are expected to exceed $36."
