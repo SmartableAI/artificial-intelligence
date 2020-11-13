@@ -286,6 +286,20 @@ related:
         width: 500
         height: 682
         isCached: true
+  - title: "Walmart to Launch Self-Driving Delivery Pilot in Arizona"
+    excerpt: "Walmart announced Tuesday that it is launching a pilot program in Scottsdale, Arizona, for all-electric self-driving car deliveries. The effort is being done in conjunction with the self-driving car company Cruise,"
+    publishedDateTime: 2020-11-13T10:57:00Z
+    webUrl: "https://nationalinterest.org/blog/techland/walmart-launch-self-driving-delivery-pilot-arizona-172414"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 24
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/2020-11-10T140052Z_139583049_RC2E0K9RJCK3_RTRMADP_3_AUTONOMOUS-CRUISE-WALMART.JPG.jpg"
+        width: 1222
+        height: 802
+        isCached: true
   - title: "Walmart taps self-driving vehicle startup Cruise for autonomous deliveries"
     excerpt: "The collaboration is part of the mass merchant's effort to modernize deliveries and lessen environmental impact."
     publishedDateTime: 2020-11-12T15:05:00Z

@@ -2,25 +2,25 @@
 category: news
 title: "DIU Selects Summit2Sea Consulting to Develop Artificial Intelligence Technology for the DoD"
 excerpt: "Summit2Sea will leverage AWS Sagemaker, a fully managed service ... Secretary of Defense Comptroller OUSD(C) and the Joint Artificial Intelligence Center (JAIC) are sponsors of the prototype ..."
-publishedDateTime: 2020-10-28T14:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-1029735172"
-webUrl: "https://markets.businessinsider.com/news/stocks/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-1029735172"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-1029735172"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-1029735172"
+publishedDateTime: 2020-10-28T10:06:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-301161877.html"
+webUrl: "https://www.prnewswire.com/news-releases/diu-selects-summit2sea-consulting-to-develop-artificial-intelligence-technology-for-the-dod-301161877.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "EV2F2Me84m/LYWTmfSSPVlv7SDVX0Yz4z1c49UPmzHGnLSUGIy4Ad9jReXfX2lyWkpoH1zfmeWlqsjFiH1WnJjRvAVUTjr9MCnUv8cJAxLiTipRJRr+ebjTWnksu+wzRw+oYpfODFBccXwTZzl+QQBax4XaLyCHZWirbypG9GP2L38EOJaKEi8tldZ+tDU49jZeBNOQWZ8mBD7kLq55KFOOnaRfKvR0UuQpcuUJspuQJkXH9OloJfzaRwN5CA/3Alk6GHlkjmlnWV7CmnORffJnuY+lxyCBPwHs69HrVZlmgehnHDSFwH22FVPqqm2LGjGTng5BgiCvKG6WomxfWEe9aDFVrLYWbL9GmpKmmtqo=;+qdiHnugdnWtA0lpaUSO5Q=="
+images:
+  - url: "https://mma.prnewswire.com/media/1321396/Summit2Sea___Brian_Eckle.jpg?p=facebook"
+    width: 3721
+    height: 1948
+    isCached: true
+
+secured: "kb46a5GRazMN0Q5X7HmSxKTGsvTSp2SR5n0FjPo2QXkNo+IUNQcOtMwAvrJ9ZIN/9gIhBWVbg2Yl5xPw0X++EkAWPhRsMzdhuoQYpVUtPacAmfDnphXQT++DcZVPLitdbWC2v1gOb7WHTciqnmBFf+AlwRvumr4PQLHgK1lfRp70vFRaaEiHs4iw4in9imJULcrjOk/YdZVLGnQ65B0bVo/9UZUBCX2/M0juZGLze0BlGivUThkRXyTVvw5jYnDhjzoVCwLFLPp8Nfw0rSDwm0AbYGHbILzB2Gr3lhcuGSNgXUnyCAC/8LKUCYscTxjZAf7VEDulttInhN80ZdqgrfRiApmJhMxvVQFlLHeJcc8=;kogmV2/2bM6+5soHfexpeg=="
 ---
 

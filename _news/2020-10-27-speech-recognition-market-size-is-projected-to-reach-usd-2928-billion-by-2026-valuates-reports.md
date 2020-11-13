@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Speech Recognition Market Size is Projected to Reach USD 29.28 Billion by 2026 | Valuates Reports"
-excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net BANGALORE, India, Oct. 27, 2020 /PRNewswire/ -- Speech Recognition Market by Deployment Mode (On Cloud, On Premise), By ..."
-publishedDateTime: 2020-10-27T13:43:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/speech-recognition-market-size-is-projected-to-reach-usd-29-28-billion-by-2026-valuates-reports-1029727236"
-webUrl: "https://markets.businessinsider.com/news/stocks/speech-recognition-market-size-is-projected-to-reach-usd-29-28-billion-by-2026-valuates-reports-1029727236"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/speech-recognition-market-size-is-projected-to-reach-usd-29-28-billion-by-2026-valuates-reports-1029727236"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/speech-recognition-market-size-is-projected-to-reach-usd-29-28-billion-by-2026-valuates-reports-1029727236"
+excerpt: "BANGALORE, India, Oct. 27, 2020 /PRNewswire/ -- Speech Recognition Market by Deployment Mode (On Cloud, On Premise), By End Use (Automotive, Consumer Electronics, Healthcare, Enterprise ..."
+publishedDateTime: 2020-10-27T14:46:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/speech-recognition-market-size-is-projected-to-reach-usd-29-28-billion-by-2026-valuates-reports-839949080.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/speech-recognition-market-size-is-projected-to-reach-usd-29-28-billion-by-2026-valuates-reports-839949080.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "BZvms1I91U6o8uXsZxHHdcFInrL8cVL3acRNoJ/jQOd6Yd/dmsu31tnM4lEaD5KMNDW+7XeweDXSshMhP0xsFwwKGoM5uYgSoBO0xPm25z07nM8+19gAAaAaqPWS38/SMHKyvVQo/jpYBLzeZs9PTZNk32J+uO0OmIc8SAnLBZ9puQOSOymkGZ/jgXggpTAZws95o6AEoT3Kt7KDt8mK/xDZ8gnswi9eqbqqFUV1uMoy85lveAVh+CgWnGBamgr63u1YOd5rhqrPoOq8SFKLNyRNtFfLvb/cn42z1Bj/HISK6Gfgw6Z4QwLST8687rib4rrCTVWC1L+jV46pfic7jfsQPGkgvT0s9E3d1YeFUrQ=;na6sGwdVj34WPjPqy4rwfQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
+    width: 920
+    height: 482
+    isCached: true
+
+secured: "XNCxKARqGvx3YRuqZ7TL8r5VippPhOAQL8m+foOJZ0cwo1tXMToOPdXj/lxXtU6g7GGfiYKau1+OnU6TD5iTwMeFAmch/jWR5y48C5CDzqupGthjoSeoEu6jfpUDBMP0J7qQ9Dc5ynq8I9GuoXCz5dqvXem4OIB/uBY4odlBC0+5g2Q9MSbhCTchLUarSfBSD1hKAjuVYjf1VX+Spq/dzZoRJEuJZ4ArpS6CjhYjkC8xmt/7gNeonESsl0sDUqzynlSSdSbLmxH7CRsEf+91O6l4mU4c3PwtOpT/v/yarwOKyLDdIu2PBXu+8/069L49y067KntIoz3vSN61gpWJcinj1qqznupm87d1fR4EAlM=;wy4UwkWXKrYw13uyshY2Ww=="
 ---
 

@@ -2,6 +2,101 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-10-28-covid-19-fails-to-move-needle-on-consumers-disdain-for-self-driving-vehicles.md",
+      "title": "COVID-19 Fails To Move Needle On Consumers’ Disdain For Self-Driving Vehicles",
+      "excerpt": "Carmakers continue to develop self-driving systems and some safety experts continue to tout their potential for saving lives, but the public as a whole expresses very limited interest in buying cars with the technology. At the same time, experts in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jacknerad2/2020/10/27/covid-19-fails-to-move-needle-on-consumers-disdain-for-self-driving-vehicles/",
+      "originalUrl": "https://www.forbes.com/sites/jacknerad2/2020/10/27/covid-19-fails-to-move-needle-on-consumers-disdain-for-self-driving-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f989fad0c7ff5233c25a749%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jacknerad2/2020/10/27/covid-19-fails-to-move-needle-on-consumers-disdain-for-self-driving-vehicles/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jacknerad2/2020/10/27/covid-19-fails-to-move-needle-on-consumers-disdain-for-self-driving-vehicles/amp/",
+      "publishedDateTime": "2020-10-27T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-chinas-new-silk-road-runs-through-cyberspace-worrying-rivals-and-privacy-advocates.md",
+      "title": "China's new Silk Road runs through cyberspace, worrying rivals and privacy advocates",
+      "excerpt": "China is fast becoming a global leader in cutting-edge technologies — such as artificial intelligence ... and perhaps with your future driverless electric car. But these days, the Trump ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pri.org/stories/2020-10-27/chinas-new-silk-road-runs-through-cyberspace-worrying-rivals-and-privacy",
+      "originalUrl": "https://www.pri.org/stories/2020-10-27/chinas-new-silk-road-runs-through-cyberspace-worrying-rivals-and-privacy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2020/10/2020-10-27-huawei-china.jpg?itok=DWaojYkp",
+          "width": 1200,
+          "height": 707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pri.org/stories/2020-10-27/chinas-new-silk-road-runs-through-cyberspace-worrying-rivals-and-privacy?amp",
+      "cdnAmpWebUrl": "https://www-pri-org.cdn.ampproject.org/c/s/www.pri.org/stories/2020-10-27/chinas-new-silk-road-runs-through-cyberspace-worrying-rivals-and-privacy?amp",
+      "publishedDateTime": "2020-10-27T14:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PRI",
+        "domain": "pri.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-tesla-should-sell-its-self-driving-computer-chips-says-commaais-george-hotz.md",
       "title": "Tesla should sell its self-driving computer chips, says comma.ai’s George Hotz",
       "excerpt": "George Hotz, CEO of comma.ai, argues that Tesla should sell its self-driving computer chip and create some competition to Nvidia in the process. Hotz rose to fame through his hacking feats as a ...",
@@ -1105,101 +1200,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-partnerships-for-advanced-weather-and-climate-prediction.md",
-      "title": "Partnerships for advanced weather and climate prediction",
-      "excerpt": "When I was a child, growing up on an almond farm in central California, the day always began by turning on the radio and listening to the forecasters talking about temperature, precipitation, and something called “evapotranspiration rate.” I didn’t know what all those terms meant at the time, but I could",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/partnerships-advanced-weather-climate-prediction/",
-      "originalUrl": "https://blog.google/technology/ai/partnerships-advanced-weather-climate-prediction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/20200914-5storms.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/partnerships-advanced-weather-climate-prediction/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/partnerships-advanced-weather-climate-prediction/amp/",
-      "publishedDateTime": "2020-10-27T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-speech-recognition-market-size-is-projected-to-reach-usd-2928-billion-by-2026-valuates-reports.md",
-      "title": "Speech Recognition Market Size is Projected to Reach USD 29.28 Billion by 2026 | Valuates Reports",
-      "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net BANGALORE, India, Oct. 27, 2020 /PRNewswire/ -- Speech Recognition Market by Deployment Mode (On Cloud, On Premise), By ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/speech-recognition-market-size-is-projected-to-reach-usd-29-28-billion-by-2026-valuates-reports-1029727236",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/speech-recognition-market-size-is-projected-to-reach-usd-29-28-billion-by-2026-valuates-reports-1029727236",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/speech-recognition-market-size-is-projected-to-reach-usd-29-28-billion-by-2026-valuates-reports-1029727236",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/speech-recognition-market-size-is-projected-to-reach-usd-29-28-billion-by-2026-valuates-reports-1029727236",
-      "publishedDateTime": "2020-10-27T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

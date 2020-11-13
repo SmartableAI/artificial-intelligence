@@ -63,6 +63,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Weather-proof chip aims to take self-driving tech, wireless communications to next level"
+    excerpt: "A new device can overcome challenges like bad weather to deliver more secure, reliable communications. This could aid military communications in challenging areas, improve the ability of self-driving cars to see the environment around them and speed up wireless data for potential 6G networks."
+    publishedDateTime: 2020-11-13T09:42:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/11/201112145432.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 57
   - title: "Honda, First To Mass Produce Level 3 Self-Driving Cars: Reuters"
     excerpt: "The Japanese government awarded Honda Motor Co Ltd (NYSE: HMC) a safety certification to the automaker’s “Traffic Jam Pilot” self-driving technology, Reuters reports. What Happened: Honda plans to launch its luxury sedan (Honda Legend) sales with the ..."
     publishedDateTime: 2020-11-11T12:51:00Z
@@ -154,6 +163,20 @@ related:
       - url: "https://www.wraltechwire.com/wp-content/uploads/2020/11/honda-4967587_1280-e1605108185813-1024x576.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Honda To Produce Self-Driving Cars Capable Of Navigating Heavy Traffic"
+    excerpt: "Shutterstock The Honda Legend luxury sedan will have \"traffic jam pilot\" technology, allowing drivers to take their eyes off the road"
+    publishedDateTime: 2020-11-13T10:16:00Z
+    webUrl: "https://www.kabc.com/2020/11/13/honda-to-produce-self-driving-cars-capable-of-navigating-heavy-traffic/"
+    type: article
+    provider:
+      name: KABC
+      domain: kabc.com
+    quality: 24
+    images:
+      - url: "https://express-images.franklymedia.com/6616/sites/320/2020/11/12115213/autonomous-car-shutterstock_643585552.jpg"
+        width: 589
+        height: 424
         isCached: true
   - title: "Honda looks to break away in self-driving race"
     excerpt: "Honda (NYSE:HMC) says it will be the first automaker in the world to mass produce sensor-packed level 3 autonomous cars that will allow drivers to let their vehicles navigate congested expressway traffic."

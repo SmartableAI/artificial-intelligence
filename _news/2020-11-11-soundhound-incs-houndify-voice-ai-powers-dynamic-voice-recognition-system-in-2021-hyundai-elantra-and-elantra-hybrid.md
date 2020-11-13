@@ -3,8 +3,8 @@ category: news
 title: "SoundHound Inc.’s Houndify Voice AI Powers Dynamic Voice Recognition System in 2021 Hyundai Elantra and Elantra Hybrid"
 excerpt: "SoundHound Inc., the leading innovator of voice AI and conversational intelligence technologies, announced the integration of its Houndify Voice AI platform into Hyundai’s all-new 2021 Elantra and Elantra Hybrid with select models now available for sale in North America."
 publishedDateTime: 2020-11-10T18:01:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/business-sports-technology-asia-environment-afde5a4c1a3f47a18791dbff1dfa0f9f"
-webUrl: "https://apnews.com/press-release/business-wire/business-sports-technology-asia-environment-afde5a4c1a3f47a18791dbff1dfa0f9f"
+originalUrl: "https://apnews.com/press-release/business-wire/business-sports-technology-asia-environment-afde5a4c1a3f47a18791dbff1dfa0f9f/gallery/f2bfc8332663dfbe8e81bef6ed4e172b"
+webUrl: "https://apnews.com/press-release/business-wire/business-sports-technology-asia-environment-afde5a4c1a3f47a18791dbff1dfa0f9f/gallery/f2bfc8332663dfbe8e81bef6ed4e172b"
 type: article
 quality: 15
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 251
         isCached: true
 
-secured: "zGMl8WFOtFmqayPkZcqKcB8EHbai1pmZ52h5TwAtyBAMrZifaKHSS8ZHfPh3nwowIAqTZ3bWrlXBPuLvcH5Dx4xEGATikje9FO8FU36n5uV6xpLe3k+dBLfTiKOLfzpAU6HXEIcOuy9ksW0Tp5wpPx+1qC+RcDBFkMT8UxcmUFlJuvo0WQc4Z6Op/G+3PIpQ7SvnE2a0AWxO+wZ6V/pp7S28UR8nvdc6VDChiWg9pK6QMcSjadG3iGi8Y39BEjGV0GKhBKU1K/zgr624RtgFD5K9IAwdiGWFjCID3HyAG9YTdr/uNzlOn8qhgC55bDuf4lQajzlQ/6UPzlKGsRHnA+TseBuILcW2pENE67Eg9uY=;9hvtmpB8X3iHttV/a75D9w=="
+secured: "3tIpLq1o79FSWSZgWRyTtnjs5YjUfy1VA6Ov5joPA/mSgHcT1m74RZWCpGLrSyVvtBZxyxutNTIc1iODY+OrZs+MhpOT/6W72H4VDNGxqMnSSOCl71ow5HqxF+ZLKNPt3f4gluskJ5prrOEwrdGjyuIWl6gLh2NOBhCe+O6OQubDr0GkvC6X5o6oRnVnyc5/E0zRq93jDF4bMwNcQnwW+JZ5hrZrailmcdBkgEP3tt2oWW4MT88j7rgQ3ndr8k6kqmSdYzgPAGG/O3FfY6jWdR4grBZYBtEiI9guHPqTiFy4MW3mCIj7ImrWL3+r23LxYQ2FzkBqwJu2/YsO6dzDAaNrKKm6CAG6bwahW3Ku+UA=;3ggChxX+z5Piggpf2sC4pQ=="
 ---
 

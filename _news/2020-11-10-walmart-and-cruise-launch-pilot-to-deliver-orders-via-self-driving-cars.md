@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 284
+heat: 294
 published: true
 
 provider:
@@ -275,6 +275,20 @@ related:
       - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/13513/walmart%20sign%20US%20flag_1_0.jpg?itok=4FprrAuI"
         width: 500
         height: 682
+        isCached: true
+  - title: "Walmart to Launch Self-Driving Delivery Pilot in Arizona"
+    excerpt: "Walmart announced Tuesday that it is launching a pilot program in Scottsdale, Arizona, for all-electric self-driving car deliveries. The effort is being done in conjunction with the self-driving car company Cruise,"
+    publishedDateTime: 2020-11-13T10:57:00Z
+    webUrl: "https://nationalinterest.org/blog/techland/walmart-launch-self-driving-delivery-pilot-arizona-172414"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 24
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/2020-11-10T140052Z_139583049_RC2E0K9RJCK3_RTRMADP_3_AUTONOMOUS-CRUISE-WALMART.JPG.jpg"
+        width: 1222
+        height: 802
         isCached: true
   - title: "GM's Cruise partners with Walmart on self-driving delivery pilot in Ariz."
     excerpt: "Walmart Inc. is adding Cruise, a majority-owned affiliate of U.S. automaker General Motors, to its roster of self-driving startup partners, in a pilot delivery program early next year in Scottsdale, Ariz."
