@@ -2,6 +2,92 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-11-02-otterai-adds-live-captions-to-its-zoom-integration.md",
+      "title": "Otter.ai adds live captions to its Zoom integration",
+      "excerpt": "Video conferencing platform Zoom has unveiled an Otter.ai integration, providing users with access to live transcriptions and meeting notes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3539910/otterai-adds-live-captions-to-its-zoom-integration.html",
+      "originalUrl": "https://www.computerworld.com/article/3539910/otterai-adds-live-captions-to-its-zoom-integration.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/04/meeting6-100837792-large.jpg",
+          "width": 1200,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3539910/otterai-adds-live-captions-to-its-zoom-integration.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3539910/otterai-adds-live-captions-to-its-zoom-integration.amp.html",
+      "publishedDateTime": "2020-11-02T02:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-02-romanian-speech-therapy-startup-aims-to-raise-eur-290000.md",
+      "title": "Romanian speech therapy startup aims to raise EUR 290,000",
+      "excerpt": "VoxiKids, a platform dedicated to parents and speech therapists that aims to accelerate the recovery of children with speech and pronunciation deficiencies, aims to raise EUR 290,000 in exchange for 10.",
+      "sourceUrl": null,
+      "webUrl": "https://www.romania-insider.com/voxikids-speech-therapy-startup-financing-romania",
+      "originalUrl": "https://www.romania-insider.com/voxikids-speech-therapy-startup-financing-romania",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.romania-insider.com/sites/default/files/2020-11/ana_maria_onica_si_cristian_baita-_voxikids.png",
+          "width": 640,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.romania-insider.com/voxikids-speech-therapy-startup-financing-romania?amp",
+      "cdnAmpWebUrl": "https://www-romania--insider-com.cdn.ampproject.org/c/s/www.romania-insider.com/voxikids-speech-therapy-startup-financing-romania?amp",
+      "publishedDateTime": "2020-11-02T02:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Romania Insider",
+        "domain": "romania-insider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-02-ambarella-launches-computer-vision-chips-for-edge-ai.md",
       "title": "Ambarella launches computer vision chips for edge AI",
       "excerpt": "Chip designer Ambarella has announced a new computer vision chip for artificial intelligence at the edge of a computer network.",
@@ -1136,93 +1222,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-31-weeding-robot-to-save-you-cost-of-herbicides.md",
-      "title": "Weeding robot to save you cost of herbicides",
-      "excerpt": "The weeding robot seeks to solve this issue in a sustainable manner. With your unique knowledge, strengths and skills set, what unique role did each of you play in this invention? Kenneth: Since we are both Mechatronic Engineers our skill sets are similar.",
-      "sourceUrl": null,
-      "webUrl": "https://www.standardmedia.co.ke/farmkenya/smart-harvest/article/2001392141/weeding-robot-to-save-you-cost-of-herbicides",
-      "originalUrl": "https://www.standardmedia.co.ke/farmkenya/smart-harvest/article/2001392141/weeding-robot-to-save-you-cost-of-herbicides",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://cdn.standardmedia.co.ke/images/saturday/weeding_robot_to_sav5f9d1a187f7f2.jpg",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.standardmedia.co.ke/farmkenya/amp/smart-harvest/article/2001392141/weeding-robot-to-save-you-cost-of-herbicides",
-      "cdnAmpWebUrl": "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/farmkenya/amp/smart-harvest/article/2001392141/weeding-robot-to-save-you-cost-of-herbicides",
-      "publishedDateTime": "2020-10-31T02:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Standard Digital",
-        "domain": "standardmedia.co.ke",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-31-microsoft-lobe-to-train-ai-machine-learning-models-without-writing-code.md",
-      "title": "Microsoft Lobe to train AI, machine learning models without writing code",
-      "excerpt": "Microsoft has announced the availability of Lobe, a desktop app to train artificial intelligence (AI) and machine learning (ML) models.",
-      "sourceUrl": null,
-      "webUrl": "https://news.thewindowsclub.com/microsoft-lobe-to-train-ai-machine-learning-models-103899/",
-      "originalUrl": "https://news.thewindowsclub.com/microsoft-lobe-to-train-ai-machine-learning-models-103899/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.thewindowsclub.com/wp-content/uploads/2020/10/Microsoft-Lobe.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news.thewindowsclub.com/microsoft-lobe-to-train-ai-machine-learning-models-103899/amp/",
-      "cdnAmpWebUrl": "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/microsoft-lobe-to-train-ai-machine-learning-models-103899/amp/",
-      "publishedDateTime": "2020-10-30T22:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TWCN Tech News",
-        "domain": "thewindowsclub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

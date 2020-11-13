@@ -2,6 +2,110 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-10-16-duplex-googles-conversational-ai-has-updated-3m-business-listings-since-pandemic.md",
+      "title": "Duplex, Google’s conversational AI, has updated 3M+ business listings since pandemic",
+      "excerpt": "Google today offered an update on the status of Duplex, its A.I. technology that uses natural conversations to get things done — like making restaurant reservations, booking appointments, or updating a Google Business listing,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/15/duplex-googles-conversational-a-i-has-updated-3m-business-listings-since-pandemic/",
+      "originalUrl": "https://techcrunch.com/2020/10/15/duplex-googles-conversational-a-i-has-updated-3m-business-listings-since-pandemic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/05/Screen-Shot-2019-05-07-at-10.23.51-AM.png?w=1024",
+          "width": 1024,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/15/duplex-googles-conversational-a-i-has-updated-3m-business-listings-since-pandemic/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/15/duplex-googles-conversational-a-i-has-updated-3m-business-listings-since-pandemic/amp/",
+      "publishedDateTime": "2020-10-15T16:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-detecting-playful-animal-behavior-in-videos-using-amazon-rekognition-custom-labels.md",
+      "title": "Detecting playful animal behavior in videos using Amazon Rekognition Custom Labels",
+      "excerpt": "Historically, humans have observed animal behaviors and applied them for different purposes. For example, behavioral observation is important in animal ecology, such as how often the behaviors are, when the behaviors occur, or whether there is individual difference or not. However, identifying and monitoring",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detecting-playful-animal-behavior-in-videos-using-amazon-rekognition-custom-labels/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detecting-playful-animal-behavior-in-videos-using-amazon-rekognition-custom-labels/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/13/1-Diagram.jpg",
+          "width": 900,
+          "height": 471,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T15:40:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-deep-learning-artificial-intelligence-keeps-an-eye-on-volcano-movements.md",
       "title": "Deep learning artificial intelligence keeps an eye on volcano movements",
       "excerpt": "Radar satellites can collect massive amounts of remote sensing data that can detect ground movements -- surface deformations -- at volcanoes in near real time. These ground movements could signal impending volcanic activity and unrest;",
@@ -1067,93 +1171,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-deep-learning-artificial-intelligence-keeps-an-eye-on-volcano-movements.md",
-      "title": "Deep learning artificial intelligence keeps an eye on volcano movements",
-      "excerpt": "RADAR satellites can collect massive amounts of remote sensing data that can detect ground movements -- surface deformations -- at volcanoes in near real time. These ground movements could signal impending volcanic activity and unrest;",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-10/ps-dla101520.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-10/ps-dla101520.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-fighting-fires-and-floods-with-robotics-ai-and-iot.md",
-      "title": "Fighting Fires and Floods with Robotics, AI, and IoT",
-      "excerpt": "In collaboration with Karen Panetta, an IEEE fellow and dean of Graduate Education at Tufts University’s School of Engineering, the department is using AI for object recognition. The goal is to be able to use a drone or robot that can locate objects in a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation/fighting-fires-and-floods-robotics-ai-and-iot",
-      "originalUrl": "https://www.designnews.com/automation/fighting-fires-and-floods-robotics-ai-and-iot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Feature_0.png",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T08:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

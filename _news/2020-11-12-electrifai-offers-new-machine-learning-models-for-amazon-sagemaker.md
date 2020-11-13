@@ -49,7 +49,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 71
+    quality: 73
     images:
       - url: "https://mma.prnewswire.com/media/1331976/ElectrifAi_Logo.jpg?p=facebook"
         width: 2700

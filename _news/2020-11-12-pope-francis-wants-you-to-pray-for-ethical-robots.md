@@ -33,20 +33,20 @@ images:
 
 related:
   - title: "Pope Francis: Pray that robots don’t turn against us"
-    excerpt: "Deliver us from evil robots! Pope Francis urged Catholics to pray that artificial intelligence and robots “always serve mankind” instead of stripping humanity of its “dignity,” according to"
-    publishedDateTime: 2020-11-12T22:13:00Z
-    webUrl: "https://nypost.com/2020/11/12/pope-francis-pray-that-robots-dont-turn-against-us/"
-    ampWebUrl: "https://nypost.com/2020/11/12/pope-francis-pray-that-robots-dont-turn-against-us/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/12/pope-francis-pray-that-robots-dont-turn-against-us/amp/"
+    excerpt: "Pope Francis urged Catholics to pray that artificial intelligence and robots “always serve mankind” instead of stripping humanity of its “dignity,” according to a report."
+    publishedDateTime: 2020-11-13T00:34:00Z
+    webUrl: "https://www.foxnews.com/world/pope-francis-pray-that-robots-dont-turn-against-us"
+    ampWebUrl: "https://www.foxnews.com/world/pope-francis-pray-that-robots-dont-turn-against-us.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/pope-francis-pray-that-robots-dont-turn-against-us.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 74
+      name: Fox News
+      domain: foxnews.com
+    quality: 104
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/pope-francis.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0d8af3a9-e39f-4213-be3f-7bf2c5f2c1d1/69d728c1-8474-4cb2-8f78-2dc90220c6b0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Pope Francis Prays That There Is Not An AI Uprising Coming"
     excerpt: "During the Pope’s monthly prayer intentions, which are designed to deepen daily prayer, technology was the focus, as Pope Francis hoped that machines would aid humanity in its efforts for equality. Previously,"

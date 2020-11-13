@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-29-hebbia-wants-to-make-ctrl-f-or-command-f-actually-useful-through-better-ai.md",
+      "title": "Hebbia wants to make Ctrl-F (or Command-F) actually useful through better AI",
+      "excerpt": "Deep learning has made tremendous strides in recent years, with new systems and models like GPT-3 offering higher quality interpretations of human language, empowering developers to use these concepts in more diverse applications.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/28/hebbia-wants-to-make-ctrl-f-or-command-f-actually-useful-through-better-ai/",
+      "originalUrl": "https://techcrunch.com/2020/10/28/hebbia-wants-to-make-ctrl-f-or-command-f-actually-useful-through-better-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/Hebbia-Techcrunch.gif?w=680",
+          "width": 680,
+          "height": 468,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/28/hebbia-wants-to-make-ctrl-f-or-command-f-actually-useful-through-better-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/28/hebbia-wants-to-make-ctrl-f-or-command-f-actually-useful-through-better-ai/amp/",
+      "publishedDateTime": "2020-10-28T11:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-new-unbabel-portal-unveiled-to-manage-customer-service-language-operations.md",
       "title": "New Unbabel Portal Unveiled to Manage Customer Service Language Operations",
       "excerpt": "The Unbabel Portal offers customers the most dynamic visualization and increased control over language operations.",
@@ -1373,49 +1425,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-fdp-on-artificial-intelligence-in-natural-language-processing-inaugurated-in-kiit.md",
-      "title": "FDP on ‘Artificial Intelligence in Natural Language Processing’ inaugurated in KIIT",
-      "excerpt": "Faculty Development Programme (FDP) on ‘Artificial Intelligence in Natural Language Processing’ organized virtually by The School of Computer Applications, KIIT Deemed to be",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/fdp-on-artificial-intelligence-in-natural-language-processing-inaugurated-in-kiit/",
-      "originalUrl": "https://indiaeducationdiary.in/fdp-on-artificial-intelligence-in-natural-language-processing-inaugurated-in-kiit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/10/2.png?fit=606%2C342&ssl=1",
-          "width": 606,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/fdp-on-artificial-intelligence-in-natural-language-processing-inaugurated-in-kiit/?amp",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/fdp-on-artificial-intelligence-in-natural-language-processing-inaugurated-in-kiit/?amp",
-      "publishedDateTime": "2020-10-16T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
         "publishers": null,
         "authors": null
       },

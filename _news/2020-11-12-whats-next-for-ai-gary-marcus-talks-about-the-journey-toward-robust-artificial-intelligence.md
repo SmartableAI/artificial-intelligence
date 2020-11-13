@@ -2,14 +2,14 @@
 category: news
 title: "What's next for AI: Gary Marcus talks about the journey toward robust artificial intelligence"
 excerpt: "Gary Marcus is one of the more prominent, and controversial, figures in AI. Going beyond his critique on Deep Learning, which is what many people know him for, Marcus puts forward a well-rounded propo"
-publishedDateTime: 2020-11-12T15:13:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/"
+publishedDateTime: 2020-11-12T07:05:00Z
+originalUrl: "https://www.zdnet.com/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/"
+webUrl: "https://www.zdnet.com/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/"
 type: article
-quality: 93
-heat: 93
+quality: 99
+heat: 99
 published: true
 
 provider:
@@ -21,8 +21,11 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
+  - Natural Language Processing
   - AI
+  - AI in Robotics
+  - Machine Learning
+  - AI in Healthcare
 
 images:
   - url: "https://zdnet4.cbsistatic.com/hub/i/2020/11/12/931ab7f6-3ca4-4467-82c1-c76b3311cbcb/gary-marcus.jpg"
@@ -30,6 +33,6 @@ images:
     height: 392
     isCached: true
 
-secured: "VL+0tjD5nhpF0TWyLca4z0uafoNmlejLqDaVKaaekU5uVR51iL4ghhJ/gajRxEDp/oUVZ5ko+EvdExVR3OkfFEparr21gJ0T6/t8tQ3Y7/H7SBVivabN5INAJ/a2S/YCpQwSD0aEJov4HT1Q9hyBE+T6fYCO1MIdouJsNL5g4/YDW5C/UVuUbP47ho3ShMCTJArofn9rr6QZhGbxp65qUBdkasZFLNj0XTfVZdbyTCj2nDe8BqgyhB6/ZTjOLPuoD/y1diMiMn0iKLGYOdINCQ9t47NuB4z7iOZQCyZi73N8lFB8O1j0rboYpFczNVDxEdk/lJVFhxJQ0nMi0ZkVZbxO4g56RG++P/igVY01VMQ=;9d1T8B04EkYCT0ntuCNKzg=="
+secured: "eKUAA0nRzSxYfaI1F+9w+aHO4ZCUW9K8F25uNxfs2oXuul5hXNhRqhnS75Sqnr8nHv+4uTw1eZ7jvyfQ0NdJmMSlKJkojuQy0iwHZjE+aMV+ayFXiktYeqrg5l2K4nol38XSG8Rg2Bv60nDOBdrjqa7soKWVbyLc0wdEcBW4eQNwOCkv1Q9ADxt4koRFC/9TPb3esM0pkFD9aUVsdwJwFVxfXmPd0IG0/oE5ttTEqdPbZwlDE7RHNtCqUIlieACgp7lXdM5Wwo00BxoxvGUHyFZRQTNqQV0R6dtkUVFHMNz9kRphyVo3Wk61jPdJ/0q0yt1iI6vQQLmbwuEcBV0nLQajpDtjPLJtJaKXowUKkGY=;xEfqiJUA7Bl5GhNiO6NvLA=="
 ---
 

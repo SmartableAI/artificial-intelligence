@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-b
 webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-south-korea-70b7109710ee3702e80c6d7e450260aa"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,40 @@ images:
     width: 700
     height: 450
     isCached: true
+
+related:
+  - title: "Your car insurance salesman is now an AI bot connected to blockchain"
+    excerpt: "Voit has partnered with IBM and Cosmos to deliver a fully-automated virtual assistant that can offer car insurance"
+    publishedDateTime: 2020-11-13T02:21:00Z
+    webUrl: "https://cointelegraph.com/news/your-car-insurance-salesman-is-now-an-ai-bot-connected-to-blockchain"
+    ampWebUrl: "https://cointelegraph.com/news/your-car-insurance-salesman-is-now-an-ai-bot-connected-to-blockchain/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/your-car-insurance-salesman-is-now-an-ai-bot-connected-to-blockchain/amp"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 59
+    images:
+      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjAtMTEvMzJkMTg5ZGItZjNiOC00MGNkLWI4MzEtNTUxYTYwMTY2YzM2LmpwZw==.jpg"
+        width: 740
+        height: 494
+        isCached: true
+  - title: "CropData enabling small farmer’s big dream using AI, blockchain and cloud"
+    excerpt: "CropData connects farmers to bulk buyers on its e-marketplace - Agriota, where their harvest is hedged very early in the crop cycle."
+    publishedDateTime: 2020-11-12T12:23:00Z
+    webUrl: "https://www.dqindia.com/cropdata-enabling-small-farmers-big-dream-using-ai-blockchain-and-cloud/"
+    ampWebUrl: "https://www.dqindia.com/cropdata-enabling-small-farmers-big-dream-using-ai-blockchain-and-cloud/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/cropdata-enabling-small-farmers-big-dream-using-ai-blockchain-and-cloud/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 58
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2020/11/132FA169-1D63-4C19-BF2C-BA59702A9FDA.jpeg"
+        width: 850
+        height: 478
+        isCached: true
 
 secured: "htTYGpQe/UMxpBMMd7DJhEBBWqkK01g8KHzrUpGkSsbszncRj98YL0OQkjpKDnedV/M2ZOnBCrsLLQT8VAq24I3TG/SK355Ymc9ZvLx5wLZaiKaCaiZB52ZoiVsO1vBdphLyRYhgqh/Tkt4jxzvGcGM5E42TUpW6KWHXQhbcWonA01GHSPDcxCyvMJYsQ9jofmFMQ6b4eR8u/YVPUl42UURuqZ/ftCVX7jJ1SCWR7F9DY2AjikfaiOGYrkdBfNtaYY5ZIRhtzdeZzsXZr9o6Nbu+MsSm1rYoCZhZ+Bm8LgGe3MXev3BHpBug/JSL8j9P15wJ1evzHYqjSGENTs9V1p2WGjOJgO1AiJgDp4Zpa7c=;ekQ+2fz690f/3fRs8bHFxw=="
 ---

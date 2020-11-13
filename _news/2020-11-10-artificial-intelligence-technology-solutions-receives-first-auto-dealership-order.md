@@ -25,34 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Telus International Acquires Lionbridge AI For New Technology Solutions"
-    excerpt: "Telus International has acquired the artificial intelligence (AI) unit of Lionbridge Technologies for US$935 million."
-    publishedDateTime: 2020-11-11T18:34:00Z
-    webUrl: "https://nearshoreamericas.com/telus-international-acquires-lionbridge-ai-for-new-technology-solutions/"
+  - title: "BasisAI Joins AWS Partner Network, Receives Technology Partner Status"
+    excerpt: "BasisAI, a provider of customized, responsible AI applications, has been named an Amazon Web Services (AWS) Select Technology Partner. This places BasisAI in a pool of trusted professional services firms that helps enterprise customers across Southeast Asia design,"
+    publishedDateTime: 2020-11-13T01:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/basisai-joins-aws-partner-network-receives-technology-partner-status-1029799381"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/basisai-joins-aws-partner-network-receives-technology-partner-status-1029799381"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/basisai-joins-aws-partner-network-receives-technology-partner-status-1029799381"
     type: article
     provider:
-      name: Nearshore Americas
-      domain: nearshoreamericas.com
-    quality: 37
-    images:
-      - url: "https://nearshoreamericas.com/wp-content/uploads/2020/11/telusss.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "V.I.P. Auctions introduces artificial intelligence inspection technology"
-    excerpt: "V.I.P. Auctions said on Tuesday that with its new camera-based artificial-intelligence technology, it will be one of the first vehicle auction companies to use automated vehicle-inspection systems to evaluate tires and underbody components for used-vehicle inspection."
-    publishedDateTime: 2020-11-10T18:11:00Z
-    webUrl: "https://www.autoremarketing.com/technology/vip-auctions-introduces-artificial-intelligence-inspection-technology"
-    type: article
-    provider:
-      name: Auto Remarketing
-      domain: autoremarketing.com
-    quality: 36
-    images:
-      - url: "https://www.autoremarketing.com/sites/default/files/VIP%20image002.jpg"
-        width: 880
-        height: 495
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
 
 secured: "O7dWjr+5RWdrKzIcqB6lBbMao0yPd1V0Xvfa6dNizAaOFg6WMvU5BwpgEaOOJaYCrM2JIIejdSsFuRzMp+EPHzo8mcwfyzakV/kQGNTACGt5j8sjFsJjdrmkeSEPdFPaH9U3IBJctEpsEF2vT2OE7euMStVuwelWicdKlzS78y5jBaXVBOhl+XMsVlk5g0VGp+0dI1kZ1kALbAeVWLNP4B4t52lmPCEPExw2dO/9hNDXtX3No52+8ZkSFjjHkR1j0xS3dB1QtSoiIA4R+naqN/yEj663zUInmbhJVOc9YyJC4Of2lpW7e4bbKUWCHbxixXrSvzONyInE5DxBOBOL7Hn/bbhofKP+8Qm3yeCYrEI=;ZIeGGZKH7m/UEBawrKYOGQ=="
 ---

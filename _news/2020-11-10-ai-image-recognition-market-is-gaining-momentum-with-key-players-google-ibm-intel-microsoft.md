@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-image-recognition-mar
 webUrl: "https://www.marketwatch.com/press-release/ai-image-recognition-market-is-gaining-momentum-with-key-players-google-ibm-intel-microsoft-2020-11-10"
 type: article
 quality: 74
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "AI in Fintech Market May See a Big Move | Emerging Players Microsoft, Google, Salesforce"
+    excerpt: "Global AI in Fintech Market Status (2015-2019) and Forecast (2020-2025) by Region, Product Type & End-Use is latest research study released by HTF MI evaluating the market, highlighting opportunities,"
+    publishedDateTime: 2020-11-13T01:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-may-see-a-big-move-emerging-players-microsoft-google-salesforce-2020-11-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "sygcS5dYeKf1CpfWyae/Pec1stzW/4kZT85z8YHFyUJwIbvM713W4hUO448P0CI5XsCDN6dzHhBMquaiTIraRYybL8CkiUg6+5NLYeJzUvBjuWi4Qv+hpcncvfWTCXi5miFGs6KF5WXRMczJUES7TVsBl8pvE9bK1BrnVa1h9Ntt+VRIS2GPNGgMpwUn5pajWzt1zL9zndjYuJAih1fUWiKNwAvbgJ/W8f+EVDjDqxqTUqBF+ZsyuOnIIyYV//i8spieaJaKtFDsahUdt32ZpSXmrB5GWfTgmk5D49+roNhya/rlvAyx+0zO5PT6GImiT2tFzkGj3THfPnQsW8jI5cL5AjOt6/oWPtuVPQgtTgo=;dI7YO1m0tbsUXx7T6rn86A=="
 ---

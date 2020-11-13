@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-11T12:00:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-301170639.html"
 webUrl: "https://www.prnewswire.com/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-301170639.html"
 type: article
-quality: 71
+quality: 73
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Machine Learning
   - AI
   - AWS AI
+  - AI in Finance
 
 images:
   - url: "https://mma.prnewswire.com/media/1331976/ElectrifAi_Logo.jpg?p=facebook"

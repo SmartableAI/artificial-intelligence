@@ -2,6 +2,92 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-10-17-thought-powered-wheelchair-could-return-mobility-to-people-with-paralysis.md",
+      "title": "Thought-Powered Wheelchair Could Return Mobility To People With Paralysis",
+      "excerpt": "as demonstrated by a new study in which monkeys were able to navigate a robotic wheelchair using a brain chip. Now, this isn’t actually the first time that a mind-controlled wheelchair has been ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.iflscience.com/brain/wireless-thought-powered-wheelchair-system-invented/",
+      "originalUrl": "https://www.iflscience.com/brain/wireless-thought-powered-wheelchair-system-invented/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.iflscience.com/images/996b801a-a195-589b-9a62-61ed0ac2a71c/default-1464385738-205-thought-powered-wheelchair-could-return-mobility-to-people-with-paralysis.jpg",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.iflscience.com/brain/wireless-thought-powered-wheelchair-system-invented/",
+      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/brain/wireless-thought-powered-wheelchair-system-invented/",
+      "publishedDateTime": "2020-10-16T13:02:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IFLScience",
+        "domain": "iflscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-machine-learning-ai-in-search.md",
+      "title": "Machine Learning & AI in Search",
+      "excerpt": "Regular readers will likely wonder what more I could have to say about machine learning (ML) in search, after having written How Machine Learning In Search Works just a few months ago. Let me ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.searchenginejournal.com/machine-learning-ai-in-search/382454/",
+      "originalUrl": "https://www.searchenginejournal.com/machine-learning-ai-in-search/382454/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.searchenginejournal.com/wp-content/uploads/2020/09/sej-ml-dan-featured-5f735c4c450d3.jpg",
+          "width": 1600,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.searchenginejournal.com/machine-learning-ai-in-search/382454/",
+      "cdnAmpWebUrl": "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/machine-learning-ai-in-search/382454/",
+      "publishedDateTime": "2020-10-16T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Search Engine Journal",
+        "domain": "searchenginejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-ai-localization-tool-claims-to-translate-your-words-in-your-voice.md",
       "title": "AI localization tool claims to translate your words in your voice",
       "excerpt": "Localization is a tricky issue for all content creators. It can take significant time and resources to make their work fully accessible to folks who speak different languages. One company thinks it has cracked part of that code with an artificial intelligence system that automatically translates speech into other languages in the same speaker’s voice.",
@@ -1064,110 +1150,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-duplex-googles-conversational-ai-has-updated-3m-business-listings-since-pandemic.md",
-      "title": "Duplex, Google’s conversational AI, has updated 3M+ business listings since pandemic",
-      "excerpt": "Google today offered an update on the status of Duplex, its A.I. technology that uses natural conversations to get things done — like making restaurant reservations, booking appointments, or updating a Google Business listing,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/15/duplex-googles-conversational-a-i-has-updated-3m-business-listings-since-pandemic/",
-      "originalUrl": "https://techcrunch.com/2020/10/15/duplex-googles-conversational-a-i-has-updated-3m-business-listings-since-pandemic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/Screen-Shot-2019-05-07-at-10.23.51-AM.png?w=1024",
-          "width": 1024,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/15/duplex-googles-conversational-a-i-has-updated-3m-business-listings-since-pandemic/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/15/duplex-googles-conversational-a-i-has-updated-3m-business-listings-since-pandemic/amp/",
-      "publishedDateTime": "2020-10-15T16:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-detecting-playful-animal-behavior-in-videos-using-amazon-rekognition-custom-labels.md",
-      "title": "Detecting playful animal behavior in videos using Amazon Rekognition Custom Labels",
-      "excerpt": "Historically, humans have observed animal behaviors and applied them for different purposes. For example, behavioral observation is important in animal ecology, such as how often the behaviors are, when the behaviors occur, or whether there is individual difference or not. However, identifying and monitoring",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detecting-playful-animal-behavior-in-videos-using-amazon-rekognition-custom-labels/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detecting-playful-animal-behavior-in-videos-using-amazon-rekognition-custom-labels/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/13/1-Diagram.jpg",
-          "width": 900,
-          "height": 471,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T15:40:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     }
   ],

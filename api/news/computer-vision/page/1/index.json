@@ -350,59 +350,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-10-ai-image-recognition-market-is-gaining-momentum-with-key-players-google-ibm-intel-microsoft.md",
-      "title": "AI Image Recognition Market is Gaining Momentum with key players Google, IBM, Intel, Microsoft",
-      "excerpt": "Latest Report Available at Advance Market Analytics, \"AI Image Recognition Market\" provides pin-point analysis for",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-image-recognition-market-is-gaining-momentum-with-key-players-google-ibm-intel-microsoft-2020-11-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-image-recognition-market-is-gaining-momentum-with-key-players-google-ibm-intel-microsoft-2020-11-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-10T01:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-09-face-for-sale-leaks-and-lawsuits-blight-russia-facial-recognition.md",
       "title": "Face for sale: Leaks and lawsuits blight Russia facial recognition",
       "excerpt": "When Anna Kuznetsova saw an ad offering access to Moscow's face recognition cameras, all she had to do was pay 16,000 roubles ($200) and send a photo of the person she wanted spying on.",
@@ -1385,25 +1332,77 @@
       "title": "Neuromorphic Computing Systems Market, 2028",
       "excerpt": "signal recognition and processing, data processing, and object recognition, among others. Neuromorphic computing systems have been adopted by several end-use industries such as consumer ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/neuromorphic-computing-systems-market-2028-1029735198",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/neuromorphic-computing-systems-market-2028-1029735198",
+      "webUrl": "https://www.prnewswire.com/news-releases/neuromorphic-computing-systems-market-2028-301161695.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/neuromorphic-computing-systems-market-2028-301161695.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook",
+          "width": 800,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/neuromorphic-computing-systems-market-2028-1029735198",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/neuromorphic-computing-systems-market-2028-1029735198",
-      "publishedDateTime": "2020-10-28T07:26:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T07:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-face-recognition-systems-market-2020-with-top-countries-data-in-depth-assessment-key-trend-industry-analysis-future-roadmap-by-2026.md",
+      "title": "Face Recognition Systems Market 2020 with Top Countries Data, In-depth Assessment, Key Trend, Industry Analysis, Future Roadmap by 2026",
+      "excerpt": "Global “Face Recognition Systems Market\" 2020 Research Report provides key analysis on the market status of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-2020-with-top-countries-data-in-depth-assessment-key-trend-industry-analysis-future-roadmap-by-2026-2020-10-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-2020-with-top-countries-data-in-depth-assessment-key-trend-industry-analysis-future-roadmap-by-2026-2020-10-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-27T21:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

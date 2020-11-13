@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Pope Francis: Pray that robots don’t turn against us"
-excerpt: "Deliver us from evil robots! Pope Francis urged Catholics to pray that artificial intelligence and robots “always serve mankind” instead of stripping humanity of its “dignity,” according to"
-publishedDateTime: 2020-11-12T22:13:00Z
-originalUrl: "https://nypost.com/2020/11/12/pope-francis-pray-that-robots-dont-turn-against-us/"
-webUrl: "https://nypost.com/2020/11/12/pope-francis-pray-that-robots-dont-turn-against-us/"
-ampWebUrl: "https://nypost.com/2020/11/12/pope-francis-pray-that-robots-dont-turn-against-us/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/12/pope-francis-pray-that-robots-dont-turn-against-us/amp/"
+excerpt: "Pope Francis urged Catholics to pray that artificial intelligence and robots “always serve mankind” instead of stripping humanity of its “dignity,” according to a report."
+publishedDateTime: 2020-11-13T00:34:00Z
+originalUrl: "https://www.foxnews.com/world/pope-francis-pray-that-robots-dont-turn-against-us"
+webUrl: "https://www.foxnews.com/world/pope-francis-pray-that-robots-dont-turn-against-us"
+ampWebUrl: "https://www.foxnews.com/world/pope-francis-pray-that-robots-dont-turn-against-us.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/pope-francis-pray-that-robots-dont-turn-against-us.amp"
 type: article
-quality: 74
+quality: 104
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/pope-francis.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0d8af3a9-e39f-4213-be3f-7bf2c5f2c1d1/69d728c1-8474-4cb2-8f78-2dc90220c6b0/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -58,6 +62,6 @@ related:
         height: 424
         isCached: true
 
-secured: "FziGPGpKGIN5Y9eJlw0FptBzm+M6ivpmwNgCBY1ONCW5sEdrUfjkgGYlVGP59T9Eg6lluFARzoE7ODn74XiEIo4ahvo4tXpjlWGcFtjxVAcAlDsPVI4+CeF2rBx5JzrIkvVxwEi26F6pILv9+vNeQZRVIHB4kukZAnD2XpgH5TCnppG5zfarP3GYm1ZREhB7AdD0nrZpvhUg0f1mDGDUDB3l59HrjyQZTZ2lWXJahJRyLIq0JvwZJ8LUIyo/OfAJIk45s2uI4BcowPwRUh0lzxwa+oLQaqHaStI/vEt/AIf3dJ2KZUlKdLhBGAzD5YrEGHcrPwVw3RJblFrLDURm0a6I12HE78+QbmBsXvpMOvU=;RCm5Hyc4gIiEcTdfiJXsbg=="
+secured: "Z/3PLo+0Jqc04UOuGfF1DlH1z6xzUcOpboVKt8O8uVYi6K3yqLsYhCqQxjeCxW3Gq6zB3ganpUnw6NNLwTTyufj3KSfECEO1F9cd7gQq8vbF5LrZO6E/cELLgFA9w6mUrob7mkvCECJaVZqwmkSpIygwWk503pczDZdhFYE3tZfWBsOQZDPGKPKX+LSFlJgmAGj3yUhi5ejOBon8UjygibJoT+pCJUUSBycyjIu5EblpGlp5OIdcIctu3fa42NkN5KU313D2uazb3xsQwVjo9J5tHCqrSMl1LXyklQW/Vvvjiujb5h9kajYxKyonwVNKxCu2dK95mc7PjnmxDiY8eVaiWLaiCbfSTeOk+zddJxY=;MQTC1cZk4iRjBNG0YHWj6A=="
 ---
 
