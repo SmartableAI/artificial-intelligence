@@ -7,8 +7,8 @@ originalUrl: "https://nairametrics.com/2020/11/13/fg-set-to-commission-national-
 webUrl: "https://nairametrics.com/2020/11/13/fg-set-to-commission-national-centre-for-artificial-intelligence-and-robotics-in-abuja/"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: -1
+published: false
 
 provider:
   name: Nairametrics
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nigeria gets Artificial Intelligence, Robotics Centre"
+    excerpt: "Dr Isa Pantami, Minister of Communications and Digital Economy, on Friday in Abuja, inaugurated the National Centre for Artificial Intelligence and Robotics."
+    publishedDateTime: 2020-11-13T15:09:00Z
+    webUrl: "https://guardian.ng/news/nigeria-gets-artificial-intelligence-robotics-centre/"
+    type: article
+    provider:
+      name: The Guardian Nigeria
+      domain: guardian.ng
+    quality: 71
+    images:
+      - url: "https://guardian.ng/wp-content/uploads/2020/11/AI-robotics.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Nigerian govt commissions artificial intelligence centre to create millions of jobs"
     excerpt: "The Nigerian Government through the National Information Technology Development Agency, has launched its National Centre for Artificial Intelligence and"
     publishedDateTime: 2020-11-13T12:16:00Z

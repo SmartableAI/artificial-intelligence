@@ -55,6 +55,50 @@
       ]
     },
     {
+      "path": "_news/2020-11-12-ai-is-wrestling-with-a-replication-crisis.md",
+      "title": "AI is wrestling with a replication crisis",
+      "excerpt": "Nature published a damning response written by 31 scientists to a study from Google Health that had appeared in the journal earlier this year. Google was describing successful trials of an AI that looked for signs of breast cancer in medical images.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2020/11/12/1011944/artificial-intelligence-replication-crisis-science-big-tech-google-deepmind-facebook-openai/",
+      "originalUrl": "https://www.technologyreview.com/2020/11/12/1011944/artificial-intelligence-replication-crisis-science-big-tech-google-deepmind-facebook-openai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/11/Replicate-2_up.jpg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2020/11/12/1011944/artificial-intelligence-replication-crisis-science-big-tech-google-deepmind-facebook-openai/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/11/12/1011944/artificial-intelligence-replication-crisis-science-big-tech-google-deepmind-facebook-openai/amp/",
+      "publishedDateTime": "2020-11-12T01:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-ai-quantum-rd-funding-to-remain-a-priority-under-biden.md",
       "title": "AI, Quantum R&D Funding to Remain a Priority Under Biden",
       "excerpt": "The president-elect has proposed innovation funding of $300 billion over four years, in part to remain competitive with China.",
@@ -1462,58 +1506,6 @@
         "Facebook AI",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-arxiv-now-allows-researchers-to-submit-code-with-their-manuscripts.md",
-      "title": "arXiv now allows researchers to submit code with their manuscripts",
-      "excerpt": "Papers with Code was initially founded in part by members of Facebook AI Research. Last year, Facebook and Papers with Code launched PyTorch Hub to encourage reproducibility. In the past year or ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/08/arxiv-now-allows-researchers-to-submit-code-with-their-manuscripts/",
-      "originalUrl": "https://venturebeat.com/2020/10/08/arxiv-now-allows-researchers-to-submit-code-with-their-manuscripts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/machine_learning.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 770,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/08/arxiv-now-allows-researchers-to-submit-code-with-their-manuscripts/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/08/arxiv-now-allows-researchers-to-submit-code-with-their-manuscripts/amp/",
-      "publishedDateTime": "2020-10-08T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

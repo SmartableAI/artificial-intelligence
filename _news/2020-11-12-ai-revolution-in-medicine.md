@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning and Artificial Intelligence to revolutionize the world of art and creativity"
-    excerpt: "Runway is a Chilean startup that developed an Artificial Intelligence platform that is already used in the United States to create audiovisual, musical and art productions."
-    publishedDateTime: 2020-11-10T16:30:00Z
-    webUrl: "https://www.entrepreneur.com/article/359398"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/359398"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359398"
+  - title: "Ex-IITians start AI revolution in Indian farming"
+    excerpt: "If technology started Green Revolution in the mid-1960s to multiply key crops’ production, livestock, and horticulture output, information."
+    publishedDateTime: 2020-11-11T00:25:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/chandigarh/ex-iitians-start-ai-revolution-in-indian-farming/articleshow/79159568.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/chandigarh/ex-iitians-start-ai-revolution-in-indian-farming/amp_articleshow/79159568.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/chandigarh/ex-iitians-start-ai-revolution-in-indian-farming/amp_articleshow/79159568.cms"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 93
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 57
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1604983664-Depositphotos-196603142-l-2015.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
+      - url: "https://static.toiimg.com/photo/msid-47529300/47529300.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "ObduZ7j22qHZg515QLHx9wuOxHnpe6B+odeQMdTm8SeuK4GinGqqexzj65AD3oPHm9g2UBjp1CrO9ZaAfCsqjtjnFOf816yP3i0J/psj0ujpyEcZ/PD0OnqWUZN8zGeor7SAhGwd83r69TAr2VwY9Wz1AJ0+am6p/LN7oc2rPNQORqd0moNR4kN9meG4NKlztexnjyANY+JlbuoFy+8a2dpotL2FLC2UrNScBM9ff/Ca1mB2h//AAAr8xswMbBgBDxPqtqGY4qtz2w/SWldGRi7nFe0wDyYTRuBCdyv6bZeenHaF9WkaCvOfXTAVHkAFJQatnrZxpCM0gAK9s59GbCf46sjf7KYk/lIyZ0Jfl6PWXId2pSIT6ICh4ZjVYxocjo9b9OctFadpN4Dziz0HswjYsTVl9VTUXTYjV46WYpMc0ljtZO1zWoPg2jdJXQi9xML/MrgMVH1lsynOpvS4/RmZmC0cujSNmsStfDBb88yokYMQwVlY8qFafrrXwJfX24GDVJCw6u0OIO/+WqTV9Q==;CxvEkiXPgDkcX7XScl7YOA=="

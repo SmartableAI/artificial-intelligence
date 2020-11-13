@@ -55,6 +55,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Why emotionally intelligent robot shows are trending"
+    excerpt: "Execs from Apple TV+ and MB Producciones are exploring how AI might be the best way to connect with today's kids—and teach them a few life lessons."
+    publishedDateTime: 2020-11-13T16:45:00Z
+    webUrl: "https://kidscreen.com/2020/11/13/why-emotionally-intelligent-robot-shows-are-trending/"
+    type: article
+    provider:
+      name: Kidscreen
+      domain: kidscreen.com
+    quality: 39
+    images:
+      - url: "https://kidscreen.com/wp/wp-content/uploads/2020/11/DougUnplugsApple.jpg"
+        width: 680
+        height: 510
+        isCached: true
 
 secured: "2yEBaJxlaVgeJEr4VtXbWZxaRCtunOS5aNejzsf3O4jk8Pd7joChcrcSHDv+QSKZClqGoaq2zl6QX4VRGIqGpIMlx23px5o95tvRg6BnHnRPYIEbXjdC7wZh82hp1j6JjlP+b7dHEgb/PuSXo1NyEEAKUpVthwvlDIvCAN1w3Xpu+HoMz3/HxpqxaYxjB3xNLtrl9HTcl2jCia3c8eA8+U6lDKBKdW7JrllsgZUBmuDdcfywRBdfQgYFkMy+HIkjfczoPXpkM652EoOBKXssWybMstDRH2hnxkblJwINth2LrLmtqtt3kNwPnVAafAe8CHwnCCXTV9KtutLI691GoffTdLFRbCwssOJ8k5ZRKd8=;a+VLS3mAKay0wGYCqg0x2w=="
 ---

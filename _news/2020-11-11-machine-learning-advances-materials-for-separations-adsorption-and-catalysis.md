@@ -39,20 +39,6 @@ related:
         width: 1920
         height: 1920
         isCached: true
-  - title: "Machine Learning Advances Materials for Separations, Adsorption, and Catalysis"
-    excerpt: "An artificial intelligence technique — machine learning — is helping accelerate the development of highly tunable materials known as metal-organic frameworks (MOFs) that have important applications in chemical separations,"
-    publishedDateTime: 2020-11-09T00:00:00Z
-    webUrl: "https://rh.gatech.edu/news/641165/machine-learning-advances-materials-separations-adsorption-and-catalysis"
-    type: article
-    provider:
-      name: Georgia Tech News Center
-      domain: gatech.edu
-    quality: 35
-    images:
-      - url: "https://rh.gatech.edu/sites/default/files/styles/740x416/public/images/mercury/mof-1264.jpg"
-        width: 740
-        height: 416
-        isCached: true
 
 secured: "DYa2DdcO7xXdViUk2cr/vu5GxSpDdcq/B5lMrm+RPObBlKesmlRjP3lSrFZEmsvO6ZOSqrWh4LTlAsp4UsWtd7FJsKRfeueVKKTSA3FLUq+Ve4Y5PyBFKv1t1J1LDqz4NAW+fi/V8xfXtpqGi3FHOIuf7zZTDw0XI27q94mypLHrQUTOQS6as0RoXMckCuDGESWYrQVVjUJjWPq0rQwWSan1cDeMSIsneK3uFtQAPvGoDLtp1N/Ejhwg5raW7i8HTFddZuqbt5lujQMI9sZWOUPZrLtBP/COc7HAzp9Dcs+L986cWDV3Oj43j00nM+9iCk4kAloPk9fshQFEVbdybSgsklPI4ox6iqzTrjitJAU=;hfH6QGiTsbTwJdn4tmPObg=="
 ---

@@ -2,21 +2,21 @@
 category: news
 title: "Velodyne targets sub-$500 price point for self-driving car sensor"
 excerpt: "Velodyne Lidar Inc <VLDR.O> said on Friday it would introduce a new lidar unit, a key sensor in self-driving cars, with a target price point of less than $500 and no moving parts."
-publishedDateTime: 2020-11-13T13:19:00Z
-originalUrl: "https://www.businessinsider.com/velodyne-targets-sub-500-price-point-for-self-driving-car-sensor-2020-11"
-webUrl: "https://www.businessinsider.com/velodyne-targets-sub-500-price-point-for-self-driving-car-sensor-2020-11"
-ampWebUrl: "https://www.businessinsider.com/velodyne-targets-sub-500-price-point-for-self-driving-car-sensor-2020-11?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/velodyne-targets-sub-500-price-point-for-self-driving-car-sensor-2020-11?amp"
+publishedDateTime: 2020-11-13T13:09:00Z
+originalUrl: "https://www.reuters.com/article/us-velodyne-lidar-tech-idUSKBN27T1PP"
+webUrl: "https://www.reuters.com/article/us-velodyne-lidar-tech-idUSKBN27T1PP"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T1PP"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T1PP"
 type: article
 quality: 54
 heat: 54
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,6 +24,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "UUivF3t54hFcyEQQgLm2q3oJKv67WzJfJNod0nali95tCeUq4+yVggmDTyEo3knk1H6hH9gecqq4v22pJZPdHfbyaKi04MuXqrAfmByM0z6h524MJslyvFSKGOB1Grb5fHKVnVowjU8lHZjwyO2mtXyL5y/vkYOZkyA7FnvoHrqkoB+3fKiS1I1rSDFK2JvjIsz0KcPLq2BYJgpXjyMoqldgdixmCxY0F8fWNRcu2HQi301XReZIK+FvK/48t7bPDdMfl+jhsn5MfxjT7BjRIJ5L0Y2u0keYa9ht/OQ5eKZnep18o8UEEFMRBNy6jsL/cAgNhbPYPxERP8AqmlhPXOn7Vvwc1nAcALKjNd0W+GA=;mbZSoXtGnSUU31YlyPQerg=="
+secured: "nJCvNW9aBpDYqr+6JYL7lxnveEtKo7lkwoUR3Ix6mcXtuJJ7Q2lnxHydz63ZnADC/eB5GVGofpvAhnh2h7eKgjvfDMnKY/nyJULGiyw4BhZRLbPZPClIWR7KZgZ2AjJTra+DHR6H5OE2lQv6J/e2yvtDROzNGKifLGiddXEVqnKLgtVF48tAF/cGy7i8mWhR0pN7qVmZl2hlHiLHKvPyRGeyMI85tA/i5QS2eVXeSQI7p6zT71Ze7IPqx/fVMNNqCJukcPGTn3BvixitNEe0qbAljGxHCWt4e4I9bKkeRE8HVIkWYBWQ/f7AQVTt6nV0jVAQ/XanSHYAaOxQpNEL+89GIK+uLydTS62reiacFME=;zH/xWTNaft54q+4cKX1oKA=="
 ---
 

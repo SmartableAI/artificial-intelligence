@@ -1,51 +1,29 @@
 ---
 category: news
-title: "Machine learning and Artificial Intelligence to revolutionize the world of art and creativity"
-excerpt: "Runway is a Chilean startup that developed an Artificial Intelligence platform that is already used in the United States to create audiovisual, musical and art productions."
-publishedDateTime: 2020-11-10T16:30:00Z
-originalUrl: "https://www.entrepreneur.com/article/359398"
-webUrl: "https://www.entrepreneur.com/article/359398"
-ampWebUrl: "https://www.entrepreneur.com/amphtml/359398"
-cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359398"
+title: "Machine Learning and Artificial Intelligence to Revolutionize the World of Art and Creativity"
+excerpt: "Artificial intelligence is revolutionizing various industries, markets, and services. However, the creative industries and the art world have not yet been able to use the full potential of this technology."
+publishedDateTime: 2020-11-11T07:02:00Z
+originalUrl: "https://www.stamfordadvocate.com/business/article/Machine-learning-and-Artificial-Intelligence-to-15716085.php"
+webUrl: "https://www.stamfordadvocate.com/business/article/Machine-learning-and-Artificial-Intelligence-to-15716085.php"
 type: article
-quality: 93
-heat: 103
-published: true
+quality: 43
+heat: 43
+published: false
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: StamfordAdvocate
+  domain: stamfordadvocate.com
 
 topics:
-  - Machine Learning
   - AI
+  - Machine Learning
 
 images:
-  - url: "https://assets.entrepreneur.com/content/3x2/2000/1604983664-Depositphotos-196603142-l-2015.jpg?width=600&crop=16:9"
-    width: 600
-    height: 338
+  - url: "https://s.hdnux.com/photos/01/15/15/21/20239426/27/rawImage.jpg"
+    width: 2000
+    height: 1333
     isCached: true
 
-related:
-  - title: "AI revolution in medicine"
-    excerpt: "As part of our series, artificial intelligence is examined through the medical lens. It may lift personalized treatment, fill gaps in access to care, and cut red tape, but risks abound."
-    publishedDateTime: 2020-11-11T16:36:00Z
-    webUrl: "https://news.harvard.edu/gazette/story/2020/11/risks-and-benefits-of-an-ai-revolution-in-medicine/"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 39
-    images:
-      - url: "https://news.harvard.edu/wp-content/uploads/2020/09/AI_Med_Shot-945x630.jpg"
-        width: 945
-        height: 630
-        isCached: true
-
-secured: "gOKdvOwGIG8dHEOpAMqOwuLLsQ19B80F83kChgX2mpxyBgBOXWeHfOBzlPB2qBoo4TbxO+Mz63QQUQYd6wM3cKV1JelYfnWWtoE486z4EzikejkLQRC7bPiQIvo25NHteChtRzTgVK55fuZ07ylAc6vSLjMHY/F+j2/WRq+d6CGdPhPYhZ0Nh8jRA8LEcFNy58SO0nYgKweaJ93KGTh3MifSb7sAoiA79twLKTH3kDyWhtiqG/b/qXLVrralFnxs9ylLHZNRetEEW83yhRRhNIZqUUInKi3m3hA0/V4oAPs3FaLgMRvMEFQAOhzoOt4AWRUWBMbRAyUof8A+ZCtt2RTJXztX/8uF6Cv5tAirb0w=;CLdRGkYlTfPWy/f49JErNQ=="
+secured: "KrUckJqEW3vJCkEjBXXrwaWTBpfzGsvhgz7UdNwOyJD41VaKIFu7G1+ynQbmRSqHGWM6/sOpvztFQU3OI/6zmtDFTzXTYk5FkPGucywTM6iiYLJRiW1sJEiGr3e2+spndAFizYkq10fUNRlSzbQBw2hTJbMGSoEbtBu52VXHPAGzwV8jhVJ9cvVMgyz/ZaC2wCVfyGsyewjNN0hQoipoW9d9bXEcOWEXnNehzTwZ+86UIiV3sHcfTkoDklKDTHyB4emnniNw6Nt6xWGwHoJY+oSVgaeqNFqPEQIxhFK4mz5iS2xJetISjieDHWd9vRh0nQR+WsGMtnQJC9cFuN2dFt5NTTUv8v8QClUbtP1PDa4=;DUdoMSoyL5a9XyhBT6v5uA=="
 ---
 

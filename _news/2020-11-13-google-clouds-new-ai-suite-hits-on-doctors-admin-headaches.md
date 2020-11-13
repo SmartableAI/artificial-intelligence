@@ -6,9 +6,9 @@ publishedDateTime: 2020-11-13T14:15:00Z
 originalUrl: "https://www.businessinsider.com/google-cloud-unveils-new-healthcare-ai-tools-for-admin-tasks-2020-11"
 webUrl: "https://www.businessinsider.com/google-cloud-unveils-new-healthcare-ai-tools-for-admin-tasks-2020-11"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: Business Insider
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://i.insider.com/5fae92e31e8d50001981354a?width=1200&format=jpeg"
@@ -28,6 +29,6 @@ images:
     height: 500
     isCached: true
 
-secured: "8B4wbHJFN3y+sG96cWNkRHEeYul1KLbkJpgjfLSy5X1VCvNe4pWFIi8xpBpFExM5yO7uz6TKmj3fJVU3RPlAtRTVI3A/VpEW3tutksAMupGG3PfzPQL0iBn3wJc0OU21C0gLay6RwCdHTwlRhLLus+FWzRdHg7ruxbxe7ecZp5wus6oT9wZU7A030R6AmFyiNbsjMUgA3eupEUBCFBbTJ1dihsfgpYcxWck+WWTj9BMkyKmkVjMWjWFpNVnrCcB+SSIjVBsuvmg3X0XZEos/UJBsrdsJe83v8PjK6lOkRpbdXCUmepGGETGzp1T5Lfcs5pkTTqNEVodbznurpUMpruznkWTv+HEte4uNvPpCJkg=;mRqWInfv5QmoghQi/3F2sQ=="
+secured: "T17ZD6g4lqdzYvPL5npNdXjminCSlZaLCQgjRKBF7jWUUlVfp4rrA2n8MrNnO0r8njOOHCUsLDkh0aB4rcgeTf4m9/06oBJfNC0nVnlztiyeCPetGyUQ2/YzTPHaxd0E0XKgh1nH0ExHg8EK175DmpbXSL1V7X2BlGJ+p/PzVAMbKRFx2GgfmvpaM/GU136H9cnfcSCd1C1XXScahaeWgbmv/NDaUVirrh4dxp1+EY9vGBAPfkNfre+Ji/WtW1hOvtuRaxvkoXtK46TcX4nA3GzN2HnRWpSIKZ17x4hkroUKTJy+y/WyekR91/9XyKzFPmeWBPdkyXBEqlbsGQ+sQMywcnwiVWVoQuajantm/l7GkxEr8Z3CPyZkXVGjuQRrblUTkKG6cnFFdCKI5tj6Dvq3f7IhMUI3DC0B+3rDJBtJhVX5b6EMXokz8bL4Bl6jUJpIIYBbt+5n+zYz3Mv8SB4nYc/4SFopQiS4BLuzUhB5NKSxdF0W+Ko+TnxtIxKlAgR6j/u8IEYZdw46Hc0PCg==;Q06zejTYO3CjlRfwChMCVw=="
 ---
 

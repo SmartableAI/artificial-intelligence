@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Science_News/2020/11/10/Education-key-to-dev
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2020/11/10/Education-key-to-developing-lifelike-intelligent-robots-study-argues/5361605037906/"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
         width: 300
         height: 300
+        isCached: true
+  - title: "Why emotionally intelligent robot shows are trending"
+    excerpt: "Execs from Apple TV+ and MB Producciones are exploring how AI might be the best way to connect with today's kids—and teach them a few life lessons."
+    publishedDateTime: 2020-11-13T16:45:00Z
+    webUrl: "https://kidscreen.com/2020/11/13/why-emotionally-intelligent-robot-shows-are-trending/"
+    type: article
+    provider:
+      name: Kidscreen
+      domain: kidscreen.com
+    quality: 39
+    images:
+      - url: "https://kidscreen.com/wp/wp-content/uploads/2020/11/DougUnplugsApple.jpg"
+        width: 680
+        height: 510
         isCached: true
   - title: "Accelerate Machine Learning Development to Build Intelligent Applications Faster"
     excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/11/13/21562596/facebook-a
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/11/13/21562596/facebook-ai-moderation"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook is using AI to help its content moderators"
+    excerpt: "The Verge reported that the social network is now using machine learning to prioritize posts in a queue that human moderators need to go through."
+    publishedDateTime: 2020-11-13T16:13:00Z
+    webUrl: "https://www.engadget.com/facebook-moderation-ai-machine-learning-prioritize-161027473.html"
+    ampWebUrl: "https://www.engadget.com/amp/facebook-moderation-ai-machine-learning-prioritize-161027473.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-moderation-ai-machine-learning-prioritize-161027473.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 87
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2Ff39ad2d0-1f8a-11eb-bbd8-ac6fa6edbb72&client=amp-blogside-v2&signature=d633c9a65875f131f636a8e3c4ab35db04421128"
+        width: 600
+        height: 350
+        isCached: true
   - title: "Facebook’s redoubled AI efforts won’t stop the spread of harmful content"
     excerpt: "Facebook says it's using AI and machine learning to prioritize harmful content for human moderators, but that likely won't be enough."
     publishedDateTime: 2020-11-13T14:02:00Z

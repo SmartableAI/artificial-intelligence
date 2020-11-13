@@ -46,6 +46,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Facebook is using AI to help its content moderators"
+    excerpt: "The Verge reported that the social network is now using machine learning to prioritize posts in a queue that human moderators need to go through."
+    publishedDateTime: 2020-11-13T16:13:00Z
+    webUrl: "https://www.engadget.com/facebook-moderation-ai-machine-learning-prioritize-161027473.html"
+    ampWebUrl: "https://www.engadget.com/amp/facebook-moderation-ai-machine-learning-prioritize-161027473.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-moderation-ai-machine-learning-prioritize-161027473.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 87
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2Ff39ad2d0-1f8a-11eb-bbd8-ac6fa6edbb72&client=amp-blogside-v2&signature=d633c9a65875f131f636a8e3c4ab35db04421128"
+        width: 600
+        height: 350
+        isCached: true
   - title: "Are Easy-To-Interpret Neurons Necessary? New Findings By Facebook AI Researchers"
     excerpt: "To explore if easy to interpret neural networks actually hinder the learning process in deep learning models, the researchers at Facebook AI published three works."
     publishedDateTime: 2020-11-10T05:33:00Z
@@ -61,6 +77,6 @@ related:
         height: 1201
         isCached: true
 
-secured: "WtzAy0tMruxoT5UtdzrQhLDR6HHs5R1fMW9Ns23JYqYmGYg+a7it/TfgTGFgbf/5AB6ne0bhyomQ544NbzJ17yk66IMjr7lcsWes2DRvnjrK3hbstStqgivVk8mTNmB0XfqXkxnWNLkx/+Zvl/8+VpnK1VXcEXgu+rBAE9UpaqNj0ivLK1jNFPNviCmWGnKz9hhfIMLAo1T/t4YUVh4HU7M0XfIS+XvLAFgseI/ct3ph0KSBjHEq6KgvCjbw6gO8tGyuZMUuasT6HjMvEQTSdW5yW2bXF9x7l0Xwo7+3htT0O56erCwXIg+5VkkJ23ESb+t48YqJxYv+f97DQzRL+VCfhinxTTM5i9rV8bH/Y/4=;08lp6X3uHxOIPvYTx8qxlA=="
+secured: "fXdlNELFUjIDF7pvL6DAldSdOAOJt3Txvm90mRqP5lPlrzl6k5tbxMjqf5caUcByxpt6PfDzbnLfAdH7pHALbDH2zqN2lTJK2QLVTgXDbBlGOR+yCh64jYgGmA4sVsSQozTNaYipr4bQzmcTbB3th30MH12DByAtfS2lJY/epnSuSZEReZH6yrPd2tKBfjFFyi8p4TxacbD8e+szbHODUE4rUW0WxJJyE6lCJSKGgmqh9XToqO2lEV+oczud8EW50e6LIVn5B0wSSli1/9ubD2B1glhEN342PxsAzOY9FOcwPdun9wO7OWYvj2EORx0Eyvqf9r1O3KAEYtPbCD1ft+0nbP9qNTHQpKkHxrt8cwU/UO1OwggOg1aFz5v6h6bM7Qp7U/Ju+WCa+lJ3N8mDD3rGPkBHTpDh/mx+r9dfJYRGyfue2YNuaVxAKxKTBYuksj7hbF3t/PDLlJqd0pwVkc7fcoV9YBGVoX7tvc/uJnTqglLbz9BBiNbgInev5lk23ITBYZ0gEOMd+JNTguO7Pg==;LnU9bS9EO8jph+KO5UHE3g=="
 ---
 

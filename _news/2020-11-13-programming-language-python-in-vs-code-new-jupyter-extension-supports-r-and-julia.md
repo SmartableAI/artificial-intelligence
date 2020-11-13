@@ -3,10 +3,10 @@ category: news
 title: "Programming language Python in VS Code: New Jupyter extension supports R and Julia"
 excerpt: "Microsoft's separate Jupyter notebooks extension aims to improve support for Python's programming language rivals."
 publishedDateTime: 2020-11-13T06:30:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/programming-language-python-in-vs-code-new-jupyter-extension-supports-r-and-julia/"
-webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/programming-language-python-in-vs-code-new-jupyter-extension-supports-r-and-julia/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/programming-language-python-in-vs-code-new-jupyter-extension-supports-r-and-julia/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/programming-language-python-in-vs-code-new-jupyter-extension-supports-r-and-julia/"
+originalUrl: "https://www.zdnet.com/article/programming-language-python-in-vs-code-new-jupyter-extension-supports-r-and-julia/"
+webUrl: "https://www.zdnet.com/article/programming-language-python-in-vs-code-new-jupyter-extension-supports-r-and-julia/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/programming-language-python-in-vs-code-new-jupyter-extension-supports-r-and-julia/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/programming-language-python-in-vs-code-new-jupyter-extension-supports-r-and-julia/"
 type: article
 quality: 68
 heat: 68
@@ -30,6 +30,6 @@ images:
     height: 675
     isCached: true
 
-secured: "TkAxQropdaww8pC484dHx4JbSAASE2UAtVMQGuV8MUSkJT/45g34g57n0Zgi/HJOz1Og+qo42ZB3ACQd4n7XbkG16ok4W8zlZB72OYZCprRDNE7RimlPoXm+QkexZU0gwB8h0Y400aSpbP8rrV6cY+FrMGcIwTtwesAD6MlS+aijQ8rSIhDKBLEIJUVRWWz4h6K/mgl1e8NT5Ve0af0Ymy4ufV9efpgRj/cgCyFkglaueZUR1Y5y8tE4JF17kKH+ekALAI5O6TH3xzObahCX6tCKmezipxT8IJnPVqTJcGu7/97gzAfuI16Cp8JRI65k/muG+lBfbO2+CAte6qDmcdo0CoJXQvsLrvEJ3Fxax+k=;gJIu/ZlQB0Bvtkyscl3nQg=="
+secured: "XpFHADescMgBkieyyc4N/S1L+v1mmQ+0nkzi9NWn6xQnrHMIsDDUvNsq+oSyU10MF8g35oZSZaJXOsqaLu/huAOX45mJjEyP/2DghX9a+cXK4d6DZ1NoPX0sCDoKlJK2XFkVTgU2/j4ajOKbCawxmNBAqwCtsAueNLQb7Mq+TcDyj6ftrcvDwCz76UW/WkICqdkKoblpyt0/1s9eHNpFDRjNxWyn1+c684LbAWuot8YNJvE+ZiQqKlFtbDpGMzIi5CeqmIFvaASFgpS4w86s9gAQSIMfp3RdkVUTGz4dgCu167ZJ7A25p/6XzXR64CUAjhkpj8WW3LYq1pWqG6K7OKeuOjD/Wen/kwWGdFDBlcw=;g8uJkle2f7U2a2k8ZCsvug=="
 ---
 
