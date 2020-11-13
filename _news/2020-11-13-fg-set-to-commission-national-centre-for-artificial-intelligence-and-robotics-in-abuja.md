@@ -7,8 +7,8 @@ originalUrl: "https://nairametrics.com/2020/11/13/fg-set-to-commission-national-
 webUrl: "https://nairametrics.com/2020/11/13/fg-set-to-commission-national-centre-for-artificial-intelligence-and-robotics-in-abuja/"
 type: article
 quality: 61
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Nairametrics
@@ -24,6 +24,24 @@ images:
     height: 563
     isCached: true
 
-secured: "ojAvvTV6VBnH7/07EIYPVDkpzyi+Jm7Lbf71pJMb/X/TMAcyKOkn0WY1flMrlCDkbe7CXyy49jDyIJemZypUcgtt7XuECMWPbnAIEnhsqkCsqBljfnvCMFwlNf4wGaCyeg3OpOfrhFEK+IWy0uqsOGB+AOpq7BqfTcYp+Z8D+uzDjhv5HBMoTjjbZ42Nji6rcpGldVle2qEr7OL6fm6qclC6QdAThwN2OugKPYkE14k9cyRyunFCOnca4C1cCi7XQcKHZ7zvQrqfhKxij7nP0s5BmmcKOBim1YAzgoOfZq4zfpHv3HDAiivGsKbFI3dq1TcLtPn7VU25B3aC6hNsZ3xLZvTzSzOEs8c4ScBopKU=;iqeUyL1laYl0l5sS9g/kVQ=="
+related:
+  - title: "Nigerian govt commissions artificial intelligence centre to create millions of jobs"
+    excerpt: "The Nigerian Government through the National Information Technology Development Agency, has launched its National Centre for Artificial Intelligence and"
+    publishedDateTime: 2020-11-13T12:16:00Z
+    webUrl: "https://dailypost.ng/2020/11/13/nigerian-govt-commissions-artificial-intelligence-centre-to-create-millions-of-jobs/"
+    ampWebUrl: "https://dailypost.ng/2020/11/13/nigerian-govt-commissions-artificial-intelligence-centre-to-create-millions-of-jobs/"
+    cdnAmpWebUrl: "https://dailypost-ng.cdn.ampproject.org/c/s/dailypost.ng/2020/11/13/nigerian-govt-commissions-artificial-intelligence-centre-to-create-millions-of-jobs/"
+    type: article
+    provider:
+      name: Daily Post Nigeria
+      domain: dailypost.ng
+    quality: 53
+    images:
+      - url: "https://dailypost.ng/wp-content/uploads/2020/06/Kashifu-Inuwa-Abdullahi.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "wwDOpCkT1gu36Bu1YzKwEnzS8lp5txUtJQOBXnGvs3YwelPlIGu4ZJ6ZdhtIkAa1O3rHqgSNB7GC93NxaqBEwQWJVwkdbbVBrUkuMTWotMUx9RMEhUMNxaP+MQsRbGk1a8dUjzFb2F1KMVM4yOOxETmPq1s3aHhBmR1V79xe1w+e4cXgLyNDYLpp4qNBiFW+U9EEsgD2NUELqiVrBJ7Et0J+CTBY+F9z/GIUjLjYN8IknfgLpQ5JZ40aWjQ5EhZSZ+n8A+vgByWxYcv7sskMOMgVPUngaO09H5LZSnA6W8pVQr8M3S49wytuVcVtg1XAGBqzIYq3U0t2lajcxnh4ERZJYQ9dk5j2Aog8KojCZNbLxSNloeeR0Hq8HFla+cHMFRkB5mrkfHPBDxjMB3C1dTEUf8DRjCUSHigNX1f38vtXjar6n7KK82KFBFn6nRzsbfecohLg0eUmWmv+8nq3ZLLB/lqYmGEvWvcS3X8muHEpJYXa0Ag4HSUd7LfkM7laG7OdizuJCKT+8OtNxZGMSA==;vtQvZ1YZPkRU53+z+GPvRA=="
 ---
 

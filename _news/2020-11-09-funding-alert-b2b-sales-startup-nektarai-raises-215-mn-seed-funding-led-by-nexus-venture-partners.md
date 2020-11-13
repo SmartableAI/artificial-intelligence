@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/359261"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359261"
 type: article
 quality: 88
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
         width: 480
         height: 270
+        isCached: true
+  - title: "OriGen AI raises £1 million in seed funding"
+    excerpt: "Software technology company OriGen AI has raised $1 million in seed financing. Its AI platform is \"transforming oil and gas exploration and production\" through physics-informed deep learning developed around algorithms and data analysis techniques."
+    publishedDateTime: 2020-11-13T12:39:00Z
+    webUrl: "https://www.energydigital.com/technology-and-ai/origen-ai-raises-pound1-million-seed-funding"
+    type: article
+    provider:
+      name: energydigital.com
+      domain: energydigital.com
+    quality: 37
+    images:
+      - url: "https://bizclik-cms-prod.s3.eu-west-2.amazonaws.com/images/404no22rkhg83vnq131120201418.jpeg"
+        width: 833
+        height: 323
         isCached: true
 
 secured: "FAM970TzlLJbWLNfob+/lkZKz4aLqaXr+dn2PLOIa/s0YVVTma6tTFPXy0d147WZeOREjU1sb6mu6vTjzKR0YwhrH2VOuiAaT1qhc747MfVWVOalNom2UMTc6KXmyDqSWHTGCGkXMV/TmOevX7n0OcWA0ogPuInFVaIqaS1SRVBW5jSiBTkj+FzWjzLvucPgyx3XvLuBqHx9hMa3ygHOIluUTZToAOFOL3yf36W0wO4RQbB1pRHyQAagRd3hwiWdgySDevLfnDZLwtdBtVDGgYlSS2DcC0MZ0f+8196uEkLk0jK9DXiMmqO62LpaLGIL0zUqIwOjnrgaoJn66gXaW2Tb+75VqAJptoBngCSEmNtH/a8LhOhyt+c84HA7XnHdNxayzpoZM8H0R1f9rI9UxsMddHNTlyqlqy0VMrWC6JhRRqGVe9QjtZues7CIDweDVetHTrAEQdScdqRAarpfAAnNC0MPbZMAZ4T7yUfJTcwRfQPO3cZenEPaldB+3EQIYrsKK4ss2rSh7fVzwWeDDQ==;X5aUgIaVD3igfqjji1FeRA=="

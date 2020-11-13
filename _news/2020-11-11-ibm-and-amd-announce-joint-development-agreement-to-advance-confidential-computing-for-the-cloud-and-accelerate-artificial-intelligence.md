@@ -1,32 +1,22 @@
 ---
 category: news
 title: "IBM and AMD Announce Joint Development Agreement to Advance Confidential Computing for the Cloud and Accelerate Artificial Intelligence"
-excerpt: "ARMONK, N.Y. and SANTA CLARA, Calif., Nov. 11 2020 /PRNewswire via COMTEX/ -- ARMONK, N.Y. and SANTA CLARA, Calif., Nov. 11 2020 /PRNewswire/"
-publishedDateTime: 2020-11-11T12:29:00Z
-originalUrl: "https://www.marketwatch.com/press-release/ibm-and-amd-announce-joint-development-agreement-to-advance-confidential-computing-for-the-cloud-and-accelerate-artificial-intelligence-2020-11-11"
-webUrl: "https://www.marketwatch.com/press-release/ibm-and-amd-announce-joint-development-agreement-to-advance-confidential-computing-for-the-cloud-and-accelerate-artificial-intelligence-2020-11-11"
+excerpt: "\"IBM is focused on giving our clients choice, agility and security in our hybrid cloud offerings through advanced research, development and scaling of new technologies.\" \"This agreement between AMD and IBM aligns well with our long-standing commitment to collaborating with leaders in the industry,"
+publishedDateTime: 2020-11-11T12:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/ibm-and-amd-announce-joint-development-agreement-to-advance-confidential-computing"
+webUrl: "https://www.nasdaq.com/press-release/ibm-and-amd-announce-joint-development-agreement-to-advance-confidential-computing"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "IBM and AMD Partner Up to Accelerate Development in Cloud Computing and Artificial Intelligence"
@@ -103,6 +93,6 @@ related:
         height: 630
         isCached: true
 
-secured: "WqAguCZ6tQ9hgznuWM8QvHXlN6VNPVcmxYI+81khMt0iqnZNM6XWRyHJt7D0Edczb9Lm1w0EaDs5/lA4a6joGKh0+cgQEpTPHMt2Yyzhe5MfMLjRZXO8uS+QSBhW/GU9B3dohpv7z7XrLfebIZ/wBmja19oftEP75cA324A6uEW8/8AHdZllOxDxpcqPIHcIQEkt6h0rMCAg0fIchG9jUsxqBGgPuSk7H8MAkrnEXmByAHgKk9iZgeYgR/gKmwTbmRgNUcksKNl7PI3MD8bstRzJ8SIWhMvgvwNSRsOgTZ5+AIzJbjB9EAbyNC4rUG1l7V6Z1diskQCIRxnApHgpcmY2YSWy8IIRSeoNKqCpAzo=;kg0MjLagrb5HZHYqZ1Vo6Q=="
+secured: "olHhWI5s51O/CRXmEsESBmu6ya5p6l9QKuNZG36i1XP4GyRoWmhepZlgSyi3YFBv7vYlAZO5neSpDH5ZzW7q5+hOWSUXaDL3id8VlMDGZGSbN3IbdV8KsAwVUkM+d+7DfP8ePHXG86aru1ukdlVWmNzMWVgNUVoOOFFe5qOTUkg/AjVoE2DcMfk2/dn9tyQUda9rnSigahhPwwSPlq4HT2V+w1tbdNq8gAVFscQMIPCJUxtu3E1E0GB7OvxkEIERWT2nxaLP3MIu7UQ4+/e1hsH8V158AwJMU/TIKpNynKqnp56qGD/SDJcZpVhpZgi4Mh4CNFOy5cHYzzVSaZazTWB3GX4HcjyVFC0t4qh8DkA=;Xf2PH1UIG8Xe88fKrj1nlQ=="
 ---
 

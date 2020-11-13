@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2183410/healthcare-artificial-intelligenc
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2183410/healthcare-artificial-intelligence-market-is-thriving"
 type: article
 quality: 76
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Global Computer Vision In The Healthcare Market Report"
+    excerpt: "As per GME studies on Global Computer Vision In Healthcare Market is estimated to show a sharp peak during the timeframe of 2020 2026 at a CAGR of 22 5 Government initiative towards the adoption of AI based technologies rising"
+    publishedDateTime: 2020-11-13T12:04:00Z
+    webUrl: "https://www.openpr.com/news/2187365/global-computer-vision-in-the-healthcare-market-report"
+    ampWebUrl: "https://www.openpr.com/amp/2187365/global-computer-vision-in-the-healthcare-market-report"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2187365/global-computer-vision-in-the-healthcare-market-report"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 76
+    images:
+      - url: "https://cdn.openpr.com/T/b/Tb13143184_g.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "How an AI App Navigates Narrow Networks, Cuts Healthcare Spending"
     excerpt: "Payers can reduce healthcare spending for self-funded employers by employing artificial intelligence, centering primary care services, and employing value-based contracts."
     publishedDateTime: 2020-11-12T14:32:00Z

@@ -85,19 +85,14 @@ related:
         height: 406
         isCached: true
   - title: "IBM and AMD Announce Joint Development Agreement to Advance Confidential Computing for the Cloud and Accelerate Artificial Intelligence"
-    excerpt: "ARMONK, N.Y. and SANTA CLARA, Calif., Nov. 11 2020 /PRNewswire via COMTEX/ -- ARMONK, N.Y. and SANTA CLARA, Calif., Nov. 11 2020 /PRNewswire/"
-    publishedDateTime: 2020-11-11T12:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ibm-and-amd-announce-joint-development-agreement-to-advance-confidential-computing-for-the-cloud-and-accelerate-artificial-intelligence-2020-11-11"
+    excerpt: "\"IBM is focused on giving our clients choice, agility and security in our hybrid cloud offerings through advanced research, development and scaling of new technologies.\" \"This agreement between AMD and IBM aligns well with our long-standing commitment to collaborating with leaders in the industry,"
+    publishedDateTime: 2020-11-11T12:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/ibm-and-amd-announce-joint-development-agreement-to-advance-confidential-computing"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 17
 
 secured: "xWKQ2cJCX+zoaA0YehdPcLeQYRYVYkq5M7QJ6VFxsn3FrNREHt70TZNlFWakowYAZAk6Xp3ujNr2h+w8UjMaRlYqaWRWDrQ/dMdptZO7ppeObuHdNOwpIDbEjMbHeBheJ7r690AQet1KtZKPm14lCAJxW7q8IDcdgduEaITA6UM1/g0CAZwOpJKHsQsdg9LQ7h3IhwAfF9AGBTfOvRIp43ZrFLEyIErivh5vZFasmYX3V9TcdJTg5YqMIX1MvQx2N36aUaqTbUurMk0BqfE8USbV9fkT2CDcvUIlChaA9jmkUjc8+S7aiTKw65ZRKPSds4adl5yLBPLhHsF6OSdepp1l0t45jULmcOSAe1o/VdI=;IEhTteCvDKJtpxqtqiBH4Q=="
 ---

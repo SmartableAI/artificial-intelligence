@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailymaverick.co.za/opinionista/2020-11-12-artificial-in
 cdnAmpWebUrl: "https://www-dailymaverick-co-za.cdn.ampproject.org/c/s/www.dailymaverick.co.za/opinionista/2020-11-12-artificial-intelligence-and-robotics-be-careful-what-you-wish-for/amp/"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -22,6 +22,20 @@ topics:
   - AI in Robotics
 
 related:
+  - title: "South Africa: Artificial Intelligence and Robotics - Be Careful What You Wish for"
+    excerpt: "There may come a time, within the next three to four decades, when we have robots that are smarter and more independent than we want them to be."
+    publishedDateTime: 2020-11-13T12:41:00Z
+    webUrl: "https://allafrica.com/stories/202011130572.html"
+    type: article
+    provider:
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 64
+    images:
+      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
+        width: 664
+        height: 664
+        isCached: true
   - title: "AI Enabled Robots are Coming"
     excerpt: "We’ve entered a new age of automation: the artificially intelligent robots are coming. When AI enabled robots hit the manufacturing mainstream, the implications will be huge. With the right"
     publishedDateTime: 2020-11-11T10:01:00Z
