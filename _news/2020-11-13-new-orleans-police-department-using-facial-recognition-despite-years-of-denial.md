@@ -43,15 +43,6 @@ related:
         width: 530
         height: 560
         isCached: true
-  - title: "Amazon moving some Alexa, facial recognition computing to in-house chips"
-    excerpt: "Amazon (AMZN -1.0%) is moving part of its Alexa computing from Nvidia (NVDA +0.9%) to the in-house Inferentia chips.The Inferentia chips will be used when an Echo user's voice query is sent to an Amazon data center for processing and answering in a text format that then has to be converted to audio."
-    publishedDateTime: 2020-11-12T19:00:00Z
-    webUrl: "https://seekingalpha.com/news/3635661-amazon-moving-alexa-facial-recognition-computing-to-in-house-chips"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 20
 
 secured: "rVSuPdNS4nDo7RCcwSajJ6Z98WehjT4byZoh7GNsOnxfvXVDmxcLr23xHt4Aa5nEAM7btDgvJGEDaYQRqVhWHx1ckNkvWCaGz3f34cI+GPpqdrfqaiYjuUk+27RGd4tvW/7eVKmMaIkQewakv4KrQuKiI3w8RDWFFFFLFE8TsKcJyMdt6F6SdjxbZLQccWplgQi6iZ36HaIbAaUNgIAg+Izw6N7j1UB2c4mqjiYLewJ8x1vjj8doU/5UXqrySFWbunpNaI0/yW2iw92NOF6LIQZCQXeV6ozo01MwaVKXO2oh47QX/nT15p6vpzpmBGD9AjtdB9X1jriIA8rKmR3gO7bR7c19xoYdRE55TCoGdlHju+KHAdNfLpRCv1c3cUSaN3O0m/NY5EDfdhHVMw/EdXDS5NM3AdRoGoBJ5Jr+YH7k6rxAa3dF/AQkSCQSX8BVwjy6onIWBqzMCYvNR1E/5I6gJqBkKCl9iRfKVSE+3pHYcRgHzBKEQL3FcIWf0FTDPihwWRrtCgTomM6/QnSnrQ==;Nl9YU2GxYFd6Rk0LJ/oIIA=="
 ---

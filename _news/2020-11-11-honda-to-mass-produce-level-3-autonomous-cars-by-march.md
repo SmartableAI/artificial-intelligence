@@ -141,17 +141,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Despite promises, totally self-driving cars still in the future"
-    excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time, so you must always keep your hands on the wheel and pay extra attention to the ..."
-    publishedDateTime: 2020-11-08T15:32:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/where-are-our-self-driving-cars/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/where-are-our-self-driving-cars/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/where-are-our-self-driving-cars/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 24
   - title: "Honda’s self-driving system wins OK for use on busy roads in Japan"
     excerpt: "Honda is launching a new version of its Legend sedan that will take over for drivers on busy highways after the company got approval for its self-driving system in Japan."
     publishedDateTime: 2020-11-11T15:30:00Z

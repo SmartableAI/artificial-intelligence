@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice and Speech Recognition Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
+    excerpt: "Selbyville, Delaware According to the research report titled 'Voice and Speech Recognition Market Share, Size, Trends, Industry Analysis Report By Component; By Interface; By End-User; By Regions, Segments & Forecast,"
+    publishedDateTime: 2020-11-13T07:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2020-11-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence (AI) Chips Market Analysis By Size, Segments, Applications, Types, Competitors, Demographics And Forecast To 2026"
     excerpt: "The Report also calculate the market size,Artificial Intelligence (AI) Chips Sales, Price, Revenue, Gross Margin and Market Share, cost structure and growth rate. Final Report will add the analysis of the impact of COVID-19 on this industry."
     publishedDateTime: 2020-11-11T12:30:00Z

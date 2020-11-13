@@ -106,7 +106,7 @@
       "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -148,7 +148,8 @@
         "AI",
         "AI in Healthcare",
         "AI in Robotics",
-        "Machine Learning"
+        "Machine Learning",
+        "Natural Language Processing"
       ]
     },
     {

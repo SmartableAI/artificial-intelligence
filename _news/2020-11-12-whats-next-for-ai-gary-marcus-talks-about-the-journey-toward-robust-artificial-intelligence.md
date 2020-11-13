@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/the-
 ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/"
 type: article
-quality: 97
-heat: 97
+quality: 99
+heat: 99
 published: true
 
 provider:
@@ -25,6 +25,7 @@ topics:
   - AI in Healthcare
   - AI in Robotics
   - Machine Learning
+  - Natural Language Processing
 
 images:
   - url: "https://zdnet4.cbsistatic.com/hub/i/2020/11/12/931ab7f6-3ca4-4467-82c1-c76b3311cbcb/gary-marcus.jpg"
@@ -32,6 +33,6 @@ images:
     height: 392
     isCached: true
 
-secured: "vNgPXXsBaUgutp6NUaSyq430XM26ZTkdzya88TwWBesUynxkIWjNOgepEvBY4fWczOIWgPKCLPZv+HMQi4T40pxQd9jGCtdqUcr14c9/l98IUpGWHSiUuJI6NfAdhCvYD4G0lNJjJZa9HarWXiPda3bIHj0Yjhk4EuF/pR2V+og24f0Rr3F4ssJRoJbzvcLxkGk/bEb4nOWpUcxwIb3dCzhlds7xS4xNTgkDnylSfGtuI602Dnqykb/Gc2Zr+27teGTL3UWwKDskUGkfZtF5JHoLfbRbmw3krKiotwx6dlq29fT/gP3cgyVNDoxBWXzbjFgjosPExTV6NYdHeY3FQ/TEa0A/aOCKpobCTL+Zj5k=;5eHwqMeliq3dOHS8BT/NtQ=="
+secured: "ISbLbY6mABYtQ2wqEEiWAcam+M/2ugq0YSIJpXQsrntOcCsoM6nIn3jJmP//gbuE+kFzodmJq7gsQYgdTs2uDPtcIfhIoHsNlmrLeQFGAjpDc9P7mcILNQhFYql0QS0B14EWg/AG8c/eiT3UnhZofRo/WvuZc5OrqJEctJMs+mErAWdzLChRXjVENLKP9hIAnvv1EuTxBbzAKxzxDIvABiArat5w8WBCou3ZZAaxpDJ9rVV2TJX4vtZXQ4DYUKXc+TVHhah65tA8vN62gYlc329i3qKHphjWbLVqP/TJRZ95RAWHMwF4A1MN5bTdm4EW/gj+NT0vavjXWnO+/0lza+DCEyjx7xouKYwo/zilxC+iqR1cizmOCGafxomfuzeV//mNaWiPUfUHTY8MixX2PEWz3xYmEgGsfhJVMrRFvjeQ8h2Qn/KIE8mP+wZ5KdZh6HlGRxVVTKyMyyBZwiYrHCTY4HNPkV3OKMtmkxF6QITLibJo8lT0AXMkkBAQdF2Nj4FwKIIJHO4rzeoBARdqEQ==;4Twn9IJvsKwd8Go3fWIqWw=="
 ---
 
