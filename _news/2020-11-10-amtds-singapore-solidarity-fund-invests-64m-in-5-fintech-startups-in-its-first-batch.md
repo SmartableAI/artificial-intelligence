@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Singapore edtech startup LingoAce banks $6m in Sequoia India-led round"
-    excerpt: "The language learning startup said it plans to use the new funds for its Southeast Asian expansion plans and the further development of its platform."
-    publishedDateTime: 2020-11-09T05:51:00Z
-    webUrl: "https://www.techinasia.com/singapore-edtech-startup-lingoace-banks-6m-sequoiaindialed"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 32
   - title: "Property startup 99 Group acquires Singapore Real Estate Exchange"
     excerpt: "Southeast Asian property startup 99 Group announced that it has acquired Singapore Real Estate Exchange (SRX), a property platform and real estate data provider in Singapore. With the agreement finalized on November 7,"
     publishedDateTime: 2020-11-10T01:34:00Z

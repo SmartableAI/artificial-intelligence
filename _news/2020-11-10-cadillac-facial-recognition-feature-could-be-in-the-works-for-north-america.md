@@ -9,8 +9,8 @@ ampWebUrl: "https://gmauthority.com/blog/2020/11/cadillac-facial-recognition-fea
 cdnAmpWebUrl: "https://gmauthority-com.cdn.ampproject.org/c/s/gmauthority.com/blog/2020/11/cadillac-facial-recognition-feature-could-be-in-the-works-for-north-america/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: GM Authority
@@ -38,6 +38,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 54
+  - title: "Cadillac trademark filing could signal facial recognition in North American cars"
+    excerpt: "The market for biometrics in the automotive industry is expected to reach $503.15 million by 2025, up from $183.59 million in 2019 at a 19.06 percent CAGR, according to a report from Mordor"
+    publishedDateTime: 2020-11-13T22:22:00Z
+    webUrl: "https://www.biometricupdate.com/202011/cadillac-trademark-filing-could-signal-facial-recognition-in-north-american-cars"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/11/13171234/Cadillac-XT4.jpg"
+        width: 1600
+        height: 1064
+        isCached: true
 
 secured: "W4fyll3s4IkTJxPCcRi6hGCt7G24+FumM14ZCkgZf87NaZMQOCMPP8LJMOjglsLITZYERCLPdwmwbSWzsEpj+EhIYB+xzGy6zWU9cS7qSsXs3zOki/nOVXpnUA9uLWPRh5Maq5pD0zNgyfctnUtlb2xg7jncDY29GZ7750I8FsNqL8n+EQQzFZRIFj/oU1CY9zrsQll+OTBHx7sQpVTME7B3uPELKm3iHOA6mGUThVSmZbXfaDRnqfzHOZrOIzEGZgqGbl1BvKYz6ck81EqTekKvYc7Rvo8ZLammo21XzcRoF4Jhig6Zp/qCX4+i4LJX00sAtc9HVTrgkkUK+Zzk6z3mLgivcGxt58mkc7SmLMk=;HZqc6kajGxmnFgcjrNvo/g=="
 ---

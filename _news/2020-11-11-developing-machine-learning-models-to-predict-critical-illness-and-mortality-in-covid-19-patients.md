@@ -71,6 +71,15 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Machine learning models to predict critical illness and mortality in COVID-19 patients"
+    excerpt: "Researchers have developed machine learning models that predict the likelihood of critical events and mortality in COVID-19 patients within clinically relevant time windows."
+    publishedDateTime: 2020-11-13T22:38:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/11/201110151134.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 41
   - title: "MIT’s AI analysis shows extreme anxiety levels among people since the start of COVID-19"
     excerpt: "Massachusetts Institute of Technology (MIT) researchers with some help from Harvard Medical School analyzed the mental states of people by using various Reddit subforums aka Subreddits."
     publishedDateTime: 2020-11-09T18:05:00Z

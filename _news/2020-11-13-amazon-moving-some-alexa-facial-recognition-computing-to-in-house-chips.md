@@ -112,6 +112,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Amazon moving facial recognition and voice processing off of Nvidia chips"
+    excerpt: "Amazon is switching to using its own custom chips to provide the cloud processing for its Alexa voice assistant service and facial recognition service Rekognition, Reuters reports, in an attempt"
+    publishedDateTime: 2020-11-13T21:55:00Z
+    webUrl: "https://www.biometricupdate.com/202011/amazon-moving-facial-recognition-and-voice-processing-off-of-nvidia-chips"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 40
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/06/11110622/amazon-biometric-facial-recognition.jpg"
+        width: 810
+        height: 405
+        isCached: true
 
 secured: "TyUG1msOjLFOWai/iQcLI9vLGfH3TPb5OPF6mUJmmdoy7xe/4krRK3PTV2HYLn1hlXKHveWPbTcRu5Ouy+Q7nuBGAfZJYLyCiyiqTXhMypg1Oh7kO59uQffmp9eqjWSMGDYWh0iB6lIZyxEXAkHCoPFHmy7MPNuvxlRX0lXW6k0cr4ely1RoYJeXLLjZMCZsI6Z68LP8k85NXyHHu18lnSIfRBlb+j47Ey6/+yGS6aI6AIzJg7zJ9c9Uk/MYD8iQP7yMVb5SL67aJmTXHuAr76XF7cY3Y1TwvJLDK/xbf/MD/rBIgfqqTgTtngx3Mq+r8C/tdyVrcp5wMcVmfVa2/Dbi1XKdms3YgR1wkOREL90=;SHZRN51cPy7N5JD5Po+Z4g=="
 ---

@@ -2,6 +2,350 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-10-15-optimizing-applications-with-eagledream-in-amazon-codeguru-profiler.md",
+      "title": "Optimizing applications with EagleDream in Amazon CodeGuru Profiler",
+      "excerpt": "This is a guest post by Dustin Potter at EagleDream Technologies. In their own words, “EagleDream Technologies educates, enables, and empowers the world’s greatest companies to use cloud-native technology to transform their business. With extensive experience architecting workloads on the cloud, as well",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimizing-applications-with-eagledream-in-amazon-codeguru-profiler/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimizing-applications-with-eagledream-in-amazon-codeguru-profiler/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/24/2-Flame-Graph.jpg",
+          "width": 900,
+          "height": 524,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T11:17:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-europe-unveils-4-new-ai-supercomputers-based-on-nvidia-architecture.md",
+      "title": "Europe unveils 4 new AI supercomputers based on Nvidia architecture",
+      "excerpt": "Computer graphics chipmaker Nvidia Corp. said today the European High-Performance Computing Joint Undertaking is using its accelerated computing platforms and architecture to build four new supercomputers that will propel Europe to the forefront of supercomputing research.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2020/10/15/europe-unveils-4-new-ai-supercomputers-based-nvidia-architecture/",
+      "originalUrl": "https://siliconangle.com/2020/10/15/europe-unveils-4-new-ai-supercomputers-based-nvidia-architecture/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/CinecaHQ.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-researchers-detail-land-ai-that-learns-from-autonomous-vehicle-disengagements.md",
+      "title": "Researchers detail LaND, AI that learns from autonomous vehicle disengagements",
+      "excerpt": "AI researchers often disengagements as a signal ... 2,00 disengagements produced during the LaND training on Berkeley sidewalks. Delivery robot startup Kiwibot also operates at UC Berkeley and ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/15/researchers-detail-land-ai-that-learns-from-autonomous-vehicle-disengagements/",
+      "originalUrl": "https://venturebeat.com/2020/10/15/researchers-detail-land-ai-that-learns-from-autonomous-vehicle-disengagements/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/land.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/15/researchers-detail-land-ai-that-learns-from-autonomous-vehicle-disengagements/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/15/researchers-detail-land-ai-that-learns-from-autonomous-vehicle-disengagements/amp/",
+      "publishedDateTime": "2020-10-15T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-logistics-startup-fleetxio-raises-usd-31-mn-from-beenext-and-india-quotient.md",
+      "title": "Logistics Startup Fleetx.io Raises USD 3.1 Mn From Beenext and India Quotient",
+      "excerpt": "The fresh capital received in the pre-series B round will be used for scaling in India and other markets, strengthening product and technology and hiring talent",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/357860",
+      "originalUrl": "https://www.entrepreneur.com/article/357860",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1602785025-logistics1.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/357860",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/357860",
+      "publishedDateTime": "2020-10-15T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-new-oxford-machine-learning-based-covid-19-test-can-provide-results-in-under-5-minutes.md",
+      "title": "New Oxford machine learning-based COVID-19 test can provide results in under 5 minutes",
+      "excerpt": "Oxford scientists working out of the school’s Department of Physics have developed a new type of COVID-19 test that can detect SARS-CoV-2 with a high degree of accuracy, directly in samples taken from patients,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/15/new-oxford-machine-learning-based-covid-19-test-can-provide-results-in-under-5-minutes/",
+      "originalUrl": "https://techcrunch.com/2020/10/15/new-oxford-machine-learning-based-covid-19-test-can-provide-results-in-under-5-minutes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/schematic.png?w=1024",
+          "width": 1024,
+          "height": 491,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/15/new-oxford-machine-learning-based-covid-19-test-can-provide-results-in-under-5-minutes/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/15/new-oxford-machine-learning-based-covid-19-test-can-provide-results-in-under-5-minutes/amp/",
+      "publishedDateTime": "2020-10-15T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-udacity-microsoft-launch-nanodegree-programme-to-skill-students.md",
+      "title": "Udacity, Microsoft launch 'Nanodegree' programme to skill students",
+      "excerpt": "NEW DELHI: The US-based learning platform Udacity on Thursday announced a partnership with Microsoft to launch Microsoft Azure 'Nanodegree' programme, which will strengthen the machine learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/home/education/news/udacity-microsoft-launch-nanodegree-programme-to-skill-students/articleshow/78678554.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/home/education/news/udacity-microsoft-launch-nanodegree-programme-to-skill-students/articleshow/78678554.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-78681044/78681044.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/home/education/news/udacity-microsoft-launch-nanodegree-programme-to-skill-students/amp_articleshow/78678554.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/udacity-microsoft-launch-nanodegree-programme-to-skill-students/amp_articleshow/78678554.cms",
+      "publishedDateTime": "2020-10-15T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-worlds-fastest-ai-supercomputer-is-coming-to-italy.md",
+      "title": "World’s fastest AI supercomputer is coming to Italy",
+      "excerpt": "Leonardo is one of four new systems backed by a public-private partnership that's trying to build a world-class supercomputer ecosystem in Europe.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/10/15/worlds-fastest-ai-supercomputer-is-coming-to-italy/",
+      "originalUrl": "https://thenextweb.com/neural/2020/10/15/worlds-fastest-ai-supercomputer-is-coming-to-italy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-15T141443.431-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/10/15/worlds-fastest-ai-supercomputer-is-coming-to-italy/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/15/worlds-fastest-ai-supercomputer-is-coming-to-italy/amp/",
+      "publishedDateTime": "2020-10-15T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-biped-robot-maker-agility-raises-20-million.md",
       "title": "Biped robot maker Agility raises $20 million",
       "excerpt": "Agility Robotics said on Thursday it raised $20 million in funding, in a round led by Silicon Valley venture capital firms DCVC and Playground, as two-legged robots start walking out of the lab and into the workplace.",
@@ -810,322 +1154,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-speech-processing-solutions-next-generation-workflow-solution-with-ai-powered-speech-recognition.md",
-      "title": "Speech Processing Solutions: Next-generation workflow solution with AI-powered speech recognition",
-      "excerpt": "For speech recognition to meet the requirements of modern work environments and flexible processes in organizations, it must be combined with a workflow solution that tracks status updates and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2020-10/50967382-speech-processing-solutions-next-generation-workflow-solution-with-ai-powered-speech-recognition-004.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2020-10/50967382-speech-processing-solutions-next-generation-workflow-solution-with-ai-powered-speech-recognition-004.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-scheller-college-of-business-advisory-board-welcomes-seven-new-members.md",
-      "title": "Scheller College Of Business Advisory Board Welcomes Seven New Members",
-      "excerpt": "He was a senior product manager for big data and predictive analytics in the cloud and enterprise marketing at Microsoft, where he managed Azure Machine Learning, HDInsight, Parallel Data ...",
-      "sourceUrl": null,
-      "webUrl": "https://patch.com/georgia/midtown/scheller-college-business-advisory-board-welcomes-seven-new-members",
-      "originalUrl": "https://patch.com/georgia/midtown/scheller-college-business-advisory-board-welcomes-seven-new-members",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn/assets/layout/logo-patch-800x600.png",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T05:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-rebel-foods-bets-on-robotics-ab-testing-to-scale-food-biz.md",
-      "title": "Rebel Foods bets on robotics, A/B testing to scale food biz",
-      "excerpt": "Rebel Foods grew from its earlier avatar ‘Faasos’ to a multi-brand food firm which currently houses more than 15 brands such as Behrouz Biryani, Oven Story Pizza, Sweet Truth, Slay Everyday, Firangi Bake,",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/industry/retail/rebel-foods-bets-on-robotics-a-b-testing-to-scale-food-biz-11602755900460.html",
-      "originalUrl": "https://www.livemint.com/industry/retail/rebel-foods-bets-on-robotics-a-b-testing-to-scale-food-biz-11602755900460.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/10/15/600x338/biriyani_1564638221094_1602756719242.PNG",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/industry/retail/rebel-foods-bets-on-robotics-a-b-testing-to-scale-food-biz/amp-11602755900460.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/retail/rebel-foods-bets-on-robotics-a-b-testing-to-scale-food-biz/amp-11602755900460.html",
-      "publishedDateTime": "2020-10-15T05:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-how-centralizing-your-global-content-strategy-with-help-from-ai-can-increase-your-roi.md",
-      "title": "How Centralizing Your Global Content Strategy -- With Help From AI -- Can Increase Your ROI",
-      "excerpt": "Clicks, eyes and conversions aren’t important. The only thing that counts is ROI, and to calculate that, you need to understand what you’re trying to achieve.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/15/how-centralizing-your-global-content-strategywith-help-from-aican-increase-your-roi/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/15/how-centralizing-your-global-content-strategywith-help-from-aican-increase-your-roi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f75dbbe41e615248f54b325%2F0x0.jpg",
-          "width": 1200,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/15/how-centralizing-your-global-content-strategywith-help-from-aican-increase-your-roi/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/15/how-centralizing-your-global-content-strategywith-help-from-aican-increase-your-roi/amp/",
-      "publishedDateTime": "2020-10-15T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-2020-election-live-updates-trump-has-dwindling-chances-for-a-reset.md",
-      "title": "2020 Election Live Updates: Trump Has Dwindling Chances for a Reset",
-      "excerpt": "Joe Biden raised $383 million in September and entered October with $432 million in the bank. To mobilize Puerto Rican voters in Florida and other states, the Biden campaign is trying to reach Puerto Ricans on the island.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/live/2020/presidential-polls-trump-biden",
-      "originalUrl": "https://www.nytimes.com/live/2020/10/15/us/trump-vs-biden",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/14/upshot/nateblog-promo/nateblog-promo-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/live/2020/presidential-polls-trump-biden",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/presidential-polls-trump-biden",
-      "publishedDateTime": "2020-10-15T05:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-built-for-the-fourth-industrial-revolution-cascadia-capital-launches-leading-edge-investment-banking-practice-dedicated-to-the-robotics-automation.md",
-      "title": "Built for the Fourth Industrial Revolution: Cascadia Capital Launches Leading-Edge Investment Banking Practice Dedicated to the Robotics, Automation, and Artificial ...",
-      "excerpt": "Cascadia Capital (“Cascadia”) is tackling the Fourth Industrial Revolution head-on­—leveraging existing internal expertise to launch one of the nation",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201015005266/en/Built-for-the-Fourth-Industrial-Revolution-Cascadia-Capital-Launches-Leading-Edge-Investment-Banking-Practice-Dedicated-to-the-Robotics-Automation-and-Artificial-Intelligence-Sectors",
-      "originalUrl": "https://www.businesswire.com/news/home/20201015005266/en/Built-for-the-Fourth-Industrial-Revolution-Cascadia-Capital-Launches-Leading-Edge-Investment-Banking-Practice-Dedicated-to-the-Robotics-Automation-and-Artificial-Intelligence-Sectors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201015005266/en/830406/23/CAscadiaLLClogo_Blue.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-virtual-primary-care-startup-98point6-raises-118m-as-pandemic-sparks-demand-for-digital-health-tech.md",
-      "title": "Virtual primary care startup 98point6 raises $118M as pandemic sparks demand for digital health tech",
-      "excerpt": "Demand is through the roof for Seattle telemedicine startup 98point6. The company, which helps facilitate virtual primary care appointments, has seen its membership base skyrocket 274%",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/virtual-primary-care-startup-98point6-raises-118m-pandemic-sparks-demand-digital-health-tech/",
-      "originalUrl": "https://www.geekwire.com/2020/virtual-primary-care-startup-98point6-raises-118m-pandemic-sparks-demand-digital-health-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/20190502_GeekWire_Awards_1195-630x420-1.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/virtual-primary-care-startup-98point6-raises-118m-pandemic-sparks-demand-digital-health-tech/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/virtual-primary-care-startup-98point6-raises-118m-pandemic-sparks-demand-digital-health-tech/amp/",
-      "publishedDateTime": "2020-10-15T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

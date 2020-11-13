@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-25-trying-to-prevent-narco-self-driving-cars-that-act-as-drug-mules.md",
+      "title": "Trying To Prevent Narco Self-Driving Cars That Act As Drug Mules",
+      "excerpt": "A recent news story described a narco mini-submarine that was scuttled in shallow waters after three men operating the vessel opted to evacuate and escape as authorities were closing in on them. Reportedly containing an estimated $100 million in cocaine ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/25/trying-to-prevent-narco-self-driving-cars-that-act-as-drug-mules/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/25/trying-to-prevent-narco-self-driving-cars-that-act-as-drug-mules/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f90c97b4f7c7f4774a83f34%2F0x0.jpg%3FcropX1%3D233%26cropX2%3D4337%26cropY1%3D93%26cropY2%3D2284",
+          "width": 1200,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/25/trying-to-prevent-narco-self-driving-cars-that-act-as-drug-mules/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/25/trying-to-prevent-narco-self-driving-cars-that-act-as-drug-mules/amp/",
+      "publishedDateTime": "2020-10-25T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-25-want-to-invest-in-self-driving-cars-these-are-the-2-stocks-youll-want-to-own.md",
       "title": "Want to Invest in Self-Driving Cars? These Are the 2 Stocks You'll Want to Own",
       "excerpt": "While many companies are working on autonomous vehicles, only a couple are ready to let theirs hit the road in the real world without human backup drivers.",
@@ -1365,60 +1417,6 @@
       "topics": [
         "Machine Learning",
         "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-go-beyond-artificial-intelligence-why-your-business-needs-augmented-intelligence.md",
-      "title": "Go Beyond Artificial Intelligence: Why Your Business Needs Augmented Intelligence",
-      "excerpt": "When algorithms learn from our data, they mimic these imperfections and magnify the bias. There is ongoing research in AI to improve fairness and ethics. However, no amount of model engineering will make algorithms perfect. In the real world, if we are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ganeskesari/2020/10/19/go-beyond-artificial-intelligence-why-your-business-needs-augmented-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2020/10/19/go-beyond-artificial-intelligence-why-your-business-needs-augmented-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8d63159b88f08f91ffea5b%2F0x0.jpg%3FcropX1%3D45%26cropX2%3D9480%26cropY1%3D0%26cropY2%3D5304",
-          "width": 1200,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ganeskesari/2020/10/19/go-beyond-artificial-intelligence-why-your-business-needs-augmented-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2020/10/19/go-beyond-artificial-intelligence-why-your-business-needs-augmented-intelligence/amp/",
-      "publishedDateTime": "2020-10-19T04:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics",
         "AI in Autos"
       ]
     }

@@ -45,20 +45,6 @@ related:
         width: 735
         height: 490
         isCached: true
-  - title: "Inside the industry: Self-driving tech is beset with difficulties"
-    excerpt: "Car makers are continually advancing their driver assistance tech, but issues remain Perhaps the most complex challenge facing the car industry today is"
-    publishedDateTime: 2020-11-09T06:01:00Z
-    webUrl: "https://www.newsoneplace.com/36567541911/inside-self-driving-industry"
-    type: article
-    provider:
-      name: newsoneplace.com
-      domain: newsoneplace.com
-    quality: 24
-    images:
-      - url: "https://images.weserv.nl/?url=https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/10-self-driving-cars.jpg?itok=m1h94QS_&h=250"
-        width: 380
-        height: 250
-        isCached: true
 
 secured: "VCfiJRLI2zHPc7NItgGsOeEySChv24cs+A1wriute5NCVb4nJ0nZ6+J5SYQm/MJIEsaTxyZxUz9k3Njg2K1R7lvtXUxCBuk1Roc6UfzYW/iqkKQW2ZAEVOfkcGEr4vka7GiYidrldNdRgLFZP8/PYzYft593pGTOBointvlMk434NEB0Ff/6gnEqLgg+x8lfo2Pqaw7N+AAChrTYefokhqsp6XLWdBC3lcthymqwVBTsxbKpc9XvVoKkki1GViMOQln+82l71ml/FZWOJDmU3tjXDa8Xn1k3L69TcBlQMy2til47+vMttYWui76OoXcpUBdjiiMV31uuFWd2acnIUt1qYOEbLKZO0S5d2MLBwHg=;HQhGXfj0Gz/l6wxMJbqQ6g=="
 ---

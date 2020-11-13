@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "AI, Machine Learning to Aid in Airport Sanitation Efforts"
+    excerpt: "The Albany International Airport in New York has partnered with General Electric on technology that helps sanitation crews monitor cleanliness and frequently touched surfaces throughout the facility."
+    publishedDateTime: 2020-11-13T22:32:00Z
+    webUrl: "https://www.govtech.com/health/Albany-NY-Airport-Updates-App-with-Health-Sanitation-Measures.html"
+    ampWebUrl: "https://www.govtech.com/health/Albany-NY-Airport-Updates-App-with-Health-Sanitation-Measures.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/health/Albany-NY-Airport-Updates-App-with-Health-Sanitation-Measures.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_530657836.jpg"
+        width: 940
+        height: 627
+        isCached: true
 
 secured: "FAUvW0cNYqloAyt9P9gGectzJr+wUx1IudsHDWc7TSPN8yatZ8vdj+3HW37EMuetEsNbQ0J/bQEeUY6YE3qS3mLPkYSC+rJiV1YBQWb1492Nvo06sP18pVTIZ3CXS949lUVokkekD5mA+kuEaG7pG67S2JSATtEqkpY3kuWkPDMhl7s4F6PIj3BgxCkwBs+LZ1cT/C6xew1Bk1CU1Idw/J0BYXJv1uUcYVOhRAgIXbxlW72zFFKYA+4fe7hNOHuzzNvFzI1TS4JOKyKkYUH/qyKkI6CVI28qpCwMTIgF6OlxIFIcTpc9jzBswGELg04mxMb6kuP8kz7U/yqL48/v2Ln/i+RkhGN59Zgl8EJSIf43qcFAliviSeGenRBedLenBPpTh3AsnZsDVnPV6mGWwMyCS4NYKNQ4Cjw5OkcbnJKn2Aj7uSjddmWp0MaQwZh0VMqjvcTrWj7yJsy0uH+DEQY07pBDDBGCIRjsA0EmlY9dmzHNpdgBeYV6USLsSspXSKxGPkXFNcIZoOH9HXBVaQ==;ctssjC0IwEHU9coFIX7tOg=="
 ---

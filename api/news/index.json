@@ -2,22 +2,135 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-11-14-update-1-velodyne-aims-to-price-new-self-driving-car-sensor-below-500.md",
-      "title": "UPDATE 1-Velodyne aims to price new self-driving car sensor below $500",
-      "excerpt": "Nov 13 (Reuters) - Velodyne Lidar Inc said on Friday it would introduce a new lidar unit, a key sensor in self-driving cars, with a target price point of less than $500 and no moving parts. Velodyne became a public company in September and is one of ...",
+      "path": "_news/2020-11-14-uber-in-talks-to-sell-atg-self-driving-unit-to-aurora.md",
+      "title": "Uber in talks to sell ATG self-driving unit to Aurora",
+      "excerpt": "Uber’s self-driving car unit, Uber Advanced Technologies Group, was valued at $7.25 billion following a $1 billion investment from Toyota, DENSO and Softbank’s Vision Fund. Now, it’s up for sale and a competing autonomous vehicle technology startup is in talks with Uber to buy",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/velodyne-lidar-tech-idUSL1N2HZ2BS",
-      "originalUrl": "https://www.reuters.com/article/velodyne-lidar-tech-idUSL1N2HZ2BS",
+      "webUrl": "https://techcrunch.com/2020/11/13/uber-in-talks-to-sell-atg-self-driving-unit-to-aurora/",
+      "originalUrl": "https://techcrunch.com/2020/11/13/uber-in-talks-to-sell-atg-self-driving-unit-to-aurora/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 84,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1142303764.jpg?w=1024",
+          "width": 1024,
+          "height": 651,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/13/uber-in-talks-to-sell-atg-self-driving-unit-to-aurora/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/13/uber-in-talks-to-sell-atg-self-driving-unit-to-aurora/amp/",
+      "publishedDateTime": "2020-11-13T14:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-apple-blamed-ibm-and-intel-for-mac-chip-delays-but-tsmc-wont-be-next.md",
+      "title": "Apple blamed IBM and Intel for Mac chip delays, but TSMC won’t be next",
+      "excerpt": "Apple's deals with top chipmakers have historically fizzled out, but its relationship with leading chip fabricator TSMC will likely last.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/13/apple-blamed-ibm-and-intel-for-mac-chip-delays-but-tsmc-wont-be-next/",
+      "originalUrl": "https://venturebeat.com/2020/11/13/apple-blamed-ibm-and-intel-for-mac-chip-delays-but-tsmc-wont-be-next/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/07/tsmc-e1605303213438.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/13/apple-blamed-ibm-and-intel-for-mac-chip-delays-but-tsmc-wont-be-next/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/13/apple-blamed-ibm-and-intel-for-mac-chip-delays-but-tsmc-wont-be-next/amp/",
+      "publishedDateTime": "2020-11-13T13:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-velodyne-aims-to-price-new-self-driving-car-sensor-below-500.md",
+      "title": "Velodyne aims to price new self-driving car sensor below $500",
+      "excerpt": "Velodyne Lidar Inc <VLDR.O> said on Friday it would introduce a new lidar unit, a key sensor in self-driving cars, with a target price point of less than $500 and no moving parts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/velodyne-lidar-tech/update-1-velodyne-aims-to-price-new-self-driving-car-sensor-below-500-idUSL1N2HZ2BS",
+      "originalUrl": "https://www.reuters.com/article/velodyne-lidar-tech/update-1-velodyne-aims-to-price-new-self-driving-car-sensor-below-500-idUSL1N2HZ2BS",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541163997&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1PE",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27T1PP",
       "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T1PP",
-      "publishedDateTime": "2020-11-13T12:48:00-08:00",
+      "publishedDateTime": "2020-11-13T13:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -907,7 +1020,7 @@
       "originalUrl": "https://venturebeat.com/2020/11/13/amazon-shifts-some-alexa-and-rekognition-computing-to-its-own-inferentia-chip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -1095,8 +1208,8 @@
       "title": "This startup wants to fix your biased AI, one dataset at at time",
       "excerpt": "A UK startup has released a new tool that could finally give coders a practical way of identifying bias in their datasets.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/",
+      "webUrl": "https://www.zdnet.com/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/",
+      "originalUrl": "https://www.zdnet.com/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/",
       "featuredContent": null,
       "highlight": null,
       "heat": 87,
@@ -1113,8 +1226,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/",
       "publishedDateTime": "2020-11-12T18:33:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -1139,102 +1252,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-basisai-joins-aws-partner-network-receives-technology-partner-status.md",
-      "title": "BasisAI Joins AWS Partner Network, Receives Technology Partner Status",
-      "excerpt": "BasisAI, a provider of customized, responsible AI applications, has been named an Amazon Web Services (AWS) Select Technology Partner. This places BasisAI in a pool of trusted professional services firms that helps enterprise customers across Southeast Asia design,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/basisai-joins-aws-partner-network-receives-technology-partner-status-1029799381",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/basisai-joins-aws-partner-network-receives-technology-partner-status-1029799381",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/basisai-joins-aws-partner-network-receives-technology-partner-status-1029799381",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/basisai-joins-aws-partner-network-receives-technology-partner-status-1029799381",
-      "publishedDateTime": "2020-11-12T17:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-aws-expands-language-support-for-amazon-lex-and-amazon-polly.md",
-      "title": "AWS expands language support for Amazon Lex and Amazon Polly",
-      "excerpt": "At AWS, our mission is to enable developers and businesses with no prior machine learning (ML) expertise to easily build sophisticated, scalable, ML-powered applications with our AI services. Today, we’re excited to announce that Amazon Lex and Amazon Polly are expanding language support. You can build",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-expands-language-support-for-amazon-lex-and-amazon-polly/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-expands-language-support-for-amazon-lex-and-amazon-polly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/12/LexConsole.jpg",
-          "width": 900,
-          "height": 361,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T16:58:56-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

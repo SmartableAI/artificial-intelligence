@@ -1,28 +1,26 @@
 ---
 category: news
 title: "System brings deep learning to 'internet of things' devices"
-excerpt: "MCUNet is a new MIT system that brings machine learning to microcontrollers. The advance could enhance the function and security of devices connected to the Internet of Things (IoT)."
-publishedDateTime: 2020-11-13T20:00:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-11/miot-sbd111320.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-11/miot-sbd111320.php"
+excerpt: "A new system brings machine learning to microcontrollers. The advance could enhance the function and security of devices connected to the Internet of Things (IoT)."
+publishedDateTime: 2020-11-13T21:39:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2020/11/201113154627.htm"
+webUrl: "https://www.sciencedaily.com/releases/2020/11/201113154627.htm"
 type: article
-quality: 39
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "System brings deep learning to “internet of things” devices"
@@ -40,6 +38,6 @@ related:
         height: 667
         isCached: true
 
-secured: "vD3k4bTSK6N9Yd1YjIP94oUy2RsXM1MNWWXmVdNFi1shAoShIlPATQR6FahJP1nxKyeD7eTsuBWrXRHw4f/oShdDfRjgurJgvPcPSmy/grIxG3M/MhBWEWmxP/DK6tAupmP+KCG0nXC8C1DvBEioQbAOS2KTE/m8x67b1LHcWAac7kwWyOIJbgfo64rVqQGXWldARezehS4yu4KNxOnde9UglKimC7ox5SEimhSSgEwken1BPZaZTynID9+jNtlNXbJGimD/9AjJ14YIXE2o3+1L9yZODEzMl9zh3GFnY4LSkk1+pR0hS93munnoga61dlC6tNfVuRZcTHBsRIvwZjXxUVYYYqeGNYf5zoPav5w=;11+j0fjSqkx8Cf/LDzucCw=="
+secured: "7VQp4GLxOGvnhVrOmAP5khil79s0hSZFW+4rN/hXWivyK1RZvYo4iMrXKCYw4GYM56N7lxhcfbYKMrQixenzsNTYyqj1SZj2ZquinCMXZdeeOfpyJAujR5Zi5dAlrok/NtdjDfV/L2lmz5JyGcMd9P6cXpl5Mx18QChtJHMhSMmv2fBNU7VizYQnwoI+tkON4XmaaCPLYYu1S8Ff555AcB8FBn/8c35ZvvFvbtKnViuSDU1u5a8Mm57NUdr1xB+li1nUwJWcEKvLSjnllLSjyCReKmWdzy+cTM2jmiH3gdNmQRhbiBfEFg3c0YEtNibcJ+ljyc1We5D5vdXKUEyfn99ZosJe+552qFGrjplcaT0=;h4oDQqg9GPDZb4nwGFiQ3A=="
 ---
 

@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-12-at-just-22mb-googles-new-speech-filtering-tech-is-perfect-for-mobile-apps.md",
+      "title": "At just 2.2MB, Google’s new speech filtering tech is perfect for mobile apps",
+      "excerpt": "Google has plenty of apps on your phone that use speech detection from Google Assistant to Google Translate and Pixel’s nifty recorder app. However, one of the challenges these apps face is separating your voice from other people or background noise.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/11/12/at-just-2-2mb-googles-new-speech-filtering-tech-is-perfect-for-mobile-apps/",
+      "originalUrl": "https://thenextweb.com/neural/2020/11/12/at-just-2-2mb-googles-new-speech-filtering-tech-is-perfect-for-mobile-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/share-1-796x418.png",
+          "width": 796,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/11/12/at-just-2-2mb-googles-new-speech-filtering-tech-is-perfect-for-mobile-apps/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/12/at-just-2-2mb-googles-new-speech-filtering-tech-is-perfect-for-mobile-apps/amp/",
+      "publishedDateTime": "2020-11-12T04:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-why-ai-cant-move-forward-without-diversity-equity-and-inclusion.md",
+      "title": "Why AI can’t move forward without diversity, equity, and inclusion",
+      "excerpt": "VentureBeat event, will explore bias, racism, and the lack of diversity across AI product development and management.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/12/why-ai-cant-move-forward-without-diversity-equity-and-inclusion/",
+      "originalUrl": "https://venturebeat.com/2020/11/12/why-ai-cant-move-forward-without-diversity-equity-and-inclusion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/GettyImages-1204561139.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/12/why-ai-cant-move-forward-without-diversity-equity-and-inclusion/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/12/why-ai-cant-move-forward-without-diversity-equity-and-inclusion/amp/",
+      "publishedDateTime": "2020-11-12T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-activists-urge-eu-to-ban-live-facial-recognition-in-public-spaces.md",
       "title": "Activists urge EU to ban live facial recognition in public spaces",
       "excerpt": "Digital rights advocates in five European countries launched a campaign Thursday to spotlight the increasing use of facial recognition and other biometric identification technology across the Continent,",
@@ -1157,110 +1261,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-ai-research-finds-a-compute-divide-concentrates-power-and-accelerates-inequality-in-the-era-of-deep-learning.md",
-      "title": "AI research finds a ‘compute divide’ concentrates power and accelerates inequality in the era of deep learning",
-      "excerpt": "The analysis reviews papers accepted for publication at large AI conferences such as ACL, ICML, and NeurIPS in categories like computer vision, data mining, machine learning, and NLP.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/11/ai-research-finds-a-compute-divide-concentrates-power-and-accelerates-inequality-in-the-era-of-deep-learning/",
-      "originalUrl": "https://venturebeat.com/2020/11/11/ai-research-finds-a-compute-divide-concentrates-power-and-accelerates-inequality-in-the-era-of-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/10/mit1.jpg?fit=800%2C600&strip=all",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/11/ai-research-finds-a-compute-divide-concentrates-power-and-accelerates-inequality-in-the-era-of-deep-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/11/ai-research-finds-a-compute-divide-concentrates-power-and-accelerates-inequality-in-the-era-of-deep-learning/amp/",
-      "publishedDateTime": "2020-11-11T08:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-police-in-london-face-legal-action-over-cancelled-trans-rights-protest.md",
-      "title": "Police in London Face Legal Action Over Cancelled Trans Rights Protest",
-      "excerpt": "The organisers of a protest were threatened with arrest, despite being a political group that had taken health and safety measures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/wx85ay/met-police-legal-action-trans-rights-protest",
-      "originalUrl": "https://www.vice.com/en/article/wx85ay/met-police-legal-action-trans-rights-protest",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com//articles/5fabd8931028e5009b2a11cb/lede/1605103070564-2cdrph1.jpeg?crop=1xw:0.8436319765002098xh;center,center",
-          "width": 3574,
-          "height": 2010,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en/article/wx85ay/met-police-legal-action-trans-rights-protest",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/wx85ay/met-police-legal-action-trans-rights-protest",
-      "publishedDateTime": "2020-11-11T08:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

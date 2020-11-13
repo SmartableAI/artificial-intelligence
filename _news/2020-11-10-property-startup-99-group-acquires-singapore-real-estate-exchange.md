@@ -7,7 +7,7 @@ originalUrl: "https://www.techinasia.com/property-platform-99-group-acquires-sin
 webUrl: "https://www.techinasia.com/property-platform-99-group-acquires-singapore-real-estate-exchange#!"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -22,15 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Singapore edtech startup LingoAce banks $6m in Sequoia India-led round"
-    excerpt: "The language learning startup said it plans to use the new funds for its Southeast Asian expansion plans and the further development of its platform."
-    publishedDateTime: 2020-11-09T05:51:00Z
-    webUrl: "https://www.techinasia.com/singapore-edtech-startup-lingoace-banks-6m-sequoiaindialed"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 32
   - title: "AMTD’s Singapore Solidarity Fund invests $6.4m in 5 fintech startups in its first batch"
     excerpt: "The evaluation process for a second batch of investments – which aims to support Singapore’s fintech community – is already underway."
     publishedDateTime: 2020-11-09T11:18:00Z

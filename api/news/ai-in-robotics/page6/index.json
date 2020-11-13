@@ -2,6 +2,214 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-01-how-the-pandemic-has-reshaped-ai-robotics-and-automation.md",
+      "title": "How the pandemic has reshaped AI, robotics, and automation",
+      "excerpt": "Tonya Hall talks with Dr. Kate Darling, research specialist at the MIT Media Lab, to learn more about how the future of AI, robotics, and automation was reshaped following the COVID-19 pandemic outbreak.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/how-the-pandemic-has-reshaped-ai-robotics-and-automation/",
+      "originalUrl": "https://www.zdnet.com/video/how-the-pandemic-has-reshaped-ai-robotics-and-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/10/01/46c45d69-b545-4832-8436-707c403c6393/thumbnail/370x278/f9e6564e767b3b87b7f3eb35bb3c3e1a/20201001-j2-google.jpg",
+          "width": 370,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-01T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-deckrobot-raises-15-million-to-generate-powerpoint-slides-using-ai.md",
+      "title": "DeckRobot Raises $1.5 Million To Generate PowerPoint Slides Using AI",
+      "excerpt": "Making professional, company-approved Powerpoint slides is difficult for the average employee. DeckRobot is an artificial intelligence add-on to Microsoft Office’s PowerPoint to all a user to create approvable slide decks in one click.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/frederickdaso/2020/10/01/deckrobot-raises-15-million-to-generate-powerpoint-slides-using-ai/",
+      "originalUrl": "https://www.forbes.com/sites/frederickdaso/2020/10/01/deckrobot-raises-15-million-to-generate-powerpoint-slides-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f709683ae01957e6150d240%2F0x0.jpg",
+          "width": 1199,
+          "height": 775,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/frederickdaso/2020/10/01/deckrobot-raises-15-million-to-generate-powerpoint-slides-using-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2020/10/01/deckrobot-raises-15-million-to-generate-powerpoint-slides-using-ai/amp/",
+      "publishedDateTime": "2020-10-01T05:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-executives-say-artificial-intelligence-will-boost-productivity-but-their-employees-arent-so-sure.md",
+      "title": "Executives Say Artificial Intelligence Will Boost Productivity; But Their Employees Aren’t So Sure",
+      "excerpt": "For example, while 82 percent of executives see their companies bringing in robot and SI trainers over the next 15 years, compared to only 44 percent of employees. Business leaders see artificial intelligence as taking a prominent role within their organizations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/09/28/executives-say-technology-will-boost-productivity-but-their-employees-arent-so-sure/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2020/09/28/executives-say-technology-will-boost-productivity-but-their-employees-arent-so-sure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1190049247%2F0x0.jpg",
+          "width": 1200,
+          "height": 477,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/09/28/executives-say-technology-will-boost-productivity-but-their-employees-arent-so-sure/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/09/28/executives-say-technology-will-boost-productivity-but-their-employees-arent-so-sure/amp/",
+      "publishedDateTime": "2020-09-30T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-elon-musk-put-a-computer-interface-in-a-pigs-brain-could-future-ai-turn-animals-against-us.md",
+      "title": "Elon Musk put a computer interface in a pig’s brain. Could future AI turn animals against us?",
+      "excerpt": "It’s been a month since Elon Musk and Neuralink trotted out a cyborg pig to show off the company’s progress toward a brain computer interface (BCI). I still see Gertrude in my nightmares. The big idea behind Neuralink is the development of a brain implant that will allow everybody to control computers with their minds.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/09/30/elon-musk-put-a-computer-interface-in-a-pigs-brain-could-future-ai-turn-the-animals-against-us/",
+      "originalUrl": "https://thenextweb.com/neural/2020/09/30/elon-musk-put-a-computer-interface-in-a-pigs-brain-could-future-ai-turn-the-animals-against-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/animalfarm-796x448.jpg",
+          "width": 796,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/09/30/elon-musk-put-a-computer-interface-in-a-pigs-brain-could-future-ai-turn-the-animals-against-us/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/09/30/elon-musk-put-a-computer-interface-in-a-pigs-brain-could-future-ai-turn-the-animals-against-us/amp/",
+      "publishedDateTime": "2020-09-30T14:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-neuromaker-stem-announces-partnership-with-vinci-robotics-academy.md",
       "title": "NeuroMaker STEM Announces Partnership with Vinci Robotics Academy",
       "excerpt": "NeuroMaker, the STEM education arm of Somerville based company BrainCo announces their partnership with Vinci Robotics Academy, a 501(c)(3) non-profit organization that operates STEAM educational programs in the greater Boston area.",

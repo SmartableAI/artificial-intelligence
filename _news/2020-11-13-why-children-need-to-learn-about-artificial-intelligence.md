@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/juliabrodsky/2020/11/12/why-children-ne
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/juliabrodsky/2020/11/12/why-children-need-to-learn-about-artificial-intelligence/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI, Machine Learning to Aid in Airport Sanitation Efforts"
+    excerpt: "The Albany International Airport in New York has partnered with General Electric on technology that helps sanitation crews monitor cleanliness and frequently touched surfaces throughout the facility."
+    publishedDateTime: 2020-11-13T22:32:00Z
+    webUrl: "https://www.govtech.com/health/Albany-NY-Airport-Updates-App-with-Health-Sanitation-Measures.html"
+    ampWebUrl: "https://www.govtech.com/health/Albany-NY-Airport-Updates-App-with-Health-Sanitation-Measures.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/health/Albany-NY-Airport-Updates-App-with-Health-Sanitation-Measures.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_530657836.jpg"
+        width: 940
+        height: 627
+        isCached: true
   - title: "Why Humans Still Need to be Involved in Language-Based AI"
     excerpt: "In this contributed article, Christine Maroti, AI Research Engineer at Unbabel, believes that humans still need to be in the loop in most practical AI applications, especially in nuanced areas such as language."
     publishedDateTime: 2020-11-11T14:17:00Z

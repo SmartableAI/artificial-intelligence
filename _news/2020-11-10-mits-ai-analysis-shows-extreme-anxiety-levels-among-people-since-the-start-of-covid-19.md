@@ -85,6 +85,15 @@ related:
         width: 1920
         height: 1032
         isCached: true
+  - title: "Machine learning models to predict critical illness and mortality in COVID-19 patients"
+    excerpt: "Researchers have developed machine learning models that predict the likelihood of critical events and mortality in COVID-19 patients within clinically relevant time windows."
+    publishedDateTime: 2020-11-13T22:38:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/11/201110151134.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 41
   - title: "Students searching for internships during the COVID pandemic must be prepared for AI-driven interviews"
     excerpt: "We believe that every college and university student and recent graduate deserves a great part-time, seasonal, internship, and entry-level job!"
     publishedDateTime: 2020-11-12T21:50:00Z

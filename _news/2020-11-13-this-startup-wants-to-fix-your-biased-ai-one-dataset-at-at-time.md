@@ -3,10 +3,10 @@ category: news
 title: "This startup wants to fix your biased AI, one dataset at at time"
 excerpt: "A UK startup has released a new tool that could finally give coders a practical way of identifying bias in their datasets."
 publishedDateTime: 2020-11-13T02:33:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/"
+originalUrl: "https://www.zdnet.com/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/"
+webUrl: "https://www.zdnet.com/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/"
 type: article
 quality: 87
 heat: 87
@@ -29,6 +29,6 @@ images:
     height: 675
     isCached: true
 
-secured: "PfpC30qenb+39xl9jbLywpDXv4oy4TbmJS4eKFis/IL37xgwcnkUkJbcsJeb1z5R3ypPeUe5rM/bjAvk+QZwdTxrZoPj553KlD7b1JR5ygf851d13zvTTaMa72vi4wangau/I7DQq83s9StJur3Z9/VSdsbgJ1sFK7nlrfiG53koiEgkMwxf8o8OHtfK5StdMYsw5LOEfGjWpPFfrpsZ85DBg2D2EjfV3MO3wJTxJ+P79yp+zdwFQcl9WP5hO7uImKQ5JDyOjZj+YJr3xV2osEOmX5lZ0toR9bYUu43KNUaasqc5h+ZPObYdG1WTlmROKpGT6GbTor2j5BnObpI69D4QjlR7udzDbNNpaTcJKSI=;qe9xamf4Dj9m2fS2lFlKIg=="
+secured: "ULn/Q8TzT4chp73ROeMLe9Mw4JIe+/pwthQEIWSiDLHeXmgyDan50CoUFMpMNUvHC6bXkDTwRq5gzSzZW0CgkDOsfYSAVReoKuPy+Hod9w80nPqdbKfMJxSDmFTW8vWJ2nvhyN+QJ2jAu3l7A1zNuqKYocR0rtLVRAFuS0Ee2qbefAjT7u95WMT+5GVk0ndHFweypAKyB8X8RMEeV+CnCXha7N0Xh4BCc+sbjtTgAjftiJUZapJUYTezr38yZw+bihCkxyysHQ5vJPsspdYtxJtQokg+1GDQ98g6WFgUYd/UdabW6Qb79OfPpSsGzDrv9ChE6C+BX3HXUL8BiPWUiNo5ZpV1LFseisYA/e1po4c=;XlBXEJlBspV5UGdeQYX+Ng=="
 ---
 

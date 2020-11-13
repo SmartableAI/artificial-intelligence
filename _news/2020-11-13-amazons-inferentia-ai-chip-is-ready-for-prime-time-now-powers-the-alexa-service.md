@@ -108,6 +108,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Amazon moving facial recognition and voice processing off of Nvidia chips"
+    excerpt: "Amazon is switching to using its own custom chips to provide the cloud processing for its Alexa voice assistant service and facial recognition service Rekognition, Reuters reports, in an attempt"
+    publishedDateTime: 2020-11-13T21:55:00Z
+    webUrl: "https://www.biometricupdate.com/202011/amazon-moving-facial-recognition-and-voice-processing-off-of-nvidia-chips"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 40
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/06/11110622/amazon-biometric-facial-recognition.jpg"
+        width: 810
+        height: 405
+        isCached: true
   - title: "Amazon moving some Alexa, facial recognition computing to in-house chips"
     excerpt: "Amazon (AMZN -1.0%) is moving part of its Alexa computing from Nvidia (NVDA +0.9%) to the in-house Inferentia chips.The Inferentia chips will be used when an Echo user's voice query is sent to an Amazon data center for processing and answering in a text format that then has to be converted to audio."
     publishedDateTime: 2020-11-12T19:00:00Z
