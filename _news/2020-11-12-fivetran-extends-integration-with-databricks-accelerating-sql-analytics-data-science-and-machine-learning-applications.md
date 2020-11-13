@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Fivetran Extends Integration With Databricks, Accelerating SQL Analytics, Data Science and Machine-Learning Applications"
-excerpt: "Fivetran, the leading provider of automated data integration, today announced advancements in its integration with Databricks, the Data and AI Company"
-publishedDateTime: 2020-11-12T15:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201112005437/en/Fivetran-Extends-Integration-With-Databricks-Accelerating-SQL-Analytics-Data-Science-and-Machine-Learning-Applications"
-webUrl: "https://www.businesswire.com/news/home/20201112005437/en/Fivetran-Extends-Integration-With-Databricks-Accelerating-SQL-Analytics-Data-Science-and-Machine-Learning-Applications"
+excerpt: "Fivetran, the leading provider of automated data integration, today announced advancements in its integration with Databricks, the Data and AI Company, extending the companies’ strategic partnership to power the modern data stack."
+publishedDateTime: 2020-11-12T11:01:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-science-north-america-oakland-data-management-57cceda099c04b3ba467ab0a2c42019b"
+webUrl: "https://apnews.com/press-release/business-wire/technology-science-north-america-oakland-data-management-57cceda099c04b3ba467ab0a2c42019b"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Databricks launches SQL Analytics"
@@ -36,6 +42,6 @@ related:
         height: 2004
         isCached: true
 
-secured: "6odmItvOTrjSWoQkyjtNtCkGnU0Z08JkgZqSR6AO96TjFDLTOODhd/eH63GgkzwSj+Gf2XxQktYnckhs3xNHj4Djxuyf8Sbc2t8iyFgfVUI+13cQ9Dd6a5r5RZHtXjFKGQCp/SoMeU7zz+m6WcvqKi7sbHN2C3z32opYD9Flyfe0ybwLGr0SVwsRzP9lS7qIffasWrWIJw/bWRyS+JlzyEU9REaozLqVVopnP6j8CthiVhPh/GCNzLNU8stLuoLVwv5tdzPSQGgJ918ERr4IzWjNcAWljLPMyVaqZkzuxGmVt6ZCbNbYkIg2/+wTVMbvqFwmmRNVWPmIbL5UfXu53e+pGgj2MDHAsXNzaqoWgEc=;Eshms85T/XJ5sgXYnV0GDw=="
+secured: "7K35PL4P1tsTEYMGCF849fg9J/1WE2IZ8JkyQW8iDPP9/KTzov/OW2x/7cKfl240UCbFT4r26xOj0+usG5EkJj2tTVwGArcV64v1hLSYazvwbeA58XSccT0l9dYcb+UAseh8WN102OJIEb0Gj+0IMziPFVPwbKMxRsbYnq+v6AkUMOBnuxY4DAeS51y1JgjOZnTT/B6RWkkgZ+TeyBev9Ipe7fHSsXE9SSMT+OuNxCpQvKpiCas7++v1fdHdOU6EbHV/vB+7RAzn4mu7rJur+8TaB+QLSA6IBX6ZmmjN/54xXXaXsNWQK18C/dC4vwKdWFRG2Q4/aU40WW+16yOsYMlnWefeaRnU/j8UwJttf64=;+FGV3e78ooLXlmYY7pCmzg=="
 ---
 

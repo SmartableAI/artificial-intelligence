@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 723
         isCached: true
+  - title: "VW boosts spending on electric, self-driving cars to $86 billion"
+    excerpt: "Volkswagen Group is boosting spending on technologies for electric and self driving cars, while increasing production of EVs in its German home market. Investments in battery-powered vehicles, autonomous driving and related future technologies will rise to about 73 billion euros ($86 billion),"
+    publishedDateTime: 2020-11-13T14:49:00Z
+    webUrl: "https://europe.autonews.com/automakers/vw-boosts-spending-electric-self-driving-cars-86-billion"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Audi%20Artemis%20web.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "B3foaRlEjtEdfclEzYoCKf/Hl5FCkU26tIqNVFO4N52H7pIl+G/4gKxVZFsbZl+fgY/UaD5atbCCo1tEqLj37j31B3NYN8+BU2cP7WJpKpPC/lOB3jnGFNI+tKKHofPGQ7DRewQw2dd31Ta6NUuDDTXe48X3IQgyMfpSedMPxJTOpE/o871BjDxLRVNNq6KM8pujgCGUyawXT/0jIEaIu0gthX8ztVq61/a938tbc1fdFUoYzTzncem9jd36FoP3j6FneCna33RZdpBhlzSY0FOeMHS8s39SMXbiwj5Bsr7SCDDyr4YP/DnSyhJnRbvqMR1XdZt7lVqMPr6wV3eAxvgNXThKr6uqdkgF3eyxffWYk0ao5ivoDZf87r5AE7wn6F6zkiq/t1gLnTWDEe7iHskuB3LUqardJgNZ1g1lrQk1bqXh021qP/7cxokR7/KL0lGtip8ErUkTVGvvF4gIbhXXM+t3sejqgTC83v5aJTL7RiIksKH5RiLJo3B2OyfoSjD1QnFKY+MuYR0Bz79+AQ==;M4UeUZv05UjksVh6r+BI+g=="
 ---

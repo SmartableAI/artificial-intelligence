@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Daimler will shrink with shift to electric, autonomous cars: CEO"
-excerpt: "Daimler will be a smaller company five years from now, focused on capturing recurring revenues with software-based services as Mercedes-Benz seeks to redefine luxury in an era of electric self-driving cars,"
+excerpt: "Daimler <DAIGn.DE> will be a smaller company five years from now, focused on capturing recurring revenues with software-based services as Mercedes-Benz seeks to redefine luxury in an era of electric self-driving cars,"
 publishedDateTime: 2020-11-12T22:34:00Z
-originalUrl: "https://www.reuters.com/article/us-daimler-china-idUKKBN27S2PN"
-webUrl: "https://www.reuters.com/article/us-daimler-china-idUKKBN27S2PN"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27S2NW"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27S2NW"
+originalUrl: "https://www.reuters.com/article/daimler-china/daimler-will-shrink-with-shift-to-electric-autonomous-cars-ceo-idUSL8N2HY7RO"
+webUrl: "https://www.reuters.com/article/daimler-china/daimler-will-shrink-with-shift-to-electric-autonomous-cars-ceo-idUSL8N2HY7RO"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S2QA"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S2QA"
 type: article
 quality: 89
 heat: 89
@@ -30,6 +30,6 @@ images:
     height: 545
     isCached: true
 
-secured: "6AjQwHHBTu8rVjgXSx0Gp7NW5Whm2a7/7HUKnXumYPtTU8sdytd9N3iS7WX55uK0kMx3LfQI2bqtSQmj6mOfCof2dNFelmS37m8Uw9LOkeICyXFbFehGBhV5nqM8Fztn+DUgov1fD55Bjf9e6uMW3wvQnVrLxRXGl6c3W8B6kwseZ5NRButxyUeshUoG0W35g78NEQYalZGXUEbavxUWXrAX82Zg7jGob4hRvtGZrKWSPQ3pnFh5McTEa+wd44e9HtUxrjKCSiw/z7EPXMlz54/P6MzcP7g4ix0tNZnlmDgxM6KhYWJpdAk+wkBj+G24Zi4ewN7Gjef578Scrnxxg893xEgh4GZK8mXxyZ0ELnY=;vq+ab/Pqx7iOhnKExIc3/A=="
+secured: "bbxvtb401VvInR+myvRcFei0KeUVIesGweiHvHWG7X8ZUKOWvwzdInrX46ldZBZxjtdSTBW20YqIG/vwbAsBMCwoejJqSbGo9Myv89GTlKXsHwA59l6+NCKDbpcAyG2oaSfpKS+nG1Lj1HN8IWi6tvgxUc8RgeDY4qAd428XpBA7gcm1NrWTub3JhrZn2fmcSfqR4CBcelXRaYmOKSgnFzfvHGt72PGPZkW+BU5KypXpK3gatD1KGfGBBe+OnGI0fMJ7ytNS41+JnLD/UaD2Js+TmS1yywfyaM3WFPCY0bQ/r1NuVvBWcHPkoAHxwJas8yGoW3QG8EbgWJjYjc7040aDqBrmJ9odZe0lJhpin1w=;Yh/Q/VAl8+4TajClUJWhWw=="
 ---
 

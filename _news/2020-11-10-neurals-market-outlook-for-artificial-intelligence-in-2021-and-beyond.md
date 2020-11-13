@@ -8,8 +8,8 @@ webUrl: "https://thenextweb.com/neural/2020/11/09/neurals-market-outlook-for-art
 ampWebUrl: "https://thenextweb.com/neural/2020/11/09/neurals-market-outlook-for-artificial-intelligence-in-2021-and-beyond/amp/"
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/09/neurals-market-outlook-for-artificial-intelligence-in-2021-and-beyond/amp/"
 type: article
-quality: 89
-heat: 109
+quality: 189
+heat: 209
 published: true
 
 provider:
@@ -62,6 +62,6 @@ related:
         height: 450
         isCached: true
 
-secured: "c+msq8UV3+2bw160lDpZQt+Klayv9lrtNnOkgIEwOwf6ORu5KXrCnta53UVSsnvxwW82Lt7UUEM+yEALSIJ3yDXLnP3XPSHUVlA7xwYKzKwClkl1hgt9YVOd5F7yyPUtb3BXWJH3LJROO3LlPkw2znPWMyCQpWQSlcJUt7yBnNPhFGv1u+UO+DgRh011NQ+l9pih46JS7guPjff1OSNcszHf878VVAKtZoA+YU97415FyYhL/q201IeftjB4vc9aFKS1CqHp9jvLXlnjKIi28vcCeN0oJZUBgQE/ucLsvZzbz4ZcI3cRWw3tcU6+P/GNRSxmdU3oHFxk12J/UdYrwdajH4kL+6TZxyexcAXo9ndmLQo30zA/1TKULM49qcw0IbS9XL5L9gp+3JYUjrsR1S1SHkcPegDZLnnYL58naTpckNcZ1efI913cwOmYwlpXlokeD3CBPOv77wS79LGYYBbuvbtF87E5ZTZ1onUKpyTcomcf2U4/r+8Q9o8+NpHK+G505E4Q7xNhIpB/ElNWLw==;m0CWtQGFyBNd8d3QL92UhA=="
+secured: "uyyw+q8qCbdKAGOdzqxL7qOk45mU6PFegx0OGML+N9zX+y9hrRu4JopG6CWxdW3IoRAjcVKeRwAV81wQVukglh15SodCqnsaIlq8dzkcGBMcNvcaBExXDBD8DMiV66ibkHFHEMT8gj1idNySozomk6wy6xFk/tLYHOpqxC7v6hHj+4v4mWmbSLjNkWTg+Ss9x9j/eaVH78pi62hg0wwrszwKOmaCqIz9AuqaZoz+IGvoNV39F8V+rPp6JlkxUWxpaW9JiY2ln2VlioKD4+xFtZHuuWfDasrKWs99qeemnj5Lf6aCK4Esll+H7BnfsQqC7j0vD7izfVWE5SCf9yYBJ2yEIFSJ0+RIBJXd3pBAV+1MaEUZ1UMBiIC5UaKTRizLO85z0uRPlq1PULbke8E9PSJ0sDNGYA27nK+aT6a2LXn474GR8Vp3OEdY4UW3GSBCw7OmphktL6IFktIJGuvdEGTgULm0qFybSJBLeXV0Y8zYEoIFK0PdkekaAGsVmbdQhF/wDnZY4w/unw8M7N4M/cJ1WGNZ82rZ1eM2n7d+TvE=;vF7Snh8tmOUxPJrU8B2SiQ=="
 ---
 

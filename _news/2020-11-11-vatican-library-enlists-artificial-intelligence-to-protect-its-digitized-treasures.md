@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tag: Vatican Library artificial intelligence"
+    excerpt: "The Vatican is likely the last place that comes to mind when thinking about the latest in AI security technology. However, as the 600-year-old institution moves to digitize 80,000 manuscripts from its collection,"
+    publishedDateTime: 2020-11-13T10:32:00Z
+    webUrl: "https://www.qrcodepress.com/tag/vatican-library-artificial-intelligence/"
+    type: article
+    provider:
+      name: QR Code Press
+      domain: qrcodepress.com
+    quality: 37
+    images:
+      - url: "https://www.qrcodepress.com/wp-content/uploads/2020/11/AI-security-Vatican-Library.jpg"
+        width: 875
+        height: 501
+        isCached: true
   - title: "The 600-Year-Old Vatican Library Is Using Artificial Intelligence to Ward Off Hackers Targeting Its Digital Collections"
     excerpt: "The Vatican Library is digitizing its collection of more than 80,000 manuscripts, and is now using AI to protect itself from hackers."
     publishedDateTime: 2020-11-09T16:52:00Z

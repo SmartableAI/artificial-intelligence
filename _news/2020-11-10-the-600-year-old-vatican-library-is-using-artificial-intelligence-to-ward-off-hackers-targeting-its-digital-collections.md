@@ -9,7 +9,7 @@ ampWebUrl: "https://news.artnet.com/art-world/vatican-library-artificial-intelli
 cdnAmpWebUrl: "https://news-artnet-com.cdn.ampproject.org/c/s/news.artnet.com/art-world/vatican-library-artificial-intelligence-1921989/amp-page"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tag: Vatican Library artificial intelligence"
+    excerpt: "The Vatican is likely the last place that comes to mind when thinking about the latest in AI security technology. However, as the 600-year-old institution moves to digitize 80,000 manuscripts from its collection,"
+    publishedDateTime: 2020-11-13T10:32:00Z
+    webUrl: "https://www.qrcodepress.com/tag/vatican-library-artificial-intelligence/"
+    type: article
+    provider:
+      name: QR Code Press
+      domain: qrcodepress.com
+    quality: 37
+    images:
+      - url: "https://www.qrcodepress.com/wp-content/uploads/2020/11/AI-security-Vatican-Library.jpg"
+        width: 875
+        height: 501
+        isCached: true
   - title: "Vatican Library Enlists Artificial Intelligence to Protect Its Digitized Treasures"
     excerpt: "The archive employs A.I. modeled on the human immune system to guard offerings including a rare manuscript of the \"Aeneid\""
     publishedDateTime: 2020-11-11T12:37:00Z

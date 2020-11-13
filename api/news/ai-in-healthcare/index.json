@@ -92,8 +92,8 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -264,7 +264,7 @@
       "originalUrl": "https://venturebeat.com/2020/11/10/biotech-accelerating-innovation-in-health-care/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {

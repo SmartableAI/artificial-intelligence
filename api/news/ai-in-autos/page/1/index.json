@@ -57,10 +57,10 @@
     {
       "path": "_news/2020-11-13-daimler-will-shrink-with-shift-to-electric-autonomous-cars-ceo.md",
       "title": "Daimler will shrink with shift to electric, autonomous cars: CEO",
-      "excerpt": "Daimler will be a smaller company five years from now, focused on capturing recurring revenues with software-based services as Mercedes-Benz seeks to redefine luxury in an era of electric self-driving cars,",
+      "excerpt": "Daimler <DAIGn.DE> will be a smaller company five years from now, focused on capturing recurring revenues with software-based services as Mercedes-Benz seeks to redefine luxury in an era of electric self-driving cars,",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-daimler-china-idUKKBN27S2PN",
-      "originalUrl": "https://www.reuters.com/article/us-daimler-china-idUKKBN27S2PN",
+      "webUrl": "https://www.reuters.com/article/daimler-china/daimler-will-shrink-with-shift-to-electric-autonomous-cars-ceo-idUSL8N2HY7RO",
+      "originalUrl": "https://www.reuters.com/article/daimler-china/daimler-will-shrink-with-shift-to-electric-autonomous-cars-ceo-idUSL8N2HY7RO",
       "featuredContent": null,
       "highlight": null,
       "heat": 89,
@@ -77,8 +77,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN27S2NW",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27S2NW",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27S2QA",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S2QA",
       "publishedDateTime": "2020-11-12T14:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -272,7 +272,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/11/top-reasons-the-investment-spigot-is-reopening-for-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -532,7 +532,7 @@
       "originalUrl": "https://thenextweb.com/neural/2020/11/09/neurals-market-outlook-for-artificial-intelligence-in-2021-and-beyond/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 209,
       "tags": null,
       "images": [
         {

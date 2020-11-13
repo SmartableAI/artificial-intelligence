@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Fintech Market 2020 Key Players Update, Regional Economy, Development Plans and Forecast to 2026"
+    excerpt: "Comserve Inc. / -- Global Artificial Intelligence (AI) in Fintech Market is valued approximately USD 2.6 billion"
+    publishedDateTime: 2020-11-13T13:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-2020-key-players-update-regional-economy-development-plans-and-forecast-to-2026-2020-11-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Operational Intelligence (OI) Market 2020-2025: Size, Share, Trends and Research Report"
     excerpt: "According to the latest report by IMARC Group, titled \"Operational Intelligence (OI) Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025\", the global operational intelligence (OI) market grew at a CAGR of around 13% during 2014-2019."
     publishedDateTime: 2020-11-11T12:05:00Z

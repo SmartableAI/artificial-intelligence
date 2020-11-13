@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-may
 webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-may-see-a-big-move-emerging-players-microsoft-google-salesforce-2020-11-12"
 type: article
 quality: 77
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Passport 360 Now Available in the Microsoft Azure Marketplace"
+    excerpt: "JOHANNEBSURG Gauteng South Africa November 13 2020 Passport 360 today announced the availability of its product of the same name in the Microsoft Azure Marketplace an online store providing applications and services for use on Microsoft Azure Passport 360 customers"
+    publishedDateTime: 2020-11-13T13:02:00Z
+    webUrl: "https://www.openpr.com/news/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace"
+    ampWebUrl: "https://www.openpr.com/amp/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 89
+    images:
+      - url: "https://cdn.openpr.com/T/b/Tb13885641_g.jpg"
+        width: 800
+        height: 800
+        isCached: true
   - title: "AI Image Recognition Market is Gaining Momentum with key players Google, IBM, Intel, Microsoft"
     excerpt: "Latest Report Available at Advance Market Analytics, \"AI Image Recognition Market\" provides pin-point analysis for"
     publishedDateTime: 2020-11-10T09:41:00Z
@@ -43,6 +59,34 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Microsoft Custom Translator pushes the translation quality bar closer to human parity"
+    excerpt: "The Custom Translator journey to be on the leading edge of machine translation technology continues. In early August 2020, we started our Custom Translator upgrade from Long Short-Term Memory (aka LSTM) based neural machine translation architecture (or V1) to our Microsoft Translator’s state-of-the-art Transformer based architecture (or V2)."
+    publishedDateTime: 2020-11-12T21:57:00Z
+    webUrl: "https://www.microsoft.com/en-us/translator/blog/2020/11/12/microsoft-custom-translator-pushes-the-translation-quality-bar-closer-to-human-parity/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 32
+    images:
+      - url: "https://www.microsoft.com/en-us/translator/blog/wp-content/uploads/sites/13/2020/11/BlogHero.jpg"
+        width: 1411
+        height: 665
+        isCached: true
+  - title: "AVEVA to collaborate with Microsoft to provide cloud platform and domain expertise for industrial sector organizations"
+    excerpt: "AVEVA, a global leader in engineering and industrial software, announced that it will be extending its long-standing strategic collaboration with Microsoft to focus on accelerating digital transformation in the industrial sector."
+    publishedDateTime: 2020-11-11T17:18:00Z
+    webUrl: "https://www.hydrocarbonprocessing.com/news/2020/11/aveva-to-collaborate-with-microsoft-to-provide-cloud-platform-and-domain-expertise-for-industrial-sector-organizations"
+    type: article
+    provider:
+      name: Hydrocarbon Processing
+      domain: hydrocarbonprocessing.com
+    quality: 30
+    images:
+      - url: "https://www.hydrocarbonprocessing.com/media/12882/aveva-digital-reliability-platform.png"
+        width: 1280
+        height: 757
         isCached: true
 
 secured: "2McqY1TAgRMGMTESYn3czfR1dUCuQrP1OnjilXNVKABNwUlRbkUlPEaupwg2TeA53FT4FyF6mXSEYaEf1PBC+5CvJYq6bIKa9PnOtWtPV1ZdwSpr61WwmvBwy71uWXAIVvpfTAcPTf8YjasO+KMNSmuE/h05q+O8GnBxqy3/oM2z750O2I2FZUF3ikXcsZcwoszKn4vGtepS6gf7mODwMbWeP4DfZWa/dBibQiDQeRkkE2IV4+O0Z4/V4oUfjk+spMe4OTVD8TsHWehZbhyo4eiyeJpbUpGYvTur26EYu6fvkPFP9135kpZp1d2ki1mgunEUV+AgnuomSkoqGAhHdUvRn18atFWXWv4tlIEpFXU=;lHp060IBL0+qzkBR/VXnyQ=="

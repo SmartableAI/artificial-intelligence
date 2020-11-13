@@ -34,7 +34,7 @@ related:
     provider:
       name: The Next Web
       domain: thenextweb.com
-    quality: 89
+    quality: 189
     images:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/binarystock-796x520.jpg"
         width: 796

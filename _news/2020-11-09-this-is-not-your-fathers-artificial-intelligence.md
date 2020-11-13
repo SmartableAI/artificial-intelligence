@@ -9,7 +9,7 @@ ampWebUrl: "https://federalnewsnetwork.com/federal-tech-talk/2020/11/this-is-not
 cdnAmpWebUrl: "https://federalnewsnetwork-com.cdn.ampproject.org/c/s/federalnewsnetwork.com/federal-tech-talk/2020/11/this-is-not-your-fathers-artificial-intelligence/amp/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 300
     height: 300
     isCached: true
+
+related:
+  - title: "How to put AI to work in your company"
+    excerpt: "AI is now prevalent in major companies and services that we use every day. From product recommendations to personalized ads, from voice assistants to image recognition, AI helps us in hundreds of ways."
+    publishedDateTime: 2020-11-13T14:19:00Z
+    webUrl: "https://dataconomy.com/2020/11/how-to-put-ai-to-work-in-your-company/"
+    type: article
+    provider:
+      name: dataconomy.com
+      domain: dataconomy.com
+    quality: 37
+    images:
+      - url: "https://dataconomy.com/wp-content/uploads/2020/11/science-in-hd-7mAYDCamwrQ-unsplash-620x373.jpg"
+        width: 620
+        height: 373
+        isCached: true
 
 secured: "GI5tz/PY/xVMkbfDHcvnIcIsmUcfAoy+1T66b7O+S/COTkIgQ5c8bDnCHsUtImIWIY96Mi16Whchr/vx9SkiGyxoQL1ScQ6jONJxfN3r8+SgHkK6CVVaLEsOJllvv3C3qmqPWoAQWsHb4IIa1pfmrOIivWU12AWUQzH+GZuYdP9sTPgox9HvbkUlSay1RTovzgvCTgNC2iyc20NKZCwioCwuU4fJYH/RP1NifCoakAFy6NVjDywLxskk3/6mwO2xJp79JbVZ3a0sfoBoRB9+U/vxkzZSYTR2QjVeBEO5JS1+0Hmw9VyCa+3HK7D44SRVZxLCU/bNlDeG7/5k/KMYZsxfSp+obNler5euLWmk+vE=;gPNDOdIadlh2xqes2cxHAg=="
 ---

@@ -2,6 +2,204 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-10-walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars.md",
+      "title": "Walmart and Cruise launch pilot to deliver orders via self-driving cars",
+      "excerpt": "As part of the pilot, which is scheduled to begin in early 2021, customers will be able to place orders from a Walmart and have them delivered via one of Cruise’s electric self-driving Chevy Bolts.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars/",
+      "originalUrl": "https://venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 294,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Walmart-Cruise-e1604958243157.png?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars/amp/",
+      "publishedDateTime": "2020-11-10T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-machine-learning-advances-materials-for-separations-adsorption-and-catalysis.md",
+      "title": "Machine learning advances materials for separations, adsorption and catalysis",
+      "excerpt": "An artificial intelligence technique—machine learning—is helping accelerate the development of highly tunable materials known as metal-organic frameworks (MOFs) that have important applications in chemical separations,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2020-11-machine-advances-materials-adsorption-catalysis.html",
+      "originalUrl": "https://techxplore.com/news/2020-11-machine-advances-materials-adsorption-catalysis.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/crystalline.jpg",
+          "width": 1920,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2020-11-machine-advances-materials-adsorption-catalysis.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-11-machine-advances-materials-adsorption-catalysis.amp",
+      "publishedDateTime": "2020-11-10T04:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-employers-add-more-ai-to-the-interview-process-how-to-handle-it.md",
+      "title": "Employers Add More AI To The Interview Process. How To Handle It",
+      "excerpt": "If you are tech-challenged, you will likely struggle with these new AI (Artificial Intelligence) advancements in the interviewing process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robinryan/2020/11/10/employers-add-more-ai-to-the-interview-process-how-to-handle-it/",
+      "originalUrl": "https://www.forbes.com/sites/robinryan/2020/11/10/employers-add-more-ai-to-the-interview-process-how-to-handle-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa9897f61d7675e6f9fb699%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robinryan/2020/11/10/employers-add-more-ai-to-the-interview-process-how-to-handle-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robinryan/2020/11/10/employers-add-more-ai-to-the-interview-process-how-to-handle-it/amp/",
+      "publishedDateTime": "2020-11-10T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-how-to-quantify-the-benefits-of-ai-driven-shelf-digitization.md",
+      "title": "How To Quantify The Benefits Of AI-Driven Shelf Digitization",
+      "excerpt": "To build a business case with attractive ROI, retail decision-makers will need to understand the impact of these in-store automation solutions on operational practices and ensure they choose the right solution for their store's needs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/11/10/how-to-quantify-the-benefits-of-ai-driven-shelf-digitization/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/11/10/how-to-quantify-the-benefits-of-ai-driven-shelf-digitization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa9beabfda4d6a09f4b37eb%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/11/10/how-to-quantify-the-benefits-of-ai-driven-shelf-digitization/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/11/10/how-to-quantify-the-benefits-of-ai-driven-shelf-digitization/amp/",
+      "publishedDateTime": "2020-11-10T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-the-us-government-will-pay-doctors-to-use-these-ai-algorithms.md",
       "title": "The US Government Will Pay Doctors to Use These AI Algorithms",
       "excerpt": "The artificial intelligence programs can diagnose eye disease in diabetics and complications in stroke patients.",
@@ -250,7 +448,7 @@
       "originalUrl": "https://thenextweb.com/neural/2020/11/09/neurals-market-outlook-for-artificial-intelligence-in-2021-and-beyond/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -1033,205 +1231,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-healthcare-artificial-intelligence-market.md",
-      "title": "Healthcare Artificial Intelligence Market",
-      "excerpt": "Latest Survey On Healthcare Artificial Intelligence Market ... Butterfly Network, Inc., Lifegraph, Enlitic, Inc., IBM (Watson Health), Sophia Genetics, Zebra Medical Vision Ltd., Pathway Genomics Corporation, AiCure, Sense.ly, Welltok, Insilico Medicine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2183410/healthcare-artificial-intelligence-market-is-thriving",
-      "originalUrl": "https://www.openpr.com/news/2183410/healthcare-artificial-intelligence-market-is-thriving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/b/Tb09580094_g.jpg",
-          "width": 780,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2183410/healthcare-artificial-intelligence-market-is-thriving",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2183410/healthcare-artificial-intelligence-market-is-thriving",
-      "publishedDateTime": "2020-11-09T00:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-funding-alert-b2b-sales-startup-nektarai-raises-215-mn-seed-funding-led-by-nexus-venture-partners.md",
-      "title": "[Funding Alert] B2B Sales Startup Nektar.ai Raises $2.15 Mn Seed Funding Led By Nexus Venture Partners",
-      "excerpt": "Singapore-based business-to-business (B2B) sales startup, Nektar.ai on Monday announced it has raised $2.15 million in a seed funding round led by Nexus Venture Partners to build an artificial intelligence (AI)-powered go-to-market collaboration engine for modern revenue teams with participation from Insignia Venture Partners,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/359261",
-      "originalUrl": "https://www.entrepreneur.com/article/359261",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1604910806-L-RAbhijeetVijayvergiyaAravindRaviSulekha.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/359261",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359261",
-      "publishedDateTime": "2020-11-09T00:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-an-ai-engineer-walks-into-a-data-shop.md",
-      "title": "An AI Engineer Walks Into A Data Shop...",
-      "excerpt": "If it’s not quite off-the-shelf AI, then its composable AI that brings together some of the core functions that smart systems use regularly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/11/09/an-ai-engineer-walks-into-a-data-shop/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/11/09/an-ai-engineer-walks-into-a-data-shop/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f996d1557bfc401bd9f3e03%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/11/09/an-ai-engineer-walks-into-a-data-shop/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/11/09/an-ai-engineer-walks-into-a-data-shop/amp/",
-      "publishedDateTime": "2020-11-09T00:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-robot-soldiers-could-soon-make-up-a-quarter-of-the-army.md",
-      "title": "Robot soldiers could soon make up a quarter of the army",
-      "excerpt": "In the age of artificial intelligence, robots will soon represent a large part of the armed forces, according to the UK's chief of the defence staff Nick Carter, who predicted that up to a quarter of the army could be made up of autonomous systems in the near future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/robots-soldiers-could-soon-make-up-a-quarter-of-the-army/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/robots-soldiers-could-soon-make-up-a-quarter-of-the-army/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2019/11/06/a1e2b9a4-9330-4565-8e20-f6fb00e3d1a9/thumbnail/1200x675/251d1466033401dd47e80d969b17de3e/20191106-daphne-karen-war.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/robots-soldiers-could-soon-make-up-a-quarter-of-the-army/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/robots-soldiers-could-soon-make-up-a-quarter-of-the-army/",
-      "publishedDateTime": "2020-11-09T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

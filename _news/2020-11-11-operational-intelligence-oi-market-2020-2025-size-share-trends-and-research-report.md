@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Fintech Market 2020 Key Players Update, Regional Economy, Development Plans and Forecast to 2026"
+    excerpt: "Comserve Inc. / -- Global Artificial Intelligence (AI) in Fintech Market is valued approximately USD 2.6 billion"
+    publishedDateTime: 2020-11-13T13:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-2020-key-players-update-regional-economy-development-plans-and-forecast-to-2026-2020-11-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Impact Of Covid-19 On Vehicle Speech Recognition System Market 2020: Remarking Enormous Growth With Recent Trends."
     excerpt: "According to Market Growth Insight the Vehicle Speech Recognition System Market is anticipated to reach USD XX billion by the end of 2025 with projected CAGR of XX over the near future The report delivers thorough analysis of the key"
     publishedDateTime: 2020-11-11T13:01:00Z

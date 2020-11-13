@@ -2,6 +2,163 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-12-apples-macbook-air-with-m1-chip-everything-you-need-to-know.md",
+      "title": "Apple's MacBook Air with M1 chip: Everything you need to know",
+      "excerpt": "Get all the specs, new features, pricing, and availability details for Apple's first M1-powered MacBook Air laptop, and find out how it compares to the previously released Intel-based models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/apples-macbook-air-with-m1-chip-everything-you-need-to-know/",
+      "originalUrl": "https://www.techrepublic.com/article/apples-macbook-air-with-m1-chip-everything-you-need-to-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/11/10/5f6122c0-311c-4a3f-bd1b-72f3b13d6df0/resize/1200x/7de716bd6a27732001c743db1c50dcdd/macbook-air-with-m1-features.jpg",
+          "width": 1200,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/apples-macbook-air-with-m1-chip-everything-you-need-to-know/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/apples-macbook-air-with-m1-chip-everything-you-need-to-know/",
+      "publishedDateTime": "2020-11-11T14:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-intel-unveils-gpu-for-servers-with-tencent-gamestream-and-ubitus.md",
+      "title": "Intel unveils GPU for servers with Tencent, Gamestream, and Ubitus",
+      "excerpt": "Intel showed off a long-awaited chip today, the first standalone graphics processing unit (GPU) for the server market.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/11/intel-unveils-gpu-for-servers-with-tencent-gamestream-and-ubitus/",
+      "originalUrl": "https://venturebeat.com/2020/11/11/intel-unveils-gpu-for-servers-with-tencent-gamestream-and-ubitus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/intel-gpu.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/11/intel-unveils-gpu-for-servers-with-tencent-gamestream-and-ubitus/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/11/intel-unveils-gpu-for-servers-with-tencent-gamestream-and-ubitus/amp/",
+      "publishedDateTime": "2020-11-11T14:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-honda-traffic-jam-pilot-offers-standby-self-driving-by-march-2021.md",
+      "title": "Honda ‘Traffic Jam Pilot’ Offers Standby Self-Driving By March 2021",
+      "excerpt": "Honda will release \"Traffic Jam Pilot\" within months. That's full self-driving while in traffic jams, in a consumer car.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2020/11/11/honda-traffic-jam-pilot-offers-standby-self-driving-by-march-2021/",
+      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2020/11/11/honda-traffic-jam-pilot-offers-standby-self-driving-by-march-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fac4b42a3f01ea8eb2374ba%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2020/11/11/honda-traffic-jam-pilot-offers-standby-self-driving-by-march-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/11/11/honda-traffic-jam-pilot-offers-standby-self-driving-by-march-2021/amp/",
+      "publishedDateTime": "2020-11-11T12:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-moscows-facial-recognition-system-can-be-hijacked-for-just-200-report-shows.md",
       "title": "Moscow’s facial recognition system can be hijacked for just $200, report shows",
       "excerpt": "A digital rights activist in Moscow was able to purchase access to the city’s extensive facial recognition system for just 16,000 rubles (approximately $200), as reported by the Thomson Reuters Foundation.",
@@ -216,7 +373,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/11/top-reasons-the-investment-spigot-is-reopening-for-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -875,6 +1032,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-11-korean-payment-giants-danal-fintech-joins-icon-blockchain-ecosystem.md",
+      "title": "Korean Payment Giant’s Danal Fintech Joins ICON Blockchain Ecosystem",
+      "excerpt": "Danal Fintech, a subsidiary of Danal ( one of the largest payment companies in South Korea, today announced that they are joining the ICON blockchain ecosystem, the largest decentralized network in Korea by market capitalization.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/korean-payment-giant-s-danal-fintech-joins-icon-blockchain-ecosystem-1029791295",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/korean-payment-giant-s-danal-fintech-joins-icon-blockchain-ecosystem-1029791295",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Korean-Payment-Giant-s-Danal-Fintech-Joins-ICON-Blockchain-Ecosystem-1029791295",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Korean-Payment-Giant-s-Danal-Fintech-Joins-ICON-Blockchain-Ecosystem-1029791295",
+      "publishedDateTime": "2020-11-11T04:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-deepmind-would-have-probably-failed-without-google-says-early-investor.md",
       "title": "DeepMind would have 'probably failed' without Google, says early investor",
       "excerpt": "Founding DeepMind investor Humayun Sheikh told CNBC that the London AI lab would have \"probably failed\" if Google hadn't bought it.",
@@ -1080,215 +1280,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-microsoft-is-partnering-with-qualcomm-to-enhance-ai-and-ml-developer-experience.md",
-      "title": "Microsoft is partnering with Qualcomm to enhance AI and ML developer experience",
-      "excerpt": "Microsoft and Qualcomm are partnering to improve the development and deployment experience for developers using the respective technologies offered by the two firms to build AI and ML solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-is-partnering-with-qualcomm-to-enhance-ai-and-ml-developer-experience",
-      "originalUrl": "https://www.neowin.net/news/microsoft-is-partnering-with-qualcomm-to-enhance-ai-and-ml-developer-experience",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/11/1605079273_microsoft_qualcomm_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-is-partnering-with-qualcomm-to-enhance-ai-and-ml-developer-experience/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-is-partnering-with-qualcomm-to-enhance-ai-and-ml-developer-experience/",
-      "publishedDateTime": "2020-11-10T21:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-sentinelone-an-ai-based-endpoint-security-firm-confirms-267m-raise-on-a-31b-valuation.md",
-      "title": "SentinelOne, an AI-based endpoint security firm, confirms $267M raise on a $3.1B valuation",
-      "excerpt": "This year, more than ever before because of the COVID-19 pandemic, huge droves of workers and consumers have been turning to the internet to communicate, get things done and entertain themselves. That has created a huge bonanza for cybercriminals,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/11/sentinelone-an-ai-based-endpoint-security-firm-confirms-267m-raise-on-a-3-1b-valuation/",
-      "originalUrl": "https://techcrunch.com/2020/11/11/sentinelone-an-ai-based-endpoint-security-firm-confirms-267m-raise-on-a-3-1b-valuation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1174418589-1.jpg?w=1024",
-          "width": 1024,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/11/sentinelone-an-ai-based-endpoint-security-firm-confirms-267m-raise-on-a-3-1b-valuation/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/11/sentinelone-an-ai-based-endpoint-security-firm-confirms-267m-raise-on-a-3-1b-valuation/amp/",
-      "publishedDateTime": "2020-11-10T17:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-3-ways-conversational-ai-gives-your-organization-a-competitive-advantage.md",
-      "title": "3 Ways Conversational AI Gives Your Organization A Competitive Advantage",
-      "excerpt": "Contact centers are moving to the strategic heart of the business. Here's how the latest advances in conversational AI can help improve CSAT without increasing operational costs, plus a look how leading organizations are already seeing success with Google Cloud CCAI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/googlecloud/2020/11/10/3-ways-conversational-ai-gives-your-organization-a-competitive-advantage/",
-      "originalUrl": "https://www.forbes.com/sites/googlecloud/2020/11/10/3-ways-conversational-ai-gives-your-organization-a-competitive-advantage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fab1e5eb57f27c29d950d15%2F0x0.jpg",
-          "width": 1199,
-          "height": 756,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/googlecloud/2020/11/10/3-ways-conversational-ai-gives-your-organization-a-competitive-advantage/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2020/11/10/3-ways-conversational-ai-gives-your-organization-a-competitive-advantage/amp/",
-      "publishedDateTime": "2020-11-10T17:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-configuring-amazon-sagemaker-studio-for-teams-and-groups-with-complete-resource-isolation.md",
-      "title": "Configuring Amazon SageMaker Studio for teams and groups with complete resource isolation",
-      "excerpt": "Amazon SageMaker is a fully managed service that provides every machine learning (ML) developer and data scientist with the ability to build, train, and deploy ML models quickly. Amazon SageMaker Studio is a web-based, integrated development environment (IDE) for ML that lets you build, train, debug,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/configuring-amazon-sagemaker-studio-for-teams-and-groups-with-complete-resource-isolation/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/configuring-amazon-sagemaker-studio-for-teams-and-groups-with-complete-resource-isolation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/10/Configuring-Amazon-SageMaker-Studio-1.jpg",
-          "width": 445,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-10T16:56:37-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.microsoft.com/en-us/translator/blog/2020/11/12/microso
 webUrl: "https://www.microsoft.com/en-us/translator/blog/2020/11/12/microsoft-custom-translator-pushes-the-translation-quality-bar-closer-to-human-parity/"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,66 @@ images:
     height: 665
     isCached: true
 
-secured: "XgZckFcFvweM2mciWaQ63VwtofMWY2uJilbg2lrs4l0TR6yIqXIv0bO3JVfGshZxI9P9T4oO3yRUz6qQIBIzWh5BhjnjI6F62UiXUQj10rDJksLW/Sf0wqmzOS1FkyKWceyoul3wEMJqaROmdrjblBvoJYiy4GH9Ut6bG+NLI6B6zVJn8KgWB7zYNhL/F7ALKSxvmEhQ9T8llgaYKJDYuoZheqxfKnLvhHe8dxMcCQ3W8aaHjX0l8n8NKVIN3w/+64SGswqcwiNji0aDxAb+sM4tod6zoF1S05/Mj0rDLhIWEtQdXLTRkeiEufW/OrlO0zSdyQ6GxOIjC+LdrM9ErsOUxdq2Kw9hxc6MXNGqEJ8=;y9Wx5R13B2ayKrPoUB19IQ=="
+related:
+  - title: "Passport 360 Now Available in the Microsoft Azure Marketplace"
+    excerpt: "JOHANNEBSURG Gauteng South Africa November 13 2020 Passport 360 today announced the availability of its product of the same name in the Microsoft Azure Marketplace an online store providing applications and services for use on Microsoft Azure Passport 360 customers"
+    publishedDateTime: 2020-11-13T13:02:00Z
+    webUrl: "https://www.openpr.com/news/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace"
+    ampWebUrl: "https://www.openpr.com/amp/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 89
+    images:
+      - url: "https://cdn.openpr.com/T/b/Tb13885641_g.jpg"
+        width: 800
+        height: 800
+        isCached: true
+  - title: "AI in Fintech Market May See a Big Move | Emerging Players Microsoft, Google, Salesforce"
+    excerpt: "Global AI in Fintech Market Status (2015-2019) and Forecast (2020-2025) by Region, Product Type & End-Use is latest research study released by HTF MI evaluating the market, highlighting opportunities,"
+    publishedDateTime: 2020-11-13T01:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-may-see-a-big-move-emerging-players-microsoft-google-salesforce-2020-11-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Image Recognition Market is Gaining Momentum with key players Google, IBM, Intel, Microsoft"
+    excerpt: "Latest Report Available at Advance Market Analytics, \"AI Image Recognition Market\" provides pin-point analysis for"
+    publishedDateTime: 2020-11-10T09:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-image-recognition-market-is-gaining-momentum-with-key-players-google-ibm-intel-microsoft-2020-11-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AVEVA to collaborate with Microsoft to provide cloud platform and domain expertise for industrial sector organizations"
+    excerpt: "AVEVA, a global leader in engineering and industrial software, announced that it will be extending its long-standing strategic collaboration with Microsoft to focus on accelerating digital transformation in the industrial sector."
+    publishedDateTime: 2020-11-11T17:18:00Z
+    webUrl: "https://www.hydrocarbonprocessing.com/news/2020/11/aveva-to-collaborate-with-microsoft-to-provide-cloud-platform-and-domain-expertise-for-industrial-sector-organizations"
+    type: article
+    provider:
+      name: Hydrocarbon Processing
+      domain: hydrocarbonprocessing.com
+    quality: 30
+    images:
+      - url: "https://www.hydrocarbonprocessing.com/media/12882/aveva-digital-reliability-platform.png"
+        width: 1280
+        height: 757
+        isCached: true
+
+secured: "DC/CzfBNaTppIbQ5Eb77s2q2gIpnRObV9T4hdbSCYVQqnAHvLtEOjhSvtFvTYSrvfvD2LM6AuJHDoRpCdFjspmiD72Ly3uFuADWX8KVKd7rrlQsN9gkK7HKuPyiaXmPMmjOLug4nipjELvSyE2fNaoRcZcyGbIRtkTS0kOwlchczTYBWeRjx7LENfZ7en87iHaAL7e8uF5UiC2Md36TjFyRe+CKk/tOBRrklg0WvPxQ8Mqf5rUw8Jr4n4OoBqYhLAKggAgGzGENEEQ/f4ZLBxyAcbRW5fvrhvI3EGTjns6kNC3yFdjLkWh7JiRCdZ1pZV/t2KBtWpL4cfKRbnJsiem767QjYonYFW+mbzPQDH10avVIsFXUgJUE/icdSyacsuDzrRkTVrzadq3AzMO0CRlnqYm5dVNF1FYTEIsWKLkTSqtMzhM/xwx1pqjjmcRLA8W+WOm0rro29qVjd/pd1tMA9QG61CVf3JOa8IQRmbHuIJetC77/B/WH7l/kPYK/KE90fDqyC0qxnmhAp5c1xSw==;1jmuVunuCv+FcfUvhW984w=="
 ---
 

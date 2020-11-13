@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-11-13-ai-in-fintech-market-may-see-a-big-move-emerging-players-microsoft-google-salesforce.md",
-      "title": "AI in Fintech Market May See a Big Move | Emerging Players Microsoft, Google, Salesforce",
-      "excerpt": "Global AI in Fintech Market Status (2015-2019) and Forecast (2020-2025) by Region, Product Type & End-Use is latest research study released by HTF MI evaluating the market, highlighting opportunities,",
+      "path": "_news/2020-11-13-passport-360-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Passport 360 Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "JOHANNEBSURG Gauteng South Africa November 13 2020 Passport 360 today announced the availability of its product of the same name in the Microsoft Azure Marketplace an online store providing applications and services for use on Microsoft Azure Passport 360 customers",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-may-see-a-big-move-emerging-players-microsoft-google-salesforce-2020-11-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-may-see-a-big-move-emerging-players-microsoft-google-salesforce-2020-11-12",
+      "webUrl": "https://www.openpr.com/news/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace",
+      "originalUrl": "https://www.openpr.com/news/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 129,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://cdn.openpr.com/T/b/Tb13885641_g.jpg",
+          "width": 800,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T17:27:00-08:00",
+      "ampWebUrl": "https://www.openpr.com/amp/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace",
+      "publishedDateTime": "2020-11-13T05:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -49,9 +40,8 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI",
-        "Microsoft AI"
+        "Microsoft AI",
+        "AI"
       ]
     },
     {

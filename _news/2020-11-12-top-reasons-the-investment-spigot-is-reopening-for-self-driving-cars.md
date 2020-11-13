@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/11/top-reasons-the-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/11/top-reasons-the-investment-spigot-is-reopening-for-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/09/PAPP/573035f9-a48c-4fc2-9893-8237388a4aad-AP20304406106665.jpg?auto=webp&crop=5208,2930,x0,y130&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "VW boosts spending on electric, self-driving cars to $86 billion"
+    excerpt: "Volkswagen Group is boosting spending on technologies for electric and self driving cars, while increasing production of EVs in its German home market. Investments in battery-powered vehicles, autonomous driving and related future technologies will rise to about 73 billion euros ($86 billion),"
+    publishedDateTime: 2020-11-13T14:49:00Z
+    webUrl: "https://europe.autonews.com/automakers/vw-boosts-spending-electric-self-driving-cars-86-billion"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Audi%20Artemis%20web.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "EYiURjlb0ObtoroAVwtiElk4W1sI1nxRbgMl/TEnfqkSUauWYwh0eZA1+ReU847mze6mPCby63nY0zmj8qFed+kzZYzoSh1KPvgvVh2oiB62ScTQBXFZ5uBN0yzwuTOKBw6CycK61A6xv8RjkwJLPwPnFYNIYSbatfCJQcY7BZFU5KijRAtmemjAQgcRgEExa3LONvdttA1LddoG4WbmxD3woTyvZ9fbeaf2DedyY8zzC+EkwGisSL/uUvfyAxUf0kWXR5cC7EAFTi41XaJiBe43sgl2Di5zyNdzrzAtbg52si4RGkent21MfyIiHwm6OZqSqSiDApEz6lEr/Vnl8uLbf6R7Tf0AOya9zrXchP6V9KOJJw95BWdIogtPsLvt86/nb0uvc+wAb18ww2xlQjIPLrSSgsqCV6RZLHQg44pUTTuYbLhzSWKxHvumcrRorqSIQiRkpFrSqwJhWH7AX1ILH4GbIwey9vdlysgtezvoG51gltoa5jAu/xfDzVghD4V4skZvB+gE/nS29+ax7Q==;CC/h31nZUO3dv1ELVDmrQg=="

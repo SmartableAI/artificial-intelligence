@@ -1,0 +1,60 @@
+---
+category: news
+title: "Tag: Vatican Library artificial intelligence"
+excerpt: "The Vatican is likely the last place that comes to mind when thinking about the latest in AI security technology. However, as the 600-year-old institution moves to digitize 80,000 manuscripts from its collection,"
+publishedDateTime: 2020-11-13T10:32:00Z
+originalUrl: "https://www.qrcodepress.com/tag/vatican-library-artificial-intelligence/"
+webUrl: "https://www.qrcodepress.com/tag/vatican-library-artificial-intelligence/"
+type: article
+quality: 37
+heat: 37
+published: false
+
+provider:
+  name: QR Code Press
+  domain: qrcodepress.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://www.qrcodepress.com/wp-content/uploads/2020/11/AI-security-Vatican-Library.jpg"
+    width: 875
+    height: 501
+    isCached: true
+
+related:
+  - title: "The 600-Year-Old Vatican Library Is Using Artificial Intelligence to Ward Off Hackers Targeting Its Digital Collections"
+    excerpt: "The Vatican Library is digitizing its collection of more than 80,000 manuscripts, and is now using AI to protect itself from hackers."
+    publishedDateTime: 2020-11-09T16:52:00Z
+    webUrl: "https://news.artnet.com/art-world/vatican-library-artificial-intelligence-1921989"
+    ampWebUrl: "https://news.artnet.com/art-world/vatican-library-artificial-intelligence-1921989/amp-page"
+    cdnAmpWebUrl: "https://news-artnet-com.cdn.ampproject.org/c/s/news.artnet.com/art-world/vatican-library-artificial-intelligence-1921989/amp-page"
+    type: article
+    provider:
+      name: Artnet news
+      domain: artnet.com
+    quality: 33
+    images:
+      - url: "https://news.artnet.com/app/news-upload/2020/11/GettyImages-461640741.jpg"
+        width: 1024
+        height: 859
+        isCached: true
+  - title: "Vatican Library Enlists Artificial Intelligence to Protect Its Digitized Treasures"
+    excerpt: "The archive employs A.I. modeled on the human immune system to guard offerings including a rare manuscript of the \"Aeneid\""
+    publishedDateTime: 2020-11-11T12:37:00Z
+    webUrl: "https://www.smithsonianmag.com/smart-news/vatican-enlists-cybersecurity-firm-protect-digitized-treasures-180976256/"
+    type: article
+    provider:
+      name: Smithsonian Magazine
+      domain: smithsonianmag.com
+    quality: 31
+    images:
+      - url: "https://thumbs-prod.si-cdn.com/aYnRKTr68SJnIIEPipocWgxcN8E=/fit-in/1600x0/filters:focal(2062x1327:2063x1328)/https://public-media.si-cdn.com/filer/cf/53/cf53facd-829c-4cd0-8969-e715cadcd508/the_sistine_hall_of_the_vatican_library_2994335291.jpg"
+        width: 1600
+        height: 1063
+        isCached: true
+
+secured: "4SWq4/stoAG5YjfjuSyKCj45K3kDiW2w7pxaI4MTNRSvcuVrW5KWrtBW4VXxwIG0G0+08OWQw+wcK+yUb+n970j+pILfhXWPocUQXqSKHP26fzo7NFysV3yu9P9Jg1P31uFEOK1TIcR9or23I07SPjVJ9f1Ibtn4y+8bdR48KgIdM1jqFP37GhpVenWqL+SDsed4U8okMkXpz7D62Bx2tNf35kH6KE9btSdNIu4FlnlS2eCd6/tNOd8yltxBKF51E3xBYefKS2Gyo8yoZ7U9q9V85vHrR8slmqV5vTHoQVlj2p8atjaIx9droYt8jav9v8wIGd2X/GreB72BzxmkGXBYeAMGFUE2JO9mAkKCDuI=;QWgIY6vH2B5ahhozCC27zg=="
+---
+

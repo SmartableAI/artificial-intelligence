@@ -2,6 +2,255 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-13-ai-is-bringing-the-world-together-at-more-than-1000-mph.md",
+      "title": "AI Is Bringing The World Together (at More Than 1,000 Mph)",
+      "excerpt": "To understand breakthrough digital Twin technology, think about Minecraft. It creates, in essence, an AI-driven sandbox environment for the design and testing of real-world applications, bridging physical and digital worlds in novel and exciting ways.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michaelashley/2020/11/13/ai-is-bringing-the-world-together-at-more-than-1000-mph/",
+      "originalUrl": "https://www.forbes.com/sites/michaelashley/2020/11/13/ai-is-bringing-the-world-together-at-more-than-1000-mph/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fae9392c45cdae0c2901003%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michaelashley/2020/11/13/ai-is-bringing-the-world-together-at-more-than-1000-mph/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelashley/2020/11/13/ai-is-bringing-the-world-together-at-more-than-1000-mph/amp/",
+      "publishedDateTime": "2020-11-13T06:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-facebook-is-now-using-ai-to-sort-content-for-quicker-moderation.md",
+      "title": "Facebook is now using AI to sort content for quicker moderation",
+      "excerpt": "Facebook has always made it clear it wants artificial intelligence to handle more moderation duties on its platforms. Today, it announced its latest step toward that goal: putting machine learning in charge of its moderation queue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2020/11/13/21562596/facebook-ai-moderation",
+      "originalUrl": "https://www.theverge.com/2020/11/13/21562596/facebook-ai-moderation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/-FAGdkTUBz-6IjCyedZdlH2vuHw=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67784022/acastro_180522_facebook_0002.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/11/13/21562596/facebook-ai-moderation",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/11/13/21562596/facebook-ai-moderation",
+      "publishedDateTime": "2020-11-13T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-robots-join-the-sales-team.md",
+      "title": "Robots Join the Sales Team",
+      "excerpt": "Brokers can hand off tours of listings and the litany of client questions to their bionic colleagues, but a human has to step in when a deal is ready to be made.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/13/realestate/real-estate-robots-ai.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/13/realestate/real-estate-robots-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/15/realestate/13robots/13robots-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/13/realestate/real-estate-robots-ai.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/13/realestate/real-estate-robots-ai.amp.html",
+      "publishedDateTime": "2020-11-13T05:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-pandorabots-bot-battle-highlights-lack-of-industrywide-metrics-for-open-domain-ai.md",
+      "title": "Pandorabots’ Bot Battle highlights lack of industrywide metrics for open domain AI",
+      "excerpt": "Emerging technology fields need industrywide metrics to measure progress. When you’re a pun-loving chatbot startup called Pandorabots and you want to call for better metrics, you put on a flashy Bot Battle.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/13/pandorabots-bot-battle-highlights-lack-of-industrywide-metrics-for-open-domain-ai/",
+      "originalUrl": "https://venturebeat.com/2020/11/13/pandorabots-bot-battle-highlights-lack-of-industrywide-metrics-for-open-domain-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/bot-battle-kuki.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/13/pandorabots-bot-battle-highlights-lack-of-industrywide-metrics-for-open-domain-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/13/pandorabots-bot-battle-highlights-lack-of-industrywide-metrics-for-open-domain-ai/amp/",
+      "publishedDateTime": "2020-11-13T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-passport-360-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Passport 360 Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "JOHANNEBSURG Gauteng South Africa November 13 2020 Passport 360 today announced the availability of its product of the same name in the Microsoft Azure Marketplace an online store providing applications and services for use on Microsoft Azure Passport 360 customers",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace",
+      "originalUrl": "https://www.openpr.com/news/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/b/Tb13885641_g.jpg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace",
+      "publishedDateTime": "2020-11-13T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-the-future-of-work-work-ethics-by-yudhanjaya-wijeratne.md",
       "title": "The Future of Work: ‘Work Ethics,’ by Yudhanjaya Wijeratne",
       "excerpt": "He had earned that rare and elusive acknowledgement, whispered behind his back: He’s a Creative. The Capital C.”",
@@ -332,49 +581,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-13-your-car-insurance-salesman-is-now-an-ai-bot-connected-to-blockchain.md",
-      "title": "Your car insurance salesman is now an AI bot connected to blockchain",
-      "excerpt": "Voit has partnered with IBM and Cosmos to deliver a fully-automated virtual assistant that can offer car insurance",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/your-car-insurance-salesman-is-now-an-ai-bot-connected-to-blockchain",
-      "originalUrl": "https://cointelegraph.com/news/your-car-insurance-salesman-is-now-an-ai-bot-connected-to-blockchain",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjAtMTEvMzJkMTg5ZGItZjNiOC00MGNkLWI4MzEtNTUxYTYwMTY2YzM2LmpwZw==.jpg",
-          "width": 740,
-          "height": 494,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/your-car-insurance-salesman-is-now-an-ai-bot-connected-to-blockchain/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/your-car-insurance-salesman-is-now-an-ai-bot-connected-to-blockchain/amp",
-      "publishedDateTime": "2020-11-12T18:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-13-basisai-joins-aws-partner-network-receives-technology-partner-status.md",
       "title": "BasisAI Joins AWS Partner Network, Receives Technology Partner Status",
       "excerpt": "BasisAI, a provider of customized, responsible AI applications, has been named an Amazon Web Services (AWS) Select Technology Partner. This places BasisAI in a pool of trusted professional services firms that helps enterprise customers across Southeast Asia design,",
@@ -415,59 +621,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-ai-in-fintech-market-may-see-a-big-move-emerging-players-microsoft-google-salesforce.md",
-      "title": "AI in Fintech Market May See a Big Move | Emerging Players Microsoft, Google, Salesforce",
-      "excerpt": "Global AI in Fintech Market Status (2015-2019) and Forecast (2020-2025) by Region, Product Type & End-Use is latest research study released by HTF MI evaluating the market, highlighting opportunities,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-may-see-a-big-move-emerging-players-microsoft-google-salesforce-2020-11-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-may-see-a-big-move-emerging-players-microsoft-google-salesforce-2020-11-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T17:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -579,10 +732,10 @@
     {
       "path": "_news/2020-11-13-daimler-will-shrink-with-shift-to-electric-autonomous-cars-ceo.md",
       "title": "Daimler will shrink with shift to electric, autonomous cars: CEO",
-      "excerpt": "Daimler will be a smaller company five years from now, focused on capturing recurring revenues with software-based services as Mercedes-Benz seeks to redefine luxury in an era of electric self-driving cars,",
+      "excerpt": "Daimler <DAIGn.DE> will be a smaller company five years from now, focused on capturing recurring revenues with software-based services as Mercedes-Benz seeks to redefine luxury in an era of electric self-driving cars,",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-daimler-china-idUKKBN27S2PN",
-      "originalUrl": "https://www.reuters.com/article/us-daimler-china-idUKKBN27S2PN",
+      "webUrl": "https://www.reuters.com/article/daimler-china/daimler-will-shrink-with-shift-to-electric-autonomous-cars-ceo-idUSL8N2HY7RO",
+      "originalUrl": "https://www.reuters.com/article/daimler-china/daimler-will-shrink-with-shift-to-electric-autonomous-cars-ceo-idUSL8N2HY7RO",
       "featuredContent": null,
       "highlight": null,
       "heat": 89,
@@ -599,8 +752,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN27S2NW",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27S2NW",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27S2QA",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S2QA",
       "publishedDateTime": "2020-11-12T14:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -1072,161 +1225,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-how-google-built-its-ai-powered-hum-to-search-feature.md",
-      "title": "How Google built its AI-powered Hum to Search feature",
-      "excerpt": "Google's new Hum to Search feature identifies songs from humming or whistling. Here's how it works behind the scenes.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/12/how-google-built-its-ai-powered-hum-to-search-feature/",
-      "originalUrl": "https://venturebeat.com/2020/11/12/how-google-built-its-ai-powered-hum-to-search-feature/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/12/how-google-built-its-ai-powered-hum-to-search-feature/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/12/how-google-built-its-ai-powered-hum-to-search-feature/amp/",
-      "publishedDateTime": "2020-11-12T09:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-how-amazon-retail-systems-run-machine-learning-predictions-with-apache-spark.md",
-      "title": "How Amazon Retail Systems Run Machine Learning Predictions with Apache Spark",
-      "excerpt": "Amazon Retail systems uses Apache Spark with Deep Java Library (DJL) to build propensity models to drive customer experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3596432/how-amazon-retail-systems-run-machine-learning-predictions-with-apache-spark.html",
-      "originalUrl": "https://www.infoworld.com/article/3596432/how-amazon-retail-systems-run-machine-learning-predictions-with-apache-spark.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/11/blue-and-white-binary-code-technology-background-picture-id459150233-100866365-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T08:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-ultimate-python-and-ai-certification-bundle-discounted-97.md",
-      "title": "Ultimate Python and AI certification bundle discounted 97%",
-      "excerpt": "This bundle includes courses on AI in Python, data wrangling and visualization, a Keras boot camp, an introduction to Python, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/ultimate-python-and-ai-certification-bundle-discounted-97/",
-      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/ultimate-python-and-ai-certification-bundle-discounted-97/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/10/27/e9daa63b-a3ce-43fb-b035-5f07df27d40a/resize/1200x/38106f4b0c3857ab2f1a06bbdd779cad/sarinyapinngam.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/ultimate-python-and-ai-certification-bundle-discounted-97/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/ultimate-python-and-ai-certification-bundle-discounted-97/",
-      "publishedDateTime": "2020-11-12T08:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

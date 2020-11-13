@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/18344445"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18344445"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "LUXROBO to Launch AI Coding Training Package ‘hello AI’, ‘Smart AI’"
+    excerpt: "Korean edutech startup LUXROBO is launching ‘hello AI’ and ‘Smart AI’, targeting the global AI education market in November 2020. LUXROBO is a company that makes modular robotic platforms equipped with MODI operating systems,"
+    publishedDateTime: 2020-11-12T15:24:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-school-curricula-products-and-services-82a2e91213589f3a5f9177374d3989b5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "bP5SIKgYVH8FBFkwogg9dMDwORwMGHyWppFaVEaPgkpj0HIF/UOPwIYIPkrA+DFQBtFbdBGgHBJhGElUUpYtwjp+P5WuLAMHiINlDYttanW+c6loSpnPVnRjD1neaTvO4l28fv270ACvXMiWHX0bK1BVwZRyAli4+vx+Vj3D9FmEYRs4yfbkvxatNa9tV2f0n4FLgg4FYc3U3bwC2q2QmLUQcGGJviAJidN/t7fzaNVKACMaGS9Zr0aawfNHy9atZiibj6cC+qqBWJtyqEuFkvDSFifZkiOJukhHEdtOlxdO3Ct5YPtJkCJMeln3BukuuNqYYtcLIQsyOBgrvV4jORZMG4o92ZeIF3K5jAUhFh4=;KXRxNmVngoPp+NuromRn7w=="
 ---
