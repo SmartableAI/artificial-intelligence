@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence Consulting Service Market 2020 Key Drivers and Restraints, Regional Outlook, End-User Applicants by 2025"
-    excerpt: "Global Artificial Intelligence Consulting Service Market 2020 by Company, Type and Application, Forecast to 2025 available at MarketQuest.biz covers several aspects that are expected to affect the growth of the market in the estimated forecast period from 2020 to 2025."
-    publishedDateTime: 2020-11-08T14:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-consulting-service-market-2020-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2025-2020-11-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Impact Of Covid-19 On Vehicle Speech Recognition System Market 2020: Remarking Enormous Growth With Recent Trends."
     excerpt: "According to Market Growth Insight the Vehicle Speech Recognition System Market is anticipated to reach USD XX billion by the end of 2025 with projected CAGR of XX over the near future The report delivers thorough analysis of the key"
     publishedDateTime: 2020-11-11T13:01:00Z

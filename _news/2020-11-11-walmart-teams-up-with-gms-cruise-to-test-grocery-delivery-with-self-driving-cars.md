@@ -75,22 +75,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Why Those Puddles On The Roadway Can Be Startling Hazardous For Self-Driving Cars"
-    excerpt: "This brings us to today’s intriguing question: How will AI-based true self-driving cars fare in coping with puddles on the public roadways? Let’s unpack the matter and see. As a clarification, true self-driving cars are ones that the AI drives the car ..."
-    publishedDateTime: 2020-11-08T14:52:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/08/why-those-puddles-on-the-roadway-can-be-startling-hazardous-for-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/08/why-those-puddles-on-the-roadway-can-be-startling-hazardous-for-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/08/why-those-puddles-on-the-roadway-can-be-startling-hazardous-for-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3b168c815f73863665f132%2F0x0.jpg%3FcropX1%3D870%26cropX2%3D3023%26cropY1%3D288%26cropY2%3D1670"
-        width: 1200
-        height: 770
-        isCached: true
   - title: "Honda, First To Mass Produce Level 3 Self-Driving Cars: Reuters"
     excerpt: "The Japanese government awarded Honda Motor Co Ltd (NYSE: HMC) a safety certification to the automaker’s “Traffic Jam Pilot” self-driving technology, Reuters reports. What Happened: Honda plans to launch its luxury sedan (Honda Legend) sales with the ..."
     publishedDateTime: 2020-11-11T12:51:00Z

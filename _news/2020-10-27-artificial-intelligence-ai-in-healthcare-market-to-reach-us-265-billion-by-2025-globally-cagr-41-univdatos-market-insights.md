@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) in Healthcare Market to Reach US$ 26.5 Billion by 2025, Globally |CAGR: 41%| UnivDatos Market Insights"
-excerpt: "The healthcare industry is expected to benefit from US$ 45 billion in annual cost savings by 2025. For detailed analysis on the Global Artificial Intelligence (AI) in Healthcare Market browse ..."
+excerpt: "Artificial Intelligence (AI) is expected to contribute up to US$ 15.7 trillion to global GDP by 2030. AI applications, powered by an influx of big data and advancements in computing power ..."
 publishedDateTime: 2020-10-27T00:00:00Z
 originalUrl: "https://www.prnewswire.com/in/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-842269344.html"
 webUrl: "https://www.prnewswire.com/in/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-842269344.html"
@@ -12,8 +12,8 @@ provider:
   domain: prnewswire.com
 
 topics:
-  - AI in Healthcare
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mma.prnewswire.com/media/1225049/UnivDatos_Logo.jpg?p=facebook"
@@ -21,6 +21,6 @@ images:
     height: 670
     isCached: true
 
-secured: "HUUD/+RKF37pN3eVQDq5zyqzoffx2YyfsFlWmBf45tBwbPiKc48cVff5a53kZxoM6d30GAiwuYdLNLk41rEJP6rXpOkkQ0Z4acvgL1l627d697tY1sKeMW7QG8P8eQFNSIjF6mzBoisLwtj9PrydHVKXmf78iLc+NfbWbMbQBji3CYRnacaJNCZbRKv4M1M6a2cUOasskcfUqjdUWFNjcaT/OOWSteT9TBQXErhwea8W8LO/1mr/dxTzKgae9YUjx9ctTuz27QGjc0fMQNfiYFqyUtaGtM9LmdozbfGNcJYFXDv79ArMQKa/N1uuGFcs/0guiShSJh7NzywF83PBuxyLFF6YL+DJszu6XCSvpiQ=;C6+cwK/PahIaP7AHg2svrA=="
+secured: "0cIqtZ5VGjAUVGOEan2cmnLuM82KhnqzLYSUpqshIwmYoS4kdnHnIFrwM9NQ2r6ga9rUDfnP7N3uw078M5TyWJC4NE1+Bz2/1Kqgk7dT7IJxh+DDQ1+g5bZJKcX9QuNqnRHzmcw0mR5RTvN8wDfVVK4RqODnhV8aHMmB2TQdw9jcVWPVAI42CD57eXDUiqU+piozebOgIT+Vtep9iOz8hpSLXblCZcNbcsuP5qw4lmjfDxKBJ0u2HtkIHcLez66bjhf4p/cuvoDnRtdtEmviayyKnZ+4wGkcbIZtmo28M3dRs6x0qytdRf3ES2YZ/nQ1E4XaOIdASxrsxxKJAI9K8JYwwbb7ImTGNMq9k2wEkCY=;BDczVdktG2MY/evFTXSzjQ=="
 ---
 

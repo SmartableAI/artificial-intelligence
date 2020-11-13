@@ -1,18 +1,20 @@
 ---
 category: news
 title: "Amazon shifts some voice assistant, face recognition computing to its own chips"
-excerpt: "Amazon.com Inc on Thursday said it shifted part of the computing for its Alexa voice assistant to its own custom-designed chips, aiming to make"
-publishedDateTime: 2020-11-12T20:15:00Z
-originalUrl: "https://www.channelnewsasia.com/news/business/amazon-shifts-some-voice-assistant--face-recognition-computing-to-its-own-chips-13528214"
-webUrl: "https://www.channelnewsasia.com/news/business/amazon-shifts-some-voice-assistant--face-recognition-computing-to-its-own-chips-13528214"
+excerpt: "First announced in 2018, the Amazon chip is custom-designed to speed up large volumes of machine learning tasks such as translating text to speech or recognising images"
+publishedDateTime: 2020-11-13T06:31:00Z
+originalUrl: "https://www.thehindu.com/sci-tech/technology/gadgets/amazon-shifts-some-voice-assistant-face-recognition-computing-to-its-own-chips/article33090976.ece"
+webUrl: "https://www.thehindu.com/sci-tech/technology/gadgets/amazon-shifts-some-voice-assistant-face-recognition-computing-to-its-own-chips/article33090976.ece"
+ampWebUrl: "https://www.thehindu.com/sci-tech/technology/gadgets/amazon-shifts-some-voice-assistant-face-recognition-computing-to-its-own-chips/article33090976.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/gadgets/amazon-shifts-some-voice-assistant-face-recognition-computing-to-its-own-chips/article33090976.ece/amp/"
 type: article
-quality: 37
-heat: -1
+quality: 57
+heat: 67
 published: false
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: The Hindu
+  domain: thehindu.com
 
 topics:
   - AWS AI
@@ -20,9 +22,9 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13528212/16x9/991/557/e70edfa56e34e0973afdcb3c88e0341e/Sf/file-photo--amazon-logo-is-pictured-in-mexico-city-7.jpg"
-    width: 991
-    height: 557
+  - url: "https://www.thehindu.com/sci-tech/technology/gadgets/6vuw5e/article33090975.ece/ALTERNATES/LANDSCAPE_615/13NETAMAZON"
+    width: 615
+    height: 384
     isCached: true
 
 related:
@@ -41,6 +43,6 @@ related:
         height: 533
         isCached: true
 
-secured: "U03fushUQodOM0mXr/kFht0pwdUA1YfTVxkgmxM02YlSinlqc2mQai2CF2W4hZWlLVffdVOlRVuPUDvci09gab309zNuoHlR+bhdo13a5ZHvydgRunSqX5JNhsJNsVobBYK/+qIU3glbP8EIj2Xw4joFH5R8/HYeSjfUflShqSTfQRMKUGlR0yJKdId2pduUfZlJNVAi3hkRwC7oJ3bgzrX2yQOR72D4ZCQ27d5ODdd7FO5xIFoqn9s+omli4JWL6JkElDGApCZPJb7sAMGcWE768b0QjhfYi1uUIYk9XUufgnAaOOhbStOKraYVlhOYNJlSxkQ5Qx2NH1tRvSLmEGNaluH+ZR/GZIzjVeen1KOpRlw52NyRIgtlOxQP+imjKX1MSc6pNIW/tuwNWTzGCulgagL39eqFOZyPsJoIwvKDSiBk9Fm49a9FschVScGlKs45IfXjTvjaOmfd/i7k+A0F0b6o2IZGKnpOzdT/dEpV21wBGQgdt7SY918MQzo0PWdh3XtxbaEQpqu6cL/1RQ==;f5jq+4uuN0+3UP7cOxMxyw=="
+secured: "eRQam8ljt2V/CU1hw79f/KGH5gPN/OwHXmcvlQX0UvdAv02PKfiMyPDoVmVIUzPujUMYsNnga65hq158Wyrx1gMkBjxjGDLWaYWS4GezpScqgxXh54jJwizicUf8jZApgBW9HKj/vwNLW8BaDfN77yWWGBumUMmZHPzui3III6ZZ2qKPV+NrIDLoQJO+d87BGEFhKiEs7Uo9BIyaNha3TVNU7KWm467VfYd6ct6t/6QYsr2dsCRqhBmq2J5DQawTvlIlGbwWSxqEGwazay6gvzcyz+reMabCgF9BW33urSGe63CAlRaLUeZnA9M9wKyRkq2om2kLaHAqqyuTlXgahH148yc1AEXerPe7Tf3DRW0=;8ZfRp/EM+M8U6NKpnzNwdQ=="
 ---
 

@@ -67,20 +67,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence Consulting Service Market 2020 Key Drivers and Restraints, Regional Outlook, End-User Applicants by 2025"
-    excerpt: "Global Artificial Intelligence Consulting Service Market 2020 by Company, Type and Application, Forecast to 2025 available at MarketQuest.biz covers several aspects that are expected to affect the growth of the market in the estimated forecast period from 2020 to 2025."
-    publishedDateTime: 2020-11-08T14:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-consulting-service-market-2020-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2025-2020-11-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Operational Intelligence (OI) Market 2020-2025: Size, Share, Trends and Research Report"
     excerpt: "According to the latest report by IMARC Group, titled \"Operational Intelligence (OI) Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025\", the global operational intelligence (OI) market grew at a CAGR of around 13% during 2014-2019."
     publishedDateTime: 2020-11-11T12:05:00Z

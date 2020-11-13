@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 668
         isCached: true
+  - title: "Apple’s first M1 chip-based Macs are playing it too safe"
+    excerpt: "Instead of moving the Mac boldly forward, Apple's M1 chip is merely raising the performance floor for entry-level computers."
+    publishedDateTime: 2020-11-12T02:53:00Z
+    webUrl: "https://venturebeat.com/2020/11/11/apples-first-m1-chip-based-macs-are-playing-it-too-safe/"
+    ampWebUrl: "https://venturebeat.com/2020/11/11/apples-first-m1-chip-based-macs-are-playing-it-too-safe/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/11/apples-first-m1-chip-based-macs-are-playing-it-too-safe/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/macm1s.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "vgNaHQ6/jKNZvzwB2Wz5s+sOtWvy2RHH05JODiuQiyqqMMk96+tRcH/TrQW0ahCcX8RAPyxfE76GWcib9c3LbOqhhLN2QwvtZdcnO6Zca3K/b2YBFLHb4RerMRyvsvHSd1u9n1kAHm8bj95R7rEVzrnC6PZyHBYaz8aAshCXIyk8+FaRgr13UiHWjIkewAYRP/nmwj/rMrW6KP0dzNsItBfCnF8WjaFKGfaPNaDUuesDZcRnXTSqZ6ncVNNd+fX/J2WgkD1+B0G1TZvYzqYrjA6Y6pSWwlmNmnzUg2kY0dO4sKgOLWO0kUk+UweD9uUXC67hbakMb7HAuVpSs07WVbe+RK+oqkE2qhEkZu5cEUTGptEzvpNhaJE5/cihdnZCx6RN08sbDtmBanKLJqnYKZmVMcM8uzcIn+bVkAPptphcmBsvu3zPiThmBiBPT7u3un8fLLUQKOfLNpZDe1L6HOX4j+VEL6GLf+nekFiwk1A97B2XQLiwVOqjV0qr/8+w+Oo9P0+bAv/jHz9F8RuhXg==;6OF83ifAI2A2JPK3cXpnsQ=="
 ---
