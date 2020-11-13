@@ -41,20 +41,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "What are deepfakes? AI that deceives"
-    excerpt: "Deepfakes extend the idea of video compositing with deep learning to make someone appear to say or do something they didn’t really say or do."
-    publishedDateTime: 2020-11-08T12:00:00Z
-    webUrl: "https://www.arnnet.com.au/article/682945/what-deepfakes-ai-deceives/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 41
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/facebook_deepfake_ai.jpg"
-        width: 800
-        height: 500
-        isCached: true
 
 secured: "MDyR/n9MDen5DFj8KUC1KR/OaZAHWnDyw62dRZrO95j0L2XP2F6oGYgQ9Oq0WJDBGgZe8sUyeWOu7ZC2wn0jeDSH48g/eDZExMbKp5hhGXtxjmR2JnKnN9xAihD8050zIvb1CdZJYTnu3ihB9Juoy4SGIaMmMadwgYDi8UEXa5gXVDMGa8Lg2dmMCOVqf1EWa2NnzX4GACS7HcLZHg/OHJdEuvhNTbqtSOOW3By+ObFBLr42cNbndzAXMk6BBIhv7/z0Hm+EeChYKeCnLiFL7jKbaGcNRjaDtM6TA4Ps2/MpLrl2MXEJ7Lax7SObSwtNgSDWWTSSfqyC8CsHZ1hzGHxFhalSPMNaIsuMcvHCY4g=;E7h/DZ3ZzEJj+WcdL+KHHA=="
 ---

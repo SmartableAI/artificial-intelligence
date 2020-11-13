@@ -7,7 +7,7 @@ originalUrl: "https://www.messenger-inquirer.com/news/artist-sougwen-chung-wante
 webUrl: "https://www.messenger-inquirer.com/news/artist-sougwen-chung-wanted-collaborators-so-she-designed-and-built-her-own-ai-robots/article_ee43bbd7-45fa-548b-8daa-b3ad460d12a0.html"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 945
     height: 630
     isCached: true
-
-related:
-  - title: "Artist Sougwen Chung wanted collaborators, so she designed and built her own AI robots"
-    excerpt: "Artist Sougwen Chung has carved out a niche in the expanding world of AI art. She collaborates with robots in her performance-based artworks. She and the robots paint together on large canvasses, part team effort,"
-    publishedDateTime: 2020-11-08T13:01:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/artist-sougwen-chung-wanted-collaborators-so-she-designed-and-built-her-own-ai-robots/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/artist-sougwen-chung-wanted-collaborators-so-she-designed-and-built-her-own-ai-robots/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/artist-sougwen-chung-wanted-collaborators-so-she-designed-and-built-her-own-ai-robots/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 46
 
 secured: "3zJ9wPZMHR3ADAJbg6UvALas75HhERucs8lXtpPC8ARVfw7j5R+w8rBXQNFFC9ZCqq0GTvQelYFXTHyBqMAkw1TbLKZBiLTj/fLoQ4jru7kgK5BPHFoDmYWdZvPDYOdA/zgQHkiUTl9dcgWQwCKP6VxC/tCNlYzdrWzmYqf/nmXp9w/w6r4oeN2p1vGEQ7Qh5t26YBOhlfhy9HiggqBh9FeT0dbhtmFykChezJENYqp8Tc0+n0zYJrLn0Q6VMZHjBUJ7tBRbS5gDmGm40JfGZr1ak0+TlWteFYVenoLlpA2pGv5D1IhknNN7JaP4jCpt5oXkxhRhbwvpkUWTHoumeXVprgnIP3HzRTBP4f8U9P8i0Y90hmKS5XKEFS8pP3rUsDgs5JfJA0/LnxNnmjKDUxuxrA+AYe9TnHAtdpZQ2XQB60rA4RVuKXJOwVPEyKqNET92vfitnLYcBuWQDpHZZSUf1XnATtvSkcc6WvdxG1YdQ8Zk0ruW4u5VipyRlJW0ItSdsZ8eji4gUbLHF8csMQ==;5zXbSfNjoSAHCaLgx0Gxyw=="
 ---

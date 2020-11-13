@@ -2,6 +2,59 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-10-30-an-automated-trading-firm-turns-its-machine-learning-expertise-to-venture-capital-investing.md",
+      "title": "An automated trading firm turns its machine learning expertise to venture capital investing",
+      "excerpt": "XTX executives say their trading edge is in machine learning—algorithms that automatically learn and improve from data without being re-programmed. XTX is heavy on computing, but light on ...",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/1923323/xtx-makes-venture-capital-investments-in-machine-learning-firms/",
+      "originalUrl": "https://qz.com/1923323/xtx-makes-venture-capital-investments-in-machine-learning-firms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2018/02/xtx_0001.jpg?quality=75&strip=all&w=410&h=273",
+          "width": 410,
+          "height": 273,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-30T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-lax-debuts-facial-recognition-technology-for-international-travelers.md",
       "title": "LAX debuts facial recognition technology for international travelers",
       "excerpt": "U.S. Customs and Border Protection officials announced the implementation of a facial-recognition process at LAX.",
@@ -1157,49 +1210,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais.md",
-      "title": "If a Robot Is Conscious, Is It OK to Turn It Off? The Moral Implications of Building True AIs",
-      "excerpt": "Philosophers say now is the time to mull over what qualities should grant an artificially intelligent machine moral standing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.discovermagazine.com/technology/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of",
-      "originalUrl": "https://www.discovermagazine.com/technology/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.ctfassets.net/cnu0m8re1exe/6ohFLYheDXySc0pdYKJcrL/43ee6a352bbfc134a12bb1a8cd95cf07/times-arrow-part-i-hd-0301.jpg?w=650&h=433&fit=fill",
-          "width": 650,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-29T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Discover Magazine",
-        "domain": "discovermagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

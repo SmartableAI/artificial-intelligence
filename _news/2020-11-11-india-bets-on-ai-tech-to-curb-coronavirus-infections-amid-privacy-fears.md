@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/asia/south-asia/article/3109269/india-bets
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/asia/south-asia/article/3109269/india-bets-ai-tech-curb-coronavirus-infections-amid-privacy"
 type: article
 quality: 88
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "A new AI program can listen to you cough and discern whether you have the coronavirus. Researchers hope to turn it into an app."
-    excerpt: "A newly trained artificial-intelligence model can identify people who have the coronavirus but show no symptoms based on their voluntary coughs."
-    publishedDateTime: 2020-11-08T13:00:00Z
-    webUrl: "https://www.businessinsider.com/ai-can-detect-coronavirus-by-listening-to-coughs-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/ai-can-detect-coronavirus-by-listening-to-coughs-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-can-detect-coronavirus-by-listening-to-coughs-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
-    images:
-      - url: "https://i.insider.com/5fa58e181df1d5001821954e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "aeYvE7PmX8t435YADQmei0t0W3c/akIjiEMwFWZ1pv7KB+LoDfwHBAj/DvJGU8ZCyGNObGyRLEJcQzdsT2zfO4VfwtNup92LCmXn1GwsX9kxMpgMy4Lv3dd8irQimrmLc5OgiZCbI8m7TdXDXIktKSHk88OIvx8uvuBd6a63sTMNMlcIhqFtO4IOfbax+xCOdWxHN4TLRfeb40IgRyBkunDBF/XdOF6jaqpnBkOClzoSQdy4Eo1KqCN8ECr9uQ1iOw/XgosQGBpnDdA0MbFRiBmUOBQdKG8099cZ6LlAqeiGN76M6ujfobJwkZ4GOjbh2RZ1j+3rxGf/trT2NhtBcWc/DBB7gP5exXd9s52ba5wZIQ0ldFocAZswpdDhOxTJsINMLzlF8DcojrmWOJ7tLwpikqgEANy3R3Zh7d5wJhidBnl1737IiBmCSX9vpzvJ1hhUgT2uxREp4q99DhDTpk0aKUTOEEXZk9i0GBwVfaFr8pjp9AFu3QXN5vmqmoCpqhFYpY5NCdA6CEYH+G2lcA==;06aFfZBAkdEHZSh4hg9h/w=="
 ---

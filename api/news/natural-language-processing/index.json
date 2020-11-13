@@ -1234,34 +1234,34 @@
     {
       "path": "_news/2020-11-03-immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership.md",
       "title": "ImmunoPrecise Antibodies and Mila Announce Strategic AI Partnership",
-      "excerpt": "CNW/ - IMMUNOPRECISE ANTIBODIES LTD. (the 'Company' or 'IPA') (TSXV: IPA) (OTCQB: IPATF) (FSE: TQB2), a leader in",
+      "excerpt": "PRNewswire/ - IMMUNOPRECISE ANTIBODIES LTD. (the \"Company\" or \"IPA\") (TSXV: IPA) (OTCQB: IPATF) (FSE: TQB2), a leader in full-service, therapeutic",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758397",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758397",
+      "webUrl": "https://www.prnewswire.com/news-releases/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-301165557.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-301165557.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758397",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/immunoprecise-antibodies-and-mila-announce-strategic-ai-partnership-1029758397",
-      "publishedDateTime": "2020-11-03T04:52:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-03T03:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

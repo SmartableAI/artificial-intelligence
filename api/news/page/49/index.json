@@ -2,6 +2,49 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2020-10-05-nvidia-announces-cloud-ai-video-streaming-platform-to-better-connect-millions-working-and.md",
+      "title": "NVIDIA Announces Cloud-AI Video-Streaming Platform to Better Connect Millions Working and ...",
+      "excerpt": "NVIDIA today announced the NVIDIA Maxine platform, which provides developers with a cloud-based suite of GPU-accelerated AI video conferencing software to enhance streaming video — the internet’s No.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/technology-business-corporate-news-products-and-services-cloud-computing-eea824f1038c940ab802e5a9865893bd",
+      "originalUrl": "https://apnews.com/article/technology-business-corporate-news-products-and-services-cloud-computing-eea824f1038c940ab802e5a9865893bd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-05T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-combining-ai-and-nanotechnology-to-create-robot-assisted-molecular-manipulation.md",
       "title": "Combining AI and Nanotechnology to Create Robot-Assisted Molecular Manipulation",
       "excerpt": "A team of scientists from Forschungszentrum Jülich and TU Berlin is working on a project to create an autonomous artificial intelligence system with the ability to pick up and move individual molecules.",
@@ -1119,49 +1162,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-bolstering-robotics-enterprise-potential-using-ai-applications.md",
-      "title": "Bolstering Robotics Enterprise Potential using AI Applications",
-      "excerpt": "Robots perform tasks like recognizing and grasping objects, automating its navigation and understanding human language with the unveiling of Artificial Intelligence (AI) applications in its system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/bolstering-robotics-enterprise-potential-using-ai-applications/",
-      "originalUrl": "https://www.analyticsinsight.net/bolstering-robotics-enterprise-potential-using-ai-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Robotics.jpeg",
-          "width": 2560,
-          "height": 1539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-03T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -3,14 +3,11 @@ category: news
 title: "Toyota-backed startup Pony.ai raises $267 million in latest fundraising"
 excerpt: "Pony.ai, backed by Toyota Motor Corp, said on Friday it has raised $267 million in the initial phase of its fundraising round that values the self-driving startup at $5.3 billion, as it seeks to boost its presence in the United States and China."
 publishedDateTime: 2020-11-06T12:54:00Z
-originalUrl: "https://www.reuters.com/article/us-pony-ai-autonomous-idUSKBN27M0QW"
-webUrl: "https://www.reuters.com/article/us-pony-ai-autonomous-idUSKBN27M0QW"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0QW"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0QW"
+originalUrl: "https://www.reuters.com/article/us-pony-ai-autonomous-idUKKBN27M0QW"
+webUrl: "https://www.reuters.com/article/us-pony-ai-autonomous-idUKKBN27M0QW"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27M0QW"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27M0QW"
 type: article
-quality: 87
-heat: -1
-published: false
 
 provider:
   name: Reuters
@@ -29,64 +26,6 @@ images:
     height: 545
     isCached: true
 
-related:
-  - title: "Toyota-backed startup Pony.ai raises $267 million in latest fundraising"
-    excerpt: "Pony.ai, backed by Toyota Motor Corp, said on Friday it has raised $267 million in the initial phase of its fundraising round that values the self-driving startup at $5.3 billion, as it seeks to boost"
-    publishedDateTime: 2020-11-06T20:00:00Z
-    webUrl: "https://www.theguardian.pe.ca/business/reuters/toyota-backed-startup-ponyai-raises-267-million-in-new-funding-round-517485/"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.pe.ca
-    quality: 137
-    images:
-      - url: "https://www.theguardian.pe.ca/media/photologue/photos/cache/toyota-backed-startup-ponyai-raises-267-million-in-new-funding-round_medium"
-        width: 458
-        height: 305
-        isCached: true
-  - title: "Autonomous Startup Pony.ai Raises $267m To Boost R&D"
-    excerpt: "California-based Pony.ai said it is raising $267 million in a fresh funding round that pushes the self-driving technology startup’s valuation to about $5.3 billion as it seeks to expand its customer base globally."
-    publishedDateTime: 2020-11-09T01:12:00Z
-    webUrl: "https://www.bloomberg.com/news/videos/2020-11-09/autonomous-startup-pony-ai-raises-267m-to-boost-r-d-video"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ix.YLzmNyBzI/v5/-1x-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Autonomous driving startup Pony.ai picks up $267M at $5.3B+ valuation"
-    excerpt: "Pony.ai, a Chinese startup developing autonomous driving technology for cars and trucks, said late Thursday that it has secured $267 million in additional funding. The investment comes less than a year after the startup raised a hefty $462 million round led by Toyota Motor Corp."
-    publishedDateTime: 2020-11-06T20:36:00Z
-    webUrl: "https://siliconangle.com/2020/11/06/autonomous-driving-startup-pony-ai-picks-267m-5-3b-valuation/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/ponyai.png"
-        width: 847
-        height: 477
-        isCached: true
-  - title: "Toyota venture fund invests in robotic kitchen startup"
-    excerpt: "Toyota AI Ventures, Toyota’s early-stage venture capital fund, has decided to invest in YPC Technologies, a robotic kitchen startup based in Montreal, Canada. The funding follows YPC Technologies’"
-    publishedDateTime: 2020-11-10T07:40:00Z
-    webUrl: "https://roboticsandautomationnews.com/2020/11/10/toyota-venture-fund-invests-in-robotic-kitchen-startup/38024/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 39
-    images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/11/ypc-tech.jpg"
-        width: 800
-        height: 533
-        isCached: true
-
-secured: "sriPfosHpJfQKMFXH0o5spTdzCiuWRHHrJPbZv/O47SWTxawm/0i1+S1WKsyVQBN9BU9ePlDnJJ/BI5VKL/i6GJz1XI1EEvLQBFbTP2fy+6A6ZEgj7l4chpOhWq4n0ElVjFiKZSc+5+O2k2J+DhPumSLl46u8kCaH7zSefvsY1DNg0SUumCguU2y1ZOgXNGnUAx/2HnCixVa49o2+ueFV5OSUnObVfhTvOfRMXPdB7sOOQ+fZAwb8F16AEp+2aGRuIAdyAYYHWx8RRgzu4gVAB2d3SuGJHjTrV+roCbhQgTnzzfcX3qiLQAtQy0Bv0t5nkRw4sXd/I4QQFvsitlZMz74e2MMHzuMLsV+cGl7lDtLFjaHXG9d5pKmriUeX+F3TnbR4l/yQiI1q7cUfRDmJuCfesrtqocEq+dFT6g+Sj6BkAbAu72fzXBtkWRb4Wdk1t3uzmNoYA1HwJz/I1/H2oF9KjVsWIep5s6LZVi9cCzCGHe2mpOs+rBVcqgGaXwmfiuUsdgwYSs8JFjiwZyBsw==;f11ohpv4ytNcInkXq0yh5w=="
+secured: "a+J28wm/+Mq0WI+xEXI0Pw5+FLBD+9j3aS+Enge33PUpVezaBuXPtQi/BYpbc3+1gmkIqhbEFofaX5kRMgMOetuDgsd2cnPXKmy3k6xUtgMvSRrvB249lEs/7hj6KqkDppYYF5wDc9vPd98bHWDp3jW7/dorXmMuHsBnxYlnlA7AcQkuTSqN00WaMlQtiAWCkLLFIlHoSVBlhmKQLlTkyEQXy+8m9L9VdLvJmWW+f6Jv++rDXhdGjiXoTuPvEFJU4JWAw+GL2rSfup37Hu1wo4MqTfGytN9naWiyl27y1wGgessYlIRWhA70pG6ThEaPBmv9gefoOnpFeLLfKRHXCLKoDD7ztHq3A2g8V0b8uWQ=;26R9HXn45T49omC8ogkjwQ=="
 ---
 

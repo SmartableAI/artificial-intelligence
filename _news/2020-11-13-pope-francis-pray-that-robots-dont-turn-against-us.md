@@ -1,33 +1,29 @@
 ---
 category: news
 title: "Pope Francis: Pray that robots don’t turn against us"
-excerpt: "Pope Francis urged Catholics to pray that artificial intelligence and robots “always serve mankind” instead of stripping humanity of its “dignity,” according to a report."
-publishedDateTime: 2020-11-13T00:34:00Z
-originalUrl: "https://www.foxnews.com/world/pope-francis-pray-that-robots-dont-turn-against-us"
-webUrl: "https://www.foxnews.com/world/pope-francis-pray-that-robots-dont-turn-against-us"
-ampWebUrl: "https://www.foxnews.com/world/pope-francis-pray-that-robots-dont-turn-against-us.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/pope-francis-pray-that-robots-dont-turn-against-us.amp"
+excerpt: "Deliver us from evil robots! Pope Francis urged Catholics to pray that artificial intelligence and robots “always serve mankind” instead of stripping humanity of its “dignity,” according to"
+publishedDateTime: 2020-11-13T03:02:00Z
+originalUrl: "https://nypost.com/2020/11/12/pope-francis-pray-that-robots-dont-turn-against-us/"
+webUrl: "https://nypost.com/2020/11/12/pope-francis-pray-that-robots-dont-turn-against-us/"
+ampWebUrl: "https://nypost.com/2020/11/12/pope-francis-pray-that-robots-dont-turn-against-us/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/12/pope-francis-pray-that-robots-dont-turn-against-us/amp/"
 type: article
-quality: 104
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0d8af3a9-e39f-4213-be3f-7bf2c5f2c1d1/69d728c1-8474-4cb2-8f78-2dc90220c6b0/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/pope-francis.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -62,6 +58,6 @@ related:
         height: 424
         isCached: true
 
-secured: "Z/3PLo+0Jqc04UOuGfF1DlH1z6xzUcOpboVKt8O8uVYi6K3yqLsYhCqQxjeCxW3Gq6zB3ganpUnw6NNLwTTyufj3KSfECEO1F9cd7gQq8vbF5LrZO6E/cELLgFA9w6mUrob7mkvCECJaVZqwmkSpIygwWk503pczDZdhFYE3tZfWBsOQZDPGKPKX+LSFlJgmAGj3yUhi5ejOBon8UjygibJoT+pCJUUSBycyjIu5EblpGlp5OIdcIctu3fa42NkN5KU313D2uazb3xsQwVjo9J5tHCqrSMl1LXyklQW/Vvvjiujb5h9kajYxKyonwVNKxCu2dK95mc7PjnmxDiY8eVaiWLaiCbfSTeOk+zddJxY=;MQTC1cZk4iRjBNG0YHWj6A=="
+secured: "U8wSDMlwJZ8cO4z2Ds9ZjU0LPpeN1dvMgJcnDkuWtHVnJpuHssNzsPEu+/C6e7vq8N2NCRFHDJvR0mIhFUC/cV26d26nYg+m8f/jTQE3Kso+f1dPJK6cTVgFmS9LymniIO7sHPYPPqA64r/ssMnDHlhxbMBi8w8fdPiWRw+GpK3ArFekW9bAFY0anassmDMtz9loZ3FVTG80/beFOy2Y0F5+ouOUogJAkaw74PXl+hDW1wvk6/P/TXnElkUMaM3P7UvAAI1sg/E7pvrjRt6C3vnNiPJ7C5G/CVllzm1xAvDUZFHtQUTvz5g8WpS9fJt0a8jaqmclxktgzOB+SICFmVcefzZusfikWspIwhPbkgg=;Segxf/Et6CzwE8gJr1YhXg=="
 ---
 
