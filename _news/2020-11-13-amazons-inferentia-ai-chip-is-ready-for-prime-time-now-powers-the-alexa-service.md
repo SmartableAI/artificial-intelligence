@@ -48,6 +48,36 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Amazon shifts some Alexa and Rekognition computing to its own Inferentia chip – Jaweb"
+    excerpt: "Amazon.com on Thursday said it shifted part of the computing for its Alexa voice assistant to its own custom-designed chips, aiming to make the work faster and cheaper while moving it away from chips supplied by Nvidia."
+    publishedDateTime: 2020-11-13T08:59:00Z
+    webUrl: "https://elmoudjaweb.com/amazon-shifts-some-alexa-and-rekognition-computing-to-its-own-inferentia-chip-jaweb/"
+    ampWebUrl: "https://elmoudjaweb.com/amazon-shifts-some-alexa-and-rekognition-computing-to-its-own-inferentia-chip-jaweb/?amp"
+    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/amazon-shifts-some-alexa-and-rekognition-computing-to-its-own-inferentia-chip-jaweb/?amp"
+    type: article
+    provider:
+      name: Elmoudjaweb
+      domain: elmoudjaweb.com
+    quality: 71
+    images:
+      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/11/Amazon-shifts-some-Alexa-and-Rekognition-computing-to-its-own.jpg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Amazon begins shifting Alexa’s cloud AI to its own silicon"
+    excerpt: "On Thursday, an Amazon AWS blog post announced that the company has moved most of the cloud processing for its Alexa personal assistant off of Nvidia GPUs and onto its own Inferentia Application Specific Integrated Circuit (ASIC)."
+    publishedDateTime: 2020-11-13T18:07:00Z
+    webUrl: "https://arstechnica.com/gadgets/2020/11/amazon-begins-shifting-alexas-cloud-ai-to-its-own-silicon/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/11/InferentiaSmall-640x380.jpg"
+        width: 640
+        height: 380
+        isCached: true
   - title: "Amazon shifts some voice assistant, face recognition computing to its own chips"
     excerpt: "First announced in 2018, the Amazon chip is custom-designed to speed up large volumes of machine learning tasks such as translating text to speech or recognising images"
     publishedDateTime: 2020-11-13T06:31:00Z

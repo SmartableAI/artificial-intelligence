@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "FG inaugurates robotics, artificial intelligence centre"
+    excerpt: "Okechukwu Nnodim, AbujaThe Federal Government on Friday inaugurated the National Centre for Artificial Intelligence and Robotics.Minister of Communications and Digital Economy, Isa"
+    publishedDateTime: 2020-11-13T18:34:00Z
+    webUrl: "https://punchng.com/fg-inaugurates-robotics-artificial-intelligence-centre/"
+    ampWebUrl: "https://punchng.com/fg-inaugurates-robotics-artificial-intelligence-centre/?amp=1"
+    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/fg-inaugurates-robotics-artificial-intelligence-centre/?amp=1"
+    type: article
+    provider:
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 89
+    images:
+      - url: "https://cdn.punchng.com/wp-content/uploads/2016/11/12194043/Dr.-Isa-Ali-Pantami.jpg"
+        width: 600
+        height: 402
+        isCached: true
   - title: "Nigeria gets Artificial Intelligence, Robotics Centre"
     excerpt: "Dr Isa Pantami, Minister of Communications and Digital Economy, on Friday in Abuja, inaugurated the National Centre for Artificial Intelligence and Robotics."
     publishedDateTime: 2020-11-13T15:09:00Z

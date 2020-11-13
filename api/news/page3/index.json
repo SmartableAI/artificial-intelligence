@@ -2,6 +2,248 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-12-how-ai-can-help-combat-slavery-and-free-40-million-victims.md",
+      "title": "How AI Can Help Combat Slavery And Free 40 Million Victims",
+      "excerpt": "Emerging technology, including artificial intelligence, can help combat slavery by revealing trends in payments and helping identify victims to police.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/11/12/how-ai-can-help-combat-slavery-and-free-40-million-victims/",
+      "originalUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/11/12/how-ai-can-help-combat-slavery-and-free-40-million-victims/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faa6f2cec660f3c8a133f08%2F0x0.jpg",
+          "width": 1200,
+          "height": 852,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/11/12/how-ai-can-help-combat-slavery-and-free-40-million-victims/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/worldeconomicforum/2020/11/12/how-ai-can-help-combat-slavery-and-free-40-million-victims/amp/",
+      "publishedDateTime": "2020-11-12T02:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-ai-is-wrestling-with-a-replication-crisis.md",
+      "title": "AI is wrestling with a replication crisis",
+      "excerpt": "Nature published a damning response written by 31 scientists to a study from Google Health that had appeared in the journal earlier this year. Google was describing successful trials of an AI that looked for signs of breast cancer in medical images.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2020/11/12/1011944/artificial-intelligence-replication-crisis-science-big-tech-google-deepmind-facebook-openai/",
+      "originalUrl": "https://www.technologyreview.com/2020/11/12/1011944/artificial-intelligence-replication-crisis-science-big-tech-google-deepmind-facebook-openai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/11/Replicate-2_up.jpg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2020/11/12/1011944/artificial-intelligence-replication-crisis-science-big-tech-google-deepmind-facebook-openai/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/11/12/1011944/artificial-intelligence-replication-crisis-science-big-tech-google-deepmind-facebook-openai/amp/",
+      "publishedDateTime": "2020-11-12T01:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-telus-makes-foray-into-agriculture-using-ai-to-help-food-chain.md",
+      "title": "Telus Makes Foray Into Agriculture Using AI to Help Food Chain",
+      "excerpt": "One of Canada’s biggest telecommunications companies is making a foray into agriculture, using technologies such as artificial intelligence to help farmers and ranchers optimize efforts across the food chain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-11-12/telus-makes-foray-into-agriculture-using-ai-to-help-food-chain",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-11-12/telus-makes-foray-into-agriculture-using-ai-to-help-food-chain",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibifokI9WJVQ/v1/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-11-12/telus-makes-foray-into-agriculture-using-ai-to-help-food-chain",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-12/telus-makes-foray-into-agriculture-using-ai-to-help-food-chain",
+      "publishedDateTime": "2020-11-12T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-christian-frahms-united-fintech-to-ease-banks-digitization.md",
+      "title": "Christian Frahm’s United Fintech to Ease Bank’s Digitization",
+      "excerpt": "Fintech veteran Christian Frahm has launched United Fintech, a company that is aiming to provide banks and other financial institutions access to capital market-focused digital technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financemagnates.com/fintech/news/christian-frahms-united-fintech-to-ease-banks-digitization/",
+      "originalUrl": "https://www.financemagnates.com/fintech/news/christian-frahms-united-fintech-to-ease-banks-digitization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financemagnates.com/wp-content/uploads/2020/11/fintech.jpg",
+          "width": 722,
+          "height": 414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financemagnates.com/fintech/news/christian-frahms-united-fintech-to-ease-banks-digitization/amp/",
+      "cdnAmpWebUrl": "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/christian-frahms-united-fintech-to-ease-banks-digitization/amp/",
+      "publishedDateTime": "2020-11-12T00:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finance Magnates",
+        "domain": "financemagnates.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-databricks-launches-sql-analytics.md",
+      "title": "Databricks launches SQL Analytics",
+      "excerpt": "Databricks adds new SQL Analytics Workspace and Endpoint features, consolidating its acquisition of Redash and bolstering its \"data lakehouse\" marketing push.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/databricks-launches-sql-analytics/",
+      "originalUrl": "https://www.zdnet.com/article/databricks-launches-sql-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/11/11/fa46ec20-a94a-473e-b79f-68241df6be90/sql-editor-with-query.png",
+          "width": 3838,
+          "height": 2004,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/databricks-launches-sql-analytics/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/databricks-launches-sql-analytics/",
+      "publishedDateTime": "2020-11-11T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-apps-are-now-putting-the-parole-agent-in-your-pocket.md",
       "title": "Apps Are Now Putting the Parole Agent in Your Pocket",
       "excerpt": "Instead, he suggests states provide people with social workers, therapy, and access to housing ... calls a “game of life app,” that combines remote monitoring, artificial intelligence, and biometric data from users. “One of the really critical ...",
@@ -579,7 +821,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/11/top-reasons-the-investment-spigot-is-reopening-for-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1027,256 +1269,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-researchers-claim-ai-algorithm-uses-heart-rate-and-motion-data-to-predict-age-sex-and-more.md",
-      "title": "Researchers claim AI algorithm uses heart rate and motion data to predict age, sex, and more",
-      "excerpt": "University of Cambridge and Alan Turing Institute researchers developed an algorithm that predicts age, BMI, and more from wearable data.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/11/researchers-claim-ai-algorithm-use-heart-rate-and-motion-data-to-predict-age-sex-and-more/",
-      "originalUrl": "https://venturebeat.com/2020/11/11/researchers-claim-ai-algorithm-use-heart-rate-and-motion-data-to-predict-age-sex-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/IMG_4433D-e1605045130970.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/11/researchers-claim-ai-algorithm-use-heart-rate-and-motion-data-to-predict-age-sex-and-more/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/11/researchers-claim-ai-algorithm-use-heart-rate-and-motion-data-to-predict-age-sex-and-more/amp/",
-      "publishedDateTime": "2020-11-11T06:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-equitable-tech-ai-enabled-platform-to-reduce-bias-in-datasets-released.md",
-      "title": "Equitable tech: AI-enabled platform to reduce bias in datasets released",
-      "excerpt": "The platform could promote equity in academic admissions, credit score assessment, hiring, academic admissions, and more, according to Synthesized.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/equitable-tech-ai-enabled-platform-to-reduce-bias-in-datasets-released/",
-      "originalUrl": "https://www.techrepublic.com/article/equitable-tech-ai-enabled-platform-to-reduce-bias-in-datasets-released/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/11/11/44436744-fe4e-4eaf-bdbe-c943f9889f46/resize/1200x/ec4c1fe64d24827800bfe87676c10f69/metamorworks-11.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/equitable-tech-ai-enabled-platform-to-reduce-bias-in-datasets-released/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/equitable-tech-ai-enabled-platform-to-reduce-bias-in-datasets-released/",
-      "publishedDateTime": "2020-11-11T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-this-is-the-design-story-behind-bmws-all-new-flagship-electric-ix.md",
-      "title": "This Is The Design Story Behind BMW’s All-New Flagship Electric iX",
-      "excerpt": "In an exclusive interview, BMW Group head of design Adrian van Hooydonk explains the progressive design and pioneering technology behind the flagship electric BMW iX, a car reinventing the marque in t",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nargessbanks/2020/11/11/this-is-the-design-story-behind-bmws-all-new-flagship-electric-ix/",
-      "originalUrl": "https://www.forbes.com/sites/nargessbanks/2020/11/11/this-is-the-design-story-behind-bmws-all-new-flagship-electric-ix/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fabd7cdca60dc5622110ced%2F0x0.jpg%3FcropX1%3D209%26cropX2%3D896%26cropY1%3D201%26cropY2%3D587",
-          "width": 687,
-          "height": 386,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nargessbanks/2020/11/11/this-is-the-design-story-behind-bmws-all-new-flagship-electric-ix/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nargessbanks/2020/11/11/this-is-the-design-story-behind-bmws-all-new-flagship-electric-ix/amp/",
-      "publishedDateTime": "2020-11-11T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-researchers-propose-physical-ai-as-key-to-lifelike-robots.md",
-      "title": "Researchers Propose ‘Physical AI’ As Key To Lifelike Robots",
-      "excerpt": "This combined discipline of \"physical AI\" could effectively be the missing link in the attempt to create artificially intelligent robots that look and behave like humans, the Imperial College London team suggests.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/simonchandler/2020/11/11/researchers-propose-physical-ai-as-key-to-lifelike-robots/",
-      "originalUrl": "https://www.forbes.com/sites/simonchandler/2020/11/11/researchers-propose-physical-ai-as-key-to-lifelike-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fabd7b213e5c462adfa8f21%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/simonchandler/2020/11/11/researchers-propose-physical-ai-as-key-to-lifelike-robots/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/11/11/researchers-propose-physical-ai-as-key-to-lifelike-robots/amp/",
-      "publishedDateTime": "2020-11-11T04:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-korean-payment-giants-danal-fintech-joins-icon-blockchain-ecosystem.md",
-      "title": "Korean Payment Giant’s Danal Fintech Joins ICON Blockchain Ecosystem",
-      "excerpt": "Danal Fintech, a subsidiary of Danal ( one of the largest payment companies in South Korea, today announced that they are joining the ICON blockchain ecosystem, the largest decentralized network in Korea by market capitalization.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/korean-payment-giant-s-danal-fintech-joins-icon-blockchain-ecosystem-1029791295",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/korean-payment-giant-s-danal-fintech-joins-icon-blockchain-ecosystem-1029791295",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Korean-Payment-Giant-s-Danal-Fintech-Joins-ICON-Blockchain-Ecosystem-1029791295",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Korean-Payment-Giant-s-Danal-Fintech-Joins-ICON-Blockchain-Ecosystem-1029791295",
-      "publishedDateTime": "2020-11-11T04:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

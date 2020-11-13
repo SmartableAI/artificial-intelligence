@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20201109/Machine-learning-algo
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201109/Machine-learning-algorithms-help-predict-out-of-hospital-cardiac-arrest-survival.aspx"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: News Medical
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Estimating the carbon footprint of deep learning algorithms"
-    excerpt: "Hardware used to train a deep learning algorithm can use worrying amounts of energy from an environmental standpoint."
-    publishedDateTime: 2020-11-09T02:19:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/11/09/estimating-the-carbon-footprint-of-deep-learning-algorithms"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2020/11/08/929991.jpeg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Machine learning helps predict survival rates of out-of-hospital cardiac arrest"
     excerpt: "Machine learning predictions about the survival rate of an out-of-hospital cardiac arrest were more accurate when neighborhood-level factors were added to the data analysis. Future research can use this newly developed model to identify neighborhood-level intervention methods to decrease death rates from an out-of-hospital cardiac arrest."
     publishedDateTime: 2020-11-09T15:15:00Z

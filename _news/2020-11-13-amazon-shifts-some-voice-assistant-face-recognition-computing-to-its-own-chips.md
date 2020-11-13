@@ -60,6 +60,36 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Amazon shifts some Alexa and Rekognition computing to its own Inferentia chip – Jaweb"
+    excerpt: "Amazon.com on Thursday said it shifted part of the computing for its Alexa voice assistant to its own custom-designed chips, aiming to make the work faster and cheaper while moving it away from chips supplied by Nvidia."
+    publishedDateTime: 2020-11-13T08:59:00Z
+    webUrl: "https://elmoudjaweb.com/amazon-shifts-some-alexa-and-rekognition-computing-to-its-own-inferentia-chip-jaweb/"
+    ampWebUrl: "https://elmoudjaweb.com/amazon-shifts-some-alexa-and-rekognition-computing-to-its-own-inferentia-chip-jaweb/?amp"
+    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/amazon-shifts-some-alexa-and-rekognition-computing-to-its-own-inferentia-chip-jaweb/?amp"
+    type: article
+    provider:
+      name: Elmoudjaweb
+      domain: elmoudjaweb.com
+    quality: 71
+    images:
+      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/11/Amazon-shifts-some-Alexa-and-Rekognition-computing-to-its-own.jpg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Amazon begins shifting Alexa’s cloud AI to its own silicon"
+    excerpt: "On Thursday, an Amazon AWS blog post announced that the company has moved most of the cloud processing for its Alexa personal assistant off of Nvidia GPUs and onto its own Inferentia Application Specific Integrated Circuit (ASIC)."
+    publishedDateTime: 2020-11-13T18:07:00Z
+    webUrl: "https://arstechnica.com/gadgets/2020/11/amazon-begins-shifting-alexas-cloud-ai-to-its-own-silicon/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/11/InferentiaSmall-640x380.jpg"
+        width: 640
+        height: 380
+        isCached: true
   - title: "Amazon shifts some voice, face recognition computing to own chips"
     excerpt: "Amazon on Thursday said it shifted part of the computing for its Alexa voice assistant to its own custom-designed chips, aiming to make the work faster and cheaper while moving it away from chips supplied by Nvidia Corp."
     publishedDateTime: 2020-11-12T20:30:00Z
@@ -84,6 +114,6 @@ related:
       domain: seekingalpha.com
     quality: 20
 
-secured: "g7wGaEt0lgE5gZdI1Rco/FzajqQmzIoGM7Y4vNsB141DV6LNkhKznxcEJLrjB7+vXlvINhLrD/5ROVyB9hcFTLWUEm8XP8fKIz20QFJbiF91dPKPlkZ606uVGFOzHhlONySjnP1YhUbo2lUgoq9KFcWREemAi7h5pTcnfhkJAIVQlc12I20oGGon8xcoK1KKA8aKkt++06ktGYb/NQVcZzuFGAjhTx1UQvKoQVV83tj3vg+k6Fs+Mw2CHFHPjd91kzZ6KtB1GRd43iPGYVO830bBMOO4G0BBwRSRclqPwyK8gQKmi6Wcv+HI3ef0KZMqHWS3ri4hf3ipW9pqF4IDJYWQ25+WpdjMYlclHMnoWZI=;m9AkP+gtsZi1sJJMtTSQfw=="
+secured: "D5bY1Kn9F86+3v9A4KbSr5ovpEkNOgENvvwT0SFC2ZeDxbOChnJ/jj1Tnj9ulWAvuHzO+yIOghApBus691wzKijI3BrkYUmX79dsoRmVO0AF2ySB2fniMzJW+gmSZ1e4NH+jObtGhqcbzVSE9lBB4iPapz6IMEUymeFdZHy/8wPt0LEFK2jgNyNXrRxqXVW97gWvFpkFXxAqggFsY1eSFvxtbK4enLY1DfuZEQBT/FFevMglB9/YXZvL8mq+SAkv/QotZS9HG+vVeYZIsUpgt6ty6N9s6ts16Fol1HHMVRnGJtbQM79mJUC6J6Xv8jpP2Jj/WSAqtBSIIF/pTDiu7xUDsyu4EQZMA0CKN3uiDlu/O4LNQOcY0ZvX2yoiVnjcsS2vxVVxnvmazjy1hCGKidDwqMVkOI9VzOsZM2qSnIvFeRPvSKcQUlvj5TxyZ89XOGTF99d0leYQSBjCwOLsdhaBa13qewnHavHijdtKGE4dqNpnDzFSKHpFMeuNxsFWgsA3epmeJx71P1UabOKDJA==;XOayGd2IHq/QNT/6GxQ2hA=="
 ---
 

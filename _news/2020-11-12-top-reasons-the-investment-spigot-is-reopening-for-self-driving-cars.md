@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/11/top-reasons-the-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/11/top-reasons-the-investment-spigot-is-reopening-for-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
     quality: 24
     images:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Audi.JPG"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "VW increases to $86 billion spending on electric, self-driving cars"
+    excerpt: "Volkswagen Group is boosting spending on technologies for electric and self driving cars, while increasing production of EVs in its German home market. Investments in battery-powered vehicles, autonomous driving and related future technologies will rise to about 73 billion euros ($86 billion),"
+    publishedDateTime: 2020-11-13T17:56:00Z
+    webUrl: "https://europe.autonews.com/automakers/vw-increases-86-billion-spending-electric-self-driving-cars"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Audi%20Artemis%20web.jpg"
         width: 800
         height: 600
         isCached: true

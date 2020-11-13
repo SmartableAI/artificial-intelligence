@@ -3,10 +3,10 @@ category: news
 title: "This startup wants to fix your biased AI, one dataset at at time"
 excerpt: "A UK startup has released a new tool that could finally give coders a practical way of identifying bias in their datasets."
 publishedDateTime: 2020-11-13T02:33:00Z
-originalUrl: "https://www.zdnet.com/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/"
-webUrl: "https://www.zdnet.com/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/"
+originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/"
+webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/"
 type: article
 quality: 87
 heat: 87
@@ -29,6 +29,6 @@ images:
     height: 675
     isCached: true
 
-secured: "j7Fdyv5aV6XAOHPsteodC3p01OLCdW049Cue4s8lte7/Av2VOWPU4EefGXtPe4UfX6Ck749eahJEUXZZpSLod5BaadTzJvqFSmuBSpdIaxd3z8AkriVCujSb1ncnWCmetM1HGKInBEK5m9rN2rNS8q5dsLChruNn1ihuOQfMoHhDOv41eKOz/fi8JTquTkPk3R2r42TfWMoVeH5TLKY7JdkCOemICRMEDE1BN+xi1msW507FDBaWBxlQnUVUz+KaTZe+lI5D9wkt2ZaMDcrAEdePM82Sxbt57h/HDKaTNYFRJcA3cYEoCiQ5NTjVNEvOsxI0zPW2dcODdROf7TL46K22REoPooCCDhg4HKQYvLujltLFYJhbySEQKfqt8voLNoVl7WBj5OFE7ChOzLDHV16ZIzbZpxn1LFkLHAg6JzaCzvUNXnWzbPN6M2EsTpBZ7Z8FNFr6ySRbSrczFvhgMTb1yKWi3xwVIPxTJ12ct5svVnWJny7sSTa0lJ8X3datyBDRWsnKFlH6okXz7vSsgg==;XDJZ2s0U1GrUCCs426TQhw=="
+secured: "c/KFiCC9ulade3p2kZ49QwsB8sRXU+MaebDvmOrtFC2GBH+jVS2X9vPaMrdVM5UkkH8OsG7tVv8Os1ljvor8JOyBvoDjF9KUbj9nzuO1y9DEGrYf8BdhlbF3kM85x9y7TbR3wdiBBsCwQjrWXVlZWQgwl4lsmsCju4YPkNftziGAQy4VBrG9P55ngLwI8oQixzckg5jt/j6s+Ny9wSBur/lD/XVU337UKgyRmhpPCI1zQ+JL+4vXOYSs9LEfSQtfbKnsESiXgH7CibdkmLRUrRRse0fTw38hEM2O5NZB5OWFZr+cSMUQPY7Y9sVuYBRJmSYetX+JiQftiSHhjHDUFUFZoCf3HzTAwYi4JJDyF24=;FPIj8i8uvuejjW1sv37CWQ=="
 ---
 

@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
   - url: "https://zdnet4.cbsistatic.com/hub/i/2020/11/12/931ab7f6-3ca4-4467-82c1-c76b3311cbcb/gary-marcus.jpg"
@@ -30,6 +30,6 @@ images:
     height: 392
     isCached: true
 
-secured: "eg/Ijv+jBBgjOCCRoSQW++FqpPXflq90PTsoezlljLEqmqFxiPApC4LTqMmrv1+/GnQTShkS0pizdFVley3OTqs1+6yP3O09f4aqE64K4P8UY5bnep9tbAjR73V0W0iS7BULdpnDtqMEb65AfRVCN+AzqKc+JsRTqlpcj7OarC8PRJPcvbojlte4hKLGTyZwvYh288TyezfW94LAGpt+vd2GurGDSTsKRXCFvGXSPNWf8F0V5UagXOO8CstKkBcr9JQlTko4jlF1qyntru01uVcW6kUX2MTs5islwqJuw7ZpFHiL1hV30Rpla150V1kgfmEbn9b0Yn5FD+S7PxKNzsZTiGf1vULmudmfa37Hbt0=;hoWkgDRMhV17FxSQ1LAxiw=="
+secured: "11sLqYBUdgBABOgbxWGkpoYy58bT3BjgX0w0Ih15FRHDeWkkr47zNnNHEaHQ6kOqpIMQQKujQ6EVaAxUB40tJzQE13Pz7uqcG3k41pYep+OyowFi4fD9YwOGibdh5jLOQn7CTHuhUaZD1Uj+EvMU9YKOpCC9XZA/aeihiNj3PdhzU7VKBjZeY8hdMSTiUIU50vbfjzL4nojcsMGXQHURv7tH+itDvEvBX0iRyHNkqYAIYMO8MZ9IPFF2UmgPhNOA7VDpl4K0duhBwBoAqZynyRbh1UtsVSwWYqkO+TYWilPi6AOqSHoScwmWkL9B6/Hcantn+xj0m45VNOevKfrvES2sa1D3T06fpPETgmmUwxs=;NYJ8NfTACJaYQ4i1MUwL7w=="
 ---
 

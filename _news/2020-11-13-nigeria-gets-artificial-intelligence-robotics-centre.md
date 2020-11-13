@@ -7,8 +7,8 @@ originalUrl: "https://guardian.ng/news/nigeria-gets-artificial-intelligence-robo
 webUrl: "https://guardian.ng/news/nigeria-gets-artificial-intelligence-robotics-centre/"
 type: article
 quality: 71
-heat: 91
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian Nigeria
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "FG inaugurates robotics, artificial intelligence centre"
+    excerpt: "Okechukwu Nnodim, AbujaThe Federal Government on Friday inaugurated the National Centre for Artificial Intelligence and Robotics.Minister of Communications and Digital Economy, Isa"
+    publishedDateTime: 2020-11-13T18:34:00Z
+    webUrl: "https://punchng.com/fg-inaugurates-robotics-artificial-intelligence-centre/"
+    ampWebUrl: "https://punchng.com/fg-inaugurates-robotics-artificial-intelligence-centre/?amp=1"
+    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/fg-inaugurates-robotics-artificial-intelligence-centre/?amp=1"
+    type: article
+    provider:
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 89
+    images:
+      - url: "https://cdn.punchng.com/wp-content/uploads/2016/11/12194043/Dr.-Isa-Ali-Pantami.jpg"
+        width: 600
+        height: 402
+        isCached: true
   - title: "FG set to commission National Centre for Artificial Intelligence and Robotics in Abuja"
     excerpt: "FG is set to commission the National Centre for Artificial Intelligence and Robotics in Abuja. The Federal Government of Nigeria, represented by the honorable Minister of Communication and Digital Economy,"
     publishedDateTime: 2020-11-13T10:02:00Z
@@ -57,6 +73,6 @@ related:
         height: 720
         isCached: true
 
-secured: "W6XvbDdrXsuwYwf9pI35PffWoaGuxwslV5jXimOBQevIK7VGX9TYtQjMhSOyNAGn/UcyxHt4LbpxD2sXr0iYl6jcY2JWDNFaTeYDY9jmhqELk6bdZ2D9gsz3nOOccyMlfmSY9QXSPT6iDYLdCAza2+oTmzoMD9StYt0kVDODqa0D1r+HS1NXSk3JOz8WlHrZk8SCjXNTth2fND/8bfGOvYs84tQ0/O9dHLtFXuKuG4ty8iTdTgknegLLq8LNgD/vVtdGSNEFST06uP4nrtFu1QdGT01IPxZ85Wni16NNgF2IBCeXhCgsbLikmCZNACMEPLLB5QgQMjBVa8HK0S/9zxBhPKoUX4D4juvPWvtM1EE=;NkuQt37t8gU+juLLR9JT8w=="
+secured: "I/Cb14f1MDepxRxNFGh2ut946yBL30AyoufCaFC5Y/5+YWnIXFb9KMeee9qr29MdLK76gvsDJZQlDNSUDqpp/+kUZ085OUJyeZZQ/iw1qjy530H5U3ZJOi+ayph5/82/oqQktr4OiaWtGM14ZpAL5SOjM6+NcHi0d2evI1Ujb7OH9BbH6flp27LdIsDrg3ZAFjVZTwAghK3GDe7okZSTeOkeqUqKeJK8GJOcsojS7QPgoDIKEcfom7JxZJ/RAd0SqlHPLxi8pjCCvdwh1FMACHGmsd/w2Mxn3RCDtKgLwozxIAcjHoioeLz6HG2mMKmAM8ajoyjM/uL2ajJJ4hY3kiw3osRQEIzoXHhNi6xI/Z5eZelPZomp2ONceNFehJeCEf9S8T1DKw3cKg1gAVOuGc36m7x60PWCnsc7JsmMsAyO6hR7Z62Q+o0ag8jJPJ2dyZD8bnle9/tnF8Cv7xK6PVW25hct0ZevIa9TTBznCMpZ92oZJXcm3r2yA4BxqlqJ5XuQ7PaPIeUQBycyKBsNIg==;oI6alhOjukzejPz78phEKw=="
 ---
 

@@ -24,6 +24,22 @@ images:
     height: 350
     isCached: true
 
+related:
+  - title: "Tangent and Altada Technology Solutions team up with Alsessor, a new AI accelerator programme"
+    excerpt: "Tangent, Trinity College Dublin's 'Ideas Workspace' has partnered with Altada Technology Solutions to create Alsessor, a new AI accelerator programme supporting early stage startups and entrepreneurs in the growth and commercialisation of their businesses."
+    publishedDateTime: 2020-11-13T18:57:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/tcd-taa111320.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 26
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+
 secured: "EA24f+XBWt3kBtimiRiqB2Oxb6SvyjJSGkoltgpnkgwVlP7p5Sim+EOpQvO1JMU6hQG7khnzXxgKFnymR8AAFSjhJflBvbvj9TuelKJxchqtK27pqPb7Dk8strgBtav80wWzj59N8H5Zr5cXNihf8mRd9T6c+GAx5NTK54zkXYhJHT1vqR2ZekqTwoDGynXWGTHRKjvYIEml3PbWM/dkqYVIIVQUTxEUTTqK5/1GWESYyXFELYUFBDDoRtkNFBZdo2emzJzOfOAfUi3n1CzWcVoodECHkYIj9Mv+4Y4fCQYcyMbdLeRDDX2gebQuHuJsYovxA216QctOVtP3LpAOlR8TReck77EpdFOy/IYycTs=;3fFB3wnDgJ513noB+gL+TA=="
 ---
 
