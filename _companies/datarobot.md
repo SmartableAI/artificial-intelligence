@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "DataRobot"
   url: "https://twitter.com/DataRobot"
-  followers: 16831
+  followers: 16830
 
 size: 501-1,000 employees
 yearFounded: 2012
