@@ -4,167 +4,52 @@
   "page": 3,
   "value": [
     {
-      "path": "_companies/xbird.io.md",
-      "title": "Xbird",
-      "excerpt": "xbird is a medical AI company dedicated to saving lives by disrupting the way we think about prevention and early detection of diseases. We are developing sophisticated machine learning algorithms that analyze sensor data from smartphones and wearables to predict and prevent critical health risks. We are a team of medical doctors, data scientists, machine learning engineers and serial entrepreneurs from Berlin and Silicon Valley. xbirds provides a service to medical device and pharma companies to achieve higher patient engagement, reduce patient burden and work towards improving patient outcomes.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/xbird.io/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/xbird.io/",
+      "path": "_companies/aidoc.md",
+      "title": "Aidoc",
+      "excerpt": "Utilizing #AI #deeplearning to flag abnormalities as they enter the #radiology #worklist",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aidoc/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/aidoc/",
       "type": "profile",
-      "name": "Xbird",
-      "overview": "xbird is a medical AI company dedicated to saving lives by disrupting the way we think about prevention and early detection of diseases. We are developing sophisticated machine learning algorithms that analyze sensor data from smartphones and wearables to predict and prevent critical health risks. We are a team of medical doctors, data scientists, machine learning engineers and serial entrepreneurs from Berlin and Silicon Valley. xbirds provides a service to medical device and pharma companies to achieve higher patient engagement, reduce patient burden and work towards improving patient outcomes.",
-      "website": "http://www.xbird.io/",
+      "name": "Aidoc",
+      "overview": "Utilizing #AI #deeplearning to flag abnormalities as they enter the #radiology #worklist",
+      "website": "http://aidoc.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/xbird/",
-        "followers": 982
+        "url": "https://www.linkedin.com/company/aidoc-inc/",
+        "followers": 57
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/xbird-gmbh"
+        "url": "https://www.crunchbase.com/organization/aidoc"
       },
       "twitter": {
-        "username": "xbirdhealth",
-        "url": "https://twitter.com/xbirdhealth",
-        "followers": 562
-      },
-      "size": "2-10 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "Berlin, Germany",
-        "Berlin, Berlin"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=VQhmAIFKOyU"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1254728072546463745/58TGGOtt_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Xbird",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQE5uBAedW_F2A/company-logo_200_200/0?e=1594857600&v=beta&t=p9pfx8LRmoaNPMwjLOzlVSEx2_b5bHKTfeTaODjF_cU",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/aira.io.md",
-      "title": "Aira Tech Corp",
-      "excerpt": "AI stands for Artificial Intelligence; RA stands for Remote Assistance. When you put them together you get Aira.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aira.io/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/aira.io/",
-      "type": "profile",
-      "name": "Aira Tech Corp",
-      "otherNames": [
-        "Aira"
-      ],
-      "overview": "AI stands for Artificial Intelligence; RA stands for Remote Assistance. When you put them together you get Aira.",
-      "website": "https://aira.io/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/airaio/",
-        "followers": 2543
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/aira"
-      },
-      "twitter": {
-        "username": "airaio",
-        "url": "https://twitter.com/airaio",
-        "followers": 4094
+        "username": "aidocmed",
+        "url": "https://twitter.com/aidocmed",
+        "followers": 1806
       },
       "size": "11-50 employees",
-      "yearFounded": 2015,
+      "yearFounded": 2008,
       "locations": [
-        "La Jolla, CA",
-        "La Jolla, California"
+        "Los Angeles, CA",
+        "Richmond Hill, Ontario"
       ],
       "funding": {
         "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
-        "Computer Vision",
-        "AI in Healthcare",
-        "Machine Learning"
-      ],
-      "heat": 42,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/804415310488948736/A3hBrqgt_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Aira Tech Corp",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFJie4SeRm7AQ/company-logo_200_200/0?e=1594857600&v=beta&t=y73FJTU_72DV5AVlUkovIE3Fo4aThmx9RNtZRhxzxvE",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/brainomix.md",
-      "title": "Brainomix",
-      "excerpt": "Brainomix’s vision is to be a world leader in imaging software to support clinical decision making, for neurological and cerebrovascular diseases.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/brainomix/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/brainomix/",
-      "type": "profile",
-      "name": "Brainomix",
-      "overview": "Brainomix’s vision is to be a world leader in imaging software to support clinical decision making, for neurological and cerebrovascular diseases.",
-      "website": "http://www.brainomix.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/brainomix",
-        "followers": 1428
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/brainomix"
-      },
-      "twitter": {
-        "username": "brainomix",
-        "url": "https://www.twitter.com/brainomix",
-        "followers": 841
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2010,
-      "locations": [
-        "Oxford, UK",
-        "Oxford"
-      ],
-      "topics": [
-        "AI",
         "AI in Healthcare"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=S2eI-YOtTZg"
+          "url": "https://www.youtube.com/watch?v=r3g_VCI2B4U"
         }
       ],
       "heat": 42,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1315595764765282305/gMF76Sl7_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/943513551695728640/wB-95_tX_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Brainomix",
+          "title": "Aidoc",
           "isCached": true
         }
       ],
@@ -231,35 +116,131 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/freenome.md",
-      "title": "Freenome",
-      "excerpt": "Freenome is a biotechnology company on a mission to empower everyone with the tools they need to detect, treat, and ultimately prevent their diseases.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/freenome/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/freenome/",
+      "path": "_companies/gnshealthcare.md",
+      "title": "GNS Healthcare",
+      "excerpt": "We solve healthcare’s matching problem. We provide technology, services, and solutions that precisely match health interventions to individuals, helping our clients improve health outcomes and avoid the billions of healthcare dollars wasted on ineffective treatments.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/gnshealthcare/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/gnshealthcare/",
       "type": "profile",
-      "name": "Freenome",
-      "overview": "Freenome is a biotechnology company on a mission to empower everyone with the tools they need to detect, treat, and ultimately prevent their diseases.",
-      "website": "https://www.freenome.com/",
+      "name": "GNS Healthcare",
+      "overview": "We solve healthcare’s matching problem. We provide technology, services, and solutions that precisely match health interventions to individuals, helping our clients improve health outcomes and avoid the billions of healthcare dollars wasted on ineffective treatments.",
+      "website": "http://www.gnshealthcare.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/freenome/",
-        "followers": 4285
+        "url": "https://www.linkedin.com/company/gns-healthcare/",
+        "followers": 3017
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/freenome"
+        "url": "https://www.crunchbase.com/organization/gns-healthcare"
       },
       "twitter": {
-        "username": "freenome",
-        "url": "https://www.twitter.com/freenome",
-        "followers": 2194
+        "username": "gnshealthcare",
+        "url": "https://twitter.com/gnshealthcare",
+        "followers": 2622
       },
       "size": "51-200 employees",
-      "yearFounded": 2014,
+      "yearFounded": 2000,
       "locations": [
-        "South San Francisco, CA",
-        "South San Francisco, California"
+        "Cambridge, MA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=1063wrnhLHE"
+        }
+      ],
+      "heat": 42,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1865800231/twitlogo2_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "GNS Healthcare",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/kensci.md",
+      "title": "KenSci",
+      "excerpt": "Digital primary care for less. Get answers and chat with a doctor for less than a co-pay without leaving your couch.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/kensci/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/kensci/",
+      "type": "profile",
+      "name": "KenSci",
+      "overview": "Digital primary care for less. Get answers and chat with a doctor for less than a co-pay without leaving your couch.",
+      "website": "https://www.kensci.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/kensci",
+        "followers": 3545
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/kensci"
+      },
+      "twitter": {
+        "username": "KenSci",
+        "url": "https://twitter.com/KenSci",
+        "followers": 1519
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "Seattle, WA",
+        "Seattle, Washington"
       ],
       "funding": {
         "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ],
+      "heat": 42,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/915268504244314113/m8aLPHU7_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "KenSci",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/lifebit.ai.md",
+      "title": "Lifebit",
+      "excerpt": "Lifebit is developing the world’s first platform that brings the computation to your omics data and learns from it.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/lifebit.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/lifebit.ai/",
+      "type": "profile",
+      "name": "Lifebit",
+      "overview": "Lifebit is developing the world’s first platform that brings the computation to your omics data and learns from it.",
+      "website": "https://lifebit.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/lifebit-ai/",
+        "followers": 900
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/lifebit-ai"
+      },
+      "twitter": {
+        "username": "lifebitAI",
+        "url": "https://twitter.com/lifebitAI",
+        "followers": 4125
+      },
+      "size": "2-10 employees",
+      "yearFounded": 2017,
+      "locations": [
+        "London, UK",
+        "London, London"
+      ],
+      "funding": {
+        "status": "Seed"
       },
       "topics": [
         "AI",
@@ -267,20 +248,20 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=TrEnNA_kZBI"
+          "url": "https://www.youtube.com/watch?v=aycHy_axa_Q"
         }
       ],
       "heat": 42,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/985371277727797249/0wMRLRjP_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/972120873456095233/2a1jM0Km_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Freenome",
+          "title": "Lifebit",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQEnCMHsfvcusw/company-logo_200_200/0?e=1594857600&v=beta&t=F1H77vwXX4Yg38yNL73XsNMahtYWl67QeRr_u3PE6q4",
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQG6jiqJ2o5gmg/company-logo_200_200/0?e=1594857600&v=beta&t=oQdN7yi0p9muTqdn256inMB-A-4Y-Cbq2UnB0kwW5d0",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -290,32 +271,26 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/insilicomedicine.md",
-      "title": "Insilico Medicine",
-      "excerpt": "Insilico Medicine, Inc is an artificial intelligence company headquartered in Rockville, with R&amp;D and management resources in Belgium, Russia, UK, Taiwan, and Korea sourced through hackathons and competitions. The company and its scientists are dedicated to extending human productive longevity and transforming every step of the drug discovery and drug development process through excellence in biomarker discovery, drug development, digital medicine, and aging research.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/insilicomedicine/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/insilicomedicine/",
+      "path": "_companies/niramai.md",
+      "title": "Niramai Health Analytix",
+      "excerpt": "Applying #AI and #ML to the toughest business challenges. LinkedIn 2018 #1 B2B Startup. Gartner Cool Vendor. Your source for Enterprise AI®",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/niramai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/niramai/",
       "type": "profile",
-      "name": "Insilico Medicine",
-      "overview": "Insilico Medicine, Inc is an artificial intelligence company headquartered in Rockville, with R&amp;D and management resources in Belgium, Russia, UK, Taiwan, and Korea sourced through hackathons and competitions. The company and its scientists are dedicated to extending human productive longevity and transforming every step of the drug discovery and drug development process through excellence in biomarker discovery, drug development, digital medicine, and aging research.",
-      "website": "http://insilicomedicine.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/in-silico-medicine-inc",
-        "followers": 3413
-      },
+      "name": "Niramai Health Analytix",
+      "overview": "Applying #AI and #ML to the toughest business challenges. LinkedIn 2018 #1 B2B Startup. Gartner Cool Vendor. Your source for Enterprise AI®",
+      "website": "http://www.niramai.com",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/insilico-medicine"
+        "url": "https://www.crunchbase.com/organization/niramai-health-analytix"
       },
       "twitter": {
-        "username": "InsilicoMeds",
-        "url": "https://twitter.com/InsilicoMeds",
-        "followers": 3268
+        "username": "niramaianalytix",
+        "url": "https://twitter.com/niramaianalytix",
+        "followers": 796
       },
-      "size": "11-50 employees",
-      "yearFounded": 2014,
+      "yearFounded": 0,
       "locations": [
-        "Hong Kong, China",
-        "Hong Kong , Hong Kong"
+        "Rich Jerk Headquarters, USA"
       ],
       "funding": {
         "status": "Early Stage Venture"
@@ -326,20 +301,71 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=EUr-rkXsBUs"
+          "url": "https://www.youtube.com/watch?v=3mx-g-RJoKg"
         }
       ],
       "heat": 42,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1013451500503339014/znBZzv85_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/755680998478741504/NpmYIAXx_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Insilico Medicine",
+          "title": "Niramai Health Analytix",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/notable.md",
+      "title": "Notable",
+      "excerpt": "Notable is a health technology company focused on reimagining the healthcare technology stack to enrich every patient-physician interaction.  We use wearable tech, voice interface, and artificial intelligence to relieve administrative burdens and improve outcomes.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/notable/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/notable/",
+      "type": "profile",
+      "name": "Notable",
+      "overview": "Notable is a health technology company focused on reimagining the healthcare technology stack to enrich every patient-physician interaction.  We use wearable tech, voice interface, and artificial intelligence to relieve administrative burdens and improve outcomes.",
+      "website": "http://notablehealth.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/notablehealth/",
+        "followers": 760
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/notable"
+      },
+      "twitter": {
+        "username": "notablehealth",
+        "url": "https://twitter.com/notablehealth",
+        "followers": 232
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2017,
+      "locations": [
+        "San Mateo, CA",
+        "San Mateo, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Natural Language Processing"
+      ],
+      "heat": 42,
+      "tags": [
+        "Speech Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1037421685069242369/f9VitPKO_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Notable",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHt6iNIXOSiWw/company-logo_200_200/0?e=1594857600&v=beta&t=LVcUsJmOvWzCqdeTs0Xqr38nsjOMzZYCq0MF54RImgA",
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGV0xRUUXIJ2g/company-logo_200_200/0?e=1594857600&v=beta&t=WRgeu92Qdu_7XC1by72y9GgVqu3Txlhn30eY4b96btc",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -349,32 +375,31 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/mediktor.md",
-      "title": "Mediktor",
-      "excerpt": "Free face detection and recogniton API provider. Leading Face Recognition on Cloud.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/mediktor/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/mediktor/",
+      "path": "_companies/owkin.md",
+      "title": "OWKIN",
+      "excerpt": "Owkin was co-founded in 2016 by Thomas Clozel, MD, a clinical research doctor and former assistant professor in clinical hematology and Gilles Wainrib, PhD, a pioneer in the field of Artificial Intelligence in biology.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/owkin/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/owkin/",
       "type": "profile",
-      "name": "Mediktor",
-      "overview": "Free face detection and recogniton API provider. Leading Face Recognition on Cloud.",
-      "website": "https://www.mediktor.com",
+      "name": "OWKIN",
+      "overview": "Owkin was co-founded in 2016 by Thomas Clozel, MD, a clinical research doctor and former assistant professor in clinical hematology and Gilles Wainrib, PhD, a pioneer in the field of Artificial Intelligence in biology.",
+      "website": "https://owkin.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/mediktor",
-        "followers": 869
+        "url": "https://www.linkedin.com/company/owkin",
+        "followers": 3729
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/teckel-medical"
+        "url": "https://www.crunchbase.com/organization/owkin-2"
       },
       "twitter": {
-        "username": "Mediktor",
-        "url": "https://twitter.com/Mediktor",
-        "followers": 2575
+        "username": "owkinscience",
+        "url": "https://www.twitter.com/owkinscience",
+        "followers": 2139
       },
-      "size": "11-50 employees",
-      "yearFounded": 2011,
+      "size": "51-200 employees",
+      "yearFounded": 2016,
       "locations": [
-        "Beijing, China",
-        "Barcelona, Cataluña / Catalunya"
+        "New York, NY"
       ],
       "funding": {
         "status": "Early Stage Venture"
@@ -385,20 +410,20 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=VrnosHhMfgA"
+          "url": "https://www.youtube.com/watch?v=JSdUHfUR5gg"
         }
       ],
       "heat": 42,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1250421796169383937/IqltmVt9_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/998741520852205568/d8fjQqUY_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Mediktor",
+          "title": "OWKIN",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHEYqgnmCjhZg/company-logo_200_200/0?e=1594857600&v=beta&t=73PMeeLZjqgIWE7R_CONeYVNGUHxlASyQ-ZSchElGyk",
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH2IrRbnYGE9Q/company-logo_200_200/0?e=1594857600&v=beta&t=_AOUBHvB83m3DnQ4sjUKF3s26fFbWJF3ORo8TLhL78A",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -423,7 +448,7 @@
       "twitter": {
         "username": "skychainglobal",
         "url": "https://twitter.com/skychainglobal",
-        "followers": 2654
+        "followers": 2655
       },
       "yearFounded": 0,
       "locations": [
@@ -451,118 +476,101 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/fdna.md",
-      "title": "FDNA",
-      "excerpt": "We're a technology company based in NYC on a mission to improve lives by learning from the experience of every cancer patient.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/fdna/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/fdna/",
+      "path": "_companies/babylonhealth.md",
+      "title": "Babylon Health",
+      "excerpt": "babylon is the U.K’s leading digital healthcare service. Our purpose is to democratise healthcare by putting an accessible and affordable health service into the hands of every person on earth. In order to achieve this babylon has brought together one of the largest teams of scientists, clinicians, mathematicians and engineers to focus on combining the ever growing computing power of machines with the best medical expertise of humans to create a comprehensive, immediate and personalised health service and make it universally available.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/babylonhealth/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/babylonhealth/",
       "type": "profile",
-      "name": "FDNA",
-      "overview": "We're a technology company based in NYC on a mission to improve lives by learning from the experience of every cancer patient.",
-      "website": "https://www.fdna.com/",
+      "name": "Babylon Health",
+      "overview": "babylon is the U.K’s leading digital healthcare service. Our purpose is to democratise healthcare by putting an accessible and affordable health service into the hands of every person on earth. In order to achieve this babylon has brought together one of the largest teams of scientists, clinicians, mathematicians and engineers to focus on combining the ever growing computing power of machines with the best medical expertise of humans to create a comprehensive, immediate and personalised health service and make it universally available.",
+      "website": "https://www.babylonhealth.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/fdna",
-        "followers": 1151
+        "url": "https://www.linkedin.com/company/babylonhealth/",
+        "followers": 30918
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/fdna-inc"
+        "url": "https://www.crunchbase.com/organization/babylon-health"
       },
       "twitter": {
-        "username": "FDNA",
-        "url": "https://twitter.com/FDNA",
-        "followers": 6458
+        "username": "babylonhealth",
+        "url": "https://twitter.com/babylonhealth",
+        "followers": 12407
       },
-      "size": "11-50 employees",
-      "yearFounded": 2011,
+      "size": "1,001-5,000 employees",
+      "yearFounded": 2013,
       "locations": [
-        "Boston, MA"
+        "London, UK",
+        "London, London"
       ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
       "topics": [
         "AI",
         "AI in Healthcare"
       ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=qUDQnRMJOcw"
-        }
-      ],
       "heat": 32,
-      "tags": [
-        "Cancer"
-      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1280825066377416707/qtusxek3_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1311975427678908416/Gv7pj3jW_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "FDNA",
+          "title": "Babylon Health",
           "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFPigzRHh6z8A/company-logo_200_200/0?e=1594857600&v=beta&t=9DM7xRDfFMkueOV4i4_4EjmyDN-c3k1q_nRGaBQ31QY",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_companies/healx.io.md",
-      "title": "Healx",
-      "excerpt": "Healx is an AI-powered and patient-inspired technology company, accelerating the discovery and development of rare disease treatments.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/healx.io/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/healx.io/",
+      "path": "_companies/currenthealth.md",
+      "title": "Current Health",
+      "excerpt": "The Current Health universal patient management platform combines our FDA-cleared continuous, wireless wearable, an ecosystem of device integrations and advanced analytics to help physicians and patients make earlier decisions that avoid admission and improve health.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/currenthealth/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/currenthealth/",
       "type": "profile",
-      "name": "Healx",
-      "overview": "Healx is an AI-powered and patient-inspired technology company, accelerating the discovery and development of rare disease treatments.",
-      "website": "https://healx.io/",
+      "name": "Current Health",
+      "otherNames": [
+        "Snap40 Limited",
+        "snap40"
+      ],
+      "overview": "The Current Health universal patient management platform combines our FDA-cleared continuous, wireless wearable, an ecosystem of device integrations and advanced analytics to help physicians and patients make earlier decisions that avoid admission and improve health.",
+      "website": "https://www.currenthealth.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/healx/",
-        "followers": 2126
+        "url": "https://www.linkedin.com/company/currenthealth/",
+        "followers": 2873
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/healx"
+        "url": "https://www.crunchbase.com/organization/current-health"
       },
       "twitter": {
-        "username": "healx",
-        "url": "https://twitter.com/healx",
-        "followers": 2095
+        "username": "HeyCurrent",
+        "url": "https://twitter.com/HeyCurrent",
+        "followers": 1467
       },
       "size": "11-50 employees",
-      "yearFounded": 2014,
+      "yearFounded": 2015,
       "locations": [
-        "Cambridge, UK",
-        "Cambridge, Cambridgeshire"
+        "New York, NY",
+        "New York, New York"
       ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
       "topics": [
         "AI",
         "AI in Healthcare"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=6ZsujFTH3-A"
+          "url": "https://www.youtube.com/watch?v=gPZa-lS56Ak"
         }
       ],
       "heat": 32,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1184097198574841857/shcf1yyH_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1084528882236178432/ygW2U0cI_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Healx",
+          "title": "Current Health",
           "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFaOvuN38Y6gA/company-logo_200_200/0?e=1594857600&v=beta&t=AnycYfO1V3P33O-PE6iw22z9FgAd2DvOwp8acd6UElE",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -621,58 +629,6 @@
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/sophiagenetics.md",
-      "title": "Sophia Genetics",
-      "excerpt": "SOPHiA GENETICS improves patients diagnoses through accurate and fast genomic data analysis powered by SOPHiA AI. Watch the video: https://t.co/MsqztedvMG",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/sophiagenetics/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/sophiagenetics/",
-      "type": "profile",
-      "name": "Sophia Genetics",
-      "overview": "SOPHiA GENETICS improves patients diagnoses through accurate and fast genomic data analysis powered by SOPHiA AI. Watch the video: https://t.co/MsqztedvMG",
-      "website": "https://www.sophiagenetics.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/sophiagenetics/",
-        "followers": 25618
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/sophia-genetics"
-      },
-      "twitter": {
-        "username": "sophiagenetics",
-        "url": "https://twitter.com/sophiagenetics",
-        "followers": 21414
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2011,
-      "locations": [
-        "Switzerland",
-        "Saint Sulpice"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=KSr8445vqPg"
-        }
-      ],
-      "heat": 6,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1085164407766822913/xe_-YSO2_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Sophia Genetics",
-          "isCached": true
         }
       ],
       "content": "\r\n"

@@ -2,7 +2,7 @@
 name: "DefinedCrowd"
 overview: "DefinedCrowd Corporation is a company based in Seattle, WA, USA, with R&amp;D centers in Lisbon and Porto, Portugal, and Tokyo, Japan.  We offer efficient data workflows that enable data scientists to collect, synthesize, enrich and structure training data. We do this by combining human-in-the-loop, automatic tools, and machine learning capabilities to accelerate enterprise machine learning and Artificial Intelligence initiatives training and modeling. Our value proposition is 95-98% quality, speed (5-10x faster than competition) and scale (70 languages and dialects covered).  With strong expertise in speech and natural language processing technologies, the company has been serving top AI companies and Fortune 500 companies since day one."
 type: "profile"
-heat: 92
+heat: 87
 
 website: https://www.definedcrowd.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "definedcrowd"
   url: "https://www.twitter.com/definedcrowd"
-  followers: 1613
+  followers: 1615
 
 size: 51-200 employees
 yearFounded: 2015
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "tmmnShWU2SIysqUoE6juf5F7N6yrlwjhJyqkbP+Zx80qnA7NjoC34urHjw8JKguok6i5gXukby89H4PiZ+XD22x1VBl5ax6s9ROehPKhzFgoPSk/u4BnXDlKmP5+ywM3XxyDYNuzpsC6WutW0iL130Y1p5+PXzaO+Gj6Cyig06Ok9BTRvG+kTuJn0q0fiiRQBFXyYBUBqj9ns9hB4eJaC/nDbZGLzCDPFV+9DRJ0IT8nxoKJsqZVVzRPy2BbG5G+JrSgGAC2IvZR/JyLwoSg58/vnpMYiWbVP/D/nMNYq+yYpUOelruaECunsr2UH+geZNodXWfQ58PbeRuEwjtooba1KxZLM80ELkC44y2v4vnUhpCcsNM/xh51zWOvK0Qu52Btcb4Xjq8CQguCNW8LhzE56o4EaQ09KmwR1H0Ntio=;UtG0P8dWkpZQbXbddjnRqw=="
+secured: "+GQZDwaHhfccE0xtPGfmjsF8m60GQazETe8EBO2hU9AMwt0iP2l7hq+LutO7S/WBvUw60lj1U8fkcUYce3n1SkdqvRaVYdaPPn1hw+gwS63nZWZFlOxzroRKfRSnCbNLG7boFc7/f40W6ltXkNn63AMGd/76Qhm9LKF3ZatRHxpuXJ1sOQZkIyDE6nDH/WO5CBodRU0G7bZUf4nsYy9/fvecmrXnbf3UOpKXL79eEVKgBtdC2PSn6fyAcL9aIdXvoggUng68cepzr7NlgblrRREGMEXb8NEwSYtUZ1but82v3EPjWn4WkIOSNpnn11ahTlr9XqLRkSfF5JrCUfdATVgV3W44PwOQgvzOytW5o3aGc13jYBs/hBs4U+Bxxt40Gp9r7eBMks12jIU60X48GjNBukwqe6881YwdaLbgQO4=;7IE0169UM77T0Ad07G615A=="
 ---
 

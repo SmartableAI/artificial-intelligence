@@ -4,352 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_companies/bash.ai.md",
-      "title": "Bash.ai",
-      "excerpt": "Currently, majority of the software or technologies used in the HR function facilitate only non- employee facing activities (backend functions).",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/bash.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/bash.ai/",
-      "type": "profile",
-      "name": "Bash.ai",
-      "overview": "Currently, majority of the software or technologies used in the HR function facilitate only non- employee facing activities (backend functions).",
-      "website": "http://bash.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/bash.ai/",
-        "followers": 171
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/bash-ai"
-      },
-      "twitter": {
-        "username": "letsbashit",
-        "url": "https://twitter.com/letsbashit",
-        "followers": 53
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "Gurugram, Haryana"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=AtqYoCjw3gA"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/872382295134666752/dyQF2x9K_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Bash.ai",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/bluecanoelearning.md",
-      "title": "Blue Canoe Learning",
-      "excerpt": "Blue Canoe is an artificial intelligence (AI) B2B company that increases business productivity by improving the pronunciation and business communication of non-native English speaking employees. Blue Canoe uses a proven brain-science methodology, and scales it with speech recognition and machine learning, to create engaging mobile games that effectively help employees communicate clearly with colleagues and customers. Employees track their progress over time with an objective pronunciation score for continuous improvement.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/bluecanoelearning/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/bluecanoelearning/",
-      "type": "profile",
-      "name": "Blue Canoe Learning",
-      "overview": "Blue Canoe is an artificial intelligence (AI) B2B company that increases business productivity by improving the pronunciation and business communication of non-native English speaking employees. Blue Canoe uses a proven brain-science methodology, and scales it with speech recognition and machine learning, to create engaging mobile games that effectively help employees communicate clearly with colleagues and customers. Employees track their progress over time with an objective pronunciation score for continuous improvement.",
-      "website": "http://bluecanoelearning.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/blue-canoe-learning/",
-        "followers": 351
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/blue-canoe-learning"
-      },
-      "twitter": {
-        "username": "bluecanoelearn",
-        "url": "https://twitter.com/bluecanoelearn",
-        "followers": 158
-      },
-      "size": "2-10 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "Seattle, WA",
-        "Seattle, Washington"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=xGsl-hTLi_g"
-        }
-      ],
-      "heat": 50,
-      "tags": [
-        "Speech Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1258848008847777793/pDTVF6PT_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Blue Canoe Learning",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/botanic.io.md",
-      "title": "Botanic.io",
-      "excerpt": "Your friendly A.I. clinical assistant. I provide doctors with a smarter, simpler way to search clinical content.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/botanic.io/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/botanic.io/",
-      "type": "profile",
-      "name": "Botanic.io",
-      "overview": "Your friendly A.I. clinical assistant. I provide doctors with a smarter, simpler way to search clinical content.",
-      "website": "https://botanic.io",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/botanic"
-      },
-      "twitter": {
-        "username": "botanic_io",
-        "url": "https://www.twitter.com/botanic_io",
-        "followers": 592
-      },
-      "yearFounded": 0,
-      "locations": [
-        "CA, USA"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=-RfVBN3nfRs"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/879878141384073217/mLv_w8vA_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Botanic.io",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/cinnamon.is.md",
-      "title": "Cinnamon",
-      "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/cinnamon.is/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/cinnamon.is/",
-      "type": "profile",
-      "name": "Cinnamon",
-      "overview": "",
-      "website": "http://cinnamon.is",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/cinnamon"
-      },
-      "yearFounded": 0,
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=fKCQE1Gx0y8"
-        }
-      ],
-      "heat": 50,
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/deepzen.io.md",
-      "title": "Deepzen",
-      "excerpt": "We're a London based AI company. We are building deep learning based text understanding and speech synthesis systems to provide unified highly scaleable solutions for organisations and individuals.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/deepzen.io/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/deepzen.io/",
-      "type": "profile",
-      "name": "Deepzen",
-      "overview": "We're a London based AI company. We are building deep learning based text understanding and speech synthesis systems to provide unified highly scaleable solutions for organisations and individuals.",
-      "website": "http://deepzen.io",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/deepzen.io/",
-        "followers": 298
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/deep-zen"
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "London, England"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=kaNKxfTjpzQ"
-        }
-      ],
-      "heat": 50,
-      "tags": [
-        "Natural Language Generation"
-      ],
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFGxMuC_cMpXw/company-logo_200_200/0?e=1594857600&v=beta&t=LjusR1qYQN4IoyQ-Kzs3Pi3MYwd0ucgVi2Ca-CbeVnI",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/eigentech.md",
-      "title": "Eigen Technologies",
-      "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/eigentech/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/eigentech/",
-      "type": "profile",
-      "name": "Eigen Technologies",
-      "overview": "",
-      "website": "https://www.eigentech.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/eigen-technologies"
-      },
-      "yearFounded": 0,
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=kSe7NAV0UOo"
-        }
-      ],
-      "heat": 50,
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/hibrainy.md",
-      "title": "HiBrainy",
-      "excerpt": "HiBrainy is a French AI company supported by StationF providing Full-AI technologies include",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/hibrainy/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/hibrainy/",
-      "type": "profile",
-      "name": "HiBrainy",
-      "overview": "HiBrainy is a French AI company supported by StationF providing Full-AI technologies include",
-      "website": "https://hibrainy.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/hibrainy/",
-        "followers": 164
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/hibrainy"
-      },
-      "size": "2-10 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "Paris, France",
-        "Paris, Île-de-France"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=El38XJxRoRo"
-        }
-      ],
-      "heat": 50,
-      "tags": [
-        "Speech Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/716759222969434112/NeRM_ewU_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "HiBrainy",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/insightengines.md",
-      "title": "Insight Engines",
-      "excerpt": "Research discovery with artificial intelligence - for academia and chemical research.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/insightengines/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/insightengines/",
-      "type": "profile",
-      "name": "Insight Engines",
-      "overview": "Research discovery with artificial intelligence - for academia and chemical research.",
-      "website": "https://insightengines.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/insight-engines-inc"
-      },
-      "twitter": {
-        "username": "insightengines",
-        "url": "https://twitter.com/insightengines",
-        "followers": 240
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Norway"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=iD4tlJ-ECZo"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/778092205093322752/BNor8pkI_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Insight Engines",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/klaritylaw.md",
       "title": "Klarity",
       "excerpt": "Klarity uses Artificial Intelligence to review sales contracts under your company legal policy. Klarity pulls contracts from your emails and databases and returns them reviewed in a Word format with annotations and redlines along with a summary. Your company experiences accelerated sales and higher compliance without having to think of contract review anymore.",
@@ -391,98 +45,106 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/lighttag.io.md",
-      "title": "LightTag",
-      "excerpt": "LightTag is a service for managing annotation projects with a team. Our mission is to increase the velocity and yield of natural language processing projects.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/lighttag.io/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/lighttag.io/",
+      "path": "_companies/mapegy.md",
+      "title": "Mapegy",
+      "excerpt": "Access the latest trends, forecasts, startups, competitors, partners, technologies,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/mapegy/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/mapegy/",
       "type": "profile",
-      "name": "LightTag",
-      "overview": "LightTag is a service for managing annotation projects with a team. Our mission is to increase the velocity and yield of natural language processing projects.",
-      "website": "https://www.lighttag.io/",
+      "name": "Mapegy",
+      "overview": "Access the latest trends, forecasts, startups, competitors, partners, technologies,",
+      "website": "https://www.mapegy.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/mapegy",
+        "followers": 302
+      },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/lighttag"
+        "url": "https://www.crunchbase.com/organization/mapegy"
       },
       "twitter": {
-        "username": "LabeledData",
-        "url": "https://twitter.com/LabeledData",
-        "followers": 134
+        "username": "mapegy",
+        "url": "https://twitter.com/mapegy",
+        "followers": 278
       },
-      "yearFounded": 0,
+      "size": "11-50 employees",
+      "yearFounded": 2012,
       "locations": [
-        "San Francisco, CA"
+        "Berlin"
       ],
+      "funding": {
+        "status": "Seed"
+      },
       "topics": [
         "AI",
         "Natural Language Processing"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=dA2uo9sGIj8"
+          "url": "https://www.youtube.com/watch?v=FM_2nxVEIOs"
         }
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1306917715408543750/b4hTeZ27_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1294236247985184768/RR6qxQRZ_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "LightTag",
+          "title": "Mapegy",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_companies/notable.md",
-      "title": "Notable",
-      "excerpt": "Notable is a health technology company focused on reimagining the healthcare technology stack to enrich every patient-physician interaction.  We use wearable tech, voice interface, and artificial intelligence to relieve administrative burdens and improve outcomes.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/notable/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/notable/",
+      "path": "_companies/narrativescience.md",
+      "title": "Narrative Science",
+      "excerpt": "Narrative Science creates software that writes stories from data to drive understanding and results. Powered by artificial intelligence, our technology automatically turns data into easy-to-understand reports, transforms statistics into stories, and converts numbers into knowledge.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/narrativescience/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/narrativescience/",
       "type": "profile",
-      "name": "Notable",
-      "overview": "Notable is a health technology company focused on reimagining the healthcare technology stack to enrich every patient-physician interaction.  We use wearable tech, voice interface, and artificial intelligence to relieve administrative burdens and improve outcomes.",
-      "website": "http://notablehealth.com/",
+      "name": "Narrative Science",
+      "overview": "Narrative Science creates software that writes stories from data to drive understanding and results. Powered by artificial intelligence, our technology automatically turns data into easy-to-understand reports, transforms statistics into stories, and converts numbers into knowledge.",
+      "website": "https://narrativescience.com",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/notablehealth/",
-        "followers": 760
+        "url": "https://www.linkedin.com/company/narrative-science/",
+        "followers": 6514
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/notable"
+        "url": "https://www.crunchbase.com/organization/narrative-science"
       },
       "twitter": {
-        "username": "notablehealth",
-        "url": "https://twitter.com/notablehealth",
-        "followers": 232
+        "username": "narrativesci",
+        "url": "https://twitter.com/narrativesci",
+        "followers": 7241
       },
-      "size": "11-50 employees",
-      "yearFounded": 2017,
+      "size": "51-200 employees",
+      "yearFounded": 2010,
       "locations": [
-        "San Mateo, CA",
-        "San Mateo, California"
+        "Chicago, IL",
+        "Chicago, Illinois"
       ],
       "funding": {
-        "status": "Early Stage Venture"
+        "status": "Late Stage Venture"
       },
       "topics": [
         "AI",
-        "AI in Healthcare",
+        "Machine Learning",
         "Natural Language Processing"
       ],
       "heat": 50,
       "tags": [
-        "Speech Recognition"
+        "Natural Language Generation"
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1037421685069242369/f9VitPKO_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1273232294472552448/mJf_dZwh_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Notable",
+          "title": "Narrative Science",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGV0xRUUXIJ2g/company-logo_200_200/0?e=1594857600&v=beta&t=WRgeu92Qdu_7XC1by72y9GgVqu3Txlhn30eY4b96btc",
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEaG6-d7iFmaA/company-logo_200_200/0?e=1594857600&v=beta&t=7IP2KNX7zXrRKHszLb9OM4Swx2khf4ekiOTic0exGPk",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -492,31 +154,25 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/reply.ai.md",
-      "title": "Reply.ai",
-      "excerpt": "Reply.ai makes customer service faster and smarter by automating repetitive processes and delivering instant and personalized attention on messaging channels.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/reply.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/reply.ai/",
+      "path": "_companies/observe.ai.md",
+      "title": "Observe.AI",
+      "excerpt": "Augmenting medical research with AI. Read our latest #research with @CLCCLeonBerard in @NatureMedicine https://t.co/VT0JF0jmVo",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/observe.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/observe.ai/",
       "type": "profile",
-      "name": "Reply.ai",
-      "overview": "Reply.ai makes customer service faster and smarter by automating repetitive processes and delivering instant and personalized attention on messaging channels.",
-      "website": "https://www.reply.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/10652705",
-        "followers": 519
-      },
+      "name": "Observe.AI",
+      "overview": "Augmenting medical research with AI. Read our latest #research with @CLCCLeonBerard in @NatureMedicine https://t.co/VT0JF0jmVo",
+      "website": "https://observe.ai/",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/reply-ai"
+        "url": "https://www.crunchbase.com/organization/observe-ai"
       },
       "twitter": {
-        "username": "replydotai",
-        "url": "https://twitter.com/replydotai",
-        "followers": 1464
+        "username": "observeai",
+        "url": "https://twitter.com/observeai",
+        "followers": 533
       },
-      "size": "11-50 employees",
-      "yearFounded": 2016,
+      "yearFounded": 0,
       "locations": [
-        "New York, NY",
         "New York, NY"
       ],
       "funding": {
@@ -528,16 +184,16 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=m4FgFkrL0wI"
+          "url": "https://www.youtube.com/watch?v=sQwbipcFPYg"
         }
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/878286404245221376/FGxul5AM_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1117913972412305413/-MiJoy8U_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Reply.ai",
+          "title": "Observe.AI",
           "isCached": true
         }
       ],
@@ -592,6 +248,58 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/rossintelligence.md",
+      "title": "ROSS Intelligence",
+      "excerpt": "Founded in 2014, ROSS Intelligence has become a global leader in artificial intelligence solution for Legal Technologies.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/rossintelligence/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/rossintelligence/",
+      "type": "profile",
+      "name": "ROSS Intelligence",
+      "overview": "Founded in 2014, ROSS Intelligence has become a global leader in artificial intelligence solution for Legal Technologies.",
+      "website": "https://rossintelligence.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/5385357/",
+        "followers": 3215
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/ross-intelligence"
+      },
+      "twitter": {
+        "username": "ROSSIntel",
+        "url": "https://twitter.com/ROSSIntel",
+        "followers": 5265
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2014,
+      "locations": [
+        "San Francisco, CA",
+        "San Francisco, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=ZF0J_Q0AK0E"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1174312638328840192/ErbzJaM6_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "ROSS Intelligence",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/semanticmachines.md",
       "title": "Semantic Machines",
       "excerpt": "Developing novel deep learning NLP and AI technology to revolutionize mobile voice enabled agents.",
@@ -640,58 +348,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/signal-ai.md",
-      "title": "Signal AI",
-      "excerpt": "Media monitoring, reputation management, regulatory compliance and market intelligence solutions powered by AI. Get a demo: https://t.co/mz2HzMdJ4v.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/signal-ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/signal-ai/",
-      "type": "profile",
-      "name": "Signal AI",
-      "overview": "Media monitoring, reputation management, regulatory compliance and market intelligence solutions powered by AI. Get a demo: https://t.co/mz2HzMdJ4v.",
-      "website": "http://www.signal-ai.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/signal-artificial-intelligence/",
-        "followers": 6492
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/signal-media-ltd"
-      },
-      "twitter": {
-        "username": "SignalHQ",
-        "url": "https://twitter.com/SignalHQ",
-        "followers": 2486
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2013,
-      "locations": [
-        "London, UK",
-        "London, England"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=QWC7T-G_reQ"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1323194996439289858/MwYjkvP-_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Signal AI",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/skelterlabs.md",
       "title": "Skelter Labs",
       "excerpt": "Skelter Labs is an artificial intelligence technology company developing innovative core technologies with the key focus in Conversation, Speech, Vision and Context &amp; Entity Recognition. As a technology provider, Skelter Labs’ priority is to create value for businesses by making existing solutions work better with applicable AI.",
@@ -733,32 +389,81 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/twiggle.md",
-      "title": "Twiggle",
-      "excerpt": "Founded by Dr. Amir Konigsberg and Dr. Adi Avidor, two ex-Googlers, Twiggle uses natural language processing, machine learning, and ontological modelling to build e-commerce search technology that understands shopper intent and matches it with the products retailers sell online.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/twiggle/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/twiggle/",
+      "path": "_companies/soundhound.md",
+      "title": "SoundHound",
+      "excerpt": "We believe every product should have a voice. Creators of @SoundHound, @Houndify, and @HoundApp. #VoiceAI",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/soundhound/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/soundhound/",
       "type": "profile",
-      "name": "Twiggle",
-      "overview": "Founded by Dr. Amir Konigsberg and Dr. Adi Avidor, two ex-Googlers, Twiggle uses natural language processing, machine learning, and ontological modelling to build e-commerce search technology that understands shopper intent and matches it with the products retailers sell online.",
-      "website": "https://www.twiggle.com/",
+      "name": "SoundHound",
+      "overview": "We believe every product should have a voice. Creators of @SoundHound, @Houndify, and @HoundApp. #VoiceAI",
+      "website": "https://soundhound.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/twiggle/",
-        "followers": 1707
+        "url": "https://www.linkedin.com/company/soundhound",
+        "followers": 0
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/twiggle"
+        "url": "https://www.crunchbase.com/organization/soundhound"
       },
       "twitter": {
-        "username": "twiggle_com",
-        "url": "https://twitter.com/twiggle_com",
-        "followers": 308
+        "username": "SoundHoundInc",
+        "url": "https://twitter.com/SoundHoundInc",
+        "followers": 504
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=VBfhwS3Dr3M"
+        }
+      ],
+      "heat": 50,
+      "tags": [
+        "Speech Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1039627434176311296/pQmtywpV_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "SoundHound",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/speechmatics.md",
+      "title": "Speechmatics",
+      "excerpt": "With the voice revolution here, Speechmatics has used its decades of machine learning and research expertise to develop Automatic Speech Recognition (ASR), available in private or public clouds and securely on-premises. The technology can be used for real-time or pre-recorded audio and video files, pushing the boundaries of speech recognition innovation and supporting an industry-leading number of languages and dialects.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/speechmatics/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/speechmatics/",
+      "type": "profile",
+      "name": "Speechmatics",
+      "overview": "With the voice revolution here, Speechmatics has used its decades of machine learning and research expertise to develop Automatic Speech Recognition (ASR), available in private or public clouds and securely on-premises. The technology can be used for real-time or pre-recorded audio and video files, pushing the boundaries of speech recognition innovation and supporting an industry-leading number of languages and dialects.",
+      "website": "https://www.speechmatics.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/speechmatics/",
+        "followers": 2744
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/speechmatics"
+      },
+      "twitter": {
+        "username": "Speechmatics",
+        "url": "https://twitter.com/Speechmatics",
+        "followers": 1284
       },
       "size": "51-200 employees",
-      "yearFounded": 2014,
+      "yearFounded": 2009,
       "locations": [
-        "Tel Aviv-Yafo, Israel",
-        "Tel Aviv, Tel Aviv"
+        "Cambridge"
       ],
       "funding": {
         "status": "Early Stage Venture"
@@ -767,67 +472,73 @@
         "AI",
         "Natural Language Processing"
       ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=6qXk_fYvETY"
-        }
-      ],
       "heat": 50,
+      "tags": [
+        "Speech Recognition"
+      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/814412371963899904/aVyGZY7g_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/866594840552906757/zF08GXqA_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Twiggle",
+          "title": "Speechmatics",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_companies/voicebox.md",
-      "title": "VoiceBox Technologies",
-      "excerpt": "A pioneer in Natural Language Understanding and #ConversationalAI with roots in #connectedcars, now extending our experience to #IoT #virtualshopping #NLU #AI",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/voicebox/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/voicebox/",
+      "path": "_companies/suki.ai.md",
+      "title": "Suki",
+      "excerpt": "Suki is an AI-powered, voice-enabled digital assistant for doctors that lifts the burden of documentation, enabling them to focus on what they love: treating patients.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/suki.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/suki.ai/",
       "type": "profile",
-      "name": "VoiceBox Technologies",
-      "overview": "A pioneer in Natural Language Understanding and #ConversationalAI with roots in #connectedcars, now extending our experience to #IoT #virtualshopping #NLU #AI",
-      "website": "http://www.voicebox.com/",
+      "name": "Suki",
+      "overview": "Suki is an AI-powered, voice-enabled digital assistant for doctors that lifts the burden of documentation, enabling them to focus on what they love: treating patients.",
+      "website": "https://www.suki.ai/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/voicebox-technologies",
-        "followers": 1385
+        "url": "https://www.linkedin.com/company/SukiHQ",
+        "followers": 14481
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/voicebox-technologies"
+        "url": "https://www.crunchbase.com/organization/sukihq"
       },
       "twitter": {
-        "username": "VoiceBox_Tech",
-        "url": "https://twitter.com/VoiceBox_Tech",
-        "followers": 768
+        "username": "SukiHQ",
+        "url": "https://www.twitter.com/SukiHQ",
+        "followers": 1553
       },
-      "size": "201-500 employees",
-      "yearFounded": 2001,
+      "size": "11-50 employees",
+      "yearFounded": 2017,
       "locations": [
-        "Bellevue, WA"
+        "Redwood City, CA",
+        "Redwood City, California"
       ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
       "topics": [
         "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=76HL2Kr3Ho4"
-        }
+        "AI in Healthcare",
+        "Natural Language Processing",
+        "Machine Learning"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/845362901527379968/9U43aLaV_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1156698809189064704/HbbjesAp_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "VoiceBox Technologies",
+          "title": "Suki",
           "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEYEMprol7fTg/company-logo_200_200/0?e=1594857600&v=beta&t=St3LAmADtAtLsdNouB8i67hlQjMwgQpRr-W1yUnDa4I",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -938,32 +649,31 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/agolo.md",
-      "title": "Agolo",
-      "excerpt": "We believe that the human mind is capable of producing transformative insights that can change a company’s fortunes. Agolo summarizes information faster and with broader coverage than any human. Agolo helps analysts act strategically instead of processing information.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/agolo/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/agolo/",
+      "path": "_companies/bash.ai.md",
+      "title": "Bash.ai",
+      "excerpt": "Currently, majority of the software or technologies used in the HR function facilitate only non- employee facing activities (backend functions).",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/bash.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/bash.ai/",
       "type": "profile",
-      "name": "Agolo",
-      "overview": "We believe that the human mind is capable of producing transformative insights that can change a company’s fortunes. Agolo summarizes information faster and with broader coverage than any human. Agolo helps analysts act strategically instead of processing information.",
-      "website": "http://www.agolo.com/",
+      "name": "Bash.ai",
+      "overview": "Currently, majority of the software or technologies used in the HR function facilitate only non- employee facing activities (backend functions).",
+      "website": "http://bash.ai/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/agolo",
-        "followers": 953
+        "url": "https://www.linkedin.com/company/bash.ai/",
+        "followers": 171
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/agolo"
+        "url": "https://www.crunchbase.com/organization/bash-ai"
       },
       "twitter": {
-        "username": "agolo",
-        "url": "https://twitter.com/agolo",
-        "followers": 749
+        "username": "letsbashit",
+        "url": "https://twitter.com/letsbashit",
+        "followers": 53
       },
       "size": "11-50 employees",
-      "yearFounded": 2013,
+      "yearFounded": 2017,
       "locations": [
-        "New York, NY",
-        "New York, NY"
+        "Gurugram, Haryana"
       ],
       "topics": [
         "AI",
@@ -971,16 +681,119 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=rijPqvv1xSc"
+          "url": "https://www.youtube.com/watch?v=AtqYoCjw3gA"
         }
       ],
       "heat": 42,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/588095780126208000/n336QMMR_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/872382295134666752/dyQF2x9K_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Agolo",
+          "title": "Bash.ai",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/bloomsbury.ai.md",
+      "title": "Bloomsbury AI",
+      "excerpt": "Bloomsbury AI is a software company helping people to execute repetitive tasks and scaling expertise.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/bloomsbury.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/bloomsbury.ai/",
+      "type": "profile",
+      "name": "Bloomsbury AI",
+      "overview": "Bloomsbury AI is a software company helping people to execute repetitive tasks and scaling expertise.",
+      "website": "http://bloomsbury.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/bloomsbury-ai",
+        "followers": 273
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/bloomsbury-ai"
+      },
+      "twitter": {
+        "username": "bloomsburyai",
+        "url": "https://twitter.com/bloomsburyai",
+        "followers": 527
+      },
+      "size": "2-10 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "London, England"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=N0mRn1bQyzU"
+        }
+      ],
+      "heat": 42,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/904720291846389761/ah7CdA1L_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Bloomsbury AI",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/bluecanoelearning.md",
+      "title": "Blue Canoe Learning",
+      "excerpt": "Blue Canoe is an artificial intelligence (AI) B2B company that increases business productivity by improving the pronunciation and business communication of non-native English speaking employees. Blue Canoe uses a proven brain-science methodology, and scales it with speech recognition and machine learning, to create engaging mobile games that effectively help employees communicate clearly with colleagues and customers. Employees track their progress over time with an objective pronunciation score for continuous improvement.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/bluecanoelearning/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/bluecanoelearning/",
+      "type": "profile",
+      "name": "Blue Canoe Learning",
+      "overview": "Blue Canoe is an artificial intelligence (AI) B2B company that increases business productivity by improving the pronunciation and business communication of non-native English speaking employees. Blue Canoe uses a proven brain-science methodology, and scales it with speech recognition and machine learning, to create engaging mobile games that effectively help employees communicate clearly with colleagues and customers. Employees track their progress over time with an objective pronunciation score for continuous improvement.",
+      "website": "http://bluecanoelearning.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/blue-canoe-learning/",
+        "followers": 351
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/blue-canoe-learning"
+      },
+      "twitter": {
+        "username": "bluecanoelearn",
+        "url": "https://twitter.com/bluecanoelearn",
+        "followers": 158
+      },
+      "size": "2-10 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "Seattle, WA",
+        "Seattle, Washington"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=xGsl-hTLi_g"
+        }
+      ],
+      "heat": 42,
+      "tags": [
+        "Speech Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1258848008847777793/pDTVF6PT_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Blue Canoe Learning",
           "isCached": true
         }
       ],
@@ -1103,32 +916,26 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/kadaxis.md",
-      "title": "Kadaxis",
-      "excerpt": "We help publishers improve book discoverability on retailer search engines (like Amazon) leading to increased recurring revenue. We use the latest data science technology to find keywords for books, through reader audience analysis.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/kadaxis/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/kadaxis/",
+      "path": "_companies/lighttag.io.md",
+      "title": "LightTag",
+      "excerpt": "LightTag is a service for managing annotation projects with a team. Our mission is to increase the velocity and yield of natural language processing projects.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/lighttag.io/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/lighttag.io/",
       "type": "profile",
-      "name": "Kadaxis",
-      "overview": "We help publishers improve book discoverability on retailer search engines (like Amazon) leading to increased recurring revenue. We use the latest data science technology to find keywords for books, through reader audience analysis.",
-      "website": "https://kadaxis.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/kadaxis",
-        "followers": 50
-      },
+      "name": "LightTag",
+      "overview": "LightTag is a service for managing annotation projects with a team. Our mission is to increase the velocity and yield of natural language processing projects.",
+      "website": "https://www.lighttag.io/",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/kadaxis"
+        "url": "https://www.crunchbase.com/organization/lighttag"
       },
       "twitter": {
-        "username": "kadaxis",
-        "url": "https://twitter.com/kadaxis",
-        "followers": 29691
+        "username": "LabeledData",
+        "url": "https://twitter.com/LabeledData",
+        "followers": 134
       },
-      "size": "2-10 employees",
-      "yearFounded": 2013,
+      "yearFounded": 0,
       "locations": [
-        "New York, NY",
-        "New York, New York"
+        "San Francisco, CA"
       ],
       "topics": [
         "AI",
@@ -1136,98 +943,219 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=3ELoLhZNxb0"
+          "url": "https://www.youtube.com/watch?v=dA2uo9sGIj8"
         }
       ],
       "heat": 42,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/378800000400606775/857c753a4104fa5ecb94afd6f6e2a5bc_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1306917715408543750/b4hTeZ27_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Kadaxis",
+          "title": "LightTag",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_companies/mapegy.md",
-      "title": "Mapegy",
-      "excerpt": "Access the latest trends, forecasts, startups, competitors, partners, technologies,",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/mapegy/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/mapegy/",
+      "path": "_companies/liulishuo.md",
+      "title": "Liulishuo",
+      "excerpt": "Founded by Yi Wang, Hui Lin and Ben Hu in 2012, Liulishuo is the world's leading \"AI + Education\"​ company. The Company has developed the world's first “AI English Teacher” based on deep learning, which provides a personalized and adaptive learning path for every learner. It is proven to triple the learning efficiency (reduce the required learning time to one third) compared to human teachers by CEFR (Common European Framework of Reference for Language) standards, according to a study using the TOEIC Bridge Test from ETS.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/liulishuo/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/liulishuo/",
       "type": "profile",
-      "name": "Mapegy",
-      "overview": "Access the latest trends, forecasts, startups, competitors, partners, technologies,",
-      "website": "https://www.mapegy.com/",
+      "name": "Liulishuo",
+      "overview": "Founded by Yi Wang, Hui Lin and Ben Hu in 2012, Liulishuo is the world's leading \"AI + Education\"​ company. The Company has developed the world's first “AI English Teacher” based on deep learning, which provides a personalized and adaptive learning path for every learner. It is proven to triple the learning efficiency (reduce the required learning time to one third) compared to human teachers by CEFR (Common European Framework of Reference for Language) standards, according to a study using the TOEIC Bridge Test from ETS.",
+      "website": "https://www.liulishuo.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/mapegy",
-        "followers": 302
+        "url": "https://www.linkedin.com/company/liulishuo/",
+        "followers": 3501
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/mapegy"
+        "url": "https://www.crunchbase.com/organization/liulishuo"
       },
       "twitter": {
-        "username": "mapegy",
-        "url": "https://twitter.com/mapegy",
-        "followers": 278
+        "username": "lingochamp",
+        "url": "https://twitter.com/lingochamp",
+        "followers": 198
       },
-      "size": "11-50 employees",
+      "size": "1,001-5,000 employees",
       "yearFounded": 2012,
       "locations": [
-        "Berlin"
+        "Shanghai, Shanghai"
       ],
-      "funding": {
-        "status": "Seed"
-      },
       "topics": [
         "AI",
+        "AI in Education",
         "Natural Language Processing"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=FM_2nxVEIOs"
+          "url": "https://www.youtube.com/watch?v=GF8KvuIJUvg"
+        }
+      ],
+      "heat": 42,
+      "tags": [
+        "Speech Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1326830321157898240/14TzFVZF_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Liulishuo",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQG5rLftUNFeCA/company-logo_200_200/0?e=1594857600&v=beta&t=1f3B0p4jXCfxQiBgnrTzY2DtsjjW_ilKP5msAKeTB2A",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/notable.md",
+      "title": "Notable",
+      "excerpt": "Notable is a health technology company focused on reimagining the healthcare technology stack to enrich every patient-physician interaction.  We use wearable tech, voice interface, and artificial intelligence to relieve administrative burdens and improve outcomes.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/notable/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/notable/",
+      "type": "profile",
+      "name": "Notable",
+      "overview": "Notable is a health technology company focused on reimagining the healthcare technology stack to enrich every patient-physician interaction.  We use wearable tech, voice interface, and artificial intelligence to relieve administrative burdens and improve outcomes.",
+      "website": "http://notablehealth.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/notablehealth/",
+        "followers": 760
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/notable"
+      },
+      "twitter": {
+        "username": "notablehealth",
+        "url": "https://twitter.com/notablehealth",
+        "followers": 232
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2017,
+      "locations": [
+        "San Mateo, CA",
+        "San Mateo, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Natural Language Processing"
+      ],
+      "heat": 42,
+      "tags": [
+        "Speech Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1037421685069242369/f9VitPKO_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Notable",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGV0xRUUXIJ2g/company-logo_200_200/0?e=1594857600&v=beta&t=WRgeu92Qdu_7XC1by72y9GgVqu3Txlhn30eY4b96btc",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/tact.ai.md",
+      "title": "Tact.ai",
+      "excerpt": "A New System of Workflow for Sellers. Founded by @chuckganapathi and backed by @Accel @redpointvc @UpfrontVC @ComcastVentures @salesforce @Amazon @microsoft",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/tact.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/tact.ai/",
+      "type": "profile",
+      "name": "Tact.ai",
+      "overview": "A New System of Workflow for Sellers. Founded by @chuckganapathi and backed by @Accel @redpointvc @UpfrontVC @ComcastVentures @salesforce @Amazon @microsoft",
+      "website": "https://tact.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/tact.ai",
+        "followers": 3096
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/tactile"
+      },
+      "twitter": {
+        "username": "tact_ai",
+        "url": "https://twitter.com/tact_ai",
+        "followers": 1289
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "Redwood City, CA",
+        "Redwood City, CA",
+        "Sunnyvale, California"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Sales",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=HntmBF0px3A"
         }
       ],
       "heat": 42,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1294236247985184768/RR6qxQRZ_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1298744147587657728/bLmCZDCm_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Mapegy",
+          "title": "Tact.ai",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_companies/speechmatics.md",
-      "title": "Speechmatics",
-      "excerpt": "With the voice revolution here, Speechmatics has used its decades of machine learning and research expertise to develop Automatic Speech Recognition (ASR), available in private or public clouds and securely on-premises. The technology can be used for real-time or pre-recorded audio and video files, pushing the boundaries of speech recognition innovation and supporting an industry-leading number of languages and dialects.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/speechmatics/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/speechmatics/",
+      "path": "_companies/twiggle.md",
+      "title": "Twiggle",
+      "excerpt": "Founded by Dr. Amir Konigsberg and Dr. Adi Avidor, two ex-Googlers, Twiggle uses natural language processing, machine learning, and ontological modelling to build e-commerce search technology that understands shopper intent and matches it with the products retailers sell online.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/twiggle/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/twiggle/",
       "type": "profile",
-      "name": "Speechmatics",
-      "overview": "With the voice revolution here, Speechmatics has used its decades of machine learning and research expertise to develop Automatic Speech Recognition (ASR), available in private or public clouds and securely on-premises. The technology can be used for real-time or pre-recorded audio and video files, pushing the boundaries of speech recognition innovation and supporting an industry-leading number of languages and dialects.",
-      "website": "https://www.speechmatics.com/",
+      "name": "Twiggle",
+      "overview": "Founded by Dr. Amir Konigsberg and Dr. Adi Avidor, two ex-Googlers, Twiggle uses natural language processing, machine learning, and ontological modelling to build e-commerce search technology that understands shopper intent and matches it with the products retailers sell online.",
+      "website": "https://www.twiggle.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/speechmatics/",
-        "followers": 2744
+        "url": "https://www.linkedin.com/company/twiggle/",
+        "followers": 1707
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/speechmatics"
+        "url": "https://www.crunchbase.com/organization/twiggle"
       },
       "twitter": {
-        "username": "Speechmatics",
-        "url": "https://twitter.com/Speechmatics",
-        "followers": 1284
+        "username": "twiggle_com",
+        "url": "https://twitter.com/twiggle_com",
+        "followers": 308
       },
       "size": "51-200 employees",
-      "yearFounded": 2009,
+      "yearFounded": 2014,
       "locations": [
-        "Cambridge"
+        "Tel Aviv-Yafo, Israel",
+        "Tel Aviv, Tel Aviv"
       ],
       "funding": {
         "status": "Early Stage Venture"
@@ -1236,16 +1164,122 @@
         "AI",
         "Natural Language Processing"
       ],
-      "heat": 32,
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=6qXk_fYvETY"
+        }
+      ],
+      "heat": 42,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/814412371963899904/aVyGZY7g_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Twiggle",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/voicebox.md",
+      "title": "VoiceBox Technologies",
+      "excerpt": "A pioneer in Natural Language Understanding and #ConversationalAI with roots in #connectedcars, now extending our experience to #IoT #virtualshopping #NLU #AI",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/voicebox/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/voicebox/",
+      "type": "profile",
+      "name": "VoiceBox Technologies",
+      "overview": "A pioneer in Natural Language Understanding and #ConversationalAI with roots in #connectedcars, now extending our experience to #IoT #virtualshopping #NLU #AI",
+      "website": "http://www.voicebox.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/voicebox-technologies",
+        "followers": 1385
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/voicebox-technologies"
+      },
+      "twitter": {
+        "username": "VoiceBox_Tech",
+        "url": "https://twitter.com/VoiceBox_Tech",
+        "followers": 768
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2001,
+      "locations": [
+        "Bellevue, WA"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=76HL2Kr3Ho4"
+        }
+      ],
+      "heat": 42,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/845362901527379968/9U43aLaV_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "VoiceBox Technologies",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/conversica.md",
+      "title": "Conversica",
+      "excerpt": "A self-driving car service designed for the cities we love. We're hiring! https://t.co/I4hVjCZWCQ",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/conversica/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/conversica/",
+      "type": "profile",
+      "name": "Conversica",
+      "overview": "A self-driving car service designed for the cities we love. We're hiring! https://t.co/I4hVjCZWCQ",
+      "website": "https://www.conversica.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/conversica",
+        "followers": 15771
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/conversica"
+      },
+      "twitter": {
+        "username": "myconversica",
+        "url": "https://twitter.com/myconversica",
+        "followers": 13226
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2007,
+      "locations": [
+        "San Francisco, CA",
+        "Foster City, CA"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Sales",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=i_Y1JD_VJvs"
+        }
+      ],
+      "heat": 20,
       "tags": [
-        "Speech Recognition"
+        "Natural Language Generation"
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/866594840552906757/zF08GXqA_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/887468833916600320/8nOhBX6V_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Speechmatics",
+          "title": "Conversica",
           "isCached": true
         }
       ],
@@ -1292,7 +1326,7 @@
           "url": "https://www.youtube.com/watch?v=nd3_Ir9bw6k"
         }
       ],
-      "heat": 32,
+      "heat": 6,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1145709250657824769/_mUNJSbF_400x400.png",
@@ -1305,56 +1339,52 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/dialogflow.md",
-      "title": "Dialogflow",
-      "excerpt": "People should do the work they care most about. Robots can do the rest. 🤖  Meet our robot @moxirobot.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/dialogflow/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/dialogflow/",
+      "path": "_companies/algolia.md",
+      "title": "Algolia",
+      "excerpt": "Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/algolia/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/algolia/",
       "type": "profile",
-      "name": "Dialogflow",
-      "otherNames": [
-        "Speaktoit",
-        "Api.ai"
-      ],
-      "overview": "People should do the work they care most about. Robots can do the rest. 🤖  Meet our robot @moxirobot.",
-      "website": "https://dialogflow.com/",
+      "name": "Algolia",
+      "overview": "Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice.",
+      "website": "https://www.algolia.com",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/1443713/",
-        "followers": 3083
+        "url": "https://www.linkedin.com/company/algolia",
+        "followers": 12683
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/api-ai"
+        "url": "https://www.crunchbase.com/organization/algolia"
       },
       "twitter": {
-        "username": "Dialogflow",
-        "url": "https://twitter.com/Dialogflow",
-        "followers": 11986
+        "username": "algolia",
+        "url": "https://twitter.com/algolia",
+        "followers": 16371
       },
-      "size": "11-50 employees",
-      "yearFounded": 2010,
+      "size": "201-500 employees",
+      "yearFounded": 2012,
       "locations": [
-        "Mountain View, CA",
-        "Mountain View, California"
+        "San Francisco, CA",
+        "San Francisco, California"
       ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
       "topics": [
         "AI",
         "Natural Language Processing"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=ADD-rvsS5z4"
+          "url": "https://www.youtube.com/watch?v=vDsOQ58TrI0"
         }
       ],
-      "heat": 20,
-      "tags": [
-        "Speech Recognition"
-      ],
+      "heat": 0,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/880147119528476672/S7C-2C6t_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1001802575505707009/iEEMVN5L_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Dialogflow",
+          "title": "Algolia",
           "isCached": true
         }
       ],
@@ -1387,7 +1417,7 @@
       "twitter": {
         "username": "Mobvoi_Official",
         "url": "https://twitter.com/Mobvoi_Official",
-        "followers": 51331
+        "followers": 51330
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -1416,6 +1446,55 @@
           "width": 400,
           "height": 400,
           "title": "Mobvoi",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/kadaxis.md",
+      "title": "Kadaxis",
+      "excerpt": "We help publishers improve book discoverability on retailer search engines (like Amazon) leading to increased recurring revenue. We use the latest data science technology to find keywords for books, through reader audience analysis.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/kadaxis/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/kadaxis/",
+      "type": "profile",
+      "name": "Kadaxis",
+      "overview": "We help publishers improve book discoverability on retailer search engines (like Amazon) leading to increased recurring revenue. We use the latest data science technology to find keywords for books, through reader audience analysis.",
+      "website": "https://kadaxis.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/kadaxis",
+        "followers": 50
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/kadaxis"
+      },
+      "twitter": {
+        "username": "kadaxis",
+        "url": "https://twitter.com/kadaxis",
+        "followers": 29692
+      },
+      "size": "2-10 employees",
+      "yearFounded": 2013,
+      "locations": [
+        "New York, NY",
+        "New York, New York"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=3ELoLhZNxb0"
+        }
+      ],
+      "heat": 0,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/378800000400606775/857c753a4104fa5ecb94afd6f6e2a5bc_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Kadaxis",
           "isCached": true
         }
       ],

@@ -2,7 +2,7 @@
 name: "Algolia"
 overview: "Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice."
 type: "profile"
-heat: 57
+heat: 0
 
 website: https://www.algolia.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "algolia"
   url: "https://twitter.com/algolia"
-  followers: 16373
+  followers: 16371
 
 size: 201-500 employees
 yearFounded: 2012
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=vDsOQ58TrI0"
 
-secured: "pl4h44yx9jP9kO+O/p3144B3SeQJBBniWbPtNzruUGQzewzLruCcbs9YZ1j5MCOOj5BmkcZcuW9HqP+D08Kad/fYDT5VExSByIcdYN7TyCmh6ngxdAOs9C1THC8Qr+fjEZJZ4EsMgr2jnUlvb+igOUr8bpJbnR95SbszPfccpHF2nY2HpowkHALKoCT2aEAj/T36p3BqZ5OpCs3AZ+Xsmkb7hncMP9enyvkZYUp3tkmgZClcmmNKklwuh7Yi1OTRBQSsaQ10rtAb9bjw0jh0zM13gmRoY5QkMFlrKvEKJCN6WEBLtOYIOV8UNbz7uiw6MdN9RCKQeE7dedSbDEygVk9R8eFEsc0fHR2hxdh2BkZ4gfL11b3M4Fv9zmrb6rvuwoP/zZSsUtCQEBdQHEo+2mnPZlvpDP84LADKwwZZKFE=;4v3S0xnnzpuffT/Srz6v0Q=="
+secured: "zsCD+cS11TEWm43dh3jVvgTwCcNE9CkV5UbdsaN4R0aMIli9aEMvud/YzLb1dURf6zKhANNi2kXzrVxK2BsCNxfoaSkhRybhS1uFKB3B0hN7wNV2Yz0UUsEvnciuug+rieET2avq9ESiD5mtCfNHlVlyPFa+aF0pLjasTDJItDeC1VmthBTAfCuh+NIHTlEzW9uqF20+A445dWvIaOCnzDwvScjNtHIUQrXBDa5vdvXhVCy9m7xWy3F7pYRhPgwX6dN5IZHDQX+BPerLRdCBfjZfh1KY3x2rqxzczi6sEhqacrFPbqaKfi0sWd/k9aVBuZLWa85uM7wEub5uP5qKy37eaOu0UVsGbr/JQmuq42oIJxN0PfEkYGbflYVOefMechd07KgWR72UbRAxveTocF0h191pWVpVI3vHdmmhC40=;clw8a7fWDFigQ+l/G41PVQ=="
 ---
 
