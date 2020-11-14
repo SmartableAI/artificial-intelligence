@@ -6,8 +6,8 @@ publishedDateTime: 2020-11-12T15:24:00Z
 originalUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-school-curricula-products-and-services-82a2e91213589f3a5f9177374d3989b5"
 webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-school-curricula-products-and-services-82a2e91213589f3a5f9177374d3989b5"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

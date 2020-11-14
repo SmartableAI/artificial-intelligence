@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/11/13/uber-in-talks-to-sell-atg-self-dri
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/13/uber-in-talks-to-sell-atg-self-driving-unit-to-aurora/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541170142&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1RR"
         width: 816
         height: 545
+        isCached: true
+  - title: "Uber Could Soon Pawn Off Its Scandal-Ridden Self-Driving Vehicle Branch to Start-Up Aurora"
+    excerpt: "Uber is in talks to sell its scandal-ridden self-driving vehicle branch, Advanced Technologies Group, according to a Friday TechCrunch report. And it looks like Aurora Innovation, a start-up founded by veterans of the autonomous vehicle industry,"
+    publishedDateTime: 2020-11-14T22:05:00Z
+    webUrl: "https://gizmodo.com/uber-could-soon-pawn-off-its-scandal-ridden-self-drivin-1845672633"
+    ampWebUrl: "https://gizmodo.com/uber-could-soon-pawn-off-its-scandal-ridden-self-drivin-1845672633/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/uber-could-soon-pawn-off-its-scandal-ridden-self-drivin-1845672633/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 64
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/aiykpavyd9qjfrbutksn.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Uber's Self-Driving Unit Is For Sale: TechCrunch"
     excerpt: "Uber Technologies Inc (NYSE: UBER) is looking to sell its self-driving unit, TechCrunch has reported. What Happened: Uber’s Advanced Technologies Group"

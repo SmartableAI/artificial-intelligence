@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2020/11/from-the-data-and-ai-expe
 webUrl: "https://www.ibm.com/blogs/watson/2020/11/from-the-data-and-ai-expert-labs-2/"
 type: article
 quality: 119
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 990
     height: 498
     isCached: true
+
+related:
+  - title: "5 jobs that will be displaced by AI and automation in the near future"
+    excerpt: "While artificial intelligence will displace 75 million jobs, it will create an additional 133 million jobs by 2022. What’s important here is that the new jobs will be mainly in the area of AI ..."
+    publishedDateTime: 2020-11-13T09:31:00Z
+    webUrl: "https://www.ciol.com/5-jobs-will-displaced-ai-automation-near-future/"
+    ampWebUrl: "https://www.ciol.com/5-jobs-will-displaced-ai-automation-near-future/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/5-jobs-will-displaced-ai-automation-near-future/amp/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 59
+    images:
+      - url: "https://www.ciol.com/wp-content/uploads/2019/12/Can-Artificial-Intelligence-Help-Prevent-Suicide.jpg"
+        width: 850
+        height: 469
+        isCached: true
 
 secured: "Sw2GkqQNi4wZC4lkSxuN4S4YmyY8sHSkt7Asz8tI3T2OpVWWyL0XWbpiCRQc3jCZVGq0bGI/MoF/83bbOGeckGZHyVCI8TUvSNOTV3Dp++kqlXC85E4YRh6rA53qgLXkUkhrxfLV6WF1LfdhSfyeR/+PAuot+z2oRV84Tg/ZsDC1AvzRegk7QwtiSUV9UIf5mUTy1sqhUHqkPMfYQnOFqEvAyj2lJOn55biP9/gP11ghGD2dX2OWTH6ajp/5RpmAFW6In0MjnpYmlV6UpMOzcmTXC6Mzmh/W8dBWYOhqceFQRIpMwDT962D3IdwLgmSRR0+frPkPAfu5KjRw9zg0lGj3GINmX2OLecAtVldiYrA=;A9UKbUDHFyz8K4k20RFXxA=="
 ---

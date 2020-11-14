@@ -75,6 +75,22 @@ related:
         width: 816
         height: 545
         isCached: true
+  - title: "Uber Could Soon Pawn Off Its Scandal-Ridden Self-Driving Vehicle Branch to Start-Up Aurora"
+    excerpt: "Uber is in talks to sell its scandal-ridden self-driving vehicle branch, Advanced Technologies Group, according to a Friday TechCrunch report. And it looks like Aurora Innovation, a start-up founded by veterans of the autonomous vehicle industry,"
+    publishedDateTime: 2020-11-14T22:05:00Z
+    webUrl: "https://gizmodo.com/uber-could-soon-pawn-off-its-scandal-ridden-self-drivin-1845672633"
+    ampWebUrl: "https://gizmodo.com/uber-could-soon-pawn-off-its-scandal-ridden-self-drivin-1845672633/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/uber-could-soon-pawn-off-its-scandal-ridden-self-drivin-1845672633/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 64
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/aiykpavyd9qjfrbutksn.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Xpeng shares surge on first results, promises China’s best assisted self-driving solution"
     excerpt: "Xpeng is gearing up for an ambitious goal: setting a benchmark for driver assistance technology in China that rivals will have to overcome."
     publishedDateTime: 2020-11-14T06:34:00Z

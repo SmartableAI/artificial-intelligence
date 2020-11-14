@@ -7,7 +7,7 @@ originalUrl: "https://www.globalbankingandfinance.com/why-financial-services-bra
 webUrl: "https://www.globalbankingandfinance.com/why-financial-services-brands-need-to-plan-for-the-three-phases-of-ai-innovation/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI, a bane for traditional financial services, a boon for fintech: Capgemini report"
-    excerpt: "Covid-19 has catalysed financial services organisations to harness Artificial Intelligence (AI) to improve customer experience (CX), says a report published by the Capgemini Research Institute. However,"
-    publishedDateTime: 2020-11-10T05:22:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/ai-a-bane-for-traditional-financial-services-a-boon-for-fintech-capgemini-report/article33063906.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/ai-a-bane-for-traditional-financial-services-a-boon-for-fintech-capgemini-report/article33063906.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ai-a-bane-for-traditional-financial-services-a-boon-for-fintech-capgemini-report/article33063906.ece/amp/"
+  - title: "China's Plan to Dominate the U.S. With Artificial Intelligence in the Next Decades"
+    excerpt: "David P. Goldman joins The John Batchelor Show to discuss the PRC's aims to dominate the U.S. with AI in the next decades and what is to be done."
+    publishedDateTime: 2020-11-12T22:49:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/11/12/chinas_plan_to_dominate_the_us_with_artificial_intelligence_in_the_next_decades_.html#!"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 53
-    images:
-      - url: "https://www.thehindubusinessline.com/info-tech/1y1q1h/article33063905.ece/ALTERNATES/LANDSCAPE_615/AI"
-        width: 615
-        height: 384
-        isCached: true
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 11
 
 secured: "XZ11rfCqi4e9h7CETM6ZND7oBlOLcJ+7nrCuwZeHL3J8UkZZaZ0Cflupw9sn6igSHDiSZJT6g/E8twmYyuUuVz//A0AEpgKO1JEAD9YWSL/2nKbHm7+xfbz5cT5C8APkMKSFjPTf9Cc84TAPh5yD3Y8nWrA7mSuP6cZsc7+oq1NAeOPnLQvwTVIOTwmgVmO6BGXutpe04jN39SysFQULxT2OQJdAd+3VV7jkh09AF09HffIPtLwDMmpERZGheHDlP8p2kMD1g2XcFbIx04ZDO5/uyRCCkp9jqP6Fn63B0BwfSyA+cpU/dkZKz22VJrduMG6JwW3FcCvdGNSbiGWK3XMOkCw6zmry8zZu9leougL+l1Nk0eivKm6NzQqV8OhDTpFrDj7gZldHl7OzPyARF1QIAmq5DZafwdZ+/rA68b9POt8tRIy5SKx8mAYvGC20bymI7ABrxcOizDakGduBEahenh39ejHN8EE1QNv6kfzHlZR4zJF1pq+CCeq8R3tW0XzP1ZXy3VgzJ3Mcc1qCuw==;U8NQzw6nW32930SMmMuDpQ=="
 ---

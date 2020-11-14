@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/cash-flow-solutions-and
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cash-flow-solutions-and-transaction-science-join-forces-as-ribbit-an-ai-fintech-firm-1029788757"
 type: article
 quality: 62
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/10/Mastercard-Touchless-Payments-iPhone-Wallet-Credit-Card-300x232.jpg"
         width: 300
         height: 232
-        isCached: true
-  - title: "5 fintech opportunities for entrepreneurs beyond 2020"
-    excerpt: "The fintech sector is undergoing a complete digital makeover by leveraging sophisticated new-age tech to cater to increasingly tech-savvy users resulting in a superior customer experience."
-    publishedDateTime: 2020-11-10T05:15:00Z
-    webUrl: "https://yourstory.com/2020/10/fintech-opportunities-entrepreneurs-beyond-2020"
-    ampWebUrl: "https://yourstory.com/2020/10/fintech-opportunities-entrepreneurs-beyond-2020/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/10/fintech-opportunities-entrepreneurs-beyond-2020/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 44
-    images:
-      - url: "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/Fintech-1599488865962-1603437196437.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
         isCached: true
   - title: "Fintech Firm Quadpay Gets The Urge for Visual Fashion Search"
     excerpt: "Pay Later” company QuadPay aims to bring visual fashion search to the platform, with $6.1 million Urge Holdings acquisition."

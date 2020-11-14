@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timeslive.co.za/amp/motoring/news/2020-11-10-chip-maker-
 cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/news/2020-11-10-chip-maker-nvidia-signs-deal-with-hyundai-motor/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/6898x3880+560+845/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2020/11/10083826/Large-1869-GenesisGV801.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Hyundai signs in-car entertainment system deal with chip maker Nvidia"
-    excerpt: "Hyundai Motor said it will use the Nvidia Drive in-vehicle information and entertainment system for all its Hyundai, Kia, and Genesis models starting in 2022. The technical cooperation with chip maker Nvidia will enable Hyundai Motor to develop high-performance connected car computing systems for its next-generation models,"
-    publishedDateTime: 2020-11-10T06:34:00Z
-    webUrl: "https://www.autonews.com/automakers-suppliers/hyundai-signs-car-entertainment-system-deal-chip-maker-nvidia"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 54
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/hyundai%20logo%20web%20rtrs_1.jpg"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "yKkNAC+sWXsInXmCtwF8PKNuOA0y8xYeclDEpaJ+XnSGBp1mqBCmnCmLmG0n8Lv51a2+jxZaF0o+hQtgJVmxipITnCsTKdjWCH1DjR+MNldWXo41l2SwjWaT9DbwN/KH9RdYgXnJqrmYwHGUqR+qx40iQZ3F8tFfiIOBMbOyhBFRSFIwmq4YapKIYYe/jNvgly+odvv+l6X8uQLVZqD5847jjojjjGhjngsj54EdHw3Z+ZGplWUZ69xrff2Y0kIuf9Pr5Cr4f+LGd3+2Rc2ecil7Qm7B4uTttLsf5RoKYShzlxB5YKPzV8JFOE8x6OVAVd8LdjPtufvaoZc5a/VRCsBiHatz85A1+pJX273oEwA=;1QgBnEDguyJ7HAfAYja3bw=="

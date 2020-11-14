@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-12-escooter-startup-voi-uses-ai-to-detect-pedestrians-and-sidewalks.md",
+      "title": "Escooter startup Voi uses AI to detect pedestrians and sidewalks",
+      "excerpt": "Voi is turning to AI to enable its escooters to detect pedestrians and sidewalks, in a move designed to allay cities' safety fears.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/11/escooter-startup-voi-uses-ai-to-detect-pedestrians-and-sidewalks/",
+      "originalUrl": "https://venturebeat.com/2020/11/11/escooter-startup-voi-uses-ai-to-detect-pedestrians-and-sidewalks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Luna_VOI5.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 658,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/11/escooter-startup-voi-uses-ai-to-detect-pedestrians-and-sidewalks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/11/escooter-startup-voi-uses-ai-to-detect-pedestrians-and-sidewalks/amp/",
+      "publishedDateTime": "2020-11-11T16:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-apples-macbook-air-with-m1-chip-everything-you-need-to-know.md",
       "title": "Apple's MacBook Air with M1 chip: Everything you need to know",
       "excerpt": "Get all the specs, new features, pricing, and availability details for Apple's first M1-powered MacBook Air laptop, and find out how it compares to the previously released Intel-based models.",
@@ -850,57 +901,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-researchers-claim-ai-algorithm-uses-heart-rate-and-motion-data-to-predict-age-sex-and-more.md",
-      "title": "Researchers claim AI algorithm uses heart rate and motion data to predict age, sex, and more",
-      "excerpt": "University of Cambridge and Alan Turing Institute researchers developed an algorithm that predicts age, BMI, and more from wearable data.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/11/researchers-claim-ai-algorithm-use-heart-rate-and-motion-data-to-predict-age-sex-and-more/",
-      "originalUrl": "https://venturebeat.com/2020/11/11/researchers-claim-ai-algorithm-use-heart-rate-and-motion-data-to-predict-age-sex-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/IMG_4433D-e1605045130970.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/11/researchers-claim-ai-algorithm-use-heart-rate-and-motion-data-to-predict-age-sex-and-more/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/11/researchers-claim-ai-algorithm-use-heart-rate-and-motion-data-to-predict-age-sex-and-more/amp/",
-      "publishedDateTime": "2020-11-11T06:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

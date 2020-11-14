@@ -52,22 +52,6 @@ related:
         width: 300
         height: 232
         isCached: true
-  - title: "5 fintech opportunities for entrepreneurs beyond 2020"
-    excerpt: "The fintech sector is undergoing a complete digital makeover by leveraging sophisticated new-age tech to cater to increasingly tech-savvy users resulting in a superior customer experience."
-    publishedDateTime: 2020-11-10T05:15:00Z
-    webUrl: "https://yourstory.com/2020/10/fintech-opportunities-entrepreneurs-beyond-2020"
-    ampWebUrl: "https://yourstory.com/2020/10/fintech-opportunities-entrepreneurs-beyond-2020/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/10/fintech-opportunities-entrepreneurs-beyond-2020/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 44
-    images:
-      - url: "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/Fintech-1599488865962-1603437196437.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "xdODZIlVPjb7WDeEQ6yqxBSVhDIdCJH641CcDgz5k0cKZn3pYSoAyrhVMRRsmEkCLPcPKLCW4qH50TsJIZ5fs4vFh4HWi9YPe+cT0iXNIyfK20NrdPu/vPcHJyFlQ8FIbobRzNhWWsselPnnXx2ouULrsY9/ncp7D5HWQuw6n4b+THINutCqC0DFTlQc9itCiEZc6ywT8R7oahmwhEyXIF8evFb8agKyZsT6ZkeB23FUNjr5THiJkv+0527Q0NYmqkRrtPtqtvSqOyFRsz4zR0IZaUzHRBCusxU2VT3Kz2SIUOw+kFIScjucz6cNhWyRsiZhPchUo4fqKcQYcVxMEg2zH9Waq3GVDGQsRful/YFNNm2YcDSsevqL6OF0j80qcEEB62Fwk+v9hvJT5V19VUGWUrZd7hoghhZNu4S7gNGDjxBgSujQgnuoSamZGVjT2+vJxEeK89oJrHMFKew3hvb0C2PSpB5cvdegMAS/VBk/PBcjvvL7Dh5J0WaJKgGStfEYXb2UZri/kwR116h0sA==;FJIoaWMHqHZ+cIRKL122ow=="
 ---

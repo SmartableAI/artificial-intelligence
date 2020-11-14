@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/the-long-read/67/the-ai-powered-cybersecu
 webUrl: "https://www.finextra.com/the-long-read/67/the-ai-powered-cybersecurity-arms-race-and-its-perils"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 800
     height: 449
     isCached: true
-
-related:
-  - title: "Artificial Intelligence and Machine Learning helping insurance companies with cybersecurity: EY"
-    excerpt: "EY had helped an insurance company tackle the cybersecurity threat and this could be replicated throughout the industry."
-    publishedDateTime: 2020-11-10T06:42:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/tech-bytes/artificial-intelligence-and-machine-learning-helping-insurance-companies-with-cybersecurity-ey/articleshow/79145011.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/tech-bytes/artificial-intelligence-and-machine-learning-helping-insurance-companies-with-cybersecurity-ey/amp_articleshow/79145011.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/artificial-intelligence-and-machine-learning-helping-insurance-companies-with-cybersecurity-ey/amp_articleshow/79145011.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 62
-    images:
-      - url: "https://economictimes.indiatimes.com/thumb/width-412,height-255,imgsize-140439,msid-78635250/apple-could-be-launching-the-iphone-12-today-heres-whats-expected.jpg"
-        width: 412
-        height: 255
-        isCached: true
 
 secured: "RMdc2NrW6HDDOiOD68qGDZ44jIVHDx4zNsn0zOGb205ixtP2wN26G61j4YquQvdMwe828RfMYt9jrEXGOj1xBRFHWYca1rfsjy3lT0Lw0Q581zhVYNi42XLaeQHILt2AIokSS+iQ/l+4GS16p3b6Y738iAavrJWF+k8v1gHXZKThts6fS5Ap1TFtwRR4UO+yCQ3qgzMd0VDS71yIked9ipvhHCzvvR3JJVFVFjMcFnHEHVjjyCyEmyr5nWjbYMXovyxOC36gZ/Fxp4yHjP89tMODlS4PbvNhLpBnhx8Ta0aGXI4EvfQ7cJblrd4+ivIMk34XQUdBM2GKnuM9+LFYhgAHwgXRWwd0vA9VWXMYzEFowbYJMGAB/v0gQfBTEm6qaiwel35FFIfJ2HjU+OTCvts3GCV9ZLJLp1pQQaRc8Kz6OBz+gJHXHPhQclt/tC5mnu8QyTm6fmgE51r9rETbLhJBhzC33DV/XaDEvOFxEhUad76RnFxxBDc0BUk0F3P8W96of7LCvuMnioui4BoiHg==;GizRv/8POgCehhxnnMTKMA=="
 ---

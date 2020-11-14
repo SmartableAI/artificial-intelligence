@@ -62,20 +62,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Are Easy-To-Interpret Neurons Necessary? New Findings By Facebook AI Researchers"
-    excerpt: "To explore if easy to interpret neural networks actually hinder the learning process in deep learning models, the researchers at Facebook AI published three works."
-    publishedDateTime: 2020-11-10T05:33:00Z
-    webUrl: "https://analyticsindiamag.com/easy-to-interpret-neurons-facebook-ai-research/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 34
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/11/easy-to-interpret.jpg"
-        width: 1601
-        height: 1201
-        isCached: true
 
 secured: "RuEah7eyLmCZ+F3w5/4swUgW0vBjlizN3XYaahvoHttCYMMDuJq55k4EJN1A5PWgoMBqiOq0XJX1qzoRTVlRcxKJCXk3ael5Wy5u8PB2f1md+I/IFPia2ixAwRotV9oztyL0ed7BOmwo2mvetqSIN+gtdRRQN1eM1fgvlDYjsJFIlXEuxEHZTY43tMF2+6/0UKyHvJzEmN2atd0zE5L71Qwb8cJQBF9qJwI0SrgPfrij9iCSJNhs56yQZbHRfITq0mAuSiwvmGw3o5XGCahvz16bEtaHFFeIWo70M0IaxqHbSmyM3hOi3mfbq+Nchw4Ym349lMD5ktu2MV3Rt+q97sP9hvDfDE6t3zlIDZ98y7JS8Dlo4cEBxedk5RT+1JS/UeN9w7JfgR7zVaz9nfVf7o1nz8P/v52VPc0N7gK4b2Az7vmFIGEgnqAoRIoXo0f6n+DP0FEhqOS1Uh5WrDiQ3qW9UfoCkDrln8MEQOfBnE0YnUoagWCp1bqzU1uQ2NELsblKF8j51d3KKm8skCaBDA==;0D1ckImqo5ddlDgUbV3RzQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://slator.com/machine-translation/deepmind-says-impact-of-new
 webUrl: "https://slator.com/machine-translation/deepmind-says-impact-of-new-end-to-end-machine-dubbing-tech-may-be-widespread/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 600
     height: 400
     isCached: true
-
-related:
-  - title: "DeepMind Develops A New Toolkit For AI To Generate Games"
-    excerpt: "According to DeepMind, this work is a means of revealing topological structure, extending beyond related works and investigating this question for small classes"
-    publishedDateTime: 2020-11-10T06:31:00Z
-    webUrl: "https://analyticsindiamag.com/deepmind-ai-toolkit-games-chess-go/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/11/click-and-boo-t43Q-NhSqhU-unsplash-compressed-scaled.jpg"
-        width: 2560
-        height: 1708
-        isCached: true
 
 secured: "52ZsUUha2EOPTvPn+Fg3mou5tWc1XYFqB9WypdNmDwYG2p1fP2EDHeZUScCBsb6cLOtOlCbrqqXsCnGM3qyiIloy16IwvqeGwIPFdGjDJe5WG7yHiee3vRXlLy+JmWE3g0RjlLcGr1PlAU4qAb1YZcabae+tpZJO27dqDk1QnqHD4mI4P5X9APV3DVjweNW4Onusok4zoxzvcqC1qi4Q7rrT2sHxUBcSe/jPS2TStyeMGc1EsjmRwkqhxNsKetypm3dl7BxL9SofMCYou89JMZtKiMWMzVL2dZy5ZV9WjafEVAyQHMZIU0JQLUJdvfqtuhqXVPmAzCcnkJe2XiCFKtVm3/7+fje1P8yuH8CuVggtz7wy3OfTlO69F3eZzRvOQuaukCRaTrT8u/J/ygpgTUXH1kiwkZlTKwHw6cpLrOfMCnpqUP6d39mliENrCGrr3lmVIVa9dEA/KWgWO1K+5F/OJgdSYRr++mhdNX67WOusXLy2lb5PbK4wdG9a/e5SH3Rq2ojIjoNbvOmxnYxGtQ==;EghYLFeqkw1GB5zp5L969Q=="
 ---
