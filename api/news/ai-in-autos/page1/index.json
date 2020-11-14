@@ -10,7 +10,7 @@
       "originalUrl": "https://techcrunch.com/2020/11/13/uber-in-talks-to-sell-atg-self-driving-unit-to-aurora/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -54,21 +54,21 @@
       ]
     },
     {
-      "path": "_news/2020-11-14-velodyne-aims-to-price-new-self-driving-car-sensor-below-500.md",
-      "title": "Velodyne aims to price new self-driving car sensor below $500",
-      "excerpt": "Velodyne Lidar Inc <VLDR.O> said on Friday it would introduce a new lidar unit, a key sensor in self-driving cars, with a target price point of less than $500 and no moving parts.",
+      "path": "_news/2020-11-14-this-500-lidar-wants-to-give-self-driving-cars-and-adas-better-vision.md",
+      "title": "This $500 LIDAR wants to give self-driving cars and ADAS better vision",
+      "excerpt": "A $500 LIDAR sensor for ADAS and autonomous cars could help take the technology mainstream, giving new vehicles an extra sense that some driverless experts think will be essential if Level 4 and 5",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/velodyne-lidar-tech/update-1-velodyne-aims-to-price-new-self-driving-car-sensor-below-500-idUSL1N2HZ2BS",
-      "originalUrl": "https://www.reuters.com/article/velodyne-lidar-tech/update-1-velodyne-aims-to-price-new-self-driving-car-sensor-below-500-idUSL1N2HZ2BS",
+      "webUrl": "https://www.slashgear.com/velodyne-500usd-lidar-sensor-solid-state-market-competitive-roadmap-13647261/",
+      "originalUrl": "https://www.slashgear.com/velodyne-500usd-lidar-sensor-solid-state-market-competitive-roadmap-13647261/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 94,
       "tags": null,
       "images": [
         {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541163997&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1PE",
-          "width": 817,
-          "height": 545,
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/11/Velodyne_Velarray_H800_Sensor.jpg",
+          "width": 1587,
+          "height": 992,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,16 +76,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27T1PP",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T1PP",
-      "publishedDateTime": "2020-11-13T13:11:00-08:00",
+      "ampWebUrl": "https://www.slashgear.com/velodyne-500usd-lidar-sensor-solid-state-market-competitive-roadmap-13647261/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/velodyne-500usd-lidar-sensor-solid-state-market-competitive-roadmap-13647261/amp/",
+      "publishedDateTime": "2020-11-13T13:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "SlashGear",
+        "domain": "slashgear.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -163,8 +163,8 @@
       "title": "Daimler will shrink with shift to electric, autonomous cars: CEO",
       "excerpt": "Daimler <DAIGn.DE> will be a smaller company five years from now, focused on capturing recurring revenues with software-based services as Mercedes-Benz seeks to redefine luxury in an era of electric self-driving cars,",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/daimler-china/daimler-will-shrink-with-shift-to-electric-autonomous-cars-ceo-idUSL8N2HY7RO",
-      "originalUrl": "https://www.reuters.com/article/daimler-china/daimler-will-shrink-with-shift-to-electric-autonomous-cars-ceo-idUSL8N2HY7RO",
+      "webUrl": "https://www.reuters.com/article/daimler-china-idUSKBN27S2QA",
+      "originalUrl": "https://www.reuters.com/article/daimler-china-idUSKBN27S2QA",
       "featuredContent": null,
       "highlight": null,
       "heat": 89,
@@ -428,7 +428,7 @@
       "originalUrl": "https://www.engadget.com/honda-to-mass-produce-level-3-self-driving-cars-163208006.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 208,
+      "heat": 218,
       "tags": null,
       "images": [
         {

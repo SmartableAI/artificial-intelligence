@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 651
         isCached: true
+  - title: "Uber in talks to sell its ATG self-driving unit to Aurora - source"
+    excerpt: "Uber Technologies Inc <UBER.N> is in talks to sell its autonomous driving unit, Uber Advanced Technologies Group (ATG), to self-driving car startup Aurora, a source familiar with the matter told Reuters."
+    publishedDateTime: 2020-11-14T04:45:00Z
+    webUrl: "https://www.reuters.com/article/us-uber-aurora-idUSKBN27T30K"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T30K"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T30K"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541170142&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1RR"
+        width: 816
+        height: 545
+        isCached: true
   - title: "Uber in talks to sell its ATG self-driving unit to Aurora - TechCrunch"
     excerpt: "Uber Technologies Inc <UBER.N> is in talks to sell its autonomous driving unit, Uber Advanced Technologies Group, to self-driving car startup Aurora, TechCrunch reported on Friday, citing people familiar with the matter."
     publishedDateTime: 2020-11-14T03:38:00Z

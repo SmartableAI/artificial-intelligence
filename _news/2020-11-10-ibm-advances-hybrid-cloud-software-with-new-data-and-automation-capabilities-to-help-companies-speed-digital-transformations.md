@@ -1,32 +1,22 @@
 ---
 category: news
 title: "IBM Advances Hybrid Cloud Software with New Data and Automation Capabilities to Help Companies Speed Digital Transformations"
-excerpt: "In addition, Cloud Pak offerings integrate with IBM Watson, enabling clients to infuse AI into their systems to predict and analyze future outcomes, automate complex processes, optimize employees ..."
-publishedDateTime: 2020-11-10T09:01:00Z
-originalUrl: "https://www.marketwatch.com/press-release/ibm-advances-hybrid-cloud-software-with-new-data-and-automation-capabilities-to-help-companies-speed-digital-transformations-2020-11-10"
-webUrl: "https://www.marketwatch.com/press-release/ibm-advances-hybrid-cloud-software-with-new-data-and-automation-capabilities-to-help-companies-speed-digital-transformations-2020-11-10"
+excerpt: "IBM today announced a series of data and automation updates to its hybrid cloud software portfolio to help companies drive innovation across their expanding environments and accelerate their digital transformations."
+publishedDateTime: 2020-11-10T14:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/ibm-advances-hybrid-cloud-software-with-new-data-and-automation-capabilities-to-help"
+webUrl: "https://www.nasdaq.com/press-release/ibm-advances-hybrid-cloud-software-with-new-data-and-automation-capabilities-to-help"
 type: article
-quality: 27
+quality: 7
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - IBM AI
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "IBM updates Cloud Paks for data, automation with RPA tools, industry accelerators"
@@ -90,6 +80,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "DJzBFmcc5daAG/llkyXMM+WH80HjMZrUnWABdRsxnnMwONoGTx6+lHoXds+WEINofvjfW9+Bk1cNgw2knd7FrqVnq+C8DoR9eT+RMr2MnV64YgQX/RPQB1fVBmmigyKhFuz0j0/6huxW5c3KXcPbKN3yI18rE4lkbjkyQjsA9UKbudt+ULFD19F9g8ng7H6NEcVSSYEcDvojY256tCxk7p1ScdvsH/CSJpWhOJPs/h47EA+OYa/joykrJ41yD6vxaWVdcXG6XXnfbM6/KCZz5oJs5dgoL55ANke6w/JpcxdW2MJzlqSKzIP7w6wQpROKIgYzj5lF+FtHyB+HPsJCfTdjd3ICwkJQTJFPCbjBvCo=;5IkqtTQZUIkV9INBcj8LqQ=="
+secured: "nAhi7HjRngNLkKonCjMbrJY8U02jBCCpXX4K/m/bk7Apv39uL/F3YogiZjo63sIRIKKAZLchFmvM08yljVH66NYUcghHM3myX3eYiSecCLtxq+h1bTgksZlGn0L8dULaR/Y10jHNrN5Dqse32JQJw0IRHDxvIBysw9vJs94Hit6uKUwmkbnBuQGFEnOU0CxyiiQmz0LMhV/g/l4IVYoC5QRV5LEZIdqfArVtkIhecWtdrx0TkU64Tfi/cue6hO8DQGkfFIahD5+gIyn4rNqypiFAoZ4D+SgD/Znt1wOv8RqWNkG2MwvyAtqnn9RG2c1Cnfkq4hODdZiPlbIY6AP1boyKSbGrakSFvkfAVwXjpc0=;iQ3rd2bMqvK7DkoksD64FQ=="
 ---
 

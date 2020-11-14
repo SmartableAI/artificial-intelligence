@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Velodyne aims to price new self-driving car sensor below $500"
-excerpt: "Velodyne Lidar Inc <VLDR.O> said on Friday it would introduce a new lidar unit, a key sensor in self-driving cars, with a target price point of less than $500 and no moving parts."
-publishedDateTime: 2020-11-13T21:11:00Z
-originalUrl: "https://www.reuters.com/article/velodyne-lidar-tech/update-1-velodyne-aims-to-price-new-self-driving-car-sensor-below-500-idUSL1N2HZ2BS"
-webUrl: "https://www.reuters.com/article/velodyne-lidar-tech/update-1-velodyne-aims-to-price-new-self-driving-car-sensor-below-500-idUSL1N2HZ2BS"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T1PP"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T1PP"
+title: "Velodyne Aims to Price New Self-Driving Car Sensor Below $500"
+excerpt: "Velodyne Lidar Inc said on Friday it would introduce a new lidar unit, a key sensor in self-driving cars, with a target price point of less than $500 and no moving parts. Velodyne became a public company in September and is one of several companies vying to supply automakers with lidar,"
+publishedDateTime: 2020-11-14T15:33:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2020-11-13/velodyne-targets-sub-500-price-point-for-self-driving-car-sensor"
+webUrl: "https://www.usnews.com/news/technology/articles/2020-11-13/velodyne-targets-sub-500-price-point-for-self-driving-car-sensor"
+ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-11-13/velodyne-targets-sub-500-price-point-for-self-driving-car-sensor?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-11-13/velodyne-targets-sub-500-price-point-for-self-driving-car-sensor?context=amp"
 type: article
-quality: 89
-heat: 129
-published: true
+quality: 69
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,68 +24,189 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541163997&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1PE"
-    width: 817
-    height: 545
-    isCached: true
-
 related:
-  - title: "This $500 LIDAR wants to give self-driving cars and ADAS better vision"
-    excerpt: "A $500 LIDAR sensor for ADAS and autonomous cars could help take the technology mainstream, giving new vehicles an extra sense that some driverless experts think will be essential if Level 4 and 5"
-    publishedDateTime: 2020-11-13T21:15:00Z
-    webUrl: "https://www.slashgear.com/velodyne-500usd-lidar-sensor-solid-state-market-competitive-roadmap-13647261/"
-    ampWebUrl: "https://www.slashgear.com/velodyne-500usd-lidar-sensor-solid-state-market-competitive-roadmap-13647261/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/velodyne-500usd-lidar-sensor-solid-state-market-competitive-roadmap-13647261/amp/"
+  - title: "Honda claims it'll be the first to mass produce level 3 self-driving cars"
+    excerpt: "They could overtake slow cars by themselves. Virtually every semi-autonomous car you’ve seen on the road, even Teslas with Autopilot, uses level 2 self-driving — they may save you from steering or hitting the accelerator,"
+    publishedDateTime: 2020-11-11T16:35:00Z
+    webUrl: "https://www.engadget.com/honda-to-mass-produce-level-3-self-driving-cars-163208006.html"
+    ampWebUrl: "https://www.engadget.com/amp/honda-to-mass-produce-level-3-self-driving-cars-163208006.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/honda-to-mass-produce-level-3-self-driving-cars-163208006.html"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 74
+      name: YAHOO!News
+      domain: engadget.com
+    quality: 88
     images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/11/Velodyne_Velarray_H800_Sensor.jpg"
-        width: 1587
-        height: 992
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F4f2b8c20-2436-11eb-b7b7-4bf22a2a36a8&client=amp-blogside-v2&signature=f3a493c3b8522b7fbef3bc164f1803488841034a"
+        width: 600
+        height: 350
         isCached: true
-  - title: "Uber in talks to sell its ATG self-driving unit to Aurora - source"
-    excerpt: "Uber Technologies Inc <UBER.N> is in talks to sell its autonomous driving unit, Uber Advanced Technologies Group (ATG), to self-driving car startup Aurora, a source familiar with the matter told Reuters."
-    publishedDateTime: 2020-11-14T04:45:00Z
-    webUrl: "https://www.reuters.com/article/us-uber-aurora-idUSKBN27T30K"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T30K"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T30K"
+  - title: "Honda says will be first to mass produce level 3 autonomous cars"
+    excerpt: "Japan's Honda Motor Co said on Wednesday it will be the world's first automaker to mass produce sensor-packed level 3 autonomous cars that will allow drivers to let their vehicles navigate congested expressway traffic."
+    publishedDateTime: 2020-11-11T11:59:00Z
+    webUrl: "https://www.reuters.com/article/honda-autonomous-level3-idUSKBN27R0M7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27R0M7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27R0M7"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 74
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541170142&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1RR"
-        width: 816
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201111&t=2&i=1540803398&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAA0AY"
+        width: 801
         height: 545
         isCached: true
-  - title: "UPDATE 1-Velodyne aims to price new self-driving car sensor below $500"
-    excerpt: "Nov 13 (Reuters) - Velodyne Lidar Inc said on Friday it would introduce a new lidar unit, a key sensor in self-driving cars, with a target price point of less than $500 and no moving parts. Velodyne became a public company in September and is one of ..."
-    publishedDateTime: 2020-11-13T20:48:00Z
-    webUrl: "https://www.reuters.com/article/velodyne-lidar-tech-idUSL1N2HZ2BS"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T1PP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T1PP"
+  - title: "Honda to mass-produce Level 3 autonomous cars by March"
+    excerpt: "Honda claims it will be the first automaker to mass-produce vehicles with autonomous capabilities that meet SAE Level 3 standards, with plans to begin producing and selling a version of its Honda Legend luxury sedan with fully approved automated driving equipment in Japan from next March."
+    publishedDateTime: 2020-11-11T15:59:00Z
+    webUrl: "https://techcrunch.com/2020/11/11/honda-to-mass-produce-level-3-autonomous-cars-by-march/"
+    ampWebUrl: "https://techcrunch.com/2020/11/11/honda-to-mass-produce-level-3-autonomous-cars-by-march/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/11/honda-to-mass-produce-level-3-autonomous-cars-by-march/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-  - title: "Velodyne targets sub-$500 price point for self-driving car sensor"
-    excerpt: "Velodyne Lidar Inc <VLDR.O> said on Friday it would introduce a new lidar unit, a key sensor in self-driving cars, with a target price point of less than $500 and no moving parts."
-    publishedDateTime: 2020-11-13T13:19:00Z
-    webUrl: "https://www.businessinsider.com/velodyne-targets-sub-500-price-point-for-self-driving-car-sensor-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/velodyne-targets-sub-500-price-point-for-self-driving-car-sensor-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/velodyne-targets-sub-500-price-point-for-self-driving-car-sensor-2020-11?amp"
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/11/honda-legend-profile.jpg?w=800"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Weather-proof chip aims to take self-driving tech, wireless communications to next level"
+    excerpt: "A new device can overcome challenges like bad weather to deliver more secure, reliable communications. This could aid military communications in challenging areas, improve the ability of self-driving cars to see the environment around them and speed up wireless data for potential 6G networks."
+    publishedDateTime: 2020-11-13T09:42:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/11/201112145432.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 57
+  - title: "Honda, First To Mass Produce Level 3 Self-Driving Cars: Reuters"
+    excerpt: "The Japanese government awarded Honda Motor Co Ltd (NYSE: HMC) a safety certification to the automaker’s “Traffic Jam Pilot” self-driving technology, Reuters reports. What Happened: Honda plans to launch its luxury sedan (Honda Legend) sales with the ..."
+    publishedDateTime: 2020-11-11T12:51:00Z
+    webUrl: "https://www.benzinga.com/news/20/11/18318098/honda-first-to-mass-produce-level-3-self-driving-cars-reuters"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18318098"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18318098"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/honda_legend_2018.jpg"
+        width: 4485
+        height: 2085
+        isCached: true
+  - title: "Honda Hints It Will the First to Release Level 3 Self-Driving Vehicles"
+    excerpt: "Honda has declared that it will be the first automaker to put out level 3 self-driving vehicles. It’s a bold move that gives the company a competitive advantage against most automakers — even Tesla only has level 2 self-driving cars at the moment."
+    publishedDateTime: 2020-11-12T06:52:00Z
+    webUrl: "https://hypebeast.com/2020/11/honda-first-level-3-self-driving-cars-info"
+    ampWebUrl: "https://hypebeast.com/2020/11/honda-first-level-3-self-driving-cars-info?amp=1"
+    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/11/honda-first-level-3-self-driving-cars-info?amp=1"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 44
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F11%2Fhonda-first-level-3-self-driving-cars-info-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
+        width: 1076
+        height: 717
+        isCached: true
+  - title: "Walmart teams up with GM's Cruise to test grocery delivery with self-driving cars"
+    excerpt: "Walmart announced Tuesday that the company has joined forces with self-driving car company Cruise to test out autonomous grocery delivery in Arizona."
+    publishedDateTime: 2020-11-11T15:31:00Z
+    webUrl: "https://www.fox35orlando.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars"
+    ampWebUrl: "https://www.fox35orlando.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars.amp"
+    cdnAmpWebUrl: "https://www-fox35orlando-com.cdn.ampproject.org/c/s/www.fox35orlando.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars.amp"
+    type: article
+    provider:
+      name: WOFL
+      domain: fox35orlando.com
+    quality: 39
+    images:
+      - url: "https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2020/11/932/470/Walmart-and-Cruise.png?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
+  - title: "Walmart teams up with GM's Cruise to test grocery delivery with self-driving cars"
+    excerpt: "Walmart announced Tuesday that the company has joined forces with self-driving car company Cruise to test out autonomous grocery delivery in Arizona."
+    publishedDateTime: 2020-11-11T17:36:00Z
+    webUrl: "https://www.fox5atlanta.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars"
+    ampWebUrl: "https://www.fox5atlanta.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars.amp"
+    cdnAmpWebUrl: "https://www-fox5atlanta-com.cdn.ampproject.org/c/s/www.fox5atlanta.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars.amp"
+    type: article
+    provider:
+      name: FOX 5 Atlanta
+      domain: fox5atlanta.com
+    quality: 39
+    images:
+      - url: "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2020/11/932/470/Walmart-and-Cruise.png?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
+  - title: "Self-driving Cars and Trucks Market to Eyewitness Massive Growth by 2026 | General Motors, Honda Motor, Nissan Motor"
+    excerpt: "Nov (Heraldkeepers) -- Latest added Global Self-driving Cars and Trucks Market research study by HTF MI offers detailed product outlook"
+    publishedDateTime: 2020-11-11T07:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-and-trucks-market-to-eyewitness-massive-growth-by-2026-general-motors-honda-motor-nissan-motor-2020-11-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Honda’s self-driving system wins OK for use on busy roads in Japan"
+    excerpt: "Honda is launching a new version of its Legend sedan that will take over for drivers on busy highways after the company got approval for its self-driving system in Japan."
+    publishedDateTime: 2020-11-11T15:30:00Z
+    webUrl: "https://www.wraltechwire.com/2020/11/11/hondas-self-driving-system-wins-ok-for-use-on-busy-roads-in-japan/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 24
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2020/11/honda-4967587_1280-e1605108185813-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Honda To Produce Self-Driving Cars Capable Of Navigating Heavy Traffic"
+    excerpt: "Shutterstock The Honda Legend luxury sedan will have \"traffic jam pilot\" technology, allowing drivers to take their eyes off the road"
+    publishedDateTime: 2020-11-13T10:16:00Z
+    webUrl: "https://www.kabc.com/2020/11/13/honda-to-produce-self-driving-cars-capable-of-navigating-heavy-traffic/"
+    type: article
+    provider:
+      name: KABC
+      domain: kabc.com
+    quality: 24
+    images:
+      - url: "https://express-images.franklymedia.com/6616/sites/320/2020/11/12115213/autonomous-car-shutterstock_643585552.jpg"
+        width: 589
+        height: 424
+        isCached: true
+  - title: "Honda looks to break away in self-driving race"
+    excerpt: "Honda (NYSE:HMC) says it will be the first automaker in the world to mass produce sensor-packed level 3 autonomous cars that will allow drivers to let their vehicles navigate congested expressway traffic."
+    publishedDateTime: 2020-11-11T13:08:00Z
+    webUrl: "https://seekingalpha.com/news/3634896-honda-looks-to-break-away-in-self-driving-race"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
+  - title: "Ford: Playing it safe. There is no other way to launch self-driving cars"
+    excerpt: "That same mindset dominates how Ford approaches the introduction of self-driving cars. Just as decades of experience have given us safe and reliable development processes for human-driven cars, we need to draw upon that experience and develop the same processes for self-driving ones."
+    publishedDateTime: 2020-11-11T08:26:00Z
+    webUrl: "https://www.automotiveworld.com/news-releases/ford-playing-it-safe-there-is-no-other-way-to-launch-self-driving-cars/"
+    type: article
+    provider:
+      name: Automotive World
+      domain: automotiveworld.com
+    quality: 3
 
-secured: "0iroyOJegz2+7nFQsaQ2YjVYOQCsB32bKwMNTE8Cx4xv7RhaMg+5kRU9wWYD62/7QVuNDqWTOE4Gmjv9haGzFw/C9TFuf6So89Chl80eVlsg8BeA2zsCWC+Qb4ogN/j7HsHneeU6YPgmVGDu5ijzo42Nt6F0blTecrH1re9q40mQyfJdRK+F3eO3YieehnRr+lJTsuwmlz92A/z/aU9uXqYrdwthVhbdPtPEpQbxcdJndvPAAhSWv5bV4MaZ2StNYlsdPy0z+JFP7mAN7UsgFiTjKQIp96DeBWs9mJTfrbB1JE0hBbgRWhN8FLYswzT2It7nZJwPsU43rTW/P4SC39ZAxz5Rubu8CCHhAqUkgblfVMDkc0UEJD4epA/zpRZ2Pwm20D/D47tQ/cSzv+6HKLu3F8YSCSKVDD9qVhW6ESFnf/Nw3HJJLfCNkbT1u5ASsl7NmQ3yXbi3+FwzoZP/H3ZfViVSAbMi67BAv0bwVorkPHV8tP/jLCt/nFxP9Kbvol+d4Puti/Av1FcMXMjo5w==;0+8V6a+GxQ7YM7s+v1v0rQ=="
+secured: "OO6bdjLoIzA81Syz91J/Ey3gcokV+vaB1bNKRJeK/9xi+kLn2oHliRYGX+nQhPUJDvoFKxcHQArIjLKSPmblbP/2sejhDIRiuoBysEG5G1Z3THee+wqhf7kNtrLpjaJNYU+l6npqWIjlBbHkK3p9DyRQjPUzwigG0qykB/B3cYp/qq/25ti+W9ib26W+UJKUAimm9x/JKUB6KXTnFuegQ+C7WAwftMR5G8uVxIiVKC6uwXpwa4qtFOT7I7V6+fnCiAASKYN8Wpxe1niY34G/wJdO2SToage9zVlAdi5qCXep200bWI8XP2s/JEd0uCtBJve+oMe/4YrsqBGLT8lkYcDHFAk78Qkoia1hBOL8iGhb+5rqEBP6qtjjmqRCyU5Y74ILkGTCfeKK2Ey5l9l2zj3uB8V7B6AjpqFsUQ4fuqgx/HGiEa94iUKDKkxd+Yky4aH4awilJXvBv4Zv55+TWni1L8ss3H99qewWxFwIjidG3YfLyTYVdniTMt8bWs2Tzj/KvXfYQkPmFMeWpXmDLQ==;IdPtUGXR5S+HSGL1e36ktg=="
 ---
 

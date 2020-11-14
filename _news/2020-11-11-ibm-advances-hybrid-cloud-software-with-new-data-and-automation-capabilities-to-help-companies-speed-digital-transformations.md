@@ -72,19 +72,14 @@ related:
         height: 512
         isCached: true
   - title: "IBM Advances Hybrid Cloud Software with New Data and Automation Capabilities to Help Companies Speed Digital Transformations"
-    excerpt: "In addition, Cloud Pak offerings integrate with IBM Watson, enabling clients to infuse AI into their systems to predict and analyze future outcomes, automate complex processes, optimize employees ..."
-    publishedDateTime: 2020-11-10T09:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ibm-advances-hybrid-cloud-software-with-new-data-and-automation-capabilities-to-help-companies-speed-digital-transformations-2020-11-10"
+    excerpt: "IBM today announced a series of data and automation updates to its hybrid cloud software portfolio to help companies drive innovation across their expanding environments and accelerate their digital transformations."
+    publishedDateTime: 2020-11-10T14:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/ibm-advances-hybrid-cloud-software-with-new-data-and-automation-capabilities-to-help"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 7
 
 secured: "v+5hehM6dGANfjXMrdxPM0RCLlkaos5QCnkgocoeI3zs7eVjjpMMQkuJAwV2EjGit7wfEHxTB+ZeKMcspq3HsNJaUYfvlF2fAhrocKeHCRiGH53/zzejWVJ/KWdGR6kGUCvXOXVRo18tggoMHyERIOAiaTJ/NcMvHPKiXunEhitJxZvgBYCBuoEztX/WqTyHUKeNzFeqqVDVjR/GaWXPGh8XptZ/Kjqxf5xZ1TTiMvuPgYkqOl3u3qI/vyqeuRnkwomAe7kl7Eu7l1Eiusm9nvytdQBm/6Dcoj7CzQYRWwRjPMN5ma231Uls/R/ef/B2dCgIvDfUDA8M2PUYrO4WWeTMxyPC0L7M7IeymSC+UsM=;P2GB0P99OIAB5CiUt2fgtw=="
 ---

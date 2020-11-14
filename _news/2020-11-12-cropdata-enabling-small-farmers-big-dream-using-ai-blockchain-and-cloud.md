@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/cropdata-enabling-small-farmers-big-dream-us
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/cropdata-enabling-small-farmers-big-dream-using-ai-blockchain-and-cloud/amp/"
 type: article
 quality: 58
-heat: -1
+heat: 58
 published: false
 
 provider:
@@ -25,33 +25,6 @@ images:
     width: 850
     height: 478
     isCached: true
-
-related:
-  - title: "Your car insurance salesman is now an AI bot connected to blockchain"
-    excerpt: "Voit has partnered with IBM and Cosmos to deliver a fully-automated virtual assistant that can offer car insurance"
-    publishedDateTime: 2020-11-13T02:21:00Z
-    webUrl: "https://cointelegraph.com/news/your-car-insurance-salesman-is-now-an-ai-bot-connected-to-blockchain"
-    ampWebUrl: "https://cointelegraph.com/news/your-car-insurance-salesman-is-now-an-ai-bot-connected-to-blockchain/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/your-car-insurance-salesman-is-now-an-ai-bot-connected-to-blockchain/amp"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 59
-    images:
-      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjAtMTEvMzJkMTg5ZGItZjNiOC00MGNkLWI4MzEtNTUxYTYwMTY2YzM2LmpwZw==.jpg"
-        width: 740
-        height: 494
-        isCached: true
-  - title: "Korean Payment Giant’s Danal Fintech Joins ICON Blockchain Ecosystem"
-    excerpt: "Danal Fintech, a subsidiary of Danal ( one of the largest payment companies in South Korea, today announced that they are joining the ICON blockchain ecosystem, the largest decentralized network in Korea by market capitalization."
-    publishedDateTime: 2020-11-11T12:02:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-south-korea-70b7109710ee3702e80c6d7e450260aa"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 19
 
 secured: "I6CnKZyp8g2h2Q8HNRCF4y9YtSmT+4LDAyoVY3lfNoz2N7jKpIGim14m1vfldEgEPN2fK67NKaqSxzyJUYW5Y0e4k+3hQKYurOpcliFs8vj4rk1YxihUr+lDzJDkxKWrIZXUTbypXnvYg+805ZN0uEvxIn+nkinVnbWQFeD6T3+ySTA4PB9RU7qyHw2BCHN/30uruzlhVPXgMHZn/Uu5R5vCc4dqsbmXlitKKg/9TcXVPsMt5OVX9hOFmffQvYKRbPjqq6bhmEVnVdEsoBMSiBNCNpAS6Cwc8vjXY6MuZ776EV6DU3fB28mRKmnTdZXJCluG0VA0plKCYqZiGJL79hbUeMNJHCwvLMn1KWl2KsAgpOnJyxmRZL/CkxsHp8b0wBVhpsyJWM7/LSw9Dz1ptm8JgFLn9dsU07T0BKEhy3nVeUJn3F4AmfBK7raKa7xMYmAXZUVFlwZJE4MIia5IhvFaYIajqtr4T1PE9NsVHxbiBN97QBP6I5E01WHpPGacbkxia5KBdf1a1wb5DKo9fg==;MzWi0ZdWbrMVZQXkSOKqUA=="
 ---

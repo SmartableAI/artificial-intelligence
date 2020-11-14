@@ -39,7 +39,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 101
+    quality: 103
   - title: "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker"
     excerpt: "ElectrifAi, one of the global leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,"
     publishedDateTime: 2020-11-11T12:00:00Z

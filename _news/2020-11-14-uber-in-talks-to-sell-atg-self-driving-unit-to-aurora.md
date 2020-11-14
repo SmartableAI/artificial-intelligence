@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/11/13/uber-in-talks-to-sell-atg-self-dri
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/13/uber-in-talks-to-sell-atg-self-driving-unit-to-aurora/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Uber in talks to sell its ATG self-driving unit to Aurora - source"
+    excerpt: "Uber Technologies Inc <UBER.N> is in talks to sell its autonomous driving unit, Uber Advanced Technologies Group (ATG), to self-driving car startup Aurora, a source familiar with the matter told Reuters."
+    publishedDateTime: 2020-11-14T04:45:00Z
+    webUrl: "https://www.reuters.com/article/us-uber-aurora-idUSKBN27T30K"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T30K"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T30K"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541170142&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1RR"
+        width: 816
+        height: 545
+        isCached: true
   - title: "Uber in talks to sell its ATG self-driving unit to Aurora - TechCrunch"
     excerpt: "Uber Technologies Inc <UBER.N> is in talks to sell its autonomous driving unit, Uber Advanced Technologies Group, to self-driving car startup Aurora, TechCrunch reported on Friday, citing people familiar with the matter."
     publishedDateTime: 2020-11-14T03:38:00Z
@@ -73,6 +89,6 @@ related:
       domain: seekingalpha.com
     quality: 4
 
-secured: "G8lzF0P8Kjsuz2rfvWy1HetScVyrE+a3UviQ5vk1ulK0cPH2LQqwwSR95t1rsLw8tvz1n0v/h6nhurB9YJQsWHyMmDYBxOfw8DJ8VbIrsblAjz3uzTNwpH4FDFA7p+CB4rxnSl8mJqaghXmW25glGSCYSl2+4FJrzy6itBB7YoN/BHZYLzG5qc4LlbSTqPrvfBMt5JSnKyJLEKTVt6hdg9VZ2bMv7syAJpzAiSVU4xTMS5Ycgc8qKj1YgGBZd/G0KFYjwFETYu732ch6lZqdyTI3a3ZFVU8uqnUpmuF3O4tGC+pBhPg4hI7gIrAZIhAPkZU8D7wPWP6zlluvpbbk9E0uycvsknmFKzD58YW0q80=;tLnC3fddLwtbvc+32XkTHw=="
+secured: "DFz0X44IMTQ4EVK5b1KFSqUKu0GR1Q67oLazRVZaaEnNGO6fegcibDIRDRHAQ6KeUuyre09GiYPeAxLS8f0fr/5g1kpJb37EWQ2utICK46aeKnMe6re8FBL4/HuMTSH5cDPfhFl7NwTwbYlmyhMs//xquiPlAZPhcDU2dAnMhPQGaUsPsYx2/grwF2VW8rR5FJqUXqf5xAHRkUJwkqaUvBgGz8myoCdjnxnwyxY0uWjbq4L7OzvDCLc9sFP4oI3LCW3eO7XtLew7IfbbFiYXmV397SVRX4nFgtwPvzKG4i4iQuKbyae2P17362BnDr/rnYGauZMmJ1wrngzLmRYgPmJHWYC3JicTcIcIrJJyJALWurg87nZ5bdED55/Qu8ucjU7teqTJqfS52ym76fwAW/6ODaa+WNY5w6NyTsFd8RVdYQJ51QaoivRwd/rHusjviaclcb8vLe0JYM3dt21flYbgke4fA0rV5rVqoAfYr/GSbNUuQ6g84/qGk62z05KU6CBjdre0nnwGk+sfykZV+Q==;TU8x7SRyOnxR3bjbua7r1Q=="
 ---
 

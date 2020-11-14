@@ -75,6 +75,17 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Velodyne Aims to Price New Self-Driving Car Sensor Below $500"
+    excerpt: "Velodyne Lidar Inc said on Friday it would introduce a new lidar unit, a key sensor in self-driving cars, with a target price point of less than $500 and no moving parts. Velodyne became a public company in September and is one of several companies vying to supply automakers with lidar,"
+    publishedDateTime: 2020-11-14T15:33:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-11-13/velodyne-targets-sub-500-price-point-for-self-driving-car-sensor"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-11-13/velodyne-targets-sub-500-price-point-for-self-driving-car-sensor?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-11-13/velodyne-targets-sub-500-price-point-for-self-driving-car-sensor?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 69
   - title: "Weather-proof chip aims to take self-driving tech, wireless communications to next level"
     excerpt: "A new device can overcome challenges like bad weather to deliver more secure, reliable communications. This could aid military communications in challenging areas, improve the ability of self-driving cars to see the environment around them and speed up wireless data for potential 6G networks."
     publishedDateTime: 2020-11-13T09:42:00Z

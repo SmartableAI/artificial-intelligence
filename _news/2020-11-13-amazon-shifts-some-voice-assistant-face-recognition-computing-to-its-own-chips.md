@@ -1,28 +1,31 @@
 ---
 category: news
-title: "Amazon Shifts Some Voice Assistant, Face Recognition Computing to Its Own Chips"
-excerpt: "Amazon.com Inc on Thursday said it shifted part of the computing for its Alexa voice assistant to its own custom-designed chips, aiming to make the work faster and cheaper while moving it away from chips supplied by Nvidia Corp."
-publishedDateTime: 2020-11-12T17:50:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2020-11-12/amazon-shifts-some-voice-assistant-face-recognition-computing-to-its-own-chips"
-webUrl: "https://www.usnews.com/news/technology/articles/2020-11-12/amazon-shifts-some-voice-assistant-face-recognition-computing-to-its-own-chips"
-ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-11-12/amazon-shifts-some-voice-assistant-face-recognition-computing-to-its-own-chips?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-11-12/amazon-shifts-some-voice-assistant-face-recognition-computing-to-its-own-chips?context=amp"
+title: "Amazon shifts some voice assistant, face recognition computing to its own chips"
+excerpt: "First announced in 2018, the Amazon chip is custom-designed to speed up large volumes of machine learning tasks such as translating text to speech or recognising images"
+publishedDateTime: 2020-11-13T06:31:00Z
+originalUrl: "https://www.thehindu.com/sci-tech/technology/gadgets/amazon-shifts-some-voice-assistant-face-recognition-computing-to-its-own-chips/article33090976.ece"
+webUrl: "https://www.thehindu.com/sci-tech/technology/gadgets/amazon-shifts-some-voice-assistant-face-recognition-computing-to-its-own-chips/article33090976.ece"
+ampWebUrl: "https://www.thehindu.com/sci-tech/technology/gadgets/amazon-shifts-some-voice-assistant-face-recognition-computing-to-its-own-chips/article33090976.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/gadgets/amazon-shifts-some-voice-assistant-face-recognition-computing-to-its-own-chips/article33090976.ece/amp/"
 type: article
-quality: 65
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Hindu
+  domain: thehindu.com
 
 topics:
-  - Computer Vision
+  - AWS AI
   - AI
+  - Computer Vision
+
+images:
+  - url: "https://www.thehindu.com/sci-tech/technology/gadgets/6vuw5e/article33090975.ece/ALTERNATES/LANDSCAPE_615/13NETAMAZON"
+    width: 615
+    height: 384
+    isCached: true
 
 related:
   - title: "Amazon shifts some Alexa and Rekognition computing to its own Inferentia chip"
@@ -125,6 +128,6 @@ related:
       domain: seekingalpha.com
     quality: 20
 
-secured: "luHs9VbJb2euyvtFsuC7JaLWED9LgH0/42WevGh5yVpV3c78DuSF/5hKTnBJ2OviwdDf1L3Zo6qjdBPC351y5nyBQ3PSO9TpETW/v3rgYONXVQLuItY3EccxVCA4eleePeqX6meVCnZ6MtYKvtbvhpkyX4fBSgsG8OjTQyJiNj560LEF/JcG/xTK55nzrQrtCFF+WmnvdB2DvCbxqKzqcjGfX6y6mMwSZkT5g5lco03VlYTBWRRq6/D0WSKPFMxjFh3LJRSxizNbhz2+MmT/xpvzMFWPt/sRAQGMJvQYvAeHIQnXA9R1Nmn0H+3KdaTJ5q1Stcz63lRIHSe6xKXZwydkKNi5cITqNP257509LEOn5AsoWOunIDqhpw1JzYnwKJxeMryQ3vydRxkTZ5469XeuS059pZC9AsqhHYb3cWOEGqkl+r1aAIvIA78efGtHcvht1uyHz1fPRZFXusATo40wzufVcpvzIUl1JCE/xj7QOIjoERErt5+DInKWQwZy359Yf4uoFrj47jpQ8oXdpw==;CUuL5c17PfFdux7HlM24ug=="
+secured: "KtHlndJN04041tvSdrUalv49nN01wqVNOlbMYdbV1/F3sxlDw0Lu5RHRYJgagEwd4+OKlRttMOSDwC9URtlB+4D5BZFpnXAEgE7E2SYCcYDBzl+IRMiyUXLRb10BlKSreXAYMG+9fUKVBKb+HSA+Z7WnTBTQUxPqP6agPf/7OJTQYHm5frZsy385sy0s09bNiWM4HG9OdTLZTbJzURx02m+oEijaaZx7RKtPDOFijlacs/h2PWTT84NbbGwrB2iWoS7QTWpdVJdcmug66gtQiQVdCIqEPrVvXHSzQkJ5uNqiAPtxmCh/vSk4KuimjIKgqPdHAHHrgS36iyYzlO8tLs4t+GzsPqKHo33QwmNqVww=;3jcTr6ALeoY5uVuEQ4erPg=="
 ---
 

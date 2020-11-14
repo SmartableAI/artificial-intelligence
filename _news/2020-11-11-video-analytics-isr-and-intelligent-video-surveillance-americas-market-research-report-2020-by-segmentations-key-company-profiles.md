@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Mobile AI Market Forecast with Competitive Landscape Analysis and Key Companies Profile"
-    excerpt: "The mobile artificial intelligence market size is anticipated to touch USD 10.28 billion at a whopping 29.52% CAGR between 2018- 2023, as per the current Market Research Future (MRFR) analysis. Mobile artificial intelligence or mobile AI makes a smart device cleverer by offering advanced software and hardware for the efficient operation of the device and better decision making."
-    publishedDateTime: 2020-11-10T00:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-ai-market-forecast-with-competitive-landscape-analysis-and-key-companies-profile-2020-11-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in Fintech Market 2020 Key Players Update, Regional Economy, Development Plans and Forecast to 2026"
     excerpt: "Comserve Inc. / -- Global Artificial Intelligence (AI) in Fintech Market is valued approximately USD 2.6 billion"
     publishedDateTime: 2020-11-13T13:53:00Z
@@ -152,6 +138,20 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Global Artificial Intelligence in Automotive Market Status, Prospect, and Forecast 2020 to 2026 – MarketDesk"
+    excerpt: "MarketDesk : Artificial Intelligence in Automotive Market Report brings a systematic perspective of the market execution worldwide and additionally the regional situation. In a detailed section shrewd arrangement,"
+    publishedDateTime: 2020-11-13T05:43:00Z
+    webUrl: "https://apnews.com/press-release/wired-release/technology-business-corporate-news-products-and-services-automobile-manufacturing-e8baf7444f1f6adb69aae50f1730547a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 18
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

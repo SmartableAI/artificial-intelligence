@@ -58,20 +58,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Mobile AI Market Forecast with Competitive Landscape Analysis and Key Companies Profile"
-    excerpt: "The mobile artificial intelligence market size is anticipated to touch USD 10.28 billion at a whopping 29.52% CAGR between 2018- 2023, as per the current Market Research Future (MRFR) analysis. Mobile artificial intelligence or mobile AI makes a smart device cleverer by offering advanced software and hardware for the efficient operation of the device and better decision making."
-    publishedDateTime: 2020-11-10T00:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-ai-market-forecast-with-competitive-landscape-analysis-and-key-companies-profile-2020-11-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Operational Intelligence (OI) Market 2020-2025: Size, Share, Trends and Research Report"
     excerpt: "According to the latest report by IMARC Group, titled \"Operational Intelligence (OI) Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025\", the global operational intelligence (OI) market grew at a CAGR of around 13% during 2014-2019."
     publishedDateTime: 2020-11-11T12:05:00Z
@@ -157,6 +143,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence in Automotive Market Status, Prospect, and Forecast 2020 to 2026 – MarketDesk"
+    excerpt: "MarketDesk : Artificial Intelligence in Automotive Market Report brings a systematic perspective of the market execution worldwide and additionally the regional situation. In a detailed section shrewd arrangement,"
+    publishedDateTime: 2020-11-13T05:43:00Z
+    webUrl: "https://apnews.com/press-release/wired-release/technology-business-corporate-news-products-and-services-automobile-manufacturing-e8baf7444f1f6adb69aae50f1730547a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 18
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "WtfkrX1g8tD9hLeuMD0kIfZW86qKAXbYk2A3DXDuZiEB9CzAE4GhG6tpjYTLCRDRxAudiY6Z44MO2Q3qSp+GRImAlZPjQDcfYmOED7M7kcYxUnCsuFoFHi2R35I7cG+wHLgSnAgLpjOlhF4sYVnhm0rv67dJoHOknY8qkshNq88clLTIOjAwi4aJDOY/FiYFgvV5LxcJhmFDi09rtoGPLqw2wzJxod6ICrI/eEcfMeYaWRuHSXKZZNuKDfdQh/eoCziIW04MQcyReXRxo1jXzLpMbryGHZ1vCga7jUzXxCHIQHKOlAsVnp+rLHSKcCCR1LqnW5Z4wF77Wk3SMsgdULj59gzCtmoyXE8w2DxvPmE=;BDIgpOWuiHC78ARGFwT0Hg=="

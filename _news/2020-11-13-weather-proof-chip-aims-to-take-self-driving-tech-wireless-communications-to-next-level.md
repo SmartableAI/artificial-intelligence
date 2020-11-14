@@ -72,6 +72,17 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Velodyne Aims to Price New Self-Driving Car Sensor Below $500"
+    excerpt: "Velodyne Lidar Inc said on Friday it would introduce a new lidar unit, a key sensor in self-driving cars, with a target price point of less than $500 and no moving parts. Velodyne became a public company in September and is one of several companies vying to supply automakers with lidar,"
+    publishedDateTime: 2020-11-14T15:33:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-11-13/velodyne-targets-sub-500-price-point-for-self-driving-car-sensor"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-11-13/velodyne-targets-sub-500-price-point-for-self-driving-car-sensor?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-11-13/velodyne-targets-sub-500-price-point-for-self-driving-car-sensor?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 69
   - title: "Honda, First To Mass Produce Level 3 Self-Driving Cars: Reuters"
     excerpt: "The Japanese government awarded Honda Motor Co Ltd (NYSE: HMC) a safety certification to the automaker’s “Traffic Jam Pilot” self-driving technology, Reuters reports. What Happened: Honda plans to launch its luxury sedan (Honda Legend) sales with the ..."
     publishedDateTime: 2020-11-11T12:51:00Z
