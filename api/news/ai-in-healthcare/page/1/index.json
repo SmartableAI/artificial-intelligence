@@ -89,59 +89,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-12-whats-next-for-ai-gary-marcus-talks-about-the-journey-toward-robust-artificial-intelligence.md",
-      "title": "What's next for AI: Gary Marcus talks about the journey toward robust artificial intelligence",
-      "excerpt": "Gary Marcus is one of the more prominent, and controversial, figures in AI. Going beyond his critique on Deep Learning, which is what many people know him for, Marcus puts forward a well-rounded propo",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/11/12/931ab7f6-3ca4-4467-82c1-c76b3311cbcb/gary-marcus.jpg",
-          "width": 392,
-          "height": 392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
-      "publishedDateTime": "2020-11-12T07:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2020-11-12-how-an-ai-app-navigates-narrow-networks-cuts-healthcare-spending.md",
       "title": "How an AI App Navigates Narrow Networks, Cuts Healthcare Spending",
       "excerpt": "Payers can reduce healthcare spending for self-funded employers by employing artificial intelligence, centering primary care services, and employing value-based contracts.",
@@ -1414,6 +1361,51 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-artificial-intelligence-market-worth-19061-billion-by-2025-with-a-growing-cagr-of-366.md",
+      "title": "Artificial Intelligence Market worth $190.61 billion by 2025 with a Growing CAGR of 36.6%",
+      "excerpt": "Artificial Intelligence Market” [222 Pages] Artificial Intelligence Market report categorizes the Global market by Offering (Hardware, Software), Technology",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/10/ab18064657/artificial-intelligence-market-worth-190-61-billion-by-2025-with-a-growing-cagr-of-36-6",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/ab18064657/artificial-intelligence-market-worth-190-61-billion-by-2025-with-a-growing-cagr-of-36-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketsandmarkets.com/Images/artificial-intelligence-market6.jpg",
+          "width": 650,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18064657",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18064657",
+      "publishedDateTime": "2020-10-26T14:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AWS AI",
+        "AI in Healthcare"
       ]
     }
   ],

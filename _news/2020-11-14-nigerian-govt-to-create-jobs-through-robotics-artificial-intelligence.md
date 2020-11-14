@@ -9,7 +9,7 @@ ampWebUrl: "https://www.withinnigeria.com/2020/11/14/nigerian-govt-to-create-job
 cdnAmpWebUrl: "https://www-withinnigeria-com.cdn.ampproject.org/c/s/www.withinnigeria.com/2020/11/14/nigerian-govt-to-create-jobs-through-robotics-artificial-intelligence/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 91
 published: true
 
 provider:

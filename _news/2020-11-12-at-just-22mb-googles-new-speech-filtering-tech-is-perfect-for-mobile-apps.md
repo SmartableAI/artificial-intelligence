@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/11/12/at-just-2-2mb-googles-new-s
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/12/at-just-2-2mb-googles-new-speech-filtering-tech-is-perfect-for-mobile-apps/amp/"
 type: article
 quality: 71
-heat: 72
+heat: 71
 published: true
 
 provider:

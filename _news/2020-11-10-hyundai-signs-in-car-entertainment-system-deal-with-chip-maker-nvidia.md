@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hyundai taps Nvidia for future fleet AI, infotainment services"
-    excerpt: "Hyundai has announced that all future Hyundai, Kia, and Genesis vehicles will utilize Nvidia's in-vehicle artificial intelligence (AI) and infotainment platform.  The South Korean automaker said on Monday that the firm's \"entire fleet\" will eventually feature Nvidia's technology."
-    publishedDateTime: 2020-11-10T02:49:00Z
-    webUrl: "https://www.zdnet.com/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/02/06/f45dbca6-1fe8-44d1-a0c3-9b9c773cdf84/thumbnail/1200x675/1714b4bf785f425773f040d17a6f803a/nvidia-geforce-now-cloud-gaming-service-5e3b63136b967a00010397a5-1-feb-06-2020-5-48-00-poster.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Chip maker NVIDIA signs deal with Hyundai Motor"
     excerpt: "Chip maker NVIDIA Corp on Monday announced that Hyundai Motor Group will use the NVIDIA DRIVE in-vehicle information and entertainment system for all its Hyundai, Kia, and Genesis models from 2022"
     publishedDateTime: 2020-11-10T07:35:00Z
@@ -72,20 +56,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/6898x3880+560+845/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2020/11/10083826/Large-1869-GenesisGV801.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "AI Robot Can Flatten Concrete Floors, Hyundai Engineering Seeks Patent"
-    excerpt: "Hyundai Engineering is seeking a patent for an AI robot that can flatten concrete floors. Korean business media outlets are reporting that Hyundai Engineering is seeking a patent for an artificial intelligence (AI) robot that can flatten concrete floors."
-    publishedDateTime: 2020-11-13T16:38:00Z
-    webUrl: "https://www.forconstructionpros.com/concrete/news/21202931/hyundai-engineering-ai-robot-can-flatten-concrete-floors-hyundai-engineering-seeks-patent"
-    type: article
-    provider:
-      name: For Construction Pros
-      domain: forconstructionpros.com
-    quality: 54
-    images:
-      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2020/11/16x9/hyundai_AI_roof.5faeb4b2c61e0.5faeb510bda68.png?auto=format&fit=max&w=1200"
-        width: 700
-        height: 393
         isCached: true
 
 secured: "Xr7gduyqqQJXwTHumc0cDEOAlBwb6mGokPwsnKyY8/WckOmXvz/zHLJZEJGMYev6b0czrivHofr/jERantlbCdm5D6JbL8HhNZm6jbHYvxt70aIT6w107crx07fQXM1msaR4vKXU3+KmpqcheP/GZJdiAp7wuv69nnv8wAHVuOJFNvMUlD1VRD/RAv4X5ODiVYg4v/U0CD6ubNn4VJ3EyG69LmuFPzjb2Kk7dfLqV451jhSS6LY5Kw8sFyaRwPCL3zeSeiMCRJ7SbaatAGd2RwiKoF5XlBdugYM8pVr3gHDvQJSYguKye8l9dA/rK+OqD4duchjOOJ80G7nwKObaeVs9S8ses7q6ZWxdOh+SC80ONTh2FP+Aaf4VjZ7PgAqGnJVTQeFrL+l6KCbl1DN3nKrf5UnwvKQY46C+HJ3KV42iEqlBAl+mY+2VVV2ANDJVQ8+1TMzsyzUcj0TCvWdR6niSklaSzolpeTsllOnkMV8Bft/Vql131ifsHVQCt5cnUzuFnqGB/zPA15a+sg78nA==;uE4yooe+qnO1j10yTzgfnA=="

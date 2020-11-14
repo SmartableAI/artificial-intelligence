@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-13-passport-360-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Passport 360 Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "JOHANNEBSURG Gauteng South Africa November 13 2020 Passport 360 today announced the availability of its product of the same name in the Microsoft Azure Marketplace an online store providing applications and services for use on Microsoft Azure Passport 360 customers",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace",
+      "originalUrl": "https://www.openpr.com/news/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/b/Tb13885641_g.jpg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace",
+      "publishedDateTime": "2020-11-13T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-global-computer-vision-in-the-healthcare-market-report.md",
       "title": "Global Computer Vision In The Healthcare Market Report",
       "excerpt": "As per GME studies on Global Computer Vision In Healthcare Market is estimated to show a sharp peak during the timeframe of 2020 2026 at a CAGR of 22 5 Government initiative towards the adoption of AI based technologies rising",
@@ -247,7 +290,7 @@
       "originalUrl": "https://news.mit.edu/2020/iot-deep-learning-1113",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1176,57 +1219,6 @@
         "Machine Learning",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-ultimate-python-and-ai-certification-bundle-discounted-97.md",
-      "title": "Ultimate Python and AI certification bundle discounted 97%",
-      "excerpt": "This bundle includes courses on AI in Python, data wrangling and visualization, a Keras boot camp, an introduction to Python, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ultimate-python-and-ai-certification-bundle-discounted-97/",
-      "originalUrl": "https://www.techrepublic.com/article/ultimate-python-and-ai-certification-bundle-discounted-97/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/10/27/e9daa63b-a3ce-43fb-b035-5f07df27d40a/resize/1200x/38106f4b0c3857ab2f1a06bbdd779cad/sarinyapinngam.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ultimate-python-and-ai-certification-bundle-discounted-97/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ultimate-python-and-ai-certification-bundle-discounted-97/",
-      "publishedDateTime": "2020-11-12T08:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

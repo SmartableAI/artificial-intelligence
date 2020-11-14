@@ -75,6 +75,22 @@ related:
         width: 816
         height: 545
         isCached: true
+  - title: "Uber's Self-Driving Unit Is For Sale: TechCrunch"
+    excerpt: "Uber Technologies Inc (NYSE: UBER) is looking to sell its self-driving unit, TechCrunch has reported. What Happened: Uber’s Advanced Technologies Group"
+    publishedDateTime: 2020-11-14T16:56:00Z
+    webUrl: "https://www.benzinga.com/m-a/20/11/18372609/ubers-self-driving-unit-is-for-sale-techcrunch"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18372609"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18372609"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/uber_autonomous_vehicle_prototype_testing_in_san_francisco_1.jpg"
+        width: 7366
+        height: 4920
+        isCached: true
   - title: "Uber in talks to sell multibillion-dollar self-driving group - report"
     excerpt: "Uber (NYSE:UBER) is in talks to sell its self-driving Autonomous Group to a competing start-up, TechCrunch reports."
     publishedDateTime: 2020-11-13T22:25:00Z

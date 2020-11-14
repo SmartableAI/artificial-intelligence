@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2020-11-survey-artificial-intelligenc
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-survey-artificial-intelligence-chest-imaging.amp"
 type: article
 quality: 57
-heat: 118
+heat: 117
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2020/11/from-the-data-and-ai-expe
 webUrl: "https://www.ibm.com/blogs/watson/2020/11/from-the-data-and-ai-expert-labs-2/"
 type: article
 quality: 119
-heat: 119
+heat: 121
 published: true
 
 provider:

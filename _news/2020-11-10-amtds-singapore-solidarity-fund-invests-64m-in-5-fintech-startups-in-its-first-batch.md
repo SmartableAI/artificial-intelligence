@@ -23,15 +23,20 @@ topics:
   - AI
 
 related:
-  - title: "Property startup 99 Group acquires Singapore Real Estate Exchange"
-    excerpt: "Southeast Asian property startup 99 Group announced that it has acquired Singapore Real Estate Exchange (SRX), a property platform and real estate data provider in Singapore. With the agreement finalized on November 7,"
-    publishedDateTime: 2020-11-10T01:34:00Z
-    webUrl: "https://www.techinasia.com/property-platform-99-group-acquires-singapore-real-estate-exchange#!"
+  - title: "SA AI-based fintech startup FinChatBot raises $1.6m to expand into Europe, West Africa"
+    excerpt: "South African startup FinChatBot, a creator of conversational artificial intelligence (AI) solutions for the financial services industry, has raised a US$1.6 million funding round to help it expand into Europe and West Africa."
+    publishedDateTime: 2020-11-12T14:27:00Z
+    webUrl: "https://disrupt-africa.com/2020/11/sa-ai-based-fintech-startup-finchatbot-raises-1-6m-to-expand-into-europe-west-africa/"
     type: article
     provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 32
+      name: disrupt-africa.com
+      domain: disrupt-africa.com
+    quality: 31
+    images:
+      - url: "https://disrupt-africa.com/wp-content/uploads/2020/11/Members-of-team-FinChatBot-scaled.jpg"
+        width: 2560
+        height: 1673
+        isCached: true
 
 secured: "8FembDj4Wh2gmlzFgrVYlO0ee7gP71lQ6MvsuruM7FIha+eyJ32Co0uCODNcGaflkuQhjPOtLRdnoek3tvP/KoR8D7JVkdQyXRFFE0M8Fy4Mw1eZCGjykhBTjClQnHZJx9EN6md3YoEgDXotaSS6PDz3xsEDZOINR2xlvlJCh/dLVYg4hap/REnAoVNuMBP2XlZ8U4KtsokEwEnROFeuFy5PCXhqRgHUcNnS6ofom2K6X+3Te2F7iH43MSzw3Ov5u+90W03ySUX1c/61QdVbRdCkH91nVq9TPaeQecRmAGJXB3bxSSk93N9dMvdiLuwwS4gixf29c7/3SWzvhE5cjvag/uZ5FM1p1+RukCgZsJ68zq/fn3QmcZSniR6jgTqpyHZ8/KIQV7Q8RVYKPE6naaR2KcG5LejMgPq2asHlHddHD50AbvSlVeGD/OTZkbYkJEAHJ2eyUzsC83blbTDYz08CF0r0qVfEn0qS+cfMOX5zZo32PiCp7+vuzQ9X82lI0Sn+N8dQleaN/0a57Q69vw==;FxAEKRsbuLzayCVFrJ302Q=="
 ---

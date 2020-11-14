@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Computer vision app allows easier monitoring of diabetes"
-excerpt: "A computer vision technology developed by engineers has now been developed into a free mobile phone app for regular monitoring of glucose levels in people with diabetes."
-publishedDateTime: 2020-11-13T18:20:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2020/11/201113124045.htm"
-webUrl: "https://www.sciencedaily.com/releases/2020/11/201113124045.htm"
+excerpt: "A computer vision technology developed by University of Cambridge engineers has now been developed into a free mobile phone app for regular monitoring of glucose levels in people with diabetes."
+publishedDateTime: 2020-11-13T16:49:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-11/uoc-cva111320.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-11/uoc-cva111320.php"
 type: article
-quality: 49
-heat: 49
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Computer Vision
   - AI
 
-secured: "7WrgFQv4CoaUOte5apDzYDQEr8tdnuHRLkjo79BvQrSTf2Ccm1ZCsgXFrnjxfry9hieuTgAY9aOcE1JV/XCqDC3yCE7SG6/1UqYYGpeg9Lzx/ImpupbOTFAtsRHV782WpPgYw5YH7Na9yZHKaZqaZGKokUk7bTBp4saSgq34YwZqwW3271X3JD/udMtYMdhsp5j7Qy3gdaUiZk7qZvGB8ouozAdvUgC15icTr/ytIxlcqikxbIoQ0jw2vJxaiiovyXEYFFB14oZGL7cxzJNjQcUGhJZ/rO+xrUBefg5qbgf4uO+BUZ6Pil6tj0F74z+2wkHIYAStAmIZ5zF7h+5UsvKgJt0yONlxkrMUsBjzsH4=;4uLOm/cxLn8kzMbVBDbY7w=="
+images:
+  - url: "https://www.eurekalert.org/multimedia/pub/web/248789_web.jpg"
+    width: 1440
+    height: 960
+    isCached: true
+
+secured: "9UQMg/I7z/qlKS38WGmhBXgvndgGobxUn/cmId1gqcO5EL8QF4pG4IodNXS1swj7lIfMzZ4Hd/BWVkMvPe9/9F31gulZHEFFYdPRsDbu9BSG9Dr4aaM1WQkIRHsbogaThbZ67CDqkPXeqr5x1mO1otm3OdkEXROf/hf2Mhu2Uq6sSlhoQs5JqygmftQkB9cuCCmUZMgCKt5XXkNrjyalMq/fpV8hPhZtRlDqlt2cbUZYwzgn9AK1rVZjjg6FFd177Mp5s99WgVLdvmZ8Zx3OxdXe5aH9n+EQlPOSv2oz8ng8QPVtsrMeYdR1xAO5vfbXnsNdNgO6A9UgVINcj82J6Ny/Xaj+8TcZEG3zJ9hZBzs=;AdPJ/OlEeZXiAB2VBc+sTQ=="
 ---
 

@@ -343,6 +343,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-05-ai-chipsets-market-by-trends-key-players-driver-segmentation-forecast-to-2026.md",
+      "title": "AI Chipsets Market by Trends, Key Players, Driver, Segmentation, Forecast to 2026",
+      "excerpt": "Global Market Insights, Inc –:AI chipsets market is poised for robust growth on the | eTurboNews | Trends | Travel News Online |",
+      "sourceUrl": null,
+      "webUrl": "https://www.eturbonews.com/1427091/ai-chipsets-market-by-trends-key-players-driver-segmentation-forecast-to-2026/",
+      "originalUrl": "https://www.eturbonews.com/1427091/ai-chipsets-market-by-trends-key-players-driver-segmentation-forecast-to-2026/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eturbonews.com/wp-content/uploads/2020/10/eturbonewstravelnewslogo.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-04T22:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eTurboNews",
+        "domain": "eturbonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-splice-machine-announces-livewire-the-operational-ai-platform-designed-for-industrial-use-cases.md",
       "title": "Splice Machine Announces Livewire, the Operational AI Platform Designed for Industrial Use Cases",
       "excerpt": "PRNewswire/ -- Splice Machine, the only scale-out SQL database with built-in machine learning, today announced Livewire, its new open source Operational AI platform for industrial IoT use cases. Livewire is the first combined data and AI platform designed to alert plant operators of likely outages or performance degradation soon enough for them to take remedial action to avoid outages and improve performance.",
@@ -1054,6 +1097,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-27-eagle-genomics-closes-9m-funding-round.md",
+      "title": "Eagle Genomics Closes $9M Funding Round",
+      "excerpt": "The platform harnesses the latest graph technology, and Microsoft’s advanced machine learning and cognitive services. Eagle Genomics became Microsoft Genomics’ first microbiome partner in 2018.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finsmes.com/2020/10/eagle-genomics-closes-9m-funding-round.html",
+      "originalUrl": "https://www.finsmes.com/2020/10/eagle-genomics-closes-9m-funding-round.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finsmes.com/wp-content/uploads/2020/10/eagle-genomics.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-27T09:12:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "finsmes.com",
+        "domain": "finsmes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-deci-raises-91-million-to-autonomously-optimize-ai-algorithms.md",
       "title": "Deci raises $9.1 million to autonomously optimize AI algorithms",
       "excerpt": "which redesigns AI algorithms to run more efficiently on off-the-shelf processors by leveraging the chips’ available memory. Yet another rival, DarwinAI, uses what it calls generative synthesis ...",
@@ -1339,102 +1425,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-developers-can-tap-into-deep-learning-with-the-open-source-beta-of-the-microsoft-cognitive-toolkit.md",
-      "title": "Developers can tap into deep learning with the open-source beta of the Microsoft Cognitive Toolkit",
-      "excerpt": "Developers and researchers can start using the power of deep learning with the updated beta release of the open-source Microsoft Cognitive Toolkit. The toolkit, previously known as CNTK ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/developers-can-tap-deep-learning-open-source-beta-microsoft-cognitive-toolkit/",
-      "originalUrl": "https://sdtimes.com/ai/developers-can-tap-deep-learning-open-source-beta-microsoft-cognitive-toolkit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2016/10/1025.sdt-microsoft.jpeg",
-          "width": 490,
-          "height": 327,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-24T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-microsoft-showcases-sustainable-digital-transformation-solutions-at-wetex-2017.md",
-      "title": "Microsoft Showcases Sustainable Digital Transformation Solutions at WETEX 2017",
-      "excerpt": "Built on the Azure cloud with the latest technologies, such as artificial intelligence (AI), immersive human-machine interaction, cognitive services and bot frameworks, Microsoft marked its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/microsoft-showcases-sustainable-digital-transformation-solutions-dewa’s-strategic-partne",
-      "originalUrl": "https://www.albawaba.com/business/pr/microsoft-showcases-sustainable-digital-transformation-solutions-dewa’s-strategic-partne",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/im/IMG-20171023-WA0010.jpg?itok=2CtfW3w2",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/microsoft-showcases-sustainable-digital-transformation-solutions-dewa%E2%80%99s-strategic-partne",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/microsoft-showcases-sustainable-digital-transformation-solutions-dewa%E2%80%99s-strategic-partne",
-      "publishedDateTime": "2020-10-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

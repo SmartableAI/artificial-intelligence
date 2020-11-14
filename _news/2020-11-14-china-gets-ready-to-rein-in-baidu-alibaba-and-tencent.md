@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-al
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14?amp"
 type: article
 quality: 69
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,24 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "China Gets Ready to Rein in Baidu, Alibaba, and Tencent"
+    excerpt: "Newly drafted antitrust rules could make it tougher for the BAT triumvirate to continue expanding their ecosystems."
+    publishedDateTime: 2020-11-14T17:00:00Z
+    webUrl: "https://www.fool.com/investing/2020/11/14/china-gets-ready-rein-in-baidu-alibaba-tencent/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/11/14/china-gets-ready-rein-in-baidu-alibaba-tencent/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/14/china-gets-ready-rein-in-baidu-alibaba-tencent/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 89
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F600734%2Fgettyimages-956056544.jpg&w=1200&op=resize"
+        width: 1200
+        height: 825
+        isCached: true
 
 secured: "ys8LEWfdOOGtSF5vSdqZZXBc+OkGV1K+Xpt30qxwfHQpRCdRgiPQQ/Dx6sRKYw4ylWxI8zOx8uk3FErPYSYgbaDYcGG7MG/Z+RR7NpOQoFhUaSheaLuyiCb+KUDqL69jHZkuc/4bgHe7mA6qZXpE/y6xurXn/VUkVDRpQxqE4P4Oy3EYE5nl9Y4WutCfyuApamiYdamTbqqi/GUuyAumbnoP6Fm9H36ZsFpembrGb12r5R9mYTmQhF1QxskDWgMPyOD1YllwsrEFtVsJ4gpREeKv09SGkvukYSflRqBhhBR9VFAaVVDyJPuLlra5/J+yD+nL06Tzv6MsZumbJ2Kan1zFMMrxhfbIb72sZeU/T9k=;Aub8jq3rS/cwRahX7jKCTQ=="
 ---

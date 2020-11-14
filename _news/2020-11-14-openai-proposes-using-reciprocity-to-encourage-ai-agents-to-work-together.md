@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/13/openai-proposes-using-reciprocity
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/13/openai-proposes-using-reciprocity-to-encourage-ai-agents-to-work-together/amp/"
 type: article
 quality: 86
-heat: 87
+heat: 88
 published: true
 
 provider:

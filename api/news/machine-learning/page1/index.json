@@ -255,7 +255,7 @@
       "originalUrl": "https://news.mit.edu/2020/iot-deep-learning-1113",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -435,59 +435,6 @@
         "Machine Learning",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-whats-next-for-ai-gary-marcus-talks-about-the-journey-toward-robust-artificial-intelligence.md",
-      "title": "What's next for AI: Gary Marcus talks about the journey toward robust artificial intelligence",
-      "excerpt": "Gary Marcus is one of the more prominent, and controversial, figures in AI. Going beyond his critique on Deep Learning, which is what many people know him for, Marcus puts forward a well-rounded propo",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/11/12/931ab7f6-3ca4-4467-82c1-c76b3311cbcb/gary-marcus.jpg",
-          "width": 392,
-          "height": 392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
-      "publishedDateTime": "2020-11-12T07:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -980,49 +927,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-09-ellipsis-health-appoints-clinical-experts-and-deep-learning-leaders-to-serve-on-advisory-board-board-of-directors-and-as-a-strategic-investor.md",
-      "title": "Ellipsis Health Appoints Clinical Experts and Deep Learning Leaders to Serve on Advisory Board, Board of Directors and as a Strategic Investor",
-      "excerpt": "Ellipsis Health, pioneer of the first commercial-grade voice-based vital signs to quantify and manage depression and anxiety symptoms at scale, today announced that",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ellipsis-health-appoints-clinical-experts-and-deep-learning-leaders-to-serve-on-advisory-board-board/article_8ac10553-e55c-501e-b0b7-65f32db769f2.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ellipsis-health-appoints-clinical-experts-and-deep-learning-leaders-to-serve-on-advisory-board-board/article_8ac10553-e55c-501e-b0b7-65f32db769f2.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/74/27432ca6-ea85-585f-8a5a-5267d98520e0/5fa960941acf4.image.jpg?resize=400%2C327",
-          "width": 400,
-          "height": 327,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-09T07:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-09-machine-translation-market-to-cross-15-bn-us-dollar-by-2026.md",
       "title": "Machine Translation Market to cross 1.5 Bn US-dollar by 2026",
       "excerpt": "The machine translation market is likely to register lucrative growth over the coming years owing to increasing popularity of cloud-based applications. Cloud technologies have effectively enabled users to proficiently run machine translation solutions over the internet,",
@@ -1073,6 +977,58 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-ellipsis-health-appoints-clinical-experts-and-deep-learning-leaders-to-serve-on-advisory-board-board-of-directors-and-as-a-strategic-investor.md",
+      "title": "Ellipsis Health Appoints Clinical Experts and Deep Learning Leaders to Serve on Advisory Board, Board of Directors and as a Strategic Investor",
+      "excerpt": "In addition, Ellipsis Health has welcomed Tariq Shaukat, Group President, Bumble, to the Board of Directors, and Richard Socher, PhD, Chief Scientist, EVP at Salesforce, as a strategic investor for the company.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ellipsis-health-appoints-clinical-experts-and-deep-learning-leaders-to-serve-on-advisory-board-board-of-directors-and-as-a-strategic-investor-1029782051",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ellipsis-health-appoints-clinical-experts-and-deep-learning-leaders-to-serve-on-advisory-board-board-of-directors-and-as-a-strategic-investor-1029782051",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1246096/Ellipsis_Health_Logo.jpg",
+          "width": 400,
+          "height": 327,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-09T07:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1468,6 +1424,51 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-aws-launches-next-gen-gpu-instances-for-machine-learning.md",
+      "title": "AWS launches next-gen GPU instances for machine learning",
+      "excerpt": "AWS has launched its latest GPU-equipped instances aimed at machine learning and high-performance computing (HPC) workloads. Called P4d, the new instances come ten years the first set of GPU instances were launched.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/8820/aws-launches-next-gen-gpu-instances-for-machine-learning",
+      "originalUrl": "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/8820/aws-launches-next-gen-gpu-instances-for-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2020/06/awslogo.jpg",
+          "width": 3648,
+          "height": 2736,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-04T06:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cloud Pro",
+        "domain": "cloudpro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware",
+        "AWS AI"
       ]
     }
   ],

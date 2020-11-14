@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-10-28-bristol-myers-turns-to-machine-learning-startup-to-solve-als.md",
-      "title": "Bristol Myers Turns to Machine Learning Startup to Solve ALS",
-      "excerpt": "Bristol Myers Squibb Co. is teaming up with machine-learning startup Insitro in a novel $70 million deal to find new drugs for amyotrophic lateral sclerosis, the deadly illness also known as Lou Gehrig’s disease. The five-year deal, which includes a $50 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-28/bristol-myers-turns-to-machine-learning-startup-to-solve-als",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-28/bristol-myers-turns-to-machine-learning-startup-to-solve-als",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-28/bristol-myers-turns-to-machine-learning-startup-to-solve-als",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-28/bristol-myers-turns-to-machine-learning-startup-to-solve-als",
-      "publishedDateTime": "2020-10-28T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-28-machine-learning-helps-pinpoint-sources-of-the-most-common-cardiac-arrhythmia.md",
       "title": "Machine learning helps pinpoint sources of the most common cardiac arrhythmia",
       "excerpt": "Researchers from Skoltech and their US colleagues have designed a new machine learning-based approach for detecting atrial fibrillation drivers, small patches of the heart muscle that are",
@@ -1377,6 +1334,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-mit-seeks-to-resurrect-dead-languages-with-machine-learning.md",
+      "title": "MIT seeks to resurrect 'dead' languages with machine learning",
+      "excerpt": "By implementing a new translation system and a bit of detective work, researchers hope to give old indecipherable languages a new voice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/mit-seeks-to-resurrect-dead-languages-with-machine-learning/",
+      "originalUrl": "https://www.cnet.com/news/mit-seeks-to-resurrect-dead-languages-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/oIgSdZTaU-UxA48WUT70KtAh2ZM=/1200x630/2020/10/21/bbfec165-3dcb-4d55-b8aa-493c200f8cb2/gettyimages-1131558568.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/mit-seeks-to-resurrect-dead-languages-with-machine-learning/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/mit-seeks-to-resurrect-dead-languages-with-machine-learning/",
+      "publishedDateTime": "2020-10-21T15:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

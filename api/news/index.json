@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-15-china-gets-ready-to-rein-in-baidu-alibaba-and-tencent.md",
+      "title": "China Gets Ready to Rein in Baidu, Alibaba, and Tencent",
+      "excerpt": "Newly drafted antitrust rules could make it tougher for the BAT triumvirate to continue expanding their ecosystems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/11/14/china-gets-ready-rein-in-baidu-alibaba-tencent/",
+      "originalUrl": "https://www.fool.com/investing/2020/11/14/china-gets-ready-rein-in-baidu-alibaba-tencent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F600734%2Fgettyimages-956056544.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 825,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/11/14/china-gets-ready-rein-in-baidu-alibaba-tencent/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/14/china-gets-ready-rein-in-baidu-alibaba-tencent/",
+      "publishedDateTime": "2020-11-14T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-15-you-cant-eliminate-bias-from-machine-learning-but-you-can-pick-your-bias.md",
       "title": "You can’t eliminate bias from machine learning, but you can pick your bias",
       "excerpt": "But while an absence of bias makes sense on a human level, in the world of machine learning, it’s a bit different. In machine learning theory, if you can mathematically prove you don’t have ...",
@@ -207,7 +259,7 @@
       "originalUrl": "https://www.withinnigeria.com/2020/11/14/nigerian-govt-to-create-jobs-through-robotics-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -250,7 +302,7 @@
       "originalUrl": "https://www.ibm.com/blogs/watson/2020/11/from-the-data-and-ai-expert-labs-2/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -302,7 +354,7 @@
       "originalUrl": "https://techcrunch.com/2020/11/13/uber-in-talks-to-sell-atg-self-driving-unit-to-aurora/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -603,7 +655,7 @@
       "originalUrl": "https://www.techrepublic.com/article/this-company-is-allowing-the-ai-to-make-life-insurance-decisions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -707,7 +759,7 @@
       "originalUrl": "https://venturebeat.com/2020/11/13/openai-proposes-using-reciprocity-to-encourage-ai-agents-to-work-together/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1213,49 +1265,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-passport-360-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Passport 360 Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "JOHANNEBSURG Gauteng South Africa November 13 2020 Passport 360 today announced the availability of its product of the same name in the Microsoft Azure Marketplace an online store providing applications and services for use on Microsoft Azure Passport 360 customers",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace",
-      "originalUrl": "https://www.openpr.com/news/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/b/Tb13885641_g.jpg",
-          "width": 800,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace",
-      "publishedDateTime": "2020-11-13T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

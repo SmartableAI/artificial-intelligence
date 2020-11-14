@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2020/iot-deep-learning-1113"
 webUrl: "https://news.mit.edu/2020/iot-deep-learning-1113"
 type: article
 quality: 69
-heat: 80
+heat: 79
 published: true
 
 provider:
