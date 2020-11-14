@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "gnshealthcare"
   url: "https://twitter.com/gnshealthcare"
-  followers: 2620
+  followers: 2621
 
 size: 51-200 employees
 yearFounded: 2000
