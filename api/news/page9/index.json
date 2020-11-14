@@ -2,6 +2,101 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-11-06-grizzly-bear-facial-recognition-promises-to-revolutionize-wildlife-management.md",
+      "title": "Grizzly bear facial recognition promises to revolutionize wildlife management",
+      "excerpt": "A facial recognition system for grizzly bears could usher in a new wave of celebrity animals that scientists and the public could follow through their lifetimes. Biologists at the University of Victoria have teamed up with software experts to create an artificial intelligence (AI) that can recognize individual bears even though they don’t have much in the way of identifiable facial features.",
+      "sourceUrl": null,
+      "webUrl": "https://theprovince.com/news/local-news/grizzly-bear-facial-recognition-promises-to-revolutionize-wildlife-management",
+      "originalUrl": "https://theprovince.com/news/local-news/grizzly-bear-facial-recognition-promises-to-revolutionize-wildlife-management",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.prod.postmedia.digital/vancouversun/wp-content/uploads/2020/11/258343459-bear_face_detection_melanie_clapham_004-w.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theprovince.com/news/local-news/grizzly-bear-facial-recognition-promises-to-revolutionize-wildlife-management/wcm/ab9e2bac-513f-4335-a2c4-c99f7cd8fff5/amp/",
+      "cdnAmpWebUrl": "https://theprovince-com.cdn.ampproject.org/c/s/theprovince.com/news/local-news/grizzly-bear-facial-recognition-promises-to-revolutionize-wildlife-management/wcm/ab9e2bac-513f-4335-a2c4-c99f7cd8fff5/amp/",
+      "publishedDateTime": "2020-11-06T00:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Province",
+        "domain": "theprovince.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-06-chinese-driverless-car-firm-ponyai-valued-at-53-billion-after-new-cash-injection.md",
+      "title": "Chinese driverless car firm Pony.ai valued at $5.3 billion after new cash injection",
+      "excerpt": "A fund run by the Ontario Teachers' Pension Plan Board led the $267 million investment into Pony.ai which also included existing investors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/11/06/china-driverless-car-firm-ponyai-valued-at-5point3-billion-after-funding.html",
+      "originalUrl": "https://www.cnbc.com/2020/11/06/china-driverless-car-firm-ponyai-valued-at-5point3-billion-after-funding.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 228,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105676578-1547472843448gettyimages-913385804.jpg?v=1563504519",
+          "width": 1024,
+          "height": 694,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/11/06/china-driverless-car-firm-ponyai-valued-at-5point3-billion-after-funding.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/06/china-driverless-car-firm-ponyai-valued-at-5point3-billion-after-funding.html",
+      "publishedDateTime": "2020-11-05T23:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-11-06-prop-25-fails-california-voters-reject-initiative-to-replace-cash-bail-system.md",
       "title": "Prop 25 Fails: California Voters Reject Initiative To Replace Cash Bail System",
       "excerpt": "Proposition 25 would uphold a state law passed last year that ended pre-trial detention and cash bail for people accused of most misdemeanors. Those accused of the most violent and serious crimes would remain locked up.",
@@ -1131,101 +1226,6 @@
       "provider": {
         "name": "Design News",
         "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-breaking-down-global-barriers-to-access.md",
-      "title": "Breaking down global barriers to access",
-      "excerpt": "Were delighted to announce that we are expanding our programme to support scholars in many more countries currently underrepresented in AI,",
-      "sourceUrl": null,
-      "webUrl": "https://deepmind.com/blog/article/breaking-down-global-barriers-to-access",
-      "originalUrl": "https://deepmind.com/blog/article/breaking-down-global-barriers-to-access",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/ADneYf8LGmDTetYpE7YFQDptGEB3fFekeAME77R2ybUU-jft2PlgQsfJXn8hmThwTX6hU6ZdV5hpYeDAAkyMphyXvp_mP3HJqTFqqg",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-04T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-live-out-your-inner-animist-with-animatronic-cat-ears.md",
-      "title": "Live Out Your Inner Animist With Animatronic Cat Ears",
-      "excerpt": "While having a great white shark as your spirit animal may sound cool, we’ve found walking around in public wearing a gigantic set of mechanical jaws to be a bit of a hindrance. [abetusk] doesn ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2012/02/21/live-out-your-inner-animist-with-animatronic-cat-ears/",
-      "originalUrl": "https://hackaday.com/2012/02/21/live-out-your-inner-animist-with-animatronic-cat-ears/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://hackaday.com/wp-content/uploads/2012/02/cat-ears.jpg",
-          "width": 470,
-          "height": 230,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-04T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
         "images": null,
         "publishers": null,
         "authors": null

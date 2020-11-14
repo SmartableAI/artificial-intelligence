@@ -43,17 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Chip Maker NVIDIA Signs In-Car Entertainment System Deal With Hyundai Motor"
-    excerpt: "Chip maker NVIDIA Corp on Monday announced that Hyundai Motor Group will use the NVIDIA DRIVE in-vehicle information and entertainment system for all its Hyundai, Kia, and Genesis models from 2022. NVIDIA said the luxury vehicle division of Hyundai,"
-    publishedDateTime: 2020-11-09T22:16:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-11-09/chip-maker-nvidia-signs-in-car-entertainment-system-deal-with-hyundai-motor"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-11-09/chip-maker-nvidia-signs-in-car-entertainment-system-deal-with-hyundai-motor?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-11-09/chip-maker-nvidia-signs-in-car-entertainment-system-deal-with-hyundai-motor?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 82
   - title: "Hyundai, Kia, Genesis will get chip maker NVIDIA's infotainment in deal"
     excerpt: "NVIDIA said the luxury vehicle division of Hyundai, Genesis, already uses NVIDIA DRIVE for its GV80 and G80 models. NVIDIA declined to say how many vehicles NVIDIA DRIVE would be installed in, but said it is a large number and pointed to the fact that in 2019 Hyundai Motor Group shipped over 7 million vehicles."
     publishedDateTime: 2020-11-10T13:54:00Z
@@ -98,38 +87,6 @@ related:
         width: 700
         height: 393
         isCached: true
-  - title: "Hyundai Motor Group Selects NVIDIA DRIVE Infotainment and AI Platform for All Future Hyundai,"
-    excerpt: "NVIDIA and Hyundai Motor Group today announced that the automaker’s entire lineup of Hyundai, Kia and Genesis models will come standard with NVIDIA DRIVE ™ in-vehicle infotainment (IVI) systems starting in 2022."
-    publishedDateTime: 2020-11-09T22:02:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-driverless-cars-products-and-services-86d506bddfc8a68ecdfc648afdf1f10e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 28
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Hyundai Motor Group Selects NVIDIA DRIVE Infotainment and AI Platform for All Future Hyundai, Kia and Genesis Models"
-    excerpt: "For Hyundai Motor Group, standardizing on the high-performance, energy-efficient NVIDIA DRIVE platform for its future models allows for a seamless and continuously enhanced in-vehicle AI user experience."
-    publishedDateTime: 2020-11-09T22:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/hyundai-motor-group-selects-nvidia-drive-infotainment-and-ai-platform-for-all-future"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 26
-  - title: "Nvidia AI system to be offered as standard in all Hyundai models in 2022"
-    excerpt: "MarketWatch Nvidia AI system to be offered as standard in all Hyundai models in 2022 . Provided by Dow Jones. Nov 9, 2020 10:32 PM UTC"
-    publishedDateTime: 2020-11-09T22:32:00Z
-    webUrl: "https://www.morningstar.com/news/marketwatch/20201109751/nvidia-ai-system-to-be-offered-as-standard-in-all-hyundai-models-in-2022"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 18
 
 secured: "yKkNAC+sWXsInXmCtwF8PKNuOA0y8xYeclDEpaJ+XnSGBp1mqBCmnCmLmG0n8Lv51a2+jxZaF0o+hQtgJVmxipITnCsTKdjWCH1DjR+MNldWXo41l2SwjWaT9DbwN/KH9RdYgXnJqrmYwHGUqR+qx40iQZ3F8tFfiIOBMbOyhBFRSFIwmq4YapKIYYe/jNvgly+odvv+l6X8uQLVZqD5847jjojjjGhjngsj54EdHw3Z+ZGplWUZ69xrff2Y0kIuf9Pr5Cr4f+LGd3+2Rc2ecil7Qm7B4uTttLsf5RoKYShzlxB5YKPzV8JFOE8x6OVAVd8LdjPtufvaoZc5a/VRCsBiHatz85A1+pJX273oEwA=;1QgBnEDguyJ7HAfAYja3bw=="
 ---

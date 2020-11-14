@@ -41,6 +41,15 @@ related:
         width: 451
         height: 313
         isCached: true
+  - title: "Sorting out viruses with machine learning"
+    excerpt: "Researchers created a machine-learning system to identify single viral particles that cause respiratory diseases, including coronavirus, using silicon nanopores. The method does not require labels or reagents and may lead to much cheaper and rapid detection of viruses that cause infectious diseases such as COVID-19."
+    publishedDateTime: 2020-11-13T10:13:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/11/201111102641.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "spDlVOM1Tpw6TwQI8dQ6xZ+sVGt8mRcZqM1RF5R83rHtdApkyASdnMZM6b9NHzKKVt0YGiQguD2UnmLChx7Gh3fY1MKTPPAPzfJ+r4wu3y+de+jdG0km4V5XLsy074lzZyF32UiwRQPNt7ObrNjuOruYeTvWcuE80FbWhjBQF3vjYpRNoJsgQDa3SWJQLAd1Vx9zC+L18T95l9US9hhpfu3DJ24ZqYJc1aq5my/89Ao8GMHwjw/ll6kL5lw6z+P4f4JRrJmxzF4sU9+W7O+IsMYSgd5uc+QnLPj2VhhRMs8x2KsP/Ewk/cfzcek2Rh3QsvmiWEvCWlt1VTcuBUWhOlHFhOjqpnhwyMJ/bxZQoetnwTAX7oFvbQO2MbDJb0wabQ3KmryakznPfEEPv9F86VCaWaxJRrly3uzm6a83B6Bj5Aj8BtIpkzvfdbDX20aR45mvyjFSFEIoYhi0xKNJ8rWyk/JqXm2v3p2kjo8jFjnz/ihbABsd5nlDfPD2fAkVtba7bWdVOHe8YxZB7QvW3A==;YklGmpcou1z1EIhwahwZKg=="
 ---

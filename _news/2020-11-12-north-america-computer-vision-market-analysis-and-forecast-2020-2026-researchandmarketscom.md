@@ -125,6 +125,20 @@ related:
         width: 780
         height: 405
         isCached: true
+  - title: "Global Artificial Intelligence (AI) in Medical Market 2021: Outlook And Trends With Analysis Of Leading Players, 2030"
+    excerpt: "Market.Biz :COVID-19 Analysis: Turn massive Artificial Intelligence (AI) in Medical Market challenges into meaningful change. Its not post-pandemic, its intra-pandemic. Were still in it, and the implications for Artificial Intelligence (AI) in Medical Market are long-reaching."
+    publishedDateTime: 2020-11-12T10:43:00Z
+    webUrl: "https://apnews.com/press-release/wired-release/technology-business-science-corporate-news-diseases-and-conditions-b2f3e09e0e4ae0358279841fce9ae282"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 29
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Video Analytics, ISR And Intelligent Video Surveillance Americas Market Research Report 2020 By Segmentations, Key Company Profiles"
     excerpt: "According to HSRC's latest report, Video Analytics, ISR, Intelligent Video Surveillance & Object Recognition & Americas Market-2015-2020, the U.S. and the rest of American national markets are expected to exceed $36."
     publishedDateTime: 2020-11-11T12:25:00Z

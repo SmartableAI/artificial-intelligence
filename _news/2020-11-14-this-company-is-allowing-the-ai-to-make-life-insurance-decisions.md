@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/this-company-is-allo
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/this-company-is-allowing-the-ai-to-make-life-insurance-decisions/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

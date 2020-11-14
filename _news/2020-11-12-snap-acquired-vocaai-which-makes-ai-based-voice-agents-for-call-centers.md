@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2020/11/11/snap-acquired-voca-ai-which-make
 webUrl: "https://voca.ai/"
 type: article
 quality: 166
-heat: 216
+heat: 226
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/vocaai.jpeg"
         width: 768
         height: 511
+        isCached: true
+  - title: "Snap To Acquire Israeli Voice Assistant Startup Voca.ai For $70M"
+    excerpt: "US mobile messaging app Snap not made it clear what it intends to do with Israeli voice assistant startup Voca.ai."
+    publishedDateTime: 2020-11-14T13:10:00Z
+    webUrl: "https://nocamels.com/2020/11/snapchat-voca-ai-voice-assistant-acquired/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
+    images:
+      - url: "https://nocamels.com/wp-content/uploads/2020/11/snapchat.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Snap to buy Israeli startup Voca.ai for USD 70 mln - report"
     excerpt: "Snap has reportedly agreed to buy startup Voca.ai, an Israeli company specialised in making AI-based voice assistants for customer support services, for an estimated USD 70 million, Calcalistech. The publication said the company,"

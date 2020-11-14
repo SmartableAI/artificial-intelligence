@@ -76,6 +76,20 @@ related:
         width: 768
         height: 511
         isCached: true
+  - title: "Snap To Acquire Israeli Voice Assistant Startup Voca.ai For $70M"
+    excerpt: "US mobile messaging app Snap not made it clear what it intends to do with Israeli voice assistant startup Voca.ai."
+    publishedDateTime: 2020-11-14T13:10:00Z
+    webUrl: "https://nocamels.com/2020/11/snapchat-voca-ai-voice-assistant-acquired/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
+    images:
+      - url: "https://nocamels.com/wp-content/uploads/2020/11/snapchat.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Snapchat To Acquire Israeli Voice Assistant Startup Voca.ai For $70M"
     excerpt: "Us mobile messaging app Snapchat has not made it clear what it intends to do with Israeli voice assistant startup Voca.ai."
     publishedDateTime: 2020-11-12T15:35:00Z

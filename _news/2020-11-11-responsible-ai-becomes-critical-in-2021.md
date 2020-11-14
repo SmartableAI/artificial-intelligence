@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2020/11/11/responsible-ai-becomes-critical-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/11/responsible-ai-becomes-critical-in-2021/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: VentureBeat
@@ -31,35 +31,30 @@ images:
     isCached: true
 
 related:
-  - title: "Neural’s market outlook for artificial intelligence in 2021 and beyond"
-    excerpt: "The year is coming to a close and it’s safe to say Elon Musk’s prediction that his company would field one million “robotaxis” by the end of 2020 isn’t going to come true. In fact, so far, Tesla’s managed to produce exactly zero self-driving vehicles."
-    publishedDateTime: 2020-11-09T21:36:00Z
-    webUrl: "https://thenextweb.com/neural/2020/11/09/neurals-market-outlook-for-artificial-intelligence-in-2021-and-beyond/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/11/09/neurals-market-outlook-for-artificial-intelligence-in-2021-and-beyond/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/09/neurals-market-outlook-for-artificial-intelligence-in-2021-and-beyond/amp/"
+  - title: "3 Artificial Intelligence Stocks Ready to Soar in 2021"
+    excerpt: "Artificial intelligence (AI) is a future trend that is already being factored into current stock prices and should drive growth going forward. Here are three companies that have their finger on the pulse of this burgeoning industry: Facebook (FB),"
+    publishedDateTime: 2020-11-11T15:15:00Z
+    webUrl: "https://stocknews.com/news/fb-nvda-twlo-3-artificial-intelligence-stocks-ready-to-soar-in-2021/"
+    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
+    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 189
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/binarystock-796x520.jpg"
-        width: 796
-        height: 520
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) in Medical Market 2021: Outlook And Trends With Analysis Of Leading Players, 2030"
-    excerpt: "Market.Biz :COVID-19 Analysis: Turn massive Artificial Intelligence (AI) in Medical Market challenges into meaningful change. Its not post-pandemic, its intra-pandemic. Were still in it, and the implications for Artificial Intelligence (AI) in Medical Market are long-reaching."
-    publishedDateTime: 2020-11-12T10:43:00Z
-    webUrl: "https://apnews.com/press-release/wired-release/technology-business-science-corporate-news-diseases-and-conditions-b2f3e09e0e4ae0358279841fce9ae282"
+      name: Stock News
+      domain: stocknews.com
+    quality: 39
+  - title: "How Artificial Intelligence Becomes Racist"
+    excerpt: "The documentary Coded Bias reveals how prejudices are written into the algorithms that run our world."
+    publishedDateTime: 2020-11-12T18:25:00Z
+    webUrl: "https://hyperallergic.com/600984/coded-bias-tech-racism-documentary/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
+      name: Hyperallergic
+      domain: hyperallergic.com
+    quality: 37
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://i0.wp.com/hyperallergic.com/wp-content/uploads/2020/08/coded-bias.png?fit=1200%2C800&quality=100&ssl=1"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "Kv3/6D8tXq7vJZkmfQmlVlj+XTcZg4ugOfzu5JAeIRu+0FV21obVzltDC5DD3v0DiUTdpZblm5uxv7bdkIvp4qOH9P/f4B8qGSZ4eMCMDz/eQ5PinHlO++y5YWnZAV70MdrpDqXJmgaStLeqYZFAKGeE5k46j0H3hL+YyN+n/qlxKi/3oEDeQ9yq4o4Eerx6Jw/amQxyeEvUgUE540LXwXFsUzCN15ryijr6RsWKyATYEP8GqaP3EsZqGQNyWqDXO8p0Jx0Bix75bmIuXdglYBQY+54XFlBAM3YUAzinp+YsmH1LKNLfYsdmnRKyYOEdzSxdKOpYbsQ61T1QClfz2aid4qBQ/uZb/Ghb69UBlB45U64CESDuA91mcV8CnKUR2tMtXGlj2pKtcqQwI36qvCBoVGDNeCO1QLho5oh1qQsxljiTZtsFOt3oW0NTHB6l92t4H/m+gPMx+fUwHSqtLcUAaZz/z7XXzh7K1ppMAEm2CK6nRTrd4CUCo98toVNERbWK8GMWk1NrE6a+g3O1UQ==;q6spdMcYouNM8oNJ5IcCdg=="

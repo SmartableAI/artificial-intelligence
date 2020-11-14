@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Snapchat To Acquire Israeli Voice Assistant Startup Voca.ai For $70M"
-excerpt: "Us mobile messaging app Snapchat has not made it clear what it intends to do with Israeli voice assistant startup Voca.ai."
-publishedDateTime: 2020-11-12T15:35:00Z
+title: "Snap To Acquire Israeli Voice Assistant Startup Voca.ai For $70M"
+excerpt: "US mobile messaging app Snap not made it clear what it intends to do with Israeli voice assistant startup Voca.ai."
+publishedDateTime: 2020-11-14T13:10:00Z
 originalUrl: "https://nocamels.com/2020/11/snapchat-voca-ai-voice-assistant-acquired/"
 webUrl: "https://nocamels.com/2020/11/snapchat-voca-ai-voice-assistant-acquired/"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://nocamels.com/wp-content/uploads/2020/11/snapchat.jpg"
+    width: 1024
+    height: 683
+    isCached: true
 
 related:
   - title: "Snap acquired Voca.ai, which makes AI-based voice agents for call centers"
@@ -76,20 +82,6 @@ related:
         width: 768
         height: 511
         isCached: true
-  - title: "Snap To Acquire Israeli Voice Assistant Startup Voca.ai For $70M"
-    excerpt: "US mobile messaging app Snap not made it clear what it intends to do with Israeli voice assistant startup Voca.ai."
-    publishedDateTime: 2020-11-14T13:10:00Z
-    webUrl: "https://nocamels.com/2020/11/snapchat-voca-ai-voice-assistant-acquired/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 37
-    images:
-      - url: "https://nocamels.com/wp-content/uploads/2020/11/snapchat.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Snap to buy Israeli startup Voca.ai for USD 70 mln - report"
     excerpt: "Snap has reportedly agreed to buy startup Voca.ai, an Israeli company specialised in making AI-based voice assistants for customer support services, for an estimated USD 70 million, Calcalistech. The publication said the company,"
     publishedDateTime: 2020-11-12T08:56:00Z
@@ -99,7 +91,16 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
+  - title: "Snapchat To Acquire Israeli Voice Assistant Startup Voca.ai For $70M"
+    excerpt: "Us mobile messaging app Snapchat has not made it clear what it intends to do with Israeli voice assistant startup Voca.ai."
+    publishedDateTime: 2020-11-12T15:35:00Z
+    webUrl: "https://nocamels.com/2020/11/snapchat-voca-ai-voice-assistant-acquired/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 17
 
-secured: "cEE1hWAOZxmCliGwn0u0mfpqAA4R2c4jz12CjVpth+y1ORi9PMUIJVgqWTjpfQe9reFRXo1jo4YHoFjB2NexgXe2Aow3G+bkTLX4pkchIg1pGnOCdMCBCWPKoqIAwyywcIDI6DBUz0hs4+qdYhQRjXcodVTKsWjf/Tj3d/+U0IuUUAj/1cZJHKJpwfPiVjZoV666BoNZQRvuAyL2tWTBj4CSkWawprmB4LvTLugG54bjuLBE2ZgyDpdbcvZpbi3l1UXjuTxc9xwY/w5o0Qnsskk06P9BC2jDSQIOWFzroCmc+z7Z2ZB4nt36XbqyeAFBMIRftSnv4CgLHa0IfGYkNhycbH6oiZozPvHQiIV8yiA=;UM1uE4m2T/O+u9KczjGylg=="
+secured: "Rhp/GkewCjpci/kMo6m2GRiUVYzCPncyOY63obW3TxVsa/LPOzn9qDFq92X0jBsu2OpGcj1i8EK/Tp3VNM3IV0gN2d7+TW7rXpdaG/oTgt8hxR7Ssw3VBxQo3CM9pIQkkzc5TxBOSzMvE9+AcYKSTwX4OE7q056KunApTiTLfGaRSqNHXu7TR8ROJpmDkOPIR/GjPArUOlAdqmbinbnYfhzRZ7DnRdtPgphW1UxxPRs1FVhk6XIpSpZeTciduNoWOfeArq7U9DWFuYvfFuLF1GsUkCnJ19hEFOMPTZfpI7qkm7tL/PnnZ3Hjn4GxqsN485yHBa6W9SejijuZfUV13Ql13QN4HnMrwmBcpYHBaqM=;glCPLUdkhBOofppnTN7K+Q=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-14-office-of-the-director-of-national-intelligence-sponsors-sei-to-lead-national-ai-engineering-initiative.md",
+      "title": "Office of the Director of National Intelligence Sponsors SEI to Lead National AI Engineering Initiative",
+      "excerpt": "PRNewswire/ -- The Software Engineering Institute (SEI) at Carnegie Mellon University, with funding and guidance from the Office of the Director of",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/office-of-the-director-of-national-intelligence-sponsors-sei-to-lead-national-ai-engineering-initiative-301152258.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/office-of-the-director-of-national-intelligence-sponsors-sei-to-lead-national-ai-engineering-initiative-301152258.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/598993/Carnegie_Mellon_University_SEI_Logo.jpg?p=facebook",
+          "width": 2700,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-microsoft-wants-ai-to-be-more-helpful-for-people-who-are-blind-or-use-wheelchairs.md",
       "title": "Microsoft wants AI to be more helpful for people who are blind or use wheelchairs",
       "excerpt": "Transparency and Ethics (FATE) in AI group, said in the blog post. SEE: Natural language processing: A cheat sheet (TechRepublic) Topic areas range from personalized image recognition for blind or low-vision people to improved facial recognition for people ...",

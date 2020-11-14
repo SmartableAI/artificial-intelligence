@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2020-11-viruses-machine.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-11-viruses-machine.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Phys.org
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Sorting out viruses with machine learning"
+    excerpt: "Researchers created a machine-learning system to identify single viral particles that cause respiratory diseases, including coronavirus, using silicon nanopores. The method does not require labels or reagents and may lead to much cheaper and rapid detection of viruses that cause infectious diseases such as COVID-19."
+    publishedDateTime: 2020-11-13T10:13:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/11/201111102641.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Sorting out viruses with nanopores and machine learning"
     excerpt: "Researchers have developed a label-free method for identifying respiratory viruses based on changes in electrical current when they pass through silicon nanopores, which may lead to new rapid COVID-19 tests."
     publishedDateTime: 2020-11-11T08:24:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/hyundai-taps-nvidia-for-fut
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hyundai-taps-nvidia-for-future-fleet-ai-infotainment-services/"
 type: article
 quality: 87
-heat: 167
+heat: 127
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chip Maker NVIDIA Signs In-Car Entertainment System Deal With Hyundai Motor"
-    excerpt: "Chip maker NVIDIA Corp on Monday announced that Hyundai Motor Group will use the NVIDIA DRIVE in-vehicle information and entertainment system for all its Hyundai, Kia, and Genesis models from 2022. NVIDIA said the luxury vehicle division of Hyundai,"
-    publishedDateTime: 2020-11-09T22:16:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-11-09/chip-maker-nvidia-signs-in-car-entertainment-system-deal-with-hyundai-motor"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-11-09/chip-maker-nvidia-signs-in-car-entertainment-system-deal-with-hyundai-motor?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-11-09/chip-maker-nvidia-signs-in-car-entertainment-system-deal-with-hyundai-motor?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 82
   - title: "Chip maker NVIDIA signs deal with Hyundai Motor"
     excerpt: "Chip maker NVIDIA Corp on Monday announced that Hyundai Motor Group will use the NVIDIA DRIVE in-vehicle information and entertainment system for all its Hyundai, Kia, and Genesis models from 2022"
     publishedDateTime: 2020-11-10T07:35:00Z
@@ -101,38 +90,6 @@ related:
         width: 700
         height: 393
         isCached: true
-  - title: "Hyundai Motor Group Selects NVIDIA DRIVE Infotainment and AI Platform for All Future Hyundai,"
-    excerpt: "NVIDIA and Hyundai Motor Group today announced that the automaker’s entire lineup of Hyundai, Kia and Genesis models will come standard with NVIDIA DRIVE ™ in-vehicle infotainment (IVI) systems starting in 2022."
-    publishedDateTime: 2020-11-09T22:02:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-driverless-cars-products-and-services-86d506bddfc8a68ecdfc648afdf1f10e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 28
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Hyundai Motor Group Selects NVIDIA DRIVE Infotainment and AI Platform for All Future Hyundai, Kia and Genesis Models"
-    excerpt: "For Hyundai Motor Group, standardizing on the high-performance, energy-efficient NVIDIA DRIVE platform for its future models allows for a seamless and continuously enhanced in-vehicle AI user experience."
-    publishedDateTime: 2020-11-09T22:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/hyundai-motor-group-selects-nvidia-drive-infotainment-and-ai-platform-for-all-future"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 26
-  - title: "Nvidia AI system to be offered as standard in all Hyundai models in 2022"
-    excerpt: "MarketWatch Nvidia AI system to be offered as standard in all Hyundai models in 2022 . Provided by Dow Jones. Nov 9, 2020 10:32 PM UTC"
-    publishedDateTime: 2020-11-09T22:32:00Z
-    webUrl: "https://www.morningstar.com/news/marketwatch/20201109751/nvidia-ai-system-to-be-offered-as-standard-in-all-hyundai-models-in-2022"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 18
 
 secured: "z+JK482UcAePROtIq+vRkORAWwg/T08IPVJV61Jh+TQj3tWG2bzCKrCAHX2HT+Yb4Seg/wcAbnt818F93dKo5Mz3mKI/KZ+yHBejMWOAG92vRfruZc1tqL4FfEkZPNLRcYIVwyZsUe3Dbi+jSQjkbBm6tB2RGHzmBiMZdlMBJBaEepP/9T9EwZRcatKxSQNfffcuKtaJz7VP+RxNgov9cSgVYSVm21c3vtENt2F5U4ktX3RxCeUJHKPjtZB9eSLtBqVlq75BfqLHap5MBBNRppRBVzj0W2F9szoNLqX+z9ac4/LCF+q9fUOxXxyOu67uq+caH45D9f5gyF53fVZoSxtnuYo/k4dkuC6CE4+dwhjKB+Fd20Fh9XAIusOYCkh+xI+H8qKEHg4WVKFgFPhJK/Yi7210yY4xfOBWGZkg3oI1OTl/ZSf+xPFDNtNOIr7cAApQrV59Q9Wb+IROPuBw6GGYd2+aJeZetZdK/UFU+mRWvflW9FV+fvC2q+0czBZ6qn4HdpdV6Je/0lhdQIrsGQ==;yZhJqiTnVUYT8tp16Jko2A=="
 ---

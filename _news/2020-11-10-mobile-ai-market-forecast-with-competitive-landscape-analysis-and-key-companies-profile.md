@@ -114,6 +114,20 @@ related:
         width: 780
         height: 405
         isCached: true
+  - title: "Global Artificial Intelligence (AI) in Medical Market 2021: Outlook And Trends With Analysis Of Leading Players, 2030"
+    excerpt: "Market.Biz :COVID-19 Analysis: Turn massive Artificial Intelligence (AI) in Medical Market challenges into meaningful change. Its not post-pandemic, its intra-pandemic. Were still in it, and the implications for Artificial Intelligence (AI) in Medical Market are long-reaching."
+    publishedDateTime: 2020-11-12T10:43:00Z
+    webUrl: "https://apnews.com/press-release/wired-release/technology-business-science-corporate-news-diseases-and-conditions-b2f3e09e0e4ae0358279841fce9ae282"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 29
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "North America Computer Vision Market Analysis and Forecast 2020-2026 - ResearchAndMarkets.com"
     excerpt: "The “North America Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and Forecast 2020-2026” report has been added to ResearchAndMarkets.com’s offering."
     publishedDateTime: 2020-11-11T16:06:00Z
