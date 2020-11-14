@@ -1,22 +1,30 @@
 ---
 category: news
-title: "Uber in talks to sell multibillion-dollar self-driving group - report"
-excerpt: "Uber (NYSE:UBER) is in talks to sell its self-driving Autonomous Group to a competing start-up, TechCrunch reports."
-publishedDateTime: 2020-11-13T22:25:00Z
-originalUrl: "https://seekingalpha.com/news/3636351-uber-in-talks-to-sell-multibillion-dollar-self-driving-group-report"
-webUrl: "https://seekingalpha.com/news/3636351-uber-in-talks-to-sell-multibillion-dollar-self-driving-group-report"
+title: "Xpeng shares surge on first results, promises China’s best assisted self-driving solution"
+excerpt: "Xpeng is gearing up for an ambitious goal: setting a benchmark for driver assistance technology in China that rivals will have to overcome."
+publishedDateTime: 2020-11-14T06:34:00Z
+originalUrl: "https://technode.com/2020/11/14/xpeng-shares-surge-on-first-results-promises-chinas-best-assisted-self-driving-solution/"
+webUrl: "https://technode.com/2020/11/14/xpeng-shares-surge-on-first-results-promises-chinas-best-assisted-self-driving-solution/"
+ampWebUrl: "https://technode.com/2020/11/14/xpeng-shares-surge-on-first-results-promises-chinas-best-assisted-self-driving-solution/"
+cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/11/14/xpeng-shares-surge-on-first-results-promises-chinas-best-assisted-self-driving-solution/"
 type: article
-quality: 4
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Seeking Alpha
-  domain: seekingalpha.com
+  name: TechNode
+  domain: technode.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://i0.wp.com/technode.com/wp-content/uploads/2020/08/DSC4284-拷贝.jpg?fit=1619%2C1080&ssl=1"
+    width: 1619
+    height: 1080
+    isCached: true
 
 related:
   - title: "Uber in talks to sell ATG self-driving unit to Aurora"
@@ -51,23 +59,16 @@ related:
         width: 816
         height: 545
         isCached: true
-  - title: "Xpeng shares surge on first results, promises China’s best assisted self-driving solution"
-    excerpt: "Xpeng is gearing up for an ambitious goal: setting a benchmark for driver assistance technology in China that rivals will have to overcome."
-    publishedDateTime: 2020-11-14T06:34:00Z
-    webUrl: "https://technode.com/2020/11/14/xpeng-shares-surge-on-first-results-promises-chinas-best-assisted-self-driving-solution/"
-    ampWebUrl: "https://technode.com/2020/11/14/xpeng-shares-surge-on-first-results-promises-chinas-best-assisted-self-driving-solution/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/11/14/xpeng-shares-surge-on-first-results-promises-chinas-best-assisted-self-driving-solution/"
+  - title: "Uber in talks to sell multibillion-dollar self-driving group - report"
+    excerpt: "Uber (NYSE:UBER) is in talks to sell its self-driving Autonomous Group to a competing start-up, TechCrunch reports."
+    publishedDateTime: 2020-11-13T22:25:00Z
+    webUrl: "https://seekingalpha.com/news/3636351-uber-in-talks-to-sell-multibillion-dollar-self-driving-group-report"
     type: article
     provider:
-      name: TechNode
-      domain: technode.com
-    quality: 35
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2020/08/DSC4284-拷贝.jpg?fit=1619%2C1080&ssl=1"
-        width: 1619
-        height: 1080
-        isCached: true
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
 
-secured: "X5jVXdbqPDFI8Cj8he5y32UuIhfiSAcJpRkclz/DWvgezy38cJn7rgGNfAz1AJs0/ZSHxrR7tOmQQW78ODG5NufFhUGf+69KqK4YcILd3toXUxb8XerHiBR1JwWDGmeMic2UbDFxT1E5ykpc2O3icPlSfBL2nmjFLSED+24tTVtMZT2jQ7GcslqH5U6Fd2bBBZRrLF8YQMpgsF4i7YCCJHi5YLew84fEjR9arsKCrFy4FL+xWjqWjFR+aZnwPCDpHTdzgmRrJZs+HVwuBqZ8OsZ4xNAxUcGcGytL2W2+UTrJcLzNnkl1iv1EZxMCo+2y+cvVZsISC0vpf9S2thatCzO6IIIHKSFB9ZlCU8tz0D8=;H5cmQuJi09dnyIRbOBspoQ=="
+secured: "843GFpyolobNYBRynV8JzugI8uyMBveWbrmmLcsztAWBQxghl0Sle+yIEyGQIunFTjsO7y/kAp/XsXp5jYeoQKwzrsYmCOM5G610pvs+wmvfOQ0mrpx95nJNW+xe7L1Nree+NtUsbaKwLFLqTq2SLz4DI8aDymu+G9no8mLWMqZy7tRau+99LknQRJ++AzAzHNueVPmsHC4U5BHf/yO8ct3QE2klTZFw0I5APQj2nDt9OYoCFydnyLOCNxTfKwzjsLPodyPHVaMIWcEUDmbzi61GZgzOLwYxllsk/g+LgX2+mwU8SZjNj0W9BAPe78zGiAtt5eUtYYGEdGXWA+HqBSH3v2D+G5ZDjkzwm6Od/kM=;4gUAmnf+5lhDTgG/TYprpg=="
 ---
 

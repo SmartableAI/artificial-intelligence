@@ -41,20 +41,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "AI and ML benefit for the Fintech industry"
-    excerpt: "Let’s take a look at how FinTech companies took advantage of these technologies by employing them for different purposes, and is it worth investing in these technologies at all. Before diving into the use cases of AI and ML in fintech and banking software development,"
-    publishedDateTime: 2020-11-09T14:00:00Z
-    webUrl: "https://augustafreepress.com/ai-and-ml-benefit-for-the-fintech-industry/"
-    type: article
-    provider:
-      name: Augusta Free Press
-      domain: augustafreepress.com
-    quality: 56
-    images:
-      - url: "https://augustafreepress.com/wp-content/uploads/2020/07/business-1.jpg"
-        width: 400
-        height: 267
-        isCached: true
 
 secured: "vDMi647emah43LhCiEcuaxicLBNOrV137QswC55qStuDkAt0Rsq5WlYqxAsFGn0JEYi6YkylgQvco6j9/bOK4tshytX1WI4nf4t8g6auH+ieTXYLJt4Hm0qssTgt4eRP0IjnxcfdV01DtHE7rpkk/NM71LYhe0PjmLlPtqznjVtUW9+M0mONBCyQL80KjOj4nChlSbuwJiReFMVw4n18GY5ITGa/wI2LCFFqI3p3G2QBofXdd9p029s6vOqCmFo8SF7VJ7lYCZAq96tVKydnoeLCso5/+qRdCm/gjfMy1Q+RzEBAPNm5CfoFtOlhPp4FK0Rg0r1mf3XJN2r4QKW4uUH1rYCoEFzxO2XiK2wXZrmoLtUoo20LlHNDo4h0qN34MyxTAPgNu+HRbvQ1Qf/HtceSbtWH0wdOVe4MncZ9A3ucDIxqj8goOCcCdUOQBs29z4kcrznhEHjWQftPsIknu+Y1NJACtB8q7DUORzkofSbc6XywxuDjL2hla2eU6aG/uyU6IQldKMViiSs/ZjAqLA==;GNmrWl12ZDjvtNWXZwYMIA=="
 ---

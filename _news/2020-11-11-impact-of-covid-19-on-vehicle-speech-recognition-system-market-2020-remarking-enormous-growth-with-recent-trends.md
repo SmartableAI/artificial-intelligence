@@ -97,6 +97,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "What are sales, revenue, and price analysis by types and applications of Autonomous Cars Market? Fortune Business Insights™"
+    excerpt: "Autonomous Cars Market size is set to gain traction from the increasing innovations occurring in the transportation"
+    publishedDateTime: 2020-11-12T00:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/what-are-sales-revenue-and-price-analysis-by-types-and-applications-of-autonomous-cars-market-fortune-business-insightstm-2020-11-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "North America Computer Vision Market Analysis and Forecast 2020-2026 - ResearchAndMarkets.com"
     excerpt: "The “North America Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and Forecast 2020-2026” report has been added to ResearchAndMarkets.com’s offering."
     publishedDateTime: 2020-11-11T16:06:00Z

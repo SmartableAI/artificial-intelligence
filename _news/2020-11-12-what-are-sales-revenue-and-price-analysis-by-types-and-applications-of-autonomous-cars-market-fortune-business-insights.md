@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Mobile AI Market Forecast with Competitive Landscape Analysis and Key Companies Profile"
-excerpt: "The mobile artificial intelligence market size is anticipated to touch USD 10.28 billion at a whopping 29.52% CAGR between 2018- 2023, as per the current Market Research Future (MRFR) analysis. Mobile artificial intelligence or mobile AI makes a smart device cleverer by offering advanced software and hardware for the efficient operation of the device and better decision making."
-publishedDateTime: 2020-11-10T00:52:00Z
-originalUrl: "https://www.marketwatch.com/press-release/mobile-ai-market-forecast-with-competitive-landscape-analysis-and-key-companies-profile-2020-11-09"
-webUrl: "https://www.marketwatch.com/press-release/mobile-ai-market-forecast-with-competitive-landscape-analysis-and-key-companies-profile-2020-11-09"
+title: "What are sales, revenue, and price analysis by types and applications of Autonomous Cars Market? Fortune Business Insights™"
+excerpt: "Autonomous Cars Market size is set to gain traction from the increasing innovations occurring in the transportation"
+publishedDateTime: 2020-11-12T00:21:00Z
+originalUrl: "https://www.marketwatch.com/press-release/what-are-sales-revenue-and-price-analysis-by-types-and-applications-of-autonomous-cars-market-fortune-business-insightstm-2020-11-12"
+webUrl: "https://www.marketwatch.com/press-release/what-are-sales-revenue-and-price-analysis-by-types-and-applications-of-autonomous-cars-market-fortune-business-insightstm-2020-11-12"
 type: article
-quality: 59
+quality: 45
 heat: -1
 published: false
 
@@ -19,7 +19,9 @@ provider:
       height: 50
 
 topics:
+  - AI in Autos
   - AI
+  - AI in Sales
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -56,6 +58,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mobile AI Market Forecast with Competitive Landscape Analysis and Key Companies Profile"
+    excerpt: "The mobile artificial intelligence market size is anticipated to touch USD 10.28 billion at a whopping 29.52% CAGR between 2018- 2023, as per the current Market Research Future (MRFR) analysis. Mobile artificial intelligence or mobile AI makes a smart device cleverer by offering advanced software and hardware for the efficient operation of the device and better decision making."
+    publishedDateTime: 2020-11-10T00:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mobile-ai-market-forecast-with-competitive-landscape-analysis-and-key-companies-profile-2020-11-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Fintech Market 2020 Key Players Update, Regional Economy, Development Plans and Forecast to 2026"
     excerpt: "Comserve Inc. / -- Global Artificial Intelligence (AI) in Fintech Market is valued approximately USD 2.6 billion"
     publishedDateTime: 2020-11-13T13:53:00Z
@@ -79,20 +95,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "What are sales, revenue, and price analysis by types and applications of Autonomous Cars Market? Fortune Business Insights™"
-    excerpt: "Autonomous Cars Market size is set to gain traction from the increasing innovations occurring in the transportation"
-    publishedDateTime: 2020-11-12T00:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/what-are-sales-revenue-and-price-analysis-by-types-and-applications-of-autonomous-cars-market-fortune-business-insightstm-2020-11-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -143,6 +145,6 @@ related:
         height: 630
         isCached: true
 
-secured: "XLIc++eHZhwPjHON1uDnOA8ED8zZh0a7BubT1RXdT2w0lxr2r08Ne5d24qIO60sgcN/s8IzmbbXxdx52K05jtgI2Js3WcgAYDxkoJUQhiAt4nQNj0K2EqwN8y9bx/H2ta9O+09Y4i1u1aoptK774aEJoU2FVA6NGGQ/4cF8B3rUJSqsWZ0ZScU+BgghbdYDONy9mO/hOD0JwDQ8pytD+b+IBudikGsd76Yd9mhL8dgIvo3mjREJqJ1faCzNMoKpkrwRtGSysg+QqdHR1h5OqDLdHaphk5eWu6ervkpUHcKOBiiIxU+xt/iJW4M01m8OLZTUDWstvThWblpGfLnn/aax7GQ5iqcuV7R5bhR0O3LY=;7sMsEvHLXGwv3MHvnTy7Jw=="
+secured: "87WlBD0D+UKkpxZ9eW2qNHlSLTPMLk9Uml/uLDrHGblBsuk4nN9y4VwbrzYoq/KacAQRLALlCCotMOg6lqqiOucDGuYVQeiEc7QEKCE6a6sEICpauLCtbCmDqKE1rXGWaX1ERshL9GHSa2tiQGk+IhcspAahrFbf32M4bVilxcLywIqmHeXDgbCho4bi2SzJ4C6d4dpgEOhvKgJ8ItQij3Do8jqLtYh3ifWusCtcK8UL0TK0TPPKq/Ho5Afu70NL0cp1Mu6PSXNZRV1A0Zgh5G0mHGVlvaOXR9Y+MEBjqziwI6MfW/IsjkXW1adtL6O6oYlk1unFxEbS4eylwP3yPDFB2mMdsbUHX4k5Lq/G8VQ=;hZfJ1paESW/DsmeoVLyO4w=="
 ---
 

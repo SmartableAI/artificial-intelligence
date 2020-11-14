@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Microsoft Custom Translator pushes the translation quality bar closer to human parity"
-excerpt: "The Custom Translator journey to be on the leading edge of machine translation technology continues. In early August 2020, we started our Custom Translator upgrade from Long Short-Term Memory (aka LSTM) based neural machine translation architecture (or V1) to our Microsoft Translator’s state-of-the-art Transformer based architecture (or V2)."
-publishedDateTime: 2020-11-12T21:57:00Z
-originalUrl: "https://www.microsoft.com/en-us/translator/blog/2020/11/12/microsoft-custom-translator-pushes-the-translation-quality-bar-closer-to-human-parity/"
-webUrl: "https://www.microsoft.com/en-us/translator/blog/2020/11/12/microsoft-custom-translator-pushes-the-translation-quality-bar-closer-to-human-parity/"
+title: "Microsoft adds Hindi to its Text Analytics service"
+excerpt: "Text Analytics includes sentiment analysis, opinion mining, key phrase extraction, language detection, named entity recognition, and Personally Identifiable Information (PII) detection. Microsoft on Thursday said it has added Hindi to its Text Analytics service to help businesses strengthen customer support through a complete analysis of user perception and feedback in the most widely spoken language in India."
+publishedDateTime: 2020-11-14T05:02:00Z
+originalUrl: "https://www.tribuneindia.com/news/science technology/microsoft-adds-hindi-to-its-text-analytics-service-166425"
+webUrl: "https://www.tribuneindia.com/news/science technology/microsoft-adds-hindi-to-its-text-analytics-service-166425"
 type: article
-quality: 32
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Tribune
+  domain: tribuneindia.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.microsoft.com/en-us/translator/blog/wp-content/uploads/sites/13/2020/11/BlogHero.jpg"
-    width: 1411
-    height: 665
+  - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/11/2020_11$largeimg_705948515.JPG"
+    width: 600
+    height: 368
     isCached: true
 
 related:
@@ -73,19 +69,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft adds Hindi to its Text Analytics service"
-    excerpt: "Text Analytics includes sentiment analysis, opinion mining, key phrase extraction, language detection, named entity recognition, and Personally Identifiable Information (PII) detection. Microsoft on Thursday said it has added Hindi to its Text Analytics service to help businesses strengthen customer support through a complete analysis of user perception and feedback in the most widely spoken language in India."
-    publishedDateTime: 2020-11-14T05:02:00Z
-    webUrl: "https://www.tribuneindia.com/news/science technology/microsoft-adds-hindi-to-its-text-analytics-service-166425"
+  - title: "Microsoft Custom Translator pushes the translation quality bar closer to human parity"
+    excerpt: "The Custom Translator journey to be on the leading edge of machine translation technology continues. In early August 2020, we started our Custom Translator upgrade from Long Short-Term Memory (aka LSTM) based neural machine translation architecture (or V1) to our Microsoft Translator’s state-of-the-art Transformer based architecture (or V2)."
+    publishedDateTime: 2020-11-12T21:57:00Z
+    webUrl: "https://www.microsoft.com/en-us/translator/blog/2020/11/12/microsoft-custom-translator-pushes-the-translation-quality-bar-closer-to-human-parity/"
     type: article
     provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 39
+      name: Microsoft
+      domain: microsoft.com
+    quality: 32
     images:
-      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/11/2020_11$largeimg_705948515.JPG"
-        width: 600
-        height: 368
+      - url: "https://www.microsoft.com/en-us/translator/blog/wp-content/uploads/sites/13/2020/11/BlogHero.jpg"
+        width: 1411
+        height: 665
         isCached: true
   - title: "AVEVA to collaborate with Microsoft to provide cloud platform and domain expertise for industrial sector organizations"
     excerpt: "AVEVA, a global leader in engineering and industrial software, announced that it will be extending its long-standing strategic collaboration with Microsoft to focus on accelerating digital transformation in the industrial sector."
@@ -102,6 +98,6 @@ related:
         height: 757
         isCached: true
 
-secured: "DC/CzfBNaTppIbQ5Eb77s2q2gIpnRObV9T4hdbSCYVQqnAHvLtEOjhSvtFvTYSrvfvD2LM6AuJHDoRpCdFjspmiD72Ly3uFuADWX8KVKd7rrlQsN9gkK7HKuPyiaXmPMmjOLug4nipjELvSyE2fNaoRcZcyGbIRtkTS0kOwlchczTYBWeRjx7LENfZ7en87iHaAL7e8uF5UiC2Md36TjFyRe+CKk/tOBRrklg0WvPxQ8Mqf5rUw8Jr4n4OoBqYhLAKggAgGzGENEEQ/f4ZLBxyAcbRW5fvrhvI3EGTjns6kNC3yFdjLkWh7JiRCdZ1pZV/t2KBtWpL4cfKRbnJsiem767QjYonYFW+mbzPQDH10avVIsFXUgJUE/icdSyacsuDzrRkTVrzadq3AzMO0CRlnqYm5dVNF1FYTEIsWKLkTSqtMzhM/xwx1pqjjmcRLA8W+WOm0rro29qVjd/pd1tMA9QG61CVf3JOa8IQRmbHuIJetC77/B/WH7l/kPYK/KE90fDqyC0qxnmhAp5c1xSw==;1jmuVunuCv+FcfUvhW984w=="
+secured: "25R/fdJX8QH165Gl3SROmW88dDIXeyzE2ZqR9AloVokxRmMg1dBkzIGnVoiSireofghMzSym/JNxPZ/LV90eMk9oIjQNYoMIjQkbGLPk0fCoFqjUfYQzh7GLFD+7yK6AjvRS8TYbNbYNdIogpl/bt1stZjwMMksXAuOvv4lBdwj+Eagcj6i2+WKj5tTpXBWrqy42BjKYCnSIz1csPW73AjNEgNWQOGYSNvzKhU9Sx3Gg4h7du1wknTtDrLsawaO2S/ReYXbhifTQSXYQXpO0tkoGj8oom6xO6dXOxXwS1b2SOVRO0BaGhHuhn2tIhmi1qj4dZ1Lp7yR9K7TbbYWFQLTmljPF0RMTdfKQL+fCBNQ=;ZunP4QnUx0ltslNX6Y6jBQ=="
 ---
 

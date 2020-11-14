@@ -86,6 +86,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "What are sales, revenue, and price analysis by types and applications of Autonomous Cars Market? Fortune Business Insights™"
+    excerpt: "Autonomous Cars Market size is set to gain traction from the increasing innovations occurring in the transportation"
+    publishedDateTime: 2020-11-12T00:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/what-are-sales-revenue-and-price-analysis-by-types-and-applications-of-autonomous-cars-market-fortune-business-insightstm-2020-11-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Impact Of Covid-19 On Vehicle Speech Recognition System Market 2020: Remarking Enormous Growth With Recent Trends."
     excerpt: "According to Market Growth Insight the Vehicle Speech Recognition System Market is anticipated to reach USD XX billion by the end of 2025 with projected CAGR of XX over the near future The report delivers thorough analysis of the key"
     publishedDateTime: 2020-11-11T13:01:00Z

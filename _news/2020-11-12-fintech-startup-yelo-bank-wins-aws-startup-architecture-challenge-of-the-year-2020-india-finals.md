@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2020/11/fintech-startup-yelo-bank-wins-aws-sta
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/fintech-startup-yelo-bank-wins-aws-startup-architecture-challenge/amp"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI and ML benefit for the Fintech industry"
-    excerpt: "Let’s take a look at how FinTech companies took advantage of these technologies by employing them for different purposes, and is it worth investing in these technologies at all. Before diving into the use cases of AI and ML in fintech and banking software development,"
-    publishedDateTime: 2020-11-09T14:00:00Z
-    webUrl: "https://augustafreepress.com/ai-and-ml-benefit-for-the-fintech-industry/"
-    type: article
-    provider:
-      name: Augusta Free Press
-      domain: augustafreepress.com
-    quality: 56
-    images:
-      - url: "https://augustafreepress.com/wp-content/uploads/2020/07/business-1.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "China’s AI Expansion Could Shift the Fintech Balance of Power"
     excerpt: "Shen thinks about how the battle for supremacy in AI will evolve in the near future, and what the implications of China’s advances in the field might mean"
     publishedDateTime: 2020-11-11T14:31:00Z

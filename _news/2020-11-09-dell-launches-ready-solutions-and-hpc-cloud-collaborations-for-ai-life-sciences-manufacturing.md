@@ -18,15 +18,20 @@ topics:
   - AI
 
 related:
-  - title: "Dell Technologies HPC and AI Solutions Help TGen Reduce Genome Sequencing Time from Two Weeks to Less Than Eight Hours"
-    excerpt: "New Dell EMC Ready Solutions for HPC accelerate customers' time to deliver new products and services in healthcare, life sciences and manufacturing New software integrations for virtualized environments simplify HPC cluster management and provisioning in private and public clouds Dell Technologies (NYSE: DELL) announces new Dell EMC Ready Solutions and high-performance computing (HPC) cloud service provider collaborations to accelerate AI and advanced computing innovation in healthcare,"
-    publishedDateTime: 2020-11-09T14:27:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/dell-technologies-hpc-and-ai-solutions-help-tgen-reduce-genome-sequencing-time-from-two-weeks-to-less-than-eight-hours-1029781663"
+  - title: "Dell Announces New HPC and AI Solutions for Healthcare, Life Sciences, Manufacturing"
+    excerpt: "Dell Technologies announces new Dell EMC Ready Solutions and high-performance computing (HPC) cloud service provider"
+    publishedDateTime: 2020-11-09T16:26:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/dell-announces-new-hpc-and-ai-solutions-for-healthcare-life-sciences-manufacturing/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 23
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 47
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/market_covid_shutterstock_1658915128-405x228.jpg"
+        width: 405
+        height: 228
+        isCached: true
 
 secured: "QiIk5dhcfE/S7AEoMuKkzkxHmqPYJARf7tsc9Z1eBMYr8RiceiWPPPKIXwn3XioqNXSeLVkCXqR7AudHAdWCzrlo5pNt3uM3mItyM2IoqLcBapCziJ4j5HoJ4QryoqhBvsLtyNa2JCIEwE6lNrOiu2BHDEz7V0+YEbIuQy0LeZ2DogINiYfB9Czbey/SoxrjugY8nVKREpdCcDYXwvrmlkpqmGAz1RrXZ8f5Tmuqmf63CpbKXFW1xraFMB2nXpX+sgtjiIIjLNUJC0UWvmEtLAcAr6MFK4LHYjKq9svOGv+d7ZrJbWerPpEJz2Rl50szhpMQKRJsOlqUK0hQanOMSHyHynusr3rUP610s6UBKj4=;97WKvEIVSMUFOo6lsB0VpA=="
 ---
