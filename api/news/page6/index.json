@@ -406,7 +406,7 @@
       "originalUrl": "https://www.reuters.com/article/us-autonomous-nuro-funding-idUSKBN27P1FT",
       "featuredContent": null,
       "highlight": null,
-      "heat": 252,
+      "heat": 222,
       "tags": null,
       "images": [
         {
@@ -593,49 +593,6 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-face-for-sale-leaks-and-lawsuits-blight-russia-facial-recognition.md",
-      "title": "Face for sale: Leaks and lawsuits blight Russia facial recognition",
-      "excerpt": "When Anna Kuznetsova saw an ad offering access to Moscow's face recognition cameras, all she had to do was pay 16,000 roubles ($200) and send a photo of the person she wanted spying on.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/russia-privacy-lawsuit/feature-face-for-sale-leaks-and-lawsuits-blight-russia-facial-recognition-idUSL8N2HQ44M",
-      "originalUrl": "https://www.reuters.com/article/russia-privacy-lawsuit/feature-face-for-sale-leaks-and-lawsuits-blight-russia-facial-recognition-idUSL8N2HQ44M",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27P10U",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P10U",
-      "publishedDateTime": "2020-11-09T07:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {
@@ -1233,6 +1190,48 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-chinese-autonomous-truck-startup-inceptio-raises-120-mln-from-catl-others.md",
+      "title": "Chinese autonomous truck startup Inceptio raises $120 mln from CATL, others",
+      "excerpt": "China's Inceptio Technology, a startup developing self-driving trucks, said on Monday it has raised $120 million in its latest funding led by top Chinese electric vehicle battery maker CATL.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/inceptio-autonomous-idUSL1N2HU0DG",
+      "originalUrl": "https://www.reuters.com/article/inceptio-autonomous-idUSL1N2HU0DG",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2HU0DG",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2HU0DG",
+      "publishedDateTime": "2020-11-08T20:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rocksound.tv/news/amp/watch-nine-inch-nails-trent-reznor
 cdnAmpWebUrl: "https://www-rocksound-tv.cdn.ampproject.org/c/s/www.rocksound.tv/news/amp/watch-nine-inch-nails-trent-reznor-deliver-his-rock-and-roll-hall-of-fame-a"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 635
     height: 380
     isCached: true
-
-related:
-  - title: "Watch Trent Reznor's Nine Inch Nails Rock & Roll Hall Of Fame Acceptance Speech"
-    excerpt: "Trent Reznor thanked Nine Inch Nails bandmates both past and present in his Rock & Roll Hall Of Fame induction ceremony acceptance speech. Over the weekend, Trent Reznor accepted the honour of Nine Inch Nails being inducted into the 2020 Rock & Roll Hall Of Fame on behalf of his bandmates throughout the years,"
-    publishedDateTime: 2020-11-09T12:50:00Z
-    webUrl: "https://www.kerrang.com/amp/watch-trent-reznors-rock-roll-hall-of-fame-acceptance-speech-for-nine-inch-nails"
-    ampWebUrl: "https://www.kerrang.com/amp/watch-trent-reznors-rock-roll-hall-of-fame-acceptance-speech-for-nine-inch-nails"
-    cdnAmpWebUrl: "https://www-kerrang-com.cdn.ampproject.org/c/s/www.kerrang.com/amp/watch-trent-reznors-rock-roll-hall-of-fame-acceptance-speech-for-nine-inch-nails"
-    type: article
-    provider:
-      name: Kerrang!
-      domain: kerrang.com
-    quality: 55
-    images:
-      - url: "https://images.kerrangcdn.com/Trent-Reznor-Rock-Roll-Hall-Of-Fame-acceptance-speech-2020.jpg?auto=compress&fit=crop&w=1008"
-        width: 1008
-        height: 567
-        isCached: true
 
 secured: "D+G08fYLwNZs5VNmYiZlIU6S3zyGH7qmlu1MH6vlpXkASp9ZZQGykvWwcjBtGCM03MbcUaDvz9hl/ZXGg7ouuJDAQZEi9IJ9zqWPfXSrMvkzNM+QNt+RiIqvO7TyXI2XN/FWKMBnVdSEjNSu3C0ACbNDjntGImlpWYRERO/hIJE980Y1BnWEMWjD2SLTPGMhP1LlGC9T6AQG5kBQwXRIHSou0XlsSdgzi3I+pIDbu00TA0UvenMz5KF9rpzdQfXCReYXV/l83JLPO3KhQxWfNNxSr6/gJgmomHlsK86F4oJiX0TywJ7UnyBhbwrX+dwi9UQR5QUJw1MnBYVyID682kp66KcDBZZibwaKARq+31Lnc9jeJk74ESZe2vW1SIznKOPGoAfNCMwdepePD+1bj+GP5zGmBUyA0/MoWWwjMjl5IgJplPm7n05PtVFyTjIeBNveihnBdyPr5sKb0d2HFRwnZTtHnEmfO+1eqOsLjRsd3Jex9FM5rxug+yYxUoluBsbzXSCrGKG5nxBxGaMYrQ==;b5hnA52jIOPhccYpmueZ2w=="
 ---

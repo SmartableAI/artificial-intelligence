@@ -67,20 +67,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 7
-  - title: "IBM Advances Hybrid Cloud Software with New Data and Automation Capabilities to Help Companies Speed Digital Transformations"
-    excerpt: "In addition, Cloud Pak offerings integrate with IBM Watson, enabling clients to infuse AI into their systems to predict and analyze future outcomes, automate complex processes, optimize employees ..."
-    publishedDateTime: 2020-11-10T21:23:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ibm-advances-hybrid-cloud-software-with-new-data-and-automation-capabilities-to-help-companies-speed-digital-transformations-301169589.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-        width: 2698
-        height: 1414
-        isCached: true
 
 secured: "vzQ6jINYdY30bJ4X2ZjPTJRMZVRiiWRegDOmiomxP1R8yBsHLXkW/osdyIBn20cPomVcKae9v2EMZG14yKAKy7gJTs3dTnYujeWffpzX9AG4wTWhu8Xnw6EDAuwwY+a5+QF/cUnWe7ii67eJIKXbimSqBiukIxmp/pfAlyUfjY0SecSM7TsMZPhw9JDHcwIcuVzFvDRw8RTNvxks4uoiiQ9pWhZ2BXx8Yr9IoaQFMziyoupEcOlz972VCeOqO+o7GAV6lQ6fbVpe5CBBpZof/jt84fjTknu0Y7WEjtJCd9DAF2SVOvxPHKadvtiJ+ZiX8HXn3VpzzyzcllZqQY5Zap7QTBU6ALB9h0eOhyttMv8=;ZU3GTWcFGqINW9Z3iqGwPQ=="
 ---

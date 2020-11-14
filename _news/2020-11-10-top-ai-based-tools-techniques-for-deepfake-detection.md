@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/top-ai-based-tools-techniques-for-de
 webUrl: "https://analyticsindiamag.com/top-ai-based-tools-techniques-for-deepfake-detection/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 400
     height: 400
     isCached: true
-
-related:
-  - title: "'It's the screams of the damned!' The eerie AI world of deepfake music"
-    excerpt: "Artificial intelligence is being used to create new songs seemingly performed by Frank Sinatra and other dead stars. ‘Deepfakes’ are cute tricks – but they could change pop for ever"
-    publishedDateTime: 2020-11-09T12:40:00Z
-    webUrl: "https://www.theguardian.com/music/2020/nov/09/deepfake-pop-music-artificial-intelligence-ai-frank-sinatra"
-    ampWebUrl: "https://amp.theguardian.com/music/2020/nov/09/deepfake-pop-music-artificial-intelligence-ai-frank-sinatra"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/music/2020/nov/09/deepfake-pop-music-artificial-intelligence-ai-frank-sinatra"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/20123a68b9a3b9554937606d1b41eb3e10fe0c70/0_0_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=33e69b92cefaf0d44ae6a7ede6314d70"
-        width: 600
-        height: 360
-        isCached: true
 
 secured: "MDyR/n9MDen5DFj8KUC1KR/OaZAHWnDyw62dRZrO95j0L2XP2F6oGYgQ9Oq0WJDBGgZe8sUyeWOu7ZC2wn0jeDSH48g/eDZExMbKp5hhGXtxjmR2JnKnN9xAihD8050zIvb1CdZJYTnu3ihB9Juoy4SGIaMmMadwgYDi8UEXa5gXVDMGa8Lg2dmMCOVqf1EWa2NnzX4GACS7HcLZHg/OHJdEuvhNTbqtSOOW3By+ObFBLr42cNbndzAXMk6BBIhv7/z0Hm+EeChYKeCnLiFL7jKbaGcNRjaDtM6TA4Ps2/MpLrl2MXEJ7Lax7SObSwtNgSDWWTSSfqyC8CsHZ1hzGHxFhalSPMNaIsuMcvHCY4g=;E7h/DZ3ZzEJj+WcdL+KHHA=="
 ---

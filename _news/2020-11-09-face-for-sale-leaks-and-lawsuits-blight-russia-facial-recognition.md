@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P10U"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P10U"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Reuters
@@ -23,22 +23,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "Leaks and lawsuits blight Russia facial recognition"
-    excerpt: "The rise of cloud computing and AI technologies have popularised the technology globally, with supporters saying it promises greater security and efficiency."
-    publishedDateTime: 2020-11-09T12:15:00Z
-    webUrl: "https://www.iol.co.za/technology/software-and-internet/leaks-and-lawsuits-blight-russia-facial-recognition-950fc873-97bd-433c-8183-147308f8341d"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 39
-    images:
-      - url: "https://image-prod.iol.co.za/resize/1280x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/5e04fbe0-1093-5122-94af-3f34890e7b92&operation=CROP&offset=0x67&resize=1280x720&webp=false"
-        width: 651
-        height: 366
-        isCached: true
 
 secured: "km8ddVhsLnbAcYFQIJ5xBpUGex6kTfjS4DdIUd37xNZz8ltFQ4B6kby0zM1CvMDPmg5ck7zdEkHuubN32dTvA1TeeN6NaLS+i5UfbbfvQG/9+HRN1fR/QBGvRlWNT0OQD58GB5ofJaAuTXAwh56Ji9V+Lpfja0KIIm0ZKAMjQrUaq/Np948eASrXGitxmar7ZAXw+Wxq1/nW1EQEmb5WbUynAycv2btmsKzCxdWBmIl+UpM4ccHMCyqqU7crddcC5LBjyYwKl4TbahTPa0FoTFlHu0D6fE+3Li9IcHx5LQadRUM3hKZ57t60uLrai1rbkpdngMeOyC9eyPlh6b/qbmkDRdCe7NFNkD7E02MfduI=;h0JBjaJspa1iRMkrWyJvgA=="
 ---

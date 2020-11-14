@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-11T09:43:00Z
 originalUrl: "https://apnews.com/article/technology-business-science-apple-inc-corporate-news-60480de0ab81277db2e6944e9b9e5779"
 webUrl: "https://apnews.com/article/technology-business-science-apple-inc-corporate-news-60480de0ab81277db2e6944e9b9e5779"
 type: article
-quality: 15
+quality: 17
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Facebook AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

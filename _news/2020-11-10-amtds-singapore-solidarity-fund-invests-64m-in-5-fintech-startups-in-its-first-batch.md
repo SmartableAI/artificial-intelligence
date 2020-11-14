@@ -32,15 +32,6 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 32
-  - title: "AMTD’s Singapore Solidarity Fund invests $6.4m in 5 fintech startups in its first batch"
-    excerpt: "The evaluation process for a second batch of investments – which aims to support Singapore’s fintech community – is already underway."
-    publishedDateTime: 2020-11-09T11:18:00Z
-    webUrl: "https://www.techinasia.com/amtd-singapore-solidarity-invests-64m-5-fintech-startups-first-batch?ref=recommender-661785"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 26
 
 secured: "8FembDj4Wh2gmlzFgrVYlO0ee7gP71lQ6MvsuruM7FIha+eyJ32Co0uCODNcGaflkuQhjPOtLRdnoek3tvP/KoR8D7JVkdQyXRFFE0M8Fy4Mw1eZCGjykhBTjClQnHZJx9EN6md3YoEgDXotaSS6PDz3xsEDZOINR2xlvlJCh/dLVYg4hap/REnAoVNuMBP2XlZ8U4KtsokEwEnROFeuFy5PCXhqRgHUcNnS6ofom2K6X+3Te2F7iH43MSzw3Ov5u+90W03ySUX1c/61QdVbRdCkH91nVq9TPaeQecRmAGJXB3bxSSk93N9dMvdiLuwwS4gixf29c7/3SWzvhE5cjvag/uZ5FM1p1+RukCgZsJ68zq/fn3QmcZSniR6jgTqpyHZ8/KIQV7Q8RVYKPE6naaR2KcG5LejMgPq2asHlHddHD50AbvSlVeGD/OTZkbYkJEAHJ2eyUzsC83blbTDYz08CF0r0qVfEn0qS+cfMOX5zZo32PiCp7+vuzQ9X82lI0Sn+N8dQleaN/0a57Q69vw==;FxAEKRsbuLzayCVFrJ302Q=="
 ---

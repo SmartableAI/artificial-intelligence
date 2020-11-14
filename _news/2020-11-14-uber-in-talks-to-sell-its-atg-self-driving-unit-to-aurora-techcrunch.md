@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Uber in talks to sell its ATG self-driving unit to Aurora - TechCrunch"
+title: "Uber in talks to sell its ATG self-driving unit to Aurora: TechCrunch"
 excerpt: "Uber Technologies Inc <UBER.N> is in talks to sell its autonomous driving unit, Uber Advanced Technologies Group, to self-driving car startup Aurora, TechCrunch reported on Friday, citing people familiar with the matter."
-publishedDateTime: 2020-11-13T23:18:00Z
-originalUrl: "https://www.reuters.com/article/uber-aurora/uber-in-talks-to-sell-its-atg-self-driving-unit-to-aurora-techcrunch-idUSL4N2HZ43V"
-webUrl: "https://www.reuters.com/article/uber-aurora/uber-in-talks-to-sell-its-atg-self-driving-unit-to-aurora-techcrunch-idUSL4N2HZ43V"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T30O"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T30O"
+publishedDateTime: 2020-11-14T03:37:00Z
+originalUrl: "https://www.reuters.com/article/us-uber-aurora-idUSKBN27T30K"
+webUrl: "https://www.reuters.com/article/us-uber-aurora-idUSKBN27T30K"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T30K"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T30K"
 type: article
 quality: 74
 heat: -1
@@ -57,6 +57,6 @@ related:
       domain: seekingalpha.com
     quality: 4
 
-secured: "c4XnJz72y1Xb7kS0Rf07f+GfcNENrzC/o67TSBDXR6ArfOjPCghlXzHnMOGcW6QgNAELg5BTSeXRoIvKO276jJMSm7r9Yg4CAQ2KoEa8931tH+LeAWZoLCVD49qX3L4Oo+OZ587ouMsZwXTdk7E6y8RBx0Pwy2/gLRnwFZWOo+kvG4kmPldbLnLBFwk/PYuh7/aA2i+Pwub5+7Y7ikfn1hA8I70l3qkpVjd6qLsBEnAlqr1ic9IwBOhcMgTaoQCMtSfNgkQjjk+qkG33QZR7CBH/+aHcQV4N7QiU9HcZuSs7vKkTpUsCe4s6OeYUTBn7rAvllDPiYZPAfllOluKIVQIDznbM2fZkuBu9T4QnpvM=;ICcz8sPrWJYm7G6GcCkWmQ=="
+secured: "FGGaqw6nIZKSkrHeOiPvfnairnQnkakrDvJpNFJgiIAHVPlvjCCjhCL4UoY45WcKl74Gc+u68Fjy4HmcwkTQL8UBmlYHf6I0D+ZQPwdRbNrOKFnwnc/YLjHUz9Kyo1qL/enjBZGcGCaVKHPKT1TOfFUMV91BwN2Q7UldHE7MGDewwC/oc0PrikYDwPj2iqzV/hhU44AXUY67SJMX7gzM1lZwYIN2qjG+HI+4gd1uBn4BzsdmkOv4/CcDUBC7yp9PemdBwhDNt+1oBVDPbYoE5Phu+xlJFEjfY3IuRNTTATOLGIIs941aL/ceZe7x1MVkzKaH6qzVjPFVoprwBMa1SmM2If6CyZLa7GN9mhuetz0=;So7eUGtNHQjo0sEQE9v6+A=="
 ---
 

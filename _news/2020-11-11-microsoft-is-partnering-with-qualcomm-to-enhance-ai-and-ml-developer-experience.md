@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-is-partnering-with-qualcomm-to-
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-is-partnering-with-qualcomm-to-enhance-ai-and-ml-developer-experience/"
 type: article
 quality: 117
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM, Microsoft, and the Future of Healthcare"
-    excerpt: "Healthcare is a mess, not just here in the U.S., but in most countries. Some of the biggest problems in this data-rich era are the lack of interoperability and fact-based advice. Two companies that stand out as aggressively trying to fix this are IBM and Microsoft."
-    publishedDateTime: 2020-11-09T12:00:00Z
-    webUrl: "https://www.technewsworld.com/story/86911.html"
-    type: article
-    provider:
-      name: TechNewsWorld
-      domain: technewsworld.com
-    quality: 58
-    images:
-      - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2019-medical-research-1.jpg"
-        width: 620
-        height: 360
-        isCached: true
   - title: "AVEVA expands Microsoft collaboration focusing on Cloud and AI"
     excerpt: "AVEVA will be extending its collaboration with Microsoft to help maximise the value that customers can derive from the integration of AVEVA’s portfolio with Microsoft cloud services and especially Microsoft Azure (infrastructure,"
     publishedDateTime: 2020-11-10T11:15:00Z

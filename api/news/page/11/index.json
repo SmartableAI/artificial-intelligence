@@ -2,59 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2020-11-03-creating-an-intelligent-ticket-routing-solution-using-slack-amazon-appflow-and-amazon-comprehend.md",
-      "title": "Creating an intelligent ticket routing solution using Slack, Amazon AppFlow, and Amazon Comprehend",
-      "excerpt": "Support tickets, customer feedback forms, user surveys, product feedback, and forum posts are some of the documents that businesses collect from their customers and employees. The applications used to collect these case documents typically include incident management systems, social media channels, customer",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/creating-an-intelligent-ticket-routing-solution-using-slack-amazon-appflow-and-amazon-comprehend/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/creating-an-intelligent-ticket-routing-solution-using-slack-amazon-appflow-and-amazon-comprehend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/30/1-DiagramArchitecture-786x630.jpg",
-          "width": 786,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-03T12:49:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2020-11-04-researchers-develop-ai-that-solves-a-matrix-based-visual-cognitive-test.md",
       "title": "Researchers develop AI that solves a matrix-based visual cognitive test",
       "excerpt": "Researchers at Facebook and Tel Aviv University developed a machine learning model that generates answers to a cognitive test.",
@@ -1211,6 +1158,49 @@
         "AI Hardware",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-wipro-and-aws-announce-the-launch-of-wipro-aws-business-group.md",
+      "title": "Wipro and AWS announce the launch of Wipro AWS Business Group",
+      "excerpt": "Wipro has announced the launch of Wipro AWS Business Group (WABG), a unit designed to help customers fast-track their cloud transformation journey on AWS.",
+      "sourceUrl": null,
+      "webUrl": "https://www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/",
+      "originalUrl": "https://www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.voicendata.com/wp-content/uploads/2020/10/handshak-image.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/amp/",
+      "cdnAmpWebUrl": "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/wipro-aws-announce-launch-wipro-aws-business-group/amp/",
+      "publishedDateTime": "2020-11-02T23:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Voicendata.com",
+        "domain": "voicendata.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     }
   ],

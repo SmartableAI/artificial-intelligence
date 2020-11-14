@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/uk-foreign-buyers-up-ai-and-quantu
 webUrl: "https://www.businessinsider.com/uk-foreign-buyers-up-ai-and-quantum-firms-2020-11"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Great Learning Offers Free Career Counselling to Learners in Areas like Artificial Intelligence and Machine Learning"
-    excerpt: "Great Learning aims to help people in domains such as data science, artificial intelligence, machine learning and so on by assisting them in decision making"
-    publishedDateTime: 2020-11-09T12:58:00Z
-    webUrl: "https://www.dqindia.com/great-learning-offers-free-career-counselling-learners-areas-like-artificial-intelligence-machine-learning/"
-    ampWebUrl: "https://www.dqindia.com/great-learning-offers-free-career-counselling-learners-areas-like-artificial-intelligence-machine-learning/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/great-learning-offers-free-career-counselling-learners-areas-like-artificial-intelligence-machine-learning/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 51
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2020/03/futuristic-3862179_1280.jpg"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "J+TvyrhiN4W+qkcRzvQSFmNLGvWply6qmXHhD5PUgPYa7RCr81l1H+vRpwhX8ZTOTMOwRid9EpsAuv7FG0OLYog6845f6lVCsj6UywbU6CndQAeonitlHGcm/78c8iHEaluIJHaZ1g6AhgqYX/4bymbLafyAOv0NALIldSs0ozh+o2DkJ3MfUpCtWQ22ZgUY3z0fdvKhUMBfwyKHS0+8hL6deObHYdCmjmYeFAOuXNBF5SPR7Fw4xnXQEcd81be54L6x2/Pog+8wEPwXXQuWfGV6ZxuzLpgY+sZzQTu+lSi/LSAbkbQrfNab9w1d1UeggrFrLA3jGJW14PVDsJQPioLM2/9XfMhIN6fuPWdU8xb2D9tyUp0sS+rbmudRZvOS35T4eYGDcg0KvG/ocFKa3UdaE0Hz8y7RfHrZU3sv2Jb+4m+1kIHUnWsg7/vL7BoUTa49Gg1r8Jev++pP/+L1VkVcFYuDhlKUzA0neGO1l/oAxZZXo63MhtbVcx51rXNvR2SzWoZjFJsbZ5w0vF0ReQ==;B+oHanQqsww32fL12Ng25g=="
 ---

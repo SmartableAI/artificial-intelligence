@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-10-20-computer-vision-software-market-next-big-thing-major-giants-algolux-visenze-sighthound.md",
-      "title": "Computer Vision Software Market Next Big Thing | Major Giants Algolux, ViSenze, Sighthound",
-      "excerpt": "Latest Market intelligence report released by HTF MI with title \"COVID-19 Outbreak-Global Computer Vision Software Industry Market Report-Development Trends, Threats, Opportunities and Competitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1100984314/Computer-Vision-Software-Market-Next-Big-Thing-Major-Giants-Algolux-ViSenze-Sighthound",
-      "originalUrl": "https://menafn.com/1100984314/Computer-Vision-Software-Market-Next-Big-Thing-Major-Giants-Algolux-ViSenze-Sighthound",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?504504",
-          "width": 374,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-20T00:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-19-culture-and-people-will-drive-tech-innovation-and-growth.md",
       "title": "Culture And People Will Drive Tech Innovation And Growth",
       "excerpt": "Now, we’re seeing many companies shift from the automation-focused initiatives of the early 2000s to recognise the role of human intelligence in building smarter, more innovative automations and AI.",
@@ -1438,6 +1395,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-imposter-idd-with-facial-recognition-technology-at-local-airport.md",
+      "title": "Imposter ID'd With Facial Recognition Technology At Local Airport",
+      "excerpt": "With the help of the Simplified Arrival process, customs officials detected a traveler's mismatched documents at Washington Dulles Airport.",
+      "sourceUrl": null,
+      "webUrl": "https://patch.com/virginia/herndon/imposter-idd-facial-recognition-technology-local-airport",
+      "originalUrl": "https://patch.com/virginia/herndon/imposter-idd-facial-recognition-technology-local-airport",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/users/23738464/20201008/041638/styles/patch_image/public/cbpo-pax2h___08161627748.jpg?width=984",
+          "width": 984,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://patch.com/virginia/herndon/amp/29007924/imposter-idd-with-facial-recognition-technology-at-local-airport",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/virginia/herndon/amp/29007924/imposter-idd-with-facial-recognition-technology-at-local-airport",
+      "publishedDateTime": "2020-10-08T18:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

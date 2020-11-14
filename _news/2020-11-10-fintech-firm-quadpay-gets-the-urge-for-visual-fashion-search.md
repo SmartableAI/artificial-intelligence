@@ -52,22 +52,6 @@ related:
         width: 300
         height: 232
         isCached: true
-  - title: "Fintech for Fashion: Purple Dot Raises £1.35 Million Seed Round"
-    excerpt: "Purple Dot, a payment platform for fashion merchandisers that enables consumers to offer to purchase a product at below the retail recommended price, has raised a £1.3 million seed round. The funding was led by Connect Ventures."
-    publishedDateTime: 2020-11-09T12:29:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/11/168918-fintech-for-fashion-purple-dot-raises-1-35-million-seed-round/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/168918-fintech-for-fashion-purple-dot-raises-1-35-million-seed-round/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/168918-fintech-for-fashion-purple-dot-raises-1-35-million-seed-round/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 59
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/06/Sale-600x421.jpg"
-        width: 600
-        height: 421
-        isCached: true
   - title: "5 fintech opportunities for entrepreneurs beyond 2020"
     excerpt: "The fintech sector is undergoing a complete digital makeover by leveraging sophisticated new-age tech to cater to increasingly tech-savvy users resulting in a superior customer experience."
     publishedDateTime: 2020-11-10T05:15:00Z
