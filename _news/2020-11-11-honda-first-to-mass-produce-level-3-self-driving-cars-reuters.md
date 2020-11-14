@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Honda says will be first to mass produce level 3 autonomous cars"
+    excerpt: "Japan's Honda Motor Co said on Wednesday it will be the world's first automaker to mass produce sensor-packed level 3 autonomous cars that will allow drivers to let their vehicles navigate congested expressway traffic."
+    publishedDateTime: 2020-11-11T11:59:00Z
+    webUrl: "https://www.reuters.com/article/us-honda-autonomous-level3/honda-says-will-be-first-to-mass-produce-level-3-autonomous-cars-idUSKBN27R0LV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27R0M7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27R0M7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 172
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201111&t=2&i=1540803398&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAA0AY"
+        width: 801
+        height: 545
+        isCached: true
   - title: "Honda claims it'll be the first to mass produce level 3 self-driving cars"
     excerpt: "They could overtake slow cars by themselves. Virtually every semi-autonomous car you’ve seen on the road, even Teslas with Autopilot, uses level 2 self-driving — they may save you from steering or hitting the accelerator,"
     publishedDateTime: 2020-11-11T16:35:00Z
@@ -42,22 +58,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F4f2b8c20-2436-11eb-b7b7-4bf22a2a36a8&client=amp-blogside-v2&signature=f3a493c3b8522b7fbef3bc164f1803488841034a"
         width: 600
         height: 350
-        isCached: true
-  - title: "Honda says will be first to mass produce level 3 autonomous cars"
-    excerpt: "Japan's Honda Motor Co said on Wednesday it will be the world's first automaker to mass produce sensor-packed level 3 autonomous cars that will allow drivers to let their vehicles navigate congested expressway traffic."
-    publishedDateTime: 2020-11-11T11:59:00Z
-    webUrl: "https://www.reuters.com/article/honda-autonomous-level3-idUSKBN27R0M7"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27R0M7"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27R0M7"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201111&t=2&i=1540803398&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAA0AY"
-        width: 801
-        height: 545
         isCached: true
   - title: "Honda to mass-produce Level 3 autonomous cars by March"
     excerpt: "Honda claims it will be the first automaker to mass-produce vehicles with autonomous capabilities that meet SAE Level 3 standards, with plans to begin producing and selling a version of its Honda Legend luxury sedan with fully approved automated driving equipment in Japan from next March."
@@ -75,26 +75,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Velodyne Aims to Price New Self-Driving Car Sensor Below $500"
-    excerpt: "Velodyne Lidar Inc said on Friday it would introduce a new lidar unit, a key sensor in self-driving cars, with a target price point of less than $500 and no moving parts. Velodyne became a public company in September and is one of several companies vying to supply automakers with lidar,"
-    publishedDateTime: 2020-11-14T15:33:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-11-13/velodyne-targets-sub-500-price-point-for-self-driving-car-sensor"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-11-13/velodyne-targets-sub-500-price-point-for-self-driving-car-sensor?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-11-13/velodyne-targets-sub-500-price-point-for-self-driving-car-sensor?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 69
-  - title: "Weather-proof chip aims to take self-driving tech, wireless communications to next level"
-    excerpt: "A new device can overcome challenges like bad weather to deliver more secure, reliable communications. This could aid military communications in challenging areas, improve the ability of self-driving cars to see the environment around them and speed up wireless data for potential 6G networks."
-    publishedDateTime: 2020-11-13T09:42:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/11/201112145432.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 57
   - title: "Honda Hints It Will the First to Release Level 3 Self-Driving Vehicles"
     excerpt: "Honda has declared that it will be the first automaker to put out level 3 self-driving vehicles. It’s a bold move that gives the company a competitive advantage against most automakers — even Tesla only has level 2 self-driving cars at the moment."
     publishedDateTime: 2020-11-12T06:52:00Z
@@ -110,66 +90,6 @@ related:
       - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F11%2Fhonda-first-level-3-self-driving-cars-info-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
         width: 1076
         height: 717
-        isCached: true
-  - title: "Walmart teams up with GM's Cruise to test grocery delivery with self-driving cars"
-    excerpt: "Walmart announced Tuesday that the company has joined forces with self-driving car company Cruise to test out autonomous grocery delivery in Arizona."
-    publishedDateTime: 2020-11-11T15:31:00Z
-    webUrl: "https://www.fox35orlando.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars"
-    ampWebUrl: "https://www.fox35orlando.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars.amp"
-    cdnAmpWebUrl: "https://www-fox35orlando-com.cdn.ampproject.org/c/s/www.fox35orlando.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars.amp"
-    type: article
-    provider:
-      name: WOFL
-      domain: fox35orlando.com
-    quality: 39
-    images:
-      - url: "https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2020/11/932/470/Walmart-and-Cruise.png?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
-  - title: "Walmart teams up with GM's Cruise to test grocery delivery with self-driving cars"
-    excerpt: "Walmart announced Tuesday that the company has joined forces with self-driving car company Cruise to test out autonomous grocery delivery in Arizona."
-    publishedDateTime: 2020-11-11T17:36:00Z
-    webUrl: "https://www.fox5atlanta.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars"
-    ampWebUrl: "https://www.fox5atlanta.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars.amp"
-    cdnAmpWebUrl: "https://www-fox5atlanta-com.cdn.ampproject.org/c/s/www.fox5atlanta.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars.amp"
-    type: article
-    provider:
-      name: FOX 5 Atlanta
-      domain: fox5atlanta.com
-    quality: 39
-    images:
-      - url: "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2020/11/932/470/Walmart-and-Cruise.png?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
-  - title: "Self-driving Cars and Trucks Market to Eyewitness Massive Growth by 2026 | General Motors, Honda Motor, Nissan Motor"
-    excerpt: "Nov (Heraldkeepers) -- Latest added Global Self-driving Cars and Trucks Market research study by HTF MI offers detailed product outlook"
-    publishedDateTime: 2020-11-11T07:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-and-trucks-market-to-eyewitness-massive-growth-by-2026-general-motors-honda-motor-nissan-motor-2020-11-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Honda’s self-driving system wins OK for use on busy roads in Japan"
-    excerpt: "Honda is launching a new version of its Legend sedan that will take over for drivers on busy highways after the company got approval for its self-driving system in Japan."
-    publishedDateTime: 2020-11-11T15:30:00Z
-    webUrl: "https://www.wraltechwire.com/2020/11/11/hondas-self-driving-system-wins-ok-for-use-on-busy-roads-in-japan/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 24
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2020/11/honda-4967587_1280-e1605108185813-1024x576.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Honda To Produce Self-Driving Cars Capable Of Navigating Heavy Traffic"
     excerpt: "Shutterstock The Honda Legend luxury sedan will have \"traffic jam pilot\" technology, allowing drivers to take their eyes off the road"
@@ -194,15 +114,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 4
-  - title: "Ford: Playing it safe. There is no other way to launch self-driving cars"
-    excerpt: "That same mindset dominates how Ford approaches the introduction of self-driving cars. Just as decades of experience have given us safe and reliable development processes for human-driven cars, we need to draw upon that experience and develop the same processes for self-driving ones."
-    publishedDateTime: 2020-11-11T08:26:00Z
-    webUrl: "https://www.automotiveworld.com/news-releases/ford-playing-it-safe-there-is-no-other-way-to-launch-self-driving-cars/"
-    type: article
-    provider:
-      name: Automotive World
-      domain: automotiveworld.com
-    quality: 3
 
 secured: "Sy9tNr2txKCtFnk0gImFjx2+kd/NXNNBrlBKJf6GjloeDAP12q7pZyfWkE+XZYFDpABSVzVJwFIQv0NRUPajzu9PALAYHWkt1Zxapty+O1ykDqMESoPRP3kc9szmlZuthlUBeqpdpVe8VGTyg+UgvKOIuimue6ZYuYOUBoGogLZYWXTUOJXKNJdYZIubOTvjZlU4YTtR3jNQHzJtWy42RKDT6gxq9a0ElHzrTIgG+gQTPa0CXFB88xOegMsRUyzgQjLpM6p7Vzcw3r13pnYKytvZ3OUcKxnOdlYOn7cC76JroEUJXlt+yi/qW8LBWSIcu16wNBsD3umhWb/x/gFjSV2FGbf37w8+rMEjAJU1+PM=;s9w6Np2rjbqc1JOffosiLw=="
 ---

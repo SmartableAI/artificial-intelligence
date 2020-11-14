@@ -2,14 +2,14 @@
 category: news
 title: "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker"
 excerpt: "Amazon SageMaker is a fully managed service from Amazon Web Services (AWS) that provides every developer and data scientist with the ability to build, train, and deploy ML models quickly."
-publishedDateTime: 2020-11-11T18:55:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791744"
-webUrl: "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791744"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791744"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791744"
+publishedDateTime: 2020-11-12T00:36:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683"
+webUrl: "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683"
 type: article
-quality: 103
-heat: 123
+quality: 101
+heat: 121
 published: true
 
 provider:
@@ -24,7 +24,6 @@ topics:
   - AWS AI
   - AI
   - Machine Learning
-  - AI in Finance
 
 related:
   - title: "Configuring Amazon SageMaker Studio for teams and groups with complete resource isolation"
@@ -56,6 +55,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "tHu0UjzQQM4zzmvxqSaMOtiMbHHDgsbFuN4fPrmT5LHn8SUIQfGavaiOLGceS8OZzAL81BgEpU5vIrzpNByoPxIE1wQncieGt7aQTXue0bAzefmILi+QMB1VOmyPaYX29E2XtDg81EjX9GAh09VmT+tAe9i5amxzFhgMzpp0zcmMlBrVBalLNSZKA/Yktmu9OcjIyhcAabwHYiKyOspSENNBAUi9EeB03Qyz2bVMDZsz9tLX26RtNigSSB7EJ5qZYEQ9Ynw/HE/IYv34MaUBwRZjHIDwi/h0BytFJyckr41OmlkrOYaoVB8SQ21W/+2Tsf3jW8p55/J2vMIzjxhHS5gg41oJlMZpsZ1KY9a0usg=;nXMfpjtYHT/9VDkuAoGqIg=="
+secured: "AjCwRhERdP8+6YtaP1wINfZ4qwBWpwVJCGND8ftVjkR0g90dK/7RdHP809xep4Hyj0U5CyT40JVmqDS9B6tQf3AHF2hsjkn7mVFr3UAs2PIvjWr3DcM48cjct38AjEcxc69BAiJrhiUeZa9HIzMTZHxenS8QsTUBqWmE1i44M7/bPnPMtJabzHnZTsG8Yj0o23QI2/LIi4NFUOzyiovzO+SEwRO5oxj1hVzMPW7TFFkr5Tb8ASr0lBZpUrNZnoSxqD/h6VoPRUFnVCGyho1lSRfrX7IMrmxsaISn9ChsIdaRA0n8i5Ut9dXcV7cMbn+eu/J2DKuwXyRJNdAScxG90giINfXS+KzVnNCBVaz77BI=;h9IO2QwHS+6BUGfWUFkyyQ=="
 ---
 

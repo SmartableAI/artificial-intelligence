@@ -19,105 +19,224 @@ topics:
   - AI
 
 related:
-  - title: "Honda claims it'll be the first to mass produce level 3 self-driving cars"
-    excerpt: "They could overtake slow cars by themselves. Virtually every semi-autonomous car you’ve seen on the road, even Teslas with Autopilot, uses level 2 self-driving — they may save you from steering or hitting the accelerator,"
-    publishedDateTime: 2020-11-11T16:35:00Z
-    webUrl: "https://www.engadget.com/honda-to-mass-produce-level-3-self-driving-cars-163208006.html"
-    ampWebUrl: "https://www.engadget.com/amp/honda-to-mass-produce-level-3-self-driving-cars-163208006.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/honda-to-mass-produce-level-3-self-driving-cars-163208006.html"
+  - title: "Walmart and Cruise launch pilot to deliver orders via self-driving cars"
+    excerpt: "As part of the pilot, which is scheduled to begin in early 2021, customers will be able to place orders from a Walmart and have them delivered via one of Cruise’s electric self-driving Chevy Bolts."
+    publishedDateTime: 2020-11-10T14:15:00Z
+    webUrl: "https://venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars/"
+    ampWebUrl: "https://venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars/amp/"
     type: article
     provider:
-      name: YAHOO!News
-      domain: engadget.com
-    quality: 88
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F4f2b8c20-2436-11eb-b7b7-4bf22a2a36a8&client=amp-blogside-v2&signature=f3a493c3b8522b7fbef3bc164f1803488841034a"
-        width: 600
-        height: 350
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/Walmart-Cruise-e1604958243157.png?fit=800%2C450&strip=all"
+        width: 800
+        height: 400
         isCached: true
-  - title: "Honda says will be first to mass produce level 3 autonomous cars"
-    excerpt: "Japan's Honda Motor Co said on Wednesday it will be the world's first automaker to mass produce sensor-packed level 3 autonomous cars that will allow drivers to let their vehicles navigate congested expressway traffic."
-    publishedDateTime: 2020-11-11T11:59:00Z
-    webUrl: "https://www.reuters.com/article/honda-autonomous-level3-idUSKBN27R0M7"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27R0M7"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27R0M7"
+  - title: "Walmart and GM's Cruise partner for self-driving deliveries in Arizona"
+    excerpt: "Planning a Walmart trip? Scottsdale locals will be able to have their goods delivered with zero-contact by a Cruise self-driving car prototype."
+    publishedDateTime: 2020-11-10T18:01:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/walmart-gm-cruise-self-driving-delivery-arizona/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/walmart-gm-cruise-self-driving-delivery-arizona/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/walmart-gm-cruise-self-driving-delivery-arizona/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/U3I17pYWdSZXQ6Eg96KSpepx2qo=/2020/11/10/0342d75b-fa7a-470d-b271-57ef09ab9be7/download-copy.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Walmart partners with GM's Cruise on self-driving delivery pilot in AZ"
+    excerpt: "Walmart Inc is adding Cruise, a majority-owned affiliate of U.S. automaker General Motors Co <GM.N>, to its roster of self-driving startup partners, in a pilot delivery program early next year in Scottsdale,"
+    publishedDateTime: 2020-11-10T21:42:00Z
+    webUrl: "https://www.reuters.com/article/autonomous-cruise-walmart-idUSKBN27Q25S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q25S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q25S"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 74
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201111&t=2&i=1540803398&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAA0AY"
-        width: 801
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540705024&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA914Y"
+        width: 949
         height: 545
         isCached: true
-  - title: "Honda to mass-produce Level 3 autonomous cars by March"
-    excerpt: "Honda claims it will be the first automaker to mass-produce vehicles with autonomous capabilities that meet SAE Level 3 standards, with plans to begin producing and selling a version of its Honda Legend luxury sedan with fully approved automated driving equipment in Japan from next March."
-    publishedDateTime: 2020-11-11T15:59:00Z
-    webUrl: "https://techcrunch.com/2020/11/11/honda-to-mass-produce-level-3-autonomous-cars-by-march/"
-    ampWebUrl: "https://techcrunch.com/2020/11/11/honda-to-mass-produce-level-3-autonomous-cars-by-march/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/11/honda-to-mass-produce-level-3-autonomous-cars-by-march/amp/"
+  - title: "Walmart Teams Up With GM's Cruise on Self-Driving Deliveries"
+    excerpt: "Walmart (NYSE:WMT) said today that it is teaming up with Cruise, the autonomous-vehicle company controlled by General Motors (NYSE:GM), in its latest experiment with self-driving delivery vehicles. Walmart said that it has agreed to a pilot program with Cruise,"
+    publishedDateTime: 2020-11-10T19:12:00Z
+    webUrl: "https://www.fool.com/investing/2020/11/10/walmart-teams-up-with-gms-cruise-on-self-driving-d/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/11/10/walmart-teams-up-with-gms-cruise-on-self-driving-d/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/10/walmart-teams-up-with-gms-cruise-on-self-driving-d/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
+      name: The Motley Fool
+      domain: fool.com
     quality: 74
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/11/honda-legend-profile.jpg?w=800"
-        width: 800
-        height: 450
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F600153%2Fcruise-walmart-111020.jpg&w=1200&op=resize"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Velodyne Aims to Price New Self-Driving Car Sensor Below $500"
-    excerpt: "Velodyne Lidar Inc said on Friday it would introduce a new lidar unit, a key sensor in self-driving cars, with a target price point of less than $500 and no moving parts. Velodyne became a public company in September and is one of several companies vying to supply automakers with lidar,"
-    publishedDateTime: 2020-11-14T15:33:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-11-13/velodyne-targets-sub-500-price-point-for-self-driving-car-sensor"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-11-13/velodyne-targets-sub-500-price-point-for-self-driving-car-sensor?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-11-13/velodyne-targets-sub-500-price-point-for-self-driving-car-sensor?context=amp"
+  - title: "Walmart Tests Self-Driving Car Deliveries in Arizona"
+    excerpt: "When customers in Scottsdale order items from their local Walmart, they will be able to choose a contact-free delivery from one of Cruise’s cars."
+    publishedDateTime: 2020-11-10T23:14:00Z
+    webUrl: "https://www.pcmag.com/news/walmart-tests-self-driving-car-deliveries-in-arizona"
+    ampWebUrl: "https://www.pcmag.com/news/walmart-tests-self-driving-car-deliveries-in-arizona?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/walmart-tests-self-driving-car-deliveries-in-arizona?amp=true"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 69
-  - title: "Weather-proof chip aims to take self-driving tech, wireless communications to next level"
-    excerpt: "A new device can overcome challenges like bad weather to deliver more secure, reliable communications. This could aid military communications in challenging areas, improve the ability of self-driving cars to see the environment around them and speed up wireless data for potential 6G networks."
-    publishedDateTime: 2020-11-13T09:42:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/11/201112145432.htm"
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 74
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03PN0mWV278CIW8clSXdlaW-1.1605047430.fit_lim.size_1200x630.png"
+        width: 920
+        height: 518
+        isCached: true
+  - title: "Walmart will test Cruise self-driving electric car deliveries in 2021"
+    excerpt: "Walmart has tapped General Motors subsidiary Cruise for a new pilot test that’ll involve delivering goods to customers using self-driving electric vehicles. The autonomous EV deliveries will"
+    publishedDateTime: 2020-11-10T23:51:00Z
+    webUrl: "https://www.slashgear.com/walmart-will-test-cruise-self-driving-electric-car-deliveries-in-2021-10646715/"
+    ampWebUrl: "https://www.slashgear.com/walmart-will-test-cruise-self-driving-electric-car-deliveries-in-2021-10646715/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/walmart-will-test-cruise-self-driving-electric-car-deliveries-in-2021-10646715/amp/"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 57
-  - title: "Honda, First To Mass Produce Level 3 Self-Driving Cars: Reuters"
-    excerpt: "The Japanese government awarded Honda Motor Co Ltd (NYSE: HMC) a safety certification to the automaker’s “Traffic Jam Pilot” self-driving technology, Reuters reports. What Happened: Honda plans to launch its luxury sedan (Honda Legend) sales with the ..."
-    publishedDateTime: 2020-11-11T12:51:00Z
-    webUrl: "https://www.benzinga.com/news/20/11/18318098/honda-first-to-mass-produce-level-3-self-driving-cars-reuters"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18318098"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18318098"
+      name: SlashGear
+      domain: slashgear.com
+    quality: 74
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/11/walmart_cruise_EV_main.jpg"
+        width: 1426
+        height: 800
+        isCached: true
+  - title: "Want Speedy Delivery? Walmart Is Revving Things Up With Self-Driving Cars"
+    excerpt: "Walmart today said it will be piloting delivery via all-electric self-driving cars with Cruise, a General Motors majority-owned company."
+    publishedDateTime: 2020-11-10T19:41:00Z
+    webUrl: "https://www.forbes.com/sites/sharonedelson/2020/11/10/want-speedy-delivery-walmart-is-revving-things-up-with-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/sharonedelson/2020/11/10/want-speedy-delivery-walmart-is-revving-things-up-with-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sharonedelson/2020/11/10/want-speedy-delivery-walmart-is-revving-things-up-with-self-driving-cars/amp/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Forbes
+      domain: forbes.com
+    quality: 73
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faace08f6fa72dd2b6c7bcb%2F0x0.png"
+        width: 1199
+        height: 675
+        isCached: true
+  - title: "Walmart To Test Robotic Deliveries With Electric Cruise Self-Driving Vehicles"
+    excerpt: "Walmart is trying to learn whether robotic deliveries fit in with its retail operations so it’s launching the latest pilot program with General Motors-backed Cruise."
+    publishedDateTime: 2020-11-10T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/alanohnsman/2020/11/10/walmart-to-test-robotic-deliveries-with-electric-cruise-self-driving-vehicles/"
+    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2020/11/10/walmart-to-test-robotic-deliveries-with-electric-cruise-self-driving-vehicles/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/11/10/walmart-to-test-robotic-deliveries-with-electric-cruise-self-driving-vehicles/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 71
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faa1c3d509d05f9c63f13cb%2F0x0.jpg%3FcropX1%3D236%26cropX2%3D1677%26cropY1%3D186%26cropY2%3D1053"
+        width: 1200
+        height: 722
+        isCached: true
+  - title: "Walmart teams with electric self-driving carmaker Cruise in the retail giant's latest push for futuristic delivery technology"
+    excerpt: "Walmart shoppers in Scottsdale, Arizona, will be first to test out the company's latest driverless delivery trial."
+    publishedDateTime: 2020-11-10T14:12:00Z
+    webUrl: "https://www.businessinsider.com/walmart-teams-with-electric-self-driving-car-company-cruise-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/walmart-teams-with-electric-self-driving-car-company-cruise-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/walmart-teams-with-electric-self-driving-car-company-cruise-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+    images:
+      - url: "https://i.insider.com/5fa9b2941df1d50018219b47?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Walmart partners with GM's Cruise on self-driving delivery pilot in AZ"
+    excerpt: "(Reuters) - Walmart Inc is adding Cruise, a majority-owned affiliate of U.S. automaker General Motors Co <GM.N>, to its roster of self-driving startup partners, in a pilot delivery program early next year in Scottsdale,"
+    publishedDateTime: 2020-11-10T15:04:00Z
+    webUrl: "https://www.businessinsider.com/walmart-partners-with-gms-cruise-on-self-driving-delivery-pilot-in-az-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/walmart-partners-with-gms-cruise-on-self-driving-delivery-pilot-in-az-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/walmart-partners-with-gms-cruise-on-self-driving-delivery-pilot-in-az-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+  - title: "Walmart teams up with Cruise for electric self-driving deliveries"
+    excerpt: "Walmart announced a new partnership to promote automated, contactless delivery Tuesday. The Bentonville-based retailer will be partnering with self-driving"
+    publishedDateTime: 2020-11-10T14:40:00Z
+    webUrl: "https://www.nwahomepage.com/news/walmart-teams-up-with-cruise-for-electric-self-driving-deliveries/"
+    ampWebUrl: "https://www.nwahomepage.com/news/walmart-teams-up-with-cruise-for-electric-self-driving-deliveries/amp/"
+    cdnAmpWebUrl: "https://www-nwahomepage-com.cdn.ampproject.org/c/s/www.nwahomepage.com/news/walmart-teams-up-with-cruise-for-electric-self-driving-deliveries/amp/"
+    type: article
+    provider:
+      name: KNWA News
+      domain: nwahomepage.com
     quality: 44
     images:
-      - url: "https://www.benzinga.com/files/images/story/2012/honda_legend_2018.jpg"
-        width: 4485
-        height: 2085
+      - url: "https://www.nwahomepage.com/wp-content/uploads/sites/90/2020/11/Walmart-cruise-av-still.jpg?w=1280"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Honda Hints It Will the First to Release Level 3 Self-Driving Vehicles"
-    excerpt: "Honda has declared that it will be the first automaker to put out level 3 self-driving vehicles. It’s a bold move that gives the company a competitive advantage against most automakers — even Tesla only has level 2 self-driving cars at the moment."
-    publishedDateTime: 2020-11-12T06:52:00Z
-    webUrl: "https://hypebeast.com/2020/11/honda-first-level-3-self-driving-cars-info"
-    ampWebUrl: "https://hypebeast.com/2020/11/honda-first-level-3-self-driving-cars-info?amp=1"
-    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/11/honda-first-level-3-self-driving-cars-info?amp=1"
+  - title: "Walmart, GM to test delivery with self-driving cars in Scottsdale"
+    excerpt: "Walmart is teaming up with the General Motors' autonomous vehicle unit to test driverless delivery in Arizona starting early next year."
+    publishedDateTime: 2020-11-11T01:05:00Z
+    webUrl: "https://ktar.com/story/3689937/walmart-gm-to-test-delivery-with-self-driving-cars-in-scottsdale/"
+    ampWebUrl: "https://ktar.com/story/3689937/walmart-gm-to-test-delivery-with-self-driving-cars-in-scottsdale/amp/"
+    cdnAmpWebUrl: "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/3689937/walmart-gm-to-test-delivery-with-self-driving-cars-in-scottsdale/amp/"
     type: article
     provider:
-      name: Hypebeast
-      domain: hypebeast.com
+      name: KTAR News
+      domain: ktar.com
     quality: 44
     images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F11%2Fhonda-first-level-3-self-driving-cars-info-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
-        width: 1076
-        height: 717
+      - url: "https://ktar.com/wp-content/uploads/2020/11/walmart-driverless.jpg"
+        width: 620
+        height: 370
+        isCached: true
+  - title: "Walmart partners with GM’s Cruise to test self-driving car deliveries"
+    excerpt: "Walmart is adding Cruise, a majority-owned affiliate of General Motors, to its roster of self-driving startup partners, in a pilot delivery program early next year in Scottsdale, Ariz.,"
+    publishedDateTime: 2020-11-10T20:57:00Z
+    webUrl: "https://nypost.com/2020/11/10/walmart-partners-with-gms-cruise-to-test-self-driving-car-deliveries/"
+    ampWebUrl: "https://nypost.com/2020/11/10/walmart-partners-with-gms-cruise-to-test-self-driving-car-deliveries/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/10/walmart-partners-with-gms-cruise-to-test-self-driving-car-deliveries/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 44
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/walmart-gm-delivery.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Walmart, Cruise to test grocery delivery in self-driving cars"
+    excerpt: "Walmart and Cruise LLC are starting a pilot program early next year for customers to have their groceries delivered by one of Cruise’s all-electric self-driving cars, Walmart said in a Tuesday blog post ."
+    publishedDateTime: 2020-11-12T12:06:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/general-motors/2020/11/10/walmart-cruise-form-pilot-grocery-delivery/6235852002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/6235852002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/6235852002"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 44
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/10/PDTN/31363959-3997-4b17-ab4f-7855172e2a15-walmart.png?auto=webp&crop=919,517,x0,y40&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Walmart teams up with GM's Cruise to test grocery delivery with self-driving cars"
     excerpt: "Walmart announced Tuesday that the company has joined forces with self-driving car company Cruise to test out autonomous grocery delivery in Arizona."
@@ -151,57 +270,148 @@ related:
         width: 932
         height: 470
         isCached: true
-  - title: "Self-driving Cars and Trucks Market to Eyewitness Massive Growth by 2026 | General Motors, Honda Motor, Nissan Motor"
-    excerpt: "Nov (Heraldkeepers) -- Latest added Global Self-driving Cars and Trucks Market research study by HTF MI offers detailed product outlook"
-    publishedDateTime: 2020-11-11T07:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-and-trucks-market-to-eyewitness-massive-growth-by-2026-general-motors-honda-motor-nissan-motor-2020-11-10"
+  - title: "Walmart & Cruise with Self-Driving will Deliver in AZ"
+    excerpt: "Walmart is cruising over to Scottsdale, Arizona, to rev up a new pilot with self-driving car company, Cruise. What’s unique about Cruise is they’re the only self-driving car company to operate an"
+    publishedDateTime: 2020-11-11T01:22:00Z
+    webUrl: "https://www.autoconnectedcar.com/2020/11/walmart-cruise-with-self-driving-will-deliver-in-az/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
+      name: autoconnectedcar.com
+      domain: autoconnectedcar.com
+    quality: 24
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2020/11/cruisewalmart.jpg"
+        width: 408
+        height: 256
+        isCached: true
+  - title: "Walmart to pilot all-electric self-driving delivery in 2021"
+    excerpt: "Walmart will launch a pilot in Scottsdale, Ariz., with self-driving car company Cruise to operate an entire fleet of all-electric delivery vehicles powered with 100% renewable energy. The project will support the retail giant’s initiative to reach zero emissions by 2040."
+    publishedDateTime: 2020-11-10T18:45:00Z
+    webUrl: "https://www.supermarketnews.com/sustainability/walmart-pilot-all-electric-self-driving-delivery-2021"
+    type: article
+    provider:
+      name: Supermarket News
+      domain: supermarketnews.com
+    quality: 24
+    images:
+      - url: "https://www.supermarketnews.com/sites/supermarketnews.com/files/cruise-av-still.png"
+        width: 1800
+        height: 1013
+        isCached: true
+  - title: "Walmart and Self-Driving Delivery Cars"
+    excerpt: "Walmart announced that it will begin experimenting with self-driving cars in a pilot program with General Motors-backed Cruise (a tech start-up with electric, self-driving cars) to deliver groceries a"
+    publishedDateTime: 2020-11-12T19:47:00Z
+    webUrl: "https://www.natlawreview.com/article/walmart-and-self-driving-delivery-cars"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 24
+    images:
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/13513/walmart%20sign%20US%20flag_1_0.jpg?itok=4FprrAuI"
+        width: 500
+        height: 682
+        isCached: true
+  - title: "Walmart to Launch Self-Driving Delivery Pilot in Arizona"
+    excerpt: "Walmart announced Tuesday that it is launching a pilot program in Scottsdale, Arizona, for all-electric self-driving car deliveries. The effort is being done in conjunction with the self-driving car company Cruise,"
+    publishedDateTime: 2020-11-13T10:57:00Z
+    webUrl: "https://nationalinterest.org/blog/techland/walmart-launch-self-driving-delivery-pilot-arizona-172414"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 24
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/2020-11-10T140052Z_139583049_RC2E0K9RJCK3_RTRMADP_3_AUTONOMOUS-CRUISE-WALMART.JPG.jpg"
+        width: 1222
+        height: 802
+        isCached: true
+  - title: "Walmart, Cruise to test grocery delivery in self-driving cars"
+    excerpt: "Walmart and Cruise LLC are starting a pilot program early next year for customers to have their groceries delivered by one of Cruise's all-electric self-driving cars, Walmart said. The pilot, which will start in Scottsdale,"
+    publishedDateTime: 2020-11-13T17:11:00Z
+    webUrl: "https://www.startribune.com/walmart-cruise-to-test-grocery-delivery-in-self-driving-cars/573066812/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 24
+    images:
+      - url: "https://stmedia.stimg.co/ows_1698e21a-0170-410a-9476-481b52e6cc95.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
         width: 1200
         height: 630
         isCached: true
-  - title: "Honda’s self-driving system wins OK for use on busy roads in Japan"
-    excerpt: "Honda is launching a new version of its Legend sedan that will take over for drivers on busy highways after the company got approval for its self-driving system in Japan."
-    publishedDateTime: 2020-11-11T15:30:00Z
-    webUrl: "https://www.wraltechwire.com/2020/11/11/hondas-self-driving-system-wins-ok-for-use-on-busy-roads-in-japan/"
+  - title: "GM's Cruise partners with Walmart on self-driving delivery pilot in Ariz."
+    excerpt: "Walmart Inc. is adding Cruise, a majority-owned affiliate of U.S. automaker General Motors, to its roster of self-driving startup partners, in a pilot delivery program early next year in Scottsdale, Ariz."
+    publishedDateTime: 2020-11-10T13:47:00Z
+    webUrl: "https://www.autonews.com/mobility-report/gms-cruise-partners-walmart-self-driving-delivery-pilot-ariz"
     type: article
     provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 24
+      name: Automotive News
+      domain: autonews.com
+    quality: 23
     images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2020/11/honda-4967587_1280-e1605108185813-1024x576.jpg"
-        width: 1024
-        height: 576
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/walmart.jpg"
+        width: 800
+        height: 600
         isCached: true
-  - title: "Honda To Produce Self-Driving Cars Capable Of Navigating Heavy Traffic"
-    excerpt: "Shutterstock The Honda Legend luxury sedan will have \"traffic jam pilot\" technology, allowing drivers to take their eyes off the road"
-    publishedDateTime: 2020-11-13T10:16:00Z
-    webUrl: "https://www.kabc.com/2020/11/13/honda-to-produce-self-driving-cars-capable-of-navigating-heavy-traffic/"
+  - title: "Walmart taps self-driving vehicle startup Cruise for autonomous deliveries"
+    excerpt: "The collaboration is part of the mass merchant's effort to modernize deliveries and lessen environmental impact."
+    publishedDateTime: 2020-11-12T15:05:00Z
+    webUrl: "https://www.retaildive.com/news/walmart-taps-self-driving-vehicle-startup-cruise-for-autonomous-deliveries/588800/"
     type: article
     provider:
-      name: KABC
-      domain: kabc.com
-    quality: 24
+      name: Retail Dive
+      domain: retaildive.com
+    quality: 22
     images:
-      - url: "https://express-images.franklymedia.com/6616/sites/320/2020/11/12115213/autonomous-car-shutterstock_643585552.jpg"
-        width: 589
-        height: 424
+      - url: "https://www.retaildive.com/user_media/cache/7f/c1/7fc123e8e187c50b5435f3abb9b84a89.jpg"
+        width: 770
+        height: 364
         isCached: true
-  - title: "Honda looks to break away in self-driving race"
-    excerpt: "Honda (NYSE:HMC) says it will be the first automaker in the world to mass produce sensor-packed level 3 autonomous cars that will allow drivers to let their vehicles navigate congested expressway traffic."
-    publishedDateTime: 2020-11-11T13:08:00Z
-    webUrl: "https://seekingalpha.com/news/3634896-honda-looks-to-break-away-in-self-driving-race"
+  - title: "Walmart partners with Cruise in a pilot for self-driving car delivery service"
+    excerpt: "Walmart Inc. and General Motors Co. subsidiary Cruise LLC have agreed to partner on a self-driving delivery service in Scottsdale, Arizona, it was announced today. In April, Walmart launched its “Express Delivery” service,"
+    publishedDateTime: 2020-11-11T04:39:00Z
+    webUrl: "https://siliconangle.com/2020/11/10/walmart-partners-cruise-pilot-self-driving-car-delivery-service/"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 21
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/Capture.png"
+        width: 869
+        height: 566
+        isCached: true
+  - title: "Walmart and self-driving car company Cruise pilot grocery deliveries in Arizona"
+    excerpt: "UNFI reaches labor accords with Teamsters in New York, CaliforniaUnited Natural Foods Inc. (UNFI) and Teamsters union locals in New York and California have agreed to new"
+    publishedDateTime: 2020-11-11T13:32:00Z
+    webUrl: "https://www.freshplaza.com/article/9267196/walmart-and-self-driving-car-company-cruise-pilot-grocery-deliveries-in-arizona/"
+    type: article
+    provider:
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 20
+    images:
+      - url: "https://www.freshplaza.com/remote.axd?https://agfstorage.blob.core.windows.net/misc/FP_com/2020/index_foto_retail/Retail_Walmart_3009.jpg?preset=OgImage"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Walmart is expanding its fleet of self-driving cars to Scottsdale, Arizona for a pilot delivery program with autonomous startup Cruise"
+    excerpt: "Walmart is set to roll out a pilot delivery program next year with GM-owned Cruise that will use self-driving Chevy Bolt vehicles to delivery orders from stores to homes in Scottsdale, Arizona."
+    publishedDateTime: 2020-11-10T17:22:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8934369/Walmart-teams-GM-test-autonomous-deliveries.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8934369/amp/Walmart-teams-GM-test-autonomous-deliveries.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8934369/amp/Walmart-teams-GM-test-autonomous-deliveries.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 12
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/11/10/17/35520040-0-image-a-31_1605028911780.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "h8sZ6YEFIeXyQ784vPt+ypUwr+3K+wGTCL4jsuUyMI7M9kC67Kt5STBf5pBUlCzo1S1WgFr0IAuCT+FqzCLiM6eheJUKvHBp8kbuo+CPyFWXRUOoQWQtsgQCR8kLAMBBHjf0Vax3PTsjJs0zpJ6K547/fS6xiMShqKJcsOAavrXnXW2KWqzGbBMWJvkdnf6IxTDmIioOGNB+tHmfzToWJ/PzrNCzJqmCJ0YYTz7SxNWD8uSHp/9x2fKuaOz7uwI/sgPMTH1zPzKaRtx23EHw0b6lXe6ynr8Du+Z1g/0GrIWxQveynxna1KuQK2JQwh9ymdM73pZbwDXFzOOSNTvvKTecOgALG7NrSxpXQaTIGrc=;gn+jL3jTgGQRwNUB0idW5Q=="
 ---
