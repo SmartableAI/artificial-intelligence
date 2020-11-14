@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-12T19:21:00Z
 originalUrl: "https://siliconangle.com/2020/11/12/androids-neural-networks-api-adds-support-pytorch-enable-device-ai-processing/"
 webUrl: "https://siliconangle.com/2020/11/12/androids-neural-networks-api-adds-support-pytorch-enable-device-ai-processing/"
 type: article
-quality: 62
+quality: 64
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Machine Learning
   - AI
   - Facebook AI
+  - Google AI
 
 images:
   - url: "https://siliconangle.com/files/2015/08/PLACEHOLDER-SiliconANGLE.png"

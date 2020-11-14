@@ -1,22 +1,34 @@
 ---
 category: news
 title: "Uber in talks to sell its ATG self-driving unit to Aurora - source"
-excerpt: "Uber Technologies Inc UBER.N is in talks to sell its autonomous driving unit, Uber Advanced Technologies Group (ATG), to self-driving car startup Aurora, a source familiar with the matter told Reuters."
-publishedDateTime: 2020-11-13T23:44:00Z
-originalUrl: "https://www.nasdaq.com/articles/uber-in-talks-to-sell-its-atg-self-driving-unit-to-aurora-source-2020-11-13"
-webUrl: "https://www.nasdaq.com/articles/uber-in-talks-to-sell-its-atg-self-driving-unit-to-aurora-source-2020-11-13"
+excerpt: "Uber Technologies Inc <UBER.N> is in talks to sell its autonomous driving unit, Uber Advanced Technologies Group (ATG), to self-driving car startup Aurora, a source familiar with the matter told Reuters."
+publishedDateTime: 2020-11-14T04:45:00Z
+originalUrl: "https://www.reuters.com/article/us-uber-aurora-idUSKBN27T30K"
+webUrl: "https://www.reuters.com/article/us-uber-aurora-idUSKBN27T30K"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T30K"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T30K"
 type: article
-quality: 34
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541170142&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1RR"
+    width: 816
+    height: 545
+    isCached: true
 
 related:
   - title: "Velodyne aims to price new self-driving car sensor below $500"
@@ -74,6 +86,6 @@ related:
       domain: businessinsider.com
     quality: 54
 
-secured: "tM1cu2CJ7fWFSOujLjcuVgH3NDHrhn232TuGEv5Z2AqMmATqXXtkoYdLqEKJ5+b7uCcApQq+tit3Jnc6wAPDsE+lkNrerYORF2HUKyKirFv4s4tzPQSO8S1MoxHazjKN5Uvg/lIHpWz3xgvTy+bL9RjJ8mvU7RWI5KdPjYgTYILx8s+I9S3AENiqX/3HiJ/PoAL882V9msdTZD69vNUfGqc+kULwE+T0kZwb6CNXVeQlZ2zSxciUXcnepYrN88LgT6r0IjKeEn9JqG4GWmt8/FH/3/kPj/buwDFe7O+kt7ZIx4TVOYU21VuObL9mDtDdomxC/JByn7u+YXSwYX6Ws1amZFh7zi2xIPdbvXCr6JeHS7KSNz+57bz0xxU5GPpKMWl932dlopz5nSURLnnBUuNklbhZtThMQ635VuYkYIjOya9DP+FhsWhXDRSewydmICXrUvIxJjidU7Ze9k6PhFQw6JA+1zbG++WVad0XY1R4ckaG98pX+97rYR6zr9i3VZ1zhBhlZH2+tOkVsuxwdA==;EfixjCuqT52qs/AfC+kTRA=="
+secured: "97J5dI8mFgR4QMWsnZ4y1PuZHPegJn3FboT6Ic6TjnIe8LuKNc6xcw9/bOG2+L7RGtghlf11L2oh7ZLHRm4ppcQ5Tw7d9cC6i9UzJFAMAnLpHYHOXqL9+q9+Aec3IgAfVI/yAIJVXHBNw4gHQqqJDlg/h/vZNRl6jaqUqHHYZO1aUwM7HQ3czU0f6iBdLKPt7gGWF6DUxXAIYn3W96Tkn24obq/hNhvb4Vx7GUR8ZX32RSC4Sr1N6YIGbJ48DmnSk0aIT9CURjcAWh0934UrZZASBRUh4bbxP7+9gwr1EcGxZEePXnQgCFzubv1XeSqvdAaFvNJ0IazKNuqh7h8WGlgP1RNYMc7QymOdF/tL7RA=;E9vGiR9opcUxcAbfi/qUQA=="
 ---
 

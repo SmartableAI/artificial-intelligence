@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2020/madrona-leads-2-6m-round-othersideai-s
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/madrona-leads-2-6m-round-othersideai-startup-using-gpt-3-tech-write-automated-emails/amp/"
 type: article
 quality: 77
-heat: 77
+heat: 80
 published: true
 
 provider:

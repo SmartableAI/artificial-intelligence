@@ -9,7 +9,7 @@ ampWebUrl: "https://punchng.com/fg-inaugurates-robotics-artificial-intelligence-
 cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/fg-inaugurates-robotics-artificial-intelligence-centre/?amp=1"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -65,6 +65,15 @@ related:
     provider:
       name: The Guardian Nigeria
       domain: guardian.ng
+    quality: 49
+  - title: "Pantami commissions centre for Artificial Intelligence, Robotics"
+    excerpt: "Benjamin Babine, Abuja The Minister of Communications and Digital Economy, Dr. Isa Pantami has on Friday inaugurated the Centre"
+    publishedDateTime: 2020-11-14T08:13:00Z
+    webUrl: "https://www.sunnewsonline.com/pantami-commissions-centre-for-artificial-intelligence-robotics/"
+    type: article
+    provider:
+      name: The Sun
+      domain: sunnewsonline.com
     quality: 49
 
 secured: "tBCum9TQh4rKIUGeNntNjM+yxKqkYiKhlbHS8Kah9wBDMoiHpNtdtBFXlLDBRYznL4iMm9uO1XkPILVpoMTW1JfCfflXQjE0n66q60CuKqOpZbfpqGj+a7UMR1jyK9YfsrIxLL4lj6uZRjjYDuOVJrwW+wG+AMsqaWzgYpeq/yi+mgVSjXHA+Ok4rWjklvQyjnqzhYUD2HuLkbkQdKyQLfuQVDkIJZh3qy5oIaqSUIknptVUgWgYHmfNYVfrztDk9DhEaU0u9UqEfT9cBV5NojlXf+t+31aT6OIJhGUcfS2kC5n9gbdEWnXM/nqMkICpjOhmjjvEuaHwdpVEM4jPCXJ99r3fu/PVELo6BspWd/9+L7DY8TO89O/nTSXe08p69zpppyEdbfZ3Yug2MvVA8aNN7G0FVKCsvrw1M84s/7ppMTKgzxMRiZwkzcsTOdK2VryfxLthrTcQ8VmlqSEgsVU24l8ECBRA0lvzO6Sy91CXm+bh4R9DEbwiEVFm+YfvQ/22K9+paC5VkVGRkGwJlQ==;HcL0HApf5TxUmR+Hb8jybA=="

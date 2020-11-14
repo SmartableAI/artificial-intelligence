@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Nigerian govt to create jobs through robotics, artificial intelligence"
-excerpt: "Nigeria plans to reap from the potential 60 million jobs predicted to emanate globally from Artificial Intelligence and Robotics."
-publishedDateTime: 2020-11-14T05:48:00Z
-originalUrl: "https://www.premiumtimesng.com/news/top-news/426078-nigerian-govt-to-create-jobs-through-robotics-artificial-intelligence.html"
-webUrl: "https://www.premiumtimesng.com/news/top-news/426078-nigerian-govt-to-create-jobs-through-robotics-artificial-intelligence.html"
+excerpt: "The Nigerian government is planning to harness from the potential 60 million jobs predicted to be created globally through emerging technologies of Artificial Intelligence and Robotics. The Minister of Communications and Digital Economy,"
+publishedDateTime: 2020-11-14T07:07:00Z
+originalUrl: "https://www.withinnigeria.com/2020/11/14/nigerian-govt-to-create-jobs-through-robotics-artificial-intelligence/"
+webUrl: "https://www.withinnigeria.com/2020/11/14/nigerian-govt-to-create-jobs-through-robotics-artificial-intelligence/"
+ampWebUrl: "https://www.withinnigeria.com/2020/11/14/nigerian-govt-to-create-jobs-through-robotics-artificial-intelligence/amp/"
+cdnAmpWebUrl: "https://www-withinnigeria-com.cdn.ampproject.org/c/s/www.withinnigeria.com/2020/11/14/nigerian-govt-to-create-jobs-through-robotics-artificial-intelligence/amp/"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
-  name: Premium Times
-  domain: premiumtimesng.com
+  name: Within Nigeria
+  domain: withinnigeria.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2020/06/IMG_20200605_132521_886.jpg?fit=1080%2C810&#038;ssl=1"
-    width: 1080
-    height: 810
+  - url: "https://www.withinnigeria.com/wp-content/uploads/2020/04/03/pantami-understanding-the-shining-star-and-his-detractors.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
-secured: "TAHxyMC2ZpG4J1+c5KOcOOZIAYv7USC2t07smWmhdkgdumMDPqmi90hD23VjzC3/I+KI+bSmdAmmgt2h3zDTlAjbXDRHDVOOrEJ4YHJekX/mCHp/kND8EkV3P10Y4sKy+44ZM1/pBn7x4KliZ/BYrRjJl/ExFOe/I1CxukEDWY0/ugcMNIbSqYaY9sfFSOviTlz5H3f+aSd8XNlX3AA05doaykEqL6rOHuPQ95+3iAnjWHNJ4cQa6S6JZybIFNrvC1EtgBlHdAseftH1i4+Lep0G7/hia+tKODBCTCyLBBtidKPhPR0LkZ29Lu+YtIQvybQ/PQjNSCUGd01XcXMbfnWAy4gTqwuWMcgr+TwdfdU=;CJye5oAMY8PqOGvYP5OugA=="
+secured: "6a1m3whRXvijDF6mrmrszc5K1JwBl/EIvPzZbFyk3e1a4wgpQuOeWrvts9VDIUv+wEr8taGCcLYznuWdWYUamSItg/YC9ArP+Hn/2Liz9YuGJb5k+mdeS9FhxXyRSkxV99puUDghEIXs6UGsYDQlthFBQuZo4goOnme+GKeI6d1Mbxfh9AvEJ/I7yf0nTyITLPA6yM4cOtTEe/ab/D75spWBimEpbo9rR4rkgzi1HS96o5lXFGl59XQsVS3o+1zvIkMuHJk+IEYEyTuRksymHh3vZNpEo4Q7lyyw91auN2z5rOVKI0Hvx/QA43KsZqL30y/g2KnTiILUUqUNFHXL4rHmT8+iecIfA7LFj0y64ms=;rRh30H0ISoopwk47XibFDQ=="
 ---
 

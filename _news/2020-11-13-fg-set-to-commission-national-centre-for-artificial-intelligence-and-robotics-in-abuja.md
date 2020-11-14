@@ -66,6 +66,15 @@ related:
       name: The Guardian Nigeria
       domain: guardian.ng
     quality: 49
+  - title: "Pantami commissions centre for Artificial Intelligence, Robotics"
+    excerpt: "Benjamin Babine, Abuja The Minister of Communications and Digital Economy, Dr. Isa Pantami has on Friday inaugurated the Centre"
+    publishedDateTime: 2020-11-14T08:13:00Z
+    webUrl: "https://www.sunnewsonline.com/pantami-commissions-centre-for-artificial-intelligence-robotics/"
+    type: article
+    provider:
+      name: The Sun
+      domain: sunnewsonline.com
+    quality: 49
 
 secured: "unkemABC25hQFvgJg7Kx5qaypjFuFYNTCg5dGCy7BTxDDJtCucbXnHMi/WykgxRsuy4+Paia7jKNp7IRKJEIz1o1Ecjkkwlvy/PCtAjvu1FxteSdnRk0N2CCWFK4BBJC7e/6v4grDwTIrJTk2hLXKF++Fm4AjXcJC6AdrY6xyd4eW+adxdUxZssl8AsS3JlO1O4nRzl7SkxBewwbqg75QMCztET5RNHcbpE6hN2O/1Nzuu43wYyJCbysstjIoBP5+h2JwoTtj0ouTT1A8af4QsVdu0nzeIn707lCk8qaLSNKtN3X+p2OAIMrEXYAnIQ0JL38c3hgHsvOe36vPvQ2WNHClF4zjNBeNAp269BQyqf/qH8MJFTgyB3PAc0sI1Zy40hTO1YZ/J0599FHuj+ZjsiS0TqwdX/efvZ7B9aQuwUVo2qZ0fUgOARMdAfoyFdkoln2s+Ewj4Xwu3a2cA3meOuxKPtauZQYQ13PcIkiPuxCjSfdMZF9DWyAQ305Ov+m4LwFJWbPBG3gu/jRYdOYCA==;17uxIg1Mlga+b9HyAxxoIg=="
 ---

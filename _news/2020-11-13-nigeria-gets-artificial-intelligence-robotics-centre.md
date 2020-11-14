@@ -65,6 +65,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pantami commissions centre for Artificial Intelligence, Robotics"
+    excerpt: "Benjamin Babine, Abuja The Minister of Communications and Digital Economy, Dr. Isa Pantami has on Friday inaugurated the Centre"
+    publishedDateTime: 2020-11-14T08:13:00Z
+    webUrl: "https://www.sunnewsonline.com/pantami-commissions-centre-for-artificial-intelligence-robotics/"
+    type: article
+    provider:
+      name: The Sun
+      domain: sunnewsonline.com
+    quality: 49
 
 secured: "x3PH0BQe70sLP2+QuYGcEGDVWdZ/SQLRu/3lHOp3lKB284Fb6aknenKu9O3KG15sqCihYr/ZQ6F7V7m89FHJQa6o2CPr8VCc5VpiTar4cfxS1kCWrjb9Jp/+pXm7yUY6aWYLrLlSMJcAZi7375mX+kMsBrOMc+4tgCgWDXe9XS1ddYonDwm40ohayCGKXhy+rGZxpkIgxTV1G3RrfeYRlcf+DqKz/CQXbAvvv/zpeKKNa+jmJx922OQLMewqgY3Qqp54fKY9MSVmqaKZE8sMrjSyUNuXvNs8A+1m0S3N6NeZQl85b45a74suClJGwiTgh6xnyRsxKnf21wSGPhvULLMDoGsIBd9VL8Bl4EzCeRNeRqFJ32fdQ5g3H2fq/ryUYihAjqZvWe5+6e6WjX2Ts+IgLpRHRH80bjXcZR4dTCEGHT1FjGFkAMrPXsgPt3NvuzVMkgAXJpZqws/WOaeYrLOWeZlQ6rMTKHWTJc5sJh0PnZzjnZIMq4Dl5zgh5VoyHs4vt0JQOgc8S+PthDMlTA==;wpAl8JzIWhOpc1tMtirnJA=="
 ---

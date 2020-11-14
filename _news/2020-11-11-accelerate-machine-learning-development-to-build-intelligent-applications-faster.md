@@ -41,20 +41,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Accelerate Machine Learning Development to Build Intelligent Applications Faster"
-    excerpt: "This IDC Executive Summary looks at some of the trends around this nascent technology and how vendors such as Amazon Web Services (AWS) have developed services and tools for ML/DL that allow data scientists and developers to deploy ML/ DL models more quickly and easily."
-    publishedDateTime: 2020-11-09T16:00:00Z
-    webUrl: "https://www.infoworld.com/resources/210552/accelerate-machine-learning-development-to-build-intelligent-applications-faster"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 64
-    images:
-      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Why emotionally intelligent robot shows are trending"
     excerpt: "Execs from Apple TV+ and MB Producciones are exploring how AI might be the best way to connect with today's kids—and teach them a few life lessons."
     publishedDateTime: 2020-11-13T16:45:00Z

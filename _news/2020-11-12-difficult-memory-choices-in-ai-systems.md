@@ -34,20 +34,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
-  - title: "Physics Can Assist with Key Challenges in Artificial Intelligence (image)"
-    excerpt: "In an article published today in the journal Scientific Reports, researchers from Bar-Ilan University show how two challenges in current research and applications in the field of artificial intelligence are solved by adopting a physical concept that was introduced a century ago to describe the formation of a magnet during a process of iron bulk cooling."
-    publishedDateTime: 2020-11-09T15:45:00Z
-    webUrl: "https://www.eurekalert.org/multimedia/pub/248232.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 38
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/248232_web.jpg"
-        width: 367
-        height: 660
-        isCached: true
 
 secured: "tz5qtAE6bJ1ov/p0IAl8Vz3jsTVhDtpyww5F5VaoyV4BX18CxZIn1yCnU60h3Rx1ApDcsqpiAUpED0tXWDeXoho+ebJsWx/n7CeBWO/hH1SPf/N+bvHygV9joksbKD+bqiOu77YLpM7dzwxgQalAgFdovAtPaCvaRqNj/8XQZW93CvgnAvDayRcAzoG6uREFbxXQyFAfm6zNgL0IQvofrg6cxNpNrU/HS6VpFKrAOv0UO7cX+DWp2FjyXdvaNwgchc1DFBf4v5KMIx5x4p7DmJ7uySB0uzVocHioszITSBxTGfMhvqjGbrWaDnYiMnOJfYv8VPaShA7AQAaXPbMNY/lCCWOrqiMztipwHUuzPscmywFiwtRXnmxMTEieXPhmLWRdFl99C5T5nznEMg5l72Y0WLSZAsZQ5yf02SroAKXqP9VoI2Uu1mNH2VOclJB30wQaexYuwysaEcaBX8GIaV+cBbxDOxuqB3jTQV2tM0fT0QP6X7F/wdNz8ghVkzCRrJP7flhIxjV1j2QWjsPLGw==;a7jgMfONUIYzULiQcdBVDg=="
 ---

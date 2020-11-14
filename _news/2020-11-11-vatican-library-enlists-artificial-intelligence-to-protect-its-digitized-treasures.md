@@ -38,22 +38,6 @@ related:
         width: 875
         height: 501
         isCached: true
-  - title: "The 600-Year-Old Vatican Library Is Using Artificial Intelligence to Ward Off Hackers Targeting Its Digital Collections"
-    excerpt: "The Vatican Library is digitizing its collection of more than 80,000 manuscripts, and is now using AI to protect itself from hackers."
-    publishedDateTime: 2020-11-09T16:52:00Z
-    webUrl: "https://news.artnet.com/art-world/vatican-library-artificial-intelligence-1921989"
-    ampWebUrl: "https://news.artnet.com/art-world/vatican-library-artificial-intelligence-1921989/amp-page"
-    cdnAmpWebUrl: "https://news-artnet-com.cdn.ampproject.org/c/s/news.artnet.com/art-world/vatican-library-artificial-intelligence-1921989/amp-page"
-    type: article
-    provider:
-      name: Artnet news
-      domain: artnet.com
-    quality: 33
-    images:
-      - url: "https://news.artnet.com/app/news-upload/2020/11/GettyImages-461640741.jpg"
-        width: 1024
-        height: 859
-        isCached: true
 
 secured: "HBkqXXQZN61HJmxlEy1w6WceSgIp/xD8UyyRtFBQwAgiFa1vKpgX5dUvseJUhRSoCeesnfTxmvv/rJUqEIUo4ejlwG66wsFDZkOqFLRH91lPyvMxssO/D4FAn2VV0GZNqQAZTKR3GdRH+l5B5yXjUKlnT14gPVwYkV/QLEq9hNGDgZYoXcQ99S/4E/4VSYoneH+B9YiCk8HEi/BpdKM9dJD14UxwTk2MgWOoLxNCPoZli6kdRdr6BQVspmM0ZKOEO5P+5RybXM26FqX1YjCgUWeEV9cCk7yrieRgYwU48jWhY4CBW65M5kxEwht7zTj7w24oP93esPZdjMSRE5KObXWcKYhBD4tb9iNsuHkZ7cR1ui8PzaNQj1x4tpGgYt8j0ZjmN9PYL87eu9vS+iR8sammFQvtr5LJ7U082dOm+611Am7827j8VZq4vnx6j9pK6qz7qJrFsGek1lEPnGKc6XN6RKKenC4Jc3sJ3amtailKuYt8stBuIrJUTk7eSEAq9eULVuyTQZemUVQCIhHFdw==;eAYgpqFXIdp7anaWsEtwZg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2020/11/12/waymo-throws-shade-tesla-elon-musk-ov
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/12/waymo-throws-shade-tesla-elon-musk-over-self-driving/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
-  - title: "Waymo Reveals Every Collision Involving Its Self-Driving Cars in Phoenix"
-    excerpt: "Self-driving cars are set to revolutionize our roads, although exactly when is much debated. Until recently these vehicles all relied on a human backup driver who could take over a self-driving car are set to revolutionize our roads, although exactly when ..."
-    publishedDateTime: 2020-11-09T16:24:00Z
-    webUrl: "https://www.discovermagazine.com/technology/waymo-reveals-every-collision-involving-its-self-driving-cars-in-phoenix"
-    type: article
-    provider:
-      name: Discover Magazine
-      domain: discovermagazine.com
-    quality: 38
-    images:
-      - url: "https://images.ctfassets.net/cnu0m8re1exe/73EBmlLCjStWqOHh8YtKN7/38f0804979c6700ec3bb931bec03e049/shutterstock_643585552.jpg?w=650&h=433&fit=fill"
-        width: 650
-        height: 433
-        isCached: true
 
 secured: "mDNOutI8hgNu1jdO05fZlASJC9abvNOB1Q852/gALP+Ch/+iYtT/+edQGoNBjLxhuhiMP2Q8wgsr6j2B+mqgII7IcxZpYRIH0BCmQrlAq4HqVrpWlZLl+MtLNYmWyNKWUcgWan+ni72BhduwpGQBlPTdwDToU8qi+GSsGe9jTd4xU6EOtzlmwRMs6u+DXBDjuJCaum7NhyuXB6jx2Do4l6mTeN8E1vnUgtaKdNQc4A0q10w0zkm7+lA5DraxwWDTtpv+a8+7IezOpnWbbcOq/Hqk/wNHQiI7tH2UjXGP70fRI0mlD7KlYilltSVsJfoc0Ywg85cYQTWMJdwuf/4xpQxrHqxoFeJ/jPUfQInAan7i25DEqLOoev4TWOds63JtF9eT8yMczxK4zjgYZG5wai1f6+qMu6nLS8m6V2yxMmivnsA6vR3R9yLRAy1Lf5v5URT8Z/jlEcWsdnfNhD7KKA6lmt0B74gg8cTS0+FOcp9lx3w2+XhS1aDTCbxlWyk72FTEiAMFJvHBqozp/C0sWw==;16Q4judmaYasVqlbGQqfEw=="
 ---

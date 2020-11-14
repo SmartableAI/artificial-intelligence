@@ -3,8 +3,8 @@ category: news
 title: "Uber in talks to sell its ATG self-driving unit to Aurora - TechCrunch"
 excerpt: "Uber Technologies Inc <UBER.N> is in talks to sell its autonomous driving unit, Uber Advanced Technologies Group, to self-driving car startup Aurora, TechCrunch reported on Friday, citing people familiar with the matter."
 publishedDateTime: 2020-11-14T03:38:00Z
-originalUrl: "https://www.reuters.com/article/uk-uber-aurora-idUSKBN27T30O"
-webUrl: "https://www.reuters.com/article/uk-uber-aurora-idUSKBN27T30O"
+originalUrl: "https://www.reuters.com/article/uber-aurora/uber-in-talks-to-sell-its-atg-self-driving-unit-to-aurora-techcrunch-idUSL4N2HZ43V"
+webUrl: "https://www.reuters.com/article/uber-aurora/uber-in-talks-to-sell-its-atg-self-driving-unit-to-aurora-techcrunch-idUSL4N2HZ43V"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T30O"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T30O"
 type: article
@@ -73,6 +73,6 @@ related:
       domain: seekingalpha.com
     quality: 4
 
-secured: "8/dvBJpxAV40iUP9xxGjO9jSt332TOgEWwQkrj7zmGFJR+SSYFJBgKZ/KXZttmTs8gaR7El+UJJulWpBSVx5LxslOTdN5zel/nW3h1Zzc/zBf8Nh/ytMmDVZuAjRHrzz9mx/EwY2hwAtZJ1+7PZ5jePYo/O93JWjDmOsKmwj1PDK/mo6gJMW0etdYFZGh0HMTQ4Gg2H+EacPcKWd1KzBMzIga4EhR55LnXRvXFCD3wUwUFKS/GfcHC9cVMLtP8wk91Sh1bxI/qYangBAQVvzyn4vsApsrX/ARgnzEI3t6yZ6YoMdo8laZ2DuqFqrb6WjuD5AOdgjX+tBQhJHTdXF9bjdibrVVG3WqgJrbKKeiSM=;TC1IEvq/spkoEjNHzRwL7w=="
+secured: "zxEnp+tUjG/FEPQ0e2opz8TFwveiPyQ6bTq0qB4l1Zs1nwM3NBqOaik5Lhuq4FYBsBbL3IEuqjWOBQvT0JzvEs3WsUPmtd+Vr/nsAAXXHvYchnkTj+/VMPhGnQD9e6TQ+AOCEakmegLlQ9GEls4QldQqdSL4N92qb8kkHZWeUvXX1TGZQ9S7DkOAGzp1eRdzNXVQp/ZG9Gin8zff1qAlZXoybylxAv139gpUuHBSwVbo/4LapOKG4dNhfw262JDA++hAQTnekpH2VcyRhDdL310I1Ifo8WaWmbnHQGM+NHNEJHGgQ62r1m5HvsUJlCGzg9DhMKQovPcHZ+TJxAUL+5BEkFWmDoN8KXY6VzNLto8=;OsAwxzfqpEPfmt2TcQVs6g=="
 ---
 

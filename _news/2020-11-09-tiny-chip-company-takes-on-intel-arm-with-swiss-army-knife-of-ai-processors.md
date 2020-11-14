@@ -1,16 +1,13 @@
 ---
 category: news
 title: "Tiny chip company takes on Intel, Arm with 'swiss-army knife' of AI processors"
-excerpt: "The chip, christened Mozart, isn’t the first chip specially designed to handle AI workloads. However, SMI claims that unlike others that are designed for specific workloads, Mozart can adapt to a wide variety of AI workloads on the fly."
+excerpt: "The chip, christened Mozart, isn’t the first chip specially designed to handle AI workloads. However, SMI claims that unlike others that are designed for specific workloads, Moz"
 publishedDateTime: 2020-11-09T10:23:00Z
-originalUrl: "https://www.techradar.com/in/news/tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors"
-webUrl: "https://www.techradar.com/in/news/tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors"
-ampWebUrl: "https://www.techradar.com/in/amp/news/tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors"
+originalUrl: "https://www.techradar.com/uk/news/tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors"
+webUrl: "https://www.techradar.com/uk/news/tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors"
+ampWebUrl: "https://www.techradar.com/uk/amp/news/tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors"
 type: article
-quality: 100
-heat: 100
-published: true
 
 provider:
   name: TechRadar
@@ -30,6 +27,6 @@ images:
     height: 431
     isCached: true
 
-secured: "CabRpfhRn/72ZrAI2snrdB8BYXQ8L2FeZ7GCkSvYuAPdalhejBWPzkS7XrdsOnrhKw8bEvQF44tBGYwVehAbW2VTtZxHsn4XIJ83f0jxm+IiPxzROATxLbjinG9WhnzlH/ttkd3KiPe/E/iJMxDuiXXbI5vuuLY+jsQKITLMxJzHYv14qPK+nBbf+R5MJpihzEEMMD3CxFZJzBXEITs43HKg6LwTQmJzkEci0ysYdMTO1zpGwV3auVwr0URaiN+Amg6/FVEb9yO3baC/iwQd1v3+fBw8deeL9StYYC4JIB9o0sX0IIp4SR8cFf3yJEk7Nru119gW/cYimLSJdIUJSVC9TNXM0jenDFxAMz0nXFccVoHddqG2mmNI0wqmqWq2e/Do990XlQS4O6zEo/4JpbPBjZzOKe7kg14FkEzGAXtJqAL7mk/41pL8n5V5hGqZaFSszy1uzoiMAYwIpksYYUUH7gctXg8BC/3plfA5seHzfvIkjOSquplWjxzZ8qEtsTBgZjRI64bSY/l+e6PUKQ==;4Q9v1gSWYQBvIkqE+W8tiQ=="
+secured: "DrApvOEq/JDWVuRgmx/4dFCnAjTXwQ3WKyTSEGh6JuxENi/2GquCMU8IJc8/SlAdt0c5dGxGkwYOvMDoNOXahtZFzGVHxHRQksFhgIcUQ8w5z5K7aOcsXXZ7YQ3MM3iUGahuRiOX7daWlndh0IG4s/ppSIJpYXecSgpvHI6vYJMIidfPZg40LJ+5T6ef49giirLntbV1BISOohpKE22bHruuSCKVW9jo3TS9VAR7Fwr/22yUcrHikl/mYTZot///4aUF0fwRE2yib4h2q+bZYiGv7kEriuK277pJtUack8mLoR8DW+a+pmmbqkN0+IwtrdvEV3MvgRbQxricEeBcmGcImVP5J2pqXD/xiWD/hAo=;VCqxHZT/gELbC4ZyZyVfJQ=="
 ---
 

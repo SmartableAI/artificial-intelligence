@@ -36,20 +36,6 @@ related:
         width: 663
         height: 527
         isCached: true
-  - title: "Physics Can Assist with Key Challenges in Artificial Intelligence (image)"
-    excerpt: "In an article published today in the journal Scientific Reports, researchers from Bar-Ilan University show how two challenges in current research and applications in the field of artificial intelligence are solved by adopting a physical concept that was introduced a century ago to describe the formation of a magnet during a process of iron bulk cooling."
-    publishedDateTime: 2020-11-09T15:45:00Z
-    webUrl: "https://www.eurekalert.org/multimedia/pub/248232.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 38
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/248232_web.jpg"
-        width: 367
-        height: 660
-        isCached: true
 
 secured: "yCjod/E83fFokqU1qveKyCMOCxC8+JnbCj0mgqLhJGAILTlJei7idaERInrn7obaSO4D+cid6GDhzuaSRXZDtYOO7Z7D9WrbcEtmic3Qd2+iK7Qu1lYAg1PlU4OUhtq8RE7pfNdjMJNY3KqpB5piEOnauLG2nF0PGNa0qfVDB31pStXS6PwY6ICcrPeuJdFpmMgcTLVNgIPKg35LP2AB8RwvN25zvatDVai3vCpkCzVmmlwtcKQAsW5i954BACPrz217zyRDJUZ6Zh7NbtDUDVbuuNOMkl4BuFHkb6y2QoORtbDqAZlTFiIP0CAZBAjsYxWUAJ3xAP6TYOW47losRH+aCXLHJqIWu4RaSQ/2y7I=;y1bKDnh3CvgNEe4t6V6lMA=="
 ---

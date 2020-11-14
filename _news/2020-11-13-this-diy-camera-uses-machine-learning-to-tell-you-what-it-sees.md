@@ -6,8 +6,8 @@ publishedDateTime: 2020-11-13T00:00:00Z
 originalUrl: "https://www.dpreview.com/news/8911213413/this-diy-camera-uses-machine-learning-to-tell-you-what-it-sees"
 webUrl: "https://www.dpreview.com/news/8911213413/this-diy-camera-uses-machine-learning-to-tell-you-what-it-sees"
 type: article
-quality: 19
-heat: 19
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,7 +17,14 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
-secured: "OtJMJ9UXbeALUsxDPzzDlAmaIKzRYyR85SfKwXzkevNzG2SfsD1Oeeo7qBSOC8Wq56bOrP07juSwEEQkvTEFvoSD18S2snd9bbNkcz5Q7MMt3YOP5ReL0224UgR1PSJWZda4RKpCFW0J5/AffET0PnQf0ePOmz/ncFBfolLHxdEEt+g3KuK7r5lfVqvi3oqY/UL16erbAxgMWik/tb5f5dPo9pUtD89d2c8geIymdFMoXLl/99cpxh8365LzdJIfvFV9fl6HXR1Xn47/9gkJkMvfDg8CosFONm4xsWc0vIWD9NIi5MbULK1yk/1F8TkIM8VblCY3u4ZnacHmB3MaZlYQOqKSpoEWmYhFpFkvZi4zHjOSYDmAOVjvq4uUVDNvVVPs+iYYlYe0AQ3IeJAZc/gPWq9CtxY7LesrKFAkwKGM/NUl/ewoZQ6oGkXY6OwwdxlYfOmL5jL9uaHvmzjxPocoSz4JR2mmENTEeB10BwfpNf0P3ATxItCn1a7u2p5jwnnvufW+unF049kh08BnEQ==;uRD9dELrZLicsErUwdC66g=="
+images:
+  - url: "https://4.img-dpreview.com/files/p/E~TS940x788~articles/8911213413/adafruit-raspberry-pi-machine-learning-ai-camera-1.jpeg"
+    width: 940
+    height: 645
+    isCached: true
+
+secured: "Nx0MIMQfpdzjCEq5OcnkaNZQpmcSjyn+rkSVy7LPo+qcmUCHe0udUxz/jNkEP3St1pMf7q7FpBP2BvPXpPxrYx1Gy179vcrxEVDrL4TGQzbsmyythzTml91hmnhmTvlWXcR0mmsUTgJU6J20rM7UH4ZdPISrZxveTKqDUZByONub8FTMOEY1wtDw9vxYknhKk0opX8vFGRAIv4P9vIGD5MUVX+n/BtPOpMD3tLVAIf3dX1GeBtOcmp3xbSS04IbT56m50j9thjNw/q7FHOBYaHlmXmj3FJEyBeDNqfbGHl3OBNdoj3AEf7phqi/5TK54Ylgf2UOK6qotfVdHzaNXDJ8YF0VUC4KvMYIN7ptkD2I=;HME+mmxxXotrydXkSrJ+Bw=="
 ---
 
