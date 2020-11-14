@@ -25,22 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "AI is wrestling with a replication crisis"
-    excerpt: "Nature published a damning response written by 31 scientists to a study from Google Health that had appeared in the journal earlier this year. Google was describing successful trials of an AI that looked for signs of breast cancer in medical images."
-    publishedDateTime: 2020-11-12T09:08:00Z
-    webUrl: "https://www.technologyreview.com/2020/11/12/1011944/artificial-intelligence-replication-crisis-science-big-tech-google-deepmind-facebook-openai/"
-    ampWebUrl: "https://www.technologyreview.com/2020/11/12/1011944/artificial-intelligence-replication-crisis-science-big-tech-google-deepmind-facebook-openai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/11/12/1011944/artificial-intelligence-replication-crisis-science-big-tech-google-deepmind-facebook-openai/amp/"
+  - title: "How an AI App Navigates Narrow Networks, Cuts Healthcare Spending"
+    excerpt: "Payers can reduce healthcare spending for self-funded employers by employing artificial intelligence, centering primary care services, and employing value-based contracts."
+    publishedDateTime: 2020-11-12T14:32:00Z
+    webUrl: "https://healthpayerintelligence.com/news/how-an-ai-app-navigates-narrow-networks-cuts-healthcare-spending"
+    ampWebUrl: "https://healthpayerintelligence.com/news/amp/how-an-ai-app-navigates-narrow-networks-cuts-healthcare-spending"
+    cdnAmpWebUrl: "https://healthpayerintelligence-com.cdn.ampproject.org/c/s/healthpayerintelligence.com/news/amp/how-an-ai-app-navigates-narrow-networks-cuts-healthcare-spending"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 61
+      name: healthpayerintelligence.com
+      domain: healthpayerintelligence.com
+    quality: 74
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/11/Replicate-2_up.jpg?w=3000"
-        width: 3000
-        height: 1688
+      - url: "https://healthpayerintelligence.com/images/sized/GettyImages-1028612998-6352cfe9c42d690d78be4e1065fa9a1b.jpg"
+        width: 600
+        height: 347
         isCached: true
+  - title: "AI-Powered Healthcare Navigation Platform Buoy Health Raises $37.5 Million"
+    excerpt: "AI-powered healthcare navigation platform Buoy Health announced it has raised $37.5 million in Series C funding."
+    publishedDateTime: 2020-11-11T22:17:00Z
+    webUrl: "https://pulse2.com/buoy-health-raises-37-5-million-funding/"
+    ampWebUrl: "https://pulse2.com/buoy-health-raises-37-5-million-funding/amp/"
+    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/buoy-health-raises-37-5-million-funding/amp/"
+    type: article
+    provider:
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 52
 
 secured: "YG2onspLEhOeNEhHpyNbnpNvOZYlzguT+Zpbfv+/5x7oWBlcm7fttYxV3lPw302Cey8lN8DRPaQXldTBR5/hXE7IaCFN8LMDfAsMxrk8t15SOWRQtzX4Gda+BMNegRT+FvwFOvDrZwo9LN7jwwGYJWXvyk5CuKFQyI03uW0XfpMZQHaI++2DoAj6HbYUOGstGfs535o+7LNvVyn+xMgLi188bWLSLV+9FP8htGuX2o71AUV5nFOPXL83UAlKKya3F6RbDOrdhXWqj39JZ5xvTqBXsgnlNtNxVCushA34QXahOUqCbBezhIfoiTcI7Kt9VVhIuVGjpyIe52r4Eu+jt4MasbFPPoPIYAsBDdRJk1E=;sCYxJHQvTtunfev7cz3xwQ=="
 ---

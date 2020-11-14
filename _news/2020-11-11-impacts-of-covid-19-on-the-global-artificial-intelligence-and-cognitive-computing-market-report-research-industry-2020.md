@@ -25,20 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "Cleaning Robot Market Strongly Driven by Rising Global Demand"
-    excerpt: "The cleaning robot market 2020 could expand at a lucrative rate of 16% between 2017 and 2023 (evaluation period), confirms Market Research Future (MRFR). We will provide COVID-19 impact analysis with the report,"
-    publishedDateTime: 2020-11-11T08:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cleaning-robot-market-strongly-driven-by-rising-global-demand-2020-11-10"
+  - title: "Global Computer Vision In The Healthcare Market Report"
+    excerpt: "As per GME studies on Global Computer Vision In Healthcare Market is estimated to show a sharp peak during the timeframe of 2020 2026 at a CAGR of 22 5 Government initiative towards the adoption of AI based technologies rising"
+    publishedDateTime: 2020-11-13T12:04:00Z
+    webUrl: "https://www.openpr.com/news/2187365/global-computer-vision-in-the-healthcare-market-report"
+    ampWebUrl: "https://www.openpr.com/amp/2187365/global-computer-vision-in-the-healthcare-market-report"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2187365/global-computer-vision-in-the-healthcare-market-report"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 76
+    images:
+      - url: "https://cdn.openpr.com/T/b/Tb13143184_g.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Healthcare Information Technology Market mechanics Analysis: Global Industry Trends, Share, Key Players, Forecast to 2025"
+    excerpt: "Selbyville, Delaware This Global Healthcare Information Technology report studies the industry based on one or"
+    publishedDateTime: 2020-11-09T18:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-information-technology-market-mechanics-analysis-global-industry-trends-share-key-players-forecast-to-2025-2020-11-09"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Digital X-ray Market Outlook 2020-2025 Featuring Prominent Vendors - Siemens Healthineers, GE Healthcare, Koninklijke Philips, Canon Medical Sy"
+    excerpt: "Global Outlook and Forecast 2020-2025\" report has been added to ResearchAndMarkets.com's offering. In-depth Analysis and Data-driven Insights on the Impact of COVID-19 Included in this Global Digital X-Ray Market Report The global digital x-ray market by revenue is expected to grow at a CAGR of over 7% during the period 2019-2025."
+    publishedDateTime: 2020-11-13T10:11:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=373290"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
 
 secured: "gonmzTxxHsGSPE53GFikJ3bEm3uA+AIf+ZCkrPiGPDQC+Dv8Gui5NGPS1Ao8lUv7YHXSC5Q56tFQmlfihOU27NQ9bSQYe6k8M+R1TvoY1dLkua60mKMQ8ODi1DtI3RuUMhnz/8oX1n/PFvo65jxSsA2DrPko6uWutWBWsXMk6wszNvlpfMNbmayKZOlZmqz/d1V3r8dZFjuQeQXBy/okXgGR7jnjY++tYd3z1ontwX6M/N4ElCIzo3buvs5nJIh1tJFfEYSxR7x7qcCstkOB6o0i7j5M1+3fbvuoIHVSU4G8scYUvhJPoboY4XVaoDmhXhZaHMn8ywrlYQLo5bJwZqpcIr2nW2S8K4S9npbNM7M=;r+HRPtSqdTRw27nfcu72eA=="
 ---

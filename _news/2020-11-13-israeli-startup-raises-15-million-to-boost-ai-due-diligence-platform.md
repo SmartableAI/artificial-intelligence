@@ -23,6 +23,22 @@ images:
     height: 360
     isCached: true
 
+related:
+  - title: "OriGen AI raises £1 million in seed funding"
+    excerpt: "Software technology company OriGen AI has raised $1 million in seed financing. Its AI platform is \"transforming oil and gas exploration and production\" through physics-informed deep learning developed around algorithms and data analysis techniques."
+    publishedDateTime: 2020-11-13T12:39:00Z
+    webUrl: "https://www.energydigital.com/technology-and-ai/origen-ai-raises-pound1-million-seed-funding"
+    type: article
+    provider:
+      name: energydigital.com
+      domain: energydigital.com
+    quality: 37
+    images:
+      - url: "https://bizclik-cms-prod.s3.eu-west-2.amazonaws.com/images/404no22rkhg83vnq131120201418.jpeg"
+        width: 833
+        height: 323
+        isCached: true
+
 secured: "nlgjnjeTKcSX5qFHn3oNbB+EW9ypo7ILKZbhElK0eZvSIEVcYfNXBuh5unoJmGYp7Lfg9Svwh2KXuyzOurx1SYpiAAWQ9q3w/rxkAb9RtFdILtTAJCOtla8rm1n/2A29FJaHCZPgnA8by3NDGQosTmFZT4EEteWzp/TKkMSVIWoigXrXyI/NW2NudQt6Sg7yp6wD7iBHaeaIEV5SxVGlAWV9Tl7kvWVXmwQm0sG0Ptw6Sov3Uc/8/6g3HO5mioc1IwRAuoPX0nNHumiMNCiiGyyPubEv76JustddYuRgQ+nK25pq22vpTxJxDz889Ok0ZowDZcCwmYq685sOq22otSDifvb6xyZuLDiqerh0WIC7WdEfWuKujHjmOMrmR9Bafu0Va5QedQGDUDc1eiKfFcd33UWNfiKBR5rXeoojsCXtPLqw6u5NedLq8GKipe0S72BVhdpzkrQpQUPgiMMojoM+u6dxburAmNzuVPD502NzOExD9WxMmyuxSrs/BX/WTmiczmmi7IUCVV3zrDUxQg==;QoeKY5+IkZJePzwm3FIR6A=="
 ---
 

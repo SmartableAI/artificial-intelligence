@@ -6,6 +6,9 @@ publishedDateTime: 2020-11-14T00:57:00Z
 originalUrl: "https://www.centralmaine.com/2020/11/13/crooked-face-creamery-and-maine-grains-named-finalists-in-good-food-awards/"
 webUrl: "https://www.centralmaine.com/2020/11/13/crooked-face-creamery-and-maine-grains-named-finalists-in-good-food-awards/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Kennebec Journal

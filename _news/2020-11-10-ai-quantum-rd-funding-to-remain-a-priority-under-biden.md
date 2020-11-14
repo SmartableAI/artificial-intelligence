@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/ai-quantum-r-d-funding-to-remain-a-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-quantum-r-d-funding-to-remain-a-priority-under-biden-11604944800"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI Weekly: Tech, power, and building the Biden administration"
+    excerpt: "The Biden campaign platform committed to increases in federal research and development spending in areas like AI and 5G up to ... on Big Tech companies like Facebook. Gene Kimmelman, who ..."
+    publishedDateTime: 2020-11-14T00:05:00Z
+    webUrl: "https://venturebeat.com/2020/11/13/ai-weekly-tech-power-and-building-the-biden-administration/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
   - title: "Biden Presidency Expected To Keep AI and Quantum R&D A Priority"
     excerpt: "As reported by the Wall Street Journal, analysts and members of the Information Technology and Innovation Foundation (ITIF) expect that the presidency of Joe Biden will continue to make research and development for AI and quantum computing technologies a priority,"
     publishedDateTime: 2020-11-10T20:47:00Z

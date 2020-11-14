@@ -24,22 +24,6 @@ images:
     height: 533
     isCached: true
 
-related:
-  - title: "Google AI venture fund invests in first Israeli startup"
-    excerpt: "Mine helps users discover what companies hold their personal data and submit a deletion request for services they no longer use."
-    publishedDateTime: 2020-11-09T07:58:00Z
-    webUrl: "https://www.israel21c.org/google-ai-venture-fund-invests-in-first-israeli-startup/"
-    type: article
-    provider:
-      name: Israel21c
-      domain: israel21c.org
-    quality: 37
-    images:
-      - url: "https://www.israel21c.org/wp-content/uploads/2020/10/main-pic-11-768x432.jpg"
-        width: 768
-        height: 432
-        isCached: true
-
 secured: "jsHeGLMDIe1SIrv6rKdNQt4tYzDvaeQ0dUOCcLhLmFYaB5sl9yz/j7UqstiVXJyz5nOu0s1+6eM4hf1YLYigBmeX5Ibh8EqjcwI4HgdbGqpJFHJfbb1zfZ9PLgvr8BRaqnQVW/qbb9mdpQG/uV4FMHOPb4PEcifOs2OQjDt7kj+HOppJwYRtk48YtT9nothBj2XRasZe40ZAZV8Fvv/Wp7Bnj1IYza3aAOIxf9yAciZavIcLehx+xUoFLm0SAonD7gcluKkZPWDBBnCA/FHj/rqGjfA5TXqIIWQPgr0tl43rhCcx8LIoJJr7ffd8gnGtEcJzo/RCcTHISq2dHuKFCw893Uk5SPGWh0xOZlqkTdsz9Q+cWkImm2ktVjtpVaebyxiLPnwLq0P0pkh1vzpHxr7t6cDyVanh2I/kEWIn+86+Uy6CPwN2L2rThpjtuJ/LdBcAg59XpRJzsN+cOpwDdddAJgtTgn68crnodlL5jJ/x02xMkU7weyTknqXtKL0YVqwWSXP3F+C6+eiWMaaEEg==;LNKUrn+wqm5Lt4nFXauDdQ=="
 ---
 

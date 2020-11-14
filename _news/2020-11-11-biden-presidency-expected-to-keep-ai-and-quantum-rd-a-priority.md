@@ -40,6 +40,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "AI Weekly: Tech, power, and building the Biden administration"
+    excerpt: "The Biden campaign platform committed to increases in federal research and development spending in areas like AI and 5G up to ... on Big Tech companies like Facebook. Gene Kimmelman, who ..."
+    publishedDateTime: 2020-11-14T00:05:00Z
+    webUrl: "https://venturebeat.com/2020/11/13/ai-weekly-tech-power-and-building-the-biden-administration/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
 
 secured: "cks4c2YsMOrNTmqZSmzrV/DPCl0T0pvvlf3aGZTB+Mfn/NwN4QogI7wbkNv4WIu9wbNnUuLxQ9TnhjNu4x8qln9L+Se4n+kVXXxk23LF6f5KUvi9Lch9bPArxS6QVPVd/HXHF9+x6zfaYXvXR/yibil1lxxGWOi+jzpULGeBUasxz4vtGKRpOgSSeqb158kuT1BWyZLZ5KmHNA1qD1OGUM91q39V2pRh/MFprlWROIufbyRDtIhn+VGm6zzThZ4nWoCxhg9EpVuraMs9PGGmWxj5ChbMH7Lzft3SNkh0XYes/BvU0Q+Wr5y3ZZ8BsYxK0HFpehrc2TI5CX3wCbSVPvEIRVh/g5w+clQqgBgUzK2dAWlwSF12u7cVysmhR2DLCAicEcKF4jpk6uUEHMmigULsRS4gkHQFm6s6t1QAjxpWGFigzmZUXPm+TkMQKQ98BlV8CpBVPRRbpAR90hTiQ9tP/U2Ug/M28wKuuQHRu0YerpOVENlnsilTj9bfddyt5AEtdy96jf6yAI8hQ4pxmA==;rL+Scd3SmfWry50Mm4x91A=="
 ---

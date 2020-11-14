@@ -6,6 +6,9 @@ publishedDateTime: 2020-11-09T15:20:00Z
 originalUrl: "https://omaha.com/business/investment/personal-finance/should-you-stack-your-roth-ira-with-high-potential-5g-fintech-and-big-data-stocks/article_9c46bde1-bdba-5af2-bbd1-5e9c1ac4b6bb.html"
 webUrl: "https://omaha.com/business/investment/personal-finance/should-you-stack-your-roth-ira-with-high-potential-5g-fintech-and-big-data-stocks/article_9c46bde1-bdba-5af2-bbd1-5e9c1ac4b6bb.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Omaha.com

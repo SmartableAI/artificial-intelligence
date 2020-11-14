@@ -55,15 +55,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "AWS to launch second infrastructure region in India by mid-2022"
-    excerpt: "Amazon Web Services (AWS) has announced the expansion of its services to include a second infrastructure region in India by mid-2022. The new AWS Asia Region, which will consist of three Availability Zones at launch,"
-    publishedDateTime: 2020-11-09T08:56:00Z
-    webUrl: "https://www.telecompaper.com/news/aws-to-launch-second-infrastructure-region-in-india-by-mid-2022--1360958"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "vDMi647emah43LhCiEcuaxicLBNOrV137QswC55qStuDkAt0Rsq5WlYqxAsFGn0JEYi6YkylgQvco6j9/bOK4tshytX1WI4nf4t8g6auH+ieTXYLJt4Hm0qssTgt4eRP0IjnxcfdV01DtHE7rpkk/NM71LYhe0PjmLlPtqznjVtUW9+M0mONBCyQL80KjOj4nChlSbuwJiReFMVw4n18GY5ITGa/wI2LCFFqI3p3G2QBofXdd9p029s6vOqCmFo8SF7VJ7lYCZAq96tVKydnoeLCso5/+qRdCm/gjfMy1Q+RzEBAPNm5CfoFtOlhPp4FK0Rg0r1mf3XJN2r4QKW4uUH1rYCoEFzxO2XiK2wXZrmoLtUoo20LlHNDo4h0qN34MyxTAPgNu+HRbvQ1Qf/HtceSbtWH0wdOVe4MncZ9A3ucDIxqj8goOCcCdUOQBs29z4kcrznhEHjWQftPsIknu+Y1NJACtB8q7DUORzkofSbc6XywxuDjL2hla2eU6aG/uyU6IQldKMViiSs/ZjAqLA==;GNmrWl12ZDjvtNWXZwYMIA=="
 ---

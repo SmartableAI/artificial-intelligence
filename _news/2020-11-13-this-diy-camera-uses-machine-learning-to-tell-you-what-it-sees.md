@@ -6,6 +6,9 @@ publishedDateTime: 2020-11-13T00:00:00Z
 originalUrl: "https://www.dpreview.com/news/8911213413/this-diy-camera-uses-machine-learning-to-tell-you-what-it-sees"
 webUrl: "https://www.dpreview.com/news/8911213413/this-diy-camera-uses-machine-learning-to-tell-you-what-it-sees"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Digital Photography Review

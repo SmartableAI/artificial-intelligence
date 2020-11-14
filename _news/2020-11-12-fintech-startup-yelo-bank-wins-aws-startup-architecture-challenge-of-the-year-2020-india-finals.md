@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2020/11/fintech-startup-yelo-bank-wins-aws-sta
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/fintech-startup-yelo-bank-wins-aws-startup-architecture-challenge/amp"
 type: article
 quality: 64
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -56,15 +56,6 @@ related:
         width: 378
         height: 234
         isCached: true
-  - title: "AWS to launch second infrastructure region in India by mid-2022"
-    excerpt: "Amazon Web Services (AWS) has announced the expansion of its services to include a second infrastructure region in India by mid-2022. The new AWS Asia Region, which will consist of three Availability Zones at launch,"
-    publishedDateTime: 2020-11-09T08:56:00Z
-    webUrl: "https://www.telecompaper.com/news/aws-to-launch-second-infrastructure-region-in-india-by-mid-2022--1360958"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "FiWN3AslC9GzCouScBpbxG2+I5JID9Lxzm3UJ7EfnpWJl4SPAHl3PfE/UKazyAuGrsx2eooa054L3hOfyX+fkKr49s9PCwN7zpu/V93cliC1zWN9MmKgcLs4UupNcCDpKCVi0t7QN1CTk/cS/XbcxOjkqzXRzTop0mJ8V3Q1sddWTqrlx6P+rhkV0RCpHAAc1JadqADHCuB9mZ9TkDnKW84S455LQwP2z1aSZIJ5GUeFgTSXWkUlr1TgMCkNOzRp+ni7/sDO1VXrWPrqvszwTJHcmF7wt4nUSRV3Eywg4W9LBK5QYrxDTdVTc3WVAlenheSle+6FF0T55KWmEFX1RQaXMQoVbFXiXGYl+WPEWE0=;Lnydv3tUaBYEzqFVuRn4kQ=="
 ---

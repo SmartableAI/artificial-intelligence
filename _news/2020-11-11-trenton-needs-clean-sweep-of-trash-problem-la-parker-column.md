@@ -6,6 +6,9 @@ publishedDateTime: 2020-11-10T16:08:00Z
 originalUrl: "https://www.trentonian.com/news/trenton-needs-clean-sweep-of-trash-problem-l-a-parker-column/article_c768b9a0-2360-11eb-90d4-63cecefd3ce7.html"
 webUrl: "https://www.trentonian.com/news/trenton-needs-clean-sweep-of-trash-problem-l-a-parker-column/article_c768b9a0-2360-11eb-90d4-63cecefd3ce7.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Trentonian

@@ -26,22 +26,6 @@ images:
     height: 490
     isCached: true
 
-related:
-  - title: "Healthcare Information Technology Market mechanics Analysis: Global Industry Trends, Share, Key Players, Forecast to 2025"
-    excerpt: "Selbyville, Delaware This Global Healthcare Information Technology report studies the industry based on one or"
-    publishedDateTime: 2020-11-09T18:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-information-technology-market-mechanics-analysis-global-industry-trends-share-key-players-forecast-to-2025-2020-11-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "WrdgdADBMhbVA7KWdvB1imHoymSu6qJfk9gQ0Up16w/QJCMh9vSE1dYiN65G5Le6PJLLgj05dOzgRjtsXnIpQb39/OTMHt+wSBMrDObEyNMNr+RQ9dJ0+vXFY0VYzUJTPTpEkXFk5x3QNP2jtIGsB+XHUIcmDIAvSeujcajsnu4Db0iKhtMZjVld7NAhb0xgaMrXLvcyZLN8Vz405RWwpPpzxPUweBng5GMJMb8Gd9p2Hkq2Ni4iim1U4bDd9DRRTiGRV6o2tAozcDlP9nyBDcew1SnHM/z0KDeKXQGWPrYx4gLpoyzrgLJYvmC72/MzYrEL7bs/jhoqUIMsXDYRo9/z7W3h9GdyiSDg69f8Owo=;Z4tH3hJh+zgE4d/acdHsfw=="
 ---
 

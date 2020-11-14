@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2020/11/aws-cto-roundtable-disruptions-transfo
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/aws-cto-roundtable-disruptions-transforming-healthtech/amp"
 type: article
 quality: 56
-heat: 56
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 800
     height: 400
     isCached: true
+
+related:
+  - title: "RAISE 2020: How healthtech startup SigTuple Technologies is leveraging the power of AI in healthcare"
+    excerpt: "Based out of Bengaluru, healthtech startup SigTuple Technologies combines AI, robotics, and data science to build smart healthcare screening solutions."
+    publishedDateTime: 2020-11-11T00:25:00Z
+    webUrl: "https://yourstory.com/2020/11/healthtech-startup-sigtuple-technologies-accel-chiratae-ventures"
+    ampWebUrl: "https://yourstory.com/2020/11/healthtech-startup-sigtuple-technologies-accel-chiratae-ventures/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/healthtech-startup-sigtuple-technologies-accel-chiratae-ventures/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 61
+    images:
+      - url: "https://images.yourstory.com/cs/2/3fb20ae02dc911e9af58c17e6cc3d915/Imagenyuh-1604738778996.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "VS8+nMzIRXiLg/nBGGZQh46wfmzdoMdsc/Cx1LNNSA9FWs6Zw/r2pvQxzrnGumK+I0/4pL712YUEYmP/n/AbIBfe8abDIphe7mQTWXCpKEaVLrSsclBhalraNwZZcEgAckZZvQc+dVOrZ8aKYuU8z83boZ3s8JX6sqIFXOUUjP4gxxaZpgPwTJ0wwcRPJYnS9DTJHYjww2uUxATzOlE1XVu9TTDL7kV4cKsOZg1qixyIXHvYtBFzusKyRYS621zThCr0DW1RvdjzWzlg8hnSHBE9OFve3FJYaxqoPOiG3LH8daTLehAWMOtFFtd8u/avxZ/LqelmohZJnPk/KpbfJ43QC8r6KLDxYRhSbAVEyzQC6RLCwMJE3PshP/NP50+gYHtqxTql5BaU8zN88FENakOrH5gKJNvpURReW0E+AeNUi0KcniIUW/KVhIq3MIBQxnN93r2ev9Un4z9LVQPsvfd50Q5akBW5VN79qqhhf4N6wKCz4Vv4V2OCGNRnBNs9rQzpvATx5mhVLsuVdwle2g==;t+Du4Nx8JrcZdLUR4LH+gQ=="
 ---

@@ -41,20 +41,6 @@ related:
         width: 600
         height: 402
         isCached: true
-  - title: "Nigeria gets Artificial Intelligence, Robotics Centre"
-    excerpt: "Dr Isa Pantami, Minister of Communications and Digital Economy, on Friday in Abuja, inaugurated the National Centre for Artificial Intelligence and Robotics."
-    publishedDateTime: 2020-11-13T15:09:00Z
-    webUrl: "https://guardian.ng/news/nigeria-gets-artificial-intelligence-robotics-centre/"
-    type: article
-    provider:
-      name: The Guardian Nigeria
-      domain: guardian.ng
-    quality: 71
-    images:
-      - url: "https://guardian.ng/wp-content/uploads/2020/11/AI-robotics.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Nigerian govt commissions artificial intelligence centre to create millions of jobs"
     excerpt: "The Nigerian Government through the National Information Technology Development Agency, has launched its National Centre for Artificial Intelligence and"
     publishedDateTime: 2020-11-13T12:16:00Z
@@ -71,6 +57,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Nigeria gets Artificial Intelligence, Robotics Centre"
+    excerpt: "Dr Isa Pantami, Minister of Communications and Digital Economy, on Friday in Abuja, inaugurated the National Centre for Artificial Intelligence and Robotics."
+    publishedDateTime: 2020-11-13T15:09:00Z
+    webUrl: "https://guardian.ng/news/nigeria-gets-artificial-intelligence-robotics-centre/?echobox=twitter_post"
+    type: article
+    provider:
+      name: The Guardian Nigeria
+      domain: guardian.ng
+    quality: 49
 
 secured: "unkemABC25hQFvgJg7Kx5qaypjFuFYNTCg5dGCy7BTxDDJtCucbXnHMi/WykgxRsuy4+Paia7jKNp7IRKJEIz1o1Ecjkkwlvy/PCtAjvu1FxteSdnRk0N2CCWFK4BBJC7e/6v4grDwTIrJTk2hLXKF++Fm4AjXcJC6AdrY6xyd4eW+adxdUxZssl8AsS3JlO1O4nRzl7SkxBewwbqg75QMCztET5RNHcbpE6hN2O/1Nzuu43wYyJCbysstjIoBP5+h2JwoTtj0ouTT1A8af4QsVdu0nzeIn707lCk8qaLSNKtN3X+p2OAIMrEXYAnIQ0JL38c3hgHsvOe36vPvQ2WNHClF4zjNBeNAp269BQyqf/qH8MJFTgyB3PAc0sI1Zy40hTO1YZ/J0599FHuj+ZjsiS0TqwdX/efvZ7B9aQuwUVo2qZ0fUgOARMdAfoyFdkoln2s+Ewj4Xwu3a2cA3meOuxKPtauZQYQ13PcIkiPuxCjSfdMZF9DWyAQ305Ov+m4LwFJWbPBG3gu/jRYdOYCA==;17uxIg1Mlga+b9HyAxxoIg=="
 ---

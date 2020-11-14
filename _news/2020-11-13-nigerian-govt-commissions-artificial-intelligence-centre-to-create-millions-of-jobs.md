@@ -43,20 +43,6 @@ related:
         width: 600
         height: 402
         isCached: true
-  - title: "Nigeria gets Artificial Intelligence, Robotics Centre"
-    excerpt: "Dr Isa Pantami, Minister of Communications and Digital Economy, on Friday in Abuja, inaugurated the National Centre for Artificial Intelligence and Robotics."
-    publishedDateTime: 2020-11-13T15:09:00Z
-    webUrl: "https://guardian.ng/news/nigeria-gets-artificial-intelligence-robotics-centre/"
-    type: article
-    provider:
-      name: The Guardian Nigeria
-      domain: guardian.ng
-    quality: 71
-    images:
-      - url: "https://guardian.ng/wp-content/uploads/2020/11/AI-robotics.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "FG set to commission National Centre for Artificial Intelligence and Robotics in Abuja"
     excerpt: "FG is set to commission the National Centre for Artificial Intelligence and Robotics in Abuja. The Federal Government of Nigeria, represented by the honorable Minister of Communication and Digital Economy,"
     publishedDateTime: 2020-11-13T10:02:00Z
@@ -71,6 +57,15 @@ related:
         width: 900
         height: 563
         isCached: true
+  - title: "Nigeria gets Artificial Intelligence, Robotics Centre"
+    excerpt: "Dr Isa Pantami, Minister of Communications and Digital Economy, on Friday in Abuja, inaugurated the National Centre for Artificial Intelligence and Robotics."
+    publishedDateTime: 2020-11-13T15:09:00Z
+    webUrl: "https://guardian.ng/news/nigeria-gets-artificial-intelligence-robotics-centre/?echobox=twitter_post"
+    type: article
+    provider:
+      name: The Guardian Nigeria
+      domain: guardian.ng
+    quality: 49
 
 secured: "gOL5hvW4TPCU/kwaQLYtiR9hKNKWa+NhadahPcwPqa3xBI6m4ftOn7mhnsyFDr1bObvbxifkjlxwZSJrzJ8hn+pIQaPYd4RqtZijzOy9G/0C7ulAlN0GCZVaTOGzNasxQGFeTShNKeIcCXAQU//96y92tzkglnU0Cpv8F6KOhkAmwONUmM3R2WPCMMj3vkTWh+44VOfh6DSayiBeqhMzrlB5144gCZuV2TXmZdNtMkDcgC4fmEoe/xpamdmOotLS/p+JIMVjrDMCFSXriaGnHcTIqZpFYqrX1xezrDMvdFFFOsBORdTItVlJOZWmPB0QoGXTRuznJ1CBxoMDEEMfJQBGOnGk0iSDCA0itt9UM4otimjDPkhRyObtpXQB+8AcGR7q5X50kc5DzoEXYELJCSmIO2VRoZQ30vNIve0PeapQQ8RMQP4Pnz7X0FL2MJzzdPnh2fXM7qRLOJEJ7GzRYGcTrVu3/ZABc1ueo9wj824SfBA0OSJFv2PBw/onb1ZhlToLuaU9dQJkM3fL0KiNdg==;BfkPQeQ0cnyV4kOGV9uFVw=="
 ---

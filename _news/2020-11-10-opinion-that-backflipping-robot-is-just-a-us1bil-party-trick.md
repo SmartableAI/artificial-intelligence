@@ -6,6 +6,9 @@ publishedDateTime: 2020-11-10T10:28:00Z
 originalUrl: "https://www.thestar.com.my/tech/tech-news/2020/11/10/opinion-that-backflipping-robot-is-just-a-us1bil-party-trick"
 webUrl: "https://www.thestar.com.my/tech/tech-news/2020/11/10/opinion-that-backflipping-robot-is-just-a-us1bil-party-trick"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Star

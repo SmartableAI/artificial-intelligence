@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2020/11/12/1011944/artificial-intel
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/11/12/1011944/artificial-intelligence-replication-crisis-science-big-tech-google-deepmind-facebook-openai/amp/"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: MIT Technology Review
@@ -26,22 +26,6 @@ images:
     width: 3000
     height: 1688
     isCached: true
-
-related:
-  - title: "How artificial intelligence is reshaping health care"
-    excerpt: "After years of hype about the impact artificial intelligence (AI) could have on health care, many experts believe that we are now on a cusp of a revolution in which AI will reshape various aspects"
-    publishedDateTime: 2020-11-13T16:03:00Z
-    webUrl: "https://www.hsph.harvard.edu/news/hsph-in-the-news/how-artificial-intelligence-is-reshaping-health-care/"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 39
-    images:
-      - url: "https://cdn1.sph.harvard.edu/social-share.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "WDR9OS20k7b/9yb0QN5PW6JmJbzoy7DFuEajdRG4c687xL65WKoQ5F+kUDLop10hvOm7LvuAAkDUivcMO2uUP3gAoyBIpAGO6eYDoY67casb7vlAjtbcb7iX+uUjpQmh1R7M0qo99+DAXpnR2JEyXQwuLn3hpPrFKJwk9f+AaRqdqEQ6/KxcY48aaUC8MDGtBs/l2lOnBDOAjhPjI0urp7GiFldIWPHb8L/4VJP35d640jKMakFNQC8ZbtSebPoMRC30QnKbMJ7QHLLYbPpeB0jaOAm9fV5wHBPaY/T93rLYMeDxd5R4AwMAY/SoBqXwz/TnI/R5VAmsYptVM51Z0N92ByvUmj9bac5SAMgjI1UOBoQgwzE/dkmgf0bTMdG1b+EbypSUsx7fupObfO4Kr3wBeGIbQOFyGIb9CqVDK47+PUhCxDkUTd2aneQM6HbxYOhPqxLl2deRSnzjCrH3I0mUODTtVU3FD8lOyFhqFJXneTJaazyrimNPSgvTp1DPu3Wn/zy52wFOIx5S2ChSIg==;vm5GfGhnCbz3o3JkxA+PLg=="
 ---

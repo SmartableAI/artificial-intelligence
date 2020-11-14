@@ -7,7 +7,7 @@ originalUrl: "https://bdaily.co.uk/articles/2020/11/12/yorkshire-fintech-startup
 webUrl: "https://bdaily.co.uk/articles/2020/11/12/yorkshire-fintech-startup-tots-up-450k-in-pre-seed-funding"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 940
     height: 430
     isCached: true
+
+related:
+  - title: "Borrowing insights startup ilumoni raises $450,000 pre-seed funding"
+    excerpt: "Move Ventures (formed by the founders of Market Gravity, acquired by Deloitte in 2017), and angel investors including Simon Moran, former CMO and now Non Executive Director, Premium Credit and Andy Deller,"
+    publishedDateTime: 2020-11-12T12:04:00Z
+    webUrl: "https://www.finextra.com/pressarticle/84948/borrowing-insights-startup-ilumoni-raises-450000-pre-seed-funding"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 37
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "iNRLt1qF8l8jcAJB2wH0BvttObL9JTCAluLFvmCVIshdy7Mw15Wcr6bReK9eT23huCjJa30JTT/HhGsiRIjTaMuJ4bXvXNidH7DO5oHU08oHz2aPJl/bIcLp81oEnqlcxYayTugK5iJqC6M7oTiHpUBrImhmj1XeUjRPNsGzs4BfawDMmrs0kTEEunW448POuxp+oMaabDjLikGkMX/J+6pyXORD99/wezUGeIh3P4mLnTtdLtmoGZ5AzJI8OoQVZ5Bwe2FFjV+AddwkMGW8io5OLcOde/hip7NAUQqKjTLyhNowvU1iOQCCABDpFUN3k06TkiOIhy9e1P36LvMJkVeWSkG4FIbiloshd1eJspE=;IE7vhh3O3Sy2w1Uosq4dAw=="
 ---

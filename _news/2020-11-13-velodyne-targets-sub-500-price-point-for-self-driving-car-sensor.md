@@ -68,6 +68,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 69
+  - title: "Uber in talks to sell its ATG self-driving unit to Aurora - source"
+    excerpt: "Uber Technologies Inc UBER.N is in talks to sell its autonomous driving unit, Uber Advanced Technologies Group (ATG), to self-driving car startup Aurora, a source familiar with the matter told Reuters."
+    publishedDateTime: 2020-11-13T23:44:00Z
+    webUrl: "https://www.nasdaq.com/articles/uber-in-talks-to-sell-its-atg-self-driving-unit-to-aurora-source-2020-11-13"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
 
 secured: "AWjwX8HEoW6NiL0kUwiHr5+X7XOF2hYKLwrLpqiS6B9Hxa6diEmQ14uTV0fmGqq7RpfbDpPKWgcnl9yxd7pBMIoaHKRJ1DnqQWC+QJHBPAmY82FAHRwjzM2479f4CBfVWGXfviEqQG3YmkZYe7oOBVL2Fh58lKyxV8AuYK7HpIk71LrD+jKTOd2RCwNIEySgl1KmhYmdvJQZTtqZj+Kt1laALOS3bYv16G24MUSb/BxQJb4sVYkmUcljDOx8rSfOmTG1seWDElxQH0ydNxKefZ2fcCl96SarmfT9NE4VXgi+i5IrKA6bPrslpqNJdpYzfJio6NnqyJbG/QS5IYj0bxbMlaZpFnO8/76vxz8bLNw=;XElFvd0DhAL2lcnYlloGdw=="
 ---

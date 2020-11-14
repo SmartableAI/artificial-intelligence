@@ -84,34 +84,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "FinTech firm for the fashion industry raises £1.35m"
-    excerpt: "Purple Dot, the ‘worth-the-wait’ payment option for fashion brands, today announces its seed round of £1.35m, led by Connect Ventures, with support from, AI Seed, Moxxie Ventures, Andy Chung"
-    publishedDateTime: 2020-11-09T08:51:00Z
-    webUrl: "https://londonlovesbusiness.com/fintech-firm-for-the-fashion-industry-raises-1-35m/"
-    type: article
-    provider:
-      name: londonlovesbusiness.com
-      domain: londonlovesbusiness.com
-    quality: 39
-    images:
-      - url: "https://londonlovesbusiness.com/wp-content/uploads/2019/08/Boohoo.jpg"
-        width: 660
-        height: 371
-        isCached: true
-  - title: "Oil & Gas specialist Trajan Consulting announces new bespoke Fintech, AI and Agile division for GCC"
-    excerpt: "As the ADIPEC Virtual Strategic Conference kicks off, the company aims to help the sector implement intense methodologies focused on improving processes"
-    publishedDateTime: 2020-11-09T07:41:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Oil__Gas_specialist_Trajan_Consulting_announces_new_bespoke_Fintech_AInbspand_Agile_division_for_GCC-ZAWYA20201109074133/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 25
-    images:
-      - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
-        width: 1200
-        height: 878
-        isCached: true
 
 secured: "xdODZIlVPjb7WDeEQ6yqxBSVhDIdCJH641CcDgz5k0cKZn3pYSoAyrhVMRRsmEkCLPcPKLCW4qH50TsJIZ5fs4vFh4HWi9YPe+cT0iXNIyfK20NrdPu/vPcHJyFlQ8FIbobRzNhWWsselPnnXx2ouULrsY9/ncp7D5HWQuw6n4b+THINutCqC0DFTlQc9itCiEZc6ywT8R7oahmwhEyXIF8evFb8agKyZsT6ZkeB23FUNjr5THiJkv+0527Q0NYmqkRrtPtqtvSqOyFRsz4zR0IZaUzHRBCusxU2VT3Kz2SIUOw+kFIScjucz6cNhWyRsiZhPchUo4fqKcQYcVxMEg2zH9Waq3GVDGQsRful/YFNNm2YcDSsevqL6OF0j80qcEEB62Fwk+v9hvJT5V19VUGWUrZd7hoghhZNu4S7gNGDjxBgSujQgnuoSamZGVjT2+vJxEeK89oJrHMFKew3hvb0C2PSpB5cvdegMAS/VBk/PBcjvvL7Dh5J0WaJKgGStfEYXb2UZri/kwR116h0sA==;FJIoaWMHqHZ+cIRKL122ow=="
 ---

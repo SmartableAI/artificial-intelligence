@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2187365/global-computer-vision-in-the-hea
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2187365/global-computer-vision-in-the-healthcare-market-report"
 type: article
 quality: 76
-heat: -1
-published: false
+heat: 106
+published: true
 
 provider:
   name: openpr.com
@@ -28,107 +28,43 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare Artificial Intelligence Market"
-    excerpt: "Latest Survey On Healthcare Artificial Intelligence Market ... Butterfly Network, Inc., Lifegraph, Enlitic, Inc., IBM (Watson Health), Sophia Genetics, Zebra Medical Vision Ltd., Pathway Genomics Corporation, AiCure, Sense.ly, Welltok, Insilico Medicine ..."
-    publishedDateTime: 2020-11-09T08:42:00Z
-    webUrl: "https://www.openpr.com/news/2183410/healthcare-artificial-intelligence-market-is-thriving"
-    ampWebUrl: "https://www.openpr.com/amp/2183410/healthcare-artificial-intelligence-market-is-thriving"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2183410/healthcare-artificial-intelligence-market-is-thriving"
+  - title: "Healthcare Information Technology Market mechanics Analysis: Global Industry Trends, Share, Key Players, Forecast to 2025"
+    excerpt: "Selbyville, Delaware This Global Healthcare Information Technology report studies the industry based on one or"
+    publishedDateTime: 2020-11-09T18:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-information-technology-market-mechanics-analysis-global-industry-trends-share-key-players-forecast-to-2025-2020-11-09"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 76
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
     images:
-      - url: "https://cdn.openpr.com/T/b/Tb09580094_g.jpg"
-        width: 780
-        height: 405
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "How an AI App Navigates Narrow Networks, Cuts Healthcare Spending"
-    excerpt: "Payers can reduce healthcare spending for self-funded employers by employing artificial intelligence, centering primary care services, and employing value-based contracts."
-    publishedDateTime: 2020-11-12T14:32:00Z
-    webUrl: "https://healthpayerintelligence.com/news/how-an-ai-app-navigates-narrow-networks-cuts-healthcare-spending"
-    ampWebUrl: "https://healthpayerintelligence.com/news/amp/how-an-ai-app-navigates-narrow-networks-cuts-healthcare-spending"
-    cdnAmpWebUrl: "https://healthpayerintelligence-com.cdn.ampproject.org/c/s/healthpayerintelligence.com/news/amp/how-an-ai-app-navigates-narrow-networks-cuts-healthcare-spending"
+  - title: "Impacts of COVID-19 on the Global Artificial Intelligence and Cognitive Computing Market Report Research Industry 2020"
+    excerpt: "MarketDesk :The Impacts of COVID-19 on the Artificial Intelligence and Cognitive Computing Market Report Research Industry 2020 has been included in market.biz library. This Global Artificial Intelligence and Cognitive Computing market report has been created in conjunction with primary business specialists,"
+    publishedDateTime: 2020-11-11T09:43:00Z
+    webUrl: "https://apnews.com/article/technology-business-science-apple-inc-corporate-news-60480de0ab81277db2e6944e9b9e5779"
     type: article
     provider:
-      name: healthpayerintelligence.com
-      domain: healthpayerintelligence.com
-    quality: 74
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
     images:
-      - url: "https://healthpayerintelligence.com/images/sized/GettyImages-1028612998-6352cfe9c42d690d78be4e1065fa9a1b.jpg"
-        width: 600
-        height: 347
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Google launches AI tools for healthcare to streamline document review, analysis"
-    excerpt: "Google launched new artificial intelligence tools for healthcare providers to search through medical documentation on Nov. 10, according to a Google Cloud blog post. Healthcare professionals can now preview Google's Healthcare Natural Language API and AutoML Entity Extraction for Healthcare,"
-    publishedDateTime: 2020-11-11T15:47:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/google-launches-ai-tools-for-healthcare-to-streamline-document-review-analysis.html"
+  - title: "Global Digital X-ray Market Outlook 2020-2025 Featuring Prominent Vendors - Siemens Healthineers, GE Healthcare, Koninklijke Philips, Canon Medical Sy"
+    excerpt: "Global Outlook and Forecast 2020-2025\" report has been added to ResearchAndMarkets.com's offering. In-depth Analysis and Data-driven Insights on the Impact of COVID-19 Included in this Global Digital X-Ray Market Report The global digital x-ray market by revenue is expected to grow at a CAGR of over 7% during the period 2019-2025."
+    publishedDateTime: 2020-11-13T10:11:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=373290"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 67
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "RAISE 2020: How healthtech startup SigTuple Technologies is leveraging the power of AI in healthcare"
-    excerpt: "Based out of Bengaluru, healthtech startup SigTuple Technologies combines AI, robotics, and data science to build smart healthcare screening solutions."
-    publishedDateTime: 2020-11-11T00:25:00Z
-    webUrl: "https://yourstory.com/2020/11/healthtech-startup-sigtuple-technologies-accel-chiratae-ventures"
-    ampWebUrl: "https://yourstory.com/2020/11/healthtech-startup-sigtuple-technologies-accel-chiratae-ventures/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/healthtech-startup-sigtuple-technologies-accel-chiratae-ventures/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 61
-    images:
-      - url: "https://images.yourstory.com/cs/2/3fb20ae02dc911e9af58c17e6cc3d915/Imagenyuh-1604738778996.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "AI-Powered Healthcare Navigation Platform Buoy Health Raises $37.5 Million"
-    excerpt: "AI-powered healthcare navigation platform Buoy Health announced it has raised $37.5 million in Series C funding."
-    publishedDateTime: 2020-11-11T22:17:00Z
-    webUrl: "https://pulse2.com/buoy-health-raises-37-5-million-funding/"
-    ampWebUrl: "https://pulse2.com/buoy-health-raises-37-5-million-funding/amp/"
-    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/buoy-health-raises-37-5-million-funding/amp/"
-    type: article
-    provider:
-      name: Pulse 2.0
-      domain: pulse2.com
-    quality: 52
-  - title: "Dell Announces New HPC and AI Solutions for Healthcare, Life Sciences, Manufacturing"
-    excerpt: "Dell Technologies announces new Dell EMC Ready Solutions and high-performance computing (HPC) cloud service provider"
-    publishedDateTime: 2020-11-09T16:26:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/dell-announces-new-hpc-and-ai-solutions-for-healthcare-life-sciences-manufacturing/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 47
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/market_covid_shutterstock_1658915128-405x228.jpg"
-        width: 405
-        height: 228
-        isCached: true
-  - title: "Blockchain AI Market worth $703 million by 2025 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to the new market research report \"Blockchain AI Market by Technology (ML & NLP), Component (Platform/Tools & Services),"
-    publishedDateTime: 2020-11-10T15:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/blockchain-ai-market-worth-703-million-by-2025--exclusive-report-by-marketsandmarkets-301169651.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 30
-    images:
-      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
-        width: 666
-        height: 350
-        isCached: true
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
 
 secured: "v+9OLiDSRQkPtDesSogCpdNI9djLpnNrrQHLfXaSBmxu7Tenfy3td8ttQyczr1eXnH41p5kmmhOiDGB0dmtxd1wyTT+idGwovMSmMiNKtNT+mmjjQPcolhBG3wQcLE+p6Qgwsl+RFKZsZJ0s9EXeuWGcsBr0qP4NkoJik/6MRBGYLZX3b1+/6UnPhcEXgdltdK0Guc9Vy+qBDfu0mRzrN3bkPnzN/4y0cIYy5JQoQ6OtsNx3Mh3qEXTJWd0yJl//L1qNIEw528728wRrVhJSzY3oGqvaa+wQEj4wKuQsOPaA2L2GyVhT37qzEzVTMvWf4F2SKhCeEia94Fx68wK9TE4efACmmzbtsqXckldVanlB3OoExurlZ0h8201ncosB57GREM6/US8DOHzv3JmcCYOL+ggjE2oLZyStWvulZHgwQfYbo44NxD3FdrCTe77+cGFQprA69ElHluHdA6hb7vgZVEdOC+us3oMNavMCI/IenJTrzLHUPBhwa3622+hoYiMJsVxrhkxd+Ks92g9lSA==;rpzWgGqu7JmCLWbF6ubabQ=="
 ---
