@@ -41,20 +41,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "While AI Has Provided Significant Benefits for Financial Services Organizations, Challenges Have Limited Its Full Potential"
-    excerpt: "COVID-19 has catalyzed financial services organizations to harness Artificial Intelligence (AI) to improve customer experience (CX); however, challenges in integration and customer perceptions are undermining its potential."
-    publishedDateTime: 2020-11-09T19:30:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-virus-outbreak-corporate-news-products-and-services-8862d167813b42b78658604d1ca2a8ba"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 11
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "XZ11rfCqi4e9h7CETM6ZND7oBlOLcJ+7nrCuwZeHL3J8UkZZaZ0Cflupw9sn6igSHDiSZJT6g/E8twmYyuUuVz//A0AEpgKO1JEAD9YWSL/2nKbHm7+xfbz5cT5C8APkMKSFjPTf9Cc84TAPh5yD3Y8nWrA7mSuP6cZsc7+oq1NAeOPnLQvwTVIOTwmgVmO6BGXutpe04jN39SysFQULxT2OQJdAd+3VV7jkh09AF09HffIPtLwDMmpERZGheHDlP8p2kMD1g2XcFbIx04ZDO5/uyRCCkp9jqP6Fn63B0BwfSyA+cpU/dkZKz22VJrduMG6JwW3FcCvdGNSbiGWK3XMOkCw6zmry8zZu9leougL+l1Nk0eivKm6NzQqV8OhDTpFrDj7gZldHl7OzPyARF1QIAmq5DZafwdZ+/rA68b9POt8tRIy5SKx8mAYvGC20bymI7ABrxcOizDakGduBEahenh39ejHN8EE1QNv6kfzHlZR4zJF1pq+CCeq8R3tW0XzP1ZXy3VgzJ3Mcc1qCuw==;U8NQzw6nW32930SMmMuDpQ=="
 ---

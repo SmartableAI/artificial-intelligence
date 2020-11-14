@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2020-11-survey-artificial-intelligenc
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-survey-artificial-intelligence-chest-imaging.amp"
 type: article
 quality: 57
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Air Force Turns to Machine Learning to Fight COVID-19 Disinformation"
-    excerpt: "Just as the technology can be used to help deliberately spread falsities online, it can also be tapped to stop that spread."
-    publishedDateTime: 2020-11-09T19:58:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2020/11/air-force-turns-machine-learning-fight-covid-19-disinformation/169900/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 54
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2020/11/09/NGmisinfo20201109/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Mount Sinai builds machine learning models to predict COVID-19 mortality"
     excerpt: "New York City-based Mount Sinai Health System researchers created machine learning-powered models that identify high risk and likelihood of mortality in COVID-19 patients. The researchers used EHRs from more than 4,"
     publishedDateTime: 2020-11-12T22:17:00Z

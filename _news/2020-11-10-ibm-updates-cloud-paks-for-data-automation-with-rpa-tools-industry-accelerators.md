@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-updates-cloud-paks-for-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-updates-cloud-paks-for-data-automation-with-rpa-tools-industry-accelerators/"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 7
+  - title: "IBM Advances Hybrid Cloud Software with New Data and Automation Capabilities to Help Companies Speed Digital Transformations"
+    excerpt: "In addition, Cloud Pak offerings integrate with IBM Watson, enabling clients to infuse AI into their systems to predict and analyze future outcomes, automate complex processes, optimize employees ..."
+    publishedDateTime: 2020-11-10T21:23:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ibm-advances-hybrid-cloud-software-with-new-data-and-automation-capabilities-to-help-companies-speed-digital-transformations-301169589.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+        width: 2698
+        height: 1414
+        isCached: true
 
 secured: "M2XjwXqdlgqn2BkEI5p6EptEd1ajB1hlio+ahhHlYSG8cCsTFnRaUGF6VuWdnyrB1xPgSmVkV3sgRVubDO6Jw+7Qroua0ThWAf80dzco5ZIMP/bcwhFru0tDoxG4u8v3Skql81EVBUCBo2bkKM7PkuO105+eQZ7pVZmmGGNLeX6yxBt6klRXQR0aaKsqcKx7Rifpzak8oiW9DjOsNdrH71ITU07mYufaccEmxOz9ts6Kjm6Fi7EJLH0aMyV4KchF8r7wA59l8k41/xWxx1bfa3fUCS++1wLyyHNoSP4MzYmNqHVRdQKBrcAuPc1rWbyN2yLyBCAEekquin6+cLNLuw3Jtr41695BuSbnFmk+hBiLCN3Y9FWvPrdzJqn805gE/PUk+N0hGys3IvhrznBW0VtjoxdsjVg0tVOdbprZ4NTr9OCpXE2xh90kYIVTh2CU024IDOrAB0u8f5DtMeegokpBEo6sNGNAAIDmjGppzFaOaa7xxwsqdw6HVlrzsK8yb4ZsY0Y0jfrnxjaQLR5MFw==;ugsDXkz/rw5b6446WpCEKw=="
 ---

@@ -35,6 +35,20 @@ related:
         width: 600
         height: 402
         isCached: true
+  - title: "Nigeria gets Artificial Intelligence, Robotics Centre"
+    excerpt: "Dr Isa Pantami, Minister of Communications and Digital Economy, on Friday in Abuja, inaugurated the National Centre for Artificial Intelligence and Robotics."
+    publishedDateTime: 2020-11-13T15:09:00Z
+    webUrl: "https://guardian.ng/news/nigeria-gets-artificial-intelligence-robotics-centre/"
+    type: article
+    provider:
+      name: The Guardian Nigeria
+      domain: guardian.ng
+    quality: 69
+    images:
+      - url: "https://guardian.ng/wp-content/uploads/2020/11/AI-robotics.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "FG set to commission National Centre for Artificial Intelligence and Robotics in Abuja"
     excerpt: "FG is set to commission the National Centre for Artificial Intelligence and Robotics in Abuja. The Federal Government of Nigeria, represented by the honorable Minister of Communication and Digital Economy,"
     publishedDateTime: 2020-11-13T10:02:00Z
@@ -65,15 +79,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Nigeria gets Artificial Intelligence, Robotics Centre"
-    excerpt: "Dr Isa Pantami, Minister of Communications and Digital Economy, on Friday in Abuja, inaugurated the National Centre for Artificial Intelligence and Robotics."
-    publishedDateTime: 2020-11-13T15:09:00Z
-    webUrl: "https://guardian.ng/news/nigeria-gets-artificial-intelligence-robotics-centre/?echobox=twitter_post"
-    type: article
-    provider:
-      name: The Guardian Nigeria
-      domain: guardian.ng
-    quality: 49
 
 secured: "bTlI+Enp3l4UzAefHk/LRIFlyI8aw7ZZhbYyoYfXA4scKqNJ5R7bDVpEPc2mhWOSZq/VDkVbMSKz3fKljve1xJ5vBEy/emIouLNOWkHgOiRdedinXiuzWCcMZeFIz4P4JzpQlg92XbY2i2CPGronnGWaZ24WZR902MVarVdF1XS8rRQE01UGKpY/EiOYdcXavE5URQOuBxH5A81zmutxKd8E0evJAc2awSlygfqoZlwQhGpTRwYMHO6brZjl4BNJ8B+CpDx8uPDctAvpUGEZlZmIuD4I/lgUefs9GabBtImuX2yI/mxmXTHOseJVY50i+aOLpp54nBPa0lT4lbSMK466qloV+gXUyud7NqFkF6I=;G9heFFr6T2Kgr6uuXVAkAA=="
 ---

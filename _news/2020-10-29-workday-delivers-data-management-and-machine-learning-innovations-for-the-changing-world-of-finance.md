@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Workday Delivers Data Management and Machine Learning Innovations for the Changing World of Finance"
-excerpt: "(GLOBE NEWSWIRE) -- Workday Inc. (NASDAQ: WDAY), a leader in enterprise cloud applications for finance and human resources, today announced availability of Workday Accounting Center and machine learning (ML)-driven predictive forecasts for Workday Adaptive Planning,"
+excerpt: "Advances in Managing Data Create New Levels of Insight and Performance Accountability for Today's Agile Organizations PLEASANTON, Calif., Oct. 29, 2020 (GLOBE NEWSWIRE) -- Workday Inc. (NASDAQ: WDAY),"
 publishedDateTime: 2020-10-29T09:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-world-of-finance-2020-10-29-9184059"
-webUrl: "https://www.marketwatch.com/press-release/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-world-of-finance-2020-10-29-9184059"
+originalUrl: "https://www.marketwatch.com/press-release/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-world-of-finance-2020-10-29"
+webUrl: "https://www.marketwatch.com/press-release/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-world-of-finance-2020-10-29"
 type: article
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 630
     isCached: true
 
-secured: "IwPMSyvaGpUk1TsJv/NLZVkye0lOoomEH7JNqbJIfHIoFsF1FECOeskA+aVZt6w3brrP2duKgzBcVO68EYEn/6yj1FeoM/kfYljdsYhKA4oND8vDy01mPIkkC6ieVAf7yvG5OcIkDJlfkijLg/mzHvOBmqWUMSd4FfK9MExtmdcqSDsIbQ1esIPkJJvMRnvrOfw7eJet9JgD7/jfyAtq030F5Mjo9nL1RfdFLr9tplvv4BBUMW5cjq5s3uLbtUg0Mz5KQ//Ux1tWOS6FKiXOgEl/iSqb96OsSVn5WTXZQor6mrFO/7zDLZKRwdEm26nIixS7+L0GOmOYk/2c3vHXRJeMP2Heju9GigLA/GUGFPo=;4RlcTjRre1mkOyW7MY5LTA=="
+secured: "Iw0NCWT4GdkiE8K1Y27YqHDZpRDi9tR4/JN8LLeA02yw+uFonQpcXl2tW9zNa9RxLlc5EyJgLrmX38/2bHVsa5p/phdoA+Tm+Fava2NRC9hPYiGyklHSYF/Ev7odYUBiWXL5sPCfTxFiyidtJ2Um5keXFmheG5VrMYlGAacWfLO7de5YVoHy1iCQNOAGoIAjd3adIYiv/OvKUYKUXynti77fk8sxuk9MVK5utFJOKqnulqPhj992Zi6HePp8OryU7MM2C6AX9eM7180YQXhwHwdZUyzLx4Zro+yVphwwduYIJfw4bmNnF+OOUby3hbS8iq95la5h8lY7HhKTZoM7EOpYot2xcWY3nrB7zpWgiLs=;cXdaUWFO5qWOn7oBfMHdqA=="
 ---
 

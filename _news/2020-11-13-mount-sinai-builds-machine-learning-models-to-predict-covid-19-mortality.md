@@ -41,20 +41,6 @@ related:
         width: 1920
         height: 1806
         isCached: true
-  - title: "Air Force Turns to Machine Learning to Fight COVID-19 Disinformation"
-    excerpt: "Just as the technology can be used to help deliberately spread falsities online, it can also be tapped to stop that spread."
-    publishedDateTime: 2020-11-09T19:58:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2020/11/air-force-turns-machine-learning-fight-covid-19-disinformation/169900/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 54
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2020/11/09/NGmisinfo20201109/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Developing machine learning models to predict critical illness and mortality in COVID-19 patients"
     excerpt: "Mount Sinai researchers have developed machine learning models that predict the likelihood of critical events and mortality in COVID-19 patients within clinically relevant time windows. The new models outlined in the study—one of the first to use machine learning for risk prediction in COVID-19 patients among a large and diverse population,"
     publishedDateTime: 2020-11-10T21:00:00Z

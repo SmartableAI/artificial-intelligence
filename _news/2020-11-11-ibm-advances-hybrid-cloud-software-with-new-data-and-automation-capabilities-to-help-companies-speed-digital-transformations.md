@@ -1,29 +1,86 @@
 ---
 category: news
 title: "IBM Advances Hybrid Cloud Software with New Data and Automation Capabilities to Help Companies Speed Digital Transformations"
-excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
-publishedDateTime: 2020-11-11T02:11:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20201110ny86053/ibm-advances-hybrid-cloud-software-with-new-data-and-automation-capabilities-to-help-companies-speed-digital-transformations"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20201110ny86053/ibm-advances-hybrid-cloud-software-with-new-data-and-automation-capabilities-to-help-companies-speed-digital-transformations"
+excerpt: "In addition, Cloud Pak offerings integrate with IBM Watson, enabling clients to infuse AI into their systems to predict and analyze future outcomes, automate complex processes, optimize employees ..."
+publishedDateTime: 2020-11-10T21:23:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ibm-advances-hybrid-cloud-software-with-new-data-and-automation-capabilities-to-help-companies-speed-digital-transformations-301169589.html"
+webUrl: "https://www.prnewswire.com/news-releases/ibm-advances-hybrid-cloud-software-with-new-data-and-automation-capabilities-to-help-companies-speed-digital-transformations-301169589.html"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-    width: 400
-    height: 209
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+    width: 2698
+    height: 1414
     isCached: true
 
-secured: "VgDmRljCW1S4eRV5xxMMOAH9MO2PGrPZVkM3vIJ+xw+KHh8B++mgUrJhDICaJJTWMdL9LJZdq191j1kbftx34epQeGMoffWpCcqlnG31Ih6/0Gk29QgaYgJkSfkE3iFwtz8vQBQe+mWcIbblg/0Gu0WtkWMgYD6H/iHnMU2XIa0lkTkkVoDHRsYhzLmd5nbJSyWR5UnSPfi8OoPtX/ViHmqAhNMyagm/N0Td7EB7/W0Mt0bld2Peu6cByFFcaWAseiU1SJs3moMwq2sftds/VysSZGUPJg/hV/xKwBDjabfvAYZSLr/UTdXkVnGtMpubtSw050b7RQkRql2CgZf0lNMi+zvse2aPjWNcfLOa7wc=;9zMANH5LuR4HS3yQqQEOcw=="
+related:
+  - title: "IBM updates Cloud Paks for data, automation with RPA tools, industry accelerators"
+    excerpt: "IBM said it is updating it Cloud Pak for Data and Cloud Pak for Automation with accelerators for industry use cases for data science, machine learning, document processing and rob"
+    publishedDateTime: 2020-11-10T06:00:00Z
+    webUrl: "https://www.zdnet.com/article/ibm-updates-cloud-paks-for-data-automation-with-rpa-tools-industry-accelerators/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-updates-cloud-paks-for-data-automation-with-rpa-tools-industry-accelerators/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-updates-cloud-paks-for-data-automation-with-rpa-tools-industry-accelerators/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/09/18/b9991307-7e4f-4d35-b13a-a8a65270ed50/thumbnail/1200x675/99095146e257bc78f2ddff3ac6c5d86f/cloud.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "IBM grows automation, data features for hybrid cloud control"
+    excerpt: "IBM continued enhancing its core Cloud Pak hybrid cloud software offerings, this week bolstering automation and data features that will let customers simplify everything from software provisioning and patching,"
+    publishedDateTime: 2020-11-11T14:39:00Z
+    webUrl: "https://www.networkworld.com/article/3596498/ibm-grows-automation-data-features-for-hybrid-cloud-control.html"
+    ampWebUrl: "https://www.networkworld.com/article/3596498/ibm-grows-automation-data-features-for-hybrid-cloud-control.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3596498/ibm-grows-automation-data-features-for-hybrid-cloud-control.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 46
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/10/cso_security_hack_control-center_breach_gettyimages-808157576_by-gorodenkoff_2400x1600px-100861757-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "IBM mixes more deep learning into its Cloud Paks"
+    excerpt: "IBM Corp. today introduced new versions of its Cloud Pak for Data and Cloud Pak for Automation products that will enable enterprises to harness deep learning models in their operations more easily. The Cloud Pak product family is a set of software solutions designed to streamline a variety of tasks ranging from cybersecurity to data analytics."
+    publishedDateTime: 2020-11-10T20:55:00Z
+    webUrl: "https://siliconangle.com/2020/11/10/ibm-mixes-deep-learning-cloud-paks/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/Krishna-768x512.jpg"
+        width: 768
+        height: 512
+        isCached: true
+  - title: "IBM Advances Hybrid Cloud Software with New Data and Automation Capabilities to Help Companies Speed Digital Transformations"
+    excerpt: "IBM today announced a series of data and automation updates to its hybrid cloud software portfolio to help companies drive innovation across their expanding environments and accelerate their digital transformations."
+    publishedDateTime: 2020-11-10T14:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/ibm-advances-hybrid-cloud-software-with-new-data-and-automation-capabilities-to-help"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 7
+
+secured: "v+5hehM6dGANfjXMrdxPM0RCLlkaos5QCnkgocoeI3zs7eVjjpMMQkuJAwV2EjGit7wfEHxTB+ZeKMcspq3HsNJaUYfvlF2fAhrocKeHCRiGH53/zzejWVJ/KWdGR6kGUCvXOXVRo18tggoMHyERIOAiaTJ/NcMvHPKiXunEhitJxZvgBYCBuoEztX/WqTyHUKeNzFeqqVDVjR/GaWXPGh8XptZ/Kjqxf5xZ1TTiMvuPgYkqOl3u3qI/vyqeuRnkwomAe7kl7Eu7l1Eiusm9nvytdQBm/6Dcoj7CzQYRWwRjPMN5ma231Uls/R/ef/B2dCgIvDfUDA8M2PUYrO4WWeTMxyPC0L7M7IeymSC+UsM=;P2GB0P99OIAB5CiUt2fgtw=="
 ---
 

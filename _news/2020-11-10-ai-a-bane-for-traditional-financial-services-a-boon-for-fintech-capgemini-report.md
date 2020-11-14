@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindubusinessline.com/info-tech/ai-a-bane-for-traditi
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ai-a-bane-for-traditional-financial-services-a-boon-for-fintech-capgemini-report/article33063906.ece/amp/"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: Business Line
@@ -40,20 +40,6 @@ related:
       - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/11/Untitled-design-38.jpg"
         width: 750
         height: 422
-        isCached: true
-  - title: "While AI Has Provided Significant Benefits for Financial Services Organizations, Challenges Have Limited Its Full Potential"
-    excerpt: "COVID-19 has catalyzed financial services organizations to harness Artificial Intelligence (AI) to improve customer experience (CX); however, challenges in integration and customer perceptions are undermining its potential."
-    publishedDateTime: 2020-11-09T19:30:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-virus-outbreak-corporate-news-products-and-services-8862d167813b42b78658604d1ca2a8ba"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 11
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "3bNE2e7j/oliADOq1GfnAZtdfs05JLqQJFcYnSATbyUNceEmLzYPie3oC8w0pEgHJgA3cseVxMu89H6AKFJW4TrD6oOgRvs86f4I2N3q7TEZ+LuZD8O5V/YNmTPXGliJxmqNxE8GnYEFp97fYxhyJ7FElFjrh9cEgDRSWPhIrSywOcj/r/CMxYEm8/XNzZLEy0JW8hlrcyLGnunom4RHnfcwYgtt8eb8RSBBg/N3FcPKM5pkqCyHkFQ6ey1GSK6P4f4JwlkqFfZOHwP39s4Ydyv8F9UkloCGhuP6HNAIaa2V5F4tjSPf6D1+nQ8NuricOjiakrPJH6hJdh7fuOYBquqK2UlZVz2qRst79Dmese8=;+cGjqfUFENm+WdQ3I3Xz8Q=="
