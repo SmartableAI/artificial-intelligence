@@ -2,14 +2,14 @@
 category: news
 title: "What's next for AI: Gary Marcus talks about the journey toward robust artificial intelligence"
 excerpt: "Gary Marcus is one of the more prominent, and controversial, figures in AI. Going beyond his critique on Deep Learning, which is what many people know him for, Marcus puts forward a well-rounded propo"
-publishedDateTime: 2020-11-12T15:13:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/"
+publishedDateTime: 2020-11-12T07:05:00Z
+originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/"
+webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/"
 type: article
-quality: 95
-heat: 95
+quality: 93
+heat: 93
 published: true
 
 provider:
@@ -21,9 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI in Healthcare
+  - Natural Language Processing
   - AI
-  - Machine Learning
 
 images:
   - url: "https://zdnet4.cbsistatic.com/hub/i/2020/11/12/931ab7f6-3ca4-4467-82c1-c76b3311cbcb/gary-marcus.jpg"
@@ -31,6 +30,6 @@ images:
     height: 392
     isCached: true
 
-secured: "J6AdECE5ZHLJEjEsoVNnT5iXX09gY+nv303e1Qp5r/TXaw9gA2mKVK/z3j+a4BsHms4A70UP1Yh1KBjpQoUpmqW/q4dKa9NJgaBhdmETyeFL+Get/aE+mIm2BFbhpHUsbNJ4UyGsYMSF5A4UymaQTzaufQsqyEeOVk2/PGQCqqU521W7Mhtp58ewvElkRW0kPn1cRIWc+4WklVsmNgB4WBQ2wLaea55b/0/EkvbAK5aeVOy+wdja7GqIsv7GT8XN/5kcdIdNCEuIhoVV63kpPxEYuRdzvrVwu0gDygWCO2rYopHNPvilE0eOuB/ElpZHAEQqm4pzcUKrdm7PTSKF98aDdR4gEpDiRdTMDT2eO8s=;0tC/pBRvfMNwGIxr5Ea+OA=="
+secured: "o75nRW9mGs5+akR3rbHQuC2bxgU9SvY/ZYqK6fuZZLIi91lZV4b0Ejny73mfWD3nmcgO5xTOHjl8PAnOVraU3SxZsD9guuuKS8dIi6xXNAlr54TRIRQy3GvRAvDadrP4qmo21zKjfdpkouLHR/Bweu1tgqhY/bEoKuPpNmaNQbuYWjLDoVK2JkkVP+AIMPnH7Ct7p6a+k9mKf3Y01t7GHMFbqATw9UPI/nwgkoiHdGk6zrwUjxLUsTXBqXr3F4gTtN6e/UlJthisobQKdzDsDm8Qdt0kkvahurbsQ66yiTh7u3HBtXBaahKWQQmTRPlN3IjS65DpONmLqZ+v1yXV8ZBmhg5pwqzbJQG94uPv3Ig=;MbR8WBRn3awz7U7kwK/jMA=="
 ---
 

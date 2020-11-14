@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2020-11-survey-artificial-intelligenc
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-survey-artificial-intelligence-chest-imaging.amp"
 type: article
 quality: 57
-heat: 117
+heat: 128
 published: true
 
 provider:
@@ -79,19 +79,33 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 41
-  - title: "MIT’s AI analysis shows extreme anxiety levels among people since the start of COVID-19"
-    excerpt: "Massachusetts Institute of Technology (MIT) researchers with some help from Harvard Medical School analyzed the mental states of people by using various Reddit subforums aka Subreddits."
-    publishedDateTime: 2020-11-09T18:05:00Z
-    webUrl: "https://www.techjuice.pk/mits-ai-analysis-shows-extreme-anxiety-levels-among-people-since-the-start-of-covid-19/"
+  - title: "A look at promising COVID-19 treatments"
+    excerpt: "More than 100 treatments to save those infected with the new coronavirus are now being tested or researched, and several experimental therapies have been expedited into clinical trials. Among the latest: the Food and Drug Administration this week granted emergency use authorization for Eli Lilly’s monoclonal antibody treatment,"
+    publishedDateTime: 2020-11-10T20:03:00Z
+    webUrl: "https://www.ajc.com/news/a-look-at-promising-covid-19-treatments/HUZEHP65MNEHBLQPLGIKYX7DWQ/"
     type: article
     provider:
-      name: techjuice.pk
-      domain: techjuice.pk
-    quality: 31
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 24
     images:
-      - url: "https://cdn.techjuice.pk/wp-content/uploads/2020/11/5f357c17b4bb1c001df531d3.jpg"
-        width: 1100
-        height: 825
+      - url: "https://www.ajc.com/resizer/ST2fUTz4j_ThirIKikD51QMXzUA=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/CJSNPHCYTKJ3ZU3DBTQWJVU4NE.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Drug companies deliver a vote of confidence in adaptive trial for Covid-19"
+    excerpt: "A novel clinical trial that uses AI to rapidly compare Covid-19 treatments has attracted participation from two major drug companies."
+    publishedDateTime: 2020-11-10T09:48:00Z
+    webUrl: "https://www.statnews.com/2020/11/10/adaptive-trials-covid19-amgen-eisai/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 22
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2018/10/STAT_Amgen02-1024x576.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Students searching for internships during the COVID pandemic must be prepared for AI-driven interviews"
     excerpt: "We believe that every college and university student and recent graduate deserves a great part-time, seasonal, internship, and entry-level job!"

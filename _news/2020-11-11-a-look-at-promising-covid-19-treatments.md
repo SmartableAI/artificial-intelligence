@@ -25,52 +25,75 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving delivery firm Nuro raises $500 million as COVID-19 boosts e-commerce"
-    excerpt: "Self-driving delivery company Nuro, whose R2 unit has no pedals or steering wheel and only room for packages, said Monday it has raised $500 million as e-commerce gets a huge boost from the pandemic."
-    publishedDateTime: 2020-11-09T17:22:00Z
-    webUrl: "https://www.reuters.com/article/us-autonomous-nuro-funding/self-driving-delivery-firm-nuro-raises-500-million-as-covid-19-boosts-e-commerce-idUKKBN27P1FT"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27P1FT"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27P1FT"
+  - title: "A survey on artificial intelligence in chest imaging of COVID-19"
+    excerpt: "In a new article for BIO Integration journal, a group of researchers from China consider the application of artificial intelligence imaging analysis methods for COVID-19 clinical diagnosis."
+    publishedDateTime: 2020-11-11T15:25:00Z
+    webUrl: "https://medicalxpress.com/news/2020-11-survey-artificial-intelligence-chest-imaging.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-11-survey-artificial-intelligence-chest-imaging.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-survey-artificial-intelligence-chest-imaging.amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 182
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540581533&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81M2"
-        width: 817
-        height: 545
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/chestxray.jpg"
+        width: 1920
+        height: 1806
         isCached: true
-  - title: "Self-driving delivery startup Nuro just raised $500 million to help make automated pizza and grocery delivery a reality — here's how it works"
-    excerpt: "Nuro's R2 vehicle. Nuro Nuro, a self-driving delivery startup, has raised $500 million in its latest funding round, according to the"
-    publishedDateTime: 2020-11-10T00:00:00Z
-    webUrl: "https://www.businessinsider.com/self-driving-delivery-vehicle-startup-nuro-how-it-works-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/self-driving-delivery-vehicle-startup-nuro-how-it-works-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/self-driving-delivery-vehicle-startup-nuro-how-it-works-2020-11?amp"
+  - title: "Air Force Turns to Machine Learning to Fight COVID-19 Disinformation"
+    excerpt: "Just as the technology can be used to help deliberately spread falsities online, it can also be tapped to stop that spread."
+    publishedDateTime: 2020-11-09T19:58:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2020/11/air-force-turns-machine-learning-fight-covid-19-disinformation/169900/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
+      name: Nextgov
+      domain: nextgov.com
+    quality: 54
     images:
-      - url: "https://i.insider.com/5faad0c01df1d50018219e64?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/11/09/NGmisinfo20201109/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Nuro raises $500M more for self-driving delivery vehicles"
-    excerpt: "Nuro Inc., one of the better-funded startups in the autonomous driving market, today disclosed that it has added $500 million to its war chest through a new funding round led by T. Rowe Price Associates."
-    publishedDateTime: 2020-11-09T20:50:00Z
-    webUrl: "https://siliconangle.com/2020/11/09/nuro-raises-500m-more-self-driving-delivery-vehicles/"
+  - title: "Mount Sinai builds machine learning models to predict COVID-19 mortality"
+    excerpt: "New York City-based Mount Sinai Health System researchers created machine learning-powered models that identify high risk and likelihood of mortality in COVID-19 patients. The researchers used EHRs from more than 4,"
+    publishedDateTime: 2020-11-12T22:17:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/mount-sinai-builds-machine-learning-models-to-predict-covid-19-mortality.html"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 53
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/nuro.png"
-        width: 875
-        height: 491
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/5.jpg"
+        width: 400
+        height: 300
         isCached: true
+  - title: "Developing machine learning models to predict critical illness and mortality in COVID-19 patients"
+    excerpt: "Mount Sinai researchers have developed machine learning models that predict the likelihood of critical events and mortality in COVID-19 patients within clinically relevant time windows. The new models outlined in the study—one of the first to use machine learning for risk prediction in COVID-19 patients among a large and diverse population,"
+    publishedDateTime: 2020-11-10T21:00:00Z
+    webUrl: "https://medicalxpress.com/news/2020-11-machine-critical-illness-mortality-covid-.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-11-machine-critical-illness-mortality-covid-.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-machine-critical-illness-mortality-covid-.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 46
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/48-covid19.jpg"
+        width: 1920
+        height: 1032
+        isCached: true
+  - title: "Machine learning models to predict critical illness and mortality in COVID-19 patients"
+    excerpt: "Researchers have developed machine learning models that predict the likelihood of critical events and mortality in COVID-19 patients within clinically relevant time windows."
+    publishedDateTime: 2020-11-13T22:38:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/11/201110151134.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 41
   - title: "Drug companies deliver a vote of confidence in adaptive trial for Covid-19"
     excerpt: "A novel clinical trial that uses AI to rapidly compare Covid-19 treatments has attracted participation from two major drug companies."
     publishedDateTime: 2020-11-10T09:48:00Z
@@ -84,6 +107,20 @@ related:
       - url: "https://www.statnews.com/wp-content/uploads/2018/10/STAT_Amgen02-1024x576.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Students searching for internships during the COVID pandemic must be prepared for AI-driven interviews"
+    excerpt: "We believe that every college and university student and recent graduate deserves a great part-time, seasonal, internship, and entry-level job!"
+    publishedDateTime: 2020-11-12T21:50:00Z
+    webUrl: "https://www.collegerecruiter.com/blog/2020/11/12/students-searching-for-internships-during-the-covid-pandemic-must-be-prepared-for-ai-driven-interviews/"
+    type: article
+    provider:
+      name: College Recruiter
+      domain: collegerecruiter.com
+    quality: 21
+    images:
+      - url: "https://www.collegerecruiter.com/images/cr_logos/cr_logo.png"
+        width: 593
+        height: 240
         isCached: true
 
 secured: "q2FOtWIijKyKz89Ndp6PE9PlfSeaaIQqdvx21i9T9hJ4NtcxCmziVbEXhanTBbzAZ2P13eZlYOnBKCLEUV1kv9QLxjRXsdpPh9yyJx/vSdwG3SPfaKQ/ZYS9m77FUp7abl3fkLAcFtbqGAvnEAjV+21PibAhFYRzGxuQwF7MhooHZ2NvH9duk0IoKuQ5Vw1s5fS5stLhE+j6z4+uhyNaiw+HfvHrG1nL2jd0L2d5+bgwyxazN5munPIcarU4rRLzA6GCXxHDwIopAp8OkMNc55Y0kktrKrOgAhZphrY5WEGFYWldZrk2va6q8EcV6R8VGiee+JQ2yLiV80xrw1wp8HRF/uco2svS4TNkNj4F7OM=;ixLdPFreJdr2arkk5r+8RQ=="

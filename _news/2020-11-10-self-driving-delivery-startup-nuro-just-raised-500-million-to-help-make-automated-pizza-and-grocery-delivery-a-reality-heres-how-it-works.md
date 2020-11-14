@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/self-driving-delivery-vehicle-startu
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/self-driving-delivery-vehicle-startup-nuro-how-it-works-2020-11?amp"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -30,66 +30,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Self-driving delivery firm Nuro raises $500 million as COVID-19 boosts e-commerce"
-    excerpt: "Self-driving delivery company Nuro, whose R2 unit has no pedals or steering wheel and only room for packages, said Monday it has raised $500 million as e-commerce gets a huge boost from the pandemic."
-    publishedDateTime: 2020-11-09T17:22:00Z
-    webUrl: "https://www.reuters.com/article/us-autonomous-nuro-funding/self-driving-delivery-firm-nuro-raises-500-million-as-covid-19-boosts-e-commerce-idUKKBN27P1FT"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27P1FT"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27P1FT"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 182
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540581533&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81M2"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Nuro raises $500M more for self-driving delivery vehicles"
-    excerpt: "Nuro Inc., one of the better-funded startups in the autonomous driving market, today disclosed that it has added $500 million to its war chest through a new funding round led by T. Rowe Price Associates."
-    publishedDateTime: 2020-11-09T20:50:00Z
-    webUrl: "https://siliconangle.com/2020/11/09/nuro-raises-500m-more-self-driving-delivery-vehicles/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/nuro.png"
-        width: 875
-        height: 491
-        isCached: true
-  - title: "A look at promising COVID-19 treatments"
-    excerpt: "More than 100 treatments to save those infected with the new coronavirus are now being tested or researched, and several experimental therapies have been expedited into clinical trials. Among the latest: the Food and Drug Administration this week granted emergency use authorization for Eli Lilly’s monoclonal antibody treatment,"
-    publishedDateTime: 2020-11-10T20:03:00Z
-    webUrl: "https://www.ajc.com/news/a-look-at-promising-covid-19-treatments/HUZEHP65MNEHBLQPLGIKYX7DWQ/"
-    type: article
-    provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 24
-    images:
-      - url: "https://www.ajc.com/resizer/ST2fUTz4j_ThirIKikD51QMXzUA=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/CJSNPHCYTKJ3ZU3DBTQWJVU4NE.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Drug companies deliver a vote of confidence in adaptive trial for Covid-19"
-    excerpt: "A novel clinical trial that uses AI to rapidly compare Covid-19 treatments has attracted participation from two major drug companies."
-    publishedDateTime: 2020-11-10T09:48:00Z
-    webUrl: "https://www.statnews.com/2020/11/10/adaptive-trials-covid19-amgen-eisai/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 22
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2018/10/STAT_Amgen02-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "QIBPZ2r9TD6o9Me7vxD0/ghCelOYNun8mPGNRBI8biPKaLISCUUH/uU8tcOWUjK8A/8PgimqLN9I/ckfRbuLU4nqaKxfjYhQMCvCxPuDuQt0yfGmoRls/e6HHNDrZMn5GNWysvYtBCNioR6NMrdeYG5nxqC2xLpBune4QC0Dfr9RBe3PbDsP+8h4Oa12TjbhQeh6LKSf3HC4QezjEyqr7RKFbG+GbynZZdnyA4dJS8t9Ak78t3UmdWPYBuWE+as5QsXwERWcYUhTjYHvSlgFYRsK/gJQ9YLstHdmzsMX70SMEgjbp2aEN2P0Ob5yY9ag/8s6vzLdBB1P0+h6vV8p0KtT7wGHCtkSRrq0FdioKG0N47NHpwTqCbfOfsz9yRrT0rE7rdQ6RTVUQ1JELG5nznEsA5giPNQSR0Xne53SDBaFQJxXFTHg6Q4pswug8awvE67W6vktY+CH+TBFdhxPnhGMT8pru+jWcamVT2qrs9Tf4ORGIbK2BHwhygqH/hN2uFevMMczK4YVDXmz2gJuGQ==;wo3OSY7sDYzR0QPZsKIMDA=="
 ---

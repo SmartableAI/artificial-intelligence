@@ -25,65 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving delivery firm Nuro raises $500 million as COVID-19 boosts e-commerce"
-    excerpt: "Self-driving delivery company Nuro, whose R2 unit has no pedals or steering wheel and only room for packages, said Monday it has raised $500 million as e-commerce gets a huge boost from the pandemic."
-    publishedDateTime: 2020-11-09T17:22:00Z
-    webUrl: "https://www.reuters.com/article/us-autonomous-nuro-funding/self-driving-delivery-firm-nuro-raises-500-million-as-covid-19-boosts-e-commerce-idUKKBN27P1FT"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27P1FT"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27P1FT"
+  - title: "VC Daily: Self-Driving Startup Nuro Raises Capital, Stays Independent"
+    excerpt: "Many self-driving startups have consolidated under legacy automakers or technology giants. Yet, even as timelines extend for when self-driving technology will be ready for widespread adoption, investors are still willing to bet on startups that haven’t joined forces with major companies."
+    publishedDateTime: 2020-11-10T18:58:00Z
+    webUrl: "https://www.wsj.com/articles/vc-daily-self-driving-startup-nuro-raises-capital-stays-independent-11605016714"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 182
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540581533&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81M2"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Self-driving delivery startup Nuro just raised $500 million to help make automated pizza and grocery delivery a reality — here's how it works"
-    excerpt: "Nuro's R2 vehicle. Nuro Nuro, a self-driving delivery startup, has raised $500 million in its latest funding round, according to the"
-    publishedDateTime: 2020-11-10T00:00:00Z
-    webUrl: "https://www.businessinsider.com/self-driving-delivery-vehicle-startup-nuro-how-it-works-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/self-driving-delivery-vehicle-startup-nuro-how-it-works-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/self-driving-delivery-vehicle-startup-nuro-how-it-works-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
-    images:
-      - url: "https://i.insider.com/5faad0c01df1d50018219e64?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "A look at promising COVID-19 treatments"
-    excerpt: "More than 100 treatments to save those infected with the new coronavirus are now being tested or researched, and several experimental therapies have been expedited into clinical trials. Among the latest: the Food and Drug Administration this week granted emergency use authorization for Eli Lilly’s monoclonal antibody treatment,"
-    publishedDateTime: 2020-11-10T20:03:00Z
-    webUrl: "https://www.ajc.com/news/a-look-at-promising-covid-19-treatments/HUZEHP65MNEHBLQPLGIKYX7DWQ/"
-    type: article
-    provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 24
-    images:
-      - url: "https://www.ajc.com/resizer/ST2fUTz4j_ThirIKikD51QMXzUA=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/CJSNPHCYTKJ3ZU3DBTQWJVU4NE.jpg"
+      - url: "https://s.wsj.net/img/meta/wsj-social-share.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Drug companies deliver a vote of confidence in adaptive trial for Covid-19"
-    excerpt: "A novel clinical trial that uses AI to rapidly compare Covid-19 treatments has attracted participation from two major drug companies."
-    publishedDateTime: 2020-11-10T09:48:00Z
-    webUrl: "https://www.statnews.com/2020/11/10/adaptive-trials-covid19-amgen-eisai/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 22
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2018/10/STAT_Amgen02-1024x576.jpg"
-        width: 1024
-        height: 576
         isCached: true
 
 secured: "HNPJwiKYU15F0EbAm7Mi0jPtv68akLiUZZSG1sZQWvhqBP8nWS6WiA4Kc0MAcFgKGWFgg7/v4iDT6JI9lHhuMZieT+qOE42vVye9ongFpaz/32w+pF6RBNaAT4sWEgvN0ml4d36Bro5AbWZczzgsSt1urWIKZutmvSpsr8yTdf/2n2rs6Utr7KILhGVydxdMwBrKaCAgWjye4jDOCNbL00+w9rHR8N1Sxqv7pgL6EHvtIj1NZj34hbg/9e3R9aZUNldNuDDzUJ+Do7luVdm9hlQC5NoWM++Q1N7qnC5fIpxzp+bhNgGUQvdfcVcKuJPQQ80ja+IleggZMzvPsmwCcZ6OIXcp7JCEH7rUtSO9km9yUtihNUvz46nMzeezcbz0eLnrlmoct3sBfpzG3Dfcm7pFHFD4eVKw8HhjKHBJ0M2HkrqKT8vVCy6niZwsC7LyYfoJ5+l4fDamFh1T29mJfZ6rIsBgYubEZ63hnLn7ktF5Oe19hn05IBT2lG6S31hooTAtiwAzjEQ1y6589/WmVA==;lWfqlUdHXIyRAI89Z//5xA=="

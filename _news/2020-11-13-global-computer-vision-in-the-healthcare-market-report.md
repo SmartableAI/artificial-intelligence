@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2187365/global-computer-vision-in-the-hea
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2187365/global-computer-vision-in-the-healthcare-market-report"
 type: article
 quality: 76
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare Information Technology Market mechanics Analysis: Global Industry Trends, Share, Key Players, Forecast to 2025"
-    excerpt: "Selbyville, Delaware This Global Healthcare Information Technology report studies the industry based on one or"
-    publishedDateTime: 2020-11-09T18:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-information-technology-market-mechanics-analysis-global-industry-trends-share-key-players-forecast-to-2025-2020-11-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Impacts of COVID-19 on the Global Artificial Intelligence and Cognitive Computing Market Report Research Industry 2020"
     excerpt: "MarketDesk :The Impacts of COVID-19 on the Artificial Intelligence and Cognitive Computing Market Report Research Industry 2020 has been included in market.biz library. This Global Artificial Intelligence and Cognitive Computing market report has been created in conjunction with primary business specialists,"
     publishedDateTime: 2020-11-11T09:43:00Z

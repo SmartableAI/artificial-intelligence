@@ -42,20 +42,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Healthcare Information Technology Market mechanics Analysis: Global Industry Trends, Share, Key Players, Forecast to 2025"
-    excerpt: "Selbyville, Delaware This Global Healthcare Information Technology report studies the industry based on one or"
-    publishedDateTime: 2020-11-09T18:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-information-technology-market-mechanics-analysis-global-industry-trends-share-key-players-forecast-to-2025-2020-11-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Digital X-ray Market Outlook 2020-2025 Featuring Prominent Vendors - Siemens Healthineers, GE Healthcare, Koninklijke Philips, Canon Medical Sy"
     excerpt: "Global Outlook and Forecast 2020-2025\" report has been added to ResearchAndMarkets.com's offering. In-depth Analysis and Data-driven Insights on the Impact of COVID-19 Included in this Global Digital X-Ray Market Report The global digital x-ray market by revenue is expected to grow at a CAGR of over 7% during the period 2019-2025."
     publishedDateTime: 2020-11-13T10:11:00Z

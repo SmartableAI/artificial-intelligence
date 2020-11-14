@@ -1,15 +1,15 @@
 ---
 category: news
 title: "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker"
-excerpt: "Delivering fast and reliable machine learning business solutionsJERSEY CITY, N.J., Nov. 11, 2020 /PRNewswire/ -- ElectrifAi, one of the global"
-publishedDateTime: 2020-11-11T18:57:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683"
-webUrl: "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683"
+excerpt: "Amazon SageMaker is a fully managed service from Amazon Web Services (AWS) that provides every developer and data scientist with the ability to build, train, and deploy ML models quickly."
+publishedDateTime: 2020-11-11T18:55:59Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791744"
+webUrl: "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791744"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791744"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791744"
 type: article
-quality: 103
-heat: 123
+quality: 101
+heat: 121
 published: true
 
 provider:
@@ -21,10 +21,9 @@ provider:
       height: 50
 
 topics:
-  - AI in Finance
+  - AWS AI
   - AI
   - Machine Learning
-  - AWS AI
 
 related:
   - title: "Configuring Amazon SageMaker Studio for teams and groups with complete resource isolation"
@@ -56,6 +55,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "RDw63AeK7MYhSqw+QKg+GAQPiIxzSD9jpGM3SzTMshpb7QN40u4MlYwC3j4e1kDhPyqDxVw+jPqK3FpBSfl2Spf/9y1SVoE/60Z9y9wU0mwY7TUgVT4+mDtK0SOZHTe8nXYWLHMJN2eeudCRUEYws6W2S7vuUK8eJE8k0wAoYfpOw52QzceqhGzXmnLoWUEttqm2l26jKqrbt/fE7V6Q91OdZ01s2jNRQ+q0pBjnqRGup3yTluGLRI2HoVi6kozrfjxV14blBD0QTCPHfNueJY9wSc8Vcy7QolggSJWVLkA7Tnnsao1siPo/Tz8Autgcx1ZjxNiEAJ+RglaCXeGpR7JCb988rEdvCX7+15h4YVs=;e9QsErFXk0zKV1YGVNZmaA=="
+secured: "Qg+oWi4WhzeBYdf4D8Nw1vplM2wgdRv47JaHE/iblnqost19PRVHBPvtpfD+PqYztCY5t7knwuhEYRY/LmROHcQPuQR993wknBzWIv/9BYefRsXgO3lEkj84KII9rulI3zH5qVHlD/kGrVddPd1JkRbF5fHME/dHUlAHfZC+zpwOwBWRQHPaIbAgcp+E1NLlMrNlkd8NZFdxrCm67hUGzgZqZuy9Juyx7QFNwiWlS59Jm2HuHLQbavscSJnn+HEbNboF0zlRwjfQa+LB0DeDW5QcFGxIMCw6PbKcYc5Ot9qAxWy3YXSjzqrmuJGAIVDSY7Jux5KRbERFmnXRlwEGlP//fc7E8KlYpX1ko1cBHpA=;ujdquBnCbe1ZFOcLYzcDQA=="
 ---
 
