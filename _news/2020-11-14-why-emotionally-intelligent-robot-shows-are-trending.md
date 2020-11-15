@@ -41,20 +41,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Accelerate Machine Learning Development to Build Intelligent Applications Faster"
-    excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
-    publishedDateTime: 2020-11-10T19:03:00Z
-    webUrl: "https://www.cio.com/resources/210552/accelerate-machine-learning-development-to-build-intelligent-applications-faster"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 34
-    images:
-      - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "YqcmA3n3AGpxYhz7o+oPt2oBy4spNcFmSg8K9zh0rdARa8WScciXK2RrMkIoU8QpMS4ZjIGuovsVN4MzD8RGR/SBwpwPQ2B5p+n6KkKWsBg+43oIk7ZsAH3DKec05u7VlpRaI2Yn0icqo759Gm+muK2Kloa6YcBcfJrpvs/D6/6TqVKMCdGeJOQCe+s55u74NG5ZI/KC8YlDX8QGZQMDN2z0r7hA9rJMiVkuVY27LGZVpxRP7EelawuYkDur+7nwSLYVR4DAanDwKFAk5yC1rvggaP5uo2aCrcG2KD4c+7uDhU2I6CBWsQ76/cylPGkwkUXfbK7WIsdJFxqvMWT7PhNGXd0n08wFf6jM6Hn4yMYrGrzVDoUoJEuSzpmej846Py56iIYH814HHkXHwMvBGU1N8H6BjMM1e8n6+pHeV0iG1sUv4vpd4PIvTUAdn0HBOf7sZUiwYM3GAOkOKBKhaUgSuDqkJOz4hqOHa3Z8+EYgaYYs3j9HEDCm2M7pqOCUV185NxjIKZCfPeg16HXkDA==;GML+495qKv5JL4m+kxmBkQ=="
 ---

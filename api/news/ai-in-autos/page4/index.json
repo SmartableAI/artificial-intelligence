@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-20-velodyne-lidar-inks-3-year-sales-agreement-with-baidu.md",
+      "title": "Velodyne Lidar Inks 3 Year Sales Agreement with Baidu",
+      "excerpt": "Velodyne Lidar Inc announced a three-year sales agreement with Baidu for its Alpha Prime lidar sensors. The Alpha Prime sensors will be utilized for autonomous applications. Velodyne’s low cost ...",
+      "sourceUrl": null,
+      "webUrl": "https://steelguru.com/auto/velodyne-lidar-inks-3-year-sales-agreement-with-baidu/564417",
+      "originalUrl": "https://steelguru.com/auto/velodyne-lidar-inks-3-year-sales-agreement-with-baidu/564417",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://steelguru.com/uploads/news/velodyne-lidar-baidu_89021.png",
+          "width": 635,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-19T23:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Steel News",
+        "domain": "steelguru.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-torc-robotics-scaling-self-driving-fleet-with-daimler-trucks.md",
       "title": "Torc Robotics Scaling Self Driving Fleet with Daimler Trucks",
       "excerpt": "Torc Robotics will scale its self-driving truck testing in the Southwest in early 2021 using an enhanced prototype truck developed with Daimler Trucks North America. This new generation of ...",
@@ -1335,49 +1379,6 @@
       "provider": {
         "name": "InvestorPlace",
         "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-tesla-autopilot-self-driving-beta-test-will-start-next-week-elon-musk-confirms.md",
-      "title": "Tesla Autopilot Self-Driving Beta Test Will Start Next Week, Elon Musk Confirms",
-      "excerpt": "The Full Self-Driving (FSD) feature has undergone a complete reboot and is expected to carry a lot of new functionality. The rewrite also updated the autopilot's labeling software to enable it to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/tesla-autopilot-self-driving-beta-test-will-start-next-week-elon-musk-confirms-3061130",
-      "originalUrl": "https://www.ibtimes.com/tesla-autopilot-self-driving-beta-test-will-start-next-week-elon-musk-confirms-3061130",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/23/tesla-is-one-of-several-major-automakers-suing.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/tesla-autopilot-self-driving-beta-test-will-start-next-week-elon-musk-confirms-3061130?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tesla-autopilot-self-driving-beta-test-will-start-next-week-elon-musk-confirms-3061130?amp=1",
-      "publishedDateTime": "2020-10-12T17:17:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
         "images": null,
         "publishers": null,
         "authors": null

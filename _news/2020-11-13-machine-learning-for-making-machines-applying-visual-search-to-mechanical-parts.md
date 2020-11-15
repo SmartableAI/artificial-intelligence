@@ -33,7 +33,7 @@ related:
     provider:
       name: IndustryWeek
       domain: industryweek.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://base.imgix.net/files/base/ebm/industryweek/image/2020/11/Machine_vision_for_parts.5fadddd2a1263.png?auto=format&fit=max&w=1200"
         width: 821

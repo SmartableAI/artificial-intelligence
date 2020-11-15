@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/apples-macbook-air-w
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/apples-macbook-air-with-m1-chip-everything-you-need-to-know/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple’s MacBook Air, MacBook Pro, and Mac mini get M1 chips with 16 AI cores"
-    excerpt: "In addition to announcing macOS Big Sur and formally revealing its first Mac-specific M1 chips, Apple today unveiled the first Mac computers that will use its new software and hardware ..."
-    publishedDateTime: 2020-11-10T18:37:00Z
-    webUrl: "https://venturebeat.com/2020/11/10/apples-macbook-air-macbook-pro-and-mac-mini-get-m1-chips-with-16-ai-cores/"
-    ampWebUrl: "https://venturebeat.com/2020/11/10/apples-macbook-air-macbook-pro-and-mac-mini-get-m1-chips-with-16-ai-cores/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/10/apples-macbook-air-macbook-pro-and-mac-mini-get-m1-chips-with-16-ai-cores/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 101
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/11/macbookairm1-e1605032857187.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Apple’s first M1 chip-based Macs are playing it too safe"
     excerpt: "Instead of moving the Mac boldly forward, Apple's M1 chip is merely raising the performance floor for entry-level computers."
     publishedDateTime: 2020-11-12T02:53:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidteich/2020/11/10/the-breadth-of-he
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/11/10/the-breadth-of-healthcare-applications-of-artificial-intelligence-even-includes-physical-therapy/amp/"
 type: article
 quality: 108
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 876
     height: 548
     isCached: true
-
-related:
-  - title: "Google’s latest AI tools help doctors read medical records faster"
-    excerpt: "The aim is to help them increase productivity and prevent the burnout of healthcare workers who are under more pressure than ever before while battling to contain the COVID-19 pandemic. Google Cloud’s new Healthcare Natural Language API uses artificial intelligence to help doctors extract the most pertinent information they need to know about their patients from the stacks of medical records related to each individual."
-    publishedDateTime: 2020-11-10T17:34:00Z
-    webUrl: "https://siliconangle.com/2020/11/10/googles-latest-ai-tools-help-doctors-read-medical-records-faster/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/5691503052_d2ae2521a5_c-300x211.jpg"
-        width: 300
-        height: 211
-        isCached: true
 
 secured: "0bLZl8zjNYJtj0SNMEWfdeM8OUShSyyu60u39FvI3h8JzguSJunCE7QUP479zezlJJ7a5XhAAuySVYNj8pcx2bNc9GTT0FTsxrh6r/6Y7O8aLOdIwkONQjCh2tTlaPtdlc4XhkqUMP1qiMSKifmIwAAh5TE0IkkKQ8TpI/b4yR71S4EFkDLlcaQhiB/1pnG5/FoaWSC8NpX1nw6tg3T/FQxiTDjnCe74PTv54W/8EFDLDtsWqUcEvlxWeMG/yW4gjEV3G5eGPlYsz+vsdSBKlQwa+D5/jpVUqyAngakfLbP3h3YXC3JaRuOrUgXiYj+LvGb8uiCIBugpyNdT59AjSHrGOG+s/k7dcdO7VMxktYGo90EWKl9/RpCb+evcOiJEFtiXo/cFzfABmIKeZ6FsAe1gKbOpDIPvQ83n/Ny6bpDvQTpDSaof/BDAfK9CIAjzf0UUtH9NJfIFnlvxsoraV3o2fNsrXanuVjCv1eaeKN8ajbZkM6bG8l/OYrtfO0RrFk1y3EiUQf/Gvv9LmafFnQ==;wgLdGl9aBYlTq+DqDMSBhA=="
 ---

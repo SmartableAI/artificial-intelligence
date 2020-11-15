@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q25S"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q25S"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 234
+published: true
 
 provider:
   name: Reuters
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Walmart and GM's Cruise partner for self-driving deliveries in Arizona"
-    excerpt: "Planning a Walmart trip? Scottsdale locals will be able to have their goods delivered with zero-contact by a Cruise self-driving car prototype."
-    publishedDateTime: 2020-11-10T18:01:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/walmart-gm-cruise-self-driving-delivery-arizona/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/walmart-gm-cruise-self-driving-delivery-arizona/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/walmart-gm-cruise-self-driving-delivery-arizona/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/U3I17pYWdSZXQ6Eg96KSpepx2qo=/2020/11/10/0342d75b-fa7a-470d-b271-57ef09ab9be7/download-copy.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Walmart Teams Up With GM's Cruise on Self-Driving Deliveries"
     excerpt: "Walmart (NYSE:WMT) said today that it is teaming up with Cruise, the autonomous-vehicle company controlled by General Motors (NYSE:GM), in its latest experiment with self-driving delivery vehicles. Walmart said that it has agreed to a pilot program with Cruise,"
     publishedDateTime: 2020-11-10T19:12:00Z
@@ -205,20 +189,6 @@ related:
         width: 408
         height: 256
         isCached: true
-  - title: "Walmart to pilot all-electric self-driving delivery in 2021"
-    excerpt: "Walmart will launch a pilot in Scottsdale, Ariz., with self-driving car company Cruise to operate an entire fleet of all-electric delivery vehicles powered with 100% renewable energy. The project will support the retail giant’s initiative to reach zero emissions by 2040."
-    publishedDateTime: 2020-11-10T18:45:00Z
-    webUrl: "https://www.supermarketnews.com/sustainability/walmart-pilot-all-electric-self-driving-delivery-2021"
-    type: article
-    provider:
-      name: Supermarket News
-      domain: supermarketnews.com
-    quality: 24
-    images:
-      - url: "https://www.supermarketnews.com/sites/supermarketnews.com/files/cruise-av-still.png"
-        width: 1800
-        height: 1013
-        isCached: true
   - title: "Walmart and Self-Driving Delivery Cars"
     excerpt: "Walmart announced that it will begin experimenting with self-driving cars in a pilot program with General Motors-backed Cruise (a tech start-up with electric, self-driving cars) to deliver groceries a"
     publishedDateTime: 2020-11-12T19:47:00Z
@@ -302,22 +272,6 @@ related:
       - url: "https://www.freshplaza.com/remote.axd?https://agfstorage.blob.core.windows.net/misc/FP_com/2020/index_foto_retail/Retail_Walmart_3009.jpg?preset=OgImage"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Walmart is expanding its fleet of self-driving cars to Scottsdale, Arizona for a pilot delivery program with autonomous startup Cruise"
-    excerpt: "Walmart is set to roll out a pilot delivery program next year with GM-owned Cruise that will use self-driving Chevy Bolt vehicles to delivery orders from stores to homes in Scottsdale, Arizona."
-    publishedDateTime: 2020-11-10T17:22:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8934369/Walmart-teams-GM-test-autonomous-deliveries.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8934369/amp/Walmart-teams-GM-test-autonomous-deliveries.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8934369/amp/Walmart-teams-GM-test-autonomous-deliveries.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 12
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/11/10/17/35520040-0-image-a-31_1605028911780.jpg"
-        width: 636
-        height: 382
         isCached: true
 
 secured: "7KFZjMHI/+ij5BgNBs/z+YYndbx2jxpIkXASwpmsmP9JuGv65SjIMzlzIXdQIagrPHkgJLAjDV1vb7+cLXuVji1D1oInXHRifY1UEVtnhupM9RhzR8uCrzf5r9kMLFP07qCljbeeiVDQzzrApfd30PuHqKzabPQAcXw5OWBOoGpDpcAjrc43id6quYSakD2vcmZMceaf6rk7i23aDO7UJIgWn2bTWQOyPx/PJRfTDT1L5/loOl4r5mKlU7b0cGPJW14hamqj9Cua/ojXD6oLcvVrY6qarV3syLDcyPp7sB6TEFz99se4wDfCVZk+lJfUPVbi6o+AHBdWx+HZSOWzdXv1K5uhoGNkIXhv01d/ODw=;icip56jUbxvYK7Y56HxulQ=="

@@ -2,6 +2,58 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-10-17-your-ai-may-be-ethical-but-is-it-prudent.md",
+      "title": "Your AI May Be Ethical, But Is It Prudent?",
+      "excerpt": "Legal is onboard. Your AI is morally defensible. But is it a bad idea? With so many unintended consequences to consider, how do you determine whether your AI deserves to exist?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/arunshastri/2020/10/16/your-ai-may-be-ethical-but-is-it-prudent/",
+      "originalUrl": "https://www.forbes.com/sites/arunshastri/2020/10/16/your-ai-may-be-ethical-but-is-it-prudent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f89cf900c8f22bbbae126cb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5082%26cropY1%3D127%26cropY2%3D2986",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/arunshastri/2020/10/16/your-ai-may-be-ethical-but-is-it-prudent/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2020/10/16/your-ai-may-be-ethical-but-is-it-prudent/amp/",
+      "publishedDateTime": "2020-10-16T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-skylum-gives-us-a-sneak-peek-of-sky-reflections-in-water.md",
       "title": "Skylum Gives Us a Sneak Peek of Sky Reflections in Water",
       "excerpt": "When Skykum gave us sky replacement features in Luminar 4 in 2019, it was a breakthrough that didn't require masks and a lot of work. A whole lot of landscape photographers and real estate photographers loved the feature.",
@@ -1105,58 +1157,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-gm-will-test-fully-driverless-cars-in-sf-later-this-year.md",
-      "title": "GM will test fully driverless cars in SF later this year",
-      "excerpt": "The company’s Cruise unit received the necessary permit from California’s DMV. General Motors and its self-driving car unit Cruise say they’ll start testing unmanned autonomous vehicles in San Francisco by the end of 2020 (via NBC News). On Thursday ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/cruise-testing-san-francisco-214222312.html",
-      "originalUrl": "https://www.engadget.com/cruise-testing-san-francisco-214222312.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fbebd6400-0f2d-11eb-9bfe-e67a76f4a357&client=amp-blogside-v2&signature=4908a2fba8142ca66578860cd136007606108c87",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/cruise-testing-san-francisco-214222312.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/cruise-testing-san-francisco-214222312.html",
-      "publishedDateTime": "2020-10-15T14:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

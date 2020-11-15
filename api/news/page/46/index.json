@@ -2,6 +2,49 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-10-08-the-future-of-mobile-ai.md",
+      "title": "The future of mobile AI",
+      "excerpt": "New approaches to on-device and cloud-based AI technologies are transforming everyday ... and retail landscape—and get the latest research and insights on machine learning, smart cameras ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2020/10/07/1009081/the-future-of-mobile-ai/",
+      "originalUrl": "https://www.technologyreview.com/2020/10/07/1009081/the-future-of-mobile-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/10/FY20-Corp-IA-See-Us-Everywhere-Compute-Outdoors-Female-2.jpg?w=3000",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2020/10/07/1009081/the-future-of-mobile-ai/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/10/07/1009081/the-future-of-mobile-ai/amp/",
+      "publishedDateTime": "2020-10-08T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-instagram-uses-artificial-intelligence-ai-to-hide-abusive-comments.md",
       "title": "Instagram Uses Artificial Intelligence (AI) to Hide Abusive Comments",
       "excerpt": "As Instagram turns 10, it has decided to roll out many new features including the use of AI to block abusive comments on the social media platform. Instagram said that it'll detect the comments",
@@ -1116,57 +1159,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-this-ai-deepfakes-reality-in-the-name-of-privacy.md",
-      "title": "This AI Deepfakes Reality In The Name Of Privacy",
-      "excerpt": "The deepfake technology I’m taking about is from a Berlin-based startup called Brighter AI, which provides privacy solutions for an increasingly surveilled world: license plate blurring and face blurring so companies with cameras can comply with European privacy laws,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/10/07/synthetic-faces-this-ai-falsifies-reality-in-the-name-of-privacy/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2020/10/07/synthetic-faces-this-ai-falsifies-reality-in-the-name-of-privacy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7de968419bf5f836413c4d%2F0x0.jpg",
-          "width": 1000,
-          "height": 693,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/10/07/synthetic-faces-this-ai-falsifies-reality-in-the-name-of-privacy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/10/07/synthetic-faces-this-ai-falsifies-reality-in-the-name-of-privacy/amp/",
-      "publishedDateTime": "2020-10-08T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

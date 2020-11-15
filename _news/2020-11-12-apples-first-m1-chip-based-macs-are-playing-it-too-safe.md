@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 668
         isCached: true
-  - title: "Apple’s MacBook Air, MacBook Pro, and Mac mini get M1 chips with 16 AI cores"
-    excerpt: "In addition to announcing macOS Big Sur and formally revealing its first Mac-specific M1 chips, Apple today unveiled the first Mac computers that will use its new software and hardware ..."
-    publishedDateTime: 2020-11-10T18:37:00Z
-    webUrl: "https://venturebeat.com/2020/11/10/apples-macbook-air-macbook-pro-and-mac-mini-get-m1-chips-with-16-ai-cores/"
-    ampWebUrl: "https://venturebeat.com/2020/11/10/apples-macbook-air-macbook-pro-and-mac-mini-get-m1-chips-with-16-ai-cores/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/10/apples-macbook-air-macbook-pro-and-mac-mini-get-m1-chips-with-16-ai-cores/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 101
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/11/macbookairm1-e1605032857187.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "ioDk19366lz01cbJ4KSga11p2mqCKrBQDsfOrS4drVWbSi6txY5MbDbR2FA5mMfsTyPRzFTotfHnfEKHV/lFQHQCc2nQqfIQJWkhugOdy1t3As0sm143pitAZJTmZ9NC8q/6jLboJ0wzRfrxol3Lpv6MykjKKOrOuDCLwioesmxB9l7DAX06CoCxqHJRzIngDoLib0Wp/X7uJc5HFCe1eIl+1EsB3lyQdF1aG120BFRGXdyhNiWWrznupnUaPqG/7jfaAZ4GDeBhiAbL8mUlukM/p5LYMXrEaCJU0h1nAU7ZtZm3W/K+BUfQ7rPyuEdQuoKRxTcYnVL7u7KoWPr7q+XhwDoRDv6zTYj/CJKMBOPkNRmSaxvmTGf/Pv0Y0jSicUgxX00jFuSRGrgrIaVA69fZiUtKzeeWVoFZw7K8Pb0GXb4KJ61oKW+cuVxkTwoKJztYfVRicPVbSQCfi5hyU551+8M3sLdQXodtoxCfdYUqrlR1F+7AqN8X7GRDc2GPXHtP0rnx4C93fBQN4VCq4g==;lOilTs45eDwCQsGNpDmlJg=="
 ---

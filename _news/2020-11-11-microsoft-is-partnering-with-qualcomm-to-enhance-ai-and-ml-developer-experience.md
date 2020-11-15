@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-is-partnering-with-qualcomm-to-
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-is-partnering-with-qualcomm-to-enhance-ai-and-ml-developer-experience/"
 type: article
 quality: 117
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     width: 760
     height: 428
     isCached: true
-
-related:
-  - title: "AVEVA Expands its Collaboration with Microsoft with a Focus on Cloud and AI to Drive Digital Transformation in the Manufacturing and Energy Industries"
-    excerpt: "AVEVA to Collaborate with Microsoft to Provide Cloud Platform and Domain Expertise for Industrial Sector Organizations"
-    publishedDateTime: 2020-11-10T18:14:00Z
-    webUrl: "https://www.manufacturingtomorrow.com/news/2020/11/10/aveva-expands-its-collaboration-with-microsoft-with-a-focus-on-cloud-and-ai-to-drive-digital-transformation-in-the-manufacturing-and-energy-industries/16109/"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturingtomorrow.com
-    quality: 0
 
 secured: "9GiNL5JPmzNlE5k/I7ZP2LNr7QzMwvWCpxN/YE0q99CVU0seaYj6K9DLRd+8j+XfjR3yQYiMamdciCAoBjD2UMUo5jIxrxxOfCx49xoxgnP3U5jzFcBmStRD8eqY/PLb6r9SaIc/5sp9Cu3rzUvOzX2eBcE/CV64rJ3JJyvvLwkRBrd0Lt0sBu57XT7Q+5MlLY4keBi9moKQF6hu98F04N5cn98ZWuzQZgcT/03l1sXqm8YajKSen+wfnO6e+2RsCcP0nvWwlBMxFiVQhKGqGu4ggPqm9XTD0MnHz2L2w8m/B9+pTZCST0fepod0XaGuKSKsDc6QJu50b/Ky2KiO9ERsZPkMvoWqdeuygxdLnEBoiJYMTxaZSKWCXTLRt+GOYGIFqwB98FGqIFwxIOH7huobBdfCqEApirbMFsG+V4anriMW6YrSkkZqNRwVGNBjaRy+KY/O9q2Y8FuTk9HsbeXRytIFZVD2Ii0EK1RDsqiLGGxUTUyHR4mT5B39EdLEMcy0qwu9MpthIUrTdWbMtQ==;SiEWchRt5rZipILv4XrAlA=="
 ---

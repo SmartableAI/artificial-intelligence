@@ -24,6 +24,22 @@ images:
     height: 676
     isCached: true
 
+related:
+  - title: "New solution for people with both hearing and vision loss"
+    excerpt: "To help people with both hearing and vision loss access the world more independently, a new AI-powered wearable device offers audio enhancement and audio communication of the visual world. The unique technology results from a partnership between artificial vision pioneer OrCam Technologies of Jerusalem and American hearing industry leader Starkey Their integrated product pairs Starkey’s Livio Edge AI hearing aids with OrCam’s wearable MyEye device via a wireless connection."
+    publishedDateTime: 2020-11-15T09:28:00Z
+    webUrl: "https://www.israel21c.org/new-solution-for-people-with-both-hearing-and-vision-loss/"
+    type: article
+    provider:
+      name: Israel21c
+      domain: israel21c.org
+    quality: 24
+    images:
+      - url: "https://www.israel21c.org/wp-content/uploads/2020/11/Livio_Edge_AI.jpg"
+        width: 1600
+        height: 901
+        isCached: true
+
 secured: "x8yb2f3sOX9kVxsV6zwg1jL+nHnHsX322WqbeOxot8SCIwPLf05NkATXlgr5l3Z7kIYOhhIJSNTPA6riF4ULY2dEgMVQk19BsdcQbeZAe3NO5cLrSB+jnMlj1jWfHi5uATZUlZqN34Q2DpinYlU1mzAuMDmpqzDRlo15648g/ufSE4RBDtswaUmMRpJK1GWOZ5Lgkt0fURmuekqRIXKpcyacTNwCxa0ger4/i3CyhzqagnAH3+qseI6FQqPSEGi9LzU/AEaHKddK+WScshfv/BQf+/N4HKH5uS9nC/Li7CY3UmFIZtOn39IW4lUMjFwXqUVijWtRtw3EH2rvQOHO4X7M6jw1glBjttgzBVoMVQ9neOdA4DvGI6AVFTMRn/lCvk2Y38G7Q/rHmQk+TDfjAGrOffpfcm4nxcsxlHa1As2YZDyWkonuEN5oup9yDR/iz7GMNTAhDn+8YpPLlV25zMr9pn83Zm0RPKRwQRfNUPDFKOYJuvF4QJYeq0PHr6UFNCq1zcOLrSGNciRX25Z8gA==;Mkr4ZYuix/VWuiW6EAYtjQ=="
 ---
 
