@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/drops
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dropshot-capital-management-presents-liquid-artificial-intelligence-based-portfolio-management-fund/article_41cb0853-ae82-5c04-838f-d01604182774.html"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "DropShot Capital Management Presents Liquid Artificial Intelligence Based Portfolio Management Fund."
-    excerpt: "DropShot Capital Management, an alternative investment platform, has been innovating artificial intelligence solutions to equities trading since 2018, focusing on data driven approaches that deliver a customer experience free of monetary lock-ups and provide a clear window into one’s investment performance in a fast-changing financial environment."
-    publishedDateTime: 2020-11-10T12:21:00Z
-    webUrl: "https://apnews.com/article/technology-business-investment-management-financial-services-artificial-intelligence-80e7399e629c5ad005a465dedfe9d18f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "NLFG5DRJewvA2SI1tJZwVxaLpeUQ19Oxz7URc1We3TPzL4xHzZbS2eFRSnn9p/8sAtWVqfQ6yDKZJ1l9Z1LLQb+qBHhYXkQPeoK836/bb7BUJIxJIWLL0cfVqj6Ad8AdHhm26lWqT4hGUYzmQmZB69S1pon6e+4ZhzqhLLUhAvgRBJKLSDcnBLVW9cKAZ91saWjBPCHv/lw0YYVsNO9DXW0Ptdykx5yN6BQ1mBhs2B2zBQHMha02I/ntEAfguIU1CD1mBkLtebKFjzY7lpzwK7pMfTPkHZHprAyZcl9dhYBt55G6wcPa7Kh4qrSPOarICgHZffaZLAEGYoXohHIAOV5k1bfP6U8cKOzdZQMCTig=;Xs79/TNH1Hm2qZAxMxavPg=="
 ---

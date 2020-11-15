@@ -41,34 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Smarsh To Acquire AI Pioneer Digital Reasoning"
-    excerpt: "The combined firms will represent a power house in the application of natural language processing and machine learning across multiple industries, with initial focus on financial services."
-    publishedDateTime: 2020-11-10T12:09:00Z
-    webUrl: "https://www.wealthmanagement.com/technology/smarsh-acquire-ai-pioneer-digital-reasoning"
-    type: article
-    provider:
-      name: WealthManagement.com
-      domain: wealthmanagement.com
-    quality: 39
-    images:
-      - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/smarsh-office.jpg"
-        width: 1540
-        height: 800
-        isCached: true
-  - title: "Smarsh acquires Digital Reasoning"
-    excerpt: "Smarsh, enabling organizations to manage risk and uncover value within their electronic communications, announced the acquisition of Digital Reasoning, a global leader in natural language processing (NLP),"
-    publishedDateTime: 2020-11-10T12:07:00Z
-    webUrl: "https://www.finextra.com/pressarticle/84901/smarsh-acquires-digital-reasoning"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Fintech Company Smarsh Acquires Digital Reasoning"
     excerpt: "Smarsh just announced they have acquired Digital Reasoning, a firm we have long tracked in our disruptive technology directory. Digital Reasoning are a leader in making sense of data, including […]"
     publishedDateTime: 2020-11-11T01:23:00Z

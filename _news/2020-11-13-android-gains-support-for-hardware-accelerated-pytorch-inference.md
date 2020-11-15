@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/12/android-gains-support-for-hardwar
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/12/android-gains-support-for-hardware-accelerated-pytorch-inference/amp/"
 type: article
 quality: 106
-heat: 117
+heat: 116
 published: true
 
 provider:

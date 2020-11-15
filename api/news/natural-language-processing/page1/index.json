@@ -170,7 +170,7 @@
       "originalUrl": "https://www.geekwire.com/2020/madrona-leads-2-6m-round-othersideai-startup-using-gpt-3-tech-write-automated-emails/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -370,7 +370,7 @@
       "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -410,7 +410,10 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare",
+        "Machine Learning"
       ]
     },
     {

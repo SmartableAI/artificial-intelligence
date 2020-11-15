@@ -7,7 +7,7 @@ originalUrl: "https://sdtimes.com/ai/pytorch-developer-day-brings-a-number-updat
 webUrl: "https://sdtimes.com/ai/pytorch-developer-day-brings-a-number-updates-to-the-machine-learning-library/"
 type: article
 quality: 83
-heat: 84
+heat: 83
 published: true
 
 provider:

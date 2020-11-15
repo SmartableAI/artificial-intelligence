@@ -3,8 +3,8 @@ category: news
 title: "AVEVA expands Microsoft collaboration with a focus on Cloud and AI"
 excerpt: "AVEVA has extended its existing strategic collaboration with Microsoft to focus on accelerating digital transformation in the industrial sector."
 publishedDateTime: 2020-11-10T14:00:00Z
-originalUrl: "https://www.controlengeurope.com/article/181914/AVEVA-expands-Microsoft-collaboration-with-a-focus-on-Cloud-and-AI.aspx"
-webUrl: "https://www.controlengeurope.com/article/181914/AVEVA-expands-Microsoft-collaboration-with-a-focus-on-Cloud-and-AI.aspx"
+originalUrl: "https://www.controlengeurope.com/article/181914/index.aspx"
+webUrl: "https://www.controlengeurope.com/article/181914/index.aspx"
 type: article
 quality: 54
 heat: -1
@@ -41,29 +41,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "AVEVA expands Microsoft collaboration focusing on Cloud and AI"
-    excerpt: "AVEVA will be extending its collaboration with Microsoft to help maximise the value that customers can derive from the integration of AVEVA’s portfolio with Microsoft cloud services and especially Microsoft Azure (infrastructure,"
-    publishedDateTime: 2020-11-10T11:15:00Z
-    webUrl: "https://www.pcr-online.biz/2020/11/10/aveva-expands-collaboration-with-microsoft-with-a-focus-on-cloud-and-ai/"
-    type: article
-    provider:
-      name: PCR
-      domain: pcr-online.biz
-    quality: 54
-    images:
-      - url: "https://www.pcr-online.biz/wp-content/uploads/PCR-November-2020.jpg"
-        width: 280
-        height: 350
-        isCached: true
-  - title: "AVEVA, Microsoft expands collaboration with a focus on cloud and AI to drive digital transformation"
-    excerpt: "AVEVA to collaborate with Microsoft to provide cloud platform and domain expertise for industrial sector organisations"
-    publishedDateTime: 2020-11-10T11:29:00Z
-    webUrl: "https://www.arabianindustry.com/petrochemicals/news/2020/nov/10/aveva-microsoft-expands-collaboration-with-a-focus-on-cloud-and-ai-to-drive-digital-transformation-6456736/"
-    type: article
-    provider:
-      name: arabianindustry.com
-      domain: arabianindustry.com
-    quality: 20
   - title: "AVEVA Expands its Collaboration with Microsoft with a Focus on Cloud and AI to Drive Digital Transformation in the Manufacturing and Energy Industries"
     excerpt: "AVEVA to Collaborate with Microsoft to Provide Cloud Platform and Domain Expertise for Industrial Sector Organizations"
     publishedDateTime: 2020-11-10T18:14:00Z
@@ -74,6 +51,6 @@ related:
       domain: manufacturingtomorrow.com
     quality: 0
 
-secured: "rW2luCG9PNO5smr0ckcotyawg1y6oKvvLxarswgfZVb7EWPjC6uCVqrMxqgc2LTtg7vFX5yYsdqRvFBYSpyvHD+m2VluqecL9itA+kad26cuh8D6PA1NJo2mW8LXddryRRAwBUflvl1ueaS9uO1cDUFsPs+lV7w//n40VYoS7WgqZgbML5yfiPGU5ZhNDH+KxdXYjPuvxeme882+SpeT+0I8zwEbrSsZt+y2I+P1Srp/UDFTuypHaVlbhzU1eXjfkU2tNJrrEtbR7vyguF+XaUtKjXwRcbegHcEZj05SD7RJDMS17PCVt5z4y/5qi4ULs0fRIb71WJ9ac1DZ9x3OU2B3OI41b2rZOTdwTVaDMe0=;0PMl+HFzAY1ocBlaLsjQJg=="
+secured: "QbEJyArg1y4f2iE2aTlCk8Z5XZ28nCUQ3cKKHso4cqhJuiOi7vzUf3PxqoMdUYYOS6ThanvgLBIQH93x/6+1pX9qu45GX7FD0Y8UWWpnpUHyStEzyrWzCZ5k6u2IFP5BODpnevkfNlCQCB7BuTpB3CB6jkjcrxCcDeFj6F1AjEwmjbF48JVQO9St7r1W5ktOSqv5vJzG7eS7AmsfXbXdNookdYD5A/JBZymEVzeFNDlYR+EXPk+ab5dwxPJ6d0Lo7SxxQfhsnG5pYA82UQXsXjlKEXnoWeATXRTFiv30XfLGceLXLAXnPJPZnWf4lZ+1gD0Cb1/KlCm0Bqy9bGnuVblo9ugt8ZcoLzSjMSI9U48=;n63aetBCJtTJZTfve4vyIw=="
 ---
 

@@ -8,7 +8,7 @@ webUrl: "https://www.reuters.com/article/amazon-com-nvidia-int-idUSKBN27S2RI"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S2RI"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S2RI"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - Natural Language Processing
   - AI
   - Computer Vision
+  - AWS AI
 
 images:
   - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1541008813&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB1P6"
@@ -132,6 +133,6 @@ related:
       domain: seekingalpha.com
     quality: 20
 
-secured: "JA9+1XWS14f8+/o+o4W02fk2xUYjrIykIYnypj+AkVglgAM0G6eFlyIdeAPU/PMaceMv8GZeHa/b/c5VbjkwddXDQ9wB14OLE2eeBGb0UcwDT7cMaXlSnD/cG8IduY2Garukjr2w4gNIkl83tK8UHS3dHItRI5orea/2P0ZMn1srna9AwEC/uQTjZEslLzmEQ3QUxUhTiDTwMz/peAIAIsePHjavH8eAcIyDrNjyZjyuu0hBJhm1xZ352B8eSH6YQ2cA05dZ9lTDFtxZnYJWAhPDCpifya7VUt7GYSsmB/DFpNeN0GCACP2SiC888EYtibpnwGmhhv4IWnBSgRTPd/A1ymboL+2fsvorziupIsc=;a79Ha/7O8jZVIIEazJNDhg=="
+secured: "1hGEq8W8S9lCCgTiwKTrBBgOlTafGyq9clzLVLSQGwX4oydlYfI8il4vAS/kK2aZRH9M7H3XkBpR+JAlXIJ8D+NS6naT3NCbn4ams5FGSDBv9wPOSRZNg62t415svWzor54nn98oN/SH+Q+NUC+rcEhis7RHZT3Z2hh1d12wTpNC0NykTryMV+tIfFtLq5qheQFMziMnP+i3bYNGbbX8amIHklaC4dVdY7VbiT2VK44oNhiA4LfR0kz0Ca5bXqrGyu7+wTT+9A4dwdjC87KAJpg3lvoTrcdAWBFQ6BdRURX7/Wg4o2Su7KVslq0KFbeNSOjvdK/+A9dZCn9arF/frx/c9ENOLPzH1jeSiMjqIDnnh0AaSnt0uBdz8tZqUU+G2q/VkvtC1YbKUygf0h9fZPD2zuoWz5enQPCWZftsxpQQOGBDUMKksEmGj/MZm9V9PSs7KqQa1mpLBdYGsKffk1yNvFQRUTKpXU3UG+2ipuyc2NCU6ypIol0dX7WM2MgtvBArKQaiD3crULN/M/ja4A==;YlW51kv8HHFF4qJTOcc3uA=="
 ---
 

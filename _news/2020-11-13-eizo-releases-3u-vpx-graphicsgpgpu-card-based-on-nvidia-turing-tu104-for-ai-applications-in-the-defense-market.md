@@ -1,23 +1,29 @@
 ---
 category: news
 title: "EIZO Releases 3U VPX Graphics/GPGPU Card Based on NVIDIA Turing (TU104) for AI Applications in the Defense Market"
-excerpt: "EIZO has introduced a ruggedized 3U VPX graphics & GPGPU card that hosts the NVIDIA® Quadro RTX™ 5000 GPU (TU104) directly on the board (chip-down)."
-publishedDateTime: 2020-11-12T20:18:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201112005826/en/EIZO-Releases-3U-VPX-GraphicsGPGPU-Card-Based-on-NVIDIA-Turing-TU104-for-AI-Applications-in-the-Defense-Market"
-webUrl: "https://www.businesswire.com/news/home/20201112005826/en/EIZO-Releases-3U-VPX-GraphicsGPGPU-Card-Based-on-NVIDIA-Turing-TU104-for-AI-Applications-in-the-Defense-Market"
+excerpt: "EIZO Rugged Solutions Inc., a provider of ruggedized graphics and video products, has introduced the Condor GR5-RTX5000 – a fully ruggedized 3U VPX form factor graphics & GPGPU card that hosts the NVIDIA ® Quadro RTX ™ 5000 GPU (TU104) directly on the board (chip-down)."
+publishedDateTime: 2020-11-12T16:18:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-7d52b4376bc345b883313894bb260a9a"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-7d52b4376bc345b883313894bb260a9a"
 type: article
-quality: 13
-heat: 13
+quality: 33
+heat: 33
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "eUi4/LAH3AlqcBxvn4dWZu6p/46bVbZo4DsJt4leILE/iWGjSGSZ4cVADhKUaP09qoA2ML61z5Pdne8bYkpwSQkLgtx55bOZgOyc4ZPJhXtxjBLyS7GZLV75Iw7i67I8mdQNVNvg23oL64QEYUbV/o8fXdrbRkFnLuuACQlrE3bkacyYZ1tcEPj/ecFZdZ9OgioGhBtf6OS4MrNdUxg7PaNeICg8ock4+Sfia/s4GrZerudtApY1ex/q+3ppKqAOWB+x++lV5sHu7xRYRulNa601s3JWdu7+2FED+TpNxxYalRriewsEXpI23b9796K+OfkRjmZgK1L6aN4HaOTNyRciK8pIXHsjuB3kH1HoB3k=;zbgsSD4f5DxjOSp/qhGdtw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "MrZzG4zRkyd20qvORr5tkybT+GqYh/xD6BP1WSnm8NOK3e9YVw2sG2S7+OwKqwXTOyVnh8jjU0x9s7yGKyXkEoODSrj9i4jOgafFOrmo4Sfcu7VZKOEruyh8wGUzxqdiVOEhRcabX8VQvr9dd1CgI8P+4ePjvageOQ6icm0wgYDJCHvxp3YdI/R2r2bq+COHRTi/23nOJYALzrdYEFANYtBjTXlU2UPeHQ10L3R0I+y+er3q6fgFDZCFsF2GtwRisIQdDNPOCXofTtk3Ox5ME6WHVqCdT+S2DuEQuINgZJhvGxXzUuIP2lZDST6DXrKYqT21123OkEFXcrPPMYtgVVW3KB2TWSaqNVWVHZBQFGc=;Jy0N2ivw8Iczk6WUezxIOw=="
 ---
 

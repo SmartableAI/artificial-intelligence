@@ -72,7 +72,7 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1541008813&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB1P6"
         width: 818
