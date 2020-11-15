@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) in Healthcare Market to Reach US$ 26.5 Billion by 2025, Globally |CAGR: 41%| UnivDatos Market Insights"
-excerpt: "UnivDatos Market Insights released a report titled \"Artificial Intelligence (AI) in Healthcare Market - by Technology (Machine Learning,"
-publishedDateTime: 2020-10-27T15:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025--globally-cagr-41-univdatos-market-insights-301160783.html"
-webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025--globally-cagr-41-univdatos-market-insights-301160783.html"
+excerpt: "Artificial Intelligence (AI) in healthcare market is expected to reach the market value of US$ 26.6 billion by 2025, growing at a CAGR of 41% during the forecast period (2018-2025). Market ..."
+publishedDateTime: 2020-10-27T15:16:34Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-1029728132"
+webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-1029728132"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-1029728132"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-1029728132"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1225049/UnivDatos_Logo.jpg?p=facebook"
-    width: 1279
-    height: 670
-    isCached: true
-
-secured: "TST5FfPYdEq4+sdZF7bddoI/Zo8uksbKMf4F75zP5a5Ndo7w1Q+lQkw8GJuPoNGe97VgrvEcgMQwZZ2nOdkiBm9h8U3Z+Z5a096eFI31MvF8z8u7i2GpuZQbfgnndgjsWK4ZA/qx7f6CQxeQrWeFdALMHCV+hu42qEHDEecq11RSplWff4HCW4uZfgsq4AeENvWRiq4445huhm/OssslgXQxbwG6UI9Bah/UxXxhq1YInnariaJAau4xIQFb1loR4MybFd4m1bAq8k3CDesJFY9xqpnHbEJyYMaYP3ssSXO01Pk0v5k+f+JTjPWg3VcpbX2lh64DHUaQF0+RpdzOczB3S86EqN+YMrZErSd1F1U=;v2RitKgYsCuGplg2zfE+Tg=="
+secured: "fzKhZ6BCswTWzJTp8T0dNpWJ4fvVXseUVuHrarLnwMaVqK1H4ygEkhJ/kgjzRExAeRz9rauh1WgMTWUCpiNGx6kwPjApSuzbwq/bpQLUxAS5vZwkcEnYjcvRBbELqC6YQnB9tqS1tAQwqRd2ojamxGqCviGcz73F8eyYe34pUBcaiqulYGEBXJ04M502Co2BGgGbkHmy/FabENT6xaXIUSqifpGkzUK376RMdMv+M0Cpzw4QvAU05/EDb2Tdv9h2R/cvY0pxRdGKzGhTJItq1dTwbMoCxgQWTYlYAwUE9SandveLRlv+GZZyU0qzkb4Dg0Ay/oe2ZRG6Oz382cWTspYLSiWduPGvcxhFK0nyzqQ=;EksLEAfwk0ZWlbBj1uJs+A=="
 ---
 

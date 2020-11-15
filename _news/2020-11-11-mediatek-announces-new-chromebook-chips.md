@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20201111PR202.html"
 webUrl: "https://www.digitimes.com/news/a20201111PR202.html"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 336
     height: 224
     isCached: true
-
-related:
-  - title: "MediaTek announces Dimensity 700 5G capable chip for mass markets"
-    excerpt: "MediaTek has announced a new 7nm chip called Dimensity 700 which supports 5G connectivity and is made for premium and mid range smartphones."
-    publishedDateTime: 2020-11-11T04:52:00Z
-    webUrl: "https://www.themobileindian.com/news/mediatek-announces-dimensity-700-5g-capable-chip-for-mass-markets-33914"
-    ampWebUrl: "https://www.themobileindian.com/news/lite/mediatek-announces-dimensity-700-5g-capable-chip-for-mass-markets-33914"
-    cdnAmpWebUrl: "https://www-themobileindian-com.cdn.ampproject.org/c/s/www.themobileindian.com/news/lite/mediatek-announces-dimensity-700-5g-capable-chip-for-mass-markets-33914"
-    type: article
-    provider:
-      name: Mobile
-      domain: themobileindian.com
-    quality: 59
-    images:
-      - url: "https://dhlm2eb86cbhs.cloudfront.net/public/thumbs/news/2020/11/33914/0001-12942641163_20201110_235145_0000_425_735.jpg"
-        width: 735
-        height: 425
-        isCached: true
 
 secured: "6hk7aaho/15I03I/8sngsrhHBKQrrNtPXkYQQxd54h4V9tXbddkw7sII7yTEoVh8d66UBNcPPH1P7EP8Y1AhtfcT19rWDQiox3ka1b9y7lTOXcePhYjBFd0CAbdOviQvPYJFK0yhYSAVaLnZdnTxlXJrM2CWxQkLdNCGMZZKcfcng9VOkz+GkAddEQTvlGLWyK+EHEX3ZMcFoiP6dvdHN6wIHToQty8VZOPsch8Om4sxobZggNGYcF7PrFTPzq7Oholyb21WWdyKuSRFrjTAvw9BYDyCRao5wOJ7p1gWXCWZYIufZryBLPJiKPvGrksJhx/kzl55CWUQ487M5YtYT2dNUoJu8fuyOs4uyta6rKj7xxsSSi4Ml2Wb7yHHtVzirzFy0SMHwVETBOIDJGnk5u+VNKevICu67Bb1JZycqmoZEyG3A6Nte59RrHVxqSGhe3XV2MtcCqQT1RbpXJVDmSnYP1/haFN3FCmR6l80o1flX/3NHo/D2ZeY7R8PTyV74Kn15RePhF7ow9YW8MOmIw==;C70nzTiM6Y41wTAzc49i8g=="
 ---

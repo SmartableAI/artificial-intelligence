@@ -129,20 +129,6 @@ related:
         width: 770
         height: 364
         isCached: true
-  - title: "Walmart partners with Cruise in a pilot for self-driving car delivery service"
-    excerpt: "Walmart Inc. and General Motors Co. subsidiary Cruise LLC have agreed to partner on a self-driving delivery service in Scottsdale, Arizona, it was announced today. In April, Walmart launched its “Express Delivery” service,"
-    publishedDateTime: 2020-11-11T04:39:00Z
-    webUrl: "https://siliconangle.com/2020/11/10/walmart-partners-cruise-pilot-self-driving-car-delivery-service/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 21
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/Capture.png"
-        width: 869
-        height: 566
-        isCached: true
 
 secured: "9hUIYUmFXLm86lJ977WRSAY7NPMI7V3uWbjNC+CdjS6toNufJydRjsjUx/slazd4C6JvxLOu4WUs5iI+EEczIQBbctFcycVB3c9Ee8JrId2vXnQ0hJ0+5X8GEprDwVrNWTIaTjkKQ56/57YysR2j6Z0QN3s2vdjWcF0h4Op2xJh8a2ZY+K3aCHQDoXVm4m+GBCKfbZhhEED/frKxhnTkNlDPUt3IN34sFvFdR5LnIOkW/O1OwoASCEPKlsCbQxU6jmqfQQjzN1RJNmDPVF9BUFHJCqq81d2RmYMiqvLN0O0HDYabLXrseI1hmvD/yUaOLRDnTMI+5HC0nWr7tVpsM45t5tR3dVBHWtkE7wq96qQ=;26npeTpf1ediY4D6qhk5Cw=="
 ---

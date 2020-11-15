@@ -345,8 +345,8 @@
       "title": "IBM, Microsoft, and the Future of Healthcare",
       "excerpt": "IBM focused its Watson AI on providing medical professionals with diagnostic tools allowing them to diagnose even the most mysterious illnesses more accurately. Simultaneously, Microsoft recently ...",
       "sourceUrl": null,
-      "webUrl": "https://www.technewsworld.com/story/IBM-Microsoft-and-the-Future-of-Healthcare-86911.html",
-      "originalUrl": "https://www.technewsworld.com/story/IBM-Microsoft-and-the-Future-of-Healthcare-86911.html",
+      "webUrl": "https://www.technewsworld.com/story/86911.html",
+      "originalUrl": "https://www.technewsworld.com/story/86911.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1348,21 +1348,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-27-deci-raises-91-million-to-autonomously-optimize-ai-algorithms.md",
-      "title": "Deci raises $9.1 million to autonomously optimize AI algorithms",
-      "excerpt": "which redesigns AI algorithms to run more efficiently on off-the-shelf processors by leveraging the chips’ available memory. Yet another rival, DarwinAI, uses what it calls generative synthesis ...",
+      "path": "_news/2020-10-27-microsoft-azure-ad-gains-machine-learning-hooks-to-detect-sneaky-password-spray-attacks.md",
+      "title": "Microsoft Azure AD Gains Machine Learning Hooks To Detect Sneaky Password Spray Attacks",
+      "excerpt": "Microsoft’s Azure Active Directory has some neat features ... This attack is called password spray, and by now using machine learning, Microsoft can detect patterns and alert organizations ...",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/27/deci-raises-9-1-million-to-autonomously-optimize-ai-algorithms/",
-      "originalUrl": "https://venturebeat.com/2020/10/27/deci-raises-9-1-million-to-autonomously-optimize-ai-algorithms/",
+      "webUrl": "https://hothardware.com/news/microsoft-azure-ad-identity-protection",
+      "originalUrl": "https://hothardware.com/news/microsoft-azure-ad-identity-protection",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/GettyImages-1180684429-e1587555325642.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
+          "url": "https://images.hothardware.com/contentimages/newsitem/53247/content/azure-machine-learning.jpg",
+          "width": 708,
+          "height": 393,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1370,23 +1370,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/27/deci-raises-9-1-million-to-autonomously-optimize-ai-algorithms/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/deci-raises-9-1-million-to-autonomously-optimize-ai-algorithms/amp/",
-      "publishedDateTime": "2020-10-27T04:01:00-07:00",
+      "ampWebUrl": "https://amp.hothardware.com/news/microsoft-azure-ad-identity-protection",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-azure-ad-identity-protection",
+      "publishedDateTime": "2020-10-27T04:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1395,9 +1386,9 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "Microsoft AI",
         "AI",
-        "Microsoft AI"
+        "Machine Learning"
       ]
     }
   ],

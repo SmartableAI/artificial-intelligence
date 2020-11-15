@@ -57,17 +57,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "IBM, AMD to collaborate on HPC, AI, hybrid cloud, confidential computing"
-    excerpt: "IBM and AMD said they will collaborate on security, open source software, standards and architectures for high-performance computing and artificial intelligence workloads. The partnership between the two companies is likely to cement AMD's place in hybrid cloud environments and give more of a data center foothold in the enterprise."
-    publishedDateTime: 2020-11-11T04:36:00Z
-    webUrl: "https://www.zdnet.com/article/ibm-amd-to-collaborate-on-hpc-ai-hybrid-cloud-confidential-computing/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-amd-to-collaborate-on-hpc-ai-hybrid-cloud-confidential-computing/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-amd-to-collaborate-on-hpc-ai-hybrid-cloud-confidential-computing/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 68
   - title: "IBM and AMD Begin Cooperation on Cybersecurity and AI"
     excerpt: "AMD and IBM began work on a cybersecurity and AI program built on \"open-source software, open standards, and open system architectures.\""
     publishedDateTime: 2020-11-11T13:45:00Z

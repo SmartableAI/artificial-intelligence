@@ -63,20 +63,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 41
-  - title: "FRISS Fraud Study Shows the Impacts of COVID-19 on AI and Digitalization in Insurance"
-    excerpt: "In a recent study by FRISS, the global leader in AI-powered fraud detection software for insurers, the impacts of COVID-19 as well as long-term industry trends are highlighted. The study gathered input from nearly 500 insurance professionals worldwide and provides insight into topics such as fraud detection during a pandemic,"
-    publishedDateTime: 2020-11-11T04:15:00Z
-    webUrl: "https://www.financialbuzz.com/friss-fraud-study-shows-the-impacts-of-covid-19-on-ai-and-digitalization-in-insurance/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 30
-    images:
-      - url: "https://mms.businesswire.com/media/20201109005743/en/836968/4/Fraud-survey-featured.jpg"
-        width: 480
-        height: 270
-        isCached: true
 
 secured: "Auw0l95TSyqDCCNbEMBC5Zm0fgWdFlXmKa+VU1PLuRFkGNpMamX7eBOwr1k3mKm5SeRTpXTrlO1sgNgnbIife28a8locE6CO5ZrxdlCM2N7bPXuYj/GBZLIt4USbxwuvn3LHRF/oC0QGrRhEnBd0TvkRp7KvcTy4SjF8JgY+1kri4b/esctf6bRcIdXSTlFS2FbekpcgQPRgSosG+9ZfI0UA43WISQHsqvv5BUx+jvIw6WSO+roG9frexsuWSU9se9h07csjfLDfxlrGHI7QpNvSVdf+PO8GiT12QjjyY9i05PH+slzn2iCfmIqHk1p+7HEB9MB8nodLFKHWiKp7v1ppwE5XynOsyKRocjGO8BE=;lnH2XMvC6bnY7Am/lnzAUg=="
 ---

@@ -1,25 +1,27 @@
 ---
 category: news
-title: "Threat Stack Unveils Machine Learning Capabilities in The Threat Stack Cloud Security Platform"
-excerpt: "Threat Stack, the leader in cloud security and compliance for infrastructure and applications, today announced"
-publishedDateTime: 2020-11-10T12:17:00Z
-originalUrl: "https://www.financialbuzz.com/threat-stack-unveils-machine-learning-capabilities-in-the-threat-stack-cloud-security-platform/"
-webUrl: "https://www.financialbuzz.com/threat-stack-unveils-machine-learning-capabilities-in-the-threat-stack-cloud-security-platform/"
+title: "Threat Stack Unveils Machine Learning Capabilities in The Threat Stack Cloud Security PlatformⓇ"
+excerpt: "Threat Stack, the leader in cloud security and compliance for infrastructure and applications, today announced ThreatML ™, its new machine learning engine that enhances security observability for the Threat Stack Cloud Security Platform Ⓡ,"
+publishedDateTime: 2020-11-09T16:01:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-software-industry-security-products-and-services-information-technology-e2923a6f850048ddbc4353f864b1ee1a"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-software-industry-security-products-and-services-information-technology-e2923a6f850048ddbc4353f864b1ee1a"
 type: article
-quality: 26
-heat: 26
-published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
   - AI in Security
 
-secured: "UnGJsQZKToLNXcw1E7LMetrQIl7tFoLsX9B9uf2Nr+In2nByt1XzcNv5Zefk/zvu9az1qU1I41nR8VcV3IP8uwYyGVjIlHDucqT5GxLM8mKJkvymaPEumwi2GrqATEOh6iDF9F/XzJKAnBod7o1qG6Eqj1I75rmIcN+ctV3zkjMjwo+Cg2iO2Ml1oQ/ja+h7wn3u48UYZzfSwuCqD0Dh80S3AUdUORt5mg8ZgXpGJFbojDWyZseS5BiRvXw3DiOHfBf/k3Yx+2DPK4s8MV+H4ycyzCYYgN7KD50g+GKhjL4mGqjJVU0YwQUjGRQSloeja5JOrV2914doxWEERdcq50m2Wb2SimGQeKwGfs+mY58=;vQmIsS7VYsiO3iENN7KWFw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "J2WUsFnCX68ML42GfmTjHdGl5bVy2SzfmAzUuRrN/cHDzSNtR3AXlZaTcomS7Q1WTZn4+f8JJu1tlqq+CBhh0IVcgU730sc10MRehkAVQRD8MsuJUXuznPVVyCCXvn8zMbl3WE7XJyduYEIrbWu13KqA8RSGRktkjpMOcFh0WsPSQpgfvMc4nm0RbChMt45eI3vyFbQ5Emw7BLeCkiicLQSrRwD1DQTO6DgJKwF++7A9fhhTDJEOyb68TuVwMtYQHi2ArllPjMDQruCUi2BWPwlOlw37WzH8sdammsiI9gSF0nZwnpnQXhmE6wpMMiFfHHrUQgf06IUHD6mYhhD5SqGOtOvxJtXe7a56KYw71GA=;A/M3cffnnwcBsCZGqn+iVg=="
 ---
 

@@ -94,6 +94,22 @@ related:
         width: 640
         height: 380
         isCached: true
+  - title: "Alexa now runs on more powerful cloud instances, opening the door for complex new features"
+    excerpt: "In addition to the Alexa team, Amazon Rekognition is also adopting the new chip as running models such as object classification on Inf1 instances resulted in eight times lower latency and doubled ..."
+    publishedDateTime: 2020-11-13T23:07:00Z
+    webUrl: "https://www.techradar.com/au/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features"
+    ampWebUrl: "https://www.techradar.com/au/amp/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 64
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/cm2hxBobQuAFb4Bj3YRJQU-1200-80.jpg"
+        width: 970
+        height: 546
+        isCached: true
   - title: "Amazon shifts some voice, face recognition computing to own chips"
     excerpt: "Amazon on Thursday said it shifted part of the computing for its Alexa voice assistant to its own custom-designed chips, aiming to make the work faster and cheaper while moving it away from chips supplied by Nvidia Corp."
     publishedDateTime: 2020-11-12T20:30:00Z
