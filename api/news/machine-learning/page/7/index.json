@@ -2,6 +2,59 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-05-azure-machine-learning-helps-customers-stay-ahead-of-challenges.md",
+      "title": "Azure Machine Learning helps customers stay ahead of challenges",
+      "excerpt": "Organizations today are striving to build agility and resilience to the fast-changing environment we live in. AI and machine learning innovation can help tackle these emerging challenges and enable cost efficiencies.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/azure-machine-learning-helps-customers-stay-ahead-of-challenges/",
+      "originalUrl": "https://azure.microsoft.com/blog/azure-machine-learning-helps-customers-stay-ahead-of-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/54a5211d-b1cd-4904-bdc7-275db6482b0f.png",
+          "width": 727,
+          "height": 341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-05T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-10-04-machine-learning-tool-searches-the-lungs-for-signs-of-heart-failure.md",
       "title": "Machine learning tool searches the lungs for signs of heart failure",
       "excerpt": "One of the ways physicians can gain some forewarning of impending heart failure is through the detection of excess fluid in the lungs, and MIT researchers have developed a new machine learning ...",
@@ -1394,49 +1447,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-machine-learning-homes-in-on-catalyst-interactions-to-accelerate-materials-development.md",
-      "title": "Machine learning homes in on catalyst interactions to accelerate materials development",
-      "excerpt": "Machine learning homes in on catalyst interactions to accelerate materials development Date: September 29, 2020 Source: University of Michigan Summary: A machine learning technique rapidly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2020/09/200929123416.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2020/09/200929123416.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

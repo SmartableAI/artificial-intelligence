@@ -2,6 +2,143 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-10-30-stradvision-selected-as-a-member-of-renesas-r-car-consortium-proactive-partner-program.md",
+      "title": "StradVision selected as a member of Renesas R-Car Consortium Proactive Partner Program",
+      "excerpt": "StradVision has been working closely with Renesas since the announcement of their collaboration on developing a deep learning-based object recognition solution for smart cameras used in ADAS in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/stradvision-selected-as-a-member-of-renesas-r-car-consortium-proactive-partner-program-301161061.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/stradvision-selected-as-a-member-of-renesas-r-car-consortium-proactive-partner-program-301161061.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1003667/StradVision_Logo.jpg?p=facebook",
+          "width": 1413,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-30T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-how-ai-is-helping-indian-cotton-farmers-reduce-pesticide-use.md",
+      "title": "How AI is helping Indian cotton farmers reduce pesticide use",
+      "excerpt": "There are more than 5.8 million cotton farmers in India according to the country’s Textile Ministry. Every year, they face heavy losses due to pests attacking their crops. In 2017, farmers in the state of Maharashtra faced a loss of ₹15,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/10/30/how-ai-is-helping-indian-cotton-farmers-reduce-pesticide-use/",
+      "originalUrl": "https://thenextweb.com/neural/2020/10/30/how-ai-is-helping-indian-cotton-farmers-reduce-pesticide-use/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/800px-CSIRO_ScienceImage_408_Cotton_Bearing_Cotton_Plant-e1604052065746-796x420.jpg",
+          "width": 796,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/10/30/how-ai-is-helping-indian-cotton-farmers-reduce-pesticide-use/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/30/how-ai-is-helping-indian-cotton-farmers-reduce-pesticide-use/amp/",
+      "publishedDateTime": "2020-10-30T03:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure.md",
+      "title": "Lindsay to Develop Sustainable and Profitable Solutions for Growers using Microsoft Azure",
+      "excerpt": "Lindsay will utilize Microsoft Azure IoT Edge and Azure Machine Learning for edge-of-field computing, artificial intelligence and machine learning solutions. Collaboration will result in complete ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-301163711.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-301163711.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-30T03:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-blockchain-aims-to-solve-ai-ethics-and-bias-issues.md",
       "title": "Blockchain aims to solve AI ethics and bias issues",
       "excerpt": "Many Machine Learning and AI algorithms are centralized, with no transparency in the process. Now a blockchain-based start-up aims to improve transparency bias in business workflows",
@@ -1064,144 +1201,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-has-facial-recognition-won-the-race-for-biometric-authentication.md",
-      "title": "Has facial recognition won the race for biometric authentication?",
-      "excerpt": "Fingerprint identification had once been the most widespread biometric technology around the world. However, many argue that this technology has quite a lot of shortcomings. For instance,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/insights/facial-recognition-biometrics-co-1603983074-ga.1603983477.html",
-      "originalUrl": "https://www.sourcesecurity.com/insights/facial-recognition-biometrics-co-1603983074-ga.1603983477.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://security-img.scdn6.secure.raxcdn.com/news/612/biometric-access-control-920-2.jpg",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/insights/facial-recognition-biometrics-co-1603983074-ga.1603983477.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/facial-recognition-biometrics-co-1603983074-ga.1603983477.html",
-      "publishedDateTime": "2020-10-29T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-daylight-savings-time-could-miraculously-be-saved-by-self-driving-cars.md",
-      "title": "Daylight Savings Time Could Miraculously Be Saved By Self-Driving Cars",
-      "excerpt": "Here’s today’s intriguing question: Will the advent of AI-based true self-driving cars potentially “solve” the car crash-related concerns entailing Daylight Savings Time and obviate the need to necessarily cancel DST due to car crashes? Let’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/29/daylight-savings-time-could-miraculously-be-saved-by-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/29/daylight-savings-time-could-miraculously-be-saved-by-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f99f9cf900674c6d06d4c35%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6240%26cropY1%3D316%26cropY2%3D3826",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/29/daylight-savings-time-could-miraculously-be-saved-by-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/29/daylight-savings-time-could-miraculously-be-saved-by-self-driving-cars/amp/",
-      "publishedDateTime": "2020-10-29T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-activists-turn-facial-recognition-tools-against-the-police.md",
-      "title": "Activists turn facial recognition tools against the police",
-      "excerpt": "In early September, the City Council in Portland, Oregon, met virtually to consider sweeping legislation outlawing the use of facial recognition technology. The bills would not only bar the police from using it to unmask protesters and individuals captured in surveillance imagery;",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html",
-      "originalUrl": "https://www.chicagotribune.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/jlVG6BaC3imlBR23jhCY0p4V30U=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NAX6PDQO4JFFFFIXWI6JRI6B3A.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html?outputType=amp",
-      "publishedDateTime": "2020-10-29T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

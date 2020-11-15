@@ -474,6 +474,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-04-sony-and-microsoft-team-up-azure-to-power-playstation-now.md",
+      "title": "Sony and Microsoft team up, Azure to power PlayStation Now",
+      "excerpt": "Sony will bring its image sensors over so Microsoft can infuse its Azure-powered AI into them, and Microsoft will let Sony experiment with its Azure servers to host services like PlayStation Now ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/65959/sony-microsoft-team-up-azure-power-playstation-now/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/65959/sony-microsoft-team-up-azure-power-playstation-now/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/6/5/65959_8893_sony-microsoft-team-up-azure-power-playstation-now_full.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/65959/sony-microsoft-team-up-azure-power-playstation-now/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/65959/sony-microsoft-team-up-azure-power-playstation-now/amp.html",
+      "publishedDateTime": "2020-11-03T09:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-ai-led-operations-the-smart-way-to-automate.md",
       "title": "AI-Led Operations: The Smart Way To Automate",
       "excerpt": "With AIOps, we don’t have to think of the complexities of organizations as a barrier, but rather an opportunity.",
@@ -1385,58 +1428,6 @@
         "AI",
         "Microsoft AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-why-do-governments-need-cognitive-services.md",
-      "title": "Why do governments need cognitive services?",
-      "excerpt": "Mykhaylo Shmyelov, Director for National Technology Strategies and Policies for 24 Countries in Central and Eastern Europe at Microsoft, talked with Kazakhstani media Kursiv.kz about cognitive services and how they help governments become genuinely digital.",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/en-cee/2020/10/26/why-do-governments-need-cognitive-services/",
-      "originalUrl": "https://news.microsoft.com/en-cee/2020/10/26/why-do-governments-need-cognitive-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/566/2020/10/web-3963945_1920-1600x843.jpg",
-          "width": 1600,
-          "height": 843,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

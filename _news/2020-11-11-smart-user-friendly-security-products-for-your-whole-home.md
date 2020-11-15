@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/paid-content/news/smart-user-friendly-securit
 webUrl: "https://www.cnet.com/paid-content/news/smart-user-friendly-security-products-for-your-whole-home/"
 type: article
 quality: 71
-heat: 71
+heat: 72
 published: true
 
 provider:

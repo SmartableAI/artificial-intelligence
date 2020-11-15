@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/12/why-ai-cant-move-forward-without-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/12/why-ai-cant-move-forward-without-diversity-equity-and-inclusion/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-13-how-google-built-its-ai-powered-hum-to-search-feature.md",
+      "title": "How Google built its AI-powered Hum to Search feature",
+      "excerpt": "Google's new Hum to Search feature identifies songs from humming or whistling. Here's how it works behind the scenes.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/12/how-google-built-its-ai-powered-hum-to-search-feature/",
+      "originalUrl": "https://venturebeat.com/2020/11/12/how-google-built-its-ai-powered-hum-to-search-feature/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/12/how-google-built-its-ai-powered-hum-to-search-feature/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/12/how-google-built-its-ai-powered-hum-to-search-feature/amp/",
+      "publishedDateTime": "2020-11-12T09:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-how-amazon-retail-systems-run-machine-learning-predictions-with-apache-spark.md",
       "title": "How Amazon Retail Systems Run Machine Learning Predictions with Apache Spark",
       "excerpt": "Amazon Retail systems uses Apache Spark with Deep Java Library (DJL) to build propensity models to drive customer experience.",
@@ -63,7 +114,7 @@
       "originalUrl": "https://www.techrepublic.com/article/ultimate-python-and-ai-certification-bundle-discounted-97/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -155,6 +206,59 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-whats-next-for-ai-gary-marcus-talks-about-the-journey-toward-robust-artificial-intelligence.md",
+      "title": "What's next for AI: Gary Marcus talks about the journey toward robust artificial intelligence",
+      "excerpt": "Gary Marcus is one of the more prominent, and controversial, figures in AI. Going beyond his critique on Deep Learning, which is what many people know him for, Marcus puts forward a well-rounded propo",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/11/12/931ab7f6-3ca4-4467-82c1-c76b3311cbcb/gary-marcus.jpg",
+          "width": 392,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
+      "publishedDateTime": "2020-11-12T07:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -356,7 +460,7 @@
       "originalUrl": "https://www.geekwire.com/2020/madrona-leads-2-6m-round-othersideai-startup-using-gpt-3-tech-write-automated-emails/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -606,7 +710,7 @@
       "originalUrl": "https://venturebeat.com/2020/11/12/why-ai-cant-move-forward-without-diversity-equity-and-inclusion/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -935,60 +1039,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-12-whats-next-for-ai-gary-marcus-talks-about-the-journey-toward-robust-artificial-intelligence.md",
-      "title": "What's next for AI: Gary Marcus talks about the journey toward robust artificial intelligence",
-      "excerpt": "Gary Marcus is one of the more prominent, and controversial, figures in AI. Going beyond his critique on Deep Learning, which is what many people know him for, Marcus puts forward a well-rounded propo",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/11/12/931ab7f6-3ca4-4467-82c1-c76b3311cbcb/gary-marcus.jpg",
-          "width": 392,
-          "height": 392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
-      "publishedDateTime": "2020-11-11T23:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2020-11-12-databricks-launches-sql-analytics.md",
       "title": "Databricks launches SQL Analytics",
       "excerpt": "Databricks adds new SQL Analytics Workspace and Endpoint features, consolidating its acquisition of Redash and bolstering its \"data lakehouse\" marketing push.",
@@ -1193,50 +1243,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-electrifai-offers-new-machine-learning-models-for-amazon-sagemaker.md",
-      "title": "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker",
-      "excerpt": "Amazon SageMaker is a fully managed service from Amazon Web Services (AWS) that provides every developer and data scientist with the ability to build, train, and deploy ML models quickly.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683",
-      "publishedDateTime": "2020-11-11T16:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

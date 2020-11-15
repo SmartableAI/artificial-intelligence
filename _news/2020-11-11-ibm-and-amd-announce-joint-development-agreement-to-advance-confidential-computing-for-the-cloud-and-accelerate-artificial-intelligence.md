@@ -1,22 +1,27 @@
 ---
 category: news
 title: "IBM and AMD Announce Joint Development Agreement to Advance Confidential Computing for the Cloud and Accelerate Artificial Intelligence"
-excerpt: "\"IBM is focused on giving our clients choice, agility and security in our hybrid cloud offerings through advanced research, development and scaling of new technologies.\" \"This agreement between AMD and IBM aligns well with our long-standing commitment to collaborating with leaders in the industry,"
-publishedDateTime: 2020-11-11T12:00:00Z
-originalUrl: "https://www.nasdaq.com/press-release/ibm-and-amd-announce-joint-development-agreement-to-advance-confidential-computing"
-webUrl: "https://www.nasdaq.com/press-release/ibm-and-amd-announce-joint-development-agreement-to-advance-confidential-computing"
+excerpt: "PRNewswire/ -- IBM (NYSE: IBM) and AMD (NASDAQ: AMD) today announced a multi-year joint development agreement to enhance and extend the security and Artificial Intelligence (AI) offerings of both companies."
+publishedDateTime: 2020-11-11T06:00:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20201111ny87572/ibm-and-amd-announce-joint-development-agreement-to-advance-confidential-computing-for-the-cloud-and-accelerate-artificial-intelligence"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20201111ny87572/ibm-and-amd-announce-joint-development-agreement-to-advance-confidential-computing-for-the-cloud-and-accelerate-artificial-intelligence"
 type: article
-quality: 17
+quality: 5
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
-  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+    width: 400
+    height: 209
+    isCached: true
 
 related:
   - title: "IBM and AMD Partner Up to Accelerate Development in Cloud Computing and Artificial Intelligence"
@@ -93,6 +98,6 @@ related:
         height: 630
         isCached: true
 
-secured: "GSNNd/aK8J4WDYh2tGudP69VAYFHswgyO05TFsfsoPmRfX9xxa3IPwfr0IhSGQEzvQzgd6VhVM3MWOSg6REkNtTsOGodIz0EBfYU62era4k0lboJBmIJp77ZZXMQhsmtV2ySAMgA6oW0HEQuZoRMGEALMV+KU5fMTmJuYOk7AtTvGE1wNRbn27y/gY16pY54HVIAOSdEYzgnc5ld0On5pzLsuj4UYXv+aOzslTDnOe8pRjYjSQUdRpPjLNjqW8oZdmb8zAysj42RxuIDXQOqmIzjsqHm24TdeADKyBsPgpAMekOUqKXGxT88kJwYFtVdJWpzZq8k6eFlcNsia/kcMAqkmv9bfCk7mVhptsaQJnA=;37ECLmWF9fz86ShnzAAmTw=="
+secured: "ZUi6VSLwKnIgtbXnh1Q52nMzstk3xT/qG3/Kvkg+t3ftcAPjpzhr3kWuUzo8J5BOKVTIyqCzlg3eEqkCgi+s3/RpEWG81MfYbEv/R23fIMBXfvrdcMkK0pKnQHpi+rrBBAZ6i8Mp+kMc0PQ4Q59tPdjLSJLX4yZwdd0w9+57qvbf+ZywQMJCDhfXdesinaau33UKiBGTSAZBsQDZJySQxogIIGCa5EAvTHW75w/Wa74vO8ZYoNAIoBpkI+TThAxAGuptIEK/Kg8yFWZTc4UYS+OTG/3F2nq4tkBZ5ZeRsXwbjZb4ZOfAs9FHQUcXsetdYGXedwIYOGO0+u+M5Rrv3NGBMgNVEuRkYug501FWjX8=;SQKQivnlxbazWg03TRtTEQ=="
 ---
 

@@ -2,6 +2,135 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-10-23-top-10-logistics-companies-worldwide-imarc-group.md",
+      "title": "Top 10 Logistics Companies Worldwide | IMARC Group",
+      "excerpt": "Some of the other emerging technological trends in the logistics industry include artificial intelligence, driverless vehicles and drone delivery. According to IMARC Group, the global logistics ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2168998/top-10-logistics-companies-worldwide-imarc-group",
+      "originalUrl": "https://www.openpr.com/news/2168998/top-10-logistics-companies-worldwide-imarc-group",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/a/Ta22170735_g.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2168998/top-10-logistics-companies-worldwide-imarc-group",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2168998/top-10-logistics-companies-worldwide-imarc-group",
+      "publishedDateTime": "2020-10-22T11:04:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-global-automotive-voice-recognition-system-market-report-2020-trends-forecast-and-competitive-analysis-2013-2024-market-is-expected-to-grow.md",
+      "title": "Global Automotive Voice Recognition System Market Report 2020: Trends, Forecast and Competitive Analysis 2013-2024 - Market is Expected to Grow with a CAGR of 19% ...",
+      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Automotive Voice Recognition System Market: Trends, Forecast and Competitive Analysis\" report has been added to ResearchAndMarkets.com's offering. The automotive voice recognition system market is expected to grow with a CAGR ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201022005941/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20201022005941/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201022005941/en/371054/23/ResearchAndMarkets_800px.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-22T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-teslas-full-self-driving-mode-is-about-to-get-more-expensive-again.md",
+      "title": "Tesla's Full Self Driving mode is about to get more expensive, again",
+      "excerpt": "\"As it collects more data it gets more robust,\" he said. SEE ALSO: Elon Musk says 'Full Self-Driving' mode on Tesla is finally here, sort of The Self-Driving Coalition, which includes Waymo ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/tesla-full-self-driving-price-increase/",
+      "originalUrl": "https://mashable.com/article/tesla-full-self-driving-price-increase/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F10%252F22%252F07%252F3d7f470265b54467872a6ba00a7b4603.732b6.jpg%252F1200x630.jpg?signature=hmDhJ8AIrTNBItamNlJbkL-wHCI=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/tesla-full-self-driving-price-increase.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-full-self-driving-price-increase.amp",
+      "publishedDateTime": "2020-10-22T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-ibm-and-pfizer-claim-ai-can-predict-alzheimers-onset-with-71-accuracy.md",
       "title": "IBM and Pfizer claim AI can predict Alzheimer’s onset with 71% accuracy",
       "excerpt": "IBM and Pfizer claim to have developed a model that can predict the onset of Alzheimer's disease years before clear symptoms develop.",
@@ -1006,144 +1135,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-acer-unveils-intel-gpu-toting-laptops-revamped-chromebooks-and-an-alexa-killing-smartspeaker.md",
-      "title": "Acer unveils Intel GPU-toting laptops, revamped Chromebooks and an Alexa-killing smartspeaker",
-      "excerpt": "Acer has unveiled its latest range of laptops, monitors, and more at their October 2020 Next@Acer event, with new devices in the Swift, Aspire, Predator, Travelmate and ConceptD range. Whilst the conference itself certainly won’t be winning any awards for presentation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/nz/news/acer-unveils-intel-gpu-toting-laptops-revamped-chromebooks-and-an-alexa-killing-smartspeaker",
-      "originalUrl": "https://www.techradar.com/nz/news/acer-unveils-intel-gpu-toting-laptops-revamped-chromebooks-and-an-alexa-killing-smartspeaker",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/jEeCmKPqLeUpdTv96zjGUE-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/acer-unveils-intel-gpu-toting-laptops-revamped-chromebooks-and-an-alexa-killing-smartspeaker",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/acer-unveils-intel-gpu-toting-laptops-revamped-chromebooks-and-an-alexa-killing-smartspeaker",
-      "publishedDateTime": "2020-10-22T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-debate-over-banning-facial-recognition-technology-continues.md",
-      "title": "Debate over banning facial recognition technology continues",
-      "excerpt": "Federal authorities were able to make an arrest with the help of facial recognition technology. Yet some at Baltimore City Hall are pushing to ban it. Shortly after city leaders debated whether to ban facial recognition technology,",
-      "sourceUrl": null,
-      "webUrl": "https://foxbaltimore.com/news/local/debate-over-banning-facial-recognition-technology-continues",
-      "originalUrl": "https://foxbaltimore.com/news/local/debate-over-banning-facial-recognition-technology-continues",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static-28.sinclairstoryline.com/resources/media/e695342f-3f53-48c7-b5fa-2e9701a5f780-large16x9_DFGVGHBJHKL.PNG?1603357023547",
-          "width": 986,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T01:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Baltimore",
-        "domain": "foxbaltimore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-nvidia-chips-again-smash-ai-performance-records.md",
-      "title": "Nvidia chips again smash AI performance records",
-      "excerpt": "Graphic chip maker Nvidia has once again smashed performance records for its AI computing platform in the latest benchmark test rounds of MLPerf, extending its lead on AI performance of hardware, software and services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sify.com/news/nvidia-chips-again-smash-ai-performance-records-news-education-ukwelEgfajdbe.html",
-      "originalUrl": "https://www.sify.com/news/nvidia-chips-again-smash-ai-performance-records-news-education-ukwelEgfajdbe.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sify.com/uploads/nvidia_chip_ians_ukvnDpcacajgj.jpeg",
-          "width": 950,
-          "height": 616,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sify.com/news/nvidia-chips-again-smash-ai-performance-records-news-education-ukwelEgfajdbe.html",
-      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/nvidia-chips-again-smash-ai-performance-records-news-education-ukwelEgfajdbe.html",
-      "publishedDateTime": "2020-10-22T01:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

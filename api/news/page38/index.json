@@ -2,6 +2,145 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-10-15-the-7-best-startups-you-can-buy-on-seedinvest-right-now.md",
+      "title": "The 7 Best Startups You Can Buy On SeedInvest Right Now",
+      "excerpt": "Miso Robotics is the developer of Flippy, an AI-powered robot that cooks in restaurant ... But he has experience as a startup and turnaround executive, having negotiated various financing and ...",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2020/10/the-7-best-startups-you-can-buy-on-seedinvest-right-now/",
+      "originalUrl": "https://investorplace.com/2020/10/the-7-best-startups-you-can-buy-on-seedinvest-right-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2020/08/startups.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2020/10/the-7-best-startups-you-can-buy-on-seedinvest-right-now/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/10/the-7-best-startups-you-can-buy-on-seedinvest-right-now/amp/",
+      "publishedDateTime": "2020-10-14T21:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-banking-on-ai-how-ai-is-changing-the-face-of-fintech.md",
+      "title": "Banking on AI: How AI is changing the face of Fintech",
+      "excerpt": "A recent study by McKinsey suggested that by 2022, over 30% of the tasks in the Fintech sector would be taken over by machines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiainfoline.com/article/news-sector-banking-financials/banking-on-ai-how-ai-is-changing-the-face-of-fintech-120101400447_1.html",
+      "originalUrl": "https://www.indiainfoline.com/article/news-sector-banking-financials/banking-on-ai-how-ai-is-changing-the-face-of-fintech-120101400447_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg",
+          "width": 350,
+          "height": 233,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiainfoline.com/article-amp/news-sector-banking-financials/banking-on-ai-how-ai-is-changing-the-face-of-fintech-120101400447_1.html",
+      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-banking-financials/banking-on-ai-how-ai-is-changing-the-face-of-fintech-120101400447_1.html",
+      "publishedDateTime": "2020-10-14T19:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Infoline",
+        "domain": "indiainfoline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-amazon-translate-ranked-as-1-machine-translation-provider-by-intento.md",
+      "title": "Amazon Translate ranked as #1 machine translation provider by Intento",
+      "excerpt": "Customer obsession, one of the key Amazon Leadership principles that guides everything we do at Amazon, has helped Amazon Translate be recognized as an industry leading neural machine translation provider.&nbsp;This year, Intento ranked Amazon Translate #1 on the list of top-performing machine translation",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-translate-ranked-as-1-machine-translation-provider-by-intento/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-translate-ranked-as-1-machine-translation-provider-by-intento/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/15/Intento.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T18:19:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-experian-partners-with-standard-chartered-to-drive-financial-inclusion-with-machine-learning-powering-the-next-generation-of-decisioning.md",
       "title": "Experian partners with Standard Chartered to drive Financial Inclusion with Machine Learning, powering the next generation of Decisioning",
       "excerpt": "Leveraging innovation in technology to provide access to credit during uncertain times to populations underserved by formal financial services. This social impact was made possible by the Bank's digit",
@@ -1063,162 +1202,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-azure-data-explorer-gets-new-engine-numerous-enhancements-and-synapse-integration.md",
-      "title": "Azure Data Explorer gets new engine, numerous enhancements and Synapse integration",
-      "excerpt": "Microsoft is taking Azure Data Explorer (ADX), a hidden gem in its cloud platform, and trotting it out to join the Azure analytics mainstream. Performance gains and numerous integrations should make ADX's heretofore latent value much more apparent and beneficial,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/azure-data-explorer-gets-new-engine-numerous-enhancements-and-synapse-integration/",
-      "originalUrl": "https://www.zdnet.com/article/azure-data-explorer-gets-new-engine-numerous-enhancements-and-synapse-integration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/10/14/8f1d0a74-ad46-4527-b056-747840964fa8/3.png",
-          "width": 999,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/azure-data-explorer-gets-new-engine-numerous-enhancements-and-synapse-integration/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/azure-data-explorer-gets-new-engine-numerous-enhancements-and-synapse-integration/",
-      "publishedDateTime": "2020-10-14T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services.md",
-      "title": "Microsoft explains how it improved automatic image captioning in Azure Cognitive Services",
-      "excerpt": "In early 2017, Microsoft updated Office 365 apps like Word and PowerPoint with automatic image captioning, drawing on Cognitive Services Computer Vision. (Cognitive Services is a cloud-based suite ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/",
-      "originalUrl": "https://venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/amp/",
-      "publishedDateTime": "2020-10-14T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-ibm-spinoff-should-rejuvenate-cloud-effort.md",
-      "title": "IBM Spinoff Should Rejuvenate Cloud Effort",
-      "excerpt": "The split up of IBM should put it in a better position to compete with other cloud titans such as Amazon AWS, Google, and Microsoft Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rscottraynovich/2020/10/14/ibm-spinoff-should-rejuvenate-cloud-effort/",
-      "originalUrl": "https://www.forbes.com/sites/rscottraynovich/2020/10/14/ibm-spinoff-should-rejuvenate-cloud-effort/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8707e67b98236f3d929dd6%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4105%26cropY1%3D169%26cropY2%3D2478",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rscottraynovich/2020/10/14/ibm-spinoff-should-rejuvenate-cloud-effort/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rscottraynovich/2020/10/14/ibm-spinoff-should-rejuvenate-cloud-effort/amp/",
-      "publishedDateTime": "2020-10-14T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

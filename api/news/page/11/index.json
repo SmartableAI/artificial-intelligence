@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-11-04-smart-devices-could-use-ai-to-tell-where-your-voice-is-coming-from.md",
+      "title": "Smart devices could use AI to tell where your voice is coming from",
+      "excerpt": "University researchers have developed a machine learning model that uses the power of AI to determine precisely what direction someone's voice is coming from ... others in that it doesn't require facial recognition tech, which could be for the best.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/87432-smart-devices-could-use-ai-tell-where-voice.html",
+      "originalUrl": "https://www.techspot.com/news/87432-smart-devices-could-use-ai-tell-where-voice.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/11/2020-11-03-image-21.jpg",
+          "width": 1680,
+          "height": 1120,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/87432-smart-devices-could-use-ai-tell-where-voice.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87432-smart-devices-could-use-ai-tell-where-voice.html",
+      "publishedDateTime": "2020-11-04T03:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-tesla-full-self-driving-beta-appears-to-detect-and-avoid-road-debris-in-video.md",
       "title": "Tesla Full Self-Driving Beta appears to detect and avoid road debris in video",
       "excerpt": "Driving Beta has impressed with its capacity to navigate city streets and it now looks like it can also detect and avoid road debris, according to a new video. Like Tesla Autopilot, the automaker’s new Full Self-Driving Beta requires driver attention at all times since it can encounter things that it doesn’t know",
@@ -853,6 +905,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-04-sony-and-microsoft-team-up-azure-to-power-playstation-now.md",
+      "title": "Sony and Microsoft team up, Azure to power PlayStation Now",
+      "excerpt": "Sony will bring its image sensors over so Microsoft can infuse its Azure-powered AI into them, and Microsoft will let Sony experiment with its Azure servers to host services like PlayStation Now ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/65959/sony-microsoft-team-up-azure-power-playstation-now/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/65959/sony-microsoft-team-up-azure-power-playstation-now/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/6/5/65959_8893_sony-microsoft-team-up-azure-power-playstation-now_full.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/65959/sony-microsoft-team-up-azure-power-playstation-now/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/65959/sony-microsoft-team-up-azure-power-playstation-now/amp.html",
+      "publishedDateTime": "2020-11-03T09:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-googles-waymo-is-pulling-its-self-driving-cars-out-of-san-francisco-in-case-violence-erupts-around-the-election.md",
       "title": "Google's Waymo is pulling its self-driving cars out of San Francisco in case violence erupts around the election",
       "excerpt": "The company will also stop testing on San Francisco's streets for the next two days as the 2020 presidential election unfolds.",
@@ -1152,101 +1247,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-inside-paramounts-2020-survival-strategy-earn-more-selling-off-films-than-releasing-them.md",
-      "title": "Inside Paramount’s 2020 Survival Strategy: Earn More Selling Off Films Than Releasing Them",
-      "excerpt": "Paramount's strategy to sell off some of its films while theaters remain shut down may be paying off for the studio.",
-      "sourceUrl": null,
-      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
-      "originalUrl": "https://www.thewrap.com/inside-paramounts-2020-survival-strategy-earn-more-selling-off-films-than-releasing-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inside.com/assets/premium/Blue-email-icon-0994aadea0b5b10b19a148e2dd34a88c4a315b76ed51d7898fa49dc4ddc6d171.png",
-          "width": 414,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-03T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheWrap",
-        "domain": "thewrap.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-a-new-class-is-in-session-how-to-incorporate-ai-in-education.md",
-      "title": "(A New) Class Is In Session: How To Incorporate AI In Education",
-      "excerpt": "It’s time for schools to reevaluate their approach to teaching kids about a technology that’s only becoming more commonplace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/11/03/a-new-class-is-in-session-how-to-incorporate-ai-in-education/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/11/03/a-new-class-is-in-session-how-to-incorporate-ai-in-education/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa03d9175ada390f1e3b726%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/11/03/a-new-class-is-in-session-how-to-incorporate-ai-in-education/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/11/03/a-new-class-is-in-session-how-to-incorporate-ai-in-education/amp/",
-      "publishedDateTime": "2020-11-03T06:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

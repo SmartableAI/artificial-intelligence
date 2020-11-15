@@ -151,20 +151,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Natural Language Processing Market Latest Industry Size, Share, Emerging Trends, Demand, Revenue and Forecasts Research Report"
-    excerpt: "The report evaluates the important characteristics of the market based on present industry scenarios, market demands and business strategies. Also, the research report separates the industry based on the Natural Language Processing Market share,"
-    publishedDateTime: 2020-11-10T08:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-market-latest-industry-size-share-emerging-trends-demand-revenue-and-forecasts-research-report-2020-11-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence in Security Market 2021: Segmented By Product, Top Manufacturers, Geography Trends & Forecasts To 2030"
     excerpt: "Market.Biz –:COVID-19 Analysis: Turn massive Artificial Intelligence in Security Market challenges into | eTurboNews | Trends | Travel News Online |"
     publishedDateTime: 2020-11-12T03:50:00Z

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-26-why-do-governments-need-cognitive-services.md",
+      "title": "Why do governments need cognitive services?",
+      "excerpt": "Mykhaylo Shmyelov, Director for National Technology Strategies and Policies for 24 Countries in Central and Eastern Europe at Microsoft, talked with Kazakhstani media Kursiv.kz about cognitive services and how they help governments become genuinely digital.",
+      "sourceUrl": null,
+      "webUrl": "https://news.microsoft.com/en-cee/2020/10/26/why-do-governments-need-cognitive-services/",
+      "originalUrl": "https://news.microsoft.com/en-cee/2020/10/26/why-do-governments-need-cognitive-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/566/2020/10/web-3963945_1920-1600x843.jpg",
+          "width": 1600,
+          "height": 843,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-25-developers-can-tap-into-deep-learning-with-the-open-source-beta-of-the-microsoft-cognitive-toolkit.md",
       "title": "Developers can tap into deep learning with the open-source beta of the Microsoft Cognitive Toolkit",
       "excerpt": "Developers and researchers can start using the power of deep learning with the updated beta release of the open-source Microsoft Cognitive Toolkit. The toolkit, previously known as CNTK ...",
@@ -1301,50 +1353,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-udacity-and-microsoft-partner-up-to-launch-new-machine-learning-program-to-skill-students.md",
-      "title": "Udacity and Microsoft partner up to launch new machine learning program to skill students",
-      "excerpt": "The US-based learning platform Udacity on Thursday announced a partnership with Microsoft to launch Microsoft Azure 'Nanodegree' programme, which will strengthen the machine learn",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/india/news/udacity-partners-with-microsoft-to-launch-nanodegree-programme-to-skill-students/articleshow/78680180.cms",
-      "originalUrl": "https://www.businessinsider.in/india/news/udacity-partners-with-microsoft-to-launch-nanodegree-programme-to-skill-students/articleshow/78680180.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/78680236.cms?height=275&width=412",
-          "width": 412,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.in/india/news/udacity-partners-with-microsoft-to-launch-nanodegree-programme-to-skill-students/amp_articleshow/78680180.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/india/news/udacity-partners-with-microsoft-to-launch-nanodegree-programme-to-skill-students/amp_articleshow/78680180.cms",
-      "publishedDateTime": "2020-10-15T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

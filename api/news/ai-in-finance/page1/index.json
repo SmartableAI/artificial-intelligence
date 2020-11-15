@@ -187,22 +187,22 @@
       ]
     },
     {
-      "path": "_news/2020-11-11-korean-payment-giants-danal-fintech-joins-icon-blockchain-ecosystem.md",
-      "title": "Korean Payment Giant’s Danal Fintech Joins ICON Blockchain Ecosystem",
-      "excerpt": "Danal Fintech, a subsidiary of Danal ( one of the largest payment companies in South Korea, today announced that they are joining the ICON blockchain ecosystem, the largest decentralized network in Korea by market capitalization.",
+      "path": "_news/2020-11-12-electrifai-offers-new-machine-learning-models-for-amazon-sagemaker.md",
+      "title": "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker",
+      "excerpt": "Amazon SageMaker is a fully managed service from Amazon Web Services (AWS) that provides every developer and data scientist with the ability to build, train, and deploy ML models quickly.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/korean-payment-giant-s-danal-fintech-joins-icon-blockchain-ecosystem-1029791295",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/korean-payment-giant-s-danal-fintech-joins-icon-blockchain-ecosystem-1029791295",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 123,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Korean-Payment-Giant-s-Danal-Fintech-Joins-ICON-Blockchain-Ecosystem-1029791295",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Korean-Payment-Giant-s-Danal-Fintech-Joins-ICON-Blockchain-Ecosystem-1029791295",
-      "publishedDateTime": "2020-11-11T04:13:00-08:00",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683",
+      "publishedDateTime": "2020-11-11T16:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -225,8 +225,10 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI"
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
       ]
     },
     {
@@ -710,10 +712,10 @@
     {
       "path": "_news/2020-10-29-workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-world-of-finance.md",
       "title": "Workday Delivers Data Management and Machine Learning Innovations for the Changing World of Finance",
-      "excerpt": "Advances in Managing Data Create New Levels of Insight and Performance Accountability for Today's Agile Organizations PLEASANTON, Calif., Oct. 29, 2020 (GLOBE NEWSWIRE) -- Workday Inc. (NASDAQ: WDAY),",
+      "excerpt": "(GLOBE NEWSWIRE) -- Workday Inc. (NASDAQ: WDAY), a leader in enterprise cloud applications for finance and human resources, today announced availability of Workday Accounting Center and machine learning (ML)-driven predictive forecasts for Workday Adaptive Planning,",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-world-of-finance-2020-10-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-world-of-finance-2020-10-29",
+      "webUrl": "https://www.marketwatch.com/press-release/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-world-of-finance-2020-10-29-9184059",
+      "originalUrl": "https://www.marketwatch.com/press-release/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-world-of-finance-2020-10-29-9184059",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
