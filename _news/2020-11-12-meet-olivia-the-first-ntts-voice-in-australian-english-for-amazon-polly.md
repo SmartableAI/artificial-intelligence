@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/meet-olivia-the-firs
 webUrl: "https://aws.amazon.com/blogs/machine-learning/meet-olivia-the-first-ntts-voice-in-australian-english-for-amazon-polly/"
 type: article
 quality: 105
-heat: -1
-published: false
+heat: 105
+published: true
 
 provider:
   name: AWS
@@ -28,22 +28,6 @@ images:
     width: 1260
     height: 630
     isCached: true
-
-related:
-  - title: "British Newscaster speaking style now available in Amazon Polly"
-    excerpt: "Amazon Polly turns text into lifelike speech, allowing you to create applications that talk and build entirely new categories of speech-enabled products. We’re thrilled to announce the launch of a brand-new, British Newscaster speaking style voice: Amy. The speaking style mimics a formal and authoritative"
-    publishedDateTime: 2020-11-10T21:02:47Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/british-newscaster-speaking-style-now-available-in-amazon-polly/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 121
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
-        width: 1260
-        height: 630
-        isCached: true
 
 secured: "K76mZErYaMR3MwJoSuyQHgWoSO7DRngAhlnvw4sUTCXV0xUND7EnLyrtVNNmip5x0Gu1xdbEwrxHeoEBBuSb0Xpr3wJ89z7YzFzaL0gCfsXTvhEfd8jWdDmnYf9YkZ1s9E66H90siTgHfDilDF9li3T5qAZmxdcBKEl7at9cz89ukyKLxy/Ng+sSP0yX/LK1Hj35jydNGY6iVERIUi+LKkeU+KrO9lSUDvVZ1oZ7ZOYuVvpoPmwcynFycjMW8rGKp/Ix6cuACqVEvjYFom71RosPjEqLZva0KCdA6hA54gqW7AEXpYpDKI1ePkCKoo91jYZ3OGCgBNZeBrwAUToK5l5PX5IfQpBVyLhsH6rdtyw=;NAxHlgndUAmqol7vYDScVw=="
 ---

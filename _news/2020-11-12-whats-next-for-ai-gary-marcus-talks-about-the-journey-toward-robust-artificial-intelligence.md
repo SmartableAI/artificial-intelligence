@@ -3,10 +3,10 @@ category: news
 title: "What's next for AI: Gary Marcus talks about the journey toward robust artificial intelligence"
 excerpt: "Gary Marcus is one of the more prominent, and controversial, figures in AI. Going beyond his critique on Deep Learning, which is what many people know him for, Marcus puts forward a well-rounded propo"
 publishedDateTime: 2020-11-12T07:05:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/"
-webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/"
+originalUrl: "https://www.zdnet.com/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/"
+webUrl: "https://www.zdnet.com/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/"
 type: article
 quality: 93
 heat: 93
@@ -30,6 +30,6 @@ images:
     height: 392
     isCached: true
 
-secured: "1bU+xv/8py5vUN4mYEcfh14we+t0mX2/BkhBbc+7qvEaRjDGFFvk0La37KEaesU1Ha8jaV7vfDgmCZXkKZqxGH1zYb/mZfPq6lhLVxHFhXXdP5/PUz9pnHjDGzEW6qRT+Td+XpGkw5Qzi0LBBSds5qEBJqOjcDvyX3vEb2QXvb18kB7RqZpgaiqFRMm1AXvs8sdD/QAzGmQjWVIrbvBGokD+hSLPADqPJpD8I/CBABrcxyi1KrqiaRinPtaHeuZs0cgTUx6lpBCeMZIfDfwF/vbkgXTvKRf7WVuqgdfYiyqfnHom9ujjPFwu314zxt6/iEb0dCOxp10WRAl5USsn7xx2fP1b3jzX47uIeoKpUWM=;dAymkcoTfQpyB2KM9g2TbQ=="
+secured: "HjBWVy0zp7CQUU54mWb4l9zz7itgoUEmU+UAzWIkgNFD3z3eUq55YQJZTUQSSor+n6WCcA9v5O3HemFtatHUcWx0bzIVF8mQKM7bKkck9LzsSYCcA4XOVqCqtqSinf0ABGh3mkDhhZfONWMXdM9ExQ0d7f29FmfrqOm/GK4YHHua6DIIz2kdaGpy3O9rnbRm7SD+OxcNB6e5L5sHx1iP6+tdhLme71kBdAvlleqciJkcKlD3yOKfZ9KAISTnURcALYh3Wta4qLBSrkAAqadXxfeZwe2AEgkVK3/DJhawWY2LSUDKiwoutWkKl+BGekDADdriTXDx3OIy1AQ10AVY5WIRsNzYMZ8B9zsXpMS4kZc=;56ekEry5BJj90Bfoljq45w=="
 ---
 

@@ -26,22 +26,6 @@ images:
     height: 924
     isCached: true
 
-related:
-  - title: "Supporting Minimalism, Josh.ai Announces Nano and Core"
-    excerpt: "Taking a new approach to bringing advanced voice control into the home, Josh.ai has introduced its Nano architectural microphone and Core."
-    publishedDateTime: 2020-11-10T19:52:00Z
-    webUrl: "https://www.cepro.com/control/supporting-minimalismjosh-ai-announces-nano-and-core/"
-    type: article
-    provider:
-      name: CE Pro
-      domain: cepro.com
-    quality: 37
-    images:
-      - url: "https://www.cepro.com/wp-content/uploads/2020/11/Josh-Product-Family-2020-edit.jpg"
-        width: 500
-        height: 300
-        isCached: true
-
 secured: "3st6T/vjwKpXGCmKKm3FipkoBilolM2K5WLL5PIF9o19BiBjH/L632NJHUqNf84I8ODS9TsjeTYiQgtyKWUR3mXVXiKDtRqc9DCMC0xTPjCfItogv14JGWjmmrLnsSdxRRJ2QBs2ZPXxuaZPFF5zs1vP/CmyJCUvRbZHoI7g7ImqegN/ZWDxmnZ3Pe5upm/Ik51LWvgOxwXBq1/dK2Xh3+P62/VoCOfXTHtTB2bjcLOEGN7/qOFuNtZneLnYCju3DJtW1ACwXzmiQFqWrvnqY2hMUERHvyuC1lzP1uSTJ2H9UCis/omSom7VtzeZTPvwTS2X/78EOQS9G4yZ3b9ZjrclDBC0hrqpmjs+oha3+7LcMK11sB4CWK4Hdg32Uu+nmyCUFefFC5aSsl1pJ2unG0vzrsJkFKFUTv0RldyqEOPK5X1q0jjLaY524e047/9HqGeE58y8wLqHkeI+dnU11iVIxhvbD7YaQVAWq9i0pAC6J+c5cMZLZTWJyKOUOalO5oyTiakRTy+hbrR3D+2mzQ==;wYBqZ+a2AC+Vmb1RcaodYQ=="
 ---
 

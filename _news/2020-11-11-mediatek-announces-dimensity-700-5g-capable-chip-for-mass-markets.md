@@ -9,8 +9,8 @@ ampWebUrl: "https://www.themobileindian.com/news/lite/mediatek-announces-dimensi
 cdnAmpWebUrl: "https://www-themobileindian-com.cdn.ampproject.org/c/s/www.themobileindian.com/news/lite/mediatek-announces-dimensity-700-5g-capable-chip-for-mass-markets-33914"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Mobile
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "MediaTek’s new chips: MT8192 & MT8195 for Chromebook chips, Dimensity 700 for 5G smartphones"
-    excerpt: "Taiwanese chip maker MediaTek has unveiled three new ARM-based processors aimed at mobile devices. The new MediaTek MT8195 is a 6nm chip designed for premium Chromebooks, while the MT8192 is a less powerful 7nm chip aimed at mainstream Chrome OS devices."
-    publishedDateTime: 2020-11-10T20:32:00Z
-    webUrl: "https://liliputing.com/2020/11/mediateks-new-chips-mt8192-mt8195-for-chromebook-chips-dimensity-700-for-5g-smartphones.html"
-    ampWebUrl: "https://liliputing.com/2020/11/mediateks-new-chips-mt8192-mt8195-for-chromebook-chips-dimensity-700-for-5g-smartphones.html?amp"
-    cdnAmpWebUrl: "https://liliputing-com.cdn.ampproject.org/c/s/liliputing.com/2020/11/mediateks-new-chips-mt8192-mt8195-for-chromebook-chips-dimensity-700-for-5g-smartphones.html?amp"
-    type: article
-    provider:
-      name: Liliputing
-      domain: liliputing.com
-    quality: 48
-    images:
-      - url: "https://liliputing.com/wp-content/uploads/2020/11/dimensity-700.jpg"
-        width: 541
-        height: 658
-        isCached: true
   - title: "MediaTek announces new Chromebook chips"
     excerpt: "MediaTek has unveiled its MT8192 and MT8195 chipsets for the next generation of Chromebooks, with the 7nm MT8192 for mainstream devices and the 6nm MT8195 for premium models."
     publishedDateTime: 2020-11-11T06:48:00Z

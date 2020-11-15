@@ -1,12 +1,12 @@
 ---
 category: news
 title: "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker"
-excerpt: "Amazon SageMaker is a fully managed service from Amazon Web Services (AWS) that provides every developer and data scientist with the ability to build, train, and deploy ML models quickly."
-publishedDateTime: 2020-11-12T00:36:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683"
-webUrl: "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683"
+excerpt: "Delivering fast and reliable machine learning business solutionsJERSEY CITY, N.J., Nov. 11, 2020 /CNW/ -- ElectrifAi, one of the global leading"
+publishedDateTime: 2020-11-11T18:57:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791744"
+webUrl: "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791744"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791744"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791744"
 type: article
 quality: 103
 heat: 123
@@ -21,10 +21,10 @@ provider:
       height: 50
 
 topics:
-  - AWS AI
+  - AI in Finance
   - AI
   - Machine Learning
-  - AI in Finance
+  - AWS AI
 
 related:
   - title: "Configuring Amazon SageMaker Studio for teams and groups with complete resource isolation"
@@ -56,6 +56,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "qEl68KH7F2vau5l01belS1ob6mqSq82LiOcycOAJDWd0Wxm/zsCDPlcMqPGzqi7y3DJM+cmnR6kytKHCwztL9r63r/hBA6HknG/IT/PZDTBzubS59jRuGm1tMHvJcm/jxZ2xglGtzmb57fktSfAmjy8RpBCzL5V5yJp1FpVWXeG0/IzRoZb2s1AANO5YAUPvZhQRFcp9Mlun5AzhjyJH4ha9YhByP6yHhzDulwFwENX9eG5m/AW17UJM4PnyH6WWFORLiKeJqtsV4YSjSBSCdt6PF5qD5iM93gynu3PdUP/HXWmWinkL0PKY5dacE47nY+Rwx0WrxhTKY6ZE+DMVpw2lNAisqU7jyvHDaZx6VgM=;BIDv88Svc6xVQhHAWXRyvg=="
+secured: "DP0kgyBPnnzPszGASzGDFkRkMyEoOSfw+I+Pe4ofW/4VdhUsODgjqliYJNvZ6HjZcEVPGSXFcWRtB4++HV/hTJK/JpiTO9QCE7YDG3Pp0PrTKbTSIdpDV/IiNpSnEU4zMM8pYdlyQxnAoeBq9D60jScf1iSiNnWLZhVlp15uv4GIgTy0tXUbrcX6s+PGkMZ9PktTxyrK+MY31M6OpFoluMmgsVN1YE1gDGxcIQ8UJM+3IiVRSazaESnuCOZz9TOL/xQc/S0ij/d895+qH6nXBALO3WFubbOlXSIalYb97AGqUOv2fAE94DDBYtp6hx22nal0Hz946Ny+w/yVOwSAbUWZhGewMb0dApPtyfHSWrw=;dMXeccusZtWPk3abgMDoVQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.israel21c.org/new-solution-for-people-with-both-hearin
 webUrl: "https://www.israel21c.org/new-solution-for-people-with-both-hearing-and-vision-loss/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1600
     height: 901
     isCached: true
-
-related:
-  - title: "Combining Robots and Vision"
-    excerpt: "Omron Automation’s 3D cameras and artificial intelligence-driven vision are designed for precise picking of objects with varying weights, shapes, and orientations."
-    publishedDateTime: 2020-11-10T20:03:00Z
-    webUrl: "https://www.automationworld.com/PEC-2020/article/21202267/combining-robots-and-vision"
-    type: article
-    provider:
-      name: Automation World
-      domain: automationworld.com
-    quality: 39
-    images:
-      - url: "https://img.automationworld.com/files/base/pmmi/all/image/2020/11/Screen_Shot_2020_11_10_at_2.13.18_PM.5faae9a8d8059.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 676
-        isCached: true
 
 secured: "DbxMHkTQ238BBbESWswHmcGI5iCAoES+29So/kHLEwlcfADq4L9QjvYJKMNU60k7ZAKlpApj58zrh3Jihe2n6jxs0297NNpON4FzphqFwwWV+Pt6jcIj03Z2+rJqb5EbOiIWlYyu4MoZ9HRdqGYoEHVaHPIN/c/i9YJpj3loxSTsxHUTdXVQ4qORjot+trmtB3lDcak2vKXR1QkYcWzYCqccP9+WD8PlTK/VO8m2rlJcs0Gr4AiQf8Ry95tsW8zia61r/SAsF9V0bi+p0D/rxrqs2uChgC0pNL11YuDZZe5Zh2AQcYeNueKO4WpfAIfr7azc7olZNnfXlOjd61VeeC6iz7IEQZA+V1Ll0UWi49g=;fuK9AMmIeFhYTZYCVnlM7g=="
 ---

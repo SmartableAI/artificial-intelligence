@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Innovative machine-learning approach for future diagnostic advances in Parkinson's disease"
-excerpt: "Researchers have adopted a holistic machine-learning approach to elucidate how the interactions between neuronal mitochondria can serve as a powerful tool to distinguish nerve cells from Parkinson's patients from those belonging to healthy subjects,"
-publishedDateTime: 2020-11-13T02:24:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2020/11/201112113113.htm"
-webUrl: "https://www.sciencedaily.com/releases/2020/11/201112113113.htm"
+excerpt: "In a new study led by the Immune Systems Biology research group of the LIH Department of Infection and Immunity, researchers adopted a holistic machine-learning approach to elucidate how the interactions between neuronal mitochondria can serve as a powerful tool to distinguish nerve cells from Parkinson's patients from those belonging to healthy subjects,"
+publishedDateTime: 2020-11-12T16:06:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-11/lioh-ima111220.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-11/lioh-ima111220.php"
 type: article
-quality: 24
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://www.eurekalert.org/multimedia/pub/web/248637_web.jpg"
+    width: 1440
+    height: 810
+    isCached: true
 
 related:
   - title: "Machine-learning based analysis of mitochondria interaction networks to advance Parkinson’s diagnosis"
@@ -40,6 +42,6 @@ related:
         height: 480
         isCached: true
 
-secured: "rT/pybCKAOCuiaIALvdllth0KJb8aa2G3IXygc/fiMUg2OEfCfCayAqZSESlLGp4zgGcOJdlvEQ7qIPB8RkSWtRsqLkkZa9Bl6CfQnJP+R5egNmmcooGzlFk3s+QHjZf5hih0wWckxM0tcx5hxwUTppoGSAsxm1UK041RMRLExF0PA2Ei4p+8QvJUXqXmtkaihw8U9oaC3bhIqp0VMNjCph2dBwmXUSHa64eZ5UxJCqrjB3f8hWBu2lNAK6SqakO3xEy4Ez0f6pR9aR8/bvh3n3t6oPf469IMf1n+ezwh6LliuC6tUrO9mpBKor9Drmiq+C6Z1qOOGOjUUXlz6XgS0dWqFTrc/mnXaJI9cnBN2k=;ggBhj0FOygoH68xXNfJfuA=="
+secured: "6ZQI5ndbBDxItpOsPeKRA6zXzXXkb9mnp36IB2h70Ls1xQYzFeLmLVJ7HHRIkcdWhSyD7ZLR2BTfCTUXUGFLoext6Fk8T9rZNwlGErW/VLSoN26Cs1BJz4q2Sgqls62nXJekQR5lr00H6gRyiIpkb8Jv9g1EmeQg3++2sIEvJ15aL6QyoTo9fA0jsRRIQOJHUArd66NODNkHlYRryzjCWMJGC6fDIzLK4jrlXYzbC+2kENl1R64rt49wlDH/zopKM2x3Sx+2noRmpyFcQeNQy9T4dQsWpDz2C9puZLC+3Z4FESUB155kzQFkKDQL0lVuQqXAb8FqEHnRa5julxYFcB+K+vJCGngrCYc+pCo7cB4=;QRV9H8/D4N7T4I4L2suWnw=="
 ---
 

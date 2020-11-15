@@ -54,22 +54,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Developing machine learning models to predict critical illness and mortality in COVID-19 patients"
-    excerpt: "Mount Sinai researchers have developed machine learning models that predict the likelihood of critical events and mortality in COVID-19 patients within clinically relevant time windows. The new models outlined in the study—one of the first to use machine learning for risk prediction in COVID-19 patients among a large and diverse population,"
-    publishedDateTime: 2020-11-10T21:00:00Z
-    webUrl: "https://medicalxpress.com/news/2020-11-machine-critical-illness-mortality-covid-.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-11-machine-critical-illness-mortality-covid-.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-machine-critical-illness-mortality-covid-.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 46
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/48-covid19.jpg"
-        width: 1920
-        height: 1032
-        isCached: true
   - title: "Machine learning models to predict critical illness and mortality in COVID-19 patients"
     excerpt: "Researchers have developed machine learning models that predict the likelihood of critical events and mortality in COVID-19 patients within clinically relevant time windows."
     publishedDateTime: 2020-11-13T22:38:00Z
@@ -79,20 +63,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 41
-  - title: "A look at promising COVID-19 treatments"
-    excerpt: "More than 100 treatments to save those infected with the new coronavirus are now being tested or researched, and several experimental therapies have been expedited into clinical trials. Among the latest: the Food and Drug Administration this week granted emergency use authorization for Eli Lilly’s monoclonal antibody treatment,"
-    publishedDateTime: 2020-11-10T20:03:00Z
-    webUrl: "https://www.ajc.com/news/a-look-at-promising-covid-19-treatments/HUZEHP65MNEHBLQPLGIKYX7DWQ/"
-    type: article
-    provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 24
-    images:
-      - url: "https://www.ajc.com/resizer/ST2fUTz4j_ThirIKikD51QMXzUA=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/CJSNPHCYTKJ3ZU3DBTQWJVU4NE.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Students searching for internships during the COVID pandemic must be prepared for AI-driven interviews"
     excerpt: "We believe that every college and university student and recent graduate deserves a great part-time, seasonal, internship, and entry-level job!"
     publishedDateTime: 2020-11-12T21:50:00Z

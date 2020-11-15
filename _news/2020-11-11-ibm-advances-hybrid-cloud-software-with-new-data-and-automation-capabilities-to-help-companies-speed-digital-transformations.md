@@ -1,27 +1,27 @@
 ---
 category: news
 title: "IBM Advances Hybrid Cloud Software with New Data and Automation Capabilities to Help Companies Speed Digital Transformations"
-excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
-publishedDateTime: 2020-11-11T02:11:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20201110ny86053/ibm-advances-hybrid-cloud-software-with-new-data-and-automation-capabilities-to-help-companies-speed-digital-transformations"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20201110ny86053/ibm-advances-hybrid-cloud-software-with-new-data-and-automation-capabilities-to-help-companies-speed-digital-transformations"
+excerpt: "In addition, Cloud Pak offerings integrate with IBM Watson, enabling clients to infuse AI into their systems to predict and analyze future outcomes, automate complex processes, optimize employees ..."
+publishedDateTime: 2020-11-10T21:23:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ibm-advances-hybrid-cloud-software-with-new-data-and-automation-capabilities-to-help-companies-speed-digital-transformations-301169589.html"
+webUrl: "https://www.prnewswire.com/news-releases/ibm-advances-hybrid-cloud-software-with-new-data-and-automation-capabilities-to-help-companies-speed-digital-transformations-301169589.html"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-    width: 400
-    height: 209
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+    width: 2698
+    height: 1414
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 800
         isCached: true
 
-secured: "L/RZWL96dERg4nVV1FSv2q/VbNHuY2ZUl/JMPcW+V0jWZhwQhA4Bs2bP0R4CdvA4omm3waZuChulu1fCjNIltp1Pr+plMCulK17r1+uHVrVyk0feAmF240Dzz0frhDcTjXlq9XeIaPA2JoomD+G4RXg7MDqkbpINWWBFHnykcmgAbuSsckij7ItabbPYImoiTi2OeqdlFWYhCmfgKd2qLaG8A90U541upInmQsic6eaUmO9NSwF2OPTE58CFzQvfcziB8XW5+dtCSmXTeMDIBGXW5bWo4ef3ermme4rqwJxU5vTiNfp/BMbZLhx24DJnBhquWYsrXldIBmjbQWJcoHwsPbg0e52AP2oBsAqKe4g=;l/8UYAjMfQ5GV1KBd25Fyg=="
+secured: "y62qqWB1eSL9GN4Kwn3gpx0O9GxO12KMilN8Q1IIqoCXEDR3LFV0Qqd+24pc+KpzZskLZ1GoL6JRd4S/Z2ioBy5H2jQTnZosNvWnXzFCXLkNynbR6i80wwC7K3rhJ3cjYTLPhlWKuf4roYrx8nf1UQTwLZ3OsmSECEuK0mtuAlYpWGMoKIIYnAxjvnr9Ss4qoR0Ebrp4fh3MegZy69LyrioNANk/YDo3eg+UQk1lGxvD1B1t25ZqqBiOH8D6vG9RDpXs/hNgUt28BmML+BP5Oew5Lk1VzhBf6+yS7NMh6yVHiD9DjdCYEZER/GtKa/NjlleUJ0I90hW0kFD2s/Anp1YLsuIHcxkMP+p7KzRQhpE=;PzGXDrPfxb4WqWQeDxVvxA=="
 ---
 

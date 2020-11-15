@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/video-analytics-isr-and-
 webUrl: "https://www.marketwatch.com/press-release/video-analytics-isr-and-intelligent-video-surveillance-americas-market-booming-by-size-revenue-and-trend-in-2020-scrutinized-in-new-research-2020-11-12"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -27,38 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "How AI And Video Analytics Can Revolutionize Utilities’ Security"
-    excerpt: "What keeps CIOs up at night is the thought of how a physical and cyber-attack on any remote location could cripple and perhaps force a Utility to shut down to recover."
-    publishedDateTime: 2020-11-10T20:32:00Z
-    webUrl: "https://www.forbes.com/sites/louiscolumbus/2020/11/10/how-ai-and-video-analytics-can-revolutionize-utilities-security/"
-    ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/11/10/how-ai-and-video-analytics-can-revolutionize-utilities-security/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/11/10/how-ai-and-video-analytics-can-revolutionize-utilities-security/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faaf5fade18ffd893e954be%2F0x0.jpg"
-        width: 1200
-        height: 668
-        isCached: true
-  - title: "Advantech Launches AIR Edge AI Inference Systems for AI and Vision Analytics Applications"
-    excerpt: "Advantech launched their AIR series of AI inference systems, to address AI applications including retail facial recognition, AOI/vision inspection, robotic, intelligent transportation, and more."
-    publishedDateTime: 2020-11-12T17:27:00Z
-    webUrl: "https://www.embedded-computing.com/news/advantech-launches-its-comprehensive-air-edge-ai-inference-systems-for-ai-and-vision-analytics-applications"
-    type: article
-    provider:
-      name: Embedded Computing Design
-      domain: embedded-computing.com
-    quality: 30
-    images:
-      - url: "https://content.cdntwrk.com/files/aHViPTYzODY3JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVmYWQ2YjU4YTk1NWEucG5nJnZlcnNpb249MDAwMCZzaWc9N2MxMDc2OGNhZWU4ZWJjNjBiODQzYzRiZDY1YWZhODQ%253D"
-        width: 500
-        height: 272
-        isCached: true
 
 secured: "Ivtq8btx6H4QHVk8Jcu0g9O41K3xTB06JF7jIgdD+ZJKA1V65A8m1ZlwYMY56FnGrE8LsNRgfCbD/DHiMmFUsMhqFTUaagiF1HbW/b7VGRGTrHGHwt/4UZBh7K9SLDbgdDEZPJ9O96YPBpy8h3iA0HYr/tjfO1qcsbcn4WxlsEkj25c5tvvDG41pOVkAisFUVOr8GwyVjAP99+KUCuLQewsllSEHyDZMYYvbSE1hhWQ9cVkvTLVu8Vle2dSa/qweRnO+G4MbKyYOY/vcPv4rYocfs0voZiUcagsuxHVmL7D5G1YfZg6erHTXlGWZp8yCmeduVkVXTM/jtR7a6EwP0nzvZSfiP8McTi+JJVoM/60=;f9p06QPoOl734nS5OVK/jQ=="
 ---
