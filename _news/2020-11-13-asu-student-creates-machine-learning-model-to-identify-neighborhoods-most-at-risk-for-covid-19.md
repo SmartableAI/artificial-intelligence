@@ -41,22 +41,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Machine learning models predict critical events and mortality rate in COVID-19 patients"
-    excerpt: "Mount Sinai researchers have developed machine learning models that predict the likelihood of critical events and mortality in COVID-19 patients within clinically relevant time windows."
-    publishedDateTime: 2020-11-11T06:14:00Z
-    webUrl: "https://www.news-medical.net/news/20201111/Machine-learning-models-predict-critical-events-and-mortality-rate-in-COVID-19-patients.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20201111/Machine-learning-models-predict-critical-events-and-mortality-rate-in-COVID-19-patients.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201111/Machine-learning-models-predict-critical-events-and-mortality-rate-in-COVID-19-patients.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 51
-    images:
-      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fGenetics-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "29184Gmu8o3ZcCLpmRMq3kQBMMdJYM9o10nwNpi/0F43UyYhINzPVICeQn/caSVm9cU6erW8Jccl5U6FSpsHpfMu86ijl0LOGC2po5+YbLZm1m9h8CZLz4PPgKminvEe/3Z2kiy/2Z1t+VPW1WQ4O/QwIbXoWcyyHPYPPFvtT8xx83sWe5kK3mCSgq7SJlsMRotPfk/NCCiMP9KnVsJ7PrQOLrRujM57KrDMYDe37GxxIHfw8rMf9HhY3tNsbGTx2pWtEd5oYsK/LwZLli1vFtcUG+7iMkN46ruEAVlRgmRrVm0ZwkyolQYYvlm8GjP3WiW/8WHsWJNe6SOP5MAZ+Hx01MwU/iFiQwV5Uem7sW8=;LgditbB3NEDYbni1umM6Vg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://urbanmilwaukee.com/pressrelease/veterans-day-offers-a-time
 webUrl: "https://urbanmilwaukee.com/pressrelease/veterans-day-offers-a-time-for-recognition-and-gratitude/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1000
     height: 667
     isCached: true
-
-related:
-  - title: "Veterans Day events, recognition in the Treasure Valley"
-    excerpt: "A Veterans Day Ceremony is planned for 11 a.m. today at the Rock of Honor Veterans Memorial, 1900 N. Records Ave. The 20-minute ceremony is bein"
-    publishedDateTime: 2020-11-11T06:15:00Z
-    webUrl: "https://www.idahopress.com/news/local/veterans-day-events-recognition-in-the-treasure-valley/article_11edcd81-77a3-59b5-b2f3-34c97f001628.html"
-    type: article
-    provider:
-      name: Idaho Press
-      domain: idahopress.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/idahopress.com/content/tncms/custom/image/67282402-69e7-11e8-9996-338311db9f0e.png"
-        width: 1080
-        height: 564
-        isCached: true
 
 secured: "A5q3T5DDhDzIuLhCilQh0pHGVwVh/WjfpHCSl1Zwp5wdcMbeAEN3taK+EQ2/gzAXONJJCTHArIBEJ5KSLAtwyXMTyjp8qu624esisQXh/yGZl6fpZikExQEi2vxhFU6ynA+/fnJhZlxIv67pQL9YyYH5rhXgeui6H5GKLC+NbV/sDT9wDFMuPKMKD7qbdkhHPREYmH1D6GKlTQJHY4Jnua5XftDt0qVtrpedLbuSOYiuY0O0EOS6++bfK5D1XMLyrLR4fguKJekG1zA8mGweqrlkgQHVc4fz73di12Zynw4aDpHb1GsdeuEYAvoQJ+fMoi3/FZqXv9VyE2+n1X1/hP+AcwTDZraoojj0lZwmlMM=;HtM75/bRIWtAjg0bp/H03g=="
 ---

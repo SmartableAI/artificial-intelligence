@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Market Booming By Size, Revenue And Trend In 2020 Scrutinized In New Research"
-    excerpt: "The Global Speech and Voice Recognition Market was valued at USD 5.21 billion in 2016 and is projected to reach USD 26.15 billion by 2025, growing at a CAGR of 19.63% from 2017 to 2025. Voice and Speech Recognition is the ability of a machine or program that can identify,"
-    publishedDateTime: 2020-11-11T06:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-booming-by-size-revenue-and-trend-in-2020-scrutinized-in-new-research-2020-11-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "QrsUUUeyz2mN3a0VOfIV03FpzP3mlkdJGbGZfyDw5SuhYG98oUCN/q1HZmgX7shpBuAx/wymmjV5wRrzwxArFVok4gObih+gNA5xJvIyDMhjltni1yTkAJvZPB96t59H5Hv+3UjDqm6rOPq2VOy42pa22nGHyphOKx5bJVYQTcYOYNmhvVC3j5bKGzf92q+RGGG7W6q2uE/eJzIMNG+W/lSwClkxXxvQcAQqQCTuEf0fo6aMqNmJ2/4FKUanA398Sgh26Hwmk+uhs5/DhaI57hZEnNBOAzb0vZ7ZyMOH3IrcQ1ZeTOOy7WR7AqaCPfmHMYvp7+46scyFZFz5vtOKeu3BIMt7aRajg+MjOaFnus8=;TqXu+1tdWOh1V7lIkrXUog=="
 ---

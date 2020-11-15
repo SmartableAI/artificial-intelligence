@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20201111/Machine-learning-mode
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201111/Machine-learning-models-predict-critical-events-and-mortality-rate-in-COVID-19-patients.aspx"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: News Medical
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning models predict critical events and mortality rate in COVID-19 patients"
-    excerpt: "Mount Sinai researchers have developed machine learning models that predict the likelihood of critical events and mortality in COVID-19 patients within clinically relevant time windows."
-    publishedDateTime: 2020-11-11T06:14:00Z
-    webUrl: "https://www.news-medical.net/news/20201111/Machine-learning-models-predict-critical-events-and-mortality-rate-in-COVID-19-patients.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20201111/Machine-learning-models-predict-critical-events-and-mortality-rate-in-COVID-19-patients.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201111/Machine-learning-models-predict-critical-events-and-mortality-rate-in-COVID-19-patients.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 51
-    images:
-      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fGenetics-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "ASU student creates machine-learning model to identify neighborhoods most at risk for COVID-19"
     excerpt: "New research led by Avipsa Roy, a graduate student in ASU's School of Geographical Sciences and Urban Planning, uses machine learning to identify the most at-risk populations for COVID-19, down to the census block group level in Los Angeles."
     publishedDateTime: 2020-11-12T22:14:00Z

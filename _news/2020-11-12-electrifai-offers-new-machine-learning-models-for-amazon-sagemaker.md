@@ -8,8 +8,8 @@ webUrl: "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-m
 ampWebUrl: "https://markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683"
 type: article
-quality: 101
-heat: 111
+quality: 103
+heat: 113
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AWS AI
   - AI
   - Machine Learning
+  - AI in Finance
 
 related:
   - title: "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker"
