@@ -2,11 +2,11 @@
 category: news
 title: "3D-printed hearts, self-driving buses, and robots"
 excerpt: "Technologies that were still largely in development or limited rollout a year ago are now becoming commonplace, including self-driving cleaning robots and automation in areas like fast food and delivery."
-publishedDateTime: 2020-11-03T12:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/3d-printed-hearts-self-driving-buses-and-robots/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/3d-printed-hearts-self-driving-buses-and-robots/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/3d-printed-hearts-self-driving-buses-and-robots/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/3d-printed-hearts-self-driving-buses-and-robots/"
+publishedDateTime: 2020-11-03T04:00:00Z
+originalUrl: "https://www.zdnet.com/article/3d-printed-hearts-self-driving-buses-and-robots/"
+webUrl: "https://www.zdnet.com/article/3d-printed-hearts-self-driving-buses-and-robots/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/3d-printed-hearts-self-driving-buses-and-robots/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/3d-printed-hearts-self-driving-buses-and-robots/"
 type: article
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 675
     isCached: true
 
-secured: "0EXNH7BiS0Iygx0STYhxaa0puhhR3XLjAtrurjCoLLo39uS0lop6G/XATqC3OAj+jvVegoMnILwn47cG3gLxsErSt5lSZGAyGsKWJTChs/1UyZOi7wIRcIyJmI4j2+j22perosj6cr6aMpcWjR0vtz5OeOvGqnKIDh66yDeLrAheeoSW6P3K2TTR38fAAph3ZcYnzWw2mn/o57i0qUSLLL+md4R7fik0Nexv5isosg4+dnlHk3Uujxpq4mwftOdjUdxcHj3U7ZvIrbBp8Wf8Qap1wRFZctqkIHvcwx+vTe7P3IUrPI2lkvlgUUgidHLlvFN6VP0Z+bCKAni0cHyYiEpVFyDGsAJbHKbmqWUFJjw=;qVdyEGDQ/wxP09mEwNycEQ=="
+secured: "0PoiVjQohlJJD+gXYiOrvTA7uWPsvmoVHd3mDZXezAGEm6GTzV/EJG7dMXbHvtzrZCEj2Vi9CVt9bP107y6n8ydqbbGaKpHM71b0GQviDrJrG3TsdKO84kEmsgSJCXgRGJlgxR4WeQEyFSsaONMDAgXYJ4Z3EP3VbMuvF6XULQEGKqiUb/yG6ldhKBhc+2YSA5ngT4YljY/4Af7vWxq7wubl0d+HR9D1kGGT/FXttCa/cHVOskntLTCu3JJzdIhNAPDhdhUKyKW6AgpbVyUDbRWfs58faoD9CMYIznDXsZImT+WUzbyo9t1nfGYZGftWHruHGg7cy7+aZlD5sOlBDs1aII2ZA8kj/QfJvWqgwLY=;I8tdtLJFIR5Hmny9uKfwig=="
 ---
 

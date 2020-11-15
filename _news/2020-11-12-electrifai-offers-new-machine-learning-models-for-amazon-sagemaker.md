@@ -1,15 +1,15 @@
 ---
 category: news
 title: "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker"
-excerpt: "Delivering fast and reliable machine learning business solutionsJERSEY CITY, N.J., Nov. 11, 2020 /CNW/ -- ElectrifAi, one of the global leading"
-publishedDateTime: 2020-11-11T18:57:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791744"
-webUrl: "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791744"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791744"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791744"
+excerpt: "Amazon SageMaker is a fully managed service from Amazon Web Services (AWS) that provides every developer and data scientist with the ability to build, train, and deploy ML models quickly."
+publishedDateTime: 2020-11-12T00:36:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683"
+webUrl: "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683"
 type: article
-quality: 103
-heat: 123
+quality: 101
+heat: 121
 published: true
 
 provider:
@@ -21,10 +21,9 @@ provider:
       height: 50
 
 topics:
-  - AI in Finance
+  - AWS AI
   - AI
   - Machine Learning
-  - AWS AI
 
 related:
   - title: "Configuring Amazon SageMaker Studio for teams and groups with complete resource isolation"
@@ -56,6 +55,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "DP0kgyBPnnzPszGASzGDFkRkMyEoOSfw+I+Pe4ofW/4VdhUsODgjqliYJNvZ6HjZcEVPGSXFcWRtB4++HV/hTJK/JpiTO9QCE7YDG3Pp0PrTKbTSIdpDV/IiNpSnEU4zMM8pYdlyQxnAoeBq9D60jScf1iSiNnWLZhVlp15uv4GIgTy0tXUbrcX6s+PGkMZ9PktTxyrK+MY31M6OpFoluMmgsVN1YE1gDGxcIQ8UJM+3IiVRSazaESnuCOZz9TOL/xQc/S0ij/d895+qH6nXBALO3WFubbOlXSIalYb97AGqUOv2fAE94DDBYtp6hx22nal0Hz946Ny+w/yVOwSAbUWZhGewMb0dApPtyfHSWrw=;dMXeccusZtWPk3abgMDoVQ=="
+secured: "A4gTd5lYdZK7NHUFCuJl7C1DEGTsSrPrsgFiUKvSUaIbmcQiaZtMCbssFvfAEVAD+yCvzdiUUxsF4G/1jEZ+0nsw7nZ3W0aQnl9epdZhcG0/yzgmN6FcMwmF/9W33nfIbX0lsI/RCNyN/BFoYiKoVolRzAlnLi1V6EJc0bR49mRsPBE68RGoQ9NWJXfRXX9Ot07YvIKSbDPeEYzdZQHlUH6VVsuFdIl/eWmIUCNrhFEaC6po0GFmSvqjc/mZC6+8v+C7mBKSDdDu0kliRr5BanEX4mLl+fgHGkXlxDYd8OowV9/ukdd2U8A5A5JKk3QYkluCnxUpCuKp9MLhkVyVLjqfQQnCwztmYaD4RPlaWgs=;Dyn4CBJhZnwGKfpHk0+dQQ=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financemagnates.com/fintech/news/christian-frahms-united
 cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/christian-frahms-united-fintech-to-ease-banks-digitization/amp/"
 type: article
 quality: 59
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: Finance Magnates
@@ -27,33 +27,36 @@ images:
     isCached: true
 
 related:
-  - title: "If You Are Interested, the FDIC is Looking to Hire Fintech Counsel"
-    excerpt: "The Federal Deposit Insurance Corporation (FDIC) is looking to boost its Fintech bench by hiring three individuals to help with legal issues regarding Fintech. According to a post on USAJOBS, responsibilities include: Analyzing and advising on the interpretation of statutes,"
-    publishedDateTime: 2020-11-12T17:36:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/11/169073-if-you-are-interested-the-fdic-is-looking-to-hire-fintech-counsel/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/169073-if-you-are-interested-the-fdic-is-looking-to-hire-fintech-counsel/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/169073-if-you-are-interested-the-fdic-is-looking-to-hire-fintech-counsel/amp/"
+  - title: "UAE based Fintech BankOnUs Introduces AI enhanced Financial and Insurance Services Comparison App"
+    excerpt: "UAE based Fintech firm BankOnUs has introduced an AI enhanced financial and insurance services comparison app."
+    publishedDateTime: 2020-11-11T02:11:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/11/168829-uae-based-fintech-bankonus-introduces-ai-enhanced-financial-and-insurance-services-comparison-app/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/168829-uae-based-fintech-bankonus-introduces-ai-enhanced-financial-and-insurance-services-comparison-app/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/168829-uae-based-fintech-bankonus-introduces-ai-enhanced-financial-and-insurance-services-comparison-app/amp/"
     type: article
     provider:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
-    quality: 44
+    quality: 61
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/The-Washington-Monument-Blue-Sky-Washington-DC-300x225.jpeg"
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/10/Mastercard-Touchless-Payments-iPhone-Wallet-Credit-Card-300x232.jpg"
         width: 300
-        height: 225
+        height: 232
         isCached: true
-  - title: "Bank ABC set to host MEA Fintech Forum"
-    excerpt: "MEA Fintech Forum underlines Bank ABC’s commitment and Bahrain’s vision to becoming a leading fintech hub This website uses cookies to improve your online experience. They were placed on your computer when you launched this website."
-    publishedDateTime: 2020-11-11T09:19:00Z
-    webUrl: "https://www.zawya.com/mena/en/business/story/Bank_ABC_set_to_host_MEA_Fintech_Forum-SNG_189634310/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_189634310/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_189634310/"
+  - title: "SA AI-based fintech startup FinChatBot raises $1.6m to expand into Europe, West Africa"
+    excerpt: "South African startup FinChatBot, a creator of conversational artificial intelligence (AI) solutions for the financial services industry, has raised a US$1.6 million funding round to help it expand into Europe and West Africa."
+    publishedDateTime: 2020-11-12T14:27:00Z
+    webUrl: "https://disrupt-africa.com/2020/11/sa-ai-based-fintech-startup-finchatbot-raises-1-6m-to-expand-into-europe-west-africa/"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 39
+      name: disrupt-africa.com
+      domain: disrupt-africa.com
+    quality: 31
+    images:
+      - url: "https://disrupt-africa.com/wp-content/uploads/2020/11/Members-of-team-FinChatBot-scaled.jpg"
+        width: 2560
+        height: 1673
+        isCached: true
   - title: "Codebase Technologies pushes for FinTech-led innovation with release of its Digibanc Digital Roshan solutions"
     excerpt: "Codebase Technologies has introduced a brand-new digital FinTech offering, Digibanc Digital Roshan, to empower conventional and Islamic banks in Pakistan to manage seamless, consistent, and"
     publishedDateTime: 2020-11-12T08:32:00Z
@@ -69,20 +72,6 @@ related:
       - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/hardware-improvements-physical-security-920.jpg"
         width: 612
         height: 355
-        isCached: true
-  - title: "Fintech Company Smarsh Acquires Digital Reasoning"
-    excerpt: "Smarsh just announced they have acquired Digital Reasoning, a firm we have long tracked in our disruptive technology directory. Digital Reasoning are a leader in making sense of data, including […]"
-    publishedDateTime: 2020-11-11T01:23:00Z
-    webUrl: "https://ctovision.com/fintech-company-smarsh-acquires-digital-reasoning/"
-    type: article
-    provider:
-      name: ctovision.com
-      domain: ctovision.com
-    quality: 24
-    images:
-      - url: "https://ctovision.com/wp-content/uploads/digital-reasoning.jpg"
-        width: 780
-        height: 520
         isCached: true
 
 secured: "LfcBXxcb+dFD61519sbo/B6B7/seWrrV5toBDniIH7JEqjgMCUxAtKyKgr3fRSSvQFqbk585Sk0dysRXfOQ04Wp1q+GqD8p7w45l7DE6KBoT6rvgnuDG4YsFAAkirrROCox9vnQrL2x1vQfCmQRIzhhlxyNfrSzg7PXzS/AXUILM9vNgLMIfj7l3F4md3sPmqXDlBO6zmIGjA7KlYdmBA7ZeZpTkiy5xa9dOhOFkwhns94BbT5aFJrq9CwPnUs+Ue1d4UKUr8Hmr07kEHvEGSlXWu+FlcqHBx8uyQVtd2gs1MKxyb/RUVI4VoVEcNWlI8ooIIFsi4u+NBKzvABsjPB2Yfs9qzejzX9eOh9UEfW98KKOiaTQZz67IX1vq+VnNAyi3Fto/xcgWdcua3KTZxoz/zulq5ptq3aVbfEygNlClLKrA7AlG/O5yx8IvfOzUgVQRzahfxLhLHNTWqp4gUbZqvGLK4XkRqYFiakI4u9ajvHRIDy/kuj6uk4AtfVlAzeret+p+ctSDfxt8C6/ukg==;PgrI99N0mJcH520sMlSo2A=="

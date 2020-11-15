@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-05-these-factory-robots-may-point-the-way-to-5gs-future.md",
+      "title": "These Factory Robots May Point the Way to 5G’s Future",
+      "excerpt": "says adding high-speed wireless links to robots and other equipment allows them to be coordinated and calibrated more precisely, helps predict costly malfunctions and downtime, and allows sophisticated software, including artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/factory-robots-may-point-way-5g-future/",
+      "originalUrl": "https://www.wired.com/story/factory-robots-may-point-way-5g-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fa1fbb2227dbb78ec30daf8/master/pass/business_5g_1003931044.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/factory-robots-may-point-way-5g-future/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/factory-robots-may-point-way-5g-future/amp",
+      "publishedDateTime": "2020-11-04T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-advanced-prosthetic-hands-are-closer-than-ever-to-the-real-thing.md",
+      "title": "Advanced Prosthetic Hands Are Closer Than Ever to the Real Thing",
+      "excerpt": "Image source: Guy Hotson) Earlier this year, researchers in Baltimore demonstrated a mind-controlled prosthetic hand. The robotic hand was wired to an electrode array containing 128 sensors, about the size of a credit card, which was attached to the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/medical/advanced-prosthetic-hands-are-closer-ever-real-thing",
+      "originalUrl": "https://www.designnews.com/medical/advanced-prosthetic-hands-are-closer-ever-real-thing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/HandOnBrain.png",
+          "width": 1318,
+          "height": 712,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-04T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-live-out-your-inner-animist-with-animatronic-cat-ears.md",
       "title": "Live Out Your Inner Animist With Animatronic Cat Ears",
       "excerpt": "While having a great white shark as your spirit animal may sound cool, we’ve found walking around in public wearing a gigantic set of mechanical jaws to be a bit of a hindrance. [abetusk] doesn ...",
@@ -187,8 +282,8 @@
       "title": "Former Google exec’s VC invests $30m into Chinese robotics startup MegaRobo",
       "excerpt": "MegaRobo, a Chinese startup focused on the development of robots and the Internet of Things, announced that it has raised US$30 million in a series B round led by Sinovation Ventures, a VC firm founded by Google China’s former president Kai-Fu Lee.",
       "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/former-google-execs-vc-invests-30m-chinese-robotics-startup-megarobo#!",
-      "originalUrl": "https://www.techinasia.com/former-google-execs-vc-invests-30m-chinese-robotics-startup-megarobo#!",
+      "webUrl": "https://www.techinasia.com/former-google-execs-vc-invests-30m-chinese-robotics-startup-megarobo",
+      "originalUrl": "https://www.techinasia.com/former-google-execs-vc-invests-30m-chinese-robotics-startup-megarobo",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1327,93 +1422,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-7-ai-stocks-to-buy-as-automation-advances.md",
-      "title": "7 AI Stocks to Buy as Automation Advances",
-      "excerpt": "However, Waymo is actually rolling out the self ... In any regard, Trimble has multiple end markets that can be disrupted via artificial intelligence and machine learning. Trimble says, We ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28",
-      "originalUrl": "https://www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28?amp",
-      "publishedDateTime": "2020-10-28T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-the-best-robo-advisors-of-november-2020.md",
-      "title": "The best robo-advisors of November 2020",
-      "excerpt": "Robo-advisors are online financial investment platforms that create and manage an investment portfolio based on your individual needs and financial goals, no human advisor required. You don't need to have a lot of investing know-how.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/personal-finance/best-robo-advisor-of-november-2020/",
-      "originalUrl": "https://www.cnet.com/personal-finance/best-robo-advisor-of-november-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/uShYdwQko5eYPhe2Tt1VvSwpYKI=/1200x630/2020/04/09/c02495f4-cfae-4366-95ba-8ecd3c8b444f/gettyimages-1192218172.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-robo-advisor-of-november-2020/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-robo-advisor-of-november-2020/",
-      "publishedDateTime": "2020-10-28T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

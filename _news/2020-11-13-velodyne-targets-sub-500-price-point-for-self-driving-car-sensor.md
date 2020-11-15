@@ -63,6 +63,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 69
+  - title: "Self-driving shuttle startup raises $500 million in funding"
+    excerpt: "Nuro, a developer of self-driving shuttles, has raised $500 million in funding to help grow the company’s autonomous goods delivery service. The funding included participation from Fidelity Management & Research Company,"
+    publishedDateTime: 2020-11-15T13:37:00Z
+    webUrl: "https://electronics360.globalspec.com/article/15954/self-driving-shuttle-startup-raises-500-million-in-funding"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 19
 
 secured: "AWjwX8HEoW6NiL0kUwiHr5+X7XOF2hYKLwrLpqiS6B9Hxa6diEmQ14uTV0fmGqq7RpfbDpPKWgcnl9yxd7pBMIoaHKRJ1DnqQWC+QJHBPAmY82FAHRwjzM2479f4CBfVWGXfviEqQG3YmkZYe7oOBVL2Fh58lKyxV8AuYK7HpIk71LrD+jKTOd2RCwNIEySgl1KmhYmdvJQZTtqZj+Kt1laALOS3bYv16G24MUSb/BxQJb4sVYkmUcljDOx8rSfOmTG1seWDElxQH0ydNxKefZ2fcCl96SarmfT9NE4VXgi+i5IrKA6bPrslpqNJdpYzfJio6NnqyJbG/QS5IYj0bxbMlaZpFnO8/76vxz8bLNw=;XElFvd0DhAL2lcnYlloGdw=="
 ---

@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Army to evaluate facial recognition in day care centers"
-    excerpt: "Through a demonstration of the technology, the Army expects to learn whether facial recognition technologies can improve family quality of life, reduce base costs and enhance mission readiness."
-    publishedDateTime: 2020-11-10T21:13:00Z
-    webUrl: "https://gcn.com/articles/2020/11/10/facial-recognition-daycare.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 39
-    images:
-      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Workforce/daycare_center.jpg"
-        width: 760
-        height: 368
-        isCached: true
   - title: "Apple Can't Duck Facial Recognition Privacy Class Action"
     excerpt: "An Illinois federal judge on Thursday refused to let Apple Inc. escape a class action alleging that it violates state law through its facial recognition software, finding that the proposed class' allegations that the company illegally collects and stores face scans can proceed."
     publishedDateTime: 2020-11-12T22:19:00Z

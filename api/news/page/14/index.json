@@ -2,6 +2,110 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-11-02-cmos-predict-your-wins-with-ai-and-predictive-analytics.md",
+      "title": "CMOs, Predict Your Wins With AI And Predictive Analytics",
+      "excerpt": "Business intelligence and predictive analytics are the closest measures we have to a crystal ball that shows us how well new strategies and campaigns will perform",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/358890",
+      "originalUrl": "https://www.entrepreneur.com/article/358890",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1604323446-online-3539412.png?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/358890",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/358890",
+      "publishedDateTime": "2020-11-02T05:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-02-c3ai-on-tackling-crm-education-social-media-regulation-and-enterprise-ai.md",
+      "title": "C3.ai on tackling CRM, education, social media regulation, and enterprise AI",
+      "excerpt": "Tom Siebel, CEO of C3.ai, talks to ZDNet's Larry Dignan about his company's partnership with Microsoft and Adobe, AI's role in solving for COVID-19 and remote education, the filter bubble, and where enterprise AI is headed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/c3-ai-on-tackling-crm-education-social-media-regulation-and-enterprise-ai/",
+      "originalUrl": "https://www.zdnet.com/video/c3-ai-on-tackling-crm-education-social-media-regulation-and-enterprise-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/10/26/44ec6ca4-76d9-47a7-bb91-702d043a02f0/thumbnail/370x278/0d446269b82a0f8eb0086f3aa3362247/mastercard-idemia-and-matchmove-to-pilot-5f95f54693eaa218d73998e8-1-oct-26-2020-4-53-52-poster.jpg",
+          "width": 370,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-02T04:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2020-11-02-artificial-intelligence-in-healthcare-is-racist.md",
       "title": "Artificial Intelligence in healthcare is racist",
       "excerpt": "Can broader datasets help developers avoid accidentally perpetuating deep-rooted biases in vital institutions like healthcare and education?",
@@ -1093,108 +1197,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-01-ai-can-detect-covid-19-by-listening-to-your-coughs.md",
-      "title": "AI can detect COVID-19 by listening to your coughs",
-      "excerpt": "Researchers have built an app that can detect COVID-19 through cough recordings, even for people who say they're asymptomatic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/ai-covid-19-cough-detection-from-recordings-213858299.html",
-      "originalUrl": "https://www.engadget.com/ai-covid-19-cough-detection-from-recordings-213858299.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 337,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F8ca8be50-1bbd-11eb-8fff-1478e6a47e60&client=amp-blogside-v2&signature=90ddffc7377b87637e464f94b7376f8ff00e6692",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/ai-covid-19-cough-detection-from-recordings-213858299.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-covid-19-cough-detection-from-recordings-213858299.html",
-      "publishedDateTime": "2020-10-31T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-01-enterprises-ai-cybersecurity-needs-are-rejuvenating-mainframes.md",
-      "title": "Enterprises' AI & Cybersecurity Needs Are Rejuvenating Mainframes",
-      "excerpt": "Most noteworthy about the study's results is how enterprises pursuing next-generation business models find value in rejuvenating mainframes as part of their digital business strategies",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/10/31/enterprises-ai--cybersecurity-needs-are-rejuvenating-mainframes/",
-      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/10/31/enterprises-ai--cybersecurity-needs-are-rejuvenating-mainframes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa0667fe0267dee5b23a594%2F0x0.jpg%3FcropX1%3D1282%26cropX2%3D7999%26cropY1%3D10%26cropY2%3D4489",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/10/31/enterprises-ai--cybersecurity-needs-are-rejuvenating-mainframes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/10/31/enterprises-ai--cybersecurity-needs-are-rejuvenating-mainframes/amp/",
-      "publishedDateTime": "2020-10-31T14:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

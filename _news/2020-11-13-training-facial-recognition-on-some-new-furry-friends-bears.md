@@ -53,20 +53,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Biometrics community recognizes need for better messaging on ethical facial recognition use"
-    excerpt: "Less than one in four biometrics community stakeholders say that enough is being done by the industry to influence the messaging around the ethical use of facial recognition, according to a survey"
-    publishedDateTime: 2020-11-10T22:50:00Z
-    webUrl: "https://www.biometricupdate.com/202011/biometrics-community-recognizes-need-for-better-messaging-on-ethical-facial-recognition-use"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 48
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/30121041/biometric-accuracy-facial-recognition-crowd-scaled.jpg"
-        width: 2048
-        height: 1151
-        isCached: true
   - title: "New A.I. Offers Facial Recognition for Grizzly Bears"
     excerpt: "But now, Clapham and her research team have developed a solution: facial recognition for bears. Bears grow and shrink a lot depending on the season, and their appearance changes frequently during their 20- to 25-year-long lifespans. Clapham began to wonder ..."
     publishedDateTime: 2020-11-12T20:58:00Z

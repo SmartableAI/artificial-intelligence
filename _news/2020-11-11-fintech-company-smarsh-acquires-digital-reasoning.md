@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Christian Frahm’s United Fintech to Ease Bank’s Digitization"
-    excerpt: "Fintech veteran Christian Frahm has launched United Fintech, a company that is aiming to provide banks and other financial institutions access to capital market-focused digital technologies."
-    publishedDateTime: 2020-11-12T08:49:00Z
-    webUrl: "https://www.financemagnates.com/fintech/news/christian-frahms-united-fintech-to-ease-banks-digitization/"
-    ampWebUrl: "https://www.financemagnates.com/fintech/news/christian-frahms-united-fintech-to-ease-banks-digitization/amp/"
-    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/christian-frahms-united-fintech-to-ease-banks-digitization/amp/"
-    type: article
-    provider:
-      name: Finance Magnates
-      domain: financemagnates.com
-    quality: 59
-    images:
-      - url: "https://www.financemagnates.com/wp-content/uploads/2020/11/fintech.jpg"
-        width: 722
-        height: 414
-        isCached: true
   - title: "If You Are Interested, the FDIC is Looking to Hire Fintech Counsel"
     excerpt: "The Federal Deposit Insurance Corporation (FDIC) is looking to boost its Fintech bench by hiring three individuals to help with legal issues regarding Fintech. According to a post on USAJOBS, responsibilities include: Analyzing and advising on the interpretation of statutes,"
     publishedDateTime: 2020-11-12T17:36:00Z
@@ -68,21 +52,19 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 39
-  - title: "Codebase Technologies pushes for FinTech-led innovation with release of its Digibanc Digital Roshan solutions"
-    excerpt: "Codebase Technologies has introduced a brand-new digital FinTech offering, Digibanc Digital Roshan, to empower conventional and Islamic banks in Pakistan to manage seamless, consistent, and"
-    publishedDateTime: 2020-11-12T08:32:00Z
-    webUrl: "https://www.sourcesecurity.com/news/codebase-technologies-fintech-led-innovation-digibanc-digital-roshan-solutions-co-1605166117-ga-npr.1605167804.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/codebase-technologies-fintech-led-innovation-digibanc-digital-roshan-solutions-co-1605166117-ga-npr.1605167804.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/codebase-technologies-fintech-led-innovation-digibanc-digital-roshan-solutions-co-1605166117-ga-npr.1605167804.html"
+  - title: "Yorkshire fintech startup tots up $450k in pre-seed funding"
+    excerpt: "A new Yorkshire fintech has announced that it has raised $450k pre-seed investment to help its launch. ilumoni, which aims to… | Digital | Industrials | Finance | Yorkshire & The Humber | Technology |"
+    publishedDateTime: 2020-11-12T15:20:00Z
+    webUrl: "https://bdaily.co.uk/articles/2020/11/12/yorkshire-fintech-startup-tots-up-450k-in-pre-seed-funding"
     type: article
     provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 25
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
+    quality: 24
     images:
-      - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/hardware-improvements-physical-security-920.jpg"
-        width: 612
-        height: 355
+      - url: "https://bdaily.co.uk/images/uploads/fy0xrPlXGqEDOCxlwgAZGVYbyVYhQc7Cd6fHas2z.jpeg?w=940&h=430&fit=crop-57-52&s=fcffb011f12b9f6a5bb3f9239b32236a"
+        width: 940
+        height: 430
         isCached: true
 
 secured: "z6vqnLZ++6cZRAKZLvaj5av63aLlkl3f0NZLIus6qNwYItyTqp6MvFxx82TXGhOK9oLNP60KHvRlfgyPgsM/lgP+uGzW4sbfRMZEPT6y2SrWK1gT2BZ8V5bZSSwKu/50XhzJFX8GaKSkDOhqxzm+S6VOgjGw9tuf99FATj3IcUT8IBFW7+0bLjnKLv//FHoLRI/dbo3oXyd5m3bLr+ow4n9Q2S3m2B1LCAY4Jf0BpIl4nj2lk0/eq9lmEwVjsowx8pFdY793NAgSGMiKdVLXlkC6ZOhCC1uz1zb07s72sDyOGgc74X++CpfdkxunyG3r2QVLKt4ec8DhutPfTR/rUcDzvO4cvhi2fD20bK80x80og7Iv1Icm3maofzmJUFQm28TnxXm0ATHO7UMSJVlrGJ+X4Qge81Xot3iu+1a9BFpXrAKlnLeCRSS6JaSGZncTMUCX83i8AE1n8WtlrWW9GfiwrPruT16VbthCCZUSYDlbyx3E6UrPqcwWkvsuFB/kPHcmGja6TXduAomRBOrTzg==;9U1z01khfca342PgjRsiMQ=="

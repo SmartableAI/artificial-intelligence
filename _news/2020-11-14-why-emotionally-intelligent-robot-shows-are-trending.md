@@ -7,7 +7,7 @@ originalUrl: "https://kidscreen.com/2020/11/13/why-emotionally-intelligent-robot
 webUrl: "https://kidscreen.com/2020/11/13/why-emotionally-intelligent-robot-shows-are-trending/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Education key to developing lifelike intelligent robots, study argues"
-    excerpt: "In a new paper, researchers argue artificial intelligence has been too narrowly defined and biased by human hubris. To rectify this shortcoming, the study's authors claim robot-makers need to be better educated."
-    publishedDateTime: 2020-11-10T22:47:00Z
-    webUrl: "https://www.upi.com/Science_News/2020/11/10/Education-key-to-developing-lifelike-intelligent-robots-study-argues/5361605037906/"
-    ampWebUrl: "https://www.upi.com/amp/Science_News/2020/11/10/Education-key-to-developing-lifelike-intelligent-robots-study-argues/5361605037906/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2020/11/10/Education-key-to-developing-lifelike-intelligent-robots-study-argues/5361605037906/"
+  - title: "Is AI finally closing in on human intelligence?"
+    excerpt: "GPT-3 has been hailed as an artificial intelligence breakthrough. John Thornhill tries it out and assesses the rewards — and the risks"
+    publishedDateTime: 2020-11-12T05:00:00Z
+    webUrl: "https://www.ft.com/content/512cef1d-233b-4dd8-96a4-0af07bb9ff60"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 76
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/5361605037906/2020/1/16050481937990/v1.5/Education-key-to-developing-lifelike-intelligent-robots-study-argues.jpg"
-        width: 800
-        height: 533
-        isCached: true
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
 
 secured: "YqcmA3n3AGpxYhz7o+oPt2oBy4spNcFmSg8K9zh0rdARa8WScciXK2RrMkIoU8QpMS4ZjIGuovsVN4MzD8RGR/SBwpwPQ2B5p+n6KkKWsBg+43oIk7ZsAH3DKec05u7VlpRaI2Yn0icqo759Gm+muK2Kloa6YcBcfJrpvs/D6/6TqVKMCdGeJOQCe+s55u74NG5ZI/KC8YlDX8QGZQMDN2z0r7hA9rJMiVkuVY27LGZVpxRP7EelawuYkDur+7nwSLYVR4DAanDwKFAk5yC1rvggaP5uo2aCrcG2KD4c+7uDhU2I6CBWsQ76/cylPGkwkUXfbK7WIsdJFxqvMWT7PhNGXd0n08wFf6jM6Hn4yMYrGrzVDoUoJEuSzpmej846Py56iIYH814HHkXHwMvBGU1N8H6BjMM1e8n6+pHeV0iG1sUv4vpd4PIvTUAdn0HBOf7sZUiwYM3GAOkOKBKhaUgSuDqkJOz4hqOHa3Z8+EYgaYYs3j9HEDCm2M7pqOCUV185NxjIKZCfPeg16HXkDA==;GML+495qKv5JL4m+kxmBkQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/11/169073-if-you-are-intereste
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/169073-if-you-are-interested-the-fdic-is-looking-to-hire-fintech-counsel/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Christian Frahm’s United Fintech to Ease Bank’s Digitization"
-    excerpt: "Fintech veteran Christian Frahm has launched United Fintech, a company that is aiming to provide banks and other financial institutions access to capital market-focused digital technologies."
-    publishedDateTime: 2020-11-12T08:49:00Z
-    webUrl: "https://www.financemagnates.com/fintech/news/christian-frahms-united-fintech-to-ease-banks-digitization/"
-    ampWebUrl: "https://www.financemagnates.com/fintech/news/christian-frahms-united-fintech-to-ease-banks-digitization/amp/"
-    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/christian-frahms-united-fintech-to-ease-banks-digitization/amp/"
-    type: article
-    provider:
-      name: Finance Magnates
-      domain: financemagnates.com
-    quality: 59
-    images:
-      - url: "https://www.financemagnates.com/wp-content/uploads/2020/11/fintech.jpg"
-        width: 722
-        height: 414
-        isCached: true
   - title: "Bank ABC set to host MEA Fintech Forum"
     excerpt: "MEA Fintech Forum underlines Bank ABC’s commitment and Bahrain’s vision to becoming a leading fintech hub This website uses cookies to improve your online experience. They were placed on your computer when you launched this website."
     publishedDateTime: 2020-11-11T09:19:00Z
@@ -54,22 +38,6 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 39
-  - title: "Codebase Technologies pushes for FinTech-led innovation with release of its Digibanc Digital Roshan solutions"
-    excerpt: "Codebase Technologies has introduced a brand-new digital FinTech offering, Digibanc Digital Roshan, to empower conventional and Islamic banks in Pakistan to manage seamless, consistent, and"
-    publishedDateTime: 2020-11-12T08:32:00Z
-    webUrl: "https://www.sourcesecurity.com/news/codebase-technologies-fintech-led-innovation-digibanc-digital-roshan-solutions-co-1605166117-ga-npr.1605167804.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/codebase-technologies-fintech-led-innovation-digibanc-digital-roshan-solutions-co-1605166117-ga-npr.1605167804.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/codebase-technologies-fintech-led-innovation-digibanc-digital-roshan-solutions-co-1605166117-ga-npr.1605167804.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 25
-    images:
-      - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/hardware-improvements-physical-security-920.jpg"
-        width: 612
-        height: 355
-        isCached: true
   - title: "Fintech Company Smarsh Acquires Digital Reasoning"
     excerpt: "Smarsh just announced they have acquired Digital Reasoning, a firm we have long tracked in our disruptive technology directory. Digital Reasoning are a leader in making sense of data, including […]"
     publishedDateTime: 2020-11-11T01:23:00Z
@@ -83,6 +51,20 @@ related:
       - url: "https://ctovision.com/wp-content/uploads/digital-reasoning.jpg"
         width: 780
         height: 520
+        isCached: true
+  - title: "Yorkshire fintech startup tots up $450k in pre-seed funding"
+    excerpt: "A new Yorkshire fintech has announced that it has raised $450k pre-seed investment to help its launch. ilumoni, which aims to… | Digital | Industrials | Finance | Yorkshire & The Humber | Technology |"
+    publishedDateTime: 2020-11-12T15:20:00Z
+    webUrl: "https://bdaily.co.uk/articles/2020/11/12/yorkshire-fintech-startup-tots-up-450k-in-pre-seed-funding"
+    type: article
+    provider:
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
+    quality: 24
+    images:
+      - url: "https://bdaily.co.uk/images/uploads/fy0xrPlXGqEDOCxlwgAZGVYbyVYhQc7Cd6fHas2z.jpeg?w=940&h=430&fit=crop-57-52&s=fcffb011f12b9f6a5bb3f9239b32236a"
+        width: 940
+        height: 430
         isCached: true
 
 secured: "cmqdTr/2o1Nz5P8DgJw68r3836txPL8SLT05LNVp+7PtRdpAEOhRmz5vedO0nZICDCKSuLP3zglMM1oyUB/6c4LTs3usck98UJTqjtdKOp58KfnYhMlVWFgO2iapE869xz5JsAiOzCoCbkN5Jm8eBpXa/RAPSAZpuoUN8v/LR0gApGj94WRDL5PDkWpeH7huCpEP0eYIaxFdhm9ZY0hzMsv9xW2ZXdpIz0tZNi4Z/NyUxP7+1C6R1OyLHvqfQjOZ4f/yDYyhzNxDj+Mj/aPv5rnxdqvUanzE3Q5caE4zVkM5h1uc1u2kzjM0dRPc10DrcJ8o2l41xGZpNCynJ9vEFHOQdlPreGNTOPKYW9Sks+ECEcEw/DV4H6KrGz0nyv1jnbISmQmpNcbrzB81AAFz4M0uvo327A3NqjZGGXp39dsLsI/vwbwlTwaa6W+SFuk0HiGS4OOUQ+Umy1vNtUZNXMiToHXJVzGoAXaxYwbKRMsrFm+1Rzwq0XZOcHcOQh4KXSrxZcyeFL/F9TtK+lWw3Q==;lGcmMBwE48axhFm3ZyMmqA=="

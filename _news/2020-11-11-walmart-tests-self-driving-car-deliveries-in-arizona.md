@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pcmag.com/news/walmart-tests-self-driving-car-deliveries
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/walmart-tests-self-driving-car-deliveries-in-arizona?amp=true"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 194
+published: true
 
 provider:
   name: PC Magazine
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Walmart partners with GM's Cruise on self-driving delivery pilot in AZ"
-    excerpt: "Walmart Inc is adding Cruise, a majority-owned affiliate of U.S. automaker General Motors Co <GM.N>, to its roster of self-driving startup partners, in a pilot delivery program early next year in Scottsdale,"
-    publishedDateTime: 2020-11-10T21:42:00Z
-    webUrl: "https://www.reuters.com/article/autonomous-cruise-walmart-idUSKBN27Q25S"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q25S"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q25S"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540705024&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA914Y"
-        width: 949
-        height: 545
-        isCached: true
   - title: "Walmart will test Cruise self-driving electric car deliveries in 2021"
     excerpt: "Walmart has tapped General Motors subsidiary Cruise for a new pilot test that’ll involve delivering goods to customers using self-driving electric vehicles. The autonomous EV deliveries will"
     publishedDateTime: 2020-11-10T23:51:00Z

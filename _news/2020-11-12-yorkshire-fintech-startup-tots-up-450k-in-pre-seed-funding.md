@@ -25,19 +25,46 @@ images:
     isCached: true
 
 related:
-  - title: "Borrowing insights startup ilumoni raises $450,000 pre-seed funding"
-    excerpt: "Move Ventures (formed by the founders of Market Gravity, acquired by Deloitte in 2017), and angel investors including Simon Moran, former CMO and now Non Executive Director, Premium Credit and Andy Deller,"
-    publishedDateTime: 2020-11-12T12:04:00Z
-    webUrl: "https://www.finextra.com/pressarticle/84948/borrowing-insights-startup-ilumoni-raises-450000-pre-seed-funding"
+  - title: "If You Are Interested, the FDIC is Looking to Hire Fintech Counsel"
+    excerpt: "The Federal Deposit Insurance Corporation (FDIC) is looking to boost its Fintech bench by hiring three individuals to help with legal issues regarding Fintech. According to a post on USAJOBS, responsibilities include: Analyzing and advising on the interpretation of statutes,"
+    publishedDateTime: 2020-11-12T17:36:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/11/169073-if-you-are-interested-the-fdic-is-looking-to-hire-fintech-counsel/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/169073-if-you-are-interested-the-fdic-is-looking-to-hire-fintech-counsel/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/169073-if-you-are-interested-the-fdic-is-looking-to-hire-fintech-counsel/amp/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 37
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
     images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/The-Washington-Monument-Blue-Sky-Washington-DC-300x225.jpeg"
+        width: 300
+        height: 225
+        isCached: true
+  - title: "Bank ABC set to host MEA Fintech Forum"
+    excerpt: "MEA Fintech Forum underlines Bank ABC’s commitment and Bahrain’s vision to becoming a leading fintech hub This website uses cookies to improve your online experience. They were placed on your computer when you launched this website."
+    publishedDateTime: 2020-11-11T09:19:00Z
+    webUrl: "https://www.zawya.com/mena/en/business/story/Bank_ABC_set_to_host_MEA_Fintech_Forum-SNG_189634310/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_189634310/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_189634310/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 39
+  - title: "Fintech Company Smarsh Acquires Digital Reasoning"
+    excerpt: "Smarsh just announced they have acquired Digital Reasoning, a firm we have long tracked in our disruptive technology directory. Digital Reasoning are a leader in making sense of data, including […]"
+    publishedDateTime: 2020-11-11T01:23:00Z
+    webUrl: "https://ctovision.com/fintech-company-smarsh-acquires-digital-reasoning/"
+    type: article
+    provider:
+      name: ctovision.com
+      domain: ctovision.com
+    quality: 24
+    images:
+      - url: "https://ctovision.com/wp-content/uploads/digital-reasoning.jpg"
+        width: 780
+        height: 520
         isCached: true
 
 secured: "iNRLt1qF8l8jcAJB2wH0BvttObL9JTCAluLFvmCVIshdy7Mw15Wcr6bReK9eT23huCjJa30JTT/HhGsiRIjTaMuJ4bXvXNidH7DO5oHU08oHz2aPJl/bIcLp81oEnqlcxYayTugK5iJqC6M7oTiHpUBrImhmj1XeUjRPNsGzs4BfawDMmrs0kTEEunW448POuxp+oMaabDjLikGkMX/J+6pyXORD99/wezUGeIh3P4mLnTtdLtmoGZ5AzJI8OoQVZ5Bwe2FFjV+AddwkMGW8io5OLcOde/hip7NAUQqKjTLyhNowvU1iOQCCABDpFUN3k06TkiOIhy9e1P36LvMJkVeWSkG4FIbiloshd1eJspE=;IE7vhh3O3Sy2w1Uosq4dAw=="

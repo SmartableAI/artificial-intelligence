@@ -63,6 +63,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 54
+  - title: "Self-driving shuttle startup raises $500 million in funding"
+    excerpt: "Nuro, a developer of self-driving shuttles, has raised $500 million in funding to help grow the company’s autonomous goods delivery service. The funding included participation from Fidelity Management & Research Company,"
+    publishedDateTime: 2020-11-15T13:37:00Z
+    webUrl: "https://electronics360.globalspec.com/article/15954/self-driving-shuttle-startup-raises-500-million-in-funding"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 19
 
 secured: "ZVQLN7oIesMCGg9h2G2oPvvhI6VGBnUtE8KV8slnvZ16P3RqNOWhlxetaIlPUZWZ9NhDDGGGoa3ZGBK+KzL9BRK/yAHoOXEfoPXKjrGjOwj2QRBNg3xf7cEWq2fzASJkH1OjDMJYPWzofJorWKOe3VyZ9mBVp819NhBQIbA5fmz2xy4Zwu0VI03RK5Ru2Z1SyPDmZEs9Vws3B+kO3G29Nqg2Yggy+GVGCAmCTbjn/iO+3fQYxmZ4Rx9CAp2hjr+jjo5v3XMOlR6ugvGK70sd458XA0WH8ADbHA76QmPhKzytVMnvzxw25P+UTU5bCbSdM1y+X4+0RdyTaQF8LPQ+lfK5HZjYX4zirxs3AY+4lZM=;GxJ2xuBFcmH+HcPT4E9E7A=="
 ---

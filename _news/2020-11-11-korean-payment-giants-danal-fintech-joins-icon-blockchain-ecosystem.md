@@ -2,27 +2,27 @@
 category: news
 title: "Korean Payment Giant’s Danal Fintech Joins ICON Blockchain Ecosystem"
 excerpt: "Danal Fintech, a subsidiary of Danal ( one of the largest payment companies in South Korea, today announced that they are joining the ICON blockchain ecosystem, the largest decentralized network in Korea by market capitalization."
-publishedDateTime: 2020-11-11T12:02:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-south-korea-70b7109710ee3702e80c6d7e450260aa"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-south-korea-70b7109710ee3702e80c6d7e450260aa"
+publishedDateTime: 2020-11-11T12:13:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/korean-payment-giant-s-danal-fintech-joins-icon-blockchain-ecosystem-1029791295"
+webUrl: "https://markets.businessinsider.com/news/stocks/korean-payment-giant-s-danal-fintech-joins-icon-blockchain-ecosystem-1029791295"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/Korean-Payment-Giant-s-Danal-Fintech-Joins-ICON-Blockchain-Ecosystem-1029791295"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Korean-Payment-Giant-s-Danal-Fintech-Joins-ICON-Blockchain-Ecosystem-1029791295"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 69
+heat: 79
+published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Your car insurance salesman is now an AI bot connected to blockchain"
@@ -41,23 +41,7 @@ related:
         width: 740
         height: 494
         isCached: true
-  - title: "CropData enabling small farmer’s big dream using AI, blockchain and cloud"
-    excerpt: "CropData connects farmers to bulk buyers on its e-marketplace - Agriota, where their harvest is hedged very early in the crop cycle."
-    publishedDateTime: 2020-11-12T12:23:00Z
-    webUrl: "https://www.dqindia.com/cropdata-enabling-small-farmers-big-dream-using-ai-blockchain-and-cloud/"
-    ampWebUrl: "https://www.dqindia.com/cropdata-enabling-small-farmers-big-dream-using-ai-blockchain-and-cloud/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/cropdata-enabling-small-farmers-big-dream-using-ai-blockchain-and-cloud/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 58
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2020/11/132FA169-1D63-4C19-BF2C-BA59702A9FDA.jpeg"
-        width: 850
-        height: 478
-        isCached: true
 
-secured: "LK9ic7gwFEGUux60Pa7XdKZ2DRhJFSiY4znbK8ZzEa4+11ogd/bBv6lzEbIvKunjUY/kgKVSw/vrrw7Iu5UHmuwfVbR9lv3gylZsS0OInK7pJoMIM0ac1ybnH1/mnr8aKnf/6k6g80RBE4UcHwBlxpAqPe/YXVyhotgi0wSJSRh0JuqKPVb7O3uaEW1W+Z+MM8ZadScKoBgy55eeQsklJZyPxoDiYMKJm5cKHTkYsl8FS77nJwlgP/cburC3NclhCDIl6fj6ieLLet4cPFNpyGOOn7t7ArMEmTuc7GoOgveIe4c685HWxvZ/gCIt1Pc0+NPv0p0GQKuCc0clPjUX6ZtkyrzTJVX6lnhUhgotyJE=;nDAKM524a83Y0NVvcuGOsw=="
+secured: "DhwL8wJhcswaDp6tkgh5uft5YEDHQlFr0QFuwSa2TQOrXbMiZeG3ksuo9wWRmVd3abExNEDTnG0elOSTiJcE5qj6N1Yxv/8feNJV+h2qHkrBrWwc64XrpcRcrgSAo3Fus7ykH+upDoHAXN9mU/7XoI1IVFw7oj3sEMqp22WhPP8mV+ZjBMMr52lJYVFL0KgQF5Ep2Eb+j4Gy8DUKJNSM3blbmy+km/HsrxioXrDiHoD3nAzSZTWOzd5VoukFMPSK4SeWvpAYSoFYrMT4t7aFmq5dz3xQ9vfpvdCu+xZQ5GcGV0ZkScK3aM810TAQUF/VcHid1bwYgKFVxcfSdU7qK5yBM/MLbcUI5s4L/voaCWM=;A9PicQ7MWBuN2CakchvjgQ=="
 ---
 

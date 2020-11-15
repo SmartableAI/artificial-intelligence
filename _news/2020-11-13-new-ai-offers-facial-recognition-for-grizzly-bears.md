@@ -68,20 +68,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
-  - title: "Biometrics community recognizes need for better messaging on ethical facial recognition use"
-    excerpt: "Less than one in four biometrics community stakeholders say that enough is being done by the industry to influence the messaging around the ethical use of facial recognition, according to a survey"
-    publishedDateTime: 2020-11-10T22:50:00Z
-    webUrl: "https://www.biometricupdate.com/202011/biometrics-community-recognizes-need-for-better-messaging-on-ethical-facial-recognition-use"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 48
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/30121041/biometric-accuracy-facial-recognition-crowd-scaled.jpg"
-        width: 2048
-        height: 1151
-        isCached: true
 
 secured: "eEul7VUWcwS+2R7Wg4DA5vwWwamUElquAv8IOb5I04aOvsaWu2j+7MxOw+RQnZxvXnpyMNZWjazeEkPAUr6SFkI6ZNDWyPF6MaV1H2PVW+f1r2Piip/EaykbKDKSnmIAUlSZd9Y3y0sYNgW3XgSQrTA/4ThFavMW2OEPCqvEy5v9x/kRXWJ5YsqsBf97ZFB0476yA9nfwpL7wk/qLIY6JFOwDO9l82xLCIa4Ihyq+zuOG4ssxegqgdCuEhepVHH4tQDqZo0xYGY4cRibiv+NhBtl+9dotgYdpphZOnmKcOPXjowwfNbKTqKikx48giCD/CcVk6yU4qWB+2CTbddWNrlKbu4AXvBGS0l62l+JrAEhbh8/KnjOtJ2R9JWtVvpopxbMA8K9EZOte0cKDNaSU1OpvXz6Pprix/ja0Box5wzi56ZlIXnN9De5Yzp4lk5lOq7ejS5LizD9hwvOPxlZHojPupOSdfVPxQFZdxoVWIwuPbh1im4y8Frlnc1N1aRHXLSG+aVMP+ksoqexUTPBeA==;C58j3CSJZG4Va5L0zMw42g=="
 ---

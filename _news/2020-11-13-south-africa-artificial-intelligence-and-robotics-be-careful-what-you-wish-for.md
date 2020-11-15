@@ -36,20 +36,6 @@ related:
       name: Daily Maverick
       domain: dailymaverick.co.za
     quality: 71
-  - title: "AI Enabled Robots are Coming"
-    excerpt: "We’ve entered a new age of automation: the artificially intelligent robots are coming. When AI enabled robots hit the manufacturing mainstream, the implications will be huge. With the right"
-    publishedDateTime: 2020-11-11T10:01:00Z
-    webUrl: "https://roboticsandautomationnews.com/2020/11/11/ai-enabled-robots-are-coming/38010/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 54
-    images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/11/MF-Image.jpg"
-        width: 750
-        height: 540
-        isCached: true
 
 secured: "dtwPkBi6S6U5GAs6kz2REqp+uWyqt5K8ZnW69dONmpI2GI2IzPmscM8QJgvSIQPztDauY3bqC0gywkSLluvCJ+AqN9zLV05LdGDIkjEb2vQBkCcVJJYwEXfcldhUPbClQcOlq6CNjkR3bE3Sv4m3wair3K4N5uM1VXXG6cpFF6Afy1UNgbzBPUFdFCigeY64SPJhxCl3HNtvE/ypdmMbVkBbDoXl9xcd3E3aKMA06T+0sXyG1bioyqXtWpeb7GKgRIV33G2rzsRxEn042qM5FuANMr+G3K4l3VQDtgG8Rrokyw86krvFgYbCNNrjtWp6zXK9z7/ezAdLjl2d39u+qCe0H7NkhLZOVlGax+ObwCk=;cPfDu3AmdR+ASNorLZtDlw=="
 ---

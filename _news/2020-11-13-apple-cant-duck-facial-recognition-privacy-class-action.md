@@ -39,20 +39,6 @@ related:
         isCached: true
   - title: "Army to evaluate facial recognition in day care centers"
     excerpt: "Through a demonstration of the technology, the Army expects to learn whether facial recognition technologies can improve family quality of life, reduce base costs and enhance mission readiness."
-    publishedDateTime: 2020-11-10T21:13:00Z
-    webUrl: "https://gcn.com/articles/2020/11/10/facial-recognition-daycare.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 39
-    images:
-      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Workforce/daycare_center.jpg"
-        width: 760
-        height: 368
-        isCached: true
-  - title: "Army to evaluate facial recognition in day care centers"
-    excerpt: "Through a demonstration of the technology, the Army expects to learn whether facial recognition technologies can improve family quality of life, reduce base costs and enhance mission readiness."
     publishedDateTime: 2020-11-11T17:46:00Z
     webUrl: "https://defensesystems.com/articles/2020/11/11/facial-recognition-daycare.aspx"
     type: article
