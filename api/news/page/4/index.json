@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-12-global-artificial-intelligence-ai-chips-market-2020-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2026.md",
+      "title": "Global Artificial Intelligence (AI) Chips Market 2020 Applications, SWOT Analysis, Remarkable Growth and Competitive Landscape by 2026",
+      "excerpt": "The latest report entitled Global Artificial Intelligence (AI) Chips Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026 firstly focuses on some important aspects of the market such as revenue rate,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-2020-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2026-2020-11-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-2020-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2026-2020-11-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-11T17:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-electrifai-offers-new-machine-learning-models-for-amazon-sagemaker.md",
       "title": "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker",
       "excerpt": "Amazon SageMaker is a fully managed service from Amazon Web Services (AWS) that provides every developer and data scientist with the ability to build, train, and deploy ML models quickly.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 111,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1202,49 +1254,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-korean-payment-giants-danal-fintech-joins-icon-blockchain-ecosystem.md",
-      "title": "Korean Payment Giant’s Danal Fintech Joins ICON Blockchain Ecosystem",
-      "excerpt": "Danal Fintech, a subsidiary of Danal ( one of the largest payment companies in South Korea, today announced that they are joining the ICON blockchain ecosystem, the largest decentralized network in Korea by market capitalization.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/korean-payment-giant-s-danal-fintech-joins-icon-blockchain-ecosystem-1029791295",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/korean-payment-giant-s-danal-fintech-joins-icon-blockchain-ecosystem-1029791295",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Korean-Payment-Giant-s-Danal-Fintech-Joins-ICON-Blockchain-Ecosystem-1029791295",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Korean-Payment-Giant-s-Danal-Fintech-Joins-ICON-Blockchain-Ecosystem-1029791295",
-      "publishedDateTime": "2020-11-11T04:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

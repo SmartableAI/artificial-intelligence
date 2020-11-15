@@ -2,6 +2,58 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2020-10-07-cbp-expands-facial-recognition-program-to-international-travelers-at-san-francisco-and-san-jose-airports.md",
+      "title": "CBP expands facial recognition program to international travelers at San Francisco and San Jose airports",
+      "excerpt": "U.S. Customs and Border Protection is expanding a controversial facial recognition program to airports in San Jose and San Francisco.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/07/cbp-expands-facial-recognition-program-to-international-travelers-at-san-francisco-and-san-jose-airports/",
+      "originalUrl": "https://venturebeat.com/2020/10/07/cbp-expands-facial-recognition-program-to-international-travelers-at-san-francisco-and-san-jose-airports/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189-e1600898324155.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/07/cbp-expands-facial-recognition-program-to-international-travelers-at-san-francisco-and-san-jose-airports/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/07/cbp-expands-facial-recognition-program-to-international-travelers-at-san-francisco-and-san-jose-airports/amp/",
+      "publishedDateTime": "2020-10-07T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-biochip-innovation-combines-ai-and-nanoparticle-printing-for-cancer-cell-analysis.md",
       "title": "Biochip innovation combines AI and nanoparticle printing for cancer cell analysis",
       "excerpt": "Electrical engineers, computer scientists and biomedical engineers at the University of California, Irvine have created a new lab-on-a-chip that can help study tumor heterogeneity to reduce resistance to cancer therapies.",
@@ -1133,57 +1185,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-edtech-startup-winuall-raises-inr-147-cr-from-prime-venture-partners-and-beenext.md",
-      "title": "Edtech Startup Winuall Raises INR 14.7 Cr From Prime Venture Partners and BEENEXT",
-      "excerpt": "The company said it will use the fresh capital to enhance product capabilities and hire across technology, product, AI and business development teams",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/357349",
-      "originalUrl": "https://www.entrepreneur.com/article/357349",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1602061319-online1.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/357349",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/357349",
-      "publishedDateTime": "2020-10-07T02:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

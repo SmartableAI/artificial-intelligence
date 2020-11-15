@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2020/11/aws-cto-roundtable-disruptions-transfo
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/aws-cto-roundtable-disruptions-transforming-healthtech/amp"
 type: article
 quality: 56
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "RAISE 2020: How healthtech startup SigTuple Technologies is leveraging the power of AI in healthcare"
-    excerpt: "Based out of Bengaluru, healthtech startup SigTuple Technologies combines AI, robotics, and data science to build smart healthcare screening solutions."
-    publishedDateTime: 2020-11-11T00:25:00Z
-    webUrl: "https://yourstory.com/2020/11/healthtech-startup-sigtuple-technologies-accel-chiratae-ventures"
-    ampWebUrl: "https://yourstory.com/2020/11/healthtech-startup-sigtuple-technologies-accel-chiratae-ventures/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/healthtech-startup-sigtuple-technologies-accel-chiratae-ventures/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 61
-    images:
-      - url: "https://images.yourstory.com/cs/2/3fb20ae02dc911e9af58c17e6cc3d915/Imagenyuh-1604738778996.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
-        isCached: true
   - title: "UK healthtech startups to watch"
     excerpt: "Healthtech in the UK is a booming market with a combined turnover of £24 billion. Here are some of the top healthtech startups attracting the investment."
     publishedDateTime: 2020-11-13T12:21:00Z

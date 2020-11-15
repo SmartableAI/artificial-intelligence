@@ -2,6 +2,59 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2020-10-12-microsoft-and-partners-aim-to-shrink-the-data-desert-limiting-accessible-ai.md",
+      "title": "Microsoft and partners aim to shrink the ‘data desert’ limiting accessible AI",
+      "excerpt": "One with City University of London is the expansion and eventual public release of the Object Recognition for Blind Image Training project, which is assembling a data set for everyday for ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/12/microsoft-and-partners-aim-to-shrink-the-data-desert-limiting-accessible-ai/",
+      "originalUrl": "https://techcrunch.com/2020/10/12/microsoft-and-partners-aim-to-shrink-the-data-desert-limiting-accessible-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/Steve-Gleason_2.jpg?w=1024",
+          "width": 1024,
+          "height": 713,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/12/microsoft-and-partners-aim-to-shrink-the-data-desert-limiting-accessible-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/12/microsoft-and-partners-aim-to-shrink-the-data-desert-limiting-accessible-ai/amp/",
+      "publishedDateTime": "2020-10-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-12-understanding-the-technology-behind-traffic-sign-recognition-tsr-systems.md",
       "title": "Understanding the Technology behind Traffic Sign Recognition (TSR) Systems",
       "excerpt": "It can be used in manufacturing as a part of quality control, object recognition, a way to navigate a mobile robot, or as a way to detect edges in images. To identify the matching area, we have to compare the template image against the source image by ...",
@@ -1144,57 +1197,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-15-important-factors-in-building-a-more-human-centric-ai-application.md",
-      "title": "15 Important Factors In Building A More Human-Centric AI Application",
-      "excerpt": "As the technology behind artificial intelligence evolves, developers must continue to consider one of the primary goals of AI development: to make it more “human” than “artificial.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/09/15-important-factors-in-building-a-more-human-centric-ai-application/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/09/15-important-factors-in-building-a-more-human-centric-ai-application/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f37ac272eb96e41c134f6%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/09/15-important-factors-in-building-a-more-human-centric-ai-application/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/09/15-important-factors-in-building-a-more-human-centric-ai-application/amp/",
-      "publishedDateTime": "2020-10-09T05:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

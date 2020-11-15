@@ -25,54 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Walmart Tests Self-Driving Car Deliveries in Arizona"
-    excerpt: "When customers in Scottsdale order items from their local Walmart, they will be able to choose a contact-free delivery from one of Cruise’s cars."
-    publishedDateTime: 2020-11-10T23:14:00Z
-    webUrl: "https://www.pcmag.com/news/walmart-tests-self-driving-car-deliveries-in-arizona"
-    ampWebUrl: "https://www.pcmag.com/news/walmart-tests-self-driving-car-deliveries-in-arizona?amp=true"
-    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/walmart-tests-self-driving-car-deliveries-in-arizona?amp=true"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 74
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/03PN0mWV278CIW8clSXdlaW-1.1605047430.fit_lim.size_1200x630.png"
-        width: 920
-        height: 518
-        isCached: true
-  - title: "Walmart will test Cruise self-driving electric car deliveries in 2021"
-    excerpt: "Walmart has tapped General Motors subsidiary Cruise for a new pilot test that’ll involve delivering goods to customers using self-driving electric vehicles. The autonomous EV deliveries will"
-    publishedDateTime: 2020-11-10T23:51:00Z
-    webUrl: "https://www.slashgear.com/walmart-will-test-cruise-self-driving-electric-car-deliveries-in-2021-10646715/"
-    ampWebUrl: "https://www.slashgear.com/walmart-will-test-cruise-self-driving-electric-car-deliveries-in-2021-10646715/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/walmart-will-test-cruise-self-driving-electric-car-deliveries-in-2021-10646715/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 74
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/11/walmart_cruise_EV_main.jpg"
-        width: 1426
-        height: 800
-        isCached: true
-  - title: "Walmart, GM to test delivery with self-driving cars in Scottsdale"
-    excerpt: "Walmart is teaming up with the General Motors' autonomous vehicle unit to test driverless delivery in Arizona starting early next year."
-    publishedDateTime: 2020-11-11T01:05:00Z
-    webUrl: "https://ktar.com/story/3689937/walmart-gm-to-test-delivery-with-self-driving-cars-in-scottsdale/"
-    ampWebUrl: "https://ktar.com/story/3689937/walmart-gm-to-test-delivery-with-self-driving-cars-in-scottsdale/amp/"
-    cdnAmpWebUrl: "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/3689937/walmart-gm-to-test-delivery-with-self-driving-cars-in-scottsdale/amp/"
-    type: article
-    provider:
-      name: KTAR News
-      domain: ktar.com
-    quality: 44
-    images:
-      - url: "https://ktar.com/wp-content/uploads/2020/11/walmart-driverless.jpg"
-        width: 620
-        height: 370
-        isCached: true
   - title: "Walmart, Cruise to test grocery delivery in self-driving cars"
     excerpt: "Walmart and Cruise LLC are starting a pilot program early next year for customers to have their groceries delivered by one of Cruise’s all-electric self-driving cars, Walmart said in a Tuesday blog post ."
     publishedDateTime: 2020-11-12T12:06:00Z

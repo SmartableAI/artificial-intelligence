@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Ex-IITians start AI revolution in Indian farming"
-    excerpt: "If technology started Green Revolution in the mid-1960s to multiply key crops’ production, livestock, and horticulture output, information."
-    publishedDateTime: 2020-11-11T00:25:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/chandigarh/ex-iitians-start-ai-revolution-in-indian-farming/articleshow/79159568.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/chandigarh/ex-iitians-start-ai-revolution-in-indian-farming/amp_articleshow/79159568.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/chandigarh/ex-iitians-start-ai-revolution-in-indian-farming/amp_articleshow/79159568.cms"
+  - title: "The Next Stage in the Financial Revolution: AR and VR Solutions"
+    excerpt: "The next step in the financial evolution has welcomed the applications of immersive Augmented and virtual realities. AR and VR can transform traditional banking and financial services into staggering,"
+    publishedDateTime: 2020-11-11T15:39:00Z
+    webUrl: "https://www.alleywatch.com/2020/11/the-next-stage-in-the-financial-revolution-ar-and-vr-solutions/"
+    ampWebUrl: "https://www.alleywatch.com/2020/11/the-next-stage-in-the-financial-revolution-ar-and-vr-solutions/amp/"
+    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2020/11/the-next-stage-in-the-financial-revolution-ar-and-vr-solutions/amp/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 57
+      name: alleywatch.com
+      domain: alleywatch.com
+    quality: 44
     images:
-      - url: "https://static.toiimg.com/photo/msid-47529300/47529300.jpg"
-        width: 1200
-        height: 630
+      - url: "https://cdn.alleywatch.com/wp-content/uploads/2020/11/businessman-in-virtual-reality-trading-on-stock-ma-LT8BAQB.jpg"
+        width: 1000
+        height: 667
         isCached: true
 
 secured: "ObduZ7j22qHZg515QLHx9wuOxHnpe6B+odeQMdTm8SeuK4GinGqqexzj65AD3oPHm9g2UBjp1CrO9ZaAfCsqjtjnFOf816yP3i0J/psj0ujpyEcZ/PD0OnqWUZN8zGeor7SAhGwd83r69TAr2VwY9Wz1AJ0+am6p/LN7oc2rPNQORqd0moNR4kN9meG4NKlztexnjyANY+JlbuoFy+8a2dpotL2FLC2UrNScBM9ff/Ca1mB2h//AAAr8xswMbBgBDxPqtqGY4qtz2w/SWldGRi7nFe0wDyYTRuBCdyv6bZeenHaF9WkaCvOfXTAVHkAFJQatnrZxpCM0gAK9s59GbCf46sjf7KYk/lIyZ0Jfl6PWXId2pSIT6ICh4ZjVYxocjo9b9OctFadpN4Dziz0HswjYsTVl9VTUXTYjV46WYpMc0ljtZO1zWoPg2jdJXQi9xML/MrgMVH1lsynOpvS4/RmZmC0cujSNmsStfDBb88yokYMQwVlY8qFafrrXwJfX24GDVJCw6u0OIO/+WqTV9Q==;CxvEkiXPgDkcX7XScl7YOA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/startups/ey-india-acquires-ai-start
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/ey-india-acquires-ai-startup/amp_articleshow/79218623.cms"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "India bets on AI tech to curb coronavirus infections, amid privacy fears"
-    excerpt: "In India, dozens of data-driven solutions have emerged to track people’s movements, check temperatures and enforce social distancing, sparking privacy fears."
-    publishedDateTime: 2020-11-11T00:21:00Z
-    webUrl: "https://www.scmp.com/news/asia/south-asia/article/3109269/india-bets-ai-tech-curb-coronavirus-infections-amid-privacy"
-    ampWebUrl: "https://amp.scmp.com/news/asia/south-asia/article/3109269/india-bets-ai-tech-curb-coronavirus-infections-amid-privacy"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/asia/south-asia/article/3109269/india-bets-ai-tech-curb-coronavirus-infections-amid-privacy"
+  - title: "EY India acquires IIT alumni backed AI startup Spotmentor Technologies"
+    excerpt: "EY India has acquired an artificial intelligence backed human resource technology startup Spotmentor Technologies. The company, however, did not disclose the financial transaction involved in the deal."
+    publishedDateTime: 2020-11-14T11:33:00Z
+    webUrl: "https://www.businesstoday.in/current/corporate/ey-india-acquires-iit-alumni-backed-ai-startup-spotmentor-technologies/story/421986.html"
+    ampWebUrl: "https://m.businesstoday.in/lite/story/ey-india-acquires-iit-alumni-backed-ai-startup-spotmentor-technologies/1/421986.html"
+    cdnAmpWebUrl: "https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/ey-india-acquires-iit-alumni-backed-ai-startup-spotmentor-technologies/1/421986.html"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 88
+      name: Business Today
+      domain: businesstoday.in
+    quality: 57
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_coronavirus_generic/public/d8/images/methode/2020/11/10/29a1f82c-233c-11eb-8a46-f186a810a22a_image_hires_192345.jpg?itok=91UBDaUj&v=1605007438"
+      - url: "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/india_startup_505_141120045507.jpg?size=1200:675"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
 
 secured: "Q6eZVzixHRHn3qmFeBVwrwamJ8fEeII/Q7UjrYEZ/Irz9/dEWX5CHPPbgq/88iJBEX0Fnzl/yQeam/w1EKxZFFZyHkC+yHOEbCH/SouRMdhk4YTsRwOgaEJlLPHclcEXpykV5Up5vA2D1w7R1VO0HY1zdHC/RCjnSkyi/VG2YDbGaTGxUnmKHOMjX2h3b7GBbd/5Ewz+LWgheMdCexoWQjG3RGV0OX+RxHr7MV4hXtO8MT0kerDIvLiaZ8gsBL6WDMh4qVAzDM3C7/Juk9xQuAMur76coPbWLKbln3a3xGTSCjQdS52i16/j+cDrj/ZF69DAUcleeoKoFQJk+JhUESU1umsTfttvIlSzMZCmld0=;JUezHLINo9rZO+5yXNdfiA=="

@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-11-01-real-time-object-recognition-at-low-costpowerlatency.md",
+      "title": "Real-Time Object Recognition At Low Cost/Power/Latency",
+      "excerpt": "But we find that the number one neural network of interest for most customers is real-time object recognition, such as YOLOv3. It’s not possible to do comparisons here because nobody shows a YOLOv3 benchmark for their inferencing. But it’s very ...",
+      "sourceUrl": null,
+      "webUrl": "https://semiengineering.com/real-time-object-recognition-at-low-cost-power-latency/",
+      "originalUrl": "https://semiengineering.com/real-time-object-recognition-at-low-cost-power-latency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/semiengineering.com/wp-content/uploads/2018/10/Flex-Logix_NMAX-benchmarks-fig2-YOLOv3.png?fit=1380%2C509&#038;ssl=1",
+          "width": 1380,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-01-ai-can-detect-covid-19-by-listening-to-your-coughs.md",
       "title": "AI can detect COVID-19 by listening to your coughs",
       "excerpt": "Researchers have built an app that can detect COVID-19 through cough recordings, even for people who say they're asymptomatic.",
@@ -1193,57 +1236,6 @@
         "AWS AI",
         "IBM AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-31-ai-to-help-worlds-first-removal-of-space-debris.md",
-      "title": "AI to help world’s first removal of space debris",
-      "excerpt": "In September, the International Space Station had to dodge an unknown piece of debris. With the volume of space trash rapidly growing, the chances of a collision are increasing. The (ESA) wants to clean up some of the mess — with the help of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/10/30/ai-to-help-worlds-first-removal-of-space-debris/",
-      "originalUrl": "https://thenextweb.com/neural/2020/10/30/ai-to-help-worlds-first-removal-of-space-debris/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-30T172415.159-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/10/30/ai-to-help-worlds-first-removal-of-space-debris/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/30/ai-to-help-worlds-first-removal-of-space-debris/amp/",
-      "publishedDateTime": "2020-10-30T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -35,10 +35,26 @@ related:
         width: 600
         height: 402
         isCached: true
+  - title: "Why we commissioned new AI, Robotics Centre in Abuja ― Pantami"
+    excerpt: "The Minister of Communications and Digital Economy, Dr Isa Ali Pantami says the new Centre for Artificial Intelligence and Robotics."
+    publishedDateTime: 2020-11-15T16:46:00Z
+    webUrl: "https://www.vanguardngr.com/2020/11/why-we-commissioned-new-ai-robotics-centre-in-abuja-―-pantami/"
+    ampWebUrl: "https://www.vanguardngr.com/2020/11/why-we-commissioned-new-ai-robotics-centre-in-abuja-%e2%80%95-pantami/amp/"
+    cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/11/why-we-commissioned-new-ai-robotics-centre-in-abuja-%e2%80%95-pantami/amp/"
+    type: article
+    provider:
+      name: Vanguard
+      domain: vanguardngr.com
+    quality: 89
+    images:
+      - url: "https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2019/07/Isa-Ibrahim-Pantami.jpg?fit=1500%2C1000&ssl=1"
+        width: 1500
+        height: 1000
+        isCached: true
   - title: "Nigeria gets Artificial Intelligence, Robotics Centre"
     excerpt: "Dr Isa Pantami, Minister of Communications and Digital Economy, on Friday in Abuja, inaugurated the National Centre for Artificial Intelligence and Robotics."
     publishedDateTime: 2020-11-13T15:09:00Z
-    webUrl: "https://guardian.ng/news/nigeria-gets-artificial-intelligence-robotics-centre/?echobox=twitter_post"
+    webUrl: "https://guardian.ng/news/nigeria-gets-artificial-intelligence-robotics-centre/"
     type: article
     provider:
       name: The Guardian Nigeria

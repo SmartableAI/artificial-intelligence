@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-11-06-why-i-just-purchased-shares-of-ai-cloud-observability-company-dynatrace.md",
+      "title": "Why I Just Purchased Shares of AI Cloud Observability Company Dynatrace",
+      "excerpt": "Technology projects to update operations -- especially in cloud computing -- can no longer be delayed, but rather are critical to the long-term health of many businesses. As a result, cloud observability software outfit Dynatrace (NYSE:DT) says its total addressable market has surged in the last 18 months from $20 billion a year to $32 billion a year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/11/05/why-i-just-purchased-shares-of-ai-cloud-dynatrace/",
+      "originalUrl": "https://www.fool.com/investing/2020/11/05/why-i-just-purchased-shares-of-ai-cloud-dynatrace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.ycharts.com/charts/46596513d52485d407d4f24e1d5e7db7.png",
+          "width": 720,
+          "height": 542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/11/05/why-i-just-purchased-shares-of-ai-cloud-dynatrace/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/05/why-i-just-purchased-shares-of-ai-cloud-dynatrace/",
+      "publishedDateTime": "2020-11-05T08:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-06-when-a-tree-falls-on-top-of-a-self-driving-car.md",
       "title": "When A Tree Falls On Top Of A Self-Driving Car",
       "excerpt": "When a tree falls onto a self-driving car. getty. A popular riddle that has been asked since at least the 1800s is whether a tree that falls in a forest will make a sound if there",
@@ -1177,58 +1228,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-sales-enablement-enhanced-with-artificial-intelligence.md",
-      "title": "Sales Enablement Enhanced With Artificial Intelligence",
-      "excerpt": "The amount of data collected in both sales and marketing has had developers focused on each, with only a little thought given to a true integration. That has slowly begun to change; and artificial intelligence (AI) might be providing the final piece necessary to supply a more robust solution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2020/11/04/sales-enablement-enhanced-with-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2020/11/04/sales-enablement-enhanced-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
-          "width": 876,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/11/04/sales-enablement-enhanced-with-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/11/04/sales-enablement-enhanced-with-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-11-04T09:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

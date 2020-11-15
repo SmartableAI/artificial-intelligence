@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-21-intuit-appoints-tekedra-mawakana-waymos-chief-operating-officer-to-board-of-directors.md",
+      "title": "Intuit Appoints Tekedra Mawakana, Waymo's Chief Operating Officer, to Board of Directors",
+      "excerpt": "Intuit Inc. (NASDAQ:INTU) today announced it has appointed Tekedra Mawakana to its board of directors. Mawakana is the COO of Waymo LLC, a subsidiary",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201020005884/en/Intuit-Appoints-Tekedra-Mawakana-Waymos-Chief-Operating-Officer-to-Board-of-Directors",
+      "originalUrl": "https://www.businesswire.com/news/home/20201020005884/en/Intuit-Appoints-Tekedra-Mawakana-Waymos-Chief-Operating-Officer-to-Board-of-Directors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201020005884/en/775388/23/Ecosystem-Lockup-2Line-FullColor-2019-PMS_%282%29.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-20T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-companies-will-spend-50-billion-on-artificial-intelligence-this-year-with-little-to-show-for-it.md",
       "title": "Companies Will Spend $50 Billion On Artificial Intelligence This Year With Little To Show For It",
       "excerpt": "Despite an AI investing boom, only 10% of companies report significant financial returns from the technology, new research shows.",
@@ -1337,58 +1380,6 @@
         "name": "Business Insider India",
         "domain": "businessinsider.in",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-teslas-elon-musk-some-expert-careful-drivers-get-beta-full-self-driving-next-week.md",
-      "title": "Tesla's Elon Musk: Some 'expert, careful' drivers get beta Full Self-Driving next week",
-      "excerpt": "Tesla will offer a limited number of \"expert and careful\" drivers a beta of its long-awaited Full Self-Driving capability in Autopilot next Tuesday, according to Tesla chief Elon Musk.  As usual, Musk teased the Full Self-Driving (FSD) beta release in a tweet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/teslas-elon-musk-some-expert-careful-drivers-get-beta-full-self-driving-next-week/",
-      "originalUrl": "https://www.zdnet.com/article/teslas-elon-musk-some-expert-careful-drivers-get-beta-full-self-driving-next-week/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/29/b0b2b069-530f-4f03-ab3c-f41207823389/thumbnail/1200x675/7dab00fbe159192ec9acc7344002b423/teslas-big-new-feature-autopilot-now-hal-5ea855af1c719e4526590320-1-apr-29-2020-13-36-03-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/teslas-elon-musk-some-expert-careful-drivers-get-beta-full-self-driving-next-week/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/teslas-elon-musk-some-expert-careful-drivers-get-beta-full-self-driving-next-week/",
-      "publishedDateTime": "2020-10-13T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

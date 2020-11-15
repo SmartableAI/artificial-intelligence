@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "RAISE 2020: How healthtech startup SigTuple Technologies is leveraging the power of AI in healthcare"
-    excerpt: "Based out of Bengaluru, healthtech startup SigTuple Technologies combines AI, robotics, and data science to build smart healthcare screening solutions."
-    publishedDateTime: 2020-11-11T00:25:00Z
-    webUrl: "https://yourstory.com/2020/11/healthtech-startup-sigtuple-technologies-accel-chiratae-ventures"
-    ampWebUrl: "https://yourstory.com/2020/11/healthtech-startup-sigtuple-technologies-accel-chiratae-ventures/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/healthtech-startup-sigtuple-technologies-accel-chiratae-ventures/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 61
-    images:
-      - url: "https://images.yourstory.com/cs/2/3fb20ae02dc911e9af58c17e6cc3d915/Imagenyuh-1604738778996.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
-        isCached: true
   - title: "AWS CTO Roundtable: The disruptions that are transforming healthtech in India"
     excerpt: "The increasing ubiquity of technologies like telemedicine, virtual reality (VR), artificial intelligence (AI) and wearable tech, have permanently altered the way doctors and patients interact. With over $3 billion invested in over 600 Indian startups,"
     publishedDateTime: 2020-11-12T05:07:00Z

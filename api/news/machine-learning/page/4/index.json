@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-22-mit-seeks-to-resurrect-dead-languages-with-machine-learning.md",
+      "title": "MIT seeks to resurrect 'dead' languages with machine learning",
+      "excerpt": "By implementing a new translation system and a bit of detective work, researchers hope to give old indecipherable languages a new voice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/mit-seeks-to-resurrect-dead-languages-with-machine-learning/",
+      "originalUrl": "https://www.cnet.com/news/mit-seeks-to-resurrect-dead-languages-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/oIgSdZTaU-UxA48WUT70KtAh2ZM=/1200x630/2020/10/21/bbfec165-3dcb-4d55-b8aa-493c200f8cb2/gettyimages-1131558568.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/mit-seeks-to-resurrect-dead-languages-with-machine-learning/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/mit-seeks-to-resurrect-dead-languages-with-machine-learning/",
+      "publishedDateTime": "2020-10-21T15:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence.md",
       "title": "Nvidia makes a clean sweep of MLPerf predictions benchmark for artificial intelligence",
       "excerpt": "MLPerf benchmark tests are an opportunity for chip vendors, and system builders, to show how much performance they can achieve on a representative set of machine learning tasks. Nvidia capture top marks against Intel in all the tests.",
@@ -1304,49 +1356,6 @@
         "name": "Analytics Insight",
         "domain": "analyticsinsight.net",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-deep-learning-artificial-intelligence-keeps-an-eye-on-volcano-movements.md",
-      "title": "Deep learning artificial intelligence keeps an eye on volcano movements",
-      "excerpt": "Radar satellites can collect massive amounts of remote sensing data that can detect ground movements -- surface deformations -- at volcanoes in near real time. These ground movements could signal impending volcanic activity and unrest;",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2020/10/201015134215.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2020/10/201015134215.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T15:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

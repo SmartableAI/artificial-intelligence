@@ -2,30 +2,30 @@
 category: news
 title: "Where are self-driving cars? Here's why they're farther down the road"
 excerpt: "Autonomous vehicles are, alas, still in the future. Here's why you can’t buy a self-driving car today and a place you’re likely to find them first."
-publishedDateTime: 2020-11-14T20:30:00Z
-originalUrl: "https://tucson.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_ae18bc03-6f55-5696-bbff-0e24130b0599.html"
-webUrl: "https://tucson.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_ae18bc03-6f55-5696-bbff-0e24130b0599.html"
-ampWebUrl: "https://tucson.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_ae18bc03-6f55-5696-bbff-0e24130b0599.amp.html"
-cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_ae18bc03-6f55-5696-bbff-0e24130b0599.amp.html"
+publishedDateTime: 2020-11-14T19:30:00Z
+originalUrl: "https://madison.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_93200060-e69c-5c17-b9ce-0c10fdb68ed3.html"
+webUrl: "https://madison.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_93200060-e69c-5c17-b9ce-0c10fdb68ed3.html"
+ampWebUrl: "https://madison.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_93200060-e69c-5c17-b9ce-0c10fdb68ed3.amp.html"
+cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_93200060-e69c-5c17-b9ce-0c10fdb68ed3.amp.html"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: Arizona Daily Star
-  domain: tucson.com
+  name: Madison.com
+  domain: madison.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/1/c9/1c98e1ac-23d8-5de6-932a-eb2f1df3be72/5fab0ac24a948.image.jpg?resize=1024%2C630"
+  - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/9/33/933152cb-77bd-5d9f-a48a-a5c7b024b7a3/5fab0a410bbb6.image.jpg?resize=1024%2C630"
     width: 1024
     height: 630
     isCached: true
 
-secured: "sb9nsEe2b4tfcbmieaoMrI1EvPXAx5vEgIXVyrKOgxkXHdJcUYQ/vfW3xRpEYfVF6b/OZ6wNA37H5abTlayxfglgoayuClrq33ktTuo1s3aitil+U+OLrPoj2d4i4g0oxYtzcYDccoJUOntpgzMKX01e7ARIDveX4evnTTA67UFMhMEDqxqzsGoK3ndoZFVmMOcK/omW+7Q15dtbGK3JLZlR/Vq0L3QDkxMJThmk15I4bkvYo8TPcJv7Wg1hFs2l0Q1KsAfnqCVjgrXJj30YMnf61Y1ETLV0ry0nrKSbftlDilrBViMwI8rRM4XLkeMWKvdpA0t93waycUPP0Cd1g/cKrChe2j2zY5GEXdaXR9w+ia+5bMflE6kmFHvLM6MICKnAFLy9sUGl79WuoUSb3WFgl7KpojRRsdgqfNXorHI/oB9bHcSe4fPsWzIAyIDOxlz1+hiUDhIMl78IfClPWzxBiTtAKjg/OovYgmthR01mVwj8s4iTIpWsjkmvPokqFzvngTnxGiwFPDMd2tGUxA==;xDG9gWGJ6E3ZK+X9QvC1lQ=="
+secured: "tWJkqSpU0b5KkZPRiON4zeIZRoOcBI5gfr4fyUQ6evcAiu3PGH2ECzORaEcl9bgSshipXJTW/RVNANLke+SlMBXTqOBMkTYC21YHPKZ3KpT+hn+SYNEfH0jhdm/5oYFWdyGf+XOZMdY+CTWxQADU8Xlj+Jve8V4d+VY/exnlbbhb7dFbZBo4OyGmMvO6O0ajH/oKmRprd2dn6lzjwr19mLWLD5VE2ZrPFV6Klzm4yHi8gZltDFGQsWZVzIW0qxoCsLKHD1uinSwxYCMyrvV3kDn2x3xD0CNQLRMobpK9Vr08B4CoXAHiNews4rMZ0oQfipxoIrHFvQJFN0IsA5eP64pmZDNP2ANqJ8i8AZ01KfE=;xQEQcEMUGb1a4jX2W0KO/A=="
 ---
 

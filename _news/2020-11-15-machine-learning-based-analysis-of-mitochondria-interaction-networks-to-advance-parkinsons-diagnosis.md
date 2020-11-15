@@ -28,19 +28,14 @@ images:
 
 related:
   - title: "Innovative machine-learning approach for future diagnostic advances in Parkinson's disease"
-    excerpt: "In a new study led by the Immune Systems Biology research group of the LIH Department of Infection and Immunity, researchers adopted a holistic machine-learning approach to elucidate how the interactions between neuronal mitochondria can serve as a powerful tool to distinguish nerve cells from Parkinson's patients from those belonging to healthy subjects,"
-    publishedDateTime: 2020-11-12T16:06:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/lioh-ima111220.php"
+    excerpt: "Researchers have adopted a holistic machine-learning approach to elucidate how the interactions between neuronal mitochondria can serve as a powerful tool to distinguish nerve cells from Parkinson's patients from those belonging to healthy subjects,"
+    publishedDateTime: 2020-11-13T02:24:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/11/201112113113.htm"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 14
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/248637_web.jpg"
-        width: 1440
-        height: 810
-        isCached: true
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 24
 
 secured: "XbHrWw4SFd7mdeg6SEm2FDUug5uz8FhMkNuGvnxIB9Mi5hlsr/HKlDfSZN8/BaroLjcI9Zi5rbgm8/lffB/mlOQg3VePT1gb/nrNaYPeR2GOjZmbLxeFf9FNiku4TdjZ1L5SH1IlitjIeJWExqL04IDTRdQX42f2sY6kTWGho5u3MEp2bYpfGywk3RZ6zqZC6Nr2sIxsVGpmfpDDGa2QK1Ipzp4rMkBeyrjm7n90UJaCG8PMuumZw18wyMvwwtPFn1EeJqE/YHwLGA94FbGtb4PW2b9R1hWJSw7iMOI6dZmcW7zcasKOSTqRGiwXiHR3zgJiJbpMWuIGxyHq9vnYdKgP0TxPwR/2Vk7UGGLh9EU=;uhrVXzbbrCfRIIpF2WkdkA=="
 ---

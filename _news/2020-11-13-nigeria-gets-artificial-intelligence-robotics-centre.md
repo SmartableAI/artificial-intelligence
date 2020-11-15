@@ -3,8 +3,8 @@ category: news
 title: "Nigeria gets Artificial Intelligence, Robotics Centre"
 excerpt: "Dr Isa Pantami, Minister of Communications and Digital Economy, on Friday in Abuja, inaugurated the National Centre for Artificial Intelligence and Robotics."
 publishedDateTime: 2020-11-13T15:09:00Z
-originalUrl: "https://guardian.ng/news/nigeria-gets-artificial-intelligence-robotics-centre/?echobox=twitter_post"
-webUrl: "https://guardian.ng/news/nigeria-gets-artificial-intelligence-robotics-centre/?echobox=twitter_post"
+originalUrl: "https://guardian.ng/news/nigeria-gets-artificial-intelligence-robotics-centre/"
+webUrl: "https://guardian.ng/news/nigeria-gets-artificial-intelligence-robotics-centre/"
 type: article
 quality: 69
 heat: -1
@@ -40,6 +40,22 @@ related:
       - url: "https://cdn.punchng.com/wp-content/uploads/2016/11/12194043/Dr.-Isa-Ali-Pantami.jpg"
         width: 600
         height: 402
+        isCached: true
+  - title: "Why we commissioned new AI, Robotics Centre in Abuja ― Pantami"
+    excerpt: "The Minister of Communications and Digital Economy, Dr Isa Ali Pantami says the new Centre for Artificial Intelligence and Robotics."
+    publishedDateTime: 2020-11-15T16:46:00Z
+    webUrl: "https://www.vanguardngr.com/2020/11/why-we-commissioned-new-ai-robotics-centre-in-abuja-―-pantami/"
+    ampWebUrl: "https://www.vanguardngr.com/2020/11/why-we-commissioned-new-ai-robotics-centre-in-abuja-%e2%80%95-pantami/amp/"
+    cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/11/why-we-commissioned-new-ai-robotics-centre-in-abuja-%e2%80%95-pantami/amp/"
+    type: article
+    provider:
+      name: Vanguard
+      domain: vanguardngr.com
+    quality: 89
+    images:
+      - url: "https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2019/07/Isa-Ibrahim-Pantami.jpg?fit=1500%2C1000&ssl=1"
+        width: 1500
+        height: 1000
         isCached: true
   - title: "FG set to commission National Centre for Artificial Intelligence and Robotics in Abuja"
     excerpt: "FG is set to commission the National Centre for Artificial Intelligence and Robotics in Abuja. The Federal Government of Nigeria, represented by the honorable Minister of Communication and Digital Economy,"
@@ -95,6 +111,6 @@ related:
       domain: sunnewsonline.com
     quality: 49
 
-secured: "4wnYHqqRHpyb5iX2YD6CXrOQBFccQZZb0ghk1vlSTBhThlQgvV6bZwhrQNj0QMGLqGads7zUdFQILrjO7dpGzOEQHPzJymlDUPr2SBN1UnLBe9WJJ2OjNV2zgm19QXv1zjo5zoes9Xzhr+zt+TFFrd5+cxthljGkUj6bezvmUDqIcmGXdl7P/ElYHXFrQePyaidHCvkr40k11EOPyFVwKO3KbB3LS3gPgV06R0uz2Peyx0wl7qvNNxpM7lsA5NFM3cYrHpjhFZo8HfQR8hoSz2Iz5xOk2V8BaYQcRRIzPA7bMHOfxM8Ot/aSTTP6b5LWDA3ExGM4C+Ie4hTaZe6Pz319n12Rn6Z5hV5sA2x3RKA=;8Jr8UKXRRlud/4eJaXzNbA=="
+secured: "3sSP9DATMtu//ESm5yzzLKRAn7uGPoL8SHrL86lQnamCGNdH9gKlwf828/kRDtuLLK5BpJ1Jwt95cnZywoMPh0H7OPBRwtid+G8gnK0nNylKuwbgANVwW1LerdRaljmtkkKTI0bY3RYxha5a0wc+6b8n6IlydRwz6ufKgA6W0P36tLGOMWVXNIbBDMXI0MW0Xmji5ops3oa5E4u0v8nVNUcWIjgaaMRKlUwn0qdf8kHYErDIlBqYO5zQUcdBx5Uy2hILaXxR/ZYWTwKSK0h94Y8ntplK4HcjtU8jt79fmX1VI1D/1n37qrtP8Yf6aIOVd9OOJ2RNvRs8xkKwp46U1b5ZiQNJiqWCZdIm6DrY6RE=;BdsE56JTBbNgHSx5W7qnww=="
 ---
 

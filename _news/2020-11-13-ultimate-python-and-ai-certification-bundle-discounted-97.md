@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ultimate-python-and-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ultimate-python-and-ai-certification-bundle-discounted-97/"
 type: article
 quality: 87
-heat: 98
+heat: 97
 published: true
 
 provider:

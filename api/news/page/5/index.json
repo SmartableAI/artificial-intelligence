@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-11-korean-payment-giants-danal-fintech-joins-icon-blockchain-ecosystem.md",
+      "title": "Korean Payment Giant’s Danal Fintech Joins ICON Blockchain Ecosystem",
+      "excerpt": "Danal Fintech, a subsidiary of Danal ( one of the largest payment companies in South Korea, today announced that they are joining the ICON blockchain ecosystem, the largest decentralized network in Korea by market capitalization.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/korean-payment-giant-s-danal-fintech-joins-icon-blockchain-ecosystem-1029791295",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/korean-payment-giant-s-danal-fintech-joins-icon-blockchain-ecosystem-1029791295",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Korean-Payment-Giant-s-Danal-Fintech-Joins-ICON-Blockchain-Ecosystem-1029791295",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Korean-Payment-Giant-s-Danal-Fintech-Joins-ICON-Blockchain-Ecosystem-1029791295",
+      "publishedDateTime": "2020-11-11T04:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-responsible-ai-becomes-critical-in-2021.md",
       "title": "Responsible AI becomes critical in 2021",
       "excerpt": "Responsible AI may already be a widely-discussed topic, but how many companies are actually putting its principles into practice?",
@@ -1206,48 +1249,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-apple-event-live-coverage-apple-silicon-macs-announced-full-transcript-of-event.md",
-      "title": "Apple Event Live Coverage: Apple Silicon Macs Announced! [Full Transcript of Event]",
-      "excerpt": "Apple's virtual \"One More Thing\" event kicks off today at 10:00 a.m. Pacific Time, with Apple expected to debut its first Mac",
-      "sourceUrl": null,
-      "webUrl": "https://www.youtube.com/watch?v=5AwdkGKmZ0I",
-      "originalUrl": "https://www.macrumors.com/2020/11/10/live-coverage-november-2020-apple-event/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5AwdkGKmZ0I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-10T10:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MacRumors",
-        "domain": "macrumors.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

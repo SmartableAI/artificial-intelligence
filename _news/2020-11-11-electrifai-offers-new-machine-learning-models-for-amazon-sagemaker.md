@@ -38,20 +38,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 101
-  - title: "Configuring Amazon SageMaker Studio for teams and groups with complete resource isolation"
-    excerpt: "Amazon SageMaker is a fully managed service that provides every machine learning (ML) developer and data scientist with the ability to build, train, and deploy ML models quickly. Amazon SageMaker Studio is a web-based, integrated development environment (IDE) for ML that lets you build, train, debug,"
-    publishedDateTime: 2020-11-11T00:56:37Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/configuring-amazon-sagemaker-studio-for-teams-and-groups-with-complete-resource-isolation/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 80
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/10/Configuring-Amazon-SageMaker-Studio-1.jpg"
-        width: 445
-        height: 330
-        isCached: true
 
 secured: "SeVFoM1yqHjXGel3dmKtPv3tV/h2arBZ1ptjROFNNpGrRVT5kB/wJpTiyld3mFOR41C1ZqKGyy3iqQ5AGtAlWJviam2s/zQdqi42Xj7dA+Xp+/mN+o9C22WSNKRv3WZQce4MmwTKFAcXdMLoYQsXWheHBA/kPdefir0l90gk9TE76lGUmPstIwpFVDhxc/F7asWQtmWKmIjJBK9VaoBvjjYSC8VrR0OfNCRSuRbmRUsM8Wa49qKRGocYEN2dlGaToPGlbxfr6frPw5kwc8U5psEYF4G7fvXRazBMMg4ggcA3Pjx2ksb+G28ahp712Wt7b+azXwOsv1tPqXB5scwVP4V9fk1a7iZ+y6Z1gq8RmTA=;/8CE0nYytW5iRDfNhy2K8A=="
 ---

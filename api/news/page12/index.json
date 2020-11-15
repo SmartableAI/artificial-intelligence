@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-11-04-nvidia-jetson-nano-2gb-brings-machine-learning-power-to-a-raspberry-pi-price-point.md",
+      "title": "NVIDIA Jetson Nano 2GB Brings Machine Learning Power To A Raspberry Pi Price Point",
+      "excerpt": "At just $59 at retailers like Amazon, Jetson Nano brings NVIDIA’s custom hybrid Arm core CPU and Maxwell GPU technologies down to a Raspberry Pi 4 price point that will be that much more accessible to academia,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2020/11/03/nvidia-jetson-nano-2gb-brings-machine-learning-power-to-a-raspberry-pi-price-point/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2020/11/03/nvidia-jetson-nano-2gb-brings-machine-learning-power-to-a-raspberry-pi-price-point/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa19f6ab1b1b304006898b3%2F0x0.jpg",
+          "width": 1000,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2020/11/03/nvidia-jetson-nano-2gb-brings-machine-learning-power-to-a-raspberry-pi-price-point/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2020/11/03/nvidia-jetson-nano-2gb-brings-machine-learning-power-to-a-raspberry-pi-price-point/amp/",
+      "publishedDateTime": "2020-11-03T10:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-researchers-show-that-computer-vision-algorithms-pretrained-on-imagenet-exhibit-multiple-distressing-biases.md",
       "title": "Researchers show that computer vision algorithms pretrained on ImageNet exhibit multiple, distressing biases",
       "excerpt": "A growing number of computer vision methods are unsupervised, meaning they leverage no labels during training; with fine-tuning, practitioners pair general-purpose representations with labels from ...",
@@ -771,6 +823,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-03-3d-printed-hearts-self-driving-buses-and-robots.md",
+      "title": "3D-printed hearts, self-driving buses, and robots",
+      "excerpt": "Technologies that were still largely in development or limited rollout a year ago are now becoming commonplace, including self-driving cleaning robots and automation in areas like fast food and delivery.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/3d-printed-hearts-self-driving-buses-and-robots/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/3d-printed-hearts-self-driving-buses-and-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/11/10/07208353-fb0d-47b6-9ee2-cf1e5187da72/thumbnail/1200x675/f1a4870b956081c4e283fce35e40c0d1/robotic-nannies-selfdriving-school-buses-5fa33201eafdf2701d53be8e-1-nov-10-2020-18-13-55-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/3d-printed-hearts-self-driving-buses-and-robots/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/3d-printed-hearts-self-driving-buses-and-robots/",
+      "publishedDateTime": "2020-11-03T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-walmart-is-giving-up-on-shelf-scanning-robots-in-favor-of-humans.md",
       "title": "Walmart is giving up on shelf-scanning robots in favor of humans",
       "excerpt": "Walmart began using robots supplied by Bossa Nova Robotics in 2017, with initial deployments in 50 locations. The mobile robots would simplify routine work in stores, said the company, using machine vision to scan shelves and identify what products needed restocking.",
@@ -1086,101 +1190,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-elon-musk-raises-price-of-teslas-full-self-driving-package-to-10000-usd.md",
-      "title": "Elon Musk Raises Price of Tesla's Full Self-Driving Package to $10,000 USD",
-      "excerpt": "Following through with what Elon Musk has said before, the CEO of Tesla has now announced a price hike for the EV automaker’s Full Self-Driving (FSD) package, bringing it up by $2,000 USD to $10,000 USD.",
-      "sourceUrl": null,
-      "webUrl": "https://hypebeast.com/2020/11/tesla-elon-musk-full-self-driving-10000-usd-price-increase-news",
-      "originalUrl": "https://hypebeast.com/2020/11/tesla-elon-musk-full-self-driving-10000-usd-price-increase-news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F11%2Ftesla-elon-musk-full-self-driving-10000-usd-price-increase-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max",
-          "width": 1170,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hypebeast.com/2020/11/tesla-elon-musk-full-self-driving-10000-usd-price-increase-news?amp=1",
-      "cdnAmpWebUrl": "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/11/tesla-elon-musk-full-self-driving-10000-usd-price-increase-news?amp=1",
-      "publishedDateTime": "2020-11-02T22:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hypebeast",
-        "domain": "hypebeast.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-3d-printed-hearts-self-driving-buses-and-robots.md",
-      "title": "3D-printed hearts, self-driving buses, and robots",
-      "excerpt": "Technologies that were still largely in development or limited rollout a year ago are now becoming commonplace, including self-driving cleaning robots and automation in areas like fast food and delivery.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/3d-printed-hearts-self-driving-buses-and-robots/",
-      "originalUrl": "https://www.zdnet.com/article/3d-printed-hearts-self-driving-buses-and-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/11/10/07208353-fb0d-47b6-9ee2-cf1e5187da72/thumbnail/1200x675/f1a4870b956081c4e283fce35e40c0d1/robotic-nannies-selfdriving-school-buses-5fa33201eafdf2701d53be8e-1-nov-10-2020-18-13-55-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/3d-printed-hearts-self-driving-buses-and-robots/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/3d-printed-hearts-self-driving-buses-and-robots/",
-      "publishedDateTime": "2020-11-02T20:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

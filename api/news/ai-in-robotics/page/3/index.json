@@ -2,41 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-10-28-7-ai-stocks-to-buy-as-automation-advances.md",
-      "title": "7 AI Stocks to Buy as Automation Advances",
-      "excerpt": "However, Waymo is actually rolling out the self ... In any regard, Trimble has multiple end markets that can be disrupted via artificial intelligence and machine learning. Trimble says, We ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28",
-      "originalUrl": "https://www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28?amp",
-      "publishedDateTime": "2020-10-28T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2020-10-28-the-best-robo-advisors-of-november-2020.md",
       "title": "The best robo-advisors of November 2020",
       "excerpt": "Robo-advisors are online financial investment platforms that create and manage an investment portfolio based on your individual needs and financial goals, no human advisor required. You don't need to have a lot of investing know-how.",
@@ -1370,6 +1335,50 @@
         "AI in Finance",
         "AI",
         "Machine Learning",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-torc-robotics-scaling-self-driving-fleet-with-daimler-trucks.md",
+      "title": "Torc Robotics Scaling Self Driving Fleet with Daimler Trucks",
+      "excerpt": "Torc Robotics will scale its self-driving truck testing in the Southwest in early 2021 using an enhanced prototype truck developed with Daimler Trucks North America. This new generation of ...",
+      "sourceUrl": null,
+      "webUrl": "https://steelguru.com/auto/torc-robotics-scaling-self-driving-fleet-with-daimler-trucks/564415",
+      "originalUrl": "https://steelguru.com/auto/torc-robotics-scaling-self-driving-fleet-with-daimler-trucks/564415",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://steelguru.com/images/ad_image/Go-for-Gold_500x250.gif",
+          "width": 500,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-19T23:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Steel News",
+        "domain": "steelguru.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
         "AI in Robotics"
       ]
     }
