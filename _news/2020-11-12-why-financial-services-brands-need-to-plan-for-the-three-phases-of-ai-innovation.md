@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Discover the two winners of the Unicancer Innovation Award for Artificial Intelligence and Data Sciences"
+    excerpt: "This week’s Unicancer Innovation Award Ceremony was held at the National Convention of Cancer Centres (NCCC). For its sixth edition, Unicancer focused on a single category: Artificial Intelligence (AI) and Data Sciences."
+    publishedDateTime: 2020-11-13T14:41:00Z
+    webUrl: "https://www.actuia.com/english/discover-the-two-winners-of-the-unicancer-innovation-award-for-artificial-intelligence-and-data-sciences/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 20
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2020/11/Unicancer.jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "China's Plan to Dominate the U.S. With Artificial Intelligence in the Next Decades"
     excerpt: "David P. Goldman joins The John Batchelor Show to discuss the PRC's aims to dominate the U.S. with AI in the next decades and what is to be done."
     publishedDateTime: 2020-11-12T22:49:00Z

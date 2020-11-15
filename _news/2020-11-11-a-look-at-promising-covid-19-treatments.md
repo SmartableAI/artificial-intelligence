@@ -80,20 +80,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 41
-  - title: "Drug companies deliver a vote of confidence in adaptive trial for Covid-19"
-    excerpt: "A novel clinical trial that uses AI to rapidly compare Covid-19 treatments has attracted participation from two major drug companies."
-    publishedDateTime: 2020-11-10T09:48:00Z
-    webUrl: "https://www.statnews.com/2020/11/10/adaptive-trials-covid19-amgen-eisai/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 22
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2018/10/STAT_Amgen02-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Students searching for internships during the COVID pandemic must be prepared for AI-driven interviews"
     excerpt: "We believe that every college and university student and recent graduate deserves a great part-time, seasonal, internship, and entry-level job!"
     publishedDateTime: 2020-11-12T21:50:00Z

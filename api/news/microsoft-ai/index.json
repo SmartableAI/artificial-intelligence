@@ -10,7 +10,7 @@
       "originalUrl": "https://www.openpr.com/news/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -255,6 +255,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-10-aveva-expands-its-collaboration-with-microsoft-with-a-focus-on-cloud-and-ai-to-drive-digital-transformation-in-the-manufacturing-and-energy-industries.md",
+      "title": "AVEVA expands its collaboration with Microsoft with a focus on cloud and AI to drive digital transformation in the manufacturing and energy industries",
+      "excerpt": "AVEVA to Collaborate with Microsoft to Provide Cloud Platform and Domain Expertise for Industrial Sector Organizations",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/AVEVA_expands_its_collaboration_with_Microsoft_with_a_focus_on_cloud_and_AI_to_drive_digital_transformation_in_the_manufacturing_and_energy_industries-ZAWYA20201110052411/",
+      "originalUrl": "https://www.zawya.com/mena/en/press-releases/story/AVEVA_expands_its_collaboration_with_Microsoft_with_a_focus_on_cloud_and_AI_to_drive_digital_transformation_in_the_manufacturing_and_energy_industries-ZAWYA20201110052411/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.zawya.com/pr/images/2020/VEVA_2020_11_10.jpg",
+          "width": 450,
+          "height": 318,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20201110052411/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20201110052411/",
+      "publishedDateTime": "2020-11-09T21:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-09-ibm-microsoft-and-the-future-of-healthcare.md",
       "title": "IBM, Microsoft, and the Future of Healthcare",
       "excerpt": "IBM focused its Watson AI on providing medical professionals with diagnostic tools allowing them to diagnose even the most mysterious illnesses more accurately. Simultaneously, Microsoft recently ...",
@@ -417,6 +460,49 @@
       "provider": {
         "name": "eTurboNews",
         "domain": "eturbonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-splice-machine-announces-livewire-the-operational-ai-platform-designed-for-industrial-use-cases.md",
+      "title": "Splice Machine Announces Livewire, the Operational AI Platform Designed for Industrial Use Cases",
+      "excerpt": "PRNewswire/ -- Splice Machine, the only scale-out SQL database with built-in machine learning, today announced Livewire, its new open source Operational AI platform for industrial IoT use cases. Livewire is the first combined data and AI platform designed to alert plant operators of likely outages or performance degradation soon enough for them to take remedial action to avoid outages and improve performance.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-cloud-computing-14e5ed2ceba320204efcda0da779e905",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-cloud-computing-14e5ed2ceba320204efcda0da779e905",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-04T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1090,6 +1176,40 @@
       ]
     },
     {
+      "path": "_news/2020-10-28-global-cognitive-computing-market-2020-business-strategies-cognitive-scale-ibm-corporation-google-palantir-technologies.md",
+      "title": "Global Cognitive Computing Market 2020 Business Strategies – Cognitive Scale, IBM Corporation, Google, Palantir Technologies",
+      "excerpt": "Major Market Players Included in this Report is: Cognitive Scale, IBM Corporation, Google, Palantir Technologies, Microsoft Corporation, Enterra Solutions, and Numenta. The global Cognitive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2174272/global-cognitive-computing-market-2020-business-strategies",
+      "originalUrl": "https://www.openpr.com/news/2174272/global-cognitive-computing-market-2020-business-strategies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2174272/global-cognitive-computing-market-2020-business-strategies",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2174272/global-cognitive-computing-market-2020-business-strategies",
+      "publishedDateTime": "2020-10-28T02:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-intel-geospatial-is-a-cloud-platform-for-ai-powered-imagery-analytics.md",
       "title": "Intel Geospatial is a cloud platform for AI-powered imagery analytics",
       "excerpt": "Moreover, satellite imagery and the AI algorithms trained to analyze it ... visualize geospatial data in BigQuery. Microsoft offers Azure Maps, a set of geospatial APIs to add spatial analytics ...",
@@ -1288,146 +1408,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-bdo-expands-its-managed-detection-and-response-capabilities-to-support-microsoft-azure-sentinel-clients-and.md",
-      "title": "BDO Expands its Managed Detection and Response Capabilities to Support Microsoft Azure Sentinel Clients and ...",
-      "excerpt": "BDO USA, LLP, one of the nation’s leading accounting and advisory firms, is launching its managed detection and response (MDR) capabilities on Microsoft Azure Sentinel. This expansion of its current MDR portfolio will support Azure Sentinel clients through BDO’s detection and response services,",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailyrecordnews.com/ap_news/business/bdo-expands-its-managed-detection-and-response-capabilities-to-support-microsoft-azure-sentinel-clients-and/article_64b345bf-344a-53b7-816e-43b32ba52bdb.html",
-      "originalUrl": "https://www.dailyrecordnews.com/ap_news/business/bdo-expands-its-managed-detection-and-response-capabilities-to-support-microsoft-azure-sentinel-clients-and/article_64b345bf-344a-53b7-816e-43b32ba52bdb.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/dailyrecordnews.com/content/tncms/custom/image/0ef5f48e-94dc-11e7-8ed4-3365baf52acf.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-26T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ellensburg Daily Record",
-        "domain": "dailyrecordnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-c3ai-microsoft-and-adobe-combine-forces-to-re-invent-crm-with-ai.md",
-      "title": "C3.ai, Microsoft, and Adobe combine forces to re-invent CRM with AI",
-      "excerpt": "Integrate Microsoft Dynamics 365, Adobe Experience Cloud (including Adobe Experience Platform), and C3.ai’s industry-specific data models, connectors, and AI models, in a joint go-to-market offering designed to provide an integrated suite of industry ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/2020/10/26/c3-ai-microsoft-and-adobe-combine-forces-to-re-invent-crm-with-ai/",
-      "originalUrl": "https://news.microsoft.com/2020/10/26/c3-ai-microsoft-and-adobe-combine-forces-to-re-invent-crm-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-26T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-from-beekeepers-to-ocean-mappers-lobe-aims-to-make-it-easy-for-anyone-to-train-machine-learning-models.md",
-      "title": "From beekeepers to ocean mappers, Lobe aims to make it easy for anyone to train machine learning models",
-      "excerpt": "The post From beekeepers to ocean mappers, Lobe aims to make it easy for anyone to train machine learning models appeared first on The AI Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://blogs.microsoft.com/ai/lobe-machine-learning/",
-      "originalUrl": "https://blogs.microsoft.com/ai/lobe-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/10/lobe-machine-learning-toyon_1200x630-5f96ba640f2e5-1024x538.jpg",
-          "width": 1024,
-          "height": 538,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-26T05:59:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Machine Learning"
       ]
     }
   ],

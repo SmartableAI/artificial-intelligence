@@ -2,6 +2,48 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-11-07-remote-testing-monitored-by-ai-is-failing-the-students-forced-to-undergo-it.md",
+      "title": "Remote testing monitored by AI is failing the students forced to undergo it",
+      "excerpt": "While automated proctoring might seem like a panacea in this age of virtual schooling, it’s a terrible solution for millions of students.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/think/opinion/remote-testing-monitored-ai-failing-students-forced-undergo-it-ncna1246769",
+      "originalUrl": "https://www.nbcnews.com/think/opinion/remote-testing-monitored-ai-failing-students-forced-undergo-it-ncna1246769",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_45/3426603/201106-standardized-test-bubbles-jm-1744_c97a4fdf84e74f6c398cbb518f464821.jpg",
+          "width": 1483,
+          "height": 989,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1246769",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1246769",
+      "publishedDateTime": "2020-11-07T01:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-07-millennial-indian-parents-consider-adoption-of-robot-nanny-survey.md",
       "title": "Millennial Indian Parents Consider Adoption Of Robot Nanny: Survey",
       "excerpt": "More than three-quarters of parents in India agree that having a robot nanny to help their children do their homework would alleviate a significant amount of their COVID-19-related stress",
@@ -1178,50 +1220,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-self-driving-startup-ponyai-gets-funding-from-chinas-faw.md",
-      "title": "Self-Driving Startup Pony.ai Gets Funding From China’s FAW",
-      "excerpt": "After receiving a $400 million investment from Toyota earlier this year, self-driving startup Pony.ai has just struck another agreement with the Chinese FAW Group. This is the first strategic investment by a Chinese state-owned car company into an autonomous tech firm,",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2020/11/self-driving-startup-pony-ai-gets-funding-from-chinas-faw/",
-      "originalUrl": "https://www.carscoops.com/2020/11/self-driving-startup-pony-ai-gets-funding-from-chinas-faw/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2020/11/pony-ai-gets-funding-from-faw-group-2-1024x555.jpg",
-          "width": 1024,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2020/11/self-driving-startup-pony-ai-gets-funding-from-chinas-faw/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/11/self-driving-startup-pony-ai-gets-funding-from-chinas-faw/amp/",
-      "publishedDateTime": "2020-11-06T05:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

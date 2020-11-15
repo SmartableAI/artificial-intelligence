@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Image Recognition Market is Gaining Momentum with key players Google, IBM, Intel, Microsoft"
-    excerpt: "Latest Report Available at Advance Market Analytics, \"AI Image Recognition Market\" provides pin-point analysis for"
-    publishedDateTime: 2020-11-10T09:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-image-recognition-market-is-gaining-momentum-with-key-players-google-ibm-intel-microsoft-2020-11-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 74
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft Custom Translator pushes the translation quality bar closer to human parity"
     excerpt: "The Custom Translator journey to be on the leading edge of machine translation technology continues. In early August 2020, we started our Custom Translator upgrade from Long Short-Term Memory (aka LSTM) based neural machine translation architecture (or V1) to our Microsoft Translator’s state-of-the-art Transformer based architecture (or V2)."
     publishedDateTime: 2020-11-12T21:57:00Z

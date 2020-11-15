@@ -2,21 +2,21 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-08-31-infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event.md",
-      "title": "Infoworks DataFoundry to be Featured at Databricks Microsoft Azure Event",
-      "excerpt": "Unifying Data Pipelines, Business Analytics and Machine Learning with Apache Spark ... production environments from Hadoop to Microsoft Azure Databricks. “AMN has realized significant ...",
+      "path": "_news/2020-09-25-10-mlops-platforms-to-manage-the-machine-learning-lifecycle.md",
+      "title": "10 MLops platforms to manage the machine learning lifecycle",
+      "excerpt": "We’ve identified several cloud platforms and frameworks for managing the machine learning lifecycle. These currently include Algorithmia, Amazon SageMaker, Azure Machine Learning, Domino Data ...",
       "sourceUrl": null,
-      "webUrl": "https://www.oaoa.com/news/business/infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event/article_17bbac33-e0ae-5641-a446-99481cb5d234.html",
-      "originalUrl": "https://www.oaoa.com/news/business/infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event/article_17bbac33-e0ae-5641-a446-99481cb5d234.html",
+      "webUrl": "https://www.arnnet.com.au/article/683217/10-mlops-platforms-manage-machine-learning-lifecycle/",
+      "originalUrl": "https://www.arnnet.com.au/article/683217/10-mlops-platforms-manage-machine-learning-lifecycle/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png",
-          "width": 576,
-          "height": 288,
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/m.jpg",
+          "width": 700,
+          "height": 500,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +26,55 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-31T09:18:00-07:00",
+      "publishedDateTime": "2020-09-24T21:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.md",
+      "title": "Microsoft Ignite showcases first Project Cortex AI tool for SharePoint",
+      "excerpt": "Civil engineering firm Mott McDonald has been testing SharePoint Syntex, the first product to come out of Microsoft’s Project Cortex proving ground for AI-based content management tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.html",
+      "originalUrl": "https://www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/09/multiple-exposure_profile_with_gears_overlaying_and_representing_the_brain_thought_intelligence_brainstorming_strategy_by_metamorworks_gettyimages-994767724_2400x1600-100858219-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.amp.html",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3575861/microsoft-ignite-showcases-first-project-cortex-ai-tool-for-sharepoint.amp.html",
+      "publishedDateTime": "2020-09-24T18:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -45,55 +89,21 @@
       ]
     },
     {
-      "path": "_news/2020-08-31-microsoft-azure-now-available-at-swisscom-cloud-portfolio-for-smes.md",
-      "title": "Microsoft Azure now available at Swisscom cloud portfolio for SMEs",
-      "excerpt": "(PRESS RELEASE) BERN, 31-Aug-2020 — /EuropaWire/ — Swisscom (SWX: SCMN), a major telecommunications provider in Switzerland majority owned by the Swiss Go",
+      "path": "_news/2020-09-24-microsoft-announces-azure-communication-services.md",
+      "title": "Microsoft announces Azure Communication Services",
+      "excerpt": "It also enables developers to easily tap into other Azure services, such as Azure Cognitive Services for ... and GDPR (in the EU),\" Microsoft said in a statement on Wednesday.",
       "sourceUrl": null,
-      "webUrl": "https://news.europawire.eu/microsoft-azure-now-available-at-swisscom-cloud-portfolio-for-smes/eu-press-release/2020/08/31/15/23/49/81419/",
-      "originalUrl": "https://news.europawire.eu/microsoft-azure-now-available-at-swisscom-cloud-portfolio-for-smes/eu-press-release/2020/08/31/15/23/49/81419/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news.europawire.eu/microsoft-azure-now-available-at-swisscom-cloud-portfolio-for-smes/eu-press-release/2020/08/31/15/23/49/81419/amp/",
-      "cdnAmpWebUrl": "https://news-europawire-eu.cdn.ampproject.org/c/s/news.europawire.eu/microsoft-azure-now-available-at-swisscom-cloud-portfolio-for-smes/eu-press-release/2020/08/31/15/23/49/81419/amp/",
-      "publishedDateTime": "2020-08-31T06:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EuropaWire",
-        "domain": "europawire.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-what-can-i-do-with-machine-learning-studio-classic.md",
-      "title": "What can I do with Machine Learning Studio (classic)?",
-      "excerpt": "Machine Learning Studio (classic) is a drag-and-drop tool for quickly building models from a library of ready-to-use algorithms and modules.",
-      "sourceUrl": null,
-      "webUrl": "https://docs.microsoft.com/en-us/azure/machine-learning/studio/studio-classic-overview",
-      "originalUrl": "https://docs.microsoft.com/en-us/azure/machine-learning/studio/studio-classic-overview",
+      "webUrl": "https://www.sify.com/finance/microsoft-announces-azure-communication-services-news-topnews-ujyeO9fgegihh.html",
+      "originalUrl": "https://www.sify.com/finance/microsoft-announces-azure-communication-services-news-topnews-ujyeO9fgegihh.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://docs.microsoft.com/en-us/azure/machine-learning/studio/media/what-is-ml-studio/azure-ml-studio-diagram.jpg",
-          "width": 780,
-          "height": 459,
+          "url": "https://www.sify.com/uploads/microsoft_ap_uitr0fihdhehb.jpeg",
+          "width": 950,
+          "height": 633,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -103,63 +113,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-27T22:10:00-07:00",
+      "publishedDateTime": "2020-09-24T03:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-28-solidus-strike-gold-with-100m-contract-and-partnership-with-microsoft.md",
-      "title": "Solidus strike gold with €100m contract and partnership with Microsoft",
-      "excerpt": "The World as we know it is forever and progressively evolving, and thus has become more reliant on technology for our day to day",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/solidus-strike-gold-with-100m-contract-and-partnership-with-microsoft-301120002.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/solidus-strike-gold-with-100m-contract-and-partnership-with-microsoft-301120002.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-27T12:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Sify.com",
+        "domain": "sify.com",
         "images": null,
         "publishers": null,
         "authors": null

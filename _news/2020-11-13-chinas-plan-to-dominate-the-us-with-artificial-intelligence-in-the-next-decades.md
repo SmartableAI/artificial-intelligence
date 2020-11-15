@@ -32,6 +32,20 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Discover the two winners of the Unicancer Innovation Award for Artificial Intelligence and Data Sciences"
+    excerpt: "This week’s Unicancer Innovation Award Ceremony was held at the National Convention of Cancer Centres (NCCC). For its sixth edition, Unicancer focused on a single category: Artificial Intelligence (AI) and Data Sciences."
+    publishedDateTime: 2020-11-13T14:41:00Z
+    webUrl: "https://www.actuia.com/english/discover-the-two-winners-of-the-unicancer-innovation-award-for-artificial-intelligence-and-data-sciences/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 20
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2020/11/Unicancer.jpg"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "JrQW8CpAVwGx1yyRyCLkP+15Kx6k7D7KiRJO90S3BBTNr4D3SbCwwL1K0zGgBw+ecDc2VLHKYgcasf7PPICSHzSsWD9AMgtIGa1JXTe8xmv+GqR5668MtV/fjfOfBV9fToyrWTblQMWvsZYf0W20kAr21sCy9WiNs60zwDDdnzxPBjBd+wG/V2Qa5DOpx1UvJrkQmG6rN0IXcylT7ycp3cXeutRWBZqvbiSud3Vbg2wvEmpIQ3EymPWpswqXrPWFqWOawgSV62Wr4HdldKsGsCm8oMDo67hW3+7l7kNMB5Totvc5JuJppwDzbuQ7meGk8fAmpQTMClCeaBtlDxahQD31JM+MUNomDrnmBnbETKp3OOzPIoZIQnBjDjWr6McY5MRySyrjhj6lTUWQNRxw+MDNaMQbIrba5GOfyiMkwJVF3jlmRxrHk26JQR5XPhcIdROwtjPBZ+qyjoGbDnJacSKv5mxzHqbC8s7AZXB+htdgcI5r6BYNXMURfqEm1zlYD32yNSGBV/3LTIT3a51GUw==;qEBPzb9QvjPPRhjtil2mSw=="
 ---

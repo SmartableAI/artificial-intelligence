@@ -2,6 +2,109 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-10-16-minneapolis-will-consider-facial-recognition-ban.md",
+      "title": "Minneapolis Will Consider Facial Recognition Ban",
+      "excerpt": "The motion could signal a wave of reforms over the use of military and surveillance equipment following the killing of George Floyd by Minneapolis police.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en_us/article/epdgdj/minneapolis-will-consider-facial-recognition-ban",
+      "originalUrl": "https://www.vice.com/en_us/article/epdgdj/minneapolis-will-consider-facial-recognition-ban",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com//articles/5f88c3d9132c4c00955e9a51/lede/1602798956435-gettyimages-1214222455.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NjkyNjk1MTE0MjEzMTk4eGg7Y2VudGVyLGNlbnRlciZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-16T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-google-search-is-getting-a-new-ai-powered-spell-checker.md",
+      "title": "Google Search is getting a new AI-powered spell checker",
+      "excerpt": "Google has announced a range of AI-powered enhancements to its search engine, including a new algorithm that improves spelling corrections.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/10/16/google-search-is-getting-a-new-ai-powered-spell-checker/",
+      "originalUrl": "https://thenextweb.com/neural/2020/10/16/google-search-is-getting-a-new-ai-powered-spell-checker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-16T114024.500-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/10/16/google-search-is-getting-a-new-ai-powered-spell-checker/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/16/google-search-is-getting-a-new-ai-powered-spell-checker/amp/",
+      "publishedDateTime": "2020-10-16T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-machine-learning-depends-on-data-scientists-to-handle-the-ml-configurations-and-data-inputs.md",
       "title": "Machine learning depends on data scientists to handle the ML configurations and data inputs",
       "excerpt": "AutoML addresses the challenges of machine learning analysis by eliminating labor intensive tasks and undertakes the automation of machine learning applications to create better ML models",
@@ -1054,93 +1157,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-velodyne-is-poised-to-be-a-winning-self-driving-play.md",
-      "title": "Velodyne Is Poised to Be a Winning Self-Driving Play",
-      "excerpt": "The validation of Velodyne's technology by multiple, large companies and the positive outlook for LIDAR make Velodyne stock a buy.",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2020/10/velodyne-stock-poised-to-be-a-winning-self-driving-play/",
-      "originalUrl": "https://investorplace.com/2020/10/velodyne-stock-poised-to-be-a-winning-self-driving-play/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2020/10/velodyne-stock-poised-to-be-a-winning-self-driving-play/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/10/velodyne-stock-poised-to-be-a-winning-self-driving-play/amp/",
-      "publishedDateTime": "2020-10-15T13:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-processing-auto-insurance-claims-at-scale-using-amazon-rekognition-custom-labels-and-amazon-sagemaker-ground-truth.md",
-      "title": "Processing auto insurance claims at scale using Amazon Rekognition Custom Labels and Amazon SageMaker Ground Truth",
-      "excerpt": "Computer vision uses machine learning (ML) to build applications that process images or videos. With Amazon Rekognition, you can use pre-trained computer vision models to identify objects, people, text, activities, or inappropriate content. Our customers have use cases that span every industry, including",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-custom-amazon-rekognition-model-using-labels-from-amazon-sagemaker-ground-truth/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-custom-amazon-rekognition-model-using-labels-from-amazon-sagemaker-ground-truth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/14/1-Architecture.jpg",
-          "width": 900,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T13:01:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     }
   ],

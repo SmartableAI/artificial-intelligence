@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-10-22-ben-gurion-university-researchers-develop-machine-learning-platform-to-streamline-clinical-trials.md",
-      "title": "Ben-Gurion University Researchers Develop Machine Learning Platform to Streamline Clinical Trials",
-      "excerpt": "Gurion University of the Negev (BGU) have developed a novel platform to streamline clinical trials, lower costs, and increase the efficiency and success rate of the drug or medical device development process.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ben-gurion-university-researchers-develop-machine-learning-platform-to-streamline-clinical-trials-1029704317",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ben-gurion-university-researchers-develop-machine-learning-platform-to-streamline-clinical-trials-1029704317",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1317229/BGN_Technologies_Boaz_Lerner.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-21T15:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-22-mit-seeks-to-resurrect-dead-languages-with-machine-learning.md",
       "title": "MIT seeks to resurrect 'dead' languages with machine learning",
       "excerpt": "By implementing a new translation system and a bit of detective work, researchers hope to give old indecipherable languages a new voice.",
@@ -1365,6 +1313,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-machine-learning-depends-on-data-scientists-to-handle-the-ml-configurations-and-data-inputs.md",
+      "title": "Machine learning depends on data scientists to handle the ML configurations and data inputs",
+      "excerpt": "AutoML addresses the challenges of machine learning analysis by eliminating labor intensive tasks and undertakes the automation of machine learning applications to create better ML models",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/automl-alleviates-process-machine-learning-analysis/",
+      "originalUrl": "https://www.analyticsinsight.net/automl-alleviates-process-machine-learning-analysis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2020/10/Machine-Learning-4.jpg",
+          "width": 1680,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-16T04:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,58 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-10-29-deep-learning-market-2020-global-report-explores-covid-19-impact-trend-segmentation-and-opportunities-forecast-to-2026.md",
+      "title": "Deep Learning Market 2020 Global report explores COVID-19 impact, trend, segmentation and opportunities, forecast to 2026",
+      "excerpt": "Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2020-global-report-explores-covid-19-impact-trend-segmentation-and-opportunities-forecast-to-2026-2020-10-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2020-global-report-explores-covid-19-impact-trend-segmentation-and-opportunities-forecast-to-2026-2020-10-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T20:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-emerging-technologies-that-will-advance-the-retail-industry.md",
       "title": "Emerging technologies that will advance the retail industry",
       "excerpt": "Services include natural language processing (NLP), sentiment analysis, image recognition and autoML model creation. Companies that began their digital transformations early in the pandemic are ...",
@@ -1122,49 +1174,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-ibm-study-ai-driven-virtual-agents-can-drive-customer-satisfaction-and-cost-savings-amid-covid-19.md",
-      "title": "IBM Study: AI-driven Virtual Agents Can Drive Customer Satisfaction and Cost Savings Amid COVID-19",
-      "excerpt": "As many organizations across the world look to digital tools to help address surges in customer inquiries due to the COVID-19 pandemic, a new IBM study revealed 99% of respondents report an increase in customer satisfaction as a result of using AI-driven virtual agent technology.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-virus-outbreak-lung-disease-health-diseases-and-conditions-8d2b93a339b25c986b3c3dd0262b9e5d/gallery/140d2107145ac6b5139433ecb79ed8c0",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-virus-outbreak-lung-disease-health-diseases-and-conditions-8d2b93a339b25c986b3c3dd0262b9e5d/gallery/140d2107145ac6b5139433ecb79ed8c0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

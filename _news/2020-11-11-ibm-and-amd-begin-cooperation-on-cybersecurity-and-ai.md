@@ -84,19 +84,14 @@ related:
         height: 630
         isCached: true
   - title: "IBM and AMD Announce Joint Development Agreement to Advance Confidential Computing for the Cloud and Accelerate Artificial Intelligence"
-    excerpt: "PRNewswire/ -- IBM (NYSE: IBM) and AMD (NASDAQ: AMD) today announced a multi-year joint development agreement to enhance and extend the security and Artificial Intelligence (AI) offerings of both companies."
-    publishedDateTime: 2020-11-11T06:00:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20201111ny87572/ibm-and-amd-announce-joint-development-agreement-to-advance-confidential-computing-for-the-cloud-and-accelerate-artificial-intelligence"
+    excerpt: "\"IBM is focused on giving our clients choice, agility and security in our hybrid cloud offerings through advanced research, development and scaling of new technologies.\" \"This agreement between AMD and IBM aligns well with our long-standing commitment to collaborating with leaders in the industry,"
+    publishedDateTime: 2020-11-11T12:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/ibm-and-amd-announce-joint-development-agreement-to-advance-confidential-computing"
     type: article
     provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 5
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 17
 
 secured: "esJpuYq73/O3lumTckhxj/fpMHt52r5pxFKMG/pqfC3uzwFVEjk4BCOfotxWheiH3g8yc/VCjyEFIMVU7q6KewWcteBbk14tDs0kzV8n2c/txzJSg8EGAMDDh1CGaYhOwJ/QmonuOxOLuD4cXFEoUWS3da9YejlycqGDMUzG2XUaMu02ivngIuOEDBH29ZBtOneMx6rqfB1Fff/JhfR7VesFFNGlxQEAOhjrbT0+3dpGVh8lBTHqyOLfTLrFf0PO20dr6UMKDctJrhg/JAtweFWUc5B3LaIlSJqNCXLcESea3lykQSZgOf4iiGE8sM1zVuwlqgoosSrYIrd3x0wZxKgoX1XJd4vdVEIFi1RIMb0zaTnet/onU96fmK6SLTK7fbg6G3x7CgLnYlBXSuFu8tW+humrusUuMvrDCWyimVrAqcPkK8pKwqJCi6AK6IVf9QfJKe4YtGudlLcLBg5O0+3ug5VMtDwOge+QcjSHjvduGnw364ANx+IrGzwpgysU13E9GFcocgXYBCnspf02HQ==;Pct6p8DBz+zk/stigFnJYw=="
 ---

@@ -1,30 +1,34 @@
 ---
 category: news
 title: "Amazon shifts some voice assistant, face recognition computing to its own chips"
-excerpt: "First announced in 2018, the Amazon chip is custom-designed to speed up large volumes of machine learning tasks such as translating text to speech or recognising images"
-publishedDateTime: 2020-11-13T06:31:00Z
-originalUrl: "https://www.thehindu.com/sci-tech/technology/gadgets/amazon-shifts-some-voice-assistant-face-recognition-computing-to-its-own-chips/article33090976.ece"
-webUrl: "https://www.thehindu.com/sci-tech/technology/gadgets/amazon-shifts-some-voice-assistant-face-recognition-computing-to-its-own-chips/article33090976.ece"
-ampWebUrl: "https://www.thehindu.com/sci-tech/technology/gadgets/amazon-shifts-some-voice-assistant-face-recognition-computing-to-its-own-chips/article33090976.ece/amp/"
-cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/gadgets/amazon-shifts-some-voice-assistant-face-recognition-computing-to-its-own-chips/article33090976.ece/amp/"
+excerpt: "Amazon.com Inc <AMZN.O> on Thursday said it shifted part of the computing for its Alexa voice assistant to its own custom-designed chips, aiming to make the work faster and cheaper while moving it away from chips supplied by Nvidia Corp <NVDA."
+publishedDateTime: 2020-11-12T22:40:00Z
+originalUrl: "https://www.reuters.com/article/amazon-com-nvidia-int-idUSKBN27S2RI"
+webUrl: "https://www.reuters.com/article/amazon-com-nvidia-int-idUSKBN27S2RI"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S2RI"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S2RI"
 type: article
-quality: 57
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: The Hindu
-  domain: thehindu.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AWS AI
+  - Natural Language Processing
   - AI
   - Computer Vision
 
 images:
-  - url: "https://www.thehindu.com/sci-tech/technology/gadgets/6vuw5e/article33090975.ece/ALTERNATES/LANDSCAPE_615/13NETAMAZON"
-    width: 615
-    height: 384
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1541008813&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB1P6"
+    width: 818
+    height: 545
     isCached: true
 
 related:
@@ -128,6 +132,6 @@ related:
       domain: seekingalpha.com
     quality: 20
 
-secured: "OlMSlhcegcbOPEuYH4f+XVYDDSLpxT7TrRkrauWKI2aVUVy0o1ji8m4XAeZb6Sl/g+lUZrQxDOLgT5zgte1fSLqfcT5W9avalplcAAMHDmpbQ8P4PP/IJFTtLlnoCEanzhExOps+9egsd4QbDEMhVqzkUihB4Ype2KiBOxiQylgfdG1dJnlRWqenhScBeCxadUW7C2gJjsKIyDbdpFwlOGJq8zhZNposxfdsjUiv4qmsizL+6nOhvI5IwJ2Fse3tN14Cn7Yk1o96Sc8PkSDG4trOGv/GobGUAV5VluUvccBmO6sz3bGf79TeYM1GhaUSuAISliMlIzuXIYmvHm3CpVT527mzZPY4/MY8cSZbTEk=;qa/HRlN8FbKSUMss/sMrvA=="
+secured: "JA9+1XWS14f8+/o+o4W02fk2xUYjrIykIYnypj+AkVglgAM0G6eFlyIdeAPU/PMaceMv8GZeHa/b/c5VbjkwddXDQ9wB14OLE2eeBGb0UcwDT7cMaXlSnD/cG8IduY2Garukjr2w4gNIkl83tK8UHS3dHItRI5orea/2P0ZMn1srna9AwEC/uQTjZEslLzmEQ3QUxUhTiDTwMz/peAIAIsePHjavH8eAcIyDrNjyZjyuu0hBJhm1xZ352B8eSH6YQ2cA05dZ9lTDFtxZnYJWAhPDCpifya7VUt7GYSsmB/DFpNeN0GCACP2SiC888EYtibpnwGmhhv4IWnBSgRTPd/A1ymboL+2fsvorziupIsc=;a79Ha/7O8jZVIIEazJNDhg=="
 ---
 

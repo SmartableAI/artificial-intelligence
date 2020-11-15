@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing (NLP) Market Key Players, Segmentation Analysis, Business Growth and Forecast to 2027"
-    excerpt: "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional"
-    publishedDateTime: 2020-11-10T09:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-key-players-segmentation-analysis-business-growth-and-forecast-to-2027-2020-11-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in Fintech Market 2020 Key Players Update, Regional Economy, Development Plans and Forecast to 2026"
     excerpt: "Comserve Inc. / -- Global Artificial Intelligence (AI) in Fintech Market is valued approximately USD 2.6 billion"
     publishedDateTime: 2020-11-13T13:53:00Z

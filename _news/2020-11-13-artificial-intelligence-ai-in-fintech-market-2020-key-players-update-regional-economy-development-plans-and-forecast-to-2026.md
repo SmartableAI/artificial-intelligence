@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing (NLP) Market Key Players, Segmentation Analysis, Business Growth and Forecast to 2027"
-    excerpt: "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional"
-    publishedDateTime: 2020-11-10T09:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-key-players-segmentation-analysis-business-growth-and-forecast-to-2027-2020-11-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Operational Intelligence (OI) Market 2020-2025: Size, Share, Trends and Research Report"
     excerpt: "According to the latest report by IMARC Group, titled \"Operational Intelligence (OI) Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025\", the global operational intelligence (OI) market grew at a CAGR of around 13% during 2014-2019."
     publishedDateTime: 2020-11-11T12:05:00Z

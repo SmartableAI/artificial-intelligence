@@ -2,9 +2,9 @@
 category: news
 title: "LUXROBO to Launch AI Coding Training Package ‘hello AI’, ‘Smart AI’"
 excerpt: "Korean edutech startup LUXROBO is launching ‘hello AI’ and ‘Smart AI’, targeting the global AI education market in November 2020. LUXROBO is a company that makes modular robotic platforms equipped with MODI operating systems,"
-publishedDateTime: 2020-11-12T15:24:00Z
-originalUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-school-curricula-products-and-services-82a2e91213589f3a5f9177374d3989b5"
-webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-school-curricula-products-and-services-82a2e91213589f3a5f9177374d3989b5"
+publishedDateTime: 2020-11-12T15:26:00Z
+originalUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-robotics-products-and-services-4a73d13f0f59d4b2d2a1d395cf91eddd"
+webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-robotics-products-and-services-4a73d13f0f59d4b2d2a1d395cf91eddd"
 type: article
 quality: 39
 heat: 39
@@ -15,8 +15,8 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI
   - AI in Robotics
+  - AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -37,6 +37,6 @@ related:
       domain: benzinga.com
     quality: 37
 
-secured: "ZakUAyInCgwpajR0frPbyxfjpsSKf6kGichKE5WsRfDymZd4Bt8txjzYgBt4VtZS8y0RQ3IgJG/3sZ2J4w2G8SNwNG8BBZThhXUW3Vk9VYS6fmJXThilBrt/s6YGQ9OZv7GwY332fKiz3B0UmEz2EWxYnb3Edj3Cpz4WzpV8nMruXouAixz3odvduJJd/Aaag+0UUkHO19vk/H8f4KOSuDmDLU50Llu2lQgQ2e8ehVF+8tISalV+xjV9iNIx1WpRQHwL8NLOVqd19VjLHyVaoraFdZcdd7IqlD1HzR4im1l/JtkRtljGMp9T8N2i0mc1dUOG1fz8iAyjHiNytr6NSXezxx3eE9utNSCF+IC//So=;h3cTbn2zfLRk7zndAfj9Sw=="
+secured: "lJg9QpuJj28+Pa3DwNHdlMRE9ldS3My4s5tMQQC2vr334VUXEx0ZgHNiPezK9uupwj11Yn66P6065e0iaj2zl8RHKGQ9w0MAAaBupXM6H382yieIByos9KmSjE3jt8MOrFdiMx2HjM3vbgVRRmE8PdbKtbPmmJEw5bMyUqsuzQDtNa1ZF64DpVAKNbV8HR9ec5vCTdftxSlHeFPOpJkymRCfraecoHhdP5SBJ295/te1/BtYVQYAh5NzDd9w5ISVJoEQRHPqBqVzyaD823FDIgYhSkwcMh8PeuVbANaJZHpzGMXuzNYi5/WAFcghhD2uIhqAarKIcaRnhixFLQnpZrlT0ptbbmx3wEIW1Mvd7Tk=;sZuDX+Fu4+3zsGi9ZzuNZA=="
 ---
 

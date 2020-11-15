@@ -127,22 +127,6 @@ related:
         width: 1426
         height: 800
         isCached: true
-  - title: "Walmart To Test Robotic Deliveries With Electric Cruise Self-Driving Vehicles"
-    excerpt: "Walmart is trying to learn whether robotic deliveries fit in with its retail operations so it’s launching the latest pilot program with General Motors-backed Cruise."
-    publishedDateTime: 2020-11-10T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/alanohnsman/2020/11/10/walmart-to-test-robotic-deliveries-with-electric-cruise-self-driving-vehicles/"
-    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2020/11/10/walmart-to-test-robotic-deliveries-with-electric-cruise-self-driving-vehicles/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/11/10/walmart-to-test-robotic-deliveries-with-electric-cruise-self-driving-vehicles/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 71
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faa1c3d509d05f9c63f13cb%2F0x0.jpg%3FcropX1%3D236%26cropX2%3D1677%26cropY1%3D186%26cropY2%3D1053"
-        width: 1200
-        height: 722
-        isCached: true
   - title: "Walmart teams with electric self-driving carmaker Cruise in the retail giant's latest push for futuristic delivery technology"
     excerpt: "Walmart shoppers in Scottsdale, Arizona, will be first to test out the company's latest driverless delivery trial."
     publishedDateTime: 2020-11-10T14:12:00Z

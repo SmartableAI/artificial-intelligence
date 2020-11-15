@@ -46,20 +46,6 @@ related:
         width: 800
         height: 800
         isCached: true
-  - title: "AI Image Recognition Market is Gaining Momentum with key players Google, IBM, Intel, Microsoft"
-    excerpt: "Latest Report Available at Advance Market Analytics, \"AI Image Recognition Market\" provides pin-point analysis for"
-    publishedDateTime: 2020-11-10T09:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-image-recognition-market-is-gaining-momentum-with-key-players-google-ibm-intel-microsoft-2020-11-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 74
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft adds Hindi to its Text Analytics service"
     excerpt: "Text Analytics includes sentiment analysis, opinion mining, key phrase extraction, language detection, named entity recognition, and Personally Identifiable Information (PII) detection. Microsoft on Thursday said it has added Hindi to its Text Analytics service to help businesses strengthen customer support through a complete analysis of user perception and feedback in the most widely spoken language in India."
     publishedDateTime: 2020-11-14T05:02:00Z

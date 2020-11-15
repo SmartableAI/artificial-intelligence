@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2020-11-survey-artificial-intelligenc
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-survey-artificial-intelligence-chest-imaging.amp"
 type: article
 quality: 57
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://www.ajc.com/resizer/ST2fUTz4j_ThirIKikD51QMXzUA=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/CJSNPHCYTKJ3ZU3DBTQWJVU4NE.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Drug companies deliver a vote of confidence in adaptive trial for Covid-19"
-    excerpt: "A novel clinical trial that uses AI to rapidly compare Covid-19 treatments has attracted participation from two major drug companies."
-    publishedDateTime: 2020-11-10T09:48:00Z
-    webUrl: "https://www.statnews.com/2020/11/10/adaptive-trials-covid19-amgen-eisai/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 22
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2018/10/STAT_Amgen02-1024x576.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Students searching for internships during the COVID pandemic must be prepared for AI-driven interviews"
     excerpt: "We believe that every college and university student and recent graduate deserves a great part-time, seasonal, internship, and entry-level job!"

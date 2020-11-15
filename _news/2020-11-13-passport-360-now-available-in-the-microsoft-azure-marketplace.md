@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2187373/passport-360-now-available-in-the
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -36,20 +36,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 77
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI Image Recognition Market is Gaining Momentum with key players Google, IBM, Intel, Microsoft"
-    excerpt: "Latest Report Available at Advance Market Analytics, \"AI Image Recognition Market\" provides pin-point analysis for"
-    publishedDateTime: 2020-11-10T09:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-image-recognition-market-is-gaining-momentum-with-key-players-google-ibm-intel-microsoft-2020-11-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 74
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
