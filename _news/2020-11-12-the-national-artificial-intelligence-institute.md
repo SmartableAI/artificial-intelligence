@@ -42,20 +42,6 @@ related:
         width: 1199
         height: 756
         isCached: true
-  - title: "AI Conversations: Enabling Smarter, More Efficient Healthcare"
-    excerpt: "Artificial intelligence applications address today’s healthcare challenges with data-driven insights that can help providers significantly boost the quality of patient care while combatting rising costs."
-    publishedDateTime: 2020-11-10T15:35:00Z
-    webUrl: "https://www.cio.com/article/3596792/ai-conversations-enabling-smarter-more-efficient-healthcare.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 56
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/11/healthcare-3.1-100865893-large.jpg"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "LivePerson announces executive hires to further accelerate Conversational AI growth, scale, and partnerships"
     excerpt: "PRNewswire/ -- LivePerson, Inc. (Nasdaq: LPSN), a global leader in Conversational AI, today announced the hiring of"
     publishedDateTime: 2020-11-11T13:52:00Z

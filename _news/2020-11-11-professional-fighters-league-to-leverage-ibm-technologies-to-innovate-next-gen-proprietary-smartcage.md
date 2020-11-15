@@ -41,15 +41,6 @@ related:
         width: 675
         height: 450
         isCached: true
-  - title: "Professional Fighters League leverages IBM tech"
-    excerpt: "The Professional Fighters League (PFL) will be leveraging Flagship’s capabilities to deliver IBM’s suite of advanced cloud and AI products to enhance the le"
-    publishedDateTime: 2020-11-10T16:47:00Z
-    webUrl: "https://advanced-television.com/2020/11/10/professional-fighters-league-leverages-ibm-tech/"
-    type: article
-    provider:
-      name: Advanced Television
-      domain: advanced-television.com
-    quality: 4
 
 secured: "qfhb/rApTBKmfNuXVvdP+q/8kls4DJ+Txl+H64kEzMEktW7bxq7Bpc3fFGsCN8DzUcI2m5bYFVBwNT+jrx6aA4ixFA9yAi9U39MHvLlSuE/Vuj5yxExpHsr7Ef5AqFrbwcrVQUCjFPWy9wqZ+MLjvQw8y0UUN20dddIUNU70MhZKEgWZQPuOAEbH69eCr5hu9RSO59mDW4qoK4nlzgNSb9GDV/Scu8O8D1i3phQK44dJ0vkAgtUImIZidOJZmOab7HhTZDVvV+glfQ0+oZCi68civjXhxfjCvBHbO0t9bH3pccZuW/9bkM9ghyOSYdGf9TzMVRc6Gxl69F5Y1ihPVF9y9mCeXzEIBnNpWJ9T+jS+2UV9JsxoyzSx56ihrNc/itiP0l92SOA1IlUlxYu9DsmS6Z6GE6kqhgCeD/dve31QrwbsTZFv4Mx54HP6cwICVGWrtob5+WjS1iQanew0xrstMfZsXqo6eU3N5+uCZIAoD3uZQ8SZsISdQgZKKNr67F0D6222gnr1ZvBkolTVKA==;oanM9rQz4cJxFWXJrYYO2Q=="
 ---

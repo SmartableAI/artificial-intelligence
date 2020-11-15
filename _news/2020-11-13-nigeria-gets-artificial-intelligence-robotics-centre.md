@@ -55,6 +55,20 @@ related:
         width: 900
         height: 563
         isCached: true
+  - title: "Robot-centred healthcare systems become a reality"
+    excerpt: "Artificial intelligence has already had an impact on healthcare data, but the next steps will be taken in the physical world"
+    publishedDateTime: 2020-11-15T08:43:00Z
+    webUrl: "https://www.businesspost.ie/commercial-reports/robot-centred-healthcare-systems-become-a-reality-001374bc"
+    type: article
+    provider:
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 56
+    images:
+      - url: "https://img.resized.co/businesspost/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvaW1lbmdpbmUucHVibGljLnByb2Quc2JwLmluZm9tYWtlci5pbz91dWlkPTkzMTQ4YzI2LTlmODUtNWUxNi05ZmIzLWY0NjEwMGU2MDQwYiZ0eXBlPXByZXZpZXcmcT04MCZoZWlnaHQ9MjE4Ny4zMjE0Mjg1NzE0JndpZHRoPTM4ODgmZnVuY3Rpb249Y3JvcHJlc2l6ZSZ4PTAmeT0wLjA5ODIxNDI4NTcxNDI4NTcxJmNyb3Bfdz0wLjk5OTk5OTk5JmNyb3BfaD0wLjgwMzU3MTQxODU3MTQzXCIsXCJ3aWR0aFwiOjY0NyxcImhlaWdodFwiOjM0MCxcImRlZmF1bHRcIjpcImh0dHA6XFxcL1xcXC9zMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbVxcXC9zdG9yYWdlLnB1Ymxpc2hlcnBsdXMuaWVcXFwvbWVkaWEuYnVzaW5lc3Nwb3N0LmllXFxcL3NicC1uby1pbWFnZS5wbmdcIn0iLCJoYXNoIjoiZWQ0OTNiOGQ4MTY3NmQ4ZGI2NTAzN2FlNjBjZmE3MDNkOTEyZmZmNCJ9/robot-centred-healthcare-systems-become-a-reality.80357141857143"
+        width: 647
+        height: 340
+        isCached: true
   - title: "Nigerian govt commissions artificial intelligence centre to create millions of jobs"
     excerpt: "The Nigerian Government through the National Information Technology Development Agency, has launched its National Centre for Artificial Intelligence and"
     publishedDateTime: 2020-11-13T12:16:00Z
@@ -81,6 +95,6 @@ related:
       domain: sunnewsonline.com
     quality: 49
 
-secured: "F00+6dEuldMAVxpl9a4sLWTFqFwn4CNM0FGdnQLbUbFp7sx4eSRe3JfFDBLXJtj3Ov01Mj6Pu70fAeh1sKRqTGphmiarKwvphR3ggntjdb9nwGxDB51SXeh4rZ+OFWQxbXkYSZLZ60wyx22wFuWDmgOubGKbaX90HYyuNJgU71R39NYyPfZcdUW15ILzL+A3wvPbwnDZqF1411/ZI8J1T4SSVNMw2bmlTy638KFAB7vrBsO6kIO/G7CBy2t0dUqrAdYwZeNFlEG7+E5sdNvKb2MlY0xUm8zkFjVeUf/1xQY4y24kgz0975UMJ43+BSdFu9FJ4xhRfUNFtFSEHtxJDn4QRMYlRC2qKVHteI02GXI=;fxFOaxIKHdnuFXfsLUDq1g=="
+secured: "eHCcL8nuFrBKXDalZqDinGE0sc8wXJtiY2ETrQ4tRTFfg5E2+I6G1tiPp+U0Edp9E1IMwL8I8WM2DhIk353zQlDkPSt9kZQ31nk9llk1AtYimBh8iT8HGERLFC9nNMeV0qJVq2lXH1sQZGZgGf5iCWrXS+1vxwrO73fuRQ/dDqy2b93ATUSp/rOGAmQGzMr0VwX195id2b5UQ7+/zqoV9klw/Co9rIEQqSPeO2J1hbJGiXexA9UdL2iRvCH+60JUGl2b3LLp9UF4/DY2Zuw2imG8y4loQp+KvIlRo0XS3O2S0CGaHngZDwu6eagfqRg1/Cupm7W1PcqdPI053tP9K54zTyLoTOP0kP6r3ciFQA4=;woZeIp5uo+rc15TS3r9ZZw=="
 ---
 

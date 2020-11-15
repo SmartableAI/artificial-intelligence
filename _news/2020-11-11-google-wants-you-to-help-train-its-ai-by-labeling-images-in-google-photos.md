@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/11/11/21559930/google-tra
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/11/11/21559930/google-train-ai-photos-image-labelling-app-android-update"
 type: article
 quality: 88
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://3.img-dpreview.com/files/p/E~TS940x788~articles/6446970864/Google_Photos_Logo.jpeg"
         width: 940
         height: 627
-        isCached: true
-  - title: "Google Photos uses clientele to train its image recognition capabilities"
-    excerpt: "Google Photos has rolled out a new survey feature in which it asks users to evaluate and describe the contents of photos as it looks to upgrade its image recognition algorithms. According to"
-    publishedDateTime: 2020-11-10T16:36:00Z
-    webUrl: "https://www.biometricupdate.com/202011/google-photos-uses-clientele-to-train-its-image-recognition-capabilities"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 38
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/02/21114131/google.jpg"
-        width: 1280
-        height: 725
         isCached: true
 
 secured: "RMaZboSfpuntWufnDbMOmxWJOPReQ/aKsapr7AfRz53Wxz/UhAy+d8mcNKYrxDRErdeMMVFUd2jJsiHhPgEg+RQNPesIImkPa5g9N5nRefDLPi3F+vVCqgKXfTmK5o0+Wo6nJlENlDK0itqOYZC8+xaVGlPh9DbDrzz3F86GZLx1GCx98tOszA2xo8F5mF2sqXUm1iZP2GYxxd8ZCQeqf/ep0oQmmOtxSXX8AjD/ZJiSZiWhFMZT4xBy74tdstw60uD1FqCx55UEtTpvLslANYWxcAC45pgU5nzCMMWbli1DASHOzaAXz6VG6PzQzf41j3OJaHfE5igLI6y5XFcOtCk7mM13KzfxnXHYmwUpoZnW/uxdbHRFPEHgzEBRwwzruqmE81RofbihuWaLcskBmvkmkGWcuPJYiVgymYc7NlA65FPAEvdq+94DDNZ18ZWxqCmA7pavQ2TdBB3Xn/59R8vVKjVLOVFyIPOvs0vQNcyQzos+uUHh5hf5Rlbw78H3yxaosWzaWS4mqnMPc7XxhA==;//Iov5zgvSAKXDRlwY3FRw=="

@@ -40,20 +40,6 @@ related:
         width: 1199
         height: 756
         isCached: true
-  - title: "AI Conversations: Enabling Smarter, More Efficient Healthcare"
-    excerpt: "Artificial intelligence applications address today’s healthcare challenges with data-driven insights that can help providers significantly boost the quality of patient care while combatting rising costs."
-    publishedDateTime: 2020-11-10T15:35:00Z
-    webUrl: "https://www.cio.com/article/3596792/ai-conversations-enabling-smarter-more-efficient-healthcare.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 56
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/11/healthcare-3.1-100865893-large.jpg"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "THE NATIONAL ARTIFICIAL INTELLIGENCE INSTITUTE"
     excerpt: "The Veterans Affairs health care system already applying Artificial Intelligence AI to improve the diagnosis and treatment of veterans."
     publishedDateTime: 2020-11-12T12:02:00Z

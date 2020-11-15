@@ -70,6 +70,20 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 39
+  - title: "Fintech Company Smarsh Acquires Digital Reasoning"
+    excerpt: "Smarsh just announced they have acquired Digital Reasoning, a firm we have long tracked in our disruptive technology directory. Digital Reasoning are a leader in making sense of data, including […]"
+    publishedDateTime: 2020-11-11T01:23:00Z
+    webUrl: "https://ctovision.com/fintech-company-smarsh-acquires-digital-reasoning/"
+    type: article
+    provider:
+      name: ctovision.com
+      domain: ctovision.com
+    quality: 24
+    images:
+      - url: "https://ctovision.com/wp-content/uploads/digital-reasoning.jpg"
+        width: 780
+        height: 520
+        isCached: true
 
 secured: "BqL9ZwWg9Rvn22x8y0jv7VF6cCqmSVyWGAYOHU/kJUgq6nXI0UtNg3Z0/jNy4r38ITzzX+JS0yvJbp64nwwW8PvNcJBZ926PCNC7I4piE2T1EcS5jPCErJ3loTYMgNOBdKKz3swpFKv3Nnv8a7arnWgwvzxPUVqnY9V0ZftOvLEBt4V9PjiY3ruki8q2Ja4ea03d9BQYaKS927oto09acMKNsvbWJTcHS2u+Hrn05xS00QdaAAR/8G/W5unvkTbJEDlQIKCjKycskQwp6T+cYXSU12pXNd/HkeKUOVL/J85cVdIgL9i7R7sdzNGVURjNmWvbaO5YvbnLHlgoR81PGMd7vP6o6VVTfmGJAgFa81/mPaRl5MRdJQmxi2Xf55wNpACIekDhr85tVMMpgVSpFQhqmr0zKtaNdDrh15ijLvIKopck21fkhg51XlsFAgTkDsqbOEovcCORPhAYRacB8x9hwsGsupkKIw4g+67U6QzFsK6w0e2K+FhW3/cSWf8tVSk9fAQUKRXB+mif9SzfKg==;OHZeOsK9rGCzgcyRNSyf9w=="
 ---

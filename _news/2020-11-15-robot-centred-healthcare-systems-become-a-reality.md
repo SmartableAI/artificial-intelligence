@@ -1,29 +1,28 @@
 ---
 category: news
-title: "Nigerian govt commissions artificial intelligence centre to create millions of jobs"
-excerpt: "The Nigerian Government through the National Information Technology Development Agency, has launched its National Centre for Artificial Intelligence and"
-publishedDateTime: 2020-11-13T12:16:00Z
-originalUrl: "https://dailypost.ng/2020/11/13/nigerian-govt-commissions-artificial-intelligence-centre-to-create-millions-of-jobs/"
-webUrl: "https://dailypost.ng/2020/11/13/nigerian-govt-commissions-artificial-intelligence-centre-to-create-millions-of-jobs/"
-ampWebUrl: "https://dailypost.ng/2020/11/13/nigerian-govt-commissions-artificial-intelligence-centre-to-create-millions-of-jobs/"
-cdnAmpWebUrl: "https://dailypost-ng.cdn.ampproject.org/c/s/dailypost.ng/2020/11/13/nigerian-govt-commissions-artificial-intelligence-centre-to-create-millions-of-jobs/"
+title: "Robot-centred healthcare systems become a reality"
+excerpt: "Artificial intelligence has already had an impact on healthcare data, but the next steps will be taken in the physical world"
+publishedDateTime: 2020-11-15T08:43:00Z
+originalUrl: "https://www.businesspost.ie/commercial-reports/robot-centred-healthcare-systems-become-a-reality-001374bc"
+webUrl: "https://www.businesspost.ie/commercial-reports/robot-centred-healthcare-systems-become-a-reality-001374bc"
 type: article
-quality: 53
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Daily Post Nigeria
-  domain: dailypost.ng
+  name: The Sunday Business Post
+  domain: businesspost.ie
 
 topics:
-  - AI in Robotics
+  - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
-  - url: "https://dailypost.ng/wp-content/uploads/2020/06/Kashifu-Inuwa-Abdullahi.jpg"
-    width: 1280
-    height: 720
+  - url: "https://img.resized.co/businesspost/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvaW1lbmdpbmUucHVibGljLnByb2Quc2JwLmluZm9tYWtlci5pbz91dWlkPTkzMTQ4YzI2LTlmODUtNWUxNi05ZmIzLWY0NjEwMGU2MDQwYiZ0eXBlPXByZXZpZXcmcT04MCZoZWlnaHQ9MjE4Ny4zMjE0Mjg1NzE0JndpZHRoPTM4ODgmZnVuY3Rpb249Y3JvcHJlc2l6ZSZ4PTAmeT0wLjA5ODIxNDI4NTcxNDI4NTcxJmNyb3Bfdz0wLjk5OTk5OTk5JmNyb3BfaD0wLjgwMzU3MTQxODU3MTQzXCIsXCJ3aWR0aFwiOjY0NyxcImhlaWdodFwiOjM0MCxcImRlZmF1bHRcIjpcImh0dHA6XFxcL1xcXC9zMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbVxcXC9zdG9yYWdlLnB1Ymxpc2hlcnBsdXMuaWVcXFwvbWVkaWEuYnVzaW5lc3Nwb3N0LmllXFxcL3NicC1uby1pbWFnZS5wbmdcIn0iLCJoYXNoIjoiZWQ0OTNiOGQ4MTY3NmQ4ZGI2NTAzN2FlNjBjZmE3MDNkOTEyZmZmNCJ9/robot-centred-healthcare-systems-become-a-reality.80357141857143"
+    width: 647
+    height: 340
     isCached: true
 
 related:
@@ -71,19 +70,21 @@ related:
         width: 900
         height: 563
         isCached: true
-  - title: "Robot-centred healthcare systems become a reality"
-    excerpt: "Artificial intelligence has already had an impact on healthcare data, but the next steps will be taken in the physical world"
-    publishedDateTime: 2020-11-15T08:43:00Z
-    webUrl: "https://www.businesspost.ie/commercial-reports/robot-centred-healthcare-systems-become-a-reality-001374bc"
+  - title: "Nigerian govt commissions artificial intelligence centre to create millions of jobs"
+    excerpt: "The Nigerian Government through the National Information Technology Development Agency, has launched its National Centre for Artificial Intelligence and"
+    publishedDateTime: 2020-11-13T12:16:00Z
+    webUrl: "https://dailypost.ng/2020/11/13/nigerian-govt-commissions-artificial-intelligence-centre-to-create-millions-of-jobs/"
+    ampWebUrl: "https://dailypost.ng/2020/11/13/nigerian-govt-commissions-artificial-intelligence-centre-to-create-millions-of-jobs/"
+    cdnAmpWebUrl: "https://dailypost-ng.cdn.ampproject.org/c/s/dailypost.ng/2020/11/13/nigerian-govt-commissions-artificial-intelligence-centre-to-create-millions-of-jobs/"
     type: article
     provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 56
+      name: Daily Post Nigeria
+      domain: dailypost.ng
+    quality: 53
     images:
-      - url: "https://img.resized.co/businesspost/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvaW1lbmdpbmUucHVibGljLnByb2Quc2JwLmluZm9tYWtlci5pbz91dWlkPTkzMTQ4YzI2LTlmODUtNWUxNi05ZmIzLWY0NjEwMGU2MDQwYiZ0eXBlPXByZXZpZXcmcT04MCZoZWlnaHQ9MjE4Ny4zMjE0Mjg1NzE0JndpZHRoPTM4ODgmZnVuY3Rpb249Y3JvcHJlc2l6ZSZ4PTAmeT0wLjA5ODIxNDI4NTcxNDI4NTcxJmNyb3Bfdz0wLjk5OTk5OTk5JmNyb3BfaD0wLjgwMzU3MTQxODU3MTQzXCIsXCJ3aWR0aFwiOjY0NyxcImhlaWdodFwiOjM0MCxcImRlZmF1bHRcIjpcImh0dHA6XFxcL1xcXC9zMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbVxcXC9zdG9yYWdlLnB1Ymxpc2hlcnBsdXMuaWVcXFwvbWVkaWEuYnVzaW5lc3Nwb3N0LmllXFxcL3NicC1uby1pbWFnZS5wbmdcIn0iLCJoYXNoIjoiZWQ0OTNiOGQ4MTY3NmQ4ZGI2NTAzN2FlNjBjZmE3MDNkOTEyZmZmNCJ9/robot-centred-healthcare-systems-become-a-reality.80357141857143"
-        width: 647
-        height: 340
+      - url: "https://dailypost.ng/wp-content/uploads/2020/06/Kashifu-Inuwa-Abdullahi.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Pantami commissions centre for Artificial Intelligence, Robotics"
     excerpt: "Benjamin Babine, Abuja The Minister of Communications and Digital Economy, Dr. Isa Pantami has on Friday inaugurated the Centre"
@@ -95,6 +96,6 @@ related:
       domain: sunnewsonline.com
     quality: 49
 
-secured: "gOL5hvW4TPCU/kwaQLYtiR9hKNKWa+NhadahPcwPqa3xBI6m4ftOn7mhnsyFDr1bObvbxifkjlxwZSJrzJ8hn+pIQaPYd4RqtZijzOy9G/0C7ulAlN0GCZVaTOGzNasxQGFeTShNKeIcCXAQU//96y92tzkglnU0Cpv8F6KOhkAmwONUmM3R2WPCMMj3vkTWh+44VOfh6DSayiBeqhMzrlB5144gCZuV2TXmZdNtMkDcgC4fmEoe/xpamdmOotLS/p+JIMVjrDMCFSXriaGnHcTIqZpFYqrX1xezrDMvdFFFOsBORdTItVlJOZWmPB0QoGXTRuznJ1CBxoMDEEMfJQBGOnGk0iSDCA0itt9UM4otimjDPkhRyObtpXQB+8AcGR7q5X50kc5DzoEXYELJCSmIO2VRoZQ30vNIve0PeapQQ8RMQP4Pnz7X0FL2MJzzdPnh2fXM7qRLOJEJ7GzRYGcTrVu3/ZABc1ueo9wj824SfBA0OSJFv2PBw/onb1ZhlToLuaU9dQJkM3fL0KiNdg==;BfkPQeQ0cnyV4kOGV9uFVw=="
+secured: "aq84A4jQpTAaWiiO4ooaylk0IzXhoyYSppGc+/h2YApIm9OOf1q1nPteuYFkU0c56wrvGL7QGLsJnmgzmlmzstPjNfUtmuiUh6Jkn+iZ2zq/1VdY3B9ef6AOYef4RXGKOa46gxG2hLb1UtA4F4fUJfUm33EeduJRnjsk0N65tDzRo3NoQjQy3j4TYfuPmz3XcxX9jgWPoqhT91iFkwXoxJD4uQGO/8LY3CDhnYB8y2wG1r8dBZxNhtkkFcAYF3rW2LFkUN1IBF1+0l81zl3C5yyBZetJvhTduij9W9jgGFQWGtzdqbqypEaRPd5DwvbDu5gVEIKoWj7Sq++Fvj4Vv/GzSuJEX0U3QYSgCjtVrPk=;xQZ9pb+7oyhQW5cOhPr1jQ=="
 ---
 

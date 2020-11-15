@@ -42,20 +42,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Google Photos uses clientele to train its image recognition capabilities"
-    excerpt: "Google Photos has rolled out a new survey feature in which it asks users to evaluate and describe the contents of photos as it looks to upgrade its image recognition algorithms. According to"
-    publishedDateTime: 2020-11-10T16:36:00Z
-    webUrl: "https://www.biometricupdate.com/202011/google-photos-uses-clientele-to-train-its-image-recognition-capabilities"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 38
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/02/21114131/google.jpg"
-        width: 1280
-        height: 725
-        isCached: true
 
 secured: "M2yNLlDJDMFeL2Mj3vgaq4+mOnnk3HrKmx1c2SH8v3inz3B6uU+mAqmqbdaxeshynMd4F7bHE9JBV0gJaYWye6bsTeMLV8srKOdS25WWVvu70McQUbwJnA5lfkKcRzpsGe9PJ6mr3jJwAoa3UUmQd+TFErzEUpTUvj2mWBd/tyuZkJBYNavrVkXRV4aVTPSO+QP+jWVKcc1fB3+mseIQbOwpkZs8NccPXBUKMNscBCwbymeQty2iAnIhbBM7vap2UEX7KCBH7enKIh2i5loYGay+FkdJ1YDYWfF7xKwVaxdpJVwUw+SOxjnqQ+wlnzIKPJ/InkAP6N0hg02vFbsztZxbmxKYBeZWbCg3uJGrcYpYJ75woLoYvpRa4HS2xyTdtpYdYjqaHVagQeRZxxW4XWQ7Y1NJRRMiHgZ+w5nq39siq5SXUuHlWTHOJGuPDDnneCee41D0HlStLSVe9vLPbGB2Op1MkV7ebPdE6nPutwwO7mX/5JjX6Uq7Q5xm06U60kgocBoRXOjFew98AxTe2w==;g42WtNooGSS226zHqT15HA=="
 ---

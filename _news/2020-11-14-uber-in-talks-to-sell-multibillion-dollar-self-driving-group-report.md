@@ -115,6 +115,20 @@ related:
         width: 1619
         height: 1080
         isCached: true
+  - title: "Uber in talks to sell its self-driving car division: Report"
+    excerpt: "According to a report in TechCrunch, the sale of Uber Advanced Technologies Group (UberATG) would mark the end of a bumpy road as the venture has been suffering fr"
+    publishedDateTime: 2020-11-15T08:44:00Z
+    webUrl: "https://menafn.com/1101127486/Uber-in-talks-to-sell-its-self-driving-car-division-Report"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/2020-11/15/I_5824e1d3-2image_story.jpg"
+        width: 400
+        height: 267
+        isCached: true
 
 secured: "X5jVXdbqPDFI8Cj8he5y32UuIhfiSAcJpRkclz/DWvgezy38cJn7rgGNfAz1AJs0/ZSHxrR7tOmQQW78ODG5NufFhUGf+69KqK4YcILd3toXUxb8XerHiBR1JwWDGmeMic2UbDFxT1E5ykpc2O3icPlSfBL2nmjFLSED+24tTVtMZT2jQ7GcslqH5U6Fd2bBBZRrLF8YQMpgsF4i7YCCJHi5YLew84fEjR9arsKCrFy4FL+xWjqWjFR+aZnwPCDpHTdzgmRrJZs+HVwuBqZ8OsZ4xNAxUcGcGytL2W2+UTrJcLzNnkl1iv1EZxMCo+2y+cvVZsISC0vpf9S2thatCzO6IIIHKSFB9ZlCU8tz0D8=;H5cmQuJi09dnyIRbOBspoQ=="
 ---

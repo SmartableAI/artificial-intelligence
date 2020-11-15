@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Army Considers Facial Recognition to Monitor Children in Its Care"
-    excerpt: "The branch aims to pilot video surveillance and machine learning algorithms to see how they can help keep an eye on kids’ well-being in its child development centers."
-    publishedDateTime: 2020-11-10T16:47:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2020/11/army-considers-facial-recognition-monitor-children-its-care/169921/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 39
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2020/11/10/shutterstock_1177740676/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Army to evaluate facial recognition in day care centers"
     excerpt: "Through a demonstration of the technology, the Army expects to learn whether facial recognition technologies can improve family quality of life, reduce base costs and enhance mission readiness."
     publishedDateTime: 2020-11-10T21:13:00Z

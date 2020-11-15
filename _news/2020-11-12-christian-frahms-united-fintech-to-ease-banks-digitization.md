@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financemagnates.com/fintech/news/christian-frahms-united
 cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/christian-frahms-united-fintech-to-ease-banks-digitization/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
       - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/hardware-improvements-physical-security-920.jpg"
         width: 612
         height: 355
+        isCached: true
+  - title: "Fintech Company Smarsh Acquires Digital Reasoning"
+    excerpt: "Smarsh just announced they have acquired Digital Reasoning, a firm we have long tracked in our disruptive technology directory. Digital Reasoning are a leader in making sense of data, including […]"
+    publishedDateTime: 2020-11-11T01:23:00Z
+    webUrl: "https://ctovision.com/fintech-company-smarsh-acquires-digital-reasoning/"
+    type: article
+    provider:
+      name: ctovision.com
+      domain: ctovision.com
+    quality: 24
+    images:
+      - url: "https://ctovision.com/wp-content/uploads/digital-reasoning.jpg"
+        width: 780
+        height: 520
         isCached: true
 
 secured: "LfcBXxcb+dFD61519sbo/B6B7/seWrrV5toBDniIH7JEqjgMCUxAtKyKgr3fRSSvQFqbk585Sk0dysRXfOQ04Wp1q+GqD8p7w45l7DE6KBoT6rvgnuDG4YsFAAkirrROCox9vnQrL2x1vQfCmQRIzhhlxyNfrSzg7PXzS/AXUILM9vNgLMIfj7l3F4md3sPmqXDlBO6zmIGjA7KlYdmBA7ZeZpTkiy5xa9dOhOFkwhns94BbT5aFJrq9CwPnUs+Ue1d4UKUr8Hmr07kEHvEGSlXWu+FlcqHBx8uyQVtd2gs1MKxyb/RUVI4VoVEcNWlI8ooIIFsi4u+NBKzvABsjPB2Yfs9qzejzX9eOh9UEfW98KKOiaTQZz67IX1vq+VnNAyi3Fto/xcgWdcua3KTZxoz/zulq5ptq3aVbfEygNlClLKrA7AlG/O5yx8IvfOzUgVQRzahfxLhLHNTWqp4gUbZqvGLK4XkRqYFiakI4u9ajvHRIDy/kuj6uk4AtfVlAzeret+p+ctSDfxt8C6/ukg==;PgrI99N0mJcH520sMlSo2A=="

@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Uber in talks to sell its ATG self-driving unit to Aurora - TechCrunch"
-excerpt: "Uber Technologies Inc <UBER.N> is in talks to sell its autonomous driving unit, Uber Advanced Technologies Group, to self-driving car startup Aurora, TechCrunch reported on Friday, citing people familiar with the matter."
-publishedDateTime: 2020-11-14T03:38:00Z
-originalUrl: "https://www.reuters.com/article/uber-aurora/uber-in-talks-to-sell-its-atg-self-driving-unit-to-aurora-techcrunch-idUSL4N2HZ43V"
-webUrl: "https://www.reuters.com/article/uber-aurora/uber-in-talks-to-sell-its-atg-self-driving-unit-to-aurora-techcrunch-idUSL4N2HZ43V"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T30O"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T30O"
+title: "Uber in talks to sell its self-driving car division: Report"
+excerpt: "According to a report in TechCrunch, the sale of Uber Advanced Technologies Group (UberATG) would mark the end of a bumpy road as the venture has been suffering fr"
+publishedDateTime: 2020-11-15T08:44:00Z
+originalUrl: "https://menafn.com/1101127486/Uber-in-talks-to-sell-its-self-driving-car-division-Report"
+webUrl: "https://menafn.com/1101127486/Uber-in-talks-to-sell-its-self-driving-car-division-Report"
 type: article
-quality: 74
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541170142&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1RR"
-    width: 816
-    height: 545
+  - url: "https://menafn.com/updates/pr/2020-11/15/I_5824e1d3-2image_story.jpg"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -53,6 +47,22 @@ related:
     webUrl: "https://www.reuters.com/article/us-uber-aurora-idUSKBN27T30K"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T30K"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T30K"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541170142&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1RR"
+        width: 816
+        height: 545
+        isCached: true
+  - title: "Uber in talks to sell its ATG self-driving unit to Aurora - TechCrunch"
+    excerpt: "Uber Technologies Inc <UBER.N> is in talks to sell its autonomous driving unit, Uber Advanced Technologies Group, to self-driving car startup Aurora, TechCrunch reported on Friday, citing people familiar with the matter."
+    publishedDateTime: 2020-11-14T03:38:00Z
+    webUrl: "https://www.reuters.com/article/uber-aurora/uber-in-talks-to-sell-its-atg-self-driving-unit-to-aurora-techcrunch-idUSL4N2HZ43V"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T30O"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T30O"
     type: article
     provider:
       name: Reuters
@@ -111,20 +121,6 @@ related:
         width: 1619
         height: 1080
         isCached: true
-  - title: "Uber in talks to sell its self-driving car division: Report"
-    excerpt: "According to a report in TechCrunch, the sale of Uber Advanced Technologies Group (UberATG) would mark the end of a bumpy road as the venture has been suffering fr"
-    publishedDateTime: 2020-11-15T08:44:00Z
-    webUrl: "https://menafn.com/1101127486/Uber-in-talks-to-sell-its-self-driving-car-division-Report"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2020-11/15/I_5824e1d3-2image_story.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Uber in talks to sell multibillion-dollar self-driving group - report"
     excerpt: "Uber (NYSE:UBER) is in talks to sell its self-driving Autonomous Group to a competing start-up, TechCrunch reports."
     publishedDateTime: 2020-11-13T22:25:00Z
@@ -135,6 +131,6 @@ related:
       domain: seekingalpha.com
     quality: 4
 
-secured: "zxEnp+tUjG/FEPQ0e2opz8TFwveiPyQ6bTq0qB4l1Zs1nwM3NBqOaik5Lhuq4FYBsBbL3IEuqjWOBQvT0JzvEs3WsUPmtd+Vr/nsAAXXHvYchnkTj+/VMPhGnQD9e6TQ+AOCEakmegLlQ9GEls4QldQqdSL4N92qb8kkHZWeUvXX1TGZQ9S7DkOAGzp1eRdzNXVQp/ZG9Gin8zff1qAlZXoybylxAv139gpUuHBSwVbo/4LapOKG4dNhfw262JDA++hAQTnekpH2VcyRhDdL310I1Ifo8WaWmbnHQGM+NHNEJHGgQ62r1m5HvsUJlCGzg9DhMKQovPcHZ+TJxAUL+5BEkFWmDoN8KXY6VzNLto8=;OsAwxzfqpEPfmt2TcQVs6g=="
+secured: "Ggg2efbx0RssIQC8vIjUoQPklBQ6W/WKE+MWJDgg9Ya5XO4f4Ek2FxeLDRp5a/cua01ja5kF6M+3kUvcezSRdJF2SruLgR5jtPW4LqphCz4/3n1Nh1QOhdXiM4uMKKGQpZ03/XRqBnpG5hEBh2T2LLv6DziZoB99QIgo4ZaqrrZ4/5OlL8vnj7PB4GIDYcVz9st0qfCV4tGQmBtI8h8JDBILReJ9EwOcfz5V02BjAjmSZkk/+HvpBXPTa3aQNjCtM0AnO7TkNKlzKk98MXdOSpQcRiV3GfoGrweXkXypw4KnQXVUq0PxiuTIwD/jiXKPfeVJzixreRwR/nPtuv5D1Na0EZ74BkzH9YZ9LdexDCk=;RTPeN320I4NhMv4ycmTKKg=="
 ---
 

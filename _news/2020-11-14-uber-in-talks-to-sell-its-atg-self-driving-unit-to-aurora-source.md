@@ -111,6 +111,20 @@ related:
         width: 1619
         height: 1080
         isCached: true
+  - title: "Uber in talks to sell its self-driving car division: Report"
+    excerpt: "According to a report in TechCrunch, the sale of Uber Advanced Technologies Group (UberATG) would mark the end of a bumpy road as the venture has been suffering fr"
+    publishedDateTime: 2020-11-15T08:44:00Z
+    webUrl: "https://menafn.com/1101127486/Uber-in-talks-to-sell-its-self-driving-car-division-Report"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/2020-11/15/I_5824e1d3-2image_story.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Uber in talks to sell multibillion-dollar self-driving group - report"
     excerpt: "Uber (NYSE:UBER) is in talks to sell its self-driving Autonomous Group to a competing start-up, TechCrunch reports."
     publishedDateTime: 2020-11-13T22:25:00Z
