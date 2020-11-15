@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financemagnates.com/fintech/news/christian-frahms-united
 cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/christian-frahms-united-fintech-to-ease-banks-digitization/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Finance Magnates
@@ -27,36 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "UAE based Fintech BankOnUs Introduces AI enhanced Financial and Insurance Services Comparison App"
-    excerpt: "UAE based Fintech firm BankOnUs has introduced an AI enhanced financial and insurance services comparison app."
-    publishedDateTime: 2020-11-11T02:11:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/11/168829-uae-based-fintech-bankonus-introduces-ai-enhanced-financial-and-insurance-services-comparison-app/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/168829-uae-based-fintech-bankonus-introduces-ai-enhanced-financial-and-insurance-services-comparison-app/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/168829-uae-based-fintech-bankonus-introduces-ai-enhanced-financial-and-insurance-services-comparison-app/amp/"
+  - title: "If You Are Interested, the FDIC is Looking to Hire Fintech Counsel"
+    excerpt: "The Federal Deposit Insurance Corporation (FDIC) is looking to boost its Fintech bench by hiring three individuals to help with legal issues regarding Fintech. According to a post on USAJOBS, responsibilities include: Analyzing and advising on the interpretation of statutes,"
+    publishedDateTime: 2020-11-12T17:36:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/11/169073-if-you-are-interested-the-fdic-is-looking-to-hire-fintech-counsel/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/169073-if-you-are-interested-the-fdic-is-looking-to-hire-fintech-counsel/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/169073-if-you-are-interested-the-fdic-is-looking-to-hire-fintech-counsel/amp/"
     type: article
     provider:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
-    quality: 61
+    quality: 44
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/10/Mastercard-Touchless-Payments-iPhone-Wallet-Credit-Card-300x232.jpg"
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/The-Washington-Monument-Blue-Sky-Washington-DC-300x225.jpeg"
         width: 300
-        height: 232
+        height: 225
         isCached: true
-  - title: "SA AI-based fintech startup FinChatBot raises $1.6m to expand into Europe, West Africa"
-    excerpt: "South African startup FinChatBot, a creator of conversational artificial intelligence (AI) solutions for the financial services industry, has raised a US$1.6 million funding round to help it expand into Europe and West Africa."
-    publishedDateTime: 2020-11-12T14:27:00Z
-    webUrl: "https://disrupt-africa.com/2020/11/sa-ai-based-fintech-startup-finchatbot-raises-1-6m-to-expand-into-europe-west-africa/"
+  - title: "Bank ABC set to host MEA Fintech Forum"
+    excerpt: "MEA Fintech Forum underlines Bank ABC’s commitment and Bahrain’s vision to becoming a leading fintech hub This website uses cookies to improve your online experience. They were placed on your computer when you launched this website."
+    publishedDateTime: 2020-11-11T09:19:00Z
+    webUrl: "https://www.zawya.com/mena/en/business/story/Bank_ABC_set_to_host_MEA_Fintech_Forum-SNG_189634310/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_189634310/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_189634310/"
     type: article
     provider:
-      name: disrupt-africa.com
-      domain: disrupt-africa.com
-    quality: 31
-    images:
-      - url: "https://disrupt-africa.com/wp-content/uploads/2020/11/Members-of-team-FinChatBot-scaled.jpg"
-        width: 2560
-        height: 1673
-        isCached: true
+      name: Zawya
+      domain: zawya.com
+    quality: 39
   - title: "Codebase Technologies pushes for FinTech-led innovation with release of its Digibanc Digital Roshan solutions"
     excerpt: "Codebase Technologies has introduced a brand-new digital FinTech offering, Digibanc Digital Roshan, to empower conventional and Islamic banks in Pakistan to manage seamless, consistent, and"
     publishedDateTime: 2020-11-12T08:32:00Z

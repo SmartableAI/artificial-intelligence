@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/13/apple-blamed-ibm-and-intel-for-ma
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/13/apple-blamed-ibm-and-intel-for-mac-chip-delays-but-tsmc-wont-be-next/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

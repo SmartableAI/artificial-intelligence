@@ -2,6 +2,92 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2020-10-05-combining-ai-and-nanotechnology-to-create-robot-assisted-molecular-manipulation.md",
+      "title": "Combining AI and Nanotechnology to Create Robot-Assisted Molecular Manipulation",
+      "excerpt": "A team of scientists from Forschungszentrum Jülich and TU Berlin is working on a project to create an autonomous artificial intelligence system with the ability to pick up and move individual molecules.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azonano.com/article.aspx?ArticleID=5561",
+      "originalUrl": "https://www.azonano.com/article.aspx?ArticleID=5561",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.azonano.com/images/Article_Images/ImageForArticle_5561_16018955172079789.png",
+          "width": 950,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azonano.com/amp/article.aspx?ArticleID=5561",
+      "cdnAmpWebUrl": "https://www-azonano-com.cdn.ampproject.org/c/s/www.azonano.com/amp/article.aspx?ArticleID=5561",
+      "publishedDateTime": "2020-10-05T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AZoNano",
+        "domain": "azonano.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-gitai-aims-to-bring-autonomous-robot-workers-to-space.md",
+      "title": "GITAI Aims to Bring Autonomous Robot Workers to Space",
+      "excerpt": "Since its start, GITAI has focused its efforts on various robots ... since with the current technology level of AI, what a robot can do autonomously is very limited. However, in an environment where the latency becomes noticeable, it would become more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20740/GITAI-Aims-to-Bring-Autonomous-Robot-Workers-to-Space.aspx",
+      "originalUrl": "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20740/GITAI-Aims-to-Bring-Autonomous-Robot-Workers-to-Space.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.engineering.com/portals/0/BlogFiles/60_ima1.png",
+          "width": 640,
+          "height": 358,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.engineering.com/amp/20740.html",
+      "cdnAmpWebUrl": "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20740.html",
+      "publishedDateTime": "2020-10-05T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engineering",
+        "domain": "engineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-the-importance-of-human-machine-ai-team-building.md",
       "title": "The Importance Of Human-Machine AI Team-Building",
       "excerpt": "In the future, teams of human domain experts and their AI-bot sidekicks could make sure critical assets in the fuel retail industry are safe, always available, performing at their optimal state and protected from cybersecurity threats.",
@@ -1077,101 +1163,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india.md",
-      "title": "IIT Jodhpur Receives NVIDIA DGX A100 AI System in India",
-      "excerpt": "Education News: DGX A100 -- the world's most advanced AI system -- will be accessible to all students at the campus and will facilitate advanced AI research and educa",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/articleshow/78457955.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/articleshow/78457955.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-78457905/78457905.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/amp_articleshow/78457955.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/iit-jodhpur-receives-nvidia-dgx-a100-ai-system-in-india/amp_articleshow/78457955.cms",
-      "publishedDateTime": "2020-10-02T22:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-simplify-data-management-with-new-apis-in-amazon-personalize.md",
-      "title": "Simplify data management with new APIs in Amazon Personalize",
-      "excerpt": "Amazon Personalize now makes it easier to manage your growing item and user catalogs with new APIs to incrementally add items and users in your datasets to create personalized recommendations. With the new putItems and putUsers APIs, you can simplify the process of managing your datasets. You no longer",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-data-management-with-new-apis-in-amazon-personalize/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-data-management-with-new-apis-in-amazon-personalize/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-02T16:00:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

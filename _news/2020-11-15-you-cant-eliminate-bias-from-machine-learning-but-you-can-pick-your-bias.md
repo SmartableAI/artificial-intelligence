@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/14/you-cant-eliminate-bias-from-mach
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/14/you-cant-eliminate-bias-from-machine-learning-but-you-can-pick-your-bias/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

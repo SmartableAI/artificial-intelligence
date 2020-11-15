@@ -7,7 +7,7 @@ originalUrl: "https://www.infoworld.com/article/3596432/how-amazon-retail-system
 webUrl: "https://www.infoworld.com/article/3596432/how-amazon-retail-systems-run-machine-learning-predictions-with-apache-spark.html"
 type: article
 quality: 83
-heat: 95
+heat: 93
 published: true
 
 provider:

@@ -25,6 +25,22 @@ topics:
   - AI
 
 related:
+  - title: "Velodyne aims to price new self-driving car sensor below $500"
+    excerpt: "Velodyne Lidar Inc said on Friday it would introduce a new lidar unit, a key sensor in self-driving cars, with a target price point of less than $500 and no moving parts."
+    publishedDateTime: 2020-11-14T09:24:00Z
+    webUrl: "https://www.reuters.com/article/velodyne-lidar-tech-idUSKBN27U03K"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27U03K"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27U03K"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201114&t=2&i=1541186609&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAD04G"
+        width: 818
+        height: 545
+        isCached: true
   - title: "This $500 LIDAR wants to give self-driving cars and ADAS better vision"
     excerpt: "A $500 LIDAR sensor for ADAS and autonomous cars could help take the technology mainstream, giving new vehicles an extra sense that some driverless experts think will be essential if Level 4 and 5"
     publishedDateTime: 2020-11-13T21:15:00Z
@@ -41,17 +57,6 @@ related:
         width: 1587
         height: 992
         isCached: true
-  - title: "Velodyne Aims to Price New Self-Driving Car Sensor Below $500"
-    excerpt: "Velodyne Lidar Inc said on Friday it would introduce a new lidar unit, a key sensor in self-driving cars, with a target price point of less than $500 and no moving parts. Velodyne became a public company in September and is one of several companies vying to supply automakers with lidar,"
-    publishedDateTime: 2020-11-14T15:33:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-11-13/velodyne-targets-sub-500-price-point-for-self-driving-car-sensor"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-11-13/velodyne-targets-sub-500-price-point-for-self-driving-car-sensor?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-11-13/velodyne-targets-sub-500-price-point-for-self-driving-car-sensor?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 69
   - title: "Velodyne targets sub-$500 price point for self-driving car sensor"
     excerpt: "Velodyne Lidar Inc <VLDR.O> said on Friday it would introduce a new lidar unit, a key sensor in self-driving cars, with a target price point of less than $500 and no moving parts."
     publishedDateTime: 2020-11-13T13:19:00Z
@@ -63,15 +68,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 54
-  - title: "Self-driving shuttle startup raises $500 million in funding"
-    excerpt: "Nuro, a developer of self-driving shuttles, has raised $500 million in funding to help grow the company’s autonomous goods delivery service. The funding included participation from Fidelity Management & Research Company,"
-    publishedDateTime: 2020-11-15T13:37:00Z
-    webUrl: "https://electronics360.globalspec.com/article/15954/self-driving-shuttle-startup-raises-500-million-in-funding"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 19
 
 secured: "ZVQLN7oIesMCGg9h2G2oPvvhI6VGBnUtE8KV8slnvZ16P3RqNOWhlxetaIlPUZWZ9NhDDGGGoa3ZGBK+KzL9BRK/yAHoOXEfoPXKjrGjOwj2QRBNg3xf7cEWq2fzASJkH1OjDMJYPWzofJorWKOe3VyZ9mBVp819NhBQIbA5fmz2xy4Zwu0VI03RK5Ru2Z1SyPDmZEs9Vws3B+kO3G29Nqg2Yggy+GVGCAmCTbjn/iO+3fQYxmZ4Rx9CAp2hjr+jjo5v3XMOlR6ugvGK70sd458XA0WH8ADbHA76QmPhKzytVMnvzxw25P+UTU5bCbSdM1y+X4+0RdyTaQF8LPQ+lfK5HZjYX4zirxs3AY+4lZM=;GxJ2xuBFcmH+HcPT4E9E7A=="
 ---

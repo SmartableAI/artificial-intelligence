@@ -144,6 +144,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-12-christian-frahms-united-fintech-to-ease-banks-digitization.md",
+      "title": "Christian Frahm’s United Fintech to Ease Bank’s Digitization",
+      "excerpt": "Fintech veteran Christian Frahm has launched United Fintech, a company that is aiming to provide banks and other financial institutions access to capital market-focused digital technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financemagnates.com/fintech/news/christian-frahms-united-fintech-to-ease-banks-digitization/",
+      "originalUrl": "https://www.financemagnates.com/fintech/news/christian-frahms-united-fintech-to-ease-banks-digitization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financemagnates.com/wp-content/uploads/2020/11/fintech.jpg",
+          "width": 722,
+          "height": 414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financemagnates.com/fintech/news/christian-frahms-united-fintech-to-ease-banks-digitization/amp/",
+      "cdnAmpWebUrl": "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/christian-frahms-united-fintech-to-ease-banks-digitization/amp/",
+      "publishedDateTime": "2020-11-12T00:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finance Magnates",
+        "domain": "financemagnates.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-korean-payment-giants-danal-fintech-joins-icon-blockchain-ecosystem.md",
       "title": "Korean Payment Giant’s Danal Fintech Joins ICON Blockchain Ecosystem",
       "excerpt": "Danal Fintech, a subsidiary of Danal ( one of the largest payment companies in South Korea, today announced that they are joining the ICON blockchain ecosystem, the largest decentralized network in Korea by market capitalization.",
@@ -512,6 +555,50 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.md",
+      "title": "How machine learning and 4D analytics can protect Australians from financial fraud",
+      "excerpt": "While COVID-19 is changing the face of reality on a global scale, it is also bringing many Australians unprecedented financial struggles. Unfortunately, we are also seeing a rise in financial crimes and identity theft as scammers target Australian families,",
+      "sourceUrl": null,
+      "webUrl": "https://dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html",
+      "originalUrl": "https://dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dynamicbusiness.com.au/wp-content/uploads/2020/11/Untitled-design-2020-11-05T135149.144-696x392.png",
+          "width": 696,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html?amp",
+      "cdnAmpWebUrl": "https://dynamicbusiness-com-au.cdn.ampproject.org/c/s/dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html?amp",
+      "publishedDateTime": "2020-11-04T20:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dynamic Business",
+        "domain": "dynamicbusiness.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1277,84 +1364,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-banking-on-ai-how-ai-is-changing-the-face-of-fintech.md",
-      "title": "Banking on AI: How AI is changing the face of Fintech",
-      "excerpt": "A recent study by McKinsey suggested that by 2022, over 30% of the tasks in the Fintech sector would be taken over by machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiainfoline.com/article/news-sector-banking-financials/banking-on-ai-how-ai-is-changing-the-face-of-fintech-120101400447_1.html",
-      "originalUrl": "https://www.indiainfoline.com/article/news-sector-banking-financials/banking-on-ai-how-ai-is-changing-the-face-of-fintech-120101400447_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg",
-          "width": 350,
-          "height": 233,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiainfoline.com/article-amp/news-sector-banking-financials/banking-on-ai-how-ai-is-changing-the-face-of-fintech-120101400447_1.html",
-      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-banking-financials/banking-on-ai-how-ai-is-changing-the-face-of-fintech-120101400447_1.html",
-      "publishedDateTime": "2020-10-14T19:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Infoline",
-        "domain": "indiainfoline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-experian-partners-with-standard-chartered-to-drive-financial-inclusion-with-machine-learning-powering-the-next-generation-of-decisioning.md",
-      "title": "Experian partners with Standard Chartered to drive Financial Inclusion with Machine Learning, powering the next generation of Decisioning",
-      "excerpt": "Leveraging innovation in technology to provide access to credit during uncertain times to populations underserved by formal financial services. This social impact was made possible by the Bank's digit",
-      "sourceUrl": null,
-      "webUrl": "https://www.ryt9.com/en/anpi/244869",
-      "originalUrl": "https://www.ryt9.com/en/anpi/244869",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-14T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RYT9",
-        "domain": "ryt9.com",
         "images": null,
         "publishers": null,
         "authors": null

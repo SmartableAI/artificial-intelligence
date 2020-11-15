@@ -59,20 +59,6 @@ related:
         width: 932
         height: 470
         isCached: true
-  - title: "Walmart & Cruise with Self-Driving will Deliver in AZ"
-    excerpt: "Walmart is cruising over to Scottsdale, Arizona, to rev up a new pilot with self-driving car company, Cruise. What’s unique about Cruise is they’re the only self-driving car company to operate an"
-    publishedDateTime: 2020-11-11T01:22:00Z
-    webUrl: "https://www.autoconnectedcar.com/2020/11/walmart-cruise-with-self-driving-will-deliver-in-az/"
-    type: article
-    provider:
-      name: autoconnectedcar.com
-      domain: autoconnectedcar.com
-    quality: 24
-    images:
-      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2020/11/cruisewalmart.jpg"
-        width: 408
-        height: 256
-        isCached: true
   - title: "Walmart and Self-Driving Delivery Cars"
     excerpt: "Walmart announced that it will begin experimenting with self-driving cars in a pilot program with General Motors-backed Cruise (a tech start-up with electric, self-driving cars) to deliver groceries a"
     publishedDateTime: 2020-11-12T19:47:00Z

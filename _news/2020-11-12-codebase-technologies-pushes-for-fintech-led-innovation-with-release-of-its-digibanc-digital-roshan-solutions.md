@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "UAE based Fintech BankOnUs Introduces AI enhanced Financial and Insurance Services Comparison App"
-    excerpt: "UAE based Fintech firm BankOnUs has introduced an AI enhanced financial and insurance services comparison app."
-    publishedDateTime: 2020-11-11T02:11:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/11/168829-uae-based-fintech-bankonus-introduces-ai-enhanced-financial-and-insurance-services-comparison-app/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/168829-uae-based-fintech-bankonus-introduces-ai-enhanced-financial-and-insurance-services-comparison-app/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/168829-uae-based-fintech-bankonus-introduces-ai-enhanced-financial-and-insurance-services-comparison-app/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 61
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/10/Mastercard-Touchless-Payments-iPhone-Wallet-Credit-Card-300x232.jpg"
-        width: 300
-        height: 232
-        isCached: true
   - title: "Christian Frahm’s United Fintech to Ease Bank’s Digitization"
     excerpt: "Fintech veteran Christian Frahm has launched United Fintech, a company that is aiming to provide banks and other financial institutions access to capital market-focused digital technologies."
     publishedDateTime: 2020-11-12T08:49:00Z
@@ -59,20 +43,33 @@ related:
         width: 722
         height: 414
         isCached: true
-  - title: "SA AI-based fintech startup FinChatBot raises $1.6m to expand into Europe, West Africa"
-    excerpt: "South African startup FinChatBot, a creator of conversational artificial intelligence (AI) solutions for the financial services industry, has raised a US$1.6 million funding round to help it expand into Europe and West Africa."
-    publishedDateTime: 2020-11-12T14:27:00Z
-    webUrl: "https://disrupt-africa.com/2020/11/sa-ai-based-fintech-startup-finchatbot-raises-1-6m-to-expand-into-europe-west-africa/"
+  - title: "If You Are Interested, the FDIC is Looking to Hire Fintech Counsel"
+    excerpt: "The Federal Deposit Insurance Corporation (FDIC) is looking to boost its Fintech bench by hiring three individuals to help with legal issues regarding Fintech. According to a post on USAJOBS, responsibilities include: Analyzing and advising on the interpretation of statutes,"
+    publishedDateTime: 2020-11-12T17:36:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/11/169073-if-you-are-interested-the-fdic-is-looking-to-hire-fintech-counsel/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/169073-if-you-are-interested-the-fdic-is-looking-to-hire-fintech-counsel/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/169073-if-you-are-interested-the-fdic-is-looking-to-hire-fintech-counsel/amp/"
     type: article
     provider:
-      name: disrupt-africa.com
-      domain: disrupt-africa.com
-    quality: 31
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
     images:
-      - url: "https://disrupt-africa.com/wp-content/uploads/2020/11/Members-of-team-FinChatBot-scaled.jpg"
-        width: 2560
-        height: 1673
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/The-Washington-Monument-Blue-Sky-Washington-DC-300x225.jpeg"
+        width: 300
+        height: 225
         isCached: true
+  - title: "Bank ABC set to host MEA Fintech Forum"
+    excerpt: "MEA Fintech Forum underlines Bank ABC’s commitment and Bahrain’s vision to becoming a leading fintech hub This website uses cookies to improve your online experience. They were placed on your computer when you launched this website."
+    publishedDateTime: 2020-11-11T09:19:00Z
+    webUrl: "https://www.zawya.com/mena/en/business/story/Bank_ABC_set_to_host_MEA_Fintech_Forum-SNG_189634310/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_189634310/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_189634310/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 39
 
 secured: "BqL9ZwWg9Rvn22x8y0jv7VF6cCqmSVyWGAYOHU/kJUgq6nXI0UtNg3Z0/jNy4r38ITzzX+JS0yvJbp64nwwW8PvNcJBZ926PCNC7I4piE2T1EcS5jPCErJ3loTYMgNOBdKKz3swpFKv3Nnv8a7arnWgwvzxPUVqnY9V0ZftOvLEBt4V9PjiY3ruki8q2Ja4ea03d9BQYaKS927oto09acMKNsvbWJTcHS2u+Hrn05xS00QdaAAR/8G/W5unvkTbJEDlQIKCjKycskQwp6T+cYXSU12pXNd/HkeKUOVL/J85cVdIgL9i7R7sdzNGVURjNmWvbaO5YvbnLHlgoR81PGMd7vP6o6VVTfmGJAgFa81/mPaRl5MRdJQmxi2Xf55wNpACIekDhr85tVMMpgVSpFQhqmr0zKtaNdDrh15ijLvIKopck21fkhg51XlsFAgTkDsqbOEovcCORPhAYRacB8x9hwsGsupkKIw4g+67U6QzFsK6w0e2K+FhW3/cSWf8tVSk9fAQUKRXB+mif9SzfKg==;OHZeOsK9rGCzgcyRNSyf9w=="
 ---

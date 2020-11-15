@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Velodyne Aims to Price New Self-Driving Car Sensor Below $500"
-excerpt: "Velodyne Lidar Inc said on Friday it would introduce a new lidar unit, a key sensor in self-driving cars, with a target price point of less than $500 and no moving parts. Velodyne became a public company in September and is one of several companies vying to supply automakers with lidar,"
-publishedDateTime: 2020-11-14T15:33:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2020-11-13/velodyne-targets-sub-500-price-point-for-self-driving-car-sensor"
-webUrl: "https://www.usnews.com/news/technology/articles/2020-11-13/velodyne-targets-sub-500-price-point-for-self-driving-car-sensor"
-ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-11-13/velodyne-targets-sub-500-price-point-for-self-driving-car-sensor?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-11-13/velodyne-targets-sub-500-price-point-for-self-driving-car-sensor?context=amp"
+title: "Velodyne aims to price new self-driving car sensor below $500"
+excerpt: "Velodyne Lidar Inc said on Friday it would introduce a new lidar unit, a key sensor in self-driving cars, with a target price point of less than $500 and no moving parts."
+publishedDateTime: 2020-11-14T09:24:00Z
+originalUrl: "https://www.reuters.com/article/velodyne-lidar-tech-idUSKBN27U03K"
+webUrl: "https://www.reuters.com/article/velodyne-lidar-tech-idUSKBN27U03K"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27U03K"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27U03K"
 type: article
-quality: 69
-heat: -1
-published: false
+quality: 89
+heat: 119
+published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201114&t=2&i=1541186609&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAD04G"
+    width: 818
+    height: 545
+    isCached: true
 
 related:
   - title: "This $500 LIDAR wants to give self-driving cars and ADAS better vision"
@@ -63,16 +69,7 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 54
-  - title: "Self-driving shuttle startup raises $500 million in funding"
-    excerpt: "Nuro, a developer of self-driving shuttles, has raised $500 million in funding to help grow the company’s autonomous goods delivery service. The funding included participation from Fidelity Management & Research Company,"
-    publishedDateTime: 2020-11-15T13:37:00Z
-    webUrl: "https://electronics360.globalspec.com/article/15954/self-driving-shuttle-startup-raises-500-million-in-funding"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 19
 
-secured: "OO6bdjLoIzA81Syz91J/Ey3gcokV+vaB1bNKRJeK/9xi+kLn2oHliRYGX+nQhPUJDvoFKxcHQArIjLKSPmblbP/2sejhDIRiuoBysEG5G1Z3THee+wqhf7kNtrLpjaJNYU+l6npqWIjlBbHkK3p9DyRQjPUzwigG0qykB/B3cYp/qq/25ti+W9ib26W+UJKUAimm9x/JKUB6KXTnFuegQ+C7WAwftMR5G8uVxIiVKC6uwXpwa4qtFOT7I7V6+fnCiAASKYN8Wpxe1niY34G/wJdO2SToage9zVlAdi5qCXep200bWI8XP2s/JEd0uCtBJve+oMe/4YrsqBGLT8lkYcDHFAk78Qkoia1hBOL8iGhb+5rqEBP6qtjjmqRCyU5Y74ILkGTCfeKK2Ey5l9l2zj3uB8V7B6AjpqFsUQ4fuqgx/HGiEa94iUKDKkxd+Yky4aH4awilJXvBv4Zv55+TWni1L8ss3H99qewWxFwIjidG3YfLyTYVdniTMt8bWs2Tzj/KvXfYQkPmFMeWpXmDLQ==;IdPtUGXR5S+HSGL1e36ktg=="
+secured: "ftpzN0HCnsAbf+paXWou5WhfgsHAmrmLNIn7kqe/j7ABwQ1k2dgn5asI4HXLRrE4SpxYvyrHgSG7yeN3WOWdK4vhqbhfcO6fYcwjQ1rmNij+BPUsDRazyF3zNZNbezuNxcDv+hhcC02JSsKNfgZuw/QVtElAr0X4iONr/MtGrQdy7czVjiZHFK0l7wNdo+sU1rBa/PqsRnxSuoKmCdp6Bjevbc/h/S2IT45TbdIxCpGJ4kLnG+Bl/RkWADPruR1p9+9nLAYRq9/348OjVMzSr84H+DiYg0MO+9OSExc43Inu2Uq6VXhPcdiddOBOY5lX/PImchMSwe9/lEeibPw73PKcV9IylP7PaamRXPny4M0=;FZCU24bgebetowu0tF9yRA=="
 ---
 

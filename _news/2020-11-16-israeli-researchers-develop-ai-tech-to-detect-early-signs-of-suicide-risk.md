@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-15T16:06:00Z
 originalUrl: "https://nocamels.com/2020/11/suicide-risk-tendencies-early-technion-hebrew-university-research/"
 webUrl: "https://nocamels.com/2020/11/suicide-risk-tendencies-early-technion-hebrew-university-research/"
 type: article
-quality: 16
+quality: 20
 heat: -1
 published: false
 
@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
+  - Natural Language Processing
 
 related:
   - title: "Researchers find new way to detect early onset of suicidal thoughts"
