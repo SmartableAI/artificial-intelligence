@@ -29,15 +29,6 @@ images:
 
 related:
   - title: "IBM Advances Hybrid Cloud Software with New Data and Automation Capabilities to Help Companies Speed Digital Transformations"
-    excerpt: "IBM today announced a series of data and automation updates to its hybrid cloud software portfolio to help companies drive innovation across their expanding environments and accelerate their digital transformations."
-    publishedDateTime: 2020-11-10T14:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/ibm-advances-hybrid-cloud-software-with-new-data-and-automation-capabilities-to-help"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 7
-  - title: "IBM Advances Hybrid Cloud Software with New Data and Automation Capabilities to Help Companies Speed Digital Transformations"
     excerpt: "In addition, Cloud Pak offerings integrate with IBM Watson, enabling clients to infuse AI into their systems to predict and analyze future outcomes, automate complex processes, optimize employees ..."
     publishedDateTime: 2020-11-10T21:23:00Z
     webUrl: "https://www.prnewswire.com/news-releases/ibm-advances-hybrid-cloud-software-with-new-data-and-automation-capabilities-to-help-companies-speed-digital-transformations-301169589.html"

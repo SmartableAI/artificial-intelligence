@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/cash-flow-solutions-and
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cash-flow-solutions-and-transaction-science-join-forces-as-ribbit-an-ai-fintech-firm-1029788757"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/10/Mastercard-Touchless-Payments-iPhone-Wallet-Credit-Card-300x232.jpg"
         width: 300
         height: 232
-        isCached: true
-  - title: "Fintech Firm Quadpay Gets The Urge for Visual Fashion Search"
-    excerpt: "Pay Later” company QuadPay aims to bring visual fashion search to the platform, with $6.1 million Urge Holdings acquisition."
-    publishedDateTime: 2020-11-10T14:06:00Z
-    webUrl: "https://wwd.com/business-news/technology/quadpay-acquisition-the-urge-shnap-visual-fashion-search-1234654635/"
-    type: article
-    provider:
-      name: Women's Wear Daily
-      domain: wwd.com
-    quality: 24
-    images:
-      - url: "https://wwd.com/wp-content/uploads/2020/11/001_AG_GUCCI_SHOW_FW20_VIP-7822.jpg?crop=0px%2C146px%2C1000px%2C668px&resize=394%2C263"
-        width: 394
-        height: 263
         isCached: true
 
 secured: "Kwh1HLg2S4DnoH4Z9a3hS/CgVQpX6Yi3efyhwv9NfOTGytQmZbhnRCmr7Lm/ia4IfkBKyquARVQwwIpM2+JrE1YFqKYc7mFixuRMPwCsT+S3JmgER5GtKAYwuTSjj5DB1g2QxsD3KGm7S6nyoUvQolrftoHVqyOh5goYRbpUKsbEnRdcrML7RP/opXsBM+Hl8W5328h9RkNFpfn2UR6iVnyoTg18X6WBEQzTnCPBl8I88+RP0HyvifT+t2uizVpZG4ce7BWRoMMh08Cm7o1Qm+yL8LEoc1fU6UU6tfZhbV1mjh+x0Ic0GZ93O9HLxbxE99/6evqzuLTF27TvbXFL3O/aiPOQxks/zxVkE6MDgkM=;BC0ohpkDc4eC/oTw6DJKFA=="

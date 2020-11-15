@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/databricks-launches-sql-ana
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/databricks-launches-sql-analytics/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -35,6 +35,20 @@ related:
     excerpt: "Fivetran, the leading provider of automated data integration, today announced advancements in its integration with Databricks, the Data and AI Company, extending the companies’ strategic partnership to power the modern data stack."
     publishedDateTime: 2020-11-12T11:01:00Z
     webUrl: "https://apnews.com/press-release/business-wire/technology-science-north-america-oakland-data-management-57cceda099c04b3ba467ab0a2c42019b"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Fivetran Extends Integration With Databricks, Accelerating SQL Analytics, Data Science and Machine-Learning Applications"
+    excerpt: "Fivetran, the leading provider of automated data integration, today announced advancements in its integration with Databricks, the Data and AI Company, extending the companies’ strategic partnership to power the modern data stack."
+    publishedDateTime: 2020-11-12T17:47:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-science-north-america-oakland-data-management-8da6f804a3b74d80bd10a41db51e8411"
     type: article
     provider:
       name: Associated Press

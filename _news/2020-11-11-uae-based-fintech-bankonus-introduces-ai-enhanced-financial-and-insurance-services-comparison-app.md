@@ -38,20 +38,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 62
-  - title: "Fintech Firm Quadpay Gets The Urge for Visual Fashion Search"
-    excerpt: "Pay Later” company QuadPay aims to bring visual fashion search to the platform, with $6.1 million Urge Holdings acquisition."
-    publishedDateTime: 2020-11-10T14:06:00Z
-    webUrl: "https://wwd.com/business-news/technology/quadpay-acquisition-the-urge-shnap-visual-fashion-search-1234654635/"
-    type: article
-    provider:
-      name: Women's Wear Daily
-      domain: wwd.com
-    quality: 24
-    images:
-      - url: "https://wwd.com/wp-content/uploads/2020/11/001_AG_GUCCI_SHOW_FW20_VIP-7822.jpg?crop=0px%2C146px%2C1000px%2C668px&resize=394%2C263"
-        width: 394
-        height: 263
-        isCached: true
 
 secured: "7ex649rG+edtZLsSaAvMPo6y6vnRh8S2tirLSbFqKHnp0IN1g9fXunRKiRWmseiAujBQxhvsTcOYjTHgwPXeW7sWFYmz34/XDyI3I0AbppwUFcbrX+B+fn/DCa60WQfRDtFI3UqZ1xQJX38AGmHyCbakNr75JI7QGtho/PfpYX30k/HPYP33/O5PYkwnq4BCPFUA5Z68D1WWl/nByfHbegRGKZvEJsrFTkCn8Bo5fYZxakCwNsX172/jqFva7pDMMbiVVY0cWgGYM/fNaZh/8kzJlRgQ9br3GfFYnebSIyW9/HXvQEITUHWtmtBj6K3N6mzDbiGXHb5rdjMuoNpMwa/h7iyYSBydQIK+wMY1YRghtrsgIFMTHZUMAM/GRJFunoi9QWBsz/CBNRklqO5qJ+DT/RRrgQCD0Ykh5Fqclle3tpXGuHZ24o/qAuvZBtzmmfcKHgz65UA0qQLRozNOPrpfIjNdPPNOkRih/WgwxbSSq75Cfnzo7vtRzbtl3BLT34Kb5oUSrUwv1Ry4zauc0w==;8omvrEPQ0v9dCpumfhNzGw=="
 ---

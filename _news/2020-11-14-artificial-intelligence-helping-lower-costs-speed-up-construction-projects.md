@@ -3,10 +3,12 @@ category: news
 title: "Artificial intelligence helping lower costs, speed up construction projects"
 excerpt: "One company says it's AI technology can realize $30 million in savings on a $500 million project by reducing the cost of equipment and manpower."
 publishedDateTime: 2020-11-14T00:54:00Z
-originalUrl: "https://abc7news.com/ai-technology-coronavirus-construction-artificial-intelligence/7934677/"
-webUrl: "https://abc7news.com/ai-technology-coronavirus-construction-artificial-intelligence/7934677/"
+originalUrl: "https://abc7news.com/technology/ai-helping-lower-costs-speed-up-construction-projects/7934677/"
+webUrl: "https://abc7news.com/technology/ai-helping-lower-costs-speed-up-construction-projects/7934677/"
+ampWebUrl: "https://abc7news.com/amp/ai-technology-coronavirus-construction-artificial-intelligence/7934677/"
+cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/ai-technology-coronavirus-construction-artificial-intelligence/7934677/"
 type: article
-quality: 15
+quality: 55
 heat: -1
 published: false
 
@@ -16,6 +18,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://cdn.abcotvs.com/dip/images/7935065_111320-kgo-ai-chip-pacific-structures-img_Image_00-00-33,13.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "Super Glue Your Consumer Connections With AI"
@@ -35,6 +43,6 @@ related:
         height: 800
         isCached: true
 
-secured: "P8mVBeEYW9jEE1W1KRkqwEAjtatWZQnL/EN+NNu7dXPuZpgMqa3vxKnbLqJwQXo/KpteuQRCdi54G5JMCTR/waq70N8g4i89ganEKnQVPSdJKawIzfWCbqLGvgf8Lyl+QA4cFB/v9wq4wFmLvPgIt+8drxKmb1zGFHpvIaRFIEI0BA11P2eWjfVmr2aQST6usME7FCiGIM2J96GjKPX1PUdndzqXmFP7R682Pn9AJgGc4Krj0taGLD2yu/P65jsI5xHjFxhJ+8PGGVbB4mh8kcYc3tncon/a8Wai1SonSFJgZhUJhhlAPSJzN/3D7b0QjOX2bcRzi3Aiy/z+pvXKD5Zr1WXe5CT7PAqYJBLzRY0zL3I7rcgfvXFYtz39eRUl0PaTKw5oa619//OJWR1uQDZTe02XFhrjbZwsYDSL3qlyE3gOxe1O0QVrMzKtx3ZgXB9wDYIW3s+SCzMe7QbEmaXVgVQKHzNsHys6VRhgqEOiaCy6JdYRy3m0xhb5a+heMkjbJUOGRwiod856VnTBDA==;bixNAVBTgJ3tV4q+6toYqw=="
+secured: "G6JsOXxmGqdgzn5YtEfPrqfOkWGSso+R9ZaFA1ugI8a9Inmx3VZu6Szlo+3QJGyCW3B2v7BktsWK2AGlB3bOUolFSi7rlkvNvJ960sFQRfycoWzmVtOw3pQRpoUkaqLAvx4/H2p643e/6nly03bnzv4km8V1Khrul15/t8Wdy7DTuidYc/W92rDSsZruXxShBg/6IIrmbummjIp8egriU0zXxpKd+xsgVYdsiQUxm38l66xZMdW5+HCDhJrEU/clNo7fNNFOJ9qUGAeSdL1Tvdh2MBK9w/yRXdQYe+EtBaxNPqmuvlKTu8tzA3zZ3m1+GAV4II9SrmHA2OXKL8t9tHSOVWTlOXi9aMd4IvsG6rI=;O5gNAjnLyVCt6rMfYUbs5A=="
 ---
 

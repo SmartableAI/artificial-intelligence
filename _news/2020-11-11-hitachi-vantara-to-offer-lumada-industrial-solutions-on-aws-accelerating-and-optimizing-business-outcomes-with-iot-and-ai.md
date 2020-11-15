@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/hitachi-vantara-to-offe
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/hitachi-vantara-to-offer-lumada-industrial-solutions-on-aws-accelerating-and-optimizing-business-outcomes-with-iot-and-ai-1029787264"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -23,22 +23,6 @@ provider:
 topics:
   - AWS AI
   - AI
-
-related:
-  - title: "Hitachi Vantara to Offer Lumada Industrial Solutions on AWS, Accelerating and Optimizing Business Outcomes with IoT and AI"
-    excerpt: "Hitachi Vantara, the digital infrastructure and solutions subsidiary of Hitachi, Ltd. (TSE: 6501), today announced an expanded Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to offer Lumada industrial solutions on the AWS cloud platform."
-    publishedDateTime: 2020-11-10T14:41:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-software-industry-aafdfafdd01b6490d52af08807fe8a43"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 28
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "ZcCRup5zoFVNq6OUzl50ZZA/ppKnWzG6u26e+mi4NufU4qFZNrJAQg7nH/kbpQ6IlUTZ6eTXAvIR78XfP4IbLPrXcf51N6N9BmQZR9wjJxOuLm4FNBbDKihesDN5NjYpUErR2mSjxJ4gEhzvTaLffGldInNcZ5c23pgmVojLyAG/XFfwagya3rosf2Qdm4MHji3LbIotVn2UbMdgcHh1qOhgppegWwYG9atXV5DBmULdatf80xhSIuyfAAkQxmAorgvZEXvVwTfd0ObQaVqfa2Yt8aF5h95n6Kl4rw8LAxPihZPSQ6hg9rB2Q8yW2wJL5iS7jHfLYoDT4OCX8ou/oFwmkHVDxXuV0gj70iH+JFE=;1O00Rvx9bHie664mMi0yTA=="
 ---

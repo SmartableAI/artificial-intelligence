@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recogni
 webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-by-size-growth-opportunity-and-forecast-to-2026-2020-11-12"
 type: article
 quality: 62
-heat: -1
-published: false
+heat: 92
+published: true
 
 provider:
   name: MarketWatch
@@ -29,99 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "Global Service Robotics Market Size & Share By Sales Revenue, Future Demands, Growth Factors and Emerging Trends Forecast to 2026"
-    excerpt: "The global “Service Robotics Market” is expected to rise with an impressive CAGR and generate the highest revenue by"
-    publishedDateTime: 2020-11-10T15:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026-2020-11-10"
+  - title: "Artificial Intelligence in Education Market Report 2020 Expected Growth and its Factors, CAGR, Industry Size, Business Prospects and Forecast 2023"
+    excerpt: "In 2018, the worldwide GDP stood at USD 84,740.3 Billion as compared to the GDP of USD 80,144.5 Billion in 2017, marked"
+    publishedDateTime: 2020-11-12T08:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-report-2020-expected-growth-and-its-factors-cagr-industry-size-business-prospects-and-forecast-2023-2020-11-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 72
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice and Speech Recognition Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
-    excerpt: "Selbyville, Delaware According to the research report titled 'Voice and Speech Recognition Market Share, Size, Trends, Industry Analysis Report By Component; By Interface; By End-User; By Regions, Segments & Forecast,"
-    publishedDateTime: 2020-11-13T07:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2020-11-13"
+  - title: "Speech and Voice Recognition Market Booming By Size, Revenue And Trend In 2020 Scrutinized In New Research"
+    excerpt: "The Global Speech and Voice Recognition Market was valued at USD 5.21 billion in 2016 and is projected to reach USD 26.15 billion by 2025, growing at a CAGR of 19.63% from 2017 to 2025. Voice and Speech Recognition is the ability of a machine or program that can identify,"
+    publishedDateTime: 2020-11-11T06:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-booming-by-size-revenue-and-trend-in-2020-scrutinized-in-new-research-2020-11-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) Chips Market Analysis By Size, Segments, Applications, Types, Competitors, Demographics And Forecast To 2026"
-    excerpt: "The Report also calculate the market size,Artificial Intelligence (AI) Chips Sales, Price, Revenue, Gross Margin and Market Share, cost structure and growth rate. Final Report will add the analysis of the impact of COVID-19 on this industry."
-    publishedDateTime: 2020-11-11T12:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-analysis-by-size-segments-applications-types-competitors-demographics-and-forecast-to-2026-2020-11-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Deep Learning Chipset Market Analysis, Share, Growth, Product, Top Key Players and Forecast 2025"
-    excerpt: "Selbyville, Delaware, MarketStudyReport.com offers report on Global Deep Learning Chipset Market that evaluates industry growth trends through historical data and estimates prospects based on comprehensive research."
-    publishedDateTime: 2020-11-12T15:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-analysis-share-growth-product-top-key-players-and-forecast-2025-2020-11-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Machine Learning Market 2020 Industry Scenario, Strategies, Growth Factors and Forecast to 2026"
-    excerpt: "The latest informative study entitled Global Machine Learning Market 2020 by Company, Regions, Type and Application, Forecast to 2026 released for the database of MarketsandResearch.biz helps a reader to understand the market in depth."
-    publishedDateTime: 2020-11-12T07:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-2020-industry-scenario-strategies-growth-factors-and-forecast-to-2026-2020-11-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cognitive Services Market 2020 Industry Analysis, Global Trends, Market Size, Share, and Growth Opportunities Forecast to 2025"
-    excerpt: "Market Demand, Growth, Opportunities and Analysis Of Top Key Player Forecast To 2025” To Its Research Database Global Cognitive Services Market is accounted for $2.15 billion in 2017 and is expected to reach $40."
-    publishedDateTime: 2020-11-13T00:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-2020-industry-analysis-global-trends-market-size-share-and-growth-opportunities-forecast-to-2025-2020-11-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Military Robots Market Size Analysis, Key Growth Drivers, Share, Leading Key Players, Demand, Upcoming Trend and Forecast to 2027"
-    excerpt: "Global Military Robots Market is valued approximately at USD 21.4 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 12.92% over the forecast period 2020-2027. Military robots act as an alternative to human soldiers and are capable of managing a broader range of military combat operations,"
-    publishedDateTime: 2020-11-12T15:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/military-robots-market-size-analysis-key-growth-drivers-share-leading-key-players-demand-upcoming-trend-and-forecast-to-2027-2020-11-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
+    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -140,20 +70,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Global Artificial Intelligence in Security Market 2021: Segmented By Product, Top Manufacturers, Geography Trends & Forecasts To 2030"
-    excerpt: "Market.Biz –:COVID-19 Analysis: Turn massive Artificial Intelligence in Security Market challenges into | eTurboNews | Trends | Travel News Online |"
-    publishedDateTime: 2020-11-12T03:50:00Z
-    webUrl: "https://www.eturbonews.com/1647358/global-artificial-intelligence-in-security-market-2021-segmented-by-product-top-manufacturers-geography-trends-forecasts-to-2030-2/"
-    type: article
-    provider:
-      name: eTurboNews
-      domain: eturbonews.com
-    quality: 23
-    images:
-      - url: "https://www.eturbonews.com/wp-content/uploads/2020/10/eturbonewstravelnewslogo.jpg"
-        width: 300
-        height: 250
         isCached: true
 
 secured: "Lhv3q5wqPRHm3lSAaA3RSKQ9Gx6EiBBAdmSLVX8YitSBvM/lWWjHC+e/uyx6gwXRMUUlRLglFDDAi2zTOyIXN89/vdj39e2XZ7Wkqlu1nof+WLd9b3co3eSBh397EHGM+WArTRkRmEpkwo1fYzRdsKv/s9In5TC3Amsj0YiNf3Wk9GkWaxrLcjVULlMUgQrs4lTILdaXh93Su4ZKBYU/EesDfOw1zsl+NCKW+Zs+qqgaLhvHciP6N0rMSMZ5alfX+Sl864FPu17KJ7G6EeNWQFwn8OcbnX7jxVLRztZzB//4Z/VVBH6ZcjprHf90ZsqI8d63Zw2WsENjZXYfwlh4qzjrRqEIBlr7rzypI4EY/gE=;oxldMuYNXtVCPNzldf1k7g=="

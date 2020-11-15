@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-is-partnering-with-qualcomm-to-
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-is-partnering-with-qualcomm-to-enhance-ai-and-ml-developer-experience/"
 type: article
 quality: 117
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "AVEVA expands Microsoft collaboration with a focus on Cloud and AI"
-    excerpt: "AVEVA has extended its existing strategic collaboration with Microsoft to focus on accelerating digital transformation in the industrial sector."
-    publishedDateTime: 2020-11-10T14:00:00Z
-    webUrl: "https://www.controlengeurope.com/article/181914/index.aspx"
-    type: article
-    provider:
-      name: IML Group
-      domain: controlengeurope.com
-    quality: 54
-    images:
-      - url: "https://www.controlengeurope.com/global/showimage/Article/191004/"
-        width: 600
-        height: 390
-        isCached: true
   - title: "AVEVA Expands its Collaboration with Microsoft with a Focus on Cloud and AI to Drive Digital Transformation in the Manufacturing and Energy Industries"
     excerpt: "AVEVA to Collaborate with Microsoft to Provide Cloud Platform and Domain Expertise for Industrial Sector Organizations"
     publishedDateTime: 2020-11-10T18:14:00Z

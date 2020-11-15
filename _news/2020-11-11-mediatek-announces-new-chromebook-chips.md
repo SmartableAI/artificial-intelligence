@@ -104,20 +104,6 @@ related:
         width: 1500
         height: 989
         isCached: true
-  - title: "MediaTek Announces New MT8192 and MT8195 Chipsets Designed for Next Generation of Chromebooks"
-    excerpt: "MediaTek today unveiled its MT8192 and MT8195 chipsets for the next generation of Chromebooks. With the 7nm MT8192 for mainstream devices"
-    publishedDateTime: 2020-11-10T15:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/mediatek-announces-new-mt8192-and-mt8195-chipsets-designed-for-next-generation-of-chromebooks-301169305.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 13
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "6hk7aaho/15I03I/8sngsrhHBKQrrNtPXkYQQxd54h4V9tXbddkw7sII7yTEoVh8d66UBNcPPH1P7EP8Y1AhtfcT19rWDQiox3ka1b9y7lTOXcePhYjBFd0CAbdOviQvPYJFK0yhYSAVaLnZdnTxlXJrM2CWxQkLdNCGMZZKcfcng9VOkz+GkAddEQTvlGLWyK+EHEX3ZMcFoiP6dvdHN6wIHToQty8VZOPsch8Om4sxobZggNGYcF7PrFTPzq7Oholyb21WWdyKuSRFrjTAvw9BYDyCRao5wOJ7p1gWXCWZYIufZryBLPJiKPvGrksJhx/kzl55CWUQ487M5YtYT2dNUoJu8fuyOs4uyta6rKj7xxsSSi4Ml2Wb7yHHtVzirzFy0SMHwVETBOIDJGnk5u+VNKevICu67Bb1JZycqmoZEyG3A6Nte59RrHVxqSGhe3XV2MtcCqQT1RbpXJVDmSnYP1/haFN3FCmR6l80o1flX/3NHo/D2ZeY7R8PTyV74Kn15RePhF7ow9YW8MOmIw==;C70nzTiM6Y41wTAzc49i8g=="
 ---

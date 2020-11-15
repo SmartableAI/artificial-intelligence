@@ -43,6 +43,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice and Speech Recognition Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
+    excerpt: "Selbyville, Delaware According to the research report titled 'Voice and Speech Recognition Market Share, Size, Trends, Industry Analysis Report By Component; By Interface; By End-User; By Regions, Segments & Forecast,"
+    publishedDateTime: 2020-11-13T07:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2020-11-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) Chips Market Analysis By Size, Segments, Applications, Types, Competitors, Demographics And Forecast To 2026"
+    excerpt: "The Report also calculate the market size,Artificial Intelligence (AI) Chips Sales, Price, Revenue, Gross Margin and Market Share, cost structure and growth rate. Final Report will add the analysis of the impact of COVID-19 on this industry."
+    publishedDateTime: 2020-11-11T12:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-analysis-by-size-segments-applications-types-competitors-demographics-and-forecast-to-2026-2020-11-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Fintech Market 2020 Key Players Update, Regional Economy, Development Plans and Forecast to 2026"
     excerpt: "Comserve Inc. / -- Global Artificial Intelligence (AI) in Fintech Market is valued approximately USD 2.6 billion"
     publishedDateTime: 2020-11-13T13:53:00Z
@@ -57,6 +85,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Deep Learning Chipset Market Analysis, Share, Growth, Product, Top Key Players and Forecast 2025"
+    excerpt: "Selbyville, Delaware, MarketStudyReport.com offers report on Global Deep Learning Chipset Market that evaluates industry growth trends through historical data and estimates prospects based on comprehensive research."
+    publishedDateTime: 2020-11-12T15:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-analysis-share-growth-product-top-key-players-and-forecast-2025-2020-11-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Machine Learning Market 2020 Industry Scenario, Strategies, Growth Factors and Forecast to 2026"
+    excerpt: "The latest informative study entitled Global Machine Learning Market 2020 by Company, Regions, Type and Application, Forecast to 2026 released for the database of MarketsandResearch.biz helps a reader to understand the market in depth."
+    publishedDateTime: 2020-11-12T07:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-2020-industry-scenario-strategies-growth-factors-and-forecast-to-2026-2020-11-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "What are sales, revenue, and price analysis by types and applications of Autonomous Cars Market? Fortune Business Insights™"
     excerpt: "Autonomous Cars Market size is set to gain traction from the increasing innovations occurring in the transportation"
     publishedDateTime: 2020-11-12T00:21:00Z
@@ -66,6 +122,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cognitive Services Market 2020 Industry Analysis, Global Trends, Market Size, Share, and Growth Opportunities Forecast to 2025"
+    excerpt: "Market Demand, Growth, Opportunities and Analysis Of Top Key Player Forecast To 2025” To Its Research Database Global Cognitive Services Market is accounted for $2.15 billion in 2017 and is expected to reach $40."
+    publishedDateTime: 2020-11-13T00:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-2020-industry-analysis-global-trends-market-size-share-and-growth-opportunities-forecast-to-2025-2020-11-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

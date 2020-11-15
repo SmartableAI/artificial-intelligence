@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/il/news-releases/saferide-launches-vins
 webUrl: "https://www.prnewswire.com/il/news-releases/saferide-launches-vinsight---a-revolutionary-deep-learning-vehicle-health-management-platform-301169354.html"
 type: article
 quality: 12
-heat: -1
+heat: 12
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 697
     height: 366
     isCached: true
-
-related:
-  - title: "SafeRide Launches vInsight™ - a Revolutionary Deep-Learning Vehicle Health Management Platform"
-    excerpt: "SafeRide Technologies, a leading provider of AI-based vehicle health management (VHM), data analytics, and cybersecurity"
-    publishedDateTime: 2020-11-10T14:07:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/11/n18300774/saferide-launches-vinsight-a-revolutionary-deep-learning-vehicle-health-management-platform"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18300774"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18300774"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 12
 
 secured: "bJLaJRNNeVzuWk5HApl9Crb1eTsLXAAjQ8yDDW4oxORPW1ImVthO2Elpt7Zwekcqp5E21EXOr3b2MCMzjIyEzYrm3sCaaj8/v5GdBvaX85BOlJOnJFHElP31FjzFBdLaAk+yxCb9arK6ArzT0wZlcty45N6YcDfEyL5UbdXJxMpIzvUpZEm/kpTTSGsGA4hy3wNEugEs+08qheFaJ3CFKlKPATXNO7E8tjONpzOkYiZ8evaPbuvTzu+fjxGH3zGmL67V5kyBDPY3OOk7+F+1do30if+IU1Y9fsTLiNhg0WPNVhaEMpC+frV0MyK+3jpMUD/km470YL5Ya+B9YyusR5/uPpNBbmE69FPq5CvURa8=;sVr580Z9AcLASkzXgWrmFg=="
 ---

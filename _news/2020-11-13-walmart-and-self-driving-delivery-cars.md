@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Walmart and Cruise launch pilot to deliver orders via self-driving cars"
-    excerpt: "As part of the pilot, which is scheduled to begin in early 2021, customers will be able to place orders from a Walmart and have them delivered via one of Cruise’s electric self-driving Chevy Bolts."
-    publishedDateTime: 2020-11-10T14:15:00Z
-    webUrl: "https://venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars/"
-    ampWebUrl: "https://venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/11/Walmart-Cruise-e1604958243157.png?fit=800%2C450&strip=all"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Walmart and GM's Cruise partner for self-driving deliveries in Arizona"
     excerpt: "Planning a Walmart trip? Scottsdale locals will be able to have their goods delivered with zero-contact by a Cruise self-driving car prototype."
     publishedDateTime: 2020-11-10T18:01:00Z
@@ -136,49 +120,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faace08f6fa72dd2b6c7bcb%2F0x0.png"
         width: 1199
         height: 675
-        isCached: true
-  - title: "Walmart teams with electric self-driving carmaker Cruise in the retail giant's latest push for futuristic delivery technology"
-    excerpt: "Walmart shoppers in Scottsdale, Arizona, will be first to test out the company's latest driverless delivery trial."
-    publishedDateTime: 2020-11-10T14:12:00Z
-    webUrl: "https://www.businessinsider.com/walmart-teams-with-electric-self-driving-car-company-cruise-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/walmart-teams-with-electric-self-driving-car-company-cruise-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/walmart-teams-with-electric-self-driving-car-company-cruise-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
-    images:
-      - url: "https://i.insider.com/5fa9b2941df1d50018219b47?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Walmart partners with GM's Cruise on self-driving delivery pilot in AZ"
-    excerpt: "(Reuters) - Walmart Inc is adding Cruise, a majority-owned affiliate of U.S. automaker General Motors Co <GM.N>, to its roster of self-driving startup partners, in a pilot delivery program early next year in Scottsdale,"
-    publishedDateTime: 2020-11-10T15:04:00Z
-    webUrl: "https://www.businessinsider.com/walmart-partners-with-gms-cruise-on-self-driving-delivery-pilot-in-az-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/walmart-partners-with-gms-cruise-on-self-driving-delivery-pilot-in-az-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/walmart-partners-with-gms-cruise-on-self-driving-delivery-pilot-in-az-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-  - title: "Walmart teams up with Cruise for electric self-driving deliveries"
-    excerpt: "Walmart announced a new partnership to promote automated, contactless delivery Tuesday. The Bentonville-based retailer will be partnering with self-driving"
-    publishedDateTime: 2020-11-10T14:40:00Z
-    webUrl: "https://www.nwahomepage.com/news/walmart-teams-up-with-cruise-for-electric-self-driving-deliveries/"
-    ampWebUrl: "https://www.nwahomepage.com/news/walmart-teams-up-with-cruise-for-electric-self-driving-deliveries/amp/"
-    cdnAmpWebUrl: "https://www-nwahomepage-com.cdn.ampproject.org/c/s/www.nwahomepage.com/news/walmart-teams-up-with-cruise-for-electric-self-driving-deliveries/amp/"
-    type: article
-    provider:
-      name: KNWA News
-      domain: nwahomepage.com
-    quality: 44
-    images:
-      - url: "https://www.nwahomepage.com/wp-content/uploads/sites/90/2020/11/Walmart-cruise-av-still.jpg?w=1280"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Walmart, GM to test delivery with self-driving cars in Scottsdale"
     excerpt: "Walmart is teaming up with the General Motors' autonomous vehicle unit to test driverless delivery in Arizona starting early next year."
@@ -316,20 +257,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "GM's Cruise partners with Walmart on self-driving delivery pilot in Ariz."
-    excerpt: "Walmart Inc. is adding Cruise, a majority-owned affiliate of U.S. automaker General Motors, to its roster of self-driving startup partners, in a pilot delivery program early next year in Scottsdale, Ariz."
-    publishedDateTime: 2020-11-10T13:47:00Z
-    webUrl: "https://www.autonews.com/mobility-report/gms-cruise-partners-walmart-self-driving-delivery-pilot-ariz"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 23
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/walmart.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Walmart taps self-driving vehicle startup Cruise for autonomous deliveries"
     excerpt: "The collaboration is part of the mass merchant's effort to modernize deliveries and lessen environmental impact."
     publishedDateTime: 2020-11-12T15:05:00Z
@@ -388,15 +315,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Ford: Playing it safe. There is no other way to launch self-driving cars"
-    excerpt: "That same mindset dominates how Ford approaches the introduction of self-driving cars. Just as decades of experience have given us safe and reliable development processes for human-driven cars, we need to draw upon that experience and develop the same processes for self-driving ones."
-    publishedDateTime: 2020-11-11T08:26:00Z
-    webUrl: "https://www.automotiveworld.com/news-releases/ford-playing-it-safe-there-is-no-other-way-to-launch-self-driving-cars/"
-    type: article
-    provider:
-      name: Automotive World
-      domain: automotiveworld.com
-    quality: 3
 
 secured: "+uUYg06erY011FJxFjhk3C5yAyolZjdpdHxAJ0NtH/8MK4Fke8enHGSXFdNu0OK7Dn0lSC0wu4eijGAvNg6UzaKrlbQH1xkTzv6OI8gJ09vu2ztRjoc9TwAi2OWGqRWn2g0hUnFU+WguGWdEc2lSKPAYrT6pjap3XyqZI+gTakot8rxUXdxob1bhIKRb48xOt4cG3LIFXRbnh3MJiHOK4nMZ3ShAB75STREx6BTrr7Mi65ZYvdhU6SG8kCuMAvE+3XPy/2y1btwBG51aoYE+ReyU8SjFrg4WVVolITFyyf6AaabGKZZHW7A57gBQ6VBSFXedXxM3TMvEeV/9WS1i/eODmDYW+F39pH/UB3TIVzuTUy9bD62mjNMXsFjlk1jN22Tj3T9s5G2NoDp1lvQeCaJ2DPa3zWHzbZOKdSm62Z63K1ialbZKm80X4XLNu7QxUP5m6qij53mZFMdYoKeKRu5hhei6IKOGkoqksy5YJSpUZVCSl2FfeWiHCHvxHkh0x4Vdni1vANz7r2xNoBQ8dw==;/B9n2k+rAiUAZ8vE7+hixw=="
 ---

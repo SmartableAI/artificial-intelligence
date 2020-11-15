@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "IBM Advances Hybrid Cloud Software with New Data and Automation Capabilities to Help Companies Speed Digital Transformations"
-    excerpt: "IBM today announced a series of data and automation updates to its hybrid cloud software portfolio to help companies drive innovation across their expanding environments and accelerate their digital transformations."
-    publishedDateTime: 2020-11-10T14:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/ibm-advances-hybrid-cloud-software-with-new-data-and-automation-capabilities-to-help"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 7
 
 secured: "v+5hehM6dGANfjXMrdxPM0RCLlkaos5QCnkgocoeI3zs7eVjjpMMQkuJAwV2EjGit7wfEHxTB+ZeKMcspq3HsNJaUYfvlF2fAhrocKeHCRiGH53/zzejWVJ/KWdGR6kGUCvXOXVRo18tggoMHyERIOAiaTJ/NcMvHPKiXunEhitJxZvgBYCBuoEztX/WqTyHUKeNzFeqqVDVjR/GaWXPGh8XptZ/Kjqxf5xZ1TTiMvuPgYkqOl3u3qI/vyqeuRnkwomAe7kl7Eu7l1Eiusm9nvytdQBm/6Dcoj7CzQYRWwRjPMN5ma231Uls/R/ef/B2dCgIvDfUDA8M2PUYrO4WWeTMxyPC0L7M7IeymSC+UsM=;P2GB0P99OIAB5CiUt2fgtw=="
 ---

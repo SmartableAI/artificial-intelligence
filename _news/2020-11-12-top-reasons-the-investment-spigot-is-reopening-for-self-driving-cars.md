@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/11/top-reasons-the-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/11/top-reasons-the-investment-spigot-is-reopening-for-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -89,6 +89,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Ford: Playing it safe. There is no other way to launch self-driving cars"
+    excerpt: "That same mindset dominates how Ford approaches the introduction of self-driving cars. Just as decades of experience have given us safe and reliable development processes for human-driven cars, we need to draw upon that experience and develop the same processes for self-driving ones."
+    publishedDateTime: 2020-11-11T08:26:00Z
+    webUrl: "https://www.automotiveworld.com/news-releases/ford-playing-it-safe-there-is-no-other-way-to-launch-self-driving-cars/"
+    type: article
+    provider:
+      name: Automotive World
+      domain: automotiveworld.com
+    quality: 3
 
 secured: "EYiURjlb0ObtoroAVwtiElk4W1sI1nxRbgMl/TEnfqkSUauWYwh0eZA1+ReU847mze6mPCby63nY0zmj8qFed+kzZYzoSh1KPvgvVh2oiB62ScTQBXFZ5uBN0yzwuTOKBw6CycK61A6xv8RjkwJLPwPnFYNIYSbatfCJQcY7BZFU5KijRAtmemjAQgcRgEExa3LONvdttA1LddoG4WbmxD3woTyvZ9fbeaf2DedyY8zzC+EkwGisSL/uUvfyAxUf0kWXR5cC7EAFTi41XaJiBe43sgl2Di5zyNdzrzAtbg52si4RGkent21MfyIiHwm6OZqSqSiDApEz6lEr/Vnl8uLbf6R7Tf0AOya9zrXchP6V9KOJJw95BWdIogtPsLvt86/nb0uvc+wAb18ww2xlQjIPLrSSgsqCV6RZLHQg44pUTTuYbLhzSWKxHvumcrRorqSIQiRkpFrSqwJhWH7AX1ILH4GbIwey9vdlysgtezvoG51gltoa5jAu/xfDzVghD4V4skZvB+gE/nS29+ax7Q==;CC/h31nZUO3dv1ELVDmrQg=="
 ---

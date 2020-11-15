@@ -33,12 +33,19 @@ related:
   - title: "Artificial intelligence helping lower costs, speed up construction projects"
     excerpt: "One company says it's AI technology can realize $30 million in savings on a $500 million project by reducing the cost of equipment and manpower."
     publishedDateTime: 2020-11-14T00:54:00Z
-    webUrl: "https://abc7news.com/ai-technology-coronavirus-construction-artificial-intelligence/7934677/"
+    webUrl: "https://abc7news.com/technology/ai-helping-lower-costs-speed-up-construction-projects/7934677/"
+    ampWebUrl: "https://abc7news.com/amp/ai-technology-coronavirus-construction-artificial-intelligence/7934677/"
+    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/ai-technology-coronavirus-construction-artificial-intelligence/7934677/"
     type: article
     provider:
       name: ABC7 San Francisco
       domain: abc7news.com
-    quality: 15
+    quality: 55
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/7935065_111320-kgo-ai-chip-pacific-structures-img_Image_00-00-33,13.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "O9G+MEkBVUeVcFBJ/jI/23raMCCkURexYkEWC07wkE66WFdhqRfQOmAEIOi1Qu8kRiwwNLahHPhcIafJHCAQXslwcK6Kr2MR+7uW83rbiTE2SOrlAdGV523IqZS+bGoLOZunp7PxHnYaWfcItnNZxIMLHfK8s0Z4tUESJUmr7VTkLpnmARYrckQTlqJZpT0Aj30VRsthJL4uEg/dzekTxt8jToYQ+lp4Qhz0QqaEkMSk2N4nwcHefrR0ZwF6okG+6TiVpAg7CTAGjXi7nBDMzw8s1+0ni9DFDLaAm8Qq2OuOYFj9N3j2/H/PV1L/bTPWysZ5+nZMzNnmrwDScpk3+Uc0FpB7nF9zalb7ymmjkpvOtSjYufzWSbBpkCKl5RIQ7Kqr2C4N7YbYnmq9rKhUdqrmH/IMHkczRtrH65OCXDga/o4gvAmaiheKJrFT9AEEin04QfF8yY/1J/+OoJh4Iz9Ge0UVYIcxsJ3RsXXD/8wC2fCBOvcrStiEqHJOpWD4EPT4601IdEpN9tPT0swRfg==;717KGVligUu9NmNhNLAh/g=="
 ---

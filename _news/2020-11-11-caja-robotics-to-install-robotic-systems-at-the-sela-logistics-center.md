@@ -7,7 +7,7 @@ originalUrl: "https://www.supplychainquarterly.com/articles/4121-caja-robotics-t
 webUrl: "https://www.supplychainquarterly.com/articles/4121-caja-robotics-to-install-robotic-systems-at-the-sela-logistics-center"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 600
     height: 400
     isCached: true
-
-related:
-  - title: "Caja Robotics to Install Robotic Systems at the Sela Logistics Center"
-    excerpt: "Caja Robotics is a goods-to-person solution for unit picking that significantly increases order fulfillment productivity and storage capacity of a warehouse."
-    publishedDateTime: 2020-11-10T14:29:00Z
-    webUrl: "https://www.roboticstomorrow.com/news/2020/11/10/caja-robotics-to-install-robotic-systems-at-the-sela-logistics-center/15908/"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 34
 
 secured: "XV8o20BLsjASyJE/Y4ZY+URphTGTiSfXaQoYTsD1H03Pq+fL9HOHrWFCGLvrqXkDnBDKXYxPA6krQQz9ppNUV2vfJDNLPFJ6D4aIZsAI/0I+4o4PcmSoqFGaVgIbwECv5Y5VgIYXv/CWBSXKxQQ2ZE3KRJ3ApRINupTovO3QEMr7bTGCd8eBX5AE2XoYIQ5nyJAnsO6jXYINQLOHaoyJ+wa8EQLwaR47aBSgpe8ZTv2D9gLZ3yo/aAOlHUSffLpK55KhZV/TdnTvnw6CAossQHhFPmnStYgp+VkAXUyHXQ3a1t0fSrmmgcgZjtRt0upzaH7uOFgemcq0ZmN1RDrnBRJjQmBr45b0KbWYeONJ7laaMgwVp28Zoom8xaMUQ5ku2STKdvqo4io+J3H1KvJAi4/nFVmafj1lgj3xs2n1KEnk201Op54xzUs15ac4rxPqNMJSjqNX2bHuXXiTfu0+qFw1WjpefHPzxranCsBaI8YSQJOJKhzcK19Rd0QJJwkT69UuCztpblxjbMLaCNMOCA==;wPUn4fgjAJTBqrtU8Hj9Tg=="
 ---
