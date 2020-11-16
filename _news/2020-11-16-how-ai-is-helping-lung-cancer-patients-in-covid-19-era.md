@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/news/av/technology-54815149"
 webUrl: "https://www.bbc.com/news/av/technology-54815149"
 type: article
 quality: 67
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 41
+  - title: "Red Hat attacks COVID-19 on 2 fronts: Partnering with WHO, artificial intelligence firm"
+    excerpt: "Red Hat is not known necessarily as a life science firm, but the open source technology giant is going after COVID-19 as part of two new efforts to combat the global scourge. Here's the latest."
+    publishedDateTime: 2020-11-16T16:30:00Z
+    webUrl: "https://www.wraltechwire.com/2020/11/16/red-hat-attacks-covid-19-on-2-fronts-partnering-with-who-artificial-intelligence-firm/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 31
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2020/04/Coronavirus_World-1024x576.png"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Students searching for internships during the COVID pandemic must be prepared for AI-driven interviews"
     excerpt: "We believe that every college and university student and recent graduate deserves a great part-time, seasonal, internship, and entry-level job!"
     publishedDateTime: 2020-11-12T21:50:00Z

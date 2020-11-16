@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Check out Bandai’s mind-controlled robot prototype"
+title: "Check out Bandai's mind-controlled robot prototype"
 excerpt: "Researchers at NeU, a joint venture between Tohoku University and Hitachi, have developed a prototype toy robot controlled directly by the mind, in collaboration with toy giant Bandai. This robot ..."
-publishedDateTime: 2020-11-11T05:52:00Z
-originalUrl: "https://technology.inquirer.net/105500/check-out-bandais-mind-controlled-robot-prototype"
-webUrl: "https://technology.inquirer.net/105500/check-out-bandais-mind-controlled-robot-prototype"
-ampWebUrl: "https://technology.inquirer.net/105500/check-out-bandais-mind-controlled-robot-prototype/amp"
-cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/105500/check-out-bandais-mind-controlled-robot-prototype/amp"
+publishedDateTime: 2020-11-11T01:02:00Z
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2020/11/11/check-out-bandai039s-mind-controlled-robot-prototype"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2020/11/11/check-out-bandai039s-mind-controlled-robot-prototype"
 type: article
 
 provider:
-  name: Philippine Daily Inquirer
-  domain: inquirer.net
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://technology.inquirer.net/files/2020/11/20201111-Bandai-toy-robot-620x330.jpg"
-    width: 620
-    height: 330
+  - url: "https://apicms.thestar.com.my/uploads/images/2020/11/11/932972.jpeg"
+    width: 1240
+    height: 658
     isCached: true
 
-secured: "cVoUGMv3ciV+6X/XqzNtGilrySU7H92u0vGR7pbHawhOzZFFDyrFCiN0n+c3fEWviHnGasMVYCyE9aJuhsW0ALjd6sWKhq8DmTzUAGrg41Bg/j2TudZBaTGVOrliWjW6N0X2eTCfGy5sWEx/Dz2dNjxXb6jhXOG0axDwyJmrw6GhQMYlS1v5t0X1ABKwTvZsk1L8+QYD1GwBbC2S8P6hJlDm1YlEWFixAeO5kYAZh4xjINiDi8ETW4NsJt2gvtZbTI2dKDGfSkeywuW97yQNzp2XNMH48icE6i/JoB3QHzGHl08ok9gWaQlgqK7P1lOAkLpXWuiOH5AwZ6HAlrZKQcQrFPPZp0a2WuUdRxteaNM=;70IYr7dHbt75TzmxPaIskw=="
+secured: "taCktth46GZGE0OIkMW2bTyIAmp8JPibgHcF8ZuDM+dkfKyguYbYknS2+caU1g2b16BLO4x2pNwvdu1S0JaxbJLwOr7edoHWE6EIgSHAP1nXbwArGhueg3Cpn+/SgANtznh1+AcfBvl9qQBUDU81oxgGm0v4cmqpL9fJZSp4xxc2rjQsvU952vGjuSHFD0ZTFXsYEzsPYt5Odgw7scsl71rchCIUV5eTxVlfgks9H1PV7/dfgGBNPl6TTJ01ZtUb0x0Pa9QlCGxlz9bqIHy1MA0nU2+qUJCCuVOb4VT58Cq5HtM7/jInV+jBSso7L8V8aDyIVKVLk3maiSnh10gtDz8aGMqJJvHn3LyjWle0awc=;yWopwfhmwkErTXR7PqByNQ=="
 ---
 

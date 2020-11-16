@@ -40,6 +40,20 @@ related:
         width: 3838
         height: 2004
         isCached: true
+  - title: "Penguin Computing Unveils HPC, AI and Analytics, Cloud, and Data Solutions"
+    excerpt: "Penguin Computing, a subsidiary of SMART Global Holdings, Inc. and leader in high-performance computing (HPC),"
+    publishedDateTime: 2020-11-16T15:03:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/penguin-computing-unveils-hpc-ai-and-analytics-cloud-and-data-solutions/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 35
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/Nvidia_SC20_NDR-400-InfiniBand-405x228.png"
+        width: 405
+        height: 228
+        isCached: true
   - title: "Fivetran Extends Integration With Databricks, Accelerating SQL Analytics, Data Science and Machine-Learning Applications"
     excerpt: "Fivetran, the leading provider of automated data integration, today announced advancements in its integration with Databricks, the Data and AI Company, extending the companies’ strategic partnership to power the modern data stack."
     publishedDateTime: 2020-11-12T11:01:00Z

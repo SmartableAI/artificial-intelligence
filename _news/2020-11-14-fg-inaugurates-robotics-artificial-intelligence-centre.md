@@ -9,7 +9,7 @@ ampWebUrl: "https://punchng.com/fg-inaugurates-robotics-artificial-intelligence-
 cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/fg-inaugurates-robotics-artificial-intelligence-centre/?amp=1"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -110,6 +110,20 @@ related:
       name: The Sun
       domain: sunnewsonline.com
     quality: 49
+  - title: "Aarhus University links brain research and artificial intelligence in new centre"
+    excerpt: "IBrain, a new cross-disciplinary centre at Aarhus University, aims at developing new brain interfacing technologies enabled by novel AI hardware. The centre - the first of its kind in Denmark - brings together world-leading neuroscience research from Aarhus University and the Danish Neuroscience Centre at Aarhus University Hospital with the goal of better understanding and treating neurological diseases,"
+    publishedDateTime: 2020-11-16T16:01:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/au-aul111620.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 47
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/248925_web.jpg"
+        width: 1440
+        height: 837
+        isCached: true
 
 secured: "tBCum9TQh4rKIUGeNntNjM+yxKqkYiKhlbHS8Kah9wBDMoiHpNtdtBFXlLDBRYznL4iMm9uO1XkPILVpoMTW1JfCfflXQjE0n66q60CuKqOpZbfpqGj+a7UMR1jyK9YfsrIxLL4lj6uZRjjYDuOVJrwW+wG+AMsqaWzgYpeq/yi+mgVSjXHA+Ok4rWjklvQyjnqzhYUD2HuLkbkQdKyQLfuQVDkIJZh3qy5oIaqSUIknptVUgWgYHmfNYVfrztDk9DhEaU0u9UqEfT9cBV5NojlXf+t+31aT6OIJhGUcfS2kC5n9gbdEWnXM/nqMkICpjOhmjjvEuaHwdpVEM4jPCXJ99r3fu/PVELo6BspWd/9+L7DY8TO89O/nTSXe08p69zpppyEdbfZ3Yug2MvVA8aNN7G0FVKCsvrw1M84s/7ppMTKgzxMRiZwkzcsTOdK2VryfxLthrTcQ8VmlqSEgsVU24l8ECBRA0lvzO6Sy91CXm+bh4R9DEbwiEVFm+YfvQ/22K9+paC5VkVGRkGwJlQ==;HcL0HApf5TxUmR+Hb8jybA=="
 ---

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI (Artificial Intelligence) Chip Market By Chip Type, By Technology, By Application, By Industry Vertical, And Segment Forecasts, 2019-2027"
+    excerpt: "Chip Market Forecast to 2027 The Global AI (Artificial Intelligence) Chip Market report presents a comprehensive analysis of the AI (Artificial Intelligence) Chip market by offering valuable insights to assist the businesses and key players in formulating fruitful strategies during the forecast timeline of 2020-2027."
+    publishedDateTime: 2020-11-16T15:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-artificial-intelligence-chip-market-by-chip-type-by-technology-by-application-by-industry-vertical-and-segment-forecasts-2019-2027-2020-11-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice and Speech Recognition Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
     excerpt: "Selbyville, Delaware According to the research report titled 'Voice and Speech Recognition Market Share, Size, Trends, Industry Analysis Report By Component; By Interface; By End-User; By Regions, Segments & Forecast,"
     publishedDateTime: 2020-11-13T07:19:00Z
@@ -66,20 +80,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "What are sales, revenue, and price analysis by types and applications of Autonomous Cars Market? Fortune Business Insights™"
-    excerpt: "Autonomous Cars Market size is set to gain traction from the increasing innovations occurring in the transportation"
-    publishedDateTime: 2020-11-12T00:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/what-are-sales-revenue-and-price-analysis-by-types-and-applications-of-autonomous-cars-market-fortune-business-insightstm-2020-11-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

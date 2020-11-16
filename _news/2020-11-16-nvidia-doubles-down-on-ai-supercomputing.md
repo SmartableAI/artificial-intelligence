@@ -27,19 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA Announces Mellanox InfiniBand for Exascale AI Supercomputing"
-    excerpt: "NVIDIA today introduced the next generation of NVIDIA (R) Mellanox (R) 400G InfiniBand, giving AI developers and scientific researchers the fastest networking performance available to take on the world's most challenging problems."
-    publishedDateTime: 2020-11-16T14:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/nvidia-announces-mellanox-infiniband-for-exascale-ai-supercomputing-2020-11-16"
+  - title: "NVIDIA built an epic AI supercomputer from four new A100 80GB GPUs"
+    excerpt: "NVIDIA has revealed its newest workstation, and if you’ve always wanted a gleaming gold obelisk capable of putting petascale power on your desktop, the DGX Station A100 should do the trick."
+    publishedDateTime: 2020-11-16T16:22:00Z
+    webUrl: "https://www.slashgear.com/nvidia-built-an-epic-ai-supercomputer-from-four-new-a100-80gb-gpus-16647405/"
+    ampWebUrl: "https://www.slashgear.com/nvidia-built-an-epic-ai-supercomputer-from-four-new-a100-80gb-gpus-16647405/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidia-built-an-epic-ai-supercomputer-from-four-new-a100-80gb-gpus-16647405/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: SlashGear
+      domain: slashgear.com
+    quality: 104
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/11/nvidia-dgx-station-a100.jpg"
+        width: 1680
+        height: 1050
+        isCached: true
+  - title: "NVIDIA A100 Ampere GPU Launches With Massive 80GB HBM2e For Data Hungry AI Workloads"
+    excerpt: "Just six months after NVIDIA launched its A100 Ampere GPU, there is an upgraded version with double the memory, and it's faster to boot."
+    publishedDateTime: 2020-11-16T13:52:00Z
+    webUrl: "https://hothardware.com/news/nvidia-ampere-a100-80gb-gpu"
+    ampWebUrl: "https://amp.hothardware.com/news/nvidia-ampere-a100-80gb-gpu"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-ampere-a100-80gb-gpu"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 67
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/53426/content/small_ampere_a100_80GB.jpg"
+        width: 708
+        height: 400
         isCached: true
   - title: "NVIDIA Announces A100 80GB GPU for AI Supercomputing"
     excerpt: "SC20—NVIDIA today unveiled the NVIDIA A100 80GB GPU — the latest innovation powering the NVIDIA HGX AI supercomputing platform — with"
@@ -55,7 +73,72 @@ related:
         width: 405
         height: 228
         isCached: true
+  - title: "Nvidia doubles the memory of its A100 GPU for AI workloads"
+    excerpt: "Nvidia Corp. is widely held to be the leader in powering artificial intelligence workloads, but it’s refusing to rest on its laurels. Today it said that it has supercharged what is already the world’s fastest graphics processing unit,"
+    publishedDateTime: 2020-11-16T15:08:00Z
+    webUrl: "https://siliconangle.com/2020/11/16/nvidia-doubles-memory-a100-gpu-ai-workloads/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/NVIDIA-A100-80GB.png"
+        width: 2000
+        height: 1125
+        isCached: true
+  - title: "NVIDIA A100 80GB GPU Unveiled"
+    excerpt: "NVIDIA announced that its popular A100 GPU will see a doubling of high-bandwidth memory with the unveiling of the NVIDIA A100 80GB GPU."
+    publishedDateTime: 2020-11-16T13:00:00Z
+    webUrl: "https://www.storagereview.com/news/nvidia-a100-80gb-gpu-unveiled"
+    type: article
+    provider:
+      name: StorageReview
+      domain: storagereview.com
+    quality: 39
+    images:
+      - url: "https://www.storagereview.com/wp-content/uploads/2020/11/Storagereview-NVIDIA-A100-80GB.jpg"
+        width: 1000
+        height: 721
+        isCached: true
+  - title: "Nvidia Announces A100 80GB GPU"
+    excerpt: "Nvidia today unveiled the A100 80GB GPU for the Nvidia HGXTM AI supercomputing platform with twice the memory of its predecessor. The new chip with HBM2e doubles the A100 40GB GPU’s high-bandwidth memory to 80GB and delivers more than 2TB/sec of memory bandwidth,"
+    publishedDateTime: 2020-11-16T14:02:00Z
+    webUrl: "https://insidehpc.com/2020/11/nvidia-announces-a100-80gb-gpu/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/10/Nvidia-logo-1020.jpg"
+        width: 500
+        height: 281
+        isCached: true
+  - title: "NVIDIA Introduces Powerful New Data Center GPU"
+    excerpt: "NVIDIA unveiled the NVIDIA A100 80GB GPU-the latest innovation powering the NVIDIA HGX AI supercomputing platform-with twice the memory of its predecessor, providing researchers and engineers the performance tools to unlock the next wave of AI and scientific breakthroughs."
+    publishedDateTime: 2020-11-16T16:41:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/NVIDIA-Introduces-Powerful-New-Data-Center-GPU-143908.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 39
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Nvidia announces 80GB AI supercomputing GPU; NVDA stock reverses earlier losses"
+    excerpt: "Nvidia (NASDAQ:NVDA) announces the DGX Station A100 80GB GPU, which powers the HGX AI supercomputing platform.The new A100 doubles the A100 40GB GPU's high-bandwidth memory and delivers over 2TB/second of memory bandwidth."
+    publishedDateTime: 2020-11-16T16:05:00Z
+    webUrl: "https://seekingalpha.com/news/3636630-nvidia-announces-80gb-ai-supercomputing-gpu-nvda-stock-reverses-earlier-losses"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 30
 
-secured: "bNPWD0KXd7LntkVJpheZ+yTN/AlMzCMOyiV7N4zH+e/bq+MAmf/dd2n8hO1OYrdpjHa39VlmhhZwCUOcbXGKkvzk4f7GVCYf1SjoZ5oM+563NRVmpmDjoIrwh0KXR49CWPG9pzJuSPhXetDXIdWE//UEkquS0oZqtOU+6ImmB/WoJ415gFvwW6U3xLjk1mIVJoAAJArRhIDAdVa7OCf4RKzFlOBI2Tf8JQRBHiradMu3bAeTzSawK8sKcb8dpJvRpUQ9zGvtyqB+ewADkgQS8u5YJg5a+UVbsv9OgYmJdKzyOZH5RNuZqR5RR6DG9IaCs/Rv0qIuC1kAVP9bP/97USDsURJ/vCjXZQVv9JCMk6A=;NOs6XTWMSX0LuCYevyruhA=="
+secured: "wI6vqL+m9Gv0gGbdIKbHGNy0J04sT0mHfpvo4KCRdncDf4AIain3ij3jnyXE3EOqMJlx4rOsTeioNe41gPTO3enqcjDg7oLanfWItoGcdD4KRJMNiRhwCsvPmRK7JvjIu+f7iA+IXwATR9GGZ8BqV7n3YJVtHuw/TXoQtSar6LkX83X8l0754yizikNK8JJKuskxa/VEryJCqJXvrI3lDWkCIo3Soo9z6JyMWFVhp/qHsDYtC5w6WK8KaC/KeQQsXePsSoB7lIJncKbpdekdsiD5CMK+jQaWAPnSbTd0HxPD5U7QHnLvHSnjGCW3yqjlFz/MWTUoeo1blKr8naXcVMkSg3BBvKojmwQu4mjvjpGmrsmE5XpcVOnPt4bklkANE0I7Exf/KspCNSapqweIfjBzv2v2rthx9zfMw/SUC+Bv2t5RE42yYJtAQ99O/iN/tZOJEZ/tmok961HBCgbcHzmSM8Q+cqTitcdaeVPU4vjkJit1QbVEfUf0mK3DB1vjGfTgflBfIFlJYyoenSZosw==;uJ5aFwxdxf7+IBik1nrbnA=="
 ---
 

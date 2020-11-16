@@ -46,9 +46,9 @@ related:
   - title: "AMD launches MI100 GPU accelerator for high performance computing"
     excerpt: "AMD is looking to capitalize on its momentum with its EPYC server processor by pairing it with the Instinct MI100 GPU accelerator to gain in high performance computing."
     publishedDateTime: 2020-11-16T06:00:00Z
-    webUrl: "https://www.zdnet.com/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
+    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
     type: article
     provider:
       name: ZDNet
@@ -101,7 +101,21 @@ related:
         width: 1504
         height: 820
         isCached: true
+  - title: "AMD's Instinct MI100 GPU targets HPC, surpassing 10 teraflops"
+    excerpt: "AMD has announced the first x86 server GPU to surpass the 10 teraflops (FP64) performance barrier, the AMD Instinct MI100 accelerator. The 7nm chip, targeted at high performance computing customers, will launch by the end of the year."
+    publishedDateTime: 2020-11-16T16:03:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/amds-instinct-mi100-gpu-targets-hpc-surpassing-10-teraflops/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/AMD_Instinct_MI100_GPU.2e16d0ba.fill-1200x630.png"
+        width: 678
+        height: 357
+        isCached: true
 
-secured: "ANZ0suOswdX59GZP8jEMIAbN1hUAPTMpclZStCKwXs/wcWnlOCR1FNBW8M1a9b49DT+O4SCW0DHqx5ujbNbvKGwV8bupxz+/Ashsj6/NA4NAsZQHvADbCbK05k3D9AEFKFuVNymUrxzc4+14xhBa4nwiZiYFGd/lanZNwdjCUggMMrk07+nBmuCRqFJ2Cts126T2Qg3VnFahBC5IEUr8WIBG8Ejuc37h0fiUZCGm1Gvl5q2TYMTlHtJV5cQt0RSs6IWgznKmoxommsedB2J1p7UKsN3eQH9d2+4+knIXHa2sFZH2VzFQwv2IQO3OaMKcBflkRZqZ9xLv0W3zlN+heE4e0OxksZ9LeMOkR3wyKeA=;i+vEWDWgPXNIlRSxbHG1/g=="
+secured: "th/Ftp297gDBpCSxCZr2OOZHsScy6lMUkUDT3BJqGSuntQn73m690khcYIE3UxJ7f98Jirnl/jxC5JlJiX8FeIDB+3pKSGhzU75mHDbKZbCsiwvLrPSmLX9j05dAmG5tGXkkSMgBfbOgLB3Y8gvJkRhjAkZxXEbRFZSKC9rHEb952yZYjSwKGQjnJmLGklMXiErX5wmy+Shat6oLXFVLH8zFPao4juXHkCgP3XKgxl6gXqd7eFMUTAMy68k0Rr3TJdHZJ08Fm7YuqU/tfeUhEzLwuTXZb9eXI+Dtf8mSZ0kbetp8qzJweKLCd7RrY+1NceCFllIfljhc275VBW2b7lACTTiFeRQyNBz5pT9tygi4TPPJ+NN7RhSV+d3ETPWKHqu4UfPcV5MVk2gHykTK9Gkek3Ax9LunvoyCYq9sxRRDLcWKq6vozKccs1rr0RlNHKZgUqB9OIIvpVUDT0aYAMVW4XzD/VuaqjWv2exJmRc6Ltwkhy3FzCo1dZqoCFkRYOxoMDUka8601z+ZbvGQ2A==;LhR1Ljw0kXnR09VF0iO+SA=="
 ---
 

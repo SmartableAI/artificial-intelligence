@@ -3,10 +3,10 @@ category: news
 title: "AMD launches MI100 GPU accelerator for high performance computing"
 excerpt: "AMD is looking to capitalize on its momentum with its EPYC server processor by pairing it with the Instinct MI100 GPU accelerator to gain in high performance computing."
 publishedDateTime: 2020-11-16T06:00:00Z
-originalUrl: "https://www.zdnet.com/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
-webUrl: "https://www.zdnet.com/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
+originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
+webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
 type: article
 quality: 89
 heat: -1
@@ -105,7 +105,21 @@ related:
         width: 1504
         height: 820
         isCached: true
+  - title: "AMD's Instinct MI100 GPU targets HPC, surpassing 10 teraflops"
+    excerpt: "AMD has announced the first x86 server GPU to surpass the 10 teraflops (FP64) performance barrier, the AMD Instinct MI100 accelerator. The 7nm chip, targeted at high performance computing customers, will launch by the end of the year."
+    publishedDateTime: 2020-11-16T16:03:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/amds-instinct-mi100-gpu-targets-hpc-surpassing-10-teraflops/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/AMD_Instinct_MI100_GPU.2e16d0ba.fill-1200x630.png"
+        width: 678
+        height: 357
+        isCached: true
 
-secured: "ta4k2Fs7mgmYEdtjgvipNTZVYa7U4nP02OGpJSoX7RRzJVN7arMwk0FsZKKoA6YvElgai7IDsRp8jNdjfUA4HJBjnOVYDW66/EPSpV+NAZyXgnTA9qTPLXNibEzQb8p8/pYBAC3U8Uf3VKyEKJsfg/ulcrkMsuCVDz1oE9XYr/Q205w8dAbJNTDjkdDegnu7hTyZi0UOzsRriKhv1PSCAuG3rgZqvRF/iLnMWGw2NQNrdYIrmqZ7Msr1pWS0o1u9g79jdQpU+6SyX1n3fQd8VGAyqqh7Cm4IHcAh6n3kZiMpM78rwIxHImJoPM85KY8tnma8tyktGhXbN+lP2l88uycH7XM2r1e1cblV2d3U9oE=;xo6J6heEhb+HpDKR5LV+8w=="
+secured: "HYSBY/ab5Xxqt6xPVLoUmqA6Z9OjuptcD3ctmbcs4jiJDMPVAYJffoCf1OO+1AI1r/fRcAD5RnUJJezuak7jWIOy46U9lxm908iu8HHzX1rmNcoXJ3qYNIpfldddYFhoeiqDgT2mZNQQ0JsnWhUAZMlOzLtGYWaMVPEDdI4ISKk5sPIWFPHLhgi2C5FZVmvSJLVyy6Y2wkrX/Z6LVC+vPwuCdDKfuZp1sC3M25HKQBIHkA0ugPcaftw7yaW1IxxSGYoy8ILSLwDB7P3trOT2mYSCCIVjjAe0pBJRv17XvfEaE9jkeCeAaOnMtc4SHX8LJAei+n5LkirxmGWdgWf3Dx0QLIHOPGja0viFDr+XeeA=;BopR32x/tJR9HHQ8x64DYA=="
 ---
 

@@ -44,9 +44,9 @@ related:
   - title: "AMD launches MI100 GPU accelerator for high performance computing"
     excerpt: "AMD is looking to capitalize on its momentum with its EPYC server processor by pairing it with the Instinct MI100 GPU accelerator to gain in high performance computing."
     publishedDateTime: 2020-11-16T06:00:00Z
-    webUrl: "https://www.zdnet.com/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
+    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
     type: article
     provider:
       name: ZDNet
@@ -100,6 +100,20 @@ related:
       - url: "https://www.storagereview.com/wp-content/uploads/2020/11/StorageReview-AMD-Instinct-MI100.png"
         width: 1504
         height: 820
+        isCached: true
+  - title: "AMD's Instinct MI100 GPU targets HPC, surpassing 10 teraflops"
+    excerpt: "AMD has announced the first x86 server GPU to surpass the 10 teraflops (FP64) performance barrier, the AMD Instinct MI100 accelerator. The 7nm chip, targeted at high performance computing customers, will launch by the end of the year."
+    publishedDateTime: 2020-11-16T16:03:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/amds-instinct-mi100-gpu-targets-hpc-surpassing-10-teraflops/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/AMD_Instinct_MI100_GPU.2e16d0ba.fill-1200x630.png"
+        width: 678
+        height: 357
         isCached: true
 
 secured: "8ehydVJPJhOyZhZ/xcJIWA5beuqkCyxf+pULQzF61u61RnqULjwVek75nSyGXZcNVEx5fbnU35ecNDVLfD2QL5uGEP1XlUpzzWrmHS/0Ri8ZaAv9DJg1+ZAubSJsVJUkbn/Oo2kt9qVqzz8N5tv8r2Ym/H3YH8M6xR+trpiCO08uICIUijzNMZIbssdVxSo45VFzOxj+nGmvD3zyR4Bj2xOdA7Sbl9yEaElYRe/Cke9XdE4eN7k4mCtNIK6YCWaTb4V2HJq/8c9HbyHlQ+b29TBeFrSC60IRTvgDOSAQpXSIAIkepwrQRmFr124140QKUsYdHxpmNLA8nCyYy7beux4GPyRYj6q+FGNGWkp/dSI=;06QVpSTIQwQ9tPr2BcckrA=="

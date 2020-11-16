@@ -110,6 +110,20 @@ related:
       name: The Sun
       domain: sunnewsonline.com
     quality: 49
+  - title: "Aarhus University links brain research and artificial intelligence in new centre"
+    excerpt: "IBrain, a new cross-disciplinary centre at Aarhus University, aims at developing new brain interfacing technologies enabled by novel AI hardware. The centre - the first of its kind in Denmark - brings together world-leading neuroscience research from Aarhus University and the Danish Neuroscience Centre at Aarhus University Hospital with the goal of better understanding and treating neurological diseases,"
+    publishedDateTime: 2020-11-16T16:01:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/au-aul111620.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 47
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/248925_web.jpg"
+        width: 1440
+        height: 837
+        isCached: true
 
 secured: "unkemABC25hQFvgJg7Kx5qaypjFuFYNTCg5dGCy7BTxDDJtCucbXnHMi/WykgxRsuy4+Paia7jKNp7IRKJEIz1o1Ecjkkwlvy/PCtAjvu1FxteSdnRk0N2CCWFK4BBJC7e/6v4grDwTIrJTk2hLXKF++Fm4AjXcJC6AdrY6xyd4eW+adxdUxZssl8AsS3JlO1O4nRzl7SkxBewwbqg75QMCztET5RNHcbpE6hN2O/1Nzuu43wYyJCbysstjIoBP5+h2JwoTtj0ouTT1A8af4QsVdu0nzeIn707lCk8qaLSNKtN3X+p2OAIMrEXYAnIQ0JL38c3hgHsvOe36vPvQ2WNHClF4zjNBeNAp269BQyqf/qH8MJFTgyB3PAc0sI1Zy40hTO1YZ/J0599FHuj+ZjsiS0TqwdX/efvZ7B9aQuwUVo2qZ0fUgOARMdAfoyFdkoln2s+Ewj4Xwu3a2cA3meOuxKPtauZQYQ13PcIkiPuxCjSfdMZF9DWyAQ305Ov+m4LwFJWbPBG3gu/jRYdOYCA==;17uxIg1Mlga+b9HyAxxoIg=="
 ---

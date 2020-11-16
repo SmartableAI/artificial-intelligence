@@ -50,21 +50,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning for Machine Parts"
-    excerpt: "Computer vision researchers use machine learning to train computers in visually recognizing objects – but very few apply machine learning to mechanical parts such as gearboxes, bearings, brakes, clutches,"
-    publishedDateTime: 2020-11-12T00:00:00Z
-    webUrl: "https://www.industryweek.com/technology-and-iiot/emerging-technologies/article/21147734/machine-learning-for-machine-parts"
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 41
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/industryweek/image/2020/11/Machine_vision_for_parts.5fadddd2a1263.png?auto=format&fit=max&w=1200"
-        width: 821
-        height: 394
-        isCached: true
 
-secured: "PrIFnlWjg6DsRda0ZvvU9bInYln6K/T5Emg3mSz4GgfNWSrwIjk2GI6Z/foIJRsgqZIExxuht55pJk3oPoUUb1/k4NTBVtmbzngVHPNnDGcGPsHqvtSBxiYsjrcTrTvc01sxgCjQ7PT+64/jPDyl0xMfGu36Oe2mhg/WvE9UjcH1/z2jZ7najvqDocm72fzYW7DkfVk/lllWFrciX+kl7Yloiy/76MPaoca9+odDRkbx6ByyEn8lxqgPOrgyGVw3XbkYlqXS3G0TFIURm9v2PhgWWxjKgIvDEk7MRNmR0zjxj4hv53KVG8hUxoy3kUG6hjc3yrm6ED722U6K6lHrfrRl+G2l0bRrdBsMSZyJLZA=;Lq8pCO3IUGWqlhQo4fL2eA=="
+secured: "5zESk8OVM6Q7TDklh1aenR3B3Sjeu9aVXqr36uh0CeKyaC1A9y30GULptc0zSXRg3Dqfa6KAQqRp9mOiSkYv+Vdguak8YHLSHcvnkaTQYMxeNNBQiw04j5Y3oiVvRg4LaLhHO8SV1FeFRGpJtjnopx3JvohfqPivAj4rHAOi4u8BrzPX0Yon4A+mJAsNbzAecV8nWfDDOyZ4xHV9bC1IunOa/LF0nW/xKMkGOTk7aqyRVmBs2uf2KApsLrDn3Q/FERMoR40K/+a8xdAItGuB/VEFJyLXBg4RaR6hVwm7Lh6VhKTIND9m8sJBprU2Me25yq5esuC9EluvePFp5o4G5QmnFA9ucuHiqzkCz15Qk55djz8EA6adcawAkV9KBJZPt4Nc6YPQcllNRZ21kmD8+/CTEsXM4vfHPPpi2dAi/wJfcmiH85pqvviD152BnjWwQ6kN6xCq97yP/89XgVElY9aS2bQlCgRGoW8q++AhaxTktwme+6dXaSRNeTQpXRG7KxQMhKofqilqDImT/54PPQ==;XOASB4+YZK23fM/TgPtM4g=="
 ---
 

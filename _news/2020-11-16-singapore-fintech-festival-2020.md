@@ -25,53 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Christian Frahm’s United Fintech to Ease Bank’s Digitization"
-    excerpt: "Fintech veteran Christian Frahm has launched United Fintech, a company that is aiming to provide banks and other financial institutions access to capital market-focused digital technologies."
-    publishedDateTime: 2020-11-12T08:49:00Z
-    webUrl: "https://www.financemagnates.com/fintech/news/christian-frahms-united-fintech-to-ease-banks-digitization/"
-    ampWebUrl: "https://www.financemagnates.com/fintech/news/christian-frahms-united-fintech-to-ease-banks-digitization/amp/"
-    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/christian-frahms-united-fintech-to-ease-banks-digitization/amp/"
+  - title: "Lanistar's New Card Supports Personalized Security, A First In Fintech"
+    excerpt: "Lanistar's core development mission is to provide first-time Generation Z and millennial bank card customers with the freedom and security they want in a bankcard but couldn't find with any Financial Services Provider."
+    publishedDateTime: 2020-11-16T15:28:00Z
+    webUrl: "https://www.forbes.com/sites/louiscolumbus/2020/11/16/lanistars-new-card-supports-personalized-security-a-first-in-fintech/"
+    ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/11/16/lanistars-new-card-supports-personalized-security-a-first-in-fintech/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/11/16/lanistars-new-card-supports-personalized-security-a-first-in-fintech/amp/"
     type: article
     provider:
-      name: Finance Magnates
-      domain: financemagnates.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 91
     images:
-      - url: "https://www.financemagnates.com/wp-content/uploads/2020/11/fintech.jpg"
-        width: 722
-        height: 414
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb2983013d41ff91cf73339%2F0x0.jpg%3FcropX1%3D656%26cropX2%3D7952%26cropY1%3D0%26cropY2%3D4634"
+        width: 1200
+        height: 762
         isCached: true
-  - title: "If You Are Interested, the FDIC is Looking to Hire Fintech Counsel"
-    excerpt: "The Federal Deposit Insurance Corporation (FDIC) is looking to boost its Fintech bench by hiring three individuals to help with legal issues regarding Fintech. According to a post on USAJOBS, responsibilities include: Analyzing and advising on the interpretation of statutes,"
-    publishedDateTime: 2020-11-12T17:36:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/11/169073-if-you-are-interested-the-fdic-is-looking-to-hire-fintech-counsel/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/169073-if-you-are-interested-the-fdic-is-looking-to-hire-fintech-counsel/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/169073-if-you-are-interested-the-fdic-is-looking-to-hire-fintech-counsel/amp/"
+  - title: "Ontario Fintech Firms are Finding Success on the Global Stage"
+    excerpt: "From mobile payments to cybersecurity, trading analytics to blockchain, Ontario is a global leader in fintech."
+    publishedDateTime: 2020-11-16T16:23:00Z
+    webUrl: "https://panamericanworld.com/en/magazine/startups/ontario-fintech-firms-are-finding-success-on-the-global-stage/"
+    ampWebUrl: "https://panamericanworld.com/en/magazine/startups/ontario-fintech-firms-are-finding-success-on-the-global-stage/amp/"
+    cdnAmpWebUrl: "https://panamericanworld-com.cdn.ampproject.org/c/s/panamericanworld.com/en/magazine/startups/ontario-fintech-firms-are-finding-success-on-the-global-stage/amp/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
+      name: panamericanworld.com
+      domain: panamericanworld.com
     quality: 44
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/The-Washington-Monument-Blue-Sky-Washington-DC-300x225.jpeg"
-        width: 300
-        height: 225
-        isCached: true
-  - title: "Codebase Technologies pushes for FinTech-led innovation with release of its Digibanc Digital Roshan solutions"
-    excerpt: "Codebase Technologies has introduced a brand-new digital FinTech offering, Digibanc Digital Roshan, to empower conventional and Islamic banks in Pakistan to manage seamless, consistent, and"
-    publishedDateTime: 2020-11-12T08:32:00Z
-    webUrl: "https://www.sourcesecurity.com/news/codebase-technologies-fintech-led-innovation-digibanc-digital-roshan-solutions-co-1605166117-ga-npr.1605167804.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/codebase-technologies-fintech-led-innovation-digibanc-digital-roshan-solutions-co-1605166117-ga-npr.1605167804.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/codebase-technologies-fintech-led-innovation-digibanc-digital-roshan-solutions-co-1605166117-ga-npr.1605167804.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 25
-    images:
-      - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/hardware-improvements-physical-security-920.jpg"
-        width: 612
-        height: 355
+      - url: "https://panamericanworld.com/en/wp-content/uploads/sites/2/2020/11/Toronto-1-10.38.50.jpg"
+        width: 840
+        height: 560
         isCached: true
 
 secured: "Lepx1uVYwCcEQuNVzuTXmcxZF8vI2dMx11eQmdPnhnojUUJyG5Exp5DbV7ujsu0jGPlgoyAsfiosjbHNUDKCZ33VPnoQ2I6+bf1dPHekIdldP/gK1ibNdeZDsefwpposDKthOLuHSMUM7DHyRxLVqbrhEQcYdpTPgZniOBESAYNc/L9t1EM4+qC/0c51YSKsVg6Cd7ZMmMArL+BsyCerPyKMshPyxHdMYeQ58bI7lr8uy/bvkS2RTbBkVc5bJJKMRk4WJ7RzBv1MYLGFZ717rDpEcYu8wx9stD4C6lAAjBHK/NTZKF1xbSzcFUcq7/8WSK6saDFC8S9My70h5iGh3bt0eLgHcyKSyUYC5/H+jOCTU+Jb7PjCKcms9qyFprL40P61k1p9zCSd/nSuujPm0ozEm7fKiO4+izotqCgyv8fz+mCBdQmU5/PNNONnlMxPPV4Ua9sqM8FMsTkNAMSUH7iFnufFgOL93gy4/H8VfvIQRr4k5NK43LFiwNr5egbQlZRjgBIAm67Saj2ec4lVvA==;bJNG0gipm1ItoSOvlCozgw=="

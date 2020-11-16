@@ -205,6 +205,20 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Uber reportedly wants to offload self-driving division"
+    excerpt: "Uber is looking to sell its self-driving technology division known as Uber Advanced Technology Group, according to media reports. Citing three people familiar with the matter, TechCrunch reported last week that Uber is in talks to sell the Uber ATG division to Aurora Innovation,"
+    publishedDateTime: 2020-11-16T15:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1130312_uber-reportedly-wants-to-offload-self-driving-division"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/uber-self-driving-prototype-in-san-francisco_100585356_h.jpg"
+        width: 1920
+        height: 1187
+        isCached: true
   - title: "Uber in talks to sell multibillion-dollar self-driving group - report"
     excerpt: "Uber (NYSE:UBER) is in talks to sell its self-driving Autonomous Group to a competing start-up, TechCrunch reports."
     publishedDateTime: 2020-11-13T22:25:00Z

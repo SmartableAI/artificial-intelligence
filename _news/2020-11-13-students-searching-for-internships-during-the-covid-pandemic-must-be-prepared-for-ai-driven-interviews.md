@@ -63,6 +63,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 41
+  - title: "Red Hat attacks COVID-19 on 2 fronts: Partnering with WHO, artificial intelligence firm"
+    excerpt: "Red Hat is not known necessarily as a life science firm, but the open source technology giant is going after COVID-19 as part of two new efforts to combat the global scourge. Here's the latest."
+    publishedDateTime: 2020-11-16T16:30:00Z
+    webUrl: "https://www.wraltechwire.com/2020/11/16/red-hat-attacks-covid-19-on-2-fronts-partnering-with-who-artificial-intelligence-firm/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 31
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2020/04/Coronavirus_World-1024x576.png"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "The Future of Artificial Intelligence in a Post-COVID-19 World"
     excerpt: "She studied Computer Science and Economics at Brandies University. Over the past several years, artificial intelligence (AI) has frequently been cited as an emerging technology that improves efficiency across a multitude of industries. Crucially ..."
     publishedDateTime: 2020-11-16T14:06:00Z

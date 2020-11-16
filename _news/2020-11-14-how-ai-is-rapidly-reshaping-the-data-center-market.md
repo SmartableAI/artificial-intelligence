@@ -55,7 +55,23 @@ related:
         width: 850
         height: 469
         isCached: true
+  - title: "Connecting the Classroom to Careers Through AI Explorations"
+    excerpt: "Artificial intelligence is an increasingly prevalent part of our everyday lives. From live-updating, turn-by-turn driving directions to responsive"
+    publishedDateTime: 2020-11-16T15:31:00Z
+    webUrl: "https://www.edsurge.com/news/2020-11-16-connecting-the-classroom-to-careers-through-ai-explorations"
+    ampWebUrl: "https://www.edsurge.com/amp/news/2020-11-16-connecting-the-classroom-to-careers-through-ai-explorations"
+    cdnAmpWebUrl: "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2020-11-16-connecting-the-classroom-to-careers-through-ai-explorations"
+    type: article
+    provider:
+      name: EdSurge
+      domain: edsurge.com
+    quality: 59
+    images:
+      - url: "https://edsurge.imgix.net/uploads/post/image/13694/ai_career_connections-1601659718.jpg?auto=compress%2Cformat&w=640&h=260&fit=crop"
+        width: 640
+        height: 260
+        isCached: true
 
-secured: "fOyFNLq+iXGjecIpWdFiB7ry0X0xQ+Lx9FmNWphRcmM3WcIOWTuJyEKwInqvu4FzcxXWZLcw1uMtWc1WFuebrwa5+KWKUh5/fijxTjSsT47tLA5QBEpjYe6cVOzDDoDWeqecMfVtMQlqBByFtq1B+c8xqTXmsz86R1ZHaxylHkF7VEQKNhWK7MQSvvAdH57lZFYZTQyUsSM/3CbOlL3I6smKQ8cgigjAz0B4XsGtyNLrKOIRNBUK9BWnB+KdAA3NG7BsgBVMSzHMyVhRbDpX/uTONRtxTDoFfqT8SPwgAFmy30zEUZ5dMQjfjDmncPNaYqVNVYvke3sYDsaYzZsuCwmaujTLRaHbwaSPCSymg0w=;C21CUaXU+e7de2phhwqg+g=="
+secured: "U8K0XsunoL4w7/Sh4PVXPxCxwjFK/2xmkd2DrrTw86d1C04kAhKjFlRbez49FrkjcIySLNHEqWWm5tS29VJ7dHICnYVBKkujyw1Ww0N/Ma9yWUOX7M9ZZd2vWLH7JZhVG6F7qDMN9aayCwUXz4BvLlNhS0ikLu+SxEpi5fOH/zHvODIzBzEOZa/IYcqUtDqrhuDBP4pda1sXTXKrzuVRyFbhSDhIA46yPqNcUVS33Kb/EXQBItrmh+9hm2U243c8rzE8lpEkgyEEacsjd1yvekiqvGu9FrgSIOtKecLTuZpvAi93QQI7fZi+5D2//WGPBhgTXH/RV0Cx816hhicx4RPl/MRrtYu7njCPzmRuIE3q+DK8p5J73vUSBpGU99DB6Zf4vzPWr8s6/megREJePGi7AEO/QKeOjXs6+AL7W4LA//6/38UzNdmNEGBgL/ES64r0Ne5QqgYRwRfpg7/vlWxdA7638iWUttGsn6XU008D42Hvew3vHFueFNTdzijKozVvoiLLyGzck7f7D2g/PA==;QbppvjrVtDGUyO6deAusuw=="
 ---
 

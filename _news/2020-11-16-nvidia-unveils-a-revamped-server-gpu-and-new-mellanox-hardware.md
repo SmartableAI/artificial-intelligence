@@ -43,22 +43,6 @@ related:
         width: 899
         height: 527
         isCached: true
-  - title: "NVIDIA A100 Ampere GPU Launches With Massive 80GB HBM2e For Data Hungry AI Workloads"
-    excerpt: "Just six months after NVIDIA launched its A100 Ampere GPU, there is an upgraded version with double the memory, and it's faster to boot."
-    publishedDateTime: 2020-11-16T13:52:00Z
-    webUrl: "https://hothardware.com/news/nvidia-ampere-a100-80gb-gpu"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-ampere-a100-80gb-gpu"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-ampere-a100-80gb-gpu"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 67
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/53426/content/small_ampere_a100_80GB.jpg"
-        width: 708
-        height: 400
-        isCached: true
   - title: "Nvidia working on AMD SAM GPU performance boost facsimile"
     excerpt: "Somewhat controversially AMD shared just one graph of indicative Radeon RX 6900 XT gaming benchmarks (pitted in 4K against the Nvidia GeForce RTX 3090) and it noted the Radeon machines had both Rage Mode and SAM turned on."
     publishedDateTime: 2020-11-13T11:31:00Z
@@ -73,35 +57,7 @@ related:
         width: 515
         height: 221
         isCached: true
-  - title: "NVIDIA A100 80GB GPU Unveiled"
-    excerpt: "NVIDIA announced that its popular A100 GPU will see a doubling of high-bandwidth memory with the unveiling of the NVIDIA A100 80GB GPU."
-    publishedDateTime: 2020-11-16T13:00:00Z
-    webUrl: "https://www.storagereview.com/news/nvidia-a100-80gb-gpu-unveiled"
-    type: article
-    provider:
-      name: StorageReview
-      domain: storagereview.com
-    quality: 39
-    images:
-      - url: "https://www.storagereview.com/wp-content/uploads/2020/11/Storagereview-NVIDIA-A100-80GB.jpg"
-        width: 1000
-        height: 721
-        isCached: true
-  - title: "Nvidia Announces A100 80GB GPU"
-    excerpt: "Nvidia today unveiled the A100 80GB GPU for the Nvidia HGXTM AI supercomputing platform with twice the memory of its predecessor. The new chip with HBM2e doubles the A100 40GB GPU’s high-bandwidth memory to 80GB and delivers more than 2TB/sec of memory bandwidth,"
-    publishedDateTime: 2020-11-16T14:02:00Z
-    webUrl: "https://insidehpc.com/2020/11/nvidia-announces-a100-80gb-gpu/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 39
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/10/Nvidia-logo-1020.jpg"
-        width: 500
-        height: 281
-        isCached: true
 
-secured: "X4xFykR/tRF4UMEvHBLEmfYyOtufd12z/C4MzYlJhu+QKY2ZkAZ6vQvk3DeFiFcmOzox7oqTPIs6oroGoRPVbNZnHm4YKQrbhw1gPuzpfFv4jXGvCSp0oCqqudWCKQGF1EkNRZVPhZygmbsX1BkWzkJgBJGjq9fRGAUfZOAokiDvoKLKLZakA3dnYOVa2onszzO1ZGLyTh1CbQC+2hQ2LGReuLwW7D/k+UMk6hr8/ObtJX3jlxckcHaMOSZIyVFotxI60Otdiz+B/Me1LQ/vl+zJ5JRBzBeYu8J2Y9sli5qQOrnnnNRV76SKsbyFTzkkUSXSwMf0AT1e9wqt2fU1vp3hPCWhG5SUrsuVea9dIG0=;s1IjXPmcc5K7WiXQIrOn0Q=="
+secured: "vOT0NuJ3mp4tgFWqLdENmhiz+fKKhWoRLe0E55CmbIKzmGwKfEEsszD4G7bVkCfnOCCYOyga0l2NitdAOVB2BkSiuCwAndZ/uSU8xFHQAdyIaso3EDyyc3uMXCaYN7Wf64u/32khfKhDVgM7g0CBbnwjEYpWIHrm1wyz5NVH3jqMuOVTiqhKBdMTnVBfCnHQzKFcoeHmref0zC1YaNaQOBSRJr/Pno1zg3j1F47PNK53tX9oQssTr1yKRPUpf/m9c1K60q6epC7GYT2rwcRXOebx8pl4YTceoGobZKjC2V7qRDb5dhdVd6x555L6i+jPuud9VHPJbrFq8LheyEdssoWrJSLXu1XFqbzhe7bM/qi5S1ZqOU109oW7ZS/U/J3dIkWx84r6CQQtQPOde1iPxMsoxnZloYzmwiDoq+cq247bRVFwC06SHJlExVaB4CzPpcEeRs7jahOcOSFonV1aLFc+AuKB9Q0K8gAuNx+hmk57FTG3/Esyee+x9qeYYezjeP0vQuafxjP7zR9wHwwD3g==;nbMKZ/VJEjRWVxsVy8YVLQ=="
 ---
 

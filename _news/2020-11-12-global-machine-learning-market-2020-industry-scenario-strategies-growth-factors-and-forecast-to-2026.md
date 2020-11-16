@@ -40,20 +40,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
-  - title: "Machine Learning for Machine Parts"
-    excerpt: "Computer vision researchers use machine learning to train computers in visually recognizing objects – but very few apply machine learning to mechanical parts such as gearboxes, bearings, brakes, clutches,"
-    publishedDateTime: 2020-11-12T00:00:00Z
-    webUrl: "https://www.industryweek.com/technology-and-iiot/emerging-technologies/article/21147734/machine-learning-for-machine-parts"
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 41
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/industryweek/image/2020/11/Machine_vision_for_parts.5fadddd2a1263.png?auto=format&fit=max&w=1200"
-        width: 821
-        height: 394
-        isCached: true
   - title: "Applying machine learning to making mechanical parts"
     excerpt: "Computer vision researchers use machine learning to train computers in visually recognizing objects – but very few apply machine learning to mechanical parts"
     publishedDateTime: 2020-11-16T14:11:00Z

@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "AMD Goes After NVIDIA With New GPU For The Datacenter"
-    excerpt: "AMD announced its first data center GPU to compete in high-performance computing (HPC) and Artificial Intelligence (AI). Last year, the company announced that it would bifurcate its GPU technology into two architectures: CDNA for computation and RDNA for graphics."
-    publishedDateTime: 2020-11-16T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2020/11/16/amd-goes-after-nvidia-with-new-gpu-for-the-datacenter/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2020/11/16/amd-goes-after-nvidia-with-new-gpu-for-the-datacenter/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/11/16/amd-goes-after-nvidia-with-new-gpu-for-the-datacenter/amp/"
+  - title: "NVIDIA built an epic AI supercomputer from four new A100 80GB GPUs"
+    excerpt: "NVIDIA has revealed its newest workstation, and if you’ve always wanted a gleaming gold obelisk capable of putting petascale power on your desktop, the DGX Station A100 should do the trick."
+    publishedDateTime: 2020-11-16T16:22:00Z
+    webUrl: "https://www.slashgear.com/nvidia-built-an-epic-ai-supercomputer-from-four-new-a100-80gb-gpus-16647405/"
+    ampWebUrl: "https://www.slashgear.com/nvidia-built-an-epic-ai-supercomputer-from-four-new-a100-80gb-gpus-16647405/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidia-built-an-epic-ai-supercomputer-from-four-new-a100-80gb-gpus-16647405/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: SlashGear
+      domain: slashgear.com
+    quality: 104
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb27a2cf774c190ebedca0d%2F0x0.jpg"
-        width: 899
-        height: 527
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/11/nvidia-dgx-station-a100.jpg"
+        width: 1680
+        height: 1050
         isCached: true
   - title: "NVIDIA A100 Ampere GPU Launches With Massive 80GB HBM2e For Data Hungry AI Workloads"
     excerpt: "Just six months after NVIDIA launched its A100 Ampere GPU, there is an upgraded version with double the memory, and it's faster to boot."
@@ -57,35 +57,49 @@ related:
         width: 708
         height: 400
         isCached: true
-  - title: "Nvidia Unveils a Revamped Server GPU and New Mellanox Hardware"
-    excerpt: "The latest version of Nvidia's flagship A100 server GPU packs twice as much high-speed memory as its predecessor."
-    publishedDateTime: 2020-11-16T14:02:00Z
-    webUrl: "https://www.thestreet.com/investing/nvidia-revamped-server-gpu-new-mellanox-hardware-a100"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/nvidia-revamped-server-gpu-new-mellanox-hardware-a100"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/nvidia-revamped-server-gpu-new-mellanox-hardware-a100"
+  - title: "Nvidia Doubles Down on AI Supercomputing"
+    excerpt: "A100 GPUs get double the memory with 80GB HBM2e for server, DGX, and appliances while Nvidia/Mellanox announce NDR"
+    publishedDateTime: 2020-11-16T14:03:00Z
+    webUrl: "https://www.nextplatform.com/2020/11/16/nvidia-doubles-down-on-ai-supercomputing/"
+    ampWebUrl: "https://www.nextplatform.com/2020/11/16/nvidia-doubles-down-on-ai-supercomputing/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/11/16/nvidia-doubles-down-on-ai-supercomputing/amp/"
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
+      name: The Next Platform
+      domain: nextplatform.com
     quality: 59
     images:
-      - url: "https://content.jwplatform.com/thumbs/8Fgk3jSA-720.jpg"
-        width: 720
-        height: 406
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/A100_FEat-1024x414.jpg"
+        width: 1024
+        height: 414
         isCached: true
-  - title: "Nvidia working on AMD SAM GPU performance boost facsimile"
-    excerpt: "Somewhat controversially AMD shared just one graph of indicative Radeon RX 6900 XT gaming benchmarks (pitted in 4K against the Nvidia GeForce RTX 3090) and it noted the Radeon machines had both Rage Mode and SAM turned on."
-    publishedDateTime: 2020-11-13T11:31:00Z
-    webUrl: "https://hexus.net/tech/news/graphics/146857-nvidia-working-amd-sam-gpu-performance-boost-facsimile/"
+  - title: "NVIDIA Announces A100 80GB GPU for AI Supercomputing"
+    excerpt: "SC20—NVIDIA today unveiled the NVIDIA A100 80GB GPU — the latest innovation powering the NVIDIA HGX AI supercomputing platform — with"
+    publishedDateTime: 2020-11-16T14:42:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/nvidia-announces-a100-80gb-gpu-supercharging-worlds-most-powerful-gpu-for-ai-supercomputing/"
     type: article
     provider:
-      name: Hexus
-      domain: hexus.net
-    quality: 39
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 54
     images:
-      - url: "https://hexus.net/media/uploaded/2020/11/603e545d-a08f-41b6-939a-ccd74c655a8a.jpg"
-        width: 515
-        height: 221
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/Nvidia_SC20_NDR-400-InfiniBand-405x228.png"
+        width: 405
+        height: 228
+        isCached: true
+  - title: "Nvidia doubles the memory of its A100 GPU for AI workloads"
+    excerpt: "Nvidia Corp. is widely held to be the leader in powering artificial intelligence workloads, but it’s refusing to rest on its laurels. Today it said that it has supercharged what is already the world’s fastest graphics processing unit,"
+    publishedDateTime: 2020-11-16T15:08:00Z
+    webUrl: "https://siliconangle.com/2020/11/16/nvidia-doubles-memory-a100-gpu-ai-workloads/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/NVIDIA-A100-80GB.png"
+        width: 2000
+        height: 1125
         isCached: true
   - title: "Nvidia Announces A100 80GB GPU"
     excerpt: "Nvidia today unveiled the A100 80GB GPU for the Nvidia HGXTM AI supercomputing platform with twice the memory of its predecessor. The new chip with HBM2e doubles the A100 40GB GPU’s high-bandwidth memory to 80GB and delivers more than 2TB/sec of memory bandwidth,"
@@ -101,7 +115,30 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "NVIDIA Introduces Powerful New Data Center GPU"
+    excerpt: "NVIDIA unveiled the NVIDIA A100 80GB GPU-the latest innovation powering the NVIDIA HGX AI supercomputing platform-with twice the memory of its predecessor, providing researchers and engineers the performance tools to unlock the next wave of AI and scientific breakthroughs."
+    publishedDateTime: 2020-11-16T16:41:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/NVIDIA-Introduces-Powerful-New-Data-Center-GPU-143908.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 39
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Nvidia announces 80GB AI supercomputing GPU; NVDA stock reverses earlier losses"
+    excerpt: "Nvidia (NASDAQ:NVDA) announces the DGX Station A100 80GB GPU, which powers the HGX AI supercomputing platform.The new A100 doubles the A100 40GB GPU's high-bandwidth memory and delivers over 2TB/second of memory bandwidth."
+    publishedDateTime: 2020-11-16T16:05:00Z
+    webUrl: "https://seekingalpha.com/news/3636630-nvidia-announces-80gb-ai-supercomputing-gpu-nvda-stock-reverses-earlier-losses"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 30
 
-secured: "K7n88IkiRpzWZNVZqyvdV9ZNfZlXIM+c3ELggluAEtOivSlc8+cAv+OZpdtkfrSicLn2fBO0Ms3jFmIr/j5TLJum17+0pyHwoEfk3xhPDIUWTushowhiCnk7EFzlN8u9ck4SZwbT77+XonhDOB5/GvEGJEwH/a/GuPG35Ekq+nnQx928U0aWFG0lXnUA8NNazgr4gHaEL+XkoEGw6fmes8E8E2eFxdbdkm3OfdpfjjN+SV1yyBqa+RNEfjIr/uGw6XV3xbZXb+N2SjvwJP4EF29xolV+ofgCSj1xYSGvSqrcAWPmMk3IpT5CiPditjTves6KRFPUwE+RQGD5S78Cyod+bZ+eG/4yseypj+/4FgU=;gNfyWXpuCn5SrK+jkqA+oQ=="
+secured: "xgOA7zseb7GRv9/UuuHT3D/ktFsTu/vuKLV5Ua+09YyEzsJfEAleaxa98O4Q4Lz7ncD00NSbswvMgDPg5WqpGfGCyRHRqA4CBLoXD7BwiMW3TEVQjckQfe8opO+mjh0VtvbCrdefTPcfD6debhjUa56VeUAjDQT20CdFlqFaE2c2N+5TqTCok7PAbwFl35Ka9umle+kQuq9CoglPrMj24JAXxnc6zGIeyXJuUv6pe7DVWlEjgwOmsaFKoAFQp3Tlw3fKcPtegs9oo5mv/oML23h9rYx7TNA9mRAmfsxfwy5vxRcAKLNmj67p1aq7rJQZhkpIyXwtj7lsU2WFyH8dNcJibBUpRPm4IGBicoQ6w4lGxPF5UbuFh4OKPRVC3o9HeN114IaGWU8TNwN44sOOrMrvKhVINyc0OjLayvjVXk7wt1Vu0UYbnw1UbzYUFm5PdtdHrcZLsWNh+CvKIH/l1THMYFd4qWVW1gED5xHvd+GBFHoBPoIDibw6hbniQ8bGnMtexMwy/oA4GihYTOTU/Q==;bhV5erAtN+4UDCVQwNcsWg=="
 ---
 
