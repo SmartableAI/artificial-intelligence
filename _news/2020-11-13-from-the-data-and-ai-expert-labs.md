@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2020/11/from-the-data-and-ai-expe
 webUrl: "https://www.ibm.com/blogs/watson/2020/11/from-the-data-and-ai-expert-labs-2/"
 type: article
 quality: 119
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "How to tell the difference between AI and BS"
+    excerpt: "Artificial intelligence is as important as electricity, indoor plumbing, and the internet to modern society. In short: it would be extremely difficult to live without it now. But it’s also, arguably,"
+    publishedDateTime: 2020-11-16T20:44:00Z
+    webUrl: "https://thenextweb.com/neural/2020/11/16/how-to-tell-the-difference-between-ai-and-bs/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/11/16/how-to-tell-the-difference-between-ai-and-bs/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/16/how-to-tell-the-difference-between-ai-and-bs/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/03/magician_robot-796x417.jpg"
+        width: 796
+        height: 417
+        isCached: true
   - title: "5 jobs that will be displaced by AI and automation in the near future"
     excerpt: "While artificial intelligence will displace 75 million jobs, it will create an additional 133 million jobs by 2022. What’s important here is that the new jobs will be mainly in the area of AI ..."
     publishedDateTime: 2020-11-13T09:31:00Z

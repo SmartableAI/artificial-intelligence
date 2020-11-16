@@ -3,10 +3,10 @@ category: news
 title: "AMD launches MI100 GPU accelerator for high performance computing"
 excerpt: "AMD is looking to capitalize on its momentum with its EPYC server processor by pairing it with the Instinct MI100 GPU accelerator to gain in high performance computing."
 publishedDateTime: 2020-11-16T06:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
+originalUrl: "https://www.zdnet.com/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
+webUrl: "https://www.zdnet.com/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
 type: article
 quality: 89
 heat: -1
@@ -134,6 +134,6 @@ related:
         height: 228
         isCached: true
 
-secured: "5i8+qyKpQ2yPlYBTgYCq6F0uM/CfCX7UF99KSUXkTapWcRpev1zfnUKrxzZGyalCMLsyDZFO6BVJ0YC1mNN8BgwDap0GbPUuWJpQTFOm6g/UlpKQS4aVfFJIIhEfs1TK12INhhvnNDbu3FVLbHHYlc0hQFQvJiFBOq+0N5wwlpYc8Wi8eFUB+fugFhj7pp1k4ceWW+6yEwVOdTw/KBK7XpvQrV5GNefEw3lO81I687t+NeJEQffX5+oQ+/urr2b1uiXD5uWK4DeDMnogwWzgVu6rigxRGUpnt2YnPtYjKFwJAFTd9U20LbIo3DQK/ddixFW9up4e16NTboo6RS5QUjtfpWKROsRsEZruz1oGtnlOger5xBMvTm8gk4sejuJ0qIN1meW8VM/6ESajYrGnFCinRW+jNJ1s5Wb+TlLYFI29X0zL1uPxvNG8d4QcVZh3e0so9tteN1eXreGYZEBgMza+5zf/D24hxsHXpvbiYE4d+bUc0LYvidL8EloBiT52hni8qDQEt9l3hcRdx1XIFQ==;y92HSZ6EKfRkEifHljr6rg=="
+secured: "yHE6pNK9Vs+hv0921s9Hy7He5K+mQLuXk+Q1mDaNa6h+ttJY7abBzObU2QWngJAKf1HAvBOvmAlHTHhOE6rLs6X8LNM0vMP0Ty2QsTldqAYDNUhO7ACGn+5qkfA2b/HuhYVisGgb1aisRjbnRUqt3/Ua1Yybyi5Plv767fqlE0YhqOX+2pkn4tUjhC0mR7PXgj0vkv2ZMvAQYUJ6rM+WFWgocgTx1fHZqItBGJZyRvemFigETsrm0x3uxxipBgGW7CIdOrrAXpCuLIU7SKcd3X9+1uAoH4meR+5R3Erjp7oD61ueaORq+OTP58DnQwDTnOZOTrgQGaXeQxFT2BcRTLdQaVi2ldAXYSXTRW1XzAw=;dXtgA3xXXB1jmMY8IPmRuQ=="
 ---
 

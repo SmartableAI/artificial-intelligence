@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Air Force bases look to facial recognition to secure entry"
+    excerpt: "The pandemic has been good for the facial recognition industry, with a company inking two new contracts to install the technology at Air Force bases."
+    publishedDateTime: 2020-11-16T19:29:00Z
+    webUrl: "https://www.fedscoop.com/facial-recognition-air-force-bases/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 54
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/2020/11/382821.jpg"
+        width: 2080
+        height: 1384
+        isCached: true
 
 secured: "SwDhZOf7ApluyaHP5SPRksIFnUvZlpWhCpT2RoxBKmFAeAnCTDfrTkzawVG6A2YBkpl7BZ5czdFDVocG2g4LUX0rqtUQ/5iJsZsTQJn1SXDtn0r6r2QrIzbBHIyuby+bmSBGPa3Zo3AKsjtC4zDA3Jz5iF5K6F8paOiGY+h5gFwiKVMi5X4B5nZlHv+aCp6nrVpcaYnEkVx8zWXzQ7kvzyQKWYceQC08VrkeyBUVCAjJCjxiou7gWbHkqpzSIpsoASCoJ9+ivyXGdybuf8TZaragztcUyvCsNU7jxOtqDsy0a3CWNgztMLvtca9i/CkFS8zYMhbanfzyPbijXNC+g/grhoZJdak0vdWEV0TkcE0=;QOfnWgcLxUB6Yn5Ef/5FRg=="
 ---

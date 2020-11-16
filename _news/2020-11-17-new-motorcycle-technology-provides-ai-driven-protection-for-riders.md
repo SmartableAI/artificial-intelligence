@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/new-motorcycle-technology-prote
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-motorcycle-technology-protection-riders/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/11/Camera-Front-e1604615189107.jpg?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Teesside technology start-up bags award for artificial intelligence use"
-    excerpt: "A NORTH-EAST artificial intelligence (AI) company has bagged an impressive accolade for its use of emerging technology."
-    publishedDateTime: 2020-11-12T05:00:00Z
-    webUrl: "https://www.newsoneplace.com/36926071911/teesside-technology-artificial"
-    type: article
-    provider:
-      name: newsoneplace.com
-      domain: newsoneplace.com
-    quality: 37
-    images:
-      - url: "https://www.thenorthernecho.co.uk/resources/images/12022481/?type=app&htype=0"
-        width: 360
-        height: 240
         isCached: true
 
 secured: "G/aD6Eqw5KraPO5rH0dHA1f8VPyiirmuAzt9C/sXh+4GkeirY/0zK58drKZmGAOSAxqxWxHQ1FOod9YQF2Berf56iv2+4tvCWzb8d6H25q957qlm3Cjel0SdB9dYHcsfW0cJtac0WIlSXtpszL8Pvyk9cXOuBwLetsVmwyzp5ppGJLkDIPfNOx6mrxc8rJvq6sLda4f3HkEd3E6EeJuT3v+ET0pVNI5OddTSR29Pd26Io6uY3Tk0IeZGXMVX6sodEIy8BF/Ly3B7W4j7fLoDjqiBAPurEAuK9Cylh2TYX/W4Rej3lf8AQXhp0FuUMCguBDCrH2S6naVrEO+2/39bzmLuyhhzoSF0+K9gpybfwoE9YTpow6rIIchzqZoS7vGyScjnk8L66xdbPh+fCq+r4y+2CBybcjSsnIcLCiDOKwfMTv5a0g0VRk8JOpZNq5WssLIKquQGOM160anRQrbGOiZV+e0J/tawVNWW/0QUF8gRMKpEJBX6POFEqhrqadD3s2IcQPN+6H6xs4vSERGK7g==;b70An327xo0YYFEt9VyVBg=="

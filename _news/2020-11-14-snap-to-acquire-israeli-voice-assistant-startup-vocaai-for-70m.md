@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Snap acquired Voca.ai, which makes AI-based voice agents for call centers"
-    excerpt: "With an array of fun filters, it encourages people to send fun, disappearing messages to friends and has a large base of younger users. But could parent company Snap be eyeing up ways of leveraging its traction in the consumer world — with the app"
-    publishedDateTime: 2020-11-12T03:23:00Z
-    webUrl: "https://voca.ai/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 166
-    images:
-      - url: "https://staging2.voca.ai/wp-content/uploads/2020/04/ebook-times-of-crisis-650.png"
-        width: 650
-        height: 395
-        isCached: true
   - title: "Snap to acquire Israeli startup Voca.ai for $70mn: Report"
     excerpt: "Snap Inc, the parent company of popular messaging app Snapchat, is acquiring an Israeli startup called Voca.ai which builds Artificial Intelligence-based virtual agents to help businesses support customer service,"
     publishedDateTime: 2020-11-12T15:45:00Z
@@ -54,6 +40,29 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Israeli Startup Raises $15 Million to Boost AI Due Diligence Platform"
+    excerpt: "Israeli business intelligence startup Intelligo Group, which has developed an automated due diligence and personnel background platform based on AI (artificial intelligence), has announced a $15 million Series B financing round led by Behrens Investment Group and including several existing investors."
+    publishedDateTime: 2020-11-13T14:53:00Z
+    webUrl: "https://www.algemeiner.com/2020/11/13/israeli-startup-raises-15-million-to-boost-ai-due-diligence-platform/"
+    type: article
+    provider:
+      name: Algemeiner
+      domain: algemeiner.com
+    quality: 37
+    images:
+      - url: "https://www.algemeiner.com/wp-content/uploads/2019/12/flag-186476_1280.jpg"
+        width: 720
+        height: 360
+        isCached: true
+  - title: "Israeli Researchers Develop AI Tech To Detect Early Signs Of Suicide Risk"
+    excerpt: "The technology is based on the automatic text analysis of social network content via machine learning and NLP algorithms."
+    publishedDateTime: 2020-11-15T16:06:00Z
+    webUrl: "https://nocamels.com/2020/11/suicide-risk-tendencies-early-technion-hebrew-university-research/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 20
   - title: "Snap to buy Israeli startup Voca.ai for USD 70 mln - report"
     excerpt: "Snap has reportedly agreed to buy startup Voca.ai, an Israeli company specialised in making AI-based voice assistants for customer support services, for an estimated USD 70 million, Calcalistech. The publication said the company,"
     publishedDateTime: 2020-11-12T08:56:00Z

@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Teesside technology start-up bags award for artificial intelligence use"
-    excerpt: "A NORTH-EAST artificial intelligence (AI) company has bagged an impressive accolade for its use of emerging technology."
-    publishedDateTime: 2020-11-12T05:00:00Z
-    webUrl: "https://www.newsoneplace.com/36926071911/teesside-technology-artificial"
-    type: article
-    provider:
-      name: newsoneplace.com
-      domain: newsoneplace.com
-    quality: 37
-    images:
-      - url: "https://www.thenorthernecho.co.uk/resources/images/12022481/?type=app&htype=0"
-        width: 360
-        height: 240
-        isCached: true
 
 secured: "DMLczaJQlxme+zuJKQ7EMGf3XjsqY3hd0l5haSh4N9rflCQsmos56MqJqV8V9q+pvPc5ryNqWmNjKiqAbd0RjFYuD60znFUZQ5QzMKi24PsdpEv7pjooLBWkGaeNgg9/3m/O3ql7Eag7Aa1iqU/QXmUnPq/ooYpS7D8JNLX1QX9YsjJCyKqKyeOu4xmVX/KM0fdVDrRagiW2ttL/9g7VmmuY2Ov02kCE37jb4vSM2VsuydaNKN3eM6oOpklkZrEudUS08hv9yv/GpM/aaZCyNkCW5+Klapgb9qYcziBI8zB8Nn6HwbsVSfixPzGhfePl3v97ATXfYqL0q/siXMMvB/d9qBy2wSKV6Ws+iVK9Jc4yLuaGYKhTrGHxlf45D+8o4W+U4wksGWP7V0n9FXzlcjIfdGQoykZODWDpVq+nQoKFrBWtGAwUflwaas59DhRQl4jLBs8HDECC6JPjdsjwCUwUFXhPnIuKKUR+BTMHL8nYbRe4Hu+3hcBKaLhWmVEOgFrPgVrZi4ocDBNPJIzNLQ==;F7lLnR6XNcPSWqCZnTRwCw=="
 ---

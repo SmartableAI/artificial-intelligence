@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global AI (Artificial Intelligence) Speaker Market 2020 Applications, SWOT Analysis, Remarkable Growth and Competitive Landscape by 2026"
+    excerpt: "The latest market research report titled Global AI (Artificial Intelligence) Speaker Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026 reveals the overview of the global industry,"
+    publishedDateTime: 2020-11-16T19:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-artificial-intelligence-speaker-market-2020-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2026-2020-11-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cognitive Services Market 2020 Industry Analysis, Global Trends, Market Size, Share, and Growth Opportunities Forecast to 2025"
     excerpt: "Market Demand, Growth, Opportunities and Analysis Of Top Key Player Forecast To 2025” To Its Research Database Global Cognitive Services Market is accounted for $2.15 billion in 2017 and is expected to reach $40."
     publishedDateTime: 2020-11-13T00:04:00Z

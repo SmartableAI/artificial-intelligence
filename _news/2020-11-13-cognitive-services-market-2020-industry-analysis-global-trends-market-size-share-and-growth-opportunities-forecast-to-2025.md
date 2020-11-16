@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global AI (Artificial Intelligence) Speaker Market 2020 Applications, SWOT Analysis, Remarkable Growth and Competitive Landscape by 2026"
+    excerpt: "The latest market research report titled Global AI (Artificial Intelligence) Speaker Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026 reveals the overview of the global industry,"
+    publishedDateTime: 2020-11-16T19:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-artificial-intelligence-speaker-market-2020-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2026-2020-11-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Video Analytics, ISR And Intelligent Video Surveillance Americas Market Booming By Size, Revenue And Trend In 2020 Scrutinized In New Research"
     excerpt: "According to HSRC’s latest report, Video Analytics, ISR, Intelligent Video Surveillance & Object Recognition & Americas Market-2015-2020, the U.S. and the rest of American national markets are expected to exceed $36."
     publishedDateTime: 2020-11-12T14:28:00Z

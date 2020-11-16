@@ -9,7 +9,7 @@ ampWebUrl: "https://www.politico.eu/article/activists-urge-eu-to-ban-live-facial
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/activists-urge-eu-to-ban-live-facial-recognition-in-public-spaces/amp/"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Air Force bases look to facial recognition to secure entry"
+    excerpt: "The pandemic has been good for the facial recognition industry, with a company inking two new contracts to install the technology at Air Force bases."
+    publishedDateTime: 2020-11-16T19:29:00Z
+    webUrl: "https://www.fedscoop.com/facial-recognition-air-force-bases/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 54
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/2020/11/382821.jpg"
+        width: 2080
+        height: 1384
+        isCached: true
   - title: "Apple Can't Duck Facial Recognition Privacy Class Action"
     excerpt: "An Illinois federal judge on Thursday refused to let Apple Inc. escape a class action alleging that it violates state law through its facial recognition software, finding that the proposed class' allegations that the company illegally collects and stores face scans can proceed."
     publishedDateTime: 2020-11-12T22:19:00Z

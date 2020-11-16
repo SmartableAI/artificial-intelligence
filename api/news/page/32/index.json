@@ -2,6 +2,214 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-10-21-tesla-released-its-full-self-driving-software-but-the-top-us-safety-regulator-says-theres-no-such-thing.md",
+      "title": "Tesla released its 'full self-driving' software, but the top US safety regulator says there's no such thing",
+      "excerpt": "Good Subscriber Account active since DOW S&P 500 NASDAQ 100 Tesla has begun releasing a beta version of its long-awaited \"full self-driving\" software, CEO Elon Musk said Wednesday, while providing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/tesla-full-self-driving-software-release-beta-questions-2020-10",
+      "originalUrl": "https://www.businessinsider.com/tesla-full-self-driving-software-release-beta-questions-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f9069752e0e6f0018dd7bb0?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/tesla-full-self-driving-software-release-beta-questions-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-full-self-driving-software-release-beta-questions-2020-10?amp",
+      "publishedDateTime": "2020-10-20T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-university-of-miami-becomes-latest-battleground-over-facial-recognition.md",
+      "title": "University of Miami Becomes Latest Battleground Over Facial Recognition",
+      "excerpt": "Two students claim UM’s dean of students told a handful of campus protesters at a virtual meeting on Sept. 22 that they were identified at an unsanctioned demonstration using specialized software that analyzed camera footage of the event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/university-of-miami-becomes-latest-battleground-over-facial-recognition-11603233631",
+      "originalUrl": "https://www.wsj.com/articles/university-of-miami-becomes-latest-battleground-over-facial-recognition-11603233631",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-247517/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/university-of-miami-becomes-latest-battleground-over-facial-recognition-11603233631",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/university-of-miami-becomes-latest-battleground-over-facial-recognition-11603233631",
+      "publishedDateTime": "2020-10-20T15:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-how-is-big-data-analytics-using-machine-learning.md",
+      "title": "How Is Big Data Analytics Using Machine Learning?",
+      "excerpt": "That's where machine learning can help them. Data is a boon for machine learning systems. The more data a system receives, the more it learns to function better for businesses. Hence, using ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/20/how-is-big-data-analytics-using-machine-learning/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/20/how-is-big-data-analytics-using-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37866b8beb90007c3a79a%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/20/how-is-big-data-analytics-using-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/20/how-is-big-data-analytics-using-machine-learning/amp/",
+      "publishedDateTime": "2020-10-20T15:26:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-pandemic-speeds-labour-shift-from-humans-to-robots-wef-survey-finds.md",
+      "title": "Pandemic speeds labour shift from humans to robots, WEF survey finds",
+      "excerpt": "Robots will destroy 85 million jobs at mid-sized to large businesses over the next five years as the COVID-19 pandemic accelerates changes in the workplace likely to exaggerate inequalities, a World Economic Forum (WEF) study has found.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/industry-robots/pandemic-speeds-labour-shift-from-humans-to-robots-wef-survey-finds-idUSL8N2HB58A",
+      "originalUrl": "https://www.reuters.com/article/industry-robots/pandemic-speeds-labour-shift-from-humans-to-robots-wef-survey-finds-idUSL8N2HB58A",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201020&t=2&i=1538232954&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9J1R5",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2752YF",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2752YF",
+      "publishedDateTime": "2020-10-20T15:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-cd-projekt-red-used-ai-to-lip-sync-cyberpunk-2077s-dialogue-across-10-languages.md",
       "title": "CD Projekt Red used AI to lip-sync Cyberpunk 2077's dialogue across 10 languages",
       "excerpt": "As reported by Twitter user and industry veteran Shinobi602, the upcoming open-world sci-fi RPG Cyberpunk 2077 will feature full lip-sync for every single voiced character in",
@@ -986,186 +1194,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-intel-is-providing-the-smarts-for-the-first-satellite-with-local-ai-processing-on-board.md",
-      "title": "Intel is providing the smarts for the first satellite with local AI processing on board",
-      "excerpt": "Intel detailed today its contribution to PhiSat-1, a new tiny small satellite that was launched into sun-synchronous orbit on September 2. PhiSat-1 has a new kind of hyperspectral-thermal camera on board,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/20/intel-is-providing-the-smarts-for-the-first-satellite-with-local-ai-processing-on-board/",
-      "originalUrl": "https://techcrunch.com/2020/10/20/intel-is-providing-the-smarts-for-the-first-satellite-with-local-ai-processing-on-board/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/C0140-Large.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/20/intel-is-providing-the-smarts-for-the-first-satellite-with-local-ai-processing-on-board/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/20/intel-is-providing-the-smarts-for-the-first-satellite-with-local-ai-processing-on-board/amp/",
-      "publishedDateTime": "2020-10-20T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-stanchart-increases-stake-in-ai-startup-to-combat-financial-crime.md",
-      "title": "StanChart increases stake in AI startup to combat financial crime",
-      "excerpt": "Standard Chartered has upped its stake in an artificial intelligence startup that uses technology to help banks tackle financial crime. Silent Eight said on 19 October that Standard Chartered’s venture capital arm SC Ventures had chosen to participate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fnlondon.com/articles/stanchart-increases-stake-in-artificial-intelligence-startup-to-combat-financial-crime-20201019",
-      "originalUrl": "https://www.fnlondon.com/articles/stanchart-increases-stake-in-artificial-intelligence-startup-to-combat-financial-crime-20201019",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fnlondon.com/amp/articles/stanchart-increases-stake-in-artificial-intelligence-startup-to-combat-financial-crime-20201019",
-      "cdnAmpWebUrl": "https://www-fnlondon-com.cdn.ampproject.org/c/s/www.fnlondon.com/amp/articles/stanchart-increases-stake-in-artificial-intelligence-startup-to-combat-financial-crime-20201019",
-      "publishedDateTime": "2020-10-20T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial News",
-        "domain": "fnlondon.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-adobe-nvidia-unveil-ai-powered-smart-portrait-at-adobe-max.md",
-      "title": "Adobe & NVIDIA unveil AI-powered Smart Portrait at Adobe MAX",
-      "excerpt": "As part of this week's Adobe MAX conference, Adobe and NVIDIA are unveiling some major advancements that will allow artists to use AI for photo editing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.shacknews.com/article/121016/adobe-nvidia-unveil-ai-powered-smart-portrait-at-adobe-max",
-      "originalUrl": "https://www.shacknews.com/article/121016/adobe-nvidia-unveil-ai-powered-smart-portrait-at-adobe-max",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/10/19/nvidia-studio-adobe-photoshop-smart-portrait_feature.jpg",
-          "width": 1280,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.shacknews.com/article/121016/adobe-nvidia-unveil-ai-powered-smart-portrait-at-adobe-max?amphtml=1",
-      "cdnAmpWebUrl": "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/121016/adobe-nvidia-unveil-ai-powered-smart-portrait-at-adobe-max?amphtml=1",
-      "publishedDateTime": "2020-10-20T06:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Shacknews",
-        "domain": "shacknews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-photoshops-ai-neural-filters-can-tweak-age-and-expression-with-a-few-clicks.md",
-      "title": "Photoshop’s AI neural filters can tweak age and expression with a few clicks",
-      "excerpt": "These filters include a number of simple overlays and effects but also tools that allow for deeper edits, particularly to portraits. With neural filters, Photoshop can adjust a subject’s age and facial expression,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/10/20/21517616/adobe-photoshop-ai-neural-filters-beta-launch-machine-learning",
-      "originalUrl": "https://www.theverge.com/2020/10/20/21517616/adobe-photoshop-ai-neural-filters-beta-launch-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/lhxq_qXsqjfU0tRw9tSo7xohYVA=/0x0:954x525/1400x933/filters:focal(401x187:553x339):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67659504/neural_filters_age_change.0.gif",
-          "width": 954,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/10/20/21517616/adobe-photoshop-ai-neural-filters-beta-launch-machine-learning",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/10/20/21517616/adobe-photoshop-ai-neural-filters-beta-launch-machine-learning",
-      "publishedDateTime": "2020-10-20T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

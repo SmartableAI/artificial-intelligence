@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-20-lux-backed-flex-logix-announces-availability-of-its-fast-and-cheap-x1-ai-chip-for-the-edge.md",
+      "title": "Lux-backed Flex Logix announces availability of its fast and cheap X1 AI chip for the edge",
+      "excerpt": "In the computing world, there are probably more types of chips available than your local supermarket snack aisle. Diverse computing environments (data centers and the cloud, edge, mobile devices, IoT,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/20/flex-logix-chip-availability/",
+      "originalUrl": "https://techcrunch.com/2020/10/20/flex-logix-chip-availability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1161355655.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/20/flex-logix-chip-availability/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/20/flex-logix-chip-availability/amp/",
+      "publishedDateTime": "2020-10-20T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-silent-eight-leverages-ai-to-detect-and-solve-financial-fraud.md",
       "title": "Silent Eight leverages AI to detect and solve financial fraud",
       "excerpt": "Silent Eight, a cybersecurity startup leveraging AI to combat fraud, today closed a $15 million funding round. The company says the funds will be used to accelerate current hiring efforts and fuel ...",
@@ -1373,59 +1426,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-nvidia-is-building-an-ai-supercomputer-for-healthcare-research-in-england.md",
-      "title": "NVIDIA Is Building an AI Supercomputer for Healthcare Research in England",
-      "excerpt": "Dubbed Cambridge-1, the system will give healthcare researchers access to impressive artificial intelligence (AI) tools. The $52 million Cambridge-1 will be installed at the university it's named after, and is scheduled to come online by the end of 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/10/05/nvidia-is-building-an-ai-supercomputer-for-healthc/",
-      "originalUrl": "https://www.fool.com/investing/2020/10/05/nvidia-is-building-an-ai-supercomputer-for-healthc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F594100%2Fmedicine-ai-hands.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/05/nvidia-is-building-an-ai-supercomputer-for-healthc/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/05/nvidia-is-building-an-ai-supercomputer-for-healthc/",
-      "publishedDateTime": "2020-10-05T10:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

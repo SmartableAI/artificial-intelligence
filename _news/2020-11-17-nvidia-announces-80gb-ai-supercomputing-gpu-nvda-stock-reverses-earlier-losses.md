@@ -35,6 +35,17 @@ related:
         width: 1680
         height: 1050
         isCached: true
+  - title: "NVIDIA's AI Supercomputers Get a Massive Upgrade"
+    excerpt: "The high-speed chip powers NVIDIA's HGX AI supercomputing platform -- a turnkey AI processor in a box. The company touts the A100 as \"the world's fastest data center GPU.\" The chip will also be found at the core of NVIDIA DGX A100 and DGX Station A100 systems,"
+    publishedDateTime: 2020-11-16T19:43:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidias-ai-supercomputers-get-a-massive-upgrade-2020-11-16"
+    ampWebUrl: "https://www.nasdaq.com/articles/nvidias-ai-supercomputers-get-a-massive-upgrade-2020-11-16?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidias-ai-supercomputers-get-a-massive-upgrade-2020-11-16?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "NVIDIA A100 Ampere GPU Launches With Massive 80GB HBM2e For Data Hungry AI Workloads"
     excerpt: "Just six months after NVIDIA launched its A100 Ampere GPU, there is an upgraded version with double the memory, and it's faster to boot."
     publishedDateTime: 2020-11-16T13:52:00Z
@@ -95,6 +106,20 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "Nvidia Unveils A100 80GB GPU Powerhouse Supercomputing Chip"
+    excerpt: "Nvidia has doubled the memory of its previous supercomputing GPUs with its new A100 80GB GPU, which aims to drive new levels of supercomputing performance"
+    publishedDateTime: 2020-11-16T20:46:00Z
+    webUrl: "https://www.hpcwire.com/2020/11/16/nvidia-unveils-a100-80gb-gpu-powerhouse-supercomputing-chip/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 54
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/Nvidia-A100-80GB-GPU_605x.png"
+        width: 605
+        height: 446
+        isCached: true
   - title: "NVIDIA A100 80GB GPU Unveiled"
     excerpt: "NVIDIA announced that its popular A100 GPU will see a doubling of high-bandwidth memory with the unveiling of the NVIDIA A100 80GB GPU."
     publishedDateTime: 2020-11-16T13:00:00Z
@@ -136,6 +161,20 @@ related:
       - url: "https://www.dbta.com/images/social-logo-2019.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Nvidia Unveils Ampere A100 80GB GPU With 2TB/s of Memory Bandwidth"
+    excerpt: "Nvidia announced an 80GB Ampere A100 GPU this week, for AI software developers who really need some room to stretch their legs."
+    publishedDateTime: 2020-11-16T19:15:00Z
+    webUrl: "https://www.extremetech.com/computing/317397-nvidia-unveils-ampere-a100-80gb-gpu-with-2tb-s-of-memory-bandwidth"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 39
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2020/08/Nvidia-DGX-A100.jpg"
+        width: 1260
+        height: 708
         isCached: true
 
 secured: "IPeGtHhmT2Yql2Bn+gg/8HnJA4vnKbRYyJeF/JRFvlUmApYWwPHQN6R+ZfnJtcOxq5ZmGBuoOG70uAmJtRfX80oL6i3ugpTBU6kYyaanTSvBwv4jHmazL6+HUtkXWtTRLTzQnB64n/mjo669cWjrazOlU3OYYbT5XjsGBktA2uY1KFG2ZKoRq/tcBhSxEUV3msDqavevI5ea5DAekRbqXFvWr224AFvKWF498eHJ7pd+/k6SgrKgKTmKFQRZEsu8ah2j5OeDMPwQsC8hZt4i8mHSzTFGFTMpiKh39fbj4xXBFT8X1CYslSHU8eyNbqMLJwuV/m4ZA/vuGRAXU1XzyYZ8LlDpqvIpgUh5gE2/mH4=;MNJxxXrY2e+64xPK0iYJ9Q=="

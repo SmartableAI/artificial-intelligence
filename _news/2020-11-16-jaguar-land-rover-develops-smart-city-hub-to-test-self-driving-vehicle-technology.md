@@ -35,6 +35,22 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "‘It is going to be a race with Tesla’ says VW about new investments in electric cars and self-driving"
+    excerpt: "The Volkswagen Group just announced that it is accelerating its investments in software, electric vehicles, and self-driving technology and it is not shying away from the fact that its goal is to catch up to Tesla."
+    publishedDateTime: 2020-11-16T20:08:00Z
+    webUrl: "https://electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/"
+    ampWebUrl: "https://electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 74
+    images:
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/01/vw-ev-lineup.jpg?quality=82&strip=all"
+        width: 1600
+        height: 801
+        isCached: true
   - title: "Tesla Ruling Leaves Self-Driving Liability Questions Open"
     excerpt: "A California federal court recently dismissed Umeda v. Tesla, saying that the wrongful death suit involving a driver-assist system should have been filed where the crash occurred, but the underlying liability questions the case the raised remain to be resolved,"
     publishedDateTime: 2020-11-12T21:48:00Z

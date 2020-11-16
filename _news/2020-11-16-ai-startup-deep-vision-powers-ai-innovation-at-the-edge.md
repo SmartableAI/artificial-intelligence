@@ -7,7 +7,7 @@ originalUrl: "https://www.businesswire.com/news/home/20201116005319/en/AI-Startu
 webUrl: "https://www.businesswire.com/news/home/20201116005319/en/AI-Startup-Deep-Vision-Powers-AI-Innovation-at-the-Edge"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1200
     height: 627
     isCached: true
+
+related:
+  - title: "Deep Vision announces its low-latency AI processor for the edge"
+    excerpt: "Deep Vision, a new AI startup that is building an AI inferencing chip for edge computing solutions, is coming out of stealth today. The six-year-old company’s new ARA-1 processors promise to strike the right balance between low latency,"
+    publishedDateTime: 2020-11-16T20:04:00Z
+    webUrl: "https://techcrunch.com/2020/11/16/deep-vision-announces-its-low-latency-ai-processor-for-the-edge/"
+    ampWebUrl: "https://techcrunch.com/2020/11/16/deep-vision-announces-its-low-latency-ai-processor-for-the-edge/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/16/deep-vision-announces-its-low-latency-ai-processor-for-the-edge/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1150039017.jpg?w=1024"
+        width: 1024
+        height: 563
+        isCached: true
 
 secured: "q/yjw/VL9xkldPjXQt+PDLFLd6tOzsDIzS3I4D767a/wsg+2fjiCBtjcc1cpMmfQLZ5TY8ZyvkqLVHX2t4iJ9sK37xE29keNHeJqCsk89il7HckADEc+bMiX+tL5V6zHC16A2lRWtbRCc3hzhPh+xyjMOQmAoen+cjyAYwXACkLPuIk4ZC8iGmz1dxTdS3S9A8GQVGr/8fHXVeECRPmpQ+EMPU227E8k2ZefXiVbgrA+8rEM5iCpuiNRuU0DpK96MVcpNpPiHG+H87m5mUyOxFbNrkL7HkVbUcESNt80Ln8jhRVZdM3KU2ZUezdqhEo06dd97G1KMTnI+VsW0yHUr8p22pd/FOuofWRA7ofyBBQOI+JXWTYrH2BHJAaCXMyjj1JW/11iCiZ+FCXSIWizl9oi0chMI6xLJ0dLW3bh2lO+w16NcP9hS5/ydmP9LTyNQ2cM336+f9OPs8vSw8Bvq3x8Mr1PZSeNAt17P8LdGMD3vsJvyHQSAm3u2uSKbKTUJdriMGe4Hoi4AWI+XGoKXA==;hg28ghuaLmnjNFcYTDwQqw=="
 ---

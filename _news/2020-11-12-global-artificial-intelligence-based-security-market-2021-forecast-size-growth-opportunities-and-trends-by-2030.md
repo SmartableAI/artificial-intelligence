@@ -24,22 +24,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "Global Artificial Intelligence in Security Market 2021: Segmented By Product, Top Manufacturers, Geography Trends & Forecasts To 2030"
-    excerpt: "Market.Biz –:COVID-19 Analysis: Turn massive Artificial Intelligence in Security Market challenges into | eTurboNews | Trends | Travel News Online |"
-    publishedDateTime: 2020-11-12T03:50:00Z
-    webUrl: "https://www.eturbonews.com/1647358/global-artificial-intelligence-in-security-market-2021-segmented-by-product-top-manufacturers-geography-trends-forecasts-to-2030-2/"
-    type: article
-    provider:
-      name: eTurboNews
-      domain: eturbonews.com
-    quality: 23
-    images:
-      - url: "https://www.eturbonews.com/wp-content/uploads/2020/10/eturbonewstravelnewslogo.jpg"
-        width: 300
-        height: 250
-        isCached: true
-
 secured: "QrsUUUeyz2mN3a0VOfIV03FpzP3mlkdJGbGZfyDw5SuhYG98oUCN/q1HZmgX7shpBuAx/wymmjV5wRrzwxArFVok4gObih+gNA5xJvIyDMhjltni1yTkAJvZPB96t59H5Hv+3UjDqm6rOPq2VOy42pa22nGHyphOKx5bJVYQTcYOYNmhvVC3j5bKGzf92q+RGGG7W6q2uE/eJzIMNG+W/lSwClkxXxvQcAQqQCTuEf0fo6aMqNmJ2/4FKUanA398Sgh26Hwmk+uhs5/DhaI57hZEnNBOAzb0vZ7ZyMOH3IrcQ1ZeTOOy7WR7AqaCPfmHMYvp7+46scyFZFz5vtOKeu3BIMt7aRajg+MjOaFnus8=;TqXu+1tdWOh1V7lIkrXUog=="
 ---
 

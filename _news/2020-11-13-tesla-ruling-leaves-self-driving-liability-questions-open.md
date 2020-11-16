@@ -37,6 +37,22 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "‘It is going to be a race with Tesla’ says VW about new investments in electric cars and self-driving"
+    excerpt: "The Volkswagen Group just announced that it is accelerating its investments in software, electric vehicles, and self-driving technology and it is not shying away from the fact that its goal is to catch up to Tesla."
+    publishedDateTime: 2020-11-16T20:08:00Z
+    webUrl: "https://electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/"
+    ampWebUrl: "https://electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 74
+    images:
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/01/vw-ev-lineup.jpg?quality=82&strip=all"
+        width: 1600
+        height: 801
+        isCached: true
   - title: "Jaguar Land Rover develops smart city hub to test self-driving vehicle technology"
     excerpt: "Jaguar Land Rover is partnering with global software, mobility and telecoms companies to create a smart city hub that will allow real-world testing of connected technology where self-driving vehicles share the streets with cars,"
     publishedDateTime: 2020-11-16T08:59:00Z
