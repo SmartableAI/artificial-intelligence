@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "New Orleans Police Department using facial recognition despite years of denial"
+    excerpt: "Explaining its previous denials, the department said that it doesn’t employ its own facial recognition software. Instead, it accesses the technology through state and federal partners. An ACLU lawyer said that was a ‘distinction without a difference."
+    publishedDateTime: 2020-11-12T20:49:00Z
+    webUrl: "https://thelensnola.org/2020/11/12/new-orleans-police-department-using-facial-recognition-despite-years-of-denial/"
+    ampWebUrl: "https://thelensnola.org/2020/11/12/new-orleans-police-department-using-facial-recognition-despite-years-of-denial/"
+    cdnAmpWebUrl: "https://thelensnola-org.cdn.ampproject.org/c/s/thelensnola.org/2020/11/12/new-orleans-police-department-using-facial-recognition-despite-years-of-denial/"
+    type: article
+    provider:
+      name: The Lens
+      domain: thelensnola.org
+    quality: 55
+    images:
+      - url: "https://i0.wp.com/thelensnola.org/wp-content/uploads/2020/11/DSC_8767-scaled.jpg?fit=2560%2C1709&ssl=1"
+        width: 2560
+        height: 1709
+        isCached: true
   - title: "New Orleans police use facial recognition software, despite official assurances to the contrary"
     excerpt: "The New Orleans Police Department has confirmed that it is using facial recognition software to investigate crime, despite years of assurances that city government wasn’t employing the technology. The department doesn't own facial recognition software,"
     publishedDateTime: 2020-11-13T19:30:00Z

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Honda says will be first to mass produce level 3 autonomous cars"
-    excerpt: "Japan's Honda Motor Co said on Wednesday it will be the world's first automaker to mass produce sensor-packed level 3 autonomous cars that will allow drivers to let their vehicles navigate congested expressway traffic."
-    publishedDateTime: 2020-11-11T11:59:00Z
-    webUrl: "https://www.reuters.com/article/us-honda-autonomous-level3/honda-says-will-be-first-to-mass-produce-level-3-autonomous-cars-idUSKBN27R0LV"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27R0M7"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27R0M7"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 172
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201111&t=2&i=1540803398&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAA0AY"
-        width: 801
-        height: 545
-        isCached: true
   - title: "Honda claims it'll be the first to mass produce level 3 self-driving cars"
     excerpt: "They could overtake slow cars by themselves. Virtually every semi-autonomous car you’ve seen on the road, even Teslas with Autopilot, uses level 2 self-driving — they may save you from steering or hitting the accelerator,"
     publishedDateTime: 2020-11-11T16:35:00Z
@@ -75,21 +59,76 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Honda, First To Mass Produce Level 3 Self-Driving Cars: Reuters"
-    excerpt: "The Japanese government awarded Honda Motor Co Ltd (NYSE: HMC) a safety certification to the automaker’s “Traffic Jam Pilot” self-driving technology, Reuters reports. What Happened: Honda plans to launch its luxury sedan (Honda Legend) sales with the ..."
-    publishedDateTime: 2020-11-11T12:51:00Z
-    webUrl: "https://www.benzinga.com/news/20/11/18318098/honda-first-to-mass-produce-level-3-self-driving-cars-reuters"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18318098"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18318098"
+  - title: "Weather-proof chip aims to take self-driving tech, wireless communications to next level"
+    excerpt: "A new device can overcome challenges like bad weather to deliver more secure, reliable communications. This could aid military communications in challenging areas, improve the ability of self-driving cars to see the environment around them and speed up wireless data for potential 6G networks."
+    publishedDateTime: 2020-11-13T09:42:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/11/201112145432.htm"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 57
+  - title: "Where are self-driving cars? Here's why they're farther down the road"
+    excerpt: "Autonomous vehicles are, alas, still in the future. Here's why you can’t buy a self-driving car today and a place you’re likely to find them first."
+    publishedDateTime: 2020-11-14T20:30:00Z
+    webUrl: "https://tucson.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_ae18bc03-6f55-5696-bbff-0e24130b0599.html"
+    ampWebUrl: "https://tucson.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_ae18bc03-6f55-5696-bbff-0e24130b0599.amp.html"
+    cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_ae18bc03-6f55-5696-bbff-0e24130b0599.amp.html"
+    type: article
+    provider:
+      name: Arizona Daily Star
+      domain: tucson.com
     quality: 44
     images:
-      - url: "https://www.benzinga.com/files/images/story/2012/honda_legend_2018.jpg"
-        width: 4485
-        height: 2085
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/1/c9/1c98e1ac-23d8-5de6-932a-eb2f1df3be72/5fab0ac24a948.image.jpg?resize=1024%2C630"
+        width: 1024
+        height: 630
+        isCached: true
+  - title: "Walmart teams up with GM's Cruise to test grocery delivery with self-driving cars"
+    excerpt: "Walmart announced Tuesday that the company has joined forces with self-driving car company Cruise to test out autonomous grocery delivery in Arizona."
+    publishedDateTime: 2020-11-11T15:31:00Z
+    webUrl: "https://www.fox35orlando.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars"
+    ampWebUrl: "https://www.fox35orlando.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars.amp"
+    cdnAmpWebUrl: "https://www-fox35orlando-com.cdn.ampproject.org/c/s/www.fox35orlando.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars.amp"
+    type: article
+    provider:
+      name: WOFL
+      domain: fox35orlando.com
+    quality: 39
+    images:
+      - url: "https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2020/11/932/470/Walmart-and-Cruise.png?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
+  - title: "Walmart teams up with GM's Cruise to test grocery delivery with self-driving cars"
+    excerpt: "Walmart announced Tuesday that the company has joined forces with self-driving car company Cruise to test out autonomous grocery delivery in Arizona."
+    publishedDateTime: 2020-11-11T17:36:00Z
+    webUrl: "https://www.fox5atlanta.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars"
+    ampWebUrl: "https://www.fox5atlanta.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars.amp"
+    cdnAmpWebUrl: "https://www-fox5atlanta-com.cdn.ampproject.org/c/s/www.fox5atlanta.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars.amp"
+    type: article
+    provider:
+      name: FOX 5 Atlanta
+      domain: fox5atlanta.com
+    quality: 39
+    images:
+      - url: "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2020/11/932/470/Walmart-and-Cruise.png?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
+  - title: "Honda’s self-driving system wins OK for use on busy roads in Japan"
+    excerpt: "Honda is launching a new version of its Legend sedan that will take over for drivers on busy highways after the company got approval for its self-driving system in Japan."
+    publishedDateTime: 2020-11-11T15:30:00Z
+    webUrl: "https://www.wraltechwire.com/2020/11/11/hondas-self-driving-system-wins-ok-for-use-on-busy-roads-in-japan/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 24
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2020/11/honda-4967587_1280-e1605108185813-1024x576.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Honda To Produce Self-Driving Cars Capable Of Navigating Heavy Traffic"
     excerpt: "Shutterstock The Honda Legend luxury sedan will have \"traffic jam pilot\" technology, allowing drivers to take their eyes off the road"

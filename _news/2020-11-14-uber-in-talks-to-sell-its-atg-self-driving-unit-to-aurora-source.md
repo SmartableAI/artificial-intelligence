@@ -111,6 +111,22 @@ related:
         width: 7366
         height: 4920
         isCached: true
+  - title: "Uber May Sell Self-Driving Car Unit To Rival Aurora Innovation, Report Says"
+    excerpt: "Uber may sell its autonomous vehicle unit Uber Advanced Technologies Group to a competitor, startup Aurora Innovation, according to a news report. Aurora, which was founded in 201"
+    publishedDateTime: 2020-11-16T02:55:00Z
+    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2020/uber-may-sell-self-driving-car-unit-to-rival-aurora-innovation-report-says/"
+    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2020/uber-may-sell-self-driving-car-unit-to-rival-aurora-innovation-report-says/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2020/uber-may-sell-self-driving-car-unit-to-rival-aurora-innovation-report-says/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 42
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/11/uber-selling-self-driving-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Xpeng shares surge on first results, promises China’s best assisted self-driving solution"
     excerpt: "Xpeng is gearing up for an ambitious goal: setting a benchmark for driver assistance technology in China that rivals will have to overcome."
     publishedDateTime: 2020-11-14T06:34:00Z
@@ -151,6 +167,6 @@ related:
       domain: seekingalpha.com
     quality: 4
 
-secured: "uzoz0HWeqaG/rwS4sONZVsNJbQm4d+O78K6M1teZwEB/PLyHOEqGUBhC0r/PG4ebca/0kXsgcWNUpe+i3aleEsDTromiOwLS7nCo4V6rDKbOBHZQUvlvmmhU7SKGdZOy8Dgf8o2PRN5T2TtpPiHQ99leTebu1dgBQUVuw7/IfoscpMdqkNy+qnjnY+JGO+AbEYOUvAfKtBzG1iN8dErsOj6QEi9qLZ73EJYZUDP3HKrlp+N7wsiklNejCH0oiZk0Mo7JPtnF+gtjLI8V7gMqEVf3o8XY2Kellpg0yZCKtFwfq1sW5gEze2PaOSJy2O8rK0NUVMwOmvC8+tYUPHnrLbkgHF6XYhutVFkFYdxV9ZA=;VUQJPUIStMPx1iuaUJ4ryw=="
+secured: "Zm8oMXTMvECHdv9aO0BszmhQpOYtcIyntZV/NrDiZguVobes9npOOaOdClnPRoKgcXx9J35lfCAe+IwCLbzeKLEKkrmfTRCQN4Q+n4Mw8qTWmoDg1haAqOEcX9+pSz8z0pr31pWAvuyt2eq8MhBuqmSzPZ2i0ryR8x1JIinl9AYp2xpAa2RIJ5a9KxQn2WAQumgvkndfzWE8gxsVBi3BEMvzblgrMft/r5H/jqEn4Nc4Od7ftqjdOBp1Nb1B2f25qd3vkII74ukOvQX+f4RHkSQkq+3Ov2Vf0+9Q8kBZztOA16Beqjmc/H5OW+3UIwfWa1YK94PHXQdJ3j9B0zIrMt0STcgS+eZgimgIrK1LAVFuZuq62XY90+Pf3m4kn9WIN196yPcpzPkvEZjFDQIhI6rA8OE4Q5pCHO3D5D6qNlQdHJzQ2NJSn6rP5YHl12ZnqCjhRaNsoN/xII/ug3v+YO/ybOaejpfhrjpkuIt13Zmfoqq5/6eCgrluQSSVsJ7uCw5chQLovp1XKauMvDOomQ==;zTwnWmJuzW3+SVT287fBuw=="
 ---
 

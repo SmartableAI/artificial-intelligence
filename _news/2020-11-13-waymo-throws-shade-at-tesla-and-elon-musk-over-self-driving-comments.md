@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2020/11/12/waymo-throws-shade-tesla-elon-musk-ov
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/12/waymo-throws-shade-tesla-elon-musk-over-self-driving/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo Suggests 'Orders Of Magnitude More Advanced' Than Tesla's Full Self-Driving Approach"
-    excerpt: "Alphabet Inc's (NASDAQ: GOOGL)(NASDAQ: GOOG) Waymo is working on level 5 autonomous self-driving cars. The company currently has a robotaxi service that can take people from point A to point B with no human in the driver's seat. The technology is geofenced ..."
-    publishedDateTime: 2020-11-11T12:53:00Z
-    webUrl: "https://www.benzinga.com/tech/20/11/18313294/waymo-suggests-orders-of-magnitude-more-advanced-than-teslas-full-self-driving-approach"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18313294"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18313294"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 64
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/waymo_minivan_7_2.jpg"
-        width: 6720
-        height: 4480
-        isCached: true
   - title: "Tesla Ruling Leaves Self-Driving Liability Questions Open"
     excerpt: "A California federal court recently dismissed Umeda v. Tesla, saying that the wrongful death suit involving a driver-assist system should have been filed where the crash occurred, but the underlying liability questions the case the raised remain to be resolved,"
     publishedDateTime: 2020-11-12T21:48:00Z

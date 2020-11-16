@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/11/11/ibm-and-amd-partner-up
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/11/ibm-and-amd-partner-up-to-accelerate-development-i/"
 type: article
 quality: 75
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -76,15 +76,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "IBM and AMD Announce Joint Development Agreement to Advance Confidential Computing for the Cloud and Accelerate Artificial Intelligence"
-    excerpt: "\"IBM is focused on giving our clients choice, agility and security in our hybrid cloud offerings through advanced research, development and scaling of new technologies.\" \"This agreement between AMD and IBM aligns well with our long-standing commitment to collaborating with leaders in the industry,"
-    publishedDateTime: 2020-11-11T12:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/ibm-and-amd-announce-joint-development-agreement-to-advance-confidential-computing"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 17
 
 secured: "jyG/GGNMFZixUvEvf8yDkzfyqYIhOMAbzs9RaK00FZhxIsFxOaTWkZX5UhT8qqv5GzVwdatLtIPJJvoaDcD+g242hYLgKNJEvEGVUE7rDVja457eXRdCBMaIwYaNjzW6DZCbk42zxgffRhJpVj0JoTBCthWqnQ7DuA+Q2Iu9REC3n5jABpeSsbY+r+q060rKtWHmnhcmD/zfJ03nSBXjjViCCKIumszb3pWXBDyN8qv8acQOpBLWowiPgiNKQELi0IXnOcyjeIZTOlndve+9ONbYW05QOFGQZ3t2sQSgfJR05JKZGQaJEUIEBk5jRw7VMiDVNxOmrxMPomacizb+yhuOV4PWCtUl+ZmP+rBvTM+Gl7nEOx8/pMZTRitP8Y03b0JQSugrKQXEqAKpx//VRIrnaaa7hvXtR21lzud6CuiGZxE0iJM/OEgXKPh9bPPDPlWjBBpIsf8yEUEYTVbfSuvch0EVO/sIGpZqEn7Bq3WLS6OBANhieord+OD2Ha8ZXT2CipgXRXSViWRxT7GLiA==;+tfUvOejSgnHqH0OTnXCIA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://thelensnola.org/2020/11/12/new-orleans-police-department-usi
 cdnAmpWebUrl: "https://thelensnola-org.cdn.ampproject.org/c/s/thelensnola.org/2020/11/12/new-orleans-police-department-using-facial-recognition-despite-years-of-denial/"
 type: article
 quality: 55
-heat: -1
-published: false
+heat: 75
+published: true
 
 provider:
   name: The Lens
@@ -27,49 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Schools Are Using a Facial Recognition Scanner That Detects Face Masks"
-    excerpt: "In addition to that, GoSafe also comes with sophisticated facial recognition technology. After U.S. school districts pushed to reopen, there was a pressing need for temperature-taking devices. While some school boards were initially apprehensive of the inclusion of facial recognition,"
-    publishedDateTime: 2020-11-11T12:24:00Z
-    webUrl: "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20909/Schools-Are-Using-a-Facial-Recognition-Scanner-That-Detects-Face-Masks.aspx"
-    ampWebUrl: "https://mobile.engineering.com/amp/20909.html"
-    cdnAmpWebUrl: "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20909.html"
+  - title: "New Orleans police use facial recognition software, despite official assurances to the contrary"
+    excerpt: "The New Orleans Police Department has confirmed that it is using facial recognition software to investigate crime, despite years of assurances that city government wasn’t employing the technology. The department doesn't own facial recognition software,"
+    publishedDateTime: 2020-11-13T19:30:00Z
+    webUrl: "https://www.nola.com/news/crime_police/article_9eda8846-25e1-11eb-9c95-4f11b10ed17a.html"
+    ampWebUrl: "https://www.nola.com/news/crime_police/article_9eda8846-25e1-11eb-9c95-4f11b10ed17a.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/crime_police/article_9eda8846-25e1-11eb-9c95-4f11b10ed17a.amp.html"
     type: article
     provider:
-      name: Engineering
-      domain: engineering.com
-    quality: 59
+      name: NOLA.com
+      domain: nola.com
+    quality: 47
     images:
-      - url: "https://www.engineering.com/portals/0/BlogFiles/75_ima1.png"
-        width: 530
-        height: 560
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/a/be/abe088b6-6484-11ea-80c3-efad1712deb4/5d154061558f0.image.jpg"
+        width: 600
+        height: 439
         isCached: true
-  - title: "Facial Recognition and the Convenience of Injustice"
-    excerpt: "In the quest for convenience, one of the tasks people have assigned to AI is facial recognition. Apparently, it has now become very good at using the image of a face to identify individuals. It may even perform better than Lady Gaga in the knotty problem of distinguishing Isla Fisher from Amy Adams."
-    publishedDateTime: 2020-11-13T18:17:00Z
-    webUrl: "https://www.fairobserver.com/region/north_america/facial-recognition-and-the-convenience-of-injustice/"
+  - title: "New Orleans police use facial recognition software, despite previous assurances to the contrary"
+    excerpt: "The New Orleans Police Department has confirmed that it is using facial recognition software to investigate crime, despite years of assurances that city government wasn’t employing the technology. The agency doesn't own facial recognition software,"
+    publishedDateTime: 2020-11-13T19:30:00Z
+    webUrl: "https://www.nola.com/news/crime_police/article_9eda8846-25e1-11eb-9c95-4f11b10ed17a.html"
+    ampWebUrl: "https://www.nola.com/news/crime_police/article_9eda8846-25e1-11eb-9c95-4f11b10ed17a.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/crime_police/article_9eda8846-25e1-11eb-9c95-4f11b10ed17a.amp.html"
     type: article
     provider:
-      name: Fair Observer
-      domain: fairobserver.com
-    quality: 39
+      name: NOLA.com
+      domain: nola.com
+    quality: 47
     images:
-      - url: "https://www.fairobserver.com/wp-content/uploads/2020/11/facial-recognition-1.jpg"
-        width: 938
-        height: 450
-        isCached: true
-  - title: "Are facial recognition tools safe, bias-free? If not what can be done to ensure the same."
-    excerpt: "Facial recognition ability of AI has many applications. But it has certain loopholes too that makes it perfect tool to for racial and gender bias and unauthorized surveillance. Big tech like IBM, Amaz"
-    publishedDateTime: 2020-11-13T17:47:00Z
-    webUrl: "https://www.analyticsinsight.net/why-is-facial-recognition-technology-still-a-big-no-no-for-many/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 30
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Facial-Recognition-Bias.jpg"
-        width: 740
-        height: 416
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/a/be/abe088b6-6484-11ea-80c3-efad1712deb4/5d154061558f0.image.jpg"
+        width: 600
+        height: 439
         isCached: true
 
 secured: "rVSuPdNS4nDo7RCcwSajJ6Z98WehjT4byZoh7GNsOnxfvXVDmxcLr23xHt4Aa5nEAM7btDgvJGEDaYQRqVhWHx1ckNkvWCaGz3f34cI+GPpqdrfqaiYjuUk+27RGd4tvW/7eVKmMaIkQewakv4KrQuKiI3w8RDWFFFFLFE8TsKcJyMdt6F6SdjxbZLQccWplgQi6iZ36HaIbAaUNgIAg+Izw6N7j1UB2c4mqjiYLewJ8x1vjj8doU/5UXqrySFWbunpNaI0/yW2iw92NOF6LIQZCQXeV6ozo01MwaVKXO2oh47QX/nT15p6vpzpmBGD9AjtdB9X1jriIA8rKmR3gO7bR7c19xoYdRE55TCoGdlHju+KHAdNfLpRCv1c3cUSaN3O0m/NY5EDfdhHVMw/EdXDS5NM3AdRoGoBJ5Jr+YH7k6rxAa3dF/AQkSCQSX8BVwjy6onIWBqzMCYvNR1E/5I6gJqBkKCl9iRfKVSE+3pHYcRgHzBKEQL3FcIWf0FTDPihwWRrtCgTomM6/QnSnrQ==;Nl9YU2GxYFd6Rk0LJ/oIIA=="

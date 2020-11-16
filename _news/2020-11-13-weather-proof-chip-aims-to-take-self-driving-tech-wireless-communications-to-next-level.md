@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2020/11/201112145432.htm"
 webUrl: "https://www.sciencedaily.com/releases/2020/11/201112145432.htm"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -24,20 +24,139 @@ topics:
   - AI Hardware
 
 related:
-  - title: "China wants self-driving tech in half of new cars by 2025"
-    excerpt: "BEIJING -- China aims to have vehicles with partial self-driving technology account for 50% of all new-auto sales by 2025, double its previous goal, as the country encourages local companies to pull ahead of the U."
-    publishedDateTime: 2020-11-11T19:14:00Z
-    webUrl: "https://asia.nikkei.com/Business/Automobiles/China-wants-self-driving-tech-in-half-of-new-cars-by-2025"
+  - title: "Honda claims it'll be the first to mass produce level 3 self-driving cars"
+    excerpt: "They could overtake slow cars by themselves. Virtually every semi-autonomous car you’ve seen on the road, even Teslas with Autopilot, uses level 2 self-driving — they may save you from steering or hitting the accelerator,"
+    publishedDateTime: 2020-11-11T16:35:00Z
+    webUrl: "https://www.engadget.com/honda-to-mass-produce-level-3-self-driving-cars-163208006.html"
+    ampWebUrl: "https://www.engadget.com/amp/honda-to-mass-produce-level-3-self-driving-cars-163208006.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/honda-to-mass-produce-level-3-self-driving-cars-163208006.html"
     type: article
     provider:
-      name: NIKKEI
-      domain: nikkei.com
+      name: YAHOO!News
+      domain: engadget.com
+    quality: 88
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F4f2b8c20-2436-11eb-b7b7-4bf22a2a36a8&client=amp-blogside-v2&signature=f3a493c3b8522b7fbef3bc164f1803488841034a"
+        width: 600
+        height: 350
+        isCached: true
+  - title: "Honda to mass-produce Level 3 autonomous cars by March"
+    excerpt: "Honda claims it will be the first automaker to mass-produce vehicles with autonomous capabilities that meet SAE Level 3 standards, with plans to begin producing and selling a version of its Honda Legend luxury sedan with fully approved automated driving equipment in Japan from next March."
+    publishedDateTime: 2020-11-11T15:59:00Z
+    webUrl: "https://techcrunch.com/2020/11/11/honda-to-mass-produce-level-3-autonomous-cars-by-march/"
+    ampWebUrl: "https://techcrunch.com/2020/11/11/honda-to-mass-produce-level-3-autonomous-cars-by-march/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/11/honda-to-mass-produce-level-3-autonomous-cars-by-march/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/11/honda-legend-profile.jpg?w=800"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Honda Hints It Will the First to Release Level 3 Self-Driving Vehicles"
+    excerpt: "Honda has declared that it will be the first automaker to put out level 3 self-driving vehicles. It’s a bold move that gives the company a competitive advantage against most automakers — even Tesla only has level 2 self-driving cars at the moment."
+    publishedDateTime: 2020-11-12T06:52:00Z
+    webUrl: "https://hypebeast.com/2020/11/honda-first-level-3-self-driving-cars-info"
+    ampWebUrl: "https://hypebeast.com/2020/11/honda-first-level-3-self-driving-cars-info?amp=1"
+    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/11/honda-first-level-3-self-driving-cars-info?amp=1"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 44
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F11%2Fhonda-first-level-3-self-driving-cars-info-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
+        width: 1076
+        height: 717
+        isCached: true
+  - title: "Where are self-driving cars? Here's why they're farther down the road"
+    excerpt: "Autonomous vehicles are, alas, still in the future. Here's why you can’t buy a self-driving car today and a place you’re likely to find them first."
+    publishedDateTime: 2020-11-14T20:30:00Z
+    webUrl: "https://tucson.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_ae18bc03-6f55-5696-bbff-0e24130b0599.html"
+    ampWebUrl: "https://tucson.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_ae18bc03-6f55-5696-bbff-0e24130b0599.amp.html"
+    cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_ae18bc03-6f55-5696-bbff-0e24130b0599.amp.html"
+    type: article
+    provider:
+      name: Arizona Daily Star
+      domain: tucson.com
+    quality: 44
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/1/c9/1c98e1ac-23d8-5de6-932a-eb2f1df3be72/5fab0ac24a948.image.jpg?resize=1024%2C630"
+        width: 1024
+        height: 630
+        isCached: true
+  - title: "Walmart teams up with GM's Cruise to test grocery delivery with self-driving cars"
+    excerpt: "Walmart announced Tuesday that the company has joined forces with self-driving car company Cruise to test out autonomous grocery delivery in Arizona."
+    publishedDateTime: 2020-11-11T15:31:00Z
+    webUrl: "https://www.fox35orlando.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars"
+    ampWebUrl: "https://www.fox35orlando.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars.amp"
+    cdnAmpWebUrl: "https://www-fox35orlando-com.cdn.ampproject.org/c/s/www.fox35orlando.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars.amp"
+    type: article
+    provider:
+      name: WOFL
+      domain: fox35orlando.com
+    quality: 39
+    images:
+      - url: "https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2020/11/932/470/Walmart-and-Cruise.png?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
+  - title: "Walmart teams up with GM's Cruise to test grocery delivery with self-driving cars"
+    excerpt: "Walmart announced Tuesday that the company has joined forces with self-driving car company Cruise to test out autonomous grocery delivery in Arizona."
+    publishedDateTime: 2020-11-11T17:36:00Z
+    webUrl: "https://www.fox5atlanta.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars"
+    ampWebUrl: "https://www.fox5atlanta.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars.amp"
+    cdnAmpWebUrl: "https://www-fox5atlanta-com.cdn.ampproject.org/c/s/www.fox5atlanta.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars.amp"
+    type: article
+    provider:
+      name: FOX 5 Atlanta
+      domain: fox5atlanta.com
+    quality: 39
+    images:
+      - url: "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2020/11/932/470/Walmart-and-Cruise.png?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
+  - title: "Honda’s self-driving system wins OK for use on busy roads in Japan"
+    excerpt: "Honda is launching a new version of its Legend sedan that will take over for drivers on busy highways after the company got approval for its self-driving system in Japan."
+    publishedDateTime: 2020-11-11T15:30:00Z
+    webUrl: "https://www.wraltechwire.com/2020/11/11/hondas-self-driving-system-wins-ok-for-use-on-busy-roads-in-japan/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
     quality: 24
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F0%252F3%252F4%252F4%252F30584430-3-eng-GB%252FCropped-1605108561%25E6%25BB%25B4%25E6%25BB%25B4%25E5%2587%25BA%25E8%25A1%258C%25E3%2581%25AF%25E8%2587%25AA%25E5%258B%2595%25E9%2581%258B%25E8%25BB%25A2%25E6%258A%2580%25E8%25A1%2593%25E3%2581%25AE%25E9%2596%258B%25E7%2599%25BA%25E3%2582%2592%25E9%2580%25B2%25E3%2582%2581%25E3%2582%258B%25EF%25BC%2588%25E5%258C%2597%25E4%25BA%25AC%25EF%25BC%258920201111102502.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2020/11/honda-4967587_1280-e1605108185813-1024x576.jpg"
         width: 1024
-        height: 512
+        height: 576
         isCached: true
+  - title: "Honda To Produce Self-Driving Cars Capable Of Navigating Heavy Traffic"
+    excerpt: "Shutterstock The Honda Legend luxury sedan will have \"traffic jam pilot\" technology, allowing drivers to take their eyes off the road"
+    publishedDateTime: 2020-11-13T10:16:00Z
+    webUrl: "https://www.kabc.com/2020/11/13/honda-to-produce-self-driving-cars-capable-of-navigating-heavy-traffic/"
+    type: article
+    provider:
+      name: KABC
+      domain: kabc.com
+    quality: 24
+    images:
+      - url: "https://express-images.franklymedia.com/6616/sites/320/2020/11/12115213/autonomous-car-shutterstock_643585552.jpg"
+        width: 589
+        height: 424
+        isCached: true
+  - title: "Honda looks to break away in self-driving race"
+    excerpt: "Honda (NYSE:HMC) says it will be the first automaker in the world to mass produce sensor-packed level 3 autonomous cars that will allow drivers to let their vehicles navigate congested expressway traffic."
+    publishedDateTime: 2020-11-11T13:08:00Z
+    webUrl: "https://seekingalpha.com/news/3634896-honda-looks-to-break-away-in-self-driving-race"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
 
 secured: "PKM5FuSF9Fw6uDh0+ANlwzQME1INS+CXgmF8FiLM8P2BPIHdSq+dxNRypDozGB4MM6EzmqbhW80jfn89vHOawEgIq11RMeimxImtPI5SWAsbutanEVEhl2AOl3+v/6eIlIaM0iwNwfaxwvQB+PtPKBhUCF4XY9c2hlDat8pPJl4x7mZtPfKkOuUS2HPEtcwBwm6KOdtoAu60+9nw2BSvtkz8hpLUDmhvF9jnHmwwWe6QeEQuoOxK7ijSrVz5KzaCxyBvskA7ZJzySIRiR9WbvMgXbKNutALmT1V/0N3gp34upizV8Ms7WhpGf9Uz7lKya1BFnGEkSt1tf8pYRRZY5oZmMRRsSoCj6ArnharXoDQ=;/QmcIBfkEqDSY4JYyNyJVA=="
 ---

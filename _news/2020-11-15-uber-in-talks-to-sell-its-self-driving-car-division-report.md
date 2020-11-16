@@ -121,6 +121,22 @@ related:
         width: 7366
         height: 4920
         isCached: true
+  - title: "Uber May Sell Self-Driving Car Unit To Rival Aurora Innovation, Report Says"
+    excerpt: "Uber may sell its autonomous vehicle unit Uber Advanced Technologies Group to a competitor, startup Aurora Innovation, according to a news report. Aurora, which was founded in 201"
+    publishedDateTime: 2020-11-16T02:55:00Z
+    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2020/uber-may-sell-self-driving-car-unit-to-rival-aurora-innovation-report-says/"
+    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2020/uber-may-sell-self-driving-car-unit-to-rival-aurora-innovation-report-says/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2020/uber-may-sell-self-driving-car-unit-to-rival-aurora-innovation-report-says/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 42
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/11/uber-selling-self-driving-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Xpeng shares surge on first results, promises China’s best assisted self-driving solution"
     excerpt: "Xpeng is gearing up for an ambitious goal: setting a benchmark for driver assistance technology in China that rivals will have to overcome."
     publishedDateTime: 2020-11-14T06:34:00Z

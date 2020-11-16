@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Xpeng shares surge on first results, promises China’s best assisted self-driving solution"
-excerpt: "Xpeng is gearing up for an ambitious goal: setting a benchmark for driver assistance technology in China that rivals will have to overcome."
-publishedDateTime: 2020-11-14T06:34:00Z
-originalUrl: "https://technode.com/2020/11/14/xpeng-shares-surge-on-first-results-promises-chinas-best-assisted-self-driving-solution/"
-webUrl: "https://technode.com/2020/11/14/xpeng-shares-surge-on-first-results-promises-chinas-best-assisted-self-driving-solution/"
-ampWebUrl: "https://technode.com/2020/11/14/xpeng-shares-surge-on-first-results-promises-chinas-best-assisted-self-driving-solution/"
-cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/11/14/xpeng-shares-surge-on-first-results-promises-chinas-best-assisted-self-driving-solution/"
+title: "Uber May Sell Self-Driving Car Unit To Rival Aurora Innovation, Report Says"
+excerpt: "Uber may sell its autonomous vehicle unit Uber Advanced Technologies Group to a competitor, startup Aurora Innovation, according to a news report. Aurora, which was founded in 201"
+publishedDateTime: 2020-11-16T02:55:00Z
+originalUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2020/uber-may-sell-self-driving-car-unit-to-rival-aurora-innovation-report-says/"
+webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2020/uber-may-sell-self-driving-car-unit-to-rival-aurora-innovation-report-says/"
+ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2020/uber-may-sell-self-driving-car-unit-to-rival-aurora-innovation-report-says/amp/"
+cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2020/uber-may-sell-self-driving-car-unit-to-rival-aurora-innovation-report-says/amp/"
 type: article
-quality: 35
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: TechNode
-  domain: technode.com
+  name: pymnts.com
+  domain: pymnts.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://i0.wp.com/technode.com/wp-content/uploads/2020/08/DSC4284-拷贝.jpg?fit=1619%2C1080&ssl=1"
-    width: 1619
-    height: 1080
+  - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/11/uber-selling-self-driving-457x274.jpg"
+    width: 457
+    height: 274
     isCached: true
 
 related:
@@ -123,21 +123,21 @@ related:
         width: 7366
         height: 4920
         isCached: true
-  - title: "Uber May Sell Self-Driving Car Unit To Rival Aurora Innovation, Report Says"
-    excerpt: "Uber may sell its autonomous vehicle unit Uber Advanced Technologies Group to a competitor, startup Aurora Innovation, according to a news report. Aurora, which was founded in 201"
-    publishedDateTime: 2020-11-16T02:55:00Z
-    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2020/uber-may-sell-self-driving-car-unit-to-rival-aurora-innovation-report-says/"
-    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2020/uber-may-sell-self-driving-car-unit-to-rival-aurora-innovation-report-says/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2020/uber-may-sell-self-driving-car-unit-to-rival-aurora-innovation-report-says/amp/"
+  - title: "Xpeng shares surge on first results, promises China’s best assisted self-driving solution"
+    excerpt: "Xpeng is gearing up for an ambitious goal: setting a benchmark for driver assistance technology in China that rivals will have to overcome."
+    publishedDateTime: 2020-11-14T06:34:00Z
+    webUrl: "https://technode.com/2020/11/14/xpeng-shares-surge-on-first-results-promises-chinas-best-assisted-self-driving-solution/"
+    ampWebUrl: "https://technode.com/2020/11/14/xpeng-shares-surge-on-first-results-promises-chinas-best-assisted-self-driving-solution/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/11/14/xpeng-shares-surge-on-first-results-promises-chinas-best-assisted-self-driving-solution/"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 42
+      name: TechNode
+      domain: technode.com
+    quality: 35
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/11/uber-selling-self-driving-457x274.jpg"
-        width: 457
-        height: 274
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2020/08/DSC4284-拷贝.jpg?fit=1619%2C1080&ssl=1"
+        width: 1619
+        height: 1080
         isCached: true
   - title: "Uber in talks to sell its self-driving car division: Report"
     excerpt: "According to a report in TechCrunch, the sale of Uber Advanced Technologies Group (UberATG) would mark the end of a bumpy road as the venture has been suffering fr"
@@ -163,6 +163,6 @@ related:
       domain: seekingalpha.com
     quality: 4
 
-secured: "843GFpyolobNYBRynV8JzugI8uyMBveWbrmmLcsztAWBQxghl0Sle+yIEyGQIunFTjsO7y/kAp/XsXp5jYeoQKwzrsYmCOM5G610pvs+wmvfOQ0mrpx95nJNW+xe7L1Nree+NtUsbaKwLFLqTq2SLz4DI8aDymu+G9no8mLWMqZy7tRau+99LknQRJ++AzAzHNueVPmsHC4U5BHf/yO8ct3QE2klTZFw0I5APQj2nDt9OYoCFydnyLOCNxTfKwzjsLPodyPHVaMIWcEUDmbzi61GZgzOLwYxllsk/g+LgX2+mwU8SZjNj0W9BAPe78zGiAtt5eUtYYGEdGXWA+HqBSH3v2D+G5ZDjkzwm6Od/kM=;4gUAmnf+5lhDTgG/TYprpg=="
+secured: "80lz4u6f8UbdXPzvJvK/jjp4WYQ/XzI/PdJwdSWFMIFVP/YoMEoj9xeoII2jXZBUn59kHDlmoFaMJPPgVOUQcSDD9U+dc8CDjqktEsCyOkLOqFKGWA7W7pyYhd9BusomVHNmFz6QIGYLdtYH+Xi/aujbUAch9/8AxsDq9vnJ5yJmBf0MFs/iZnwvTKtab9Y25FPU+ZV/Xcnae6KrvWoyt8OoMgfWFAf6u8DeBKpDffvH/VfxdDdFmHxpYHZS5XGnbOQDkDG98c1VbT46Ndcsr+yNzGWAMvl61K+9bwb4+fo+2FCk4gKmOiWzjIgpwFFylVMoHbmvzUJ5hAQTPRZ/TALhAr7/Y4Xy/B5nwlfPgbM=;vewjItjrD/Si1nTJOPrMdQ=="
 ---
 

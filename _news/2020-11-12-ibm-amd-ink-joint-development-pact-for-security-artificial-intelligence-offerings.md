@@ -74,15 +74,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "IBM and AMD Announce Joint Development Agreement to Advance Confidential Computing for the Cloud and Accelerate Artificial Intelligence"
-    excerpt: "\"IBM is focused on giving our clients choice, agility and security in our hybrid cloud offerings through advanced research, development and scaling of new technologies.\" \"This agreement between AMD and IBM aligns well with our long-standing commitment to collaborating with leaders in the industry,"
-    publishedDateTime: 2020-11-11T12:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/ibm-and-amd-announce-joint-development-agreement-to-advance-confidential-computing"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 17
 
 secured: "wWkwHawgs2Dqs/IyVhzx+589iSaa1Od5dhG3WTxWkJK52HD6/oS9ILObuotXGnsKBLxR2UfcdURy6LK0htz+TUEzrZ76zc/JXNXhQ1vnsvRoQ2aI8ja6ZYvMrm5hVGjCTaaCJ8TWO5XH5CqU7sERTDki5oDUOSkZqyowzZacIO7XR3K5DNuI1Rx7vJ8x4Wdh8mF6065omk9JLHYIm+cfuGLbcx5id5grjkIyr82bAjUQH4Pr7B/FjG/cy9SHOZFjkRXRGQ8bmk0+5BUr2SwxgpUeinka5gQn3f9C/izEop86pNdi6JuBLWMinD6esQvvmXzf6t9hoAMO4EzYJTgOjmNxZui6yY1Uieq3q6Z2TCw=;zL75ktiYT5pQfbIEwTbtPg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://asia.nikkei.com/Business/Automobiles/China-wants-self-driv
 webUrl: "https://asia.nikkei.com/Business/Automobiles/China-wants-self-driving-tech-in-half-of-new-cars-by-2025"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1024
     height: 512
     isCached: true
-
-related:
-  - title: "Weather-proof chip aims to take self-driving tech, wireless communications to next level"
-    excerpt: "A new device can overcome challenges like bad weather to deliver more secure, reliable communications. This could aid military communications in challenging areas, improve the ability of self-driving cars to see the environment around them and speed up wireless data for potential 6G networks."
-    publishedDateTime: 2020-11-13T09:42:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/11/201112145432.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 57
 
 secured: "NpbHj0WDUkvL29t26fcFrxPpQU/cLSgpQc/y0UprSv6ER1x/ICd+WPJalwIpwRZOd3TPLyMHv7WKroH8gIlRcfUuvICcKboPMmpGuaLVeb5uADbnu0onCiNbCbeDsUYSL3jMo4FX3EZIoaYgccjZIBt9age8eR4+UX29cF43dVv3JDL5sigL3+No8U+hOKWTIcsA3mSxXQZn4GKRsrTui48ITL2QuBGjVvGapw1BMS/kht5SvGNw299VsXDNWpNu8NJ/SwoUka8O8KDig1vkuwUM12SkJ7jR7DHCjw6r5NxObeezqBmaNgIASaux0gGIkUbGdliyy2gAkHZtG1C6YY5YX9RsvdFAfQi5FJSxzzogDo7tQRCzT4U7/LwIGotEAImYbkQK8ug5UhpObukRpvPO4PCbKik0CCdmSqE+RfGKkhVlnLwNZSJCbLh9hB8r3Zbm8FZKd8+VKAMcW2ul7kJuzY3iJlNu+zLaCKuXz3/LnCu3CtgMowmmY7P2kXhq7UhmtCu/XKce86U9R2Grpw==;38NUtTd8jpdwd6QaZgn1Dg=="
 ---

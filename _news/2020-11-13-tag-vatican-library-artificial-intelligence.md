@@ -23,22 +23,6 @@ images:
     height: 501
     isCached: true
 
-related:
-  - title: "Vatican Library Enlists Artificial Intelligence to Protect Its Digitized Treasures"
-    excerpt: "The archive employs A.I. modeled on the human immune system to guard offerings including a rare manuscript of the \"Aeneid\""
-    publishedDateTime: 2020-11-11T12:37:00Z
-    webUrl: "https://www.smithsonianmag.com/smart-news/vatican-enlists-cybersecurity-firm-protect-digitized-treasures-180976256/"
-    type: article
-    provider:
-      name: Smithsonian Magazine
-      domain: smithsonianmag.com
-    quality: 31
-    images:
-      - url: "https://thumbs-prod.si-cdn.com/aYnRKTr68SJnIIEPipocWgxcN8E=/fit-in/1600x0/filters:focal(2062x1327:2063x1328)/https://public-media.si-cdn.com/filer/cf/53/cf53facd-829c-4cd0-8969-e715cadcd508/the_sistine_hall_of_the_vatican_library_2994335291.jpg"
-        width: 1600
-        height: 1063
-        isCached: true
-
 secured: "4SWq4/stoAG5YjfjuSyKCj45K3kDiW2w7pxaI4MTNRSvcuVrW5KWrtBW4VXxwIG0G0+08OWQw+wcK+yUb+n970j+pILfhXWPocUQXqSKHP26fzo7NFysV3yu9P9Jg1P31uFEOK1TIcR9or23I07SPjVJ9f1Ibtn4y+8bdR48KgIdM1jqFP37GhpVenWqL+SDsed4U8okMkXpz7D62Bx2tNf35kH6KE9btSdNIu4FlnlS2eCd6/tNOd8yltxBKF51E3xBYefKS2Gyo8yoZ7U9q9V85vHrR8slmqV5vTHoQVlj2p8atjaIx9droYt8jav9v8wIGd2X/GreB72BzxmkGXBYeAMGFUE2JO9mAkKCDuI=;QWgIY6vH2B5ahhozCC27zg=="
 ---
 
