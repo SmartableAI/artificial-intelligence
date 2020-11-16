@@ -69,6 +69,20 @@ related:
         width: 1222
         height: 802
         isCached: true
+  - title: "JLR developing ‘smart city hub’ to test self-driving cars"
+    excerpt: "Jaguar Land Rover is creating a ‘smart city hub’ which will allow real-world testing of self-driving vehicles. The Future Mobility Campus Ireland (FMCI), located across 7.45 miles of the Limerick-Shannon metropolitan area at Shannon Free Zone,"
+    publishedDateTime: 2020-11-16T10:49:00Z
+    webUrl: "https://www.shropshirestar.com/news/motors/2020/11/16/jlr-developing-smart-city-hub-to-test-self-driving-cars/"
+    type: article
+    provider:
+      name: Shropshire Star
+      domain: shropshirestar.com
+    quality: 24
+    images:
+      - url: "https://www.shropshirestar.com/resizer/HoxCe8w1PrqB213uy5sGF9Hg6p0=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/IOCROIMDA5A4ZBF3NJVQYVT744.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Walmart taps self-driving vehicle startup Cruise for autonomous deliveries"
     excerpt: "The collaboration is part of the mass merchant's effort to modernize deliveries and lessen environmental impact."
     publishedDateTime: 2020-11-12T15:05:00Z

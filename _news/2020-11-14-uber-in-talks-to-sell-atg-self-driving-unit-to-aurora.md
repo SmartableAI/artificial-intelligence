@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/11/13/uber-in-talks-to-sell-atg-self-dri
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/13/uber-in-talks-to-sell-atg-self-driving-unit-to-aurora/amp/"
 type: article
 quality: 74
-heat: 164
+heat: 194
 published: true
 
 provider:
@@ -142,6 +142,48 @@ related:
       - url: "https://i0.wp.com/technode.com/wp-content/uploads/2020/08/DSC4284-拷贝.jpg?fit=1619%2C1080&ssl=1"
         width: 1619
         height: 1080
+        isCached: true
+  - title: "VW boosts spending on electric, self-driving cars to $86 billion"
+    excerpt: "Volkswagen Group is boosting spending on technologies for electric and self driving cars, while increasing production of EVs in its German home market. Investments in battery-powered vehicles, autonomous driving and related future technologies will rise to about 73 billion euros ($86 billion),"
+    publishedDateTime: 2020-11-13T14:49:00Z
+    webUrl: "https://europe.autonews.com/automakers/vw-boosts-spending-electric-self-driving-cars-86-billion"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Audi%20Artemis%20web.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "VW hikes spending on electric, self-driving cars to $86 billion"
+    excerpt: "Volkswagen Group is boosting spending on technologies for electric and self driving cars, while increasing production of EVs in its German home market. Investments in battery-powered vehicles, autonomous driving and related future technologies will rise to about 73 billion euros ($86 billion),"
+    publishedDateTime: 2020-11-13T11:40:00Z
+    webUrl: "https://www.autonews.com/automakers-suppliers/vw-hikes-spending-electric-self-driving-cars-86-billion"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Audi.JPG"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "VW increases to $86 billion spending on electric, self-driving cars"
+    excerpt: "Volkswagen Group is boosting spending on technologies for electric and self driving cars, while increasing production of EVs in its German home market. Investments in battery-powered vehicles, autonomous driving and related future technologies will rise to about 73 billion euros ($86 billion),"
+    publishedDateTime: 2020-11-13T17:56:00Z
+    webUrl: "https://europe.autonews.com/automakers/vw-increases-86-billion-spending-electric-self-driving-cars"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Audi%20Artemis%20web.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Uber in talks to sell its self-driving car division: Report"
     excerpt: "According to a report in TechCrunch, the sale of Uber Advanced Technologies Group (UberATG) would mark the end of a bumpy road as the venture has been suffering fr"

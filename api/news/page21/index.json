@@ -2,49 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2020-10-28-ai-engineers-need-to-think-beyond-engineering.md",
-      "title": "AI Engineers Need to Think Beyond Engineering",
-      "excerpt": "Google AI practitioners argue that partnerships with social scientists and community members can deepen understanding of complex problems and lead to fairer algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2020/10/ai-engineers-need-to-think-beyond-engineering?registration=success",
-      "originalUrl": "https://hbr.org/2020/10/ai-engineers-need-to-think-beyond-engineering?registration=success",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2020/10/Oct20_28_-1136623583.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hbr.org/amp/2020/10/ai-engineers-need-to-think-beyond-engineering",
-      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/10/ai-engineers-need-to-think-beyond-engineering",
-      "publishedDateTime": "2020-10-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-28-intel-geospatial-is-a-cloud-platform-for-ai-powered-imagery-analytics.md",
       "title": "Intel Geospatial is a cloud platform for AI-powered imagery analytics",
       "excerpt": "Moreover, satellite imagery and the AI algorithms trained to analyze it ... visualize geospatial data in BigQuery. Microsoft offers Azure Maps, a set of geospatial APIs to add spatial analytics ...",
@@ -1180,6 +1137,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-daimler-teams-up-with-waymo-on-self-driving-tractor-trailer-trucks.md",
+      "title": "Daimler Teams Up With Waymo On Self-Driving Tractor-Trailer Trucks",
+      "excerpt": "Waymo has a new partner. The Alphabet (NASDAQ:GOOG) (NASDAQ:GOOGL) self-driving subsidiary has inked a deal with Daimler's (OTC:DMLR.Y) heavy-truck unit, in which the two will work to create self-driving tractor-trailers based on Daimler's Freightliner ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/10/27/daimler-teams-up-with-waymo-on-self-driving-tracto/",
+      "originalUrl": "https://www.fool.com/investing/2020/10/27/daimler-teams-up-with-waymo-on-self-driving-tracto/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 294,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F596753%2Ffreightliner-cascadia-2020.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 743,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/27/daimler-teams-up-with-waymo-on-self-driving-tracto/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/27/daimler-teams-up-with-waymo-on-self-driving-tracto/",
+      "publishedDateTime": "2020-10-27T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

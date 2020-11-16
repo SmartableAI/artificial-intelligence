@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-2020-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2026-2020-11-11"
 type: article
 quality: 67
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -151,6 +151,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Global Artificial Intelligence Market 2020-2025: Industry Analysis, Market Growth, Opportunities and Forecast to 2025"
+    excerpt: "The report “Global Artificial Intelligence Market 2020-2025” analyses the global market size by Regions, Sector, Component, Technology, Organization Size. The report also evaluates the market size of Top 5 AI companies,"
+    publishedDateTime: 2020-11-16T10:07:00Z
+    webUrl: "https://www.analyticsinsight.net/global-artificial-intelligence-market-2020-2025-industry-analysis-market-growth-opportunities-and-forecast-to-2025/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 14
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/AI-Report11.jpg"
+        width: 1200
+        height: 694
         isCached: true
 
 secured: "LtYWiVUxnvDwfjZ8GyPVV7osTdwUNJ+pyRCNTqQqpx0mIYecUDX+WyT1lZ7KBcHFdohzaEnrV8r/O+npt7FrcRrMHQ/Q/SDS81rW3d7p+ccdASTxCWNBrn7DpBtOTCY6DyJZKubXMNDKz5xEE3NbJZtZQr2DKBEF5hqEXeDvNLk+nJFge9ZsnJMK1Ya315f9CHTfAE1gNr+HUMvlLtw3/LgfQeO7OwbCcz9I8eebzYAqvctb1ciTo4lEKogbGeTz2EaLnf5lFOGN13qnasaEzJad/XeUW1TrRL3/P/dhXrIsnP6zBV9X5jXaSwbWhUNXj+Med0nZGm3+D6++/cNOHOBrS1JQmOkhp2UkRHXTkJM=;Q4mu6evYMkl52ZqxZ48Q6w=="

@@ -2,49 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2020-11-05-ai-chipsets-market-by-trends-key-players-driver-segmentation-forecast-to-2026.md",
-      "title": "AI Chipsets Market by Trends, Key Players, Driver, Segmentation, Forecast to 2026",
-      "excerpt": "Global Market Insights, Inc –:AI chipsets market is poised for robust growth on the | eTurboNews | Trends | Travel News Online |",
-      "sourceUrl": null,
-      "webUrl": "https://www.eturbonews.com/1427091/ai-chipsets-market-by-trends-key-players-driver-segmentation-forecast-to-2026/",
-      "originalUrl": "https://www.eturbonews.com/1427091/ai-chipsets-market-by-trends-key-players-driver-segmentation-forecast-to-2026/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eturbonews.com/wp-content/uploads/2020/10/eturbonewstravelnewslogo.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-04T22:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eTurboNews",
-        "domain": "eturbonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-05-using-artificial-intelligence-improves-pregnant-womens-health.md",
       "title": "Using Artificial Intelligence Improves Pregnant Women's Health",
       "excerpt": "Artificial intelligence technology can help to diagnose congenital disabilities, gestational diabetes, and preterm birth earlier in pregnant women, reports a new study.",
@@ -947,19 +904,19 @@
     {
       "path": "_news/2020-11-04-splice-machine-announces-livewire-the-operational-ai-platform-designed-for-industrial-use-cases.md",
       "title": "Splice Machine Announces Livewire, the Operational AI Platform Designed for Industrial Use Cases",
-      "excerpt": "PRNewswire/ -- Splice Machine, the only scale-out SQL database with built-in machine learning, today announced Livewire, its new open source Operational AI platform for industrial IoT use cases. Livewire is the first combined data and AI platform designed to alert plant operators of likely outages or performance degradation soon enough for them to take remedial action to avoid outages and improve performance.",
+      "excerpt": "PRNewswire/ -- Splice Machine, the only scale-out SQL database with built-in machine learning, today announced Livewire, its new open source Operational",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-cloud-computing-14e5ed2ceba320204efcda0da779e905",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-cloud-computing-14e5ed2ceba320204efcda0da779e905",
+      "webUrl": "https://www.prnewswire.com/news-releases/splice-machine-announces-livewire-the-operational-ai-platform-designed-for-industrial-use-cases-301166367.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/splice-machine-announces-livewire-the-operational-ai-platform-designed-for-industrial-use-cases-301166367.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://mma.prnewswire.com/media/86257/splice_machine_logo.jpg?p=facebook",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -969,11 +926,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-04T06:00:00-08:00",
+      "publishedDateTime": "2020-11-04T05:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -983,7 +940,7 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AI in Finance",
         "AI"
       ]
     },
@@ -1183,6 +1140,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-intel-launches-new-xe-max-mobile-gpus-for-entry-level-content-creators.md",
+      "title": "Intel Launches New Xe Max Mobile GPUs for Entry-Level Content Creators",
+      "excerpt": "Several years after Intel announced it would return to the graphics arena, the company has launched its first discrete GPU — the Intel Xe Max. It’s not unusual for low-end parts and integrated GPUs to share common building blocks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.extremetech.com/computing/316876-intel-launches-new-xe-max-mobile-gpus-for-entry-level-content-creators",
+      "originalUrl": "https://www.extremetech.com/computing/316876-intel-launches-new-xe-max-mobile-gpus-for-entry-level-content-creators",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.extremetech.com/wp-content/uploads/2020/11/DG1-Feature-Intel.jpg",
+          "width": 1344,
+          "height": 742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-04T03:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ExtremeTech",
+        "domain": "extremetech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

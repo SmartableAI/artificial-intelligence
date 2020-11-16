@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2020/11/12/waymo-throws-shade-tesla-elon-musk-ov
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/12/waymo-throws-shade-tesla-elon-musk-over-self-driving/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
+  - title: "Jaguar Land Rover develops smart city hub to test self-driving vehicle technology"
+    excerpt: "Jaguar Land Rover is partnering with global software, mobility and telecoms companies to create a smart city hub that will allow real-world testing of connected technology where self-driving vehicles share the streets with cars,"
+    publishedDateTime: 2020-11-16T10:01:00Z
+    webUrl: "https://www.akm.ru/eng/news/jaguar-land-rover-develops-smart-city-hub-to-test-self-driving-vehicle-technology/"
+    type: article
+    provider:
+      name: akm.ru
+      domain: www.akm.ru
+    quality: 19
+    images:
+      - url: "https://www.akm.ru/upload/iblock/303/JLR_Autonomous.jpg"
+        width: 1200
+        height: 461
+        isCached: true
 
 secured: "mDNOutI8hgNu1jdO05fZlASJC9abvNOB1Q852/gALP+Ch/+iYtT/+edQGoNBjLxhuhiMP2Q8wgsr6j2B+mqgII7IcxZpYRIH0BCmQrlAq4HqVrpWlZLl+MtLNYmWyNKWUcgWan+ni72BhduwpGQBlPTdwDToU8qi+GSsGe9jTd4xU6EOtzlmwRMs6u+DXBDjuJCaum7NhyuXB6jx2Do4l6mTeN8E1vnUgtaKdNQc4A0q10w0zkm7+lA5DraxwWDTtpv+a8+7IezOpnWbbcOq/Hqk/wNHQiI7tH2UjXGP70fRI0mlD7KlYilltSVsJfoc0Ywg85cYQTWMJdwuf/4xpQxrHqxoFeJ/jPUfQInAan7i25DEqLOoev4TWOds63JtF9eT8yMczxK4zjgYZG5wai1f6+qMu6nLS8m6V2yxMmivnsA6vR3R9yLRAy1Lf5v5URT8Z/jlEcWsdnfNhD7KKA6lmt0B74gg8cTS0+FOcp9lx3w2+XhS1aDTCbxlWyk72FTEiAMFJvHBqozp/C0sWw==;16Q4judmaYasVqlbGQqfEw=="
 ---

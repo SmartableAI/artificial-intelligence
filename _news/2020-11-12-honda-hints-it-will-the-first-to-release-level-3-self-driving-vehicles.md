@@ -26,24 +26,6 @@ images:
     height: 717
     isCached: true
 
-related:
-  - title: "Walmart teams up with GM's Cruise to test grocery delivery with self-driving cars"
-    excerpt: "Walmart announced Tuesday that the company has joined forces with self-driving car company Cruise to test out autonomous grocery delivery in Arizona."
-    publishedDateTime: 2020-11-11T17:36:00Z
-    webUrl: "https://www.fox5atlanta.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars"
-    ampWebUrl: "https://www.fox5atlanta.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars.amp"
-    cdnAmpWebUrl: "https://www-fox5atlanta-com.cdn.ampproject.org/c/s/www.fox5atlanta.com/news/walmart-teams-up-with-gms-cruise-to-test-grocery-delivery-with-self-driving-cars.amp"
-    type: article
-    provider:
-      name: FOX 5 Atlanta
-      domain: fox5atlanta.com
-    quality: 39
-    images:
-      - url: "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2020/11/932/470/Walmart-and-Cruise.png?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
-
 secured: "mHdcePa5/+p68jLO1KWkpJ8EXgxwLZJNEYB+8HOAJXa8jdBck0KrFMfESbqjDdWn9yzZto7ZodeFZJVDtE3r0O+WGd4IC0X3EYZfWzxDAkIy7q9LlJWLtWblCIoPIWOChqEmBf0m9QpuPQkNn4nALGHJeS8R7HpoDmJLAzY+8NS4g88u3LF2IGeSMsCxS8Y+0ON5o8lWnL/eK1pp7hg9fArd5Hn3tvwwslIeO8PFI8dlp4QOf6iq9aR8bwM2D8JI0VW/yv31IbqtWPJ0gklr8z3436SelyslZ/gEE5bytTtH0RXosfZ35+hs8hh+LTLQkt+wKcpIlUgLfNtpQxyGjIJw48YDdlkm/oaNx5pdYT19SffJzJdMuQDd1uZ0ybmIIx8/MOQ2SPGUIAWiPf5phA49bOjHiX0Zgh1QRBzm4WlSABfZamqCwOvr0ZUdZ/MdINcU8RdxgTXrD0FWY+N/QXQb9eBFX0Wk0MhNmG928gdEbuhLfSfPnQewbDrWE7xOaiyIWlJMIidzcnQ0cYHLvw==;YMaVZ7cScHxnnt0P6caMiQ=="
 ---
 

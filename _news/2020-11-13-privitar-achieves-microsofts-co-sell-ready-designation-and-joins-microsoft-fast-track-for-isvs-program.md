@@ -96,20 +96,6 @@ related:
         width: 1411
         height: 665
         isCached: true
-  - title: "AVEVA to collaborate with Microsoft to provide cloud platform and domain expertise for industrial sector organizations"
-    excerpt: "AVEVA, a global leader in engineering and industrial software, announced that it will be extending its long-standing strategic collaboration with Microsoft to focus on accelerating digital transformation in the industrial sector."
-    publishedDateTime: 2020-11-11T17:18:00Z
-    webUrl: "https://www.hydrocarbonprocessing.com/news/2020/11/aveva-to-collaborate-with-microsoft-to-provide-cloud-platform-and-domain-expertise-for-industrial-sector-organizations"
-    type: article
-    provider:
-      name: Hydrocarbon Processing
-      domain: hydrocarbonprocessing.com
-    quality: 30
-    images:
-      - url: "https://www.hydrocarbonprocessing.com/media/12882/aveva-digital-reliability-platform.png"
-        width: 1280
-        height: 757
-        isCached: true
 
 secured: "Si4AMoEqxzkq6shH9lIrjrv81GS4BTOdtMe/sG6PrOs47snPn69bpfLcY6Ncwb00yNRAa5x59SPEdm7PxPIKuOFDAFWPZDG+7pRF3hy9g3MRHDT28FJdjzzFd2zq1Vn5Wd6/ydqQQVoYNMRCvJ3aRuktJQQQ6RnIbVDvw3njxAt9p4YyZJPBoDEUMGRJbIYxexscqe7RP+S7RBl4wKbleqZ/vJMpvBxULXO9k3ukcv04AVyjxeLVp/M7Oh42urQqb1joynKrTbv8SQCbQoJY970o3cOA9kyDNQFOFPQ+RQfcbIBUAINWNedlsObX++MZnzr1sumuVTxifcUBU9QyRqgP6n7MVGp4jAiRf+2SDE9KcI+n/6NbzeYGhAYQPR4jsFPBW6mOAu9pQ7z5ONCRnbsZMXsb4GM/nDPDjAucld0ravKcCFVzz/yRklTzyGQUy1UieI5ScOsiEAYxkMOSLkFSuT9xKqNXDSrXTAehoLhKvmPoaIrHhL5VBBK3DeZChLC82GqmTzfdu73ah+ZcNQ==;GaImF4V6Bv9UMlFc+Jjhfg=="
 ---

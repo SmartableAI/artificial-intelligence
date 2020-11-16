@@ -152,6 +152,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Global Artificial Intelligence Market 2020-2025: Industry Analysis, Market Growth, Opportunities and Forecast to 2025"
+    excerpt: "The report “Global Artificial Intelligence Market 2020-2025” analyses the global market size by Regions, Sector, Component, Technology, Organization Size. The report also evaluates the market size of Top 5 AI companies,"
+    publishedDateTime: 2020-11-16T10:07:00Z
+    webUrl: "https://www.analyticsinsight.net/global-artificial-intelligence-market-2020-2025-industry-analysis-market-growth-opportunities-and-forecast-to-2025/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 14
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/AI-Report11.jpg"
+        width: 1200
+        height: 694
+        isCached: true
 
 secured: "CIfQGoHL5ZyTjjcjMUPc5flqcX9/GRXBj/kHgi7e7tmcqnWEyO5QEZUh3mJz+lAHIdX77jP4QbBXcMpBK8mB5f+Fn8O0XBkiOaZ8fNuz4Zx0W8SwR2Q1FlJSB2Tz8XQ5dA/zoNAXvESmX0Fh9NQpPmgHvtPAZAtYMsNNpU6VtY82wJNwt5430MhzyIvqnzYi3MYkFHqL1brHKnlIY7txz1jRVvRM0Fn2eatnFQIZYYO2E/G/W05PK32e3EYrd/h4MuGTNjwxcuvJLoEOzi2cTpaX+H84+MN9QWpMfcqClxJz7BexY95HTl/20U2uCCWRptAJcVik3xhSYlj/bhc4gPDQQjF5WNQFT/HfLZ/prt0=;mtQ4jzG6ke1QgsfeHDmGSw=="
 ---

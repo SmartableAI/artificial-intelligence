@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.app.com/amp/6223735002"
 cdnAmpWebUrl: "https://amp-app-com.cdn.ampproject.org/c/s/amp.app.com/amp/6223735002"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,63 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Top Reasons The Investment Spigot Is Reopening For Self-Driving Cars"
-    excerpt: "Recent spate of investments in self-driving cars is due to key factors that are dovetailing at this moment in time."
-    publishedDateTime: 2020-11-11T17:38:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/11/top-reasons-the-investment-spigot-is-reopening-for-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/11/top-reasons-the-investment-spigot-is-reopening-for-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/11/top-reasons-the-investment-spigot-is-reopening-for-self-driving-cars/amp/"
+  - title: "Where are self-driving cars? Here's why they're farther down the road"
+    excerpt: "Autonomous vehicles are, alas, still in the future. Here's why you can’t buy a self-driving car today and a place you’re likely to find them first."
+    publishedDateTime: 2020-11-14T20:30:00Z
+    webUrl: "https://tucson.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_ae18bc03-6f55-5696-bbff-0e24130b0599.html"
+    ampWebUrl: "https://tucson.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_ae18bc03-6f55-5696-bbff-0e24130b0599.amp.html"
+    cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_ae18bc03-6f55-5696-bbff-0e24130b0599.amp.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: Arizona Daily Star
+      domain: tucson.com
+    quality: 44
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fab29cca3f8041667ea2da7%2F0x0.jpg%3FcropX1%3D650%26cropX2%3D6824%26cropY1%3D95%26cropY2%3D3815"
-        width: 1200
-        height: 723
-        isCached: true
-  - title: "VW boosts spending on electric, self-driving cars to $86 billion"
-    excerpt: "Volkswagen Group is boosting spending on technologies for electric and self driving cars, while increasing production of EVs in its German home market. Investments in battery-powered vehicles, autonomous driving and related future technologies will rise to about 73 billion euros ($86 billion),"
-    publishedDateTime: 2020-11-13T14:49:00Z
-    webUrl: "https://europe.autonews.com/automakers/vw-boosts-spending-electric-self-driving-cars-86-billion"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Audi%20Artemis%20web.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "VW hikes spending on electric, self-driving cars to $86 billion"
-    excerpt: "Volkswagen Group is boosting spending on technologies for electric and self driving cars, while increasing production of EVs in its German home market. Investments in battery-powered vehicles, autonomous driving and related future technologies will rise to about 73 billion euros ($86 billion),"
-    publishedDateTime: 2020-11-13T11:40:00Z
-    webUrl: "https://www.autonews.com/automakers-suppliers/vw-hikes-spending-electric-self-driving-cars-86-billion"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Audi.JPG"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "VW increases to $86 billion spending on electric, self-driving cars"
-    excerpt: "Volkswagen Group is boosting spending on technologies for electric and self driving cars, while increasing production of EVs in its German home market. Investments in battery-powered vehicles, autonomous driving and related future technologies will rise to about 73 billion euros ($86 billion),"
-    publishedDateTime: 2020-11-13T17:56:00Z
-    webUrl: "https://europe.autonews.com/automakers/vw-increases-86-billion-spending-electric-self-driving-cars"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Audi%20Artemis%20web.jpg"
-        width: 800
-        height: 600
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/1/c9/1c98e1ac-23d8-5de6-932a-eb2f1df3be72/5fab0ac24a948.image.jpg?resize=1024%2C630"
+        width: 1024
+        height: 630
         isCached: true
 
 secured: "B3foaRlEjtEdfclEzYoCKf/Hl5FCkU26tIqNVFO4N52H7pIl+G/4gKxVZFsbZl+fgY/UaD5atbCCo1tEqLj37j31B3NYN8+BU2cP7WJpKpPC/lOB3jnGFNI+tKKHofPGQ7DRewQw2dd31Ta6NUuDDTXe48X3IQgyMfpSedMPxJTOpE/o871BjDxLRVNNq6KM8pujgCGUyawXT/0jIEaIu0gthX8ztVq61/a938tbc1fdFUoYzTzncem9jd36FoP3j6FneCna33RZdpBhlzSY0FOeMHS8s39SMXbiwj5Bsr7SCDDyr4YP/DnSyhJnRbvqMR1XdZt7lVqMPr6wV3eAxvgNXThKr6uqdkgF3eyxffWYk0ao5ivoDZf87r5AE7wn6F6zkiq/t1gLnTWDEe7iHskuB3LUqardJgNZ1g1lrQk1bqXh021qP/7cxokR7/KL0lGtip8ErUkTVGvvF4gIbhXXM+t3sejqgTC83v5aJTL7RiIksKH5RiLJo3B2OyfoSjD1QnFKY+MuYR0Bz79+AQ==;M4UeUZv05UjksVh6r+BI+g=="

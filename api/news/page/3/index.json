@@ -55,49 +55,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-13-new-orleans-police-department-using-facial-recognition-despite-years-of-denial.md",
-      "title": "New Orleans Police Department using facial recognition despite years of denial",
-      "excerpt": "Explaining its previous denials, the department said that it doesn’t employ its own facial recognition software. Instead, it accesses the technology through state and federal partners. An ACLU lawyer said that was a ‘distinction without a difference.",
-      "sourceUrl": null,
-      "webUrl": "https://thelensnola.org/2020/11/12/new-orleans-police-department-using-facial-recognition-despite-years-of-denial/",
-      "originalUrl": "https://thelensnola.org/2020/11/12/new-orleans-police-department-using-facial-recognition-despite-years-of-denial/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/thelensnola.org/wp-content/uploads/2020/11/DSC_8767-scaled.jpg?fit=2560%2C1709&ssl=1",
-          "width": 2560,
-          "height": 1709,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thelensnola.org/2020/11/12/new-orleans-police-department-using-facial-recognition-despite-years-of-denial/",
-      "cdnAmpWebUrl": "https://thelensnola-org.cdn.ampproject.org/c/s/thelensnola.org/2020/11/12/new-orleans-police-department-using-facial-recognition-despite-years-of-denial/",
-      "publishedDateTime": "2020-11-12T12:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Lens",
-        "domain": "thelensnola.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-12-aws-finance-and-global-business-services-builds-an-automated-contract-processing-platform-using-amazon-textract-and-amazon-comprehend.md",
       "title": "AWS Finance and Global Business Services builds an automated contract-processing platform using Amazon Textract and Amazon Comprehend",
       "excerpt": "Processing incoming documents such as contracts and agreements is often an arduous task. The typical workflow for reviewing signed contracts involves loading, reading, and extracting contractual terms from agreements, which requires hours of manual effort and intensive labor. At AWS Finance and Global",
@@ -263,7 +220,7 @@
       "originalUrl": "https://electrek.co/2020/11/12/waymo-throws-shade-tesla-elon-musk-over-self-driving/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1208,21 +1165,21 @@
       ]
     },
     {
-      "path": "_news/2020-11-12-activists-urge-eu-to-ban-live-facial-recognition-in-public-spaces.md",
-      "title": "Activists urge EU to ban live facial recognition in public spaces",
-      "excerpt": "Digital rights advocates in five European countries launched a campaign Thursday to spotlight the increasing use of facial recognition and other biometric identification technology across the Continent,",
+      "path": "_news/2020-11-12-how-yoox-net-a-porter-is-using-artificial-intelligence-to-revive-artisan-craft.md",
+      "title": "How YOOX NET-A-PORTER Is Using Artificial Intelligence To Revive Artisan Craft",
+      "excerpt": "PORTER team worked with The Prince via The Prince’s Foundation to create a unique year-long apprenticeship to cultivate the next generation of luxury fashion artisans, informed and guided by customer shopping data and AI analysis of millions of images of historically",
       "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/activists-urge-eu-to-ban-live-facial-recognition-in-public-spaces/",
-      "originalUrl": "https://www.politico.eu/article/activists-urge-eu-to-ban-live-facial-recognition-in-public-spaces/",
+      "webUrl": "https://www.forbes.com/sites/brookerobertsislam/2020/11/12/how-yoox-net-a-porter-is-using-artificial-intelligence-to-revive-artisan-craft/",
+      "originalUrl": "https://www.forbes.com/sites/brookerobertsislam/2020/11/12/how-yoox-net-a-porter-is-using-artificial-intelligence-to-revive-artisan-craft/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 83,
       "tags": null,
       "images": [
         {
-          "url": "https://www.politico.eu/wp-content/uploads/2020/11/GettyImages-1228906152-1200x628.jpg",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fad257d47fbda414135cd72%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2048%26cropY1%3D0%26cropY2%3D1152",
           "width": 1200,
-          "height": 628,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1230,13 +1187,64 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/activists-urge-eu-to-ban-live-facial-recognition-in-public-spaces/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/activists-urge-eu-to-ban-live-facial-recognition-in-public-spaces/amp/",
-      "publishedDateTime": "2020-11-12T04:10:00-08:00",
+      "ampWebUrl": "https://www.forbes.com/sites/brookerobertsislam/2020/11/12/how-yoox-net-a-porter-is-using-artificial-intelligence-to-revive-artisan-craft/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brookerobertsislam/2020/11/12/how-yoox-net-a-porter-is-using-artificial-intelligence-to-revive-artisan-craft/amp/",
+      "publishedDateTime": "2020-11-12T04:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-ibm-amd-ink-joint-development-pact-for-security-artificial-intelligence-offerings.md",
+      "title": "IBM, AMD ink joint development pact for security, Artificial Intelligence offerings",
+      "excerpt": "This will also support a broad range of accelerators across high-performance computing (HPC), and enterprise-critical capabilities such as virtualisation and encryptions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/business/2020/nov/12/ibm-amd-ink-joint-development-pact-for-security-artificial-intelligenceofferings-2222892.html",
+      "originalUrl": "https://www.newindianexpress.com/business/2020/nov/12/ibm-amd-ink-joint-development-pact-for-security-artificial-intelligenceofferings-2222892.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2019/12/25/w600X390/declare_AI.jpg",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/business/2020/nov/12/ibm-amd-ink-joint-development-pact-for-security-artificial-intelligenceofferings-2222892.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2020/nov/12/ibm-amd-ink-joint-development-pact-for-security-artificial-intelligenceofferings-2222892.amp",
+      "publishedDateTime": "2020-11-12T04:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1246,9 +1254,9 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "AI in Healthcare",
         "AI",
-        "Natural Language Processing"
+        "AI in Security"
       ]
     }
   ],

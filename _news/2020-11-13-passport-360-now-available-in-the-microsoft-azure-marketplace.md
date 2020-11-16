@@ -82,20 +82,6 @@ related:
         width: 1411
         height: 665
         isCached: true
-  - title: "AVEVA to collaborate with Microsoft to provide cloud platform and domain expertise for industrial sector organizations"
-    excerpt: "AVEVA, a global leader in engineering and industrial software, announced that it will be extending its long-standing strategic collaboration with Microsoft to focus on accelerating digital transformation in the industrial sector."
-    publishedDateTime: 2020-11-11T17:18:00Z
-    webUrl: "https://www.hydrocarbonprocessing.com/news/2020/11/aveva-to-collaborate-with-microsoft-to-provide-cloud-platform-and-domain-expertise-for-industrial-sector-organizations"
-    type: article
-    provider:
-      name: Hydrocarbon Processing
-      domain: hydrocarbonprocessing.com
-    quality: 30
-    images:
-      - url: "https://www.hydrocarbonprocessing.com/media/12882/aveva-digital-reliability-platform.png"
-        width: 1280
-        height: 757
-        isCached: true
   - title: "Privitar Achieves Microsoft’s Co-sell Ready Designation and Joins Microsoft Fast Track for ISVs Program"
     excerpt: "Privitar, the leading data privacy platform provider, announced today that it has earned Microsoft's coveted co-sell ready designation through the Microsoft One Commercial Partner Program. Privitar has also joined Microsoft’s Fast Track for ISVs program,"
     publishedDateTime: 2020-11-12T18:00:00Z

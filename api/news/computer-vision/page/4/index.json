@@ -2,110 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-10-11-2-object-novel-object-recognition.md",
-      "title": "2-Object Novel Object Recognition",
-      "excerpt": "The Novel Object Recognition (NOR) task is used to evaluate cognition, particularly recognition memory, in rodent models of CNS disorders. This test is based on the spontaneous tendency of rodents to spend more time exploring a novel object than a familiar ...",
-      "sourceUrl": null,
-      "webUrl": "https://med.stanford.edu/sbfnl/services/bm/lm/bml-novel.html",
-      "originalUrl": "https://med.stanford.edu/sbfnl/services/bm/lm/bml-novel.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://med.stanford.edu/sbfnl/services/bm/lm/bml-novel/_jcr_content/main/panel_builder/panel_1/simple_banner.img.620.high.png/1421180301747.gif",
-          "width": 620,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-11T08:04:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stanford Daily",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-best-facial-recognition-security-cameras-to-buy-this-year.md",
-      "title": "Best facial recognition security cameras to buy this year",
-      "excerpt": "Select home security cameras have facial recognition, an advanced option that lets you make a profile of friends and family members who regularly come to your house. Then, when the camera sees a face,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-to-buy-this-year/",
-      "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-to-buy-this-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-to-buy-this-year/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-to-buy-this-year/",
-      "publishedDateTime": "2020-10-11T01:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-10-rights-group-criticizes-buenos-aires-for-using-face-recognition-tech-on-kids.md",
       "title": "Rights group criticizes Buenos Aires for using face recognition tech on kids",
       "excerpt": "Human Rights Watch wants the city of Buenos Aires to stop using live facial recognition to identify children accused of committing crimes, the rights group said on Friday.",
@@ -1424,6 +1320,110 @@
         "AI",
         "AWS AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-detroit-extends-contract-of-facial-recognition-program-that-doesnt-work.md",
+      "title": "Detroit Extends Contract of Facial Recognition Program That Doesn’t Work",
+      "excerpt": "The city’s own police chief admits the technology misidentifies 96 percent of time and yet the city voted to extend its use.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/n7wx8b/detroit-extends-contract-of-facial-recognition-program-that-doesnt-work",
+      "originalUrl": "https://www.vice.com/en/article/n7wx8b/detroit-extends-contract-of-facial-recognition-program-that-doesnt-work",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com//articles/5f749022ec3b770096060224/lede/1601475076793-gettyimages-75287401.jpeg?crop=1xw:0.8462888665997994xh;center,center",
+          "width": 3000,
+          "height": 1687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en_us/article/n7wx8b/detroit-extends-contract-of-facial-recognition-program-that-doesnt-work",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/n7wx8b/detroit-extends-contract-of-facial-recognition-program-that-doesnt-work",
+      "publishedDateTime": "2020-09-30T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-12-things-you-need-to-know-about-facial-recognition-technology.md",
+      "title": "12 Things You Need To Know About Facial Recognition Technology",
+      "excerpt": "Due to the facial identification features in today’s smart devices and laptops, many people are familiar with the concept of facial recognition technology. However, they may not know exactly how ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/30/12-things-you-need-to-know-about-facial-recognition-technology/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/30/12-things-you-need-to-know-about-facial-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f73371c3dd9c174f20a6877%2F0x0.jpg",
+          "width": 1200,
+          "height": 857,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/09/30/12-things-you-need-to-know-about-facial-recognition-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/09/30/12-things-you-need-to-know-about-facial-recognition-technology/amp/",
+      "publishedDateTime": "2020-09-30T05:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

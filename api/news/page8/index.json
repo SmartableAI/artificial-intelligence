@@ -2,61 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2020-11-09-review-google-cloud-ai-lights-up-machine-learning.md",
-      "title": "Review: Google Cloud AI lights up machine learning",
-      "excerpt": "Google Cloud AI and Machine Learning Platform is missing some pieces, and much is still in beta, but its scope and quality are second to none.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3586836/review-google-cloud-ai-lights-up-machine-learning.html",
-      "originalUrl": "https://www.infoworld.com/article/3586836/review-google-cloud-ai-lights-up-machine-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/11/google-cloud-ai-platform-06-sm-100865429-medium.jpg",
-          "width": 300,
-          "height": 364,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3586836/review-google-cloud-ai-lights-up-machine-learning.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3586836/review-google-cloud-ai-lights-up-machine-learning.amp.html",
-      "publishedDateTime": "2020-11-09T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Ethics",
-        "Natural Language Processing",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-09-tiny-chip-company-takes-on-intel-arm-with-swiss-army-knife-of-ai-processors.md",
       "title": "Tiny chip company takes on Intel, Arm with 'swiss-army knife' of AI processors",
       "excerpt": "The chip, christened Mozart, isn’t the first chip specially designed to handle AI workloads. However, SMI claims that unlike others that are designed for specific workloads, Mozart can adapt to a wide variety of AI workloads on the fly.",
@@ -1249,6 +1194,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-07-microsofts-azure-cloud-platform-will-be-the-brain-for-their-future-autonomous-robots.md",
+      "title": "Microsoft’s Azure cloud platform will be the brain for their future autonomous robots!",
+      "excerpt": "Azure is run by Artificial Intelligence that provides users with a customizable space to work, save, share, and connect through multi-functional, serverless software. Halawany’s robot renders for Microsoft Middle East,",
+      "sourceUrl": null,
+      "webUrl": "https://www.yankodesign.com/2020/11/06/microsofts-azure-cloud-platform-will-be-the-brain-for-their-future-autonomous-robots/",
+      "originalUrl": "https://www.yankodesign.com/2020/11/06/microsofts-azure-cloud-platform-will-be-the-brain-for-their-future-autonomous-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2020/10/worlds_most_secure_portable_SSD-510x314.jpg",
+          "width": 510,
+          "height": 314,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-06T17:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Yanko Design",
+        "domain": "yankodesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

@@ -460,6 +460,51 @@
       ]
     },
     {
+      "path": "_news/2020-11-12-electrifai-offers-new-machine-learning-models-for-amazon-sagemaker.md",
+      "title": "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker",
+      "excerpt": "Delivering fast and reliable machine learning business solutionsJERSEY CITY, N.J., Nov. 11, 2020 /PRNewswire/ -- ElectrifAi, one of the global",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683",
+      "publishedDateTime": "2020-11-11T10:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-british-newscaster-speaking-style-now-available-in-amazon-polly.md",
       "title": "British Newscaster speaking style now available in Amazon Polly",
       "excerpt": "Amazon Polly turns text into lifelike speech, allowing you to create applications that talk and build entirely new categories of speech-enabled products. We’re thrilled to announce the launch of a brand-new, British Newscaster speaking style voice: Amy. The speaking style mimics a formal and authoritative",
@@ -1439,58 +1484,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-ai-artificial-intelligence-lessons-from-the-world-series.md",
-      "title": "AI (Artificial Intelligence) Lessons From The World Series",
-      "excerpt": "So in light of all this, what are the lessons here? To answer this question, I asked some top people in the AI field and here’s what they had to say: Hindsight is always 20/20, but Cash’s decision to pull Snell illustrates the myopia that can occur when analytics are elevated above commonsense.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/01/ai-artificial-intelligence-lessons-from-the-world-series/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/01/ai-artificial-intelligence-lessons-from-the-world-series/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9ef353188dd3a517f19ceb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2715%26cropY1%3D122%26cropY2%3D1651",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/01/ai-artificial-intelligence-lessons-from-the-world-series/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/11/01/ai-artificial-intelligence-lessons-from-the-world-series/amp/",
-      "publishedDateTime": "2020-11-01T10:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],
