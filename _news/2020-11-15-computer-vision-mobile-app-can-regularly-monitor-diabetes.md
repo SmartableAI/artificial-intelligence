@@ -9,8 +9,8 @@ ampWebUrl: "https://newsd.in/computer-vision-mobile-app-can-regularly-monitor-di
 cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/computer-vision-mobile-app-can-regularly-monitor-diabetes/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Newsd
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "How to regularly monitor diabetes through this computer vision mobile app"
+    excerpt: "University of Cambridge engineers has developed a computer vision technology into a free mobile phone app for regular monitoring of glucose levels in people with diabetes. The app uses computer vision techniques to read and record the glucose levels,"
+    publishedDateTime: 2020-11-16T02:00:00Z
+    webUrl: "https://www.orissapost.com/how-to-regularly-monitor-diabetes-through-this-computer-vision-mobile-app/"
+    ampWebUrl: "https://www.orissapost.com/how-to-regularly-monitor-diabetes-through-this-computer-vision-mobile-app/"
+    cdnAmpWebUrl: "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/how-to-regularly-monitor-diabetes-through-this-computer-vision-mobile-app/"
+    type: article
+    provider:
+      name: orissapost.com
+      domain: orissapost.com
+    quality: 58
+    images:
+      - url: "https://www.orissapost.com/wp-content/uploads/2019/04/test-blood-glucose-diabetes.jpg"
+        width: 450
+        height: 300
+        isCached: true
   - title: "Computer vision app allows easier monitoring of diabetes"
     excerpt: "A computer vision technology developed by University of Cambridge engineers has now been developed into a free mobile phone app for regular monitoring of glucose levels in people with diabetes."
     publishedDateTime: 2020-11-13T16:49:00Z

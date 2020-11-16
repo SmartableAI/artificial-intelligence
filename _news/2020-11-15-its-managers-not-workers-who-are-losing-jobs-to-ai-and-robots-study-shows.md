@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2020/11/15/its-managers-n
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/11/15/its-managers-not-workers-who-are-losing-jobs-to-ai-and-robots-study-shows/amp/"
 type: article
 quality: 101
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://ktar.com/wp-content/uploads/2019/06/artificial-intelligence-3382507_1920-620x370.jpg"
         width: 620
         height: 370
-        isCached: true
-  - title: "AI Enabled Robots are Coming"
-    excerpt: "We’ve entered a new age of automation: the artificially intelligent robots are coming. When AI enabled robots hit the manufacturing mainstream, the implications will be huge. With the right"
-    publishedDateTime: 2020-11-11T10:01:00Z
-    webUrl: "https://roboticsandautomationnews.com/2020/11/11/ai-enabled-robots-are-coming/38010/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 54
-    images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/11/MF-Image.jpg"
-        width: 750
-        height: 540
         isCached: true
 
 secured: "bPRUMt/zj16lmArVE04NQ1vowCR7EuFQjtdZyZztlucG88g/gP250VngwiME8k26guL9NEk2G4HeOl4MkL8Ks5ojhZEbKTQW+78S5UaWFrALCf1fKHIPuNAN33VzRT5+/FALlC7OghQTzo4FMlb4GOzrl6SOBlPZsTUYxNlD3PLJM2+omRWZxOYTep9B6e+3BzPWUI4jI2OsOS7ne8YZTFYIVlj9HRD715K7gxjGqAvU6MYAVSEG6ZjlpNEGfnbdjRSW0pPstbn1iZOxQxcGXH0Nsj5CtDFoGhFN5bDqUsNcYX7NGvhLlgFMm3WbEEUesYdCHwxWkpH4AIAzudEQYFINsNvKagIk63g/2KcS2zsEkkh4A2RGQBT7j7eh4mn5ePHK9Tc5/ot2aMIMxIY+ET5KsyGYoRCvPWt7aK6qa1/50XCwlTO6OVg71+C7WZqBzgr2sp9J2AfbzYrtkmsSZNmpd7gRV6pzOLz2N4gW/JSiGe4QUHbfqSHBA3tvMFnd2auwPEPhdtzPswR4gny67w==;7BJleVdAvIroCov2o0VvOg=="

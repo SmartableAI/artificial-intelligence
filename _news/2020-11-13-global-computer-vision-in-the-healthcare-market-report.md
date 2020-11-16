@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2187365/global-computer-vision-in-the-hea
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2187365/global-computer-vision-in-the-healthcare-market-report"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Impacts of COVID-19 on the Global Artificial Intelligence and Cognitive Computing Market Report Research Industry 2020"
-    excerpt: "MarketDesk :The Impacts of COVID-19 on the Artificial Intelligence and Cognitive Computing Market Report Research Industry 2020 has been included in market.biz library. This Global Artificial Intelligence and Cognitive Computing market report has been created in conjunction with primary business specialists,"
-    publishedDateTime: 2020-11-11T09:43:00Z
-    webUrl: "https://apnews.com/article/technology-business-science-apple-inc-corporate-news-60480de0ab81277db2e6944e9b9e5779"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Global Digital X-ray Market Outlook 2020-2025 Featuring Prominent Vendors - Siemens Healthineers, GE Healthcare, Koninklijke Philips, Canon Medical Sy"
     excerpt: "Global Outlook and Forecast 2020-2025\" report has been added to ResearchAndMarkets.com's offering. In-depth Analysis and Data-driven Insights on the Impact of COVID-19 Included in this Global Digital X-Ray Market Report The global digital x-ray market by revenue is expected to grow at a CAGR of over 7% during the period 2019-2025."
     publishedDateTime: 2020-11-13T10:11:00Z

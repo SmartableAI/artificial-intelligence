@@ -58,20 +58,6 @@ related:
         width: 640
         height: 412
         isCached: true
-  - title: "AI Enabled Robots are Coming"
-    excerpt: "We’ve entered a new age of automation: the artificially intelligent robots are coming. When AI enabled robots hit the manufacturing mainstream, the implications will be huge. With the right"
-    publishedDateTime: 2020-11-11T10:01:00Z
-    webUrl: "https://roboticsandautomationnews.com/2020/11/11/ai-enabled-robots-are-coming/38010/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 54
-    images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/11/MF-Image.jpg"
-        width: 750
-        height: 540
-        isCached: true
 
 secured: "nK2Y03VB/ePUdZ/tRCHksCh6LQpCfd9qKBcpoJXB9dGIyLiLI1+dtaIcwNOafkXWZhkH6NX4RIYcGqY9yaOVMGWcOr1r1MZS3mlaS82866ZP8QDlgLffQXkovqv8ZNpIQHh2cJHuK77DBfWNnjOzye6EMvIk9d0OHhEo2FP/R+7iLv7UxjzWT9emPi5tuf6lnM0H1k2SPCG9P4V8/sxNgeGwSc3asvDgmUNdAIa8CZGQaEIJ0ZZFNeEoGbNNtBdxMiZGztTE9Mlhi3r7/YvHaTCm57zp7JWf6caW3dFlIFFvTWbFhthn6JpRaofGtxSIMCCwLPqUNTbqA2oKLjMoLqIfrRzFabNRDJMGVeJOlN4=;BygV9utrZ4LwL+sdz79QWw=="
 ---

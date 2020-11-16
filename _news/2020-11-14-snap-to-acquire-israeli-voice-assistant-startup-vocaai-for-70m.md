@@ -54,20 +54,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "Snap buys Israeli voice bot co Voca.ai for $70m"
-    excerpt: "US social media company Snap Inc. (NYSE: SNAP) (Snapchat) has acquired Israeli voice assistant solutions startup Voca.ai, a source informs \"Globes.\" The source estimates that the acquisition is for about $70 million."
-    publishedDateTime: 2020-11-11T10:49:00Z
-    webUrl: "https://en.globes.co.il/en/article-snap-buys-israeli-voice-bot-co-vocaai-for-70m-1001349069"
-    type: article
-    provider:
-      name: globes.co.il
-      domain: globes.co.il
-    quality: 37
-    images:
-      - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2018/A47F756D1C6C8F7E159E90EF36259FE2_800x392.20180508T144844.jpg"
-        width: 800
-        height: 392
-        isCached: true
   - title: "Snap acquires Israeli voice assistant startup Voca.ai for $70M"
     excerpt: "Snap Inc. has acquired Israeli voice assistant solutions startup Voca.ai Ltd. for $70 million, according to reports today from Calcalist and Globes referencing people with knowledge of the deal. Neither Snap nor Voca."
     publishedDateTime: 2020-11-12T02:13:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2020-11-13T14:06:00Z
 originalUrl: "https://www.hpcwire.com/off-the-wire/fujitsu-to-supply-ai-bridging-green-cloud-infrastructure-supercomputer-system-to-aist/"
 webUrl: "https://www.hpcwire.com/off-the-wire/fujitsu-to-supply-ai-bridging-green-cloud-infrastructure-supercomputer-system-to-aist/"
 type: article
-quality: 29
-heat: 29
+quality: 31
+heat: 31
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/shutterstock_co2_carbon_emissions-405x228.jpg"

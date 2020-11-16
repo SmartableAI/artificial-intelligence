@@ -9,8 +9,8 @@ ampWebUrl: "https://m.economictimes.com/tech/startups/ey-india-acquires-ai-start
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/ey-india-acquires-ai-startup/amp_articleshow/79218623.cms"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: India Times
@@ -41,6 +41,20 @@ related:
       - url: "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/india_startup_505_141120045507.jpg?size=1200:675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "News: EY India acquires AI-backed HR startup Spotmentor Technologies"
+    excerpt: "Spotmentor is an end-to-end skilling platform to enable businesses identify skills required for the future of work and upskilling reskilling talent"
+    publishedDateTime: 2020-11-16T02:05:00Z
+    webUrl: "https://www.peoplematters.in/news/hr-technology/ey-india-acquires-ai-backed-hr-startup-spotmentor-technologies-27607"
+    type: article
+    provider:
+      name: People Matters
+      domain: peoplematters.in
+    quality: 37
+    images:
+      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1603429176/ad-icqsbe62.png"
+        width: 990
+        height: 550
         isCached: true
 
 secured: "Q6eZVzixHRHn3qmFeBVwrwamJ8fEeII/Q7UjrYEZ/Irz9/dEWX5CHPPbgq/88iJBEX0Fnzl/yQeam/w1EKxZFFZyHkC+yHOEbCH/SouRMdhk4YTsRwOgaEJlLPHclcEXpykV5Up5vA2D1w7R1VO0HY1zdHC/RCjnSkyi/VG2YDbGaTGxUnmKHOMjX2h3b7GBbd/5Ewz+LWgheMdCexoWQjG3RGV0OX+RxHr7MV4hXtO8MT0kerDIvLiaZ8gsBL6WDMh4qVAzDM3C7/Juk9xQuAMur76coPbWLKbln3a3xGTSCjQdS52i16/j+cDrj/ZF69DAUcleeoKoFQJk+JhUESU1umsTfttvIlSzMZCmld0=;JUezHLINo9rZO+5yXNdfiA=="

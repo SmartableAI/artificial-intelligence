@@ -50,9 +50,9 @@ related:
   - title: "Uber in talks to sell its ATG self-driving unit to Aurora - source"
     excerpt: "Uber Technologies Inc <UBER.N> is in talks to sell its autonomous driving unit, Uber Advanced Technologies Group (ATG), to self-driving car startup Aurora, a source familiar with the matter told Reuters."
     publishedDateTime: 2020-11-14T04:45:00Z
-    webUrl: "https://www.reuters.com/article/uk-uber-aurora-idUSKBN27T30O"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T30O"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T30O"
+    webUrl: "https://www.reuters.com/article/us-uber-aurora-idUSKBN27T30K"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T30K"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T30K"
     type: article
     provider:
       name: Reuters
@@ -62,6 +62,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541170142&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1RR"
         width: 816
         height: 545
+        isCached: true
+  - title: "Uber reportedly may sell its self-driving car division to rival Aurora"
+    excerpt: "Uber is in talks to sell its autonomous vehicle unit to startup competitor Aurora Innovation, TechCrunch reported. If it comes to pass, the sale of Uber Advanced Technologies Group (UberATG), would mark the end of a bumpy road for a division of Uber that was valued at $7."
+    publishedDateTime: 2020-11-14T15:41:00Z
+    webUrl: "https://www.theverge.com/2020/11/14/21565017/uber-reportedly-selling-autonomous-vehicle-division-aurora-self-driving"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/11/14/21565017/uber-reportedly-selling-autonomous-vehicle-division-aurora-self-driving"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/11/14/21565017/uber-reportedly-selling-autonomous-vehicle-division-aurora-self-driving"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 74
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/1XMcOjiwPbJUbvLh6RtxKtpxphM=/0x0:2376x1782/1400x933/filters:focal(1101x896:1481x1276):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67789235/UberSF_TA_1.0.jpg"
+        width: 1400
+        height: 933
         isCached: true
   - title: "Uber Could Soon Pawn Off Its Scandal-Ridden Self-Driving Vehicle Branch to Start-Up Aurora"
     excerpt: "Uber is in talks to sell its scandal-ridden self-driving vehicle branch, Advanced Technologies Group, according to a Friday TechCrunch report. And it looks like Aurora Innovation, a start-up founded by veterans of the autonomous vehicle industry,"

@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "How to regularly monitor diabetes through this computer vision mobile app"
+    excerpt: "University of Cambridge engineers has developed a computer vision technology into a free mobile phone app for regular monitoring of glucose levels in people with diabetes. The app uses computer vision techniques to read and record the glucose levels,"
+    publishedDateTime: 2020-11-16T02:00:00Z
+    webUrl: "https://www.orissapost.com/how-to-regularly-monitor-diabetes-through-this-computer-vision-mobile-app/"
+    ampWebUrl: "https://www.orissapost.com/how-to-regularly-monitor-diabetes-through-this-computer-vision-mobile-app/"
+    cdnAmpWebUrl: "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/how-to-regularly-monitor-diabetes-through-this-computer-vision-mobile-app/"
+    type: article
+    provider:
+      name: orissapost.com
+      domain: orissapost.com
+    quality: 58
+    images:
+      - url: "https://www.orissapost.com/wp-content/uploads/2019/04/test-blood-glucose-diabetes.jpg"
+        width: 450
+        height: 300
+        isCached: true
 
 secured: "gZf5GMnON9O2439LMDkAfn7H2cCICZMN78oFRTeky3oiIEWeAZ8IdkJ0prBasHPLViByDVpMrPJUpC6IyYyzAhAs6xDRdg5SZbgnemJkff5jF/MKMJdZq19L3Nnku2Zj4FjsUoDC4m5Fyew8qrW02EaxtF0H5vmM2srm+HB2lXzBpVu+22rTwWwyx4aZimCC7qWk6qhGahlhKbwHUV0vLyNIEr43HFf37fa46dtAwTEdsTOHTq9ccKkfxqTRGu4Q0mYqVqj1enMpd4hiids+UXiiwHpioN5g0dMsOM4/5vCzFwtOLROssQgE+Y95aop9IzAG1FVyj3ONelKuU/pWtp1zxQnjB2+rhtC5pZHYlUBOwNtv316/Q4D8nGL5xCycpH7GK+LmWArRkA4s/TRn7imA91KAKJiB81sVHtvjUHcFNjfbIxNA7lKsJRbUHTfb6nXswZxy/EcYYoeL1GkPTrehdL+7D6/fJm3cOeJUsqdpt86vY8jHDz/EQzSV3AdZmTjZXFr8kPWcyP8F5ELCQA==;CUokeBuwFBqMY6pNkocaZw=="
 ---

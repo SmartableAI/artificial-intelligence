@@ -43,17 +43,6 @@ related:
         width: 722
         height: 414
         isCached: true
-  - title: "Bank ABC set to host MEA Fintech Forum"
-    excerpt: "MEA Fintech Forum underlines Bank ABC’s commitment and Bahrain’s vision to becoming a leading fintech hub This website uses cookies to improve your online experience. They were placed on your computer when you launched this website."
-    publishedDateTime: 2020-11-11T09:19:00Z
-    webUrl: "https://www.zawya.com/mena/en/business/story/Bank_ABC_set_to_host_MEA_Fintech_Forum-SNG_189634310/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_189634310/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_189634310/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 39
   - title: "Codebase Technologies pushes for FinTech-led innovation with release of its Digibanc Digital Roshan solutions"
     excerpt: "Codebase Technologies has introduced a brand-new digital FinTech offering, Digibanc Digital Roshan, to empower conventional and Islamic banks in Pakistan to manage seamless, consistent, and"
     publishedDateTime: 2020-11-12T08:32:00Z
