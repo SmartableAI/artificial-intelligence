@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/dissecting-c3-ais-secret-sa
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/"
 type: article
 quality: 86
-heat: 86
+heat: 87
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 1276
     isCached: true
 
-secured: "uJDaxrm8AduBOpdd2NHxsGnyOEzGfJWxv7ZbQ+Ub7Uxf31iZ+HI/LvnKVgT034kNJXXV33cCs44cyqJy3ckcq1mSGMUGnYGdA2rCU2PeidstMp3f9Q4OzRfOgpqDl89/fR/ifeIbNNpT8l4XP+437rVA02uD+J1QXWOkuHtWzMKN3NBTZT9VkbdLaMPcpkezbtrSJfH7HRcEoLRZwNBvNb4QVuvqAs2uMO1kYebwozZkGZa32wXnHxbnVnTtHZ5KeOUH8fYVrQ+4P1Lt/U1TTPORdfLRBoBTiq90Wv7PVP0OX5/lC7d/IwLRJCDZHVW27EzcjktanPuP9KHfyVaaEHG2IFPtNe5XDmV1mgno5JY=;P5NMIildOatpLHMRTdhF6g=="
+secured: "L0lTsGz9pNXylwzCWpOrgvR+UtvD8rGQd6Uaib0uK0w/T3HNBVLPOKgT6/E4EJ4a9CvTQk8fB4sx2KqfqvDsoTLITiy0QV/UYf45iFJZPGX5t+/CzD7KGpeg1cvAwHnpiqDwKlF3TIWiD8o1Id7WPF360DquTtt8hoTd0pvPM9N1H9/x140jiyDVWxFEtbh9B4FU4cTHyTlf1+/59znyfoNoOhQfR6r4k1Ofk1dzfkNmAKk50YCRKTfjRX4tgqmtWnBKiuNOOEWM34NRbWzZV/gTeTOU7Fqmlf7VlJUGVjL/JfPJ7pxHILAK3IYiflTiW7rMBIZO+FkK4Hkxv3Yh0H320eanb6M9VFBgIobKX1tj0uVkh9fDypetGTjwwovLvtAKIvzofwmm4SgHF40k2AJDbmDMW6eEP0ygCfSALIJDAAJY06ZP+ORXkhvs8HI5CDv/LTsOX0qgLAqAblNN/6q9gMs1ex/hmcK7rgSiVkeeIFWRMGbJdXIne6tPZfs5ZEbUdXMHEEdTGDveQ8iCMw==;n67uNkFx4bboaPvRA5kAnw=="
 ---
 

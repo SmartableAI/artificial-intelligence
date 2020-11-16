@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2020/11/12/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/11/12/super-glue-your-consumer-connections-with-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://cdn.abcotvs.com/dip/images/7935065_111320-kgo-ai-chip-pacific-structures-img_Image_00-00-33,13.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Amp Robotics partners with Waste Connections"
+    excerpt: "Waste Connections plans to deploy the systems on container, fiber and residue lines across numerous material recovery facilities."
+    publishedDateTime: 2020-11-16T22:21:00Z
+    webUrl: "https://www.wastetodaymagazine.com/article/amp-robotics-partners-waste-connections-ai/"
+    type: article
+    provider:
+      name: Waste Today
+      domain: wastetodaymagazine.com
+    quality: 54
+    images:
+      - url: "http://www.wastetodaymagazine.com/fileuploads/image/2020/11/16/amp%20logo%20web.jpg?w=736&h=414&mode=crop"
+        width: 736
+        height: 414
         isCached: true
 
 secured: "O9G+MEkBVUeVcFBJ/jI/23raMCCkURexYkEWC07wkE66WFdhqRfQOmAEIOi1Qu8kRiwwNLahHPhcIafJHCAQXslwcK6Kr2MR+7uW83rbiTE2SOrlAdGV523IqZS+bGoLOZunp7PxHnYaWfcItnNZxIMLHfK8s0Z4tUESJUmr7VTkLpnmARYrckQTlqJZpT0Aj30VRsthJL4uEg/dzekTxt8jToYQ+lp4Qhz0QqaEkMSk2N4nwcHefrR0ZwF6okG+6TiVpAg7CTAGjXi7nBDMzw8s1+0ni9DFDLaAm8Qq2OuOYFj9N3j2/H/PV1L/bTPWysZ5+nZMzNnmrwDScpk3+Uc0FpB7nF9zalb7ymmjkpvOtSjYufzWSbBpkCKl5RIQ7Kqr2C4N7YbYnmq9rKhUdqrmH/IMHkczRtrH65OCXDga/o4gvAmaiheKJrFT9AEEin04QfF8yY/1J/+OoJh4Iz9Ge0UVYIcxsJ3RsXXD/8wC2fCBOvcrStiEqHJOpWD4EPT4601IdEpN9tPT0swRfg==;717KGVligUu9NmNhNLAh/g=="

@@ -107,6 +107,17 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Uber (UBER) is Reportedly Looking to Sell Self-Driving Unit"
+    excerpt: "Per a TechCrunch report, Uber Technologies UBER is in talks with Aurora Innovation, a self-driving technology startup, to sell its self-driving unit Advanced Technologies Group or ATG. Going by the data,"
+    publishedDateTime: 2020-11-16T17:25:00Z
+    webUrl: "https://www.nasdaq.com/articles/uber-uber-is-reportedly-looking-to-sell-self-driving-unit-2020-11-16"
+    ampWebUrl: "https://www.nasdaq.com/articles/uber-uber-is-reportedly-looking-to-sell-self-driving-unit-2020-11-16?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/uber-uber-is-reportedly-looking-to-sell-self-driving-unit-2020-11-16?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Uber May Sell Self-Driving Car Unit To Rival Aurora Innovation, Report Says"
     excerpt: "Uber may sell its autonomous vehicle unit Uber Advanced Technologies Group to a competitor, startup Aurora Innovation, according to a news report. Aurora, which was founded in 201"
     publishedDateTime: 2020-11-16T02:55:00Z

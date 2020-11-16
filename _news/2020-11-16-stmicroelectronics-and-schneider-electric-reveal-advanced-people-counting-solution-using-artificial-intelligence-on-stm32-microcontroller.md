@@ -24,22 +24,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "Microcontrollers with integrated data conversion for artificial intelligence (AI) introduced by Microchip"
-    excerpt: "Microcontrollers provide analog functionality and digital control capability, and combine advanced analog peripherals and multi-voltage operation."
-    publishedDateTime: 2020-11-12T06:38:00Z
-    webUrl: "https://www.militaryaerospace.com/computers/article/14187137/microcontrollers-artificial-intelligence-ai-data-conversion"
-    type: article
-    provider:
-      name: Military
-      domain: militaryaerospace.com
-    quality: 35
-    images:
-      - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2020/11/Microchip_12_Nov_2020.5fac1275ae2bd.png?auto=format&fit=max&w=1200"
-        width: 880
-        height: 787
-        isCached: true
-
 secured: "g/be/Mv69vLdR0ngwzqpwSJ+AG5+XXoNgFo76rKCCVixmAW7upC/+3shHyERrwixa/UIngsOe+szVxy7EYmFq9y2yXlkUBJg/9GnoPsCHBuPA5J4iGYIWdQ8ceHt/bZpdfGQ6ZOna3wmTuTOkb8MZBSzMfk/kx0MeN3+a+YqPphH/NjkktuzzgY0LEr4l/xJGvAh+6gioQ88KdByWI7r+HmLrtDRbi/vgM4kLEZ1lpTKzQ7jhficUhMv2psq06PivbIsDwegA8j01sbahFEyacnGlFjOQJlGPl7O/oE6RY5XJMwQ7nHLIA5r1bLVZ1JuTWmm3KvqgnV6pC8KJKCYPTvA7A1PgYL2l333EzFcluU=;v80Atiwx4j6s4dojDhKxbg=="
 ---
 

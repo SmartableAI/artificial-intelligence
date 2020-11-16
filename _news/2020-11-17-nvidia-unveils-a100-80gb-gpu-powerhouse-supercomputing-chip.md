@@ -42,16 +42,21 @@ related:
         height: 1050
         isCached: true
   - title: "NVIDIA's AI Supercomputers Get a Massive Upgrade"
-    excerpt: "The high-speed chip powers NVIDIA's HGX AI supercomputing platform -- a turnkey AI processor in a box. The company touts the A100 as \"the world's fastest data center GPU.\" The chip will also be found at the core of NVIDIA DGX A100 and DGX Station A100 systems,"
-    publishedDateTime: 2020-11-16T19:43:00Z
-    webUrl: "https://www.nasdaq.com/articles/nvidias-ai-supercomputers-get-a-massive-upgrade-2020-11-16"
-    ampWebUrl: "https://www.nasdaq.com/articles/nvidias-ai-supercomputers-get-a-massive-upgrade-2020-11-16?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidias-ai-supercomputers-get-a-massive-upgrade-2020-11-16?amp"
+    excerpt: "The latest version of the A100 now has double the memory of its predecessor, \"providing researchers and engineers unprecedented speed and performance to unlock the next wave of AI and scientific breakthroughs."
+    publishedDateTime: 2020-11-16T19:50:00Z
+    webUrl: "https://www.fool.com/investing/2020/11/16/nvidias-ai-supercomputers-get-a-massive-upgrade/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/11/16/nvidias-ai-supercomputers-get-a-massive-upgrade/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/16/nvidias-ai-supercomputers-get-a-massive-upgrade/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
+      name: The Motley Fool
+      domain: fool.com
+    quality: 89
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F601054%2Fnvidia-a100-80gb-gpu.jpg&w=1200&op=resize"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "NVIDIA A100 Ampere GPU Launches With Massive 80GB HBM2e For Data Hungry AI Workloads"
     excerpt: "Just six months after NVIDIA launched its A100 Ampere GPU, there is an upgraded version with double the memory, and it's faster to boot."
     publishedDateTime: 2020-11-16T13:52:00Z
@@ -178,6 +183,6 @@ related:
       domain: seekingalpha.com
     quality: 30
 
-secured: "TKHlErw1Vwb+Iv82NJaw568uvXu+dtxIOTgHoxfExGFdKOS/+/SqsW8XRC60OgYBBO0QjUoiH4tFQxXkGedwzA2+uUNTlUXAiWNqO6E5XlDXv47LZSE3BS7QiPPJPcClEIkeUgqvXPZcnbhWQApxNF3qbytCWZ9R+HXHTUNF2qe3HrpGacbFiLiOiR2Vf44N40KqxQn9vOvWxGboaGIt5/n3sKJ1ABwVgfRTQAvggkqWhrwh6KdNmepa4TiZ00uHE3Xgf177BzkmalbSb4dIzle0tgbP4qbkLPDF21NlBKhgUO4CC7CKV1bHlrMHhrwfZo795Ts/lee2mMuv482vKtlNrlpCg0CCMfSrPDRTBr0=;aKYtqkqfhL6AS4+6LT4inA=="
+secured: "i05z9k0NZpTfRwcYamZN3l6wRsHIxYnkQFq1ekgvUBYZ9iH9j1ptS/pZ6erCIf1GZ7B7eBVPpvFc2nMbPZpUKK6K7eA0Z0w5oYqbOG/Il7MtUsIaS7q6Tl/T/JDS09x3UiGDbAcbGzT3wycG/sVK9vPDwz/46e5yg6gHv/5bi6pCsodggddU1y9fl+BpjXcxNGEjuIsMc51G5tFY7I8zXtZ0NuKsYxyzL2A7IbkcyCwgu6LmcWfQmRSPlFs4rfCSD0KGg0HYV8QFqyPjxieoIw0FfXbZQCwVNkgxhye5YQjVJto8aIV+iRYKlMRQYrmRhrzJbrWH2/J5tM93O4HaB8HWEtHL6s1vfRmjzl/T0v4B6OfoLze8t6Bx/A08anriasGZsMvjyyF7YqVRreuvKWlzPMPy2M6WMCJNFAJ3d8hXKDxe+/GQf13rMn3oBCOquVuU8z3MitfJ+t9NNJRLmT20hQzb1wTIjQMvECFbl7WMZqwW3QbSe2RQtlqG5GqfC/TaJavlfgTqekQEpcv9ww==;S0TThldOum71hAK6Agj9KQ=="
 ---
 

@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Amp Robotics partners with Waste Connections"
+    excerpt: "Waste Connections plans to deploy the systems on container, fiber and residue lines across numerous material recovery facilities."
+    publishedDateTime: 2020-11-16T22:21:00Z
+    webUrl: "https://www.wastetodaymagazine.com/article/amp-robotics-partners-waste-connections-ai/"
+    type: article
+    provider:
+      name: Waste Today
+      domain: wastetodaymagazine.com
+    quality: 54
+    images:
+      - url: "http://www.wastetodaymagazine.com/fileuploads/image/2020/11/16/amp%20logo%20web.jpg?w=736&h=414&mode=crop"
+        width: 736
+        height: 414
+        isCached: true
 
 secured: "Qty0xbnmzTcyt4wXtzplPcq1FePgKYV2eQ7KAioxHFrXgVnnTX5qWvZIdx/oD5P1UaP4rp4yL2gLi7QC7HjsU9fLWL3Xo1BNW9gqUxEV5iFCzWz3fl83w8+zITVsHhdr6ALyBuOJXSGEj9cuyZ6iq9adbEmmBL+HznJNZJpzsI/IqKJSqZHOqMuzv5bu4JJXbus9mZ/p57iMfQjpjSoCjVO96Jq1E2kQGIK0mcl5spQvCOb5/dwvaX2XhLhieiQI6QyYaZ77nUabLCEFmfHDYVHL1XZ24XdEcxMITT5K+FIAm50VTAuSjs2b6rEBAMaXOfssnUlgmNLhF6MNB2fpioRy6NHUqnlJrlMAGxbsmSSAEok9vnHlxLVzjHv2XU1nbSodN3f+ATNJIZKABxziwneevzP7ACVQxyvCV1WTodZaGvUk2Fg4iAAtEZ+HiCreWP4XOlYxWuMCBztkO77MxLukTLqAfwtI5gZazjFEDbXrHqol7gt1ieu4fQb04NrcJBN18/MY7MoeZsmOMMM86w==;7HlloNym4dC4Ft2ja9E6WA=="
 ---

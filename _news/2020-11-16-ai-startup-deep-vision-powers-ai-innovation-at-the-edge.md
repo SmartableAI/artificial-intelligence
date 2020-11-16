@@ -37,11 +37,25 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1150039017.jpg?w=1024"
         width: 1024
         height: 563
+        isCached: true
+  - title: "Deep Vision launches AI processor with novel data architecture for edge biometrics"
+    excerpt: "A startup called Deep Vision has emerged with a new AI processor with novel chip design that is better suited to edge biometric applications like Smart Cities and Smart Retail where lower energy"
+    publishedDateTime: 2020-11-16T22:22:00Z
+    webUrl: "https://www.biometricupdate.com/202011/deep-vision-launches-ai-processor-with-novel-data-architecture-for-edge-biometrics"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 33
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "q/yjw/VL9xkldPjXQt+PDLFLd6tOzsDIzS3I4D767a/wsg+2fjiCBtjcc1cpMmfQLZ5TY8ZyvkqLVHX2t4iJ9sK37xE29keNHeJqCsk89il7HckADEc+bMiX+tL5V6zHC16A2lRWtbRCc3hzhPh+xyjMOQmAoen+cjyAYwXACkLPuIk4ZC8iGmz1dxTdS3S9A8GQVGr/8fHXVeECRPmpQ+EMPU227E8k2ZefXiVbgrA+8rEM5iCpuiNRuU0DpK96MVcpNpPiHG+H87m5mUyOxFbNrkL7HkVbUcESNt80Ln8jhRVZdM3KU2ZUezdqhEo06dd97G1KMTnI+VsW0yHUr8p22pd/FOuofWRA7ofyBBQOI+JXWTYrH2BHJAaCXMyjj1JW/11iCiZ+FCXSIWizl9oi0chMI6xLJ0dLW3bh2lO+w16NcP9hS5/ydmP9LTyNQ2cM336+f9OPs8vSw8Bvq3x8Mr1PZSeNAt17P8LdGMD3vsJvyHQSAm3u2uSKbKTUJdriMGe4Hoi4AWI+XGoKXA==;hg28ghuaLmnjNFcYTDwQqw=="
