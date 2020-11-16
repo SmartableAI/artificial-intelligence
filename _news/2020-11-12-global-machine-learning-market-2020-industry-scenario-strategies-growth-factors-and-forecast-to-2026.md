@@ -54,6 +54,20 @@ related:
         width: 821
         height: 394
         isCached: true
+  - title: "Applying machine learning to making mechanical parts"
+    excerpt: "Computer vision researchers use machine learning to train computers in visually recognizing objects – but very few apply machine learning to mechanical parts"
+    publishedDateTime: 2020-11-16T14:11:00Z
+    webUrl: "https://www.controleng.com/articles/applying-machine-learning-to-making-mechanical-parts/"
+    type: article
+    provider:
+      name: Control Engineering
+      domain: controleng.com
+    quality: 39
+    images:
+      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2020/11/CTL2011_WEB_IMG_Purdue_MachineLearning.jpg"
+        width: 645
+        height: 350
+        isCached: true
 
 secured: "+3TGh5VyE+5znHwSlXfmUzdBijm6GmakPPngtxVtinZ7EQqyWXNb7dmDI6+/mCqQu3bHdxkWFhQvwUMog5OoSV6FYbQY7FXfR6uZEDTMOvqqHUWcxYWURji2OstXWWgWEt7YMRDRHXcgyDn9DQA5gtIoRN5TA3qacYE44fjEhL6SIjfEU0tXeGOJR41mCLamKJJl2qy/zvF/zgClFsKBTC/vAS4SSFs5qJlFFxj+hlsyFNgjERUWnimMEEKNXAvxR4gqzZWLKgpV/tkNZcS4TSaxldn1pj2aCc9LV1cljStEaUnzH87zdwMIhzTq6YTR5NZWyD5Ix5AhMmD8QilDsjW2+3WzGwd6fs1GOfbUjWI=;tujej6ROcZhNAJ+v0tqijQ=="
 ---

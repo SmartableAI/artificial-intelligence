@@ -1,13 +1,15 @@
 ---
 category: news
-title: "21-year-old Saskatoon man making waves in Artificial Intelligence"
-excerpt: "Computer Science major Landon Garrison spent his time off from university developing his new A.I. friendly website. 2nd wintry blast hits Saskatoon"
-publishedDateTime: 2020-11-16T01:29:00Z
-originalUrl: "https://globalnews.ca/video/7464639/21-year-old-saskatoon-man-making-waves-in-artificial-intelligence/"
-webUrl: "https://globalnews.ca/video/7464639/21-year-old-saskatoon-man-making-waves-in-artificial-intelligence/"
+title: "21-year-old Saskatoon man making waves in artificial intelligence"
+excerpt: "The website offers easier solutions for people looking to build artificial intelligence based ... the technology used in self-driving cars. This isn’t the first automated endeavour that Garrison ..."
+publishedDateTime: 2020-11-16T13:10:00Z
+originalUrl: "https://globalnews.ca/news/7464605/saskatoon-artificial-intelligence-website/"
+webUrl: "https://globalnews.ca/news/7464605/saskatoon-artificial-intelligence-website/"
+ampWebUrl: "https://globalnews.ca/news/7464605/saskatoon-artificial-intelligence-website/amp/"
+cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/7464605/saskatoon-artificial-intelligence-website/amp/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -15,14 +17,9 @@ provider:
   domain: globalnews.ca
 
 topics:
+  - AI in Autos
   - AI
 
-images:
-  - url: "https://i0.wp.com/media.globalnews.ca/videostatic/news/7gne7r4sx7-mlrkluuv6l/purdypicnov15.jpg?w=500&quality=70&strip=all"
-    width: 500
-    height: 281
-    isCached: true
-
-secured: "+oyS7RHt4AooJM0Z8/4pdSBY913vRc/hhDl6bk0QvEO7qD1O+lsopkw2wpgG/o96oTL/7cUPz6MOQBiCaI7WkWp+NJKSxbgqN7HEecFagN+WqfxZ7hKjvBsyqQxqgIOGjt3jSWLbmOJ90EoYeIPPyUhKKqb8CqocEqg5LA66FtRJitdt9zBH+pDW1R/syZvboJiRHY4Bf+jLa9Du8oYV/ZLumwFzKTw7wxBlkO/+9qUdo6pf0U54fKN2rH0biMVb+z8H35lafxxSbw6/5QLRvnXV8vaRaK309j3BNji9Apl5B9KOHuwOHU9noXpnxbHzPvCtRCFQwz2Ko8wN3SVirfSP2Tn4rHRVF0PccMwdjdE=;hZ9TfenOfoAv+CzEbKEiXg=="
+secured: "iK1t8x/rkwtoqJ5P4FLb2aQwm2yJgIjYlVr2Gon3zAu/ayhgBGVSw+VJJ2/0h5BJIqzyjgSlXMtXEJRN1aso3d5t4b6OE7QbjnnnO8YiBVIXU50d8SpUUeJXGrJXot6ovwIYD8yE6PMJIdN9GyMW5JwS7PuZg9Y+WGCbHW3tXftulRVVglSrZ5lLXBr/QdjvV2VWYlD+Gs/AJU3ffwjRCj8aRSRscMmeyJjQqhs+oFFWHlv0gQM11VT2yDJlwZCnW5tmUsN1+/x0tYFUSIdenL95D+PT6vii8NHX/RdZscebRCvdFrOlxcWCEAwuCYh8w2nscDZ5xn2N9wiOG7JJDNfCvjPTnd9KsX0TNbc/ftjU6UuHQQVAnJfPuVmU2KB716txvr/DyMri/a8zLzS7YkkWvuB+UHj7g7+S0wpSs7/l3djeHTKp6ZOTxWiyehcFC1YIoloYnMasjnEC5/axiat+rw8B257Gf3cYCV+AyfAQrFg7sd9kg5M6ojygcuumXKOb67DnJcrdFuJuKmKh0A==;KhLxTDYxrfFvjeuUv5nfpw=="
 ---
 

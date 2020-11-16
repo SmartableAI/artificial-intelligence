@@ -41,6 +41,17 @@ related:
         width: 3838
         height: 2004
         isCached: true
+  - title: "Penguin Computing to bundle systems, services to juice AI, analytics, data, cloud workloads"
+    excerpt: "The move by Penguin Computing highlights how many HPC vendors are targeting commercial adoption and workloads."
+    publishedDateTime: 2020-11-16T05:00:00Z
+    webUrl: "https://www.zdnet.com/article/penguin-computing-to-bundle-systems-services-to-juice-ai-analytics-data-cloud-workloads/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/penguin-computing-to-bundle-systems-services-to-juice-ai-analytics-data-cloud-workloads/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/penguin-computing-to-bundle-systems-services-to-juice-ai-analytics-data-cloud-workloads/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 57
   - title: "Fivetran Extends Integration With Databricks, Accelerating SQL Analytics, Data Science and Machine-Learning Applications"
     excerpt: "Fivetran, the leading provider of automated data integration, today announced advancements in its integration with Databricks, the Data and AI Company, extending the companies’ strategic partnership to power the modern data stack."
     publishedDateTime: 2020-11-12T11:01:00Z

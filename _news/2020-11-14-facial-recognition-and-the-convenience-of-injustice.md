@@ -24,6 +24,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Bovine facial recognition app almost ready for the market"
+    excerpt: "Iowa cattle producers could soon be able to use a cell phone app on their animals that’s based on bovine facial recognition. Kansas State University animal scientist K.C. Olson says they gathered about a thousand short videos of feeder cattle restrained in a chute and the information was loaded into a neuro network based on"
+    publishedDateTime: 2020-11-16T14:30:00Z
+    webUrl: "https://www.radioiowa.com/2020/11/16/bovine-facial-recognition-app-almost-ready-for-the-market/"
+    type: article
+    provider:
+      name: Radio Iowa
+      domain: radioiowa.com
+    quality: 39
+    images:
+      - url: "https://www.radioiowa.com/wp-content/uploads/2020/11/Cows3-300x233.jpg"
+        width: 300
+        height: 233
+        isCached: true
+
 secured: "KmIowf5T8ZYjJ/FO/1lefe1ZwbE5oYMiP6MK0jArDBRahZEI5/AxP9OJ9Y5DrY6gNd4wn8vPZMJ5bFn0lpDcqvPHBAieiYuv8OmYwzR/0ncP/n0HEb5nSy48nrUn575yIsjG35kdWZwQLs7GA3Sf6EjK9z04WVZ+nUMN3TClN1S7UXh72v7UMUHxmNJ3p9OX6A2WL6CWjtKelSUAw3rNQMn3kh68dfwy2pQO2tm1igyT3IOvEwU/daVrCI0mUlSwd4ZXmLBbor69ZZdPal9AiP6aU3tGVLNelSNWgpVqqGHL++SydHveOTvGhtqzbIYPcHcZcGRN76jU5e+DtrKGyhGpgAb2ydTr44iBJ4qgxUU1p+5WbWtGxtL4zuFyyOCHrFPebmKxoDqVMxk1rxlQ5pSu5ki6aBrnoCJ062bE98SOcUgtSs+bi6RAp0r8sVfwrL+xR1rx1AOMp3OrX+KC08q8p3HglQMtqUy3adiDcCWEvWGgWydyijNVRmMWYIw3I9u4zY1FINF/yKKTsvwoHg==;2FJ0pz7OShgVzn/tnPPLOg=="
 ---
 

@@ -53,20 +53,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 41
-  - title: "Computer vision syndrome during COVID-19: Eye fatigue and how to counter it"
-    excerpt: "As the amount of time students are spending in front of the screen has increased, so does the risk of developing symptoms of computer vision syndrome."
-    publishedDateTime: 2020-11-11T21:55:00Z
-    webUrl: "https://www.ubyssey.ca/science/covid-computer-vision-syndrome/"
-    type: article
-    provider:
-      name: The Ubyssey
-      domain: ubyssey.ca
-    quality: 37
-    images:
-      - url: "https://ubyssey.storage.googleapis.com/media/images/2020/11/screentime-mayarodrigo-abdi-medium.jpg"
-        width: 429
-        height: 600
-        isCached: true
   - title: "Students searching for internships during the COVID pandemic must be prepared for AI-driven interviews"
     excerpt: "We believe that every college and university student and recent graduate deserves a great part-time, seasonal, internship, and entry-level job!"
     publishedDateTime: 2020-11-12T21:50:00Z
@@ -81,6 +67,15 @@ related:
         width: 593
         height: 240
         isCached: true
+  - title: "The Future of Artificial Intelligence in a Post-COVID-19 World"
+    excerpt: "She studied Computer Science and Economics at Brandies University. Over the past several years, artificial intelligence (AI) has frequently been cited as an emerging technology that improves efficiency across a multitude of industries. Crucially ..."
+    publishedDateTime: 2020-11-16T14:06:00Z
+    webUrl: "https://insidebigdata.com/2020/11/16/the-future-of-artificial-intelligence-in-a-post-covid-19-world/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 17
 
 secured: "l/QreVGvjLP4JAB3ZbLeThuqbpX86NgUQosX0VvSMpgV8DqgowcKiuOIyfY69alXmkjYYZdglidijoyiVKtTG0qtQ5ATlX1wjIG6NiCwQIk/Qzut29PDN36VHdgtTtkqOaObL/dfIdUr4rOhmOv/bPNPiVFTmou9t+bD3GtYQFdHoEP0NS4vjVsGhS/LfQZQ9QsVUZffFLiIqIqISYGGYfk2ABh/vBSonm7F6u0iXQL4OqKW7E9URta0IEJnFCZxvpbgx0H5WgV5LJeUv0n48tVQuTvNMPNtr1RPQZX6bpXyf2e2Lg462QOSeatXH9/kIHaYoga7sZMQSwdpk9c18/Xm3D385Sylc5GsWV3A/z2mLTbdZNJY13b+YOsMOG11GtS4ZZmObiScdWq3tv2jP7gkjqJF5CBIDzNaTa9ugjYa5HR48d+oM2C9cMV0iGfjVJ4aPcrAiP+dD0V5UgJBnhrzvOOyTk7UEVzhX0EEkRiIAV5i2WT+1J8W9VdYcG2ECdvOTLlOzu3xrWHoZHyIow==;mKqWdQLuZGBmtVcSu+mEFQ=="
 ---

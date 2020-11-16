@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/12/google-catches-up-to-aws-and-azur
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/12/google-catches-up-to-aws-and-azure-with-new-database-migration-service/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "AWS Announces AWS Glue DataBrew"
-    excerpt: "(NASDAQ:AMZN) announced the general availability of AWS Glue DataBrew, a new visual data preparation tool that enables customers to clean and normalize data without writing code. Since 2016, data engineers have used AWS Glue to create,"
-    publishedDateTime: 2020-11-11T21:19:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-amazoncom-inc-corporate-news-6515914e633a4c3aa830eb5fb4f547cc"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "2z6zyRdXp8KWiJFG/bGFr9lloSqieiVUBSi3xXT/mcQgo0awOgr2Ttkdg7De90zxpagrk0LTAVvFsp0ZMGFqVchC8E6EeGib3OcLeacRg/Vz0tkBPFsZQoZ+RrOWg8kZhOG/ApCVmJnc0eaEkpe9SWLwz6vqwun1SM6IyVygSkBrv4LqSy7+TWw3Yio/Cd5Cy8Zke15idUeBvua1JDtkV6TTURUG4GRQ+inNLAQnHdhhmsIEdPGUzTYEcQ1Z358xY/XOs8LC3janhgg3tO10nBMcbQgtDMz3G1TyRVeVCc7nDGpTHt+IHUw3i1w5J6oy5Zqi8NfJz8OZbD3q9DbyahBQZ2dnySJQOiZHvt1zNh52H6KSkShl8UUMVCQrXwCZ2Iant2TlqEMOS3eHNnN442uBiZBd5vtA+DDihM8Ir03/nF9xubGftEFkU/MKZQFH9UaPZDK6OYMTdGKm/1ZDR49yGSJsSJFy0t1w/LoAJBRXJgkijG8C3qrU2LEiHmBBMEOebvrOsTPUe4Q5txRn7g==;nwKFUr6Srq1+kpB/ABzwCw=="
 ---

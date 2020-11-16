@@ -109,6 +109,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "China Automotive Cockpit SoC Technology and Application Market 2020: Cockpit SoC Supports More Displays, Beefs up AI, and Improves Functional Safety"
+    excerpt: "The \"China Automotive Cockpit SoC Technology and Application Research Report, 2020\" report has been added to ResearchAndMarkets.com's offering. Cockpit SoC Supports More Displays, Beefs up AI, and Improves Functional Safety Intelligent vehicle E/E architecture ushers in a period of intra-domain integration to trans-domain convergence and to central computer from the distributed one."
+    publishedDateTime: 2020-11-16T08:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/china-automotive-cockpit-soc-technology-and-application-market-2020-cockpit-soc-supports-more-displays-beefs-up-ai-and-improves-functional-safety-1029804693"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/China-Automotive-Cockpit-SoC-Technology-and-Application-Market-2020-Cockpit-SoC-Supports-More-Displays-Beefs-up-AI-and-Improves-Functional-Safety-1029804693"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/China-Automotive-Cockpit-SoC-Technology-and-Application-Market-2020-Cockpit-SoC-Supports-More-Displays-Beefs-up-AI-and-Improves-Functional-Safety-1029804693"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
   - title: "Global Artificial Intelligence (AI) in Medical Market 2021: Outlook And Trends With Analysis Of Leading Players, 2030"
     excerpt: "Market.Biz :COVID-19 Analysis: Turn massive Artificial Intelligence (AI) in Medical Market challenges into meaningful change. Its not post-pandemic, its intra-pandemic. Were still in it, and the implications for Artificial Intelligence (AI) in Medical Market are long-reaching."
     publishedDateTime: 2020-11-12T10:43:00Z
@@ -137,17 +148,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "China Automotive Cockpit SoC Technology and Application Market 2020: Cockpit SoC Supports More Displays, Beefs up AI, and Improves Functional Safety"
-    excerpt: "Cockpit SoC Supports More Displays, Beefs up AI, and Improves Functional Safety Intelligent vehicle E/E architecture ushers in a period of intra-domain integration to trans-domain"
-    publishedDateTime: 2020-11-16T06:53:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/11/g18377097/china-automotive-cockpit-soc-technology-and-application-market-2020-cockpit-soc-supports-more-disp"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18377097"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18377097"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "o7TWV3Lg51mHqhFmC0d+4iLYGXcfeiAEYwY2Vh6iCo7b/eFk49KTJcyptNNguE4CeEm2GnBkfTyOXNoVpVJZvm/HTZ6RD5k/qWDurY4TYn8RX8wZQoe6M2FtPoJYdIDCSDKOX7ykS0YiM6mhBtkEdSE8jNv2XddPP1xRDh5oe3BmMG0nUXxzsfuxjxAyBcu7icpd2qH5zB6PIKXyS/WOxThtFzt8WuI10rRIsGMvIl5WOAvFE/EpHM+LhzWvJz/IahxolpUyuhNfsKOunFlHfzhfWzx/WY94ctGleorsPfH4xRYHnQu2QoxmJxhkvaOotXawTHATuptlTlrYx7WbYtp77funj5me2f7P/1FQkhop1dihUYMBBDQfDxJOdmeyMF7kHuwworlmpyZvmuNjqzKDGch+ZQI5joIlzGRpxOXmnWoZKigR2Gq709HEGxLRe3KJGHWtVmW5C7O53N8IRyeKg2rK6qQAQVs9UhpCDT9m1doZzh1rhcgu5Hlj9z9lQ8xBS4KojS5PmPi2wZlgQA==;kE8AjUzAZxiQJGjlo+wjXw=="
 ---

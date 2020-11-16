@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Advanced AI to manage your home appliances soon"
-excerpt: "New York, Nov 15 (IANS) Deep learning -- advanced Artificial Intelligence (AI) which is involved with heavy-duty tasks like curating social media and serving Google search -- can soon check your vitals or set your thermostat at home and monitor the Internet of Things (IoT)."
-publishedDateTime: 2020-11-15T16:27:00Z
-originalUrl: "https://menafn.com/1101127636/Advanced-AI-to-manage-your-home-appliances-soon"
-webUrl: "https://menafn.com/1101127636/Advanced-AI-to-manage-your-home-appliances-soon"
+excerpt: "Deep learning -- advanced Artificial Intelligence (AI) which is involved with heavy-duty tasks like ... networks to new -- and much smaller -- places, like the tiny computer chips in wearable medical devices, household appliances, and the 250 billion ..."
+publishedDateTime: 2020-11-16T14:53:00Z
+originalUrl: "https://www.tribuneindia.com/news/science-technology/advanced-ai-to-manage-your-home-appliances-soon-170648"
+webUrl: "https://www.tribuneindia.com/news/science-technology/advanced-ai-to-manage-your-home-appliances-soon-170648"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: The Tribune
+  domain: tribuneindia.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?103556"
-    width: 431
-    height: 250
+  - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/11/2020_11$largeimg_1462618600.jpg"
+    width: 810
+    height: 431
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 800
         isCached: true
 
-secured: "rf/YkErSruflY8C4D3hI/FfWGl8vBUr+8VrIYy+YawpxLqb7ZR2XrcpLOZTabJquOu02pVy7Pm2UfmA5n6IhnXb/iVd4Kwb+zwPy6MEbJKXRHj9WvHjiuKHlGzJF5+V/ZGhd5wf6NRe1+phZbVdHI9Va5mpsAK6o5AtcHLTM4WTmUo7nXerrhm2dpnPXhagiZvPK0XcCmyLidvpES6m6oS33TecgfiPWfMeylx7kRvo3IAo7BXOkUVdqXR1FljrNRddb8/uo08VrifzPDY4x+pZ3BgtI/cyvN8l9PNyhJj3H4zdZZkuYH5PsHhP7L7hgGBuz/dh8hor+Ge4QMH7AjCl8Dy7yWlkPHyGlrtmbqkE=;MOOSu8isd1fHjtnldMFaHQ=="
+secured: "KZLNsIG/Y5cuGKvo/6Td+sDnOHmtlFOalfNFQcVtkhhfmfsdSZRdQBrjH89F+qXTPLEtMxu3U0OAqJk22Fl9Hk1jECzPt5PN9mFZ6BmcZxksUvE68CxrwQ9HdjvpUWjevjMmI38s1cMQ+e4kGPxRyDrlrmuJH/TczvKV0RbwIp30VtZR1He2mapsuPnS/Vz/F117iJ1syQR4oDFSXgC1AbSxSPP1uJFLBheScy3tPO1bikOt/4bcZdY7HviLPaWoxUAC2+rfI3nFiTAyGSWW1uHlDnrXRYGI3yk/y+TDP44CqNl4qWDBb9KSnWvqf/zWTToZZ8nx9sKk4VttxFGZdIPtdeLemHe8kVLGwtP0goQ=;f9OMyjd1KmaKDct3qLTSkw=="
 ---
 

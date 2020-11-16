@@ -203,6 +203,17 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Uber may sell self-driving tech group to Palo Alto-based Aurora Innovation"
+    excerpt: "Uber Technologies Inc. is reportedly shopping its Advanced Technologies Group for sale. According to a report from TechCrunch and later Reuters, San Francisco-based Uber is in preliminary talks to sell its autonomous vehicle division,"
+    publishedDateTime: 2020-11-16T10:15:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2020/11/16/is-uber-atg-for-sale.html"
+    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/11/16/is-uber-atg-for-sale.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/11/16/is-uber-atg-for-sale.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 22
 
 secured: "X5jVXdbqPDFI8Cj8he5y32UuIhfiSAcJpRkclz/DWvgezy38cJn7rgGNfAz1AJs0/ZSHxrR7tOmQQW78ODG5NufFhUGf+69KqK4YcILd3toXUxb8XerHiBR1JwWDGmeMic2UbDFxT1E5ykpc2O3icPlSfBL2nmjFLSED+24tTVtMZT2jQ7GcslqH5U6Fd2bBBZRrLF8YQMpgsF4i7YCCJHi5YLew84fEjR9arsKCrFy4FL+xWjqWjFR+aZnwPCDpHTdzgmRrJZs+HVwuBqZ8OsZ4xNAxUcGcGytL2W2+UTrJcLzNnkl1iv1EZxMCo+2y+cvVZsISC0vpf9S2thatCzO6IIIHKSFB9ZlCU8tz0D8=;H5cmQuJi09dnyIRbOBspoQ=="
 ---

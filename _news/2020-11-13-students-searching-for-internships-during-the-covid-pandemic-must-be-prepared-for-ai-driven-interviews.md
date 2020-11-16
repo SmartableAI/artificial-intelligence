@@ -63,20 +63,15 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 41
-  - title: "Computer vision syndrome during COVID-19: Eye fatigue and how to counter it"
-    excerpt: "As the amount of time students are spending in front of the screen has increased, so does the risk of developing symptoms of computer vision syndrome."
-    publishedDateTime: 2020-11-11T21:55:00Z
-    webUrl: "https://www.ubyssey.ca/science/covid-computer-vision-syndrome/"
+  - title: "The Future of Artificial Intelligence in a Post-COVID-19 World"
+    excerpt: "She studied Computer Science and Economics at Brandies University. Over the past several years, artificial intelligence (AI) has frequently been cited as an emerging technology that improves efficiency across a multitude of industries. Crucially ..."
+    publishedDateTime: 2020-11-16T14:06:00Z
+    webUrl: "https://insidebigdata.com/2020/11/16/the-future-of-artificial-intelligence-in-a-post-covid-19-world/"
     type: article
     provider:
-      name: The Ubyssey
-      domain: ubyssey.ca
-    quality: 37
-    images:
-      - url: "https://ubyssey.storage.googleapis.com/media/images/2020/11/screentime-mayarodrigo-abdi-medium.jpg"
-        width: 429
-        height: 600
-        isCached: true
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 17
 
 secured: "Auw0l95TSyqDCCNbEMBC5Zm0fgWdFlXmKa+VU1PLuRFkGNpMamX7eBOwr1k3mKm5SeRTpXTrlO1sgNgnbIife28a8locE6CO5ZrxdlCM2N7bPXuYj/GBZLIt4USbxwuvn3LHRF/oC0QGrRhEnBd0TvkRp7KvcTy4SjF8JgY+1kri4b/esctf6bRcIdXSTlFS2FbekpcgQPRgSosG+9ZfI0UA43WISQHsqvv5BUx+jvIw6WSO+roG9frexsuWSU9se9h07csjfLDfxlrGHI7QpNvSVdf+PO8GiT12QjjyY9i05PH+slzn2iCfmIqHk1p+7HEB9MB8nodLFKHWiKp7v1ppwE5XynOsyKRocjGO8BE=;lnH2XMvC6bnY7Am/lnzAUg=="
 ---

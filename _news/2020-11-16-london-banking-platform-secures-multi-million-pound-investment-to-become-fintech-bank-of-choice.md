@@ -3,8 +3,8 @@ category: news
 title: "London banking platform secures multi-million pound investment to become fintech 'bank of choice'"
 excerpt: "A London-based banking-as-a-service platform has secured £6.5m of funding to accelerate its growth plans. Griffin, which was launched in 2017, is… | London | Digital | Funding | Finance | Finance | Te"
 publishedDateTime: 2020-11-16T12:07:00Z
-originalUrl: "https://bdaily.co.uk/articles/2020/11/16/london-banking-platform-secures-multi-million-pound-investment-to-become-fintech-bank-of-choice"
-webUrl: "https://bdaily.co.uk/articles/2020/11/16/london-banking-platform-secures-multi-million-pound-investment-to-become-fintech-bank-of-choice"
+originalUrl: "https://bdaily.co.uk/articles/2020/11/16/london-banking-platform-secures-multi-million-pound-investment-to-become-fintech-bank-of-choice?via=indexdotco"
+webUrl: "https://bdaily.co.uk/articles/2020/11/16/london-banking-platform-secures-multi-million-pound-investment-to-become-fintech-bank-of-choice?via=indexdotco"
 type: article
 quality: 26
 heat: 26
@@ -24,6 +24,6 @@ images:
     height: 430
     isCached: true
 
-secured: "4fYq8WXgK7bIYdqI3pp0Fr+GMG6OOqHYipoIOjQy+eeCPBZAPSoZY1Pp0WPvhhb2cQL7kE2Gj3uaB90RzYu5xteElRqi6scGlE5nqVicDTs2n8ypTz7oaBBBIyDCi5Cz1zGSxo2+0xDsosP+Edfn868sDziIqDfxUMOhRBxzUi4OzM6zWA3lUqIfz9JhDA22aKtQKA/K1CLltZcUGjiVaiEjmDzR3uhDl/+DSBdQxJL6V0R92fMQuyH+ZBOW2IR4RptFyIlr4SXyB/Es69TIKXetzJB41PwtYP7UeSBO0YgRKV4K0LQWvX2XN9Ky47QZCe9l5Pqt0qBMVqUI5Myym4qLfdjrIHDgEf4mAfosTHc=;ziVKmWpaswvV3uYBlKp6vw=="
+secured: "E3VN1vwHnGh9cM7pMN3yARkOkRW5WNyFYmIk89iYpM0/OStrCJooO9NFaOiuN6h3KXsIOR8i0CKcNm6Ie7yH/vMqUhNHBJs//kWSD49ZZJTOCfQlh45jwLExeQPelhsH67Ag61WNAoed20SuRC4X65IqvtR7cJuGzaYcx02zRJLkazaV+PSUUcTcOasRXGmkDMWkmsGrTYT/if5FRAn1Dcqx9Nzz1oSzCAilysby4oupDylLYgso/byj1bD1xfN12wZsus8ALwuxlyeCYIj8/HEuHa3wQTvY75BAaAM2IRgqBDBABBN7Ub+oaZWgzBGte3MVSO/PR5HjVaJiAtdHEAKvT8qkg1TV+C4oP4xEPZI=;UiNWnzi3Ha6hbfMEpH0HHg=="
 ---
 

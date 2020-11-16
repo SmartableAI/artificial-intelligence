@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/fujitsu
 ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/"
 type: article
-quality: 87
-heat: 107
+quality: 89
+heat: 109
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://zdnet3.cbsistatic.com/hub/i/2020/11/16/4c1195d3-a430-4c56-af53-e55d055a621f/low-aibridginggreencloudfig.jpg"

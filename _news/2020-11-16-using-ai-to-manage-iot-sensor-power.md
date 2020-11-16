@@ -27,18 +27,18 @@ images:
 
 related:
   - title: "Advanced AI to manage your home appliances soon"
-    excerpt: "New York, Nov 15 (IANS) Deep learning -- advanced Artificial Intelligence (AI) which is involved with heavy-duty tasks like curating social media and serving Google search -- can soon check your vitals or set your thermostat at home and monitor the Internet of Things (IoT)."
-    publishedDateTime: 2020-11-15T16:27:00Z
-    webUrl: "https://menafn.com/1101127636/Advanced-AI-to-manage-your-home-appliances-soon"
+    excerpt: "Deep learning -- advanced Artificial Intelligence (AI) which is involved with heavy-duty tasks like ... networks to new -- and much smaller -- places, like the tiny computer chips in wearable medical devices, household appliances, and the 250 billion ..."
+    publishedDateTime: 2020-11-16T14:53:00Z
+    webUrl: "https://www.tribuneindia.com/news/science-technology/advanced-ai-to-manage-your-home-appliances-soon-170648"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: The Tribune
+      domain: tribuneindia.com
     quality: 39
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?103556"
-        width: 431
-        height: 250
+      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/11/2020_11$largeimg_1462618600.jpg"
+        width: 810
+        height: 431
         isCached: true
 
 secured: "FgHzkjvsc2KujSUE6L88+KIo0C7OI2hQ7yaS8aWfvjBIKPSBaterclldOw4WjXv76ke1L2a0K1wrHBpJ0ydFtmU+GO2o+GavbhBjDehbm4XoRR7iqGPf3J9nvKRsuVo3UXWZ/Sq1rsCQymqaioWcVl8xACDogFTS6HCqBDMU4Kw1uWupHxB3ypg3nn7FawN5/x0Rggk8j6d7yph6nwFz55QBsCwFEuSWd1xOgEfLVGQmVdsoEg3Hk7Z7sLUqsFNuf55gP5CT9aksF17/6YQaogadpggb1sxjTvPZGMbSC8GobNJlsZEw7fdx6rOG9FsE0jDXBd/rK5HxWCzSzIWo9UKT8XQZ3D3dYx4hlOLHXm0=;+QZs73BCJ/u/NeL44Q8X9g=="

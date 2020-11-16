@@ -1,20 +1,24 @@
 ---
 category: news
 title: "China Automotive Cockpit SoC Technology and Application Market 2020: Cockpit SoC Supports More Displays, Beefs up AI, and Improves Functional Safety"
-excerpt: "Cockpit SoC Supports More Displays, Beefs up AI, and Improves Functional Safety Intelligent vehicle E/E architecture ushers in a period of intra-domain integration to trans-domain"
-publishedDateTime: 2020-11-16T06:53:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/11/g18377097/china-automotive-cockpit-soc-technology-and-application-market-2020-cockpit-soc-supports-more-disp"
-webUrl: "https://www.benzinga.com/pressreleases/20/11/g18377097/china-automotive-cockpit-soc-technology-and-application-market-2020-cockpit-soc-supports-more-disp"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18377097"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18377097"
+excerpt: "The \"China Automotive Cockpit SoC Technology and Application Research Report, 2020\" report has been added to ResearchAndMarkets.com's offering. Cockpit SoC Supports More Displays, Beefs up AI, and Improves Functional Safety Intelligent vehicle E/E architecture ushers in a period of intra-domain integration to trans-domain convergence and to central computer from the distributed one."
+publishedDateTime: 2020-11-16T08:21:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/china-automotive-cockpit-soc-technology-and-application-market-2020-cockpit-soc-supports-more-displays-beefs-up-ai-and-improves-functional-safety-1029804693"
+webUrl: "https://markets.businessinsider.com/news/stocks/china-automotive-cockpit-soc-technology-and-application-market-2020-cockpit-soc-supports-more-displays-beefs-up-ai-and-improves-functional-safety-1029804693"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/China-Automotive-Cockpit-SoC-Technology-and-Application-Market-2020-Cockpit-SoC-Supports-More-Displays-Beefs-up-AI-and-Improves-Functional-Safety-1029804693"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/China-Automotive-Cockpit-SoC-Technology-and-Application-Market-2020-Cockpit-SoC-Supports-More-Displays-Beefs-up-AI-and-Improves-Functional-Safety-1029804693"
 type: article
-quality: 0
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
@@ -148,6 +152,6 @@ related:
         height: 694
         isCached: true
 
-secured: "TTiAnLIl+VuATOJJ0XPMzsUJGegKA9DUJ9Meb+XZLhoWwBcEdP+nrfNN7wfckJKErmDtrN9h8A5DE32jn9USoh81uL0mnEky8l1rmUgo3l+ff0GyH2MwZSdsyYxGXp53rr72xLuX/qtEzB4E5alfGv7m+TKRuFCidB/82KyO0y8ofwYxDp+FDkx3o7Hitt9Zx9usho8WCaFmquVpWied1MrRqeXWnc3YI7+HG2fOsIEUdtBGpTdqSAdBHz9/ecr+BZc5ctY51GQr1Yk26OT4Wmo5IkM0PpuzUsj+Y+nXukyOyFzvW8Qv9R4nhPzuHZSntrSxUyBCZabmsfwn/EFbTwiLp4NcOYrDVwBdNR2vmRs=;3VQWdS23ltFsGOKPLzDjwA=="
+secured: "W7bs4Ej1cjRghtD/eX7dm5yrBKfMNoA9mZA6lHXOm0278WK5ozOzMmMGTFtYnp6qrnQOHq4HGrGjck7NP0SmZ5V6T/5vRBlorVWjdFnliibDaaEmIhl4wqdiB8y1PZxQsKJLOSY4XTg+HZIYGcbirqaJhjRR0JAAeiRxRfx7CJeerYHS66SzLkX0rSwg9S5nQUAK1a8tsy05+cxdD4wcSOipsxYieDDSRKP+FWuLCHRj9To39yJdtlBwaG04eju0j2Q6X9g7WA6mrEA+SWyk35gC47tMvKflzeuvAfYIAhbPZvnpjDdPdFhZ2KamkJGm5P3egDFIAF6n3zmNL38eQRW4XO5u3qk2tzKC2LPPVJ4=;8vPZgo+jOv3dzA3y2Ukh7Q=="
 ---
 
