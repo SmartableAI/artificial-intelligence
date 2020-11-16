@@ -2,11 +2,11 @@
 category: news
 title: "Alexa now runs on more powerful cloud instances, opening the door for complex new features"
 excerpt: "In addition to the Alexa team, Amazon Rekognition is also adopting the new chip as running models such as object classification on Inf1 instances resulted in eight times lower latency and doubled ..."
-publishedDateTime: 2020-11-13T23:07:00Z
-originalUrl: "https://www.techradar.com/au/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features"
-webUrl: "https://www.techradar.com/au/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features"
-ampWebUrl: "https://www.techradar.com/au/amp/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features"
+publishedDateTime: 2020-11-14T00:37:00Z
+originalUrl: "https://www.techradar.com/in/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features"
+webUrl: "https://www.techradar.com/in/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features"
+ampWebUrl: "https://www.techradar.com/in/amp/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features"
 type: article
 quality: 64
 heat: -1
@@ -147,6 +147,6 @@ related:
       domain: seekingalpha.com
     quality: 20
 
-secured: "p5zK05g04HGM+qjd8nQ2+c1EqHCtvf3pjTeoBpyW1tPmAdhNvJJlVedbDqmUSwZjsk4kDSTAzApTUxmPfu0OT1QwVIzfCjIiWdO6YHmuqpCKa17Rxzhl3lIG87qHwnqbAMNDTKMMiFGc4uvHje8VHOmzkOhEfTboPDIzO7f3bmvsoLpWzSrXJ0Nn7Z3ql9DE5TBmGyGneyiX/b2qYPUE+lhbwOkqwHk1K2E6GMIX+9pl4O4nasycj75fmywLB5sOIzS+Q2bHfw/gicen9QsNFeSJLn2ZZL8AIUfCObWHKhh4ZfhbVUkKCBoBZhv/R/w6d3UYidh6SyDvEY/l8SruaEoZ13MdW9EDRseVqOXj+ng=;aVJ+cN52wqVAev+s3YoPyQ=="
+secured: "/dPyg8L5RlaGwjaJg8FlbOui7SjDbmgEqBSXzc0955Z9y8+VA9u8e/+cUaJV2y0aevPLcJ6Pm16DzuDWFrpNoZxE9dHZ/W3gEQ1BjVZtaL+bdADVcHlx0p2y5ItlWOv9ab2etKTtVkqyH5RfwiMTxD+KubIL46zPPQRPli+2gH0chDrfyy5rATW2QTLrSrAIwzVohoN6dLb07kZgQ0Q8Sbf2r5V+33fpCEpGv7cYsXzj01HtbBNcGVExaCEq43lsNWroFZINWp7+3OYniH8FY3sUnRm8fbh+iPyVAdxLNDZfTrqKdjWaDHhzzU8k/Zej+kNT3SJaskHl4bB5w4dKqelLiv+RZA0cGX5axrH07ZM=;YU5whkLeBhwXoIth7Grufw=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "China Gets Ready to Rein in Baidu, Alibaba, and Tencent"
 excerpt: "The SAMR could then finalize the rules to rein in leading internet companies like Baidu (NASDAQ: BIDU), Alibaba (NYSE: BABA), and Tencent (OTC: TCEHY). Let's see why China is trying to tighten its grip on its top internet companies,"
 publishedDateTime: 2020-11-14T13:00:00Z
-originalUrl: "https://www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14?time=1605359341"
-webUrl: "https://www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14?time=1605359341"
+originalUrl: "https://www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14"
+webUrl: "https://www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14"
 ampWebUrl: "https://www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14?amp"
 type: article
@@ -38,6 +38,6 @@ related:
         height: 825
         isCached: true
 
-secured: "wYHZkyVQTkjQjlsSKCvgqoOTbiTe5bwDfGpf90weUQZKi1kot3qMqcRZUy/ewUaUs2TemG3dLY7JcI+kCogBw0vMa5kewopfeDMTqf9OjZjcqtAsaxv6fy2xxzBRXWgpNIikFVjf/uoajC8uSaPJyvWabVFboItanqOMeAJ6xUvg4ds9+Ej9SpDgW3sU+D/GWPQeeh0mGKWKbYzFAro1ksd7j1ZqEvufeFiBxNqUjkVFMkHXEFfFP0H0LRZ2dATS3sKLlfYOpDLusLWrPPczJArQAt1VzaQ9j7gUTwhOWrkkddu4BneqO0wg1ebLkm0lKiCQFhxN0zP2ZKMcMkL8n4AB0hU/F2tKdIjcBsquI/0=;8sXdbPM2hGnH1fxbnrlaUQ=="
+secured: "qBRqErry4AfDSwUJo5XyIghQmZ5EiaW5exNnQxqkD+uvuHAAN6gGKT9Jwd8EQVp1tmNoqixmKv4OW+ZH6bD/iY0aJdtt7y3ZGFvIRZDRHORLLs8/5K2oo4FKbnFvvEzHSdLyHj+fWvrXcHnBu/ago4VQnfi8hEExNsAJKJsBRe0tx75DXM6/VfOeuqzbuYI63MGCX5i+dbcT/HCt4rz6HJeHn2W0meDEY8PYYgImvNYQ7ZNPdJUxq0c/Rxeo2IKqZrRVz/BnrdskZ7xu1kPxCytOIU1EFEMJgrxC3Rvx/mdFU+9BoonZDuLm/GTd4m0MDPp4v9cxMIRC0Y7txjda3TtpMXrc7mM5I2KSzoUbnmE=;778kKMXe1IYXiqCZbolEVA=="
 ---
 

@@ -106,10 +106,10 @@ related:
         isCached: true
   - title: "Alexa now runs on more powerful cloud instances, opening the door for complex new features"
     excerpt: "In addition to the Alexa team, Amazon Rekognition is also adopting the new chip as running models such as object classification on Inf1 instances resulted in eight times lower latency and doubled ..."
-    publishedDateTime: 2020-11-13T23:07:00Z
-    webUrl: "https://www.techradar.com/au/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features"
-    ampWebUrl: "https://www.techradar.com/au/amp/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features"
+    publishedDateTime: 2020-11-14T00:37:00Z
+    webUrl: "https://www.techradar.com/in/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features"
+    ampWebUrl: "https://www.techradar.com/in/amp/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features"
     type: article
     provider:
       name: TechRadar

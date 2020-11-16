@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Military Robots Market Size Analysis, Key Growth Drivers, Share, Leading Key Players, Demand, Upcoming Trend and Forecast to 2027"
+    excerpt: "Global Military Robots Market is valued approximately at USD 21.4 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 12.92% over the forecast period 2020-2027. Military robots act as an alternative to human soldiers and are capable of managing a broader range of military combat operations,"
+    publishedDateTime: 2020-11-12T15:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/military-robots-market-size-analysis-key-growth-drivers-share-leading-key-players-demand-upcoming-trend-and-forecast-to-2027-2020-11-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "QrsUUUeyz2mN3a0VOfIV03FpzP3mlkdJGbGZfyDw5SuhYG98oUCN/q1HZmgX7shpBuAx/wymmjV5wRrzwxArFVok4gObih+gNA5xJvIyDMhjltni1yTkAJvZPB96t59H5Hv+3UjDqm6rOPq2VOy42pa22nGHyphOKx5bJVYQTcYOYNmhvVC3j5bKGzf92q+RGGG7W6q2uE/eJzIMNG+W/lSwClkxXxvQcAQqQCTuEf0fo6aMqNmJ2/4FKUanA398Sgh26Hwmk+uhs5/DhaI57hZEnNBOAzb0vZ7ZyMOH3IrcQ1ZeTOOy7WR7AqaCPfmHMYvp7+46scyFZFz5vtOKeu3BIMt7aRajg+MjOaFnus8=;TqXu+1tdWOh1V7lIkrXUog=="
 ---

@@ -2,7 +2,7 @@
 category: news
 title: "Lindsay to Develop Sustainable and Profitable Solutions for Growers using Microsoft Azure"
 excerpt: "Lindsay will utilize Microsoft Azure IoT Edge and Azure Machine Learning for edge-of-field computing, artificial intelligence and machine learning solutions. Collaboration will result in complete ..."
-publishedDateTime: 2020-10-30T10:47:00Z
+publishedDateTime: 2020-10-30T11:45:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-301163711.html"
 webUrl: "https://www.prnewswire.com/news-releases/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-301163711.html"
 type: article
@@ -21,6 +21,6 @@ images:
     height: 315
     isCached: true
 
-secured: "iIMv2Sq8bsJXv5kLanYO5skXeH2U4iAhGcm9yJgpYXaXJ3idktJI1+77s5hxfwd5nE8YbVAPhu74Kin1uCqtqpVK/w3ilp6qGn42lyJVR8ZBsbqmlOBvC0ozhGj21sOQSCdPN8oD4/0DYnba+fL59fs1jyRzXlRIqfpmLaPd5Dxrov1nmG7JpXj39VLgnNOlSyeCo7wX4EoIYOVpqQ5gChIJZjUcfmQDMMulJ2PdOkYw2LKflS1thx9D4ciePnvqWxVOAJUgJHI3AAxajZim40rtXQZbyntognSkWrsGJu+qdwthiWMxwMI5tYcCuDm2RMZ1NN8xG3oFol2GxGeXKDW9JEvKPIZtL1mxTye1sbk=;pog0bOXglxnu8812a0Hf6A=="
+secured: "U0pJavp5t8bmML9fCOV9xXDyzasOB7unBCz1K0l57cSvmpkz0d9aQR0A7hvqhIf8JWMPRaAdY9Eepi8fgO8ajkFBFGWmQMvZYt7im3C25F8C3zr5B/HsjofSgK5o+XpJ/PKEftcP7BP9HxAcubmv5zupqZQ3nEpteZ3kZZHkP/4cTmnTwhIJ0qbpbp9nUprAPhj3q/UF4e3G6Bj4xnFIkaaoRoR+Ys70FIe/TIe02+dnjGj8VPY0Fn5rtokPxLnWRKGj1MD2dGaHKD9EzlCcSa/eAmTO/I7s1vS3HskUWDVfAbLgDzyv7KElsNSfBU0vM6kldqlJdb+UKs0eQZXJy0GFFSkGJGx0kAGS06hbcpE=;E2C+rSUDnM24FBP48suAdQ=="
 ---
 

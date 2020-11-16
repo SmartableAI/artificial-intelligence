@@ -1,46 +1,36 @@
 ---
 category: news
-title: "AVEVA to collaborate with Microsoft to provide cloud platform and domain expertise for industrial sector organizations"
-excerpt: "AVEVA, a global leader in engineering and industrial software, announced that it will be extending its long-standing strategic collaboration with Microsoft to focus on accelerating digital transformation in the industrial sector."
-publishedDateTime: 2020-11-11T17:18:00Z
-originalUrl: "https://www.hydrocarbonprocessing.com/news/2020/11/aveva-to-collaborate-with-microsoft-to-provide-cloud-platform-and-domain-expertise-for-industrial-sector-organizations"
-webUrl: "https://www.hydrocarbonprocessing.com/news/2020/11/aveva-to-collaborate-with-microsoft-to-provide-cloud-platform-and-domain-expertise-for-industrial-sector-organizations"
+title: "Microsoft's new Azure data services explained"
+excerpt: "And like other Azure data services, you can use the data as a source for Azure Machine Learning, or analyse it in Power BI. Download this article and thousands of whitepapers and ebooks from our ..."
+publishedDateTime: 2020-11-13T20:42:06Z
+originalUrl: "https://www.techrepublic.com/article/microsofts-new-azure-data-services-explained/"
+webUrl: "https://www.techrepublic.com/article/microsofts-new-azure-data-services-explained/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsofts-new-azure-data-services-explained/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsofts-new-azure-data-services-explained/"
 type: article
-quality: 30
-heat: -1
-published: false
+quality: 119
+heat: 169
+published: true
 
 provider:
-  name: Hydrocarbon Processing
-  domain: hydrocarbonprocessing.com
+  name: TechRepublic
+  domain: techrepublic.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.hydrocarbonprocessing.com/media/12882/aveva-digital-reliability-platform.png"
-    width: 1280
-    height: 757
+  - url: "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
-  - title: "Microsoft's new Azure data services explained"
-    excerpt: "And like other Azure data services, you can use the data as a source for Azure Machine Learning, or analyse it in Power BI. Download this article and thousands of whitepapers and ebooks from our ..."
-    publishedDateTime: 2020-11-13T20:42:06Z
-    webUrl: "https://www.techrepublic.com/article/microsofts-new-azure-data-services-explained/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsofts-new-azure-data-services-explained/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsofts-new-azure-data-services-explained/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 119
-    images:
-      - url: "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Passport 360 Now Available in the Microsoft Azure Marketplace"
     excerpt: "JOHANNEBSURG Gauteng South Africa November 13 2020 Passport 360 today announced the availability of its product of the same name in the Microsoft Azure Marketplace an online store providing applications and services for use on Microsoft Azure Passport 360 customers"
     publishedDateTime: 2020-11-13T13:02:00Z
@@ -99,7 +89,21 @@ related:
         width: 1411
         height: 665
         isCached: true
+  - title: "AVEVA to collaborate with Microsoft to provide cloud platform and domain expertise for industrial sector organizations"
+    excerpt: "AVEVA, a global leader in engineering and industrial software, announced that it will be extending its long-standing strategic collaboration with Microsoft to focus on accelerating digital transformation in the industrial sector."
+    publishedDateTime: 2020-11-11T17:18:00Z
+    webUrl: "https://www.hydrocarbonprocessing.com/news/2020/11/aveva-to-collaborate-with-microsoft-to-provide-cloud-platform-and-domain-expertise-for-industrial-sector-organizations"
+    type: article
+    provider:
+      name: Hydrocarbon Processing
+      domain: hydrocarbonprocessing.com
+    quality: 30
+    images:
+      - url: "https://www.hydrocarbonprocessing.com/media/12882/aveva-digital-reliability-platform.png"
+        width: 1280
+        height: 757
+        isCached: true
 
-secured: "UXZsscgctRSt8IlvW6BkFov6ztZlG+a4thmUUKd227gjQtMHPfRyBAArbcKflPyHhxGTgCAhunf2zOpKRdOj6x4dD/Yrdilh0ueAhiSIKk3G/FDxfY7dcifVgHqASlhcoQerAGE2KoraYZQGnGETQbxGk34ijdTCTdMeoAcbJqLcoaYFXSGNgkQf8jywIqFVsQIob7HvON8r4av6GAxOs4NsnNditFwPVklJr0bhXLF6MQAxqpfFwZ+CE5PuaV7WfUv0Lm3HyYlNbj5gXT11XMu7Dvxa5UKYb93B+RHXWetfzatdYnxn8poR55Cogxb+g3SYxOpVNNgU+Ol68PoXuGLbSNFMeHbUJn8KQlIglBQ=;7pXUXKEBE9Cg5EEPdjI07g=="
+secured: "spi+XhaUbbKwmPay4TNxyEH602woroaCtLaOmPD0269xDzH6M1FcLO4sGG56QJEHVdmzyDsZBi4m6vJoC7ZYwxbdUtftzssChWy+ybkhy8vCdmNLiptZ5DRs7LTIZFhhI7jKih6EbdsDzWCK1R1g/q/VGj2FCSOOOy/dL7g1yTDys7N/crdHWiRsD+OBhwWje6T3/MSJDM7QFswY+omM0dS5+Yk9XMVDvMb7Q4SdTZGiqbPgSPiVR0ARaSmM5W9Oi9oq/FaR6He8zHTypUuhWDXimHXFcEzL65zBS+ogZyuXoFdNerGiQmWc1mcOFuP4Q271obnr6wFXBmsJA/Dm1qP9n3Q1bwMe0bXmyYJL9cw=;nlwqeJyXvfv3b6j4zTDILA=="
 ---
 

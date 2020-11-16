@@ -85,15 +85,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Ford: Playing it safe. There is no other way to launch self-driving cars"
-    excerpt: "That same mindset dominates how Ford approaches the introduction of self-driving cars. Just as decades of experience have given us safe and reliable development processes for human-driven cars, we need to draw upon that experience and develop the same processes for self-driving ones."
-    publishedDateTime: 2020-11-11T08:26:00Z
-    webUrl: "https://www.automotiveworld.com/news-releases/ford-playing-it-safe-there-is-no-other-way-to-launch-self-driving-cars/"
-    type: article
-    provider:
-      name: Automotive World
-      domain: automotiveworld.com
-    quality: 3
 
 secured: "kqplm0qCJRsc4vioLIZllBNyOdAqLjOCg4gFQK0xV2OKY2asqKmWpXSF6ol8E6NHu876G70f0YqNJ2TFhO0i1vBkmhJbS2tIMezg6+Mn4cIbHEKJgsBoJ1T1VWM0EnmpRoAqVrA4PBFW1sFbHSGZ5rQtSMGLeBhmRFvn1VcJrrjd20hZz7AOHZhf/Y09GgzquiT3+nQkPxSCdBPPvIp4/8tbp0B3GL8uZ55GjGFu3M9Ay6MuPadcmVz4sQ+EjWhj2j1Bs8vpOhJtwV1lkYYj81In5dd5IpIdVPUQz6AFdKH6DzRFPwyqWUKd95sPNshPm5qVdjphp4mSDe3wExdmVgwnaz1t9hz7FcmsBmC4W1s=;7S8wX9FwT9214UqQIHkZLQ=="
 ---

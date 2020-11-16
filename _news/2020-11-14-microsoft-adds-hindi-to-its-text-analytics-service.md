@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft's new Azure data services explained"
+    excerpt: "And like other Azure data services, you can use the data as a source for Azure Machine Learning, or analyse it in Power BI. Download this article and thousands of whitepapers and ebooks from our ..."
+    publishedDateTime: 2020-11-13T20:42:06Z
+    webUrl: "https://www.techrepublic.com/article/microsofts-new-azure-data-services-explained/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsofts-new-azure-data-services-explained/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsofts-new-azure-data-services-explained/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 119
+    images:
+      - url: "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Passport 360 Now Available in the Microsoft Azure Marketplace"
     excerpt: "JOHANNEBSURG Gauteng South Africa November 13 2020 Passport 360 today announced the availability of its product of the same name in the Microsoft Azure Marketplace an online store providing applications and services for use on Microsoft Azure Passport 360 customers"
     publishedDateTime: 2020-11-13T13:02:00Z
@@ -41,19 +57,19 @@ related:
         width: 800
         height: 800
         isCached: true
-  - title: "AI in Fintech Market May See a Big Move | Emerging Players Microsoft, Google, Salesforce"
-    excerpt: "Global AI in Fintech Market Status (2015-2019) and Forecast (2020-2025) by Region, Product Type & End-Use is latest research study released by HTF MI evaluating the market, highlighting opportunities,"
-    publishedDateTime: 2020-11-13T01:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-may-see-a-big-move-emerging-players-microsoft-google-salesforce-2020-11-12"
+  - title: "Microsoft announces “Open Azure Day” event to show developers how to run Linux apps “your way” on Azure"
+    excerpt: "Microsoft’s announced a virtual event for November 18th intended to illustrate the utility of its Azure cloud platform to Linux-centric developers. The company’s Open Azure Day will feature two"
+    publishedDateTime: 2020-11-11T15:11:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-announces-open-azure-day-event-to-show-developers-how-to-run-linux-apps-your-way-on-azure"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 77
+      name: On MSFT
+      domain: onmsft.com
+    quality: 38
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.onmsft.com/wp-content/uploads/2020/08/Ignite-2017-Microsoft-loves-IT.jpg"
+        width: 1024
+        height: 768
         isCached: true
   - title: "Microsoft Custom Translator pushes the translation quality bar closer to human parity"
     excerpt: "The Custom Translator journey to be on the leading edge of machine translation technology continues. In early August 2020, we started our Custom Translator upgrade from Long Short-Term Memory (aka LSTM) based neural machine translation architecture (or V1) to our Microsoft Translator’s state-of-the-art Transformer based architecture (or V2)."

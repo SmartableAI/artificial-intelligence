@@ -39,20 +39,6 @@ related:
         width: 451
         height: 313
         isCached: true
-  - title: "Sorting out viruses with nanopores and machine learning"
-    excerpt: "Researchers have developed a label-free method for identifying respiratory viruses based on changes in electrical current when they pass through silicon nanopores, which may lead to new rapid COVID-19 tests."
-    publishedDateTime: 2020-11-11T08:24:00Z
-    webUrl: "https://www.nanowerk.com/nanotechnology-news2/newsid=56601.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 39
-    images:
-      - url: "https://www.nanowerk.com/nanotechnology-news2/id56601_1.jpg"
-        width: 451
-        height: 313
-        isCached: true
 
 secured: "P+LyZI1oyfcNG4xVvv78P3HbmxtBzmDw5bxcd7SQDMggj/HBDtAVD5orSD5ixnn8og+G5yLGieP+7IFFQ5QFc8cpHUfA3pj5VYXC+s7GJ3Tvh1GkuT8T9tN5s5bc3E54EqN0+WpmBH0jQRYKAOzR5qK+SQWKZwvN5rmCGDftKQuwtVGTv6quPzBIGLyDgXM1N3gd/zxm6oRXPK9KT1Dx6e4+OAtUBr4AOkZgLaqloTNy2KaP9FU34DLPfJkcltEKS2vVkbQ5VICnrJtPlhnKNxIDanffzAFnWUQN6keLOWhyHrdLTRhM1ou61gwyA9yERe0jBuMhopEAq8BUSP6kc11vx56nueHu3gYTh0aycq8=;GaTEMcVLl+I1whzW3QY1aA=="
 ---

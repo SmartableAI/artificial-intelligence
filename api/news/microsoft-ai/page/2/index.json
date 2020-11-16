@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-27-eagle-genomics-closes-9m-funding-round.md",
+      "title": "Eagle Genomics Closes $9M Funding Round",
+      "excerpt": "The platform harnesses the latest graph technology, and Microsoft’s advanced machine learning and cognitive services. Eagle Genomics became Microsoft Genomics’ first microbiome partner in 2018.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finsmes.com/2020/10/eagle-genomics-closes-9m-funding-round.html",
+      "originalUrl": "https://www.finsmes.com/2020/10/eagle-genomics-closes-9m-funding-round.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finsmes.com/wp-content/uploads/2020/10/eagle-genomics.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-27T09:12:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "finsmes.com",
+        "domain": "finsmes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-microsoft-azure-ad-gains-machine-learning-hooks-to-detect-sneaky-password-spray-attacks.md",
       "title": "Microsoft Azure AD Gains Machine Learning Hooks To Detect Sneaky Password Spray Attacks",
       "excerpt": "Microsoft’s Azure Active Directory has some neat features ... This attack is called password spray, and by now using machine learning, Microsoft can detect patterns and alert organizations ...",
@@ -1329,49 +1372,6 @@
       "provider": {
         "name": "People",
         "domain": "people.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-to-build-more-inclusive-technology-change-your-design-process.md",
-      "title": "To Build More-Inclusive Technology, Change Your Design Process",
-      "excerpt": "Companies from Microsoft to Airbnb to Oracle are striving ... more accessible for people with different physical and cognitive abilities; the tech industry has taken meager steps to diversify ...",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2020/10/to-build-more-inclusive-technology-change-your-design-process",
-      "originalUrl": "https://hbr.org/2020/10/to-build-more-inclusive-technology-change-your-design-process",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2020/10/Oct20_19_72983853.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hbr.org/amp/2020/10/to-build-more-inclusive-technology-change-your-design-process",
-      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/10/to-build-more-inclusive-technology-change-your-design-process",
-      "publishedDateTime": "2020-10-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
         "images": null,
         "publishers": null,
         "authors": null

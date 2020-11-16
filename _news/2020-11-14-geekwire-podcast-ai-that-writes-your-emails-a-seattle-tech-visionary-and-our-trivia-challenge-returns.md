@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2020/geekwire-podcast-ai-writes-emails-seat
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/geekwire-podcast-ai-writes-emails-seattle-tech-visionary-trivia-challenge-returns/amp/"
 type: article
 quality: 70
-heat: 70
+heat: 71
 published: true
 
 provider:

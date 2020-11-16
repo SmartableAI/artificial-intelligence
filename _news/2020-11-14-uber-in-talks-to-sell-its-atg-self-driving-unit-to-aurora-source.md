@@ -3,10 +3,10 @@ category: news
 title: "Uber in talks to sell its ATG self-driving unit to Aurora - source"
 excerpt: "Uber Technologies Inc <UBER.N> is in talks to sell its autonomous driving unit, Uber Advanced Technologies Group (ATG), to self-driving car startup Aurora, a source familiar with the matter told Reuters."
 publishedDateTime: 2020-11-14T04:45:00Z
-originalUrl: "https://www.reuters.com/article/us-uber-aurora-idUSKBN27T30K"
-webUrl: "https://www.reuters.com/article/us-uber-aurora-idUSKBN27T30K"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T30K"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T30K"
+originalUrl: "https://www.reuters.com/article/uk-uber-aurora-idUSKBN27T30O"
+webUrl: "https://www.reuters.com/article/uk-uber-aurora-idUSKBN27T30O"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T30O"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T30O"
 type: article
 quality: 74
 heat: -1
@@ -135,6 +135,6 @@ related:
       domain: seekingalpha.com
     quality: 4
 
-secured: "fAbyR3zbo0bKMpLZj7vXo8nbJjO43X0ETAukUesFoB3Me2gFTdyYy4svoSKjjTNjyPdMtIQk+sTwUsj+Qq642I5TRcyx72iREcAz4w9jL9LirOOJnBI9fHZxsaQZuzJxmMkcvvDb6IUVVfw4oOqNg8HG8CtQ/rW0wJZu1hI7uIv/F6upqM7VplOLi45Chyy8lAQ2OUrQ/OZG5OGwtOPK6vmuefus6bUCpxSWaf0tzbQXbc4inug58PirJtQ2uoYE+KMIyZSyszoIo5yuaLABRN3XaP7Tq4uHYSkhnZuve/1Oow5TdO04sECip8Gsj809UwyTs5WhvEIXr6chTjq4DsorETcAjPhDYOFiMU5BaSqmFFYJiewzt+9O2eO2e5byN4Tgpxv4TnJJ/FbRvKxVM2aThjLPuW1MD3pcLh9AkfW1GLXFwU6L8m8+WW/mIyS9mdwH7YPIRp9tNN+RMcrC1MaxVMMeil5O2bMqQFLXqS9pWa+FpX3ZpN5KSlaihIt7NM2LjPtxYxNRg8FfcfWXnQ==;5OhPUA8Js1jyA4U064lQgA=="
+secured: "m29qbos1Xim5SvT6We9glkTqo/dyNl4K4mZXXhF670Ya8AOl+REe4OCne7ukZcAUOLZLrupPVjTAu5PEQDjXuNmRDCSwi8NrnFVFASx7x91RyujaQgZhJ7qfZriBiCNZQugnkv2vi5hkHMAE0ouZFAEV65oWYs62iT+33NqN/kDfnLXiZnP9EzYlihE9VB4QOVd1BBMjmZB2aJ7qVLrw4hExmdpoKyE+k+IF1Wx2qPfUZapZbwgxP36WMBOJVZUq+O7gSsbUBF0ZyPdeKdd3C4f+FMavbf0rv6A/qE8FSk76C5dO1Q2MJN0Fx13M3f7+p3EcRcOQp9RX1pZ0uZ+9CdXS0Lbt8pawIruJx/hGkHg=;YQdpggYkephFrLupGKtKkg=="
 ---
 
