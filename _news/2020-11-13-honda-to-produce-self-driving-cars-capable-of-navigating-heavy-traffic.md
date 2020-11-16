@@ -25,21 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Honda ‘Traffic Jam Pilot’ Offers Standby Self-Driving By March 2021"
-    excerpt: "Honda will release \"Traffic Jam Pilot\" within months. That's full self-driving while in traffic jams, in a consumer car."
-    publishedDateTime: 2020-11-11T20:40:00Z
-    webUrl: "https://www.forbes.com/sites/bradtempleton/2020/11/11/honda-traffic-jam-pilot-offers-standby-self-driving-by-march-2021/"
-    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/11/11/honda-traffic-jam-pilot-offers-standby-self-driving-by-march-2021/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/11/11/honda-traffic-jam-pilot-offers-standby-self-driving-by-march-2021/amp/"
+  - title: "Zipper Merging Is A Frenzied Traffic Squeeze Play On Self-Driving Cars"
+    excerpt: "Zipper merging, whereby cars are shunted into a 2-into-1 lane narrowing, can be especially tough on self-driving cars."
+    publishedDateTime: 2020-11-15T16:42:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/15/zipper-merging-is-a-frenzied-traffic-squeeze-play-on-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/15/zipper-merging-is-a-frenzied-traffic-squeeze-play-on-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/15/zipper-merging-is-a-frenzied-traffic-squeeze-play-on-self-driving-cars/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fac4b42a3f01ea8eb2374ba%2F0x0.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f98fb5712aefdbeef1bad5b%2F0x0.jpg%3FcropX1%3D647%26cropX2%3D7309%26cropY1%3D579%26cropY2%3D5033"
         width: 1200
-        height: 800
+        height: 802
+        isCached: true
+  - title: "Lyft brings back self-driving cars amid social distancing concerns"
+    excerpt: "Lyft bringing back a unique service to the valley. 13 Action News Reporter Marissa Kynaston shows you what's changing the next time you book your ride. Self driving cars with Lyft are now back in service."
+    publishedDateTime: 2020-11-12T14:35:00Z
+    webUrl: "https://www.ktnv.com/positivelylv/lyft-brings-back-self-driving-cars-amid-social-distancing-concerns"
+    type: article
+    provider:
+      name: KTNV Las Vegas
+      domain: ktnv.com
+    quality: 24
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/b99e490/2147483647/strip/true/crop/841x442+0+37/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2Fdcb%2Fb9cd621bb5cc43d8b6bdc641d1acdca8%2Fdcb19f1cb221492c97b29766f91e3721%2Fposter_a8f06e04eb554902aa594c78f117df91.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "X/9h8NGq3wQ8svHRN5fgZ+atH36OzPoqqPRKbAQ8WBIuoKygeYNY3PyE3sR0UshCU1AVchglk5bYSclXpWmlckE4XlYIMD9kJqNfLe4I7CK07G/ISh05B2wBr+6Reab3dwTNVe62RtyBRRJTAi/bGgcbNs2RuAXHeNX8RguzGZxyAkDIvm14a7qFtFqIsNDxcO+DiOkgi/m8ycRl0gtQFD+6hbdgzKKy4Dt/4LDZrY1aKicOi42sWV/T9rmoh03OdygPTu/2L3nU8cp4uRYl7avjRP6q6snNlRZEUX2ZFPILOaRfvQigVHb4eEAmmeJQSVdLd+Hjsusg5g5BgBrp2QhDQ8q1WLZ1onzsNw6DVn8=;gCt9/nnASoKBXiocz68IQg=="

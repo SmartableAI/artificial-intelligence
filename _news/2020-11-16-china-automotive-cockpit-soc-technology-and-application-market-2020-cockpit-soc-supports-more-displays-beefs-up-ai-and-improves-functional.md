@@ -1,24 +1,20 @@
 ---
 category: news
 title: "China Automotive Cockpit SoC Technology and Application Market 2020: Cockpit SoC Supports More Displays, Beefs up AI, and Improves Functional Safety"
-excerpt: "The \"China Automotive Cockpit SoC Technology and Application Research Report, 2020\" report has been added to ResearchAndMarkets.com's offering. Cockpit SoC Supports More Displays, Beefs up AI, and Improves Functional Safety Intelligent vehicle E/E architecture ushers in a period of intra-domain integration to trans-domain convergence and to central computer from the distributed one."
-publishedDateTime: 2020-11-16T08:21:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/china-automotive-cockpit-soc-technology-and-application-market-2020-cockpit-soc-supports-more-displays-beefs-up-ai-and-improves-functional-safety-1029804693"
-webUrl: "https://markets.businessinsider.com/news/stocks/china-automotive-cockpit-soc-technology-and-application-market-2020-cockpit-soc-supports-more-displays-beefs-up-ai-and-improves-functional-safety-1029804693"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/China-Automotive-Cockpit-SoC-Technology-and-Application-Market-2020-Cockpit-SoC-Supports-More-Displays-Beefs-up-AI-and-Improves-Functional-Safety-1029804693"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/China-Automotive-Cockpit-SoC-Technology-and-Application-Market-2020-Cockpit-SoC-Supports-More-Displays-Beefs-up-AI-and-Improves-Functional-Safety-1029804693"
+excerpt: "Cockpit SoC Supports More Displays, Beefs up AI, and Improves Functional Safety Intelligent vehicle E/E architecture ushers in a period of intra-domain integration to trans-domain"
+publishedDateTime: 2020-11-16T06:53:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/11/g18377097/china-automotive-cockpit-soc-technology-and-application-market-2020-cockpit-soc-supports-more-disp"
+webUrl: "https://www.benzinga.com/pressreleases/20/11/g18377097/china-automotive-cockpit-soc-technology-and-application-market-2020-cockpit-soc-supports-more-disp"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18377097"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18377097"
 type: article
-quality: 30
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
@@ -71,20 +67,6 @@ related:
     excerpt: "Selbyville, Delaware, MarketStudyReport.com offers report on Global Deep Learning Chipset Market that evaluates industry growth trends through historical data and estimates prospects based on comprehensive research."
     publishedDateTime: 2020-11-12T15:12:00Z
     webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-analysis-share-growth-product-top-key-players-and-forecast-2025-2020-11-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Machine Learning Market 2020 Industry Scenario, Strategies, Growth Factors and Forecast to 2026"
-    excerpt: "The latest informative study entitled Global Machine Learning Market 2020 by Company, Regions, Type and Application, Forecast to 2026 released for the database of MarketsandResearch.biz helps a reader to understand the market in depth."
-    publishedDateTime: 2020-11-12T07:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-2020-industry-scenario-strategies-growth-factors-and-forecast-to-2026-2020-11-11"
     type: article
     provider:
       name: MarketWatch
@@ -159,13 +141,13 @@ related:
     provider:
       name: Analytics Insight
       domain: analyticsinsight.net
-    quality: 14
+    quality: 16
     images:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/AI-Report11.jpg"
         width: 1200
         height: 694
         isCached: true
 
-secured: "3aylIzrVcsQ4VXVYGEJ29jvOwyfXnPQVMLKTuoC3MUieO5/IZqDPKmzTb+Yq0IMNMci7rjaPqptGUllES7GK2xV+2p/oHbinsHhMzZW8a2meQdUZjYXlK0+ecl9EQq6lRCCx9mzqh2c13TzNn0SxLK+eD4G3G5dSrybyCPZ6ouecuGwI9/DJcula85WQgS3+cMFcxrgiaHhLHrugK2OhbF+1iRMcTRmets5GwFp1DXYKqvLfNRbxZHZZ2ZhmuJ584npUi32yo6p6pApxzhqdTfhQ1KDOjCVnOE+fvKygT6vJcl8oSj4Az6c7uyiDknMj8d0BQkWzOPhXMtXLovusgU75R/MHgVd49UQ9FlZk6Vg=;/2bNSDpaAFYHYZlRFKoqpQ=="
+secured: "TTiAnLIl+VuATOJJ0XPMzsUJGegKA9DUJ9Meb+XZLhoWwBcEdP+nrfNN7wfckJKErmDtrN9h8A5DE32jn9USoh81uL0mnEky8l1rmUgo3l+ff0GyH2MwZSdsyYxGXp53rr72xLuX/qtEzB4E5alfGv7m+TKRuFCidB/82KyO0y8ofwYxDp+FDkx3o7Hitt9Zx9usho8WCaFmquVpWied1MrRqeXWnc3YI7+HG2fOsIEUdtBGpTdqSAdBHz9/ecr+BZc5ctY51GQr1Yk26OT4Wmo5IkM0PpuzUsj+Y+nXukyOyFzvW8Qv9R4nhPzuHZSntrSxUyBCZabmsfwn/EFbTwiLp4NcOYrDVwBdNR2vmRs=;3VQWdS23ltFsGOKPLzDjwA=="
 ---
 

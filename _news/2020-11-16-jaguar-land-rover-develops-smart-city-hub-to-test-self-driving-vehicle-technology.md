@@ -2,27 +2,21 @@
 category: news
 title: "Jaguar Land Rover develops smart city hub to test self-driving vehicle technology"
 excerpt: "Jaguar Land Rover is partnering with global software, mobility and telecoms companies to create a smart city hub that will allow real-world testing of connected technology where self-driving vehicles share the streets with cars,"
-publishedDateTime: 2020-11-16T10:01:00Z
-originalUrl: "https://www.akm.ru/eng/news/jaguar-land-rover-develops-smart-city-hub-to-test-self-driving-vehicle-technology/"
-webUrl: "https://www.akm.ru/eng/news/jaguar-land-rover-develops-smart-city-hub-to-test-self-driving-vehicle-technology/"
+publishedDateTime: 2020-11-16T08:59:00Z
+originalUrl: "https://www.automotiveworld.com/news-releases/jaguar-land-rover-develops-smart-city-hub-to-test-self-driving-vehicle-technology/"
+webUrl: "https://www.automotiveworld.com/news-releases/jaguar-land-rover-develops-smart-city-hub-to-test-self-driving-vehicle-technology/"
 type: article
-quality: 19
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: akm.ru
-  domain: www.akm.ru
+  name: Automotive World
+  domain: automotiveworld.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://www.akm.ru/upload/iblock/303/JLR_Autonomous.jpg"
-    width: 1200
-    height: 461
-    isCached: true
 
 related:
   - title: "Waymo throws shade at Tesla and Elon Musk over self-driving comments"
@@ -53,6 +47,6 @@ related:
       domain: law360.com
     quality: 39
 
-secured: "4qNYhBoiMqRM52KxUwOyjQZqEqQEfKcGH6lq6wXy49S8IFwT2Eziy+ICIZW/NnCkE1B/2i4sOsJKqUbVFEn7lu+rXaA4eD41JUSEclBMsdl4g45uDpnj5i+sBo35GIxI4VjJnArHds3KgyY1bzWV6o77yh+Zp71armYn2MF0QuTnhYv0BXQxKc8q2bd64eTGHMX6F8qP14VAugIc3Rvs/R7NY8WCGPJqAL97eqptyBEKqaEMya4+YkmEDmX3Rs66ffRKBsbDgdjxpfSgQR87gSYGc9QgwzUI9e3c52uYPjUQZkKnqMBh+OQsBRa4OUxAg2fvJ+8XgLSCOO05LgDX1nKx1VheHtvK3rcTzc4CUTY=;8mjaXhP3Np93lA0KQ5jd3w=="
+secured: "tQckC40Nf3qhyHs47spRmb4HKt7XDxDuAXSvUiysH7Z3awc00GzFggyBXxJDBiOMCyvVjxEPtikE7/5Kce05EzU7PZw9H9tzbm4HCfHmNc6WGipTqjeVw10LkJlsMinpiFZUGJQG8bPSFk8/diep4xfmFdBITPjzvDt9e9fVep+0ZhBlt5OHQwx4bj3d4A2ilzjxFfKHSno9KwaHO7SEiuYopCmfw+ssxbApiLi7pnQQNuRGsCZQn1cH+8dQekGSKKGFCTiYA9KwICoK1a1agqS1xj/i22SuCdcjic8QARmGYVFLqDUtYagybZg6p6/CaiFA+0eJL7cnfFj8n17+wdhl8uN5nsM85zPRUR/OZI4=;D828Hhhh16zDl+SkBl1T9g=="
 ---
 

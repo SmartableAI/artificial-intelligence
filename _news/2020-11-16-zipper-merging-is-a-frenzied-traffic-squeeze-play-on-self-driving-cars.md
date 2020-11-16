@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/15/zipper-merging-is
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/15/zipper-merging-is-a-frenzied-traffic-squeeze-play-on-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/b99e490/2147483647/strip/true/crop/841x442+0+37/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2Fdcb%2Fb9cd621bb5cc43d8b6bdc641d1acdca8%2Fdcb19f1cb221492c97b29766f91e3721%2Fposter_a8f06e04eb554902aa594c78f117df91.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Honda To Produce Self-Driving Cars Capable Of Navigating Heavy Traffic"
+    excerpt: "Shutterstock The Honda Legend luxury sedan will have \"traffic jam pilot\" technology, allowing drivers to take their eyes off the road"
+    publishedDateTime: 2020-11-13T10:16:00Z
+    webUrl: "https://www.kabc.com/2020/11/13/honda-to-produce-self-driving-cars-capable-of-navigating-heavy-traffic/"
+    type: article
+    provider:
+      name: KABC
+      domain: kabc.com
+    quality: 24
+    images:
+      - url: "https://express-images.franklymedia.com/6616/sites/320/2020/11/12115213/autonomous-car-shutterstock_643585552.jpg"
+        width: 589
+        height: 424
         isCached: true
 
 secured: "1m4BHJnTrJNNXNCssOwYC2IJYlNYMjdmSU6JPp0fvsYvMyim6Lzp5Xy3eOB+62xUQgpwWSBrMeyzGSdYiKw+niS7WVrK+8DYaWvwu3hdJ+ZqGxwW7Vf5O8R+JEmSDg+KSvCtA1CTGOarmIn63Ys8nnrZauJi0WLH4tRezkKTEgc5vlImhlfTIu0eThgRWaNBKo5mK4jzlLtm/kYoZqtGxJHPfa1lySsO0zfQx5l8pj4JfS1bO6O9wwupeibvKJYC/kcqUEvYNOf5V2/ZojObWj13wQ4zseqBUWBXVM9E5OjdKebnSwVBCdKbddsJw/zBpqWY8NTnW8h5Rzq8rxz0hqwS1QLQ33nWMsFTMtH4DDPh/ekx0kKoY9YkjSB2GXhXQ+soSVtX6JNoNyX/e+o5L78rYOPhtJandSGgd9t+lokFppQ1GS89dxiO4jmRgBB/kYzNqL3pFzw72nVdfqK3mcq23LC0OZwaavs8flqP5Vz34xym4pdzMY/kHVkggvTIZ05mKl0F6TQSwK843ZBW+w==;JtQFCFxvlSJ9B1nbmuF83g=="

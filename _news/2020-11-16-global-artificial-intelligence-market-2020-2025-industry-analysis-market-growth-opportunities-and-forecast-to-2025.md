@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-16T10:07:00Z
 originalUrl: "https://www.analyticsinsight.net/global-artificial-intelligence-market-2020-2025-industry-analysis-market-growth-opportunities-and-forecast-to-2025/"
 webUrl: "https://www.analyticsinsight.net/global-artificial-intelligence-market-2020-2025-industry-analysis-market-growth-opportunities-and-forecast-to-2025/"
 type: article
-quality: 14
+quality: 16
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/AI-Report11.jpg"
@@ -80,20 +81,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Machine Learning Market 2020 Industry Scenario, Strategies, Growth Factors and Forecast to 2026"
-    excerpt: "The latest informative study entitled Global Machine Learning Market 2020 by Company, Regions, Type and Application, Forecast to 2026 released for the database of MarketsandResearch.biz helps a reader to understand the market in depth."
-    publishedDateTime: 2020-11-12T07:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-2020-industry-scenario-strategies-growth-factors-and-forecast-to-2026-2020-11-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "What are sales, revenue, and price analysis by types and applications of Autonomous Cars Market? Fortune Business Insights™"
     excerpt: "Autonomous Cars Market size is set to gain traction from the increasing innovations occurring in the transportation"
     publishedDateTime: 2020-11-12T00:21:00Z
@@ -122,17 +109,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "China Automotive Cockpit SoC Technology and Application Market 2020: Cockpit SoC Supports More Displays, Beefs up AI, and Improves Functional Safety"
-    excerpt: "The \"China Automotive Cockpit SoC Technology and Application Research Report, 2020\" report has been added to ResearchAndMarkets.com's offering. Cockpit SoC Supports More Displays, Beefs up AI, and Improves Functional Safety Intelligent vehicle E/E architecture ushers in a period of intra-domain integration to trans-domain convergence and to central computer from the distributed one."
-    publishedDateTime: 2020-11-16T08:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/china-automotive-cockpit-soc-technology-and-application-market-2020-cockpit-soc-supports-more-displays-beefs-up-ai-and-improves-functional-safety-1029804693"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/China-Automotive-Cockpit-SoC-Technology-and-Application-Market-2020-Cockpit-SoC-Supports-More-Displays-Beefs-up-AI-and-Improves-Functional-Safety-1029804693"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/China-Automotive-Cockpit-SoC-Technology-and-Application-Market-2020-Cockpit-SoC-Supports-More-Displays-Beefs-up-AI-and-Improves-Functional-Safety-1029804693"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 30
   - title: "Global Artificial Intelligence (AI) in Medical Market 2021: Outlook And Trends With Analysis Of Leading Players, 2030"
     excerpt: "Market.Biz :COVID-19 Analysis: Turn massive Artificial Intelligence (AI) in Medical Market challenges into meaningful change. Its not post-pandemic, its intra-pandemic. Were still in it, and the implications for Artificial Intelligence (AI) in Medical Market are long-reaching."
     publishedDateTime: 2020-11-12T10:43:00Z
@@ -161,7 +137,18 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "China Automotive Cockpit SoC Technology and Application Market 2020: Cockpit SoC Supports More Displays, Beefs up AI, and Improves Functional Safety"
+    excerpt: "Cockpit SoC Supports More Displays, Beefs up AI, and Improves Functional Safety Intelligent vehicle E/E architecture ushers in a period of intra-domain integration to trans-domain"
+    publishedDateTime: 2020-11-16T06:53:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/g18377097/china-automotive-cockpit-soc-technology-and-application-market-2020-cockpit-soc-supports-more-disp"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18377097"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18377097"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
-secured: "FS8E1RBFlSR3nAwKKpwbtTqvy/MBBsepZ4DBBUFLYaO2ABRF8CoTff8+oJvM4wMVXyuHNXNwdI2q437XNeTM8Dr07DCnzK6MwMCyHQbqDbwX4E7R7HRQbGHSGJiRG96kN8+3Grx4iWH8BMHWbyzVm1l2LyLEvEEFzValr6nJSWf8z7SH9ta/AKY/I7hSJS84vEkgYge+LF8sf18kusOa+W5SVQNSg3q+dwJ8YJcyJ3rUtOTD0sypOG1TxOXgurbVPQkqf1x0ES9y6n/2equpAViwSQP+qDUosK3GTavHRFDuabn9Yjy3vjDsYCAdP2vhmn5ZkrNSJ5DUxMymAHz8em6i4vP6+lcq2mxT7Q5QNL0=;8QcP/iFdbO3FsGi3ViNZBQ=="
+secured: "o7TWV3Lg51mHqhFmC0d+4iLYGXcfeiAEYwY2Vh6iCo7b/eFk49KTJcyptNNguE4CeEm2GnBkfTyOXNoVpVJZvm/HTZ6RD5k/qWDurY4TYn8RX8wZQoe6M2FtPoJYdIDCSDKOX7ykS0YiM6mhBtkEdSE8jNv2XddPP1xRDh5oe3BmMG0nUXxzsfuxjxAyBcu7icpd2qH5zB6PIKXyS/WOxThtFzt8WuI10rRIsGMvIl5WOAvFE/EpHM+LhzWvJz/IahxolpUyuhNfsKOunFlHfzhfWzx/WY94ctGleorsPfH4xRYHnQu2QoxmJxhkvaOotXawTHATuptlTlrYx7WbYtp77funj5me2f7P/1FQkhop1dihUYMBBDQfDxJOdmeyMF7kHuwworlmpyZvmuNjqzKDGch+ZQI5joIlzGRpxOXmnWoZKigR2Gq709HEGxLRe3KJGHWtVmW5C7O53N8IRyeKg2rK6qQAQVs9UhpCDT9m1doZzh1rhcgu5Hlj9z9lQ8xBS4KojS5PmPi2wZlgQA==;kE8AjUzAZxiQJGjlo+wjXw=="
 ---
 

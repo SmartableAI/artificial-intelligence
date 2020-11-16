@@ -1,28 +1,24 @@
 ---
 category: news
 title: "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker"
-excerpt: "Delivering fast and reliable machine learning business solutionsJERSEY CITY, N.J., Nov. 11, 2020 /PRNewswire/ -- ElectrifAi, one of the global"
-publishedDateTime: 2020-11-11T18:57:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683"
-webUrl: "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683"
+excerpt: "Amazon SageMaker is a fully managed service from Amazon Web Services (AWS) that provides every developer and data scientist with the ability to build, train, and deploy ML models quickly. Delivering fast and reliable results, ElectrifAi is pleased to ..."
+publishedDateTime: 2020-11-12T01:04:00Z
+originalUrl: "https://www.thaipr.net/it/1033083"
+webUrl: "https://www.thaipr.net/it/1033083"
 type: article
+quality: 51
+heat: 51
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: thaipr.net
+  domain: thaipr.net
 
 topics:
-  - AI in Finance
+  - AWS AI
   - AI
   - Machine Learning
-  - AWS AI
 
-secured: "v2LmozB8BfFimmy2TeB/dB4XEuygz/yu+fSLzpLSCFNzx8Q0sbshXIe8iNyfSLYkbVyAnIBGsb38HHmUvN7iMRx7H9+m5jNtLUYvQ/opejjG9GSZ+j6U+tDannTiSKlWtIiAs2rIPvJE6xxCJuHccCr57Q/zgK1o/F6lgKbZDqhYsbLleofBfuYfS+fmbA1kaVKOs9SYyUbxPErUXo9Uvijw90HvJ8FQlTMiDKk9ktmNzFe9NmvkCKTjw5ds47e62jRzgL6aZC5hYt2UyELJZK82ASwNxhoGHwIdPSgU+7jmXTPh3dTr6hrLXuCgXEIA4cYMKKucFJ4epZ9hu+kKCUmptXyxllt0r8PtXetVsMA=;q13FIA1l+7KJBLx7Os5SNA=="
+secured: "2xNxp3FXOUhr7GE5fEYQlASy4Mw/FB6Dw75V+wiBroMj8ApA+CBYYHxJ7NP9JdduwEl9H7C6gSw3+vjKeHLjxBe1sH+az+5bJtqG/e3UIWkKxtX4He/NSPpD5o5WLvIPsXVz14e5wGGzsyYQfBYKUEb0HTy7uy0M8E5hGLsDzkohiHcyKLyePD0yMzgyfbXYppgforGLNWSvoZxkGLc+tZtqZxSz+l/U4Rwk4hHdQE1JY7bjLkuV2JUlaYOzw5GHXqcG+PKxlJ7+NKigYPmG5V2yQNyG6yLegy+JRQzHhkfK/cXGO197LQv9Pap8ykFFE9sgcb1XZ6DAD3XooS8s5Pkwm0TLYv4Cu7EH3caWa1k=;y4JREUdi3Fza7Woy25/qhA=="
 ---
 

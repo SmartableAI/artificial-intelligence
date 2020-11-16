@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 802
         isCached: true
+  - title: "Honda To Produce Self-Driving Cars Capable Of Navigating Heavy Traffic"
+    excerpt: "Shutterstock The Honda Legend luxury sedan will have \"traffic jam pilot\" technology, allowing drivers to take their eyes off the road"
+    publishedDateTime: 2020-11-13T10:16:00Z
+    webUrl: "https://www.kabc.com/2020/11/13/honda-to-produce-self-driving-cars-capable-of-navigating-heavy-traffic/"
+    type: article
+    provider:
+      name: KABC
+      domain: kabc.com
+    quality: 24
+    images:
+      - url: "https://express-images.franklymedia.com/6616/sites/320/2020/11/12115213/autonomous-car-shutterstock_643585552.jpg"
+        width: 589
+        height: 424
+        isCached: true
 
 secured: "ZP7pSvA9YFSJBCobWFF8oZWMmYqWdtqbvw6Q6VqsBtPRbMYFvFGqvNqQFnqAxveDU3a4Dc3UoCJ3K54bTA4iUvXyYC7bCw2llZfwZZ0RdXS0QuN7xi05SDhPVJEMpXLmtxPoLE19KiJFARguiCVpAr8mwZLZVN7cs8MZyAp9l0I9GiVtSFqiXIJiogL3sVkBF1dJdX0Gl+ftlbe73ZpfRB7vnkr1dFqawLYLFLHZuHqfmpsmlk5zd9vtjzkA68j2ViR6ji6lfqQxUH6zTzLtRz+I7mNWkpKIepQG7HEOHktjmfFlEqRMY0rCS4XH6e5+EsOK2Bu1lWulFPSz87eEP+hnGbh7VbaCivM+5DGsK9IWGI1bwQmBYqku0shte7Poq73aH50kwOmHgJKt/2KHc2RaxjZ7sgR3aqFs66yRS5mKK1HCsqBpAyMdUCIz/k59kMIBV8DDDupuu3AWoDMjbSnQFawBLwaMIAQ3AeY2vXaaq6USWdU/oiM4MR1mjPX7Yz1k4RAROjAdDk7ACkIQPg==;d9h2/2/Etfv0kawz32bfyg=="
 ---
