@@ -76,14 +76,19 @@ related:
         height: 300
         isCached: true
   - title: "Computer vision app allows easier monitoring of diabetes"
-    excerpt: "A computer vision technology developed by engineers has now been developed into a free mobile phone app for regular monitoring of glucose levels in people with diabetes."
-    publishedDateTime: 2020-11-13T18:20:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/11/201113124045.htm"
+    excerpt: "A computer vision technology developed by University of Cambridge engineers has now been developed into a free mobile phone app for regular monitoring of glucose levels in people with diabetes."
+    publishedDateTime: 2020-11-13T16:49:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/uoc-cva111320.php"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/248789_web.jpg"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "cdcAnStPLCgLIdMN6AcEjZAhJ3pXhlN/0vFM6Z1TWgpZmJlvRJHuYPUbm0WqQB7bIFVbxCIum6fzeZ65dDQPaJzhxy60mgXmvmFuuaCtHEcQazg7nlUMUGOp5GxA0DzDgB9awhBIQCe9L0OUJAqjqlf4hHK9GmOX68SKUKuxFHZhMH76QADQ3eVAXjXnbtRdmAyqJmnIHj+CxP2fHYP8mdpr6wGvJ88JJCiFOLxWRL3AsmasMf5aJfjbNPDTNe4dR8dJS1nWX3cDDJnpCRFU1gXw+VOrhX+KjLldT71GK/2KgT3OCBibuE4Lq1yh4MuBaJEF7q+yDkzJn4EGrGrFec688UVIGG944sUpEeOxhLg=;OF81ENEaN6IewvDHlimj3g=="
 ---

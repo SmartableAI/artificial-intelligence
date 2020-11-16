@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Computer vision app allows easier monitoring of diabetes"
-excerpt: "A computer vision technology developed by engineers has now been developed into a free mobile phone app for regular monitoring of glucose levels in people with diabetes."
-publishedDateTime: 2020-11-13T18:20:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2020/11/201113124045.htm"
-webUrl: "https://www.sciencedaily.com/releases/2020/11/201113124045.htm"
+excerpt: "A computer vision technology developed by University of Cambridge engineers has now been developed into a free mobile phone app for regular monitoring of glucose levels in people with diabetes."
+publishedDateTime: 2020-11-13T16:49:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-11/uoc-cva111320.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-11/uoc-cva111320.php"
 type: article
-quality: 49
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://www.eurekalert.org/multimedia/pub/web/248789_web.jpg"
+    width: 1440
+    height: 960
+    isCached: true
 
 related:
   - title: "Computer vision mobile app can regularly monitor diabetes"
@@ -88,6 +90,6 @@ related:
         height: 300
         isCached: true
 
-secured: "aFrfS1GgWF9VWl7PJaJ8vtt9ZI/btiz2jlhNo4Mm4OauBZZ3zXDLOcFiJnBPLqyZB6L0e9PGoHqm56bf5LyrEfJc7lwkTcEXK9r2QwOyCR1YVdfTpb7zCG8eFLRGBVe9pbw0sokmQ+WsLR++SErTklEghMx+91D7wdiTilgvhRMfqQR1tu+28ZOirM0jXPO6K1iTXczULTPenDCCev9taoT1cZssvDiI9i4tuMP8v7UCCcuIrJUUobBXtVD5wKwMtu6DS4dKzgDQxRFSGTKq4X+rXTL0JyqxFUoPw6Hqvc6tMvtBzg5XXX2uRgTW94VPn8jsdJU/t1zPd8hY/wD4eJoSn08KnbadP/bLYs0+ktg=;ABZo3VjDxB1qsRZkBgBfIQ=="
+secured: "j2pHxTNo3UqsNzpIZxcuyCPWMdaS45Og2m+ij9ShWoMisrKY61jBvWPjgmbixITEEirvrAZGIDg1glWffxI38wtD3BBPnZaS4c8UII+4+cBSpBF1ha9NE5L9qSOa4DYLS+2fojjQjKLV8qrxztitQYYigXEsmg3i0AdZekKxdR8lQtkIAc3J07bBaf0SkXY9cRPHr4hLkgx+dlWzZN2JBgaXqhfQPunnZcDNXJidsib5EeDJGs/df+VRLtBSoBnzmuVNrE2gI29rAKw/GBK/PpJixF7da1TRI8nNCHE/8sLqZtD9++WOrqF2YkSB/ndgZY3r3sBm8zPxt/5CD76dCCImlhDEtawi1m+vKNnKOGs=;vR8PfYW9JOHN7C4EUeP8Ew=="
 ---
 

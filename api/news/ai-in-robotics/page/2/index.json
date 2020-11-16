@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-11-06-an-ai-robot-wrote-my-term-paper.md",
-      "title": "An AI Robot Wrote My Term Paper",
-      "excerpt": "As personal computers and search engines have become ubiquitous, and AI and ML have risen in prominence, the idea of having a computer find the excerpts and actually write an essay, is no longer science fiction.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/timbajarin/2020/11/06/an-ai-robot-wrote-my-term-paper/",
-      "originalUrl": "https://www.forbes.com/sites/timbajarin/2020/11/06/an-ai-robot-wrote-my-term-paper/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa46a48a9ca8d255a37c8bd%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/timbajarin/2020/11/06/an-ai-robot-wrote-my-term-paper/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2020/11/06/an-ai-robot-wrote-my-term-paper/amp/",
-      "publishedDateTime": "2020-11-06T07:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-06-self-driving-startup-ponyai-gets-funding-from-chinas-faw.md",
       "title": "Self-Driving Startup Pony.ai Gets Funding From China’s FAW",
       "excerpt": "After receiving a $400 million investment from Toyota earlier this year, self-driving startup Pony.ai has just struck another agreement with the Chinese FAW Group. This is the first strategic investment by a Chinese state-owned car company into an autonomous tech firm,",
@@ -1422,6 +1370,59 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-artificial-intelligence-market-will-reflect-significant-growth-prospects-during-2019-2025.md",
+      "title": "Artificial Intelligence Market Will Reflect Significant Growth Prospects during 2019-2025",
+      "excerpt": "The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations in the growth of the industry in certain regions. The developments of a lot of human-like robots and increase within their preparation rate in the developing regions have had a considerable impact on the overall computing (AI) market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-will-reflect-significant-growth-prospects-during-2019-2025-2020-10-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-will-reflect-significant-growth-prospects-during-2019-2025-2020-10-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T20:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

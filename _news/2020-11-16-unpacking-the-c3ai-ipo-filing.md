@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2020/11/16/unpacking-the-c3-ai-ipo-filing/amp
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/16/unpacking-the-c3-ai-ipo-filing/amp/"
 type: article
 quality: 87
-heat: 117
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -30,21 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Dissecting C3.ai’s secret sauce: less about AI, more about fixing Hadoop"
-    excerpt: "While C3.ai claims to be an AI company, its patented technology is really a platform-as-a-service for the Internet of Things with some fairly standard AI mixed in."
-    publishedDateTime: 2020-11-16T15:50:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/"
+  - title: "C3.ai files S-1 for IPO, to list on NYSE under ticker symbol 'AI'"
+    excerpt: "Enterprise AI software company C3.ai filed its S-1 prospectus for an IPO with the SEC. The company will list its shares on the NYSE under the symbol AI."
+    publishedDateTime: 2020-11-16T17:00:00Z
+    webUrl: "https://www.cnbc.com/2020/11/16/c3ai-files-s-1-for-ipo-to-list-on-nyse-under-ticker-symbol-ai.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/11/16/c3ai-files-s-1-for-ipo-to-list-on-nyse-under-ticker-symbol-ai.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/16/c3ai-files-s-1-for-ipo-to-list-on-nyse-under-ticker-symbol-ai.html"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 86
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
     images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/11/16/4fc135c9-1fd6-4648-8ecb-c0a496c0dcd8/c3ai-2020-model-driven-architecture-system.png"
-        width: 1724
-        height: 1276
+      - url: "https://image.cnbcfm.com/api/v1/image/104705430-1605541590260-104705430-20170912-8176-2437_copy.jpg?v=1605541603"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "C3.ai, machine learning startup backed by software pioneer Tom Siebel, files for IPO"
     excerpt: "The software-as-a-service company that has been using masses of GPUs to run deep learning programs plans to list under the ticker “AI.”"

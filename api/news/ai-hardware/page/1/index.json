@@ -114,7 +114,7 @@
       "originalUrl": "https://venturebeat.com/2020/11/16/amd-launches-instinct-mi100-accelerator-chips-for-scientific-research/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -214,8 +214,8 @@
       "title": "Nvidia unveils new DGX Station AI workstation, joining market for AI appliances",
       "excerpt": "The GPU maker uses the annual SC20 supercomputing event to unveil a desktop model of AI computer with a new GPU.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/nvidia-unveils-new-dgx-station-ai-workstation-in-a-desktop-form/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/nvidia-unveils-new-dgx-station-ai-workstation-in-a-desktop-form/",
+      "webUrl": "https://www.zdnet.com/article/nvidia-unveils-new-dgx-station-ai-workstation-in-a-desktop-form/",
+      "originalUrl": "https://www.zdnet.com/article/nvidia-unveils-new-dgx-station-ai-workstation-in-a-desktop-form/",
       "featuredContent": null,
       "highlight": null,
       "heat": 85,
@@ -232,8 +232,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/nvidia-unveils-new-dgx-station-ai-workstation-in-a-desktop-form/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/nvidia-unveils-new-dgx-station-ai-workstation-in-a-desktop-form/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-unveils-new-dgx-station-ai-workstation-in-a-desktop-form/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-unveils-new-dgx-station-ai-workstation-in-a-desktop-form/",
       "publishedDateTime": "2020-11-15T22:52:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -257,8 +257,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "AI"
       ]
     },
     {

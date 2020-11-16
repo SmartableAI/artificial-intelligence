@@ -3,14 +3,14 @@ category: news
 title: "Dissecting C3.ai’s secret sauce: less about AI, more about fixing Hadoop"
 excerpt: "While C3.ai claims to be an AI company, its patented technology is really a platform-as-a-service for the Internet of Things with some fairly standard AI mixed in."
 publishedDateTime: 2020-11-16T15:50:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/"
-webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/"
+originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/"
+webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/"
 type: article
 quality: 86
-heat: -1
-published: false
+heat: 86
+published: true
 
 provider:
   name: ZDNet
@@ -29,42 +29,6 @@ images:
     height: 1276
     isCached: true
 
-related:
-  - title: "Unpacking the C3.ai IPO filing"
-    excerpt: "The last thing I recall thinking about C3.ai (C3) was seeing its billboards outside San Francisco and asking myself what the hell the company actually did and how much it was spending on a huge outdoor advertisements."
-    publishedDateTime: 2020-11-16T15:44:00Z
-    webUrl: "https://techcrunch.com/2020/11/16/unpacking-the-c3-ai-ipo-filing/"
-    ampWebUrl: "https://techcrunch.com/2020/11/16/unpacking-the-c3-ai-ipo-filing/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/16/unpacking-the-c3-ai-ipo-filing/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/05/exchange-banner-sq-grn.jpg?w=300"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "C3.ai, machine learning startup backed by software pioneer Tom Siebel, files for IPO"
-    excerpt: "The software-as-a-service company that has been using masses of GPUs to run deep learning programs plans to list under the ticker “AI.”"
-    publishedDateTime: 2020-11-13T04:59:00Z
-    webUrl: "https://www.zdnet.com/article/c3-ai-machine-learning-startup-backed-by-software-pioneer-tom-siebel-files-for-ipo/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 57
-  - title: "Enterprise AI software maker C3.ai files for a $100 million IPO"
-    excerpt: "C3.ai, which provides SaaS applications for the deployment of enterprise AI applications, filed on Friday with the SEC to raise up to $100 million in an initial public offering. The company provides SaaS applications that enable the rapid deployment of enterprise-scale AI applications on Azure,"
-    publishedDateTime: 2020-11-13T22:26:00Z
-    webUrl: "https://www.nasdaq.com/articles/enterprise-ai-software-maker-c3.ai-files-for-a-%24100-million-ipo-2020-11-13"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
-
-secured: "RdLRjhY242Qs8DAiQ/J67gXDR7LgMAb9E2717uHk1jvdI/nIECo4pyitzEWS2fWtO8EOcn6gOL7zqcIZI+OiT7duPJnRHxX8Jof3oh6Y+F+KHTJl1MRRUwXCmSujYiiwSzPt5wB3RDy64E4Q5lFeEFILOOW1QtkLzeHnRe2wkZdSg0Fuaqih71var4dWfcTJuloDDORKvF20u+UBq3puSB1eRTp89p2llgHR88s33iNIwLN0N3S8Y1xhIsZ7ab6SAUhcQN9xylAZHEOgq4N7aMfwFpoHnXRbEHCBSbzeuzPy8j/tncZWR/7LzKHl6qh2Dcel9lRt4+C4AlnqQWgx8FGp1DnqAPHMf0VCi2BnUEY=;606HCDGLAs/P/+bACCHuuw=="
+secured: "ashiDCoQrC812ny8g22wJ9NAnz34N6tESjlWOT8b8/njS2YVuUUUfLM5oT5RfICmPmqIg2Y1xVwFMyYb19GxmWQoZry4Uxg+diFN4ZfWoCx/MITwXyEla5GF3qSYShQ/0AipxPDcnD8MXMQKfYSn7qoVsE37ltF6+i/j2Cw7qz6q1Rj+1HK58vRaqSA/b6w3+91RBuiZNzyCen3UWht/h9RPdYM1uot+iWyTd5auIiOX12DE8mlHIQMv/nBoPYH0J2K6F0VT2K/B4CdSTG8DPDUT1Yw0NhYSQ0MSom8Q8TyXmD29qn0FJVcT76YYG7AkpwBn/V9JEqqARZQh0RfAP3kJclZ94D+M/L99kLkvDy0=;d7fXcTGOf9XzobjO/OiSKQ=="
 ---
 

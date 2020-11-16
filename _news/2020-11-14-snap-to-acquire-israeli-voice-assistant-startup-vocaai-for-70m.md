@@ -54,20 +54,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "Snap acquires Israeli voice assistant startup Voca.ai for $70M"
-    excerpt: "Snap Inc. has acquired Israeli voice assistant solutions startup Voca.ai Ltd. for $70 million, according to reports today from Calcalist and Globes referencing people with knowledge of the deal. Neither Snap nor Voca."
-    publishedDateTime: 2020-11-12T02:13:00Z
-    webUrl: "https://siliconangle.com/2020/11/11/snap-acquires-israeli-voice-assistant-startup-voca-ai-70m/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/vocaai.jpeg"
-        width: 768
-        height: 511
-        isCached: true
   - title: "Snap to buy Israeli startup Voca.ai for USD 70 mln - report"
     excerpt: "Snap has reportedly agreed to buy startup Voca.ai, an Israeli company specialised in making AI-based voice assistants for customer support services, for an estimated USD 70 million, Calcalistech. The publication said the company,"
     publishedDateTime: 2020-11-12T08:56:00Z

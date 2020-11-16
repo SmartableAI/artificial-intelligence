@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/16/amd-launches-instinct-mi100-accel
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/16/amd-launches-instinct-mi100-accelerator-chips-for-scientific-research/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -118,6 +118,20 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/AMD_Instinct_MI100_GPU.2e16d0ba.fill-1200x630.png"
         width: 678
         height: 357
+        isCached: true
+  - title: "AMD Announces Instinct MI100 Accelerator, New Deployments for HPC and Scientific Research"
+    excerpt: "During this year’s SC20 virtual tradeshow, AMD is showcasing its leadership in the high performance computing (HPC)"
+    publishedDateTime: 2020-11-16T15:41:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/amd-announces-instinct-mi100-accelerator-new-deployments-for-hpc-and-scientific-research/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 15
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/Nvidia_SC20_NDR-400-InfiniBand-405x228.png"
+        width: 405
+        height: 228
         isCached: true
 
 secured: "PRb42N7At4X8n60d+mXqO8vKVCzwN0XacQK2cOv8X9zVqTlpFz+cFoixlsoR0sxfVoICz5FgPCP1Q1eCvQ2qG/CvH4mhGpVQFqcQdI+/pX+3kdJQpbUcFI8Pyh8qUDnO1NfHTfjD4LDbU7MhOljIBZ2fzdJCYTx15/2nPItU3T2lBDraL55GWPJBlwU6imjJlm3i7jTK8XtAq8atNqC68PFc85JHGzPeZZy1RRKM+Q2uxQ+4qChuQoqxHy0Rnh6KNslSrNV4Sn2VXKOfP9gwNLnDrcn9UtWfS1LfmtsAfbvqFDA3+1TzynZpePJgyCeHppHBpOz2IZp9z/YL600DIZUBi+WpNHVAQxBRBGSrdYJQPfwwGC65KFXD0o002BVA0+9jdDfyBVcVdqE1pDpZfVfCP243LV/4+qrZweSWN0sptuITtTPmka7za4VSroLXE8hpVBLblRjBDOzjIg+6hxnUCTvIsdbbCCVdEm2G0zaHBx+oCj5filjr96F4gbX98nqfnEMw7PZYKFla2r9gsA==;WcbhpBT9v6wii+FCh13nEA=="

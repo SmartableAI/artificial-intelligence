@@ -8,8 +8,8 @@ webUrl: "https://www.express.co.uk/news/science/1360742/artificial-intelligence-
 ampWebUrl: "https://www.express.co.uk/news/science/1360742/artificial-intelligence-consciousness-news-openai-technology-gpt3-ai-conscious-evg/amp"
 cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1360742/artificial-intelligence-consciousness-news-openai-technology-gpt3-ai-conscious-evg/amp"
 type: article
-quality: 66
-heat: 66
+quality: 68
+heat: 68
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://cdn.images.express.co.uk/img/dynamic/151/590x/artificial-intelligence-consciousness-news-openai-technology-gpt3-ai-conscious-1360742.jpg?r=1605535753007"

@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-20-ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud.md",
+      "title": "IBM's Q3 solid with strength in Red Hat, hybrid cloud",
+      "excerpt": "Cognitive applications were up 1% and cloud sales were up more than 60%. Global business services, which includes consulting, application management and global process services, had revenue of $4 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud/",
+      "originalUrl": "https://www.zdnet.com/article/ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/10/16/64b67a52-7c39-42aa-9676-9c3987ea7e57/thumbnail/1200x675/7538a9bb7ca841a758272e29aa0937f0/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud/",
+      "publishedDateTime": "2020-10-19T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-jake-tapper-pushes-back-when-lara-trump-insists-biden-has-cognitive-decline.md",
       "title": "Jake Tapper Pushes Back When Lara Trump Insists Biden Has 'Cognitive Decline'",
       "excerpt": "CNN's Jake Tapper cut short an interview with President Donald Trump's daughter-in-law and campaign adviser, Lara Trump, after she claimed that Democratic nominee Joe Biden suffers from cognitive ...",
@@ -1347,50 +1399,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-ucsf-fortanix-intel-and-microsoft-azure-utilize-privacy-preserving-analytics-to-accelerate-ai-in-healthcare.md",
-      "title": "UCSF, Fortanix, Intel, and Microsoft Azure Utilize Privacy-Preserving Analytics to Accelerate AI in Healthcare",
-      "excerpt": "UC San Francisco’s Center for Digital Health Innovation (CDHI), Fortanix, Intel, and Microsoft Azure today have formed a collaboration to establish a confidential computing platform with privacy-preserving analytics to accelerate the development and validation of clinical algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201007005922/en/UCSF-Fortanix-Intel-and-Microsoft-Azure-Utilize-Privacy-Preserving-Analytics-to-Accelerate-AI-in-Healthcare/?feedref=JjAwJuNHiystnCoBq_hl-YChnX-dlxR7bnql9VXy9e5cS3CA0Bo2lHArOQl-PHrIrCOi9QzgjCezTS3Nw_X6kJUrpSBm-Hav1w-UkdSlG3k-cHwnfBrk8h_RXgEUlyPTLkaZDLiczsahzEklD3R10Q%3D%3D",
-      "originalUrl": "https://www.businesswire.com/news/home/20201007005922/en/UCSF-Fortanix-Intel-and-Microsoft-Azure-Utilize-Privacy-Preserving-Analytics-to-Accelerate-AI-in-Healthcare/?feedref=JjAwJuNHiystnCoBq_hl-YChnX-dlxR7bnql9VXy9e5cS3CA0Bo2lHArOQl-PHrIrCOi9QzgjCezTS3Nw_X6kJUrpSBm-Hav1w-UkdSlG3k-cHwnfBrk8h_RXgEUlyPTLkaZDLiczsahzEklD3R10Q%3D%3D",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201007005922/en/828476/23/UCSF_sig_navy_RGB.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

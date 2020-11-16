@@ -29,43 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "Voice and Speech Recognition Market by Size, Growth, Opportunity and Forecast to 2026"
-    excerpt: "Selbyville, Delaware, The Voice and Speech Recognition market study now available with Market Study Report, LLC,"
-    publishedDateTime: 2020-11-12T20:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-by-size-growth-opportunity-and-forecast-to-2026-2020-11-12"
+  - title: "Artificial Intelligence (AI) in Fintech Market 2020 Key Players Update, Regional Economy, Development Plans and Forecast to 2026"
+    excerpt: "Comserve Inc. / -- Global Artificial Intelligence (AI) in Fintech Market is valued approximately USD 2.6 billion"
+    publishedDateTime: 2020-11-13T13:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-2020-key-players-update-regional-economy-development-plans-and-forecast-to-2026-2020-11-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Education Market Report 2020 Expected Growth and its Factors, CAGR, Industry Size, Business Prospects and Forecast 2023"
-    excerpt: "In 2018, the worldwide GDP stood at USD 84,740.3 Billion as compared to the GDP of USD 80,144.5 Billion in 2017, marked"
-    publishedDateTime: 2020-11-12T08:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-report-2020-expected-growth-and-its-factors-cagr-industry-size-business-prospects-and-forecast-2023-2020-11-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence-based Security Market 2021: Forecast, Size, Growth, Opportunities, And Trends By 2030"
-    excerpt: "Market.Biz :COVID-19 Analysis: Turn massive Artificial Intelligence-based Security Market challenges into meaningful change. Its not post-pandemic, its intra-pandemic. Were still in it, and the implications for Artificial Intelligence-based Security Market are long-reaching."
+  - title: "Global Artificial Intelligence (AI) in Medical Market 2021: Outlook And Trends With Analysis Of Leading Players, 2030"
+    excerpt: "Market.Biz :COVID-19 Analysis: Turn massive Artificial Intelligence (AI) in Medical Market challenges into meaningful change. Its not post-pandemic, its intra-pandemic. Were still in it, and the implications for Artificial Intelligence (AI) in Medical Market are long-reaching."
     publishedDateTime: 2020-11-12T10:43:00Z
-    webUrl: "https://apnews.com/press-release/wired-release/technology-business-corporate-news-diseases-and-conditions-products-and-services-52b8b371f729bdf885d124e4f79762ca"
+    webUrl: "https://apnews.com/press-release/wired-release/technology-business-science-corporate-news-diseases-and-conditions-b2f3e09e0e4ae0358279841fce9ae282"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 31
+    quality: 29
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

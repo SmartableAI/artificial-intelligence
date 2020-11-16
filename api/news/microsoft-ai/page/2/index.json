@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-28-global-cognitive-computing-market-2020-business-strategies-cognitive-scale-ibm-corporation-google-palantir-technologies.md",
+      "title": "Global Cognitive Computing Market 2020 Business Strategies – Cognitive Scale, IBM Corporation, Google, Palantir Technologies",
+      "excerpt": "Major Market Players Included in this Report is: Cognitive Scale, IBM Corporation, Google, Palantir Technologies, Microsoft Corporation, Enterra Solutions, and Numenta. The global Cognitive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2174272/global-cognitive-computing-market-2020-business-strategies",
+      "originalUrl": "https://www.openpr.com/news/2174272/global-cognitive-computing-market-2020-business-strategies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2174272/global-cognitive-computing-market-2020-business-strategies",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2174272/global-cognitive-computing-market-2020-business-strategies",
+      "publishedDateTime": "2020-10-28T02:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-intel-geospatial-is-a-cloud-platform-for-ai-powered-imagery-analytics.md",
       "title": "Intel Geospatial is a cloud platform for AI-powered imagery analytics",
       "excerpt": "Moreover, satellite imagery and the AI algorithms trained to analyze it ... visualize geospatial data in BigQuery. Microsoft offers Azure Maps, a set of geospatial APIs to add spatial analytics ...",
@@ -1340,58 +1374,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud.md",
-      "title": "IBM's Q3 solid with strength in Red Hat, hybrid cloud",
-      "excerpt": "Cognitive applications were up 1% and cloud sales were up more than 60%. Global business services, which includes consulting, application management and global process services, had revenue of $4 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud/",
-      "originalUrl": "https://www.zdnet.com/article/ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/10/16/64b67a52-7c39-42aa-9676-9c3987ea7e57/thumbnail/1200x675/7538a9bb7ca841a758272e29aa0937f0/thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud/",
-      "publishedDateTime": "2020-10-19T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

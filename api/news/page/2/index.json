@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-15-china-gets-ready-to-rein-in-baidu-alibaba-and-tencent.md",
+      "title": "China Gets Ready to Rein in Baidu, Alibaba, and Tencent",
+      "excerpt": "Newly drafted antitrust rules could make it tougher for the BAT triumvirate to continue expanding their ecosystems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/11/14/china-gets-ready-rein-in-baidu-alibaba-tencent/",
+      "originalUrl": "https://www.fool.com/investing/2020/11/14/china-gets-ready-rein-in-baidu-alibaba-tencent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F600734%2Fgettyimages-956056544.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 825,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/11/14/china-gets-ready-rein-in-baidu-alibaba-tencent/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/14/china-gets-ready-rein-in-baidu-alibaba-tencent/",
+      "publishedDateTime": "2020-11-14T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-15-you-cant-eliminate-bias-from-machine-learning-but-you-can-pick-your-bias.md",
+      "title": "You can’t eliminate bias from machine learning, but you can pick your bias",
+      "excerpt": "But while an absence of bias makes sense on a human level, in the world of machine learning, it’s a bit different. In machine learning theory, if you can mathematically prove you don’t have ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/14/you-cant-eliminate-bias-from-machine-learning-but-you-can-pick-your-bias/",
+      "originalUrl": "https://venturebeat.com/2020/11/14/you-cant-eliminate-bias-from-machine-learning-but-you-can-pick-your-bias/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/05/mobile-devices-emitting-data-in-a-crowd-of-people-picture-id522636128-1.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/14/you-cant-eliminate-bias-from-machine-learning-but-you-can-pick-your-bias/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/14/you-cant-eliminate-bias-from-machine-learning-but-you-can-pick-your-bias/amp/",
+      "publishedDateTime": "2020-11-14T08:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-15-how-the-department-of-the-air-force-is-driving-forward-with-ai.md",
       "title": "How The Department Of The Air Force Is Driving Forward With AI",
       "excerpt": "Leaders such as Ms. Eileen Vidrine, who is the Chief Data Officer at the Department of the Air Force understand the importance of adopting tools such as advanced data analytics, AI, and ML to help in the increasingly disruptive battlefield.",
@@ -108,8 +212,8 @@
       "title": "Velodyne aims to price new self-driving car sensor below $500",
       "excerpt": "Velodyne Lidar Inc said on Friday it would introduce a new lidar unit, a key sensor in self-driving cars, with a target price point of less than $500 and no moving parts.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/velodyne-lidar-tech-idUSKBN27U03K",
-      "originalUrl": "https://www.reuters.com/article/velodyne-lidar-tech-idUSKBN27U03K",
+      "webUrl": "https://www.reuters.com/article/velodyne-lidar-tech/update-1-velodyne-aims-to-price-new-self-driving-car-sensor-below-500-idUSL1N2HZ2BS",
+      "originalUrl": "https://www.reuters.com/article/velodyne-lidar-tech/update-1-velodyne-aims-to-price-new-self-driving-car-sensor-below-500-idUSL1N2HZ2BS",
       "featuredContent": null,
       "highlight": null,
       "heat": 119,
@@ -126,8 +230,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27U03K",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27U03K",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27T1PP",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T1PP",
       "publishedDateTime": "2020-11-14T01:24:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -1144,110 +1248,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-robots-join-the-sales-team.md",
-      "title": "Robots Join the Sales Team",
-      "excerpt": "Brokers can hand off tours of listings and the litany of client questions to their bionic colleagues, but a human has to step in when a deal is ready to be made.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/13/realestate/real-estate-robots-ai.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/13/realestate/real-estate-robots-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/15/realestate/13robots/13robots-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/13/realestate/real-estate-robots-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/13/realestate/real-estate-robots-ai.amp.html",
-      "publishedDateTime": "2020-11-13T05:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-pandorabots-bot-battle-highlights-lack-of-industrywide-metrics-for-open-domain-ai.md",
-      "title": "Pandorabots’ Bot Battle highlights lack of industrywide metrics for open domain AI",
-      "excerpt": "Emerging technology fields need industrywide metrics to measure progress. When you’re a pun-loving chatbot startup called Pandorabots and you want to call for better metrics, you put on a flashy Bot Battle.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/13/pandorabots-bot-battle-highlights-lack-of-industrywide-metrics-for-open-domain-ai/",
-      "originalUrl": "https://venturebeat.com/2020/11/13/pandorabots-bot-battle-highlights-lack-of-industrywide-metrics-for-open-domain-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/bot-battle-kuki.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/13/pandorabots-bot-battle-highlights-lack-of-industrywide-metrics-for-open-domain-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/13/pandorabots-bot-battle-highlights-lack-of-industrywide-metrics-for-open-domain-ai/amp/",
-      "publishedDateTime": "2020-11-13T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-17-deepmind-open-sources-lab2d-a-grid-based-environment-for-reinforcement-learning-research.md",
+      "title": "DeepMind open-sources Lab2D, a grid-based environment for reinforcement learning research",
+      "excerpt": "DeepMind this week open-sourced Lab2D, a software system designed to support the creation of 2D environments for AI and machine learning research. The Alphabet subsidiary says that Lab2D was built ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/16/deepmind-open-sources-lab2d-a-grid-based-environment-for-reinforcement-learning-research/",
+      "originalUrl": "https://venturebeat.com/2020/11/16/deepmind-open-sources-lab2d-a-grid-based-environment-for-reinforcement-learning-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&strip=all",
+          "width": 1198,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/16/deepmind-open-sources-lab2d-a-grid-based-environment-for-reinforcement-learning-research/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/16/deepmind-open-sources-lab2d-a-grid-based-environment-for-reinforcement-learning-research/amp/",
+      "publishedDateTime": "2020-11-16T09:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-c3ai-files-s-1-for-ipo-to-list-on-nyse-under-ticker-symbol-ai.md",
+      "title": "C3.ai files S-1 for IPO, to list on NYSE under ticker symbol 'AI'",
+      "excerpt": "Enterprise AI software company C3.ai filed its S-1 prospectus for an IPO with the SEC. The company will list its shares on the NYSE under the symbol AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/11/16/c3ai-files-s-1-for-ipo-to-list-on-nyse-under-ticker-symbol-ai.html",
+      "originalUrl": "https://www.cnbc.com/2020/11/16/c3ai-files-s-1-for-ipo-to-list-on-nyse-under-ticker-symbol-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104705430-1605541590260-104705430-20170912-8176-2437_copy.jpg?v=1605541603",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/11/16/c3ai-files-s-1-for-ipo-to-list-on-nyse-under-ticker-symbol-ai.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/16/c3ai-files-s-1-for-ipo-to-list-on-nyse-under-ticker-symbol-ai.html",
+      "publishedDateTime": "2020-11-16T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-intervenn-biosciences-raises-34-million-to-accelerate-cancer-test-development-with-ai.md",
       "title": "InterVenn Biosciences raises $34 million to accelerate cancer test development with AI",
       "excerpt": "InterVenn Biosciences, a company developing an AI-imbued platform for diagnostic cancer test design, raised $34 million.",
@@ -156,21 +260,21 @@
       ]
     },
     {
-      "path": "_news/2020-11-16-unpacking-the-c3ai-ipo-filing.md",
-      "title": "Unpacking the C3.ai IPO filing",
-      "excerpt": "The last thing I recall thinking about C3.ai (C3) was seeing its billboards outside San Francisco and asking myself what the hell the company actually did and how much it was spending on a huge outdoor advertisements.",
+      "path": "_news/2020-11-17-machine-learning-in-banking-and-marketing-applications-for-2021-and-beyond.md",
+      "title": "Machine learning in banking and marketing applications for 2021 and beyond",
+      "excerpt": "Artificial intelligence (AI) and machine learning in banking make the strongest combination possible. Since these technologies are versatile, there are a lot of ways to use them across industries,",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/16/unpacking-the-c3-ai-ipo-filing/",
-      "originalUrl": "https://techcrunch.com/2020/11/16/unpacking-the-c3-ai-ipo-filing/",
+      "webUrl": "https://roboticsandautomationnews.com/2020/11/16/machine-learning-in-banking-and-marketing-applications-for-2021-and-beyond/38220/",
+      "originalUrl": "https://roboticsandautomationnews.com/2020/11/16/machine-learning-in-banking-and-marketing-applications-for-2021-and-beyond/38220/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 81,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/exchange-banner-sq-grn.jpg?w=300",
-          "width": 300,
-          "height": 300,
+          "url": "https://roboticsandautomationnews.com/wp-content/uploads/2020/11/Picture1.png",
+          "width": 750,
+          "height": 499,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -178,16 +282,61 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/16/unpacking-the-c3-ai-ipo-filing/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/16/unpacking-the-c3-ai-ipo-filing/amp/",
-      "publishedDateTime": "2020-11-16T07:44:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-16T08:04:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "Robotics & Automation News",
+        "domain": "roboticsandautomationnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Marketing",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-dissecting-c3ais-secret-sauce-less-about-ai-more-about-fixing-hadoop.md",
+      "title": "Dissecting C3.ai’s secret sauce: less about AI, more about fixing Hadoop",
+      "excerpt": "While C3.ai claims to be an AI company, its patented technology is really a platform-as-a-service for the Internet of Things with some fairly standard AI mixed in.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/11/16/4fc135c9-1fd6-4648-8ecb-c0a496c0dcd8/c3ai-2020-model-driven-architecture-system.png",
+          "width": 1724,
+          "height": 1276,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/",
+      "publishedDateTime": "2020-11-16T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -363,49 +512,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-16-aspire2050-signs-deal-to-bring-virtual-robotics-to-students-in-the-united-states.md",
-      "title": "ASPIRE2050 Signs Deal to Bring Virtual Robotics to Students in the United States",
-      "excerpt": "ASPIRE2050, a newly formed company offering educational robotics for students, will bring Robotify to learners in the United States. All students deserve opportunities to work with the best possible technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/aspire2050-signs-deal-to-bring-virtual-robotics-to-students-in-the-united-states-1029806607",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/aspire2050-signs-deal-to-bring-virtual-robotics-to-students-in-the-united-states-1029806607",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/aspire2050-signs-deal-to-bring-virtual-robotics-to-students-in-the-united-states-1029806607",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/aspire2050-signs-deal-to-bring-virtual-robotics-to-students-in-the-united-states-1029806607",
-      "publishedDateTime": "2020-11-16T06:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-16-the-eyes-have-it-the-future-of-human-machine-relations.md",
       "title": "The Eyes Have It: The Future Of Human-Machine Relations",
       "excerpt": "This kind of eye contact is all about making the daily work of employees more convenient, ergonomically-friendly, and even fun by controlling applications based on user intention – via eye tracking.",
@@ -518,7 +624,7 @@
       "originalUrl": "https://venturebeat.com/2020/11/16/amd-launches-instinct-mi100-accelerator-chips-for-scientific-research/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -865,8 +971,8 @@
       "title": "Nvidia unveils new DGX Station AI workstation, joining market for AI appliances",
       "excerpt": "The GPU maker uses the annual SC20 supercomputing event to unveil a desktop model of AI computer with a new GPU.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/nvidia-unveils-new-dgx-station-ai-workstation-in-a-desktop-form/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/nvidia-unveils-new-dgx-station-ai-workstation-in-a-desktop-form/",
+      "webUrl": "https://www.zdnet.com/article/nvidia-unveils-new-dgx-station-ai-workstation-in-a-desktop-form/",
+      "originalUrl": "https://www.zdnet.com/article/nvidia-unveils-new-dgx-station-ai-workstation-in-a-desktop-form/",
       "featuredContent": null,
       "highlight": null,
       "heat": 85,
@@ -883,8 +989,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/nvidia-unveils-new-dgx-station-ai-workstation-in-a-desktop-form/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/nvidia-unveils-new-dgx-station-ai-workstation-in-a-desktop-form/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-unveils-new-dgx-station-ai-workstation-in-a-desktop-form/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-unveils-new-dgx-station-ai-workstation-in-a-desktop-form/",
       "publishedDateTime": "2020-11-15T22:52:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -908,8 +1014,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -1152,110 +1258,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-china-gets-ready-to-rein-in-baidu-alibaba-and-tencent.md",
-      "title": "China Gets Ready to Rein in Baidu, Alibaba, and Tencent",
-      "excerpt": "Newly drafted antitrust rules could make it tougher for the BAT triumvirate to continue expanding their ecosystems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/11/14/china-gets-ready-rein-in-baidu-alibaba-tencent/",
-      "originalUrl": "https://www.fool.com/investing/2020/11/14/china-gets-ready-rein-in-baidu-alibaba-tencent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F600734%2Fgettyimages-956056544.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 825,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/11/14/china-gets-ready-rein-in-baidu-alibaba-tencent/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/14/china-gets-ready-rein-in-baidu-alibaba-tencent/",
-      "publishedDateTime": "2020-11-14T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-you-cant-eliminate-bias-from-machine-learning-but-you-can-pick-your-bias.md",
-      "title": "You can’t eliminate bias from machine learning, but you can pick your bias",
-      "excerpt": "But while an absence of bias makes sense on a human level, in the world of machine learning, it’s a bit different. In machine learning theory, if you can mathematically prove you don’t have ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/14/you-cant-eliminate-bias-from-machine-learning-but-you-can-pick-your-bias/",
-      "originalUrl": "https://venturebeat.com/2020/11/14/you-cant-eliminate-bias-from-machine-learning-but-you-can-pick-your-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/mobile-devices-emitting-data-in-a-crowd-of-people-picture-id522636128-1.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/14/you-cant-eliminate-bias-from-machine-learning-but-you-can-pick-your-bias/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/14/you-cant-eliminate-bias-from-machine-learning-but-you-can-pick-your-bias/amp/",
-      "publishedDateTime": "2020-11-14T08:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

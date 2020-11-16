@@ -3,10 +3,10 @@ category: news
 title: "Velodyne aims to price new self-driving car sensor below $500"
 excerpt: "Velodyne Lidar Inc said on Friday it would introduce a new lidar unit, a key sensor in self-driving cars, with a target price point of less than $500 and no moving parts."
 publishedDateTime: 2020-11-14T09:24:00Z
-originalUrl: "https://www.reuters.com/article/velodyne-lidar-tech-idUSKBN27U03K"
-webUrl: "https://www.reuters.com/article/velodyne-lidar-tech-idUSKBN27U03K"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27U03K"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27U03K"
+originalUrl: "https://www.reuters.com/article/velodyne-lidar-tech/update-1-velodyne-aims-to-price-new-self-driving-car-sensor-below-500-idUSL1N2HZ2BS"
+webUrl: "https://www.reuters.com/article/velodyne-lidar-tech/update-1-velodyne-aims-to-price-new-self-driving-car-sensor-below-500-idUSL1N2HZ2BS"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T1PP"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T1PP"
 type: article
 quality: 89
 heat: 119
@@ -70,6 +70,6 @@ related:
       domain: businessinsider.com
     quality: 54
 
-secured: "6GYZzRdIGrfunAj3IDfaZL3mve1F9EH8caHEmW8ceJGKtpzv8BBsSHnxkATYBvKqoQXK4bMgf3ZSWWu2CPWq9d72fRXKi90jTmzmzpn0fy2oomHKnv9IvhIDdc/vBFJSaTvtoM8RavGZWbndkA3TIhweeqIZG9nTmXytJ9L6J5bINoOnO3dyY5MJ4mpTIYF1g8CVlcqZPVYn8hSsFg4dKvv6XZRzjPjqhe47rBjDMnkvxjeh2UwXCQSgu8Q4dgcqeqj++z6RijiDRJKeWczou/7dHbgqmmIOSF7cQMUGztepZQN/k1syxO/R/CZilvOx2oHl0u2RmXgfJUKtyDnbRn2feUo1LSNgTEFYtsUK3FpXbgasOGIa0Yb3gehLw175xqCkBHS/tsrsJCjb6qsuwGa2r5aFj5y3GoIu2wodRnX0KTHxfnziQlKNZ8ZMEFi5iM1CoZnP1w2Q7c2+hfnS/vbrGotkGI0Q0oz5vcT7WFvcUGQ4bdfd8nIFP10jbO+S2BeTCtStxUN4uKiQZPoxnw==;UnaoebzO0P9MKHZrHnJv8Q=="
+secured: "CJSUfrya+xbid7QC/lypFraxqwzC79o6EkiNCIp476+i1fO8Gj/a9Ugx9JOMlPDZMq3W63zaaKYcThVIapSwx5f5W7TqCUGW0pA6j2NQTCM4YvcCCtVuv+Bhtzae2rbRbbOboemFmoTGc1CcSLnynA1MqB0lLM+Mrh7sQJILM5bbBBxYmJbAawHnkr7VZCJBcfaEdlnAmDpFClA3ANN8YD/keelrrmLNlnztZVQsuMlBLLYDu3n6liAT8L/5JnLXQsdBs6ySHfY+9KWAon7NC0VmNl12ctcF4AMgZPCV8y3dah/ARUaYlr2oMfNnGhJQz0b24rqLB3qaATbcupDGbbwUtzqFJZ2ryHVggUk8A4s=;WI/kdwF60hzW/cdo8UhaSQ=="
 ---
 

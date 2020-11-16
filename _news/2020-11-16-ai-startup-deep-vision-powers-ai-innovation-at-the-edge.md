@@ -6,8 +6,8 @@ publishedDateTime: 2020-11-16T13:52:00Z
 originalUrl: "https://www.businesswire.com/news/home/20201116005319/en/AI-Startup-Deep-Vision-Powers-AI-Innovation-at-the-Edge"
 webUrl: "https://www.businesswire.com/news/home/20201116005319/en/AI-Startup-Deep-Vision-Powers-AI-Innovation-at-the-Edge"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - Machine Learning
   - AI
   - AI Hardware
+  - AI in Robotics
 
 images:
   - url: "https://mms.businesswire.com/media/20201116005319/en/838975/23/logo.jpg"

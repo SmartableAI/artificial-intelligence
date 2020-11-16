@@ -115,7 +115,21 @@ related:
         width: 1504
         height: 820
         isCached: true
+  - title: "AMD Announces Instinct MI100 Accelerator, New Deployments for HPC and Scientific Research"
+    excerpt: "During this year’s SC20 virtual tradeshow, AMD is showcasing its leadership in the high performance computing (HPC)"
+    publishedDateTime: 2020-11-16T15:41:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/amd-announces-instinct-mi100-accelerator-new-deployments-for-hpc-and-scientific-research/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 15
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/Nvidia_SC20_NDR-400-InfiniBand-405x228.png"
+        width: 405
+        height: 228
+        isCached: true
 
-secured: "ORoQ258lT0AM/fkFq5NNyQ+eHBtgotimP2AY1ZHqlVrVBNnlNY3mRw0cAsPLZwhpFDphsX60WQzlf/7EjJEBic2MRVNVsJp+MpCrjp17G3n7jsWR+xnx++a2M/O9qvKm15LNGE4UksthVeMcwZV4oVEBQ/vTuIlvpdbrLaW/X/SCQ2NwX6IcsVIcGdyRmtV+Am8CE/MqU6UbVqd7wA3XAED8JkrvpKEoPx6EEVhDS0GeExbEoTyyczi38ggUBc39y8SYtACbrjKznCop2MyK0PYfEKOjsVDjtvabrSNfQ992WcIj6epJWtOp0yEwwKdrwPPiFItcKe3o0jxsbH5wn3lWRjc/+ysk2eukS9SNeMc=;CfNOtBo6htjvq/fG/geaKA=="
+secured: "a6hJKmSoqQ9kFejJnpIkAVaQ/lbSbtnqlTgOchAV8xpq/jaXnES8CoztSYMmvZb/6LZVGoGvhYgQGcguwYgwH2BNzpPMMLbiAyordTh2PHqNZjCPoMkm8jNwBzGkPeWAQTT+TUnNIyYTIH+AckTcNuLR8IxNL7eImINYfNStmWTWxTlE5TutazO0y7TZLhZ5xMHgNsNTpza8rRjrT5rzh5NHJmYxZWbcTBmEZ5GCRpG0rXw800F7ACPlv69U/Jvyme//Ij6bxJeCDi32d9L8uuaPz6P0FWz3zlax5Vkk07qDM7uE3RsI4BMvgtjN2V2ZnOy6B4P7ql3CLa8BPfxwXZUJCtEsB4fdSsGKF1AeBaSpvCgPor0Vt4BOxuj022bCcDY9JZXKseT4HsAlxF/rT5ca4w2I+234PjdS5EIsVu4BHse0vh80tKj5vCKYhmSfUz0gtAWLGnNJDevRZsCwj8DZLlQzNUfnK5G8i4GuvInufwYYW5NSeiExEZsvVq5KFlytBWrzQzTl9EybauAXmg==;jiTpN3FzzGWOP/YXTUBxOA=="
 ---
 

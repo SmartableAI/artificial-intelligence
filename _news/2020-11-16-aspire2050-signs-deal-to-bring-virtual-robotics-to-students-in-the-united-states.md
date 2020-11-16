@@ -1,29 +1,29 @@
 ---
 category: news
 title: "ASPIRE2050 Signs Deal to Bring Virtual Robotics to Students in the United States"
-excerpt: "ASPIRE2050, a newly formed company offering educational robotics for students, will bring Robotify to learners in the United States. All students deserve opportunities to work with the best possible technologies."
-publishedDateTime: 2020-11-16T14:27:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/aspire2050-signs-deal-to-bring-virtual-robotics-to-students-in-the-united-states-1029806607"
-webUrl: "https://markets.businessinsider.com/news/stocks/aspire2050-signs-deal-to-bring-virtual-robotics-to-students-in-the-united-states-1029806607"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/aspire2050-signs-deal-to-bring-virtual-robotics-to-students-in-the-united-states-1029806607"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/aspire2050-signs-deal-to-bring-virtual-robotics-to-students-in-the-united-states-1029806607"
+excerpt: "ASPIRE2050, a newly formed company offering educational robotics for students, will bring Robotify to learners in the United States."
+publishedDateTime: 2020-11-16T13:07:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/aspire2050-signs-deal-to-bring-virtual-robotics-to-students-in-the-united-states-301173292.html"
+webUrl: "https://www.prnewswire.com/news-releases/aspire2050-signs-deal-to-bring-virtual-robotics-to-students-in-the-united-states-301173292.html"
 type: article
-quality: 79
-heat: 79
-published: true
+quality: 49
+heat: 49
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "OPgqsoK7l6XpOAireU1JG+Y5eey7yEdavE0Bkyk8EW7bI6554TwxKNzVympSqHcLMfC5mVF2BWIxF5e6lqedL1NLsAyFwPSbnMMLiSRick3E9LMZ/GKiDQKHIYzoYmcsYPEHwGivxZyPLIYU5KZXL72HTf3oX5mnhgy+CdHNvBFo0iouAE9bvzbo/vigTQ590TzeriSekuaI8bbFFl40E5O6Ob1HLYpWmVJMVg9Fhi4oMEVW+UVBdbSZw/MF+YEeVPBOBH4Xlq71CpVamkgPdZTNRZJrK4wla5g1LTgtpilWsJYTfro/Od22f2YmLBM+5Y3nlejoy+xghWUmRrpjbCArVTlndcEhxVTsp+BSMws=;/Zl3S9XugJMWpcO3icPitw=="
+images:
+  - url: "https://mma.prnewswire.com/media/1332751/ASPIRE2050_Logo.jpg?p=facebook"
+    width: 1796
+    height: 942
+    isCached: true
+
+secured: "B+RnukopqLs1hYaAaWdDGm2MPP+KUfHDGkWwmISsVboQKcFzAcrz3fTDYM1BSV8RTqwgOgZQYlNuFukZD9MOTAeWyHyny0e9+URUdt7EjP3WRGWiTtyeW2o5AQX9y4Apfa7MwyN0A7LRDAyk7FByrYY0/cgCcRJSM7xtXHixuP82HqnF/Bmrzp165j87ayc6CA55Zbxly9suBsakz3BoilerGDa/IWnAy6uNUrzQvd2mU3IQbDylszs7rxcY7EZgy22IqqoP7S5wg2vX7umtd4OyVevVuG87JkixXmeiTrIUz8mzfTcN12XDvs4HqdqnN5Z3ZnFhleN0/b7c/OwLN7pQ5wVFA0hv8RLiKSWQIvI=;9oQbi3Td/rm/bD2ooK794Q=="
 ---
 
