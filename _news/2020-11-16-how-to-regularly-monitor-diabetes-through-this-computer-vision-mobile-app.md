@@ -43,6 +43,38 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Computer vision mobile app can regularly monitor diabetes"
+    excerpt: "The technology, which doesn't require an internet or Bluetooth connection, works for any type of glucose meter, in any orientation and in a variety of light levels. It also reduces waste by eliminating the need to replace high-quality non-Bluetooth meters,"
+    publishedDateTime: 2020-11-16T05:53:00Z
+    webUrl: "https://www.indiatvnews.com/health/computer-vision-mobile-app-can-regularly-monitor-diabetes-665109"
+    ampWebUrl: "https://www.indiatvnews.com/amp/health/computer-vision-mobile-app-can-regularly-monitor-diabetes-665109"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/health/computer-vision-mobile-app-can-regularly-monitor-diabetes-665109"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 59
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/10/freepik2-1601878228.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Computer Vision Mobile App Could Monitor Diabetes Regularly"
+    excerpt: "GlucoRx Vision is a new mobile app that can monitor glucose levels in people with diabetes, reports a new study."
+    publishedDateTime: 2020-11-16T06:00:00Z
+    webUrl: "https://www.medindia.net/news/computer-vision-mobile-app-could-monitor-diabetes-regularly-198464-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/computer-vision-mobile-app-could-monitor-diabetes-regularly-198464-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/computer-vision-mobile-app-could-monitor-diabetes-regularly-198464-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/diabetics.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
   - title: "Computer vision app allows easier monitoring of diabetes"
     excerpt: "A computer vision technology developed by University of Cambridge engineers has now been developed into a free mobile phone app for regular monitoring of glucose levels in people with diabetes."
     publishedDateTime: 2020-11-13T16:49:00Z

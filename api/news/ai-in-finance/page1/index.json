@@ -153,50 +153,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-12-fintech-startup-yelo-bank-wins-aws-startup-architecture-challenge-of-the-year-2020-india-finals.md",
-      "title": "Fintech startup YeLo Bank wins AWS Startup Architecture Challenge of the Year 2020 India finals",
-      "excerpt": "YeLo Bank, a digital-only, mobile-first neobank focused on serving mass-market consumers, has won the AWS Startup Architecture Challenge of the Year 2020 India finals. AWS Startup Architecture Challen",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2020/11/fintech-startup-yelo-bank-wins-aws-startup-architecture-challenge",
-      "originalUrl": "https://yourstory.com/2020/11/fintech-startup-yelo-bank-wins-aws-startup-architecture-challenge",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/Feature-image-4-1605181702978.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2020/11/fintech-startup-yelo-bank-wins-aws-startup-architecture-challenge/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/fintech-startup-yelo-bank-wins-aws-startup-architecture-challenge/amp",
-      "publishedDateTime": "2020-11-12T03:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-12-christian-frahms-united-fintech-to-ease-banks-digitization.md",
       "title": "Christian Frahm’s United Fintech to Ease Bank’s Digitization",
       "excerpt": "Fintech veteran Christian Frahm has launched United Fintech, a company that is aiming to provide banks and other financial institutions access to capital market-focused digital technologies.",
@@ -205,7 +161,7 @@
       "originalUrl": "https://www.financemagnates.com/fintech/news/christian-frahms-united-fintech-to-ease-banks-digitization/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -248,7 +204,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 103,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -852,10 +808,10 @@
     {
       "path": "_news/2020-10-29-workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-world-of-finance.md",
       "title": "Workday Delivers Data Management and Machine Learning Innovations for the Changing World of Finance",
-      "excerpt": "Advances in Managing Data Create New Levels of Insight and Performance Accountability for Today's Agile Organizations PLEASANTON, Calif., Oct. 29, 2020 (GLOBE NEWSWIRE) -- Workday Inc. (NASDAQ: WDAY),",
+      "excerpt": "(GLOBE NEWSWIRE) -- Workday Inc. (NASDAQ: WDAY), a leader in enterprise cloud applications for finance and human resources, today announced availability of Workday Accounting Center and machine learning (ML)-driven predictive forecasts for Workday Adaptive Planning,",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-world-of-finance-2020-10-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-world-of-finance-2020-10-29",
+      "webUrl": "https://www.marketwatch.com/press-release/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-world-of-finance-2020-10-29-9184059",
+      "originalUrl": "https://www.marketwatch.com/press-release/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-world-of-finance-2020-10-29-9184059",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1394,6 +1350,42 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-robotics-machine-learning-daily-news-service-researchandmarketscom.md",
+      "title": "Robotics & Machine Learning Daily News Service – ResearchAndMarkets.com",
+      "excerpt": "The \"Robotics & Machine Learning Daily News\" newsletter has been added to ResearchAndMarkets.com's offering. Robotics",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/robotics-machine-learning-daily-news-service-researchandmarkets-com/",
+      "originalUrl": "https://www.financialbuzz.com/robotics-machine-learning-daily-news-service-researchandmarkets-com/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-20T02:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Robotics"
       ]
     }
   ],

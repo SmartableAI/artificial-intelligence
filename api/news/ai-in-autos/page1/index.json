@@ -323,7 +323,7 @@
       "originalUrl": "https://www.forbes.com/sites/juliabrodsky/2020/11/12/why-children-need-to-learn-about-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -532,7 +532,7 @@
       "originalUrl": "https://www.engadget.com/honda-to-mass-produce-level-3-self-driving-cars-163208006.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 178,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -823,6 +823,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-qatar-ai-enabled-self-driving-cars-a-necessary-component-for-human-safety-volvo-official.md",
+      "title": "Qatar- AI-enabled self-driving cars a necessary component for human safety: Volvo official",
+      "excerpt": "The Peninsula  <p>Volvo recently participated in a webinar on Artificial Intelligence (AI), an initiative by the Embassy of Sweden and Swedish Chamber of Com",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1101100905/Qatar-AI-enabled-self-driving-cars-a-necessary-component-for-human-safety-Volvo-official",
+      "originalUrl": "https://menafn.com/1101100905/Qatar-AI-enabled-self-driving-cars-a-necessary-component-for-human-safety-Volvo-official",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2020-11/10/TP_13ffbe8c-8image_story.jpg",
+          "width": 532,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-10T07:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1485,49 +1528,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-machines-are-not-good-enough-to-match-human-decision-making.md",
-      "title": "‘Machines are not good enough to match human decision making’",
-      "excerpt": "Artificial Intelligence, the more commonly used term ... bigger deal when that same software fails to recognise faces in a driverless car. Therefore, having a darker skin tone could make you ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/programmes/articles/w6l0FMvbphtqWhxjLM1JBM/machines-are-not-good-enough-to-match-human-decision-making",
-      "originalUrl": "https://www.bbc.co.uk/programmes/articles/w6l0FMvbphtqWhxjLM1JBM/machines-are-not-good-enough-to-match-human-decision-making",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/images/ic/1200x675/p08x5z71.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-03T05:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },

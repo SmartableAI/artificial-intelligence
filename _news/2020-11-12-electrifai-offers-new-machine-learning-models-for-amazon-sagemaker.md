@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/electrifai-offers-new-m
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-1029791683"
 type: article
 quality: 103
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -26,22 +26,6 @@ topics:
   - Machine Learning
   - AWS AI
 
-related:
-  - title: "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker"
-    excerpt: "Amazon SageMaker is a fully managed service from Amazon Web Services (AWS) that provides every developer and data scientist with the ability to build, train, and deploy ML models quickly."
-    publishedDateTime: 2020-11-11T13:07:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-897787209.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 71
-    images:
-      - url: "https://mma.prnewswire.com/media/1331976/ElectrifAi_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
-        isCached: true
-
-secured: "+c8En99Bsx9tnMhzVE8JQkTnUDsIe3OLZgeWbrfkuPPr4heSsiWN7yeso2XHpPG379YPawnsJ0tuel2kQRyxEXnwuPASKi/ssoLacIXQPELOsGN0eFAscK07dGiPnrgDhFfX60iNfJ2o8IzMHIeJDAfOxLcqnI90F4QPTBc+uitfLAF7A0vBXWGy4KuOWDWkOZ58nwriXjn3zqmNY309BzDAO0hhaZb5rjHRQLjZ1xDy0rjCpNc4Bofz7+7Xb4KudDQC+KtZOKxiDc7YkHL79lJUbFFxQ3uUMtsSqbKYeWVRu5LT1IaULvx1esi2xKZAPdr0XsZnWR/K2esFbcXQ4P8xvt2ErHgpn3jfd9DIvK0=;svUKI1YN2MAuoQQtu19icA=="
+secured: "Kif3Sf0VBA3IVPoO6bneX9XWo/p8kApKl5Dmig+XoTcc4bZMhTlrQkoVoBUCBAn6mKqtM0a3hmFakUu2RjJ3U+USb5OMdIdElPqVfbMkmFV1blCyXtQNNLLRnueIC4TtUzvB5nKhQHar1X8BVfc0JFfros83bvNRminUlELLSJQqq1u/cRgGUtCUPh/7SERp3JVCJx97BLN9/5r1Axo0MYtqxchpmACDb7JU5mqxoZlLPI6J4+tGOUb6gmkLN5DwDRrkhNhKuRHIVVg4tpEujw2kSUdVbq2GydJFF1zFe4AUo1uBeYUNijWWQ+6Q+3juMcChLKIIGZNFWRdUBUrmIJQG73U2c7empEdhR9vwvig=;BRkUj2cl/qO4bDCmBXIm0Q=="
 ---
 

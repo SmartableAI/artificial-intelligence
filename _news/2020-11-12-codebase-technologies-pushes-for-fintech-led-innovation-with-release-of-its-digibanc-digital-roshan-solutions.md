@@ -59,6 +59,20 @@ related:
         width: 300
         height: 225
         isCached: true
+  - title: "Singapore FinTech Festival 2020"
+    excerpt: "The Singapore FinTech Festival (SFF) is the world’s largest and most inclusive FinTech event that brings together heads of state, financial and technology leaders, FinTech founders, policy makers, investors and multilateral agencies."
+    publishedDateTime: 2020-11-16T06:49:00Z
+    webUrl: "https://www.globalbankingandfinance.com/singapore-fintech-festival-2020/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 24
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/11/061120_GlobalFinance_300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "BqL9ZwWg9Rvn22x8y0jv7VF6cCqmSVyWGAYOHU/kJUgq6nXI0UtNg3Z0/jNy4r38ITzzX+JS0yvJbp64nwwW8PvNcJBZ926PCNC7I4piE2T1EcS5jPCErJ3loTYMgNOBdKKz3swpFKv3Nnv8a7arnWgwvzxPUVqnY9V0ZftOvLEBt4V9PjiY3ruki8q2Ja4ea03d9BQYaKS927oto09acMKNsvbWJTcHS2u+Hrn05xS00QdaAAR/8G/W5unvkTbJEDlQIKCjKycskQwp6T+cYXSU12pXNd/HkeKUOVL/J85cVdIgL9i7R7sdzNGVURjNmWvbaO5YvbnLHlgoR81PGMd7vP6o6VVTfmGJAgFa81/mPaRl5MRdJQmxi2Xf55wNpACIekDhr85tVMMpgVSpFQhqmr0zKtaNdDrh15ijLvIKopck21fkhg51XlsFAgTkDsqbOEovcCORPhAYRacB8x9hwsGsupkKIw4g+67U6QzFsK6w0e2K+FhW3/cSWf8tVSk9fAQUKRXB+mif9SzfKg==;OHZeOsK9rGCzgcyRNSyf9w=="
 ---

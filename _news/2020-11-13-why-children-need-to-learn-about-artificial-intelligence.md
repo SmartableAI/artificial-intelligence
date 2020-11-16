@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/juliabrodsky/2020/11/12/why-children-ne
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/juliabrodsky/2020/11/12/why-children-need-to-learn-about-artificial-intelligence/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -48,15 +48,6 @@ related:
         width: 940
         height: 627
         isCached: true
-  - title: "Why Humans Still Need to be Involved in Language-Based AI"
-    excerpt: "In this contributed article, Christine Maroti, AI Research Engineer at Unbabel, believes that humans still need to be in the loop in most practical AI applications, especially in nuanced areas such as language."
-    publishedDateTime: 2020-11-11T14:17:00Z
-    webUrl: "https://insidebigdata.com/2020/11/11/why-humans-still-need-to-be-involved-in-language-based-ai/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 19
 
 secured: "yPL7Ky8vcftaNCe8GKNn5GqvNwXoJKrxmMc1Ry1Gh87jEAVTooE74voWaP9/GkeMBfuS3ZHmScPYTvjSpT+dOK7HvZLh3pL6nJEcomXcAskRi2dI+2zuxyX1VMnEVZHNcSAx+EN+ONZKA+g2/Uk0+AnhLDjHqXEFXYk2S+cVMnPuDfqfqaGBGWwNx/QwoT0RHPNaxmrWPQIz0boiKJ69CkpWct/2IpybXeC+sZcwTLPMpLnrGsIw4Je7fszc0c7sxRFSVn+L/kFYU+a9RyhA0/c15ahzA/6C+aYMrawEmF4xE/Z3Lry1lomka2SptipDOQdyFggAdcWNNmj3y7CrdUrG0/SAzI+riPpVuu/FNitYEYjTFwLtnt69vKWTH1vpTm65cnJ5mg8tSQw/MpvY1Y+IsFIutlBWHEMo7C96V7DJXAxpiGsM1xj5Ob+5hckzQdoPGJNmCrOrC2ZcsgztIIXdAXDhSdnO3pjCFceI5Gk+3FMKs/MD9ymlwlCbJ3ul3+cSLntWn7DvU+RJJerW0Q==;bxvXVe+A1wtuGO2okF49tg=="
 ---

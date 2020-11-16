@@ -9,8 +9,8 @@ ampWebUrl: "https://yourstory.com/2020/11/fintech-startup-yelo-bank-wins-aws-sta
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/fintech-startup-yelo-bank-wins-aws-startup-architecture-challenge/amp"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Your Story
@@ -26,22 +26,6 @@ images:
     width: 800
     height: 400
     isCached: true
-
-related:
-  - title: "China’s AI Expansion Could Shift the Fintech Balance of Power"
-    excerpt: "Shen thinks about how the battle for supremacy in AI will evolve in the near future, and what the implications of China’s advances in the field might mean"
-    publishedDateTime: 2020-11-11T14:31:00Z
-    webUrl: "https://www.waterstechnology.com/management-strategy/7709126/chinas-ai-expansion-could-shift-the-fintech-balance-of-power"
-    type: article
-    provider:
-      name: WatersTechnology
-      domain: waterstechnology.com
-    quality: 39
-    images:
-      - url: "https://www.waterstechnology.com/sites/waterstechnology/files/styles/metatag_image/public/2020-11/GettyImages-1153303958.jpg?itok=9p2pq1i7"
-        width: 378
-        height: 234
-        isCached: true
 
 secured: "FiWN3AslC9GzCouScBpbxG2+I5JID9Lxzm3UJ7EfnpWJl4SPAHl3PfE/UKazyAuGrsx2eooa054L3hOfyX+fkKr49s9PCwN7zpu/V93cliC1zWN9MmKgcLs4UupNcCDpKCVi0t7QN1CTk/cS/XbcxOjkqzXRzTop0mJ8V3Q1sddWTqrlx6P+rhkV0RCpHAAc1JadqADHCuB9mZ9TkDnKW84S455LQwP2z1aSZIJ5GUeFgTSXWkUlr1TgMCkNOzRp+ni7/sDO1VXrWPrqvszwTJHcmF7wt4nUSRV3Eywg4W9LBK5QYrxDTdVTc3WVAlenheSle+6FF0T55KWmEFX1RQaXMQoVbFXiXGYl+WPEWE0=;Lnydv3tUaBYEzqFVuRn4kQ=="
 ---

@@ -1,0 +1,103 @@
+---
+category: news
+title: "How AI is helping lung cancer patients in Covid-19 era"
+excerpt: "Lung cancer patients undergoing immunotherapy treatment may experience side effects which can present in a similar way to those of Covid-19 and other lung conditions. But now the Royal Marsden hospital in London is trialling the use of artificial intelligence (AI) to help identify what is causing the symptoms."
+publishedDateTime: 2020-11-16T06:56:00Z
+originalUrl: "https://www.bbc.com/news/av/technology-54815149"
+webUrl: "https://www.bbc.com/news/av/technology-54815149"
+type: article
+quality: 67
+heat: 117
+published: true
+
+provider:
+  name: BBC
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08y2wck.jpg"
+    width: 400
+    height: 225
+    isCached: true
+
+related:
+  - title: "A survey on artificial intelligence in chest imaging of COVID-19"
+    excerpt: "In a new article for BIO Integration journal, a group of researchers from China consider the application of artificial intelligence imaging analysis methods for COVID-19 clinical diagnosis."
+    publishedDateTime: 2020-11-11T15:25:00Z
+    webUrl: "https://medicalxpress.com/news/2020-11-survey-artificial-intelligence-chest-imaging.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-11-survey-artificial-intelligence-chest-imaging.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-survey-artificial-intelligence-chest-imaging.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/chestxray.jpg"
+        width: 1920
+        height: 1806
+        isCached: true
+  - title: "Machine learning models predict critical events, mortality rate in COVID-19 patients"
+    excerpt: "Mount Sinai researchers have developed machine learning models that predict the likelihood of critical events and mortality in COVID-19 patients within clinically relevant time windows."
+    publishedDateTime: 2020-11-14T10:29:00Z
+    webUrl: "https://www.news-medical.net/news/20201111/Machine-learning-models-predict-critical-events-and-mortality-rate-in-COVID-19-patients.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20201111/Machine-learning-models-predict-critical-events-and-mortality-rate-in-COVID-19-patients.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201111/Machine-learning-models-predict-critical-events-and-mortality-rate-in-COVID-19-patients.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 52
+    images:
+      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fGenetics-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+  - title: "Machine learning models to predict critical illness and mortality in COVID-19 patients"
+    excerpt: "Researchers have developed machine learning models that predict the likelihood of critical events and mortality in COVID-19 patients within clinically relevant time windows."
+    publishedDateTime: 2020-11-13T22:38:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/11/201110151134.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 41
+  - title: "Computer vision syndrome during COVID-19: Eye fatigue and how to counter it"
+    excerpt: "As the amount of time students are spending in front of the screen has increased, so does the risk of developing symptoms of computer vision syndrome."
+    publishedDateTime: 2020-11-11T21:55:00Z
+    webUrl: "https://www.ubyssey.ca/science/covid-computer-vision-syndrome/"
+    type: article
+    provider:
+      name: The Ubyssey
+      domain: ubyssey.ca
+    quality: 37
+    images:
+      - url: "https://ubyssey.storage.googleapis.com/media/images/2020/11/screentime-mayarodrigo-abdi-medium.jpg"
+        width: 429
+        height: 600
+        isCached: true
+  - title: "Students searching for internships during the COVID pandemic must be prepared for AI-driven interviews"
+    excerpt: "We believe that every college and university student and recent graduate deserves a great part-time, seasonal, internship, and entry-level job!"
+    publishedDateTime: 2020-11-12T21:50:00Z
+    webUrl: "https://www.collegerecruiter.com/blog/2020/11/12/students-searching-for-internships-during-the-covid-pandemic-must-be-prepared-for-ai-driven-interviews/"
+    type: article
+    provider:
+      name: College Recruiter
+      domain: collegerecruiter.com
+    quality: 21
+    images:
+      - url: "https://www.collegerecruiter.com/images/cr_logos/cr_logo.png"
+        width: 593
+        height: 240
+        isCached: true
+
+secured: "kYmcaDo7Uo1GamE3m8P+tQE0EFE/qh2ZB1mdvRV4H9JaWfC1k95LvDMk+R3d0xfHfZ/Hv1jQM3LudQiAMQ2iDV28Jk8AMM28PCwnivQ/7mnwrxl+YdExpT06oxl0eicuDvG900RW37trjZIkJIgMTrCDiTZ9VoY+SIAKFqfk82Hh3d1ZkbghSNUBXIft4ajiwuX/9MHZeVv+U+hY7BGxjBm2Tow0dDrRamBoBUtRIIEKkhyiYJ6rbI+95UPlxiU2ZynF4zDPZhHbYMyUq4JR3GELisB7tmfkvrT9XSV6tlF39+LqCO9yjeKMuo5Qh/S9Pp/b9fJPBD518jjw9Xos3OMoG6Pr5cet1KR+oepAFfU=;Zx4AWF2zXHpWnitnPSpRhQ=="
+---
+

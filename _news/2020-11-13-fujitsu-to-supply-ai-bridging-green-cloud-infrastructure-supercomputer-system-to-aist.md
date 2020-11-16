@@ -7,7 +7,7 @@ originalUrl: "https://www.hpcwire.com/off-the-wire/fujitsu-to-supply-ai-bridging
 webUrl: "https://www.hpcwire.com/off-the-wire/fujitsu-to-supply-ai-bridging-green-cloud-infrastructure-supercomputer-system-to-aist/"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 405
     height: 228
     isCached: true
+
+related:
+  - title: "Fujitsu to develop supercomputer for AI research in Japan"
+    excerpt: "The 'AI bridging green cloud infrastructure supercomputer' will feature 120 nodes, 11.2 petabytes of storage, and is expected to reach peak performance of 19.3 petaflops."
+    publishedDateTime: 2020-11-16T01:55:00Z
+    webUrl: "https://www.zdnet.com/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/11/16/4c1195d3-a430-4c56-af53-e55d055a621f/low-aibridginggreencloudfig.jpg"
+        width: 415
+        height: 215
+        isCached: true
 
 secured: "0AWbNKPQCkLff7O/2BahIGvNMcY3vXuOi6kjsDpM18o3BnKJ2KOtQxwRcc1PihE2KEhwrhYtm0Zkt5SqzTokPsg6RQ+c8qVaTMrRA3rzjp9V7eansB5pqSp49nkwjJXG465//5J/UeGbZItKzK5MSsuar4tULBhl/ztruXQ5A5apvqKQTa0pNh1s+jo281JiqDAiYOa5aDlFGMrpM0UL2iEQ7lsUElfejoR9eFumorkkFD7lOkGiYywvSntrANPAF9dj5EFhWVp2uC8gQ37ltI5PEdFHDHeUICkAM1UV8/UZZ67nKv7Lbfi3IlhQFDV4DnWWfLC1EvYxZ7mvB1UQq9bWO49eoxBZXKkJJzsftwDJUpcOkem+5PxZdXTX8ghV8wSSnZML+JBjXAHfgQqM6bB7EAzDK3XECenHzq4yY9s0Tvzs+0LBqnH2/KkHzUn58LAHRYmvuW9OJ+1dOYYkcGUQHm5KGy1FEwvblXt0tJnFPmveaiQOnxlz4wvNPSAVQsUhubdGSBXzRYdrQu2yRw==;fsUSSsOoVhSxGJx6PNOFvQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2020/11/201111102641.htm"
 webUrl: "https://www.sciencedaily.com/releases/2020/11/201111102641.htm"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -21,24 +21,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Sorting out viruses with machine learning"
-    excerpt: "The ongoing global pandemic has created an urgent need for rapid tests that can diagnose the presence of the SARS-CoV-2 virus, the pathogen that causes COVID-19, and distinguish it from other respiratory viruses."
-    publishedDateTime: 2020-11-11T14:17:00Z
-    webUrl: "https://phys.org/news/2020-11-viruses-machine.html"
-    ampWebUrl: "https://phys.org/news/2020-11-viruses-machine.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-11-viruses-machine.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2020/5fabda44c9dcc.jpg"
-        width: 451
-        height: 313
-        isCached: true
 
 secured: "P+LyZI1oyfcNG4xVvv78P3HbmxtBzmDw5bxcd7SQDMggj/HBDtAVD5orSD5ixnn8og+G5yLGieP+7IFFQ5QFc8cpHUfA3pj5VYXC+s7GJ3Tvh1GkuT8T9tN5s5bc3E54EqN0+WpmBH0jQRYKAOzR5qK+SQWKZwvN5rmCGDftKQuwtVGTv6quPzBIGLyDgXM1N3gd/zxm6oRXPK9KT1Dx6e4+OAtUBr4AOkZgLaqloTNy2KaP9FU34DLPfJkcltEKS2vVkbQ5VICnrJtPlhnKNxIDanffzAFnWUQN6keLOWhyHrdLTRhM1ou61gwyA9yERe0jBuMhopEAq8BUSP6kc11vx56nueHu3gYTh0aycq8=;GaTEMcVLl+I1whzW3QY1aA=="
 ---

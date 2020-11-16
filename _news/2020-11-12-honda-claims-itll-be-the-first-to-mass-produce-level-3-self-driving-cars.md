@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/honda-to-mass-produce-level-3-self-driv
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/honda-to-mass-produce-level-3-self-driving-cars-163208006.html"
 type: article
 quality: 88
-heat: 178
+heat: 168
 published: true
 
 provider:
@@ -148,15 +148,6 @@ related:
         width: 589
         height: 424
         isCached: true
-  - title: "Honda looks to break away in self-driving race"
-    excerpt: "Honda (NYSE:HMC) says it will be the first automaker in the world to mass produce sensor-packed level 3 autonomous cars that will allow drivers to let their vehicles navigate congested expressway traffic."
-    publishedDateTime: 2020-11-11T13:08:00Z
-    webUrl: "https://seekingalpha.com/news/3634896-honda-looks-to-break-away-in-self-driving-race"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
 
 secured: "VWrRITfBCXLaS3BNkt3TPC4UroiDM2uoSy4BAOqA3tOkfSeC+p7DcUW0cYcRtsUdbMg4RX+g4a01BYs3MPkrFab5yjjaNDSPqkr1aXSKtsf4iDvoUL/j505H+doCr/EgQlMOq+FR2GJF57jp4pDuBmVR9YYcBWMCJ9XR4IWyG+BD8p+QTGOyZDazNYsrzEEoFPIbvivloxG5HEKNZRb/5c5xOHn1mh4Us1OyHv1Dulz/gBmfrq9+HgKU3oCriiexljclCuzpdaAVXR4cjNFBXcRza1WQO+7M4HbYgPZbNLuBjUIlxcBtMEXz3wdNTwezIQhwiD689+a/9dLVP1CxdwQ13hlhCCBT7YTzVFWacmk=;WtwJQFPkWl8jnqMYTRrzBA=="
 ---

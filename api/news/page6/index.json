@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-11-11-walmart-partners-with-gms-cruise-on-self-driving-delivery-pilot-in-az.md",
+      "title": "Walmart partners with GM's Cruise on self-driving delivery pilot in AZ",
+      "excerpt": "Walmart Inc is adding Cruise, a majority-owned affiliate of U.S. automaker General Motors Co <GM.N>, to its roster of self-driving startup partners, in a pilot delivery program early next year in Scottsdale,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/autonomous-cruise-walmart-idUSKBN27Q25S",
+      "originalUrl": "https://www.reuters.com/article/autonomous-cruise-walmart-idUSKBN27Q25S",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540705024&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA914Y",
+          "width": 949,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27Q25S",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q25S",
+      "publishedDateTime": "2020-11-10T13:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-james-corden-is-a-snarky-ai-that-might-take-out-humanity-in-superintelligence.md",
       "title": "James Corden is a snarky AI that might take out humanity in Superintelligence",
       "excerpt": "When her TV, phone, microwave, and other electronic devices start talking to her ... of course), an AI who is pondering whether it should take over the world or allow humanity to continue to ...",
@@ -514,6 +566,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-11-ghanaian-radiographers-urged-to-embrace-artificial-intelligence-systems.md",
+      "title": "Ghanaian radiographers urged to embrace artificial intelligence systems",
+      "excerpt": "The President of the Ghana Radiographers Association, Prince Rockson has advised radiographers in the country to learn to use Artificial Intelligence (AI) system in their day-to-day operations to ensure better results for their patients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Jonathan-Mensah-proud-to-make-century-of-appearances-for-Columbus-Crew-1105000",
+      "originalUrl": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Jonathan-Mensah-proud-to-make-century-of-appearances-for-Columbus-Crew-1105000",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ghanaweb.com/imagelib/pics/552/55272218.295.jpg",
+          "width": 300,
+          "height": 235,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-10T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ghanaweb.com",
+        "domain": "ghanaweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-mediatek-debuts-chips-for-budget-5g-phones-and-powerful-chromebooks.md",
       "title": "MediaTek debuts chips for budget 5G phones and powerful Chromebooks",
       "excerpt": "In 2021, the Taiwanese chipmaker will bring 5G to the most affordable phones and add advanced camera and AI features to Chromebooks.",
@@ -614,6 +709,49 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-qatar-ai-enabled-self-driving-cars-a-necessary-component-for-human-safety-volvo-official.md",
+      "title": "Qatar- AI-enabled self-driving cars a necessary component for human safety: Volvo official",
+      "excerpt": "The Peninsula  <p>Volvo recently participated in a webinar on Artificial Intelligence (AI), an initiative by the Embassy of Sweden and Swedish Chamber of Com",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1101100905/Qatar-AI-enabled-self-driving-cars-a-necessary-component-for-human-safety-Volvo-official",
+      "originalUrl": "https://menafn.com/1101100905/Qatar-AI-enabled-self-driving-cars-a-necessary-component-for-human-safety-Volvo-official",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2020-11/10/TP_13ffbe8c-8image_story.jpg",
+          "width": 532,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-10T07:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1095,143 +1233,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-the-us-government-will-pay-doctors-to-use-these-ai-algorithms.md",
-      "title": "The US Government Will Pay Doctors to Use These AI Algorithms",
-      "excerpt": "The artificial intelligence programs can diagnose eye disease in diabetics and complications in stroke patients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/us-government-pay-doctors-use-ai-algorithms/",
-      "originalUrl": "https://www.wired.com/story/us-government-pay-doctors-use-ai-algorithms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fa5db02c529acf3a833874c/master/pass/business_medicare_1171912286.jpg",
-          "width": 2400,
-          "height": 1606,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/us-government-pay-doctors-use-ai-algorithms/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/us-government-pay-doctors-use-ai-algorithms/amp",
-      "publishedDateTime": "2020-11-10T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-chip-maker-nvidia-signs-deal-with-hyundai-motor.md",
-      "title": "Chip maker NVIDIA signs deal with Hyundai Motor",
-      "excerpt": "Chip maker NVIDIA Corp on Monday announced that Hyundai Motor Group will use the NVIDIA DRIVE in-vehicle information and entertainment system for all its Hyundai, Kia, and Genesis models from 2022",
-      "sourceUrl": null,
-      "webUrl": "https://www.timeslive.co.za/motoring/news/2020-11-10-chip-maker-nvidia-signs-deal-with-hyundai-motor/",
-      "originalUrl": "https://www.timeslive.co.za/motoring/news/2020-11-10-chip-maker-nvidia-signs-deal-with-hyundai-motor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/4FTpGZSdcmCaK0uwJeO6vHuvyepDbptpALrkWU_jP4lg_FLQnBD59sgttsLIVuG465pflEEpFPablqlggoJ-=s1000",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timeslive.co.za/amp/motoring/news/2020-11-10-chip-maker-nvidia-signs-deal-with-hyundai-motor/",
-      "cdnAmpWebUrl": "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/news/2020-11-10-chip-maker-nvidia-signs-deal-with-hyundai-motor/",
-      "publishedDateTime": "2020-11-09T23:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times LIVE",
-        "domain": "timeslive.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-artificial-intelligence-and-machine-learning-helping-insurance-companies-with-cybersecurity-ey.md",
-      "title": "Artificial Intelligence and Machine Learning helping insurance companies with cybersecurity: EY",
-      "excerpt": "EY had helped an insurance company tackle the cybersecurity threat and this could be replicated throughout the industry.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/tech-bytes/artificial-intelligence-and-machine-learning-helping-insurance-companies-with-cybersecurity-ey/articleshow/79145011.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/tech-bytes/artificial-intelligence-and-machine-learning-helping-insurance-companies-with-cybersecurity-ey/articleshow/79145011.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://economictimes.indiatimes.com/thumb/width-412,height-255,imgsize-140439,msid-78635250/apple-could-be-launching-the-iphone-12-today-heres-whats-expected.jpg",
-          "width": 412,
-          "height": 255,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/tech-bytes/artificial-intelligence-and-machine-learning-helping-insurance-companies-with-cybersecurity-ey/amp_articleshow/79145011.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/artificial-intelligence-and-machine-learning-helping-insurance-companies-with-cybersecurity-ey/amp_articleshow/79145011.cms",
-      "publishedDateTime": "2020-11-09T22:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

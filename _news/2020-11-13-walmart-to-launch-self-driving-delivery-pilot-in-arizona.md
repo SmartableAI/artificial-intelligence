@@ -83,20 +83,6 @@ related:
         width: 770
         height: 364
         isCached: true
-  - title: "Walmart and self-driving car company Cruise pilot grocery deliveries in Arizona"
-    excerpt: "UNFI reaches labor accords with Teamsters in New York, CaliforniaUnited Natural Foods Inc. (UNFI) and Teamsters union locals in New York and California have agreed to new"
-    publishedDateTime: 2020-11-11T13:32:00Z
-    webUrl: "https://www.freshplaza.com/article/9267196/walmart-and-self-driving-car-company-cruise-pilot-grocery-deliveries-in-arizona/"
-    type: article
-    provider:
-      name: FreshPlaza
-      domain: freshplaza.com
-    quality: 20
-    images:
-      - url: "https://www.freshplaza.com/remote.axd?https://agfstorage.blob.core.windows.net/misc/FP_com/2020/index_foto_retail/Retail_Walmart_3009.jpg?preset=OgImage"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "ZynNr1qcIX4b9nL5SJCtEGdBc2KRCbEapdtp+jganb6A9a9H7Xe6CgY0MvFiBCkDEulcB/pzTROW6bUTtAHenqFB4yD4c6IlrH1U1/28P3AoN/g37S6ea2Sr1aHqu6VGiM9U1NB6CaJq23r1GOYjPa3S0ZWplECrqXy6VaXjojUz47lqH6aVd7wR/hJtbpgPdeKE5M68pk1dVochEjnyInG8PkRj2voU8V3Uxxh6LKpcI7oHXtrykyujuYWxn3JAxo7XC/32NiHZkQLvUpJEHmgpQSqDS4pVfWuJGNK6WYh642G8ECjLxeyU5gzCE02N6+i6Sc55cNaomOWHDaW/eSKCLVVXRqS6LGDkZ2JacO8=;88K5rL/MH3cbh6TF18llvQ=="
 ---

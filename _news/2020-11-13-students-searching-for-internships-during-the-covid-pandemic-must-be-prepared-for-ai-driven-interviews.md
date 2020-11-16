@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "How AI is helping lung cancer patients in Covid-19 era"
+    excerpt: "Lung cancer patients undergoing immunotherapy treatment may experience side effects which can present in a similar way to those of Covid-19 and other lung conditions. But now the Royal Marsden hospital in London is trialling the use of artificial intelligence (AI) to help identify what is causing the symptoms."
+    publishedDateTime: 2020-11-16T06:56:00Z
+    webUrl: "https://www.bbc.com/news/av/technology-54815149"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 67
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08y2wck.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "A survey on artificial intelligence in chest imaging of COVID-19"
     excerpt: "In a new article for BIO Integration journal, a group of researchers from China consider the application of artificial intelligence imaging analysis methods for COVID-19 clinical diagnosis."
     publishedDateTime: 2020-11-11T15:25:00Z
@@ -40,19 +54,21 @@ related:
         width: 1920
         height: 1806
         isCached: true
-  - title: "Mount Sinai builds machine learning models to predict COVID-19 mortality"
-    excerpt: "New York City-based Mount Sinai Health System researchers created machine learning-powered models that identify high risk and likelihood of mortality in COVID-19 patients. The researchers used EHRs from more than 4,"
-    publishedDateTime: 2020-11-12T22:17:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/mount-sinai-builds-machine-learning-models-to-predict-covid-19-mortality.html"
+  - title: "Machine learning models predict critical events, mortality rate in COVID-19 patients"
+    excerpt: "Mount Sinai researchers have developed machine learning models that predict the likelihood of critical events and mortality in COVID-19 patients within clinically relevant time windows."
+    publishedDateTime: 2020-11-14T10:29:00Z
+    webUrl: "https://www.news-medical.net/news/20201111/Machine-learning-models-predict-critical-events-and-mortality-rate-in-COVID-19-patients.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20201111/Machine-learning-models-predict-critical-events-and-mortality-rate-in-COVID-19-patients.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201111/Machine-learning-models-predict-critical-events-and-mortality-rate-in-COVID-19-patients.aspx"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 53
+      name: News Medical
+      domain: news-medical.net
+    quality: 52
     images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/5.jpg"
-        width: 400
-        height: 300
+      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fGenetics-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
   - title: "Machine learning models to predict critical illness and mortality in COVID-19 patients"
     excerpt: "Researchers have developed machine learning models that predict the likelihood of critical events and mortality in COVID-19 patients within clinically relevant time windows."
@@ -63,6 +79,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 41
+  - title: "Computer vision syndrome during COVID-19: Eye fatigue and how to counter it"
+    excerpt: "As the amount of time students are spending in front of the screen has increased, so does the risk of developing symptoms of computer vision syndrome."
+    publishedDateTime: 2020-11-11T21:55:00Z
+    webUrl: "https://www.ubyssey.ca/science/covid-computer-vision-syndrome/"
+    type: article
+    provider:
+      name: The Ubyssey
+      domain: ubyssey.ca
+    quality: 37
+    images:
+      - url: "https://ubyssey.storage.googleapis.com/media/images/2020/11/screentime-mayarodrigo-abdi-medium.jpg"
+        width: 429
+        height: 600
+        isCached: true
 
 secured: "Auw0l95TSyqDCCNbEMBC5Zm0fgWdFlXmKa+VU1PLuRFkGNpMamX7eBOwr1k3mKm5SeRTpXTrlO1sgNgnbIife28a8locE6CO5ZrxdlCM2N7bPXuYj/GBZLIt4USbxwuvn3LHRF/oC0QGrRhEnBd0TvkRp7KvcTy4SjF8JgY+1kri4b/esctf6bRcIdXSTlFS2FbekpcgQPRgSosG+9ZfI0UA43WISQHsqvv5BUx+jvIw6WSO+roG9frexsuWSU9se9h07csjfLDfxlrGHI7QpNvSVdf+PO8GiT12QjjyY9i05PH+slzn2iCfmIqHk1p+7HEB9MB8nodLFKHWiKp7v1ppwE5XynOsyKRocjGO8BE=;lnH2XMvC6bnY7Am/lnzAUg=="
 ---

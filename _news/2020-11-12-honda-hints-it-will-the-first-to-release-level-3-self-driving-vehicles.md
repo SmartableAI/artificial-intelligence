@@ -144,15 +144,6 @@ related:
         width: 589
         height: 424
         isCached: true
-  - title: "Honda looks to break away in self-driving race"
-    excerpt: "Honda (NYSE:HMC) says it will be the first automaker in the world to mass produce sensor-packed level 3 autonomous cars that will allow drivers to let their vehicles navigate congested expressway traffic."
-    publishedDateTime: 2020-11-11T13:08:00Z
-    webUrl: "https://seekingalpha.com/news/3634896-honda-looks-to-break-away-in-self-driving-race"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
 
 secured: "mHdcePa5/+p68jLO1KWkpJ8EXgxwLZJNEYB+8HOAJXa8jdBck0KrFMfESbqjDdWn9yzZto7ZodeFZJVDtE3r0O+WGd4IC0X3EYZfWzxDAkIy7q9LlJWLtWblCIoPIWOChqEmBf0m9QpuPQkNn4nALGHJeS8R7HpoDmJLAzY+8NS4g88u3LF2IGeSMsCxS8Y+0ON5o8lWnL/eK1pp7hg9fArd5Hn3tvwwslIeO8PFI8dlp4QOf6iq9aR8bwM2D8JI0VW/yv31IbqtWPJ0gklr8z3436SelyslZ/gEE5bytTtH0RXosfZ35+hs8hh+LTLQkt+wKcpIlUgLfNtpQxyGjIJw48YDdlkm/oaNx5pdYT19SffJzJdMuQDd1uZ0ybmIIx8/MOQ2SPGUIAWiPf5phA49bOjHiX0Zgh1QRBzm4WlSABfZamqCwOvr0ZUdZ/MdINcU8RdxgTXrD0FWY+N/QXQb9eBFX0Wk0MhNmG928gdEbuhLfSfPnQewbDrWE7xOaiyIWlJMIidzcnQ0cYHLvw==;YMaVZ7cScHxnnt0P6caMiQ=="
 ---

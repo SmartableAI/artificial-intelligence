@@ -2,6 +2,143 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-11-10-the-us-government-will-pay-doctors-to-use-these-ai-algorithms.md",
+      "title": "The US Government Will Pay Doctors to Use These AI Algorithms",
+      "excerpt": "The artificial intelligence programs can diagnose eye disease in diabetics and complications in stroke patients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/us-government-pay-doctors-use-ai-algorithms/",
+      "originalUrl": "https://www.wired.com/story/us-government-pay-doctors-use-ai-algorithms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fa5db02c529acf3a833874c/master/pass/business_medicare_1171912286.jpg",
+          "width": 2400,
+          "height": 1606,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/us-government-pay-doctors-use-ai-algorithms/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/us-government-pay-doctors-use-ai-algorithms/amp",
+      "publishedDateTime": "2020-11-10T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-chip-maker-nvidia-signs-deal-with-hyundai-motor.md",
+      "title": "Chip maker NVIDIA signs deal with Hyundai Motor",
+      "excerpt": "Chip maker NVIDIA Corp on Monday announced that Hyundai Motor Group will use the NVIDIA DRIVE in-vehicle information and entertainment system for all its Hyundai, Kia, and Genesis models from 2022",
+      "sourceUrl": null,
+      "webUrl": "https://www.timeslive.co.za/motoring/news/2020-11-10-chip-maker-nvidia-signs-deal-with-hyundai-motor/",
+      "originalUrl": "https://www.timeslive.co.za/motoring/news/2020-11-10-chip-maker-nvidia-signs-deal-with-hyundai-motor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/4FTpGZSdcmCaK0uwJeO6vHuvyepDbptpALrkWU_jP4lg_FLQnBD59sgttsLIVuG465pflEEpFPablqlggoJ-=s1000",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timeslive.co.za/amp/motoring/news/2020-11-10-chip-maker-nvidia-signs-deal-with-hyundai-motor/",
+      "cdnAmpWebUrl": "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/news/2020-11-10-chip-maker-nvidia-signs-deal-with-hyundai-motor/",
+      "publishedDateTime": "2020-11-09T23:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Times LIVE",
+        "domain": "timeslive.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-artificial-intelligence-and-machine-learning-helping-insurance-companies-with-cybersecurity-ey.md",
+      "title": "Artificial Intelligence and Machine Learning helping insurance companies with cybersecurity: EY",
+      "excerpt": "EY had helped an insurance company tackle the cybersecurity threat and this could be replicated throughout the industry.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/tech-bytes/artificial-intelligence-and-machine-learning-helping-insurance-companies-with-cybersecurity-ey/articleshow/79145011.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/tech-bytes/artificial-intelligence-and-machine-learning-helping-insurance-companies-with-cybersecurity-ey/articleshow/79145011.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://economictimes.indiatimes.com/thumb/width-412,height-255,imgsize-140439,msid-78635250/apple-could-be-launching-the-iphone-12-today-heres-whats-expected.jpg",
+          "width": 412,
+          "height": 255,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/tech-bytes/artificial-intelligence-and-machine-learning-helping-insurance-companies-with-cybersecurity-ey/amp_articleshow/79145011.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/artificial-intelligence-and-machine-learning-helping-insurance-companies-with-cybersecurity-ey/amp_articleshow/79145011.cms",
+      "publishedDateTime": "2020-11-09T22:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-ibm-updates-cloud-paks-for-data-automation-with-rpa-tools-industry-accelerators.md",
       "title": "IBM updates Cloud Paks for data, automation with RPA tools, industry accelerators",
       "excerpt": "IBM said it is updating it Cloud Pak for Data and Cloud Pak for Automation with accelerators for industry use cases for data science, machine learning, document processing and rob",
@@ -1089,153 +1226,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-healthcare-artificial-intelligence-market.md",
-      "title": "Healthcare Artificial Intelligence Market",
-      "excerpt": "Latest Survey On Healthcare Artificial Intelligence Market ... Butterfly Network, Inc., Lifegraph, Enlitic, Inc., IBM (Watson Health), Sophia Genetics, Zebra Medical Vision Ltd., Pathway Genomics Corporation, AiCure, Sense.ly, Welltok, Insilico Medicine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2183410/healthcare-artificial-intelligence-market-is-thriving",
-      "originalUrl": "https://www.openpr.com/news/2183410/healthcare-artificial-intelligence-market-is-thriving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/b/Tb09580094_g.jpg",
-          "width": 780,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2183410/healthcare-artificial-intelligence-market-is-thriving",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2183410/healthcare-artificial-intelligence-market-is-thriving",
-      "publishedDateTime": "2020-11-09T00:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-funding-alert-b2b-sales-startup-nektarai-raises-215-mn-seed-funding-led-by-nexus-venture-partners.md",
-      "title": "[Funding Alert] B2B Sales Startup Nektar.ai Raises $2.15 Mn Seed Funding Led By Nexus Venture Partners",
-      "excerpt": "Singapore-based business-to-business (B2B) sales startup, Nektar.ai on Monday announced it has raised $2.15 million in a seed funding round led by Nexus Venture Partners to build an artificial intelligence (AI)-powered go-to-market collaboration engine for modern revenue teams with participation from Insignia Venture Partners,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/359261",
-      "originalUrl": "https://www.entrepreneur.com/article/359261",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1604910806-L-RAbhijeetVijayvergiyaAravindRaviSulekha.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/359261",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359261",
-      "publishedDateTime": "2020-11-09T00:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-an-ai-engineer-walks-into-a-data-shop.md",
-      "title": "An AI Engineer Walks Into A Data Shop...",
-      "excerpt": "If it’s not quite off-the-shelf AI, then its composable AI that brings together some of the core functions that smart systems use regularly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/11/09/an-ai-engineer-walks-into-a-data-shop/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/11/09/an-ai-engineer-walks-into-a-data-shop/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f996d1557bfc401bd9f3e03%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/11/09/an-ai-engineer-walks-into-a-data-shop/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/11/09/an-ai-engineer-walks-into-a-data-shop/amp/",
-      "publishedDateTime": "2020-11-09T00:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

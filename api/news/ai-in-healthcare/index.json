@@ -132,6 +132,50 @@
       ]
     },
     {
+      "path": "_news/2020-11-12-ibm-amd-ink-joint-development-pact-for-security-artificial-intelligence-offerings.md",
+      "title": "IBM, AMD ink joint development pact for security, Artificial Intelligence offerings",
+      "excerpt": "This will also support a broad range of accelerators across high-performance computing (HPC), and enterprise-critical capabilities such as virtualisation and encryptions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/business/2020/nov/12/ibm-amd-ink-joint-development-pact-for-security-artificial-intelligenceofferings-2222892.html",
+      "originalUrl": "https://www.newindianexpress.com/business/2020/nov/12/ibm-amd-ink-joint-development-pact-for-security-artificial-intelligenceofferings-2222892.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2019/12/25/w600X390/declare_AI.jpg",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/business/2020/nov/12/ibm-amd-ink-joint-development-pact-for-security-artificial-intelligenceofferings-2222892.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2020/nov/12/ibm-amd-ink-joint-development-pact-for-security-artificial-intelligenceofferings-2222892.amp",
+      "publishedDateTime": "2020-11-12T04:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-whats-next-for-ai-gary-marcus-talks-about-the-journey-toward-robust-artificial-intelligence.md",
       "title": "What's next for AI: Gary Marcus talks about the journey toward robust artificial intelligence",
       "excerpt": "Gary Marcus is one of the more prominent, and controversial, figures in AI. Going beyond his critique on Deep Learning, which is what many people know him for, Marcus puts forward a well-rounded propo",
@@ -431,6 +475,49 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-ghanaian-radiographers-urged-to-embrace-artificial-intelligence-systems.md",
+      "title": "Ghanaian radiographers urged to embrace artificial intelligence systems",
+      "excerpt": "The President of the Ghana Radiographers Association, Prince Rockson has advised radiographers in the country to learn to use Artificial Intelligence (AI) system in their day-to-day operations to ensure better results for their patients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Jonathan-Mensah-proud-to-make-century-of-appearances-for-Columbus-Crew-1105000",
+      "originalUrl": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Jonathan-Mensah-proud-to-make-century-of-appearances-for-Columbus-Crew-1105000",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ghanaweb.com/imagelib/pics/552/55272218.295.jpg",
+          "width": 300,
+          "height": 235,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-10T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ghanaweb.com",
+        "domain": "ghanaweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -1322,92 +1409,6 @@
         "name": "openpr.com",
         "domain": "openpr.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-alliance-health-invests-in-zeomegas-powerful-artificial-intelligence-solution-careintel.md",
-      "title": "Alliance Health Invests in ZeOmega's Powerful Artificial-Intelligence Solution: CareIntel",
-      "excerpt": "Alliance Health is expanding its partnership with ZeOmega, the industry's leader in population health management (PHM) solutions, to include ZeOmega's CareIntel Solution Suite:",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/alliance-health-invests-in-zeomegas-powerful-artificial-intelligence-solution-careintel/article_6ccf830e-4012-55ec-8e3d-c17d4c9a17cb.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/alliance-health-invests-in-zeomegas-powerful-artificial-intelligence-solution-careintel/article_6ccf830e-4012-55ec-8e3d-c17d4c9a17cb.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-four-ways-artificial-intelligence-is-hidden-in-our-daily-lives.md",
-      "title": "Four Ways Artificial Intelligence Is Hidden In Our Daily Lives",
-      "excerpt": "People used to associate the term “artificial intelligence” with images of science fiction ... determining how the muscles involved in physical activity could be used for therapy and sports. Furthermore, simulation technology could be applied to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/28/four-ways-artificial-intelligence-is-hidden-in-our-daily-lives/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/28/four-ways-artificial-intelligence-is-hidden-in-our-daily-lives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1192287243%2F0x0.jpg",
-          "width": 1200,
-          "height": 826,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/28/four-ways-artificial-intelligence-is-hidden-in-our-daily-lives/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/28/four-ways-artificial-intelligence-is-hidden-in-our-daily-lives/amp/",
-      "publishedDateTime": "2020-10-28T04:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

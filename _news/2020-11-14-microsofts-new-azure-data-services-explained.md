@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsofts-new-azure
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsofts-new-azure-data-services-explained/"
 type: article
 quality: 119
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -102,6 +102,20 @@ related:
       - url: "https://www.hydrocarbonprocessing.com/media/12882/aveva-digital-reliability-platform.png"
         width: 1280
         height: 757
+        isCached: true
+  - title: "Privitar Achieves Microsoft’s Co-sell Ready Designation and Joins Microsoft Fast Track for ISVs Program"
+    excerpt: "Privitar, the leading data privacy platform provider, announced today that it has earned Microsoft's coveted co-sell ready designation through the Microsoft One Commercial Partner Program. Privitar has also joined Microsoft’s Fast Track for ISVs program,"
+    publishedDateTime: 2020-11-12T18:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201112005198/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 23
+    images:
+      - url: "https://mms.businesswire.com/media/20201112005198/en/678615/23/180917_Privitar_logo_low_res.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "spi+XhaUbbKwmPay4TNxyEH602woroaCtLaOmPD0269xDzH6M1FcLO4sGG56QJEHVdmzyDsZBi4m6vJoC7ZYwxbdUtftzssChWy+ybkhy8vCdmNLiptZ5DRs7LTIZFhhI7jKih6EbdsDzWCK1R1g/q/VGj2FCSOOOy/dL7g1yTDys7N/crdHWiRsD+OBhwWje6T3/MSJDM7QFswY+omM0dS5+Yk9XMVDvMb7Q4SdTZGiqbPgSPiVR0ARaSmM5W9Oi9oq/FaR6He8zHTypUuhWDXimHXFcEzL65zBS+ogZyuXoFdNerGiQmWc1mcOFuP4Q271obnr6wFXBmsJA/Dm1qP9n3Q1bwMe0bXmyYJL9cw=;nlwqeJyXvfv3b6j4zTDILA=="

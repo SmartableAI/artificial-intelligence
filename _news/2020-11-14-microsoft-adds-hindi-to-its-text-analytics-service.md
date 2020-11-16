@@ -99,6 +99,20 @@ related:
         width: 1280
         height: 757
         isCached: true
+  - title: "Privitar Achieves Microsoft’s Co-sell Ready Designation and Joins Microsoft Fast Track for ISVs Program"
+    excerpt: "Privitar, the leading data privacy platform provider, announced today that it has earned Microsoft's coveted co-sell ready designation through the Microsoft One Commercial Partner Program. Privitar has also joined Microsoft’s Fast Track for ISVs program,"
+    publishedDateTime: 2020-11-12T18:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201112005198/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 23
+    images:
+      - url: "https://mms.businesswire.com/media/20201112005198/en/678615/23/180917_Privitar_logo_low_res.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "ZF2oRujaOb6+hWG/1WzwXca/i4vuUsWZbOV7Gz9t6/xq/Nd3IA2jrUU37JaGJCxUXDYUwZTNRnxQoOkSDcO9hekf7aNi+uDy1YWW9S3+oB7QN5I3dT8m8ohJQoazE62YH80tjvkW6PaAtkVbZcm5aRbuggLsM5LX5v/ujsYU1Y2TCEj7adG1UYM4BespXh2coDhnWZG7uswYde8z84g8OK6Y1saZ+yFHhNWEHpAsgXU72xR6rpBXbaxEjsHSCrQNdLpY9+g1Ss5ZcvxYMSq0/j7WEkkulgPXvE2xtXsb4DehzUGONa/ZhOaLlI8E5mAzmgWlga4Vgxr3QlAVxWYWZBvLb3b493AEswg67vFbVIuSVJQ0snqTvgTSSM/fSb43/cbwuQf03SJ7FoW/uiVPGCbcD2B7hsOBH8NrHvlEYvKsBBvDa716lXkiK+4H3pAQF4k3L6mgGtKACBablt6nOgW+lv0VKfIRH8ppHg/oCa82ZJ7ypo7tYl18fOjGtl3BJOr5TZxE229d9ESez0G+Nw==;yu0FJ8JazSkzZGRS0dvfAQ=="
 ---

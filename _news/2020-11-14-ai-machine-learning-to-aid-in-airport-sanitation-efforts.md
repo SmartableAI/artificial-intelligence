@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Why Humans Still Need to be Involved in Language-Based AI"
-    excerpt: "In this contributed article, Christine Maroti, AI Research Engineer at Unbabel, believes that humans still need to be in the loop in most practical AI applications, especially in nuanced areas such as language."
-    publishedDateTime: 2020-11-11T14:17:00Z
-    webUrl: "https://insidebigdata.com/2020/11/11/why-humans-still-need-to-be-involved-in-language-based-ai/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 19
 
 secured: "6vNNPxFBB3Imh+ltvKT4Qy+5u31f1FDZi8c4EealsLUreoSoXFDM7uQs4pCxzGCuidQc87tZY8iL1/kU8eaoKi5hVRWOy6ABnMBXE0C8qK+2UzrnkSu8sA25UGiWHQnxuOSBg3bKSfxnKhdUudlxxCQ0d+KmHLh+A/ZHFWx8Bm3FVNApj4OFUSxpEgSmMgH3Oyhfe/h7Cc8Mdzd6o9MQ4E88iV12tGsmlSGoyE0s9nYDcooPdZh+E6X3owt1ijOxwfv6D3iWOqmZpGTfDnNzxu/u95SaTHa0VAPqAwaED96W7J3SKRNBMahWlX7EaAK46dMUgaRW9E/UQ91AilmBKzKjWuaLth7x6L92B0Fbb0E3MxQoNBsRcm4moS3ynY0FKjphyvLI8mG8w1u6NQSaFk5KtM28YoOkdIrqWwwMxgV1Mks5l+TuuC2f1HBVmiPRYHV0TuZr2uzQ19WNUazLdbZuCymeXa8SLZYiV4mmV+mqoxlcGaZWkpwp9SGC/ly0mNP3zeXv0LNDFMkCHymKvA==;ZYrrfFHx8VWPEjqCxn57Mg=="
 ---

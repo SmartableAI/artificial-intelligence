@@ -2,6 +2,143 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2020-10-12-ibm-watson-demonstrates-new-natural-language-processing-advancement-in-premiere-of-thats-debatable.md",
+      "title": "IBM Watson Demonstrates New Natural Language Processing Advancement in Premiere of \"That's Debatable\"",
+      "excerpt": "To generate the key points, the system utilizes four steps: Language can present a unique challenge for the business world – each company and industry has its own vernacular that evolves in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/ibm-watson-demonstrates-new-natural-language-processing-advancement-in-premiere-of",
+      "originalUrl": "https://www.nasdaq.com/press-release/ibm-watson-demonstrates-new-natural-language-processing-advancement-in-premiere-of",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-12T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-12-ai-helps-produce-worlds-largest-3d-map-of-the-universe.md",
+      "title": "AI helps produce world’s largest 3D map of the universe",
+      "excerpt": "Scientists at the University of Hawaii's Mānoa Institute for Astronomy (IfA) used AI to create a catalog of stars, galaxies, and quasars.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/10/12/ai-helps-produce-worlds-largest-3d-map-of-the-universe/",
+      "originalUrl": "https://thenextweb.com/neural/2020/10/12/ai-helps-produce-worlds-largest-3d-map-of-the-universe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-12T114406.890-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/10/12/ai-helps-produce-worlds-largest-3d-map-of-the-universe/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/12/ai-helps-produce-worlds-largest-3d-map-of-the-universe/amp/",
+      "publishedDateTime": "2020-10-12T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-12-ai-is-throwing-battery-development-into-overdrive.md",
+      "title": "AI Is Throwing Battery Development Into Overdrive",
+      "excerpt": "Improving batteries has always been hampered by slow experimentation and discovery processes. Machine learning is speeding it up by orders of magnitude.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-is-throwing-battery-development-into-overdrive/",
+      "originalUrl": "https://www.wired.com/story/ai-is-throwing-battery-development-into-overdrive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f80cab2941317efa4fcd52b/master/pass/Sec_lithiumion_1159460136.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-is-throwing-battery-development-into-overdrive/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-is-throwing-battery-development-into-overdrive/amp",
+      "publishedDateTime": "2020-10-12T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-12-on-heels-of-100m-funding-round-olive-expands-healthcare-ai-capabilities.md",
       "title": "On heels of $100M funding round, Olive expands healthcare AI capabilities",
       "excerpt": "Healthcare software startup Olive is expanding its artificial intelligence capabilities to assist healthcare workers with day-to-day tasks like prior authorizations and insurance verifications. The company's new Olive Helps platform,",
@@ -1027,160 +1164,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-rights-group-criticizes-buenos-aires-for-using-face-recognition-tech-on-kids.md",
-      "title": "Rights group criticizes Buenos Aires for using face recognition tech on kids",
-      "excerpt": "Human Rights Watch wants the city of Buenos Aires to stop using live facial recognition to identify children accused of committing crimes, the rights group said on Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uk-argentina-rights/rights-group-blasts-argentina-for-using-face-recognition-tech-on-kids-idUKKBN26U208",
-      "originalUrl": "https://www.reuters.com/article/uk-argentina-rights/rights-group-blasts-argentina-for-using-face-recognition-tech-on-kids-idUKKBN26U208",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201009&t=2&i=1536893280&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG98188",
-          "width": 814,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN26U208",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26U208",
-      "publishedDateTime": "2020-10-09T20:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-experts-urge-vigilance-over-ai-data-security.md",
-      "title": "Experts Urge Vigilance Over AI Data Security",
-      "excerpt": "The expanded use of artificial intelligence in nearly all areas of business means companies must pay more attention to the integrity and security of the data used to train algorithms, a panel of security and AI experts said earlier this week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/experts-urge-vigilance-over-ai-data-security-11602272062",
-      "originalUrl": "https://www.wsj.com/articles/experts-urge-vigilance-over-ai-data-security-11602272062",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-242976/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-09T15:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-facebooks-ai-flags-onion-photo-as-overtly-sexual.md",
-      "title": "Facebook's AI Flags Onion Photo as 'Overtly Sexual'",
-      "excerpt": "A Canadian seed company that posted a photo featuring a pile of onions was notified by Facebook that 'listings may not position products or services in a sexually suggestive manner.'",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/facebooks-ai-flags-onion-photo-as-overtly-sexual",
-      "originalUrl": "https://www.pcmag.com/news/facebooks-ai-flags-onion-photo-as-overtly-sexual",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/030jVR79RwEptik80LTAPr9-1.1602278178.fit_lim.size_1200x630.jpg",
-          "width": 1121,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/facebooks-ai-flags-onion-photo-as-overtly-sexual?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/facebooks-ai-flags-onion-photo-as-overtly-sexual?amp=true",
-      "publishedDateTime": "2020-10-09T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
