@@ -57,20 +57,17 @@ related:
         width: 800
         height: 800
         isCached: true
-  - title: "Microsoft announces “Open Azure Day” event to show developers how to run Linux apps “your way” on Azure"
-    excerpt: "Microsoft’s announced a virtual event for November 18th intended to illustrate the utility of its Azure cloud platform to Linux-centric developers. The company’s Open Azure Day will feature two"
-    publishedDateTime: 2020-11-11T15:11:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-announces-open-azure-day-event-to-show-developers-how-to-run-linux-apps-your-way-on-azure"
+  - title: "Onevinn AB Joins the Microsoft Intelligent Security Association"
+    excerpt: "Onevinn offers Managed Detection and Response (MDR) services on the Microsoft Azure Marketplace and deepens collaboration with Microsoft"
+    publishedDateTime: 2020-11-16T08:17:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/onevinn-ab-joins-the-microsoft-intelligent-security-association-1029804729"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/onevinn-ab-joins-the-microsoft-intelligent-security-association-1029804729"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/onevinn-ab-joins-the-microsoft-intelligent-security-association-1029804729"
     type: article
     provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 38
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2020/08/Ignite-2017-Microsoft-loves-IT.jpg"
-        width: 1024
-        height: 768
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 86
   - title: "Microsoft Custom Translator pushes the translation quality bar closer to human parity"
     excerpt: "The Custom Translator journey to be on the leading edge of machine translation technology continues. In early August 2020, we started our Custom Translator upgrade from Long Short-Term Memory (aka LSTM) based neural machine translation architecture (or V1) to our Microsoft Translator’s state-of-the-art Transformer based architecture (or V2)."
     publishedDateTime: 2020-11-12T21:57:00Z

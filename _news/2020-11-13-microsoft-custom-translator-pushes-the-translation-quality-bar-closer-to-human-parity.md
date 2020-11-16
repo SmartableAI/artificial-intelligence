@@ -61,6 +61,17 @@ related:
         width: 800
         height: 800
         isCached: true
+  - title: "Onevinn AB Joins the Microsoft Intelligent Security Association"
+    excerpt: "Onevinn offers Managed Detection and Response (MDR) services on the Microsoft Azure Marketplace and deepens collaboration with Microsoft"
+    publishedDateTime: 2020-11-16T08:17:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/onevinn-ab-joins-the-microsoft-intelligent-security-association-1029804729"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/onevinn-ab-joins-the-microsoft-intelligent-security-association-1029804729"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/onevinn-ab-joins-the-microsoft-intelligent-security-association-1029804729"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 86
   - title: "Microsoft adds Hindi to its Text Analytics service"
     excerpt: "Text Analytics includes sentiment analysis, opinion mining, key phrase extraction, language detection, named entity recognition, and Personally Identifiable Information (PII) detection. Microsoft on Thursday said it has added Hindi to its Text Analytics service to help businesses strengthen customer support through a complete analysis of user perception and feedback in the most widely spoken language in India."
     publishedDateTime: 2020-11-14T05:02:00Z
@@ -74,20 +85,6 @@ related:
       - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/11/2020_11$largeimg_705948515.JPG"
         width: 600
         height: 368
-        isCached: true
-  - title: "Microsoft announces “Open Azure Day” event to show developers how to run Linux apps “your way” on Azure"
-    excerpt: "Microsoft’s announced a virtual event for November 18th intended to illustrate the utility of its Azure cloud platform to Linux-centric developers. The company’s Open Azure Day will feature two"
-    publishedDateTime: 2020-11-11T15:11:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-announces-open-azure-day-event-to-show-developers-how-to-run-linux-apps-your-way-on-azure"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 38
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2020/08/Ignite-2017-Microsoft-loves-IT.jpg"
-        width: 1024
-        height: 768
         isCached: true
   - title: "AVEVA to collaborate with Microsoft to provide cloud platform and domain expertise for industrial sector organizations"
     excerpt: "AVEVA, a global leader in engineering and industrial software, announced that it will be extending its long-standing strategic collaboration with Microsoft to focus on accelerating digital transformation in the industrial sector."

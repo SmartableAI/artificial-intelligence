@@ -3,10 +3,10 @@ category: news
 title: "Fujitsu to develop supercomputer for AI research in Japan"
 excerpt: "The 'AI bridging green cloud infrastructure supercomputer' will feature 120 nodes, 11.2 petabytes of storage, and is expected to reach peak performance of 19.3 petaflops."
 publishedDateTime: 2020-11-16T01:55:00Z
-originalUrl: "https://www.zdnet.com/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/"
-webUrl: "https://www.zdnet.com/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/"
+originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/"
+webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/"
 type: article
 quality: 87
 heat: 97
@@ -45,6 +45,6 @@ related:
         height: 228
         isCached: true
 
-secured: "rF707eHlBpd/Onj4+ZCxmpEpin5vGK+pRORH7viy4G066FOdfbt0bG+FVcbiVVGNMBPpXD57xVPL2P87KiA1DcrNa0huv3x/zfkISKOMMZMvG/8SG8aSE/iTg4OEUe0fS2E1KznJoojt0euon+KRjLovu4uNchI7D8p06+TC8HI4Z2KwQuSsGKHBrhABtnyvJcNLizgom+F0bXQxyPvnL1ObwquUA9NXNGi+HNIhfDospBEAAJJdyXPz9jgQHJ5shVo7r022arHC3zXfKYLiF1JfGPGnNaTRwt/SMEi2LhblHezGN9Lz15efuR/ojJG403kpOMRWJc4wmBB1Aw3Ft2m7jjzEJJTr0Mlbgi5DOXI=;cwTkkWb1biWsfySpTfydtA=="
+secured: "RHXcManORZkkEj7drP1jAPDu+xCTvMj7H8Es3jdHqhb1kKmlr6PE57hoh7jJsrBqKjllF/Adk0qEJwjjaEEvWBQCAKTiaQ4CJD+0HthhBlZJy9U57lg1bLne71ZPpzzCvmLR0yXKzqIev0zfEDkouTnS+Y0dG2/zknRzgbIlXn84h+g8V2UGbnOAkparw5ciK++2lx3bWSZrUSH3rgaNAQiQbKKkVTg9pOFbV/rE7UAQyAq9ENq17JVJuPexh4iKxrRb7Z8GZdpdjC9Ybv3XkqEFmF4qq749vY8PU/DUVLwgPa0Uw1TemK0vl1XeQwvhZshq86O1gu89Jjz4MTau2ujlNqCZmWCasrTT3Q2zHB4=;VRBRVKYmK+blYrFof1ZNBw=="
 ---
 

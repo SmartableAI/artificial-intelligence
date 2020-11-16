@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/news/av/technology-54815149"
 webUrl: "https://www.bbc.com/news/av/technology-54815149"
 type: article
 quality: 67
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "A survey on artificial intelligence in chest imaging of COVID-19"
-    excerpt: "In a new article for BIO Integration journal, a group of researchers from China consider the application of artificial intelligence imaging analysis methods for COVID-19 clinical diagnosis."
-    publishedDateTime: 2020-11-11T15:25:00Z
-    webUrl: "https://medicalxpress.com/news/2020-11-survey-artificial-intelligence-chest-imaging.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-11-survey-artificial-intelligence-chest-imaging.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-survey-artificial-intelligence-chest-imaging.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/chestxray.jpg"
-        width: 1920
-        height: 1806
-        isCached: true
   - title: "Machine learning models predict critical events, mortality rate in COVID-19 patients"
     excerpt: "Mount Sinai researchers have developed machine learning models that predict the likelihood of critical events and mortality in COVID-19 patients within clinically relevant time windows."
     publishedDateTime: 2020-11-14T10:29:00Z
@@ -98,6 +82,6 @@ related:
         height: 240
         isCached: true
 
-secured: "yuQlA/xaZCSxaWkxGfHoU0lS6im1iKVjcnl7hoNzExbk7rDsbPfnnq67SnlgqKFMI2guh62Cjv4cLa2v7pVyocoI1B1KbPAwFY+B802rGhcrUlyTZFD94iTC6Jedv08dxIt0Sx9Zi6y9LRmMVvzle+DF5uN40HMZJ09znuIC3mkUeFvemQrayEyJJNJ5ERsbyLExO+lStwPFD6OR5ui0RIhIEPm2A4hnyHX2riquvPDmdQ+oMTyMvm5g6I+nX89NOot3rDSu6PhvdVZWxwqm7mpJNYOLhxX8nufZLqds8jtVOVlPpMkYuEndByEvX6dBo3pHdcnUsh5lJylMCH2dfxUyZRXz6e0kPLWIveqSo7w=;wzLbsh92O4Eslg3q+RUxPQ=="
+secured: "SkzVtNm2ZoQdv7cvGOdLEt9oa1a+Bwb/zWg4DfqJm6t/x+wpoeJ/xJMgtwSdq+rhzvgfwr7WQXD/yd30HR3nOqneTDb9tJqVDepp9uFjV6Co0A8l3caZIlHq35HH+IN8PMJdt/EuKGTVAMwJ3NMaDJ7Q55TjyUyodz3MiTu/CpapDz2wGlMeu8uSDro80kgbqNyKXT48BhSpjUXFdvGI7xQ81Wjd+KobKnZuLC4RGl/PBbFt2nw/aweuc48p/7i1/gclYoYVSwfXjUp/owFEGTLb71WsupaeSyp42tL6qGf9toHgFSej/ghdu2bNSxJWi9hJ1Vuis0UA4lo7WFEITrvs+ZRYIS+jHk1nr7hXAIKNB7y/4Y98CSrAavh+CBr/6GEMC8u1IgtAi30TrEv4Z3/luvMDREdjqWGLq2EtwLT+qRJ+X2azAynvw9HdrwjZoP1NU/Ve+GFbCPPIULAbPgwxqUSW3J9IAXMMl3q9qmndr3V67Qo/njsFKZpmPQgoMApj9lk9MM2dmqUIEJ37Qw==;DHQQg3U/DajkHtQl9A8kkg=="
 ---
 

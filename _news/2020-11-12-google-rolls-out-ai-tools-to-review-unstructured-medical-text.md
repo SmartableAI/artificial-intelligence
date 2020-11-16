@@ -7,7 +7,7 @@ originalUrl: "https://medcitynews.com/2020/11/google-rolls-out-ai-tools-to-revie
 webUrl: "https://medcitynews.com/2020/11/google-rolls-out-ai-tools-to-review-unstructured-medical-text/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 2880
     height: 1524
     isCached: true
-
-related:
-  - title: "Google launches AI tools for healthcare to streamline document review, analysis"
-    excerpt: "Google launched new artificial intelligence tools for healthcare providers to search through medical documentation on Nov. 10, according to a Google Cloud blog post. Healthcare professionals can now preview Google's Healthcare Natural Language API and AutoML Entity Extraction for Healthcare,"
-    publishedDateTime: 2020-11-11T15:47:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/google-launches-ai-tools-for-healthcare-to-streamline-document-review-analysis.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 67
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg"
-        width: 400
-        height: 300
-        isCached: true
 
 secured: "Cke4bSyTQD4nAz7IKTj29LSg/wJXp4F8JCpSIT/ycaZA/pZRXWGfFccpdPL1bV0prp/LrjFbPKZve2hxJZDh9c25qOm1TBrqh58QFN1CcfuL6t5T+FVuiX5GB1ccr1ajcs0y6KvqdMxYgAaK8n+HcQvQ7aCQUrP4dniQ+mFsgcAW8L6IbIcw+UFZZ3WRQhTH0lUA+SpGuTSJl8IGoaHt5AbDidB6DKeANKe8VR7Ek3yjAY+IjCg28GYvTnotYxgr1Yx+veoqKvOz63RKKOhQSn08d8l2x61L7cX81rgirBze+o8HM9HguySA2hy1EkjdEmPrnANKHTAm4PAsBPv1cnWrBrGUvxvkeHFZ/kN9+r25Jtq+EHjGDdNT2UvCevhqj12vIwpOuZrRPgoWn7AivLLP0J6DbWd7KqVHF2PW6WziaF1lzbN/jshHzqXKrSNzjygpBF6bIDtQ+3FuemYbGhYo8D7Tls0LCMNOu0dJw8KBOtGxUAqFWOknsthpclUb8XyjZ7R20MBCXwYHfC8WjQ==;wnSMQ8AkvRf5N9jV+LfRUQ=="
 ---
