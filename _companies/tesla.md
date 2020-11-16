@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 561
+heat: 577
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 6501823
+  followers: 6503660
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "upOwCYT4dNZNueKXvoOEUaRdizzYlLtAFx9lckynXWFz/85PfsfDlEDRywBa2/uf7yPr0SDPz0PTrX9u4EVAic5pZ3FE71oDydDELU8mNpkFqQOqo+9LBuR1br+YMVoQeemoYBxII83JaEHn26pIyMKhdSkMZQ8eRWXgivD9kBGVynVqPrIcQQH2t1hRUs28YaIo+hPSqTkFQ55s5p+xby08UTswFvvMJs50pXWOK0SKSV9/okuWe8t4i1InroIdhDVYpzMWiiIOH54qw7FfGHh/Kw9fUKvz3UUILWdehtbyE+gc0gCjUjq0uoz3fkAVXd05Khjt/49SlcTK58WrXpyRqEfLOrWV34g0M8ewrEN0lZoCAn8wyA9GyJVGAP1Q+UVt/k1GjmFXH3gtDJVDp4seTvPLVsIcMzOEk44RUnk=;1UQ5T12uJ4tAOPDbEdXG9Q=="
+secured: "h/ZexuGAyeh3MhlUoQ8lFxGkGhgVk1mqV5Uc2goztVGTGuzQOQCNZG+w9dA0qHxRmFSHhR5tJ+sFB+88DAGQEPUhgxJrJQoMQskm7ybiJZ/RKECC4T3Ai7gKmt5trq+OiUH0qSBGdJZB555fk57UmYTAFYMs3CgEa34Bn8iS2yvfDlH4TfwJ0WGgHSNOommmb+yOHBjofOWxqK12nyXB/pRpHVYxKu+FnfQBbqBdOHDqv0PbPM8h5H+KxNEV76ixRA+BJGVUejHtA9bi2tQdAVDmH99K8tIQ4y7MqNh6CajVwBd8K3fILjV3hfX/CroEDpme2wfKoBfncggNNxJPXePjsz5bRj3bEqeR81D/r5vGOO5ZCsPCjrZawJzaUJgKXNA4VEcX2lOf4Yf0CPQEFkJovmudZTYin4qdUjymRnE=;w57rUUI1TuiGMsLYo135BQ=="
 ---
 

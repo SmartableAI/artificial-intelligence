@@ -2,7 +2,7 @@
 name: "ClimaCell"
 overview: "Have you ever checked the weather only to be caught in an unexpected rainstorm without an umbrella? ClimaCell is revolutionizing weather forecasting. We are bringing a new approach to weather forecasting, and providing the forecast accuracy and reliability necessary for the 21st century."
 type: "profile"
-heat: 57
+heat: 50
 
 website: https://www.climacell.co/
 
@@ -40,6 +40,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "jRBP7elPfv6PrOn+2RX0DkTe6N4UOIptNHLkCfNt0f/UrhD09m0HLLiAaUhB7q7+Rc30FrAVWHEG9HHZ120kaKM+2b1JH4SAFbRmQo99SZKSmrBV97mzy5m/0cRQIETUuAffwHFGtwiCxyl9myIt6FvfyXK999C6ZlJ7x90/XeJpUmL97HZQZnK/H0xiKKKddzbQtbzAoy/5aYgYGB5/Gh06Lba5l/8ROWNwP+9El8pWQeGVGBF+ksur0DPI/PaMYixTj2gDrQB6nlhPiUItw9M02UHPUdi8BTFGi5fPVEQDnAXlYDggY0H6sl6mkDDHZ/t4uzLcj3wB5nQCZroyVPA/ycAmokN0v2A9vCUPtM9E48Dl1uUSG7mP1V1wjaNEb2BCbj3RcI7H+oboiUEfAw==;O5tu4IZ4JuA8bSr6xfpIFw=="
+secured: "GHNmud4RDKGjJCtCcIukCYI/VudKBvWqRd0EZXXa9rGsFP4/HwTaSupDj//fpD4SVXzCod5s+0MSK3OSFdo4rZNfFsC49imCbHrHEz7auh0ZkZyEqz1AaXpMABgxeZKwHiFIggxoUFdugUW1yNruXggHXKn9JaClg9p1w8TS+YtKmhVQ9fET6c8UaTiXg12N9ehpqM1uV4D+0oOvizO1Lkhz8NPQjKvi0jzR1OXuYapf+ce5J5eY7CvK3QYsH6EqWM+DVy3glmPQIbrWL9ci/z5viWAJLmo0B+vcnnP1wk1zTXNaZDa1AtZ5NYl778J7IgcHcHFo1xQtP4jnHctGXLGowmCgcVTcXTVc9SNfhy+FLgvXrJBu78Maq3OIIWJSh8GOJ0ydFwgDRApIFYycXA==;qFDbG/3QuyusdQKN1AV6wQ=="
 ---
 
