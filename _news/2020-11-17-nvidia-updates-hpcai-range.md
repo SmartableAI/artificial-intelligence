@@ -6,8 +6,8 @@ publishedDateTime: 2020-11-17T01:58:00Z
 originalUrl: "https://www.itwire.com/hardware-and-storage/nvidia-updates-hpc-ai-range.html"
 webUrl: "https://www.itwire.com/hardware-and-storage/nvidia-updates-hpc-ai-range.html"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.itwire.com/media/k2/items/cache/2fe857af37ef5f565d687a3face964d7_M.jpg"
@@ -24,6 +25,6 @@ images:
     height: 211
     isCached: true
 
-secured: "vzMAPiOYBellrql63iTLyt6ziH8xwoBLK7PT6TF5X0r1Rg51CEr7LPbcwK8bUsQXlVztE877gE8OxlnSYIYNe0fXkX2SmnElo6QflHKjYytZi18vVGs/hJFFln9Br0+NsxvqhZ8ZmPGh3X3JppbN7Ax7Klwenj1xzEBK6LySaFdb+pg5oLzdhypebFurc9uTPnGMgJGY+oWJTK7qcFqOVp5ec2kRLByyO9zcCMtIy7/Lp8Wq2Ej7eDn3IbTtSfzTFgLsICgOBkV/smB6/0l0XclG35y8ujlIsB0V94pJccXS1rpyNM5UxPXtq/oZuSF124HQ0jJv9+Had+8lg54hhX7UfvZHduAyxZNbaH/aoBM=;oGlFakauZpS1dKeeQ3TZIA=="
+secured: "QSAhB1l/6edFQzeA2YuSy9hKOrPhTSPL+/f1Z7VkdZlfIKpxA1l3Woq/UVObdpfBrcxM712p2NELsBiNVxQL55UYINE4rLYfTS9E3j+Fgf6eKNkO7dfAvufDRLZvQ0EyjRXDSwxGOraGAoqfhN4D5toc7qhzL9ajIWEjCU+knCXSoKY4eg5CjI5Ej0uw+JqFqgDalCUzDzALKDaiR9TIXaF2wsOhPvMddZDHEpr36hjGgW09THgNfxQar4NgNgrw/v/hl52Xx2+hu90O6ov7anavtuKVAfeDZJyKI/FgyZMJcD3JyAed28lOaWI5kND/qgVma2SeFay0qX4dnIsJVLwYgsZeF4PQKFsOKvYMpCD91c1A3B1kQCGoKHF41cN7ZKQ9Bp5XOVH1tAtjuKZahMCAtLtJFZVc5MEYHT2v3UJNDcjimLFCFHFxenP5sXoVjWnyE21Bu40ydDKWBMokeoxaFFrZR7IkEyeMZWIi9tzmhbs7gk4LDDHqrmbLRSB5ViBBKABkJkKU+hRIXkIp5A==;lznP3P3Kvx2LF/x5DeO38g=="
 ---
 

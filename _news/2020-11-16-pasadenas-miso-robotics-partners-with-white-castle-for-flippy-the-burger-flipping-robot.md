@@ -7,7 +7,7 @@ originalUrl: "https://www.pasadenanow.com/main/pasadenas-miso-robotics-partners-
 webUrl: "https://www.pasadenanow.com/main/pasadenas-miso-robotics-partners-with-white-castle-for-flippy-the-burger-flipping-robot/"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 740
     height: 400
     isCached: true
+
+related:
+  - title: "Amp Robotics partners with Waste Connections"
+    excerpt: "Waste Connections plans to deploy the systems on container, fiber and residue lines across numerous material recovery facilities."
+    publishedDateTime: 2020-11-16T22:21:00Z
+    webUrl: "https://www.wastetodaymagazine.com/article/amp-robotics-partners-waste-connections-ai/"
+    type: article
+    provider:
+      name: Waste Today
+      domain: wastetodaymagazine.com
+    quality: 54
+    images:
+      - url: "http://www.wastetodaymagazine.com/fileuploads/image/2020/11/16/amp%20logo%20web.jpg?w=736&h=414&mode=crop"
+        width: 736
+        height: 414
+        isCached: true
 
 secured: "wcYwcruFySvC8JuX3G5Ir69335iG4mPnMwLQjvFQRohLdMkLpxR0cYFohD+fpPrCYbvfETxYPTwf23yJaQPzl6a9QNTdnp+om/7W/KPJxV2JX5KWKDqTlcKPA+V0ICNZsVjtsFwB0N6G77u6bC8/h4GQWYlU4G4r46x69paQiPBf5s4Ul1k3KUurDZZkNJCGGJqE9QfpevLN6ioToVVdRKb5Pu4z3NZLHgzi17P473Vt5MP3gjThpIPdoOUU7Tw+gQgRGIyhQO6Ej4PVt+eB5nCeE+48J+ir5YnfgRXRt+kC5EMCNHJBk5cS3roNkOv0CZeCHYT+qzXlFbW7N0sVo45FfjZgitVNX1ePBpGbtIJXpLEQIKVPrOi6m3zHz7XGd0jiRmTAUdLO9IQ1Ea07k2gEIczVOYIeRcz7XllMoLaP5kKYnDdzPepdxYVW9wLGU3NfLSXCqz7VvstK0l5nrikJKacQnPJh3bjBW9bnNBIwo4HvrAvR9xkIqx0GnjJmG0mOHzlcTDdO6YbsGecp7w==;cJ7OrUHQYBxEp+Ipc1eRag=="
 ---

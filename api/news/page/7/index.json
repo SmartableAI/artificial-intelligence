@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-11-11-joshai-launches-a-nearly-invisible-amazon-echo-competitor-thats-the-size-of-a-coin.md",
+      "title": "Josh.ai launches a ‘nearly invisible’ Amazon Echo competitor that’s the size of a coin",
+      "excerpt": "In the past several weeks we’ve seen refreshes and product expansions from about every facet of the smart home virtual assistant world. Apple launched the HomePod Mini, Google offered a long-overdue refresh of the Google Home,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/10/josh-ai-launches-a-nearly-invisible-amazon-echo-competitor-thats-the-size-of-a-coin/",
+      "originalUrl": "https://techcrunch.com/2020/11/10/josh-ai-launches-a-nearly-invisible-amazon-echo-competitor-thats-the-size-of-a-coin/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/20_10_13_Josh_AI_3126.jpg?w=680",
+          "width": 680,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/10/josh-ai-launches-a-nearly-invisible-amazon-echo-competitor-thats-the-size-of-a-coin/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/10/josh-ai-launches-a-nearly-invisible-amazon-echo-competitor-thats-the-size-of-a-coin/amp/",
+      "publishedDateTime": "2020-11-10T15:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-walmart-tests-self-driving-car-deliveries-in-arizona.md",
       "title": "Walmart Tests Self-Driving Car Deliveries in Arizona",
       "excerpt": "When customers in Scottsdale order items from their local Walmart, they will be able to choose a contact-free delivery from one of Cruise’s cars.",
@@ -1177,57 +1228,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-the-future-of-work-now-ai-assisted-writing-with-writercom-and-intuit.md",
-      "title": "The Future of Work Now: AI-Assisted Writing with Writer.com and Intuit",
-      "excerpt": "One of the most frequently-used phrases at business events these days is “the future of work.” It’s increasingly clear that artificial intelligence and other new technologies will bring substantial changes in work tasks and business processes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomdavenport/2020/11/10/the-future-of-work-now-ai-assisted-writing-with-writercom-and-intuit/",
-      "originalUrl": "https://www.forbes.com/sites/tomdavenport/2020/11/10/the-future-of-work-now-ai-assisted-writing-with-writercom-and-intuit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa9b4df4426b7e6db66db39%2F0x0.jpg",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2020/11/10/the-future-of-work-now-ai-assisted-writing-with-writercom-and-intuit/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/11/10/the-future-of-work-now-ai-assisted-writing-with-writercom-and-intuit/amp/",
-      "publishedDateTime": "2020-11-10T06:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

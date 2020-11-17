@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-11-08-how-the-department-of-veterans-affairs-uses-ai-to-help-vets.md",
+      "title": "How The Department Of Veterans Affairs Uses AI To Help Vets",
+      "excerpt": "With the largest integrated health care system in the country and a strong mission, the VA had tremendous potential to use AI for its mission. Dr. Gil Alterovitz shares the AI experience at the VA and how it's impacting the agency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/07/how-the-department-of-veterans-affairs-uses-ai-to-help-vets/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/07/how-the-department-of-veterans-affairs-uses-ai-to-help-vets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa6da8d7d7e38d5bf5f0e92%2F0x0.jpg",
+          "width": 586,
+          "height": 584,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/07/how-the-department-of-veterans-affairs-uses-ai-to-help-vets/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/11/07/how-the-department-of-veterans-affairs-uses-ai-to-help-vets/amp/",
+      "publishedDateTime": "2020-11-07T10:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-07-remote-testing-monitored-by-ai-is-failing-the-students-forced-to-undergo-it.md",
       "title": "Remote testing monitored by AI is failing the students forced to undergo it",
       "excerpt": "While automated proctoring might seem like a panacea in this age of virtual schooling, it’s a terrible solution for millions of students.",
@@ -1168,58 +1219,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-how-ai-predictions-fared-against-pollsters-in-the-2020-us-election.md",
-      "title": "How AI predictions fared against pollsters in the 2020 U.S. election",
-      "excerpt": "A report from the American Association for Public Opinion Research ... tweets and Facebook messages. But in the aftermath of the 2020 election, it’s still unclear whether AI proved more or ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/06/how-ai-predictions-fared-against-pollsters-in-the-2020-u-s-election/",
-      "originalUrl": "https://venturebeat.com/2020/11/06/how-ai-predictions-fared-against-pollsters-in-the-2020-u-s-election/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/GettyImages-1283078276.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/06/how-ai-predictions-fared-against-pollsters-in-the-2020-u-s-election/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/06/how-ai-predictions-fared-against-pollsters-in-the-2020-u-s-election/amp/",
-      "publishedDateTime": "2020-11-06T06:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

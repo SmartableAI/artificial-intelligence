@@ -27,7 +27,7 @@ related:
     provider:
       name: New Electronics
       domain: newelectronics.co.uk
-    quality: 73
+    quality: 75
     images:
       - url: "https://www.newelectronics.co.uk/article-images/232209/simple.jpg?width=375&height=250&scale=canvas"
         width: 375

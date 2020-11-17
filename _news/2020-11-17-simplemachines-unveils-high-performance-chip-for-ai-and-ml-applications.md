@@ -6,8 +6,8 @@ publishedDateTime: 2020-11-17T00:20:00Z
 originalUrl: "https://www.newelectronics.co.uk/electronics-news/simplemachines-unveils-high-performance-chip-for-ai-and-ml-application/232209/"
 webUrl: "https://www.newelectronics.co.uk/electronics-news/simplemachines-unveils-high-performance-chip-for-ai-and-ml-application/232209/"
 type: article
-quality: 73
-heat: 83
+quality: 75
+heat: 85
 published: true
 
 provider:
@@ -19,6 +19,7 @@ topics:
   - AI
   - Machine Learning
   - AI Hardware
+  - Microsoft AI
 
 images:
   - url: "https://www.newelectronics.co.uk/article-images/232209/simple.jpg?width=375&height=250&scale=canvas"

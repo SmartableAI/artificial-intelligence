@@ -7,7 +7,7 @@ originalUrl: "https://www.wastetodaymagazine.com/article/amp-robotics-partners-w
 webUrl: "https://www.wastetodaymagazine.com/article/amp-robotics-partners-waste-connections-ai/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,37 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Super Glue Your Consumer Connections With AI"
-    excerpt: "In today's hyper-fragmented, pandemic-influenced world, retailers and marketers alike are struggling to keep up with quickly changing shopping behaviors and media consumption."
-    publishedDateTime: 2020-11-12T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2020/11/12/super-glue-your-consumer-connections-with-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2020/11/12/super-glue-your-consumer-connections-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/11/12/super-glue-your-consumer-connections-with-ai/amp/"
+  - title: "Pasadena’s Miso Robotics Partners With White Castle For Flippy, the Burger-Flipping Robot"
+    excerpt: "After a successful pilot program, White Castle restaurant chain is partnering with Pasadena-based Miso Robotics to use that company’s robotic fry cook at 10 locations. Terms of the deal were not disclosed."
+    publishedDateTime: 2020-11-16T13:21:00Z
+    webUrl: "https://www.pasadenanow.com/main/pasadenas-miso-robotics-partners-with-white-castle-for-flippy-the-burger-flipping-robot/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Pasadena Now
+      domain: pasadenanow.com
+    quality: 45
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef33ef244713a0007ed4825%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Artificial intelligence helping lower costs, speed up construction projects"
-    excerpt: "One company says it's AI technology can realize $30 million in savings on a $500 million project by reducing the cost of equipment and manpower."
-    publishedDateTime: 2020-11-14T00:54:00Z
-    webUrl: "https://abc7news.com/technology/ai-helping-lower-costs-speed-up-construction-projects/7934677/"
-    ampWebUrl: "https://abc7news.com/amp/ai-technology-coronavirus-construction-artificial-intelligence/7934677/"
-    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/ai-technology-coronavirus-construction-artificial-intelligence/7934677/"
-    type: article
-    provider:
-      name: ABC7 San Francisco
-      domain: abc7news.com
-    quality: 55
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/7935065_111320-kgo-ai-chip-pacific-structures-img_Image_00-00-33,13.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.pasadenanow.com/main/wp-content/uploads/2020/11/33984633_10156379948463252_4260405393521377280_n-740x400.jpg"
+        width: 740
+        height: 400
         isCached: true
 
 secured: "t4NddEHD+a8HB1fUaOHwHEsyN+oSk7oF02SWbzV3oDhoUzQ93LPygJodNj4031WzY2B2ffVIjOeQ8WLSyDudFExBSLA/WPOeHVpp0RC7IDXToBc49GczWGfKa0QBuEtymjdYynxBj9EoDj3qE8i4Gm57z3KWA43QyVrmJKMl3fwJKx5qexhc1wGb0ghiFgXkPdGGI59gZEFmkd2RlI97MJSRa+l5//bDx/evzdWJLd3G8VKyLNcLO2NC3x5U1GxVs/bKFIIsu4zf805Bs2eKQidrvkj2i3UDDcLxWOMq6ZE8W41thdGASnUO0UPWzhuqJHkBKQmffPrZRz31L3JgLS8cK6ZlG1lG/DUz5pfi7Wo=;YaVajHwaClCEpinryiJ3Lg=="

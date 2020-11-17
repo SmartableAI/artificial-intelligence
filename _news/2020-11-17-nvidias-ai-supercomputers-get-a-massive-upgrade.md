@@ -1,24 +1,34 @@
 ---
 category: news
 title: "NVIDIA's AI Supercomputers Get a Massive Upgrade"
-excerpt: "The high-speed chip powers NVIDIA's HGX AI supercomputing platform -- a turnkey AI processor in a box. The company touts the A100 as \"the world's fastest data center GPU.\" The chip will also be found at the core of NVIDIA DGX A100 and DGX Station A100 systems,"
-publishedDateTime: 2020-11-16T19:43:00Z
-originalUrl: "https://www.nasdaq.com/articles/nvidias-ai-supercomputers-get-a-massive-upgrade-2020-11-16"
-webUrl: "https://www.nasdaq.com/articles/nvidias-ai-supercomputers-get-a-massive-upgrade-2020-11-16"
-ampWebUrl: "https://www.nasdaq.com/articles/nvidias-ai-supercomputers-get-a-massive-upgrade-2020-11-16?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidias-ai-supercomputers-get-a-massive-upgrade-2020-11-16?amp"
+excerpt: "The latest version of the A100 now has double the memory of its predecessor, \"providing researchers and engineers unprecedented speed and performance to unlock the next wave of AI and scientific breakthroughs."
+publishedDateTime: 2020-11-16T23:43:00Z
+originalUrl: "https://www.fool.com/investing/2020/11/16/nvidias-ai-supercomputers-get-a-massive-upgrade/"
+webUrl: "https://www.fool.com/investing/2020/11/16/nvidias-ai-supercomputers-get-a-massive-upgrade/"
+ampWebUrl: "https://www.fool.com/amp/investing/2020/11/16/nvidias-ai-supercomputers-get-a-massive-upgrade/"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/16/nvidias-ai-supercomputers-get-a-massive-upgrade/"
 type: article
-quality: 69
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F601054%2Fnvidia-a100-80gb-gpu.jpg&w=1200&op=resize"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "NVIDIA built an epic AI supercomputer from four new A100 80GB GPUs"
@@ -177,6 +187,6 @@ related:
       domain: seekingalpha.com
     quality: 30
 
-secured: "9eJuNvn5tnL4mXKaNAlaS/Z1mlyNN7Xk2DReuxHHUAfU6/NpOAoB14A/ouPhitJPK0o+O7kJtBaF8H3xsoraODij7OUQSywM13NmHz/0HrcJUtzRR9sLyYkAhiL4IZS4oyeSljU6l1JXyLsm/jMNtYjdkyPhwBvatOi5ipC8OqR+0e7rXhEacBjh2k6hTUzo0nli2O8FEuFjPNZ20Y1oSQBlyTy1qawDRDMOoBsUh/9xQerK+VUpKqwtq7r/KF7AL+7a0HtIKrVR5QycmKeJWcBKQbHU2xqGRaVy9UVgYRy8PQ03YprmeBU2HslOJRIFWvXci3LumMGuVY9A/ROBeJDRn2Ulnnhe5v8cUOQLy08=;/qOmJQcdnrjZm+bwrFiZ8g=="
+secured: "9DdPP3A8lxF+Js9DjMAlcLs7wBSkmGiO3cwad9UzmuCEXyGKGoqle+gb+TdbFeWXO9BCnymimpD2n3jooBHOX/wB4Hcatd/z5vmX4ujblLokzxFexBy+DIp5cOBpRim2WTqmGLn+0wpR0RruvQkmgJN7zYY52Y8i/YgEAC/Vw32VZrN2jh7m6+3oXXLLRwwEn3hFZTWVocoBLX9LQNGYKZ3InFYC5p2ye8k1ddesGypDQudE28vwACLYpVk9jUI4jicy7BbvcqsLUjKNFPjElIXatyC9ojX1vmrUVKOqGKHlMHUgCvjbTDr0Z6HuEKv431ovlRlfyr0hCLWgLTtwJcELCHHJXJg/VXuMJJuDpkA=;kTM6KVthn/iMqCG99CZt9A=="
 ---
 

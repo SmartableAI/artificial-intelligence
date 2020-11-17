@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) in Healthcare Market to Reach US$ 26.5 Billion by 2025, Globally |CAGR: 41%| UnivDatos Market Insights"
-excerpt: "UnivDatos Market Insights released a report titled \"Artificial Intelligence (AI) in Healthcare Market - by Technology (Machine Learning,"
-publishedDateTime: 2020-10-27T15:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025--globally-cagr-41-univdatos-market-insights-301160783.html"
-webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025--globally-cagr-41-univdatos-market-insights-301160783.html"
+excerpt: "The healthcare industry is expected to benefit from US$ 45 billion in annual cost savings by 2025. For detailed analysis on the Global Artificial Intelligence (AI) in Healthcare Market browse ..."
+publishedDateTime: 2020-10-27T00:00:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-842269344.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/artificial-intelligence-ai-in-healthcare-market-to-reach-us-26-5-billion-by-2025-globally-cagr-41-univdatos-market-insights-842269344.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 670
     isCached: true
 
-secured: "bRiIFxjxZeJVC73Ko0ZhuuQu3tyeZYOvtP5fMlAsxzTcQUqu/Ljw03mT0S++W2BlekeKzJ8dsXNVuY4Zu5B/2r4iwnuj0kpjSIkuvUDsEXORk1XfstsWXBpEsn5zTa14uy+/APRlU6jFo+KJMzghSNY0rTIxfhwzHFFpyo1o6kMXbDwDmZsWMEs3bS2c9gpTEaA8AFVhAK1dD6XY/9h2tBNd0AiUM0GnS61H/yIO5x1TnegT2LAgJi02iCdZ7LgqPQ/ri/y5FpLGXhmTfsDwMu1u747I+l2BRlbsIsWH4v+1sRLBBeIrQ3NW6Rwf6x1DX45OL6wjuDTIwLoUV1vmgccWfWzB2BUqvLZQiwoyz3s=;wxaxOzOa+LxS0YNV4KQ9yg=="
+secured: "TO1y49LcxaNhIY6IinuyNSXzhRQI/Bx47MbGYxbUqX5n/muGre5ht4BdLDdrI44oC+Mpg3ulBh8N3bTt1+ogbCj/wzxwuB/ORtJr6US5Z+RyVTVvf3BAVL7hEeEX4XFRbF5zdKvI7UnayN1ELZGqcnCweeQYs9C0HvhOBbj5kd3YDwnFvUIvqQcDSRvmP1btEVjnfG5kC3jbqRxLisXEUClzbggSO4trx3CHlBg9bjFq28un8H5TjJ6i9GIiU6NF3/R5wafVEPI4G4+NnhbVh4JWooAijEsHaezNbMqggcvPd12LqrpVeZxSiCsRE1da6VCUVknBPZpP153k8KP+ef5IlFH1Th6C8dyOpnPniSk=;decxMwLsJaS3j1AZVJPRfw=="
 ---
 

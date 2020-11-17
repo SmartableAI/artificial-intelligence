@@ -32,16 +32,21 @@ images:
 
 related:
   - title: "NVIDIA's AI Supercomputers Get a Massive Upgrade"
-    excerpt: "The high-speed chip powers NVIDIA's HGX AI supercomputing platform -- a turnkey AI processor in a box. The company touts the A100 as \"the world's fastest data center GPU.\" The chip will also be found at the core of NVIDIA DGX A100 and DGX Station A100 systems,"
-    publishedDateTime: 2020-11-16T19:43:00Z
-    webUrl: "https://www.nasdaq.com/articles/nvidias-ai-supercomputers-get-a-massive-upgrade-2020-11-16"
-    ampWebUrl: "https://www.nasdaq.com/articles/nvidias-ai-supercomputers-get-a-massive-upgrade-2020-11-16?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidias-ai-supercomputers-get-a-massive-upgrade-2020-11-16?amp"
+    excerpt: "The latest version of the A100 now has double the memory of its predecessor, \"providing researchers and engineers unprecedented speed and performance to unlock the next wave of AI and scientific breakthroughs."
+    publishedDateTime: 2020-11-16T23:43:00Z
+    webUrl: "https://www.fool.com/investing/2020/11/16/nvidias-ai-supercomputers-get-a-massive-upgrade/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/11/16/nvidias-ai-supercomputers-get-a-massive-upgrade/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/16/nvidias-ai-supercomputers-get-a-massive-upgrade/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
+      name: The Motley Fool
+      domain: fool.com
+    quality: 89
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F601054%2Fnvidia-a100-80gb-gpu.jpg&w=1200&op=resize"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "NVIDIA A100 Ampere GPU Launches With Massive 80GB HBM2e For Data Hungry AI Workloads"
     excerpt: "Just six months after NVIDIA launched its A100 Ampere GPU, there is an upgraded version with double the memory, and it's faster to boot."
     publishedDateTime: 2020-11-16T13:52:00Z

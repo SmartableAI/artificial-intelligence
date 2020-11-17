@@ -82,6 +82,20 @@ related:
         width: 990
         height: 550
         isCached: true
+  - title: "AI-backed skilling start-up, Spotmentor Technologies acquired by consultancy provider, EY India"
+    excerpt: "EY stands for Ernst and Young Private Limited Company India India has bought 100% majority stake and acquired Spotmentor Technologies."
+    publishedDateTime: 2020-11-17T04:00:00Z
+    webUrl: "https://techstory.in/ai-backed-skilling-start-up-spotmentor-technologies-acquired-by-consultancy-provider-ey-india/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 25
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2020/11/EY.jpg"
+        width: 620
+        height: 330
+        isCached: true
 
 secured: "CJBYnUyS20/SepCbXZN4NHxT45S/VZHQHe4JrMZ3+DBs5dWYLcszi0xgkXzU4BCrZbEpIlrQH3eamgwWNm+vEoOl97p7s40IGqX+M8brPsdehzNsjFq04YfWFEiZbaK5rlD7Yq3kpY1Dtl0C6Oa/erwRBVtPihnBFG62LEcDtGcbVb3yTEOGQFQtMjEV8T3SwEOnPSfo6SWJYiCpYSDr1Hcuj3CQjpBdifm/Mu94ArOdfSbv+S2t2qn6IxXV6KBFSQjFPjqwTL6PP5eJYJqi9rDqfzQqaTs7MGmKcYgNS2b+T8Dzmyr3YzwHgw09XQGWXj+OKtRJ8PzvRIhK9ckBNk2V1UXTV/40y1ECgwG8iM0=;664pjcHLH3G3iNZsOAKETg=="
 ---
