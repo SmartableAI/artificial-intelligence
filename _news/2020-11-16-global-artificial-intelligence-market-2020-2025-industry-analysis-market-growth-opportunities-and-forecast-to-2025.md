@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Deep Learning Chipset Market Analysis, Share, Growth, Product, Top Key Players and Forecast 2025"
-    excerpt: "Selbyville, Delaware, MarketStudyReport.com offers report on Global Deep Learning Chipset Market that evaluates industry growth trends through historical data and estimates prospects based on comprehensive research."
-    publishedDateTime: 2020-11-12T15:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-analysis-share-growth-product-top-key-players-and-forecast-2025-2020-11-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global AI (Artificial Intelligence) Speaker Market 2020 Applications, SWOT Analysis, Remarkable Growth and Competitive Landscape by 2026"
     excerpt: "The latest market research report titled Global AI (Artificial Intelligence) Speaker Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026 reveals the overview of the global industry,"
     publishedDateTime: 2020-11-16T19:18:00Z
@@ -90,6 +76,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automotive Gesture Recognition Market Share 2020 : Top Manufacturers, Industry Size, Regional Analysis, Types and Applications and Forecasts to 2026"
+    excerpt: "Selbyville, Delaware, Market Study Report LLC recently added a new title on 2020-2026 Global Automotive Gesture Recognition Market Report from its database. The report provides study with in-depth overview,"
+    publishedDateTime: 2020-11-17T08:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-gesture-recognition-market-share-2020-top-manufacturers-industry-size-regional-analysis-types-and-applications-and-forecasts-to-2026-2020-11-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 15
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

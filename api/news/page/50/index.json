@@ -2,6 +2,241 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2020-10-08-highlights-from-nvidias-landmark-gpu-technology-conference-eweek.md",
+      "title": "Highlights from NVIDIA’s Landmark GPU Technology Conference - eWEEK",
+      "excerpt": "CEO described the combination of GPUs and the abundance of data as the “big bang” of modern AI. It’s arrived. Are you ready?",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/web/index.php/innovation/highlights-from-nvidia-s-landmark-gpu-technology-conference",
+      "originalUrl": "https://www.eweek.com/web/index.php/innovation/highlights-from-nvidia-s-landmark-gpu-technology-conference",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2020/06/NVIDIA.logo.black.green.JPG?alias=social_image",
+          "width": 560,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-startups-joining-sk-telecoms-accelerator-include-ai-driven-mapping-and-vision-for-delivery-robots.md",
+      "title": "Startups joining SK Telecom’s accelerator include AI-driven mapping and vision for delivery robots",
+      "excerpt": "We don’t often cover telecom technology startups, but it’s periodically worth checking in to see what’s happening in that space. We can get a good indication from the latest cohort to emerge from an accelerator associated with South Korea’s largest wireless carrier,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/07/startups-joining-sk-telecoms-accelerator-include-ai-driven-mapping-and-vision-for-delivery-robots/",
+      "originalUrl": "https://techcrunch.com/2020/10/07/startups-joining-sk-telecoms-accelerator-include-ai-driven-mapping-and-vision-for-delivery-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/installation-2.png?w=480",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/07/startups-joining-sk-telecoms-accelerator-include-ai-driven-mapping-and-vision-for-delivery-robots/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/07/startups-joining-sk-telecoms-accelerator-include-ai-driven-mapping-and-vision-for-delivery-robots/amp/",
+      "publishedDateTime": "2020-10-07T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-ibm-watson-advertising-expands-suite-makes-artificial-intelligence-the-backbone.md",
+      "title": "IBM Watson Advertising Expands Suite, Makes Artificial Intelligence The Backbone",
+      "excerpt": "IBM Watson Advertising is building a suite of solutions using artificial intelligence as the foundation. The suite, based on privacy measures, leverages first-party data to increase ad ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediapost.com/publications/article/356608/ibm-watson-advertising-expands-suite-makes-artifi.html",
+      "originalUrl": "https://www.mediapost.com/publications/article/356608/ibm-watson-advertising-expands-suite-makes-artifi.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-07T13:55:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaPost",
+        "domain": "mediapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-making-cycling-safer-with-aws-deeplens-and-amazon-sagemaker-object-detection.md",
+      "title": "Making cycling safer with AWS DeepLens and Amazon SageMaker object detection",
+      "excerpt": "According to the 2018 National Highway Traffic Safety Administration (NHTSA) Traffic Safety Facts, in 2018, there were 857 fatal bicycle and motor vehicle crashes and an additional estimated 47,000 cycling injuries in the US . While motorists often accuse cyclists of being the cause of bike-car accidents,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/making-cycling-safer-with-aws-deeplens-and-amazon-sagemaker-object-detection/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/making-cycling-safer-with-aws-deeplens-and-amazon-sagemaker-object-detection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/29/9-Architecture.jpg",
+          "width": 900,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-07T12:39:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-universal-electronics-inc-to-provide-voice-enabled-remotes-for-liberty-globals-new-environmentally-friendly-set-top-box.md",
+      "title": "Universal Electronics Inc. to Provide Voice-Enabled Remotes for Liberty Global’s New Environmentally Friendly Set-Top Box",
+      "excerpt": "Universal Electronics Inc. to Provide Voice-Enabled Remotes for Liberty Global’s New Environmentally Friendly Set-Top Box (Photo: Business Wire) The BLE voice-enabled remote control is powered by UEI chip technology,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-environment-and-nature-products-and-services-daac69c267a54d2383486eaebe1e4383",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-environment-and-nature-products-and-services-daac69c267a54d2383486eaebe1e4383",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-07T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-ucsf-fortanix-intel-and-microsoft-azure-utilize-privacy-preserving-analytics-to-accelerate-ai-in-healthcare.md",
       "title": "UCSF, Fortanix, Intel, and Microsoft Azure Utilize Privacy-Preserving Analytics to Accelerate AI in Healthcare",
       "excerpt": "UC San Francisco’s Center for Digital Health Innovation (CDHI), Fortanix, Intel, and Microsoft Azure today have formed a collaboration to establish a confidential computing platform with privacy-preserving analytics to accelerate the development and validation of clinical algorithms.",
@@ -968,214 +1203,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-a-new-idc-marketscape-assesses-eleven-providers-of-advanced-machine-learning-platforms.md",
-      "title": "A New IDC MarketScape Assesses Eleven Providers of Advanced Machine Learning Platforms",
-      "excerpt": "International Data Corporation (IDC) today published a new assessment of eleven companies offering the tools and frameworks for developing advanced machine learning (ML)",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/10/b17817028/a-new-idc-marketscape-assesses-eleven-providers-of-advanced-machine-learning-platforms",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/b17817028/a-new-idc-marketscape-assesses-eleven-providers-of-advanced-machine-learning-platforms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17817028",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17817028",
-      "publishedDateTime": "2020-10-07T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-cloud-first-approach-to-manufacturing.md",
-      "title": "Cloud First Approach to Manufacturing",
-      "excerpt": "Leveraging Azure high-performance compute, AI, and IoT services, ZEISS will work with Microsoft to provide OEMs with new quality management solutions, enable microchip manufacturers to build more powerful, energy-efficient microchips, and deliver new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.industryweek.com/technology-and-iiot/article/21143997/cloud-first-approach-to-manufacturing",
-      "originalUrl": "https://www.industryweek.com/technology-and-iiot/article/21143997/cloud-first-approach-to-manufacturing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://base.imgix.net/files/base/ebm/industryweek/image/2020/10/dreamstime_m_122671771.5f7db04debae3.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 624,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T05:14:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IndustryWeek",
-        "domain": "industryweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-maxim-integrateds-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices.md",
-      "title": "Maxim Integrated's Neural Network Accelerator Chip Enables IoT Artificial Intelligence in Battery-Powered Devices",
-      "excerpt": "PRNewswire/ -- The MAX78000 low-power neural network accelerated microcontroller from Maxim Integrated Products, Inc. (NASDAQ: MXIM) moves",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/maxim-integrateds-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-301147039.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/maxim-integrateds-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-301147039.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1307840/Maxim__MAX78000.jpg?p=facebook",
-          "width": 1920,
-          "height": 1005,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-robot-reapers-and-ai-just-another-day-on-the-farm.md",
-      "title": "Robot reapers and AI: Just another day on the farm",
-      "excerpt": "Technology is now enabling farmers to manage each section of the farm based on its unique conditions and needs. A good example of this in action is the spraying of herbicides, which had traditionally been done at the same rate across the whole field.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/robot-reapers-and-ai-just-another-day-on-the-farm/",
-      "originalUrl": "https://www.zdnet.com/article/robot-reapers-and-ai-just-another-day-on-the-farm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robot-reapers-and-ai-just-another-day-on-the-farm/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robot-reapers-and-ai-just-another-day-on-the-farm/",
-      "publishedDateTime": "2020-10-07T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-cig-capitals-charles-d-carey-on-the-lending-based-revolution-of-project-finance-fintech-magazine.md",
-      "title": "CIG Capital's Charles D. Carey on the lending-based revolution of project finance || FinTech Magazine",
-      "excerpt": "The financial services landscape is changing rapidly, and, in these turbulent times, investment companies can be inclined to focus solely",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/cig-capitals-charles-d-carey-on-the-lending-based-revolution-of-project-finance--fintech-magazine-301146927.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/cig-capitals-charles-d-carey-on-the-lending-based-revolution-of-project-finance--fintech-magazine-301146927.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

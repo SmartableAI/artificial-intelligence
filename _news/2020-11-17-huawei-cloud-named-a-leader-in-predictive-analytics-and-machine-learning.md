@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/huawei-cloud-named-a-le
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/huawei-cloud-named-a-leader-in-predictive-analytics-and-machine-learning-1029808693"
 type: article
 quality: 68
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -49,6 +49,20 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/Nvidia_SC20_NDR-400-InfiniBand-405x228.png"
         width: 405
         height: 228
+        isCached: true
+  - title: "Advantech Launches AIR Edge AI Inference Systems for AI and Vision Analytics Applications"
+    excerpt: "Advantech launched their AIR series of AI inference systems, to address AI applications including retail facial recognition, AOI/vision inspection, robotic, intelligent transportation, and more."
+    publishedDateTime: 2020-11-12T17:27:00Z
+    webUrl: "https://www.embedded-computing.com/news/advantech-launches-its-comprehensive-air-edge-ai-inference-systems-for-ai-and-vision-analytics-applications"
+    type: article
+    provider:
+      name: Embedded Computing Design
+      domain: embedded-computing.com
+    quality: 30
+    images:
+      - url: "https://content.cdntwrk.com/files/aHViPTYzODY3JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVmYWQ2YjU4YTk1NWEucG5nJnZlcnNpb249MDAwMCZzaWc9N2MxMDc2OGNhZWU4ZWJjNjBiODQzYzRiZDY1YWZhODQ%253D"
+        width: 500
+        height: 272
         isCached: true
   - title: "Fivetran Extends Integration With Databricks, Accelerating SQL Analytics, Data Science and Machine-Learning Applications"
     excerpt: "Fivetran, the leading provider of automated data integration, today announced advancements in its integration with Databricks, the Data and AI Company, extending the companies’ strategic partnership to power the modern data stack."

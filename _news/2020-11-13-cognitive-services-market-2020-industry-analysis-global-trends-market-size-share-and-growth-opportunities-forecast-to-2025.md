@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Deep Learning Chipset Market Analysis, Share, Growth, Product, Top Key Players and Forecast 2025"
-    excerpt: "Selbyville, Delaware, MarketStudyReport.com offers report on Global Deep Learning Chipset Market that evaluates industry growth trends through historical data and estimates prospects based on comprehensive research."
-    publishedDateTime: 2020-11-12T15:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-analysis-share-growth-product-top-key-players-and-forecast-2025-2020-11-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global AI (Artificial Intelligence) Speaker Market 2020 Applications, SWOT Analysis, Remarkable Growth and Competitive Landscape by 2026"
     excerpt: "The latest market research report titled Global AI (Artificial Intelligence) Speaker Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026 reveals the overview of the global industry,"
     publishedDateTime: 2020-11-16T19:18:00Z
@@ -98,6 +84,20 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/AI-Report11.jpg"
         width: 1200
         height: 694
+        isCached: true
+  - title: "Automotive Gesture Recognition Market Share 2020 : Top Manufacturers, Industry Size, Regional Analysis, Types and Applications and Forecasts to 2026"
+    excerpt: "Selbyville, Delaware, Market Study Report LLC recently added a new title on 2020-2026 Global Automotive Gesture Recognition Market Report from its database. The report provides study with in-depth overview,"
+    publishedDateTime: 2020-11-17T08:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-gesture-recognition-market-share-2020-top-manufacturers-industry-size-regional-analysis-types-and-applications-and-forecasts-to-2026-2020-11-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 15
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "CIfQGoHL5ZyTjjcjMUPc5flqcX9/GRXBj/kHgi7e7tmcqnWEyO5QEZUh3mJz+lAHIdX77jP4QbBXcMpBK8mB5f+Fn8O0XBkiOaZ8fNuz4Zx0W8SwR2Q1FlJSB2Tz8XQ5dA/zoNAXvESmX0Fh9NQpPmgHvtPAZAtYMsNNpU6VtY82wJNwt5430MhzyIvqnzYi3MYkFHqL1brHKnlIY7txz1jRVvRM0Fn2eatnFQIZYYO2E/G/W05PK32e3EYrd/h4MuGTNjwxcuvJLoEOzi2cTpaX+H84+MN9QWpMfcqClxJz7BexY95HTl/20U2uCCWRptAJcVik3xhSYlj/bhc4gPDQQjF5WNQFT/HfLZ/prt0=;mtQ4jzG6ke1QgsfeHDmGSw=="

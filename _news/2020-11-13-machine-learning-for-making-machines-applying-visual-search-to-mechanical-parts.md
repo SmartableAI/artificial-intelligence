@@ -24,22 +24,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "Bringing Human-Machine Collaboration to Music Videos"
-    excerpt: "Computer scientist and musician Andrew Paley uses the power of human-artificial intelligence collaboration to provide unique visualizations for his music."
-    publishedDateTime: 2020-11-12T16:36:00Z
-    webUrl: "https://www.mccormick.northwestern.edu/news/articles/2020/11/bringing-human-machine-collaboration-to-music-videos.html"
-    type: article
-    provider:
-      name: Kellogg School of Management
-      domain: northwestern.edu
-    quality: 24
-    images:
-      - url: "https://www.mccormick.northwestern.edu/images/news/2020/11/bringing-human-machine-collaboration-to-music-videos-social.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "GS2MlbH6fe3g0JwjgHgrtw+nZT21YBxjhxIXXM1fRMoabw/pK1VFeKEUMGy73G7jwtQ1FhL1Lm0SHulUxHNr+A5+XnpVpOfXvRQ/yBlJH1LNfrjLrt6tb0+2q1MMRmfIfmRUO+tQidWlpLvDX5OAIDt/uMP/8HHdioAueXC7M55YcDHbCGOxs8wqJ9mdRzgKsO2baxncB+YgHLYHJ3nxxuO1D3jEzVRZ6s4Bi0UX3dDRkFcqtqya2LAiAr1/JwWtLx5q9A9bdDCZ/shn8FiMuGvsXWPFmttzHvryQl0A92sInGmYg1xl5dVtqFsRwPSMEyMvV1scUQSSlkRu4l+s0KInAY+XaYxiKk7smjo4d2rJr87qQNWswxIR68Bm4w1DhBS6DHGdGEpnBUxUU2FQVpDUz7AyeM9smrvKo6TG62LNZA6Sr+thnVoP2F6rxhw0dhqhlP9dUrGKem8Fw3+sV1Hsy0NkVK4y97DWehgDgoIxKyitS7fSO+O3q9qTCh/BDpHkC572zVMib8yDCkGHzQ==;f48RKKHY9mN8e29WK9qNhw=="
 ---
 

@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Walmart taps self-driving vehicle startup Cruise for autonomous deliveries"
-    excerpt: "The collaboration is part of the mass merchant's effort to modernize deliveries and lessen environmental impact."
-    publishedDateTime: 2020-11-12T15:05:00Z
-    webUrl: "https://www.retaildive.com/news/walmart-taps-self-driving-vehicle-startup-cruise-for-autonomous-deliveries/588800/"
-    type: article
-    provider:
-      name: Retail Dive
-      domain: retaildive.com
-    quality: 22
-    images:
-      - url: "https://www.retaildive.com/user_media/cache/7f/c1/7fc123e8e187c50b5435f3abb9b84a89.jpg"
-        width: 770
-        height: 364
-        isCached: true
 
 secured: "ZynNr1qcIX4b9nL5SJCtEGdBc2KRCbEapdtp+jganb6A9a9H7Xe6CgY0MvFiBCkDEulcB/pzTROW6bUTtAHenqFB4yD4c6IlrH1U1/28P3AoN/g37S6ea2Sr1aHqu6VGiM9U1NB6CaJq23r1GOYjPa3S0ZWplECrqXy6VaXjojUz47lqH6aVd7wR/hJtbpgPdeKE5M68pk1dVochEjnyInG8PkRj2voU8V3Uxxh6LKpcI7oHXtrykyujuYWxn3JAxo7XC/32NiHZkQLvUpJEHmgpQSqDS4pVfWuJGNK6WYh642G8ECjLxeyU5gzCE02N6+i6Sc55cNaomOWHDaW/eSKCLVVXRqS6LGDkZ2JacO8=;88K5rL/MH3cbh6TF18llvQ=="
 ---

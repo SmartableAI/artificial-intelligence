@@ -22,17 +22,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "Growing artificial Intelligence at work justifies online learning"
-    excerpt: "Universities should place a strong emphasis on practical skills by incorporating practical work into the curricular and by changing the grading system to"
-    publishedDateTime: 2020-11-17T04:41:00Z
-    webUrl: "https://www.newvision.co.ug/news/1532379/growing-artificial-intelligence-justifies-online-learning"
-    type: article
-    provider:
-      name: New Vision
-      domain: newvision.co.ug
-    quality: 17
-
 secured: "P+LyZI1oyfcNG4xVvv78P3HbmxtBzmDw5bxcd7SQDMggj/HBDtAVD5orSD5ixnn8og+G5yLGieP+7IFFQ5QFc8cpHUfA3pj5VYXC+s7GJ3Tvh1GkuT8T9tN5s5bc3E54EqN0+WpmBH0jQRYKAOzR5qK+SQWKZwvN5rmCGDftKQuwtVGTv6quPzBIGLyDgXM1N3gd/zxm6oRXPK9KT1Dx6e4+OAtUBr4AOkZgLaqloTNy2KaP9FU34DLPfJkcltEKS2vVkbQ5VICnrJtPlhnKNxIDanffzAFnWUQN6keLOWhyHrdLTRhM1ou61gwyA9yERe0jBuMhopEAq8BUSP6kc11vx56nueHu3gYTh0aycq8=;GaTEMcVLl+I1whzW3QY1aA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/16/alivecor-raises-65-million-to-det
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/16/alivecor-raises-65-million-to-detect-heart-problems-with-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ride Vision raises $7 million for AI that alerts motorcycle riders to collision threats"
+    excerpt: "Ride Vision, a startup developing a product that alerts motorcycle riders to collision threats, raised $7 million in funding."
+    publishedDateTime: 2020-11-16T13:02:00Z
+    webUrl: "https://venturebeat.com/2020/11/16/ride-vision-raises-7-million-for-ai-that-alerts-motorcycle-riders-to-collision-threats/"
+    ampWebUrl: "https://venturebeat.com/2020/11/16/ride-vision-raises-7-million-for-ai-that-alerts-motorcycle-riders-to-collision-threats/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/16/ride-vision-raises-7-million-for-ai-that-alerts-motorcycle-riders-to-collision-threats/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/Camera-Front-e1604615189107.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "InterVenn Biosciences raises $34 million to accelerate cancer test development with AI"
     excerpt: "InterVenn Biosciences, a company developing an AI-imbued platform for diagnostic cancer test design, raised $34 million."
     publishedDateTime: 2020-11-16T16:40:00Z

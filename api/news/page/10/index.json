@@ -2,6 +2,213 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-11-09-sci-fi-master-ted-chiang-explores-the-rights-and-wrongs-of-artificial-intelligence.md",
+      "title": "Sci-fi master Ted Chiang explores the rights and wrongs of artificial intelligence",
+      "excerpt": "BOT or NOT? This special series explores the evolving relationship between humans and machines, examining the ways that robots, artificial intelligence and automation are impacting our work and lives. The story of Ted Chiang’s life includes stints as a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/sci-fi-master-ted-chiang-explores-rights-wrongs-artificial-intelligence/",
+      "originalUrl": "https://www.geekwire.com/2020/sci-fi-master-ted-chiang-explores-rights-wrongs-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/11/Chiang-Publicity-630x444.jpg",
+          "width": 630,
+          "height": 444,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/sci-fi-master-ted-chiang-explores-rights-wrongs-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/sci-fi-master-ted-chiang-explores-rights-wrongs-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-11-08T13:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-walmart-ditches-major-robot-contract-so-what-does-this-mean-for-the-industry.md",
+      "title": "Walmart Ditches Major Robot Contract: So What Does This Mean For The Industry?",
+      "excerpt": "Walmart has been investing heavily in robots, such as for cleaning floors. But the company’s efforts have not been without their challenges. This week Walmart terminated its engagement with Bossa Nova Robotics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/08/walmart-ditches-major-robot-contract-so-what-does-this-mean-for-the-industry/",
+      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/08/walmart-ditches-major-robot-contract-so-what-does-this-mean-for-the-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa836f4ea89321072f85ba8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D416%26cropY2%3D2667",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/08/walmart-ditches-major-robot-contract-so-what-does-this-mean-for-the-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/11/08/walmart-ditches-major-robot-contract-so-what-does-this-mean-for-the-industry/amp/",
+      "publishedDateTime": "2020-11-08T10:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-08-review-cadillac-super-cruise-trumps-tesla-autopilot-as-the-best-self-driving-technology-you-can-buy-today.md",
+      "title": "REVIEW: Cadillac Super Cruise trumps Tesla Autopilot as the best self-driving technology you can buy today",
+      "excerpt": "I subjected the system to new challenges, including a congested highway and some genuinely awful, rainy weather.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/cadillac-super-cruise-still-best-self-driving-technology-on-market-2020-11",
+      "originalUrl": "https://www.businessinsider.com/cadillac-super-cruise-still-best-self-driving-technology-on-market-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fa43726f7d1cb0019e3a02a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/cadillac-super-cruise-still-best-self-driving-technology-on-market-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cadillac-super-cruise-still-best-self-driving-technology-on-market-2020-11?amp",
+      "publishedDateTime": "2020-11-08T05:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-08-this-ai-makes-movies-from-hundreds-of-phones-automatically.md",
+      "title": "This AI Makes Movies From Hundreds Of Phones Automatically",
+      "excerpt": "AI.” Video processing algorithms can find the region of interest in videos, IMINT says, and in the future, they’ll automatically zoom in and intelligently focus on what they’re seeing: a goal being scored at a soccer game,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/11/08/this-ai-makes-movies-from-hundreds-of-phones-automatically/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2020/11/08/this-ai-makes-movies-from-hundreds-of-phones-automatically/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa78ea1652a1b5372c5aa4f%2F0x0.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/11/08/this-ai-makes-movies-from-hundreds-of-phones-automatically/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/11/08/this-ai-makes-movies-from-hundreds-of-phones-automatically/amp/",
+      "publishedDateTime": "2020-11-07T23:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-08-nine-inch-nails-at-rock-hall-2020-watch-trent-reznors-induction-speech.md",
       "title": "Nine Inch Nails at Rock Hall 2020: Watch Trent Reznor’s Induction Speech",
       "excerpt": "Nine Inch Nails were honored tonight during the Rock & Roll Hall of Fame 2020 Induction Ceremony on HBO. After an induction speech from Iggy Pop and a video package that included words from St. Vincent,",
@@ -1012,213 +1219,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-how-can-we-balance-progress-and-privacy-with-machine-learning.md",
-      "title": "How Can We Balance Progress And Privacy With Machine Learning?",
-      "excerpt": "It’s helpful to shift this conversation from AI as a whole to the more specific domain of machine learning (ML), and how we can harness its advantages and minimize its drawbacks. Machine Learning is a subset of AI that describes how computer algorithms get better at solving their domain specific problems by leveraging large data sets with which to train themselves.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/06/how-can-we-balance-progress-and-privacy-with-machine-learning/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/06/how-can-we-balance-progress-and-privacy-with-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f89f505db3eef289c346955%2F0x0.jpg%3FcropX1%3D580%26cropX2%3D6399%26cropY1%3D0%26cropY2%3D3600",
-          "width": 1199,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/06/how-can-we-balance-progress-and-privacy-with-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/06/how-can-we-balance-progress-and-privacy-with-machine-learning/amp/",
-      "publishedDateTime": "2020-11-06T08:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-an-ai-robot-wrote-my-term-paper.md",
-      "title": "An AI Robot Wrote My Term Paper",
-      "excerpt": "As personal computers and search engines have become ubiquitous, and AI and ML have risen in prominence, the idea of having a computer find the excerpts and actually write an essay, is no longer science fiction.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/timbajarin/2020/11/06/an-ai-robot-wrote-my-term-paper/",
-      "originalUrl": "https://www.forbes.com/sites/timbajarin/2020/11/06/an-ai-robot-wrote-my-term-paper/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa46a48a9ca8d255a37c8bd%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/timbajarin/2020/11/06/an-ai-robot-wrote-my-term-paper/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2020/11/06/an-ai-robot-wrote-my-term-paper/amp/",
-      "publishedDateTime": "2020-11-06T07:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-most-health-execs-expect-widespread-implementation-of-ai-in-the-next-5-years.md",
-      "title": "Most health execs expect widespread implementation of AI in the next 5 years",
-      "excerpt": "Ninety-percent of US health IT execs expect AI solutions to be well integrated into the US healthcare system in the next five years",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/90-of-health-it-execs-expect-widespread-ai-implementation-in-next-5-years.html?utm_source=Triggermail&utm_medium=email&utm_campaign=Post Blast bii-digital-health: Health IT leaders are bullish on AI | Microsoft rolls out Cloud for Healthcare | Unite Us%2C Nebraska HIE tackle social determinants&utm_term=BII List Digital Health ALL",
-      "originalUrl": "https://www.businessinsider.com/health-it-leaders-bullish-on-ai-implementation-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-06T07:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-america-enters-the-era-of-technopolitik.md",
-      "title": "America Enters the Era of Technopolitik",
-      "excerpt": "The U.S. has long relied on a geographic network of friends, but the future of multilateralism looks very different.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2020-11-06/u-s-needs-australia-sweden-south-korea-to-beat-china-in-ai-battle",
-      "originalUrl": "https://www.bloomberg.com/opinion/articles/2020-11-06/u-s-needs-australia-sweden-south-korea-to-beat-china-in-ai-battle",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iExXFozC.O3o/v1/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/opinion/articles/2020-11-06/u-s-needs-australia-sweden-south-korea-to-beat-china-in-ai-battle",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/opinion/articles/2020-11-06/u-s-needs-australia-sweden-south-korea-to-beat-china-in-ai-battle",
-      "publishedDateTime": "2020-11-06T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

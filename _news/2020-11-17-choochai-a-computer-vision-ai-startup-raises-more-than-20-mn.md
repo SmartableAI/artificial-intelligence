@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 577
         isCached: true
+  - title: "Ride Vision raises $7M for its AI-based motorcycle safety system"
+    excerpt: "Ride Vision, an Israeli startup that is building an AI-driven safety system to prevent motorcycle collisions, today announced that it has raised a $7 million Series A round led by crowdsourcing platform OurCrowd."
+    publishedDateTime: 2020-11-16T23:23:00Z
+    webUrl: "https://techcrunch.com/2020/11/16/ride-vision-raises-7m-for-its-ai-based-motorcycle-safety-system/?tpcc=ECTW2020"
+    ampWebUrl: "https://techcrunch.com/2020/11/16/ride-vision-raises-7m-for-its-ai-based-motorcycle-safety-system/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/16/ride-vision-raises-7m-for-its-ai-based-motorcycle-safety-system/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://i.ytimg.com/vi/8eyEA374Mbw/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
 
 secured: "/b8Gsh2av7vPfe1tNqSLC71CXzlC8JjI6XpMLSDLsoMXZqBOhhowjqelL2PmdCnqgi+lz3QHB9WHdsq2jBV56C0BxbZY5GZx5UYruIGtBBm7jTCvjiXt3T22DNwdZMsQ/yAPuJ3fu+GyUHCOaTJo6dmSMh2wSU+xHHwuMlA5JWGo4P4NaYMjbmN2HV6ELoQ/qqJ8jxPIG1gWDHrnTWHjBNeU8KSk6KHVuGD+cUh59SkT+ZtzMWrNe1FIVYZRuNI6JIOJKAE5wQ7KFvgNFBBaCu43VzAeK4mH4MPYf3hwWMnubHiyO3r9iZl5+UTIv7sM20vqOlpKdbKM25QyqvVIo+j9ZH6P1nFfFOaZhfJExsjQ7T4kfFdabB1OFWDXCkriPMwkcP7TObjF/gzvWdu6DXDOjRV3mqt2I+32GBjRjdvQZolZaljh6Psg09KLvNafvD1k79l8ttNCGhakxGudilN/T4GiCKIVvJbQu0Q5fs/Hccocc010Cp3uGgZuGcW1SHZI8Ni1uneelJybMe5lXQ==;pPTeweTfTLcZmfd1C8R7Dw=="
 ---

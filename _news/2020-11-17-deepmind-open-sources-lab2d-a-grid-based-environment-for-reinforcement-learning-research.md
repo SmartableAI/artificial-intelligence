@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/16/deepmind-open-sources-lab2d-a-gri
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/16/deepmind-open-sources-lab2d-a-grid-based-environment-for-reinforcement-learning-research/amp/"
 type: article
 quality: 80
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind open-sources Lab2D to support creation of 2D environments for AI and machine learning"
+    excerpt: "The system aims to help researchers understand the influence of environments in multi-agent reinforcement learning"
+    publishedDateTime: 2020-11-17T07:17:00Z
+    webUrl: "https://www.computing.co.uk/news/4023488/deepmind-open-sources-lab2d-support-creation-2d-environments-ai-machine-learning"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 59
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/44fd742/06306157-f45f-4787-9558-1d43fd6042cf/3/screenshot-370x229.png"
+        width: 370
+        height: 229
+        isCached: true
   - title: "DeepMind open-sources Lab2D, a grid-based environment for reinforcement learning research – Jaweb"
     excerpt: "DeepMind this week open-sourced Lab2D, a software system designed to support the creation of 2D environments for AI and machine learning research. The Alphabet subsidiary says that Lab2D was built with the needs of deep reinforcement learning researchers in mind,"
     publishedDateTime: 2020-11-16T17:44:00Z

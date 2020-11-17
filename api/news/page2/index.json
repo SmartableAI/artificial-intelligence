@@ -2,6 +2,108 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-16-dissecting-c3ais-secret-sauce-less-about-ai-more-about-fixing-hadoop.md",
+      "title": "Dissecting C3.ai’s secret sauce: less about AI, more about fixing Hadoop",
+      "excerpt": "While C3.ai claims to be an AI company, its patented technology is really a platform-as-a-service for the Internet of Things with some fairly standard AI mixed in.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/",
+      "originalUrl": "https://www.zdnet.com/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/11/16/4fc135c9-1fd6-4648-8ecb-c0a496c0dcd8/c3ai-2020-model-driven-architecture-system.png",
+          "width": 1724,
+          "height": 1276,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/",
+      "publishedDateTime": "2020-11-15T23:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects.md",
+      "title": "This open-source AI tool can make your video spectacular with sky replacement effects",
+      "excerpt": "Sky replacement tools are extremely popular in the current crop of photp-editing apps. Mobile apps such as Lighttricks’ Lightleap help you put up a new sky on your picture quickly. While for a more refined option,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/11/16/this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects/",
+      "originalUrl": "https://thenextweb.com/neural/2020/11/16/this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/Sky-replacement-video-796x418.jpg",
+          "width": 796,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/11/16/this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/16/this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects/amp/",
+      "publishedDateTime": "2020-11-15T23:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-16-how-ai-is-helping-lung-cancer-patients-in-covid-19-era.md",
       "title": "How AI is helping lung cancer patients in Covid-19 era",
       "excerpt": "Lung cancer patients undergoing immunotherapy treatment may experience side effects which can present in a similar way to those of Covid-19 and other lung conditions. But now the Royal Marsden hospital in London is trialling the use of artificial intelligence (AI) to help identify what is causing the symptoms.",
@@ -1126,110 +1228,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-pytorch-developer-day-brings-a-number-updates-to-the-machine-learning-library.md",
-      "title": "PyTorch Developer Day brings a number updates to the machine learning library",
-      "excerpt": "The first PyTorch Developer Day was held yesterday, providing PyTorch developers with a day of technical talks, project deep dives, and networking opportunities.",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/pytorch-developer-day-brings-a-number-updates-to-the-machine-learning-library/",
-      "originalUrl": "https://sdtimes.com/ai/pytorch-developer-day-brings-a-number-updates-to-the-machine-learning-library/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2020/11/a555c5b18b9a2aa5cead0428e08ec9d3.png",
-          "width": 498,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-13T09:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-openai-proposes-using-reciprocity-to-encourage-ai-agents-to-work-together.md",
-      "title": "OpenAI proposes using reciprocity to encourage AI agents to work together",
-      "excerpt": "Researchers at OpenAI propose a new technique to encourage AI agents to work together to solve complex challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/13/openai-proposes-using-reciprocity-to-encourage-ai-agents-to-work-together/",
-      "originalUrl": "https://venturebeat.com/2020/11/13/openai-proposes-using-reciprocity-to-encourage-ai-agents-to-work-together/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/13/openai-proposes-using-reciprocity-to-encourage-ai-agents-to-work-together/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/13/openai-proposes-using-reciprocity-to-encourage-ai-agents-to-work-together/amp/",
-      "publishedDateTime": "2020-11-13T09:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

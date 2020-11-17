@@ -46,6 +46,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 57
+  - title: "Advantech Launches AIR Edge AI Inference Systems for AI and Vision Analytics Applications"
+    excerpt: "Advantech launched their AIR series of AI inference systems, to address AI applications including retail facial recognition, AOI/vision inspection, robotic, intelligent transportation, and more."
+    publishedDateTime: 2020-11-12T17:27:00Z
+    webUrl: "https://www.embedded-computing.com/news/advantech-launches-its-comprehensive-air-edge-ai-inference-systems-for-ai-and-vision-analytics-applications"
+    type: article
+    provider:
+      name: Embedded Computing Design
+      domain: embedded-computing.com
+    quality: 30
+    images:
+      - url: "https://content.cdntwrk.com/files/aHViPTYzODY3JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVmYWQ2YjU4YTk1NWEucG5nJnZlcnNpb249MDAwMCZzaWc9N2MxMDc2OGNhZWU4ZWJjNjBiODQzYzRiZDY1YWZhODQ%253D"
+        width: 500
+        height: 272
+        isCached: true
   - title: "Fivetran Extends Integration With Databricks, Accelerating SQL Analytics, Data Science and Machine-Learning Applications"
     excerpt: "Fivetran, the leading provider of automated data integration, today announced advancements in its integration with Databricks, the Data and AI Company, extending the companies’ strategic partnership to power the modern data stack."
     publishedDateTime: 2020-11-12T17:47:00Z

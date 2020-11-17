@@ -43,6 +43,20 @@ related:
         width: 1198
         height: 600
         isCached: true
+  - title: "DeepMind open-sources Lab2D to support creation of 2D environments for AI and machine learning"
+    excerpt: "The system aims to help researchers understand the influence of environments in multi-agent reinforcement learning"
+    publishedDateTime: 2020-11-17T07:17:00Z
+    webUrl: "https://www.computing.co.uk/news/4023488/deepmind-open-sources-lab2d-support-creation-2d-environments-ai-machine-learning"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 59
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/44fd742/06306157-f45f-4787-9558-1d43fd6042cf/3/screenshot-370x229.png"
+        width: 370
+        height: 229
+        isCached: true
 
 secured: "5htWwAzQYxfZ6urZoF3eLio7BI1Go6EyIzYTuQ/dy0BCzLomcQB3Rfl/gw/q6zJdt0iz9H5z/u8zqVNZClph7j5Ms+3oe7KAT3C3wFkNYMWmPA9AzaJQZL4F0ykq3fJfEJYgrDfJMjC6vynZuvRs1N4Si4dp86GEMUoQ72IZH05zkMecXRbiwrXhLvg/bcsLtyOoOwrmhp93mJMmDfpK+o7V7k/RXc6NhNnfl88A/AkpHtpPn3qjUOd6cflSamvbpCMID/WF8FsmAd09KRJkU7h9II5MSzAqK+z6x86C7E3eO4M2d8afKH+c/mHOGZPBzeJXQfszy7Ls2VPC8cKBUA1VKjii5olk9wgbNfAiDWwCvXQ3SMP5eBVd8PAUV8KYGHJFi6d2WLXc9tOvrhLHo6p2PyoLqkA/TRvtisJvJt7zXp+8t/4+/1iGT2HY/VMUmLEM15IFdld2SEP0gRB6Q6DKUDJpkJcM2om7ofwaPj3ojnZk9bhMc92X/dnk2zZhlDe54Qp0F4gvbeA/Mn/8XA==;D3kdBcvlm8tc6mhXq+0whw=="
 ---

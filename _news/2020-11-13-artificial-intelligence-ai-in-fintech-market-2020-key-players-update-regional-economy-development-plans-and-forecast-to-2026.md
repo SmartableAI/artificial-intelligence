@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-2020-key-players-update-regional-economy-development-plans-and-forecast-to-2026-2020-11-13"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Military Robots Market Size Analysis, Key Growth Drivers, Share, Leading Key Players, Demand, Upcoming Trend and Forecast to 2027"
-    excerpt: "Global Military Robots Market is valued approximately at USD 21.4 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 12.92% over the forecast period 2020-2027. Military robots act as an alternative to human soldiers and are capable of managing a broader range of military combat operations,"
-    publishedDateTime: 2020-11-12T15:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/military-robots-market-size-analysis-key-growth-drivers-share-leading-key-players-demand-upcoming-trend-and-forecast-to-2027-2020-11-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "WtfkrX1g8tD9hLeuMD0kIfZW86qKAXbYk2A3DXDuZiEB9CzAE4GhG6tpjYTLCRDRxAudiY6Z44MO2Q3qSp+GRImAlZPjQDcfYmOED7M7kcYxUnCsuFoFHi2R35I7cG+wHLgSnAgLpjOlhF4sYVnhm0rv67dJoHOknY8qkshNq88clLTIOjAwi4aJDOY/FiYFgvV5LxcJhmFDi09rtoGPLqw2wzJxod6ICrI/eEcfMeYaWRuHSXKZZNuKDfdQh/eoCziIW04MQcyReXRxo1jXzLpMbryGHZ1vCga7jUzXxCHIQHKOlAsVnp+rLHSKcCCR1LqnW5Z4wF77Wk3SMsgdULj59gzCtmoyXE8w2DxvPmE=;BDIgpOWuiHC78ARGFwT0Hg=="
 ---

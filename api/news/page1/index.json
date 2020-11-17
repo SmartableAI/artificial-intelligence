@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-17-ping-an-bank-wins-gartner-innovation-award-for-financial-services.md",
+      "title": "Ping An Bank Wins Gartner Innovation Award for Financial Services",
+      "excerpt": "Company of China, Ltd. (hereafter \" Ping An \" or the \"Group\", HKEX: 02318; SSE: 601318) announced that Ping An Bank received the \"Eye On Innovation Award for Financial Services 2020\" from research and advisory company Gartner.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ping-an-bank-wins-gartner-innovation-award-for-financial-services-1029809428",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ping-an-bank-wins-gartner-innovation-award-for-financial-services-1029809428",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ping-an-bank-wins-gartner-innovation-award-for-financial-services-1029809428",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ping-an-bank-wins-gartner-innovation-award-for-financial-services-1029809428",
+      "publishedDateTime": "2020-11-17T00:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-nxp-collaborates-with-amazon-web-services-aws-to-extend-connected-vehicle-opportunities.md",
+      "title": "NXP Collaborates with Amazon Web Services (AWS) to Extend Connected Vehicle Opportunities",
+      "excerpt": "Vehicle edge-to-cloud compute solution aims to enable new automotive industry revenue opportunities Sets foundation for data-driven services and",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/nxp-collaborates-with-amazon-web-services-aws-to-extend-connected-vehicle-opportunities-1029809200",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/nxp-collaborates-with-amazon-web-services-aws-to-extend-connected-vehicle-opportunities-1029809200",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/NXP-Collaborates-with-Amazon-Web-Services-AWS-to-Extend-Connected-Vehicle-Opportunities-1029809200",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/NXP-Collaborates-with-Amazon-Web-Services-AWS-to-Extend-Connected-Vehicle-Opportunities-1029809200",
+      "publishedDateTime": "2020-11-16T23:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-tantech-subsidiary-launches-innovative-driverless-and-autonomous-street-sweepers.md",
       "title": "Tantech Subsidiary Launches Innovative Driverless and Autonomous Street Sweepers",
       "excerpt": "PRNewswire/ -- Tantech Holdings Ltd (NASDAQ: TANH) ('Tantech' or the 'Company'), a clean energy company in China,",
@@ -53,7 +139,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/huawei-cloud-named-a-leader-in-predictive-analytics-and-machine-learning-1029808693",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 108,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -96,7 +182,7 @@
       "originalUrl": "https://venturebeat.com/2020/11/16/alivecor-raises-65-million-to-detect-heart-problems-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -215,58 +301,6 @@
         "name": "WHEC",
         "domain": "whec.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-ride-vision-raises-7m-for-its-ai-based-motorcycle-safety-system.md",
-      "title": "Ride Vision raises $7M for its AI-based motorcycle safety system",
-      "excerpt": "Using computer vision, Ride Vision’s system, the Ride Vision 1, analyzes the traffic around a rider in real time. It provides forward collision alerts and monitors your blind spot, but it can al ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/16/ride-vision-raises-7m-for-its-ai-based-motorcycle-safety-system/",
-      "originalUrl": "https://techcrunch.com/2020/11/16/ride-vision-raises-7m-for-its-ai-based-motorcycle-safety-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/Screenshot-2020-11-16-131619.png",
-          "width": 767,
-          "height": 751,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/16/ride-vision-raises-7m-for-its-ai-based-motorcycle-safety-system/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/16/ride-vision-raises-7m-for-its-ai-based-motorcycle-safety-system/amp/",
-      "publishedDateTime": "2020-11-16T14:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -444,7 +478,7 @@
       "originalUrl": "https://venturebeat.com/2020/11/16/deepmind-open-sources-lab2d-a-grid-based-environment-for-reinforcement-learning-research/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -592,6 +626,57 @@
       ]
     },
     {
+      "path": "_news/2020-11-17-new-motorcycle-technology-provides-ai-driven-protection-for-riders.md",
+      "title": "New motorcycle technology provides AI-driven protection for riders",
+      "excerpt": "RideVision bundles a suite of rider-assist and active safety technology into one suite for riders. Active safety technology and driver-assist features continue to spread across the automotive industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/new-motorcycle-technology-protection-riders/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/new-motorcycle-technology-protection-riders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/iSySC5vXP-egqULB9Xmj5RPTF5E=/2020/11/16/73c7f009-7de4-4baa-af6c-7bd3838dfcd2/ogi-ridevision.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/new-motorcycle-technology-protection-riders/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-motorcycle-technology-protection-riders/",
+      "publishedDateTime": "2020-11-16T08:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-machine-learning-in-banking-and-marketing-applications-for-2021-and-beyond.md",
       "title": "Machine learning in banking and marketing applications for 2021 and beyond",
       "excerpt": "Artificial intelligence (AI) and machine learning in banking make the strongest combination possible. Since these technologies are versatile, there are a lot of ways to use them across industries,",
@@ -698,7 +783,7 @@
       "originalUrl": "https://techcrunch.com/2020/11/16/computer-vision-startup-chooch-ai-scores-20m-series-a/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -1142,108 +1227,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-dissecting-c3ais-secret-sauce-less-about-ai-more-about-fixing-hadoop.md",
-      "title": "Dissecting C3.ai’s secret sauce: less about AI, more about fixing Hadoop",
-      "excerpt": "While C3.ai claims to be an AI company, its patented technology is really a platform-as-a-service for the Internet of Things with some fairly standard AI mixed in.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/",
-      "originalUrl": "https://www.zdnet.com/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/11/16/4fc135c9-1fd6-4648-8ecb-c0a496c0dcd8/c3ai-2020-model-driven-architecture-system.png",
-          "width": 1724,
-          "height": 1276,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/",
-      "publishedDateTime": "2020-11-15T23:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects.md",
-      "title": "This open-source AI tool can make your video spectacular with sky replacement effects",
-      "excerpt": "Sky replacement tools are extremely popular in the current crop of photp-editing apps. Mobile apps such as Lighttricks’ Lightleap help you put up a new sky on your picture quickly. While for a more refined option,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/11/16/this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects/",
-      "originalUrl": "https://thenextweb.com/neural/2020/11/16/this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/Sky-replacement-video-796x418.jpg",
-          "width": 796,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/11/16/this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/16/this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects/amp/",
-      "publishedDateTime": "2020-11-15T23:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

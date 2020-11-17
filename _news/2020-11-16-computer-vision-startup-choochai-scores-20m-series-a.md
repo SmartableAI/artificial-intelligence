@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/11/16/computer-vision-startup-chooch-ai-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/16/computer-vision-startup-chooch-ai-scores-20m-series-a/amp/"
 type: article
 quality: 104
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ride Vision raises $7M for its AI-based motorcycle safety system"
+    excerpt: "Ride Vision, an Israeli startup that is building an AI-driven safety system to prevent motorcycle collisions, today announced that it has raised a $7 million Series A round led by crowdsourcing platform OurCrowd."
+    publishedDateTime: 2020-11-16T23:23:00Z
+    webUrl: "https://techcrunch.com/2020/11/16/ride-vision-raises-7m-for-its-ai-based-motorcycle-safety-system/?tpcc=ECTW2020"
+    ampWebUrl: "https://techcrunch.com/2020/11/16/ride-vision-raises-7m-for-its-ai-based-motorcycle-safety-system/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/16/ride-vision-raises-7m-for-its-ai-based-motorcycle-safety-system/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://i.ytimg.com/vi/8eyEA374Mbw/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "Chooch.ai, a computer vision AI startup raises more than $20 Mn"
     excerpt: "Chooch.ai just conducted their Series A round. The round was led by many firms and partners and raised a total of $25.8 million."
     publishedDateTime: 2020-11-17T02:33:00Z
