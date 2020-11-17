@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/11/17/new-eu-funded-project-will-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/17/new-eu-funded-project-will-use-ai-to-capture-the-key-scents-of-historical-europe/amp/"
 type: article
 quality: 82
-heat: 92
+heat: 93
 published: true
 
 provider:
@@ -47,6 +47,6 @@ related:
         height: 382
         isCached: true
 
-secured: "LX967i+z8X0kSQF2J3yYTTlVQJH6v59jSG9gyIlQTt7q2RpmEyzpeFmSPQXVP6Ir+llsurUDRB6NDcokA+oi2vxK9NkYaOml0+FLEv5r/G+hzfsKDYVqyL3HUogSQWi3g7QYdqt3NjmXKYXHqmX4mfappz1ietJH2XimvC5okWsPQ3vVpaCrfBCu5uSg4NYtMzNQfCZKTFwyj8YzKRsvZ3wNlonRL14t/jLEgaWjaSInRG5p2HeWC8AP63ozfr9Kpn/82B9BflOUdHDnmcGu4h6WLYa2odrJu+ev8iRSwG3C5wyJeeeS1AMmQsqSU/qYN0WJwQoxC9W4M9fKApLD1ICpY9hbY+Bc1RvDYc/2Jxc=;irYx/8f6q4gDGiR7JftOxA=="
+secured: "F3t+k+3ioS3MqVXvJNq8AJvnRhAoT73LujxmflBaPcl6Mjys5w9gwQRAGSGCVNJb/qv2VyM7oStI9cRWbExPK51qRMvYIJhkku6CJqsojPynWgukO023RHKOD/K2sjWrLZLNlofrgv7n/fpCMw5AuVkhmHdRxrJm+LaGhXRQeVLU87aZ+jiGYrrs26fphCgSvramH9StAILWm3j2hH45lM1rVaFcHrVCveJEBfMMr86coL6qCPzeK3MA0qFvfNOva+gkUX8/FnguyWlXdxlFUYcn4FH076v0QlhvStg7uL9ClnqkbRQPODUJCyWeUZ7i+SJPZTcg07IThsL5I2l6Z86rv7/fzKunNVF8RECBcg9FW8Ivnf3pdYEVabtYi38amJBWJ0ivY7dYGT0l9lWds4bHei9xGzZYWn7K+G4+/nArmAI91EfFXZeD24cCc4kFipgwnUW5wi0JgKO3J5/hc95UY8oySDnmvemz2a72bP9jqBHdWyISFwTG2bBwprzgKnVTOArXP1Hh/W/MpUb1jw==;rnXghGLPn4kVI1Zz/rkpIg=="
 ---
 

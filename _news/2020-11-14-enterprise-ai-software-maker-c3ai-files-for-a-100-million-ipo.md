@@ -51,15 +51,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "C3.ai, machine learning startup backed by software pioneer Tom Siebel, files for IPO"
-    excerpt: "The software-as-a-service company that has been using masses of GPUs to run deep learning programs plans to list under the ticker “AI.”"
-    publishedDateTime: 2020-11-13T04:59:00Z
-    webUrl: "https://www.zdnet.com/article/c3-ai-machine-learning-startup-backed-by-software-pioneer-tom-siebel-files-for-ipo/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 57
 
 secured: "vwAPnfjgjforCUJi0uNjBMqVG5/Xx7K7vy3sg5Q0tmEVOLqg27uWZXSzlbKociu1b0w0Tyeik+Pz58hKE+xpP8CtApPEZNikt4Q1VZHq6jHL84tGAysLpl7sSliSDPuJ6c5kH8BSkHj24fYsFnI97IkYuIwz3Pm0NmXA+HMJxHpzUi16NAFd0IR8ut6RY7xZgh+oB6o8vBORBYRtA1DgldHdT6c6SB+iFvvCsARoveXcqdKoL3B1hTTof6YS3wiz/gYRRJm7AXJmAMH7r+Ys6ANjfXYlqKvZmYxV781myi7+g8V5EB1IzQfdQgwrEPQQjk9gLgQbDFKKv2fleKL8zGqBW/WFRtJfteEQaTKExjg=;adm3/KVZgxMfVE03rcDRtw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.co.uk/article/porn-bots-in-telegram-deepfake"
 webUrl: "https://www.wired.co.uk/article/porn-bots-in-telegram-deepfake"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,68 @@ images:
     width: 1440
     height: 753
     isCached: true
+
+related:
+  - title: "Women In AI To Watch"
+    excerpt: "It comes as no surprise that women are woefully underrepresented in all STEM fields. Only a quarter of all STEM workers are female, and even fewer are in positions of leadership. Despite a slight increase in the amount of women in STEM in recent years,"
+    publishedDateTime: 2020-11-17T19:01:00Z
+    webUrl: "https://www.forbes.com/sites/aparnadhinakaran/2020/11/17/women-in-ai-to-watch/"
+    ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2020/11/17/women-in-ai-to-watch/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2020/11/17/women-in-ai-to-watch/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb408e73c1268fb22c618cb%2F0x0.jpg"
+        width: 1200
+        height: 1118
+        isCached: true
+  - title: "AI, Machine Learning to Aid in Airport Sanitation Efforts"
+    excerpt: "The Albany International Airport in New York has partnered with General Electric on technology that helps sanitation crews monitor cleanliness and frequently touched surfaces throughout the facility."
+    publishedDateTime: 2020-11-13T22:32:00Z
+    webUrl: "https://www.govtech.com/health/Albany-NY-Airport-Updates-App-with-Health-Sanitation-Measures.html"
+    ampWebUrl: "https://www.govtech.com/health/Albany-NY-Airport-Updates-App-with-Health-Sanitation-Measures.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/health/Albany-NY-Airport-Updates-App-with-Health-Sanitation-Measures.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_530657836.jpg"
+        width: 940
+        height: 627
+        isCached: true
+  - title: "New project uses artificial intelligence in drug development"
+    excerpt: "In health care, artificial intelligence is quite normal: it is used, for example, as an aid in making diagnoses. However, artificial intelligence is"
+    publishedDateTime: 2020-11-16T12:06:00Z
+    webUrl: "https://www.miragenews.com/new-project-uses-artificial-intelligence-in-drug-development/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 39
+    images:
+      - url: "https://www.universiteitleiden.nl/binaries/content/gallery/ul2/main-images/science/liacs/aidd.jpg/aidd.jpg/d880x320"
+        width: 880
+        height: 319
+        isCached: true
+  - title: "U.S. Military Wants to Bring Allies into AI Fold"
+    excerpt: "The Defense Department has kicked off a new initiative to bring like-minded nations together to work on AI policies and capabilities. In September, the Pentagon’s Joint Artificial Intelligence Center hosted the inaugural AI Partnership for Defense meeting with military officials from 13 nations including: Australia,"
+    publishedDateTime: 2020-11-15T22:30:00Z
+    webUrl: "https://www.nationaldefensemagazine.org/articles/2020/11/16/us-military-wants-to-bring-allies-into-ai-fold"
+    type: article
+    provider:
+      name: National Defense Magazine
+      domain: nationaldefensemagazine.org
+    quality: 39
+    images:
+      - url: "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2020/11/istock-1203693985.ashx?h=500&w=878&la=en&hash=6AF05AFD5D458A7BE0DEF34C4ED4B6A6751D7B9C"
+        width: 878
+        height: 500
+        isCached: true
 
 secured: "Z9QYZ3uYJRvZhvA9NVjy9T598EcbvI/J7Tsgdvmfgu2IXMpiNsLeq7qWT9e27bIm170JmswQ8ctO56DzkGjuQGCGe1js+pCklnHezfTCvaq/ap8B+KsECjAyn1au096CEP12igOIOEqAj1M1R6xf7siWbxz5QM46bGMkobyYjzLW9w9OBDTRTLjaWFpYo9LJ58RGoX+pjAS0xIJGkeF+kxpodOJtuIkqhO7bov1RVdW+IFQJpAqsoa6EWRfZDrjouwOc0+jU6UabTSlwHE15rKemwf4wrnqYSPnn6anLiuSTNv6mZVVzwV0x+C5d+ZCCaVWoTjwvdIxZgZNa1W+oYEvqLqVQX6u8QgfYNsAqE8s=;Ubgmdfra3MmQyPtl0GIVhw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/11/16/c3ai-files-s-1-for-ipo-to-list-o
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/16/c3ai-files-s-1-for-ipo-to-list-on-nyse-under-ticker-symbol-ai.html"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "C3.ai, machine learning startup backed by software pioneer Tom Siebel, files for IPO"
-    excerpt: "The software-as-a-service company that has been using masses of GPUs to run deep learning programs plans to list under the ticker “AI.”"
-    publishedDateTime: 2020-11-13T04:59:00Z
-    webUrl: "https://www.zdnet.com/article/c3-ai-machine-learning-startup-backed-by-software-pioneer-tom-siebel-files-for-ipo/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 57
   - title: "Enterprise AI software maker C3.ai files for a $100 million IPO"
     excerpt: "C3.ai, which provides SaaS applications for the deployment of enterprise AI applications, filed on Friday with the SEC to raise up to $100 million in an initial public offering. The company provides SaaS applications that enable the rapid deployment of enterprise-scale AI applications on Azure,"
     publishedDateTime: 2020-11-13T22:26:00Z

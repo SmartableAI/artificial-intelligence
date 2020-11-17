@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/nvidia-announces-mellano
 webUrl: "https://www.marketwatch.com/press-release/nvidia-announces-mellanox-infiniband-for-exascale-ai-supercomputing-2020-11-16-10197534"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: MarketWatch
@@ -27,6 +27,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "InfiniBand Is Still Setting The Network Pace For HPC And AI"
+    excerpt: "If this is the middle of November, even during a global pandemic, this must be the SC20 supercomputing conference and there either must be a speed bump"
+    publishedDateTime: 2020-11-17T19:28:00Z
+    webUrl: "https://www.nextplatform.com/2020/11/17/infiniband-is-still-setting-the-network-pace-for-hpc-and-ai/"
+    ampWebUrl: "https://www.nextplatform.com/2020/11/17/infiniband-is-still-setting-the-network-pace-for-hpc-and-ai/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/11/17/infiniband-is-still-setting-the-network-pace-for-hpc-and-ai/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/nvidia-selene-inside.jpg"
+        width: 1823
+        height: 891
+        isCached: true
 
 secured: "aibHs5ZEVNKWAwJ9mdUSp7uWdbcomJuEK8oRAxW5m9rrSB5i/e6h7PSBRyr1/GK/VsljgVKwwBqAcbMIMGYisan1qvEwfoelBe3o3cw7fFRuzBBB6Sv3gNlCM7Wka+Fn1Y8p5bmdqGwMjMwWx52y93A5glme+Xs5HukimWvZIAl6gf0RksLN2+s9LTOOdmMQVdO1TVq5s9gRdL7xnd598mAgzuj0vtwMdMxFQQ8z+/G8CfowH7mqTEmAUoKpC0dpU/IWkZMLrw72C/FO+pNvLwNWOE8uLIEoc14pgBEKh4f3bd0tAV9bgkUvGBO/mDNfA/uphnIwOJ2Cfsl85Ve93Ody/WXe53b+qwNw0X8f5XA=;cuEwzK2mit7hR1DR7IQOaA=="
 ---

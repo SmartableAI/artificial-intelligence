@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thestreet.com/.amp-ipo/ipo/news/canaan-bitcoin-mining-ai
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-ipo/ipo/news/canaan-bitcoin-mining-ai"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     height: 383
     isCached: true
 
-related:
-  - title: "New project uses artificial intelligence in drug development"
-    excerpt: "In health care, artificial intelligence is quite normal: it is used, for example, as an aid in making diagnoses. However, artificial intelligence is"
-    publishedDateTime: 2020-11-16T12:06:00Z
-    webUrl: "https://www.miragenews.com/new-project-uses-artificial-intelligence-in-drug-development/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 39
-    images:
-      - url: "https://www.universiteitleiden.nl/binaries/content/gallery/ul2/main-images/science/liacs/aidd.jpg/aidd.jpg/d880x320"
-        width: 880
-        height: 319
-        isCached: true
-
-secured: "r28JsX9dCGvPKrqMlotYflXrGDSl7MUauzDtkz6zyXlVsrhnn7dr+LULVBNJXTYSa1fsp1YlEiLh8jJoZumTbZiaOGQkb9HQtm2ATbKlJjfLmVdlY0MdtmxSW+Gi+biPSQr7kEfcPfhCS2aaAYtzrIDthSoKwRQfHdUVqxb2yZ01XRsR9wzIXogjhksgBz+HGzmXUPBRuW9PW6hfGJQNRkzCRMO+T5YMivfKneQZhvVDxFdFZxJ8644cwnZ8Zel+JbkzXDzCGIXMFPVXJ3X/dcj3Magu6qT0ROmWcWG5Ej6QlvseqQ5N3RymdneL6tS44rF5puO6OOxAo0ClkJhPg2EvcpVVaHrOOmNWMSco8D8=;u+gJY3vOoE2Hiw2Sg9nCgg=="
+secured: "gZg3xyTBvM33CbDuvIK/WGNT1Lj6HrHnFFcRT3m/PV0axferrletaEkVJNT5PXAp44VoerkcF98pcslpnz8lkO0bJMQ5ow51HYdJac4xT2rUFAxDi2Y676q+3KNOTzkqh93fZx5yT2HJ8aRuhCAtvh/nAkNbdpUiaAgOsEwI5DOSAmKHbGZwaMPVE+BkTkha9rVWg70vOZ70NQQwv/uijoRUEeHjzwdUJ1XozNU+3cSirrXSsrxr+NtP12P8Gp/H7uMpCkPxFdO44FZ/kw4wUzUtUdwiSmXzxTXzbFeBpqyPcbiPFA4B23Hot7taqz6Lw81lBEYQzRXfIlv2HfevJIor8YYVb0K7ROouinOK7zPOBmTsH8RmAXDt2VVLTAWriut4x3kqVsrdf3V2OUeMkkEUaVKkkfel4AkNQFfyJWQaCVghAEf/LpVVSKGcbP3H4Rl5lPZVwyJy17Ke3sGU3+ljR5jXO/l5XPDIDrs+ecj5uZIw6qom6COjIookz8oF5Cr2PDPjyLhcR4GcdHw2aw==;j0uHuU+VCLXKAqjEdlcx1Q=="
 ---
 

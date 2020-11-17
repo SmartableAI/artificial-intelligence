@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/autodesk-acquires-ai-based-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/autodesk-acquires-ai-based-design-firm-spacemaker/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Spacemaker, AI software for urban development, is acquired by Autodesk for $240M"
+    excerpt: "Autodesk, the U.S. publicly listed software and services company that targets engineering and design industries, has acquired Norway’s Spacemaker, a startup that has developed AI-supported software for urban development."
+    publishedDateTime: 2020-11-17T19:48:00Z
+    webUrl: "https://techcrunch.com/2020/11/17/spacemaker-ai-software-for-urban-development-is-acquired-by-autodesk-for-240m/"
+    ampWebUrl: "https://techcrunch.com/2020/11/17/spacemaker-ai-software-for-urban-development-is-acquired-by-autodesk-for-240m/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/17/spacemaker-ai-software-for-urban-development-is-acquired-by-autodesk-for-240m/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 82
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/11/Optimize-copy.jpg?w=680"
+        width: 680
+        height: 425
+        isCached: true
   - title: "Autodesk acquires Spacemaker for $240 million to boost AI development for designers"
     excerpt: "Autodesk acquired Oslo-based Spacemaker for $240 million to accelerate the use of AI in design and urban construction."
     publishedDateTime: 2020-11-17T11:30:00Z

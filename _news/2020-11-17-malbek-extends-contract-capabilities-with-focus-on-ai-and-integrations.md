@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Malbek Extends Contract Capabilities with Focus on AI and Integrations"
-excerpt: "PRNewswire/ -- Malbek, a cloud-based provider of modern contract lifecycle management (CLM) solutions, has released new product functionality that expands tools for contract insight, advances Malbek's AI-first contracting engine,"
-publishedDateTime: 2020-11-17T11:37:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/malbek-extends-contract-capabilities-with-focus-on-ai-and-integrations-1029810046"
-webUrl: "https://markets.businessinsider.com/news/stocks/malbek-extends-contract-capabilities-with-focus-on-ai-and-integrations-1029810046"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/malbek-extends-contract-capabilities-with-focus-on-ai-and-integrations-1029810046"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/malbek-extends-contract-capabilities-with-focus-on-ai-and-integrations-1029810046"
+excerpt: "PRNewswire/ -- Malbek, a cloud-based provider of modern contract lifecycle management (CLM) solutions, has released new product functionality that"
+publishedDateTime: 2020-11-17T10:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/malbek-extends-contract-capabilities-with-focus-on-ai-and-integrations-301174055.html"
+webUrl: "https://www.prnewswire.com/news-releases/malbek-extends-contract-capabilities-with-focus-on-ai-and-integrations-301174055.html"
 type: article
-quality: 69
-heat: 99
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1166716/Malbek_CMR_logo_Logo.jpg?p=facebook"
+    width: 2696
+    height: 1414
+    isCached: true
 
 related:
   - title: "Next-Generation Industrial Robotic Capabilities Advanced by Artificial Intelligence"
@@ -39,35 +39,7 @@ related:
         width: 720
         height: 300
         isCached: true
-  - title: "Riverbed upgrades cloud and AI capabilities with product refresh"
-    excerpt: "Riverbed Technology Inc. is upgrading several of its software products with new artificial intelligence features and other enhancements that will give enterprises deeper visibility into their networks."
-    publishedDateTime: 2020-11-16T14:42:00Z
-    webUrl: "https://siliconangle.com/2020/11/16/riverbed-upgrades-cloud-ai-capabilities-product-refresh/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/riverbed.png"
-        width: 847
-        height: 475
-        isCached: true
-  - title: "Allied Solutions partners with leading Artificial Intelligence provider Interface, to offer an Intelligent Virtual Assistant to Financial Institutions"
-    excerpt: "Allied Solutions, one of the largest providers of insurance, lending, and marketing products to financial institutions, has entered into"
-    publishedDateTime: 2020-11-17T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/allied-solutions-partners-with-leading-artificial-intelligence-provider-interface-to-offer-an-intelligent-virtual-assistant-to-financial-institutions-301174478.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
-    images:
-      - url: "https://mma.prnewswire.com/media/1336395/Interface_Allied_solutions_Logo.jpg?p=facebook"
-        width: 849
-        height: 445
-        isCached: true
 
-secured: "jCjPOkcA9UISPuqt+57d8vl54/HogGn3zLSmNCyrEnij04rut48cVwm7K9mSg1elpiQ5GBxavnco22OR4nvrruPJxJq6PHiAHYidKhTGThqzde2mIUjmt+tTF9PKV8Zc7re9ope6bjoVqHwNMIeGNa8GE8Z8eHTvpAf1oZOwJJExRHbvZjEPKQLyhHDYge7fa5GceGfeEPplsa5cFQs8k5Lmbg27SKlmwSqZ8vc9JHgwJTr550SjJtEepRTj3ER/IVRv0kfGdC0tsT+snZObyE80pfKSwo7C1x1CD67Wa+niFYZL+Mj5pKeA/WDWHZyySTLWjBL8tucvhNAf8uYwNltKCl/OpMza6utDYAtO7fQ=;zlA2b9zqIy5SfeXmgdmVXg=="
+secured: "9pgjgf0DGRzvYpKcnAlLZcc17VMaXwzXlBkEwSAykszOFc2/n9qZ+rQRzSF5QgNb5pOO6UsyV0C8VqCxAAp+Lhx8iggTpckG2EFHN0Om5uUjFAbv69rWNPBcW0kJ5zQT+ggmHDXROhIrAZaHqSlYlbVKTTyGU9K0seTGDSHcfUyeWL+Qbz4bjOTLWiFiEuuR/LzAY5VXx7823ex3CaQ2tbtXhxUPWhKd+nYjXOMpZJ0xc29E4lmfr7Gwcfs4DtutNUX0254L9vtHecMf16Y/Av7teVoW3jTag44AY1yVcPJkRnxC/P428O1GASRwnqHe7HLv0jqNdsM6dXqiNHMsx4Yb0YwKfG1veNO1jcewzqs=;i3GUn0kBIIp8GRmnxik9dQ=="
 ---
 

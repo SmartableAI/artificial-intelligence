@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-18-women-in-ai-to-watch.md",
+      "title": "Women In AI To Watch",
+      "excerpt": "It comes as no surprise that women are woefully underrepresented in all STEM fields. Only a quarter of all STEM workers are female, and even fewer are in positions of leadership. Despite a slight increase in the amount of women in STEM in recent years,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2020/11/17/women-in-ai-to-watch/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2020/11/17/women-in-ai-to-watch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb408e73c1268fb22c618cb%2F0x0.jpg",
+          "width": 1200,
+          "height": 1118,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2020/11/17/women-in-ai-to-watch/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2020/11/17/women-in-ai-to-watch/amp/",
+      "publishedDateTime": "2020-11-17T11:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-exadel-announced-the-release-of-compreface-an-open-source-facial-recognition-application.md",
       "title": "Exadel announced the release of CompreFace, an open-source facial recognition application",
       "excerpt": "CompreFace is an open-source facial recognition application by Exadel that can be integrated as a standalone service or deployed via the cloud.",
@@ -105,7 +156,7 @@
       "originalUrl": "https://thenextweb.com/neural/2020/11/17/new-eu-funded-project-will-use-ai-to-capture-the-key-scents-of-historical-europe/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -156,7 +207,7 @@
       "originalUrl": "https://www.thestreet.com/ipo/news/canaan-bitcoin-mining-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -390,7 +441,7 @@
       "originalUrl": "https://www.cbr.com/ai-dungeon-machine-learning-future-of-games/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1125,49 +1176,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-malbek-extends-contract-capabilities-with-focus-on-ai-and-integrations.md",
-      "title": "Malbek Extends Contract Capabilities with Focus on AI and Integrations",
-      "excerpt": "PRNewswire/ -- Malbek, a cloud-based provider of modern contract lifecycle management (CLM) solutions, has released new product functionality that expands tools for contract insight, advances Malbek's AI-first contracting engine,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/malbek-extends-contract-capabilities-with-focus-on-ai-and-integrations-1029810046",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/malbek-extends-contract-capabilities-with-focus-on-ai-and-integrations-1029810046",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/malbek-extends-contract-capabilities-with-focus-on-ai-and-integrations-1029810046",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/malbek-extends-contract-capabilities-with-focus-on-ai-and-integrations-1029810046",
-      "publishedDateTime": "2020-11-17T03:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },

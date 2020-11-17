@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 638
         isCached: true
+  - title: "Jaguar Land Rover developing \"smart city hub\" to test self-driving car tech"
+    excerpt: "Jaguar Land Rover is teaming with software and telecom companies to create a \"smart city hub\" in Ireland to test self-driving technology."
+    publishedDateTime: 2020-11-17T19:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1130332_jaguar-land-rover-developing-smart-city-hub-to-test-self-driving-car-tech"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 22
+    images:
+      - url: "https://images.hgmsites.net/hug/2020-jaguar-i-pace_100751027_h.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "abnJRD6MXLtcODWmWTJDOTTZWt9eBffDtWoDu0QjyrBoMDTUADcG4RaojpF05A1m3RzWYKu/EprPmmGSTNx7JkQk3X1J1sWUYYWJ1Ic+7CsZ2u/7+DTRwFjWqVEd9yjDrEF+vSHkfQJ+86swp0T2NHUpvd7IH3AWv6psKIczfZdoDOUL/xsux+E1dSiIALmK2xK3IDACf2uUOH6/zc0MKxP3ZFG3xynbh3VFhnbLLgMfLJCYznSmbzkUKjNFIBzHYvgR9NfLnLnXHN5RCaMFxRAOvglRvIvnpbiKX0SvKRYLlBIjH4ZBES8iK1u2JTVEYN1M6gHAZJbfEg9ao2QEMME3I+4A5oJ+OdKxsUm/Swp+rUrhFR/u4+Dmte39jCuhbTcFL+L5gCyqVN4KuQNtttZcCwYzM9RhGsZTwggLwOHUsmpy0qPt9eUCZbl4MDYMPGd7jxg9/z7i6Wqkehq4KCYUgaOr5kWKnQuqxQxUYmFomsKWYV49SNtAgz1aPvDiBaC2WCNzP7fxteNhRenbOw==;7ktTJSdqs/CTmYE3JcK75g=="
 ---

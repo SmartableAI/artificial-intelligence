@@ -25,21 +25,65 @@ images:
     isCached: true
 
 related:
-  - title: "Canaan Rises Along With Bitcoin As AI Chip Development Continues"
-    excerpt: "Huangzhou, China-based Canaan was founded in 2013 with an initial focus on developing ASIC applications for Bitcoin mining under the brand Avalon Miner and has since expanded its portfolio with the Kendryte K210 chip."
-    publishedDateTime: 2020-11-17T18:16:00Z
-    webUrl: "https://www.thestreet.com/ipo/news/canaan-bitcoin-mining-ai"
-    ampWebUrl: "https://www.thestreet.com/.amp-ipo/ipo/news/canaan-bitcoin-mining-ai"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-ipo/ipo/news/canaan-bitcoin-mining-ai"
+  - title: "Women In AI To Watch"
+    excerpt: "It comes as no surprise that women are woefully underrepresented in all STEM fields. Only a quarter of all STEM workers are female, and even fewer are in positions of leadership. Despite a slight increase in the amount of women in STEM in recent years,"
+    publishedDateTime: 2020-11-17T19:01:00Z
+    webUrl: "https://www.forbes.com/sites/aparnadhinakaran/2020/11/17/women-in-ai-to-watch/"
+    ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2020/11/17/women-in-ai-to-watch/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2020/11/17/women-in-ai-to-watch/amp/"
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb408e73c1268fb22c618cb%2F0x0.jpg"
+        width: 1200
+        height: 1118
+        isCached: true
+  - title: "AI, Machine Learning to Aid in Airport Sanitation Efforts"
+    excerpt: "The Albany International Airport in New York has partnered with General Electric on technology that helps sanitation crews monitor cleanliness and frequently touched surfaces throughout the facility."
+    publishedDateTime: 2020-11-13T22:32:00Z
+    webUrl: "https://www.govtech.com/health/Albany-NY-Airport-Updates-App-with-Health-Sanitation-Measures.html"
+    ampWebUrl: "https://www.govtech.com/health/Albany-NY-Airport-Updates-App-with-Health-Sanitation-Measures.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/health/Albany-NY-Airport-Updates-App-with-Health-Sanitation-Measures.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
     quality: 74
     images:
-      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTc2ODg1OTUyODI2ODQ1MTI2/canrev.png"
-        width: 620
-        height: 383
+      - url: "https://media2.govtech.com/images/shutterstock_530657836.jpg"
+        width: 940
+        height: 627
+        isCached: true
+  - title: "U.S. Military Wants to Bring Allies into AI Fold"
+    excerpt: "The Defense Department has kicked off a new initiative to bring like-minded nations together to work on AI policies and capabilities. In September, the Pentagon’s Joint Artificial Intelligence Center hosted the inaugural AI Partnership for Defense meeting with military officials from 13 nations including: Australia,"
+    publishedDateTime: 2020-11-15T22:30:00Z
+    webUrl: "https://www.nationaldefensemagazine.org/articles/2020/11/16/us-military-wants-to-bring-allies-into-ai-fold"
+    type: article
+    provider:
+      name: National Defense Magazine
+      domain: nationaldefensemagazine.org
+    quality: 39
+    images:
+      - url: "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2020/11/istock-1203693985.ashx?h=500&w=878&la=en&hash=6AF05AFD5D458A7BE0DEF34C4ED4B6A6751D7B9C"
+        width: 878
+        height: 500
+        isCached: true
+  - title: "The AI Telegram bot that abused women is still out of control"
+    excerpt: "A bot automated deepfake abuse online. Researchers say their warnings have been ignored and Telegram has failed to removed it"
+    publishedDateTime: 2020-11-17T06:15:00Z
+    webUrl: "https://www.wired.co.uk/article/porn-bots-in-telegram-deepfake"
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 39
+    images:
+      - url: "https://wi-images.condecdn.net/image/oQ7pQBojymp/crop/1440/0.5235602094240838/f/wired-telegrambot.jpg"
+        width: 1440
+        height: 753
         isCached: true
 
 secured: "4Wp3fxLQlHUUgyZUadosUDPH/xhRUtXqvDf1kGh2LlI15zFL++xFDDudvZ5BlYUp3O1WBIEQl5Zv3Mi4pq1f1NrFaNAmhA8LsFoKVGIUW43lubqW/Cugm5tFaPkDkLR9agDZewQwCUrUcHj0bBJKsn2g0OKStslr0XiD4eJl7YROW3zpSPRZBvWzuadV2kSGaqEZGcC7XsT6aa8b7rmVGw2ckziKv0ZSmTCtb5YJkF1raHvEdCKLisxtjegJvKAKXIZKC9AKXdzwQnCWTsb26PDPhp6PtySBKkQ6Q9A2mGW+rTS4QOc4KKRxZu4V/oKcF3I6sf3kpI2p5+XZuTXhpZ3w5l+f4hf6qf1OUkePnjSLXykzGLR1zFAbu3c6cnyCeJkAu3amJcLQfH488wTbsQvs/tjEgDP+jmgA+0UAQ11uBAqQNyjjU0s9LNsDFkoTzAcfZH3FpDib0IAoCzmGV2z6wph0zxoIyoSyGwjPj+WnOTBr97HwBmykdXJVN9c1AsxLFk7+Iwy8edzpFwnnmg==;RlUq6Z698AsXMqo00uhS5g=="
