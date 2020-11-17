@@ -6,8 +6,8 @@ publishedDateTime: 2020-11-17T18:34:00Z
 originalUrl: "https://www.crn.com/news/cloud/google-cloud-debuts-professional-machine-learning-engineer-certification"
 webUrl: "https://www.crn.com/news/cloud/google-cloud-debuts-professional-machine-learning-engineer-certification"
 type: article
-quality: 38
-heat: 38
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
 images:
   - url: "https://www.crn.com/resources/0263-10e08bbc2a65-90c945401bd8-1000/machine_learning.jpg"

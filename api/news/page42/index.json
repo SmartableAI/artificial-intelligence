@@ -2,6 +2,220 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2020-10-15-sicks-deep-learning-brings-simplicity-to-complex-ai-inspection.md",
+      "title": "SICK’s Deep Learning Brings Simplicity to Complex AI Inspection",
+      "excerpt": "SICK has launched a suite of Deep Learning apps and services to simplify machine vision quality inspection for challenging components, assemblies, surfaces or food produce, especially those that have previously defied automation and remained ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theengineer.co.uk/supplier-network/product/sicks-deep-learning-brings-simplicity-to-complex-ai-inspection/",
+      "originalUrl": "https://www.theengineer.co.uk/supplier-network/product/sicks-deep-learning-brings-simplicity-to-complex-ai-inspection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://theengineer.markallengroup.com/production/2020/10/im0090846.jpg",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Engineer",
+        "domain": "theengineer.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-vxg-announces-platform-to-receive-automated-analysis-at-scale-effectively-making-any-camera-a-smart-camera.md",
+      "title": "VXG announces platform to receive automated analysis at scale, effectively making any camera a smart camera",
+      "excerpt": "For an example, one really has to look no further than Amazon Rekognition, which leverages Machine Learning (ML) to make it easy to identify things like objects, people, or text within videos and images. Outside of the technology industry, however ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/tags/video-analytics/news/vxg-announces-platform-receive-automated-analysis-co-14053-ga-co-1537871022-ga-co-1602744794-ga-npr.1602747032.html",
+      "originalUrl": "https://www.sourcesecurity.com/tags/video-analytics/news/vxg-announces-platform-receive-automated-analysis-co-14053-ga-co-1537871022-ga-co-1602744794-ga-npr.1602747032.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://security-img.scdn6.secure.raxcdn.com/news/612/retail-security_1599042170.jpg",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/vxg-announces-platform-receive-automated-analysis-co-14053-ga-co-1537871022-ga-co-1602744794-ga-npr.1602747032.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/vxg-announces-platform-receive-automated-analysis-co-14053-ga-co-1537871022-ga-co-1602744794-ga-npr.1602747032.html",
+      "publishedDateTime": "2020-10-15T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards.md",
+      "title": "Self-driving cars can be forced to brake by hijacked billboards",
+      "excerpt": "Security researchers have demonstrated how hijacked billboards could be used to confuse self-driving cars -- forcing them to slam on the brakes, or worse. Autonomous driving systems have come on leaps and bounds in recent years,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/",
+      "originalUrl": "https://www.zdnet.com/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/",
+      "publishedDateTime": "2020-10-15T02:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-using-ai-canadian-city-predicts-who-might-become-homeless.md",
+      "title": "Using AI, Canadian city predicts who might become homeless",
+      "excerpt": "As makeshift tent cities spring up across Canada to house rough sleepers who fear using shelters due to COVID-19, one city is leveraging artificial intelligence (AI) to predict which residents risk becoming homeless.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-canada-homelessness-tech-idUSKBN27013Y",
+      "originalUrl": "https://www.reuters.com/article/us-canada-homelessness-tech-idUSKBN27013Y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27013Y",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27013Y",
+      "publishedDateTime": "2020-10-15T02:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-quick-ai-adoption-essential-for-future-of-work-in-india-says-intel.md",
+      "title": "Quick AI adoption essential for future of work in India, says Intel",
+      "excerpt": "Intel said that Artificial Intelligence is essential to the future of work in a post-pandemic world, with over 90% respondents in a survey considering AI to be essential to their businesses in India",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/technology/quick-ai-adoption-essential-for-future-of-work-in-india-says-intel-120101500680_1.html",
+      "originalUrl": "https://www.business-standard.com/article/technology/quick-ai-adoption-essential-for-future-of-work-in-india-says-intel-120101500680_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2019-06/19/full/1560959403-0446.jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/quick-ai-adoption-essential-for-future-of-work-in-india-says-intel-120101500680_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/quick-ai-adoption-essential-for-future-of-work-in-india-says-intel-120101500680_1.html",
+      "publishedDateTime": "2020-10-15T02:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-south-korean-startup-cochlearai-raises-2-million-series-a-to-detect-the-sounds-missed-by-speech-recognition.md",
       "title": "South Korean startup Cochlear.ai raises $2 million Series A to detect the sounds missed by speech recognition",
       "excerpt": "These are all noises Cochlear.ai, a Seoul-based sound recognition startup, is training its SaaS platform to identify. The company’s goal is to develop software that can identify almost any kind ...",
@@ -944,247 +1158,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-googles-breast-cancer-predicting-ai-research-is-useless-without-transparency-critics-say.md",
-      "title": "Google’s breast cancer-predicting AI research is useless without transparency, critics say",
-      "excerpt": "Another study — a meta-analysis of over 3,000 AI papers — found that metrics ... a well-funded telemedicine startup that claims to be able to triage a range of diseases from text messages ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/14/googles-breast-cancer-predicting-ai-research-is-useless-without-transparency-critics-say/",
-      "originalUrl": "https://venturebeat.com/2020/10/14/googles-breast-cancer-predicting-ai-research-is-useless-without-transparency-critics-say/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/14/googles-breast-cancer-predicting-ai-research-is-useless-without-transparency-critics-say/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/14/googles-breast-cancer-predicting-ai-research-is-useless-without-transparency-critics-say/amp/",
-      "publishedDateTime": "2020-10-14T14:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-facebook-plans-to-use-ai-to-help-fight-climate-change.md",
-      "title": "Facebook plans to use AI to help fight climate change",
-      "excerpt": "The social network teams up with Carnegie Mellon University to find new ways to store and use renewable energy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/facebook-plans-to-use-ai-to-help-fight-climate-change/",
-      "originalUrl": "https://www.cnet.com/news/facebook-plans-to-use-ai-to-help-fight-climate-change/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/DLI_wPn6SSXK7hKxFajKVx567f0=/1200x630/2019/12/30/913bf7f7-7ec0-4894-bb35-3807a65e36bb/facebook-logo-phone-4597.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-plans-to-use-ai-to-help-fight-climate-change/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-plans-to-use-ai-to-help-fight-climate-change/",
-      "publishedDateTime": "2020-10-14T13:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-full-session-cognitive-risk-and-the-nature-of-threat.md",
-      "title": "Full Session: Cognitive Risk and the Nature of Threat",
-      "excerpt": "This CDW Tech Talk session explores why IT leaders should think consider the cognitive risk tied to the digital transformation brought on by the pandemic and how they can address it. Find full coverage of the CDW Tech Talk here. IT leaders today play a ...",
-      "sourceUrl": null,
-      "webUrl": "https://biztechmagazine.com/media/video/full-session-cognitive-risk-and-nature-threat",
-      "originalUrl": "https://biztechmagazine.com/media/video/full-session-cognitive-risk-and-nature-threat",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/video/BenHammersley_FullSession.jpg?itok=yiiC9Bau",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://biztechmagazine.com/media/video/full-session-cognitive-risk-and-nature-threat?amp",
-      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/media/video/full-session-cognitive-risk-and-nature-threat?amp",
-      "publishedDateTime": "2020-10-14T13:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BizTech",
-        "domain": "biztechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-brazil-launches-artificial-intelligence-center.md",
-      "title": "Brazil launches artificial intelligence center",
-      "excerpt": "The largest research facility in the country with focus on the technologies is run jointly by IBM and public sector bodies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/brazil-launches-artificial-intelligence-center/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/brazil-launches-artificial-intelligence-center/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/brazil-launches-artificial-intelligence-center/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/brazil-launches-artificial-intelligence-center/",
-      "publishedDateTime": "2020-10-14T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-google-analytics-update-uses-machine-learning-to-surface-more-critical-customer-data.md",
-      "title": "Google Analytics update uses machine learning to surface more critical customer data",
-      "excerpt": "If you ever doubted the hunger brands have for more and better information about consumers, you only need to look at Twilio buying customer data startup Segment this week for $3.2 billion. Google sees this the same thing as everyone else,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/14/google-analytics-update-uses-machine-learning-to-surface-more-critical-customer-data/?tpcc=ECTW2020",
-      "originalUrl": "https://techcrunch.com/2020/10/14/google-analytics-update-uses-machine-learning-to-surface-more-critical-customer-data/?tpcc=ECTW2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1076542364.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/14/google-analytics-update-uses-machine-learning-to-surface-more-critical-customer-data/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/14/google-analytics-update-uses-machine-learning-to-surface-more-critical-customer-data/amp/",
-      "publishedDateTime": "2020-10-14T11:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

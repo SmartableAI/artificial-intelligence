@@ -80,20 +80,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Corsight AI Launches Real-Time Facial Recognition Technology that Accurately Identifies Individuals at an Unmatched Speed Under Any Condition"
-    excerpt: "Corsight AI, a leading facial recognition technology provider, announced today the launch of its facial recognition technology. The"
-    publishedDateTime: 2020-11-17T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/corsight-ai-launches-real-time-facial-recognition-technology-that-accurately-identifies-individuals-at-an-unmatched-speed-under-any-condition-301174218.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
-    images:
-      - url: "https://mma.prnewswire.com/media/1335631/Corsight_AI_Logo.jpg?p=facebook"
-        width: 1569
-        height: 824
-        isCached: true
 
 secured: "bx0uwe5mtLQrfAHcX1RB4r257bXxiRt8cdIK3JTkIWr9CmJ0VnQyl07dodhGzxOpW33XX890PaK7TUviE29V8+XIbk0JcblRAjOSdJNYcim6PcU8NNmaxSQomJXwckxhlZdUei1S6fusofz1qPHet8rjrgc10xA+lEruW6tRb9GfhHgpkdrwoPtUhCkl3larW/fwcyyQHXP4/VUUygLN9KzzL42Ng46c1CWbkFJ2Y5tj78mELM4yzsAzv7IFSdAZT9hZ2yO+2cWCs2dJ6UkQXYn9gaIJ1NZ08jNUkwmjQafUlBPJLXkbu+O1Bp9RM17tSYAQqNI6mRFzqQYH/BmmLg+XRMlduVYK3BFq5nf1cGoTBxZIz8s091p51iNrDeehc3AjhsjZP/TyYBYzpH4P35ni4p0W8AZJddwvOKk7welR3WTpGVLk1ww4/xZ4fuNGitAb1ECKRGYoOUu0pexn9GWLIf2AXHxYuFvM+rQemrjlqMfM29Ui4yOOOMd/2WsekEdLdpkf0SJJS5NeoLtHXg==;ACKRV53xHDE2FpnVF51XoQ=="
 ---

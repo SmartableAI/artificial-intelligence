@@ -61,20 +61,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
-  - title: "Global Artificial Intelligence in Automotive Market Status, Prospect, and Forecast 2020 to 2026 – MarketDesk"
-    excerpt: "MarketDesk : Artificial Intelligence in Automotive Market Report brings a systematic perspective of the market execution worldwide and additionally the regional situation. In a detailed section shrewd arrangement,"
-    publishedDateTime: 2020-11-13T05:43:00Z
-    webUrl: "https://apnews.com/press-release/wired-release/technology-business-corporate-news-products-and-services-automobile-manufacturing-e8baf7444f1f6adb69aae50f1730547a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 18
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "5zESk8OVM6Q7TDklh1aenR3B3Sjeu9aVXqr36uh0CeKyaC1A9y30GULptc0zSXRg3Dqfa6KAQqRp9mOiSkYv+Vdguak8YHLSHcvnkaTQYMxeNNBQiw04j5Y3oiVvRg4LaLhHO8SV1FeFRGpJtjnopx3JvohfqPivAj4rHAOi4u8BrzPX0Yon4A+mJAsNbzAecV8nWfDDOyZ4xHV9bC1IunOa/LF0nW/xKMkGOTk7aqyRVmBs2uf2KApsLrDn3Q/FERMoR40K/+a8xdAItGuB/VEFJyLXBg4RaR6hVwm7Lh6VhKTIND9m8sJBprU2Me25yq5esuC9EluvePFp5o4G5QmnFA9ucuHiqzkCz15Qk55djz8EA6adcawAkV9KBJZPt4Nc6YPQcllNRZ21kmD8+/CTEsXM4vfHPPpi2dAi/wJfcmiH85pqvviD152BnjWwQ6kN6xCq97yP/89XgVElY9aS2bQlCgRGoW8q++AhaxTktwme+6dXaSRNeTQpXRG7KxQMhKofqilqDImT/54PPQ==;XOASB4+YZK23fM/TgPtM4g=="
 ---

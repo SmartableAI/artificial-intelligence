@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/expertai-launches-new-too
 webUrl: "https://www.prnewswire.com/news-releases/expertai-launches-new-tools-for-building-nlp-apps-and-advances-edge-ai-301174754.html"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Expert.ai Launches New Tools for Building NLP Apps and Advances Edge AI"
+    excerpt: "Expert.ai Studio leverages expert.ai natural language understanding (NLU) abilities to streamline the development of NLP applications. Users can take advantage of core AI features for categorization,"
+    publishedDateTime: 2020-11-17T22:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/expert-ai-launches-new-tools-for-building-nlp-apps-and-advances-edge-ai-1029811454"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/expert-ai-launches-new-tools-for-building-nlp-apps-and-advances-edge-ai-1029811454"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/expert-ai-launches-new-tools-for-building-nlp-apps-and-advances-edge-ai-1029811454"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
   - title: "Vance Technology Launches Vance AI Background Remover for Image Editing"
     excerpt: "Vance Technology, an AI-powered web solution provider, recently launched its Vance AI Background Remover, a new AI web tool to remove background automatically online. What Can Vance AI Background Remover Do?"
     publishedDateTime: 2020-11-13T09:29:00Z

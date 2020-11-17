@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-01-real-time-object-recognition-at-low-costpowerlatency.md",
+      "title": "Real-Time Object Recognition At Low Cost/Power/Latency",
+      "excerpt": "But we find that the number one neural network of interest for most customers is real-time object recognition, such as YOLOv3. It’s not possible to do comparisons here because nobody shows a YOLOv3 benchmark for their inferencing. But it’s very ...",
+      "sourceUrl": null,
+      "webUrl": "https://semiengineering.com/real-time-object-recognition-at-low-cost-power-latency/",
+      "originalUrl": "https://semiengineering.com/real-time-object-recognition-at-low-cost-power-latency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/semiengineering.com/wp-content/uploads/2018/10/Flex-Logix_NMAX-benchmarks-fig2-YOLOv3.png?fit=1380%2C509&#038;ssl=1",
+          "width": 1380,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-stradvision-selected-as-a-member-of-renesas-r-car-consortium-proactive-partner-program.md",
+      "title": "StradVision selected as a member of Renesas R-Car Consortium Proactive Partner Program",
+      "excerpt": "StradVision has been working closely with Renesas since the announcement of their collaboration on developing a deep learning-based object recognition solution for smart cameras used in ADAS in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/stradvision-selected-as-a-member-of-renesas-r-car-consortium-proactive-partner-program-301161061.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/stradvision-selected-as-a-member-of-renesas-r-car-consortium-proactive-partner-program-301161061.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1003667/StradVision_Logo.jpg?p=facebook",
+          "width": 1413,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-30T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-lax-debuts-facial-recognition-technology-for-international-travelers.md",
       "title": "LAX debuts facial recognition technology for international travelers",
       "excerpt": "U.S. Customs and Border Protection officials announced the implementation of a facial-recognition process at LAX.",
@@ -1268,102 +1354,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads.md",
-      "title": "New MLPerf Data Shows Competition Increases In AI, But NVIDIA Still Leads",
-      "excerpt": "Like the latest training results, which were announced in July, the new inference numbers show an increase in the number of companies submitting and an increased number of platforms and workloads supported.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f90a348132e6eddbd3811cb%2F0x0.jpg",
-          "width": 1200,
-          "height": 974,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads/amp/",
-      "publishedDateTime": "2020-10-21T15:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-activists-build-facial-recognition-to-id-cops-who-hide-their-badges.md",
-      "title": "Activists Build Facial Recognition to ID Cops Who Hide Their Badges",
-      "excerpt": "In order to hold police accountable when they try to hide their identities, a growing number of activists are developing facial recognition tools that identify cops, The New York Times reports — a striking inversion of the way cops tend to use facial recognition on protestors and suspects.",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/activists-build-facial-recognition-id-cops-hide-badges/amp",
-      "originalUrl": "https://futurism.com/activists-build-facial-recognition-id-cops-hide-badges/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2020/10/activists-build-facial-recognition-id-cops-hide-badges-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/activists-build-facial-recognition-id-cops-hide-badges/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/activists-build-facial-recognition-id-cops-hide-badges/amp",
-      "publishedDateTime": "2020-10-21T12:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

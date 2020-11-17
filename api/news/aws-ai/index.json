@@ -2,29 +2,90 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-17-incorporating-your-enterprise-knowledge-graph-into-amazon-kendra.md",
+      "title": "Incorporating your enterprise knowledge graph into Amazon Kendra",
+      "excerpt": "For many organizations, consolidating information assets and making them available to employees when needed remains a challenge. Commonly used technology like spreadsheets, relational databases, and NoSQL databases exacerbate this issue by creating more and more unconnected, unstructured data. Knowledge",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/incorporating-your-enterprise-knowledge-graph-into-amazon-kendra/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/incorporating-your-enterprise-knowledge-graph-into-amazon-kendra/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/17/Architecture1279.jpg",
+          "width": 700,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-17T13:23:12-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-nxp-collaborates-with-amazon-web-services-aws-to-extend-connected-vehicle-opportunities.md",
       "title": "NXP Collaborates with Amazon Web Services (AWS) to Extend Connected Vehicle Opportunities",
-      "excerpt": "Vehicle edge-to-cloud compute solution aims to enable new automotive industry revenue opportunities Sets foundation for data-driven services and",
+      "excerpt": "Expands access to vehicle Big Data and streamlines machine learning life cycle to accelerate vehicle development and post-sale vehicle enhancements NXP Semiconductors has announced a strategic relationship with Amazon Web Services (AWS) focused on extending the opportunities of connected vehicles.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/nxp-collaborates-with-amazon-web-services-aws-to-extend-connected-vehicle-opportunities-1029809200",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/nxp-collaborates-with-amazon-web-services-aws-to-extend-connected-vehicle-opportunities-1029809200",
+      "webUrl": "https://www.marketwatch.com/press-release/nxp-collaborates-with-amazon-web-services-aws-to-extend-connected-vehicle-opportunities-2020-11-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/nxp-collaborates-with-amazon-web-services-aws-to-extend-connected-vehicle-opportunities-2020-11-17",
       "featuredContent": null,
       "highlight": null,
       "heat": 85,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/NXP-Collaborates-with-Amazon-Web-Services-AWS-to-Extend-Connected-Vehicle-Opportunities-1029809200",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/NXP-Collaborates-with-Amazon-Web-Services-AWS-to-Extend-Connected-Vehicle-Opportunities-1029809200",
-      "publishedDateTime": "2020-11-16T23:20:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-17T01:42:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -593,10 +654,10 @@
     {
       "path": "_news/2020-11-11-electrifai-offers-new-machine-learning-models-for-amazon-sagemaker.md",
       "title": "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker",
-      "excerpt": "ElectrifAi, one of the global leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,",
+      "excerpt": "Amazon SageMaker is a fully managed service from Amazon Web Services (AWS) that provides every developer and data scientist with the ability to build, train, and deploy ML models quickly.",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-301170639.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-301170639.html",
+      "webUrl": "https://www.prnewswire.com/in/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-897787209.html",
+      "originalUrl": "https://www.prnewswire.com/in/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-897787209.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -615,7 +676,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T04:00:00-08:00",
+      "publishedDateTime": "2020-11-11T05:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PR Newswire",
@@ -629,10 +690,9 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
+        "AWS AI",
         "AI",
-        "Machine Learning",
-        "AWS AI"
+        "Machine Learning"
       ]
     },
     {
@@ -1422,50 +1482,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available.md",
-      "title": "Amazon EC2 P4d instances for pushing machine learning boundaries now available",
-      "excerpt": "Amazon Web Services (AWS) has announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) P4d instances with EC2 UltraClusters capability. The cloud giant has touted the offering as the next generation of GPU-powered instances for providing the best performance in machine learning training and high-performance computing (HPC) in the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
-      "originalUrl": "https://www.zdnet.com/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
-      "publishedDateTime": "2020-11-02T16:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

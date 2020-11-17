@@ -25,19 +25,30 @@ images:
     isCached: true
 
 related:
-  - title: "Cover Story: Normalising facial recognition technology"
-    excerpt: "How do you know you’re really talking to me right now, Vanessa?”Andrew Bud, founder and CEO of iProov Ltd, an online biometric authentication company, put forward this question in the middle of our virtual conversation."
-    publishedDateTime: 2020-11-15T20:16:00Z
-    webUrl: "https://www.theedgemarkets.com/article/cover-story-normalising-facial-recognition-technology"
+  - title: "Corsight AI Launches Real-Time Facial Recognition Technology that Accurately Identifies Individuals at an Unmatched Speed Under Any Condition"
+    excerpt: "Commercially Available, Corsight's Technology is Powered by Autonomous AINEW YORK, Nov. 17, 2020 /PRNewswire/ -- Corsight AI, a leading"
+    publishedDateTime: 2020-11-17T21:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/corsight-ai-launches-real-time-facial-recognition-technology-that-accurately-identifies-individuals-at-an-unmatched-speed-under-any-condition-1029810723"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/corsight-ai-launches-real-time-facial-recognition-technology-that-accurately-identifies-individuals-at-an-unmatched-speed-under-any-condition-1029810723"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/corsight-ai-launches-real-time-facial-recognition-technology-that-accurately-identifies-individuals-at-an-unmatched-speed-under-any-condition-1029810723"
     type: article
     provider:
-      name: The Edge
-      domain: theedgemarkets.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Corsight AI Launches Real-Time Facial Recognition Technology that Accurately Identifies Individuals at an Unmatched Speed Under Any Condition"
+    excerpt: "Corsight AI, a leading facial recognition technology provider, announced today the launch of its facial recognition technology. The"
+    publishedDateTime: 2020-11-17T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/corsight-ai-launches-real-time-facial-recognition-technology-that-accurately-identifies-individuals-at-an-unmatched-speed-under-any-condition-301174218.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
     images:
-      - url: "https://assets.theedgemarkets.com/DE8-Face--tem1345_20201111144700_theedgemarkets.jpg?null"
-        width: 1200
-        height: 800
+      - url: "https://mma.prnewswire.com/media/1335631/Corsight_AI_Logo.jpg?p=facebook"
+        width: 1569
+        height: 824
         isCached: true
 
 secured: "aOAjYWvwYG/L+OywXQoXtWyTS6SlNHqNAg8THI9zweLjT9mn4GCkn1cp77+IZZPM17qtHv45PxS65Zlo7MyC/7ijFfH2FfWiPOnkcPgfpUTROiIkCelN+/oqCk4Yy+yHubWJ/tYsUAGodJMdhZdJhsapzOv+lE4n2oJoytRlHqs6g2z+yj8Y0LA62CifW+5vOQuieezYUVbrWC1xBOSG9Aqel3KPA1ZSyTL10V/hrEJbjxCVXMxDNQ/rIVY9EnXBH8EMREF5FO1J7Wo2YMAnEfw8RmfT+xlZ8le7CtklqcwhTyo0yp212r3CBM+dL+8JgxvbEVee7Ht2dBuKdfIqBpgqnhcAY+RLxstmJoGBjZxunYgaNr3QLKfVuASvuVYA/KwbHx+Wk6fq1zs7ozxjHIVFl8DSL58ws4JHi2+nuNyy5V6NQ1rBd+ptPDwzv660uSMH4aH2sgtDzd0AULjTgGky3EtTFQm1sQSQCHbdd3W1YwZU3dVwr4c73gBrEPbaVlx6C8/IeaxdXLnJM/t5Fg==;38ETn/ShdZtPx3pKS5cdsA=="

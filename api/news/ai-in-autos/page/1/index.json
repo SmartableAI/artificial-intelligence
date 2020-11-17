@@ -305,6 +305,50 @@
       ]
     },
     {
+      "path": "_news/2020-11-13-weather-proof-chip-aims-to-take-self-driving-tech-wireless-communications-to-next-level.md",
+      "title": "Weather-proof chip aims to take self-driving tech, wireless communications to next level",
+      "excerpt": "A new device can overcome challenges like bad weather to deliver more secure, reliable communications. This could aid military communications in challenging areas, improve the ability of self-driving cars to see the environment around them and speed up wireless data for potential 6G networks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2020/11/201112145432.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2020/11/201112145432.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-13T01:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-join-the-final-lap-of-the-2020-deepracer-league-at-aws-reinvent-2020.md",
       "title": "Join the Final Lap of the 2020 DeepRacer League at AWS re:Invent 2020",
       "excerpt": "AWS DeepRacer is the fastest way to get rolling with machine learning (ML). It’s a fully autonomous 1/18th scale race car driven by reinforcement learning, a 3D racing simulator, and a global racing league. Throughout 2020, tens of thousands of developers honed their ML skills and competed in the League’s",
@@ -1475,61 +1519,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-artificial-intelligence-market-key-vendors-trends-analysis-segmentation-forecast-to-2020-2026.md",
-      "title": "Artificial Intelligence Market: key Vendors, Trends, Analysis, Segmentation, Forecast to 2020-2026",
-      "excerpt": "According to a new study published by Polaris Market Research the Global Artificial Intelligence Market is anticipated",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-key-vendors-trends-analysis-segmentation-forecast-to-2020-2026-2020-11-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-key-vendors-trends-analysis-segmentation-forecast-to-2020-2026-2020-11-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-04T02:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics",
-        "AI in Autos",
-        "Facebook AI"
       ]
     }
   ],

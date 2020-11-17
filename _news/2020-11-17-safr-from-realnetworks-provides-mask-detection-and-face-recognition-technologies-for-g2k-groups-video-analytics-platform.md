@@ -66,20 +66,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Corsight AI Launches Real-Time Facial Recognition Technology that Accurately Identifies Individuals at an Unmatched Speed Under Any Condition"
-    excerpt: "Corsight AI, a leading facial recognition technology provider, announced today the launch of its facial recognition technology. The"
-    publishedDateTime: 2020-11-17T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/corsight-ai-launches-real-time-facial-recognition-technology-that-accurately-identifies-individuals-at-an-unmatched-speed-under-any-condition-301174218.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
-    images:
-      - url: "https://mma.prnewswire.com/media/1335631/Corsight_AI_Logo.jpg?p=facebook"
-        width: 1569
-        height: 824
-        isCached: true
   - title: "SAFR and VSBLTY each partner to deploy face biometrics for crowd customer safety, insights"
     excerpt: "Partnerships on facial recognition and computer vision technologies have been formed by RealNetworks and VSBLTY, and Patriot One has announced a contract win for its video analytics platform."
     publishedDateTime: 2020-11-17T18:50:00Z

@@ -3,10 +3,10 @@ category: news
 title: "Autodesk acquires AI-based design firm Spacemaker"
 excerpt: "Autodesk said Tuesday that it has signed a deal to acquire Spacemaker for $240 million. Based in Oslo, Norway, Spacemaker uses artificial intelligence and generative design to help architects, urban designers,"
 publishedDateTime: 2020-11-17T06:00:00Z
-originalUrl: "https://www.zdnet.com/article/autodesk-acquires-ai-based-design-firm-spacemaker/"
-webUrl: "https://www.zdnet.com/article/autodesk-acquires-ai-based-design-firm-spacemaker/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/autodesk-acquires-ai-based-design-firm-spacemaker/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/autodesk-acquires-ai-based-design-firm-spacemaker/"
+originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/autodesk-acquires-ai-based-design-firm-spacemaker/"
+webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/autodesk-acquires-ai-based-design-firm-spacemaker/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/autodesk-acquires-ai-based-design-firm-spacemaker/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/autodesk-acquires-ai-based-design-firm-spacemaker/"
 type: article
 quality: 87
 heat: 117
@@ -74,6 +74,6 @@ related:
       domain: businessinsider.com
     quality: 46
 
-secured: "8zE3qAPmpX0qLWvWSA9Lra8Uv1JeQVbl0yhq54AZfj6dt6AlAPdOoSeiONxpcEIToARNy3245uxFlq62w3PwLFfuwfRV0Mgcnh8FZhCd2U6zqoaxQe7NUAYWT5nh+a32MXwOPIMfnjDq92JiOo7LZAgACsGlurcraIFj8c+Toaqxd7Y6120iTzjCz1ZwXAvSXx/thR1FPGoE7jR4YdSWsyRE64+IOZRtte4QtTSr3Ckj3ifeHqISaPIkNJHmxDm/UXmGMclB0nv0qIWZjKkUwwNRy4d7YbprpS8rjIoVz5C3I8eG5iRsJJqDcmvW4ATTgdXvcI6S17u836q/YGdij8FJbtt3Dzm0kSvpNCqt7wjQ0VXSK59k6TNRzILNFFBIUQJYwQ3ktQTkP8t3Tr3gRZS9gOVff0ZmRX7IMo8SBvV3l0Ve5AQEPm+p7hFoMFfjTFJfQbEG7P12qidZpXL8MdMligIOLiB8Izi0mWcJolYIKxugCCIfUOLXBrH3lERvBcFYSHE6ddO4I0+Ei2L1Ow==;96sbp1our96+3ZrFsMAM2w=="
+secured: "EFWS0CLQpDXAVIB2mUCDxOzQ/vk4+CTTpxMvCFMFoq3mf1Mc0xj9+bqRlh56F3Ej+mBvpkJI6+pFeqOZ/pcEEHYnH6jqNlQFv1n90Ikdgt+QkZArw5ovB4Rp9DBb44nCikuedqTLWh+wPpOgj6XdDKqzF2iTc6SyClguot4JxV5onQaXczYB6BVqco4gaDQjCBfOlm4DS10gPa6MqLCbSzzYDAK9VRsTbtLZFX+Mrwt2Qse1qxV7oV2xrCR1/paOkbGgxYNw8qCPOhl6T3O8Vw9hYAzNIfrG35sJ7W4QLPAR3rTQR3RX1QvCf1vwlUu5jd7qKKzz+/s6p+fj7f3H8g8uRjTLyLHAbhf51kyZOZE=;/ULniE/39pHte4jjCjhQGQ=="
 ---
 

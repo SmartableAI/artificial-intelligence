@@ -25,74 +25,30 @@ images:
     isCached: true
 
 related:
-  - title: "SAFR from RealNetworks provides mask detection and face recognition technologies for G2K Group’s video analytics platform"
-    excerpt: "SAFR from RealNetworks, Inc. has announced a global partnership with German tech company G2K Group GmbH to revolutionise real-time video analytics.SAFR features including face recognition,"
-    publishedDateTime: 2020-11-17T11:01:00Z
-    webUrl: "https://www.sourcesecurity.com/news/safr-real-networks-mask-detection-face-recognition-g2k-group-video-analytics-platform-co-1554987129-ga-co-1584640778-ga-npr.1605607229.html?ref=nav"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/safr-real-networks-mask-detection-face-recognition-g2k-group-video-analytics-platform-co-1554987129-ga-co-1584640778-ga-npr.1605607229.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/safr-real-networks-mask-detection-face-recognition-g2k-group-video-analytics-platform-co-1554987129-ga-co-1584640778-ga-npr.1605607229.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 34
-    images:
-      - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/ai-stadium-security-920.jpg"
-        width: 612
-        height: 355
-        isCached: true
-  - title: "SAFR® from RealNetworks is chosen to provide features, including mask detection and face recognition, for G2K Group’s video analytics platform"
-    excerpt: "(NASDAQ: RNWK) today announced a global partnership with German tech company G2K Group GmbH to revolutionize real-time video analytics. SAFR features including face recognition, mask detection, person detection,"
-    publishedDateTime: 2020-11-16T14:22:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/safr-from-realnetworks-is-chosen-to-provide-features-including-mask-detection-and-face-recognition-for-g2k-group-s-video-analytics-platform-1029806420"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/SAFR-from-RealNetworks-is-chosen-to-provide-features-including-mask-detection-and-face-recognition-for-G2K-Group-s-video-analytics-platform-1029806420"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/SAFR-from-RealNetworks-is-chosen-to-provide-features-including-mask-detection-and-face-recognition-for-G2K-Group-s-video-analytics-platform-1029806420"
+  - title: "Corsight AI Launches Real-Time Facial Recognition Technology that Accurately Identifies Individuals at an Unmatched Speed Under Any Condition"
+    excerpt: "Commercially Available, Corsight's Technology is Powered by Autonomous AINEW YORK, Nov. 17, 2020 /PRNewswire/ -- Corsight AI, a leading"
+    publishedDateTime: 2020-11-17T21:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/corsight-ai-launches-real-time-facial-recognition-technology-that-accurately-identifies-individuals-at-an-unmatched-speed-under-any-condition-1029810723"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/corsight-ai-launches-real-time-facial-recognition-technology-that-accurately-identifies-individuals-at-an-unmatched-speed-under-any-condition-1029810723"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/corsight-ai-launches-real-time-facial-recognition-technology-that-accurately-identifies-individuals-at-an-unmatched-speed-under-any-condition-1029810723"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 33
-  - title: "Technology trends on the rise: aisle sat-nav, scan and go and facial recognition set to revolutionise the industry, says Ubamarket"
-    excerpt: "Will Broome, CEO of retail fintech app Ubamarket, discusses how nimble technologies are essential for recovery post-COVID"
-    publishedDateTime: 2020-11-17T12:59:00Z
-    webUrl: "https://www.retailtimes.co.uk/technology-trends-on-the-rise-aisle-sat-nav-scan-and-go-and-facial-recognition-set-to-revolutionise-the-industry-says-ubamarket/"
+    quality: 49
+  - title: "How regulators can get facial recognition technology right"
+    excerpt: "As facial recognition technology spreads, regulators have tools to ensure that this technology does not result in inaccurate or biased outcomes."
+    publishedDateTime: 2020-11-17T14:27:00Z
+    webUrl: "https://www.brookings.edu/techstream/how-regulators-can-get-facial-recognition-technology-right/"
     type: article
     provider:
-      name: Retail Times
-      domain: retailtimes.co.uk
-    quality: 24
+      name: Brookings Institution
+      domain: brookings.edu
+    quality: 39
     images:
-      - url: "http://www.retailtimes.co.uk/wp-content/uploads/2013/10/RTnewsletter-logo.jpg"
-        width: 560
-        height: 420
-        isCached: true
-  - title: "SAFR and VSBLTY face biometrics deployed for crowd customer safety and insights"
-    excerpt: "Partnerships on facial recognition and computer vision technologies have been formed by RealNetworks and VSBLTY, and Patriot One has announced a contract win for its video analytics platform."
-    publishedDateTime: 2020-11-17T18:55:00Z
-    webUrl: "https://www.biometricupdate.com/202011/safr-and-vsblty-face-biometrics-deployed-for-crowd-customer-safety-and-insights"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 20
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/07/28165245/facial-recognition-surveillance-crowds-scaled.jpeg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "SAFR and VSBLTY each partner to deploy face biometrics for crowd customer safety, insights"
-    excerpt: "Partnerships on facial recognition and computer vision technologies have been formed by RealNetworks and VSBLTY, and Patriot One has announced a contract win for its video analytics platform."
-    publishedDateTime: 2020-11-17T18:50:00Z
-    webUrl: "https://www.biometricupdate.com/202011/safr-and-vsblty-each-partner-to-deploy-face-biometrics-for-crowd-customer-safety-insights"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 14
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/07/28165245/facial-recognition-surveillance-crowds-scaled.jpeg"
-        width: 2048
-        height: 1365
+      - url: "https://www.brookings.edu/wp-content/uploads/2020/11/Ho_Facial-Recognition.jpg"
+        width: 3600
+        height: 2400
         isCached: true
 
 secured: "E1oQv9Iqq3gPyLB+bkWnn4XJDDrLA4ixnRlBIcA+plMlzNgyjSyi1eiuEeun6tWvN8+VAHgs5eyw7bGv/qOtRuR5eIwdxe16XidQFpWKj/4b9Z0bLHQROcBR7f5Uj2BfOk9WNnK5S6Jyv54AnY2NR8kTggMrACK4YpAYu8m+rA5byfWW5XCluF8gZ3N6kT2vJzrB4Qfj2sKExmjGXPWeP/coUHmO/SnCRIuqk1Bcz9XI9gPrEyVI68hDjIfDdJnx0pM2XOJnofpOocBufhFpCgBihBgxPGEdVY54u3rOaDQUQe9r14lPfwsR7UrNPbr4ZUZsnOIu8EQokCPDjJMDnk/cD9YYslrA06+ZFcKR1nY=;DuaRj+qr/IoMmj9noGLxZw=="

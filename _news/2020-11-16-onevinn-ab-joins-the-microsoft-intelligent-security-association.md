@@ -54,11 +54,11 @@ related:
       domain: businessinsider.com
     quality: 99
   - title: "Stradigi AI Launches the Kepler™ AI Platform Powered by Microsoft Azure"
-    excerpt: "Kepler Empowers Users Across All Departments to Quickly Deploy Projects with Same-Day Azure Marketplace ActivationMONTREAL, Nov. 17, 2020 /CNW"
+    excerpt: "Kepler Empowers Users Across All Departments to Quickly Deploy Projects with Same-Day Azure Marketplace ActivationMONTREAL, Nov. 17, 2020"
     publishedDateTime: 2020-11-17T20:46:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811527"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811527"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811527"
+    webUrl: "https://markets.businessinsider.com/news/stocks/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811428"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811428"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811428"
     type: article
     provider:
       name: Business Insider

@@ -96,7 +96,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/deep-learning-market-focus-on-medical-image-processing-2020-2030-1029809618",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -916,10 +916,10 @@
     {
       "path": "_news/2020-11-11-electrifai-offers-new-machine-learning-models-for-amazon-sagemaker.md",
       "title": "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker",
-      "excerpt": "ElectrifAi, one of the global leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,",
+      "excerpt": "Amazon SageMaker is a fully managed service from Amazon Web Services (AWS) that provides every developer and data scientist with the ability to build, train, and deploy ML models quickly.",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-301170639.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-301170639.html",
+      "webUrl": "https://www.prnewswire.com/in/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-897787209.html",
+      "originalUrl": "https://www.prnewswire.com/in/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-897787209.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -938,7 +938,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T04:00:00-08:00",
+      "publishedDateTime": "2020-11-11T05:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PR Newswire",
@@ -952,10 +952,9 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
+        "AWS AI",
         "AI",
-        "Machine Learning",
-        "AWS AI"
+        "Machine Learning"
       ]
     },
     {

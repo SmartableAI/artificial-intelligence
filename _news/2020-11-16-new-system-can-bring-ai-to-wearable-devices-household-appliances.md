@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "System brings deep learning to “internet of things” devices"
-    excerpt: "MCUNet is a new MIT system that brings machine learning to microcontrollers. The advance could enhance the function and security of devices connected to the Internet of Things (IoT)."
-    publishedDateTime: 2020-11-13T05:12:00Z
-    webUrl: "https://news.mit.edu/2020/iot-deep-learning-1113"
-    type: article
-    provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 69
-    images:
-      - url: "https://news.mit.edu/sites/default/files/images/202011/MIT-Tiny-AI-01.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "System brings deep learning to 'internet of things' devices"
     excerpt: "A new system brings machine learning to microcontrollers. The advance could enhance the function and security of devices connected to the Internet of Things (IoT)."
     publishedDateTime: 2020-11-13T21:39:00Z

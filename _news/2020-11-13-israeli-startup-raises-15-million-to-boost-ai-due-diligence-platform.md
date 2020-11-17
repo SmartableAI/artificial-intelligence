@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "OriGen AI raises £1 million in seed funding"
-    excerpt: "Software technology company OriGen AI has raised $1 million in seed financing. Its AI platform is \"transforming oil and gas exploration and production\" through physics-informed deep learning developed around algorithms and data analysis techniques."
-    publishedDateTime: 2020-11-13T12:39:00Z
-    webUrl: "https://www.energydigital.com/technology-and-ai/origen-ai-raises-pound1-million-seed-funding"
-    type: article
-    provider:
-      name: energydigital.com
-      domain: energydigital.com
-    quality: 37
-    images:
-      - url: "https://bizclik-cms-prod.s3.eu-west-2.amazonaws.com/images/404no22rkhg83vnq131120201418.jpeg"
-        width: 833
-        height: 323
-        isCached: true
   - title: "Snap To Acquire Israeli Voice Assistant Startup Voca.ai For $70M"
     excerpt: "US mobile messaging app Snap not made it clear what it intends to do with Israeli voice assistant startup Voca.ai."
     publishedDateTime: 2020-11-14T13:10:00Z

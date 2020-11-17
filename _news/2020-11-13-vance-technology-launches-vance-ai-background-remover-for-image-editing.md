@@ -25,6 +25,17 @@ images:
 
 related:
   - title: "Expert.ai Launches New Tools for Building NLP Apps and Advances Edge AI"
+    excerpt: "Expert.ai Studio leverages expert.ai natural language understanding (NLU) abilities to streamline the development of NLP applications. Users can take advantage of core AI features for categorization,"
+    publishedDateTime: 2020-11-17T22:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/expert-ai-launches-new-tools-for-building-nlp-apps-and-advances-edge-ai-1029811454"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/expert-ai-launches-new-tools-for-building-nlp-apps-and-advances-edge-ai-1029811454"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/expert-ai-launches-new-tools-for-building-nlp-apps-and-advances-edge-ai-1029811454"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
+  - title: "Expert.ai Launches New Tools for Building NLP Apps and Advances Edge AI"
     excerpt: "Expert.ai will be launching two major products at KMWorld & Text Analytics Forum Connect 2020: expert.ai Studio, an intelliJ plug-in"
     publishedDateTime: 2020-11-17T13:00:00Z
     webUrl: "https://www.prnewswire.com/news-releases/expertai-launches-new-tools-for-building-nlp-apps-and-advances-edge-ai-301174754.html"

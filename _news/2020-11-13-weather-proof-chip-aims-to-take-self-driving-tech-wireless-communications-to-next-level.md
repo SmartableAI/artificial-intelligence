@@ -7,8 +7,8 @@ originalUrl: "https://www.sciencedaily.com/releases/2020/11/201112145432.htm"
 webUrl: "https://www.sciencedaily.com/releases/2020/11/201112145432.htm"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Science Daily
@@ -24,6 +24,20 @@ topics:
   - AI Hardware
 
 related:
+  - title: "Upgraded radar can enable self-driving cars to see clearly no matter the weather"
+    excerpt: "A new kind of radar could make it possible for self-driving cars to navigate safely in bad weather. Electrical engineers at the University of California San Diego developed a clever way to improve the imaging capability of existing radar sensors so that they accurately predict the shape and size of objects in the scene."
+    publishedDateTime: 2020-11-17T21:22:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/uoc--urc111720.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/249160_web.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "Jaguar Land Rover develops smart city hub to test self-driving vehicle technology"
     excerpt: "Jaguar Land Rover is partnering with global software, mobility and telecoms companies to create a smart city hub that will allow real-world testing of connected technology where self-driving vehicles share the streets with cars,"
     publishedDateTime: 2020-11-16T08:59:00Z

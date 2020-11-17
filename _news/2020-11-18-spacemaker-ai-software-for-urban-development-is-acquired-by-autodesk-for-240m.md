@@ -33,9 +33,9 @@ related:
   - title: "Autodesk acquires AI-based design firm Spacemaker"
     excerpt: "Autodesk said Tuesday that it has signed a deal to acquire Spacemaker for $240 million. Based in Oslo, Norway, Spacemaker uses artificial intelligence and generative design to help architects, urban designers,"
     publishedDateTime: 2020-11-17T06:00:00Z
-    webUrl: "https://www.zdnet.com/article/autodesk-acquires-ai-based-design-firm-spacemaker/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/autodesk-acquires-ai-based-design-firm-spacemaker/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/autodesk-acquires-ai-based-design-firm-spacemaker/"
+    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/autodesk-acquires-ai-based-design-firm-spacemaker/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/autodesk-acquires-ai-based-design-firm-spacemaker/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/autodesk-acquires-ai-based-design-firm-spacemaker/"
     type: article
     provider:
       name: ZDNet
@@ -74,6 +74,6 @@ related:
       domain: businessinsider.com
     quality: 46
 
-secured: "pdzJZX5/gEWgDGM/tomERsvBYF+ye0ujQrPiA0F/5HVI0RTumP7fIb7b6SxtMGEDaSwgYrMMsalAUTQlDkB8xVhJL8YMRyNSUKxf7wAjk9WRxcOq6HQPmkW+i2/2hSLk4Pw6szD87+Lhxgqa34iV2kZSsiXekkKVHmAL0WOEPrkk2qG+CLLxi84iMsO+XOqRtm31NKwqhioOUK6R9WIm7LDFlbLMclhWGWRzCWoplyQwu2v2BNOGwl3vqzblNYTPNkw9o9iS9z1prtTGsW3qkPQ9rHNGnPb/ktKDFJD1NDKce2lTlqN/hz98EygfnjXGOT/HN25p/7qOKrX8Zyo2IUiuJtGwlZ//HgdeRHdT3cM=;sJh2Sl/U+pr5emcttdTWLA=="
+secured: "8D9kjW6vgaQM4thpNmpgNWmKwTkC/R3oV3VTNQINBnBy1y8jeAUnRuKJKGPZdjPC+Bp6P3l7vn/Ji0txpqE4GtP6YI1dtb0kXolGQjedJWUgU0ewy9aeh38P6IyOoqRqwwa6VCUHebT5fVN2So7y/HNvitk+Wb6duPFIF0J0OH/0ZLFq5UrW79Xqt84mKHSxOFF0Aq8eVVe+lEfUMqipyCCkrIw6J4gIPxIs67nLbkmvULuC8qXEwvFFfCWt6Tc6+EeVn7zwmJptkdNNU3C/QVYeZ67ODfia4QvNl813OU5S/RXc0WnhAcVFC5oUv3FClDBF+VKWOQdZq3es5Tul6Bcqg9fyG1c8Sdjc88RtzoGlDaXUsUs/5z7aME3PFQ3qxQ6JXEqOHBIbZ+N6ojmcG1m/2FSH7r7/gLGRS9pXNy/5XkLMpzpRsK0gUZ3QbDvRBhvoQ7l7AJvbJxO26rNkoly/KE4tFv1Kyclk35fIYS+bGXroy/dIncArGyN1rq892CqutPQ/cszOmKlhwMyd6Q==;3wHI0c1p5QAGDTgpPq19ZQ=="
 ---
 
