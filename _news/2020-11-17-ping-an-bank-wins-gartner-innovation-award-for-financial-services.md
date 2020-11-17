@@ -2,23 +2,19 @@
 category: news
 title: "Ping An Bank Wins Gartner Innovation Award for Financial Services"
 excerpt: "Company of China, Ltd. (hereafter \" Ping An \" or the \"Group\", HKEX: 02318; SSE: 601318) announced that Ping An Bank received the \"Eye On Innovation Award for Financial Services 2020\" from research and advisory company Gartner."
-publishedDateTime: 2020-11-17T08:43:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ping-an-bank-wins-gartner-innovation-award-for-financial-services-1029809428"
-webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-bank-wins-gartner-innovation-award-for-financial-services-1029809428"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/ping-an-bank-wins-gartner-innovation-award-for-financial-services-1029809428"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ping-an-bank-wins-gartner-innovation-award-for-financial-services-1029809428"
+publishedDateTime: 2020-11-17T07:25:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/11/n18400202/ping-an-bank-wins-gartner-innovation-award-for-financial-services"
+webUrl: "https://www.benzinga.com/pressreleases/20/11/n18400202/ping-an-bank-wins-gartner-innovation-award-for-financial-services"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18400202"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18400202"
 type: article
-quality: 69
-heat: 79
-published: true
+quality: 39
+heat: 39
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
@@ -40,6 +36,6 @@ related:
         height: 400
         isCached: true
 
-secured: "lbikBDQ4c4UnkakbvFBpzippGQTaP0HTST/a6AFcvFFdReSltitCcHt6xc7By7KjC6ZE3R8HFXXS8YRRMsL4yhOri6E9JE3oLtGcBGHNtmO6bWVSIGIuHNQOPL4UsWvEwY0JYpWw6NbU2Ek2aYSGxk7mPnNawUKd2miVMmA36KT7QuSF5HyjTcQHpylC8z/v/R0T/H70smIZWNt3ZAO9yKFDgdKKBZ6Q7OVIZVQTc6cORwnpOGLrX5PxrsQZfNuEkNQm/hSqhz6elgOS+aWhfgUnu6JRt4kzpHMhkPd/SyzMJ4dofg9a5jiVuwiMbKf4PEvxs3Jpfkrb+B9ufNHhNPK5oRHZh6fY/Ja5DiRGSMY=;n53apcQwpW9pGwCmWI+m7g=="
+secured: "uTI50L+Ci1LzHhJGzl5L+BDa3UUIyMUuihOua787YPLIXm0eldVNSJG2O6AiV2KccjMTrlP1tWWyq7N1OfwwhsicbNSNrqKcQEgoINjN6a8h3uf8fJQxxc0HZ5YEu34Gg0jUHjEX/QKnZt2bADF/KW2L4w4WBQ3taElgwx7RQzrbrp+lKYbJEHvtoob1CumcCkukNFq0q2MxP86GQOtZgqT6mFHgVPvaBh7jxkWcp581+/IX/hQH2T1voYggdn6jBGlE1PYGtxsC396v0AMEQgjJh2ZP5HEU3O1zL479noUAtQ4gGPB2v9n6p/6/l9WYjvhp2GWzVhlnxTszSLuKsABItuTjZICeAgGCA5HUYVo=;YHbHKG2sk3R9BaAbCOqM9w=="
 ---
 

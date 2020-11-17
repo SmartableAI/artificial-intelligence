@@ -1,20 +1,22 @@
 ---
 category: news
 title: "NXP Collaborates with Amazon Web Services (AWS) to Extend Connected Vehicle Opportunities"
-excerpt: "Expands access to vehicle Big Data and streamlines machine learning life cycle to accelerate vehicle development and post-sale vehicle enhancements NXP Semiconductors has announced a strategic relationship with Amazon Web Services (AWS) focused on extending the opportunities of connected vehicles."
-publishedDateTime: 2020-11-17T09:42:00Z
-originalUrl: "https://www.marketwatch.com/press-release/nxp-collaborates-with-amazon-web-services-aws-to-extend-connected-vehicle-opportunities-2020-11-17"
-webUrl: "https://www.marketwatch.com/press-release/nxp-collaborates-with-amazon-web-services-aws-to-extend-connected-vehicle-opportunities-2020-11-17"
+excerpt: "Vehicle edge-to-cloud compute solution aims to enable new automotive industry revenue opportunities Sets foundation for data-driven services and"
+publishedDateTime: 2020-11-17T07:20:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/nxp-collaborates-with-amazon-web-services-aws-to-extend-connected-vehicle-opportunities-1029809200"
+webUrl: "https://markets.businessinsider.com/news/stocks/nxp-collaborates-with-amazon-web-services-aws-to-extend-connected-vehicle-opportunities-1029809200"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/NXP-Collaborates-with-Amazon-Web-Services-AWS-to-Extend-Connected-Vehicle-Opportunities-1029809200"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/NXP-Collaborates-with-Amazon-Web-Services-AWS-to-Extend-Connected-Vehicle-Opportunities-1029809200"
 type: article
 quality: 75
 heat: 75
 published: true
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,12 +24,6 @@ topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "437ClXzxQLMTkIo8RhLKJKUr5ItLO72+cjoL8MarMQup8PtntfMo2NOV5QQAf1jpBh5FdnXTrC4D1K3jBpgKIg6nqG3Tb3OrzLP31iAVPwjlPEK/NlWNumxjVwIinMAoAS6/IKEM0du2yIcq1VE5aab2snuPxIvlJz7Kc9u/6n88q/Pdp3y6nfW4h1408xJGpoM9rh8Fr1gaPOZwfT9W0UxSKyzxEzvo7VipTakK7XP+aAkvQfte1rrdq2UtDQLErcCh9b1w+rfWXC3hOhTKLHFOXGToTUUfUJ+W/ZG64EKfkBo6fLuTfRq+0BrFpW1Bpm4MnoLdHwZeIomX+fWOoTLMGzKJwCzSsbFP5gS0HGo=;ABChl9UhkkPrh0UkMWPMbA=="
+secured: "mmQOqEtOUQ4yFSwkxbHszJFHqN/4Mgye7h/9QLfyheGxMide3u4hUKyrkP15MyD4UKz5P8UNCaHxrvCHa6jlyYhsVpSq87CL8vgd4iM4rJxobBCTYy+x5jdIqvVJnYzTeX9hYqHPI6MF5+PyiLu69alruoyWYD8Nu7UqE1FRsnYX8DylqQ1RYES3BR2gl4EBE6oBUEquerljfGpJNkZ8FBMaB8WLyPj9dRFZyq28ILulKCVZhD1Y54MQeSfLwue5OjouFhIqJTCR2Z5oeb8USAtqDeiZSd9io2bDcoakmxW31dStK8UCy9o5+7iqfpPh9fadT7Yj3lMWJkJkQSqnmqSKSQB35NqAcMxIh+Aakp8=;EYikVCRs861bU8EG55ZbtA=="
 ---
 

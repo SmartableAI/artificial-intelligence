@@ -115,6 +115,15 @@ related:
         width: 678
         height: 357
         isCached: true
+  - title: "AMD shows off Instinct MI100 for supercomputers, faster AI"
+    excerpt: "GPU (graphics processing unit) and the first x86 server GPU to pass the 10 teraflops (FP64) performance barrier. The GPU was developed for supercomputers and high-end servers as a foundation for exascale computing,"
+    publishedDateTime: 2020-11-17T11:53:00Z
+    webUrl: "https://www.telecompaper.com/news/amd-shows-off-instinct-mi100-for-supercomputers-faster-ai--1362177"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
   - title: "AMD Announces Instinct MI100 Accelerator, New Deployments for HPC and Scientific Research"
     excerpt: "During this year’s SC20 virtual tradeshow, AMD is showcasing its leadership in the high performance computing (HPC)"
     publishedDateTime: 2020-11-16T15:41:00Z

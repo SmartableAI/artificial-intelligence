@@ -1,0 +1,44 @@
+---
+category: news
+title: "SAFR from RealNetworks provides mask detection and face recognition technologies for G2K Group’s video analytics platform"
+excerpt: "SAFR from RealNetworks, Inc. has announced a global partnership with German tech company G2K Group GmbH to revolutionise real-time video analytics.SAFR features including face recognition,"
+publishedDateTime: 2020-11-17T11:01:00Z
+originalUrl: "https://www.sourcesecurity.com/news/safr-real-networks-mask-detection-face-recognition-g2k-group-video-analytics-platform-co-1554987129-ga-co-1584640778-ga-npr.1605607229.html?ref=nav"
+webUrl: "https://www.sourcesecurity.com/news/safr-real-networks-mask-detection-face-recognition-g2k-group-video-analytics-platform-co-1554987129-ga-co-1584640778-ga-npr.1605607229.html?ref=nav"
+ampWebUrl: "https://www.sourcesecurity.com/amp/news/safr-real-networks-mask-detection-face-recognition-g2k-group-video-analytics-platform-co-1554987129-ga-co-1584640778-ga-npr.1605607229.html"
+cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/safr-real-networks-mask-detection-face-recognition-g2k-group-video-analytics-platform-co-1554987129-ga-co-1584640778-ga-npr.1605607229.html"
+type: article
+quality: 34
+heat: 34
+published: false
+
+provider:
+  name: SourceSecurity
+  domain: sourcesecurity.com
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/ai-stadium-security-920.jpg"
+    width: 612
+    height: 355
+    isCached: true
+
+related:
+  - title: "SAFR® from RealNetworks is chosen to provide features, including mask detection and face recognition, for G2K Group’s video analytics platform"
+    excerpt: "(NASDAQ: RNWK) today announced a global partnership with German tech company G2K Group GmbH to revolutionize real-time video analytics. SAFR features including face recognition, mask detection, person detection,"
+    publishedDateTime: 2020-11-16T14:22:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/safr-from-realnetworks-is-chosen-to-provide-features-including-mask-detection-and-face-recognition-for-g2k-group-s-video-analytics-platform-1029806420"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/SAFR-from-RealNetworks-is-chosen-to-provide-features-including-mask-detection-and-face-recognition-for-G2K-Group-s-video-analytics-platform-1029806420"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/SAFR-from-RealNetworks-is-chosen-to-provide-features-including-mask-detection-and-face-recognition-for-G2K-Group-s-video-analytics-platform-1029806420"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
+
+secured: "GfPYHUvcBkQfGQ1f/4zbgh0V0wecraqY3eiRM9hZC6qS1VzpR7ws948o3Dh9tzXvqaCBBYNVAjo8PtFeCO9xvV5V9Y6gepmq3h8T9AHNo7lRvh1xX2f/9MQ1/DqUQ/M33l+NCrEpH9TP+ADb6QdZ6topV4h14hK1aXJ7UE1K7FAzwFjSrOPkXtBKxi5cZWVjyY74Es5Q2b/ubgYngS3/NKcuhC9OT52XOA3mwM32zy9H3aWqk4rnGb/repkuFaj4W5N45CqJrbiM/ec8TPFcDmnH94qu1HL0Z8ltGDARnD2x7ozcQm4i0QUFlnOq50LDiaNJkR78b1FnllG7pGlPkPnwcBFcOKyc+E/Gu8Uvjcc=;cjFwPPDGAelMJ3feA771RQ=="
+---
+

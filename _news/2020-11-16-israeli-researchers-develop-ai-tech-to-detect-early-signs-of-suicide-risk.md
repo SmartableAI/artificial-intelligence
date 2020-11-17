@@ -7,7 +7,7 @@ originalUrl: "https://nocamels.com/2020/11/suicide-risk-tendencies-early-technio
 webUrl: "https://nocamels.com/2020/11/suicide-risk-tendencies-early-technion-hebrew-university-research/"
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -18,50 +18,6 @@ topics:
   - AI
   - Facebook AI
   - Natural Language Processing
-
-related:
-  - title: "Israeli Startup Raises $15 Million to Boost AI Due Diligence Platform"
-    excerpt: "Israeli business intelligence startup Intelligo Group, which has developed an automated due diligence and personnel background platform based on AI (artificial intelligence), has announced a $15 million Series B financing round led by Behrens Investment Group and including several existing investors."
-    publishedDateTime: 2020-11-13T14:53:00Z
-    webUrl: "https://www.algemeiner.com/2020/11/13/israeli-startup-raises-15-million-to-boost-ai-due-diligence-platform/"
-    type: article
-    provider:
-      name: Algemeiner
-      domain: algemeiner.com
-    quality: 37
-    images:
-      - url: "https://www.algemeiner.com/wp-content/uploads/2019/12/flag-186476_1280.jpg"
-        width: 720
-        height: 360
-        isCached: true
-  - title: "OriGen AI raises £1 million in seed funding"
-    excerpt: "Software technology company OriGen AI has raised $1 million in seed financing. Its AI platform is \"transforming oil and gas exploration and production\" through physics-informed deep learning developed around algorithms and data analysis techniques."
-    publishedDateTime: 2020-11-13T12:39:00Z
-    webUrl: "https://www.energydigital.com/technology-and-ai/origen-ai-raises-pound1-million-seed-funding"
-    type: article
-    provider:
-      name: energydigital.com
-      domain: energydigital.com
-    quality: 37
-    images:
-      - url: "https://bizclik-cms-prod.s3.eu-west-2.amazonaws.com/images/404no22rkhg83vnq131120201418.jpeg"
-        width: 833
-        height: 323
-        isCached: true
-  - title: "Snap To Acquire Israeli Voice Assistant Startup Voca.ai For $70M"
-    excerpt: "US mobile messaging app Snap not made it clear what it intends to do with Israeli voice assistant startup Voca.ai."
-    publishedDateTime: 2020-11-14T13:10:00Z
-    webUrl: "https://nocamels.com/2020/11/snapchat-voca-ai-voice-assistant-acquired/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 37
-    images:
-      - url: "https://nocamels.com/wp-content/uploads/2020/11/snapchat.jpg"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "GkA/xhkr+aO1FglQ98ESLXn02Vd+JJSoDOeDv2CwbOdKtIkcd6UaLiUXSSlL8z2CH5HG3PqwP9nUtKCZDOjFkR/VnSSJw+iG5LWycPColWlI6hMk/eWR9s6UwHbzsV4l8VkpZIXhXnXal6zQ+9DnAZDx1KkdkW8e7IkH/lOjAccCCvZ352WAZgtd00vhPhkyQoioEeKSWMNXdfzciHAxk6714Zcgu5LAV9cP8BusYmmlwpk3Yv1FBBWlDZ5PJUGgXRXOInaKcL+3WOvrxNMYeW7JOJ8nOIDgsp0H68uX3h0SclE4WKf8QAgK5fI0zc7GyPxpYLGoGOLm/g1TCBv5OgFjCBMOLH80WqGzdxeLg6Dh+0fbZLHBVKi9qoijaCFqZibfQxe0L/GGbD8UqD7KGzsrNLbjY4K/DC0FDFwsbon0SRAFgnC7BGK2aSOPHE2918V/0fMJRtnAzgj7eYlrbGuQVfW9Wn2+XaJQYH+Yf4L0UrToQmD1BJj0pEiQGpKAKiBfJFm0IQ61EjKiiZXmvQ==;Amy1EVBgA/U+X5Bo4o6dsA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/11/14/how-the-depar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/11/14/how-the-department-of-the-air-force-is-driving-forward-with-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "This AI-powered parking garage rewards you for not driving"
+    excerpt: "The smart city of the future is materializing in the parking garage of an office building in Munich. With a new test program powered by artificial intelligence, or AI, the parking garage can communicate with the drivers who use it."
+    publishedDateTime: 2020-11-17T06:00:00Z
+    webUrl: "https://www.fastcompany.com/90575914/this-ai-powered-parking-garage-rewards-you-for-not-driving"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 37
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/11/p-1-90575914-using-ai-to-put-the-right-price-on-parking.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Air Force asks Descartes Labs for sensor fusion technology for targeting with artificial intelligence (AI)"
     excerpt: "Descartes Labs offers geospatial analytics technology, which uses AI and computer vision to fuse sensor data like satellite imagery for tactical use."
     publishedDateTime: 2020-11-16T07:41:00Z

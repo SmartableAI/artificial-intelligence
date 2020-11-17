@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Artificial intelligence-based apps help special needs students learn about emotions"
+    excerpt: "EmojiCapcha, Happy Bird and Betterfly - are an avenue for students to express their emotions.. Read more at straitstimes.com."
+    publishedDateTime: 2020-11-17T11:49:00Z
+    webUrl: "https://www.straitstimes.com/singapore/artificial-intelligence-based-apps-help-special-needs-students-learn-about-emotions"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 31
+    images:
+      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/11/17/ak_aiapp_1711.jpg?itok=qsiVGuTB"
+        width: 763
+        height: 509
+        isCached: true
 
 secured: "6vNNPxFBB3Imh+ltvKT4Qy+5u31f1FDZi8c4EealsLUreoSoXFDM7uQs4pCxzGCuidQc87tZY8iL1/kU8eaoKi5hVRWOy6ABnMBXE0C8qK+2UzrnkSu8sA25UGiWHQnxuOSBg3bKSfxnKhdUudlxxCQ0d+KmHLh+A/ZHFWx8Bm3FVNApj4OFUSxpEgSmMgH3Oyhfe/h7Cc8Mdzd6o9MQ4E88iV12tGsmlSGoyE0s9nYDcooPdZh+E6X3owt1ijOxwfv6D3iWOqmZpGTfDnNzxu/u95SaTHa0VAPqAwaED96W7J3SKRNBMahWlX7EaAK46dMUgaRW9E/UQ91AilmBKzKjWuaLth7x6L92B0Fbb0E3MxQoNBsRcm4moS3ynY0FKjphyvLI8mG8w1u6NQSaFk5KtM28YoOkdIrqWwwMxgV1Mks5l+TuuC2f1HBVmiPRYHV0TuZr2uzQ19WNUazLdbZuCymeXa8SLZYiV4mmV+mqoxlcGaZWkpwp9SGC/ly0mNP3zeXv0LNDFMkCHymKvA==;ZYrrfFHx8VWPEjqCxn57Mg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/13/amazon-shifts-some-alexa-and-reko
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/13/amazon-shifts-some-alexa-and-rekognition-computing-to-its-own-inferentia-chip/amp/"
 type: article
 quality: 105
-heat: 185
+heat: 175
 published: true
 
 provider:
@@ -110,20 +110,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/cm2hxBobQuAFb4Bj3YRJQU-1200-80.jpg"
         width: 970
         height: 546
-        isCached: true
-  - title: "Amazon shifts some voice, face recognition computing to own chips"
-    excerpt: "Amazon on Thursday said it shifted part of the computing for its Alexa voice assistant to its own custom-designed chips, aiming to make the work faster and cheaper while moving it away from chips supplied by Nvidia Corp."
-    publishedDateTime: 2020-11-12T20:30:00Z
-    webUrl: "https://www.itnews.com.au/news/amazon-shifts-some-voice-face-recognition-computing-to-own-chips-555835"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 43
-    images:
-      - url: "https://i.nextmedia.com.au/News/2020-11-12T173355Z_1_LYNXMPEGAB1O5_RTROPTP_3_AMAZON-COM-NVIDIA.JPG"
-        width: 800
-        height: 533
         isCached: true
   - title: "Amazon Making In Roads Into Chip Industry; Now Uses Its Own Machine Learning Chips For Alexa Services"
     excerpt: "Each AWS Inferentia chip contains four NeuronCores that are equipped with a large on-chip cache. This cuts down on external memory accesses."

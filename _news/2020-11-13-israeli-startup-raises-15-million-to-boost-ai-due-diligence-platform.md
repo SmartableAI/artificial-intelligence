@@ -7,7 +7,7 @@ originalUrl: "https://www.algemeiner.com/2020/11/13/israeli-startup-raises-15-mi
 webUrl: "https://www.algemeiner.com/2020/11/13/israeli-startup-raises-15-million-to-boost-ai-due-diligence-platform/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI dev platform startup DataRobot raises $270 million at a $2.7 billion valuation"
+    excerpt: "Boston-based DataRobot, a startup developing an end-to-end enterprise AI platform, today raised $270 million in equity funding led by Altimeter Capital. The company says that the pre-IPO round — which was joined by new and existing investors including T."
+    publishedDateTime: 2020-11-17T12:35:00Z
+    webUrl: "https://venturebeat.com/2020/11/17/ai-dev-platform-startup-datarobot-raises-270-million-at-a-2-7-billion-valuation/"
+    ampWebUrl: "https://venturebeat.com/2020/11/17/ai-dev-platform-startup-datarobot-raises-270-million-at-a-2-7-billion-valuation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/17/ai-dev-platform-startup-datarobot-raises-270-million-at-a-2-7-billion-valuation/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 82
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/02/DataRobot-Boston-team--e1605298779900.jpg?fit=800%2C533&strip=all"
+        width: 800
+        height: 400
+        isCached: true
   - title: "OriGen AI raises £1 million in seed funding"
     excerpt: "Software technology company OriGen AI has raised $1 million in seed financing. Its AI platform is \"transforming oil and gas exploration and production\" through physics-informed deep learning developed around algorithms and data analysis techniques."
     publishedDateTime: 2020-11-13T12:39:00Z
@@ -38,29 +54,6 @@ related:
         width: 833
         height: 323
         isCached: true
-  - title: "Snap To Acquire Israeli Voice Assistant Startup Voca.ai For $70M"
-    excerpt: "US mobile messaging app Snap not made it clear what it intends to do with Israeli voice assistant startup Voca.ai."
-    publishedDateTime: 2020-11-14T13:10:00Z
-    webUrl: "https://nocamels.com/2020/11/snapchat-voca-ai-voice-assistant-acquired/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 37
-    images:
-      - url: "https://nocamels.com/wp-content/uploads/2020/11/snapchat.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Israeli Researchers Develop AI Tech To Detect Early Signs Of Suicide Risk"
-    excerpt: "The technology is based on the automatic text analysis of social network content via machine learning and NLP algorithms."
-    publishedDateTime: 2020-11-15T16:06:00Z
-    webUrl: "https://nocamels.com/2020/11/suicide-risk-tendencies-early-technion-hebrew-university-research/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 20
 
 secured: "nlgjnjeTKcSX5qFHn3oNbB+EW9ypo7ILKZbhElK0eZvSIEVcYfNXBuh5unoJmGYp7Lfg9Svwh2KXuyzOurx1SYpiAAWQ9q3w/rxkAb9RtFdILtTAJCOtla8rm1n/2A29FJaHCZPgnA8by3NDGQosTmFZT4EEteWzp/TKkMSVIWoigXrXyI/NW2NudQt6Sg7yp6wD7iBHaeaIEV5SxVGlAWV9Tl7kvWVXmwQm0sG0Ptw6Sov3Uc/8/6g3HO5mioc1IwRAuoPX0nNHumiMNCiiGyyPubEv76JustddYuRgQ+nK25pq22vpTxJxDz889Ok0ZowDZcCwmYq685sOq22otSDifvb6xyZuLDiqerh0WIC7WdEfWuKujHjmOMrmR9Bafu0Va5QedQGDUDc1eiKfFcd33UWNfiKBR5rXeoojsCXtPLqw6u5NedLq8GKipe0S72BVhdpzkrQpQUPgiMMojoM+u6dxburAmNzuVPD502NzOExD9WxMmyuxSrs/BX/WTmiczmmi7IUCVV3zrDUxQg==;QoeKY5+IkZJePzwm3FIR6A=="
 ---

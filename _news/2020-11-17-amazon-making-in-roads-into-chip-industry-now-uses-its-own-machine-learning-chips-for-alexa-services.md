@@ -120,20 +120,6 @@ related:
         width: 970
         height: 546
         isCached: true
-  - title: "Amazon shifts some voice, face recognition computing to own chips"
-    excerpt: "Amazon on Thursday said it shifted part of the computing for its Alexa voice assistant to its own custom-designed chips, aiming to make the work faster and cheaper while moving it away from chips supplied by Nvidia Corp."
-    publishedDateTime: 2020-11-12T20:30:00Z
-    webUrl: "https://www.itnews.com.au/news/amazon-shifts-some-voice-face-recognition-computing-to-own-chips-555835"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 43
-    images:
-      - url: "https://i.nextmedia.com.au/News/2020-11-12T173355Z_1_LYNXMPEGAB1O5_RTROPTP_3_AMAZON-COM-NVIDIA.JPG"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Amazon moving facial recognition and voice processing off of Nvidia chips"
     excerpt: "Amazon is switching to using its own custom chips to provide the cloud processing for its Alexa voice assistant service and facial recognition service Rekognition, Reuters reports, in an attempt"
     publishedDateTime: 2020-11-13T21:55:00Z
@@ -149,6 +135,6 @@ related:
         height: 405
         isCached: true
 
-secured: "i+ATWhVkQg8FBdTxRhSRrYE+7jNaNiWTLj6KaZ+Neux7WsvCabZ1Xxe4kTiYFoXJyv/uCFchqVFcG8GLTQ4U9OuY5AkdydKbweKF6Li491IDzx3CD8ZDF7jut7+o6PADnxaXuP+fOWtXVopwCMHT5JzlzWcjL061HkD1PfV/UBtguhdohTrwRvB8mkA5BGTqTWaStQOrdxHWzfN/bPK/1GvS++XYycjybb7RrzW3XTaWcb4u0zHdIAFgBhjlTMcSPadz5uqb2+e+oWdCV7hKoMD3zXCvhA7Mu0PsMR4qcXZGcw1kvKOw3zvzf+NyFNQkU0ms7zDYwV3htJvs1uUIZH0t+JgmwfK4di7hoSOQazo=;cgV4sZNTn3HcdKkkzfI/0g=="
+secured: "xneD4IsD1UkvEpvJr/f8f/BFJFkHCRh/Ds9ybzYApkRHKFfATzczBKIAuFLLrNnXmJcDW0DshnocOQQaCJyAuJAl5/vLiZkGWuajnkvNM/RQeIcYyjCquV7Z+liee7+j9sc8tRggXS71Ya169l1T5thPWUjB7pMBPI1Cnljci4YxgPx8kjFGKg0f6Hr5JRUOdzCLslKawQ0T9yfP5jT/iY6909jeZB5j4CARsK46O/wEbnqSxIGWKuMOKe2M1sz5Ul/nBcVMmFuYpGppcDEbiYTlJXT03KgqC9dqwI3XwTLERm8qRr230Bht83Y2tl0SZLGz9TUlQHx79IpkFzBZ5uhRqTGlMQitsH9fXcSokrcZSiEuE3/XS79ALWQB6LOA2NYQ8qSRwe+l3J72at7LxLT9I3gLo5v1CZ2iYEIFjrchepPYHIFoomQliNLNE0qIqYO0+OpKlAMyvrsATy/S2eFQB/rIEGwr+506V4Mu8ttS3sA2G3wjmBH21VSdYlnzjNmW5TbGr4lcQsdCT7FSAg==;QH3RxD1z7dC8kC6qfplyLw=="
 ---
 

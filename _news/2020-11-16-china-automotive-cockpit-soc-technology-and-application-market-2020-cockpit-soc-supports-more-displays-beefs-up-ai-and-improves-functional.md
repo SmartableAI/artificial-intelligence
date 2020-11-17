@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/China-Automotive-Cockpi
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/China-Automotive-Cockpit-SoC-Technology-and-Application-Market-2020-Cockpit-SoC-Supports-More-Displays-Beefs-up-AI-and-Improves-Functional-Safety-1029804693"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -23,19 +23,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "Global Sports Technology Market 2020-2027 - Artificial Intelligence (AI) and Internet of Things (IoT) to Provide Growth Opportunities"
-    excerpt: "The \"Sports Technology Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component and Technology\" report has been added to ResearchAndMarkets.com's offering. Increasing popularity of esports,"
-    publishedDateTime: 2020-11-17T10:53:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-sports-technology-market-2020-2027-artificial-intelligence-ai-and-internet-of-things-iot-to-provide-growth-opportunities-1029809825"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Global-Sports-Technology-Market-2020-2027-Artificial-Intelligence-AI-and-Internet-of-Things-IoT-to-Provide-Growth-Opportunities-1029809825"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Global-Sports-Technology-Market-2020-2027-Artificial-Intelligence-AI-and-Internet-of-Things-IoT-to-Provide-Growth-Opportunities-1029809825"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
 
 secured: "W7bs4Ej1cjRghtD/eX7dm5yrBKfMNoA9mZA6lHXOm0278WK5ozOzMmMGTFtYnp6qrnQOHq4HGrGjck7NP0SmZ5V6T/5vRBlorVWjdFnliibDaaEmIhl4wqdiB8y1PZxQsKJLOSY4XTg+HZIYGcbirqaJhjRR0JAAeiRxRfx7CJeerYHS66SzLkX0rSwg9S5nQUAK1a8tsy05+cxdD4wcSOipsxYieDDSRKP+FWuLCHRj9To39yJdtlBwaG04eju0j2Q6X9g7WA6mrEA+SWyk35gC47tMvKflzeuvAfYIAhbPZvnpjDdPdFhZ2KamkJGm5P3egDFIAF6n3zmNL38eQRW4XO5u3qk2tzKC2LPPVJ4=;8vPZgo+jOv3dzA3y2Ukh7Q=="
 ---

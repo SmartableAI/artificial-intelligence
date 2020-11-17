@@ -24,20 +24,6 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "AWS Finance and Global Business Services builds an automated contract-processing platform using Amazon Textract and Amazon Comprehend"
-    excerpt: "Processing incoming documents such as contracts and agreements is often an arduous task. The typical workflow for reviewing signed contracts involves loading, reading, and extracting contractual terms from agreements, which requires hours of manual effort and intensive labor. At AWS Finance and Global"
-    publishedDateTime: 2020-11-12T20:42:59Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-finance-and-global-business-services-builds-an-automated-contract-processing-platform-using-amazon-textract-and-amazon-comprehend/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 137
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/09/AWS-Finance-and-Global-Business-2.jpg"
-        width: 800
-        height: 300
-        isCached: true
   - title: "Extracting handwritten information through Amazon Textract"
     excerpt: "Over the past few years, businesses have experienced a steep rise in the volume of documents they have to deal with. These include a wide range of structured and unstructured text spread across different document formats. Processing these documents and extracting data is labor-intensive and costly. It"
     publishedDateTime: 2020-11-13T18:50:22Z

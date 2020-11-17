@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/Global-Sports-Technolog
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Global-Sports-Technology-Market-2020-2027-Artificial-Intelligence-AI-and-Internet-of-Things-IoT-to-Provide-Growth-Opportunities-1029809825"
 type: article
 quality: 51
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -24,17 +24,36 @@ topics:
   - AI
 
 related:
-  - title: "China Automotive Cockpit SoC Technology and Application Market 2020: Cockpit SoC Supports More Displays, Beefs up AI, and Improves Functional Safety"
-    excerpt: "The \"China Automotive Cockpit SoC Technology and Application Research Report, 2020\" report has been added to ResearchAndMarkets.com's offering. Cockpit SoC Supports More Displays, Beefs up AI, and Improves Functional Safety Intelligent vehicle E/E architecture ushers in a period of intra-domain integration to trans-domain convergence and to central computer from the distributed one."
-    publishedDateTime: 2020-11-16T08:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/china-automotive-cockpit-soc-technology-and-application-market-2020-cockpit-soc-supports-more-displays-beefs-up-ai-and-improves-functional-safety-1029804693"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/China-Automotive-Cockpit-SoC-Technology-and-Application-Market-2020-Cockpit-SoC-Supports-More-Displays-Beefs-up-AI-and-Improves-Functional-Safety-1029804693"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/China-Automotive-Cockpit-SoC-Technology-and-Application-Market-2020-Cockpit-SoC-Supports-More-Displays-Beefs-up-AI-and-Improves-Functional-Safety-1029804693"
+  - title: "Artificial Intelligence Robots Market Growth, Size, Opportunity, Share and Forecast 2019-2025"
+    excerpt: "The artificial intelligence robot market is expected to grow at a CAGR of 20 38 during the forecast period from 2019 to 2025 Artificial intelligence AI is the creation of smart smart machines that work react and respond like humans"
+    publishedDateTime: 2020-11-17T12:14:00Z
+    webUrl: "https://www.openpr.com/news/2188814/artificial-intelligence-robots-market-growth-size"
+    ampWebUrl: "https://www.openpr.com/amp/2188814/artificial-intelligence-robots-market-growth-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2188814/artificial-intelligence-robots-market-growth-size"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 30
+      name: openpr.com
+      domain: openpr.com
+    quality: 63
+    images:
+      - url: "https://cdn.openpr.com/T/b/Tb17392453_g.jpg"
+        width: 800
+        height: 571
+        isCached: true
+  - title: "Global Artificial Intelligence in Automotive Market Status, Prospect, and Forecast 2020 to 2026 – MarketDesk"
+    excerpt: "MarketDesk : Artificial Intelligence in Automotive Market Report brings a systematic perspective of the market execution worldwide and additionally the regional situation. In a detailed section shrewd arrangement,"
+    publishedDateTime: 2020-11-13T05:43:00Z
+    webUrl: "https://apnews.com/press-release/wired-release/technology-business-corporate-news-products-and-services-automobile-manufacturing-e8baf7444f1f6adb69aae50f1730547a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 18
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "4CwbAm2UObD2RF+sKjnhsk3Z4m+mWwDp1mupMnyBGLGJjCkcF/tSyB8RZMntqlb2aQZOyZD+nmobeGIT7gQugGgtNVxbzxJRfP1Ys2L71ztsmY7DxsEyfSSMFTU1D+7hqeAxWWWaOFYOAlALiUNC+CwImBJrYYDguM0LqHVgyv/bRGoMDljPuGlZU359ZmJA/vQEy5jrbW1mXRXLb5kEs5RvrH0HeN/iew0mgtM6Bitosh7Tvou9ZPIRfd/zxeI9EOVO7HSFfDUU+PlDavuwZBmIBMydbios3kem7gXvFhcOfea4ude2OGW5kGZomXy5pYhjApaeBI710koM7GAIa6ev2CAlJ4NwZ4nqyvJdQn4=;LSWsShN39ruAO56XVnv3Cg=="
 ---

@@ -19,49 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Waymo throws shade at Tesla and Elon Musk over self-driving comments"
-    excerpt: "Waymo is throwing shade at Tesla and Elon Musk over comments that the latter has made about the usefulness of the former’s self-driving technology. There are dozens of high-profile companies working on solving self-driving and just as many different approaches,"
-    publishedDateTime: 2020-11-12T19:36:00Z
-    webUrl: "https://electrek.co/2020/11/12/waymo-throws-shade-tesla-elon-musk-over-self-driving/"
-    ampWebUrl: "https://electrek.co/2020/11/12/waymo-throws-shade-tesla-elon-musk-over-self-driving/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/12/waymo-throws-shade-tesla-elon-musk-over-self-driving/amp/"
+  - title: "Weather-proof chip aims to take self-driving tech, wireless communications to next level"
+    excerpt: "A new device can overcome challenges like bad weather to deliver more secure, reliable communications. This could aid military communications in challenging areas, improve the ability of self-driving cars to see the environment around them and speed up wireless data for potential 6G networks."
+    publishedDateTime: 2020-11-13T09:42:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/11/201112145432.htm"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 104
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2018/12/waymo_minivan_7.jpg?resize=1024,512"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "‘It is going to be a race with Tesla’ says VW about new investments in electric cars and self-driving"
-    excerpt: "The Volkswagen Group just announced that it is accelerating its investments in software, electric vehicles, and self-driving technology and it is not shying away from the fact that its goal is to catch up to Tesla."
-    publishedDateTime: 2020-11-16T20:08:00Z
-    webUrl: "https://electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/"
-    ampWebUrl: "https://electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 74
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/01/vw-ev-lineup.jpg?quality=82&strip=all"
-        width: 1600
-        height: 801
-        isCached: true
-  - title: "Tesla Ruling Leaves Self-Driving Liability Questions Open"
-    excerpt: "A California federal court recently dismissed Umeda v. Tesla, saying that the wrongful death suit involving a driver-assist system should have been filed where the crash occurred, but the underlying liability questions the case the raised remain to be resolved,"
-    publishedDateTime: 2020-11-12T21:48:00Z
-    webUrl: "https://www.law360.com/articles/1326727/tesla-ruling-leaves-self-driving-liability-questions-open"
-    ampWebUrl: "https://www.law360.com/amp/articles/1326727"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1326727"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 39
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 57
 
 secured: "tQckC40Nf3qhyHs47spRmb4HKt7XDxDuAXSvUiysH7Z3awc00GzFggyBXxJDBiOMCyvVjxEPtikE7/5Kce05EzU7PZw9H9tzbm4HCfHmNc6WGipTqjeVw10LkJlsMinpiFZUGJQG8bPSFk8/diep4xfmFdBITPjzvDt9e9fVep+0ZhBlt5OHQwx4bj3d4A2ilzjxFfKHSno9KwaHO7SEiuYopCmfw+ssxbApiLi7pnQQNuRGsCZQn1cH+8dQekGSKKGFCTiYA9KwICoK1a1agqS1xj/i22SuCdcjic8QARmGYVFLqDUtYagybZg6p6/CaiFA+0eJL7cnfFj8n17+wdhl8uN5nsM85zPRUR/OZI4=;D828Hhhh16zDl+SkBl1T9g=="
 ---

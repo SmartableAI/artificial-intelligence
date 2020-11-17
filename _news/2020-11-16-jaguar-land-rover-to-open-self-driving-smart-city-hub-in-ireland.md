@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Walmart and Self-Driving Delivery Cars"
-    excerpt: "Walmart announced that it will begin experimenting with self-driving cars in a pilot program with General Motors-backed Cruise (a tech start-up with electric, self-driving cars) to deliver groceries a"
-    publishedDateTime: 2020-11-12T19:47:00Z
-    webUrl: "https://www.natlawreview.com/article/walmart-and-self-driving-delivery-cars"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 24
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/13513/walmart%20sign%20US%20flag_1_0.jpg?itok=4FprrAuI"
-        width: 500
-        height: 682
-        isCached: true
   - title: "JLR to develop a smart city hub to test self-driving cars"
     excerpt: "Self-driving vehicles will share the streets with cars, pedestrians and cyclists"
     publishedDateTime: 2020-11-17T04:53:00Z

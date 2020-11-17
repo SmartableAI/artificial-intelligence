@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/11/13/uber-in-talks-to-sell-atg-self-dri
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/13/uber-in-talks-to-sell-atg-self-driving-unit-to-aurora/amp/"
 type: article
 quality: 74
-heat: 244
+heat: 254
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/1XMcOjiwPbJUbvLh6RtxKtpxphM=/0x0:2376x1782/1400x933/filters:focal(1101x896:1481x1276):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67789235/UberSF_TA_1.0.jpg"
         width: 1400
         height: 933
+        isCached: true
+  - title: "‘It is going to be a race with Tesla’ says VW about new investments in electric cars and self-driving"
+    excerpt: "The Volkswagen Group just announced that it is accelerating its investments in software, electric vehicles, and self-driving technology and it is not shying away from the fact that its goal is to catch up to Tesla."
+    publishedDateTime: 2020-11-16T20:08:00Z
+    webUrl: "https://electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/"
+    ampWebUrl: "https://electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 74
+    images:
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/01/vw-ev-lineup.jpg?quality=82&strip=all"
+        width: 1600
+        height: 801
         isCached: true
   - title: "Uber Could Soon Pawn Off Its Scandal-Ridden Self-Driving Vehicle Branch to Start-Up Aurora"
     excerpt: "Uber is in talks to sell its scandal-ridden self-driving vehicle branch, Advanced Technologies Group, according to a Friday TechCrunch report. And it looks like Aurora Innovation, a start-up founded by veterans of the autonomous vehicle industry,"

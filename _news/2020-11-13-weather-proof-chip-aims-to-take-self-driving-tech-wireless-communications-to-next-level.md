@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2020/11/201112145432.htm"
 webUrl: "https://www.sciencedaily.com/releases/2020/11/201112145432.htm"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -22,6 +22,17 @@ topics:
   - AI in Autos
   - AI
   - AI Hardware
+
+related:
+  - title: "Jaguar Land Rover develops smart city hub to test self-driving vehicle technology"
+    excerpt: "Jaguar Land Rover is partnering with global software, mobility and telecoms companies to create a smart city hub that will allow real-world testing of connected technology where self-driving vehicles share the streets with cars,"
+    publishedDateTime: 2020-11-16T08:59:00Z
+    webUrl: "https://www.automotiveworld.com/news-releases/jaguar-land-rover-develops-smart-city-hub-to-test-self-driving-vehicle-technology/"
+    type: article
+    provider:
+      name: Automotive World
+      domain: automotiveworld.com
+    quality: 0
 
 secured: "PKM5FuSF9Fw6uDh0+ANlwzQME1INS+CXgmF8FiLM8P2BPIHdSq+dxNRypDozGB4MM6EzmqbhW80jfn89vHOawEgIq11RMeimxImtPI5SWAsbutanEVEhl2AOl3+v/6eIlIaM0iwNwfaxwvQB+PtPKBhUCF4XY9c2hlDat8pPJl4x7mZtPfKkOuUS2HPEtcwBwm6KOdtoAu60+9nw2BSvtkz8hpLUDmhvF9jnHmwwWe6QeEQuoOxK7ijSrVz5KzaCxyBvskA7ZJzySIRiR9WbvMgXbKNutALmT1V/0N3gp34upizV8Ms7WhpGf9Uz7lKya1BFnGEkSt1tf8pYRRZY5oZmMRRsSoCj6ArnharXoDQ=;/QmcIBfkEqDSY4JYyNyJVA=="
 ---

@@ -62,6 +62,22 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Facebook using artificial intelligence to prioritise reported content"
+    excerpt: "Facebook on Tuesday said it has stepped up the use of artificial intelligence (AI) to \"prioritise reported content\", a move that will help the social media giant take action faster on harmful and violative content."
+    publishedDateTime: 2020-11-17T12:02:00Z
+    webUrl: "https://yourstory.com/2020/11/facebook-artificial-intelligence-reported-content-social-media"
+    ampWebUrl: "https://yourstory.com/2020/11/facebook-artificial-intelligence-reported-content-social-media/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/facebook-artificial-intelligence-reported-content-social-media/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 57
+    images:
+      - url: "https://images.yourstory.com/cs/2/b87effd06a6611e9ad333f8a4777438f/Imageblb5-1597241405572.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "fXdlNELFUjIDF7pvL6DAldSdOAOJt3Txvm90mRqP5lPlrzl6k5tbxMjqf5caUcByxpt6PfDzbnLfAdH7pHALbDH2zqN2lTJK2QLVTgXDbBlGOR+yCh64jYgGmA4sVsSQozTNaYipr4bQzmcTbB3th30MH12DByAtfS2lJY/epnSuSZEReZH6yrPd2tKBfjFFyi8p4TxacbD8e+szbHODUE4rUW0WxJJyE6lCJSKGgmqh9XToqO2lEV+oczud8EW50e6LIVn5B0wSSli1/9ubD2B1glhEN342PxsAzOY9FOcwPdun9wO7OWYvj2EORx0Eyvqf9r1O3KAEYtPbCD1ft+0nbP9qNTHQpKkHxrt8cwU/UO1OwggOg1aFz5v6h6bM7Qp7U/Ju+WCa+lJ3N8mDD3rGPkBHTpDh/mx+r9dfJYRGyfue2YNuaVxAKxKTBYuksj7hbF3t/PDLlJqd0pwVkc7fcoV9YBGVoX7tvc/uJnTqglLbz9BBiNbgInev5lk23ITBYZ0gEOMd+JNTguO7Pg==;LnU9bS9EO8jph+KO5UHE3g=="
 ---

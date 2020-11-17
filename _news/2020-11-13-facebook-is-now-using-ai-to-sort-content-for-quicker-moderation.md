@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/11/13/21562596/facebook-a
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/11/13/21562596/facebook-ai-moderation"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/06/moderator-e1591354274848.jpeg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Facebook using artificial intelligence to prioritise reported content"
+    excerpt: "Facebook on Tuesday said it has stepped up the use of artificial intelligence (AI) to \"prioritise reported content\", a move that will help the social media giant take action faster on harmful and violative content."
+    publishedDateTime: 2020-11-17T12:02:00Z
+    webUrl: "https://yourstory.com/2020/11/facebook-artificial-intelligence-reported-content-social-media"
+    ampWebUrl: "https://yourstory.com/2020/11/facebook-artificial-intelligence-reported-content-social-media/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/facebook-artificial-intelligence-reported-content-social-media/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 57
+    images:
+      - url: "https://images.yourstory.com/cs/2/b87effd06a6611e9ad333f8a4777438f/Imageblb5-1597241405572.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "5K5gJMq4gOscc9Y3C7LbmRfgiIgBCW/+jAgJ4cRurIlAh41CrnkE/XKQjHOo6v4RIkAJBId07OuIIMoB2h5kPT/qtvax+YnjZTpLV6VytuvDWFygE/+K36XkDQJFFftb4hpqVBeVk0tj8UWHBOb4Xu7VyR6ugGkaAe0C/GoXRYs8+/jdewDa6bZoM3w+bPaiXwrfN+2LSb2hSG3UHYgzR7cvb4WC3DtDzY6HO1Uq7yXYGqu7DJVpI04GKdCG4WBSIu0iFxMLZyBO77VnKKQ9pj2nDK77nrSrUSVjg/JOZc7p5ZIrnKQa7IW58634Mp0dMtQUg0LZws/IjTaZk+vXX6Tm9xilcE/ndNpz1YIZQXHEkP2QUO6/ump7rpofqukAIpwCX5Vt8L7mkFFplC+/y8v02hc8vdP6IkKCRyZhQrtvcksa8IWP06/d+0t1ST2Qbw7GfF+bGsDBa95qMKlKo2qCjsaivi41LHK+U4gq18H3ZWHv82Qrbnd7Pr8YNCeyTo9CU+kvstjOsRb15FLCuA==;JiCjboW6v2prdV+XD4ZaBw=="

@@ -41,6 +41,20 @@ related:
         width: 500
         height: 500
         isCached: true
+  - title: "This AI-powered parking garage rewards you for not driving"
+    excerpt: "The smart city of the future is materializing in the parking garage of an office building in Munich. With a new test program powered by artificial intelligence, or AI, the parking garage can communicate with the drivers who use it."
+    publishedDateTime: 2020-11-17T06:00:00Z
+    webUrl: "https://www.fastcompany.com/90575914/this-ai-powered-parking-garage-rewards-you-for-not-driving"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 37
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/11/p-1-90575914-using-ai-to-put-the-right-price-on-parking.png"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "G9MicZk4U0BWr7AVI7EwdtKLJD6uqrwOzGMyDY6HP+7h0+91EAQvE4jr8RK/eiu1yfGk8wTR2VZg2e/MA69uDCQCS3uMeTMOV19mX21M7zUG96mNzLuU6dIAgOe0uw/wf9n3DEQPv62M4fktii5d6o1IDHM7DBzCnetVz4xCs/3tXPSRqZdM0b1XEqsNTRdrC4FLwSdfF4oieEzT1mjBAKTbg5MEIwUTL5bYkVSFMXeegq6SYNuRfKx7EDCjkRCKlUBuF7njZ78JEcVp0GMUIHM0zQ8p1759UuM15pGxVHyAWzVAVZaoiFa/Pc+I4jGJ29wBQJkv2vttM/H6WNZlvusC462dQZxcRv6R0lQSJTY=;e7+FazSxt4aj0WimrwEWtg=="
 ---

@@ -2,14 +2,14 @@
 category: news
 title: "Dissecting C3.ai’s secret sauce: less about AI, more about fixing Hadoop"
 excerpt: "While C3.ai claims to be an AI company, its patented technology is really a platform-as-a-service for the Internet of Things with some fairly standard AI mixed in."
-publishedDateTime: 2020-11-16T15:50:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/"
+publishedDateTime: 2020-11-16T07:44:00Z
+originalUrl: "https://www.zdnet.com/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/"
+webUrl: "https://www.zdnet.com/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/"
 type: article
 quality: 86
-heat: 86
+heat: 87
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 1276
     isCached: true
 
-secured: "/DTvj39STa/+/fVOgOUEJ6CZ7175lUpgmhfQj75Q/DyGFa7OBqCDp0jCAmgkdg6zX2My1j7mgQYp8bqcL1usf7Qf4hOYpnob246IXNnfU9qMa8ceev3zimAcDTen1DAbZm7HIQ5ZcAnAyUjuZOFEsSVXjzeJsDkYvEkgJ2oCaKzeSHDPlGnAafFWAzmIT9sm7DNk86Wv+voFzaQTV+7TpAZM78gjwLlG4P/JY+iAoBg6JCGFgID14TMYjwN8l8fX/d6ITiEx9OIgEPm6xcJtsEV2PR9I+AFwH20D8A0YPehJByOwAGp2qrmxeBtfq9a/wwuIADh8s3lp6vW/n44NvZ623jIk7qaEHfEixxxIFQ4=;n7Wgs7BPl5QqmV9FTUDtAA=="
+secured: "GAnfdGK2J3BwcYU8z2TmOG3aqxOAs4jWOagD63G9Tm73VE4lz1Zanma0zWT7GThO4xNUkS0vBuEVlR0EKEALbilkX/55fbkgG5H1/89ipYW3EFNS9r5pkL9WxCYYFHiBuwjteaWMWu0m58bxOsy/sp+1YXG9OUy3uSBNkBAjq64nCuUxAmuAw31inCzvD+ejbCo+3ao6IwVFQLpMaaIHuqEjRiRdBRia7l0+WHbYnazuORYJdgwu/SZVxI3TijnsHA646g+ZR2SkR6GCZMQ2/dH+qKW9oDar6mk9OuSQv5UjfJNOXoPMSAB+KsSh7gELoLUTVDEM3YH83xN45sldcE72NiBQzEW3LvX9mjWixTE=;SiydPeL5sKr9bzhZ62K7rw=="
 ---
 

@@ -41,6 +41,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Hopsworks Feature Store Now Available for Microsoft Azure"
+    excerpt: "Logical Clocks, the data company behind the world’s first Enterprise Feature Store for Machine Learning, today announced full support for Microsoft Azure on its cloud managed data platform, Hopsworks."
+    publishedDateTime: 2020-11-17T12:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/hopsworks-feature-store-now-available-for-microsoft-azure-1029810276"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/Hopsworks-Feature-Store-Now-Available-for-Microsoft-Azure-1029810276"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Hopsworks-Feature-Store-Now-Available-for-Microsoft-Azure-1029810276"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
   - title: "Passport 360 Now Available in the Microsoft Azure Marketplace"
     excerpt: "JOHANNEBSURG Gauteng South Africa November 13 2020 Passport 360 today announced the availability of its product of the same name in the Microsoft Azure Marketplace an online store providing applications and services for use on Microsoft Azure Passport 360 customers"
     publishedDateTime: 2020-11-13T13:02:00Z
@@ -108,6 +119,6 @@ related:
         height: 665
         isCached: true
 
-secured: "EeqBhPqEq/LLCEGELbmxUUUUjaO88hJtUfHfAREWEVvf7a4eZXpGMn9LfKhUByQbtc5h/+SaeMWzGTiVeAnEu2cvehB759ytAw/WLkddeKrdq2WiKIwOviKO71je4tvpf/JDXwObIm46lAqmc9dQoyr2CwjUfBR05+20oLiGyTRr6YMoCxRodBcwYxtju6ybqRWEXXVVlG7H0P8JuW5HL05KnAB5LKtguS4EbtifyV6X3mQ1SBsccHnVcRLWgAxSw+5F2KS1pn8QqIYOr4utjlb+f3Y74lIc/n2s5y77lNRLPE51kMjyEOTtWo2kgVlm2l5Fjwrfgi3wWudIsxcQHe5HFUF23LS6OHsVu7gFA5M=;kSwDC4XVZzD0+EXfghTmeQ=="
+secured: "gTp+mw97ZM0pppSt1oqD2x88zC3z+OlOp40qG/ifyHUSYPfOb53rLNvt/ykXTEXTyzMZZeunX2m+9OFHxrlHHAKo61vG4qaKGYoBHO4Dr+wmfR6oPHndkRnRk6yHS1PUehYaTP+JkIlNIv9Oq/+KOwiOEVyobp0vhE8kvVwsji42QSDwO+tZ24yMOdIc2bkA3+80syBugloqlN+eN0gqKJeGWzo6mm1M+vlPDxFV/J2F652SkEeNonpa6v7ru6uoW2jcfk5u5AEWHvJmqPwhTmQob3ikCijl4+4desBVoVKUEcQmAL6+120w7Qn1RBGen1rnEA7aSezgYqxYRt6tGePThjx3OPlL8pt37Xjz8701gUk5UYHy4uzc9kwZESdrO4U0yY4T+MgsWSa0AwcLDUYFfMh6gcm70lzRQV/WQYxXCngoktBVnamp0jPyCRKftQ7tmtg47egP/sui1lotUk5QMgKklg0P6q0fCV4pynyZ0o1JHzQMaIW5SsfkCIPnZKaGt5Ni0C2FzIUJmY73gA==;W1AESdVXs/NFX1tq0nDw7w=="
 ---
 

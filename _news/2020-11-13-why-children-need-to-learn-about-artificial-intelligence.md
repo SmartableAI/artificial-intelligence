@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/juliabrodsky/2020/11/12/why-children-ne
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/juliabrodsky/2020/11/12/why-children-need-to-learn-about-artificial-intelligence/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://media2.govtech.com/images/shutterstock_530657836.jpg"
         width: 940
         height: 627
+        isCached: true
+  - title: "Artificial intelligence-based apps help special needs students learn about emotions"
+    excerpt: "EmojiCapcha, Happy Bird and Betterfly - are an avenue for students to express their emotions.. Read more at straitstimes.com."
+    publishedDateTime: 2020-11-17T11:49:00Z
+    webUrl: "https://www.straitstimes.com/singapore/artificial-intelligence-based-apps-help-special-needs-students-learn-about-emotions"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 31
+    images:
+      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/11/17/ak_aiapp_1711.jpg?itok=qsiVGuTB"
+        width: 763
+        height: 509
         isCached: true
 
 secured: "yPL7Ky8vcftaNCe8GKNn5GqvNwXoJKrxmMc1Ry1Gh87jEAVTooE74voWaP9/GkeMBfuS3ZHmScPYTvjSpT+dOK7HvZLh3pL6nJEcomXcAskRi2dI+2zuxyX1VMnEVZHNcSAx+EN+ONZKA+g2/Uk0+AnhLDjHqXEFXYk2S+cVMnPuDfqfqaGBGWwNx/QwoT0RHPNaxmrWPQIz0boiKJ69CkpWct/2IpybXeC+sZcwTLPMpLnrGsIw4Je7fszc0c7sxRFSVn+L/kFYU+a9RyhA0/c15ahzA/6C+aYMrawEmF4xE/Z3Lry1lomka2SptipDOQdyFggAdcWNNmj3y7CrdUrG0/SAzI+riPpVuu/FNitYEYjTFwLtnt69vKWTH1vpTm65cnJ5mg8tSQw/MpvY1Y+IsFIutlBWHEMo7C96V7DJXAxpiGsM1xj5Ob+5hckzQdoPGJNmCrOrC2ZcsgztIIXdAXDhSdnO3pjCFceI5Gk+3FMKs/MD9ymlwlCbJ3ul3+cSLntWn7DvU+RJJerW0Q==;bxvXVe+A1wtuGO2okF49tg=="

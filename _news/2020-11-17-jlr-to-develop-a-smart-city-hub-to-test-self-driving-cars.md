@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 638
         isCached: true
-  - title: "Walmart and Self-Driving Delivery Cars"
-    excerpt: "Walmart announced that it will begin experimenting with self-driving cars in a pilot program with General Motors-backed Cruise (a tech start-up with electric, self-driving cars) to deliver groceries a"
-    publishedDateTime: 2020-11-12T19:47:00Z
-    webUrl: "https://www.natlawreview.com/article/walmart-and-self-driving-delivery-cars"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 24
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/13513/walmart%20sign%20US%20flag_1_0.jpg?itok=4FprrAuI"
-        width: 500
-        height: 682
-        isCached: true
 
 secured: "abnJRD6MXLtcODWmWTJDOTTZWt9eBffDtWoDu0QjyrBoMDTUADcG4RaojpF05A1m3RzWYKu/EprPmmGSTNx7JkQk3X1J1sWUYYWJ1Ic+7CsZ2u/7+DTRwFjWqVEd9yjDrEF+vSHkfQJ+86swp0T2NHUpvd7IH3AWv6psKIczfZdoDOUL/xsux+E1dSiIALmK2xK3IDACf2uUOH6/zc0MKxP3ZFG3xynbh3VFhnbLLgMfLJCYznSmbzkUKjNFIBzHYvgR9NfLnLnXHN5RCaMFxRAOvglRvIvnpbiKX0SvKRYLlBIjH4ZBES8iK1u2JTVEYN1M6gHAZJbfEg9ao2QEMME3I+4A5oJ+OdKxsUm/Swp+rUrhFR/u4+Dmte39jCuhbTcFL+L5gCyqVN4KuQNtttZcCwYzM9RhGsZTwggLwOHUsmpy0qPt9eUCZbl4MDYMPGd7jxg9/z7i6Wqkehq4KCYUgaOr5kWKnQuqxQxUYmFomsKWYV49SNtAgz1aPvDiBaC2WCNzP7fxteNhRenbOw==;7ktTJSdqs/CTmYE3JcK75g=="
 ---

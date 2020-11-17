@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/nvidia-built-an-epic-ai-supercomputer-from
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidia-built-an-epic-ai-supercomputer-from-four-new-a100-80gb-gpus-16647405/amp/"
 type: article
 quality: 104
-heat: 224
+heat: 234
 published: true
 
 provider:
@@ -106,6 +106,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/NVIDIA-A100-80GB.png"
         width: 2000
         height: 1125
+        isCached: true
+  - title: "Nvidia launches an 80GB A100 GPU tailored for AI"
+    excerpt: "The DGX Station A100 based on 4 A100 GPUs (80GB) can provide up to 2.5 petaFLOPS of AI compute power that you can use for training, inference, and data analytics."
+    publishedDateTime: 2020-11-17T12:54:00Z
+    webUrl: "https://www.techjuice.pk/nvidia-launches-an-80gb-a100-gpu-tailored-for-ai/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 54
+    images:
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2020/11/nvidia-dgx-station-a100.jpg"
+        width: 1024
+        height: 536
         isCached: true
   - title: "Nvidia Unveils A100 80GB GPU Powerhouse Supercomputing Chip"
     excerpt: "Nvidia has doubled the memory of its previous supercomputing GPUs with its new A100 80GB GPU, which aims to drive new levels of supercomputing performance"
