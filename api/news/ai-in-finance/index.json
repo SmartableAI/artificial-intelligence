@@ -2,36 +2,36 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-11-17-machine-learning-in-banking-and-marketing-applications-for-2021-and-beyond.md",
-      "title": "Machine learning in banking and marketing applications for 2021 and beyond",
-      "excerpt": "Artificial intelligence (AI) and machine learning in banking make the strongest combination possible. Since these technologies are versatile, there are a lot of ways to use them across industries,",
+      "path": "_news/2020-11-17-deep-learning-market-focus-on-medical-image-processing-2020-2030.md",
+      "title": "Deep Learning Market: Focus on Medical Image Processing, 2020-2030",
+      "excerpt": "Reportlinker.com announces the release of the report \"Deep Learning Market: Focus on Medical Image Processing, 2020-2030\" -  This technology is gradually being incorporated in a variety of applications across the healthcare sector,",
       "sourceUrl": null,
-      "webUrl": "https://roboticsandautomationnews.com/2020/11/16/machine-learning-in-banking-and-marketing-applications-for-2021-and-beyond/38220/",
-      "originalUrl": "https://roboticsandautomationnews.com/2020/11/16/machine-learning-in-banking-and-marketing-applications-for-2021-and-beyond/38220/",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/deep-learning-market-focus-on-medical-image-processing-2020-2030-1029809618",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/deep-learning-market-focus-on-medical-image-processing-2020-2030-1029809618",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 111,
       "tags": null,
-      "images": [
-        {
-          "url": "https://roboticsandautomationnews.com/wp-content/uploads/2020/11/Picture1.png",
-          "width": 750,
-          "height": 499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-16T08:04:00-08:00",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Deep-Learning-Market-Focus-on-Medical-Image-Processing-2020-2030-1029809618",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Deep-Learning-Market-Focus-on-Medical-Image-Processing-2020-2030-1029809618",
+      "publishedDateTime": "2020-11-17T01:47:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Robotics & Automation News",
-        "domain": "roboticsandautomationnews.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -42,7 +42,6 @@
       "topics": [
         "Machine Learning",
         "AI",
-        "AI in Marketing",
         "AI in Finance"
       ]
     },

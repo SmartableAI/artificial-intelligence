@@ -41,6 +41,34 @@ related:
         width: 612
         height: 355
         isCached: true
+  - title: "Technology trends on the rise: aisle sat-nav, scan and go and facial recognition set to revolutionise the industry, says Ubamarket"
+    excerpt: "Will Broome, CEO of retail fintech app Ubamarket, discusses how nimble technologies are essential for recovery post-COVID"
+    publishedDateTime: 2020-11-17T12:59:00Z
+    webUrl: "https://www.retailtimes.co.uk/technology-trends-on-the-rise-aisle-sat-nav-scan-and-go-and-facial-recognition-set-to-revolutionise-the-industry-says-ubamarket/"
+    type: article
+    provider:
+      name: Retail Times
+      domain: retailtimes.co.uk
+    quality: 24
+    images:
+      - url: "http://www.retailtimes.co.uk/wp-content/uploads/2013/10/RTnewsletter-logo.jpg"
+        width: 560
+        height: 420
+        isCached: true
+  - title: "SAFR and VSBLTY face biometrics deployed for crowd customer safety and insights"
+    excerpt: "Partnerships on facial recognition and computer vision technologies have been formed by RealNetworks and VSBLTY, and Patriot One has announced a contract win for its video analytics platform."
+    publishedDateTime: 2020-11-17T18:55:00Z
+    webUrl: "https://www.biometricupdate.com/202011/safr-and-vsblty-face-biometrics-deployed-for-crowd-customer-safety-and-insights"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 20
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/07/28165245/facial-recognition-surveillance-crowds-scaled.jpeg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Corsight AI Launches Real-Time Facial Recognition Technology that Accurately Identifies Individuals at an Unmatched Speed Under Any Condition"
     excerpt: "Corsight AI, a leading facial recognition technology provider, announced today the launch of its facial recognition technology. The"
     publishedDateTime: 2020-11-17T12:00:00Z
@@ -54,6 +82,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1335631/Corsight_AI_Logo.jpg?p=facebook"
         width: 1569
         height: 824
+        isCached: true
+  - title: "SAFR and VSBLTY each partner to deploy face biometrics for crowd customer safety, insights"
+    excerpt: "Partnerships on facial recognition and computer vision technologies have been formed by RealNetworks and VSBLTY, and Patriot One has announced a contract win for its video analytics platform."
+    publishedDateTime: 2020-11-17T18:50:00Z
+    webUrl: "https://www.biometricupdate.com/202011/safr-and-vsblty-each-partner-to-deploy-face-biometrics-for-crowd-customer-safety-insights"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 14
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/07/28165245/facial-recognition-surveillance-crowds-scaled.jpeg"
+        width: 2048
+        height: 1365
         isCached: true
 
 secured: "lLijd42E9tPxE/pGQqnlCQYBjqcIv9QxEZGf04kBBuB38Pk4kCxfqnDxfgncWJ5RIM68UbCjLqnGHHcy8HuDqnrNYGH7TXAsQZwIGbg8MMSo4zNhCF4XPACBqPaqjry76B2mvIP4fK8yXbK01HY3zCDdeTGA3LA9/gHrBkuHQuN5oJOpr45KnlF+XzavkU1DrOyyYeXIGaitAT3L2BrmLIRuQSQpe63U0tWKgTn84410rs9l8oQ6oWfX2ObVB6G9yh5ZHTeK5+xYjhySu4uT9IaF+d1ENjHGwucKq6EadiF0Qkh7SjQN4IcREHhK+qO15fAZvKZnxV1xscJJf0zG11rCed6WrSv9/Jz4LyKNtYw=;NNi2MsMa0OARddBKTrWUIQ=="

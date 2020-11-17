@@ -2,6 +2,144 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-21-ibm-is-making-it-easier-to-run-ai-workloads-in-hybrid-clouds.md",
+      "title": "IBM is making it easier to run AI workloads in hybrid clouds",
+      "excerpt": "However, IBM Research, the company's R&D arm, claims to have identified new ways of tackling this problem. During the IEEE CAS/EDS AI Compute Symposium, held earlier today, IBM Research introduced new technology and partnerships that will allow businesses to dynamically run large-scale AI workloads in hybrid clouds.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itproportal.com/news/ibm-is-making-it-easier-to-run-ai-workloads-in-hybrid-clouds/",
+      "originalUrl": "https://www.itproportal.com/news/ibm-is-making-it-easier-to-run-ai-workloads-in-hybrid-clouds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/qfATwf5qVcGjMLuAaDkwx6-1200-80.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itproportal.com/amp/news/ibm-is-making-it-easier-to-run-ai-workloads-in-hybrid-clouds/",
+      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/ibm-is-making-it-easier-to-run-ai-workloads-in-hybrid-clouds/",
+      "publishedDateTime": "2020-10-21T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro Portal",
+        "domain": "itproportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-flex-logix-announces-working-silicon-of-fastest-and-most-efficient-ai-edge-inference-chip.md",
+      "title": "Flex Logix Announces Working Silicon Of Fastest And Most Efficient AI Edge Inference Chip",
+      "excerpt": "Oct. 20, 2020 /PRNewswire/ -- Flex Logix® Technologies, Inc. today announced availability of its InferX™ X1, the industry's fastest AI inference chip for edge systems. InferX X1 accelerates ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/flex-logix-announces-working-silicon-of-fastest-and-most-efficient-ai-edge-inference-chip-1029698291",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/flex-logix-announces-working-silicon-of-fastest-and-most-efficient-ai-edge-inference-chip-1029698291",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1315898/Flex_Logix_InferX_X1_Infographic.jpg",
+          "width": 400,
+          "height": 201,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-20T22:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-adobe-nvidia-unveil-ai-powered-smart-portrait-at-adobe-max.md",
+      "title": "Adobe & NVIDIA unveil AI-powered Smart Portrait at Adobe MAX",
+      "excerpt": "As part of this week's Adobe MAX conference, Adobe and NVIDIA are unveiling some major advancements that will allow artists to use AI for photo editing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.shacknews.com/article/121016/adobe-nvidia-unveil-ai-powered-smart-portrait-at-adobe-max",
+      "originalUrl": "https://www.shacknews.com/article/121016/adobe-nvidia-unveil-ai-powered-smart-portrait-at-adobe-max",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/10/19/nvidia-studio-adobe-photoshop-smart-portrait_feature.jpg",
+          "width": 1280,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.shacknews.com/article/121016/adobe-nvidia-unveil-ai-powered-smart-portrait-at-adobe-max?amphtml=1",
+      "cdnAmpWebUrl": "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/121016/adobe-nvidia-unveil-ai-powered-smart-portrait-at-adobe-max?amphtml=1",
+      "publishedDateTime": "2020-10-20T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Shacknews",
+        "domain": "shacknews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-intel-sends-ai-to-space-in-launch-of-a-satellite-the-size-of-a-cereal-box.md",
       "title": "Intel sends AI to space in launch of a satellite the size of a cereal box",
       "excerpt": "Intel has sent artificial intelligence (AI) beyond the boundaries of Earth in a tiny satellite designed to streamline data processing in space.  The tech giant revealed the launch on Tuesday. An experimental device,",
@@ -1303,127 +1441,6 @@
       "provider": {
         "name": "Phys.org",
         "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-maxim-integrateds-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices.md",
-      "title": "Maxim Integrated's Neural Network Accelerator Chip Enables IoT Artificial Intelligence in Battery-Powered Devices",
-      "excerpt": "PRNewswire/ -- The MAX78000 low-power neural network accelerated microcontroller from Maxim Integrated Products, Inc. (NASDAQ: MXIM) moves",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/maxim-integrateds-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-301147039.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/maxim-integrateds-neural-network-accelerator-chip-enables-iot-artificial-intelligence-in-battery-powered-devices-301147039.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1307840/Maxim__MAX78000.jpg?p=facebook",
-          "width": 1920,
-          "height": 1005,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-amax-announces-stormax-200gbs-storage-systems-for-deploying-integrated-ai-computing-at-scale.md",
-      "title": "AMAX Announces StorMax® 200Gb/s Storage Systems for Deploying Integrated AI Computing at Scale",
-      "excerpt": "AMAX's HPC and AI Solutions Group announced the launch of its updated ultra-high-performance storage solution series, StorMax®, all-flash",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/amax-announces-stormax-200gbs-storage-systems-for-deploying-integrated-ai-computing-at-scale-301146903.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/amax-announces-stormax-200gbs-storage-systems-for-deploying-integrated-ai-computing-at-scale-301146903.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1307990/AMAX_Logo.jpg?p=facebook",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-06T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-dod-deploys-three-liqid-composable-supercomputing-facilities-powered-by-nvidia-a100-gpu-computing-and-nvidia-mellanox-hdr-200gbs-infiniband.md",
-      "title": "DoD Deploys Three Liqid Composable Supercomputing Facilities Powered by NVIDIA A100 GPU Computing and NVIDIA Mellanox HDR 200Gb/s InfiniBand Smart Networking",
-      "excerpt": "Liqid, provider of the world’s most-comprehensive composable disaggregated infrastructure (CDI) platform, announced today the company has been awarded",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201006005273/en/DoD-Deploys-Three-Liqid-Composable-Supercomputing-Facilities-Powered-by-NVIDIA-A100-GPU-Computing-and-NVIDIA-Mellanox-HDR-200Gbs-InfiniBand-Smart-Networking",
-      "originalUrl": "https://www.businesswire.com/news/home/20201006005273/en/DoD-Deploys-Three-Liqid-Composable-Supercomputing-Facilities-Powered-by-NVIDIA-A100-GPU-Computing-and-NVIDIA-Mellanox-HDR-200Gbs-InfiniBand-Smart-Networking",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-06T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null

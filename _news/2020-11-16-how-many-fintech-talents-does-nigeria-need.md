@@ -7,7 +7,7 @@ originalUrl: "https://technologytimes.ng/how-many-fintech-talents-does-nigeria-n
 webUrl: "https://technologytimes.ng/how-many-fintech-talents-does-nigeria-need/"
 type: article
 quality: 24
-heat: 34
+heat: 24
 published: false
 
 provider:

@@ -2,6 +2,642 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-10-20-intel-sends-ai-to-space-in-launch-of-a-satellite-the-size-of-a-cereal-box.md",
+      "title": "Intel sends AI to space in launch of a satellite the size of a cereal box",
+      "excerpt": "Intel has sent artificial intelligence (AI) beyond the boundaries of Earth in a tiny satellite designed to streamline data processing in space.  The tech giant revealed the launch on Tuesday. An experimental device,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/intel-sends-ai-to-space-in-cereal-box-sized-satellite-launch/",
+      "originalUrl": "https://www.zdnet.com/article/intel-sends-ai-to-space-in-cereal-box-sized-satellite-launch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/10/12/0ef71a3d-f6fd-4038-a6c4-94fdb1c3d872/thumbnail/1200x675/906bc9dcb0f7cb25bed7cb466fbdfed4/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/intel-sends-ai-to-space-in-cereal-box-sized-satellite-launch/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-sends-ai-to-space-in-cereal-box-sized-satellite-launch/",
+      "publishedDateTime": "2020-10-20T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-phisat-1-satellite-uses-ai-to-remove-clouds-from-earth-images.md",
+      "title": "PhiSat-1 satellite uses AI to remove clouds from Earth images",
+      "excerpt": "According to Intel, PhiSat-1 contains a new hyperspectral-thermal camera — HyperScout-2 — and onboard AI processing thanks to an Intel Movidius Myriad 2 system-on-chip. In tandem with another ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/20/phisat-1-satellite-uses-ai-to-remove-clouds-from-earth-images/",
+      "originalUrl": "https://venturebeat.com/2020/10/20/phisat-1-satellite-uses-ai-to-remove-clouds-from-earth-images/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/PhiSat1_Auto3-e1602739630648.jpeg?w=1200&#038;strip=all",
+          "width": 1198,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/20/phisat-1-satellite-uses-ai-to-remove-clouds-from-earth-images/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/20/phisat-1-satellite-uses-ai-to-remove-clouds-from-earth-images/amp/",
+      "publishedDateTime": "2020-10-20T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-global-cognitive-computing-market-trends-share-growth-rate-opportunities-and-market-forecast-2019-2026.md",
+      "title": "Global Cognitive Computing Market | Trends, Share, Growth Rate, Opportunities And Market Forecast 2019-2026",
+      "excerpt": "The report deeply explores the recent significant developments by the leading vendors and innovation profiles in the Global Cognitive Computing Market including Google; IBM Corporation; Microsoft ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2165606/global-cognitive-computing-market-trends-share-growth-rate",
+      "originalUrl": "https://www.openpr.com/news/2165606/global-cognitive-computing-market-trends-share-growth-rate",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-20T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-how-ai-is-disrupting-the-publishing-industry.md",
+      "title": "How AI Is Disrupting The Publishing Industry",
+      "excerpt": "The more advanced AI’s capabilities are, the more excited publishers can be to make them available to authors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/20/how-ai-is-disrupting-the-publishing-industry/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/20/how-ai-is-disrupting-the-publishing-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8daec6e4f84fe5bb8c6861%2F0x0.jpg",
+          "width": 1200,
+          "height": 791,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/10/20/how-ai-is-disrupting-the-publishing-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/10/20/how-ai-is-disrupting-the-publishing-industry/amp/",
+      "publishedDateTime": "2020-10-20T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-lux-backed-flex-logix-announces-availability-of-its-fast-and-cheap-x1-ai-chip-for-the-edge.md",
+      "title": "Lux-backed Flex Logix announces availability of its fast and cheap X1 AI chip for the edge",
+      "excerpt": "In the computing world, there are probably more types of chips available than your local supermarket snack aisle. Diverse computing environments (data centers and the cloud, edge, mobile devices, IoT,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/20/flex-logix-chip-availability/",
+      "originalUrl": "https://techcrunch.com/2020/10/20/flex-logix-chip-availability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1161355655.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/20/flex-logix-chip-availability/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/20/flex-logix-chip-availability/amp/",
+      "publishedDateTime": "2020-10-20T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-facebook-unveils-machine-learning-translator-for-100-languages.md",
+      "title": "Facebook unveils machine learning translator for 100 languages",
+      "excerpt": "Fan said the new model is more accurate than other systems because it does not rely on English as an intermediary translation step",
+      "sourceUrl": null,
+      "webUrl": "https://www.dhakatribune.com/world/north-america/2020/10/20/facebook-unveils-machine-learning-translator-for-100-languages",
+      "originalUrl": "https://www.dhakatribune.com/world/north-america/2020/10/20/facebook-unveils-machine-learning-translator-for-100-languages",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-eng.dhakatribune.com/uploads/2020/09/watermarked/347209/1603194449434facebook-1599052157930.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-20T04:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dhaka Tribune",
+        "domain": "dhakatribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-ai-in-fintech-market-may-set-new-growth-story-microsoft-google-salesforcecom.md",
+      "title": "AI in Fintech Market May Set New Growth Story | Microsoft, Google, Salesforce.com",
+      "excerpt": "Oct 19, 2020<p>Latest Research Study on  Market published by AMA, offers a detailed overview of the factors influencing the global business scope. Global AI in Fintech Market research report shows the latest market insights with upcoming trends and breakdown of the products and services.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1100983759/AI-in-Fintech-Market-May-Set-New-Growth-Story-Microsoft-Google-Salesforcecom",
+      "originalUrl": "https://menafn.com/1100983759/AI-in-Fintech-Market-May-Set-New-Growth-Story-Microsoft-Google-Salesforcecom",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?417299",
+          "width": 299,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-20T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-how-retailers-use-artificial-intelligence-to-know-what-you-want-to-buy-before-you-do.md",
+      "title": "How Retailers Use Artificial Intelligence to Know What You Want to Buy Before You Do",
+      "excerpt": "Companies have more information than ever before thanks to Covid-19—and more computing power than ever before to parse it for patterns that keep customers loyal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/how-retailers-use-artificial-intelligence-to-know-what-you-want-to-buy-before-you-do-51603195200?refsec=markets",
+      "originalUrl": "https://www.barrons.com/articles/how-retailers-use-artificial-intelligence-to-know-what-you-want-to-buy-before-you-do-51603195200?refsec=markets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-246998/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/how-retailers-use-artificial-intelligence-to-know-what-you-want-to-buy-before-you-do-51603195200",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/how-retailers-use-artificial-intelligence-to-know-what-you-want-to-buy-before-you-do-51603195200",
+      "publishedDateTime": "2020-10-20T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-facebooks-new-ai-model-translates-100-languages-without-going-through-english-first.md",
+      "title": "Facebook’s new AI model translates 100 languages — without going through English first",
+      "excerpt": "Facebook has open-sourced the first AI model that can translate between any pair of 100 languages without first translating them to English.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/10/20/facebooks-new-ai-model-translates-100-languages-without-going-through-english-first/",
+      "originalUrl": "https://thenextweb.com/neural/2020/10/20/facebooks-new-ai-model-translates-100-languages-without-going-through-english-first/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-20T102109.015-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/10/20/facebooks-new-ai-model-translates-100-languages-without-going-through-english-first/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/20/facebooks-new-ai-model-translates-100-languages-without-going-through-english-first/amp/",
+      "publishedDateTime": "2020-10-20T03:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-fintechs-wildfire-fighter-this-reinsurer-is-using-ai-to-make-california-insurance-affordable.md",
+      "title": "Fintech's Wildfire Fighter: This Reinsurer Is Using A.I. To Make California Insurance Affordable",
+      "excerpt": "San Francisco startup Kettle thinks its statistical models can predict wildfires better than any other reinsurer. It officially launched today and recently closed $4.7 million in seed funding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jeffkauflin/2020/10/20/fintechs-wildfire-fighter-this-reinsurer-is-using-ai-to-make-california-insurance-affordable/",
+      "originalUrl": "https://www.forbes.com/sites/jeffkauflin/2020/10/20/fintechs-wildfire-fighter-this-reinsurer-is-using-ai-to-make-california-insurance-affordable/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8e409faad21a294c41ea03%2F0x0.jpg%3FcropX1%3D614%26cropX2%3D3072%26cropY1%3D65%26cropY2%3D1447",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jeffkauflin/2020/10/20/fintechs-wildfire-fighter-this-reinsurer-is-using-ai-to-make-california-insurance-affordable/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkauflin/2020/10/20/fintechs-wildfire-fighter-this-reinsurer-is-using-ai-to-make-california-insurance-affordable/amp/",
+      "publishedDateTime": "2020-10-20T03:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-offices-resort-to-sensors-in-futile-attempts-to-keep-workers-apart.md",
+      "title": "Offices Resort to Sensors in Futile Attempts to Keep Workers Apart",
+      "excerpt": "Millions of workers in recent months have returned to offices outfitted with new pandemic protocols meant to keep them healthy and safe. But temperature checks and plexiglass barriers between desks can't prevent one of the most dangerous workplace behaviors for the spread of Covid-19 — the irresistible desire to mingle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-20/are-offices-safe-during-covid-sensors-say-we-fail-to-socially-distance",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-20/are-offices-safe-during-covid-sensors-say-we-fail-to-socially-distance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJ1uZTg27_C8/v1/360x-1.jpg",
+          "width": 360,
+          "height": 212,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-20/are-offices-safe-during-covid-sensors-say-we-fail-to-socially-distance",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-20/are-offices-safe-during-covid-sensors-say-we-fail-to-socially-distance",
+      "publishedDateTime": "2020-10-20T03:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-build-custom-models-with-azure-machine-learning-designer.md",
+      "title": "Build custom models with Azure Machine Learning Designer",
+      "excerpt": "Similarly, tools such as PyTorch and TensorFlow can help construct more complex models, taking advantage of neural nets and deep learning while still integrating with familiar languages and platforms. That’s all good if you’ve got a team of data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3586551/build-custom-models-with-azure-machine-learning-designer.html",
+      "originalUrl": "https://www.infoworld.com/article/3586551/build-custom-models-with-azure-machine-learning-designer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/10/2020-10-19_20-35-52-100862754-medium.jpg",
+          "width": 299,
+          "height": 214,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3586551/build-custom-models-with-azure-machine-learning-designer.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3586551/build-custom-models-with-azure-machine-learning-designer.amp.html",
+      "publishedDateTime": "2020-10-20T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-companies-will-spend-50-billion-on-artificial-intelligence-this-year-with-little-to-show-for-it.md",
+      "title": "Companies Will Spend $50 Billion On Artificial Intelligence This Year With Little To Show For It",
+      "excerpt": "Despite an AI investing boom, only 10% of companies report significant financial returns from the technology, new research shows.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidjeans/2020/10/20/bcg-mit-report-shows-companies-will-spend-50-billion-on-artificial-intelligence-with-few-results/",
+      "originalUrl": "https://www.forbes.com/sites/davidjeans/2020/10/20/bcg-mit-report-shows-companies-will-spend-50-billion-on-artificial-intelligence-with-few-results/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8dd3a6f8378d611348a0ce%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidjeans/2020/10/20/bcg-mit-report-shows-companies-will-spend-50-billion-on-artificial-intelligence-with-few-results/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidjeans/2020/10/20/bcg-mit-report-shows-companies-will-spend-50-billion-on-artificial-intelligence-with-few-results/amp/",
+      "publishedDateTime": "2020-10-20T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-oneconnect-shares-fintech-insights-with-chinese-banks-and-fintech-companies.md",
       "title": "OneConnect Shares Fintech Insights with Chinese Banks and Fintech Companies",
       "excerpt": "PRNewswire/ -- OneConnect Financial Technology Co., Ltd. (OneConnect, NYSE: OCFT), a leading technology-as-a-service platform for financial institutions,",
@@ -534,620 +1170,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-onr-robotics-enter-the-covid-19-fight.md",
-      "title": "ONR Robotics enter the COVID-19 fight",
-      "excerpt": "A decontamination robot funded by the Office of Naval Research (ONR) and designed by several local universities was recently tested in Richmond Va. The robot--initially designed for shipboard firefighting and maintenance tasks--has now been enlisted in the fight against Covid-19.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-10/oonr-ore101920.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-10/oonr-ore101920.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-19T12:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-deepmind-open-sources-the-ferminet-a-neural-network-that-simulates-electron-behaviors.md",
-      "title": "DeepMind open-sources the FermiNet, a neural network that simulates electron behaviors",
-      "excerpt": "Researchers at DeepMind have open-sourced the FermiNet, a neural network that simulates the positions and arrangements of electrons.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/19/deepmind-open-sources-the-ferminet-a-neural-network-that-simulates-electron-behaviors/",
-      "originalUrl": "https://venturebeat.com/2020/10/19/deepmind-open-sources-the-ferminet-a-neural-network-that-simulates-electron-behaviors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&#038;strip=all",
-          "width": 1198,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/19/deepmind-open-sources-the-ferminet-a-neural-network-that-simulates-electron-behaviors/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/19/deepmind-open-sources-the-ferminet-a-neural-network-that-simulates-electron-behaviors/amp/",
-      "publishedDateTime": "2020-10-19T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-baker-mckenzie-launches-global-innovation-unit-teaming-up-with-ai-company.md",
-      "title": "Baker McKenzie launches global innovation unit, teaming up with AI company",
-      "excerpt": "Baker McKenzie on Monday launched a new innovation arm, Reinvent Law, bringing the global firm's existing innovation efforts under a single umbrella and pairing them with a new artificial intelligence joint venture.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/bakermckenzie-innovation-idUSL1N2HA1C4",
-      "originalUrl": "https://www.reuters.com/article/bakermckenzie-innovation-idUSL1N2HA1C4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2HA1C4",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2HA1C4",
-      "publishedDateTime": "2020-10-19T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-jake-tapper-pushes-back-when-lara-trump-insists-biden-has-cognitive-decline.md",
-      "title": "Jake Tapper Pushes Back When Lara Trump Insists Biden Has 'Cognitive Decline'",
-      "excerpt": "CNN's Jake Tapper cut short an interview with President Donald Trump's daughter-in-law and campaign adviser, Lara Trump, after she claimed that Democratic nominee Joe Biden suffers from cognitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://people.com/politics/jake-tapper-lara-trump-interview-joe-biden-decline/",
-      "originalUrl": "https://people.com/politics/jake-tapper-lara-trump-interview-joe-biden-decline/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F10%2F19%2Ftapper-trump.jpg",
-          "width": 1500,
-          "height": 781,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://people.com/politics/jake-tapper-lara-trump-interview-joe-biden-decline/?amp=true",
-      "cdnAmpWebUrl": "https://people-com.cdn.ampproject.org/c/s/people.com/politics/jake-tapper-lara-trump-interview-joe-biden-decline/?amp=true",
-      "publishedDateTime": "2020-10-19T12:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "People",
-        "domain": "people.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-android-studio-41-includes-new-database-inspector-integrated-emulator-tensorflow-lite-bindings.md",
-      "title": "Android Studio 4.1 Includes New Database Inspector, Integrated Emulator, TensorFlow Lite Bindings",
-      "excerpt": "The latest version of Android official IDE, Android Studio 4.1, is now stable. Besides introducing a new database inspector, integrated emulator, and better TensorFlow Lite support, it improves integration with Dagger and fixes over 2,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2020/10/android-studio-4-1-stable/",
-      "originalUrl": "https://www.infoq.com/news/2020/10/android-studio-4-1-stable/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2020/10/android-studio-4-1-stable/en/headerimage/image9-1603126617867.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-19T11:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-a-global-collaboration-to-move-artificial-intelligence-principles-to-practice.md",
-      "title": "A global collaboration to move artificial intelligence principles to practice",
-      "excerpt": "Convened by the MIT Schwarzman College of Computing, the AI Policy Forum is a global collaboration to move AI principles to practice.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2020/global-collaboration-moving-ai-principles-to-practice-1019",
-      "originalUrl": "https://news.mit.edu/2020/global-collaboration-moving-ai-principles-to-practice-1019",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202010/MIT-AIPF-global-AI.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-19T11:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-outlook-2020-2026-cost-units-sales-revenues-applications.md",
-      "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Outlook 2020-2026: Cost, Units Sales, Revenues & Applications",
-      "excerpt": "This detailed and meticulously composed market research report on the Natural Language Processing (NLP) in Healthcare and Life Sciences Market discussed the various market growth tactics and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2164496/natural-language-processing-nlp-in-healthcare-and-life",
-      "originalUrl": "https://www.openpr.com/news/2164496/natural-language-processing-nlp-in-healthcare-and-life",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/a/Ta19983272_g.jpg",
-          "width": 800,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2164496/natural-language-processing-nlp-in-healthcare-and-life",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2164496/natural-language-processing-nlp-in-healthcare-and-life",
-      "publishedDateTime": "2020-10-19T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-xtelligent-next-generation-signals-use-algorithms-and-artificial-intelligence-to-reduce-road-traffic.md",
-      "title": "Xtelligent Next-Generation Signals Use Algorithms And Artificial Intelligence To Reduce Road Traffic",
-      "excerpt": "The decentralized/distributed approach allows for greater intelligence in how traffic signal networks manage timing on a real-time basis while also making traffic management systems cheaper, more scalable and resilient (from events such as crashes and cyber attacks),",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jeffkart/2020/10/19/xtelligent-next-generation-signals-use-algorithms-and-artificial-intelligence-to-reduce-road-traffic/",
-      "originalUrl": "https://www.forbes.com/sites/jeffkart/2020/10/19/xtelligent-next-generation-signals-use-algorithms-and-artificial-intelligence-to-reduce-road-traffic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8da35b860e2346090f3540%2F0x0.jpg%3FcropX1%3D577%26cropX2%3D5920%26cropY1%3D0%26cropY2%3D3005",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jeffkart/2020/10/19/xtelligent-next-generation-signals-use-algorithms-and-artificial-intelligence-to-reduce-road-traffic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkart/2020/10/19/xtelligent-next-generation-signals-use-algorithms-and-artificial-intelligence-to-reduce-road-traffic/amp/",
-      "publishedDateTime": "2020-10-19T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-with-deep-learning-algorithms-standard-ct-technology-produces-spectral-images.md",
-      "title": "With deep learning algorithms, standard CT technology produces spectral images",
-      "excerpt": "In research published today in , a team of engineers from Rensselaer Polytechnic Institute demonstrate how a deep learning algorithm can be applied to a conventional computerized tomography (CT) scan in order to produce images that would typically require a higher level of imaging technology known as dual-energy CT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-10/rpi-wdl101920.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-10/rpi-wdl101920.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-19T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-facebooks-new-polyglot-ai-can-translate-between-100-languages.md",
-      "title": "Facebook’s new polyglot AI can translate between 100 languages",
-      "excerpt": "The model, a culmination of various automated and machine learning techniques, is being open-sourced to the research community. The news: Facebook is open-sourcing a new AI language model called ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/",
-      "originalUrl": "https://www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/10/edurne-chopeitia-5Z8mR4vqJD4-unsplash-e1603118496183.jpg?w=2142",
-          "width": 2142,
-          "height": 1206,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/amp/",
-      "publishedDateTime": "2020-10-19T10:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-wimi-hologram-cloud-stock-rallies-on-news-of-new-artificial-intelligence-subsidiary.md",
-      "title": "WiMi Hologram Cloud Stock Rallies on News of New Artificial Intelligence Subsidiary",
-      "excerpt": "The company says it's accelerating the development of its intellectual property -- positive news overshadowing a surprise shakeup in the management team.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/10/19/wimi-hologram-cloud-stock-rallies-on-news-of-new-a/",
-      "originalUrl": "https://www.fool.com/investing/2020/10/19/wimi-hologram-cloud-stock-rallies-on-news-of-new-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F595591%2Fstock-chart-hologram-up.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/19/wimi-hologram-cloud-stock-rallies-on-news-of-new-a/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/19/wimi-hologram-cloud-stock-rallies-on-news-of-new-a/",
-      "publishedDateTime": "2020-10-19T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-juniper-acquires-128-technology-for-450-million-as-it-builds-out-its-ai.md",
-      "title": "Juniper acquires 128 Technology for $450 million as it builds out its AI",
-      "excerpt": "Juniper Networks said it will acquire 128 Technology for $450 million in a move that will give it more artificial intelligence-based features through its networking portfolio. The company said it will it will acquire 128 Technology with cash and assumption of equity awards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/juniper-acquires-128-technology-for-450-million-as-it-builds-out-its-ai/",
-      "originalUrl": "https://www.zdnet.com/article/juniper-acquires-128-technology-for-450-million-as-it-builds-out-its-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/10/19/96c31916-3643-4d3f-8e78-bbbad13eceb6/juniper-128.png",
-          "width": 600,
-          "height": 386,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/juniper-acquires-128-technology-for-450-million-as-it-builds-out-its-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/juniper-acquires-128-technology-for-450-million-as-it-builds-out-its-ai/",
-      "publishedDateTime": "2020-10-19T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-facebooks-new-ai-can-translate-languages-directly-into-one-another.md",
-      "title": "Facebook's new AI can translate languages directly into one another",
-      "excerpt": "That’s why Facebook AI has developed a new MT ... two-thirds are in a language other than English, she noted. Dubbed M2M-100, Facebook claims that it is the first multilingual machine translation model (MMT) that can directly translate back and forth ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/facebooks-ai-can-translate-languages-directly-into-one-another-150029679.html",
-      "originalUrl": "https://www.engadget.com/facebooks-ai-can-translate-languages-directly-into-one-another-150029679.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 356,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C400&quality=95&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1800%252C1200%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-04%252Fb0b78f20-80e4-11ea-ad7b-99d4bc7d0814%26client%3Da1acac3e1b3290917d92%26signature%3D7710ab157ce1c73492be616e6e982875fd9c4ced&client=amp-blogside-v2&signature=69a553b53d39c0b9162403452839efda71a2de93",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/facebooks-ai-can-translate-languages-directly-into-one-another-150029679.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebooks-ai-can-translate-languages-directly-into-one-another-150029679.html",
-      "publishedDateTime": "2020-10-19T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

@@ -32,9 +32,9 @@ images:
 
 related:
   - title: "China Gets Ready to Rein in Baidu, Alibaba, and Tencent"
-    excerpt: "Baidu controls 76% of China's online search market, according to StatCounter, and it's the top player in artificial intelligence and driverless cars. Alibaba controls 56% of China's e-commerce ..."
-    publishedDateTime: 2020-11-14T13:37:00Z
-    webUrl: "https://www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14?time=1605359341"
+    excerpt: "Many of China's top tech stocks recently tumbled after Chinese regulators drafted new antitrust rules targeting the country's top internet companies. The proposed rules target \"monopolistic ..."
+    publishedDateTime: 2020-11-14T13:15:00Z
+    webUrl: "https://www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14"
     ampWebUrl: "https://www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14?amp"
     cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14?amp"
     type: article

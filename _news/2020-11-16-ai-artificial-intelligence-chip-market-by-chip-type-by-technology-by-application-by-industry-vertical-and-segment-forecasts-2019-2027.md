@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-artificial-intelligen
 webUrl: "https://www.marketwatch.com/press-release/ai-artificial-intelligence-chip-market-by-chip-type-by-technology-by-application-by-industry-vertical-and-segment-forecasts-2019-2027-2020-11-16"
 type: article
 quality: 66
-heat: -1
-published: false
+heat: 136
+published: true
 
 provider:
   name: MarketWatch
@@ -30,31 +30,98 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning in banking and marketing applications for 2021 and beyond"
-    excerpt: "Artificial intelligence (AI) and machine learning in banking make the strongest combination possible. Since these technologies are versatile, there are a lot of ways to use them across industries,"
-    publishedDateTime: 2020-11-16T16:04:00Z
-    webUrl: "https://roboticsandautomationnews.com/2020/11/16/machine-learning-in-banking-and-marketing-applications-for-2021-and-beyond/38220/"
+  - title: "Voice and Speech Recognition Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
+    excerpt: "Selbyville, Delaware According to the research report titled 'Voice and Speech Recognition Market Share, Size, Trends, Industry Analysis Report By Component; By Interface; By End-User; By Regions, Segments & Forecast,"
+    publishedDateTime: 2020-11-13T07:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2020-11-13"
     type: article
     provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 71
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
     images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/11/Picture1.png"
-        width: 750
-        height: 499
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Deep Learning Market: Focus on Medical Image Processing, 2020-2030"
-    excerpt: "Reportlinker.com announces the release of the report \"Deep Learning Market: Focus on Medical Image Processing, 2020-2030\" -  This technology is gradually being incorporated in a variety of applications across the healthcare sector,"
-    publishedDateTime: 2020-11-17T09:47:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deep-learning-market-focus-on-medical-image-processing-2020-2030-1029809618"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Deep-Learning-Market-Focus-on-Medical-Image-Processing-2020-2030-1029809618"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Deep-Learning-Market-Focus-on-Medical-Image-Processing-2020-2030-1029809618"
+  - title: "Global Sports Technology Market 2020-2027 - Artificial Intelligence (AI) and Internet of Things (IoT) to Provide Growth Opportunities"
+    excerpt: "The \"Sports Technology Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component and Technology\" report has been added to ResearchAndMarkets.com's offering. Increasing popularity of esports,"
+    publishedDateTime: 2020-11-17T10:53:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-sports-technology-market-2020-2027-artificial-intelligence-ai-and-internet-of-things-iot-to-provide-growth-opportunities-1029809825"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/Global-Sports-Technology-Market-2020-2027-Artificial-Intelligence-AI-and-Internet-of-Things-IoT-to-Provide-Growth-Opportunities-1029809825"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Global-Sports-Technology-Market-2020-2027-Artificial-Intelligence-AI-and-Internet-of-Things-IoT-to-Provide-Growth-Opportunities-1029809825"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 69
+    quality: 51
+  - title: "Global AI (Artificial Intelligence) Speaker Market 2020 Applications, SWOT Analysis, Remarkable Growth and Competitive Landscape by 2026"
+    excerpt: "The latest market research report titled Global AI (Artificial Intelligence) Speaker Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026 reveals the overview of the global industry,"
+    publishedDateTime: 2020-11-16T19:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-artificial-intelligence-speaker-market-2020-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2026-2020-11-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Based Fever Detection Camera Market Share, Growth, Size, Opportunities, Trends, Regional Overview, Analysis and Key Country Forecast To 2027"
+    excerpt: "Fortune Business Insights offers a detailed overview of the global market in a report, titledThe globalAI based"
+    publishedDateTime: 2020-11-17T12:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-based-fever-detection-camera-market-share-growth-size-opportunities-trends-regional-overview-analysis-and-key-country-forecast-to-2027-2020-11-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "China Automotive Cockpit SoC Technology and Application Market 2020: Cockpit SoC Supports More Displays, Beefs up AI, and Improves Functional Safety"
+    excerpt: "The \"China Automotive Cockpit SoC Technology and Application Research Report, 2020\" report has been added to ResearchAndMarkets.com's offering. Cockpit SoC Supports More Displays, Beefs up AI, and Improves Functional Safety Intelligent vehicle E/E architecture ushers in a period of intra-domain integration to trans-domain convergence and to central computer from the distributed one."
+    publishedDateTime: 2020-11-16T08:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/china-automotive-cockpit-soc-technology-and-application-market-2020-cockpit-soc-supports-more-displays-beefs-up-ai-and-improves-functional-safety-1029804693"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/China-Automotive-Cockpit-SoC-Technology-and-Application-Market-2020-Cockpit-SoC-Supports-More-Displays-Beefs-up-AI-and-Improves-Functional-Safety-1029804693"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/China-Automotive-Cockpit-SoC-Technology-and-Application-Market-2020-Cockpit-SoC-Supports-More-Displays-Beefs-up-AI-and-Improves-Functional-Safety-1029804693"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
+  - title: "Global Artificial Intelligence Market 2020-2025: Industry Analysis, Market Growth, Opportunities and Forecast to 2025"
+    excerpt: "The report “Global Artificial Intelligence Market 2020-2025” analyses the global market size by Regions, Sector, Component, Technology, Organization Size. The report also evaluates the market size of Top 5 AI companies,"
+    publishedDateTime: 2020-11-16T10:07:00Z
+    webUrl: "https://www.analyticsinsight.net/global-artificial-intelligence-market-2020-2025-industry-analysis-market-growth-opportunities-and-forecast-to-2025/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 16
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/AI-Report11.jpg"
+        width: 1200
+        height: 694
+        isCached: true
+  - title: "Automotive Gesture Recognition Market Share 2020 : Top Manufacturers, Industry Size, Regional Analysis, Types and Applications and Forecasts to 2026"
+    excerpt: "Selbyville, Delaware, Market Study Report LLC recently added a new title on 2020-2026 Global Automotive Gesture Recognition Market Report from its database. The report provides study with in-depth overview,"
+    publishedDateTime: 2020-11-17T08:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-gesture-recognition-market-share-2020-top-manufacturers-industry-size-regional-analysis-types-and-applications-and-forecasts-to-2026-2020-11-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 15
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "qIe++XZ3z39wJt5BGyT0FdF+pZ4Wip4piKsXoHYmIVmn9jAK3DsJyf0QsSlRRsSkSd2v4sqnkbnAiP4B3ubCpvkL9nhT3Fs4vIdNZeHOK42t94RUHbQD44lCHyej0y8lTb5vStuGe3V3PvYMJabs9XTUHTO012LBxoUKZdOdtc5rBc0RrUFCXAhUZoD712yOgCMDYSYyAG8OhqRoxxg9bXUI28UcYLM93L+rLA6sdO8pVU1ht9tsZDVpg5wK5+cRea+5iQR1/53u6MaXHfoqB8qQgVaLBcVmlJwaJyCasJXzneA4VlmypARktaAoUMFCK/2eYoERslMeqAzIYRK5NsNttS0h1LjnaPPQKYFQFvA=;chuORbYZXtGJ+/oOrlD57A=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.miragenews.com/new-project-uses-artificial-intelligenc
 webUrl: "https://www.miragenews.com/new-project-uses-artificial-intelligence-in-drug-development/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 880
     height: 319
     isCached: true
+
+related:
+  - title: "Canaan Rises Along With Bitcoin As AI Chip Development Continues"
+    excerpt: "Huangzhou, China-based Canaan was founded in 2013 with an initial focus on developing ASIC applications for Bitcoin mining under the brand Avalon Miner and has since expanded its portfolio with the Kendryte K210 chip."
+    publishedDateTime: 2020-11-17T18:16:00Z
+    webUrl: "https://www.thestreet.com/ipo/news/canaan-bitcoin-mining-ai"
+    ampWebUrl: "https://www.thestreet.com/.amp-ipo/ipo/news/canaan-bitcoin-mining-ai"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-ipo/ipo/news/canaan-bitcoin-mining-ai"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 74
+    images:
+      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTc2ODg1OTUyODI2ODQ1MTI2/canrev.png"
+        width: 620
+        height: 383
+        isCached: true
 
 secured: "4Wp3fxLQlHUUgyZUadosUDPH/xhRUtXqvDf1kGh2LlI15zFL++xFDDudvZ5BlYUp3O1WBIEQl5Zv3Mi4pq1f1NrFaNAmhA8LsFoKVGIUW43lubqW/Cugm5tFaPkDkLR9agDZewQwCUrUcHj0bBJKsn2g0OKStslr0XiD4eJl7YROW3zpSPRZBvWzuadV2kSGaqEZGcC7XsT6aa8b7rmVGw2ckziKv0ZSmTCtb5YJkF1raHvEdCKLisxtjegJvKAKXIZKC9AKXdzwQnCWTsb26PDPhp6PtySBKkQ6Q9A2mGW+rTS4QOc4KKRxZu4V/oKcF3I6sf3kpI2p5+XZuTXhpZ3w5l+f4hf6qf1OUkePnjSLXykzGLR1zFAbu3c6cnyCeJkAu3amJcLQfH488wTbsQvs/tjEgDP+jmgA+0UAQ11uBAqQNyjjU0s9LNsDFkoTzAcfZH3FpDib0IAoCzmGV2z6wph0zxoIyoSyGwjPj+WnOTBr97HwBmykdXJVN9c1AsxLFk7+Iwy8edzpFwnnmg==;RlUq6Z698AsXMqo00uhS5g=="
 ---

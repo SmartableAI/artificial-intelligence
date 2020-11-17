@@ -34,20 +34,6 @@ related:
         width: 940
         height: 627
         isCached: true
-  - title: "National AI ethics going to cabinet"
-    excerpt: "The cabinet will be asked to endorse the country's first artificial intelligence (AI) ethics guidelines by December to ensure the proper use of this advanced technology, says the National Digital Economy and Society Committee (NDESC)."
-    publishedDateTime: 2020-11-16T23:05:00Z
-    webUrl: "https://www.bangkokpost.com/tech/2020635/national-ai-ethics-going-to-cabinet"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 54
-    images:
-      - url: "https://static.bangkokpost.com/newdesign/assets/images/bg/tech/images_tech_1.jpg?v=0.1"
-        width: 620
-        height: 413
-        isCached: true
 
 secured: "qmOjQNwuiQ7gc2OeUejCMEgv7LooeX/Nc3pCgqbuJR7Tpk0QvqHcGTsitOQPHqawKKfTAVvB9VOCVNfpxCSrUO7vH6QMNtt+uG9IlHaOvIDfJWvFgzJAJtlA4Dg6bg0mTlKU/smq2W7MWobQSZLplQmB5p96XYBrPHAI/Ta2BZCyKAAvNAWxDrZuL1QZsD3tyG2YsmBQLMZ4Tnr1Qs/n288V9j7OcNUPLpcVdLa5ujnU6xbpWgp7fxYi9HK3y7/wnPNEBgD1F3SlLyDusYlrpn6DmBsjByvJ1G1ICJuquXndQBG/1VZQBbuXKgie7EI1j9yn5od/2/T+BbwX6SAPbuhkN3IINDcHgxKiT0IK/ik=;3Og281SW3KXd6+eRSSgtWA=="
 ---

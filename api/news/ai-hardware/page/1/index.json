@@ -2,6 +2,93 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-18-canaan-rises-along-with-bitcoin-as-ai-chip-development-continues.md",
+      "title": "Canaan Rises Along With Bitcoin As AI Chip Development Continues",
+      "excerpt": "Huangzhou, China-based Canaan was founded in 2013 with an initial focus on developing ASIC applications for Bitcoin mining under the brand Avalon Miner and has since expanded its portfolio with the Kendryte K210 chip.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/ipo/news/canaan-bitcoin-mining-ai",
+      "originalUrl": "https://www.thestreet.com/ipo/news/canaan-bitcoin-mining-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTc2ODg1OTUyODI2ODQ1MTI2/canrev.png",
+          "width": 620,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp-ipo/ipo/news/canaan-bitcoin-mining-ai",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-ipo/ipo/news/canaan-bitcoin-mining-ai",
+      "publishedDateTime": "2020-11-17T10:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-revisiting-ethical-ai-where-do-organizations-need-to-go-next.md",
+      "title": "Revisiting ethical AI - where do organizations need to go next?",
+      "excerpt": "AI ethics are having a hard time keeping up with AI. Academic debates may be interesting, but organizations need a practical AI ethics framework. Where do we go from here?",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/revisiting-ethical-ai-where-do-organizations-need-go-next",
+      "originalUrl": "https://diginomica.com/revisiting-ethical-ai-where-do-organizations-need-go-next",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2018-01/Fotolia-jimbophotoart-163732204_Sub_740px.jpg",
+          "width": 740,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/revisiting-ethical-ai-where-do-organizations-need-go-next?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/revisiting-ethical-ai-where-do-organizations-need-go-next?amp",
+      "publishedDateTime": "2020-11-17T08:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-cerebras-wafer-size-chip-is-10000-times-faster-than-a-gpu.md",
       "title": "Cerebras’ wafer-size chip is 10,000 times faster than a GPU",
       "excerpt": "“It also shows that wafer scale technology has applications beyond AI.” Above: The Cerebras WSE has 1.2 trillion transistors compared to Nvidia’s largest GPU, the A100 at 54.2 billion transistor",
@@ -62,7 +149,7 @@
       "originalUrl": "https://techcrunch.com/2020/11/17/edgeq-raises-51-million-to-fuse-ai-compute-and-5g-within-a-single-chip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -254,6 +341,59 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-ai-artificial-intelligence-chip-market-by-chip-type-by-technology-by-application-by-industry-vertical-and-segment-forecasts-2019-2027.md",
+      "title": "AI (Artificial Intelligence) Chip Market By Chip Type, By Technology, By Application, By Industry Vertical, And Segment Forecasts, 2019-2027",
+      "excerpt": "Chip Market Forecast to 2027 The Global AI (Artificial Intelligence) Chip Market report presents a comprehensive analysis of the AI (Artificial Intelligence) Chip market by offering valuable insights to assist the businesses and key players in formulating fruitful strategies during the forecast timeline of 2020-2027.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-artificial-intelligence-chip-market-by-chip-type-by-technology-by-application-by-industry-vertical-and-segment-forecasts-2019-2027-2020-11-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-artificial-intelligence-chip-market-by-chip-type-by-technology-by-application-by-industry-vertical-and-segment-forecasts-2019-2027-2020-11-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-16T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1368,146 +1508,6 @@
         "Google AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-intels-iris-xe-max-gpu-to-take-on-nvidias-geforce-mx350-rtx-2080-in-notebook-pcs.md",
-      "title": "Intel's Iris Xe Max GPU to take on Nvidia's GeForce MX350, RTX 2080 in notebook PCs",
-      "excerpt": "Intel has unwrapped the Iris Xe Max discrete GPU for notebooks, detailing how it depends on the Tiger Lake Core GPU for enhanced performance in gaming, AI, and encoding.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/3587732/intels-iris-xe-max-gpu-to-take-on-nvidias-geforce-mx350-rtx-2080-in-notebook-pcs.html",
-      "originalUrl": "https://www.pcworld.com/article/3587732/intels-iris-xe-max-gpu-to-take-on-nvidias-geforce-mx350-rtx-2080-in-notebook-pcs.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/10/intel-tiger-lake-core-iris-xe-max-logo-100864467-large.jpg",
-          "width": 1199,
-          "height": 854,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/3587732/intels-iris-xe-max-gpu-to-take-on-nvidias-geforce-mx350-rtx-2080-in-notebook-pcs.amp.html",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3587732/intels-iris-xe-max-gpu-to-take-on-nvidias-geforce-mx350-rtx-2080-in-notebook-pcs.amp.html",
-      "publishedDateTime": "2020-11-04T10:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-aws-launches-next-gen-gpu-instances-for-machine-learning.md",
-      "title": "AWS launches next-gen GPU instances for machine learning",
-      "excerpt": "AWS has launched its latest GPU-equipped instances aimed at machine learning and high-performance computing (HPC) workloads. Called P4d, the new instances come ten years the first set of GPU instances were launched.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/8820/aws-launches-next-gen-gpu-instances-for-machine-learning",
-      "originalUrl": "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/8820/aws-launches-next-gen-gpu-instances-for-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2020/06/awslogo.jpg",
-          "width": 3648,
-          "height": 2736,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-04T06:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cloud Pro",
-        "domain": "cloudpro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-microprocessor-and-gpu-market-worth-1382-billion-by-2025-exclusive-report-by-marketsandmarkets.md",
-      "title": "Microprocessor and GPU Market worth $138.2 billion by 2025 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "According to the new market research report \"Microprocessor and GPU Market with COVID-19 Impact Analysis by Architecture, Functionality,",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/microprocessor-and-gpu-market-worth-138-2-billion-by-2025--exclusive-report-by-marketsandmarkets-301166236.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/microprocessor-and-gpu-market-worth-138-2-billion-by-2025--exclusive-report-by-marketsandmarkets-301166236.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook",
-          "width": 666,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-04T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

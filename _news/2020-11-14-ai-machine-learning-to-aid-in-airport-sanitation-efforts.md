@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/health/Albany-NY-Airport-Updates-App-with-He
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/health/Albany-NY-Airport-Updates-App-with-Health-Sanitation-Measures.html?AMP"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "National AI ethics going to cabinet"
-    excerpt: "The cabinet will be asked to endorse the country's first artificial intelligence (AI) ethics guidelines by December to ensure the proper use of this advanced technology, says the National Digital Economy and Society Committee (NDESC)."
-    publishedDateTime: 2020-11-16T23:05:00Z
-    webUrl: "https://www.bangkokpost.com/tech/2020635/national-ai-ethics-going-to-cabinet"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 54
-    images:
-      - url: "https://static.bangkokpost.com/newdesign/assets/images/bg/tech/images_tech_1.jpg?v=0.1"
-        width: 620
-        height: 413
-        isCached: true
   - title: "Growing artificial Intelligence at work justifies online learning"
     excerpt: "Universities should place a strong emphasis on practical skills by incorporating practical work into the curricular and by changing the grading system to"
     publishedDateTime: 2020-11-17T04:41:00Z

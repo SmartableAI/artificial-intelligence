@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-09-the-best-machine-learning-startups-to-work-for-in-2021-according-to-glassdoor.md",
+      "title": "The Best Machine Learning Startups To Work For In 2021 According To Glassdoor",
+      "excerpt": "AVORA, Codesmith, FairMarkIT, Protenus and Ravelin are the most likely to be recommended by their employees to friends looking for a machine learning startup to work for in 2021 based on each company's Glassdoor ratings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/08/the-best-machine-learning-startups-to-work-for-in-2021-according-to-glassdoor/",
+      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/08/the-best-machine-learning-startups-to-work-for-in-2021-according-to-glassdoor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6970cb93c4bdf032c4b97d%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/08/the-best-machine-learning-startups-to-work-for-in-2021-according-to-glassdoor/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/11/08/the-best-machine-learning-startups-to-work-for-in-2021-according-to-glassdoor/amp/",
+      "publishedDateTime": "2020-11-08T17:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste.md",
+      "title": "CSIRO to use artificial intelligence, machine learning, and sensors to end plastic waste",
+      "excerpt": "The Commonwealth Scientific and Industrial Research Organisation (CSIRO) has announced partnerships with Microsoft, Hobart City Council, and Chemistry Australia to address -- and attempt to end -- Australia's plastics waste issue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
+      "originalUrl": "https://www.zdnet.com/article/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/06/16/9661d050-0c11-4767-a7ae-3c29bd3d17c5/storm-water-and-litter.jpg",
+          "width": 728,
+          "height": 570,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
+      "publishedDateTime": "2020-11-08T16:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-11-07-how-can-we-balance-progress-and-privacy-with-machine-learning.md",
       "title": "How Can We Balance Progress And Privacy With Machine Learning?",
       "excerpt": "It’s helpful to shift this conversation from AI as a whole to the more specific domain of machine learning (ML), and how we can harness its advantages and minimize its drawbacks. Machine Learning is a subset of AI that describes how computer algorithms get better at solving their domain specific problems by leveraging large data sets with which to train themselves.",
@@ -1362,111 +1466,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-neural-network-software-market-growth-analysis-by-size-share-news-demand-opportunity-during-2020-2023.md",
-      "title": "Neural Network Software Market Growth Analysis By Size, Share, News, Demand, Opportunity During 2020-2023",
-      "excerpt": "Global Neural Network Software research report - information by type (Data Mining & Archiving, Analytical Software, Optimization Software, Visualization Software), by Component (Neural Network Software,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-growth-analysis-by-size-share-news-demand-opportunity-during-2020-2023-2020-10-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-growth-analysis-by-size-share-news-demand-opportunity-during-2020-2023-2020-10-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-29T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-world-of-finance.md",
-      "title": "Workday Delivers Data Management and Machine Learning Innovations for the Changing World of Finance",
-      "excerpt": "Advances in Managing Data Create New Levels of Insight and Performance Accountability for Today's Agile Organizations PLEASANTON, Calif., Oct. 29, 2020 (GLOBE NEWSWIRE) -- Workday Inc. (NASDAQ: WDAY),",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-world-of-finance-2020-10-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/workday-delivers-data-management-and-machine-learning-innovations-for-the-changing-world-of-finance-2020-10-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-29T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/11/16/computer-vision-startup-chooch-ai-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/16/computer-vision-startup-chooch-ai-scores-20m-series-a/amp/"
 type: article
 quality: 104
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2020/11/chooch.jpg"
         width: 470
         height: 352
+        isCached: true
+  - title: "Computer Vision Company Chooch AI Closes $20 Million Series A Round with Vickers Venture ..."
+    excerpt: "(GLOBE NEWSWIRE) -- chooch.ai, a computer vision AI platform, today announced their Series A round led by venture capital firm Vickers Venture Partners with additional institutional funding from 212,"
+    publishedDateTime: 2020-11-16T17:02:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-turkey-investment-management-middle-east-81303762b24f03b9d1779076437de41a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 43
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "XfbhyQ6B9up2CPf0OkHAhm+x1O3vnf5Zn6f780QuSzUaEjYfnRExFzR5qKp8yhDT3z/vERA7WqqwWxLWNbXIjIA9VyXPo8VXbwHBbygHKYx0mP8NRRMhojYOFqMTmXS1OwwnOfjJHa+37Z5lDeuNqbWlkLICWTyyFt02LnrA5idMFFQFnhXQO0nakGWreqKpSr6BEaQwu3TtOOWKDoMg8JBYdx1nOLg60TISkF9Y15KDEeTjypCsCjh/PrGAWeDb9z9UPFsadNmW8Lzj/vXLXv9Ld6nkGc761amR5l0IgP2SjniS2fEhfDXciGHggq6WfIuUGHXqE3iPZMzGZIQrqGklPPcM9VVhRtRGIZk1tl7tBH0V0TRoyPySTy4pN1ct1PycOE0YOSC2bgouJEVDJ4oAoJOer8tOz4wtUIYzIDbGruDau2kgdLRrCo/BoCe168CHUwmQBzIGIpWshXZzbpAVJ6NjCg2Ik+G/sSDDod/a6IN/m63cSMJ7DCj3UBSP9HoRR2e6AE4AvzwQkN1hmA==;ECrKkntpqCvCyObhFS/oUw=="

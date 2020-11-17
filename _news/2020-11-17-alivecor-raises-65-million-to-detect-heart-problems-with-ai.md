@@ -56,7 +56,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 82
+    quality: 99
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2019/02/DataRobot-Boston-team--e1605298779900.jpg?fit=800%2C533&strip=all"
         width: 800

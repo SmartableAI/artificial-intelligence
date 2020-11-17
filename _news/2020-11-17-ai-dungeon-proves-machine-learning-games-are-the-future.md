@@ -10,6 +10,7 @@ cdnAmpWebUrl: "https://www-cbr-com.cdn.ampproject.org/c/s/www.cbr.com/ai-dungeon
 type: article
 quality: 74
 heat: 74
+published: true
 
 provider:
   name: CBR
@@ -25,6 +26,6 @@ images:
     height: 700
     isCached: true
 
-secured: "fVP3k21+j/2ynZ1sS9dbqOyzwPYEQ+lWaDDZFUqYz0vJ3GAEdl7ompJ7MuHs2uwb8sSH+w5tNbd9bWF5YWCuebr7WT3FbSVPBKta8Bp/fzBCkUbF3TJ5mxgxYswGOMVEh/ieU8lu9E1q//08qNjmhZWWyoKLdcyVXaiPrUd62plrumHIncsuLWtoslsjnIlPD2QLAl9OJ11HzQXQxEKbZHcaW9WtDaTwW61tnI00kLjM7r/UA9GXZ8KPg4ZDEd63gInwjiwFp4Q9lGYAeskUnOB/6mlKcvufjgtSUN/mIUWjxvpLNkTK/g9w5cpy3e5YtpWEzEcXsIj6DWS6wtNiOtZmG4HQl3LMyRLPqPxmLEo=;MtFS/s3Vj0yyZFluPQ3f2A=="
+secured: "tREvBzGIvQ2cqTLUuyk/scoVeOIjYeSBZ5GZ4iYIpQbIWpnpkg0g6jW8StmUvkP0TrwWbqmZGCHL0lL6CNzoLUB1Qv8QcGlq3XIobAGndJa7YzwE8tuqkGGhw56d1YIXo8oi1AtADP2bggD1yuyajcDwzSgGQZCS/Or3pzrs/sL9CocC7ckDAHsapqx8SxdoaG8ikxCi+1VbvAh4SKxTL7lKm8d9cafmlNKpzHMAuMX+EIgVLhAK/A4dr5J9TVabCSQHhNDUnG5M9WZSiRYCGx+aTfSvgNKCV9hIfA5uaKW1Onmy29VGgG5jfRJMommI0pCNAAHzaDlrzcihEdDfxnJs++3ePlwSIuInYbiT7239+2tRZzaREVMVB9mzbv7waja3X2Q5K6ZjyMFqRKyL3yo+3hhMFF2cSMD+9j/FZi2yuR9ObYsWeL/qZ1JHPxuegTiRnYL7Tq1MBBgnCQz4DCk4j1PNgNOP7dQ5j9UC9NKmiOjdImtPEQRyLzjaJe9pJNR2q7p5b0x7GUaqyKg1KA==;JGNKzPY88iD84qKWgKeQ6g=="
 ---
 

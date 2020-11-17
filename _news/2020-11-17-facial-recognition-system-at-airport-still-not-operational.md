@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.whec.com/articles/facial-recognition-system-at-airport-s
 cdnAmpWebUrl: "https://amp-whec-com.cdn.ampproject.org/c/s/amp.whec.com/articles/facial-recognition-system-at-airport-still-not-operational-5926076.html"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://www.fairobserver.com/wp-content/uploads/2020/11/facial-recognition-1.jpg"
         width: 938
         height: 450
+        isCached: true
+  - title: "Exadel Releases CompreFace Open Source Facial Recognition Application"
+    excerpt: "Exadel ( a global provider of digital software engineering solutions and services, announced the release of CompreFace,"
+    publishedDateTime: 2020-11-17T14:20:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/exadel-releases-compreface-open-source-facial-recognition-application-301174985.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/524661/Exadel_Inc_Logo.jpg?p=facebook"
+        width: 597
+        height: 315
         isCached: true
 
 secured: "hdUXrQcGtxmOlbQq91Ed6ozugroiaJcoeJKm9MUdOhf2a4KWS6CndEpd/uvxGy911KAvDpN2I+iwwOAGifH9fqQMQ9xZ++r9SJ9DciNbxJm6LI6QNsg8O2juaBEj9ns5b1eIgy/VMafO0OcDYjDCws9VbpYWq/4FsWp5a+4GP7qKojaQkgmLVb2uRPEXuZzOKGYxna4e40tsWfXqmtXYuZZOv9qTg+OnqZ+11dMnKPL8+8j3rIAoXkspiiI5cU+NVEiassVgK20T8qvAGR/EKvWL2CKlklW8Onoansic8F+bjiHZ0ojuRV/QgX31lkle6EpRb3S6WvJetwN/ZVBc0J2A56jjwn0tCo7cuINKdMUmDQP7d1AvvZPx0tq6HZnNkcsWdBlCQf2yLA4Li6cR8ksZxW8vZp5yzgdBKRmZB+wxcEuOZNz3dr4MQuH2AR8ZiRyRO2uj0G7TxDsjHR14cfawZjRLl50jhONONdvgQI6sm3rHRxh0Px/FRK15ybWr4HbE5mNozK5aFfJfYrmyVA==;yQ3naP0PqVciz2iWeiWZ/Q=="

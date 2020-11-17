@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/11/13/uber-in-talks-to-sell-atg-self-dri
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/13/uber-in-talks-to-sell-atg-self-driving-unit-to-aurora/amp/"
 type: article
 quality: 74
-heat: 264
+heat: 274
 published: true
 
 provider:
@@ -269,6 +269,20 @@ related:
       - url: "https://www.techshout.com/wp-content/uploads/2019/04/uber-app.jpg"
         width: 720
         height: 733
+        isCached: true
+  - title: "Plagued With Bad Luck, Uber To Bid Adieu To Its Self-Driving Car Project"
+    excerpt: "Uber’s unit of the self-driving car known as Uber Advanced technologies aka UberATG, eighteen months ago, was valued at a whopping $7.2 billion after it"
+    publishedDateTime: 2020-11-17T16:14:00Z
+    webUrl: "https://dazeinfo.com/2020/11/17/uber-to-sell-self-driving-car-unit/"
+    type: article
+    provider:
+      name: Dazeinfo
+      domain: dazeinfo.com
+    quality: 23
+    images:
+      - url: "https://dazeinfo.com/wp-content/uploads/2020/11/72JSDTBMQII6RBUI4BJ3UWHR4Q-scaled.jpg"
+        width: 2560
+        height: 1697
         isCached: true
   - title: "Uber may sell self-driving tech group to Palo Alto-based Aurora Innovation"
     excerpt: "Uber Technologies Inc. is reportedly shopping its Advanced Technologies Group for sale. According to a report from TechCrunch and later Reuters, San Francisco-based Uber is in preliminary talks to sell its autonomous vehicle division,"

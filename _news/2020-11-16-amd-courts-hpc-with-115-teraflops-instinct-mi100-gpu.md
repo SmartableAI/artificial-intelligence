@@ -44,9 +44,9 @@ related:
   - title: "AMD launches MI100 GPU accelerator for high performance computing"
     excerpt: "AMD is looking to capitalize on its momentum with its EPYC server processor by pairing it with the Instinct MI100 GPU accelerator to gain in high performance computing."
     publishedDateTime: 2020-11-16T06:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
+    webUrl: "https://www.zdnet.com/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
     type: article
     provider:
       name: ZDNet

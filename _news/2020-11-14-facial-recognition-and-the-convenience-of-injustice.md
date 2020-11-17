@@ -55,6 +55,20 @@ related:
         width: 2080
         height: 1384
         isCached: true
+  - title: "Exadel Releases CompreFace Open Source Facial Recognition Application"
+    excerpt: "Exadel ( a global provider of digital software engineering solutions and services, announced the release of CompreFace,"
+    publishedDateTime: 2020-11-17T14:20:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/exadel-releases-compreface-open-source-facial-recognition-application-301174985.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/524661/Exadel_Inc_Logo.jpg?p=facebook"
+        width: 597
+        height: 315
+        isCached: true
 
 secured: "KmIowf5T8ZYjJ/FO/1lefe1ZwbE5oYMiP6MK0jArDBRahZEI5/AxP9OJ9Y5DrY6gNd4wn8vPZMJ5bFn0lpDcqvPHBAieiYuv8OmYwzR/0ncP/n0HEb5nSy48nrUn575yIsjG35kdWZwQLs7GA3Sf6EjK9z04WVZ+nUMN3TClN1S7UXh72v7UMUHxmNJ3p9OX6A2WL6CWjtKelSUAw3rNQMn3kh68dfwy2pQO2tm1igyT3IOvEwU/daVrCI0mUlSwd4ZXmLBbor69ZZdPal9AiP6aU3tGVLNelSNWgpVqqGHL++SydHveOTvGhtqzbIYPcHcZcGRN76jU5e+DtrKGyhGpgAb2ydTr44iBJ4qgxUU1p+5WbWtGxtL4zuFyyOCHrFPebmKxoDqVMxk1rxlQ5pSu5ki6aBrnoCJ062bE98SOcUgtSs+bi6RAp0r8sVfwrL+xR1rx1AOMp3OrX+KC08q8p3HglQMtqUy3adiDcCWEvWGgWydyijNVRmMWYIw3I9u4zY1FINF/yKKTsvwoHg==;2FJ0pz7OShgVzn/tnPPLOg=="
 ---

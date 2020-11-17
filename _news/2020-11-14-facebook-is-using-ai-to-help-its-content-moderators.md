@@ -78,6 +78,22 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Facebook using artificial intelligence to prioritise reported content"
+    excerpt: "Facebook on Tuesday said it has stepped up the use of artificial intelligence (AI) to “prioritise reported content”, a move that will help the social media giant take action faster on harmful and violative content. Facebook, which has 1.82 billion ..."
+    publishedDateTime: 2020-11-17T16:33:00Z
+    webUrl: "https://www.tribuneindia.com/news/science-technology/facebook-using-artificial-intelligence-to-prioritise-reported-content-171667"
+    ampWebUrl: "https://www.tribuneindia.com/news/science-technology/facebook-using-artificial-intelligence-to-prioritise-reported-content-171667"
+    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/facebook-using-artificial-intelligence-to-prioritise-reported-content-171667"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 57
+    images:
+      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/11/2020_11$largeimg_1253215704.jpeg"
+        width: 640
+        height: 426
+        isCached: true
 
 secured: "RuEah7eyLmCZ+F3w5/4swUgW0vBjlizN3XYaahvoHttCYMMDuJq55k4EJN1A5PWgoMBqiOq0XJX1qzoRTVlRcxKJCXk3ael5Wy5u8PB2f1md+I/IFPia2ixAwRotV9oztyL0ed7BOmwo2mvetqSIN+gtdRRQN1eM1fgvlDYjsJFIlXEuxEHZTY43tMF2+6/0UKyHvJzEmN2atd0zE5L71Qwb8cJQBF9qJwI0SrgPfrij9iCSJNhs56yQZbHRfITq0mAuSiwvmGw3o5XGCahvz16bEtaHFFeIWo70M0IaxqHbSmyM3hOi3mfbq+Nchw4Ym349lMD5ktu2MV3Rt+q97sP9hvDfDE6t3zlIDZ98y7JS8Dlo4cEBxedk5RT+1JS/UeN9w7JfgR7zVaz9nfVf7o1nz8P/v52VPc0N7gK4b2Az7vmFIGEgnqAoRIoXo0f6n+DP0FEhqOS1Uh5WrDiQ3qW9UfoCkDrln8MEQOfBnE0YnUoagWCp1bqzU1uQ2NELsblKF8j51d3KKm8skCaBDA==;0D1ckImqo5ddlDgUbV3RzQ=="
 ---

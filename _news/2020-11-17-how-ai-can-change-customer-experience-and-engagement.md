@@ -10,6 +10,7 @@ cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/site
 type: article
 quality: 87
 heat: 87
+published: true
 
 provider:
   name: Forbes
@@ -28,6 +29,6 @@ images:
     height: 798
     isCached: true
 
-secured: "O3Q4+fRLNXjvbjBFEaNubgjZzMvZwdzHKyltVqmSbRE6XGfuqZMFO7z+ZCCd/Ao45z1CZ0Gi0mJJ5nvYtNm2C/G5pv9g0tdx8TjgzZXYGexyHjygD/n2+AVxoNE3NRVCX8xWQ4RRUf7ddniGGjJ0poV465ymB1CUukUxHGHJx9YLtN7Z/NO378+z60Z+cYfjV9NuVqFuANgnqNlczqVRQYfxv1JNlB5rXwrugU+QPTQ2yTu8Ayb/j/0kGNvrVIdewYeDxq5SX/zjc1o9hQhwmaEp9DXHQBxzEJntdzxTIclOTvd+enDSstgd/1ZG9oTfeLb9rf2nGBV3pdnq9wcvod85P6NdoXp62OjDnk54lEk=;lAsLqcRHviV0wpdRyt1p8Q=="
+secured: "E0rJuALOzl0h6TWkbr3V4h4Bh2ni+IdeqejVgCsR76ZNfmFFZxpAXd+c2910yBi712faa8I/YEGxfFK9+KFe1Kmz5rKr8LY5Knh9wlTrbR4W+7QaBDowF2nMrMKDxc5CFTQ1vC+0KF4OzNHZ0oyntoyWPyTLBjS1irc0Zhok8In18Qzyl4/o7t56NUi80lhnODlnoAyXCwZhl2rmSAcxJ4B/MY9ogeRCnba7rDGUmckWcq1LdSGawDsvttD4HQiHXMZRi5iIFdPgRmCQ2zttR/sFU76RigT1Omp7itXb0mOabvfmDXehEeG4xE7/jcYdEho//Zxl/fLuk9F4Uh5OlQhXmhyeeBdGt1mk5pKAf5u+nXhTtt8qIH4pw/MQi7HXpUiwAWLA2cr3lfFPtwltwSe18FLrvi+n9ydosvchnW801o3hlg0shzU7X5G1yX8cCrdOQZmT5T/pfD3pIZ8cDFZggbEaG5aMbuLFJrs5d993N1KlDY83i/24sdh0LoFC+WuAgI5aWPDWi77jXDn4dg==;/+mxYEz0o+swHG6W+OttVw=="
 ---
 

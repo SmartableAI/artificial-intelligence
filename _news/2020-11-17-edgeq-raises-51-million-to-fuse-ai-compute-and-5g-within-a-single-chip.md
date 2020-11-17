@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/11/17/edgeq-raises-51-million-to-fuse-ai
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/17/edgeq-raises-51-million-to-fuse-ai-compute-and-5g-within-a-single-chip/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 680
     height: 453
     isCached: true
+
+related:
+  - title: "Chip Startup Merges AI, 5G at the Edge"
+    excerpt: "The low-latency connectivity of 5G wireless is being combined with AI-based computing in an edge platform unveiled by a system-on-chip startup emerging"
+    publishedDateTime: 2020-11-17T18:20:00Z
+    webUrl: "https://www.datanami.com/2020/11/17/chip-startup-merges-ai-5g-at-the-edge/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 34
 
 secured: "BV5+VKJFLFye27v02tkyeD9ObtJdlOHhnIYj1m+fxs6VGg26d1JjUiDg8ZKU+ZPmFkTmF/O/SLKWb35FXrZzgeRvXT12h0bo7XWsNmGVrL6NS7TffKZIGZi/Nn3ax/HVweJ28BvFFtzmGgv3cHpVcQTkYu2a0aCklYjYGFLSju81MK2J0LQmPPQ++M/p2DyKt8MxSHeuxHrMqx5fo4KuTHBvItVQU1ckL+3q2cZvb6mNkuO6N/fRO8DoBjOVGmQ0kmiT3cyNcW3ywSTUYfvlpZQRj0U0LphPtQfsqaXnOxu6QSgq3uABN2XQbDlJwrDi1QAfTdfMF1mvNgeSexmfO8KnXjpfmqA6xjxR0l555ej8rTLp5e8dREGHCzvj9gTp9U/+e50/IN7ONS9ePMRV5E/ezPWXynwkt0s6aTTWZJAwb1C6xcCKAWi6Ir13RyEnn/9Df7ZnCXEUknrP6S7GvkLJZUB1ZjxVNAUDEEUc6tIasvp7zJBld/eKEp11e8VqLqbId1HF2KlQUayGQrpRnw==;h0QwQcbqzd2D50XuYxEyzw=="
 ---

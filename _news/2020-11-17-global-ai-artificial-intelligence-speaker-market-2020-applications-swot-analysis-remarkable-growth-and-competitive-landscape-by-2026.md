@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI (Artificial Intelligence) Chip Market By Chip Type, By Technology, By Application, By Industry Vertical, And Segment Forecasts, 2019-2027"
+    excerpt: "Chip Market Forecast to 2027 The Global AI (Artificial Intelligence) Chip Market report presents a comprehensive analysis of the AI (Artificial Intelligence) Chip market by offering valuable insights to assist the businesses and key players in formulating fruitful strategies during the forecast timeline of 2020-2027."
+    publishedDateTime: 2020-11-16T15:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-artificial-intelligence-chip-market-by-chip-type-by-technology-by-application-by-industry-vertical-and-segment-forecasts-2019-2027-2020-11-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice and Speech Recognition Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
     excerpt: "Selbyville, Delaware According to the research report titled 'Voice and Speech Recognition Market Share, Size, Trends, Industry Analysis Report By Component; By Interface; By End-User; By Regions, Segments & Forecast,"
     publishedDateTime: 2020-11-13T07:19:00Z
@@ -42,34 +56,17 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Size, Growth Research Analysis and Share to reach around US $54 Bn by 2026 - Industry News"
-    excerpt: "Global artificial intelligence market Size, Share is estimated to amass around US $54 billion by the year 2026, according to the latest research available at Market Study Report LLC, report provides extensively data on market Analysis,"
-    publishedDateTime: 2020-11-17T14:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-growth-research-analysis-and-share-to-reach-around-us-54-bn-by-2026---industry-news-2020-11-17"
+  - title: "Global Sports Technology Market 2020-2027 - Artificial Intelligence (AI) and Internet of Things (IoT) to Provide Growth Opportunities"
+    excerpt: "The \"Sports Technology Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component and Technology\" report has been added to ResearchAndMarkets.com's offering. Increasing popularity of esports,"
+    publishedDateTime: 2020-11-17T10:53:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-sports-technology-market-2020-2027-artificial-intelligence-ai-and-internet-of-things-iot-to-provide-growth-opportunities-1029809825"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/Global-Sports-Technology-Market-2020-2027-Artificial-Intelligence-AI-and-Internet-of-Things-IoT-to-Provide-Growth-Opportunities-1029809825"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Global-Sports-Technology-Market-2020-2027-Artificial-Intelligence-AI-and-Internet-of-Things-IoT-to-Provide-Growth-Opportunities-1029809825"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cognitive Services Market 2020 Industry Analysis, Global Trends, Market Size, Share, and Growth Opportunities Forecast to 2025"
-    excerpt: "Market Demand, Growth, Opportunities and Analysis Of Top Key Player Forecast To 2025” To Its Research Database Global Cognitive Services Market is accounted for $2.15 billion in 2017 and is expected to reach $40."
-    publishedDateTime: 2020-11-13T00:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-2020-industry-analysis-global-trends-market-size-share-and-growth-opportunities-forecast-to-2025-2020-11-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
   - title: "AI Based Fever Detection Camera Market Share, Growth, Size, Opportunities, Trends, Regional Overview, Analysis and Key Country Forecast To 2027"
     excerpt: "Fortune Business Insights offers a detailed overview of the global market in a report, titledThe globalAI based"
     publishedDateTime: 2020-11-17T12:08:00Z
@@ -84,6 +81,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "China Automotive Cockpit SoC Technology and Application Market 2020: Cockpit SoC Supports More Displays, Beefs up AI, and Improves Functional Safety"
+    excerpt: "The \"China Automotive Cockpit SoC Technology and Application Research Report, 2020\" report has been added to ResearchAndMarkets.com's offering. Cockpit SoC Supports More Displays, Beefs up AI, and Improves Functional Safety Intelligent vehicle E/E architecture ushers in a period of intra-domain integration to trans-domain convergence and to central computer from the distributed one."
+    publishedDateTime: 2020-11-16T08:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/china-automotive-cockpit-soc-technology-and-application-market-2020-cockpit-soc-supports-more-displays-beefs-up-ai-and-improves-functional-safety-1029804693"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/China-Automotive-Cockpit-SoC-Technology-and-Application-Market-2020-Cockpit-SoC-Supports-More-Displays-Beefs-up-AI-and-Improves-Functional-Safety-1029804693"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/China-Automotive-Cockpit-SoC-Technology-and-Application-Market-2020-Cockpit-SoC-Supports-More-Displays-Beefs-up-AI-and-Improves-Functional-Safety-1029804693"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
   - title: "Global Artificial Intelligence Market 2020-2025: Industry Analysis, Market Growth, Opportunities and Forecast to 2025"
     excerpt: "The report “Global Artificial Intelligence Market 2020-2025” analyses the global market size by Regions, Sector, Component, Technology, Organization Size. The report also evaluates the market size of Top 5 AI companies,"
     publishedDateTime: 2020-11-16T10:07:00Z

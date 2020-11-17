@@ -7,7 +7,7 @@ originalUrl: "https://www.massdevice.com/lantheus-gains-fda-clearance-for-bone-s
 webUrl: "https://www.massdevice.com/lantheus-gains-fda-clearance-for-bone-scan-ai/"
 type: article
 quality: 37
-heat: 57
+heat: 37
 published: false
 
 provider:

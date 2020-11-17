@@ -2,6 +2,504 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-13-aws-expands-language-support-for-amazon-lex-and-amazon-polly.md",
+      "title": "AWS expands language support for Amazon Lex and Amazon Polly",
+      "excerpt": "At AWS, our mission is to enable developers and businesses with no prior machine learning (ML) expertise to easily build sophisticated, scalable, ML-powered applications with our AI services. Today, we’re excited to announce that Amazon Lex and Amazon Polly are expanding language support. You can build",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-expands-language-support-for-amazon-lex-and-amazon-polly/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-expands-language-support-for-amazon-lex-and-amazon-polly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/12/LexConsole.jpg",
+          "width": 900,
+          "height": 361,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-12T16:58:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-pope-francis-pray-that-robots-dont-turn-against-us.md",
+      "title": "Pope Francis: Pray that robots don’t turn against us",
+      "excerpt": "Pope Francis urged Catholics to pray that artificial intelligence and robots “always serve mankind” instead of stripping humanity of its “dignity,” according to a report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/world/pope-francis-pray-that-robots-dont-turn-against-us",
+      "originalUrl": "https://www.foxnews.com/world/pope-francis-pray-that-robots-dont-turn-against-us",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0d8af3a9-e39f-4213-be3f-7bf2c5f2c1d1/69d728c1-8474-4cb2-8f78-2dc90220c6b0/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/world/pope-francis-pray-that-robots-dont-turn-against-us.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/pope-francis-pray-that-robots-dont-turn-against-us.amp",
+      "publishedDateTime": "2020-11-12T16:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-join-the-final-lap-of-the-2020-deepracer-league-at-aws-reinvent-2020.md",
+      "title": "Join the Final Lap of the 2020 DeepRacer League at AWS re:Invent 2020",
+      "excerpt": "AWS DeepRacer is the fastest way to get rolling with machine learning (ML). It’s a fully autonomous 1/18th scale race car driven by reinforcement learning, a 3D racing simulator, and a global racing league. Throughout 2020, tens of thousands of developers honed their ML skills and competed in the League’s",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/join-the-final-lap-of-the-2020-deepracer-league-at-aws-reinvent-2020/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/join-the-final-lap-of-the-2020-deepracer-league-at-aws-reinvent-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/13/img_AWSDeepRacer2020reInvent_Championship-545x630.jpg",
+          "width": 545,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-12T16:33:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-daimler-will-shrink-with-shift-to-electric-autonomous-cars-ceo.md",
+      "title": "Daimler will shrink with shift to electric, autonomous cars: CEO",
+      "excerpt": "Daimler <DAIGn.DE> will be a smaller company five years from now, focused on capturing recurring revenues with software-based services as Mercedes-Benz seeks to redefine luxury in an era of electric self-driving cars,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/daimler-china-idUSKBN27S2QA",
+      "originalUrl": "https://www.reuters.com/article/daimler-china-idUSKBN27S2QA",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1541007459&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB1O7",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27S2QA",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S2QA",
+      "publishedDateTime": "2020-11-12T14:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-artificial-intelligence-and-robotics-be-careful-what-you-wish-for.md",
+      "title": "Artificial intelligence and robotics: Be careful what you wish for",
+      "excerpt": "There may come a time, within the next three to four decades, when we have robots that are smarter and more independent than we want them to be.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymaverick.co.za/opinionista/2020-11-12-artificial-intelligence-and-robotics-be-careful-what-you-wish-for/",
+      "originalUrl": "https://www.dailymaverick.co.za/opinionista/2020-11-12-artificial-intelligence-and-robotics-be-careful-what-you-wish-for/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymaverick.co.za/opinionista/2020-11-12-artificial-intelligence-and-robotics-be-careful-what-you-wish-for/amp/",
+      "cdnAmpWebUrl": "https://www-dailymaverick-co-za.cdn.ampproject.org/c/s/www.dailymaverick.co.za/opinionista/2020-11-12-artificial-intelligence-and-robotics-be-careful-what-you-wish-for/amp/",
+      "publishedDateTime": "2020-11-12T14:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Maverick",
+        "domain": "dailymaverick.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-measuring-forecast-model-accuracy-to-optimize-your-business-objectives-with-amazon-forecast.md",
+      "title": "Measuring forecast model accuracy to optimize your business objectives with Amazon Forecast",
+      "excerpt": "We’re excited to announce that you can now measure the accuracy of your forecasting model to optimize the trade-offs between under-forecasting and over-forecasting costs, giving you flexibility in experimentation. Costs associated with under-forecasting and over-forecasting differ. Generally, over-forecasting",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/measuring-forecast-model-accuracy-to-optimize-your-business-objectives-with-amazon-forecast/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/measuring-forecast-model-accuracy-to-optimize-your-business-objectives-with-amazon-forecast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/12/Measuring-forecast-model-accuracy-1.jpg",
+          "width": 661,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-12T14:04:11-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-why-children-need-to-learn-about-artificial-intelligence.md",
+      "title": "Why Children Need To Learn About Artificial Intelligence",
+      "excerpt": "Demystifying AI for our children in all its complexity while providing them with an early insight into its promises and perils will make them confident in their ability to understand and control this incredible technology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/juliabrodsky/2020/11/12/why-children-need-to-learn-about-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/juliabrodsky/2020/11/12/why-children-need-to-learn-about-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fada38b86692c56068a44f5%2F0x0.jpg",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/juliabrodsky/2020/11/12/why-children-need-to-learn-about-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/juliabrodsky/2020/11/12/why-children-need-to-learn-about-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-11-12T13:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-new-orleans-police-department-using-facial-recognition-despite-years-of-denial.md",
+      "title": "New Orleans Police Department using facial recognition despite years of denial",
+      "excerpt": "Explaining its previous denials, the department said that it doesn’t employ its own facial recognition software. Instead, it accesses the technology through state and federal partners. An ACLU lawyer said that was a ‘distinction without a difference.",
+      "sourceUrl": null,
+      "webUrl": "https://thelensnola.org/2020/11/12/new-orleans-police-department-using-facial-recognition-despite-years-of-denial/",
+      "originalUrl": "https://thelensnola.org/2020/11/12/new-orleans-police-department-using-facial-recognition-despite-years-of-denial/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/thelensnola.org/wp-content/uploads/2020/11/DSC_8767-scaled.jpg?fit=2560%2C1709&ssl=1",
+          "width": 2560,
+          "height": 1709,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thelensnola.org/2020/11/12/new-orleans-police-department-using-facial-recognition-despite-years-of-denial/",
+      "cdnAmpWebUrl": "https://thelensnola-org.cdn.ampproject.org/c/s/thelensnola.org/2020/11/12/new-orleans-police-department-using-facial-recognition-despite-years-of-denial/",
+      "publishedDateTime": "2020-11-12T12:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Lens",
+        "domain": "thelensnola.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-aws-finance-and-global-business-services-builds-an-automated-contract-processing-platform-using-amazon-textract-and-amazon-comprehend.md",
+      "title": "AWS Finance and Global Business Services builds an automated contract-processing platform using Amazon Textract and Amazon Comprehend",
+      "excerpt": "Processing incoming documents such as contracts and agreements is often an arduous task. The typical workflow for reviewing signed contracts involves loading, reading, and extracting contractual terms from agreements, which requires hours of manual effort and intensive labor. At AWS Finance and Global",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-finance-and-global-business-services-builds-an-automated-contract-processing-platform-using-amazon-textract-and-amazon-comprehend/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-finance-and-global-business-services-builds-an-automated-contract-processing-platform-using-amazon-textract-and-amazon-comprehend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/09/AWS-Finance-and-Global-Business-2.jpg",
+          "width": 800,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-12T12:42:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-sonos-takes-a-step-forward-in-internet-radio-with-superhifis-ai-technology.md",
+      "title": "Sonos Takes A Step Forward In Internet Radio With SuperHiFi’s AI Technology",
+      "excerpt": "Sonos launched a paid subscription Internet radio service today. It uses AI-based technology from a startup called SuperHiFi that creates lavishly-produced programming automatically and in real time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/billrosenblatt/2020/11/12/sonos-takes-a-step-forward-in-internet-radio-with-superhifis-ai-technology/",
+      "originalUrl": "https://www.forbes.com/sites/billrosenblatt/2020/11/12/sonos-takes-a-step-forward-in-internet-radio-with-superhifis-ai-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fad838635844ab493ce3cd6%2F0x0.jpg",
+          "width": 1199,
+          "height": 781,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/billrosenblatt/2020/11/12/sonos-takes-a-step-forward-in-internet-radio-with-superhifis-ai-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billrosenblatt/2020/11/12/sonos-takes-a-step-forward-in-internet-radio-with-superhifis-ai-technology/amp/",
+      "publishedDateTime": "2020-11-12T11:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-waymo-throws-shade-at-tesla-and-elon-musk-over-self-driving-comments.md",
       "title": "Waymo throws shade at Tesla and Elon Musk over self-driving comments",
       "excerpt": "Waymo is throwing shade at Tesla and Elon Musk over comments that the latter has made about the usefulness of the former’s self-driving technology. There are dozens of high-profile companies working on solving self-driving and just as many different approaches,",
@@ -147,6 +645,58 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-octoml-announces-speaker-line-up-for-3rd-annual-apache-tvm-conference-focused-on-advances-in-deep-learning-compilation-and-optimization.md",
+      "title": "OctoML Announces Speaker Line-Up for 3rd Annual Apache TVM Conference Focused on Advances in Deep Learning Compilation and Optimization",
+      "excerpt": "OctoML, the MLOps automation company for superior model performance, portability and productivity, today announced the speaker line-up for the Apache TVM and Deep Learning Compilation Conference. The free virtual conference will cover the state of the art of deep learning compilation and optimization and recent advances in frameworks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/octoml-announces-speaker-line-up-for-3rd-annual-apache-tvm-conference-focused-on-advances-in-deep-learning-compilation-and-optimization-2020-11-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/octoml-announces-speaker-line-up-for-3rd-annual-apache-tvm-conference-focused-on-advances-in-deep-learning-compilation-and-optimization-2020-11-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-12T10:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -691,549 +1241,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-madrona-leads-26m-round-for-othersideai-a-startup-using-gpt-3-tech-to-write-automated-emails.md",
-      "title": "Madrona leads $2.6M round for OthersideAI, a startup using GPT-3 tech to write automated emails",
-      "excerpt": "“We strongly believe that AI and Natural Language Processing technologies such as GPT-3 will transform many aspects of our lives — from work to our health to leisure,” Madrona Managing Director Matt McIlwain said in a statement. Madrona did launch a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/madrona-leads-2-6m-round-othersideai-startup-using-gpt-3-tech-write-automated-emails/",
-      "originalUrl": "https://www.geekwire.com/2020/madrona-leads-2-6m-round-othersideai-startup-using-gpt-3-tech-write-automated-emails/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/11/Comp-4_9.gif",
-          "width": 1920,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/madrona-leads-2-6m-round-othersideai-startup-using-gpt-3-tech-write-automated-emails/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/madrona-leads-2-6m-round-othersideai-startup-using-gpt-3-tech-write-automated-emails/amp/",
-      "publishedDateTime": "2020-11-12T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-samsungs-new-midrange-chip-supports-5g-and-200mp-cameras.md",
-      "title": "Samsung’s new midrange chip supports 5G and 200MP cameras",
-      "excerpt": "But the Big A is hardly the only tech giant boasting new chips: Samsung has lifted the lid on its new midrange mobile chip, the Exynos 1080. The chipset, which combines 5G capabilities with enhanced AI features,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/plugged/2020/11/12/samsung-exynos-1080-5g-chip/",
-      "originalUrl": "https://thenextweb.com/plugged/2020/11/12/samsung-exynos-1080-5g-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/samsung-exynos-1080-5g-796x395.png",
-          "width": 796,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/plugged/2020/11/12/samsung-exynos-1080-5g-chip/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/plugged/2020/11/12/samsung-exynos-1080-5g-chip/amp/",
-      "publishedDateTime": "2020-11-12T05:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-doit-international-named-aws-reseller-partner-of-the-year.md",
-      "title": "DoiT International Named AWS Reseller Partner of the Year",
-      "excerpt": "DoiT International has announced today that it has been named the 2020 AWS Reseller Partner of the Year in Israel. SANTA CLARA, California, Nov.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/doit-international-named-aws-reseller-partner-of-the-year-1029796343",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/doit-international-named-aws-reseller-partner-of-the-year-1029796343",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/doit-international-named-aws-reseller-partner-of-the-year-1029796343",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/doit-international-named-aws-reseller-partner-of-the-year-1029796343",
-      "publishedDateTime": "2020-11-12T05:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-super-glue-your-consumer-connections-with-ai.md",
-      "title": "Super Glue Your Consumer Connections With AI",
-      "excerpt": "In today's hyper-fragmented, pandemic-influenced world, retailers and marketers alike are struggling to keep up with quickly changing shopping behaviors and media consumption.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/11/12/super-glue-your-consumer-connections-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/11/12/super-glue-your-consumer-connections-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef33ef244713a0007ed4825%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/11/12/super-glue-your-consumer-connections-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/11/12/super-glue-your-consumer-connections-with-ai/amp/",
-      "publishedDateTime": "2020-11-12T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-at-just-22mb-googles-new-speech-filtering-tech-is-perfect-for-mobile-apps.md",
-      "title": "At just 2.2MB, Google’s new speech filtering tech is perfect for mobile apps",
-      "excerpt": "Google has plenty of apps on your phone that use speech detection from Google Assistant to Google Translate and Pixel’s nifty recorder app. However, one of the challenges these apps face is separating your voice from other people or background noise.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/11/12/at-just-2-2mb-googles-new-speech-filtering-tech-is-perfect-for-mobile-apps/",
-      "originalUrl": "https://thenextweb.com/neural/2020/11/12/at-just-2-2mb-googles-new-speech-filtering-tech-is-perfect-for-mobile-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/share-1-796x418.png",
-          "width": 796,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/11/12/at-just-2-2mb-googles-new-speech-filtering-tech-is-perfect-for-mobile-apps/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/12/at-just-2-2mb-googles-new-speech-filtering-tech-is-perfect-for-mobile-apps/amp/",
-      "publishedDateTime": "2020-11-12T04:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-why-ai-cant-move-forward-without-diversity-equity-and-inclusion.md",
-      "title": "Why AI can’t move forward without diversity, equity, and inclusion",
-      "excerpt": "VentureBeat event, will explore bias, racism, and the lack of diversity across AI product development and management.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/12/why-ai-cant-move-forward-without-diversity-equity-and-inclusion/",
-      "originalUrl": "https://venturebeat.com/2020/11/12/why-ai-cant-move-forward-without-diversity-equity-and-inclusion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/GettyImages-1204561139.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/12/why-ai-cant-move-forward-without-diversity-equity-and-inclusion/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/12/why-ai-cant-move-forward-without-diversity-equity-and-inclusion/amp/",
-      "publishedDateTime": "2020-11-12T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-how-yoox-net-a-porter-is-using-artificial-intelligence-to-revive-artisan-craft.md",
-      "title": "How YOOX NET-A-PORTER Is Using Artificial Intelligence To Revive Artisan Craft",
-      "excerpt": "PORTER team worked with The Prince via The Prince’s Foundation to create a unique year-long apprenticeship to cultivate the next generation of luxury fashion artisans, informed and guided by customer shopping data and AI analysis of millions of images of historically",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brookerobertsislam/2020/11/12/how-yoox-net-a-porter-is-using-artificial-intelligence-to-revive-artisan-craft/",
-      "originalUrl": "https://www.forbes.com/sites/brookerobertsislam/2020/11/12/how-yoox-net-a-porter-is-using-artificial-intelligence-to-revive-artisan-craft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fad257d47fbda414135cd72%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2048%26cropY1%3D0%26cropY2%3D1152",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brookerobertsislam/2020/11/12/how-yoox-net-a-porter-is-using-artificial-intelligence-to-revive-artisan-craft/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brookerobertsislam/2020/11/12/how-yoox-net-a-porter-is-using-artificial-intelligence-to-revive-artisan-craft/amp/",
-      "publishedDateTime": "2020-11-12T04:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-ibm-amd-ink-joint-development-pact-for-security-artificial-intelligence-offerings.md",
-      "title": "IBM, AMD ink joint development pact for security, Artificial Intelligence offerings",
-      "excerpt": "This will also support a broad range of accelerators across high-performance computing (HPC), and enterprise-critical capabilities such as virtualisation and encryptions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/business/2020/nov/12/ibm-amd-ink-joint-development-pact-for-security-artificial-intelligenceofferings-2222892.html",
-      "originalUrl": "https://www.newindianexpress.com/business/2020/nov/12/ibm-amd-ink-joint-development-pact-for-security-artificial-intelligenceofferings-2222892.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2019/12/25/w600X390/declare_AI.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/business/2020/nov/12/ibm-amd-ink-joint-development-pact-for-security-artificial-intelligenceofferings-2222892.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2020/nov/12/ibm-amd-ink-joint-development-pact-for-security-artificial-intelligenceofferings-2222892.amp",
-      "publishedDateTime": "2020-11-12T04:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-how-ai-can-help-combat-slavery-and-free-40-million-victims.md",
-      "title": "How AI Can Help Combat Slavery And Free 40 Million Victims",
-      "excerpt": "Emerging technology, including artificial intelligence, can help combat slavery by revealing trends in payments and helping identify victims to police.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/11/12/how-ai-can-help-combat-slavery-and-free-40-million-victims/",
-      "originalUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/11/12/how-ai-can-help-combat-slavery-and-free-40-million-victims/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faa6f2cec660f3c8a133f08%2F0x0.jpg",
-          "width": 1200,
-          "height": 852,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/11/12/how-ai-can-help-combat-slavery-and-free-40-million-victims/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/worldeconomicforum/2020/11/12/how-ai-can-help-combat-slavery-and-free-40-million-victims/amp/",
-      "publishedDateTime": "2020-11-12T02:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-telus-makes-foray-into-agriculture-using-ai-to-help-food-chain.md",
-      "title": "Telus Makes Foray Into Agriculture Using AI to Help Food Chain",
-      "excerpt": "One of Canada’s biggest telecommunications companies is making a foray into agriculture, using technologies such as artificial intelligence to help farmers and ranchers optimize efforts across the food chain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-11-12/telus-makes-foray-into-agriculture-using-ai-to-help-food-chain",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-11-12/telus-makes-foray-into-agriculture-using-ai-to-help-food-chain",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibifokI9WJVQ/v1/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-11-12/telus-makes-foray-into-agriculture-using-ai-to-help-food-chain",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-12/telus-makes-foray-into-agriculture-using-ai-to-help-food-chain",
-      "publishedDateTime": "2020-11-12T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-christian-frahms-united-fintech-to-ease-banks-digitization.md",
-      "title": "Christian Frahm’s United Fintech to Ease Bank’s Digitization",
-      "excerpt": "Fintech veteran Christian Frahm has launched United Fintech, a company that is aiming to provide banks and other financial institutions access to capital market-focused digital technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financemagnates.com/fintech/news/christian-frahms-united-fintech-to-ease-banks-digitization/",
-      "originalUrl": "https://www.financemagnates.com/fintech/news/christian-frahms-united-fintech-to-ease-banks-digitization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financemagnates.com/wp-content/uploads/2020/11/fintech.jpg",
-          "width": 722,
-          "height": 414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financemagnates.com/fintech/news/christian-frahms-united-fintech-to-ease-banks-digitization/amp/",
-      "cdnAmpWebUrl": "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/christian-frahms-united-fintech-to-ease-banks-digitization/amp/",
-      "publishedDateTime": "2020-11-12T00:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finance Magnates",
-        "domain": "financemagnates.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

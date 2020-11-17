@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Opinion: Healthcare AI systems are biased"
+    excerpt: "Thanks to advances in artificial intelligence (AI) and machine learning, computer systems can now diagnose skin cancer like a dermatologist would, pick out a stroke on a CT scan like a radiologist, and even detect potential cancers on a colonoscopy like a gastroenterologist."
+    publishedDateTime: 2020-11-17T18:28:00Z
+    webUrl: "https://www.healthleadersmedia.com/innovation/opinion-healthcare-ai-systems-are-biased"
+    type: article
+    provider:
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 54
+    images:
+      - url: "https://www.healthleadersmedia.com/sites/hlmp/themes/hlmp/release/hlm_redesign/images/footer-logo.png"
+        width: 500
+        height: 211
+        isCached: true
   - title: "How artificial intelligence is reshaping health care"
     excerpt: "After years of hype about the impact artificial intelligence (AI) could have on health care, many experts believe that we are now on a cusp of a revolution in which AI will reshape various aspects"
     publishedDateTime: 2020-11-13T16:03:00Z

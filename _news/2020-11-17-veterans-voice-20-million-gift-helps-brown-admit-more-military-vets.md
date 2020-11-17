@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.providencejournal.com/amp/6285795002"
 cdnAmpWebUrl: "https://amp-providencejournal-com.cdn.ampproject.org/c/s/amp.providencejournal.com/amp/6285795002"
 type: article
 quality: 44
-heat: 54
+heat: 44
 published: false
 
 provider:

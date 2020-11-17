@@ -9,7 +9,7 @@ ampWebUrl: "https://www.driving.co.uk/news/technology/jaguar-land-rover-open-sel
 cdnAmpWebUrl: "https://www-driving-co-uk.cdn.ampproject.org/c/s/www.driving.co.uk/news/technology/jaguar-land-rover-open-self-driving-smart-city-hub/amp/"
 type: article
 quality: 44
-heat: 54
+heat: 44
 published: false
 
 provider:

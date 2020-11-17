@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-medicine-market-to-reach-1500000-million-by-2026---facts-factors-2020-11-17"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Artificial Intelligence Market Size, Growth Research Analysis and Share to reach around US $54 Bn by 2026 - Industry News"
+    excerpt: "Global artificial intelligence market Size, Share is estimated to amass around US $54 billion by the year 2026, according to the latest research available at Market Study Report LLC, report provides extensively data on market Analysis,"
+    publishedDateTime: 2020-11-17T14:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-growth-research-analysis-and-share-to-reach-around-us-54-bn-by-2026---industry-news-2020-11-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "CO4E6P962w7ZeIW4bW1SgHgS2VtdpbSl5P1EnMyJwK2RzfpRK8cgqsHqi+igoF3J9pMv6dFbYBbxaqwgdLiS56FjvNzX4JVqqvnmA/ELZwPR5oYz3X8hI48UFcrVil/a7xGV4YTQ5W+Mc2c+vA+vrNa/f4bR9IcmCCJO/9o78pNovIxjeZPklBLVtOZj2MXrdkRdSpm8wAK6Xx0KCxKxaw0t68AcMdw6VWn4R14iHCxuRMp8zv6IKssb1uIGHbRz1leaQZ/FWL97yZw3HGqkQojxyrHetRdFt5/6YQsEOAogSAsZDwuFDLdWSga8Y9GdTjj+Wl6CZQEiIurZHwiBHT2tzTuZhoQE1KajJDwO8jw=;HGDIDbTdQrIKWsedd8pL7w=="
 ---

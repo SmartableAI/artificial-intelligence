@@ -7,8 +7,8 @@ originalUrl: "https://roboticsandautomationnews.com/2020/11/16/machine-learning-
 webUrl: "https://roboticsandautomationnews.com/2020/11/16/machine-learning-in-banking-and-marketing-applications-for-2021-and-beyond/38220/"
 type: article
 quality: 71
-heat: 91
-published: true
+heat: -1
+published: false
 
 provider:
   name: Robotics & Automation News
@@ -37,20 +37,45 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 69
-  - title: "AI (Artificial Intelligence) Chip Market By Chip Type, By Technology, By Application, By Industry Vertical, And Segment Forecasts, 2019-2027"
-    excerpt: "Chip Market Forecast to 2027 The Global AI (Artificial Intelligence) Chip Market report presents a comprehensive analysis of the AI (Artificial Intelligence) Chip market by offering valuable insights to assist the businesses and key players in formulating fruitful strategies during the forecast timeline of 2020-2027."
-    publishedDateTime: 2020-11-16T15:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-artificial-intelligence-chip-market-by-chip-type-by-technology-by-application-by-industry-vertical-and-segment-forecasts-2019-2027-2020-11-16"
+    quality: 71
+  - title: "Deep Learning: Global Markets"
+    excerpt: "Reportlinker.com announces the release of the report \"Deep Learning: Global Markets\" -  Revenue forecasts for this period are segmented by offering, end user and region. Market values have been estimated based on the total revenues of hardware,"
+    publishedDateTime: 2020-11-16T11:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/deep-learning-global-markets-1029805190"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/Deep-Learning-Global-Markets-1029805190"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Deep-Learning-Global-Markets-1029805190"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+  - title: "Applying machine learning to making mechanical parts"
+    excerpt: "Computer vision researchers use machine learning to train computers in visually recognizing objects – but very few apply machine learning to mechanical parts"
+    publishedDateTime: 2020-11-16T14:11:00Z
+    webUrl: "https://www.controleng.com/articles/applying-machine-learning-to-making-mechanical-parts/"
+    type: article
+    provider:
+      name: Control Engineering
+      domain: controleng.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2020/11/CTL2011_WEB_IMG_Purdue_MachineLearning.jpg"
+        width: 645
+        height: 350
+        isCached: true
+  - title: "Global Artificial Intelligence in Automotive Market Status, Prospect, and Forecast 2020 to 2026 – MarketDesk"
+    excerpt: "MarketDesk : Artificial Intelligence in Automotive Market Report brings a systematic perspective of the market execution worldwide and additionally the regional situation. In a detailed section shrewd arrangement,"
+    publishedDateTime: 2020-11-13T05:43:00Z
+    webUrl: "https://apnews.com/press-release/wired-release/technology-business-corporate-news-products-and-services-automobile-manufacturing-e8baf7444f1f6adb69aae50f1730547a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 18
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "J10hhvv5AsC1Vd0hG+gJNMOO9JLiovleo6vFxas3brv+wdfdXa3FIp0CjbgreFTRFliXk1VsVHUcwflAde4gEc1oPaiJL7bprFS/V0BCT9L01tMNNOYK2JxARiT7PoaU+xpNV+GPTaqUNI57r6zJlsFV/gI4LGOe3D4eByYMbue+yQLZCk5adTVDx8f688RbfNNDMNkmbS8HqWSi5X/02e1HhGESO9nyWNSf4KZr6zfUTbi0plVLTBbim/aXXeAfA/r9SvRpELw46NaBSK5JkZ0H4HzAKZ3UXiuMDFxYTVfbVJhmy0AN7dCpJSDTptkO8ezlxjwqQki0W0QkoCRQz+Rzvx6iplpckGbYe8AYQfcChnRvNQBB9FERLLIK41MF3pkQTAQ4L/3ZanZhyVy9b7B/xrdM93W/SrQKML4XQs8fq9g7UN/TEiIiEhqZvdB9u8yUpYdNp6IKUCcfN2N8WmU1dFvMU+g9h6Nt6jjn7CBGkEPJLlGW1AYe8yusMZTJz6rmJBa3fJA2bxhidzAxNg==;dYoQkm4SVLiaIZxV9i6Ysw=="

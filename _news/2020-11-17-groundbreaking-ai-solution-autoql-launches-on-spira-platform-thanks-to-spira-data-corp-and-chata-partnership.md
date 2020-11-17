@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Groundbreaking AI Solution, AutoQL, Launches on Spira Platform Thanks to Spira Data Corp. and Chata Partnership"
-excerpt: "PRNewswire/ - Spira Data Corp. ('Spira') and Chata have announced a strategic partnership to offer conversational AI"
-publishedDateTime: 2020-11-16T22:29:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/groundbreaking-ai-solution-autoql-launches-on-spira-platform-thanks-to-spira-data-corp-and-chata-partnership-1029808378"
-webUrl: "https://markets.businessinsider.com/news/stocks/groundbreaking-ai-solution-autoql-launches-on-spira-platform-thanks-to-spira-data-corp-and-chata-partnership-1029808378"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/groundbreaking-ai-solution-autoql-launches-on-spira-platform-thanks-to-spira-data-corp-and-chata-partnership-1029808378"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/groundbreaking-ai-solution-autoql-launches-on-spira-platform-thanks-to-spira-data-corp-and-chata-partnership-1029808378"
+excerpt: "PRNewswire/ - Spira Data Corp. (“Spira”) and Chata have announced a strategic partnership to offer conversational AI for data access within Spiras"
+publishedDateTime: 2020-11-16T22:09:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-north-america-products-and-services-8dd08f170649345572e009a6bb8e8cbb"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-north-america-products-and-services-8dd08f170649345572e009a6bb8e8cbb"
 type: article
-quality: 49
-heat: 49
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "cgn1x81smdhvscotlt8/z3yhwJjVi6PEdvmjRtab+AcuPhbW9zKwrDJZji+B7ZMu3P2slglUQcoiRTEeIpDWaIcg5AjYVdM2IGP1vt4a6Z9gha9QlPfO9h9xiN8WpNHZfgqACWHb0sfCNLU5fNL4kqFjNyi/kjRVwVJNv6YXKznP9Do2G/w76dSEV3q3L1yyuG0gilj6PNqdSkA3ktko0tr+BlP9nHZuElqDJW5zaWt7XJYtksiG0kvxYw+bIM7b6IAmAD+QOu0Gf8fr4SqLJi9dEft9AwZqOqU0aIJVMsViXagf9PS6Z+nj1okXGglcW7AhAcYfSx43W2MbhW9H/7c0VpbFYIRzEYx1h+Ro1hg=;GJ4aniVfPyIDWW2Buhhp7w=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "9YgofzabVbkG20JxMwKqLb3K/B5LerR0OkMYBZE2/RvaE+n6ewio0qpeHDfTsx0+cW1m4wJUSVAqE2GjcY1IJjQvMa5vP2X9BHJP6LDWO9/GXIg3/3v1ghj7NXlVhDNB/5Ff7llMn0Rz1rqFhcSLnK0s3Hke14sY4xCiCS2pZaLjFpoM3MJQPYA9OKrLllUJooNoIWd60GjQWcgQbUFGJb6n0ntvETFEPly6D4fTzyaxSQPxuCKf9kFv2sdm3N3QU7d0HwsxSW2LmTDR1PgpFupkqHrE+QhvfuxZcGxM1FH5oWuGn8a2YrUDcmRa1DF76JqiSWz+aUpYbbAMSqUbqMSEeAsRS7yQwsFDNWxEtJQ=;sG0/r+y0ryKO5Nh7ug0AHw=="
 ---
 

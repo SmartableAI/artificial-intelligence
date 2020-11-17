@@ -27,14 +27,17 @@ related:
   - title: "Ping An Bank Wins Gartner Innovation Award for Financial Services"
     excerpt: "Company of China, Ltd. (hereafter \" Ping An \" or the \"Group\", HKEX: 02318; SSE: 601318) announced that Ping An Bank received the \"Eye On Innovation Award for Financial Services 2020\" from research and advisory company Gartner."
     publishedDateTime: 2020-11-17T07:25:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/11/n18400202/ping-an-bank-wins-gartner-innovation-award-for-financial-services"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18400202"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18400202"
+    webUrl: "https://www.prnewswire.com/news-releases/ping-an-bank-wins-gartner-innovation-award-for-financial-services-301174388.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 39
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "FYDNfdWNgzeznFG+f05hltg5dsqb9HZmP7PKVbm4jsNcCNdIhLK+X18JiIOOAp60T5CKlI43O1wtFXBapo/CkA1hSusfzoUipKvKpwB9aLkWFk63WjJleDJyesM65H6czjqBh3ti0KYogHjsCg069GvOVw9F3b2Wr0e8VX94SWVzAFkahpMQQYH2sTDwtMWDyH9XHgSjnD42pIY4+N+uuq+MnanCG3K6kZrVRCiBjzR9xiQZl4idqxkTAFlw1AT8UZVaegksFhP5QT9bd/B6j83FUkNeoBJh/YXu9OBi4JrMgti4ySt7am6BQsuCZzIGsvy+6sEBgJGaV745yK68YdoDw8upTU1L7HmEXpSL68w=;ZfiOoVMEHOjGMpHTOG3oag=="
 ---

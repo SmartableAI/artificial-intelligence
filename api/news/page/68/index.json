@@ -2,45 +2,27 @@
   "page": 68,
   "value": [
     {
-      "path": "_news/2020-08-31-mia-dands-fight-for-inclusion-in-the-endeavor-to-save-humanity-from-the-dark-side-of-ai.md",
-      "title": "Mia Dand’s Fight For Inclusion In The Endeavor To Save Humanity From The Dark Side Of AI",
-      "excerpt": "Unapologetic. Unwavering. Determined. Mia Dand created 100 Brilliant Women in AI Ethics and spearheaded and cultivated a strong community, which brought out necessary change in the midst of pervasive AI.",
+      "path": "_news/2020-09-24-mit-professor-wins-top-ai-award-for-cancer-drug-research.md",
+      "title": "MIT professor wins top AI award for cancer, drug research",
+      "excerpt": "It’s meant to elevate AI advancements to the level of a Nobel Prize or computer science’s Turing Award, while also highlighting AI research ... the encounter on Facebook, and it's gotten ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/hessiejones/2020/08/31/mia-dands-fight-for-inclusion-in-the-endeavor-to-save-humanity-from-the-dark-side-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/hessiejones/2020/08/31/mia-dands-fight-for-inclusion-in-the-endeavor-to-save-humanity-from-the-dark-side-of-ai/",
+      "webUrl": "https://fox59.com/news/mit-professor-wins-top-ai-award-for-cancer-drug-research/",
+      "originalUrl": "https://fox59.com/news/mit-professor-wins-top-ai-award-for-cancer-drug-research/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4cf067fac962d3953d8bac%2F0x0.jpg",
-          "width": 700,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/hessiejones/2020/08/31/mia-dands-fight-for-inclusion-in-the-endeavor-to-save-humanity-from-the-dark-side-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2020/08/31/mia-dands-fight-for-inclusion-in-the-endeavor-to-save-humanity-from-the-dark-side-of-ai/amp/",
-      "publishedDateTime": "2020-08-31T06:25:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-23T14:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "FOX59 News",
+        "domain": "fox59.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -50,463 +32,25 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-nsf-grant-to-increase-access-to-ai-research-help-save-sea-turtles-and-more.md",
-      "title": "NSF grant to increase access to AI research, help save sea turtles, and more",
-      "excerpt": "Last week, the University of Oklahoma announced a $20 million grant from the National Science Foundation (NSF). Overall, the NSF provided more than $100 million in investments to establish and support five artificial intelligence (AI) Institutes and education centers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/nsf-grant-to-increase-access-to-ai-research-help-save-sea-turtles-and-more/",
-      "originalUrl": "https://www.techrepublic.com/article/nsf-grant-to-increase-access-to-ai-research-help-save-sea-turtles-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/08/31/a82d9cbe-4220-4552-a0b0-15df5762fc26/resize/1200x/2433fa721e5259f4859b7b36dbbc8cb4/adokon.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/nsf-grant-to-increase-access-to-ai-research-help-save-sea-turtles-and-more/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nsf-grant-to-increase-access-to-ai-research-help-save-sea-turtles-and-more/",
-      "publishedDateTime": "2020-08-31T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
     {
-      "path": "_news/2020-08-31-dresner-advisory-services-publishes-2020-data-science-and-machine-learning-market-study.md",
-      "title": "Dresner Advisory Services Publishes 2020 Data Science and Machine Learning Market Study",
-      "excerpt": "NASHUA, N.H., Aug. 31, 2020 (GLOBE NEWSWIRE) -- Dresner Advisory Services today published the 2020 Data Science and Machine Learning Market Study, part of its Wisdom of Crowds® series of research.",
+      "path": "_news/2020-09-24-mouser-electronics-new-intelligent-revolution-series-explores-cutting-edge-applications-in-artificial-intelligence.md",
+      "title": "Mouser Electronics’ New Intelligent Revolution Series Explores Cutting-Edge Applications in Artificial Intelligence",
+      "excerpt": "Mouser Electronics announces The Intelligent Revolution, a captivating new series in Mouser’s award-winning Empowering Innovation Together program.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/08/g17307001/dresner-advisory-services-publishes-2020-data-science-and-machine-learning-market-study",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/08/g17307001/dresner-advisory-services-publishes-2020-data-science-and-machine-learning-market-study",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17307001",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17307001",
-      "publishedDateTime": "2020-08-31T06:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-facial-recognition-and-bathtime-bookings-how-chinas-universities-are-reopening.md",
-      "title": "Facial recognition and bathtime bookings: How China's universities are reopening",
-      "excerpt": "As COVID-19 cases in China sink to new lows, the world's largest population of university students is heading back to campus in a migration defined by lockdowns, patriotic education and cutting-edge surveillance equipment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-china-students-idUSKBN25R0UW",
-      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-china-students-idUSKBN25R0UW",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200831&t=2&i=1531624313&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG7U0GA",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN25R0UW",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN25R0UW",
-      "publishedDateTime": "2020-08-31T05:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-japan-looks-to-ai-as-coronavirus-challenges-go-and-see-quality-control-mantra.md",
-      "title": "Japan looks to AI as coronavirus challenges go-and-see quality control mantra",
-      "excerpt": "At a factory south of Japan's Toyota City, robots have started sharing the work of quality-control inspectors, as the pandemic accelerates a shift from Toyota's vaunted \"go and see\" system which helped revolutionise mass production in the 20th century.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-japan-factory-idUSKBN25R0CP",
-      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-japan-factory-idUSKBN25R0CP",
+      "webUrl": "https://www.businesswire.com/news/home/20200923005723/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20200923005723/en/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200831&t=2&i=1531610916&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG7U08J",
-          "width": 744,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN25R0CP",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN25R0CP",
-      "publishedDateTime": "2020-08-31T05:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-this-ai-driven-video-editor-makes-it-easy-to-just-point-and-record.md",
-      "title": "This AI-Driven Video Editor Makes it Easy to Just Point and Record",
-      "excerpt": "VlogEasy is a video editor that automatically jump-cut edits videos for you. All you have to do is hit record or import footage from another camera and VlogEasy's AI will automatically remove the \"dead space\" to create a seamless,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/355434",
-      "originalUrl": "https://www.entrepreneur.com/article/355434",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1598551887-Ent-VlogEasy.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/355434",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/355434",
-      "publishedDateTime": "2020-08-31T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-heading-to-a-job-interview-ai-could-and-should-be-in-the-room.md",
-      "title": "Heading To A Job Interview? AI Could (And Should) Be In The Room",
-      "excerpt": "All will be armed with their top accomplishments and glowing references; all will be hoping for a job offer at the end. There’s just one problem: The job interview doesn’t always work. The interview has been the gold standard — maybe even the only standard — for securing a job for decades.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/08/31/heading-to-a-job-interview-ai-could-and-should-be-in-the-room/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/08/31/heading-to-a-job-interview-ai-could-and-should-be-in-the-room/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f281b7a2378b9f74663653a%2F0x0.jpg",
+          "url": "https://mms.businesswire.com/media/20200923005723/en/824095/23/PRINT_EIT_IntelligentRevolution_eBook1.jpg",
           "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/08/31/heading-to-a-job-interview-ai-could-and-should-be-in-the-room/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/08/31/heading-to-a-job-interview-ai-could-and-should-be-in-the-room/amp/",
-      "publishedDateTime": "2020-08-31T05:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-50-exoplanets-discovered-in-deep-space-by-advanced-artificial-intelligence.md",
-      "title": "50 exoplanets discovered in deep space by advanced artificial intelligence",
-      "excerpt": "More than 4,000 exoplanets have been discovered so far by astronomers. Now, artificial intelligence has discovered an additional 50, thanks to old data from NASA.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/science/50-exoplanets-discovered-advanced-artificial-intelligence",
-      "originalUrl": "https://www.foxnews.com/science/50-exoplanets-discovered-advanced-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2019/12/exoplanet-water-common.jpg",
-          "width": 1056,
-          "height": 515,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/science/50-exoplanets-discovered-advanced-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/50-exoplanets-discovered-advanced-artificial-intelligence.amp",
-      "publishedDateTime": "2020-08-31T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-israeli-ai-chip-developer-hailo-opens-doors-on-japanese-expansion.md",
-      "title": "Israeli AI chip developer Hailo opens doors on Japanese expansion",
-      "excerpt": "Israeli microprocessor developer Hailo sees a path to support and dominate growing Asian AI chip market by establishing new Japanese",
-      "sourceUrl": null,
-      "webUrl": "https://www.geektime.com/hailo-announces-japanese-expansion/",
-      "originalUrl": "https://www.geektime.com/hailo-announces-japanese-expansion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geektime.com/content/images/2020/08/Hailo-8-AI-processor.jpg",
-          "width": 1600,
-          "height": 1598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geektime.com/hailo-announces-japanese-expansion/amp/",
-      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/hailo-announces-japanese-expansion/amp/",
-      "publishedDateTime": "2020-08-31T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geektime",
-        "domain": "geektime.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-3-top-artificial-intelligence-stocks-to-buy-in-september.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy in September",
-      "excerpt": "Many people have probably heard of artificial intelligence but may be unsure ... as quantum computing and self-driving cars with its Waymo subsidiary. Despite its formidable search business ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/08/31/3-top-artificial-intelligence-stocks-to-buy-in-sep/",
-      "originalUrl": "https://www.fool.com/investing/2020/08/31/3-top-artificial-intelligence-stocks-to-buy-in-sep/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.ycharts.com/charts/3377434643bd31fc8332c880784b1b2b.png",
-          "width": 720,
-          "height": 503,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/08/31/3-top-artificial-intelligence-stocks-to-buy-in-sep/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/08/31/3-top-artificial-intelligence-stocks-to-buy-in-sep/",
-      "publishedDateTime": "2020-08-31T04:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-medical-robots-market-2020-global-size-share-regional-trends-and-2026-forecast.md",
-      "title": "Medical Robots Market | 2020 Global Size, Share, Regional trends and 2026 Forecast",
-      "excerpt": "The Global Medical Robots Market is likely to expand in the coming years due to advancements made in embedded systems. According to a report by Fortune Business Insights, titled “Medical Robots Market Size”,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/medical-robots-market-2020-global-size-share-regional-trends-and-2026-forecast-2020-08-26?tesla=y",
-      "originalUrl": "https://www.marketwatch.com/press-release/medical-robots-market-2020-global-size-share-regional-trends-and-2026-forecast-2020-08-26?tesla=y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "height": 627,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -516,115 +60,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-31T04:42:00-07:00",
+      "publishedDateTime": "2020-09-23T13:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-china-is-gunning-to-be-the-world-leader-in-ai-chips-while-restricting-exports.md",
-      "title": "China Is Gunning To Be The World Leader In AI Chips While Restricting Exports",
-      "excerpt": "China has passed the US in AI chip patenting and their brightest star, Cambricon has more than four times as many patents as Nvidia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anthonytrippe/2020/08/31/china-is-gunning-to-be-the-world-leader-in-ai-chips-while-restricting-exports/",
-      "originalUrl": "https://www.forbes.com/sites/anthonytrippe/2020/08/31/china-is-gunning-to-be-the-world-leader-in-ai-chips-while-restricting-exports/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f492ba1b592c05b5258e438%2F0x0.jpg",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anthonytrippe/2020/08/31/china-is-gunning-to-be-the-world-leader-in-ai-chips-while-restricting-exports/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonytrippe/2020/08/31/china-is-gunning-to-be-the-world-leader-in-ai-chips-while-restricting-exports/amp/",
-      "publishedDateTime": "2020-08-31T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-israeli-chip-maker-hailo-to-set-up-tokyo-unit-as-demand-for-ai-tech-grows.md",
-      "title": "Israeli chip maker Hailo to set up Tokyo unit as demand for AI tech grows",
-      "excerpt": "Hailo, a maker of chips that allows edge devices like smart cameras or smart cars to have artificial intelligence capabilities, said it is setting up a wholly owned subsidiary in Tokyo, Japan. Edge devices are electronic devices that are installed at the edge of networks — the entry point to networks — in products such as autonomous vehicles,",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/israeli-chip-maker-hailo-to-set-up-tokyo-unit-as-demand-for-ai-tech-grows/",
-      "originalUrl": "https://www.timesofisrael.com/israeli-chip-maker-hailo-to-set-up-tokyo-unit-as-demand-for-ai-tech-grows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2020/08/Hailo-8-AI-processor-e1598859102334-640x400.jpg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/israeli-chip-maker-hailo-to-set-up-tokyo-unit-as-demand-for-ai-tech-grows/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israeli-chip-maker-hailo-to-set-up-tokyo-unit-as-demand-for-ai-tech-grows/amp/",
-      "publishedDateTime": "2020-08-31T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -634,26 +74,26 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "AI in Healthcare",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-08-31-ai-cloud-aim-to-enhance-the-us-open-fan-experience.md",
-      "title": "AI, Cloud Aim to Enhance the U.S. Open Fan Experience",
-      "excerpt": "The U.S. Tennis Association is turning to cloud computing and artificial intelligence to enhance the experiences of fans who this year can only watch the U.S. Open on televisions, computers and smartphones.",
+      "path": "_news/2020-09-24-robot-beats-humans-at-curling-thanks-to-deep-learning-program.md",
+      "title": "Robot beats humans at curling thanks to deep learning program",
+      "excerpt": "Thanks to a new deep learning program, a curling robot, appropriately named Curly, was able to win three out of four matches against curlers from South Korea's national teams.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-cloud-aim-to-enhance-the-u-s-open-fan-experience-11598866201",
-      "originalUrl": "https://www.wsj.com/articles/ai-cloud-aim-to-enhance-the-u-s-open-fan-experience-11598866201",
+      "webUrl": "https://www.upi.com/Science_News/2020/09/23/Robot-beats-humans-at-curling-thanks-to-deep-learning-program/5991600873549/",
+      "originalUrl": "https://www.upi.com/Science_News/2020/09/23/Robot-beats-humans-at-curling-thanks-to-deep-learning-program/5991600873549/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 106,
       "tags": null,
       "images": [
         {
-          "url": "https://images.wsj.net/im-226475/social",
-          "width": 1280,
-          "height": 640,
+          "url": "https://cdnph.upi.com/sv/ph/og/i/5991600873549/2020/1/16008835508632/v1.5/Robot-beats-humans-at-curling-thanks-to-deep-learning-program.jpg",
+          "width": 800,
+          "height": 532,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -661,252 +101,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-cloud-aim-to-enhance-the-u-s-open-fan-experience-11598866201",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-cloud-aim-to-enhance-the-u-s-open-fan-experience-11598866201",
-      "publishedDateTime": "2020-08-31T02:38:00-07:00",
+      "ampWebUrl": "https://www.upi.com/amp/Science_News/2020/09/23/Robot-beats-humans-at-curling-thanks-to-deep-learning-program/5991600873549/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2020/09/23/Robot-beats-humans-at-curling-thanks-to-deep-learning-program/5991600873549/",
+      "publishedDateTime": "2020-09-23T11:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains.md",
-      "title": "Artificial intelligence: Elon Musk puts computer chips in animal brains",
-      "excerpt": "Elon Musk, the founder of the American company Tesla and SpaceX, demonstrated how to connect a computer chip made by his new company ‘Neuralink’ to the animal brain. Elon Musk’s company, Neuralink, has developed a chip in just four years,",
-      "sourceUrl": null,
-      "webUrl": "https://dailytimes.com.pk/661146/artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains/",
-      "originalUrl": "https://dailytimes.com.pk/661146/artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dailytimes.com.pk/assets/uploads/2020/08/31/SPACEXCAPSULETESTTHNAK.jpg",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://dailytimes.com.pk/661146/artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains/amp/",
-      "cdnAmpWebUrl": "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/661146/artificial-intelligence-elon-musk-puts-computer-chips-in-animal-brains/amp/",
-      "publishedDateTime": "2020-08-31T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Times",
-        "domain": "dailytimes.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-military-ai-vanquishes-human-fighter-pilot-in-f-16-simulation-how-scared-should-we-be.md",
-      "title": "Military AI vanquishes human fighter pilot in F-16 simulation. How scared should we be?",
-      "excerpt": "Artificial intelligence can master difficult combat skills at warp speed, but the Pentagon’s futurists must remain mindful of its limitations and risks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/think/opinion/military-ai-vanquishes-human-fighter-pilot-f-16-simulation-how-ncna1238773",
-      "originalUrl": "https://www.nbcnews.com/think/opinion/military-ai-vanquishes-human-fighter-pilot-f-16-simulation-how-ncna1238773",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_35/3408488/200828-loyal-wingman-drone-ac-429p_bbc39303ab1ab71d2c4297a95f68d541.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1238773",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1238773",
-      "publishedDateTime": "2020-08-31T01:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-nvidias-top-gpu-has-a-formidable-new-ai-rival-and-its-not-who-you-think-it-is.md",
-      "title": "Nvidia's top GPU has a formidable new AI rival and it's not who you think it is",
-      "excerpt": "Tachyum, the company that plans to kill the CPU and GPU with its universal Prodigy processor, this week shared additional details regarding its upcoming chip.   As it turns out, the new processor will support industry-standard open-source development frameworks for AI applications,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/sg/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
-      "originalUrl": "https://www.techradar.com/sg/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/YCeRLZApvjKfDm8VpVZCkC-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/tachyum-says-its-prodigy-processor-outperforms-nvidias-a100-and-supports-8tb-of-ram",
-      "publishedDateTime": "2020-08-30T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-robot-takes-contact-free-measurements-of-patients-vital-signs.md",
-      "title": "Robot takes contact-free measurements of patients’ vital signs",
-      "excerpt": "Dog-like robots can remotely measure patients’ vital signs and could be used to reduce health care workers’ risk of Covid-19 exposure. The “Dr. Spot” robots, developed by researchers at MIT and Brigham and Women’s Hospital,",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2020/spot-robot-vital-signs-0831",
-      "originalUrl": "https://news.mit.edu/2020/spot-robot-vital-signs-0831",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202008/Robotic-Vital-Signs-01.jpg",
-          "width": 948,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-30T21:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-7-machine-learning-challenges-businesses-face-while-implementing.md",
-      "title": "7 Machine Learning Challenges Businesses Face While Implementing",
-      "excerpt": "Studies show that your business can experience 40% productivity improvement by using Artificial Intelligence and Machine Learning. It can help you to reorganize your data in such a way that you ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.business2community.com/business-innovation/7-machine-learning-challenges-businesses-face-while-implementing-02341340",
-      "originalUrl": "https://www.business2community.com/business-innovation/7-machine-learning-challenges-businesses-face-while-implementing-02341340",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.business2community.com/wp-content/uploads/2020/08/machine-learning_challenges-900x600.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.business2community.com/business-innovation/7-machine-learning-challenges-businesses-face-while-implementing-02341340/amp",
-      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/7-machine-learning-challenges-businesses-face-while-implementing-02341340/amp",
-      "publishedDateTime": "2020-08-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business 2 Community",
-        "domain": "business2community.com",
+        "name": "UPI.com",
+        "domain": "upi.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -917,248 +118,26 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-natural-language-processing-nlp.md",
-      "title": "Natural Language Processing (NLP)",
-      "excerpt": "Natural Language Processing (NLP) is a field of artificial intelligence that enables computers to analyze and understand human language. It was formulated to build software that generates and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.investopedia.com/terms/n/natural-language-processing-nlp.asp",
-      "originalUrl": "https://www.investopedia.com/terms/n/natural-language-processing-nlp.asp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.investopedia.com/thmb/HRAP7gMQGtY7BIZ59JP9jR83wSs=/1500x1000/filters:fill(auto,1)/GettyImages-1160619087-8fcfcf3b100942b7ae939eb8bf85b00c.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investopedia",
-        "domain": "investopedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-understanding-the-technology-behind-traffic-sign-recognition-tsr-systems.md",
-      "title": "Understanding the Technology behind Traffic Sign Recognition (TSR) Systems",
-      "excerpt": "It can be used in manufacturing as a part of quality control, object recognition, a way to navigate a mobile robot, or as a way to detect edges in images. To identify the matching area, we have to compare the template image against the source image by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/articles/41154/traffic-sign-recognition-tsr-system.html",
-      "originalUrl": "https://www.design-reuse.com/articles/41154/traffic-sign-recognition-tsr-system.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-elon-musk-unveils-fitbit-in-your-skull-brain-chip-demonstrates-on-pig.md",
-      "title": "Elon Musk unveils ‘Fitbit in your skull’ brain chip, demonstrates on pig",
-      "excerpt": "Musk said this could eventually help cure people with conditions like memory loss, hearing loss, paralysis, blindness, brain damage, depression and anxiety.",
-      "sourceUrl": null,
-      "webUrl": "https://kfor.com/news/elon-musk-unveils-fitbit-in-your-skull-brain-chip-demonstrates-on-pig/",
-      "originalUrl": "https://kfor.com/news/elon-musk-unveils-fitbit-in-your-skull-brain-chip-demonstrates-on-pig/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kfor.com/wp-content/uploads/sites/3/2020/08/gertrude-pig.jpg",
-          "width": 716,
-          "height": 397,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://kfor.com/news/elon-musk-unveils-fitbit-in-your-skull-brain-chip-demonstrates-on-pig/amp/",
-      "cdnAmpWebUrl": "https://kfor-com.cdn.ampproject.org/c/s/kfor.com/news/elon-musk-unveils-fitbit-in-your-skull-brain-chip-demonstrates-on-pig/amp/",
-      "publishedDateTime": "2020-08-30T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Oklahoma's News",
-        "domain": "kfor.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-31-this-ai-expert-from-senegal-is-helping-showcase-africans-in-stem.md",
-      "title": "This AI Expert From Senegal Is Helping Showcase Africans In STEM",
-      "excerpt": "Not only has Adji Bousso Dieng, an AI researcher from Senegal, contributed to the field of generative modeling and about to become one of the first black female faculty in Computer Science in the Ivy League,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/andrewwight/2020/08/30/this-ai-expert-from-senegal-is-helping-showcase-africans-in-stem/",
-      "originalUrl": "https://www.forbes.com/sites/andrewwight/2020/08/30/this-ai-expert-from-senegal-is-helping-showcase-africans-in-stem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f40029c9ef0598860b150c8%2F0x0.jpg%3FcropX1%3D187%26cropX2%3D1021%26cropY1%3D60%26cropY2%3D529",
-          "width": 834,
-          "height": 469,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/andrewwight/2020/08/30/this-ai-expert-from-senegal-is-helping-showcase-africans-in-stem/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewwight/2020/08/30/this-ai-expert-from-senegal-is-helping-showcase-africans-in-stem/amp/",
-      "publishedDateTime": "2020-08-30T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-30-forget-identifiers-the-future-of-ad-tech-is-ai.md",
-      "title": "Forget Identifiers: The Future Of Ad Tech Is AI",
-      "excerpt": "Apple's iOS 14 update will allow users to opt-in to sharing personal identifiers with developers. Advertisers fear a loss of revenue as a result, but maybe it's time for ad tech to evolve to accommodate for user privacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rebeccabellan/2020/08/30/forget-identifiers-the-future-of-ad-tech-is-ai/",
-      "originalUrl": "https://www.forbes.com/sites/rebeccabellan/2020/08/30/forget-identifiers-the-future-of-ad-tech-is-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4abe0d9252c69c9b707f4e%2F0x0.jpg",
-          "width": 1200,
-          "height": 759,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rebeccabellan/2020/08/30/forget-identifiers-the-future-of-ad-tech-is-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebeccabellan/2020/08/30/forget-identifiers-the-future-of-ad-tech-is-ai/amp/",
-      "publishedDateTime": "2020-08-30T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
-        "IBM AI"
+        "AI in Robotics"
       ]
     },
     {
-      "path": "_news/2020-08-30-theres-not-a-company-name-cute-enough-to-mask-the-dark-side-of-corporations.md",
-      "title": "There’s Not a Company Name Cute Enough to Mask the Dark Side of Corporations",
-      "excerpt": "Businesses today — with their fuzzy, friendly names — all seem to want to cozy up to you. But there are plenty of reasons to keep your distance.",
+      "path": "_news/2020-09-24-south-korea-tech-giants-expanding-robotics-amid-covid-19.md",
+      "title": "South Korea tech giants expanding robotics amid COVID-19",
+      "excerpt": "South Korea's biggest tech companies are investing in robotics as a solution to the risks of human contact amid the coronavirus pandemic.",
       "sourceUrl": null,
-      "webUrl": "https://www.phillymag.com/news/2020/08/29/cute-company-names/",
-      "originalUrl": "https://www.phillymag.com/news/2020/08/29/cute-company-names/",
+      "webUrl": "https://www.upi.com/Top_News/World-News/2020/09/23/South-Korea-tech-giants-expanding-robotics-amid-COVID-19/3121600883704/",
+      "originalUrl": "https://www.upi.com/Top_News/World-News/2020/09/23/South-Korea-tech-giants-expanding-robotics-amid-COVID-19/3121600883704/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn10.phillymag.com/wp-content/uploads/sites/3/2020/08/company-names-fb.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/3121600883704/2020/1/f4b46952582fb33f29de4effbf354249/v1.5/South-Korea-tech-giants-expanding-robotics-amid-COVID-19.jpg",
+          "width": 800,
+          "height": 534,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1166,13 +145,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.phillymag.com/news/2020/08/29/cute-company-names/?amp=1",
-      "cdnAmpWebUrl": "https://www-phillymag-com.cdn.ampproject.org/c/s/www.phillymag.com/news/2020/08/29/cute-company-names/?amp=1",
-      "publishedDateTime": "2020-08-29T21:59:00-07:00",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2020/09/23/South-Korea-tech-giants-expanding-robotics-amid-COVID-19/3121600883704/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/09/23/South-Korea-tech-giants-expanding-robotics-amid-COVID-19/3121600883704/",
+      "publishedDateTime": "2020-09-23T11:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Philadelphia Mag",
-        "domain": "phillymag.com",
+        "name": "UPI.com",
+        "domain": "upi.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1182,10 +161,10 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "AI in Robotics",
         "AI"
       ]
     }
   ],
-  "nextPage": 69
+  "nextPage": null
 }

@@ -8,6 +8,7 @@ webUrl: "https://www.bloomberg.com/press-releases/2020-11-17/capgemini-se-capgem
 type: article
 quality: 40
 heat: 40
+published: false
 
 provider:
   name: Bloomberg

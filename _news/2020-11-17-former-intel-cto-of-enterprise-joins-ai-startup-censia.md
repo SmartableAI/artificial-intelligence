@@ -9,8 +9,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/former-intel-cto-of-ent
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/former-intel-cto-of-enterprise-joins-ai-startup-censia-1029809520"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Business Insider
@@ -22,22 +22,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Allied Solutions partners with leading Artificial Intelligence provider Interface, to offer an Intelligent Virtual Assistant to Financial Institutions"
-    excerpt: "Allied Solutions, one of the largest providers of insurance, lending, and marketing products to financial institutions, has entered into"
-    publishedDateTime: 2020-11-17T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/allied-solutions-partners-with-leading-artificial-intelligence-provider-interface-to-offer-an-intelligent-virtual-assistant-to-financial-institutions-301174478.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
-    images:
-      - url: "https://mma.prnewswire.com/media/1336395/Interface_Allied_solutions_Logo.jpg?p=facebook"
-        width: 849
-        height: 445
-        isCached: true
 
 secured: "I1bCFDoiMeG6NvlID4HFjgkW9o9/I/IJUmH+LfigTFmk1mS3JErGoOWL2YoUSGL9U2uoKx/GxDLHYS02LFQ3NPsD1cnrnPrtKh877FdIGm6RD/A8cIM+Lh0krTL0lLdWa3SQvEhR1R6jCYq1RKou1WNwJW+NsEyX1ZsAZLBFjYx7oT4v+DUD68kYeLLSTv7A6IX8eheoIS6ym3uYGc98C7ee9AGkjAeAPysmmYialWbhuSb4dHz7bBlkExHwqW0XcsWRGZix4idsk+JjFWTkWy9Q06fKrRZe7TML1c3Vj1rUrfJBjVb6HvPDiENamLK9Zi+XyczP4H98+/RK9L5vykvaoZVCrwgFadobeNsgUkE=;U2u7stsrW3jquLi1uP6m+g=="
 ---

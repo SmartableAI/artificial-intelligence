@@ -265,6 +265,20 @@ related:
         width: 720
         height: 733
         isCached: true
+  - title: "Plagued With Bad Luck, Uber To Bid Adieu To Its Self-Driving Car Project"
+    excerpt: "Uber’s unit of the self-driving car known as Uber Advanced technologies aka UberATG, eighteen months ago, was valued at a whopping $7.2 billion after it"
+    publishedDateTime: 2020-11-17T16:14:00Z
+    webUrl: "https://dazeinfo.com/2020/11/17/uber-to-sell-self-driving-car-unit/"
+    type: article
+    provider:
+      name: Dazeinfo
+      domain: dazeinfo.com
+    quality: 23
+    images:
+      - url: "https://dazeinfo.com/wp-content/uploads/2020/11/72JSDTBMQII6RBUI4BJ3UWHR4Q-scaled.jpg"
+        width: 2560
+        height: 1697
+        isCached: true
   - title: "Uber may sell self-driving tech group to Palo Alto-based Aurora Innovation"
     excerpt: "Uber Technologies Inc. is reportedly shopping its Advanced Technologies Group for sale. According to a report from TechCrunch and later Reuters, San Francisco-based Uber is in preliminary talks to sell its autonomous vehicle division,"
     publishedDateTime: 2020-11-16T10:15:00Z

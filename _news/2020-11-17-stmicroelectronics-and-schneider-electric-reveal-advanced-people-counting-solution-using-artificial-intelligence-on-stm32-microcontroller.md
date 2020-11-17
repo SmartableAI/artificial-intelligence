@@ -7,7 +7,8 @@ originalUrl: "https://www.eejournal.com/industry_news/stmicroelectronics-and-sch
 webUrl: "https://www.eejournal.com/industry_news/stmicroelectronics-and-schneider-electric-reveal-advanced-people-counting-solution-using-artificial-intelligence-on-stm32-microcontroller/"
 type: article
 quality: 4
-heat: 4
+heat: -1
+published: false
 
 provider:
   name: Electronic Engineering Journal
@@ -21,6 +22,19 @@ images:
     width: 512
     height: 512
     isCached: true
+
+related:
+  - title: "STMicroelectronics and Schneider Electric Reveal Advanced People-Counting Solution using Artificial Intelligence on STM32 Microcontroller"
+    excerpt: "STMicroelectronics and Schneider Electric Reveal Advanced People-Counting Solution using Artificial Intelligence on STM32"
+    publishedDateTime: 2020-11-16T15:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/stmicroelectronics-and-schneider-electric-reveal-advanced-people-counting-solution-using-artificial-intelligence-on-stm32-microcontroller-1029806870"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/STMicroelectronics-and-Schneider-Electric-Reveal-Advanced-People-Counting-Solution-using-Artificial-Intelligence-on-STM32-Microcontroller-1029806870"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/STMicroelectronics-and-Schneider-Electric-Reveal-Advanced-People-Counting-Solution-using-Artificial-Intelligence-on-STM32-Microcontroller-1029806870"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
 
 secured: "3rys89wgxz7OxYmVw7EHIkm0lO9jbc5HFE10erA2UnSmS7VOnxAbq5ZUkC8xBCeq9xaiYINOkkYMX/CN0cob/SOF+ZctEfJir1CXdEQwPFRFVXYrVB36eLsQu66QdRzOrCf20X3kbOca519V/5NeCG6Uxql6RmDH+JmGP+sqCfx7Nq9Ox6zXVWVWeAGFTf9o9c0Oq2/Nk36zKHaCx1YAe2My5WOE3kUsX1h5rtadNA/puddUO3Tm5ZstDCYnOOw3tUvtGoyu371ATcrogfG0CNhjGdT/E0vC+W1o7WCN/Y4lYYYEoUdKQ0jUxFNJq+JgAggQ0zsgradP4X1egMOl15PWjOs2iCzz4GhGM/fR208=;+ZAsC/IBtysKQ4KmUW4RyA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nola.com/news/crime_police/article_9eda8846-25e1-11eb-9c
 cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/crime_police/article_9eda8846-25e1-11eb-9c95-4f11b10ed17a.amp.html"
 type: article
 quality: 47
-heat: 57
+heat: 47
 published: false
 
 provider:

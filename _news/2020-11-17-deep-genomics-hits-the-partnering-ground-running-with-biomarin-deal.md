@@ -7,7 +7,7 @@ originalUrl: "https://www.fiercebiotech.com/medtech/deep-genomics-hits-partnerin
 webUrl: "https://www.fiercebiotech.com/medtech/deep-genomics-hits-partnering-ground-running-biomarin-deal"
 type: article
 quality: 24
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,25 @@ images:
 
 related:
   - title: "BioMarin and Deep Genomics to Collaborate on Advancing Programs Identified Using Artificial Intelligence"
-    excerpt: "PRNewswire/ -- BioMarin Pharmaceutical Inc. (Nasdaq: BMRN) and Deep Genomics today announced that the companies have entered into a preclinical"
-    publishedDateTime: 2020-11-17T12:29:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/biomarin-and-deep-genomics-to-collaborate-on-advancing-programs-identified-using-artificial-intelligence-301174203.html"
+    excerpt: "In the collaboration, Deep Genomics will use its AI Workbench to identify and validate target mechanisms and lead candidates, and BioMarin will advance them into preclinical and clinical development."
+    publishedDateTime: 2020-11-17T17:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/biomarin-and-deep-genomics-to-collaborate-on-advancing-programs-identified-using-artificial-intelligence-1029811053"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/biomarin-and-deep-genomics-to-collaborate-on-advancing-programs-identified-using-artificial-intelligence-1029811053"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/biomarin-and-deep-genomics-to-collaborate-on-advancing-programs-identified-using-artificial-intelligence-1029811053"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 20
-    images:
-      - url: "https://mma.prnewswire.com/media/534018/BioMarin_Pharmaceutical_Inc_Logo.jpg?p=facebook"
-        width: 1493
-        height: 785
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
+  - title: "BioMarin and Deep Genomics to Collaborate on Advancing Programs Identified Using Artificial Intelligence"
+    excerpt: "BioMarin will receive an exclusive option to obtain Deep Genomics' rights to each program for development and commercialization. In the collaboration, Deep Genomics will use its AI Workbench to identify and validate target mechanisms and lead candidates,"
+    publishedDateTime: 2020-11-17T13:29:00Z
+    webUrl: "https://www.nasdaq.com/press-release/biomarin-and-deep-genomics-to-collaborate-on-advancing-programs-identified-using"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 30
 
 secured: "EOWs10uPwOetrG/Pps9A/mGr4MiKgAHVJfxiu2kHaZRTQNmX+nl6XXfHIdtl5TnP6nWt0Lk4uJzd55Ie9rVGlavWHclxXPiRnLhJ3xL03LxMkweGETFckfuIMshfR55CyCKW/w74NMh69223Lmhlr8BoPPDvNThpSHfjd+Gq+KOVjAX5Ea34CrN4LmTFtyh2PxGXdzpIGi6KkwRv7LOQM6I1keicpygIl/tcuvvZvnUVxt4PLzvoufAqQbThMjIxiJIKZxYm2kHS5+eqBAtPiTi5+0iOUi9XOhJIO0QWxQaX5kaEE7Au/wP9e5VLGXzjMf5gArpLnkXqyZ6el4BcwY13oxGS3a7OUnSOu7jf1SE=;xD1w4MMmHkUtBMm04Q8WJg=="
 ---

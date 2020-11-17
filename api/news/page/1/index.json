@@ -2,6 +2,523 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-18-exadel-announced-the-release-of-compreface-an-open-source-facial-recognition-application.md",
+      "title": "Exadel announced the release of CompreFace, an open-source facial recognition application",
+      "excerpt": "CompreFace is an open-source facial recognition application by Exadel that can be integrated as a standalone service or deployed via the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/42128/",
+      "originalUrl": "https://sdtimes.com/ai/42128/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/images/sd-premium.png",
+          "width": 628,
+          "height": 246,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-17T10:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-opinion-healthcare-ai-systems-are-biased.md",
+      "title": "Opinion: Healthcare AI systems are biased",
+      "excerpt": "Thanks to advances in artificial intelligence (AI) and machine learning, computer systems can now diagnose skin cancer like a dermatologist would, pick out a stroke on a CT scan like a radiologist, and even detect potential cancers on a colonoscopy like a gastroenterologist.",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthleadersmedia.com/innovation/opinion-healthcare-ai-systems-are-biased",
+      "originalUrl": "https://www.healthleadersmedia.com/innovation/opinion-healthcare-ai-systems-are-biased",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.healthleadersmedia.com/sites/hlmp/themes/hlmp/release/hlm_redesign/images/footer-logo.png",
+          "width": 500,
+          "height": 211,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-17T10:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HealthLeaders Media",
+        "domain": "healthleadersmedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-new-eu-funded-project-will-use-ai-to-capture-the-key-scents-of-historical-europe.md",
+      "title": "New EU-funded project will use AI to capture the key scents of historical Europe",
+      "excerpt": "The Odeuropa team will use AI to extract information about smells from historical documents and images — and then recreate the scents.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/11/17/new-eu-funded-project-will-use-ai-to-capture-the-key-scents-of-historical-europe/",
+      "originalUrl": "https://thenextweb.com/neural/2020/11/17/new-eu-funded-project-will-use-ai-to-capture-the-key-scents-of-historical-europe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/Untitled-design-2020-11-17T151435.287-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/11/17/new-eu-funded-project-will-use-ai-to-capture-the-key-scents-of-historical-europe/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/17/new-eu-funded-project-will-use-ai-to-capture-the-key-scents-of-historical-europe/amp/",
+      "publishedDateTime": "2020-11-17T10:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-canaan-rises-along-with-bitcoin-as-ai-chip-development-continues.md",
+      "title": "Canaan Rises Along With Bitcoin As AI Chip Development Continues",
+      "excerpt": "Huangzhou, China-based Canaan was founded in 2013 with an initial focus on developing ASIC applications for Bitcoin mining under the brand Avalon Miner and has since expanded its portfolio with the Kendryte K210 chip.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/ipo/news/canaan-bitcoin-mining-ai",
+      "originalUrl": "https://www.thestreet.com/ipo/news/canaan-bitcoin-mining-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTc2ODg1OTUyODI2ODQ1MTI2/canrev.png",
+          "width": 620,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp-ipo/ipo/news/canaan-bitcoin-mining-ai",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-ipo/ipo/news/canaan-bitcoin-mining-ai",
+      "publishedDateTime": "2020-11-17T10:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-inside-the-world-of-ai-at-ibm-watson-advertising.md",
+      "title": "Inside The World Of AI At IBM Watson Advertising",
+      "excerpt": "At IBM Watson Advertising, CMO Randi Stipes looks at AI as a practical toolset that has been in place for a decade rather than the vague promise of a rosier future. I recently asked Randi to give us an AI update.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/paultalbot/2020/11/17/inside-the-world-of-ai-at-ibm-watson-advertising/",
+      "originalUrl": "https://www.forbes.com/sites/paultalbot/2020/11/17/inside-the-world-of-ai-at-ibm-watson-advertising/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb40a73ca0aa497e8949df6%2F0x0.jpg",
+          "width": 1200,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paultalbot/2020/11/17/inside-the-world-of-ai-at-ibm-watson-advertising/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultalbot/2020/11/17/inside-the-world-of-ai-at-ibm-watson-advertising/amp/",
+      "publishedDateTime": "2020-11-17T09:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-biomarin-and-deep-genomics-to-collaborate-on-advancing-programs-identified-using-artificial-intelligence.md",
+      "title": "BioMarin and Deep Genomics to Collaborate on Advancing Programs Identified Using Artificial Intelligence",
+      "excerpt": "In the collaboration, Deep Genomics will use its AI Workbench to identify and validate target mechanisms and lead candidates, and BioMarin will advance them into preclinical and clinical development.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/biomarin-and-deep-genomics-to-collaborate-on-advancing-programs-identified-using-artificial-intelligence-1029811053",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/biomarin-and-deep-genomics-to-collaborate-on-advancing-programs-identified-using-artificial-intelligence-1029811053",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/biomarin-and-deep-genomics-to-collaborate-on-advancing-programs-identified-using-artificial-intelligence-1029811053",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/biomarin-and-deep-genomics-to-collaborate-on-advancing-programs-identified-using-artificial-intelligence-1029811053",
+      "publishedDateTime": "2020-11-17T09:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-artificial-intelligence-ai-market-overall-study-report-with-top-key-players.md",
+      "title": "Artificial Intelligence (AI) Market Overall Study Report with Top Key Players",
+      "excerpt": "Global Artificial Intelligence (AI) Market valued approximately USD 16 billion in 2016 is anticipated to grow with",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-overall-study-report-with-top-key-players-2020-11-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-overall-study-report-with-top-key-players-2020-11-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-17T09:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-revisiting-ethical-ai-where-do-organizations-need-to-go-next.md",
+      "title": "Revisiting ethical AI - where do organizations need to go next?",
+      "excerpt": "AI ethics are having a hard time keeping up with AI. Academic debates may be interesting, but organizations need a practical AI ethics framework. Where do we go from here?",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/revisiting-ethical-ai-where-do-organizations-need-go-next",
+      "originalUrl": "https://diginomica.com/revisiting-ethical-ai-where-do-organizations-need-go-next",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2018-01/Fotolia-jimbophotoart-163732204_Sub_740px.jpg",
+          "width": 740,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/revisiting-ethical-ai-where-do-organizations-need-go-next?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/revisiting-ethical-ai-where-do-organizations-need-go-next?amp",
+      "publishedDateTime": "2020-11-17T08:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-ai-dungeon-proves-machine-learning-games-are-the-future.md",
+      "title": "AI Dungeon Proves Machine Learning Games Are the Future",
+      "excerpt": "The innovative AI Dungeon lets players experience an endless text adventure and could change how games tell their stories in a MAJOR way.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbr.com/ai-dungeon-machine-learning-future-of-games/",
+      "originalUrl": "https://www.cbr.com/ai-dungeon-machine-learning-future-of-games/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/11/AI-Dungeon-Feature02.jpg",
+          "width": 1400,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbr.com/ai-dungeon-machine-learning-future-of-games/amp/",
+      "cdnAmpWebUrl": "https://www-cbr-com.cdn.ampproject.org/c/s/www.cbr.com/ai-dungeon-machine-learning-future-of-games/amp/",
+      "publishedDateTime": "2020-11-17T07:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBR",
+        "domain": "cbr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-test-post.md",
+      "title": "Test post",
+      "excerpt": "The post Test post appeared first on Watson Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/11/test-post-2/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/11/test-post-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-17T07:01:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-japan-is-using-robots-as-a-service-to-fight-coronavirus-and-for-better-quality-of-life.md",
+      "title": "Japan Is Using Robots As A Service To Fight Coronavirus And For Better Quality Of Life",
+      "excerpt": "As societies around the world grapple with the coronavirus pandemic, service robots have emerged as a powerful tool in fighting the virus and addressing social needs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/japan/2020/11/17/japan-is-using-robots-as-a-service-to-fight-coronavirus-and-for-better-quality-of-life/",
+      "originalUrl": "https://www.forbes.com/sites/japan/2020/11/17/japan-is-using-robots-as-a-service-to-fight-coronavirus-and-for-better-quality-of-life/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb2c677734f73649e16046e%2F0x0.jpg",
+          "width": 600,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/japan/2020/11/17/japan-is-using-robots-as-a-service-to-fight-coronavirus-and-for-better-quality-of-life/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/japan/2020/11/17/japan-is-using-robots-as-a-service-to-fight-coronavirus-and-for-better-quality-of-life/amp/",
+      "publishedDateTime": "2020-11-17T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-ai-can-help-organizations-to-slash-16-greenhouse-gas-emission-in-next-3-5-yrs-report.md",
       "title": "AI Can Help Organizations To Slash 16% GreenHouse Gas Emission In Next 3-5 Yrs: Report",
       "excerpt": "According to the survey, around 48 per cent of the organizations surveyed are using AI for climate action and have witnessed drop in greenhouse gas emission",
@@ -414,7 +931,7 @@
       "originalUrl": "https://techcrunch.com/2020/11/17/edgeq-raises-51-million-to-fuse-ai-compute-and-5g-within-a-single-chip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -454,6 +971,57 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-how-ai-can-change-customer-experience-and-engagement.md",
+      "title": "How AI Can Change Customer Experience And Engagement",
+      "excerpt": "Customers and brands alike stand to gain immense benefits from AI. To get the most out of the technology, organizations must make sure to use it intelligently and offer personalized experiences.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/17/how-ai-can-change-customer-experience-and-engagement/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/17/how-ai-can-change-customer-experience-and-engagement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb2b09502ab39790dd3e41c%2F0x0.jpg",
+          "width": 1199,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/17/how-ai-can-change-customer-experience-and-engagement/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/17/how-ai-can-change-customer-experience-and-engagement/amp/",
+      "publishedDateTime": "2020-11-17T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -505,49 +1073,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-artificial-intelligence-robots-market-growth-size-opportunity-share-and-forecast-2019-2025.md",
-      "title": "Artificial Intelligence Robots Market Growth, Size, Opportunity, Share and Forecast 2019-2025",
-      "excerpt": "The artificial intelligence robot market is expected to grow at a CAGR of 20 38 during the forecast period from 2019 to 2025 Artificial intelligence AI is the creation of smart smart machines that work react and respond like humans",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2188814/artificial-intelligence-robots-market-growth-size",
-      "originalUrl": "https://www.openpr.com/news/2188814/artificial-intelligence-robots-market-growth-size",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/b/Tb17392453_g.jpg",
-          "width": 800,
-          "height": 571,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2188814/artificial-intelligence-robots-market-growth-size",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2188814/artificial-intelligence-robots-market-growth-size",
-      "publishedDateTime": "2020-11-17T04:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -604,6 +1129,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-17-malbek-extends-contract-capabilities-with-focus-on-ai-and-integrations.md",
+      "title": "Malbek Extends Contract Capabilities with Focus on AI and Integrations",
+      "excerpt": "PRNewswire/ -- Malbek, a cloud-based provider of modern contract lifecycle management (CLM) solutions, has released new product functionality that expands tools for contract insight, advances Malbek's AI-first contracting engine,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/malbek-extends-contract-capabilities-with-focus-on-ai-and-integrations-1029810046",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/malbek-extends-contract-capabilities-with-focus-on-ai-and-integrations-1029810046",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/malbek-extends-contract-capabilities-with-focus-on-ai-and-integrations-1029810046",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/malbek-extends-contract-capabilities-with-focus-on-ai-and-integrations-1029810046",
+      "publishedDateTime": "2020-11-17T03:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-help-your-organization-sprint-forward-using-ai-tech-sprints.md",
       "title": "Help Your Organization ‘Sprint’ Forward Using AI Tech Sprints",
       "excerpt": "One of the ways to promote the effective application of AI is through partnerships between the public and private sector, drawing upon the scale and infrastructure from the public sector and the agility and technical talent from the private sector.",
@@ -612,7 +1180,7 @@
       "originalUrl": "https://www.forbes.com/sites/christosmakridis/2020/11/17/help-your-organization-sprint-forward-using-ai-tech-sprints/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -651,567 +1219,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-former-intel-cto-of-enterprise-joins-ai-startup-censia.md",
-      "title": "Former Intel CTO of Enterprise joins AI Startup Censia",
-      "excerpt": "Burges Karkaria, former Chief Technology Officer of Enterprise at Intel Corporation, has joined Bay Area startup Censia–a leading provider of talent intelligence, recruiting and workforce management technology–as CTO.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/former-intel-cto-of-enterprise-joins-ai-startup-censia-1029809520",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/former-intel-cto-of-enterprise-joins-ai-startup-censia-1029809520",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/former-intel-cto-of-enterprise-joins-ai-startup-censia-1029809520",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/former-intel-cto-of-enterprise-joins-ai-startup-censia-1029809520",
-      "publishedDateTime": "2020-11-17T01:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-li-artificial-intelligence-startup-that-can-write-emails-snares-26m.md",
-      "title": "LI artificial intelligence startup that can write emails snares $2.6M",
-      "excerpt": "OthersideAI Inc., a Melville startup that harnesses artificial intelligence to ease the drudgery of writing emails, has snared $2.6 million in a funding round led by a West Coast venture capital firm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsday.com/business/technology/othersideai-artificial-intelligence-ai-madrona-venture-group-syracuse-gmail-1.50067160",
-      "originalUrl": "https://www.newsday.com/business/technology/othersideai-artificial-intelligence-ai-madrona-venture-group-syracuse-gmail-1.50067160",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.newsday.com/polopoly_fs/1.49644293.1605567478!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsday.com/amp/business/technology/othersideai-artificial-intelligence-ai-madrona-venture-group-syracuse-gmail-1.50067160",
-      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/business/technology/othersideai-artificial-intelligence-ai-madrona-venture-group-syracuse-gmail-1.50067160",
-      "publishedDateTime": "2020-11-17T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsday",
-        "domain": "newsday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-nxp-collaborates-with-amazon-web-services-aws-to-extend-connected-vehicle-opportunities.md",
-      "title": "NXP Collaborates with Amazon Web Services (AWS) to Extend Connected Vehicle Opportunities",
-      "excerpt": "Vehicle edge-to-cloud compute solution aims to enable new automotive industry revenue opportunities Sets foundation for data-driven services and",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/nxp-collaborates-with-amazon-web-services-aws-to-extend-connected-vehicle-opportunities-1029809200",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/nxp-collaborates-with-amazon-web-services-aws-to-extend-connected-vehicle-opportunities-1029809200",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/NXP-Collaborates-with-Amazon-Web-Services-AWS-to-Extend-Connected-Vehicle-Opportunities-1029809200",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/NXP-Collaborates-with-Amazon-Web-Services-AWS-to-Extend-Connected-Vehicle-Opportunities-1029809200",
-      "publishedDateTime": "2020-11-16T23:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-autodesk-acquires-ai-based-design-firm-spacemaker.md",
-      "title": "Autodesk acquires AI-based design firm Spacemaker",
-      "excerpt": "Autodesk said Tuesday that it has signed a deal to acquire Spacemaker for $240 million. Based in Oslo, Norway, Spacemaker uses artificial intelligence and generative design to help architects, urban designers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/autodesk-acquires-ai-based-design-firm-spacemaker/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/autodesk-acquires-ai-based-design-firm-spacemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/11/16/a0661235-44d1-4c94-82a2-f0bb03bbcd4f/tandem-screenshot.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/autodesk-acquires-ai-based-design-firm-spacemaker/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/autodesk-acquires-ai-based-design-firm-spacemaker/",
-      "publishedDateTime": "2020-11-16T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-tantech-subsidiary-launches-innovative-driverless-and-autonomous-street-sweepers.md",
-      "title": "Tantech Subsidiary Launches Innovative Driverless and Autonomous Street Sweepers",
-      "excerpt": "PRNewswire/ -- Tantech Holdings Ltd (NASDAQ: TANH) ('Tantech' or the 'Company'), a clean energy company in China,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/tantech-subsidiary-launches-innovative-driverless-and-autonomous-street-sweepers-1029805941",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/tantech-subsidiary-launches-innovative-driverless-and-autonomous-street-sweepers-1029805941",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/tantech-subsidiary-launches-innovative-driverless-and-autonomous-street-sweepers-1029805941",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tantech-subsidiary-launches-innovative-driverless-and-autonomous-street-sweepers-1029805941",
-      "publishedDateTime": "2020-11-16T21:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-huawei-cloud-named-a-leader-in-predictive-analytics-and-machine-learning.md",
-      "title": "HUAWEI CLOUD Named a Leader in Predictive Analytics and Machine Learning",
-      "excerpt": "HUAWEI CLOUD was listed in the Leaders segment based on its scores in current offering and strategy, according to The Forrester Wave™: Predictive Analytics and Machine Learning in China, Q4 2020 report.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/huawei-cloud-named-a-leader-in-predictive-analytics-and-machine-learning-1029808693",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/huawei-cloud-named-a-leader-in-predictive-analytics-and-machine-learning-1029808693",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/huawei-cloud-named-a-leader-in-predictive-analytics-and-machine-learning-1029808693",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/huawei-cloud-named-a-leader-in-predictive-analytics-and-machine-learning-1029808693",
-      "publishedDateTime": "2020-11-16T18:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-simplemachines-unveils-high-performance-chip-for-ai-and-ml-applications.md",
-      "title": "SimpleMachines unveils high performance chip for AI and ML applications",
-      "excerpt": "SimpleMachines has announced that it has created a first-of-its-kind easily programmable, high-performance chip that will help accelerate a wide variety of AI and machine-learning applications. The San Jose start-up said that the chip,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newelectronics.co.uk/electronics-news/simplemachines-unveils-high-performance-chip-for-ai-and-ml-application/232209/",
-      "originalUrl": "https://www.newelectronics.co.uk/electronics-news/simplemachines-unveils-high-performance-chip-for-ai-and-ml-application/232209/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newelectronics.co.uk/article-images/232209/simple.jpg?width=375&height=250&scale=canvas",
-          "width": 375,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-16T16:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Electronics",
-        "domain": "newelectronics.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "AI Hardware",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-facial-recognition-system-at-airport-still-not-operational.md",
-      "title": "Facial recognition system at airport still not operational",
-      "excerpt": "Taxpayers shelled out nearly $1 million for a state-of-the-art security system at the Frederick Douglass-Greater Rochester International Airport but two years after it was installed, it’s still not operational.",
-      "sourceUrl": null,
-      "webUrl": "https://www.whec.com/rochester-new-york-news/facial-recognition-system-at-airport-still-not-operational/5926076/",
-      "originalUrl": "https://www.whec.com/rochester-new-york-news/facial-recognition-system-at-airport-still-not-operational/5926076/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.whec.com/whecimages/repository/2020-11/Facial_recognition_system_at_airport_still_not_operational-syndImport-052720.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.whec.com/articles/facial-recognition-system-at-airport-still-not-operational-5926076.html",
-      "cdnAmpWebUrl": "https://amp-whec-com.cdn.ampproject.org/c/s/amp.whec.com/articles/facial-recognition-system-at-airport-still-not-operational-5926076.html",
-      "publishedDateTime": "2020-11-16T14:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WHEC",
-        "domain": "whec.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-baidu-to-buy-chinese-livestreaming-giant-in-big-social-foray.md",
-      "title": "Baidu to Buy Chinese Livestreaming Giant in Big Social Foray",
-      "excerpt": "Baidu Inc. agreed to buy Joyy Inc.’s livestreaming business ... intelligence technology and betting on commercializing AI through smart speakers and self-driving cars. In September, its smart speaker unit received its first independent financing round ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-11-16/baidu-to-buy-chinese-livestreaming-giant-in-big-social-foray",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-11-16/baidu-to-buy-chinese-livestreaming-giant-in-big-social-foray",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7bMQ7gTztuk/v2/360x-1.png",
-          "width": 360,
-          "height": 202,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-11-16/baidu-to-buy-chinese-livestreaming-giant-in-big-social-foray",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-16/baidu-to-buy-chinese-livestreaming-giant-in-big-social-foray",
-      "publishedDateTime": "2020-11-16T14:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-new-medical-ai-can-take-vitals-without-waking-up-patients.md",
-      "title": "New medical AI can take vitals without waking up patients",
-      "excerpt": "Using deep learning to predict patient vitals as they sleep could lead to healthier patients and less burnout for nurses, researchers say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/new-medical-ai-can-take-vitals-without-waking-up-patients/",
-      "originalUrl": "https://www.cnet.com/news/new-medical-ai-can-take-vitals-without-waking-up-patients/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/AKbzMtzM2h9dP7k1g6gnwGbgPbA=/1200x630/2020/11/16/8e148834-5df1-47a7-886b-5346fb2e3076/gettyimages-157770651.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/new-medical-ai-can-take-vitals-without-waking-up-patients/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-medical-ai-can-take-vitals-without-waking-up-patients/",
-      "publishedDateTime": "2020-11-16T13:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-deep-vision-announces-its-low-latency-ai-processor-for-the-edge.md",
-      "title": "Deep Vision announces its low-latency AI processor for the edge",
-      "excerpt": "Deep Vision, a new AI startup that is building an AI inferencing chip for edge computing solutions, is coming out of stealth today. The six-year-old company’s new ARA-1 processors promise to strike the right balance between low latency,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/16/deep-vision-announces-its-low-latency-ai-processor-for-the-edge/",
-      "originalUrl": "https://techcrunch.com/2020/11/16/deep-vision-announces-its-low-latency-ai-processor-for-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1150039017.jpg?w=1024",
-          "width": 1024,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/16/deep-vision-announces-its-low-latency-ai-processor-for-the-edge/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/16/deep-vision-announces-its-low-latency-ai-processor-for-the-edge/amp/",
-      "publishedDateTime": "2020-11-16T12:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-deepmind-open-sources-lab2d-a-grid-based-environment-for-reinforcement-learning-research.md",
-      "title": "DeepMind open-sources Lab2D, a grid-based environment for reinforcement learning research",
-      "excerpt": "DeepMind this week open-sourced Lab2D, a software system designed to support the creation of 2D environments for AI and machine learning research. The Alphabet subsidiary says that Lab2D was built ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/16/deepmind-open-sources-lab2d-a-grid-based-environment-for-reinforcement-learning-research/",
-      "originalUrl": "https://venturebeat.com/2020/11/16/deepmind-open-sources-lab2d-a-grid-based-environment-for-reinforcement-learning-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&strip=all",
-          "width": 1198,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/16/deepmind-open-sources-lab2d-a-grid-based-environment-for-reinforcement-learning-research/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/16/deepmind-open-sources-lab2d-a-grid-based-environment-for-reinforcement-learning-research/amp/",
-      "publishedDateTime": "2020-11-16T09:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.radioiowa.com/2020/11/16/bovine-facial-recognition-app
 webUrl: "https://www.radioiowa.com/2020/11/16/bovine-facial-recognition-app-almost-ready-for-the-market/"
 type: article
 quality: 39
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "How regulators can get facial recognition technology right"
-    excerpt: "As facial recognition technology spreads, regulators have tools to ensure that this technology does not result in inaccurate or biased outcomes."
-    publishedDateTime: 2020-11-17T14:27:00Z
-    webUrl: "https://www.brookings.edu/techstream/how-regulators-can-get-facial-recognition-technology-right/"
+  - title: "Exadel announced the release of CompreFace, an open-source facial recognition application"
+    excerpt: "CompreFace is an open-source facial recognition application by Exadel that can be integrated as a standalone service or deployed via the cloud."
+    publishedDateTime: 2020-11-17T18:44:00Z
+    webUrl: "https://sdtimes.com/ai/42128/"
     type: article
     provider:
-      name: Brookings Institution
-      domain: brookings.edu
-    quality: 39
+      name: SD Times
+      domain: sdtimes.com
+    quality: 60
     images:
-      - url: "https://www.brookings.edu/wp-content/uploads/2020/11/Ho_Facial-Recognition.jpg"
-        width: 3600
-        height: 2400
-        isCached: true
-  - title: "Technology trends on the rise: aisle sat-nav, scan and go and facial recognition set to revolutionise the industry, says Ubamarket"
-    excerpt: "Will Broome, CEO of retail fintech app Ubamarket, discusses how nimble technologies are essential for recovery post-COVID"
-    publishedDateTime: 2020-11-17T12:59:00Z
-    webUrl: "https://www.retailtimes.co.uk/technology-trends-on-the-rise-aisle-sat-nav-scan-and-go-and-facial-recognition-set-to-revolutionise-the-industry-says-ubamarket/"
-    type: article
-    provider:
-      name: Retail Times
-      domain: retailtimes.co.uk
-    quality: 24
-    images:
-      - url: "http://www.retailtimes.co.uk/wp-content/uploads/2013/10/RTnewsletter-logo.jpg"
-        width: 560
-        height: 420
+      - url: "https://sdtimes.com/images/sd-premium.png"
+        width: 628
+        height: 246
         isCached: true
 
 secured: "A8Rs+oiZL6ecFlV4NFRxDkjTcLx70Is1t4nAPBS3fXdyFsQPgTagBevwPHr9imuDjjA2f+NCnjVcSCzeRmBFlWr9vjYYAy4vYYrWw+dpVZvvdEIeS3b5hvNK7Tvj3nmhZvdAw5KYFXRiiSs1FEvfdqeO1dVAHSmz3KIacp2bjgoW/ubXbIKqWARloDxofzUm1k4V2IcGTXosP4E3r6dv0sqUIZr/mhYKryEW3JBFQ1Zs2lOQf1oIohYSyZt6yf/cjO3zX7trnV+8sjNmUlYInAzsZwuORNL1nPZJmp4WJ5ILcBATXWoO1SahlgkQCPT3FsWak7BmhwGdktuN2TsmWiwmE5vtLYM4e0qUe9z4NL/946p72lB6vKPpK7AGODo4GJ85GEZjVt8fkVaLQGzwRblxtoHe4Btz8AyAeK8aW03DQULmn22iKLqGz/A5MnW5bOnqL3W0q1jHOegCnQwR0mVwrDtSsWAZqYohGBcL+cQyEuRjntdzertWdKGebzreUSzl0MN9gJBhvBA3umDbnw==;WY0QmTn83nC5ODnceqD1rQ=="

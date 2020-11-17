@@ -2,6 +2,136 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-18-biomarin-and-deep-genomics-to-collaborate-on-advancing-programs-identified-using-artificial-intelligence.md",
+      "title": "BioMarin and Deep Genomics to Collaborate on Advancing Programs Identified Using Artificial Intelligence",
+      "excerpt": "In the collaboration, Deep Genomics will use its AI Workbench to identify and validate target mechanisms and lead candidates, and BioMarin will advance them into preclinical and clinical development.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/biomarin-and-deep-genomics-to-collaborate-on-advancing-programs-identified-using-artificial-intelligence-1029811053",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/biomarin-and-deep-genomics-to-collaborate-on-advancing-programs-identified-using-artificial-intelligence-1029811053",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/biomarin-and-deep-genomics-to-collaborate-on-advancing-programs-identified-using-artificial-intelligence-1029811053",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/biomarin-and-deep-genomics-to-collaborate-on-advancing-programs-identified-using-artificial-intelligence-1029811053",
+      "publishedDateTime": "2020-11-17T09:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-ai-dungeon-proves-machine-learning-games-are-the-future.md",
+      "title": "AI Dungeon Proves Machine Learning Games Are the Future",
+      "excerpt": "The innovative AI Dungeon lets players experience an endless text adventure and could change how games tell their stories in a MAJOR way.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbr.com/ai-dungeon-machine-learning-future-of-games/",
+      "originalUrl": "https://www.cbr.com/ai-dungeon-machine-learning-future-of-games/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/11/AI-Dungeon-Feature02.jpg",
+          "width": 1400,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbr.com/ai-dungeon-machine-learning-future-of-games/amp/",
+      "cdnAmpWebUrl": "https://www-cbr-com.cdn.ampproject.org/c/s/www.cbr.com/ai-dungeon-machine-learning-future-of-games/amp/",
+      "publishedDateTime": "2020-11-17T07:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBR",
+        "domain": "cbr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-deep-learning-market-focus-on-medical-image-processing-2020-2030.md",
+      "title": "Deep Learning Market: Focus on Medical Image Processing, 2020-2030",
+      "excerpt": "Reportlinker.com announces the release of the report \"Deep Learning Market: Focus on Medical Image Processing, 2020-2030\" -  This technology is gradually being incorporated in a variety of applications across the healthcare sector,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/deep-learning-market-focus-on-medical-image-processing-2020-2030-1029809618",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/deep-learning-market-focus-on-medical-image-processing-2020-2030-1029809618",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Deep-Learning-Market-Focus-on-Medical-Image-Processing-2020-2030-1029809618",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Deep-Learning-Market-Focus-on-Medical-Image-Processing-2020-2030-1029809618",
+      "publishedDateTime": "2020-11-17T01:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-huawei-cloud-named-a-leader-in-predictive-analytics-and-machine-learning.md",
       "title": "HUAWEI CLOUD Named a Leader in Predictive Analytics and Machine Learning",
       "excerpt": "HUAWEI CLOUD was listed in the Leaders segment based on its scores in current offering and strategy, according to The Forrester Wave™: Predictive Analytics and Machine Learning in China, Q4 2020 report.",
@@ -91,51 +221,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-17-machine-learning-in-banking-and-marketing-applications-for-2021-and-beyond.md",
-      "title": "Machine learning in banking and marketing applications for 2021 and beyond",
-      "excerpt": "Artificial intelligence (AI) and machine learning in banking make the strongest combination possible. Since these technologies are versatile, there are a lot of ways to use them across industries,",
-      "sourceUrl": null,
-      "webUrl": "https://roboticsandautomationnews.com/2020/11/16/machine-learning-in-banking-and-marketing-applications-for-2021-and-beyond/38220/",
-      "originalUrl": "https://roboticsandautomationnews.com/2020/11/16/machine-learning-in-banking-and-marketing-applications-for-2021-and-beyond/38220/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://roboticsandautomationnews.com/wp-content/uploads/2020/11/Picture1.png",
-          "width": 750,
-          "height": 499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-16T08:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Robotics & Automation News",
-        "domain": "roboticsandautomationnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Marketing",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2020-11-16-the-eyes-have-it-the-future-of-human-machine-relations.md",
       "title": "The Eyes Have It: The Future Of Human-Machine Relations",
       "excerpt": "This kind of eye contact is all about making the daily work of employees more convenient, ergonomically-friendly, and even fun by controlling applications based on user intention – via eye tracking.",
@@ -168,49 +253,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-deep-learning-global-markets.md",
-      "title": "Deep Learning: Global Markets",
-      "excerpt": "Reportlinker.com announces the release of the report \"Deep Learning: Global Markets\" -  Revenue forecasts for this period are segmented by offering, end user and region. Market values have been estimated based on the total revenues of hardware,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/deep-learning-global-markets-1029805190",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/deep-learning-global-markets-1029805190",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Deep-Learning-Global-Markets-1029805190",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Deep-Learning-Global-Markets-1029805190",
-      "publishedDateTime": "2020-11-16T03:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -291,7 +333,7 @@
       "originalUrl": "https://www.govtech.com/health/Albany-NY-Airport-Updates-App-with-Health-Sanitation-Measures.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -551,6 +593,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-octoml-announces-speaker-line-up-for-3rd-annual-apache-tvm-conference-focused-on-advances-in-deep-learning-compilation-and-optimization.md",
+      "title": "OctoML Announces Speaker Line-Up for 3rd Annual Apache TVM Conference Focused on Advances in Deep Learning Compilation and Optimization",
+      "excerpt": "OctoML, the MLOps automation company for superior model performance, portability and productivity, today announced the speaker line-up for the Apache TVM and Deep Learning Compilation Conference. The free virtual conference will cover the state of the art of deep learning compilation and optimization and recent advances in frameworks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/octoml-announces-speaker-line-up-for-3rd-annual-apache-tvm-conference-focused-on-advances-in-deep-learning-compilation-and-optimization-2020-11-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/octoml-announces-speaker-line-up-for-3rd-annual-apache-tvm-conference-focused-on-advances-in-deep-learning-compilation-and-optimization-2020-11-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-12T10:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1372,110 +1466,6 @@
         "AI Ethics",
         "Natural Language Processing",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-the-best-machine-learning-startups-to-work-for-in-2021-according-to-glassdoor.md",
-      "title": "The Best Machine Learning Startups To Work For In 2021 According To Glassdoor",
-      "excerpt": "AVORA, Codesmith, FairMarkIT, Protenus and Ravelin are the most likely to be recommended by their employees to friends looking for a machine learning startup to work for in 2021 based on each company's Glassdoor ratings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/08/the-best-machine-learning-startups-to-work-for-in-2021-according-to-glassdoor/",
-      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/08/the-best-machine-learning-startups-to-work-for-in-2021-according-to-glassdoor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6970cb93c4bdf032c4b97d%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/08/the-best-machine-learning-startups-to-work-for-in-2021-according-to-glassdoor/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/11/08/the-best-machine-learning-startups-to-work-for-in-2021-according-to-glassdoor/amp/",
-      "publishedDateTime": "2020-11-08T17:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste.md",
-      "title": "CSIRO to use artificial intelligence, machine learning, and sensors to end plastic waste",
-      "excerpt": "The Commonwealth Scientific and Industrial Research Organisation (CSIRO) has announced partnerships with Microsoft, Hobart City Council, and Chemistry Australia to address -- and attempt to end -- Australia's plastics waste issue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
-      "originalUrl": "https://www.zdnet.com/article/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/06/16/9661d050-0c11-4767-a7ae-3c29bd3d17c5/storm-water-and-litter.jpg",
-          "width": 728,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
-      "publishedDateTime": "2020-11-08T16:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

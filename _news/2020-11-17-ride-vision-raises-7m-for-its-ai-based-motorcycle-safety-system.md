@@ -60,6 +60,20 @@ related:
         width: 470
         height: 352
         isCached: true
+  - title: "Computer Vision Company Chooch AI Closes $20 Million Series A Round with Vickers Venture ..."
+    excerpt: "(GLOBE NEWSWIRE) -- chooch.ai, a computer vision AI platform, today announced their Series A round led by venture capital firm Vickers Venture Partners with additional institutional funding from 212,"
+    publishedDateTime: 2020-11-16T17:02:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-turkey-investment-management-middle-east-81303762b24f03b9d1779076437de41a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 43
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "rnrmXNTI44EennpCbgVs5oflCNEAQFwLr+D5os35NVCnfzhBwqS0npdxouq/UbTbXA/5pUw4sH3kaLC1YSQjmZeLWW80Xp8+pkTUKl6ltyhHpSUPINSQklzaEgPpaBZeaw1QNZycAuQCCHGNCqbJqaZ484hFfKuZVXqDo2PlQrH22zaeyZtby8Wvh9RMhk8Mk9+TkL0B1z4LEQkURnyRkQkEwNwjeXYhAgQQoBq7HLWnZw9+zua9zspP1mC3RqonvcApxw8Ami+WZdrTRALU3IRcYJzOBz2PL/OkyvpMvxaHLhR5jMtppj3WU84LvYzgA+8SGhkdJ+jHGah0Brhf6AkpjAWGSFWaDMG+GmW2NnU=;WCclJr6u9uMGTEYO60drbA=="
 ---

@@ -2,6 +2,540 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-11-11-ghanaian-radiographers-urged-to-embrace-artificial-intelligence-systems.md",
+      "title": "Ghanaian radiographers urged to embrace artificial intelligence systems",
+      "excerpt": "The President of the Ghana Radiographers Association, Prince Rockson has advised radiographers in the country to learn to use Artificial Intelligence (AI) system in their day-to-day operations to ensure better results for their patients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Jonathan-Mensah-proud-to-make-century-of-appearances-for-Columbus-Crew-1105000",
+      "originalUrl": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Jonathan-Mensah-proud-to-make-century-of-appearances-for-Columbus-Crew-1105000",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ghanaweb.com/imagelib/pics/552/55272218.295.jpg",
+          "width": 300,
+          "height": 235,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-10T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ghanaweb.com",
+        "domain": "ghanaweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-mediatek-debuts-chips-for-budget-5g-phones-and-powerful-chromebooks.md",
+      "title": "MediaTek debuts chips for budget 5G phones and powerful Chromebooks",
+      "excerpt": "In 2021, the Taiwanese chipmaker will bring 5G to the most affordable phones and add advanced camera and AI features to Chromebooks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/10/mediatek-debuts-chips-for-budget-5g-phones-and-powerful-chromebooks/",
+      "originalUrl": "https://venturebeat.com/2020/11/10/mediatek-debuts-chips-for-budget-5g-phones-and-powerful-chromebooks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/dimensity700.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/10/mediatek-debuts-chips-for-budget-5g-phones-and-powerful-chromebooks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/10/mediatek-debuts-chips-for-budget-5g-phones-and-powerful-chromebooks/amp/",
+      "publishedDateTime": "2020-11-10T08:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-biotech-accelerating-innovation-in-health-care.md",
+      "title": "BioTech: Accelerating innovation in health care",
+      "excerpt": "The answer will likely come from advances initiated by biotech startups, aided by new data processing and artificial intelligence ... generally a new innovative therapy is a long and complex ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/10/biotech-accelerating-innovation-in-health-care/",
+      "originalUrl": "https://venturebeat.com/2020/11/10/biotech-accelerating-innovation-in-health-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Rafaele-Tordjman_Interview-Stills8_selected.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 616,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/10/biotech-accelerating-innovation-in-health-care/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/10/biotech-accelerating-innovation-in-health-care/amp/",
+      "publishedDateTime": "2020-11-10T07:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-qatar-ai-enabled-self-driving-cars-a-necessary-component-for-human-safety-volvo-official.md",
+      "title": "Qatar- AI-enabled self-driving cars a necessary component for human safety: Volvo official",
+      "excerpt": "The Peninsula  <p>Volvo recently participated in a webinar on Artificial Intelligence (AI), an initiative by the Embassy of Sweden and Swedish Chamber of Com",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1101100905/Qatar-AI-enabled-self-driving-cars-a-necessary-component-for-human-safety-Volvo-official",
+      "originalUrl": "https://menafn.com/1101100905/Qatar-AI-enabled-self-driving-cars-a-necessary-component-for-human-safety-Volvo-official",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2020-11/10/TP_13ffbe8c-8image_story.jpg",
+          "width": 532,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-10T07:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-smarsh-to-acquire-ai-company-digital-reasoning.md",
+      "title": "Smarsh to Acquire AI Company Digital Reasoning",
+      "excerpt": "Smarsh says Digital Reasoning’s artificial intelligence and machine-learning technology will allow it to more efficiently sift through the virtual reams of communications it archives for financial-services firms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/smarsh-to-acquire-artificial-intelligence-company-digital-reasoning-51605021943",
+      "originalUrl": "https://www.barrons.com/articles/smarsh-to-acquire-artificial-intelligence-company-digital-reasoning-51605021943",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-257802/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/smarsh-to-acquire-artificial-intelligence-company-digital-reasoning-51605021943",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/smarsh-to-acquire-artificial-intelligence-company-digital-reasoning-51605021943",
+      "publishedDateTime": "2020-11-10T07:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-global-service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026.md",
+      "title": "Global Service Robotics Market Size & Share By Sales Revenue, Future Demands, Growth Factors and Emerging Trends Forecast to 2026",
+      "excerpt": "The global “Service Robotics Market” is expected to rise with an impressive CAGR and generate the highest revenue by",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026-2020-11-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026-2020-11-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-10T07:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-why-ai-tech-stacks-is-the-new-hack-for-pr-hacks.md",
+      "title": "Why AI Tech Stacks Is The New Hack… For PR Hacks",
+      "excerpt": "AI is going to have a huge influence on how PR professionals engage with journalists going forward. The trick will be relying on our professional and creative instincts to find inspiration – and leveraging AI to improve performance and refine our pitch strategies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aaronkwittken/2020/11/10/why-ai-tech-stacks-is-the-new-hack-for-pr-hacks/",
+      "originalUrl": "https://www.forbes.com/sites/aaronkwittken/2020/11/10/why-ai-tech-stacks-is-the-new-hack-for-pr-hacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faaa9cae613bff5ddfe3595%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2997%26cropY1%3D0%26cropY2%3D1998",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aaronkwittken/2020/11/10/why-ai-tech-stacks-is-the-new-hack-for-pr-hacks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aaronkwittken/2020/11/10/why-ai-tech-stacks-is-the-new-hack-for-pr-hacks/amp/",
+      "publishedDateTime": "2020-11-10T06:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-data-trusts-could-be-the-key-to-better-ai.md",
+      "title": "“Data Trusts” Could Be the Key to Better AI",
+      "excerpt": "One of the challenges in developing AI applications is obtaining the vast amount of data that’s required. Making matters worse, regulations and privacy issues",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2020/11/data-trusts-could-be-the-key-to-better-ai",
+      "originalUrl": "https://hbr.org/2020/11/data-trusts-could-be-the-key-to-better-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2020/11/Nov20_10_2835584.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2020/11/data-trusts-could-be-the-key-to-better-ai",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/data-trusts-could-be-the-key-to-better-ai",
+      "publishedDateTime": "2020-11-10T06:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-the-future-of-work-now-ai-assisted-writing-with-writercom-and-intuit.md",
+      "title": "The Future of Work Now: AI-Assisted Writing with Writer.com and Intuit",
+      "excerpt": "One of the most frequently-used phrases at business events these days is “the future of work.” It’s increasingly clear that artificial intelligence and other new technologies will bring substantial changes in work tasks and business processes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomdavenport/2020/11/10/the-future-of-work-now-ai-assisted-writing-with-writercom-and-intuit/",
+      "originalUrl": "https://www.forbes.com/sites/tomdavenport/2020/11/10/the-future-of-work-now-ai-assisted-writing-with-writercom-and-intuit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa9b4df4426b7e6db66db39%2F0x0.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2020/11/10/the-future-of-work-now-ai-assisted-writing-with-writercom-and-intuit/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/11/10/the-future-of-work-now-ai-assisted-writing-with-writercom-and-intuit/amp/",
+      "publishedDateTime": "2020-11-10T06:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-walmart-and-cruise-partner-to-test-autonomous-grocery-delivery-in-arizona.md",
+      "title": "Walmart and Cruise partner to test autonomous grocery delivery in Arizona",
+      "excerpt": "U.S. retailer Walmart and autonomous vehicle company Cruise are pairing up to test grocery delivery in Scottsdale, Arizona. Under the pilot program, customers will be able to place an order from ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/10/walmart-and-cruise-partner-to-test-autonomous-grocery-delivery-in-arizona/",
+      "originalUrl": "https://techcrunch.com/2020/11/10/walmart-and-cruise-partner-to-test-autonomous-grocery-delivery-in-arizona/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/WalmartxCruise-Video.gif",
+          "width": 674,
+          "height": 379,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/10/walmart-and-cruise-partner-to-test-autonomous-grocery-delivery-in-arizona/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/10/walmart-and-cruise-partner-to-test-autonomous-grocery-delivery-in-arizona/amp/",
+      "publishedDateTime": "2020-11-10T06:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars.md",
+      "title": "Walmart and Cruise launch pilot to deliver orders via self-driving cars",
+      "excerpt": "As part of the pilot, which is scheduled to begin in early 2021, customers will be able to place orders from a Walmart and have them delivered via one of Cruise’s electric self-driving Chevy Bolts.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars/",
+      "originalUrl": "https://venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 324,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Walmart-Cruise-e1604958243157.png?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars/amp/",
+      "publishedDateTime": "2020-11-10T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-aveva-expands-microsoft-collaboration-with-a-focus-on-cloud-and-ai.md",
       "title": "AVEVA expands Microsoft collaboration with a focus on Cloud and AI",
       "excerpt": "AVEVA has extended its existing strategic collaboration with Microsoft to focus on accelerating digital transformation in the industrial sector.",
@@ -669,535 +1203,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-how-the-father-of-the-playstation-is-using-his-playbook-from-sony-in-his-new-role-as-ceo-of-ai-backed-startup-ascent-robotics.md",
-      "title": "How the 'father of the PlayStation' is using his playbook from Sony in his new role as CEO of AI-backed startup Ascent Robotics",
-      "excerpt": "Now he's trying to implement a similar strategy at Ascent, the robotics startup he joined in September as CEO — while forgoing a salary to save capital. \"We want to collaborate with as many smart people\" as possible, the so-called 'father of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/playstation-robotics-ps5-ken-kutaragi-startup-japan-2020-11",
-      "originalUrl": "https://www.businessinsider.com/playstation-robotics-ps5-ken-kutaragi-startup-japan-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa2f31a69331a0011bc74c8?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-09T11:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-ai-quantum-rd-funding-to-remain-a-priority-under-biden.md",
-      "title": "AI, Quantum R&D Funding to Remain a Priority Under Biden",
-      "excerpt": "The president-elect has proposed innovation funding of $300 billion over four years, in part to remain competitive with China.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-quantum-r-d-funding-to-remain-a-priority-under-biden-11604944800",
-      "originalUrl": "https://www.wsj.com/articles/ai-quantum-r-d-funding-to-remain-a-priority-under-biden-11604944800",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-253821/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-quantum-r-d-funding-to-remain-a-priority-under-biden-11604944800",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-quantum-r-d-funding-to-remain-a-priority-under-biden-11604944800",
-      "publishedDateTime": "2020-11-09T10:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-cadillac-facial-recognition-feature-could-be-in-the-works-for-north-america.md",
-      "title": "Cadillac Facial Recognition Feature Could Be In The Works For North America",
-      "excerpt": "It appears as though a new Cadillac facial recognition feature is planned for release in North America sometime in the near future. As first reported by GM Authority’s sister publication, Cadillac Society,",
-      "sourceUrl": null,
-      "webUrl": "https://gmauthority.com/blog/2020/11/cadillac-facial-recognition-feature-could-be-in-the-works-for-north-america/",
-      "originalUrl": "https://gmauthority.com/blog/2020/11/cadillac-facial-recognition-feature-could-be-in-the-works-for-north-america/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gmauthority.com/blog/wp-content/uploads/2020/09/2021-Cadillac-XT4-Sport-China-exterior-02-Face-ID-Biometric-System.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gmauthority.com/blog/2020/11/cadillac-facial-recognition-feature-could-be-in-the-works-for-north-america/amp/",
-      "cdnAmpWebUrl": "https://gmauthority-com.cdn.ampproject.org/c/s/gmauthority.com/blog/2020/11/cadillac-facial-recognition-feature-could-be-in-the-works-for-north-america/amp/",
-      "publishedDateTime": "2020-11-09T10:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GM Authority",
-        "domain": "gmauthority.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-self-driving-delivery-firm-nuro-raises-500-million-as-covid-19-boosts-e-commerce.md",
-      "title": "Self-driving delivery firm Nuro raises $500 million as COVID-19 boosts e-commerce",
-      "excerpt": "Self-driving delivery company Nuro, whose R2 unit has no pedals or steering wheel and only room for packages, said Monday it has raised $500 million as e-commerce gets a huge boost from the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-autonomous-nuro-funding/self-driving-delivery-firm-nuro-raises-500-million-as-covid-19-boosts-e-commerce-idUKKBN27P1FT",
-      "originalUrl": "https://www.reuters.com/article/us-autonomous-nuro-funding-idUSKBN27P1FT",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 222,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540581533&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81M2",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN27P1FT",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27P1FT",
-      "publishedDateTime": "2020-11-09T09:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-artificial-intelligence-ai-is-key-to-reducing-digital-ad-waste.md",
-      "title": "Artificial intelligence (AI) is key to reducing digital ad waste",
-      "excerpt": "Do you really want your advertising budget being wasted on ads that are producing solicitations instead of qualified leads? More insights on how the world’s first AI Smart Core℠, SherloQ™ is revolutionizing how websites and digital ad campaigns operate altogether.",
-      "sourceUrl": null,
-      "webUrl": "https://www.searchenginewatch.com/2020/11/09/artificial-intelligence-ai-is-key-to-reducing-digital-ad-waste/",
-      "originalUrl": "https://www.searchenginewatch.com/2020/11/09/artificial-intelligence-ai-is-key-to-reducing-digital-ad-waste/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.searchenginewatch.com/wp-content/uploads/2020/11/Artificial-intelligence-AI-is-key-to-reducing-digital-ad-waste.png",
-          "width": 728,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.searchenginewatch.com/2020/11/09/artificial-intelligence-ai-is-key-to-reducing-digital-ad-waste/amp/",
-      "cdnAmpWebUrl": "https://www-searchenginewatch-com.cdn.ampproject.org/c/s/www.searchenginewatch.com/2020/11/09/artificial-intelligence-ai-is-key-to-reducing-digital-ad-waste/amp/",
-      "publishedDateTime": "2020-11-09T08:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Search Engine Watch",
-        "domain": "searchenginewatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-threat-stack-unveils-machine-learning-capabilities-in-the-threat-stack-cloud-security-platform.md",
-      "title": "Threat Stack Unveils Machine Learning Capabilities in The Threat Stack Cloud Security PlatformⓇ",
-      "excerpt": "Threat Stack, the leader in cloud security and compliance for infrastructure and applications, today announced ThreatML ™, its new machine learning engine that enhances security observability for the Threat Stack Cloud Security Platform Ⓡ,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-software-industry-security-products-and-services-information-technology-e2923a6f850048ddbc4353f864b1ee1a",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-software-industry-security-products-and-services-information-technology-e2923a6f850048ddbc4353f864b1ee1a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-09T08:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-robot-soldiers-could-soon-make-up-a-quarter-of-the-army.md",
-      "title": "Robot soldiers could soon make up a quarter of the army",
-      "excerpt": "In the age of artificial intelligence, robots will soon represent a large part of the armed forces, according to the UK's chief of the defence staff Nick Carter, who predicted that up to a quarter of the army could be made up of autonomous systems in the near future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/robots-soldiers-could-soon-make-up-a-quarter-of-the-army/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/robots-soldiers-could-soon-make-up-a-quarter-of-the-army/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2019/11/06/a1e2b9a4-9330-4565-8e20-f6fb00e3d1a9/thumbnail/1200x675/251d1466033401dd47e80d969b17de3e/20191106-daphne-karen-war.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/robots-soldiers-could-soon-make-up-a-quarter-of-the-army/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/robots-soldiers-could-soon-make-up-a-quarter-of-the-army/",
-      "publishedDateTime": "2020-11-09T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-machine-translation-market-to-cross-15-bn-us-dollar-by-2026.md",
-      "title": "Machine Translation Market to cross 1.5 Bn US-dollar by 2026",
-      "excerpt": "The machine translation market is likely to register lucrative growth over the coming years owing to increasing popularity of cloud-based applications. Cloud technologies have effectively enabled users to proficiently run machine translation solutions over the internet,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-translation-market-to-cross-15-bn-us-dollar-by-2026-2020-11-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-translation-market-to-cross-15-bn-us-dollar-by-2026-2020-11-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-09T07:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-ellipsis-health-appoints-clinical-experts-and-deep-learning-leaders-to-serve-on-advisory-board-board-of-directors-and-as-a-strategic-investor.md",
-      "title": "Ellipsis Health Appoints Clinical Experts and Deep Learning Leaders to Serve on Advisory Board, Board of Directors and as a Strategic Investor",
-      "excerpt": "In addition, Ellipsis Health has welcomed Tariq Shaukat, Group President, Bumble, to the Board of Directors, and Richard Socher, PhD, Chief Scientist, EVP at Salesforce, as a strategic investor for the company.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ellipsis-health-appoints-clinical-experts-and-deep-learning-leaders-to-serve-on-advisory-board-board-of-directors-and-as-a-strategic-investor-1029782051",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ellipsis-health-appoints-clinical-experts-and-deep-learning-leaders-to-serve-on-advisory-board-board-of-directors-and-as-a-strategic-investor-1029782051",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1246096/Ellipsis_Health_Logo.jpg",
-          "width": 400,
-          "height": 327,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-09T07:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-ethical-frameworks-for-ai-arent-enough.md",
-      "title": "Ethical Frameworks for AI Aren’t Enough",
-      "excerpt": "Many AI ethical frameworks cannot be clearly implemented in practice, as researchers have consistently demonstrated. Without a dramatic increase in the specificity of existing AI frameworks, there’s simply not much technical personnel can do to clearly uphold such high-level guidance.",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2020/11/ethical-frameworks-for-ai-arent-enough",
-      "originalUrl": "https://hbr.org/2020/11/ethical-frameworks-for-ai-arent-enough",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2020/11/Nov20_09_1221118269.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hbr.org/amp/2020/11/ethical-frameworks-for-ai-arent-enough",
-      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/ethical-frameworks-for-ai-arent-enough",
-      "publishedDateTime": "2020-11-09T06:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-ibm-microsoft-and-the-future-of-healthcare.md",
-      "title": "IBM, Microsoft, and the Future of Healthcare",
-      "excerpt": "IBM focused its Watson AI on providing medical professionals with diagnostic tools allowing them to diagnose even the most mysterious illnesses more accurately. Simultaneously, Microsoft recently ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technewsworld.com/story/IBM-Microsoft-and-the-Future-of-Healthcare-86911.html",
-      "originalUrl": "https://www.technewsworld.com/story/IBM-Microsoft-and-the-Future-of-Healthcare-86911.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2019-medical-research-1.jpg",
-          "width": 620,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-09T05:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNewsWorld",
-        "domain": "technewsworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare",
-        "Microsoft AI"
       ]
     }
   ],

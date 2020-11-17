@@ -2,6 +2,567 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-14-fg-inaugurates-robotics-artificial-intelligence-centre.md",
+      "title": "FG inaugurates robotics, artificial intelligence centre",
+      "excerpt": "Okechukwu Nnodim, AbujaThe Federal Government on Friday inaugurated the National Centre for Artificial Intelligence and Robotics.Minister of Communications and Digital Economy, Isa",
+      "sourceUrl": null,
+      "webUrl": "https://punchng.com/fg-inaugurates-robotics-artificial-intelligence-centre/",
+      "originalUrl": "https://punchng.com/fg-inaugurates-robotics-artificial-intelligence-centre/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.punchng.com/wp-content/uploads/2016/11/12194043/Dr.-Isa-Ali-Pantami.jpg",
+          "width": 600,
+          "height": 402,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://punchng.com/fg-inaugurates-robotics-artificial-intelligence-centre/?amp=1",
+      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/fg-inaugurates-robotics-artificial-intelligence-centre/?amp=1",
+      "publishedDateTime": "2020-11-13T10:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Punch Newspapers",
+        "domain": "punchng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-how-effective-is-artificial-intelligence-in-removing-racial-bias-in-hiring.md",
+      "title": "How effective is artificial intelligence in removing racial bias in hiring?",
+      "excerpt": "A growing number of tech companies are placing their bets on algorithms to reinvent talent acquisition and create a more inclusive workforce. In some cases, this might mean entirely removing ...",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/work/1923587/can-artificial-intelligence-solve-racism/",
+      "originalUrl": "https://qz.com/work/1923587/can-artificial-intelligence-solve-racism/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/10/AI-Racial-Bias-feature-photo-.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://qz.com/work/1923587/can-artificial-intelligence-solve-racism/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/work/1923587/can-artificial-intelligence-solve-racism/amp/",
+      "publishedDateTime": "2020-11-13T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-this-company-is-allowing-the-ai-to-make-life-insurance-decisions.md",
+      "title": "This company is allowing the AI to make life insurance decisions",
+      "excerpt": "While most companies prefer to make final decisions on their own, Bestow lets the AI determine eligibility for a much faster process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/this-company-is-allowing-the-ai-to-make-life-insurance-decisions/",
+      "originalUrl": "https://www.techrepublic.com/article/this-company-is-allowing-the-ai-to-make-life-insurance-decisions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/02/05/82457267-972f-48c8-ad24-3542a0ef2f87/resize/1200x/bbccae6b5e2cb340e005046ffae1dcf0/istock-1169711450.jpg",
+          "width": 1200,
+          "height": 718,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/this-company-is-allowing-the-ai-to-make-life-insurance-decisions/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/this-company-is-allowing-the-ai-to-make-life-insurance-decisions/",
+      "publishedDateTime": "2020-11-13T10:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-pytorch-developer-day-brings-a-number-updates-to-the-machine-learning-library.md",
+      "title": "PyTorch Developer Day brings a number updates to the machine learning library",
+      "excerpt": "The first PyTorch Developer Day was held yesterday, providing PyTorch developers with a day of technical talks, project deep dives, and networking opportunities.",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/pytorch-developer-day-brings-a-number-updates-to-the-machine-learning-library/",
+      "originalUrl": "https://sdtimes.com/ai/pytorch-developer-day-brings-a-number-updates-to-the-machine-learning-library/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2020/11/a555c5b18b9a2aa5cead0428e08ec9d3.png",
+          "width": 498,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-13T09:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-openai-proposes-using-reciprocity-to-encourage-ai-agents-to-work-together.md",
+      "title": "OpenAI proposes using reciprocity to encourage AI agents to work together",
+      "excerpt": "Researchers at OpenAI propose a new technique to encourage AI agents to work together to solve complex challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/13/openai-proposes-using-reciprocity-to-encourage-ai-agents-to-work-together/",
+      "originalUrl": "https://venturebeat.com/2020/11/13/openai-proposes-using-reciprocity-to-encourage-ai-agents-to-work-together/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/13/openai-proposes-using-reciprocity-to-encourage-ai-agents-to-work-together/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/13/openai-proposes-using-reciprocity-to-encourage-ai-agents-to-work-together/amp/",
+      "publishedDateTime": "2020-11-13T09:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-5-ways-to-celebrate-tensorflows-5th-birthday.md",
+      "title": "5 ways to celebrate TensorFlow's 5th birthday",
+      "excerpt": "Five years ago, we open-sourced TensorFlow, our machine learning framework for research and production. Our goal was to expand access to state-of-the-art machine learning tools so anyone could use them.Since then, TensorFlow has become the most popular machine learning library in the world, with over",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/5-ways-celebrate-tensorflows-5th-birthday/",
+      "originalUrl": "https://blog.google/technology/ai/5-ways-celebrate-tensorflows-5th-birthday/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TFDS19_411_1.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/5-ways-celebrate-tensorflows-5th-birthday/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/5-ways-celebrate-tensorflows-5th-birthday/amp/",
+      "publishedDateTime": "2020-11-13T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-ocado-shops-its-way-to-a-robotics-platform-for-groceries-and-beyond.md",
+      "title": "Ocado shops its way to a robotics platform for groceries and beyond",
+      "excerpt": "French robotics startup Exotec recently raised $90 million ... Earlier this year, Berkshire Grey secured a hefty $263 million for its AI-infused robotics that are designed to automate fulfillment ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/13/ocado-shops-its-way-to-a-robotics-platform-for-groceries-and-beyond/",
+      "originalUrl": "https://venturebeat.com/2020/11/13/ocado-shops-its-way-to-a-robotics-platform-for-groceries-and-beyond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Ocado-Warehouse.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/13/ocado-shops-its-way-to-a-robotics-platform-for-groceries-and-beyond/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/13/ocado-shops-its-way-to-a-robotics-platform-for-groceries-and-beyond/amp/",
+      "publishedDateTime": "2020-11-13T08:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-6-training-trends-to-watch-that-will-define-the-workplace-in-2021.md",
+      "title": "6 training trends to watch that \"will define the workplace in 2021\"",
+      "excerpt": "With the shift to remote work amid the coronavirus pandemic, online learning related to mindfulness, cybersecurity, and hybrid tech capabilities surged, Udemy found.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/6-training-trends-to-watch-that-will-define-the-workplace-in-2021/",
+      "originalUrl": "https://www.techrepublic.com/article/6-training-trends-to-watch-that-will-define-the-workplace-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/11/13/0b463f03-29cb-4b8b-94ea-a78eef035a6b/resize/1200x/01128683e6fc1503bc0242100f666b06/dusanpetkovic.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/6-training-trends-to-watch-that-will-define-the-workplace-in-2021/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/6-training-trends-to-watch-that-will-define-the-workplace-in-2021/",
+      "publishedDateTime": "2020-11-13T08:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-red-light-waiting-times-cut-safety-boosted-by-ai-based-control-system.md",
+      "title": "Red Light Waiting Times Cut, Safety Boosted By AI-Based Control System",
+      "excerpt": "NoTraffic’s AI-based autonomous traffic management system exchanges the simple timing of lights for operating them based on what’s actually happening on the road to reduce wait times and boost safety.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/edgarsten/2020/11/13/red-light-waiting-times-cut-safety-boosted-by-ai-based-control-system/",
+      "originalUrl": "https://www.forbes.com/sites/edgarsten/2020/11/13/red-light-waiting-times-cut-safety-boosted-by-ai-based-control-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faeb014092c8ad78f9c4323%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D11%26cropY2%3D574",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/edgarsten/2020/11/13/red-light-waiting-times-cut-safety-boosted-by-ai-based-control-system/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2020/11/13/red-light-waiting-times-cut-safety-boosted-by-ai-based-control-system/amp/",
+      "publishedDateTime": "2020-11-13T08:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-ai-is-bringing-the-world-together-at-more-than-1000-mph.md",
+      "title": "AI Is Bringing The World Together (at More Than 1,000 Mph)",
+      "excerpt": "To understand breakthrough digital Twin technology, think about Minecraft. It creates, in essence, an AI-driven sandbox environment for the design and testing of real-world applications, bridging physical and digital worlds in novel and exciting ways.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michaelashley/2020/11/13/ai-is-bringing-the-world-together-at-more-than-1000-mph/",
+      "originalUrl": "https://www.forbes.com/sites/michaelashley/2020/11/13/ai-is-bringing-the-world-together-at-more-than-1000-mph/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fae9392c45cdae0c2901003%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michaelashley/2020/11/13/ai-is-bringing-the-world-together-at-more-than-1000-mph/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelashley/2020/11/13/ai-is-bringing-the-world-together-at-more-than-1000-mph/amp/",
+      "publishedDateTime": "2020-11-13T06:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-google-clouds-new-ai-suite-hits-on-doctors-admin-headaches.md",
+      "title": "Google Cloud's new AI suite hits on doctors' admin headaches",
+      "excerpt": "Google Cloud will become a top cloud partner for hospitals looking to ease administrative headaches driving burnout among their doctors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-cloud-unveils-new-healthcare-ai-tools-for-admin-tasks-2020-11",
+      "originalUrl": "https://www.businessinsider.com/google-cloud-unveils-new-healthcare-ai-tools-for-admin-tasks-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fae92e31e8d50001981354a?width=1200&format=jpeg",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-13T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-facebook-is-now-using-ai-to-sort-content-for-quicker-moderation.md",
       "title": "Facebook is now using AI to sort content for quicker moderation",
       "excerpt": "Facebook has always made it clear it wants artificial intelligence to handle more moderation duties on its platforms. Today, it announced its latest step toward that goal: putting machine learning in charge of its moderation queue.",
@@ -10,7 +571,7 @@
       "originalUrl": "https://www.theverge.com/2020/11/13/21562596/facebook-ai-moderation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -437,58 +998,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-13-voice-and-speech-recognition-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026.md",
-      "title": "Voice and Speech Recognition Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026",
-      "excerpt": "Selbyville, Delaware According to the research report titled 'Voice and Speech Recognition Market Share, Size, Trends, Industry Analysis Report By Component; By Interface; By End-User; By Regions, Segments & Forecast,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2020-11-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2020-11-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T23:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-13-renalytixai-to-participate-in-the-stifel-2020-healthcare-conference.md",
       "title": "RenalytixAI to Participate in the Stifel 2020 Healthcare Conference",
       "excerpt": "(GLOBE NEWSWIRE) -- Renalytix AI plc (LSE: RENX) (NASDAQ: RNLX), an artificial intelligence-enabled in vitro diagnostics company, focused on optimizing clinical management of kidney disease to drive improved patient outcomes and advance value-based care,",
@@ -728,504 +1237,6 @@
         "AI in Finance",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-aws-expands-language-support-for-amazon-lex-and-amazon-polly.md",
-      "title": "AWS expands language support for Amazon Lex and Amazon Polly",
-      "excerpt": "At AWS, our mission is to enable developers and businesses with no prior machine learning (ML) expertise to easily build sophisticated, scalable, ML-powered applications with our AI services. Today, we’re excited to announce that Amazon Lex and Amazon Polly are expanding language support. You can build",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-expands-language-support-for-amazon-lex-and-amazon-polly/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-expands-language-support-for-amazon-lex-and-amazon-polly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/12/LexConsole.jpg",
-          "width": 900,
-          "height": 361,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T16:58:56-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-pope-francis-pray-that-robots-dont-turn-against-us.md",
-      "title": "Pope Francis: Pray that robots don’t turn against us",
-      "excerpt": "Pope Francis urged Catholics to pray that artificial intelligence and robots “always serve mankind” instead of stripping humanity of its “dignity,” according to a report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/world/pope-francis-pray-that-robots-dont-turn-against-us",
-      "originalUrl": "https://www.foxnews.com/world/pope-francis-pray-that-robots-dont-turn-against-us",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0d8af3a9-e39f-4213-be3f-7bf2c5f2c1d1/69d728c1-8474-4cb2-8f78-2dc90220c6b0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/world/pope-francis-pray-that-robots-dont-turn-against-us.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/pope-francis-pray-that-robots-dont-turn-against-us.amp",
-      "publishedDateTime": "2020-11-12T16:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-join-the-final-lap-of-the-2020-deepracer-league-at-aws-reinvent-2020.md",
-      "title": "Join the Final Lap of the 2020 DeepRacer League at AWS re:Invent 2020",
-      "excerpt": "AWS DeepRacer is the fastest way to get rolling with machine learning (ML). It’s a fully autonomous 1/18th scale race car driven by reinforcement learning, a 3D racing simulator, and a global racing league. Throughout 2020, tens of thousands of developers honed their ML skills and competed in the League’s",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/join-the-final-lap-of-the-2020-deepracer-league-at-aws-reinvent-2020/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/join-the-final-lap-of-the-2020-deepracer-league-at-aws-reinvent-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/13/img_AWSDeepRacer2020reInvent_Championship-545x630.jpg",
-          "width": 545,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T16:33:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-daimler-will-shrink-with-shift-to-electric-autonomous-cars-ceo.md",
-      "title": "Daimler will shrink with shift to electric, autonomous cars: CEO",
-      "excerpt": "Daimler <DAIGn.DE> will be a smaller company five years from now, focused on capturing recurring revenues with software-based services as Mercedes-Benz seeks to redefine luxury in an era of electric self-driving cars,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/daimler-china-idUSKBN27S2QA",
-      "originalUrl": "https://www.reuters.com/article/daimler-china-idUSKBN27S2QA",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1541007459&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB1O7",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27S2QA",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S2QA",
-      "publishedDateTime": "2020-11-12T14:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-artificial-intelligence-and-robotics-be-careful-what-you-wish-for.md",
-      "title": "Artificial intelligence and robotics: Be careful what you wish for",
-      "excerpt": "There may come a time, within the next three to four decades, when we have robots that are smarter and more independent than we want them to be.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymaverick.co.za/opinionista/2020-11-12-artificial-intelligence-and-robotics-be-careful-what-you-wish-for/",
-      "originalUrl": "https://www.dailymaverick.co.za/opinionista/2020-11-12-artificial-intelligence-and-robotics-be-careful-what-you-wish-for/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymaverick.co.za/opinionista/2020-11-12-artificial-intelligence-and-robotics-be-careful-what-you-wish-for/amp/",
-      "cdnAmpWebUrl": "https://www-dailymaverick-co-za.cdn.ampproject.org/c/s/www.dailymaverick.co.za/opinionista/2020-11-12-artificial-intelligence-and-robotics-be-careful-what-you-wish-for/amp/",
-      "publishedDateTime": "2020-11-12T14:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Maverick",
-        "domain": "dailymaverick.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-measuring-forecast-model-accuracy-to-optimize-your-business-objectives-with-amazon-forecast.md",
-      "title": "Measuring forecast model accuracy to optimize your business objectives with Amazon Forecast",
-      "excerpt": "We’re excited to announce that you can now measure the accuracy of your forecasting model to optimize the trade-offs between under-forecasting and over-forecasting costs, giving you flexibility in experimentation. Costs associated with under-forecasting and over-forecasting differ. Generally, over-forecasting",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/measuring-forecast-model-accuracy-to-optimize-your-business-objectives-with-amazon-forecast/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/measuring-forecast-model-accuracy-to-optimize-your-business-objectives-with-amazon-forecast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/12/Measuring-forecast-model-accuracy-1.jpg",
-          "width": 661,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T14:04:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-why-children-need-to-learn-about-artificial-intelligence.md",
-      "title": "Why Children Need To Learn About Artificial Intelligence",
-      "excerpt": "Demystifying AI for our children in all its complexity while providing them with an early insight into its promises and perils will make them confident in their ability to understand and control this incredible technology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/juliabrodsky/2020/11/12/why-children-need-to-learn-about-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/juliabrodsky/2020/11/12/why-children-need-to-learn-about-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fada38b86692c56068a44f5%2F0x0.jpg",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/juliabrodsky/2020/11/12/why-children-need-to-learn-about-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/juliabrodsky/2020/11/12/why-children-need-to-learn-about-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-11-12T13:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-new-orleans-police-department-using-facial-recognition-despite-years-of-denial.md",
-      "title": "New Orleans Police Department using facial recognition despite years of denial",
-      "excerpt": "Explaining its previous denials, the department said that it doesn’t employ its own facial recognition software. Instead, it accesses the technology through state and federal partners. An ACLU lawyer said that was a ‘distinction without a difference.",
-      "sourceUrl": null,
-      "webUrl": "https://thelensnola.org/2020/11/12/new-orleans-police-department-using-facial-recognition-despite-years-of-denial/",
-      "originalUrl": "https://thelensnola.org/2020/11/12/new-orleans-police-department-using-facial-recognition-despite-years-of-denial/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/thelensnola.org/wp-content/uploads/2020/11/DSC_8767-scaled.jpg?fit=2560%2C1709&ssl=1",
-          "width": 2560,
-          "height": 1709,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thelensnola.org/2020/11/12/new-orleans-police-department-using-facial-recognition-despite-years-of-denial/",
-      "cdnAmpWebUrl": "https://thelensnola-org.cdn.ampproject.org/c/s/thelensnola.org/2020/11/12/new-orleans-police-department-using-facial-recognition-despite-years-of-denial/",
-      "publishedDateTime": "2020-11-12T12:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Lens",
-        "domain": "thelensnola.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-aws-finance-and-global-business-services-builds-an-automated-contract-processing-platform-using-amazon-textract-and-amazon-comprehend.md",
-      "title": "AWS Finance and Global Business Services builds an automated contract-processing platform using Amazon Textract and Amazon Comprehend",
-      "excerpt": "Processing incoming documents such as contracts and agreements is often an arduous task. The typical workflow for reviewing signed contracts involves loading, reading, and extracting contractual terms from agreements, which requires hours of manual effort and intensive labor. At AWS Finance and Global",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-finance-and-global-business-services-builds-an-automated-contract-processing-platform-using-amazon-textract-and-amazon-comprehend/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-finance-and-global-business-services-builds-an-automated-contract-processing-platform-using-amazon-textract-and-amazon-comprehend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/09/AWS-Finance-and-Global-Business-2.jpg",
-          "width": 800,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T12:42:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-sonos-takes-a-step-forward-in-internet-radio-with-superhifis-ai-technology.md",
-      "title": "Sonos Takes A Step Forward In Internet Radio With SuperHiFi’s AI Technology",
-      "excerpt": "Sonos launched a paid subscription Internet radio service today. It uses AI-based technology from a startup called SuperHiFi that creates lavishly-produced programming automatically and in real time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/billrosenblatt/2020/11/12/sonos-takes-a-step-forward-in-internet-radio-with-superhifis-ai-technology/",
-      "originalUrl": "https://www.forbes.com/sites/billrosenblatt/2020/11/12/sonos-takes-a-step-forward-in-internet-radio-with-superhifis-ai-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fad838635844ab493ce3cd6%2F0x0.jpg",
-          "width": 1199,
-          "height": 781,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/billrosenblatt/2020/11/12/sonos-takes-a-step-forward-in-internet-radio-with-superhifis-ai-technology/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billrosenblatt/2020/11/12/sonos-takes-a-step-forward-in-internet-radio-with-superhifis-ai-technology/amp/",
-      "publishedDateTime": "2020-11-12T11:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

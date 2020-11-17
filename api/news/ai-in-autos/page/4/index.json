@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-22-leave-positive-tracks-wayves-self-driving-solution-seeks-to-protect-people-and-the-planet.md",
+      "title": "‘Leave positive tracks’: Wayve’s self-driving solution seeks to protect people and the planet",
+      "excerpt": "Anyway, back to our mental trek.) Picture the world’s cities by the end of this decade: Streets, intersections and roundabouts are a safer, cleaner, quieter and vastly more organized stream of connected, self-driving electric vehicles. Block by block ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.microsoft.com/transform/leave-positive-tracks-wayve-self-driving-solution-seeks-protect-people-planet/",
+      "originalUrl": "https://news.microsoft.com/transform/leave-positive-tracks-wayve-self-driving-solution-seeks-protect-people-planet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/382/2020/10/alex_kendall_2-1024x768.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-tesla-full-self-driving-vehicles-cant-drive-themselves.md",
       "title": "Tesla ‘full self-driving’ vehicles can’t drive themselves",
       "excerpt": "DETROIT >> Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8 ...",
@@ -1372,59 +1424,6 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-optimizing-the-cost-of-training-aws-deepracer-reinforcement-learning-models.md",
-      "title": "Optimizing the cost of training AWS DeepRacer reinforcement learning models",
-      "excerpt": "AWS DeepRacer&nbsp;is a cloud-based 3D racing simulator, an autonomous 1/18th scale race car driven by&nbsp;reinforcement learning, and a global racing league. Reinforcement learning (RL), an advanced&nbsp;machine learning&nbsp;(ML) technique, enables models to learn complex behaviors without labeled",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimizing-the-cost-of-training-aws-deepracer-reinforcement-learning-models/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimizing-the-cost-of-training-aws-deepracer-reinforcement-learning-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/28/4-Track.jpg",
-          "width": 900,
-          "height": 556,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-13T11:58:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Autos"
       ]
     }
   ],

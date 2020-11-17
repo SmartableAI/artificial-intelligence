@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/slide-shows/cloud/3-things-to-know-about-aws-g
 webUrl: "https://www.crn.com/slide-shows/cloud/3-things-to-know-about-aws-glue-databrew/2"
 type: article
 quality: 39
-heat: 49
+heat: 39
 published: false
 
 provider:

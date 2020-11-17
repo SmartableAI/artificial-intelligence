@@ -7,7 +7,7 @@ originalUrl: "https://www.hsph.harvard.edu/news/hsph-in-the-news/how-artificial-
 webUrl: "https://www.hsph.harvard.edu/news/hsph-in-the-news/how-artificial-intelligence-is-reshaping-health-care/"
 type: article
 quality: 39
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Opinion: Healthcare AI systems are biased"
+    excerpt: "Thanks to advances in artificial intelligence (AI) and machine learning, computer systems can now diagnose skin cancer like a dermatologist would, pick out a stroke on a CT scan like a radiologist, and even detect potential cancers on a colonoscopy like a gastroenterologist."
+    publishedDateTime: 2020-11-17T18:28:00Z
+    webUrl: "https://www.healthleadersmedia.com/innovation/opinion-healthcare-ai-systems-are-biased"
+    type: article
+    provider:
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 54
+    images:
+      - url: "https://www.healthleadersmedia.com/sites/hlmp/themes/hlmp/release/hlm_redesign/images/footer-logo.png"
+        width: 500
+        height: 211
+        isCached: true
   - title: "Health Care AI Systems Are Biased"
     excerpt: "Thanks to advances in artificial intelligence (AI) and machine learning, computer systems can now diagnose skin cancer like a dermatologist would, pick out a stroke on a CT scan like a radiologist, and even detect potential cancers on a colonoscopy like a ..."
     publishedDateTime: 2020-11-17T12:14:00Z

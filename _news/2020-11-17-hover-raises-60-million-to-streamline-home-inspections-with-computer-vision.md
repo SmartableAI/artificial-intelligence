@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI dev platform startup DataRobot raises $270 million at a $2.7 billion valuation"
+    excerpt: "Boston-based DataRobot, a startup developing an end-to-end enterprise AI platform, today raised $270 million in equity funding led by Altimeter Capital. The company says that the pre-IPO round — which was joined by new and existing investors including T."
+    publishedDateTime: 2020-11-17T12:35:00Z
+    webUrl: "https://venturebeat.com/2020/11/17/ai-dev-platform-startup-datarobot-raises-270-million-at-a-2-7-billion-valuation/"
+    ampWebUrl: "https://venturebeat.com/2020/11/17/ai-dev-platform-startup-datarobot-raises-270-million-at-a-2-7-billion-valuation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/17/ai-dev-platform-startup-datarobot-raises-270-million-at-a-2-7-billion-valuation/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 99
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/02/DataRobot-Boston-team--e1605298779900.jpg?fit=800%2C533&strip=all"
+        width: 800
+        height: 400
+        isCached: true
   - title: "AliveCor raises $65 million to detect heart problems with AI"
     excerpt: "AliveCor, a startup developing ECG products that detect heart issues, has raised $65 million in venture capital."
     publishedDateTime: 2020-11-17T00:34:00Z
@@ -46,22 +62,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2017/03/alivecor-fingers-kardia-iphone-e1605569871551.jpg?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "AI dev platform startup DataRobot raises $270 million at a $2.7 billion valuation"
-    excerpt: "Boston-based DataRobot, a startup developing an end-to-end enterprise AI platform, today raised $270 million in equity funding led by Altimeter Capital. The company says that the pre-IPO round — which was joined by new and existing investors including T."
-    publishedDateTime: 2020-11-17T12:35:00Z
-    webUrl: "https://venturebeat.com/2020/11/17/ai-dev-platform-startup-datarobot-raises-270-million-at-a-2-7-billion-valuation/"
-    ampWebUrl: "https://venturebeat.com/2020/11/17/ai-dev-platform-startup-datarobot-raises-270-million-at-a-2-7-billion-valuation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/17/ai-dev-platform-startup-datarobot-raises-270-million-at-a-2-7-billion-valuation/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/02/DataRobot-Boston-team--e1605298779900.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 400
         isCached: true
   - title: "Ride Vision raises $7 million for AI that alerts motorcycle riders to collision threats"
     excerpt: "Ride Vision, a startup developing a product that alerts motorcycle riders to collision threats, raised $7 million in funding."

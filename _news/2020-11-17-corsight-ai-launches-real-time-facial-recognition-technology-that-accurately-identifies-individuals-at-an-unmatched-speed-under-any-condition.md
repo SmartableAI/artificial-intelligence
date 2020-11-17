@@ -52,6 +52,48 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 33
+  - title: "Technology trends on the rise: aisle sat-nav, scan and go and facial recognition set to revolutionise the industry, says Ubamarket"
+    excerpt: "Will Broome, CEO of retail fintech app Ubamarket, discusses how nimble technologies are essential for recovery post-COVID"
+    publishedDateTime: 2020-11-17T12:59:00Z
+    webUrl: "https://www.retailtimes.co.uk/technology-trends-on-the-rise-aisle-sat-nav-scan-and-go-and-facial-recognition-set-to-revolutionise-the-industry-says-ubamarket/"
+    type: article
+    provider:
+      name: Retail Times
+      domain: retailtimes.co.uk
+    quality: 24
+    images:
+      - url: "http://www.retailtimes.co.uk/wp-content/uploads/2013/10/RTnewsletter-logo.jpg"
+        width: 560
+        height: 420
+        isCached: true
+  - title: "SAFR and VSBLTY face biometrics deployed for crowd customer safety and insights"
+    excerpt: "Partnerships on facial recognition and computer vision technologies have been formed by RealNetworks and VSBLTY, and Patriot One has announced a contract win for its video analytics platform."
+    publishedDateTime: 2020-11-17T18:55:00Z
+    webUrl: "https://www.biometricupdate.com/202011/safr-and-vsblty-face-biometrics-deployed-for-crowd-customer-safety-and-insights"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 20
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/07/28165245/facial-recognition-surveillance-crowds-scaled.jpeg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "SAFR and VSBLTY each partner to deploy face biometrics for crowd customer safety, insights"
+    excerpt: "Partnerships on facial recognition and computer vision technologies have been formed by RealNetworks and VSBLTY, and Patriot One has announced a contract win for its video analytics platform."
+    publishedDateTime: 2020-11-17T18:50:00Z
+    webUrl: "https://www.biometricupdate.com/202011/safr-and-vsblty-each-partner-to-deploy-face-biometrics-for-crowd-customer-safety-insights"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 14
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/07/28165245/facial-recognition-surveillance-crowds-scaled.jpeg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "E1oQv9Iqq3gPyLB+bkWnn4XJDDrLA4ixnRlBIcA+plMlzNgyjSyi1eiuEeun6tWvN8+VAHgs5eyw7bGv/qOtRuR5eIwdxe16XidQFpWKj/4b9Z0bLHQROcBR7f5Uj2BfOk9WNnK5S6Jyv54AnY2NR8kTggMrACK4YpAYu8m+rA5byfWW5XCluF8gZ3N6kT2vJzrB4Qfj2sKExmjGXPWeP/coUHmO/SnCRIuqk1Bcz9XI9gPrEyVI68hDjIfDdJnx0pM2XOJnofpOocBufhFpCgBihBgxPGEdVY54u3rOaDQUQe9r14lPfwsR7UrNPbr4ZUZsnOIu8EQokCPDjJMDnk/cD9YYslrA06+ZFcKR1nY=;DuaRj+qr/IoMmj9noGLxZw=="
 ---
