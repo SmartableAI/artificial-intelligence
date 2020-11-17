@@ -7,7 +7,7 @@ originalUrl: "https://www.radioiowa.com/2020/11/16/bovine-facial-recognition-app
 webUrl: "https://www.radioiowa.com/2020/11/16/bovine-facial-recognition-app-almost-ready-for-the-market/"
 type: article
 quality: 39
-heat: 39
+heat: 59
 published: false
 
 provider:

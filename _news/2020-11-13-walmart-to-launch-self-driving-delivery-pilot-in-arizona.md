@@ -7,7 +7,7 @@ originalUrl: "https://nationalinterest.org/blog/techland/walmart-launch-self-dri
 webUrl: "https://nationalinterest.org/blog/techland/walmart-launch-self-driving-delivery-pilot-arizona-172414"
 type: article
 quality: 24
-heat: 24
+heat: 34
 published: false
 
 provider:

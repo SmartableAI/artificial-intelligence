@@ -6,8 +6,8 @@ publishedDateTime: 2020-11-17T14:52:00Z
 originalUrl: "https://www.marketwatch.com/press-release/tecton-becomes-feast-core-contributor-to-build-the-most-advanced-open-source-feature-store-for-machine-learning-2020-11-16"
 webUrl: "https://www.marketwatch.com/press-release/tecton-becomes-feast-core-contributor-to-build-the-most-advanced-open-source-feature-store-for-machine-learning-2020-11-16"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 51
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

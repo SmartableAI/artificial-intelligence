@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/2020/11/13/ai-weekly-tech-power-and-buildi
 webUrl: "https://venturebeat.com/2020/11/13/ai-weekly-tech-power-and-building-the-biden-administration/"
 type: article
 quality: 49
-heat: 49
+heat: 59
 published: false
 
 provider:

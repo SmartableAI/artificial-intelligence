@@ -7,7 +7,7 @@ originalUrl: "https://www.hsph.harvard.edu/news/hsph-in-the-news/how-artificial-
 webUrl: "https://www.hsph.harvard.edu/news/hsph-in-the-news/how-artificial-intelligence-is-reshaping-health-care/"
 type: article
 quality: 39
-heat: 39
+heat: 49
 published: false
 
 provider:

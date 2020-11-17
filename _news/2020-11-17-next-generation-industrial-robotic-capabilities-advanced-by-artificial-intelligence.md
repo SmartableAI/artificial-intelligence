@@ -7,7 +7,7 @@ originalUrl: "https://www.roboticstomorrow.com/article/2020/11/next-generation-i
 webUrl: "https://www.roboticstomorrow.com/article/2020/11/next-generation-industrial-robotic-capabilities-advanced-by-artificial-intelligence/15914"
 type: article
 quality: 48
-heat: 48
+heat: 58
 published: false
 
 provider:

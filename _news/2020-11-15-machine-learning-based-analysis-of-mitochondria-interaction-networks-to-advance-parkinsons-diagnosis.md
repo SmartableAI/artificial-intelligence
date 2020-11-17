@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20201112/Machine-learning-base
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201112/Machine-learning-based-analysis-of-mitochondria-interaction-networks-to-advance-Parkinsone28099s-diagnosis.aspx"
 type: article
 quality: 29
-heat: 29
+heat: 39
 published: false
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.nationaldefensemagazine.org/articles/2020/11/16/us-mil
 webUrl: "https://www.nationaldefensemagazine.org/articles/2020/11/16/us-military-wants-to-bring-allies-into-ai-fold"
 type: article
 quality: 39
-heat: 39
+heat: 49
 published: false
 
 provider:

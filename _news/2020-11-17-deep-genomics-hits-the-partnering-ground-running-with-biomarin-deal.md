@@ -7,7 +7,7 @@ originalUrl: "https://www.fiercebiotech.com/medtech/deep-genomics-hits-partnerin
 webUrl: "https://www.fiercebiotech.com/medtech/deep-genomics-hits-partnering-ground-running-biomarin-deal"
 type: article
 quality: 24
-heat: 24
+heat: 34
 published: false
 
 provider:
