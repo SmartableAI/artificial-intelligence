@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-16T22:22:00Z
 originalUrl: "https://www.biometricupdate.com/202011/deep-vision-launches-ai-processor-with-novel-data-architecture-for-edge-biometrics"
 webUrl: "https://www.biometricupdate.com/202011/deep-vision-launches-ai-processor-with-novel-data-architecture-for-edge-biometrics"
 type: article
-quality: 33
+quality: 35
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI Hardware
 
 images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/new-motorcycle-technology-prote
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-motorcycle-technology-protection-riders/"
 type: article
 quality: 87
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNET
@@ -30,6 +30,38 @@ images:
     isCached: true
 
 related:
+  - title: "Ride Vision raises $7M for its AI-based motorcycle safety system"
+    excerpt: "Using computer vision, Ride Vision’s system, the Ride Vision 1, analyzes the traffic around a rider in real time. It provides forward collision alerts and monitors your blind spot, but it can al ..."
+    publishedDateTime: 2020-11-16T22:07:00Z
+    webUrl: "https://techcrunch.com/2020/11/16/ride-vision-raises-7m-for-its-ai-based-motorcycle-safety-system/"
+    ampWebUrl: "https://techcrunch.com/2020/11/16/ride-vision-raises-7m-for-its-ai-based-motorcycle-safety-system/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/16/ride-vision-raises-7m-for-its-ai-based-motorcycle-safety-system/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/11/Screenshot-2020-11-16-131619.png"
+        width: 767
+        height: 751
+        isCached: true
+  - title: "Red Light Waiting Times Cut, Safety Boosted By AI-Based Control System"
+    excerpt: "NoTraffic’s AI-based autonomous traffic management system exchanges the simple timing of lights for operating them based on what’s actually happening on the road to reduce wait times and boost safety."
+    publishedDateTime: 2020-11-13T16:12:00Z
+    webUrl: "https://www.forbes.com/sites/edgarsten/2020/11/13/red-light-waiting-times-cut-safety-boosted-by-ai-based-control-system/"
+    ampWebUrl: "https://www.forbes.com/sites/edgarsten/2020/11/13/red-light-waiting-times-cut-safety-boosted-by-ai-based-control-system/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2020/11/13/red-light-waiting-times-cut-safety-boosted-by-ai-based-control-system/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faeb014092c8ad78f9c4323%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D11%26cropY2%3D574"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Ride Vision raises $7 million for AI that alerts motorcycle riders to collision threats"
     excerpt: "Ride Vision, a startup developing a product that alerts motorcycle riders to collision threats, raised $7 million in funding."
     publishedDateTime: 2020-11-16T13:02:00Z

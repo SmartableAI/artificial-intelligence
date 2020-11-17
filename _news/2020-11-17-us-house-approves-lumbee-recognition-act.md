@@ -1,0 +1,47 @@
+---
+category: news
+title: "U.S. House approves Lumbee Recognition Act"
+excerpt: "The Lumbee Recognition Act was given unanimous approval Monday by the U.S. House of Representatives. The approval paves the way for full federal recognition of the Lumbee Tribe of North Carolina and its more than 60,"
+publishedDateTime: 2020-11-16T23:31:00Z
+originalUrl: "https://www.robesonian.com/news/139808/u-s-house-approves-lumbee-recognition-act"
+webUrl: "https://www.robesonian.com/news/139808/u-s-house-approves-lumbee-recognition-act"
+ampWebUrl: "https://www.robesonian.com/news/139808/u-s-house-approves-lumbee-recognition-act/amp"
+cdnAmpWebUrl: "https://www-robesonian-com.cdn.ampproject.org/c/s/www.robesonian.com/news/139808/u-s-house-approves-lumbee-recognition-act/amp"
+type: article
+quality: 44
+heat: 44
+published: false
+
+provider:
+  name: Robesonian
+  domain: robesonian.com
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://s24474.pcdn.co/wp-content/uploads/2020/11/126007466_web1_LumbeeTribe.jpg"
+    width: 640
+    height: 335
+    isCached: true
+
+related:
+  - title: "Trump-supported Lumbee Recognition Act passes U.S. House"
+    excerpt: "The Lumbee tribe are one step closer to federal recognition. The U.S. House of Representatives passed the bill on Monday, Nov. 16 by voice vote. It now awaits action in the U.S. Senate. President Dona"
+    publishedDateTime: 2020-11-16T22:20:00Z
+    webUrl: "https://nsjonline.com/article/2020/11/trump-supported-lumbee-recognition-act-passes-u-s-house/"
+    type: article
+    provider:
+      name: North State Journal
+      domain: nsjonline.com
+    quality: 24
+    images:
+      - url: "https://nsjonline.com/wp-content/uploads/2020/10/IMG_1054-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
+
+secured: "R3HE2d14G4IM9bCMtSCL3SqYH/aO1z1At0CrPXWqIdZIrD8GA1t004KiruFWaL7RgVNWrShhp59IXxmJPifdUmvj1XWBM7UZ2Jn2UmmxWeaUVF7UZMbd5KCl0InjshIezH1krr25C6lQRNHs5OGhmjXdhcwmfhC13tyJuw9bJbnSasjwB0yWyfleKW18V2+16HJsDbvQiCMa3eNWUJD8IZSz13YmKzHxKPSzM4Bu/uFhpBgpnTM67RUQCGrUWx5B/gALOyOSK1xCYNU7Ov7p+54RclTcxxUgcPpZ+mbIo5yGhBOvq59a1kB/fRrMxtil3w3/E3wOLLsc5xbQd13lRSUbdS/eiRnJpKPNJPnKxi8=;ddfZ3PBtlXqSvPF0k0s+bQ=="
+---
+

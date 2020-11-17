@@ -2,6 +2,58 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2020-10-07-facial-recognition-at-the-border-is-fueling-other-forms-of-surveillance-report-says.md",
+      "title": "Facial Recognition at the Border Is Fueling Other Forms of Surveillance, Report Says",
+      "excerpt": "Facial recognition images taken at border crossings can be repurposed by government agencies and private companies, threatening human rights, the report warns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/889zj3/facial-recognition-at-the-border-is-fueling-other-forms-of-surveillance-report-says",
+      "originalUrl": "https://www.vice.com/en/article/889zj3/facial-recognition-at-the-border-is-fueling-other-forms-of-surveillance-report-says",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com//articles/5f7ccce51afc9200936c4579/lede/1602014744178-gettyimages-925054772.jpeg?crop=1xw:0.818xh;0xw,0.0296xh",
+          "width": 3000,
+          "height": 1685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en_us/article/889zj3/facial-recognition-at-the-border-is-fueling-other-forms-of-surveillance-report-says",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/889zj3/facial-recognition-at-the-border-is-fueling-other-forms-of-surveillance-report-says",
+      "publishedDateTime": "2020-10-07T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-dexterous-robots-are-coming-to-the-us-air-force.md",
       "title": "Dexterous robots are coming to the US Air Force",
       "excerpt": "The military branch has awarded a contract to a robotics firm to develop artificial intelligence-based dexterous robots.",
@@ -1149,49 +1201,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-raise-2020-meet-the-winners-of-indias-biggest-ai-solution-challenge-for-indian-startups.md",
-      "title": "RAISE 2020: Meet the winners of India’s biggest AI Solution Challenge for Indian startups",
-      "excerpt": "Winners of the government-organised AI Solution Challenge showcased their solutions in the AI Startup Pitchfest today. The 21 startups (15 winners and six special mentions) that have been ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2020/10/raise2020-meet-winners-ai-solution-challenge-indian-startups",
-      "originalUrl": "https://yourstory.com/2020/10/raise2020-meet-winners-ai-solution-challenge-indian-startups",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/Untitleddesign10-1601920117328.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2020/10/raise2020-meet-winners-ai-solution-challenge-indian-startups/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/10/raise2020-meet-winners-ai-solution-challenge-indian-startups/amp",
-      "publishedDateTime": "2020-10-06T07:01:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

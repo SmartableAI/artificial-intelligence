@@ -71,15 +71,6 @@ related:
       name: NoCamels - Israeli Innovation News
       domain: nocamels.com
     quality: 20
-  - title: "Snap to buy Israeli startup Voca.ai for USD 70 mln - report"
-    excerpt: "Snap has reportedly agreed to buy startup Voca.ai, an Israeli company specialised in making AI-based voice assistants for customer support services, for an estimated USD 70 million, Calcalistech. The publication said the company,"
-    publishedDateTime: 2020-11-12T08:56:00Z
-    webUrl: "https://www.telecompaper.com/nieuws/snap-to-buy-israeli-startup-vocaai-for-usd-70-mln-report--1361569"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 17
 
 secured: "cEE1hWAOZxmCliGwn0u0mfpqAA4R2c4jz12CjVpth+y1ORi9PMUIJVgqWTjpfQe9reFRXo1jo4YHoFjB2NexgXe2Aow3G+bkTLX4pkchIg1pGnOCdMCBCWPKoqIAwyywcIDI6DBUz0hs4+qdYhQRjXcodVTKsWjf/Tj3d/+U0IuUUAj/1cZJHKJpwfPiVjZoV666BoNZQRvuAyL2tWTBj4CSkWawprmB4LvTLugG54bjuLBE2ZgyDpdbcvZpbi3l1UXjuTxc9xwY/w5o0Qnsskk06P9BC2jDSQIOWFzroCmc+z7Z2ZB4nt36XbqyeAFBMIRftSnv4CgLHa0IfGYkNhycbH6oiZozPvHQiIV8yiA=;UM1uE4m2T/O+u9KczjGylg=="
 ---

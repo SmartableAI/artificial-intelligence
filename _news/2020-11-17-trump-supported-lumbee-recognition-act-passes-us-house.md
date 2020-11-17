@@ -7,7 +7,7 @@ originalUrl: "https://nsjonline.com/article/2020/11/trump-supported-lumbee-recog
 webUrl: "https://nsjonline.com/article/2020/11/trump-supported-lumbee-recognition-act-passes-u-s-house/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 2560
     height: 1440
     isCached: true
+
+related:
+  - title: "U.S. House approves Lumbee Recognition Act"
+    excerpt: "The Lumbee Recognition Act was given unanimous approval Monday by the U.S. House of Representatives. The approval paves the way for full federal recognition of the Lumbee Tribe of North Carolina and its more than 60,"
+    publishedDateTime: 2020-11-16T23:31:00Z
+    webUrl: "https://www.robesonian.com/news/139808/u-s-house-approves-lumbee-recognition-act"
+    ampWebUrl: "https://www.robesonian.com/news/139808/u-s-house-approves-lumbee-recognition-act/amp"
+    cdnAmpWebUrl: "https://www-robesonian-com.cdn.ampproject.org/c/s/www.robesonian.com/news/139808/u-s-house-approves-lumbee-recognition-act/amp"
+    type: article
+    provider:
+      name: Robesonian
+      domain: robesonian.com
+    quality: 44
+    images:
+      - url: "https://s24474.pcdn.co/wp-content/uploads/2020/11/126007466_web1_LumbeeTribe.jpg"
+        width: 640
+        height: 335
+        isCached: true
 
 secured: "ojtZdVuT/LbrNcpYly0DS5qSkZUMDOiOqqGyalaW3LFLXz6J7JOOl99Od2NMiuxWQ4vcOtVv3Vsk5TJ4HSadjnGjh/qUq9kMrMKZnhASri1CqS3QnNc0IsyDMiB0kQJLxM36k4h0aat1R27v89j1bcqAmnyqb/dFTiF1aaIXdB5hn6ch3J8R2ansWM8LNP//4oHVaP5Gq7KsHMP5wrvEGfdlpkJY9Jt1f/3ZkytZZAU1ROicAp7tNdBfCsGtLuvMjU6CfJ5+yFo49qDNmpwLZI/QMLHfie/T5VwQf9w08vOULq4k3cAnjo7LJ5k9ZL8mSwoNkT6qDOYaSIIQejJApOSjjMRvRyhm51tL0kRIDZs=;1jbmtIv1Rau4p8UH1UgT3w=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2020/11/16/intervenn-biosciences-raises-34-m
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/16/intervenn-biosciences-raises-34-million-to-accelerate-diagnostic-cancer-test-development-with-ai/amp/"
 type: article
 quality: 79
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "AliveCor raises $65 million to detect heart problems with AI"
+    excerpt: "AliveCor, a startup developing ECG products that detect heart issues, has raised $65 million in venture capital."
+    publishedDateTime: 2020-11-17T00:34:00Z
+    webUrl: "https://venturebeat.com/2020/11/16/alivecor-raises-65-million-to-detect-heart-problems-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/11/16/alivecor-raises-65-million-to-detect-heart-problems-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/16/alivecor-raises-65-million-to-detect-heart-problems-with-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2017/03/alivecor-fingers-kardia-iphone-e1605569871551.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "200BIbwBmSxtVKbD7mnJeDJA+iWHRBodffAX6PB443PRSbdrmDFvx3wY2qOuiTFbrHnIQXC8GVj2Bp+0iX8K272F2CoLjFnT5ZxyiHz616sQq+ErPcd97HpH/I2zg+GxnNy5CQ8iQ4I4eOhfgjhAr+9bIzxGJ4U2I1ZXB+I7Rw5EUsvxLacCgROvhIWa74bkbnYrI2ywETlOVKGcnTUSVxQQS9jkelns/nX3wdVyb9eFxZiqVE09KqOfee7TX/FLbgK4UGXae3XtYbB1TGCk5yKRdy7z9k6h2Kx0BQRr0wHy25KAJpQm1KhrvGXOKjXfuG4yvHP8y6866STYRG/RxP4Q+rMB5zCV/A+FrZ0MvDNE29irL2B35lYMwDOLAW8Z83ITYrZk3wwtdHT2532ynIih9rdcDySip/6OOtMabFCfnW2Cy2L6+OAz/0nwjLgJ+SlWDmJCpwyoi2zvMG2hFPt30bK7GwfVFxlsWSrF/G5F/E8A3o1eKeOYjtCiKEHN4n4dDBJcVNgEwaYWDGl7lA==;c4kfS+gp70NSozkN8oNvlw=="
 ---

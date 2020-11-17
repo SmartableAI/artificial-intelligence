@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/11/13/uber-in-talks-to-sell-atg-self-dri
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/13/uber-in-talks-to-sell-atg-self-driving-unit-to-aurora/amp/"
 type: article
 quality: 74
-heat: 234
+heat: 244
 published: true
 
 provider:
@@ -121,6 +121,22 @@ related:
       - url: "https://www.benzinga.com/files/images/story/2012/uber_autonomous_vehicle_prototype_testing_in_san_francisco_1.jpg"
         width: 7366
         height: 4920
+        isCached: true
+  - title: "Uber Is Looking To Sell Its Self-Driving Car Division"
+    excerpt: "As recently as eighteen months ago, Uber Advanced Technologies Group was valued at $7.25 billion following $1 billion in investments from the likes of Toyota, DENSO, and SoftBank’s Vision Fund. Fast forward to November 2011 and autonomous vehicle startup Aurora Innovations is in the box seat to purchase Uber ATG."
+    publishedDateTime: 2020-11-16T16:29:00Z
+    webUrl: "https://www.carscoops.com/2020/11/uber-is-looking-to-sell-its-advanced-technologies-group/"
+    ampWebUrl: "https://www.carscoops.com/2020/11/uber-is-looking-to-sell-its-advanced-technologies-group/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/11/uber-is-looking-to-sell-its-advanced-technologies-group/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 44
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2020/11/Uber-ATG-a-1024x555.jpg"
+        width: 1024
+        height: 555
         isCached: true
   - title: "Uber May Sell Self-Driving Car Unit To Rival Aurora Innovation, Report Says"
     excerpt: "Uber may sell its autonomous vehicle unit Uber Advanced Technologies Group to a competitor, startup Aurora Innovation, according to a news report. Aurora, which was founded in 201"

@@ -21,22 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Difficult Memory Choices In AI Systems"
-    excerpt: "The number of memory choices and architectures is exploding, driven by the rapid evolution in AI and machine learning chips being designed for a wide range of very different end markets and systems. Models for some of these systems can range in size from 10 billion to 100 billion parameters,"
-    publishedDateTime: 2020-11-12T08:05:00Z
-    webUrl: "https://semiengineering.com/difficult-memory-choices-in-ai-systems/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/semiengineering.com/wp-content/uploads/2019/05/iStock-509646667-brainchip.jpg?fit=663%2C527&#038;ssl=1"
-        width: 663
-        height: 527
-        isCached: true
-
 secured: "yCjod/E83fFokqU1qveKyCMOCxC8+JnbCj0mgqLhJGAILTlJei7idaERInrn7obaSO4D+cid6GDhzuaSRXZDtYOO7Z7D9WrbcEtmic3Qd2+iK7Qu1lYAg1PlU4OUhtq8RE7pfNdjMJNY3KqpB5piEOnauLG2nF0PGNa0qfVDB31pStXS6PwY6ICcrPeuJdFpmMgcTLVNgIPKg35LP2AB8RwvN25zvatDVai3vCpkCzVmmlwtcKQAsW5i954BACPrz217zyRDJUZ6Zh7NbtDUDVbuuNOMkl4BuFHkb6y2QoORtbDqAZlTFiIP0CAZBAjsYxWUAJ3xAP6TYOW47losRH+aCXLHJqIWu4RaSQ/2y7I=;y1bKDnh3CvgNEe4t6V6lMA=="
 ---
 

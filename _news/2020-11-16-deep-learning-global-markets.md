@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/Deep-Learning-Global-Ma
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Deep-Learning-Global-Markets-1029805190"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -25,20 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "Global Machine Learning Market 2020 Industry Scenario, Strategies, Growth Factors and Forecast to 2026"
-    excerpt: "The latest informative study entitled Global Machine Learning Market 2020 by Company, Regions, Type and Application, Forecast to 2026 released for the database of MarketsandResearch.biz helps a reader to understand the market in depth."
-    publishedDateTime: 2020-11-12T07:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-2020-industry-scenario-strategies-growth-factors-and-forecast-to-2026-2020-11-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Applying machine learning to making mechanical parts"
     excerpt: "Computer vision researchers use machine learning to train computers in visually recognizing objects – but very few apply machine learning to mechanical parts"
     publishedDateTime: 2020-11-16T14:11:00Z

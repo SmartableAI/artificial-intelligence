@@ -24,6 +24,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Global Artificial Intelligence in Automotive Market Status, Prospect, and Forecast 2020 to 2026 – MarketDesk"
+    excerpt: "MarketDesk : Artificial Intelligence in Automotive Market Report brings a systematic perspective of the market execution worldwide and additionally the regional situation. In a detailed section shrewd arrangement,"
+    publishedDateTime: 2020-11-13T05:43:00Z
+    webUrl: "https://apnews.com/press-release/wired-release/technology-business-corporate-news-products-and-services-automobile-manufacturing-e8baf7444f1f6adb69aae50f1730547a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 18
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "QrsUUUeyz2mN3a0VOfIV03FpzP3mlkdJGbGZfyDw5SuhYG98oUCN/q1HZmgX7shpBuAx/wymmjV5wRrzwxArFVok4gObih+gNA5xJvIyDMhjltni1yTkAJvZPB96t59H5Hv+3UjDqm6rOPq2VOy42pa22nGHyphOKx5bJVYQTcYOYNmhvVC3j5bKGzf92q+RGGG7W6q2uE/eJzIMNG+W/lSwClkxXxvQcAQqQCTuEf0fo6aMqNmJ2/4FKUanA398Sgh26Hwmk+uhs5/DhaI57hZEnNBOAzb0vZ7ZyMOH3IrcQ1ZeTOOy7WR7AqaCPfmHMYvp7+46scyFZFz5vtOKeu3BIMt7aRajg+MjOaFnus8=;TqXu+1tdWOh1V7lIkrXUog=="
 ---
 

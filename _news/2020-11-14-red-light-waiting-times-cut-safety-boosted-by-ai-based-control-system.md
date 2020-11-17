@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/edgarsten/2020/11/13/red-light-waiting-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2020/11/13/red-light-waiting-times-cut-safety-boosted-by-ai-based-control-system/amp/"
 type: article
 quality: 87
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -28,6 +28,56 @@ images:
     width: 1000
     height: 563
     isCached: true
+
+related:
+  - title: "Ride Vision raises $7M for its AI-based motorcycle safety system"
+    excerpt: "Using computer vision, Ride Vision’s system, the Ride Vision 1, analyzes the traffic around a rider in real time. It provides forward collision alerts and monitors your blind spot, but it can al ..."
+    publishedDateTime: 2020-11-16T22:07:00Z
+    webUrl: "https://techcrunch.com/2020/11/16/ride-vision-raises-7m-for-its-ai-based-motorcycle-safety-system/"
+    ampWebUrl: "https://techcrunch.com/2020/11/16/ride-vision-raises-7m-for-its-ai-based-motorcycle-safety-system/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/16/ride-vision-raises-7m-for-its-ai-based-motorcycle-safety-system/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/11/Screenshot-2020-11-16-131619.png"
+        width: 767
+        height: 751
+        isCached: true
+  - title: "New motorcycle technology provides AI-driven protection for riders"
+    excerpt: "RideVision bundles a suite of rider-assist and active safety technology into one suite for riders. Active safety technology and driver-assist features continue to spread across the automotive industry."
+    publishedDateTime: 2020-11-16T16:20:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/new-motorcycle-technology-protection-riders/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/new-motorcycle-technology-protection-riders/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-motorcycle-technology-protection-riders/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://cnet3.cbsistatic.com/img/iSySC5vXP-egqULB9Xmj5RPTF5E=/2020/11/16/73c7f009-7de4-4baa-af6c-7bd3838dfcd2/ogi-ridevision.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Ride Vision raises $7 million for AI that alerts motorcycle riders to collision threats"
+    excerpt: "Ride Vision, a startup developing a product that alerts motorcycle riders to collision threats, raised $7 million in funding."
+    publishedDateTime: 2020-11-16T13:02:00Z
+    webUrl: "https://venturebeat.com/2020/11/16/ride-vision-raises-7-million-for-ai-that-alerts-motorcycle-riders-to-collision-threats/"
+    ampWebUrl: "https://venturebeat.com/2020/11/16/ride-vision-raises-7-million-for-ai-that-alerts-motorcycle-riders-to-collision-threats/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/16/ride-vision-raises-7-million-for-ai-that-alerts-motorcycle-riders-to-collision-threats/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/Camera-Front-e1604615189107.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "JeIlBcn6snpwnhy9lnG+nV39zx0yiVE+wFXlXfxGsp0SSAIoF2cekKHsCcSvKVNnACOcNDp4GV7/rRelwOIrgdDrpKUpzuPScdLi278GNM6B4rhxRe2o5xlK9Xp1cKul6jmp/w/AlRlAZx/h1uDb+gSbF2Nwk7g0eIrKfmGV2/e4peWn3iZ8lfiZ94+Ysz2fmf84TSB1TP4QsTCMnmif3gLw7uP1sm3BxTghDfdfRu9k9z9LO1FlxhTqJ3m5mg8UyO8ri0qk3CBlJZ+0D5wHYRRk4MOB77fqcnQxPJJvR64oBSHVDvuNhrGUmxj7ejiPcDB9J0cEE7m/tWLtgTZnoZJSzusHv4kBjwpxjmbEjTdHYyvAJ10Wdv5NkfUmKUKnVFFL/qu0bMJMcLpuGdssUYViiANlRKuQTBHneKqH5l6mthFRj2iUvEgnjgIa5GceXJZL7fCBJl8qc9I4sshsq1UnVFX8O5GbuaOtW4wuszmv9Hv78C5pH8zcn54ubLroPotll+tlqbfEFZc2akNurg==;55x2g5abIRsw8E+zh157bA=="
 ---
