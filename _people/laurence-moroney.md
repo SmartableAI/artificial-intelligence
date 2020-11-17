@@ -3,14 +3,14 @@ name: "Laurence Moroney"
 bio: "Lead of AI Developer Relations at Google. Futurist, Optimist, Artist, Advocate and Author of SciFi, NonFic and more. Tries to be nice."
 location: Sammamish, WA
 type: "profile"
-heat: 151
+heat: 142
 
 website: https://research.google/people/RajatMonga/
 
 twitter:
   username: lmoroney
   url: https://twitter.com/lmoroney
-  followers: 20967
+  followers: 20968
 
 linkedin:
   url: https://www.linkedin.com/in/laurence-moroney/
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Laurence Moroney"
 
-secured: "1ssp1ccgJSrpsMKz9iPwFle3uAgwi2gkFAZ7sEGWm/7fdwYjWqvfq9KWI7DM4SqTkGci/3nGrSc8buPyEv1/SxX2eaQTG8Nq6O0LR3ana7qs0/kug7u6RhCEiyZqeg0pbFykDAgVCq9cuzbjXxMgR022xCfm9sDXch4uw0QVS5QJXBiHnTLW69pm5XwUheenoY+02ZUP5EktXwL6GYCBfmnZshKE9DAvUUaxVoYtVqu9Jl1b/2ptuKjAZHb96mYAXpjl1yrbuFAMIrUjZXDm/cv8ebAzMe4oFQF4wSAa6d1AN8Ucxn2VJnMSW/UKdmZFoW/W28A79Ahk41YJKYI4NbkJoE6YSk+3jlmVKxcaVHc4PxWKcyfuTPy4JxJCKmCgrOI5xxWs2M4v+VoEABD9TYCntk1ED84JUtRX1qGMQLc=;T4bd0vQhJm44ivA5aYgEOA=="
+secured: "FTx8HWse78pbAl7tu/aLgiSWJ6vyO0yc7KO0GGXKhc7QAHI1p69vfmCxxFGqY7U0JPOy5j1yUjAh/6YcigrsUV843yV/KXBMN+nxFcz52C92b7VWmVcO/9P9TUx8LC1Ni7hZo5KjoWOqfckCcx2fXgAZ1g7fkfvX5upJRiaM6SzWYBY3/98h2s7wy15143TEzombbHCS0SBu2oPW0rwcTR3yQ0sEK2h+t90s20PNCFcudXKdArD67QUyIBJDdztFNA7GC8TOOKxgvaNlhiNA7gmSEpmF28sSXn0P3pBqvWaQ68NX9sAm2tqZawfzEpOhMbIyQeiFInHrZHc/0JgVP5+s11unMfVEHlw9Mup7bRjKTQDso6dwxLFI0j57eKNd3DqBJkAz7H4d5zZsqdIDtez/8wm4KS0h1I81x88P5Tg=;U3zKUMvC4RKpHmofHjQGvw=="
 ---
 
