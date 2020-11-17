@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recogni
 webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2020-11-13"
 type: article
 quality: 63
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -80,20 +80,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Video Analytics, ISR And Intelligent Video Surveillance Americas Market Booming By Size, Revenue And Trend In 2020 Scrutinized In New Research"
-    excerpt: "According to HSRC’s latest report, Video Analytics, ISR, Intelligent Video Surveillance & Object Recognition & Americas Market-2015-2020, the U.S. and the rest of American national markets are expected to exceed $36."
-    publishedDateTime: 2020-11-12T14:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/video-analytics-isr-and-intelligent-video-surveillance-americas-market-booming-by-size-revenue-and-trend-in-2020-scrutinized-in-new-research-2020-11-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

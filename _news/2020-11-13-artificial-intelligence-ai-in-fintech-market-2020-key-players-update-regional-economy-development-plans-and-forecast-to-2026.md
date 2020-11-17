@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-2020-key-players-update-regional-economy-development-plans-and-forecast-to-2026-2020-11-13"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: MarketWatch
@@ -43,20 +43,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) in Medical Market 2021: Outlook And Trends With Analysis Of Leading Players, 2030"
-    excerpt: "Market.Biz :COVID-19 Analysis: Turn massive Artificial Intelligence (AI) in Medical Market challenges into meaningful change. Its not post-pandemic, its intra-pandemic. Were still in it, and the implications for Artificial Intelligence (AI) in Medical Market are long-reaching."
-    publishedDateTime: 2020-11-12T10:43:00Z
-    webUrl: "https://apnews.com/press-release/wired-release/technology-business-science-corporate-news-diseases-and-conditions-b2f3e09e0e4ae0358279841fce9ae282"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "WtfkrX1g8tD9hLeuMD0kIfZW86qKAXbYk2A3DXDuZiEB9CzAE4GhG6tpjYTLCRDRxAudiY6Z44MO2Q3qSp+GRImAlZPjQDcfYmOED7M7kcYxUnCsuFoFHi2R35I7cG+wHLgSnAgLpjOlhF4sYVnhm0rv67dJoHOknY8qkshNq88clLTIOjAwi4aJDOY/FiYFgvV5LxcJhmFDi09rtoGPLqw2wzJxod6ICrI/eEcfMeYaWRuHSXKZZNuKDfdQh/eoCziIW04MQcyReXRxo1jXzLpMbryGHZ1vCga7jUzXxCHIQHKOlAsVnp+rLHSKcCCR1LqnW5Z4wF77Wk3SMsgdULj59gzCtmoyXE8w2DxvPmE=;BDIgpOWuiHC78ARGFwT0Hg=="

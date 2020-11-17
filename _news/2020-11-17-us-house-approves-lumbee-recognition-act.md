@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "House Approves Federal Recognition For NC's Lumbee Tribe"
+    excerpt: "The U.S. House of Representatives passed a bipartisan bill Monday that would grant full federal recognition to the Lumbee Tribe of North Carolina, giving new life to a decades-old proposal that recently won backing from both President Donald Trump and President-elect Joe Biden."
+    publishedDateTime: 2020-11-17T01:12:00Z
+    webUrl: "https://www.law360.com/articles/1329247/house-approves-federal-recognition-for-nc-s-lumbee-tribe"
+    ampWebUrl: "https://www.law360.com/amp/articles/1329247"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1329247"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 24
   - title: "Trump-supported Lumbee Recognition Act passes U.S. House"
     excerpt: "The Lumbee tribe are one step closer to federal recognition. The U.S. House of Representatives passed the bill on Monday, Nov. 16 by voice vote. It now awaits action in the U.S. Senate. President Dona"
     publishedDateTime: 2020-11-16T22:20:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/11/16/computer-vision-startup-chooch-ai-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/16/computer-vision-startup-chooch-ai-scores-20m-series-a/amp/"
 type: article
 quality: 104
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1024
     height: 577
     isCached: true
+
+related:
+  - title: "Chooch.ai, a computer vision AI startup raises more than $20 Mn"
+    excerpt: "Chooch.ai just conducted their Series A round. The round was led by many firms and partners and raised a total of $25.8 million."
+    publishedDateTime: 2020-11-17T02:33:00Z
+    webUrl: "https://techstory.in/chooch-ai-a-computer-vision-startup-raises-20-million/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 54
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2020/11/chooch.jpg"
+        width: 470
+        height: 352
+        isCached: true
 
 secured: "XfbhyQ6B9up2CPf0OkHAhm+x1O3vnf5Zn6f780QuSzUaEjYfnRExFzR5qKp8yhDT3z/vERA7WqqwWxLWNbXIjIA9VyXPo8VXbwHBbygHKYx0mP8NRRMhojYOFqMTmXS1OwwnOfjJHa+37Z5lDeuNqbWlkLICWTyyFt02LnrA5idMFFQFnhXQO0nakGWreqKpSr6BEaQwu3TtOOWKDoMg8JBYdx1nOLg60TISkF9Y15KDEeTjypCsCjh/PrGAWeDb9z9UPFsadNmW8Lzj/vXLXv9Ld6nkGc761amR5l0IgP2SjniS2fEhfDXciGHggq6WfIuUGHXqE3iPZMzGZIQrqGklPPcM9VVhRtRGIZk1tl7tBH0V0TRoyPySTy4pN1ct1PycOE0YOSC2bgouJEVDJ4oAoJOer8tOz4wtUIYzIDbGruDau2kgdLRrCo/BoCe168CHUwmQBzIGIpWshXZzbpAVJ6NjCg2Ik+G/sSDDod/a6IN/m63cSMJ7DCj3UBSP9HoRR2e6AE4AvzwQkN1hmA==;ECrKkntpqCvCyObhFS/oUw=="
 ---

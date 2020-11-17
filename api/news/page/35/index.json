@@ -2,6 +2,57 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-10-19-this-ai-powered-sky-replacement-tool-is-smart-enough-to-change-reflections-too.md",
+      "title": "This AI-Powered Sky Replacement Tool Is Smart Enough to Change Reflections Too",
+      "excerpt": "AI-fueled image editing software is getting smarter every week, and Skylum's newest tool will let you replace the entire sky in an image, including in reflections.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/this-ai-powered-sky-replacement-tool-is-smart-enough-to-1845411467",
+      "originalUrl": "https://gizmodo.com/this-ai-powered-sky-replacement-tool-is-smart-enough-to-1845411467",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/t6bae2y0jcayz2tynoyz.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/this-ai-powered-sky-replacement-tool-is-smart-enough-to-1845411467/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-ai-powered-sky-replacement-tool-is-smart-enough-to-1845411467/amp",
+      "publishedDateTime": "2020-10-19T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-list-of-machine-learning-concepts.md",
       "title": "List of machine learning concepts",
       "excerpt": "Teaching yourself Python machine learning can be a daunting task if you don’t know where to start. Fortunately, there ...",
@@ -1074,49 +1125,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-to-build-more-inclusive-technology-change-your-design-process.md",
-      "title": "To Build More-Inclusive Technology, Change Your Design Process",
-      "excerpt": "Companies from Microsoft to Airbnb to Oracle are striving ... more accessible for people with different physical and cognitive abilities; the tech industry has taken meager steps to diversify ...",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2020/10/to-build-more-inclusive-technology-change-your-design-process",
-      "originalUrl": "https://hbr.org/2020/10/to-build-more-inclusive-technology-change-your-design-process",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2020/10/Oct20_19_72983853.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hbr.org/amp/2020/10/to-build-more-inclusive-technology-change-your-design-process",
-      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/10/to-build-more-inclusive-technology-change-your-design-process",
-      "publishedDateTime": "2020-10-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

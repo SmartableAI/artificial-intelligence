@@ -24,17 +24,6 @@ images:
     height: 724
     isCached: true
 
-related:
-  - title: "Amazon Partner in China is Making Facial Recognition Tech to Track Uyghurs"
-    excerpt: "Dahua, a Chinese surveillance gear supplier, accidentally posted online code for software that specifically identifies Uyghurs, and tracks their emotions and movements."
-    publishedDateTime: 2020-11-12T10:03:00Z
-    webUrl: "https://www.thedailybeast.com/dahua-amazon-partner-in-china-is-making-facial-recognition-tech-to-track-uyghurs"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 17
-
 secured: "rgE7Sn3po6aKAB19Je1uAh85XPpQwzj6i+0zIeaKGI6H+fzvad/LIDFVLo4akb5dEvJ9d7NWpTx4N+u2YwpjQOG0PrDTIRevm6L4SzDzjsSdiHlNOpP9x1ok51vxnSVnavfXcBjGmNsa8HubB9SFAmv2IxipdfkZzWElR8CEkPWhBrzHd32brZVZWqfL3bcxp2ZneVGGZEKuv11CghpbE6b7LF7WdXmGQGwhbDwF+zD5mWrUZuLGus6oPNlqHHeViUGoHc8GbVI7kEDOkEiPGIXDL82cBh9n1feyXpLEuMJOnYpYqHTaQqqnYWBnh615fSPTqr9jq9U3kug3iWKCCoGamnR99H7MAsBu4kRUpooisyC4UPVrtiiniCgQxCc/FuViRs3abAq2jzX4rSDWd5RuUF+Q+b6eUS5J7TahUEcPCF2kUtvwYZzEFzklAEJ14QN53gbI4dAKyGynNrUSUU7vsXSsTE2Jxl/m0vI05w4Pdgjb/JUhSgDXMS92CLBd4RUF4bFm7AoMFuS45ye4yw==;Np2sUZpsUHk8M3NOyyVtBg=="
 ---
 

@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Medical Market 2021: Outlook And Trends With Analysis Of Leading Players, 2030"
-    excerpt: "Market.Biz :COVID-19 Analysis: Turn massive Artificial Intelligence (AI) in Medical Market challenges into meaningful change. Its not post-pandemic, its intra-pandemic. Were still in it, and the implications for Artificial Intelligence (AI) in Medical Market are long-reaching."
-    publishedDateTime: 2020-11-12T10:43:00Z
-    webUrl: "https://apnews.com/press-release/wired-release/technology-business-science-corporate-news-diseases-and-conditions-b2f3e09e0e4ae0358279841fce9ae282"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "zBVppf/FERIReRKu+t7jyON015UPsmoSJ7Ww4o8P6B8gdTZQ7TxyAoz7LB/T6U4SDm1IpTWFwsiONDHux/2NYwl1OysNfj79UjXphldBJOkQN46WZuBygJfiQqiYOPri5KFmA/Ohppaz4OpV2NQfOzreaero7gQdD4UFrFiuZeLzvfvhHmw5+M3XC9JDFjoTpfAMXxXqSRXJolPg+QYOExwpQAQtoP5ARfZYJQne6pnYY9yQLbZDOPl4htPYcVjA2q3oMVN6NXmjeCBuxpgK06Z23gGHiuKa0E+tTg34lZmH/DJ2a/VwRYqt23eON7b2q1LRZjCCOtplpFNWpKULGWFAGUk5cXRHhQwZRcoGawk=;Go+9Eaj+hPbpCjf2dY1sqQ=="
 ---

@@ -24,6 +24,22 @@ topics:
   - AI Hardware
   - AI
 
+related:
+  - title: "Global Artificial Intelligence in Automotive Market Status, Prospect, and Forecast 2020 to 2026 – MarketDesk"
+    excerpt: "MarketDesk : Artificial Intelligence in Automotive Market Report brings a systematic perspective of the market execution worldwide and additionally the regional situation. In a detailed section shrewd arrangement,"
+    publishedDateTime: 2020-11-13T05:43:00Z
+    webUrl: "https://apnews.com/press-release/wired-release/technology-business-corporate-news-products-and-services-automobile-manufacturing-e8baf7444f1f6adb69aae50f1730547a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 18
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "W7bs4Ej1cjRghtD/eX7dm5yrBKfMNoA9mZA6lHXOm0278WK5ozOzMmMGTFtYnp6qrnQOHq4HGrGjck7NP0SmZ5V6T/5vRBlorVWjdFnliibDaaEmIhl4wqdiB8y1PZxQsKJLOSY4XTg+HZIYGcbirqaJhjRR0JAAeiRxRfx7CJeerYHS66SzLkX0rSwg9S5nQUAK1a8tsy05+cxdD4wcSOipsxYieDDSRKP+FWuLCHRj9To39yJdtlBwaG04eju0j2Q6X9g7WA6mrEA+SWyk35gC47tMvKflzeuvAfYIAhbPZvnpjDdPdFhZ2KamkJGm5P3egDFIAF6n3zmNL38eQRW4XO5u3qk2tzKC2LPPVJ4=;8vPZgo+jOv3dzA3y2Ukh7Q=="
 ---
 
