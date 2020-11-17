@@ -2,6 +2,94 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-10-27-artificial-intelligence-market-worth-19061-billion-by-2025-with-a-growing-cagr-of-366.md",
+      "title": "Artificial Intelligence Market worth $190.61 billion by 2025 with a Growing CAGR of 36.6%",
+      "excerpt": "Artificial Intelligence Market” [222 Pages] Artificial Intelligence Market report categorizes the Global market by Offering (Hardware, Software), Technology",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/10/ab18064657/artificial-intelligence-market-worth-190-61-billion-by-2025-with-a-growing-cagr-of-36-6",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/ab18064657/artificial-intelligence-market-worth-190-61-billion-by-2025-with-a-growing-cagr-of-36-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketsandmarkets.com/Images/artificial-intelligence-market6.jpg",
+          "width": 650,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18064657",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18064657",
+      "publishedDateTime": "2020-10-26T14:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AWS AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-stock-price-prediction-using-artificial-neural-network.md",
+      "title": "Stock Price Prediction Using Artificial Neural Network",
+      "excerpt": "A stock market is a public market for the trading of company stock. It is an organized set-up with a regulatory body and the members who trade in shares are registered with the stock market and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/stock-price-prediction-using-artificial-neural-network/",
+      "originalUrl": "https://www.techrepublic.com/resource-library/whitepapers/stock-price-prediction-using-artificial-neural-network/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/stock-price-prediction-using-artificial-neural-network/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/stock-price-prediction-using-artificial-neural-network/",
+      "publishedDateTime": "2020-10-26T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-ai-art-artificial-intelligence-creates-logos-from-scratch-in-world-first.md",
       "title": "AI art: Artificial Intelligence creates logos 'from scratch' in world first",
       "excerpt": "Artificial intelligence has until now only been considered as a tool able to augment human creativity. However, as the cutting-edge tech continues its inexorable rise, experts now recognise machine learning as capable of making an impact of its own in the ...",
@@ -1038,92 +1126,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-dubai-introduces-facial-recognition-on-public-transport.md",
-      "title": "Dubai introduces facial recognition on public transport",
-      "excerpt": "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. \"This technology has proven its effectiveness to identify suspicious and wanted people,",
-      "sourceUrl": null,
-      "webUrl": "https://www.al-monitor.com/pulse/afp/2020/10/uae-dubai-security-technology-transport.html",
-      "originalUrl": "https://www.al-monitor.com/pulse/afp/2020/10/uae-dubai-security-technology-transport.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.al-monitor.com/pulse/files/live/sites/almonitor/files/images/afppics/2020/10/2e7286d029b84b12b8cb3cc625d7c0ccaa1135c5.jpg",
-          "width": 962,
-          "height": 642,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.al-monitor.com/pulse/afp/2020/10/uae-dubai-security-technology-transport.amp.html?skipWem=1",
-      "cdnAmpWebUrl": "https://www-al--monitor-com.cdn.ampproject.org/c/s/www.al-monitor.com/pulse/afp/2020/10/uae-dubai-security-technology-transport.amp.html?skipWem=1",
-      "publishedDateTime": "2020-10-25T17:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al-Monitor",
-        "domain": "al-monitor.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-network-testing-in-the-5g-era.md",
-      "title": "Network testing in the 5G era",
-      "excerpt": "A widely used application is object recognition, in which the presence and position of a particular object in an image (e.g. “A cat is/is not present in the picture”) is determined through multi-stage interpretation of patterns (edges, coloured areas ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newelectronics.co.uk/electronics-technology/network-testing-in-the-5g-era/231554/",
-      "originalUrl": "https://www.newelectronics.co.uk/electronics-technology/network-testing-in-the-5g-era/231554/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newelectronics.co.uk/article-images/image-library/93/figure_03_szenario_5410cbec.jpg",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-25T17:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Electronics",
-        "domain": "newelectronics.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

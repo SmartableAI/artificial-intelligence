@@ -58,7 +58,21 @@ related:
         width: 1198
         height: 600
         isCached: true
+  - title: "DeepMind Lab2D, a scalable environment simulator for Artificial Intelligence open-sourced"
+    excerpt: "DeepMind, a UK based Artificial Intelligence (AI) company and research laboratory owned by Alphabet Inc, just open-sourced Lab2D, an AI learning environment written in C++ and Lua for the creation of grid worlds."
+    publishedDateTime: 2020-11-17T08:59:00Z
+    webUrl: "https://www.techjuice.pk/deepmind-lab2d-a-scalable-environment-simulator-for-artificial-intelligence-open-sourced/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 45
+    images:
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2020/11/deep-mind-logo-2.jpg"
+        width: 1280
+        height: 768
+        isCached: true
 
-secured: "PWoxRYpuzv7X7z7wYYeCpVJDkCw6HFIBSULpm93ndpywy+Y2aMp2D8fMOIwWXjkhmVf34LQIK0SedOz+yxy6p6Z3kZIjje+A97OYzXqG3FomsssL2DxuOVjMETW3TGu+FvyXC2D022LeUEIamGbLBz6U1UHBnzbP0o05G0JFO0I/9j95aVxnmOo1ocuydYnptrus1S7ZkuMKxf1y3Pq2SIk8FEPjBW0Wz+xlCoLPI+sGnedkGZOKYBLWAdUXjaCL3RwlsMf4+go10JrEr1cPKie5AnvA3HKMbj9VV7c2ogs0KAmP5i9TBf9GN2Lf+ASW02AZbtqtllI5kgEvbRM25GzZuSMbdot0Q+rUqNud0CM=;Q40L0KdsP0QsLGwOb94jEA=="
+secured: "+UF6ILAsPonPK5Ne67cZo4GIdc9SFZ6BSz6A8pG2OVnmNXc2gkHFekBWdfZGCQNO5trXd47HJQ9I1o8q722JuRj/auZ5zK7zJKIl5MkwFmM5RxoZUj9RdRumGNVx4zlDxRkmCpZIYDnzQeiLj7KMIBgKD7PnYjB8k7VBLwtLh26hK9PYpaIejznvjyFLgRU11i7+OI64u/DmGZXddtOEQKtcdC6rDFzoGpkZg6UlkPLM8C8TyPTlrp8Gn0iJ0lxgrMFYjsSgr0oL8Ar0lVOhpMhDgYmBbw3ySDOcppEkyJ3nAqZQ8YKPQRL4NwbVzlwZdyCekzBExLj20IqGdYKFQXs9qeQ0P9z+IgHNYMxm0O9vg/GRAcRqy2o+2+Mbi7KA0JHBx+pMMxC/NKsWnHC/90XOYJxfypumGPfE78blhd9N3BoGRvroFlXjW/iIn9AA2mVvbGk+9K+qyLSjoMJE1bBCWxs+Oc2oyd030p+E/lKVxD6nIbynqvtfjvm0cike0QbHcSco6jwKS4PcUWC0yw==;gU/l2MvSStkVsVw93BIAKA=="
 ---
 

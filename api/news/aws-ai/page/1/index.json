@@ -4,27 +4,36 @@
     {
       "path": "_news/2020-11-17-nxp-collaborates-with-amazon-web-services-aws-to-extend-connected-vehicle-opportunities.md",
       "title": "NXP Collaborates with Amazon Web Services (AWS) to Extend Connected Vehicle Opportunities",
-      "excerpt": "Vehicle edge-to-cloud compute solution aims to enable new automotive industry revenue opportunities Sets foundation for data-driven services and",
+      "excerpt": "Expands access to vehicle Big Data and streamlines machine learning life cycle to accelerate vehicle development and post-sale vehicle enhancements NXP Semiconductors has announced a strategic relationship with Amazon Web Services (AWS) focused on extending the opportunities of connected vehicles.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/nxp-collaborates-with-amazon-web-services-aws-to-extend-connected-vehicle-opportunities-1029809200",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/nxp-collaborates-with-amazon-web-services-aws-to-extend-connected-vehicle-opportunities-1029809200",
+      "webUrl": "https://www.marketwatch.com/press-release/nxp-collaborates-with-amazon-web-services-aws-to-extend-connected-vehicle-opportunities-2020-11-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/nxp-collaborates-with-amazon-web-services-aws-to-extend-connected-vehicle-opportunities-2020-11-17",
       "featuredContent": null,
       "highlight": null,
       "heat": 75,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/NXP-Collaborates-with-Amazon-Web-Services-AWS-to-Extend-Connected-Vehicle-Opportunities-1029809200",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/NXP-Collaborates-with-Amazon-Web-Services-AWS-to-Extend-Connected-Vehicle-Opportunities-1029809200",
-      "publishedDateTime": "2020-11-16T23:20:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-17T01:42:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -542,8 +551,8 @@
       "title": "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker",
       "excerpt": "ElectrifAi, one of the global leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-897787209.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-897787209.html",
+      "webUrl": "https://www.prnewswire.com/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-301170639.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-301170639.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -562,11 +571,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T05:13:00-08:00",
+      "publishedDateTime": "2020-11-11T04:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -576,9 +585,10 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "AI in Finance",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AWS AI"
       ]
     },
     {

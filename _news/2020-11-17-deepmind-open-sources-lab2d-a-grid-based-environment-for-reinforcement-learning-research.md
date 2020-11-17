@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/16/deepmind-open-sources-lab2d-a-gri
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/16/deepmind-open-sources-lab2d-a-grid-based-environment-for-reinforcement-learning-research/amp/"
 type: article
 quality: 80
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://elmoudjaweb.com/wp-content/uploads/2020/11/DeepMind-open-sources-Lab2D-a-grid-based-environment-for-reinforcement-learning-research.png"
         width: 1198
         height: 600
+        isCached: true
+  - title: "DeepMind Lab2D, a scalable environment simulator for Artificial Intelligence open-sourced"
+    excerpt: "DeepMind, a UK based Artificial Intelligence (AI) company and research laboratory owned by Alphabet Inc, just open-sourced Lab2D, an AI learning environment written in C++ and Lua for the creation of grid worlds."
+    publishedDateTime: 2020-11-17T08:59:00Z
+    webUrl: "https://www.techjuice.pk/deepmind-lab2d-a-scalable-environment-simulator-for-artificial-intelligence-open-sourced/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 45
+    images:
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2020/11/deep-mind-logo-2.jpg"
+        width: 1280
+        height: 768
         isCached: true
 
 secured: "4ANUe5CY4wgOzVcT6VE9+XeXO7Uy5lnwVNKbHjzNTSyKl0cP4ndgKiKDURpWQmWxzbjvd3nMTULIhou+bvQ7LFY334JKXIQoGpvk/Db/814S4UjXKGK0n1PYpq2D2h8TJilBi36SfCcFRwcn0anwIQwXppPzsjaXuzXr3Sg+lFVDspvzMpRGSuP48VOjpOFJjM64Iah1nfcGisfv0fe8ybkiuhQyK4HaaJi9/Q1RBzmAO0GP6NCmBNPtYdUImINQfIyTFbpTUMQg0usQxjD+blMBOFJQOuBXcsfoxRJTOxCAJuQ92w/P+lc0406pFDfbGwpLHcOaPt5Wk5EyUQPh9oXEhunk5Tlt1tseJR7J3QUw5WkzVa6xZBpTFDaC8/kBkN2drz92+hL3H5eTMgImBdOL6W7dAasxjpCIl1JB06pRmlxXuP8L7MN1KxsYxa65QxnNtay47+5Cu4QRyiQ0lqZK3sOK8x+oPVm6GELzcXajiWJYVTveXs60hH1OMYRNDcQFhW/Rpsz7/6k4xt6+Yg==;2ciUn0/CUZu4OIasiMhHOQ=="

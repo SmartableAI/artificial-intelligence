@@ -10,7 +10,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/huawei-cloud-named-a-leader-in-predictive-analytics-and-machine-learning-1029808693",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 88,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -99,7 +99,7 @@
       "originalUrl": "https://roboticsandautomationnews.com/2020/11/16/machine-learning-in-banking-and-marketing-applications-for-2021-and-beyond/38220/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -824,8 +824,8 @@
       "title": "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker",
       "excerpt": "ElectrifAi, one of the global leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-897787209.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-897787209.html",
+      "webUrl": "https://www.prnewswire.com/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-301170639.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-301170639.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -844,11 +844,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T05:13:00-08:00",
+      "publishedDateTime": "2020-11-11T04:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -858,9 +858,10 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "AI in Finance",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AWS AI"
       ]
     },
     {

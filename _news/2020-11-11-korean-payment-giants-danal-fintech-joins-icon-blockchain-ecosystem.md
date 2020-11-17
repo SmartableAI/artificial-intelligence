@@ -2,46 +2,25 @@
 category: news
 title: "Korean Payment Giant’s Danal Fintech Joins ICON Blockchain Ecosystem"
 excerpt: "Danal Fintech, a subsidiary of Danal ( one of the largest payment companies in South Korea, today announced that they are joining the ICON blockchain ecosystem, the largest decentralized network in Korea by market capitalization."
-publishedDateTime: 2020-11-11T12:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/korean-payment-giant-s-danal-fintech-joins-icon-blockchain-ecosystem-1029791295"
-webUrl: "https://markets.businessinsider.com/news/stocks/korean-payment-giant-s-danal-fintech-joins-icon-blockchain-ecosystem-1029791295"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/Korean-Payment-Giant-s-Danal-Fintech-Joins-ICON-Blockchain-Ecosystem-1029791295"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Korean-Payment-Giant-s-Danal-Fintech-Joins-ICON-Blockchain-Ecosystem-1029791295"
+publishedDateTime: 2020-11-11T12:02:00Z
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-south-korea-70b7109710ee3702e80c6d7e450260aa"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-south-korea-70b7109710ee3702e80c6d7e450260aa"
 type: article
-quality: 69
-heat: 79
-published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
-related:
-  - title: "Your car insurance salesman is now an AI bot connected to blockchain"
-    excerpt: "Voit has partnered with IBM and Cosmos to deliver a fully-automated virtual assistant that can offer car insurance"
-    publishedDateTime: 2020-11-13T02:21:00Z
-    webUrl: "https://cointelegraph.com/news/your-car-insurance-salesman-is-now-an-ai-bot-connected-to-blockchain"
-    ampWebUrl: "https://cointelegraph.com/news/your-car-insurance-salesman-is-now-an-ai-bot-connected-to-blockchain/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/your-car-insurance-salesman-is-now-an-ai-bot-connected-to-blockchain/amp"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 59
-    images:
-      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjAtMTEvMzJkMTg5ZGItZjNiOC00MGNkLWI4MzEtNTUxYTYwMTY2YzM2LmpwZw==.jpg"
-        width: 740
-        height: 494
-        isCached: true
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
-secured: "DhwL8wJhcswaDp6tkgh5uft5YEDHQlFr0QFuwSa2TQOrXbMiZeG3ksuo9wWRmVd3abExNEDTnG0elOSTiJcE5qj6N1Yxv/8feNJV+h2qHkrBrWwc64XrpcRcrgSAo3Fus7ykH+upDoHAXN9mU/7XoI1IVFw7oj3sEMqp22WhPP8mV+ZjBMMr52lJYVFL0KgQF5Ep2Eb+j4Gy8DUKJNSM3blbmy+km/HsrxioXrDiHoD3nAzSZTWOzd5VoukFMPSK4SeWvpAYSoFYrMT4t7aFmq5dz3xQ9vfpvdCu+xZQ5GcGV0ZkScK3aM810TAQUF/VcHid1bwYgKFVxcfSdU7qK5yBM/MLbcUI5s4L/voaCWM=;A9PicQ7MWBuN2CakchvjgQ=="
+secured: "Dm30DNJgmP3STfw7SnT1uF8YDakhvTnhhIeetzNUJmGr83E+tPy4f61YQoE/wB52Z0nufTV0eHZbF6VTHZY+pMzrCdLEUdLFZXq4BPypY8a/JuwNcchMlkbSXPGImZ0R+cThLrR4NxX4OFctQ2BYiv5qmmwE7KqueHjegPsK34K/W3EbK6ptChDrTMF3EB66McBBv9T0cGNfVQsTEbTr+H/tZSg9qT5iXguEQFFBJc3kCeZRVfXVa40jwVjhAmVWQwbImlEwKytf+1KVSNsaFBShJLW8Dt+EevM4Mg70vTvRomI4A3TZsv2mfWiVQHIPH6VcXK/tLF7vGJemxGIasPm27WKc0Sixs37DeI47Txg=;xGW9QJo8O9aucLvcew3uHA=="
 ---
 

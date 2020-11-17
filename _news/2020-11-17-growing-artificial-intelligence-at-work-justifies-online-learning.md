@@ -26,7 +26,7 @@ related:
     provider:
       name: Military
       domain: militaryaerospace.com
-    quality: 53
+    quality: 55
     images:
       - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2020/11/machine_learning_17_Nov_2020.5fb2d59aacfe4.png?auto=format&fit=max&w=1200"
         width: 1200

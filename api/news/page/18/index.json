@@ -2,6 +2,57 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-10-31-ai-weekly-in-a-chaotic-year-ai-is-quietly-accelerating-the-pace-of-space-exploration.md",
+      "title": "AI Weekly: In a chaotic year, AI is quietly accelerating the pace of space exploration",
+      "excerpt": "And last week, Intel, the European Space Agency (ESA), and startup Ubotica detailed what they claim is the first AI-powered satellite to orbit Earth: the desktop-sized PhiSat-1. It aims to solve ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/30/ai-weekly-in-a-chaotic-year-ai-is-quietly-accelerating-the-pace-of-space-exploration/",
+      "originalUrl": "https://venturebeat.com/2020/10/30/ai-weekly-in-a-chaotic-year-ai-is-quietly-accelerating-the-pace-of-space-exploration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/nano-satellites-kineis-e1580987091588.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/30/ai-weekly-in-a-chaotic-year-ai-is-quietly-accelerating-the-pace-of-space-exploration/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/30/ai-weekly-in-a-chaotic-year-ai-is-quietly-accelerating-the-pace-of-space-exploration/amp/",
+      "publishedDateTime": "2020-10-30T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-31-daimler-trucks-self-driving-haulage-finds-a-key-part-of-its-autonomous-vision.md",
       "title": "Daimler Trucks’ self-driving haulage finds a key part of its autonomous vision",
       "excerpt": "Daimler Trucks just gone done inking a collaboration with Waymo, and now it’s picking out cutting edge sensors for its self-driving haulage as the pieces slot into place for autonomy. The German automaker announced earlier this week that it would be ...",
@@ -1176,57 +1227,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-the-amazing-ways-ocado-uses-artificial-intelligence-and-tech-to-transform-the-grocery-industry.md",
-      "title": "The Amazing Ways Ocado Uses Artificial Intelligence And Tech To Transform The Grocery Industry",
-      "excerpt": "Ocado may have started out in 2000 as an online grocer, but it is now one of the world's most innovative technology companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/10/30/the-amazing-ways-ocado-uses-artificial-intelligence-and-tech-to-transform-the-grocery-industry/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2020/10/30/the-amazing-ways-ocado-uses-artificial-intelligence-and-tech-to-transform-the-grocery-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9bacd6b76ef50734de8f85%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/10/30/the-amazing-ways-ocado-uses-artificial-intelligence-and-tech-to-transform-the-grocery-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/10/30/the-amazing-ways-ocado-uses-artificial-intelligence-and-tech-to-transform-the-grocery-industry/amp/",
-      "publishedDateTime": "2020-10-29T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

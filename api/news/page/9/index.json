@@ -2,6 +2,48 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-11-10-artificial-intelligence-ai-is-key-to-reducing-digital-ad-waste.md",
+      "title": "Artificial intelligence (AI) is key to reducing digital ad waste",
+      "excerpt": "Do you really want your advertising budget being wasted on ads that are producing solicitations instead of qualified leads? More insights on how the world’s first AI Smart Core℠, SherloQ™ is revolutionizing how websites and digital ad campaigns operate altogether.",
+      "sourceUrl": null,
+      "webUrl": "https://www.searchenginewatch.com/2020/11/09/artificial-intelligence-ai-is-key-to-reducing-digital-ad-waste/",
+      "originalUrl": "https://www.searchenginewatch.com/2020/11/09/artificial-intelligence-ai-is-key-to-reducing-digital-ad-waste/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.searchenginewatch.com/wp-content/uploads/2020/11/Artificial-intelligence-AI-is-key-to-reducing-digital-ad-waste.png",
+          "width": 728,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.searchenginewatch.com/2020/11/09/artificial-intelligence-ai-is-key-to-reducing-digital-ad-waste/amp/",
+      "cdnAmpWebUrl": "https://www-searchenginewatch-com.cdn.ampproject.org/c/s/www.searchenginewatch.com/2020/11/09/artificial-intelligence-ai-is-key-to-reducing-digital-ad-waste/amp/",
+      "publishedDateTime": "2020-11-09T08:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Search Engine Watch",
+        "domain": "searchenginewatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-threat-stack-unveils-machine-learning-capabilities-in-the-threat-stack-cloud-security-platform.md",
       "title": "Threat Stack Unveils Machine Learning Capabilities in The Threat Stack Cloud Security PlatformⓇ",
       "excerpt": "Threat Stack, the leader in cloud security and compliance for infrastructure and applications, today announced ThreatML ™, its new machine learning engine that enhances security observability for the Threat Stack Cloud Security Platform Ⓡ,",
@@ -1176,58 +1218,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste.md",
-      "title": "CSIRO to use artificial intelligence, machine learning, and sensors to end plastic waste",
-      "excerpt": "The Commonwealth Scientific and Industrial Research Organisation (CSIRO) has announced partnerships with Microsoft, Hobart City Council, and Chemistry Australia to address -- and attempt to end -- Australia's plastics waste issue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
-      "originalUrl": "https://www.zdnet.com/article/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/06/16/9661d050-0c11-4767-a7ae-3c29bd3d17c5/storm-water-and-litter.jpg",
-          "width": 728,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
-      "publishedDateTime": "2020-11-08T16:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

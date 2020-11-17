@@ -121,6 +121,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Amazon Making In Roads Into Chip Industry; Now Uses Its Own Machine Learning Chips For Alexa Services"
+    excerpt: "Each AWS Inferentia chip contains four NeuronCores that are equipped with a large on-chip cache. This cuts down on external memory accesses."
+    publishedDateTime: 2020-11-17T10:35:00Z
+    webUrl: "https://analyticsindiamag.com/aws-inferentia-alexa-machine-learning-chips-amazon/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/11/andres-urena-tsBropDpnwE-unsplash-compressed-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Amazon moving facial recognition and voice processing off of Nvidia chips"
     excerpt: "Amazon is switching to using its own custom chips to provide the cloud processing for its Alexa voice assistant service and facial recognition service Rekognition, Reuters reports, in an attempt"
     publishedDateTime: 2020-11-13T21:55:00Z
@@ -135,15 +149,6 @@ related:
         width: 810
         height: 405
         isCached: true
-  - title: "Amazon moving some Alexa, facial recognition computing to in-house chips"
-    excerpt: "Amazon (AMZN -1.0%) is moving part of its Alexa computing from Nvidia (NVDA +0.9%) to the in-house Inferentia chips.The Inferentia chips will be used when an Echo user's voice query is sent to an Amazon data center for processing and answering in a text format that then has to be converted to audio."
-    publishedDateTime: 2020-11-12T19:00:00Z
-    webUrl: "https://seekingalpha.com/news/3635661-amazon-moving-alexa-facial-recognition-computing-to-in-house-chips"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 20
 
 secured: "m7RhjrMNsb5TUJAc0Z808TOXgSbuCAwPllRDBlkqvx9VseRG+sYJz6jj4TfHUlFaMNVLx9YuZzoYAMD/pw4KwcPPdPrW+6R6BrXnZZFPV/YN3c8hF4JxCAimCJ0/uWK/JUOasHEniw9iuys6BvHjjf0VVKOajp0TqBVSr/Tb6VW2aEVsFHI+U8HBAqTqqJsYhMYSVRPb01XD9V/YVarUolmSS4FQ9a3+ROlI7mwy2/n+ajzzrY3I9TU3NeajLNpetUSG/xGN2g3AxywUQ3hoVxWizrgw7vLR31pyJ+fmnVoDnVQo2K9yhaMzkgf3ml62tr+G4J0dRPQYZUmmvGt65IOJkQS1uRE0wcnVRmnhxjk=;Gdwb8JVjJOJq/u6tuFpe6A=="
 ---

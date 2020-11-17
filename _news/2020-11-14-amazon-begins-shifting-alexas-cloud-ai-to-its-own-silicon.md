@@ -124,6 +124,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Amazon Making In Roads Into Chip Industry; Now Uses Its Own Machine Learning Chips For Alexa Services"
+    excerpt: "Each AWS Inferentia chip contains four NeuronCores that are equipped with a large on-chip cache. This cuts down on external memory accesses."
+    publishedDateTime: 2020-11-17T10:35:00Z
+    webUrl: "https://analyticsindiamag.com/aws-inferentia-alexa-machine-learning-chips-amazon/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/11/andres-urena-tsBropDpnwE-unsplash-compressed-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Amazon moving facial recognition and voice processing off of Nvidia chips"
     excerpt: "Amazon is switching to using its own custom chips to provide the cloud processing for its Alexa voice assistant service and facial recognition service Rekognition, Reuters reports, in an attempt"
     publishedDateTime: 2020-11-13T21:55:00Z
@@ -138,15 +152,6 @@ related:
         width: 810
         height: 405
         isCached: true
-  - title: "Amazon moving some Alexa, facial recognition computing to in-house chips"
-    excerpt: "Amazon (AMZN -1.0%) is moving part of its Alexa computing from Nvidia (NVDA +0.9%) to the in-house Inferentia chips.The Inferentia chips will be used when an Echo user's voice query is sent to an Amazon data center for processing and answering in a text format that then has to be converted to audio."
-    publishedDateTime: 2020-11-12T19:00:00Z
-    webUrl: "https://seekingalpha.com/news/3635661-amazon-moving-alexa-facial-recognition-computing-to-in-house-chips"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 20
 
 secured: "RningMmkzHzQ14IDpH6hzp09zNMQ8V2XLTzspCfuM1xPgmUjxnRtx9Sm+BKbq67cKxdXSxKhdfk8ffdXcHbFd3oUUipMxaHFs13w5ofc0bTAW3Nurn0jLk/BLc2I7wUOuNdmVYrnJw+a1+PodTfolgB8ZcIzT7p5AiDwbVfbAnnvCRh43aObZ/YcSPCr9/3dWt+SCtgbiY6h4expQm9k6eZvPNL6aAWiji2wLiDRnY/LxlPHYUeZKP4VUSf1LxsdhtZHvMMuI0aVERdEGFITW285JJf7ULpBUdaO1eLT4LhnHmt02/2vIxbeQmysjqJOjD/N3owihz9lpLzKYyPZJMo9aeSZTXBuiECf1lgpYc/C0cz+fQZOGupQTkqKu+hVGG0aEZDH4ss3CdV/ye1+IA2Jk2kNkEvSd0tMynVUYY+WsA2/y4/3CFsTA0L+cfgSTuaW83pgOR4j6lWSl60l7MBJzoJDOdVOn+9VEXeDKNf8rH64Gu+vECI98sCoYSUC26jZBKwae1SbUxORGz+KuA==;I2zk2ZHoPbAXffT2Bb3C/g=="
 ---

@@ -44,6 +44,17 @@ related:
         width: 750
         height: 499
         isCached: true
+  - title: "Deep Learning Market: Focus on Medical Image Processing, 2020-2030"
+    excerpt: "Reportlinker.com announces the release of the report \"Deep Learning Market: Focus on Medical Image Processing, 2020-2030\" -  This technology is gradually being incorporated in a variety of applications across the healthcare sector,"
+    publishedDateTime: 2020-11-17T09:47:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/deep-learning-market-focus-on-medical-image-processing-2020-2030-1029809618"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/Deep-Learning-Market-Focus-on-Medical-Image-Processing-2020-2030-1029809618"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Deep-Learning-Market-Focus-on-Medical-Image-Processing-2020-2030-1029809618"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
 
 secured: "qIe++XZ3z39wJt5BGyT0FdF+pZ4Wip4piKsXoHYmIVmn9jAK3DsJyf0QsSlRRsSkSd2v4sqnkbnAiP4B3ubCpvkL9nhT3Fs4vIdNZeHOK42t94RUHbQD44lCHyej0y8lTb5vStuGe3V3PvYMJabs9XTUHTO012LBxoUKZdOdtc5rBc0RrUFCXAhUZoD712yOgCMDYSYyAG8OhqRoxxg9bXUI28UcYLM93L+rLA6sdO8pVU1ht9tsZDVpg5wK5+cRea+5iQR1/53u6MaXHfoqB8qQgVaLBcVmlJwaJyCasJXzneA4VlmypARktaAoUMFCK/2eYoERslMeqAzIYRK5NsNttS0h1LjnaPPQKYFQFvA=;chuORbYZXtGJ+/oOrlD57A=="
 ---

@@ -49,34 +49,6 @@ related:
         width: 405
         height: 228
         isCached: true
-  - title: "Advantech Launches AIR Edge AI Inference Systems for AI and Vision Analytics Applications"
-    excerpt: "Advantech launched their AIR series of AI inference systems, to address AI applications including retail facial recognition, AOI/vision inspection, robotic, intelligent transportation, and more."
-    publishedDateTime: 2020-11-12T17:27:00Z
-    webUrl: "https://www.embedded-computing.com/news/advantech-launches-its-comprehensive-air-edge-ai-inference-systems-for-ai-and-vision-analytics-applications"
-    type: article
-    provider:
-      name: Embedded Computing Design
-      domain: embedded-computing.com
-    quality: 30
-    images:
-      - url: "https://content.cdntwrk.com/files/aHViPTYzODY3JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVmYWQ2YjU4YTk1NWEucG5nJnZlcnNpb249MDAwMCZzaWc9N2MxMDc2OGNhZWU4ZWJjNjBiODQzYzRiZDY1YWZhODQ%253D"
-        width: 500
-        height: 272
-        isCached: true
-  - title: "Fivetran Extends Integration With Databricks, Accelerating SQL Analytics, Data Science and Machine-Learning Applications"
-    excerpt: "Fivetran, the leading provider of automated data integration, today announced advancements in its integration with Databricks, the Data and AI Company, extending the companies’ strategic partnership to power the modern data stack."
-    publishedDateTime: 2020-11-12T17:47:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-science-north-america-oakland-data-management-8da6f804a3b74d80bd10a41db51e8411"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "aEQLv4IAMqe8SLDLg0TK+kbbNTIa6Hiy8k0FhYwbJMx29Le2L6K5pR8oORu4U/VSUB96HUDdPxDekbGnnrBm1pawBbe3Gtm0chVBJSLm3oxyZvy/sstvFXA/aOBdxzQjqfP9zZ1Zulz7Tu2w8UyYjCm1sNWdn2tHW5w2TUU185EzYKTR3s8EgIcys8wXvZDi4FuwGKrJURPBhI7EsbY0pd1P0LQdCNncLWnTUUqavK62E90M38+rRIiJArFuorNZZmgAWVnIiLsFe03xHV4ehwdG8PJKBUACaP/hA63F6qrSJ2sbdlu7d/BnU28OI/y5ZDuzJSx881XOGeE99aoIIxPEygONV0J5GCQtfavHVqtKxJ6BZi/kdUpYp63Qv1XblgYYuPlJKhTXep3STR2IZjrBRq0LQsY/lxkug3DPbOdivQKxHpnRwEHgNCmiSAjn5V/kLwbh52itXfok4zdFH/RtEy4bTO8qq3s8g0PBtdzejnFioHlOT3rs7CV7FjEL0cWQAt6WdDf4EcC0BwfE7g==;BTcLCqeoshi8UGYVf9Rl5g=="
 ---

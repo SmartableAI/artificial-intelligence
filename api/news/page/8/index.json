@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-11-10-qatar-ai-enabled-self-driving-cars-a-necessary-component-for-human-safety-volvo-official.md",
+      "title": "Qatar- AI-enabled self-driving cars a necessary component for human safety: Volvo official",
+      "excerpt": "The Peninsula  <p>Volvo recently participated in a webinar on Artificial Intelligence (AI), an initiative by the Embassy of Sweden and Swedish Chamber of Com",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1101100905/Qatar-AI-enabled-self-driving-cars-a-necessary-component-for-human-safety-Volvo-official",
+      "originalUrl": "https://menafn.com/1101100905/Qatar-AI-enabled-self-driving-cars-a-necessary-component-for-human-safety-Volvo-official",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2020-11/10/TP_13ffbe8c-8image_story.jpg",
+          "width": 532,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-10T07:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-smarsh-to-acquire-ai-company-digital-reasoning.md",
       "title": "Smarsh to Acquire AI Company Digital Reasoning",
       "excerpt": "Smarsh says Digital Reasoning’s artificial intelligence and machine-learning technology will allow it to more efficiently sift through the virtual reams of communications it archives for financial-services firms.",
@@ -1151,48 +1194,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-artificial-intelligence-ai-is-key-to-reducing-digital-ad-waste.md",
-      "title": "Artificial intelligence (AI) is key to reducing digital ad waste",
-      "excerpt": "Do you really want your advertising budget being wasted on ads that are producing solicitations instead of qualified leads? More insights on how the world’s first AI Smart Core℠, SherloQ™ is revolutionizing how websites and digital ad campaigns operate altogether.",
-      "sourceUrl": null,
-      "webUrl": "https://www.searchenginewatch.com/2020/11/09/artificial-intelligence-ai-is-key-to-reducing-digital-ad-waste/",
-      "originalUrl": "https://www.searchenginewatch.com/2020/11/09/artificial-intelligence-ai-is-key-to-reducing-digital-ad-waste/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.searchenginewatch.com/wp-content/uploads/2020/11/Artificial-intelligence-AI-is-key-to-reducing-digital-ad-waste.png",
-          "width": 728,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.searchenginewatch.com/2020/11/09/artificial-intelligence-ai-is-key-to-reducing-digital-ad-waste/amp/",
-      "cdnAmpWebUrl": "https://www-searchenginewatch-com.cdn.ampproject.org/c/s/www.searchenginewatch.com/2020/11/09/artificial-intelligence-ai-is-key-to-reducing-digital-ad-waste/amp/",
-      "publishedDateTime": "2020-11-09T08:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Search Engine Watch",
-        "domain": "searchenginewatch.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -64,6 +64,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 86
+  - title: "Rick Wagner: Microsoft Federal to Help Air Force Integrate Capabilities In Support of ABMS"
+    excerpt: "Rick Wagner, president of Microsoft’s (Nasdaq: MSFT) federal arm and a three-time Wash100 awardee, wrote in a blog post published Monday the company will compete to develop, field and operate systems across multiple domains in support of the U."
+    publishedDateTime: 2020-11-17T10:38:00Z
+    webUrl: "https://www.govconwire.com/2020/11/rick-wagner-microsoft-federal-to-help-air-force-integrate-capabilities-in-support-of-abms/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 44
+    images:
+      - url: "https://govconwire-media.s3.amazonaws.com/2020/11/17/0c/d4/14/de/3b/c0/9c/24/a0I4y00000Ph1BsEAJ-rick-wagner.jpeg"
+        width: 272
+        height: 270
+        isCached: true
   - title: "Microsoft adds Hindi to its Text Analytics service"
     excerpt: "Text Analytics includes sentiment analysis, opinion mining, key phrase extraction, language detection, named entity recognition, and Personally Identifiable Information (PII) detection. Microsoft on Thursday said it has added Hindi to its Text Analytics service to help businesses strengthen customer support through a complete analysis of user perception and feedback in the most widely spoken language in India."
     publishedDateTime: 2020-11-14T05:02:00Z
@@ -91,20 +105,6 @@ related:
       - url: "https://www.microsoft.com/en-us/translator/blog/wp-content/uploads/sites/13/2020/11/BlogHero.jpg"
         width: 1411
         height: 665
-        isCached: true
-  - title: "Privitar Achieves Microsoft’s Co-sell Ready Designation and Joins Microsoft Fast Track for ISVs Program"
-    excerpt: "Privitar, the leading data privacy platform provider, announced today that it has earned Microsoft's coveted co-sell ready designation through the Microsoft One Commercial Partner Program. Privitar has also joined Microsoft’s Fast Track for ISVs program,"
-    publishedDateTime: 2020-11-12T18:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201112005198/en/Privitar-Achieves-Microsoft’s-Co-sell-Ready-Designation-and-Joins-Microsoft-Fast-Track-for-ISVs-Program"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 23
-    images:
-      - url: "https://mms.businesswire.com/media/20201112005198/en/678615/23/180917_Privitar_logo_low_res.jpg"
-        width: 1200
-        height: 627
         isCached: true
 
 secured: "g2FCBOwgucqdumHPqS5RNlmXcV5G0a0El1gu9rWn8Hx61EjHskNrIfOGVDXcWXWYY/dJH+EBYOXuX0D78HcNzPK537TEhyM3NPX+fxu12VNTbHnRFipB5JCE+cTvZb69D5cnCXPP5pAMXZ8t6efQdMKtA+kyoF6Ev6rbCuQ6RoNKq+8hW8uETM05rLBbxwMVWbgFwLniaGAnSWXyhvMWIvKq9cVjkxfzg13splU9yaMKlJFGzqFRsmb9sjBzy+UhYeDVCb2v3vT6rYTkvsFPVhMKuBgfQaAuKab6T8Aveu2iV4fj96D1jwp7xoFq5TENMlYI86jCvWDibTmOToTTsZv93QThZXAl4R/KrDRHeoNQCXE7KARJCsE9bFsJj+Z6uTubfOh8WWNOwzZ5Oeg6CRnRDzYs51i+apSu2qOCf/41hlOXP7hyS7zREzC0K6+D4AZpyBdshnPeJtE9aQCLvPSA2Z6ymhukJ0MgHX3tWslmpEnj5so2vYqYXlpc7PvUyWZCXEj2KlRNH7651OpJ+w==;2KMIiAvwlPcWb2v0ZmrZzA=="

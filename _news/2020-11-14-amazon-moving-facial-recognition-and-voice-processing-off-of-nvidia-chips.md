@@ -134,15 +134,20 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Amazon moving some Alexa, facial recognition computing to in-house chips"
-    excerpt: "Amazon (AMZN -1.0%) is moving part of its Alexa computing from Nvidia (NVDA +0.9%) to the in-house Inferentia chips.The Inferentia chips will be used when an Echo user's voice query is sent to an Amazon data center for processing and answering in a text format that then has to be converted to audio."
-    publishedDateTime: 2020-11-12T19:00:00Z
-    webUrl: "https://seekingalpha.com/news/3635661-amazon-moving-alexa-facial-recognition-computing-to-in-house-chips"
+  - title: "Amazon Making In Roads Into Chip Industry; Now Uses Its Own Machine Learning Chips For Alexa Services"
+    excerpt: "Each AWS Inferentia chip contains four NeuronCores that are equipped with a large on-chip cache. This cuts down on external memory accesses."
+    publishedDateTime: 2020-11-17T10:35:00Z
+    webUrl: "https://analyticsindiamag.com/aws-inferentia-alexa-machine-learning-chips-amazon/"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 20
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/11/andres-urena-tsBropDpnwE-unsplash-compressed-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "1KrGgeT3kt1bIaR7tjw/kPYdznvcLapF+RRsQncg4/y4WgNgRqe3I+63VomLlTQNkVnWvpa9z8t+yhhTn5D12NfFteI5p9cFxJkxMF81q7KF1yjcMX48axtz6D5m39xJihaYwa4a7Yr2nhJu4xLOn1luiTWGTfYx7M1vUULAJU7p13I+f3EabTWdgFcjm6mRufPMY/XQxXAl8ghW+b420tvKQ3dEKgBq9Wa+V7WOlM+6KOKa3jP9188oEj52FxeUrPJzW1r1b1fyOZKOYFDMc3Ykjc5UelX4yFTDQH0qUHd9i/j7+Vldm3sB6FOrjpNDPZiJOXUO06Na4uzR37BpVha9mQKDa3NROFT9UgE8vUZ154MxSD2rt/9s+ZffUNai5fMK7xi/2xDX9ihl+vVVUjlZUBHkgpoCVQhHAuVU/ul4U0RI/LM7kmjBEONpGEMyJ4meMFEEgYPFDZqAb0X3+09mkPW3ngCFUXs2ihjhZpTy2xAeXLOCHUwLXFfkpuDXnKyakGyIdsJaUYm/PjqQNw==;jGlm66bfL80hzLMSf0yn7Q=="
 ---
