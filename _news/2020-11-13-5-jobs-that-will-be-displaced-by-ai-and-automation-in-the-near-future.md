@@ -57,6 +57,22 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "Making Sense of the AI Landscape"
+    excerpt: "But the term “AI” in fact covers a huge spectrum of different things. How can leaders start to make sense of this vast array of new systems? The authors analyzed over 800 different AI tools ..."
+    publishedDateTime: 2020-11-17T13:17:00Z
+    webUrl: "https://hbr.org/2020/11/making-sense-of-the-ai-landscape"
+    ampWebUrl: "https://hbr.org/amp/2020/11/making-sense-of-the-ai-landscape"
+    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/making-sense-of-the-ai-landscape"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 61
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2020/11/Nov20_17_498430921.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Connecting the Classroom to Careers Through AI Explorations"
     excerpt: "Artificial intelligence is an increasingly prevalent part of our everyday lives. From live-updating, turn-by-turn driving directions to responsive"
     publishedDateTime: 2020-11-16T15:31:00Z

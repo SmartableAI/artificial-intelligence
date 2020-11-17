@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "How AI is helping lung cancer patients in Covid-19 era"
-    excerpt: "Lung cancer patients undergoing immunotherapy treatment may experience side effects which can present in a similar way to those of Covid-19 and other lung conditions. But now the Royal Marsden hospital in London is trialling the use of artificial intelligence (AI) to help identify what is causing the symptoms."
-    publishedDateTime: 2020-11-16T06:56:00Z
-    webUrl: "https://www.bbc.com/news/av/technology-54815149"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 67
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08y2wck.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Machine learning models predict critical events, mortality rate in COVID-19 patients"
     excerpt: "Mount Sinai researchers have developed machine learning models that predict the likelihood of critical events and mortality in COVID-19 patients within clinically relevant time windows."
     publishedDateTime: 2020-11-14T10:29:00Z
@@ -53,57 +39,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "How artificial intelligence is reshaping health care"
-    excerpt: "After years of hype about the impact artificial intelligence (AI) could have on health care, many experts believe that we are now on a cusp of a revolution in which AI will reshape various aspects"
-    publishedDateTime: 2020-11-13T16:03:00Z
-    webUrl: "https://www.hsph.harvard.edu/news/hsph-in-the-news/how-artificial-intelligence-is-reshaping-health-care/"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 39
-    images:
-      - url: "https://cdn1.sph.harvard.edu/social-share.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Red Hat attacks COVID-19 on 2 fronts: Partnering with WHO, artificial intelligence firm"
-    excerpt: "Red Hat is not known necessarily as a life science firm, but the open source technology giant is going after COVID-19 as part of two new efforts to combat the global scourge. Here's the latest."
-    publishedDateTime: 2020-11-16T16:30:00Z
-    webUrl: "https://www.wraltechwire.com/2020/11/16/red-hat-attacks-covid-19-on-2-fronts-partnering-with-who-artificial-intelligence-firm/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 31
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2020/04/Coronavirus_World-1024x576.png"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Students searching for internships during the COVID pandemic must be prepared for AI-driven interviews"
-    excerpt: "We believe that every college and university student and recent graduate deserves a great part-time, seasonal, internship, and entry-level job!"
-    publishedDateTime: 2020-11-12T21:50:00Z
-    webUrl: "https://www.collegerecruiter.com/blog/2020/11/12/students-searching-for-internships-during-the-covid-pandemic-must-be-prepared-for-ai-driven-interviews/"
-    type: article
-    provider:
-      name: College Recruiter
-      domain: collegerecruiter.com
-    quality: 21
-    images:
-      - url: "https://www.collegerecruiter.com/images/cr_logos/cr_logo.png"
-        width: 593
-        height: 240
-        isCached: true
-  - title: "The Future of Artificial Intelligence in a Post-COVID-19 World"
-    excerpt: "She studied Computer Science and Economics at Brandies University. Over the past several years, artificial intelligence (AI) has frequently been cited as an emerging technology that improves efficiency across a multitude of industries. Crucially ..."
-    publishedDateTime: 2020-11-16T14:06:00Z
-    webUrl: "https://insidebigdata.com/2020/11/16/the-future-of-artificial-intelligence-in-a-post-covid-19-world/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 17
 
 secured: "nDa67tfWcy2G6aZCWzB5BHn0kN+v5Zck/hMvMTtC055OaSD8hi5EJCeYTcBcrQcQYLOTrxOaI0SKWMym6C9EyTcN/zkwQ7d1LNnOkYL7Bcaevw+6YWRlY6m2NzNPdgTro+Ok/Zhm8QD06TRgR4GTUOMleWZWn9FYLt4sESyE3lRAtc3leuG9mZpgWt/wGSASOBuU/5c4MY0Q5dyhhATaDKDAAYQhwRDorfCqUpZjpSbL/ADTlsKOC3mmJasNBbw4TOzCKMMwdCj/R1tSydT+bRC3zjBZHFE4FmW77EcCT97RnL7EVizaziagnNgPEsBXNzVZYbbp9yKkofXn+B0OGMG6z/j3IWCOdL2ngxYm4hg=;7vbIQuEi76mFtYSIVAmrGQ=="
 ---

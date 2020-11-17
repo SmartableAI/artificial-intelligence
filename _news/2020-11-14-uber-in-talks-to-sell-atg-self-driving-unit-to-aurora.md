@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/11/13/uber-in-talks-to-sell-atg-self-dri
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/13/uber-in-talks-to-sell-atg-self-driving-unit-to-aurora/amp/"
 type: article
 quality: 74
-heat: 254
+heat: 264
 published: true
 
 provider:
@@ -289,6 +289,15 @@ related:
     provider:
       name: Seeking Alpha
       domain: seekingalpha.com
+    quality: 4
+  - title: "Report: Uber looking to sell beleaguered self-driving business"
+    excerpt: "Ride-hailing giant Uber may be looking to wash its hands of its troubled self-driving business as it is in talks to sell the business to Aurora Innovation, an autonomous driving startup. According to a report from TechCrunch,"
+    publishedDateTime: 2020-11-17T13:15:00Z
+    webUrl: "https://electronics360.globalspec.com/article/15971/report-uber-looking-to-sell-beleaguered-self-driving-business"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
     quality: 4
 
 secured: "DFz0X44IMTQ4EVK5b1KFSqUKu0GR1Q67oLazRVZaaEnNGO6fegcibDIRDRHAQ6KeUuyre09GiYPeAxLS8f0fr/5g1kpJb37EWQ2utICK46aeKnMe6re8FBL4/HuMTSH5cDPfhFl7NwTwbYlmyhMs//xquiPlAZPhcDU2dAnMhPQGaUsPsYx2/grwF2VW8rR5FJqUXqf5xAHRkUJwkqaUvBgGz8myoCdjnxnwyxY0uWjbq4L7OzvDCLc9sFP4oI3LCW3eO7XtLew7IfbbFiYXmV397SVRX4nFgtwPvzKG4i4iQuKbyae2P17362BnDr/rnYGauZMmJ1wrngzLmRYgPmJHWYC3JicTcIcIrJJyJALWurg87nZ5bdED55/Qu8ucjU7teqTJqfS52ym76fwAW/6ODaa+WNY5w6NyTsFd8RVdYQJ51QaoivRwd/rHusjviaclcb8vLe0JYM3dt21flYbgke4fA0rV5rVqoAfYr/GSbNUuQ6g84/qGk62z05KU6CBjdre0nnwGk+sfykZV+Q==;TU8x7SRyOnxR3bjbua7r1Q=="

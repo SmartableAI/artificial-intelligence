@@ -38,6 +38,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 33
+  - title: "Corsight AI Launches Real-Time Facial Recognition Technology that Accurately Identifies Individuals at an Unmatched Speed Under Any Condition"
+    excerpt: "Corsight AI, a leading facial recognition technology provider, announced today the launch of its facial recognition technology. The"
+    publishedDateTime: 2020-11-17T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/corsight-ai-launches-real-time-facial-recognition-technology-that-accurately-identifies-individuals-at-an-unmatched-speed-under-any-condition-301174218.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
+    images:
+      - url: "https://mma.prnewswire.com/media/1335631/Corsight_AI_Logo.jpg?p=facebook"
+        width: 1569
+        height: 824
+        isCached: true
 
 secured: "GfPYHUvcBkQfGQ1f/4zbgh0V0wecraqY3eiRM9hZC6qS1VzpR7ws948o3Dh9tzXvqaCBBYNVAjo8PtFeCO9xvV5V9Y6gepmq3h8T9AHNo7lRvh1xX2f/9MQ1/DqUQ/M33l+NCrEpH9TP+ADb6QdZ6topV4h14hK1aXJ7UE1K7FAzwFjSrOPkXtBKxi5cZWVjyY74Es5Q2b/ubgYngS3/NKcuhC9OT52XOA3mwM32zy9H3aWqk4rnGb/repkuFaj4W5N45CqJrbiM/ec8TPFcDmnH94qu1HL0Z8ltGDARnD2x7ozcQm4i0QUFlnOq50LDiaNJkR78b1FnllG7pGlPkPnwcBFcOKyc+E/Gu8Uvjcc=;cjFwPPDGAelMJ3feA771RQ=="
 ---

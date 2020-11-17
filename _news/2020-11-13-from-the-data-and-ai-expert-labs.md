@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2020/11/from-the-data-and-ai-expe
 webUrl: "https://www.ibm.com/blogs/watson/2020/11/from-the-data-and-ai-expert-labs-2/"
 type: article
 quality: 119
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/03/magician_robot-796x417.jpg"
         width: 796
         height: 417
+        isCached: true
+  - title: "Making Sense of the AI Landscape"
+    excerpt: "But the term “AI” in fact covers a huge spectrum of different things. How can leaders start to make sense of this vast array of new systems? The authors analyzed over 800 different AI tools ..."
+    publishedDateTime: 2020-11-17T13:17:00Z
+    webUrl: "https://hbr.org/2020/11/making-sense-of-the-ai-landscape"
+    ampWebUrl: "https://hbr.org/amp/2020/11/making-sense-of-the-ai-landscape"
+    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/making-sense-of-the-ai-landscape"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 61
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2020/11/Nov20_17_498430921.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "5 jobs that will be displaced by AI and automation in the near future"
     excerpt: "While artificial intelligence will displace 75 million jobs, it will create an additional 133 million jobs by 2022. What’s important here is that the new jobs will be mainly in the area of AI ..."

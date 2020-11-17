@@ -3,10 +3,10 @@ category: news
 title: "AMD launches MI100 GPU accelerator for high performance computing"
 excerpt: "AMD is looking to capitalize on its momentum with its EPYC server processor by pairing it with the Instinct MI100 GPU accelerator to gain in high performance computing."
 publishedDateTime: 2020-11-16T06:00:00Z
-originalUrl: "https://www.zdnet.com/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
-webUrl: "https://www.zdnet.com/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
+originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
+webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
 type: article
 quality: 89
 heat: -1
@@ -105,6 +105,20 @@ related:
         width: 1504
         height: 820
         isCached: true
+  - title: "AMD launches world's fastest GPU for scientific research"
+    excerpt: "AMD on Tuesday launched Instinct MI100 accelerator – touted as the worlds fastest HPC GPU and the first x86 server GPU for scientific research. Built on the new AMD CDNA architecture, the AMD chip ena"
+    publishedDateTime: 2020-11-17T13:25:00Z
+    webUrl: "https://www.dailypioneer.com/2020/technology/amd-launches-world-s-fastest-gpu-for-scientific-research.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 39
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/amd-launches-world-s-fastest-gpu-for-scientific-research-2020-11-17.jpg"
+        width: 1000
+        height: 800
+        isCached: true
   - title: "AMD's Instinct MI100 GPU targets HPC, surpassing 10 teraflops"
     excerpt: "AMD has announced the first x86 server GPU to surpass the 10 teraflops (FP64) performance barrier, the AMD Instinct MI100 accelerator. The 7nm chip, targeted at high performance computing customers, will launch by the end of the year."
     publishedDateTime: 2020-11-16T16:03:00Z
@@ -143,6 +157,6 @@ related:
         height: 228
         isCached: true
 
-secured: "iIHhg2nX7vZaem0fWTvPqKx7TnBFiZLYpqPZr+jFM+m0rgT8YWZgjsAmaKzszUZddC5P4F0WIwtHu1+oL1NBbzijtJMVl4f32EvPInwXs3xF3IbFyXOkjTJmOIWJ8Ibq35TE/tWZwu0q3SYtlF3e6zju5IHMPndCUG0/WG6U3b65Sq2dKfoG30UXe9cYwcnzHCEz9wGVCikIVm0IXyeCD15ppBKat2plK6hFRzhEj536aoWWdncKgY87+vXex1T0aXxbU/nLDhDfP4dfZPgXfE05Z8p9nUGSMwg5XwdsQmEPEM3SOrpcRb9ZxdD7SEH//sPl+qCQZqoQlN4hImzabTOAZp0EXGlR3d7lFVACC3eY+d3Ul/XX2FqLI5L5cp8seV92HaR+dkNrTbJVObOSERfeKC66j7WW1VP4sg+KXIgfYu9+BZ5AQBNFnGn7IOaICxThbZYrwR/a+yWNU7vQzNVD03dBA5oPMtSiQtUeaU+dPVT8n2WViTk2da+y1iDZGSJvnE6TR5KYKvPSkgimzQ==;uP/LnPPXInH7Nf5tBPPDsg=="
+secured: "FqspPgQuz64875M+K1MEVnCFwpsHokNa93Ay+N5Nsx+H4W3BLckKolchIeSmrQH3OvRCqp8b47xpKvQI8bwQKHEjmUbxQ3MjUPtSMSdi5ShZ+UPNgYlNv8V7EKTqdcrgpXDVGDox4nppWtP/lPVw8hGHYgmkF7AlfNo4F5xfkRHegB8e2s5OIEAW+PLe/G52cf6SV8GSenOZQuhYb1xcy+ChZ7uB+TtgRiDtvcmNdZK9EVqyojUD+DLrnDXYy8/j2zD19V36tJWWcIoXsk2yaMVdiJOU9lMKdigtRxD7l50l3/1nEf1nxeQrq+iyJvBa4YqwWNJhyo6TV1pWkv2OmJPu14AsyrDNWFNMP2fpzPs=;5qD5eDAB9iUuVgmvUEt5gg=="
 ---
 

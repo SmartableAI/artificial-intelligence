@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2020/11/17/autodesk-acquires-spacemaker-for-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/17/autodesk-acquires-spacemaker-for-240-million-to-boost-ai-development-for-designers/amp/"
 type: article
 quality: 81
-heat: 91
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Autodesk acquires AI-based design firm Spacemaker"
+    excerpt: "Autodesk said Tuesday that it has signed a deal to acquire Spacemaker for $240 million. Based in Oslo, Norway, Spacemaker uses artificial intelligence and generative design to help architects, urban designers,"
+    publishedDateTime: 2020-11-17T06:00:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/autodesk-acquires-ai-based-design-firm-spacemaker/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/autodesk-acquires-ai-based-design-firm-spacemaker/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/autodesk-acquires-ai-based-design-firm-spacemaker/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://zdnet2.cbsistatic.com/hub/i/2020/11/16/a0661235-44d1-4c94-82a2-f0bb03bbcd4f/tandem-screenshot.png"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Autodesk Acquires Spacemaker: Offers Architects AI-powered Generative Design to Explore Best Urban Design Options"
     excerpt: "Based in Oslo, Norway, Spacemaker uses cloud-based, artificial intelligence (AI), and generative design to help architects, urban designers, and real estate developers make more informed early-stage design decisions faster and enables improved opportunities for sustainability from the start."
     publishedDateTime: 2020-11-17T11:37:00Z

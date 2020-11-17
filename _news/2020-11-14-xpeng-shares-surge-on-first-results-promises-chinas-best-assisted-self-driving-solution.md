@@ -286,6 +286,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 4
+  - title: "Report: Uber looking to sell beleaguered self-driving business"
+    excerpt: "Ride-hailing giant Uber may be looking to wash its hands of its troubled self-driving business as it is in talks to sell the business to Aurora Innovation, an autonomous driving startup. According to a report from TechCrunch,"
+    publishedDateTime: 2020-11-17T13:15:00Z
+    webUrl: "https://electronics360.globalspec.com/article/15971/report-uber-looking-to-sell-beleaguered-self-driving-business"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "843GFpyolobNYBRynV8JzugI8uyMBveWbrmmLcsztAWBQxghl0Sle+yIEyGQIunFTjsO7y/kAp/XsXp5jYeoQKwzrsYmCOM5G610pvs+wmvfOQ0mrpx95nJNW+xe7L1Nree+NtUsbaKwLFLqTq2SLz4DI8aDymu+G9no8mLWMqZy7tRau+99LknQRJ++AzAzHNueVPmsHC4U5BHf/yO8ct3QE2klTZFw0I5APQj2nDt9OYoCFydnyLOCNxTfKwzjsLPodyPHVaMIWcEUDmbzi61GZgzOLwYxllsk/g+LgX2+mwU8SZjNj0W9BAPe78zGiAtt5eUtYYGEdGXWA+HqBSH3v2D+G5ZDjkzwm6Od/kM=;4gUAmnf+5lhDTgG/TYprpg=="
 ---

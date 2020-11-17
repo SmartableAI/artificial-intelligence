@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T1PP"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T1PP"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 54
+  - title: "Jaguar Land Rover to open a hub for testing self-driving cars"
+    excerpt: "Jaguar Land Rover (JLR) is taking its autonomous car development to another level, with the announcement of a new dedicated 'city' hub where it can carry out real-world testing of its self-driving ve"
+    publishedDateTime: 2020-11-17T14:04:00Z
+    webUrl: "https://www.caradvice.com.au/901837/jaguar-land-rover-to-open-a-hub-for-testing-self-driving-cars/"
+    type: article
+    provider:
+      name: CarAdvice
+      domain: caradvice.com.au
+    quality: 24
+    images:
+      - url: "https://media.caradvice.com.au/image/private/c_fill,q_auto,f_auto,w_960,h_500/gzffcupivjojk6kknrlv.jpg"
+        width: 960
+        height: 500
+        isCached: true
 
 secured: "CJSUfrya+xbid7QC/lypFraxqwzC79o6EkiNCIp476+i1fO8Gj/a9Ugx9JOMlPDZMq3W63zaaKYcThVIapSwx5f5W7TqCUGW0pA6j2NQTCM4YvcCCtVuv+Bhtzae2rbRbbOboemFmoTGc1CcSLnynA1MqB0lLM+Mrh7sQJILM5bbBBxYmJbAawHnkr7VZCJBcfaEdlnAmDpFClA3ANN8YD/keelrrmLNlnztZVQsuMlBLLYDu3n6liAT8L/5JnLXQsdBs6ySHfY+9KWAon7NC0VmNl12ctcF4AMgZPCV8y3dah/ARUaYlr2oMfNnGhJQz0b24rqLB3qaATbcupDGbbwUtzqFJZ2ryHVggUk8A4s=;WI/kdwF60hzW/cdo8UhaSQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2020/11/17/ai-dev-platform-startup-datarobot
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/17/ai-dev-platform-startup-datarobot-raises-270-million-at-a-2-7-billion-valuation/amp/"
 type: article
 quality: 82
-heat: 102
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -30,35 +30,55 @@ images:
     isCached: true
 
 related:
-  - title: "Israeli Startup Raises $15 Million to Boost AI Due Diligence Platform"
-    excerpt: "Israeli business intelligence startup Intelligo Group, which has developed an automated due diligence and personnel background platform based on AI (artificial intelligence), has announced a $15 million Series B financing round led by Behrens Investment Group and including several existing investors."
-    publishedDateTime: 2020-11-13T14:53:00Z
-    webUrl: "https://www.algemeiner.com/2020/11/13/israeli-startup-raises-15-million-to-boost-ai-due-diligence-platform/"
+  - title: "Hover raises $60 million to streamline home inspections with computer vision"
+    excerpt: "Hover, a startup developing AI-powered apps that create 3D models of homes from smartphone photos, today raised $60 million. The 200-employee company says the proceeds will be used to deepen ..."
+    publishedDateTime: 2020-11-17T14:00:00Z
+    webUrl: "https://venturebeat.com/2020/11/17/hover-raises-60-million-to-streamline-home-inspections-with-computer-vision/"
+    ampWebUrl: "https://venturebeat.com/2020/11/17/hover-raises-60-million-to-streamline-home-inspections-with-computer-vision/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/17/hover-raises-60-million-to-streamline-home-inspections-with-computer-vision/amp/"
     type: article
     provider:
-      name: Algemeiner
-      domain: algemeiner.com
-    quality: 37
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 101
     images:
-      - url: "https://www.algemeiner.com/wp-content/uploads/2019/12/flag-186476_1280.jpg"
-        width: 720
-        height: 360
+      - url: "https://venturebeat.com/wp-content/uploads/2020/10/2c7ec2b7-e7a5-49c4-b46e-f5cfb66f61f7-e1603297784170.png?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "OriGen AI raises £1 million in seed funding"
-    excerpt: "Software technology company OriGen AI has raised $1 million in seed financing. Its AI platform is \"transforming oil and gas exploration and production\" through physics-informed deep learning developed around algorithms and data analysis techniques."
-    publishedDateTime: 2020-11-13T12:39:00Z
-    webUrl: "https://www.energydigital.com/technology-and-ai/origen-ai-raises-pound1-million-seed-funding"
+  - title: "AliveCor raises $65 million to detect heart problems with AI"
+    excerpt: "AliveCor, a startup developing ECG products that detect heart issues, has raised $65 million in venture capital."
+    publishedDateTime: 2020-11-17T00:34:00Z
+    webUrl: "https://venturebeat.com/2020/11/16/alivecor-raises-65-million-to-detect-heart-problems-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/11/16/alivecor-raises-65-million-to-detect-heart-problems-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/16/alivecor-raises-65-million-to-detect-heart-problems-with-ai/amp/"
     type: article
     provider:
-      name: energydigital.com
-      domain: energydigital.com
-    quality: 37
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://bizclik-cms-prod.s3.eu-west-2.amazonaws.com/images/404no22rkhg83vnq131120201418.jpeg"
-        width: 833
-        height: 323
+      - url: "https://venturebeat.com/wp-content/uploads/2017/03/alivecor-fingers-kardia-iphone-e1605569871551.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Ride Vision raises $7 million for AI that alerts motorcycle riders to collision threats"
+    excerpt: "Ride Vision, a startup developing a product that alerts motorcycle riders to collision threats, raised $7 million in funding."
+    publishedDateTime: 2020-11-16T13:02:00Z
+    webUrl: "https://venturebeat.com/2020/11/16/ride-vision-raises-7-million-for-ai-that-alerts-motorcycle-riders-to-collision-threats/"
+    ampWebUrl: "https://venturebeat.com/2020/11/16/ride-vision-raises-7-million-for-ai-that-alerts-motorcycle-riders-to-collision-threats/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/16/ride-vision-raises-7-million-for-ai-that-alerts-motorcycle-riders-to-collision-threats/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/Camera-Front-e1604615189107.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
 
-secured: "MHB3+ccEGBElVDZPqzLY5gfyTLzd8pKtDZDnpJyxSZEgqRY6tdN56kOcf+jMBPcNyNSCpbDSImkTnt2xb1O2fjxrLdak1Q15NhXzWOmHgv2G/eJQLe6KD2jmkQzF+pkfW061F/mdkfzrGMgKxVRRTs1Z5QgFPevfun6U+NsXyQAZJa6Hvh/8TG8WMbs4XWwyw7VlAmZ+TrrL5HsR7wjRSld0vw07gSMZSCxUyspbF+lyZ/VAY1vfnpvGcDi4r8KNM8T+Zsj8Kr2hsq/UH3h7uSrhFTp9jsk9DEUemIL7z3V0mVm2bhuPNpjLAYMT6rdHHeEkUF5SD27/NzTgP24YVrOT03bi/aZfgvCK8AmkN74=;y/wHbT+VPRyn5HyNJ5Q+Zg=="
+secured: "7NHwXjIRTlgk6KeMQI7DQhbpclfUJvIAb1zRGgjyjjTRasrg3RAzMjEGMak+bwz2y8NxuSZ8ZINfFdjKDBqaVQZS0WPDnMSJvMiQviOmAhhwJD4r/uOqnb92/uNdcwXq1DxcAoV4kxvIpCex7qOHBWGOX6D1DWvmPNckyyZXBYCcHXHXy5kH8wc8rVHHEkIVmQp2cG6zW9m11ePwpLodQFuHx+3E0fjznixsADwWb01p64NgpVRL0cguzs1OShoyaCXb1E2Iyqi0QGHeAilMaRseGY171LXsI9lKxdPH9C2Fd0cRwRsV8VvuPp8ClyZcYZERaBkQLFPR7bcpFoq5dsIYIY3CRAkgQOKJuO4b8QjcIepldZMNt8QlC08fpyb8ACkCOne2fuZJHMv2NxVvp1RIzjPQtPj7QVKODO3Nc1cm9L12JwW+R2bqqvhG1Uq+nmcnJdx2qVXTDknOPiiL9QHNsG4caDFAmNl1ONd6jw3v0AyMevpmZjBnYXcm3LyPwCQy4MIT//ROT4gARcw7Dg==;wJJh+p1I69ayb9hkKm+UFQ=="
 ---
 

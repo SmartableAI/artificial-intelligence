@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/13/amazon-shifts-some-alexa-and-reko
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/13/amazon-shifts-some-alexa-and-rekognition-computing-to-its-own-inferentia-chip/amp/"
 type: article
 quality: 105
-heat: 175
+heat: 155
 published: true
 
 provider:
@@ -33,38 +33,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon's Inferentia AI Chip Is Ready For Prime Time, Now Powers the Alexa Service"
-    excerpt: "Five years later, the $350 million buyout of chip designer Annapurna Labs will start generating revenues for the parent company."
-    publishedDateTime: 2020-11-12T22:11:00Z
-    webUrl: "https://www.fool.com/investing/2020/11/12/amazons-inferentia-ai-chip-is-ready-for-prime-time/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/11/12/amazons-inferentia-ai-chip-is-ready-for-prime-time/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/12/amazons-inferentia-ai-chip-is-ready-for-prime-time/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 101
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F600658%2Ftechnician-looking-at-a-chip.jpg&w=1200&op=resize"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Amazon shifts some voice assistant, face recognition computing to its own chips"
-    excerpt: "Amazon.com Inc <AMZN.O> on Thursday said it shifted part of the computing for its Alexa voice assistant to its own custom-designed chips, aiming to make the work faster and cheaper while moving it away from chips supplied by Nvidia Corp <NVDA."
-    publishedDateTime: 2020-11-12T22:40:00Z
-    webUrl: "https://www.reuters.com/article/amazon-com-nvidia-int-idUSKBN27S2RI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S2RI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S2RI"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1541008813&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB1P6"
-        width: 818
-        height: 545
-        isCached: true
   - title: "Amazon shifts some Alexa and Rekognition computing to its own Inferentia chip – Jaweb"
     excerpt: "Amazon.com on Thursday said it shifted part of the computing for its Alexa voice assistant to its own custom-designed chips, aiming to make the work faster and cheaper while moving it away from chips supplied by Nvidia."
     publishedDateTime: 2020-11-13T08:59:00Z

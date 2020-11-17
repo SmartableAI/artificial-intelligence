@@ -1,0 +1,36 @@
+---
+category: news
+title: "NXP collaborates with AWS on connected vehicle services"
+excerpt: "NXP Semiconductors announced a partnership with Amazon Web Services (AWS) focused on extending the opportunities of connected vehicles. The collaboration aims to deliver an edge-to-cloud compute platform for next-generation vehicles that can enable new cloud-powered services."
+publishedDateTime: 2020-11-17T14:47:00Z
+originalUrl: "https://www.telecompaper.com/news/nxp-collaborates-with-aws-on-connected-vehicle-services--1362201"
+webUrl: "https://www.telecompaper.com/news/nxp-collaborates-with-aws-on-connected-vehicle-services--1362201"
+type: article
+quality: 19
+heat: -1
+published: false
+
+provider:
+  name: Telecompaper
+  domain: telecompaper.com
+
+topics:
+  - AWS AI
+  - AI
+
+related:
+  - title: "NXP Collaborates with Amazon Web Services (AWS) to Extend Connected Vehicle Opportunities"
+    excerpt: "Vehicle edge-to-cloud compute solution aims to enable new automotive industry revenue opportunities Sets foundation for data-driven services and"
+    publishedDateTime: 2020-11-17T07:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nxp-collaborates-with-amazon-web-services-aws-to-extend-connected-vehicle-opportunities-1029809200"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/NXP-Collaborates-with-Amazon-Web-Services-AWS-to-Extend-Connected-Vehicle-Opportunities-1029809200"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/NXP-Collaborates-with-Amazon-Web-Services-AWS-to-Extend-Connected-Vehicle-Opportunities-1029809200"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 75
+
+secured: "Gv5/OzW4jy8iSfOoaghx6UGXhQjLAg9ich1EJZX5xNz0FNdQiX7aynEzPpyTYArToqpmUqw8T+tpvk8cAT/NN5yVRG8fztOjLwulw6j04Sl7F32I+ncKoioJZ0isCITSLqNs3q63I1U8PrYTM23jSf3A+2ilNS7NJr+AJLSaadKfDHo2gZtjOYkBdIkjGqmwAaKTsgSWkumm+GApCpp0SIxD9WNpyptjYhed3V2HlSstPpNkaHY5NhVRuM4svkEC0efz3XL2EUal2YUpg67il43cNSMiKgzNQwmSMN8PrfQwUrTfWPptbLsvq7iFMkuo2SA6Wc9e6IIySvTHuSQXqbeeg9x7ECoJydz2cUX10xo=;4ftp3Ipox3OSyDmKt0cRfw=="
+---
+

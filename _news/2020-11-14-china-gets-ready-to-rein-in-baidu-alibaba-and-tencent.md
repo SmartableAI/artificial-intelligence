@@ -1,10 +1,10 @@
 ---
 category: news
 title: "China Gets Ready to Rein in Baidu, Alibaba, and Tencent"
-excerpt: "The SAMR could then finalize the rules to rein in leading internet companies like Baidu (NASDAQ: BIDU), Alibaba (NYSE: BABA), and Tencent (OTC: TCEHY). Let's see why China is trying to tighten its grip on its top internet companies,"
-publishedDateTime: 2020-11-14T13:00:00Z
-originalUrl: "https://www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14"
-webUrl: "https://www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14"
+excerpt: "Baidu controls 76% of China's online search market, according to StatCounter, and it's the top player in artificial intelligence and driverless cars. Alibaba controls 56% of China's e-commerce ..."
+publishedDateTime: 2020-11-14T13:37:00Z
+originalUrl: "https://www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14?time=1605359341"
+webUrl: "https://www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14?time=1605359341"
 ampWebUrl: "https://www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14?amp"
 type: article
@@ -38,6 +38,6 @@ related:
         height: 825
         isCached: true
 
-secured: "VAAw/YU1kUDjqojswRW9pICJK3x8yurU26jQyChVsuYoVjFnbX+boDEdTisN+GoJr8Xpj3Kl3+I1ymLg+yZvnTvYl5fi/VMnNy/9osVD2PEGGoFcLqge+HI0t+8mDfOuSUl7KuWBM52dHs5kMY8K75w65HGDKzkE2QGzR6zzGg6hwUSNxRBNwKEvIi4PvYnx16ZMfUToJJmeNBIjHJmPKqUMao5Fd9woVbF4dMFLGd58IKpANdeYOlw/uxS8nHXzKGEmsyj8xiVpomTwelXjdMFHH8ERnqUuG1WIBj5qI5gEYyZXp6QgQwcyC26KHdKcBz7i4euLeO/LVn6VLRE/xrp4upQ3kqczCXpRXx0+EaA=;DpKaGV8hbMHnbn2E4y7ppw=="
+secured: "hRPhE3uCUPp/C+N7upu+L5kgeA4lrRHL4P37KPwv5zu4soZsYu9LtXNkh8MRirKn1NZgYM02x7lTQ0qR1wXz/7HW95teWq2+nOICepKZq16i8TgfD0RFXeGgHWsfjIEi4Wv9VirVt4ZJ3rJEUEe/RoMws1zLafyqwioCP1PT4J6d/0NPiW5lHURNEiP8g/yoIXRg24UhoA4+WxCdVRraYMENAMBRlUiIzBr2N2VTscgUqhHHBWcXnPWXjgk/wKSS17igSEZ03IawFokffgOYNpRXxT+jTseu8PQEphUDgsesQ5RdsvopzfomoPR0Dsq1DESsT4ddFjHaWe+xxWoQ670Xy1Oj/Al/LdaXIsMXv5A=;wF7HvynAq0EdEMZBfzj+Zw=="
 ---
 

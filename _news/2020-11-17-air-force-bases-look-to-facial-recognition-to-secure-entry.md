@@ -41,17 +41,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Apple Can't Duck Facial Recognition Privacy Class Action"
-    excerpt: "An Illinois federal judge on Thursday refused to let Apple Inc. escape a class action alleging that it violates state law through its facial recognition software, finding that the proposed class' allegations that the company illegally collects and stores face scans can proceed."
-    publishedDateTime: 2020-11-12T22:19:00Z
-    webUrl: "https://www.law360.com/articles/1328278/apple-can-t-duck-facial-recognition-privacy-class-action"
-    ampWebUrl: "https://www.law360.com/amp/articles/1328278"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1328278"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 39
   - title: "Facial Recognition and the Convenience of Injustice"
     excerpt: "In the quest for convenience, one of the tasks people have assigned to AI is facial recognition. Apparently, it has now become very good at using the image of a face to identify individuals. It may even perform better than Lady Gaga in the knotty problem of distinguishing Isla Fisher from Amy Adams."
     publishedDateTime: 2020-11-13T18:17:00Z

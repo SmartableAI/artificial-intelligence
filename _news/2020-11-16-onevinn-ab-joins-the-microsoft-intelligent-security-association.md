@@ -69,6 +69,20 @@ related:
         width: 800
         height: 800
         isCached: true
+  - title: "Stradigi AI Launches the Kepler™ AI Platform Powered by Microsoft Azure"
+    excerpt: "Stradigi AI, a North American Artificial Intelligence software company, is pleased to announce that its cloud-based Kepler Platform is"
+    publishedDateTime: 2020-11-17T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-301173014.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 69
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "2021 – The year to save costs and accelerate your business with Microsoft Azure"
     excerpt: "South African businesses – but 2021 is a blank slate, and many companies are seeing this as an opportunity to leverage the lessons learned and strive for growth. This is particularly true for businesses which are now embracing cloud technologies."
     publishedDateTime: 2020-11-17T05:19:00Z
@@ -107,20 +121,6 @@ related:
       - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/11/2020_11$largeimg_705948515.JPG"
         width: 600
         height: 368
-        isCached: true
-  - title: "Microsoft Custom Translator pushes the translation quality bar closer to human parity"
-    excerpt: "The Custom Translator journey to be on the leading edge of machine translation technology continues. In early August 2020, we started our Custom Translator upgrade from Long Short-Term Memory (aka LSTM) based neural machine translation architecture (or V1) to our Microsoft Translator’s state-of-the-art Transformer based architecture (or V2)."
-    publishedDateTime: 2020-11-12T21:57:00Z
-    webUrl: "https://www.microsoft.com/en-us/translator/blog/2020/11/12/microsoft-custom-translator-pushes-the-translation-quality-bar-closer-to-human-parity/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 32
-    images:
-      - url: "https://www.microsoft.com/en-us/translator/blog/wp-content/uploads/sites/13/2020/11/BlogHero.jpg"
-        width: 1411
-        height: 665
         isCached: true
 
 secured: "NGu0l2jSAiADk50s126oB69MVd0UiP4nVsnt335KALbsm0W/GW0erCKf2BBiF9eCuR06ZOsnAa3IUxVknqTd9dEHJCcdFJISBA2fWazlMHDKckhM16YHvSKxU3DpzieP2zVRtyC+ddRvzMp+nE23k6zkErxsvuJsq9cQZrjz154S/bGiicZQdgWp05RgNQV8vEQatpuzQnSg/tjvtGK+ZDZefMHzqQCj1/4tv1c92NCTniCj0rS2hDBVozp2ej8uZufnrHj5Pp/T+km9Kn5U5cLPl0fMp8cLHFUP+x1B3qY9EPHAXYYrAsr7eEZYq03M2hfKE8bg5/ELVjYE4A9RXVKUNCpHdbk00+ghGhLUtHg=;maVKrP/+1PMiJ8/DhRdOXw=="
