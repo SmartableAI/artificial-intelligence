@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/nvidia-built-an-epic-ai-supercomputer-from
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidia-built-an-epic-ai-supercomputer-from-four-new-a100-80gb-gpus-16647405/amp/"
 type: article
 quality: 104
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -138,6 +138,20 @@ related:
   - title: "Nvidia Announces A100 80GB GPU"
     excerpt: "Nvidia today unveiled the A100 80GB GPU for the Nvidia HGXTM AI supercomputing platform with twice the memory of its predecessor. The new chip with HBM2e doubles the A100 40GB GPU’s high-bandwidth memory to 80GB and delivers more than 2TB/sec of memory bandwidth,"
     publishedDateTime: 2020-11-16T14:02:00Z
+    webUrl: "https://insidehpc.com/2020/11/nvidia-announces-a100-80gb-gpu/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/10/Nvidia-logo-1020.jpg"
+        width: 500
+        height: 281
+        isCached: true
+  - title: "At SC20: Nvidia Announces A100 80GB GPU"
+    excerpt: "Nvidia today unveiled the A100 80GB GPU for the Nvidia HGXTM AI supercomputing platform with twice the memory of its predecessor. The new chip with HBM2e doubles the A100 40GB GPU’s high-bandwidth memory to 80GB and delivers more than 2TB/sec of memory bandwidth,"
+    publishedDateTime: 2020-11-17T05:23:00Z
     webUrl: "https://insidehpc.com/2020/11/nvidia-announces-a100-80gb-gpu/"
     type: article
     provider:

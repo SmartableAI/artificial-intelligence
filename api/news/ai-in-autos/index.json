@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-17-tantech-subsidiary-launches-innovative-driverless-and-autonomous-street-sweepers.md",
+      "title": "Tantech Subsidiary Launches Innovative Driverless and Autonomous Street Sweepers",
+      "excerpt": "PRNewswire/ -- Tantech Holdings Ltd (NASDAQ: TANH) ('Tantech' or the 'Company'), a clean energy company in China,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/tantech-subsidiary-launches-innovative-driverless-and-autonomous-street-sweepers-1029805941",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/tantech-subsidiary-launches-innovative-driverless-and-autonomous-street-sweepers-1029805941",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/tantech-subsidiary-launches-innovative-driverless-and-autonomous-street-sweepers-1029805941",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tantech-subsidiary-launches-innovative-driverless-and-autonomous-street-sweepers-1029805941",
+      "publishedDateTime": "2020-11-16T21:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-baidu-to-buy-chinese-livestreaming-giant-in-big-social-foray.md",
       "title": "Baidu to Buy Chinese Livestreaming Giant in Big Social Foray",
       "excerpt": "Baidu Inc. agreed to buy Joyy Inc.’s livestreaming business ... intelligence technology and betting on commercializing AI through smart speakers and self-driving cars. In September, its smart speaker unit received its first independent financing round ...",
@@ -62,7 +105,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/15/zipper-merging-is-a-frenzied-traffic-squeeze-play-on-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1487,58 +1530,6 @@
         "AI in Robotics",
         "AI in Autos",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-googles-waymo-is-pulling-its-self-driving-cars-out-of-san-francisco-in-case-violence-erupts-around-the-election.md",
-      "title": "Google's Waymo is pulling its self-driving cars out of San Francisco in case violence erupts around the election",
-      "excerpt": "The company will also stop testing on San Francisco's streets for the next two days as the 2020 presidential election unfolds.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-waymo-securing-autonomous-cars-san-francisco-election-chaos-2020-11",
-      "originalUrl": "https://www.businessinsider.com/google-waymo-securing-autonomous-cars-san-francisco-election-chaos-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa17cdb69331a0011bc6f36?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/google-waymo-securing-autonomous-cars-san-francisco-election-chaos-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-waymo-securing-autonomous-cars-san-francisco-election-chaos-2020-11?amp",
-      "publishedDateTime": "2020-11-03T09:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

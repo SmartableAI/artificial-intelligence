@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-22-tesla-full-self-driving-vehicles-cant-drive-themselves.md",
+      "title": "Tesla ‘full self-driving’ vehicles can’t drive themselves",
+      "excerpt": "DETROIT >> Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.staradvertiser.com/2020/10/22/news/tesla-full-self-driving-vehicles-cant-drive-themselves/",
+      "originalUrl": "https://www.staradvertiser.com/2020/10/22/news/tesla-full-self-driving-vehicles-cant-drive-themselves/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.staradvertiser.com/wp-content/uploads/2020/10/web1_10562289-135a11bded104a2cbee932740c5733a6.jpg",
+          "width": 760,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.staradvertiser.com/2020/10/22/news/tesla-full-self-driving-vehicles-cant-drive-themselves/amp/",
+      "cdnAmpWebUrl": "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2020/10/22/news/tesla-full-self-driving-vehicles-cant-drive-themselves/amp/",
+      "publishedDateTime": "2020-10-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Honolulu Star-Advertiser",
+        "domain": "staradvertiser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-tesla-is-increasing-price-of-full-self-driving-package-to-a-whopping-10000.md",
       "title": "Tesla is increasing price of Full Self-Driving package to a whopping $10,000",
       "excerpt": "Tesla indicates that it is about to increase the price of its Full Self-Driving package to a whopping $10,000 and yet, that’s a good deal according to Elon Musk. The decision to pre-sell a ...",
@@ -1382,41 +1425,6 @@
         "AI",
         "AWS AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-new-deep-learning-models-fewer-neurons-more-intelligence.md",
-      "title": "New deep learning models: Fewer neurons, more intelligence",
-      "excerpt": "Artificial intelligence has arrived in our everyday lives--from search engines to self-driving cars. This has to do with the enormous computing power that has become available in recent years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-10/iosa-ndl101320.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-10/iosa-ndl101320.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-13T09:24:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

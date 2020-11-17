@@ -45,6 +45,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-17-ride-vision-raises-7m-for-its-ai-based-motorcycle-safety-system.md",
+      "title": "Ride Vision raises $7M for its AI-based motorcycle safety system",
+      "excerpt": "Using computer vision, Ride Vision’s system, the Ride Vision 1, analyzes the traffic around a rider in real time. It provides forward collision alerts and monitors your blind spot, but it can al ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/16/ride-vision-raises-7m-for-its-ai-based-motorcycle-safety-system/",
+      "originalUrl": "https://techcrunch.com/2020/11/16/ride-vision-raises-7m-for-its-ai-based-motorcycle-safety-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/Screenshot-2020-11-16-131619.png",
+          "width": 767,
+          "height": 751,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/16/ride-vision-raises-7m-for-its-ai-based-motorcycle-safety-system/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/16/ride-vision-raises-7m-for-its-ai-based-motorcycle-safety-system/amp/",
+      "publishedDateTime": "2020-11-16T14:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-16-computer-vision-startup-choochai-scores-20m-series-a.md",
       "title": "Computer vision startup Chooch.ai scores $20M Series A",
       "excerpt": "Chooch.ai, a startup that hopes to bring computer vision more broadly to companies to help them identify and tag elements at high speed, announced a $20 million Series A today. Vickers Venture Partners led the round with participation from 212,",
@@ -53,7 +105,7 @@
       "originalUrl": "https://techcrunch.com/2020/11/16/computer-vision-startup-chooch-ai-scores-20m-series-a/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -1369,49 +1421,6 @@
       "provider": {
         "name": "ABC7",
         "domain": "abc7.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-facial-recognition-market-will-exhibit-a-cagr-worth-12-during-2020-2024-technavio.md",
-      "title": "Facial Recognition Market will exhibit a CAGR worth 12% during 2020-2024 | Technavio",
-      "excerpt": "Technavio has been monitoring the facial recognition market, operating under the information technology industry. The latest report on the facial recognition market, 2020-2024 estimates it to register an incremental growth of USD 3.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201029006337/en/Facial-Recognition-Market-will-exhibit-a-CAGR-worth-12-during-2020-2024-Technavio",
-      "originalUrl": "https://www.businesswire.com/news/home/20201029006337/en/Facial-Recognition-Market-will-exhibit-a-CAGR-worth-12-during-2020-2024-Technavio",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201029006337/en/834930/23/IRTNTR44231.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-29T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null

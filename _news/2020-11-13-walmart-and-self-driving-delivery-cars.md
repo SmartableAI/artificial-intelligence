@@ -41,19 +41,19 @@ related:
         width: 1024
         height: 638
         isCached: true
-  - title: "JLR developing ‘smart city hub’ to test self-driving cars"
-    excerpt: "Jaguar Land Rover is creating a ‘smart city hub’ which will allow real-world testing of self-driving vehicles. The Future Mobility Campus Ireland (FMCI), located across 7.45 miles of the Limerick-Shannon metropolitan area at Shannon Free Zone,"
-    publishedDateTime: 2020-11-16T10:49:00Z
-    webUrl: "https://www.shropshirestar.com/news/motors/2020/11/16/jlr-developing-smart-city-hub-to-test-self-driving-cars/"
+  - title: "JLR to develop a smart city hub to test self-driving cars"
+    excerpt: "Self-driving vehicles will share the streets with cars, pedestrians and cyclists"
+    publishedDateTime: 2020-11-17T04:53:00Z
+    webUrl: "https://www.newsoneplace.com/37514651911/jlr-self-driving-develop"
     type: article
     provider:
-      name: Shropshire Star
-      domain: shropshirestar.com
+      name: newsoneplace.com
+      domain: newsoneplace.com
     quality: 24
     images:
-      - url: "https://www.shropshirestar.com/resizer/HoxCe8w1PrqB213uy5sGF9Hg6p0=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/IOCROIMDA5A4ZBF3NJVQYVT744.jpg"
-        width: 1200
-        height: 900
+      - url: "https://i2-prod.coventrytelegraph.net//article19288858.ece/ALTERNATES/s615/1_JLR-Autonomous.jpg"
+        width: 615
+        height: 409
         isCached: true
 
 secured: "+uUYg06erY011FJxFjhk3C5yAyolZjdpdHxAJ0NtH/8MK4Fke8enHGSXFdNu0OK7Dn0lSC0wu4eijGAvNg6UzaKrlbQH1xkTzv6OI8gJ09vu2ztRjoc9TwAi2OWGqRWn2g0hUnFU+WguGWdEc2lSKPAYrT6pjap3XyqZI+gTakot8rxUXdxob1bhIKRb48xOt4cG3LIFXRbnh3MJiHOK4nMZ3ShAB75STREx6BTrr7Mi65ZYvdhU6SG8kCuMAvE+3XPy/2y1btwBG51aoYE+ReyU8SjFrg4WVVolITFyyf6AaabGKZZHW7A57gBQ6VBSFXedXxM3TMvEeV/9WS1i/eODmDYW+F39pH/UB3TIVzuTUy9bD62mjNMXsFjlk1jN22Tj3T9s5G2NoDp1lvQeCaJ2DPa3zWHzbZOKdSm62Z63K1ialbZKm80X4XLNu7QxUP5m6qij53mZFMdYoKeKRu5hhei6IKOGkoqksy5YJSpUZVCSl2FfeWiHCHvxHkh0x4Vdni1vANz7r2xNoBQ8dw==;/B9n2k+rAiUAZ8vE7+hixw=="

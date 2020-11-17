@@ -50,6 +50,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 41
+  - title: "How artificial intelligence is reshaping health care"
+    excerpt: "After years of hype about the impact artificial intelligence (AI) could have on health care, many experts believe that we are now on a cusp of a revolution in which AI will reshape various aspects"
+    publishedDateTime: 2020-11-13T16:03:00Z
+    webUrl: "https://www.hsph.harvard.edu/news/hsph-in-the-news/how-artificial-intelligence-is-reshaping-health-care/"
+    type: article
+    provider:
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 39
+    images:
+      - url: "https://cdn1.sph.harvard.edu/social-share.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Red Hat attacks COVID-19 on 2 fronts: Partnering with WHO, artificial intelligence firm"
     excerpt: "Red Hat is not known necessarily as a life science firm, but the open source technology giant is going after COVID-19 as part of two new efforts to combat the global scourge. Here's the latest."
     publishedDateTime: 2020-11-16T16:30:00Z

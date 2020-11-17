@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsofts-new-azure
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsofts-new-azure-data-services-explained/"
 type: article
 quality: 119
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -58,6 +58,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 86
+  - title: "2021 – The year to save costs and accelerate your business with Microsoft Azure"
+    excerpt: "South African businesses – but 2021 is a blank slate, and many companies are seeing this as an opportunity to leverage the lessons learned and strive for growth. This is particularly true for businesses which are now embracing cloud technologies."
+    publishedDateTime: 2020-11-17T05:19:00Z
+    webUrl: "https://businesstech.co.za/news/industry-news/448961/2021-the-year-to-save-costs-and-accelerate-your-business-with-microsoft-azure/"
+    ampWebUrl: "https://businesstech.co.za/news/industry-news/448961/2021-the-year-to-save-costs-and-accelerate-your-business-with-microsoft-azure/amp/"
+    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/industry-news/448961/2021-the-year-to-save-costs-and-accelerate-your-business-with-microsoft-azure/amp/"
+    type: article
+    provider:
+      name: businesstech.co.za
+      domain: businesstech.co.za
+    quality: 50
   - title: "Microsoft adds Hindi to its Text Analytics service"
     excerpt: "Text Analytics includes sentiment analysis, opinion mining, key phrase extraction, language detection, named entity recognition, and Personally Identifiable Information (PII) detection. Microsoft on Thursday said it has added Hindi to its Text Analytics service to help businesses strengthen customer support through a complete analysis of user perception and feedback in the most widely spoken language in India."
     publishedDateTime: 2020-11-14T05:02:00Z

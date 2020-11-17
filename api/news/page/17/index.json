@@ -2,6 +2,50 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-11-01-importance-of-ar-adoption-in-education.md",
+      "title": "Importance Of AR Adoption In Education",
+      "excerpt": "The object recognition and text recognition feature in AR help teachers to overlay information, visuals, and different forms of content on an ordinary chalkboard Augmented reality in education ...",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/resources/importance-of-ar-adoption-in-education/",
+      "originalUrl": "https://inc42.com/resources/importance-of-ar-adoption-in-education/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.inc42.com/wp-content/uploads/2020/11/Untitled-design-2020-11-01T114655.545.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.inc42.com/resources/importance-of-ar-adoption-in-education/amp/",
+      "cdnAmpWebUrl": "https://www-inc42-com.cdn.ampproject.org/c/s/www.inc42.com/resources/importance-of-ar-adoption-in-education/amp/",
+      "publishedDateTime": "2020-11-01T02:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2020-11-01-deep-neural-networks-are-helping-decipher-how-brains-work.md",
       "title": "Deep Neural Networks Are Helping Decipher How Brains Work",
       "excerpt": "“I was really pumped,” he said. It would have counted as a noteworthy accomplishment in artificial intelligence alone, one of many that would make neural networks the darlings of AI technology over the next few years. But that wasn’t the main goal ...",
@@ -1181,57 +1225,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-31-i-asked-ai-to-write-this-post-for-me-here-are-the-results.md",
-      "title": "I Asked AI to Write This Post for Me. Here Are the Results.",
-      "excerpt": "In June 2020 an Artificial Intelligence system called GPT-3 went live. This AI model is focused on Natural Language Programming and was trained by reading trillions of words and sentences online.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/358657",
-      "originalUrl": "https://www.entrepreneur.com/article/358657",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1604001839-GettyImages-962160688.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/358657",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/358657",
-      "publishedDateTime": "2020-10-30T11:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

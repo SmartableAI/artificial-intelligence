@@ -68,6 +68,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 86
+  - title: "2021 – The year to save costs and accelerate your business with Microsoft Azure"
+    excerpt: "South African businesses – but 2021 is a blank slate, and many companies are seeing this as an opportunity to leverage the lessons learned and strive for growth. This is particularly true for businesses which are now embracing cloud technologies."
+    publishedDateTime: 2020-11-17T05:19:00Z
+    webUrl: "https://businesstech.co.za/news/industry-news/448961/2021-the-year-to-save-costs-and-accelerate-your-business-with-microsoft-azure/"
+    ampWebUrl: "https://businesstech.co.za/news/industry-news/448961/2021-the-year-to-save-costs-and-accelerate-your-business-with-microsoft-azure/amp/"
+    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/industry-news/448961/2021-the-year-to-save-costs-and-accelerate-your-business-with-microsoft-azure/amp/"
+    type: article
+    provider:
+      name: businesstech.co.za
+      domain: businesstech.co.za
+    quality: 50
   - title: "Microsoft Custom Translator pushes the translation quality bar closer to human parity"
     excerpt: "The Custom Translator journey to be on the leading edge of machine translation technology continues. In early August 2020, we started our Custom Translator upgrade from Long Short-Term Memory (aka LSTM) based neural machine translation architecture (or V1) to our Microsoft Translator’s state-of-the-art Transformer based architecture (or V2)."
     publishedDateTime: 2020-11-12T21:57:00Z

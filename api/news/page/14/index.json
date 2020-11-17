@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-11-04-sony-and-microsoft-team-up-azure-to-power-playstation-now.md",
+      "title": "Sony and Microsoft team up, Azure to power PlayStation Now",
+      "excerpt": "Sony will bring its image sensors over so Microsoft can infuse its Azure-powered AI into them, and Microsoft will let Sony experiment with its Azure servers to host services like PlayStation Now ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/65959/sony-microsoft-team-up-azure-power-playstation-now/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/65959/sony-microsoft-team-up-azure-power-playstation-now/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/6/5/65959_8893_sony-microsoft-team-up-azure-power-playstation-now_full.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/65959/sony-microsoft-team-up-azure-power-playstation-now/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/65959/sony-microsoft-team-up-azure-power-playstation-now/amp.html",
+      "publishedDateTime": "2020-11-03T09:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-googles-waymo-is-pulling-its-self-driving-cars-out-of-san-francisco-in-case-violence-erupts-around-the-election.md",
       "title": "Google's Waymo is pulling its self-driving cars out of San Francisco in case violence erupts around the election",
       "excerpt": "The company will also stop testing on San Francisco's streets for the next two days as the 2020 presidential election unfolds.",
@@ -1129,49 +1172,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-face-recognition-pollution-alert-in-tech-upgrade.md",
-      "title": "Face recognition, pollution alert in tech upgrade",
-      "excerpt": "The city’s ambitious smart traffic management system system — that proposes to use advanced technologies and a surveillance web of cameras to m.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/articleshow/79008997.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/articleshow/79008997.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-79008996/79008996.jpg",
-          "width": 800,
-          "height": 751,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/amp_articleshow/79008997.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/amp_articleshow/79008997.cms",
-      "publishedDateTime": "2020-11-02T17:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -3,13 +3,13 @@ category: news
 title: "Fujitsu to develop supercomputer for AI research in Japan"
 excerpt: "The 'AI bridging green cloud infrastructure supercomputer' will feature 120 nodes, 11.2 petabytes of storage, and is expected to reach peak performance of 19.3 petaflops."
 publishedDateTime: 2020-11-16T01:55:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/"
+originalUrl: "https://www.zdnet.com/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/"
+webUrl: "https://www.zdnet.com/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/"
 type: article
-quality: 89
-heat: 109
+quality: 87
+heat: 107
 published: true
 
 provider:
@@ -22,7 +22,6 @@ provider:
 
 topics:
   - AI
-  - AI Hardware
 
 images:
   - url: "https://zdnet3.cbsistatic.com/hub/i/2020/11/16/4c1195d3-a430-4c56-af53-e55d055a621f/low-aibridginggreencloudfig.jpg"
@@ -60,6 +59,6 @@ related:
         height: 228
         isCached: true
 
-secured: "cl5HODW7aI+ON6aNHnb7tljzQjMD7VRwrkvHxcMjCjZiRpyyFk7LAcSAP0kUf5fz1feVbOs/SGHy8zAPS6oPHUjue0x//zeYXvKiZoIbEoEIThXu2lUH5d22mEH0IJ4oCQfiRks72AH5cOrRJmpavfgO/kF5ilCgb60p/3V+2Vs4V3wfxARdZR41wgCIuG5S9kIS7Tr+eNaCXjMY8MPYEbz8P0Wx4DVRZPX4m+dMYVtay/YMinWWYUIVuGYCCbWujFFx6mRg9oIz1KZ3RkNgMT6Fbq3I7KnCiSKwICWsjvhHKRioJNnUZiYRX5jUi8yyfkdXwuYd+H7RkpiDzriC1Z6N1exaYaCFG+tLo/nKzF68xKEqsp6oP9qcZSnCJ0u/9SZs5NSbqmyTM+kKLHObhwEU6ezFTKhVzEp7zcZYOS0U6LbBXK5Y31RD02Er4QmG89BuMTtFt8V6F00yQbwS0icfmFz+BI1GXuImUohbOYa/t+2r/5qxTl2EpZE/II+K97b8ekyIemG7eQZ3+XCb6A==;RQ8PSDL/bHYsrftdbm93OQ=="
+secured: "7xXcj1tCUnncpyYtq/nao8S2x5f1LOfy51h8335osnrPChk1XQ81HQFH+J9aI/7UKXeqj+nm378+fW8BOxnvpHH3k2PRPwTybQOqHHNlUVd+SMjl0qLKFJGR6pEMFn299tf9ASIuyU5iJHM/0OKeg87WvT+WTXYm5YjNDQsakuAMyEuKynxH4ibjs4/PCKsCSSzrw7XRln5gyWTfBN5RCZrQ4/IQclxRMm2jKPqg3f8DQDGMgoMLX61/ObTRL18DKrgVCRTZFDfu5oNq79qxPj5OfP/GVEZo1UhlMOV/9d/IFctdwrbFw3C8hQ5ppHR9cYCZhcitr9HuAMyKceyY7wJKQd2wY9lgCxDfUqRy01Y=;fnlbvDMBzmvz++HEBVPEiQ=="
 ---
 

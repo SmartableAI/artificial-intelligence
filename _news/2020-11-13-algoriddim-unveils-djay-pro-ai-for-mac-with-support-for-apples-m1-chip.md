@@ -41,22 +41,6 @@ related:
         width: 1050
         height: 630
         isCached: true
-  - title: "djay Pro AI for Mac Released With Support for M1 Chip"
-    excerpt: "Algoriddim has today unveiled djay Pro AI for Mac, a universal app that can run natively on the M1 chip and take advantage of Apple's"
-    publishedDateTime: 2020-11-12T14:44:00Z
-    webUrl: "https://www.macrumors.com/2020/11/12/djay-pro-ai-for-mac-released-supports-m1-chip/"
-    ampWebUrl: "https://www.macrumors.com/2020/11/12/djay-pro-ai-for-mac-released-supports-m1-chip/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/11/12/djay-pro-ai-for-mac-released-supports-m1-chip/amp/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 74
-    images:
-      - url: "https://images.macrumors.com/t/rjOF_SpBNZI5-cJSiP2Ou5f1mI8=/3200x/https://images.macrumors.com/article-new/2020/11/djay-pro-ai.png"
-        width: 3200
-        height: 1760
-        isCached: true
 
 secured: "bgfz6+w1oiJaXUPCzdKbI0NCgdao4sEHHG6X2i8vNJ0YtALV4xszsDZ2lJClUzTM0mHOh9hXpvgtn3ehsEzpEgp2sNu1yOBXUklhIvZMg68aWENR7SKtXVnpfC/lI/BfwCvGlWrPI2G2nBNKk5c/YgnMZZ5FGMDitCQ1OKYU7XoisjOhrs336xSm2nVlk+WvUXfiIlGA2AjGjtcOSDJplZ7dYhZzMrWmHhLZ1knbMb2sP8Pk3jjpnkbJ0WFYrOb8fc9OljnfJvE0wY5vu0c3u+AhNbzRlfHqMyYM13kudak20OfXK4y/n7Xqwqvr26JBIpJw4cTWp89XU3sKCrhu/XFwKZYtms4A9bUyNL+g22VoWd/pwvxPXsMnOF8JierIyNk+AEA+AKJcO32kATvi79MWkzMGzXQxweWMx2bWJXzXYlrqlIC4ZogYDdteK/G4uf3/FDZhbOvPMCKqeIZSjK1D9uaBo8+RXbPgKj0OoVhV42YW9ljLaT2xqBtv7Ewx0QJTtPjq5Z07ZHuiqlIq4w==;y0FM6EalJGGm2Ffc2A2F1A=="
 ---

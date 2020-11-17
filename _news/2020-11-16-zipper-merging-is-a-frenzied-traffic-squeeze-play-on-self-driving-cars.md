@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/15/zipper-merging-is
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/15/zipper-merging-is-a-frenzied-traffic-squeeze-play-on-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Lyft brings back self-driving cars amid social distancing concerns"
-    excerpt: "Lyft bringing back a unique service to the valley. 13 Action News Reporter Marissa Kynaston shows you what's changing the next time you book your ride. Self driving cars with Lyft are now back in service."
-    publishedDateTime: 2020-11-12T14:35:00Z
-    webUrl: "https://www.ktnv.com/positivelylv/lyft-brings-back-self-driving-cars-amid-social-distancing-concerns"
-    type: article
-    provider:
-      name: KTNV Las Vegas
-      domain: ktnv.com
-    quality: 24
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/b99e490/2147483647/strip/true/crop/841x442+0+37/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2Fdcb%2Fb9cd621bb5cc43d8b6bdc641d1acdca8%2Fdcb19f1cb221492c97b29766f91e3721%2Fposter_a8f06e04eb554902aa594c78f117df91.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Honda To Produce Self-Driving Cars Capable Of Navigating Heavy Traffic"
     excerpt: "Shutterstock The Honda Legend luxury sedan will have \"traffic jam pilot\" technology, allowing drivers to take their eyes off the road"
     publishedDateTime: 2020-11-13T10:16:00Z

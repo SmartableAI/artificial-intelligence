@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-20-microsoft-partners-with-spacexs-starlink-satellite-service-for-azure-space-cloud-platform.md",
+      "title": "Microsoft partners with SpaceX’s Starlink satellite service for Azure Space cloud platform",
+      "excerpt": "Microsoft says it’s taking the next giant leap in cloud computing, in partnership with SpaceX and its Starlink broadband satellite constellation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/microsoft-partners-spacexs-starlink-satellite-service-azure-space-cloud-platform/",
+      "originalUrl": "https://www.geekwire.com/2020/microsoft-partners-spacexs-starlink-satellite-service-azure-space-cloud-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/10/201020-azurespace-630x479.png",
+          "width": 630,
+          "height": 479,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-partners-spacexs-starlink-satellite-service-azure-space-cloud-platform/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-partners-spacexs-starlink-satellite-service-azure-space-cloud-platform/amp/",
+      "publishedDateTime": "2020-10-20T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-global-cognitive-computing-market-trends-share-growth-rate-opportunities-and-market-forecast-2019-2026.md",
       "title": "Global Cognitive Computing Market | Trends, Share, Growth Rate, Opportunities And Market Forecast 2019-2026",
       "excerpt": "The report deeply explores the recent significant developments by the leading vendors and innovation profiles in the Global Cognitive Computing Market including Google; IBM Corporation; Microsoft ...",
@@ -1339,49 +1391,6 @@
       "provider": {
         "name": "CMS Wire",
         "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-ucsf-fortanix-intel-and-microsoft-azure-utilize-privacy-preserving-analytics-to-accelerate-ai-in-health-care.md",
-      "title": "UCSF, Fortanix, Intel, and Microsoft Azure Utilize Privacy-Preserving Analytics to Accelerate AI in Health Care",
-      "excerpt": "“Validation and security of AI algorithms is a major concern prior to their implementation ... in the control of the healthcare institution via their Azure confidential computing cloud infrastructure. The data will be placed into a secure enclave within ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ucsf.edu/news/2020/10/418736/ucsf-fortanix-intel-and-microsoft-azure-utilize-privacy-preserving-analytics",
-      "originalUrl": "https://www.ucsf.edu/news/2020/10/418736/ucsf-fortanix-intel-and-microsoft-azure-utilize-privacy-preserving-analytics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ucsf.edu/sites/default/files/field/image/news/laptop-computer-hands.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UC San Francisco",
-        "domain": "ucsf.edu",
         "images": null,
         "publishers": null,
         "authors": null

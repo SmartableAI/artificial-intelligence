@@ -28,14 +28,14 @@ related:
   - title: "Fujitsu to develop supercomputer for AI research in Japan"
     excerpt: "The 'AI bridging green cloud infrastructure supercomputer' will feature 120 nodes, 11.2 petabytes of storage, and is expected to reach peak performance of 19.3 petaflops."
     publishedDateTime: 2020-11-16T01:55:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/"
+    webUrl: "https://www.zdnet.com/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 89
+    quality: 87
     images:
       - url: "https://zdnet3.cbsistatic.com/hub/i/2020/11/16/4c1195d3-a430-4c56-af53-e55d055a621f/low-aibridginggreencloudfig.jpg"
         width: 415

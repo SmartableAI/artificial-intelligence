@@ -46,20 +46,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 57
-  - title: "Video Analytics, ISR And Intelligent Video Surveillance Americas Market Booming By Size, Revenue And Trend In 2020 Scrutinized In New Research"
-    excerpt: "According to HSRC’s latest report, Video Analytics, ISR, Intelligent Video Surveillance & Object Recognition & Americas Market-2015-2020, the U.S. and the rest of American national markets are expected to exceed $36."
-    publishedDateTime: 2020-11-12T14:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/video-analytics-isr-and-intelligent-video-surveillance-americas-market-booming-by-size-revenue-and-trend-in-2020-scrutinized-in-new-research-2020-11-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Fivetran Extends Integration With Databricks, Accelerating SQL Analytics, Data Science and Machine-Learning Applications"
     excerpt: "Fivetran, the leading provider of automated data integration, today announced advancements in its integration with Databricks, the Data and AI Company, extending the companies’ strategic partnership to power the modern data stack."
     publishedDateTime: 2020-11-12T17:47:00Z

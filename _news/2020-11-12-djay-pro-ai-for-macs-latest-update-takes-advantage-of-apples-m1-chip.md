@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/algoriddim-djay-pro-ai-for-mac-neural-mix
 webUrl: "https://www.engadget.com/algoriddim-djay-pro-ai-for-mac-neural-mix-apple-m1-chip-150027988.html"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "djay Pro AI for Mac Released With Support for M1 Chip"
-    excerpt: "Algoriddim has today unveiled djay Pro AI for Mac, a universal app that can run natively on the M1 chip and take advantage of Apple's"
-    publishedDateTime: 2020-11-12T14:44:00Z
-    webUrl: "https://www.macrumors.com/2020/11/12/djay-pro-ai-for-mac-released-supports-m1-chip/"
-    ampWebUrl: "https://www.macrumors.com/2020/11/12/djay-pro-ai-for-mac-released-supports-m1-chip/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/11/12/djay-pro-ai-for-mac-released-supports-m1-chip/amp/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 74
-    images:
-      - url: "https://images.macrumors.com/t/rjOF_SpBNZI5-cJSiP2Ou5f1mI8=/3200x/https://images.macrumors.com/article-new/2020/11/djay-pro-ai.png"
-        width: 3200
-        height: 1760
-        isCached: true
   - title: "Algoriddim Unveils djay Pro AI for Mac With Support for Apple's M1 Chip"
     excerpt: "Algoriddim today announced the launch of djay Pro AI for Mac, a significant upgrade that was rebuilt from the ground up using the Apple Neural Engine and runs natively on the newest Mac devices as a universal app."
     publishedDateTime: 2020-11-12T16:51:00Z

@@ -149,6 +149,20 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "At SC20: Nvidia Announces A100 80GB GPU"
+    excerpt: "Nvidia today unveiled the A100 80GB GPU for the Nvidia HGXTM AI supercomputing platform with twice the memory of its predecessor. The new chip with HBM2e doubles the A100 40GB GPU’s high-bandwidth memory to 80GB and delivers more than 2TB/sec of memory bandwidth,"
+    publishedDateTime: 2020-11-17T05:23:00Z
+    webUrl: "https://insidehpc.com/2020/11/nvidia-announces-a100-80gb-gpu/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/10/Nvidia-logo-1020.jpg"
+        width: 500
+        height: 281
+        isCached: true
   - title: "NVIDIA Introduces Powerful New Data Center GPU"
     excerpt: "NVIDIA unveiled the NVIDIA A100 80GB GPU-the latest innovation powering the NVIDIA HGX AI supercomputing platform-with twice the memory of its predecessor, providing researchers and engineers the performance tools to unlock the next wave of AI and scientific breakthroughs."
     publishedDateTime: 2020-11-16T16:41:00Z
@@ -187,6 +201,6 @@ related:
       domain: seekingalpha.com
     quality: 30
 
-secured: "9DdPP3A8lxF+Js9DjMAlcLs7wBSkmGiO3cwad9UzmuCEXyGKGoqle+gb+TdbFeWXO9BCnymimpD2n3jooBHOX/wB4Hcatd/z5vmX4ujblLokzxFexBy+DIp5cOBpRim2WTqmGLn+0wpR0RruvQkmgJN7zYY52Y8i/YgEAC/Vw32VZrN2jh7m6+3oXXLLRwwEn3hFZTWVocoBLX9LQNGYKZ3InFYC5p2ye8k1ddesGypDQudE28vwACLYpVk9jUI4jicy7BbvcqsLUjKNFPjElIXatyC9ojX1vmrUVKOqGKHlMHUgCvjbTDr0Z6HuEKv431ovlRlfyr0hCLWgLTtwJcELCHHJXJg/VXuMJJuDpkA=;kTM6KVthn/iMqCG99CZt9A=="
+secured: "Sgi4vuvZBn2TAQv0uXO53IqP0wsdsqg8yUhPLqcFasyYfxtTokBYNiODMtpYcZ6xdL8kJAZWsADkgqXBJFW1qFrkGe0nijDgYPpXATZH8O3weqQp3nOQVW7OTZvRNievrrBmA6aaXgbtN2t4QKhXSS8TdVyVnx7EauwbhGVJHsokWQCv6e6WWPAqrp5U86rmMCVwpsQab6Of/V3dcLStiMDr02N+CZ7PGsV/RSVHzDXCqNl+nJ52ZCasRkcKcOd5ubxwQnTaJh6YTIFtOfy+yW5xAdxpJM7CLNvoO1N8nGtRcXDAFijN1ouUwORBwd0w0Doq+CDrvMd+kViNYc9MyKPRvzE0L08od+GdcO8u47IhGXKNteDQbsBAId3jrJ0t1eEv3wr66Oy74SLV2zAU1o5HsKEh94FSfOf8z7dwtuULpchg8YJEa0t8Pe/ORiBwcKQTu/nmYFCAunScrctaf2Ye6SysX1YRM7u6B3kgYkZUuJHGmFq00JDFjKUk/XmtaAlPRbtdvuVcYJdDXBthdg==;2ap6y/VojGXBm1bEMbg3+Q=="
 ---
 

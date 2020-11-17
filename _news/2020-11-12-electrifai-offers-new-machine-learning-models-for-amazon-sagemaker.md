@@ -1,27 +1,21 @@
 ---
 category: news
 title: "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker"
-excerpt: "Amazon SageMaker is a fully managed service from Amazon Web Services (AWS) that provides every developer and data scientist with the ability to build, train, and deploy ML models quickly."
-publishedDateTime: 2020-11-11T19:48:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-301170639.html"
-webUrl: "https://www.prnewswire.com/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-301170639.html"
+excerpt: "Amazon SageMaker is a fully managed service from Amazon Web Services (AWS) that provides every developer and data scientist with the ability to build, train, and deploy ML models quickly. Delivering fast and reliable results, ElectrifAi is pleased to ..."
+publishedDateTime: 2020-11-12T01:04:00Z
+originalUrl: "https://www.thaipr.net/it/1033083"
+webUrl: "https://www.thaipr.net/it/1033083"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: thaipr.net
+  domain: thaipr.net
 
 topics:
   - AWS AI
   - AI
   - Machine Learning
 
-images:
-  - url: "https://mma.prnewswire.com/media/1331976/ElectrifAi_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
-    isCached: true
-
-secured: "bc3PguON0NnwFr9WQHgmEckXnS8ZQ1ybKUZboJoJ11e79Qf1IewDCG/ycK0/TLZ7chHcjPKvesCrjFBznq5wOHOIXHQqHkB1dZMiC5ki5YqkoUuYslUR41ppBO2LlwfIGU6HHuxXw6PKVd3nYgQ1tiHpS9rUPnTMZI0qn2v7B4AXyyzNhmCGyH7F9FsmYsPF3d/V+rVZisDqjg3icyLuOuF7fE3Y+cJNdOeL1SRchaYMJakez0wjO8vQlc/7jlW02LKIgi3mymw/i1+j9cAScKy+XTlYQt42wHJqmETWTUHzwwLjVO+euV/4N3YBRjIKXkM4A/QSzjAdZpDfDIXcL2Odfrj3fSndx/MTpoYC18A=;YnMvRp+92e2ZUuam9UeBeA=="
+secured: "nwU0aasHrbzVLrTH2JF8yRD13lbTGaUHqeMO4dr0TdfA8lc09jBZcaOOIem+rBtZL7r4aC5WxVgVDBhWgairwOSu6P0AOuh01/azV9QIRYITsyTKpKfTjqNTXHz8FnSydWmjQ+uHaVb4XgiZZB/tYQcF3MA9XAS0Z0c3oEQk04z2Fv6m3xs0hlalWPN7U7XWmHAcMQguCJP04IzYVh0ZLojNtbXzIo5vVFZLuE2SbPSV2PSsSjQD4aPoGh3wZ0HkE5UPKQzMA6pC9DxnxukFFi0amqtjTSJT1OakWuG81heW8Ddl+HPGu2e21FoBkokITjlKKLH8bcguMlToPkswi8CcePX+ESiIVbrtivJAxI8=;F5/2iJFzzm01LkNUjolcgA=="
 ---
 
