@@ -2,7 +2,7 @@
 name: "Semantic Machines"
 overview: "Developing novel deep learning NLP and AI technology to revolutionize mobile voice enabled agents."
 type: "profile"
-heat: 50
+heat: 42
 
 website: http://www.semanticmachines.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "semmachines"
   url: "https://twitter.com/semmachines"
-  followers: 434
+  followers: 433
 
 size: 11-50 employees
 yearFounded: 2014
@@ -37,6 +37,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=DxrJWSi_IWo"
 
-secured: "AI2tSHEv+o6termM3ZA/nGqmN0FY1Lhkt2zIBz1MEvLj+7NXAke5UQh5tbaHiGnSz4aIsHPGxSefxUXYd5FcWpU54lVz1Q5GAQ5BukYCGxIeUNRZ9i7Gn6Rbkeop1CyhjGwMhvJsqIdcSHqphusr46tnD/hvxdlHesiyW5NkhVcDn3vzoA79P5LoNEe87RIJ/2LW1sn31k/j+3Gj+WrGDqTcAE3nqb9FNJ3KMJFPx5cwfv2zffC0xZ65jtWtGkcFjF4EoXIYJzbEtYiTr7n++CnPy7ZzCDBv8odyrfPhwoo8D7Il29VcPcg9jtC+T/j3Gt2HsaJhIEvJOLI6HnIBOF6lKwjJ1AcP1I5qou47WCzK7ixtS92NYjQUYDMBDVM2ExsoIZN/Ag4eyNFLC9GpWA==;i7veqEqojNZOq+kelUCNQQ=="
+secured: "XDSO+iBBLQONmU6GCvddr3iuLDeFPwuhOeIzZ8mPC+PmczUm9Q+jqgFmEGmKQ8aAZNNjnfSvvo14xNUV7Dwi3ue1DI48DQPzEnYIuT1/lxoCJBUDzN5mzS5St1EMEY2E5BDUa1MobE+Z90S+XRa4VNLgFxvQDCpv6L3HnMSA1vOkxG2tqWp91wxBB0iOPZHLEfu4+cFHWdeaeQYsMZDzN8HqixXp17XwxvYyq8xNZ32vsH3bpLZoYgDQ7baYLwndITiusOs6ptVm8G911M4N65SS4e6jbBkKfpK6SKYlmXsq2crTTOjtYR4JtHUHkVdDOLX41Ee4M8NYXVExmw82cEUio+7/qRcNf3crPY0hCf1YJ90PB9W3gQArxbcY08o5MXTSI9QUFRsTH4jUuC8ylg==;0XUaQgVvD5oJYK9sq+s3Bg=="
 ---
 

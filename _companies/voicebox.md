@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "VoiceBox_Tech"
   url: "https://twitter.com/VoiceBox_Tech"
-  followers: 769
+  followers: 770
 
 size: 201-500 employees
 yearFounded: 2001
@@ -37,6 +37,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=76HL2Kr3Ho4"
 
-secured: "tZHhe42xqWhE5ATJDCBRiY9T3ACcCXx9yUJ/5FCfcZWIOvFKQIOdm3v+AUKne7qoNL8yBWgvjfGv78OoQdB5+vo/PEUP6l6PnrfE0sE5HXukIs+jOW3JkQWBZDahTsWRjJuFjAXcZ1LKxMB0MwOqgTUaBd/wLvmM7SLCQhe/MuSlR7/Y48LGwg36+86KN4wPf5WU/eRtXrA4jm8yQ7SFjePP9aPFOBofHoLYGB47GSHmPTkixkcu85a6yhYNhI7zUTgsYmTDQR6/u1vQiZ3rYWhVQSYfaiYblK9K4YGKhNZ5xJ+saGdnx11tn2+t9MoJtzWXS8DalK4MYBN8aNg+z3bvxaEolYaBInHx/PHCzlxN1lJyIHxSNQggpagPx4jFVCAo9X1aqEbA5LG1tqgr+A==;KPKhZNfm3ExI0CTduzBw/w=="
+secured: "cWGFo3titYy1kny3aWuwEKrmU/Uew78G6iu5g5PRIlc27SNJZfEgNFBwzjzmx1oaCGE3kyKJKTTgL1FF1mism0nN9hZ/HXf+lgxzMkjJ60onHq2v7hYCEMz5TA1LV9fGLmYaAGhk7bY9S2qyJIB+QeHiQ+xiONpLwTKmWF9mV3RKfCCBII17rB8e0LFHZeOTK83GrLTxjqSi+WUw2vKCqmOqEamGPegVcVONOH3vXEx3Tx3KckM1YQRJ+eLEKpH+IgnyCWSh0l4DMH/Rros3A807KNzCC47QCi4Xh0ghLv0j4P/azlNGEqMCp8XTLclsWcSg7d6FKleETHQsF1+BdDHC3Z5g4PntKMj5IdtGdnQUT57yQGasjDF68ExzonJSs808/8Ddiq/LHBVUCwEVTg==;fhDpEHeV/PIf9HRw/5ULmw=="
 ---
 
