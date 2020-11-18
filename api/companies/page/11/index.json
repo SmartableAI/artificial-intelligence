@@ -75,7 +75,7 @@
       "twitter": {
         "username": "fundbox",
         "url": "https://twitter.com/fundbox",
-        "followers": 7760
+        "followers": 7759
       },
       "size": "51-200 employees",
       "yearFounded": 2013,
@@ -131,7 +131,7 @@
       "twitter": {
         "username": "LoveKairos",
         "url": "https://twitter.com/LoveKairos",
-        "followers": 4548
+        "followers": 4549
       },
       "size": "11-50 employees",
       "yearFounded": 2012,
@@ -399,7 +399,7 @@
       "twitter": {
         "username": "ROSSIntel",
         "url": "https://twitter.com/ROSSIntel",
-        "followers": 5260
+        "followers": 5261
       },
       "size": "11-50 employees",
       "yearFounded": 2014,
@@ -488,6 +488,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/vectra.ai.md",
+      "title": "Vectra",
+      "excerpt": "Vectra is a cybersecurity platform that uses AI to detect attackers in real-time and perform conclusive incident investigations.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/vectra.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/vectra.ai/",
+      "type": "profile",
+      "name": "Vectra",
+      "overview": "Vectra is a cybersecurity platform that uses AI to detect attackers in real-time and perform conclusive incident investigations.",
+      "website": "https://vectra.ai",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/vectra-networks"
+      },
+      "twitter": {
+        "username": "Vectra_AI",
+        "url": "https://twitter.com/Vectra_AI",
+        "followers": 2460
+      },
+      "yearFounded": 0,
+      "locations": [
+        "San Jose, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ],
+      "heat": 31,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1314631586483064832/dmGlciU6_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Vectra",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/drive.ai.md",
       "title": "Drive.ai",
       "excerpt": "A modern machine learning company dedicated to revolutionizing diagnostic healthcare",
@@ -507,7 +545,7 @@
       "twitter": {
         "username": "driveai_",
         "url": "https://twitter.com/driveai_",
-        "followers": 9046
+        "followers": 9047
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -558,7 +596,7 @@
       "twitter": {
         "username": "fetchrobotics",
         "url": "https://twitter.com/fetchrobotics",
-        "followers": 6855
+        "followers": 6854
       },
       "size": "51-200 employees",
       "yearFounded": 2014,
@@ -718,7 +756,7 @@
       "twitter": {
         "username": "sentifi",
         "url": "https://twitter.com/sentifi",
-        "followers": 4855
+        "followers": 4854
       },
       "size": "51-200 employees",
       "yearFounded": 2012,
@@ -879,7 +917,7 @@
       "twitter": {
         "username": "getnarrative",
         "url": "https://twitter.com/getnarrative",
-        "followers": 24313
+        "followers": 24314
       },
       "size": "11-50 employees",
       "yearFounded": 2012,
@@ -1020,7 +1058,7 @@
       "twitter": {
         "username": "Aptiv",
         "url": "https://twitter.com/Aptiv",
-        "followers": 16829
+        "followers": 16831
       },
       "yearFounded": 0,
       "locations": [
@@ -1037,44 +1075,6 @@
           "width": 400,
           "height": 400,
           "title": "Aptiv",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/chorus.ai.md",
-      "title": "Chorus.ai",
-      "excerpt": "Chorus.ai is an AI conversation intelligence cloud platform for sales team that can transform conversations into data and insights.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/chorus.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/chorus.ai/",
-      "type": "profile",
-      "name": "Chorus.ai",
-      "overview": "Chorus.ai is an AI conversation intelligence cloud platform for sales team that can transform conversations into data and insights.",
-      "website": "https://www.chorus.ai/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/chorus-ai"
-      },
-      "twitter": {
-        "username": "chorus_ai",
-        "url": "https://twitter.com/chorus_ai",
-        "followers": 6817
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Francisco and Tel Aviv"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ],
-      "heat": 0,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1275421448807624704/YLghymIH_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Chorus.ai",
           "isCached": true
         }
       ],
@@ -1107,7 +1107,7 @@
       "twitter": {
         "username": "Mobvoi_Official",
         "url": "https://twitter.com/Mobvoi_Official",
-        "followers": 51257
+        "followers": 51249
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -1161,7 +1161,7 @@
       "twitter": {
         "username": "myconversica",
         "url": "https://twitter.com/myconversica",
-        "followers": 13204
+        "followers": 13203
       },
       "size": "201-500 employees",
       "yearFounded": 2007,
