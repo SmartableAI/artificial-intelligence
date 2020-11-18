@@ -39,6 +39,22 @@ related:
         width: 1540
         height: 800
         isCached: true
+  - title: "Connecting the Classroom to Careers Through AI Explorations"
+    excerpt: "Artificial intelligence is an increasingly prevalent part of our everyday lives. From live-updating, turn-by-turn driving directions to responsive"
+    publishedDateTime: 2020-11-16T15:31:00Z
+    webUrl: "https://www.edsurge.com/news/2020-11-16-connecting-the-classroom-to-careers-through-ai-explorations"
+    ampWebUrl: "https://www.edsurge.com/amp/news/2020-11-16-connecting-the-classroom-to-careers-through-ai-explorations"
+    cdnAmpWebUrl: "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2020-11-16-connecting-the-classroom-to-careers-through-ai-explorations"
+    type: article
+    provider:
+      name: EdSurge
+      domain: edsurge.com
+    quality: 59
+    images:
+      - url: "https://edsurge.imgix.net/uploads/post/image/13694/ai_career_connections-1601659718.jpg?auto=compress%2Cformat&w=640&h=260&fit=crop"
+        width: 640
+        height: 260
+        isCached: true
   - title: "Amp Robotics partners with Waste Connections"
     excerpt: "Waste Connections plans to deploy the systems on container, fiber and residue lines across numerous material recovery facilities."
     publishedDateTime: 2020-11-16T22:21:00Z

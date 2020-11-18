@@ -25,20 +25,75 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Car Market Definition and Business Operation Data Analysis by 2024"
-    excerpt: "Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
-    publishedDateTime: 2020-11-17T06:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-definition-and-business-operation-data-analysis-by-2024-2020-11-17"
+  - title: "‘It is going to be a race with Tesla’ says VW about new investments in electric cars and self-driving"
+    excerpt: "The Volkswagen Group just announced that it is accelerating its investments in software, electric vehicles, and self-driving technology and it is not shying away from the fact that its goal is to catch up to Tesla."
+    publishedDateTime: 2020-11-16T20:08:00Z
+    webUrl: "https://electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/"
+    ampWebUrl: "https://electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
+      name: Electrek
+      domain: electrek.co
+    quality: 74
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/01/vw-ev-lineup.jpg?quality=82&strip=all"
+        width: 1600
+        height: 801
         isCached: true
+  - title: "Volkswagen's CEO says its latest round of investment in electric self-driving cars will let it finally 'beat Tesla'"
+    excerpt: "\"The commitment, the investments, and the industrialization plans are there to beat Tesla,\" VW's CEO told investors on a Monday conference call."
+    publishedDateTime: 2020-11-17T19:13:00Z
+    webUrl: "https://www.businessinsider.com/vw-ceo-latest-electric-self-driving-car-investment-beat-tesla-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/vw-ceo-latest-electric-self-driving-car-investment-beat-tesla-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vw-ceo-latest-electric-self-driving-car-investment-beat-tesla-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://i.insider.com/5fb413a2402d49001924f586?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "JLR to develop a smart city hub to test self-driving cars"
+    excerpt: "Self-driving vehicles will share the streets with cars, pedestrians and cyclists"
+    publishedDateTime: 2020-11-17T04:53:00Z
+    webUrl: "https://www.newsoneplace.com/37514651911/jlr-self-driving-develop"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 24
+    images:
+      - url: "https://i2-prod.coventrytelegraph.net//article19288858.ece/ALTERNATES/s615/1_JLR-Autonomous.jpg"
+        width: 615
+        height: 409
+        isCached: true
+  - title: "Jaguar Land Rover developing \"smart city hub\" to test self-driving car tech"
+    excerpt: "Jaguar Land Rover is teaming with software and telecom companies to create a \"smart city hub\" in Ireland to test self-driving technology."
+    publishedDateTime: 2020-11-17T19:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1130332_jaguar-land-rover-developing-smart-city-hub-to-test-self-driving-car-tech"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 22
+    images:
+      - url: "https://images.hgmsites.net/hug/2020-jaguar-i-pace_100751027_h.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "Jaguar Land Rover develops smart city hub to test self-driving vehicle technology"
+    excerpt: "Jaguar Land Rover is partnering with global software, mobility and telecoms companies to create a smart city hub that will allow real-world testing of connected technology where self-driving vehicles share the streets with cars,"
+    publishedDateTime: 2020-11-16T08:59:00Z
+    webUrl: "https://www.automotiveworld.com/news-releases/jaguar-land-rover-develops-smart-city-hub-to-test-self-driving-vehicle-technology/"
+    type: article
+    provider:
+      name: Automotive World
+      domain: automotiveworld.com
+    quality: 0
 
 secured: "HcRzNNBlPQN7TXLfAo9xN7SQid0KmzNg7ldBPagiAWEYz9kz+/r87dO7TQkhX3R/EWLBFLgX1AQ4fsqJOFCI+sISJelfY73Jks/R6VwB592BJlFBVKG+DufrPX5DGRscui3ASOdgiMJi0el12HlmPsf46jNBlsfqWlnwEJogxlounYgzXu5bu/smvA2KCnFmRRrpnNkapafZG01M54M8SfRnDKWreITwzah1cZ/wY2RFGowekdHG9JEzO16nKjIw4tPedbNaCR9kJr0ENmZOJhzj2CyA4IRS2FXsOekS3wtPnbbmbHCiAcjHP87iOZDTUvrDf4fkVFNzV2PwG81zh+QLvhAudbXmv9zvXOH6CzQ=;lpQytbami8M0vz6KQdryAQ=="
 ---

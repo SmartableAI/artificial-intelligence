@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "U.S. Military Wants to Bring Allies into AI Fold"
+    excerpt: "The Defense Department has kicked off a new initiative to bring like-minded nations together to work on AI policies and capabilities. In September, the Pentagon’s Joint Artificial Intelligence Center hosted the inaugural AI Partnership for Defense meeting with military officials from 13 nations including: Australia,"
+    publishedDateTime: 2020-11-15T22:30:00Z
+    webUrl: "https://www.nationaldefensemagazine.org/articles/2020/11/16/us-military-wants-to-bring-allies-into-ai-fold"
+    type: article
+    provider:
+      name: National Defense Magazine
+      domain: nationaldefensemagazine.org
+    quality: 39
+    images:
+      - url: "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2020/11/istock-1203693985.ashx?h=500&w=878&la=en&hash=6AF05AFD5D458A7BE0DEF34C4ED4B6A6751D7B9C"
+        width: 878
+        height: 500
+        isCached: true
   - title: "System Brings Deep Learning to IoT Devices"
     excerpt: "Deep learning is everywhere. This branch of artificial intelligence curates your social media and serves your Google search results. Soon, deep learning could also check your vitals or set your thermostat."
     publishedDateTime: 2020-11-17T00:00:00Z

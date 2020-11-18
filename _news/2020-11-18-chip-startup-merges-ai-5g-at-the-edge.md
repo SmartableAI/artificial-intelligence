@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "5G chip company EdgeQ raises $51M"
+    excerpt: "Startup EdgeQ said it raised $51 million in total funding from the likes of Threshold Ventures, Fusion Fund and AME Cloud Ventures."
+    publishedDateTime: 2020-11-17T00:00:00Z
+    webUrl: "https://www.lightreading.com/the-edge/5g-chip-company-edgeq-raises-$51m/d/d-id/765507"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 54
+    images:
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
+        height: 600
+        isCached: true
   - title: "EdgeQ exits stealth with $51M to fuse 5G and AI at the edge"
     excerpt: "G systems-on-chip startup EdgeQ Inc. exited stealth today armed with $51 million in funding that includes $38.5 million from a Series A round of investment. Threshold Ventures, Fusion Fund, Yahoo! co-founder Jerry Yang (AME Cloud Ventures),"
     publishedDateTime: 2020-11-18T00:23:00Z

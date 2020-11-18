@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/11/17/edgeq-raises-51-million-to-fuse-ai
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/17/edgeq-raises-51-million-to-fuse-ai-compute-and-5g-within-a-single-chip/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all"
         width: 1200
+        height: 600
+        isCached: true
+  - title: "5G chip company EdgeQ raises $51M"
+    excerpt: "Startup EdgeQ said it raised $51 million in total funding from the likes of Threshold Ventures, Fusion Fund and AME Cloud Ventures."
+    publishedDateTime: 2020-11-17T00:00:00Z
+    webUrl: "https://www.lightreading.com/the-edge/5g-chip-company-edgeq-raises-$51m/d/d-id/765507"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 54
+    images:
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
         height: 600
         isCached: true
   - title: "EdgeQ exits stealth with $51M to fuse 5G and AI at the edge"

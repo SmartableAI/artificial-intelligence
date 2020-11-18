@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/11/16/c3ai-files-s-1-for-ipo-to-list-o
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/16/c3ai-files-s-1-for-ipo-to-list-on-nyse-under-ticker-symbol-ai.html"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Enterprise AI software maker C3.ai files for a $100 million IPO"
-    excerpt: "C3.ai, which provides SaaS applications for the deployment of enterprise AI applications, filed on Friday with the SEC to raise up to $100 million in an initial public offering. The company provides SaaS applications that enable the rapid deployment of enterprise-scale AI applications on Azure,"
-    publishedDateTime: 2020-11-13T22:26:00Z
-    webUrl: "https://www.nasdaq.com/articles/enterprise-ai-software-maker-c3.ai-files-for-a-%24100-million-ipo-2020-11-13"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
 
 secured: "8NNGFEwE/ENzWEMzic4Oa1JXO20Es0Juum8p/LHrwLFQgB7EbcjKuuLIx5fP8yyONxoOW71ktZbXnr8RKtGgWZMsDp7zaMx7wOwyzCD+WFUNpWjecZqBY5YYasLOlr4scoXDMPswuIgnpXbjRdu1GD051fjo4mKjXYVA3WG6sLBvhjJzUjEMYumcDCYSNDjQkGv4VsPOLEeglvn74Z3TUzh9GoTghdcACMMIAOiCeitnmVdabjD+c6XivDQIo8vq5H5SHBGgRuMyMbieSev9VQ8E4TrIZpNpwGTGfaw7rbQmaI8c5atWa3qbMiCmMaxjrXJ3Ir9ZDM1hxd9aRGtERO/v2Za0WpxX4vOV7AL6yO7TCyZnD5eCqPMq7GitAu1bpEIUkekGGuaNWAxEApxy8+fdaaRbxd+YkoQpavskLbDokv151UHnlixUd2/dJpTP2KVv2nTXZDbpW+ENelCwzdCA+NVhWpRu+4z+E53VFqWvJyrp5WV1sh6DNauYc+ogfgnig1a/d4fP7xPtuf03EQ==;geG126z+VN9ObF05p67o8A=="
 ---

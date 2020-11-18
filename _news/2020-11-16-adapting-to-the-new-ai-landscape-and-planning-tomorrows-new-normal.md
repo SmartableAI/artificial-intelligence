@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/11/16/adapting-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/16/adapting-to-the-new-ai-landscape-and-planning-tomorrows-new-normal/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Making Sense of the AI Landscape"
+    excerpt: "How can leaders start to make sense of this vast array ... both specialized in AI and advanced robotics. He is also an independent advisor to the European Commission and member of the IEEE Global ..."
+    publishedDateTime: 2020-11-17T13:17:00Z
+    webUrl: "https://hbr.org/2020/11/making-sense-of-the-ai-landscape"
+    ampWebUrl: "https://hbr.org/amp/2020/11/making-sense-of-the-ai-landscape"
+    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/making-sense-of-the-ai-landscape"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 59
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2020/11/Nov20_17_498430921.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "qCF7HNHP4khlSJPhZ+zYy0NUOThgBegsZrZKE1mn91FrX/c1bJ2BRg6wRjNRjI8Dtq2coeYPOrt0CougRfa+vxllhrzf5CYMnibD2jtqDzpLUIPsgOTwFCBNjEmd7kOHZW+z4MFxjPdyXDvVh6ZJ2zSKKPwZ8zakfmrBHwYDCSuMsFMh6l4eeVeXSsfGfNGgMUCX+VDfkEYkPkXROgnQeqXqQ/zTr0DfygjB1lzVtr6aIi6t5z+aJ1IQzTdKnv5J8TQH4KtsagHK9mtRo2liK6T+WbtSqy45EXHzLTwXR8Ug2wcKYD8jir7R1sCrBkJ4CNagWORdZ7dPjpxEuExj0xWdvc0L7rk66q0npNrMELKkwujCV6eL2TaeJCaphzWJXU5SYheHoYYw8rHYPKdEmNE4x6MC/UPhGA71fsBJHCvw+hSbveqPPfNVWcGBdWOT3IpDtjm1Hz+wmIG8Vi4KYQPRmtiSEBiXwfQrFpuPGb0qEhowP1WTkdu7IBBzRxekh+hIBoxm63v87r1FFbRj6A==;6ifBKuPt+R7ti+2wJaW5dQ=="
 ---

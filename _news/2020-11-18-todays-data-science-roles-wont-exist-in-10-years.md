@@ -8,8 +8,8 @@ webUrl: "https://www.infoworld.com/article/3596894/todays-data-science-roles-won
 ampWebUrl: "https://www.infoworld.com/article/3596894/todays-data-science-roles-wont-exist-in-10-years.amp.html"
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3596894/todays-data-science-roles-wont-exist-in-10-years.amp.html"
 type: article
-quality: 76
-heat: 76
+quality: 78
+heat: 78
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - Microsoft AI
   - AI
   - AWS AI
+  - Machine Learning
 
 images:
   - url: "https://images.idgesg.net/images/article/2018/10/ai_machine-learning_analytics_data-scientist-100777422-large.jpg"

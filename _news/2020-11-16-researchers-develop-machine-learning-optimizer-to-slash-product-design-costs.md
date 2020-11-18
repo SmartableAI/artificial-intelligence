@@ -26,22 +26,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "Argonne researchers develop machine-learning optimizer to slash product design costs"
-    excerpt: "Argonne's new AI technique may fast track the design and simulation of engines and all types of other products. Computer simulations are a critical part of the product design optimization process, allowing engineers to test various configurations and select the best design among the many different alternatives."
-    publishedDateTime: 2020-11-13T21:54:00Z
-    webUrl: "https://www.eurekalert.org/features/doe/2020-11/dnl-ard111320.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 17
-    images:
-      - url: "https://media.eurekalert.org/doe/images/DOE_Banner_Ad_4.jpg"
-        width: 300
-        height: 250
-        isCached: true
-
 secured: "6HfsioFJuRebpSgsozyw2LOH0N4LdCMVu0EhCFm07jK5b0+KGkEPZoVtsxX/qu12AXOB60mIhfPrsrzPwQN3D6zU8KiTLM0jyPopY9vxrmxjhtidA26aA1QdDZaewuedGErN2U/Kjc817ZDLsriW3jDtEHFewEul1E2jSvTSBF1yoKJoxvuwEiQsEgvlv3xwtFfVSGZMAn2qBgAApLDxkc3gPQQqSHw5fZIdcAHaGDh4zDWICckxXxuXNSlQqHfxC5OC6JX6lsaYJYVWDbbkcgw+rHxY1G8lKFidaqciTPelPfGW8XEnTlHOJsRTOZIbKACHGc5tYMMEkEmjaT+Z5m1bXJ70nbu5DBytokO6nfz4fiZs0eKE2Fuh56aLHZ5yQp6jYGv6yvH8daLZRiuS+YZuqh66vJLIi2aEa4Pl9IwzS+Uqh0iW8Wh1h2X/4xo9Jy2YMKPpGCjcjRLJ8NZEi/RHvaXQz+6gtbC3VtXHfur4JTT2iMf/Dr+W3NTVCV1/vcyql4sAC7jxzP3ejoWg3Q==;k6DnEiw7FVULGfvXM5/yLA=="
 ---
 

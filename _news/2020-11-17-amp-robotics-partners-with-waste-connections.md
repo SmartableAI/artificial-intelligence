@@ -39,6 +39,22 @@ related:
         width: 1540
         height: 800
         isCached: true
+  - title: "Connecting the Classroom to Careers Through AI Explorations"
+    excerpt: "Artificial intelligence is an increasingly prevalent part of our everyday lives. From live-updating, turn-by-turn driving directions to responsive"
+    publishedDateTime: 2020-11-16T15:31:00Z
+    webUrl: "https://www.edsurge.com/news/2020-11-16-connecting-the-classroom-to-careers-through-ai-explorations"
+    ampWebUrl: "https://www.edsurge.com/amp/news/2020-11-16-connecting-the-classroom-to-careers-through-ai-explorations"
+    cdnAmpWebUrl: "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2020-11-16-connecting-the-classroom-to-careers-through-ai-explorations"
+    type: article
+    provider:
+      name: EdSurge
+      domain: edsurge.com
+    quality: 59
+    images:
+      - url: "https://edsurge.imgix.net/uploads/post/image/13694/ai_career_connections-1601659718.jpg?auto=compress%2Cformat&w=640&h=260&fit=crop"
+        width: 640
+        height: 260
+        isCached: true
   - title: "Pasadena’s Miso Robotics Partners With White Castle For Flippy, the Burger-Flipping Robot"
     excerpt: "After a successful pilot program, White Castle restaurant chain is partnering with Pasadena-based Miso Robotics to use that company’s robotic fry cook at 10 locations. Terms of the deal were not disclosed."
     publishedDateTime: 2020-11-16T13:21:00Z

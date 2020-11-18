@@ -47,6 +47,20 @@ related:
         width: 680
         height: 453
         isCached: true
+  - title: "5G chip company EdgeQ raises $51M"
+    excerpt: "Startup EdgeQ said it raised $51 million in total funding from the likes of Threshold Ventures, Fusion Fund and AME Cloud Ventures."
+    publishedDateTime: 2020-11-17T00:00:00Z
+    webUrl: "https://www.lightreading.com/the-edge/5g-chip-company-edgeq-raises-$51m/d/d-id/765507"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 54
+    images:
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
+        height: 600
+        isCached: true
   - title: "EdgeQ exits stealth with $51M to fuse 5G and AI at the edge"
     excerpt: "G systems-on-chip startup EdgeQ Inc. exited stealth today armed with $51 million in funding that includes $38.5 million from a Series A round of investment. Threshold Ventures, Fusion Fund, Yahoo! co-founder Jerry Yang (AME Cloud Ventures),"
     publishedDateTime: 2020-11-18T00:23:00Z
@@ -71,6 +85,6 @@ related:
       domain: datanami.com
     quality: 34
 
-secured: "hcs+HzZHLZtKI3ch2c2j+L1fhdx81SB+kZDEKYVvumdroryxtp6VHUVebHSqixsQf9dZ48pVHY/KTAuiQDzaaf6gJvGI2d6GmdJ4t7MZMO4PljLqQTMhAjHJpUDtwjPYMH7U+c8bINiKsb01wxOwejpmt23vW6iiTAs+g9EXl/rFe6IRn3XKXzXksLZf8TvxNH65NCavsHqJg/x45LCLN5IFcYzTfgrTyX596JPW7a09v/Mjz1k+YtCF2xITRQhKIHgbDgdqN7YvZoSdwOSfw3u/tef3t7KKDlzLnqZxAM0QZYIh6i7PSVYEz8Hcwxfj6gC9OSbqrtNVh6T6c6jgtNvcy3fDxc4o+Ji9BuOglbs=;IhVAeupdbjJRdHYrkLDlVw=="
+secured: "qNNUcggBuFGXm81tcosczYWFs4oqF9G2BUw18XBmEA9QHST6P0IZy0ipMJBkTKLlQel+DErG4WEeCO+AJmKoLD3R7EIMsw9JM0ChkDeop84cMBWKcSSmQbhROrNfB/f43Bhh7YuIJPsx2BCjfRE3JCiXxmcil0/lhlPGyX6VMfThuGZj+2xTIF2r2L+VN/yTDCz3ciDHRK5kW+7Jcf/883jw5hpHKrJBeACVC875sRMzjrKt/Q2ynmUWQ3FXAizVi4TKGCxMf/AujYpKhYnRmZvLiYB+/xT9P7ioS2yisDgYC/pSJgkotngw9pwqWQFx2b3fPDUU4LBfny4RbQhX/SBmQpB7OqW7e56+t6XPkly784EckMstF54BdNrqmO+443KjNSUA6ZdPFKSP7kH8A4IcYupdw13o55W0EFr+Ht0fXiRXkbYdB8muDUCQ9ObpUhXD8dZVFzy6VIes4DIkTgPcbsChwjLdx61v1/FG63GTRmbqn84uxwhjGwGKL9ox8JpILMaOH9b0I+rdLHLXAw==;UvCK9Whg+EpQjfI4QJJtQw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T1PP"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T1PP"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "This $500 LIDAR wants to give self-driving cars and ADAS better vision"
-    excerpt: "A $500 LIDAR sensor for ADAS and autonomous cars could help take the technology mainstream, giving new vehicles an extra sense that some driverless experts think will be essential if Level 4 and 5"
-    publishedDateTime: 2020-11-13T21:15:00Z
-    webUrl: "https://www.slashgear.com/velodyne-500usd-lidar-sensor-solid-state-market-competitive-roadmap-13647261/"
-    ampWebUrl: "https://www.slashgear.com/velodyne-500usd-lidar-sensor-solid-state-market-competitive-roadmap-13647261/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/velodyne-500usd-lidar-sensor-solid-state-market-competitive-roadmap-13647261/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 74
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/11/Velodyne_Velarray_H800_Sensor.jpg"
-        width: 1587
-        height: 992
-        isCached: true
   - title: "Jaguar Land Rover to open a hub for testing self-driving cars"
     excerpt: "Jaguar Land Rover (JLR) is taking its autonomous car development to another level, with the announcement of a new dedicated 'city' hub where it can carry out real-world testing of its self-driving ve"
     publishedDateTime: 2020-11-17T14:04:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologynetworks.com/informatics/news/amp/bringing-dee
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/bringing-deep-learning-to-the-internet-of-things-342878"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 640
     height: 360
     isCached: true
-
-related:
-  - title: "System brings deep learning to 'internet of things' devices"
-    excerpt: "A new system brings machine learning to microcontrollers. The advance could enhance the function and security of devices connected to the Internet of Things (IoT)."
-    publishedDateTime: 2020-11-13T21:39:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/11/201113154627.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "SuHExn429lgb1eDfsxIM0HqSaX0PVm4iDJC7Wl4T/YGtTcHQz3Yp8ffSJWHsWLZLteAFgbUkuRGEYoGglPgoKWOyg6jAdW0dziTtjxOOB9FBT/hR6OEv8oVDTQnBcxCd5FHWxP6MkeeIoYH/vq15QRAnelF4LsdPBIeCR3t3CJbcEWXWirq1xI1ZnNxgCe3qQxf2BIPt1ZtipJqvjNWADmZ85UG9ikMrHmS3Ty/zgVcosV7doINNTSy5uw9VERe74Y5f8AxfFWp4AOcxEmjlz31WN56zsZK7Q0n+xgzBWGXJMWG+wJGhJNGQtoCwKQgXUqe2Y9ZG8zLp43RhjQiESmaKNjImMneC8I6rQ44q1p5JOFCEGCpWEmH6p4fxEmYreqlB5kQrSyg+cwN9eDAQGEF6/DahlTlL87VohfmrN/TH9BkPvlhBFrwgMy6KZJPh+U+4pNhvcW0FrzVokiqT11eZ3S2TCnkwJoMsFfdyXl4TCw1NZxccqPH2FBfzNByIOza7SOhuzXVe0ezpkXWaEw==;JHEtCAn6Xx4iDgo/hD9s5Q=="
 ---

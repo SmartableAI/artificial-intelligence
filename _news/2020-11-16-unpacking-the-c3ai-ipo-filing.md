@@ -46,15 +46,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "Enterprise AI software maker C3.ai files for a $100 million IPO"
-    excerpt: "C3.ai, which provides SaaS applications for the deployment of enterprise AI applications, filed on Friday with the SEC to raise up to $100 million in an initial public offering. The company provides SaaS applications that enable the rapid deployment of enterprise-scale AI applications on Azure,"
-    publishedDateTime: 2020-11-13T22:26:00Z
-    webUrl: "https://www.nasdaq.com/articles/enterprise-ai-software-maker-c3.ai-files-for-a-%24100-million-ipo-2020-11-13"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
 
 secured: "r+DX53gsABsv8sRDItKUzHxx6+iEWi+U7IDtLVLSuf21kldja+E34v/hosUXjqMFSFdPeCKfTFkOhuAMVVwruvn3wgklRm/5w+p5FbVumNzL2dSy7bVAVMy9Ah6c1laeMgb2g06dprSSBDxwsCR/+qyb5rdlhHVR+S85tdhIP847BUOXXAQx/r4PFw3jsvVnjnu6NUIGEEMe1pRUHLcHfz7sZjJ/YvjO4jsMBiUmkiv8JroSxtY6/9if1IziP3/9IkQ+7CV6p65Uwzots8kA4wtiIKZg3YBox2PDKPcB/Guf1gnc+aHfhpyiQbxBOOJubPZsUAbXLOxktE1EMv51suAfXcPZBdWaeqPNcD6Q/Dg=;LY2SMM7BbPkTGkCRqLxY7A=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2020/11/17/women-in-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2020/11/17/women-in-ai-to-watch/amp/"
 type: article
 quality: 87
-heat: 138
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,79 +30,35 @@ images:
     isCached: true
 
 related:
-  - title: "AI, Machine Learning to Aid in Airport Sanitation Efforts"
-    excerpt: "The Albany International Airport in New York has partnered with General Electric on technology that helps sanitation crews monitor cleanliness and frequently touched surfaces throughout the facility."
-    publishedDateTime: 2020-11-13T22:32:00Z
-    webUrl: "https://www.govtech.com/health/Albany-NY-Airport-Updates-App-with-Health-Sanitation-Measures.html"
-    ampWebUrl: "https://www.govtech.com/health/Albany-NY-Airport-Updates-App-with-Health-Sanitation-Measures.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/health/Albany-NY-Airport-Updates-App-with-Health-Sanitation-Measures.html?AMP"
+  - title: "How to tell the difference between AI and BS"
+    excerpt: "Artificial intelligence is as important as electricity, indoor plumbing, and the internet to modern society. In short: it would be extremely difficult to live without it now. But it’s also, arguably,"
+    publishedDateTime: 2020-11-16T20:44:00Z
+    webUrl: "https://thenextweb.com/neural/2020/11/16/how-to-tell-the-difference-between-ai-and-bs/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/11/16/how-to-tell-the-difference-between-ai-and-bs/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/16/how-to-tell-the-difference-between-ai-and-bs/amp/"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 74
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
     images:
-      - url: "https://media2.govtech.com/images/shutterstock_530657836.jpg"
-        width: 940
-        height: 627
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/03/magician_robot-796x417.jpg"
+        width: 796
+        height: 417
         isCached: true
-  - title: "The way we train AI is fundamentally flawed"
-    excerpt: "It’s no secret that machine-learning models tuned and tweaked to near-perfect performance in the lab often fail in real settings. This is typically put down to a mismatch between the data the AI was trained and tested on and the data it encounters in the world,"
-    publishedDateTime: 2020-11-18T11:35:00Z
-    webUrl: "https://www.technologyreview.com/2020/11/18/1012234/training-machine-learning-broken-real-world-heath-nlp-computer-vision/"
-    ampWebUrl: "https://www.technologyreview.com/2020/11/18/1012234/training-machine-learning-broken-real-world-heath-nlp-computer-vision/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/11/18/1012234/training-machine-learning-broken-real-world-heath-nlp-computer-vision/amp/"
+  - title: "How to Make Artificial Intelligence Less Biased"
+    excerpt: "As artificial intelligence spreads into more areas of public and private life, one thing has become abundantly clear: It can be just as biased as we are. AI systems have been shown to be less accurate at identifying the faces of dark-skinned women,"
+    publishedDateTime: 2020-11-18T14:51:00Z
+    webUrl: "https://www.predictiveanalyticsworld.com/machinelearningtimes/how-to-make-artificial-intelligence-less-biased/11857/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/11/mirrors.jpg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "New project uses artificial intelligence in drug development"
-    excerpt: "In health care, artificial intelligence is quite normal: it is used, for example, as an aid in making diagnoses. However, artificial intelligence is"
-    publishedDateTime: 2020-11-16T12:06:00Z
-    webUrl: "https://www.miragenews.com/new-project-uses-artificial-intelligence-in-drug-development/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
+      name: Predictive Analytics World
+      domain: predictiveanalyticsworld.com
     quality: 39
     images:
-      - url: "https://www.universiteitleiden.nl/binaries/content/gallery/ul2/main-images/science/liacs/aidd.jpg/aidd.jpg/d880x320"
-        width: 880
-        height: 319
-        isCached: true
-  - title: "U.S. Military Wants to Bring Allies into AI Fold"
-    excerpt: "The Defense Department has kicked off a new initiative to bring like-minded nations together to work on AI policies and capabilities. In September, the Pentagon’s Joint Artificial Intelligence Center hosted the inaugural AI Partnership for Defense meeting with military officials from 13 nations including: Australia,"
-    publishedDateTime: 2020-11-15T22:30:00Z
-    webUrl: "https://www.nationaldefensemagazine.org/articles/2020/11/16/us-military-wants-to-bring-allies-into-ai-fold"
-    type: article
-    provider:
-      name: National Defense Magazine
-      domain: nationaldefensemagazine.org
-    quality: 39
-    images:
-      - url: "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2020/11/istock-1203693985.ashx?h=500&w=878&la=en&hash=6AF05AFD5D458A7BE0DEF34C4ED4B6A6751D7B9C"
-        width: 878
-        height: 500
-        isCached: true
-  - title: "The AI Telegram bot that abused women is still out of control"
-    excerpt: "A bot automated deepfake abuse online. Researchers say their warnings have been ignored and Telegram has failed to removed it"
-    publishedDateTime: 2020-11-17T06:15:00Z
-    webUrl: "https://www.wired.co.uk/article/porn-bots-in-telegram-deepfake"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 39
-    images:
-      - url: "https://wi-images.condecdn.net/image/oQ7pQBojymp/crop/1440/0.5235602094240838/f/wired-telegrambot.jpg"
-        width: 1440
-        height: 753
+      - url: "https://www.predictiveanalyticsworld.com/machinelearningtimes/wp-content/uploads/2020/10/MSDS_270x270_LM.gif"
+        width: 270
+        height: 270
         isCached: true
 
 secured: "0azCPlpmFJ9QZ6MogfD0OSwUsCVXai0+6qUAuLlzp5x0C469dkRQrtBPh0Eie/5BdUWeyn80EwZUlT2+AVKaAZLn1XwD3j4kvu+toNjL6VGk3NRTQL25XzU9R7z2AlXYuvcYrowtqWsh1yxgtWFfaj2xPckbk5QixN9k7ota6Cd3chozi858oU+QLTiVKNm0dSi87lbaMG3Pc7ZJEnU/xJN92r70/dYGQtdlT/iSmEgjCyjuQBMVZYqXBLN5JbqOGHU4JFYeGwQl/NO4NCiHJo52zPiKTCMv3MdKYpmwWFIOGAJsRfY0exNF3iHmngFBAGy4HvKR19zL/a7/kDLSKuOEdPPOuu/k0wg67xiZ7u0=;1TkJCLaWKMRIJXoE8oczaQ=="

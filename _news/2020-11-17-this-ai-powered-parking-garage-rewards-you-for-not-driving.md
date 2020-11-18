@@ -40,6 +40,22 @@ related:
         width: 500
         height: 500
         isCached: true
+  - title: "How to make money with AI in 2030"
+    excerpt: "Research in artificial intelligence is turning to money-making mass applications for consumers in the physical world. The next ten years could be crucial."
+    publishedDateTime: 2020-11-18T13:33:00Z
+    webUrl: "https://www.dw.com/en/how-to-make-money-with-ai-in-2030/a-55647845"
+    ampWebUrl: "https://amp.dw.com/en/how-to-make-money-with-ai-in-2030/a-55647845"
+    cdnAmpWebUrl: "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/how-to-make-money-with-ai-in-2030/a-55647845"
+    type: article
+    provider:
+      name: Deutsche Welle
+      domain: dw.com
+    quality: 59
+    images:
+      - url: "https://www.dw.com/image/54879435_403.jpg"
+        width: 940
+        height: 529
+        isCached: true
   - title: "Air Force asks Descartes Labs for sensor fusion technology for targeting with artificial intelligence (AI)"
     excerpt: "Descartes Labs offers geospatial analytics technology, which uses AI and computer vision to fuse sensor data like satellite imagery for tactical use."
     publishedDateTime: 2020-11-16T07:41:00Z

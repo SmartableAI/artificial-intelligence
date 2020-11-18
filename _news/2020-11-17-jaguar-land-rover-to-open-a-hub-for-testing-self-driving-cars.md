@@ -41,22 +41,6 @@ related:
         width: 818
         height: 545
         isCached: true
-  - title: "This $500 LIDAR wants to give self-driving cars and ADAS better vision"
-    excerpt: "A $500 LIDAR sensor for ADAS and autonomous cars could help take the technology mainstream, giving new vehicles an extra sense that some driverless experts think will be essential if Level 4 and 5"
-    publishedDateTime: 2020-11-13T21:15:00Z
-    webUrl: "https://www.slashgear.com/velodyne-500usd-lidar-sensor-solid-state-market-competitive-roadmap-13647261/"
-    ampWebUrl: "https://www.slashgear.com/velodyne-500usd-lidar-sensor-solid-state-market-competitive-roadmap-13647261/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/velodyne-500usd-lidar-sensor-solid-state-market-competitive-roadmap-13647261/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 74
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/11/Velodyne_Velarray_H800_Sensor.jpg"
-        width: 1587
-        height: 992
-        isCached: true
 
 secured: "GFdN742UiSJZFWqThVn2eVdDZ2wU8a2VViNjd3KiHjpkxhJHS4wMCA4GlEmzQ4WJmqAPqdXEUbfBEgTDajuXTTQX5cXW7avE1vxg4cdjV/iLZy0MNlD4eUxQkKuHt0nU00GHqJ3hISluTmXV2jUI9+HFfS/YEIVyJyJ5OHoVgbFjeTpmHUmzRHwib9Lcji0LVhEdhfkhrooey4zHor3tOQ9Zks0OnGLl3zmmH5eSv1zlWN3L35mZk9KgTqVJpEAJTw3RJT638R1cKc3LaESihJ6HalspXZqX7pseCkD4rUkNHJzEc0hdA6+jamBnghZ+Q5MxNqL5b0HUikhWVtNhCl7r15VczaOojewfkwpHQ08=;qO2lGVhDzltu2ORwUkZq3A=="
 ---

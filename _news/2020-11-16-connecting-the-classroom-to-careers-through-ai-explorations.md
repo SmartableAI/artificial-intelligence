@@ -27,51 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "From the Data and AI Expert Labs"
-    excerpt: "IBM&#8217;s Data and AI Expert Labs help guide organizations on their AI journeys. Expert Labs consultants represent years of data and AI expertise and offer best practices and business strategies to meet each organization&#8217;s unique needs. Last time, we covered the simple formula we use to help"
-    publishedDateTime: 2020-11-13T22:58:49Z
-    webUrl: "https://www.ibm.com/blogs/watson/2020/11/from-the-data-and-ai-expert-labs-2/"
+  - title: "AMP Robotics Partners with Waste Connections to Deploy AI-Guided Recycling Robots"
+    excerpt: "DENVER - AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI) and robotics used to recover recyclables reclaimed as raw materials for the global supply chain, has signed a long-term agreement with Waste Connections,"
+    publishedDateTime: 2020-11-17T14:27:00Z
+    webUrl: "https://www.waste360.com/recycling/amp-robotics-partners-waste-connections-deploy-ai-guided-recycling-robots"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 119
+      name: Waste360
+      domain: waste360.com
+    quality: 64
     images:
-      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/11/2020_08_28_Blog_DataAndAIExpertLabs_Leadspace_V2.jpg"
-        width: 990
-        height: 498
+      - url: "https://www.waste360.com/sites/waste360.com/files/amproboticsfeat.png"
+        width: 1540
+        height: 800
         isCached: true
-  - title: "How to tell the difference between AI and BS"
-    excerpt: "Artificial intelligence is as important as electricity, indoor plumbing, and the internet to modern society. In short: it would be extremely difficult to live without it now. But it’s also, arguably,"
-    publishedDateTime: 2020-11-16T20:44:00Z
-    webUrl: "https://thenextweb.com/neural/2020/11/16/how-to-tell-the-difference-between-ai-and-bs/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/11/16/how-to-tell-the-difference-between-ai-and-bs/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/16/how-to-tell-the-difference-between-ai-and-bs/amp/"
+  - title: "Amp Robotics partners with Waste Connections"
+    excerpt: "Waste Connections plans to deploy the systems on container, fiber and residue lines across numerous material recovery facilities."
+    publishedDateTime: 2020-11-16T22:21:00Z
+    webUrl: "https://www.wastetodaymagazine.com/article/amp-robotics-partners-waste-connections-ai/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
+      name: Waste Today
+      domain: wastetodaymagazine.com
+    quality: 54
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/03/magician_robot-796x417.jpg"
-        width: 796
-        height: 417
+      - url: "http://www.wastetodaymagazine.com/fileuploads/image/2020/11/16/amp%20logo%20web.jpg?w=736&h=414&mode=crop"
+        width: 736
+        height: 414
         isCached: true
-  - title: "Making Sense of the AI Landscape"
-    excerpt: "How can leaders start to make sense of this vast array ... both specialized in AI and advanced robotics. He is also an independent advisor to the European Commission and member of the IEEE Global ..."
-    publishedDateTime: 2020-11-16T23:59:00Z
-    webUrl: "https://hbr.org/2020/11/making-sense-of-the-ai-landscape?ab=hero-subleft-1"
-    ampWebUrl: "https://hbr.org/amp/2020/11/making-sense-of-the-ai-landscape"
-    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/making-sense-of-the-ai-landscape"
+  - title: "Pasadena’s Miso Robotics Partners With White Castle For Flippy, the Burger-Flipping Robot"
+    excerpt: "After a successful pilot program, White Castle restaurant chain is partnering with Pasadena-based Miso Robotics to use that company’s robotic fry cook at 10 locations. Terms of the deal were not disclosed."
+    publishedDateTime: 2020-11-16T13:21:00Z
+    webUrl: "https://www.pasadenanow.com/main/pasadenas-miso-robotics-partners-with-white-castle-for-flippy-the-burger-flipping-robot/"
     type: article
     provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 61
+      name: Pasadena Now
+      domain: pasadenanow.com
+    quality: 45
     images:
-      - url: "https://hbr.org/resources/images/article_assets/2020/11/Nov20_17_498430921.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.pasadenanow.com/main/wp-content/uploads/2020/11/33984633_10156379948463252_4260405393521377280_n-740x400.jpg"
+        width: 740
+        height: 400
         isCached: true
 
 secured: "Y+WymsaYg6XZUEGm5w9uAFNbEqWshBj0OSHS4Yxo0wJyfXKEeYw+bir5pXHzNpYJwCyqTLyt7UrHFStbcriL6hHw8ejNYS6EbkJw2X/Oez2X7oXvQtp8E/L4//J5GB0CjiMSYVY5zF2vOAKBRK2QxCbH1HqOOQrGCXYaZZyskbRdh6bNdbvzhY9QOdNIJ8WIdPUNjKp5gZ4aY/F86QYEYXXMZOIJrzNwdJWVaCHIxIEtpU7YvdBHx3VMv59+VEF6Zq5kOEh13Fgjvg/0zpTJLQs6kJBjlR8ZsJsXNZu2p7UhwZ/k8I+4hWfTLi/PD3m8YsGzsRsJjOgDf75Jt2UsQ/YiEr+KFBO7100dpzg0BZ2ce9EgDEfiBbkimPQWY5fhwX4zA6t4K/Ux6YXBBTqjMEX2nQ4c1d1SyxbqLGGr0eo7jYN4exxqvTXUzJ155e5bev71Y5jAiF2kBA3uFeRYPtdGhxCblSLw0Ohncf2NsEUXa/ix5d4WWO4AjpsFUuDXYFJN5AGlYDV7SMqh+5GsLg==;sCSSpjqjScGhvVahnJJdtg=="

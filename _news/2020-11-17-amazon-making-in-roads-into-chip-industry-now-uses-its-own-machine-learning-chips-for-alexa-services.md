@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/aws-inferentia-alexa-machine-learnin
 webUrl: "https://analyticsindiamag.com/aws-inferentia-alexa-machine-learning-chips-amazon/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 2560
     height: 1707
     isCached: true
-
-related:
-  - title: "Alexa now runs on more powerful cloud instances, opening the door for complex new features"
-    excerpt: "In addition to the Alexa team, Amazon Rekognition is also adopting the new chip as running models such as object classification on Inf1 instances resulted in eight times lower latency and doubled ..."
-    publishedDateTime: 2020-11-13T23:04:00Z
-    webUrl: "https://www.techradar.com/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features"
-    ampWebUrl: "https://www.techradar.com/amp/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 64
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/cm2hxBobQuAFb4Bj3YRJQU-1200-80.jpg"
-        width: 970
-        height: 546
-        isCached: true
 
 secured: "xneD4IsD1UkvEpvJr/f8f/BFJFkHCRh/Ds9ybzYApkRHKFfATzczBKIAuFLLrNnXmJcDW0DshnocOQQaCJyAuJAl5/vLiZkGWuajnkvNM/RQeIcYyjCquV7Z+liee7+j9sc8tRggXS71Ya169l1T5thPWUjB7pMBPI1Cnljci4YxgPx8kjFGKg0f6Hr5JRUOdzCLslKawQ0T9yfP5jT/iY6909jeZB5j4CARsK46O/wEbnqSxIGWKuMOKe2M1sz5Ul/nBcVMmFuYpGppcDEbiYTlJXT03KgqC9dqwI3XwTLERm8qRr230Bht83Y2tl0SZLGz9TUlQHx79IpkFzBZ5uhRqTGlMQitsH9fXcSokrcZSiEuE3/XS79ALWQB6LOA2NYQ8qSRwe+l3J72at7LxLT9I3gLo5v1CZ2iYEIFjrchepPYHIFoomQliNLNE0qIqYO0+OpKlAMyvrsATy/S2eFQB/rIEGwr+506V4Mu8ttS3sA2G3wjmBH21VSdYlnzjNmW5TbGr4lcQsdCT7FSAg==;QH3RxD1z7dC8kC6qfplyLw=="
 ---

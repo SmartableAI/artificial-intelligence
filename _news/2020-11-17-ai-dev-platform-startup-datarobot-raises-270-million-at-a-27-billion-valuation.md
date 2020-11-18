@@ -31,54 +31,40 @@ images:
     isCached: true
 
 related:
-  - title: "Hover raises $60 million to streamline home inspections with computer vision"
-    excerpt: "Hover, a startup developing AI-powered apps that create 3D models of homes from smartphone photos, today raised $60 million. The 200-employee company says the proceeds will be used to deepen ..."
-    publishedDateTime: 2020-11-17T14:00:00Z
-    webUrl: "https://venturebeat.com/2020/11/17/hover-raises-60-million-to-streamline-home-inspections-with-computer-vision/"
-    ampWebUrl: "https://venturebeat.com/2020/11/17/hover-raises-60-million-to-streamline-home-inspections-with-computer-vision/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/17/hover-raises-60-million-to-streamline-home-inspections-with-computer-vision/amp/"
+  - title: "DataRobot raises $270m, looks toward IPO"
+    excerpt: "DataRobot intends to use the money “to accelerate our rapid growth globally,” said Dan Wright, the company’s president and chief operating officer. “Modern enterprises are generating and capturing more data than ever before,"
+    publishedDateTime: 2020-11-17T16:57:00Z
+    webUrl: "https://www.bostonglobe.com/2020/11/17/business/datarobot-raises-270m-looks-toward-ipo/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/11/17/business/datarobot-raises-270m-looks-toward-ipo/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/11/17/business/datarobot-raises-270m-looks-toward-ipo/?outputType=amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 101
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/10/2c7ec2b7-e7a5-49c4-b46e-f5cfb66f61f7-e1603297784170.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "AliveCor raises $65 million to detect heart problems with AI"
-    excerpt: "AliveCor, a startup developing ECG products that detect heart issues, has raised $65 million in venture capital."
-    publishedDateTime: 2020-11-17T00:34:00Z
-    webUrl: "https://venturebeat.com/2020/11/16/alivecor-raises-65-million-to-detect-heart-problems-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/11/16/alivecor-raises-65-million-to-detect-heart-problems-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/16/alivecor-raises-65-million-to-detect-heart-problems-with-ai/amp/"
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 137
+  - title: "Machine learning automation startup DataRobot raises $270M ahead of a likely IPO"
+    excerpt: "Machine learning automation startup DataRobot Inc. has raised $270 million in new funding on a $2.7 billion valuation in what the company describes as “pre-IPO funding,” suggesting that it may have plans to go public in the near future."
+    publishedDateTime: 2020-11-18T02:03:00Z
+    webUrl: "https://siliconangle.com/2020/11/17/machine-learning-automation-startup-datarobot-raises-270m-ahead-likely-ipo/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 66
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/03/alivecor-fingers-kardia-iphone-e1605569871551.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2018/10/37743329_2165804907035213_7133156086915268608_o-1.jpg"
+        width: 1980
+        height: 1320
         isCached: true
-  - title: "Ride Vision raises $7 million for AI that alerts motorcycle riders to collision threats"
-    excerpt: "Ride Vision, a startup developing a product that alerts motorcycle riders to collision threats, raised $7 million in funding."
-    publishedDateTime: 2020-11-16T13:02:00Z
-    webUrl: "https://venturebeat.com/2020/11/16/ride-vision-raises-7-million-for-ai-that-alerts-motorcycle-riders-to-collision-threats/"
-    ampWebUrl: "https://venturebeat.com/2020/11/16/ride-vision-raises-7-million-for-ai-that-alerts-motorcycle-riders-to-collision-threats/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/16/ride-vision-raises-7-million-for-ai-that-alerts-motorcycle-riders-to-collision-threats/amp/"
+  - title: "Enterprise AI Software Startup DataRobot Raises $270 Million in Pre-IPO Round"
+    excerpt: "DataRobot, an enterprise artificial-intelligence platform startup, on Tuesday said it raised $270 million in a pre-initial public offering funding round led by Altimeter Capital. DataRobot said the round values the Boston company at more than $2."
+    publishedDateTime: 2020-11-17T10:04:00Z
+    webUrl: "https://www.morningstar.com/news/dow-jones/202011176961/enterprise-ai-software-startup-datarobot-raises-270-million-in-pre-ipo-round"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 79
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/11/Camera-Front-e1604615189107.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 31
 
 secured: "7NHwXjIRTlgk6KeMQI7DQhbpclfUJvIAb1zRGgjyjjTRasrg3RAzMjEGMak+bwz2y8NxuSZ8ZINfFdjKDBqaVQZS0WPDnMSJvMiQviOmAhhwJD4r/uOqnb92/uNdcwXq1DxcAoV4kxvIpCex7qOHBWGOX6D1DWvmPNckyyZXBYCcHXHXy5kH8wc8rVHHEkIVmQp2cG6zW9m11ePwpLodQFuHx+3E0fjznixsADwWb01p64NgpVRL0cguzs1OShoyaCXb1E2Iyqi0QGHeAilMaRseGY171LXsI9lKxdPH9C2Fd0cRwRsV8VvuPp8ClyZcYZERaBkQLFPR7bcpFoq5dsIYIY3CRAkgQOKJuO4b8QjcIepldZMNt8QlC08fpyb8ACkCOne2fuZJHMv2NxVvp1RIzjPQtPj7QVKODO3Nc1cm9L12JwW+R2bqqvhG1Uq+nmcnJdx2qVXTDknOPiiL9QHNsG4caDFAmNl1ONd6jw3v0AyMevpmZjBnYXcm3LyPwCQy4MIT//ROT4gARcw7Dg==;wJJh+p1I69ayb9hkKm+UFQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thestreet.com/.amp-ipo/ipo/news/canaan-bitcoin-mining-ai
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-ipo/ipo/news/canaan-bitcoin-mining-ai"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "New project uses artificial intelligence in drug development"
+    excerpt: "In health care, artificial intelligence is quite normal: it is used, for example, as an aid in making diagnoses. However, artificial intelligence is"
+    publishedDateTime: 2020-11-16T12:06:00Z
+    webUrl: "https://www.miragenews.com/new-project-uses-artificial-intelligence-in-drug-development/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 39
+    images:
+      - url: "https://www.universiteitleiden.nl/binaries/content/gallery/ul2/main-images/science/liacs/aidd.jpg/aidd.jpg/d880x320"
+        width: 880
+        height: 319
+        isCached: true
   - title: "Canaan Profits From Bitcoin's Rise As Its AI Segment Waits"
     excerpt: "Canaan went public in November 2019, raising $90 million in a U.S. IPO. The firm sells Bitcoin mining chips and related equipment as well as edge computing optimized AI processors. CAN's AI business waits for a new chip design but its Bitcoin business should see demand increase as the price of Bitcoin shows continued strength."
     publishedDateTime: 2020-11-17T22:55:00Z

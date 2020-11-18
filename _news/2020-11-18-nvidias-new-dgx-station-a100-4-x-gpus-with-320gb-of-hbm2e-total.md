@@ -217,6 +217,15 @@ related:
         width: 1260
         height: 708
         isCached: true
+  - title: "Lenovo Claims an HPC First for Liquid-Cooled Nvidia A100 GPU Servers"
+    excerpt: "N V2 server, which the company said is the first direct-to-node (DTN) liquid-cooled server for Nvidia A100 Tensor Core GPUs. It includes four board-mounted A100 GPUs in a 1U system delivering up to 3PFLOPS of compute performance in a single rack."
+    publishedDateTime: 2020-11-18T14:02:00Z
+    webUrl: "https://insidehpc.com/2020/11/lenovo-claims-an-hpc-first-for-liquid-cooled-nvidia-a100-gpu-servers/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 34
   - title: "Nvidia announces 80GB AI supercomputing GPU; NVDA stock reverses earlier losses"
     excerpt: "Nvidia (NASDAQ:NVDA) announces the DGX Station A100 80GB GPU, which powers the HGX AI supercomputing platform.The new A100 doubles the A100 40GB GPU's high-bandwidth memory and delivers over 2TB/second of memory bandwidth."
     publishedDateTime: 2020-11-16T16:05:00Z

@@ -34,7 +34,7 @@ related:
   - title: "Don’t fear the robots, and other lessons from a study of the digital economy"
     excerpt: "A task force assembled by the Massachusetts Institute of Technology has completed an extraordinarily comprehensive effort to examine how technology has changed, and will change, the work force."
     publishedDateTime: 2020-11-18T12:40:00Z
-    webUrl: "https://www.bizjournals.com/charlotte/news/2020/11/18/don-t-fear-the-robots-and-other-lessons.html"
+    webUrl: "https://www.bizjournals.com/columbus/news/2020/11/18/don-t-fear-the-robots-and-other-lessons.html"
     type: article
     provider:
       name: The Business Journals

@@ -225,6 +225,15 @@ related:
         width: 1260
         height: 708
         isCached: true
+  - title: "Lenovo Claims an HPC First for Liquid-Cooled Nvidia A100 GPU Servers"
+    excerpt: "N V2 server, which the company said is the first direct-to-node (DTN) liquid-cooled server for Nvidia A100 Tensor Core GPUs. It includes four board-mounted A100 GPUs in a 1U system delivering up to 3PFLOPS of compute performance in a single rack."
+    publishedDateTime: 2020-11-18T14:02:00Z
+    webUrl: "https://insidehpc.com/2020/11/lenovo-claims-an-hpc-first-for-liquid-cooled-nvidia-a100-gpu-servers/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 34
 
 secured: "IPeGtHhmT2Yql2Bn+gg/8HnJA4vnKbRYyJeF/JRFvlUmApYWwPHQN6R+ZfnJtcOxq5ZmGBuoOG70uAmJtRfX80oL6i3ugpTBU6kYyaanTSvBwv4jHmazL6+HUtkXWtTRLTzQnB64n/mjo669cWjrazOlU3OYYbT5XjsGBktA2uY1KFG2ZKoRq/tcBhSxEUV3msDqavevI5ea5DAekRbqXFvWr224AFvKWF498eHJ7pd+/k6SgrKgKTmKFQRZEsu8ah2j5OeDMPwQsC8hZt4i8mHSzTFGFTMpiKh39fbj4xXBFT8X1CYslSHU8eyNbqMLJwuV/m4ZA/vuGRAXU1XzyYZ8LlDpqvIpgUh5gE2/mH4=;MNJxxXrY2e+64xPK0iYJ9Q=="
 ---

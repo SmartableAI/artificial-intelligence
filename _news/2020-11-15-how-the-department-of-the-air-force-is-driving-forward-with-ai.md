@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/11/14/how-the-depar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/11/14/how-the-department-of-the-air-force-is-driving-forward-with-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "How to make money with AI in 2030"
+    excerpt: "Research in artificial intelligence is turning to money-making mass applications for consumers in the physical world. The next ten years could be crucial."
+    publishedDateTime: 2020-11-18T13:33:00Z
+    webUrl: "https://www.dw.com/en/how-to-make-money-with-ai-in-2030/a-55647845"
+    ampWebUrl: "https://amp.dw.com/en/how-to-make-money-with-ai-in-2030/a-55647845"
+    cdnAmpWebUrl: "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/how-to-make-money-with-ai-in-2030/a-55647845"
+    type: article
+    provider:
+      name: Deutsche Welle
+      domain: dw.com
+    quality: 59
+    images:
+      - url: "https://www.dw.com/image/54879435_403.jpg"
+        width: 940
+        height: 529
+        isCached: true
   - title: "This AI-powered parking garage rewards you for not driving"
     excerpt: "The smart city of the future is materializing in the parking garage of an office building in Munich. With a new test program powered by artificial intelligence, or AI, the parking garage can communicate with the drivers who use it."
     publishedDateTime: 2020-11-17T06:00:00Z

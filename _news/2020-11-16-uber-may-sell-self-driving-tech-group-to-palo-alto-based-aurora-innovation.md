@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Uber in talks to sell ATG self-driving unit to Aurora"
-    excerpt: "Uber’s self-driving car unit, Uber Advanced Technologies Group, was valued at $7.25 billion following a $1 billion investment from Toyota, DENSO and Softbank’s Vision Fund. Now, it’s up for sale and a competing autonomous vehicle technology startup is in talks with Uber to buy"
-    publishedDateTime: 2020-11-13T22:03:00Z
-    webUrl: "https://techcrunch.com/2020/11/13/uber-in-talks-to-sell-atg-self-driving-unit-to-aurora/"
-    ampWebUrl: "https://techcrunch.com/2020/11/13/uber-in-talks-to-sell-atg-self-driving-unit-to-aurora/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/13/uber-in-talks-to-sell-atg-self-driving-unit-to-aurora/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1142303764.jpg?w=1024"
-        width: 1024
-        height: 651
-        isCached: true
   - title: "Uber in talks to sell its ATG self-driving unit to Aurora - source"
     excerpt: "Uber Technologies Inc <UBER.N> is in talks to sell its autonomous driving unit, Uber Advanced Technologies Group (ATG), to self-driving car startup Aurora, a source familiar with the matter told Reuters."
     publishedDateTime: 2020-11-14T04:45:00Z
@@ -84,22 +68,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/1XMcOjiwPbJUbvLh6RtxKtpxphM=/0x0:2376x1782/1400x933/filters:focal(1101x896:1481x1276):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67789235/UberSF_TA_1.0.jpg"
         width: 1400
         height: 933
-        isCached: true
-  - title: "‘It is going to be a race with Tesla’ says VW about new investments in electric cars and self-driving"
-    excerpt: "The Volkswagen Group just announced that it is accelerating its investments in software, electric vehicles, and self-driving technology and it is not shying away from the fact that its goal is to catch up to Tesla."
-    publishedDateTime: 2020-11-16T20:08:00Z
-    webUrl: "https://electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/"
-    ampWebUrl: "https://electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 74
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/01/vw-ev-lineup.jpg?quality=82&strip=all"
-        width: 1600
-        height: 801
         isCached: true
   - title: "Uber Could Soon Pawn Off Its Scandal-Ridden Self-Driving Vehicle Branch to Start-Up Aurora"
     excerpt: "Uber is in talks to sell its scandal-ridden self-driving vehicle branch, Advanced Technologies Group, according to a Friday TechCrunch report. And it looks like Aurora Innovation, a start-up founded by veterans of the autonomous vehicle industry,"
@@ -176,22 +144,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Xpeng shares surge on first results, promises China’s best assisted self-driving solution"
-    excerpt: "Xpeng is gearing up for an ambitious goal: setting a benchmark for driver assistance technology in China that rivals will have to overcome."
-    publishedDateTime: 2020-11-14T06:34:00Z
-    webUrl: "https://technode.com/2020/11/14/xpeng-shares-surge-on-first-results-promises-chinas-best-assisted-self-driving-solution/"
-    ampWebUrl: "https://technode.com/2020/11/14/xpeng-shares-surge-on-first-results-promises-chinas-best-assisted-self-driving-solution/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/11/14/xpeng-shares-surge-on-first-results-promises-chinas-best-assisted-self-driving-solution/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 35
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2020/08/DSC4284-拷贝.jpg?fit=1619%2C1080&ssl=1"
-        width: 1619
-        height: 1080
-        isCached: true
   - title: "Uber in talks to sell its self-driving car division: Report"
     excerpt: "According to a report in TechCrunch, the sale of Uber Advanced Technologies Group (UberATG) would mark the end of a bumpy road as the venture has been suffering fr"
     publishedDateTime: 2020-11-15T08:44:00Z
@@ -248,15 +200,6 @@ related:
         width: 2560
         height: 1697
         isCached: true
-  - title: "Uber in talks to sell multibillion-dollar self-driving group - report"
-    excerpt: "Uber (NYSE:UBER) is in talks to sell its self-driving Autonomous Group to a competing start-up, TechCrunch reports."
-    publishedDateTime: 2020-11-13T22:25:00Z
-    webUrl: "https://seekingalpha.com/news/3636351-uber-in-talks-to-sell-multibillion-dollar-self-driving-group-report"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
   - title: "Report: Uber looking to sell beleaguered self-driving business"
     excerpt: "Ride-hailing giant Uber may be looking to wash its hands of its troubled self-driving business as it is in talks to sell the business to Aurora Innovation, an autonomous driving startup. According to a report from TechCrunch,"
     publishedDateTime: 2020-11-17T13:15:00Z

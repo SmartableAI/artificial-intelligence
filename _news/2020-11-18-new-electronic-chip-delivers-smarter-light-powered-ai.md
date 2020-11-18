@@ -41,6 +41,20 @@ related:
         width: 2984
         height: 1865
         isCached: true
+  - title: "Smarter Artificial Intelligence Technology in a New Light-Powered Chip"
+    excerpt: "Prototype tech shrinks AI to deliver brain-like functionality in one powerful device. Researchers have developed artificial intelligence technology that brings together imaging, processing, machine learning,"
+    publishedDateTime: 2020-11-18T14:34:00Z
+    webUrl: "https://scitechdaily.com/smarter-artificial-intelligence-technology-in-a-new-light-powered-chip/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 56
+    images:
+      - url: "https://scitechdaily.com/images/AI-Electronic-Chip-scaled.jpg"
+        width: 2560
+        height: 1600
+        isCached: true
 
 secured: "hSmEukQZfi8FDAGMjXreFNdbNCkUPKx0uavgUYqCgAG7sWDP83mNWwmVwVrc6OBKJe5F1IvHdBSWG1mNV/XUGvtre0Xf4kvDdHlpQyHQC+mAoCfU/YxhIRsH9YOdSNH5z1U9/xgfV7SbMC/RVdc+n8caEQaedhAfzT1XgkZ4h3db/BcPkWi4uPANvnsbWyK0/lJIGC9EWAxgRxrSnXF1NStvzwTS412xu7/1GyaorDaMRhcdEjgO5q2YyAnLg88w5Via7gBGA0JjVD5ZZVWIlgHOjpP0GeaAoZrCDTJxtfN+JpnRw0uwEvIe+acfC3yNOllzkg767Z7nw9b4CDehDo2Js6J9hJD+06XPcJPsXsAhjlv8Vd8D/uIoi9Ss7UIqL0Rv/jdxZzuLaustCqDPQmxQ1VRSEgglotFmoUF1HfxJSgjK/qTUu7eYANX/50+qQxLez/VP1sMgd0C70D7zi6oezR0gTCXqqPWcBP5GFr1kYH0e4dcUpVPtnkY6q+FEv/MsAmVQ4h05WnLlT62q5A==;+KIA3wYkzZZOHqqas3L5ZA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-human-brain-inspires-rm
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-human-brain-inspires-rmit-researchers-to-develop-a-light-powered-ai-chip/"
 type: article
 quality: 101
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Smarter Artificial Intelligence Technology in a New Light-Powered Chip"
+    excerpt: "Prototype tech shrinks AI to deliver brain-like functionality in one powerful device. Researchers have developed artificial intelligence technology that brings together imaging, processing, machine learning,"
+    publishedDateTime: 2020-11-18T14:34:00Z
+    webUrl: "https://scitechdaily.com/smarter-artificial-intelligence-technology-in-a-new-light-powered-chip/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 56
+    images:
+      - url: "https://scitechdaily.com/images/AI-Electronic-Chip-scaled.jpg"
+        width: 2560
+        height: 1600
+        isCached: true
   - title: "New electronic chip delivers smarter, light-powered AI"
     excerpt: "New tech combines the core software needed to drive AI with image-capturing hardware - in one electronic chip. The light-driven prototype device imitates the way the human brain processes visual information."
     publishedDateTime: 2020-11-18T05:04:00Z
