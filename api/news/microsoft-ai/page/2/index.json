@@ -184,6 +184,40 @@
       ]
     },
     {
+      "path": "_news/2020-10-28-microsoft-corporation-msft-ceo-satya-nadella-on-q1-2021-results-earnings-call-transcript.md",
+      "title": "Microsoft Corporation (MSFT) CEO Satya Nadella on Q1 2021 Results - Earnings Call Transcript",
+      "excerpt": "They can build advanced AI models using Azure Machine Learning to identify trends and predict outcomes. And with Power BI, anyone in an organization can access these insights and build custom ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4381922-microsoft-corporation-msft-ceo-satya-nadella-on-q1-2021-results-earnings-call-transcript",
+      "originalUrl": "https://seekingalpha.com/article/4381922-microsoft-corporation-msft-ceo-satya-nadella-on-q1-2021-results-earnings-call-transcript",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T04:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-global-cognitive-computing-market-2020-business-strategies-cognitive-scale-ibm-corporation-google-palantir-technologies.md",
       "title": "Global Cognitive Computing Market 2020 Business Strategies – Cognitive Scale, IBM Corporation, Google, Palantir Technologies",
       "excerpt": "Major Market Players Included in this Report is: Cognitive Scale, IBM Corporation, Google, Palantir Technologies, Microsoft Corporation, Enterra Solutions, and Numenta. The global Cognitive ...",
@@ -1311,49 +1345,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-microsoft-announces-azure-space-along-with-new-partnership-with-spacex.md",
-      "title": "Microsoft announces Azure Space along with new partnership with SpaceX",
-      "excerpt": "Microsoft today announced that it’s making its Azure cloud-computing services to the space industry. As a part of this announcement, the company also revealed a new partnership with SpaceX to",
-      "sourceUrl": null,
-      "webUrl": "https://www.onmsft.com/news/microsoft-announces-azure-space-along-with-new-partnership-with-spacex",
-      "originalUrl": "https://www.onmsft.com/news/microsoft-announces-azure-space-along-with-new-partnership-with-spacex",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.onmsft.com/wp-content/uploads/2020/10/Microsoft-Azure-Space.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-20T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "On MSFT",
-        "domain": "onmsft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

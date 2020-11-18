@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Corsight AI launches real-time facial recognition that identifies masked faces"
+    excerpt: "Corsight AI has launched a facial recognition solution that has the ability to speedily and accurately identify persons, bypassing obstructions to clear facial view such as face coverings and bad"
+    publishedDateTime: 2020-11-17T23:14:00Z
+    webUrl: "https://www.biometricupdate.com/202011/corsight-ai-launches-real-time-facial-recognition-that-identifies-masked-faces"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 50
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/12142443/mask-detection.png"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Corsight AI Launches Real-Time Facial Recognition Technology that Accurately Identifies Individuals at an Unmatched Speed Under Any Condition"
     excerpt: "Commercially Available, Corsight's Technology is Powered by Autonomous AINEW YORK, Nov. 17, 2020 /PRNewswire/ -- Corsight AI, a leading"
     publishedDateTime: 2020-11-17T21:52:00Z

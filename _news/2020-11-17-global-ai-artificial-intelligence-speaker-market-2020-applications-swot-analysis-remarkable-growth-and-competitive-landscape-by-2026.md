@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice and Speech Recognition Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
-    excerpt: "Selbyville, Delaware According to the research report titled 'Voice and Speech Recognition Market Share, Size, Trends, Industry Analysis Report By Component; By Interface; By End-User; By Regions, Segments & Forecast,"
-    publishedDateTime: 2020-11-13T07:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2020-11-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Sports Technology Market 2020-2027 - Artificial Intelligence (AI) and Internet of Things (IoT) to Provide Growth Opportunities"
     excerpt: "The \"Sports Technology Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component and Technology\" report has been added to ResearchAndMarkets.com's offering. Increasing popularity of esports,"
     publishedDateTime: 2020-11-17T10:53:00Z

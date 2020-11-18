@@ -42,6 +42,20 @@ related:
         width: 600
         height: 390
         isCached: true
+  - title: "Niti Aayog proposes setting up oversight body for AI"
+    excerpt: "“Technology easily blends across other technologies and must not be viewed in silo. Ethics should be seen as not just limited to AI but also other emerging technologies such as AR (augmented reality),VR (virtual reality) etc,” it said. The draft ..."
+    publishedDateTime: 2020-11-18T00:14:00Z
+    webUrl: "https://www.tribuneindia.com/news/nation/niti-aayog-proposes-setting-up-oversight-body-for-ai-171701"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 39
+    images:
+      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/11/2020_11$largeimg_1303206091.jpg"
+        width: 975
+        height: 568
+        isCached: true
 
 secured: "4LSPhSb0E+Qw9EpucGfW34qPHjV9mDob0U+40R6LN9kwh20aQx5DMWH5NJDW5MS051XevP4K00Vh+ifUqaxcauOvFEjWoDqleuwgQwM2l4aaSvZguqLgbFsZsTpnvl9pQkFFCscil/OlLVwdkIwgd6MawAqzarM7BobJDH1fEQzktKaYIXt8Xs88xRSW7VGN+EbjdREPI9Ei2r0dxMjx6R+0AadEPMCWNVb4ARb1gAGE0ysSb8c8nokf3GQKWJsWWYtlgvHTqJxi9BGrJzHUPIJxd26on7kkThm/OIq3eTmkb55Wyp1dh4GLTiqlFDc5aMTYnG3UEzLJXhS0r1HJa5PO5TlEmmAft0x/gGky+YQ=;hZaQL5VVlQ3EUdrau25yLQ=="
 ---

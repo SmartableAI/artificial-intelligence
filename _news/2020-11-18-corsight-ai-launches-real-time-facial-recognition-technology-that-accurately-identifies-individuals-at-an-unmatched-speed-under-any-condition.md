@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/corsight-ai-launches-re
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/corsight-ai-launches-real-time-facial-recognition-technology-that-accurately-identifies-individuals-at-an-unmatched-speed-under-any-condition-1029810723"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ topics:
   - AI
 
 related:
+  - title: "Corsight AI launches real-time facial recognition that identifies masked faces"
+    excerpt: "Corsight AI has launched a facial recognition solution that has the ability to speedily and accurately identify persons, bypassing obstructions to clear facial view such as face coverings and bad"
+    publishedDateTime: 2020-11-17T23:14:00Z
+    webUrl: "https://www.biometricupdate.com/202011/corsight-ai-launches-real-time-facial-recognition-that-identifies-masked-faces"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 50
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/12142443/mask-detection.png"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "How regulators can get facial recognition technology right"
     excerpt: "As facial recognition technology spreads, regulators have tools to ensure that this technology does not result in inaccurate or biased outcomes."
     publishedDateTime: 2020-11-17T14:27:00Z

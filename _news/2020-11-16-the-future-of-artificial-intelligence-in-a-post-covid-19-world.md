@@ -34,6 +34,22 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "How artificial intelligence can democratise education after Covid-19"
+    excerpt: "New forms of AI, based on deep neural networks, can now uncover patterns about how the students perform and help teachers optimise their strategies accordingly. AI tutors, software systems that students can interact with online,"
+    publishedDateTime: 2020-11-17T23:48:00Z
+    webUrl: "https://economictimes.indiatimes.com/prime/technology-and-startups/how-artificial-intelligence-can-democratise-education-after-covid-19/primearticleshow/79266915.cms"
+    ampWebUrl: "https://m.economictimes.com/prime/technology-and-startups/how-artificial-intelligence-can-democratise-education-after-covid-19/amp_primearticleshow/79266915.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/prime/technology-and-startups/how-artificial-intelligence-can-democratise-education-after-covid-19/amp_primearticleshow/79266915.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 76
+    images:
+      - url: "https://img.etimg.com/thumb/height-450,width-600,imgsize-534660,msid-79266905/.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "How AI is helping lung cancer patients in Covid-19 era"
     excerpt: "Lung cancer patients undergoing immunotherapy treatment may experience side effects which can present in a similar way to those of Covid-19 and other lung conditions. But now the Royal Marsden hospital in London is trialling the use of artificial intelligence (AI) to help identify what is causing the symptoms."
     publishedDateTime: 2020-11-16T06:56:00Z

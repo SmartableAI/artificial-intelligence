@@ -35,6 +35,20 @@ related:
         width: 680
         height: 453
         isCached: true
+  - title: "EdgeQ exits stealth with $51M to fuse 5G and AI at the edge"
+    excerpt: "G systems-on-chip startup EdgeQ Inc. exited stealth today armed with $51 million in funding that includes $38.5 million from a Series A round of investment. Threshold Ventures, Fusion Fund, Yahoo! co-founder Jerry Yang (AME Cloud Ventures),"
+    publishedDateTime: 2020-11-18T00:23:00Z
+    webUrl: "https://siliconangle.com/2020/11/17/edgeq-exits-stealth-51m-fuse-5g-ai-edge/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://siliconangle.com/files/2015/08/PLACEHOLDER-SiliconANGLE.png"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "MSqOADMeAwGQEhZXSwmM3c/o5Pbo/XuusPYppqNIQuzbesEGxHIGG+I5BSY1lyXmcpa+0u7+pOcKaWzT6t0ZhpRno/BIFpNFNKxIyv4RRjLhRdIT3hQcjHKggC2bKt+e5Ezv/zRoiLQ6+/mJsvvYsatMkIqhvu3ELYLDVyjBn4wO+0ywKpXPLFsF+066mZ3DwTOpuEkmtzRAzKz0A7HNcDuSjBxTcpkSY/6Jj+HzrgzGbWcAxtLXf6sKEo4eWjuezLLlnxZYO1qzn2ulFGrZDy433uM/nVgc6X5A1/usf0nMIF58biptbUQ9zed5R4MP1uMAXOAsi8Nkue9wiQbFqRlZ8ope2qaP7qTnH4dSsAk9nu03aQ2pmIh46gc/UdBY4ISXxghrJN45aoo8LJ/NKGPubPPHI/2lKDAhqyGA5TQDMXUKhDDqqNS6pkc6undR6aaGXkJRj0LBta4+GowcyUZJsjDSZohQhEazcGXf4orQ7YZgOqC1RWR4rJv/NUH9/3Q7fpxsdMp93/0rSb6yPA==;r94/VE+X7dY2qym7bjtzdg=="
 ---

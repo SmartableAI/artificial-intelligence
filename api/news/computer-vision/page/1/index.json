@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-18-corsight-ai-launches-real-time-facial-recognition-that-identifies-masked-faces.md",
+      "title": "Corsight AI launches real-time facial recognition that identifies masked faces",
+      "excerpt": "Corsight AI has launched a facial recognition solution that has the ability to speedily and accurately identify persons, bypassing obstructions to clear facial view such as face coverings and bad",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202011/corsight-ai-launches-real-time-facial-recognition-that-identifies-masked-faces",
+      "originalUrl": "https://www.biometricupdate.com/202011/corsight-ai-launches-real-time-facial-recognition-that-identifies-masked-faces",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/12142443/mask-detection.png",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-17T15:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-new-orleans-pd-using-facial-recognition-despite-earlier-denials.md",
       "title": "New Orleans PD Using Facial Recognition Despite Earlier Denials",
       "excerpt": "Despite earlier claims by officials that the New Orleans Police Department was not using facial recognition, it appears the agency has been leveraging the technology through state and federal partners.",
@@ -200,7 +243,7 @@
       "originalUrl": "https://techcrunch.com/2020/11/16/computer-vision-startup-chooch-ai-scores-20m-series-a/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1397,50 +1440,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-01-importance-of-ar-adoption-in-education.md",
-      "title": "Importance Of AR Adoption In Education",
-      "excerpt": "The object recognition and text recognition feature in AR help teachers to overlay information, visuals, and different forms of content on an ordinary chalkboard Augmented reality in education ...",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/resources/importance-of-ar-adoption-in-education/",
-      "originalUrl": "https://inc42.com/resources/importance-of-ar-adoption-in-education/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.inc42.com/wp-content/uploads/2020/11/Untitled-design-2020-11-01T114655.545.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.inc42.com/resources/importance-of-ar-adoption-in-education/amp/",
-      "cdnAmpWebUrl": "https://www-inc42-com.cdn.ampproject.org/c/s/www.inc42.com/resources/importance-of-ar-adoption-in-education/amp/",
-      "publishedDateTime": "2020-11-01T02:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

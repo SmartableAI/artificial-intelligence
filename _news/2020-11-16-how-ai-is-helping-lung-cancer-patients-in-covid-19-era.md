@@ -44,6 +44,22 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "How artificial intelligence can democratise education after Covid-19"
+    excerpt: "New forms of AI, based on deep neural networks, can now uncover patterns about how the students perform and help teachers optimise their strategies accordingly. AI tutors, software systems that students can interact with online,"
+    publishedDateTime: 2020-11-17T23:48:00Z
+    webUrl: "https://economictimes.indiatimes.com/prime/technology-and-startups/how-artificial-intelligence-can-democratise-education-after-covid-19/primearticleshow/79266915.cms"
+    ampWebUrl: "https://m.economictimes.com/prime/technology-and-startups/how-artificial-intelligence-can-democratise-education-after-covid-19/amp_primearticleshow/79266915.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/prime/technology-and-startups/how-artificial-intelligence-can-democratise-education-after-covid-19/amp_primearticleshow/79266915.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 76
+    images:
+      - url: "https://img.etimg.com/thumb/height-450,width-600,imgsize-534660,msid-79266905/.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "The Future of Artificial Intelligence in a Post-COVID-19 World"
     excerpt: "She studied Computer Science and Economics at Brandies University. Over the past several years, artificial intelligence (AI) has frequently been cited as an emerging technology that improves efficiency across a multitude of industries. Crucially ..."
     publishedDateTime: 2020-11-16T14:06:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/dissecting-c3-ais-secret-sa
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/"
 type: article
 quality: 86
-heat: 87
+heat: 86
 published: true
 
 provider:

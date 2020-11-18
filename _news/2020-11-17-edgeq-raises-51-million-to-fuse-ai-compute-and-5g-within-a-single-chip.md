@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/11/17/edgeq-raises-51-million-to-fuse-ai
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/17/edgeq-raises-51-million-to-fuse-ai-compute-and-5g-within-a-single-chip/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "EdgeQ exits stealth with $51M to fuse 5G and AI at the edge"
+    excerpt: "G systems-on-chip startup EdgeQ Inc. exited stealth today armed with $51 million in funding that includes $38.5 million from a Series A round of investment. Threshold Ventures, Fusion Fund, Yahoo! co-founder Jerry Yang (AME Cloud Ventures),"
+    publishedDateTime: 2020-11-18T00:23:00Z
+    webUrl: "https://siliconangle.com/2020/11/17/edgeq-exits-stealth-51m-fuse-5g-ai-edge/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://siliconangle.com/files/2015/08/PLACEHOLDER-SiliconANGLE.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Chip Startup Merges AI, 5G at the Edge"
     excerpt: "The low-latency connectivity of 5G wireless is being combined with AI-based computing in an edge platform unveiled by a system-on-chip startup emerging"
     publishedDateTime: 2020-11-17T18:20:00Z

@@ -27,9 +27,9 @@ related:
   - title: "Autodesk acquires AI-based design firm Spacemaker"
     excerpt: "Autodesk said Tuesday that it has signed a deal to acquire Spacemaker for $240 million. Based in Oslo, Norway, Spacemaker uses artificial intelligence and generative design to help architects, urban designers,"
     publishedDateTime: 2020-11-17T06:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/autodesk-acquires-ai-based-design-firm-spacemaker/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/autodesk-acquires-ai-based-design-firm-spacemaker/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/autodesk-acquires-ai-based-design-firm-spacemaker/"
+    webUrl: "https://www.zdnet.com/article/autodesk-acquires-ai-based-design-firm-spacemaker/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/autodesk-acquires-ai-based-design-firm-spacemaker/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/autodesk-acquires-ai-based-design-firm-spacemaker/"
     type: article
     provider:
       name: ZDNet
