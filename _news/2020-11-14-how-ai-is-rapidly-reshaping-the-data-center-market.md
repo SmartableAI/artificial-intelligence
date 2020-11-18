@@ -55,22 +55,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Making Sense of the AI Landscape"
-    excerpt: "both specialized in AI and advanced robotics. He is also an independent advisor to the European Commission and member of the IEEE Global Initiative on Ethics in Autonomous and Intelligent Systems."
-    publishedDateTime: 2020-11-16T23:59:00Z
-    webUrl: "https://hbr.org/2020/11/making-sense-of-the-ai-landscape?ab=hero-subleft-1"
-    ampWebUrl: "https://hbr.org/amp/2020/11/making-sense-of-the-ai-landscape"
-    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/making-sense-of-the-ai-landscape"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 61
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2020/11/Nov20_17_498430921.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Connecting the Classroom to Careers Through AI Explorations"
     excerpt: "Artificial intelligence is an increasingly prevalent part of our everyday lives. From live-updating, turn-by-turn driving directions to responsive"
     publishedDateTime: 2020-11-16T15:31:00Z
@@ -86,6 +70,22 @@ related:
       - url: "https://edsurge.imgix.net/uploads/post/image/13694/ai_career_connections-1601659718.jpg?auto=compress%2Cformat&w=640&h=260&fit=crop"
         width: 640
         height: 260
+        isCached: true
+  - title: "Making Sense of the AI Landscape"
+    excerpt: "How can leaders start to make sense of this vast array ... both specialized in AI and advanced robotics. He is also an independent advisor to the European Commission and member of the IEEE Global ..."
+    publishedDateTime: 2020-11-17T13:17:00Z
+    webUrl: "https://hbr.org/2020/11/making-sense-of-the-ai-landscape"
+    ampWebUrl: "https://hbr.org/amp/2020/11/making-sense-of-the-ai-landscape"
+    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/making-sense-of-the-ai-landscape"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 59
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2020/11/Nov20_17_498430921.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "U8K0XsunoL4w7/Sh4PVXPxCxwjFK/2xmkd2DrrTw86d1C04kAhKjFlRbez49FrkjcIySLNHEqWWm5tS29VJ7dHICnYVBKkujyw1Ww0N/Ma9yWUOX7M9ZZd2vWLH7JZhVG6F7qDMN9aayCwUXz4BvLlNhS0ikLu+SxEpi5fOH/zHvODIzBzEOZa/IYcqUtDqrhuDBP4pda1sXTXKrzuVRyFbhSDhIA46yPqNcUVS33Kb/EXQBItrmh+9hm2U243c8rzE8lpEkgyEEacsjd1yvekiqvGu9FrgSIOtKecLTuZpvAi93QQI7fZi+5D2//WGPBhgTXH/RV0Cx816hhicx4RPl/MRrtYu7njCPzmRuIE3q+DK8p5J73vUSBpGU99DB6Zf4vzPWr8s6/megREJePGi7AEO/QKeOjXs6+AL7W4LA//6/38UzNdmNEGBgL/ES64r0Ne5QqgYRwRfpg7/vlWxdA7638iWUttGsn6XU008D42Hvew3vHFueFNTdzijKozVvoiLLyGzck7f7D2g/PA==;QbppvjrVtDGUyO6deAusuw=="

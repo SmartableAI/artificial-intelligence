@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsofts-new-azure
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsofts-new-azure-data-services-explained/"
 type: article
 quality: 119
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -147,6 +147,15 @@ related:
         width: 600
         height: 368
         isCached: true
+  - title: "ANS Group migrates NHS SCW workloads to Microsoft Azure"
+    excerpt: "UK digital and cloud services provider ANS Group has been selected by NHS South, Central & West (SCW) to migrate their workloads to Microsoft"
+    publishedDateTime: 2020-11-18T09:53:00Z
+    webUrl: "https://www.telecompaper.com/news/ans-group-migrates-nhs-scw-workloads-to-microsoft-azure--1362359"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
 
 secured: "spi+XhaUbbKwmPay4TNxyEH602woroaCtLaOmPD0269xDzH6M1FcLO4sGG56QJEHVdmzyDsZBi4m6vJoC7ZYwxbdUtftzssChWy+ybkhy8vCdmNLiptZ5DRs7LTIZFhhI7jKih6EbdsDzWCK1R1g/q/VGj2FCSOOOy/dL7g1yTDys7N/crdHWiRsD+OBhwWje6T3/MSJDM7QFswY+omM0dS5+Yk9XMVDvMb7Q4SdTZGiqbPgSPiVR0ARaSmM5W9Oi9oq/FaR6He8zHTypUuhWDXimHXFcEzL65zBS+ogZyuXoFdNerGiQmWc1mcOFuP4Q271obnr6wFXBmsJA/Dm1qP9n3Q1bwMe0bXmyYJL9cw=;nlwqeJyXvfv3b6j4zTDILA=="
 ---

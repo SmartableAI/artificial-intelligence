@@ -41,20 +41,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Facial Recognition and the Convenience of Injustice"
-    excerpt: "In the quest for convenience, one of the tasks people have assigned to AI is facial recognition. Apparently, it has now become very good at using the image of a face to identify individuals. It may even perform better than Lady Gaga in the knotty problem of distinguishing Isla Fisher from Amy Adams."
-    publishedDateTime: 2020-11-13T18:17:00Z
-    webUrl: "https://www.fairobserver.com/region/north_america/facial-recognition-and-the-convenience-of-injustice/"
-    type: article
-    provider:
-      name: Fair Observer
-      domain: fairobserver.com
-    quality: 39
-    images:
-      - url: "https://www.fairobserver.com/wp-content/uploads/2020/11/facial-recognition-1.jpg"
-        width: 938
-        height: 450
-        isCached: true
   - title: "Exadel Releases CompreFace Open Source Facial Recognition Application"
     excerpt: "Exadel ( a global provider of digital software engineering solutions and services, announced the release of CompreFace,"
     publishedDateTime: 2020-11-17T14:20:00Z

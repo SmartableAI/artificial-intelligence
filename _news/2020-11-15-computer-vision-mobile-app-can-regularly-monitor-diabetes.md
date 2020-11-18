@@ -9,7 +9,7 @@ ampWebUrl: "https://newsd.in/computer-vision-mobile-app-can-regularly-monitor-di
 cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/computer-vision-mobile-app-can-regularly-monitor-diabetes/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -75,15 +75,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "Computer vision app allows easier monitoring of diabetes"
-    excerpt: "A computer vision technology developed by engineers has now been developed into a free mobile phone app for regular monitoring of glucose levels in people with diabetes."
-    publishedDateTime: 2020-11-13T18:20:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/11/201113124045.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "cdcAnStPLCgLIdMN6AcEjZAhJ3pXhlN/0vFM6Z1TWgpZmJlvRJHuYPUbm0WqQB7bIFVbxCIum6fzeZ65dDQPaJzhxy60mgXmvmFuuaCtHEcQazg7nlUMUGOp5GxA0DzDgB9awhBIQCe9L0OUJAqjqlf4hHK9GmOX68SKUKuxFHZhMH76QADQ3eVAXjXnbtRdmAyqJmnIHj+CxP2fHYP8mdpr6wGvJ88JJCiFOLxWRL3AsmasMf5aJfjbNPDTNe4dR8dJS1nWX3cDDJnpCRFU1gXw+VOrhX+KjLldT71GK/2KgT3OCBibuE4Lq1yh4MuBaJEF7q+yDkzJn4EGrGrFec688UVIGG944sUpEeOxhLg=;OF81ENEaN6IewvDHlimj3g=="
 ---

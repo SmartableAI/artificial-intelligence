@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon begins shifting Alexa’s cloud AI to its own silicon"
-    excerpt: "On Thursday, an Amazon AWS blog post announced that the company has moved most of the cloud processing for its Alexa personal assistant off of Nvidia GPUs and onto its own Inferentia Application Specific Integrated Circuit (ASIC)."
-    publishedDateTime: 2020-11-13T18:07:00Z
-    webUrl: "https://arstechnica.com/gadgets/2020/11/amazon-begins-shifting-alexas-cloud-ai-to-its-own-silicon/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 71
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/11/InferentiaSmall-640x380.jpg"
-        width: 640
-        height: 380
-        isCached: true
   - title: "Alexa now runs on more powerful cloud instances, opening the door for complex new features"
     excerpt: "In addition to the Alexa team, Amazon Rekognition is also adopting the new chip as running models such as object classification on Inf1 instances resulted in eight times lower latency and doubled ..."
     publishedDateTime: 2020-11-13T23:04:00Z

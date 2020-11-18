@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning innovation to develop chemical library for drug discovery"
+    excerpt: "Machine learning has been used widely in the chemical sciences for drug design and other processes. The models that are prospectively tested for new reaction outcomes and used to enhance human understanding to interpret chemical reactivity decisions made by such models are extremely limited."
+    publishedDateTime: 2020-11-18T09:11:00Z
+    webUrl: "https://phys.org/news/2020-11-machine-chemical-library-drug-discovery.html"
+    ampWebUrl: "https://phys.org/news/2020-11-machine-chemical-library-drug-discovery.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-11-machine-chemical-library-drug-discovery.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2020/60-machinelearn.jpg"
+        width: 800
+        height: 486
+        isCached: true
   - title: "Machine learning innovation to develop chemical library"
     excerpt: "Purdue University innovators are using machine learning models to create new options for drug discovery pipelines. Purdue innovators have introduced chemical reactivity flowcharts to help chemists interpret reaction outcomes using statistically robust machine learning models trained on a small number of reactions."
     publishedDateTime: 2020-11-18T05:04:00Z

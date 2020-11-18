@@ -75,15 +75,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "Computer vision app allows easier monitoring of diabetes"
-    excerpt: "A computer vision technology developed by engineers has now been developed into a free mobile phone app for regular monitoring of glucose levels in people with diabetes."
-    publishedDateTime: 2020-11-13T18:20:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/11/201113124045.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "gMoKOnuaSBXAHSvdnsyPnSjlCUJqxXKpmXN+TVckiZyt0OQzI0iVbk8xgCHUl5A2V01xcG8j++JmrIwcBQM8tVNCKc141+OeHD3PP2ec1H3TDyJRKslZgWFpfFPDq74eqy2AoL+ISkBXataJrYo0KIlE+Y9wz9S2HFE0u9cEQ48U7/i+HERcW6IQvIC1VjI+WmswqSngU11wdpPxOcDskwPJCxcjc9S6um69B55gTbCVbSQMUXw/2+rbjPwcl1AUCcWBrzlbVd31v1jLjbIHgku/H62N78o7MikYmIzmLzsXH0TQ1J15vEwilxHaiBRICNeaJc8irEe11Ijdb+Ix3n4SXd7/KVP6we/vWvJtdL+/zu0KsqvHd5N/+rt9NGKPgo3HM9rIbQTiBoD3bnDNXDHFJzX/qhgF8ncfDnyfAtKzppxmyLe0U+BKZWkIv6kwRTI21kVbBNc1VmNQaILJhcP8tK+1fc6qpfDKcsmkSy8Kcmv57USAQNoy9QY/p7Uc1oibgpPmjjr6Jf44IBHUWw==;4d1vhKbUj8W1bnD77bWVHw=="
 ---

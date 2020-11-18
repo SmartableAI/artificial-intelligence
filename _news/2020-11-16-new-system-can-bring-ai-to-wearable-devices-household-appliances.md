@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/new-system-can-bring-ai-to-wearable-devices-h
 webUrl: "https://www.unite.ai/new-system-can-bring-ai-to-wearable-devices-household-appliances/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "System brings deep learning to 'internet of things' devices"
-    excerpt: "A new system brings machine learning to microcontrollers. The advance could enhance the function and security of devices connected to the Internet of Things (IoT)."
-    publishedDateTime: 2020-11-13T21:39:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/11/201113154627.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "System Brings Deep Learning to IoT Devices"
     excerpt: "Deep learning is everywhere. This branch of artificial intelligence curates your social media and serves your Google search results. Soon, deep learning could also check your vitals or set your thermostat."
     publishedDateTime: 2020-11-17T00:00:00Z

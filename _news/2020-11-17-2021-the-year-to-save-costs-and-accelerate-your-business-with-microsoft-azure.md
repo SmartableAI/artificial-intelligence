@@ -142,6 +142,15 @@ related:
         width: 600
         height: 368
         isCached: true
+  - title: "ANS Group migrates NHS SCW workloads to Microsoft Azure"
+    excerpt: "UK digital and cloud services provider ANS Group has been selected by NHS South, Central & West (SCW) to migrate their workloads to Microsoft"
+    publishedDateTime: 2020-11-18T09:53:00Z
+    webUrl: "https://www.telecompaper.com/news/ans-group-migrates-nhs-scw-workloads-to-microsoft-azure--1362359"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
 
 secured: "g2FCBOwgucqdumHPqS5RNlmXcV5G0a0El1gu9rWn8Hx61EjHskNrIfOGVDXcWXWYY/dJH+EBYOXuX0D78HcNzPK537TEhyM3NPX+fxu12VNTbHnRFipB5JCE+cTvZb69D5cnCXPP5pAMXZ8t6efQdMKtA+kyoF6Ev6rbCuQ6RoNKq+8hW8uETM05rLBbxwMVWbgFwLniaGAnSWXyhvMWIvKq9cVjkxfzg13splU9yaMKlJFGzqFRsmb9sjBzy+UhYeDVCb2v3vT6rYTkvsFPVhMKuBgfQaAuKab6T8Aveu2iV4fj96D1jwp7xoFq5TENMlYI86jCvWDibTmOToTTsZv93QThZXAl4R/KrDRHeoNQCXE7KARJCsE9bFsJj+Z6uTubfOh8WWNOwzZ5Oeg6CRnRDzYs51i+apSu2qOCf/41hlOXP7hyS7zREzC0K6+D4AZpyBdshnPeJtE9aQCLvPSA2Z6ymhukJ0MgHX3tWslmpEnj5so2vYqYXlpc7PvUyWZCXEj2KlRNH7651OpJ+w==;2KMIiAvwlPcWb2v0ZmrZzA=="
 ---

@@ -532,32 +532,32 @@
       "title": "Neuromorphic Computing Systems Market, 2028",
       "excerpt": "signal recognition and processing, data processing, and object recognition, among others. Neuromorphic computing systems have been adopted by several end-use industries such as consumer ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/neuromorphic-computing-systems-market-2028-1029735198",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/neuromorphic-computing-systems-market-2028-1029735198",
+      "webUrl": "https://www.prnewswire.com/news-releases/neuromorphic-computing-systems-market-2028-301161695.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/neuromorphic-computing-systems-market-2028-301161695.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook",
+          "width": 800,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/neuromorphic-computing-systems-market-2028-1029735198",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/neuromorphic-computing-systems-market-2028-1029735198",
-      "publishedDateTime": "2020-10-28T07:26:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T07:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

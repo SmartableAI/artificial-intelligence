@@ -58,16 +58,16 @@ related:
         height: 417
         isCached: true
   - title: "Making Sense of the AI Landscape"
-    excerpt: "both specialized in AI and advanced robotics. He is also an independent advisor to the European Commission and member of the IEEE Global Initiative on Ethics in Autonomous and Intelligent Systems."
-    publishedDateTime: 2020-11-16T23:59:00Z
-    webUrl: "https://hbr.org/2020/11/making-sense-of-the-ai-landscape?ab=hero-subleft-1"
+    excerpt: "How can leaders start to make sense of this vast array ... both specialized in AI and advanced robotics. He is also an independent advisor to the European Commission and member of the IEEE Global ..."
+    publishedDateTime: 2020-11-17T13:17:00Z
+    webUrl: "https://hbr.org/2020/11/making-sense-of-the-ai-landscape"
     ampWebUrl: "https://hbr.org/amp/2020/11/making-sense-of-the-ai-landscape"
     cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/making-sense-of-the-ai-landscape"
     type: article
     provider:
       name: Harvard Business Review
       domain: hbr.org
-    quality: 61
+    quality: 59
     images:
       - url: "https://hbr.org/resources/images/article_assets/2020/11/Nov20_17_498430921.jpg"
         width: 1200

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2020/11/17/women-in-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2020/11/17/women-in-ai-to-watch/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 128
 published: true
 
 provider:

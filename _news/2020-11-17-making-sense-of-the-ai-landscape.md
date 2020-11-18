@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Making Sense of the AI Landscape"
-excerpt: "both specialized in AI and advanced robotics. He is also an independent advisor to the European Commission and member of the IEEE Global Initiative on Ethics in Autonomous and Intelligent Systems."
-publishedDateTime: 2020-11-16T23:59:00Z
-originalUrl: "https://hbr.org/2020/11/making-sense-of-the-ai-landscape?ab=hero-subleft-1"
-webUrl: "https://hbr.org/2020/11/making-sense-of-the-ai-landscape?ab=hero-subleft-1"
+excerpt: "How can leaders start to make sense of this vast array ... both specialized in AI and advanced robotics. He is also an independent advisor to the European Commission and member of the IEEE Global ..."
+publishedDateTime: 2020-11-17T13:17:00Z
+originalUrl: "https://hbr.org/2020/11/making-sense-of-the-ai-landscape"
+webUrl: "https://hbr.org/2020/11/making-sense-of-the-ai-landscape"
 ampWebUrl: "https://hbr.org/amp/2020/11/making-sense-of-the-ai-landscape"
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/making-sense-of-the-ai-landscape"
 type: article
-quality: 61
+quality: 59
 heat: -1
 published: false
 
@@ -17,9 +17,8 @@ provider:
   domain: hbr.org
 
 topics:
-  - AI Ethics
-  - AI
   - AI in Robotics
+  - AI
 
 images:
   - url: "https://hbr.org/resources/images/article_assets/2020/11/Nov20_17_498430921.jpg"
@@ -89,6 +88,6 @@ related:
         height: 698
         isCached: true
 
-secured: "hATFK2p+geZ7KwBh6aoH6Jy83sWCUPAd9PVDocoBqOE0YJ+uTw/pAC2JHEuc+41Se7BOM5R3kcFoO0+hjv0cE3NOv/AilVTdtoQWRki7/bS+CkC7ThhKI2J5f5K54VkW5KwAYM+KLqC4V7KHqv+NqzjjRvvwHfA8gl82UkaAGs2K6YlmJyuGnwycOfZA9c5c46QovH82oQ0muySwDmhtdGZUR4JPSFMMxhiFFIZDlorI0q9LwEWBCffL5CiBdBQT+MY5zLPEHcVdR00Nqim5vUoxMGf5MHlVkuzDSG9hLzon9+651NMyTUSPrfwuR6ytse789HeFvgNly0vHwmHStITpkE+/zH6IUX7MaAIYg4I=;30xYVYVCi9EKnHz4l5Oeog=="
+secured: "He5Is0/hmR+krwK/zj5EyXpdgA1vVuZV4vo7z86QobzqKDPlBo7HpShIy3CkrKanRjkSr0RAfmmF7TQ7VXaT37nrKIFeFhE/aJ9rqs9F60MC22HCsQ9F3/9OtzwWjNnnho8ZK49EusLSuRVAe9ERQQ7TprbIfEu9y2dSBJIwDgFEV2SOMSvsZUC8BxTwhiQgBgOfaYAlThKcPx+PG+qeygNikvayMRI06Mw4fR2Ag2TVox6vQyNJePsWdhELPEptCP0bIDvbG7T1SXhJWHJAjMkbd1kDcuCaDgv5yQK8hS5OaFdBNb3ICcSZGS8esL4Umiv6F7iwdAVNvcimvrZPH4VEYBET+86WOqqPt2yCGNk=;qruHDtxv7IdoStqheD1soQ=="
 ---
 

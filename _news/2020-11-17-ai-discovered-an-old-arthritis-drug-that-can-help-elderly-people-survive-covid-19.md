@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/11/17/ai-discovered-an-old-arthri
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/17/ai-discovered-an-old-arthritis-drug-that-can-help-elderly-people-survive-covid-19/amp/"
 type: article
 quality: 82
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
       name: insidebigdata.com
       domain: insidebigdata.com
     quality: 17
+  - title: "Health systems are using AI to predict severe Covid-19 cases. But limited data could produce unreliable results"
+    excerpt: "Some institutions have not published any results showing whether their models to predict a Covid-19 patient's trajectory actually work."
+    publishedDateTime: 2020-11-18T09:41:00Z
+    webUrl: "https://www.statnews.com/2020/11/18/covid-19-algorithms-reliability-epic-cerner/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 17
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2020/11/GettyImages-1229622615-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "LCSJaD5iEULCEn0YydIcvGu+KWM6zm/OlS3F9bKFM/9hXUHogC1vNW8DKLLR7HBH0kveKjLPcoPSrnbGUuSuIgZWq4lMb6KB4LQbrvYXDaCAzrRJhoYl/E8lH8qKil9P0r4hskm5KN3pp1jb87PZTa0aSmY39gDuGRb16nQ/EHYLzOqQxgjgEScyqbjbajQCKBadJcNPR2AqyRx4Mq0Bgd/u4vdTanU9nFfsjc9FWTgqvVxYdVEaugU5Y4ZbGoZHyF2zw0NK3sugbpsX/wjzD4bVjHh54/yeqEQkgYVlgcajjfGpRvcD+l4dpOr09mmkE4BhuMYanCVhBXGyB5sCFp/vDpIgquq8L1r7lrZgxIBx15qc8NVelOhwdPRizw2ZZdW6QSHLWJoQRpieBCBROLTtxXaFmRexlpwonv8T3ZZM4Nzoq7kfjncEVhoLruEi1icnUsHKjP/GWRvY0YzhichtOsm5JbuINeZs0SGAJV3v31iV4cDMq0uSpc4TYNC5KaS3Aqs4BLty0Hh5uEvPYw==;xpnzhH8zj4KhwhyWr3Pz+g=="
 ---

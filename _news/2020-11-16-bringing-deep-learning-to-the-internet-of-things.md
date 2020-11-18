@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologynetworks.com/informatics/news/amp/bringing-dee
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/bringing-deep-learning-to-the-internet-of-things-342878"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,20 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "PyTorch Developer Day brings a number updates to the machine learning library"
-    excerpt: "The first PyTorch Developer Day was held yesterday, providing PyTorch developers with a day of technical talks, project deep dives, and networking opportunities."
-    publishedDateTime: 2020-11-13T17:50:00Z
-    webUrl: "https://sdtimes.com/ai/pytorch-developer-day-brings-a-number-updates-to-the-machine-learning-library/"
+  - title: "System brings deep learning to 'internet of things' devices"
+    excerpt: "A new system brings machine learning to microcontrollers. The advance could enhance the function and security of devices connected to the Internet of Things (IoT)."
+    publishedDateTime: 2020-11-13T21:39:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/11/201113154627.htm"
     type: article
     provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 83
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2020/11/a555c5b18b9a2aa5cead0428e08ec9d3.png"
-        width: 498
-        height: 213
-        isCached: true
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "SuHExn429lgb1eDfsxIM0HqSaX0PVm4iDJC7Wl4T/YGtTcHQz3Yp8ffSJWHsWLZLteAFgbUkuRGEYoGglPgoKWOyg6jAdW0dziTtjxOOB9FBT/hR6OEv8oVDTQnBcxCd5FHWxP6MkeeIoYH/vq15QRAnelF4LsdPBIeCR3t3CJbcEWXWirq1xI1ZnNxgCe3qQxf2BIPt1ZtipJqvjNWADmZ85UG9ikMrHmS3Ty/zgVcosV7doINNTSy5uw9VERe74Y5f8AxfFWp4AOcxEmjlz31WN56zsZK7Q0n+xgzBWGXJMWG+wJGhJNGQtoCwKQgXUqe2Y9ZG8zLp43RhjQiESmaKNjImMneC8I6rQ44q1p5JOFCEGCpWEmH6p4fxEmYreqlB5kQrSyg+cwN9eDAQGEF6/DahlTlL87VohfmrN/TH9BkPvlhBFrwgMy6KZJPh+U+4pNhvcW0FrzVokiqT11eZ3S2TCnkwJoMsFfdyXl4TCw1NZxccqPH2FBfzNByIOza7SOhuzXVe0ezpkXWaEw==;JHEtCAn6Xx4iDgo/hD9s5Q=="
 ---

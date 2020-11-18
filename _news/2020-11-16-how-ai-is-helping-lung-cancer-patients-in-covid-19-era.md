@@ -69,6 +69,20 @@ related:
       name: insidebigdata.com
       domain: insidebigdata.com
     quality: 17
+  - title: "Health systems are using AI to predict severe Covid-19 cases. But limited data could produce unreliable results"
+    excerpt: "Some institutions have not published any results showing whether their models to predict a Covid-19 patient's trajectory actually work."
+    publishedDateTime: 2020-11-18T09:41:00Z
+    webUrl: "https://www.statnews.com/2020/11/18/covid-19-algorithms-reliability-epic-cerner/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 17
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2020/11/GettyImages-1229622615-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "l/QreVGvjLP4JAB3ZbLeThuqbpX86NgUQosX0VvSMpgV8DqgowcKiuOIyfY69alXmkjYYZdglidijoyiVKtTG0qtQ5ATlX1wjIG6NiCwQIk/Qzut29PDN36VHdgtTtkqOaObL/dfIdUr4rOhmOv/bPNPiVFTmou9t+bD3GtYQFdHoEP0NS4vjVsGhS/LfQZQ9QsVUZffFLiIqIqISYGGYfk2ABh/vBSonm7F6u0iXQL4OqKW7E9URta0IEJnFCZxvpbgx0H5WgV5LJeUv0n48tVQuTvNMPNtr1RPQZX6bpXyf2e2Lg462QOSeatXH9/kIHaYoga7sZMQSwdpk9c18/Xm3D385Sylc5GsWV3A/z2mLTbdZNJY13b+YOsMOG11GtS4ZZmObiScdWq3tv2jP7gkjqJF5CBIDzNaTa9ugjYa5HR48d+oM2C9cMV0iGfjVJ4aPcrAiP+dD0V5UgJBnhrzvOOyTk7UEVzhX0EEkRiIAV5i2WT+1J8W9VdYcG2ECdvOTLlOzu3xrWHoZHyIow==;mKqWdQLuZGBmtVcSu+mEFQ=="
 ---

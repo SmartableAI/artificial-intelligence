@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "System brings deep learning to 'internet of things' devices"
-    excerpt: "A new system brings machine learning to microcontrollers. The advance could enhance the function and security of devices connected to the Internet of Things (IoT)."
-    publishedDateTime: 2020-11-13T21:39:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/11/201113154627.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "New System Can Bring AI to Wearable Devices, Household Appliances"
     excerpt: "A team of researchers at MIT is working on bringing deep learning neural networks to microcontrollers. The advance means artificial intelligence (AI) could be implemented into tiny computer chips in wearable medical devices,"
     publishedDateTime: 2020-11-16T14:13:00Z

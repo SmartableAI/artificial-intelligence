@@ -55,20 +55,6 @@ related:
         width: 2080
         height: 1384
         isCached: true
-  - title: "Facial Recognition and the Convenience of Injustice"
-    excerpt: "In the quest for convenience, one of the tasks people have assigned to AI is facial recognition. Apparently, it has now become very good at using the image of a face to identify individuals. It may even perform better than Lady Gaga in the knotty problem of distinguishing Isla Fisher from Amy Adams."
-    publishedDateTime: 2020-11-13T18:17:00Z
-    webUrl: "https://www.fairobserver.com/region/north_america/facial-recognition-and-the-convenience-of-injustice/"
-    type: article
-    provider:
-      name: Fair Observer
-      domain: fairobserver.com
-    quality: 39
-    images:
-      - url: "https://www.fairobserver.com/wp-content/uploads/2020/11/facial-recognition-1.jpg"
-        width: 938
-        height: 450
-        isCached: true
 
 secured: "djfZ8DGkSozzKWZsEBqdmntsSaYJEBNCN3f9rxFDsmaId82hSOO19YAsps8rw0FK7Q7HjJ96QbFa1Pu549isl9+Wpzk4zTRY2uptAgV/s38N4jiCJoLCant9c8knA4TYAc4eUtEetqJ7x84NlqSxUc8c7R8dh5rqvDzJI40tQAafYiQxGFrorPVdVpdRG1lCVcz9/n9EJtW2MKnA7zOxMSXI1oJmxDi77ua8w0OxCQ6Nv73c6TGAUO9bE2g2zAWJXV7UvPdip8ELi4EkaKEMV/3M5q1SAMMR5TfS/tbwkdbdFrrewMis20ryIT3wBTFUlMP8/BokWCqOKXwElzRqSjL6UZ4mF8sM9UpRvbqRBkI=;7ZHZuSEQiKuO/EeaLlTIBQ=="
 ---

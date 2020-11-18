@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Senseforth.ai Named a Gartner Cool Vendor"
-excerpt: "Senseforth.ai, a leader in Conversational AI technology, has been named a Cool Vendor in Conversational AI Platforms 2020 by Gartner. The “Cool Vendor” status denotes a startup that provides innovative,"
-publishedDateTime: 2020-11-18T04:01:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-indonesia-asia-southeast-asia-c840991a9abe4b3aa08065bc5ffe31d5"
-webUrl: "https://apnews.com/press-release/business-wire/technology-indonesia-asia-southeast-asia-c840991a9abe4b3aa08065bc5ffe31d5"
+title: "Senseforth.ai named a Gartner Cool Vendor"
+excerpt: "Senseforth.ai, a leader in Conversational AI technology, has been named a Cool Vendor in Conversational AI Platforms 2020 by Gartner. The “Cool Vendor”"
+publishedDateTime: 2020-11-18T09:30:00Z
+originalUrl: "https://en.antaranews.com/news/161784/senseforthai-named-a-gartner-cool-vendor"
+webUrl: "https://en.antaranews.com/news/161784/senseforthai-named-a-gartner-cool-vendor"
+ampWebUrl: "https://en.antaranews.com/amp/news/161784/senseforthai-named-a-gartner-cool-vendor"
+cdnAmpWebUrl: "https://en-antaranews-com.cdn.ampproject.org/c/s/en.antaranews.com/amp/news/161784/senseforthai-named-a-gartner-cool-vendor"
 type: article
-quality: 37
-heat: -1
+quality: 57
+heat: 67
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Antara News
+  domain: antaranews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://img.antaranews.com/cache/800x533/2020/03/23/Logo-BusinessWire-800x600.jpg"
+    width: 800
+    height: 533
     isCached: true
 
 related:
@@ -39,6 +41,6 @@ related:
         height: 450
         isCached: true
 
-secured: "aziZGaRy44L9De9sNIhYMci68T8Aiwo97XPbWHJLLH3aQIeB4cqVu4aFlvjHUNKanHJ1I/shI6mT1ux1d21/dnDbSfyNOWMq50/AuifXERCvkBHF7tOonfgyW8I9BcsswX6AjO05biuyd6Lsz482T6pKqGxqMIHat8e5C1A+jCNpokHe2YwWoN4E4a5TLl+98gbmCTw9KJxHMYPCvZNMA7FfwBIv89s1eXgwzv3rarKlHxWoHmXbmIGm6QiznMyIVJshE+UkikHM5bpdjF4n6RzDUpTMR941nf6MFRI74pqGoQmxebzUWe1+6xG139qNulSwKDmJW0ncuUj0TiCSJMlk7Bl6Qx3HwHDUcDNua8M=;2vUMeqgSYvSs/zpdN5DWOQ=="
+secured: "4ujNqYNChcTcN5ibn7QiZUdRawuSyTB5ejyhJ2YVbdNq8zotvymS/uShKOXz3iEJcba7KF6RfrhM1lkBkK5OvP0TJoGSbYv1PTAorpT9m2VyFqUHAFrXgvUD2L+gYilDsBnmNFke9X2cGVjsQthOqGAKdbUuly0WJfjFFCjNswM9ftVh93Ni2s/vat2CcVMQvOIp8YLqOqlKTtRSirEGTn1H21DYaExu13fswFJxgpJtGDjtjJ5szOpmcHbLr+lg1NDRWBQW2jGtj/iDUnce/aM8/hM3CWfcCawrursoZ+/zSH4o/HYP4M0fxW3PUX42x31Wb1jcjCutklFqwnqyLqYTHXJHktCGWTzEcihT67U=;hPMVdtT6vU6l1mora6ZaUA=="
 ---
 
