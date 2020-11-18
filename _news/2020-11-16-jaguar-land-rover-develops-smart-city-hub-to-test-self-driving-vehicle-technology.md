@@ -19,28 +19,49 @@ topics:
   - AI
 
 related:
-  - title: "Weather-proof chip aims to take self-driving tech, wireless communications to next level"
-    excerpt: "A new device can overcome challenges like bad weather to deliver more secure, reliable communications. This could aid military communications in challenging areas, improve the ability of self-driving cars to see the environment around them and speed up wireless data for potential 6G networks."
-    publishedDateTime: 2020-11-13T09:42:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/11/201112145432.htm"
+  - title: "Jaguar Land Rover to open self-driving 'smart city hub' in Ireland"
+    excerpt: "Jaguar Land Rover (JLR) is to open a \"smart city hub\" that will allow real-world testing of self-driving (autonomous) cars and connected technologies. The Future Mobility Campus Ireland (FMCI) in Shannon,"
+    publishedDateTime: 2020-11-16T00:04:00Z
+    webUrl: "https://www.driving.co.uk/news/technology/jaguar-land-rover-open-self-driving-smart-city-hub/"
+    ampWebUrl: "https://www.driving.co.uk/news/technology/jaguar-land-rover-open-self-driving-smart-city-hub/amp/"
+    cdnAmpWebUrl: "https://www-driving-co-uk.cdn.ampproject.org/c/s/www.driving.co.uk/news/technology/jaguar-land-rover-open-self-driving-smart-city-hub/amp/"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 57
-  - title: "Upgraded radar can enable self-driving cars to see clearly no matter the weather"
-    excerpt: "A new kind of radar could make it possible for self-driving cars to navigate safely in bad weather. Electrical engineers at the University of California San Diego developed a clever way to improve the imaging capability of existing radar sensors so that they accurately predict the shape and size of objects in the scene."
-    publishedDateTime: 2020-11-17T21:22:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/uoc--urc111720.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
+      name: Sunday Times Driving
+      domain: driving.co.uk
+    quality: 44
     images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/249160_web.jpg"
-        width: 480
-        height: 360
+      - url: "https://www.driving.co.uk/s3/st-driving-prod/uploads/2020/11/JLR-autonomous-cars-1024x638.jpg"
+        width: 1024
+        height: 638
+        isCached: true
+  - title: "JLR to develop a smart city hub to test self-driving cars"
+    excerpt: "Self-driving vehicles will share the streets with cars, pedestrians and cyclists"
+    publishedDateTime: 2020-11-17T04:53:00Z
+    webUrl: "https://www.newsoneplace.com/37514651911/jlr-self-driving-develop"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 24
+    images:
+      - url: "https://i2-prod.coventrytelegraph.net//article19288858.ece/ALTERNATES/s615/1_JLR-Autonomous.jpg"
+        width: 615
+        height: 409
+        isCached: true
+  - title: "Jaguar Land Rover developing \"smart city hub\" to test self-driving car tech"
+    excerpt: "Jaguar Land Rover is teaming with software and telecom companies to create a \"smart city hub\" in Ireland to test self-driving technology."
+    publishedDateTime: 2020-11-17T19:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1130332_jaguar-land-rover-developing-smart-city-hub-to-test-self-driving-car-tech"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 22
+    images:
+      - url: "https://images.hgmsites.net/hug/2020-jaguar-i-pace_100751027_h.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "tQckC40Nf3qhyHs47spRmb4HKt7XDxDuAXSvUiysH7Z3awc00GzFggyBXxJDBiOMCyvVjxEPtikE7/5Kce05EzU7PZw9H9tzbm4HCfHmNc6WGipTqjeVw10LkJlsMinpiFZUGJQG8bPSFk8/diep4xfmFdBITPjzvDt9e9fVep+0ZhBlt5OHQwx4bj3d4A2ilzjxFfKHSno9KwaHO7SEiuYopCmfw+ssxbApiLi7pnQQNuRGsCZQn1cH+8dQekGSKKGFCTiYA9KwICoK1a1agqS1xj/i22SuCdcjic8QARmGYVFLqDUtYagybZg6p6/CaiFA+0eJL7cnfFj8n17+wdhl8uN5nsM85zPRUR/OZI4=;D828Hhhh16zDl+SkBl1T9g=="

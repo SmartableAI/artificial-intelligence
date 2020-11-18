@@ -26,11 +26,11 @@ images:
 
 related:
   - title: "Corsight AI Launches Real-Time Facial Recognition Technology that Accurately Identifies Individuals at an Unmatched Speed Under Any Condition"
-    excerpt: "Commercially Available, Corsight's Technology is Powered by Autonomous AINEW YORK, Nov. 17, 2020 /PRNewswire/ -- Corsight AI, a leading"
+    excerpt: "Corsight AI, a leading facial recognition technology provider, announced today the launch of its facial recognition technology. The technology is able to compliantly identify individuals on watchlists even under the most challenging conditions,"
     publishedDateTime: 2020-11-17T21:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/corsight-ai-launches-real-time-facial-recognition-technology-that-accurately-identifies-individuals-at-an-unmatched-speed-under-any-condition-1029810723"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/corsight-ai-launches-real-time-facial-recognition-technology-that-accurately-identifies-individuals-at-an-unmatched-speed-under-any-condition-1029810723"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/corsight-ai-launches-real-time-facial-recognition-technology-that-accurately-identifies-individuals-at-an-unmatched-speed-under-any-condition-1029810723"
+    webUrl: "https://markets.businessinsider.com/news/stocks/corsight-ai-launches-real-time-facial-recognition-technology-that-accurately-identifies-individuals-at-an-unmatched-speed-under-any-condition-1029810669"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/corsight-ai-launches-real-time-facial-recognition-technology-that-accurately-identifies-individuals-at-an-unmatched-speed-under-any-condition-1029810669"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/corsight-ai-launches-real-time-facial-recognition-technology-that-accurately-identifies-individuals-at-an-unmatched-speed-under-any-condition-1029810669"
     type: article
     provider:
       name: Business Insider

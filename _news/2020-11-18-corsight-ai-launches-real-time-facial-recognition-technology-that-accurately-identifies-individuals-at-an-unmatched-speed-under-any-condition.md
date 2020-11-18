@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Corsight AI Launches Real-Time Facial Recognition Technology that Accurately Identifies Individuals at an Unmatched Speed Under Any Condition"
-excerpt: "Commercially Available, Corsight's Technology is Powered by Autonomous AINEW YORK, Nov. 17, 2020 /PRNewswire/ -- Corsight AI, a leading"
+excerpt: "Corsight AI, a leading facial recognition technology provider, announced today the launch of its facial recognition technology. The technology is able to compliantly identify individuals on watchlists even under the most challenging conditions,"
 publishedDateTime: 2020-11-17T21:52:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/corsight-ai-launches-real-time-facial-recognition-technology-that-accurately-identifies-individuals-at-an-unmatched-speed-under-any-condition-1029810723"
-webUrl: "https://markets.businessinsider.com/news/stocks/corsight-ai-launches-real-time-facial-recognition-technology-that-accurately-identifies-individuals-at-an-unmatched-speed-under-any-condition-1029810723"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/corsight-ai-launches-real-time-facial-recognition-technology-that-accurately-identifies-individuals-at-an-unmatched-speed-under-any-condition-1029810723"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/corsight-ai-launches-real-time-facial-recognition-technology-that-accurately-identifies-individuals-at-an-unmatched-speed-under-any-condition-1029810723"
+originalUrl: "https://markets.businessinsider.com/news/stocks/corsight-ai-launches-real-time-facial-recognition-technology-that-accurately-identifies-individuals-at-an-unmatched-speed-under-any-condition-1029810669"
+webUrl: "https://markets.businessinsider.com/news/stocks/corsight-ai-launches-real-time-facial-recognition-technology-that-accurately-identifies-individuals-at-an-unmatched-speed-under-any-condition-1029810669"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/corsight-ai-launches-real-time-facial-recognition-technology-that-accurately-identifies-individuals-at-an-unmatched-speed-under-any-condition-1029810669"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/corsight-ai-launches-real-time-facial-recognition-technology-that-accurately-identifies-individuals-at-an-unmatched-speed-under-any-condition-1029810669"
 type: article
 quality: 49
 heat: -1
@@ -68,6 +68,6 @@ related:
         height: 824
         isCached: true
 
-secured: "/aHLuTPzcqd4WWWq3I4QDApp+roAY391TNx9gz1FIyPg23DL6v8941ErhIqFJimOmxqRbDGWoj4FMWPaYHurPiuvAspf7N2yNv12sQ6JAPSRLWpF5k78i5JuuvUIeYKOL6zTpSnBPbxUc+ROrzs91iLxJsU58zN19X/NnRG4U7gTLmNecrP44A27xW/y1e2t1Aoye13pD8nMMyIypKFBPQskXKC1URZAnx3EWwhxqSKtrA5mGhXRUYY3RhrvspYICzNveOpBZEv3wyHJpCeF2ggNGBzKdszVC+c3etzM6PQnaKKpHMv2t1FCMwIzvQ30UP0I70mUbfUvhrhunZbQU0EoSd907POqfK78oJmi11o=;WDAZFljPvZU774fgYEBZ8Q=="
+secured: "Zu9/1qfgspK2qRpuN7Sk6frN37zTHPeEXN5zU1I+bwsg5SoLoAfyvc9oDr892WH3rJcKvCwEst3dxU9cU1nVrl22obXt0etLmZhj7HLrVKHf3MDrFFR0Y2RdxpJ1JI2852pb+WK8WE4u35y3bz0Bv0DwTF3on2mMAfyfXAfPsXO+ThYiEpdZFFn8gfvbW/34T4en6s1+xqgN3OWWhRZaE1X0nI1FTvGJtMhJ8xv3C6UDjY22UMuGS3LcLBwhqrz9ovn1UbLB9xxUNeMOk3kS4RCLEvYAbjJSOixjGchJFA/JxLZilCOLswa4VlVNuAkEFQbstfQya+ShWxmmT4H4DV1R7t6bp1pSpNE9jIu/J2k=;UtCpIE1L+T99P/MnDQsqCQ=="
 ---
 

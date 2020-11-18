@@ -7,7 +7,7 @@ originalUrl: "https://www.startribune.com/walmart-cruise-to-test-grocery-deliver
 webUrl: "https://www.startribune.com/walmart-cruise-to-test-grocery-delivery-in-self-driving-cars/573066812/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Walmart to Launch Self-Driving Delivery Pilot in Arizona"
-    excerpt: "Walmart announced Tuesday that it is launching a pilot program in Scottsdale, Arizona, for all-electric self-driving car deliveries. The effort is being done in conjunction with the self-driving car company Cruise,"
-    publishedDateTime: 2020-11-13T10:57:00Z
-    webUrl: "https://nationalinterest.org/blog/techland/walmart-launch-self-driving-delivery-pilot-arizona-172414"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 24
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/2020-11-10T140052Z_139583049_RC2E0K9RJCK3_RTRMADP_3_AUTONOMOUS-CRUISE-WALMART.JPG.jpg"
-        width: 1222
-        height: 802
-        isCached: true
 
 secured: "LxsXd0vUgqFO9hT9JSJ63WPte5DTsG8uyQeTLMVdnQXqyzWq+6pOR8O3n/1TsYMsmn3JyW7IyGJtRsXuyfxLmj2l+A8tC+ZoTTHlSkltjU2XLLjigaLe7Hen5tikquVI8xxJNdoYAYNKS7cylLZsifonpbyfWMAhEEQj2l0+wKP8aRCdbHvZDdclqDMKMbqMLYaS0A83Mxe8RxVMyzAnj2KaiSVjiPXQkoneFvoQqqJtdBzRUacCaEZHXjcO18knDWYApgMu2x9vn8bQ0bU9KZnCQnCd6HJ12++63MV4Qhv/iK2OiHn4ExNUEtX0tK78WHsJqaEPoOrMczXFFb+cg8+vFYt5dtCcynL2yq0EqJ8=;wpHKV666G+ixm7wvcgUS1Q=="
 ---

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Making Sense of the AI Landscape"
-excerpt: "But the term “AI” in fact covers a huge spectrum of different things. How can leaders start to make sense of this vast array of new systems? The authors analyzed over 800 different AI tools ..."
-publishedDateTime: 2020-11-17T13:17:00Z
-originalUrl: "https://hbr.org/2020/11/making-sense-of-the-ai-landscape"
-webUrl: "https://hbr.org/2020/11/making-sense-of-the-ai-landscape"
+excerpt: "both specialized in AI and advanced robotics. He is also an independent advisor to the European Commission and member of the IEEE Global Initiative on Ethics in Autonomous and Intelligent Systems."
+publishedDateTime: 2020-11-16T23:59:00Z
+originalUrl: "https://hbr.org/2020/11/making-sense-of-the-ai-landscape?ab=hero-subleft-1"
+webUrl: "https://hbr.org/2020/11/making-sense-of-the-ai-landscape?ab=hero-subleft-1"
 ampWebUrl: "https://hbr.org/amp/2020/11/making-sense-of-the-ai-landscape"
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/making-sense-of-the-ai-landscape"
 type: article
@@ -17,8 +17,8 @@ provider:
   domain: hbr.org
 
 topics:
-  - AI
   - AI Ethics
+  - AI
   - AI in Robotics
 
 images:
@@ -58,22 +58,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "5 jobs that will be displaced by AI and automation in the near future"
-    excerpt: "While artificial intelligence will displace 75 million jobs, it will create an additional 133 million jobs by 2022. What’s important here is that the new jobs will be mainly in the area of AI ..."
-    publishedDateTime: 2020-11-13T09:31:00Z
-    webUrl: "https://www.ciol.com/5-jobs-will-displaced-ai-automation-near-future/"
-    ampWebUrl: "https://www.ciol.com/5-jobs-will-displaced-ai-automation-near-future/amp/"
-    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/5-jobs-will-displaced-ai-automation-near-future/amp/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 59
-    images:
-      - url: "https://www.ciol.com/wp-content/uploads/2019/12/Can-Artificial-Intelligence-Help-Prevent-Suicide.jpg"
-        width: 850
-        height: 469
-        isCached: true
   - title: "Connecting the Classroom to Careers Through AI Explorations"
     excerpt: "Artificial intelligence is an increasingly prevalent part of our everyday lives. From live-updating, turn-by-turn driving directions to responsive"
     publishedDateTime: 2020-11-16T15:31:00Z
@@ -105,6 +89,6 @@ related:
         height: 698
         isCached: true
 
-secured: "yzBt3oTDYPPEFVH/RKbad30dOJ6+dUden/Octv10nBxKzZuYN+2tqi0stfHy9hNZJgOmUvrCwgFRneOvTuu6Vf/fMWGcBCto/7OeUm39LxLdvv5R2kXw5HZVWLZFw43nX5rC9+DpFMwYx4Go72vtwySk3byyuoc7NBDDu1sVn50aWBt0wzKl/oekp6lJvjzA4nMV2GJBKySUqF3oxefsURuwQ2c3Xo3ylE9+C7QM+RUa2t/Rbj6UEHKUoTsMm+ZUUMHAUrGUHSBbtXSRlvLza6ii2MGq7FzR4Cc0U2gGKxTm9pkat7zyDuewPJ7AK4V2iJVTzSV0Rii2DNyJLpTc5AAzzhxDuB0ELrgfjRYUQyc=;xrdfRZvYlBJAyg71x8SoCQ=="
+secured: "hATFK2p+geZ7KwBh6aoH6Jy83sWCUPAd9PVDocoBqOE0YJ+uTw/pAC2JHEuc+41Se7BOM5R3kcFoO0+hjv0cE3NOv/AilVTdtoQWRki7/bS+CkC7ThhKI2J5f5K54VkW5KwAYM+KLqC4V7KHqv+NqzjjRvvwHfA8gl82UkaAGs2K6YlmJyuGnwycOfZA9c5c46QovH82oQ0muySwDmhtdGZUR4JPSFMMxhiFFIZDlorI0q9LwEWBCffL5CiBdBQT+MY5zLPEHcVdR00Nqim5vUoxMGf5MHlVkuzDSG9hLzon9+651NMyTUSPrfwuR6ytse789HeFvgNly0vHwmHStITpkE+/zH6IUX7MaAIYg4I=;30xYVYVCi9EKnHz4l5Oeog=="
 ---
 

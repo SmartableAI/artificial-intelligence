@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Computer Vision Market: Global Market Opportunities, Size, Share, Emerging Trends, Technological Innovation And Forecasts To 2023"
-excerpt: "Computer vision is a field of technology dealing with smart devices, particularly laptops, smartphones, personal"
-publishedDateTime: 2020-10-29T06:32:00Z
-originalUrl: "https://www.marketwatch.com/press-release/computer-vision-market-global-market-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts-to-2023-2020-10-29"
-webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-global-market-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts-to-2023-2020-10-29"
+excerpt: "Oct 29, 2020 (AmericaNewsHour) -- Computer vision is a field of technology dealing with smart devices, particularly laptops, smartphones, personal computers, tablets, and others. These devices are ..."
+publishedDateTime: 2020-10-29T12:55:00Z
+originalUrl: "https://www.marketwatch.com/press-release/computer-vision-market-global-market-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts-to-2023-2020-10-29?dist=bigcharts&tesla=y"
+webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-global-market-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts-to-2023-2020-10-29?dist=bigcharts&tesla=y"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "2eYUZmwN+Aff3przn6RIXKL/w6BFBFjkmNHfx37ipyvgi6C1g/gTaD8oVbRzXx6vmuvA5Tf/j0KH3GVf0/OEGO4xpwpTno21CyTfw5EHIp2yRMBbBkgOPIEVWJmuRwKEiBqvYXb3pjxziuGLpbnpixmtYdPe3UVTguathxnDwv1m1Luo0nkWaAOGc0caq4YsuRIqboBaFnDP1p1Pxyq45qsV6u6KJKvjgDQsutIH57C15mKXa5AycHgnPu/K3fjRTmR9jINeOKuG+E79BoV8lE6j87LQLK3fZjVn2CXMdxnC2gDdpokW+wOk0aYvjvn5OjxOSrFCFAFjhRcxIdWtx6B4H7tAvxokM0OQRBJxd3c=;zu1JBC98qeeh9V6CcfIt3g=="
+secured: "EN5rhr32dnI3a4hTCcZhDi1YBoumHcjP6PG8k1kP1xDlefczO0EU0gRrwqdr68V3emvA0crtJzDniqocpoWgEEq3bdAjBpISvxNizMFo2lIHyBQi+9kqCCzc7kLl+8B0UF7nwCpx6BSZZnEhwlujWtGIBzlCVLXVf1Xk6m+hE+jVZvQpXsdp+U6CNXp/NoaC874MVoEWyqWNkXcgu1AEwu4suYlQBpbJEAYS6QN6nqgOeBcEAjN3UsD1xlpdeZN4F+melscZ8QFJ677XUir8p3+4sSEoh8qBwh/24xAsZ090jLyvvpiDWWpwl7G5K8vyEy98ql/KVov+nHX/Sq3E5ELumrTLaPzZOf4vLSBHpGk=;C77boIr67OtUwujmxH7dDQ=="
 ---
 

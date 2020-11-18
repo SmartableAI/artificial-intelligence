@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsofts-new-azure
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsofts-new-azure-data-services-explained/"
 type: article
 quality: 119
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -93,6 +93,20 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Key layers for developing a Smarter SOC with CyberProof-managed Microsoft Azure security services"
+    excerpt: "This blog post is part of the Microsoft Intelligent Security Association (MISA) guest blog series. Learn more about MISA here.   Security teams are struggling to reduce the time to detect and respond to threats due to the complexity and volume of alerts being generated from multiple security technologies."
+    publishedDateTime: 2020-11-17T16:00:00Z
+    webUrl: "https://www.microsoft.com/security/blog/2020/11/17/key-layers-for-developing-a-smarter-soc-with-cyberproof-managed-microsoft-azure-security-services/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 58
+    images:
+      - url: "https://www.microsoft.com/security/blog/wp-content/uploads/2020/11/SUR18_Holiday_Contextual_1674_RGB.jpg"
+        width: 1080
+        height: 720
         isCached: true
   - title: "2021 – The year to save costs and accelerate your business with Microsoft Azure"
     excerpt: "South African businesses – but 2021 is a blank slate, and many companies are seeing this as an opportunity to leverage the lessons learned and strive for growth. This is particularly true for businesses which are now embracing cloud technologies."

@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "New Orleans PD Using Facial Recognition Despite Earlier Denials"
-    excerpt: "Despite earlier claims by officials that the New Orleans Police Department was not using facial recognition, it appears the agency has been leveraging the technology through state and federal partners."
-    publishedDateTime: 2020-11-17T22:37:00Z
-    webUrl: "https://www.govtech.com/public-safety/New-Orleans-PD-Using-Facial-Recognition-Despite-Earlier-Denials.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/New-Orleans-PD-Using-Facial-Recognition-Despite-Earlier-Denials.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/New-Orleans-PD-Using-Facial-Recognition-Despite-Earlier-Denials.html?AMP"
+  - title: "The LAPD Just Banned Its Officers From Using Third-Party Facial Recognition Software"
+    excerpt: "The Los Angeles Police Department issued a moratorium on the use of commercial facial recognition software on Tuesday"
+    publishedDateTime: 2020-11-18T02:41:00Z
+    webUrl: "https://gizmodo.com/the-lapd-just-banned-its-officers-from-using-third-part-1845702878"
+    ampWebUrl: "https://gizmodo.com/the-lapd-just-banned-its-officers-from-using-third-part-1845702878/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/the-lapd-just-banned-its-officers-from-using-third-part-1845702878/amp"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 82
     images:
-      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
-        width: 939
-        height: 630
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ej9yggro63jbjpp2rbbz.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "New Orleans police use facial recognition software, despite previous assurances to the contrary"
     excerpt: "The New Orleans Police Department has confirmed that it is using facial recognition software to investigate crime, despite years of assurances that city government wasn’t employing the technology. The agency doesn't own facial recognition software,"

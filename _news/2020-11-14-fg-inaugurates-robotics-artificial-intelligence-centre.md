@@ -9,7 +9,7 @@ ampWebUrl: "https://punchng.com/fg-inaugurates-robotics-artificial-intelligence-
 cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/fg-inaugurates-robotics-artificial-intelligence-centre/?amp=1"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://guardian.ng/wp-content/uploads/2020/11/AI-robotics.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "FG set to commission National Centre for Artificial Intelligence and Robotics in Abuja"
-    excerpt: "FG is set to commission the National Centre for Artificial Intelligence and Robotics in Abuja. The Federal Government of Nigeria, represented by the honorable Minister of Communication and Digital Economy,"
-    publishedDateTime: 2020-11-13T10:02:00Z
-    webUrl: "https://nairametrics.com/2020/11/13/fg-set-to-commission-national-centre-for-artificial-intelligence-and-robotics-in-abuja/"
-    type: article
-    provider:
-      name: Nairametrics
-      domain: nairametrics.com
-    quality: 61
-    images:
-      - url: "https://i0.wp.com/nairametrics.com/wp-content/uploads/2019/08/Isa-Ali-Ibrahim-Pantami.jpg?resize=900%2C563&#038;ssl=1"
-        width: 900
-        height: 563
         isCached: true
   - title: "Robot-centred healthcare systems become a reality"
     excerpt: "Artificial intelligence has already had an impact on healthcare data, but the next steps will be taken in the physical world"

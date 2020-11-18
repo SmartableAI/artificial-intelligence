@@ -72,20 +72,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "FG set to commission National Centre for Artificial Intelligence and Robotics in Abuja"
-    excerpt: "FG is set to commission the National Centre for Artificial Intelligence and Robotics in Abuja. The Federal Government of Nigeria, represented by the honorable Minister of Communication and Digital Economy,"
-    publishedDateTime: 2020-11-13T10:02:00Z
-    webUrl: "https://nairametrics.com/2020/11/13/fg-set-to-commission-national-centre-for-artificial-intelligence-and-robotics-in-abuja/"
-    type: article
-    provider:
-      name: Nairametrics
-      domain: nairametrics.com
-    quality: 61
-    images:
-      - url: "https://i0.wp.com/nairametrics.com/wp-content/uploads/2019/08/Isa-Ali-Ibrahim-Pantami.jpg?resize=900%2C563&#038;ssl=1"
-        width: 900
-        height: 563
-        isCached: true
   - title: "Nigerian govt commissions artificial intelligence centre to create millions of jobs"
     excerpt: "The Nigerian Government through the National Information Technology Development Agency, has launched its National Centre for Artificial Intelligence and"
     publishedDateTime: 2020-11-13T12:16:00Z

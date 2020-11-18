@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Playing and Losing—To Robots"
-    excerpt: "Robots are challenging humans at our own games, and they’re winning. Curly versus an elite human curling team. (Image courtesy of Korea University.) The concept of powerful supercomputers going head to head with the human race is something typically seen in science fiction."
-    publishedDateTime: 2020-11-13T10:39:00Z
-    webUrl: "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20845/Playing-and-LosingTo-Robots.aspx"
-    ampWebUrl: "https://mobile.engineering.com/amp/20845.html"
-    cdnAmpWebUrl: "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20845.html"
-    type: article
-    provider:
-      name: Engineering
-      domain: engineering.com
-    quality: 59
-    images:
-      - url: "https://www.engineering.com/portals/0/BlogFiles/65_ima1.jpg"
-        width: 640
-        height: 412
-        isCached: true
 
 secured: "nK2Y03VB/ePUdZ/tRCHksCh6LQpCfd9qKBcpoJXB9dGIyLiLI1+dtaIcwNOafkXWZhkH6NX4RIYcGqY9yaOVMGWcOr1r1MZS3mlaS82866ZP8QDlgLffQXkovqv8ZNpIQHh2cJHuK77DBfWNnjOzye6EMvIk9d0OHhEo2FP/R+7iLv7UxjzWT9emPi5tuf6lnM0H1k2SPCG9P4V8/sxNgeGwSc3asvDgmUNdAIa8CZGQaEIJ0ZZFNeEoGbNNtBdxMiZGztTE9Mlhi3r7/YvHaTCm57zp7JWf6caW3dFlIFFvTWbFhthn6JpRaofGtxSIMCCwLPqUNTbqA2oKLjMoLqIfrRzFabNRDJMGVeJOlN4=;BygV9utrZ4LwL+sdz79QWw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2020/11/15/its-managers-n
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/11/15/its-managers-not-workers-who-are-losing-jobs-to-ai-and-robots-study-shows/amp/"
 type: article
 quality: 101
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Playing and Losing—To Robots"
-    excerpt: "Robots are challenging humans at our own games, and they’re winning. Curly versus an elite human curling team. (Image courtesy of Korea University.) The concept of powerful supercomputers going head to head with the human race is something typically seen in science fiction."
-    publishedDateTime: 2020-11-13T10:39:00Z
-    webUrl: "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20845/Playing-and-LosingTo-Robots.aspx"
-    ampWebUrl: "https://mobile.engineering.com/amp/20845.html"
-    cdnAmpWebUrl: "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20845.html"
-    type: article
-    provider:
-      name: Engineering
-      domain: engineering.com
-    quality: 59
-    images:
-      - url: "https://www.engineering.com/portals/0/BlogFiles/65_ima1.jpg"
-        width: 640
-        height: 412
-        isCached: true
   - title: "With more automated jobs, workers need artificial intelligence skills"
     excerpt: "As the coronavirus pandemic pushes more jobs to become automated, workers need to gain skills to program and run artificial intelligence."
     publishedDateTime: 2020-11-13T11:44:00Z

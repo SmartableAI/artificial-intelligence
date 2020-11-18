@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2187365/global-computer-vision-in-the-hea
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2187365/global-computer-vision-in-the-healthcare-market-report"
 type: article
 quality: 76
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 400
     height: 400
     isCached: true
-
-related:
-  - title: "Global Digital X-ray Market Outlook 2020-2025 Featuring Prominent Vendors - Siemens Healthineers, GE Healthcare, Koninklijke Philips, Canon Medical Sy"
-    excerpt: "Global Outlook and Forecast 2020-2025\" report has been added to ResearchAndMarkets.com's offering. In-depth Analysis and Data-driven Insights on the Impact of COVID-19 Included in this Global Digital X-Ray Market Report The global digital x-ray market by revenue is expected to grow at a CAGR of over 7% during the period 2019-2025."
-    publishedDateTime: 2020-11-13T10:11:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=373290"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
 
 secured: "v+9OLiDSRQkPtDesSogCpdNI9djLpnNrrQHLfXaSBmxu7Tenfy3td8ttQyczr1eXnH41p5kmmhOiDGB0dmtxd1wyTT+idGwovMSmMiNKtNT+mmjjQPcolhBG3wQcLE+p6Qgwsl+RFKZsZJ0s9EXeuWGcsBr0qP4NkoJik/6MRBGYLZX3b1+/6UnPhcEXgdltdK0Guc9Vy+qBDfu0mRzrN3bkPnzN/4y0cIYy5JQoQ6OtsNx3Mh3qEXTJWd0yJl//L1qNIEw528728wRrVhJSzY3oGqvaa+wQEj4wKuQsOPaA2L2GyVhT37qzEzVTMvWf4F2SKhCeEia94Fx68wK9TE4efACmmzbtsqXckldVanlB3OoExurlZ0h8201ncosB57GREM6/US8DOHzv3JmcCYOL+ggjE2oLZyStWvulZHgwQfYbo44NxD3FdrCTe77+cGFQprA69ElHluHdA6hb7vgZVEdOC+us3oMNavMCI/IenJTrzLHUPBhwa3622+hoYiMJsVxrhkxd+Ks92g9lSA==;rpzWgGqu7JmCLWbF6ubabQ=="
 ---

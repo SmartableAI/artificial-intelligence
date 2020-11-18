@@ -36,20 +36,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 84
-  - title: "Vance Technology Launches Vance AI Background Remover for Image Editing"
-    excerpt: "Vance Technology, an AI-powered web solution provider, recently launched its Vance AI Background Remover, a new AI web tool to remove background automatically online. What Can Vance AI Background Remover Do?"
-    publishedDateTime: 2020-11-13T09:29:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-production-and-editing-technology-entertainment-and-media-technology-01bc26fa4618463aaeca1df9b3f6b02c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "EFVlrV51j4gErXOd1Q6okT1oQ+hpqw6YzkqM2eN6QBa+mTuja52MY1dZVIFKOBDmWDO4ZzDCaATkSIy5rL1FjVprWZKZ2AQuJDm0uO5J4qxau//HBQ2LqM1++O2FBS1UHfmwmyXFskyZpOXMW7OqL4SP5isfEVIuwVITQ22OnL0Z3nSuNa/v2MsP8aq5N1MYNyNtu8wal8HN/0TMYCQ+bncU346WYiRL/sWzgB/E9wIZl5UE0UCb1ZufBx5hPRr60gshflG7QCBb6zz6OJ5P0cQKUGFgr+cw5XhO0GCoW0IMOaUaIziXPXBcCGWmsFkzISx10AdUh2mD3KHv8TbVNHPDPn+IDhScPALffMuVPow=;4A+nc2tgTZaCd45R7I8neg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2020/11/from-the-data-and-ai-expe
 webUrl: "https://www.ibm.com/blogs/watson/2020/11/from-the-data-and-ai-expert-labs-2/"
 type: article
 quality: 119
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -46,9 +46,9 @@ related:
         height: 417
         isCached: true
   - title: "Making Sense of the AI Landscape"
-    excerpt: "But the term “AI” in fact covers a huge spectrum of different things. How can leaders start to make sense of this vast array of new systems? The authors analyzed over 800 different AI tools ..."
-    publishedDateTime: 2020-11-17T13:17:00Z
-    webUrl: "https://hbr.org/2020/11/making-sense-of-the-ai-landscape"
+    excerpt: "both specialized in AI and advanced robotics. He is also an independent advisor to the European Commission and member of the IEEE Global Initiative on Ethics in Autonomous and Intelligent Systems."
+    publishedDateTime: 2020-11-16T23:59:00Z
+    webUrl: "https://hbr.org/2020/11/making-sense-of-the-ai-landscape?ab=hero-subleft-1"
     ampWebUrl: "https://hbr.org/amp/2020/11/making-sense-of-the-ai-landscape"
     cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/making-sense-of-the-ai-landscape"
     type: article
@@ -60,22 +60,6 @@ related:
       - url: "https://hbr.org/resources/images/article_assets/2020/11/Nov20_17_498430921.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "5 jobs that will be displaced by AI and automation in the near future"
-    excerpt: "While artificial intelligence will displace 75 million jobs, it will create an additional 133 million jobs by 2022. What’s important here is that the new jobs will be mainly in the area of AI ..."
-    publishedDateTime: 2020-11-13T09:31:00Z
-    webUrl: "https://www.ciol.com/5-jobs-will-displaced-ai-automation-near-future/"
-    ampWebUrl: "https://www.ciol.com/5-jobs-will-displaced-ai-automation-near-future/amp/"
-    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/5-jobs-will-displaced-ai-automation-near-future/amp/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 59
-    images:
-      - url: "https://www.ciol.com/wp-content/uploads/2019/12/Can-Artificial-Intelligence-Help-Prevent-Suicide.jpg"
-        width: 850
-        height: 469
         isCached: true
   - title: "Connecting the Classroom to Careers Through AI Explorations"
     excerpt: "Artificial intelligence is an increasingly prevalent part of our everyday lives. From live-updating, turn-by-turn driving directions to responsive"

@@ -100,6 +100,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Key layers for developing a Smarter SOC with CyberProof-managed Microsoft Azure security services"
+    excerpt: "This blog post is part of the Microsoft Intelligent Security Association (MISA) guest blog series. Learn more about MISA here.   Security teams are struggling to reduce the time to detect and respond to threats due to the complexity and volume of alerts being generated from multiple security technologies."
+    publishedDateTime: 2020-11-17T16:00:00Z
+    webUrl: "https://www.microsoft.com/security/blog/2020/11/17/key-layers-for-developing-a-smarter-soc-with-cyberproof-managed-microsoft-azure-security-services/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 58
+    images:
+      - url: "https://www.microsoft.com/security/blog/wp-content/uploads/2020/11/SUR18_Holiday_Contextual_1674_RGB.jpg"
+        width: 1080
+        height: 720
+        isCached: true
   - title: "Rick Wagner: Microsoft Federal to Help Air Force Integrate Capabilities In Support of ABMS"
     excerpt: "Rick Wagner, president of Microsoft’s (Nasdaq: MSFT) federal arm and a three-time Wash100 awardee, wrote in a blog post published Monday the company will compete to develop, field and operate systems across multiple domains in support of the U."
     publishedDateTime: 2020-11-17T10:38:00Z
