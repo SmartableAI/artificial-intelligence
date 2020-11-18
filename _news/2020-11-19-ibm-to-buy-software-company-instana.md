@@ -44,9 +44,9 @@ related:
   - title: "IBM acquires Instana, builds out application monitoring tools"
     excerpt: "Instana, which supports multiple containers and monitoring technologies, will be integrated with IBM's Watson AIOps platform."
     publishedDateTime: 2020-11-18T06:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/ibm-acquires-instana-builds-out-application-monitoring-tools/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/ibm-acquires-instana-builds-out-application-monitoring-tools/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/ibm-acquires-instana-builds-out-application-monitoring-tools/"
+    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-acquires-instana-builds-out-application-monitoring-tools/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-acquires-instana-builds-out-application-monitoring-tools/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-acquires-instana-builds-out-application-monitoring-tools/"
     type: article
     provider:
       name: ZDNet
@@ -112,6 +112,6 @@ related:
       domain: nasdaq.com
     quality: 54
 
-secured: "zyzCjvpe163WUKH2BRqbGDOQHvRSaSkxizTnA2LRBvmb/BJZfD0aLR3YjK+lydwYPbUQbH9ZCbRYD/FlQa21D6hPc/Zo0QL1BsC+VRuz+FA+FfDPcMGw7L6VNg93GpjHnxhX/XloDJbDNaos+59uNAxqkEvB2LTJLJo7W8zDmQ9b3IPPkAfeBKgiKtRshuEyj6Xhivn9xdIU4gnCSYfec2SwZ3CjlaJnl8cEMQe8JfilNJrdFAvcLVsl0htF4CzDxPNMbAUY7QbAHjdeWhoC+POwIxT/ejY8HVdzGOD3iBJpAGAVKq/ILalNYARaoE1gBekhZQQ9U8bHNr0UUX7yYJFLEyJuekP+Wj7hn6TEns4=;EybKyOM8RBgiQ4Vzl+6fiQ=="
+secured: "FYOauv607LgglYepMelQx6+/6RLbEAZATr1Sa6KzdzP1rNrCkJY2ZoizkDowR7Pg1sJ2m1FExLJAzOYvG5Z5aEcrBmgRgmVOUQCWFJsFPtjdPnsI4k5+W+pGjVGUjaYZnWhrWrGmo+k4NPfJ8ltwuPVvDLLCUBj+7rmzSNo0UlriDuTwkeFqHjPCmOLU4kLLBApamZNbjed/PeXB8csjcz8LkSCHONyFdppFoOamUSMeIdlpt+td87nT5Q4UkJNTWb4tDA2oWZstibxQH6BbGpnkh95zw1YssUgI7w+mdYct/Bj6DcCdffNKCGt5lvgMAE1ADnwUK47dEvlhuAd/bacZlLfIpYkGtwOzRH1cOdNLLiO1MR5uEdoZLJ1xUCErI4nJW0gPj5BAfR2Uh9OXAGA7ziz6/V+J5dSzKI+dtt2PPGAbtjlLdhYu6W4q0W7yCSzgGqe3mE1e6bVgTykcTUoEOltpwKO7ykzWv162W21mrQo5DNeHZPNiIh/jdqPBLReXNKWjvWSd44kNVmmgTw==;XVn/W9whWL0yFXlt4u7sFQ=="
 ---
 

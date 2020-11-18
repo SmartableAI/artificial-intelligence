@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-18T20:17:00Z
 originalUrl: "https://news.mit.edu/2020/advancing-artificial-intelligence-research-1118"
 webUrl: "https://news.mit.edu/2020/advancing-artificial-intelligence-research-1118"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://news.mit.edu/sites/default/files/images/202011/artificial-intelligence.jpg"
@@ -59,6 +60,6 @@ related:
         height: 229
         isCached: true
 
-secured: "kgTGpPusYk/9NJGXzaNMV5pcSC00q96fHWDcZj+jTYKmujJK+hphqUDKUzxRiEoogbwW79WyuxwBGAZo/9f+LXrbvPz/8E9tI3uGK11fbqk4wRHR8gczEqjlZJInaTHQBhoppRIagbwdLLpdF/TOGork2T5exO4846nEobOzQcvClaOf2blzO6Gkcmd6yjfdvprmXM3d6y4PChtesre3JzQQaKjaxEg0f9KigQ8A5KsXnzjB5NS5hPwmGDjXpI9RD3RLeM6LYMGTc95QYpBZ6b1t+J1dK5gUaHAC9HPmlty1GH0O+bMsnLlpQrWmKxnDdmsdzvOe0TMijCwNMdXBJrcY6RlplVgMApS5ytzIXVs=;CyRBTTuKXh9YcB1+p7auPw=="
+secured: "OD9I7+8oTwX7r7WbO8yigSRubM3vW6vP1XJ+dBqYoa1Di1zAgZK+f4U7ax46UmeFJeCNGnB7gq2gdNK8l1lwAJSmL8w6OTHFnNC/rzpUC0DM9PHM+XZY2Xkm1HXqWAlHRCzkpEdgbrs58eHvOR68hQnyFCRNOvL32ZJ4DlxBZC/mGS8dusekHK0O9ewnNvG/HQvVjngSeUGHIaIo3fWj0wLDlXgo9Hx5pKXt+mZ9aq8+Lmj45mVneNhbuE7OFs6E5JXyNJ/N9o5Z7Uw4VndXV/F4r9T1TgaIpS0EopXu4ysYa+f/LEQAzzvJbnnMcUTAV8Lv7ec7ET2IvQ/OBUDbHl2eqdrpez9PC6Qs1alrRpCRh4CS/Zwm+5S27fPVs9mo2FmnmE1PRedBuJ/gjFzF/paNu1fFEV5a6H7vWzlPo7pceFiX4y+ZnInnLgsTxKLjfvmkl86YDISDdykCze24pHNnGJ7PHm2NkA19+Esq/S7yBA9BBhUSBZjYOkOwKEyR5OrgNgJOBnWuKnjx/wt2bg==;A7RgcQctgJnjd8XhzjwITw=="
 ---
 

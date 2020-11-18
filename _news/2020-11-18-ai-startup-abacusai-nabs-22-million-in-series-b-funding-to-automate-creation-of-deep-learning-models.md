@@ -3,10 +3,10 @@ category: news
 title: "AI startup Abacus.ai nabs $22 million in Series B funding to automate creation of deep learning models"
 excerpt: "Abacus.ai, the year-and-a-half-old San Francisco startup that seeks to automate deep learning models for customers, said Wednesday it has received $22 million in financing in a Series B round led by venture capital firm Coatue,"
 publishedDateTime: 2020-11-18T11:07:00Z
-originalUrl: "https://www.zdnet.com/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
-webUrl: "https://www.zdnet.com/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
+originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
+webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
 type: article
 quality: 88
 heat: 118
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - Machine Learning
+  - AI
 
 images:
   - url: "https://zdnet4.cbsistatic.com/hub/i/2020/07/15/b05a1865-d2bd-44e2-9dba-d69065a6df0b/2020-07-15-at-1-27-40-am.jpg"
@@ -71,6 +71,6 @@ related:
       domain: globalspec.com
     quality: 19
 
-secured: "OTBbo861na/sIZnk5xDn3YvlEiMiL3z25iI++OSuNgamk30wKwmeavxZjpno3cRt1hY3Xeiv9b8jLcNieS5gk8E9UrWZcXY3mZ6lS6pZe2ZqhY9Biw/7kOwhfWj+lQVz2NCl1b3UlYc7+1iAM+THMO4HF0MtiuiuVKptItI71pRuNVaMkOJOCs2RQXVH1g4ACQTK3V1TxFiscMIOjrJuTn/08TdrnK4ZTaGQ6S0Rlimk7MIWPqoUSyI7BM4DljY+jsFUQsQ9r0bx8Cbt1GFm0qs1wE6J/HLJlP43FJukAizuidpmemCSvsqkRffBC95skhS0aktNF4JDuBxthFynJMI1ypzCxMHiM+qpYQq1wWg=;jPqsbRSktFiMA3dMT+Ujpw=="
+secured: "9gDdWskgwY/qz3FUDWtnCbPfC+RO1Hs7kh4tKL3r7cL5Vt8ylpsJGhX8I3Towuaoh53VRk7yBJg02OR0K95DdUZWDk0Yrzv4GdVUCDEvOxaBlb5n40sAsAXkbqpC9xwr1m05Tk2a3HoofvRorpncsYvpRRdxt2v4E+sFGpPHAAORGcpijfbE6xkXEhECr0nJRlK8mY1O2Ch0hM9UfyIlY5VqLQf6G2+GGUxuFgC5fATP6n7dB3EpEL1mXhGLO8ejW/DMVYkLCvl453OZ8BFGZUpSzTGOqsCmlMxc5QNDx2NPOfMg/mqYTrexD0SV0Uaa+izaARr0NV1Es4/CL23lPLFmhFWT9oTjfkIhAtNrmww=;Q6OeUuAKKU5JJDNwuGgCIw=="
 ---
 

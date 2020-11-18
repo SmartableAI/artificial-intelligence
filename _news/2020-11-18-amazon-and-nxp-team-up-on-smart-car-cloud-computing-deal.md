@@ -3,10 +3,10 @@ category: news
 title: "Amazon and NXP team up on smart car cloud computing deal"
 excerpt: "NXP has announced a new strategic relationship with Amazon's cloud computing arm AWS focused on extending the opportunities of connect vehicles. The collaboration between the two companies aims to deliver a secure,"
 publishedDateTime: 2020-11-18T00:00:00Z
-originalUrl: "https://www.techradar.com/nz/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
-webUrl: "https://www.techradar.com/nz/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
-ampWebUrl: "https://www.techradar.com/nz/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
+originalUrl: "https://www.techradar.com/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
+webUrl: "https://www.techradar.com/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
+ampWebUrl: "https://www.techradar.com/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
 type: article
 quality: 74
 heat: 94
@@ -52,6 +52,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "F8MrJDBA/NOTdoTK5TkBo+u3zkM5hF5/dpC/49617HXnCIC5WfjsK7g0IbhDC5JfitMmU7aRcFAp4qfri0sNx/+yAx7pCwYchXSRe1/HVjUrA7jBcdruewwNKoWEZsFd5CSG1FeBvSCpKFSe10yjKwFvNn7QHuPsPOBK3Q/F2ey3Lvs2vYYiZJhBFuNMR2364ZN41Ry1WnmOxXv88eRlatBx6ZUTiJAVEUSW6uWm0zCswd/tAp3zbf5KAs5Ee7sBuwiVzsjsFrv1oOfsZ5PGJEtd2186X7brGx9k9RnO/RM9M1vYzot5tnxZFVxWg3wkPeZbkTVQgl73gwKnrRBQE9e1V0P4/cLfq5KSbpmnvLg=;Bmt1EmZC+Plv5HmoK2KGuQ=="
+secured: "nkEP3YmTPdyqMoqhSooD4zq7apv6lFIinxtCOmKPAUDfyk6fo3r9r+xikQ0IqFyRLUraZoJu9+eMrpvoqBpwZdNKRWuyu+H3hPp+wr2oGqOhgGsQIQVATOUaHVHarSEvGw+WcKM7O0rc79S1oAVg4GOP9lZy8HPlSqs27vyyft8UdlB0IAURh5HxwG1g7rUKUx65eAZ1bVV5XFdJ6SghVE8RMexc1EjuSmA/BuMg1EqOJ3UP3uFDRVGYYB04Q+jBu9fjyDSTqZftn2uNHdkC5y9bR174X89zvhhHhC0v8XyykJ5T0dpjKqNTFlbVvtbfb9PA1jpE0FcUf52TE+Qj9HSSaSydrxJpZkBiIkKvRv8=;TZLQPQ4yWzQZgVWALfdf8Q=="
 ---
 

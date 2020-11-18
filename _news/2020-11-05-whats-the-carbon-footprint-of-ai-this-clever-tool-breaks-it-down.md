@@ -23,6 +23,13 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
+
+images:
+  - url: "https://icdn4.digitaltrends.com/image/digitaltrends/imagecomposite_aibrain_200723-1200x630-c-ar1.91.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Estimating the carbon footprint of deep learning algorithms"
@@ -40,6 +47,6 @@ related:
         height: 400
         isCached: true
 
-secured: "0mEdAZQ2KuCIpO/Vl+L0jVAJbIKaRPohaD+Hw47C/J7fruMSGVstemvVPuL3VPfS91k6KCzG0TWfbbof9/JBPWqC+wHgu3zcJeX450ErG8HBqvC9dBcauRGUOjHD20jJZYZpg1rfPZNsR3f/LoK4c+69kximhUkJqby31/4FHsDceaT3pmd3LEi7EJb3dO7bPuCqZc95bHZDX1tFKzWb6HN3vSLALZCjuURHS/CTb1VRkfcapl1jz/pig/9OTCxurXeflZgWUEIsi5xozVr1ghdlmGNILOgQ9yaWxH2KTd73Ynog/iqffZpyihnOAbI6dXMjh2w70+YxgGdftyoVEFkACUbQ9Q0oKwUS0SaY6xi63b4bqxsp18Avo6HyOV1D/RHr/Odf4eyImJ3R9RE2YrKfR7NovHUT/slX/IN2w2eDB4WZN1Jqe+0iVrE28/cy5HtjV6rs7Nz8kPCduHHV7om+JdPUCpPQBrHSuIpXKOqaDSw36Q1Z711l9jMVtRI482Y9ux7FQ2EKTIxIxYEysw==;dKwV+qkNqDufSaZzXyIqFw=="
+secured: "6UYsq0KL6DNhJCOr0KW/R0WAuqKdazIW1iscLqgkpJmX5gEPSNwJ47EpVaFkZAnMCL5XnyeMglSiCYwPeojKQIuUonZod9OVSrSRyGIHzcCcOEQ3GLXOR9dCUREqVbg7SlnZzKDk4TBWx96bmLijWDO1v5JE7F79qzccsyZNI2WYoZKBLf4reP9d4jdFCrIm25gBiylkKNVIdKdPQqxp5prHdLp93186hLznCdZJwzHyK2DSMQx/iIxvjuZTDGduwbL2faytgRqPgGuYh6x4Yx5Fu/883bNAap2la7wThkxvrKvkfxazsPJeI8caao4Vh81sUhJaRfp/4hqKSNEv8IkhBFqFAAz9flm+MKBCt2s=;rSSo+khSeAc3RWq71iDZ5w=="
 ---
 

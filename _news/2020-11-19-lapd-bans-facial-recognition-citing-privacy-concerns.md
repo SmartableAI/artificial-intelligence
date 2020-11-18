@@ -105,22 +105,6 @@ related:
         width: 939
         height: 630
         isCached: true
-  - title: "Los Angeles Police Ban Use of Third-Party Facial Recognition"
-    excerpt: "The Los Angeles Police Department halted the use of outside facial recognition platforms in investigations after uncovering that detectives had used a powerful commercial software known as Clearview AI without permission."
-    publishedDateTime: 2020-11-18T16:20:00Z
-    webUrl: "https://www.govtech.com/public-safety/Los-Angeles-Police-Ban-Use-of-Third-Party-Facial-Recognition.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/Los-Angeles-Police-Ban-Use-of-Third-Party-Facial-Recognition.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Los-Angeles-Police-Ban-Use-of-Third-Party-Facial-Recognition.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
-        width: 939
-        height: 630
-        isCached: true
   - title: "LAPD Bans Use Of Third Party Facial Recognition Software For Law Enforcement Work"
     excerpt: "Law enforcement having facial recognition access to nearly anyone who posts anything online could be a concern"
     publishedDateTime: 2020-11-18T19:32:00Z
@@ -222,7 +206,18 @@ related:
       name: Governing
       domain: governing.com
     quality: 39
+  - title: "Los Angeles Police Ban Use of Third-Party Facial Recognition"
+    excerpt: "The police department has prohibited officers and detectives from using any facial recognition software that isn’t the county’s official platform, which only uses criminal booking photographs."
+    publishedDateTime: 2020-11-18T21:45:00Z
+    webUrl: "https://www.governing.com/security/LA-Police-Ban-Use-of-Third-Party-Facial-Recognition.html"
+    ampWebUrl: "https://www.governing.com/security/LA-Police-Ban-Use-of-Third-Party-Facial-Recognition.html?AMP"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/LA-Police-Ban-Use-of-Third-Party-Facial-Recognition.html?AMP"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 39
 
-secured: "6HnHIFjnFzzMxue7QgqQMoKCaV0k8LLNhc/Bb8pjMSN254O3pjUpZE6XHMx+m1/FoVF0OkR458lCAlvSYzsKR+7QHh+bTSa1UlTyE7snNAxVxP7ScxHS8w81sXq3tw2LCaMdGQf52jLf8pcMtcOoURlsmbM5crjHU3u5NZKBTOW0JJQr3BZizt2nz7UvS/w79xQ2bHH77t2qAXWBUjh9EH11odL2AA0N8Fpdy6kB/E5Vc5mtuABw5EUhsbqO4gTIXfz2QhS6FzLiqjvbd5UjXcT2xRvOUZrup5VAt1iNXY5+ws3zGVEZMmNkVxOAqcCrtSJdsCZo2lz++YSonEpcKun1PSzkrMuo61c1Ch3QIjA=;6yeuW9yPiWQBCRSDI4a3oQ=="
+secured: "7X89WuASKc6+cdS25izT0u3TtiBavF1Zy5W3A1UFfVKczVAp0PQTeTg6Rp1EXIjRHeDU4iRANc4SXPVnSzagTUDMUhwuGG6+ba4o/bGluq0nZ8gI8waci+eGZiupFRGZllxeK7xd1eG2kjvlrKVNmGhOd9h3dSDTS/Qhe9d1z6KRyr7yGWuNDCQDhhJW/+ipJ0tAIXDkBkhsldlEgqkbk+nKICtsSLMYrzxS0phcmb5LLYlOeBskOsY6czmN1GEBE3fcQz6z/MTVkAwAra+bJeQQ6yBIOvksJ/j5QifALXbR5FDWUBBONUiHCIpX8ENPGFSfzbZMuAIfpL9AzYOmLlyhjT+2Iv43pJ70SlBekpYoz95QJktgk7YAywoB1tfDKal0hn9wePpaYzJuqGePgtCGe5S58Nfu/BMkAd5ZY+vnnf8PKBuKBPqdAGSTMP0Fdmis/Iyep25nYtPPaRRiJKoMs115zLzHhq0j7YA6ZidUgvSLVJEAXtIwGo64dopuW6QgiZQXuGwCWtXpAJDgEg==;TlN1Z6mcSFZXj0MyWWv7Lw=="
 ---
 

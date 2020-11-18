@@ -1,30 +1,24 @@
 ---
 category: news
 title: "Los Angeles Police Ban Use of Third-Party Facial Recognition"
-excerpt: "The Los Angeles Police Department halted the use of outside facial recognition platforms in investigations after uncovering that detectives had used a powerful commercial software known as Clearview AI without permission."
-publishedDateTime: 2020-11-18T16:20:00Z
-originalUrl: "https://www.govtech.com/public-safety/Los-Angeles-Police-Ban-Use-of-Third-Party-Facial-Recognition.html"
-webUrl: "https://www.govtech.com/public-safety/Los-Angeles-Police-Ban-Use-of-Third-Party-Facial-Recognition.html"
-ampWebUrl: "https://www.govtech.com/public-safety/Los-Angeles-Police-Ban-Use-of-Third-Party-Facial-Recognition.html?AMP"
-cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Los-Angeles-Police-Ban-Use-of-Third-Party-Facial-Recognition.html?AMP"
+excerpt: "The police department has prohibited officers and detectives from using any facial recognition software that isn’t the county’s official platform, which only uses criminal booking photographs."
+publishedDateTime: 2020-11-18T21:45:00Z
+originalUrl: "https://www.governing.com/security/LA-Police-Ban-Use-of-Third-Party-Facial-Recognition.html"
+webUrl: "https://www.governing.com/security/LA-Police-Ban-Use-of-Third-Party-Facial-Recognition.html"
+ampWebUrl: "https://www.governing.com/security/LA-Police-Ban-Use-of-Third-Party-Facial-Recognition.html?AMP"
+cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/LA-Police-Ban-Use-of-Third-Party-Facial-Recognition.html?AMP"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Government Technology
-  domain: govtech.com
+  name: Governing
+  domain: governing.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
-    width: 939
-    height: 630
-    isCached: true
 
 related:
   - title: "LAPD bans the use of Clearview's controversial facial recognition software"
@@ -223,6 +217,6 @@ related:
         height: 438
         isCached: true
 
-secured: "AyREng0omfY5KHlQJWY0os7oQx3dXybNOsns7RTBVL/2tBjbQnoSZvMqplpth86pVj/MDoXxPLXTajen9YGE/QUKd+xdn/s64Z7yazyRDXG5wlLe6TkfzFfLYOKXOmTRsonvNTqWnAQbDzRGTcp6m7hBt9uue+Fi5wOpM5l1zzLwEXE00Y3LKpW7IdaB28GUYCCjgJPFTfAvFjIcccuB2zLrz7hb7Ko9QCdKJV8HjX1ZwTl1Spl+T8sDycT6quZN4QKiKutIMzOQSO6k+mUycWHgRzuNTOra17evAgXu4db/mOWpxhKUwRmNlpaHlxmMg4Myx+4Bm3ABplaPmJAkh/pFo87JqtzNhhIxBlEcXaA0Fv0PQ/ecfhibyBNyWVwp49jfm0ZXsseJ+wUFfL/r95JA3cDRmYH7YuvOluB8O9YjCtZnzCk1YsEm5pdkdXVcpRi9nY7h0V7D3LydVsy2JbS3+cRPJIWijixL+zWcp7lwwVjpCZt3ONn8CDaoZcizdlG8mL0v4aajrsbLLOkUTQ==;Ujy7dZPT9p6FfnXSC8ESeA=="
+secured: "tx+9GHyYHbMw5F4U5BlisFJXoQ8qdZFxsEm5mSt8yYuXripc28Lkq7RjjdO1YdKmySU8lQp++sTSwCH/An+n44oGxCTuNSvgosMlYGMcHTGUpohHgj1Pkte8grgx4qcqBvpeA+bm1tRB6wdEWy0eebYEZX87je9SXhsaCHqv+l5QFPxt8VuWu6I8wPBtT2gHdTR6XUHkJplIHTsV0UQcchaj/L/zMQB9UOZATFV57xtSIuY3+1i9u32H10N8sDqB4uvZX0eKEjB4ELOt5t77u1Lr7YKvEArOJo2bi/gYb+yMNBLToiGAU+up1sjULO8L5cCh5vxnoz60D71xYhTF1OHNoIiN+oop6aBj+mbxH2U=;eMljbouwyNLxz2jNUzYMBQ=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://thenextweb.com/neural/2020/11/18/neurals-guide-to-the-glorious-
 ampWebUrl: "https://thenextweb.com/neural/2020/11/18/neurals-guide-to-the-glorious-future-of-ai-heres-how-machines-become-sentient/amp/"
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/18/neurals-guide-to-the-glorious-future-of-ai-heres-how-machines-become-sentient/amp/"
 type: article
-quality: 84
-heat: 84
+quality: 86
+heat: 86
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2013/04/prediction-730x367.jpg"
@@ -30,6 +31,6 @@ images:
     height: 367
     isCached: true
 
-secured: "ojd5rdCJF39sJhDtfvCg5BPMgWcuVbCm3qQA5iBLluMsgrO3c79xxD/PgFcXtTB8J9MnKCF9GFafwYf5O0iCtq6Bk12Tf3r9uByR+5hODJ9jS6h4ByQ8AR3JWxBDwWnQrtK7H3cIlBlaI26STmuF95bJhbmXQwj4dVrJAphQoF4zaKYXfBpGKMNcKx1VqRrGftWXXhuyKA2OTCeS4yKRx33NpIGTZl3k7I+3Yov/kZlnlaiNhd5tR20OOyLACA/2vjZoxp31nq1Qrp8Xp70+OIjOT+0+kOqI9ZmVXG3k80Qk9kbbhzBhNS1+5OCM53BrGWhXbNnWVhP+9IgnsOYa38DRJF28ZkKZgElTvWgMTAw=;MUN1/jG+6czHjOYZoPWztQ=="
+secured: "ArbLgNnfxkMBUUeGc0O8u0bRCF0+PgC1/FQwlFt0UYw4xLNBGksNsImQqZNOR71x0fMS2gVkMXJURUrHyq3gdpGAwj5YvuVTH5jP699NKQuiuX5gaZiAU36A5UVXMjJ/1sGApWzoIJZbpI85V3b7IttHm8+I4Cr1tjC3UMU355/uud4JElJ1UzydA60OkxbUDW04FKKCMoP/JU7+KsiPy2ad4+O5SqJUP59gBI8sVNpXFme3PsDaWD1r4rPG00ZPfA9QsLUHBsofIlOm+MgiGIOfW5Zi2MEz0VuX+h3rKremQ4Puqu9ZW80Hg546Qenb0EtXGVrB3tUuoVHlRh4BRbGT2VRIUA35jLlj4ZprEtW53+JxyqE0CKLSZbdy0lG+CO4p23T2xI3xJFYd75mUcdRjQAC9kdPYJM37TUZ9Txm5MNlBILkSwKtoxrAF9lYQkM9RNWlflQjs/JIz9qQB18eU9GinH+qJEOi+7mVCeIsvNwbq/RmXsUfSkW0Od63cO5Ee8O1qjvxemjCErPZqww==;Uo+CsPdck7MciTxczppljA=="
 ---
 

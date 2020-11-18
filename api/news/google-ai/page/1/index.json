@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-11-19-google-releases-new-version-of-tensorflow-optimized-for-macos.md",
-      "title": "Google releases new version of TensorFlow optimized for MacOS",
-      "excerpt": "Google today released a new version of TensorFlow, its AI and machine learning development environment, optimized for Intel Macs and Macs powered by Apple’s new M1 chip. Taking advantage of the ...",
+      "path": "_news/2020-11-19-mac-optimized-tensorflow-flexes-new-m1-and-gpu-muscles.md",
+      "title": "Mac-optimized TensorFlow flexes new M1 and GPU muscles",
+      "excerpt": "A new Mac-optimized fork of machine learning environment TensorFlow posts some major performance increases. Although a big part of that is that until now the GPU wasn’t used for training tasks (!), M1-based devices see even further gains,",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/18/google-releases-new-version-of-tensorflow-optimized-for-macos/",
-      "originalUrl": "https://venturebeat.com/2020/11/18/google-releases-new-version-of-tensorflow-optimized-for-macos/",
+      "webUrl": "https://techcrunch.com/2020/11/18/mac-optimized-tensorflow-flexes-new-m1-and-gpu-muscles/",
+      "originalUrl": "https://techcrunch.com/2020/11/18/mac-optimized-tensorflow-flexes-new-m1-and-gpu-muscles/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 143,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/04/TensorFlow-logo-Google.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/Apple-m1-chip.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/18/google-releases-new-version-of-tensorflow-optimized-for-macos/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/google-releases-new-version-of-tensorflow-optimized-for-macos/amp/",
-      "publishedDateTime": "2020-11-18T11:34:00-08:00",
+      "ampWebUrl": "https://techcrunch.com/2020/11/18/mac-optimized-tensorflow-flexes-new-m1-and-gpu-muscles/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/18/mac-optimized-tensorflow-flexes-new-m1-and-gpu-muscles/amp/",
+      "publishedDateTime": "2020-11-18T14:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,9 +49,10 @@
         "news"
       ],
       "topics": [
-        "TensorFlow",
         "Google AI",
-        "AI"
+        "AI",
+        "AI Hardware",
+        "TensorFlow"
       ]
     },
     {

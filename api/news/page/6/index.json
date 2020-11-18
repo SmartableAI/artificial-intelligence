@@ -2,6 +2,154 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-11-14-uber-in-talks-to-sell-its-atg-self-driving-unit-to-aurora-source.md",
+      "title": "Uber in talks to sell its ATG self-driving unit to Aurora - source",
+      "excerpt": "Uber Technologies Inc <UBER.N> is in talks to sell its autonomous driving unit, Uber Advanced Technologies Group (ATG), to self-driving car startup Aurora, a source familiar with the matter told Reuters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-uber-aurora-idUSKBN27T30K",
+      "originalUrl": "https://www.reuters.com/article/us-uber-aurora-idUSKBN27T30K",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541170142&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1RR",
+          "width": 816,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27T30K",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T30K",
+      "publishedDateTime": "2020-11-13T20:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-google-ml-framework-tensorflow-hits-160mn-downloads.md",
+      "title": "Google ML framework TensorFlow hits 160mn downloads",
+      "excerpt": "The popular machine learning framework from Google called TensorFlow has become the most popular machine learning library in the world, with over 160 million downloads. Five years ago, Google open-sourced TensorFlow for research and production.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.in/tech/news/google-ml-framework-tensorflow-hits-160mn-downloads/articleshow/79219678.cms",
+      "originalUrl": "https://www.businessinsider.in/tech/news/google-ml-framework-tensorflow-hits-160mn-downloads/articleshow/79219678.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/72107402.cms?height=275&width=412",
+          "width": 412,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.in/tech/news/google-ml-framework-tensorflow-hits-160mn-downloads/amp_articleshow/79219678.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/google-ml-framework-tensorflow-hits-160mn-downloads/amp_articleshow/79219678.cms",
+      "publishedDateTime": "2020-11-13T20:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-researchers-investigate-why-popular-ai-algorithms-classify-objects-by-texture-not-by-shape.md",
+      "title": "Researchers investigate why popular AI algorithms classify objects by texture, not by shape",
+      "excerpt": "Google and Stanford researchers investigate in a new paper why CNNs tend to classify objects by texture instead of shape.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/13/researchers-investigate-why-popular-ai-algorithms-classify-objects-by-texture-not-by-shape/",
+      "originalUrl": "https://venturebeat.com/2020/11/13/researchers-investigate-why-popular-ai-algorithms-classify-objects-by-texture-not-by-shape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/13/researchers-investigate-why-popular-ai-algorithms-classify-objects-by-texture-not-by-shape/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/13/researchers-investigate-why-popular-ai-algorithms-classify-objects-by-texture-not-by-shape/amp/",
+      "publishedDateTime": "2020-11-13T18:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-14-ey-india-acquires-ai-startup.md",
       "title": "EY India acquires AI startup",
       "excerpt": "Spotmentor is an end-to-end skilling platform to help businesses identify skills required for the future of work, up-skilling and re-skilling talent.",
@@ -1112,163 +1260,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-google-clouds-new-ai-suite-hits-on-doctors-admin-headaches.md",
-      "title": "Google Cloud's new AI suite hits on doctors' admin headaches",
-      "excerpt": "Google Cloud will become a top cloud partner for hospitals looking to ease administrative headaches driving burnout among their doctors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-cloud-unveils-new-healthcare-ai-tools-for-admin-tasks-2020-11",
-      "originalUrl": "https://www.businessinsider.com/google-cloud-unveils-new-healthcare-ai-tools-for-admin-tasks-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fae92e31e8d50001981354a?width=1200&format=jpeg",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-13T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-facebook-is-now-using-ai-to-sort-content-for-quicker-moderation.md",
-      "title": "Facebook is now using AI to sort content for quicker moderation",
-      "excerpt": "Facebook has always made it clear it wants artificial intelligence to handle more moderation duties on its platforms. Today, it announced its latest step toward that goal: putting machine learning in charge of its moderation queue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/11/13/21562596/facebook-ai-moderation",
-      "originalUrl": "https://www.theverge.com/2020/11/13/21562596/facebook-ai-moderation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/-FAGdkTUBz-6IjCyedZdlH2vuHw=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67784022/acastro_180522_facebook_0002.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/11/13/21562596/facebook-ai-moderation",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/11/13/21562596/facebook-ai-moderation",
-      "publishedDateTime": "2020-11-13T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-robots-join-the-sales-team.md",
-      "title": "Robots Join the Sales Team",
-      "excerpt": "Brokers can hand off tours of listings and the litany of client questions to their bionic colleagues, but a human has to step in when a deal is ready to be made.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/13/realestate/real-estate-robots-ai.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/13/realestate/real-estate-robots-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/15/realestate/13robots/13robots-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/13/realestate/real-estate-robots-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/13/realestate/real-estate-robots-ai.amp.html",
-      "publishedDateTime": "2020-11-13T05:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

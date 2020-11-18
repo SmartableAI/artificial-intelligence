@@ -7,7 +7,7 @@ originalUrl: "https://www.itnews.com.au/news/transport-for-nsw-trials-machine-le
 webUrl: "https://www.itnews.com.au/news/transport-for-nsw-trials-machine-learning-to-detect-crash-blackspots-557980"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,19 @@ images:
     height: 836
     isCached: true
 
-secured: "3hdw982dcJFHUryPH2j0JfzKRYNkWEIeG250rIa+V7HoKoDTsAUvTtTk1RZ1RtoR829TcvuvCRnHu17G6Jtj0puMzRBHF5ru0EUaYR72tXWrHxugGOAbAYJ+tnhPy36RlowX5vLxvLhQRD86kKdgwwdb9VUnlhyovPOtkurH5Pjg43wYhjdRe/LIn3nyULSxw3BC8rPWKAwfKqTFXax5rfXjfl1vLIjusAjUxQ8+VUxWtpbKzAwTkjm54tqOHPsIovgFUfLIOn1UWnwpw8QzjlX3QTzuZmAdBWGhmN0KmI9N125NNlQBI5DBnrWCKCVGCYrxPXDw/WIWFPaZSKu5sXingOvdX28gC7/2jK7rUDg=;Rra5kuclKHiG84ElmirGSw=="
+related:
+  - title: "NSW Transport and Microsoft use machine learning and data to reduce road accidents"
+    excerpt: "Transport for New South Wales and Microsoft have partnered to develop a proof of concept that uses data and machine learning to flag potentially dangerous intersections and reduce road accidents. As part of the proof of concept,"
+    publishedDateTime: 2020-11-18T03:00:00Z
+    webUrl: "https://www.zdnet.com/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 80
+
+secured: "6pZhfR+xrLpqhvGCE4bczxefpU31tQgWL6JkTgoxJ+zHx1ZYAVz0g6hi/z0IvLVU64FOCWdj5m+ZnSR98OHi3GOR3GQFsPxCrkqDD0Z21NK6reIdnfXc3nkyTIcwBzxYIrd7FY3JUks2Bc3tzmZGqlpm8rvWOX1w+/doODpl+8d33M41cNNd73qsk4UdmIQeFJGQpa391ikCAAAUUn23/fPVbhH4YqTB70o8zVH0ZGnFImbaZ1fUHdWoLG+iuVkAKE2DMp37VlYGtvd7ueTmobDePiu07YG/6EblhzPiI0Reg6ItIBiiFSRvFoK1nerKdaV8Nakrdgs8lbzDIIvgH3G0gOiZ2SI9OsW0HxRc0qAoRGd2urPw1VEJWSg4LoIcqBZ1Mv4+fhKNKWZtNG5+Z3Vff0HlDaOaoAhPBiFWsDr5BuSH8r55vo0VtbZ5neYUQx32HOUd4FUD5EnvDszHqjsCn0MWL2yswxfTYfUd1bu7bHYBvzpR/9wO+3DLyOsAwN+CR4YCwGMKoki7sEkjjQ==;Ar+BG2LQH13K1o6DaNTyEw=="
 ---
 

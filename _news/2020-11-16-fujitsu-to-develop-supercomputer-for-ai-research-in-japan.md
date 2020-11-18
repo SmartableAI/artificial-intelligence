@@ -38,7 +38,7 @@ related:
     provider:
       name: Massachusetts Institute of Technology
       domain: mit.edu
-    quality: 67
+    quality: 69
     images:
       - url: "https://news.mit.edu/sites/default/files/images/202011/artificial-intelligence.jpg"
         width: 1920

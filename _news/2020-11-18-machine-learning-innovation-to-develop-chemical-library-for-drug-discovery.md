@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2020-11-machine-chemical-library-drug-discover
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-11-machine-chemical-library-drug-discovery.amp"
 type: article
 quality: 57
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning innovation to develop chemical library"
+    excerpt: "Innovators are using machine learning models to create new options for drug discovery pipelines. Innovators have introduced chemical reactivity flowcharts to help chemists interpret reaction outcomes using statistically robust machine learning models ..."
+    publishedDateTime: 2020-11-18T21:26:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/11/201118080739.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Machine learning innovation to develop chemical library"
     excerpt: "Purdue University innovators are using machine learning models to create new options for drug discovery pipelines. Purdue innovators have introduced chemical reactivity flowcharts to help chemists interpret reaction outcomes using statistically robust machine learning models trained on a small number of reactions."
     publishedDateTime: 2020-11-18T05:04:00Z

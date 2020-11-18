@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2020/11/18/google-releases-new-version-of-te
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/google-releases-new-version-of-tensorflow-optimized-for-macos/amp/"
 type: article
 quality: 106
-heat: 106
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -31,6 +31,40 @@ images:
     height: 675
     isCached: true
 
-secured: "TO/IoezyBYCin5HKwalbDr9feipGorG4ZPj++zyaTWeKO+NRM6MC7FNqFaDT7MSjwjdOIdbOy63oSqrJx0+UMPUbqwjVCG0TF4rLpSZLFTayThp3B23uqoOvLQdeVDKZCr37329KoSzt9YrFLbftlFys8gUN4UpfjYVkq0fyQD/9xc/d01STzLDPsKUDCKE2inPels3kua9WKs0/fdAtu/DPc8J6wOvB01L2yZR3r60zoXcdzKPiODCu30wegEG8xRjHGO7yzELKrjI3ZtApsGKn4wm3NYCcPkrth1lMw5LI4Eh7XSxPo4SbDrdjpXZYP0kzEj2QPLz1LTX5r7wjZB9hY5XAwxnxtF5wQHXujdU=;CvpHEkz9yL7nQJYevdDccQ=="
+related:
+  - title: "Mac-optimized TensorFlow flexes new M1 and GPU muscles"
+    excerpt: "A new Mac-optimized fork of machine learning environment TensorFlow posts some major performance increases. Although a big part of that is that until now the GPU wasn’t used for training tasks (!), M1-based devices see even further gains,"
+    publishedDateTime: 2020-11-18T22:40:00Z
+    webUrl: "https://techcrunch.com/2020/11/18/mac-optimized-tensorflow-flexes-new-m1-and-gpu-muscles/"
+    ampWebUrl: "https://techcrunch.com/2020/11/18/mac-optimized-tensorflow-flexes-new-m1-and-gpu-muscles/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/18/mac-optimized-tensorflow-flexes-new-m1-and-gpu-muscles/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 123
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/11/Apple-m1-chip.jpg?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Apple releases TensorFlow fork with speedups for M1 Macs"
+    excerpt: "Apple has released its own fork of the TensorFlow 2.4 machine learning framework, specifically optimized for its newly released M1 processor. According to Apple, the M1-compiled version of TensorFlow delivers several times faster performance on a number of ..."
+    publishedDateTime: 2020-11-18T21:46:00Z
+    webUrl: "https://www.infoworld.com/article/3596904/apple-releases-tensorflow-fork-with-speedups-for-m1-macs.html"
+    ampWebUrl: "https://www.infoworld.com/article/3596904/apple-releases-tensorflow-fork-with-speedups-for-m1-macs.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3596904/apple-releases-tensorflow-fork-with-speedups-for-m1-macs.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 106
+    images:
+      - url: "https://images.techhive.com/images/article/2014/04/bolts-of-light-speeding-through-the-acceleration-tunnel-95535268-100264665-large.jpg"
+        width: 1200
+        height: 805
+        isCached: true
+
+secured: "EsG6Hp7X6+l6MBTP5iF4RA+yl5hnt0GxVn8cWhvbTRAdpMSg0vlLrp/QHkxmewEfk1sAmovhtOLFYeB7gs23cxLZBs+PQ+CtJbIdUYpBK4EtD1JbQa/R6O7stdI2W7m9Zuz2ynegHMpFPk//D4N4xuRfNEXeXdCC2S7dc2GxWOVU1cXpzvtoadk2Ix1X6+XdE9fcCPFs+879w7PMC2/D2ffE9K0Izqob06J1mK4Q5qaZoEQKWdobXULu+S51FfDq0ALkvH00lzB4DVs9+UgzPrJ/+hqR1tiQmgmPqg3oE36vWlmW8T4CgBpn9KRypS5OQr1Le/QAl3k2d+xnvvOxwujLnw/o/76Z0N5/qFf8ZkX++SAQENhsxRKlhYX029ZTMSbDkox4Czl4NZRBeV5zLX5NDQx+wZPlxfHSkoEDUXa6h+UOyfBIe+p7pPnzWtVCDXlDh+fsNDNTAhzOQwEPMRO+fpQkGAkpjbEKt7xIEFsIAdweS3yO88euu1xyRWpykYFW7zk62C2MLEl8hq+oGw==;E88pv61KKrrmpgINh/WvQA=="
 ---
 

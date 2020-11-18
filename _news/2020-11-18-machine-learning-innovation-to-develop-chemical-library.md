@@ -41,6 +41,15 @@ related:
         width: 800
         height: 486
         isCached: true
+  - title: "Machine learning innovation to develop chemical library"
+    excerpt: "Innovators are using machine learning models to create new options for drug discovery pipelines. Innovators have introduced chemical reactivity flowcharts to help chemists interpret reaction outcomes using statistically robust machine learning models ..."
+    publishedDateTime: 2020-11-18T21:26:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/11/201118080739.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "One-step multicomponent reaction with interpretable machine learning innovation to develop chemical library for drug discovery"
     excerpt: "Machine learning has been used widely in the chemical sciences for drug design and other processes. The models that are prospectively tested for new reaction outcomes and used to enhance human understanding to interpret chemical reactivity decisions made by such models are extremely limited."
     publishedDateTime: 2020-11-17T17:05:00Z

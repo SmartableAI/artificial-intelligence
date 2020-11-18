@@ -3,10 +3,10 @@ category: news
 title: "IBM acquires Instana, builds out application monitoring tools"
 excerpt: "Instana, which supports multiple containers and monitoring technologies, will be integrated with IBM's Watson AIOps platform."
 publishedDateTime: 2020-11-18T06:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/ibm-acquires-instana-builds-out-application-monitoring-tools/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/ibm-acquires-instana-builds-out-application-monitoring-tools/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/ibm-acquires-instana-builds-out-application-monitoring-tools/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/ibm-acquires-instana-builds-out-application-monitoring-tools/"
+originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-acquires-instana-builds-out-application-monitoring-tools/"
+webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-acquires-instana-builds-out-application-monitoring-tools/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-acquires-instana-builds-out-application-monitoring-tools/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-acquires-instana-builds-out-application-monitoring-tools/"
 type: article
 quality: 74
 heat: -1
@@ -116,6 +116,6 @@ related:
         height: 683
         isCached: true
 
-secured: "whwRbcgAwloZ63w0nyFDPolAwiljN8UxCRR84q/zmgcKGzTJyltey8qAXqcwvHzK0MCT2t4/Ai1Jql32R0Q6KSiApE16PaieQK3ubMN+QLzp3uaTexey8zA3EIRNjzcN9/d+Hlx8/mty2SuJGlFMcmLMkTljAY+Hwpibz2oxrKV14bhvDTZ/o6/5nvaHlIgG3E2tTdmU9yNG2SCOnj3uIeUzacJhpBvqgifLKs9pjPXDF9c11JaTZ4N0rDUk7kVESsZWiu2dZKtO3d42ZSJU5ffvn2DKi5xYfhrn6GzU1gckCKLWUqJOfIjnKUIfPdqfroqjrWqflVX/XWX8cMXyzG9n8+1JtpPC36A2IT6LXDU=;ztF2dKPktAs8f3znVRDRFg=="
+secured: "97CXgghtq01iUodJMWnMgAMg5A8EJEDAugd8/nVNbKiac183t7hXWYMwbjjzlBcRDyZbHCFDdiELTq5m2cljhtVFj7ck3v/akL/55WfdzOFuhzKinGnPj1PqXc9eRH92OvjBguCX9qigsSabJXHLeZ56O3MUjjtHARG3fmVVykVQz7XDSQsTp3zWnuk9cH48bF/1lVGyeSuutzZuyGseLnBet6uizGtjLH7HebVV2T9eKWiPHT8t5X9FRx5eu7XqZNdBUEGb08MjpaC45GCTHaWN95tIHD1qPhdPN6MLg0Bnbbn3A9JIXGGf2HdbM39xOcyu4D3S5q6PiyfzElh688opVq1XHQFC9WL1dcjV8/8=;cAq643nIBMfPeE7OTrfG1A=="
 ---
 
