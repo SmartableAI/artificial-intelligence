@@ -26,7 +26,7 @@
       "twitter": {
         "username": "tesla",
         "url": "https://twitter.com/tesla",
-        "followers": 6521887
+        "followers": 6522257
       },
       "size": "10,001+ employees",
       "yearFounded": 2003,
@@ -79,7 +79,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 63934
+        "followers": 63935
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -96,7 +96,7 @@
         "AI Hardware",
         "Computer Vision"
       ],
-      "heat": 240,
+      "heat": 239,
       "tags": [
         "Autonomous Vehicles",
         "Image Recognition"
@@ -135,7 +135,7 @@
       "twitter": {
         "username": "Uber",
         "url": "https://twitter.com/Uber",
-        "followers": 1048824
+        "followers": 1048831
       },
       "yearFounded": 0,
       "locations": [
@@ -235,7 +235,7 @@
       "twitter": {
         "username": "Waymo",
         "url": "https://twitter.com/Waymo",
-        "followers": 60337
+        "followers": 60333
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2009,
@@ -343,7 +343,7 @@
       "twitter": {
         "username": "cruise",
         "url": "https://twitter.com/cruise",
-        "followers": 16169
+        "followers": 16165
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -406,7 +406,7 @@
       "twitter": {
         "username": "zoox",
         "url": "https://twitter.com/zoox",
-        "followers": 12378
+        "followers": 12377
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2014,
@@ -525,7 +525,7 @@
       "twitter": {
         "username": "StarshipRobots",
         "url": "https://twitter.com/StarshipRobots",
-        "followers": 9583
+        "followers": 9584
       },
       "size": "201-500 employees",
       "yearFounded": 2014,
@@ -677,7 +677,7 @@
       "twitter": {
         "username": "May_Mobility",
         "url": "https://twitter.com/May_Mobility",
-        "followers": 1919
+        "followers": 1918
       },
       "size": "51-200 employees",
       "yearFounded": 2017,
@@ -793,7 +793,7 @@
       "twitter": {
         "username": "preferrednet",
         "url": "https://twitter.com/preferrednet",
-        "followers": 5208
+        "followers": 5207
       },
       "size": "11-50 employees",
       "yearFounded": 2014,
@@ -853,7 +853,7 @@
       "twitter": {
         "username": "tusimpleai",
         "url": "https://twitter.com/tusimpleai",
-        "followers": 2486
+        "followers": 2485
       },
       "size": "201-500 employees",
       "yearFounded": 2015,
@@ -906,7 +906,7 @@
       "twitter": {
         "username": "NAVYA_Group",
         "url": "https://twitter.com/NAVYA_Group",
-        "followers": 7399
+        "followers": 7400
       },
       "size": "201-500 employees",
       "yearFounded": 2014,
@@ -1135,7 +1135,7 @@
       "twitter": {
         "username": "NautoInc",
         "url": "https://twitter.com/NautoInc",
-        "followers": 3381
+        "followers": 3380
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -1240,7 +1240,7 @@
       "twitter": {
         "username": "CognitivePilot",
         "url": "https://twitter.com/CognitivePilot",
-        "followers": 1178
+        "followers": 1179
       },
       "yearFounded": 0,
       "locations": [
@@ -1447,7 +1447,7 @@
       "twitter": {
         "username": "MyEKar",
         "url": "https://twitter.com/MyEKar",
-        "followers": 734
+        "followers": 733
       },
       "size": "11-50 employees",
       "yearFounded": 2015,
