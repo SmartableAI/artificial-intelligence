@@ -79,22 +79,6 @@ related:
         width: 647
         height: 340
         isCached: true
-  - title: "Nigerian govt commissions artificial intelligence centre to create millions of jobs"
-    excerpt: "The Nigerian Government through the National Information Technology Development Agency, has launched its National Centre for Artificial Intelligence and"
-    publishedDateTime: 2020-11-13T12:16:00Z
-    webUrl: "https://dailypost.ng/2020/11/13/nigerian-govt-commissions-artificial-intelligence-centre-to-create-millions-of-jobs/"
-    ampWebUrl: "https://dailypost.ng/2020/11/13/nigerian-govt-commissions-artificial-intelligence-centre-to-create-millions-of-jobs/"
-    cdnAmpWebUrl: "https://dailypost-ng.cdn.ampproject.org/c/s/dailypost.ng/2020/11/13/nigerian-govt-commissions-artificial-intelligence-centre-to-create-millions-of-jobs/"
-    type: article
-    provider:
-      name: Daily Post Nigeria
-      domain: dailypost.ng
-    quality: 53
-    images:
-      - url: "https://dailypost.ng/wp-content/uploads/2020/06/Kashifu-Inuwa-Abdullahi.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Aarhus University links brain research and artificial intelligence in new centre"
     excerpt: "IBrain, a new cross-disciplinary centre at Aarhus University, aims at developing new brain interfacing technologies enabled by novel AI hardware. The centre - the first of its kind in Denmark - brings together world-leading neuroscience research from Aarhus University and the Danish Neuroscience Centre at Aarhus University Hospital with the goal of better understanding and treating neurological diseases,"
     publishedDateTime: 2020-11-16T16:01:00Z

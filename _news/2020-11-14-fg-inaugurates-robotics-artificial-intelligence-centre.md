@@ -9,7 +9,7 @@ ampWebUrl: "https://punchng.com/fg-inaugurates-robotics-artificial-intelligence-
 cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/fg-inaugurates-robotics-artificial-intelligence-centre/?amp=1"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -70,22 +70,6 @@ related:
       - url: "https://img.resized.co/businesspost/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvaW1lbmdpbmUucHVibGljLnByb2Quc2JwLmluZm9tYWtlci5pbz91dWlkPTkzMTQ4YzI2LTlmODUtNWUxNi05ZmIzLWY0NjEwMGU2MDQwYiZ0eXBlPXByZXZpZXcmcT04MCZoZWlnaHQ9MjE4Ny4zMjE0Mjg1NzE0JndpZHRoPTM4ODgmZnVuY3Rpb249Y3JvcHJlc2l6ZSZ4PTAmeT0wLjA5ODIxNDI4NTcxNDI4NTcxJmNyb3Bfdz0wLjk5OTk5OTk5JmNyb3BfaD0wLjgwMzU3MTQxODU3MTQzXCIsXCJ3aWR0aFwiOjY0NyxcImhlaWdodFwiOjM0MCxcImRlZmF1bHRcIjpcImh0dHA6XFxcL1xcXC9zMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbVxcXC9zdG9yYWdlLnB1Ymxpc2hlcnBsdXMuaWVcXFwvbWVkaWEuYnVzaW5lc3Nwb3N0LmllXFxcL3NicC1uby1pbWFnZS5wbmdcIn0iLCJoYXNoIjoiZWQ0OTNiOGQ4MTY3NmQ4ZGI2NTAzN2FlNjBjZmE3MDNkOTEyZmZmNCJ9/robot-centred-healthcare-systems-become-a-reality.80357141857143"
         width: 647
         height: 340
-        isCached: true
-  - title: "Nigerian govt commissions artificial intelligence centre to create millions of jobs"
-    excerpt: "The Nigerian Government through the National Information Technology Development Agency, has launched its National Centre for Artificial Intelligence and"
-    publishedDateTime: 2020-11-13T12:16:00Z
-    webUrl: "https://dailypost.ng/2020/11/13/nigerian-govt-commissions-artificial-intelligence-centre-to-create-millions-of-jobs/"
-    ampWebUrl: "https://dailypost.ng/2020/11/13/nigerian-govt-commissions-artificial-intelligence-centre-to-create-millions-of-jobs/"
-    cdnAmpWebUrl: "https://dailypost-ng.cdn.ampproject.org/c/s/dailypost.ng/2020/11/13/nigerian-govt-commissions-artificial-intelligence-centre-to-create-millions-of-jobs/"
-    type: article
-    provider:
-      name: Daily Post Nigeria
-      domain: dailypost.ng
-    quality: 53
-    images:
-      - url: "https://dailypost.ng/wp-content/uploads/2020/06/Kashifu-Inuwa-Abdullahi.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Pantami commissions centre for Artificial Intelligence, Robotics"
     excerpt: "Benjamin Babine, Abuja The Minister of Communications and Digital Economy, Dr. Isa Pantami has on Friday inaugurated the Centre"

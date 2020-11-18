@@ -43,20 +43,6 @@ related:
         width: 899
         height: 527
         isCached: true
-  - title: "Nvidia working on AMD SAM GPU performance boost facsimile"
-    excerpt: "Somewhat controversially AMD shared just one graph of indicative Radeon RX 6900 XT gaming benchmarks (pitted in 4K against the Nvidia GeForce RTX 3090) and it noted the Radeon machines had both Rage Mode and SAM turned on."
-    publishedDateTime: 2020-11-13T11:31:00Z
-    webUrl: "https://hexus.net/tech/news/graphics/146857-nvidia-working-amd-sam-gpu-performance-boost-facsimile/"
-    type: article
-    provider:
-      name: Hexus
-      domain: hexus.net
-    quality: 39
-    images:
-      - url: "https://hexus.net/media/uploaded/2020/11/603e545d-a08f-41b6-939a-ccd74c655a8a.jpg"
-        width: 515
-        height: 221
-        isCached: true
 
 secured: "vOT0NuJ3mp4tgFWqLdENmhiz+fKKhWoRLe0E55CmbIKzmGwKfEEsszD4G7bVkCfnOCCYOyga0l2NitdAOVB2BkSiuCwAndZ/uSU8xFHQAdyIaso3EDyyc3uMXCaYN7Wf64u/32khfKhDVgM7g0CBbnwjEYpWIHrm1wyz5NVH3jqMuOVTiqhKBdMTnVBfCnHQzKFcoeHmref0zC1YaNaQOBSRJr/Pno1zg3j1F47PNK53tX9oQssTr1yKRPUpf/m9c1K60q6epC7GYT2rwcRXOebx8pl4YTceoGobZKjC2V7qRDb5dhdVd6x555L6i+jPuud9VHPJbrFq8LheyEdssoWrJSLXu1XFqbzhe7bM/qi5S1ZqOU109oW7ZS/U/J3dIkWx84r6CQQtQPOde1iPxMsoxnZloYzmwiDoq+cq247bRVFwC06SHJlExVaB4CzPpcEeRs7jahOcOSFonV1aLFc+AuKB9Q0K8gAuNx+hmk57FTG3/Esyee+x9qeYYezjeP0vQuafxjP7zR9wHwwD3g==;nbMKZ/VJEjRWVxsVy8YVLQ=="
 ---

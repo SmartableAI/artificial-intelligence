@@ -1,32 +1,28 @@
 ---
 category: news
 title: "NXP Collaborates with Amazon Web Services (AWS) to Extend Connected Vehicle Opportunities"
-excerpt: "Expands access to vehicle Big Data and streamlines machine learning life cycle to accelerate vehicle development and post-sale vehicle enhancements NXP Semiconductors has announced a strategic relationship with Amazon Web Services (AWS) focused on extending the opportunities of connected vehicles."
-publishedDateTime: 2020-11-17T09:42:00Z
-originalUrl: "https://www.marketwatch.com/press-release/nxp-collaborates-with-amazon-web-services-aws-to-extend-connected-vehicle-opportunities-2020-11-17"
-webUrl: "https://www.marketwatch.com/press-release/nxp-collaborates-with-amazon-web-services-aws-to-extend-connected-vehicle-opportunities-2020-11-17"
+excerpt: "Vehicle edge-to-cloud compute solution aims to enable new automotive industry revenue opportunities Sets foundation for data-driven services and"
+publishedDateTime: 2020-11-17T07:20:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/nxp-collaborates-with-amazon-web-services-aws-to-extend-connected-vehicle-opportunities-1029809200"
+webUrl: "https://markets.businessinsider.com/news/stocks/nxp-collaborates-with-amazon-web-services-aws-to-extend-connected-vehicle-opportunities-1029809200"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/NXP-Collaborates-with-Amazon-Web-Services-AWS-to-Extend-Connected-Vehicle-Opportunities-1029809200"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/NXP-Collaborates-with-Amazon-Web-Services-AWS-to-Extend-Connected-Vehicle-Opportunities-1029809200"
 type: article
 quality: 75
 heat: 85
 published: true
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "NXP collaborates with AWS on connected vehicle services"
@@ -39,6 +35,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "B0H81laCHu+tehhpmEjffqfUIL8BkjtTzCY/MBx6dBrjqYz5iVG8fFcgaW8tpd/qA26czfc/nDAJkF2VPqhgz5NaYVIjNVNLm0k4rwCUM9EDGkjKL8hv+KSoII+LBuSssCGJXW2EyrUzOdpzIbuHVv2R+fcyE10fErhvTQ+S/V0KALcJpIQcRk0EAYObxKj+6UBH4Zz2GJGBmS+EWB5WgmLRE2erNxWaUWJSx1Z7FbAj7WYeXO+pXfelFnDV+PwAdc839tEjQFdZ5kd88akzaNS3lZKCAeeClIodv4tT39x8fm+H10r/0pV9S+6qsF23jH+8EoFJdvNdcAJO5t06Solhc4V267KJe8pZSFyZ5V8=;nO9DpaziNa4GKDj0Ua5Cyw=="
+secured: "JqUKa4e4j+co0OTunkYptbEnUWBXgZxA3nIbIcOff9EInUXkhC+wcmdLs1QB1P18CCHaKluSwDS4mHq8gss5zdPFVj9+GW7YwBBWiVgrlZ4Bb81GAD+Sf0pf/ew6RfM9Tk2W4znV8GH80p0dNl+jYSBbyin1LunXvJWA2V8ZKm8x885Owhh+GnprYU/Ts9c5iBAXuHm41ogbnVm9KfsNBcaMVafkKQn+uHn76A6O2lDdNNEMcU3KLBNbV9eSIPc4jaFjIpTw2bKUH7/fOtQ26hNxa33ZstKwQRgDvuhf0ND/dy+/Fpw7CahUuEysTo3WVl6CqB9NebuWhyl7ZM6mftrQkSsV0i9imoovGuu1YUg=;AT59XnvN6sR13NyIb7GAkA=="
 ---
 

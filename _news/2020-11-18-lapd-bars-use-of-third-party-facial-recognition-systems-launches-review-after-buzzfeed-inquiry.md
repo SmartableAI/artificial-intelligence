@@ -1,24 +1,30 @@
 ---
 category: news
-title: "New Orleans Police Dept. Admits to Facial Recognition Use"
-excerpt: "After years of denial, NOPD has confirmed the use of the technology. Officials have remained vague on details, including the specific software, the frequency of use and how long the tech has been used."
-publishedDateTime: 2020-11-17T21:42:00Z
-originalUrl: "https://www.governing.com/security/New-Orleans-Police-Dept-Admits-to-Facial-Recognition-Use.html"
-webUrl: "https://www.governing.com/security/New-Orleans-Police-Dept-Admits-to-Facial-Recognition-Use.html"
-ampWebUrl: "https://www.governing.com/security/New-Orleans-Police-Dept-Admits-to-Facial-Recognition-Use.html?AMP"
-cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/New-Orleans-Police-Dept-Admits-to-Facial-Recognition-Use.html?AMP"
+title: "LAPD bars use of third-party facial recognition systems, launches review after BuzzFeed inquiry"
+excerpt: "LAPD bars the use of outside facial recognition platforms after learning some detectives had used a commercial software platform"
+publishedDateTime: 2020-11-18T03:50:00Z
+originalUrl: "https://www.latimes.com/california/story/2020-11-17/lapd-bars-outside-facial-recognition-use-as-buzzfeed-inquiry-spurs-investigation"
+webUrl: "https://www.latimes.com/california/story/2020-11-17/lapd-bars-outside-facial-recognition-use-as-buzzfeed-inquiry-spurs-investigation"
+ampWebUrl: "https://www.latimes.com/california/story/2020-11-17/lapd-bars-outside-facial-recognition-use-as-buzzfeed-inquiry-spurs-investigation?_amp=true"
+cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2020-11-17/lapd-bars-outside-facial-recognition-use-as-buzzfeed-inquiry-spurs-investigation?_amp=true"
 type: article
-quality: 39
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Governing
-  domain: governing.com
+  name: Los Angeles Times
+  domain: latimes.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/b867d52/2147483647/strip/true/crop/1620x1058+0+11/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe2%2F72%2F2e3c57de4ac19ff232b6ef52212f%2Fnewsom-presser-11-16-la-thmb.jpg"
+    width: 320
+    height: 209
+    isCached: true
 
 related:
   - title: "The LAPD Just Banned Its Officers From Using Third-Party Facial Recognition Software"
@@ -69,22 +75,6 @@ related:
         width: 600
         height: 439
         isCached: true
-  - title: "LAPD bars use of third-party facial recognition systems, launches review after BuzzFeed inquiry"
-    excerpt: "LAPD bars the use of outside facial recognition platforms after learning some detectives had used a commercial software platform"
-    publishedDateTime: 2020-11-18T03:50:00Z
-    webUrl: "https://www.latimes.com/california/story/2020-11-17/lapd-bars-outside-facial-recognition-use-as-buzzfeed-inquiry-spurs-investigation"
-    ampWebUrl: "https://www.latimes.com/california/story/2020-11-17/lapd-bars-outside-facial-recognition-use-as-buzzfeed-inquiry-spurs-investigation?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2020-11-17/lapd-bars-outside-facial-recognition-use-as-buzzfeed-inquiry-spurs-investigation?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 47
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/b867d52/2147483647/strip/true/crop/1620x1058+0+11/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe2%2F72%2F2e3c57de4ac19ff232b6ef52212f%2Fnewsom-presser-11-16-la-thmb.jpg"
-        width: 320
-        height: 209
-        isCached: true
   - title: "LAPD bans using third-party facial recognition software after discovering detectives did so without permission"
     excerpt: "The Los Angeles Police Department has barred officers and detectives from using outside facial recognition platforms in their investigations after uncovering a handful of detectives had used a"
     publishedDateTime: 2020-11-18T03:17:00Z
@@ -101,7 +91,18 @@ related:
         width: 840
         height: 560
         isCached: true
+  - title: "New Orleans Police Dept. Admits to Facial Recognition Use"
+    excerpt: "After years of denial, NOPD has confirmed the use of the technology. Officials have remained vague on details, including the specific software, the frequency of use and how long the tech has been used."
+    publishedDateTime: 2020-11-17T21:42:00Z
+    webUrl: "https://www.governing.com/security/New-Orleans-Police-Dept-Admits-to-Facial-Recognition-Use.html"
+    ampWebUrl: "https://www.governing.com/security/New-Orleans-Police-Dept-Admits-to-Facial-Recognition-Use.html?AMP"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/New-Orleans-Police-Dept-Admits-to-Facial-Recognition-Use.html?AMP"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 39
 
-secured: "r0YfRNDKwOAYTAx7Vz0XfmRGzwqd8vNR1fXP56RaxllFV2WR43KVrwdCclsNt7AbJKrZD0NK7tFAjTHmIZxyxjqSA2EDkeAcbWeFKOG5JxAqpvdL/qzYzXe/1wzIVwEXARSRrvJ1Nso1VI+4z5NMmLTZ1kt3fR1XLMdl39vuSH89Qqvf0JsJoB54RnO1jH+seaoP3nzTYXceG70zXJPmWTzQzFzocKRd+PVvnub8V8ampNAB9K+4ASrZnZ8DZiqpo+WeDBRMfYNDyXmUsLlrCF/Xee5k52VfGy5OWEcuQADe1IO3PRTFE0thtk0hG3GTtl/0maZn0/j5cP0s1I7iiRt+9Qoj+h2LHLy3WSGIVk0=;pEW2qVzne4nkZiWw+fAvHg=="
+secured: "nc/227+Lr62XKRe6IDmX/9TgGzEScHlrt5N3b6+Ads0B/TT1U0a96ZftbZFxvcAxS1ZjSx/fOGKJXb98OOfjSTOhnrxsF4V3YpDpu0HoyRb3PfIBkslVn2s5Ba2gJYgdF3M97vYdwW4NIRgwqAQ7CWDmxC6ms3PZbi0PRzJThyuAUpWKL9p/nglVNtzlwtEhIwkupoFE1trI1jt/RouFc+z0v93iIsd0XVvv5nEb2JyPy69J4bqhiKh+X7j/G9Sx2qVLo9uOA41CiWL1/U7m2taC8dz8QK2cXjOofhuShJhrCRikRUSPDE8do7Nv7/YBBo4qL4VQXi2Eac+qqEymf73ul47ZoQSZY/gJBgaH7WY=;imMtE4zhF3u/8szkHpQ/WA=="
 ---
 

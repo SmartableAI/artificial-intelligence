@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2020/11/15/its-managers-n
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/11/15/its-managers-not-workers-who-are-losing-jobs-to-ai-and-robots-study-shows/amp/"
 type: article
 quality: 101
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 801
     isCached: true
-
-related:
-  - title: "With more automated jobs, workers need artificial intelligence skills"
-    excerpt: "As the coronavirus pandemic pushes more jobs to become automated, workers need to gain skills to program and run artificial intelligence."
-    publishedDateTime: 2020-11-13T11:44:00Z
-    webUrl: "https://ktar.com/story/3694808/with-more-automated-jobs-workers-need-artificial-intelligence-skills/"
-    ampWebUrl: "https://ktar.com/story/3694808/with-more-automated-jobs-workers-need-artificial-intelligence-skills/amp/"
-    cdnAmpWebUrl: "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/3694808/with-more-automated-jobs-workers-need-artificial-intelligence-skills/amp/"
-    type: article
-    provider:
-      name: KTAR News
-      domain: ktar.com
-    quality: 57
-    images:
-      - url: "https://ktar.com/wp-content/uploads/2019/06/artificial-intelligence-3382507_1920-620x370.jpg"
-        width: 620
-        height: 370
-        isCached: true
 
 secured: "bPRUMt/zj16lmArVE04NQ1vowCR7EuFQjtdZyZztlucG88g/gP250VngwiME8k26guL9NEk2G4HeOl4MkL8Ks5ojhZEbKTQW+78S5UaWFrALCf1fKHIPuNAN33VzRT5+/FALlC7OghQTzo4FMlb4GOzrl6SOBlPZsTUYxNlD3PLJM2+omRWZxOYTep9B6e+3BzPWUI4jI2OsOS7ne8YZTFYIVlj9HRD715K7gxjGqAvU6MYAVSEG6ZjlpNEGfnbdjRSW0pPstbn1iZOxQxcGXH0Nsj5CtDFoGhFN5bDqUsNcYX7NGvhLlgFMm3WbEEUesYdCHwxWkpH4AIAzudEQYFINsNvKagIk63g/2KcS2zsEkkh4A2RGQBT7j7eh4mn5ePHK9Tc5/ot2aMIMxIY+ET5KsyGYoRCvPWt7aK6qa1/50XCwlTO6OVg71+C7WZqBzgr2sp9J2AfbzYrtkmsSZNmpd7gRV6pzOLz2N4gW/JSiGe4QUHbfqSHBA3tvMFnd2auwPEPhdtzPswR4gny67w==;7BJleVdAvIroCov2o0VvOg=="
 ---

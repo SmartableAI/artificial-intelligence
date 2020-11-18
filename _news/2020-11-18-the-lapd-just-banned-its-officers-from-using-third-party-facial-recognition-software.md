@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/the-lapd-just-banned-its-officers-from-using-thi
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/the-lapd-just-banned-its-officers-from-using-third-part-1845702878/amp"
 type: article
 quality: 82
-heat: 112
+heat: 132
 published: true
 
 provider:
@@ -63,6 +63,38 @@ related:
         width: 600
         height: 439
         isCached: true
+  - title: "LAPD bars use of third-party facial recognition systems, launches review after BuzzFeed inquiry"
+    excerpt: "LAPD bars the use of outside facial recognition platforms after learning some detectives had used a commercial software platform"
+    publishedDateTime: 2020-11-18T03:50:00Z
+    webUrl: "https://www.latimes.com/california/story/2020-11-17/lapd-bars-outside-facial-recognition-use-as-buzzfeed-inquiry-spurs-investigation"
+    ampWebUrl: "https://www.latimes.com/california/story/2020-11-17/lapd-bars-outside-facial-recognition-use-as-buzzfeed-inquiry-spurs-investigation?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2020-11-17/lapd-bars-outside-facial-recognition-use-as-buzzfeed-inquiry-spurs-investigation?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 47
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/b867d52/2147483647/strip/true/crop/1620x1058+0+11/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe2%2F72%2F2e3c57de4ac19ff232b6ef52212f%2Fnewsom-presser-11-16-la-thmb.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "LAPD bans using third-party facial recognition software after discovering detectives did so without permission"
+    excerpt: "The Los Angeles Police Department has barred officers and detectives from using outside facial recognition platforms in their investigations after uncovering a handful of detectives had used a"
+    publishedDateTime: 2020-11-18T03:17:00Z
+    webUrl: "https://ktla.com/news/local-news/lapd-bans-using-third-party-facial-recognition-software-after-discovering-detectives-did-so-without-permission/"
+    ampWebUrl: "https://ktla.com/news/local-news/lapd-bans-using-third-party-facial-recognition-software-after-discovering-detectives-did-so-without-permission/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/local-news/lapd-bans-using-third-party-facial-recognition-software-after-discovering-detectives-did-so-without-permission/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 39
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2020/06/download-1-13.jpeg?w=1280"
+        width: 840
+        height: 560
+        isCached: true
   - title: "New Orleans Police Dept. Admits to Facial Recognition Use"
     excerpt: "After years of denial, NOPD has confirmed the use of the technology. Officials have remained vague on details, including the specific software, the frequency of use and how long the tech has been used."
     publishedDateTime: 2020-11-17T21:42:00Z
@@ -75,6 +107,6 @@ related:
       domain: governing.com
     quality: 39
 
-secured: "2rgYxf2XYyf5Fc6pMM35wVJM0CnC0WFAdK7j7auTi1LG6xR0NwjYA9vkZDF1B3yWfnEod0PFsgWmoEnhgaaeSkYkiopB1Nalf+RLSVlEbRIjwBgQ0ewTWyf3EosG8Krow3OtpPJk/M/9UYvwLqKSxYcHs31kGvfaIz0CgANSUc2i8NVhvOkPqV40gkJ9Wbhbxm45gbAOFVh6EBZkqG4nc8YGtPcTXelwoO/5D7gqimpiHmAvsj9GIWd99nAj+g5C6rF3qVdmbErirpRwvTvYUuHvob7jsop7CNhpgiz4Ih3D6FkZtbpsaQDKp324qT9vYiWA+8JoBCTHeq95QnHL2ej8tWLT6D1L2UmCpF5zDtM=;zvHUp8FIcbGgCvAcgt8vLA=="
+secured: "/1WxjIgFP+UcKIulHQ+CTVo5yrT+acXtRDJe3tI/dEWa0DyvsiXWGsncwmFX7aOhz2FdeIqSrf8I9TeTJPVBEbCg4Ik+Ozu4/Bu46y/svm+cpQQvsqu6G1Ode/SlRC5QVrN05MU316DG9+AmNyUZpK+S9pA1PpAN8GMEKsMK2eHcL2zlIR+n9S4IlPfzOzgTRAvgXCN/Bsgq54Rc833jts3ebts5GfiFjZMmjyONq3MNWgEix//evKwYyp9/4tzEJJZn7aYi2yb1wW8gc9HVVnssez1Ww4bHDFlDAMGMq+3WDIn0UT3Gf9qg5B9iylel8SeNmIOS+1mWhOfvAwrFnPnKsR803cljcMnUO2CNlQqi77QyI7tAptch+fDtHzj9EEIJFHpz1JzwZ5y3mY4RALYjmfE7ePtLszjmFpClvv2Lr3aYWZBLzVMQzaTXJySjozWzgTxh1DG3oZsc8MA3qL2TjTgeMeePDeJDyopvij+0ZFXfxBuAZxiXvCqu1jQd6I4mcneHh1xVMmSSUuFgxQ==;MSAiKLpuyH5JMx3UIRkXCw=="
 ---
 

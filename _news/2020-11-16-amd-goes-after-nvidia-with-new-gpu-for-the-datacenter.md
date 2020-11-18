@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2020/11/16/amd-goes-after-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/11/16/amd-goes-after-nvidia-with-new-gpu-for-the-datacenter/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://content.jwplatform.com/thumbs/8Fgk3jSA-720.jpg"
         width: 720
         height: 406
-        isCached: true
-  - title: "Nvidia working on AMD SAM GPU performance boost facsimile"
-    excerpt: "Somewhat controversially AMD shared just one graph of indicative Radeon RX 6900 XT gaming benchmarks (pitted in 4K against the Nvidia GeForce RTX 3090) and it noted the Radeon machines had both Rage Mode and SAM turned on."
-    publishedDateTime: 2020-11-13T11:31:00Z
-    webUrl: "https://hexus.net/tech/news/graphics/146857-nvidia-working-amd-sam-gpu-performance-boost-facsimile/"
-    type: article
-    provider:
-      name: Hexus
-      domain: hexus.net
-    quality: 39
-    images:
-      - url: "https://hexus.net/media/uploaded/2020/11/603e545d-a08f-41b6-939a-ccd74c655a8a.jpg"
-        width: 515
-        height: 221
         isCached: true
 
 secured: "gCeNIEfCIDBYQnEY+a66QwdfKNIeszYiKUT8xcVsu3WCRfPPstYZZkhSC3svM2yZPfMou4C9zRLwPikVIC6Lt4LBQ/E8nDFptmD9FuXDx5wnui6EnAobhJakB3I4T+lAiHQMtjNqekWCznHNE6ltwJtjWMANQA4L8XlUUykdoX3gR6W/uMSQbXfWeqpsX0vxgwa0IXTrTRBgUfsWjTbCTpW7+TCikiZ5DZSQT+b5NH7z0VdKyb/AqvLrzY7mluOkdLsYHPLDXTN2tLkF/oU/qTQaYQUVRu+MOSR+duDIXguZMdP95hohoX3n6XtWFMm+YDHcBB8Y5C6qs7weJ3xZWaA/j9+gGxH0aUH1ek72EmVrbfZl50ObkZWzXoxJTDeBixuxCZbH96SPK23nXQ9SCLc6PuE8mLN34dfNbvLCowbp8o8D5neSzD2AnlrZ93iKLYqvKp7DjqHo/2aYcaHadzE3Wj3ozYFLDbKPQXmi9Yi6FpInPCJxT6IdTjur91H3DZiM96vR6EaJulzr9hQvOA==;w2ivTshNywRGXoOIkyxUww=="

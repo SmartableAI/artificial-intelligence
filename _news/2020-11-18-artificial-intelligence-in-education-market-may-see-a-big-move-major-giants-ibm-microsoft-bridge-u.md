@@ -1,29 +1,32 @@
 ---
 category: news
-title: "Onevinn AB Joins the Microsoft Intelligent Security Association"
-excerpt: "Onevinn offers Managed Detection and Response (MDR) services on the Microsoft Azure Marketplace and deepens collaboration with Microsoft"
-publishedDateTime: 2020-11-16T08:17:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/onevinn-ab-joins-the-microsoft-intelligent-security-association-1029804729"
-webUrl: "https://markets.businessinsider.com/news/stocks/onevinn-ab-joins-the-microsoft-intelligent-security-association-1029804729"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/onevinn-ab-joins-the-microsoft-intelligent-security-association-1029804729"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/onevinn-ab-joins-the-microsoft-intelligent-security-association-1029804729"
+title: "Artificial Intelligence In Education Market May See a Big Move | Major Giants IBM, Microsoft, Bridge-U"
+excerpt: "AMA Research have added latest edition of survey study on Artificial Intelligence In Education Market with 100 market data Tables Pie Chat Graphs Figures spread through Pages and easy to understand detailed analysis At present the market is developing its"
+publishedDateTime: 2020-11-18T04:26:00Z
+originalUrl: "https://www.openpr.com/news/2189267/artificial-intelligence-in-education-market-may-see-a-big-move"
+webUrl: "https://www.openpr.com/news/2189267/artificial-intelligence-in-education-market-may-see-a-big-move"
+ampWebUrl: "https://www.openpr.com/amp/2189267/artificial-intelligence-in-education-market-may-see-a-big-move"
+cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2189267/artificial-intelligence-in-education-market-may-see-a-big-move"
 type: article
-quality: 86
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: openpr.com
+  domain: openpr.com
 
 topics:
-  - Microsoft AI
+  - AWS AI
   - AI
-  - AI in Security
+  - AI in Education
+  - Microsoft AI
+
+images:
+  - url: "https://cdn.openpr.com/T/b/Tb18430928_g.jpg"
+    width: 800
+    height: 448
+    isCached: true
 
 related:
   - title: "Microsoft's new Azure data services explained"
@@ -80,22 +83,17 @@ related:
         width: 800
         height: 800
         isCached: true
-  - title: "Artificial Intelligence In Education Market May See a Big Move | Major Giants IBM, Microsoft, Bridge-U"
-    excerpt: "AMA Research have added latest edition of survey study on Artificial Intelligence In Education Market with 100 market data Tables Pie Chat Graphs Figures spread through Pages and easy to understand detailed analysis At present the market is developing its"
-    publishedDateTime: 2020-11-18T04:26:00Z
-    webUrl: "https://www.openpr.com/news/2189267/artificial-intelligence-in-education-market-may-see-a-big-move"
-    ampWebUrl: "https://www.openpr.com/amp/2189267/artificial-intelligence-in-education-market-may-see-a-big-move"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2189267/artificial-intelligence-in-education-market-may-see-a-big-move"
+  - title: "Onevinn AB Joins the Microsoft Intelligent Security Association"
+    excerpt: "Onevinn offers Managed Detection and Response (MDR) services on the Microsoft Azure Marketplace and deepens collaboration with Microsoft"
+    publishedDateTime: 2020-11-16T08:17:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/onevinn-ab-joins-the-microsoft-intelligent-security-association-1029804729"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/onevinn-ab-joins-the-microsoft-intelligent-security-association-1029804729"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/onevinn-ab-joins-the-microsoft-intelligent-security-association-1029804729"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 77
-    images:
-      - url: "https://cdn.openpr.com/T/b/Tb18430928_g.jpg"
-        width: 800
-        height: 448
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 86
   - title: "Stradigi AI Launches the Kepler™ AI Platform Powered by Microsoft Azure"
     excerpt: "Stradigi AI, a North American Artificial Intelligence software company, is pleased to announce that its cloud-based Kepler Platform is"
     publishedDateTime: 2020-11-17T13:00:00Z
@@ -164,6 +162,6 @@ related:
         height: 368
         isCached: true
 
-secured: "NGu0l2jSAiADk50s126oB69MVd0UiP4nVsnt335KALbsm0W/GW0erCKf2BBiF9eCuR06ZOsnAa3IUxVknqTd9dEHJCcdFJISBA2fWazlMHDKckhM16YHvSKxU3DpzieP2zVRtyC+ddRvzMp+nE23k6zkErxsvuJsq9cQZrjz154S/bGiicZQdgWp05RgNQV8vEQatpuzQnSg/tjvtGK+ZDZefMHzqQCj1/4tv1c92NCTniCj0rS2hDBVozp2ej8uZufnrHj5Pp/T+km9Kn5U5cLPl0fMp8cLHFUP+x1B3qY9EPHAXYYrAsr7eEZYq03M2hfKE8bg5/ELVjYE4A9RXVKUNCpHdbk00+ghGhLUtHg=;maVKrP/+1PMiJ8/DhRdOXw=="
+secured: "1BiBHk1a5/CU6GcD0srAeWe/TUk0MZRJIRaQoGstLtdLacsn4LVuyCDurWHNF8GmZhlXxR14CL2PQhliHioGJ6kmJdwsMZBaTMoWUKcRLg4PXfhXmSFS7z0VmsKouS2llFVGGBna91TdQXx3lzSm5yFoW8BNCKkHk9CVeg4KPfkTmkTQpFyhA9KjWN0PpL0BTI3BqRuwRf+AxSllbQ2lnJ2c383EalhTklSG7j8vtRtjQxw0GkMp+0zyByumb+C1+SA8MbwHVNsxyWeRaAem91KPToEWKx41l1k/lUz8w5nz/auiAjSm9//fil+P6c6e8MvTmJek9BmEvaEENgZeBCo2gamjzlWCFkZ7N2jla+8=;aehsPaqR2wnVvjBkR20DYA=="
 ---
 

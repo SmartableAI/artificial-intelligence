@@ -84,22 +84,6 @@ related:
         width: 647
         height: 340
         isCached: true
-  - title: "Nigerian govt commissions artificial intelligence centre to create millions of jobs"
-    excerpt: "The Nigerian Government through the National Information Technology Development Agency, has launched its National Centre for Artificial Intelligence and"
-    publishedDateTime: 2020-11-13T12:16:00Z
-    webUrl: "https://dailypost.ng/2020/11/13/nigerian-govt-commissions-artificial-intelligence-centre-to-create-millions-of-jobs/"
-    ampWebUrl: "https://dailypost.ng/2020/11/13/nigerian-govt-commissions-artificial-intelligence-centre-to-create-millions-of-jobs/"
-    cdnAmpWebUrl: "https://dailypost-ng.cdn.ampproject.org/c/s/dailypost.ng/2020/11/13/nigerian-govt-commissions-artificial-intelligence-centre-to-create-millions-of-jobs/"
-    type: article
-    provider:
-      name: Daily Post Nigeria
-      domain: dailypost.ng
-    quality: 53
-    images:
-      - url: "https://dailypost.ng/wp-content/uploads/2020/06/Kashifu-Inuwa-Abdullahi.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Pantami commissions centre for Artificial Intelligence, Robotics"
     excerpt: "Benjamin Babine, Abuja The Minister of Communications and Digital Economy, Dr. Isa Pantami has on Friday inaugurated the Centre"
     publishedDateTime: 2020-11-14T08:13:00Z

@@ -1,24 +1,30 @@
 ---
 category: news
-title: "New Orleans Police Dept. Admits to Facial Recognition Use"
-excerpt: "After years of denial, NOPD has confirmed the use of the technology. Officials have remained vague on details, including the specific software, the frequency of use and how long the tech has been used."
-publishedDateTime: 2020-11-17T21:42:00Z
-originalUrl: "https://www.governing.com/security/New-Orleans-Police-Dept-Admits-to-Facial-Recognition-Use.html"
-webUrl: "https://www.governing.com/security/New-Orleans-Police-Dept-Admits-to-Facial-Recognition-Use.html"
-ampWebUrl: "https://www.governing.com/security/New-Orleans-Police-Dept-Admits-to-Facial-Recognition-Use.html?AMP"
-cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/New-Orleans-Police-Dept-Admits-to-Facial-Recognition-Use.html?AMP"
+title: "LAPD bans using third-party facial recognition software after discovering detectives did so without permission"
+excerpt: "The Los Angeles Police Department has barred officers and detectives from using outside facial recognition platforms in their investigations after uncovering a handful of detectives had used a"
+publishedDateTime: 2020-11-18T03:17:00Z
+originalUrl: "https://ktla.com/news/local-news/lapd-bans-using-third-party-facial-recognition-software-after-discovering-detectives-did-so-without-permission/"
+webUrl: "https://ktla.com/news/local-news/lapd-bans-using-third-party-facial-recognition-software-after-discovering-detectives-did-so-without-permission/"
+ampWebUrl: "https://ktla.com/news/local-news/lapd-bans-using-third-party-facial-recognition-software-after-discovering-detectives-did-so-without-permission/amp/"
+cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/local-news/lapd-bans-using-third-party-facial-recognition-software-after-discovering-detectives-did-so-without-permission/amp/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Governing
-  domain: governing.com
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://ktla.com/wp-content/uploads/sites/4/2020/06/download-1-13.jpeg?w=1280"
+    width: 840
+    height: 560
+    isCached: true
 
 related:
   - title: "The LAPD Just Banned Its Officers From Using Third-Party Facial Recognition Software"
@@ -85,23 +91,18 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "LAPD bans using third-party facial recognition software after discovering detectives did so without permission"
-    excerpt: "The Los Angeles Police Department has barred officers and detectives from using outside facial recognition platforms in their investigations after uncovering a handful of detectives had used a"
-    publishedDateTime: 2020-11-18T03:17:00Z
-    webUrl: "https://ktla.com/news/local-news/lapd-bans-using-third-party-facial-recognition-software-after-discovering-detectives-did-so-without-permission/"
-    ampWebUrl: "https://ktla.com/news/local-news/lapd-bans-using-third-party-facial-recognition-software-after-discovering-detectives-did-so-without-permission/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/local-news/lapd-bans-using-third-party-facial-recognition-software-after-discovering-detectives-did-so-without-permission/amp/"
+  - title: "New Orleans Police Dept. Admits to Facial Recognition Use"
+    excerpt: "After years of denial, NOPD has confirmed the use of the technology. Officials have remained vague on details, including the specific software, the frequency of use and how long the tech has been used."
+    publishedDateTime: 2020-11-17T21:42:00Z
+    webUrl: "https://www.governing.com/security/New-Orleans-Police-Dept-Admits-to-Facial-Recognition-Use.html"
+    ampWebUrl: "https://www.governing.com/security/New-Orleans-Police-Dept-Admits-to-Facial-Recognition-Use.html?AMP"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/New-Orleans-Police-Dept-Admits-to-Facial-Recognition-Use.html?AMP"
     type: article
     provider:
-      name: KTLA
-      domain: ktla.com
+      name: Governing
+      domain: governing.com
     quality: 39
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2020/06/download-1-13.jpeg?w=1280"
-        width: 840
-        height: 560
-        isCached: true
 
-secured: "r0YfRNDKwOAYTAx7Vz0XfmRGzwqd8vNR1fXP56RaxllFV2WR43KVrwdCclsNt7AbJKrZD0NK7tFAjTHmIZxyxjqSA2EDkeAcbWeFKOG5JxAqpvdL/qzYzXe/1wzIVwEXARSRrvJ1Nso1VI+4z5NMmLTZ1kt3fR1XLMdl39vuSH89Qqvf0JsJoB54RnO1jH+seaoP3nzTYXceG70zXJPmWTzQzFzocKRd+PVvnub8V8ampNAB9K+4ASrZnZ8DZiqpo+WeDBRMfYNDyXmUsLlrCF/Xee5k52VfGy5OWEcuQADe1IO3PRTFE0thtk0hG3GTtl/0maZn0/j5cP0s1I7iiRt+9Qoj+h2LHLy3WSGIVk0=;pEW2qVzne4nkZiWw+fAvHg=="
+secured: "CH+pq01X3yvXLXZNEhzDkHnODZ8ijH7m8oTa+8i43mnN6JaD3aO/tbY9aztGyIHlFbI2dRutfuVmRPVlhPYt25vVAiN1AiXZt6LyXW27h5ooMM38iTh45idLJeteW0swmJv678BiLnYuC/VkXpZ8+q061UUu6eidUgi5Tlv1itldamniyF6OybwfkS5uMIwkrjAmt8FoBq43DonorvLV3anMSvBUwpTtK2gQZG7QodCxEeHUqnC/BYmJn42dKdfZo4ssSFLlZYvqB/ZW4FQj3lhRlUYf+uCidKjM/oi7gWc2Cj6Er3yOPUFnOFdNGNbwpxoTe6m6RzcqxXavg2q2jryxSAnybiboFpaUbsKMvWA=;JCMdxFQLdEo7xr9ebzimsg=="
 ---
 

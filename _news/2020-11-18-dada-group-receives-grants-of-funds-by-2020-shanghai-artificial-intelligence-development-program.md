@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Dada Group Receives Grants of Funds by 2020 Shanghai Artificial Intelligence Development Program"
-excerpt: "China's leading local on-demand delivery and retail platform, is pleased to announce that the company has received grants of funds by 2020 Shanghai Artificial Intelligence Innovation and Development Program."
-publishedDateTime: 2020-11-18T02:50:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/267012765/dada-group-receives-grants-of-funds-by-2020-shanghai-artificial-intelligence-development-program"
-webUrl: "https://www.bignewsnetwork.com/news/267012765/dada-group-receives-grants-of-funds-by-2020-shanghai-artificial-intelligence-development-program"
+excerpt: "\"Integrated Product Recommendation System Based on Deep Learning Algorithm for Local On-demand Retail\" (Product Recommendation System) is created by JDDJ, the on-demand retail platform of Dada Group and has been selected for Shanghai's 2020 Artificial Intelligence Innovation and Development Program."
+publishedDateTime: 2020-11-18T04:22:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/dada-group-receives-grants-of-funds-by-2020-shanghai-artificial-intelligence-development-program-1029813798"
+webUrl: "https://markets.businessinsider.com/news/stocks/dada-group-receives-grants-of-funds-by-2020-shanghai-artificial-intelligence-development-program-1029813798"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/Dada-Group-Receives-Grants-of-Funds-by-2020-Shanghai-Artificial-Intelligence-Development-Program-1029813798"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Dada-Group-Receives-Grants-of-Funds-by-2020-Shanghai-Artificial-Intelligence-Development-Program-1029813798"
 type: article
-quality: 39
-heat: 39
+quality: 69
+heat: 69
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://cdn.bignewsnetwork.com/cus1605639292962.jpg"
-    width: 630
-    height: 420
-    isCached: true
-
-secured: "5qJdgpdXlCdolAszxrx7EjqIRPwgJPvG12Rgk0hqs0rmrAbEtFYQOIGNO34UHmstxioAqmFQvw0tfbMdX25Q3gRS16C1fz50xLKdoBF3/Fp1IcqFDtjoem7H/nUHbJTddd6SUbkSGRcjspvJFO+YHS6rSjbYjDpyXI4DnO5QImmsNfX5GsYOmjJ0548L8qCET5A0QzJHxfDqPFR4w/Qy5Hc4ztxIQxmRhrsG35hH2MGxWVZE/IJf+HbSsUWKq6gK0LKnKIHNSc0v7GSwRR4/FhU/pacAx2tlArXn5RuhzH08bxgOv0vxyeU7sglQq8tK/qeVvOlLR9R2vXssR/oJfIPzqQsxj1f13mXzMeAxRiY=;uNwgGkrGnFFVAOgxvxgs1A=="
+secured: "NX3NWYeu+5zmJFSQk9+fXzVhGlV+upq2VpHUgGO87wgd4MFPJOyJQWmhN3MMBsFb2eTlXUH6V5iswuTzf5rJxX5eAfqSvIsqURKpPqiOxez4REGcJU5cNwFeQaTkw3jssNda7oTnyFssiG4bL6SSjb4O5crGJfCiMq8XYDIdlnvvUQJK+hVjUW6P8gNWCTNOY4mSvpluQ7BGdClcG0+pDDDsLZeHEsuuF3/STO/fm/CY5WCPyKjZas5he4tJ+8H/4zoMl+JHdfvsw5wOa3iccjTiiqJBlp7aXpn8p4CTIOA5njNj7n586ol/f/AUxL8nT007pJZ1Yie7Xlp2ZA1+lpXBsW0DoTb62bF5erZ0xNs=;wbVvzFufcIyMhfa2MaE8mQ=="
 ---
 
